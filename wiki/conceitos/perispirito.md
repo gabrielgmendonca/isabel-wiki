@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
-tags: [perispirito, corpo-espiritual, fluidos]
-atualizado_em: 2026-04-05
+fontes: [LE, Gênese]
+tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico]
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -30,10 +30,24 @@ O homem é, portanto, composto de **três partes**: corpo material, alma (Espír
 
 Após a morte, o perispírito **persiste** junto ao Espírito, conservando a aparência da última encarnação (LE, q. 150, letra a).
 
+## Aprofundamento em A Gênese
+
+O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o perispírito:
+
+- **Origem fluídica**: "O perispírito [...] é um dos mais importantes produtos do fluido cósmico; é uma condensação desse fluido em torno de um foco de inteligência ou alma" (Gênese, cap. XIV, item 7). Corpo carnal e perispírito "têm pois origem no mesmo elemento primitivo; ambos são matéria, ainda que em dois estados diferentes" (Gênese, cap. XIV, item 7).
+- **Variação conforme o mundo**: "Do meio onde se encontra é que o Espírito extrai o seu perispírito [...]. Os elementos constitutivos do perispírito naturalmente variam, conforme os mundos" (Gênese, cap. XIV, item 8).
+- **Variação conforme o grau moral**: "a constituição íntima do perispírito não é idêntica em todos os Espíritos". O envoltório "se modifica com o progresso moral que este realiza em cada encarnação" (Gênese, cap. XIV, item 10).
+- **Irradiação fluídica**: o perispírito não se circunscreve ao corpo — "irradia ao seu derredor e o envolve como que de uma atmosfera fluídica" (Gênese, cap. XIV, item 18). Por essa expansão, o encarnado se relaciona com Espíritos livres e com outros encarnados.
+- **Couraça moral**: "O perispírito, portanto, é uma couraça a que se deve dar a melhor têmpera possível. Ora, como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la" (Gênese, cap. XIV, item 21).
+
 ## Páginas relacionadas
 
+- [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação
+- [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos
 - [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 93–94, q. 135, q. 150. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *A Gênese*, cap. XIV, itens 7–12, 18, 21. Trad. Guillon Ribeiro. FEB.

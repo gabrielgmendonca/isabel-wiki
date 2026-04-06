@@ -1,6 +1,6 @@
 ---
 tipo: entidade
-fontes: [LE, ESE]
+fontes: [LE, ESE, Gênese]
 tags: [jesus, cristo, modelo-moral]
 atualizado_em: 2026-04-06
 status: ativo
@@ -28,10 +28,17 @@ O ESE organiza-se inteiramente em torno dos ensinamentos morais de Jesus, extrai
 
 > "Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus? — Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas." (LE, q. 886)
 
+## Papel em A Gênese
+
+O cap. XV de *A Gênese* analisa a "superioridade da natureza de Jesus" e explica os milagres do Evangelho pela teoria dos fluidos e das leis naturais — curas, possessos, aparições, transfiguração, desaparecimento do corpo (Gênese, cap. XV). Jesus é apresentado como Espírito de ordem elevadíssima, cuja ação sobre os fluidos espirituais explica os fenômenos atribuídos a ele sem recurso ao sobrenatural.
+
+A promessa do Consolador (João 14–16) é comentada no cap. XVII: Kardec identifica o Consolador prometido com a revelação espírita (Gênese, cap. XVII, seção "Anunciação do Consolador").
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — modelo e guia da Humanidade (LE, q. 625).
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — foco central da obra; suas maximas e parabolas sao comentadas ao longo dos 28 capitulos.
+- [[wiki/obras/genese]] — milagres de Jesus explicados (cap. XV); Consolador (cap. XVII).
 
 ## Páginas relacionadas
 

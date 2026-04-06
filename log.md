@@ -47,3 +47,18 @@ Páginas atualizadas (11):
 - **Entidades** (3): `santo-agostinho`, `jesus` (atualizados com papel no ESE), `erasto` (criado).
 
 Cross-refs incluídos: versículos do NT (~100+ referências a S. Mateus, S. Lucas, S. João, S. Marcos, S. Paulo) e questões do LE por mapeamento temático. `index.md` atualizado com obra, parábolas e entidade. Nenhuma divergência — fonte é nível 1 (Pentateuco).
+
+## [2026-04-06] ingest | A Gênese, os Milagres e as Predições Segundo o Espiritismo (Kardec, trad. Guillon Ribeiro)
+
+Ingest completo da Gênese. Fonte: `raw/kardec/pentateuco/genese.md` (11.125 linhas, 18 capítulos + Introdução).
+
+Páginas criadas (8):
+- **Obra** (1): `wiki/obras/genese.md`
+- **Conceitos novos** (7): `fluido-cosmico-universal`, `fluidos`, `origem-do-mal`, `raca-adamica`, `emigracoes-e-imigracoes-dos-espiritos`, `transicao-planetaria`, `geracao-nova`.
+
+Páginas atualizadas (6):
+- **Conceitos do LE** (3): `deus` (Providência, visão de Deus, imutabilidade das leis), `principio-vital` (como modificação do fluido cósmico, analogia elétrica), `perispirito` (origem fluídica, variação conforme mundo e grau moral, irradiação, couraça moral).
+- **Entidades** (2): `allan-kardec` (links para obras), `jesus` (milagres explicados, Consolador).
+- **index.md** atualizado com obra e todos os novos conceitos.
+
+Nenhuma divergência — fonte é nível 1 (Pentateuco).

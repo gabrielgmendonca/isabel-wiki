@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** duas obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE) e *O Evangelho Segundo o Espiritismo* (ESE). Última atualização: 2026-04-06.
+> **Status:** três obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Evangelho Segundo o Espiritismo* (ESE) e *A Gênese* (Gênese). Última atualização: 2026-04-06.
 
 ---
 
@@ -10,6 +10,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 - [[wiki/obras/livro-dos-espiritos]] — Pentateuco, obra fundadora (1857/1860). 1.019 questões em 4 partes.
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — Pentateuco, moral evangélica à luz espírita (1864). 28 capítulos.
+- [[wiki/obras/genese]] — Pentateuco, Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
 
 ## Conceitos
 
@@ -21,8 +22,10 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/escala-espirita]] — classificação em três ordens.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — LE, q. 55–58.
 
-### Princípio vital
-- [[wiki/conceitos/principio-vital]] — fluido vital, elo entre espírito e matéria (LE, q. 60–75).
+### Princípio vital e fluidos
+- [[wiki/conceitos/principio-vital]] — fluido vital, elo entre espírito e matéria (LE, q. 60–75; Gênese, cap. X).
+- [[wiki/conceitos/fluido-cosmico-universal]] — substância primitiva única, matéria-mãe do universo (LE, q. 27–29; Gênese, cap. VI).
+- [[wiki/conceitos/fluidos]] — modificações do fluido cósmico: espirituais, vitais, magnéticos (Gênese, cap. XIV).
 
 ### Encarnação, reencarnação e progresso
 - [[wiki/conceitos/encarnacao]] — objetivo e mecânica (LE, q. 132–148).
@@ -60,6 +63,15 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 ### Esperanças e consolações (Parte 4 do LE)
 - [[wiki/conceitos/suicidio]] — infração da lei de conservação, consequências espirituais (LE, q. 943–957).
 - [[wiki/conceitos/penas-e-gozos-futuros]] — natureza moral das penas, rejeição da eternidade absoluta (LE, q. 958–1.019).
+
+### Origem do mal
+- [[wiki/conceitos/origem-do-mal]] — o mal como ausência do bem, fruto da imperfeição e do livre-arbítrio (Gênese, cap. III).
+
+### Cosmogonia e mundos
+- [[wiki/conceitos/raca-adamica]] — colônia de Espíritos migrada de outro mundo (Gênese, cap. XI).
+- [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] — renovação espiritual entre mundos (Gênese, cap. XI).
+- [[wiki/conceitos/transicao-planetaria]] — a Terra em trânsito para mundo de regeneração (ESE, cap. III; Gênese, cap. XVIII).
+- [[wiki/conceitos/geracao-nova]] — Espíritos mais adiantados que protagonizam a renovação (Gênese, cap. XVIII).
 
 ### Conceitos do ESE (O Evangelho Segundo o Espiritismo)
 - [[wiki/conceitos/vida-futura]] — a vida além-túmulo como eixo do ensino do Cristo (ESE, caps. II–III).

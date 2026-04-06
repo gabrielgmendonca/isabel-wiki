@@ -1,6 +1,6 @@
 ---
 tipo: entidade
-fontes: [LE]
+fontes: [LE, ESE, Gênese]
 tags: [codificador, kardec, rivail]
 atualizado_em: 2026-04-05
 status: ativo
@@ -41,6 +41,8 @@ Kardec não se atribui autoria doutrinária, mas função de **coordenador**: as
 ## Páginas relacionadas
 
 - [[wiki/obras/livro-dos-espiritos]]
+- [[wiki/obras/evangelho-segundo-o-espiritismo]]
+- [[wiki/obras/genese]]
 - [[wiki/entidades/espiritos-reveladores]]
 
 ## Fontes

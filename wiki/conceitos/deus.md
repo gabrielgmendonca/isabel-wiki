@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
-tags: [deus, causa-primaria, atributos-divinos]
-atualizado_em: 2026-04-05
+fontes: [LE, Gênese]
+tags: [deus, causa-primaria, atributos-divinos, providencia]
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -26,12 +26,22 @@ Kardec, na q. 13, lista os atributos: **eterno, infinito, imutável, imaterial, 
 
 Deus é um ser distinto, **causa e não efeito** — refutação direta ao panteísmo (LE, q. 14). O panteísmo é explicitamente combatido: Deus não é a resultante das forças e inteligências do Universo (LE, q. 14).
 
+## Aprofundamento em A Gênese
+
+O cap. II de *A Gênese* retoma e desenvolve os atributos de Deus:
+
+- **Providência**: Deus vela incessantemente pela execução de suas leis; "os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores" (Gênese, cap. XVIII, item 3). A Providência não é intervenção caprichosa, mas ação constante por leis imutáveis.
+- **Visão de Deus**: os sentidos materiais não podem perceber Deus; essa impossibilidade é condição da encarnação, não limitação de Deus (Gênese, cap. II, seção "A visão de Deus").
+- **Imutabilidade das leis**: "Deus prova a sua grandeza e o seu poder pela imutabilidade das suas leis e não pela ab-rogação delas" — epígrafe da obra.
+
 ## Desdobramentos na wiki
 
 - A criação das coisas e dos seres: [[wiki/conceitos/reencarnacao]] (Deus cria todos os Espíritos simples e ignorantes — LE, q. 115).
 - A lei divina = lei natural: [[wiki/conceitos/lei-natural]].
 - Justiça e bondade de Deus como fundamento da reencarnação: (LE, q. 171).
+- O mal não procede de Deus: [[wiki/conceitos/origem-do-mal]].
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 1, Cap. I (q. 1–16). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *A Gênese*, cap. II; cap. XVIII, item 3. Trad. Guillon Ribeiro. FEB.
