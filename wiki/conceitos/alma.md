@@ -42,7 +42,7 @@ Um Espírito não pode encarnar simultaneamente em dois corpos: "o Espírito é 
 
 ## Após a morte
 
-A alma conserva sua individualidade perpetuamente (LE, q. 150). Continua a possuir o perispírito, que guarda a aparência da última encarnação. Ver [[wiki/conceitos/morte-e-pos-morte]].
+A alma conserva sua individualidade perpetuamente (LE, q. 150). Continua a possuir o perispírito, que guarda a aparência da última encarnação. Ver [[wiki/conceitos/morte]].
 
 ## Páginas relacionadas
 

@@ -25,7 +25,7 @@ Na primeira evocação, encontrava-se em plena perturbação: não compreendia s
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/prece]]
 
 ## Fontes

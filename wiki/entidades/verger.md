@@ -30,7 +30,7 @@ Monsenhor Sibour, evocado, declarou que perdoava seu assassino e orava pelo seu 
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/livre-arbitrio]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 
 ## Fontes
 

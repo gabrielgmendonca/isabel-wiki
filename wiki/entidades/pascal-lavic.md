@@ -25,7 +25,7 @@ Sofreu terrivelmente. Seu Espírito permaneceu preso ao corpo e vagueou com ele 
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/prece]]
 - [[wiki/conceitos/expiacao]]
 

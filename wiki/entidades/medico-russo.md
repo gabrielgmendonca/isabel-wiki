@@ -33,7 +33,7 @@ Descreveu regiões tão resplandecentes do fogo divino que ofuscam mesmo atravé
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 
 ## Fontes
 

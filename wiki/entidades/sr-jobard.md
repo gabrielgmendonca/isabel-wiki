@@ -31,7 +31,7 @@ Recordava-se de suas existências anteriores, inclusive de ter sido operário me
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 
 ## Fontes
 

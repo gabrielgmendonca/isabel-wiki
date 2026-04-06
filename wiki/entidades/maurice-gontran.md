@@ -30,7 +30,7 @@ Dirige-se aos pais para consolá-los: "Consolai-vos, portanto, pois não morri; 
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/suicidio]] — desespero como "verdadeiro suicídio"

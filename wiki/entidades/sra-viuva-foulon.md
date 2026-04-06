@@ -29,7 +29,7 @@ Relatou ter sido conduzida por Espíritos irmãos rumo a um mundo feliz, superio
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/caridade]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]

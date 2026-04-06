@@ -68,7 +68,7 @@ A obra se divide em **duas partes**: a primeira doutrinária (11 capítulos), a 
 - **Código penal da vida futura** → [[wiki/conceitos/codigo-penal-da-vida-futura]]
 - **Céu, inferno e purgatório desmaterializados** → [[wiki/conceitos/ceu]], [[wiki/conceitos/inferno]], [[wiki/conceitos/purgatorio]]
 - **Anjos e demônios segundo o Espiritismo** → [[wiki/conceitos/anjos]], [[wiki/conceitos/demonios]]
-- **Passagem e perturbação pós-morte** → [[wiki/conceitos/morte-e-pos-morte]], [[wiki/conceitos/perturbacao]]
+- **Passagem e perturbação pós-morte** → [[wiki/conceitos/morte]], [[wiki/conceitos/perturbacao]]
 - **Expiação e reparação** → [[wiki/conceitos/expiacao-e-reparacao]]
 - **Proibição de evocar os mortos** → [[wiki/conceitos/proibicao-de-evocar-os-mortos]]
 - **O futuro e o nada** → [[wiki/conceitos/futuro-e-o-nada]]

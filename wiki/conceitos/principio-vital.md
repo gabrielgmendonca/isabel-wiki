@@ -59,7 +59,7 @@ O conceito de princípio vital fundamenta a compreensão espírita da saúde e d
 - [[wiki/conceitos/espirito]] — princípio inteligente, distinto do vital
 - [[wiki/conceitos/perispirito]] — envoltório semimaterial, também ligado ao fluido universal
 - [[wiki/conceitos/alma]] — Espírito encarnado, que reúne princípio vital e inteligente
-- [[wiki/conceitos/morte-e-pos-morte]] — cessação do princípio vital
+- [[wiki/conceitos/morte]] — cessação do princípio vital
 - [[wiki/obras/livro-dos-espiritos]] — cap. IV da Parte 1
 - [[wiki/obras/genese]] — cap. X, itens 16–19; cap. XI, item 6
 

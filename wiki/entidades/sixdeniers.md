@@ -30,7 +30,7 @@ Embora bom de coração, não tinha fé em vida, o que lhe custou um período de
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

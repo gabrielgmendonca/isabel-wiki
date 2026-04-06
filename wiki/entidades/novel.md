@@ -25,7 +25,7 @@ Sofreu intensamente após a morte. O desprendimento foi difícil por causa dos f
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/prece]]
 

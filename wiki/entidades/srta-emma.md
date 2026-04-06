@@ -29,7 +29,7 @@ Reconheceu que o anjo guardião e Espíritos amigos a assistiram durante as long
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

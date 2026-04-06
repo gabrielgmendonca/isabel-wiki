@@ -31,7 +31,7 @@ Sobre seu túmulo, dirigiu palavras tocantes à esposa e aos presentes, pedindo 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/entidades/sr-sanson]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/fe-raciocinada]]
 
 ## Fontes

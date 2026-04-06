@@ -33,7 +33,7 @@ Viu-se rodeado de Espíritos protetores que lhe sorriam. Pôde contemplar seu pr
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/fe-raciocinada]]
 

@@ -64,7 +64,7 @@ Para palestras e estudos, o tema é particularmente útil para desfazer dois equ
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/perispirito]]
 - [[wiki/conceitos/alma]]
 - [[wiki/conceitos/vida-espirita]]

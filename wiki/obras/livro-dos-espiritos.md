@@ -153,7 +153,7 @@ Texto de Kardec sintetizando os resultados da obra e respondendo a objeções:
 - **Princípio vital e fluido vital** → [[wiki/conceitos/principio-vital]]
 - **Encarnação e seus objetivos** → [[wiki/conceitos/encarnacao]]
 - **Reencarnação e pluralidade das existências** → [[wiki/conceitos/reencarnacao]], [[wiki/conceitos/pluralidade-das-existencias]]
-- **Morte e vida espírita** → [[wiki/conceitos/morte-e-pos-morte]], [[wiki/conceitos/vida-espirita]]
+- **Morte e vida espírita** → [[wiki/conceitos/morte]], [[wiki/conceitos/vida-espirita]]
 - **Emancipação da alma (sono, sonhos, êxtase)** → [[wiki/conceitos/emancipacao-da-alma]]
 - **Pluralidade dos mundos habitados** → [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
 - **Livre-arbítrio e responsabilidade** → [[wiki/conceitos/livre-arbitrio]]

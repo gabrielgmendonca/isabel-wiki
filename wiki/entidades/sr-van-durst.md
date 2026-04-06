@@ -30,7 +30,7 @@ Após o despertar, maravilhou-se com o novo mundo — formas ligeiras de Espíri
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/perturbacao]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/fe-raciocinada]]
 
 ## Fontes

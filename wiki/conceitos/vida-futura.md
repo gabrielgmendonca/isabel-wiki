@@ -45,7 +45,7 @@ A compreensão da vida futura é fundamental para a consolação nos momentos de
 ## Páginas relacionadas
 
 - [[wiki/conceitos/penas-e-gozos-futuros]] — condições do Espírito após a morte
-- [[wiki/conceitos/morte-e-pos-morte]] — o processo de desencarnação
+- [[wiki/conceitos/morte]] — o processo de desencarnação
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — categoria de mundo a que pertence a Terra
 - [[wiki/conceitos/reencarnacao]] — mecanismo de progresso pela pluralidade das existências
 - [[wiki/conceitos/vida-espirita]] — o intervalo entre encarnações

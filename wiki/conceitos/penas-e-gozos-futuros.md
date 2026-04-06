@@ -74,7 +74,7 @@ Este conjunto de ensinos é central para a consolação espírita: a certeza de 
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/morte-e-pos-morte]] — o processo de desencarnação
+- [[wiki/conceitos/morte]] — o processo de desencarnação
 - [[wiki/conceitos/vida-espirita]] — estado do Espírito entre encarnações
 - [[wiki/conceitos/reencarnacao]] — mecanismo de progresso e expiação
 - [[wiki/conceitos/progresso-espiritual]] — finalidade última

@@ -29,7 +29,7 @@ Em contraste, a alma de quem morre sem fé "se dilacera e palpita escapando do c
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/entidades/sr-sanson]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/caridade]]
 
 ## Fontes

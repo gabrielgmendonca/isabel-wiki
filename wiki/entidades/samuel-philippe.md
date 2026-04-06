@@ -30,7 +30,7 @@ Viu-se rodeado de pessoas queridas já falecidas. A comunicação de pensamentos
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

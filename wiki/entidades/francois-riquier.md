@@ -25,7 +25,7 @@ Cinco anos após a morte, ainda não acreditava estar morto. Atormentava-se vend
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/avareza]]
 - [[wiki/conceitos/desligamento-do-espirito]]
 

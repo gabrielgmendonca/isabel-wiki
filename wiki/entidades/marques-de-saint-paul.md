@@ -26,7 +26,7 @@ Encontra-se em estado de erraticidade, condição transitória que não traz fel
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/erraticidade]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 
 ## Fontes
 

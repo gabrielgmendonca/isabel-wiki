@@ -60,14 +60,14 @@ A **dificuldade do desprendimento** depende da força de aderência entre corpo 
 
 Na morte violenta, como nenhuma desagregação parcial ocorreu, o desprendimento é mais penoso: "O Espírito, pego de improviso, fica como que atordoado; mas, sentindo que pensa, acredita que ainda está vivo" (C&I, 2ª parte, cap. I, item 12).
 
-Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte-e-pos-morte]].
+Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte]].
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação
 - [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos que o perispírito viabiliza
-- [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/morte]]
 - [[wiki/obras/livro-dos-mediuns]] — 1ª parte, cap. I; 2ª parte, caps. IV, VI–VII
 - [[wiki/conceitos/perturbacao]] — estado pós-morte ligado ao desprendimento perispiritual
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21

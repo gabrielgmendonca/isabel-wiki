@@ -1,16 +1,18 @@
 ---
 tipo: conceito
-fontes: [LE, C&I]
-tags: [morte, desencarnacao, separacao-alma-corpo]
+fontes: [LE, C&I, Gênese]
+tags: [morte, desencarnacao, separacao-alma-corpo, perispirito, vida-espirita, perturbacao]
 atualizado_em: 2026-04-06
 status: ativo
 ---
 
-# Morte e pós-morte imediato
+# Morte
+
+Separação definitiva do Espírito e do corpo, pela ruptura do laço perispiritual que os unia. No ensino espírita, a morte não é o fim, mas uma transição: o Espírito se liberta do corpo e retorna à vida espiritual, conservando sua individualidade, suas lembranças e o grau moral que adquiriu.
 
 ## Definição
 
-A morte é o **retorno do Espírito ao mundo espiritual** após o fim da vida corpórea. Tratada na Parte 2, Cap. III (q. 149–165).
+A morte é o **retorno do Espírito ao mundo espiritual** após o fim da vida corpórea (LE, Parte 2, cap. III, q. 149–165).
 
 > "Volta a ser Espírito, isto é, volve ao mundo dos Espíritos, donde se apartara momentaneamente." (LE, q. 149)
 

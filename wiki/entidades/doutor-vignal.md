@@ -29,7 +29,7 @@ Descreveu a separação como uma "oscilação descontínua, uma espécie de arra
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/morte]]
 - [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/fe-raciocinada]]
 

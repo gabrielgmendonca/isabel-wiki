@@ -56,7 +56,7 @@ A compreensão da emancipação da alma fundamenta a atitude espírita diante do
 ## Páginas relacionadas
 
 - [[wiki/conceitos/vida-espirita]] — estado permanente do Espírito desencarnado
-- [[wiki/conceitos/morte-e-pos-morte]] — libertação definitiva vs. parcial
+- [[wiki/conceitos/morte]] — libertação definitiva vs. parcial
 - [[wiki/conceitos/perispirito]] — veículo do Espírito na emancipação
 - [[wiki/conceitos/livre-arbitrio]] — o Espírito emancipado pode não obedecer à vontade do corpo
 - [[wiki/conceitos/mediunidade]] — sonambulismo mediúnico como forma de emancipação

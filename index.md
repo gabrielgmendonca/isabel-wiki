@@ -33,13 +33,35 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/encarnacao]] — objetivo e mecânica (LE, q. 132–148).
 - [[wiki/conceitos/reencarnacao]] — justiça divina e pluralidade das existências (LE, q. 166–222).
 - [[wiki/conceitos/pluralidade-das-existencias]] — a sucessão de vidas.
-- [[wiki/conceitos/morte-e-pos-morte]] — desencarnação (LE, q. 149–165).
+- [[wiki/conceitos/morte]] — desencarnação, separação Espírito-corpo, perturbação pós-morte (LE, q. 149–165; C&I).
+- [[wiki/conceitos/desligamento-do-espirito]] — processo gradual de separação do Espírito no momento da morte.
+- [[wiki/conceitos/ligacao-espirito-corpo]] — união Espírito-corpo pelo perispírito, da concepção à morte.
 - [[wiki/conceitos/vida-espirita]] — estado errante entre encarnações.
+- [[wiki/conceitos/erraticidade]] — condição do Espírito entre encarnações, escolha das provas (LE, q. 223–236).
+- [[wiki/conceitos/separacao-e-reencontro]] — a morte separa corpos, não Espíritos; reencontro na erraticidade e na reencarnação.
 - [[wiki/conceitos/emancipacao-da-alma]] — sono, sonhos, sonambulismo, êxtase (LE, q. 400–455).
 - [[wiki/conceitos/progresso-espiritual]] — finalidade da criação.
 - [[wiki/conceitos/livre-arbitrio]] — liberdade e responsabilidade.
 
+### Justiça divina e consequências morais
+- [[wiki/conceitos/lei-de-causa-e-efeito]] — toda ação produz consequência proporcional, no plano físico e moral.
+- [[wiki/conceitos/expiacao]] — sofrimento consequente às faltas, oportunidade de progresso (LE; C&I).
+- [[wiki/conceitos/arrependimento]] — primeiro passo da reabilitação moral (LE, q. 990–1009; C&I).
+- [[wiki/conceitos/provas-e-expiacoes]] — provas educativas vs. expiações reparadoras (LE; C&I; ESE).
+- [[wiki/conceitos/responsabilidade]] — cada Espírito responde por seus atos na medida de seu entendimento.
+
+### Virtudes e vícios
+- [[wiki/conceitos/fe]] — sentimento inato, consciência do destino; fé cega vs. raciocinada (ESE, cap. XIX).
+- [[wiki/conceitos/humildade]] — reconhecimento das próprias limitações, antídoto do orgulho (ESE, cap. VII).
+- [[wiki/conceitos/resignacao]] — aceitação serena das provas, fundada na compreensão (ESE, cap. V).
+- [[wiki/conceitos/confianca-em-deus]] — segurança interior pela compreensão da Providência (ESE, cap. XXV).
+- [[wiki/conceitos/egoismo]] — vício capital, "chaga da sociedade", raiz dos males (LE; ESE).
+- [[wiki/conceitos/orgulho]] — sentimento exagerado do próprio valor, barreira entre homem e Deus (LE; ESE).
+- [[wiki/conceitos/avareza]] — apego excessivo aos bens materiais, forma de egoísmo (ESE, cap. XVI).
+- [[wiki/conceitos/materialismo]] — negação da alma e da vida futura, fruto do orgulho (LE, q. 147–148).
+
 ### Leis morais (Parte 3 do LE)
+- [[wiki/conceitos/lei-moral]] — conjunto das leis divinas que regem a vida moral, inscrita na consciência (LE, Parte 3).
 - [[wiki/conceitos/lei-natural]] — lei divina, guarda-chuva das demais (LE, q. 614–648).
 - [[wiki/conceitos/lei-de-adoracao]] — prece e culto (LE, q. 649–673).
 - [[wiki/conceitos/lei-do-trabalho]] — LE, q. 674–685.

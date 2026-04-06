@@ -103,3 +103,13 @@ Páginas atualizadas (4):
 - **Conceitos** (4): `morte-e-pos-morte` (mecanismo da passagem, apreensão), `penas-e-gozos-futuros` (código penal, refutação das penas eternas), `suicidio` (9 relatos da 2ª parte), `perispirito` (papel na separação alma-corpo).
 
 `index.md` atualizado com obra, conceitos, e 67 entidades organizadas por capítulo. Pentateuco completo.
+
+## [2026-04-06] lint | 20 achados — links de conceitos quebrados
+
+Lint completo da wiki após ingestão do Pentateuco. 155 páginas auditadas: frontmatter, `## Fontes`, formato de citação, links de entidades/obras — tudo OK. Único problema: 20 links `[[wiki/conceitos/...]]` apontando para páginas inexistentes.
+
+Ações tomadas:
+- **Merge**: `morte-e-pos-morte.md` → `morte.md` (26 links atualizados).
+- **Correção de links**: 6 refs a `perturbacao-espirita` → `perturbacao`.
+- **18 conceitos criados**: `expiacao`, `fe`, `arrependimento`, `erraticidade`, `lei-de-causa-e-efeito`, `provas-e-expiacoes`, `egoismo`, `orgulho`, `materialismo`, `humildade`, `resignacao`, `responsabilidade`, `desligamento-do-espirito`, `ligacao-espirito-corpo`, `lei-moral`, `confianca-em-deus`, `avareza`, `separacao-e-reencontro`.
+- `index.md` atualizado com novas seções "Justiça divina e consequências morais" e "Virtudes e vícios".

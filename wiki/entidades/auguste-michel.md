@@ -25,7 +25,7 @@ Passou por perturbação intensa e prolongada. Dias após a morte, ainda se sent
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/perturbacao-espirita]]
+- [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/prece]]
 - [[wiki/conceitos/materialismo]]
 

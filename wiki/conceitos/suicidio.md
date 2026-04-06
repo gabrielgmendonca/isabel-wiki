@@ -63,7 +63,7 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-conservacao]] — lei moral que o suicídio transgride
-- [[wiki/conceitos/morte-e-pos-morte]] — o processo natural de desencarnação
+- [[wiki/conceitos/morte]] — o processo natural de desencarnação
 - [[wiki/conceitos/penas-e-gozos-futuros]] — consequências morais pós-morte
 - [[wiki/conceitos/livre-arbitrio]] — responsabilidade pelas escolhas
 - [[wiki/conceitos/progresso-espiritual]] — a vida como oportunidade de avanço

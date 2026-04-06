@@ -34,7 +34,7 @@ Os Espíritos não ficam ociosos: concorrem para a harmonia do Universo executan
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/morte]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] — penas e gozos no estado espiritual
 - [[wiki/conceitos/emancipacao-da-alma]] — contato com o mundo espírita durante o sono
 
