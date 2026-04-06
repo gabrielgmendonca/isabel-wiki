@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE]
 tags: [erraticidade, espiritos-errantes, entre-vidas]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -35,6 +35,8 @@ Os Espíritos não ficam ociosos: concorrem para a harmonia do Universo executan
 ## Páginas relacionadas
 
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/conceitos/penas-e-gozos-futuros]] — penas e gozos no estado espiritual
+- [[wiki/conceitos/emancipacao-da-alma]] — contato com o mundo espírita durante o sono
 
 ## Fontes
 

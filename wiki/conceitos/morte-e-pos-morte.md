@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE]
 tags: [morte, desencarnacao, separacao-alma-corpo]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -31,6 +31,9 @@ Após a morte, há um período de **perturbação** em que o Espírito, ainda co
 ## Páginas relacionadas
 
 - [[wiki/conceitos/alma]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/reencarnacao]]
+- [[wiki/conceitos/penas-e-gozos-futuros]] — condições morais pós-morte
+- [[wiki/conceitos/suicidio]] — caso particular de morte violenta e suas consequências
+- [[wiki/conceitos/emancipacao-da-alma]] — libertação parcial (sono) vs. definitiva (morte)
 
 ## Fontes
 

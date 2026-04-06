@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, ESE]
 tags: [cosmologia, mundos-habitados, vida-extraterrestre]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -22,6 +22,14 @@ A constituição física dos globos **difere** — nenhum se assemelha integralm
 
 A pluralidade de mundos é o **espaço de trânsito** do Espírito em progresso: pode reencarnar no mesmo globo ou passar a mundos superiores (LE, q. 173). Ver [[wiki/conceitos/reencarnacao]].
 
+### No ESE
+
+O cap. III do ESE desenvolve a classificação dos mundos habitados em categorias progressivas: **mundos primitivos** (primeiras encarnações), **mundos de expiação e provas** (onde predominam o mal e o sofrimento — a Terra é um deles), **mundos regeneradores** (em que o mal começa a desaparecer), **mundos felizes** (onde o bem supera o mal) e **mundos celestes** (morada dos Espíritos purificados) (ESE, cap. III, itens 3–5).
+
+Essa escala complementa o ensino do LE sobre a diversidade dos globos, detalhando as condições morais de cada categoria e a progressão do Espírito de um tipo de mundo a outro.
+
+Ver [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
+
 ## Contra o antropocentrismo
 
 Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o privilégio de conter seres racionais (LE, q. 55). A infinitude de Deus manifesta-se no povoamento do Universo.
@@ -33,3 +41,4 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 55–58. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.

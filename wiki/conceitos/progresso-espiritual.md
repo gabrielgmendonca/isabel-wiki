@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, ESE]
 tags: [progresso, evolucao-espiritual, perfeicao, finalidade]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -26,6 +26,16 @@ O Espírito **não retrograda**: pode estacionar, mas cada prova concluída deix
 
 O progresso moral **decorre** do progresso intelectual, mas nem sempre o segue imediatamente (LE, q. 780). A inteligência, ao fazer compreensíveis o bem e o mal, permite ao homem escolher; o desenvolvimento do livre-arbítrio acompanha o da inteligência e **aumenta a responsabilidade** (LE, q. 780, letra a).
 
+### No ESE
+
+O ESE desenvolve o progresso espiritual sob múltiplos ângulos:
+
+- **Cap. III** — Apresenta a **progressão dos mundos**: o Espírito ascende de mundos primitivos a mundos de expiação e provas, regeneradores, felizes e celestes, sempre por mérito próprio (ESE, cap. III, itens 3–5). Ver [[wiki/conceitos/mundos-de-expiacao-e-provas]].
+- **Cap. XVII** — "Sede perfeitos": a perfeição moral é a **meta** do progresso; Kardec detalha os caracteres do homem de bem e os deveres do espírita consequente (ESE, cap. XVII).
+- **Cap. XX** — "Os trabalhadores da última hora": ensina que **nunca é tarde** para iniciar ou retomar o caminho do bem. A parábola dos trabalhadores ilustra que Deus acolhe a todos conforme o esforço, independentemente do momento em que começaram (ESE, cap. XX). Ver [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]].
+
+Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
+
 ## Progresso da Humanidade
 
 A Humanidade, em seu conjunto, progride — embora em meio a abusos e recuos aparentes. "Faz-se mister que o mal chegue ao excesso, para tornar compreensível a necessidade do bem e das reformas." (LE, q. 784)
@@ -39,3 +49,4 @@ Ver [[wiki/conceitos/lei-do-progresso]].
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 115–122, q. 780–784. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. III, XVII e XX. Trad. Guillon Ribeiro. FEB.

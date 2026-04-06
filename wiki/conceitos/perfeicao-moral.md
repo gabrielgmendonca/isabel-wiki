@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, ESE]
 tags: [perfeicao-moral, virtudes, vicios, paixoes, egoismo, auto-conhecimento]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -44,6 +44,14 @@ Enquanto o egoísmo não for atacado pela raiz, os demais vícios não se extirp
 
 A resposta está na reforma moral individual e no progresso geral — educação, leis e costumes que desencorajem o egoísmo.
 
+### No ESE
+
+O cap. XVII do ESE — "Sede perfeitos" — retoma e aprofunda o tema da perfeição moral à luz do Evangelho. Kardec detalha os **caracteres da perfeição** e apresenta o célebre retrato do **homem de bem** (ESE, cap. XVII, item 3): aquele que pratica a lei de justiça, de amor e de caridade na sua maior pureza; que interroga a consciência sobre seus atos e pergunta se não violou a lei de Deus.
+
+O capítulo também discute os **bons espíritas** — distinguindo a crença teórica da prática efetiva — e retoma a **parábola do semeador** para ilustrar que a palavra do bem só frutifica quando cai em terreno preparado pela boa vontade.
+
+Ver [[wiki/conceitos/homem-de-bem]] · [[wiki/conceitos/parabola-do-semeador]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]]
@@ -51,3 +59,4 @@ A resposta está na reforma moral individual e no progresso geral — educação
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. XII (q. 893–919). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII — "Sede perfeitos". Trad. Guillon Ribeiro. FEB.

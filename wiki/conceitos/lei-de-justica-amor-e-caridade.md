@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, ESE]
 tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -38,6 +38,17 @@ A lei de amor e justiça proíbe, *ipso facto*, a aquisição de bens por meios 
 
 O amor e a caridade são o **complemento** da lei de justiça: amar o próximo é fazer-lhe todo o bem que nos seria possível e que desejaríamos nos fosse feito (LE, q. 886, comentário).
 
+### No ESE
+
+Os caps. XI a XV do ESE desenvolvem extensamente a lei de amor e caridade sob a luz dos ensinamentos evangélicos:
+
+- **Cap. XI — "Amar o próximo como a si mesmo"**: apresenta o mandamento como regra de conduta universal e analisa a parábola do bom samaritano (ESE, cap. XI).
+- **Cap. XII — "Amai os vossos inimigos"**: discute o perdão das ofensas, o amor aos inimigos e a indulgência como expressão superior da caridade (ESE, cap. XII).
+- **Cap. XIII — "Que a vossa mão esquerda não saiba o que dê a vossa mão direita"**: trata da caridade sem ostentação — a verdadeira beneficência é discreta e desinteressada (ESE, cap. XIII).
+- **Cap. XV — "Fora da caridade não há salvação"**: Kardec esclarece que salvação não é questão de crença ou culto, mas de prática da lei de amor — "fora da caridade não há salvação" é a divisa do Espiritismo (ESE, cap. XV).
+
+Ver [[wiki/conceitos/caridade]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
+
 ## A regra de ouro
 
 "Não façais aos outros o que não quereríeis que vos fizessem" (LE, q. 822) — enunciada na Lei de Igualdade e retomada aqui como coração da justiça.
@@ -53,3 +64,4 @@ Desdobrado nas questões finais do capítulo como expressão mais primária da c
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. XI (q. 873–892). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XI–XIII e XV. Trad. Guillon Ribeiro. FEB.

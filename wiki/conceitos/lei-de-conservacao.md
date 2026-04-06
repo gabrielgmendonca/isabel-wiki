@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE]
 tags: [conservacao, instinto, necessario, privacoes, lei-moral]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-06
 status: ativo
 ---
 
@@ -35,6 +35,7 @@ São meritórias as privações de gozos inúteis — elas desprendem o homem da
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-de-destruicao]]
+- [[wiki/conceitos/suicidio]] — infração extrema da lei de conservação
 
 ## Fontes
 
