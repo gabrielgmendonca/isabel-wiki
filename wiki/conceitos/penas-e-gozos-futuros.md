@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, C&I]
 tags: [penas, gozos, vida-futura, eternidade, inferno, paraiso, purgatorio, expiacao]
 atualizado_em: 2026-04-06
 status: ativo
@@ -48,6 +48,26 @@ O dogma da ressurreição da carne é "a consagração da reencarnação ensinad
 
 "O bem reinará na Terra quando, entre os Espíritos que a vêm habitar, os bons predominarem, porque, então, farão que aí reinem o amor e a justiça" (LE, q. 1019). O banimento dos Espíritos inferiores para mundos menos adiantados é a "sublime alegoria do Paraíso perdido" (LE, q. 1019).
 
+## No C&I
+
+*O Céu e o Inferno* é a obra do Pentateuco que mais amplamente desenvolve o tema das penas e gozos futuros.
+
+### Refutação das penas eternas
+
+O cap. VI da 1ª parte refuta sistematicamente a eternidade das penas: "Se Deus é perfeito, a condenação eterna não existe; se ela existe, Deus não é perfeito" (C&I, 1ª parte, cap. VI, item 15). A refutação se apoia na incompatibilidade com os atributos divinos (justiça infinita, bondade infinita, misericórdia) e com a lei do progresso. Ver [[wiki/conceitos/penas-eternas]].
+
+### Código penal da vida futura
+
+O cap. VII formula 33 princípios que sintetizam a doutrina espírita sobre as penas:
+
+> "O sofrimento está vinculado à imperfeição. Toda imperfeição, e toda falta que dela decorre, traz consigo seu próprio castigo, por suas consequências naturais e inevitáveis." (C&I, 1ª parte, cap. VII, item 33)
+
+A duração do castigo é subordinada ao aperfeiçoamento do culpado: "Nenhuma condenação por um tempo determinado é pronunciada contra ele. O que Deus exige para pôr um fim aos sofrimentos, é um aperfeiçoamento sério, efetivo, e um retorno sincero ao bem" (C&I, 1ª parte, cap. VII, item 13). Ver [[wiki/conceitos/codigo-penal-da-vida-futura]].
+
+### Demonstração empírica
+
+A 2ª parte inteira oferece dezenas de relatos de Espíritos em todos os graus de felicidade e sofrimento, corroborando pela observação os princípios expostos na 1ª parte. Ver [[wiki/obras/ceu-e-inferno]].
+
 ## Aplicação prática
 
 Este conjunto de ensinos é central para a consolação espírita: a certeza de que os sofrimentos são temporários e proporcionais, de que o arrependimento sincero sempre abre caminho, e de que a felicidade futura depende dos nossos esforços. Tema recorrente em palestras sobre luto, medo da morte e sentido da vida.
@@ -60,8 +80,13 @@ Este conjunto de ensinos é central para a consolação espírita: a certeza de 
 - [[wiki/conceitos/progresso-espiritual]] — finalidade última
 - [[wiki/conceitos/suicidio]] — caso particular de sofrimento pós-morte
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — fundamento da sanção moral
+- [[wiki/conceitos/penas-eternas]] — refutação detalhada (C&I)
+- [[wiki/conceitos/codigo-penal-da-vida-futura]] — 33 princípios (C&I)
+- [[wiki/conceitos/expiacao-e-reparacao]] — tríade do progresso moral (C&I)
 - [[wiki/obras/livro-dos-espiritos]] — Parte 4, cap. II
+- [[wiki/obras/ceu-e-inferno]] — 1ª parte, caps. VI–VII
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 4, cap. II — "Das penas e gozos futuros", q. 958–1.019.
+- Kardec, Allan. *O Céu e o Inferno*. 1ª parte, caps. VI–VII. FEB.

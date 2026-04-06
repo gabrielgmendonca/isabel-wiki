@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** três obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Evangelho Segundo o Espiritismo* (ESE) e *A Gênese* (Gênese). Última atualização: 2026-04-06.
+> **Status:** cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Pentateuco completo. Última atualização: 2026-04-06.
 
 ---
 
@@ -10,7 +10,9 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 - [[wiki/obras/livro-dos-espiritos]] — Pentateuco, obra fundadora (1857/1860). 1.019 questões em 4 partes.
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — Pentateuco, moral evangélica à luz espírita (1864). 28 capítulos.
+- [[wiki/obras/livro-dos-mediuns]] — Pentateuco, guia prático do Espiritismo experimental (1861). 32 capítulos em 2 partes.
 - [[wiki/obras/genese]] — Pentateuco, Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
+- [[wiki/obras/ceu-e-inferno]] — Pentateuco, justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
 
 ## Conceitos
 
@@ -56,9 +58,40 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/allan-kardec]] — codificador.
 - [[wiki/entidades/espiritos-reveladores]] — coletivo dos Espíritos do LE.
 - [[wiki/entidades/jesus]] — tipo da perfeição moral (LE, q. 625).
-- [[wiki/entidades/sao-luis]] — revelador nomeado nos Prolegômenos (rascunho).
+- [[wiki/entidades/sao-luis]] — revelador no LE, instrutor principal no LM.
 - [[wiki/entidades/santo-agostinho]] — revelador no LE e comunicante frequente no ESE.
-- [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE.
+- [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
+
+### Espíritos comunicantes do C&I (2ª parte)
+
+**Cap. II — Espíritos felizes** (18):
+[[wiki/entidades/sr-sanson]] · [[wiki/entidades/morte-do-justo]] · [[wiki/entidades/sr-jobard]] · [[wiki/entidades/samuel-philippe]] · [[wiki/entidades/sr-van-durst]] · [[wiki/entidades/sixdeniers]] · [[wiki/entidades/doutor-demeure]] · [[wiki/entidades/sra-viuva-foulon]] · [[wiki/entidades/medico-russo]] · [[wiki/entidades/bernardin]] · [[wiki/entidades/condessa-paula]] · [[wiki/entidades/jean-reynaud]] · [[wiki/entidades/antoine-costeau]] · [[wiki/entidades/srta-emma]] · [[wiki/entidades/doutor-vignal]] · [[wiki/entidades/victor-lebufle]] · [[wiki/entidades/sra-anais-gourdon]] · [[wiki/entidades/maurice-gontran]]
+
+**Cap. III — Espíritos em condição média** (6):
+[[wiki/entidades/joseph-bre]] · [[wiki/entidades/sra-helene-michel]] · [[wiki/entidades/marques-de-saint-paul]] · [[wiki/entidades/sr-cardon]] · [[wiki/entidades/eric-stanislas]] · [[wiki/entidades/sra-anna-belleville]]
+
+**Cap. IV — Espíritos sofredores** (10):
+[[wiki/entidades/o-castigo]] · [[wiki/entidades/novel]] · [[wiki/entidades/auguste-michel]] · [[wiki/entidades/arrependimento-de-um-dissoluto]] · [[wiki/entidades/lisbeth]] · [[wiki/entidades/principe-ouran]] · [[wiki/entidades/pascal-lavic]] · [[wiki/entidades/ferdinand-bertin]] · [[wiki/entidades/francois-riquier]] · [[wiki/entidades/claire]]
+
+**Cap. V — Suicidas** (9):
+[[wiki/entidades/suicida-da-samaritaine]] · [[wiki/entidades/pai-e-o-recruta]] · [[wiki/entidades/louvet-francois-simon]] · [[wiki/entidades/mae-e-seu-filho]] · [[wiki/entidades/duplo-suicidio-por-amor-e-por-dever]] · [[wiki/entidades/louis-e-a-costureira-de-botinas]] · [[wiki/entidades/um-ateu]] · [[wiki/entidades/sr-felicien]] · [[wiki/entidades/antoine-bell]]
+
+**Cap. VI — Criminosos arrependidos** (5):
+[[wiki/entidades/verger]] · [[wiki/entidades/lemaire]] · [[wiki/entidades/benoist]] · [[wiki/entidades/espirito-de-castelnaudary]] · [[wiki/entidades/jacques-latour]]
+
+**Cap. VII — Espíritos endurecidos** (5):
+[[wiki/entidades/lapommeray]] · [[wiki/entidades/angele]] · [[wiki/entidades/espirito-aborrecido]] · [[wiki/entidades/rainha-de-oude]] · [[wiki/entidades/xumene]]
+
+**Cap. VIII — Expiações terrestres** (14):
+[[wiki/entidades/marcel]] · [[wiki/entidades/szymel-slizgol]] · [[wiki/entidades/julienne-marie]] · [[wiki/entidades/max]] · [[wiki/entidades/empregado-domestico]] · [[wiki/entidades/antonio-b]] · [[wiki/entidades/sr-letil]] · [[wiki/entidades/cientista-ambicioso]] · [[wiki/entidades/charles-de-saint-g]] · [[wiki/entidades/adelaide-marguerite-gosse]] · [[wiki/entidades/clara-rivier]] · [[wiki/entidades/francoise-vernhes]] · [[wiki/entidades/anna-bitter]] · [[wiki/entidades/joseph-maitre]]
+
+### Mediunidade e prática espírita (O Livro dos Médiuns)
+- [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem, classificação dos médiuns (LM, caps. XIV–XVI).
+- [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
+- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes (LM, 1ª e 2ª parte).
+- [[wiki/conceitos/obsessao]] — obsessão simples, fascinação e subjugação (LM, cap. XXIII).
+- [[wiki/conceitos/identidade-dos-espiritos]] — critérios de discernimento, comunicações apócrifas (LM, caps. XXIV, XXXI).
+- [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos, regras e cuidados (LM, cap. XXV).
 
 ### Esperanças e consolações (Parte 4 do LE)
 - [[wiki/conceitos/suicidio]] — infração da lei de conservação, consequências espirituais (LE, q. 943–957).
@@ -86,6 +119,19 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/mundos-regeneradores]] — mundos de transição, aurora da felicidade (ESE, cap. III).
 - [[wiki/conceitos/mundos-felizes]] — mundos superiores onde o bem sobrepuja o mal (ESE, cap. III).
 
+### Conceitos de O Céu e o Inferno (C&I)
+- [[wiki/conceitos/futuro-e-o-nada]] — refutação do niilismo, panteísmo e absorção; individualidade da alma (C&I, 1ª parte, cap. I).
+- [[wiki/conceitos/ceu]] — o céu como estado da alma, não lugar circunscrito (C&I, 1ª parte, cap. III).
+- [[wiki/conceitos/inferno]] — inferno cristão imitado do pagão, fogo eterno como símbolo (C&I, 1ª parte, cap. IV).
+- [[wiki/conceitos/purgatorio]] — purgatório = vida terrestre, reencarnação como purificação (C&I, 1ª parte, cap. V).
+- [[wiki/conceitos/penas-eternas]] — refutação da eternidade das penas pelos atributos de Deus e pela lei do progresso (C&I, 1ª parte, cap. VI).
+- [[wiki/conceitos/codigo-penal-da-vida-futura]] — 33 princípios das penas e recompensas futuras segundo o Espiritismo (C&I, 1ª parte, cap. VII).
+- [[wiki/conceitos/expiacao-e-reparacao]] — tríade arrependimento-expiação-reparação (C&I, 1ª parte, cap. VII).
+- [[wiki/conceitos/anjos]] — anjos como Espíritos que atingiram a perfeição, não seres criados à parte (C&I, 1ª parte, cap. VIII).
+- [[wiki/conceitos/demonios]] — demônios como Espíritos imperfeitos que podem progredir, não seres eternamente maus (C&I, 1ª parte, caps. IX–X).
+- [[wiki/conceitos/proibicao-de-evocar-os-mortos]] — refutação da lei mosaica como argumento contra as evocações (C&I, 1ª parte, cap. XI).
+- [[wiki/conceitos/perturbacao]] — entorpecimento pós-morte, duração variável conforme adiantamento (C&I, 2ª parte, cap. I).
+
 ### Parábolas de Jesus (ESE)
 - [[wiki/conceitos/parabola-do-credor-incompassivo]] — perdoar para ser perdoado, a desproporção das dívidas (ESE, cap. XI; S. Mateus, 18).
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
@@ -103,7 +149,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 Páginas dedicadas a questões-chave do LE ou a perguntas específicas do usuário.
 
-_(vazio — criadas sob demanda em futuras queries)_
+- [[wiki/questoes/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
 
 ## Sínteses
 

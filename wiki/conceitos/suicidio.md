@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
+fontes: [LE, ESE, C&I]
 tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao]
 atualizado_em: 2026-04-06
 status: ativo
@@ -45,6 +45,17 @@ O cap. V do ESE retoma o tema do suicídio nos itens 14–16, abordando especifi
 
 Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
+### No C&I
+
+A 2ª parte, cap. V de *O Céu e o Inferno* apresenta **nove relatos de Espíritos suicidas** evocados após a morte — a demonstração empírica mais extensa do Pentateuco sobre o tema. Os casos ilustram:
+
+- **Persistência do laço corpo-perispírito** — o suicida da Samaritaine sente-se ainda preso ao corpo, experimentando as sensações da morte violenta (C&I, 2ª parte, cap. V).
+- **Agravamento pela responsabilidade sobre outros** — uma mãe que se suicidou levando o filho consigo carrega culpa redobrada (C&I, 2ª parte, cap. V, "Uma mãe e seu filho").
+- **Incredulidade agravante** — um ateu que negava a vida futura encontra perturbação mais intensa por não compreender seu novo estado (C&I, 2ª parte, cap. V, "Um ateu").
+- **Nenhuma circunstância justifica** — miséria, tédio, paixão amorosa: em todos os casos o suicídio agrava a situação do Espírito.
+
+Todos os relatos confirmam o princípio do LE: o suicídio não liberta, aprisiona. Ver as entidades individuais em [[wiki/obras/ceu-e-inferno]].
+
 ## Aplicação prática
 
 O tema é central em palestras espíritas sobre prevenção e acolhimento. A abordagem doutrinária combina firmeza (é uma falta) com compaixão (as consequências variam, Deus considera as circunstâncias). A certeza da vida futura e a possibilidade de comunicação com os desencarnados são apresentadas como consolação àqueles que sofrem perdas, desestimulando a ideia de "encurtar o caminho."
@@ -57,8 +68,10 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - [[wiki/conceitos/livre-arbitrio]] — responsabilidade pelas escolhas
 - [[wiki/conceitos/progresso-espiritual]] — a vida como oportunidade de avanço
 - [[wiki/obras/livro-dos-espiritos]] — Parte 4, cap. I
+- [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. V (9 relatos de suicidas)
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 4, cap. I — "Das penas e gozos terrestres", q. 943–957; também Parte 3, cap. V — "Lei de conservação", q. 702–727.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V, itens 14–16 — "Suicídio e loucura". Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas". FEB.

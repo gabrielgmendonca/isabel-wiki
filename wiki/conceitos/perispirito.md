@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, LM, Gênese]
+fontes: [LE, LM, Gênese, C&I]
 tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico]
 atualizado_em: 2026-04-06
 status: ativo
@@ -50,6 +50,18 @@ O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o peri
 - **Irradiação fluídica**: o perispírito não se circunscreve ao corpo — "irradia ao seu derredor e o envolve como que de uma atmosfera fluídica" (Gênese, cap. XIV, item 18). Por essa expansão, o encarnado se relaciona com Espíritos livres e com outros encarnados.
 - **Couraça moral**: "O perispírito, portanto, é uma couraça a que se deve dar a melhor têmpera possível. Ora, como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la" (Gênese, cap. XIV, item 21).
 
+## No C&I — papel na passagem
+
+*O Céu e o Inferno* (2ª parte, cap. I) apresenta o papel do perispírito no momento da morte como chave para compreender o processo da passagem:
+
+> "A extinção da vida orgânica traz a separação da alma e do corpo pela ruptura do laço fluídico que os une; mas esta separação nunca é brusca; o fluido perispiritual se liberta pouco a pouco de todos os órgãos." (C&I, 2ª parte, cap. I, item 4)
+
+A **dificuldade do desprendimento** depende da força de aderência entre corpo e perispírito, que é proporcional ao apego à matéria. No homem materialista, "tudo contribuiu para apertar os laços que o prendem à matéria; nada veio afrouxá-los durante a vida" (C&I, 2ª parte, cap. I, item 8). No Espírito desmaterializado, os laços são tão fracos que "se rompem sem nenhum abalo" (C&I, 2ª parte, cap. I, item 11).
+
+Na morte violenta, como nenhuma desagregação parcial ocorreu, o desprendimento é mais penoso: "O Espírito, pego de improviso, fica como que atordoado; mas, sentindo que pensa, acredita que ainda está vivo" (C&I, 2ª parte, cap. I, item 12).
+
+Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte-e-pos-morte]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação
@@ -57,10 +69,13 @@ O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o peri
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos que o perispírito viabiliza
 - [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/morte-e-pos-morte]]
 - [[wiki/obras/livro-dos-mediuns]] — 1ª parte, cap. I; 2ª parte, caps. IV, VI–VII
+- [[wiki/conceitos/perturbacao]] — estado pós-morte ligado ao desprendimento perispiritual
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
+- [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. I
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 93–94, q. 135, q. 150. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*. 1ª parte, cap. I, item 3; 2ª parte, caps. IV, VI–VII. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 7–12, 18, 21. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. I — "A passagem". FEB.
