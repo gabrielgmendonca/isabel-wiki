@@ -15,6 +15,7 @@ status: ativo
 - **1ª edição:** 1864 (Paris, França)
 - **Nível de autoridade:** 1 — Pentateuco
 - **Abreviação:** ESE
+- **Texto integral:** [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]]
 
 ## Cabeçalho
 

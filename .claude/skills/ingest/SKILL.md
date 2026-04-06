@@ -19,4 +19,6 @@ Gatilhos: "faça ingest de X" · "acabei de adicionar X em raw/" · `/ingest <ca
 
 Siga a seção 6 do CLAUDE.md integralmente.
 
+**Passo 3 — link ao texto integral:** nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.
+
 Gate obrigatório do Passo 2: **nunca escrever páginas da wiki antes da confirmação do usuário.**

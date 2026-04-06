@@ -17,7 +17,7 @@ Quinta e última obra do Pentateuco kardequiano, publicada em Paris em janeiro d
 - **Autor:** Allan Kardec (Hippolyte Léon Denizard Rivail)
 - **Publicação original:** Janeiro de 1868, Paris.
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
-- **Edição em `raw/`:** `raw/kardec/pentateuco/genese.md`
+- **Texto integral:** [[raw/kardec/pentateuco/genese]]
 - **Nível na hierarquia de autoridade:** **1 — Pentateuco** (autoridade normativa máxima).
 
 ## Estrutura

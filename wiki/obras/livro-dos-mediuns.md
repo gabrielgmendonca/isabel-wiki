@@ -18,7 +18,7 @@ Segunda obra da codificação kardequiana e **guia prático do Espiritismo exper
 - **Publicação original:** janeiro de 1861, Paris.
 - **2ª edição (definitiva):** revisada com "particular cuidado" pelos Espíritos, que "aprovando-a, ou modificando-a à sua vontade", fizeram dela, "em grande parte, obra deles" (LM, Introdução).
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
-- **Edição em `raw/`:** `raw/kardec/pentateuco/livro-dos-mediuns.md`
+- **Texto integral:** [[raw/kardec/pentateuco/livro-dos-mediuns]]
 - **Nível na hierarquia de autoridade:** **1 — Pentateuco** (autoridade normativa máxima).
 
 ## Estrutura
