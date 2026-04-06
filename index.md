@@ -8,13 +8,14 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 ## Obras
 
-- [[wiki/obras/livro-dos-espiritos]] — Pentateuco, obra fundadora (1857/1860). 1.019 questões em 4 partes.
-- [[wiki/obras/evangelho-segundo-o-espiritismo]] — Pentateuco, moral evangélica à luz espírita (1864). 28 capítulos.
-- [[wiki/obras/livro-dos-mediuns]] — Pentateuco, guia prático do Espiritismo experimental (1861). 32 capítulos em 2 partes.
-- [[wiki/obras/genese]] — Pentateuco, Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
-- [[wiki/obras/ceu-e-inferno]] — Pentateuco, justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
+### Pentateuco (Allan Kardec)
+- [[wiki/obras/livro-dos-espiritos]] — obra fundadora (1857/1860). 1.019 questões em 4 partes.
+- [[wiki/obras/evangelho-segundo-o-espiritismo]] — moral evangélica à luz espírita (1864). 28 capítulos.
+- [[wiki/obras/livro-dos-mediuns]] — guia prático do Espiritismo experimental (1861). 32 capítulos em 2 partes.
+- [[wiki/obras/genese]] — Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
+- [[wiki/obras/ceu-e-inferno]] — justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
 
-### Complementares (nível 3)
+### Obras complementares
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 
 ## Conceitos
