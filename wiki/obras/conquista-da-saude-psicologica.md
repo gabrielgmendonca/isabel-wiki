@@ -2,6 +2,7 @@
 tipo: obra
 fontes: [LE, LM, Gênese, ESE]
 tags: [depressao, saude-psicologica, obsessao, mediunidade, amor, transicao-planetaria, neurociencia]
+url: https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp
 atualizado_em: 2026-04-06
 status: ativo
 ---
@@ -15,7 +16,10 @@ status: ativo
 - **Local:** Curitiba-PR, Brasil
 - **Data aproximada:** ~2009 (Divaldo menciona ter 82 anos)
 - **Nível:** 3 — Complementar aprovado
+- **Fonte original:** [YouTube](https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp)
 - **Texto integral:** [[raw/palestras/divaldo-franco/A conquista da saúde psicológica - Divaldo Franco.txt]]
+
+![](https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp)
 
 > **Nota:** A fonte é uma transcrição automática de palestra oral. Nomes próprios e referências bibliográficas podem conter imprecisões de transcrição.
 
@@ -158,7 +162,7 @@ Encerra vinculando tudo ao momento de transição: "Vivemos o grande momento da 
 
 ## Fontes
 
-- Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
+- Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009. Disponível em: <https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp>.
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Introdução, item IV; q. 459–465.
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XIV, item 159; cap. XXIII, itens 237–254.
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XI, itens 31–32; cap. XVIII, itens 27–28.
