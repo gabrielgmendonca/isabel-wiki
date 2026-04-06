@@ -34,7 +34,7 @@ jobs:
 
       - name: Copy content and config
         run: |
-          cp -r wiki/* /tmp/quartz/content/
+          cp -r wiki /tmp/quartz/content/wiki
           cp index.md /tmp/quartz/content/
           cp quartz.config.ts /tmp/quartz/quartz.config.ts
           cp quartz.layout.ts /tmp/quartz/quartz.layout.ts
