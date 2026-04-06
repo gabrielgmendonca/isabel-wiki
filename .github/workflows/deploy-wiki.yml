@@ -1,0 +1,59 @@
+name: Deploy Wiki (Quartz)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Clone Quartz
+        run: |
+          git clone --depth 1 --branch v4.4.0 \
+            https://github.com/jackyzha0/quartz.git /tmp/quartz
+
+      - name: Install dependencies
+        run: cd /tmp/quartz && npm ci
+
+      - name: Copy content and config
+        run: |
+          cp -r wiki/* /tmp/quartz/content/
+          cp index.md /tmp/quartz/content/
+          cp quartz.config.ts /tmp/quartz/quartz.config.ts
+          cp quartz.layout.ts /tmp/quartz/quartz.layout.ts
+
+      - name: Build
+        run: cd /tmp/quartz && npx quartz build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
