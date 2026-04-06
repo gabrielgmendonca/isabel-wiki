@@ -7,7 +7,11 @@ description: Ingere uma nova fonte de raw/ na wiki IsAbel seguindo o workflow da
 
 Gatilhos: "faça ingest de X" · "acabei de adicionar X em raw/" · `/ingest <caminho>`
 
-## Passo 0 — Pré-checagem de escopo (obrigatório, antes de ler)
+## Fase de análise (plan mode)
+
+Ao iniciar, **entre em plan mode** (`EnterPlanMode`). Isso impede escrita acidental antes da confirmação do usuário.
+
+### Passo 0 — Pré-checagem de escopo
 
 1. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
 2. Classifique conforme seção 2 do CLAUDE.md:
@@ -15,10 +19,12 @@ Gatilhos: "faça ingest de X" · "acabei de adicionar X em raw/" · `/ingest <ca
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir.
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
 
-## Passos 1–8
+### Passos 1–2 — Leitura e discussão
 
-Siga a seção 6 do CLAUDE.md integralmente.
+Siga os passos 1–2 da seção 6 do CLAUDE.md: ler a fonte e apresentar 5–10 pontos-chave. **Aguardar confirmação explícita do usuário.**
+
+## Fase de escrita
+
+Após confirmação do usuário, **saia de plan mode** (`ExitPlanMode`) e execute os passos 3–8 da seção 6 do CLAUDE.md.
 
 **Passo 3 — link ao texto integral:** nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.
-
-Gate obrigatório do Passo 2: **nunca escrever páginas da wiki antes da confirmação do usuário.**
