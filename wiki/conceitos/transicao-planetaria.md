@@ -66,6 +66,7 @@ A transição planetária fundamenta a esperança espírita no futuro da Terra s
 - [[wiki/conceitos/raca-adamica]] — precedente histórico de imigração transformadora
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
 - [[wiki/obras/genese]] — cap. XVIII
+- [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco aplica o conceito ao contexto da saúde psicológica
 
 ## Fontes
 

@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Pentateuco completo. Última atualização: 2026-04-06.
+> **Status:** Pentateuco completo + 1 complementar. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Primeira fonte complementar (nível 3): palestra de Divaldo Franco. Última atualização: 2026-04-06.
 
 ---
 
@@ -13,6 +13,9 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/obras/livro-dos-mediuns]] — Pentateuco, guia prático do Espiritismo experimental (1861). 32 capítulos em 2 partes.
 - [[wiki/obras/genese]] — Pentateuco, Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
 - [[wiki/obras/ceu-e-inferno]] — Pentateuco, justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
+
+### Complementares (nível 3)
+- [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 
 ## Conceitos
 
@@ -83,6 +86,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/sao-luis]] — revelador no LE, instrutor principal no LM.
 - [[wiki/entidades/santo-agostinho]] — revelador no LE e comunicante frequente no ESE.
 - [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
+- [[wiki/entidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -112,6 +116,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes (LM, 1ª e 2ª parte).
 - [[wiki/conceitos/obsessao]] — obsessão simples, fascinação e subjugação (LM, cap. XXIII).
+- [[wiki/conceitos/depressao]] — transtorno afetivo à luz espírita: causas, obsessão e terapêutica integrada.
 - [[wiki/conceitos/identidade-dos-espiritos]] — critérios de discernimento, comunicações apócrifas (LM, caps. XXIV, XXXI).
 - [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos, regras e cuidados (LM, cap. XXV).
 
@@ -183,4 +188,4 @@ Comparações, análises temáticas, conexões entre obras.
 
 Pontos em que autores complementares divergem do Pentateuco.
 
-_(vazio — nenhuma fonte complementar ingerida ainda)_
+_(nenhuma divergência identificada — palestra de Divaldo Franco alinhada ao Pentateuco)_

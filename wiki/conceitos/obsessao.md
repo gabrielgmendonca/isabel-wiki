@@ -70,7 +70,9 @@ O conhecimento da obsessão fundamenta o trabalho de **desobsessão** nos centro
 - [[wiki/conceitos/escala-espirita]] — os Espíritos obsessores pertencem à terceira ordem
 - [[wiki/conceitos/fluidos]] — fluidos impuros envolvem o obsidiado
 - [[wiki/conceitos/prece]] — meio de combate à obsessão
+- [[wiki/conceitos/depressao]] — transtorno frequentemente agravado pela obsessão
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
+- [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 
 ## Fontes
 

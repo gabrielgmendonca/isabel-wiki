@@ -113,3 +113,18 @@ Ações tomadas:
 - **Correção de links**: 6 refs a `perturbacao-espirita` → `perturbacao`.
 - **18 conceitos criados**: `expiacao`, `fe`, `arrependimento`, `erraticidade`, `lei-de-causa-e-efeito`, `provas-e-expiacoes`, `egoismo`, `orgulho`, `materialismo`, `humildade`, `resignacao`, `responsabilidade`, `desligamento-do-espirito`, `ligacao-espirito-corpo`, `lei-moral`, `confianca-em-deus`, `avareza`, `separacao-e-reencontro`.
 - `index.md` atualizado com novas seções "Justiça divina e consequências morais" e "Virtudes e vícios".
+
+## [2026-04-06] ingest | A conquista da saúde psicológica (Divaldo Franco)
+
+Primeira fonte complementar (nível 3) ingerida. Transcrição de palestra oral de Divaldo Pereira Franco (~2009, Curitiba). Tema: depressão, neurociência, obsessão e saúde psicológica à luz do Espiritismo.
+
+Páginas criadas (3):
+- **Obra** (1): `wiki/obras/conquista-da-saude-psicologica.md`
+- **Conceito novo** (1): `wiki/conceitos/depressao.md`
+- **Entidade nova** (1): `wiki/entidades/divaldo-franco.md`
+
+Páginas atualizadas (2):
+- `wiki/conceitos/obsessao.md` — cross-links para depressão e palestra.
+- `wiki/conceitos/transicao-planetaria.md` — cross-link para palestra.
+
+`index.md` atualizado com obra (nova subseção "Complementares"), conceito e entidade. Nenhuma divergência com o Pentateuco identificada. Nota registrada sobre referência científica imprecisa ("dois físicos quânticos de Harvard") — fonte provável: Candace Pert (neuropeptídeos) + Herbert Benson (resposta de relaxamento).
