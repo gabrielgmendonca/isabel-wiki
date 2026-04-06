@@ -83,10 +83,10 @@ Perdoar para ser perdoado. Reconciliação com os adversários. O argueiro e a t
 - **Conceito:** [[wiki/conceitos/bem-aventurancas]]; [[wiki/conceitos/caridade]].
 
 ### Capítulo XI — Amar o próximo como a si mesmo
-O mandamento maior. Dar a César o que é de César. A lei de amor. O egoísmo. A fé e a caridade. Caridade para com os criminosos (ESE, cap. XI, itens 1–14).
+O mandamento maior. Parábola do credor incompassivo. Dar a César o que é de César. A lei de amor. O egoísmo. A fé e a caridade. Caridade para com os criminosos (ESE, cap. XI, itens 1–14).
 - **NT:** S. Mateus, 22:34–40; S. Lucas, 6:31; S. Mateus, 18:23–35; S. Mateus, 22:15–22; S. Marcos, 12:13–17.
 - **LE:** [[wiki/conceitos/lei-de-justica-amor-e-caridade]] (LE, q. 873–892).
-- **Conceito:** [[wiki/conceitos/caridade]].
+- **Conceitos:** [[wiki/conceitos/caridade]]; [[wiki/conceitos/parabola-do-credor-incompassivo]].
 
 ### Capítulo XII — Amai os vossos inimigos
 Retribuir o mal com o bem. Os inimigos desencarnados. Apresentar a outra face. A vingança, o ódio, o duelo (ESE, cap. XII, itens 1–14).
@@ -110,9 +110,9 @@ Parábola do bom samaritano. O mandamento maior segundo S. Paulo. "Fora da Igrej
 - **Conceitos:** [[wiki/conceitos/caridade]]; [[wiki/conceitos/parabola-do-bom-samaritano]].
 
 ### Capítulo XVI — Não se pode servir a Deus e a Mamon
-Salvação dos ricos. Avareza. Jesus em casa de Zaqueu. Parábola do mau rico. Parábola dos talentos. Utilidade providencial da riqueza. Desigualdade das riquezas. Verdadeira propriedade. Desprendimento dos bens terrenos (ESE, cap. XVI, itens 1–16).
+Salvação dos ricos. Parábola do rico insensato. Avareza. Jesus em casa de Zaqueu. Parábola do mau rico. Parábola dos talentos. Utilidade providencial da riqueza. Desigualdade das riquezas. Verdadeira propriedade. Desprendimento dos bens terrenos (ESE, cap. XVI, itens 1–16).
 - **NT:** S. Lucas, 16:13, 19–31; S. Mateus, 19:16–24; S. Lucas, 12:13–21; S. Lucas, 18:18–25.
-- **Conceitos:** [[wiki/conceitos/desapego-dos-bens-terrenos]]; [[wiki/conceitos/parabola-do-mau-rico]]; [[wiki/conceitos/parabola-dos-talentos]].
+- **Conceitos:** [[wiki/conceitos/desapego-dos-bens-terrenos]]; [[wiki/conceitos/parabola-do-rico-insensato]]; [[wiki/conceitos/parabola-do-mau-rico]]; [[wiki/conceitos/parabola-dos-talentos]].
 
 ### Capítulo XVII — Sede perfeitos
 Caracteres da perfeição. O homem de bem. Os bons espíritas. Parábola do semeador. O dever. A virtude. Os superiores e os inferiores (ESE, cap. XVII, itens 1–18).
@@ -121,9 +121,9 @@ Caracteres da perfeição. O homem de bem. Os bons espíritas. Parábola do seme
 - **Conceitos:** [[wiki/conceitos/homem-de-bem]]; [[wiki/conceitos/parabola-do-semeador]].
 
 ### Capítulo XVIII — Muitos os chamados, poucos os escolhidos
-Parábola do festim de bodas. A porta estreita. "Nem todos os que dizem: Senhor! Senhor!" Muito se pedirá àquele que muito recebeu. "Dar-se-á àquele que tem" (ESE, cap. XVIII, itens 1–20).
+Parábola do festim de bodas. A porta estreita. "Nem todos os que dizem: Senhor! Senhor!" Parábola da casa sobre a rocha. Muito se pedirá àquele que muito recebeu. "Dar-se-á àquele que tem" (ESE, cap. XVIII, itens 1–20).
 - **NT:** S. Mateus, 22:1–14; S. Mateus, 7:13–14, 21–27; S. Lucas, 13:23–30; S. Lucas, 12:47–48; S. João, 9:39–41; S. Mateus, 13:10–14; S. Marcos, 4:24–25.
-- **Conceito:** [[wiki/conceitos/parabola-do-festim-de-bodas]].
+- **Conceitos:** [[wiki/conceitos/parabola-do-festim-de-bodas]]; [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]].
 
 ### Capítulo XIX — A fé transporta montanhas
 O poder da fé. A fé religiosa e a condição da fé inabalável. Parábola da figueira que secou. A fé: mãe da esperança e da caridade. Fé humana e fé divina (ESE, cap. XIX, itens 1–13).
@@ -188,11 +188,14 @@ Preces gerais (Oração dominical, reuniões espíritas, para médiuns). Preces 
 
 | Parábola | Capítulo ESE | Referência NT | Página |
 |----------|-------------|---------------|--------|
-| Semeador | XVII | S. Mateus, 13:1–9, 18–23 | [[wiki/conceitos/parabola-do-semeador]] |
+| Credor incompassivo | XI | S. Mateus, 18:23–35 | [[wiki/conceitos/parabola-do-credor-incompassivo]] |
 | Bom samaritano | XV | S. Lucas, 10:25–37 | [[wiki/conceitos/parabola-do-bom-samaritano]] |
+| Rico insensato (celeiros) | XVI | S. Lucas, 12:13–21 | [[wiki/conceitos/parabola-do-rico-insensato]] |
 | Mau rico (Rico e Lázaro) | XVI | S. Lucas, 16:19–31 | [[wiki/conceitos/parabola-do-mau-rico]] |
 | Talentos | XVI | S. Mateus, 25:14–30 | [[wiki/conceitos/parabola-dos-talentos]] |
+| Semeador | XVII | S. Mateus, 13:1–9, 18–23 | [[wiki/conceitos/parabola-do-semeador]] |
 | Festim de bodas | XVIII | S. Mateus, 22:1–14 | [[wiki/conceitos/parabola-do-festim-de-bodas]] |
+| Casa sobre a rocha | XVIII | S. Mateus, 7:24–27 | [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] |
 | Figueira que secou | XIX | S. Marcos, 11:12–14, 20–23 | [[wiki/conceitos/parabola-da-figueira-seca]] |
 | Trabalhadores da última hora | XX | S. Mateus, 20:1–16 | [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] |
 | Candeia sob o alqueire | XXIV | S. Mateus, 5:15; S. Lucas, 8:16–17 | [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] |

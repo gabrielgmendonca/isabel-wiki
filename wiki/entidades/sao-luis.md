@@ -1,6 +1,6 @@
 ---
 tipo: entidade
-fontes: [LE]
+fontes: [LE, LM]
 tags: [sao-luis, revelador, espirito-superior]
 atualizado_em: 2026-04-06
 status: ativo
@@ -26,9 +26,18 @@ São Luís é atribuído nominalmente em diversas respostas do LE, particularmen
 
 Na questão final do LE (q. 1019), São Luís anuncia a transformação da Terra e o reinado do bem, encerrando a obra.
 
+## No Livro dos Médiuns
+
+São Luís é o Espírito mais citado nominalmente no LM, atuando como instrutor principal:
+
+- Fornece a **teoria das manifestações físicas**: responde às perguntas sobre o fluido universal, o mecanismo pelo qual os Espíritos atuam sobre a matéria e o papel do médium (LM, 2ª parte, cap. IV, item 74).
+- Enuncia a **regra de ouro do discernimento**: "Qualquer que seja a confiança legítima que vos inspirem os Espíritos que presidem aos vossos trabalhos, uma recomendação há que nunca será demais repetir [...]: é a de pesar e meditar, é a de submeter ao controle da razão mais severa todas as comunicações que receberdes" (LM, 2ª parte, cap. XXIV, item 266).
+- Consultado sobre **comunicações apócrifas**: pronuncia-se sobre a falsa comunicação de Bossuet, revelando que foi escrita por outro Espírito (LM, 2ª parte, cap. XXXI, nota à comunicação XXXIV).
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — revelador nomeado nos Prolegômenos e interlocutor em diversas questões.
+- [[wiki/obras/livro-dos-mediuns]] — instrutor principal; citado nos caps. IV, XXIV, XXXI.
 
 ## Páginas relacionadas
 
@@ -38,3 +47,4 @@ Na questão final do LE (q. 1019), São Luís anuncia a transformação da Terra
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Prolegômenos; q. 1004–1009; q. 1019. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. IV (item 74), cap. XXIV (item 266), cap. XXXI. Trad. Guillon Ribeiro. FEB.

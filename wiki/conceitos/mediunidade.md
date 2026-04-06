@@ -1,0 +1,76 @@
+---
+tipo: conceito
+fontes: [LM, LE]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico]
+atualizado_em: 2026-04-06
+status: ativo
+---
+
+# Mediunidade
+
+## Definição
+
+Faculdade que permite a um ser humano servir de intermediário entre os Espíritos e os homens. O termo *médium* vem do latim *medium* (meio, intermediário).
+
+> "Todo aquele que sente, num grau qualquer, a influência dos Espíritos é, por esse fato, médium. Essa faculdade é inerente ao homem; não constitui, portanto, um privilégio exclusivo." (LM, 2ª parte, cap. XIV, item 159)
+
+## Ensino de Kardec
+
+### Universalidade e grau
+
+A mediunidade é **inerente ao homem** — "raras são as pessoas que dela não possuam alguns rudimentos" (LM, 2ª parte, cap. XIV, item 159). Entretanto, chama-se propriamente médium aquele em quem a faculdade "se mostra bem caracterizada e se traduz por efeitos patentes, de certa intensidade" (LM, 2ª parte, cap. XIV, item 159).
+
+### Duas grandes categorias
+
+| Categoria | Descrição |
+|-----------|-----------|
+| **Médiuns de efeitos físicos** | Aptos a produzir fenômenos materiais: movimentos, ruídos, transportes, aparições tangíveis (LM, 2ª parte, cap. XVI, item 187) |
+| **Médiuns de efeitos intelectuais** | Aptos a receber e transmitir comunicações inteligentes: escrita, palavra, visão, audição (LM, 2ª parte, cap. XVI, item 187) |
+
+### Principais variedades (quadro sinótico, item 187–196)
+
+**Efeitos físicos:** tiptólogos, motores, de translação/suspensão, de efeitos musicais, de aparições, de transporte, noturnos, pneumatógrafos, curadores, excitadores.
+
+**Efeitos intelectuais:** sensitivos, audientes, falantes, videntes, inspirados, de pressentimentos, proféticos, sonambúlicos, extáticos, pintores/desenhistas, músicos.
+
+**Médiuns escreventes (psicógrafos):** mecânicos, semimecânicos, intuitivos, inspirados, polígrafos, poliglotas, iletrados (LM, 2ª parte, cap. XVI, itens 191–196).
+
+O quadro sinótico foi elaborado com "particular cuidado" pelos Espíritos Erasto e Sócrates (LM, 2ª parte, cap. XVI, item 185).
+
+### O médium como intérprete
+
+O Espírito do médium nunca é completamente passivo: "O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia entre vós e os Espíritos que se comunicam" (LM, 2ª parte, cap. XIX, item 223, 6ª). Mesmo nos médiuns mecânicos, "o cérebro desempenha sempre um papel ativo" (LM, 2ª parte, cap. XVI, item 187, nota dos Espíritos).
+
+### Desenvolvimento e perigos
+
+A mediunidade se desenvolve pelo exercício, mas "as regras da poesia, da pintura e da música não fazem que se tornem poetas, pintores, ou músicos os que não têm o gênio" (LM, Introdução). A faculdade pode ser perdida ou suspensa (LM, 2ª parte, cap. XVII).
+
+O exercício abusivo pode causar fadiga e enfraquecimento orgânico por "emissão demasiado abundante de fluido vital" (LM, 2ª parte, cap. XIV, item 161). Quanto à saúde mental, "tal faculdade não constitui, em si mesma, indício de um estado patológico" (LM, 2ª parte, cap. XIV, item 161).
+
+### Mediunato
+
+Termo criado pelos Espíritos para designar a **missão providencial** dos médiuns: "uma tarefa que ele deve desempenhar e pela qual será feliz ou infeliz, conforme o uso que dela fizer" (LM, 2ª parte, cap. XXXI, comunicação XII).
+
+## Desdobramentos
+
+A qualidade das comunicações obtidas depende de **três fatores**: (1) o grau do Espírito comunicante; (2) as qualidades morais e aptidões do médium; (3) a intenção e seriedade do grupo ou evocador (LM, 2ª parte, cap. XVI, item 186).
+
+## Aplicação prática
+
+A mediunidade não é fim em si — é meio de comunicação e instrução. Kardec adverte contra a leviandade: "De muitas dificuldades se mostra içada a prática do Espiritismo e nem sempre isenta de inconvenientes a que só o estudo sério e completo pode obviar" (LM, Introdução).
+
+## Páginas relacionadas
+
+- [[wiki/conceitos/psicografia]] — principal forma de comunicação escrita
+- [[wiki/conceitos/obsessao]] — principal perigo da prática mediúnica
+- [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos
+- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos produzidos
+- [[wiki/conceitos/identidade-dos-espiritos]] — discernimento nas comunicações
+- [[wiki/conceitos/escala-espirita]] — régua de avaliação dos Espíritos comunicantes
+- [[wiki/conceitos/emancipacao-da-alma]] — fundamento da mediunidade sonambúlica
+- [[wiki/conceitos/fluidos]] — o fluido vital como agente mediúnico
+- [[wiki/obras/livro-dos-mediuns]]
+
+## Fontes
+
+- Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV–XXII (itens 159–236).

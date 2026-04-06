@@ -87,11 +87,14 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/mundos-felizes]] — mundos superiores onde o bem sobrepuja o mal (ESE, cap. III).
 
 ### Parábolas de Jesus (ESE)
-- [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-do-credor-incompassivo]] — perdoar para ser perdoado, a desproporção das dívidas (ESE, cap. XI; S. Mateus, 18).
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
 - [[wiki/conceitos/parabola-do-mau-rico]] — rico e Lázaro, justiça na vida futura (ESE, cap. XVI; S. Lucas, 16).
+- [[wiki/conceitos/parabola-do-rico-insensato]] — acumular sem partilhar, a futilidade da avareza (ESE, cap. XVI; S. Lucas, 12).
 - [[wiki/conceitos/parabola-dos-talentos]] — responsabilidade sobre os dons recebidos (ESE, cap. XVI; S. Mateus, 25).
+- [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13).
 - [[wiki/conceitos/parabola-do-festim-de-bodas]] — muitos chamados, poucos escolhidos (ESE, cap. XVIII; S. Mateus, 22).
+- [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar vs. ouvir e não praticar (ESE, cap. XVIII; S. Mateus, 7).
 - [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (ESE, cap. XIX; S. Marcos, 11).
 - [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] — nunca é tarde para o bem (ESE, cap. XX; S. Mateus, 20).
 - [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] — dever de difundir a verdade (ESE, cap. XXIV; S. Mateus, 5).
@@ -106,7 +109,7 @@ _(vazio — criadas sob demanda em futuras queries)_
 
 Comparações, análises temáticas, conexões entre obras.
 
-_(vazio — criadas sob demanda em futuras queries)_
+- [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — Critérios kardequianos para distinguir comunicações autênticas de apócrifas (LM, caps. X, XXIV, XXXI; LE, escala espírita).
 
 ## Divergências
 

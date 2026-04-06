@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, LM]
 tags: [escala-espirita, classificacao, ordens]
 atualizado_em: 2026-04-05
 status: ativo
@@ -40,10 +40,24 @@ Classe única. Percorreram todos os graus, despojaram-se de todas as impurezas d
 
 Os Espíritos passam **sucessivamente** pelos graus, à medida que se purificam e progridem (LE, q. 226, comentário). Não retrogradam (LE, q. 118).
 
+## Aplicação prática no Livro dos Médiuns
+
+O LM faz da escala espírita uma **ferramenta de discernimento** nas comunicações:
+
+- As comunicações refletem o grau do Espírito: "suas comunicações trazem o cunho da ignorância ou do saber que lhes seja peculiar" (LM, 2ª parte, cap. X, item 133).
+- "A linguagem dos Espíritos está sempre em relação com o grau de elevação a que já tenham chegado" — regra sem exceção (LM, 2ª parte, cap. XXIV, item 263).
+- Os 26 critérios para distinguir bons de maus Espíritos (LM, 2ª parte, cap. XXIV, item 267) são, na prática, a aplicação da escala à análise de mensagens.
+- Espíritos da terceira ordem (imperfeitos) são os que praticam obsessão, fascinação e subjugação (LM, 2ª parte, cap. XXIII).
+
+Ver [[wiki/conceitos/identidade-dos-espiritos]] e [[wiki/sinteses/veracidade-das-mensagens-psicografadas]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/espirito]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]]
+- [[wiki/conceitos/identidade-dos-espiritos]] · [[wiki/conceitos/obsessao]] · [[wiki/conceitos/mediunidade]]
+- [[wiki/obras/livro-dos-mediuns]] — caps. X, XXIII, XXIV
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*. Caps. X (item 133), XXIII (itens 237–254), XXIV (itens 255–268). Trad. Guillon Ribeiro. FEB.

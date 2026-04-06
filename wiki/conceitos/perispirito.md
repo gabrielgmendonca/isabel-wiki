@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, Gênese]
+fontes: [LE, LM, Gênese]
 tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico]
 atualizado_em: 2026-04-06
 status: ativo
@@ -30,6 +30,16 @@ O homem é, portanto, composto de **três partes**: corpo material, alma (Espír
 
 Após a morte, o perispírito **persiste** junto ao Espírito, conservando a aparência da última encarnação (LE, q. 150, letra a).
 
+## No Livro dos Médiuns
+
+O LM detalha o papel do perispírito como **agente das manifestações físicas**:
+
+- O Espírito não é "um ponto, uma abstração; é um ser limitado e circunscrito, ao qual só falta ser visível e palpável, para se assemelhar aos seres humanos" (LM, 1ª parte, cap. I, item 3).
+- Nas aparições, o perispírito pode tornar-se visível e mesmo tangível, conforme as condições fluídicas do meio (LM, 2ª parte, cap. VI).
+- A **bicorporeidade** ocorre quando o perispírito de uma pessoa viva se torna visível em local distante do corpo (LM, 2ª parte, cap. VII).
+- Na **transfiguração**, o perispírito do médium se modifica temporariamente sob influência de outro Espírito (LM, 2ª parte, cap. VII).
+- O perispírito é o veículo pelo qual o Espírito haure o fluido universal e atua sobre a matéria inerte (LM, 2ª parte, cap. IV, item 74).
+
 ## Aprofundamento em A Gênese
 
 O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o perispírito:
@@ -44,10 +54,13 @@ O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o peri
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação
 - [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos
+- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos que o perispírito viabiliza
 - [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/morte-e-pos-morte]]
+- [[wiki/obras/livro-dos-mediuns]] — 1ª parte, cap. I; 2ª parte, caps. IV, VI–VII
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 93–94, q. 135, q. 150. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*. 1ª parte, cap. I, item 3; 2ª parte, caps. IV, VI–VII. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 7–12, 18, 21. Trad. Guillon Ribeiro. FEB.

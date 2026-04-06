@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Gênese]
+fontes: [LE, LM, ESE, Gênese]
 tags: [fluidos, fluido-espiritual, fluido-vital, fluido-magnetico, perispirito, pensamento]
 atualizado_em: 2026-04-06
 status: ativo
@@ -39,6 +39,11 @@ A partir do fluido cósmico universal (substância primitiva única), os fluidos
 - O perispírito é formado "do fluido universal de cada globo" (LE, q. 94).
 - O fluido magnético sonambúlico é "fluido vital, eletricidade animalizada, que são modificações do fluido universal" (LE, q. 427).
 
+**No Livro dos Médiuns:**
+- O fluido universal "é o princípio elementar de todas as coisas" e o fluido magnético animal é "o estado em que se encontra mais próximo daquela simplicidade" (LM, 2ª parte, cap. IV, item 74, V–VI — São Luís).
+- Mecanismo das manifestações físicas: o Espírito "haure no fluido universal" o necessário para animar o objeto e o atrai "sob a influência do fluido que de si mesmo desprende" — combinando com o fluido vital emitido pelo médium (LM, 2ª parte, cap. IV, item 74, VIII–IX).
+- O exercício abusivo da mediunidade pode causar "emissão demasiado abundante de fluido vital" e enfraquecimento orgânico (LM, 2ª parte, cap. XIV, item 161).
+
 **No Evangelho Segundo o Espiritismo:**
 - A prece atua sobre o fluido universal: "Esse fluido recebe da vontade uma impulsão; ele é o veículo do pensamento, como o ar o é do som" (ESE, cap. XXVII, item 9).
 - O passe e a cura espiritual envolvem transmissão de "fluidos benéficos" dos bons Espíritos (ESE, cap. XXVIII, item 80).
@@ -73,12 +78,16 @@ A teoria dos fluidos fundamenta a compreensão espírita de: passe magnético, o
 - [[wiki/conceitos/perispirito]] — condensação fluídica que reveste o Espírito
 - [[wiki/conceitos/prece]] — ação sobre os fluidos pela vontade e pelo pensamento
 - [[wiki/conceitos/emancipacao-da-alma]] — fenômenos ligados à ação fluídica (dupla vista, sonambulismo)
+- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos produzidos pela combinação de fluidos
+- [[wiki/conceitos/mediunidade]] — o médium fornece o fluido vital necessário
 - [[wiki/obras/livro-dos-espiritos]] — q. 27a, q. 65, q. 94, q. 427
+- [[wiki/obras/livro-dos-mediuns]] — 2ª parte, cap. IV (itens 74–99)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXVII, item 9; cap. XXVIII, itens 80, 83
 - [[wiki/obras/genese]] — cap. XIV
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 27a, q. 65, q. 94, q. 427. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. IV (itens 74–99), cap. XIV (item 161). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9; cap. XXVIII, itens 80, 83. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 1–21. Trad. Guillon Ribeiro. FEB.
