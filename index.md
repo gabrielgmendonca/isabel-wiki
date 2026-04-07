@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 5 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte* e *Cristianismo e Espiritismo* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 6 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -21,6 +21,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/obras/depois-da-morte]] — Léon Denis (1890). Síntese da Doutrina Espírita: história das religiões, provas da imortalidade, vida além-túmulo e moral. 5 partes, 56 capítulos.
 - [[wiki/obras/cristianismo-e-espiritismo]] — Léon Denis (1898). O Cristianismo primitivo como experiência espírita, crítica aos dogmas, a Nova Revelação, visão de Deus. 11 capítulos + 12 notas complementares.
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — Léon Denis (1908/1922). Natureza do ser, reencarnação, potências da alma e a dor como instrumento de progresso. 3 partes, 27 capítulos.
+- [[wiki/obras/o-grande-enigma]] — Léon Denis (1911). Deus e o Universo: argumento cosmológico, harmonia das esferas, lei circular da vida, síntese doutrinária. 4 partes, 16 capítulos + notas complementares.
 
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
@@ -59,6 +60,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/livre-arbitrio]] — liberdade e responsabilidade.
 - [[wiki/conceitos/potencias-da-alma]] — vontade, consciência, livre-arbítrio, pensamento, disciplina do caráter (Léon Denis, *O Problema do Ser*, Parte 3).
 - [[wiki/conceitos/dor]] — instrumento educativo e purificador de progresso (LE; ESE; C&I; Léon Denis).
+- [[wiki/conceitos/harmonia-das-esferas]] — harmonia planetária como expressão estética da Inteligência Divina; contribuição original de Léon Denis (*O Grande Enigma*, caps. IV–V).
 
 ### Justiça divina e consequências morais
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — toda ação produz consequência proporcional, no plano físico e moral.

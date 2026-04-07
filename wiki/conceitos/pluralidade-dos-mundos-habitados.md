@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [cosmologia, mundos-habitados, vida-extraterrestre]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -30,6 +30,14 @@ Essa escala complementa o ensino do LE sobre a diversidade dos globos, detalhand
 
 Ver [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
+### Desenvolvimento por Léon Denis
+
+Na síntese doutrinária de *O Grande Enigma* (Parte IV, seção III), Denis retoma a classificação dos mundos em 5 categorias (rudimentares, expiatórios, regeneradores, felizes, celestes/divinos) — fiel ao ESE, cap. III — e acrescenta uma afirmação sobre o **Sol como morada de Espíritos sublimes**: "O Sol é uma estada de espíritos sublimes, que atingiram os mais altos cumes da evolução e, do alto desse astro, como de um trono de luz, fazem irradiar seu pensamento e sua ação sobre os outros mundos por meio das transmissões fluídicas e magnéticas" (Léon Denis, *O Grande Enigma*, seção III, q. 40).
+
+Kardec reconhece a diversidade dos mundos (LE, q. 55–58) e não especifica quais astros são habitados por quais categorias de Espíritos, de modo que a posição de Denis é um **aprofundamento**, não uma contradição. Emmanuel/Chico Xavier corroboram essa visão em obras cuja ingestão está pendente.
+
+Ver [[wiki/obras/o-grande-enigma]].
+
 ## Contra o antropocentrismo
 
 Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o privilégio de conter seres racionais (LE, q. 55). A infinitude de Deus manifesta-se no povoamento do Universo.
@@ -42,3 +50,4 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 55–58. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
+- Denis, Léon. *O Grande Enigma*, Parte IV, seção III. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.

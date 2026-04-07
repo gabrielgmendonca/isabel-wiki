@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, C&I, Gênese]
+fontes: [LE, C&I, Gênese, Léon Denis]
 tags: [morte, desencarnacao, separacao-alma-corpo, perispirito, vida-espirita, perturbacao]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -48,6 +48,16 @@ O **estado moral** é a causa principal: "A afinidade entre o corpo e o perispí
 
 Ver [[wiki/conceitos/perturbacao]] para o estado pós-morte detalhado.
 
+## Desenvolvimento por Léon Denis
+
+Em *O Grande Enigma* (cap. XV, "A Lei Circular"), Denis descreve a morte como um "segundo nascimento" e traça um paralelo detalhado entre o nascimento terrestre e o despertar no mundo espiritual. O perispírito se desprende gradualmente; a doença efetua em dias ou semanas "o que o lento trabalho da idade havia preparado". Denis insiste na importância de envolver a agonia com "palavras suaves e santas, pensamentos elevados", pois são as últimas impressões que o Espírito carrega para o Além.
+
+Após a morte, a alma atravessa um "túnel" de transição — período de perturbação análogo ao do recém-nascido que ainda não fixa a luz. "Pouco a pouco a luz se faz; primeiramente, muito pálida, como a aurora inicial que se levanta sobre a crista dos montes" (Léon Denis, *O Grande Enigma*, cap. XV). As almas superiores atravessam essa obscuridade "com a rapidez do trem expresso"; os Espíritos materializados permanecem mais tempo na penumbra. Gradualmente, o quadro das vidas passadas se desvela "como num clichê cinematográfico vibratório", e o Espírito compreende quem é, onde está e o que vale.
+
+Denis sublinha o papel da prece dos vivos nesse momento: "As influências magnéticas da prece, da recordação, do amor podem desempenhar um papel considerável e apressar o advento das claridades reveladoras" — alinhado com Kardec (ESE, cap. XXVII, item 18).
+
+Ver [[wiki/obras/o-grande-enigma]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/alma]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/reencarnacao]]
@@ -61,3 +71,4 @@ Ver [[wiki/conceitos/perturbacao]] para o estado pós-morte detalhado.
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 2, Cap. III (q. 149–165). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. II; 2ª parte, cap. I. FEB.
+- Denis, Léon. *O Grande Enigma*, cap. XV. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.

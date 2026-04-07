@@ -1,6 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Léon Denis]
+atualizado_em: 2026-04-07
 tags: [deus, causa-primaria, atributos-divinos, providencia]
 atualizado_em: 2026-04-06
 status: ativo
@@ -44,6 +45,8 @@ Essa visão expande a posição de Kardec (LE, q. 11: "falta-vos para isso o sen
 
 Ver [[wiki/obras/cristianismo-e-espiritismo]].
 
+Em *O Grande Enigma* (caps. I–IX), Denis dedica a obra inteira ao argumento cosmológico atualizado: matéria, força e inteligência são três aspectos de uma substância única; a radioatividade (Crookes, Le Bon, Curie) demonstra que a matéria se dissolve em energia, a energia obedece a leis, e as leis exigem uma Inteligência ordenadora. "A força engendra o movimento, mas a força não é a lei. Cega e sem-guia, ela não poderia produzir a ordem e a harmonia no Universo" (Léon Denis, *O Grande Enigma*, cap. I). Denis rejeita tanto o panteísmo quanto o antropomorfismo: Deus é manifestado pelo Universo mas não se confunde com ele — posição alinhada com Kardec (LE, q. 14). No cap. IV, a harmonia planetária é apresentada como prova estética da ação divina. Ver [[wiki/conceitos/harmonia-das-esferas]], [[wiki/obras/o-grande-enigma]].
+
 ## Desdobramentos na wiki
 
 - A criação das coisas e dos seres: [[wiki/conceitos/reencarnacao]] (Deus cria todos os Espíritos simples e ignorantes — LE, q. 115).
@@ -56,3 +59,4 @@ Ver [[wiki/obras/cristianismo-e-espiritismo]].
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 1, Cap. I (q. 1–16). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. II; cap. XVIII, item 3. Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *Cristianismo e Espiritismo*, cap. X. Trad. Albertina Escudeiro Sêco. CELD, 2012.
+- Denis, Léon. *O Grande Enigma*, caps. I–IX. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.

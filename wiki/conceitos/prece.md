@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [prece, oracao, transmissao-do-pensamento]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -46,6 +46,16 @@ A coletânea de preces do cap. XXVIII do ESE oferece modelos para diversas circu
 
 Na casa espírita, a prece de abertura e encerramento dos trabalhos cria a atmosfera espiritual adequada. No cotidiano, a prece é recurso de fortalecimento interior, de conexão com os benfeitores espirituais e de exercício da humildade diante de Deus.
 
+## Desenvolvimento por Léon Denis
+
+Em *O Grande Enigma* (caps. III, VII–VIII), Denis apresenta a prece como a "expressão mais elevada da comunhão das almas" — não fórmula banal, mas impulso do coração pelo qual "o espírito desvencilha-se das servidões da matéria para penetrar nas leis, nos mistérios da Potência Infinita" (cap. III).
+
+Denis insiste no **poder dinâmico e magnético** da prece: "Disso obtivemos a prova objetiva por meio das chapas fotográficas. No estado de prece, através do contato dos dedos, conseguimos impregnar as placas de radiações muito mais ativas, de eflúvios mais intensos do que no estado normal" (cap. VII, nota). Quando o grupo se une em prece com convicção profunda, "o socorro jamais falta. Todas essas vontades reunidas constituem um feixe de forças, uma arma segura contra o mal" (cap. VII).
+
+Para Denis, a prece tem também função **protetora na prática mediúnica**: sem ela, o experimentador fica vulnerável aos "espíritos do abismo". "O pensamento de Deus é como uma luz que dissipa a sombra e afasta os espíritos trevosos" (cap. VII). Posição alinhada com Kardec (ESE, cap. XXVII; LM, 2ª parte, cap. XXIX).
+
+Ver [[wiki/obras/o-grande-enigma]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-adoracao]] — a prece como forma de adoração
@@ -57,3 +67,4 @@ Na casa espírita, a prece de abertura e encerramento dos trabalhos cria a atmos
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XXVII ("Pedi e obtereis"), itens 1–22; cap. XXVIII ("Coletânea de preces espíritas").
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 3, cap. II (q. 658–673) — "Lei de adoração: da prece".
+- Denis, Léon. *O Grande Enigma*, caps. III, VII–VIII. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.

@@ -198,3 +198,24 @@ Terceira obra de Denis na wiki. Tese central: o Cristianismo primitivo era essen
 Páginas criadas (1): `wiki/obras/cristianismo-e-espiritismo.md`.
 Páginas atualizadas (5): `wiki/entidades/leon-denis.md`, `wiki/conceitos/reencarnacao.md`, `wiki/conceitos/deus.md`, `wiki/conceitos/tres-revelacoes.md`, `wiki/conceitos/progresso-espiritual.md`.
 Nenhuma divergência nova registrada.
+
+## [2026-04-07] ingest | O Grande Enigma (Léon Denis, 1911)
+
+Quarta obra de Léon Denis na wiki. Fonte: `raw/autores/leon-denis/o_grande_enigma-min/o_grande_enigma-min.md` (296 p., 4 partes, 16 capítulos + 6 notas complementares + síntese doutrinária). Edição CELD 2011, tradução de Maria Lucia Alcantara de Carvalho. Título original: *La Grande Énigme. Dieu et l'Univers*.
+
+Tese central: matéria, força e inteligência são aspectos de uma substância única; as leis universais exigem uma Inteligência ordenadora — Deus. A obra combina argumento cosmológico (caps. I–IX), contemplação poética da natureza (caps. X–XIV), a "lei circular" da vida e morte (cap. XV), a missão do séc. XX (cap. XVI) e uma síntese doutrinária em formato de catecismo (Parte IV). Destaque para a harmonia planetária como prova estética de Deus (cap. IV) — tema original sem contraparte no Pentateuco.
+
+Páginas criadas (2):
+- `wiki/obras/o-grande-enigma.md`
+- `wiki/conceitos/harmonia-das-esferas.md` — conceito original de Denis, sem contraparte em Kardec
+
+Páginas atualizadas (7):
+- `wiki/entidades/leon-denis.md` — nova obra associada, citação e fontes.
+- `wiki/conceitos/deus.md` — argumento cosmológico de Denis, harmonia planetária.
+- `wiki/conceitos/pluralidade-dos-mundos-habitados.md` — Sol como morada de Espíritos sublimes.
+- `wiki/conceitos/morte.md` — morte como segundo nascimento, desprendimento gradual, perturbação.
+- `wiki/conceitos/prece.md` — comunhão universal, poder dinâmico, proteção mediúnica.
+- `wiki/conceitos/mediunidade.md` — perigos sem elevação moral, necessidade da prece.
+- `wiki/conceitos/progresso-espiritual.md` — lei circular, séc. XX como século do espírito.
+
+Nenhuma divergência doutrinária nova identificada. `index.md` atualizado com obra e conceito novo.

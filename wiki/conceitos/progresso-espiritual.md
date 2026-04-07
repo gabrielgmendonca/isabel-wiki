@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [progresso, evolucao-espiritual, perfeicao, finalidade]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -52,6 +52,10 @@ Em *Cristianismo e Espiritismo* (cap. XI, "Renovação"), Denis destaca que o Es
 
 Ver [[wiki/obras/cristianismo-e-espiritismo]].
 
+Em *O Grande Enigma* (caps. VI e XV–XVI), Denis desenvolve a "lei circular": a vida se desenrola em ciclos — nascimento, juventude, maturidade, velhice, morte — que se repetem em espiral ascendente. "A lei do progresso não se detém no homem; ela prossegue através dos mundos invisíveis, sob formas cada vez mais sutis, de potências em potências, de glórias em glórias até ao infinito, até Deus" (cap. VI). No cap. XVI, Denis projeta o progresso coletivo: o séc. XX como "século do espírito", sucedendo ao séc. XIX da matéria.
+
+Ver [[wiki/obras/o-grande-enigma]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
@@ -62,3 +66,4 @@ Ver [[wiki/obras/cristianismo-e-espiritismo]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. III, XVII e XX. Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 9, 20–27. Trad. Homero Dias de Carvalho. CELD, 2011.
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. X–XI. Trad. Albertina Escudeiro Sêco. CELD, 2012.
+- Denis, Léon. *O Grande Enigma*, caps. VI, XV–XVI. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.

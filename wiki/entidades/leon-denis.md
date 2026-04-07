@@ -35,6 +35,7 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 - *O Porquê da Vida*
 - *O Progresso*
 - *Socialismo e Espiritismo*
+- *O Grande Enigma: Deus e o Universo* (1911)
 - *O Além e a Sobrevivência do Ser*
 
 ## Obras associadas (na wiki)
@@ -42,6 +43,7 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 - [[wiki/obras/depois-da-morte]] — síntese e popularização da Doutrina Espírita: história das religiões, provas da imortalidade, vida além-túmulo e moral (1890)
 - [[wiki/obras/cristianismo-e-espiritismo]] — o Cristianismo primitivo como experiência espírita, crítica aos dogmas, a Nova Revelação (1898)
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — estudo sobre a natureza do ser, o destino e as potências da alma (1908/1922)
+- [[wiki/obras/o-grande-enigma]] — Deus e o Universo: argumento cosmológico, harmonia das esferas, lei circular da vida, síntese doutrinária (1911)
 
 ## Citações relevantes
 
@@ -53,15 +55,19 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 > "A dor não é somente o critério por excelência da vida, o juiz que pesa os caracteres, as consciências e mede a verdadeira grandeza do homem. Ela é, também, um processo infalível para reconhecer o valor das teorias filosóficas e das doutrinas religiosas." (*O Problema do Ser e do Destino*, cap. 27)
 
+> "A força engendra o movimento, mas a força não é a lei. Cega e sem-guia, ela não poderia produzir a ordem e a harmonia no Universo." (*O Grande Enigma*, cap. I)
+
 ## Páginas relacionadas
 
 - [[wiki/entidades/allan-kardec]] — codificador cuja obra Denis continuou
 - [[wiki/conceitos/reencarnacao]] — tema central de sua obra filosófica
 - [[wiki/conceitos/potencias-da-alma]] — conceito desenvolvido na Parte 3 de *O Problema do Ser*
 - [[wiki/conceitos/dor]] — a dor como instrumento educativo, tema de destaque
+- [[wiki/conceitos/harmonia-das-esferas]] — contribuição original de Denis
 
 ## Fontes
 
 - Denis, Léon. *Depois da Morte* (*Après la Mort*). 10ª ed. em português. Trad. FEB. Rio de Janeiro: FEB, 1977.
 - Denis, Léon. *Cristianismo e Espiritismo* (*Christianisme et Spiritisme*). Trad. Albertina Escudeiro Sêco. 2ª ed. Rio de Janeiro: CELD, 2012.
 - Denis, Léon. *O Problema do Ser e do Destino*. Trad. Homero Dias de Carvalho. Rio de Janeiro: CELD, 2011.
+- Denis, Léon. *O Grande Enigma: Deus e o Universo*. Trad. Maria Lucia Alcantara de Carvalho. 3ª ed. Rio de Janeiro: CELD, 2011.

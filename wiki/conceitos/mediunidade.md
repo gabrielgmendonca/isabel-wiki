@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, LE]
 tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -59,6 +59,16 @@ A qualidade das comunicações obtidas depende de **três fatores**: (1) o grau 
 
 A mediunidade não é fim em si — é meio de comunicação e instrução. Kardec adverte contra a leviandade: "De muitas dificuldades se mostra içada a prática do Espiritismo e nem sempre isenta de inconvenientes a que só o estudo sério e completo pode obviar" (LM, Introdução).
 
+## Desenvolvimento por Léon Denis
+
+Em *O Grande Enigma* (cap. VII, "A Ideia de Deus e a Experimentação Psíquica"), Denis alerta para os perigos da prática mediúnica desacompanhada de elevação moral. "Em torno do nosso planeta atrasado, uma vida poderosa flutua, invisível, onde dominam os espíritos levianos e zombeteiros, aos quais se misturam espíritos perversos e malfeitores" (cap. VII). Sem a prece e o pensamento dirigido a Deus, o experimentador fica exposto a "mistificações inumeráveis" e "manobras pérfidas" que podem conduzir o médium à obsessão.
+
+Denis defende que o Espiritismo não pode ser reduzido a ciência positiva — "sua missão real consiste, sobretudo, em desenvolver a vida moral nos homens" (cap. VII). A ideia de Deus, a prece e a intenção pura são condições indispensáveis para atrair Espíritos elevados e obter comunicações úteis. Posição alinhada com Kardec (LM, 2ª parte, caps. XXIII e XXIX).
+
+Nas notas complementares 4–6, Denis passa em revista as provas experimentais do espiritualismo moderno (Crookes, Lombroso, Richet, Lodge, Bottazzi, Eusapia Palladino) e defende a identidade dos Espíritos comunicantes.
+
+Ver [[wiki/obras/o-grande-enigma]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/psicografia]] — principal forma de comunicação escrita
@@ -74,3 +84,4 @@ A mediunidade não é fim em si — é meio de comunicação e instrução. Kard
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV–XXII (itens 159–236).
+- Denis, Léon. *O Grande Enigma*, cap. VII; notas complementares 4–6. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
