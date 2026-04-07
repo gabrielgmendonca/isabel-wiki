@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-isabel.svg" alt="IsAbel — Wiki Espírita" width="480"/>
+  <img src="logo-isabel.svg" alt="IsAbel — Wiki Espírita" width="336"/>
 </p>
 
 # Bem-vindo à IsAbel
