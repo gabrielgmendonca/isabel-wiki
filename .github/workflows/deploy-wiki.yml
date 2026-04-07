@@ -20,6 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Lint wiki
+        run: python3 .claude/skills/lint/scripts/lint_wiki.py
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22

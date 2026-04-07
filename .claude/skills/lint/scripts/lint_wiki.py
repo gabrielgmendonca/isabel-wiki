@@ -365,6 +365,9 @@ def main():
 
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
+    if errors > 0:
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
