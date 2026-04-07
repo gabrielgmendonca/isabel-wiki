@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, Gênese]
+fontes: [LE, Gênese, Léon Denis]
 tags: [deus, causa-primaria, atributos-divinos, providencia]
 atualizado_em: 2026-04-06
 status: ativo
@@ -34,6 +34,16 @@ O cap. II de *A Gênese* retoma e desenvolve os atributos de Deus:
 - **Visão de Deus**: os sentidos materiais não podem perceber Deus; essa impossibilidade é condição da encarnação, não limitação de Deus (Gênese, cap. II, seção "A visão de Deus").
 - **Imutabilidade das leis**: "Deus prova a sua grandeza e o seu poder pela imutabilidade das suas leis e não pela ab-rogação delas" — epígrafe da obra.
 
+## Desenvolvimento por Léon Denis
+
+Em *Cristianismo e Espiritismo* (cap. X), Denis transmite o ensino dos Espíritos sobre a percepção de Deus: "Deus, em sua pura essência, nos dizem os espíritos, é como um oceano de luz. Deus não tem forma, mas pode revestir uma para aparecer a seus eleitos." Denis afirma que mesmo os mais puros Espíritos "podem apenas aguentar o seu brilho" ao contemplar a Divindade "sem véu", e que "a linguagem humana é muito pobre" para descrever o foco divino.
+
+Usa a analogia do sol sobre as águas — a percepção de Deus como fruto do esforço de elevação do ser — e complementa: "Todos, na falta de uma alta inteligência e de um bom senso exercido, podem conhecer e sentir Deus pelos poderes do coração."
+
+Essa visão expande a posição de Kardec (LE, q. 11: "falta-vos para isso o sentido") ao descrever uma experiência concreta dos Espíritos superiores diante do "foco divino", sem contudo afirmar que a essência de Deus seja cognoscível. Trata-se de mudança de ênfase e aprofundamento por via mediúnica. Relaciona-se com a interpretação de "Bem-aventurados os puros de coração, porque verão a Deus" (ESE, cap. VIII) — "ver" como compreensão progressiva, não visão literal.
+
+Ver [[wiki/obras/cristianismo-e-espiritismo]].
+
 ## Desdobramentos na wiki
 
 - A criação das coisas e dos seres: [[wiki/conceitos/reencarnacao]] (Deus cria todos os Espíritos simples e ignorantes — LE, q. 115).
@@ -45,3 +55,4 @@ O cap. II de *A Gênese* retoma e desenvolve os atributos de Deus:
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 1, Cap. I (q. 1–16). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. II; cap. XVIII, item 3. Trad. Guillon Ribeiro. FEB.
+- Denis, Léon. *Cristianismo e Espiritismo*, cap. X. Trad. Albertina Escudeiro Sêco. CELD, 2012.

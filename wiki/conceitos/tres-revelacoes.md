@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [ESE]
+fontes: [ESE, Léon Denis]
 tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao]
 atualizado_em: 2026-04-06
 status: ativo
@@ -34,6 +34,14 @@ Diferentemente das duas anteriores, a revelação espírita não procede de uma 
 
 Kardec enfatiza que Deus proporciona a luz conforme o grau de maturidade da Humanidade: "A cada fase do progresso intelectual e moral corresponde um grau de revelação" (ESE, Introdução, item 4). As três revelações não se contradizem — formam uma escala ascendente de compreensão.
 
+## Desenvolvimento por Léon Denis
+
+Em *Cristianismo e Espiritismo* (caps. IX–X), Denis dedica extensa análise à Terceira Revelação. Cita *João* 14:16–17 ("E eu rogarei ao Pai, que vos dará outro consolador [...] o espírito de Verdade") como profecia do Espiritismo e argumenta que a nova revelação tem caráter impessoal e universal: "Ela não é mais uma obra individual e não se produz em um meio circunscrito. Ela é dada, sobre todos os pontos do globo [...] por intermédio de pessoas de todas as idades, de todas as condições, de todas as nacionalidades."
+
+Denis sublinha que cada grande época teve seus reveladores, mas que "suas doutrinas, mal compreendidas, deram nascimento a religiões que se excluem e se condenam injustamente, porque todos são irmãos e repousam sobre duas bases comuns: Deus e a imortalidade". A revelação espírita vem "coordenar todas as revelações do passado" e abrir "uma fase nova e decisiva para a ascensão da Humanidade".
+
+Ver [[wiki/obras/cristianismo-e-espiritismo]].
+
 ## Desdobramentos
 
 A tese das três revelações é central para compreender a posição do Espiritismo diante das religiões anteriores: não as nega, mas as completa. Também explica por que o Espiritismo não é uma seita cristã, mas o complemento filosófico e científico do Cristianismo.
@@ -47,7 +55,9 @@ Ao preparar palestras sobre a identidade do Espiritismo, o conceito das três re
 - [[wiki/conceitos/lei-natural]] — as leis divinas que regem a evolução moral
 - [[wiki/conceitos/progresso-espiritual]] — a revelação como instrumento do progresso
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. I e Introdução
+- [[wiki/obras/cristianismo-e-espiritismo]] — caps. IX–X, a Nova Revelação
 
 ## Fontes
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Introdução, itens 4–6; cap. I ("Não vim destruir a Lei"), itens 5–7.
+- Denis, Léon. *Cristianismo e Espiritismo*, caps. IX–X. Trad. Albertina Escudeiro Sêco. CELD, 2012.

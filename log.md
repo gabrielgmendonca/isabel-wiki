@@ -190,3 +190,11 @@ Páginas atualizadas (2):
 
 ## [2026-04-07] lint | 2 achados
 Wiki com 187 páginas em boa saúde. Únicos achados: 2 falsos positivos do script (status `aberta` em divergências flaggado como inválido — o script precisa aceitar vocabulário próprio de divergências). Duas divergências abertas (mudança de sexo e almas-irmãs) com análise completa, aguardando decisão do usuário.
+
+## [2026-04-07] ingest | Cristianismo e Espiritismo (Léon Denis, 1898)
+
+Terceira obra de Denis na wiki. Tese central: o Cristianismo primitivo era essencialmente espírita — mediunidade nos primeiros cristãos, aparições de Jesus como fenômenos naturais, supressão do profetismo pela Igreja. Análise dos dogmas como deturpação do Evangelho e do Espiritismo como Terceira Revelação. Destaque para a seção "Visão de Deus" (cap. X): Denis descreve, com base em comunicações espirituais, a percepção progressiva de Deus pelos Espíritos elevados — mudança de ênfase em relação a Kardec, não divergência doutrinária.
+
+Páginas criadas (1): `wiki/obras/cristianismo-e-espiritismo.md`.
+Páginas atualizadas (5): `wiki/entidades/leon-denis.md`, `wiki/conceitos/reencarnacao.md`, `wiki/conceitos/deus.md`, `wiki/conceitos/tres-revelacoes.md`, `wiki/conceitos/progresso-espiritual.md`.
+Nenhuma divergência nova registrada.

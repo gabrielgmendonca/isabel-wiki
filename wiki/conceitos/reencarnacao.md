@@ -50,6 +50,14 @@ Denis dedica toda a segunda parte de *O Problema do Ser e do Destino* (caps. 13�
 
 Ver [[wiki/obras/o-problema-do-ser-e-do-destino]].
 
+### Em *Cristianismo e Espiritismo*
+
+Denis dedica os caps. III–IV e a nota complementar nº 5 à presença da reencarnação no Cristianismo primitivo. Argumenta que Orígenes e vários Pais da Igreja ensinavam os "castigos medicinais" — existências sucessivas da alma para resgate de faltas — e que essa doutrina "ensinada pelos espíritos" foi suprimida pelos concílios porque "não inspirava bastante terror ao pecado e à morte" e tornava desnecessária a mediação sacerdotal: "O homem, podendo resgatar a si mesmo de suas faltas, não tinha necessidade do padre" (Léon Denis, *Cristianismo e Espiritismo*, cap. VI).
+
+Denis reforça a exegese de Kardec (ESE, cap. IV) sobre o diálogo de Jesus com Nicodemos (*João* 3:3) e a identificação de Elias com João Batista (*Mateus* 17:10–13), demonstrando que a reencarnação fazia parte do ensino original do Cristo.
+
+Ver [[wiki/obras/cristianismo-e-espiritismo]].
+
 ## Divergências
 
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202).
@@ -67,3 +75,4 @@ Ver [[wiki/obras/o-problema-do-ser-e-do-destino]].
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 2, Cap. IV (q. 166–222). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, Parte 2 (caps. 13–19). Trad. Homero Dias de Carvalho. CELD, 2011.
+- Denis, Léon. *Cristianismo e Espiritismo*, caps. III–IV, VI; nota complementar nº 5. Trad. Albertina Escudeiro Sêco. CELD, 2012.

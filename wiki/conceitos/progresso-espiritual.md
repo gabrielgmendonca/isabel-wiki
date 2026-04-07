@@ -48,6 +48,10 @@ Denis aprofunda o conceito em *O Problema do Ser e do Destino*: a evolução da 
 
 Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/conceitos/dor]], [[wiki/obras/o-problema-do-ser-e-do-destino]].
 
+Em *Cristianismo e Espiritismo* (cap. XI, "Renovação"), Denis destaca que o Espiritismo oferece base moral definitiva para o progresso: lei de causa e efeito, responsabilidade pessoal e solidariedade entre as duas humanidades (encarnada e desencarnada). "A compreensão das coisas divinas aumenta com o nosso progresso, à medida que nossas faculdades e nossos sentidos, em se desenvolvendo, nos abrirem novas perspectivas sobre os mundos superiores" (cap. X). Cita exemplos concretos de renovação moral pelo Espiritismo entre mineiros de Charleroi e forçados de Tarragona.
+
+Ver [[wiki/obras/cristianismo-e-espiritismo]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
@@ -57,3 +61,4 @@ Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/conceitos/dor]], [[wiki/obras/o
 - Kardec, Allan. *O Livro dos Espíritos*, q. 115–122, q. 780–784. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. III, XVII e XX. Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 9, 20–27. Trad. Homero Dias de Carvalho. CELD, 2011.
+- Denis, Léon. *Cristianismo e Espiritismo*, caps. X–XI. Trad. Albertina Escudeiro Sêco. CELD, 2012.

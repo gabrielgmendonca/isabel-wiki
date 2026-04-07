@@ -1,6 +1,6 @@
 ---
 tipo: entidade
-fontes: []
+fontes: [Léon Denis]
 tags: [autor, complementar, filosofo-espirita]
 atualizado_em: 2026-04-07
 status: ativo
@@ -40,6 +40,7 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 ## Obras associadas (na wiki)
 
 - [[wiki/obras/depois-da-morte]] — síntese e popularização da Doutrina Espírita: história das religiões, provas da imortalidade, vida além-túmulo e moral (1890)
+- [[wiki/obras/cristianismo-e-espiritismo]] — o Cristianismo primitivo como experiência espírita, crítica aos dogmas, a Nova Revelação (1898)
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — estudo sobre a natureza do ser, o destino e as potências da alma (1908/1922)
 
 ## Citações relevantes
@@ -62,4 +63,5 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 ## Fontes
 
 - Denis, Léon. *Depois da Morte* (*Après la Mort*). 10ª ed. em português. Trad. FEB. Rio de Janeiro: FEB, 1977.
+- Denis, Léon. *Cristianismo e Espiritismo* (*Christianisme et Spiritisme*). Trad. Albertina Escudeiro Sêco. 2ª ed. Rio de Janeiro: CELD, 2012.
 - Denis, Léon. *O Problema do Ser e do Destino*. Trad. Homero Dias de Carvalho. Rio de Janeiro: CELD, 2011.
