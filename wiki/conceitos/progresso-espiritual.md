@@ -42,11 +42,18 @@ A Humanidade, em seu conjunto, progride — embora em meio a abusos e recuos apa
 
 Ver [[wiki/conceitos/lei-do-progresso]].
 
+## Desenvolvimento por Léon Denis
+
+Denis aprofunda o conceito em *O Problema do Ser e do Destino*: a evolução da alma se dá pelo esforço da vontade, pela dor como instrumento educativo e pelas potências interiores (caps. 9, 20–27). "A lei do progresso não se aplica somente ao homem. Ela é universal." (Léon Denis, *O Problema do Ser*, cap. 9).
+
+Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/conceitos/dor]], [[wiki/obras/o-problema-do-ser-e-do-destino]].
+
 ## Páginas relacionadas
 
-- [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]]
+- [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 115–122, q. 780–784. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. III, XVII e XX. Trad. Guillon Ribeiro. FEB.
+- Denis, Léon. *O Problema do Ser e do Destino*, caps. 9, 20–27. Trad. Homero Dias de Carvalho. CELD, 2011.

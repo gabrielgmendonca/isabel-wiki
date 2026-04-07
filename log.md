@@ -128,3 +128,25 @@ Páginas atualizadas (2):
 - `wiki/conceitos/transicao-planetaria.md` — cross-link para palestra.
 
 `index.md` atualizado com obra (nova subseção "Complementares"), conceito e entidade. Nenhuma divergência com o Pentateuco identificada. Nota registrada sobre referência científica imprecisa ("dois físicos quânticos de Harvard") — fonte provável: Candace Pert (neuropeptídeos) + Herbert Benson (resposta de relaxamento).
+
+## [2026-04-07] ingest | O Problema do Ser e do Destino (Léon Denis, 1908/1922)
+
+Primeira obra de Léon Denis na wiki. Fonte: `raw/autores/leon-denis/O Problema do Ser do Destino e da Dor/O Problema do Ser do Destino e da Dor.md` (456 p., 3 partes, 27 capítulos). Edição CELD 2011, baseada na edição francesa de 1922.
+
+Páginas criadas (6):
+- **Obra** (1): `wiki/obras/o-problema-do-ser-e-do-destino.md`
+- **Entidade** (1): `wiki/entidades/leon-denis.md`
+- **Conceitos novos** (2): `wiki/conceitos/potencias-da-alma.md`, `wiki/conceitos/dor.md`
+- **Divergências** (2): `wiki/divergencias/mudanca-de-sexo-reencarnacao.md`, `wiki/divergencias/almas-irmas-criadas-aos-pares.md`
+
+Páginas atualizadas (3):
+- `wiki/conceitos/reencarnacao.md` — seção Denis + links para divergências.
+- `wiki/conceitos/livre-arbitrio.md` — seção Denis + link para potências da alma.
+- `wiki/conceitos/progresso-espiritual.md` — seção Denis + links para dor e potências.
+
+Divergências identificadas (2 reais, 1 mudança de ênfase):
+1. **Mudança de sexo** (divergência real): Denis restringe e estigmatiza; Kardec trata com naturalidade (LE, q. 200–202).
+2. **Almas-irmãs criadas aos pares** (divergência real): Denis afirma pares predestinados; Kardec nega "união particular e fatal" (LE, q. 298).
+3. **Intervalo entre encarnações** (mudança de ênfase): Denis generaliza curto (10–30 anos); Kardec é aberto ("desde algumas horas até milhares de séculos", LE, q. 223).
+
+`index.md` atualizado com obra (subseção Léon Denis), entidade, conceitos novos e divergências.

@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 1 complementar. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Primeira fonte complementar (nível 3): palestra de Divaldo Franco. Última atualização: 2026-04-06.
+> **Status:** Pentateuco completo + 2 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino* de Léon Denis. Última atualização: 2026-04-07.
 
 ---
 
@@ -16,6 +16,11 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/obras/ceu-e-inferno]] — justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
 
 ### Obras complementares
+
+#### Léon Denis
+- [[wiki/obras/o-problema-do-ser-e-do-destino]] — Léon Denis (1908/1922). Natureza do ser, reencarnação, potências da alma e a dor como instrumento de progresso. 3 partes, 27 capítulos.
+
+#### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 
 ## Conceitos
@@ -46,6 +51,8 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/emancipacao-da-alma]] — sono, sonhos, sonambulismo, êxtase (LE, q. 400–455).
 - [[wiki/conceitos/progresso-espiritual]] — finalidade da criação.
 - [[wiki/conceitos/livre-arbitrio]] — liberdade e responsabilidade.
+- [[wiki/conceitos/potencias-da-alma]] — vontade, consciência, livre-arbítrio, pensamento, disciplina do caráter (Léon Denis, *O Problema do Ser*, Parte 3).
+- [[wiki/conceitos/dor]] — instrumento educativo e purificador de progresso (LE; ESE; C&I; Léon Denis).
 
 ### Justiça divina e consequências morais
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — toda ação produz consequência proporcional, no plano físico e moral.
@@ -87,6 +94,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/sao-luis]] — revelador no LE, instrutor principal no LM.
 - [[wiki/entidades/santo-agostinho]] — revelador no LE e comunicante frequente no ESE.
 - [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
+- [[wiki/entidades/leon-denis]] — Léon Denis (1846–1927), filósofo espírita, continuador da obra de Kardec.
 - [[wiki/entidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
 
 ### Espíritos comunicantes do C&I (2ª parte)
@@ -189,4 +197,5 @@ Comparações, análises temáticas, conexões entre obras.
 
 Pontos em que autores complementares divergem do Pentateuco.
 
-_(nenhuma divergência identificada — palestra de Divaldo Franco alinhada ao Pentateuco)_
+- [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Léon Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202). Status: aberta.
+- [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Léon Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298). Status: aberta.

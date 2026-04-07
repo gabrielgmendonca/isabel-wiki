@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
+fontes: [LE, ESE, Léon Denis]
 tags: [reencarnacao, pluralidade-existencias, justica-divina]
 atualizado_em: 2026-04-06
 status: ativo
@@ -44,6 +44,17 @@ Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
 Kardec reconhece que a ideia não é nova — vem de Pitágoras e, antes, dos druidas. Mas ressalta que, por ser uma **Lei da Natureza**, o princípio há de existir desde a origem dos tempos (LE, q. 222).
 
+## Desenvolvimento por Léon Denis
+
+Denis dedica toda a segunda parte de *O Problema do Ser e do Destino* (caps. 13–19) à defesa e ao aprofundamento da reencarnação: expõe suas leis, compila provas experimentais (regressão de memória sob hipnose — experiências de Rochas, Colavida, Marata), provas por crianças-prodígio, provas históricas (druidismo céltico, tradições orientais) e responde objeções. Apresenta a reencarnação como "condição necessária à educação e aos progressos" da alma (Léon Denis, *O Problema do Ser*, cap. 13).
+
+Ver [[wiki/obras/o-problema-do-ser-e-do-destino]].
+
+## Divergências
+
+- [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202).
+- [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298).
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/encarnacao]] — objetivo e mecânica da primeira/cada encarnação.
@@ -55,3 +66,4 @@ Kardec reconhece que a ideia não é nova — vem de Pitágoras e, antes, dos dr
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 2, Cap. IV (q. 166–222). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo". Trad. Guillon Ribeiro. FEB.
+- Denis, Léon. *O Problema do Ser e do Destino*, Parte 2 (caps. 13–19). Trad. Homero Dias de Carvalho. CELD, 2011.

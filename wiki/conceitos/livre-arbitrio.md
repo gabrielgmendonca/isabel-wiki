@@ -43,11 +43,18 @@ Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
 O desenvolvimento do livre-arbítrio acompanha o da inteligência e **aumenta a responsabilidade** dos atos (LE, q. 780, letra a).
 
+## Desenvolvimento por Léon Denis
+
+Denis dedica o cap. 22 de *O Problema do Ser e do Destino* ao livre-arbítrio, reafirmando o ensino de Kardec. Insere o tema no contexto mais amplo das "potências da alma" (vontade, consciência, pensamento), argumentando que a liberdade cresce com o desenvolvimento dessas faculdades.
+
+Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/obras/o-problema-do-ser-e-do-destino]].
+
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-liberdade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]]
+- [[wiki/conceitos/lei-de-liberdade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/potencias-da-alma]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 843–872, q. 258, q. 780. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (itens 8–9) e cap. XVII (item 7). Trad. Guillon Ribeiro. FEB.
+- Denis, Léon. *O Problema do Ser e do Destino*, cap. 22. Trad. Homero Dias de Carvalho. CELD, 2011.
