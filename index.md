@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 8 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Kardec complementar (nível 2): *O Que é o Espiritismo?*. Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 9 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Kardec complementar (nível 2): *O Que é o Espiritismo?*, *Viagem Espírita em 1862*. Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -17,6 +17,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
+- [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
 
 ### Obras complementares (nível 3)
 
@@ -136,6 +137,11 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 **Cap. VIII — Expiações terrestres** (14):
 [[wiki/entidades/marcel]] · [[wiki/entidades/szymel-slizgol]] · [[wiki/entidades/julienne-marie]] · [[wiki/entidades/max]] · [[wiki/entidades/empregado-domestico]] · [[wiki/entidades/antonio-b]] · [[wiki/entidades/sr-letil]] · [[wiki/entidades/cientista-ambicioso]] · [[wiki/entidades/charles-de-saint-g]] · [[wiki/entidades/adelaide-marguerite-gosse]] · [[wiki/entidades/clara-rivier]] · [[wiki/entidades/francoise-vernhes]] · [[wiki/entidades/anna-bitter]] · [[wiki/entidades/joseph-maitre]]
+
+### Vida espírita e prática do Espiritismo
+- [[wiki/conceitos/verdadeiro-espirita]] — três categorias de espíritas, o espírita cristão (Viagem Espírita em 1862; ESE, cap. XVII).
+- [[wiki/conceitos/organizacao-de-grupos-espiritas]] — formação, condução e regulamento de grupos e sociedades espíritas (LM, caps. XXIX–XXX; Viagem Espírita em 1862).
+- [[wiki/conceitos/evangelizacao-infantojuvenil]] — educação moral e espiritual de crianças e jovens (Viagem Espírita em 1862; LE, q. 383–385).
 
 ### Mediunidade e prática espírita (O Livro dos Médiuns)
 - [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem, classificação dos médiuns (LM, caps. XIV–XVI).

@@ -62,6 +62,12 @@ Este capítulo é indispensável para quem prepara palestras sobre mediunidade e
 
 Para o estudo individual, o capítulo convida à reflexão sobre a coerência intelectual: não se pode invocar seletivamente a autoridade de Moisés, aceitando o que convém e descartando o resto. A liberdade dos Espíritos de virem comunicar-se, quando e se lhes convém, é uma garantia de que a evocação respeitosa não perturba ninguém — ao contrário, é fonte de instrução e consolo tanto para encarnados quanto para desencarnados.
 
+## Na *Viagem Espírita em 1862*
+
+Na Instrução VIII, Kardec retoma o tema com os mesmos argumentos de *O Céu e o Inferno*, reforçando dois pontos: (1) a proibição de Moisés implica que é possível evocar os mortos — "seria necessário fazer-se uma lei proibindo a subida à Lua?"; (2) Moisés proibiu por razões práticas — os hebreus traziam do Egito práticas abusivas e supersticiosas que precisavam ser erradicadas. "Hoje, as coisas não são mais as mesmas, e o que podia ser outrora um inconveniente já não o é no estado atual da sociedade."
+
+Ver [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]

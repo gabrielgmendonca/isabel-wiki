@@ -32,6 +32,16 @@ O Espiritismo refuta o materialismo pelos fatos — as manifestações dos Espí
 
 A Gênese acrescenta que as leis naturais regem tanto o mundo físico quanto o moral, demonstrando a unidade da criação e a insuficiência da visão exclusivamente materialista (Gênese, cap. I).
 
+## Na *Viagem Espírita em 1862*
+
+Nos discursos de Lyon e Bordeaux, Kardec desenvolve amplamente a relação entre materialismo, egoísmo e crise social. O materialismo, ao negar a vida futura, leva o homem a concentrar-se na vida presente e a raciocinar: "Gozemos sempre o presente; que me importam os semelhantes?" — donde o egoísmo se torna regra lógica. O Espiritismo vem preencher o vazio moral, oferecendo provas racionais da imortalidade:
+
+> "O materialismo ameaçava fazer a sociedade mergulhar em trevas, dizendo aos homens: O presente é tudo, porquanto o futuro não existe. O Espiritismo vem restabelecer a verdade, afirmando: O presente nada é, o futuro é tudo, e o prova." (Kardec, *Viagem Espírita em 1862*, Discurso II)
+
+Kardec também observa que "compreender para crer tornou-se uma necessidade imperiosa" — a fé cega já não basta ao espírito moderno, e o Espiritismo responde a essa necessidade com fatos e lógica, não com dogma.
+
+Ver [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Aplicação prática
 
 Em palestras, o materialismo é ponto de partida frequente para o diálogo com incrédulos. Convém abordá-lo sem julgamento — reconhecendo que é consequência de uma filosofia incompleta, não de má-fé — e apresentar os fatos e raciocínios que o superam. O Espiritismo não pede fé cega; oferece provas e lógica.

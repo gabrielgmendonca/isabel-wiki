@@ -43,6 +43,7 @@ Kardec não se atribui autoria doutrinária, mas função de **coordenador**: as
 - [[wiki/obras/livro-dos-espiritos]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
 - [[wiki/obras/genese]]
+- [[wiki/obras/viagem-espirita-em-1862]]
 - [[wiki/entidades/espiritos-reveladores]]
 
 ## Fontes

@@ -235,3 +235,11 @@ Primeira obra de Kardec complementar (nível 2) na wiki. Opúsculo introdutório
 Páginas criadas (1): `wiki/obras/o-que-e-o-espiritismo.md`.
 Páginas atualizadas (1): `index.md`.
 Nenhuma divergência — obra do próprio Kardec.
+
+## [2026-04-07] ingest | Viagem Espírita em 1862 (Allan Kardec)
+
+Segunda obra de Kardec complementar (nível 2) na wiki. Relato da turnê de Kardec pela França em 1862: impressões gerais sobre o crescimento do Espiritismo, discursos em Lyon e Bordeaux (caridade como base da reforma social, combate ao materialismo, transição planetária), instruções práticas aos grupos e modelo de regulamento para sociedades espíritas.
+
+Páginas criadas (4): `wiki/obras/viagem-espirita-em-1862.md`, `wiki/conceitos/verdadeiro-espirita.md`, `wiki/conceitos/evangelizacao-infantojuvenil.md`, `wiki/conceitos/organizacao-de-grupos-espiritas.md`.
+Páginas atualizadas (9): `wiki/conceitos/caridade.md`, `wiki/conceitos/materialismo.md`, `wiki/conceitos/egoismo.md`, `wiki/conceitos/transicao-planetaria.md`, `wiki/conceitos/geracao-nova.md`, `wiki/conceitos/proibicao-de-evocar-os-mortos.md`, `wiki/conceitos/mediunidade.md`, `wiki/entidades/allan-kardec.md`, `index.md`.
+Nenhuma divergência — obra do próprio Kardec.

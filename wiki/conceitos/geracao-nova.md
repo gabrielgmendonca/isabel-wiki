@@ -42,6 +42,12 @@ Kardec compara a humanidade a um regimento composto de homens turbulentos. Subst
 
 O conceito de geração nova oferece chave de leitura para fenômenos sociais observáveis: crianças e jovens com precocidade moral e intelectual, sensibilidade espiritual inata, aversão instintiva à violência. Para o espírita, reconhecer esses sinais é motivo de esperança fundamentada, não de messianismo.
 
+## Na *Viagem Espírita em 1862*
+
+Kardec observa in loco a formação de uma geração espírita: crianças educadas nos princípios espíritas demonstram raciocínio precoce, docilidade e respeito filial. Projeta que essas crianças educarão seus filhos nos mesmos princípios, enquanto "desaparecerão os velhos preconceitos com as velhas gerações" — confirmando pelo exemplo prático o que *A Gênese* ensina em termos mais abstratos.
+
+Ver [[wiki/conceitos/evangelizacao-infantojuvenil]], [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/transicao-planetaria]] — o contexto mais amplo da renovação

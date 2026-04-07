@@ -54,6 +54,16 @@ O progresso não é acidental, mas obedece a leis eternas: "Quando, por consegui
 
 A transição planetária fundamenta a esperança espírita no futuro da Terra sem escapismo ou passividade: o advento do mundo regenerado depende do esforço moral de cada Espírito. Quem se reforma interiormente contribui para a transição; quem se obstina no mal será naturalmente afastado pela lei de progresso. A mensagem é de responsabilidade ativa, não de espera passiva.
 
+## Na *Viagem Espírita em 1862*
+
+Kardec confirma que os Espíritos comunicam de toda parte a proximidade da era nova. No Discurso III, reitera que a renovação não será cataclísmica, mas moral:
+
+> "Basta a Deus não mais permitir aos Espíritos imperfeitos que aqui se reencarnem; que daqui afaste os que, por orgulho, incredulidade e maus instintos constituem obstáculo ao progresso [...]. Para isto, basta uma geração de homens e a vontade de Deus." (Kardec, *Viagem Espírita em 1862*, Discurso III)
+
+Kardec adverte contra expectativas de mudança brusca: "Não creiais que sejamos testemunhas de uma transformação visível; querem significar que estamos no momento da transição; que assistimos à partida dos antigos e à chegada dos novos."
+
+Ver [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/geracao-nova]] — os Espíritos que protagonizam a renovação

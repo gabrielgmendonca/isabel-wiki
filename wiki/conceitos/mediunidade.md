@@ -69,6 +69,16 @@ Nas notas complementares 4–6, Denis passa em revista as provas experimentais d
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+## Na *Viagem Espírita em 1862*
+
+Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
+
+> "Os médiuns interesseiros e profissionais são desconhecidos nos lugares que visitamos [...]. Aquele que fizesse profissão de sua faculdade não inspiraria a menor confiança; muito ao contrário, seria repelido por todos os grupos." (Kardec, *Viagem Espírita em 1862*, Impressões gerais)
+
+Qualidades do bom médium: "modéstia, simpatia e devotamento". Deve oferecer seu concurso para tornar-se útil, nunca para satisfazer à vaidade; aceitar e solicitar a crítica; não tomar partido das comunicações recebidas.
+
+Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grupos-espiritas]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/psicografia]] — principal forma de comunicação escrita

@@ -34,6 +34,16 @@ A caridade — em pensamentos, palavras e ações — é o remédio para o egoí
 
 O combate ao egoísmo é trabalho diário e progressivo. Em palestras, convém lembrar que o egoísmo não é apenas a avareza material, mas todo movimento interior que coloca o "eu" acima do próximo — na família, no trabalho, nos relacionamentos. O Espiritismo convida ao autoexame constante: "Fez o bem que podia? Sacrificou algum interesse em favor do próximo?" (LE, Conclusão, item III).
 
+## Na *Viagem Espírita em 1862*
+
+Kardec apresenta o egoísmo como consequência direta do materialismo e como obstáculo a toda reforma social:
+
+> "Ao negar a vida futura, o materialismo suprime o fundamento da responsabilidade moral: se nada sobrevive à morte, a noção de justiça perde sentido e o egoísmo se torna regra lógica." (síntese do Discurso II)
+
+A caridade é a antítese do egoísmo: "Uma diz: Para vós em primeiro lugar, para mim depois; e o outro: Para mim antes, para vós se sobrar." Kardec demonstra que os sistemas utópicos de reforma social fracassam precisamente por não atacarem o egoísmo pela raiz: "Sem a caridade, não há instituição humana estável."
+
+Ver [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/caridade]]

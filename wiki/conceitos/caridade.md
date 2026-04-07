@@ -45,6 +45,16 @@ A caridade é o critério de julgamento perante as leis divinas. O LE ensina que
 
 A prática da caridade no cotidiano espírita vai além da esmola material. Inclui a palavra amiga, o conselho fraterno, o silêncio diante da calúnia, a tolerância com as imperfeições do próximo. Na casa espírita, manifesta-se no passe, na evangelização, no atendimento fraterno e no trabalho voluntário.
 
+## Na *Viagem Espírita em 1862*
+
+Kardec eleva a caridade a **critério absoluto de julgamento** entre espíritas. Propõe a dupla divisa: "Fora da caridade não há salvação" e "Fora da caridade não há verdadeiros espíritas". A caridade é apresentada como base indispensável de qualquer reforma social: sem ela, os sistemas utópicos materialistas fracassam, pois lhes falta o elemento moral.
+
+> "Sentimento de benevolência, de justiça e de indulgência para com o próximo, baseado no que quereríamos que o próximo nos fizesse." (Kardec, *Viagem Espírita em 1862*, Instrução particular)
+
+Na prática dos grupos, a caridade é a "senha" universal dos espíritas — "é compreendida de um extremo a outro do mundo" — e o critério para resolver divergências: "eu me preocuparia menos com a causa e mais com a consequência" (Kardec, *Viagem Espírita em 1862*, Discurso III).
+
+Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — a lei moral que fundamenta a caridade
