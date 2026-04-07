@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 7 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 8 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Kardec complementar (nível 2): *O Que é o Espiritismo?*. Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -15,7 +15,10 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/obras/genese]] — Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
 - [[wiki/obras/ceu-e-inferno]] — justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
 
-### Obras complementares
+### Kardec complementar (nível 2)
+- [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
+
+### Obras complementares (nível 3)
 
 #### Léon Denis
 - [[wiki/obras/depois-da-morte]] — Léon Denis (1890). Síntese da Doutrina Espírita: história das religiões, provas da imortalidade, vida além-túmulo e moral. 5 partes, 56 capítulos.

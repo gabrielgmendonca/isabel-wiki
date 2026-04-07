@@ -227,3 +227,11 @@ Segunda palestra de Divaldo na wiki. Fonte: web TV Mansão do Caminho. Palestra 
 Páginas criadas (4): `wiki/obras/quando-o-invisivel-se-torna-inevitavel.md`, `wiki/entidades/meimei.md`, `wiki/entidades/victor-hugo.md`, `wiki/entidades/mansao-do-caminho.md`.
 Páginas atualizadas (5): `wiki/entidades/divaldo-franco.md`, `wiki/conceitos/obsessao.md` (seção "Casos ilustrativos" com narrativa da prima Baby), `wiki/conceitos/perispirito.md`, `wiki/conceitos/psicografia.md` (casos Victor Hugo e Meimei), `index.md`.
 Nenhuma divergência com o Pentateuco identificada.
+
+## [2026-04-07] ingest | O Que é o Espiritismo? (Allan Kardec, 1859)
+
+Primeira obra de Kardec complementar (nível 2) na wiki. Opúsculo introdutório em três capítulos: diálogos com crítico e cético (Cap. I), noções elementares — natureza dos Espíritos, tríplice constituição, meios de comunicação, escala espírita, mediunidade (Cap. II), e solução de problemas pela reencarnação — pluralidade dos mundos, preexistência da alma, desigualdades, penas e gozos futuros (Cap. III). Contém as duas definições canônicas do Espiritismo.
+
+Páginas criadas (1): `wiki/obras/o-que-e-o-espiritismo.md`.
+Páginas atualizadas (1): `index.md`.
+Nenhuma divergência — obra do próprio Kardec.
