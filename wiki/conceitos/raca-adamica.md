@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, Gênese]
+fontes: [LE, Gênese, Emmanuel/Chico Xavier]
 tags: [raca-adamica, adao, imigracao, mundos, progresso]
 atualizado_em: 2026-04-06
 status: ativo
@@ -32,6 +32,23 @@ Kardec argumenta que a diversidade fisiológica das raças humanas não permite 
 
 Os Espíritos que persistem no mal num mundo em progresso são excluídos e enviados a mundos menos adiantados — onde se tornam, para os habitantes locais, como "anjos ou Espíritos decaídos, ali vindos em expiação" (Gênese, cap. XI, item 43). A raça adâmica ilustra o mecanismo inverso: Espíritos mais adiantados vindos impulsionar o progresso.
 
+## Desenvolvimento por Emmanuel
+
+Em *A Caminho da Luz* (cap. 3), Emmanuel identifica a origem dos Espíritos adâmicos: um mundo da **Constelação do Cocheiro (Capela)**, cujo ciclo evolutivo exigia o afastamento de "alguns milhões de Espíritos rebeldes". Jesus os recebeu na Terra e exortou-os à regeneração pelo trabalho e pela dor.
+
+Esses Espíritos formaram quatro grandes grupos (Emmanuel/Chico Xavier, *A Caminho da Luz*, cap. 3):
+
+1. **Árias** — ancestrais dos indo-europeus (latinos, celtas, gregos, germanos, eslavos)
+2. **Egípcios** — os menos endividados, portadores dos mais elevados patrimônios morais
+3. **Israelitas** — povo de Israel
+4. **Hindus** — castas da Índia
+
+"Aqueles seres angustiados e aflitos [...] seriam degredados na face obscura do planeta terrestre; andariam desprezados na noite dos milênios da saudade e da amargura." (Emmanuel/Chico Xavier, *A Caminho da Luz*, cap. 3)
+
+A tradição bíblica do "paraíso perdido" é interpretada por Emmanuel como reminiscência do mundo de origem: "As tradições do paraíso perdido passaram de gerações a gerações, até que ficassem arquivadas nas páginas da Bíblia" (cap. 3).
+
+Ver [[wiki/obras/a-caminho-da-luz]].
+
 ## Aplicação prática
 
 O conceito de raça adâmica integra a cosmogonia espírita ao demonstrar que o progresso humano não é linear nem exclusivamente terrestre. A Terra é estação de passagem: recebe Espíritos vindos de mundos inferiores (para expiar) e de mundos superiores (para impulsionar), num fluxo contínuo de emigrações e imigrações.
@@ -43,9 +60,11 @@ O conceito de raça adâmica integra a cosmogonia espírita ao demonstrar que o 
 - [[wiki/conceitos/transicao-planetaria]] — o processo atual de renovação da Terra
 - [[wiki/conceitos/reencarnacao]] — a lei que torna possíveis as migrações entre mundos
 - [[wiki/conceitos/progresso-espiritual]] — finalidade de toda encarnação
+- [[wiki/obras/a-caminho-da-luz]] — cap. 3, identificação com Capela (Emmanuel/Chico Xavier)
 - [[wiki/obras/genese]] — cap. XI, itens 38–44
 
 ## Fontes
 
 - Kardec, Allan. *A Gênese*, cap. XI, itens 38–44. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 59 (comentário sobre Adão, o dilúvio e as raças). Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 3. FEB, 1939.

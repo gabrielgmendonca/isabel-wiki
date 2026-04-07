@@ -251,3 +251,7 @@ Nenhuma divergência — obra do próprio Kardec.
 ## [2026-04-07] ingest | Obras Póstumas (Allan Kardec, edição FEB)
 
 Ingest de *Obras Póstumas* (nível 2 — Kardec complementar). Criados: `wiki/obras/obras-postumas.md`, `wiki/conceitos/morte-espiritual.md`, `wiki/entidades/camille-flammarion.md`. Atualizados: `wiki/entidades/jesus.md` (seção Natureza do Cristo), `wiki/entidades/allan-kardec.md` (seções Primeira iniciação e Missão/Previsões), `wiki/conceitos/perispirito.md`, `wiki/conceitos/emancipacao-da-alma.md`, `wiki/conceitos/materialismo.md`, `wiki/conceitos/egoismo.md`, `wiki/conceitos/orgulho.md`, `wiki/conceitos/fe-raciocinada.md`, `index.md`. Nenhuma divergência com o Pentateuco identificada.
+
+## [2026-04-07] ingest | A Caminho da Luz (Emmanuel/Chico Xavier, FEB, 1939)
+
+Ingest de *A Caminho da Luz* (nível 3 — complementar aprovado). Primeira obra de Emmanuel/Chico Xavier na wiki. Status: **rascunho** (obra rica, demanda aprofundamento futuro). Criados: `wiki/obras/a-caminho-da-luz.md`, `wiki/entidades/emmanuel.md`, `wiki/entidades/chico-xavier.md`. Atualizados: `wiki/entidades/jesus.md` (seção Governador espiritual da Terra), `wiki/conceitos/raca-adamica.md` (desenvolvimento por Emmanuel — Capela), `wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos.md` (exemplo de Capela), `wiki/conceitos/transicao-planetaria.md` (visão de Emmanuel), `wiki/conceitos/progresso-espiritual.md` (progresso civilizatório), `index.md`. Nenhuma divergência com o Pentateuco identificada — informações complementares.

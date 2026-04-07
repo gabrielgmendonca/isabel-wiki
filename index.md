@@ -39,7 +39,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 10 fontes complementares. ~194 páginas entre conceitos, obras, entidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 11 fontes complementares. ~197 páginas entre conceitos, obras, entidades, questões e sínteses.
 
 ---
 
@@ -74,6 +74,9 @@ Catálogo de todas as páginas, organizado por categoria.
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — Carlos Mendonça, palestra. Primeira bem-aventurança (Mateus 5:3), pobreza de espírito como humildade, conquista do Reino dos Céus.
+
+#### Emmanuel / Chico Xavier
+- [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
@@ -158,6 +161,8 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/entidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
 - [[wiki/entidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
 - [[wiki/entidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
+- [[wiki/entidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
+- [[wiki/entidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
 - [[wiki/entidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 
 ### Espíritos comunicantes do C&I (2ª parte)

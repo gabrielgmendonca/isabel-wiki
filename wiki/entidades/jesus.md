@@ -1,6 +1,6 @@
 ---
 tipo: entidade
-fontes: [LE, ESE, Gênese, OPE]
+fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier]
 tags: [jesus, cristo, modelo-moral]
 atualizado_em: 2026-04-07
 status: ativo
@@ -56,19 +56,35 @@ Em *Obras Póstumas*, Kardec dedica um extenso estudo em 9 seções à questão 
 
 Esta análise é coerente com a posição do LE (q. 625: Jesus como tipo da perfeição moral) e de *A Gênese* (cap. XV: superioridade da natureza de Jesus explicada pelos fluidos).
 
+## Governador espiritual da Terra (Emmanuel)
+
+Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela formação e organização do planeta, desde a gênese planetária até a direção das civilizações:
+
+- Membro da "Comunidade de Espíritos Puros e Eleitos", dirigiu a separação da Terra da nebulosa solar, a formação da Lua, da atmosfera e dos oceanos (Emmanuel/Chico Xavier, *A Caminho da Luz*, cap. 1).
+- Comandou os "operários espirituais" que conduziram a evolução biológica, do protoplasma aos antropóides, fixando as linhagens definitivas das espécies (cap. 2).
+- Recebeu os Espíritos degredados de Capela "à luz do seu reino de amor e de justiça", exortando-os à edificação pelo cumprimento dos deveres de solidariedade (cap. 3).
+- Enviou missionários a todas as civilizações e encarnou na Palestina como o "Sublime Missionário" (caps. 10–12).
+
+"Em tudo e sobre todos, irradia-se a luz desse fio de espiritualidade que diviniza a matéria [...] vemos a fonte de extraordinária luz, de onde parte o primeiro ponto geométrico desse fio de vida e de harmonia." (Emmanuel/Chico Xavier, *A Caminho da Luz*, Introdução)
+
+Ver [[wiki/obras/a-caminho-da-luz]].
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — modelo e guia da Humanidade (LE, q. 625).
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — foco central da obra; suas maximas e parabolas sao comentadas ao longo dos 28 capitulos.
 - [[wiki/obras/genese]] — milagres de Jesus explicados (cap. XV); Consolador (cap. XVII).
 - [[wiki/obras/obras-postumas]] — estudo sobre a natureza do Cristo (9 seções).
+- [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/entidades/espiritos-reveladores]]
+- [[wiki/entidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 625, q. 886. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Tradução de Guillon Ribeiro. FEB.
 - KARDEC, Allan. *Obras Póstumas*, "Estudo sobre a natureza do Cristo". Tradução de Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939.

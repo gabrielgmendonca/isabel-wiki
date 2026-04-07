@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
+fontes: [LE, ESE, Emmanuel/Chico Xavier]
 tags: [progresso, evolucao-espiritual, perfeicao, finalidade]
 atualizado_em: 2026-04-07
 status: ativo
@@ -56,6 +56,12 @@ Em *O Grande Enigma* (caps. VI e XV–XVI), Denis desenvolve a "lei circular": a
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+## Desenvolvimento por Emmanuel
+
+Em *A Caminho da Luz*, Emmanuel ilustra o progresso espiritual numa escala civilizatória: cada civilização terrestre — Egito, Índia, Grécia, Roma, Europa medieval e moderna — representa uma etapa no aprendizado coletivo da Humanidade, sempre conduzida por missionários espirituais sob a orientação do Cristo. O progresso não é apenas individual, mas também coletivo e planetário, culminando na transição para um mundo de regeneração (caps. 24–25).
+
+Ver [[wiki/obras/a-caminho-da-luz]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
@@ -67,3 +73,4 @@ Ver [[wiki/obras/o-grande-enigma]].
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 9, 20–27. Trad. Homero Dias de Carvalho. CELD, 2011.
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. X–XI. Trad. Albertina Escudeiro Sêco. CELD, 2012.
 - Denis, Léon. *O Grande Enigma*, caps. VI, XV–XVI. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939.

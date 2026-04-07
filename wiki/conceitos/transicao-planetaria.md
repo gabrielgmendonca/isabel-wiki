@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Gênese]
+fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier]
 tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso]
 atualizado_em: 2026-04-06
 status: ativo
@@ -64,6 +64,17 @@ Kardec adverte contra expectativas de mudança brusca: "Não creiais que sejamos
 
 Ver [[wiki/obras/viagem-espirita-em-1862]].
 
+## Desenvolvimento por Emmanuel
+
+Em *A Caminho da Luz* (caps. 24–25), Emmanuel descreve a transição planetária com detalhes complementares:
+
+- O Espiritismo é apresentado como a força moral indispensável à transição: "só o Espiritismo pode representar o valor moral onde se encontre o apoio necessário à edificação do porvir" (cap. 24).
+- A Terra "alijará todos os Espíritos rebeldes e galvanizados no crime, que não souberam aproveitar a dádiva de numerosos milênios" (cap. 24).
+- A América é apontada como destinatária do "cetro da civilização e da cultura, na orientação dos povos porvindouros" (cap. 24).
+- Emmanuel menciona uma terceira reunião da "comunidade das potências angélicas do sistema solar" para decidir sobre os destinos da Terra (cap. 24).
+
+Ver [[wiki/obras/a-caminho-da-luz]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/geracao-nova]] — os Espíritos que protagonizam a renovação
@@ -74,6 +85,7 @@ Ver [[wiki/obras/viagem-espirita-em-1862]].
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — "muitas moradas na casa do Pai"
 - [[wiki/conceitos/progresso-espiritual]] — a lei subjacente à transição
 - [[wiki/conceitos/raca-adamica]] — precedente histórico de imigração transformadora
+- [[wiki/obras/a-caminho-da-luz]] — caps. 24–25, visão de Emmanuel sobre a transição
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
 - [[wiki/obras/genese]] — cap. XVIII
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco aplica o conceito ao contexto da saúde psicológica
@@ -83,3 +95,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III, itens 2–19. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XVIII, itens 1–35. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 55–58, q. 1019. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, caps. 24–25. FEB, 1939.

@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [Gênese]
+fontes: [Gênese, Emmanuel/Chico Xavier]
 tags: [emigracao, imigracao, espiritos, mundos, renovacao, flagelos]
 atualizado_em: 2026-04-06
 status: ativo
@@ -34,6 +34,12 @@ Os Espíritos trazem consigo "a inteligência e a intuição dos conhecimentos q
 
 Quando um mundo chega a período de transformação, os que "perseveraram no mal, sempre revoltados contra Deus e suas leis, se tornariam daí em diante um embaraço ao ulterior progresso moral [...] e são excluídos da humanidade a que até então pertenciam e tangidos para mundos menos adiantados" (Gênese, cap. XI, item 43).
 
+## Desenvolvimento por Emmanuel
+
+Em *A Caminho da Luz* (cap. 3), Emmanuel oferece o exemplo mais detalhado de emigração coletiva: Espíritos rebeldes de um mundo da Constelação do Cocheiro (Capela) foram degredados na Terra, onde formaram as raças adâmicas. O mecanismo é o mesmo descrito por Kardec em *A Gênese* (cap. XI, itens 37–43), mas Emmanuel identifica o mundo de origem e descreve a recepção por Jesus e a distribuição dos degredados em quatro grupos civilizatórios.
+
+Ver [[wiki/conceitos/raca-adamica]], [[wiki/obras/a-caminho-da-luz]].
+
 ## Aplicação prática
 
 O conceito explica por que, na visão espírita, catástrofes naturais e crises sociais não são punições divinas arbitrárias, mas mecanismos de renovação. Também fundamenta a compreensão da transição planetária atual: a Terra vive uma dessas fases de emigração-imigração em massa.
@@ -51,3 +57,4 @@ O conceito explica por que, na visão espírita, catástrofes naturais e crises 
 ## Fontes
 
 - Kardec, Allan. *A Gênese*, cap. XI, itens 35–44; cap. XVIII, itens 27–34. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 3. FEB, 1939.
