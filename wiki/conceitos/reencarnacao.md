@@ -69,6 +69,7 @@ Ver [[wiki/obras/cristianismo-e-espiritismo]].
 - [[wiki/conceitos/progresso-espiritual]] — a reencarnação como meio de progresso.
 - [[wiki/conceitos/vida-espirita]] — o intervalo entre encarnações.
 - [[wiki/conceitos/livre-arbitrio]] — escolha das provas.
+- [[wiki/obras/o-que-e-o-espiritismo]] — diálogos introdutórios sobre a pluralidade das existências.
 
 ## Fontes
 

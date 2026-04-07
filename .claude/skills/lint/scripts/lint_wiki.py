@@ -303,7 +303,7 @@ def check_frontmatter(pages: list[Path]) -> dict:
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
     valid_tipos = {"conceito", "obra", "entidade", "questao", "sintese", "divergencia"}
     valid_status = {"rascunho", "ativo", "revisar"}
-    valid_status_divergencia = {"aberta", "conciliada"}
+    valid_status_divergencia = {"aberta", "concluída"}
     items = []
     for page in pages:
         fm = parse_frontmatter(page)

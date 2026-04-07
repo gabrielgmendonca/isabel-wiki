@@ -10,7 +10,7 @@
 - 194 páginas wiki (97 conceitos, 80 entidades, 13 obras, 2 divergências, 1 questão, 1 síntese)
 - Publicação via Quartz v4.4.0 + GitHub Actions + GitHub Pages
 - Skills `/lint` e `/ingest` operacionais
-- 4/5 do Pentateuco ingerido (falta O Livro dos Médiuns)
+- Pentateuco completo (5/5 obras ingeridas)
 - Zero erros de lint
 
 ---
@@ -19,8 +19,8 @@
 
 Completar a base doutrinária para que o leitor encontre o essencial da codificação.
 
-- [ ] **Ingerir O Livro dos Médiuns** — última obra do Pentateuco pendente; fonte já existe em `raw/kardec/pentateuco/livro-dos-mediuns.md`
-- [ ] **Ingerir Kardec complementar** — 5 fontes já em `raw/kardec/complementares/` (O Que é o Espiritismo, Obras Póstumas, Instruções Práticas, Viagem Espírita, Resumo da Lei dos Fenômenos Espíritas)
+- [x] **Ingerir O Livro dos Médiuns** — concluído
+- [ ] **Ingerir Kardec complementar** — 5 fontes já em `raw/kardec/complementares/` (O Que é o Espiritismo, Obras Póstumas, Instruções Práticas, Viagem Espírita, Resumo da Lei dos Fenômenos Espíritas); *O Que é o Espiritismo* já ingerido
 - [ ] **Expandir autores nível 3** — Chico Xavier (O Consolador, Nosso Lar), Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo; pastas já criadas em `raw/` mas sem conversão MD
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 

@@ -3,7 +3,7 @@ tipo: divergencia
 fontes: [LE]
 tags: [reencarnacao, afinidade, almas-gemeas, leon-denis]
 atualizado_em: 2026-04-07
-status: aberta
+status: concluída
 ---
 
 # Almas-irmãs criadas aos pares

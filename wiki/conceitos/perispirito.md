@@ -76,6 +76,7 @@ Divaldo explica o perispírito ao público como "o corpo intermediário entre o 
 - [[wiki/conceitos/perturbacao]] — estado pós-morte ligado ao desprendimento perispiritual
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. I
+- [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, definição e papel do perispírito
 
 ## Fontes
 

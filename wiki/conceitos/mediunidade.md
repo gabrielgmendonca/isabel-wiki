@@ -90,6 +90,7 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - [[wiki/conceitos/emancipacao-da-alma]] — fundamento da mediunidade sonambúlica
 - [[wiki/conceitos/fluidos]] — o fluido vital como agente mediúnico
 - [[wiki/obras/livro-dos-mediuns]]
+- [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, introdução à mediunidade e seus tipos
 
 ## Fontes
 
