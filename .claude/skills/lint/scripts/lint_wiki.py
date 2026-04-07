@@ -303,6 +303,7 @@ def check_frontmatter(pages: list[Path]) -> dict:
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
     valid_tipos = {"conceito", "obra", "entidade", "questao", "sintese", "divergencia"}
     valid_status = {"rascunho", "ativo", "revisar"}
+    valid_status_divergencia = {"aberta", "conciliada"}
     items = []
     for page in pages:
         fm = parse_frontmatter(page)
@@ -312,7 +313,8 @@ def check_frontmatter(pages: list[Path]) -> dict:
             continue
         if fm["tipo"] not in valid_tipos:
             items.append({"path": str(page), "detail": f"tipo inválido: {fm['tipo']}"})
-        if fm["status"] not in valid_status:
+        allowed_status = valid_status_divergencia if fm["tipo"] == "divergencia" else valid_status
+        if fm["status"] not in allowed_status:
             items.append({"path": str(page), "detail": f"status inválido: {fm['status']}"})
     return {"severity": "error", "count": len(items), "items": items}
 

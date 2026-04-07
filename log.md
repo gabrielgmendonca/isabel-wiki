@@ -187,3 +187,6 @@ Páginas criadas (1):
 Páginas atualizadas (2):
 - `wiki/entidades/leon-denis.md` — nova obra associada.
 - `index.md` — nova obra na subseção Léon Denis, status atualizado (3→4 complementares).
+
+## [2026-04-07] lint | 2 achados
+Wiki com 187 páginas em boa saúde. Únicos achados: 2 falsos positivos do script (status `aberta` em divergências flaggado como inválido — o script precisa aceitar vocabulário próprio de divergências). Duas divergências abertas (mudança de sexo e almas-irmãs) com análise completa, aguardando decisão do usuário.
