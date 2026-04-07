@@ -62,6 +62,10 @@ Na morte violenta, como nenhuma desagregação parcial ocorreu, o desprendimento
 
 Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte]].
 
+## Na palestra de Divaldo Franco (~2023)
+
+Divaldo explica o perispírito ao público como "o corpo intermediário entre o Espírito e o corpo físico", usando linguagem acessível: "é o que o povo chama de corpo astral; Kardec dá o nome de perispírito — é semimaterial, é uma matéria semiespiritual." No contexto da palestra, o perispírito aparece como o **mecanismo da obsessão**: o ex-namorado desencarnado de sua prima Baby mantinha ligação com ela pelo perispírito, causando afonia sem causa orgânica (cf. LM, 2ª parte, cap. XXIII, item 245). Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação

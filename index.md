@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 6 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 7 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -29,6 +29,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
+- [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Divaldo Franco, palestra (~2023). Obsessão (caso Baby), psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho.
 
 ## Conceitos
 
@@ -106,6 +107,9 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
 - [[wiki/entidades/vinicius]] — Vinícius (Pedro de Camargo, 1878–1966), escritor espírita, comentarista do Evangelho.
 - [[wiki/entidades/carlos-mendonca]] — Carlos Mendonça, palestrante do Centro Espírita Bezerra de Menezes de Estácio.
+- [[wiki/entidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
+- [[wiki/entidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
+- [[wiki/entidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 

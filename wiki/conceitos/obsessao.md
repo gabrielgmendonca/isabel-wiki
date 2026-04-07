@@ -63,6 +63,24 @@ O Evangelho complementa: o obsidiado é envolvido em "fluido impuro" e o socorro
 
 O conhecimento da obsessão fundamenta o trabalho de **desobsessão** nos centros espíritas: diálogo fraterno com o Espírito obsessor, esclarecimento doutrinário, prece e reforma moral do obsidiado.
 
+## Casos ilustrativos
+
+### A prima Baby e o ex-namorado desencarnado (Divaldo Franco, ~1948)
+
+Relato de Divaldo Franco em [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
+
+Por volta de 1948, em Feira de Santana (BA), Baby — prima de Divaldo, professora primária — começou a apresentar **afonia inexplicável**. Dava aula normalmente, mas a voz ia caindo até ficar completamente rouca, sem que os médicos encontrassem causa orgânica (sem inflamação, sem infecção).
+
+Baby havia encerrado um noivado com o primo **Joaquim**, que faleceu de angústia. Desencarnado, Joaquim aproximava-se de Baby — que era **médium sem saber** — pela **ligação do perispírito** (cf. LE, q. 93–94; LM, 2ª parte, cap. XXIII, item 245), perturbando-a por paixão e vingança: impedia que se casasse com qualquer outro.
+
+Divaldo, adolescente católico na época, presenciou o fenômeno: sentado à porta de casa, viu Baby ir ficando rouca diante dele e percebeu **uma sombra envolvendo-a** — "uma mão escura, uma garra, estrangulando sua garganta." Ao colocar a mão sobre a garra invisível, recebeu uma bofetada violenta e caiu; Baby, nesse instante, recuperou a voz.
+
+Para confirmar a causa espiritual, fizeram um teste: enquanto Baby viajava a Salvador para exames médicos, evocaram o Espírito perturbador em sessão em Feira de Santana. Durante a evocação, Baby ficou completamente bem em Salvador. O Espírito comunicou-se agitado na sessão — Divaldo o chamava de "Mão Negra" — até que outra entidade esclareceu: "A entidade que tem vindo falar é o nosso irmão Joaquim, que tem paixão pela nossa menina."
+
+A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo de Divaldo), cujo guia espiritual redirecionou Divaldo ao Espiritismo de Allan Kardec.
+
+> **Lição doutrinária:** O caso ilustra (1) obsessão simples por **vingança afetiva** — motivo listado por Kardec (LM, 2ª parte, cap. XXIII, item 245); (2) o **perispírito** como veículo de ligação entre obsessor e obsidiado; (3) a mediunidade ignorada como fator agravante; (4) a desobsessão como **caridade ao Espírito sofredor**, não apenas ao encarnado.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — a obsessão é o principal perigo da prática mediúnica
@@ -73,8 +91,10 @@ O conhecimento da obsessão fundamenta o trabalho de **desobsessão** nos centro
 - [[wiki/conceitos/depressao]] — transtorno frequentemente agravado pela obsessão
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
+- [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XXIII (itens 237–254).
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XXVIII, item 83. Trad. Guillon Ribeiro. FEB.
+- Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023.

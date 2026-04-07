@@ -27,15 +27,21 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 ## Obras associadas (na wiki)
 
 - [[wiki/obras/conquista-da-saude-psicologica]] — Palestra sobre depressão, obsessão e saúde psicológica à luz do Espiritismo (~2009)
+- [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Palestra testemunhal: obsessão, psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho (~2023)
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — faculdade que exerceu ao longo de toda a vida
 - [[wiki/conceitos/obsessao]] — tema frequente de suas palestras
-- [[wiki/conceitos/depressao]] — tema central da palestra ingerida
+- [[wiki/conceitos/depressao]] — tema central da palestra de 2009
+- [[wiki/conceitos/psicografia]] — mais de 260 obras psicografadas, incluindo 11 romances de Victor Hugo
 - [[wiki/conceitos/transicao-planetaria]] — tema recorrente em seu discurso
 - [[wiki/entidades/allan-kardec]] — codificador cuja obra Divaldo difundiu
+- [[wiki/entidades/victor-hugo]] — Espírito comunicante, autor de 11 romances via Divaldo
+- [[wiki/entidades/meimei]] — episódio narrado por Divaldo (Chico Xavier em Pedro Leopoldo)
+- [[wiki/entidades/mansao-do-caminho]] — instituição cofundada por Divaldo em 1952
 
 ## Fontes
 
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
+- Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023. Disponível em: <https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw>.

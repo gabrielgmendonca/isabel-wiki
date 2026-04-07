@@ -219,3 +219,11 @@ Páginas atualizadas (7):
 - `wiki/conceitos/progresso-espiritual.md` — lei circular, séc. XX como século do espírito.
 
 Nenhuma divergência doutrinária nova identificada. `index.md` atualizado com obra e conceito novo.
+
+## [2026-04-07] ingest | Quando o Invisível se Torna Inevitável (Divaldo Franco, ~2023)
+
+Segunda palestra de Divaldo na wiki. Fonte: web TV Mansão do Caminho. Palestra testemunhal: relato detalhado da obsessão da prima Baby por ex-namorado desencarnado (~1948), psicografia de 11 romances com Victor Hugo (desde 1970), episódio de Chico Xavier e Meimei em Pedro Leopoldo, resignação diante de erro médico, e estrutura do atendimento fraterno na Mansão do Caminho.
+
+Páginas criadas (4): `wiki/obras/quando-o-invisivel-se-torna-inevitavel.md`, `wiki/entidades/meimei.md`, `wiki/entidades/victor-hugo.md`, `wiki/entidades/mansao-do-caminho.md`.
+Páginas atualizadas (5): `wiki/entidades/divaldo-franco.md`, `wiki/conceitos/obsessao.md` (seção "Casos ilustrativos" com narrativa da prima Baby), `wiki/conceitos/perispirito.md`, `wiki/conceitos/psicografia.md` (casos Victor Hugo e Meimei), `index.md`.
+Nenhuma divergência com o Pentateuco identificada.

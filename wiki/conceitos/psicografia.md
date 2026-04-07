@@ -40,6 +40,16 @@ A **pneumatografia** (escrita direta) é produzida pelo Espírito sem auxílio d
 
 A psicografia é o principal meio pelo qual o movimento espírita recebeu os ensinos doutrinários e continua sendo a forma mais comum de comunicação mediúnica escrita nos centros espíritas.
 
+## Casos notáveis
+
+### Victor Hugo via Divaldo Franco (1970–)
+
+Em abril de 1970, no Rio de Janeiro, o Espírito de [[wiki/entidades/victor-hugo]] apareceu a Divaldo Franco e iniciou a psicografia de romances. O primeiro foi escrito em 20 dias (408 páginas, corpo 8), com detalhes históricos verificáveis (pórtico em Siena, Itália). Victor Hugo escrevia os capítulos **fora de ordem** para que Divaldo não interferisse com suas emoções. Até ~2023, já somavam **11 romances**. Divaldo distingue os Espíritos pelo estilo: Hugo é minudente, Joanna de Ângelis é sintética, Marco Prisco é ainda mais conciso — critério recomendado por Kardec (LM, 2ª parte, cap. XXIV). Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
+
+### Meimei via Chico Xavier (1948)
+
+Em Pedro Leopoldo (MG), Chico Xavier psicografou **30 páginas** de [[wiki/entidades/meimei]], esposa de Arnaldo Rocha falecida um mês após o casamento. De olhos fechados, luz acesa, sem erro de ortografia, a mensagem trazia detalhes íntimos e referências a existência anterior compartilhada. O caso converteu o marido ateu. Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — faculdade da qual a psicografia é uma expressão
