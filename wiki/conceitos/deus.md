@@ -1,9 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Léon Denis]
-atualizado_em: 2026-04-07
 tags: [deus, causa-primaria, atributos-divinos, providencia]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
