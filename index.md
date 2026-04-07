@@ -2,11 +2,50 @@
   <img src="logo-isabel.svg" alt="IsAbel — Wiki Espírita" width="480"/>
 </p>
 
-# Índice da Wiki
+# Bem-vindo à IsAbel
 
-Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
+**IsAbel** é uma wiki de estudo da Doutrina Espírita codificada por Allan Kardec. Foi criada como ferramenta pessoal de estudo e preparação de palestras em casas espíritas, e está aberta para qualquer estudante sério que queira consultar.
 
-> **Status:** Pentateuco completo + 9 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Kardec complementar (nível 2): *O Que é o Espiritismo?*, *Viagem Espírita em 1862*. Fontes complementares (nível 3): duas palestras de Divaldo Franco, *O Problema do Ser e do Destino*, *Depois da Morte*, *Cristianismo e Espiritismo* e *O Grande Enigma* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
+---
+
+## O que você encontra aqui
+
+- **Conceitos** — definições e análises dos temas centrais da Doutrina: reencarnação, leis morais, mediunidade, etc.
+- **Obras** — resumos estruturados das obras de Kardec e de autores complementares.
+- **Entidades** — Espíritos comunicantes, autores e personalidades citadas nas fontes.
+- **Questões** — perguntas-chave com resposta dos Espíritos e comentário de Kardec.
+- **Sínteses** — análises comparativas entre obras e temas.
+- **Divergências** — pontos em que autores complementares diferem do Pentateuco, registrados com transparência.
+
+> [!tip] Dica de navegação
+> Use a **barra de busca** no topo para encontrar qualquer tema. O **grafo interativo** (barra lateral) mostra as conexões entre páginas — quanto mais você explora, mais útil ele fica.
+
+---
+
+## Hierarquia de autoridade
+
+A wiki segue uma hierarquia clara de fontes:
+
+1. **Pentateuco de Kardec** — *O Livro dos Espíritos*, *O Livro dos Médiuns*, *O Evangelho Segundo o Espiritismo*, *A Gênese*, *O Céu e o Inferno*. Base inamovível.
+2. **Kardec complementar** — *O Que é o Espiritismo*, *Obras Póstumas*, *Revista Espírita*, *Viagem Espírita em 1862*.
+3. **Autores alinhados à codificação** — Léon Denis, Chico Xavier, Divaldo Franco, entre outros.
+
+Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergência é registrada, nunca apagada.
+
+---
+
+## Status do projeto
+
+> [!warning] Trabalho em andamento
+> Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
+
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 10 fontes complementares. ~194 páginas entre conceitos, obras, entidades, questões e sínteses.
+
+---
+
+# Índice completo
+
+Catálogo de todas as páginas, organizado por categoria.
 
 ---
 
@@ -22,6 +61,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
 - [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
+- [[wiki/obras/obras-postumas]] — coletânea póstuma (1890). Profissão de fé raciocinada, estudo sobre a natureza do Cristo, as cinco alternativas da Humanidade, morte espiritual, aristocracias, relato autobiográfico, Livro das Previsões e Constituição do Espiritismo (inacabada).
 
 ### Obras complementares (nível 3)
 
@@ -118,6 +158,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
 - [[wiki/entidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
 - [[wiki/entidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
+- [[wiki/entidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -167,6 +208,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/conceitos/raca-adamica]] — colônia de Espíritos migrada de outro mundo (Gênese, cap. XI).
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] — renovação espiritual entre mundos (Gênese, cap. XI).
 - [[wiki/conceitos/transicao-planetaria]] — a Terra em trânsito para mundo de regeneração (ESE, cap. III; Gênese, cap. XVIII).
+- [[wiki/conceitos/morte-espiritual]] — transformação do Espírito a cada encarnação, regeneração sem perda de individualidade (OPE).
 - [[wiki/conceitos/geracao-nova]] — Espíritos mais adiantados que protagonizam a renovação (Gênese, cap. XVIII).
 
 ### Conceitos do ESE (O Evangelho Segundo o Espiritismo)

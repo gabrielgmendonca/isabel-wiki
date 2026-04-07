@@ -52,8 +52,16 @@ Ver [[wiki/obras/viagem-espirita-em-1862]].
 - [[wiki/conceitos/homem-de-bem]]
 - [[wiki/conceitos/desapego-dos-bens-terrenos]]
 - [[wiki/conceitos/materialismo]]
+- [[wiki/obras/obras-postumas]]
+
+## Nas Obras Póstumas
+
+Kardec dedica toda uma seção ao egoísmo e ao orgulho como causas e raízes dos males sociais: "A causa do egoísmo está na concentração dos pensamentos sobre a vida corpórea. [...] Naquele que nada vê adiante de si, atrás de si, nem acima de si, o sentimento da personalidade sobrepuja." A preexistência e a reencarnação são apresentadas como os antídotos: provam que todos os Espíritos saem iguais das mãos do Criador, que as desigualdades são transitórias, e que "nenhum chegando ao termo senão por seus esforços, o princípio da **igualdade** é um princípio de justiça e uma lei da Natureza" (OPE, "O egoísmo e o orgulho").
+
+Na seção sobre liberdade, igualdade e fraternidade, Kardec demonstra que o egoísmo é o inimigo direto da fraternidade: "A fraternidade diz: Um por todos e todos por um. O egoísmo diz: Cada um por si" (OPE, "Liberdade, igualdade, fraternidade").
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. I (Introdução); Parte 3, cap. XII, q. 893–919; Conclusão, itens III e V. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Caps. XI–XV. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *Obras Póstumas*, "O egoísmo e o orgulho" e "Liberdade, igualdade, fraternidade". FEB.

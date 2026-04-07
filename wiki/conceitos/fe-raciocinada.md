@@ -45,6 +45,11 @@ Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada c
 - [[wiki/conceitos/tres-revelacoes]] — o Espiritismo como revelação da razão
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XIX
 
+## Nas Obras Póstumas
+
+No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocinada: a crença na vida futura só exercerá ação moralizadora "quando satisfizer completamente à razão; quando corresponder à idéia que se faz da sabedoria, da justiça e da bondade de Deus; quando não puder ser desmentida de modo algum pela Ciência" (OPE, "Credo espírita"). A Constituição do Espiritismo repete a máxima: "Não há fé inabalável, senão a que possa encarar face a face a razão" (OPE, "As aristocracias", citando o ESE).
+
 ## Fontes
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 4–7.
+- Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.

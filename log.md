@@ -247,3 +247,7 @@ Nenhuma divergência — obra do próprio Kardec.
 ## [2026-04-07] lint | 3 achados
 
 1 aviso: `wiki/obras/o-que-e-o-espiritismo.md` é página órfã (nenhuma outra página da wiki linka para ela). 2 info: divergências abertas (`mudanca-de-sexo-reencarnacao`, `almas-irmas-criadas-aos-pares`) com análise completa — candidatas a `conciliada`. Zero erros de links, index ou frontmatter.
+
+## [2026-04-07] ingest | Obras Póstumas (Allan Kardec, edição FEB)
+
+Ingest de *Obras Póstumas* (nível 2 — Kardec complementar). Criados: `wiki/obras/obras-postumas.md`, `wiki/conceitos/morte-espiritual.md`, `wiki/entidades/camille-flammarion.md`. Atualizados: `wiki/entidades/jesus.md` (seção Natureza do Cristo), `wiki/entidades/allan-kardec.md` (seções Primeira iniciação e Missão/Previsões), `wiki/conceitos/perispirito.md`, `wiki/conceitos/emancipacao-da-alma.md`, `wiki/conceitos/materialismo.md`, `wiki/conceitos/egoismo.md`, `wiki/conceitos/orgulho.md`, `wiki/conceitos/fe-raciocinada.md`, `index.md`. Nenhuma divergência com o Pentateuco identificada.

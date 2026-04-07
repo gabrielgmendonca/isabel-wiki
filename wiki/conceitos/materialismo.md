@@ -42,6 +42,16 @@ Kardec também observa que "compreender para crer tornou-se uma necessidade impe
 
 Ver [[wiki/obras/viagem-espirita-em-1862]].
 
+## Nas Obras Póstumas
+
+Kardec dedica duas seções relevantes ao tema:
+
+1. **As cinco alternativas da Humanidade** — compara materialismo, panteísmo, deísmo, dogmatismo e espiritismo quanto às consequências morais de cada posição. A doutrina materialista leva a: "egoísmo como direito natural; suicídio como fim lógico; deveres sociais sem fundamento; por freio social unicamente a força material da lei civil" (OPE, "As cinco alternativas", §I).
+
+2. **Influência perniciosa das ideias materialistas** — examina os efeitos do materialismo sobre as artes e a regeneração pelo Espiritismo.
+
+No preâmbulo do Credo Espírita, Kardec reforça: "A doutrina do nadismo é a paralisia do progresso humano, porque circunscreve as vistas do homem ao imperceptível ponto da presente existência" (OPE, "Credo espírita").
+
 ## Aplicação prática
 
 Em palestras, o materialismo é ponto de partida frequente para o diálogo com incrédulos. Convém abordá-lo sem julgamento — reconhecendo que é consequência de uma filosofia incompleta, não de má-fé — e apresentar os fatos e raciocínios que o superam. O Espiritismo não pede fé cega; oferece provas e lógica.

@@ -39,8 +39,15 @@ Em estudos e palestras, é útil mostrar como o orgulho se manifesta em formas s
 - [[wiki/conceitos/homem-de-bem]]
 - [[wiki/conceitos/bem-aventurancas]]
 
+## Nas Obras Póstumas
+
+Na seção sobre o egoísmo e o orgulho, Kardec aprofunda a origem do orgulho: "A causa do orgulho está na crença, em que o homem se firma, da sua superioridade individual. [...] A incredulidade não só carece de meios para combater o orgulho, como o estimula e lhe dá razão, negando a existência de um poder superior à Humanidade" (OPE, "O egoísmo e o orgulho"). O remédio é a compreensão da preexistência e da reencarnação, que provam que entre "os mais atrasados e os mais adiantados, não há senão uma questão de tempo".
+
+Na seção sobre as aristocracias, Kardec prevê a substituição das aristocracias da força, do nascimento e do dinheiro por uma **aristocracia intelecto-moral** — impossível enquanto o orgulho reinar (OPE, "As aristocracias").
+
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Introdução, item V; Parte 2, cap. I; q. 147; Parte 3, cap. XII, q. 893–919; Conclusão, item III. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. VII — "Bem-aventurados os pobres de espírito". Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. VII — "Espíritos endurecidos". FEB.
+- Kardec, Allan. *Obras Póstumas*, "O egoísmo e o orgulho" e "As aristocracias". FEB.

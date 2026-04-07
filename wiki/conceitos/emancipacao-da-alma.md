@@ -64,7 +64,12 @@ A compreensão da emancipação da alma fundamenta a atitude espírita diante do
 - [[wiki/obras/livro-dos-espiritos]] — Parte 2, cap. VIII
 - [[wiki/obras/livro-dos-mediuns]] — caps. XIV, XVI, XIX, XXV
 
+## Nas Obras Póstumas
+
+Na seção sobre emancipação da alma (OPE, "Manifestações dos Espíritos", §IV), Kardec retoma o tema reforçando que o Espírito pode se libertar parcialmente durante a vida e manifestar faculdades que a encarnação normalmente limita. As seções sobre clarividência sonambúlica (OPE, "Causa e natureza da clarividência sonambúlica") e segunda vista (OPE, "A segunda vista") aprofundam os fenômenos de lucidez e previsão como consequências da emancipação.
+
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 2, cap. VIII — "Da emancipação da alma", q. 400–455.
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV (item 172), XVI (item 190), XIX (item 223), XXV.
+- Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos", §IV; "Causa e natureza da clarividência sonambúlica"; "A segunda vista". FEB.

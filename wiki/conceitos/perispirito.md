@@ -66,6 +66,16 @@ Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte]].
 
 Divaldo explica o perispírito ao público como "o corpo intermediário entre o Espírito e o corpo físico", usando linguagem acessível: "é o que o povo chama de corpo astral; Kardec dá o nome de perispírito — é semimaterial, é uma matéria semiespiritual." No contexto da palestra, o perispírito aparece como o **mecanismo da obsessão**: o ex-namorado desencarnado de sua prima Baby mantinha ligação com ela pelo perispírito, causando afonia sem causa orgânica (cf. LM, 2ª parte, cap. XXIII, item 245). Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
 
+## Nas Obras Póstumas
+
+Kardec aprofunda a teoria do perispírito como princípio das manifestações (OPE, "Manifestações dos Espíritos", §I):
+
+- O perispírito "é mais ou menos etéreo, conforme os mundos e o grau de depuração do Espírito" (OPE, §I, item 9).
+- Serve de "intermediário ao Espírito e ao corpo" — "o corpo recebe a impressão; o perispírito a transmite e o Espírito [...] a recebe" (OPE, §I, item 10).
+- "Não se acha encerrado nos limites do corpo, como numa caixa" — é expansível, forma atmosfera individual, e o pensamento/vontade podem dilatá-lo a distâncias infinitas (OPE, §I, item 11).
+
+Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que cada indivíduo possui um **fluido próprio** que o envolve como atmosfera. Essas atmosferas fluídicas "se entrecruzam e misturam, sem jamais se confundirem" — base das simpatias e antipatias. O pensamento "cria **imagens fluídicas**" no perispírito, como fotografias, permitindo que videntes e Espíritos leiam pensamentos alheios (OPE, "Fotografia e telegrafia do pensamento").
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação
