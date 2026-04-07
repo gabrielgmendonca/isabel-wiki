@@ -43,6 +43,7 @@ jobs:
           cp logo-isabel.svg /tmp/quartz/content/
           cp quartz.config.ts /tmp/quartz/quartz.config.ts
           cp quartz.layout.ts /tmp/quartz/quartz.layout.ts
+          cp -r quartz-overrides/components/* /tmp/quartz/quartz/components/
 
       - name: Build
         run: cd /tmp/quartz && npx quartz build
