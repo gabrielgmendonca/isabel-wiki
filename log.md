@@ -163,3 +163,16 @@ Páginas atualizadas (1):
 - `wiki/conceitos/parabola-do-semeador.md` — seção "Na palestra de Carlos Mendonça", fontes e páginas relacionadas.
 
 `index.md` atualizado com obra (subseção Carlos Mendonça), entidades.
+
+## [2026-04-07] ingest | Felizes os Pobres em Espírito (Carlos Mendonça)
+
+Palestra sobre a primeira bem-aventurança do Sermão da Montanha (Mateus 5:3) à luz espírita. Pobreza de espírito como humildade moral, não falta de inteligência; conquista do Reino dos Céus pela autotransformação.
+
+Páginas criadas (1):
+- `wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca.md`
+
+Páginas atualizadas (4):
+- `wiki/entidades/carlos-mendonca.md` — nova obra associada e páginas relacionadas.
+- `wiki/conceitos/bem-aventurancas.md` — link para a palestra.
+- `wiki/conceitos/humildade.md` — link para a palestra.
+- `index.md` — nova obra na subseção Carlos Mendonça, status atualizado.

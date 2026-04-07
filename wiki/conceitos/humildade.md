@@ -35,6 +35,7 @@ A humildade espírita não é subserviência nem auto-humilhação — é lucide
 - [[wiki/conceitos/caridade]]
 - [[wiki/conceitos/homem-de-bem]]
 - [[wiki/conceitos/perfeicao-moral]]
+- [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — palestra sobre pobreza de espírito como humildade
 
 ## Fontes
 

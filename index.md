@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 3 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino* de Léon Denis, palestra de Carlos Mendonça. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 3 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino* de Léon Denis, duas palestras de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -22,6 +22,7 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
+- [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — Carlos Mendonça, palestra. Primeira bem-aventurança (Mateus 5:3), pobreza de espírito como humildade, conquista do Reino dos Céus.
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.

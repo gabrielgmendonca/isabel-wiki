@@ -49,6 +49,7 @@ As bem-aventuranças são base excelente para ciclos de estudo e palestras em ca
 - [[wiki/conceitos/caridade]] — a misericórdia como forma de caridade
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — herança da Terra regenerada pelos brandos
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. V, VII, VIII, IX, X
+- [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — palestra sobre a primeira bem-aventurança
 
 ## Fontes
 
