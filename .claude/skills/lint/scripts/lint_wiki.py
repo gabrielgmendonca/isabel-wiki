@@ -23,23 +23,30 @@ STALE_DAYS = 14
 # Utilitários
 # ---------------------------------------------------------------------------
 
-def parse_frontmatter(path: Path) -> dict:
-    """Extrai frontmatter YAML simples (scalars e listas [a, b])."""
+def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
+    """Extrai frontmatter YAML simples (scalars e listas [a, b]).
+
+    Retorna (fm_dict, lista_de_chaves_duplicadas).
+    """
     lines = path.read_text(encoding="utf-8").splitlines()
     if not lines or lines[0].strip() != "---":
-        return {}
-    fm = {}
+        return {}, []
+    fm: dict = {}
+    duplicates: list[str] = []
     for line in lines[1:]:
         if line.strip() == "---":
             break
         if ":" not in line:
             continue
         key, _, val = line.partition(":")
+        key = key.strip()
         val = val.strip()
         if val.startswith("[") and val.endswith("]"):
             val = [v.strip() for v in val[1:-1].split(",") if v.strip()]
-        fm[key.strip()] = val
-    return fm
+        if key in fm:
+            duplicates.append(key)
+        fm[key] = val
+    return fm, duplicates
 
 
 def find_wikilinks(text: str) -> list[tuple[int, str]]:
@@ -169,7 +176,7 @@ def check_rascunho_stale(pages: list[Path]) -> dict:
     today = date.today()
     items = []
     for page in pages:
-        fm = parse_frontmatter(page)
+        fm, _ = parse_frontmatter(page)
         if fm.get("status") != "rascunho":
             continue
         atualizado = fm.get("atualizado_em", "")
@@ -194,7 +201,7 @@ def check_divergencias_aberta(pages: list[Path]) -> dict:
     if not div_dir.exists():
         return {"severity": "info", "count": 0, "items": []}
     for page in div_dir.glob("*.md"):
-        fm = parse_frontmatter(page)
+        fm, _ = parse_frontmatter(page)
         if fm.get("status") != "aberta":
             continue
         text = page.read_text(encoding="utf-8")
@@ -306,7 +313,9 @@ def check_frontmatter(pages: list[Path]) -> dict:
     valid_status_divergencia = {"aberta", "concluída"}
     items = []
     for page in pages:
-        fm = parse_frontmatter(page)
+        fm, duplicates = parse_frontmatter(page)
+        if duplicates:
+            items.append({"path": str(page), "detail": f"chaves duplicadas: {', '.join(duplicates)}"})
         missing = required - set(fm.keys())
         if missing:
             items.append({"path": str(page), "detail": f"campos ausentes: {', '.join(sorted(missing))}"})
@@ -326,7 +335,7 @@ def check_frontmatter(pages: list[Path]) -> dict:
 def compute_stats(pages: list[Path]) -> dict:
     by_tipo: dict[str, int] = {}
     for page in pages:
-        fm = parse_frontmatter(page)
+        fm, _ = parse_frontmatter(page)
         tipo = fm.get("tipo", "desconhecido")
         by_tipo[tipo] = by_tipo.get(tipo, 0) + 1
     return {"total": len(pages), "by_tipo": by_tipo}
