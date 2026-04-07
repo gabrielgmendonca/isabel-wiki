@@ -39,9 +39,12 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 ## Obras associadas (na wiki)
 
+- [[wiki/obras/depois-da-morte]] — síntese e popularização da Doutrina Espírita: história das religiões, provas da imortalidade, vida além-túmulo e moral (1890)
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — estudo sobre a natureza do ser, o destino e as potências da alma (1908/1922)
 
 ## Citações relevantes
+
+> "É sobretudo para vós, filhos e filhas do povo, para quem a jornada é áspera, a existência difícil, para quem o céu é mais negro, mais frio o vento da adversidade; é para vós que este livro foi escrito." (*Depois da Morte*, Introdução)
 
 > "A história do mundo não é outra coisa senão a sagração do espírito pela dor." (*O Problema do Ser e do Destino*, cap. 26)
 
@@ -58,4 +61,5 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 ## Fontes
 
+- Denis, Léon. *Depois da Morte* (*Après la Mort*). 10ª ed. em português. Trad. FEB. Rio de Janeiro: FEB, 1977.
 - Denis, Léon. *O Problema do Ser e do Destino*. Trad. Homero Dias de Carvalho. Rio de Janeiro: CELD, 2011.

@@ -176,3 +176,14 @@ Páginas atualizadas (4):
 - `wiki/conceitos/bem-aventurancas.md` — link para a palestra.
 - `wiki/conceitos/humildade.md` — link para a palestra.
 - `index.md` — nova obra na subseção Carlos Mendonça, status atualizado.
+
+## [2026-04-07] ingest | Depois da Morte (Léon Denis, 1890)
+
+Segunda obra de Léon Denis na wiki. Fonte: `raw/autores/leon-denis/l48/l48.md` (10ª ed. FEB, 1977). Obra de popularização e síntese da Doutrina Espírita — 5 partes, 56 capítulos. Panorama histórico das religiões (doutrina secreta), provas da imortalidade, perispírito, vida além-túmulo e moral espírita. Nenhuma divergência com o Pentateuco identificada.
+
+Páginas criadas (1):
+- `wiki/obras/depois-da-morte.md`
+
+Páginas atualizadas (2):
+- `wiki/entidades/leon-denis.md` — nova obra associada.
+- `index.md` — nova obra na subseção Léon Denis, status atualizado (3→4 complementares).
