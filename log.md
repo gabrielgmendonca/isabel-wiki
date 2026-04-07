@@ -150,3 +150,16 @@ Divergências identificadas (2 reais, 1 mudança de ênfase):
 3. **Intervalo entre encarnações** (mudança de ênfase): Denis generaliza curto (10–30 anos); Kardec é aberto ("desde algumas horas até milhares de séculos", LE, q. 223).
 
 `index.md` atualizado com obra (subseção Léon Denis), entidade, conceitos novos e divergências.
+
+## [2026-04-07] ingest | Parábola do Semeador (Carlos Mendonça, palestra)
+
+Palestra de Carlos Mendonça (Centro Espírita Bezerra de Menezes de Estácio) sobre a parábola do semeador (Marcos 4:1–25). Estudo do método pedagógico de Jesus e da persistência no bem à luz da Doutrina Espírita, com citação de Vinícius (Pedro de Camargo, *Em torno do Mestre*). Nenhuma divergência com Kardec.
+
+Páginas criadas (3):
+- **Obra** (1): `wiki/obras/parabola-do-semeador-carlos-mendonca.md`
+- **Entidades** (2): `wiki/entidades/vinicius.md`, `wiki/entidades/carlos-mendonca.md`
+
+Páginas atualizadas (1):
+- `wiki/conceitos/parabola-do-semeador.md` — seção "Na palestra de Carlos Mendonça", fontes e páginas relacionadas.
+
+`index.md` atualizado com obra (subseção Carlos Mendonça), entidades.

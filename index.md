@@ -2,7 +2,7 @@
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
 
-> **Status:** Pentateuco completo + 2 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino* de Léon Denis. Última atualização: 2026-04-07.
+> **Status:** Pentateuco completo + 3 complementares. Cinco obras do Pentateuco ingeridas — *O Livro dos Espíritos* (LE), *O Livro dos Médiuns* (LM), *O Evangelho Segundo o Espiritismo* (ESE), *A Gênese* (Gênese) e *O Céu e o Inferno* (C&I). Fontes complementares (nível 3): palestra de Divaldo Franco, *O Problema do Ser e do Destino* de Léon Denis, palestra de Carlos Mendonça. Última atualização: 2026-04-07.
 
 ---
 
@@ -19,6 +19,9 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 
 #### Léon Denis
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — Léon Denis (1908/1922). Natureza do ser, reencarnação, potências da alma e a dor como instrumento de progresso. 3 partes, 27 capítulos.
+
+#### Carlos Mendonça
+- [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
@@ -96,6 +99,8 @@ Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entra
 - [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
 - [[wiki/entidades/leon-denis]] — Léon Denis (1846–1927), filósofo espírita, continuador da obra de Kardec.
 - [[wiki/entidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
+- [[wiki/entidades/vinicius]] — Vinícius (Pedro de Camargo, 1878–1966), escritor espírita, comentarista do Evangelho.
+- [[wiki/entidades/carlos-mendonca]] — Carlos Mendonça, palestrante do Centro Espírita Bezerra de Menezes de Estácio.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [ESE]
+fontes: [ESE, "Em torno do Mestre"]
 tags: [parabola, jesus, semeador, evangelho, moral]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-07
 status: ativo
 ---
 
@@ -32,6 +32,10 @@ Kardec interpreta as quatro categorias de terreno como quatro tipos de receptivi
 
 Kardec observa que essa parábola é "a condenação do egoísmo, da indiferença, do amor das riquezas e da vaidade" (ESE, cap. XVII, item 6).
 
+## Na palestra de Carlos Mendonça
+
+Carlos Mendonça, em estudo no Centro Espírita Bezerra de Menezes de Estácio, aborda a parábola a partir de Marcos 4:1–25 (complementando a versão de Mateus usada por Kardec). Destaca o valor pedagógico das parábolas como recurso que preservou os ensinamentos ao longo dos séculos, citando Vinícius (Pedro de Camargo): "Jesus como sábio educador costumava recorrer frequentemente às parábolas a fim de melhor interessar e impressionar os ouvintes" (*Em torno do Mestre*). Ressalta que a parábola não é pessimista — a produção do bom solo compensa toda semente perdida — e que a persistência de Jesus em ensinar, mesmo ciente da resistência, é modelo de perseverança para todo cristão (ver [[wiki/obras/parabola-do-semeador-carlos-mendonca]]).
+
 ## Aplicação prática
 
 A parábola convida cada espírita a um exame de consciência honesto: em qual terreno se encontra? A simples frequência a reuniões, a leitura de obras ou o interesse por fenômenos mediúnicos não bastam. O que define o verdadeiro espírita é a prática do bem e a transformação moral efetiva. A Doutrina só frutifica quando o coração está disposto ao esforço contínuo de reforma interior, sem se deixar sufocar pelas solicitações materiais nem desanimar pelas provas do caminho.
@@ -40,8 +44,12 @@ A parábola convida cada espírita a um exame de consciência honesto: em qual t
 
 - [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/homem-de-bem]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
+- [[wiki/obras/parabola-do-semeador-carlos-mendonca]]
+- [[wiki/entidades/vinicius]]
 
 ## Fontes
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII ("Sede Perfeitos"), itens 5–6. Trad. Guillon Ribeiro. FEB.
-- *Novo Testamento*. S. Mateus, 13:1–9, 18–23.
+- *Novo Testamento*. S. Mateus, 13:1–9, 18–23; S. Marcos, 4:1–25.
+- Vinícius (Pedro de Camargo). *Em torno do Mestre*. FEB.
+- Mendonça, Carlos. "Parábola do Semeador". Centro Espírita Bezerra de Menezes de Estácio. Disponível em: <https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_>.
