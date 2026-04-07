@@ -69,6 +69,20 @@ Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela 
 
 Ver [[wiki/obras/a-caminho-da-luz]].
 
+## Parábolas
+
+- [[wiki/conceitos/parabola-do-bom-samaritano]]
+- [[wiki/conceitos/parabola-do-semeador]]
+- [[wiki/conceitos/parabola-dos-talentos]]
+- [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]]
+- [[wiki/conceitos/parabola-do-festim-de-bodas]]
+- [[wiki/conceitos/parabola-do-mau-rico]]
+- [[wiki/conceitos/parabola-do-rico-insensato]]
+- [[wiki/conceitos/parabola-do-credor-incompassivo]]
+- [[wiki/conceitos/parabola-da-figueira-seca]]
+- [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]]
+- [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]]
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — modelo e guia da Humanidade (LE, q. 625).
