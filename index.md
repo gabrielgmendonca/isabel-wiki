@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-isabel.svg" alt="IsAbel — Wiki Espírita" width="480"/>
+</p>
+
 # Índice da Wiki
 
 Catálogo de todas as páginas da wiki, organizado por categoria. Porta de entrada para consultas.
