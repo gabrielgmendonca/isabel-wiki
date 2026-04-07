@@ -1,6 +1,7 @@
 .DS_Store
 *.swp
 *.tmp
+.env
 
 # Obsidian — estado local/cache
 .obsidian/workspace*
