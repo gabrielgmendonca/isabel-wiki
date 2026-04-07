@@ -30,7 +30,7 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
 
 A wiki já é publicada, mas foi pensada para uso pessoal. Adaptar para que qualquer estudante sério consiga navegar e aprender.
 
-- [ ] **Página de boas-vindas** — substituir o index do Quartz por uma landing page com: propósito da wiki, como navegar, hierarquia de autoridade, aviso de que é work-in-progress
+- [x] **Página de boas-vindas** — substituir o index do Quartz por uma landing page com: propósito da wiki, como navegar, hierarquia de autoridade, aviso de que é work-in-progress
 - [ ] **Trilhas de estudo guiadas** — páginas especiais que sequenciam conceitos para quem está começando (ex: "Primeiros passos no Espiritismo", "As Leis Morais em ordem", "Mediunidade: do básico ao avançado")
 - [ ] **Glossário navegável** — página consolidada com definições curtas de todos os conceitos, linkando para as páginas completas; útil como ponto de entrada rápido
 - [ ] **Melhorar tags e filtragem** — enriquecer tags no frontmatter para permitir navegação temática no Quartz (ex: por lei moral, por obra de origem, por grau de complexidade)
