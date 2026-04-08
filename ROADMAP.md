@@ -5,23 +5,13 @@
 
 ---
 
-## Estado atual (abril 2026)
-
-- 194 páginas wiki (97 conceitos, 80 entidades, 13 obras, 2 divergências, 1 questão, 1 síntese)
-- Publicação via Quartz v4.4.0 + GitHub Actions + GitHub Pages
-- Skills `/lint` e `/ingest` operacionais
-- Pentateuco completo (5/5 obras ingeridas)
-- Zero erros de lint
-
----
-
 ## 1. Cobertura de fontes
 
 Completar a base doutrinária para que o leitor encontre o essencial da codificação.
 
 - [x] **Ingerir O Livro dos Médiuns** — concluído
-- [ ] **Ingerir Kardec complementar** — 5 fontes já em `raw/kardec/complementares/` (O Que é o Espiritismo, Obras Póstumas, Instruções Práticas, Viagem Espírita, Resumo da Lei dos Fenômenos Espíritas); *O Que é o Espiritismo* já ingerido
-- [ ] **Expandir autores nível 3** — Chico Xavier (O Consolador, Nosso Lar), Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo; pastas já criadas em `raw/` mas sem conversão MD
+- [ ] **Ingerir Kardec complementar** — 6 fontes em `raw/kardec/complementares/`; 3 já ingeridas (O Que é o Espiritismo, Obras Póstumas, Viagem Espírita); faltam Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão
+- [ ] **Expandir autores nível 3** — Léon Denis avançado (4 obras ingeridas), Chico Xavier parcial (A Caminho da Luz ingerido); faltam O Consolador, Nosso Lar, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 
 ---
@@ -40,7 +30,7 @@ A wiki já é publicada, mas foi pensada para uso pessoal. Adaptar para que qual
 
 ## 3. Conteúdo de síntese e estudo
 
-As categorias `questoes/` e `sinteses/` estão sub-representadas (1 página cada). São as mais valiosas para o leitor.
+As categorias `questoes/` e `sinteses/` estão sub-representadas. São as mais valiosas para o leitor.
 
 - [ ] **Extrair questões-chave do Pentateuco** — selecionar as questões mais importantes de cada obra e criar páginas em `questoes/` com pergunta, resposta dos Espíritos, comentário de Kardec e análise
 - [ ] **Sínteses temáticas** — criar comparativos entre obras sobre o mesmo tema (ex: "O que cada obra diz sobre obsessão", "Reencarnação: de Kardec a Léon Denis")
@@ -65,7 +55,7 @@ A wiki tem links, mas pode ser mais densa em conexões — o grafo do Quartz fic
 
 Hoje o lint roda sob demanda. Automatizar para manter a qualidade conforme a wiki cresce.
 
-- [ ] **Lint em CI** — rodar `lint_wiki.py` no GitHub Actions em cada PR; falhar o build se houver erros críticos (links quebrados, frontmatter inválido)
+- [x] **Lint em CI** — `lint_wiki.py` roda no GitHub Actions (`deploy-wiki.yml`) em cada push
 - [ ] **Métricas de cobertura** — script que gera relatório: % do Pentateuco coberto, conceitos sem página própria, entidades mencionadas mas sem página, razão conceitos/questões
 - [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após cada deploy
 - [ ] **Lint evolutivo** — adicionar checks: páginas com poucas citações, conceitos referenciados em 5+ páginas mas sem página própria, inconsistências de nomenclatura entre páginas
@@ -98,6 +88,27 @@ Formatos além de markdown para tornar o conteúdo mais acessível.
 - [ ] **Mapas conceituais** — gerar visualizações (Mermaid ou similar) das relações entre conceitos de um tema
 - [ ] **Export temático** — gerar PDF/EPUB de um conjunto de páginas sobre um tema, para estudo offline
 - [ ] **Flashcards** — gerar pares pergunta/resposta a partir de `questoes/` para revisão espaçada (formato Anki-compatível)
+
+---
+
+## Priorização para o workflow autor + Claude Code
+
+Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki (ingest, queries, sínteses).
+
+### Impacto alto — muda o jogo
+
+1. **qmd como MCP server local (§6)** — Hoje o Claude Code busca páginas relevantes lendo `index.md` e abrindo arquivos um a um. Busca semântica local permitiria: encontrar todos os conceitos relacionados durante ingest (menos duplicatas, mais cross-references), detectar contradições entre fonte nova e wiki existente, responder queries com cobertura completa. É a diferença entre "procurar num índice" e "entender o corpus".
+2. **Métricas de cobertura (§5)** — Saber o que falta é tão valioso quanto saber o que existe. Um script que reporte conceitos mencionados em 5+ páginas sem página própria, % do Pentateuco coberto, razão conceitos/questões — dá lista de trabalho priorizada em vez de depender de intuição.
+3. **Lint evolutivo (§5)** — Checks de conteúdo (páginas com poucas citações, nomenclatura inconsistente) mantêm qualidade conforme a wiki cresce. Hoje isso depende de o Claude Code "perceber" problemas durante ingest.
+
+### Impacto médio — acelera o que já funciona
+
+4. **Pipeline de palestras (§1)** — Automatizar YouTube → transcrição → MD reduz fricção significativa; cada palestra hoje exige vários passos manuais antes do ingest.
+5. **Lint em CI (§5)** — Rede de segurança útil, mas já rodamos `/lint` manualmente; ganho incremental.
+
+### Impacto menor para o workflow (alto para o leitor)
+
+- Trilhas de estudo, glossário, Pagefind, breadcrumbs — ótimos para o leitor público, mas não mudam como o conteúdo é construído.
 
 ---
 
