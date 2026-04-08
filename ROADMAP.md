@@ -74,10 +74,18 @@ Hoje o lint roda sob demanda. Automatizar para manter a qualidade conforme a wik
 
 ## 6. Busca e navegação avançada
 
-O Quartz tem busca full-text básica. Para queries mais sofisticadas (especialmente via LLM), precisamos de mais.
+### Para o autor (local, Claude Code)
 
-- [ ] **Busca híbrida local** — integrar [qmd](https://github.com/tobi/qmd) ou similar para busca BM25 + vetorial sobre as páginas wiki; útil para o LLM encontrar páginas relevantes em queries complexas
-- [ ] **MCP server de busca** — expor a busca como tool MCP para que o Claude Code consulte a wiki semanticamente durante queries
+O Quartz tem busca full-text básica, suficiente para o leitor. Para queries semânticas durante ingest, sínteses e estudo via LLM, precisamos de busca local mais sofisticada.
+
+- [ ] **qmd como MCP server local** — integrar [qmd](https://github.com/tobi/qmd) (BM25 + vetorial + re-ranking, tudo on-device) como MCP server para que o Claude Code consulte a wiki semanticamente durante `/ingest`, queries e sínteses. Roda localmente com SQLite + node-llama-cpp, sem servidor externo.
+
+### Para o leitor público (estático, GitHub Pages)
+
+- [ ] **Pagefind** — substituir ou complementar o flexsearch do Quartz por [Pagefind](https://pagefind.app/), que gera índice estático no build e roda no browser sem backend. Integrável ao GH Actions.
+
+### Navegação
+
 - [ ] **Índice por conceito-raiz** — além do `index.md` linear, criar índice hierárquico que reflita a estrutura conceitual da doutrina (Deus > Leis Divinas > Lei de Causa e Efeito > ...)
 
 ---
