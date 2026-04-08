@@ -1,6 +1,6 @@
 ---
 name: lint
-description: Verifica a integridade e consistência da wiki IsAbel conforme seção 8 do CLAUDE.md — roda script Python para checks determinísticos e complementa com análise LLM. Use com /lint, "faça lint", ou "verifique a wiki".
+description: Verifica a integridade e consistência da wiki IsAbel — roda script Python para checks determinísticos e complementa com análise LLM. Use com /lint, "faça lint", ou "verifique a wiki".
 ---
 
 # /lint

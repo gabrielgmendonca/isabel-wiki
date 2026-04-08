@@ -1,6 +1,6 @@
 ---
 name: ingest
-description: Ingere uma nova fonte de raw/ na wiki IsAbel seguindo o workflow da seção 6 do CLAUDE.md — lê a fonte, discute pontos-chave com o usuário, cria página da obra, atualiza conceitos/entidades, flagga divergências com Kardec, atualiza index.md e log.md. Use quando o usuário disser "faça ingest de X", "acabei de adicionar X em raw/", ou invocar /ingest.
+description: Ingere uma nova fonte de raw/ na wiki IsAbel — lê a fonte, discute pontos-chave com o usuário, cria página da obra, atualiza conceitos/entidades, flagga divergências com Kardec, atualiza index.md e log.md. Use quando o usuário disser "faça ingest de X", "acabei de adicionar X em raw/", ou invocar /ingest.
 ---
 
 # /ingest
@@ -21,10 +21,18 @@ Ao iniciar, **entre em plan mode** (`EnterPlanMode`). Isso impede escrita aciden
 
 ### Passos 1–2 — Leitura e discussão
 
-Siga os passos 1–2 da seção 6 do CLAUDE.md: ler a fonte e apresentar 5–10 pontos-chave. **Aguardar confirmação explícita do usuário.**
+1. **Ler** o arquivo em `raw/`.
+2. **Conversar**: apresentar 5–10 pontos-chave e aguardar confirmação. **Não escrever nenhuma página antes disso.**
 
 ## Fase de escrita
 
-Após confirmação do usuário, **saia de plan mode** (`ExitPlanMode`) e execute os passos 3–8 da seção 6 do CLAUDE.md.
+Após confirmação do usuário, **saia de plan mode** (`ExitPlanMode`) e execute:
+
+3. **Criar** `wiki/obras/<slug>.md` ou `wiki/entidades/<slug>.md`.
+4. **Extrair** entidades e conceitos: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
+5. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
+6. **Atualizar `index.md`** com links e resumos das páginas novas.
+7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
+8. **Reportar** arquivos criados/atualizados.
 
 **Passo 3 — link ao texto integral:** nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.

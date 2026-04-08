@@ -28,24 +28,7 @@ Ver [[wiki/sinteses/hierarquia-de-autoridade]] para análise completa.
 
 ---
 
-## 3. Regra de divergência
-
-Quando nível 2/3 contradiz o Pentateuco:
-
-1. Na página da obra/autor, inserir:
-   ```markdown
-   > [!warning] Divergência com Kardec
-   > <descrição curta>
-   > Ver [[wiki/divergencias/<slug>]].
-   ```
-2. Criar/atualizar `wiki/divergencias/<slug>.md` com: posição de Kardec (citação), posição do complementar (citação), análise (divergência real / mudança de ênfase / aprofundamento / erro de interpretação) e status: `aberta` ou `concluída`.
-3. Na página do conceito afetado, adicionar seção "Divergências" com link.
-
-Em dúvida → registrar `status: aberta` e perguntar ao usuário.
-
----
-
-## 4. Citação obrigatória
+## 3. Citação obrigatória
 
 Toda afirmação doutrinária precisa de citação:
 
@@ -62,79 +45,18 @@ Toda página termina com `## Fontes` em formato bibliográfico completo.
 
 ---
 
-## 5. Convenções de páginas
+## 4. Workflows
 
-Frontmatter YAML obrigatório:
-```yaml
----
-tipo: conceito | obra | entidade | questao | sintese | divergencia
-fontes: [LE, ESE]
-tags: [reencarnacao, moral]
-url: https://...          # opcional — URL da fonte original (YouTube, site, etc.)
-atualizado_em: YYYY-MM-DD
-status: rascunho | ativo | revisar
----
-```
-
-Links estilo Obsidian: `[[wiki/conceitos/reencarnacao]]`, `[[wiki/obras/livro-dos-espiritos]]`.
-
-Slugs: minúsculas, sem acento, hífen (`reencarnacao`, `lei-de-causa-e-efeito`).
-
-Estrutura por tipo:
-- **obras/**: Cabeçalho · Dados bibliográficos (incluir `**Texto integral:** [[raw/<caminho>]]` quando a fonte existir em `raw/`; incluir `**Fonte original:** [YouTube](url)` + embed `![](url)` quando houver vídeo/áudio online; incluir `Disponível em: <url>` na seção Fontes) · Estrutura · Resumo por parte · Temas centrais · Conceitos tratados · Entidades citadas · Divergências · Fontes.
-- **conceitos/**: Definição curta · Ensino de Kardec · Desdobramentos · Aplicação prática · Divergências · Páginas relacionadas · Fontes.
-- **entidades/**: Identificação · Papel · Obras associadas · Citações relevantes · Páginas relacionadas · Fontes.
-- **questoes/**: Pergunta literal · Resposta dos Espíritos literal · Comentário de Kardec · Análise · Conceitos relacionados · Fontes.
-- **sinteses/**: Pergunta motivadora · Análise · Conclusão · Páginas referenciadas · Fontes.
-- **divergencias/**: ver seção 3.
+- **Ingest** (`/ingest`): ingestão de fontes de `raw/` na wiki. Skill autocontido.
+- **Lint** (`/lint`): verificação de integridade da wiki. Skill autocontido.
+- **Query**: ler `index.md` → páginas relevantes → `raw/` se necessário → responder com citações começando por Kardec. Oferecer arquivar como `wiki/sinteses/` ou `wiki/questoes/` se reutilizável; se arquivado, atualizar `index.md` e `log.md`.
 
 ---
 
-## 5.1. Convenções de `raw/palestras/`
+## 5. Regras condicionais
 
-Palestras de YouTube são armazenadas em pares:
-- `<TÍTULO>.md` — transcrição completa (com URL da fonte na primeira linha)
-- `summary-<TÍTULO>.md` — resumo gerado a partir da mesma transcrição
+Detalhes carregados automaticamente conforme os arquivos em uso:
 
----
-
-## 6. Workflow de ingest
-
-1. **Ler** o arquivo em `raw/`.
-2. **Conversar**: apresentar 5–10 pontos-chave e aguardar confirmação. **Não escrever nenhuma página antes disso.**
-3. **Criar** `wiki/obras/<slug>.md` ou `wiki/entidades/<slug>.md`.
-4. **Extrair** entidades e conceitos: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
-5. **Checar alinhamento com Kardec**: flaggar divergências conforme seção 3.
-6. **Atualizar `index.md`** com links e resumos das páginas novas.
-7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
-8. **Reportar** arquivos criados/atualizados.
-
-Ingest é feito uma fonte por vez, com o usuário no circuito.
-
----
-
-## 7. Workflow de query
-
-1. Ler `index.md` para mapear páginas candidatas.
-2. Ler as páginas relevantes.
-3. Se insuficiente, consultar `raw/` diretamente.
-4. Responder com citações (seção 4), começando pelo que Kardec diz.
-5. Se substancial e reutilizável, oferecer arquivar como `wiki/sinteses/<slug>.md` ou `wiki/questoes/<slug>.md`.
-6. Se arquivada, atualizar `index.md` e `log.md`: `## [YYYY-MM-DD] query | <pergunta resumida>`.
-
----
-
-## 8. Workflow de lint
-
-Sob demanda, verificar e reportar (não corrigir silenciosamente):
-- Divergências `status: aberta` sem análise completa.
-- Páginas órfãs (sem links de entrada).
-- Conceitos mencionados em múltiplas páginas sem página própria.
-- Cross-references faltando.
-- `## Fontes` vazia ou incompleta.
-- Citações fora do formato da seção 4.
-- `index.md` desatualizado vs. arquivos reais em `wiki/`.
-- Páginas com `status: rascunho` há muito tempo.
-- Sugestões de fontes para lacunas.
-
-Append em `log.md`: `## [YYYY-MM-DD] lint | <N achados>`.
+- `.claude/rules/convencoes-paginas.md` — frontmatter, links, estrutura por tipo (wiki/)
+- `.claude/rules/convencoes-palestras.md` — pares transcrição/resumo (raw/palestras/)
+- `.claude/rules/regra-divergencia.md` — protocolo de registro de divergências (wiki/)
