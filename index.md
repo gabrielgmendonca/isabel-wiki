@@ -26,11 +26,12 @@
 
 A wiki segue uma hierarquia clara de fontes:
 
+0. **Ensinamentos morais de Jesus** (Evangelhos canônicos) — fonte primordial sobre a qual Kardec construiu o ESE. Os ensinamentos de Jesus são o sol; o Pentateuco é o telescópio. Os textos evangélicos são sempre lidos à luz da codificação.
 1. **Pentateuco de Kardec** — *O Livro dos Espíritos*, *O Livro dos Médiuns*, *O Evangelho Segundo o Espiritismo*, *A Gênese*, *O Céu e o Inferno*. Base inamovível.
 2. **Kardec complementar** — *O Que é o Espiritismo*, *Obras Póstumas*, *Revista Espírita*, *Viagem Espírita em 1862*.
-3. **Autores alinhados à codificação** — Léon Denis, Chico Xavier, Divaldo Franco, entre outros.
+3. **Autores alinhados à codificação** — Léon Denis, Chico Xavier, Divaldo Franco, escritos apostólicos (Paulo, Pedro, João, Tiago), entre outros.
 
-Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergência é registrada, nunca apagada.
+Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergência é registrada, nunca apagada. Ver [[wiki/sinteses/hierarquia-de-autoridade]] para análise completa.
 
 ---
 
@@ -266,6 +267,7 @@ Páginas dedicadas a questões-chave do LE ou a perguntas específicas do usuár
 
 Comparações, análises temáticas, conexões entre obras.
 
+- [[wiki/sinteses/hierarquia-de-autoridade]] — Descrição completa da hierarquia de fontes da wiki: Jesus como fonte primordial, Pentateuco como base inamovível, Kardec complementar, complementares aprovados (incluindo escritos apostólicos) e critérios de escopo.
 - [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — Critérios kardequianos para distinguir comunicações autênticas de apócrifas (LM, caps. X, XXIV, XXXI; LE, escala espírita).
 
 ## Divergências

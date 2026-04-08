@@ -263,3 +263,7 @@ Ingest de palestra do canal EELDE sobre Marcos 1:21–28 (nível 3 — complemen
 ## [2026-04-07] lint | 2 achados
 
 1 broken link (wikilink com `|` no nome do arquivo raw interpretado como alias pelo Obsidian). 1 divergência aberta (mudança de sexo na reencarnação) — análise completa, sem ação necessária.
+
+## [2026-04-08] query | Onde o Novo Testamento se encaixa na hierarquia de autoridade?
+
+Análise do lugar dos Evangelhos canônicos e dos escritos apostólicos na hierarquia de fontes da wiki. Conclusão: os ensinamentos morais de Jesus são a fonte primordial (acima do nível 1), mas os textos evangélicos são lidos à luz do Pentateuco — "os ensinamentos de Jesus são o sol; o Pentateuco é o telescópio". Paulo e demais apóstolos entram no nível 3 como fontes seletivamente citadas por Kardec. Criado: `wiki/sinteses/hierarquia-de-autoridade.md`. Atualizados: `CLAUDE.md` (seção 2), `index.md` (hierarquia e índice de sínteses).
