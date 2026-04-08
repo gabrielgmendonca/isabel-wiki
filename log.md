@@ -259,3 +259,7 @@ Ingest de *A Caminho da Luz* (nível 3 — complementar aprovado). Primeira obra
 ## [2026-04-07] ingest | Jesus Ensina em Cafarnaum (EELDE, palestra)
 
 Ingest de palestra do canal EELDE sobre Marcos 1:21–28 (nível 3 — complementar alinhado). Criado: `wiki/obras/jesus-ensina-em-cafarnaum-eelde.md`. Atualizados: `wiki/conceitos/obsessao.md` (referência à desobsessão em Cafarnaum), `wiki/entidades/jesus.md` (obra associada), `index.md`. Nenhuma divergência com o Pentateuco.
+
+## [2026-04-07] lint | 2 achados
+
+1 broken link (wikilink com `|` no nome do arquivo raw interpretado como alias pelo Obsidian). 1 divergência aberta (mudança de sexo na reencarnação) — análise completa, sem ação necessária.

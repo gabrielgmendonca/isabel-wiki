@@ -15,7 +15,7 @@ status: ativo
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 3 — complementar alinhado à codificação
 - **Fonte original:** [YouTube](https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO)
-- **Texto integral:** [[raw/palestras/JESUS ENSINA EM CAFARNAHUM | EELDE]]
+- **Texto integral:** [JESUS ENSINA EM CAFARNAHUM | EELDE](raw/palestras/JESUS%20ENSINA%20EM%20CAFARNAHUM%20%7C%20EELDE.md)
 
 ![](https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO)
 
