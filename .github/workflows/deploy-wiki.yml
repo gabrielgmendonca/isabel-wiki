@@ -41,6 +41,8 @@ jobs:
           cp -r raw /tmp/quartz/content/raw
           cp index.md /tmp/quartz/content/
           cp logo-isabel.svg /tmp/quartz/content/
+          cp static/icon.png /tmp/quartz/quartz/static/icon.png
+          cp static/og-image.png /tmp/quartz/quartz/static/og-image.png
           cp quartz.config.ts /tmp/quartz/quartz.config.ts
           cp quartz.layout.ts /tmp/quartz/quartz.layout.ts
           cp -r quartz-overrides/components/* /tmp/quartz/quartz/components/
