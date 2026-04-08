@@ -90,6 +90,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/genese]] — milagres de Jesus explicados (cap. XV); Consolador (cap. XVII).
 - [[wiki/obras/obras-postumas]] — estudo sobre a natureza do Cristo (9 seções).
 - [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
+- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
 
 ## Páginas relacionadas
 

@@ -78,6 +78,9 @@ Catálogo de todas as páginas, organizado por categoria.
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
 
+#### EELDE
+- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — EELDE, palestra. Primeira pregação de Jesus em Cafarnaum (Marcos 1:21–28): ensino com autoridade e desobsessão na sinagoga.
+
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Divaldo Franco, palestra (~2023). Obsessão (caso Baby), psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho.

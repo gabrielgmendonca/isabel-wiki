@@ -255,3 +255,7 @@ Ingest de *Obras Póstumas* (nível 2 — Kardec complementar). Criados: `wiki/o
 ## [2026-04-07] ingest | A Caminho da Luz (Emmanuel/Chico Xavier, FEB, 1939)
 
 Ingest de *A Caminho da Luz* (nível 3 — complementar aprovado). Primeira obra de Emmanuel/Chico Xavier na wiki. Status: **rascunho** (obra rica, demanda aprofundamento futuro). Criados: `wiki/obras/a-caminho-da-luz.md`, `wiki/entidades/emmanuel.md`, `wiki/entidades/chico-xavier.md`. Atualizados: `wiki/entidades/jesus.md` (seção Governador espiritual da Terra), `wiki/conceitos/raca-adamica.md` (desenvolvimento por Emmanuel — Capela), `wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos.md` (exemplo de Capela), `wiki/conceitos/transicao-planetaria.md` (visão de Emmanuel), `wiki/conceitos/progresso-espiritual.md` (progresso civilizatório), `index.md`. Nenhuma divergência com o Pentateuco identificada — informações complementares.
+
+## [2026-04-07] ingest | Jesus Ensina em Cafarnaum (EELDE, palestra)
+
+Ingest de palestra do canal EELDE sobre Marcos 1:21–28 (nível 3 — complementar alinhado). Criado: `wiki/obras/jesus-ensina-em-cafarnaum-eelde.md`. Atualizados: `wiki/conceitos/obsessao.md` (referência à desobsessão em Cafarnaum), `wiki/entidades/jesus.md` (obra associada), `index.md`. Nenhuma divergência com o Pentateuco.
