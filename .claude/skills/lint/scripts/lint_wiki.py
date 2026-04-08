@@ -14,6 +14,8 @@ import re
 import sys
 from datetime import date, datetime
 from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 
 WIKI_DIR = Path("wiki")
 INDEX_PATH = Path("index.md")
@@ -305,6 +307,44 @@ def check_citation_format(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
+def find_urls(text: str) -> list[tuple[int, str]]:
+    """Retorna lista de (linha, url) para cada URL http(s) no texto."""
+    results = []
+    url_re = re.compile(r"https?://[^\s\)\]>\"'`]+")
+    for i, line in enumerate(text.splitlines(), 1):
+        for m in url_re.finditer(line):
+            results.append((i, m.group(0).rstrip(".,;:!?")))
+    return results
+
+
+def check_broken_urls(pages: list[Path]) -> dict:
+    """Check — URLs externas (http/https) que retornam erro ou timeout."""
+    # Coletar todas as URLs únicas com suas origens
+    url_sources: dict[str, list[dict]] = {}
+    all_sources = list(pages) + [INDEX_PATH]
+    for page in all_sources:
+        text = page.read_text(encoding="utf-8")
+        for lineno, url in find_urls(text):
+            if url not in url_sources:
+                url_sources[url] = []
+            url_sources[url].append({"source": str(page), "line": lineno})
+
+    items = []
+    for url, sources in sorted(url_sources.items()):
+        try:
+            req = Request(url, method="HEAD", headers={"User-Agent": "IsAbel-Wiki-Lint/1.0"})
+            resp = urlopen(req, timeout=10)
+            status = resp.status
+            if status >= 400:
+                items.append({"url": url, "status": status, "sources": sources})
+        except HTTPError as e:
+            items.append({"url": url, "status": e.code, "sources": sources})
+        except (URLError, OSError, ValueError) as e:
+            items.append({"url": url, "status": str(e), "sources": sources})
+
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -358,6 +398,7 @@ def main():
         "rascunho_stale": check_rascunho_stale(pages),
         "divergencias_aberta": check_divergencias_aberta(pages),
         "missing_concept_pages": check_missing_concept_pages(pages),
+        "broken_urls": check_broken_urls(pages),
     }
 
     errors = sum(1 for c in checks.values() if c["severity"] == "error" and c["count"] > 0)
