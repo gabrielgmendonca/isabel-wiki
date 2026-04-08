@@ -345,6 +345,63 @@ def check_broken_urls(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
+PENTATEUCO_SLUGS = {
+    "livro-dos-espiritos",
+    "livro-dos-mediuns",
+    "evangelho-segundo-o-espiritismo",
+    "genese",
+    "ceu-e-inferno",
+}
+
+
+def check_status_projeto(pages: list[Path]) -> dict:
+    """Check — números no 'Status do projeto' de index.md vs. realidade."""
+    # Contar obras e páginas reais
+    obras_dir = WIKI_DIR / "obras"
+    obras_pages = sorted(obras_dir.glob("*.md")) if obras_dir.exists() else []
+    n_complementares = sum(
+        1 for o in obras_pages if o.stem not in PENTATEUCO_SLUGS
+    )
+    total_paginas = len(pages)
+
+    # Verificar que os 5 arquivos do Pentateuco existem
+    pentateuco_missing = [
+        s for s in sorted(PENTATEUCO_SLUGS)
+        if not (obras_dir / f"{s}.md").exists()
+    ]
+
+    # Extrair números do index.md
+    text = INDEX_PATH.read_text(encoding="utf-8")
+    items = []
+
+    if pentateuco_missing:
+        items.append({
+            "detail": f"Pentateuco incompleto — faltam: {', '.join(pentateuco_missing)}",
+        })
+
+    m_fontes = re.search(r"(\d+)\s*fontes?\s*complementares?", text)
+    if m_fontes:
+        idx_fontes = int(m_fontes.group(1))
+        if idx_fontes != n_complementares:
+            items.append({
+                "detail": f"index.md diz {idx_fontes} fontes complementares, mas há {n_complementares}",
+            })
+    else:
+        items.append({"detail": "não encontrou contagem de fontes complementares em index.md"})
+
+    m_paginas = re.search(r"~?(\d+)\s*páginas?", text)
+    if m_paginas:
+        idx_paginas = int(m_paginas.group(1))
+        if idx_paginas != total_paginas:
+            items.append({
+                "detail": f"index.md diz ~{idx_paginas} páginas, mas há {total_paginas}",
+            })
+    else:
+        items.append({"detail": "não encontrou contagem de páginas em index.md"})
+
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -398,6 +455,7 @@ def main():
         "rascunho_stale": check_rascunho_stale(pages),
         "divergencias_aberta": check_divergencias_aberta(pages),
         "missing_concept_pages": check_missing_concept_pages(pages),
+        "status_projeto": check_status_projeto(pages),
         "broken_urls": check_broken_urls(pages),
     }
 
