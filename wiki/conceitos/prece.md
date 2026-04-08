@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [prece, oracao, transmissao-do-pensamento]
+tags: [prece, oracao, transmissao-do-pensamento, obra/ese, obra/le, lei/adoracao]
 atualizado_em: 2026-04-07
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [conservacao, instinto, necessario, privacoes, lei-moral]
+tags: [conservacao, instinto, necessario, privacoes, lei-moral, obra/le, lei/conservacao]
 atualizado_em: 2026-04-06
 status: ativo
 ---

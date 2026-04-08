@@ -1,14 +1,7 @@
 ---
 tipo: conceito
-fontes:
-  - LE
-  - ESE
-tags:
-  - vontade
-  - consciencia
-  - livre-arbitrio
-  - pensamento
-  - leon-denis
+fontes: [LE, ESE]
+tags: [vontade, consciencia, livre-arbitrio, pensamento, leon-denis, obra/le, obra/ese, lei/liberdade]
 atualizado_em: 2026-04-07
 status: ativo
 ---

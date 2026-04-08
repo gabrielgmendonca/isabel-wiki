@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE, Gênese, C&I]
-tags: [leon-denis, reencarnacao, imortalidade, dor, vontade, evolucao, perispírito, mediunidade]
+tags: [leon-denis, reencarnacao, imortalidade, dor, vontade, evolucao, perispírito, mediunidade, obra/le, obra/lm, obra/ese, obra/genese, obra/ci]
 atualizado_em: 2026-04-07
 status: ativo
 ---

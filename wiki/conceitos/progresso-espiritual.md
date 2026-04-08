@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Emmanuel/Chico Xavier]
-tags: [progresso, evolucao-espiritual, perfeicao, finalidade]
+tags: [progresso, evolucao-espiritual, perfeicao, finalidade, obra/le, obra/ese, lei/progresso]
 atualizado_em: 2026-04-07
 status: ativo
 ---

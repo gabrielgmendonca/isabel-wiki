@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, bom-samaritano, caridade, proximo]
+tags: [parabola, jesus, bom-samaritano, caridade, proximo, obra/ese, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

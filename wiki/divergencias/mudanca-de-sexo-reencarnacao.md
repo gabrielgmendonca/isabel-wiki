@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, C&I, OPS]
-tags: [reencarnacao, sexo, leon-denis]
+tags: [reencarnacao, sexo, leon-denis, obra/le, obra/ci]
 atualizado_em: 2026-04-07
 status: aberta
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [mundos, felicidade, espiritualidade-superior]
+tags: [mundos, felicidade, espiritualidade-superior, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

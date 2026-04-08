@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier]
-tags: [jesus, cristo, modelo-moral]
+tags: [jesus, cristo, modelo-moral, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade]
 atualizado_em: 2026-04-07
 status: ativo
 ---

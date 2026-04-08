@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, figueira, fe, obras]
+tags: [parabola, jesus, figueira, fe, obras, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

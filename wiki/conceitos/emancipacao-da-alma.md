@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM]
-tags: [emancipacao, sono, sonhos, sonambulismo, dupla-vista, extase]
+tags: [emancipacao, sono, sonhos, sonambulismo, dupla-vista, extase, obra/le, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

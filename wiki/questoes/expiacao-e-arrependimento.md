@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE, C&I, ESE, Gênese]
-tags: [expiacao, arrependimento, reparacao, moral, penas-futuras, justica-divina, triade, mundos-de-expiacao]
+tags: [expiacao, arrependimento, reparacao, moral, penas-futuras, justica-divina, triade, mundos-de-expiacao, obra/le, obra/ci, obra/ese, obra/genese, lei/adoracao, lei/conservacao, lei/igualdade, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

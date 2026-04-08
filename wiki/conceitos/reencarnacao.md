@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Léon Denis]
-tags: [reencarnacao, pluralidade-existencias, justica-divina]
+tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

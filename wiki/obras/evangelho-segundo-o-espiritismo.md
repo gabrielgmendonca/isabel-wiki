@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [pentateuco, moral-evangelica, caridade, fe, prece, jesus]
+tags: [pentateuco, moral-evangelica, caridade, fe, prece, jesus, obra/ese, lei/justica-amor-caridade, lei/reproducao]
 atualizado_em: 2026-04-06
 status: ativo
 ---

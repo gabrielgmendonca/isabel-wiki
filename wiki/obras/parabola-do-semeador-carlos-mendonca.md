@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseveranca]
+tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseveranca, obra/ese]
 url: https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_
 atualizado_em: 2026-04-07
 status: ativo

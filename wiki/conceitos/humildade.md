@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [humildade, virtude, moral, orgulho, bem-aventurancas]
+tags: [humildade, virtude, moral, orgulho, bem-aventurancas, obra/ese, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

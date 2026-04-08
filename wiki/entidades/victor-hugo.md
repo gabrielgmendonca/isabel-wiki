@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [RE]
-tags: [espirito-comunicante, psicografia, divaldo-franco, escritor]
+tags: [espirito-comunicante, psicografia, divaldo-franco, escritor, obra/re]
 atualizado_em: 2026-04-07
 status: rascunho
 ---

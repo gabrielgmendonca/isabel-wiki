@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro]
+tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, obra/le, obra/ese, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

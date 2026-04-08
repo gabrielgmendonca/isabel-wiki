@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [mundos, expiacao, provas, terra]
+tags: [mundos, expiacao, provas, terra, obra/ese, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

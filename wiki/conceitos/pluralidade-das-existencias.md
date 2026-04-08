@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [pluralidade-existencias, reencarnacao, existencias-sucessivas]
+tags: [pluralidade-existencias, reencarnacao, existencias-sucessivas, obra/le]
 atualizado_em: 2026-04-05
 status: ativo
 ---

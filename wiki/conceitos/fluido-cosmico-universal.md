@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Gênese]
-tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao]
+tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, obra/le, obra/ese, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

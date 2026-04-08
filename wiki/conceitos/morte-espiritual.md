@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [OPE]
-tags: [morte, transformacao, progresso, reencarnacao]
+tags: [morte, transformacao, progresso, reencarnacao, obra/ope]
 atualizado_em: 2026-04-07
 status: ativo
 ---

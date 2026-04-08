@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade]
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

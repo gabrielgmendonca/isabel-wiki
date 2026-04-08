@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I]
-tags: [arrependimento, expiacao, moral, justica-divina, progresso-espiritual]
+tags: [arrependimento, expiacao, moral, justica-divina, progresso-espiritual, obra/le, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

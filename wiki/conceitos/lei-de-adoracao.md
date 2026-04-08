@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [adoracao, prece, culto, lei-moral]
+tags: [adoracao, prece, culto, lei-moral, obra/le, lei/adoracao]
 atualizado_em: 2026-04-05
 status: ativo
 ---

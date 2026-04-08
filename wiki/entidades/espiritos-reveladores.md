@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [LE]
-tags: [reveladores, espiritos, codificacao]
+tags: [reveladores, espiritos, codificacao, obra/le]
 atualizado_em: 2026-04-05
 status: ativo
 ---

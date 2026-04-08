@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, purgatorio, expiacao, reencarnacao, terra]
+tags: [ceu-e-inferno, purgatorio, expiacao, reencarnacao, terra, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, "Em torno do Mestre"]
-tags: [parabola, jesus, semeador, evangelho, moral]
+tags: [parabola, jesus, semeador, evangelho, moral, obra/ese]
 atualizado_em: 2026-04-07
 status: ativo
 ---

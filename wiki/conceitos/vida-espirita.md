@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [erraticidade, espiritos-errantes, entre-vidas]
+tags: [erraticidade, espiritos-errantes, entre-vidas, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

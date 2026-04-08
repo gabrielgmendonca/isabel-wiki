@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [trabalho, ocupacao, repouso, lei-moral]
+tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, lei/trabalho]
 atualizado_em: 2026-04-05
 status: ativo
 ---

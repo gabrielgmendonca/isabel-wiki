@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [OPE]
-tags: [kardec, obras-postumas, nivel-2, postuma]
+tags: [kardec, obras-postumas, nivel-2, postuma, obra/ope]
 atualizado_em: 2026-04-07
 status: ativo
 ---

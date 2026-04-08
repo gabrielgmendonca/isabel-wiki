@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, C&I]
-tags: [orgulho, vicio, moral, humildade, perfeicao-moral]
+tags: [orgulho, vicio, moral, humildade, perfeicao-moral, obra/le, obra/ese, obra/ci, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

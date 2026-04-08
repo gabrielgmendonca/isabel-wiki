@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [LE, ESE, Gênese, OPE]
-tags: [codificador, kardec, rivail]
+tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope]
 atualizado_em: 2026-04-07
 status: ativo
 ---

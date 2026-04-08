@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE, Gênese]
-tags: [allan-kardec, viagem, grupos-espiritas, caridade, materialismo, mediunidade, transicao-planetaria, organizacao]
+tags: [allan-kardec, viagem, grupos-espiritas, caridade, materialismo, mediunidade, transicao-planetaria, organizacao, obra/le, obra/lm, obra/ese, obra/genese]
 atualizado_em: 2026-04-07
 status: ativo
 ---

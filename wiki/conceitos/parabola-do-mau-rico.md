@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, mau-rico, lazaro, riqueza, desapego]
+tags: [parabola, jesus, mau-rico, lazaro, riqueza, desapego, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

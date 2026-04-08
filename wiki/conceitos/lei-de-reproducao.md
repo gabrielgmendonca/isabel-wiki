@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [reproducao, casamento, populacao, lei-moral]
+tags: [reproducao, casamento, populacao, lei-moral, obra/le, lei/reproducao]
 atualizado_em: 2026-04-05
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE]
-tags: [reencarnacao, afinidade, almas-gemeas, leon-denis]
+tags: [reencarnacao, afinidade, almas-gemeas, leon-denis, obra/le]
 atualizado_em: 2026-04-07
 status: concluída
 ---

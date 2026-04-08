@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos]
+tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

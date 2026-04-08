@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, Gênese, ESE, C&I]
-tags: [leon-denis, deus, universo, harmonia, natureza, lei-circular, mediunidade, prece, sintese-doutrinaria]
+tags: [leon-denis, deus, universo, harmonia, natureza, lei-circular, mediunidade, prece, sintese-doutrinaria, obra/le, obra/genese, obra/ese, obra/ci]
 atualizado_em: 2026-04-07
 status: ativo
 ---

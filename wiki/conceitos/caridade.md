@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [caridade, amor, egoismo, beneficencia, moral]
+tags: [caridade, amor, egoismo, beneficencia, moral, obra/ese, obra/le, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

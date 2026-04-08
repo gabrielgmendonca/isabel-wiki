@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [fe, razao, fe-raciocinada]
+tags: [fe, razao, fe-raciocinada, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

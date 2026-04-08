@@ -345,6 +345,66 @@ def check_broken_urls(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
+# ---------------------------------------------------------------------------
+# Tags — conjuntos canônicos
+# ---------------------------------------------------------------------------
+
+VALID_LEI_TAGS = {
+    "lei/adoracao", "lei/trabalho", "lei/reproducao", "lei/conservacao",
+    "lei/destruicao", "lei/sociedade", "lei/progresso", "lei/igualdade",
+    "lei/liberdade", "lei/justica-amor-caridade",
+}
+
+FONTES_TO_OBRA = {
+    "LE": "obra/le", "LM": "obra/lm", "ESE": "obra/ese",
+    "C&I": "obra/ci", "Gênese": "obra/genese",
+    "OPE": "obra/ope", "OQE": "obra/oqe", "RE": "obra/re",
+}
+
+
+def check_tag_taxonomy(pages: list[Path]) -> dict:
+    """Check — tags lei/ e obra/ devem pertencer a conjuntos canônicos e ser consistentes com fontes."""
+    items = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        tags = fm.get("tags", [])
+        if isinstance(tags, str):
+            tags = [tags]
+        fontes = fm.get("fontes", [])
+        if isinstance(fontes, str):
+            fontes = [fontes]
+
+        # Validar tags lei/
+        for tag in tags:
+            if tag.startswith("lei/") and tag not in VALID_LEI_TAGS:
+                items.append({
+                    "path": str(page),
+                    "detail": f"tag lei/ inválida: {tag} (valores válidos: {', '.join(sorted(VALID_LEI_TAGS))})",
+                })
+
+        # Validar que obra/ tags são consistentes com fontes
+        obra_tags = {t for t in tags if t.startswith("obra/")}
+        expected_obra = {FONTES_TO_OBRA[f] for f in fontes if f in FONTES_TO_OBRA}
+
+        # Tags obra/ que não correspondem a nenhuma fonte
+        extra_obra = obra_tags - expected_obra
+        for t in sorted(extra_obra):
+            items.append({
+                "path": str(page),
+                "detail": f"tag {t} sem fonte correspondente no campo fontes",
+            })
+
+        # Fontes canônicas sem tag obra/ correspondente
+        missing_obra = expected_obra - obra_tags
+        for t in sorted(missing_obra):
+            items.append({
+                "path": str(page),
+                "detail": f"fonte presente mas tag {t} ausente",
+            })
+
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
 PENTATEUCO_SLUGS = {
     "livro-dos-espiritos",
     "livro-dos-mediuns",
@@ -457,6 +517,7 @@ def main():
         "missing_concept_pages": check_missing_concept_pages(pages),
         "status_projeto": check_status_projeto(pages),
         "broken_urls": check_broken_urls(pages),
+        "tag_taxonomy": check_tag_taxonomy(pages),
     }
 
     errors = sum(1 for c in checks.values() if c["severity"] == "error" and c["count"] > 0)

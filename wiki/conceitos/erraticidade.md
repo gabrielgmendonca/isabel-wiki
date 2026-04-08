@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [erraticidade, espirito-errante, vida-espirita, reencarnacao, intervalo-entre-vidas]
+tags: [erraticidade, espirito-errante, vida-espirita, reencarnacao, intervalo-entre-vidas, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

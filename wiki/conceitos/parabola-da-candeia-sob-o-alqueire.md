@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, candeia, alqueire, divulgacao, parabolas]
+tags: [parabola, jesus, candeia, alqueire, divulgacao, parabolas, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

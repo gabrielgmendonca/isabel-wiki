@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre]
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, obra/le, obra/ese]
 atualizado_em: 2026-04-07
 status: ativo
 ---

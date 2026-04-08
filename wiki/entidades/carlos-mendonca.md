@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [ESE]
-tags: [palestrante, evangelho, bezerra-de-menezes]
+tags: [palestrante, evangelho, bezerra-de-menezes, obra/ese]
 atualizado_em: 2026-04-07
 status: ativo
 ---

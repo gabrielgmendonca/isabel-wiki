@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese]
-tags: [mal, bem, livre-arbitrio, imperfeicao, progresso]
+tags: [mal, bem, livre-arbitrio, imperfeicao, progresso, obra/le, obra/genese, lei/liberdade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

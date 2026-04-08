@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, inferno, penas, fogo-eterno, sata, demonios]
+tags: [ceu-e-inferno, inferno, penas, fogo-eterno, sata, demonios, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

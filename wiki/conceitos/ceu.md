@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, ceu, felicidade, progresso-espiritual, mundos-superiores]
+tags: [ceu-e-inferno, ceu, felicidade, progresso-espiritual, mundos-superiores, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

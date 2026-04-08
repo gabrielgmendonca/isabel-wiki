@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina]
+tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, obra/le, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

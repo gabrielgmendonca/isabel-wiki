@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM]
-tags: [espirito, natureza-espiritual, ontologia]
+tags: [espirito, natureza-espiritual, ontologia, obra/le, obra/lm]
 atualizado_em: 2026-04-05
 status: ativo
 ---

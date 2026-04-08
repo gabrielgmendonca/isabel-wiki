@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, LE]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, obra/lm, obra/le]
 atualizado_em: 2026-04-07
 status: ativo
 ---

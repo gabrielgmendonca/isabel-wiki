@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, C&I]
-tags: [dor, sofrimento, provas, expiacao, progresso, leon-denis]
+tags: [dor, sofrimento, provas, expiacao, progresso, leon-denis, obra/le, obra/ese, obra/ci]
 atualizado_em: 2026-04-07
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [egoismo, vicio, moral, caridade, perfeicao-moral]
+tags: [egoismo, vicio, moral, caridade, perfeicao-moral, obra/le, obra/ese, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

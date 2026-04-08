@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade]
+tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

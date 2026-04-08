@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos]
+tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

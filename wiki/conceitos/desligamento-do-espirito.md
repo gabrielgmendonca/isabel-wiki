@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, LM]
-tags: [desligamento, morte, perispirito, desencarnacao, perturbacao]
+tags: [desligamento, morte, perispirito, desencarnacao, perturbacao, obra/le, obra/ci, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

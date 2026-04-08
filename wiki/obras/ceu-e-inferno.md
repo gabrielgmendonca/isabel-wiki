@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [C&I]
-tags: [kardec, pentateuco, codificacao, ceu, inferno, penas-eternas, anjos, demonios, purgatorio]
+tags: [kardec, pentateuco, codificacao, ceu, inferno, penas-eternas, anjos, demonios, purgatorio, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

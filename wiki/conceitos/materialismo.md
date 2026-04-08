@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese]
-tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo]
+tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo, obra/le, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

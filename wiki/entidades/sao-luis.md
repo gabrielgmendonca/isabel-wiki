@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [LE, LM]
-tags: [sao-luis, revelador, espirito-superior]
+tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

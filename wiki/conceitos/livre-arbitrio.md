@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade]
+tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, obra/le, obra/ese, lei/liberdade, lei/progresso]
 atualizado_em: 2026-04-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [educacao, criancas, familia, moral, evangelizacao]
+tags: [educacao, criancas, familia, moral, evangelizacao, obra/le, obra/ese]
 atualizado_em: 2026-04-07
 status: ativo
 ---

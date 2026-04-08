@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [Gênese]
-tags: [geracao-nova, transicao, regeneracao, espiritismo, progresso]
+tags: [geracao-nova, transicao, regeneracao, espiritismo, progresso, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

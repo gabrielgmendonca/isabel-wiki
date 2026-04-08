@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I, LE, LM]
-tags: [ceu-e-inferno, perturbacao, morte, desencarnacao, perispirito, desprendimento]
+tags: [ceu-e-inferno, perturbacao, morte, desencarnacao, perispirito, desprendimento, obra/ci, obra/le, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

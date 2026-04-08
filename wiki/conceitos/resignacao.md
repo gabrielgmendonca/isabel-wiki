@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [resignacao, virtude, moral, sofrimento, provas, fe]
+tags: [resignacao, virtude, moral, sofrimento, provas, fe, obra/ese, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

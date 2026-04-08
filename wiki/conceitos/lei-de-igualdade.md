@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [igualdade, riqueza, miseria, homem-e-mulher, lei-moral]
+tags: [igualdade, riqueza, miseria, homem-e-mulher, lei-moral, obra/le, lei/igualdade]
 atualizado_em: 2026-04-05
 status: ativo
 ---

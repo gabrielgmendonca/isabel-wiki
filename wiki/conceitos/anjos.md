@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita]
+tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

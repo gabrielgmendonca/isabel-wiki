@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I, LE]
-tags: [separacao, reencontro, morte, vida-espirita, familia, afeto]
+tags: [separacao, reencontro, morte, vida-espirita, familia, afeto, obra/ci, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

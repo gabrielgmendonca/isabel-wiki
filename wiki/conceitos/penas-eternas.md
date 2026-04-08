@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, penas-eternas, justica-divina, progresso, atributos-de-deus, refutacao]
+tags: [ceu-e-inferno, penas-eternas, justica-divina, progresso, atributos-de-deus, refutacao, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

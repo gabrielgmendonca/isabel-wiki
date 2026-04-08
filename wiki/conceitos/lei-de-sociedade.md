@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [sociedade, convivio, familia, insulamento, lei-moral]
+tags: [sociedade, convivio, familia, insulamento, lei-moral, obra/le, lei/sociedade]
 atualizado_em: 2026-04-05
 status: ativo
 ---

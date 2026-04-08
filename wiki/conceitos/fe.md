@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [fe, moral, virtude, razao, religiao]
+tags: [fe, moral, virtude, razao, religiao, obra/ese, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

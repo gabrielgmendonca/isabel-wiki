@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, rico-insensato, avareza, desapego, riqueza]
+tags: [parabola, jesus, rico-insensato, avareza, desapego, riqueza, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

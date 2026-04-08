@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [OPE]
-tags: [flammarion, astronomo, ciencia, discurso]
+tags: [flammarion, astronomo, ciencia, discurso, obra/ope]
 atualizado_em: 2026-04-07
 status: ativo
 ---

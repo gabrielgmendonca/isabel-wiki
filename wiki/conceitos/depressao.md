@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, Gênese]
-tags: [depressao, saude, obsessao, amor, mediunidade]
+tags: [depressao, saude, obsessao, amor, mediunidade, obra/le, obra/lm, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

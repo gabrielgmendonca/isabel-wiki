@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM]
-tags: [escala-espirita, classificacao, ordens]
+tags: [escala-espirita, classificacao, ordens, obra/le, obra/lm]
 atualizado_em: 2026-04-05
 status: ativo
 ---

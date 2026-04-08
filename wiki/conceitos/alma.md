@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [alma, espirito-encarnado, antropologia-espirita]
+tags: [alma, espirito-encarnado, antropologia-espirita, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

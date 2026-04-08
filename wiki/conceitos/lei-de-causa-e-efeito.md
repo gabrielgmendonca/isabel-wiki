@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, Gênese]
-tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias]
+tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

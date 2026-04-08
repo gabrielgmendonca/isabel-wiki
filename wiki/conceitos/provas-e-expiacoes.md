@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, ESE]
-tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio]
+tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, obra/le, obra/ci, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

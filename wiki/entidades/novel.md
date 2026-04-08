@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [C&I]
-tags: [ceu-e-inferno, espiritos-sofredores]
+tags: [ceu-e-inferno, espiritos-sofredores, obra/ci]
 atualizado_em: 2026-04-06
 status: ativo
 ---

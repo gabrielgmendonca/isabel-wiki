@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LM, LE]
-tags: [psicografia, identidade, comunicacoes, obsessao, escala-espirita, mediunidade]
+tags: [psicografia, identidade, comunicacoes, obsessao, escala-espirita, mediunidade, obra/lm, obra/le]
 atualizado_em: 2026-04-06
 status: ativo
 ---

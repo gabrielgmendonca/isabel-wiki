@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral]
+tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao]
 atualizado_em: 2026-04-05
 status: ativo
 ---

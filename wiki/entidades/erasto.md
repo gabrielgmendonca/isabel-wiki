@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [ESE, LM]
-tags: [espirito-comunicante, ese]
+tags: [espirito-comunicante, ese, obra/ese, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

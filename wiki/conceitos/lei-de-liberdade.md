@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [liberdade, livre-arbitrio, escravidao, consciencia, fatalidade, lei-moral]
+tags: [liberdade, livre-arbitrio, escravidao, consciencia, fatalidade, lei-moral, obra/le, lei/liberdade]
 atualizado_em: 2026-04-05
 status: ativo
 ---

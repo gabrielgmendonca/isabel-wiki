@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, casa-rocha, fe, obras, pratica]
+tags: [parabola, jesus, casa-rocha, fe, obras, pratica, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

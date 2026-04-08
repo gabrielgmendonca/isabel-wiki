@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese]
-tags: [principio-vital, fluido-vital, materia, vida, morte, fluido-cosmico]
+tags: [principio-vital, fluido-vital, materia, vida, morte, fluido-cosmico, obra/le, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

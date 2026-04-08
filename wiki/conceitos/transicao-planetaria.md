@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier]
-tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso]
+tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, obra/le, obra/ese, obra/genese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

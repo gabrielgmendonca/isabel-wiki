@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [lei-natural, lei-divina, bem-e-mal, moral]
+tags: [lei-natural, lei-divina, bem-e-mal, moral, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho]
 atualizado_em: 2026-04-05
 status: ativo
 ---

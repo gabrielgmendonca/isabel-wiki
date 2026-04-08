@@ -1,7 +1,7 @@
 ---
 tipo: entidade
 fontes: [LE, ESE]
-tags: [santo-agostinho, revelador, espirito-superior]
+tags: [santo-agostinho, revelador, espirito-superior, obra/le, obra/ese]
 atualizado_em: 2026-04-06
 status: ativo
 ---

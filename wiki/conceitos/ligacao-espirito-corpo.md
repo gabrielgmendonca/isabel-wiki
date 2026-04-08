@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, LM]
-tags: [encarnacao, perispirito, espirito, corpo, ligacao]
+tags: [encarnacao, perispirito, espirito, corpo, ligacao, obra/le, obra/genese, obra/lm]
 atualizado_em: 2026-04-06
 status: ativo
 ---

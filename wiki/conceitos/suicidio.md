@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, C&I]
-tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao]
+tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, obra/le, obra/ese, obra/ci, lei/conservacao]
 atualizado_em: 2026-04-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [grupos, sociedades, reunioes, organizacao, regulamento, pratica-espirita]
+tags: [grupos, sociedades, reunioes, organizacao, regulamento, pratica-espirita, obra/lm]
 atualizado_em: 2026-04-07
 status: ativo
 ---
