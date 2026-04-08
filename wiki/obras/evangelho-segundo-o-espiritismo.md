@@ -13,7 +13,7 @@ status: ativo
 - **Autor:** [[wiki/entidades/allan-kardec]]
 - **Título original:** *L'Évangile selon le Spiritisme*
 - **1ª edição:** 1864 (Paris, França)
-- **Nível de autoridade:** 1 — Pentateuco
+- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** 1 — Pentateuco
 - **Abreviação:** ESE
 - **Texto integral:** [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]]
 

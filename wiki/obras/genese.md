@@ -18,7 +18,7 @@ Quinta e última obra do Pentateuco kardequiano, publicada em Paris em janeiro d
 - **Publicação original:** Janeiro de 1868, Paris.
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/genese]]
-- **Nível na hierarquia de autoridade:** **1 — Pentateuco** (autoridade normativa máxima).
+- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **1 — Pentateuco** (autoridade normativa máxima).
 
 ## Estrutura
 

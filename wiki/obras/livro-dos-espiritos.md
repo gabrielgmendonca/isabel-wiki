@@ -19,7 +19,7 @@ Primeira obra da codificação kardequiana e **marco fundador do Espiritismo**. 
 - **2ª edição (definitiva):** 1860, Paris — reorganizada e ampliada; é a edição de referência. Kardec fundiu a parte suplementar ao corpo principal e conferiu "à distribuição das matérias uma ordem bem mais metódica" (LE, Nota sobre esta nova edição).
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/livro-dos-espiritos]]
-- **Nível na hierarquia de autoridade:** **1 — Pentateuco** (autoridade normativa máxima).
+- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **1 — Pentateuco** (autoridade normativa máxima).
 
 ## Estrutura
 
