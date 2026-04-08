@@ -20,6 +20,7 @@ Expositor espírita contemporâneo. Suas palestras são estudos do Evangelho con
 
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — estudo sobre a parábola do semeador (Marcos 4:1–25)
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — estudo sobre a primeira bem-aventurança (Mateus 5:3)
+- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — estudo sobre Jesus em Cafarnaum (Marcos 1:21–28)
 
 ## Páginas relacionadas
 

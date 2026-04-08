@@ -11,6 +11,7 @@ status: ativo
 
 ## Dados bibliográficos
 
+- **Palestrante:** [[wiki/entidades/carlos-mendonca]]
 - **Canal:** EELDE (Estudo do Evangelho à Luz da Doutrina Espírita)
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 3 — complementar alinhado à codificação

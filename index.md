@@ -74,12 +74,10 @@ Catálogo de todas as páginas, organizado por categoria.
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — Carlos Mendonça, palestra. Primeira bem-aventurança (Mateus 5:3), pobreza de espírito como humildade, conquista do Reino dos Céus.
+- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — Carlos Mendonça, palestra. Primeira pregação de Jesus em Cafarnaum (Marcos 1:21–28): ensino com autoridade e desobsessão na sinagoga.
 
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
-
-#### EELDE
-- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — EELDE, palestra. Primeira pregação de Jesus em Cafarnaum (Marcos 1:21–28): ensino com autoridade e desobsessão na sinagoga.
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
