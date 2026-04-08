@@ -11,5 +11,8 @@
 .claude/settings.local.json
 .claude/worktrees/
 
+# qmd — índice e embeddings (estado local)
+.qmd/
+
 # Arquivos grandes de dados brutos
 books_with_links.json

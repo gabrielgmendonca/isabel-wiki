@@ -49,7 +49,7 @@ Toda página termina com `## Fontes` em formato bibliográfico completo.
 
 - **Ingest** (`/ingest`): ingestão de fontes de `raw/` na wiki. Skill autocontido.
 - **Lint** (`/lint`): verificação de integridade da wiki. Skill autocontido.
-- **Query**: ler `index.md` → páginas relevantes → `raw/` se necessário → responder com citações começando por Kardec. Oferecer arquivar como `wiki/sinteses/` ou `wiki/questoes/` se reutilizável; se arquivado, atualizar `index.md` e `log.md`.
+- **Query**: usar qmd `query` para encontrar páginas relevantes (wiki/ primeiro, raw/ se necessário) → ler páginas encontradas → responder com citações começando por Kardec. Fallback: ler `index.md` se qmd indisponível. Oferecer arquivar como `wiki/sinteses/` ou `wiki/questoes/` se reutilizável; se arquivado, atualizar `index.md` e `log.md`.
 
 ---
 
