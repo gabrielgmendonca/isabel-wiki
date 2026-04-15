@@ -4,6 +4,12 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-15] ingest | Entre a Terra e o Céu (André Luiz/Chico Xavier)
+
+Ingerido o 8º livro da série André Luiz (1954, FEB, 40 capítulos) a partir de `raw/mediuns/entre-a-terra-e-o-ceu.md`. Criadas: `wiki/obras/entre-a-terra-e-o-ceu.md` e cinco personalidades (andre-luiz, clarencio, irma-clara, odila, zulmira). Os conceitos `obsessao`, `reencarnacao` e `prece` foram estendidos: obsessão por sintonia de remorso (caso Zulmira–Odila) e protocolo de desobsessão envolvente; mecânica fluídica da gravidez e hereditariedade relativa; distinção prece × invocação. Nenhuma divergência com o Pentateuco identificada — obra aprofunda a mecânica perispirítica de forma coerente com LE/LM/ESE.
+
+---
+
 ## [2026-04-15] lint | 14 achados
 Nenhum erro. 3 `citation_format` são falsos positivos (formato `(LM, cap. XXIX)` sem "2ª parte"). 3 `tag_taxonomy` reais em divergências e em paulo-de-tarso — dessincronia entre campo `fontes` e tags `obra/`. `index.md` com contagens desatualizadas (14→18 fontes, 216→239 páginas).
 

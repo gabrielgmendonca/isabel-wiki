@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Léon Denis]
+fontes: [LE, ESE, Léon Denis, André Luiz/Chico Xavier]
 tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese]
 atualizado_em: 2026-04-15
 status: ativo
@@ -60,6 +60,17 @@ Denis reforça a exegese de Kardec (ESE, cap. IV) sobre o diálogo de Jesus com 
 
 Ver [[wiki/obras/cristianismo-e-espiritismo]].
 
+## Mecânica fluídica (André Luiz, *Entre a Terra e o Céu*, 1954)
+
+A obra apresenta descrição detalhada do processo perispirítico da gravidez, coerente com a base kardequiana (LE, q. 344–345) e aprofundando-a em termos fenomenológicos:
+
+- **Reencarnação embriogênica automática.** Para a maioria dos Espíritos, "os princípios embriogênicos funcionam automáticos, cada dia. A lei de causa e efeito executa-se sem necessidade de fiscalização da nossa parte" (cap. 28). Basta o magnetismo dos pais e o desejo do reencarnante.
+- **Reencarnação assistida.** Quando o reencarnante tem missão de envergadura, "forças de ordem superior são fatalmente mobilizadas para a interferência nos cromossomos", ajustando sistema nervoso e estrutura cerebral à tarefa (cap. 28).
+- **O seio materno como refundição.** "O seio maternal é um vaso anímico de elevado poder magnético ou um molde vivo destinado à fundição e refundição das formas" (cap. 28). O perispírito, "constituído à base de princípios químicos semelhantes, em suas propriedades, ao hidrogênio", sofre contração eletromagnética ao ligar-se ao centro genésico feminino; a matéria que não serve à refundição é devolvida ao plano etereal (cap. 29).
+- **Hereditariedade relativa.** "Somos herdeiros de nós mesmos" (cap. 29). Os progenitores fornecem recursos dentro dos limites da afinidade magnética, mas "durante a gravidez, a mente [do reencarnante] permanece associada à mente materna, influenciando a formação do embrião" — a alma reencarnante carrega consigo as enfermidades psíquicas que já portava no plano espiritual. "Na mente reside o comando. A consciência traça o destino, o corpo reflete a alma."
+
+Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
+
 ## Divergências
 
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202).
@@ -79,3 +90,4 @@ Ver [[wiki/obras/cristianismo-e-espiritismo]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, Parte 2 (caps. 13–19). Trad. Homero Dias de Carvalho. CELD, 2011.
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. III–IV, VI; nota complementar nº 5. Trad. Albertina Escudeiro Sêco. CELD, 2012.
+- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 28–29.

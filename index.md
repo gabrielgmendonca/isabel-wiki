@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 14 fontes complementares. ~239 páginas entre conceitos, obras, personalidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 15 fontes complementares. ~245 páginas entre conceitos, obras, personalidades, questões e sínteses.
 
 ---
 
@@ -88,6 +88,9 @@ Catálogo de todas as páginas, organizado por categoria.
 
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
+
+#### André Luiz / Chico Xavier
+- [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz/Chico Xavier (1954). 8º livro da série. Obsessão de Zulmira por Odila (ciúme e remorso), conversão pela Irmã Clara, reencarnação de Júlio como suicida reencarnado. Mecânica fluídica da gravidez, prece × invocação, hereditariedade relativa. 40 capítulos. **(rascunho)**
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
@@ -173,6 +176,11 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/personalidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
 - [[wiki/personalidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
 - [[wiki/personalidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
+- [[wiki/personalidades/andre-luiz]] — André Luiz, Espírito comunicante via Chico Xavier; autor da série "Nosso Lar" (romances-relatório do plano espiritual).
+- [[wiki/personalidades/clarencio]] — Ministro do Templo do Socorro em *Entre a Terra e o Céu* (André Luiz).
+- [[wiki/personalidades/irma-clara]] — mensageira de 22 séculos, modelo de desobsessão pela ternura maternal (*Entre a Terra e o Céu*).
+- [[wiki/personalidades/odila]] — personagem de *Entre a Terra e o Céu*: obsessora por ciúme, redimida pelo apelo maternal.
+- [[wiki/personalidades/zulmira]] — personagem de *Entre a Terra e o Céu*: obsidiada por culpa, mãe reparadora de Júlio.
 - [[wiki/personalidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
 - [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 - [[wiki/personalidades/zaqueu]] — chefe dos publicanos de Jericó (Lc 19:1–10), protótipo evangélico da conversão pela reparação material.

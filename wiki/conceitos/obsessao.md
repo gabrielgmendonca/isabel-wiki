@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese]
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese, andre-luiz]
 atualizado_em: 2026-04-15
 status: ativo
 ---
@@ -89,6 +89,22 @@ Em Atos, a prática da desobsessão migra de Jesus para os apóstolos, confirman
 
 Ver [[wiki/obras/atos-dos-apostolos]] e a análise no cap. 16 e 19.
 
+### Zulmira e Odila — obsessão por sintonia de culpa (André Luiz, *Entre a Terra e o Céu*, 1954)
+
+Caso-modelo do mecanismo pelo qual **o remorso abre a porta da obsessão**. Zulmira, segunda esposa de Amaro, desejou em ciumadas a morte do enteado Júlio e o negligenciou na praia onde ele se afogou. À frente da Lei, não era culpada — a criança trazia "morte prematura no quadro de provações" como suicida reencarnado. Mas, condenando a si mesma, desceu ao padrão vibratório de Odila (primeira esposa, desencarnada) e passou a ser vampirizada por ela pelo centro coronário, com fios cinzentos "à maneira de tentáculos de polvo".
+
+> "Enquanto se mantinha com a paz de consciência, defendia-se naturalmente contra a perseguição invisível, como se morasse num castelo fortificado, mas, condenando a si mesma, resvalou em deplorável perturbação, à maneira de alguém que desertasse de uma casa iluminada, embrenhando-se numa floresta de sombra." (*Entre a Terra e o Céu*, cap. 4)
+
+Três lições operativas para a prática desobsessiva, articuladas pelo Ministro Clarêncio (cap. 3):
+
+1. **Não separar à força.** "As duas se encontram ligadas uma à outra. Separá-las à força seria a dilaceração de consequências imprevisíveis" — lipotimia, paralisia ou morte do obsidiado. Coerente com LM, 2ª parte, cap. XXVIII, que recusa exorcismo brusco.
+2. **Não doutrinar antes do tempo.** "Uma doutrinação pura e simples seria cabível, contudo, não podemos esquecer que a organização cerebral da vítima permanece excessivamente martelada." Preparo é indispensável.
+3. **Modificar o obsessor, não afastá-lo.** "É imprescindível dar outro rumo à vontade dela, deslocando-lhe o centro mental e conferindo-lhe outros interesses e diferentes aspirações."
+
+A conversão de Odila (cap. 23) se dá pelo apelo à **identidade materna** ("reencontrar o filho morto"), não pela recriminação — demonstração prática do princípio de LM, 2ª parte, cap. XXIII, item 244 ("combatê-lo com suas próprias armas"), em que as armas são morais e afetivas.
+
+Ver [[wiki/obras/entre-a-terra-e-o-ceu]] e [[wiki/personalidades/odila]].
+
 ### A prima Baby e o ex-namorado desencarnado (Divaldo Franco, ~1948)
 
 Relato de Divaldo Franco em [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
@@ -119,6 +135,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
+- [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Zulmira–Odila, desobsessão envolvente
 
 ## Fontes
 
@@ -126,3 +143,4 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XXVIII, item 83. Trad. Guillon Ribeiro. FEB.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023.
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
+- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
