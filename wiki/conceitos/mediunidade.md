@@ -69,6 +69,27 @@ Nas notas complementares 4–6, Denis passa em revista as provas experimentais d
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+## Mediunidade no NT: Atos dos Apóstolos
+
+[[wiki/obras/atos-dos-apostolos|Atos]] é o compêndio neotestamentário mais rico em fenomenologia mediúnica coletiva e individual. Três pontos estruturais:
+
+1. **Pentecostes como anúncio programático (At 2:1–21).** A descida do Espírito sobre os discípulos, com línguas de fogo e xenoglossia coletiva, é apresentada como **cumprimento de Joel**: "derramarei do meu Espírito sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão" (At 2:17). Pedro cita a profecia para afirmar o que Kardec reafirmará dezenove séculos depois (LM, 2ª parte, cap. XIV, item 159): a mediunidade é **inerente ao homem**, não privilégio sacerdotal ou hereditário.
+
+2. **Repertório fenomenológico apostólico.** Atos documenta praticamente toda a tipologia mediúnica catalogada em LM, cap. XVI:
+   - *Aparições tangibilizadas e visões*: Jesus a Paulo em Damasco (At 9), Corinto (At 18:9) e Jerusalém (At 23:11); Cornélio e Pedro (At 10); varão macedônico (At 16:9); anjo no navio (At 27:23).
+   - *Xenoglossia/profecia*: Pentecostes (At 2); doze de Éfeso (At 19:6); Ágabo (At 11:28; 21:10–11).
+   - *Curas por imposição e por contato*: coxo da Porta Formosa (At 3), sombra de Pedro (At 5:15), Paulo e os lenços (At 19:11–12), pai de Públio (At 28:8).
+   - *Transporte*: Felipe arrebatado após o batismo do eunuco (At 8:39).
+   - *Desmaterialização/ação sobre matéria*: libertação de Pedro (At 12:7–10).
+   - *Morte aparente*: Êutico (At 20:9–12).
+
+3. **Critérios de discernimento — positivos e negativos.** Atos estabelece contrastes que fundamentam LM, caps. XXIII (obsessão) e XXIX (desinteresse):
+   - **Simão, o Mago** (At 8:18–24) tenta **comprar** o dom — origem do termo *simonia*. Pedro rejeita sem meias palavras: o dom não se vende.
+   - **Sete filhos de Ceva** (At 19:13–16) tentam usar o nome de Jesus como fórmula mágica; o Espírito os agride. A eficácia mediúnica não vem da palavra, vem da **sintonia moral** do operador.
+   - **Pitonisa de Filipos** (At 16:16–18): mediunidade autêntica no fenômeno, corrompida pela **exploração comercial**. Paulo encerra a operação. Coerente com Viagem Espírita em 1862: "os médiuns interesseiros e profissionais são desconhecidos [...] seriam repelidos por todos os grupos".
+
+Ver também [[wiki/personalidades/paulo-de-tarso]] e [[wiki/personalidades/pedro-apostolo]] para os repertórios individuais.
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
@@ -91,6 +112,7 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - [[wiki/conceitos/fluidos]] — o fluido vital como agente mediúnico
 - [[wiki/obras/livro-dos-mediuns]]
 - [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, introdução à mediunidade e seus tipos
+- [[wiki/obras/atos-dos-apostolos]] — Pentecostes e repertório fenomenológico apostólico
 
 ## Fontes
 

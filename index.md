@@ -65,6 +65,9 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/obras/evangelho-segundo-lucas]] — terceiro Evangelho canônico (24 capítulos). Evangelho da misericórdia universal; infância detalhada, Sermão da Planície, parábolas exclusivas (Bom Samaritano, Filho Pródigo, Mau Rico e Lázaro, Rico Insensato, Fariseu e Publicano, Juiz Iníquo, Dracma, Mordomo Infiel), Zaqueu, Emaús.
 - [[wiki/obras/evangelho-segundo-joao]] — quarto Evangelho canônico (21 capítulos). Discursos longos de Jesus, promessa do Consolador, natureza do Cristo, diálogo com Nicodemos, "muitas moradas".
 
+### Escritos apostólicos (nível 3)
+- [[wiki/obras/atos-dos-apostolos]] — Lucas (28 capítulos). Fundação da comunidade cristã e viagens apostólicas; Pentecostes como mediunidade universal, desobsessões (pitonisa de Filipos, filhos de Ceva), conversão de Paulo, universalismo ("Deus não faz acepção de pessoas", At 10:34), discurso do Areópago ("nele vivemos, e nos movemos, e existimos", At 17:28).
+
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
 - [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
@@ -173,6 +176,9 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/personalidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
 - [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 - [[wiki/personalidades/zaqueu]] — chefe dos publicanos de Jericó (Lc 19:1–10), protótipo evangélico da conversão pela reparação material.
+- [[wiki/personalidades/pedro-apostolo]] — Simão Pedro, pescador da Galileia; protagonista de Atos 1–12, pregador do Pentecostes.
+- [[wiki/personalidades/paulo-de-tarso]] — apóstolo dos gentios; conversão em Damasco, três viagens missionárias, compêndio de fenomenologia mediúnica.
+- [[wiki/personalidades/estevao-o-martir]] — primeiro mártir cristão (At 6–7); visão do céu aberto, perdão aos algozes.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -305,3 +311,4 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — "fogo eterno" (Mt 25:41, 46) lido à letra vs. penas temporárias e medicinais em *O Céu e o Inferno* (1ª parte, caps. IV–VII). Status: aberta.
 - [[wiki/divergencias/condenacao-dos-incredulos-em-marcos-16]] — "quem não crer será condenado" (Mc 16:16) vs. fé raciocinada (ESE, cap. XIX) e penas temporárias (C&I, 1ª parte). Status: aberta.
 - [[wiki/divergencias/sinais-de-marcos-16]] — "sinais" prometidos aos crentes (Mc 16:17–18) vs. lei natural dos fluidos (Gênese, caps. XIV–XV). Status: aberta.
+- [[wiki/divergencias/morte-de-ananias-e-safira]] — morte fulminante por mentira (At 5:1–11) vs. progressividade das penas (C&I, 1ª parte, caps. VI–VII; LE, q. 1009–1016). Status: aberta.

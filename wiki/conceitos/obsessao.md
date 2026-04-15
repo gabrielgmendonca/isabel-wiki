@@ -79,6 +79,16 @@ O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsess
 
 > **Lição de conjunto:** Marcos mostra que (i) obsessão atravessa todos os graus — simples (siro-fenícia), subjugação (gadareno), crônica (epiléptico); (ii) a desobsessão é operação natural, regida por lei, não ato mágico — coerente com a recusa kardequiana ao "milagre" como quebra de lei (Gênese, cap. XIV–XV); (iii) a resistência à libertação mede-se pela obstinação do obsessor *e* pelo preparo moral do grupo assistente.
 
+### Atos dos Apóstolos: a desobsessão passa aos discípulos
+
+Em Atos, a prática da desobsessão migra de Jesus para os apóstolos, confirmando que a operação é **lei natural reproduzível**, não prerrogativa exclusiva do Cristo.
+
+1. **Pitonisa de Filipos (At 16:16–18).** Jovem "com espírito de adivinhação" que seguia Paulo e Silas proclamando — com acerto — "estes homens são servos do Deus Altíssimo". Paulo, **perturbado por muitos dias**, ordena em nome de Jesus a saída do Espírito, que se retira imediatamente. Caso mostra que (i) a comunicação **verdadeira** no conteúdo pode vir de Espírito obsessor (critério kardequiano: avaliar pela totalidade, não pelo acerto pontual — LM, 2ª parte, cap. XXIV); (ii) a mediunidade explorada comercialmente ("dava grande lucro aos seus senhores") está doutrinariamente corrompida (LM, cap. XXIX).
+
+2. **Sete filhos de Ceva (At 19:13–16).** Exorcistas judeus ambulantes invocam "Jesus a quem Paulo prega" como fórmula mágica. O Espírito responde: "Conheço a Jesus, e bem sei quem é Paulo; mas vós quem sois?" — e os agride. Lição-chave: **a fórmula verbal não libera nada**; o que libera é a **sintonia moral** do operador com o Cristo (cf. ESE, cap. X). Invocação sem autoridade moral é pretensão vazia.
+
+Ver [[wiki/obras/atos-dos-apostolos]] e a análise no cap. 16 e 19.
+
 ### A prima Baby e o ex-namorado desencarnado (Divaldo Franco, ~1948)
 
 Relato de Divaldo Franco em [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
@@ -108,6 +118,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
+- [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
 
 ## Fontes
 

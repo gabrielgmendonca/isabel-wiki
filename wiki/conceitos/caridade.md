@@ -45,6 +45,22 @@ A caridade é o critério de julgamento perante as leis divinas. O LE ensina que
 
 A prática da caridade no cotidiano espírita vai além da esmola material. Inclui a palavra amiga, o conselho fraterno, o silêncio diante da calúnia, a tolerância com as imperfeições do próximo. Na casa espírita, manifesta-se no passe, na evangelização, no atendimento fraterno e no trabalho voluntário.
 
+## Caridade em Atos: a comunhão de bens
+
+A primeira comunidade cristã de Jerusalém, narrada em [[wiki/obras/atos-dos-apostolos|Atos]], é apresentada por Lucas como **caridade material organizada**:
+
+> "E todos os que criam estavam juntos, e tinham tudo em comum. E vendiam suas propriedades e bens, e repartiam com todos, segundo cada um havia de mister." (At 2:44–45)
+
+> "E da multidão dos que criam era um o coração e a alma. E ninguém dizia ser sua própria coisa alguma que possuísse, mas todas as coisas lhes eram comuns. [...] Não havia, pois, entre eles necessitado algum; porque todos os que possuíam herdades ou casas, vendendo-as, traziam o preço do que fora vendido, e o depositavam aos pés dos apóstolos. E repartia-se por cada um, segundo a necessidade de cada um." (At 4:32–35)
+
+Três aspectos espíritas:
+
+1. **É caridade vivida, não programa político.** A partilha é **espontânea** — "nem se lhes podia dizer que o vendessem; depois de vendida, não estava em teu poder?" (Pedro a Ananias, At 5:4). A coação mataria a caridade (LE, q. 888 — "o mérito está em fazer o bem por amor de Deus"). ESE cap. XVI ("não se pode servir a Deus e a Mamon") é o eixo moral; a comunhão de bens é seu **fruto comunitário**, não imposição externa.
+
+2. **A moral prevalece sobre o bem material.** Ananias e Safira não morrem por terem retido parte do preço — morrem (na leitura espírita, por choque e remorso; ver [[wiki/divergencias/morte-de-ananias-e-safira]]) por **mentir** sobre a oferta. A falta é contra a sinceridade, não contra a propriedade. A caridade só é caridade se é **verdadeira**.
+
+3. **"Mais bem-aventurada coisa é dar do que receber" (At 20:35).** Logion de Jesus preservado apenas por Paulo em Atos; citado por Kardec (ESE, cap. XIII). Sintetiza a **psicologia da caridade**: o bem recai primeiro sobre o doador — desapego, crescimento moral, gozo espiritual — e só depois sobre o beneficiário material.
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec eleva a caridade a **critério absoluto de julgamento** entre espíritas. Propõe a dupla divisa: "Fora da caridade não há salvação" e "Fora da caridade não há verdadeiros espíritas". A caridade é apresentada como base indispensável de qualquer reforma social: sem ela, os sistemas utópicos materialistas fracassam, pois lhes falta o elemento moral.
@@ -64,6 +80,7 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 - [[wiki/conceitos/fe-raciocinada]] — a fé que se traduz em obras de caridade
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XI–XV
 - [[wiki/obras/livro-dos-espiritos]] — q. 886–892
+- [[wiki/obras/atos-dos-apostolos]] — comunhão de bens (At 2; 4); "dar do que receber" (At 20:35)
 
 ## Fontes
 
