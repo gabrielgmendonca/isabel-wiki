@@ -32,7 +32,8 @@ Após confirmação do usuário, **saia de plan mode** (`ExitPlanMode`) e execut
 4. **Extrair** personalidades e conceitos: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
 5. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 6. **Atualizar `index.md`** com links e resumos das páginas novas.
-7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
-8. **Reportar** arquivos criados/atualizados.
+7. **Recalcular "Status do projeto"**: rodar `uv run python .claude/skills/ingest/scripts/update_status.py` para atualizar a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.).
+8. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
+9. **Reportar** arquivos criados/atualizados.
 
 **Passo 3 — link ao texto integral:** nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.

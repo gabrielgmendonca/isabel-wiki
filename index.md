@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 14 fontes complementares. ~216 páginas entre conceitos, obras, personalidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 14 fontes complementares. ~239 páginas entre conceitos, obras, personalidades, questões e sínteses.
 
 ---
 
