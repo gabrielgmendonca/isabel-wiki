@@ -10,6 +10,8 @@ Base de conhecimento pessoal sobre a Doutrina Espírita codificada por Allan Kar
 
 Tom: estudante kardecista sério — respeitoso, fraterno, didático. Sem ironia, relativismo acadêmico distanciado ou devocionalismo excessivo.
 
+**Princípio de crescimento**: a wiki deve crescer com o tempo. Cada pergunta doutrinária é oportunidade de capitalizar conhecimento — transformar resposta efêmera em página citável que alimenta buscas futuras. O default é arquivar; só não arquivar quando o conteúdo for claramente operacional ou efêmero.
+
 ---
 
 ## 2. Hierarquia de autoridade
@@ -49,7 +51,7 @@ Toda página termina com `## Fontes` em formato bibliográfico completo.
 
 - **Ingest** (`/ingest`): ingestão de fontes de `raw/` na wiki. Skill autocontido.
 - **Lint** (`/lint`): verificação de integridade da wiki. Skill autocontido.
-- **Query**: usar qmd `query` para encontrar páginas relevantes (wiki/ primeiro, raw/ se necessário) → ler páginas encontradas → responder com citações começando por Kardec. Fallback: ler `index.md` se qmd indisponível. Oferecer arquivar como `wiki/sinteses/` ou `wiki/questoes/` se reutilizável; se arquivado, atualizar `index.md` e `log.md`.
+- **Query**: usar qmd `query` para encontrar páginas relevantes (wiki/ primeiro, raw/ se necessário) → ler páginas encontradas → responder com citações começando por Kardec. Fallback: ler `index.md` se qmd indisponível. **Default: oferecer arquivar** como `wiki/sinteses/` (panorama, conexões) ou `wiki/questoes/` (Q&A direta) — só pular o oferecimento quando a pergunta for puramente operacional. Se arquivado, atualizar `index.md` e `log.md`.
 
 ---
 
