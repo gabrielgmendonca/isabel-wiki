@@ -60,6 +60,7 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/obras/ceu-e-inferno]] — justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
 
 ### Evangelhos canônicos (fonte primordial)
+- [[wiki/obras/evangelho-segundo-mateus]] — primeiro Evangelho canônico (28 capítulos). Sermão da Montanha, parábolas do Reino, discurso escatológico; o mais citado por Kardec no ESE.
 - [[wiki/obras/evangelho-segundo-joao]] — quarto Evangelho canônico (21 capítulos). Discursos longos de Jesus, promessa do Consolador, natureza do Cristo, diálogo com Nicodemos, "muitas moradas".
 
 ### Kardec complementar (nível 2)
@@ -249,13 +250,22 @@ Catálogo de todas as páginas, organizado por categoria.
 
 ### Parábolas de Jesus (ESE)
 - [[wiki/conceitos/parabola-do-credor-incompassivo]] — perdoar para ser perdoado, a desproporção das dívidas (ESE, cap. XI; S. Mateus, 18).
+- [[wiki/conceitos/parabola-da-ovelha-perdida]] — o pastor busca a ovelha desgarrada; misericórdia sobre rigor (ESE, cap. XI; S. Mateus, 18).
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
 - [[wiki/conceitos/parabola-do-mau-rico]] — rico e Lázaro, justiça na vida futura (ESE, cap. XVI; S. Lucas, 16).
 - [[wiki/conceitos/parabola-do-rico-insensato]] — acumular sem partilhar, a futilidade da avareza (ESE, cap. XVI; S. Lucas, 12).
+- [[wiki/conceitos/parabola-do-tesouro-escondido-e-da-perola]] — o Reino vale todos os bens (ESE, cap. XVI; S. Mateus, 13).
 - [[wiki/conceitos/parabola-dos-talentos]] — responsabilidade sobre os dons recebidos (ESE, cap. XVI; S. Mateus, 25).
 - [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-dos-dois-filhos]] — o que importa é a prática, não a palavra (ESE, caps. XVII–XVIII; S. Mateus, 21).
 - [[wiki/conceitos/parabola-do-festim-de-bodas]] — muitos chamados, poucos escolhidos (ESE, cap. XVIII; S. Mateus, 22).
 - [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar vs. ouvir e não praticar (ESE, cap. XVIII; S. Mateus, 7).
+- [[wiki/conceitos/parabola-do-joio-e-do-trigo]] — convivência até a ceifa; triagem moral na transição (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-do-grao-de-mostarda]] — progresso silencioso da Doutrina e do bem (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-do-fermento]] — ação interior e gradual do Evangelho (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-da-rede]] — separação dos bons e dos maus ao fim do ciclo (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-das-dez-virgens]] — vigilância e reforma íntima efetiva (ESE, cap. XVIII; S. Mateus, 25).
+- [[wiki/conceitos/parabola-dos-lavradores-maus]] — responsabilidade agravada dos que recebem mais (ESE, cap. XVIII; S. Mateus, 21).
 - [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (ESE, cap. XIX; S. Marcos, 11).
 - [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] — nunca é tarde para o bem (ESE, cap. XX; S. Mateus, 20).
 - [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] — dever de difundir a verdade (ESE, cap. XXIV; S. Mateus, 5).
@@ -280,3 +290,4 @@ Pontos em que autores complementares divergem do Pentateuco.
 
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Léon Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202). Status: aberta.
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Léon Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298). Status: aberta.
+- [[wiki/divergencias/fogo-eterno-em-mateus-25]] — "fogo eterno" (Mt 25:41, 46) lido à letra vs. penas temporárias e medicinais em *O Céu e o Inferno* (1ª parte, caps. IV–VII). Status: aberta.

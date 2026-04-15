@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [bem-aventurancas, sermao-da-montanha, jesus, moral, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -49,6 +49,7 @@ As bem-aventuranças são base excelente para ciclos de estudo e palestras em ca
 - [[wiki/conceitos/caridade]] — a misericórdia como forma de caridade
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — herança da Terra regenerada pelos brandos
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. V, VII, VIII, IX, X
+- [[wiki/obras/evangelho-segundo-mateus]] — texto integral do Sermão da Montanha (Mt 5–7)
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — palestra sobre a primeira bem-aventurança
 
 ## Fontes

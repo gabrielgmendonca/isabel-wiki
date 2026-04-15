@@ -69,6 +69,21 @@ O quarto Evangelho é a principal fonte sobre os discursos longos de Jesus e sua
 
 Ver [[wiki/obras/evangelho-segundo-joao]].
 
+## No Evangelho segundo Mateus
+
+Primeiro Evangelho canônico e o mais citado por Kardec no ESE. Preserva os cinco grandes discursos pedagógicos de Jesus e é fonte primária de passagens capitais para o Espiritismo:
+
+- **Sermão da Montanha (Mt 5–7):** bem-aventuranças, amor aos inimigos, Pai Nosso, regra de ouro — base dos caps. V–X e XXVIII do ESE.
+- **Missão apostólica e distinção corpo/alma:** "Não temais os que matam o corpo e não podem matar a alma" (Mt 10:28) — fundamento evangélico da imortalidade do Espírito (ESE, cap. II).
+- **Reencarnação reconhecida por Jesus:** "Elias já veio, e não o conheceram" (Mt 17:12; cf. Mt 11:14) — João Batista identificado como reencarnação de Elias (ESE, cap. IV).
+- **Reuniões mediúnicas:** "Onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles" (Mt 18:20).
+- **Maior mandamento:** amar a Deus e ao próximo (Mt 22:37–40) — síntese da Lei (ESE, cap. XI).
+- **Caridade prática como critério do juízo:** "O que fizestes a um destes meus pequeninos irmãos, a mim o fizestes" (Mt 25:40).
+- **Entrega consciente na paixão:** "Não seja como eu quero, mas como tu queres" (Mt 26:39); "mais de doze legiões de anjos" disponíveis recusadas (Mt 26:53) — a paixão é escolha, não fatalidade.
+- **Grande Comissão:** "Ide, ensinai todas as nações... eu estou convosco todos os dias, até a consumação dos séculos" (Mt 28:19–20).
+
+Ver [[wiki/obras/evangelho-segundo-mateus]].
+
 ## Governador espiritual da Terra (Emmanuel)
 
 Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela formação e organização do planeta, desde a gênese planetária até a direção das civilizações:
@@ -86,12 +101,21 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 
 - [[wiki/conceitos/parabola-do-bom-samaritano]]
 - [[wiki/conceitos/parabola-do-semeador]]
+- [[wiki/conceitos/parabola-do-joio-e-do-trigo]]
+- [[wiki/conceitos/parabola-do-grao-de-mostarda]]
+- [[wiki/conceitos/parabola-do-fermento]]
+- [[wiki/conceitos/parabola-do-tesouro-escondido-e-da-perola]]
+- [[wiki/conceitos/parabola-da-rede]]
+- [[wiki/conceitos/parabola-da-ovelha-perdida]]
 - [[wiki/conceitos/parabola-dos-talentos]]
+- [[wiki/conceitos/parabola-das-dez-virgens]]
 - [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]]
 - [[wiki/conceitos/parabola-do-festim-de-bodas]]
 - [[wiki/conceitos/parabola-do-mau-rico]]
 - [[wiki/conceitos/parabola-do-rico-insensato]]
 - [[wiki/conceitos/parabola-do-credor-incompassivo]]
+- [[wiki/conceitos/parabola-dos-dois-filhos]]
+- [[wiki/conceitos/parabola-dos-lavradores-maus]]
 - [[wiki/conceitos/parabola-da-figueira-seca]]
 - [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]]
 - [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]]
@@ -105,6 +129,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
 - [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
+- [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
 
 ## Páginas relacionadas
 

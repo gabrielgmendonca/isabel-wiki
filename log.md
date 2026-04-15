@@ -297,3 +297,9 @@ Criada skill `/stats` e script `.claude/skills/stats/scripts/stats_wiki.py` que 
 
 ## [2026-04-15] lint | 1 achado
 Wiki limpa: 0 erros, 0 avisos. Único achado é info — divergência `mudanca-de-sexo-reencarnacao` com status aberta mas análise aparentemente completa (50 linhas); considerar encerrar.
+
+## [2026-04-15] ingest | Evangelho segundo Mateus (ACF)
+
+Ingerido `raw/biblia-acf/mateus/` (28 capítulos da Bíblia ACF). Criada a obra consolidada `wiki/obras/evangelho-segundo-mateus.md` seguindo o padrão de `evangelho-segundo-joao.md` — outline capítulo a capítulo com versos-chave, referências cruzadas ao Pentateuco e tabela de passagens comentadas por Kardec no ESE.
+
+Criadas 9 páginas de parábolas ainda ausentes: joio-e-do-trigo, grão-de-mostarda, fermento, tesouro-escondido-e-da-perola, rede, ovelha-perdida, das-dez-virgens, dos-dois-filhos, dos-lavradores-maus. Registrada divergência `fogo-eterno-em-mateus-25` (Mt 25:41, 46 vs. penas temporárias em C&I). Atualizados `wiki/personalidades/jesus.md` (nova seção "No Evangelho segundo Mateus" e lista de parábolas expandida), `wiki/conceitos/bem-aventurancas.md` (cross-link), `index.md` (seção Evangelhos canônicos, Parábolas de Jesus e Divergências).
