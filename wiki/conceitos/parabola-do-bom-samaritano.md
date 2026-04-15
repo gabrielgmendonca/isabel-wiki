@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, bom-samaritano, caridade, proximo, obra/ese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -37,7 +37,7 @@ A parábola interpela diretamente a conduta cotidiana. Não basta frequentar cen
 ## Páginas relacionadas
 
 - [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
-- [[wiki/obras/evangelho-segundo-o-espiritismo]]
+- [[wiki/obras/evangelho-segundo-o-espiritismo]] · [[wiki/obras/evangelho-segundo-lucas]]
 
 ## Fontes
 

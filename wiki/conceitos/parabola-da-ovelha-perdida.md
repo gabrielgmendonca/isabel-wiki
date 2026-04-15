@@ -38,6 +38,8 @@ Orienta o trabalho de evangelização e de acolhimento: não se abandonam os que
 - [[wiki/questoes/expiacao-e-arrependimento]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XI
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 18
+- [[wiki/obras/evangelho-segundo-lucas]] — cap. 15
+- [[wiki/conceitos/parabola-da-dracma-perdida]] · [[wiki/conceitos/parabola-do-filho-prodigo]]
 
 ## Fontes
 

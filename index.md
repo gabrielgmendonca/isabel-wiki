@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 14 fontes complementares (incluindo Evangelho segundo João). ~208 páginas entre conceitos, obras, personalidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 14 fontes complementares. ~216 páginas entre conceitos, obras, personalidades, questões e sínteses.
 
 ---
 
@@ -61,6 +61,8 @@ Catálogo de todas as páginas, organizado por categoria.
 
 ### Evangelhos canônicos (fonte primordial)
 - [[wiki/obras/evangelho-segundo-mateus]] — primeiro Evangelho canônico (28 capítulos). Sermão da Montanha, parábolas do Reino, discurso escatológico; o mais citado por Kardec no ESE.
+- [[wiki/obras/evangelho-segundo-marcos]] — segundo Evangelho canônico (16 capítulos). Narrativa breve e dinâmica; "segredo messiânico", humanidade de Jesus, quatro casos de obsessão (Cafarnaum, Gadareno/"Legião", siro-fenícia, epiléptico), óbolo da viúva, Shemá no maior mandamento.
+- [[wiki/obras/evangelho-segundo-lucas]] — terceiro Evangelho canônico (24 capítulos). Evangelho da misericórdia universal; infância detalhada, Sermão da Planície, parábolas exclusivas (Bom Samaritano, Filho Pródigo, Mau Rico e Lázaro, Rico Insensato, Fariseu e Publicano, Juiz Iníquo, Dracma, Mordomo Infiel), Zaqueu, Emaús.
 - [[wiki/obras/evangelho-segundo-joao]] — quarto Evangelho canônico (21 capítulos). Discursos longos de Jesus, promessa do Consolador, natureza do Cristo, diálogo com Nicodemos, "muitas moradas".
 
 ### Kardec complementar (nível 2)
@@ -170,6 +172,7 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/personalidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
 - [[wiki/personalidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
 - [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
+- [[wiki/personalidades/zaqueu]] — chefe dos publicanos de Jericó (Lc 19:1–10), protótipo evangélico da conversão pela reparação material.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -254,9 +257,15 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
 - [[wiki/conceitos/parabola-do-mau-rico]] — rico e Lázaro, justiça na vida futura (ESE, cap. XVI; S. Lucas, 16).
 - [[wiki/conceitos/parabola-do-rico-insensato]] — acumular sem partilhar, a futilidade da avareza (ESE, cap. XVI; S. Lucas, 12).
+- [[wiki/conceitos/parabola-do-filho-prodigo]] — arrependimento e misericórdia do Pai; reabilitação sempre possível (ESE, cap. XI; S. Lucas, 15).
+- [[wiki/conceitos/parabola-da-dracma-perdida]] — alegria celeste pelo pecador arrependido (ESE, cap. XI; S. Lucas, 15).
+- [[wiki/conceitos/parabola-do-mordomo-infiel]] — prudência no uso dos bens terrenos; Deus e Mamom (ESE, cap. XVI; S. Lucas, 16).
+- [[wiki/conceitos/parabola-do-juiz-iniquo]] — perseverança na prece; a prece transforma o orante (ESE, cap. XXVII; S. Lucas, 18).
+- [[wiki/conceitos/parabola-do-fariseu-e-do-publicano]] — humildade vs. orgulho espiritual na prece (ESE, caps. VII, X; S. Lucas, 18).
 - [[wiki/conceitos/parabola-do-tesouro-escondido-e-da-perola]] — o Reino vale todos os bens (ESE, cap. XVI; S. Mateus, 13).
 - [[wiki/conceitos/parabola-dos-talentos]] — responsabilidade sobre os dons recebidos (ESE, cap. XVI; S. Mateus, 25).
 - [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-da-semente-que-cresce-por-si]] — progresso silencioso e autônomo do bem; exclusiva de Marcos (Mc 4:26–29).
 - [[wiki/conceitos/parabola-dos-dois-filhos]] — o que importa é a prática, não a palavra (ESE, caps. XVII–XVIII; S. Mateus, 21).
 - [[wiki/conceitos/parabola-do-festim-de-bodas]] — muitos chamados, poucos escolhidos (ESE, cap. XVIII; S. Mateus, 22).
 - [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar vs. ouvir e não praticar (ESE, cap. XVIII; S. Mateus, 7).
@@ -294,3 +303,5 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Léon Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202). Status: aberta.
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Léon Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298). Status: aberta.
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — "fogo eterno" (Mt 25:41, 46) lido à letra vs. penas temporárias e medicinais em *O Céu e o Inferno* (1ª parte, caps. IV–VII). Status: aberta.
+- [[wiki/divergencias/condenacao-dos-incredulos-em-marcos-16]] — "quem não crer será condenado" (Mc 16:16) vs. fé raciocinada (ESE, cap. XIX) e penas temporárias (C&I, 1ª parte). Status: aberta.
+- [[wiki/divergencias/sinais-de-marcos-16]] — "sinais" prometidos aos crentes (Mc 16:17–18) vs. lei natural dos fluidos (Gênese, caps. XIV–XV). Status: aberta.

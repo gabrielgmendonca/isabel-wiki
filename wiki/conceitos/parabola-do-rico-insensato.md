@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, rico-insensato, avareza, desapego, riqueza, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -40,7 +40,7 @@ A parábola questiona o sentido de toda acumulação desprovida de propósito es
 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/parabola-dos-talentos]]
 - [[wiki/conceitos/parabola-do-mau-rico]] · [[wiki/conceitos/caridade]]
-- [[wiki/obras/evangelho-segundo-o-espiritismo]]
+- [[wiki/obras/evangelho-segundo-o-espiritismo]] · [[wiki/obras/evangelho-segundo-lucas]]
 
 ## Fontes
 

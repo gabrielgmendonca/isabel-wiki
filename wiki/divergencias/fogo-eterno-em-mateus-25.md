@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [ESE, "C&I", NT]
-tags: [divergencia, juizo-final, inferno, penas-futuras, mateus, obra/ese, obra/ci]
+tags: [divergencia, juizo-final, inferno, penas-futuras, mateus, lucas, obra/ese, obra/ci]
 atualizado_em: 2026-04-15
 status: aberta
 ---
@@ -15,6 +15,12 @@ No juízo das ovelhas e dos cabritos, Jesus declara aos da esquerda:
 > "Apartai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e seus anjos [...] E irão estes para o tormento eterno, mas os justos para a vida eterna." (Mt 25:41, 46)
 
 Lida à letra, a passagem afirmaria punição **perpétua** para os condenados.
+
+A mesma estrutura reaparece em **Lucas 16:19–31** (parábola do mau rico e Lázaro), cuja letra descreve um "inferno" de "tormentos" e "chama" e um "grande abismo" intransponível entre justos e ímpios:
+
+> "E no inferno, ergueu os olhos, estando em tormentos [...] estou atormentado nesta chama. [...] está posto um grande abismo entre nós e vós, de sorte que os que quisessem passar daqui para vós não poderiam." (S. Lucas, 16:23–26)
+
+O problema doutrinário é o mesmo — linguagem figurada de castigo perpétuo e separação absoluta — e a resposta de Kardec também é a mesma, como se desenvolve abaixo.
 
 ## Posição de Kardec
 
@@ -45,14 +51,18 @@ A divergência é, portanto, com a tradição dogmática que fixou uma leitura l
 
 **Aberta.** A divergência é estrutural: toca o dogma do inferno eterno. Permanece aberta enquanto houver leituras literalistas em circulação; doutrinariamente, a posição kardequiana é firme e sistemática em C&I.
 
+Quanto a Lc 16:19–31, Kardec comenta em ESE, cap. XVI, itens 7–8: a parábola é **alegórica**, ilustrando a inversão de posições pela justiça divina e a distância moral entre Espíritos em estados diversos. O "grande abismo" é moral, não ontológico: pode ser transposto pela reparação e pelo progresso nas existências sucessivas (LE, q. 1009–1011). A "chama" é símbolo do sofrimento que o Espírito culpado impõe a si mesmo pelo remorso e pelo apego ao que perdeu — não fogo material nem eternidade absoluta.
+
 ## Páginas relacionadas
 
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 25
+- [[wiki/obras/evangelho-segundo-lucas]] — cap. 16
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
+- [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. III, XVI
+- [[wiki/conceitos/parabola-do-mau-rico]]
 
 ## Fontes
 
 - KARDEC, Allan. *O Céu e o Inferno*, 1ª parte, caps. IV–VII. Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. III. Trad. Guillon Ribeiro. FEB.
-- *Bíblia Sagrada* (ACF). S. Mateus, 25:31–46.
+- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, caps. III, XVI. Trad. Guillon Ribeiro. FEB.
+- *Bíblia Sagrada* (ACF). S. Mateus, 25:31–46; S. Lucas, 16:19–31.

@@ -6,6 +6,14 @@ Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
 ---
 
+## [2026-04-15] lint | 10 achados (0 erros)
+
+Lint pós-ingest de Lucas: nenhum erro estrutural. Avisos: 1 órfão pré-existente (`estatisticas-da-wiki.md`), 2 falsos positivos de `citation_format` (`(LM, cap. XXIII)` em Lucas e `(LM, caps. XXIV–XXVII)` em Marcos — formato válido não reconhecido pelo regex), 1 inconsistência de taxonomia pré-existente em `sinais-de-marcos-16.md`. Info: contadores de cobertura no `index.md` defasados (14 → 17 fontes complementares; ~216 → 234 páginas).
+
+## [2026-04-15] ingest | Evangelho segundo Lucas (ACF)
+
+Ingerido o terceiro Evangelho canônico (`raw/biblia-acf/lucas/`, 24 caps.). Criados: `wiki/obras/evangelho-segundo-lucas.md`, seis novas páginas de parábola exclusivas de Lucas (filho pródigo, dracma perdida, mordomo infiel, juiz iníquo, fariseu e publicano) e a personalidade `wiki/personalidades/zaqueu.md`. Divergência sobre "inferno/chama/abismo" em Lc 16:19–31 registrada por extensão em `wiki/divergencias/fogo-eterno-em-mateus-25.md` (mesma estrutura doutrinária do "fogo eterno" de Mt 25). Páginas existentes atualizadas: Bom Samaritano, Mau Rico, Rico Insensato, Ovelha Perdida — consolidadas com referências cruzadas à nova página de Lucas.
+
 ## [2026-04-05] setup | Estrutura inicial da wiki criada
 
 Criados `CLAUDE.md` (schema), `index.md` (catálogo), `log.md` (este arquivo), `.gitignore` e a árvore de diretórios `raw/` e `wiki/` conforme o plano. Nenhuma página âncora foi gerada — aguardando ingest de *O Livro dos Espíritos*.
@@ -314,3 +322,7 @@ Páginas criadas (3):
 - `wiki/conceitos/parabola-do-grao-de-trigo.md` — Jo 12:24; renúncia fecunda, desapego, paixão como exemplo moral (ESE cap. XXIV, item 15).
 
 Atualizados: `index.md` (três novas entradas na seção Parábolas de Jesus), `wiki/obras/evangelho-segundo-joao.md` (wikilinks diretos nas seções dos caps. 10, 12 e 15, em vez de menções soltas).
+
+## [2026-04-15] ingest | Evangelho segundo Marcos (ACF)
+
+Ingerido `raw/biblia-acf/marcos/` (16 capítulos). Nova página `wiki/obras/evangelho-segundo-marcos.md` destacando segredo messiânico, humanidade de Jesus, quatro casos de obsessão (Cafarnaum, Gadareno/"Legião", siro-fenícia, epiléptico), cura gradual do cego de Betsaida, óbolo da viúva e Shemá no maior mandamento. Criada `wiki/conceitos/parabola-da-semente-que-cresce-por-si.md` (exclusiva de Mc 4:26–29). Registradas duas divergências abertas sobre o final longo (Mc 16:9–20): `condenacao-dos-incredulos-em-marcos-16.md` e `sinais-de-marcos-16.md`. Ampliada `wiki/conceitos/obsessao.md` com as quatro narrativas-base de Marcos. `index.md` atualizado.

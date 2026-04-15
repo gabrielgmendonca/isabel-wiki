@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, mau-rico, lazaro, riqueza, desapego, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -36,11 +36,15 @@ Kardec analisa esta parábola no contexto do desapego dos bens terrenos (ESE, ca
 
 A parábola convida à reflexão sobre o uso que fazemos de nossos recursos — não apenas financeiros, mas de tempo, saúde, inteligência e afeto. Ignorar o sofrimento alheio quando se tem meios de ajudar é falhar na missão que a existência terrena nos impõe. O espírita consciente busca empregar seus bens em favor do próximo, lembrando que a verdadeira riqueza é a do Espírito, acumulada pela prática do bem.
 
+## Divergências
+
+A letra de Lc 16:22–26 ("inferno", "chama", "grande abismo" intransponível) contradiz a doutrina kardequiana das penas temporárias e da reversibilidade do estado moral pelas existências sucessivas. Ver [[wiki/divergencias/fogo-eterno-em-mateus-25]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/vida-futura]] · [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/caridade]]
-- [[wiki/obras/evangelho-segundo-o-espiritismo]]
+- [[wiki/obras/evangelho-segundo-o-espiritismo]] · [[wiki/obras/evangelho-segundo-lucas]]
 
 ## Fontes
 
