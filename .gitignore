@@ -15,3 +15,6 @@
 
 # Arquivos grandes de dados brutos
 books_with_links.json
+
+__pycache__/
+*.pyc
