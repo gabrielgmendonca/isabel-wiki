@@ -290,3 +290,7 @@ Nenhuma divergência — fonte primordial, lida à luz do Pentateuco.
 
 ## [2026-04-15] lint | 9 achados (0 erros)
 Wiki íntegra com 208 páginas. Oito avisos de citation_format todos em `hierarquia-de-autoridade.md` são falsos positivos (epígrafes, subtítulos e datas). Uma divergência aberta (`mudanca-de-sexo-reencarnacao`) com análise aparentemente completa.
+
+## [2026-04-15] setup | Página de estatísticas da wiki
+
+Criada skill `/stats` e script `.claude/skills/stats/scripts/stats_wiki.py` que gera `wiki/sinteses/estatisticas-da-wiki.md` — painel determinístico com cobertura por tipo, grafo (grau in/out, PageRank via `networkx`, órfãos, componentes isolados), vocabulário (top 50 palavras + 20 bigramas, stopwords PT-BR via `nltk`), atividade mensal parseada de `log.md` (sparkline ASCII) e sugestões automáticas. Utilitários de parsing extraídos para `.claude/skills/_lib/wiki_utils.py`, compartilhados com `lint_wiki.py` (incluindo o parser YAML robusto introduzido em main, que agora suporta listas multilinha e valores quoted). `index.md` atualizado com entrada na seção Sínteses.

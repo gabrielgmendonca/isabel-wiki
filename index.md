@@ -272,6 +272,7 @@ Comparações, análises temáticas, conexões entre obras.
 
 - [[wiki/sinteses/hierarquia-de-autoridade]] — Descrição completa da hierarquia de fontes da wiki: Jesus como fonte primordial, Pentateuco como base inamovível, Kardec complementar, complementares aprovados (incluindo escritos apostólicos) e critérios de escopo.
 - [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — Critérios kardequianos para distinguir comunicações autênticas de apócrifas (LM, caps. X, XXIV, XXXI; LE, escala espírita).
+- [[wiki/sinteses/estatisticas-da-wiki]] — Painel de métricas (grafo, vocabulário, atividade, cobertura) gerado automaticamente pelo script `stats_wiki.py`.
 
 ## Divergências
 
