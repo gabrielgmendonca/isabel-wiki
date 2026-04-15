@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, Léon Denis]
 tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -24,7 +24,7 @@ Jesus trouxe a moral sublime que revolucionou a compreensão humana: "Não vim d
 
 ### Espiritismo — a lei da razão
 
-O Espiritismo vem completar, não destruir, o ensino do Cristo: "Não vim destruir a lei cristã, mas dar-lhe execução" (ESE, cap. I, item 5). Realiza a promessa do Consolador (S. João, 14:26) ao dar ao homem o entendimento racional do que Jesus ensinou por parábolas. O Espiritismo "não é luz que brilha debaixo do alqueire" — destina-se a todos (ESE, Introdução, item 6).
+O Espiritismo vem completar, não destruir, o ensino do Cristo: "Não vim destruir a lei cristã, mas dar-lhe execução" (ESE, cap. I, item 5). Realiza a promessa do Consolador feita por Jesus em três ocasiões no Evangelho de João: "E eu rogarei ao Pai, e ele vos dará outro Consolador [...] o Espírito de verdade" (Jo 14:16-17); "aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas" (Jo 14:26); "quando vier aquele Espírito de verdade, ele vos guiará em toda a verdade; porque não falará de si mesmo, mas dirá tudo o que tiver ouvido, e vos anunciará o que há de vir" (Jo 16:13). Kardec observa que o Espiritismo cumpre exatamente esta descrição: não fala de si mesmo (não é obra de um só homem), anuncia coisas futuras e guia em toda a verdade por meio da razão e dos fatos (ESE, cap. VI; Gênese, cap. XVII). Ver [[wiki/obras/evangelho-segundo-joao]] para o texto integral (caps. 14–16). O Espiritismo "não é luz que brilha debaixo do alqueire" — destina-se a todos (ESE, Introdução, item 6).
 
 ### Caráter coletivo da Terceira Revelação
 

@@ -1,8 +1,8 @@
 ---
 tipo: entidade
-fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier]
+fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier, NT]
 tags: [jesus, cristo, modelo-moral, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -56,6 +56,19 @@ Em *Obras Póstumas*, Kardec dedica um extenso estudo em 9 seções à questão 
 
 Esta análise é coerente com a posição do LE (q. 625: Jesus como tipo da perfeição moral) e de *A Gênese* (cap. XV: superioridade da natureza de Jesus explicada pelos fluidos).
 
+## No Evangelho segundo João
+
+O quarto Evangelho é a principal fonte sobre os discursos longos de Jesus e suas declarações "Eu sou". João registra passagens capitais para a doutrina espírita:
+
+- **Subordinação ao Pai:** "O Filho por si mesmo não pode fazer coisa alguma" (Jo 5:19); "Meu Pai é maior do que eu" (Jo 14:28); "A ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste" (Jo 17:3) — Jesus distingue claramente entre si e Deus, confirmando a posição de Kardec (OPE, §III).
+- **Unidade moral, não ontológica:** "Eu e o Pai somos um" (Jo 10:30) — mas pede a mesma unidade para todos os discípulos: "Para que todos sejam um, como tu, ó Pai, o és em mim, e eu em ti" (Jo 17:21).
+- **"Sois deuses":** Jesus cita o Salmo 82 para mostrar que a filiação divina é questão de grau, não de natureza exclusiva (Jo 10:34-36).
+- **"Meu Pai e vosso Pai":** Após a ressurreição, Jesus declara: "eu subo para meu Pai e vosso Pai, meu Deus e vosso Deus" (Jo 20:17) — a filiação divina é compartilhada.
+- **Humanidade de Jesus:** "Jesus chorou" diante de Lázaro (Jo 11:35), confirmando sua condição de Espírito encarnado, não Deus em essência.
+- **Preexistência:** "Antes que Abraão existisse, eu sou" (Jo 8:58) — preexistência do Espírito, não identidade com Deus.
+
+Ver [[wiki/obras/evangelho-segundo-joao]].
+
 ## Governador espiritual da Terra (Emmanuel)
 
 Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela formação e organização do planeta, desde a gênese planetária até a direção das civilizações:
@@ -91,6 +104,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/obras-postumas]] — estudo sobre a natureza do Cristo (9 seções).
 - [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
+- [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
 
 ## Páginas relacionadas
 

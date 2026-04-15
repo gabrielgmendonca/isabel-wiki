@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Léon Denis]
 tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -32,7 +32,9 @@ O Espírito escolhe o gênero de prova por que há de passar — nisso consiste 
 
 ### No ESE
 
-O cap. IV do ESE retoma a reencarnação sob a perspectiva evangélica. Kardec analisa o diálogo de Jesus com Nicodemos: "Se um homem não nascer de novo, não poderá ver o reino de Deus" (S. João, 3:3) — demonstrando que o princípio da pluralidade das existências estava presente no próprio Evangelho (ESE, cap. IV).
+O cap. IV do ESE retoma a reencarnação sob a perspectiva evangélica. Kardec analisa o diálogo de Jesus com Nicodemos: "Se um homem não nascer de novo, não poderá ver o reino de Deus" (Jo 3:3) — demonstrando que o princípio da pluralidade das existências estava presente no próprio Evangelho (ESE, cap. IV). O texto integral deste diálogo encontra-se em [[wiki/obras/evangelho-segundo-joao]] (cap. 3). Note-se que Jesus acrescenta: "O que é nascido da carne é carne, e o que é nascido do Espírito é espírito" (Jo 3:6) — distinção entre corpo material e Espírito imortal que sustenta a tese da reencarnação.
+
+No mesmo Evangelho, a pergunta dos discípulos sobre o cego de nascença — "Rabi, quem pecou, este ou seus pais, para que nascesse cego?" (Jo 9:2) — pressupõe a possibilidade de pecado antes do nascimento, o que implica existência anterior. A formulação da pergunta mostra que a ideia de vidas anteriores era familiar àquela cultura (ESE, cap. IV).
 
 Outro ponto central é o retorno de Elias como João Batista, com base em S. Mateus 11:14 ("ele mesmo é o Elias que há de vir") e S. Mateus 17:10–13 (a confirmação de Jesus aos discípulos). Kardec observa que, se João Batista era Elias, houve necessariamente reencarnação do Espírito de Elias no corpo de João Batista (ESE, cap. IV).
 

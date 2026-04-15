@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [cosmologia, mundos-habitados, vida-extraterrestre, obra/le, obra/ese]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -23,6 +23,8 @@ A constituição física dos globos **difere** — nenhum se assemelha integralm
 A pluralidade de mundos é o **espaço de trânsito** do Espírito em progresso: pode reencarnar no mesmo globo ou passar a mundos superiores (LE, q. 173). Ver [[wiki/conceitos/reencarnacao]].
 
 ### No ESE
+
+A base evangélica deste ensino encontra-se em Jo 14:2: "Na casa de meu Pai há muitas moradas" — passagem que Kardec toma como epígrafe do cap. III do ESE. Ver [[wiki/obras/evangelho-segundo-joao]] (cap. 14). Ainda em João, "tenho outras ovelhas que não são deste aprisco" (Jo 10:16) pode ser lido como referência à universalidade da missão de Jesus, que abrange seres de outros mundos.
 
 O cap. III do ESE desenvolve a classificação dos mundos habitados em categorias progressivas: **mundos primitivos** (primeiras encarnações), **mundos de expiação e provas** (onde predominam o mal e o sofrimento — a Terra é um deles), **mundos regeneradores** (em que o mal começa a desaparecer), **mundos felizes** (onde o bem supera o mal) e **mundos celestes** (morada dos Espíritos purificados) (ESE, cap. III, itens 3–5).
 

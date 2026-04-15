@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 13 fontes complementares. ~207 páginas entre conceitos, obras, entidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 14 fontes complementares (incluindo Evangelho segundo João). ~208 páginas entre conceitos, obras, entidades, questões e sínteses.
 
 ---
 
@@ -58,6 +58,9 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/obras/livro-dos-mediuns]] — guia prático do Espiritismo experimental (1861). 32 capítulos em 2 partes.
 - [[wiki/obras/genese]] — Gênese, milagres e predições à luz das leis naturais (1868). 18 capítulos.
 - [[wiki/obras/ceu-e-inferno]] — justiça divina, penas futuras e exemplos de Espíritos (1865). 2 partes, 19 capítulos.
+
+### Evangelhos canônicos (fonte primordial)
+- [[wiki/obras/evangelho-segundo-joao]] — quarto Evangelho canônico (21 capítulos). Discursos longos de Jesus, promessa do Consolador, natureza do Cristo, diálogo com Nicodemos, "muitas moradas".
 
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.

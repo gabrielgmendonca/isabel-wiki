@@ -271,3 +271,19 @@ Análise do lugar dos Evangelhos canônicos e dos escritos apostólicos na hiera
 ## [2026-04-08] lint | 10 achados
 
 Wiki saudável: 0 erros, 2 avisos, 1 info. Página `hierarquia-de-autoridade.md` órfã (sem links de entrada de outras páginas). 8 citações flaggadas são falsos positivos (referências bibliográficas contextuais). 1 divergência aberta sem ação necessária.
+
+## [2026-04-15] ingest | Evangelho segundo João (Bíblia ACF, 21 capítulos)
+
+Primeiro Evangelho canônico ingerido — fonte primordial na hierarquia de autoridade. Texto: Almeida Corrigida e Fiel, 21 capítulos em `raw/biblia-acf/joao/`.
+
+Páginas criadas (1):
+- `wiki/obras/evangelho-segundo-joao.md` — estrutura capítulo a capítulo com leitura espírita, tabela de referências cruzadas com o Pentateuco, 8 temas centrais identificados.
+
+Páginas atualizadas (5):
+- `wiki/entidades/jesus.md` — nova seção "No Evangelho segundo João" (subordinação ao Pai, unidade moral, preexistência, humanidade de Jesus), nova obra associada.
+- `wiki/conceitos/reencarnacao.md` — referência ao texto integral de Jo 3:3-6 (Nicodemos) e Jo 9:2 (cego de nascença) com link para obra.
+- `wiki/conceitos/tres-revelacoes.md` — três promessas do Consolador expandidas com texto joanino (Jo 14:16-17, 14:26, 16:13) e link para obra.
+- `wiki/conceitos/pluralidade-dos-mundos-habitados.md` — base evangélica (Jo 14:2 "muitas moradas", Jo 10:16 "outras ovelhas") com link para obra.
+- `index.md` — nova subseção "Evangelhos canônicos" com link para a obra.
+
+Nenhuma divergência — fonte primordial, lida à luz do Pentateuco.
