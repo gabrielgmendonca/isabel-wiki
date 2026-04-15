@@ -215,6 +215,7 @@ _CITATION_VALID = [
     r"\(LE,\s*Parte\s*\d",
     # LM
     r"\(LM,\s*[12][ªa]\s*parte",
+    r"\(LM,\s*caps?\.\s*[IVXLC]+",
     r"\(LM,\s*Introdução",
     # ESE
     r"\(ESE,\s*caps?\.\s*[IVXLC]+",

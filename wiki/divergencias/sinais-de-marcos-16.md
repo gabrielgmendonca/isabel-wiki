@@ -1,6 +1,6 @@
 ---
 tipo: divergencia
-fontes: [Genese, LM, NT]
+fontes: [Gênese, LM, NT]
 tags: [divergencia, mediunidade, fluidos, fenomenos, marcos, obra/genese, obra/lm]
 atualizado_em: 2026-04-15
 status: aberta

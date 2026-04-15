@@ -1,6 +1,6 @@
 ---
 tipo: divergencia
-fontes: [CI, LE, NT]
+fontes: [C&I, LE, NT]
 tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le]
 atualizado_em: 2026-04-15
 status: aberta

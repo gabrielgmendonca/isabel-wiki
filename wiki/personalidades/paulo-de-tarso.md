@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, mediunidade]
+tags: [paulo, apostolo, gentios, atos, mediunidade, obra/ese]
 atualizado_em: 2026-04-15
 status: ativo
 ---

@@ -4,6 +4,9 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-15] lint | 14 achados
+Nenhum erro. 3 `citation_format` são falsos positivos (formato `(LM, cap. XXIX)` sem "2ª parte"). 3 `tag_taxonomy` reais em divergências e em paulo-de-tarso — dessincronia entre campo `fontes` e tags `obra/`. `index.md` com contagens desatualizadas (14→18 fontes, 216→239 páginas).
+
 ---
 
 ## [2026-04-15] lint | 10 achados (0 erros)
