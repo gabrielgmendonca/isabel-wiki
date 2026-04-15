@@ -84,7 +84,7 @@ O Quartz tem busca full-text básica, suficiente para o leitor. Para queries sem
 
 Formatos além de markdown para tornar o conteúdo mais acessível.
 
-- [ ] **Apresentações Marp** — gerar slides a partir de páginas wiki para uso em palestras; criar skill `/slides` que monta deck a partir de um tema
+- [x] **Apresentações Marp** — skill `/slides <página-wiki>` gera deck Marp no padrão socrático Q&A (capa → perguntas/respostas com citação → parábola → síntese → fontes); build PPTX+PDF via npx; tema customizado em `slides/themes/isabel.css`
 - [ ] **Mapas conceituais** — gerar visualizações (Mermaid ou similar) das relações entre conceitos de um tema
 - [ ] **Export temático** — gerar PDF/EPUB de um conjunto de páginas sobre um tema, para estudo offline
 - [ ] **Flashcards** — gerar pares pergunta/resposta a partir de `questoes/` para revisão espaçada (formato Anki-compatível)

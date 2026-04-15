@@ -1,0 +1,91 @@
+/* @theme isabel
+ * Tema sóbrio para palestras espíritas.
+ * Sans-serif para perguntas/títulos; serif para citações dos Espíritos.
+ */
+
+@import 'default';
+
+:root {
+  --isabel-bg: #fbfaf6;
+  --isabel-fg: #1f1b16;
+  --isabel-muted: #6b6358;
+  --isabel-accent: #6b3f1d;
+  --isabel-rule: #d9d2c4;
+}
+
+section {
+  background: var(--isabel-bg);
+  color: var(--isabel-fg);
+  font-family: -apple-system, "Helvetica Neue", "Segoe UI", sans-serif;
+  font-size: 32px;
+  line-height: 1.45;
+  padding: 80px 100px;
+}
+
+section h1 {
+  font-size: 56px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--isabel-rule);
+  padding-bottom: 16px;
+  margin-bottom: 32px;
+}
+
+section h2 {
+  font-size: 44px;
+  font-weight: 500;
+  color: var(--isabel-accent);
+}
+
+section h3 {
+  font-size: 32px;
+  color: var(--isabel-muted);
+  font-weight: 400;
+}
+
+section p, section li {
+  font-size: 30px;
+}
+
+section blockquote {
+  font-family: "Iowan Old Style", "Charter", "Georgia", serif;
+  font-size: 30px;
+  line-height: 1.5;
+  border-left: 3px solid var(--isabel-accent);
+  padding: 8px 24px;
+  color: var(--isabel-fg);
+  font-style: italic;
+}
+
+section blockquote p { font-size: 30px; }
+
+section footer, section header {
+  color: var(--isabel-muted);
+  font-size: 16px;
+}
+
+/* Slide de citação literal (resposta dos Espíritos) */
+section.quote {
+  background: #f5f0e6;
+}
+section.quote blockquote {
+  font-size: 34px;
+  border-left-width: 4px;
+}
+
+/* Slide em branco para pausa narrativa */
+section.blank {
+  background: var(--isabel-bg);
+}
+section.blank * { display: none; }
+
+/* Slide final de fontes */
+section.source {
+  font-size: 22px;
+  color: var(--isabel-muted);
+}
+section.source h2 {
+  font-size: 32px;
+  color: var(--isabel-fg);
+}
+section.source li { font-size: 22px; }
