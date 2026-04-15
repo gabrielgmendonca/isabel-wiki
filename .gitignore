@@ -3,9 +3,8 @@
 *.tmp
 .env
 
-# Obsidian — estado local/cache
-.obsidian/workspace*
-.obsidian/cache
+# Obsidian — config e estado local
+.obsidian/
 
 # Claude Code — estado local (mantém settings.json e skills/)
 .claude/settings.local.json
