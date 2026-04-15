@@ -285,6 +285,9 @@ A exclusão não implica juízo de valor sobre essas tradições — apenas deli
 - [[wiki/personalidades/erasto]] — discípulo de S. Paulo, comunicante no ESE e LM
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo (ESE, cap. I)
 
+### Meta-wiki
+- [[wiki/sinteses/estatisticas-da-wiki]] — métricas de cobertura da wiki por nível da hierarquia (Pentateuco, Kardec complementar, complementares aprovados).
+
 ## Fontes
 
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Introdução, itens I–XVII (método); q. 1 (Deus); q. 625 (Jesus como modelo); q. 886 (caridade segundo Jesus).
