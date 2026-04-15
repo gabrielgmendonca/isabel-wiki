@@ -1,0 +1,15 @@
+name: Lint Wiki (PR)
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lint wiki
+        run: python3 .claude/skills/lint/scripts/lint_wiki.py

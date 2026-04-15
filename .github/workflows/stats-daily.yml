@@ -1,0 +1,37 @@
+name: Stats Diário
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync deps
+        run: uv sync
+
+      - name: Gerar estatísticas
+        run: uv run python .claude/skills/stats/scripts/stats_wiki.py
+
+      - name: Commit se houver mudança
+        run: |
+          if git diff --quiet wiki/sinteses/estatisticas-da-wiki.md; then
+            echo "Sem mudanças nas estatísticas."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wiki/sinteses/estatisticas-da-wiki.md
+          git commit -m "Atualiza estatísticas da wiki (automático)"
+          git push
