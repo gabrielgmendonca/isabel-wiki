@@ -1,73 +1,102 @@
 ---
 marp: true
+theme: isabel
 paginate: true
 header: 'Lei do trabalho'
-footer: 'Gabriel Mendonça · 2026-04-15'
+footer: 'Gabriel Mendonça · 2026-05-10 · Centro Espírita Allan Kardec'
 ---
 
 # Lei do trabalho
 
-**LE**
+**O Livro dos Espíritos · q. 674–685**
 
-Gabriel Mendonça · 2026-04-15
-
----
-
-<!-- _class: blank -->
+Gabriel Mendonça · 2026-05-10 · Centro Espírita Allan Kardec
 
 ---
 
-## E afinal — lei do trabalho?
+## Abertura
 
-*<!-- TODO: reescrever como pergunta socrática que ancora o tema -->*
-
----
-
-## O que é lei do trabalho?
+*<!-- skill: escrever pergunta socrática de abertura (5-15 palavras, retórica, ancora o tema). Substituir todo este slide pela pergunta. -->*
 
 ---
 
-<!-- _class: quote -->
+<!-- _class: section -->
 
-> "O trabalho é Lei da Natureza, por isso mesmo que constitui uma necessidade, e a civilização obriga o homem a trabalhar mais, porque lhe aumenta as necessidades e os gozos.
+## Parte 1 — Definição
 
-**(LE, q. 674)**
-
----
-
-<!-- _class: blank -->
+*<!-- skill: opcional — reescrever título da parte em linguagem de palestra se 'Definição' soar técnico demais -->*
 
 ---
 
-## E quanto a: Trabalho não é só material?
+## O Livro dos Espíritos, q. 674
+
+*<!-- skill: preencher pergunta literal de LE, q. 674 via qmd query em collection 'raw' (Kardec). Manter o número da questão visível como subtítulo. -->*
 
 ---
 
 <!-- _class: quote -->
 
-> "O Espírito trabalha, assim como o corpo. Toda ocupação útil é trabalho.
+> O trabalho é Lei da Natureza, por isso mesmo que constitui uma necessidade, e a civilização obriga o homem a trabalhar mais, porque lhe aumenta as necessidades e os gozos.
 
-**(LE, q. 675)**
+*<!-- skill: resposta curta no wiki — expandir com texto integral da resposta dos Espíritos de LE, q. 674 via qmd raw. Usar (...) para elipses em trechos não-essenciais. -->*
 
----
-
-<!-- _class: blank -->
+**O Livro dos Espíritos, q. 674**
 
 ---
 
-## Uma parábola
+<!-- _class: section -->
 
-*<!-- TODO: inserir parábola ou caso ilustrativo (2-4 slides). Sugestões via qmd query em wiki/parabolas/ ou wiki/personalidades/ -->*
+## Parte 2 — Trabalho não é só material
 
----
-
-<!-- _class: blank -->
+*<!-- skill: opcional — reescrever título da parte em linguagem de palestra se 'Trabalho não é só material' soar técnico demais -->*
 
 ---
 
-## Voltando à pergunta — lei do trabalho
+## O Livro dos Espíritos, q. 675
 
-*<!-- TODO: síntese que retoma a pergunta de abertura com a resposta consolidada -->*
+*<!-- skill: preencher pergunta literal de LE, q. 675 via qmd query em collection 'raw' (Kardec). Manter o número da questão visível como subtítulo. -->*
+
+---
+
+<!-- _class: quote -->
+
+> O Espírito trabalha, assim como o corpo. Toda ocupação útil é trabalho.
+
+*<!-- skill: resposta curta no wiki — expandir com texto integral da resposta dos Espíritos de LE, q. 675 via qmd raw. Usar (...) para elipses em trechos não-essenciais. -->*
+
+**O Livro dos Espíritos, q. 675**
+
+---
+
+<!-- _class: section -->
+
+## Para meditar
+
+---
+
+## *<!-- skill: título -->*
+
+*<!-- skill: referência (ex: 'Mateus 25:14–30' ou 'C&I, 2ª parte, cap. V' ou 'wiki/personalidades/dimas') -->*
+
+*<!-- skill: sugerir 1 item pertinente entre: (a) parábola evangélica, (b) caso de O Céu e o Inferno, (c) personalidade/caso de André Luiz (Entre a Terra e o Céu, Nosso Lar etc.), (d) página de wiki/personalidades/ ou wiki/parabolas/. Apenas título + referência — NÃO incluir texto integral. Querier qmd em wiki/parabolas/, wiki/personalidades/, raw/. -->*
+
+---
+
+<!-- _class: section -->
+
+## Síntese
+
+---
+
+## Síntese
+
+*<!-- skill: 3-5 bullets consolidando a resposta à pergunta de abertura. Tom de encerramento, não de recapitulação mecânica. -->*
+
+---
+
+<!-- _class: quote -->
+
+*<!-- skill: opcional — citação consolidadora (Jesus, Kardec, ou espírito do Pentateuco) que encerre a palestra. Remover este slide se não couber. -->*
 
 ---
 

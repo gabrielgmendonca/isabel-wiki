@@ -12,13 +12,16 @@ Slides para palestras espíritas de Gabriel Mendonça. Padrão extraído dos PPT
 
 Toda palestra segue:
 
-1. **Capa** — título + fonte canônica (sigla + questões) + autor + data
+1. **Capa** — título + nome completo da obra-base com range de questões/itens (ex: `O Livro dos Espíritos · q. 674–685`) + autor + data da palestra + casa espírita
 2. **Pergunta de abertura** — curta, retórica, ancora o tema (1 slide)
-3. **Núcleo Q&A** — alterna pergunta (slide com poucas palavras) + resposta (citação literal entre aspas, multi-parágrafo, com referência completa)
-4. **Parábola ou caso ilustrativo** (2-4 slides) — bíblica (Filho Pródigo, Pedro na prisão), mediúnica (Encontro Marcado) ou histórica (Rainha de Oude)
-5. **Slides em branco intercalados** — pausa narrativa entre blocos (use `<!-- _class: blank -->`)
-6. **Síntese final** — retoma a pergunta de abertura com a resposta consolidada
-7. **Encerramento** — citação consolidadora ou slide visual
+3. **Partes temáticas** — cada parte começa com section header (`<!-- _class: section -->`) nomeando o bloco
+4. **Núcleo Q&A** — para LE: par pergunta literal + resposta dos Espíritos (dois slides). Para ESE/LM/C&I: citação completa em slide único. Elipses `(...)` em trechos longos não-essenciais
+5. **"Para meditar"** — 1 slide com título + referência de uma parábola evangélica, caso de C&I, personalidade de André Luiz (Entre a Terra e o Céu, Nosso Lar) ou página de `wiki/personalidades/` / `wiki/parabolas/`. NUNCA texto integral
+6. **Síntese final** — retoma a pergunta de abertura com a resposta consolidada (3-5 bullets)
+7. **Encerramento** — citação consolidadora (opcional)
+8. **Fontes** — slide final `<!-- _class: source -->`
+
+**Sem slides em branco** (`<!-- _class: blank -->` é legado). Transições são feitas por section headers.
 
 Total típico: 25-50 slides.
 

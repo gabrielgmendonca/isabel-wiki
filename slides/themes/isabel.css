@@ -73,11 +73,30 @@ section.quote blockquote {
   border-left-width: 4px;
 }
 
-/* Slide em branco para pausa narrativa */
+/* Slide em branco para pausa narrativa (legado — preferir .section) */
 section.blank {
   background: var(--isabel-bg);
 }
 section.blank * { display: none; }
+
+/* Section header — transição entre partes da palestra */
+section.section {
+  background: var(--isabel-accent);
+  color: var(--isabel-bg);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section.section h2 {
+  font-size: 56px;
+  color: var(--isabel-bg);
+  border: none;
+}
+section.section h3 {
+  color: var(--isabel-bg);
+  opacity: 0.85;
+}
 
 /* Slide final de fontes */
 section.source {
