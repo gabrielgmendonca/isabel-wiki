@@ -320,6 +320,9 @@ _CITATION_VALID = [
     r"\(RE,\s*",
     r"\(OPE,\s*",
     r"\(OQE,\s*",
+    # Referências contextuais genéricas (ano de publicação ou marcador estrutural)
+    r"\((LE|LM|ESE|C&I|Gênese|RE|OPE|OQE),\s*\d{4}",
+    r"\((LE|LM|ESE|C&I|Gênese|RE|OPE|OQE),\s*(epígrafe|subtítulo|Prolegômenos)",
 ]
 _VALID_RE = re.compile("|".join(_CITATION_VALID))
 
