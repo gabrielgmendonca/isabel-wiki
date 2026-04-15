@@ -294,3 +294,6 @@ Wiki íntegra com 208 páginas. Oito avisos de citation_format todos em `hierarq
 ## [2026-04-15] setup | Página de estatísticas da wiki
 
 Criada skill `/stats` e script `.claude/skills/stats/scripts/stats_wiki.py` que gera `wiki/sinteses/estatisticas-da-wiki.md` — painel determinístico com cobertura por tipo, grafo (grau in/out, PageRank via `networkx`, órfãos, componentes isolados), vocabulário (top 50 palavras + 20 bigramas, stopwords PT-BR via `nltk`), atividade mensal parseada de `log.md` (sparkline ASCII) e sugestões automáticas. Utilitários de parsing extraídos para `.claude/skills/_lib/wiki_utils.py`, compartilhados com `lint_wiki.py` (incluindo o parser YAML robusto introduzido em main, que agora suporta listas multilinha e valores quoted). `index.md` atualizado com entrada na seção Sínteses.
+
+## [2026-04-15] lint | 1 achado
+Wiki limpa: 0 erros, 0 avisos. Único achado é info — divergência `mudanca-de-sexo-reencarnacao` com status aberta mas análise aparentemente completa (50 linhas); considerar encerrar.
