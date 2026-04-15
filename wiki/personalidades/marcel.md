@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, expiacoes-terrestres, obra/ci]
 atualizado_em: 2026-04-06
@@ -28,7 +28,7 @@ Marcel declarou que, em existência anterior, fora "belo, grande, rico e adulado
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
-- [[wiki/entidades/santo-agostinho]]
+- [[wiki/personalidades/santo-agostinho]]
 
 ## Fontes
 

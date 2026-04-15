@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, espiritos-felizes, obra/ci]
 atualizado_em: 2026-04-06
@@ -28,7 +28,7 @@ Em contraste, a alma de quem morre sem fé "se dilacera e palpita escapando do c
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/entidades/sr-sanson]]
+- [[wiki/personalidades/sr-sanson]]
 - [[wiki/conceitos/morte]]
 - [[wiki/conceitos/caridade]]
 

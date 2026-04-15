@@ -102,7 +102,7 @@ Bloco exclusivo de João — os capítulos mais ricos para a leitura espírita.
 2. **Pluralidade dos mundos** — "Na casa de meu Pai há muitas moradas" (cap. 14). Ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]].
 3. **O Consolador prometido** — Caps. 14, 15, 16: o Espírito de Verdade que guiará em toda a verdade. Ver [[wiki/conceitos/tres-revelacoes]].
 4. **Adoração em espírito e verdade** — Diálogo com a samaritana (cap. 4). Ver [[wiki/conceitos/lei-de-adoracao]].
-5. **Natureza de Jesus** — Subordinação ao Pai (caps. 5, 8, 10, 14, 17); unidade moral, não ontológica. Ver [[wiki/entidades/jesus]].
+5. **Natureza de Jesus** — Subordinação ao Pai (caps. 5, 8, 10, 14, 17); unidade moral, não ontológica. Ver [[wiki/personalidades/jesus]].
 6. **Lei de amor e caridade** — Lava-pés (cap. 13); mandamento novo (caps. 13, 15); a videira (cap. 15). Ver [[wiki/conceitos/caridade]].
 7. **Fenômenos mediúnicos** — Aparições pós-ressurreição (cap. 20); ressurreição de Lázaro (cap. 11). Ver [[wiki/conceitos/fluidos]].
 8. **Lei de causa e efeito** — "Não peques mais" (cap. 5); cego de nascença (cap. 9). Ver [[wiki/conceitos/lei-de-causa-e-efeito]].
@@ -127,9 +127,9 @@ Bloco exclusivo de João — os capítulos mais ricos para a leitura espírita.
 | Jo 18:36 — "Meu reino não é deste mundo" | ESE, cap. II |
 | Jo 20:17 — "Meu Pai e vosso Pai" | OPE, §IX |
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — autor dos ensinamentos.
+- [[wiki/personalidades/jesus]] — autor dos ensinamentos.
 - João Batista — precursor, identificado como reencarnação de Elias (ESE, cap. IV).
 - Nicodemos — fariseu, interlocutor no diálogo sobre o novo nascimento (cap. 3).
 - A samaritana — interlocutora no diálogo sobre adoração em espírito (cap. 4).

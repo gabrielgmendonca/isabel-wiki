@@ -9,7 +9,7 @@ paths:
 
 ```yaml
 ---
-tipo: conceito | obra | entidade | questao | sintese | divergencia
+tipo: conceito | obra | personalidade | questao | sintese | divergencia
 fontes: [LE, ESE]
 tags: [reencarnacao, moral]
 url: https://...          # opcional — URL da fonte original (YouTube, site, etc.)
@@ -60,9 +60,9 @@ Atribuídas a páginas que tratam diretamente de uma lei moral. Conjunto fechado
 
 ## Estrutura por tipo
 
-- **obras/**: Cabeçalho · Dados bibliográficos (incluir `**Texto integral:** [[raw/<caminho>]]` quando a fonte existir em `raw/`; incluir `**Fonte original:** [YouTube](url)` + embed `![](url)` quando houver vídeo/áudio online; incluir `Disponível em: <url>` na seção Fontes) · Estrutura · Resumo por parte · Temas centrais · Conceitos tratados · Entidades citadas · Divergências · Fontes.
+- **obras/**: Cabeçalho · Dados bibliográficos (incluir `**Texto integral:** [[raw/<caminho>]]` quando a fonte existir em `raw/`; incluir `**Fonte original:** [YouTube](url)` + embed `![](url)` quando houver vídeo/áudio online; incluir `Disponível em: <url>` na seção Fontes) · Estrutura · Resumo por parte · Temas centrais · Conceitos tratados · Personalidades citadas · Divergências · Fontes.
 - **conceitos/**: Definição curta · Ensino de Kardec · Desdobramentos · Aplicação prática · Divergências · Páginas relacionadas · Fontes.
-- **entidades/**: Identificação · Papel · Obras associadas · Citações relevantes · Páginas relacionadas · Fontes.
+- **personalidades/**: Identificação · Papel · Obras associadas · Citações relevantes · Páginas relacionadas · Fontes.
 - **questoes/**: Pergunta literal · Resposta dos Espíritos literal · Comentário de Kardec · Análise · Conceitos relacionados · Fontes.
 - **sinteses/**: Pergunta motivadora · Análise · Conclusão · Páginas referenciadas · Fontes.
 - **divergencias/**: ver regra de divergência.

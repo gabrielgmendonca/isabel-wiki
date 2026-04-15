@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [RE]
 tags: [espirito-comunicante, psicografia, divaldo-franco, escritor, obra/re]
 atualizado_em: 2026-04-07
@@ -48,7 +48,7 @@ Até a data da palestra (~2023), Victor Hugo havia psicografado **11 romances** 
 - [[wiki/conceitos/psicografia]] — meio de comunicação utilizado
 - [[wiki/conceitos/identidade-dos-espiritos]] — estilo como critério de identificação
 - [[wiki/conceitos/mediunidade]] — faculdade exercida por Divaldo
-- [[wiki/entidades/divaldo-franco]] — médium psicógrafo
+- [[wiki/personalidades/divaldo-franco]] — médium psicógrafo
 
 ## Fontes
 

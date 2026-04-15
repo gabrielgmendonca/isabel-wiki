@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, espiritos-endurecidos, obra/ci, lei/trabalho]
 atualizado_em: 2026-04-06

@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, espiritos-felizes, obra/ci]
 atualizado_em: 2026-04-06
@@ -29,7 +29,7 @@ Sobre seu túmulo, dirigiu palavras tocantes à esposa e aos presentes, pedindo 
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/entidades/sr-sanson]]
+- [[wiki/personalidades/sr-sanson]]
 - [[wiki/conceitos/caridade]]
 - [[wiki/conceitos/morte]]
 - [[wiki/conceitos/fe-raciocinada]]

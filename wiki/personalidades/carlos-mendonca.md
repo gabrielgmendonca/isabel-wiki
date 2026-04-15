@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [ESE]
 tags: [palestrante, evangelho, bezerra-de-menezes, obra/ese]
 atualizado_em: 2026-04-07

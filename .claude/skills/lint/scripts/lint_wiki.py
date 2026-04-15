@@ -465,7 +465,7 @@ def check_status_projeto(pages: list[Path]) -> dict:
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
-    valid_tipos = {"conceito", "obra", "entidade", "questao", "sintese", "divergencia"}
+    valid_tipos = {"conceito", "obra", "personalidade", "questao", "sintese", "divergencia"}
     valid_status = {"rascunho", "ativo", "revisar"}
     valid_status_divergencia = {"aberta", "concluída"}
     items = []

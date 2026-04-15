@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [LE]
 tags: [reveladores, espiritos, codificacao, obra/le]
 atualizado_em: 2026-04-05
@@ -17,9 +17,9 @@ Conjunto de Espíritos que, por intermédio de diversos médiuns, ditaram as res
 Ao fim dos Prolegômenos de *O Livro dos Espíritos*, são expressamente citados:
 
 - **João Evangelista**
-- **Santo Agostinho** → ver [[wiki/entidades/santo-agostinho]]
+- **Santo Agostinho** → ver [[wiki/personalidades/santo-agostinho]]
 - **São Vicente de Paulo**
-- **São Luís** (Luís IX de França) → ver [[wiki/entidades/sao-luis]]
+- **São Luís** (Luís IX de França) → ver [[wiki/personalidades/sao-luis]]
 - **O Espírito de Verdade**
 - **Sócrates**
 - **Platão**
@@ -38,7 +38,7 @@ O concurso de médiuns diversos, em cidades e países distintos, sem entendiment
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/allan-kardec]] · [[wiki/obras/livro-dos-espiritos]]
+- [[wiki/personalidades/allan-kardec]] · [[wiki/obras/livro-dos-espiritos]]
 
 ## Fontes
 

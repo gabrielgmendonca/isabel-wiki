@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [ESE]
 tags: [espirito, pedagogo, evangelho, obra/ese]
 atualizado_em: 2026-04-07

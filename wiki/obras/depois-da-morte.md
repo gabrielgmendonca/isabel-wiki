@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/leon-denis]] (1846–1927)
+- **Autor:** [[wiki/personalidades/leon-denis]] (1846–1927)
 - **Título original:** *Après la Mort*
 - **Primeira edição francesa:** 1890
 - **Edição utilizada:** 10ª edição em português, tradução FEB (Federação Espírita Brasileira), Rio de Janeiro, 1977
@@ -172,11 +172,11 @@ Notas complementares da FEB com citações de Allan Kardec (ESE) e de Emmanuel/C
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — sobriedade e continência
 - [[wiki/conceitos/homem-de-bem]] — vida moral e dever
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/allan-kardec]] — codificador, papel central na Parte III
-- [[wiki/entidades/jesus]] — ensino moral, promessa do Espírito de Verdade
-- [[wiki/entidades/leon-denis]] — autor
+- [[wiki/personalidades/allan-kardec]] — codificador, papel central na Parte III
+- [[wiki/personalidades/jesus]] — ensino moral, promessa do Espírito de Verdade
+- [[wiki/personalidades/leon-denis]] — autor
 
 ## Alinhamento com Kardec
 

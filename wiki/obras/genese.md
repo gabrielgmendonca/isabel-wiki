@@ -109,8 +109,8 @@ Formato padrão desta wiki:
 
 ## Entidades relacionadas
 
-- Codificador: [[wiki/entidades/allan-kardec]]
-- Jesus — superioridade da natureza, milagres explicados: [[wiki/entidades/jesus]]
+- Codificador: [[wiki/personalidades/allan-kardec]]
+- Jesus — superioridade da natureza, milagres explicados: [[wiki/personalidades/jesus]]
 
 ## Fontes
 

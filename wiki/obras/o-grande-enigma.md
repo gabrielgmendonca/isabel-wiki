@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/leon-denis]] (1846–1927)
+- **Autor:** [[wiki/personalidades/leon-denis]] (1846–1927)
 - **Título original:** *La Grande Énigme. Dieu et l'Univers*
 - **Subtítulo:** Deus e o Universo — seguido de uma Síntese Espiritualista Doutrinária e Prática sob Forma de Diálogo
 - **Primeira edição francesa:** 1911 (Paris, Librairie des Sciences Psychiques)
@@ -135,11 +135,11 @@ Destaque: Denis afirma que o Sol é "morada de espíritos sublimes que atingiram
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — 5 classes de mundos, Sol como morada de Espíritos sublimes
 - [[wiki/conceitos/transicao-planetaria]] — missão do séc. XX, renovação moral
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/leon-denis]] — autor
-- [[wiki/entidades/allan-kardec]] — citado como precursor e codificador
-- [[wiki/entidades/jesus]] — "Eu e meu Pai somos um" (cap. III)
+- [[wiki/personalidades/leon-denis]] — autor
+- [[wiki/personalidades/allan-kardec]] — citado como precursor e codificador
+- [[wiki/personalidades/jesus]] — "Eu e meu Pai somos um" (cap. III)
 
 ## Divergências
 

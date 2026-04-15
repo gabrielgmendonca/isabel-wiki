@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, criminosos-arrependidos, obra/ci]
 atualizado_em: 2026-04-06
@@ -30,7 +30,7 @@ Desde a morte, permaneceu confinado à casa do crime durante cerca de dois sécu
 - [[wiki/conceitos/prece]]
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/inferno]]
-- [[wiki/entidades/sao-luis]]
+- [[wiki/personalidades/sao-luis]]
 
 ## Fontes
 

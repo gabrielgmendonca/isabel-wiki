@@ -58,11 +58,11 @@ Jesus conhecia o solo rochoso das mentes dos escribas e fariseus, o entusiasmo s
 - [[wiki/conceitos/perfeicao-moral]] — a terra boa como símbolo da reforma íntima efetiva
 - [[wiki/conceitos/homem-de-bem]] — ser como solo fértil, produzindo frutos pelo Evangelho
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — o semeador, mestre e educador
-- [[wiki/entidades/vinicius]] — espírito Pedro de Camargo, citado pela obra *Em torno do Mestre*
-- [[wiki/entidades/carlos-mendonca]] — palestrante
+- [[wiki/personalidades/jesus]] — o semeador, mestre e educador
+- [[wiki/personalidades/vinicius]] — espírito Pedro de Camargo, citado pela obra *Em torno do Mestre*
+- [[wiki/personalidades/carlos-mendonca]] — palestrante
 
 ## Fontes
 

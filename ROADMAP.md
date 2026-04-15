@@ -45,9 +45,9 @@ A wiki tem links, mas pode ser mais densa em conexões — o grafo do Quartz fic
 
 - [ ] **Parábolas ↔ conceitos** — cada parábola do ESE deve linkar explicitamente os conceitos morais que ilustra, e vice-versa
 - [ ] **Leis morais ↔ exemplos práticos** — conectar cada lei moral a parábolas, questões e casos concretos que a exemplificam
-- [ ] **Entidades ↔ conceitos** — Espíritos citados em C&I e outras obras devem linkar para os conceitos que suas histórias ilustram
+- [ ] **Personalidades ↔ conceitos** — Espíritos citados em C&I e outras obras devem linkar para os conceitos que suas histórias ilustram
 - [ ] **Obras ↔ obras** — referências cruzadas quando uma obra cita ou complementa outra (ex: Gênese referencia LE em vários pontos)
-- [ ] **Grafo temático** — considerar criar "hub pages" por tema que agreguem todos os links relevantes (ex: hub de "Mediunidade" linkando conceitos, entidades, obras, questões)
+- [ ] **Grafo temático** — considerar criar "hub pages" por tema que agreguem todos os links relevantes (ex: hub de "Mediunidade" linkando conceitos, personalidades, obras, questões)
 
 ---
 
@@ -56,7 +56,7 @@ A wiki tem links, mas pode ser mais densa em conexões — o grafo do Quartz fic
 Hoje o lint roda sob demanda. Automatizar para manter a qualidade conforme a wiki cresce.
 
 - [x] **Lint em CI** — `lint_wiki.py` roda no GitHub Actions (`deploy-wiki.yml`) em cada push
-- [ ] **Métricas de cobertura** — script que gera relatório: % do Pentateuco coberto, conceitos sem página própria, entidades mencionadas mas sem página, razão conceitos/questões
+- [ ] **Métricas de cobertura** — script que gera relatório: % do Pentateuco coberto, conceitos sem página própria, personalidades mencionadas mas sem página, razão conceitos/questões
 - [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após cada deploy
 - [ ] **Lint evolutivo** — adicionar checks: páginas com poucas citações, conceitos referenciados em 5+ páginas mas sem página própria, inconsistências de nomenclatura entre páginas
 

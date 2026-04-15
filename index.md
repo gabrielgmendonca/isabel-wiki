@@ -12,7 +12,7 @@
 
 - **Conceitos** — definições e análises dos temas centrais da Doutrina: reencarnação, leis morais, mediunidade, etc.
 - **Obras** — resumos estruturados das obras de Kardec e de autores complementares.
-- **Entidades** — Espíritos comunicantes, autores e personalidades citadas nas fontes.
+- **Personalidades** — Espíritos comunicantes, autores e personalidades citadas nas fontes.
 - **Questões** — perguntas-chave com resposta dos Espíritos e comentário de Kardec.
 - **Sínteses** — análises comparativas entre obras e temas.
 - **Divergências** — pontos em que autores complementares diferem do Pentateuco, registrados com transparência.
@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 14 fontes complementares (incluindo Evangelho segundo João). ~208 páginas entre conceitos, obras, entidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + 14 fontes complementares (incluindo Evangelho segundo João). ~208 páginas entre conceitos, obras, personalidades, questões e sínteses.
 
 ---
 
@@ -151,47 +151,47 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — LE, q. 873–892.
 - [[wiki/conceitos/perfeicao-moral]] — virtudes, egoísmo (LE, q. 893–919).
 
-## Entidades
+## Personalidades
 
-- [[wiki/entidades/allan-kardec]] — codificador.
-- [[wiki/entidades/espiritos-reveladores]] — coletivo dos Espíritos do LE.
-- [[wiki/entidades/jesus]] — tipo da perfeição moral (LE, q. 625).
-- [[wiki/entidades/sao-luis]] — revelador no LE, instrutor principal no LM.
-- [[wiki/entidades/santo-agostinho]] — revelador no LE e comunicante frequente no ESE.
-- [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
-- [[wiki/entidades/leon-denis]] — Léon Denis (1846–1927), filósofo espírita, continuador da obra de Kardec.
-- [[wiki/entidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
-- [[wiki/entidades/vinicius]] — Vinícius (Pedro de Camargo, 1878–1966), escritor espírita, comentarista do Evangelho.
-- [[wiki/entidades/carlos-mendonca]] — Carlos Mendonça, palestrante do Centro Espírita Bezerra de Menezes de Estácio.
-- [[wiki/entidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
-- [[wiki/entidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
-- [[wiki/entidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
-- [[wiki/entidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
-- [[wiki/entidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
-- [[wiki/entidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
+- [[wiki/personalidades/allan-kardec]] — codificador.
+- [[wiki/personalidades/espiritos-reveladores]] — coletivo dos Espíritos do LE.
+- [[wiki/personalidades/jesus]] — tipo da perfeição moral (LE, q. 625).
+- [[wiki/personalidades/sao-luis]] — revelador no LE, instrutor principal no LM.
+- [[wiki/personalidades/santo-agostinho]] — revelador no LE e comunicante frequente no ESE.
+- [[wiki/personalidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
+- [[wiki/personalidades/leon-denis]] — Léon Denis (1846–1927), filósofo espírita, continuador da obra de Kardec.
+- [[wiki/personalidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
+- [[wiki/personalidades/vinicius]] — Vinícius (Pedro de Camargo, 1878–1966), escritor espírita, comentarista do Evangelho.
+- [[wiki/personalidades/carlos-mendonca]] — Carlos Mendonça, palestrante do Centro Espírita Bezerra de Menezes de Estácio.
+- [[wiki/personalidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
+- [[wiki/personalidades/meimei]] — Meimei (Irma), Espírito comunicante via Chico Xavier, símbolo do amor conjugal além-túmulo.
+- [[wiki/personalidades/mansao-do-caminho]] — Mansão do Caminho (1952, Salvador-BA), obra assistencial cofundada por Divaldo Franco.
+- [[wiki/personalidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
+- [[wiki/personalidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
+- [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
 **Cap. II — Espíritos felizes** (18):
-[[wiki/entidades/sr-sanson]] · [[wiki/entidades/morte-do-justo]] · [[wiki/entidades/sr-jobard]] · [[wiki/entidades/samuel-philippe]] · [[wiki/entidades/sr-van-durst]] · [[wiki/entidades/sixdeniers]] · [[wiki/entidades/doutor-demeure]] · [[wiki/entidades/sra-viuva-foulon]] · [[wiki/entidades/medico-russo]] · [[wiki/entidades/bernardin]] · [[wiki/entidades/condessa-paula]] · [[wiki/entidades/jean-reynaud]] · [[wiki/entidades/antoine-costeau]] · [[wiki/entidades/srta-emma]] · [[wiki/entidades/doutor-vignal]] · [[wiki/entidades/victor-lebufle]] · [[wiki/entidades/sra-anais-gourdon]] · [[wiki/entidades/maurice-gontran]]
+[[wiki/personalidades/sr-sanson]] · [[wiki/personalidades/morte-do-justo]] · [[wiki/personalidades/sr-jobard]] · [[wiki/personalidades/samuel-philippe]] · [[wiki/personalidades/sr-van-durst]] · [[wiki/personalidades/sixdeniers]] · [[wiki/personalidades/doutor-demeure]] · [[wiki/personalidades/sra-viuva-foulon]] · [[wiki/personalidades/medico-russo]] · [[wiki/personalidades/bernardin]] · [[wiki/personalidades/condessa-paula]] · [[wiki/personalidades/jean-reynaud]] · [[wiki/personalidades/antoine-costeau]] · [[wiki/personalidades/srta-emma]] · [[wiki/personalidades/doutor-vignal]] · [[wiki/personalidades/victor-lebufle]] · [[wiki/personalidades/sra-anais-gourdon]] · [[wiki/personalidades/maurice-gontran]]
 
 **Cap. III — Espíritos em condição média** (6):
-[[wiki/entidades/joseph-bre]] · [[wiki/entidades/sra-helene-michel]] · [[wiki/entidades/marques-de-saint-paul]] · [[wiki/entidades/sr-cardon]] · [[wiki/entidades/eric-stanislas]] · [[wiki/entidades/sra-anna-belleville]]
+[[wiki/personalidades/joseph-bre]] · [[wiki/personalidades/sra-helene-michel]] · [[wiki/personalidades/marques-de-saint-paul]] · [[wiki/personalidades/sr-cardon]] · [[wiki/personalidades/eric-stanislas]] · [[wiki/personalidades/sra-anna-belleville]]
 
 **Cap. IV — Espíritos sofredores** (10):
-[[wiki/entidades/o-castigo]] · [[wiki/entidades/novel]] · [[wiki/entidades/auguste-michel]] · [[wiki/entidades/arrependimento-de-um-dissoluto]] · [[wiki/entidades/lisbeth]] · [[wiki/entidades/principe-ouran]] · [[wiki/entidades/pascal-lavic]] · [[wiki/entidades/ferdinand-bertin]] · [[wiki/entidades/francois-riquier]] · [[wiki/entidades/claire]]
+[[wiki/personalidades/o-castigo]] · [[wiki/personalidades/novel]] · [[wiki/personalidades/auguste-michel]] · [[wiki/personalidades/arrependimento-de-um-dissoluto]] · [[wiki/personalidades/lisbeth]] · [[wiki/personalidades/principe-ouran]] · [[wiki/personalidades/pascal-lavic]] · [[wiki/personalidades/ferdinand-bertin]] · [[wiki/personalidades/francois-riquier]] · [[wiki/personalidades/claire]]
 
 **Cap. V — Suicidas** (9):
-[[wiki/entidades/suicida-da-samaritaine]] · [[wiki/entidades/pai-e-o-recruta]] · [[wiki/entidades/louvet-francois-simon]] · [[wiki/entidades/mae-e-seu-filho]] · [[wiki/entidades/duplo-suicidio-por-amor-e-por-dever]] · [[wiki/entidades/louis-e-a-costureira-de-botinas]] · [[wiki/entidades/um-ateu]] · [[wiki/entidades/sr-felicien]] · [[wiki/entidades/antoine-bell]]
+[[wiki/personalidades/suicida-da-samaritaine]] · [[wiki/personalidades/pai-e-o-recruta]] · [[wiki/personalidades/louvet-francois-simon]] · [[wiki/personalidades/mae-e-seu-filho]] · [[wiki/personalidades/duplo-suicidio-por-amor-e-por-dever]] · [[wiki/personalidades/louis-e-a-costureira-de-botinas]] · [[wiki/personalidades/um-ateu]] · [[wiki/personalidades/sr-felicien]] · [[wiki/personalidades/antoine-bell]]
 
 **Cap. VI — Criminosos arrependidos** (5):
-[[wiki/entidades/verger]] · [[wiki/entidades/lemaire]] · [[wiki/entidades/benoist]] · [[wiki/entidades/espirito-de-castelnaudary]] · [[wiki/entidades/jacques-latour]]
+[[wiki/personalidades/verger]] · [[wiki/personalidades/lemaire]] · [[wiki/personalidades/benoist]] · [[wiki/personalidades/espirito-de-castelnaudary]] · [[wiki/personalidades/jacques-latour]]
 
 **Cap. VII — Espíritos endurecidos** (5):
-[[wiki/entidades/lapommeray]] · [[wiki/entidades/angele]] · [[wiki/entidades/espirito-aborrecido]] · [[wiki/entidades/rainha-de-oude]] · [[wiki/entidades/xumene]]
+[[wiki/personalidades/lapommeray]] · [[wiki/personalidades/angele]] · [[wiki/personalidades/espirito-aborrecido]] · [[wiki/personalidades/rainha-de-oude]] · [[wiki/personalidades/xumene]]
 
 **Cap. VIII — Expiações terrestres** (14):
-[[wiki/entidades/marcel]] · [[wiki/entidades/szymel-slizgol]] · [[wiki/entidades/julienne-marie]] · [[wiki/entidades/max]] · [[wiki/entidades/empregado-domestico]] · [[wiki/entidades/antonio-b]] · [[wiki/entidades/sr-letil]] · [[wiki/entidades/cientista-ambicioso]] · [[wiki/entidades/charles-de-saint-g]] · [[wiki/entidades/adelaide-marguerite-gosse]] · [[wiki/entidades/clara-rivier]] · [[wiki/entidades/francoise-vernhes]] · [[wiki/entidades/anna-bitter]] · [[wiki/entidades/joseph-maitre]]
+[[wiki/personalidades/marcel]] · [[wiki/personalidades/szymel-slizgol]] · [[wiki/personalidades/julienne-marie]] · [[wiki/personalidades/max]] · [[wiki/personalidades/empregado-domestico]] · [[wiki/personalidades/antonio-b]] · [[wiki/personalidades/sr-letil]] · [[wiki/personalidades/cientista-ambicioso]] · [[wiki/personalidades/charles-de-saint-g]] · [[wiki/personalidades/adelaide-marguerite-gosse]] · [[wiki/personalidades/clara-rivier]] · [[wiki/personalidades/francoise-vernhes]] · [[wiki/personalidades/anna-bitter]] · [[wiki/personalidades/joseph-maitre]]
 
 ### Vida espírita e prática do Espiritismo
 - [[wiki/conceitos/verdadeiro-espirita]] — três categorias de espíritas, o espírita cristão (Viagem Espírita em 1862; ESE, cap. XVII).

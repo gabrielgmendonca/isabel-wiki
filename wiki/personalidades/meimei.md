@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: []
 tags: [espirito-comunicante, psicografia, chico-xavier]
 atualizado_em: 2026-04-07
@@ -32,7 +32,7 @@ O episódio é relatado por Divaldo Franco como exemplo da realidade da comunica
 - [[wiki/conceitos/psicografia]] — meio pelo qual Meimei se comunicou
 - [[wiki/conceitos/separacao-e-reencontro]] — a morte separa corpos, não Espíritos
 - [[wiki/conceitos/morte]] — Meimei como exemplo de continuidade da vida
-- [[wiki/entidades/divaldo-franco]] — narrador do episódio
+- [[wiki/personalidades/divaldo-franco]] — narrador do episódio
 
 ## Fontes
 

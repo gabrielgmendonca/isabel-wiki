@@ -45,7 +45,7 @@ A parábola convida cada espírita a um exame de consciência honesto: em qual t
 - [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/homem-de-bem]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]]
-- [[wiki/entidades/vinicius]]
+- [[wiki/personalidades/vinicius]]
 
 ## Fontes
 

@@ -28,8 +28,8 @@ Ao iniciar, **entre em plan mode** (`EnterPlanMode`). Isso impede escrita aciden
 
 Após confirmação do usuário, **saia de plan mode** (`ExitPlanMode`) e execute:
 
-3. **Criar** `wiki/obras/<slug>.md` ou `wiki/entidades/<slug>.md`.
-4. **Extrair** entidades e conceitos: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
+3. **Criar** `wiki/obras/<slug>.md` ou `wiki/personalidades/<slug>.md`.
+4. **Extrair** personalidades e conceitos: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
 5. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 6. **Atualizar `index.md`** com links e resumos das páginas novas.
 7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.

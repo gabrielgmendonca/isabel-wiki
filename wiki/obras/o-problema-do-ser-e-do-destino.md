@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/leon-denis]] (1846–1927)
+- **Autor:** [[wiki/personalidades/leon-denis]] (1846–1927)
 - **Título original:** *Le problème de l'être et de la destinée*
 - **Primeira edição francesa:** 1908 (após o Congresso de Liège de 1905)
 - **Edição utilizada:** 1922 — revista e ampliada pelo autor; última publicada durante sua encarnação
@@ -106,10 +106,10 @@ Compilação de declarações de cientistas favoráveis à realidade dos fenôme
 - [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
 - [[wiki/conceitos/mediunidade]]
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/leon-denis]] — autor
-- [[wiki/entidades/allan-kardec]] — referência constante como codificador
+- [[wiki/personalidades/leon-denis]] — autor
+- [[wiki/personalidades/allan-kardec]] — referência constante como codificador
 
 ## Divergências
 

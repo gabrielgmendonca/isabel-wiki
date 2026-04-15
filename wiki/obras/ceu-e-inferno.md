@@ -82,103 +82,103 @@ A obra se divide em **duas partes**: a primeira doutrinária (11 capítulos), a 
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/sr-sanson]] | Feliz; desprendimento rápido (8 h) | Fé espírita facilita a passagem |
-| [[wiki/entidades/morte-do-justo]] | Feliz; morte calma | Vida reta conduz a despertar sereno |
-| [[wiki/entidades/sr-jobard]] | Feliz; espanto com a nova realidade | Surpresa alegre do Espírito esclarecido |
-| [[wiki/entidades/samuel-philippe]] | Feliz; trabalhador humilde | Mérito do trabalho e da resignação |
-| [[wiki/entidades/sr-van-durst]] | Feliz; morte serena | Caridade praticada recompensada |
-| [[wiki/entidades/sixdeniers]] | Feliz; mendigo virtuoso | Pobreza aceita com dignidade é progresso |
-| [[wiki/entidades/doutor-demeure]] | Feliz; médium e médico | Mediunidade como missão cumprida |
-| [[wiki/entidades/sra-viuva-foulon]] | Feliz; mãe devotada | Amor materno e abnegação premiados |
-| [[wiki/entidades/medico-russo]] | Feliz; cientista caridoso | Ciência a serviço do próximo |
-| [[wiki/entidades/bernardin]] | Feliz; jovem falecido | Missão cumprida apesar de vida curta |
-| [[wiki/entidades/condessa-paula]] | Feliz; aristocrata caridosa | Nobreza moral acima da social |
-| [[wiki/entidades/jean-reynaud]] | Feliz; filósofo espiritualista | Busca sincera da verdade recompensada |
-| [[wiki/entidades/antoine-costeau]] | Feliz; operário simples | Humildade e trabalho honesto |
-| [[wiki/entidades/srta-emma]] | Feliz; jovem falecida | Pureza de alma e resignação |
-| [[wiki/entidades/doutor-vignal]] | Feliz; médico e espírita | Ciência aliada à fé |
-| [[wiki/entidades/victor-lebufle]] | Feliz; criança | Inocência e encarnação breve como prova |
-| [[wiki/entidades/sra-anais-gourdon]] | Feliz; mãe espírita | Consolo espírita diante da morte |
-| [[wiki/entidades/maurice-gontran]] | Feliz; criança | Encarnação breve como missão de consolação |
+| [[wiki/personalidades/sr-sanson]] | Feliz; desprendimento rápido (8 h) | Fé espírita facilita a passagem |
+| [[wiki/personalidades/morte-do-justo]] | Feliz; morte calma | Vida reta conduz a despertar sereno |
+| [[wiki/personalidades/sr-jobard]] | Feliz; espanto com a nova realidade | Surpresa alegre do Espírito esclarecido |
+| [[wiki/personalidades/samuel-philippe]] | Feliz; trabalhador humilde | Mérito do trabalho e da resignação |
+| [[wiki/personalidades/sr-van-durst]] | Feliz; morte serena | Caridade praticada recompensada |
+| [[wiki/personalidades/sixdeniers]] | Feliz; mendigo virtuoso | Pobreza aceita com dignidade é progresso |
+| [[wiki/personalidades/doutor-demeure]] | Feliz; médium e médico | Mediunidade como missão cumprida |
+| [[wiki/personalidades/sra-viuva-foulon]] | Feliz; mãe devotada | Amor materno e abnegação premiados |
+| [[wiki/personalidades/medico-russo]] | Feliz; cientista caridoso | Ciência a serviço do próximo |
+| [[wiki/personalidades/bernardin]] | Feliz; jovem falecido | Missão cumprida apesar de vida curta |
+| [[wiki/personalidades/condessa-paula]] | Feliz; aristocrata caridosa | Nobreza moral acima da social |
+| [[wiki/personalidades/jean-reynaud]] | Feliz; filósofo espiritualista | Busca sincera da verdade recompensada |
+| [[wiki/personalidades/antoine-costeau]] | Feliz; operário simples | Humildade e trabalho honesto |
+| [[wiki/personalidades/srta-emma]] | Feliz; jovem falecida | Pureza de alma e resignação |
+| [[wiki/personalidades/doutor-vignal]] | Feliz; médico e espírita | Ciência aliada à fé |
+| [[wiki/personalidades/victor-lebufle]] | Feliz; criança | Inocência e encarnação breve como prova |
+| [[wiki/personalidades/sra-anais-gourdon]] | Feliz; mãe espírita | Consolo espírita diante da morte |
+| [[wiki/personalidades/maurice-gontran]] | Feliz; criança | Encarnação breve como missão de consolação |
 
 ### Cap. III — Espíritos em condição média
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/joseph-bre]] | Médio; apegado à matéria | Apego terreno retarda o progresso |
-| [[wiki/entidades/sra-helene-michel]] | Médio; arrependida de faltas leves | Pequenas faltas geram sofrimento proporcionado |
-| [[wiki/entidades/marques-de-saint-paul]] | Médio; orgulho aristocrático | Vaidade social sem valor no mundo espiritual |
-| [[wiki/entidades/sr-cardon]] | Médio; indiferente ao progresso | Inércia espiritual prolonga estagnação |
-| [[wiki/entidades/eric-stanislas]] | Médio; preso à vida terrestre | Materialismo dificulta desprendimento |
-| [[wiki/entidades/sra-anna-belleville]] | Médio; ilusões terrestres | Futilidade das preocupações mundanas |
+| [[wiki/personalidades/joseph-bre]] | Médio; apegado à matéria | Apego terreno retarda o progresso |
+| [[wiki/personalidades/sra-helene-michel]] | Médio; arrependida de faltas leves | Pequenas faltas geram sofrimento proporcionado |
+| [[wiki/personalidades/marques-de-saint-paul]] | Médio; orgulho aristocrático | Vaidade social sem valor no mundo espiritual |
+| [[wiki/personalidades/sr-cardon]] | Médio; indiferente ao progresso | Inércia espiritual prolonga estagnação |
+| [[wiki/personalidades/eric-stanislas]] | Médio; preso à vida terrestre | Materialismo dificulta desprendimento |
+| [[wiki/personalidades/sra-anna-belleville]] | Médio; ilusões terrestres | Futilidade das preocupações mundanas |
 
 ### Cap. IV — Espíritos sofredores
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/o-castigo]] | Sofredor; expiação pelo remorso | Consciência como juiz implacável |
-| [[wiki/entidades/novel]] | Sofredor; apego à matéria | Materialismo gera trevas espirituais |
-| [[wiki/entidades/auguste-michel]] | Sofredor; incredulidade | Negação de Deus prolonga perturbação |
-| [[wiki/entidades/arrependimento-de-um-dissoluto]] | Sofredor; arrependido | Dissolução moral gera sofrimento proporcional |
-| [[wiki/entidades/lisbeth]] | Sofredora; orgulho e egoísmo | Egoísmo punido pelo isolamento |
-| [[wiki/entidades/principe-ouran]] | Sofredor; tirano | Abuso de poder expiado em sofrimento |
-| [[wiki/entidades/pascal-lavic]] | Sofredor; arrependido | Arrependimento tardio mas sincero |
-| [[wiki/entidades/ferdinand-bertin]] | Sofredor; assassino | Crime expiado pela visão incessante da vítima |
-| [[wiki/entidades/francois-riquier]] | Sofredor; avareza | Avareza punida pela perda de tudo |
-| [[wiki/entidades/claire]] | Sofredora; suicida por amor | Paixão desordenada como fonte de sofrimento |
+| [[wiki/personalidades/o-castigo]] | Sofredor; expiação pelo remorso | Consciência como juiz implacável |
+| [[wiki/personalidades/novel]] | Sofredor; apego à matéria | Materialismo gera trevas espirituais |
+| [[wiki/personalidades/auguste-michel]] | Sofredor; incredulidade | Negação de Deus prolonga perturbação |
+| [[wiki/personalidades/arrependimento-de-um-dissoluto]] | Sofredor; arrependido | Dissolução moral gera sofrimento proporcional |
+| [[wiki/personalidades/lisbeth]] | Sofredora; orgulho e egoísmo | Egoísmo punido pelo isolamento |
+| [[wiki/personalidades/principe-ouran]] | Sofredor; tirano | Abuso de poder expiado em sofrimento |
+| [[wiki/personalidades/pascal-lavic]] | Sofredor; arrependido | Arrependimento tardio mas sincero |
+| [[wiki/personalidades/ferdinand-bertin]] | Sofredor; assassino | Crime expiado pela visão incessante da vítima |
+| [[wiki/personalidades/francois-riquier]] | Sofredor; avareza | Avareza punida pela perda de tudo |
+| [[wiki/personalidades/claire]] | Sofredora; suicida por amor | Paixão desordenada como fonte de sofrimento |
 
 ### Cap. V — Suicidas
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/suicida-da-samaritaine]] | Sofredor; ligado ao corpo | Suicídio não liberta, aprisiona |
-| [[wiki/entidades/pai-e-o-recruta]] | Sofredor; remorso pelo filho | Suicídio por desespero familiar |
-| [[wiki/entidades/louvet-francois-simon]] | Sofredor; arrependido | Arrependimento pós-suicídio |
-| [[wiki/entidades/mae-e-seu-filho]] | Sofredora; suicídio com filho | Responsabilidade agravada |
-| [[wiki/entidades/duplo-suicidio-por-amor-e-por-dever]] | Sofredores; casal | Paixão não justifica o suicídio |
-| [[wiki/entidades/louis-e-a-costureira-de-botinas]] | Sofredor; miséria | Pobreza não justifica o suicídio |
-| [[wiki/entidades/um-ateu]] | Sofredor; negava a vida futura | Incredulidade agrava perturbação |
-| [[wiki/entidades/sr-felicien]] | Sofredor; tédio da vida | Tédio não justifica o suicídio |
-| [[wiki/entidades/antoine-bell]] | Sofredor; remorso | Suicídio como fuga frustrada |
+| [[wiki/personalidades/suicida-da-samaritaine]] | Sofredor; ligado ao corpo | Suicídio não liberta, aprisiona |
+| [[wiki/personalidades/pai-e-o-recruta]] | Sofredor; remorso pelo filho | Suicídio por desespero familiar |
+| [[wiki/personalidades/louvet-francois-simon]] | Sofredor; arrependido | Arrependimento pós-suicídio |
+| [[wiki/personalidades/mae-e-seu-filho]] | Sofredora; suicídio com filho | Responsabilidade agravada |
+| [[wiki/personalidades/duplo-suicidio-por-amor-e-por-dever]] | Sofredores; casal | Paixão não justifica o suicídio |
+| [[wiki/personalidades/louis-e-a-costureira-de-botinas]] | Sofredor; miséria | Pobreza não justifica o suicídio |
+| [[wiki/personalidades/um-ateu]] | Sofredor; negava a vida futura | Incredulidade agrava perturbação |
+| [[wiki/personalidades/sr-felicien]] | Sofredor; tédio da vida | Tédio não justifica o suicídio |
+| [[wiki/personalidades/antoine-bell]] | Sofredor; remorso | Suicídio como fuga frustrada |
 
 ### Cap. VI — Criminosos arrependidos
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/verger]] | Arrependido; assassino | Arrependimento sincero abre caminho à reparação |
-| [[wiki/entidades/lemaire]] | Arrependido; assassino | Remorso como primeiro passo do progresso |
-| [[wiki/entidades/benoist]] | Arrependido; infanticida | Crime hediondo expiável pelo arrependimento |
-| [[wiki/entidades/espirito-de-castelnaudary]] | Arrependido; criminoso | Confissão espiritual e desejo de reparar |
-| [[wiki/entidades/jacques-latour]] | Arrependido; criminoso executado | Pena de morte não resolve; arrependimento sim |
+| [[wiki/personalidades/verger]] | Arrependido; assassino | Arrependimento sincero abre caminho à reparação |
+| [[wiki/personalidades/lemaire]] | Arrependido; assassino | Remorso como primeiro passo do progresso |
+| [[wiki/personalidades/benoist]] | Arrependido; infanticida | Crime hediondo expiável pelo arrependimento |
+| [[wiki/personalidades/espirito-de-castelnaudary]] | Arrependido; criminoso | Confissão espiritual e desejo de reparar |
+| [[wiki/personalidades/jacques-latour]] | Arrependido; criminoso executado | Pena de morte não resolve; arrependimento sim |
 
 ### Cap. VII — Espíritos endurecidos
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/lapommeray]] | Endurecido; assassino sem remorso | Obstinação no mal prolonga sofrimento indefinidamente |
-| [[wiki/entidades/angele]] | Endurecida; nulidade moral | Vida inútil é falta grave |
-| [[wiki/entidades/espirito-aborrecido]] | Endurecido; entediado | Tédio espiritual como castigo |
-| [[wiki/entidades/rainha-de-oude]] | Endurecida; orgulho régio | Poder terreno nada vale no além |
-| [[wiki/entidades/xumene]] | Endurecido; bárbaro | Barbárie e brutalidade geram trevas |
+| [[wiki/personalidades/lapommeray]] | Endurecido; assassino sem remorso | Obstinação no mal prolonga sofrimento indefinidamente |
+| [[wiki/personalidades/angele]] | Endurecida; nulidade moral | Vida inútil é falta grave |
+| [[wiki/personalidades/espirito-aborrecido]] | Endurecido; entediado | Tédio espiritual como castigo |
+| [[wiki/personalidades/rainha-de-oude]] | Endurecida; orgulho régio | Poder terreno nada vale no além |
+| [[wiki/personalidades/xumene]] | Endurecido; bárbaro | Barbárie e brutalidade geram trevas |
 
 ### Cap. VIII — Expiações terrestres
 
 | Espírito | Situação | Lição principal |
 |----------|----------|-----------------|
-| [[wiki/entidades/marcel]] | Expiação terrestre; criança enferma | Sofrimento infantil como expiação de vida anterior |
-| [[wiki/entidades/szymel-slizgol]] | Expiação terrestre; mendigo caridoso | Tirano renascido como mendigo por escolha reparadora |
-| [[wiki/entidades/julienne-marie]] | Expiação terrestre; mendiga resignada | Pobreza aceita como resgate do orgulho |
-| [[wiki/entidades/max]] | Expiação terrestre; enfermo | Doença como prova purificadora |
-| [[wiki/entidades/empregado-domestico]] | Expiação terrestre; servidão | Servidão como expiação de abuso de poder |
-| [[wiki/entidades/antonio-b]] | Expiação terrestre; cego | Cegueira como expiação |
-| [[wiki/entidades/sr-letil]] | Expiação terrestre; paralítico | Paralisia como prova escolhida |
-| [[wiki/entidades/cientista-ambicioso]] | Expiação terrestre; frustração | Ambição sem caridade punida |
-| [[wiki/entidades/charles-de-saint-g]] | Expiação terrestre; idiota | Idiotia como expiação do abuso da inteligência |
-| [[wiki/entidades/adelaide-marguerite-gosse]] | Expiação terrestre; sofrimento físico | Provação aceita com fé |
-| [[wiki/entidades/clara-rivier]] | Expiação terrestre; doença | Resignação como motor do progresso |
-| [[wiki/entidades/francoise-vernhes]] | Expiação terrestre; miséria | Miséria como escola moral |
-| [[wiki/entidades/anna-bitter]] | Expiação terrestre; sofrimento | Dor como resgate |
-| [[wiki/entidades/joseph-maitre]] | Expiação terrestre; cego e paralítico | Dupla enfermidade como expiação proporcional |
+| [[wiki/personalidades/marcel]] | Expiação terrestre; criança enferma | Sofrimento infantil como expiação de vida anterior |
+| [[wiki/personalidades/szymel-slizgol]] | Expiação terrestre; mendigo caridoso | Tirano renascido como mendigo por escolha reparadora |
+| [[wiki/personalidades/julienne-marie]] | Expiação terrestre; mendiga resignada | Pobreza aceita como resgate do orgulho |
+| [[wiki/personalidades/max]] | Expiação terrestre; enfermo | Doença como prova purificadora |
+| [[wiki/personalidades/empregado-domestico]] | Expiação terrestre; servidão | Servidão como expiação de abuso de poder |
+| [[wiki/personalidades/antonio-b]] | Expiação terrestre; cego | Cegueira como expiação |
+| [[wiki/personalidades/sr-letil]] | Expiação terrestre; paralítico | Paralisia como prova escolhida |
+| [[wiki/personalidades/cientista-ambicioso]] | Expiação terrestre; frustração | Ambição sem caridade punida |
+| [[wiki/personalidades/charles-de-saint-g]] | Expiação terrestre; idiota | Idiotia como expiação do abuso da inteligência |
+| [[wiki/personalidades/adelaide-marguerite-gosse]] | Expiação terrestre; sofrimento físico | Provação aceita com fé |
+| [[wiki/personalidades/clara-rivier]] | Expiação terrestre; doença | Resignação como motor do progresso |
+| [[wiki/personalidades/francoise-vernhes]] | Expiação terrestre; miséria | Miséria como escola moral |
+| [[wiki/personalidades/anna-bitter]] | Expiação terrestre; sofrimento | Dor como resgate |
+| [[wiki/personalidades/joseph-maitre]] | Expiação terrestre; cego e paralítico | Dupla enfermidade como expiação proporcional |
 
 ## Como citar
 
@@ -190,8 +190,8 @@ Formato padrão desta wiki:
 
 ## Entidades relacionadas
 
-- Codificador: [[wiki/entidades/allan-kardec]]
-- Santo Agostinho — comunicante na 2ª parte: [[wiki/entidades/santo-agostinho]]
+- Codificador: [[wiki/personalidades/allan-kardec]]
+- Santo Agostinho — comunicante na 2ª parte: [[wiki/personalidades/santo-agostinho]]
 
 ## Fontes
 

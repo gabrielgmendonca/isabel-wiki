@@ -30,7 +30,7 @@ O Espírito errante **escolhe** o gênero de provas por que passará na próxima
 
 ## Atividades no estado errante
 
-Os Espíritos não ficam ociosos: concorrem para a harmonia do Universo executando a vontade de Deus, e podem ser encarregados de missões variadas (LE, q. 558, q. 569). Ver [[wiki/entidades/espiritos-reveladores]].
+Os Espíritos não ficam ociosos: concorrem para a harmonia do Universo executando a vontade de Deus, e podem ser encarregados de missões variadas (LE, q. 558, q. 569). Ver [[wiki/personalidades/espiritos-reveladores]].
 
 ## Páginas relacionadas
 

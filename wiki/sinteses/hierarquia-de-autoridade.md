@@ -220,10 +220,10 @@ Um autor ou Espírito comunicante entra neste nível quando:
 
 #### Autores e Espíritos comunicantes
 
-- **Léon Denis** (1846–1927) — filósofo espírita francês, considerado o "apóstolo do Espiritismo". Continuador direto de Kardec. Obras na wiki: *Depois da Morte*, *Cristianismo e Espiritismo*, *O Problema do Ser e do Destino*, *O Grande Enigma*. Ver [[wiki/entidades/leon-denis]].
-- **Chico Xavier** (1910–2002) — médium psicógrafo brasileiro, mais de 400 obras. Canal de Emmanuel, André Luiz e dezenas de outros Espíritos. Ver [[wiki/entidades/chico-xavier]].
-- **Emmanuel** — guia espiritual de Chico Xavier. Autor espiritual de *A Caminho da Luz*, *O Consolador*, entre outros. Ver [[wiki/entidades/emmanuel]].
-- **Divaldo Franco** (1927–2025) — médium, orador, cofundador da Mansão do Caminho. Canal de Joanna de Ângelis e outros. Ver [[wiki/entidades/divaldo-franco]].
+- **Léon Denis** (1846–1927) — filósofo espírita francês, considerado o "apóstolo do Espiritismo". Continuador direto de Kardec. Obras na wiki: *Depois da Morte*, *Cristianismo e Espiritismo*, *O Problema do Ser e do Destino*, *O Grande Enigma*. Ver [[wiki/personalidades/leon-denis]].
+- **Chico Xavier** (1910–2002) — médium psicógrafo brasileiro, mais de 400 obras. Canal de Emmanuel, André Luiz e dezenas de outros Espíritos. Ver [[wiki/personalidades/chico-xavier]].
+- **Emmanuel** — guia espiritual de Chico Xavier. Autor espiritual de *A Caminho da Luz*, *O Consolador*, entre outros. Ver [[wiki/personalidades/emmanuel]].
+- **Divaldo Franco** (1927–2025) — médium, orador, cofundador da Mansão do Caminho. Canal de Joanna de Ângelis e outros. Ver [[wiki/personalidades/divaldo-franco]].
 - **Cairbar Schutel**, **Martins Peralva**, **Eurípedes Barsanulfo**, **Bezerra de Menezes**, **André Luiz**, **Joanna de Ângelis** — e outros alinhados à codificação.
 
 #### Escritos apostólicos (Paulo, Pedro, João, Tiago)
@@ -276,13 +276,13 @@ A exclusão não implica juízo de valor sobre essas tradições — apenas deli
 - [[wiki/obras/cristianismo-e-espiritismo]] — Léon Denis, análise do Cristianismo primitivo e dos Evangelhos
 
 ### Entidades e conceitos
-- [[wiki/entidades/jesus]] — tipo da perfeição moral (LE, q. 625)
-- [[wiki/entidades/allan-kardec]] — codificador
-- [[wiki/entidades/leon-denis]] — continuador de Kardec
-- [[wiki/entidades/emmanuel]] — guia espiritual de Chico Xavier
-- [[wiki/entidades/chico-xavier]] — médium psicógrafo
-- [[wiki/entidades/divaldo-franco]] — médium e orador
-- [[wiki/entidades/erasto]] — discípulo de S. Paulo, comunicante no ESE e LM
+- [[wiki/personalidades/jesus]] — tipo da perfeição moral (LE, q. 625)
+- [[wiki/personalidades/allan-kardec]] — codificador
+- [[wiki/personalidades/leon-denis]] — continuador de Kardec
+- [[wiki/personalidades/emmanuel]] — guia espiritual de Chico Xavier
+- [[wiki/personalidades/chico-xavier]] — médium psicógrafo
+- [[wiki/personalidades/divaldo-franco]] — médium e orador
+- [[wiki/personalidades/erasto]] — discípulo de S. Paulo, comunicante no ESE e LM
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo (ESE, cap. I)
 
 ## Fontes

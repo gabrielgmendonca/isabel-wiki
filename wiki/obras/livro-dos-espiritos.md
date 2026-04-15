@@ -176,11 +176,11 @@ Formato padrão desta wiki:
 
 ## Entidades relacionadas
 
-- Codificador: [[wiki/entidades/allan-kardec]]
-- Espíritos reveladores: [[wiki/entidades/espiritos-reveladores]]
-- Jesus — tipo da perfeição moral: [[wiki/entidades/jesus]]
-- São Luís — revelador nomeado: [[wiki/entidades/sao-luis]]
-- Santo Agostinho — revelador nomeado: [[wiki/entidades/santo-agostinho]]
+- Codificador: [[wiki/personalidades/allan-kardec]]
+- Espíritos reveladores: [[wiki/personalidades/espiritos-reveladores]]
+- Jesus — tipo da perfeição moral: [[wiki/personalidades/jesus]]
+- São Luís — revelador nomeado: [[wiki/personalidades/sao-luis]]
+- Santo Agostinho — revelador nomeado: [[wiki/personalidades/santo-agostinho]]
 
 ## Fontes
 

@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, expiacoes-terrestres, obra/ci]
 atualizado_em: 2026-04-06
@@ -29,7 +29,7 @@ Confirmou ter sido enterrado vivo e que esse fim fora previsto e aceito antes do
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/lei-de-causa-e-efeito]]
-- [[wiki/entidades/erasto]]
+- [[wiki/personalidades/erasto]]
 
 ## Fontes
 

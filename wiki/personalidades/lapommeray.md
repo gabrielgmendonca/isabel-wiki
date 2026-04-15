@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, espiritos-endurecidos, obra/ci]
 atualizado_em: 2026-04-06
@@ -33,7 +33,7 @@ Lapommeray permaneceu muito tempo sem arrependimento, mas acabou por se emendar,
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/escala-espirita]]
-- [[wiki/entidades/erasto]]
+- [[wiki/personalidades/erasto]]
 
 ## Fontes
 

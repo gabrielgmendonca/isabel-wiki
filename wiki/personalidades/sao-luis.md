@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [LE, LM]
 tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm]
 atualizado_em: 2026-04-06
@@ -41,7 +41,7 @@ São Luís é o Espírito mais citado nominalmente no LM, atuando como instrutor
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/espiritos-reveladores]] · [[wiki/entidades/allan-kardec]]
+- [[wiki/personalidades/espiritos-reveladores]] · [[wiki/personalidades/allan-kardec]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] — tema em que São Luís é especialmente citado
 
 ## Fontes

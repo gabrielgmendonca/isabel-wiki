@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, espirito-comunicante, chico-xavier]
 atualizado_em: 2026-04-07
@@ -28,8 +28,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/chico-xavier]] — médium que psicografou suas obras
-- [[wiki/entidades/jesus]] — figura central dos ensinamentos de Emmanuel
+- [[wiki/personalidades/chico-xavier]] — médium que psicografou suas obras
+- [[wiki/personalidades/jesus]] — figura central dos ensinamentos de Emmanuel
 - [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

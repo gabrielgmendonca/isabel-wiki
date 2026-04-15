@@ -49,7 +49,7 @@ A obra divide-se em duas partes, precedidas de textos prefaciais:
    - §VIII O Verbo se fez carne
    - §IX O Filho de Deus e o Filho do homem
 
-   Kardec conclui que Jesus é Espírito puro da mais alta ordem, "Filho bem-amado de Deus" por ter alcançado a perfeição, mas não Deus encarnado. Os milagres são fenômenos naturais explicáveis pelos fluidos; as palavras de Jesus afirmam sistematicamente sua subordinação ao Pai; os apóstolos e profetas o tratam como enviado e servidor de Deus. O dogma da divindade resulta de decisão dos homens (Concílio de Nicéia, séc. IV), não de revelação divina. Ver [[wiki/entidades/jesus]].
+   Kardec conclui que Jesus é Espírito puro da mais alta ordem, "Filho bem-amado de Deus" por ter alcançado a perfeição, mas não Deus encarnado. Os milagres são fenômenos naturais explicáveis pelos fluidos; as palavras de Jesus afirmam sistematicamente sua subordinação ao Pai; os apóstolos e profetas o tratam como enviado e servidor de Deus. O dogma da divindade resulta de decisão dos homens (Concílio de Nicéia, séc. IV), não de revelação divina. Ver [[wiki/personalidades/jesus]].
 
 10. **Influência perniciosa das ideias materialistas** — sobre as artes e a regeneração pelo Espiritismo.
 11. **Teoria da beleza**
@@ -72,7 +72,7 @@ A obra divide-se em duas partes, precedidas de textos prefaciais:
 
 ### Segunda Parte — Documentos pessoais e previsões
 
-1. **A minha primeira iniciação no Espiritismo** — relato autobiográfico de Kardec (1854–1857). Descreve: primeiro contato com as mesas girantes (1854), visita à Sra. Plainemaison (maio 1855), sessões na família Baudin, adoção do método experimental ("observar, comparar e julgar"), as questões que deram origem a *O Livro dos Espíritos* e a verificação com múltiplos médiuns. Ver [[wiki/entidades/allan-kardec]].
+1. **A minha primeira iniciação no Espiritismo** — relato autobiográfico de Kardec (1854–1857). Descreve: primeiro contato com as mesas girantes (1854), visita à Sra. Plainemaison (maio 1855), sessões na família Baudin, adoção do método experimental ("observar, comparar e julgar"), as questões que deram origem a *O Livro dos Espíritos* e a verificação com múltiplos médiuns. Ver [[wiki/personalidades/allan-kardec]].
 
 2. **Livro das Previsões** — extratos de comunicações mediúnicas de 1855 a 1868, incluindo:
    - Meu Espírito protetor (dez/1855)
@@ -133,11 +133,11 @@ A obra divide-se em duas partes, precedidas de textos prefaciais:
 - [[wiki/conceitos/morte-espiritual]]
 - [[wiki/conceitos/vida-futura]] · [[wiki/conceitos/expiacao]]
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/allan-kardec]] — autor; relato autobiográfico na Segunda Parte
-- [[wiki/entidades/jesus]] — estudo extenso sobre a natureza do Cristo
-- [[wiki/entidades/camille-flammarion]] — discurso no túmulo de Kardec
+- [[wiki/personalidades/allan-kardec]] — autor; relato autobiográfico na Segunda Parte
+- [[wiki/personalidades/jesus]] — estudo extenso sobre a natureza do Cristo
+- [[wiki/personalidades/camille-flammarion]] — discurso no túmulo de Kardec
 
 ## Fontes
 

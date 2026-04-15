@@ -59,11 +59,11 @@ As bem-aventuranças não são meras promessas: são regras práticas para alcan
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — independência entre posse material e pobreza espiritual
 - [[wiki/conceitos/perfeicao-moral]] — conquista de si mesmo pelo domínio das imperfeições
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — autor do Sermão da Montanha
-- [[wiki/entidades/allan-kardec]] — intérprete da pobreza de espírito no ESE
-- [[wiki/entidades/carlos-mendonca]] — palestrante
+- [[wiki/personalidades/jesus]] — autor do Sermão da Montanha
+- [[wiki/personalidades/allan-kardec]] — intérprete da pobreza de espírito no ESE
+- [[wiki/personalidades/carlos-mendonca]] — palestrante
 
 ## Fontes
 

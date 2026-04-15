@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier, NT]
 tags: [jesus, cristo, modelo-moral, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade]
 atualizado_em: 2026-04-15
@@ -108,8 +108,8 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/entidades/espiritos-reveladores]]
-- [[wiki/entidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/personalidades/espiritos-reveladores]]
+- [[wiki/personalidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
 
 ## Fontes
 

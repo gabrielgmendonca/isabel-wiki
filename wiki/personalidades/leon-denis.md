@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [Léon Denis]
 tags: [autor, complementar, filosofo-espirita]
 atualizado_em: 2026-04-07
@@ -59,7 +59,7 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/allan-kardec]] — codificador cuja obra Denis continuou
+- [[wiki/personalidades/allan-kardec]] — codificador cuja obra Denis continuou
 - [[wiki/conceitos/reencarnacao]] — tema central de sua obra filosófica
 - [[wiki/conceitos/potencias-da-alma]] — conceito desenvolvido na Parte 3 de *O Problema do Ser*
 - [[wiki/conceitos/dor]] — a dor como instrumento educativo, tema de destaque

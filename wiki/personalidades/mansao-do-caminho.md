@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: []
 tags: [instituicao, filantropia, atendimento-fraterno, mediunidade]
 atualizado_em: 2026-04-07
@@ -17,7 +17,7 @@ status: rascunho
 
 ## Papel
 
-Uma das maiores obras assistenciais do movimento espírita brasileiro. Fundada em 1952 por [[wiki/entidades/divaldo-franco]] e Nilson de Souza Pereira, a Mansão do Caminho acolhe crianças e jovens em situação de vulnerabilidade, oferecendo educação, moradia e formação profissional.
+Uma das maiores obras assistenciais do movimento espírita brasileiro. Fundada em 1952 por [[wiki/personalidades/divaldo-franco]] e Nilson de Souza Pereira, a Mansão do Caminho acolhe crianças e jovens em situação de vulnerabilidade, oferecendo educação, moradia e formação profissional.
 
 ### Atividades descritas por Divaldo (~2023)
 
@@ -39,7 +39,7 @@ A Mansão está implementando triagem por atendente fraterno: a pessoa é recebi
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/divaldo-franco]] — cofundador e principal referência da instituição
+- [[wiki/personalidades/divaldo-franco]] — cofundador e principal referência da instituição
 - [[wiki/conceitos/obsessao]] — tema central do atendimento mediúnico
 - [[wiki/conceitos/caridade]] — finalidade precípua da Mansão
 - [[wiki/conceitos/mediunidade]] — prática exercida na instituição

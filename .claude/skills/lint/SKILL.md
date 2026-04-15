@@ -27,7 +27,7 @@ Agrupar os resultados do script por severidade:
 - **frontmatter** — campos obrigatórios ausentes ou valores inválidos de `tipo`/`status`.
 
 ### Avisos (revisar)
-- **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki (index.md não conta). Nota: entidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
+- **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki (index.md não conta). Nota: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
 - **fontes_missing** — seção `## Fontes` ausente ou vazia.
 - **citation_format** — citações com sigla conhecida mas formato fora do padrão da seção 4.
 - **rascunho_stale** — páginas com `status: rascunho` há mais de 14 dias.

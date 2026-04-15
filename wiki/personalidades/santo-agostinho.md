@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [LE, ESE]
 tags: [santo-agostinho, revelador, espirito-superior, obra/le, obra/ese]
 atualizado_em: 2026-04-06
@@ -41,8 +41,8 @@ No cap. I do ESE, Erasto complementa uma comunicacao de Santo Agostinho sobre a 
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/espiritos-reveladores]] · [[wiki/entidades/allan-kardec]]
-- [[wiki/entidades/erasto]] — complementa comunicacao de Santo Agostinho no cap. I do ESE
+- [[wiki/personalidades/espiritos-reveladores]] · [[wiki/personalidades/allan-kardec]]
+- [[wiki/personalidades/erasto]] — complementa comunicacao de Santo Agostinho no cap. I do ESE
 - [[wiki/conceitos/penas-e-gozos-futuros]] — tema em que Santo Agostinho combate a eternidade das penas
 
 ## Fontes

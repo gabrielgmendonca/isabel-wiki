@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, expiacoes-terrestres, obra/ci]
 atualizado_em: 2026-04-06
@@ -29,7 +29,7 @@ Ao ser evocado, seu Espírito mostrou-se plenamente lúcido, comparando-se a "um
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/alma]]
 - [[wiki/conceitos/emancipacao-da-alma]]
-- [[wiki/entidades/sao-luis]]
+- [[wiki/personalidades/sao-luis]]
 
 ## Fontes
 

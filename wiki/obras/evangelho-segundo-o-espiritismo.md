@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/allan-kardec]]
+- **Autor:** [[wiki/personalidades/allan-kardec]]
 - **Título original:** *L'Évangile selon le Spiritisme*
 - **1ª edição:** 1864 (Paris, França)
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** 1 — Pentateuco
@@ -212,12 +212,12 @@ Preces gerais (Oração dominical, reuniões espíritas, para médiuns). Preces 
 - [[wiki/conceitos/suicidio]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/vida-espirita]]
 
-## Entidades citadas (Espíritos comunicantes)
+## Personalidades citadas (Espíritos comunicantes)
 
-- [[wiki/entidades/jesus]] — tipo da perfeição moral, autor dos ensinos evangélicos comentados.
-- [[wiki/entidades/santo-agostinho]] — instruções nos caps. III, V, XX.
-- [[wiki/entidades/erasto]] — discípulo de S. Paulo, instruções nos caps. I, XXI.
-- [[wiki/entidades/sao-luis]] — instruções em vários capítulos.
+- [[wiki/personalidades/jesus]] — tipo da perfeição moral, autor dos ensinos evangélicos comentados.
+- [[wiki/personalidades/santo-agostinho]] — instruções nos caps. III, V, XX.
+- [[wiki/personalidades/erasto]] — discípulo de S. Paulo, instruções nos caps. I, XXI.
+- [[wiki/personalidades/sao-luis]] — instruções em vários capítulos.
 - Espírito de Verdade — voz coletiva, instruções nos caps. VI, XX, XXI.
 - Lázaro — instruções nos caps. XVII, XVIII.
 - Diversos Espíritos anônimos e nomeados ao longo da obra.

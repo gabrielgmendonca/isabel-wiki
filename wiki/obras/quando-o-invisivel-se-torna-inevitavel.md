@@ -32,7 +32,7 @@ Divaldo abre relembrando que a doutrina apresentada por Kardec em 1857 dispunha 
 
 O Espiritismo praticado desde 1857 sofreu alterações práticas: não havia sessão mediúnica nos moldes atuais. As reuniões eram de estudo. Depois vieram as sessões de **desobsessão** — "uma das maiores caridades: a caridade aos que morreram e não sabem o que lhes aconteceu, aos perturbados do mundo espiritual, aos obsessores, aos Espíritos das trevas, aos insensatos" (Divaldo Franco, *Quando o Invisível se Torna Inevitável*).
 
-A [[wiki/entidades/mansao-do-caminho]] está passando por modernização institucional, integrando tecnologia e ciência ao desenvolvimento intelectual e moral.
+A [[wiki/personalidades/mansao-do-caminho]] está passando por modernização institucional, integrando tecnologia e ciência ao desenvolvimento intelectual e moral.
 
 ### 2. Obsessão — o caso da prima Baby
 
@@ -102,7 +102,7 @@ Compara sua situação com a de quem não pode andar, quem não tem perna, quem 
 
 ### 8. Atendimento fraterno na Mansão do Caminho
 
-Divaldo descreve a estrutura do atendimento na [[wiki/entidades/mansao-do-caminho]]:
+Divaldo descreve a estrutura do atendimento na [[wiki/personalidades/mansao-do-caminho]]:
 
 - **Horários:** diariamente, das 8h às 19h (intervalos de 1 hora). Divaldo atende pessoalmente às terças, quintas e sábados, das 7h às 8h.
 - **Equipe:** psicólogos que entendem da psique humana + espíritas que entendem da psicologia do Espiritismo.
@@ -137,13 +137,13 @@ Encerra pedindo humildade e perdão: "Muita coisa é nossa visão errada. Tenham
 - [[wiki/conceitos/caridade]] — finalidade precípua do Espiritismo
 - [[wiki/conceitos/resignacao]] — reação ao erro médico
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/divaldo-franco]] — orador
-- [[wiki/entidades/allan-kardec]] — codificador, referenciado no contexto histórico
-- [[wiki/entidades/victor-hugo]] — Espírito comunicante, autor de 11 romances via Divaldo
-- [[wiki/entidades/meimei]] — Espírito comunicante via Chico Xavier
-- [[wiki/entidades/mansao-do-caminho]] — instituição descrita em detalhe
+- [[wiki/personalidades/divaldo-franco]] — orador
+- [[wiki/personalidades/allan-kardec]] — codificador, referenciado no contexto histórico
+- [[wiki/personalidades/victor-hugo]] — Espírito comunicante, autor de 11 romances via Divaldo
+- [[wiki/personalidades/meimei]] — Espírito comunicante via Chico Xavier
+- [[wiki/personalidades/mansao-do-caminho]] — instituição descrita em detalhe
 
 ### Personalidades mencionadas (sem página na wiki)
 

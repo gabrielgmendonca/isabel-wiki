@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [ESE, LM]
 tags: [espirito-comunicante, ese, obra/ese, obra/lm]
 atualizado_em: 2026-04-06
@@ -33,8 +33,8 @@ Erasto tem papel destacado no LM como co-autor do **quadro sinótico dos médiun
 
 ## Paginas relacionadas
 
-- [[wiki/entidades/santo-agostinho]] — Erasto complementa comunicacao de Santo Agostinho no cap. I do ESE.
-- [[wiki/entidades/sao-luis]]
+- [[wiki/personalidades/santo-agostinho]] — Erasto complementa comunicacao de Santo Agostinho no cap. I do ESE.
+- [[wiki/personalidades/sao-luis]]
 
 ## Fontes
 

@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [chico-xavier, medium, psicografia]
 atualizado_em: 2026-04-07
@@ -22,7 +22,7 @@ Chico Xavier é o médium através do qual o Espírito Emmanuel e muitos outros 
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/emmanuel]] — seu principal guia espiritual
+- [[wiki/personalidades/emmanuel]] — seu principal guia espiritual
 - [[wiki/conceitos/psicografia]] — a faculdade mediúnica que exerceu
 - [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem
 

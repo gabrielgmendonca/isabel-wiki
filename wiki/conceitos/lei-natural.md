@@ -54,7 +54,7 @@ Kardec divide a lei natural em **dez leis morais** (Parte 3, Caps. II–XI), mai
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/deus]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/entidades/jesus]]
+- [[wiki/conceitos/deus]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/personalidades/jesus]]
 
 ## Fontes
 

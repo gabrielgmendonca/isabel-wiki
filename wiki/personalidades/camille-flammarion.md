@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [OPE]
 tags: [flammarion, astronomo, ciencia, discurso, obra/ope]
 atualizado_em: 2026-04-07
@@ -36,7 +36,7 @@ No discurso, Flammarion:
 
 ## Páginas relacionadas
 
-- [[wiki/entidades/allan-kardec]]
+- [[wiki/personalidades/allan-kardec]]
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
 
 ## Fontes

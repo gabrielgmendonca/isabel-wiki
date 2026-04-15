@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/leon-denis]] (1846–1927)
+- **Autor:** [[wiki/personalidades/leon-denis]] (1846–1927)
 - **Título original:** *Christianisme et Spiritisme*
 - **Subtítulo:** Provas experimentais da sobrevivência — Relações com os Espíritos dos mortos — A doutrina secreta — A nova revelação
 - **Primeira edição francesa:** 1898
@@ -161,11 +161,11 @@ Denis usa a analogia do sol sobre as águas: "Basta-lhe que se esforce para deix
 - [[wiki/conceitos/fe-raciocinada]] — razão como meio de descobrir a verdade
 - [[wiki/conceitos/prece]] — relação direta da consciência com Deus
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — Espírito superior, governador espiritual da Terra, mediunidade natural
-- [[wiki/entidades/leon-denis]] — autor
-- [[wiki/entidades/allan-kardec]] — referência como sistematizador da doutrina dos Espíritos
+- [[wiki/personalidades/jesus]] — Espírito superior, governador espiritual da Terra, mediunidade natural
+- [[wiki/personalidades/leon-denis]] — autor
+- [[wiki/personalidades/allan-kardec]] — referência como sistematizador da doutrina dos Espíritos
 
 ## Fontes
 

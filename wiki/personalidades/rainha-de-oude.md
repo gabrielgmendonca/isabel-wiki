@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [C&I]
 tags: [ceu-e-inferno, espiritos-endurecidos, obra/ci]
 atualizado_em: 2026-04-06
@@ -31,7 +31,7 @@ São Luís pediu compaixão pela "pobre desorientada", alertando que seu orgulho
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/escala-espirita]]
 - [[wiki/conceitos/perturbacao]]
-- [[wiki/entidades/sao-luis]]
+- [[wiki/personalidades/sao-luis]]
 
 ## Fontes
 

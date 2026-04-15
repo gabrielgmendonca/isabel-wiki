@@ -11,7 +11,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Palestrante:** [[wiki/entidades/carlos-mendonca]]
+- **Palestrante:** [[wiki/personalidades/carlos-mendonca]]
 - **Canal:** EELDE (Estudo do Evangelho à Luz da Doutrina Espírita)
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 3 — complementar alinhado à codificação
@@ -60,9 +60,9 @@ O evento ocorreu num sábado — dia dedicado exclusivamente à oração na trad
 - [[wiki/conceitos/mediunidade]] — o homem da sinagoga como médium inconsciente sob domínio obsessivo
 - [[wiki/conceitos/progresso-espiritual]] — a autoridade moral como fruto da perfeição espiritual
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — protagonista do episódio, mestre e desobsessor
+- [[wiki/personalidades/jesus]] — protagonista do episódio, mestre e desobsessor
 
 ## Fontes
 

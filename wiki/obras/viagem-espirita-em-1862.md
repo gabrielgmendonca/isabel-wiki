@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/allan-kardec]] (1804–1869)
+- **Autor:** [[wiki/personalidades/allan-kardec]] (1804–1869)
 - **Título original:** *Voyage Spirite en 1862*
 - **Primeira edição francesa:** 1862
 - **Nível:** 2 — Kardec complementar
@@ -117,10 +117,10 @@ Modelo em 18 artigos para grupos e pequenas sociedades, com destaque para: ades�
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/allan-kardec]]
-- [[wiki/entidades/jesus]]
+- [[wiki/personalidades/allan-kardec]]
+- [[wiki/personalidades/jesus]]
 
 ## Fontes
 

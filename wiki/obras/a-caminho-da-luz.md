@@ -102,12 +102,12 @@ Emmanuel apresenta o Espiritismo como a força moral capaz de restaurar o Cristi
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — consequências cármicas coletivas
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/jesus]] — governador espiritual da Terra, personagem central
-- [[wiki/entidades/emmanuel]] — autor espiritual
-- [[wiki/entidades/chico-xavier]] — médium psicógrafo
-- [[wiki/entidades/allan-kardec]] — missionário do Consolador (cap. 22)
+- [[wiki/personalidades/jesus]] — governador espiritual da Terra, personagem central
+- [[wiki/personalidades/emmanuel]] — autor espiritual
+- [[wiki/personalidades/chico-xavier]] — médium psicógrafo
+- [[wiki/personalidades/allan-kardec]] — missionário do Consolador (cap. 22)
 
 ## Fontes
 

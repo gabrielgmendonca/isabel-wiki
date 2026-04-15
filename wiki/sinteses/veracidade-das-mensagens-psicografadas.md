@@ -149,8 +149,8 @@ A escala espírita não é mera classificação teórica — é ferramenta de an
 - [[wiki/conceitos/escala-espirita]]
 - [[wiki/obras/livro-dos-espiritos]]
 - [[wiki/obras/livro-dos-mediuns]] *(a ser criada no ingest em andamento)*
-- [[wiki/entidades/sao-luis]]
-- [[wiki/entidades/allan-kardec]]
+- [[wiki/personalidades/sao-luis]]
+- [[wiki/personalidades/allan-kardec]]
 
 ## Fontes
 

@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: []
 tags: [orador, medium, complementar]
 atualizado_em: 2026-04-06
@@ -36,10 +36,10 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 - [[wiki/conceitos/depressao]] — tema central da palestra de 2009
 - [[wiki/conceitos/psicografia]] — mais de 260 obras psicografadas, incluindo 11 romances de Victor Hugo
 - [[wiki/conceitos/transicao-planetaria]] — tema recorrente em seu discurso
-- [[wiki/entidades/allan-kardec]] — codificador cuja obra Divaldo difundiu
-- [[wiki/entidades/victor-hugo]] — Espírito comunicante, autor de 11 romances via Divaldo
-- [[wiki/entidades/meimei]] — episódio narrado por Divaldo (Chico Xavier em Pedro Leopoldo)
-- [[wiki/entidades/mansao-do-caminho]] — instituição cofundada por Divaldo em 1952
+- [[wiki/personalidades/allan-kardec]] — codificador cuja obra Divaldo difundiu
+- [[wiki/personalidades/victor-hugo]] — Espírito comunicante, autor de 11 romances via Divaldo
+- [[wiki/personalidades/meimei]] — episódio narrado por Divaldo (Chico Xavier em Pedro Leopoldo)
+- [[wiki/personalidades/mansao-do-caminho]] — instituição cofundada por Divaldo em 1952
 
 ## Fontes
 

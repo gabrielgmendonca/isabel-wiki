@@ -10,7 +10,7 @@ status: ativo
 
 ## Dados bibliográficos
 
-- **Autor:** [[wiki/entidades/allan-kardec]] (1804–1869)
+- **Autor:** [[wiki/personalidades/allan-kardec]] (1804–1869)
 - **Título original:** *Qu'est-ce que le Spiritisme?*
 - **Primeira edição francesa:** 1859
 - **Nível:** 2 — Kardec complementar
@@ -105,10 +105,10 @@ Resumo de *O Livro dos Espíritos* aplicado a problemas concretos, em itens nume
 - [[wiki/conceitos/emancipacao-da-alma]] · [[wiki/conceitos/vida-futura]]
 - [[wiki/conceitos/lei-de-causa-e-efeito]] · [[wiki/conceitos/provas-e-expiacoes]]
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/allan-kardec]] — autor e interlocutor nos diálogos
-- [[wiki/entidades/jesus]] — referência moral implícita
+- [[wiki/personalidades/allan-kardec]] — autor e interlocutor nos diálogos
+- [[wiki/personalidades/jesus]] — referência moral implícita
 
 ## Divergências
 

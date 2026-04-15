@@ -172,10 +172,10 @@ Formato padrão desta wiki:
 
 ## Entidades relacionadas
 
-- Codificador: [[wiki/entidades/allan-kardec]]
-- São Luís — instrutor principal, citado nominalmente em respostas e análises: [[wiki/entidades/sao-luis]]
-- Erasto — co-autor do quadro sinótico dos médiuns: [[wiki/entidades/erasto]]
-- Santo Agostinho — comunicante: [[wiki/entidades/santo-agostinho]]
+- Codificador: [[wiki/personalidades/allan-kardec]]
+- São Luís — instrutor principal, citado nominalmente em respostas e análises: [[wiki/personalidades/sao-luis]]
+- Erasto — co-autor do quadro sinótico dos médiuns: [[wiki/personalidades/erasto]]
+- Santo Agostinho — comunicante: [[wiki/personalidades/santo-agostinho]]
 
 ## Fontes
 

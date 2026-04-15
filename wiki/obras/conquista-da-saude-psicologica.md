@@ -151,11 +151,11 @@ Encerra vinculando tudo ao momento de transição: "Vivemos o grande momento da 
 - [[wiki/conceitos/prece]] — instrumento de cura
 - [[wiki/conceitos/reencarnacao]] — base da compreensão da morte como passagem
 
-## Entidades citadas
+## Personalidades citadas
 
-- [[wiki/entidades/divaldo-franco]] — orador
-- [[wiki/entidades/allan-kardec]] — codificador, referenciado extensivamente
-- [[wiki/entidades/jesus]] — modelo de psicoterapeuta
+- [[wiki/personalidades/divaldo-franco]] — orador
+- [[wiki/personalidades/allan-kardec]] — codificador, referenciado extensivamente
+- [[wiki/personalidades/jesus]] — modelo de psicoterapeuta
 
 ### Personalidades históricas mencionadas (sem página na wiki)
 

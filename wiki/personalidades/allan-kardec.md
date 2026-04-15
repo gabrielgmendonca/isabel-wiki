@@ -1,5 +1,5 @@
 ---
-tipo: entidade
+tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
 tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope]
 atualizado_em: 2026-04-07
@@ -66,8 +66,8 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 - [[wiki/obras/genese]]
 - [[wiki/obras/viagem-espirita-em-1862]]
 - [[wiki/obras/o-que-e-o-espiritismo]]
-- [[wiki/entidades/espiritos-reveladores]]
-- [[wiki/entidades/camille-flammarion]]
+- [[wiki/personalidades/espiritos-reveladores]]
+- [[wiki/personalidades/camille-flammarion]]
 - [[wiki/obras/obras-postumas]]
 
 ## Fontes
