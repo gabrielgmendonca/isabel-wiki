@@ -303,3 +303,14 @@ Wiki limpa: 0 erros, 0 avisos. Único achado é info — divergência `mudanca-d
 Ingerido `raw/biblia-acf/mateus/` (28 capítulos da Bíblia ACF). Criada a obra consolidada `wiki/obras/evangelho-segundo-mateus.md` seguindo o padrão de `evangelho-segundo-joao.md` — outline capítulo a capítulo com versos-chave, referências cruzadas ao Pentateuco e tabela de passagens comentadas por Kardec no ESE.
 
 Criadas 9 páginas de parábolas ainda ausentes: joio-e-do-trigo, grão-de-mostarda, fermento, tesouro-escondido-e-da-perola, rede, ovelha-perdida, das-dez-virgens, dos-dois-filhos, dos-lavradores-maus. Registrada divergência `fogo-eterno-em-mateus-25` (Mt 25:41, 46 vs. penas temporárias em C&I). Atualizados `wiki/personalidades/jesus.md` (nova seção "No Evangelho segundo Mateus" e lista de parábolas expandida), `wiki/conceitos/bem-aventurancas.md` (cross-link), `index.md` (seção Evangelhos canônicos, Parábolas de Jesus e Divergências).
+
+## [2026-04-15] query | Parábolas de João sem página na wiki
+
+Analisado o Evangelho de João (caps. 1–21 em `raw/biblia-acf/joao/`) em busca de parábolas ainda sem página dedicada. João não contém parábolas curtas como os sinóticos, mas três alegorias estendidas se qualificam — o próprio texto chama Jo 10 de "parábola" (Jo 10:6). Candidatas como Pão da Vida, Água Viva, Luz do Mundo e Caminho/Verdade/Vida foram descartadas por serem metáforas "Eu sou" (auto-declarações) e não parábolas propriamente ditas.
+
+Páginas criadas (3):
+- `wiki/conceitos/parabola-do-bom-pastor.md` — Jo 10:1–18; porta/pastor/mercenário, "outras ovelhas que não são deste aprisco", unidade moral com o Pai (OPE §VIII).
+- `wiki/conceitos/parabola-da-videira-verdadeira.md` — Jo 15:1–8; permanência vital na moral do Cristo, Pai como lavrador, poda como prova (ESE caps. V, XVII).
+- `wiki/conceitos/parabola-do-grao-de-trigo.md` — Jo 12:24; renúncia fecunda, desapego, paixão como exemplo moral (ESE cap. XXIV, item 15).
+
+Atualizados: `index.md` (três novas entradas na seção Parábolas de Jesus), `wiki/obras/evangelho-segundo-joao.md` (wikilinks diretos nas seções dos caps. 10, 12 e 15, em vez de menções soltas).

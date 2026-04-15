@@ -269,6 +269,9 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (ESE, cap. XIX; S. Marcos, 11).
 - [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] — nunca é tarde para o bem (ESE, cap. XX; S. Mateus, 20).
 - [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] — dever de difundir a verdade (ESE, cap. XXIV; S. Mateus, 5).
+- [[wiki/conceitos/parabola-do-bom-pastor]] — Jesus como porta e pastor, mercenário vs. pastor, "outras ovelhas" (S. João, 10).
+- [[wiki/conceitos/parabola-da-videira-verdadeira]] — permanência vital na moral do Cristo, ramo que dá fruto vs. ramo seco (S. João, 15).
+- [[wiki/conceitos/parabola-do-grao-de-trigo]] — morte fecunda, renúncia e desapego como lei espiritual (ESE, cap. XXIV; S. João, 12).
 
 ## Questões
 
