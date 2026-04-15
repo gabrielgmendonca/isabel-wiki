@@ -9,6 +9,7 @@ um JSON estruturado em stdout para consumo pela skill /lint.
 Sem dependências externas — apenas stdlib.
 """
 
+import argparse
 import json
 import re
 import sys
@@ -25,8 +26,17 @@ STALE_DAYS = 14
 # Utilitários
 # ---------------------------------------------------------------------------
 
+def _strip_quotes(val: str) -> str:
+    if len(val) >= 2 and val[0] == val[-1] and val[0] in {'"', "'"}:
+        return val[1:-1]
+    return val
+
+
 def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
-    """Extrai frontmatter YAML simples (scalars e listas [a, b]).
+    """Extrai frontmatter YAML simples.
+
+    Suporta: scalars, valores quoted, listas inline `[a, b]` e listas multilinha
+    (`-` em linhas indentadas após chave com valor vazio).
 
     Retorna (fm_dict, lista_de_chaves_duplicadas).
     """
@@ -35,19 +45,52 @@ def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
         return {}, []
     fm: dict = {}
     duplicates: list[str] = []
+    pending_key: str | None = None
+    pending_list: list[str] | None = None
+
+    def flush_pending():
+        nonlocal pending_key, pending_list
+        if pending_key is not None:
+            if pending_key in fm:
+                duplicates.append(pending_key)
+            fm[pending_key] = pending_list if pending_list is not None else ""
+        pending_key = None
+        pending_list = None
+
     for line in lines[1:]:
-        if line.strip() == "---":
+        stripped = line.strip()
+        if stripped == "---":
             break
+        # Continuação de lista multilinha: linha começa com `-`
+        if pending_key is not None and stripped.startswith("- "):
+            if pending_list is None:
+                pending_list = []
+            pending_list.append(_strip_quotes(stripped[2:].strip()))
+            continue
+        # Linha em branco encerra lista pendente
+        if not stripped:
+            flush_pending()
+            continue
         if ":" not in line:
             continue
+        flush_pending()
         key, _, val = line.partition(":")
         key = key.strip()
         val = val.strip()
         if val.startswith("[") and val.endswith("]"):
-            val = [v.strip() for v in val[1:-1].split(",") if v.strip()]
-        if key in fm:
-            duplicates.append(key)
-        fm[key] = val
+            parsed = [_strip_quotes(v.strip()) for v in val[1:-1].split(",") if v.strip()]
+            if key in fm:
+                duplicates.append(key)
+            fm[key] = parsed
+        elif val == "":
+            # Possível lista multilinha — aguardar linhas seguintes
+            pending_key = key
+            pending_list = None
+        else:
+            if key in fm:
+                duplicates.append(key)
+            fm[key] = _strip_quotes(val)
+    flush_pending()
     return fm, duplicates
 
 
@@ -145,32 +188,40 @@ def check_fontes_section(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
-def check_index_sync(pages: list[Path]) -> dict:
-    """Check 7 — index.md desatualizado vs arquivos reais."""
-    # Links no index
+def check_index_broken(pages: list[Path]) -> dict:
+    """Check 7a — index.md aponta para arquivos inexistentes (erro)."""
+    text = INDEX_PATH.read_text(encoding="utf-8")
+    index_targets = set()
+    for _, target in find_wikilinks(text):
+        if target.startswith("wiki/"):
+            index_targets.add(target)
+    disk_keys = {page_key(p) for p in pages}
+    in_index_not_on_disk = sorted(index_targets - disk_keys)
+    items = [{"detail": f"no index mas arquivo não existe: {p}"} for p in in_index_not_on_disk]
+    return {"severity": "error", "count": len(items), "items": items}
+
+
+def check_index_missing(pages: list[Path]) -> dict:
+    """Check 7b — arquivos em wiki/ ausentes do index.md (aviso).
+
+    Páginas com `index: false` no frontmatter são excluídas explicitamente.
+    """
     text = INDEX_PATH.read_text(encoding="utf-8")
     index_targets = set()
     for _, target in find_wikilinks(text):
         if target.startswith("wiki/"):
             index_targets.add(target)
 
-    # Arquivos reais
-    disk_keys = {page_key(p) for p in pages}
+    disk_keys = set()
+    for p in pages:
+        fm, _ = parse_frontmatter(p)
+        if str(fm.get("index", "")).lower() == "false":
+            continue
+        disk_keys.add(page_key(p))
 
     on_disk_not_in_index = sorted(disk_keys - index_targets)
-    in_index_not_on_disk = sorted(index_targets - disk_keys)
-
-    items = []
-    for p in in_index_not_on_disk:
-        items.append({"detail": f"no index mas arquivo não existe: {p}"})
-    for p in on_disk_not_in_index:
-        items.append({"detail": f"arquivo existe mas falta no index: {p}"})
-
-    return {
-        "severity": "error",
-        "count": len(items),
-        "items": items,
-    }
+    items = [{"detail": f"arquivo existe mas falta no index: {p}"} for p in on_disk_not_in_index]
+    return {"severity": "warning", "count": len(items), "items": items}
 
 
 def check_rascunho_stale(pages: list[Path]) -> dict:
@@ -414,30 +465,31 @@ PENTATEUCO_SLUGS = {
 }
 
 
+def check_pentateuco_completo(pages: list[Path]) -> dict:
+    """Check — Pentateuco deve ter os 5 arquivos canônicos (erro)."""
+    obras_dir = WIKI_DIR / "obras"
+    pentateuco_missing = [
+        s for s in sorted(PENTATEUCO_SLUGS)
+        if not (obras_dir / f"{s}.md").exists()
+    ]
+    items = []
+    if pentateuco_missing:
+        items.append({
+            "detail": f"Pentateuco incompleto — faltam: {', '.join(pentateuco_missing)}",
+        })
+    return {"severity": "error", "count": len(items), "items": items}
+
+
 def check_status_projeto(pages: list[Path]) -> dict:
-    """Check — números no 'Status do projeto' de index.md vs. realidade."""
-    # Contar obras e páginas reais
+    """Check — contagens prosa do 'Status do projeto' em index.md (info)."""
     obras_dir = WIKI_DIR / "obras"
     obras_pages = sorted(obras_dir.glob("*.md")) if obras_dir.exists() else []
     n_complementares = sum(
         1 for o in obras_pages if o.stem not in PENTATEUCO_SLUGS
     )
     total_paginas = len(pages)
-
-    # Verificar que os 5 arquivos do Pentateuco existem
-    pentateuco_missing = [
-        s for s in sorted(PENTATEUCO_SLUGS)
-        if not (obras_dir / f"{s}.md").exists()
-    ]
-
-    # Extrair números do index.md
     text = INDEX_PATH.read_text(encoding="utf-8")
     items = []
-
-    if pentateuco_missing:
-        items.append({
-            "detail": f"Pentateuco incompleto — faltam: {', '.join(pentateuco_missing)}",
-        })
 
     m_fontes = re.search(r"(\d+)\s*fontes?\s*complementares?", text)
     if m_fontes:
@@ -459,7 +511,7 @@ def check_status_projeto(pages: list[Path]) -> dict:
     else:
         items.append({"detail": "não encontrou contagem de páginas em index.md"})
 
-    return {"severity": "warning", "count": len(items), "items": items}
+    return {"severity": "info", "count": len(items), "items": items}
 
 
 def check_frontmatter(pages: list[Path]) -> dict:
@@ -498,27 +550,65 @@ def compute_stats(pages: list[Path]) -> dict:
     return {"total": len(pages), "by_tipo": by_tipo}
 
 
-def main():
+CHECK_REGISTRY = {
+    "broken_links": check_broken_links,
+    "index_broken": check_index_broken,
+    "index_missing": check_index_missing,
+    "frontmatter": check_frontmatter,
+    "orphan_pages": check_orphan_pages,
+    "fontes_missing": check_fontes_section,
+    "citation_format": check_citation_format,
+    "rascunho_stale": check_rascunho_stale,
+    "divergencias_aberta": check_divergencias_aberta,
+    "missing_concept_pages": check_missing_concept_pages,
+    "pentateuco_completo": check_pentateuco_completo,
+    "status_projeto": check_status_projeto,
+    "broken_urls": check_broken_urls,
+    "tag_taxonomy": check_tag_taxonomy,
+}
+
+# Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).
+DEFAULT_SKIP = {"broken_urls"}
+
+
+def parse_args(argv: list[str]) -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Lint determinístico da wiki IsAbel")
+    p.add_argument("--check", action="append", default=[], metavar="NAME",
+                   help="Rodar apenas os checks listados (repetível).")
+    p.add_argument("--skip", action="append", default=[], metavar="NAME",
+                   help="Pular os checks listados (repetível).")
+    p.add_argument("--check-urls", action="store_true",
+                   help="Habilita check broken_urls (I/O externo, opt-in).")
+    return p.parse_args(argv)
+
+
+def select_checks(args: argparse.Namespace) -> list[str]:
+    all_names = list(CHECK_REGISTRY.keys())
+    unknown = [n for n in (args.check + args.skip) if n not in CHECK_REGISTRY]
+    if unknown:
+        print(json.dumps({"error": f"Check desconhecido: {', '.join(unknown)}",
+                          "valid": all_names}), file=sys.stdout)
+        sys.exit(2)
+    if args.check:
+        selected = [n for n in all_names if n in args.check]
+    else:
+        selected = [n for n in all_names if n not in DEFAULT_SKIP]
+        if args.check_urls and "broken_urls" not in selected:
+            selected.append("broken_urls")
+    selected = [n for n in selected if n not in args.skip]
+    return selected
+
+
+def main(argv: list[str] | None = None):
+    args = parse_args(argv if argv is not None else sys.argv[1:])
+
     if not WIKI_DIR.exists():
         print(json.dumps({"error": "Diretório wiki/ não encontrado"}), file=sys.stdout)
         sys.exit(1)
 
     pages = collect_pages()
-
-    checks = {
-        "broken_links": check_broken_links(pages),
-        "index_desync": check_index_sync(pages),
-        "frontmatter": check_frontmatter(pages),
-        "orphan_pages": check_orphan_pages(pages),
-        "fontes_missing": check_fontes_section(pages),
-        "citation_format": check_citation_format(pages),
-        "rascunho_stale": check_rascunho_stale(pages),
-        "divergencias_aberta": check_divergencias_aberta(pages),
-        "missing_concept_pages": check_missing_concept_pages(pages),
-        "status_projeto": check_status_projeto(pages),
-        "broken_urls": check_broken_urls(pages),
-        "tag_taxonomy": check_tag_taxonomy(pages),
-    }
+    selected = select_checks(args)
+    checks = {name: CHECK_REGISTRY[name](pages) for name in selected}
 
     errors = sum(1 for c in checks.values() if c["severity"] == "error" and c["count"] > 0)
     warnings = sum(1 for c in checks.values() if c["severity"] == "warning" and c["count"] > 0)

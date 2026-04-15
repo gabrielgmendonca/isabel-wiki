@@ -287,3 +287,6 @@ Páginas atualizadas (5):
 - `index.md` — nova subseção "Evangelhos canônicos" com link para a obra.
 
 Nenhuma divergência — fonte primordial, lida à luz do Pentateuco.
+
+## [2026-04-15] lint | 9 achados (0 erros)
+Wiki íntegra com 208 páginas. Oito avisos de citation_format todos em `hierarquia-de-autoridade.md` são falsos positivos (epígrafes, subtítulos e datas). Uma divergência aberta (`mudanca-de-sexo-reencarnacao`) com análise aparentemente completa.
