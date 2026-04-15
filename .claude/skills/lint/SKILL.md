@@ -54,6 +54,8 @@ Para cada categoria com `count > 0`, listar os itens de forma concisa.
 
 ## Passo 3 — Análise LLM (complementar ao script)
 
+Se houver muitos achados em `citation_format`, `fontes_missing`, `missing_concept_pages` ou `divergencias_aberta` (>~5 itens combinados), delegar esta análise a um subagente Explore para preservar o contexto principal. Passar ao subagente o JSON dos achados relevantes e pedir um relatório resumido seguindo as subseções 3a–3d abaixo. Caso contrário, fazer no main mesmo.
+
 ### 3a. Citações suspeitas
 Para cada item em `citation_format`, avaliar:
 - Falso positivo? (formato válido que o regex não reconheceu) → descartar.

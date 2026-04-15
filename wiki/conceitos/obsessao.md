@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE]
 tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-15
 status: ativo
 ---
 
@@ -65,6 +65,20 @@ O conhecimento da obsessão fundamenta o trabalho de **desobsessão** nos centro
 
 ## Casos ilustrativos
 
+### Marcos: quatro narrativas-base
+
+O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsessão, cobrindo três das categorias kardequianas:
+
+1. **Desobsessão em Cafarnaum (Mc 1:21–28).** Na primeira pregação pública, Jesus enfrenta na sinagoga um homem com "espírito imundo" que o reconhece ("Bem sei quem és: o Santo de Deus"). Jesus ordena silêncio e a saída — "Cala-te, e sai dele" — e o Espírito convulsiona o obsidiado antes de partir. Modelo de **ensino-desobsessão integrados**: a palavra doutrinária mesma é o instrumento de libertação. Cf. palestra [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]].
+
+2. **Legião — o gadareno (Mc 5:1–20).** Caso extremo de **subjugação** (LM, 2ª parte, cap. XXIII, item 240): o obsidiado habita os sepulcros, clama noite e dia, fere-se com pedras, rompe cadeias. Ao perguntar o nome, Jesus recebe: "Legião é o meu nome, porque somos muitos". É o caso paradigmático de **obsessão coletiva** — grupo de Espíritos inferiores atuando em simbiose sobre um único encarnado. Após a libertação, o homem fica "assentado, vestido e em perfeito juízo" (Mc 5:15): a restauração é total quando o obsessor é removido e a vítima recebe acolhimento doutrinário.
+
+3. **Siro-fenícia (Mc 7:24–30).** Obsessão da filha aliviada a distância, pela fé humilde e insistente da mãe. Ilustra que a **elevação moral do próximo** que intercede conta na desobsessão — prece e sintonia fluídica não exigem copresença física.
+
+4. **Menino epiléptico-obsidiado (Mc 9:14–29).** Caso crônico desde a infância, com convulsões que lançavam o menino "no fogo e na água". Os discípulos não conseguem libertá-lo; Jesus diagnostica: "esta casta não pode sair com coisa alguma, a não ser com oração e jejum" (Mc 9:29). Leitura kardequiana: a desobsessão severa exige **elevação moral prolongada** do grupo que assiste — não rito, mas reforma íntima. Coerente com LM, 2ª parte, cap. XXIII, item 244: "A mediunidade permite se veja o inimigo face a face [...] e combatê-lo com suas próprias armas" — mas o combate é moral.
+
+> **Lição de conjunto:** Marcos mostra que (i) obsessão atravessa todos os graus — simples (siro-fenícia), subjugação (gadareno), crônica (epiléptico); (ii) a desobsessão é operação natural, regida por lei, não ato mágico — coerente com a recusa kardequiana ao "milagre" como quebra de lei (Gênese, cap. XIV–XV); (iii) a resistência à libertação mede-se pela obstinação do obsessor *e* pelo preparo moral do grupo assistente.
+
 ### A prima Baby e o ex-namorado desencarnado (Divaldo Franco, ~1948)
 
 Relato de Divaldo Franco em [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
@@ -93,6 +107,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
+- [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 
 ## Fontes
 
