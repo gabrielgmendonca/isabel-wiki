@@ -18,3 +18,6 @@ books_with_links.json
 
 __pycache__/
 *.pyc
+
+# Office lock files
+~$*
