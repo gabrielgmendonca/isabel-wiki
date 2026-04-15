@@ -18,7 +18,7 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 
 - Páginas na wiki: **209**
 - Arquivos em `raw/`: **1223**
-- Nós no grafo: **209** · Arestas: **1602**
+- Nós no grafo: **209** · Arestas: **1578**
 - Componentes fracamente conexos: **1** (maior: 209 nós)
 - Páginas órfãs (sem backlinks): **1**
 - Vocabulário único (após stopwords): **10453** termos
@@ -71,7 +71,7 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 | # | Página | Out |
 |---|--------|-----|
 | 1 | [[wiki/obras/ceu-e-inferno]] | 85 |
-| 2 | [[wiki/sinteses/estatisticas-da-wiki]] | 70 |
+| 2 | [[wiki/sinteses/estatisticas-da-wiki]] | 46 |
 | 3 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 40 |
 | 4 | [[wiki/obras/depois-da-morte]] | 37 |
 | 5 | [[wiki/obras/livro-dos-espiritos]] | 35 |
@@ -96,7 +96,7 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 | 4 | [[wiki/conceitos/livre-arbitrio]] | 0.0282 |
 | 5 | [[wiki/conceitos/lei-natural]] | 0.0275 |
 | 6 | [[wiki/conceitos/lei-de-justica-amor-e-caridade]] | 0.0238 |
-| 7 | [[wiki/obras/ceu-e-inferno]] | 0.0228 |
+| 7 | [[wiki/obras/ceu-e-inferno]] | 0.0227 |
 | 8 | [[wiki/conceitos/caridade]] | 0.0211 |
 | 9 | [[wiki/conceitos/vida-espirita]] | 0.0183 |
 | 10 | [[wiki/obras/livro-dos-espiritos]] | 0.0181 |
@@ -139,7 +139,7 @@ _Nenhum._
 | 17 | `guillon` | 208 |
 | 18 | `ribeiro` | 208 |
 | 19 | `alma` | 205 |
-| 20 | `páginas` | 193 |
+| 20 | `páginas` | 192 |
 | 21 | `relacionadas` | 190 |
 | 22 | `denis` | 183 |
 | 23 | `progresso` | 182 |
@@ -168,8 +168,8 @@ _Nenhum._
 | 46 | `sempre` | 109 |
 | 47 | `mateus` | 108 |
 | 48 | `matéria` | 107 |
-| 49 | `itens` | 105 |
-| 50 | `obras` | 104 |
+| 49 | `obras` | 105 |
+| 50 | `itens` | 105 |
 
 ### Top 20 bigramas
 
@@ -179,7 +179,7 @@ _Nenhum._
 | 2 | `guillon ribeiro` | 207 |
 | 3 | `trad guillon` | 191 |
 | 4 | `fontes kardec` | 188 |
-| 5 | `páginas relacionadas` | 170 |
+| 5 | `páginas relacionadas` | 171 |
 | 6 | `relacionadas fontes` | 126 |
 | 7 | `allan livro` | 119 |
 | 8 | `livro espíritos` | 111 |
