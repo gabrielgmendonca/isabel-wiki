@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [C&I]
 tags: [ceu-e-inferno, expiacao, reparacao, arrependimento, justica-divina, reencarnacao, obra/ci, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-16
 status: ativo
 ---
 
@@ -72,6 +72,7 @@ Para o estudo pessoal, o conceito convida à reflexão sobre as provas da vida p
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 
 ## Fontes
 

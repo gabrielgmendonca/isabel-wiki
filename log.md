@@ -4,6 +4,12 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-16] query | Tríade arrependimento–expiação–reparação (C&I)
+
+Pergunta de estudo: "Segundo *O Céu e o Inferno*, qual a diferença entre arrependimento, expiação e reparação?". Resposta ancorada em C&I, 1ª parte, cap. VII, itens 16–17 (e nota). Arquivado como `wiki/questoes/arrependimento-expiacao-e-reparacao.md` — estrutura Q&A com citação literal dos itens 16–17, comentário de Kardec sobre a reparação como "verdadeira lei de reabilitação moral dos Espíritos", tabela-síntese dos três papéis e análise das três esferas da expiação. Links recíprocos adicionados em `arrependimento`, `expiacao`, `expiacao-e-reparacao` e `codigo-penal-da-vida-futura`; datas bumpadas para 2026-04-16. `index.md` atualizado (primeira entrada da seção Questões).
+
+---
+
 ## [2026-04-16] refactor | Nova pasta `wiki/aprofundamentos/`
 
 Introduzido o tipo `aprofundamento` para estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens de C&I). `wiki/questoes/` fica reservado para Q&A direta de **uma única questão** do Pentateuco. `expiacao-e-arrependimento.md` (13 questões, 990–1002) migrou de `questoes/` para `aprofundamentos/` — tipo e links atualizados. Diretivas ajustadas: CLAUDE.md §4, `.claude/rules/convencoes-paginas.md`, `.claude/skills/ingest/SKILL.md`, `.claude/skills/slides/SKILL.md`, scripts de stats/update_status/lint. Reexecutar `/stats` para atualizar `wiki/sinteses/estatisticas-da-wiki.md`.

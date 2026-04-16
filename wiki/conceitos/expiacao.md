@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, C&I, ESE]
 tags: [expiacao, justica-divina, sofrimento, reencarnacao, progresso-espiritual, obra/le, obra/ci, obra/ese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-16
 status: ativo
 ---
 
@@ -44,6 +44,7 @@ Compreender a expiação à luz espírita transforma a visão sobre o sofrimento
 - [[wiki/conceitos/codigo-penal-da-vida-futura]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 
 ## Fontes
 

@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [C&I]
 tags: [ceu-e-inferno, penas-futuras, codigo-penal, expiacao, reparacao, livre-arbitrio, obra/ci]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-16
 status: ativo
 ---
 
@@ -79,6 +79,7 @@ O conceito de que o sofrimento e inerente a imperfeicao --- e nao uma punicao im
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/vida-futura]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 
 ## Fontes
 

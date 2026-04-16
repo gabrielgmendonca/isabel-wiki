@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, C&I]
 tags: [arrependimento, expiacao, moral, justica-divina, progresso-espiritual, obra/le, obra/ci]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-16
 status: ativo
 ---
 
@@ -46,6 +46,7 @@ O arrependimento sincero é sempre acolhido — ensino que deve permear as pales
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]]
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 
 ## Fontes
 

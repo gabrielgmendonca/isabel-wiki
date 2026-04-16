@@ -306,7 +306,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 
 Q&A direta de questões específicas do Pentateuco (uma questão por página).
 
-_Nenhuma página ainda._
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — diferença entre arrependimento, expiação e reparação segundo *O Céu e o Inferno* (1ª parte, cap. VII, itens 16–17).
 
 ## Sínteses
 
