@@ -4,6 +4,12 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-16] refactor | `wiki/questoes/` admite itens pontuais de C&I/ESE/Gênese
+
+Convenção de `wiki/questoes/` estendida: deixa de ser restrita a "uma única questão do Pentateuco (LE/LM/OQE)" e passa a admitir também itens pontuais de C&I/ESE/Gênese — mantendo o espírito de Q&A direta (uma pergunta, uma citação literal, um comentário, uma análise). Motivo: a primeira página de questão (`arrependimento-expiacao-e-reparacao`) nasce ancorada em C&I, 1ª parte, cap. VII, itens 16–17, e não se encaixa na definição antiga. Ajustados: `.claude/rules/convencoes-paginas.md`, `CLAUDE.md` §4, `.claude/skills/ingest/SKILL.md`.
+
+---
+
 ## [2026-04-16] query | Tríade arrependimento–expiação–reparação (C&I)
 
 Pergunta de estudo: "Segundo *O Céu e o Inferno*, qual a diferença entre arrependimento, expiação e reparação?". Resposta ancorada em C&I, 1ª parte, cap. VII, itens 16–17 (e nota). Arquivado como `wiki/questoes/arrependimento-expiacao-e-reparacao.md` — estrutura Q&A com citação literal dos itens 16–17, comentário de Kardec sobre a reparação como "verdadeira lei de reabilitação moral dos Espíritos", tabela-síntese dos três papéis e análise das três esferas da expiação. Links recíprocos adicionados em `arrependimento`, `expiacao`, `expiacao-e-reparacao` e `codigo-penal-da-vida-futura`; datas bumpadas para 2026-04-16. `index.md` atualizado (primeira entrada da seção Questões).
