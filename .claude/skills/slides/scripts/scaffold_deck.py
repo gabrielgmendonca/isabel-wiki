@@ -146,6 +146,12 @@ def citation_full(sigla: str, detalhe: str) -> str:
     return f"{nome}, {detalhe}" if detalhe else nome
 
 
+def format_date_br(iso: str) -> str:
+    """'2026-04-16' -> '16/04/2026' (padrão BR para exibição em slides)."""
+    y, m, d = iso.split("-")
+    return f"{d}/{m}/{y}"
+
+
 def render_deck(
     title: str,
     sigla_principal: str | None,
@@ -156,6 +162,7 @@ def render_deck(
     data_palestra: str,
     casa: str | None,
 ) -> str:
+    data_br = format_date_br(data_palestra)
     footer_extra = f" · {casa}" if casa else ""
     header = (
         "---\n"
@@ -163,7 +170,7 @@ def render_deck(
         "theme: isabel\n"
         "paginate: true\n"
         f"header: '{title}'\n"
-        f"footer: 'Gabriel Mendonça · {data_palestra}{footer_extra}'\n"
+        f"footer: 'Gabriel Mendonça · {data_br}{footer_extra}'\n"
         "---\n\n"
     )
 
@@ -171,7 +178,7 @@ def render_deck(
     cap = (
         f"# {title}\n\n"
         f"**{obra_str}**\n\n"
-        f"Gabriel Mendonça · {data_palestra}{footer_extra}\n\n"
+        f"Gabriel Mendonça · {data_br}{footer_extra}\n\n"
         "---\n\n"
     )
 

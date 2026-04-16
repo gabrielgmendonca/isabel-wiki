@@ -3,14 +3,14 @@ marp: true
 theme: isabel
 paginate: true
 header: 'Expiação e Arrependimento (LE, q. 990–1002)'
-footer: 'Gabriel Mendonça · 2026-04-16 · Grupo Espírita Fabiano'
+footer: 'Gabriel Mendonça · 16/04/2026 · Grupo Espírita Fabiano'
 ---
 
 # Expiação e Arrependimento (LE, q. 990–1002)
 
 **O Livro dos Espíritos · q. 332–1006**
 
-Gabriel Mendonça · 2026-04-16 · Grupo Espírita Fabiano
+Gabriel Mendonça · 16/04/2026 · Grupo Espírita Fabiano
 
 ---
 
