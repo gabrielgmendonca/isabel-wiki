@@ -52,13 +52,15 @@ Toda página termina com `## Fontes` em formato bibliográfico completo.
 - **Ingest** (`/ingest`): ingestão de fontes de `raw/` na wiki. Skill autocontido.
 - **Lint** (`/lint`): verificação de integridade da wiki. Skill autocontido.
 - **Query**: usar qmd `query` para encontrar páginas relevantes (wiki/ primeiro, raw/ se necessário) → ler páginas encontradas → responder com citações começando por Kardec. Fallback: ler `index.md` se qmd indisponível. **Default: oferecer arquivar** como `wiki/sinteses/` (panorama, conexões) ou `wiki/questoes/` (Q&A direta) — só pular o oferecimento quando a pergunta for puramente operacional. Se arquivado, atualizar `index.md` e `log.md`.
+- **Auto-link de citações** (`scripts/link_citations.py`): no build do CI, citações inline do Pentateuco viram links Markdown para Kardecpedia (nível do capítulo), e citações de complementares no formato `(Autor, *Obra*, ref)` viram wikilinks para `wiki/obras/<slug>` quando a página existir. Autor escreve `(LE, q. 990)` cru — a transformação acontece sobre a cópia em `/tmp/quartz/content`, sem alterar arquivos do repo. Mapeamento em `data/kardec-mapping.json`, regerável com `scripts/build_kardec_mapping.py`.
 
 ---
 
 ## 5. Regras condicionais
 
-Detalhes carregados automaticamente conforme os arquivos em uso:
+Rules em `.claude/rules/*.md` são injetadas automaticamente no contexto pelo hook `PreToolUse` (`.claude/hooks/inject-rules.py`) quando o arquivo-alvo de `Edit`/`Write`/`MultiEdit` bate com o glob declarado no frontmatter `paths:` da rule. Fora disso, não entram no contexto.
 
-- `.claude/rules/convencoes-paginas.md` — frontmatter, links, estrutura por tipo (wiki/)
-- `.claude/rules/convencoes-palestras.md` — pares transcrição/resumo (raw/palestras/)
-- `.claude/rules/regra-divergencia.md` — protocolo de registro de divergências (wiki/)
+- `.claude/rules/convencoes-paginas.md` — `paths: wiki/**` — frontmatter, links, estrutura por tipo
+- `.claude/rules/convencoes-palestras.md` — `paths: raw/palestras/**` — pares transcrição/resumo
+- `.claude/rules/convencoes-slides.md` — `paths: slides/**` — padrão socrático Marp
+- `.claude/rules/regra-divergencia.md` — `paths: wiki/**` — protocolo de registro de divergências

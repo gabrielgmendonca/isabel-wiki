@@ -47,6 +47,11 @@ jobs:
           cp quartz.layout.ts /tmp/quartz/quartz.layout.ts
           cp -r quartz-overrides/components/* /tmp/quartz/quartz/components/
 
+      - name: Link inline citations
+        run: |
+          python3 scripts/link_citations.py --apply /tmp/quartz/content/wiki
+          python3 scripts/link_citations.py --apply /tmp/quartz/content/index.md
+
       - name: Build
         run: cd /tmp/quartz && npx quartz build
 

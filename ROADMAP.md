@@ -49,6 +49,15 @@ A wiki tem links, mas pode ser mais densa em conexões — o grafo do Quartz fic
 - [ ] **Obras ↔ obras** — referências cruzadas quando uma obra cita ou complementa outra (ex: Gênese referencia LE em vários pontos)
 - [ ] **Grafo temático** — considerar criar "hub pages" por tema que agreguem todos os links relevantes (ex: hub de "Mediunidade" linkando conceitos, personalidades, obras, questões)
 
+### Citações inline como links
+
+Após a fase 1 (auto-link Markdown→Kardecpedia em build time, capítulo — `scripts/link_citations.py`), aprofundar:
+
+- [ ] **Fase 2 do híbrido — link interno preferencial** — normalizar `raw/kardec/pentateuco/*.md` com headings granulares (`## q. 990`, `## cap. VII, item 16`), remover `raw` do `ignorePatterns` do Quartz e fazer o pré-processador preferir link interno sobre Kardecpedia quando disponível
+- [ ] **Cobrir Kardec complementar no auto-link** — estender mapping para `RE` (Revista Espírita), `OPE` (Obras Póstumas), `OQE` (O Que é o Espiritismo), `Viagem Espírita em 1862`
+- [ ] **Granularidade por questão/item** — mapear não só capítulos mas itens individuais no Kardecpedia (link direto à q. 990 em vez de ao topo do cap. II); o crawler já coleta os ids, falta usar
+- [ ] **Linkar referências bíblicas** — `(Mateus 5:3)`, `(João 14:2)` etc. para uma fonte bíblica online (ACF já existe em `raw/biblia-acf/`; eventual publicação no Quartz dá link interno)
+
 ---
 
 ## 5. Qualidade e automação
