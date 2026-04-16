@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 15 fontes complementares. ~245 páginas entre conceitos, obras, personalidades, questões e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 19 fontes complementares. ~245 páginas entre conceitos, obras, personalidades, questões e sínteses.
 
 ---
 
@@ -296,11 +296,17 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/parabola-da-videira-verdadeira]] — permanência vital na moral do Cristo, ramo que dá fruto vs. ramo seco (S. João, 15).
 - [[wiki/conceitos/parabola-do-grao-de-trigo]] — morte fecunda, renúncia e desapego como lei espiritual (ESE, cap. XXIV; S. João, 12).
 
+## Aprofundamentos
+
+Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
+
+- [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
+
 ## Questões
 
-Páginas dedicadas a questões-chave do LE ou a perguntas específicas do usuário.
+Q&A direta de questões específicas do Pentateuco (uma questão por página).
 
-- [[wiki/questoes/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
+_Nenhuma página ainda._
 
 ## Sínteses
 

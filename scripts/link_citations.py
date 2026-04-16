@@ -10,7 +10,7 @@ Não toca citações dentro de [[wikilinks]] existentes, [texto](url) já linkad
 `código inline` ou ``` blocos cercados ```.
 
 Uso:
-  uv run python scripts/link_citations.py --check wiki/questoes/expiacao-e-arrependimento.md
+  uv run python scripts/link_citations.py --check wiki/aprofundamentos/expiacao-e-arrependimento.md
   uv run python scripts/link_citations.py --apply /tmp/quartz/content
 """
 

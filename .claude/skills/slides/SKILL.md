@@ -19,7 +19,7 @@ Ao iniciar, **entre em plan mode** (`EnterPlanMode`). Nenhum arquivo em `slides/
 
 ### Passo 1 — Validar input
 
-Confirmar que o argumento é uma página existente em `wiki/`. Se vier só um tema (ex: `/slides livre-arbítrio`), procurar em `wiki/conceitos/`, `wiki/sinteses/`, `wiki/questoes/`. Se ambíguo, perguntar.
+Confirmar que o argumento é uma página existente em `wiki/`. Se vier só um tema (ex: `/slides livre-arbítrio`), procurar em `wiki/conceitos/`, `wiki/sinteses/`, `wiki/aprofundamentos/`, `wiki/questoes/`. Se ambíguo, perguntar.
 
 ### Passo 2 — Coletar metadados da palestra
 

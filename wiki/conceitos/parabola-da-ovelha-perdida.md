@@ -35,7 +35,7 @@ Orienta o trabalho de evangelização e de acolhimento: não se abandonam os que
 ## Páginas relacionadas
 
 - [[wiki/conceitos/parabola-do-credor-incompassivo]]
-- [[wiki/questoes/expiacao-e-arrependimento]]
+- [[wiki/aprofundamentos/expiacao-e-arrependimento]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XI
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 18
 - [[wiki/obras/evangelho-segundo-lucas]] — cap. 15

@@ -1,7 +1,27 @@
 ---
-tipo: questao
-fontes: [LE, C&I, ESE, Gênese]
-tags: [expiacao, arrependimento, reparacao, moral, penas-futuras, justica-divina, triade, mundos-de-expiacao, obra/le, obra/ci, obra/ese, obra/genese, lei/adoracao, lei/conservacao, lei/igualdade, lei/justica-amor-caridade]
+tipo: aprofundamento
+fontes:
+  - LE
+  - C&I
+  - ESE
+  - Gênese
+tags:
+  - expiacao
+  - arrependimento
+  - reparacao
+  - moral
+  - penas-futuras
+  - justica-divina
+  - triade
+  - mundos-de-expiacao
+  - obra/le
+  - obra/ci
+  - obra/ese
+  - obra/genese
+  - lei/adoracao
+  - lei/conservacao
+  - lei/igualdade
+  - lei/justica-amor-caridade
 atualizado_em: 2026-04-15
 status: ativo
 ---
@@ -309,7 +329,7 @@ Material curado na wiki para ilustrar cada eixo da tríade arrependimento–expi
 
 ### Casos espíritas (C&I, 2ª parte)
 
-- **[[wiki/personalidades/lisbeth]]** (Bordeaux, 13/02/1862) — o caso paradigmático do arrependimento estéril × produtivo. Mulher rica, nobre, orgulhosa, que persiste no orgulho mesmo desencarnada. Sua comunicação contém a definição canônica usada no corpo desta página (q. 997). A chegada recente de um Espírito protetor ilustra "Deus nunca os abandona" (C&I, item 20). Narrativa muito viva para a palestra.
+- **[[wiki/personalidades/lisbeth]]** (Bordeaux, 13/02/1862) — o caso paradigmático do arrependimento estéril × produtivo. Mulher rica, nobre, orgulhosa, que persiste no orgulho mesmo desencarnada. Sua comunicação contém a definição canônica usada no corpo desta página (q. 997). A chegada recente de um Espírito protetor ilustra "Deus nunca os abandona" (C&I, 1ª parte, cap. VII, item 20). Narrativa muito viva para a palestra.
 - **[[wiki/personalidades/arrependimento-de-um-dissoluto]]** (Bordeaux, 19/04/1862) — contraponto a Lisbeth: Espírito já no caminho do arrependimento, acrescentando à dor interior o conselho aos vivos — sinal de progresso real. Frase central: "As paixões terrestres vos despojam antes de vos deixarem, e chegais ao Senhor nus, inteiramente nus." Ilustra q. 994 e a transição do arrependimento estéril para a reparação indireta.
 
 ### Referências complementares (nível 3)
@@ -322,18 +342,6 @@ Material curado na wiki para ilustrar cada eixo da tríade arrependimento–expi
 > [!note] Critério de uso
 > Sempre abrir pelo Pentateuco (LE/C&I/ESE/Gênese) e só então trazer o complementar como ilustração ou aprofundamento. Se citar André Luiz ou Emmanuel, indicar explicitamente "Emmanuel/Chico Xavier" e a obra — conforme §3 do CLAUDE.md.
 
----
-
-## Roteiro sugerido para palestra
-
-1. **Abertura — A pergunta essencial**: O sofrimento é castigo de Deus? (Partir de ESE, cap. V, item 7: a Terra como hospital e penitenciária.) Abrir com a imagem do **filho pródigo** (ESE, cap. XXVIII): o Pai que corre ao encontro — Deus "estende constantemente a mão ao náufrago" (Gênese, cap. I, item 33).
-2. **Bloco I — O arrependimento** (q. 990–994): Onde ocorre, o que produz, por que ninguém é irrecuperável. Usar a metáfora do despertar: no estado espiritual, o véu cai; no corporal, a consciência é a bússola. Ilustrar q. 994 com o **caso do dissoluto** (C&I, 2ª parte): "as paixões terrestres vos despojam antes de vos deixarem".
-3. **Bloco II — Os obstáculos** (q. 995–997): Inércia, recaída e orgulho. Caso central: **Lisbeth** (C&I, 2ª parte) — o arrependimento estéril vs. o produtivo; o orgulho como "hidra de cem cabeças". Articular com a **figueira seca** (ESE, cap. XIX): piedade sem frutos. Fechar com a **parábola do credor incompassivo** (ESE, cap. X): quem não perdoa, reativa a própria dívida.
-4. **Bloco III — A tríade** (q. 998–1000): Apresentar a formulação de C&I (item 16). Enfatizar a reparação ativa — o dedo mínimo perdido no serviço vale mais que anos de cilício. Usar a comparação de Kardec: "se a justiça de Deus pode ser inferior à dos homens?" Contraste evangélico forte: **rico insensato × Zaqueu** (ESE, cap. XVI) — acumular para si vs. restituir quádruplo em vida. Complementar com os **talentos** (ESE, cap. XV) como modelo de reparação indireta.
-5. **Bloco IV — Generosidade e esperança** (q. 1001–1002): Dar em vida vs. dar depois de morto (retomar Zaqueu e o rico insensato). O futuro jamais se fecha: **trabalhadores da última hora** (ESE, cap. XX) — a misericórdia não mede o relógio, mede o retorno. Fechar com a metáfora médica de C&I: somos doentes que têm esperança de sarar.
-6. **Encerramento — Aplicação prática**: O que posso reparar *hoje*? A quem posso fazer o bem *agora*? A urgência de C&I (item 27): reparar hoje é menos penoso do que amanhã. Retomar o **filho pródigo**: o primeiro passo é levantar-se e voltar — Deus faz o resto do caminho. Convidar à prece pelos Espíritos sofredores (ESE, cap. V, item 27; *O Consolador*, de Emmanuel/Chico Xavier).
-
----
 
 ## Conceitos relacionados
 
@@ -368,7 +376,7 @@ Material curado na wiki para ilustrar cada eixo da tríade arrependimento–expi
 
 ## Fontes
 
-- Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte Quarta, Cap. II — Das penas e gozos futuros, seção "Expiação e arrependimento", q. 990–1002. [Edição em `raw/kardec/pentateuco/livro-dos-espiritos.md`]
-- Kardec, Allan. *O Céu e o Inferno*. FEB. 1ª parte, cap. VII — "Código penal da vida futura", itens 6–7, 13, 16–20, 24–32. [Edição em `raw/kardec/pentateuco/ceu-e-inferno.md`]
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. III, itens 4, 18; Cap. V — "Bem-aventurados os aflitos", itens 7–12, 27. [Edição em `raw/kardec/pentateuco/evangelho-segundo-o-espiritismo.md`]
-- Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. I, itens 32–34. [Edição em `raw/kardec/pentateuco/genese.md`]
+- Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte Quarta, Cap. II — Das penas e gozos futuros, seção "Expiação e arrependimento", q. 990–1002. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- Kardec, Allan. *O Céu e o Inferno*. FEB. 1ª parte, cap. VII — "Código penal da vida futura", itens 6–7, 13, 16–20, 24–32. Edição: [[raw/kardec/pentateuco/ceu-e-inferno]].
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. III, itens 4, 18; Cap. V — "Bem-aventurados os aflitos", itens 7–12, 27. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
+- Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. I, itens 32–34. Edição: [[raw/kardec/pentateuco/genese]].

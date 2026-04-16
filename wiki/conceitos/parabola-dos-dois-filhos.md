@@ -25,7 +25,7 @@ Kardec sistematiza o princípio: "Reconhece-se o verdadeiro espírita pela sua t
 ## Leitura espírita
 
 - **Primado da prática sobre a profissão verbal.** Rotular-se "espírita", "cristão", "religioso" nada significa sem conduta correspondente.
-- **Valor do arrependimento ativo.** Não o arrependimento sentimental — o que se traduz em ação (LE, q. 990–1002; [[wiki/questoes/expiacao-e-arrependimento]]).
+- **Valor do arrependimento ativo.** Não o arrependimento sentimental — o que se traduz em ação (LE, q. 990–1002; [[wiki/aprofundamentos/expiacao-e-arrependimento]]).
 - **Justiça igualitária de Deus.** Publicanos e meretrizes precedem no Reino não porque o pecado seja preferível à formalidade, mas porque o arrependimento verdadeiro é o que conta — e os que se sabem faltosos com frequência se arrependem mais sinceramente que os que se julgam justos.
 
 ## Aplicação prática
@@ -36,7 +36,7 @@ Convida ao exame íntimo: minhas palavras e minhas obras coincidem? Dizer "sim" 
 
 - [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta
 - [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar
-- [[wiki/questoes/expiacao-e-arrependimento]]
+- [[wiki/aprofundamentos/expiacao-e-arrependimento]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XVII, XVIII
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 21
 

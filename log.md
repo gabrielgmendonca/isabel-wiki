@@ -4,6 +4,24 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-16] refactor | Nova pasta `wiki/aprofundamentos/`
+
+Introduzido o tipo `aprofundamento` para estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens de C&I). `wiki/questoes/` fica reservado para Q&A direta de **uma única questão** do Pentateuco. `expiacao-e-arrependimento.md` (13 questões, 990–1002) migrou de `questoes/` para `aprofundamentos/` — tipo e links atualizados. Diretivas ajustadas: CLAUDE.md §4, `.claude/rules/convencoes-paginas.md`, `.claude/skills/ingest/SKILL.md`, `.claude/skills/slides/SKILL.md`, scripts de stats/update_status/lint. Reexecutar `/stats` para atualizar `wiki/sinteses/estatisticas-da-wiki.md`.
+
+---
+
+## [2026-04-16] lint | 18 achados
+
+Os 10 erros/avisos em torno de `expiacao-e-arrependimento` têm causa única — o rename de `wiki/questoes/` → `wiki/aprofundamentos/` ainda não foi propagado (7 broken_links + 1 index_broken + órfão + index_missing). Frontmatter erra como falso positivo: `lint_wiki.py:436` ainda não aceita `aprofundamento` em `valid_tipos`. 1 `citation_format` real em `(C&I, item 20)` sem parte/capítulo. 5 divergências abertas, todas completas.
+
+---
+
+## [2026-04-16] lint | 9 achados
+
+Restam 2 broken_links em `wiki/sinteses/estatisticas-da-wiki.md` apontando para `wiki/questoes/expiacao-e-arrependimento` (caminho antigo) — regerar via `/stats`. 1 `citation_format` persistente em `(C&I, item 20)` (sem parte/capítulo) em `wiki/aprofundamentos/expiacao-e-arrependimento.md:332`. 5 divergências abertas, todas completas. 1 info cosmético no `index.md` (15 vs 19 fontes complementares).
+
+---
+
 ## [2026-04-15] ingest | Entre a Terra e o Céu (André Luiz/Chico Xavier)
 
 Ingerido o 8º livro da série André Luiz (1954, FEB, 40 capítulos) a partir de `raw/mediuns/entre-a-terra-e-o-ceu.md`. Criadas: `wiki/obras/entre-a-terra-e-o-ceu.md` e cinco personalidades (andre-luiz, clarencio, irma-clara, odila, zulmira). Os conceitos `obsessao`, `reencarnacao` e `prece` foram estendidos: obsessão por sintonia de remorso (caso Zulmira–Odila) e protocolo de desobsessão envolvente; mecânica fluídica da gravidez e hereditariedade relativa; distinção prece × invocação. Nenhuma divergência com o Pentateuco identificada — obra aprofunda a mecânica perispirítica de forma coerente com LE/LM/ESE.

@@ -37,7 +37,7 @@ from _lib.wiki_utils import (  # noqa: E402
 OUTPUT_PATH = WIKI_DIR / "sinteses" / "estatisticas-da-wiki.md"
 RAW_DIR = Path("raw")
 
-TIPOS_DIR = ["obras", "conceitos", "entidades", "personalidades", "questoes", "sinteses", "divergencias"]
+TIPOS_DIR = ["obras", "conceitos", "entidades", "personalidades", "questoes", "aprofundamentos", "sinteses", "divergencias"]
 
 # Tokens/padrões a remover antes de contar palavras
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)

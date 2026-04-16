@@ -45,7 +45,7 @@ O arrependimento sincero é sempre acolhido — ensino que deve permear as pales
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/progresso-espiritual]]
-- [[wiki/questoes/expiacao-e-arrependimento]]
+- [[wiki/aprofundamentos/expiacao-e-arrependimento]]
 
 ## Fontes
 

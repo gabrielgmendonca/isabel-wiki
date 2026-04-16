@@ -40,7 +40,7 @@ EVANGELHOS_LABEL = {
     "evangelho-segundo-joao": "João",
 }
 
-TIPOS = ["conceitos", "obras", "personalidades", "questoes", "sinteses", "divergencias"]
+TIPOS = ["conceitos", "obras", "personalidades", "questoes", "aprofundamentos", "sinteses", "divergencias"]
 
 
 def slugs(dirname: str) -> set[str]:
@@ -71,7 +71,7 @@ def main() -> int:
         f"{'completo' if len(pent_presentes) == 5 else 'parcial'} "
         f"({len(pent_presentes)}/5 obras ingeridas){evang_trecho} "
         f"+ {len(complementares)} fontes complementares. "
-        f"~{total} páginas entre conceitos, obras, personalidades, questões e sínteses."
+        f"~{total} páginas entre conceitos, obras, personalidades, questões, aprofundamentos e sínteses."
     )
 
     texto = INDEX.read_text(encoding="utf-8")
@@ -92,7 +92,7 @@ def main() -> int:
         f"  obras={len(obras)} (pentateuco={len(pent_presentes)}, "
         f"evangelhos={len(evang_presentes)}, complementares={len(complementares)}), "
         f"conceitos={counts['conceitos']}, personalidades={counts['personalidades']}, "
-        f"questoes={counts['questoes']}, sinteses={counts['sinteses']}, "
+        f"questoes={counts['questoes']}, aprofundamentos={counts['aprofundamentos']}, sinteses={counts['sinteses']}, "
         f"divergencias={counts['divergencias']}, total={total}"
     )
     return 0
