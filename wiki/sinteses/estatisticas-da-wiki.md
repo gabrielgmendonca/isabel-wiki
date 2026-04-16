@@ -18,7 +18,7 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 
 - Páginas na wiki: **245**
 - Arquivos em `raw/`: **1224**
-- Nós no grafo: **245** · Arestas: **1906**
+- Nós no grafo: **245** · Arestas: **1905**
 - Componentes fracamente conexos: **1** (maior: 245 nós)
 - Páginas órfãs (sem backlinks): **0**
 - Vocabulário único (após stopwords): **12261** termos
@@ -59,8 +59,8 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 | 7 | [[wiki/conceitos/morte]] | 35 |
 | 8 | [[wiki/conceitos/penas-e-gozos-futuros]] | 35 |
 | 9 | [[wiki/conceitos/prece]] | 34 |
-| 10 | [[wiki/conceitos/mediunidade]] | 32 |
-| 11 | [[wiki/conceitos/obsessao]] | 32 |
+| 10 | [[wiki/conceitos/obsessao]] | 33 |
+| 11 | [[wiki/conceitos/mediunidade]] | 32 |
 | 12 | [[wiki/conceitos/expiacao-e-reparacao]] | 31 |
 | 13 | [[wiki/conceitos/perispirito]] | 30 |
 | 14 | [[wiki/personalidades/jesus]] | 29 |
@@ -71,7 +71,7 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 | # | Página | Out |
 |---|--------|-----|
 | 1 | [[wiki/obras/ceu-e-inferno]] | 85 |
-| 2 | [[wiki/sinteses/estatisticas-da-wiki]] | 45 |
+| 2 | [[wiki/sinteses/estatisticas-da-wiki]] | 44 |
 | 3 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 40 |
 | 4 | [[wiki/obras/depois-da-morte]] | 37 |
 | 5 | [[wiki/obras/evangelho-segundo-lucas]] | 36 |
@@ -139,10 +139,10 @@ _Nenhum._
 | 17 | `fontes` | 255 |
 | 18 | `caps` | 244 |
 | 19 | `mundo` | 240 |
-| 20 | `alma` | 226 |
-| 21 | `parábola` | 226 |
+| 20 | `parábola` | 227 |
+| 21 | `alma` | 226 |
 | 22 | `segundo` | 225 |
-| 23 | `páginas` | 223 |
+| 23 | `páginas` | 222 |
 | 24 | `relacionadas` | 221 |
 | 25 | `evangelho` | 216 |
 | 26 | `caridade` | 213 |
@@ -159,15 +159,15 @@ _Nenhum._
 | 37 | `expiação` | 159 |
 | 38 | `mateus` | 155 |
 | 39 | `doutrina` | 150 |
-| 40 | `prece` | 139 |
+| 40 | `prece` | 140 |
 | 41 | `sofrimento` | 138 |
 | 42 | `justiça` | 138 |
 | 43 | `provas` | 137 |
 | 44 | `natureza` | 136 |
-| 45 | `item` | 130 |
+| 45 | `item` | 131 |
 | 46 | `estado` | 129 |
-| 47 | `obras` | 126 |
-| 48 | `sempre` | 125 |
+| 47 | `sempre` | 125 |
+| 48 | `obras` | 125 |
 | 49 | `princípio` | 122 |
 | 50 | `médium` | 122 |
 
@@ -175,9 +175,9 @@ _Nenhum._
 
 | # | Bigrama | Ocorrências |
 |---|---------|-------------|
-| 1 | `kardec allan` | 385 |
+| 1 | `kardec allan` | 386 |
 | 2 | `guillon ribeiro` | 276 |
-| 3 | `trad guillon` | 260 |
+| 3 | `trad guillon` | 261 |
 | 4 | `fontes kardec` | 204 |
 | 5 | `páginas relacionadas` | 202 |
 | 6 | `allan livro` | 136 |

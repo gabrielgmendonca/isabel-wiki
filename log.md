@@ -22,6 +22,12 @@ Restam 2 broken_links em `wiki/sinteses/estatisticas-da-wiki.md` apontando para 
 
 ---
 
+## [2026-04-16] lint | 5 achados
+
+Wiki limpa: 0 erros, 0 avisos. Apenas as 5 divergências abertas esperadas (status informativo), todas com corpo completo (`possibly_incomplete: false`). 245 páginas catalogadas (1 aprofundamento, 119 conceitos, 6 divergências, 24 obras, 92 personalidades, 3 sínteses).
+
+---
+
 ## [2026-04-15] ingest | Entre a Terra e o Céu (André Luiz/Chico Xavier)
 
 Ingerido o 8º livro da série André Luiz (1954, FEB, 40 capítulos) a partir de `raw/mediuns/entre-a-terra-e-o-ceu.md`. Criadas: `wiki/obras/entre-a-terra-e-o-ceu.md` e cinco personalidades (andre-luiz, clarencio, irma-clara, odila, zulmira). Os conceitos `obsessao`, `reencarnacao` e `prece` foram estendidos: obsessão por sintonia de remorso (caso Zulmira–Odila) e protocolo de desobsessão envolvente; mecânica fluídica da gravidez e hereditariedade relativa; distinção prece × invocação. Nenhuma divergência com o Pentateuco identificada — obra aprofunda a mecânica perispirítica de forma coerente com LE/LM/ESE.
