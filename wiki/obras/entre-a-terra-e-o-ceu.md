@@ -15,7 +15,7 @@ status: rascunho
 - **Primeira edição:** 1954
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (8º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/entre-a-terra-e-o-ceu]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Etc/EtcPref.htm)
 
 ## Estrutura
