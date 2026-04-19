@@ -86,6 +86,7 @@ Para o estudo pessoal, este conceito traz consolacao e responsabilidade em parte
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/deus]]
 - [[wiki/conceitos/livre-arbitrio]]
+- [[wiki/questoes/pactos-com-satanas-como-alegoria]]
 
 ## Fontes
 

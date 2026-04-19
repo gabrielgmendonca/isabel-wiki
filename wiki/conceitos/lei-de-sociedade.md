@@ -31,6 +31,7 @@ Os laços de família entre os homens são Lei da Natureza, **não mera convenç
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual com consequências na vida futura (LE, q. 582–583).
 
 ## Fontes
 

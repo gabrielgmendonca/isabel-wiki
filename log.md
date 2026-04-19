@@ -4,6 +4,20 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] ingest | Cinco questões-chave do LE (bloco 501–600)
+
+Ataque ao item §3 do ROADMAP ("Extrair questões-chave do Pentateuco") e à sugestão automática do `stats_wiki.py` que apontava 4 blocos de 100 questões do LE com <20% de cobertura — em especial o bloco 501–600, com apenas 2% de cobertura. Criadas 5 páginas em `wiki/questoes/`, cobrindo subtópicos diversos do bloco:
+
+1. `por-que-a-acao-dos-espiritos-e-oculta.md` — LE, q. 501 (anjos guardiães, livre-arbítrio como razão da invisibilidade do auxílio espiritual).
+2. `espiritos-e-as-leis-da-natureza.md` — LE, q. 526–527 (escada podre e raio: Espíritos atuam dentro das leis naturais, não as derrogam; base doutrinária contra milagre-ruptura e superstição).
+3. `pactos-com-satanas-como-alegoria.md` — LE, q. 549–550 (lendas fantásticas como símbolo moral; sintonia com Espíritos inferiores sempre rompível pela vontade; negação das penas eternas).
+4. `paternidade-como-missao.md` — LE, q. 582–583 (paternidade como missão; responsabilidade simétrica ao livre-arbítrio do filho; janela providencial da infância).
+5. `alma-dos-animais.md` — LE, q. 597–600 (princípio inteligente sobrevive, conserva individualidade, sem livre-arbítrio nem consciência do eu; negação frontal da metempsicose popular).
+
+Seguem rigorosamente o padrão de `arrependimento-expiacao-e-reparacao.md` (Pergunta · Resposta dos Espíritos · Análise · Conceitos relacionados · Fontes). Impacto esperado nas próximas estatísticas: questões únicas citadas do LE passam de 215 → ~230 (+7%); páginas em `wiki/questoes/` passam de 1 → 6; razão conceitos/questões cai de 119:1 para ~20:1. `index.md` atualizado com as 5 entradas na seção Questões.
+
+---
+
 ## [2026-04-19] refactor | Lint ignora conteúdo em backticks; remove estatísticas de `index.md`
 
 Lint rodado sobre 246 páginas encontrou 11 achados — todos falsos positivos em `wiki/sinteses/estatisticas-da-wiki.md` (1 `[[...]]` e 4 citações `(LE, q. N)` dentro de inline code, usados como exemplo didático) ou cosméticos (contagem de páginas no `index.md`). Dois ajustes:

@@ -55,6 +55,7 @@ Kardec divide a lei natural em **dez leis morais** (Parte 3, Caps. II–XI), mai
 ## Páginas relacionadas
 
 - [[wiki/conceitos/deus]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/personalidades/jesus]]
+- [[wiki/questoes/espiritos-e-as-leis-da-natureza]] — Espíritos atuam *dentro* das leis da natureza, nunca as derrogam (LE, q. 526–527).
 
 ## Fontes
 

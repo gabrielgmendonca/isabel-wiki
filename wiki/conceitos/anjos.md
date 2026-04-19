@@ -71,6 +71,7 @@ Para estudos comparativos entre Espiritismo e Cristianismo tradicional, este cap
 - [[wiki/conceitos/deus]]
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
 - [[wiki/conceitos/penas-eternas]]
+- [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]]
 
 ## Fontes
 
