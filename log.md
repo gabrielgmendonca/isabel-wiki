@@ -4,6 +4,19 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] ingest | Expansão das 4 Leis Morais em stub (Adoração, Trabalho, Reprodução, Sociedade)
+
+Ataque ao item §3 do ROADMAP ("Completar páginas das 10 Leis Morais"). As quatro leis que restavam como stubs (<105 palavras) foram reescritas a partir do raw do LE e do ESE:
+
+1. `lei-de-adoracao.md` (88 → ~650 palavras) — cobre LE q. 649–673 integralmente: sentimento inato, adoração interior/exterior, vida contemplativa, prece (caráter, efeito, por outrem, pelos mortos, aos Espíritos), politeísmo, sacrifícios. Cruzamento com ESE cap. XXVII e XXVIII.
+2. `lei-do-trabalho.md` (stub → ~580 palavras) — cobre LE q. 674–685: trabalho espiritual, expiação + progresso, homem × animais, mundos aperfeiçoados, dispensa do rico, trabalho entre gerações, repouso, abuso de autoridade, velhice. Cruzamento com ESE cap. XX e XXV.
+3. `lei-de-reproducao.md` (stub → ~580 palavras) — cobre LE q. 686–701: equilíbrio populacional, sucessão das raças e reencarnação, Ciência e aperfeiçoamento, obstáculos artificiais × regulação, casamento como progresso, indissolubilidade, celibato (egoísmo × sacrifício), poligamia. Cruzamento com ESE cap. XXII.
+4. `lei-de-sociedade.md` (stub → ~510 palavras) — cobre LE q. 766–775: necessidade da vida social, vida reclusa (duplo egoísmo × reclusão produtiva), voto de silêncio, laços de família. Cruzamento com ESE cap. XI, XIV, XV.
+
+Cada página agora segue a estrutura canônica (Definição · Ensino · Desdobramentos · Aplicação prática · Páginas relacionadas · Fontes) das 6 leis já completas. Impacto: a tag-namespace `lei/` passa a ter cobertura doutrinária simétrica nas 10 leis, e o bloco 601–700 do LE ganha ~8 questões únicas citadas.
+
+---
+
 ## [2026-04-19] ingest | Cinco questões-chave do LE (bloco 501–600)
 
 Ataque ao item §3 do ROADMAP ("Extrair questões-chave do Pentateuco") e à sugestão automática do `stats_wiki.py` que apontava 4 blocos de 100 questões do LE com <20% de cobertura — em especial o bloco 501–600, com apenas 2% de cobertura. Criadas 5 páginas em `wiki/questoes/`, cobrindo subtópicos diversos do bloco:
