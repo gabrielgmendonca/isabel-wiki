@@ -76,10 +76,29 @@ def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
     return fm, duplicates
 
 
+def strip_inline_code(text: str) -> str:
+    """Substitui conteúdo de blocos ``` ``` e inline `...` por espaços.
+
+    Preserva quebras de linha (para manter numeração) e comprimento (para manter
+    offsets). Usado por parsers (wikilinks, citações) que devem ignorar trechos
+    em backticks — p.ex. `[[...]]` dentro de inline code é exemplo, não link real.
+    """
+    def _blank(m: re.Match) -> str:
+        return "".join(c if c == "\n" else " " for c in m.group(0))
+
+    text = re.sub(r"```.*?```", _blank, text, flags=re.DOTALL)
+    text = re.sub(r"`[^`\n]+`", _blank, text)
+    return text
+
+
 def find_wikilinks(text: str) -> list[tuple[int, str]]:
-    """Retorna lista de (linha, target) para cada wikilink no texto."""
+    """Retorna lista de (linha, target) para cada wikilink no texto.
+
+    Conteúdo dentro de backticks (inline code ou blocos cercados) é ignorado.
+    """
     results = []
-    for i, line in enumerate(text.splitlines(), 1):
+    stripped = strip_inline_code(text)
+    for i, line in enumerate(stripped.splitlines(), 1):
         for m in re.finditer(r"\[\[([^\]|#]+)", line):
             results.append((i, m.group(1).strip()))
     return results

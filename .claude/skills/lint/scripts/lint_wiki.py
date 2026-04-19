@@ -28,6 +28,7 @@ from _lib.wiki_utils import (  # noqa: E402
     page_key,
     parse_frontmatter,
     resolve_wikilink,
+    strip_inline_code,
 )
 
 STALE_DAYS = 14
@@ -246,10 +247,14 @@ _BOOK_SIGLAS = re.compile(
 
 
 def check_citation_format(pages: list[Path]) -> dict:
-    """Check 6 — citações com sigla conhecida mas formato não reconhecido."""
+    """Check 6 — citações com sigla conhecida mas formato não reconhecido.
+
+    Conteúdo dentro de backticks é ignorado para evitar falsos positivos em
+    exemplos/placeholders como `(LE, q. N)` ou `(LM, Nª parte, cap. X)`.
+    """
     items = []
     for page in pages:
-        text = page.read_text(encoding="utf-8")
+        text = strip_inline_code(page.read_text(encoding="utf-8"))
         for i, line in enumerate(text.splitlines(), 1):
             for m in _BOOK_SIGLAS.finditer(line):
                 # Extrair a citação completa entre parênteses
@@ -397,7 +402,11 @@ def check_pentateuco_completo(pages: list[Path]) -> dict:
 
 
 def check_status_projeto(pages: list[Path]) -> dict:
-    """Check — contagens prosa do 'Status do projeto' em index.md (info)."""
+    """Check — contagens prosa do 'Status do projeto' em index.md (info).
+
+    Só reporta quando uma contagem está presente e divergente. Ausência é OK:
+    métricas agora vivem em `wiki/sinteses/estatisticas-da-wiki.md`.
+    """
     obras_dir = WIKI_DIR / "obras"
     obras_pages = sorted(obras_dir.glob("*.md")) if obras_dir.exists() else []
     n_complementares = sum(
@@ -414,8 +423,6 @@ def check_status_projeto(pages: list[Path]) -> dict:
             items.append({
                 "detail": f"index.md diz {idx_fontes} fontes complementares, mas há {n_complementares}",
             })
-    else:
-        items.append({"detail": "não encontrou contagem de fontes complementares em index.md"})
 
     m_paginas = re.search(r"~?(\d+)\s*páginas?", text)
     if m_paginas:
@@ -424,8 +431,6 @@ def check_status_projeto(pages: list[Path]) -> dict:
             items.append({
                 "detail": f"index.md diz ~{idx_paginas} páginas, mas há {total_paginas}",
             })
-    else:
-        items.append({"detail": "não encontrou contagem de páginas em index.md"})
 
     return {"severity": "info", "count": len(items), "items": items}
 

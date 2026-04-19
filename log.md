@@ -4,6 +4,17 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] refactor | Lint ignora conteúdo em backticks; remove estatísticas de `index.md`
+
+Lint rodado sobre 246 páginas encontrou 11 achados — todos falsos positivos em `wiki/sinteses/estatisticas-da-wiki.md` (1 `[[...]]` e 4 citações `(LE, q. N)` dentro de inline code, usados como exemplo didático) ou cosméticos (contagem de páginas no `index.md`). Dois ajustes:
+
+1. **`wiki_utils.strip_inline_code`** nova: substitui conteúdo de ``` ``` e `...` por espaços preservando quebras de linha. `find_wikilinks` agora usa antes de scanear, e `check_citation_format` também. Fim dos falsos positivos em prosa explicativa sobre o próprio regex.
+2. **`index.md`** perde contagens numéricas ("19 fontes complementares", "~245 páginas") — delegadas a `[[wiki/sinteses/estatisticas-da-wiki]]`. `check_status_projeto` atualizado para não reclamar de ausência (só divergência). 
+
+Pós-correção: 0 erros, 0 avisos, 5 info (divergências abertas, by design, todas com `possibly_incomplete: false`).
+
+---
+
 ## [2026-04-16] refactor | `wiki/questoes/` admite itens pontuais de C&I/ESE/Gênese
 
 Convenção de `wiki/questoes/` estendida: deixa de ser restrita a "uma única questão do Pentateuco (LE/LM/OQE)" e passa a admitir também itens pontuais de C&I/ESE/Gênese — mantendo o espírito de Q&A direta (uma pergunta, uma citação literal, um comentário, uma análise). Motivo: a primeira página de questão (`arrependimento-expiacao-e-reparacao`) nasce ancorada em C&I, 1ª parte, cap. VII, itens 16–17, e não se encaixa na definição antiga. Ajustados: `.claude/rules/convencoes-paginas.md`, `CLAUDE.md` §4, `.claude/skills/ingest/SKILL.md`.
