@@ -22,7 +22,10 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 - Componentes fracamente conexos: **1** (maior: 245 nós)
 - Páginas órfãs (sem backlinks): **0**
 - Vocabulário único (após stopwords): **12159** termos
-- Entradas em `log.md`: **49**
+- Entradas em `log.md`: **50**
+- Razão conceitos/questões: **119:1** (119.0)
+- Questões únicas do LE citadas: **215/1019** (21.1%)
+- Wikilinks não resolvidos (freq ≥ 5): **0** targets
 
 ## Cobertura por tipo
 
@@ -44,6 +47,36 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 | `rascunho` | 12 |
 | `aberta` | 5 |
 | `concluída` | 1 |
+
+## Cobertura doutrinária
+
+Referências únicas do Pentateuco efetivamente citadas pela wiki (`(LE, q. N)`, `(ESE, cap. X, item Y)`, etc.). Mede o quanto da codificação já foi ancorado em páginas próprias.
+
+| Obra | Unidade | Citadas | Total | Cobertura |
+|------|---------|--------:|------:|----------:|
+| LE | questões | 215 | 1019 | 21.1% |
+| ESE | capítulos | 28 | 28 | 100.0% |
+| Gênese | capítulos | 10 | 18 | 55.6% |
+| LM | capítulos da 2ª parte | 24 | 33 | 72.7% |
+| C&I | capítulos | 18 | 18 | 100.0% |
+
+Referências `cap./item` únicas: ESE **103**, Gênese **50**, LM **30**, C&I **18**.
+
+### Cobertura do LE por bloco de 100 questões
+
+```
+   1– 100  █████████·····················   30/100 (30%)
+ 101– 200  ███████······················   26/100 (26%)
+ 201– 300  ████·························   16/100 (16%)
+ 301– 400  █····························    5/100 (5%)
+ 401– 500  ███··························   12/100 (12%)
+ 501– 600  ·····························    2/100 (2%)
+ 601– 700  ████████·····················   28/100 (28%)
+ 701– 800  ███████······················   25/100 (25%)
+ 801– 900  ████████·····················   27/100 (27%)
+ 901–1000  █████████····················   33/100 (33%)
+1001–1019  █████████████████············   11/19 (58%)
+```
 
 ## Grafo de conhecimento
 
@@ -207,7 +240,7 @@ Período coberto: **2026-04** → **2026-04** (1 meses).
 ingest     █  total=25
 lint       █  total=14
 query      █  total=6
-refactor   █  total=2
+refactor   █  total=3
 setup      █  total=2
 ```
 
@@ -215,7 +248,7 @@ setup      █  total=2
 
 | Mês | ingest | lint | query | refactor | setup | Total |
 |-----|---|---|---|---|---|-------|
-| 2026-04 | 25 | 14 | 6 | 2 | 2 | 49 |
+| 2026-04 | 25 | 14 | 6 | 3 | 2 | 50 |
 
 ### Dias mais ativos
 
@@ -228,6 +261,7 @@ setup      █  total=2
 | 2026-04-05 | 2 |
 | 2026-04-08 | 2 |
 | 2026-04-18 | 1 |
+| 2026-04-19 | 1 |
 
 ## Tamanho das páginas
 
@@ -265,9 +299,17 @@ setup      █  total=2
 - [[wiki/personalidades/espiritos-reveladores]] — 92 palavras
 - [[wiki/conceitos/lei-de-sociedade]] — 93 palavras
 
+## Referências não resolvidas
+
+Wikilinks `[[...]]` cujo target não existe na árvore — candidatos a páginas novas (quando frequentes) ou erros de digitação (quando raros).
+
+_Nenhum wikilink quebrado._
+
 ## Sugestões automáticas
 
 - **Termos frequentes sem página própria**: `kardec` (642), `espírito` (625), `espíritos` (568), `vida` (419), `moral` (415), `espírita` (366), `espiritual` (345), `espiritismo` (283) — candidatos a novos conceitos ou sinônimos a padronizar.
+- **4 blocos de 100 questões do LE com <20% de cobertura**: 201–300 (16/100), 301–400 (5/100), 401–500 (12/100), 501–600 (2/100). Priorizar extração de questões-chave desses intervalos para `wiki/questoes/`.
+- **Razão conceitos/questões muito alta** (119:1 = 119.0). `wiki/questoes/` está sub-representada; ver item §3 do ROADMAP.
 
 ## Páginas referenciadas
 
@@ -279,4 +321,5 @@ setup      █  total=2
 - Script gerador: `.claude/skills/stats/scripts/stats_wiki.py` (execução em 2026-04-19).
 - Corpus analisado: `wiki/**/*.md`, `log.md`, `raw/**/*.md`.
 - Dependências: `networkx` (grafo, PageRank), `nltk` (stopwords PT-BR).
-- Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário e tamanho; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.
+- Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário, tamanho, cobertura doutrinária e wikilinks quebrados; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.
+- Cobertura doutrinária: regex sobre citações inline `(LE, q. N)`, `(ESE, cap. X, item Y)`, `(Gênese, cap. X, item Y)`, `(LM, Nª parte, cap. X)`, `(C&I, Nª parte, cap. X)`. Totais canônicos: LE=1019q; ESE=28c; Gênese=18c; LM=33c (2ª parte); C&I=18c (11 + 7).

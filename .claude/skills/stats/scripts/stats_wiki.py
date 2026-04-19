@@ -58,6 +58,24 @@ TEMPLATE_SECTION_RE = re.compile(
 
 SPARK = "▁▂▃▄▅▆▇█"
 
+# Denominadores canônicos do Pentateuco, usados para % de cobertura.
+# LM tem 3 caps na 1ª parte (teórica) e 33 na 2ª (prática); contabilizamos a 2ª,
+# que concentra o grosso do ensino sobre médiuns.
+# C&I soma 11 caps da 1ª parte (doutrina) + 7 da 2ª (exemplos) = 18.
+PENTATEUCO_TOTAIS: dict[str, tuple[str, int]] = {
+    "LE": ("questões", 1019),
+    "LM": ("capítulos da 2ª parte", 33),
+    "ESE": ("capítulos", 28),
+    "C&I": ("capítulos", 18),
+    "Gênese": ("capítulos", 18),
+}
+
+LE_CITATION_RE = re.compile(r"\(LE,\s*q\.\s*(\d+)")
+ESE_CITATION_RE = re.compile(r"\(ESE,\s*cap\.\s*([IVXLCDM]+)(?:\s*,\s*item\s*(\d+))?")
+GENESE_CITATION_RE = re.compile(r"\(Gênese,\s*cap\.\s*([IVXLCDM]+)(?:\s*,\s*item\s*(\d+))?")
+LM_CITATION_RE = re.compile(r"\(LM(?:,\s*(\d+)ª?\s*parte)?,\s*cap\.\s*([IVXLCDM]+)")
+CI_CITATION_RE = re.compile(r"\(C&I(?:,\s*(\d+)ª?\s*parte)?,\s*cap\.\s*([IVXLCDM]+)")
+
 
 def ensure_stopwords() -> set[str]:
     """Garante corpus de stopwords do nltk disponível; retorna set PT-BR."""
@@ -187,6 +205,80 @@ def sparkline(values: list[int]) -> str:
     return "".join(SPARK[min(len(SPARK) - 1, int((v / mx) * (len(SPARK) - 1)))] for v in values)
 
 
+def collect_citations(pages: list[Path]) -> dict[str, set]:
+    """Coleta conjuntos de referências únicas por obra do Pentateuco."""
+    le_q: set[int] = set()
+    ese_caps: set[str] = set()
+    ese_refs: set[str] = set()
+    genese_caps: set[str] = set()
+    genese_refs: set[str] = set()
+    lm_refs: set[str] = set()
+    lm_caps_p2: set[str] = set()
+    ci_refs: set[str] = set()
+    ci_caps: set[str] = set()
+    for p in pages:
+        fm, _ = parse_frontmatter(p)
+        if is_meta_page(fm):
+            continue
+        text = p.read_text(encoding="utf-8")
+        for m in LE_CITATION_RE.finditer(text):
+            le_q.add(int(m.group(1)))
+        for m in ESE_CITATION_RE.finditer(text):
+            cap = m.group(1)
+            ese_caps.add(cap)
+            ese_refs.add(f"{cap}/{m.group(2) or '-'}")
+        for m in GENESE_CITATION_RE.finditer(text):
+            cap = m.group(1)
+            genese_caps.add(cap)
+            genese_refs.add(f"{cap}/{m.group(2) or '-'}")
+        for m in LM_CITATION_RE.finditer(text):
+            parte, cap = m.group(1), m.group(2)
+            lm_refs.add(f"P{parte or '?'}/{cap}")
+            if parte == "2":
+                lm_caps_p2.add(cap)
+        for m in CI_CITATION_RE.finditer(text):
+            parte, cap = m.group(1), m.group(2)
+            key = f"P{parte or '?'}/{cap}"
+            ci_refs.add(key)
+            ci_caps.add(key)
+    return {
+        "LE_questions": le_q,
+        "ESE_chapters": ese_caps,
+        "ESE_refs": ese_refs,
+        "Genese_chapters": genese_caps,
+        "Genese_refs": genese_refs,
+        "LM_chapters_p2": lm_caps_p2,
+        "LM_refs": lm_refs,
+        "CI_chapters": ci_caps,
+        "CI_refs": ci_refs,
+    }
+
+
+def broken_wikilinks(pages: list[Path]) -> Counter:
+    """Conta wikilinks cujo target não resolve para um arquivo existente."""
+    broken: Counter = Counter()
+    for p in pages:
+        fm, _ = parse_frontmatter(p)
+        if is_meta_page(fm):
+            continue
+        text = p.read_text(encoding="utf-8")
+        for _, target in find_wikilinks(text):
+            resolved = resolve_wikilink(target)
+            if not resolved.exists():
+                broken[target] += 1
+    return broken
+
+
+def le_coverage_buckets(questions: set[int], bucket: int = 100, total: int = 1019) -> list[tuple[str, int, int]]:
+    """Agrupa questões do LE em blocos e retorna (intervalo, cobertas, tamanho)."""
+    results: list[tuple[str, int, int]] = []
+    for start in range(1, total + 1, bucket):
+        end = min(start + bucket - 1, total)
+        count = sum(1 for q in questions if start <= q <= end)
+        results.append((f"{start:>4}–{end:>4}", count, end - start + 1))
+    return results
+
+
 # ---------------------------------------------------------------------------
 # Render
 # ---------------------------------------------------------------------------
@@ -204,6 +296,12 @@ def render(pages: list[Path]) -> str:
     graph = build_graph(pages)
     words, bigrams, sizes = word_stats(pages, stop)
     log_entries = parse_log()
+    citations = collect_citations(pages)
+    broken = broken_wikilinks(pages)
+
+    n_conceitos = tcounts.get("conceitos", 0)
+    n_questoes = tcounts.get("questoes", 0)
+    ratio_cq = f"{n_conceitos / n_questoes:.1f}" if n_questoes else "—"
 
     raw_total = sum(1 for _ in RAW_DIR.rglob("*.md")) if RAW_DIR.exists() else 0
 
@@ -259,6 +357,28 @@ def render(pages: list[Path]) -> str:
     if small_component_nodes:
         suggestions.append(f"**{len(small_component_nodes)} páginas em componentes isolados** (≤2 nós) — candidatas a integração no grafo principal.")
 
+    broken_top = sorted(((t, c) for t, c in broken.items() if c >= 5), key=lambda x: -x[1])
+    if broken_top:
+        amostra = ", ".join(f"`{t}` ({c})" for t, c in broken_top[:8])
+        suggestions.append(
+            f"**{len(broken_top)} targets de wikilink referenciados 5+ vezes sem página**: {amostra} — "
+            "candidatos diretos a novas páginas (conceitos/personalidades/obras)."
+        )
+
+    uncovered_le_blocks = [(label, count, size) for label, count, size in le_coverage_buckets(citations["LE_questions"]) if count / size < 0.20]
+    if uncovered_le_blocks:
+        blocos = ", ".join(f"{l.replace(' ', '')} ({c}/{s})" for l, c, s in uncovered_le_blocks[:6])
+        suggestions.append(
+            f"**{len(uncovered_le_blocks)} blocos de 100 questões do LE com <20% de cobertura**: {blocos}. "
+            "Priorizar extração de questões-chave desses intervalos para `wiki/questoes/`."
+        )
+
+    if n_questoes and n_conceitos / n_questoes > 20:
+        suggestions.append(
+            f"**Razão conceitos/questões muito alta** ({n_conceitos}:{n_questoes} = {ratio_cq}). "
+            "`wiki/questoes/` está sub-representada; ver item §3 do ROADMAP."
+        )
+
     # ---------------------------------------------------------------- Markdown
     lines: list[str] = []
 
@@ -295,6 +415,11 @@ def render(pages: list[Path]) -> str:
     lines.append(f"- Páginas órfãs (sem backlinks): **{len(orphans)}**")
     lines.append(f"- Vocabulário único (após stopwords): **{len(words)}** termos")
     lines.append(f"- Entradas em `log.md`: **{len(log_entries)}**")
+    lines.append(f"- Razão conceitos/questões: **{n_conceitos}:{n_questoes}** ({ratio_cq})")
+    le_pct = 100 * len(citations["LE_questions"]) / PENTATEUCO_TOTAIS["LE"][1]
+    lines.append(f"- Questões únicas do LE citadas: **{len(citations['LE_questions'])}/1019** ({le_pct:.1f}%)")
+    broken_5 = [t for t, c in broken.items() if c >= 5]
+    lines.append(f"- Wikilinks não resolvidos (freq ≥ 5): **{len(broken_5)}** targets")
     lines.append("")
 
     # --- Cobertura ---
@@ -315,6 +440,44 @@ def render(pages: list[Path]) -> str:
     lines.append("|--------|---------|")
     for k in sorted(scounts, key=lambda k: -scounts[k]):
         lines.append(f"| `{k}` | {scounts[k]} |")
+    lines.append("")
+
+    # --- Cobertura doutrinária ---
+    lines.append("## Cobertura doutrinária")
+    lines.append("")
+    lines.append(
+        "Referências únicas do Pentateuco efetivamente citadas pela wiki "
+        "(`(LE, q. N)`, `(ESE, cap. X, item Y)`, etc.). Mede o quanto da "
+        "codificação já foi ancorado em páginas próprias."
+    )
+    lines.append("")
+    lines.append("| Obra | Unidade | Citadas | Total | Cobertura |")
+    lines.append("|------|---------|--------:|------:|----------:|")
+    le_n = len(citations["LE_questions"])
+    lines.append(f"| LE | questões | {le_n} | 1019 | {100 * le_n / 1019:.1f}% |")
+    ese_n = len(citations["ESE_chapters"])
+    lines.append(f"| ESE | capítulos | {ese_n} | 28 | {100 * ese_n / 28:.1f}% |")
+    gen_n = len(citations["Genese_chapters"])
+    lines.append(f"| Gênese | capítulos | {gen_n} | 18 | {100 * gen_n / 18:.1f}% |")
+    lm_n = len(citations["LM_chapters_p2"])
+    lines.append(f"| LM | capítulos da 2ª parte | {lm_n} | 33 | {100 * lm_n / 33:.1f}% |")
+    ci_n = len(citations["CI_chapters"])
+    lines.append(f"| C&I | capítulos | {ci_n} | 18 | {100 * ci_n / 18:.1f}% |")
+    lines.append("")
+    lines.append(
+        f"Referências `cap./item` únicas: ESE **{len(citations['ESE_refs'])}**, "
+        f"Gênese **{len(citations['Genese_refs'])}**, LM **{len(citations['LM_refs'])}**, "
+        f"C&I **{len(citations['CI_refs'])}**."
+    )
+    lines.append("")
+    lines.append("### Cobertura do LE por bloco de 100 questões")
+    lines.append("")
+    lines.append("```")
+    for label, count, size in le_coverage_buckets(citations["LE_questions"]):
+        bar = "█" * int(30 * count / size) + "·" * int(30 * (1 - count / size))
+        pct = 100 * count / size
+        lines.append(f"{label}  {bar}  {count:>3}/{size} ({pct:.0f}%)")
+    lines.append("```")
     lines.append("")
 
     # --- Grafo ---
@@ -438,6 +601,33 @@ def render(pages: list[Path]) -> str:
         lines.append(f"- {wikilink_for(page_key(p))} — {n} palavras")
     lines.append("")
 
+    # --- Wikilinks não resolvidos ---
+    lines.append("## Referências não resolvidas")
+    lines.append("")
+    lines.append(
+        "Wikilinks `[[...]]` cujo target não existe na árvore — candidatos a "
+        "páginas novas (quando frequentes) ou erros de digitação (quando raros)."
+    )
+    lines.append("")
+    if broken:
+        top_broken = sorted(broken.items(), key=lambda x: -x[1])
+        freq_broken = [(t, c) for t, c in top_broken if c >= 5]
+        lines.append(f"Total: **{len(broken)}** targets distintos, **{sum(broken.values())}** ocorrências. Freq ≥ 5: **{len(freq_broken)}**.")
+        lines.append("")
+        lines.append("### Mais referenciados (freq ≥ 3)")
+        lines.append("")
+        lines.append("| # | Target | Ocorrências |")
+        lines.append("|---|--------|------------:|")
+        rows = [(t, c) for t, c in top_broken if c >= 3][:30]
+        for i, (t, c) in enumerate(rows, 1):
+            lines.append(f"| {i} | `{t}` | {c} |")
+        if not rows:
+            lines.append("| — | _nenhum com freq ≥ 3_ | — |")
+        lines.append("")
+    else:
+        lines.append("_Nenhum wikilink quebrado._")
+        lines.append("")
+
     # --- Sugestões ---
     lines.append("## Sugestões automáticas")
     lines.append("")
@@ -461,7 +651,8 @@ def render(pages: list[Path]) -> str:
     lines.append(f"- Script gerador: `.claude/skills/stats/scripts/stats_wiki.py` (execução em {today}).")
     lines.append("- Corpus analisado: `wiki/**/*.md`, `log.md`, `raw/**/*.md`.")
     lines.append("- Dependências: `networkx` (grafo, PageRank), `nltk` (stopwords PT-BR).")
-    lines.append("- Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário e tamanho; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.")
+    lines.append("- Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário, tamanho, cobertura doutrinária e wikilinks quebrados; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.")
+    lines.append("- Cobertura doutrinária: regex sobre citações inline `(LE, q. N)`, `(ESE, cap. X, item Y)`, `(Gênese, cap. X, item Y)`, `(LM, Nª parte, cap. X)`, `(C&I, Nª parte, cap. X)`. Totais canônicos: LE=1019q; ESE=28c; Gênese=18c; LM=33c (2ª parte); C&I=18c (11 + 7).")
     lines.append("")
 
     return "\n".join(lines)

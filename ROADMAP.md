@@ -67,7 +67,7 @@ Após a fase 1 (auto-link Markdown→Kardecpedia em build time, capítulo — `s
 Hoje o lint roda sob demanda. Automatizar para manter a qualidade conforme a wiki cresce.
 
 - [x] **Lint em CI** — `lint_wiki.py` roda no GitHub Actions (`deploy-wiki.yml`) em cada push
-- [ ] **Métricas de cobertura** — script que gera relatório: % do Pentateuco coberto, conceitos sem página própria, personalidades mencionadas mas sem página, razão conceitos/questões
+- [x] **Métricas de cobertura** — `stats_wiki.py` agora gera: % do Pentateuco citado por obra (LE 215/1019 = 21%, ESE 28/28, Gênese 10/18, LM 24/33, C&I 18/18), cobertura do LE por bloco de 100 questões, wikilinks quebrados com freq ≥ 5, razão conceitos/questões e sugestões automáticas priorizadas (blocos LE sub-cobertos, razão distorcida, targets candidatos a nova página). Fase 2 — detectar conceitos mencionados em texto fluido sem wikilink — fica para quando a fase 1 exibir gaps
 - [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após cada deploy
 - [ ] **Lint evolutivo** — adicionar checks: páginas com poucas citações, conceitos referenciados em 5+ páginas mas sem página própria, inconsistências de nomenclatura entre páginas
 - [x] **Higiene do script de estatísticas** — meta-páginas (`tipo: sintese` + tag `meta`) excluídas de grafo, vocabulário e tamanho; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) removidas antes da tokenização. Top bigramas agora refletem doutrina ("mundo espiritual", "ensino kardec", "aplicação prática") em vez de aparato bibliográfico
