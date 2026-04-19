@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, LM, Gênese]
-tags: [depressao, saude, obsessao, amor, mediunidade, obra/le, obra/lm, obra/genese]
-atualizado_em: 2026-04-06
+fontes: [LE, LM, Gênese, Hammed/Francisco do Espírito Santo Neto]
+tags: [depressao, saude, obsessao, amor, mediunidade, obra/le, obra/lm, obra/genese, hammed, dores-da-alma]
+atualizado_em: 2026-04-19
 status: ativo
 ---
 
@@ -67,6 +67,10 @@ O trabalhador espírita que atende pessoas deprimidas deve:
 - Compreender que a doença pode ter componente obsessivo e reencarnatório
 - Estimular a reforma íntima e a busca do sentido da vida
 
+## Em Hammed — *As Dores da Alma*
+
+No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata a depressão como uma das [[wiki/conceitos/dores-da-alma]] — processo psicológico que resgata faltas pelo próprio sofrimento interior ("Já desde esta vida poderemos ir resgatando as nossas faltas?" — LE q. 1000). O comentário é mais moral-pedagógico que clínico: **não substitui o diagnóstico psiquiátrico nem a visão neurobiológica desenvolvida por Divaldo Franco**. Complementa com a ideia de que a vivência depressiva pode ser ocasião de reparação quando acolhida como processo evolutivo e não como punição.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/obsessao]] — fator espiritual frequentemente associado
@@ -77,6 +81,8 @@ O trabalhador espírita que atende pessoas deprimidas deve:
 - [[wiki/conceitos/mediunidade]] — faculdade que pode agravar ou esclarecer o quadro
 - [[wiki/conceitos/provas-e-expiacoes]] — a doença como oportunidade de progresso
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra de Divaldo Franco sobre o tema
+- [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto, tema "Depressão"
+- [[wiki/conceitos/dores-da-alma]]
 
 ## Fontes
 
@@ -84,3 +90,4 @@ O trabalhador espírita que atende pessoas deprimidas deve:
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XXIII, itens 237–254 (obsessão).
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XVIII, itens 27–28 (transição planetária).
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Depressão" (LE q. 725, q. 974, q. 1000).

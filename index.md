@@ -40,7 +40,7 @@ Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergên
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo e em construção. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + autores complementares alinhados à codificação. Ver [[wiki/sinteses/estatisticas-da-wiki]] para métricas atualizadas.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 16 fontes complementares. ~258 páginas entre conceitos, obras, personalidades, questões, aprofundamentos e sínteses.
 
 ---
 
@@ -96,6 +96,11 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Divaldo Franco, palestra (~2023). Obsessão (caso Baby), psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho.
 
+### Obras complementares secundárias (nível 4)
+
+#### Hammed / Francisco do Espírito Santo Neto
+- [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto (1998, 8ª ed. 2000). Comentário psicológico ao LE: reinterpreta os "sete pecados capitais" como "dores da alma" em 47 reflexões agrupadas em 21 temas (crueldade, orgulho, medo, culpa, mágoa, depressão, inveja etc.), cada um ancorado em uma questão específica de *O Livro dos Espíritos*. **(rascunho)**
+
 ## Conceitos
 
 ### Ontologia e cosmologia
@@ -144,6 +149,7 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/orgulho]] — sentimento exagerado do próprio valor, barreira entre homem e Deus (LE; ESE).
 - [[wiki/conceitos/avareza]] — apego excessivo aos bens materiais, forma de egoísmo (ESE, cap. XVI).
 - [[wiki/conceitos/materialismo]] — negação da alma e da vida futura, fruto do orgulho (LE, q. 147–148).
+- [[wiki/conceitos/dores-da-alma]] — Hammed: reenquadramento dos "sete pecados capitais" como fases evolutivas da psique.
 
 ### Leis morais (Parte 3 do LE)
 - [[wiki/conceitos/lei-moral]] — conjunto das leis divinas que regem a vida moral, inscrita na consciência (LE, Parte 3).
@@ -182,6 +188,8 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/personalidades/odila]] — personagem de *Entre a Terra e o Céu*: obsessora por ciúme, redimida pelo apelo maternal.
 - [[wiki/personalidades/zulmira]] — personagem de *Entre a Terra e o Céu*: obsidiada por culpa, mãe reparadora de Júlio.
 - [[wiki/personalidades/chico-xavier]] — Francisco Cândido Xavier (1910–2002), médium psicógrafo.
+- [[wiki/personalidades/francisco-do-espirito-santo-neto]] — médium psicógrafo (Catanduva-SP); intermediário do Espírito Hammed.
+- [[wiki/personalidades/hammed]] — Espírito comunicante, autor de obras de psicologia espírita via Francisco do Espírito Santo Neto (nível 4).
 - [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 - [[wiki/personalidades/zaqueu]] — chefe dos publicanos de Jericó (Lc 19:1–10), protótipo evangélico da conversão pela reparação material.
 - [[wiki/personalidades/pedro-apostolo]] — Simão Pedro, pescador da Galileia; protagonista de Atos 1–12, pregador do Pentecostes.

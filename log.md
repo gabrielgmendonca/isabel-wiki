@@ -4,6 +4,31 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] ingest | *As Dores da Alma* (Hammed/Francisco do Espírito Santo Neto) + novo tier nível 4
+
+Ingestão da obra *As Dores da Alma* (Hammed/Francisco do Espírito Santo Neto, 1998, 8ª ed. ago/2000, Editora Boa Nova), comentário psicológico ao LE que reinterpreta os "sete pecados capitais" da moralidade medieval como **dores da alma** — fases naturais da evolução espiritual. A obra reúne 47 comentários agrupados em 21 temas (crueldade, orgulho, irresponsabilidade, crítica, ilusão, medo, preocupação, vício, solidão, culpa, mágoa, egoísmo, baixa estima, rigidez, ansiedade, perda, insegurança, repressão, depressão, dependência, inveja), cada um ancorado em questões específicas do LE.
+
+**Novo tier na hierarquia de autoridade** (`CLAUDE.md` §2): introduzido **nível 4 — Complementares secundários** para autores/médiuns alinhados à codificação mas sem o peso doutrinário dos consagrados de nível 3 (Léon Denis, Chico Xavier, Divaldo Franco, Emmanuel, André Luiz, Bezerra de Menezes, Cairbar Schutel, Joanna de Ângelis). Hammed/Francisco Neto é o primeiro caso registrado nesse tier. A regra de ouro passa a mencionar "nível 2/3/4" ao falar de conflito com o Pentateuco. Convenção preservada: classificação de obras nível 3 existentes (Léon Denis, Emmanuel, Chico Xavier, Divaldo Franco, Carlos Mendonça) não foi alterada — qualquer reclassificação futura é escopo separado.
+
+**Artefatos criados:**
+1. `wiki/obras/as-dores-da-alma.md` — página da obra com 21 temas × 47 comentários tabulados, resumo por eixos, vocabulário/método (registro dos usos pontuais de "carmas" e "chakras" sem abrir divergência), conceitos e personalidades citadas.
+2. `wiki/personalidades/francisco-do-espirito-santo-neto.md` — médium psicógrafo (Catanduva-SP).
+3. `wiki/personalidades/hammed.md` — Espírito autor; equipe espiritual Port-Royal/jansenista (Pascal, Pavillon, Catherine de Vertus, Walon de Beaupuis, Arnauld, Nicole) registrada sem criar personalidades individuais.
+4. `wiki/conceitos/dores-da-alma.md` — conceito-síntese ancorado em LE q. 754 ("senso moral em estado embrionário"), q. 636 (bem e mal relativos) e q. 903 (estudar defeitos alheios).
+
+**Atualizações em conceitos existentes** (seção "Em Hammed — *As Dores da Alma*"):
+- `wiki/conceitos/orgulho.md` (LE q. 558, q. 559 — orgulho como controle alheio)
+- `wiki/conceitos/egoismo.md` (LE q. 882, q. 917 — vaidade e mesquinhez como filhos do egoísmo)
+- `wiki/conceitos/responsabilidade.md` (LE q. 851, q. 860 — fatalidade, limites internos)
+- `wiki/conceitos/depressao.md` (LE q. 725, q. 974, q. 1000 — complementa Divaldo Franco)
+- `wiki/conceitos/materialismo.md` (LE q. 8, q. 115 — base psicológica na baixa estima)
+
+**Divergências:** nenhuma formalizada. O livro é rigorosamente ancorado no LE; dois deslizes de vocabulário ("carmas", "chakras") registrados na página da obra em "Vocabulário e método".
+
+**index.md:** nova subseção `### Obras complementares secundárias (nível 4)` com `#### Hammed / Francisco do Espírito Santo Neto`; 2 personalidades adicionadas; conceito "dores-da-alma" listado em "Virtudes e vícios".
+
+---
+
 ## [2026-04-19] ingest | Três questões-chave fundacionais (LE q. 1, LE q. 625, ESE cap. XV item 5)
 
 Continuação do item §3 do ROADMAP ("Extrair questões-chave do Pentateuco"). Criadas 3 páginas em `wiki/questoes/` cobrindo as questões mais iconicamente citáveis e fundacionais do Pentateuco — bases das quais derivam, respectivamente, a teologia (Deus), a hierarquia de autoridade (Jesus) e a moral (caridade):
@@ -13,6 +38,12 @@ Continuação do item §3 do ROADMAP ("Extrair questões-chave do Pentateuco"). 
 3. `fora-da-caridade-nao-ha-salvacao.md` — ESE, cap. XV, item 5. A máxima como síntese absoluta da moral cristã no Espiritismo, contrastada com "fora da Igreja" (item 8) e "fora da verdade" (item 9), complementada pela instrução do Espírito Paulo (item 10) e prolongada na *Viagem Espírita em 1862* ("fora da caridade não há verdadeiros espíritas").
 
 Impacto na cobertura: o bloco 1–100 do LE (antes sem questoes dedicadas) ganha sua questão mais fundacional; a q. 625 cobre o topo da Parte 3 (revelações); e o ESE cap. XV passa a ter verbete-âncora para sua máxima-chave. Total de páginas em `questoes/` sobe de 6 para 9.
+
+---
+
+## [2026-04-19] lint | 5 achados
+
+Wiki limpa: 0 erros, 0 avisos. Os 3 órfãos da rodada anterior foram resolvidos pela adição de links de retorno em `conceitos/deus.md`, `personalidades/jesus.md` e `conceitos/caridade.md`. Os 5 achados restantes são `info` — as mesmas divergências `status: aberta` já flaggadas antes, nenhuma possivelmente incompleta.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, Gênese]
-tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo, obra/le, obra/genese]
-atualizado_em: 2026-04-06
+fontes: [LE, Gênese, Hammed/Francisco do Espírito Santo Neto]
+tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo, obra/le, obra/genese, hammed, dores-da-alma]
+atualizado_em: 2026-04-19
 status: ativo
 ---
 
@@ -56,6 +56,10 @@ No preâmbulo do Credo Espírita, Kardec reforça: "A doutrina do nadismo é a p
 
 Em palestras, o materialismo é ponto de partida frequente para o diálogo com incrédulos. Convém abordá-lo sem julgamento — reconhecendo que é consequência de uma filosofia incompleta, não de má-fé — e apresentar os fatos e raciocínios que o superam. O Espiritismo não pede fé cega; oferece provas e lógica.
 
+## Em Hammed — *As Dores da Alma*
+
+No tema 13 ("Baixa Estima", ancorado em LE q. 8 e q. 115), Hammed aborda o materialismo pelo ângulo psicológico da autoestima: "a criatura materialista precisa crer que é superior, para compensar sua crença na" inferioridade espiritual ontológica. O materialismo, nessa leitura, é sintoma de insegurança íntima — não apenas erro intelectual. Complementa, sem substituir, a análise de Kardec (que trata o materialismo sobretudo como fruto do orgulho intelectual): aqui, a base emocional reside na **baixa estima** que projeta compensações em posses e status.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/orgulho]]
@@ -65,8 +69,11 @@ Em palestras, o materialismo é ponto de partida frequente para o diálogo com i
 - [[wiki/conceitos/futuro-e-o-nada]]
 - [[wiki/conceitos/fe-raciocinada]]
 - [[wiki/conceitos/egoismo]]
+- [[wiki/conceitos/dores-da-alma]]
+- [[wiki/obras/as-dores-da-alma]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. II, q. 147–148; Conclusão, item V. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*. Cap. I — "Caráter da revelação espírita". Trad. Guillon Ribeiro. FEB.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Baixa Estima" (LE q. 8, q. 115).

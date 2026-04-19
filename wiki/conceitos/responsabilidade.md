@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
-tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, obra/le, obra/ese]
-atualizado_em: 2026-04-06
+fontes: [LE, ESE, Hammed/Francisco do Espírito Santo Neto]
+tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, obra/le, obra/ese, hammed, dores-da-alma]
+atualizado_em: 2026-04-19
 status: ativo
 ---
 
@@ -30,6 +30,14 @@ A parábola dos talentos (S. Mateus, 25:14–30) ilustra o princípio da respons
 
 A responsabilidade espírita convida ao autoexame permanente: o que fiz com o que recebi? Prejudiquei alguém por ação ou omissão? Em palestras, o conceito ajuda a combater tanto a indiferença ("não tenho nada com isso") quanto o fatalismo ("estava escrito").
 
+## Em Hammed — *As Dores da Alma*
+
+No tema 3 ("Irresponsabilidade", ancorado em LE q. 851 e q. 860), Hammed desenvolve o oposto da responsabilidade como uma das 21 [[wiki/conceitos/dores-da-alma]]:
+
+> "Somos nós mesmos que fazemos os nossos caminhos e depois os denominamos de fatalidade." (Hammed, *As Dores da Alma*, "Irresponsabilidade")
+
+Apoiado em LE q. 851 ("a fatalidade existe unicamente pela escolha que o Espírito fez ao encarnar") e q. 860 (o homem pode alterar o curso dos fatos "se essa aparente mudança tiver cabimento na sequência da vida que ele escolheu"), Hammed articula a responsabilidade por meio da noção psicológica de **limites** — fronteiras internas que demarcam "onde nós terminamos e os outros começam". O amadurecimento, diz, "inicia-se quando cessam as acusações ao mundo". Ser responsável é "decidir por si mesmo para onde ir e descobrir a razão do próprio querer" — leitura psicológica coerente com o princípio kardecista do livre-arbítrio.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/livre-arbitrio]]
@@ -37,8 +45,11 @@ A responsabilidade espírita convida ao autoexame permanente: o que fiz com o qu
 - [[wiki/conceitos/parabola-dos-talentos]]
 - [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/perfeicao-moral]]
+- [[wiki/conceitos/dores-da-alma]]
+- [[wiki/obras/as-dores-da-alma]]
 
 ## Fontes
 
-- Kardec, Allan. *O Livro dos Espíritos*. Parte 3, cap. I, q. 636–640. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Espíritos*. Parte 3, cap. I, q. 636–640; q. 851, q. 860. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XVI — "Não se pode servir a Deus e a Mamon". Trad. Guillon Ribeiro. FEB.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Irresponsabilidade" (LE q. 851, q. 860).

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, C&I]
-tags: [orgulho, vicio, moral, humildade, perfeicao-moral, obra/le, obra/ese, obra/ci, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+fontes: [LE, ESE, C&I, Hammed/Francisco do Espírito Santo Neto]
+tags: [orgulho, vicio, moral, humildade, perfeicao-moral, obra/le, obra/ese, obra/ci, lei/justica-amor-caridade, hammed, dores-da-alma]
+atualizado_em: 2026-04-19
 status: ativo
 ---
 
@@ -30,6 +30,14 @@ A humildade é a virtude oposta ao orgulho. Não se trata de auto-humilhação, 
 
 Em estudos e palestras, é útil mostrar como o orgulho se manifesta em formas sutis: o intelectualismo que desdenha a fé, a vaidade espiritual de quem se julga mais evoluído, a resistência a reconhecer erros. O autoexame proposto por Kardec pergunta: "Que fiz do orgulho e da vaidade? Sacrifiquei-os?" (LE, Conclusão, item III).
 
+## Em Hammed — *As Dores da Alma*
+
+No tema 2 da obra ("Orgulho", ancorado em LE q. 558 e q. 559), Hammed propõe uma leitura psicológica: o orgulhoso típico apresenta-se como "bem-intencionado", "delicado e evoluído", atuando furtivamente como **censurador moral** — especialmente em ambientes religiosos. Traz como tese central:
+
+> "A compulsão de querer controlar a vida alheia é fruto de nosso orgulho." (Hammed, *As Dores da Alma*, "Orgulho")
+
+Contrasta esse padrão com a pedagogia de Jesus, que "nunca usava de força e imposição, mas de uma técnica para que pudéssemos desenvolver a virtude oposta" (cf. Jo 8:10–11, a mulher adúltera). A "autêntica relação de ajuda" entre as pessoas "consiste em estimular a independência e a individualidade, nada se pedindo em troca" — reenquadramento psicológico da injunção de LE q. 558 de que cada Espírito é responsável primeiro por melhorar-se a si mesmo.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/humildade]]
@@ -38,6 +46,8 @@ Em estudos e palestras, é útil mostrar como o orgulho se manifesta em formas s
 - [[wiki/conceitos/materialismo]]
 - [[wiki/conceitos/homem-de-bem]]
 - [[wiki/conceitos/bem-aventurancas]]
+- [[wiki/conceitos/dores-da-alma]]
+- [[wiki/obras/as-dores-da-alma]]
 
 ## Nas Obras Póstumas
 
@@ -51,3 +61,4 @@ Na seção sobre as aristocracias, Kardec prevê a substituição das aristocrac
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. VII — "Bem-aventurados os pobres de espírito". Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. VII — "Espíritos endurecidos". FEB.
 - Kardec, Allan. *Obras Póstumas*, "O egoísmo e o orgulho" e "As aristocracias". FEB.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Orgulho" (LE q. 558, q. 559).

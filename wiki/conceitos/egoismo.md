@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
-tags: [egoismo, vicio, moral, caridade, perfeicao-moral, obra/le, obra/ese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+fontes: [LE, ESE, Hammed/Francisco do Espírito Santo Neto]
+tags: [egoismo, vicio, moral, caridade, perfeicao-moral, obra/le, obra/ese, lei/justica-amor-caridade, hammed, dores-da-alma]
+atualizado_em: 2026-04-19
 status: ativo
 ---
 
@@ -44,6 +44,10 @@ A caridade é a antítese do egoísmo: "Uma diz: Para vós em primeiro lugar, pa
 
 Ver [[wiki/obras/viagem-espirita-em-1862]].
 
+## Em Hammed — *As Dores da Alma*
+
+No tema 12 de *As Dores da Alma* ("Egoísmo"), Hammed comenta LE q. 917 ("Qual o meio de destruir-se o egoísmo?") e q. 882 (direito de defender os bens), tratando o egoísmo como uma das 21 [[wiki/conceitos/dores-da-alma]] — processo psicológico em desalinho, não culpa absoluta. Destaca a **vaidade** como "filha legítima do egoísmo" e a **mesquinhez** tanto como acúmulo de posses quanto como "refreamento de sentimentos". O antídoto prático proposto é a descentralização do "eu" por prática cotidiana de partilha e de compaixão, coerente com a tese kardecista de que a caridade é o único caminho de superação real do egoísmo.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/caridade]]
@@ -52,7 +56,9 @@ Ver [[wiki/obras/viagem-espirita-em-1862]].
 - [[wiki/conceitos/homem-de-bem]]
 - [[wiki/conceitos/desapego-dos-bens-terrenos]]
 - [[wiki/conceitos/materialismo]]
+- [[wiki/conceitos/dores-da-alma]]
 - [[wiki/obras/obras-postumas]]
+- [[wiki/obras/as-dores-da-alma]]
 
 ## Nas Obras Póstumas
 
@@ -65,3 +71,4 @@ Na seção sobre liberdade, igualdade e fraternidade, Kardec demonstra que o ego
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. I (Introdução); Parte 3, cap. XII, q. 893–919; Conclusão, itens III e V. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Caps. XI–XV. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Obras Póstumas*, "O egoísmo e o orgulho" e "Liberdade, igualdade, fraternidade". FEB.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Egoísmo" (LE q. 882, q. 917).
