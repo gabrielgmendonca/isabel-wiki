@@ -93,12 +93,29 @@ Os demais 16 temas seguem a mesma arquitetura: descrição psicológica do padr�
 
 ## Vocabulário e método
 
-Duas observações de vocabulário merecem registro, porque não refletem a linguagem de Kardec:
+### Imports não-kardecistas
 
-- **"Carmas"** (tema 4, Crítica; e outros) — Hammed usa o termo sânscrito ao falar da lei de causa e efeito: "Carmas são estruturados não somente sobre nossos feitos e atitudes, mas também sobre nossas sentenças e juízos, críticas e opiniões." Kardec evitou deliberadamente vocabulário oriental; o conceito mapeia a [[wiki/conceitos/lei-de-causa-e-efeito]], sem divergência substantiva.
-- **"Chakras"** (tema 6, Medo) — "As sensações do medo sobrecarregam as energias dos 'chakras' do plexo solar e do cardíaco." Hammed coloca a palavra entre aspas, demonstrando ciência de que é termo não-kardecista; a referência é tópica e não estrutura a cosmologia da obra.
+Três termos merecem registro por não refletirem a linguagem de Kardec — todos tópicos, nenhum erige cosmologia alternativa:
 
-Nenhum dos dois usos configura divergência doutrinária — são deslizes de vocabulário em obra de psicologia aplicada, sem consequência para a tese central.
+- **"Carmas"** (tema 4, Crítica; raw l. 472 e 496) — Hammed usa o termo sânscrito, sem aspas, para a lei de causa e efeito: "Carmas são estruturados não somente sobre nossos feitos e atitudes, mas também sobre nossas sentenças e juízos, críticas e opiniões." Kardec evitou deliberadamente vocabulário oriental; o conceito mapeia [[wiki/conceitos/lei-de-causa-e-efeito]] (LE q. 984–986, C&I 1ª parte, cap. VII), sem divergência substantiva.
+- **"Chakras"** (tema 6, Medo; raw l. 663) — "As sensações do medo sobrecarregam as energias dos 'chakras' do plexo solar e do cardíaco." Hammed coloca a palavra entre aspas, demonstrando ciência de que é termo não-kardecista; a referência é tópica e não estrutura a cosmologia da obra. Kardec trata energia perispiritual como fluido irradiante (Gênese cap. XIV), sem centros localizados.
+- **"Aura"** (tema 2, Orgulho; raw l. 334) — "sustentam uma aura de pessoas delicadas, evoluídas e desprendidas." Uso metafórico ("aura de pessoas delicadas" ≈ "ar de pessoas delicadas"), não doutrinário — não há teoria energética implicada.
+
+### "Reinos da Natureza" (tema 8, Vício; raw l. 890)
+
+> "A evolução tudo melhora, sempre esteve e sempre estará desenvolvendo, desde os menores reinos da Natureza até as mais complexas estruturas da consciência humana."
+
+A frase poderia ser lida como transmigracionismo (o Espírito passando por mineral → vegetal → animal → humano) — leitura que Kardec rejeita em LE q. 540 e LE q. 607. A leitura correta, porém, ancora-se em **LE q. 585** (que o próprio Hammed cita em tema 20): Kardec admite "quatro graus" (mineral, vegetal, animal, homem) do **ponto de vista moral**, como classificação da Natureza — não como trajetória individual do Espírito. Hammed fala de evolução como processo geral, não como biografia espiritual, e a formulação é compatível com essa leitura. Não configura divergência; a ambiguidade é registrada apenas para não confundir leitor desatento.
+
+### Psicologia como lente, não como substituto
+
+A obra cita nominalmente autores da psicanálise clássica, sempre como instrumento de diagnóstico — nunca como ontologia concorrente à doutrina espírita:
+
+- **Alfred Adler** (raw l. 1367, 1483) — "austríaco, um dos grandes nomes da psicanálise"; o conceito adleriano de *compensação* é aplicado como mecanismo de defesa do ego, articulado à superação das paixões (LE q. 908).
+- **Carl Jung** (raw l. 681) — "'Sombra' é um conceito junguiano para designar a soma dos lados rejeitados da realidade"; aplicado ao comentário de Lucas 6:42 (argueiro/trave) como chave para a projeção psicológica (LE q. 903).
+- **Sigmund Freud** (implícito; raw l. 1365) — definição técnica de *recalque/repressão* como exclusão para o inconsciente; lida como explicação moderna de "paixões mal dirigidas".
+
+Em todos os casos, o diagnóstico psicológico é reancorado em questão do LE; psicologia ilumina, não suplanta. Paralelo compatível com [[wiki/conceitos/depressao]], onde a neurobiologia (Divaldo Franco) articula-se com obsessão espírita sem contraditá-la.
 
 ## Conceitos tratados
 
@@ -120,7 +137,9 @@ Nenhum dos dois usos configura divergência doutrinária — são deslizes de vo
 
 ## Divergências
 
-Não foram identificadas divergências substantivas com o Pentateuco. A obra é estritamente ancorada em questões do LE, coerente com a tese kardecista das imperfeições como estágios evolutivos. Os dois deslizes de vocabulário ("carmas", "chakras") estão registrados acima sob "Vocabulário e método" e não abrem divergência formal.
+Não foram identificadas divergências substantivas com o Pentateuco. Cada um dos 47 comentários é ancorado em questão literal do LE, e a tese central (imperfeições como estágios evolutivos, não condenações morais) coincide com LE q. 115, q. 780 e C&I 1ª parte, cap. VII. Os achados periféricos — imports de vocabulário ("carmas", "chakras", "aura"), a frase ambígua sobre "reinos da Natureza" e as citações nominais de Adler, Jung e Freud — estão tratados acima em "Vocabulário e método" e não atingem o bar editorial para registro em `wiki/divergencias/`.
+
+**Bar editorial aplicado:** o bar exige contradição direta do Pentateuco, não mera importação de vocabulário ou reinterpretação psicológica. São exemplos de divergências reais já registradas: [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] (Denis afirma "habituação" de sexo que Kardec não ensina) e [[wiki/divergencias/almas-irmas-criadas-aos-pares]] (Denis afirma exatamente o que Kardec nega em LE q. 298). Nada em *As Dores da Alma* se aproxima desse nível — a obra é comentário, não extensão doutrinária.
 
 ## Páginas relacionadas
 
