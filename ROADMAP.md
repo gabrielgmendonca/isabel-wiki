@@ -12,6 +12,7 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
 - [x] **Ingerir O Livro dos Médiuns** — concluído
 - [ ] **Ingerir Kardec complementar** — 6 fontes em `raw/kardec/complementares/`; 3 já ingeridas (O Que é o Espiritismo, Obras Póstumas, Viagem Espírita); faltam Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão
 - [ ] **Expandir autores nível 3** — Léon Denis avançado (4 obras ingeridas), Chico Xavier parcial (A Caminho da Luz ingerido); faltam O Consolador, Nosso Lar, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo
+- [ ] **Expandir personalidades-âncora** — várias personalidades centrais estão como stubs (<105 palavras): Chico Xavier (88), Carlos Mendonça (61), Espíritos Reveladores (103), Joseph Brès (97), Eric Stanislas (104). Priorizar as referenciadas em 5+ páginas — completar identificação, papel doutrinário, obras associadas e citações relevantes
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 
 ---
@@ -33,6 +34,7 @@ A wiki já é publicada, mas foi pensada para uso pessoal. Adaptar para que qual
 As categorias `questoes/` e `sinteses/` estão sub-representadas. São as mais valiosas para o leitor.
 
 - [ ] **Extrair questões-chave do Pentateuco** — selecionar as questões mais importantes de cada obra e criar páginas em `questoes/` com pergunta, resposta dos Espíritos, comentário de Kardec e análise
+- [ ] **Completar páginas das 10 Leis Morais** — 4 das 10 leis estão como stubs (<105 palavras): Trabalho, Adoração, Reprodução, Sociedade. São conceitos centrais da Parte 3 do LE (q. 649-919) e fundamento da tag-namespace `lei/`. Expandir com: definição, ensino dos Espíritos, desdobramentos, aplicação prática e cruzamento com ESE
 - [ ] **Sínteses temáticas** — criar comparativos entre obras sobre o mesmo tema (ex: "O que cada obra diz sobre obsessão", "Reencarnação: de Kardec a Léon Denis")
 - [ ] **Quadros comparativos** — tabelas que cruzam conceitos entre obras ou autores, úteis para estudo sistemático
 - [ ] **Perguntas frequentes** — página de FAQ baseada em dúvidas comuns de estudantes, com respostas fundamentadas e citadas
@@ -68,6 +70,7 @@ Hoje o lint roda sob demanda. Automatizar para manter a qualidade conforme a wik
 - [ ] **Métricas de cobertura** — script que gera relatório: % do Pentateuco coberto, conceitos sem página própria, personalidades mencionadas mas sem página, razão conceitos/questões
 - [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após cada deploy
 - [ ] **Lint evolutivo** — adicionar checks: páginas com poucas citações, conceitos referenciados em 5+ páginas mas sem página própria, inconsistências de nomenclatura entre páginas
+- [x] **Higiene do script de estatísticas** — meta-páginas (`tipo: sintese` + tag `meta`) excluídas de grafo, vocabulário e tamanho; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) removidas antes da tokenização. Top bigramas agora refletem doutrina ("mundo espiritual", "ensino kardec", "aplicação prática") em vez de aparato bibliográfico
 
 ---
 

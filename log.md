@@ -380,3 +380,10 @@ Criadas três personalidades: `paulo-de-tarso.md`, `pedro-apostolo.md`, `estevao
 
 ## [2026-04-15] lint | 7 achados
 0 erros. 1 aviso (estatisticas-da-wiki órfã, esperado). 5 divergências abertas (todas já desenvolvidas). index.md diz 15 fontes complementares mas há 19 — cosmético.
+
+## [2026-04-18] lint | 6 achados
+0 erros, 0 avisos. 5 divergências abertas (todas desenvolvidas, sem sinal de incompletude). index.md diz ~245 páginas mas há 246 — cosmético.
+
+## [2026-04-19] refactor | Higiene do script de estatísticas
+
+Em `.claude/skills/stats/scripts/stats_wiki.py`: (1) meta-páginas (`tipo: sintese` + tag `meta`) excluídas de grafo, vocabulário e tamanho via helper `is_meta_page()`; (2) seções-template `## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas` e `## Conceitos relacionados` removidas antes da tokenização via `TEMPLATE_SECTION_RE`. Impacto: grafo 246→245 nós, 1918→1873 arestas; `estatisticas-da-wiki` não aparece mais como #2 conector. Bigramas dominantes passam de "trad guillon ribeiro" (262), "fontes kardec" (205), "páginas relacionadas" (202) para "mundo espiritual" (100), "ensino kardec" (96), "aplicação prática" (90) — sinal doutrinário em vez de aparato bibliográfico. Marca item correspondente no ROADMAP como concluído.

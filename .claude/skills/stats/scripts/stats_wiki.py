@@ -48,6 +48,14 @@ URL_RE = re.compile(r"https?://\S+")
 CITATION_RE = re.compile(r"\((?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)[^)]*\)")
 TOKEN_RE = re.compile(r"[a-záéíóúâêôãõàçA-ZÁÉÍÓÚÂÊÔÃÕÀÇ]{4,}")
 
+# Seções-template/aparato bibliográfico — removidas antes de tokenizar para
+# não inflar vocabulário com bigramas tipo "páginas relacionadas" ou
+# "trad guillon ribeiro".
+TEMPLATE_SECTION_RE = re.compile(
+    r"^##\s+(?:Fontes|Páginas relacionadas|Páginas referenciadas|Conceitos relacionados)\s*$.*?(?=^##\s|\Z)",
+    re.MULTILINE | re.DOTALL | re.IGNORECASE,
+)
+
 SPARK = "▁▂▃▄▅▆▇█"
 
 
@@ -73,11 +81,24 @@ def ensure_stopwords() -> set[str]:
 def clean_body(text: str) -> str:
     text = FRONTMATTER_RE.sub("", text)
     text = CODE_RE.sub(" ", text)
+    text = TEMPLATE_SECTION_RE.sub("", text)
     text = WIKILINK_RE.sub(" ", text)
     text = MDLINK_RE.sub(r"\1", text)
     text = URL_RE.sub(" ", text)
     text = CITATION_RE.sub(" ", text)
     return text
+
+
+def is_meta_page(fm: dict) -> bool:
+    """Meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo,
+    vocabulário e estatísticas de tamanho — são painéis gerados sobre a própria
+    wiki e seus links/termos não refletem sinal doutrinário."""
+    if fm.get("tipo") != "sintese":
+        return False
+    tags = fm.get("tags", [])
+    if isinstance(tags, list):
+        return "meta" in tags
+    return "meta" in str(tags)
 
 
 def tokenize(text: str, stop: set[str]) -> list[str]:
@@ -107,10 +128,11 @@ def counts_by_status(pages: list[Path]) -> dict[str, int]:
 
 def build_graph(pages: list[Path]) -> nx.DiGraph:
     g = nx.DiGraph()
-    page_keys = {page_key(p) for p in pages}
-    for p in pages:
+    non_meta = [p for p in pages if not is_meta_page(parse_frontmatter(p)[0])]
+    page_keys = {page_key(p) for p in non_meta}
+    for p in non_meta:
         g.add_node(page_key(p))
-    for p in pages:
+    for p in non_meta:
         text = p.read_text(encoding="utf-8")
         src = page_key(p)
         for _, target in find_wikilinks(text):
@@ -126,6 +148,9 @@ def word_stats(pages: list[Path], stop: set[str]) -> tuple[Counter, Counter, dic
     bigram_counter: Counter = Counter()
     size_by_page: dict[Path, int] = {}
     for p in pages:
+        fm, _ = parse_frontmatter(p)
+        if is_meta_page(fm):
+            continue
         text = p.read_text(encoding="utf-8")
         body = clean_body(text)
         tokens = tokenize(body, stop)
@@ -436,6 +461,7 @@ def render(pages: list[Path]) -> str:
     lines.append(f"- Script gerador: `.claude/skills/stats/scripts/stats_wiki.py` (execução em {today}).")
     lines.append("- Corpus analisado: `wiki/**/*.md`, `log.md`, `raw/**/*.md`.")
     lines.append("- Dependências: `networkx` (grafo, PageRank), `nltk` (stopwords PT-BR).")
+    lines.append("- Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário e tamanho; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.")
     lines.append("")
 
     return "\n".join(lines)
