@@ -52,6 +52,7 @@ Em *O Grande Enigma* (caps. I–IX), Denis dedica a obra inteira ao argumento co
 - A lei divina = lei natural: [[wiki/conceitos/lei-natural]].
 - Justiça e bondade de Deus como fundamento da reencarnação: (LE, q. 171).
 - O mal não procede de Deus: [[wiki/conceitos/origem-do-mal]].
+- A pergunta fundacional: [[wiki/questoes/o-que-e-deus]] — Q&A direta sobre LE, q. 1.
 
 ## Fontes
 

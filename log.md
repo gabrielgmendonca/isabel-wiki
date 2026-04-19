@@ -4,6 +4,28 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] ingest | Três questões-chave fundacionais (LE q. 1, LE q. 625, ESE cap. XV item 5)
+
+Continuação do item §3 do ROADMAP ("Extrair questões-chave do Pentateuco"). Criadas 3 páginas em `wiki/questoes/` cobrindo as questões mais iconicamente citáveis e fundacionais do Pentateuco — bases das quais derivam, respectivamente, a teologia (Deus), a hierarquia de autoridade (Jesus) e a moral (caridade):
+
+1. `o-que-e-deus.md` — LE, q. 1 ("Deus é a inteligência suprema, causa primária de todas as coisas"). Desdobra os dois atributos mínimos (inteligência × causa primária), a ligação com o argumento cosmológico da q. 4 e os sete atributos da q. 13, e explica por que a concisão proposital é pedagógica.
+2. `jesus-tipo-mais-perfeito.md` — LE, q. 625 ("Jesus"). Articula a resposta monossilábica com o contexto das q. 621-627 (revelação da lei divina), delimita o que a questão afirma (modelo moral supremo) × o que não afirma (consubstancialidade), cruza com *Obras Póstumas* e mostra por que esta questão ancora a hierarquia de autoridade da wiki.
+3. `fora-da-caridade-nao-ha-salvacao.md` — ESE, cap. XV, item 5. A máxima como síntese absoluta da moral cristã no Espiritismo, contrastada com "fora da Igreja" (item 8) e "fora da verdade" (item 9), complementada pela instrução do Espírito Paulo (item 10) e prolongada na *Viagem Espírita em 1862* ("fora da caridade não há verdadeiros espíritas").
+
+Impacto na cobertura: o bloco 1–100 do LE (antes sem questoes dedicadas) ganha sua questão mais fundacional; a q. 625 cobre o topo da Parte 3 (revelações); e o ESE cap. XV passa a ter verbete-âncora para sua máxima-chave. Total de páginas em `questoes/` sobe de 6 para 9.
+
+---
+
+## [2026-04-19] lint | 8 achados
+
+Wiki limpa: 0 erros. 3 avisos (`orphan_pages`) nas 3 novas questoes criadas na mesma data (`o-que-e-deus`, `jesus-tipo-mais-perfeito`, `fora-da-caridade-nao-ha-salvacao`) — esperado para questoes recém-criadas, corrigível adicionando links de retorno de `conceitos/deus.md`, `personalidades/jesus.md` e `conceitos/caridade.md`. 5 infos são as divergências `status: aberta` já flaggadas no lint anterior — nenhuma marcada como possivelmente incompleta. 254 páginas no total (119 conceitos, 92 personalidades, 24 obras, 9 questões, 6 divergências, 3 sínteses, 1 aprofundamento).
+
+---
+
+## [2026-04-19] lint | 5 achados
+
+Wiki limpa: 0 erros, 0 avisos. Os 5 achados são de nível `info`, todos divergências com `status: aberta` (mudança de sexo na reencarnação, sinais de Marcos 16, morte de Ananias e Safira, condenação dos incrédulos em Marcos 16, fogo eterno em Mateus 25) — nenhuma marcada como possivelmente incompleta. 251 páginas no total (119 conceitos, 92 personalidades, 24 obras, 6 questões, 6 divergências, 3 sínteses, 1 aprofundamento).
+
 ## [2026-04-19] ingest | Expansão das 4 Leis Morais em stub (Adoração, Trabalho, Reprodução, Sociedade)
 
 Ataque ao item §3 do ROADMAP ("Completar páginas das 10 Leis Morais"). As quatro leis que restavam como stubs (<105 palavras) foram reescritas a partir do raw do LE e do ESE:

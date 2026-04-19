@@ -78,6 +78,7 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 - [[wiki/conceitos/homem-de-bem]] — o retrato moral do praticante da caridade
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — exemplo máximo de caridade
 - [[wiki/conceitos/fe-raciocinada]] — a fé que se traduz em obras de caridade
+- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — Q&A direta sobre ESE, cap. XV, item 5.
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XI–XV
 - [[wiki/obras/livro-dos-espiritos]] — q. 886–892
 - [[wiki/obras/atos-dos-apostolos]] — comunhão de bens (At 2; 4); "dar do que receber" (At 20:35)

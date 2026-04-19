@@ -306,12 +306,15 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 
 Q&A direta de questões específicas do Pentateuco (uma questão por página).
 
+- [[wiki/questoes/o-que-e-deus]] — "Deus é a inteligência suprema, causa primária de todas as coisas" — primeira pergunta do LE e raiz dos atributos da Divindade (LE, q. 1).
+- [[wiki/questoes/jesus-tipo-mais-perfeito]] — Jesus como tipo mais perfeito que Deus ofereceu ao homem; fundamento da hierarquia de autoridade do Espiritismo (LE, q. 625).
 - [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — diferença entre arrependimento, expiação e reparação segundo *O Céu e o Inferno* (1ª parte, cap. VII, itens 16–17).
 - [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]] — por que a proteção dos Espíritos é discreta: livre-arbítrio e progresso como razão da invisibilidade (LE, q. 501).
 - [[wiki/questoes/espiritos-e-as-leis-da-natureza]] — Espíritos atuam dentro das leis naturais, não contra elas; a escada podre e o raio como exemplos pedagógicos (LE, q. 526–527).
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — lendas de pactos como símbolo da sintonia voluntária com Espíritos inferiores; sempre rompíveis pela vontade firme (LE, q. 549–550).
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual e responsabilidade cósmica; janela providencial da infância (LE, q. 582–583).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
+- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
 
 ## Sínteses
 

@@ -135,6 +135,8 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/personalidades/espiritos-reveladores]]
 - [[wiki/personalidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
+- [[wiki/questoes/jesus-tipo-mais-perfeito]] — Q&A direta sobre LE, q. 625.
+- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec a partir do mandamento maior (ESE, cap. XV, item 5).
 
 ## Fontes
 
