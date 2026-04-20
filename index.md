@@ -100,7 +100,7 @@ Catálogo de todas as páginas, organizado por categoria.
 ### Obras complementares secundárias (nível 4)
 
 #### Hammed / Francisco do Espírito Santo Neto
-- [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto (1998, 8ª ed. 2000). Comentário psicológico ao LE: reinterpreta os "sete pecados capitais" como "dores da alma" em 47 reflexões agrupadas em 21 temas (crueldade, orgulho, medo, culpa, mágoa, depressão, inveja etc.), cada um ancorado em uma questão específica de *O Livro dos Espíritos*. **(rascunho)**
+- [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto (1998, 8ª ed. 2000). Comentário psicológico ao LE: reinterpreta os "sete pecados capitais" como "dores da alma" em 47 reflexões agrupadas em 21 temas (crueldade, orgulho, medo, culpa, mágoa, depressão, inveja etc.), cada um ancorado em uma questão específica de *O Livro dos Espíritos*.
 
 ## Conceitos
 
