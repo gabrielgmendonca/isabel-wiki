@@ -81,6 +81,32 @@ A criatura "modela suas reações emocionais através dos critérios dos outros,
 
 Os demais 16 temas seguem a mesma arquitetura: descrição psicológica do padrão (sintomas, gatilhos, origem infantil), diálogo com autores modernos de psicologia, referência a uma passagem evangélica e ancoragem em uma questão do LE. Temas como **medo** (q. 250), **culpa** (q. 631, q. 636 — bem e mal relativos), **mágoa** (q. 940), **depressão** (q. 1000 — resgatar faltas nesta vida), **inveja** (q. 811, q. 975) articulam a vida psíquica com a doutrina espírita sem ultrapassá-la. A obra nunca propõe novas entidades ou teses cosmológicas — é estritamente comentário.
 
+### Rigidez, excesso e paixão (tema 14)
+
+Entre os 16 temas do ciclo emocional, a **Rigidez** recebe tratamento mais extenso — três comentários, ancorados em três questões do LE que iluminam ângulos complementares do mesmo padrão: o excesso que se volta contra si (q. 713), a dureza institucional (q. 762) e a paixão como inflexibilidade (q. 908). O fio condutor dos três é uma tese única: "atrás de todo excesso ou rigidez se encontra a não aceitação da naturalidade da vida, fora e dentro de nós mesmos" (raw l. 1503).
+
+**1. Teimosia, severidade e autopunição (q. 713 — "Traçou a Natureza limites aos gozos?")**
+
+A Natureza estabelece limites "para indicar o limite do necessário"; o homem, nos excessos, "chega à saciedade e se pune a si mesmo". Hammed lê esse "punir-se a si mesmo" como dinâmica psíquica concreta: "o excesso de rigidez e severidade faz com que criemos um padrão mental que influenciará os outros para que nos tratem da mesma forma como os tratamos" (raw l. 1479). A teimosia é tipificada como "apego obstinado às próprias ideias e gostos, nunca admitindo insuficiências e erros" (raw l. 1467) — o rígido se apresenta como instrutor, mentor, "sempre com a razão", e reduz todo relacionamento ao par instrutor-aprendiz. Na sequência, Hammed articula uma **taxonomia predileção/exagero** que vale citar integralmente (raw l. 1560–1570):
+
+> Predileção pelo lucro é útil; o exagero é cobiça.
+> Predileção pelo afeto é valorosa; o exagero é apego.
+> Predileção pela religião é evolução; o exagero é fanatismo.
+> Predileção pela casa é necessária; o exagero é futilidade.
+> Predileção pelo lazer é saudável; o exagero é ociosidade.
+
+A virtude é predileção governada; o vício, predileção que governa — formulação que antecipa e prepara a ancoragem em LE q. 908 no terceiro comentário. Aqui Hammed também invoca Alfred Adler: o excesso funciona como **compensação** (mecanismo de defesa do ego), disfarçando a tendência oposta — "excesso de pudor" ≈ desejos sexuais recalcados; "excesso de afabilidade" ≈ agressividade mal elaborada; "excesso de religião" ≈ dúvidas inconscientes (raw l. 1489–1501). Articulação compatível com LE q. 908 sobre paixões mal governadas.
+
+**2. Rigidez institucional e pena de morte (q. 762)**
+
+O segundo comentário estende a análise do individual ao social. "A pena de morte é uma rigidez dos costumes humanos" (raw l. 1517): pretende resolver a falta matando o corpo, "com o esquecimento, porém, de que somente transfere a problemática para outras faixas da vida". Hammed ancora-se na resposta a LE q. 762 — "o homem julga necessária uma coisa, sempre que não descobre outra melhor" — para tratar a rigidez moral como **medida da ignorância coletiva**, não como virtude. O argumento: erros são "acidentes de percurso, contingências do processo evolutivo" (raw l. 1507), e "só o amor muda e renova as criaturas" (raw l. 1515). Deus "instituiu leis harmoniosas e justas que nos conduzirão fatalmente à felicidade plena, apesar de nossas faltas" (raw l. 1541) — se a Providência não condena, a austeridade humana que condena se revela desproporcional à sua própria fonte teológica. Ecoa ESE cap. XV ("Fora da caridade não há salvação") e C&I 1ª parte, cap. VII (relatividade do bem e do mal).
+
+**3. Paixão como inflexibilidade (q. 908 — "Como se poderá determinar o limite onde as paixões deixam de ser boas para se tornarem más?")**
+
+O terceiro comentário converge para a formulação mais kardecista do tema: "as paixões são como um corcel, que só tem utilidade quando governado e que se torna perigoso desde que passe a governar" (LE q. 908). Hammed glosa: "a predileção pelas nossas convicções é racional, mas o exagero é inflexibilidade, obstinação, ou seja, paixão" (raw l. 1570). Segue a imagem arquitetônica que sintetiza toda a seção: "a arquitetura de uma ponte prevê os movimentos oscilatórios, para que sua estrutura não sofra dano algum. As estruturas imobilizadas nunca são tão fortes como as flexíveis" (raw l. 1553). A flexibilidade, aqui, não é relativismo — "ser flexível não quer dizer perda de personalidade ou 'ser volúvel', mas ser acessível à compreensão das coisas e pessoas" (raw l. 1547) — e sim correspondência com a Natureza, que "respeita nossos dons próprios". Hammed fecha o tema com Jesus como figura-limite: "substituindo toda uma forma de pensar rígida, impetuosa e fanática dos homens de caráter austero e intolerante que viviam em sua época" (raw l. 1594). O Mestre não aparece como contrapeso emocional à dureza, mas como **reconfiguração estrutural da pedagogia moral** — lição que ressoa o que Hammed já dissera sobre o orgulho em tema 2 ("nunca usava de força e imposição, mas de uma técnica para que pudéssemos desenvolver a virtude oposta").
+
+**Síntese do arco.** Os três comentários descrevem um movimento: do excesso íntimo (q. 713) → à dureza social (q. 762) → à paixão como raiz comum (q. 908). A rigidez é, na leitura de Hammed, a forma que o orgulho (tema 2), a culpa (tema 10) e a preocupação (tema 7) assumem quando cristalizam: "mentalidades rígidas não são consideradas desembaraçadas e rápidas, pois nunca estão prontas para mudar ou para receber novas informações" (raw l. 1553). A saída é "deixar a rigidez mental" como "fator básico para o crescimento interior" — posição compatível com LE q. 780 (progresso moral gradual) e ESE cap. XVII ("Sede perfeitos").
+
 ## Temas centrais
 
 - **Dores da alma** como ressignificação dos "sete pecados capitais" — fases evolutivas, não condenação moral.
