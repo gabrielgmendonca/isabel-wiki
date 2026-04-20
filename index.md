@@ -29,9 +29,10 @@ A wiki segue uma hierarquia clara de fontes:
 0. **Ensinamentos morais de Jesus** (Evangelhos canônicos) — fonte primordial sobre a qual Kardec construiu o ESE. Os ensinamentos de Jesus são o sol; o Pentateuco é o telescópio. Os textos evangélicos são sempre lidos à luz da codificação.
 1. **Pentateuco de Kardec** — *O Livro dos Espíritos*, *O Livro dos Médiuns*, *O Evangelho Segundo o Espiritismo*, *A Gênese*, *O Céu e o Inferno*. Base inamovível.
 2. **Kardec complementar** — *O Que é o Espiritismo*, *Obras Póstumas*, *Revista Espírita*, *Viagem Espírita em 1862*.
-3. **Autores alinhados à codificação** — Léon Denis, Chico Xavier, Divaldo Franco, escritos apostólicos (Paulo, Pedro, João, Tiago), entre outros.
+3. **Complementares consagrados** — autores de referência doutrinária amplamente citados nas casas espíritas: Chico Xavier, Divaldo Franco, Léon Denis, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo, Emmanuel, André Luiz, Joanna de Ângelis, Bezerra de Menezes. Inclui os escritos apostólicos (Paulo, Pedro, João, Tiago) seletivamente citados por Kardec.
+4. **Complementares secundários** — autores/médiuns alinhados à codificação e coerentes com Kardec em tese e método, mas sem o peso doutrinário dos consagrados. Exemplos: Francisco do Espírito Santo Neto / Hammed, palestras isoladas de estudiosos espíritas. Úteis para estudo; citados com consciência do tier.
 
-Quando o nível 2 ou 3 contradiz o Pentateuco, **Kardec prevalece**. A divergência é registrada, nunca apagada. Ver [[wiki/sinteses/hierarquia-de-autoridade]] para análise completa.
+Quando os níveis 2, 3 ou 4 contradizem o Pentateuco, **Kardec prevalece**. A divergência é registrada, nunca apagada. Ver [[wiki/sinteses/hierarquia-de-autoridade]] para análise completa.
 
 ---
 
