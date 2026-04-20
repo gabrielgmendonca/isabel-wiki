@@ -4,6 +4,49 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-20] lint | 50 achados (após correção do script)
+
+Lint pós-ingest de 1 Coríntios. Duas correções no script de lint eliminaram **85 falsos positivos**:
+
+1. **`find_wikilinks` em `_lib/wiki_utils.py`** — a regex `\[\[([^\]|#]+)` capturava trailing `\` antes do pipe escapado em tabelas Markdown (`[[slug\|label]]`), produzindo alvos inexistentes terminados em `\`. Fix: `.rstrip("\\")` no target capturado. Resultado: `broken_links` 37 → 0; `missing_concept_pages` 37 → 0.
+
+2. **`check_divergencias_aberta` em `lint_wiki.py`** — o check listava TODAS as divergências com `status: aberta`, inclusive as de análise completa (que são aberta por design — o conflito teológico permanece registrado, não porque falte trabalho). Fix: só flagga quando `body_lines < 20` (stubs/incompletas). Resultado: `divergencias_aberta` 7 → 0.
+
+Total final: **50 achados** (era 135). Residuais todos pré-existentes ou esperados:
+- `index_missing` (33): 4 novas de 1 Co (instrução do usuário: não tocar `index.md`) + 29 parábolas + 8 bem-aventuranças.
+- `tag_taxonomy` (13): `wiki/trilhas/*` e `dores-da-alma.md` (pré-existentes).
+- `fontes_missing` (1), `citation_format` (1): ambos em `wiki/sinteses/catalogo.md` (pré-existente).
+- `status_projeto` (2): contagens no `index.md` desatualizadas (cosmético).
+
+---
+
+---
+
+## [2026-04-20] ingest | Primeira Epístola aos Coríntios (ACF) + discernimento dos espíritos + 2 divergências
+
+Ingestão de **1 Coríntios** (ACF, caps. 1–16) como segunda epístola paulina no pipeline de NT (após Atos). Carta de maior densidade doutrinária para o estudo espírita entre as paulinas: cap. 13 (caridade) é base escritural de ESE cap. XV; cap. 15:44 (corpo espiritual) é formulação neotestamentária do perispírito aproveitada por Kardec em Gênese cap. XIV; caps. 12–14 constituem o maior corpus NT sobre mediunidade, incluindo "discernimento dos espíritos" (12:10), "os espíritos dos profetas estão sujeitos aos profetas" (14:32) e o critério "Deus não é Deus de confusão, senão de paz" (14:33).
+
+**Criado:**
+
+1. [[wiki/obras/primeira-epistola-aos-corintios]] — página da obra (nível 3), estrutura por capítulo, 10 temas centrais, referências cruzadas com Pentateuco, personalidades (Paulo, Sóstenes, Apolo, Cefas/Pedro, Timóteo, Áquila/Priscila, Estéfanas, Cloé, Crispo, Gaio, Barnabé, Fortunato, Acaico).
+2. [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7 (celibato como ideal superior) vs. LE q. 695–701, esp. q. 698 ("os que [vivem por celibato] por egoísmo desagradam a Deus e enganam o mundo"). Status: aberta.
+3. [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11:3–16 (véu e "cabeça") + 14:34–35 ("mulheres caladas nas igrejas") vs. LE q. 817–822 (Lei de Igualdade, esp. q. 822). Inclui análise crítico-textual (possível interpolação de 14:34–35) e contraste interno com At 2:17 e Gl 3:28. Status: aberta.
+4. [[wiki/conceitos/discernimento-dos-espiritos]] — nova página-conceito ancorada em 1 Co 12:10 + 14:29, 32–33 + 1 Jo 4:1 + LM 2ª parte cap. XXIV (a pedido do usuário, como página própria linkada de [[wiki/conceitos/mediunidade]], não como seção inline).
+
+**Atualizado:**
+
+- [[wiki/conceitos/caridade]] — adicionada nota filológica (ACF "amor" = Kardec "caridade" = *agape*) e hierarquia paulina fé/esperança/amor (1 Co 13:13).
+- [[wiki/conceitos/perispirito]] — nova seção "Base escritural: 1 Coríntios 15" com as passagens 15:42–44, 15:50, 15:40–41, 15:48 articuladas à teoria kardequiana.
+- [[wiki/conceitos/mediunidade]] — nova seção "Mediunidade em 1 Coríntios: os dons e a ordenação" com mapeamento dos dons paulinos ao quadro de LM caps. XVI–XVII e extração da tríade controle + paz + julgamento coletivo como síntese paulina da boa prática mediúnica.
+- [[wiki/personalidades/paulo-de-tarso]] — página-relacionadas expandida com a nova obra, o conceito de discernimento e as duas divergências.
+- `ROADMAP.md` (editado antes do ingest) — adicionada priorização dos NT restantes (1-coríntios → romanos → tiago → 1-joão → 1-pedro → hebreus → demais → apocalipse).
+
+**Não mexido** (conforme instrução do usuário): `index.md`. Contagens de cobertura ficarão desatualizadas até próxima regeração.
+
+**Motivação:** continuar a cobertura do NT como escrito apostólico (nível 3) após Evangelhos + Atos. 1 Coríntios foi priorizada por ser a paulina mais citada por Kardec e por sustentar três pilares da doutrina espírita no NT: caridade, perispírito e mediunidade ordenada. A ingestão adiciona também nova ferramenta conceitual — [[wiki/conceitos/discernimento-dos-espiritos]] — que será reaproveitada quando ingerirmos 1 João (4:1 é a outra metade desse conceito).
+
+---
+
 ## [2026-04-20] refactor | Páginas individuais das oito bem-aventuranças
 
 A pedido do usuário ("já temos um artigo para cada Bem-aventurança?"), foi constatado que a wiki tinha apenas uma página única [[wiki/conceitos/bem-aventurancas]] cobrindo cinco das oito bem-aventuranças de Mt 5:3–10 em seções inline, sem páginas-conceito dedicadas. Criadas agora as oito páginas individuais, uma por bem-aventurança, seguindo o mesmo padrão das parábolas de Jesus (página própria por parábola + síntese-índice):

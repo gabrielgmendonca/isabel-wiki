@@ -29,6 +29,18 @@ Kardec distingue duas faces complementares da caridade:
 
 S. Paulo sintetiza a caridade em termos imortais: "A caridade é paciente, é benigna; a caridade não é invejosa, não é temerária, não se ensoberbece; tudo desculpa, tudo crê, tudo espera, tudo suporta" (1 Coríntios, 13:4–7). Kardec comenta que sem a caridade de nada valem a eloquência, a ciência ou mesmo a fé (ESE, cap. XV, item 4).
 
+#### Nota filológica: "amor" ou "caridade"?
+
+A Bíblia ACF ([[raw/biblia-acf/1-corintios/13|1 Co 13]]) traduz a palavra grega *agape* como **"amor"** ("Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse **amor**..."). Kardec, seguindo a Vulgata latina (*caritas*) e a tradução francesa de Louis Segond (*charité*), cita a mesma passagem como **"caridade"**. É a mesma palavra grega — *agape* — distinta de *eros* (amor desejo) e *philia* (amizade). O leitor que consulta a ACF e o ESE lado a lado precisa fazer essa equivalência: **ACF "amor" = Kardec "caridade" = *agape***.
+
+#### A hierarquia paulina: fé, esperança, amor
+
+> "Agora, pois, permanecem a fé, a esperança e o amor, estes três, mas o maior destes é o amor." ([[raw/biblia-acf/1-corintios/13|1 Co 13]]:13)
+
+A ordenação paulina coloca a caridade no topo — acima mesmo da fé. É a mesma hierarquia afirmada por Kardec em ESE cap. XV: a caridade é critério de salvação; a fé sem caridade "nada aproveita" (cf. ESE cap. XV, item 10). O v. 8 — "O amor nunca falha; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá" — estabelece a **primazia da moral sobre os fenômenos**: dons mediúnicos passam; a caridade permanece.
+
+Ver [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 13 para leitura integral.
+
 ### O egoísmo como negação da caridade
 
 "O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra" (ESE, cap. XI, item 11). O egoísmo é o maior obstáculo ao progresso moral e à felicidade humana. A caridade é o antídoto natural do egoísmo: enquanto o egoísmo concentra tudo em si, a caridade expande o ser para fora de si.
@@ -82,6 +94,7 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XI–XV
 - [[wiki/obras/livro-dos-espiritos]] — q. 886–892
 - [[wiki/obras/atos-dos-apostolos]] — comunhão de bens (At 2; 4); "dar do que receber" (At 20:35)
+- [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 13 (hino paulino à caridade/amor)
 
 ## Fontes
 

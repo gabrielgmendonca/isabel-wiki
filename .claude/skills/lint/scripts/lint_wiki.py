@@ -33,6 +33,23 @@ from _lib.wiki_utils import (  # noqa: E402
 
 STALE_DAYS = 14
 
+# Páginas que compõem o "índice" conceitual da wiki. A home (index.md) virou
+# landing minimalista; o catálogo linear vive em wiki/sinteses/catalogo.md.
+# Qualquer página nestes arquivos conta como "indexada" para os checks abaixo.
+INDEX_SOURCES = [INDEX_PATH, WIKI_DIR / "sinteses" / "catalogo.md"]
+
+
+def _collect_index_targets() -> set[str]:
+    targets: set[str] = set()
+    for path in INDEX_SOURCES:
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        for _, target in find_wikilinks(text):
+            if target.startswith("wiki/"):
+                targets.add(target)
+    return targets
+
 
 # ---------------------------------------------------------------------------
 # Checks
@@ -102,12 +119,8 @@ def check_fontes_section(pages: list[Path]) -> dict:
 
 
 def check_index_broken(pages: list[Path]) -> dict:
-    """Check 7a — index.md aponta para arquivos inexistentes (erro)."""
-    text = INDEX_PATH.read_text(encoding="utf-8")
-    index_targets = set()
-    for _, target in find_wikilinks(text):
-        if target.startswith("wiki/"):
-            index_targets.add(target)
+    """Check 7a — index/catálogo aponta para arquivos inexistentes (erro)."""
+    index_targets = _collect_index_targets()
     disk_keys = {page_key(p) for p in pages}
     in_index_not_on_disk = sorted(index_targets - disk_keys)
     items = [{"detail": f"no index mas arquivo não existe: {p}"} for p in in_index_not_on_disk]
@@ -115,15 +128,11 @@ def check_index_broken(pages: list[Path]) -> dict:
 
 
 def check_index_missing(pages: list[Path]) -> dict:
-    """Check 7b — arquivos em wiki/ ausentes do index.md (aviso).
+    """Check 7b — arquivos em wiki/ ausentes do index/catálogo (aviso).
 
     Páginas com `index: false` no frontmatter são excluídas explicitamente.
     """
-    text = INDEX_PATH.read_text(encoding="utf-8")
-    index_targets = set()
-    for _, target in find_wikilinks(text):
-        if target.startswith("wiki/"):
-            index_targets.add(target)
+    index_targets = _collect_index_targets()
 
     disk_keys = set()
     for p in pages:
@@ -161,7 +170,12 @@ def check_rascunho_stale(pages: list[Path]) -> dict:
 
 
 def check_divergencias_aberta(pages: list[Path]) -> dict:
-    """Check 1 — divergências com status: aberta e pouco conteúdo."""
+    """Check 1 — divergências com status: aberta que parecem incompletas.
+
+    Divergências com status: aberta são intencionais (o conflito teológico
+    permanece em aberto). Só sinaliza aquelas com corpo < 20 linhas, que
+    sugerem stub/análise pendente.
+    """
     div_dir = WIKI_DIR / "divergencias"
     items = []
     if not div_dir.exists():
@@ -181,10 +195,12 @@ def check_divergencias_aberta(pages: list[Path]) -> dict:
             if not in_fm:
                 if line.strip():
                     body_lines += 1
+        if body_lines >= 20:
+            continue  # análise completa, não é issue
         items.append({
             "path": str(page),
             "body_lines": body_lines,
-            "possibly_incomplete": body_lines < 20,
+            "possibly_incomplete": True,
         })
     return {"severity": "info", "count": len(items), "items": items}
 

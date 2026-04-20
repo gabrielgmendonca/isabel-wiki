@@ -50,6 +50,30 @@ O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o peri
 - **Irradiação fluídica**: o perispírito não se circunscreve ao corpo — "irradia ao seu derredor e o envolve como que de uma atmosfera fluídica" (Gênese, cap. XIV, item 18). Por essa expansão, o encarnado se relaciona com Espíritos livres e com outros encarnados.
 - **Couraça moral**: "O perispírito, portanto, é uma couraça a que se deve dar a melhor têmpera possível. Ora, como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la" (Gênese, cap. XIV, item 21).
 
+## Base escritural: 1 Coríntios 15
+
+A referência neotestamentária clássica do perispírito é 1 Coríntios 15, onde Paulo enfrenta a pergunta "como ressuscitarão os mortos? E com que corpo virão?" ([[raw/biblia-acf/1-corintios/15|1 Co 15]]:35).
+
+Paulo elabora a distinção entre **corpo natural** (*soma psychikon*, animal/orgânico) e **corpo espiritual** (*soma pneumatikon*):
+
+> "Semeia-se o corpo em corrupção; ressuscitará em incorrupção. Semeia-se em ignomínia, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará com vigor. **Semeia-se corpo natural, ressuscitará corpo espiritual. Se há corpo natural, há também corpo espiritual.**" (1 Co 15:42–44)
+
+> "A carne e o sangue não podem herdar o reino de Deus, nem a corrupção herdar a incorrupção." (1 Co 15:50)
+
+Kardec cita diretamente Paulo para fundamentar a teoria do perispírito:
+
+> "O corpo carnal e o perispírito têm pois origem no mesmo elemento primitivo; ambos são matéria, ainda que em dois estados diferentes." (Gênese, cap. XIV, item 7)
+
+A passagem paulina resolve, em chave espírita, o aparente paradoxo da "ressurreição" cristã: não se trata de reanimação de cadáver, mas da **persistência consciente do Espírito em seu corpo espiritual** (perispírito) após a separação do corpo carnal (cf. LE, q. 150, letra a).
+
+**Variação conforme o mundo e o grau moral.** Paulo acrescenta:
+
+> "E há corpos celestes e corpos terrestres, mas uma é a glória dos celestes e outra a dos terrestres. Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela." (1 Co 15:40–41)
+
+> "Qual o terreno, tais são também os terrestres; e, qual o celestial, tais também os celestiais." (1 Co 15:48)
+
+A diferenciação paulina dos "corpos" segundo o "mundo" habitado articula-se com a doutrina kardequiana da **variação do perispírito conforme o mundo** (Gênese, cap. XIV, item 8 — "os elementos constitutivos do perispírito naturalmente variam, conforme os mundos") e conforme o **grau moral** do Espírito (Gênese, cap. XIV, item 10 — "a constituição íntima do perispírito não é idêntica em todos os Espíritos"). Ver [[wiki/obras/primeira-epistola-aos-corintios]].
+
 ## No C&I — papel na passagem
 
 *O Céu e o Inferno* (2ª parte, cap. I) apresenta o papel do perispírito no momento da morte como chave para compreender o processo da passagem:
@@ -87,6 +111,7 @@ Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que ca
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. I
 - [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, definição e papel do perispírito
+- [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 15 (base escritural do corpo espiritual)
 
 ## Fontes
 

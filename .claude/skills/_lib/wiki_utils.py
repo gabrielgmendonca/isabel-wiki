@@ -95,12 +95,15 @@ def find_wikilinks(text: str) -> list[tuple[int, str]]:
     """Retorna lista de (linha, target) para cada wikilink no texto.
 
     Conteúdo dentro de backticks (inline code ou blocos cercados) é ignorado.
+    O pipe escapado em tabelas Markdown (`\\|`) é tratado como separador de
+    alias — sem esse tratamento, o target fica com `\\` no final.
     """
     results = []
     stripped = strip_inline_code(text)
     for i, line in enumerate(stripped.splitlines(), 1):
         for m in re.finditer(r"\[\[([^\]|#]+)", line):
-            results.append((i, m.group(1).strip()))
+            target = m.group(1).strip().rstrip("\\")
+            results.append((i, target))
     return results
 
 

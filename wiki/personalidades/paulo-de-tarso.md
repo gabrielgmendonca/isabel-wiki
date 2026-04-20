@@ -49,12 +49,16 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 ## Páginas relacionadas
 
 - [[wiki/obras/atos-dos-apostolos]] — caps. 9, 13–28
+- [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
 - [[wiki/conceitos/perispirito]] — "corpo espiritual" (1 Co 15:44)
 - [[wiki/conceitos/mediunidade]] — repertório fenomenológico paulino
+- [[wiki/conceitos/discernimento-dos-espiritos]] — 1 Co 12:10; 14:29, 32–33
 - [[wiki/conceitos/obsessao]] — pitonisa de Filipos
+- [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7 vs. Lei de Reprodução
+- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11; 14:34–35 vs. Lei de Igualdade
 
 ## Fontes
 

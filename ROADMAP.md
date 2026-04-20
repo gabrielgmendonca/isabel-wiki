@@ -12,6 +12,15 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
 - [x] **Ingerir O Livro dos Médiuns** — concluído
 - [ ] **Ingerir Kardec complementar** — 6 fontes em `raw/kardec/complementares/`; 3 já ingeridas (O Que é o Espiritismo, Obras Póstumas, Viagem Espírita); faltam Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão
 - [ ] **Expandir autores nível 3** — Léon Denis avançado (4 obras ingeridas), Chico Xavier parcial (A Caminho da Luz ingerido); faltam O Consolador, Nosso Lar, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo
+- [ ] **Ingerir Novo Testamento restante** — Evangelhos + Atos já ingeridos. Prioridade sugerida pelos escritos apostólicos (nível 3, seletivamente citados por Kardec):
+  1. **1-coríntios** — cap. 13 (caridade) e 15 (ressurreição/corpo espiritual), muito citados no ESE
+  2. **romanos** — Paulo sobre fé, lei moral, livre-arbítrio
+  3. **tiago** — "fé sem obras é morta", linguagem próxima ao ESE
+  4. **1-joão** — "Deus é amor", discernimento de espíritos (4:1)
+  5. **1-pedro** — pregação aos espíritos em prisão (3:19), reabilitação
+  6. **hebreus** — tipologia sacerdotal, fé
+  7. Demais paulinas (2-coríntios, gálatas, efésios, filipenses, colossenses, 1/2-tessalonicenses, 1/2-timóteo, tito, filemom) e gerais (2-pedro, 2/3-joão, judas)
+  8. **apocalipse** — usar com cautela; Kardec interpreta seletivamente na *Gênese*
 - [ ] **Expandir personalidades-âncora** — várias personalidades centrais estão como stubs (<105 palavras): Chico Xavier (88), Carlos Mendonça (61), Espíritos Reveladores (103), Joseph Brès (97), Eric Stanislas (104). Priorizar as referenciadas em 5+ páginas — completar identificação, papel doutrinário, obras associadas e citações relevantes
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 
@@ -22,8 +31,10 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
 A wiki já é publicada, mas foi pensada para uso pessoal. Adaptar para que qualquer estudante sério consiga navegar e aprender.
 
 - [x] **Página de boas-vindas** — substituir o index do Quartz por uma landing page com: propósito da wiki, como navegar, hierarquia de autoridade, aviso de que é work-in-progress
-- [ ] **Trilhas de estudo guiadas** — páginas especiais que sequenciam conceitos para quem está começando (ex: "Primeiros passos no Espiritismo", "As Leis Morais em ordem", "Mediunidade: do básico ao avançado")
-- [ ] **Glossário navegável** — página consolidada com definições curtas de todos os conceitos, linkando para as páginas completas; útil como ponto de entrada rápido
+- [x] **Home orientada por affordances** — `index.md` reescrito como grid de cartões (Chegando agora, ESDE, Palestras, Leitura livre, Consulta rápida); catálogo linear removido em favor do Explorer + Search do Quartz
+- [~] **Trilhas de estudo guiadas** — stubs criados em `wiki/trilhas/` (primeiros-passos, esde, palestras, leitura-livre) como destinos dos cartões da home. Expandir cada trilha com sequência comentada, leituras complementares e aferição de progresso ainda é TODO. Considerar também "As Leis Morais em ordem" e "Mediunidade: do básico ao avançado"
+- [~] **Glossário navegável** — stub em `wiki/sinteses/glossario.md` com ~15 conceitos-raiz (Deus, Espírito, alma, perispírito, reencarnação, mediunidade, obsessão, prece, caridade, fluido cósmico, escala espírita, expiação, livre-arbítrio, anjos, transição planetária). Popular com os ~126 conceitos restantes, ordenados alfabeticamente com uma linha por termo, é TODO
+- [ ] **Expandir affordances da home** — considerar 6ª/7ª entrada (ex.: "Divergências" para leitores curiosos, "Personalidades" para quem estuda mediunidade e C&I) conforme a wiki crescer. Manter 5 hoje para não sobrecarregar
 - [ ] **Melhorar tags e filtragem** — enriquecer tags no frontmatter para permitir navegação temática no Quartz (ex: por lei moral, por obra de origem, por grau de complexidade)
 - [ ] **Breadcrumbs semânticos** — revisar estrutura de pastas para que os breadcrumbs do Quartz façam sentido para o leitor (Conceitos > Leis Morais > Lei de Causa e Efeito)
 

@@ -90,6 +90,50 @@ Ver [[wiki/obras/o-grande-enigma]].
 
 Ver também [[wiki/personalidades/paulo-de-tarso]] e [[wiki/personalidades/pedro-apostolo]] para os repertórios individuais.
 
+## Mediunidade em 1 Coríntios: os dons e a ordenação
+
+1 Coríntios 12–14 é o maior corpus neotestamentário explicitamente dedicado ao que o Espiritismo chama de mediunidade. Paulo organiza o tema em três eixos: a diversidade dos dons (cap. 12), a primazia da caridade (cap. 13) e a ordenação prática do culto mediúnico (cap. 14).
+
+### Os dons do Espírito ([[raw/biblia-acf/1-corintios/12|1 Co 12]])
+
+> "Ora, há diversidade de dons, mas o Espírito é o mesmo. [...] Porque a um pelo Espírito é dada a palavra da sabedoria; e a outro, pelo mesmo Espírito, a palavra da ciência; e a outro, pelo mesmo Espírito, a fé; e a outro, pelo mesmo Espírito, os dons de curar; e a outro a operação de maravilhas; e a outro a profecia; **e a outro o dom de discernir os espíritos**; e a outro a variedade de línguas; e a outro a interpretação das línguas." (1 Co 12:4, 8–10)
+
+A lista paulina mapeia com notável precisão as **categorias do quadro sinótico** de LM 2ª parte caps. XVI–XVII (itens 187–196):
+
+| Dom em 1 Co 12 | Correlato no quadro de LM |
+|---|---|
+| sabedoria, ciência | médiuns inspirados, sensitivos, intuitivos |
+| fé | médiuns excitadores |
+| dons de curar | médiuns curadores |
+| operação de maravilhas | médiuns de efeitos físicos |
+| profecia | médiuns proféticos, inspirados |
+| **discernimento de espíritos** | cap. XXIV (identificação dos Espíritos) |
+| variedade de línguas | médiuns poliglotas, xenoglossia |
+| interpretação de línguas | médiuns intuitivos em chave linguística |
+
+A metáfora paulina do corpo único com muitos membros (12:12–27) articula, em chave espiritual, a **solidariedade dos médiuns** no seio de um grupo: cada dom é complementar, nenhum é desprezível, e a exclusão de um empobrece o todo. "Se um membro padece, todos os membros padecem com ele" (12:26) — formulação paulina da solidariedade universal (cf. LE q. 775).
+
+### Primazia da caridade (cap. 13)
+
+Paulo interrompe a tipologia dos dons para afirmar a **primazia da moral sobre os fenômenos**:
+
+> "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine. E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé [...] e não tivesse amor, nada seria." ([[raw/biblia-acf/1-corintios/13|1 Co 13]]:1–2)
+
+A mediunidade sem caridade não santifica, não aproveita. É a mesma tese de Kardec em *Viagem Espírita em 1862* (o período moralista sucede o fenomênico) e em [[wiki/conceitos/caridade|caridade]] como critério de verdadeiro espírita. O v. 8 — "havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá" — confirma que **os dons são meio, não fim**.
+
+### Ordenação prática do culto mediúnico ([[raw/biblia-acf/1-corintios/14|1 Co 14]])
+
+Quatro princípios operacionais são formulados com clareza rara no NT:
+
+1. **Sujeição do espírito ao médium.** "Os espíritos dos profetas estão sujeitos aos profetas" (14:32). O médium não é autômato; conserva ou deve conservar a **lucidez e o controle** (LM 2ª parte cap. XIX, item 223 — "o cérebro desempenha sempre um papel ativo"). Resistir à irrupção tumultuada é sinal de saúde mediúnica.
+2. **Critério da paz.** "**Deus não é Deus de confusão, senão de paz**" (14:33). Comunicações que deixam medo, confusão ou perturbação não procedem de Espíritos elevados. A **paz interior** é critério positivo de autenticidade (LM 2ª parte cap. XXIV).
+3. **Julgamento coletivo.** "Falem dois ou três profetas, **e os outros julguem**" (14:29). Ninguém tem acesso privilegiado à verdade; a comunicação se valida pelo exame conjunto dos pares (LM 2ª parte cap. XXVI, item 279 — concordância universal).
+4. **Edificação como finalidade.** "Faça-se tudo para edificação" (14:26); "faça-se tudo decentemente e com ordem" (14:40). A mediunidade serve à comunidade, não ao protagonismo individual.
+
+A tríade **controle + paz + julgamento coletivo** é síntese paulina do que hoje constituiria a boa prática da reunião mediúnica espírita. Ver [[wiki/conceitos/discernimento-dos-espiritos]] para o desdobramento específico do dom listado em 1 Co 12:10 e do critério de 14:29.
+
+Ver [[wiki/obras/primeira-epistola-aos-corintios]] para leitura integral dos capítulos 12–14.
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
@@ -107,6 +151,7 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos produzidos
 - [[wiki/conceitos/identidade-dos-espiritos]] — discernimento nas comunicações
+- [[wiki/conceitos/discernimento-dos-espiritos]] — dom e prática crítica de avaliar origem e qualidade das comunicações (1 Co 12:10; LM cap. XXIV)
 - [[wiki/conceitos/escala-espirita]] — régua de avaliação dos Espíritos comunicantes
 - [[wiki/conceitos/emancipacao-da-alma]] — fundamento da mediunidade sonambúlica
 - [[wiki/conceitos/fluidos]] — o fluido vital como agente mediúnico
