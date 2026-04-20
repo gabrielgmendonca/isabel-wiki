@@ -4,6 +4,16 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-19] refactor | Síntese-índice das parábolas de Jesus
+
+Criada página [[wiki/sinteses/parabolas-de-jesus]] consolidando as 29 parábolas de Jesus já cobertas em `wiki/conceitos/parabola-*` num índice temático único. A síntese organiza o material em 10 agrupamentos temáticos (misericórdia/arrependimento, justiça na vida futura, uso dos bens, prece/humildade, parábolas do Reino, vigilância, responsabilidade agravada, caridade, testemunho, parábolas joaninas), traz tabela completa com referências cruzadas evangelho × capítulo ESE × tema, distribuição por evangelho (Mt 18 · Mc 5 · Lc 11 · Jo 3) com marcação das exclusivas (1 de Mc, 8 de Lc, 3 de Jo) e fecha com três lições transversais (pluralidade das existências como chave, caridade efetiva, progresso como lei natural).
+
+**Enxugamento do `index.md`:** a seção `### Parábolas de Jesus (ESE)` foi reduzida de 29 entradas (linhas 277–306) para um único item apontando para a nova síntese. A lista completa agora vive em um só lugar, o que torna o índice mais navegável e cria uma porta de entrada temática para quem busca "parábolas de X" sem ter que ler o index sequencialmente. Nova síntese também listada em `## Sínteses`.
+
+**Motivação:** aplica o princípio de crescimento do CLAUDE.md — transformar conhecimento disperso (30 páginas + lista sequencial no index) em página citável que alimenta buscas futuras. A busca qmd por "parábolas" antes retornava páginas individuais ou a hierarquia de autoridade; agora retorna o hub dedicado.
+
+---
+
 ## [2026-04-19] ingest | *As Dores da Alma* (Hammed/Francisco do Espírito Santo Neto) + novo tier nível 4
 
 Ingestão da obra *As Dores da Alma* (Hammed/Francisco do Espírito Santo Neto, 1998, 8ª ed. ago/2000, Editora Boa Nova), comentário psicológico ao LE que reinterpreta os "sete pecados capitais" da moralidade medieval como **dores da alma** — fases naturais da evolução espiritual. A obra reúne 47 comentários agrupados em 21 temas (crueldade, orgulho, irresponsabilidade, crítica, ilusão, medo, preocupação, vício, solidão, culpa, mágoa, egoísmo, baixa estima, rigidez, ansiedade, perda, insegurança, repressão, depressão, dependência, inveja), cada um ancorado em questões específicas do LE.

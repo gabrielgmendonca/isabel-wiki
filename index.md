@@ -274,36 +274,9 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/proibicao-de-evocar-os-mortos]] — refutação da lei mosaica como argumento contra as evocações (C&I, 1ª parte, cap. XI).
 - [[wiki/conceitos/perturbacao]] — entorpecimento pós-morte, duração variável conforme adiantamento (C&I, 2ª parte, cap. I).
 
-### Parábolas de Jesus (ESE)
-- [[wiki/conceitos/parabola-do-credor-incompassivo]] — perdoar para ser perdoado, a desproporção das dívidas (ESE, cap. XI; S. Mateus, 18).
-- [[wiki/conceitos/parabola-da-ovelha-perdida]] — o pastor busca a ovelha desgarrada; misericórdia sobre rigor (ESE, cap. XI; S. Mateus, 18).
-- [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
-- [[wiki/conceitos/parabola-do-mau-rico]] — rico e Lázaro, justiça na vida futura (ESE, cap. XVI; S. Lucas, 16).
-- [[wiki/conceitos/parabola-do-rico-insensato]] — acumular sem partilhar, a futilidade da avareza (ESE, cap. XVI; S. Lucas, 12).
-- [[wiki/conceitos/parabola-do-filho-prodigo]] — arrependimento e misericórdia do Pai; reabilitação sempre possível (ESE, cap. XI; S. Lucas, 15).
-- [[wiki/conceitos/parabola-da-dracma-perdida]] — alegria celeste pelo pecador arrependido (ESE, cap. XI; S. Lucas, 15).
-- [[wiki/conceitos/parabola-do-mordomo-infiel]] — prudência no uso dos bens terrenos; Deus e Mamom (ESE, cap. XVI; S. Lucas, 16).
-- [[wiki/conceitos/parabola-do-juiz-iniquo]] — perseverança na prece; a prece transforma o orante (ESE, cap. XXVII; S. Lucas, 18).
-- [[wiki/conceitos/parabola-do-fariseu-e-do-publicano]] — humildade vs. orgulho espiritual na prece (ESE, caps. VII, X; S. Lucas, 18).
-- [[wiki/conceitos/parabola-do-tesouro-escondido-e-da-perola]] — o Reino vale todos os bens (ESE, cap. XVI; S. Mateus, 13).
-- [[wiki/conceitos/parabola-dos-talentos]] — responsabilidade sobre os dons recebidos (ESE, cap. XVI; S. Mateus, 25).
-- [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13).
-- [[wiki/conceitos/parabola-da-semente-que-cresce-por-si]] — progresso silencioso e autônomo do bem; exclusiva de Marcos (Mc 4:26–29).
-- [[wiki/conceitos/parabola-dos-dois-filhos]] — o que importa é a prática, não a palavra (ESE, caps. XVII–XVIII; S. Mateus, 21).
-- [[wiki/conceitos/parabola-do-festim-de-bodas]] — muitos chamados, poucos escolhidos (ESE, cap. XVIII; S. Mateus, 22).
-- [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar vs. ouvir e não praticar (ESE, cap. XVIII; S. Mateus, 7).
-- [[wiki/conceitos/parabola-do-joio-e-do-trigo]] — convivência até a ceifa; triagem moral na transição (ESE, cap. XVIII; S. Mateus, 13).
-- [[wiki/conceitos/parabola-do-grao-de-mostarda]] — progresso silencioso da Doutrina e do bem (ESE, cap. XVIII; S. Mateus, 13).
-- [[wiki/conceitos/parabola-do-fermento]] — ação interior e gradual do Evangelho (ESE, cap. XVIII; S. Mateus, 13).
-- [[wiki/conceitos/parabola-da-rede]] — separação dos bons e dos maus ao fim do ciclo (ESE, cap. XVIII; S. Mateus, 13).
-- [[wiki/conceitos/parabola-das-dez-virgens]] — vigilância e reforma íntima efetiva (ESE, cap. XVIII; S. Mateus, 25).
-- [[wiki/conceitos/parabola-dos-lavradores-maus]] — responsabilidade agravada dos que recebem mais (ESE, cap. XVIII; S. Mateus, 21).
-- [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (ESE, cap. XIX; S. Marcos, 11).
-- [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] — nunca é tarde para o bem (ESE, cap. XX; S. Mateus, 20).
-- [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] — dever de difundir a verdade (ESE, cap. XXIV; S. Mateus, 5).
-- [[wiki/conceitos/parabola-do-bom-pastor]] — Jesus como porta e pastor, mercenário vs. pastor, "outras ovelhas" (S. João, 10).
-- [[wiki/conceitos/parabola-da-videira-verdadeira]] — permanência vital na moral do Cristo, ramo que dá fruto vs. ramo seco (S. João, 15).
-- [[wiki/conceitos/parabola-do-grao-de-trigo]] — morte fecunda, renúncia e desapego como lei espiritual (ESE, cap. XXIV; S. João, 12).
+### Parábolas de Jesus
+
+- [[wiki/sinteses/parabolas-de-jesus]] — **índice temático das 29 parábolas** cobertas na wiki: agrupamento por tema (misericórdia, Reino, prece, vigilância, justiça futura etc.), tabela com referências cruzadas (evangelho × capítulo ESE × tema) e lições doutrinárias transversais.
 
 ## Aprofundamentos
 
@@ -330,6 +303,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 Comparações, análises temáticas, conexões entre obras.
 
 - [[wiki/sinteses/hierarquia-de-autoridade]] — Descrição completa da hierarquia de fontes da wiki: Jesus como fonte primordial, Pentateuco como base inamovível, Kardec complementar, complementares aprovados (incluindo escritos apostólicos) e critérios de escopo.
+- [[wiki/sinteses/parabolas-de-jesus]] — Índice temático das 29 parábolas de Jesus cobertas na wiki: agrupamento por tema, tabela evangelho × capítulo ESE e lições doutrinárias transversais.
 - [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — Critérios kardequianos para distinguir comunicações autênticas de apócrifas (LM, caps. X, XXIV, XXXI; LE, escala espírita).
 - [[wiki/sinteses/estatisticas-da-wiki]] — Painel de métricas (grafo, vocabulário, atividade, cobertura) gerado automaticamente pelo script `stats_wiki.py`.
 
