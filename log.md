@@ -4,6 +4,27 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-20] refactor | Páginas individuais das oito bem-aventuranças
+
+A pedido do usuário ("já temos um artigo para cada Bem-aventurança?"), foi constatado que a wiki tinha apenas uma página única [[wiki/conceitos/bem-aventurancas]] cobrindo cinco das oito bem-aventuranças de Mt 5:3–10 em seções inline, sem páginas-conceito dedicadas. Criadas agora as oito páginas individuais, uma por bem-aventurança, seguindo o mesmo padrão das parábolas de Jesus (página própria por parábola + síntese-índice):
+
+1. [[wiki/conceitos/bem-aventuranca-dos-pobres-de-espirito]] (Mt 5:3 / ESE cap. VII) — humildade, mistérios ocultos aos doutos, aquele que se eleva será rebaixado.
+2. [[wiki/conceitos/bem-aventuranca-dos-aflitos]] (Mt 5:4 / ESE cap. V) — justiça das aflições, causas atuais e anteriores, sentido positivo do sofrimento, contrapartida de Lucas ("ai de vós, ricos!").
+3. [[wiki/conceitos/bem-aventuranca-dos-brandos]] (Mt 5:5 / ESE cap. IX) — brandura como lei, "possuirão a Terra" = Terra regenerada, afabilidade verdadeira vs. verniz, cólera como sintoma de orgulho.
+4. [[wiki/conceitos/bem-aventuranca-dos-famintos-de-justica]] (Mt 5:6 / ESE cap. V) — saciedade só na vida futura e na Terra regenerada, justiça evangélica vs. retributiva.
+5. [[wiki/conceitos/bem-aventuranca-dos-misericordiosos]] (Mt 5:7 / ESE cap. X) — perdão setenta vezes sete, duas maneiras de perdoar (dos lábios/do coração), reconciliação antes da morte como profilaxia de obsessão.
+6. [[wiki/conceitos/bem-aventuranca-dos-puros-de-coracao]] (Mt 5:8 / ESE cap. VIII) — pureza de intenção não ritual, três gradações do pensamento, criança como emblema da pureza, pureza como pré-requisito mediúnico.
+7. [[wiki/conceitos/bem-aventuranca-dos-pacificadores]] (Mt 5:9 / ESE cap. IX) — "serão chamados filhos de Deus", pacificação interior precede exterior, pacificadores vs. apaziguadores falsos.
+8. [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] (Mt 5:10–12 / ESE caps. V, XII, XXIV, XXVIII) — perseguição como "batismo de toda ideia nova", resposta evangélica (amai os inimigos, orai pelos que vos persigam), Kardec aplica aos próprios espíritas na Oração dos Espíritas.
+
+**Refatoração da página-índice** ([[wiki/conceitos/bem-aventurancas]]): convertida de conceito com 5 seções inline para índice/overview das 8 páginas, com tabela de correspondência (Mt × ESE × virtude-eixo), reagrupamento em 5 blocos temáticos conforme Kardec, progressão lógica das 8 máximas e enquadramento pela síntese de Kardec no ESE cap. XVII, item 3 ("Toda a moral de Jesus se resume na caridade e na humildade").
+
+**Index.md:** item único substituído por item expandido com 8 sublinks inline para as páginas dedicadas. Segue o mesmo padrão usado em "Parábolas de Jesus" (hub curto + síntese temática), mantendo navegabilidade.
+
+**Motivação:** aplica o princípio de crescimento do CLAUDE.md §1 — transformar as bem-aventuranças de bloco textual único em rede de páginas citáveis. Cada bem-aventurança, por ser ela mesma tema de palestra e de capítulo ESE, merecia página autônoma. Buscas qmd por "misericórdia", "humildade", "pureza de coração" agora retornam a página específica, não apenas a síntese geral. Material pronto para ciclos de oito palestras em casas espíritas (uma por bem-aventurança).
+
+---
+
 ## [2026-04-19] refactor | Síntese-índice das parábolas de Jesus
 
 Criada página [[wiki/sinteses/parabolas-de-jesus]] consolidando as 29 parábolas de Jesus já cobertas em `wiki/conceitos/parabola-*` num índice temático único. A síntese organiza o material em 10 agrupamentos temáticos (misericórdia/arrependimento, justiça na vida futura, uso dos bens, prece/humildade, parábolas do Reino, vigilância, responsabilidade agravada, caridade, testemunho, parábolas joaninas), traz tabela completa com referências cruzadas evangelho × capítulo ESE × tema, distribuição por evangelho (Mt 18 · Mc 5 · Lc 11 · Jo 3) com marcação das exclusivas (1 de Mc, 8 de Lc, 3 de Jo) e fecha com três lições transversais (pluralidade das existências como chave, caridade efetiva, progresso como lei natural).

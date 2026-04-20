@@ -254,7 +254,7 @@ Catálogo de todas as páginas, organizado por categoria.
 - [[wiki/conceitos/caridade]] — virtude suprema, amor ao próximo em pensamentos, palavras e ações (ESE, caps. XI–XV).
 - [[wiki/conceitos/fe-raciocinada]] — fé esclarecida pela razão, inabalável porque compreende (ESE, cap. XIX).
 - [[wiki/conceitos/prece]] — comunicação da alma com Deus, transmissão do pensamento (ESE, caps. XXVII–XXVIII).
-- [[wiki/conceitos/bem-aventurancas]] — Sermão da Montanha reinterpretado à luz espírita (ESE, caps. V, VII–X).
+- [[wiki/conceitos/bem-aventurancas]] — **índice das oito bem-aventuranças** (Mt 5:3–12) reinterpretadas à luz espírita (ESE, caps. V, VII–X). Cada bem-aventurança tem página própria: [[wiki/conceitos/bem-aventuranca-dos-pobres-de-espirito|pobres de espírito]] · [[wiki/conceitos/bem-aventuranca-dos-aflitos|aflitos]] · [[wiki/conceitos/bem-aventuranca-dos-brandos|brandos]] · [[wiki/conceitos/bem-aventuranca-dos-famintos-de-justica|famintos de justiça]] · [[wiki/conceitos/bem-aventuranca-dos-misericordiosos|misericordiosos]] · [[wiki/conceitos/bem-aventuranca-dos-puros-de-coracao|puros de coração]] · [[wiki/conceitos/bem-aventuranca-dos-pacificadores|pacificadores]] · [[wiki/conceitos/bem-aventuranca-dos-perseguidos|perseguidos pela justiça]].
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — desprendimento interior dos bens materiais (ESE, cap. XVI).
 - [[wiki/conceitos/homem-de-bem]] — retrato moral completo do praticante da caridade (ESE, cap. XVII).
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — mundos onde predomina o sofrimento, a Terra entre eles (ESE, cap. III).
