@@ -93,7 +93,7 @@ Os demais 16 temas seguem a mesma arquitetura: descrição psicológica do padr�
 
 ## Vocabulário e método
 
-### Imports não-kardecistas
+### Vocabulário não-kardecista
 
 Três termos merecem registro por não refletirem a linguagem de Kardec — todos tópicos, nenhum erige cosmologia alternativa:
 
@@ -137,9 +137,9 @@ Em todos os casos, o diagnóstico psicológico é reancorado em questão do LE; 
 
 ## Divergências
 
-Não foram identificadas divergências substantivas com o Pentateuco. Cada um dos 47 comentários é ancorado em questão literal do LE, e a tese central (imperfeições como estágios evolutivos, não condenações morais) coincide com LE q. 115, q. 780 e C&I 1ª parte, cap. VII. Os achados periféricos — imports de vocabulário ("carmas", "chakras", "aura"), a frase ambígua sobre "reinos da Natureza" e as citações nominais de Adler, Jung e Freud — estão tratados acima em "Vocabulário e método" e não atingem o bar editorial para registro em `wiki/divergencias/`.
+Não foram identificadas divergências substantivas com o Pentateuco. Cada um dos 47 comentários é ancorado em questão literal do LE, e a tese central (imperfeições como estágios evolutivos, não condenações morais) coincide com LE q. 115, q. 780 e C&I 1ª parte, cap. VII. Os achados periféricos — empréstimos de vocabulário ("carmas", "chakras", "aura"), a frase ambígua sobre "reinos da Natureza" e as citações nominais de Adler, Jung e Freud — estão tratados acima em "Vocabulário e método" e não atingem o critério editorial para registro em `wiki/divergencias/`.
 
-**Bar editorial aplicado:** o bar exige contradição direta do Pentateuco, não mera importação de vocabulário ou reinterpretação psicológica. São exemplos de divergências reais já registradas: [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] (Denis afirma "habituação" de sexo que Kardec não ensina) e [[wiki/divergencias/almas-irmas-criadas-aos-pares]] (Denis afirma exatamente o que Kardec nega em LE q. 298). Nada em *As Dores da Alma* se aproxima desse nível — a obra é comentário, não extensão doutrinária.
+**Critério editorial aplicado:** o registro em `wiki/divergencias/` exige contradição direta do Pentateuco, não mera importação de vocabulário ou reinterpretação psicológica. São exemplos de divergências reais já registradas: [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] (Denis afirma "habituação" de sexo que Kardec não ensina) e [[wiki/divergencias/almas-irmas-criadas-aos-pares]] (Denis afirma exatamente o que Kardec nega em LE q. 298). Nada em *As Dores da Alma* se aproxima desse nível — a obra é comentário, não extensão doutrinária.
 
 ## Páginas relacionadas
 
