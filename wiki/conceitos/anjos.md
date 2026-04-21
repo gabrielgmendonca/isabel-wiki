@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [C&I]
-tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita, obra/ci]
-atualizado_em: 2026-04-06
+fontes: [C&I, NT]
+tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita, hebreus, paulo, obra/ci]
+atualizado_em: 2026-04-21
 status: ativo
 ---
 
@@ -56,6 +56,22 @@ A humanidade nao esta limitada a terra; ocupa inumeros mundos. Muito antes que a
 
 > "Nao precisou, portanto, criar seres privilegiados, isentos de encargos; todos, antigos ou novos, conquistaram seus graus na luta e por seu proprio merito; todos, enfim, sao os filhos de suas obras." (C&I, 1a parte, cap. VIII, item 15)
 
+### Base neotestamentaria direta — Hebreus
+
+A leitura espirita dos anjos como Espiritos encontra ancoragem **explicita** no proprio Novo Testamento, no primeiro capitulo da [[wiki/obras/epistola-aos-hebreus|Epistola aos Hebreus]]:
+
+> "Nao sao porventura todos eles espiritos ministradores, enviados para servir a favor daqueles que hao de herdar a salvacao?" (Hb 1:14, ACF)
+
+A passagem **nomeia** os anjos como **espiritos** (no plural, no mesmo plano ontologico dos demais Espiritos) e os define por **funcao** (ministrar, servir), nao por natureza criada a parte. E exatamente a leitura que C&I 1a parte cap. VIII articulara: os anjos sao Espiritos purificados em funcao de mediacao, nao casta cosmica separada.
+
+Hebreus reforca a mesma leitura em 13:2:
+
+> "Nao vos esqueçais da hospitalidade, porque por ela alguns, nao o sabendo, hospedaram anjos." (Hb 13:2)
+
+Eco de Abraao hospedando os tres visitantes (Gn 18): os "anjos" transitam entre os dois planos, podem manifestar-se na vida cotidiana sem que o homem perceba a origem espiritual do encontro — linguagem coerente com a acao dos bons Espiritos descrita em LE q. 459–466 e em LM sobre aparicoes e visitas espirituais.
+
+E em Hb 12:22–23 a galeria celestial inclui "muitos milhares de anjos" ao lado dos "espiritos dos justos aperfeicoados" — expressao que confirma a continuidade entre as duas categorias, mais do que sua separacao rigida.
+
 ## Aplicacao pratica
 
 O tema dos anjos e central para palestras sobre a escala espirita e o destino do Espirito. A visao espirita democratiza a perfeicao: nao ha aristocracia espiritual, nao ha seres criados privilegiados. Todos partem do mesmo ponto e chegam ao mesmo objetivo pelo merito pessoal. Isso reafirma a justica de Deus e oferece esperanca a todos --- o mais imperfeito dos Espiritos possui em si a potencialidade do anjo.
@@ -65,6 +81,7 @@ Para estudos comparativos entre Espiritismo e Cristianismo tradicional, este cap
 ## Paginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
+- [[wiki/obras/epistola-aos-hebreus]] — Hb 1:14 ("espiritos ministradores"); 12:22–23 ("espiritos dos justos aperfeiçoados"); 13:2 (hospedar anjos sem saber)
 - [[wiki/conceitos/escala-espirita]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/demonios]]
@@ -77,3 +94,4 @@ Para estudos comparativos entre Espiritismo e Cristianismo tradicional, este cap
 
 - Kardec, Allan. *O Ceu e o Inferno*. 1a parte, cap. VIII. FEB.
 - Kardec, Allan. *O Livro dos Espiritos*. Parte 1a, cap. I. FEB.
+- *Biblia Sagrada* (ACF). Epistola aos Hebreus, 1:14; 12:22–23; 13:2. Ver [[wiki/obras/epistola-aos-hebreus]].

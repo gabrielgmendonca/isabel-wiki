@@ -4,6 +4,27 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-21] ingest | Epístola aos Hebreus (ACF) + 2 divergências + Melquisedeque
+
+Ingestão da **Epístola aos Hebreus** (ACF, caps. 1–13) como quarta entrada paulina no pipeline de NT (após Atos, 1 Coríntios e Romanos). Hebreus é homilia erudita a cristãos de origem judaica, com cinco núcleos de valor espírita:
+
+1. **Anjos como "espíritos ministradores"** (Hb 1:14; 13:2) — base NT direta para a leitura kardequiana de anjos = Espíritos (LE q. 128; C&I 1ª parte cap. VIII).
+2. **Nova aliança — lei escrita no coração** (Hb 8:10, citando Jr 31:33) — gêmea NT do axioma de LE q. 621 e de Rm 2:14–15.
+3. **Jesus consagrado pelas aflições; aprendeu pela obediência** (Hb 2:10, 17–18; 4:15; 5:7–9) — base paulina de LE q. 625 e ESE cap. XVII: Cristo modelo real porque viveu como homem.
+4. **"Pai dos espíritos" e correção pedagógica** (Hb 12:5–11) — paternidade divina sobre os seres espirituais; sofrimento como pedagogia do Pai, não castigo; corrigibilidade como signo de filiação. Paralelo direto com ESE cap. V.
+5. **Fé como "firme fundamento"** (Hb 11:1, 6) + encarnação como peregrinação (Hb 11:13, 16; 13:14) — definição escritural matriz da fé e formulação bíblica do mundo como lugar de passagem.
+
+**Ressalva sobre autoria** documentada com destaque: Hebreus não nomeia autor e sua atribuição a Paulo é contestada desde Orígenes ("quem de fato escreveu a carta, só Deus sabe"). Mantida no corpus paulino ampliado (tradição das casas espíritas brasileiras) com "Nota sobre a autoria" no cabeçalho da página da obra e nota correspondente em `paulo-de-tarso.md`, apontando para o verbete da Wikipédia em português e para o comentário crítico de Luke Timothy Johnson.
+
+Duas divergências registradas (páginas próprias):
+
+- **Hb 9:27** ("aos homens está ordenado morrerem uma vez, vindo depois disso o juízo") — passagem mais mobilizada pelas tradições cristãs contra a reencarnação. Leitura espírita: argumento tipológico-sacerdotal da carta (paralelo entre unicidade do sacrifício de Cristo e unicidade da morte em cada existência), não afirmação cosmológica. Compatível com pluralidade das existências.
+- **Hb 6:4–6 e 10:26–27** (impossibilidade de renovação após recaída) — lida como hipérbole parenética pastoral dirigida a comunidade em perigo de apostasia, não doutrina sobre irrecuperabilidade metafísica do Espírito (mitigada pelo próprio 6:9–12 e 10:39). Divergência real apenas com a leitura literalista-rigorista da tradição.
+
+Nova página de personalidade: **Melquisedeque** (Gn 14:18–20; Sl 110:4; Hb 5–7), figura enigmática que Hebreus recupera para fundar o argumento do sacerdócio de Cristo superior ao levítico. Tratada como Espírito adiantado encarnado antes da codificação mosaica, com recusa explícita de leituras teosófico-ocultistas ("ordem de Melquisedeque" como linhagem iniciática).
+
+Atualizações em `paulo-de-tarso.md` (nota sobre autoria + Hebreus nas páginas relacionadas e divergências), `anjos.md` (Hb 1:14; 13:2 como base NT direta), `fe.md` (Hb 11:1, 6 como definição escritural matriz), `lei-natural.md` (Hb 8:10 nova aliança), `provas-e-expiacoes.md` (Hb 12:5–11 correção do "Pai dos espíritos"), `reencarnacao.md` (link para divergência Hb 9:27). Entradas adicionadas no `wiki/sinteses/catalogo.md` (obras NT, personalidades, divergências).
+
 ## [2026-04-20] ingest | Epístola aos Romanos (ACF) + 2 divergências + ampliação da divergência sobre sexo
 
 Ingestão da **Epístola aos Romanos** (ACF, caps. 1–16) como terceira epístola paulina no pipeline de NT (após Atos e 1 Coríntios). Romanos é a paulina mais sistemática — tratado doutrinário com quatro núcleos de valor espírita:

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, C&I, ESE]
-tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, obra/le, obra/ci, obra/ese]
-atualizado_em: 2026-04-06
+fontes: [LE, C&I, ESE, NT]
+tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, hebreus, obra/le, obra/ci, obra/ese]
+atualizado_em: 2026-04-21
 status: ativo
 ---
 
@@ -32,6 +32,22 @@ O Espírito, no estado errante, escolhe suas provas com o auxílio de guias espi
 ### A Terra como mundo de provas e expiações
 
 A Terra é classificada como mundo de expiações e provas — onde o mal ainda sobrepuja o bem. Os Espíritos que nela encarnam têm provas a sofrer ou faltas a expiar, o que explica a soma de sofrimento observada na humanidade (ESE, cap. III; C&I, 1ª parte, cap. III).
+
+### Base paulina: a correção do "Pai dos espíritos" em Hebreus 12
+
+A [[wiki/obras/epistola-aos-hebreus|Epístola aos Hebreus]], no cap. 12, formula o sofrimento como **pedagogia divina**, em paralelo direto com a leitura espírita das provas:
+
+> "Filho meu, não desprezes a correção do Senhor, E não desmaies quando por ele fores repreendido; Porque o Senhor corrige o que ama, E açoita a qualquer que recebe por filho. Se suportais a correção, Deus vos trata como filhos [...]. Além do que, tivemos nossos pais segundo a carne, para nos corrigirem, e nós os reverenciamos; não nos sujeitaremos muito mais ao **Pai dos espíritos**, para vivermos? Porque aqueles, na verdade, por um pouco de tempo, nos corrigiam como bem lhes parecia; mas este, para nosso proveito, para sermos participantes da sua santidade. E, na verdade, toda a correção, ao presente, não parece ser de gozo, senão de tristeza, mas **depois produz um fruto pacífico de justiça nos exercitados por ela**." (Hb 12:5–11)
+
+Três convergências com Kardec:
+
+1. **Pai dos espíritos** (12:9) — Deus é chamado literalmente "Pai dos espíritos", em contraste com "pais segundo a carne". Paternidade **ontológica**, não apenas biológica — eco do princípio afirmado em LE q. 1 (Deus como causa primária) e coerente com a doutrina espírita da paternidade divina universal sobre os seres espirituais.
+2. **Correção pedagógica, não castigo** (12:10) — "para nosso proveito, para sermos participantes da sua santidade". É **exatamente** o que ensina ESE cap. V, item 12: "o sofrimento é o único meio de levar o Espírito à reflexão, ao arrependimento e à melhora". A prova é educação, não vingança.
+3. **Fruto pacífico de justiça nos exercitados por ela** (12:11) — a prova bem atravessada produz **virtude concreta**. Coerente com LE q. 258–262 (as provas escolhidas pelo Espírito com vistas ao aperfeiçoamento) e com o conceito de [[wiki/conceitos/resignacao|resignação]] ativa.
+
+A **corrigibilidade** é signo de filiação: "se estais sem disciplina [...] sois então bastardos, e não filhos" (12:8). Quem se deixa corrigir e aprende é filho; quem se endurece, afasta-se — chave de leitura coerente com o livre-arbítrio (LE q. 843) e com a classificação dos Espíritos endurecidos em C&I 2ª parte cap. VII.
+
+Hebreus 12:5–11 é, para o estudo espírita, um dos textos bíblicos mais límpidos para ilustrar a pedagogia do sofrimento: os aflitos são "exercitados" pelo Pai dos espíritos, e a aflição produz justiça em quem se entrega à sua lógica.
 
 ## Aplicação prática
 

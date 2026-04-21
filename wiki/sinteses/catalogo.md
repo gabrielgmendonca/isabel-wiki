@@ -38,6 +38,7 @@ index: false
 - [[wiki/obras/atos-dos-apostolos]] — Lucas (28 capítulos). Fundação da comunidade cristã e viagens apostólicas; Pentecostes como mediunidade universal, desobsessões (pitonisa de Filipos, filhos de Ceva), conversão de Paulo, universalismo ("Deus não faz acepção de pessoas", At 10:34), discurso do Areópago ("nele vivemos, e nos movemos, e existimos", At 17:28).
 - [[wiki/obras/epistola-aos-romanos]] — Paulo (57–58 d.C., 16 capítulos). Tratado do evangelho paulino: lei natural inscrita na consciência (Rm 2), justificação pela fé, providência ("todas as coisas concorrem para o bem", Rm 8:28), diversidade de dons no corpo de Cristo (Rm 12), caridade como plenitude da lei (Rm 13). Base das divergências sobre pecado original (Rm 5) e predestinação (Rm 8–9).
 - [[wiki/obras/primeira-epistola-aos-corintios]] — Paulo (54–55 d.C., 16 capítulos). Carta pastoral de correção à comunidade de Corinto: divisões e sabedoria do mundo, casos morais, catálogo dos dons espirituais (cap. 12), hino à caridade (cap. 13), disciplina das reuniões mediúnicas (cap. 14), corpo espiritual e ressurreição (cap. 15). Fonte de divergências sobre celibato (1 Co 7) e silêncio das mulheres (1 Co 11; 14).
+- [[wiki/obras/epistola-aos-hebreus]] — atribuída a Paulo, autoria discutida (c. 60–69 d.C., 13 capítulos). Homilia erudita a cristãos de origem judaica: Cristo superior a anjos, Moisés e sumo sacerdote levítico; sacerdócio "segundo a ordem de Melquisedeque" (caps. 5–7); nova aliança com lei no coração (Hb 8:10); galeria da fé (cap. 11); correção do "Pai dos espíritos" (Hb 12:5–11); anjos como "espíritos ministradores" (Hb 1:14). Divergências sobre "uma morte e depois o juízo" (Hb 9:27) e irrecuperabilidade dos recaídos (Hb 6:4–6; 10:26–27).
 
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
@@ -166,6 +167,7 @@ index: false
 - [[wiki/personalidades/pedro-apostolo]] — Simão Pedro, pescador da Galileia; protagonista de Atos 1–12, pregador do Pentecostes.
 - [[wiki/personalidades/paulo-de-tarso]] — apóstolo dos gentios; conversão em Damasco, três viagens missionárias, compêndio de fenomenologia mediúnica.
 - [[wiki/personalidades/estevao-o-martir]] — primeiro mártir cristão (At 6–7); visão do céu aberto, perdão aos algozes.
+- [[wiki/personalidades/melquisedeque]] — rei de Salém e sacerdote do Deus Altíssimo (Gn 14:18–20); prefigura em Hebreus 7 o sacerdócio eterno de Cristo.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -324,6 +326,8 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/predestinacao-em-romanos-8-9]] — eleição irrevogável antes do nascimento (Rm 8:29–30; 9:11–21) vs. livre-arbítrio como pilar da justiça divina (LE, q. 843–850). Status: aberta.
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — celibato como estado superior (1 Co 7) vs. casamento como lei natural de reprodução (LE, q. 686–701). Status: aberta.
 - [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — subordinação e silêncio feminino no culto (1 Co 11:3–16; 14:34–35) vs. igualdade dos sexos e mediunidade universal (LE, q. 817–822). Status: aberta.
+- [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — "aos homens está ordenado morrerem uma vez, vindo depois disso o juízo" (Hb 9:27) vs. pluralidade das existências (LE, q. 166–222; ESE cap. IV). Status: aberta.
+- [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — impossibilidade de renovação após recaída voluntária (Hb 6:4–6; 10:26–27) vs. misericórdia infinita e progresso indefinido (LE, q. 1009–1016; C&I, 1ª parte, caps. VI–VII). Status: aberta.
 
 ## Fontes
 

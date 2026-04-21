@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, mediunidade, obra/ese]
-atualizado_em: 2026-04-20
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, obra/ese]
+atualizado_em: 2026-04-21
 status: ativo
 ---
 
@@ -24,6 +24,10 @@ No Espiritismo, Paulo é figura **seletivamente citada** por Kardec:
 - **Caridade** (1 Co 13:4–7) — síntese comentada em ESE, cap. XV.
 
 Ao mesmo tempo, Kardec **reserva-se** quanto a Paulo em pontos doutrinários: a predestinação absoluta (Rm 9), a condenação dos incrédulos e algumas formulações sobre a mulher/casamento são filtradas pelo critério do Pentateuco e pela moral de Jesus.
+
+### Nota sobre Hebreus
+
+A **Epístola aos Hebreus** é, neste projeto, mantida no corpus paulino ampliado, como é prática tradicional das casas espíritas brasileiras. Mas o leitor deve saber: Hebreus **não traz nome de autor no próprio texto** (diferente de todas as demais cartas atribuídas a Paulo) e sua autoria foi posta em dúvida já na Antiguidade. Orígenes (séc. III) conclui célebremente que "quem de fato escreveu a carta, só Deus sabe" (apud Eusébio, *História Eclesiástica* VI.25.14). Diferenças marcantes de vocabulário, estilo e construção argumentativa em relação ao corpus paulino autêntico levam o consenso crítico moderno a considerar a autoria paulina **improvável**; candidatos alternativos discutidos: Apolo (1 Co 3), Barnabé, Priscila. Para panorama historiográfico, ver o verbete ["Epístola aos Hebreus"](https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Hebreus) na Wikipédia em português. A voz espiritual da carta é do **apostolado primitivo** dirigindo-se a cristãos de origem judaica; lê-la como "escrito do círculo paulino" resguarda a honestidade intelectual.
 
 ## Fenomenologia mediúnica
 
@@ -57,6 +61,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/atos-dos-apostolos]] — caps. 9, 13–28
 - [[wiki/obras/epistola-aos-romanos]] — carta-tratado (2:14–15 lei na consciência; 5 aflições; 7 luta moral; 8 vida no Espírito; 13 amor cumpre a lei)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
+- [[wiki/obras/epistola-aos-hebreus]] — **autoria paulina discutida** (ver nota acima); anjos como "espíritos ministradores" (1:14; 13:2), nova aliança com a lei escrita no coração (8:10), Jesus consagrado pelas aflições (2:10; 5:8), "Pai dos espíritos" e correção pedagógica (12:5–11), fé como "firme fundamento" (11:1)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
@@ -72,6 +77,8 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/divergencias/pecado-original-em-romanos-5]] — Rm 5:12–19 vs. LE q. 621; Gênese cap. XI
 - [[wiki/divergencias/predestinacao-em-romanos-8-9]] — Rm 8:29–30; 9:11–23 vs. livre-arbítrio (LE q. 843)
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Rm 1:26–27 ampliando o debate Kardec vs. Léon Denis
+- [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — Hb 9:27 ("aos homens está ordenado morrerem uma vez") vs. pluralidade das existências
+- [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — Hb 6:4–6; 10:26–27 (impossibilidade de renovação após recaída) vs. misericórdia infinita e progresso indefinido
 
 ## Fontes
 

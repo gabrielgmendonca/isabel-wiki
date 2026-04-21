@@ -75,6 +75,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202).
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298).
+- [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — Hb 9:27 ("aos homens está ordenado morrerem uma vez, vindo depois disso o juízo") é a passagem mais mobilizada pelas tradições cristãs contra a pluralidade das existências. Leitura espírita: argumento tipológico-sacerdotal da carta, não afirmação cosmológica. Status: aberta.
 
 ## Páginas relacionadas
 
