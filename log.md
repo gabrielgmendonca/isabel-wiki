@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-21] lint | 0 achados
+
+Wiki limpa em todos os 13 checks determinísticos (284 páginas, incluindo a ingestão de Hebreus e as duas divergências recém-criadas). Nenhum broken_link, frontmatter inválido, órfão, citação fora de padrão ou lacuna no Pentateuco. Nada a corrigir.
+
 ## [2026-04-21] ingest | Epístola aos Hebreus (ACF) + 2 divergências + Melquisedeque
 
 Ingestão da **Epístola aos Hebreus** (ACF, caps. 1–13) como quarta entrada paulina no pipeline de NT (após Atos, 1 Coríntios e Romanos). Hebreus é homilia erudita a cristãos de origem judaica, com cinco núcleos de valor espírita:
