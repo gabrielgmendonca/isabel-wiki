@@ -24,11 +24,11 @@ O script sobrescreve `wiki/sinteses/estatisticas-da-wiki.md` com um painel deter
 - Tamanho das páginas (histograma textual, extremos).
 - Sugestões automáticas (órfãs, termos sem página, componentes isolados).
 
-## Passo 2 — Atualizar índice e log
+## Passo 2 — Atualizar catálogo e log
 
-Se esta é a primeira execução e a página ainda não está em `index.md`:
+Se esta é a primeira execução e a página ainda não está em `wiki/sinteses/catalogo.md`:
 
-1. Adicionar `- [[wiki/sinteses/estatisticas-da-wiki]] — painel estatístico gerado automaticamente` na seção Sínteses.
+1. Adicionar `- [[wiki/sinteses/estatisticas-da-wiki]] — painel estatístico gerado automaticamente` na seção Sínteses do catálogo.
 2. Adicionar entrada em `log.md`: `## [YYYY-MM-DD] setup | Página de estatísticas da wiki`.
 
 Em regenerações subsequentes, apenas rodar o script.

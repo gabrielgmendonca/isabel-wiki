@@ -22,7 +22,7 @@ Flags disponíveis:
 - `--skip NAME` (repetível): pular os checks listados.
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `index_broken`, `index_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`.
+Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
@@ -32,13 +32,13 @@ Agrupar os resultados do script por severidade:
 
 ### Erros (corrigir)
 - **broken_links** — wikilinks apontando para arquivos inexistentes.
-- **index_broken** — entradas do `index.md` apontando para arquivos que não existem.
+- **catalogo_broken** — entradas de `wiki/sinteses/catalogo.md` apontando para arquivos que não existem.
 - **frontmatter** — campos obrigatórios ausentes ou valores inválidos de `tipo`/`status`.
 - **pentateuco_completo** — alguma das 5 obras do Pentateuco ausente em `wiki/obras/`.
 
 ### Avisos (revisar)
-- **index_missing** — arquivos em `wiki/` ausentes do `index.md` (use `index: false` no frontmatter para excluir).
-- **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki (index.md não conta). Nota: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
+- **catalogo_missing** — arquivos em `wiki/` ausentes de `wiki/sinteses/catalogo.md` (use `index: false` no frontmatter para excluir).
+- **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki. Nota: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
 - **fontes_missing** — seção `## Fontes` ausente ou vazia.
 - **citation_format** — citações com sigla conhecida mas formato fora do padrão da seção 4.
 - **rascunho_stale** — páginas com `status: rascunho` há mais de 14 dias.
@@ -48,7 +48,7 @@ Agrupar os resultados do script por severidade:
 ### Info
 - **divergencias_aberta** — divergências com `status: aberta`.
 - **missing_concept_pages** — links para conceitos que ainda não têm página própria.
-- **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar quando conveniente.
+- **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/ingest/scripts/update_status.py`.
 
 Para cada categoria com `count > 0`, listar os itens de forma concisa.
 

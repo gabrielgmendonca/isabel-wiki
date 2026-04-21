@@ -33,21 +33,19 @@ from _lib.wiki_utils import (  # noqa: E402
 
 STALE_DAYS = 14
 
-# Páginas que compõem o "índice" conceitual da wiki. A home (index.md) virou
-# landing minimalista; o catálogo linear vive em wiki/sinteses/catalogo.md.
-# Qualquer página nestes arquivos conta como "indexada" para os checks abaixo.
-INDEX_SOURCES = [INDEX_PATH, WIKI_DIR / "sinteses" / "catalogo.md"]
+# A listagem linear da wiki vive em wiki/sinteses/catalogo.md. A home (index.md)
+# virou landing minimalista de trilhas e não é mais fonte de catálogo.
+CATALOG_PATH = WIKI_DIR / "sinteses" / "catalogo.md"
 
 
-def _collect_index_targets() -> set[str]:
+def _collect_catalog_targets() -> set[str]:
     targets: set[str] = set()
-    for path in INDEX_SOURCES:
-        if not path.exists():
-            continue
-        text = path.read_text(encoding="utf-8")
-        for _, target in find_wikilinks(text):
-            if target.startswith("wiki/"):
-                targets.add(target)
+    if not CATALOG_PATH.exists():
+        return targets
+    text = CATALOG_PATH.read_text(encoding="utf-8")
+    for _, target in find_wikilinks(text):
+        if target.startswith("wiki/"):
+            targets.add(target)
     return targets
 
 
@@ -58,7 +56,10 @@ def _collect_index_targets() -> set[str]:
 def check_broken_links(pages: list[Path]) -> dict:
     """Check 4 — wikilinks apontando para arquivos inexistentes."""
     items = []
-    for page in pages:
+    sources = list(pages)
+    if INDEX_PATH.exists():
+        sources.append(INDEX_PATH)
+    for page in sources:
         text = page.read_text(encoding="utf-8")
         for lineno, target in find_wikilinks(text):
             resolved = resolve_wikilink(target)
@@ -68,16 +69,6 @@ def check_broken_links(pages: list[Path]) -> dict:
                     "line": lineno,
                     "target": target,
                 })
-    # Também checar index.md
-    text = INDEX_PATH.read_text(encoding="utf-8")
-    for lineno, target in find_wikilinks(text):
-        resolved = resolve_wikilink(target)
-        if not resolved.exists():
-            items.append({
-                "source": str(INDEX_PATH),
-                "line": lineno,
-                "target": target,
-            })
     return {"severity": "error", "count": len(items), "items": items}
 
 
@@ -118,21 +109,21 @@ def check_fontes_section(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
-def check_index_broken(pages: list[Path]) -> dict:
-    """Check 7a — index/catálogo aponta para arquivos inexistentes (erro)."""
-    index_targets = _collect_index_targets()
+def check_catalogo_broken(pages: list[Path]) -> dict:
+    """Check 7a — catalogo.md aponta para arquivos inexistentes (erro)."""
+    catalog_targets = _collect_catalog_targets()
     disk_keys = {page_key(p) for p in pages}
-    in_index_not_on_disk = sorted(index_targets - disk_keys)
-    items = [{"detail": f"no index mas arquivo não existe: {p}"} for p in in_index_not_on_disk]
+    in_catalog_not_on_disk = sorted(catalog_targets - disk_keys)
+    items = [{"detail": f"no catálogo mas arquivo não existe: {p}"} for p in in_catalog_not_on_disk]
     return {"severity": "error", "count": len(items), "items": items}
 
 
-def check_index_missing(pages: list[Path]) -> dict:
-    """Check 7b — arquivos em wiki/ ausentes do index/catálogo (aviso).
+def check_catalogo_missing(pages: list[Path]) -> dict:
+    """Check 7b — arquivos em wiki/ ausentes do catalogo.md (aviso).
 
     Páginas com `index: false` no frontmatter são excluídas explicitamente.
     """
-    index_targets = _collect_index_targets()
+    catalog_targets = _collect_catalog_targets()
 
     disk_keys = set()
     for p in pages:
@@ -141,8 +132,8 @@ def check_index_missing(pages: list[Path]) -> dict:
             continue
         disk_keys.add(page_key(p))
 
-    on_disk_not_in_index = sorted(disk_keys - index_targets)
-    items = [{"detail": f"arquivo existe mas falta no index: {p}"} for p in on_disk_not_in_index]
+    on_disk_not_in_catalog = sorted(disk_keys - catalog_targets)
+    items = [{"detail": f"arquivo existe mas falta no catálogo: {p}"} for p in on_disk_not_in_catalog]
     return {"severity": "warning", "count": len(items), "items": items}
 
 
@@ -489,8 +480,8 @@ def compute_stats(pages: list[Path]) -> dict:
 
 CHECK_REGISTRY = {
     "broken_links": check_broken_links,
-    "index_broken": check_index_broken,
-    "index_missing": check_index_missing,
+    "catalogo_broken": check_catalogo_broken,
+    "catalogo_missing": check_catalogo_missing,
     "frontmatter": check_frontmatter,
     "orphan_pages": check_orphan_pages,
     "fontes_missing": check_fontes_section,

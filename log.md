@@ -584,3 +584,11 @@ Criadas três personalidades: `paulo-de-tarso.md`, `pedro-apostolo.md`, `estevao
 ## [2026-04-19] refactor | Higiene do script de estatísticas
 
 Em `.claude/skills/stats/scripts/stats_wiki.py`: (1) meta-páginas (`tipo: sintese` + tag `meta`) excluídas de grafo, vocabulário e tamanho via helper `is_meta_page()`; (2) seções-template `## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas` e `## Conceitos relacionados` removidas antes da tokenização via `TEMPLATE_SECTION_RE`. Impacto: grafo 246→245 nós, 1918→1873 arestas; `estatisticas-da-wiki` não aparece mais como #2 conector. Bigramas dominantes passam de "trad guillon ribeiro" (262), "fontes kardec" (205), "páginas relacionadas" (202) para "mundo espiritual" (100), "ensino kardec" (96), "aplicação prática" (90) — sinal doutrinário em vez de aparato bibliográfico. Marca item correspondente no ROADMAP como concluído.
+
+## [2026-04-21] lint | 41 achados
+
+Nenhum erro; integridade estrutural OK (links, frontmatter, Pentateuco completo). 36 avisos de `index_missing` concentrados em parábolas (ESE) e páginas recentes de Romanos/1 Coríntios (obras + 4 divergências) ainda não inseridas no `index.md`. 1 `fontes_missing` em `sinteses/catalogo.md` (meta), 1 `citation_format` em LM (referência a parte, provável falso positivo) e 1 `tag_taxonomy` em `trilhas/leitura-livre.md`. Info: contagens do `index.md` desatualizadas (18→22 complementares, ~276→280 páginas).
+
+## [2026-04-21] refactor | Renomeia checks `index_*` → `catalogo_*` no lint
+
+A home `index.md` virou landing de trilhas e não lista páginas individuais — a listagem linear vive em `wiki/sinteses/catalogo.md`. Para refletir isso: (1) checks `index_broken` e `index_missing` renomeados para `catalogo_broken` e `catalogo_missing`, lendo apenas o catálogo; (2) `ingest/SKILL.md`, `stats/SKILL.md` e `CLAUDE.md` §4 atualizados para apontar ao catálogo nas instruções de "listar novas páginas". `update_status.py` (atualização da linha "Cobertura atual" na home) segue válido.
