@@ -51,6 +51,16 @@ Jesus não diz que todo sofrimento é bom; diz que o sofrimento **bem suportado*
 
 A consolação prometida não suprime a dor imediata; esclarece-a. O espírita sabe que a aflição tem causa, sentido e termo; que a morte não encerra a conta; que o sofrimento bem carregado adianta o Espírito muitos anos. Essa compreensão já é, por si, metade da consolação — a outra metade é a certeza do reencontro e do reajuste.
 
+### Ressonância em Paulo: Romanos 5 e 8
+
+Paulo, em Romanos 5:3–5 e 8:18, oferece a formulação paulina direta da mesma chave interpretativa espírita:
+
+> "E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência, e a paciência a experiência, e a experiência a esperança. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado." (Rm 5:3–5)
+>
+> "Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada." (Rm 8:18)
+
+A cadeia paulina — tribulação → paciência → experiência → esperança — ecoa ponto a ponto o item 12 do ESE cap. V: "Jesus aponta a compensação que hão de ter os que sofrem e a resignação que leva o padecente a bendizer do sofrimento, como prelúdio da cura". E Rm 8:18 ("aflições não são para comparar com a glória") é formulação direta do que Kardec retoma como **consolação maior**: a breveza do sofrimento presente posta em perspectiva com a eternidade do Espírito. Ver [[wiki/obras/epistola-aos-romanos]].
+
 ## Aplicação prática
 
 Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e injustiças na casa espírita. Não se consola negando a dor, nem prometendo milagre imediato: consola-se explicando a dor à luz da justiça divina e da pluralidade das existências. Praticar a bem-aventurança é, do lado de quem sofre, manter a prece e a resignação ativa (não a passividade); do lado de quem acompanha, oferecer presença, esclarecimento e silêncio — jamais chavões.
@@ -68,4 +78,5 @@ Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e i
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. V ("Bem-aventurados os aflitos"), itens 1–27.
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 258–261 (escolha das provas); q. 919–921 (sofrimentos como meio de progresso).
-- *Novo Testamento*. S. Mateus 5:4, 6, 10; S. Lucas 6:20–25.
+- *Novo Testamento*. S. Mateus 5:4, 6, 10; S. Lucas 6:20–25; Epístola aos Romanos 5:3–5 e 8:18.
+- Ver também [[wiki/obras/epistola-aos-romanos]] (caps. 5 e 8).

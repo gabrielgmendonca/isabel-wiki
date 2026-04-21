@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LE, ESE, OQE]
-tags: [trilha, introducao, iniciante]
+tags: [trilha, introducao, iniciante, obra/le, obra/ese, obra/oqe]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
-tags: [lei-natural, lei-divina, bem-e-mal, moral, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho]
-atualizado_em: 2026-04-05
+fontes: [LE, NT]
+tags: [lei-natural, lei-divina, bem-e-mal, moral, paulo, romanos, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho]
+atualizado_em: 2026-04-20
 status: ativo
 ---
 
@@ -36,6 +36,20 @@ Não basta abster-se do mal: "cumpre-lhe fazer o bem no limite de suas forças, 
 
 O mal moral existe porque os Espíritos foram criados simples e ignorantes, e Deus lhes deixa a escolha do caminho (LE, q. 634).
 
+## Base escritural: Romanos 2
+
+A formulação kardequiana ("a lei está escrita na consciência") encontra correspondência neotestamentária **direta** em Paulo:
+
+> "Porque, quando os gentios, que não têm lei, fazem naturalmente as coisas que são da lei, não tendo eles lei, para si mesmos são lei; os quais mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência, e os seus pensamentos, quer acusando-os, quer defendendo-os." (Rm 2:14–15, ACF)
+
+Três convergências com o Pentateuco:
+
+1. **Universalidade** — Paulo alcança os gentios "que não têm lei [Torá]"; Kardec afirma a lei "eterna e imutável", "universal" (LE q. 617). Ambos rompem com a restrição da lei moral a uma linhagem histórica ou a um sistema religioso particular.
+2. **Interioridade** — Paulo: "escrita em seus corações". Kardec: "na consciência" (LE q. 621). O fundamento moral não é exterior nem heterônomo; é inscrito no próprio ser.
+3. **Autotestemunho** — Paulo: "testificando juntamente a sua consciência, e os seus pensamentos, quer acusando-os, quer defendendo-os". Kardec: "não é possível que Deus se contradiga, nem que ache mau o que ele próprio fez" (LE q. 699, comentário) — a consciência é testemunha fiel da Lei inscrita.
+
+Mais: "Porque, para com Deus, não há acepção de pessoas" (Rm 2:11) — exatamente a máxima que Kardec cita em ESE cap. XI a partir de At 10:34, articulando universalismo moral e justiça imparcial. Ver [[wiki/obras/epistola-aos-romanos]].
+
 ## Divisão das leis morais
 
 Kardec divide a lei natural em **dez leis morais** (Parte 3, Caps. II–XI), mais a culminação em perfeição moral (Cap. XII):
@@ -60,3 +74,4 @@ Kardec divide a lei natural em **dez leis morais** (Parte 3, Caps. II–XI), mai
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. I (q. 614–648). Trad. Guillon Ribeiro. FEB.
+- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 2:11 e 2:14–15. Ver [[wiki/obras/epistola-aos-romanos]].

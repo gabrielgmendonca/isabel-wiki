@@ -4,6 +4,38 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-20] ingest | Epístola aos Romanos (ACF) + 2 divergências + ampliação da divergência sobre sexo
+
+Ingestão da **Epístola aos Romanos** (ACF, caps. 1–16) como terceira epístola paulina no pipeline de NT (após Atos e 1 Coríntios). Romanos é a paulina mais sistemática — tratado doutrinário com quatro núcleos de valor espírita:
+
+1. **Lei moral inscrita no coração** (Rm 2:14–15) — formulação paulina direta do axioma kardequiano da lei na consciência (LE q. 621).
+2. **Luta moral interior** (Rm 7:15–25) — "o mal que não quero, esse faço" — base paulina do combate moral do homem de bem (ESE cap. XVII; LE q. 908).
+3. **Amor como cumprimento da lei** (Rm 13:8–10) — gêmea de 1 Co 13 e de Mt 22:37–40 (Lei de Justiça, Amor e Caridade).
+4. **Aflições com sentido** (Rm 5:3–5; 8:18, 28) — armadura escritural de ESE cap. V (bem-aventurados os aflitos).
+
+**Criado:**
+
+1. [[wiki/obras/epistola-aos-romanos]] — página da obra (nível 3), 4 blocos estruturais (pecado universal/justificação caps. 1–4; vida segundo o Espírito caps. 5–8; Israel e plano divino caps. 9–11; ética da vida nova caps. 12–16), 10 temas centrais, tabela de cross-refs com Pentateuco, personalidades (Paulo, Tércio, Febe, Priscila/Áquila, Andrônico/Júnias, Rufo, Timóteo, Gaio, Erasto).
+2. [[wiki/divergencias/pecado-original-em-romanos-5]] — Rm 5:12–19 ("por um homem entrou o pecado") vs. Kardec: lei na consciência (LE q. 621), Adão não é o primeiro homem (Gênese cap. XI, itens 38–44; [[wiki/conceitos/raca-adamica]]), sofrimentos próprios do progresso (ESE cap. V). Status: aberta.
+3. [[wiki/divergencias/predestinacao-em-romanos-8-9]] — Rm 8:29–30 ("predestinou / chamou / justificou") + 9:11–23 (Jacó/Esaú; oleiro e barro) vs. livre-arbítrio (LE q. 843). Análise da leitura histórico-retórica (endurecimento parcial de Israel) + distinção presciência vs. decreto. Status: aberta.
+
+**Atualizado:**
+
+- [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — **ampliada** com seção "Extensão: Paulo e a 'natureza' em Romanos 1" articulando Rm 1:26–27 ("paixões infames", "contrário à natureza") e o cap. 13 de *O Problema do Ser e do Destino* de Léon Denis ("anormais / viragos") como duas variações do mesmo literalismo da "natureza" sexual — dissolvidas pela mesma tríade kardequiana LE q. 200–202 ("os sexos dependem do organismo"; alternância pedagógica; "isso pouco lhe importa"). Decisão de incorporar Rm 1 aqui em vez de criar divergência autônoma: compartilham estrutura argumentativa, não exigem página nova. Frontmatter atualizado com `NT` em fontes e `paulo, romanos` em tags.
+- [[wiki/conceitos/lei-natural]] — nova seção "Base escritural: Romanos 2" com Rm 2:14–15 articulando à formulação de LE q. 621.
+- [[wiki/conceitos/livre-arbitrio]] — nova seção "Formulação paulina: cada um dará conta de si mesmo" (Rm 14:12) + nota sobre leitura da "predestinação" paulina e remissão à divergência.
+- [[wiki/conceitos/origem-do-mal]] — nova seção "Divergências" com análise da leitura paulina do pecado original e remissão.
+- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — nova seção "Formulação paulina: o cumprimento da lei é o amor" (Rm 13:8–10 + Rm 12:9–21).
+- [[wiki/conceitos/bem-aventuranca-dos-aflitos]] — subseção "Ressonância em Paulo: Romanos 5 e 8" (Rm 5:3–5 e 8:18).
+- [[wiki/conceitos/responsabilidade]] — nova seção "Formulação paulina: Romanos 2 e 14" (Rm 2:6, 11 e 14:12).
+- [[wiki/personalidades/paulo-de-tarso]] — expandido com citações paulinas de Rm (2:14–15, 7:19, 8:18, 8:28, 13:10, 14:12), nova obra em "Páginas relacionadas", três divergências registradas (pecado-original, predestinação, mudança-de-sexo ampliada).
+
+**Não mexido** (conforme prática das últimas ingestões): `index.md`. Contagens de cobertura atualizadas depois pelo `update_status.py`.
+
+**Motivação:** continuar cobertura NT como escrito apostólico (nível 3) após Evangelhos, Atos e 1 Coríntios. Romanos foi priorizada por densidade doutrinária e por três passagens-chave que o estudo espírita aproveita na íntegra: Rm 2:14–15 (lei na consciência), Rm 13:8–10 (amor cumpre a lei), Rm 8:18 (aflições e glória). A ingestão também precipitou a ampliação da divergência existente sobre mudança de sexo — Rm 1 e Denis OPS cap. 13 operam com o mesmo literalismo da "natureza", dissolvido pela mesma passagem de Kardec (LE q. 200–202).
+
+---
+
 ## [2026-04-20] lint | 50 achados (após correção do script)
 
 Lint pós-ingest de 1 Coríntios. Duas correções no script de lint eliminaram **85 falsos positivos**:

@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LE, ESE, LM]
-tags: [trilha, esde, evangelizacao, grupos-de-estudo]
+tags: [trilha, esde, evangelizacao, grupos-de-estudo, obra/le, obra/ese, obra/lm]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

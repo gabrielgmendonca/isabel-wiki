@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LE, ESE, LM, "C&I", Gênese]
-tags: [trilha, leitura, pentateuco]
+tags: [trilha, leitura, pentateuco, obra/le, obra/ese, obra/lm, obra/genese]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

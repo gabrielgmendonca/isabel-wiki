@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
-fontes: [LE, C&I, OPS]
-tags: [reencarnacao, sexo, leon-denis, obra/le, obra/ci]
-atualizado_em: 2026-04-07
+fontes: [LE, C&I, OPS, NT]
+tags: [reencarnacao, sexo, leon-denis, paulo, romanos, obra/le, obra/ci]
+atualizado_em: 2026-04-20
 status: aberta
 ---
 
@@ -85,11 +85,42 @@ Mas recua de imediato: "a pena de talião não rege, de maneira absoluta, o mund
 
 A posição de Denis possivelmente reflete os preconceitos culturais da Europa do início do séc. XX — em particular os papéis rígidos de gênero da sociedade francesa. A própria linguagem empregada ("viragos", "anormais", "nada têm de estético nem de sedutor") é mais sociocultural que doutrinária. **Kardec prevalece.**
 
+## Extensão: Paulo e a "natureza" em Romanos 1
+
+A mesma estrutura argumentativa — condenar formas de expressão sexual não-heteronormativa apelando a um conceito moralizado de "natureza" — encontra-se em Paulo, séculos antes de Denis, em Romanos 1:26–27:
+
+> "Por isso Deus os abandonou às paixões infames. Porque até as suas mulheres mudaram o uso natural, no contrário à natureza. E, semelhantemente, também os homens, deixando o uso natural da mulher, se inflamaram em sua sensualidade uns para com os outros, homens com homens, cometendo torpeza e recebendo em si mesmos a recompensa que convinha ao seu erro." (Rm 1:26–27, ACF)
+
+O argumento paulino é paralelo ao deniseano na chave argumentativa, embora se refira a objetos distintos:
+
+| Paulo (Rm 1:26–27) | Denis (OPS cap. 13) |
+|---|---|
+| Relações homoeróticas | Mudança de sexo entre encarnações |
+| "Contrário à natureza" (*para phýsin*) | "Em princípio, inútil e perigosa"; pessoas "anormais" |
+| "Paixões infames"; "torpeza"; "erro" | "Viragos"; "efeminados extraviados na vida"; "nada têm de estético nem de sedutor" |
+| Fundamento: ordem criacional hetero entre os sexos | Fundamento: hábito perispiritual sedimentado a um sexo |
+
+Ambos operam com um conceito de **"natureza" sexual** estabilizada, da qual o desvio é moralmente degradante. E ambos se dissolvem pela mesma hermenêutica kardequiana, em LE q. 200–202:
+
+> **Q. 200** — "Têm sexos os Espíritos?
+> — Não como o entendeis, pois que os sexos dependem do organismo. Há entre eles amor e simpatia, mas baseados na semelhança dos sentimentos." (LE, q. 200)
+>
+> **Q. 202** — "Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de uma mulher?
+> — Isso pouco lhe importa. O que o guia na escolha são as provas por que haja de passar." (LE, q. 202)
+
+Se o sexo é atributo do organismo, não do Espírito; se a alternância entre encarnações é pedagógica e não "perigosa"; se ao Espírito "pouco lhe importa" encarnar como homem ou mulher — **então a "natureza" que Paulo e Denis invocam não tem o estatuto doutrinário que lhe atribuem**. O corpo é instrumento provisório da alma, não pauta moral.
+
+Não se trata, com isso, de equiparar os dois casos ou de esgotar a discussão sobre orientação sexual — questão que Kardec não aborda diretamente e que o Espiritismo moderno trata com cuidado pastoral próprio. Trata-se de **nomear o procedimento argumentativo comum**: invocar a "natureza" biológica como critério moral absoluto. O Pentateuco oferece lentes mais precisas: a moral se mede pela [[wiki/conceitos/lei-de-justica-amor-e-caridade|caridade efetiva]], pela [[wiki/conceitos/responsabilidade|responsabilidade]] ante a consciência (LE q. 621) e pelas [[wiki/conceitos/provas-e-expiacoes|provas]] escolhidas para o progresso — não pelo formato do corpo nem por padrões socioculturais de época.
+
+A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki/obras/epistola-aos-romanos|Epístola aos Romanos]], anota precisamente este paralelo: Paulo em Rm 1 e Denis em OPS cap. 13 compartilham a mesma estratégia argumentativa, e ambas são dissolvidas pela mesma tríade kardequiana (LE q. 200–202).
+
 ## Conceitos relacionados
 
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/obras/o-problema-do-ser-e-do-destino]]
+- [[wiki/obras/epistola-aos-romanos]] — cap. 1:26–27 (extensão paulina da mesma estrutura argumentativa)
+- [[wiki/personalidades/paulo-de-tarso]]
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]]
 
 ## Fontes
@@ -97,3 +128,4 @@ A posição de Denis possivelmente reflete os preconceitos culturais da Europa d
 - Kardec, Allan. *O Livro dos Espíritos*, q. 200–202. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11. Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
+- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 1:26–27.

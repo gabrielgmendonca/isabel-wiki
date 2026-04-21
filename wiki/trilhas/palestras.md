@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [ESE]
-tags: [trilha, palestras, oratoria, parabolas]
+tags: [trilha, palestras, oratoria, parabolas, obra/ese]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, mediunidade, obra/ese]
-atualizado_em: 2026-04-15
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, mediunidade, obra/ese]
+atualizado_em: 2026-04-20
 status: ativo
 ---
 
@@ -45,23 +45,37 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - "Nele vivemos, e nos movemos, e existimos" (At 17:28, citando poetas gregos) — imanência divina.
 - "Deus não faz acepção de pessoas" (Rm 2:11; eco de At 10:34) — universalismo moral.
 - "A caridade é paciente, é benigna [...] tudo desculpa, tudo crê, tudo espera, tudo suporta" (1 Co 13:4–7).
+- "Os gentios [...] mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência" (Rm 2:14–15) — formulação paulina direta da lei moral na consciência (LE q. 621).
+- "Porque não faço o bem que quero, mas o mal que não quero esse faço" (Rm 7:19) — descrição paulina da luta moral interior; paralelo de ESE cap. XVII.
+- "As aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada" (Rm 8:18) — ancoragem paulina da leitura espírita do sofrimento (ESE cap. V).
+- "Todas as coisas contribuem juntamente para o bem daqueles que amam a Deus" (Rm 8:28) — providência articulada à sintonia moral.
+- "O cumprimento da lei é o amor" (Rm 13:10) — formulação paulina da Lei de Justiça, Amor e Caridade.
+- "Cada um de nós dará conta de si mesmo a Deus" (Rm 14:12) — princípio da responsabilidade individual.
 
 ## Páginas relacionadas
 
 - [[wiki/obras/atos-dos-apostolos]] — caps. 9, 13–28
+- [[wiki/obras/epistola-aos-romanos]] — carta-tratado (2:14–15 lei na consciência; 5 aflições; 7 luta moral; 8 vida no Espírito; 13 amor cumpre a lei)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
-- [[wiki/conceitos/perispirito]] — "corpo espiritual" (1 Co 15:44)
+- [[wiki/conceitos/lei-natural]] — Rm 2:14–15 (lei escrita no coração)
+- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Rm 13:8–10
+- [[wiki/conceitos/perispirito]] — "corpo espiritual" (1 Co 15:44); "segundo o Espírito" (Rm 8:5–13)
 - [[wiki/conceitos/mediunidade]] — repertório fenomenológico paulino
 - [[wiki/conceitos/discernimento-dos-espiritos]] — 1 Co 12:10; 14:29, 32–33
+- [[wiki/conceitos/responsabilidade]] — Rm 14:12
 - [[wiki/conceitos/obsessao]] — pitonisa de Filipos
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7 vs. Lei de Reprodução
 - [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11; 14:34–35 vs. Lei de Igualdade
+- [[wiki/divergencias/pecado-original-em-romanos-5]] — Rm 5:12–19 vs. LE q. 621; Gênese cap. XI
+- [[wiki/divergencias/predestinacao-em-romanos-8-9]] — Rm 8:29–30; 9:11–23 vs. livre-arbítrio (LE q. 843)
+- [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Rm 1:26–27 ampliando o debate Kardec vs. Léon Denis
 
 ## Fontes
 
 - *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm).
-- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IV, XV (item 4).
-- KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XIV.
+- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IV, V, XI, XII, XV (item 4), XVII.
+- KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 135, 200–202, 621, 843–872.
+- KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. caps. XI (raça adâmica) e XIV (perispírito).

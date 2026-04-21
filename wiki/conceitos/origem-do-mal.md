@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, Gênese]
-tags: [mal, bem, livre-arbitrio, imperfeicao, progresso, obra/le, obra/genese, lei/liberdade]
-atualizado_em: 2026-04-06
+fontes: [LE, Gênese, NT]
+tags: [mal, bem, livre-arbitrio, imperfeicao, progresso, pecado-original, paulo, romanos, obra/le, obra/genese, lei/liberdade]
+atualizado_em: 2026-04-20
 status: ativo
 ---
 
@@ -42,6 +42,14 @@ O Espírito não foi criado perfeito, mas "simples e ignorante" (LE, q. 115), co
 ## Aplicação prática
 
 A compreensão da origem do mal fundamenta a postura espírita diante do sofrimento: não há castigo arbitrário, mas consequência natural das escolhas. Isso remove a culpa sobre Deus, sustenta a esperança no progresso e reforça a responsabilidade individual.
+
+## Divergências
+
+**Pecado original em Romanos 5.** Paulo, em Rm 5:12–19, escreve que "por um homem entrou o pecado no mundo, e pelo pecado a morte" e que "muitos foram feitos pecadores" pela desobediência de um só. A tradição cristã posterior (Agostinho, escolástica, Trento) absolutizou o argumento em **dogma do pecado original** transmitido por herança — o mal como culpa ancestral comum que só a redenção vicária de Cristo pode quitar.
+
+Kardec recusa essa construção em três eixos: a lei está na consciência de cada Espírito, não herdada de Adão (LE q. 621); Adão não é o primeiro homem do planeta, mas símbolo de uma imigração específica numa Terra já povoada (Gênese cap. XI, itens 38–44; cf. [[wiki/conceitos/raca-adamica]]); o sofrimento é consequência de imperfeições próprias ou de provas escolhidas pelo próprio Espírito (ESE cap. V, itens 3–6), não marca ancestral.
+
+Ver [[wiki/divergencias/pecado-original-em-romanos-5]].
 
 ## Páginas relacionadas
 
