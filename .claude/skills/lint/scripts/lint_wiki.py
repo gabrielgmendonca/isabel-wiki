@@ -392,6 +392,13 @@ PENTATEUCO_SLUGS = {
     "ceu-e-inferno",
 }
 
+EVANGELHOS_SLUGS = {
+    "evangelho-segundo-mateus",
+    "evangelho-segundo-marcos",
+    "evangelho-segundo-lucas",
+    "evangelho-segundo-joao",
+}
+
 
 def check_pentateuco_completo(pages: list[Path]) -> dict:
     """Check — Pentateuco deve ter os 5 arquivos canônicos (erro)."""
@@ -417,7 +424,8 @@ def check_status_projeto(pages: list[Path]) -> dict:
     obras_dir = WIKI_DIR / "obras"
     obras_pages = sorted(obras_dir.glob("*.md")) if obras_dir.exists() else []
     n_complementares = sum(
-        1 for o in obras_pages if o.stem not in PENTATEUCO_SLUGS
+        1 for o in obras_pages
+        if o.stem not in PENTATEUCO_SLUGS and o.stem not in EVANGELHOS_SLUGS
     )
     total_paginas = len(pages)
     text = INDEX_PATH.read_text(encoding="utf-8")

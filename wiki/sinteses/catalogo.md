@@ -2,8 +2,9 @@
 tipo: sintese
 fontes: [meta]
 tags: [catalogo, meta, indice]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-21
 status: ativo
+index: false
 ---
 
 # Catálogo completo da wiki
@@ -35,6 +36,8 @@ status: ativo
 
 ### Escritos apostólicos (nível 3)
 - [[wiki/obras/atos-dos-apostolos]] — Lucas (28 capítulos). Fundação da comunidade cristã e viagens apostólicas; Pentecostes como mediunidade universal, desobsessões (pitonisa de Filipos, filhos de Ceva), conversão de Paulo, universalismo ("Deus não faz acepção de pessoas", At 10:34), discurso do Areópago ("nele vivemos, e nos movemos, e existimos", At 17:28).
+- [[wiki/obras/epistola-aos-romanos]] — Paulo (57–58 d.C., 16 capítulos). Tratado do evangelho paulino: lei natural inscrita na consciência (Rm 2), justificação pela fé, providência ("todas as coisas concorrem para o bem", Rm 8:28), diversidade de dons no corpo de Cristo (Rm 12), caridade como plenitude da lei (Rm 13). Base das divergências sobre pecado original (Rm 5) e predestinação (Rm 8–9).
+- [[wiki/obras/primeira-epistola-aos-corintios]] — Paulo (54–55 d.C., 16 capítulos). Carta pastoral de correção à comunidade de Corinto: divisões e sabedoria do mundo, casos morais, catálogo dos dons espirituais (cap. 12), hino à caridade (cap. 13), disciplina das reuniões mediúnicas (cap. 14), corpo espiritual e ressurreição (cap. 15). Fonte de divergências sobre celibato (1 Co 7) e silêncio das mulheres (1 Co 11; 14).
 
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
@@ -195,10 +198,11 @@ status: ativo
 ### Mediunidade e prática espírita (O Livro dos Médiuns)
 - [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem, classificação dos médiuns (LM, caps. XIV–XVI).
 - [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
-- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes (LM, 1ª e 2ª parte).
+- [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes; cobre a 1ª e a 2ª parte de *O Livro dos Médiuns*.
 - [[wiki/conceitos/obsessao]] — obsessão simples, fascinação e subjugação (LM, cap. XXIII).
 - [[wiki/conceitos/depressao]] — transtorno afetivo à luz espírita: causas, obsessão e terapêutica integrada.
 - [[wiki/conceitos/identidade-dos-espiritos]] — critérios de discernimento, comunicações apócrifas (LM, caps. XXIV, XXXI).
+- [[wiki/conceitos/discernimento-dos-espiritos]] — faculdade crítica de avaliar natureza e veracidade dos Espíritos comunicantes; sistematização kardequiana do "discernimento dos espíritos" de Paulo (1 Co 12:10) e João (1 Jo 4:1).
 - [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos, regras e cuidados (LM, cap. XXV).
 
 ### Esperanças e consolações (Parte 4 do LE)
@@ -245,6 +249,38 @@ status: ativo
 
 - [[wiki/sinteses/parabolas-de-jesus]] — **índice temático das 29 parábolas** cobertas na wiki: agrupamento por tema (misericórdia, Reino, prece, vigilância, justiça futura etc.), tabela com referências cruzadas (evangelho × capítulo ESE × tema) e lições doutrinárias transversais.
 
+Páginas individuais (ordem da tabela do índice temático):
+
+- [[wiki/conceitos/parabola-do-fariseu-e-do-publicano]] — humildade na prece vs. orgulho espiritual (ESE, caps. VII, X; S. Lucas, 18).
+- [[wiki/conceitos/parabola-do-credor-incompassivo]] — perdoar para ser perdoado (ESE, cap. XI; S. Mateus, 18).
+- [[wiki/conceitos/parabola-da-ovelha-perdida]] — o pastor deixa as 99 para buscar a desgarrada (ESE, cap. XI; S. Mateus, 18; S. Lucas, 15).
+- [[wiki/conceitos/parabola-da-dracma-perdida]] — alegria celeste pelo único pecador arrependido (ESE, cap. XI; S. Lucas, 15).
+- [[wiki/conceitos/parabola-do-filho-prodigo]] — o Pai que acolhe sem reservas; reabilitação sempre possível (ESE, cap. XI; S. Lucas, 15).
+- [[wiki/conceitos/parabola-do-bom-samaritano]] — o verdadeiro próximo, caridade sem distinção (ESE, cap. XV; S. Lucas, 10).
+- [[wiki/conceitos/parabola-do-mau-rico]] — Lázaro e o rico; inversão na vida futura (ESE, cap. XVI; S. Lucas, 16).
+- [[wiki/conceitos/parabola-do-rico-insensato]] — acumular sem partilhar; futilidade da avareza (ESE, cap. XVI; S. Lucas, 12).
+- [[wiki/conceitos/parabola-do-mordomo-infiel]] — prudência no uso dos bens; Deus ou Mamom (ESE, cap. XVI; S. Lucas, 16).
+- [[wiki/conceitos/parabola-do-tesouro-escondido-e-da-perola]] — o Reino vale todos os bens (ESE, cap. XVI; S. Mateus, 13).
+- [[wiki/conceitos/parabola-dos-talentos]] — responsabilidade sobre os dons recebidos (ESE, cap. XVI; S. Mateus, 25).
+- [[wiki/conceitos/parabola-do-semeador]] — quatro terrenos, quatro modos de receber o Evangelho (ESE, cap. XVII; S. Mateus, 13; S. Marcos, 4; S. Lucas, 8).
+- [[wiki/conceitos/parabola-dos-dois-filhos]] — a prática acima da palavra (ESE, caps. XVII–XVIII; S. Mateus, 21).
+- [[wiki/conceitos/parabola-do-festim-de-bodas]] — muitos chamados, poucos escolhidos; a "veste nupcial" (ESE, cap. XVIII; S. Mateus, 22).
+- [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]] — ouvir e praticar vs. ouvir e não praticar (ESE, cap. XVIII; S. Mateus, 7).
+- [[wiki/conceitos/parabola-do-joio-e-do-trigo]] — convivência até a ceifa; triagem moral na transição (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-do-grao-de-mostarda]] — crescimento silencioso da Doutrina (ESE, cap. XVIII; S. Mateus, 13; S. Marcos, 4; S. Lucas, 13).
+- [[wiki/conceitos/parabola-do-fermento]] — ação interior e gradual do Evangelho (ESE, cap. XVIII; S. Mateus, 13; S. Lucas, 13).
+- [[wiki/conceitos/parabola-da-rede]] — separação dos bons e dos maus ao fim do ciclo (ESE, cap. XVIII; S. Mateus, 13).
+- [[wiki/conceitos/parabola-das-dez-virgens]] — vigilância e reforma íntima efetiva (ESE, cap. XVIII; S. Mateus, 25).
+- [[wiki/conceitos/parabola-dos-lavradores-maus]] — responsabilidade agravada dos que recebem mais (ESE, cap. XVIII; S. Mateus, 21).
+- [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (ESE, cap. XIX; S. Marcos, 11; S. Mateus, 21).
+- [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]] — nunca é tarde para o bem; leitura à luz da reencarnação (ESE, cap. XX; S. Mateus, 20).
+- [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] — dever de difundir a verdade recebida (ESE, cap. XXIV; S. Mateus, 5).
+- [[wiki/conceitos/parabola-do-grao-de-trigo]] — morte fecunda, renúncia e desapego (ESE, cap. XXIV; S. João, 12).
+- [[wiki/conceitos/parabola-do-juiz-iniquo]] — perseverança na prece; a prece transforma o orante (ESE, cap. XXVII; S. Lucas, 18).
+- [[wiki/conceitos/parabola-da-semente-que-cresce-por-si]] — progresso silencioso e autônomo do bem (exclusiva de S. Marcos, 4).
+- [[wiki/conceitos/parabola-do-bom-pastor]] — Jesus como porta e pastor; mercenário vs. pastor (S. João, 10).
+- [[wiki/conceitos/parabola-da-videira-verdadeira]] — permanência vital na moral do Cristo (S. João, 15).
+
 ## Aprofundamentos
 
 Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
@@ -284,3 +320,11 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/condenacao-dos-incredulos-em-marcos-16]] — "quem não crer será condenado" (Mc 16:16) vs. fé raciocinada (ESE, cap. XIX) e penas temporárias (C&I, 1ª parte). Status: aberta.
 - [[wiki/divergencias/sinais-de-marcos-16]] — "sinais" prometidos aos crentes (Mc 16:17–18) vs. lei natural dos fluidos (Gênese, caps. XIV–XV). Status: aberta.
 - [[wiki/divergencias/morte-de-ananias-e-safira]] — morte fulminante por mentira (At 5:1–11) vs. progressividade das penas (C&I, 1ª parte, caps. VI–VII; LE, q. 1009–1016). Status: aberta.
+- [[wiki/divergencias/pecado-original-em-romanos-5]] — culpa hereditária desde Adão (Rm 5:12–19) vs. responsabilidade individual e ausência de pecado original (LE, q. 621–625; Gênese, cap. XI). Status: aberta.
+- [[wiki/divergencias/predestinacao-em-romanos-8-9]] — eleição irrevogável antes do nascimento (Rm 8:29–30; 9:11–21) vs. livre-arbítrio como pilar da justiça divina (LE, q. 843–850). Status: aberta.
+- [[wiki/divergencias/celibato-como-ideal-paulino]] — celibato como estado superior (1 Co 7) vs. casamento como lei natural de reprodução (LE, q. 686–701). Status: aberta.
+- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — subordinação e silêncio feminino no culto (1 Co 11:3–16; 14:34–35) vs. igualdade dos sexos e mediunidade universal (LE, q. 817–822). Status: aberta.
+
+## Fontes
+
+Página meta. As fontes primárias de cada item listado estão nas próprias páginas referenciadas (ver seção `## Fontes` de cada uma).

@@ -40,7 +40,7 @@ EVANGELHOS_LABEL = {
     "evangelho-segundo-joao": "João",
 }
 
-TIPOS = ["conceitos", "obras", "personalidades", "questoes", "aprofundamentos", "sinteses", "divergencias"]
+TIPOS = ["conceitos", "obras", "personalidades", "questoes", "aprofundamentos", "sinteses", "divergencias", "trilhas"]
 
 
 def slugs(dirname: str) -> set[str]:
