@@ -62,6 +62,7 @@ O conceito de princípio vital fundamenta a compreensão espírita da saúde e d
 - [[wiki/conceitos/morte]] — cessação do princípio vital
 - [[wiki/obras/livro-dos-espiritos]] — cap. IV da Parte 1
 - [[wiki/obras/genese]] — cap. X, itens 16–19; cap. XI, item 6
+- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — papel do princípio vital na gênese orgânica
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente animal sobrevive ao corpo sem consciência do eu; distinção em relação ao princípio vital (LE, q. 597–600).
 
 ## Fontes

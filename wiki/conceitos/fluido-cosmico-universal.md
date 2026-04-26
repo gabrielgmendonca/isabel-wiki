@@ -88,6 +88,7 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - [[wiki/obras/genese]] — caps. VI, X, XIV
 - [[wiki/obras/evolucao-em-dois-mundos]] — fluido cósmico como "plasma divino" (André Luiz, 1958, parte I, caps. 1, 13)
 - [[wiki/conceitos/centros-vitais]] — fulcros de absorção do plasma no psicossoma
+- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — papel do fluido cósmico na cosmogonia da Terra
 
 ## Fontes
 

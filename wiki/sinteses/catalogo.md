@@ -294,6 +294,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — Sexualidade em André Luiz: centro genésico, matrimônio, divórcio, aborto à luz de *Evolução em Dois Mundos* (1958).
+- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
 
 ## Questões
 
