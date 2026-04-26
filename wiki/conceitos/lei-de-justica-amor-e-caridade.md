@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, NT]
 tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, obra/le, obra/ese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -75,6 +75,7 @@ Desdobrado nas questões finais do capítulo como expressão mais primária da c
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-igualdade]] · [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/lei-de-adoracao]]
+- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec como síntese desta lei (ESE, cap. XV, item 5).
 
 ## Fontes
 

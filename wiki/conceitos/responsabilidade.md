@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, NT, Hammed/Francisco do Espírito Santo Neto]
 tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, paulo, romanos, obra/le, obra/ese, hammed, dores-da-alma]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -57,6 +57,7 @@ Apoiado em LE q. 851 ("a fatalidade existe unicamente pela escolha que o Espíri
 - [[wiki/conceitos/perfeicao-moral]]
 - [[wiki/conceitos/dores-da-alma]]
 - [[wiki/obras/as-dores-da-alma]]
+- [[wiki/questoes/paternidade-como-missao]] — responsabilidade dos pais pela formação moral do filho (LE, q. 582–583).
 
 ## Fontes
 

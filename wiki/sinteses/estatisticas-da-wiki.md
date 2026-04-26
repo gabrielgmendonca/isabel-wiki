@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [meta]
 tags: [estatisticas, meta, grafo, vocabulario]
-atualizado_em: 2026-04-21
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -12,16 +12,16 @@ status: ativo
 
 Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais são os nós centrais do grafo, quais páginas estão isoladas, que termos dominam o vocabulário, e como é o ritmo de ingestão ao longo do tempo? Esta página é **regenerada automaticamente** — serve como painel para orientar expansões, backlinks faltantes e possíveis novos conceitos.
 
-> Gerado em **2026-04-21** por `.claude/skills/stats/scripts/stats_wiki.py`.
+> Gerado em **2026-04-26** por `.claude/skills/stats/scripts/stats_wiki.py`.
 
 ## Resumo executivo
 
 - Páginas na wiki: **284**
 - Arquivos em `raw/`: **1226**
-- Nós no grafo: **281** · Arestas: **2451**
+- Nós no grafo: **281** · Arestas: **2468**
 - Componentes fracamente conexos: **1** (maior: 281 nós)
-- Páginas órfãs (sem backlinks): **2**
-- Vocabulário único (após stopwords): **14411** termos
+- Páginas órfãs (sem backlinks): **0**
+- Vocabulário único (após stopwords): **14413** termos
 - Entradas em `log.md`: **69**
 - Razão conceitos/questões: **129:9** (14.3)
 - Questões únicas do LE citadas: **279/1019** (27.4%)
@@ -107,8 +107,8 @@ Referências `cap./item` únicas: ESE **132**, Gênese **52**, LM **31**, C&I **
 |---|--------|-----|
 | 1 | [[wiki/obras/ceu-e-inferno]] | 85 |
 | 2 | [[wiki/obras/epistola-aos-romanos]] | 44 |
-| 3 | [[wiki/sinteses/parabolas-de-jesus]] | 43 |
-| 4 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 40 |
+| 3 | [[wiki/sinteses/parabolas-de-jesus]] | 44 |
+| 4 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 42 |
 | 5 | [[wiki/obras/depois-da-morte]] | 37 |
 | 6 | [[wiki/obras/evangelho-segundo-lucas]] | 36 |
 | 7 | [[wiki/personalidades/jesus]] | 36 |
@@ -117,34 +117,33 @@ Referências `cap./item` únicas: ESE **132**, Gênese **52**, LM **31**, C&I **
 | 10 | [[wiki/trilhas/esde]] | 34 |
 | 11 | [[wiki/obras/evangelho-segundo-mateus]] | 29 |
 | 12 | [[wiki/obras/o-que-e-o-espiritismo]] | 28 |
-| 13 | [[wiki/obras/primeira-epistola-aos-corintios]] | 27 |
-| 14 | [[wiki/aprofundamentos/expiacao-e-arrependimento]] | 25 |
+| 13 | [[wiki/aprofundamentos/expiacao-e-arrependimento]] | 27 |
+| 14 | [[wiki/obras/primeira-epistola-aos-corintios]] | 27 |
 | 15 | [[wiki/obras/obras-postumas]] | 24 |
 
 ### Centralidade (PageRank)
 
 | # | Página | PR |
 |---|--------|-----|
-| 1 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 0.0394 |
-| 2 | [[wiki/conceitos/progresso-espiritual]] | 0.0375 |
-| 3 | [[wiki/conceitos/reencarnacao]] | 0.0308 |
-| 4 | [[wiki/conceitos/livre-arbitrio]] | 0.0247 |
-| 5 | [[wiki/conceitos/lei-natural]] | 0.0222 |
-| 6 | [[wiki/conceitos/caridade]] | 0.0204 |
+| 1 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 0.0381 |
+| 2 | [[wiki/conceitos/progresso-espiritual]] | 0.0366 |
+| 3 | [[wiki/conceitos/reencarnacao]] | 0.0306 |
+| 4 | [[wiki/conceitos/livre-arbitrio]] | 0.0245 |
+| 5 | [[wiki/conceitos/lei-natural]] | 0.0208 |
+| 6 | [[wiki/conceitos/caridade]] | 0.0201 |
 | 7 | [[wiki/conceitos/lei-de-justica-amor-e-caridade]] | 0.0199 |
-| 8 | [[wiki/obras/ceu-e-inferno]] | 0.0198 |
-| 9 | [[wiki/obras/livro-dos-espiritos]] | 0.0182 |
-| 10 | [[wiki/conceitos/perfeicao-moral]] | 0.0147 |
-| 11 | [[wiki/conceitos/morte]] | 0.0143 |
-| 12 | [[wiki/conceitos/penas-e-gozos-futuros]] | 0.0143 |
-| 13 | [[wiki/conceitos/vida-espirita]] | 0.0138 |
-| 14 | [[wiki/conceitos/mediunidade]] | 0.0130 |
+| 8 | [[wiki/obras/ceu-e-inferno]] | 0.0199 |
+| 9 | [[wiki/obras/livro-dos-espiritos]] | 0.0187 |
+| 10 | [[wiki/conceitos/perfeicao-moral]] | 0.0143 |
+| 11 | [[wiki/conceitos/penas-e-gozos-futuros]] | 0.0140 |
+| 12 | [[wiki/conceitos/morte]] | 0.0140 |
+| 13 | [[wiki/conceitos/vida-espirita]] | 0.0131 |
+| 14 | [[wiki/conceitos/mediunidade]] | 0.0127 |
 | 15 | [[wiki/conceitos/perispirito]] | 0.0125 |
 
 ### Páginas órfãs (sem backlinks)
 
-- [[wiki/trilhas/palestras]]
-- [[wiki/trilhas/primeiros-passos]]
+_Nenhuma página órfã._
 
 ### Componentes isolados (≤ 2 nós)
 
@@ -156,11 +155,11 @@ _Nenhum._
 
 | # | Termo | Ocorrências |
 |---|-------|-------------|
-| 1 | `deus` | 925 |
+| 1 | `deus` | 926 |
 | 2 | `espírito` | 867 |
 | 3 | `kardec` | 860 |
 | 4 | `espíritos` | 782 |
-| 5 | `moral` | 609 |
+| 5 | `moral` | 610 |
 | 6 | `espírita` | 534 |
 | 7 | `vida` | 526 |
 | 8 | `jesus` | 501 |
@@ -183,9 +182,9 @@ _Nenhum._
 | 25 | `amor` | 198 |
 | 26 | `natureza` | 190 |
 | 27 | `arrependimento` | 185 |
-| 28 | `cristo` | 185 |
-| 29 | `princípio` | 183 |
-| 30 | `leitura` | 183 |
+| 28 | `leitura` | 185 |
+| 29 | `cristo` | 185 |
+| 30 | `princípio` | 183 |
 | 31 | `caps` | 180 |
 | 32 | `mateus` | 179 |
 | 33 | `sofrimento` | 177 |
@@ -293,7 +292,7 @@ setup      █  total=2
 ### Menores (candidatas a expansão)
 
 - [[wiki/personalidades/carlos-mendonca]] — 51 palavras
-- [[wiki/personalidades/chico-xavier]] — 71 palavras
+- [[wiki/personalidades/chico-xavier]] — 74 palavras
 - [[wiki/conceitos/pluralidade-das-existencias]] — 82 palavras
 - [[wiki/trilhas/esde]] — 87 palavras
 - [[wiki/personalidades/joseph-bre]] — 90 palavras
@@ -311,8 +310,7 @@ _Nenhum wikilink quebrado._
 
 ## Sugestões automáticas
 
-- **2 páginas órfãs** (grau de entrada = 0) — considerar adicionar backlinks a partir de conceitos/obras relacionados.
-- **Termos frequentes sem página própria**: `espírito` (867), `kardec` (860), `espíritos` (782), `moral` (609), `espírita` (534), `vida` (526), `homem` (427), `espiritual` (404) — candidatos a novos conceitos ou sinônimos a padronizar.
+- **Termos frequentes sem página própria**: `espírito` (867), `kardec` (860), `espíritos` (782), `moral` (610), `espírita` (534), `vida` (526), `homem` (427), `espiritual` (404) — candidatos a novos conceitos ou sinônimos a padronizar.
 - **3 blocos de 100 questões do LE com <20% de cobertura**: 201–300 (16/100), 301–400 (7/100), 401–500 (13/100). Priorizar extração de questões-chave desses intervalos para `wiki/questoes/`.
 
 ## Páginas referenciadas
@@ -322,7 +320,7 @@ _Nenhum wikilink quebrado._
 
 ## Fontes
 
-- Script gerador: `.claude/skills/stats/scripts/stats_wiki.py` (execução em 2026-04-21).
+- Script gerador: `.claude/skills/stats/scripts/stats_wiki.py` (execução em 2026-04-26).
 - Corpus analisado: `wiki/**/*.md`, `log.md`, `raw/**/*.md`.
 - Dependências: `networkx` (grafo, PageRank), `nltk` (stopwords PT-BR).
 - Filtros: meta-páginas (`tipo: sintese` + tag `meta`) são excluídas de grafo, vocabulário, tamanho, cobertura doutrinária e wikilinks quebrados; seções-template (`## Fontes`, `## Páginas relacionadas`, `## Páginas referenciadas`, `## Conceitos relacionados`) são removidas antes da tokenização.

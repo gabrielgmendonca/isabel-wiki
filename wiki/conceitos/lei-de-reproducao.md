@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, obra/le, obra/ese, lei/reproducao]
-atualizado_em: 2026-04-19
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -66,6 +66,7 @@ A igualdade numérica dos sexos indica a proporção em que devem unir-se: "tudo
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]]
 - [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/lei-de-sociedade]]
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] · [[wiki/conceitos/raca-adamica]]
+- [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual; janela providencial da infância (LE, q. 582–583).
 
 ## Fontes
 

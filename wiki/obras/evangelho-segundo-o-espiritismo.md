@@ -2,7 +2,7 @@
 tipo: obra
 fontes: [ESE]
 tags: [pentateuco, moral-evangelica, caridade, fe, prece, jesus, obra/ese, lei/justica-amor-caridade, lei/reproducao]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -221,6 +221,11 @@ Preces gerais (Oração dominical, reuniões espíritas, para médiuns). Preces 
 - Espírito de Verdade — voz coletiva, instruções nos caps. VI, XX, XXI.
 - Lázaro — instruções nos caps. XVII, XVIII.
 - Diversos Espíritos anônimos e nomeados ao longo da obra.
+
+## Trilhas de leitura
+
+- [[wiki/trilhas/primeiros-passos]] — para quem está começando, o ESE entra como leitura de moral aplicada.
+- [[wiki/trilhas/palestras]] — cada capítulo do ESE é roteiro pronto para uma palestra.
 
 ## Fontes
 

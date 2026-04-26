@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE]
 tags: [alma, espirito-encarnado, antropologia-espirita, obra/le]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -49,6 +49,7 @@ A alma conserva sua individualidade perpetuamente (LE, q. 150). Continua a possu
 - [[wiki/conceitos/espirito]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/principio-vital]] — o princípio da vida orgânica, distinto da alma espírita
 - [[wiki/conceitos/emancipacao-da-alma]] — libertação parcial durante o sono e estados análogos
+- [[wiki/questoes/alma-dos-animais]] — distinção entre o princípio inteligente animal e a alma humana (LE, q. 597–600).
 
 ## Fontes
 

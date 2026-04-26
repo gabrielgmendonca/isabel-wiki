@@ -22,7 +22,7 @@ tags:
   - lei/conservacao
   - lei/igualdade
   - lei/justica-amor-caridade
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -373,6 +373,8 @@ Material curado na wiki para ilustrar cada eixo da tríade arrependimento–expi
 - [[wiki/personalidades/zaqueu]] — protótipo evangélico da reparação ativa em vida.
 - [[wiki/personalidades/lisbeth]] — arrependimento estéril × produtivo; o orgulho como obstáculo.
 - [[wiki/personalidades/arrependimento-de-um-dissoluto]] — transição do materialismo ao arrependimento sincero.
+- [[wiki/trilhas/palestras]] — trilha de preparação de palestras; este aprofundamento é citado como roteiro temático.
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — Q&A direta sobre a tríade (C&I, 1ª parte, cap. VII, itens 16–17).
 
 ## Fontes
 

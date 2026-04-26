@@ -4,6 +4,28 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-26] refactor | Adensamento do grafo: trilhas órfãs zeradas, cross-links conceito↔questão e personalidade↔obra
+
+Análise da wiki via `/stats` (281 nós, 2.451 arestas, 2 órfãs) seguida de adições auditadas em três frentes, cobrindo lacunas de relacionamento sem criar páginas novas. Resultado: **órfãs 2→0**, **arestas 2.451→2.468 (+17)**, lint zerado.
+
+**Categoria 1 — Backlinks p/ trilhas órfãs**: `wiki/trilhas/primeiros-passos` e `wiki/trilhas/palestras` eram órfãs no grafo formal (excluídas do `index.md` e `catalogo.md` por serem meta). Adicionados 3 backlinks-âncora por trilha:
+- → `primeiros-passos`: em `conceitos/deus`, `conceitos/reencarnacao`, `conceitos/prece`.
+- → `palestras`: em `sinteses/parabolas-de-jesus`, `obras/evangelho-segundo-o-espiritismo`, `aprofundamentos/expiacao-e-arrependimento`.
+
+**Categoria 2 — Conceito/Aprof. ↔ Questão**: as 9 questões já listavam seus conceitos-mãe; o lado reverso tinha 7 lacunas. Adicionados links:
+- `sinteses/hierarquia-de-autoridade` ← `jesus-tipo-mais-perfeito`
+- `conceitos/livre-arbitrio` ← `por-que-a-acao-dos-espiritos-e-oculta` + `pactos-com-satanas-como-alegoria`
+- `conceitos/obsessao` ← `pactos-com-satanas-como-alegoria`
+- `conceitos/lei-de-reproducao` ← `paternidade-como-missao`
+- `conceitos/responsabilidade` ← `paternidade-como-missao`
+- `conceitos/alma` ← `alma-dos-animais`
+- `conceitos/lei-de-justica-amor-e-caridade` ← `fora-da-caridade-nao-ha-salvacao`
+- `aprofundamentos/expiacao-e-arrependimento` ← `arrependimento-expiacao-e-reparacao` (subcaso aprof.↔questão)
+
+**Categoria 3 — Personalidade ↔ Obra**: auditoria via grep mostrou que o cross-link bidirecional já estava sólido para autores complementares (Léon Denis, Carlos Mendonça, Divaldo, Hammed/Francisco, Emmanuel, André Luiz, Paulo, Pedro, Estêvão, Zaqueu, Melquisedeque, Erasto, Santo Agostinho, São Luís, Espíritos Reveladores). Única lacuna corrigida: `personalidades/chico-xavier` ganhou `[[wiki/obras/entre-a-terra-e-o-ceu]]` em "Obras associadas".
+
+**Total: 14 arquivos editados** (com `atualizado_em` para 2026-04-26). Conceitos selecionados pelo princípio de "âncora mínima" — preferi 3 backlinks-âncora por trilha em conceitos centrais a poluir todas as 14 páginas listadas pela trilha.
+
 ## [2026-04-21] lint | 0 achados
 
 Wiki limpa em todos os 13 checks determinísticos (284 páginas, incluindo a ingestão de Hebreus e as duas divergências recém-criadas). Nenhum broken_link, frontmatter inválido, órfão, citação fora de padrão ou lacuna no Pentateuco. Nada a corrigir.

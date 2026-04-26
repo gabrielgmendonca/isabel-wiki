@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, NT]
 tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, obra/le, obra/ese, lei/liberdade, lei/progresso]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -74,6 +74,8 @@ Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/obras/o-problema-do-ser-e-do-de
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-liberdade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/potencias-da-alma]]
+- [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]] — proteção dos Espíritos discreta para preservar o livre-arbítrio (LE, q. 501).
+- [[wiki/questoes/pactos-com-satanas-como-alegoria]] — sintonia voluntária com Espíritos inferiores, sempre rompível pela vontade firme (LE, q. 549–550).
 
 ## Fontes
 

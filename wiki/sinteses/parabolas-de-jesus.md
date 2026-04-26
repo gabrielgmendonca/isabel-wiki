@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [ESE, "S. Mateus", "S. Marcos", "S. Lucas", "S. João"]
 tags: [parabolas, jesus, evangelho, moral, pedagogia, reino-dos-ceus, caridade, misericordia, obra/ese]
-atualizado_em: 2026-04-19
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -191,6 +191,7 @@ Todas as 29 páginas de `wiki/conceitos/parabola-*` listadas no corpo e na tabel
 - [[wiki/personalidades/jesus]] · [[wiki/personalidades/vinicius]]
 - [[wiki/sinteses/hierarquia-de-autoridade]] — o porquê de os Evangelhos serem sempre lidos à luz do Pentateuco.
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — síntese moral de todas as parábolas.
+- [[wiki/trilhas/palestras]] — trilha de preparação de palestras; usa este índice como ponto de partida.
 
 ## Fontes
 

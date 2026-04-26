@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE]
 tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese, andre-luiz]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -136,6 +136,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Zulmira–Odila, desobsessão envolvente
+- [[wiki/questoes/pactos-com-satanas-como-alegoria]] — "pacto" como obsessão voluntária por sintonia com Espíritos inferiores (LE, q. 549–550).
 
 ## Fontes
 

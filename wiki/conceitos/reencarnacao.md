@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Léon Denis, André Luiz/Chico Xavier]
 tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -84,6 +84,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - [[wiki/conceitos/vida-espirita]] — o intervalo entre encarnações.
 - [[wiki/conceitos/livre-arbitrio]] — escolha das provas.
 - [[wiki/obras/o-que-e-o-espiritismo]] — diálogos introdutórios sobre a pluralidade das existências.
+- [[wiki/trilhas/primeiros-passos]] — trilha introdutória ao Espiritismo (passo 4: reencarnação).
 
 ## Fontes
 

@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [LE, LM, ESE, C&I, Gênese, OPE, OQE, Léon Denis]
 tags: [hierarquia, autoridade, evangelhos, novo-testamento, jesus, paulo, apostolos, pentateuco, codificacao, fontes, obra/le, obra/lm, obra/ese, obra/ci, obra/genese, obra/ope, obra/oqe, lei/justica-amor-caridade]
-atualizado_em: 2026-04-08
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -277,6 +277,7 @@ A exclusão não implica juízo de valor sobre essas tradições — apenas deli
 
 ### Entidades e conceitos
 - [[wiki/personalidades/jesus]] — tipo da perfeição moral (LE, q. 625)
+- [[wiki/questoes/jesus-tipo-mais-perfeito]] — Q&A direta sobre LE, q. 625, ancorando esta hierarquia.
 - [[wiki/personalidades/allan-kardec]] — codificador
 - [[wiki/personalidades/leon-denis]] — continuador de Kardec
 - [[wiki/personalidades/emmanuel]] — guia espiritual de Chico Xavier

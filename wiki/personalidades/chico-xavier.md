@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [chico-xavier, medium, psicografia]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-26
 status: rascunho
 ---
 
@@ -19,6 +19,7 @@ Chico Xavier é o médium através do qual o Espírito Emmanuel e muitos outros 
 ## Obras associadas
 
 - [[wiki/obras/a-caminho-da-luz]] — psicografia de Emmanuel (1939)
+- [[wiki/obras/entre-a-terra-e-o-ceu]] — psicografia de André Luiz (1954)
 
 ## Páginas relacionadas
 

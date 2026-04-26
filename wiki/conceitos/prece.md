@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [prece, oracao, transmissao-do-pensamento, obra/ese, obra/le, lei/adoracao]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -72,6 +72,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - [[wiki/conceitos/fe-raciocinada]] — a prece consciente, não supersticiosa
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XXVII–XXVIII
 - [[wiki/obras/livro-dos-espiritos]] — q. 658–673
+- [[wiki/trilhas/primeiros-passos]] — trilha introdutória ao Espiritismo (passo final: prece).
 
 ## Fontes
 
