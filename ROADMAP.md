@@ -151,6 +151,17 @@ Formatos além de markdown para tornar o conteúdo mais acessível.
 
 ---
 
+## 8. Governança e direitos autorais
+
+A wiki é publicada no GitHub Pages e `LICENSE-CONTENT.md` cobre apenas o conteúdo curado em `wiki/` (CC BY-NC-SA 4.0). Falta política explícita sobre o que **citamos de terceiros** — sobretudo psicografias e obras vivas do nível 3 ainda protegidas por direitos autorais. Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavier, Emmanuel, André Luiz, Bezerra de Menezes (publicações via FEB), Divaldo Franco, Joanna de Ângelis e Hammed **não** estão. A wiki é pública e cita esses autores.
+
+- [ ] **Política de citação para nível 3 protegido** — definir por escrito (em CLAUDE.md §3 ou doc própria) limites operacionais de fair-use para psicografias e obras vivas: tamanho máximo de trecho citado por página, proporção citação/comentário, quando parafrasear vs transcrever, e tratamento de obras com detentor conhecido (FEB, FEAL, FEAB, editora própria). Revisar páginas existentes contra a política.
+- [ ] **Aviso ao leitor em obras protegidas** — landing (`index.md`) e páginas em `wiki/obras/` de autores protegidos devem indicar explicitamente que trechos citados pertencem aos respectivos detentores e que o uso aqui é estudo/comentário, não substituto da obra original. Linkar onde a obra pode ser adquirida (FEB, livrarias espíritas).
+- [ ] **Frontmatter `direitos:` em obras nível 3** — campo opcional em `wiki/obras/<slug>.md` apontando detentor (`FEB`, `FEAL`, `dominio-publico`, etc.) e ano estimado de entrada em DP. Permite que `/ingest` e `/lint` tratem essas páginas com cuidado extra (alertar se trecho citado parece longo demais).
+- [ ] **Status de `raw/` no Quartz** — `raw/mediuns/` e `raw/autores/` contêm transcrições integrais de obras protegidas para uso na pipeline local (qmd, ingest). Confirmar que `ignorePatterns` do Quartz exclui essas pastas do build público e documentar a decisão (e o motivo) em CLAUDE.md.
+
+---
+
 ## Priorização para o workflow autor + Claude Code
 
 Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki (ingest, queries, sínteses).
