@@ -92,14 +92,18 @@ Apresentar ao usuário em formato limpo:
 **Total: N achados** (X erros, Y avisos, Z sugestões)
 ```
 
-## Passo 5 — Atualizar log.md
+## Passo 5 — Atualizar log.md (condicional)
 
-Append em `log.md`:
+**Diagnóstico puro não é registrado.** Apenas a correção é evento de log.
+
+Logar em `log.md` somente se o usuário decidir corrigir achados a partir do relatório. Quando isso acontecer:
 
 ```
-## [YYYY-MM-DD] lint | N achados
-<2–3 frases resumindo os principais achados>
+## [YYYY-MM-DD] lint | <descrição da correção>
+<2–3 frases sobre o que foi corrigido e por quê>
 ```
+
+Se o usuário só pediu o relatório sem corrigir nada, **não fazer append**.
 
 ## Regras
 

@@ -16,7 +16,7 @@ Toda palestra segue:
 2. **Pergunta de abertura** — curta, retórica, ancora o tema (1 slide)
 3. **Partes temáticas** — cada parte começa com section header (`<!-- _class: section -->`) nomeando o bloco
 4. **Núcleo Q&A** — para LE: par pergunta literal + resposta dos Espíritos (dois slides). Para ESE/LM/C&I: citação completa em slide único. Elipses `(...)` em trechos longos não-essenciais
-5. **"Para meditar"** — 1 slide com título + referência de uma parábola evangélica, caso de C&I, personalidade de André Luiz (Entre a Terra e o Céu, Nosso Lar) ou página de `wiki/personalidades/` / `wiki/parabolas/`. NUNCA texto integral
+5. **"Para meditar"** — 1 slide com título + referência de uma parábola evangélica, caso de C&I, personalidade de André Luiz (Entre a Terra e o Céu, Nosso Lar) ou página de `wiki/personalidades/` / `wiki/sinteses/parabolas-de-jesus`. NUNCA texto integral
 6. **Síntese final** — retoma a pergunta de abertura com a resposta consolidada (3-5 bullets)
 7. **Encerramento** — citação consolidadora (opcional)
 
@@ -33,15 +33,7 @@ Total típico: 25-50 slides.
 
 ## Citações
 
-Mesmo formato de CLAUDE.md §3:
-
-- `(LE, q. 674)` · `(LE, Introdução, item IV)`
-- `(LM, 2ª parte, cap. XX, item 230)`
-- `(ESE, cap. XVII, item 4)`
-- `(C&I, 1ª parte, cap. VI)`
-- `(Gênese, cap. XI, item 13)`
-
-Respostas dos Espíritos sempre entre aspas.
+Mesmo formato de CLAUDE.md §3 (não duplicar exemplos aqui — fonte canônica é o §3). Respostas dos Espíritos sempre entre aspas. Nos slides usar nome completo da obra ao invés da sigla.
 
 ## Front-matter Marp
 

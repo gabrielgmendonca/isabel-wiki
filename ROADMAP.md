@@ -5,40 +5,40 @@
 
 ---
 
-## 0. Higiene das skills e documentação (prioridade)
+## 0. Higiene das skills e documentação (concluído 2026-04-26)
 
-Tirados de uma auditoria de `CLAUDE.md` + 4 skills + rules + hook (2026-04-26). Ordem de impacto: bugs primeiro, depois lacunas de doc, depois DRY/UX/config. Fazer antes de avançar nos outros eixos — quanto mais a wiki cresce, mais caro é corrigir desvios nas instruções de base.
+Tirados de uma auditoria de `CLAUDE.md` + 4 skills + rules + hook (2026-04-26). Resolvidos em bloco antes de avançar para §1+: bugs factuais, lacunas de doc, DRY, UX e config. Lint passa sem regressão (`skills_consistency: 0`).
 
 ### 0.1 Inconsistências factuais (bugs)
 
-- [ ] **`wiki/parabolas/` fantasma** — diretório não existe, mas é referenciado em `slides/SKILL.md:36`, `convencoes-slides.md` (passo 5 "Para meditar") e `slides/scripts/scaffold_deck.py`. As parábolas hoje vivem em `wiki/sinteses/parabolas-de-jesus.md`. Decidir: criar o diretório (desmembrar a síntese atual) ou remover as 3 referências
-- [ ] **CLAUDE.md §4 lista só `/ingest` e `/lint`** — `/slides` e `/stats` existem mas estão fora da seção "Workflows". Sincronizar
-- [ ] **`/ingest` Passo 0 cita só "Nível 1, 2 ou 3"** — omite o Nível 4 (complementares secundários, ex.: Hammed) introduzido em CLAUDE.md §2
-- [ ] **`EnterPlanMode` vs auto mode** — `/ingest` e `/slides` instruem entrar em plan mode, mas o harness em auto mode pede o contrário. Articular qual vence (sugestão: o skill vence, com nota explícita) ou trocar por "apresentar outline em texto e aguardar confirmação"
+- [x] **`wiki/parabolas/` fantasma** — 3 referências redirecionadas para `wiki/sinteses/parabolas-de-jesus`. Diretório permanece não criado; parábolas seguem como índice único.
+- [x] **CLAUDE.md §4 lista só `/ingest` e `/lint`** — `/slides` e `/stats` adicionados como bullets em §4.
+- [x] **`/ingest` Passo 0 cita só "Nível 1, 2 ou 3"** — corrigido para "Nível 1, 2, 3 ou 4".
+- [x] **`EnterPlanMode` vs auto mode** — instrução reescrita para "apresente o outline em texto e aguarde confirmação", robusta a ambos os modos. Plan mode continua sendo a implementação canônica em modo manual.
 
 ### 0.2 Lacunas de documentação
 
-- [ ] **Autoria de psicografias** (médium ≠ autor espiritual; formato `Autor / Médium`) — hoje só em user-memory + `slides/SKILL.md:100`. Subir para CLAUDE.md §3 ou virar rule de `wiki/{obras,personalidades}/**`
-- [ ] **Uso do `qmd`** — CLAUDE.md menciona "usar qmd `query`" sem documentar coleções (raw/wiki), tipos de busca (lex/vec/hyde) ou quando preferir cada um. Adicionar 3-4 linhas no §4
-- [ ] **Regra `uv run python`** — está em user-memory e replicada em todas as 4 skills; deveria estar em CLAUDE.md ou em `.claude/rules/scripts.md` (`paths: .claude/skills/**`)
-- [ ] **Promover "default = oferecer arquivar"** — hoje enterrado em uma única bullet de ~10 linhas no §4 "Query". Virar subseção própria
-- [ ] **Regra prática Jesus-vs-Kardec** — hierarquia introduz Jesus como "fonte primordial" mas a regra de ouro só trata níveis 2/3/4 vs 1. Falta orientação para "trecho evangélico aparenta divergir do Pentateuco"
+- [x] **Autoria de psicografias** — promovida para CLAUDE.md §3 como subseção própria (`Autor espiritual / Médium`). `slides/SKILL.md` agora referencia §3.
+- [x] **Uso do `qmd`** — documentado em §4 (subseção Query): coleções `raw`/`wiki`, tipos `lex`/`vec`/`hyde`, quando combinar.
+- [x] **Regra `uv run python`** — extraída para `.claude/rules/scripts.md` com `paths: .claude/skills/**`. Hook injeta automaticamente quando se edita skill. PyYAML adicionado ao `pyproject.toml` para o hook.
+- [x] **Promover "default = oferecer arquivar"** — virou subseção dedicada em §4 com 3 sub-bullets (sinteses/aprofundamentos/questoes).
+- [x] **Regra prática Jesus-vs-Kardec** — adicionado parágrafo em §2 com protocolo prático (alegoria, interpolação, contexto semita).
 
 ### 0.3 DRY / manutenibilidade
 
-- [ ] **Deduplicar formato de citação** — repetido em CLAUDE.md §3 e `convencoes-slides.md`. Slides referenciar §3
-- [ ] **Lint não loga em `log.md` quando é puro diagnóstico** — Passo 5 hoje cria entrada toda execução; `log.md` já tem ~5 entradas só de lint. Logar só quando o usuário corrige algo a partir do relatório
+- [x] **Deduplicar formato de citação** — `convencoes-slides.md` agora referencia §3 sem repetir exemplos.
+- [x] **Lint não loga em `log.md` quando é puro diagnóstico** — Passo 5 reescrito para logar só quando o usuário corrige achados.
 
 ### 0.4 UX / fluxo
 
-- [ ] **Skill `/query`** — workflow "Query" está descrito em CLAUDE.md §4 mas não tem skill autocontido; cada execução depende de eu lembrar do fluxo (qmd → ler → citar Kardec → oferecer arquivar)
-- [ ] **`/ingest` sugerir `/lint` no final** — bom momento, já que ingest mexe em várias páginas
-- [ ] **`/ingest` usar qmd para checar duplicatas** — hoje slides usa qmd no Passo 3, ingest não. Reduz risco de criar página de conceito que já existe sob outro slug
+- [x] **Skill `/query`** — decisão: não criar skill autocontido. Workflow promovido a subseção dedicada em CLAUDE.md §4. Mais leve, mesma orientação.
+- [x] **`/ingest` sugerir `/lint` no final** — Passo 10 sugere rodar `/lint` após ingest.
+- [x] **`/ingest` usar qmd para checar duplicatas** — novo Passo 3 com query `lex` + `vec` em `wiki/` antes de criar páginas.
 
 ### 0.5 Higiene de config
 
-- [ ] **Limpar `settings.local.json`** — sobreposições (`Bash(qmd query:*)` + `mcp__qmd__query`) e entradas one-off (`unzip -q "Lei do Trabalho - final.pptx"`)
-- [ ] **`inject-rules.py` parseia YAML à mão** e engole erros silenciosamente. Trocar por parser YAML real (PyYAML já está disponível via `uv`) ou ao menos logar falhas
+- [x] **Limpar `settings.local.json`** — removidos `Bash(qmd query/search/vsearch/status:*)` (cobertos por `mcp__qmd__*`) e entradas one-off de teste (`unzip ...pptx`, `Read(//tmp/test_pptx/...)`).
+- [x] **`inject-rules.py` parser YAML** — migrado para `yaml.safe_load`; erros logados em stderr; hook command em `.claude/settings.json` agora usa `uv run --project ... python` para acessar PyYAML do venv. Smoke-tested.
 
 ---
 

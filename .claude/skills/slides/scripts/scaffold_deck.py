@@ -231,8 +231,8 @@ def render_deck(
         "*<!-- skill: sugerir 1 item pertinente entre: (a) parábola evangélica, "
         "(b) caso de O Céu e o Inferno, (c) personalidade/caso de André Luiz "
         "(Entre a Terra e o Céu, Nosso Lar etc.), (d) página de wiki/personalidades/ "
-        "ou wiki/parabolas/. Apenas título + referência — NÃO incluir texto integral. "
-        "Querier qmd em wiki/parabolas/, wiki/personalidades/, raw/. -->*\n\n"
+        "ou wiki/sinteses/parabolas-de-jesus. Apenas título + referência — NÃO incluir texto integral. "
+        "Querier qmd em wiki/sinteses/parabolas-de-jesus, wiki/personalidades/, raw/. -->*\n\n"
         "---\n\n"
     )
 

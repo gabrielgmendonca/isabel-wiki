@@ -13,9 +13,9 @@ Convenções obrigatórias: ler `.claude/rules/convencoes-slides.md` antes de pr
 
 O tema da palestra sempre vem de um conjunto de **questões do LE** ou **itens do ESE** (ou outra obra do Pentateuco) referenciados na página wiki. Identifique obra-base e range no frontmatter (`fontes: [LE]`) e nas citações do corpo — isso vai para a capa.
 
-## Fase de planejamento (plan mode)
+## Fase de planejamento
 
-Ao iniciar, **entre em plan mode** (`EnterPlanMode`). Nenhum arquivo em `slides/` pode ser escrito antes de o usuário aprovar o outline.
+Ao iniciar, **apresente o outline em texto e aguarde confirmação do usuário antes de qualquer escrita**. Em plan mode, isso é o próprio `EnterPlanMode`; em auto mode, é uma pausa explícita pedindo aprovação. Nada em `slides/` pode ser escrito antes da aprovação.
 
 ### Passo 1 — Validar input
 
@@ -33,7 +33,7 @@ Queries read-only em `raw/` e `wiki/` para montar o outline com conteúdo real, 
 
 - **Pergunta + resposta literais do Kardec** (LE): query em collection `raw` pela pergunta e resposta dos Espíritos. Se a resposta >300 palavras, aplicar elipses `(...)` em trechos não-essenciais, mantendo núcleo doutrinário.
 - **Citação integral** (ESE/LM/C&I): query em `raw` pela passagem referenciada.
-- **"Para meditar"**: query em `wiki/parabolas/`, `wiki/personalidades/`, e `raw/` (Novo Testamento, C&I, André Luiz, Léon Denis, Chico Xavier) buscando ilustração pertinente ao tema. Selecionar 1-3 candidatos — apenas título + referência, nunca texto integral.
+- **"Para meditar"**: query em `wiki/sinteses/parabolas-de-jesus`, `wiki/personalidades/`, e `raw/` (Novo Testamento, C&I, André Luiz, Léon Denis, Chico Xavier) buscando ilustração pertinente ao tema. Selecionar 1-3 candidatos — apenas título + referência, nunca texto integral.
 
 ### Passo 4 — Propor outline ao usuário
 
@@ -46,7 +46,7 @@ Apresentar o deck completo em texto, pronto para crítica:
 - **Síntese final** (3-5 bullets rascunho)
 - **Encerramento** — citação consolidadora opcional
 
-Aguardar validação. Em seguida, **sair de plan mode** (`ExitPlanMode`).
+Aguardar validação. Em seguida, prosseguir para a fase de geração.
 
 ## Fase de geração (pós-aprovação)
 
@@ -97,7 +97,7 @@ Escreve em `slides/<slug>/build/`.
 ## Regras
 
 - **Citação obrigatória** em toda afirmação doutrinária (CLAUDE.md §3). Sempre usar nome completo da obra, não sigla, nos slides.
-- **Autoria de obras psicografadas**: o médium não é o autor espiritual. Antes de citar, conferir frontmatter de `raw/mediuns/<médium>/<obra>.md` (campo `**Autor espiritual:**`) e usar formato `Autor espiritual / Médium` (ex: `Humberto de Campos / Chico Xavier`, `André Luiz / Chico Xavier`, `Emmanuel / Chico Xavier`). Não inferir autor a partir do médium.
+- **Autoria de obras psicografadas**: ver CLAUDE.md §3 (formato `Autor espiritual / Médium`).
 - **Texto integral da obra básica**: LE em dois passos (pergunta + resposta); ESE/LM/C&I em citação completa. Elipses `(...)` para trechos longos não-essenciais.
 - **Sem slides em branco**: transições com section headers.
 - **Hierarquia de autoridade** respeitada (CLAUDE.md §2): Pentateuco prevalece.

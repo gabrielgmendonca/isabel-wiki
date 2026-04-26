@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-26] lint | 9 achados
+
+Primeira execução com o check novo `skills_consistency`: pega as 4 inconsistências do roadmap §0.1 (`wiki/parabolas/` fantasma em `slides/SKILL.md` e `convencoes-slides.md`; `/slides` e `/stats` não citados em CLAUDE.md). Persistem os 5 rascunhos de 2026-04-07 (`a-caminho-da-luz`, `emmanuel`, `mansao-do-caminho`, `meimei`, `victor-hugo`) — mesma lista da execução anterior, candidatos a promoção de status. Zero erros estruturais.
+
 ## [2026-04-26] refactor | Lint: novo check skills_consistency
 
 Adiciona check determinístico que valida coerência entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`. Detecta três classes de drift: (a) referência a `wiki/<dir>/` inexistente, (b) skill em `.claude/skills/` sem menção em `CLAUDE.md`, (c) caminho `uv run python <path>` apontando para script ausente. Pegou os 4 itens-bug do roadmap §0.1 na primeira execução: `wiki/parabolas/` fantasma referenciado em `slides/SKILL.md:36` e `convencoes-slides.md:19`, e `/slides`/`/stats` não citados em `CLAUDE.md`. Prevenção contra reincidência conforme CLAUDE.md e skills evoluem.
