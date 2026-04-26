@@ -269,14 +269,20 @@ LOW_CITATION_MIN_WORDS = 200
 LOW_CITATION_MIN_CITATIONS = 2
 
 # Citações reconhecidas para `low_citations`: parentéticas com sigla do Pentateuco /
-# complementares Kardec, livros bíblicos canônicos, ou autor/médium + obra em itálico.
+# complementares Kardec (`cf.` opcional), livros bíblicos canônicos por nome ou
+# abreviação ACF (com prefixo opcional `S.`/`São`), ou autor/médium + obra em itálico.
 _CITATION_COUNT_RE = re.compile(
-    r"\((?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)\s*[,)]"
-    r"|\((?:Mateus|Marcos|Lucas|João|Atos|Romanos|Tiago|Hebreus|Apocalipse"
+    r"\((?:cf\.\s+)?(?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)\s*[,)]"
+    r"|\((?:cf\.\s+)?(?:S\.\s+|São\s+|Sta\.\s+|Santa\s+)?"
+    r"(?:Mateus|Marcos|Lucas|João|Atos|Romanos|Tiago|Hebreus|Apocalipse"
     r"|1?-?\s*Coríntios|2-?\s*Coríntios|Gálatas|Efésios|Filipenses|Colossenses"
     r"|1?-?\s*Tessalonicenses|2-?\s*Tessalonicenses|1?-?\s*Timóteo|2-?\s*Timóteo"
-    r"|Tito|Filemom|1?-?\s*Pedro|2-?\s*Pedro|1?-?\s*João|2-?\s*João|3-?\s*João|Judas)"
-    r"\s+\d"
+    r"|Tito|Filemom|1?-?\s*Pedro|2-?\s*Pedro|1?-?\s*João|2-?\s*João|3-?\s*João|Judas"
+    # Abreviações ACF: Mt, Mc, Lc, Jo, At, Rm, 1Co, 2Co, Gl, Ef, Fp, Cl,
+    # 1Ts, 2Ts, 1Tm, 2Tm, Tt, Fm, Hb, Tg, 1Pe, 2Pe, 1Jo, 2Jo, 3Jo, Jd, Ap.
+    r"|Mt|Mc|Lc|Jo|At|Rm|[123]?Co|Gl|Ef|Fp|Cl|[12]?Ts|[12]?Tm"
+    r"|Tt|Fm|Hb|Tg|[12]?Pe|[123]?Jo|Jd|Ap)"
+    r"[,\s]+\d"
     r"|\([A-ZÀ-Ú][^)]*?,\s*\*[^*]+\*"
 )
 
@@ -340,10 +346,15 @@ def _stem_tag(tag: str) -> str:
     return n
 
 
-# Pares plural/singular intencionais — a wiki usa ambos como conceitos distintos
-# (ex.: "evangelho" = método/forma vs "evangelhos" = os 4 textos canônicos).
+# Pares plural/singular intencionais — a wiki usa ambos como conceitos distintos:
+# singular tagga páginas de instância (uma parábola, um apóstolo); plural tagga
+# índices/coletivos/comparativos. Exemplo: "evangelho" (método) vs "evangelhos"
+# (os 4 textos), "parabola" (uma parábola) vs "parabolas" (índice e trilhas).
 NAMING_STEM_ALLOWLIST: set[tuple[str, str]] = {
     ("evangelho", "evangelhos"),
+    ("apostolo", "apostolos"),
+    ("espirito", "espiritos"),
+    ("parabola", "parabolas"),
 }
 
 
