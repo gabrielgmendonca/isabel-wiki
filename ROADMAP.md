@@ -5,6 +5,43 @@
 
 ---
 
+## 0. Higiene das skills e documentação (prioridade)
+
+Tirados de uma auditoria de `CLAUDE.md` + 4 skills + rules + hook (2026-04-26). Ordem de impacto: bugs primeiro, depois lacunas de doc, depois DRY/UX/config. Fazer antes de avançar nos outros eixos — quanto mais a wiki cresce, mais caro é corrigir desvios nas instruções de base.
+
+### 0.1 Inconsistências factuais (bugs)
+
+- [ ] **`wiki/parabolas/` fantasma** — diretório não existe, mas é referenciado em `slides/SKILL.md:36`, `convencoes-slides.md` (passo 5 "Para meditar") e `slides/scripts/scaffold_deck.py`. As parábolas hoje vivem em `wiki/sinteses/parabolas-de-jesus.md`. Decidir: criar o diretório (desmembrar a síntese atual) ou remover as 3 referências
+- [ ] **CLAUDE.md §4 lista só `/ingest` e `/lint`** — `/slides` e `/stats` existem mas estão fora da seção "Workflows". Sincronizar
+- [ ] **`/ingest` Passo 0 cita só "Nível 1, 2 ou 3"** — omite o Nível 4 (complementares secundários, ex.: Hammed) introduzido em CLAUDE.md §2
+- [ ] **`EnterPlanMode` vs auto mode** — `/ingest` e `/slides` instruem entrar em plan mode, mas o harness em auto mode pede o contrário. Articular qual vence (sugestão: o skill vence, com nota explícita) ou trocar por "apresentar outline em texto e aguardar confirmação"
+
+### 0.2 Lacunas de documentação
+
+- [ ] **Autoria de psicografias** (médium ≠ autor espiritual; formato `Autor / Médium`) — hoje só em user-memory + `slides/SKILL.md:100`. Subir para CLAUDE.md §3 ou virar rule de `wiki/{obras,personalidades}/**`
+- [ ] **Uso do `qmd`** — CLAUDE.md menciona "usar qmd `query`" sem documentar coleções (raw/wiki), tipos de busca (lex/vec/hyde) ou quando preferir cada um. Adicionar 3-4 linhas no §4
+- [ ] **Regra `uv run python`** — está em user-memory e replicada em todas as 4 skills; deveria estar em CLAUDE.md ou em `.claude/rules/scripts.md` (`paths: .claude/skills/**`)
+- [ ] **Promover "default = oferecer arquivar"** — hoje enterrado em uma única bullet de ~10 linhas no §4 "Query". Virar subseção própria
+- [ ] **Regra prática Jesus-vs-Kardec** — hierarquia introduz Jesus como "fonte primordial" mas a regra de ouro só trata níveis 2/3/4 vs 1. Falta orientação para "trecho evangélico aparenta divergir do Pentateuco"
+
+### 0.3 DRY / manutenibilidade
+
+- [ ] **Deduplicar formato de citação** — repetido em CLAUDE.md §3 e `convencoes-slides.md`. Slides referenciar §3
+- [ ] **Lint não loga em `log.md` quando é puro diagnóstico** — Passo 5 hoje cria entrada toda execução; `log.md` já tem ~5 entradas só de lint. Logar só quando o usuário corrige algo a partir do relatório
+
+### 0.4 UX / fluxo
+
+- [ ] **Skill `/query`** — workflow "Query" está descrito em CLAUDE.md §4 mas não tem skill autocontido; cada execução depende de eu lembrar do fluxo (qmd → ler → citar Kardec → oferecer arquivar)
+- [ ] **`/ingest` sugerir `/lint` no final** — bom momento, já que ingest mexe em várias páginas
+- [ ] **`/ingest` usar qmd para checar duplicatas** — hoje slides usa qmd no Passo 3, ingest não. Reduz risco de criar página de conceito que já existe sob outro slug
+
+### 0.5 Higiene de config
+
+- [ ] **Limpar `settings.local.json`** — sobreposições (`Bash(qmd query:*)` + `mcp__qmd__query`) e entradas one-off (`unzip -q "Lei do Trabalho - final.pptx"`)
+- [ ] **`inject-rules.py` parseia YAML à mão** e engole erros silenciosamente. Trocar por parser YAML real (PyYAML já está disponível via `uv`) ou ao menos logar falhas
+
+---
+
 ## 1. Cobertura de fontes
 
 Completar a base doutrinária para que o leitor encontre o essencial da codificação.
@@ -117,6 +154,10 @@ Formatos além de markdown para tornar o conteúdo mais acessível.
 ## Priorização para o workflow autor + Claude Code
 
 Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki (ingest, queries, sínteses).
+
+### Fazer primeiro — higiene das skills e doc (§0)
+
+0. **Bugs e lacunas em CLAUDE.md / skills (§0)** — Toda ingest, slide e query depende dessas instruções. Inconsistências aqui (parabolas/ fantasma, plan mode em auto mode, Nível 4 omitido em /ingest, regra de psicografia fora da doc canônica) se propagam silenciosamente. Custo baixo, ganho imediato em previsibilidade. Ideal antes de qualquer ingest grande.
 
 ### Impacto alto — muda o jogo
 
