@@ -196,20 +196,221 @@ def check_divergencias_aberta(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items), "items": items}
 
 
-def check_missing_concept_pages(pages: list[Path]) -> dict:
-    """Check 3 — links para wiki/conceitos/X onde X.md não existe."""
-    items = []
-    seen = set()
+def _collect_missing_concepts(pages: list[Path]) -> dict[str, list[dict]]:
+    """Agrega wikilinks para wiki/conceitos/X onde X.md não existe.
+
+    Retorna dict[target, list[{source, line}]] preservando todas as ocorrências
+    (sem deduplicar por source) para que `frequent_missing_concepts` possa
+    contar páginas distintas que referenciam o mesmo conceito.
+    """
+    refs: dict[str, list[dict]] = {}
     all_sources = list(pages) + [INDEX_PATH]
     for page in all_sources:
+        if not page.exists():
+            continue
         text = page.read_text(encoding="utf-8")
         for lineno, target in find_wikilinks(text):
-            if target.startswith("wiki/conceitos/"):
-                resolved = resolve_wikilink(target)
-                if not resolved.exists() and target not in seen:
-                    seen.add(target)
-                    items.append({"target": target, "first_seen_in": str(page), "line": lineno})
+            if not target.startswith("wiki/conceitos/"):
+                continue
+            if resolve_wikilink(target).exists():
+                continue
+            refs.setdefault(target, []).append({"source": str(page), "line": lineno})
+    return refs
+
+
+def check_missing_concept_pages(pages: list[Path]) -> dict:
+    """Check 3 — links para wiki/conceitos/X onde X.md não existe.
+
+    Agrupado por target com contagem de páginas distintas que o referenciam.
+    `frequent_missing_concepts` filtra esta lista por count >= 5.
+    """
+    refs = _collect_missing_concepts(pages)
+    items = []
+    for target in sorted(refs):
+        sources = refs[target]
+        unique_sources = sorted({s["source"] for s in sources})
+        items.append({
+            "target": target,
+            "count": len(unique_sources),
+            "sources": unique_sources[:3],
+            "first_seen_in": sources[0]["source"],
+            "line": sources[0]["line"],
+        })
     return {"severity": "info", "count": len(items), "items": items}
+
+
+FREQUENT_MISSING_THRESHOLD = 5
+
+
+def check_frequent_missing_concepts(pages: list[Path]) -> dict:
+    """Check — conceitos referenciados em FREQUENT_MISSING_THRESHOLD+ páginas mas sem página própria.
+
+    Subconjunto warning-level de `missing_concept_pages`: indica conceitos que
+    já circulam pelo corpo da wiki como wikilink mas continuam sem página, e
+    portanto têm prioridade alta para virar página própria.
+    """
+    refs = _collect_missing_concepts(pages)
+    items = []
+    for target in sorted(refs):
+        unique_sources = sorted({s["source"] for s in refs[target]})
+        if len(unique_sources) >= FREQUENT_MISSING_THRESHOLD:
+            items.append({
+                "target": target,
+                "count": len(unique_sources),
+                "sources": unique_sources,
+            })
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
+# Tipos doutrinários onde citação é esperada. obras/personalidades/sinteses/divergencias
+# têm estrutura própria (descritivos, comparativos, meta) e são excluídos do check.
+LOW_CITATION_TIPOS = {"conceito", "aprofundamento", "questao"}
+LOW_CITATION_MIN_WORDS = 200
+LOW_CITATION_MIN_CITATIONS = 2
+
+# Citações reconhecidas para `low_citations`: parentéticas com sigla do Pentateuco /
+# complementares Kardec, livros bíblicos canônicos, ou autor/médium + obra em itálico.
+_CITATION_COUNT_RE = re.compile(
+    r"\((?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)\s*[,)]"
+    r"|\((?:Mateus|Marcos|Lucas|João|Atos|Romanos|Tiago|Hebreus|Apocalipse"
+    r"|1?-?\s*Coríntios|2-?\s*Coríntios|Gálatas|Efésios|Filipenses|Colossenses"
+    r"|1?-?\s*Tessalonicenses|2-?\s*Tessalonicenses|1?-?\s*Timóteo|2-?\s*Timóteo"
+    r"|Tito|Filemom|1?-?\s*Pedro|2-?\s*Pedro|1?-?\s*João|2-?\s*João|3-?\s*João|Judas)"
+    r"\s+\d"
+    r"|\([A-ZÀ-Ú][^)]*?,\s*\*[^*]+\*"
+)
+
+
+def _body_for_metrics(text: str) -> str:
+    """Retorna o corpo da página sem frontmatter, ## Fontes e inline code."""
+    body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
+    body = strip_inline_code(body)
+    fontes = re.search(r"^## Fontes\s*$", body, re.MULTILINE)
+    if fontes:
+        body = body[: fontes.start()]
+    return body
+
+
+def check_low_citations(pages: list[Path]) -> dict:
+    """Check — páginas doutrinárias com corpo substantivo mas poucas citações.
+
+    Aplica-se a `tipo: conceito | aprofundamento | questao`. Páginas com
+    body >= LOW_CITATION_MIN_WORDS palavras e menos de
+    LOW_CITATION_MIN_CITATIONS citações reconhecidas são candidatas a
+    enriquecimento. Tipos descritivos (`obra`, `personalidade`) e meta
+    (`sintese`, `divergencia`) são excluídos.
+    """
+    items = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") not in LOW_CITATION_TIPOS:
+            continue
+        if str(fm.get("index", "")).lower() == "false":
+            continue
+        body = _body_for_metrics(page.read_text(encoding="utf-8"))
+        n_words = len(re.findall(r"\b\w+\b", body))
+        if n_words < LOW_CITATION_MIN_WORDS:
+            continue
+        n_cit = len(_CITATION_COUNT_RE.findall(body))
+        if n_cit < LOW_CITATION_MIN_CITATIONS:
+            items.append({
+                "path": str(page),
+                "tipo": fm.get("tipo"),
+                "words": n_words,
+                "citations": n_cit,
+            })
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
+def _normalize_tag(tag: str) -> str:
+    """Lowercase + sem diacríticos, para detectar variantes de mesma raiz."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", tag)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return s.lower()
+
+
+def _stem_tag(tag: str) -> str:
+    """Stem ingênuo: remove plural pt-br trivial (-s, -es) para detectar par singular/plural."""
+    n = _normalize_tag(tag)
+    if len(n) > 4 and n.endswith("es"):
+        return n[:-2]
+    if len(n) > 3 and n.endswith("s"):
+        return n[:-1]
+    return n
+
+
+# Pares plural/singular intencionais — a wiki usa ambos como conceitos distintos
+# (ex.: "evangelho" = método/forma vs "evangelhos" = os 4 textos canônicos).
+NAMING_STEM_ALLOWLIST: set[tuple[str, str]] = {
+    ("evangelho", "evangelhos"),
+}
+
+
+def check_naming_consistency(pages: list[Path]) -> dict:
+    """Check — tags equivalentes registradas com nomenclaturas inconsistentes.
+
+    Detecta dois padrões em frontmatter `tags`:
+    a) variantes que normalizam para a mesma forma (lowercase + sem diacríticos)
+       — ex.: `perispirito` vs `perispírito`;
+    b) pares singular/plural com mesmo stem que aparecem em pelo menos 2 páginas
+       cada — ex.: `parabola` vs `parabolas` (e ambos circulam) sugerem
+       indecisão sobre qual é a tag canônica. Pares declarados em
+       NAMING_STEM_ALLOWLIST são intencionais (significados distintos).
+    """
+    from collections import defaultdict
+
+    tag_pages: dict[str, set[str]] = defaultdict(set)
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        tags = fm.get("tags", [])
+        if isinstance(tags, str):
+            tags = [tags]
+        for t in tags:
+            tag_pages[t].add(str(page))
+
+    items: list[dict] = []
+
+    # (a) variantes case/diacrítico
+    norm_groups: dict[str, set[str]] = defaultdict(set)
+    for t in tag_pages:
+        norm_groups[_normalize_tag(t)].add(t)
+    for norm, variants in sorted(norm_groups.items()):
+        if len(variants) > 1:
+            items.append({
+                "kind": "case_or_accent",
+                "normalized": norm,
+                "variants": sorted(variants),
+                "counts": {v: len(tag_pages[v]) for v in sorted(variants)},
+            })
+
+    # (b) pares singular/plural com ambos circulando
+    stem_groups: dict[str, set[str]] = defaultdict(set)
+    for t in tag_pages:
+        stem_groups[_stem_tag(t)].add(_normalize_tag(t))
+    seen_pairs: set[tuple[str, str]] = set()
+    for stem, variants in sorted(stem_groups.items()):
+        if len(variants) < 2:
+            continue
+        ordered = sorted(variants, key=len)
+        for i in range(len(ordered)):
+            for j in range(i + 1, len(ordered)):
+                a, b = ordered[i], ordered[j]
+                pair = (a, b) if a < b else (b, a)
+                if pair in NAMING_STEM_ALLOWLIST or pair in seen_pairs:
+                    continue
+                seen_pairs.add(pair)
+                count_a = sum(len(tag_pages[t]) for t in tag_pages if _normalize_tag(t) == a)
+                count_b = sum(len(tag_pages[t]) for t in tag_pages if _normalize_tag(t) == b)
+                if count_a >= 2 and count_b >= 2:
+                    items.append({
+                        "kind": "plural_singular",
+                        "stem": stem,
+                        "variants": [a, b],
+                        "counts": {a: count_a, b: count_b},
+                    })
+
+    return {"severity": "warning", "count": len(items), "items": items}
 
 
 # Padrões válidos de citação (seção 4 do CLAUDE.md + variantes reais)
@@ -574,13 +775,16 @@ CHECK_REGISTRY = {
     "orphan_pages": check_orphan_pages,
     "fontes_missing": check_fontes_section,
     "citation_format": check_citation_format,
+    "low_citations": check_low_citations,
     "rascunho_stale": check_rascunho_stale,
     "divergencias_aberta": check_divergencias_aberta,
     "missing_concept_pages": check_missing_concept_pages,
+    "frequent_missing_concepts": check_frequent_missing_concepts,
     "pentateuco_completo": check_pentateuco_completo,
     "status_projeto": check_status_projeto,
     "broken_urls": check_broken_urls,
     "tag_taxonomy": check_tag_taxonomy,
+    "naming_consistency": check_naming_consistency,
     "skills_consistency": check_skills_consistency,
 }
 

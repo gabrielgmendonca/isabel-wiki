@@ -22,7 +22,7 @@ Flags disponíveis:
 - `--skip NAME` (repetível): pular os checks listados.
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `skills_consistency`.
+Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
@@ -41,14 +41,17 @@ Agrupar os resultados do script por severidade:
 - **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki. Nota: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
 - **fontes_missing** — seção `## Fontes` ausente ou vazia.
 - **citation_format** — citações com sigla conhecida mas formato fora do padrão da seção 4.
+- **low_citations** — páginas doutrinárias (`tipo: conceito | aprofundamento | questao`) com corpo ≥ 200 palavras e menos de 2 citações reconhecidas. Tipos descritivos (`obra`, `personalidade`) e meta (`sintese`, `divergencia`) ficam fora do check.
 - **rascunho_stale** — páginas com `status: rascunho` há mais de 14 dias.
+- **frequent_missing_concepts** — conceitos referenciados como wikilink em 5+ páginas distintas mas ainda sem página própria. Subconjunto de prioridade alta de `missing_concept_pages`.
 - **tag_taxonomy** — tags `lei/` fora da taxonomia canônica ou `obra/` inconsistentes com `fontes`.
+- **naming_consistency** — tags equivalentes registradas com nomenclaturas inconsistentes: variantes de mesma raiz (case/diacrítico, ex.: `perispirito` vs `perispírito`) ou pares plural/singular ambos circulando (ex.: `parabola` vs `parabolas`). Pares intencionais ficam em `NAMING_STEM_ALLOWLIST`.
 - **skills_consistency** — drift entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`: referência a `wiki/<dir>/` que não existe, skill em `.claude/skills/` sem menção em `CLAUDE.md`, ou caminho de script (`uv run python ...`) apontando para arquivo inexistente.
 - **broken_urls** — URLs externas retornando erro (só aparece se `--check-urls` foi passado).
 
 ### Info
 - **divergencias_aberta** — divergências com `status: aberta`.
-- **missing_concept_pages** — links para conceitos que ainda não têm página própria.
+- **missing_concept_pages** — links para conceitos que ainda não têm página própria. Inclui contagem de páginas distintas que referenciam cada conceito ausente.
 - **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/ingest/scripts/update_status.py`.
 
 Para cada categoria com `count > 0`, listar os itens de forma concisa.
