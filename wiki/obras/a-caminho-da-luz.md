@@ -102,6 +102,10 @@ Emmanuel apresenta o Espiritismo como a força moral capaz de restaurar o Cristi
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — consequências cármicas coletivas
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo
 
+## Aprofundamentos relacionados
+
+- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — caps. 1–2 lidos em diálogo com Gênese, caps. VI–X.
+
 ## Personalidades citadas
 
 - [[wiki/personalidades/jesus]] — governador espiritual da Terra, personagem central
