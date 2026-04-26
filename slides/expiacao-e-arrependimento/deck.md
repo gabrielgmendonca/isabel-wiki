@@ -202,7 +202,7 @@ Já desde esta vida poderemos ir resgatando as nossas faltas?
 
 ## Maria de Magdala
 
-Emmanuel / Chico Xavier.
+Humberto de Campos / Chico Xavier.
 
 *Boa Nova*, cap. 20.
 
@@ -212,7 +212,7 @@ Emmanuel / Chico Xavier.
 
 > Senhor, ouvi a vossa palavra consoladora e venho ao vosso encontro!… Sou uma filha do pecado. Todos me condenam. Entretanto, Mestre, observai como tenho sede do verdadeiro amor!…
 
-**Maria de Magdala — Boa Nova, cap. 20 (Emmanuel / Chico Xavier)**
+**Maria de Magdala — Boa Nova, cap. 20 (Humberto de Campos / Chico Xavier)**
 
 ---
 
@@ -220,7 +220,7 @@ Emmanuel / Chico Xavier.
 
 > Acaso, poderias pensar que alguém no mundo estivesse condenado ao pecado eterno? Onde, então, o amor de Nosso Pai? (...) Sobre todas as falências e desventuras próprias do homem, as bênçãos paternais de Deus descem e chamam.
 
-**Jesus a Maria de Magdala — Boa Nova, cap. 20 (Emmanuel / Chico Xavier)**
+**Jesus a Maria de Magdala — Boa Nova, cap. 20 (Humberto de Campos / Chico Xavier)**
 
 ---
 
@@ -240,7 +240,7 @@ Morre em Éfeso, cumprindo a tarefa.
 
 > Maria, já passaste a porta estreita!… Amaste muito! Vem! Eu te espero aqui!
 
-**Jesus a Maria de Magdala — Boa Nova, cap. 20 (Emmanuel / Chico Xavier)**
+**Jesus a Maria de Magdala — Boa Nova, cap. 20 (Humberto de Campos / Chico Xavier)**
 
 ---
 
@@ -321,16 +321,3 @@ A festa pressupõe o caminho de volta.
 > Este meu filho estava morto, e reviveu; tinha-se perdido, e foi achado.
 
 **Lucas 15:24**
-
----
-
-<!-- _class: source -->
-
-## Fontes
-
-- Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Parte Quarta, cap. II — seção "Expiação e arrependimento", q. 990, 993, 997, 1000, 1002.
-- Kardec, Allan. *O Céu e o Inferno*. Trad. Guillon Ribeiro. FEB. 1ª parte, cap. VII, itens 16, 19; 2ª parte — evocação de Lisbeth (Bordeaux, 1862).
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XXVIII — "Coletânea de preces espíritas" / parábola do filho pródigo.
-- Kardec, Allan. *A Gênese, os milagres e as predições segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. I, item 33.
-- Emmanuel / Chico Xavier. *Boa Nova*. FEB. Cap. 20 — "Maria de Magdala".
-- *Novo Testamento*. Evangelho segundo Lucas, 15:11–32; 15:24.

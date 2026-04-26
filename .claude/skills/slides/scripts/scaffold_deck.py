@@ -100,18 +100,6 @@ def extract_quote_with_citation(content: str) -> list[tuple[str, str, str]]:
     return found
 
 
-def extract_fontes(body: str) -> list[str]:
-    m = re.search(r"^##\s+Fontes\s*$(.+?)(?=^##\s|\Z)", body, re.MULTILINE | re.DOTALL)
-    if not m:
-        return []
-    items = []
-    for line in m.group(1).splitlines():
-        line = line.strip()
-        if line.startswith("- "):
-            items.append(line[2:].strip())
-    return items
-
-
 def compute_range(body: str, sigla_preferida: str | None) -> str | None:
     """Agrega citações no corpo para produzir 'q. 674–685' ou 'cap. XVII, item 4'."""
     nums: list[int] = []
@@ -157,7 +145,6 @@ def render_deck(
     sigla_principal: str | None,
     range_principal: str | None,
     sections_qa: list[tuple[str, list[tuple[str, str, str]]]],
-    fontes_bib: list[str],
     source_page: Path,
     data_palestra: str,
     casa: str | None,
@@ -266,16 +253,10 @@ def render_deck(
         "---\n\n"
     )
 
-    fontes_slide = "<!-- _class: source -->\n\n## Fontes\n\n"
-    if fontes_bib:
-        fontes_slide += "\n".join(f"- {f}" for f in fontes_bib) + "\n"
-    else:
-        fontes_slide += f"- Página wiki: `{source_page}`\n"
-
     return (
         header + cap + abertura
         + "".join(body_parts)
-        + parabola + sintese + encerramento + fontes_slide
+        + parabola + sintese + encerramento
     )
 
 
@@ -319,13 +300,11 @@ def main() -> int:
         if quotes:
             sections_qa.append((heading, quotes))
 
-    fontes_bib = extract_fontes(body)
-
     out = args.out or Path("slides") / slugify(title) / "deck.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     deck = render_deck(
         title, sigla_principal, range_principal, sections_qa,
-        fontes_bib, page, args.data, args.casa,
+        page, args.data, args.casa,
     )
     out.write_text(deck, encoding="utf-8")
 
@@ -336,7 +315,6 @@ def main() -> int:
         "obra": obra_label(sigla_principal, range_principal),
         "partes": len(sections_qa),
         "qa_pairs": total_qa,
-        "fontes_bib": len(fontes_bib),
         "data": args.data,
         "casa": args.casa,
     }, ensure_ascii=False, indent=2))

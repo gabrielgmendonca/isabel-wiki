@@ -19,7 +19,6 @@ Toda palestra segue:
 5. **"Para meditar"** — 1 slide com título + referência de uma parábola evangélica, caso de C&I, personalidade de André Luiz (Entre a Terra e o Céu, Nosso Lar) ou página de `wiki/personalidades/` / `wiki/parabolas/`. NUNCA texto integral
 6. **Síntese final** — retoma a pergunta de abertura com a resposta consolidada (3-5 bullets)
 7. **Encerramento** — citação consolidadora (opcional)
-8. **Fontes** — slide final `<!-- _class: source -->`
 
 **Sem slides em branco** (`<!-- _class: blank -->` é legado). Transições são feitas por section headers.
 
@@ -63,7 +62,6 @@ Tema customizado em `slides/themes/isabel.css`. Build via `--theme slides/themes
 - (default) — capa, perguntas, sínteses
 - `<!-- _class: quote -->` — resposta dos Espíritos (serif, recuo, aspas grandes)
 - `<!-- _class: blank -->` — slide em branco para pausa
-- `<!-- _class: source -->` — slide final `## Fontes`
 
 ## Localização
 

@@ -8,9 +8,9 @@
 :root {
   --isabel-bg: #fbfaf6;
   --isabel-fg: #1f1b16;
-  --isabel-muted: #6b6358;
-  --isabel-accent: #6b3f1d;
-  --isabel-rule: #d9d2c4;
+  --isabel-muted: #5e665a;
+  --isabel-accent: #3d5a3d;
+  --isabel-rule: #c8d2c0;
 }
 
 section {
@@ -66,7 +66,7 @@ section footer, section header {
 
 /* Slide de citação literal (resposta dos Espíritos) */
 section.quote {
-  background: #f5f0e6;
+  background: #ecf2e7;
 }
 section.quote blockquote {
   font-size: 34px;
@@ -97,14 +97,8 @@ section.section h3 {
   color: var(--isabel-bg);
   opacity: 0.85;
 }
+section.section header, section.section footer {
+  color: var(--isabel-bg);
+  opacity: 0.75;
+}
 
-/* Slide final de fontes */
-section.source {
-  font-size: 22px;
-  color: var(--isabel-muted);
-}
-section.source h2 {
-  font-size: 32px;
-  color: var(--isabel-fg);
-}
-section.source li { font-size: 22px; }

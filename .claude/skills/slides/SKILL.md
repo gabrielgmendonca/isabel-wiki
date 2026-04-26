@@ -66,7 +66,6 @@ O script emite um esqueleto Marp com:
 5. **Para meditar** — slide de parábola/caso/personalidade
 6. **Síntese** — section header + slide de bullets
 7. **Encerramento** — citação consolidadora opcional
-8. **Fontes** — `<!-- _class: source -->`
 
 TODOs a preencher ficam marcados como `*<!-- skill: ... -->*` em itálico.
 
@@ -98,6 +97,7 @@ Escreve em `slides/<slug>/build/`.
 ## Regras
 
 - **Citação obrigatória** em toda afirmação doutrinária (CLAUDE.md §3). Sempre usar nome completo da obra, não sigla, nos slides.
+- **Autoria de obras psicografadas**: o médium não é o autor espiritual. Antes de citar, conferir frontmatter de `raw/mediuns/<médium>/<obra>.md` (campo `**Autor espiritual:**`) e usar formato `Autor espiritual / Médium` (ex: `Humberto de Campos / Chico Xavier`, `André Luiz / Chico Xavier`, `Emmanuel / Chico Xavier`). Não inferir autor a partir do médium.
 - **Texto integral da obra básica**: LE em dois passos (pergunta + resposta); ESE/LM/C&I em citação completa. Elipses `(...)` para trechos longos não-essenciais.
 - **Sem slides em branco**: transições com section headers.
 - **Hierarquia de autoridade** respeitada (CLAUDE.md §2): Pentateuco prevalece.
