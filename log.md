@@ -4,6 +4,14 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-26] refactor | Lint: novo check skills_consistency
+
+Adiciona check determinístico que valida coerência entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`. Detecta três classes de drift: (a) referência a `wiki/<dir>/` inexistente, (b) skill em `.claude/skills/` sem menção em `CLAUDE.md`, (c) caminho `uv run python <path>` apontando para script ausente. Pegou os 4 itens-bug do roadmap §0.1 na primeira execução: `wiki/parabolas/` fantasma referenciado em `slides/SKILL.md:36` e `convencoes-slides.md:19`, e `/slides`/`/stats` não citados em `CLAUDE.md`. Prevenção contra reincidência conforme CLAUDE.md e skills evoluem.
+
+## [2026-04-26] lint | 5 achados
+
+Lint zerado em todos os checks de erro/aviso estruturais. Único alerta: 5 páginas com `status: rascunho` há 19 dias (`a-caminho-da-luz`, `emmanuel`, `mansao-do-caminho`, `meimei`, `victor-hugo`) — todas do mesmo cluster ingerido em 2026-04-07, candidatas a revisão de status para `consolidada` ou aprofundamento.
+
 ## [2026-04-26] refactor | Adensamento do grafo: trilhas órfãs zeradas, cross-links conceito↔questão e personalidade↔obra
 
 Análise da wiki via `/stats` (281 nós, 2.451 arestas, 2 órfãs) seguida de adições auditadas em três frentes, cobrindo lacunas de relacionamento sem criar páginas novas. Resultado: **órfãs 2→0**, **arestas 2.451→2.468 (+17)**, lint zerado.

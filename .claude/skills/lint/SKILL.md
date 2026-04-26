@@ -22,7 +22,7 @@ Flags disponíveis:
 - `--skip NAME` (repetível): pular os checks listados.
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`.
+Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `skills_consistency`.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
@@ -43,6 +43,7 @@ Agrupar os resultados do script por severidade:
 - **citation_format** — citações com sigla conhecida mas formato fora do padrão da seção 4.
 - **rascunho_stale** — páginas com `status: rascunho` há mais de 14 dias.
 - **tag_taxonomy** — tags `lei/` fora da taxonomia canônica ou `obra/` inconsistentes com `fontes`.
+- **skills_consistency** — drift entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`: referência a `wiki/<dir>/` que não existe, skill em `.claude/skills/` sem menção em `CLAUDE.md`, ou caminho de script (`uv run python ...`) apontando para arquivo inexistente.
 - **broken_urls** — URLs externas retornando erro (só aparece se `--check-urls` foi passado).
 
 ### Info

@@ -450,6 +450,86 @@ def check_status_projeto(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items), "items": items}
 
 
+SKILLS_DIR = Path(".claude/skills")
+RULES_DIR = Path(".claude/rules")
+CLAUDE_MD_PATH = Path("CLAUDE.md")
+
+
+def check_skills_consistency(pages: list[Path]) -> dict:
+    """Check — coerência interna entre CLAUDE.md, .claude/skills/ e .claude/rules/.
+
+    Detecta três classes de drift entre as instruções de base e a realidade do repo:
+    - referência a `wiki/<dir>/` inexistente (ex.: `wiki/parabolas/` fantasma);
+    - skill em `.claude/skills/<name>/SKILL.md` sem menção em CLAUDE.md;
+    - caminho de script (`uv run python ...` ou `python3 ...`) inexistente no disco.
+
+    Não strippa inline code: paths em backticks (`wiki/x/`) são referências reais
+    que precisam ser validadas, não exemplos a ignorar.
+    """
+    items = []
+
+    meta_files: list[Path] = []
+    if CLAUDE_MD_PATH.exists():
+        meta_files.append(CLAUDE_MD_PATH)
+    if SKILLS_DIR.exists():
+        meta_files.extend(sorted(SKILLS_DIR.glob("*/SKILL.md")))
+    if RULES_DIR.exists():
+        meta_files.extend(sorted(RULES_DIR.glob("*.md")))
+
+    # (a) referências wiki/<dir>/ a diretórios inexistentes
+    wiki_dir_re = re.compile(r"\bwiki/([a-z0-9_-]+)/")
+    seen_dir_refs: set[tuple[str, str]] = set()
+    for f in meta_files:
+        text = f.read_text(encoding="utf-8")
+        for lineno, line in enumerate(text.splitlines(), 1):
+            for m in wiki_dir_re.finditer(line):
+                dir_name = m.group(1)
+                key = (str(f), dir_name)
+                if key in seen_dir_refs:
+                    continue
+                seen_dir_refs.add(key)
+                if not (WIKI_DIR / dir_name).is_dir():
+                    items.append({
+                        "source": str(f),
+                        "line": lineno,
+                        "detail": f"referência a wiki/{dir_name}/ — diretório não existe",
+                    })
+
+    # (b) skills sem menção em CLAUDE.md
+    if CLAUDE_MD_PATH.exists() and SKILLS_DIR.exists():
+        claude_text = CLAUDE_MD_PATH.read_text(encoding="utf-8")
+        for skill_md in sorted(SKILLS_DIR.glob("*/SKILL.md")):
+            skill_name = skill_md.parent.name
+            if skill_name.startswith("_"):
+                continue
+            if f"/{skill_name}" not in claude_text:
+                items.append({
+                    "source": str(CLAUDE_MD_PATH),
+                    "detail": f"skill /{skill_name} sem menção em CLAUDE.md",
+                })
+
+    # (c) caminhos `uv run python <path>` ou `python3 <path>` inexistentes
+    script_path_re = re.compile(r"(?:uv run python|python3)\s+(\.claude/[\w/.-]+\.py)")
+    seen_scripts: set[tuple[str, str]] = set()
+    for f in meta_files:
+        text = f.read_text(encoding="utf-8")
+        for lineno, line in enumerate(text.splitlines(), 1):
+            for m in script_path_re.finditer(line):
+                script = m.group(1)
+                key = (str(f), script)
+                if key in seen_scripts:
+                    continue
+                seen_scripts.add(key)
+                if not Path(script).is_file():
+                    items.append({
+                        "source": str(f),
+                        "line": lineno,
+                        "detail": f"script {script} referenciado mas não existe",
+                    })
+
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -501,6 +581,7 @@ CHECK_REGISTRY = {
     "status_projeto": check_status_projeto,
     "broken_urls": check_broken_urls,
     "tag_taxonomy": check_tag_taxonomy,
+    "skills_consistency": check_skills_consistency,
 }
 
 # Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).
