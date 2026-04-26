@@ -1,8 +1,10 @@
 name: Stats Diário
 
 on:
-  schedule:
-    - cron: "0 6 * * *"
+  # Cron desligado: branch rule do main rejeita push direto do bot (GH013).
+  # Rodar sob demanda via workflow_dispatch ou /stats local.
+  # schedule:
+  #   - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
