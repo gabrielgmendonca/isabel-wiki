@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Gênese]
-tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, obra/le, obra/ese, obra/genese]
-atualizado_em: 2026-04-06
+fontes: [LE, ESE, Gênese, André Luiz/Chico Xavier]
+tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, andre-luiz, obra/le, obra/ese, obra/genese]
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -45,6 +45,27 @@ O fluido cósmico é também a matéria-prima do **princípio vital**: este é "
 
 E é a matéria-prima do **perispírito**: "O perispírito [...] é um dos mais importantes produtos do fluido cósmico; é uma condensação desse fluido em torno de um foco de inteligência ou alma" (Gênese, cap. XIV, item 7).
 
+## Em André Luiz: o "plasma divino"
+
+Em *Evolução em Dois Mundos* (1958, parte I, cap. 1), André Luiz reapresenta o fluido cósmico em linguagem deliberadamente inclusiva de outras tradições, sem deixar a substância kardequiana:
+
+> "O fluido cósmico é o **plasma divino**, hausto do Criador ou força nervosa do Todo-Sábio. Nesse elemento primordial, vibram e vivem constelações e sóis, mundos e seres, como peixes no oceano." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 1)
+
+Pontos de contato com Kardec:
+
+- O plasma é a **substância única** com que "as Inteligências Divinas" co-criam, em paralelo com a "matéria cósmica primitiva, geradora do mundo e dos seres" da Gênese (cap. VI, item 10).
+- A frase "em Deus nos movemos e existimos" — citada no fim do capítulo — repete At 17:28, também invocada por Kardec em ESE, cap. I.
+- Toda matéria é definida como "energia tornada visível", e toda energia, "originariamente, é força divina" — formulação que sintetiza a distinção kardequiana entre fluido em estado eterizado e materializado (Gênese, cap. XIV, item 2).
+
+Aprofundamentos específicos da obra:
+
+- O fluido cósmico é **trabalhado por hierarquias espirituais** chamadas "Inteligências Divinas, grandes Devas da teologia hindu, Arcanjos da interpretação de variados templos religiosos" — vocabulário pluralista que reafirma a unicidade da substância sob múltiplas tradições.
+- O **pensamento humano** é definido como "subproduto do fluido cósmico, absorvido pela mente humana, em processo vitalista semelhante à respiração" (parte I, cap. 13). Toda mente toma do plasma divino e o transubstancia em pensamento contínuo, gerando "raio da emoção" ou "raio do desejo" — fluidos diferenciados pela qualidade do sentimento que os tipifica.
+- **Plantas e animais** no Plano espiritual reproduzem-se por absorção desse plasma, recolhendo "produtos sutilizados ou sínteses quimioeletromagnéticas" (parte II, cap. 1).
+- A **alimentação dos desencarnados** e o **passe magnético** (parte II, caps. 1, 15) operam pela manipulação consciente desse fluido — o que articula prece, fluido cósmico e cura num único circuito vital.
+
+A leitura de André Luiz é coerente com a tese kardequiana de que **todos os fluidos derivados** são modificações da substância única (LE, q. 27a), e oferece uma fenomenologia mais detalhada da circulação desse plasma entre encarnados e desencarnados.
+
 ## Distinção: fluido cósmico universal vs. fluidos
 
 O **fluido cósmico universal** é a substância-mãe, o princípio material único e indiferenciado. Os **fluidos** (espirituais, magnéticos, vitais, etc.) são suas *modificações* — produtos diferenciados por combinação, condensação ou ação da inteligência. A relação é análoga à da água pura com suas inúmeras soluções: a água é uma, mas as soluções são muitas e de propriedades diversas.
@@ -65,9 +86,12 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - [[wiki/obras/livro-dos-espiritos]] — q. 27–29, q. 65, q. 282
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXVII, item 9
 - [[wiki/obras/genese]] — caps. VI, X, XIV
+- [[wiki/obras/evolucao-em-dois-mundos]] — fluido cósmico como "plasma divino" (André Luiz, 1958, parte I, caps. 1, 13)
+- [[wiki/conceitos/centros-vitais]] — fulcros de absorção do plasma no psicossoma
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 27–29, q. 65, q. 282. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. VI, itens 7–10; cap. X, item 17; cap. XIV, itens 2, 7. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].

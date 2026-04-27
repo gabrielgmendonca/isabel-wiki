@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
 tags: [andre-luiz, espirito-comunicante, chico-xavier]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-26
 status: rascunho
 ---
 
@@ -21,6 +21,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 ## Obras associadas
 
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — 8º livro da série (1954). Obsessão por ciúme, desobsessão envolvente, reencarnação de suicida.
+- [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
 
 ## Citações relevantes
 
@@ -33,7 +34,11 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/clarencio]] — orientador na série
 - [[wiki/conceitos/obsessao]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/perispirito]]
+- [[wiki/conceitos/centros-vitais]] — anatomia funcional do psicossoma desenvolvida em *Evolução em Dois Mundos*
+- [[wiki/conceitos/vampirismo-espiritual]] — patologia simbiótica da obsessão
+- [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — posições sobre sexo, matrimônio e aborto
 
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].

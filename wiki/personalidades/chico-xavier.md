@@ -34,6 +34,7 @@ Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citaç
 
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel / Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz / Chico Xavier (1954). 8º volume da série André Luiz; obsessão por sintonia de remorso e desobsessão envolvente.
+- [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz / Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos) sobre o corpo espiritual: anatomia do psicossoma, sete centros vitais, simbiose e vampirismo, sexualidade, mediunidade, religiões.
 
 Obras psicografadas por Chico Xavier disponíveis em `raw/` mas ainda sem página própria na wiki (candidatas a `/ingest`):
 
@@ -67,3 +68,4 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].

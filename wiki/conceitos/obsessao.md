@@ -129,7 +129,10 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/conceitos/fluidos]] — fluidos impuros envolvem o obsidiado
 - [[wiki/conceitos/prece]] — meio de combate à obsessão
 - [[wiki/conceitos/depressao]] — transtorno frequentemente agravado pela obsessão
+- [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica (André Luiz)
+- [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
+- [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)

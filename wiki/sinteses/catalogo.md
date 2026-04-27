@@ -65,6 +65,7 @@ index: false
 
 #### André Luiz / Chico Xavier
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz/Chico Xavier (1954). 8º livro da série. Obsessão de Zulmira por Odila (ciúme e remorso), conversão pela Irmã Clara, reencarnação de Júlio como suicida reencarnado. Mecânica fluídica da gravidez, prece × invocação, hereditariedade relativa. 40 capítulos. **(rascunho)**
+- [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz/Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade e centro genésico, mediunidade como função dos centros, religiões como higiene da alma. **(rascunho)**
 
 #### Divaldo Franco
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
@@ -81,6 +82,7 @@ index: false
 - [[wiki/conceitos/deus]] — causa primária, atributos divinos (LE, q. 1–16).
 - [[wiki/conceitos/espirito]] — seres inteligentes da criação (LE, q. 76–131).
 - [[wiki/conceitos/perispirito]] — envoltório semimaterial do Espírito.
+- [[wiki/conceitos/centros-vitais]] — André Luiz: anatomia funcional do psicossoma em sete centros (coronário, cerebral, laríngeo, cardíaco, esplênico, gástrico, genésico).
 - [[wiki/conceitos/alma]] — Espírito encarnado.
 - [[wiki/conceitos/escala-espirita]] — classificação em três ordens.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — LE, q. 55–58.
@@ -204,6 +206,7 @@ index: false
 - [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes; cobre a 1ª e a 2ª parte de *O Livro dos Médiuns*.
 - [[wiki/conceitos/obsessao]] — obsessão simples, fascinação e subjugação (LM, cap. XXIII).
+- [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica via centro coronário (André Luiz, *Evolução em Dois Mundos*, parte I, caps. 14–15).
 - [[wiki/conceitos/depressao]] — transtorno afetivo à luz espírita: causas, obsessão e terapêutica integrada.
 - [[wiki/conceitos/identidade-dos-espiritos]] — critérios de discernimento, comunicações apócrifas (LM, caps. XXIV, XXXI).
 - [[wiki/conceitos/discernimento-dos-espiritos]] — faculdade crítica de avaliar natureza e veracidade dos Espíritos comunicantes; sistematização kardequiana do "discernimento dos espíritos" de Paulo (1 Co 12:10) e João (1 Jo 4:1).
@@ -290,6 +293,7 @@ Páginas individuais (ordem da tabela do índice temático):
 Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
 
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
+- [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — Sexualidade em André Luiz: centro genésico, matrimônio, divórcio, aborto à luz de *Evolução em Dois Mundos* (1958).
 
 ## Questões
 
