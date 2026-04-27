@@ -121,8 +121,14 @@ def main():
 
     md = build_markdown(chapters)
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = OUTPUT_DIR / f"{slugify(canonical_title)}.md"
+    medium = chapters[0].get("book_medium", "")
+    if not medium:
+        print("Aviso: book_medium ausente; salvando em raw/mediuns/.")
+        out_dir = OUTPUT_DIR
+    else:
+        out_dir = OUTPUT_DIR / slugify(medium)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{slugify(canonical_title)}.md"
     out_path.write_text(md, encoding="utf-8")
     print(f"Criado: {out_path}")
 
