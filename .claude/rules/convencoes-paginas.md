@@ -18,6 +18,29 @@ status: rascunho | ativo | revisar
 ---
 ```
 
+## Direitos autorais (obras nível 3)
+
+Páginas `tipo: obra` declaram a situação de direitos da obra original via campo aninhado `direitos:`. Habilita aviso ao leitor (renderizado pelo transformer Quartz `CopyrightNotice`) e checks de lint específicos para obras protegidas.
+
+```yaml
+direitos:
+  detentor: dominio-publico | FEB | Boa-Nova | LEAL | IDE | desconhecido
+  ano_dp_estimado: 2059        # opcional; ano estimado de entrada em DP (pmcs Brasil = 70 anos após morte)
+  url_aquisicao: https://...   # opcional, recomendado para obras protegidas
+  observacao: "..."            # opcional
+```
+
+| Detentor | Quando usar |
+|---|---|
+| `dominio-publico` | Kardec (m. 1869), Léon Denis (m. 1927), Cairbar Schutel (m. 1938), Eurípedes Barsanulfo (m. 1918), textos bíblicos. **Não preencher** `ano_dp_estimado` quando DP. |
+| `FEB` | Federação Espírita Brasileira — Chico Xavier (toda a série André Luiz, Emmanuel, Humberto de Campos), Bezerra de Menezes (publicações via FEB), Martins Peralva. |
+| `Boa-Nova` | Editora Boa Nova — Francisco do Espírito Santo Neto / Hammed. |
+| `LEAL` | Livraria Espírita Alvorada — Joanna de Ângelis / Divaldo Franco. |
+| `IDE` | Instituto de Difusão Espírita — Yvonne Pereira e outros. |
+| `desconhecido` | Detentor não identificado ou ambíguo (palestras, autores nível 4 sem mapeamento claro). Backlog manual. |
+
+Default conservador: ausência do campo `direitos:` em `tipo: obra` é tratada pelo lint como `info` (vai virar `warning` após backfill em massa).
+
 ## Taxonomia de tags
 
 Tags livres continuam permitidas. Além delas, dois namespaces hierárquicos (com `/`) habilitam navegação temática no Quartz:

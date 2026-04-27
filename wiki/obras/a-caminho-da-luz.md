@@ -2,6 +2,10 @@
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, chico-xavier, historia, jesus, capela, transicao-planetaria, civilizacoes]
+direitos:
+  detentor: FEB
+  ano_dp_estimado: 2073
+  url_aquisicao: https://www.febnet.org.br/loja/
 atualizado_em: 2026-04-07
 status: rascunho
 ---

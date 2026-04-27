@@ -665,6 +665,42 @@ def check_status_projeto(pages: list[Path]) -> dict:
 SKILLS_DIR = Path(".claude/skills")
 RULES_DIR = Path(".claude/rules")
 CLAUDE_MD_PATH = Path("CLAUDE.md")
+QUARTZ_CONFIG_PATH = Path("quartz.config.ts")
+
+
+def check_raw_excluded(pages: list[Path]) -> dict:
+    """Check — `raw/` deve estar em `ignorePatterns` do quartz.config.ts.
+
+    `raw/` contém transcrições integrais de obras protegidas (Chico Xavier,
+    Hammed, Divaldo etc.) usadas só na pipeline local. Vazamento para o build
+    público é o pior caso: o GitHub Pages republicaria texto de terceiros
+    integralmente. Trava regressão.
+    """
+    if not QUARTZ_CONFIG_PATH.exists():
+        return {
+            "severity": "error",
+            "count": 1,
+            "items": [{"detail": "quartz.config.ts não encontrado"}],
+        }
+    text = QUARTZ_CONFIG_PATH.read_text(encoding="utf-8")
+    match = re.search(r"ignorePatterns\s*:\s*\[([^\]]*)\]", text)
+    if not match:
+        return {
+            "severity": "error",
+            "count": 1,
+            "items": [{"detail": "ignorePatterns não encontrado em quartz.config.ts"}],
+        }
+    patterns = match.group(1)
+    if not re.search(r"""['"]raw['"]""", patterns):
+        return {
+            "severity": "error",
+            "count": 1,
+            "items": [{
+                "detail": "raw/ ausente de ignorePatterns — obras protegidas vazariam para o build público",
+                "ignorePatterns": patterns.strip(),
+            }],
+        }
+    return {"severity": "error", "count": 0, "items": []}
 
 
 def check_skills_consistency(pages: list[Path]) -> dict:
@@ -742,6 +778,141 @@ def check_skills_consistency(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
+VALID_DETENTORES = {"dominio-publico", "FEB", "Boa-Nova", "LEAL", "IDE", "desconhecido"}
+
+QUOTE_MAX_WORDS = 400
+QUOTE_MAX_PROPORTION = 0.25
+
+
+def _count_words(text: str) -> int:
+    return len(re.findall(r"\b\w+\b", text))
+
+
+def _extract_blockquotes(body: str) -> list[str]:
+    """Retorna o texto de cada blockquote contíguo (linhas começando com `>`).
+
+    Callouts (`> [!note]`, `> [!tip]` etc.) são excluídos — são UI/aviso, não citação
+    de obra protegida.
+    """
+    blocks: list[str] = []
+    current: list[str] = []
+    is_callout = False
+    for line in body.splitlines():
+        stripped = line.lstrip()
+        if stripped.startswith(">"):
+            content = stripped[1:].lstrip()
+            if not current and content.startswith("[!"):
+                is_callout = True
+            current.append(content)
+        else:
+            if current and not is_callout:
+                blocks.append("\n".join(current))
+            current = []
+            is_callout = False
+    if current and not is_callout:
+        blocks.append("\n".join(current))
+    return blocks
+
+
+def check_quote_proportion(pages: list[Path]) -> dict:
+    """Check — proporção/tamanho de citações em obras protegidas (CLAUDE.md §3).
+
+    Aplica-se a `tipo: obra` com `direitos.detentor` diferente de `dominio-publico`
+    e `desconhecido`. Reporta como `info` (orienta revisão manual; severidade
+    sobe para `warning` após calibração contra páginas existentes).
+    """
+    items: list[dict] = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") != "obra":
+            continue
+        direitos = fm.get("direitos")
+        if not isinstance(direitos, dict):
+            continue
+        detentor = direitos.get("detentor")
+        if detentor in {"dominio-publico", "desconhecido", None}:
+            continue
+        body = _body_for_metrics(page.read_text(encoding="utf-8"))
+        body_words = _count_words(body)
+        if body_words == 0:
+            continue
+        quotes = _extract_blockquotes(body)
+        quote_words = sum(_count_words(q) for q in quotes)
+        max_single = max((_count_words(q) for q in quotes), default=0)
+        proportion = quote_words / body_words if body_words else 0
+        violations = []
+        if max_single > QUOTE_MAX_WORDS:
+            violations.append(f"trecho único com {max_single} palavras (limite {QUOTE_MAX_WORDS})")
+        if proportion > QUOTE_MAX_PROPORTION:
+            violations.append(
+                f"citação representa {proportion:.0%} do corpo (limite {QUOTE_MAX_PROPORTION:.0%})"
+            )
+        if violations:
+            items.append({
+                "path": str(page),
+                "detentor": detentor,
+                "body_words": body_words,
+                "quote_words": quote_words,
+                "max_single_quote": max_single,
+                "violations": violations,
+            })
+    return {"severity": "info", "count": len(items), "items": items}
+
+
+def check_direitos_obras(pages: list[Path]) -> dict:
+    """Check — frontmatter `direitos:` em páginas tipo: obra.
+
+    Severity `info` enquanto o backfill de massa está em andamento; será
+    promovido a `warning` quando todas as obras tiverem o campo populado.
+    Detentor fora do conjunto canônico é `error` desde já — é typo, não gap.
+    """
+    items_info: list[dict] = []
+    items_error: list[dict] = []
+    items_warning: list[dict] = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") != "obra":
+            continue
+        direitos = fm.get("direitos")
+        if direitos is None:
+            items_info.append({"path": str(page), "detail": "campo direitos: ausente"})
+            continue
+        if not isinstance(direitos, dict):
+            items_error.append({
+                "path": str(page),
+                "detail": f"direitos: deve ser um mapa YAML, recebido {type(direitos).__name__}",
+            })
+            continue
+        detentor = direitos.get("detentor")
+        if detentor is None:
+            items_error.append({"path": str(page), "detail": "direitos.detentor ausente"})
+            continue
+        if detentor not in VALID_DETENTORES:
+            items_error.append({
+                "path": str(page),
+                "detail": f"direitos.detentor inválido: {detentor} "
+                          f"(válidos: {', '.join(sorted(VALID_DETENTORES))})",
+            })
+            continue
+        if detentor == "dominio-publico" and direitos.get("ano_dp_estimado"):
+            items_warning.append({
+                "path": str(page),
+                "detail": "ano_dp_estimado presente mas detentor é dominio-publico (incoerente)",
+            })
+        if detentor not in {"dominio-publico", "desconhecido"} and not direitos.get("url_aquisicao"):
+            items_info.append({
+                "path": str(page),
+                "detail": f"obra protegida ({detentor}) sem url_aquisicao",
+            })
+
+    # Erros tomam precedência: se há detentor inválido, severity = error.
+    if items_error:
+        return {"severity": "error", "count": len(items_error), "items": items_error}
+    if items_warning:
+        return {"severity": "warning", "count": len(items_warning), "items": items_warning}
+    return {"severity": "info", "count": len(items_info), "items": items_info}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -797,6 +968,9 @@ CHECK_REGISTRY = {
     "tag_taxonomy": check_tag_taxonomy,
     "naming_consistency": check_naming_consistency,
     "skills_consistency": check_skills_consistency,
+    "raw_excluded": check_raw_excluded,
+    "direitos_obras": check_direitos_obras,
+    "quote_proportion": check_quote_proportion,
 }
 
 # Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).

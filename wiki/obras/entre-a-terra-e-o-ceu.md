@@ -2,6 +2,10 @@
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
 tags: [andre-luiz, chico-xavier, obsessao, reencarnacao, ciume, maternidade, suicidio, perispirito, centros-de-forca, prece]
+direitos:
+  detentor: FEB
+  ano_dp_estimado: 2073
+  url_aquisicao: https://www.febnet.org.br/loja/
 atualizado_em: 2026-04-15
 status: rascunho
 ---

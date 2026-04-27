@@ -3,6 +3,9 @@ tipo: obra
 fontes: [LE, LM]
 tags: [obsessao, mediunidade, psicografia, perispirito, atendimento-fraterno, caridade, resignacao, obra/le, obra/lm]
 url: https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw
+direitos:
+  detentor: desconhecido
+  observacao: "Palestra; texto-base em DP (LE/LM)"
 atualizado_em: 2026-04-07
 status: ativo
 ---

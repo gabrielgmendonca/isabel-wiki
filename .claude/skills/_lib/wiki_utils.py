@@ -20,8 +20,9 @@ def _strip_quotes(val: str) -> str:
 def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
     """Extrai frontmatter YAML simples.
 
-    Suporta: scalars, valores quoted, listas inline `[a, b]` e listas multilinha
-    (`-` em linhas indentadas após chave com valor vazio).
+    Suporta: scalars, valores quoted, listas inline `[a, b]`, listas multilinha
+    (`-` em linhas indentadas após chave com valor vazio) e dicts aninhados
+    (chave: valor com indent maior que o pai). Sem dependência externa.
 
     Retorna (fm_dict, lista_de_chaves_duplicadas).
     """
@@ -32,25 +33,53 @@ def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
     duplicates: list[str] = []
     pending_key: str | None = None
     pending_list: list[str] | None = None
+    pending_dict: dict | None = None
+    pending_indent: int | None = None
 
     def flush_pending():
-        nonlocal pending_key, pending_list
+        nonlocal pending_key, pending_list, pending_dict, pending_indent
         if pending_key is not None:
+            if pending_list is not None:
+                value = pending_list
+            elif pending_dict is not None:
+                value = pending_dict
+            else:
+                value = ""
             if pending_key in fm:
                 duplicates.append(pending_key)
-            fm[pending_key] = pending_list if pending_list is not None else ""
+            fm[pending_key] = value
         pending_key = None
         pending_list = None
+        pending_dict = None
+        pending_indent = None
 
     for line in lines[1:]:
         stripped = line.strip()
         if stripped == "---":
             break
-        if pending_key is not None and stripped.startswith("- "):
+        # Continuação como item de lista (- valor)
+        if pending_key is not None and stripped.startswith("- ") and pending_dict is None:
             if pending_list is None:
                 pending_list = []
             pending_list.append(_strip_quotes(stripped[2:].strip()))
             continue
+        # Continuação como dict aninhado (linha indentada com `chave: valor`)
+        if (
+            pending_key is not None
+            and pending_list is None
+            and line
+            and line[0] in (" ", "\t")
+            and ":" in line
+            and not stripped.startswith("- ")
+        ):
+            current_indent = len(line) - len(line.lstrip())
+            if pending_indent is None or current_indent >= pending_indent:
+                pending_indent = current_indent
+                if pending_dict is None:
+                    pending_dict = {}
+                k, _, v = line.partition(":")
+                pending_dict[k.strip()] = _strip_quotes(v.strip())
+                continue
         if not stripped:
             flush_pending()
             continue
@@ -68,6 +97,8 @@ def parse_frontmatter(path: Path) -> tuple[dict, list[str]]:
         elif val == "":
             pending_key = key
             pending_list = None
+            pending_dict = None
+            pending_indent = None
         else:
             if key in fm:
                 duplicates.append(key)

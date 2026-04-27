@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [Gênese]
 tags: [kardec, pentateuco, codificacao, genese, milagres, predicoes, fluidos, obra/genese]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-06
 status: ativo
 ---

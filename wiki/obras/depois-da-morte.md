@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [LE, LM, ESE, C&I, Gênese]
 tags: [leon-denis, imortalidade, reencarnacao, perispirito, fluidos, moral, prece, deus, mediunidade, erraticidade, obra/le, obra/lm, obra/ese, obra/ci, obra/genese, lei/trabalho]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-07
 status: ativo
 ---

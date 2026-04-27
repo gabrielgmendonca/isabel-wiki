@@ -45,6 +45,9 @@ echo "==> Aplicando link_citations.py"
 uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/content/wiki"
 uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/content/index.md"
 
+echo "==> Injetando avisos de direitos autorais"
+uv run python "$REPO_ROOT/scripts/inject_copyright.py" --apply "$QUARTZ_DIR/content/wiki"
+
 if [[ "$MODE" == "--build" ]]; then
   echo "==> Build (sem serve)"
   (cd "$QUARTZ_DIR" && npx quartz build)

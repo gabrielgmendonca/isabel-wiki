@@ -3,6 +3,9 @@ tipo: obra
 fontes: [ESE]
 tags: [bem-aventurancas, sermao-da-montanha, humildade, orgulho, reino-dos-ceus, obra/ese]
 url: https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B
+direitos:
+  detentor: desconhecido
+  observacao: "Palestra (Carlos Mendonça); texto-base em DP (ESE)"
 atualizado_em: 2026-04-07
 status: ativo
 ---

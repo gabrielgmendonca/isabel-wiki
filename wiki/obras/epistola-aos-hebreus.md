@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [NT]
 tags: [paulo, hebreus, nova-alianca, sumo-sacerdote, melquisedeque, fe, anjos, correcao, pai-dos-espiritos, autoria-discutida]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-21
 status: ativo
 ---

@@ -3,6 +3,9 @@ tipo: obra
 fontes: [ESE]
 tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseveranca, obra/ese]
 url: https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_
+direitos:
+  detentor: desconhecido
+  observacao: "Palestra (Carlos Mendonça); texto-base em DP (ESE)"
 atualizado_em: 2026-04-07
 status: ativo
 ---

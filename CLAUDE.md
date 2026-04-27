@@ -50,6 +50,18 @@ Toda afirmação doutrinária precisa de citação:
 
 Toda página termina com `## Fontes` em formato bibliográfico completo.
 
+### Limites de citação para obras protegidas
+
+Para obras com `direitos.detentor` diferente de `dominio-publico` no frontmatter (Chico Xavier/FEB, Hammed/Boa Nova, Joanna-Divaldo/LEAL etc.), aplicar limites operacionais — não é doutrina jurídica de fair-use, é guia editorial para que a wiki cite com respeito ao autor:
+
+- **Trecho citado direto**: até **400 palavras corridas** ou **3 questões/itens consecutivos** por página, o que vier primeiro.
+- **Proporção**: citação direta ≤ 25% do corpo da página; comentário próprio ≥ 75%. O leitor deve sair com a interpretação da wiki, não com a obra original transcrita.
+- **Quando exceder for necessário**: parafrasear ("conforme Hammed argumenta em *As Dores da Alma*, capítulo X, [paráfrase]") + 1 trecho-chave breve em citação direta. Linkar o `url_aquisicao` da página de obra.
+- **Páginas `tipo: obra`** podem citar mais (resumo estrutural por capítulo/parte), mas o "Resumo por eixos" deve ser **paráfrase + citações curtas**, não transcrição da obra original.
+- **Ensinamentos morais de Jesus** (Evangelhos canônicos): texto-base em DP, citar livremente.
+
+Detentores conhecidos estão tabulados em `.claude/rules/convencoes-paginas.md` (subseção "Direitos autorais"). O lint (`check_quote_proportion`) reporta páginas que excedem esses limites como `info`; revisão manual decide se promove para `warning`.
+
 ---
 
 ## 4. Workflows
@@ -59,6 +71,10 @@ Toda página termina com `## Fontes` em formato bibliográfico completo.
 - **Slides** (`/slides <página>`): gera apresentação Marp (PPTX + PDF) no padrão socrático Q&A. Skill autocontido.
 - **Stats** (`/stats`): regenera `wiki/sinteses/estatisticas-da-wiki.md` com métricas determinísticas. Skill autocontido.
 - **Auto-link de citações** (`scripts/link_citations.py`): no build do CI, citações inline do Pentateuco viram links Markdown para Kardecpedia (nível do capítulo), e citações de complementares no formato `(Autor, *Obra*, ref)` viram wikilinks para `wiki/obras/<slug>` quando a página existir. Autor escreve `(LE, q. 990)` cru — a transformação acontece sobre a cópia em `/tmp/quartz/content`, sem alterar arquivos do repo. Mapeamento em `data/kardec-mapping.json`, regerável com `scripts/build_kardec_mapping.py`.
+
+### Build público — escopo
+
+`raw/` é excluído do build público do Quartz (`quartz.config.ts` `ignorePatterns`). Contém transcrições integrais de obras protegidas (Chico Xavier/FEB, Hammed/Boa Nova, Divaldo/LEAL, etc.) usadas apenas na pipeline local — qmd (busca), `/ingest` e `link_citations.py`. Apenas `wiki/` e `index.md` vão para o GitHub Pages. O lint (`check_raw_excluded`) trava regressão dessa exclusão.
 
 ### Query
 

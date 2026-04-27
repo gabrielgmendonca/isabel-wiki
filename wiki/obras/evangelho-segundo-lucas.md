@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [NT]
 tags: [evangelho, lucas, jesus, fonte-primordial]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-15
 status: ativo
 ---

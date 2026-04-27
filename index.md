@@ -81,3 +81,11 @@ Quando complementares contradizem o Pentateuco, **Kardec prevalece**. Divergênc
 
 > [!tip] Navegação avançada
 > Use a **barra de busca** no topo para encontrar qualquer tema. O **explorer** (barra lateral) mostra a árvore completa de páginas. O **grafo interativo** revela as conexões — quanto mais você explora, mais útil ele fica. Para um panorama textual de todas as páginas, ver [[wiki/sinteses/catalogo]].
+
+---
+
+## Sobre direitos autorais
+
+A wiki cita obras de autores ainda protegidos por direitos autorais — Chico Xavier (André Luiz, Emmanuel, Humberto de Campos), Divaldo Franco/Joanna de Ângelis, Hammed e outros. Os trechos citados pertencem aos respectivos detentores (FEB, LEAL, Boa Nova etc.); o uso aqui é exclusivamente de estudo e comentário, não substitui a obra original. Cada página de obra protegida indica, quando possível, onde adquirir o texto completo.
+
+O conteúdo curado e produzido nesta wiki está licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-BR) — ver [LICENSE-CONTENT.md](https://github.com/gabrielgmendonca/isabel-wiki/blob/main/LICENSE-CONTENT.md).

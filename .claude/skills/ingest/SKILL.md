@@ -30,6 +30,8 @@ Após confirmação do usuário, prosseguir para a fase de escrita:
 
 3. **Checar duplicatas via qmd** antes de criar páginas: query `lex` + `vec` em coleção `wiki` por título da obra e conceitos centrais. Se já existir página próxima, consolidar nela (adicionar seção/citação) ao invés de criar nova.
 4. **Criar** `wiki/obras/<slug>.md` ou `wiki/personalidades/<slug>.md`.
+
+   **Passo 4.5 — direitos autorais (apenas `wiki/obras/`):** preencher o bloco `direitos:` no frontmatter com base no detentor da obra. Tabela canônica de detentores em `.claude/rules/convencoes-paginas.md` (subseção "Direitos autorais"). Em dúvida (palestras, autores nível 4 sem mapeamento claro), marcar `desconhecido` e perguntar ao usuário durante a confirmação. Para obras protegidas, incluir `url_aquisicao` quando conhecido (FEB, Boa Nova, LEAL).
 5. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
    - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas.

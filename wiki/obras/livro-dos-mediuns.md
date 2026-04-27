@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [LM]
 tags: [kardec, pentateuco, codificacao, mediunidade, manifestacoes, pratica-espirita, obra/lm]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-06
 status: ativo
 ---

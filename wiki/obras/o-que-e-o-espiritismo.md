@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [LE, LM, ESE]
 tags: [allan-kardec, introducao, definicao-espiritismo, mediunidade, perispirito, reencarnacao, sobrenatural, ciencia, materialismo, obra/le, obra/lm, obra/ese]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-07
 status: ativo
 ---

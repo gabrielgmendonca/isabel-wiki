@@ -2,6 +2,10 @@
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, chico-xavier, sexualidade, sexo, casamento, familia, aborto, homossexualidade, energia-sexual, lei/reproducao]
+direitos:
+  detentor: FEB
+  ano_dp_estimado: 2073
+  url_aquisicao: https://www.febnet.org.br/loja/
 atualizado_em: 2026-04-27
 status: ativo
 ---

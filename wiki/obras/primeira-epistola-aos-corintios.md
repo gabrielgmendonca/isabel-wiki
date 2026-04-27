@@ -2,6 +2,8 @@
 tipo: obra
 fontes: [NT]
 tags: [paulo, corintios, caridade, perispirito, mediunidade, dons-espirituais, discernimento]
+direitos:
+  detentor: dominio-publico
 atualizado_em: 2026-04-20
 status: ativo
 ---
