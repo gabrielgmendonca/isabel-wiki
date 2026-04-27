@@ -62,6 +62,7 @@ index: false
 
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
+- [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970). Tratado pastoral em 25 capítulos sobre o ciclo afetivo–sexual humano à luz da Doutrina: energia genésica, família, casamento, divórcio, aborto, homossexualidade (cap. 21 com tom respeitoso/igualitário), abstinência, conclusão pastoral.
 
 #### André Luiz / Chico Xavier
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz/Chico Xavier (1954). 8º livro da série. Obsessão de Zulmira por Odila (ciúme e remorso), conversão pela Irmã Clara, reencarnação de Júlio como suicida reencarnado. Mecânica fluídica da gravidez, prece × invocação, hereditariedade relativa. 40 capítulos. **(rascunho)**
@@ -133,6 +134,7 @@ index: false
 - [[wiki/conceitos/lei-de-adoracao]] — prece e culto (LE, q. 649–673).
 - [[wiki/conceitos/lei-do-trabalho]] — LE, q. 674–685.
 - [[wiki/conceitos/lei-de-reproducao]] — LE, q. 686–701.
+- [[wiki/conceitos/energia-sexual]] — Modalidade da força criadora que sustenta reprodução, magnetismo afetivo e sublimação; articula Kardec (Lei de Reprodução), Emmanuel (carga magnética) e André Luiz (centro genésico).
 - [[wiki/conceitos/lei-de-conservacao]] — LE, q. 702–727.
 - [[wiki/conceitos/lei-de-destruicao]] — guerra, pena de morte (LE, q. 728–765).
 - [[wiki/conceitos/lei-de-sociedade]] — LE, q. 766–775.
@@ -294,6 +296,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — Sexualidade em André Luiz: centro genésico, matrimônio, divórcio, aborto à luz de *Evolução em Dois Mundos* (1958).
+- [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — Sexualidade em Emmanuel: as quatro normas, energia sexual como circuito magnético, divórcio admissível, homossexualidade tratada com dignidade integral, abstinência como canalização, à luz de *Vida e Sexo* (1970).
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
 - [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
 

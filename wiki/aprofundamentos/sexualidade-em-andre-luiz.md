@@ -2,7 +2,7 @@
 tipo: aprofundamento
 fontes: [André Luiz/Chico Xavier, LE]
 tags: [sexualidade, sexo, matrimonio, divorcio, aborto, centro-genesico, andre-luiz, lei/reproducao, obra/le]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-27
 status: rascunho
 ---
 
@@ -126,6 +126,7 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 
 ## Conceitos relacionados
 
+- [[wiki/conceitos/energia-sexual]] — fio conceitual transversal (Kardec + Emmanuel + André Luiz)
 - [[wiki/conceitos/centros-vitais]] — centro genésico em foco
 - [[wiki/conceitos/perispirito]] — substrato da sexualidade
 - [[wiki/conceitos/lei-de-reproducao]] — base kardequiana
@@ -134,6 +135,7 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — base das consequências orgânicas
 - [[wiki/conceitos/perfeicao-moral]] — sublimação como meta
 - [[wiki/obras/evolucao-em-dois-mundos]] — fonte primária deste estudo
+- [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — paralelo direto (Vida e Sexo, 1970)
 
 ## Fontes
 

@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
-fontes: [LE, C&I, OPS, NT]
-tags: [reencarnacao, sexo, leon-denis, paulo, romanos, obra/le, obra/ci]
-atualizado_em: 2026-04-20
+fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier]
+tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, obra/le, obra/ci]
+atualizado_em: 2026-04-27
 status: aberta
 ---
 
@@ -114,13 +114,49 @@ Não se trata, com isso, de equiparar os dois casos ou de esgotar a discussão s
 
 A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki/obras/epistola-aos-romanos|Epístola aos Romanos]], anota precisamente este paralelo: Paulo em Rm 1 e Denis em OPS cap. 13 compartilham a mesma estratégia argumentativa, e ambas são dissolvidas pela mesma tríade kardequiana (LE q. 200–202).
 
+## Extensão: Emmanuel (*Vida e Sexo*, 1970)
+
+A ingestão de [[wiki/obras/vida-e-sexo|Vida e Sexo]] (Uberaba, jun/1970) acrescenta uma terceira voz ao registro — e ela vai em **direção oposta a Denis**, apesar de também não ser idêntica a Kardec.
+
+### Inversão pastoral em relação a Denis
+
+Onde Denis classifica como "anormais", "viragos" e "extraviados" os homens e mulheres que identifica como tendo mudado de sexo, Emmanuel formula em 1970 — duas décadas antes da despatologização da homossexualidade pela OMS — uma posição de **dignidade integral**:
+
+> "A coletividade humana aprenderá, gradativamente, a compreender que os conceitos de normalidade e de anormalidade deixam a desejar quando se trate simplesmente de sinais morfológicos, para se erguerem como agentes mais elevados de definição da dignidade humana. (...) O mundo vê, na atualidade, em todos os países, extensas comunidades de irmãos em experiência dessa espécie, somando milhões de homens e mulheres, solicitando atenção e respeito, em pé de igualdade ao respeito e à atenção devidos às criaturas heterossexuais." (Emmanuel / Chico Xavier, *Vida e Sexo*, cap. 21)
+
+Note-se a inversão completa do vocabulário: Denis fala em "viragos", "efeminados extraviados", "nada têm de estético nem de sedutor"; Emmanuel fala em "irmãos em experiência", "atenção e respeito em pé de igualdade", "dignidade humana". A explicação doutrinária parte da **bissexualidade adquirida** ao longo de milênios em sexos alternados — coerente com LE q. 200–202.
+
+### Camada nova: escolha cármica do sexo
+
+Emmanuel adiciona ao quadro kardequiano duas teses sobre a **escolha do sexo** na nova encarnação que **não estão** em Kardec:
+
+1. **Reparativa.** "O homem que abusou das faculdades genésicas, arruinando a existência de outras pessoas (...) em muitos casos é induzido a buscar nova posição, no renascimento físico, em corpo morfologicamente feminino, aprendendo, em regime de prisão, a reajustar os próprios sentimentos." (cap. 21)
+2. **Missionária.** "Espíritos cultos e sensíveis, aspirando a realizar tarefas específicas na elevação de agrupamentos humanos (...) rogam dos Instrutores da Vida Maior (...) a própria internação no campo físico, em vestimenta carnal oposta à estrutura psicológica pela qual transitoriamente se definem." (cap. 21)
+
+### Análise — extensão compatível, não nova divergência
+
+As duas teses **não contradizem** Kardec. LE q. 202 diz que ao Espírito "isso pouco lhe importa" — o que descreve a **regra geral** (a alternância é pedagógica e não preferencial). Emmanuel descreve **cenários particulares** dentro desse quadro: certos casos em que, por reparação ou missão, a escolha do sexo deixa de ser indiferente. A relação é de gênero/espécie, não de contradição.
+
+A diferença com Denis é qualitativa: Denis **estigmatiza** quem mudou; Emmanuel **explica e dignifica**. Onde Denis usa "natureza" em chave moralizada (paralela a Paulo em Rm 1:26–27), Emmanuel a usa em chave evolutiva — a "natureza" sexual humana **é** bissexual, sedimentada por milênios. Essa diferença é exatamente o que a tríade kardequiana (LE q. 200–202) prevê e autoriza.
+
+> [!note] Vocabulário datado de 1970
+> O cap. 21 abre identificando a homossexualidade como "também hoje chamada transexualidade, em alguns círculos de ciência" — equiparação terminológica que confunde fenômenos hoje reconhecidos como distintos (orientação sexual × identidade de gênero). A substância pastoral do capítulo (dignidade, igualdade de respeito, recusa da patologização) permanece atual; o vocabulário precisa de tradução. Para a sistematização do capítulo no contexto da obra, ver [[wiki/aprofundamentos/sexualidade-em-emmanuel]].
+
+### Status
+
+A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). Emmanuel é registrado aqui como **inversão pastoral** que reforça a leitura kardequiana e neutraliza, na tradição espírita brasileira, o vetor estigmatizante deniseano. Casa espírita que precise de referência interna sobre o tema pode citar diretamente *Vida e Sexo* cap. 21 sem necessidade de recorrer a autores fora da tradição.
+
 ## Conceitos relacionados
 
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/livre-arbitrio]]
+- [[wiki/conceitos/energia-sexual]] — fio conceitual transversal (Kardec + Emmanuel + André Luiz)
 - [[wiki/obras/o-problema-do-ser-e-do-destino]]
+- [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970): cap. 21 (Homossexualidade)
+- [[wiki/aprofundamentos/sexualidade-em-emmanuel]]
 - [[wiki/obras/epistola-aos-romanos]] — cap. 1:26–27 (extensão paulina da mesma estrutura argumentativa)
 - [[wiki/personalidades/paulo-de-tarso]]
+- [[wiki/personalidades/emmanuel]]
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]]
 
 ## Fontes
@@ -129,3 +165,4 @@ A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki
 - Kardec, Allan. *O Céu e o Inferno*, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11. Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 1:26–27.
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*, cap. 21 — "Homossexualidade". Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/vida-e-sexo]].

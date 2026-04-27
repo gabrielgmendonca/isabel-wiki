@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, obra/le, obra/ese, lei/reproducao]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -61,15 +61,27 @@ A igualdade numérica dos sexos indica a proporção em que devem unir-se: "tudo
 - Avaliar o celibato pela motivação: egoísmo ou serviço?
 - Reconhecer no casamento por afeto um ato de progresso, e na indissolubilidade sem afeto, uma lei só humana.
 
+## Em Emmanuel: as quatro normas (*Vida e Sexo*, 1970)
+
+Em [[wiki/obras/vida-e-sexo|Vida e Sexo]] (Uberaba, jun/1970), Emmanuel reescreve em vocabulário pastoral aplicado o regime moral da Lei de Reprodução:
+
+> "Em torno do sexo, será justo sintetizarmos todas as digressões nas normas seguintes: Não proibição, mas educação. Não abstinência imposta, mas emprego digno, com o devido respeito aos outros e a si mesmo. Não indisciplina, mas controle. Não impulso livre, mas responsabilidade." (Emmanuel / Chico Xavier, *Vida e Sexo*, Prefácio)
+
+As quatro normas operacionalizam diretamente q. 693a (regular sem opor obstáculos), q. 694 (não rebaixar à sensualidade) e q. 701 (afeto, não sensualidade). Para a sistematização completa por eixos, ver [[wiki/aprofundamentos/sexualidade-em-emmanuel]]; para o conceito transversal de **energia sexual** que articula Kardec, Emmanuel e André Luiz, ver [[wiki/conceitos/energia-sexual]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]]
 - [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/lei-de-sociedade]]
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] · [[wiki/conceitos/raca-adamica]]
+- [[wiki/conceitos/energia-sexual]] — fio conceitual que articula a Lei de Reprodução com a "carga magnética" em Emmanuel e o centro genésico em André Luiz.
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual; janela providencial da infância (LE, q. 582–583).
+- [[wiki/aprofundamentos/sexualidade-em-emmanuel]] · [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — aplicações pastorais.
+- [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970): tratado pastoral em 25 capítulos.
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. IV (q. 686–701). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXII. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/vida-e-sexo]].
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].

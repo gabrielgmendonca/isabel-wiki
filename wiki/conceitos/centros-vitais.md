@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [André Luiz/Chico Xavier]
 tags: [centros-vitais, corpo-espiritual, perispirito, psicossoma, andre-luiz, fisiologia-sutil]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-27
 status: rascunho
 ---
 
@@ -80,7 +80,7 @@ A correspondência com a fisiologia sutil de outras tradições (chakras hindus,
 
 - **Cura e passe magnético**: a aplicação do passe ([[wiki/obras/livro-dos-mediuns]], 2ª parte, cap. XIV) atua sobre os centros vitais — em especial coronário, cardíaco e gástrico — magnetizando "os milhões de agentes microscópicos a seu serviço" (parte II, cap. 15).
 - **Reforma íntima**: o equilíbrio dos centros depende da **conduta moral** — a "queda moral nos seres responsáveis opera certa lesão no hemisfério psicossomático ou perispírito, a refletir-se em desarmonia no hemisfério somático" (parte II, cap. 15).
-- **Sublimação afetiva**: o centro genésico é o eixo da sexualidade ([[wiki/aprofundamentos/sexualidade-em-andre-luiz]]) — sua disciplina ou desequilíbrio repercute em toda a economia psíquica.
+- **Sublimação afetiva**: o centro genésico é o eixo da sexualidade ([[wiki/aprofundamentos/sexualidade-em-andre-luiz]]) — sua disciplina ou desequilíbrio repercute em toda a economia psíquica. O centro genésico opera, em chave anatômica, a mesma função que Emmanuel descreve em chave magnética como "[[wiki/conceitos/energia-sexual|energia sexual]]" e "circuito de forças" entre parceiros (*Vida e Sexo*, caps. 5–6).
 - **Prevenção da obsessão**: vigilância do centro coronário pela elevação mental e pelo trabalho no bem.
 
 ## Páginas relacionadas
@@ -90,7 +90,8 @@ A correspondência com a fisiologia sutil de outras tradições (chakras hindus,
 - [[wiki/conceitos/mediunidade]] — faculdades como funções dos centros
 - [[wiki/conceitos/obsessao]] — vulnerabilidade dos centros
 - [[wiki/conceitos/vampirismo-espiritual]] — patologia da simbiose nos centros
-- [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — centro genésico em foco
+- [[wiki/conceitos/energia-sexual]] — função própria do centro genésico, articulada com Kardec (Lei de Reprodução) e Emmanuel
+- [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] · [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — sistematizações pastorais sobre o centro genésico
 - [[wiki/obras/evolucao-em-dois-mundos]] — fonte do conceito
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Odila/Zulmira (vampirização do coronário)
 
