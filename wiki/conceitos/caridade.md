@@ -93,6 +93,34 @@ Tiago descreve cena cotidiana: na assembleia entra um rico de anel de ouro e um 
 
 A passagem é o **paralelo apostólico direto** da [[wiki/conceitos/parabola-da-figueira-seca|parábola da figueira seca]] (ESE cap. XIX): a árvore se conhece pelos frutos, a fé pela caridade efetiva. "Ide em paz, aquentai-vos, e fartai-vos" é a piedade que se dispensa do ato — descrita por Tiago como **autoengano religioso**. Ver [[wiki/obras/epistola-de-tiago]] e [[wiki/conceitos/fe]].
 
+## Caridade na Primeira Epístola de João: "Deus é amor"
+
+A [[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]] formula a tese mais sintética do NT sobre a caridade — e é, nessa medida, **convergência direta** com o eixo kardequiano de ESE cap. XV.
+
+### "Deus é amor" como definição substantiva (1 Jo 4:7–8, 16)
+
+> "Aquele que não ama não conhece a Deus; porque **Deus é amor**." (1 Jo 4:8)
+
+> "E nós conhecemos, e cremos no amor que Deus nos tem. **Deus é amor**; e quem está em amor está em Deus, e Deus nele." (1 Jo 4:16)
+
+A fórmula joanina **não diz** que Deus tem amor ou que ama — diz que Deus **é** amor: a substância do agir divino. Em chave kardequiana, é o reverso operacional da máxima "fora da caridade não há salvação" (ESE cap. XV): conhecer Deus se mede pela prática efetiva do amor ao próximo. Quem ama **conhece** Deus — não em sentido especulativo, mas em sentido **moral e existencial**. Convergência total com LE q. 13 (Deus como soberana bondade) e com a [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
+
+Sobre o vocabulário: a ACF traduz como **"amor"** o mesmo *agape* grego que Kardec, seguindo a Vulgata e o francês Segond, cita como **"caridade"** (cf. nota filológica acima). Em 1 João, *agape* aparece ~50 vezes em 105 versículos — a carta é, no NT, **a mais densa em vocabulário do amor**.
+
+### "Quem ama a Deus, ame também a seu irmão" (1 Jo 4:19–21)
+
+> "Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é mentiroso. Pois quem não ama a seu irmão, ao qual viu, como pode amar a Deus, a quem não viu? E dele temos este mandamento: que quem ama a Deus, ame também a seu irmão." (1 Jo 4:20–21)
+
+João radicaliza ao plano da **psicologia moral** o que Tiago formulou como "fé sem obras é morta" (Tg 2:17). O argumento é estrutural: o amor a Deus, por ser invisível, não pode ser **falsificado** isoladamente; o amor ao irmão é teste **verificável** — e, sem ele, a profissão de amor a Deus é mentira. Convergência direta com Mt 25:31–46 (o juízo das nações pela caridade efetiva ao "menor destes meus irmãos") e com a tese kardequiana de que a religiosidade autêntica se afere pela prática moral horizontal (ESE cap. XV; LE q. 886).
+
+### Amar por obra, não por palavra (1 Jo 3:17–18)
+
+> "Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como estará nele o amor de Deus? Meus filhinhos, **não amemos de palavra, nem de língua, mas por obra e em verdade**." (1 Jo 3:17–18)
+
+Passagem **paralela direta** de Tg 2:14–17 ("se o irmão ou a irmã estiverem nus [...] e não lhes derdes as coisas necessárias para o corpo"). O amor sentimental que se dispensa do ato é descrito como **autoengano**. Kardec retoma exatamente em ESE cap. XIII, item 4: "a verdadeira caridade não consiste apenas no ato de dar esmola, mas na benevolência, na indulgência e no perdão" — e no item 7 detalha que o sentimento sem ato é insuficiente. Para o estudo espírita, é texto programático para o atendimento fraterno e o trabalho assistencial das casas espíritas.
+
+Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo da carta e [[wiki/divergencias/sangue-expiatorio-em-1-joao]] para a leitura kardequiana das passagens expiacionistas (1 Jo 1:7; 2:2; 4:10).
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec eleva a caridade a **critério absoluto de julgamento** entre espíritas. Propõe a dupla divisa: "Fora da caridade não há salvação" e "Fora da caridade não há verdadeiros espíritas". A caridade é apresentada como base indispensável de qualquer reforma social: sem ela, os sistemas utópicos materialistas fracassam, pois lhes falta o elemento moral.
@@ -116,6 +144,7 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 - [[wiki/obras/atos-dos-apostolos]] — comunhão de bens (At 2; 4); "dar do que receber" (At 20:35)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 13 (hino paulino à caridade/amor)
 - [[wiki/obras/epistola-de-tiago]] — Tg 1:27 (viúvas e órfãos); Tg 2:1–17 (acepção de pessoas; fé sem obras é morta)
+- [[wiki/obras/primeira-epistola-de-joao]] — "Deus é amor" (1 Jo 4:7–21); amar por obra (1 Jo 3:17–18)
 
 ## Fontes
 

@@ -4,6 +4,27 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-27] lint | Correção pós-ingest da Primeira Epístola de João
+
+7 achados resolvidos: (1–5) cinco wikilinks quebrados em `wiki/obras/primeira-epistola-de-joao.md` apontando para conceitos não criados (`futuro-do-espirito`, `reforma-intima`, `consciencia`, `comunhao-com-deus`) — removidos os links e ressalvas do tipo "na medida em que essa página exista", com redirecionamento para `progresso-espiritual` e `homem-de-bem` quando equivalentes; (6–7) `wiki/personalidades/joao-apostolo` e `wiki/divergencias/sangue-expiatorio-em-1-joao` adicionados ao catálogo. Restam 5 `rascunho_stale` pré-existentes (de 2026-04-07), ignorados.
+
+## [2026-04-27] ingest | Primeira Epístola de João (Bíblia ACF, 5 capítulos)
+
+Ingerida `raw/biblia-acf/1-joao/` (5 capítulos da carta apostólica do corpus joanino). Criada `wiki/obras/primeira-epistola-de-joao.md` como nível 3, com cinco eixos doutrinários articulados ao Pentateuco: (1) "Deus é amor" (1 Jo 4:8, 16) como reverso operacional de "fora da caridade não há salvação" (ESE cap. XV); (2) "provai os espíritos" (1 Jo 4:1–6) como base escritural matriz do método espírita de discernimento (LM cap. XXIV; ESE cap. XXI); (3) Espírito de Verdade vs. espírito do erro (1 Jo 4:6) com identidade joanina-kardequiana via Prolegômenos do ESE; (4) amor ao irmão como prova do amor a Deus (1 Jo 4:20–21); (5) filiação divina como progresso indefinido (1 Jo 3:1–3 — "ainda não é manifestado o que havemos de ser"). Estrutura por capítulo, tabela completa de cross-refs e três notas interpretativas (linguagem expiacionista, Comma Joanina como interpolação tardia, "última hora" reorientada à transição planetária).
+
+**Divergência aberta:** [[wiki/divergencias/sangue-expiatorio-em-1-joao]] sobre 1 Jo 1:7; 2:2; 4:10 (sangue purificador / propiciação) — divergência real e estrutural com a teologia da satisfação (Anselmo) e da justificação penal substitutiva (Calvino), reconciliada com a leitura crítica moderna (Brown, Smalley) que identifica a linguagem como cultual-metafórica, não jurídica.
+
+Páginas criadas (3):
+1. [[wiki/obras/primeira-epistola-de-joao]] — página da obra (campo `direitos: dominio-publico`).
+2. [[wiki/personalidades/joao-apostolo]] — apóstolo e evangelista; "discípulo amado"; signatário dos Prolegômenos do ESE; corpus joanino articulado (Quarto Evangelho + 3 epístolas + Apocalipse).
+3. [[wiki/divergencias/sangue-expiatorio-em-1-joao]] — divergência aberta sobre expiação vicária; análise estrutural e comparativa com posição kardequiana de reparação pessoal.
+
+Atualizados (consolidação):
+- [[wiki/conceitos/discernimento-dos-espiritos]] — parágrafo sobre o "espírito de Verdade vs. espírito do erro" articulando 1 Jo 4:6 ↔ Jo 14:16–17 ↔ Espírito de Verdade dos Prolegômenos; link para nova obra e personalidade.
+- [[wiki/conceitos/caridade]] — seção "Caridade na Primeira Epístola de João: Deus é amor" (1 Jo 4:7–21; 3:17–18) articulada à máxima de ESE cap. XV.
+- [[wiki/sinteses/catalogo.md]] — obra adicionada em "Escritos apostólicos (nível 3)" após Tiago.
+- `index.md` recalculado via `update_status.py` (obras 32→33, divergências 12→13, personalidades 97→98, total 296→299).
+
 ## [2026-04-27] lint | Correção pós-ingest de Epístola de Tiago
 
 2 achados resolvidos: (1) wikilink quebrado em `epistola-de-tiago.md:34` apontando para `wiki/obras/livre-arbitrio` em vez de `wiki/conceitos/livre-arbitrio`, corrigido manualmente; (2) tag `obra/ese` ausente em `personalidades/abraao.md` apesar de `fontes: [NT, ESE]`, regerada via `scripts/enrich_tags_obra.py`. Restam 5 `rascunho_stale` pré-existentes (de 2026-04-07), ignorados a pedido.

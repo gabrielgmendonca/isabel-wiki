@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE, NT]
 tags: [discernimento, identificacao, mediunidade, espiritos, critica, obra/lm, obra/ese]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -98,6 +98,10 @@ João oferece critério cristológico:
 
 Kardec preserva a **substância moral** desse critério: é Espírito de Deus quem reconhece a missão redentora do Cristo e se alinha à sua moral. Não importa a confissão ritual ou a assinatura — importa o alinhamento com a moral evangélica (ESE, cap. XXI, itens 9–10).
 
+A figura do **espírito da verdade vs. espírito do erro** (1 Jo 4:6) que João formula em seguida — "Nisto conhecemos nós o espírito da verdade e o espírito do erro" — é, para Kardec, o **mesmo Espírito de Verdade** prometido em Jo 14:16–17 como Consolador, e signatário central dos Prolegômenos do ESE. A continuidade vocabular sustenta a leitura kardequiana do Espiritismo como cumprimento da promessa joanina (cf. [[wiki/conceitos/tres-revelacoes]]; [[wiki/personalidades/espiritos-reveladores]]).
+
+Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo de 1 Jo 4:1–6 dentro do conjunto da carta.
+
 ### Jesus — "falsos cristos e falsos profetas"
 
 > "Porque se levantarão falsos cristos e falsos profetas, e farão grandes sinais e prodígios; de maneira que, se possível fora, enganariam até os escolhidos." (Mt 24:24, paralelo Mc 13:22)
@@ -152,7 +156,9 @@ Nenhuma divergência registrada entre Kardec e as fontes neotestamentárias cent
 - [[wiki/obras/livro-dos-mediuns]] — 2ª parte, caps. XXIV e XXVI
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXI ("Haverá falsos cristos e falsos profetas")
 - [[wiki/obras/primeira-epistola-aos-corintios]] — 12:10; 14:29, 32–33
+- [[wiki/obras/primeira-epistola-de-joao]] — 4:1–6 (provai os espíritos; espírito de Verdade vs do erro)
 - [[wiki/personalidades/paulo-de-tarso]]
+- [[wiki/personalidades/joao-apostolo]]
 
 ## Fontes
 

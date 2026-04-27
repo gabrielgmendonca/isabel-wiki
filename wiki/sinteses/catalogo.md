@@ -40,6 +40,7 @@ index: false
 - [[wiki/obras/primeira-epistola-aos-corintios]] — Paulo (54–55 d.C., 16 capítulos). Carta pastoral de correção à comunidade de Corinto: divisões e sabedoria do mundo, casos morais, catálogo dos dons espirituais (cap. 12), hino à caridade (cap. 13), disciplina das reuniões mediúnicas (cap. 14), corpo espiritual e ressurreição (cap. 15). Fonte de divergências sobre celibato (1 Co 7) e silêncio das mulheres (1 Co 11; 14).
 - [[wiki/obras/epistola-aos-hebreus]] — atribuída a Paulo, autoria discutida (c. 60–69 d.C., 13 capítulos). Homilia erudita a cristãos de origem judaica: Cristo superior a anjos, Moisés e sumo sacerdote levítico; sacerdócio "segundo a ordem de Melquisedeque" (caps. 5–7); nova aliança com lei no coração (Hb 8:10); galeria da fé (cap. 11); correção do "Pai dos espíritos" (Hb 12:5–11); anjos como "espíritos ministradores" (Hb 1:14). Divergências sobre "uma morte e depois o juízo" (Hb 9:27) e irrecuperabilidade dos recaídos (Hb 6:4–6; 10:26–27).
 - [[wiki/obras/epistola-de-tiago]] — Tiago, irmão do Senhor (c. 45–62 d.C., 5 capítulos). Carta apostólica mais convergente com Kardec — homilia moral judaico-cristã com paralelos contínuos ao Sermão da Montanha. Tese central "fé sem obras é morta" (Tg 2:17), "lei real" e "lei perfeita da liberdade" (Tg 1:25; 2:8, 12), "Deus a ninguém tenta" (Tg 1:13), domínio da língua (Tg 3:1–12), sabedoria do alto vs. terrena/animal/diabólica (Tg 3:13–18), prece pelos doentes (Tg 5:13–18). Sem divergências fortes; notas interpretativas sobre "vinda do Senhor" (Tg 5:7–8) e unção com azeite (Tg 5:14).
+- [[wiki/obras/primeira-epistola-de-joao]] — Apóstolo João (c. 90–100 d.C., 5 capítulos). Homilia pastoral do corpus joanino. Eixos: "Deus é amor" (1 Jo 4:8, 16); "provai os espíritos" (1 Jo 4:1) — base escritural matriz do método espírita de discernimento, citada por Kardec em ESE cap. XXI; "ainda não é manifestado o que havemos de ser" (1 Jo 3:2) — convergência forte com o progresso indefinido; amor por obra, não por palavra (1 Jo 3:17–18). Divergência aberta sobre linguagem expiacionista (1 Jo 1:7; 2:2; 4:10) — sangue/propiciação vs. lei de causa e efeito. Notas: Comma Joanina (5:7) como interpolação tardia; "última hora" (2:18) reorientada à transição planetária.
 
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
@@ -178,6 +179,7 @@ index: false
 - [[wiki/personalidades/melquisedeque]] — rei de Salém e sacerdote do Deus Altíssimo (Gn 14:18–20); prefigura em Hebreus 7 o sacerdócio eterno de Cristo.
 - [[wiki/personalidades/abraao]] — patriarca-fundador de Israel (Gn 12–25); "amigo de Deus"; exemplo paradigmático de fé que coopera com obras (Tg 2:21–23; Hb 11:8–19; Rm 4); na chave kardequiana, Espírito da raça adâmica (Gênese, cap. XI).
 - [[wiki/personalidades/tiago-irmao-do-senhor]] — Tiago, o Justo, líder da Igreja primitiva de Jerusalém (At 12, 15, 21); presidiu o concílio apostólico (At 15); martirizado em 62 d.C. (atestado por Flávio Josefo); autor tradicional da Epístola de Tiago.
+- [[wiki/personalidades/joao-apostolo]] — apóstolo do círculo íntimo de Jesus, "discípulo amado"; testemunha da paixão e da ressurreição; autor tradicional do Quarto Evangelho, das três Epístolas Joaninas e do Apocalipse; signatário dos Prolegômenos do ESE.
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -343,6 +345,7 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — subordinação e silêncio feminino no culto (1 Co 11:3–16; 14:34–35) vs. igualdade dos sexos e mediunidade universal (LE, q. 817–822). Status: aberta.
 - [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — "aos homens está ordenado morrerem uma vez, vindo depois disso o juízo" (Hb 9:27) vs. pluralidade das existências (LE, q. 166–222; ESE cap. IV). Status: aberta.
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — impossibilidade de renovação após recaída voluntária (Hb 6:4–6; 10:26–27) vs. misericórdia infinita e progresso indefinido (LE, q. 1009–1016; C&I, 1ª parte, caps. VI–VII). Status: aberta.
+- [[wiki/divergencias/sangue-expiatorio-em-1-joao]] — sangue purificador / propiciação (1 Jo 1:7; 2:2; 4:10) vs. responsabilidade individual e reparação pessoal (LE, q. 636, q. 1009; ESE cap. XV). Status: aberta.
 
 ## Fontes
 
