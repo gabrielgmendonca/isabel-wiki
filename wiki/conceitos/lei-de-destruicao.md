@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
+fontes: [LE, André Luiz/Chico Xavier]
 tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -28,6 +28,12 @@ Deus dispõe de muitos meios para fazer a Humanidade progredir — os flagelos s
 
 Quem suscita guerra para proveito próprio é "grande culpado" e muitas existências lhe serão necessárias para expiar os assassínios de que foi causa (LE, q. 745).
 
+### Vista do plano espiritual (André Luiz / *Nosso Lar*)
+
+Em *Nosso Lar* (1944, redigido em plena Segunda Guerra), André Luiz registra como a guerra é vista do outro lado. No cap. 24, o receptor da Governadoria capta o apelo da colônia "Moradia": "**Negras falanges da ignorância, depois de espalharem os fachos sanguinários da guerra na Ásia, cercam as nações europeias, impulsionando-as a novos crimes.**" No cap. 42, o **Governador** discursa abrindo Mt 24:6 ("ouvireis falar de guerras e de rumores de guerras"): "Nosso Lar precisa de trinta mil servidores adestrados no serviço defensivo... não podemos esperar o adversário em nossa morada espiritual." A colônia mobiliza um exército de socorristas, justificando a militância como caridade aplicada — "todo crime como enfermidade d'alma".
+
+O Ministro Benevenuto, recém-chegado da Polônia (cap. 43), descreve o teatro de operações invisível: "verdadeiro inferno de indescritíveis proporções"; militares agressores que ao desencarnar, "**dominados, na maioria, por forças tenebrosas, fugiam dos Espíritos missionários, chamando-lhes a todos 'fantasmas da cruz'**". Dimensão concreta do princípio kardequiano de q. 745: a guerra recolhe seus próprios coveiros — quem matou em estado de ódio, ao morrer encontra-se preso ao mesmo ódio do outro lado, reforçando a fileira de "almas decaídas, apresentando características essencialmente diabólicas". Ver [[wiki/obras/nosso-lar]].
+
 ## Crueldade e infanticídio
 
 O desenvolvimento intelectual **não implica necessariamente** a prática do bem; um Espírito pode ser superior em inteligência e mau ao mesmo tempo (LE, q. 751). Mesmo na mais adiantada civilização há seres cruéis — "lobos extraviados em meio de cordeiros" (LE, q. 755).
@@ -39,7 +45,9 @@ O desenvolvimento intelectual **não implica necessariamente** a prática do bem
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-conservacao]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-do-progresso]]
+- [[wiki/obras/nosso-lar]] — guerra mundial vista do plano espiritual (caps. 24, 42, 43)
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. VI (q. 728–765). Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 24, 42, 43. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].

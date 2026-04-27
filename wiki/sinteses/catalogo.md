@@ -67,6 +67,7 @@ index: false
 - [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970). Tratado pastoral em 25 capítulos sobre o ciclo afetivo–sexual humano à luz da Doutrina: energia genésica, família, casamento, divórcio, aborto, homossexualidade (cap. 21 com tom respeitoso/igualitário), abstinência, conclusão pastoral.
 
 #### André Luiz / Chico Xavier
+- [[wiki/obras/nosso-lar]] — André Luiz/Chico Xavier (1944). 1º livro da série. Despertar nas zonas inferiores do Umbral, internação na colônia espiritual, topologia em seis Ministérios e Governadoria, sistema do bônus-hora, suicídio inconsciente, defesa da colônia em tempo de guerra mundial. 50 capítulos. **(rascunho)**
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz/Chico Xavier (1954). 8º livro da série. Obsessão de Zulmira por Odila (ciúme e remorso), conversão pela Irmã Clara, reencarnação de Júlio como suicida reencarnado. Mecânica fluídica da gravidez, prece × invocação, hereditariedade relativa. 40 capítulos. **(rascunho)**
 - [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz/Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade e centro genésico, mediunidade como função dos centros, religiões como higiene da alma. **(rascunho)**
 
@@ -89,6 +90,9 @@ index: false
 - [[wiki/conceitos/alma]] — Espírito encarnado.
 - [[wiki/conceitos/escala-espirita]] — classificação em três ordens.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — LE, q. 55–58.
+- [[wiki/conceitos/colonia-espiritual]] — André Luiz: agrupamento organizado de Espíritos em zona de transição vizinha da Terra; "Nosso Lar" como caso paradigmático.
+- [[wiki/conceitos/umbral]] — André Luiz: faixa purgatorial logo acima da crosta terrestre, articulada com os Espíritos sofredores de C&I.
+- [[wiki/conceitos/bonus-hora]] — André Luiz: ficha de tempo de serviço útil, padrão único de remuneração na colônia espiritual; aplicação narrativa da Lei do Trabalho.
 
 ### Princípio vital e fluidos
 - [[wiki/conceitos/principio-vital]] — fluido vital, elo entre espírito e matéria (LE, q. 60–75; Gênese, cap. X).
@@ -165,6 +169,7 @@ index: false
 - [[wiki/personalidades/emmanuel]] — Emmanuel, Espírito comunicante, guia espiritual de Chico Xavier.
 - [[wiki/personalidades/andre-luiz]] — André Luiz, Espírito comunicante via Chico Xavier; autor da série "Nosso Lar" (romances-relatório do plano espiritual).
 - [[wiki/personalidades/clarencio]] — Ministro do Templo do Socorro em *Entre a Terra e o Céu* (André Luiz).
+- [[wiki/personalidades/lisias]] — visitador dos serviços de saúde do Ministério do Auxílio em *Nosso Lar*; instrutor inicial de André Luiz.
 - [[wiki/personalidades/irma-clara]] — mensageira de 22 séculos, modelo de desobsessão pela ternura maternal (*Entre a Terra e o Céu*).
 - [[wiki/personalidades/odila]] — personagem de *Entre a Terra e o Céu*: obsessora por ciúme, redimida pelo apelo maternal.
 - [[wiki/personalidades/zulmira]] — personagem de *Entre a Terra e o Céu*: obsidiada por culpa, mãe reparadora de Júlio.

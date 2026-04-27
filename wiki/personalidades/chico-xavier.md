@@ -33,6 +33,7 @@ Em Pedro Leopoldo, Chico psicografou trinta páginas de [[wiki/personalidades/me
 Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citação `Autor espiritual / Médium`):
 
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel / Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo.
+- [[wiki/obras/nosso-lar]] — André Luiz / Chico Xavier (1944). 1º volume da série André Luiz; despertar no Umbral, topologia da colônia espiritual, sistema do bônus-hora, suicídio inconsciente.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz / Chico Xavier (1954). 8º volume da série André Luiz; obsessão por sintonia de remorso e desobsessão envolvente.
 - [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz / Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos) sobre o corpo espiritual: anatomia do psicossoma, sete centros vitais, simbiose e vampirismo, sexualidade, mediunidade, religiões.
 - [[wiki/obras/vida-e-sexo]] — Emmanuel / Chico Xavier (1970). Tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina Espírita; 25 capítulos com epígrafes do Pentateuco.
@@ -71,6 +72,7 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].

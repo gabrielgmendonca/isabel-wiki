@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
-tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, obra/ese, lei/trabalho]
-atualizado_em: 2026-04-19
+fontes: [LE, ESE, André Luiz/Chico Xavier]
+tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, obra/ese, lei/trabalho, bonus-hora]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -60,6 +60,12 @@ O velho tem direito a repousar (LE, q. 685). Quando precisa trabalhar e não pod
 
 "Ajuda-te a ti mesmo e o céu te ajudará" (ESE, cap. XXV) traduz no plano moral a Lei do Trabalho: Deus dá o meio, não o resultado pronto. A parábola dos trabalhadores da última hora (ESE, cap. XX) ensina que a recompensa mede-se pelo esforço, não pela duração.
 
+## Trabalho como economia espiritual (André Luiz / *Nosso Lar*)
+
+Em *Nosso Lar* (1944), o sistema do **bônus-hora** (cap. 22) ilustra a Lei do Trabalho em forma narrativa: na colônia espiritual, ninguém é remunerado por título, hierarquia ou afeição — só pelo tempo de serviço útil registrado. Quem só recebe abrigo, alimenta-se do mínimo; quem trabalha conquista casa própria, escolas, intercessão por amados. É a contrapartida cosmológica de LE, q. 678 ("a ociosidade seria um suplício") e LE, q. 679 (riqueza não dispensa do dever de ser útil).
+
+A lição-paradigma vem no diálogo de Clarêncio com a mãe queixosa (cap. 13): ela pede para auxiliar os filhos terrestres, mas só acumulou 304 bônus-hora em mais de seis anos e recusou cinco designações sucessivas. Clarêncio sentencia: "**Os que não cooperam não recebem cooperação. Isso é da lei eterna.**" Aplicação direta do princípio kardequiano de que "o forte deve trabalhar para o fraco" (q. 685a) — mas, simetricamente, quem não semeou, não tem direito de cobrar a colheita alheia. Ver [[wiki/conceitos/bonus-hora]] e [[wiki/obras/nosso-lar]].
+
 ## Aplicação prática
 
 - Reconhecer ocupação útil — intelectual, moral, doméstica, assistencial — como trabalho legítimo.
@@ -72,9 +78,11 @@ O velho tem direito a repousar (LE, q. 685). Quando precisa trabalhar e não pod
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/lei-de-sociedade]] · [[wiki/conceitos/lei-do-progresso]]
 - [[wiki/conceitos/provas-e-expiacoes]] · [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]]
+- [[wiki/conceitos/bonus-hora]] · [[wiki/obras/nosso-lar]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. III (q. 674–685). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XX, cap. XXV. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 13 e 22. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
