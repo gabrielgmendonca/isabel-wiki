@@ -4,6 +4,33 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-27] lint | Correção pós-ingest de Epístola de Tiago
+
+2 achados resolvidos: (1) wikilink quebrado em `epistola-de-tiago.md:34` apontando para `wiki/obras/livre-arbitrio` em vez de `wiki/conceitos/livre-arbitrio`, corrigido manualmente; (2) tag `obra/ese` ausente em `personalidades/abraao.md` apesar de `fontes: [NT, ESE]`, regerada via `scripts/enrich_tags_obra.py`. Restam 5 `rascunho_stale` pré-existentes (de 2026-04-07), ignorados a pedido.
+
+## [2026-04-27] ingest | Epístola de Tiago (Bíblia ACF, 5 capítulos)
+
+Ingerida `raw/biblia-acf/tiago/` (5 capítulos da carta apostólica). Criada `wiki/obras/epistola-de-tiago.md` como nível 3, com cinco eixos doutrinários articulados ao Pentateuco: fé viva = obras (Tg 2:14–26 ↔ ESE caps. XV/XIX), origem da tentação interna ao ser (Tg 1:13–15 ↔ LE q. 843; Gênese cap. III), lei real / lei perfeita da liberdade (Tg 1:25; 2:8, 12 ↔ LE q. 873–892, q. 825–872), domínio da língua (Tg 3:1–12 ↔ ESE cap. X), sabedoria do alto vs. terrena/animal/diabólica (Tg 3:13–18 ↔ LE q. 100–113 — escala espírita reduzida em vocabulário judaico-cristão). Estrutura por capítulo, tabela completa de cross-refs e três notas interpretativas (vinda do Senhor em Tg 5:7–8, unção com azeite em Tg 5:14, tensão Paulo/Tiago sobre fé e obras) — **sem divergências formais novas**. Tiago é, na avaliação espírita, a carta apostólica mais convergente com Kardec.
+
+Páginas criadas (4):
+1. [[wiki/obras/epistola-de-tiago]] — página da obra (campo `direitos: dominio-publico`).
+2. [[wiki/personalidades/tiago-irmao-do-senhor]] — autor; distinto dos dois apóstolos homônimos do círculo dos doze; líder de Jerusalém, presidiu o concílio de At 15; martírio em 62 d.C. atestado por Flávio Josefo.
+3. [[wiki/personalidades/abraao]] — patriarca-fundador de Israel; "amigo de Deus"; exemplo paradigmático em Tg 2, Hb 11 e Rm 4. Na chave kardequiana, Espírito da raça adâmica (Gênese cap. XI).
+4. [[wiki/conceitos/nao-julgar]] — preceito moral articulando ESE cap. X ("Bem-aventurados os misericordiosos"), o Sermão da Montanha (Mt 7:1–5), o Sermão da Planície (Lc 6:37), Rm 14, Tg 4:11–12 e a passagem da mulher adúltera (Jo 8:1–11) com a distinção kardequiana entre julgar (proibido) e censurar fraternalmente (devido).
+
+Atualizados (consolidação):
+- [[wiki/conceitos/fe]] — seção "A leitura matriz: Tiago 2" (fé que os demônios têm, Abraão como exemplo, círculo fé/obras).
+- [[wiki/conceitos/caridade]] — seção "Caridade prática em Tiago" (viúvas e órfãos Tg 1:27, acepção de pessoas Tg 2:1–9, fé sem obras Tg 2:14–17).
+- [[wiki/conceitos/humildade]] — seção "Deus resiste aos soberbos" (Tg 4:6, 10).
+- [[wiki/conceitos/livre-arbitrio]] — seção "Deus a ninguém tenta" (Tg 1:13–15, descontaminando duas leituras populares: Deus que prova arbitrariamente e Diabo-tentador-externo).
+- [[wiki/conceitos/prece]] — seção "Tiago 5: a oração do justo, a unção e Elias" + nota sobre unção com azeite + "Pedis e não recebeis porque pedis mal" (Tg 4:1–3).
+- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — seção "Lei real e lei da liberdade em Tiago" (Tg 2:8–13).
+- [[wiki/personalidades/paulo-de-tarso]] — nova seção "Complementaridade Paulo/Tiago em fé e obras"; link recíproco para Tiago e a obra.
+- [[wiki/sinteses/catalogo.md]] — obra adicionada em "Escritos apostólicos (nível 3)"; personalidades novas listadas; conceito `nao-julgar` em Virtudes/vícios.
+- `index.md` recalculado via `update_status.py` (obras 31→32, conceitos 131→132, personalidades 95→97, total 290→296).
+
+**Motivação:** continuar a cobertura do NT (item §1 do ROADMAP) seguindo a priorização sugerida — Tiago como terceira carta após Romanos e 1 Coríntios. Tiago é a paulina-irmã da moral evangélica reorganizada por Kardec no ESE; sua linguagem **satura** o cap. XV ("fora da caridade não há salvação") e o cap. XIX ("a fé transporta montanhas"). A ingestão acrescenta também duas personalidades-âncora veterotestamentárias relevantes para os próximos NT (Abraão é figura recorrente em Hb, Rm e Tg) e um conceito moral nuclear (`nao-julgar`) que será reaproveitado em qualquer estudo sobre os caps. VII–X do ESE.
+
 ## [2026-04-27] lint | Correção pós-ingest de Vida e Sexo
 
 1 falso positivo do check `citation_format` em `wiki/obras/vida-e-sexo.md:24` — a frase descrevia a estrutura editorial da obra com "epígrafe do Pentateuco (LE, ESE, LM ou OQE)", e o regex confundiu a lista-meta de siglas com uma citação real malformatada. Trocados os parênteses por travessões (`— LE, ESE, LM ou OQE —`), preservando o sentido sem mudar o regex. Lint zerado em todos os checks; restam apenas 4 `rascunho_stale` pré-existentes do cluster de 2026-04-07.

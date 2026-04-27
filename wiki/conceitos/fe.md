@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, NT]
-tags: [fe, moral, virtude, razao, religiao, hebreus, obra/ese, obra/le]
-atualizado_em: 2026-04-21
+tags: [fe, moral, virtude, razao, religiao, hebreus, tiago, fe-e-obras, obra/ese, obra/le]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -27,6 +27,24 @@ Ver [[wiki/conceitos/fe-raciocinada]] para desenvolvimento completo.
 ### Fé e obras
 
 A fé sem obras é morta — princípio reafirmado pelo Espiritismo. "Não basta crer, é preciso praticar" é ensinamento recorrente dos Espíritos superiores. A parábola da figueira seca ilustra essa relação: a árvore que não produz frutos é cortada (ESE, cap. XIX; ver [[wiki/conceitos/parabola-da-figueira-seca]]).
+
+#### A leitura matriz: Tiago 2
+
+A formulação **escritural matriz** do princípio "fé sem obras é morta" está no cap. 2 da [[wiki/obras/epistola-de-tiago|Epístola de Tiago]]. A passagem precisa de leitura cuidada porque é, com Rm 4 (Paulo sobre Abraão), um dos textos do NT mais citados — e mais mal lidos — sobre a relação entre fé e ato:
+
+> "Que aproveita se alguém disser que tem fé, e não tiver as obras? Porventura a fé pode salvá-lo? E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento quotidiano, e algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e nào lhes derdes as coisas necessárias para o corpo, que proveito virá daí? Assim também a fé, se não tiver as obras, é morta em si mesma." (Tg 2:14–17)
+
+> "Tu crês que há um só Deus; fazes bem. Também os demônios o crêem, e estremecem." (Tg 2:19)
+
+> "Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque? Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada." (Tg 2:21–22)
+
+Três pontos para a leitura espírita:
+
+1. **A fé que os demônios também têm** (2:19) é a fé como mera crença em proposições sobre Deus — assentimento intelectual sem efeito moral. Tiago a rejeita explicitamente como salvífica. Convergência total com Kardec (ESE cap. XIX, item 7): "o que caracteriza a fé verdadeira é a ação".
+2. **[[wiki/personalidades/abraao|Abraão]] como exemplo paradigmático** — o mesmo Abraão louvado por Paulo em Rm 4 como justificado pela fé. Tiago e Paulo não se contradizem; descrevem a mesma fé viva, em ângulos polêmicos opostos: Paulo contra o legalismo judaizante (que pretendia justificar pelas "obras da Lei"), Tiago contra o fideísmo desencarnado (que pretendia justificar por mera profissão verbal). A mesma fé, dois alvos polêmicos.
+3. **"A fé cooperou com as suas obras, e pelas obras a fé foi aperfeiçoada"** (2:22) — a relação fé/obra não é cronológica (primeiro fé, depois obra) nem competitiva (qual delas justifica?), mas **circular e construtiva**: a fé suscita o ato, e o ato confirma e aprofunda a fé. É a mesma chave da [[wiki/conceitos/parabola-da-figueira-seca|parábola da figueira seca]] (ESE cap. XIX) — a árvore *é* sua frutificação.
+
+Ver [[wiki/obras/epistola-de-tiago]] para análise completa da carta e [[wiki/personalidades/tiago-irmao-do-senhor]] para o autor.
 
 ### Fé como motor do progresso
 
@@ -60,6 +78,7 @@ A fé é ponto de partida para qualquer estudo espírita sério. Nas palestras, 
 - [[wiki/conceitos/caridade]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/obras/epistola-aos-hebreus]] — Hb 11:1, 6 (definição matriz da fé; galeria dos patriarcas)
+- [[wiki/obras/epistola-de-tiago]] — Tg 2:14–26 (fé sem obras é morta)
 
 ## Fontes
 

@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, obra/ese]
-atualizado_em: 2026-04-21
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -24,6 +24,17 @@ No Espiritismo, Paulo é figura **seletivamente citada** por Kardec:
 - **Caridade** (1 Co 13:4–7) — síntese comentada em ESE, cap. XV.
 
 Ao mesmo tempo, Kardec **reserva-se** quanto a Paulo em pontos doutrinários: a predestinação absoluta (Rm 9), a condenação dos incrédulos e algumas formulações sobre a mulher/casamento são filtradas pelo critério do Pentateuco e pela moral de Jesus.
+
+### Complementaridade Paulo / Tiago em fé e obras
+
+A leitura literalista vê **contradição** entre Rm 3:28 ("o homem é justificado pela fé sem as obras da lei") e Tg 2:24 ("o homem é justificado pelas obras, e não somente pela fé"). A leitura espírita harmoniza:
+
+- **Paulo** ataca a justificação pelas **obras da Lei** (circuncisão, sábado, dietas) que pretendem **substituir** a fé. Sua polêmica é contra o **legalismo judaizante**, não contra a caridade. A fé que Paulo louva em [[wiki/personalidades/abraao|Abraão]] (Rm 4) é **fé viva**, não assentimento intelectual.
+- **Tiago** ataca a fé como **mero assentimento intelectual** que se dispensa de produzir obras — daí "também os demônios crêem" (Tg 2:19). Sua polêmica é contra o **fideísmo desencarnado**, não contra a fé.
+
+Ambos louvam o mesmo Abraão como modelo (Rm 4 / Tg 2:21–23). Lutero, ao classificar Tiago como "epístola de palha", agudizou polemicamente uma tensão que o texto não tem. Kardec resolve naturalmente em ESE cap. XIX, item 7: **fé verdadeira é a que produz ato**; sem ato, não é fé verdadeira — qualquer que seja o vocabulário com que se a chame. Ver [[wiki/obras/epistola-de-tiago]] · [[wiki/conceitos/fe]].
+
+No plano histórico, Paulo e Tiago colaboraram diretamente: Tiago presidiu o concílio de Jerusalém (At 15) que **destravou a missão de Paulo aos gentios** sem exigir circuncisão. Paulo o reconhece como uma das "colunas" da Igreja (Gl 2:9). Não há dois cristianismos antagônicos — há **dois ângulos polêmicos** sobre a mesma fé viva.
 
 ### Nota sobre Hebreus
 
@@ -64,6 +75,8 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/epistola-aos-hebreus]] — **autoria paulina discutida** (ver nota acima); anjos como "espíritos ministradores" (1:14; 13:2), nova aliança com a lei escrita no coração (8:10), Jesus consagrado pelas aflições (2:10; 5:8), "Pai dos espíritos" e correção pedagógica (12:5–11), fé como "firme fundamento" (11:1)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
+- [[wiki/personalidades/tiago-irmao-do-senhor]] — coluna da Igreja de Jerusalém (Gl 2:9); presidiu o concílio de At 15; complementaridade Paulo/Tiago em fé e obras
+- [[wiki/obras/epistola-de-tiago]] — diálogo Rm 3–4 vs. Tg 2 sobre justificação
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
 - [[wiki/conceitos/lei-natural]] — Rm 2:14–15 (lei escrita no coração)
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Rm 13:8–10

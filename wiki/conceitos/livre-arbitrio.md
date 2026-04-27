@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, obra/le, obra/ese, lei/liberdade, lei/progresso]
-atualizado_em: 2026-04-26
+tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, tiago, tentacao, obra/le, obra/ese, lei/liberdade, lei/progresso]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -42,6 +42,21 @@ Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 ## Responsabilidade
 
 O desenvolvimento do livre-arbítrio acompanha o da inteligência e **aumenta a responsabilidade** dos atos (LE, q. 780, letra a).
+
+## "Deus a ninguém tenta": a origem da tentação em Tiago
+
+A passagem mais densa do NT sobre a **origem do mal interna ao próprio ser** está em [[wiki/obras/epistola-de-tiago|Tg]] 1:13–15:
+
+> "Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta. Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência. Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte." (Tg 1:13–15)
+
+Tiago **descontamina** simultaneamente duas leituras populares incompatíveis com a doutrina espírita:
+
+1. **"Deus me submete a esta tentação para me provar"** — leitura herdada de uma certa exegese do "não nos deixes cair em tentação" do Pai-Nosso e de passagens do AT como a prova de Abraão (Gn 22). Tiago a recusa em termos absolutos: "Deus a ninguém tenta". A prova existe (cf. ESE cap. V; LE q. 258, 851), mas é **provida pelo próprio Espírito antes de encarnar** (livre-arbítrio na escolha das provas) ou **emerge das circunstâncias da vida** — não é estímulo arbitrário do Pai querendo testar a criatura.
+2. **"O Diabo me tentou"** — leitura herdada da demonologia popular, em que uma entidade externa malévola carrega a responsabilidade pelas quedas morais. Tiago a recusa pela raiz: "cada um é tentado, quando atraído e engodado pela sua própria concupiscência". A tentação **brota de dentro**, da imperfeição ainda não dominada do próprio ser. Pode haver, sim, ação obsessiva de Espíritos inferiores que se aproveitam dessa concupiscência (cf. LM cap. XXIII), mas **a iniciativa é interna**: sem inclinação imperfeita prévia, não há porta para a obsessão (cf. [[wiki/conceitos/obsessao]]).
+
+A descrição do ciclo concupiscência → pecado → morte (1:14–15) é **psicologia moral**, não dogmática. É exatamente o ciclo que Kardec sistematizará em [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] aplicada à vida moral: o desejo não dominado gera ato, e o ato gera consequência espiritual. Convergência total com LE q. 621 ("a lei está escrita na consciência") e com a doutrina da [[wiki/conceitos/origem-do-mal|origem do mal]] como ausência do bem (Gênese cap. III) — não há substância maligna autônoma, há **estágios imperfeitos do livre-arbítrio**.
+
+Para o estudo espírita, Tg 1:13–15 é texto-base ao tratar com pessoas em sofrimento moral que projetam responsabilidade no exterior ("o demônio me induziu", "Deus me prova com isto"). O preceito kardequiano é exatamente o de Tiago: **a porta do mal abre por dentro**.
 
 ## Formulação paulina: "cada um dará conta de si mesmo"
 

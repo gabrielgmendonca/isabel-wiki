@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [ESE, LE]
-tags: [prece, oracao, transmissao-do-pensamento, obra/ese, obra/le, lei/adoracao]
-atualizado_em: 2026-04-26
+fontes: [ESE, LE, NT]
+tags: [prece, oracao, transmissao-do-pensamento, tiago, prece-pelos-doentes, obra/ese, obra/le, lei/adoracao]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -33,6 +33,31 @@ Kardec insiste na prece sincera, compreensível e sentida: "Uma prece inteligív
 ### Prece pelos mortos e pelos doentes
 
 A prece pelos desencarnados traz-lhes consolação e alívio: "A prece pode efetivamente concorrer para aliviar e abreviar os sofrimentos do Espírito imperfeito" (ESE, cap. XXVII, item 18). A prece pelos doentes age pela mesma via — fortalece o Espírito do enfermo e atrai a assistência espiritual.
+
+#### Tiago 5: a oração do justo, a unção e Elias
+
+A formulação **escritural matriz** sobre a prece pelos doentes está no fechamento da [[wiki/obras/epistola-de-tiago|Epístola de Tiago]]:
+
+> "Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores. Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor; e a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados. Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis. **A oração feita por um justo pode muito em seus efeitos.**" (Tg 5:13–16)
+
+Três aproveitamentos para o estudo espírita:
+
+1. **Prece pelos doentes como prática direta da assembleia.** "Chame os presbíteros [...] e orem sobre ele" descreve oração coletiva em torno do enfermo — convergente com o passe e a prece concentrada nas casas espíritas (LM 2ª parte cap. XIV; Gênese cap. XIV, sobre ação fluídica). A "oração da fé" (5:15) opera por **transmissão de pensamento** (ESE cap. XXVII, item 9) e radiação fluídica do orante ao paciente.
+2. **Confissão mútua, não sacerdotal** (5:16). "Uns aos outros" — não a um intermediário ordenado. A prática que Tiago descreve é **fraterna**, anterior à institucionalização sacramental que viria séculos depois. Convergência com [[wiki/conceitos/humildade|humildade]] e diálogo entre irmãos no estudo, sem mediação ritualizada.
+3. **"A oração feita por um justo pode muito em seus efeitos"** (5:16). É a base escritural matriz para a **escala moral do orante**: quanto mais elevado moralmente, mais limpa a sintonia com os Espíritos protetores e maior o efeito fluídico (cf. [[wiki/conceitos/escala-espirita]]). Tiago oferece **Elias** como exemplo — "homem sujeito às mesmas paixões que nós" (5:17) e ainda assim, quando "orou, pediu que não chovesse e, por três anos e seis meses, não choveu sobre a terra. E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto" (5:17–18). A leitura espírita: **não é Deus que muda a ordem da natureza** (ESE cap. XXVII, item 7), mas o orante atrai a ação fluídica de Espíritos que, dentro da lei, podem atuar sobre fenômenos físicos (Gênese caps. XIII–XV).
+
+> [!note] Sobre a unção com azeite (Tg 5:14)
+> A unção com óleo era prática judaica e helenística corrente do I século — usada para fins medicinais (Lc 10:34, "deitando-lhe azeite e vinho") e religiosos (Mc 6:13, os doze "ungiam com óleo a muitos enfermos e curavam-nos"). Tiago descreve aqui o rito tal como praticado nas primeiras comunidades.
+>
+> A leitura espírita preserva o **núcleo essencial** — prece pelos enfermos, ação fluídica do orante moralmente sintonizado, possibilidade de cura por concurso espiritual — e não retém o ritual da unção como necessário. Kardec não prescreve unção, mas o equivalente funcional é a **prece + passe**. A diferença é cultural, não doutrinária: o azeite consagrado é veículo simbólico do I século; o passe é veículo simbólico mais universalizável do XIX. Ver análise completa em [[wiki/obras/epistola-de-tiago]].
+
+### "Pedis, e não recebeis, porque pedis mal" (Tg 4:1–3)
+
+Tiago dá também a passagem mais clara do NT sobre o **limite da prece pedinte**:
+
+> "Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites." (Tg 4:3)
+
+Eco direto de ESE cap. XXVII, item 7 ("Deus não pode mudar a ordem da Natureza ao gosto de cada um"). A prece **não é fórmula mágica** que dobra Deus ou converte os Espíritos protetores em fornecedores de caprichos. Sua eficácia reside em **dispor o orante** a receber a influência correspondente à sintonia que cultiva — a oração transforma quem ora, antes de qualquer outra coisa.
 
 ### O que o LE ensina sobre a prece
 

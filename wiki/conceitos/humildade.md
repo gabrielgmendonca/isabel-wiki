@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [ESE, LE]
-tags: [humildade, virtude, moral, orgulho, bem-aventurancas, obra/ese, obra/le]
-atualizado_em: 2026-04-06
+fontes: [ESE, LE, NT]
+tags: [humildade, virtude, moral, orgulho, bem-aventurancas, tiago, obra/ese, obra/le]
+atualizado_em: 2026-04-27
 status: ativo
 ---
 
@@ -23,6 +23,18 @@ A humildade é companheira inseparável da caridade. Quem é verdadeiramente car
 ### Condição para receber a assistência espiritual
 
 Os Espíritos protetores auxiliam preferencialmente os humildes. O orgulhoso repele o socorro dos bons Espíritos por julgar-se autossuficiente (LE, Parte 2, cap. I, Introdução).
+
+### "Deus resiste aos soberbos, mas dá graça aos humildes" (Tg 4:6)
+
+A [[wiki/obras/epistola-de-tiago|Epístola de Tiago]] formula em uma sentença o que Kardec desenvolve em vários capítulos do ESE:
+
+> "Antes, ele dá maior graça. Portanto diz: Deus resiste aos soberbos, mas dá graça aos humildes." (Tg 4:6, citando Pv 3:34)
+
+> "Humilhai-vos perante o Senhor, e ele vos exaltará." (Tg 4:10)
+
+A imagem da "graça que Deus dá" não é arbitrário favoritismo — é, na chave espírita, **descrição da sintonia**: a humildade abre o canal aos bons Espíritos protetores; a soberba o fecha. A "humilhação" prescrita em 4:9–10 não é doloremania ou auto-flagelo, mas **lucidez moral** — o passo do penitente que vê com clareza o que precisa mudar (cf. [[wiki/conceitos/arrependimento]] em LE q. 990–1009 e C&I 1ª parte cap. VII).
+
+Convergência total com a primeira [[wiki/conceitos/bem-aventuranca-dos-pobres-de-espirito|bem-aventurança]] (Mt 5:3) e com a sequência ESE caps. VII e X. Tiago não inova doutrinariamente — apenas dá ao princípio sua **forma escritural mais lapidar**.
 
 ## Aplicação prática
 
