@@ -110,7 +110,7 @@ A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação p
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 14–15. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 14–15. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (itens 237–254). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVIII, item 83. Trad. Guillon Ribeiro. FEB.

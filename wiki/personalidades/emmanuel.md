@@ -39,4 +39,4 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].

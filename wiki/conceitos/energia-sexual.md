@@ -82,5 +82,5 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 686–701. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII, item 11 (Espírito Georges) e cap. XXII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/vida-e-sexo]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

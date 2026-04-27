@@ -139,5 +139,5 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 8, 12, 13, 14, 16, 20. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 8, 12, 13, 14, 16, 20. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 200–201, q. 358–359, q. 686–701, q. 822. Trad. Guillon Ribeiro. FEB.

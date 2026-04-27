@@ -183,7 +183,7 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1–26. Edição: [[raw/mediuns/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1–26. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 200–202, q. 358, q. 686–701, q. 817–822, q. 939. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (item 4 e 11), cap. X (itens 13 e 16), cap. XIV (itens 8 e 9), cap. XVII (itens 7 e 11), cap. XXII (item 5). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, itens 60, 167, 201, 205, 208, 291. Trad. Guillon Ribeiro. FEB.

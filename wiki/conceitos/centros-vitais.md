@@ -97,6 +97,6 @@ A correspondência com a fisiologia sutil de outras tradições (chakras hindus,
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 3, 9, 13, 15; parte II, cap. 15. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 3, 9, 13, 15; parte II, cap. 15. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Cap. 4.
 - Kardec, Allan. *A Gênese*, cap. XIV. Trad. Guillon Ribeiro. FEB.

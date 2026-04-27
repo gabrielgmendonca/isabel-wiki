@@ -95,4 +95,4 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - Kardec, Allan. *O Livro dos Espíritos*, q. 27–29, q. 65, q. 282. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. VI, itens 7–10; cap. X, item 17; cap. XIV, itens 2, 7. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
