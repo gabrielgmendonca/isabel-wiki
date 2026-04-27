@@ -161,11 +161,11 @@ Formatos além de markdown para tornar o conteúdo mais acessível.
 
 A wiki é publicada no GitHub Pages e `LICENSE-CONTENT.md` cobre apenas o conteúdo curado em `wiki/` (CC BY-NC-SA 4.0). Falta política explícita sobre o que **citamos de terceiros** — sobretudo psicografias e obras vivas do nível 3 ainda protegidas por direitos autorais. Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavier, Emmanuel, André Luiz, Bezerra de Menezes (publicações via FEB), Divaldo Franco, Joanna de Ângelis e Hammed **não** estão. A wiki é pública e cita esses autores.
 
-- [ ] **Política de citação para nível 3 protegido** — definir por escrito (em CLAUDE.md §3 ou doc própria) limites operacionais de fair-use para psicografias e obras vivas: tamanho máximo de trecho citado por página, proporção citação/comentário, quando parafrasear vs transcrever, e tratamento de obras com detentor conhecido (FEB, FEAL, FEAB, editora própria). Revisar páginas existentes contra a política.
-- [ ] **Aviso ao leitor em obras protegidas** — landing (`index.md`) e páginas em `wiki/obras/` de autores protegidos devem indicar explicitamente que trechos citados pertencem aos respectivos detentores e que o uso aqui é estudo/comentário, não substituto da obra original. Linkar onde a obra pode ser adquirida (FEB, livrarias espíritas).
-- [ ] **Frontmatter `direitos:` em obras nível 3** — campo opcional em `wiki/obras/<slug>.md` apontando detentor (`FEB`, `FEAL`, `dominio-publico`, etc.) e ano estimado de entrada em DP. Permite que `/ingest` e `/lint` tratem essas páginas com cuidado extra (alertar se trecho citado parece longo demais).
-- [ ] **Status de `raw/` no Quartz** — `raw/mediuns/` e `raw/autores/` contêm transcrições integrais de obras protegidas para uso na pipeline local (qmd, ingest). Confirmar que `ignorePatterns` do Quartz exclui essas pastas do build público e documentar a decisão (e o motivo) em CLAUDE.md.
-- [ ] **Auditoria de conteúdo gerado por LLM** — `/ingest`, `/slides` e `/stats` produzem texto que entra na wiki. Para uma base que se quer citável, distinguir "Kardec disse X (LE q. 150)" de "síntese gerada a partir de X" é tema de credibilidade, não só de processo. Opções: campo `revisao_humana:` (data) no frontmatter de páginas geradas, marcação visível em rodapé ("Síntese revisada por humano em YYYY-MM-DD"), ou seção `## Notas` em sínteses que cite explicitamente quando há paráfrase vs citação direta. Decidir o nível mínimo aceitável.
+- [x] **Política de citação para nível 3 protegido** (2026-04-27) — `CLAUDE.md` §3 documenta limites operacionais (até 400 palavras / 25% / 3 questões consecutivas, paráfrase quando exceder). Não é doc jurídico de fair-use; é guia editorial. Detentores conhecidos tabulados em `.claude/rules/convencoes-paginas.md`. Lint `check_quote_proportion` (info) marca páginas que excedem.
+- [x] **Aviso ao leitor em obras protegidas** (2026-04-27) — `scripts/inject_copyright.py` injeta callout `> [!note] Direitos autorais` no topo de cada `wiki/obras/<slug>.md` com `direitos.detentor != dominio-publico` durante o build (mesmo padrão de `link_citations.py`, sobre `/tmp/quartz/content`). Nota perene em `index.md` cobre o leitor que entra pela home. URL de aquisição (`url_aquisicao`) renderizada como link no callout quando presente.
+- [x] **Frontmatter `direitos:` em obras nível 3** (2026-04-27) — schema aninhado (`detentor`, `ano_dp_estimado`, `url_aquisicao`, `observacao`) documentado em `.claude/rules/convencoes-paginas.md`. Backfill via `scripts/backfill_direitos.py` populou as 32 obras: 23 `dominio-publico`, 4 FEB (Chico Xavier), 1 Boa-Nova (Hammed), 5 `desconhecido` (palestras). Lint `check_direitos_obras` verifica conjunto canônico (error em detentor inválido, info em ausente). Parser de frontmatter em `_lib/wiki_utils.py` foi expandido para aceitar dicts aninhados sem nova dependência.
+- [x] **Status de `raw/` no Quartz** (2026-04-27) — `quartz.config.ts` já excluía `raw/` (`ignorePatterns`); a decisão e o motivo foram documentados em `CLAUDE.md` §4 ("Build público — escopo"). Lint `check_raw_excluded` (error) trava regressão.
+- [ ] **Auditoria de conteúdo gerado por LLM** — `/ingest`, `/slides` e `/stats` produzem texto que entra na wiki. Para uma base que se quer citável, distinguir "Kardec disse X (LE q. 150)" de "síntese gerada a partir de X" é tema de credibilidade, não só de processo. Opções: campo `revisao_humana:` (data) no frontmatter de páginas geradas, marcação visível em rodapé ("Síntese revisada por humano em YYYY-MM-DD"), ou seção `## Notas` em sínteses que cite explicitamente quando há paráfrase vs citação direta. Decidir o nível mínimo aceitável. **Adiada para fase 2** — `/ingest` já tem humano-no-circuito explícito e `/stats` já marca origem em prosa; ganho marginal hoje é baixo.
 
 ---
 
@@ -177,6 +177,7 @@ Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki 
 
 - **§0 Higiene das skills e doc** (2026-04-26) — bugs em CLAUDE.md/skills, plan mode em auto mode, regra de psicografia, deduplicação de citação, etc.
 - **qmd como MCP server local (§6)** — busca semântica local (BM25 + vetorial) sobre 920 docs (`raw` + `wiki`). Já é a base de `/ingest` e queries.
+- **§8 Governança e direitos autorais — pacote 1** (2026-04-27) — política de citação operacional (CLAUDE.md §3), aviso ao leitor via transformer Python (`inject_copyright.py`) + nota em landing, frontmatter `direitos:` populado nas 32 obras, exclusão de `raw/` documentada. Auditoria de LLM (§8.5) fica para fase 2.
 
 ### Impacto alto — muda o jogo
 
@@ -185,7 +186,7 @@ Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki 
 
 ### Risco e robustez — custo baixo de mitigar, alto de não mitigar
 
-3. **Política de fair-use para nível 3 protegido (§8)** — Risco binário (takedown da FEB/FEAL, restrição de uso) com mitigação barata: uma tarde escrevendo limites operacionais e revisando páginas existentes. Não mexer aqui é apostar que ninguém com legitimidade vai notar — má aposta dada a publicação no GH Pages.
+3. ~~**Política de fair-use para nível 3 protegido (§8)**~~ — concluído em 2026-04-27 (ver bloco "Concluído" acima).
 4. **Testes do `scripts/link_citations.py` (§5)** — Pipeline crítico em CI publica links no site. Sem testes, regressão silenciosa só aparece quando o leitor reporta. Custo: uma fixture com ~10 casos-canto e um teste em CI.
 5. **Backup do que está fora do git (§5)** — `raw/`, `wiki/` e scripts já estão no git; índice qmd e estado local de hooks não. Regerar qmd do zero custa horas, não dias — então é mais documentação de checklist do que infraestrutura de backup. Vale fazer enquanto a memória do setup é fresca.
 
@@ -224,6 +225,6 @@ O roadmap é uma lista aberta. Para evitar deriva e saber quando um eixo "já en
 - **§3 Síntese** — 10 leis morais como página completa; ≥30 questões-chave do Pentateuco extraídas; ≥5 sínteses temáticas comparativas.
 - **§4 Cross-references** — todas as parábolas linkam conceitos morais que ilustram (e vice-versa); nenhuma página em `wiki/divergencias/` órfã do conceito que diverge.
 - **§5 Automação** — lint em CI verde por 30 dias consecutivos; baseline de build com alerta de regressão; testes do `link_citations.py` cobrindo casos-canto.
-- **§8 Governança** — política de fair-use escrita; nenhuma obra protegida sem campo `direitos:`; aviso ao leitor visível em todas as obras nível 3 protegidas.
+- **§8 Governança** — política de fair-use escrita ✓; nenhuma obra protegida sem campo `direitos:` ✓; aviso ao leitor visível em todas as obras nível 3 protegidas ✓. Resta `revisao_humana:` (§8.5) quando a wiki for citada por terceiros.
 
 Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
