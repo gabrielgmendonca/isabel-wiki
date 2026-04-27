@@ -58,7 +58,7 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
   6. **hebreus** — tipologia sacerdotal, fé
   7. Demais paulinas (2-coríntios, gálatas, efésios, filipenses, colossenses, 1/2-tessalonicenses, 1/2-timóteo, tito, filemom) e gerais (2-pedro, 2/3-joão, judas)
   8. **apocalipse** — usar com cautela; Kardec interpreta seletivamente na *Gênese*
-- [ ] **Expandir personalidades-âncora** — várias personalidades centrais estão como stubs (<105 palavras): Chico Xavier (88), Carlos Mendonça (61), Espíritos Reveladores (103), Joseph Brès (97), Eric Stanislas (104). Priorizar as referenciadas em 5+ páginas — completar identificação, papel doutrinário, obras associadas e citações relevantes
+- [x] **Expandir personalidades-âncora** — stubs (<105 palavras) reescritos: Chico Xavier (88→~700), Espíritos Reveladores (103→~1170, agora cobre lista completa dos signatários dos Prolegômenos, Espírito de Verdade como Cristo no ESE cap. VI, e o critério de universalidade), Carlos Mendonça (61→~715, com método EELDE e três palestras associadas), Joseph Bré (97→~710, com a distinção honestidade-perante-homens vs perante-Deus), Eric Stanislas (104→~780, com a doutrina da reunião séria como santuário e expiação-vira-serviço)
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 
 ---
