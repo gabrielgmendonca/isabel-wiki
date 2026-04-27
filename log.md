@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-26] ingest | O Espiritismo em sua mais simples expressão
+
+Ingestão do panfleto introdutório de Kardec (1862, Nível 2). Criada `wiki/obras/espiritismo-mais-simples-expressao.md` com histórico fenomenológico, definição canônica do Espiritismo, tríplice constituição humana, resumo da doutrina em 34 pontos, 26 máximas e divisa "Fora da caridade não há salvação". Atualizadas `wiki/personalidades/allan-kardec.md` (lista de obras), `wiki/sinteses/catalogo.md` (entrada na seção Kardec complementar) e `index.md` (cobertura via update_status.py: obras 28→29, total 284→285). Sem novos conceitos — todos os centrais já existiam; o ganho é uma página citável da obra como fonte das definições canônicas (Espiritismo, perispírito, divisa da caridade) reutilizadas em todo o corpus.
+
 ## [2026-04-26] lint | 9 achados
 
 Primeira execução com o check novo `skills_consistency`: pega as 4 inconsistências do roadmap §0.1 (`wiki/parabolas/` fantasma em `slides/SKILL.md` e `convencoes-slides.md`; `/slides` e `/stats` não citados em CLAUDE.md). Persistem os 5 rascunhos de 2026-04-07 (`a-caminho-da-luz`, `emmanuel`, `mansao-do-caminho`, `meimei`, `victor-hugo`) — mesma lista da execução anterior, candidatos a promoção de status. Zero erros estruturais.

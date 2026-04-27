@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
 tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -57,7 +57,7 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 ## Obras em escopo desta wiki
 
 - Pentateuco (acima) — nível 1 na hierarquia de autoridade.
-- *Obras Póstumas*, *O Que é o Espiritismo*, *Revista Espírita*, *Viagem Espírita em 1862* — nível 2.
+- *Obras Póstumas*, *O Que é o Espiritismo*, *O Espiritismo em sua mais simples expressão*, *Revista Espírita*, *Viagem Espírita em 1862* — nível 2.
 
 ## Páginas relacionadas
 
@@ -66,6 +66,7 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 - [[wiki/obras/genese]]
 - [[wiki/obras/viagem-espirita-em-1862]]
 - [[wiki/obras/o-que-e-o-espiritismo]]
+- [[wiki/obras/espiritismo-mais-simples-expressao]]
 - [[wiki/personalidades/espiritos-reveladores]]
 - [[wiki/personalidades/camille-flammarion]]
 - [[wiki/obras/obras-postumas]]
