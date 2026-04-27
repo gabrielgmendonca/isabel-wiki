@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, LM, Gênese, C&I]
 tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico, obra/le, obra/lm, obra/genese, obra/ci]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -111,6 +111,7 @@ Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que ca
 - [[wiki/obras/genese]] — cap. XIV, itens 7–12, 18, 21
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. I
 - [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, definição e papel do perispírito
+- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — itens 4, 11–15: exposição didática do perispírito como agente único dos fenômenos físicos
 - [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 15 (base escritural do corpo espiritual)
 
 ## Fontes

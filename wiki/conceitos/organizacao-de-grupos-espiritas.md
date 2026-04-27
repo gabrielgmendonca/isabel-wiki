@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM]
 tags: [grupos, sociedades, reunioes, organizacao, regulamento, pratica-espirita, obra/lm]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -81,6 +81,7 @@ Estas instruções permanecem como referência fundamental para a organização 
 - [[wiki/conceitos/obsessao]] — vigilância nos grupos contra influências nocivas
 - [[wiki/obras/livro-dos-mediuns]] — caps. XXIX–XXX
 - [[wiki/obras/viagem-espirita-em-1862]] — Instruções X–XI e modelo de regulamento
+- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — itens 39–42: seriedade das reuniões como condição para o concurso dos bons Espíritos
 
 ## Fontes
 

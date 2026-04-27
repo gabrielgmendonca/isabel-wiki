@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-26] ingest | Resumo da lei dos fenômenos espíritas
+
+Ingestão do opúsculo introdutório de Kardec em 42 itens (Nível 2, posterior a 1861 pelas referências internas a LM caps. XXIII–XXIV e itens 257, 286). Criada `wiki/obras/resumo-da-lei-dos-fenomenos-espiritas.md` com resumo organizado em sete blocos temáticos (definição → natureza dos Espíritos → mecânica perispiritual → defesas metodológicas → liberdade e hierarquia → caráter natural × maravilhoso → mediunidade e reuniões). Atualizadas `wiki/personalidades/allan-kardec.md` (Obras associadas e linha de complementares nível 2), `wiki/conceitos/perispirito.md`, `wiki/conceitos/manifestacoes-espiritas.md` e `wiki/conceitos/organizacao-de-grupos-espiritas.md` (referências cruzadas), `wiki/sinteses/catalogo.md` (entrada na seção Kardec complementar) e `index.md` (cobertura via update_status.py). Sem novos conceitos — todos os centrais já existiam; ganho está em uma página citável da formulação mais concisa do mínimo doutrinário kardequiano para iniciantes ("só o charlatanismo tem fontes infalíveis", item 18; refutação do maravilhoso, itens 31–32; crítica das reuniões frívolas, itens 39–42).
+
 ## [2026-04-26] ingest | O Espiritismo em sua mais simples expressão
 
 Ingestão do panfleto introdutório de Kardec (1862, Nível 2). Criada `wiki/obras/espiritismo-mais-simples-expressao.md` com histórico fenomenológico, definição canônica do Espiritismo, tríplice constituição humana, resumo da doutrina em 34 pontos, 26 máximas e divisa "Fora da caridade não há salvação". Atualizadas `wiki/personalidades/allan-kardec.md` (lista de obras), `wiki/sinteses/catalogo.md` (entrada na seção Kardec complementar) e `index.md` (cobertura via update_status.py: obras 28→29, total 284→285). Sem novos conceitos — todos os centrais já existiam; o ganho é uma página citável da obra como fonte das definições canônicas (Espiritismo, perispírito, divisa da caridade) reutilizadas em todo o corpus.

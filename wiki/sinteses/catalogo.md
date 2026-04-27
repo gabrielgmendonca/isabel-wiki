@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [meta]
 tags: [catalogo, meta, indice]
-atualizado_em: 2026-04-21
+atualizado_em: 2026-04-26
 status: ativo
 index: false
 ---
@@ -43,6 +43,7 @@ index: false
 ### Kardec complementar (nível 2)
 - [[wiki/obras/o-que-e-o-espiritismo]] — introdução ao Espiritismo em diálogos (1859). 3 capítulos: refutação de objeções, noções elementares e problemas resolvidos pela doutrina.
 - [[wiki/obras/espiritismo-mais-simples-expressao]] — panfleto sintético de divulgação (1862). Histórico fenomenológico, definição canônica, tríplice constituição humana, resumo da doutrina em 34 pontos e 26 máximas, fechando com a divisa "Fora da caridade não há salvação".
+- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — opúsculo introdutório em 42 itens (posterior a 1861). Preâmbulo para reuniões com noviços: definição dual do Espiritismo, tríplice constituição, perispírito como agente único dos fenômenos físicos, hierarquia e liberdade dos Espíritos, refutação do "maravilhoso", crítica das reuniões frívolas e da mediunidade comerciável.
 - [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
 - [[wiki/obras/obras-postumas]] — coletânea póstuma (1890). Profissão de fé raciocinada, estudo sobre a natureza do Cristo, as cinco alternativas da Humanidade, morte espiritual, aristocracias, relato autobiográfico, Livro das Previsões e Constituição do Espiritismo (inacabada).
 

@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM]
 tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos, obra/lm]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-26
 status: ativo
 ---
 
@@ -48,6 +48,7 @@ Nada de sobrenatural: "Os Espíritos não são mais do que as almas dos homens [
 - [[wiki/conceitos/fluidos]] · [[wiki/conceitos/perispirito]] — agentes das manifestações
 - [[wiki/conceitos/evocacao]] — chamada que provoca manifestações inteligentes
 - [[wiki/obras/livro-dos-mediuns]] — caps. I–IX (físicas), X–XIII (inteligentes)
+- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — síntese kardequiana em 42 itens: caráter natural × maravilhoso, hierarquia físicos × inteligentes
 
 ## Fontes
 
