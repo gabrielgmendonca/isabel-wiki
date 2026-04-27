@@ -65,7 +65,6 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - [[wiki/obras/livro-dos-espiritos]] — q. 27–29, q. 65, q. 282
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXVII, item 9
 - [[wiki/obras/genese]] — caps. VI, X, XIV
-- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — papel do fluido cósmico na cosmogonia da Terra
 
 ## Fontes
 

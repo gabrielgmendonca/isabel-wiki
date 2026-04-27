@@ -99,11 +99,6 @@ Kardec reafirma o critério de validade da doutrina: o ensino coletivo e concord
 - **Geração nova** → [[wiki/conceitos/geracao-nova]]
 - **Livre-arbítrio** → [[wiki/conceitos/livre-arbitrio]]
 
-## Aprofundamentos relacionados
-
-- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — bloco cosmogônico–geológico–orgânico (caps. VI a X), com aprofundamento mediúnico de Emmanuel.
-- [[wiki/aprofundamentos/expiacao-e-arrependimento]] — articulação com cap. I, item 33 (justiça distributiva).
-
 ## Como citar
 
 Formato padrão desta wiki:

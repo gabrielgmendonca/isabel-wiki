@@ -289,8 +289,6 @@ Páginas individuais (ordem da tabela do índice temático):
 Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
 
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
-- [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
-- [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
 
 ## Questões
 
