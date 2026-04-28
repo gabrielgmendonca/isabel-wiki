@@ -4,6 +4,14 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-28] query | Suicídio indireto / suicídio moral em wiki/conceitos/suicidio.md
+
+Acrescentadas duas seções a `wiki/conceitos/suicidio.md`: (1) "### Suicídio moral — abreviar a vida pelos excessos" sob "Ensino de Kardec", ancorada em LE q. 952 ("É um suicídio moral... duplamente culpado") e q. 952 item a (mais grave que o suicídio por desespero, porque consciente), com diferenciação explícita das q. 954 (imprudência sem culpabilidade) e q. 955 (suicídio cultural por preconceito); (2) "## Desdobramentos > O suicida inconsciente em *Nosso Lar*" tratando o caso de André Luiz como ilustração paradigmática de q. 952 — oclusão intestinal por sífilis e excessos; veredicto de Henrique de Luna ("o suicídio é incontestável"); o perispírito como registro físico do desgoverno moral ("O organismo espiritual apresenta em si mesmo a história completa das ações praticadas no mundo", cap. 4). Não classificada como divergência: *Nosso Lar* desdobra a q. 952 com fenomenologia perispiritual, sem contradizê-la. Em "### No C&I", nota explicando que **nenhum dos 9 casos do cap. V se enquadra como suicídio moral** — todos são voluntários diretos — mas dois Espíritos do cap. IV (Auguste Michel; Arrependimento de um dissoluto) ilustram a vida materializada que a categoria pressupõe, ainda que Kardec não os classifique tecnicamente como suicidas. Frontmatter atualizado: `fontes` recebe `André Luiz/Chico Xavier`; tags livres `suicidio-moral`, `suicidio-indireto`, `andre-luiz`, `nosso-lar`. Cross-link adicionado em `wiki/obras/nosso-lar.md` na seção "Conceitos tratados".
+
+## [2026-04-28] lint | url_aquisicao de Nosso Lar
+
+Preenchido `direitos.url_aquisicao = https://www.febeditora.com.br/nosso-lar` em `wiki/obras/nosso-lar.md` via `find_feb_url.py` + `WebFetch` na busca da FEB Editora. Slug canônico (sem variantes `--ingles-`, `--novo-projeto2`, `-para-criancas`). Resolve o único achado `direitos_obras` do lint do dia.
+
 ## [2026-04-27] lint | Pós-ingest Nosso Lar
 
 11 broken_links resolvidos copiando `raw/mediuns/chico-xavier/nosso-lar.md` para o worktree (estava untracked no repo principal). 4 avisos de tag_taxonomy resolvidos rodando `scripts/enrich_tags_obra.py`, que populou `obra/le` em `bonus-hora.md` e `colonia-espiritual.md`, e `obra/le` + `obra/ci` em `umbral.md`. Restam apenas 5 `rascunho_stale` pré-existentes.

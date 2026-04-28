@@ -4,6 +4,7 @@ fontes: [André Luiz/Chico Xavier]
 tags: [andre-luiz, chico-xavier, nosso-lar, umbral, colonia-espiritual, bonus-hora, suicidio, reencarnacao, ministerios, governadoria]
 direitos:
   detentor: FEB
+  url_aquisicao: https://www.febeditora.com.br/nosso-lar
   ano_dp_estimado: 2073
   observacao: "Chico Xavier (m. 2002) cedeu direitos autorais à FEB; PD estimado em 70 anos após óbito."
 atualizado_em: 2026-04-27
@@ -120,6 +121,7 @@ André recebe sua primeira **licença em missão na Terra**: socorrer Ernesto, m
 - [[wiki/conceitos/reencarnacao]] — reencarnação programada nos Ministérios
 - [[wiki/conceitos/prece]] — oração coletiva da Governadoria
 - [[wiki/conceitos/perispirito]] — marcas das ações terrenas no corpo sutil
+- [[wiki/conceitos/suicidio]] — André Luiz como caso paradigmático do suicídio moral / suicida inconsciente (cap. 4)
 - [[wiki/conceitos/lei-do-trabalho]] — a economia do bônus-hora como aplicação concreta
 - [[wiki/conceitos/lei-de-destruicao]] — a guerra vista do plano espiritual
 
