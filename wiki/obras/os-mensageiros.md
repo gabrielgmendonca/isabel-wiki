@@ -137,7 +137,12 @@ A formulação fecha o livro: "**A ideia da morte não serve para aliviar, curar
 ## Conceitos tratados
 
 - [[wiki/conceitos/mediunidade]] — eixo central; a obra é, em larga medida, advertência sobre a responsabilidade do médium
+- [[wiki/conceitos/cartas-vivas-de-jesus]] — definição doutrinária do propósito do Centro de Mensageiros (cap. 3)
+- [[wiki/conceitos/mercantilizacao-da-mediunidade]] — caso Acelino (cap. 8); cobrar pela faculdade abre canal a consulentes inferiores
 - [[wiki/conceitos/prece]] — prece coletiva como produção e distribuição de elementos-força (caps. 24–25)
+- [[wiki/conceitos/culto-do-evangelho-no-lar]] — reunião evangélica doméstica como fortaleza fluídica defensiva (caps. 33–39)
+- [[wiki/conceitos/passe]] — arquitetura tripla (passe, soproterapia, água efluviada) no Posto de Socorro (cap. 22)
+- [[wiki/conceitos/calunia]] — calúnia como "monstro invisível"; tutela inversa de Alfredo sobre Paulo (caps. 17, 27)
 - [[wiki/conceitos/obsessao]] — sintonia entre desencarnados criminosos e médium mercantilizado (caso Acelino)
 - [[wiki/conceitos/perispirito]] — anatomia da desencarnação observada em Fernando (cap. 50)
 - [[wiki/conceitos/perturbacao]] — os que dormem (cap. 22) e os pesadelo-presos (cap. 23)
@@ -147,6 +152,11 @@ A formulação fecha o livro: "**A ideia da morte não serve para aliviar, curar
 - [[wiki/conceitos/suicidio]] — Otávio como caso correlato ("suicídio inconsciente" por excessos)
 - [[wiki/conceitos/fluidos]] — sopro curativo, passe magnético, água efluviada
 - [[wiki/conceitos/lei-do-trabalho]] — o trabalho como única chave de cooperação na vida espiritual
+
+## Páginas derivadas
+
+- [[wiki/aprofundamentos/por-que-mediuns-falham]] — análise sistemática da preleção de Telésforo (caps. 5–6) e dos casos paradigmáticos (Otávio, Acelino, Belarmino, Monteiro; caps. 7–13)
+- [[wiki/sinteses/lar-como-fortaleza]] — articulação dos três eixos: prece como produção fluídica, culto do Evangelho como muralha, sono físico como porta entre planos
 
 ## Personalidades citadas
 

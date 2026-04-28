@@ -135,6 +135,7 @@ index: false
 - [[wiki/conceitos/materialismo]] — negação da alma e da vida futura, fruto do orgulho (LE, q. 147–148).
 - [[wiki/conceitos/dores-da-alma]] — Hammed: reenquadramento dos "sete pecados capitais" como fases evolutivas da psique.
 - [[wiki/conceitos/nao-julgar]] — preceito moral da abstenção do juízo condenatório (Mt 7:1–5; Lc 6:37; Jo 8:1–11 — mulher adúltera; Rm 14; Tg 4:11–12; ESE cap. X).
+- [[wiki/conceitos/calunia]] — calúnia como "monstro invisível"; tutela inversa como mecanismo de reparação (ESE caps. X, XII; André Luiz, *Os Mensageiros*, caps. 17, 27).
 
 ### Leis morais (Parte 3 do LE)
 - [[wiki/conceitos/lei-moral]] — conjunto das leis divinas que regem a vida moral, inscrita na consciência (LE, Parte 3).
@@ -220,6 +221,9 @@ index: false
 - [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem, classificação dos médiuns (LM, caps. XIV–XVI).
 - [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes; cobre a 1ª e a 2ª parte de *O Livro dos Médiuns*.
+- [[wiki/conceitos/passe]] — transmissão fluídica curativa; mediunidade curadora (LM, cap. XIV; Gênese, cap. XIV).
+- [[wiki/conceitos/cartas-vivas-de-jesus]] — médium-missionário como exemplo encarnado, não só canal (André Luiz, *Os Mensageiros*, cap. 3).
+- [[wiki/conceitos/mercantilizacao-da-mediunidade]] — cobrar pela faculdade abre canal a consulentes inferiores (LM, cap. XXVIII; caso Acelino em *Os Mensageiros*, cap. 8).
 - [[wiki/conceitos/obsessao]] — obsessão simples, fascinação e subjugação (LM, cap. XXIII).
 - [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica via centro coronário (André Luiz, *Evolução em Dois Mundos*, parte I, caps. 14–15).
 - [[wiki/conceitos/depressao]] — transtorno afetivo à luz espírita: causas, obsessão e terapêutica integrada.
@@ -247,6 +251,7 @@ index: false
 - [[wiki/conceitos/caridade]] — virtude suprema, amor ao próximo em pensamentos, palavras e ações (ESE, caps. XI–XV).
 - [[wiki/conceitos/fe-raciocinada]] — fé esclarecida pela razão, inabalável porque compreende (ESE, cap. XIX).
 - [[wiki/conceitos/prece]] — comunicação da alma com Deus, transmissão do pensamento (ESE, caps. XXVII–XXVIII).
+- [[wiki/conceitos/culto-do-evangelho-no-lar]] — reunião evangélica doméstica como fortaleza fluídica defensiva (ESE caps. XXVII–XXVIII; André Luiz, *Os Mensageiros*, caps. 33–39).
 - [[wiki/conceitos/bem-aventurancas]] — **índice das oito bem-aventuranças** (Mt 5:3–12) reinterpretadas à luz espírita (ESE, caps. V, VII–X). Cada bem-aventurança tem página própria: [[wiki/conceitos/bem-aventuranca-dos-pobres-de-espirito|pobres de espírito]] · [[wiki/conceitos/bem-aventuranca-dos-aflitos|aflitos]] · [[wiki/conceitos/bem-aventuranca-dos-brandos|brandos]] · [[wiki/conceitos/bem-aventuranca-dos-famintos-de-justica|famintos de justiça]] · [[wiki/conceitos/bem-aventuranca-dos-misericordiosos|misericordiosos]] · [[wiki/conceitos/bem-aventuranca-dos-puros-de-coracao|puros de coração]] · [[wiki/conceitos/bem-aventuranca-dos-pacificadores|pacificadores]] · [[wiki/conceitos/bem-aventuranca-dos-perseguidos|perseguidos pela justiça]].
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — desprendimento interior dos bens materiais (ESE, cap. XVI).
 - [[wiki/conceitos/homem-de-bem]] — retrato moral completo do praticante da caridade (ESE, cap. XVII).
@@ -312,6 +317,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — Sexualidade em Emmanuel: as quatro normas, energia sexual como circuito magnético, divórcio admissível, homossexualidade tratada com dignidade integral, abstinência como canalização, à luz de *Vida e Sexo* (1970).
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
 - [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
+- [[wiki/aprofundamentos/por-que-mediuns-falham]] — Análise da preleção de Telésforo e dos casos paradigmáticos de fracasso mediúnico (Otávio, Acelino, Belarmino, Monteiro) à luz de LM caps. XX, XXVIII (André Luiz, *Os Mensageiros*, caps. 5–13).
 
 ## Questões
 
@@ -335,6 +341,7 @@ Comparações, análises temáticas, conexões entre obras.
 - [[wiki/sinteses/parabolas-de-jesus]] — Índice temático das 29 parábolas de Jesus cobertas na wiki: agrupamento por tema, tabela evangelho × capítulo ESE e lições doutrinárias transversais.
 - [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — Critérios kardequianos para distinguir comunicações autênticas de apócrifas (LM, caps. X, XXIV, XXXI; LE, escala espírita).
 - [[wiki/sinteses/estatisticas-da-wiki]] — Painel de métricas (grafo, vocabulário, atividade, cobertura) gerado automaticamente pelo script `stats_wiki.py`.
+- [[wiki/sinteses/lar-como-fortaleza]] — Articulação dos três eixos de *Os Mensageiros*: prece como produção fluídica, culto do Evangelho como muralha, sono físico como porta entre planos.
 
 ## Divergências
 
