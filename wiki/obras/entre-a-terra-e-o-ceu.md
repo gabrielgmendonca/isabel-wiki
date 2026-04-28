@@ -5,7 +5,7 @@ tags: [andre-luiz, chico-xavier, obsessao, reencarnacao, ciume, maternidade, sui
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
-  url_aquisicao: https://www.febnet.org.br/loja/
+  url_aquisicao: https://www.febeditora.com.br/entre-a-terra-e-o-ceu
 atualizado_em: 2026-04-15
 status: rascunho
 ---

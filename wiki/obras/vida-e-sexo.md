@@ -5,7 +5,7 @@ tags: [emmanuel, chico-xavier, sexualidade, sexo, casamento, familia, aborto, ho
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
-  url_aquisicao: https://www.febnet.org.br/loja/
+  url_aquisicao: https://www.febeditora.com.br/vida-e-sexo
 atualizado_em: 2026-04-27
 status: ativo
 ---

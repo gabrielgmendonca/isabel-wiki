@@ -5,7 +5,7 @@ tags: [emmanuel, chico-xavier, historia, jesus, capela, transicao-planetaria, ci
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
-  url_aquisicao: https://www.febnet.org.br/loja/
+  url_aquisicao: https://www.febeditora.com.br/a-caminho-da-luz
 atualizado_em: 2026-04-07
 status: rascunho
 ---

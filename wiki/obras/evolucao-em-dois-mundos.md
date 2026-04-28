@@ -5,7 +5,7 @@ tags: [andre-luiz, chico-xavier, corpo-espiritual, perispirito, centros-vitais, 
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
-  url_aquisicao: https://www.febnet.org.br/loja/
+  url_aquisicao: https://www.febeditora.com.br/evolucao-em-dois-mundos
 atualizado_em: 2026-04-26
 status: rascunho
 ---
