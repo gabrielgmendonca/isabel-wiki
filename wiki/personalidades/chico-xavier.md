@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Humberto de Campos/Chico Xavier]
-tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, andre-luiz]
-atualizado_em: 2026-04-27
+tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, andre-luiz, os-mensageiros]
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -34,6 +34,7 @@ Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citaç
 
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel / Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo.
 - [[wiki/obras/nosso-lar]] — André Luiz / Chico Xavier (1944). 1º volume da série André Luiz; despertar no Umbral, topologia da colônia espiritual, sistema do bônus-hora, suicídio inconsciente.
+- [[wiki/obras/os-mensageiros]] — André Luiz / Chico Xavier (1944). 2º volume da série André Luiz; Centro de Mensageiros, mediunidade fracassada, Posto de Socorro Campo da Paz, culto doméstico como fortaleza, três desencarnações.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz / Chico Xavier (1954). 8º volume da série André Luiz; obsessão por sintonia de remorso e desobsessão envolvente.
 - [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz / Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos) sobre o corpo espiritual: anatomia do psicossoma, sete centros vitais, simbiose e vampirismo, sexualidade, mediunidade, religiões.
 - [[wiki/obras/vida-e-sexo]] — Emmanuel / Chico Xavier (1970). Tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina Espírita; 25 capítulos com epígrafes do Pentateuco.
@@ -42,8 +43,6 @@ Obras psicografadas por Chico Xavier disponíveis em `raw/` mas ainda sem págin
 
 - [[raw/mediuns/chico-xavier/o-consolador]] — Emmanuel / Chico Xavier (1940). Tratado em formato Q&A nos moldes do Pentateuco, cobrindo Sociologia, Cristianismo e Espiritismo.
 - [[raw/mediuns/chico-xavier/boa-nova]] — Humberto de Campos / Chico Xavier (1941). Episódios da vida de Jesus narrados em prosa literária.
-- [[raw/mediuns/chico-xavier/nosso-lar]] — André Luiz / Chico Xavier (1944). Primeiro volume da série André Luiz; vida na colônia espiritual.
-- [[raw/mediuns/chico-xavier/os-mensageiros]] — André Luiz / Chico Xavier (1944). Trabalho mediúnico no Plano Espiritual.
 - [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]] — André Luiz / Chico Xavier (1959). Fisiologia sutil das faculdades mediúnicas.
 
 A produção total atribuída a Chico Xavier abrange ainda obras-marco como *Parnaso de Além-Túmulo*, *O Evangelho por Emmanuel*, *Pão Nosso*, *Vinha de Luz* e *Caminho, Verdade e Vida* — não ingeridas até a data desta página.
@@ -73,6 +72,7 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
