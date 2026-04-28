@@ -28,6 +28,25 @@ A obra identifica **sete centros**, hierarquizados sob o comando do **centro cor
 | **Gástrico** | sistema digestivo | responsável pela digestão e absorção dos alimentos |
 | **Genésico** | gônadas | guia a modelagem de novas formas; sede do amor e do estímulo criador |
 
+## Primeira sistematização: a epífise como "glândula da vida espiritual" (Missionários da Luz, 1945, caps. 1–2)
+
+Antes da formulação anatômica completa de 1958, *Missionários da Luz* já apresenta — pela voz do Instrutor Alexandre — a **doutrina da epífise** como núcleo sutil da vida mental. André Luiz, com a percepção magneticamente ampliada, vê a epífise do médium em transe transformar-se em **núcleo radiante**:
+
+> "A glândula minúscula transformara-se em núcleo radiante e, em derredor, formavam seus raios um lótus de pétalas sublimes." (cap. 1)
+
+Alexandre rompe com a fisiologia clássica do início do século XX, que tratava a pineal como órgão vestigial:
+
+> "Não se trata de órgão morto, segundo velhas suposições. É a glândula da vida mental. Ela acorda no organismo do homem na puberdade as forças criadoras e, em seguida, continua a funcionar, como o mais avançado laboratório de elementos psíquicos da criatura terrestre. [...] No exercício mediúnico de qualquer modalidade, a epífise desempenha o papel mais importante. Através de suas forças equilibradas, a mente humana intensifica o poder de emissão e recepção de raios peculiares à nossa Esfera." (cap. 2)
+
+Quatro elementos doutrinários antecipam o tratamento de 1958:
+
+1. **Hormônios psíquicos vs. hormônios fisiológicos.** "As glândulas genitais segregam os hormônios do sexo, mas a glândula pineal segrega 'hormônios psíquicos' ou 'unidades-força' que vão atuar, de maneira positiva, nas energias geradoras. Os cromossomos da bolsa seminal não lhe escapam à influenciação absoluta e determinada" (cap. 2). A formulação articula a epífise ao [[wiki/conceitos/energia-sexual|centro genésico]] no governo da hereditariedade.
+2. **Comando do sistema endócrino.** "Segregando delicadas energias psíquicas, a glândula pineal conserva ascendência em todo o sistema endocrínico. Ligada à mente, através de princípios eletromagnéticos do campo vital, comanda as forças subconscientes sob a determinação direta da vontade" (cap. 2). A epífise antecipa, na obra de 1945, a função que será atribuída ao **centro coronário** em 1958.
+3. **A potência divina dorme embrionária.** "É nela, na epífise, que reside o sentido novo dos homens; entretanto, na grande maioria deles, a potência divina dorme embrionária" (cap. 1). Princípio operativo: a faculdade superior existe potencialmente em todos, mas requer educação moral para despertar.
+4. **Disciplina como economia de força.** A doutrina articula renúncia, abstinência e disciplina sexual à economia das "unidades-força" produzidas pela epífise — "renúncia, abnegação, continência sexual, disciplina emotiva não representam meros preceitos de feição religiosa. São providências de teor científico, para enriquecimento efetivo da personalidade" (cap. 2). Princípio que retornará em [[wiki/aprofundamentos/sexualidade-em-andre-luiz]].
+
+A página presente prossegue com o quadro maduro de 1958 (sete centros, com o coronário como "gabinete de comando" cuja sede é a pineal), de que a doutrina de 1945 é a primeira pedra fundamental. Ver [[wiki/obras/missionarios-da-luz]].
+
 ## Centro coronário: o gabinete de comando
 
 O coronário ocupa posição privilegiada na anatomia descrita por André Luiz:
@@ -97,6 +116,7 @@ A correspondência com a fisiologia sutil de outras tradições (chakras hindus,
 
 ## Fontes
 
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 1–2 (epífise como "glândula da vida espiritual"). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 3, 9, 13, 15; parte II, cap. 15. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Cap. 4.
 - Kardec, Allan. *A Gênese*, cap. XIV. Trad. Guillon Ribeiro. FEB.

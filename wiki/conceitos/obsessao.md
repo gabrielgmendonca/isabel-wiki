@@ -89,6 +89,23 @@ Em Atos, a prática da desobsessão migra de Jesus para os apóstolos, confirman
 
 Ver [[wiki/obras/atos-dos-apostolos]] e a análise no cap. 16 e 19.
 
+### Os obsidiados de Alexandre — possessão e cooperação (André Luiz, *Missionários da Luz*, 1945, cap. 18)
+
+Em sessão noturna dedicada a obsessão, o Instrutor Alexandre apresenta a André cinco casos com quadros clínicos diferentes — um modelo de **tipologia operativa** que precede a sistematização anatômica de *Evolução em Dois Mundos* (1958) em treze anos.
+
+Definição preliminar: "O obsidiado, acima de médium de energias perturbadas, é quase sempre um enfermo, representando uma legião de doentes invisíveis ao olhar humano. Por isto mesmo, constitui, em todas as circunstâncias, um caso especial, exigindo muita atenção, prudência e carinho" (cap. 18). A formulação articula obsessão a [[wiki/conceitos/mediunidade|mediunidade]] passiva: todo obsidiado é médium de uma "legião" — não de um único Espírito.
+
+**Quatro princípios doutrinários do capítulo**:
+
+1. **Obsidiado e obsessor são velhos conhecidos.** "Não ponderam que obsidiado e obsessor são duas almas a chegarem de muito longe, extremamente ligadas nas perturbações que lhes são peculiares." Não há vítima e algoz puros; há **drama multissecular** em ambos os lados.
+2. **Possessão = capitulação voluntária.** "Se a vítima capitula sem condições, ante o adversário, entrega-se-lhe totalmente e torna-se possessa, após transformar-se em autômato à mercê do perseguidor." A possessa do cap. 18, "obsessor lhe ocupa o organismo desde o crânio até os pés", grita "Salvem-me do demônio!" sem reagir. Sua cura é improvável a curto prazo.
+3. **A jovem que reage como contraste.** Único caso com prognóstico positivo no grupo: "tem lutado incessantemente contra as investidas, mobilizando todos os recursos de que dispõe no campo da prece, do autodomínio, da meditação. Não está esperando o milagre da cura sem esforço" (cap. 18). Princípio síntese: "Apenas o doente convertido voluntariamente em médico de si mesmo atinge a cura positiva". Coerente com LM, 2ª parte, cap. XXIII, item 244 — combate moral pelas próprias armas.
+4. **Sequelas orgânicas das obsessões.** Mesmo cessando a influência, "na maioria dos casos, as vítimas não mais restabelecem o equilíbrio do corpo" (cap. 18). A obsessão prolongada deixa lesão; a remoção do obsessor não restaura automaticamente o instrumento. Princípio que articula obsessão a [[wiki/conceitos/centros-vitais]] e [[wiki/conceitos/vampirismo-espiritual]].
+
+A doutrinação — feita por médium humano sob inspiração intuitiva de Alexandre — é descrita como "semeadura na terra abandonada dos corações desiludidos". Não há cura imediata como regra; há "lavradores que ganham muitos valores se procuram conhecer as lições e pô-las em prática".
+
+Ver [[wiki/obras/missionarios-da-luz]].
+
 ### Zulmira e Odila — obsessão por sintonia de culpa (André Luiz, *Entre a Terra e o Céu*, 1954)
 
 Caso-modelo do mecanismo pelo qual **o remorso abre a porta da obsessão**. Zulmira, segunda esposa de Amaro, desejou em ciumadas a morte do enteado Júlio e o negligenciou na praia onde ele se afogou. À frente da Lei, não era culpada — a criança trazia "morte prematura no quadro de provações" como suicida reencarnado. Mas, condenando a si mesma, desceu ao padrão vibratório de Odila (primeira esposa, desencarnada) e passou a ser vampirizada por ela pelo centro coronário, com fios cinzentos "à maneira de tentáculos de polvo".
@@ -132,6 +149,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica (André Luiz)
 - [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
+- [[wiki/obras/missionarios-da-luz]] — tipologia operativa (cap. 18); possessa vs. obsidiada que reage
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
@@ -147,4 +165,5 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XXVIII, item 83. Trad. Guillon Ribeiro. FEB.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023.
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.

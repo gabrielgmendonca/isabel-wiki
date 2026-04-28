@@ -81,6 +81,22 @@ Para Denis, a prece tem também função **protetora na prática mediúnica**: s
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+## A prece como antídoto operacional do vampirismo (André Luiz, *Missionários da Luz*, 1945, cap. 6)
+
+O caso paradigmático narrado em *Missionários da Luz* mostra a prece em **função clínica direta**. Um rapaz vampirizado por entidades inferiores volta para casa após sessão de desenvolvimento mediúnico; os perseguidores aguardam à porta. A esposa Cecília, em sono físico, ora à cabeceira do leito. Do coração dela, aos olhos magneticamente ampliados de André Luiz, "saíam inúmeras partículas resplandecentes, projetando-se sobre o corpo e sobre a alma do esposo com a celeridade de minúsculos raios" — destruindo as larvas escuras nos centros nervosos do marido.
+
+> "A oração é o mais eficiente antídoto do vampirismo. A prece não é movimento mecânico de lábios, nem disco de fácil repetição no aparelho da mente. É vibração, energia, poder. A criatura que ora, mobilizando as próprias forças, realiza trabalhos de inexprimível significação." (Alexandre, *Missionários da Luz*, cap. 6)
+
+Três precisões doutrinárias do capítulo:
+
+1. **Prece como física, não fórmula.** Alexandre sustenta que a prece participa do mesmo regime cósmico dos raios cósmicos, raios gama do radium, emanações magnéticas dos vegetais e irradiações dos próprios desencarnados — "em cada segundo, cada um de nós recebe trilhões de raios de vária ordem". A prece é raio dirigido. Coerente com Léon Denis (*O Grande Enigma*, cap. VII, "raios mais ativos" registrados em chapas fotográficas durante a oração).
+2. **A prece do justo protege quem ainda não merece.** A esposa de bom equilíbrio moral pode proteger o marido em desequilíbrio — princípio escritural matriz em Tg 5:16 ("A oração feita por um justo pode muito em seus efeitos"). Dialoga com [[wiki/obras/epistola-de-tiago]].
+3. **Não substitui o esforço próprio.** "O potencial de emissão divina pertence a Cecília, como fruto incorruptível dos seus esforços individuais. Significa para ele o 'acréscimo de misericórdia' que deverá anexar, em definitivo, ao patrimônio de sua personalidade, através do trabalho próprio" (cap. 6). A prece dos justos é **acréscimo**, não substituição — coerente com ESE cap. XXVII, item 7 ("Deus não pode mudar a ordem da Natureza ao gosto de cada um").
+
+A doutrina retorna no cap. 19 (passes magnéticos): a regra dos 10 socorros — depois de dez aplicações plenas, "é preciso deixá-lo entregue a si mesmo, até que adote nova resolução. Poderá oferecer-lhe melhoras, mas não deve alijar a carga de forças destruidoras que o nosso rebelde amigo acumulou para si mesmo. Nossa missão é de amparar os que erraram, e não de fortalecer os erros" (Anacleto, cap. 19).
+
+Ver [[wiki/obras/missionarios-da-luz]].
+
 ## Prece e invocação (André Luiz, *Entre a Terra e o Céu*)
 
 O Ministro Clarêncio introduz uma distinção operativa no vocabulário (cap. 1): **toda emissão mental move forças**, mas chamamos "prece" apenas ao que aspira ao bem; desejos inferiores também são potências, mas recebem o nome de **invocação**.
@@ -104,4 +120,5 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XXVII ("Pedi e obtereis"), itens 1–22; cap. XXVIII ("Coletânea de preces espíritas").
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 3, cap. II (q. 658–673) — "Lei de adoração: da prece".
 - Denis, Léon. *O Grande Enigma*, caps. III, VII–VIII. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 6, 19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Cap. 1.

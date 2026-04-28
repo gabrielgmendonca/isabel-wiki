@@ -69,6 +69,7 @@ index: false
 #### André Luiz / Chico Xavier
 - [[wiki/obras/nosso-lar]] — André Luiz/Chico Xavier (1944). 1º livro da série. Despertar nas zonas inferiores do Umbral, internação na colônia espiritual, topologia em seis Ministérios e Governadoria, sistema do bônus-hora, suicídio inconsciente, defesa da colônia em tempo de guerra mundial. 50 capítulos. **(rascunho)**
 - [[wiki/obras/os-mensageiros]] — André Luiz/Chico Xavier (1944). 2º livro da série. Centro de Mensageiros do Ministério da Comunicação sob a orientação de Aniceto; preleção de Telésforo sobre mediunidade fracassada (Otávio, Acelino); semana de aprendizado pela Crosta com escala no Posto de Socorro Campo da Paz (Alfredo/Ismália/Paulo, sopro curativo, os que dormem, prece como elementos-força); culto doméstico no lar de Isidoro e Isabel ("o lar que cultiva a prece transforma-se em fortaleza"); três desencarnações (Cremilda, leucêmico, Fernando) e a "máquina divina". 51 capítulos. **(rascunho)**
+- [[wiki/obras/missionarios-da-luz]] — André Luiz/Chico Xavier (1945). 3º livro da série. Tratado fenomenológico da mediunidade sob orientação de Alexandre: anatomia mediúnica e a epífise como "glândula da vida espiritual"; vampirismo psíquico (primeira sistematização chicoxaveriana, caps. 3–5); oração como antídoto (caso Cecília); socorro a moribundos; sono físico como porta dupla; manifesto operacional da mediunidade (cap. 9); materialização (Calimério); reencarnação assistida com mapas cromossômicos (caso Segismundo–Adelino, caps. 13–14); fracasso reencarnatório (caso Volpíni, cap. 15); incorporação e doutrinação; obsessão (cinco casos paradigmáticos); passes magnéticos (Anacleto, regra dos 10 socorros); despedida com advertência contra a idolatria do mestre. 20 capítulos. **(rascunho)**
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — André Luiz/Chico Xavier (1954). 8º livro da série. Obsessão de Zulmira por Odila (ciúme e remorso), conversão pela Irmã Clara, reencarnação de Júlio como suicida reencarnado. Mecânica fluídica da gravidez, prece × invocação, hereditariedade relativa. 40 capítulos. **(rascunho)**
 - [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz/Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade e centro genésico, mediunidade como função dos centros, religiões como higiene da alma. **(rascunho)**
 
@@ -103,6 +104,7 @@ index: false
 ### Encarnação, reencarnação e progresso
 - [[wiki/conceitos/encarnacao]] — objetivo e mecânica (LE, q. 132–148).
 - [[wiki/conceitos/reencarnacao]] — justiça divina e pluralidade das existências (LE, q. 166–222).
+- [[wiki/conceitos/planejamento-reencarnatorio]] — André Luiz: engenharia fluídica da reencarnação assistida (reconciliação prévia, mapas cromossômicos, redução perispiritual, fecundação assistida, consolidação aos 7 anos); aprofundamento de LE q. 344–345.
 - [[wiki/conceitos/pluralidade-das-existencias]] — a sucessão de vidas.
 - [[wiki/conceitos/morte]] — desencarnação, separação Espírito-corpo, perturbação pós-morte (LE, q. 149–165; C&I).
 - [[wiki/conceitos/desligamento-do-espirito]] — processo gradual de separação do Espírito no momento da morte.
@@ -173,6 +175,7 @@ index: false
 - [[wiki/personalidades/clarencio]] — Ministro do Templo do Socorro em *Entre a Terra e o Céu* (André Luiz).
 - [[wiki/personalidades/lisias]] — visitador dos serviços de saúde do Ministério do Auxílio em *Nosso Lar*; instrutor inicial de André Luiz.
 - [[wiki/personalidades/aniceto]] — instrutor do Centro de Mensageiros (Ministério da Comunicação) em *Os Mensageiros*; orientador de André Luiz e Vicente.
+- [[wiki/personalidades/alexandre]] — instrutor missionário das atividades de Comunicação em *Missionários da Luz*; orientador de André Luiz no ciclo dedicado à fenomenologia mediúnica; ex-médico em encarnação anterior; encerra a obra com advertência expressa contra a idolatria do mestre.
 - [[wiki/personalidades/irma-clara]] — mensageira de 22 séculos, modelo de desobsessão pela ternura maternal (*Entre a Terra e o Céu*).
 - [[wiki/personalidades/odila]] — personagem de *Entre a Terra e o Céu*: obsessora por ciúme, redimida pelo apelo maternal.
 - [[wiki/personalidades/zulmira]] — personagem de *Entre a Terra e o Céu*: obsidiada por culpa, mãe reparadora de Júlio.

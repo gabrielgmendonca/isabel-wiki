@@ -60,6 +60,14 @@ Denis reforça a exegese de Kardec (ESE, cap. IV) sobre o diálogo de Jesus com 
 
 Ver [[wiki/obras/cristianismo-e-espiritismo]].
 
+## Engenharia da reencarnação assistida (André Luiz, *Missionários da Luz*, 1945)
+
+A primeira descrição detalhada da **mecânica fluídica de uma reencarnação completa** — desde a reconciliação prévia entre Espíritos credores até a fecundação assistida e a consolidação aos sete anos — está em *Missionários da Luz*, caps. 13–14 (caso Segismundo–Adelino–Raquel) e cap. 15 (caso Volpíni–Cesarina, fracasso reencarnatório). Por ser tratamento extenso e tecnicamente articulado, o material foi sistematizado em conceito próprio:
+
+→ Ver [[wiki/conceitos/planejamento-reencarnatorio]] para a doutrina completa: reconciliação espiritual, mapas cromossômicos, redução perispiritual, fecundação assistida, gestação cooperativa, consolidação aos sete anos, e o caso Volpíni como contraexemplo.
+
+A formulação amplia LE q. 344–345 (união do perispírito com o corpo) sem contradizê-la — é aprofundamento, não divergência.
+
 ## Mecânica fluídica (André Luiz, *Entre a Terra e o Céu*, 1954)
 
 A obra apresenta descrição detalhada do processo perispirítico da gravidez, coerente com a base kardequiana (LE, q. 344–345) e aprofundando-a em termos fenomenológicos:
@@ -92,4 +100,5 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, Parte 2 (caps. 13–19). Trad. Homero Dias de Carvalho. CELD, 2011.
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. III–IV, VI; nota complementar nº 5. Trad. Albertina Escudeiro Sêco. CELD, 2012.
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 13–15 (planejamento reencarnatório, fecundação assistida, fracasso). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 28–29.

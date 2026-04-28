@@ -134,6 +134,24 @@ A tríade **controle + paz + julgamento coletivo** é síntese paulina do que ho
 
 Ver [[wiki/obras/primeira-epistola-aos-corintios]] para leitura integral dos capítulos 12–14.
 
+## Manifesto operacional em André Luiz (*Missionários da Luz*, 1945, cap. 9)
+
+Em sessão noturna de instrução a aprendizes em sono físico, o Instrutor Alexandre formula o que pode ser lido como o **manifesto operacional** da mediunidade espírita à luz do Cristo. A formulação resume e articula em prosa direta o quadro kardequiano:
+
+> "Mediunidade não é disposição da carne transitória e sim expressão do Espírito imortal. Naturalmente, o intercâmbio aprimorado, entre os dois Planos, requere sadias condições do vaso sagrado de possibilidades fisiológicas que o Senhor vos confiou para santificação; todavia, o corpo é instrumento elevado nas mãos do artista, que deve ser divino." (André Luiz / Chico Xavier, *Missionários da Luz*, cap. 9)
+
+Cinco eixos:
+
+1. **Subordinação ao Cristo como porta.** "Mediunidade constitui 'meio de comunicação', e o próprio Jesus nos afirma: 'eu sou a porta… se alguém entrar por mim será salvo' (Jo 10:9). [...] Sem o Cristo, a mediunidade é simples 'meio de comunicação' e nada mais, mera possibilidade de informação, como tantas outras, da qual poderão assenhorear-se também os interessados em perturbações" (cap. 9). A formulação retoma 1 Co 13 e ESE cap. XV: o fenômeno sem caridade é vazio.
+2. **Universalidade.** "O valor mediúnico não é dom de privilegiados, é qualidade comum a todos os homens, requisitando a boa vontade sincera no terreno da elevação" (cap. 9) — eco direto de LM, 2ª parte, cap. XIV, item 159.
+3. **Recusa do fenomenismo.** "Não provoqueis o desenvolvimento prematuro de vossas faculdades psíquicas! Ver sem compreender ou ouvir sem discernir pode ocasionar desastres vultosos ao coração" (cap. 9). Coerente com a passagem do "período da curiosidade" ao "período da filosofia" em *Viagem Espírita em 1862*.
+4. **Princípio de afinidade.** "Sem os valores da preparação, encontrareis irremediavelmente a companhia dos que fogem aos processos educativos do Senhor" (cap. 9). Aplicação direta da [[wiki/conceitos/escala-espirita|escala espírita]] como lei magnética: cada um atrai o seu nível.
+5. **Mediunidade ≠ santificação.** "Não julgueis que a morte da forma santifique o ser que a habitou! [...] Desencarnação não expressa santificação" (cap. 9). Releitura de LM 2ª parte cap. XIX, item 223 (o Espírito do médium é intérprete) e cap. XXIV (identidade dos Espíritos).
+
+A obra apresenta também **caso clínico de cada faculdade**: psicografia (caps. 1–2, com a anatomia do médium em transe e a [[wiki/conceitos/centros-vitais|epífise]] como "glândula da vida espiritual"), mediunidade de incorporação/psicofonia (caps. 16–17, casos de Dionísio e Marinho), passes magnéticos (cap. 19, Anacleto e a regra dos 10 socorros), materialização (caps. 10–12, sob Calimério). Para a doutrina dos centros vitais como base anatômica das faculdades, ver [[wiki/conceitos/centros-vitais]].
+
+Ver [[wiki/obras/missionarios-da-luz]].
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
@@ -163,3 +181,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV–XXII (itens 159–236).
 - Denis, Léon. *O Grande Enigma*, cap. VII; notas complementares 4–6. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].

@@ -47,6 +47,25 @@ Emmanuel dedica três capítulos diretos ao tema — caps. 5 (Energia sexual), 6
 
 Essas normas são releitura aplicada de LE q. 693a (regular sem opor obstáculos) e q. 701 (afeto, não sensualidade), no vocabulário pastoral da segunda metade do séc. XX. Para a sistematização completa, ver [[wiki/aprofundamentos/sexualidade-em-emmanuel]].
 
+## Em André Luiz, fonte mais antiga: o sexo como qualidade cósmica (*Missionários da Luz*, 1945, cap. 13)
+
+A formulação chicoxaveriana mais antiga e ambiciosa sobre a sexualidade está em *Missionários da Luz*, na exposição que o Instrutor Alexandre faz a André Luiz durante o caso reencarnatório de Segismundo. Ela **antecede em 13 anos** o tratado fenomenológico de *Evolução em Dois Mundos* (1958) e em 25 anos o tratado pastoral de *Vida e Sexo* (Emmanuel/Chico, 1970).
+
+A doutrina **desloca o conceito do plano fisiológico ao princípio universal**:
+
+> "É necessário deslocar a concepção do sexo, abstendo-nos de situá-la tão somente em determinados órgãos do corpo transitório das criaturas. Vejamos o sexo como qualidade positiva ou passiva, emissora ou receptora da alma. [...] Substituamos as palavras 'união sexual' por 'união de qualidades' e observaremos que toda a vida universal se baseia nesse divino fenômeno, cuja causa reside no próprio Deus, Pai Criador de todas as coisas e de todos os seres." (Alexandre, *Missionários da Luz*, cap. 13)
+
+Quatro proposições articulam o princípio:
+
+1. **Universalidade cósmica do sexo.** "Essa 'união de qualidades', entre os astros, chama-se magnetismo planetário da atração, entre as almas denomina-se amor, entre os elementos químicos é conhecida por afinidade" (cap. 13). O fenômeno sexual no homem é caso particular de uma lei que percorre todos os reinos da Criação.
+2. **Fecundação física e fecundação psíquica.** "Há fecundações físicas e fecundações psíquicas. As primeiras exigem as disposições da forma, a fim de atenderem a exigências da vida, em caráter provisório, no campo das experiências necessárias. As segundas, porém, prescindem do cárcere de limitações e efetuam-se nos resplandecentes domínios da alma, em processo maravilhoso de eternidade" (cap. 13). O apóstolo, o cientista e o artista são produzidos por **fecundações psíquicas** entre Espíritos afins — princípio que articula virtude e criatividade ao mesmo regime cósmico da geração biológica.
+3. **A procriação não é o objetivo único.** "Lembre-se, André, de que me referi a objetivos sagrados da Criação e não exclusivamente ao trabalho procriador. A procriação é um dos serviços que podem ser realizados por aquele que ama, sem ser o objeto exclusivo das uniões" (cap. 13). Coerente com o ESE cap. XVII, item 11 (afeição, não sensualidade) e antecipa o tom não-prescritivo de Emmanuel em *Vida e Sexo*.
+4. **Eros e ágape no continuum.** "Os homens e as mulheres, cuja alma se vai libertando dos cativeiros da forma física, escapam, gradativamente, do império absoluto das sensações carnais. [...] Aprendem a trocar os valores divinos da alma, entre si, alimentando-se reciprocamente, através de permutas magnéticas" (cap. 13). A doutrina propõe um **continuum** entre eros e ágape, sem ascetismo nem libertinismo — a "permuta magnética" sublimada não é abstinência reprimida, é evolução para o regime das almas mais leves.
+
+A formulação não nega a sexualidade orgânica nos lares "em bases retas" — pelo contrário, defende-a como **inviolável**: "Semelhantes momentos do tálamo conjugal são sublimes e invioláveis nos lares em bases retas. [...] Todos os encarnados que edificam o ninho conjugal, sobre a retidão, conquistam a presença de testemunhas respeitosas, que lhes garantem a privatividade dos atos mais íntimos" (cap. 13). E adverte sobre o reverso — em moradias cujos cônjuges "buscam testemunhas em zonas inferiores", a intimidade torna-se objeto de "participação das desvairadas testemunhas que escolheram".
+
+A doutrina articula-se diretamente à [[wiki/conceitos/lei-de-reproducao|Lei de Reprodução]] kardequiana e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
+
 ## Em André Luiz (*Evolução em Dois Mundos*, 1958)
 
 André Luiz dá à energia sexual uma **anatomia funcional**: ela é a função própria do **centro genésico**, um dos sete [[wiki/conceitos/centros-vitais|centros vitais]] do psicossoma, que "guia a modelagem de novas formas entre os homens ou o estabelecimento de estímulos criadores, com vistas ao trabalho, à associação e à realização entre as almas" (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 2).
@@ -83,4 +102,5 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 - Kardec, Allan. *O Livro dos Espíritos*, q. 686–701. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII, item 11 (Espírito Georges) e cap. XXII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 13 (sexo como qualidade cósmica). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

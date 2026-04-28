@@ -10,7 +10,7 @@ status: rascunho
 
 ## Definição
 
-Forma patológica de **simbiose** entre encarnados e desencarnados, em que um Espírito desencarnado (e, em casos extremos, encarnado) se alimenta da vitalidade fluídica de outro, perpetuando o vínculo por interesse, ódio, paixão ou apego. Conceito desenvolvido por **André Luiz** em *Evolução em Dois Mundos* (1958, parte I, caps. 14–15) como aprofundamento da doutrina kardequiana da obsessão ([[wiki/conceitos/obsessao]]).
+Forma patológica de **simbiose** entre encarnados e desencarnados, em que um Espírito desencarnado (e, em casos extremos, encarnado) se alimenta da vitalidade fluídica de outro, perpetuando o vínculo por interesse, ódio, paixão ou apego. **Primeira sistematização chicoxaveriana em *Missionários da Luz*** (1945, caps. 3–5), retomada em *Entre a Terra e o Céu* (1954, caso Odila/Zulmira) e desenvolvida em chave anatômica em *Evolução em Dois Mundos* (1958, parte I, caps. 14–15). Aprofundamento da doutrina kardequiana da obsessão ([[wiki/conceitos/obsessao]]).
 
 > "O obsessor passa a viver no clima pessoal da vítima, em perfeita simbiose mórbida, absorvendo-lhe as forças psíquicas, situação essa que, em muitos casos, se prolonga para além da morte física do hospedeiro." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 15)
 
@@ -25,6 +25,27 @@ A obsessão e suas formas extremas — fascinação e subjugação — são trat
 A teoria fluídica kardequiana — perispíritos que se "irradiam ao seu derredor" e se entrecruzam (Gênese, cap. XIV, item 18; OPE, "Manifestações dos Espíritos", §I, item 11) — fornece a base para o que André Luiz desenvolverá como circuito de **espoliação fluídica**.
 
 ## Desdobramentos em André Luiz
+
+### Primeira sistematização: as larvas psíquicas (Missionários da Luz, 1945, caps. 3–5)
+
+Em *Missionários da Luz*, o instrutor Alexandre amplia a percepção visual de André para que ele veja, no corpo dos candidatos a médium em sessão de desenvolvimento, **bacilos psíquicos** completamente desconhecidos da microbiologia humana. No rapaz com desvios sexuais, "aluviões de corpúsculos negros" mobilizam-se desde a bexiga urinária ao longo de todo o cordão espermático, "lutando com as células sexuais, aniquilando-as" (cap. 3). No alcoólatra, "pequeninas figuras horripilantes postavam-se, vorazes, ao longo da veia porta, lutando com os elementos sanguíneos mais novos". Na glutã, "corpúsculos semelhantes a lesmas voracíssimas" formavam colônias do estômago à válvula íleo-cecal (cap. 3).
+
+Alexandre rejeita a explicação puramente material:
+
+> "Não temos sob os olhos o espiroqueta de Schaudinn, nem qualquer nova forma suscetível de análise material por bacteriologistas humanos. São bacilos psíquicos da tortura sexual, produzidos pela sede febril de prazeres inferiores. O dicionário médico do mundo não os conhece e, na ausência de terminologia adequada aos seus conhecimentos, chamemos-lhes larvas, simplesmente." (cap. 3)
+
+A formulação introduz dois princípios operativos do conceito:
+
+1. **Primeiro a semeadura, depois a colheita** (cap. 4) — a larva não invade um terreno são; é cultivada pela paixão própria do hospedeiro. "Antes da afecção existe o ambiente. As ações produzem efeitos, os sentimentos geram criações, os pensamentos dão origem a formas e consequências de infinitas expressões." Sem essa cláusula, a doutrina tornar-se-ia fatalismo demoníaco; com ela, **a responsabilidade fica do lado da vítima**.
+2. **Vampirismo dos animais como contrapartida humana** (cap. 4) — Alexandre articula o vampirismo desencarnado ao parasitismo da humanidade encarnada sobre os animais que abate para alimento ("colocávamos gansos confiados nas engordadeiras para que hipertrofiassem o fígado"; "vacas-mães em direção ao matadouro"). A simetria moral é dura: "se temos sido vampiros insaciáveis dos seres frágeis que nos cercam, não é demais que, por força da animalidade que conserva desveladamente, venha a cair a maioria das criaturas em situações enfermiças pelo vampirismo das entidades que lhes são afins". O conceito articula-se à [[wiki/conceitos/lei-de-causa-e-efeito]] e prefigura a tese da [[wiki/aprofundamentos/sexualidade-em-andre-luiz|"imunologia moral"]].
+
+### Caso Cecília: a oração como antídoto operacional (Missionários da Luz, cap. 6)
+
+O capítulo 6 do livro mostra o **circuito reverso**. O rapaz vampirizado retorna à casa; os perseguidores não conseguem entrar. A esposa Cecília, em sono físico, ora à cabeceira: "do coração saíam inúmeras partículas resplandecentes, projetando-se sobre o corpo e sobre a alma do esposo com a celeridade de minúsculos raios" — destruindo as larvas escuras e dispersando os vampiros que aguardavam fora. Alexandre, contudo, qualifica:
+
+> "Receber o auxílio do bem não quer dizer que o beneficiado seja bom. Nosso amigo precisa devotar-se, com fervor, ao aproveitamento das bênçãos que recebe, porque, inegavelmente, toda cooperação exterior pode ser interrompida e cada filho de Deus é herdeiro de possibilidades sublimes e deve funcionar como médico vigilante de si mesmo." (cap. 6)
+
+A prece da esposa é "acréscimo de misericórdia"; **não substitui** o esforço do vampirizado. Princípio que retornará em chave operacional no cap. 19 (regra dos 10 socorros — ver [[wiki/conceitos/prece]] e *Missionários da Luz*).
 
 ### Da simbiose ao vampirismo
 
@@ -104,12 +125,14 @@ A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação p
 - [[wiki/conceitos/mediunidade]] — a mediunidade ignorada como porta de entrada
 - [[wiki/conceitos/prece]] — meio de defesa e cura
 - [[wiki/conceitos/depressao]] — quadro frequentemente associado
-- [[wiki/obras/evolucao-em-dois-mundos]] — fonte do conceito (parte I, caps. 14–15)
+- [[wiki/obras/missionarios-da-luz]] — primeira sistematização do conceito (caps. 3–5); caso Cecília como antídoto (cap. 6)
+- [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional do circuito (parte I, caps. 14–15)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Odila/Zulmira
 - [[wiki/obras/livro-dos-mediuns]] — base kardequiana (cap. XXIII)
 
 ## Fontes
 
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 3–6. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 14–15. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (itens 237–254). Trad. Guillon Ribeiro. FEB.
