@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-29] lint | Atualiza contagens em index.md
+
+Rodado `update_status.py` após lint flaggar `status_projeto`: "31 fontes complementares" → 32, "~327 páginas" → 328. Drift acumulado das duas últimas ingestões (2 Coríntios, Timóteo) que não dispararam o script. Cosmético, sem mudança estrutural.
+
 ## [2026-04-29] ingest | Revista Espírita completa (1858–1869, 1.600 artigos) baixada da Kardecpédia
 
 Catálogo completo da *Revue Spirite* dirigida por Kardec arquivado em `raw/kardec/revista-espirita/`, um arquivo por ano (`revista-espirita-1858.md` … `revista-espirita-1869.md`, ~13 MB total). 1858: 144 artigos; 1859–1868: ~130–155 cada; 1869: apenas 53 artigos (Kardec faleceu em 31/03/1869, periódico descontinuado pouco depois). Cada arquivo segue o padrão de `raw/kardec/` (sem frontmatter, texto corrido com headers): `## Mês`, `### Artigo`, com subseções `####`/`#####` quando o índice da Kardecpédia tem hierarquia (ex.: fevereiro/1858 → "Escala Espírita > Terceira ordem: Espíritos imperfeitos > Caracteres gerais"). Cada artigo é precedido de comentário HTML `<!-- url: … | id: … -->` para auditoria e futuro retorno à fonte.
