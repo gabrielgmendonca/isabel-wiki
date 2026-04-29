@@ -1,0 +1,14 @@
+// Estilo para termos do dicionário (data/dicionario.json) envolvidos em
+// <abbr> pelo script scripts/wrap_glossary_terms.py durante o build.
+//
+// Objetivo: marcar o termo como tendo definição-no-hover sem chamar atenção.
+
+article abbr[title] {
+  text-decoration: underline dotted;
+  text-decoration-color: var(--gray);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  cursor: help;
+  // Remove o estilo padrão de alguns navegadores (small caps no Firefox antigo).
+  font-variant: inherit;
+}

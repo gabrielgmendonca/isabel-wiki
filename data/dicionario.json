@@ -1,0 +1,25 @@
+{
+  "_comment": "Dicionário de termos culturais/históricos não-doutrinários que aparecem em parábolas, citações bíblicas e contextos antigos. Usado por scripts/wrap_glossary_terms.py no build do Quartz para envolver a primeira ocorrência por página em <abbr title=\"...\">. Conceitos doutrinários (espírito, perispírito, médium, fluido) NÃO entram aqui — esses viram página própria em wiki/conceitos/.",
+  "termos": {
+    "alfarroba": "Fruto da alfarrobeira, vagem doce usada como alimento de animais (especialmente porcos) na Palestina antiga; aparece na parábola do Filho Pródigo (Lucas 15:16).",
+    "novilho cevado": "Bezerro engordado e reservado para ocasiões festivas; abatê-lo era sinal de celebração extraordinária (Lucas 15:23).",
+    "denário": "Moeda romana de prata equivalente ao salário diário de um trabalhador rural no século I.",
+    "siclo": "Antiga unidade hebraica de peso e moeda; o siclo de prata pesava cerca de 11 gramas.",
+    "óbolo": "Pequena moeda grega de cobre, de baixíssimo valor; tornou-se símbolo de oferta humilde (Marcos 12:42, episódio da viúva pobre).",
+    "centurião": "Oficial do exército romano que comandava cerca de cem soldados (uma centúria).",
+    "publicano": "Cobrador de impostos a serviço do Império Romano; profissão desprezada pelos judeus por servir ao ocupante e por práticas extorsivas frequentes.",
+    "escriba": "Erudito da Lei mosaica responsável por copiar, ensinar e interpretar as Escrituras hebraicas.",
+    "fariseu": "Membro de seita judaica do século I que enfatizava o cumprimento estrito da Lei e das tradições orais.",
+    "saduceu": "Membro da elite sacerdotal e aristocrática judaica do século I; negava a ressurreição, os anjos e a sobrevivência da alma.",
+    "samaritano": "Habitante da Samaria, região entre a Galileia e a Judeia; samaritanos e judeus mantinham hostilidade religiosa antiga, o que dá força à parábola do Bom Samaritano.",
+    "odre": "Recipiente feito de pele de animal (geralmente cabra) usado para armazenar vinho ou água na Antiguidade.",
+    "anciãos": "Líderes da comunidade judaica responsáveis pelo governo religioso e civil das sinagogas; equivalem aos presbyteroi mencionados nas cartas apostólicas.",
+    "profeta": "Pessoa que, na tradição bíblica, fala em nome de Deus, anunciando juízos, promessas ou exortando o povo à conversão.",
+    "gentios": "Termo bíblico para os não-judeus (pagãos); usado pelos apóstolos para distinguir o público da pregação cristã primitiva fora de Israel.",
+    "iníquo": "Injusto, perverso; em contexto bíblico, designa quem age contra a Lei ou a justiça (ex.: o juiz iníquo, Lucas 18:1–8).",
+    "sinóticos": "Os três primeiros Evangelhos canônicos (Mateus, Marcos e Lucas), assim chamados por permitirem leitura paralela em colunas (sýn-opsis, 'ver junto').",
+    "genealogia": "Lista da descendência de uma pessoa, ligando-a a antepassados; Mateus (cap. 1) e Lucas (cap. 3) abrem seus Evangelhos com genealogias de Jesus.",
+    "cabritos": "Em Mateus 25:31–46, animais separados à esquerda do Rei e contrastados com as ovelhas; figuram os que falharam na caridade efetiva ao próximo.",
+    "babilônia": "Cidade-império mesopotâmica que cativou Israel no séc. VI a.C.; em 1 Pedro 5:13 e no Apocalipse, símbolo de Roma e do mundo opressor."
+  }
+}

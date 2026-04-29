@@ -70,7 +70,9 @@ Detentores conhecidos estão tabulados em `.claude/rules/convencoes-paginas.md` 
 - **Lint** (`/lint`): verificação de integridade da wiki. Skill autocontido.
 - **Slides** (`/slides <página>`): gera apresentação Marp (PPTX + PDF) no padrão socrático Q&A. Skill autocontido.
 - **Stats** (`/stats`): regenera `wiki/sinteses/estatisticas-da-wiki.md` com métricas determinísticas. Skill autocontido.
+- **Glossário** (`/glossario`): sugere termos culturais/históricos não-doutrinários (alfarroba, denário, fariseu…) para adicionar a `data/dicionario.json`. O JSON é consumido pelo build do Quartz (próximo bullet). Skill autocontido.
 - **Auto-link de citações** (`scripts/link_citations.py`): no build do CI, citações inline do Pentateuco viram links Markdown para Kardecpedia (nível do capítulo), e citações de complementares no formato `(Autor, *Obra*, ref)` viram wikilinks para `wiki/obras/<slug>` quando a página existir. Autor escreve `(LE, q. 990)` cru — a transformação acontece sobre a cópia em `/tmp/quartz/content`, sem alterar arquivos do repo. Mapeamento em `data/kardec-mapping.json`, regerável com `scripts/build_kardec_mapping.py`.
+- **Glossário cultural** (`scripts/wrap_glossary_terms.py`): no build do CI, a primeira ocorrência por página de termos listados em `data/dicionario.json` é envolvida em `<abbr title="...">` para tooltip discreto no Quartz. Source markdown não é alterado. Para curar o dicionário, usar `/glossario`.
 
 ### Build público — escopo
 

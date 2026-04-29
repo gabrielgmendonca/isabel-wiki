@@ -52,6 +52,9 @@ jobs:
           python3 scripts/link_citations.py --apply /tmp/quartz/content/wiki
           python3 scripts/link_citations.py --apply /tmp/quartz/content/index.md
 
+      - name: Wrap glossary terms in <abbr>
+        run: python3 scripts/wrap_glossary_terms.py --apply /tmp/quartz/content/wiki
+
       - name: Inject copyright notices
         run: python3 scripts/inject_copyright.py --apply /tmp/quartz/content/wiki
 

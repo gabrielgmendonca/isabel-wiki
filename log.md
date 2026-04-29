@@ -1,8 +1,12 @@
 # Log
 
-Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo> | <título>`, onde `<tipo>` ∈ {`setup`, `ingest`, `estudo`, `lint`, `refactor`}.
+Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo> | <título>`, onde `<tipo>` ∈ {`setup`, `ingest`, `estudo`, `lint`, `refactor`, `glossario`}.
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
+
+## [2026-04-29] glossario | Setup do dicionário cultural + 8 termos novos
+
+Setup inicial do glossário cultural-histórico não-doutrinário. Criados: `data/dicionario.json` (12 termos seed: alfarroba, novilho cevado, denário, siclo, óbolo, centurião, publicano, escriba, fariseu, saduceu, samaritano, odre); `scripts/wrap_glossary_terms.py` (build-step que envolve a primeira ocorrência por página em `<abbr title="...">`, idempotente, respeita frontmatter/headings/safe zones); `quartz-overrides/components/styles/glossary.scss` (sublinhado pontilhado discreto + cursor help); skill `/glossario` em `.claude/skills/glossario/` com `sugerir_termos.py` (heurística por ratio biblical/total ≥ 0.7, ≤ 15 páginas, stoplist doutrinária). Step "Wrap glossary terms in <abbr>" plugado em `.github/workflows/deploy-wiki.yml` após `link_citations`. Source markdown não é alterado — wrap só acontece em `/tmp/quartz/content` no build do CI. Primeira execução de `/glossario` adicionou 8 termos: anciãos, profeta, gentios, iníquo, sinóticos, genealogia, cabritos, babilônia (motivo: shortlist dominado por contexto romano-judaico do I século já presente nas ingestões dos Evangelhos e cartas apostólicas). Cobertura subiu de 17 → 36 páginas com tooltips no build.
 
 ## [2026-04-29] lint | Promove `wiki/personalidades/meimei.md` para `ativo` e corrige biografia
 
