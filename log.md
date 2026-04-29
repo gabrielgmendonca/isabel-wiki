@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-28] lint | Catálogo + citações de "por que médiuns falham"
+
+Corrigidos dois avisos do `/lint`. (1) Adicionada entrada de [[wiki/personalidades/jeronimo-assistente]] em [[wiki/sinteses/catalogo]] (seção Personalidades, após Alexandre) — a página fora criada na ingestão de *Obreiros da Vida Eterna* mas escapou do catálogo. (2) Em [[wiki/aprofundamentos/por-que-mediuns-falham]], normalizadas quatro citações inline para o formato canônico parentético (`(LM, 2ª parte, cap. XX, item 226)`, `(LE, q. 952)`, `(LE, q. 695-697)` etc.) — antes apareciam sem vírgula entre sigla e número, fora do regex de `_CITATION_COUNT_RE`. Lint volta a 0 achados nas duas categorias.
+
 ## [2026-04-28] ingest | Obreiros da Vida Eterna
 
 Ingerido `raw/mediuns/chico-xavier/obreiros-da-vida-eterna.md` (André Luiz / Chico Xavier, 1946 — 4º livro da série, prefácio + 20 capítulos). Páginas criadas: [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/personalidades/jeronimo-assistente]] (Assistente que orienta a expedição socorrista de trinta dias narrada na obra — *not* Gúbio, conforme o skill sugeria especulativamente). Resumo da obra estruturado em 4 blocos: (I) preparação espiritual no Templo da Paz e Santuário da Bênção (caps. 1–3, preleções de Albano Metelo e Cornélio); (II) Casa Transitória de Fabiano e descida ao abismo (caps. 4–10, com leitura mental retrospectiva do padre Domênico no cap. 7 e fogo etérico no cap. 10); (III) três desencarnações na Crosta — Dimas, Cavalcante (suicídio por anestésico em alta dose, com exposição técnica de Jerônimo sobre a ação eletromagnética de drogas no perispírito) e Adelaide (caps. 11–18); (IV) visita de Bezerra de Menezes ensinando a "técnica de Lázaro" para o desprendimento e repreensão de Zenóbia à idolatria dos cooperadores (cap. 19), ação de graças (cap. 20).

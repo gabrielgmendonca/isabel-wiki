@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [meta]
 tags: [catalogo, meta, indice]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-04-28
 status: ativo
 index: false
 ---
@@ -177,6 +177,7 @@ index: false
 - [[wiki/personalidades/lisias]] — visitador dos serviços de saúde do Ministério do Auxílio em *Nosso Lar*; instrutor inicial de André Luiz.
 - [[wiki/personalidades/aniceto]] — instrutor do Centro de Mensageiros (Ministério da Comunicação) em *Os Mensageiros*; orientador de André Luiz e Vicente.
 - [[wiki/personalidades/alexandre]] — instrutor missionário das atividades de Comunicação em *Missionários da Luz*; orientador de André Luiz no ciclo dedicado à fenomenologia mediúnica; ex-médico em encarnação anterior; encerra a obra com advertência expressa contra a idolatria do mestre.
+- [[wiki/personalidades/jeronimo-assistente]] — Assistente Jerônimo, orientador da expedição socorrista de trinta dias em *Obreiros da Vida Eterna*; conduz equipe de quatro com base na Casa Transitória de Fabiano e articula ciência (eletromagnética celular) com doutrina (suicídio, desencarnação consciente).
 - [[wiki/personalidades/irma-clara]] — mensageira de 22 séculos, modelo de desobsessão pela ternura maternal (*Entre a Terra e o Céu*).
 - [[wiki/personalidades/odila]] — personagem de *Entre a Terra e o Céu*: obsessora por ciúme, redimida pelo apelo maternal.
 - [[wiki/personalidades/zulmira]] — personagem de *Entre a Terra e o Céu*: obsidiada por culpa, mãe reparadora de Júlio.

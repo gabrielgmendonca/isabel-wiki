@@ -10,11 +10,11 @@ status: rascunho
 
 ## Contexto doutrinário
 
-*Os Mensageiros* (André Luiz / Chico Xavier, 1944) abre, nos caps. 5-13, a seção mais densa do livro do ponto de vista doutrinário-operacional: a **preleção de Telésforo** sobre as causas do fracasso massivo dos cooperadores enviados de Nosso Lar para o trabalho mediúnico na Crosta, seguida de quatro casos paradigmáticos detalhados (Otávio, Acelino, Belarmino, Monteiro). O recorte se encaixa na linha kardequiana sobre os **médiuns imperfeitos** (LM 2ª parte, caps. XX e XXVIII), oferecendo a fenomenologia narrativa que Kardec mantém em prosa doutrinária.
+*Os Mensageiros* (André Luiz / Chico Xavier, 1944) abre, nos caps. 5-13, a seção mais densa do livro do ponto de vista doutrinário-operacional: a **preleção de Telésforo** sobre as causas do fracasso massivo dos cooperadores enviados de Nosso Lar para o trabalho mediúnico na Crosta, seguida de quatro casos paradigmáticos detalhados (Otávio, Acelino, Belarmino, Monteiro). O recorte se encaixa na linha kardequiana sobre os **médiuns imperfeitos** (LM, 2ª parte, caps. XX e XXVIII), oferecendo a fenomenologia narrativa que Kardec mantém em prosa doutrinária.
 
 A tese articulada nos nove capítulos é uma só: **mediunidade é missão e exige responsabilidade moral; sem isso, a faculdade volta-se contra o portador e os consulentes**. O recorte de Telésforo é dramático: "a maioria dos cooperadores enviados de Nosso Lar fracassa". A narrativa explora os mecanismos pelos quais isso acontece.
 
-A base kardequiana convergente está em LM cap. XX, itens 220-228 (influência moral do médium), cap. XXII (Mediunidade nos animais — argumento sobre a moralidade), cap. XXVIII (médiuns interesseiros, leves, mistificadores), e na *Viagem Espírita em 1862* (instruções sobre admissão de médiuns nos grupos). O ESE cap. XXIV ("Não conhecer pelos efeitos") fecha o conjunto: julgar pela árvore, não pelas folhas.
+A base kardequiana convergente está em (LM, 2ª parte, cap. XX, itens 220-228) sobre influência moral do médium, (LM, 2ª parte, cap. XXII) sobre mediunidade nos animais — argumento sobre a moralidade, (LM, 2ª parte, cap. XXVIII) sobre médiuns interesseiros, leves e mistificadores, e na *Viagem Espírita em 1862* (instruções sobre admissão de médiuns nos grupos). O (ESE, cap. XXIV, item 18) — "Não conhecer pelos efeitos" — fecha o conjunto: julgar pela árvore, não pelas folhas.
 
 ## A preleção de Telésforo (caps. 5-6)
 
@@ -42,7 +42,7 @@ A advertência é frontal:
 
 > "Quem não deseje servir, procure outros gêneros de tarefa. A Comunicação não comporta perda de tempo nem experimentação doentia, sem grave prejuízo dos cooperadores incautos." (cap. 5)
 
-Articula-se com LM cap. XX, item 226: "Aquele Espírito de Verdade, em vão revestido de poderes, ainda em vão se valeria de tal médium" — a falta moral compromete a transmissão, transformando a faculdade em risco para o portador e para terceiros.
+Articula-se com (LM, 2ª parte, cap. XX, item 226): "Aquele Espírito de Verdade, em vão revestido de poderes, ainda em vão se valeria de tal médium" — a falta moral compromete a transmissão, transformando a faculdade em risco para o portador e para terceiros.
 
 ## A imagem-síntese: parábola da enxada
 
@@ -70,7 +70,7 @@ A parábola da enxada é citada em [[wiki/conceitos/cartas-vivas-de-jesus]]; aqu
 
 > "Realizei todos os meus condenáveis desejos, menos os desejos de Deus."
 
-**Eixo de fracasso**: descumprimento de um programa específico de disciplina sexual + recusa do encargo de tutela. Otávio não cobrava pela mediunidade; a faculdade simplesmente não pôde se manifestar porque o veículo se desorganizou. Articula-se com [[wiki/conceitos/suicidio]] (suicídio inconsciente por excessos, q. 952 LE — categoria já tratada na wiki a partir de *Nosso Lar*) e com a Lei de Reprodução (LE q. 695-697, sobre disciplina dos sentidos quando há programa específico).
+**Eixo de fracasso**: descumprimento de um programa específico de disciplina sexual + recusa do encargo de tutela. Otávio não cobrava pela mediunidade; a faculdade simplesmente não pôde se manifestar porque o veículo se desorganizou. Articula-se com [[wiki/conceitos/suicidio]] (suicídio inconsciente por excessos: LE, q. 952 — categoria já tratada na wiki a partir de *Nosso Lar*) e com a Lei de Reprodução (LE, q. 695-697), sobre disciplina dos sentidos quando há programa específico.
 
 ### Acelino (cap. 8) — mercantilização
 
