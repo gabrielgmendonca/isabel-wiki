@@ -27,7 +27,7 @@ Do método que empregou resultou o **Pentateuco**:
 4. *O Céu e o Inferno* (1865) — a justiça divina à luz do Espiritismo.
 5. *A Gênese* (1868) — milagres e predições.
 
-Também fundou a **Revista Espírita** (1858) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858).
+Também fundou a **Revista Espírita** (jan/1858 — ver [[wiki/obras/revista-espirita]] e o volume fundador [[wiki/obras/revista-espirita-1858]]) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858, anunciada na *Revista* de mai/1858 — endereço inicial rue Sainte-Anne, 59). A *Revista* funcionou como tribuna doutrinária e laboratório das obras sistematizadas, e a Sociedade como centro regular de observação e validação coletiva de comunicações mediúnicas, base do que mais tarde será chamado *controle universal do ensino dos Espíritos* (LM, 2ª parte, cap. XXIV).
 
 ## Método
 

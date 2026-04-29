@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, LM]
-tags: [escala-espirita, classificacao, ordens, obra/le, obra/lm]
-atualizado_em: 2026-04-05
+fontes: [LE, LM, RE]
+tags: [escala-espirita, classificacao, ordens, obra/le, obra/lm, obra/re]
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -39,6 +39,14 @@ Classe única. Percorreram todos os graus, despojaram-se de todas as impurezas d
 ## Trânsito entre graus
 
 Os Espíritos passam **sucessivamente** pelos graus, à medida que se purificam e progridem (LE, q. 226, comentário). Não retrogradam (LE, q. 118).
+
+## Histórico da publicação
+
+A escala em três ordens / dez classes não nasceu na 2ª edição do LE (1860). Foi publicada **dois anos antes**, em série, na *Revista Espírita* de fev/1858: "Diferentes ordens de Espíritos" (introdução metodológica) e "Escala Espírita" (com as classes detalhadas, da 9ª — Espíritos impuros — até a 1ª — Espíritos puros). Ver [[wiki/obras/revista-espirita-1858]]. Kardec adverte ali sobre o caráter convencional da divisão:
+
+> "Não inventamos os Espíritos nem os seus caracteres. Vimos e observamos; julgamo-los por suas palavras e atos, depois os classificamos por suas similitudes." (RE, fev/1858, "Diferentes ordens de Espíritos")
+
+A escala foi acompanhada na *Revista* da advertência metodológica decisiva: **não há fronteiras absolutas** entre as classes ("a transição é insensível e, nos limites, a nuança se apaga, como nos reinos da natureza, nas cores do arco-íris"). É essa formulação que entrará intacta no comentário à q. 100 do LE.
 
 ## Aplicação prática no Livro dos Médiuns
 

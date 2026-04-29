@@ -52,6 +52,7 @@ index: false
 - [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — opúsculo introdutório em 42 itens (posterior a 1861). Preâmbulo para reuniões com noviços: definição dual do Espiritismo, tríplice constituição, perispírito como agente único dos fenômenos físicos, hierarquia e liberdade dos Espíritos, refutação do "maravilhoso", crítica das reuniões frívolas e da mediunidade comerciável.
 - [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
 - [[wiki/obras/revista-espirita]] — periódico mensal dirigido por Kardec (1858–1869, 12 volumes, ~1.600 artigos). Laboratório vivo da codificação: editoriais doutrinários, comunicações mediúnicas comentadas, casos de obsessão, polêmicas com igrejas/ciência/magnetismo, vida das sociedades espíritas. Citação `(RE, mês/ano)` é auto-linkada para o primeiro artigo do mês na Kardecpédia.
+  - [[wiki/obras/revista-espirita-1858]] — volume fundador (144 artigos). Escala Espírita publicada antes do LE definitivo; tríades célticas dos druidas; Mito de Er e doutrina da escolha das provas; "Obsedados e subjugados" antes do LM; quatro dissertações morais por São Luís via Ermance Dufaux antes do ESE; biografias de Joana d'Arc e Luís XI ditadas pelos próprios via Ermance Dufaux; série sobre o Sr. Home; fundação da Sociedade Parisiense de Estudos Espíritas (1º/04/1858).
 - [[wiki/obras/obras-postumas]] — coletânea póstuma (1890). Profissão de fé raciocinada, estudo sobre a natureza do Cristo, as cinco alternativas da Humanidade, morte espiritual, aristocracias, relato autobiográfico, Livro das Previsões e Constituição do Espiritismo (inacabada).
 
 ### Obras complementares (nível 3)
@@ -204,6 +205,11 @@ index: false
 - [[wiki/personalidades/marcos-evangelista]] — João Marcos, autor do segundo Evangelho canônico (segundo Papias, intérprete de Pedro); trajetória de reabilitação após abandono em Perge (At 13:13; 15:36–40 ↔ Cl 4:10; 2 Tm 4:11; 1Pe 5:13).
 - [[wiki/personalidades/timoteo]] — discípulo direto de Paulo desde Listra (At 16:1); cooperador na 2ª e 3ª viagens missionárias; co-saudador de seis epístolas paulinas; pastor de Éfeso e destinatário das duas Pastorais (1–2 Tm); espírito comunicante na codificação ao lado de Erasto (LM, 2ª parte, cap. XIX).
 - [[wiki/personalidades/tiquico]] — cooperador de Paulo, natural da Ásia (At 20:4); "irmão amado, e fiel ministro do Senhor" (Ef 6:21); portador provável de Efésios e Colossenses (Ef 6:21–22; Cl 4:7–9); enviado a Creta (Tt 3:12) e a Éfeso na carta final paulina (2 Tm 4:12).
+- [[wiki/personalidades/ermance-dufaux]] — médium psicógrafa e falante (com 14 anos em 1858); central no volume fundador da *Revista Espírita*: Joana d'Arc, Confissões de Luís XI e quatro dissertações morais ditadas por São Luís (avareza, orgulho, preguiça, inveja).
+- [[wiki/personalidades/daniel-dunglas-home]] — Daniel Dunglas Home (1833–1886), médium escocês-americano de efeitos físicos (levitação, deslocamento de objetos pesados); três artigos em série na *Revista Espírita* de 1858 (fev/mar/abr) defendendo-o contra acusação de charlatanismo.
+- [[wiki/personalidades/joana-darc]] — Joana d'Arc (1412–1431), Espírito autora de autobiografia espiritual ditada à Ermance Dufaux (RE, jan/1858); única das histórias publicadas em volume separado pela editora Dentu.
+- [[wiki/personalidades/luis-xi]] — Luís XI de França (1423–1483), Espírito autor das *Confissões* ditadas à Ermance Dufaux em quinze dias (RE, mar/mai/jun/1858); caso modelo de **arrependimento e confissão pós-morte** antes de C&I.
+- [[wiki/personalidades/mademoiselle-clairon]] — Hippolyte Clairon (1723–1803), atriz da Comédie-Française; caso clássico de aparição auditiva por 2½ anos, registrado em suas *Memórias* e reanalisado por Kardec à luz da escala espírita (RE, fev/1858).
 
 ### Espíritos comunicantes do C&I (2ª parte)
 

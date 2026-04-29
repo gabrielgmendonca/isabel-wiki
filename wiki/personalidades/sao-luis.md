@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
-fontes: [LE, LM]
-tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm]
-atualizado_em: 2026-04-06
+fontes: [LE, LM, RE]
+tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm, obra/re]
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -34,10 +34,24 @@ São Luís é o Espírito mais citado nominalmente no LM, atuando como instrutor
 - Enuncia a **regra de ouro do discernimento**: "Qualquer que seja a confiança legítima que vos inspirem os Espíritos que presidem aos vossos trabalhos, uma recomendação há que nunca será demais repetir [...]: é a de pesar e meditar, é a de submeter ao controle da razão mais severa todas as comunicações que receberdes" (LM, 2ª parte, cap. XXIV, item 266).
 - Consultado sobre **comunicações apócrifas**: pronuncia-se sobre a falsa comunicação de Bossuet, revelando que foi escrita por outro Espírito (LM, 2ª parte, cap. XXXI, nota à comunicação XXXIV).
 
+## Na Revista Espírita (1858)
+
+São Luís é o orientador habitual da [[wiki/personalidades/allan-kardec\|Sociedade Parisiense de Estudos Espíritas]] desde sua fundação (1º/04/1858) e o principal Espírito instrutor do volume fundador da [[wiki/obras/revista-espirita\|*Revista Espírita*]]. Em 1858 ditou pela [[wiki/personalidades/ermance-dufaux|Srta. Ermance Dufaux]] uma **série de quatro dissertações morais** — a primeira síntese moral organizada por Kardec, **seis anos antes** de *O Evangelho Segundo o Espiritismo* (1864):
+
+- **A avareza** (RE, fev/1858 — comunicação datada de 6/1/1858)
+- **O orgulho** (RE, mai/1858)
+- **A preguiça** (RE, jun/1858)
+- **A inveja** (RE, jul/1858)
+
+São também atribuídas a São Luís pela mesma médium: **A fatalidade e os pressentimentos** (RE, mar/1858) e **Problemas morais — Perguntas dirigidas a São Luís** (RE, mai/1858). É ainda São Luís que responde, em jun/1858, à série de perguntas técnicas de Kardec sobre o **fluido universal**, o **perispírito** e o mecanismo das manifestações físicas — material que entrará depois no LM (2ª parte, cap. IV).
+
+Detalhamento por volume em [[wiki/obras/revista-espirita-1858]].
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — revelador nomeado nos Prolegômenos e interlocutor em diversas questões.
 - [[wiki/obras/livro-dos-mediuns]] — instrutor principal; citado nos caps. IV, XXIV, XXXI.
+- [[wiki/obras/revista-espirita-1858]] — orientador da Sociedade Parisiense de Estudos Espíritas; quatro dissertações morais via Ermance Dufaux.
 
 ## Páginas relacionadas
 
@@ -48,3 +62,4 @@ São Luís é o Espírito mais citado nominalmente no LM, atuando como instrutor
 
 - Kardec, Allan. *O Livro dos Espíritos*. Prolegômenos; q. 1004–1009; q. 1019. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. IV (item 74), cap. XXIV (item 266), cap. XXXI. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *Revista Espírita*, fev, mar, mai, jun e jul/1858 (dissertações morais e respostas técnicas). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].

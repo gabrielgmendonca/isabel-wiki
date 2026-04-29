@@ -45,7 +45,7 @@ Cada volume cobre um ano civil, com fascículos mensais (janeiro a dezembro). Ca
 
 | Ano | Artigos | Marcos do ano |
 |-----|---------|---------------|
-| **1858** | 144 | Fundação da revista; "Introdução"; primeiros artigos sobre [[wiki/conceitos/escala-espirita]], evocações, identidade dos Espíritos. Fundação da Sociedade Parisiense de Estudos Espíritas (1º de abril de 1858). |
+| **1858** | 144 | Fundação da revista; "Introdução"; primeiros artigos sobre [[wiki/conceitos/escala-espirita]], evocações, identidade dos Espíritos. Fundação da Sociedade Parisiense de Estudos Espíritas (1º de abril de 1858). Detalhe: [[wiki/obras/revista-espirita-1858]]. |
 | **1859** | 119 | Primeiras polêmicas com a imprensa católica e materialista. Refutação de objeções científicas. |
 | **1860** | 182 | Ano da 2ª edição definitiva de *O Livro dos Espíritos*. Discussões metodológicas sobre comunicações e médiuns. |
 | **1861** | 172 | Ano de *O Livro dos Médiuns*. Auto-de-fé de Barcelona (out/1861) — queima pública de obras espíritas pela Igreja, episódio extensamente comentado por Kardec. |
@@ -114,6 +114,10 @@ A amplitude é máxima — praticamente todos os conceitos da wiki encontram mat
 - [[wiki/personalidades/allan-kardec]] — fundador, diretor e principal autor.
 - [[wiki/personalidades/jesus]] — referência moral constante, sobretudo a partir de 1864 (preparação do ESE).
 - [[wiki/personalidades/camille-flammarion]] — colaborador e autor do discurso fúnebre publicado no fascículo póstumo de abr/1869.
+- [[wiki/personalidades/ermance-dufaux]] — médium central de 1858 (Joana d'Arc, Luís XI, dissertações morais).
+- [[wiki/personalidades/daniel-dunglas-home]] — médium americano de efeitos físicos, série de três artigos em 1858.
+- [[wiki/personalidades/joana-darc]] · [[wiki/personalidades/luis-xi]] — Espíritos autores de obras biográficas em 1858.
+- [[wiki/personalidades/mademoiselle-clairon]] — caso clássico de aparição reanalisado em fev/1858.
 
 ## Divergências
 
