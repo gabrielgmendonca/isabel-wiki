@@ -42,9 +42,19 @@ Toda manifestação que revela "um ato, ainda que insignificantíssimo, de livre
 
 Nada de sobrenatural: "Os Espíritos não são mais do que as almas dos homens [...]. Se se admite que as almas estão por toda parte, ter-se-á que admitir, do mesmo modo, que os Espíritos estão por toda parte" (LM, 1ª parte, cap. I, item 2). As manifestações "entram no cômputo dos fatos naturais" (LM, 1ª parte, cap. I, item 3).
 
+## Subtipos limítrofes refinados na Revista Espírita de 1859
+
+A *Revista Espírita* de 1859 introduz dois subtipos doutrinários que refinam a categoria das manifestações físicas:
+
+- **[[wiki/conceitos/ageneres|Agêneres]]** (RE, fev/1859) — Espíritos de aparência humana cujo "corpo" é perispírito momentaneamente solidificado, sem vida carnal correspondente. Limite extremo da tangibilidade do perispírito.
+- **[[wiki/conceitos/pneumatografia|Pneumatografia]] ou escrita direta** (RE, ago/1859) — escrita produzida diretamente pelo Espírito, sem intermediário humano, com material criado a partir do "elemento primitivo universal".
+
+Ambos são casos do mesmo princípio mecânico: o Espírito modula a matéria primitiva universal pela vontade. Ver também [[wiki/obras/revista-espirita-1859]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — faculdade que permite as manifestações
+- [[wiki/conceitos/ageneres]] · [[wiki/conceitos/pneumatografia]] — subtipos limítrofes (RE/1859)
 - [[wiki/conceitos/fluidos]] · [[wiki/conceitos/perispirito]] — agentes das manifestações
 - [[wiki/conceitos/evocacao]] — chamada que provoca manifestações inteligentes
 - [[wiki/obras/livro-dos-mediuns]] — caps. I–IX (físicas), X–XIII (inteligentes)

@@ -47,11 +47,23 @@ São também atribuídas a São Luís pela mesma médium: **A fatalidade e os pr
 
 Detalhamento por volume em [[wiki/obras/revista-espirita-1858]].
 
+## Na Revista Espírita (1859)
+
+São Luís permanece como orientador habitual da SPEE em 1859 e firma quatro intervenções de peso doutrinário no volume:
+
+- **"Os anjos da guarda"** (RE, jan/1859) — comunicação espontânea em coautoria com **Santo Agostinho**, na qual é sistematizada a doutrina dos Espíritos protetores: *"Todos nós temos um Espírito familiar que se liga a nós desde o nascimento, que nos guia, aconselha e protege."*
+- **16 perguntas sobre [[wiki/conceitos/ageneres|agêneres]]** (RE, fev/1859) — São Luís firma o regime do conceito recém-cunhado pela SPEE: agêneres não procriam ("Deus não o permitiria"); não têm necessidade real de alimento; podem pertencer à categoria dos Espíritos superiores ou inferiores; *"são fatos raros, de que há exemplos na Bíblia"*; o **Conde de Saint-Germain** *não* era agênere, mas *"hábil mistificador"*.
+- **"Processos para afastar os maus Espíritos"** (RE, set/1859) — comunicação espontânea recebida pelo Sr. R...: *"Por maior que seja a legítima confiança que vos inspiram os Espíritos que presidem os vossos trabalhos, é recomendação nunca por demais repetida que deveis ter sempre presente em vossa mente, quando vos entregardes aos vossos estudos: pesai e refleti. Submetei ao controle da mais severa razão todas as comunicações que receberdes."* Material que será praticamente reproduzido em LM, 2ª parte, cap. XXIV, item 266.
+- **Avaliação dos convulsionários de Saint-Médard** (RE, out/1859) — São Luís é consultado sobre os fenômenos do diácono [[wiki/personalidades/francois-paris]] e atribui-os ao concurso de Espíritos *"de natureza pouco elevada"*.
+
+Detalhamento por volume em [[wiki/obras/revista-espirita-1859]].
+
 ## Obras associadas
 
 - [[wiki/obras/livro-dos-espiritos]] — revelador nomeado nos Prolegômenos e interlocutor em diversas questões.
 - [[wiki/obras/livro-dos-mediuns]] — instrutor principal; citado nos caps. IV, XXIV, XXXI.
 - [[wiki/obras/revista-espirita-1858]] — orientador da Sociedade Parisiense de Estudos Espíritas; quatro dissertações morais via Ermance Dufaux.
+- [[wiki/obras/revista-espirita-1859]] — "Os anjos da guarda" (jan), 16 perguntas sobre agêneres (fev), "Processos para afastar os maus Espíritos" (set), avaliação dos convulsionários de Saint-Médard (out).
 
 ## Páginas relacionadas
 

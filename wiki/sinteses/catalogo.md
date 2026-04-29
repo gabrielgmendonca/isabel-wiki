@@ -53,6 +53,7 @@ index: false
 - [[wiki/obras/viagem-espirita-em-1862]] — relato da turnê de Kardec pela França (1862). Impressões gerais, discursos em Lyon e Bordeaux, instruções aos grupos e modelo de regulamento.
 - [[wiki/obras/revista-espirita]] — periódico mensal dirigido por Kardec (1858–1869, 12 volumes, ~1.600 artigos). Laboratório vivo da codificação: editoriais doutrinários, comunicações mediúnicas comentadas, casos de obsessão, polêmicas com igrejas/ciência/magnetismo, vida das sociedades espíritas. Citação `(RE, mês/ano)` é auto-linkada para o primeiro artigo do mês na Kardecpédia.
   - [[wiki/obras/revista-espirita-1858]] — volume fundador (144 artigos). Escala Espírita publicada antes do LE definitivo; tríades célticas dos druidas; Mito de Er e doutrina da escolha das provas; "Obsedados e subjugados" antes do LM; quatro dissertações morais por São Luís via Ermance Dufaux antes do ESE; biografias de Joana d'Arc e Luís XI ditadas pelos próprios via Ermance Dufaux; série sobre o Sr. Home; fundação da Sociedade Parisiense de Estudos Espíritas (1º/04/1858).
+  - [[wiki/obras/revista-espirita-1859]] — segundo volume (91 artigos). Três conceitos doutrinários inéditos (agêneres, pneumatografia/escrita direta, mundos intermediários ou transitórios); polêmicas com Abade Chesnel em *L'Univers* (mai/jul) e Oscar Comettant em *Le Siècle* (dez); recusa programática da categoria "milagre"; primeiras evocações de Plínio, o moço, Voltaire, Frederico II, Swedenborg, diácono Pâris (Saint-Médard) e Ida Pfeiffer; "Os anjos da guarda"; "Processos para afastar os maus Espíritos" (matriz do LM cap. XXIV); anúncio da renúncia de Kardec à direção operacional da SPEE — alusão aos "trabalhos de dez anos" do Pentateuco.
 - [[wiki/obras/obras-postumas]] — coletânea póstuma (1890). Profissão de fé raciocinada, estudo sobre a natureza do Cristo, as cinco alternativas da Humanidade, morte espiritual, aristocracias, relato autobiográfico, Livro das Previsões e Constituição do Espiritismo (inacabada).
 
 ### Obras complementares (nível 3)
@@ -210,6 +211,12 @@ index: false
 - [[wiki/personalidades/joana-darc]] — Joana d'Arc (1412–1431), Espírito autora de autobiografia espiritual ditada à Ermance Dufaux (RE, jan/1858); única das histórias publicadas em volume separado pela editora Dentu.
 - [[wiki/personalidades/luis-xi]] — Luís XI de França (1423–1483), Espírito autor das *Confissões* ditadas à Ermance Dufaux em quinze dias (RE, mar/mai/jun/1858); caso modelo de **arrependimento e confissão pós-morte** antes de C&I.
 - [[wiki/personalidades/mademoiselle-clairon]] — Hippolyte Clairon (1723–1803), atriz da Comédie-Française; caso clássico de aparição auditiva por 2½ anos, registrado em suas *Memórias* e reanalisado por Kardec à luz da escala espírita (RE, fev/1858).
+- [[wiki/personalidades/plinio-o-moco]] — Plínio, o moço (c. 61–113 d.C.), escritor romano; primeira evocação de figura clássica greco-romana na codificação (RE, mar/1859), responde sobre os três casos de aparição da *Carta a Sura*.
+- [[wiki/personalidades/voltaire]] — François-Marie Arouet / Voltaire (1694–1778); duas comunicações em 1859 (ago + set, esta extraída do juiz Edmonds nos EUA): modelo paradigmático de **arrependimento e revisão de obra** após desencarne.
+- [[wiki/personalidades/frederico-ii-da-prussia]] — Frederico II da Prússia, "o Grande" (1712–1786); diálogo com Voltaire em ago/1859 — caso clássico de **fixação egoica pós-morte** ("como me aborreço de não ser mais Frederico!").
+- [[wiki/personalidades/swedenborg]] — Emanuel Swedenborg (1688–1772), místico e cientista sueco; primeira aparição doutrinária na codificação (RE, nov/1859); evocado, retrata os principais erros de seu sistema (penas eternas, doutrina das correspondências, falsa identificação do Espírito comunicante como Deus).
+- [[wiki/personalidades/francois-paris]] — François Pâris (1690–1727), diácono jansenista; figura do caso histórico dos **Convulsionários de Saint-Médard** (1731-1732); evocado, atribui os fenômenos a "intriga e magnetismo" (RE, out/1859).
+- [[wiki/personalidades/ida-pfeiffer]] — Ida Pfeiffer (1797–1858), viajante austríaca; evocada a propósito do caso de Java (RE, dez/1859); caso de **persistência de inclinações entre encarnações** (gosto pelas viagens herdado de existência marinheira anterior).
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
@@ -241,8 +248,10 @@ index: false
 
 ### Mediunidade e prática espírita (O Livro dos Médiuns)
 - [[wiki/conceitos/mediunidade]] — faculdade inerente ao homem, classificação dos médiuns (LM, caps. XIV–XVI).
-- [[wiki/conceitos/psicografia]] ��� escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
+- [[wiki/conceitos/psicografia]] — escrita dos Espíritos pela mão do médium (LM, caps. XIII, XV).
+- [[wiki/conceitos/pneumatografia]] — escrita direta produzida pelo Espírito sem intermediário humano (RE, ago/1859; LM, cap. XII).
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes; cobre a 1ª e a 2ª parte de *O Livro dos Médiuns*.
+- [[wiki/conceitos/ageneres]] — Espíritos cujo perispírito assume aparência humana sólida temporária, sem corpo carnal vivo correspondente (RE, fev/1859).
 - [[wiki/conceitos/passe]] — transmissão fluídica curativa; mediunidade curadora (LM, cap. XIV; Gênese, cap. XIV).
 - [[wiki/conceitos/cartas-vivas-de-jesus]] — médium-missionário como exemplo encarnado, não só canal (André Luiz, *Os Mensageiros*, cap. 3).
 - [[wiki/conceitos/mercantilizacao-da-mediunidade]] — cobrar pela faculdade abre canal a consulentes inferiores (LM, cap. XXVIII; caso Acelino em *Os Mensageiros*, cap. 8).
@@ -280,6 +289,7 @@ index: false
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — mundos onde predomina o sofrimento, a Terra entre eles (ESE, cap. III).
 - [[wiki/conceitos/mundos-regeneradores]] — mundos de transição, aurora da felicidade (ESE, cap. III).
 - [[wiki/conceitos/mundos-felizes]] — mundos superiores onde o bem sobrepuja o mal (ESE, cap. III).
+- [[wiki/conceitos/mundos-intermediarios-ou-transitorios]] — mundos-pousio estéreis para Espíritos errantes em trânsito (RE, mai/1859); a Terra "já esteve nesse número" durante sua formação.
 
 ### Conceitos de O Céu e o Inferno (C&I)
 - [[wiki/conceitos/futuro-e-o-nada]] — refutação do niilismo, panteísmo e absorção; individualidade da alma (C&I, 1ª parte, cap. I).

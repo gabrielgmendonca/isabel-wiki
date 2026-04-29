@@ -46,7 +46,7 @@ Cada volume cobre um ano civil, com fascículos mensais (janeiro a dezembro). Ca
 | Ano | Artigos | Marcos do ano |
 |-----|---------|---------------|
 | **1858** | 144 | Fundação da revista; "Introdução"; primeiros artigos sobre [[wiki/conceitos/escala-espirita]], evocações, identidade dos Espíritos. Fundação da Sociedade Parisiense de Estudos Espíritas (1º de abril de 1858). Detalhe: [[wiki/obras/revista-espirita-1858]]. |
-| **1859** | 119 | Primeiras polêmicas com a imprensa católica e materialista. Refutação de objeções científicas. |
+| **1859** | 91 | Três conceitos doutrinários inéditos ([[wiki/conceitos/ageneres]], [[wiki/conceitos/pneumatografia]], [[wiki/conceitos/mundos-intermediarios-ou-transitorios]]); polêmicas com Abade Chesnel em *L'Univers* (mai/jul) e Oscar Comettant em *Le Siècle* (dez); recusa programática da categoria "milagre"; primeiras evocações de [[wiki/personalidades/plinio-o-moco]], [[wiki/personalidades/voltaire]], [[wiki/personalidades/frederico-ii-da-prussia]], [[wiki/personalidades/swedenborg]], [[wiki/personalidades/francois-paris]] (Saint-Médard), [[wiki/personalidades/ida-pfeiffer]]. Anúncio da renúncia de Kardec à direção operacional da SPEE (jul/1859) — alusão aos "trabalhos de dez anos" (Pentateuco). Detalhe: [[wiki/obras/revista-espirita-1859]]. |
 | **1860** | 182 | Ano da 2ª edição definitiva de *O Livro dos Espíritos*. Discussões metodológicas sobre comunicações e médiuns. |
 | **1861** | 172 | Ano de *O Livro dos Médiuns*. Auto-de-fé de Barcelona (out/1861) — queima pública de obras espíritas pela Igreja, episódio extensamente comentado por Kardec. |
 | **1862** | 171 | Viagem espírita pela França (set–nov/1862, [[wiki/obras/viagem-espirita-em-1862]]); discursos em Lyon e Bordeaux; modelo de regulamento para grupos. |
@@ -118,6 +118,11 @@ A amplitude é máxima — praticamente todos os conceitos da wiki encontram mat
 - [[wiki/personalidades/daniel-dunglas-home]] — médium americano de efeitos físicos, série de três artigos em 1858.
 - [[wiki/personalidades/joana-darc]] · [[wiki/personalidades/luis-xi]] — Espíritos autores de obras biográficas em 1858.
 - [[wiki/personalidades/mademoiselle-clairon]] — caso clássico de aparição reanalisado em fev/1858.
+- [[wiki/personalidades/plinio-o-moco]] — primeira evocação de figura clássica greco-romana (mar/1859).
+- [[wiki/personalidades/voltaire]] · [[wiki/personalidades/frederico-ii-da-prussia]] — diálogo entre os dois antigos amigos arrependidos (ago/1859); confissão extensa de Voltaire em set/1859.
+- [[wiki/personalidades/swedenborg]] — primeira aparição doutrinária e evocação na qual o Espírito retrata os principais erros de seu sistema (nov/1859).
+- [[wiki/personalidades/francois-paris]] — diácono jansenista evocado a propósito dos convulsionários de Saint-Médard (out/1859).
+- [[wiki/personalidades/ida-pfeiffer]] — viajante austríaca evocada a propósito do caso de Java (dez/1859).
 
 ## Divergências
 
