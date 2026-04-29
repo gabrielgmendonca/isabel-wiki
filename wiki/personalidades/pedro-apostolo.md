@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [pedro, apostolo, atos, evangelho]
-atualizado_em: 2026-04-15
+tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro]
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -25,6 +25,12 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - **Universalismo.** Depois da visão do lençol em Jope, formula: "Deus não faz acepção de pessoas" (At 10:34) — passagem citada por Kardec em ESE, cap. XI.
 - **Posição kardequiana quanto ao "primado".** Kardec **não lê Mt 16:18–19 ("sobre esta pedra edificarei a minha igreja [...] dar-te-ei as chaves")** como instituição de primado jurídico hereditário. O "poder das chaves" é moral: o fiel é julgado por suas obras; não há igreja exclusiva intermediária da salvação (ESE, cap. XV, "fora da caridade não há salvação"). A leitura espírita honra Pedro como testemunha e pioneiro sem elevá-lo a cabeça monárquica da fé.
 
+## Obras associadas
+
+- [[wiki/obras/atos-dos-apostolos]] — protagonista dos caps. 1–12; participação no concílio de Jerusalém (cap. 15).
+- [[wiki/obras/primeira-epistola-de-pedro]] — autor (1Pe 1:1; auto-identificado como "presbítero com eles, e testemunha das aflições de Cristo" em 5:1). Carta pastoral às comunidades dispersas da Ásia Menor sob perseguição.
+- [[wiki/obras/evangelho-segundo-marcos]] — Evangelho cuja tradição patrística (Papias) atribui à pregação oral de Pedro registrada por seu discípulo [[wiki/personalidades/marcos-evangelista|Marcos]].
+
 ## Citações relevantes
 
 - "Tu és o Cristo, o Filho do Deus vivo" (Mt 16:16).
@@ -32,6 +38,8 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - "Não tenho prata nem ouro; mas o que tenho isso te dou. Em nome de Jesus Cristo, o Nazareno, levanta-te e anda" (At 3:6).
 - "Reconheço por verdade que Deus não faz acepção de pessoas; mas que lhe é agradável aquele que, em qualquer nação, o teme e faz o que é justo" (At 10:34–35).
 - "Convém obedecer mais a Deus do que aos homens" (At 5:29).
+- "**E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor**, durante o tempo da vossa peregrinação" (1Pe 1:17) — fórmula epistolar paralela a At 10:34, expressão apostólica da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]].
+- "Apascentai o rebanho de Deus, que está entre vós, tendo cuidado dele, **não por força, mas voluntariamente; nem por torpe ganância, mas de ânimo pronto**; nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho" (1Pe 5:2–3) — crítica direta à mercantilização e ao autoritarismo do ministério.
 
 ## Páginas relacionadas
 
