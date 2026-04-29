@@ -4,6 +4,16 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-28] ingest | Obreiros da Vida Eterna
+
+Ingerido `raw/mediuns/chico-xavier/obreiros-da-vida-eterna.md` (André Luiz / Chico Xavier, 1946 — 4º livro da série, prefácio + 20 capítulos). Páginas criadas: [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/personalidades/jeronimo-assistente]] (Assistente que orienta a expedição socorrista de trinta dias narrada na obra — *not* Gúbio, conforme o skill sugeria especulativamente). Resumo da obra estruturado em 4 blocos: (I) preparação espiritual no Templo da Paz e Santuário da Bênção (caps. 1–3, preleções de Albano Metelo e Cornélio); (II) Casa Transitória de Fabiano e descida ao abismo (caps. 4–10, com leitura mental retrospectiva do padre Domênico no cap. 7 e fogo etérico no cap. 10); (III) três desencarnações na Crosta — Dimas, Cavalcante (suicídio por anestésico em alta dose, com exposição técnica de Jerônimo sobre a ação eletromagnética de drogas no perispírito) e Adelaide (caps. 11–18); (IV) visita de Bezerra de Menezes ensinando a "técnica de Lázaro" para o desprendimento e repreensão de Zenóbia à idolatria dos cooperadores (cap. 19), ação de graças (cap. 20).
+
+Páginas atualizadas: [[wiki/personalidades/andre-luiz]] (4º livro adicionado à trajetória), [[wiki/personalidades/chico-xavier]] (obras associadas + Fontes), [[wiki/conceitos/obsessao]] (nova seção "Padre Domênico — obsessão por remorso revelada por leitura mental"), [[wiki/conceitos/umbral]] (nova seção "A Casa Transitória de Fabiano" com 4 traços operacionais), [[wiki/sinteses/catalogo]] (entrada de Obreiros entre *Missionários da Luz* e *Entre a Terra e o Céu*). URL FEB Editora gravada via `find_feb_url.py`: `https://www.febeditora.com.br/obreiros-da-vida-eterna`. Status atualizado pelo `update_status.py` (obras=38, personalidades=102, total=321).
+
+**Sem divergências com Kardec.** Crítica de André Luiz a Saint-Pierre, Huyghens, Teresa d'Ávila e Swedenborg (cap. 1) é coerente com a relativização kardequiana das comunicações erráticas (LM, 2ª parte, cap. XXIV); descrições de "monstros" mitológicos no abismo (cap. 4) são metáfora narrativa, não tese cosmológica.
+
+Personalidades secundárias adiadas para futura passagem (Albano Metelo, Cornélio, Zenóbia, Barcelos, Gotuzo, Asclépios) — viram página própria quando uma /query motivar. Próximo passo: rodar `/lint` para verificar integridade.
+
 ## [2026-04-28] query | Páginas derivadas de Os Mensageiros
 
 A partir de [[wiki/obras/os-mensageiros]] (ingerida no commit 037beea), capitalizado conteúdo da obra em **7 páginas autônomas** — escolhidas item a item pelo usuário a partir de um mapa de candidatos (8 conceitos novos, 2 aprofundamentos, 1 síntese, 5 personalidades).

@@ -106,6 +106,21 @@ A doutrinação — feita por médium humano sob inspiração intuitiva de Alexa
 
 Ver [[wiki/obras/missionarios-da-luz]].
 
+### Padre Domênico — obsessão por remorso revelada por leitura mental (André Luiz, *Obreiros da Vida Eterna*, 1946, cap. 7)
+
+Caso paradigmático da **leitura mental retrospectiva como técnica desobsessiva**. Domênico, sacerdote envenenado em vingança por marido traído, permanece quase dez anos no abismo em revolta contra Deus e contra a Igreja "que o enganou". A enfermeira Luciana, dotada de clarividência exercitada em anos de prática, lhe expõe — em voz pausada, mantendo-o magneticamente acolhido por Zenóbia — quatro crimes da existência terrena: sedução de mulher casada (origem do envenenamento), sedução de jovem que se suicida com formicida ao pedir casamento honrado, apropriação fraudulenta de testamento paterno, remoção compulsória de pároco doente, e recusa de auxílio a filho ilegítimo tuberculoso.
+
+A doutrina operativa do capítulo:
+
+1. **A "tela mental" do obsidiado é o melhor evangelho.** Não há sermão eficaz contra Domênico revoltado; o que o quebra é o reconhecimento dos próprios atos lidos por outro. O remorso, antes recalcado, vira oração quando exposto.
+2. **A confissão sacramental sem sinceridade não absolve.** "Confiastes em semelhante medida? Vosso colega de sacerdócio poderia induzir-vos ao bom ânimo e à coragem necessária ao serviço de reparação futura, mas não conseguiria subtrair-vos à consciência os negros resíduos mentais dos atos praticados" (Luciana, cap. 7). Articula-se a LE q. 1009 (responsabilidade absoluta da consciência).
+3. **A reabertura do canal afetivo é o gatilho.** A mãe desencarnada **Ernestina**, convocada por Zenóbia, conduz o filho de volta à oração da infância. A redenção começa quando Domênico aceita repetir, frase por frase, a prece materna — desfazendo a vaidade ferida pelo amor mais antigo.
+4. **A reencarnação expiatória vem em seguida.** Aceito o socorro, Ernestina o conduz à Crosta para "internação em reencarnação expiatória, com auxílio divino" — coerente com C&I, 2ª parte sobre a sequência arrependimento → reparação → reencarnação.
+
+Aplicação prática para grupos de desobsessão: a "leitura mental" do médium experiente que **descreve o sofrimento do obsessor como sofrimento próprio** opera mais que a doutrinação genérica.
+
+Ver [[wiki/obras/obreiros-da-vida-eterna]].
+
 ### Zulmira e Odila — obsessão por sintonia de culpa (André Luiz, *Entre a Terra e o Céu*, 1954)
 
 Caso-modelo do mecanismo pelo qual **o remorso abre a porta da obsessão**. Zulmira, segunda esposa de Amaro, desejou em ciumadas a morte do enteado Júlio e o negligenciou na praia onde ele se afogou. À frente da Lei, não era culpada — a criança trazia "morte prematura no quadro de provações" como suicida reencarnado. Mas, condenando a si mesma, desceu ao padrão vibratório de Odila (primeira esposa, desencarnada) e passou a ser vampirizada por ela pelo centro coronário, com fios cinzentos "à maneira de tentáculos de polvo".
@@ -150,6 +165,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
 - [[wiki/obras/missionarios-da-luz]] — tipologia operativa (cap. 18); possessa vs. obsidiada que reage
+- [[wiki/obras/obreiros-da-vida-eterna]] — caso padre Domênico (cap. 7); leitura mental retrospectiva como técnica desobsessiva
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
@@ -166,4 +182,5 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023.
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. FEB, 1946. Cap. 7. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.

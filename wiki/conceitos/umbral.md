@@ -46,6 +46,19 @@ A própria experiência de André Luiz nos caps. 1–2 é o testemunho em primei
 
 O Umbral é território das missões mais árduas das colônias espirituais: "missões mais laboriosas do Ministério do Auxílio são constituídas por abnegados servidores, no Umbral, porque [...] os missionários do Umbral encontram fluidos pesadíssimos emitidos, sem cessar, por milhares de mentes desequilibradas" (Lísias, cap. 12). Em *Nosso Lar*, a saída do Umbral depende quase sempre de prece sincera do próprio sofredor (André Luiz, cap. 1) somada à intercessão de afetos ainda lúcidos no plano espiritual ou na Terra.
 
+### A Casa Transitória de Fabiano (*Obreiros da Vida Eterna*, 1946)
+
+A topografia umbralina ganha uma instituição-modelo no 4º livro da série André Luiz: a **Casa Transitória de Fabiano**, abrigo móvel construído em "substância singularmente leve", capaz de transportar-se de uma região para outra quando a passagem dos **desintegradores etéricos** queima os resíduos da zona (cap. 4). Fundada por Fabiano de Cristo, "devotado servo da caridade entre antigos religiosos do Rio de Janeiro", a Casa centraliza expedições socorristas, asila recém-desencarnados, conduz reencarnações expiatórias de ordem inferior e funciona como ponto de ligação com colônias superiores.
+
+Quatro traços operacionais relevantes para a doutrina:
+
+1. **Defesas vibratórias ativas** — barreiras magnéticas, "luzes exteriores", "raios de choque fulminante", "petardos magnéticos" para repelir hordas hostis. As legiões inferiores agrupam-se "compelidas pela revolta e pela desesperação a lhes consumirem a alma" (Zenóbia, cap. 4) e adquirem aspecto de "horrendos monstros, entre a humanidade e a irracionalidade".
+2. **Rodízio anual de direção** — Zenóbia e Galba revezam-se anualmente, descansando o ano de folga em "Esferas mais altas, ao contato de experiências e estudos que enriqueçam o Espírito do missionário" (Gotuzo, cap. 5). Aplicação institucional da Lei do Trabalho (LE q. 674–685).
+3. **Especialização das faculdades dos cooperadores** — interpretação evangélica (padre Hipólito), administração (Zenóbia), clarividência retrospectiva (Luciana), psiquiatria (Barcelos), medicina perispiritual (Gotuzo). A doutrina recusa o dom mágico instantâneo: "todas as aquisições espirituais exigem perseverança no estudo, na observação e no serviço aplicado" (Jerônimo, cap. 4).
+4. **Passagem do fogo etérico** (cap. 10) — limpeza periódica que obriga as casas socorristas da zona a se realocarem; descrita com riqueza fenomenológica como serviço regular, não evento extraordinário.
+
+Ver [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/personalidades/jeronimo-assistente]].
+
 ## Aplicação prática
 
 - **Em palestra** — usar o Umbral para explicar concretamente, sem inferno eterno, o que ocorre com Espíritos atados à matéria após a morte. Sempre nomear que se trata de extensão descritiva (André Luiz / Chico Xavier), articulada com C&I, cap. IV–V de Kardec.
@@ -61,9 +74,11 @@ O Umbral é território das missões mais árduas das colônias espirituais: "mi
 - [[wiki/conceitos/obsessao]] — porta de entrada do contato com Espíritos do Umbral
 - [[wiki/obras/ceu-e-inferno]] — Espíritos sofredores e suicidas (2ª parte, caps. IV–V)
 - [[wiki/obras/nosso-lar]] — fonte do termo na tradição espírita brasileira
+- [[wiki/obras/obreiros-da-vida-eterna]] — Casa Transitória de Fabiano como instituição-modelo do umbral; fogo etérico
 
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 1–2 e cap. 12. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 4–10. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113, 149–165. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, caps. III, VI, VII; 2ª parte, caps. IV–V. Trad. Manuel Quintão. FEB.
