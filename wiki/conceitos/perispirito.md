@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, LM, Gênese, C&I]
 tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico, obra/le, obra/lm, obra/genese, obra/ci]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -66,6 +66,12 @@ Kardec cita diretamente Paulo para fundamentar a teoria do perispírito:
 
 A passagem paulina resolve, em chave espírita, o aparente paradoxo da "ressurreição" cristã: não se trata de reanimação de cadáver, mas da **persistência consciente do Espírito em seu corpo espiritual** (perispírito) após a separação do corpo carnal (cf. LE, q. 150, letra a).
 
+**Eco em 2 Coríntios 5.** Paulo retoma a mesma estrutura conceitual em sua segunda carta aos coríntios, agora em chave de **continuidade existencial**:
+
+> "Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, **temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus**. [...] Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor." (2 Co 5:1, 8)
+
+O "tabernáculo" (corpo físico, morada provisória) e a "casa eterna não feita por mãos" (vida do Espírito em seu corpo espiritual) traduzem em metáfora arquitetônica o mesmo dualismo de 1 Co 15:44. Para o Espiritismo, a "casa eterna nos céus" é o perispírito persistindo na erraticidade — não morada metafísica abstrata, mas envoltório fluídico do Espírito em sua continuidade consciente (LE q. 150, 165–169; C&I 2ª parte cap. I). Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+
 **Variação conforme o mundo e o grau moral.** Paulo acrescenta:
 
 > "E há corpos celestes e corpos terrestres, mas uma é a glória dos celestes e outra a dos terrestres. Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela." (1 Co 15:40–41)
@@ -113,6 +119,7 @@ Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que ca
 - [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, definição e papel do perispírito
 - [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — itens 4, 11–15: exposição didática do perispírito como agente único dos fenômenos físicos
 - [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 15 (base escritural do corpo espiritual)
+- [[wiki/obras/segunda-epistola-aos-corintios]] — cap. 5 (tabernáculo terrestre / casa eterna não feita por mãos)
 
 ## Fontes
 

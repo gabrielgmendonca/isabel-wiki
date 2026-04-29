@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [fe, razao, fe-raciocinada, obra/ese]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -34,6 +34,14 @@ A fé que dá resultados não é a crença passiva e contemplativa, mas a confia
 
 O conceito de fé raciocinada é o que permite ao Espiritismo dialogar com a ciência sem se sentir ameaçado. Kardec aplica à fé religiosa o mesmo critério que aplica ao conhecimento científico: a evidência e a razão. O Espiritismo propõe que se creia porque se compreende, e não que se compreenda porque se crê.
 
+### Ressonância em Paulo: "andamos por fé, e não por vista"
+
+Em 2 Coríntios 5:7, Paulo formula o aspecto operacional da fé esclarecida:
+
+> "Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor (**porque andamos por fé, e não por vista**)." (2 Co 5:6–7)
+
+A frase é frequentemente lida como elogio da fé cega. O sentido paulino é o oposto: enquanto encarnados, **não temos acesso sensorial direto** à realidade espiritual; mas isso não impede a ação confiante baseada em evidência indireta — efeitos, fenômenos, frutos morais. É exatamente a posição kardequiana: a fé inabalável não dispensa exame, mas opera **antes** da visão direta, com base em razões suficientes (lógica, fenômenos, concordância universal das comunicações). Em chave espírita, "andar por fé" é confiar nas leis invisíveis demonstráveis pelos seus efeitos — não acreditar no não-demonstrado. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+
 ## Aplicação prática
 
 Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada como convite ao exame livre — o ouvinte jamais deve ser constrangido a acreditar. O estudante espírita cultiva a fé raciocinada pelo estudo metódico das obras da Codificação e pela observação dos fenômenos mediúnicos com critério e discernimento.
@@ -53,3 +61,4 @@ No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocina
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 4–7.
 - Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.
+- *Bíblia Sagrada* (ACF). Segunda Epístola aos Coríntios, 5:6–7. Ver [[wiki/obras/segunda-epistola-aos-corintios]].

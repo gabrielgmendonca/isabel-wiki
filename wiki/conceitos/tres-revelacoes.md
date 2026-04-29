@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, Léon Denis]
 tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -25,6 +25,10 @@ Jesus trouxe a moral sublime que revolucionou a compreensão humana: "Não vim d
 ### Espiritismo — a lei da razão
 
 O Espiritismo vem completar, não destruir, o ensino do Cristo: "Não vim destruir a lei cristã, mas dar-lhe execução" (ESE, cap. I, item 5). Realiza a promessa do Consolador feita por Jesus em três ocasiões no Evangelho de João: "E eu rogarei ao Pai, e ele vos dará outro Consolador [...] o Espírito de verdade" (Jo 14:16-17); "aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas" (Jo 14:26); "quando vier aquele Espírito de verdade, ele vos guiará em toda a verdade; porque não falará de si mesmo, mas dirá tudo o que tiver ouvido, e vos anunciará o que há de vir" (Jo 16:13). Kardec observa que o Espiritismo cumpre exatamente esta descrição: não fala de si mesmo (não é obra de um só homem), anuncia coisas futuras e guia em toda a verdade por meio da razão e dos fatos (ESE, cap. VI; Gênese, cap. XVII). Ver [[wiki/obras/evangelho-segundo-joao]] para o texto integral (caps. 14–16). O Espiritismo "não é luz que brilha debaixo do alqueire" — destina-se a todos (ESE, Introdução, item 6).
+
+### Antecipação paulina da nova aliança "do espírito"
+
+Em 2 Coríntios 3, Paulo formula avant la lettre o trânsito que Kardec sistematiza como passagem da segunda para a terceira revelação. A nova aliança escreve-se "não em tábuas de pedra, mas nas tábuas de carne do coração" (3:3); seus ministros são "ministros de um novo testamento, não da letra, mas do espírito; **porque a letra mata e o espírito vivifica**" (3:6). O critério paulino — letra que mata vs. espírito que vivifica — é exatamente o critério hermenêutico que Kardec retoma na Introdução do ESE para legitimar a leitura espírita das escrituras. E a fórmula do progresso "**de glória em glória**" (3:18) descreve em uma frase a progressividade ascendente da revelação que Kardec elabora no cap. I do ESE. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
 
 ### Caráter coletivo da Terceira Revelação
 
@@ -56,6 +60,7 @@ Ao preparar palestras sobre a identidade do Espiritismo, o conceito das três re
 - [[wiki/conceitos/progresso-espiritual]] — a revelação como instrumento do progresso
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. I e Introdução
 - [[wiki/obras/cristianismo-e-espiritismo]] — caps. IX–X, a Nova Revelação
+- [[wiki/obras/segunda-epistola-aos-corintios]] — cap. 3 (nova aliança do espírito; "a letra mata, o espírito vivifica"; "de glória em glória")
 
 ## Fontes
 

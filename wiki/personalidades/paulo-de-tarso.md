@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [NT, ESE]
 tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -19,7 +19,7 @@ Protagonista da segunda metade de Atos (caps. 13–28). Três grandes viagens mi
 No Espiritismo, Paulo é figura **seletivamente citada** por Kardec:
 
 - **"Fora da caridade não há salvação"** tem raízes em 1 Co 13 ("ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse caridade..." — ESE, cap. XV, item 4).
-- **"A letra mata, mas o espírito vivifica"** (2 Co 3:6) — princípio hermenêutico citado por Kardec na Introdução do ESE e em diversos capítulos para justificar a leitura espírita dos evangelhos.
+- **"A letra mata, mas o espírito vivifica"** (2 Co 3:6) — princípio hermenêutico citado por Kardec na Introdução do ESE e em diversos capítulos para justificar a leitura espírita dos evangelhos. Ver tratamento completo em [[wiki/obras/segunda-epistola-aos-corintios]].
 - **"Há corpo animal e há corpo espiritual"** (1 Co 15:44) — formulação neotestamentária do **perispírito**, aproveitada por Kardec (ESE, cap. IV; Gênese, cap. XIV).
 - **Caridade** (1 Co 13:4–7) — síntese comentada em ESE, cap. XV.
 
@@ -46,7 +46,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 
 1. **Aparição tangibilizada do Cristo** — Damasco (At 9:1–9; relatada também em At 22:6–11 e At 26:12–18). Luz resplandecente, voz direta, cegueira temporária com recuperação por imposição de mãos.
 2. **Visões diretivas repetidas** — varão macedônico (At 16:9); encorajamento em Corinto (At 18:9–10); aparição na cela em Jerusalém (At 23:11); anjo no navio (At 27:23–24).
-3. **Arrebatamento ao terceiro céu** (2 Co 12:1–4) — desdobramento pleno/êxtase (LM, 2ª parte, cap. XIX; emancipação profunda da alma, LE, q. 400–418).
+3. **Arrebatamento ao terceiro céu** (2 Co 12:1–4) — desdobramento pleno/êxtase (LM, 2ª parte, cap. XIX; emancipação profunda da alma, LE, q. 400–418). A insegurança paulina sobre o estado físico ("se no corpo, não sei, se fora do corpo, não sei") é descrição honesta da fenomenologia da emancipação plena. Acompanhado pelo "**espinho na carne**" (12:7–9) — prova reparadora pedagógica que a prece três vezes feita não removeu, mas para a qual a graça divina foi suficiente ("a minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza", 12:9).
 4. **Cura por imposição das mãos e por contato de objetos** (At 19:11–12; At 28:8) — ação fluídica (Gênese, cap. XIV).
 5. **Desobsessão** da pitonisa de Filipos (At 16:16–18) — caso clássico comentado em [[wiki/conceitos/obsessao]].
 6. **Mediunidade profética consciente** — anúncios sobre o próprio destino (At 20:22–25; 21:13).
@@ -72,6 +72,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/atos-dos-apostolos]] — caps. 9, 13–28
 - [[wiki/obras/epistola-aos-romanos]] — carta-tratado (2:14–15 lei na consciência; 5 aflições; 7 luta moral; 8 vida no Espírito; 13 amor cumpre a lei)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
+- [[wiki/obras/segunda-epistola-aos-corintios]] — apologia do ministério; "a letra mata, o espírito vivifica" (3:6, base hermenêutica do ESE); cartas vivas (3:2–3); tabernáculo terrestre / casa eterna (5:1–10); tesouro em vasos de barro (4:7); arrebatamento ao terceiro céu e espinho na carne (12:1–10); "Satanás se transfigura em anjo de luz" (11:14)
 - [[wiki/obras/epistola-aos-hebreus]] — **autoria paulina discutida** (ver nota acima); anjos como "espíritos ministradores" (1:14; 13:2), nova aliança com a lei escrita no coração (8:10), Jesus consagrado pelas aflições (2:10; 5:8), "Pai dos espíritos" e correção pedagógica (12:5–11), fé como "firme fundamento" (11:1)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
@@ -95,7 +96,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm).
+- *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm). Edições: [[raw/biblia-acf/1-corintios/1]]; [[raw/biblia-acf/2-corintios/1]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IV, V, XI, XII, XV (item 4), XVII.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 135, 200–202, 621, 843–872.
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. caps. XI (raça adâmica) e XIV (perispírito).

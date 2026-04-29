@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [bem-aventurancas, sermao-da-montanha, aflicao, consolacao, jesus, obra/ese, obra/le]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -61,6 +61,20 @@ Paulo, em Romanos 5:3–5 e 8:18, oferece a formulação paulina direta da mesma
 
 A cadeia paulina — tribulação → paciência → experiência → esperança — ecoa ponto a ponto o item 12 do ESE cap. V: "Jesus aponta a compensação que hão de ter os que sofrem e a resignação que leva o padecente a bendizer do sofrimento, como prelúdio da cura". E Rm 8:18 ("aflições não são para comparar com a glória") é formulação direta do que Kardec retoma como **consolação maior**: a breveza do sofrimento presente posta em perspectiva com a eternidade do Espírito. Ver [[wiki/obras/epistola-aos-romanos]].
 
+### Ressonância em Paulo: 2 Coríntios 1 e 4
+
+Em 2 Coríntios, Paulo retoma o tema com duas formulações decisivas. A primeira institui a **consolação como vocação ministerial**:
+
+> "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o **Pai das misericórdias e o Deus de toda a consolação; que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação**, com a consolação com que nós mesmos somos consolados por Deus." (2 Co 1:3–4)
+
+A consolação paulina não é anestesia: é capacitação para consolar. Quem foi consolado torna-se ministro da consolação — o sofrimento atravessado é capital ministerial. Princípio operacional para a casa espírita: o expositor ou trabalhador da assistência só consola autenticamente o que ele próprio já viveu e foi acolhido.
+
+A segunda formulação articula o **peso eterno de glória**:
+
+> "Porque a nossa **leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente**; não atentando nós nas coisas que se vêem, mas nas que se não vêem; porque as que se vêem são temporais, e as que se não vêem são eternas." (2 Co 4:17–18)
+
+Eco direto de Rm 8:18, com a chave hermenêutica adicional: **invisível eterno > visível temporal**. A "leveza" e a "momentaneidade" da tribulação não banalizam a dor — são afirmadas em perspectiva com a eternidade do Espírito. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+
 ## Aplicação prática
 
 Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e injustiças na casa espírita. Não se consola negando a dor, nem prometendo milagre imediato: consola-se explicando a dor à luz da justiça divina e da pluralidade das existências. Praticar a bem-aventurança é, do lado de quem sofre, manter a prece e a resignação ativa (não a passividade); do lado de quem acompanha, oferecer presença, esclarecimento e silêncio — jamais chavões.
@@ -78,5 +92,5 @@ Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e i
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. V ("Bem-aventurados os aflitos"), itens 1–27.
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 258–261 (escolha das provas); q. 919–921 (sofrimentos como meio de progresso).
-- *Novo Testamento*. S. Mateus 5:4, 6, 10; S. Lucas 6:20–25; Epístola aos Romanos 5:3–5 e 8:18.
-- Ver também [[wiki/obras/epistola-aos-romanos]] (caps. 5 e 8).
+- *Novo Testamento*. S. Mateus 5:4, 6, 10; S. Lucas 6:20–25; Epístola aos Romanos 5:3–5 e 8:18; Segunda Epístola aos Coríntios 1:3–7 e 4:17–18.
+- Ver também [[wiki/obras/epistola-aos-romanos]] (caps. 5 e 8) e [[wiki/obras/segunda-epistola-aos-corintios]] (caps. 1 e 4).

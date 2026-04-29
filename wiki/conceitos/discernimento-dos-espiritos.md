@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE, NT]
 tags: [discernimento, identificacao, mediunidade, espiritos, critica, obra/lm, obra/ese]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-04-28
 status: ativo
 ---
 
@@ -77,6 +77,16 @@ Na lista dos dons do Espírito em 1 Coríntios 12:8–10, Paulo menciona:
 > "[...] e a outro a operação de maravilhas; e a outro a profecia; **e a outro o dom de discernir os espíritos**; e a outro a variedade de línguas; e a outro a interpretação das línguas." (1 Co 12:10)
 
 É a primeira menção neotestamentária explícita da faculdade como **carisma espiritual específico**. Nem todos possuem igualmente o dom; alguns médiuns têm aptidão particular para sentir/distinguir a natureza dos Espíritos comunicantes (cf. **médiuns sensitivos**, LM, 2ª parte, cap. XVI, item 188).
+
+### Paulo — "Satanás se transfigura em anjo de luz" (2 Co 11)
+
+Em 2 Coríntios, Paulo formula o alerta mais forte do NT sobre o engano por aparência luminosa:
+
+> "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo. **E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz**. Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras." (2 Co 11:13–15)
+
+Para o Espiritismo, a passagem é doutrinariamente decisiva: **aparência espiritual elevada não autentica origem elevada**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, paulino e kardequiano, é **moral e prático**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Daí a regra de Kardec em LM, 2ª parte, cap. XXIV — **não é o nome (nem a luminosidade, nem o prodígio) que faz o valor da comunicação; é o ensino que faz o valor da assinatura**.
+
+Ver [[wiki/obras/segunda-epistola-aos-corintios]].
 
 ### Paulo — julgamento coletivo e critério da paz (1 Co 14)
 
@@ -156,13 +166,14 @@ Nenhuma divergência registrada entre Kardec e as fontes neotestamentárias cent
 - [[wiki/obras/livro-dos-mediuns]] — 2ª parte, caps. XXIV e XXVI
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXI ("Haverá falsos cristos e falsos profetas")
 - [[wiki/obras/primeira-epistola-aos-corintios]] — 12:10; 14:29, 32–33
+- [[wiki/obras/segunda-epistola-aos-corintios]] — 11:13–15 (Satanás como anjo de luz)
 - [[wiki/obras/primeira-epistola-de-joao]] — 4:1–6 (provai os espíritos; espírito de Verdade vs do erro)
 - [[wiki/personalidades/paulo-de-tarso]]
 - [[wiki/personalidades/joao-apostolo]]
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Primeira Epístola aos Coríntios, 12:10; 14:29, 32–33. Primeira Epístola de João, 4:1–3. Evangelho de Mateus, 24:24.
+- *Bíblia Sagrada* (ACF). Primeira Epístola aos Coríntios, 12:10; 14:29, 32–33. Segunda Epístola aos Coríntios, 11:13–15. Primeira Epístola de João, 4:1–3. Evangelho de Mateus, 24:24.
 - KARDEC, Allan. *O Livro dos Médiuns*. 2ª parte, cap. XXIV ("Da identificação dos Espíritos"), itens 265–268; cap. XXVI ("Das perguntas que se podem fazer aos Espíritos"), item 279 (concordância universal). Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XXI ("Haverá falsos cristos e falsos profetas"), itens 1–11. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Livro dos Espíritos*. Introdução, item VI (escala espírita). Trad. Guillon Ribeiro. FEB.
