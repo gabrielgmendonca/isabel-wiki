@@ -29,6 +29,14 @@ BOOKS = {
     "Genese": {"id": 888, "slug": "a-genese-os-milagres-e-as-predicoes-segundo-o-espiritismo",   "wrapper": "a-genese"},
 }
 
+# Revista Espírita: 12 volumes anuais (1858–1869). 1858 ficou com id curto;
+# os demais foram criados em sequência (893–903). IDs verificados na home da Kardecpédia.
+REVISTA_ESPIRITA_YEARS = {
+    1858: 20,
+    1859: 893, 1860: 894, 1861: 895, 1862: 896, 1863: 897,
+    1864: 898, 1865: 899, 1866: 900, 1867: 901, 1868: 902, 1869: 903,
+}
+
 # LE: "parte-primeira-...", "parte-segunda-...". LM/C&I: "primeira-parte-...", "segunda-parte-...".
 PART_ORDINALS = {
     "primeira": "1", "segunda": "2", "terceira": "3", "quarta": "4", "quinta": "5",
@@ -157,6 +165,15 @@ def main(argv=None) -> int:
         print(f"[{sigla}] {chs} chapters, {qs} items", file=sys.stderr)
         result["books"][sigla] = entry
         time.sleep(args.delay)
+
+    # RE: ano → URL do volume (granularidade suficiente p/ link_citations resolver
+    # `(RE, jan/1858, p. 12)`. Detalhe artigo-a-artigo fica em
+    # data/revista-espirita-mapping.json, gerado por download_revista_espirita.py).
+    result["revista_espirita"] = {
+        str(year): f"/roteiro-de-estudos/{pub_id}/revista-espirita-jornal-de-estudos-psicologicos-{year}"
+        for year, pub_id in sorted(REVISTA_ESPIRITA_YEARS.items())
+    }
+    print(f"[RE] {len(REVISTA_ESPIRITA_YEARS)} volumes anuais", file=sys.stderr)
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

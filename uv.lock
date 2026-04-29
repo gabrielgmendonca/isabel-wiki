@@ -618,6 +618,16 @@ wheels = [
 ]
 
 [[package]]
+name = "html-to-markdown"
+version = "3.3.2"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/66/b2/c34b3fd244b4fdf90addb452781b71d19befef2ddb5f8b485ed10bfb17f2/html_to_markdown-3.3.2-cp310-abi3-macosx_11_0_arm64.whl", hash = "sha256:4d733a4d554017b5d4d69ba6db6855208902abea5058d445d5b4fe9a78902f16", size = 5529719, upload-time = "2026-04-23T10:18:34.24Z" },
+    { url = "https://files.pythonhosted.org/packages/96/12/21a82e80f4cb9c7070c1286769eea3029fad03b2b59316398f9162dee8e6/html_to_markdown-3.3.2-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:48b43bcd87cb1615cf34e94569a2c8ba2d56c76f15aa4dcc1f3f20180183ed69", size = 6036337, upload-time = "2026-04-23T10:18:36.377Z" },
+    { url = "https://files.pythonhosted.org/packages/bb/11/25485f569ad57a71bf997ffa7bbebf907d79870c702c84d3d0b1b86d9deb/html_to_markdown-3.3.2-cp310-abi3-win_amd64.whl", hash = "sha256:10ad565f427c3aa4f2b66bb6cb548302d8b221256b1517aa94ea1d5864a0777f", size = 5853828, upload-time = "2026-04-23T10:18:38.215Z" },
+]
+
+[[package]]
 name = "httpcore"
 version = "1.0.9"
 source = { registry = "https://pypi.org/simple" }
@@ -701,6 +711,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "google-generativeai" },
+    { name = "html-to-markdown" },
     { name = "marker-pdf" },
     { name = "networkx", version = "3.4.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "networkx", version = "3.6.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
@@ -716,6 +727,7 @@ dependencies = [
 requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.14.3" },
     { name = "google-generativeai", specifier = ">=0.8.6" },
+    { name = "html-to-markdown", specifier = ">=3.3.2" },
     { name = "marker-pdf", specifier = ">=1.10.2" },
     { name = "networkx", specifier = ">=3.4.2" },
     { name = "nltk", specifier = ">=3.9.4" },
