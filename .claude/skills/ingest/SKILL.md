@@ -40,7 +40,7 @@ Após confirmação do usuário, prosseguir para a fase de escrita:
 5. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
    - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
-   - **Série André Luiz** — para todo livro da série, garantir que o **Espírito orientador** da obra tenha página própria em `wiki/personalidades/`. Em *Nosso Lar* e *Entre a Terra e o Céu* o orientador é Clarêncio; em outros volumes podem ser Alexandre (*Os Mensageiros*), Aniceto (*Missionários da Luz*), Gúbio (*Obreiros da Vida Eterna*) etc. Se a página do orientador ainda não existir, criar; se existir, enriquecer com material da nova obra.
+   - **Série André Luiz** — para todo livro da série, identificar o(s) **Espírito(s) orientador(es)** que conduz(em) a narrativa (varia por volume) e garantir que tenha(m) página própria em `wiki/personalidades/`. Se ainda não existir, criar; se existir, enriquecer com material da nova obra. Não assumir o orientador a partir de memória — confirmar lendo o próprio texto em `raw/`.
 
 > [!note] Escopo
 > `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do workflow **Query** (CLAUDE.md §4), não da ingestão.
