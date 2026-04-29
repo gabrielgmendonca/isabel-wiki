@@ -3,6 +3,8 @@
 
 - Citações Kardec (LE, LM, ESE, C&I, Gênese) → link Markdown para Kardecpedia
   no nível do capítulo (LE também resolve via questão).
+- Citações da *Revista Espírita* `(RE, mês/ano, …)` → link para o primeiro
+  artigo do mês na Kardecpédia (ou para o índice do ano, se o mês não casar).
 - Citações de complementares no formato `(Autor, *Obra*, ref)` → wikilink para
   `wiki/obras/<slug-da-obra>` quando a página existir.
 
@@ -24,6 +26,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MAPPING = ROOT / "data" / "kardec-mapping.json"
+DEFAULT_REVISTA = ROOT / "data" / "revista-espirita-mapping.json"
 DEFAULT_OBRAS = ROOT / "wiki" / "obras"
 
 # ─── safe zones ───────────────────────────────────────────────────────────────
@@ -50,6 +53,31 @@ INTRO_RE    = re.compile(r"introdu[çc][ãa]o", re.IGNORECASE)
 INTRO_IT_RE = re.compile(r"introdu[çc][ãa]o[^,]*,\s*item\s+(?P<r>[ivxlcdm]+)", re.IGNORECASE)
 
 SIGLA_NORM = {"Gênese": "Genese"}
+
+# ─── Revista Espírita ─────────────────────────────────────────────────────────
+# (RE, jan/1858, p. 12) | (RE, janeiro/1858) | (RE, fev. de 1860, p. 45)
+RE_CITE_RE = re.compile(
+    r"\(\s*RE\s*,\s*"
+    r"(?P<mes>[A-Za-zçÇãÃáéíóúÁÉÍÓÚâêôÂÊÔ]+)\.?"
+    r"(?:\s*/\s*|\s+(?:de\s+)?)"
+    r"(?P<ano>1[89]\d{2})"
+    r"\b[^)]*\)"
+)
+
+MONTHS_NORM = {
+    "janeiro": "janeiro", "jan": "janeiro",
+    "fevereiro": "fevereiro", "fev": "fevereiro",
+    "março": "marco", "marco": "marco", "mar": "marco",
+    "abril": "abril", "abr": "abril",
+    "maio": "maio", "mai": "maio",
+    "junho": "junho", "jun": "junho",
+    "julho": "julho", "jul": "julho",
+    "agosto": "agosto", "ago": "agosto",
+    "setembro": "setembro", "set": "setembro", "sept": "setembro",
+    "outubro": "outubro", "out": "outubro",
+    "novembro": "novembro", "nov": "novembro",
+    "dezembro": "dezembro", "dez": "dezembro",
+}
 
 # ─── Complementares ───────────────────────────────────────────────────────────
 # `(Autor, *Obra*, qualquer-coisa)` — pega o primeiro *itálico* dentro do paren.
@@ -146,6 +174,36 @@ def link_kardec(mapping: dict) -> callable:
     return repl
 
 
+def revista_url(mapping: dict, mes_raw: str, ano_raw: str) -> str | None:
+    """Resolve (RE, mês/ano) → URL.
+
+    Estratégia:
+      1. Se o mês casa com algum artigo daquele ano, retorna a URL do
+         **primeiro artigo do mês** (proximidade máxima dentro do que a
+         Kardecpédia expõe — não há âncora por página da revista).
+      2. Caso contrário, retorna a URL do índice do ano.
+    """
+    ano = mapping.get("anos", {}).get(ano_raw)
+    if not ano:
+        return None
+    mes = MONTHS_NORM.get(mes_raw.lower())
+    if mes:
+        for art in ano.get("artigos", []):
+            if art.get("mes") == mes:
+                return art.get("url") or ano.get("url")
+    return ano.get("url")
+
+
+def link_revista(mapping: dict | None) -> callable:
+    if not mapping:
+        return lambda m: m.group(0)
+    def repl(m: re.Match) -> str:
+        original = m.group(0)
+        url = revista_url(mapping, m.group("mes"), m.group("ano"))
+        return f"[{original}]({url})" if url else original
+    return repl
+
+
 def link_complementar(obras_index: set[str]) -> callable:
     def repl(m: re.Match) -> str:
         original = m.group(0)
@@ -158,14 +216,22 @@ def link_complementar(obras_index: set[str]) -> callable:
     return repl
 
 
-def transform(text: str, mapping: dict, obras_index: set[str]) -> str:
+def transform(
+    text: str,
+    mapping: dict,
+    obras_index: set[str],
+    revista_mapping: dict | None = None,
+) -> str:
     repl_kardec = link_kardec(mapping)
+    repl_revista = link_revista(revista_mapping)
     repl_compl = link_complementar(obras_index)
 
     def dispatch(segment: str) -> str:
-        # 1) Kardec
+        # 1) Kardec Pentateuco/complementares
         segment = KARDEC_RE.sub(repl_kardec, segment)
-        # 2) Complementares (após Kardec — se já virou link, está dentro de safe zone na próxima passada)
+        # 2) Revista Espírita
+        segment = RE_CITE_RE.sub(repl_revista, segment)
+        # 3) Complementares (após Kardec — se já virou link, está dentro de safe zone na próxima passada)
         segment = COMPL_RE.sub(repl_compl, segment)
         return segment
 
@@ -178,10 +244,16 @@ def transform(text: str, mapping: dict, obras_index: set[str]) -> str:
     return "".join(out)
 
 
-def process_path(path: Path, mapping: dict, obras_index: set[str], apply: bool) -> bool:
+def process_path(
+    path: Path,
+    mapping: dict,
+    obras_index: set[str],
+    apply: bool,
+    revista_mapping: dict | None = None,
+) -> bool:
     """Returns True se houve mudança."""
     original = path.read_text(encoding="utf-8")
-    new = transform(original, mapping, obras_index)
+    new = transform(original, mapping, obras_index, revista_mapping)
     if new == original:
         return False
     if apply:
@@ -211,11 +283,17 @@ def main(argv=None) -> int:
     g.add_argument("--apply", action="store_true", help="escreve in-place no path")
     ap.add_argument("path", type=Path, help="arquivo .md ou diretório de conteúdo")
     ap.add_argument("--mapping", type=Path, default=DEFAULT_MAPPING)
+    ap.add_argument("--revista-mapping", type=Path, default=DEFAULT_REVISTA,
+                    help="mapping da Revista Espírita (json gerado por download_revista_espirita.py)")
     ap.add_argument("--obras-dir", type=Path, default=DEFAULT_OBRAS,
                     help="diretório com wiki/obras/*.md para indexar slugs")
     args = ap.parse_args(argv)
 
     mapping = json.loads(args.mapping.read_text(encoding="utf-8"))
+    revista_mapping = (
+        json.loads(args.revista_mapping.read_text(encoding="utf-8"))
+        if args.revista_mapping.exists() else None
+    )
     # Quando --apply em /tmp/quartz/content, obras está em <content>/wiki/obras
     obras_dir = args.obras_dir
     if not obras_dir.is_dir() and (args.path / "wiki" / "obras").is_dir():
@@ -226,7 +304,8 @@ def main(argv=None) -> int:
     total = 0
     for p in iter_md(args.path):
         total += 1
-        if process_path(p, mapping, obras_index, apply=args.apply):
+        if process_path(p, mapping, obras_index, apply=args.apply,
+                        revista_mapping=revista_mapping):
             changed += 1
 
     verb = "modificados" if args.apply else "com mudanças pendentes"
