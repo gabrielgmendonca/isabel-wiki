@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [NT, ESE]
 tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -77,6 +77,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
 - [[wiki/personalidades/tiago-irmao-do-senhor]] — coluna da Igreja de Jerusalém (Gl 2:9); presidiu o concílio de At 15; complementaridade Paulo/Tiago em fé e obras
+- [[wiki/personalidades/timoteo]] — discípulo direto, cooperador desde Listra (At 16:1), co-saudador de seis epístolas e destinatário das duas Pastorais; "verdadeiro filho na fé" (1 Tm 1:2); convocado na carta final, em vésperas do martírio (2 Tm 4:9)
 - [[wiki/obras/epistola-de-tiago]] — diálogo Rm 3–4 vs. Tg 2 sobre justificação
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
 - [[wiki/conceitos/lei-natural]] — Rm 2:14–15 (lei escrita no coração)

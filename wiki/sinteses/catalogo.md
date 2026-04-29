@@ -197,6 +197,7 @@ index: false
 - [[wiki/personalidades/joao-apostolo]] — apóstolo do círculo íntimo de Jesus, "discípulo amado"; testemunha da paixão e da ressurreição; autor tradicional do Quarto Evangelho, das três Epístolas Joaninas e do Apocalipse; signatário dos Prolegômenos do ESE.
 - [[wiki/personalidades/silvano]] — Silvano (Silas em Atos), profeta de Jerusalém, companheiro de Paulo na segunda viagem missionária e amanuense de Pedro em 1 Pedro (5:12); ponte entre os ministérios petrino e paulino.
 - [[wiki/personalidades/marcos-evangelista]] — João Marcos, autor do segundo Evangelho canônico (segundo Papias, intérprete de Pedro); trajetória de reabilitação após abandono em Perge (At 13:13; 15:36–40 ↔ Cl 4:10; 2 Tm 4:11; 1Pe 5:13).
+- [[wiki/personalidades/timoteo]] — discípulo direto de Paulo desde Listra (At 16:1); cooperador na 2ª e 3ª viagens missionárias; co-saudador de seis epístolas paulinas; pastor de Éfeso e destinatário das duas Pastorais (1–2 Tm); espírito comunicante na codificação ao lado de Erasto (LM, 2ª parte, cap. XIX).
 
 ### Espíritos comunicantes do C&I (2ª parte)
 
