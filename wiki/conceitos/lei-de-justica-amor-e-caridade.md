@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, tiago, lei-real, lei-da-liberdade, obra/le, obra/ese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-27
+tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, efesios, tiago, lei-real, lei-da-liberdade, obra/le, obra/ese, lei/justica-amor-caridade]
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -63,6 +63,16 @@ A fórmula paulina ilumina dois pontos do Pentateuco:
 2. **"O amor não faz mal ao próximo"** (Rm 13:10) — critério negativo paralelo à [[wiki/conceitos/lei-de-igualdade|regra de ouro]]: onde há amor efetivo, não há dano; onde há dano, não há amor, por mais que se invoque a palavra. Este critério operacional é retomado em ESE cap. XV, item 10: "Ama o teu próximo como a ti mesmo, faze aos outros o que quiseras que te fizessem a ti; sintetiza todos os deveres do homem para com o seu semelhante".
 
 Paulo retoma o mesmo tema na ética prática de Rm 12:9–21 ("O amor seja não fingido [...] abençoai aos que vos perseguem [...] não vos vingueis a vós mesmos [...] não te deixes vencer do mal, mas vence o mal com o bem"), paralelo direto de ESE cap. XII ("Amai os vossos inimigos"). Ver [[wiki/obras/epistola-aos-romanos]].
+
+### Reverberações em Efésios
+
+A mesma lei retorna em **Efésios** em dois pontos sintéticos, que articulam o perdão fraterno e a imitação de Deus como espinha dorsal da vida moral:
+
+> "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo." (Ef 4:32)
+
+> "Sede, pois, imitadores de Deus, como filhos amados; e andai em amor, como também Cristo vos amou, e se entregou a si mesmo por nós [...]." (Ef 5:1–2)
+
+**Ef 4:32** é formulação paulina compacta de **ESE cap. XII** ("Amai os vossos inimigos") e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35): o perdão fraterno é **espelho recíproco** do perdão divino — quem retém o perdão obstrui o canal pelo qual o próprio é perdoado. **Ef 5:1–2** é fórmula gêmea de "Sede perfeitos como o vosso Pai celestial é perfeito" (Mt 5:48; ESE cap. XVII): "imitar Deus" é conformação progressiva do caráter ao caráter divino lido em Cristo (LE q. 625; [[wiki/conceitos/perfeicao-moral]]). Ver [[wiki/obras/epistola-aos-efesios]].
 
 ## Lei real e lei da liberdade em Tiago
 

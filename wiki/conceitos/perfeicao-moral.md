@@ -52,11 +52,22 @@ O capítulo também discute os **bons espíritas** — distinguindo a crença te
 
 Ver [[wiki/conceitos/homem-de-bem]] · [[wiki/conceitos/parabola-do-semeador]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
+### Reverberação paulina: imitadores de Deus
+
+Paulo formula em **Efésios 5:1–2** a fórmula compacta da perfeição moral cristã:
+
+> "Sede, pois, imitadores de Deus, como filhos amados; e andai em amor, como também Cristo vos amou, e se entregou a si mesmo por nós [...]." (Ef 5:1–2)
+
+Gêmea de "Sede perfeitos como o vosso Pai celestial é perfeito" (Mt 5:48; ESE cap. XVII), a "imitação" paulina é **conformação progressiva** do caráter ao caráter divino — não cópia exterior, e tampouco estado adquirido em uma só encarnação. Articula-se ao [[wiki/conceitos/homem-velho-homem-novo|homem novo]] de Ef 4:22–24 ("criado em verdadeira justiça e santidade") como dois movimentos do mesmo trabalho: despojar do velho, revestir do novo, **andar em amor**.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]]
+- [[wiki/conceitos/homem-velho-homem-novo]] — moldura paulina da reforma íntima
+- [[wiki/obras/epistola-aos-efesios]] — Ef 4:22–24; 5:1–2
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. XII (q. 893–919). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII — "Sede perfeitos". Trad. Guillon Ribeiro. FEB.
+- *Bíblia Sagrada* (ACF). Epístola aos Efésios, 4:22–24; 5:1–2. Ver [[wiki/obras/epistola-aos-efesios]].

@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, predestinacao, livre-arbitrio, paulo, romanos, graca, obra/le, obra/ese, lei/liberdade]
-atualizado_em: 2026-04-20
+tags: [divergencia, predestinacao, livre-arbitrio, paulo, romanos, efesios, graca, obra/le, obra/ese, lei/liberdade]
+atualizado_em: 2026-04-29
 status: aberta
 ---
 
@@ -111,6 +111,22 @@ Três camadas:
 
 A metáfora do oleiro (9:21), lida pelo Espiritismo, **descreve a realidade da criação diferenciada** — Espíritos criados com a mesma potencialidade mas que, pelas suas próprias escolhas ao longo do tempo, tornam-se "vasos de honra" ou "vasos de desonra". **A escolha é do vaso, não do oleiro.** Paulo retoricamente diminui o homem ("quem és tu, que a Deus replicas?"), mas o Espiritismo afirma a dignidade da criatura moral: "Sem o livre-arbítrio, o homem seria máquina" (LE q. 843).
 
+### Reverberação em Efésios 1
+
+A mesma cadeia de eleição reaparece em **Efésios 1**, em vocabulário ainda mais doxológico:
+
+> "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com todas as bênçãos espirituais nos lugares celestiais em Cristo; **como também nos elegeu nele antes da fundação do mundo**, para que fôssemos santos e irrepreensíveis diante dele em amor; e **nos predestinou para filhos de adoção** por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade [...]." (Ef 1:3–5)
+>
+> "Nele, digo, em quem também fomos feitos herança, **havendo sido predestinados, conforme o propósito daquele que faz todas as coisas**, segundo o conselho da sua vontade." (Ef 1:11)
+
+A formulação de Efésios é **a mais rotunda** do corpus paulino sobre o tema: eleição "antes da fundação do mundo" (1:4) + predestinação para filiação adotiva (1:5) + predestinação herdada "conforme o propósito daquele que faz todas as coisas" (1:11). A tradição calvinista a leu como confirmação da dupla predestinação; a tradição luterana, como base da *sola gratia* incondicional.
+
+A leitura espírita aplica a mesma chave de Romanos 8: **presciência divina + escolha do Espírito antes da encarnação**. "Antes da fundação do mundo" não é decreto que cria almas predestinadas à salvação ou perdição; descreve a **anterioridade ontológica do plano divino** sobre o tempo material — coerente com LE q. 76–80 (criação dos Espíritos, todos com a mesma potencialidade de progresso) e LE q. 132–148 (encarnação como instrumento do progresso). A "predestinação" de Ef 1:5 é a vocação universal à filiação espiritual, que cada Espírito **realiza pela própria liberdade** ao longo de sucessivas existências.
+
+O contexto doxológico de Efésios atenua ainda mais a leitura predestinacionista absoluta: Paulo está louvando o plano divino, não construindo sistema de quem está dentro e quem está fora. A linguagem é de inclusão, não exclusão — "nos elegeu", "nos predestinou", "fomos feitos herança". Os destinatários são chamados a viver à altura da vocação (cap. 4 — "andeis como é digno da vocação com que fostes chamados"), não a contemplar passivamente decreto inalterável.
+
+Ver [[wiki/obras/epistola-aos-efesios]] cap. 1.
+
 ### Relação com outras divergências
 
 - [[wiki/divergencias/pecado-original-em-romanos-5]] — a predestinação é a outra face do pecado original na teologia agostiniana: se todos caem em Adão, só se salvam os eleitos pela graça. Negado o pecado original, enfraquece-se o alicerce da predestinação absoluta.
@@ -125,6 +141,7 @@ Kardec prevalece: livre-arbítrio como fundamento da responsabilidade moral (LE 
 ## Páginas relacionadas
 
 - [[wiki/obras/epistola-aos-romanos]] — caps. 8–9
+- [[wiki/obras/epistola-aos-efesios]] — cap. 1 (eleição "antes da fundação do mundo"; predestinação para filiação adotiva)
 - [[wiki/obras/livro-dos-espiritos]] — q. 258, 843, 851, 1009–1012
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. V (bem-aventurados os aflitos — provas escolhidas pelo Espírito)
 - [[wiki/conceitos/livre-arbitrio]]
@@ -137,7 +154,7 @@ Kardec prevalece: livre-arbítrio como fundamento da responsabilidade moral (LE 
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 8:28–30; 9:1–33; 11:1–36.
+- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 8:28–30; 9:1–33; 11:1–36; Epístola aos Efésios, 1:3–14.
 - KARDEC, Allan. *O Livro dos Espíritos*. Q. 115, 121, 258–262, 780, 843–872 (esp. q. 843, 851, 861), 1009–1012. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Cap. V — "Bem-aventurados os aflitos", itens 4–9 (causas atuais e anteriores das aflições). Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Céu e o Inferno*. 1ª parte, cap. VII (penas eternas — refutação). Trad. Manuel Quintão. FEB.

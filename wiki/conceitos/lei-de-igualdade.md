@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE]
-tags: [igualdade, riqueza, miseria, homem-e-mulher, lei-moral, obra/le, lei/igualdade]
-atualizado_em: 2026-04-05
+fontes: [LE, NT]
+tags: [igualdade, riqueza, miseria, homem-e-mulher, escravidao, lei-moral, obra/le, lei/igualdade]
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -37,6 +37,14 @@ Perante Deus, têm os mesmos direitos. Uma legislação perfeitamente justa deve
 ## Princípio fundamental
 
 > "O primeiro princípio de justiça é este: Não façais aos outros o que não quereríeis que vos fizessem." (LE, q. 822)
+
+## Divergências
+
+A leitura literalista de duas passagens paulinas instala estruturas hierárquicas que divergem da Lei de Igualdade:
+
+- [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] — Ef 5:22–24 ("mulheres, sujeitai-vos a vossos maridos [...] o marido é a cabeça da mulher") em tensão com LE q. 817–822. A mutualidade de Ef 5:21 e o amor sacrificial assimétrico do marido (Ef 5:25) atenuam a leitura, mas o literalismo permanece divergente.
+- [[wiki/divergencias/escravidao-em-efesios-6]] — Ef 6:5–9 (servos obedecem aos senhores) em tensão com LE q. 803, 806, 818, 822 e com a Lei de Liberdade (LE q. 825–872). Paulo dignifica o servo perante Deus ("não há acepção de pessoas", Ef 6:9) mas não recusa a estrutura escrava.
+- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11:3–16 e 14:34–35 (silêncio litúrgico feminino) em tensão com LE q. 817–822 e com At 2:17 ("vossas filhas profetizarão").
 
 ## Páginas relacionadas
 

@@ -160,6 +160,7 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/conceitos/escala-espirita]] — os Espíritos obsessores pertencem à terceira ordem
 - [[wiki/conceitos/fluidos]] — fluidos impuros envolvem o obsidiado
 - [[wiki/conceitos/prece]] — meio de combate à obsessão
+- [[wiki/conceitos/armadura-de-deus]] — disciplina moral preventiva (Ef 6:10–17) lida pela escala espírita
 - [[wiki/conceitos/depressao]] — transtorno frequentemente agravado pela obsessão
 - [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica (André Luiz)
 - [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
