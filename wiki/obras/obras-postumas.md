@@ -4,7 +4,7 @@ fontes: [OPE]
 tags: [kardec, obras-postumas, nivel-2, postuma, obra/ope]
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-04-07
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -76,7 +76,7 @@ A obra divide-se em duas partes, precedidas de textos prefaciais:
 
 1. **A minha primeira iniciação no Espiritismo** — relato autobiográfico de Kardec (1854–1857). Descreve: primeiro contato com as mesas girantes (1854), visita à Sra. Plainemaison (maio 1855), sessões na família Baudin, adoção do método experimental ("observar, comparar e julgar"), as questões que deram origem a *O Livro dos Espíritos* e a verificação com múltiplos médiuns. Ver [[wiki/personalidades/allan-kardec]].
 
-2. **Livro das Previsões** — extratos de comunicações mediúnicas de 1855 a 1868, incluindo:
+2. **Livro das Previsões** — extratos de comunicações mediúnicas de 1855 a 1868. Estudo sistemático em [[wiki/aprofundamentos/missao-de-kardec]]. Inclui:
    - Meu Espírito protetor (dez/1855)
    - Meu Guia espiritual (mar/1856)
    - Primeira revelação da missão (abr/1856)

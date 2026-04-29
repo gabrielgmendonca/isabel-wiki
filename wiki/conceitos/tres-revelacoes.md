@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, Léon Denis]
 tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -61,6 +61,7 @@ Ao preparar palestras sobre a identidade do Espiritismo, o conceito das três re
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. I e Introdução
 - [[wiki/obras/cristianismo-e-espiritismo]] — caps. IX–X, a Nova Revelação
 - [[wiki/obras/segunda-epistola-aos-corintios]] — cap. 3 (nova aliança do espírito; "a letra mata, o espírito vivifica"; "de glória em glória")
+- [[wiki/aprofundamentos/missao-de-kardec]] — função do Codificador na Terceira Revelação coletiva
 
 ## Fontes
 

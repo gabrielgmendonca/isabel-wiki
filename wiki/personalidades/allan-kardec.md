@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
 tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -45,7 +45,7 @@ Nas *Obras Póstumas*, Kardec relata em primeira pessoa os passos que o levaram 
 
 ## Missão de Kardec (Livro das Previsões)
 
-A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões* — comunicações mediúnicas de 1855 a 1868 sobre a missão de Kardec e o futuro do Espiritismo. Destaques:
+A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões* — comunicações mediúnicas de 1855 a 1868 sobre a missão de Kardec e o futuro do Espiritismo. Estudo sistemático em [[wiki/aprofundamentos/missao-de-kardec]]. Destaques:
 
 - **Primeira revelação da missão** (30 de abril de 1856) — Espíritos superiores revelam a Kardec sua missão de codificador.
 - **Futuro do Espiritismo** (15 de abril de 1860) — Previsões sobre a expansão da Doutrina.
@@ -71,6 +71,7 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 - [[wiki/personalidades/espiritos-reveladores]]
 - [[wiki/personalidades/camille-flammarion]]
 - [[wiki/obras/obras-postumas]]
+- [[wiki/aprofundamentos/missao-de-kardec]] — estudo sistemático da missão (Pentateuco + Livro das Previsões + *A Caminho da Luz*)
 
 ## Fontes
 
