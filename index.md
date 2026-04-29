@@ -77,7 +77,7 @@ Quando complementares contradizem o Pentateuco, **Kardec prevalece**. Divergênc
 > [!warning] Trabalho em andamento
 > Esta wiki é um projeto vivo. Há páginas em rascunho, lacunas de cobertura e temas ainda não abordados. Toda contribuição passa por revisão humana.
 
-**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 32 fontes complementares. ~328 páginas entre conceitos, obras, personalidades, questões, aprofundamentos e sínteses.
+**Cobertura atual:** Pentateuco completo (5/5 obras ingeridas) + Evangelhos canônicos (Mateus, Marcos, Lucas, João) + 33 fontes complementares. ~329 páginas entre conceitos, obras, personalidades, questões, aprofundamentos e sínteses.
 
 > [!tip] Navegação avançada
 > Use a **barra de busca** no topo para encontrar qualquer tema. O **explorer** (barra lateral) mostra a árvore completa de páginas. O **grafo interativo** revela as conexões — quanto mais você explora, mais útil ele fica. Para um panorama textual de todas as páginas, ver [[wiki/sinteses/catalogo]].

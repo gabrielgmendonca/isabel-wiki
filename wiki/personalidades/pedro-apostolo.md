@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro]
-atualizado_em: 2026-04-28
+tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro, antioquia, paulo]
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -20,7 +20,7 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 
 ## Traços doutrinários relevantes
 
-- **Humanidade corrigível.** Pedro representa, no corpo apostólico, o discípulo **impetuoso e frágil** — o primeiro a confessar, o primeiro a negar. A restauração pós-Páscoa (Jo 21) é modelo do **perdão e reintegração** que é próprio da moral de Jesus (ESE, cap. X; LE, q. 999–1008 sobre arrependimento e reparação).
+- **Humanidade corrigível.** Pedro representa, no corpo apostólico, o discípulo **impetuoso e frágil** — o primeiro a confessar, o primeiro a negar. A restauração pós-Páscoa (Jo 21) é modelo do **perdão e reintegração** que é próprio da moral de Jesus (ESE, cap. X; LE, q. 999–1008 sobre arrependimento e reparação). O **episódio de Antioquia** (Gl 2:11–14) prolonga essa fragilidade: chegando da parte de Tiago "alguns" judaizantes, Pedro recua de comer com gentios "temendo os que eram da circuncisão" (2:12); [[wiki/personalidades/paulo-de-tarso|Paulo]] o repreende **publicamente** porque "não andava direitamente conforme a verdade do evangelho" (2:14). O texto refuta antecipadamente toda doutrina de **infalibilidade** ou **primado jurídico** absoluto: Pedro é "repreensível" e Paulo o trata como **par**, não como superior. Convergência com a leitura espírita do "poder das chaves" (Mt 16:18–19) como autoridade **moral**, não institucional.
 - **Mediunidade e ação fluídica.** Cura do coxo pela palavra em nome de Jesus (At 3:6); curas por irradiação da sombra (At 5:15); discernimento mediúnico diante de Ananias, Safira e Simão, o Mago. Repertório enquadrável em Gênese, caps. XIV–XV.
 - **Universalismo.** Depois da visão do lençol em Jope, formula: "Deus não faz acepção de pessoas" (At 10:34) — passagem citada por Kardec em ESE, cap. XI.
 - **Posição kardequiana quanto ao "primado".** Kardec **não lê Mt 16:18–19 ("sobre esta pedra edificarei a minha igreja [...] dar-te-ei as chaves")** como instituição de primado jurídico hereditário. O "poder das chaves" é moral: o fiel é julgado por suas obras; não há igreja exclusiva intermediária da salvação (ESE, cap. XV, "fora da caridade não há salvação"). A leitura espírita honra Pedro como testemunha e pioneiro sem elevá-lo a cabeça monárquica da fé.
@@ -30,6 +30,7 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - [[wiki/obras/atos-dos-apostolos]] — protagonista dos caps. 1–12; participação no concílio de Jerusalém (cap. 15).
 - [[wiki/obras/primeira-epistola-de-pedro]] — autor (1Pe 1:1; auto-identificado como "presbítero com eles, e testemunha das aflições de Cristo" em 5:1). Carta pastoral às comunidades dispersas da Ásia Menor sob perseguição.
 - [[wiki/obras/evangelho-segundo-marcos]] — Evangelho cuja tradição patrística (Papias) atribui à pregação oral de Pedro registrada por seu discípulo [[wiki/personalidades/marcos-evangelista|Marcos]].
+- [[wiki/obras/epistola-aos-galatas]] — figura mencionada (Gl 1:18 — Paulo o conhece quinze dias em Jerusalém; Gl 2:7–9 — apostolado da circuncisão; Gl 2:9 — coluna da Igreja; Gl 2:11–14 — episódio do confronto em Antioquia).
 
 ## Citações relevantes
 
@@ -45,8 +46,10 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 
 - [[wiki/obras/atos-dos-apostolos]] — caps. 1–12, 15
 - [[wiki/obras/evangelho-segundo-marcos]] — cuja tradição remonta à pregação de Pedro (Papias)
+- [[wiki/obras/epistola-aos-galatas]] — confronto a Paulo em Antioquia (Gl 2:11–14)
 - [[wiki/personalidades/jesus]]
 - [[wiki/personalidades/paulo-de-tarso]]
+- [[wiki/personalidades/tiago-irmao-do-senhor]] — coluna ao lado de Pedro em Jerusalém (Gl 2:9)
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — "Deus não faz acepção de pessoas"
 - [[wiki/conceitos/mediunidade]] — repertório fenomenológico petrino
 

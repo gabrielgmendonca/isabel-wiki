@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, C&I, Gênese]
+fontes: [LE, C&I, Gênese, NT]
 tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-29
 status: ativo
 ---
 
@@ -32,9 +32,25 @@ A lei de causa e efeito não é fatalismo. O livre-arbítrio do Espírito é pre
 
 As leis divinas, sendo perfeitas e eternas, regulam tanto o universo físico quanto o moral. A lei de causa e efeito é expressão dessa imutabilidade: nenhuma prece ou ritual substitui a necessidade de reformar-se interiormente (Gênese, cap. I, item 16; LE, q. 617).
 
+### Formulações apostólicas convergentes
+
+A lei de causa e efeito tem **formulações apostólicas explícitas** no NT, que Kardec não deixou de aproveitar:
+
+- **"Tudo o que o homem semear, isso também ceifará. Porque o que semeia na sua carne, da carne ceifará a corrupção; mas o que semeia no Espírito, do Espírito ceifará a vida eterna"** (Gl 6:7–8) — formulação **paulina** mais limpa, articulada com a recusa da auto-justificação cerimonial (ver [[wiki/obras/epistola-aos-galatas|Epístola aos Gálatas]]). "**Deus não se deixa escarnecer**" (Gl 6:7) é declaração apostólica direta da imutabilidade da lei.
+- **"Sem acepção de pessoas, julga segundo a obra de cada um"** (1Pe 1:17) — fórmula **petrina** paralela, eco direto de At 10:34 (ver [[wiki/obras/primeira-epistola-de-pedro|Primeira Epístola de Pedro]]).
+- **"Cada um de nós dará conta de si mesmo a Deus"** (Rm 14:12) — fórmula paulina sintética da **responsabilidade individual** intransferível.
+- **"Sem acepção de pessoas"** na boca do próprio Pedro em casa de Cornélio (At 10:34) — declaração apostólica do universalismo da justiça divina.
+
+A lei de causa e efeito **não é** acréscimo doutrinário do Espiritismo ao cristianismo apostólico — é **explicitação racional** de princípio que está, em formulações concentradas, no próprio epistolário do NT.
+
 ## Aplicação prática
 
 A compreensão da lei de causa e efeito é libertadora: transforma o sofrimento de castigo em oportunidade, e a felicidade de acaso em conquista merecida. Em palestras, ajuda a responder por que há desigualdade de condições entre os homens — sem recorrer a um Deus parcial ou indiferente.
+
+## Divergências
+
+- [[wiki/divergencias/sangue-expiatorio-em-1-joao]] · [[wiki/divergencias/sangue-expiatorio-em-1-pedro]] · [[wiki/divergencias/sangue-expiatorio-em-galatas]] — a teologia da expiação penal substitutiva (sangue de Cristo como pagamento jurídico) é a leitura **incompatível** com a lei de causa e efeito; ver as três divergências por especificidades textuais.
+- [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — Hb 6:4–6; 10:26–27 (impossibilidade de renovação) vs. universalidade da reparação possível (LE q. 1009).
 
 ## Páginas relacionadas
 
@@ -45,9 +61,12 @@ A compreensão da lei de causa e efeito é libertadora: transforma o sofrimento 
 - [[wiki/conceitos/lei-natural]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/obras/epistola-aos-galatas]] — Gl 6:7–8 (semear e ceifar)
+- [[wiki/obras/primeira-epistola-de-pedro]] — 1Pe 1:17 (juízo segundo a obra)
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. I (Introdução); Parte 3, cap. I, q. 614–618; Parte 4, cap. II, q. 984–986. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. VII. FEB.
 - Kardec, Allan. *A Gênese*. Cap. I, itens 14–16. Trad. Guillon Ribeiro. FEB.
+- *Bíblia Sagrada* (ACF). Gálatas 6:7–8; 1 Pedro 1:17; Romanos 14:12; Atos 10:34.

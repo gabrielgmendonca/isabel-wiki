@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
 atualizado_em: 2026-04-29
 status: ativo
 ---
@@ -66,6 +66,14 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - "Todas as coisas contribuem juntamente para o bem daqueles que amam a Deus" (Rm 8:28) — providência articulada à sintonia moral.
 - "O cumprimento da lei é o amor" (Rm 13:10) — formulação paulina da Lei de Justiça, Amor e Caridade.
 - "Cada um de nós dará conta de si mesmo a Deus" (Rm 14:12) — princípio da responsabilidade individual.
+- "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim" (Gl 2:20) — identificação moral progressiva com o Cristo.
+- "Em Cristo Jesus não há judeu nem grego; não há servo nem livre; não há macho nem fêmea" (Gl 3:28) — universalismo radical, paralelo a Rm 2:11; At 10:34.
+- "Estai, pois, firmes na liberdade com que Cristo nos libertou" (Gl 5:1) — recusa do jugo cerimonial.
+- "Em Jesus Cristo [...] sim a fé que opera pelo amor" (Gl 5:6) — fórmula sintética da fé viva paulina; eco direto de Tg 2:14–17.
+- "Toda a lei se cumpre numa só palavra, nesta: Amarás ao teu próximo como a ti mesmo" (Gl 5:14) — paralelo a Mt 22:39 e Rm 13:8–10.
+- "O fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança" (Gl 5:22–23) — catálogo moral fundamental.
+- "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo" (Gl 6:2) — caridade ativa.
+- "Tudo o que o homem semear, isso também ceifará" (Gl 6:7) — formulação apostólica direta da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]].
 
 ## Páginas relacionadas
 
@@ -73,6 +81,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/epistola-aos-romanos]] — carta-tratado (2:14–15 lei na consciência; 5 aflições; 7 luta moral; 8 vida no Espírito; 13 amor cumpre a lei)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
 - [[wiki/obras/segunda-epistola-aos-corintios]] — apologia do ministério; "a letra mata, o espírito vivifica" (3:6, base hermenêutica do ESE); cartas vivas (3:2–3); tabernáculo terrestre / casa eterna (5:1–10); tesouro em vasos de barro (4:7); arrebatamento ao terceiro céu e espinho na carne (12:1–10); "Satanás se transfigura em anjo de luz" (11:14)
+- [[wiki/obras/epistola-aos-galatas]] — carta da liberdade (1–2 vocação direta e confronto a Pedro em Antioquia; 3 justificação pela fé, alegoria autorizada; 5 fruto do Espírito × obras da carne; 6:7 semear e ceifar)
 - [[wiki/obras/epistola-aos-hebreus]] — **autoria paulina discutida** (ver nota acima); anjos como "espíritos ministradores" (1:14; 13:2), nova aliança com a lei escrita no coração (8:10), Jesus consagrado pelas aflições (2:10; 5:8), "Pai dos espíritos" e correção pedagógica (12:5–11), fé como "firme fundamento" (11:1)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
@@ -94,6 +103,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Rm 1:26–27 ampliando o debate Kardec vs. Léon Denis
 - [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — Hb 9:27 ("aos homens está ordenado morrerem uma vez") vs. pluralidade das existências
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — Hb 6:4–6; 10:26–27 (impossibilidade de renovação após recaída) vs. misericórdia infinita e progresso indefinido
+- [[wiki/divergencias/sangue-expiatorio-em-galatas]] — Gl 3:13 ("fazendo-se maldição por nós") vs. responsabilidade pessoal e reparação direta
 
 ## Fontes
 
