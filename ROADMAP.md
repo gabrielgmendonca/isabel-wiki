@@ -31,7 +31,7 @@ Tirados de uma auditoria de `CLAUDE.md` + 4 skills + rules + hook (2026-04-26). 
 
 ### 0.4 UX / fluxo
 
-- [x] **Skill `/query`** — decisão: não criar skill autocontido. Workflow promovido a subseção dedicada em CLAUDE.md §4. Mais leve, mesma orientação.
+- [x] **Skill `/estudo`** (originalmente proposta como `/query`) — decisão: não criar skill autocontido. Workflow promovido a subseção dedicada em CLAUDE.md §4. Mais leve, mesma orientação.
 - [x] **`/ingest` sugerir `/lint` no final** — Passo 10 sugere rodar `/lint` após ingest.
 - [x] **`/ingest` usar qmd para checar duplicatas** — novo Passo 3 com query `lex` + `vec` em `wiki/` antes de criar páginas.
 

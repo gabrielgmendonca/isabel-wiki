@@ -76,27 +76,21 @@ Detentores conhecidos estão tabulados em `.claude/rules/convencoes-paginas.md` 
 
 `raw/` é excluído do build público do Quartz (`quartz.config.ts` `ignorePatterns`). Contém transcrições integrais de obras protegidas (Chico Xavier/FEB, Hammed/Boa Nova, Divaldo/LEAL, etc.) usadas apenas na pipeline local — qmd (busca), `/ingest` e `link_citations.py`. Apenas `wiki/` e `index.md` vão para o GitHub Pages. O lint (`check_raw_excluded`) trava regressão dessa exclusão.
 
-### Query
+### Estudo
 
-Workflow para responder a uma pergunta usando a wiki como base.
+Workflow para usar a wiki como base de conhecimento — parte de uma dúvida ou de uma ingestão recém-feita e termina em página citável.
 
-**Como buscar.** `qmd` é MCP server local (BM25 + vetorial sobre 920 documentos). Coleções: `raw` (713 docs, fonte: Kardec, Léon Denis, Chico Xavier, palestras) e `wiki` (207 docs, curado, com frontmatter e citações). Tipos de busca:
-
-- `lex` — BM25 keyword. Use para sigla, número de questão, termo técnico exato.
-- `vec` — semântico. Use para conceito, sinônimos, paráfrase.
-- `hyde` — hipotético. Use quando você sabe como a resposta *parece*, não as palavras-chave.
-
-Combinar `lex` + `vec` na mesma chamada cobre a maioria dos casos. Sempre fornecer `intent` para desambiguar. Buscar primeiro em `wiki/`, descer para `raw/` se necessário. Fallback sem qmd: ler `wiki/sinteses/catalogo.md` (a home `index.md` é landing de trilhas, não listagem).
+**Como buscar.** Usar o `qmd` (MCP local) sobre as coleções `wiki` (curado) e `raw` (fontes integrais). Combinar `lex` + `vec` na mesma chamada cobre a maioria dos casos; sempre fornecer `intent`. Buscar primeiro em `wiki/`, descer para `raw/` se necessário. Fallback sem qmd: ler `wiki/sinteses/catalogo.md` (a home `index.md` é landing de trilhas, não listagem). O detalhamento de `lex`/`vec`/`hyde` vem do próprio servidor.
 
 **Citar começando por Kardec.** Respeitar a hierarquia (§2): Jesus/Pentateuco antes de complementares. Usar os formatos de §3.
 
-**Default = oferecer arquivar.** Toda resposta substantiva merece virar página citável. Escolher o tipo:
+**Capitalizar em página citável.** Aplicação direta do Princípio de crescimento (§1): toda resposta substantiva merece virar página. Escolher o tipo:
 
 - `wiki/sinteses/` — panorama, conexões entre temas, comparativos entre obras/autores.
 - `wiki/aprofundamentos/` — estudo sistemático de um tema ou bloco doutrinário (subseção do LE, capítulo do ESE, conjunto de itens de C&I).
 - `wiki/questoes/` — Q&A direta ancorada em **uma única** questão ou item pontual do Pentateuco (questão numerada de LE/LM/OQE ou item de C&I/ESE/Gênese).
 
-Só pular o oferecimento quando a pergunta for puramente operacional. Se arquivado, listar a nova página em `wiki/sinteses/catalogo.md` e registrar entrada em `log.md`.
+Pós-ingest, o fluxo típico é mapear candidatos a partir do livro recém-ingerido (conceitos, personalidades, divergências, sínteses) e deixar o usuário escolher item a item. Só pular a capitalização quando a pergunta for puramente operacional. Se arquivado, listar a nova página em `wiki/sinteses/catalogo.md` e registrar entrada em `log.md`.
 
 ---
 
