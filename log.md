@@ -4,6 +4,12 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-04-29] lint | Promove `wiki/personalidades/meimei.md` para `ativo` e corrige biografia
+
+Rascunho parado há 22 dias com corpo já substantivo. Primeira passada: adicionado `LE` em `fontes` (corpo já citava q. 291–293 e q. 386), criada seção `## Citações relevantes` extraindo a carta "Querido Naldinho..." do parágrafo de Papel para blockquote dedicado conforme estrutura de `personalidade` em `convencoes-paginas.md`, status promovido para `ativo` e `atualizado_em` ajustado.
+
+Segunda passada: cruzamento com fontes online (Wikipédia, União Espírita Mineira, FEB) revelou três erros factuais herdados da palestra do Divaldo: (a) ano de desencarne 1948 → **1º/10/1946**; (b) causa "cardíaca" → **edema pulmonar agudo no quadro de nefrite crônica**; (c) "morreu um mês após o casamento" → **viveram 4 anos** (casamento 10/06/1942, desencarne 01/10/1946). Identificação ampliada com nome completo (Irma de Castro Rocha), nascimento (22/10/1922, Mateus Leme/MG) e origem do apelido (romance *Um Momento em Pequim* de Lin Yutang). Adicionada lista das obras psicografadas atribuídas a Meimei (*Pai Nosso*, *Cartilha do Bem*, *Amizade*, *Palavras do Coração*, *Evangelho em Casa*, *Deus Aguarda*, *Mãe* — nenhuma ainda catalogada em `wiki/obras/`) e nota explícita registrando a discrepância com a oratória de Divaldo, com a wiki adotando a cronologia documentada. Três fontes biográficas adicionadas à seção Fontes.
+
 ## [2026-04-29] lint | Atualiza contagens em index.md
 
 Rodado `update_status.py` após lint flaggar `status_projeto`: "31 fontes complementares" → 32, "~327 páginas" → 328. Drift acumulado das duas últimas ingestões (2 Coríntios, Timóteo) que não dispararam o script. Cosmético, sem mudança estrutural.
