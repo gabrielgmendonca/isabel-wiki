@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE]
-tags: [espirito-comunicante, psicografia, chico-xavier]
+tags: [espirito-comunicante, psicografia, chico-xavier, obra/le]
 atualizado_em: 2026-04-29
 status: ativo
 ---

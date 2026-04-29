@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, escravidao, igualdade, liberdade, paulo, efesios, lei-de-igualdade, lei-de-liberdade, obra/le, lei/igualdade, lei/liberdade]
+tags: [divergencia, escravidao, igualdade, liberdade, paulo, efesios, lei-de-igualdade, lei-de-liberdade, obra/le, lei/igualdade, lei/liberdade, obra/ese]
 atualizado_em: 2026-04-29
 status: aberta
 ---

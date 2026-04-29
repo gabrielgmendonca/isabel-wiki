@@ -55,6 +55,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
 > `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do workflow **Query** (CLAUDE.md §4), não da ingestão.
 3. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 4. **Atualizar `wiki/sinteses/catalogo.md`** com links e resumos das páginas novas (a home `index.md` é landing de trilhas e não lista páginas individuais).
-5. **Recalcular "Status do projeto"**: rodar `uv run python .claude/skills/ingest/scripts/update_status.py` para atualizar a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.).
-6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
-7. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).
+5. **Enriquecer tags `obra/`**: rodar `uv run python scripts/enrich_tags_obra.py` para preencher as tags `obra/*` derivadas do campo `fontes` nas páginas novas/atualizadas. Idempotente — skipa páginas já completas. A taxonomia `obra/` está documentada em `.claude/rules/convencoes-paginas.md`.
+6. **Recalcular "Status do projeto"**: rodar `uv run python .claude/skills/ingest/scripts/update_status.py` para atualizar a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.).
+7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
+8. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).
