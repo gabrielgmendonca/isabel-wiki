@@ -6,8 +6,8 @@ direitos:
   detentor: FEB
   ano_dp_estimado: 2073
   url_aquisicao: https://www.febeditora.com.br/a-caminho-da-luz
-atualizado_em: 2026-04-07
-status: rascunho
+atualizado_em: 2026-04-30
+status: ativo
 ---
 
 # A Caminho da Luz

@@ -2,8 +2,8 @@
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
 tags: [irma-clara, espirito-comunicante, andre-luiz, centros-de-forca, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
-atualizado_em: 2026-04-15
-status: rascunho
+atualizado_em: 2026-04-30
+status: ativo
 ---
 
 # Irmã Clara
