@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT, LM]
-tags: [timoteo, apostolo, paulo, atos, pastorais, efeso, listra, mediunidade, mediunidade-inspirada, heranca-de-fe, obra/lm, autor/kardec, autor/paulo, grau/intermediario]
-atualizado_em: 2026-04-29
+tags: [timoteo, apostolo, paulo, atos, pastorais, efeso, listra, filipos, mediunidade, mediunidade-inspirada, heranca-de-fe, obra/lm, autor/kardec, autor/paulo, grau/intermediario]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -64,14 +64,16 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 - [[wiki/obras/primeira-epistola-aos-corintios]] — enviado, 4:17 e 16:10–11.
 - [[wiki/obras/segunda-epistola-aos-corintios]] — co-autor, 1:1 e 1:19.
 - [[wiki/obras/epistola-aos-hebreus]] — preso e liberto, 13:23.
+- [[wiki/obras/epistola-aos-filipenses]] — co-saudador (1:1) e cooperador modelar promovido por Paulo a "filho ao pai" no serviço do evangelho (2:19–24): "a ninguém tenho de igual sentimento, que sinceramente cuide do vosso estado [...] todos buscam o que é seu, e não o que é de Cristo Jesus" (2:20–21).
 - [[wiki/obras/livro-dos-mediuns]] — assinatura "Erasto e Timóteo" no encerramento da explicação sobre psicografia (2ª parte, cap. XIX).
-- 1 Tessalonicenses, 2 Tessalonicenses, Filipenses, Colossenses, Filemom — co-saudador (1:1 nas três primeiras e em Cl; v. 1 em Fm).
+- 1 Tessalonicenses, 2 Tessalonicenses, Colossenses, Filemom — co-saudador (1:1 nas duas primeiras e em Cl; v. 1 em Fm).
 - **1 Timóteo** e **2 Timóteo** — destinatário das duas Pastorais (páginas próprias na wiki em backlog).
 
 ## Citações relevantes
 
 - "Eis que estava ali um certo discípulo por nome **Timóteo**, filho de uma judia que era crente, mas de pai grego" (At 16:1) — origem mista; circuncisão pastoral em 16:3.
 - "Timóteo, **que é meu filho amado, e fiel no Senhor**, o qual vos lembrará os meus caminhos em Cristo" (1 Co 4:17).
+- "Porque a ninguém tenho de igual sentimento, que sinceramente cuide do vosso estado; porque todos buscam o que é seu, e não o que é de Cristo Jesus. Mas bem sabeis qual a sua experiência, e que **serviu comigo no evangelho, como filho ao pai**" (Fp 2:20–22) — promoção paulina máxima do discípulo, em contraste com cooperadores que "buscam o que é seu".
 - "Trabalha **na obra do Senhor**, como eu também" (1 Co 16:10).
 - "Timóteo, nosso irmão, e ministro de Deus, e nosso cooperador no evangelho de Cristo, **para vos confortar e vos exortar acerca da vossa fé**" (1 Ts 3:2) — função consoladora.
 - "Saúdam-vos **Timóteo, meu cooperador**" (Rm 16:21).

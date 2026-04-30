@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier, NT]
-tags: [jesus, cristo, modelo-moral, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-15
+tags: [jesus, cristo, modelo-moral, kenose, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -84,6 +84,14 @@ Primeiro Evangelho canônico e o mais citado por Kardec no ESE. Preserva os cinc
 
 Ver [[wiki/obras/evangelho-segundo-mateus]].
 
+## Hino cristológico em Filipenses 2 (kenose)
+
+Em Fp 2:5–11, Paulo insere fragmento hímnico provavelmente pré-paulino que se tornou pedra angular da cristologia trinitária:
+
+> "De sorte que haja em vós o mesmo sentimento que houve também em Cristo Jesus, que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas **esvaziou-se a si mesmo**, tomando a forma de servo, fazendo-se semelhante aos homens; e, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. Por isso, também Deus o exaltou soberanamente [...] toda a língua confesse que Jesus Cristo é o Senhor, **para glória de Deus Pai**." (Fp 2:5–11)
+
+O verbo "esvaziou-se" (gr. *ekenōsen*) deu origem ao termo técnico **kenose**. A leitura calcedoniana absolutizou a "forma de Deus" e a "igualdade com Deus" como prova da consubstancialidade Filho-Pai; a leitura espírita preserva o eixo ético (descenso voluntário do Espírito superior pelo bem da humanidade) e dissolve a metafísica trinitária. Coerente com OPE: Jesus é "Filho", não Pai; Mensageiro, não Origem — e a aclamação a Cristo redunda explicitamente "para glória de Deus Pai" (2:11). Tratamento conceitual completo em [[wiki/conceitos/kenose-de-cristo]]; divergência registrada em [[wiki/divergencias/jesus-igual-a-deus-em-filipenses-2]].
+
 ## Governador espiritual da Terra (Emmanuel)
 
 Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela formação e organização do planeta, desde a gênese planetária até a direção das civilizações:
@@ -130,10 +138,12 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
 - [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
 - [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
+- [[wiki/obras/epistola-aos-filipenses]] — hino cristológico (Fp 2:5–11) com a kenose como modelo de humildade voluntária; "para mim o viver é Cristo, e o morrer é ganho" (Fp 1:21).
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/personalidades/espiritos-reveladores]]
+- [[wiki/conceitos/kenose-de-cristo]] — esvaziamento voluntário (Fp 2:5–11) como modelo de humildade do Espírito superior em missão.
 - [[wiki/personalidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
 - [[wiki/questoes/jesus-tipo-mais-perfeito]] — Q&A direta sobre LE, q. 625.
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec a partir do mandamento maior (ESE, cap. XV, item 5).

@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario]
-atualizado_em: 2026-04-29
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, filipenses, hebreus, mediunidade, tiago, fe-e-obras, kenose, contentamento, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -87,11 +87,13 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/segunda-epistola-aos-corintios]] — apologia do ministério; "a letra mata, o espírito vivifica" (3:6, base hermenêutica do ESE); cartas vivas (3:2–3); tabernáculo terrestre / casa eterna (5:1–10); tesouro em vasos de barro (4:7); arrebatamento ao terceiro céu e espinho na carne (12:1–10); "Satanás se transfigura em anjo de luz" (11:14)
 - [[wiki/obras/epistola-aos-galatas]] — carta da liberdade (1–2 vocação direta e confronto a Pedro em Antioquia; 3 justificação pela fé, alegoria autorizada; 5 fruto do Espírito × obras da carne; 6:7 semear e ceifar)
 - [[wiki/obras/epistola-aos-efesios]] — carta circular do cativeiro romano (eleição "antes da fundação do mundo" — 1:4–5; reconciliação dos gentios e queda da "parede de separação" — 2:11–22; salvação pela graça com virada para boas obras — 2:8–10; "toda a família nos céus e na terra" — 3:15; unidade do corpo e diversidade dos dons — 4:1–16; homem velho/homem novo — 4:22–24; perdão fraterno — 4:32; imitadores de Deus — 5:1–2; armadura de Deus — 6:10–17). Bloco doméstico (5:21–6:9) com duas divergências estruturais.
+- [[wiki/obras/epistola-aos-filipenses]] — carta da alegria, escrita do cativeiro romano com Timóteo como co-saudador (1:1; "viver é Cristo, morrer é ganho" — 1:21; hino da kenose — 2:5–11; "considerar os outros superiores a si mesmo" — 2:3; "operai a vossa salvação com temor e tremor; porque Deus é o que opera em vós" — 2:12–13; "esquecendo das coisas que atrás ficam, e avançando para as que estão diante de mim, prossigo para o alvo" — 3:13–14; "a nossa cidade está nos céus" — 3:20; "regozijai-vos sempre no Senhor" — 4:4; prece tranquilizadora — 4:6–7; disciplina mental "nisso pensai" — 4:8; contentamento aprendido e "posso todas as coisas em Cristo que me fortalece" — 4:11–13). Divergência cristológica registrada (hino da kenose lido em chave calcedoniana).
 - [[wiki/obras/epistola-aos-hebreus]] — **autoria paulina discutida** (ver nota acima); anjos como "espíritos ministradores" (1:14; 13:2), nova aliança com a lei escrita no coração (8:10), Jesus consagrado pelas aflições (2:10; 5:8), "Pai dos espíritos" e correção pedagógica (12:5–11), fé como "firme fundamento" (11:1)
 - [[wiki/personalidades/jesus]] — aparece a Paulo em Damasco, Corinto e Jerusalém
 - [[wiki/personalidades/pedro-apostolo]] — colaborador no concílio de Jerusalém (At 15)
 - [[wiki/personalidades/tiago-irmao-do-senhor]] — coluna da Igreja de Jerusalém (Gl 2:9); presidiu o concílio de At 15; complementaridade Paulo/Tiago em fé e obras
 - [[wiki/personalidades/timoteo]] — discípulo direto, cooperador desde Listra (At 16:1), co-saudador de seis epístolas e destinatário das duas Pastorais; "verdadeiro filho na fé" (1 Tm 1:2); convocado na carta final, em vésperas do martírio (2 Tm 4:9)
+- [[wiki/personalidades/epafrodito]] — cooperador filipense, "irmão e cooperador, e companheiro nos combates" (Fp 2:25); enviado para servir Paulo no cativeiro romano, adoeceu quase à morte na missão (2:27, 30) — modelo do cooperador que "não fez caso da vida" pela obra
 - [[wiki/personalidades/tiquico]] — cooperador da Ásia (At 20:4); portador provável de Efésios e Colossenses (Ef 6:21–22; Cl 4:7–9); "irmão amado, e fiel ministro do Senhor"
 - [[wiki/obras/epistola-de-tiago]] — diálogo Rm 3–4 vs. Tg 2 sobre justificação
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
@@ -104,6 +106,8 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/conceitos/obsessao]] — pitonisa de Filipos
 - [[wiki/conceitos/homem-velho-homem-novo]] — Rm 6:6; Ef 4:22–24; Cl 3:9–10 (imagem nuclear da reforma íntima)
 - [[wiki/conceitos/armadura-de-deus]] — Ef 6:10–17 (vida moral como combate equipado)
+- [[wiki/conceitos/kenose-de-cristo]] — Fp 2:5–11 (esvaziamento voluntário do Espírito superior em missão)
+- [[wiki/conceitos/contentamento]] — Fp 4:11–13 (contentamento aprendido; "posso todas as coisas em Cristo que me fortalece")
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7 vs. Lei de Reprodução
 - [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11; 14:34–35 vs. Lei de Igualdade
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] — Ef 5:22–24 vs. Lei de Igualdade (LE q. 817–822)
@@ -114,6 +118,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — Hb 9:27 ("aos homens está ordenado morrerem uma vez") vs. pluralidade das existências
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — Hb 6:4–6; 10:26–27 (impossibilidade de renovação após recaída) vs. misericórdia infinita e progresso indefinido
 - [[wiki/divergencias/sangue-expiatorio-em-galatas]] — Gl 3:13 ("fazendo-se maldição por nós") vs. responsabilidade pessoal e reparação direta
+- [[wiki/divergencias/jesus-igual-a-deus-em-filipenses-2]] — Fp 2:6–11 (hino cristológico) absolutizado pela cristologia calcedoniana vs. Jesus como "tipo mais perfeito" e Espírito puro (LE q. 625; OPE)
 
 ## Fontes
 

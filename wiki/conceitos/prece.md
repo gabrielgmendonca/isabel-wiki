@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, NT]
-tags: [prece, oracao, transmissao-do-pensamento, tiago, prece-pelos-doentes, obra/ese, obra/le, lei/adoracao, autor/kardec, autor/tiago, grau/intermediario]
-atualizado_em: 2026-04-27
+tags: [prece, oracao, transmissao-do-pensamento, tiago, paulo, filipenses, prece-pelos-doentes, obra/ese, obra/le, lei/adoracao, autor/kardec, autor/tiago, autor/paulo, grau/intermediario]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -50,6 +50,20 @@ Três aproveitamentos para o estudo espírita:
 > A unção com óleo era prática judaica e helenística corrente do I século — usada para fins medicinais (Lc 10:34, "deitando-lhe azeite e vinho") e religiosos (Mc 6:13, os doze "ungiam com óleo a muitos enfermos e curavam-nos"). Tiago descreve aqui o rito tal como praticado nas primeiras comunidades.
 >
 > A leitura espírita preserva o **núcleo essencial** — prece pelos enfermos, ação fluídica do orante moralmente sintonizado, possibilidade de cura por concurso espiritual — e não retém o ritual da unção como necessário. Kardec não prescreve unção, mas o equivalente funcional é a **prece + passe**. A diferença é cultural, não doutrinária: o azeite consagrado é veículo simbólico do I século; o passe é veículo simbólico mais universalizável do XIX. Ver análise completa em [[wiki/obras/epistola-de-tiago]].
+
+### Prece tranquilizadora em Filipenses 4:6–7
+
+Paulo dá em [[wiki/obras/epistola-aos-filipenses|Filipenses]] uma das fórmulas mais célebres do NT sobre a função consoladora da prece:
+
+> "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com **ação de graças**. E **a paz de Deus, que excede todo o entendimento, guardará os vossos corações** e os vossos pensamentos em Cristo Jesus." (Fp 4:6–7)
+
+Três pontos para o estudo espírita:
+
+1. **Tríplice movimento da prece (4:6).** Paulo articula três modalidades — **oração** (gr. *proseuchē*, ato genérico de elevar-se a Deus), **súplica** (gr. *deēsis*, pedido específico) e **ação de graças** (gr. *eucharistia*, gratidão). A última é decisiva: a oração que pede sem agradecer fica truncada. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, pedir, agradecer". A gratidão é parte da [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663).
+2. **"Não estejais inquietos por coisa alguma"** (4:6). A prece não é negação da preocupação legítima, é **dirigir** a inquietação para o canal certo. Paulo escreve preso em Roma — sabe do que fala. Coerente com ESE cap. XXVII, item 7 (a prece não muda a ordem da natureza, mas dispõe o orante).
+3. **"A paz de Deus que excede todo o entendimento" (4:7)** descreve, em chave kardequiana, o efeito real da sintonia mediúnica positiva — a vibração serena que se instala quando o orante eleva o pensamento aos Espíritos protetores. Não é metáfora; é experiência fenomenologicamente reportada. André Luiz, em *Missionários da Luz* cap. 6, descreve a prece de Cecília como "vibração, energia, poder" que produz efeito clínico real sobre o esposo vampirizado — articulação direta com Fp 4:7.
+
+A passagem de Filipenses é fórmula útil **para a prece da casa espírita** quando há tensão na assembleia (notícias preocupantes, casos difíceis em mesa mediúnica): orar pedindo + agradecendo + entregando, e deixar a "paz que excede o entendimento" assentar antes de qualquer próxima ação.
 
 ### "Pedis, e não recebeis, porque pedis mal" (Tg 4:1–3)
 
@@ -113,6 +127,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - [[wiki/conceitos/fe-raciocinada]] — a prece consciente, não supersticiosa
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XXVII–XXVIII
 - [[wiki/obras/livro-dos-espiritos]] — q. 658–673
+- [[wiki/obras/epistola-aos-filipenses]] — Fp 4:6–7 (prece tranquilizadora; "paz que excede todo o entendimento")
 - [[wiki/trilhas/primeiros-passos]] — trilha introdutória ao Espiritismo (passo final: prece).
 
 ## Fontes

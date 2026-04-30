@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [adoracao, prece, culto, lei-moral, obra/le, obra/ese, lei/adoracao, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-19
+tags: [adoracao, prece, culto, lei-moral, paulo, filipenses, gratidao, obra/le, obra/ese, lei/adoracao, autor/kardec, autor/paulo, grau/intermediario]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -54,7 +54,23 @@ Os sacrifícios humanos da antiguidade resultam de povos em que "a matéria sobr
 
 Aqui a adoração toca diretamente a caridade: consagrar aos pobres as primícias dos bens recebidos é mais piedoso do que cerimônia cara; "Deus ama a simplicidade em tudo" (LE, q. 673).
 
-## Aplicação prática
+## Gratidão como disciplina (Paulo, Filipenses 4:6, 8)
+
+A formulação neotestamentária mais lapidar da gratidão como disciplina vem de [[wiki/obras/epistola-aos-filipenses|Filipenses]], no contexto da prece tranquilizadora:
+
+> "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, **com ação de graças**." (Fp 4:6)
+
+E mais adiante, a disciplina mental que prepara o solo da adoração:
+
+> "Quanto ao mais, irmãos, **tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama**, se há alguma virtude, e se há algum louvor, **nisso pensai**." (Fp 4:8)
+
+Para o estudo espírita:
+
+1. **A "ação de graças" (gr. *eucharistia*)** é parte estruturante da prece, não apêndice opcional. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, **pedir**, **agradecer**". Sem o agradecimento, a prece pendinte fica truncada.
+2. **A disciplina mental de Fp 4:8** prepara o solo da adoração. A oração não brota de uma mente entupida de ressentimento, fofoca ou desejo desordenado — brota da atenção dirigida ao bom, ao verdadeiro, ao justo. Para o Espiritismo, é também sintonia mediúnica positiva (LM 2ª parte cap. XX): o pensamento dirigido aos bons Espíritos abre o canal; o pensamento dirigido às misérias do dia a dia o fecha.
+3. **A gratidão é virtude conquistada**, não estado natural. Quem não treina a atenção em direção ao bom não sente espontaneamente o impulso de agradecer. A "ação de graças" é portanto **disciplina**, em paralelo com o contentamento aprendido de Fp 4:11–13 ([[wiki/conceitos/contentamento]]).
+
+
 
 - Orar do coração, não contar palavras.
 - Verificar a adoração pelos frutos: quem ora bem se faz melhor com os outros.
@@ -65,6 +81,8 @@ Aqui a adoração toca diretamente a caridade: consagrar aos pobres as primícia
 
 - [[wiki/conceitos/deus]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]]
 - [[wiki/conceitos/fe]] · [[wiki/conceitos/humildade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/contentamento]] — articulação direta com gratidão como disciplina (Fp 4:6–13)
+- [[wiki/obras/epistola-aos-filipenses]] — Fp 4:6 (ação de graças); Fp 4:8 (disciplina mental que prepara a adoração)
 - ESE, cap. XXVII (Pedi e obtereis) · cap. XXVIII (Coletânea de preces espíritas)
 
 ## Fontes
