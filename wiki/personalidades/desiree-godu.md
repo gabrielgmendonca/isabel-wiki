@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [desiree-godu, medium, cura, mediunidade-de-cura, hennebon, obra/re]
+tags: [desiree-godu, medium, cura, mediunidade-de-cura, hennebon, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

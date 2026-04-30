@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [RE, Gênese, LM]
-tags: [maravilhoso, sobrenatural, milagre, metodologia, leis-naturais, obra/re, obra/genese, obra/lm]
+tags: [maravilhoso, sobrenatural, milagre, metodologia, leis-naturais, obra/re, obra/genese, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

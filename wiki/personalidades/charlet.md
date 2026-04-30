@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [charlet, comunicante, pintor, caricaturista, animais, obra/re]
+tags: [charlet, comunicante, pintor, caricaturista, animais, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

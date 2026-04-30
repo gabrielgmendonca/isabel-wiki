@@ -36,10 +36,19 @@ Recordava-se de suas existências anteriores, inclusive de ter sido operário me
 2. **Humildade diante do mundo espiritual.** Mesmo feliz, reconheceu estar entre os que "devem ainda aprender muito", demonstrando que a felicidade no além comporta graus e que o progresso é contínuo (C&I, 2ª parte, cap. II, "Sr. Jobard").
 3. **Identidade espiritual e usurpação de nome.** Alertou sobre Espíritos que tomavam seu nome em evocações alheias, mostrando a importância do discernimento mediúnico (C&I, 2ª parte, cap. II, "Sr. Jobard").
 
+## Necrologia em RE dez/1861
+
+A necrologia escrita por Kardec em **dezembro de 1861** registra explicitamente a **abjuração de Jobard das suas próprias teorias errôneas** (alma coletiva e incrustação planetária) ao serem-lhe demonstradas as falhas:
+
+> *"Se me atrapalhei tanto no dédalo dos sistemas filosóficos, é que me faltava uma bússola. Eu só encontrava caminhos sem saída e que não me levavam a nada. Nenhum me dava uma solução concludente dos mais importantes problemas. [...] Ora! Essa chave está na reencarnação, que tudo explica de maneira tão lógica, tão conforme à justiça de Deus, que a gente diz naturalmente: Sim, é preciso que seja assim."* (Jobard a Kardec, citado em RE dez/1861)
+
+A necrologia destaca que Jobard *"foi um dos primeiros a abandonar [a teoria da alma coletiva] quando apareceu o *Livro dos Espíritos*"* — caso-modelo do princípio kardequiano de que a abjuração de erros próprios é prova de bom-senso, não de fraqueza. As **conversas pós-morte** com seu Espírito iniciam imediatamente após 27/10/1861 e são publicadas a partir de jan/1862, alimentando o material que entra em [[wiki/obras/ceu-e-inferno|C&I]], 2ª parte, cap. II.
+
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/obras/revista-espirita-1860]] — fascículo de abril (Teoria da Incrustação Planetária); também out/1860 ("Sobre o valor das comunicações espíritas").
+- [[wiki/obras/revista-espirita-1861]] — necrologia em dez/1861; primeiras comunicações pós-morte iniciadas em nov/1861.
 - [[wiki/conceitos/incrustacao-planetaria]] — teoria proposta por Jobard em vida e rejeitada por Kardec.
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]
@@ -50,3 +59,4 @@ Recordava-se de suas existências anteriores, inclusive de ter sido operário me
 
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "Sr. Jobard". FEB.
 - Kardec, Allan. *Revista Espírita*, abr/1860, "Formação da Terra — Teoria da incrustação planetária"; out/1860, "Sobre o valor das comunicações espíritas (pelo Sr. Jobard)". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, dezembro de 1861, "Necrologia — Morte do Sr. Jobard". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [louis-figuier, adversario, materialismo, hipnotismo, divulgacao-cientifica, obra/re]
+tags: [louis-figuier, adversario, materialismo, hipnotismo, divulgacao-cientifica, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

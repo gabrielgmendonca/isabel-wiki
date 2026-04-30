@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, timoteo, filipenses, kenose, humildade, alegria, contentamento, livre-arbitrio, lei-do-progresso, prece, epafrodito, casa-de-cesar]
+tags: [paulo, timoteo, filipenses, kenose, humildade, alegria, contentamento, livre-arbitrio, lei-do-progresso, prece, epafrodito, casa-de-cesar, autor/paulo]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-30

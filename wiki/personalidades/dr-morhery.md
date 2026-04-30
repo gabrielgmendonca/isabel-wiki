@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [dr-morhery, medico, mediunidade-de-cura, controle-clinico, espe, obra/re]
+tags: [dr-morhery, medico, mediunidade-de-cura, controle-clinico, espe, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
 tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-29
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -27,7 +27,7 @@ Do método que empregou resultou o **Pentateuco**:
 4. *O Céu e o Inferno* (1865) — a justiça divina à luz do Espiritismo.
 5. *A Gênese* (1868) — milagres e predições.
 
-Também fundou a **Revista Espírita** (jan/1858 — ver [[wiki/obras/revista-espirita]] e os volumes [[wiki/obras/revista-espirita-1858]], [[wiki/obras/revista-espirita-1859]] e [[wiki/obras/revista-espirita-1860]]) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858, anunciada na *Revista* de mai/1858 — endereço inicial rue Sainte-Anne, 59; mudada em jan/1859 para a rue Montpensier, 12, no Palais-Royal; em jul/1860 retorna à **rue Sainte-Anne, 59**, mesmo endereço da residência de Kardec). A *Revista* funcionou como tribuna doutrinária e laboratório das obras sistematizadas, e a Sociedade como centro regular de observação e validação coletiva de comunicações mediúnicas, base do que mais tarde será chamado *controle universal do ensino dos Espíritos* (LM, 2ª parte, cap. XXIV).
+Também fundou a **Revista Espírita** (jan/1858 — ver [[wiki/obras/revista-espirita]] e os volumes [[wiki/obras/revista-espirita-1858]], [[wiki/obras/revista-espirita-1859]], [[wiki/obras/revista-espirita-1860]] e [[wiki/obras/revista-espirita-1861]]) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858, anunciada na *Revista* de mai/1858 — endereço inicial rue Sainte-Anne, 59; mudada em jan/1859 para a rue Montpensier, 12, no Palais-Royal; em jul/1860 retorna à **rue Sainte-Anne, 59**, mesmo endereço da residência de Kardec). A *Revista* funcionou como tribuna doutrinária e laboratório das obras sistematizadas, e a Sociedade como centro regular de observação e validação coletiva de comunicações mediúnicas, base do que mais tarde será chamado *controle universal do ensino dos Espíritos* (LM, 2ª parte, cap. XXIV).
 
 Em jul/1859, no relatório anual da Sociedade, Kardec **anuncia que renuncia à direção operacional** ("a qualquer função na Sociedade, mesmo a de diretor de estudos") em razão de "trabalhos mais consideráveis, que exigem longos e laboriosos estudos e que **não absorverão menos de dez anos**" (RE, jul/1859) — alusão direta ao projeto do Pentateuco, cujos prazos efetivos coincidem (2ª edição definitiva do LE em 1860, LM em 1861, ESE em 1864, C&I em 1865, *A Gênese* em 1868). Continuou como simples membro titular e diretor da *Revista*; a Sociedade permaneceu sendo o ambiente operacional de onde emergiram as comunicações que alimentaram o Pentateuco.
 
@@ -46,6 +46,24 @@ Em **setembro de 1860**, três anos após a publicação da 1ª edição de *O L
 3. **Profecia "Paris é o cérebro, Lyon será o coração".** Resposta espontânea recebida na própria viagem: *"Por que admirar-te? Lyon foi a cidade dos mártires. A fé aqui é viva. Ela fornecerá apóstolos ao Espiritismo."*
 
 Imediatamente antes, em out/1860, Kardec havia respondido publicamente ao artigo zombeteiro da ***Gazette de Lyon*** (02/08/1860, assinado por "C.M.") que ridicularizara operários espíritas lioneses como *"alucinados que romperam com toda crença religiosa"*. A resposta firma a defesa social do Espiritismo entre as classes laboriosas — *"esqueceis que Jesus era operário [...] Por que Jesus escolheu seus apóstolos entre o povo, e não entre os homens de letras?"* — argumento que prepara a aliança Espiritismo + classes laboriosas que dominará o discurso de Lyon na década seguinte.
+
+## Segunda viagem doutrinária — Lyon e Bordeaux (set–out/1861)
+
+**1861** é ano-nó. Em **5–10 de janeiro** publica-se [[wiki/obras/livro-dos-mediuns|*O Livro dos Médiuns*]], complemento experimental do LE — fim da gestação do segundo pilar do Pentateuco. Em **maio** abre-se o 4º ano da SPEE com discurso institucional de Kardec criando os *sócios livres*, restringindo a admissão de ouvintes e protegendo a Sociedade contra inimigos visíveis e invisíveis.
+
+Em **set–out/1861** Kardec realiza sua **segunda viagem doutrinária** — Sens, Mâcon, **Lyon (com banquete em 19/09/1861, segundo aniversário consecutivo)**, **Bordeaux (reunião geral em 14/10/1861, com inauguração da Sociedade Espírita local + banquete)** e Metz. Lyon passou de centenas (1860) a milhares de espíritas; Bordeaux configura uma rede com Roustaing, Bouché de Vitray e Sabô. Os dois discursos longos são publicados em [[wiki/obras/revista-espirita-1861]] (out e nov/1861) e contêm:
+
+- A categoria do **espírita cristão** consolidada como ideal regulador;
+- O Espiritismo como **doutrina puramente moral**, *"que está em todas as religiões"* (Lyon, 19/09/1861);
+- A defesa do princípio dos pequenos grupos (com remissão explícita ao LM nº 28 e nº 341);
+- A primeira menção doutrinária de **[[wiki/personalidades/erasto|Erasto]]** como autor de **Epístola aos Espíritas Lioneses** (lida por Kardec no banquete de 19/09).
+
+Em paralelo, dois grandes eventos externos marcam o ano:
+
+- **Auto-de-fé de Barcelona — 9 de outubro de 1861**: queima pública de 300 volumes espíritas pela Igreja católica espanhola; cinzas enviadas a Kardec, que conserva fragmento meio queimado do LE. Leitura programática: *"Não esqueçais a data de 9 de outubro de 1861 [...] dia de festa, e não de luto, porque é o penhor de vosso próximo triunfo!"* Tratamento detalhado em [[wiki/sinteses/auto-de-fe-de-barcelona]].
+- **Morte do [[wiki/personalidades/sr-jobard|Sr. Jobard]] — 27 de outubro de 1861**: presidente honorário da SPEE, abjurou suas próprias teorias errôneas (alma coletiva, incrustação planetária) ao ser-lhe demonstrado o erro; primeiras comunicações pós-morte iniciam em nov/1861, depois compiladas em C&I, 2ª parte, cap. II.
+
+Em **dezembro/1861** Kardec publica o artigo programático **"Organização do Espiritismo"** (25 itens) — manifesto sobre a estruturação supralocal da doutrina (pequenos grupos, SPEE como Sociedade Iniciadora não hierárquica, recusa da palavra *afiliação*, grupos diretores, assembleia geral anual). É **matriz da *Constituição do Espiritismo*** que ele escreverá em 1868 (OPE).
 
 ## Primeira iniciação no Espiritismo
 

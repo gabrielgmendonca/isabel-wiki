@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [conde-de-r-c, espirito-vivo, marinha, desprendimento, emancipacao-da-alma, obra/re]
+tags: [conde-de-r-c, espirito-vivo, marinha, desprendimento, emancipacao-da-alma, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

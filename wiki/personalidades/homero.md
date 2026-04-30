@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [homero, comunicante, poeta, antiguidade-grega, prova-de-identidade, obra/re]
+tags: [homero, comunicante, poeta, antiguidade-grega, prova-de-identidade, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

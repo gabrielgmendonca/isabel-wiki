@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [contentamento, paulo, filipenses, resignacao, alegria, paixoes, virtude, lei-do-progresso, obra/le, obra/ese]
+tags: [contentamento, paulo, filipenses, resignacao, alegria, paixoes, virtude, lei-do-progresso, obra/le, obra/ese, autor/kardec, autor/paulo, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, OPE, Gênese, NT]
-tags: [divergencia, cristologia, jesus, deus, paulo, filipenses, kenose, trindade, calcedonia, obra/le, obra/ope, obra/genese]
+tags: [divergencia, cristologia, jesus, deus, paulo, filipenses, kenose, trindade, calcedonia, obra/le, obra/ope, obra/genese, autor/kardec, autor/paulo, grau/avancado]
 atualizado_em: 2026-04-30
 status: aberta
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, OPE, NT]
-tags: [kenose, jesus, cristo, humildade, missao, paulo, filipenses, encarnacao, modelo-moral, obra/le, obra/ese, obra/ope]
+tags: [kenose, jesus, cristo, humildade, missao, paulo, filipenses, encarnacao, modelo-moral, obra/le, obra/ese, obra/ope, autor/kardec, autor/paulo, grau/intermediario]
 atualizado_em: 2026-04-30
 status: ativo
 ---
