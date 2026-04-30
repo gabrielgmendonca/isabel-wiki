@@ -83,7 +83,7 @@ A wiki já é publicada, mas foi pensada para uso pessoal. Adaptar para que qual
 As categorias `questoes/` e `sinteses/` estão sub-representadas. São as mais valiosas para o leitor.
 
 - [ ] **Extrair questões-chave do Pentateuco** — selecionar as questões mais importantes de cada obra e criar páginas em `questoes/` com pergunta, resposta dos Espíritos, comentário de Kardec e análise
-- [ ] **Completar páginas das 10 Leis Morais** — 4 das 10 leis estão como stubs (<105 palavras): Trabalho, Adoração, Reprodução, Sociedade. São conceitos centrais da Parte 3 do LE (q. 649-919) e fundamento da tag-namespace `lei/`. Expandir com: definição, ensino dos Espíritos, desdobramentos, aplicação prática e cruzamento com ESE
+- [x] **Completar páginas das 10 Leis Morais** (2026-04-30) — todas as 10 leis acima de 600 palavras com cobertura das subseções principais do capítulo do LE, aplicação prática e cruzamentos pertinentes. Trabalho/Adoração/Reprodução/Sociedade já haviam sido expandidos antes do roadmap ser atualizado (698–995 palavras); nesta rodada foram tratados os 4 stubs reais: Conservação (276→838), Liberdade (341→1195), Progresso (377→1172) e Igualdade (448→1276). Numeração corrigida (Conservação é a 4ª, Progresso a 7ª, Igualdade a 8ª, Liberdade a 9ª — o LE numera dentro da Parte 3, não da sequência geral)
 - [ ] **Sínteses temáticas** — criar comparativos entre obras sobre o mesmo tema (ex: "O que cada obra diz sobre obsessão", "Reencarnação: de Kardec a Léon Denis")
 - [ ] **Quadros comparativos** — tabelas que cruzam conceitos entre obras ou autores, úteis para estudo sistemático
 - [ ] **Perguntas frequentes** — página de FAQ baseada em dúvidas comuns de estudantes, com respostas fundamentadas e citadas

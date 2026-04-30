@@ -48,7 +48,7 @@ A vida de mortificações ascéticas, porém, só é virtude quando aproveita a 
 
 ## Suicídio como infração extrema
 
-O instinto de conservação foi dado precisamente "contra os perigos e os sofrimentos" (LE, q. 727). Atentar contra a própria vida é a transgressão mais direta desta lei — Kardec dedicará à questão capítulo próprio na Parte 4 do LE e retomará o tema em [[wiki/obras/o-ceu-e-o-inferno|*O Céu e o Inferno*]] (2ª parte). Ver [[wiki/conceitos/suicidio]].
+O instinto de conservação foi dado precisamente "contra os perigos e os sofrimentos" (LE, q. 727). Atentar contra a própria vida é a transgressão mais direta desta lei — Kardec dedicará à questão capítulo próprio na Parte 4 do LE e retomará o tema em [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]] (2ª parte). Ver [[wiki/conceitos/suicidio]].
 
 ## Aplicação prática
 
