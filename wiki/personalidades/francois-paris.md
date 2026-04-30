@@ -70,6 +70,14 @@ Sobre o estado atual:
 
 > *"Entre as faculdades de que eram dotados os convulsionários se reconhecem, sem dificuldade, algumas das quais o sonambulismo e o magnetismo oferecem numerosos exemplos. [...] Assim não se pode duvidar de que os crisíacos estivessem numa espécie de estado de sonambulismo acordado, provocado pela influência que exerciam uns sobre os outros, inadvertidamente. Eles eram, ao mesmo tempo, magnetizadores e magnetizados."* (RE, out/1859)
 
+## Continuação em 1860 — a "grande Françoise" se retrata
+
+Em sessão da SPEE de **01/06/1860** (publicada em [[wiki/obras/revista-espirita-1860]], mai/1860, "Correspondência" e ago/1860 "Boletim"), uma das principais convulsionárias de Saint-Médard — a **"grande Françoise"**, evocada pela primeira vez em mai/1860 — pede para ser chamada de novo para **retratar-se da opinião emitida sobre o diácono Pâris**:
+
+> *"Acusa-se de o haver caluniado, desnaturando suas intenções e pensa que a retratação feita espontaneamente poupar-lhe-á a punição que por isso merecia."* (RE, jul/1860, "Boletim" da sessão de 01/06/1860)
+
+[[wiki/personalidades/sao-luis|São Luís]] complementa a comunicação com informes sobre os mundos destinados ao castigo dos Espíritos culpados. O episódio mostra que a abordagem kardequiana ao caso continuou ativa em 1860, com revisão e aprofundamento dos pareceres formulados em out–dez/1859.
+
 ## Obras associadas
 
 Os comentários bíblicos do diácono Pâris (sobre Romanos, Gálatas e Hebreus) não receberam tratamento específico na codificação espírita. A figura do Espírito permanece ligada principalmente ao caso histórico, não à obra literária terrena.
@@ -77,6 +85,7 @@ Os comentários bíblicos do diácono Pâris (sobre Romanos, Gálatas e Hebreus)
 ## Páginas relacionadas
 
 - [[wiki/obras/revista-espirita-1859]] — fascículo de outubro.
+- [[wiki/obras/revista-espirita-1860]] — sessão de 01/06/1860 com retratação da "grande Françoise".
 - [[wiki/conceitos/manifestacoes-espiritas]] — releitura espírita do caso.
 - [[wiki/conceitos/mediunidade]] — conceito de "sonambulismo acordado mútuo" aplicado.
 - [[wiki/conceitos/escala-espirita]] — Espíritos "de natureza pouco elevada" como agentes do fenômeno.
@@ -85,3 +94,4 @@ Os comentários bíblicos do diácono Pâris (sobre Romanos, Gálatas e Hebreus)
 
 - KARDEC, Allan. *Revista Espírita*, out/1859, "Os convulsionários de Saint-Médard" (notícia biográfica de Pauline Roland + evocação do diácono Pâris). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
 - KARDEC, Allan. *Revista Espírita*, dez/1859, "Os convulsionários de Saint-Médard" (continuação do estudo).
+- KARDEC, Allan. *Revista Espírita*, mai/1860 e jul/1860 (sessão de 01/06/1860; retratação da "grande Françoise"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].

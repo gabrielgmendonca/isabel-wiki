@@ -16,6 +16,14 @@ Na explicação espírita, a **raça adâmica** é uma colônia de Espíritos mi
 
 ## Ensino de Kardec
 
+### Antecedente na *Revista Espírita* (mar/1860)
+
+A doutrina é **fixada por Kardec oito anos antes** da publicação de *A Gênese* (1868), em resposta longa a leitor anônimo da [[wiki/obras/revista-espirita-1860]] (mar/1860, "Os pré-adamitas"). O artigo articula em três tempos a posição que a Gênese consagrará: (a) a Bíblia é texto figurado que admite interpretação, *"como já se admitiu no caso da rotação da Terra e dos seis dias da Criação"*; (b) a Geologia mostra o cataclismo geológico anterior ao aparecimento do homem, distinto do dilúvio de Noé; (c) a diversidade fisiológica das raças não permite tronco único, e a cronologia bíblica de 6.000 anos é insuficiente. Conclusão programática:
+
+> *"Para nós é evidente que as raças primitivas da Terra provêm de origens diferentes. [...] Adão, que viveu há 6000 anos, como tendo povoado uma região ainda desabitada."* (RE, mar/1860, "Os pré-adamitas")
+
+A versão do Pentateuco em [[wiki/obras/genese]] cap. XI item 38 substitui o argumento negativo (não-tronco-único) pelo argumento positivo (raça adâmica como **imigração de Espíritos vindos de outro mundo**) — material que LE q. 59 já indicava em 1860 e que Emmanuel sistematiza em *A Caminho da Luz* (1939).
+
 ### Anterioridade da presença humana
 
 "Quando ela aqui chegou, a Terra já estava povoada desde tempos imemoriais, como a América, quando aí chegaram os europeus" (Gênese, cap. XI, item 38). A raça adâmica não é, portanto, a ancestral de toda a humanidade terrestre.
@@ -67,4 +75,5 @@ O conceito de raça adâmica integra a cosmogonia espírita ao demonstrar que o 
 
 - Kardec, Allan. *A Gênese*, cap. XI, itens 38–44. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 59 (comentário sobre Adão, o dilúvio e as raças). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *Revista Espírita*, mar/1860, "Os pré-adamitas" (formulação programática antecedente ao Pentateuco). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 3. FEB, 1939.

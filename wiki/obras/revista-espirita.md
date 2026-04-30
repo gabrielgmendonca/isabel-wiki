@@ -47,7 +47,7 @@ Cada volume cobre um ano civil, com fascículos mensais (janeiro a dezembro). Ca
 |-----|---------|---------------|
 | **1858** | 144 | Fundação da revista; "Introdução"; primeiros artigos sobre [[wiki/conceitos/escala-espirita]], evocações, identidade dos Espíritos. Fundação da Sociedade Parisiense de Estudos Espíritas (1º de abril de 1858). Detalhe: [[wiki/obras/revista-espirita-1858]]. |
 | **1859** | 91 | Três conceitos doutrinários inéditos ([[wiki/conceitos/ageneres]], [[wiki/conceitos/pneumatografia]], [[wiki/conceitos/mundos-intermediarios-ou-transitorios]]); polêmicas com Abade Chesnel em *L'Univers* (mai/jul) e Oscar Comettant em *Le Siècle* (dez); recusa programática da categoria "milagre"; primeiras evocações de [[wiki/personalidades/plinio-o-moco]], [[wiki/personalidades/voltaire]], [[wiki/personalidades/frederico-ii-da-prussia]], [[wiki/personalidades/swedenborg]], [[wiki/personalidades/francois-paris]] (Saint-Médard), [[wiki/personalidades/ida-pfeiffer]]. Anúncio da renúncia de Kardec à direção operacional da SPEE (jul/1859) — alusão aos "trabalhos de dez anos" (Pentateuco). Detalhe: [[wiki/obras/revista-espirita-1859]]. |
-| **1860** | 182 | Ano da 2ª edição definitiva de *O Livro dos Espíritos*. Discussões metodológicas sobre comunicações e médiuns. |
+| **1860** | 86 | Ano da 2ª edição definitiva de *O Livro dos Espíritos*. Estudos pioneiros do desprendimento em vida ([[wiki/personalidades/conde-de-r-c|Conde de R… C…]] em jan; [[wiki/personalidades/doutor-vignal|Dr. Vignal]] em fev); "Os pré-adamitas" (mar) — matriz da [[wiki/conceitos/raca-adamica|raça adâmica]]; Teoria da [[wiki/conceitos/incrustacao-planetaria|Incrustação Planetária]] do [[wiki/personalidades/sr-jobard|Sr. Jobard]] (abr) **rejeitada por Kardec** — caso-modelo da prudência crítica com teorias científicas dos Espíritos; doutrina da [[wiki/conceitos/alma-dos-animais|alma dos animais]] (Charlet, jul–ago) + "Exame crítico"; polêmica com [[wiki/personalidades/louis-figuier|Louis Figuier]] (set + dez) — matriz de Gênese caps. XIII–XV ([[wiki/conceitos/maravilhoso-e-sobrenatural|recusa do "milagre"]]); viagem a Lyon e **Banquete de 19/09/1860** ("Paris é o cérebro, Lyon será o coração"; recomendação dos pequenos grupos); [[wiki/personalidades/maria-dagreda|Maria d'Agreda]] e [[wiki/conceitos/bicorporeidade]]; trapeiro da Rue des Noyers ([[wiki/personalidades/jeannet-trapeiro|"Jeannet"]], ago); [[wiki/personalidades/desiree-godu|Désirée Godu]] e [[wiki/conceitos/mediunidade-de-cura]]; [[wiki/personalidades/homero|Homero]] e a prova de identidade pelo apelido "Melesígeno" (nov). Detalhe: [[wiki/obras/revista-espirita-1860]]. |
 | **1861** | 172 | Ano de *O Livro dos Médiuns*. Auto-de-fé de Barcelona (out/1861) — queima pública de obras espíritas pela Igreja, episódio extensamente comentado por Kardec. |
 | **1862** | 171 | Viagem espírita pela França (set–nov/1862, [[wiki/obras/viagem-espirita-em-1862]]); discursos em Lyon e Bordeaux; modelo de regulamento para grupos. |
 | **1863** | 143 | Continuação do trabalho doutrinário; preparação do ESE. |
@@ -58,7 +58,7 @@ Cada volume cobre um ano civil, com fascículos mensais (janeiro a dezembro). Ca
 | **1868** | 128 | Ano de *A Gênese*. Artigos sobre milagres, profecias e leis naturais. |
 | **1869** | 53 (jan–abr) | Volume interrompido pela morte de Kardec em 31 de março. O fascículo de abril, póstumo, traz comunicações sobre sua passagem e o discurso de Camille Flammarion no túmulo. |
 
-**Total: ~1.600 artigos.**
+**Total: ~1.500 artigos.**
 
 ## Tipos de matéria
 
@@ -108,6 +108,7 @@ A amplitude é máxima — praticamente todos os conceitos da wiki encontram mat
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/egoismo]] · [[wiki/conceitos/orgulho]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/vida-futura]] · [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/progresso-espiritual]]
+- Inéditos do volume de 1860: [[wiki/conceitos/maravilhoso-e-sobrenatural]] · [[wiki/conceitos/incrustacao-planetaria]] · [[wiki/conceitos/alma-dos-animais]] · [[wiki/conceitos/bicorporeidade]] · [[wiki/conceitos/mediunidade-de-cura]]
 
 ## Personalidades citadas
 
@@ -123,6 +124,14 @@ A amplitude é máxima — praticamente todos os conceitos da wiki encontram mat
 - [[wiki/personalidades/swedenborg]] — primeira aparição doutrinária e evocação na qual o Espírito retrata os principais erros de seu sistema (nov/1859).
 - [[wiki/personalidades/francois-paris]] — diácono jansenista evocado a propósito dos convulsionários de Saint-Médard (out/1859).
 - [[wiki/personalidades/ida-pfeiffer]] — viajante austríaca evocada a propósito do caso de Java (dez/1859).
+- [[wiki/personalidades/charlet]] — Nicolas-Toussaint Charlet (1792–1845), caricaturista francês; Espírito autor das oito dissertações sobre os animais (RE jul–ago/1860).
+- [[wiki/personalidades/desiree-godu]] — médium curadora de Hennebon (Bretanha); três artigos em série na *Revista* (RE fev/mar/abr/1860).
+- [[wiki/personalidades/dr-morhery]] — médico que controlou clinicamente as curas de Désirée Godu (152 casos fichados, RE abr/1860).
+- [[wiki/personalidades/maria-dagreda]] — María de Jesús de Ágreda (1602–1665), freira espanhola; caso histórico paradigmático de [[wiki/conceitos/bicorporeidade]] (RE nov/1860).
+- [[wiki/personalidades/homero]] — primeira evocação espontânea via dois médiuns de Sens; revelação do apelido "Melesígeno" (RE nov/1860).
+- [[wiki/personalidades/louis-figuier]] — cientista materialista francês, autor de *Histoire du merveilleux* (1860); refutado por Kardec em três artigos (RE set + dez/1860).
+- [[wiki/personalidades/conde-de-r-c]] — capitão da marinha imperial, primeiro voluntário para evocação programada de pessoa viva (RE jan/1860).
+- [[wiki/personalidades/jeannet-trapeiro]] — Espírito perturbador da Rue des Noyers, evocado pela SPEE em 29/06/1860 (RE ago/1860).
 
 ## Divergências
 

@@ -22,6 +22,7 @@ Segundo volume da *Revue Spirite*, redigido por [[wiki/personalidades/allan-kard
 - **Editora original:** Bureaux de la Revue Spirite, Paris
 - **Página-mãe:** [[wiki/obras/revista-espirita]] — visão de conjunto dos 12 volumes (1858–1869)
 - **Volume anterior:** [[wiki/obras/revista-espirita-1858]]
+- **Volume seguinte:** [[wiki/obras/revista-espirita-1860]]
 - **Texto integral:** [[raw/kardec/revista-espirita/revista-espirita-1859]]
 - **Fonte original online:** [Kardecpédia — Revista Espírita 1859](https://kardecpedia.com/roteiro-de-estudos/893/revista-espirita-jornal-de-estudos-psicologicos-1859)
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **2 — Kardec complementar**.
