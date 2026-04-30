@@ -108,6 +108,8 @@ Logar em `log.md` somente se o usuário decidir corrigir achados a partir do rel
 
 Se o usuário só pediu o relatório sem corrigir nada, **não fazer append**.
 
+**Exceção — correções puramente cosméticas não são logadas.** Se a única ação for regenerar contagens do `index.md` (ou seja, o único achado corrigido foi `status_projeto`, resolvido com `update_status.py`), **não fazer append**. Esse drift é mecânico, sem decisão curatorial, e o `git log` do commit já é suficiente. Logar só quando a correção envolver decisão substantiva (link quebrado, frontmatter, taxonomia, citação, divergência, página órfã, conceito ausente etc.) — sozinha ou combinada com a regeneração do status.
+
 ## Regras
 
 - **Não corrigir nada automaticamente.** Lint é apenas diagnóstico.
