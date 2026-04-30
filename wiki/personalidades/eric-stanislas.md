@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [C&I]
-tags: [ceu-e-inferno, espiritos-condicao-media, erraticidade, arrependimento, reuniao-seria, obra/ci]
+tags: [ceu-e-inferno, espiritos-condicao-media, erraticidade, arrependimento, reuniao-seria, obra/ci, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

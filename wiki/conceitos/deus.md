@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Léon Denis]
-tags: [deus, causa-primaria, atributos-divinos, providencia, obra/le, obra/genese]
+tags: [deus, causa-primaria, atributos-divinos, providencia, obra/le, obra/genese, autor/kardec, autor/leon-denis, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

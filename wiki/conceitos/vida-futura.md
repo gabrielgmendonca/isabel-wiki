@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [vida-futura, pos-morte, espiritualidade, obra/ese, obra/le]
+tags: [vida-futura, pos-morte, espiritualidade, obra/ese, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

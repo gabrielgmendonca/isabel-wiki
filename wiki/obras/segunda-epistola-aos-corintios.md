@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, corintios, consolacao, perispirito, mediunidade, discernimento, hermeneutica, espinho-na-carne, nova-alianca]
+tags: [paulo, corintios, consolacao, perispirito, mediunidade, discernimento, hermeneutica, espinho-na-carne, nova-alianca, autor/paulo]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-28

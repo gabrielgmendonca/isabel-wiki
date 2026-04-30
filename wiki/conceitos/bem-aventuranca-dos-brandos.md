@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [bem-aventurancas, sermao-da-montanha, brandura, mansidao, jesus, obra/ese]
+tags: [bem-aventurancas, sermao-da-montanha, brandura, mansidao, jesus, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-20
 status: ativo
 ---

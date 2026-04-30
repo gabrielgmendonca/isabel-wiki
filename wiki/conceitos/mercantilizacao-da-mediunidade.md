@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE, André Luiz/Chico Xavier]
-tags: [mercantilizacao-da-mediunidade, mediunidade-interesseira, simonia, mediunidade, andre-luiz, os-mensageiros, obra/lm, obra/ese]
+tags: [mercantilizacao-da-mediunidade, mediunidade-interesseira, simonia, mediunidade, andre-luiz, os-mensageiros, obra/lm, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

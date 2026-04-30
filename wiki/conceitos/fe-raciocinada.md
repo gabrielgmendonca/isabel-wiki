@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [fe, razao, fe-raciocinada, obra/ese]
+tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-28
 status: ativo
 ---

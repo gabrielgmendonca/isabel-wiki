@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [plinio-o-moco, comunicante, romano-classico, advogado, obra/re]
+tags: [plinio-o-moco, comunicante, romano-classico, advogado, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

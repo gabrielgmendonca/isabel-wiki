@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro, antioquia, paulo]
+tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro, antioquia, paulo, autor/paulo, autor/pedro, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

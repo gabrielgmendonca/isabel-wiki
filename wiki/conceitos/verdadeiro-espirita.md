@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [espirita, caridade, perfeicao-moral, pratica, moral, obra/ese, obra/le, lei/justica-amor-caridade]
+tags: [espirita, caridade, perfeicao-moral, pratica, moral, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-07
 status: ativo
 ---

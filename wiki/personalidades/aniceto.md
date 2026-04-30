@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [aniceto, espirito-comunicante, andre-luiz, os-mensageiros, ministerio-da-comunicacao]
+tags: [aniceto, espirito-comunicante, andre-luiz, os-mensageiros, ministerio-da-comunicacao, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

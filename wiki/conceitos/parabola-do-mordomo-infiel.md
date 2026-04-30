@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, mordomo-infiel, administrador-infiel, riqueza, desapego, obra/ese]
+tags: [parabola, jesus, mordomo-infiel, administrador-infiel, riqueza, desapego, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

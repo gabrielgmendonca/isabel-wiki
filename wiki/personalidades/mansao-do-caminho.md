@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: []
-tags: [instituicao, filantropia, atendimento-fraterno, mediunidade]
+tags: [instituicao, filantropia, atendimento-fraterno, mediunidade, grau/intermediario]
 atualizado_em: 2026-04-07
 status: rascunho
 ---

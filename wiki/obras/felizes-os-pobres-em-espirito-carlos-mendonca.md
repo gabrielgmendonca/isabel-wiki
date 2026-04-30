@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [bem-aventurancas, sermao-da-montanha, humildade, orgulho, reino-dos-ceus, obra/ese]
+tags: [bem-aventurancas, sermao-da-montanha, humildade, orgulho, reino-dos-ceus, obra/ese, autor/kardec]
 url: https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B
 direitos:
   detentor: desconhecido

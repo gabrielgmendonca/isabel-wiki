@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [paternidade, familia, missao, responsabilidade, educacao, filhos, obra/le]
+tags: [paternidade, familia, missao, responsabilidade, educacao, filhos, obra/le, autor/kardec, grau/introdutorio]
 atualizado_em: 2026-04-19
 status: ativo
 ---

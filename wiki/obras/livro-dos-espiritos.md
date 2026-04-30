@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE]
-tags: [kardec, pentateuco, codificacao, fundamentos, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho]
+tags: [kardec, pentateuco, codificacao, fundamentos, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho, autor/kardec]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-06

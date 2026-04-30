@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, predestinacao, livre-arbitrio, paulo, romanos, efesios, graca, obra/le, obra/ese, lei/liberdade]
+tags: [divergencia, predestinacao, livre-arbitrio, paulo, romanos, efesios, graca, obra/le, obra/ese, lei/liberdade, autor/kardec, autor/paulo, grau/avancado]
 atualizado_em: 2026-04-29
 status: aberta
 ---

@@ -43,7 +43,15 @@ Default conservador: ausência do campo `direitos:` em `tipo: obra` é tratada p
 
 ## Taxonomia de tags
 
-Tags livres continuam permitidas. Além delas, dois namespaces hierárquicos (com `/`) habilitam navegação temática no Quartz:
+Tags livres continuam permitidas. Além delas, **cinco namespaces hierárquicos** (com `/`) habilitam navegação temática no Quartz (que gera `/tags/<slug>/` automaticamente para cada tag em uso):
+
+| Namespace | Conjunto | Origem | Aplica a |
+|-----------|----------|--------|----------|
+| `obra/` | 8 valores | derivado de `fontes:` (script) | todas |
+| `lei/` | 10 valores | atribuído quando trata de lei moral | todas |
+| `grau/` | 3 valores | nível de complexidade | exceto `obra`/`trilha` |
+| `tema/` | 12 valores | eixo doutrinário (1-3 por página) | todas |
+| `autor/` | 12+ valores | linhagem autoral | todas |
 
 ### `obra/` — obra de origem
 
@@ -75,6 +83,77 @@ Atribuídas a páginas que tratam diretamente de uma lei moral. Conjunto fechado
 | `lei/igualdade` | Lei de Igualdade | q. 803-824 |
 | `lei/liberdade` | Lei de Liberdade | q. 825-872 |
 | `lei/justica-amor-caridade` | Lei de Justiça, Amor e Caridade | q. 873-919 |
+
+### `grau/` — grau de complexidade
+
+Conjunto fechado em 3 valores. Sinaliza para o leitor o nível de leitura recomendado e alimenta as trilhas de estudo.
+
+| Tag | Quando aplicar |
+|-----|---------------|
+| `grau/introdutorio` | primeiros passos, definições básicas, questões pontuais simples, parábolas (Q&A direto) |
+| `grau/intermediario` | conceitos doutrinários estruturais, leitura sistemática de obra, ESDE-tier |
+| `grau/avancado` | aprofundamentos, sínteses comparativas, divergências, cruzamentos entre obras |
+
+Default heurístico por `tipo:` (aplicado por `scripts/enrich_tags_grau.py`; revisar caso a caso):
+
+| `tipo:` | Default | Observação |
+|---------|---------|------------|
+| `questao` | `grau/introdutorio` | Q&A pontual ancorado em uma questão/item |
+| `parabola` | `grau/intermediario` | aplicação prática, mas exige leitura kardequiana |
+| `personalidade` | `grau/intermediario` | (skip stubs) |
+| `conceito` | `grau/intermediario` | base estrutural da doutrina |
+| `aprofundamento` | `grau/avancado` | estudo sistemático |
+| `sintese` | `grau/avancado` | comparativos e panorâmicas |
+| `divergencia` | `grau/avancado` | exige Pentateuco como referência |
+| `obra` | — | **não recebe** `grau/*` (a obra não tem grau próprio) |
+| trilhas (`wiki/trilhas/*` ou tag `trilha`) | — | **não recebem** `grau/*` (trilha agrupa páginas de vários graus) |
+
+### `tema/` — eixo doutrinário
+
+Conjunto fechado em 12 valores. Páginas devem ter **1-3** `tema/*` (preferir 1; 2-3 quando o conteúdo atravessa eixos).
+
+| Tag | Eixo doutrinário |
+|-----|------------------|
+| `tema/deus` | Deus, providência, criação, atributos divinos |
+| `tema/espiritos` | natureza dos espíritos, hierarquia, escala espírita, anjos/demônios |
+| `tema/encarnacao` | reencarnação, perispírito, corpo, escolha de provas |
+| `tema/mediunidade` | comunicação espiritual, fenômenos, médiuns, obsessão |
+| `tema/moral` | leis morais (umbrella), virtudes, vícios, conduta |
+| `tema/jesus` | vida, ensinos, parábolas, divindade, missão de Jesus |
+| `tema/vida-futura` | pós-morte, céu/inferno, espíritos felizes/sofredores, penas futuras |
+| `tema/sociedade` | família, lar, casamento, instituições, política |
+| `tema/livre-arbitrio` | liberdade, expiação, fatalidade, responsabilidade |
+| `tema/prece-caridade` | adoração, prece, caridade prática |
+| `tema/sofrimento` | dor, expiação, provas, suicídio, tédio da vida |
+| `tema/historia-doutrina` | codificação, divulgação, biografia de Kardec/médiuns |
+
+Atribuição manual (não automatizada): o significado é semântico e errar em massa vira ruído permanente. O lint `check_tag_coverage` (info-level) lista páginas sem nenhum `tema/*` para passes incrementais.
+
+### `autor/` — linhagem autoral
+
+Conjunto fechado dos autores nível 2/3 mais citados. Para psicografias, marcar **ambos** espírito + médium (ex.: livro do Emmanuel/Chico Xavier → `autor/emmanuel, autor/chico-xavier`).
+
+| Tag | Quando aplicar |
+|-----|---------------|
+| `autor/kardec` | Pentateuco e complementares Kardec (LE, LM, ESE, C&I, Gênese, OPE, OQE, RE) |
+| `autor/leon-denis` | obras de Léon Denis |
+| `autor/chico-xavier` | médium — psicografias da série André Luiz, Emmanuel, Humberto de Campos, etc. |
+| `autor/emmanuel` | espírito autor (psicografias via Chico Xavier) |
+| `autor/andre-luiz` | espírito autor (Nosso Lar, série dos planos da vida) |
+| `autor/humberto-de-campos` | espírito autor |
+| `autor/joanna-de-angelis` | espírito autor (psicografias via Divaldo) |
+| `autor/divaldo-franco` | médium |
+| `autor/bezerra-de-menezes` | espírito autor (psicografias via Divaldo, e biografia) |
+| `autor/cairbar-schutel` | autor encarnado |
+| `autor/hammed` | espírito autor (psicografias via Espírito Santo Neto) |
+| `autor/paulo` | apóstolo (epístolas paulinas) |
+| `autor/joao` | apóstolo (Evangelho de João, 1-3 João, Apocalipse) |
+| `autor/pedro` | apóstolo (1-2 Pedro) |
+| `autor/tiago` | apóstolo (Epístola de Tiago) |
+
+O conjunto é extensível: novos autores nível 3/4 podem ser adicionados quando houver páginas que os exijam — atualizar esta tabela e o conjunto canônico no lint na mesma PR.
+
+`scripts/enrich_tags_autor.py` faz backfill mecânico a partir de `fontes:` e tags livres canônicas (`andre-luiz`, `paulo`, `chico-xavier` etc.).
 
 ## Links e slugs
 

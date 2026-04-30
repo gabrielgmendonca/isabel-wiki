@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [RE]
-tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re]
+tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, autor/kardec]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-29

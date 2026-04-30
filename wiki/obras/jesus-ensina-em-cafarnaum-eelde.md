@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE, LM]
-tags: [jesus, cafarnaum, obsessao, desobsessao, autoridade-moral, evangelho-de-marcos, obra/ese, obra/lm]
+tags: [jesus, cafarnaum, obsessao, desobsessao, autoridade-moral, evangelho-de-marcos, obra/ese, obra/lm, autor/kardec]
 url: https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO
 direitos:
   detentor: desconhecido

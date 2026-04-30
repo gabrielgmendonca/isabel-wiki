@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [André Luiz/Chico Xavier, LE]
-tags: [sexualidade, sexo, matrimonio, divorcio, aborto, centro-genesico, andre-luiz, lei/reproducao, obra/le]
+tags: [sexualidade, sexo, matrimonio, divorcio, aborto, centro-genesico, andre-luiz, lei/reproducao, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

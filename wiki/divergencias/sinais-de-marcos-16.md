@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [Gênese, LM, NT]
-tags: [divergencia, mediunidade, fluidos, fenomenos, marcos, obra/genese, obra/lm]
+tags: [divergencia, mediunidade, fluidos, fenomenos, marcos, obra/genese, obra/lm, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-15
 status: aberta
 ---

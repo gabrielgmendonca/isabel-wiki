@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Gênese, André Luiz/Chico Xavier]
-tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, andre-luiz, obra/le, obra/ese, obra/genese]
+tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, andre-luiz, obra/le, obra/ese, obra/genese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

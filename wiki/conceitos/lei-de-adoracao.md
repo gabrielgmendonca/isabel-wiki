@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [adoracao, prece, culto, lei-moral, obra/le, obra/ese, lei/adoracao]
+tags: [adoracao, prece, culto, lei-moral, obra/le, obra/ese, lei/adoracao, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-19
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
-tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, andre-luiz, nosso-lar, obra/le, obra/ese, obra/ci, lei/conservacao]
+tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, andre-luiz, nosso-lar, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-28
 status: ativo
 ---

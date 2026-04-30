@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, romanos, lei-natural, justificacao, livre-arbitrio, pecado, predestinacao, providencia, caridade]
+tags: [paulo, romanos, lei-natural, justificacao, livre-arbitrio, pecado, predestinacao, providencia, caridade, autor/paulo]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-20

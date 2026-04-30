@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [Léon Denis]
-tags: [harmonia, cosmologia, musica, estetica, leon-denis]
+tags: [harmonia, cosmologia, musica, estetica, leon-denis, autor/leon-denis, grau/intermediario]
 atualizado_em: 2026-04-07
 status: ativo
 ---

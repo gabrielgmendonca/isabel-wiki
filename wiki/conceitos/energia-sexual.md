@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier]
-tags: [energia-sexual, sexo, libido, sublimacao, magnetismo, centro-genesico, lei/reproducao, obra/le, obra/ese]
+tags: [energia-sexual, sexo, libido, sublimacao, magnetismo, centro-genesico, lei/reproducao, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

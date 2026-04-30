@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseveranca, obra/ese]
+tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseveranca, obra/ese, autor/kardec]
 url: https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_
 direitos:
   detentor: desconhecido

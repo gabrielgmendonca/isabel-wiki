@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [alma, animais, tres-reinos, individualidade, principio-inteligente, obra/le]
+tags: [alma, animais, tres-reinos, individualidade, principio-inteligente, obra/le, autor/kardec, grau/introdutorio]
 atualizado_em: 2026-04-19
 status: ativo
 ---

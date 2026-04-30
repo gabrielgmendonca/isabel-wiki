@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [lei-moral, leis-morais, lei-natural, lei-divina, consciencia, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho]
+tags: [lei-moral, leis-morais, lei-natural, lei-divina, consciencia, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

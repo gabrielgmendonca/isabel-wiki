@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LE]
-tags: [colonia-espiritual, andre-luiz, nosso-lar, ministerios, governadoria, esfera-de-transicao, erraticidade, obra/le]
+tags: [colonia-espiritual, andre-luiz, nosso-lar, ministerios, governadoria, esfera-de-transicao, erraticidade, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

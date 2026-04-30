@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [grupos, sociedades, reunioes, organizacao, regulamento, pratica-espirita, obra/lm]
+tags: [grupos, sociedades, reunioes, organizacao, regulamento, pratica-espirita, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

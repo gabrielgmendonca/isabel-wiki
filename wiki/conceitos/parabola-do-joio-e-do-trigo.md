@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, joio, trigo, reino, moral, obra/ese]
+tags: [parabola, jesus, joio, trigo, reino, moral, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

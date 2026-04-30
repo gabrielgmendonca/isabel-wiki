@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [erraticidade, espiritos-errantes, entre-vidas, obra/le]
+tags: [erraticidade, espiritos-errantes, entre-vidas, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

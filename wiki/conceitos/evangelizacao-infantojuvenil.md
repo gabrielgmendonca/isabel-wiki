@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [educacao, criancas, familia, moral, evangelizacao, obra/le, obra/ese]
+tags: [educacao, criancas, familia, moral, evangelizacao, obra/le, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-07
 status: ativo
 ---

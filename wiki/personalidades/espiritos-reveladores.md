@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE, ESE]
-tags: [reveladores, espiritos, codificacao, espirito-de-verdade, obra/le, obra/ese]
+tags: [reveladores, espiritos, codificacao, espirito-de-verdade, obra/le, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

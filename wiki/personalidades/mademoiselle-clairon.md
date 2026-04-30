@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [mademoiselle-clairon, atriz, caso-de-aparicao, fantasma, obra/re]
+tags: [mademoiselle-clairon, atriz, caso-de-aparicao, fantasma, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

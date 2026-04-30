@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [OPE, ESE, Gênese, LE, Emmanuel/Chico Xavier]
-tags: [kardec, missao, codificador, consolador, espirito-de-verdade, livro-das-previsoes, nova-geracao, regeneracao, terceira-revelacao, obra/ope, obra/ese, obra/genese, obra/le]
+tags: [kardec, missao, codificador, consolador, espirito-de-verdade, livro-das-previsoes, nova-geracao, regeneracao, terceira-revelacao, obra/ope, obra/ese, obra/genese, obra/le, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-26
 status: ativo
 ---

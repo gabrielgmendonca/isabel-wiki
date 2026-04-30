@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, Gênese, ESE, NT]
-tags: [divergencia, pecado-original, adao, paulo, romanos, livre-arbitrio, obra/le, obra/genese, obra/ese]
+tags: [divergencia, pecado-original, adao, paulo, romanos, livre-arbitrio, obra/le, obra/genese, obra/ese, autor/kardec, autor/paulo, grau/avancado]
 atualizado_em: 2026-04-20
 status: aberta
 ---

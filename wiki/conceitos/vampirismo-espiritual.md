@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LM]
-tags: [vampirismo, obsessao, simbiose-espiritual, parasitismo-psiquico, andre-luiz, perispirito, obra/lm]
+tags: [vampirismo, obsessao, simbiose-espiritual, parasitismo-psiquico, andre-luiz, perispirito, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: rascunho
 ---

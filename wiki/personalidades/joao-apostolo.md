@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor]
+tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor, autor/joao, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

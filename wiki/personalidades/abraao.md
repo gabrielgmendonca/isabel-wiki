@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [abraao, patriarca, israel, fe, justificacao, raca-adamica, antigo-testamento, obra/ese]
+tags: [abraao, patriarca, israel, fe, justificacao, raca-adamica, antigo-testamento, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

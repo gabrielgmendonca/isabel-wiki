@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, Gênese, Hammed/Francisco do Espírito Santo Neto]
-tags: [depressao, saude, obsessao, amor, mediunidade, obra/le, obra/lm, obra/genese, hammed, dores-da-alma]
+tags: [depressao, saude, obsessao, amor, mediunidade, obra/le, obra/lm, obra/genese, hammed, dores-da-alma, autor/hammed, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-19
 status: ativo
 ---

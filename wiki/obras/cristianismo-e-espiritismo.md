@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, Gênese]
-tags: [leon-denis, cristianismo, mediunidade, dogmas, terceira-revelacao, reencarnacao, igreja, visao-de-deus, obra/le, obra/ese, obra/genese]
+tags: [leon-denis, cristianismo, mediunidade, dogmas, terceira-revelacao, reencarnacao, igreja, visao-de-deus, obra/le, obra/ese, obra/genese, autor/kardec, autor/leon-denis]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-07

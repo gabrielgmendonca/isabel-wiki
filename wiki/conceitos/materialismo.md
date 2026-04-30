@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Hammed/Francisco do Espírito Santo Neto]
-tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo, obra/le, obra/genese, hammed, dores-da-alma]
+tags: [materialismo, filosofia, incredulidade, orgulho, espiritualismo, obra/le, obra/genese, hammed, dores-da-alma, autor/hammed, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-19
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, galatas, liberdade, lei, fe, justificacao, judaizantes, circuncisao, frutos-do-espirito, alegoria, agar-e-sara, antioquia, pedro, semear-e-ceifar]
+tags: [paulo, galatas, liberdade, lei, fe, justificacao, judaizantes, circuncisao, frutos-do-espirito, alegoria, agar-e-sara, antioquia, pedro, semear-e-ceifar, autor/paulo, autor/pedro]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-29

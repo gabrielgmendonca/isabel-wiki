@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [odila, personagem, obsessao, ciume, maternidade, andre-luiz]
+tags: [odila, personagem, obsessao, ciume, maternidade, andre-luiz, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
 atualizado_em: 2026-04-15
 status: rascunho
 ---

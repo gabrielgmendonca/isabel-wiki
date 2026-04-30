@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [estevao, martir, atos, emancipacao-da-alma]
+tags: [estevao, martir, atos, emancipacao-da-alma, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, tiago, tentacao, obra/le, obra/ese, lei/liberdade, lei/progresso]
+tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, tiago, tentacao, obra/le, obra/ese, lei/liberdade, lei/progresso, autor/kardec, autor/paulo, autor/tiago, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [identidade, comunicacoes, discernimento, apocrifas, escala-espirita, obra/lm]
+tags: [identidade, comunicacoes, discernimento, apocrifas, escala-espirita, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

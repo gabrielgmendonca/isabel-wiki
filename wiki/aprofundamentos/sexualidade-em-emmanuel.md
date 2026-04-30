@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [Emmanuel/Chico Xavier, LE, ESE, LM]
-tags: [sexualidade, sexo, casamento, divorcio, aborto, homossexualidade, abstinencia, energia-sexual, emmanuel, lei/reproducao, obra/le, obra/ese, obra/lm]
+tags: [sexualidade, sexo, casamento, divorcio, aborto, homossexualidade, abstinencia, energia-sexual, emmanuel, lei/reproducao, obra/le, obra/ese, obra/lm, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-27
 status: ativo
 ---

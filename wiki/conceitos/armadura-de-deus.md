@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, ESE, NT]
-tags: [armadura-de-deus, paulo, efesios, combate-moral, vigilancia, prece, virtudes, obsessao, escala-espirita, obra/le, obra/lm, obra/ese]
+tags: [armadura-de-deus, paulo, efesios, combate-moral, vigilancia, prece, virtudes, obsessao, escala-espirita, obra/le, obra/lm, obra/ese, autor/kardec, autor/paulo, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

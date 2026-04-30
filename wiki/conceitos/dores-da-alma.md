@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Hammed/Francisco do Espírito Santo Neto]
-tags: [dores-da-alma, sete-pecados-capitais, psicologia-espirita, imperfeicoes, progresso-espiritual, hammed, obra/le]
+tags: [dores-da-alma, sete-pecados-capitais, psicologia-espirita, imperfeicoes, progresso-espiritual, hammed, obra/le, autor/hammed, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-19
 status: rascunho
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, niilismo, panteismo, individualidade, alma, futuro, obra/ci]
+tags: [ceu-e-inferno, niilismo, panteismo, individualidade, alma, futuro, obra/ci, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

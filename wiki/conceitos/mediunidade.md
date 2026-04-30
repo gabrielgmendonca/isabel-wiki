@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, LE]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, obra/lm, obra/le]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, obra/lm, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-07
 status: ativo
 ---

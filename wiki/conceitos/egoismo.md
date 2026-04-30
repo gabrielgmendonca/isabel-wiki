@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Hammed/Francisco do Espírito Santo Neto]
-tags: [egoismo, vicio, moral, caridade, perfeicao-moral, obra/le, obra/ese, lei/justica-amor-caridade, hammed, dores-da-alma]
+tags: [egoismo, vicio, moral, caridade, perfeicao-moral, obra/le, obra/ese, lei/justica-amor-caridade, hammed, dores-da-alma, autor/hammed, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-19
 status: ativo
 ---

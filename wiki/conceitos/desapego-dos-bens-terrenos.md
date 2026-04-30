@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [desapego, riqueza, materialismo, desprendimento, obra/ese, obra/le, lei/conservacao, lei/igualdade]
+tags: [desapego, riqueza, materialismo, desprendimento, obra/ese, obra/le, lei/conservacao, lei/igualdade, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

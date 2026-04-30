@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Hammed/Francisco do Espírito Santo Neto]
-tags: [hammed, espirito-comunicante, francisco-espirito-santo-neto, psicologia-espirita, dores-da-alma, port-royal]
+tags: [hammed, espirito-comunicante, francisco-espirito-santo-neto, psicologia-espirita, dores-da-alma, port-royal, autor/hammed, grau/intermediario]
 atualizado_em: 2026-04-19
 status: rascunho
 ---

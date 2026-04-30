@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [OPE]
-tags: [flammarion, astronomo, ciencia, discurso, obra/ope]
+tags: [flammarion, astronomo, ciencia, discurso, obra/ope, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-07
 status: ativo
 ---

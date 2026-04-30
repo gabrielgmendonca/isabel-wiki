@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [André Luiz/Chico Xavier, LM, ESE]
-tags: [mediunidade, fracasso-mediunico, responsabilidade-mediunica, missao, andre-luiz, os-mensageiros, obra/lm, obra/ese]
+tags: [mediunidade, fracasso-mediunico, responsabilidade-mediunica, missao, andre-luiz, os-mensageiros, obra/lm, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

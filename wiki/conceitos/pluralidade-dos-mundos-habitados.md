@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre, obra/le, obra/ese]
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, obra/le, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

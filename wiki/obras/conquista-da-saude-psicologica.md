@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, Gênese, ESE]
-tags: [depressao, saude-psicologica, obsessao, mediunidade, amor, transicao-planetaria, neurociencia, obra/le, obra/lm, obra/genese, obra/ese]
+tags: [depressao, saude-psicologica, obsessao, mediunidade, amor, transicao-planetaria, neurociencia, obra/le, obra/lm, obra/genese, obra/ese, autor/kardec]
 url: https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp
 direitos:
   detentor: desconhecido

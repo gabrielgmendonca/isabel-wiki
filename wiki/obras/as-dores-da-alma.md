@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Hammed/Francisco do Espírito Santo Neto]
-tags: [hammed, francisco-espirito-santo-neto, psicologia-espirita, sete-pecados-capitais, dores-da-alma, comentario-le, boa-nova]
+tags: [hammed, francisco-espirito-santo-neto, psicologia-espirita, sete-pecados-capitais, dores-da-alma, comentario-le, boa-nova, autor/hammed]
 direitos:
   detentor: Boa-Nova
   url_aquisicao: https://www.editoraboanova.com.br/

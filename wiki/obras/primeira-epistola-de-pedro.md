@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [pedro, perseguicao, prova-pelo-fogo, espiritos-em-prisao, evangelho-aos-mortos, sangue-expiatorio, mediunidade, caridade, humildade, marcos, silvano]
+tags: [pedro, perseguicao, prova-pelo-fogo, espiritos-em-prisao, evangelho-aos-mortos, sangue-expiatorio, mediunidade, caridade, humildade, marcos, silvano, autor/pedro]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-28

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese]
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, hebreus, mediunidade, tiago, fe-e-obras, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

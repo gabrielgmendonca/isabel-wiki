@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, Léon Denis]
-tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese]
+tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese, autor/kardec, autor/leon-denis, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

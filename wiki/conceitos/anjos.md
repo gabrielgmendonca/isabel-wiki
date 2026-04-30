@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I, NT]
-tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita, hebreus, paulo, obra/ci]
+tags: [ceu-e-inferno, anjos, puros-espiritos, progresso, escala-espirita, hebreus, paulo, obra/ci, autor/kardec, autor/paulo, grau/intermediario]
 atualizado_em: 2026-04-21
 status: ativo
 ---

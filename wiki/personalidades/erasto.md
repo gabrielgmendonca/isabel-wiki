@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [ESE, LM]
-tags: [espirito-comunicante, ese, obra/ese, obra/lm]
+tags: [espirito-comunicante, ese, obra/ese, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

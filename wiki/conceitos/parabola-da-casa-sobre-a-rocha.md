@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, casa-rocha, fe, obras, pratica, obra/ese]
+tags: [parabola, jesus, casa-rocha, fe, obras, pratica, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

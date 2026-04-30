@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [atos, apostolos, pedro, paulo, mediunidade, obsessao, universalismo]
+tags: [atos, apostolos, pedro, paulo, mediunidade, obsessao, universalismo, autor/paulo, autor/pedro]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-15

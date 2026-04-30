@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [medium, daniel-dunglas-home, manifestacoes-fisicas, levitacao, obra/re]
+tags: [medium, daniel-dunglas-home, manifestacoes-fisicas, levitacao, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

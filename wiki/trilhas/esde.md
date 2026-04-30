@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LE, ESE, LM]
-tags: [trilha, esde, evangelizacao, grupos-de-estudo, obra/le, obra/ese, obra/lm]
+tags: [trilha, esde, evangelizacao, grupos-de-estudo, obra/le, obra/ese, obra/lm, autor/kardec]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

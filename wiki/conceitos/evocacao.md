@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [evocacao, comunicacao, pratica-espirita, mediuns, obra/lm]
+tags: [evocacao, comunicacao, pratica-espirita, mediuns, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

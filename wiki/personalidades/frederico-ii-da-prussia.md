@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [frederico-ii, comunicante, monarca, prussia, obra/re]
+tags: [frederico-ii, comunicante, monarca, prussia, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

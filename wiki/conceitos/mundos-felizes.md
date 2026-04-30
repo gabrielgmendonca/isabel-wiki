@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [mundos, felicidade, espiritualidade-superior, obra/ese]
+tags: [mundos, felicidade, espiritualidade-superior, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

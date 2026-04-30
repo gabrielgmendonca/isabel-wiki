@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos, obra/lm]
+tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos, obra/lm, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

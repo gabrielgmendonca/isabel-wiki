@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, ovelha-perdida, misericordia, arrependimento, obra/ese]
+tags: [parabola, jesus, ovelha-perdida, misericordia, arrependimento, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

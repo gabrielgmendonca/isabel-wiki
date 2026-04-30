@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LM]
-tags: [kardec, pentateuco, codificacao, mediunidade, manifestacoes, pratica-espirita, obra/lm]
+tags: [kardec, pentateuco, codificacao, mediunidade, manifestacoes, pratica-espirita, obra/lm, autor/kardec]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-06

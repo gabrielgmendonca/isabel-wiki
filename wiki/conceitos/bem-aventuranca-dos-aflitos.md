@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [bem-aventurancas, sermao-da-montanha, aflicao, consolacao, jesus, obra/ese, obra/le]
+tags: [bem-aventurancas, sermao-da-montanha, aflicao, consolacao, jesus, obra/ese, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-28
 status: ativo
 ---

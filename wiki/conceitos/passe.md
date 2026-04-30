@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, Gênese, ESE, André Luiz/Chico Xavier]
-tags: [passe, mediunidade-curadora, fluidoterapia, magnetismo, fluidos, andre-luiz, os-mensageiros, obra/lm, obra/genese, obra/ese]
+tags: [passe, mediunidade-curadora, fluidoterapia, magnetismo, fluidos, andre-luiz, os-mensageiros, obra/lm, obra/genese, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

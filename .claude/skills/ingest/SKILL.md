@@ -55,7 +55,12 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
 > `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do workflow **Query** (CLAUDE.md §4), não da ingestão.
 3. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 4. **Atualizar `wiki/sinteses/catalogo.md`** com links e resumos das páginas novas (a home `index.md` é landing de trilhas e não lista páginas individuais).
-5. **Enriquecer tags `obra/`**: rodar `uv run python scripts/enrich_tags_obra.py` para preencher as tags `obra/*` derivadas do campo `fontes` nas páginas novas/atualizadas. Idempotente — skipa páginas já completas. A taxonomia `obra/` está documentada em `.claude/rules/convencoes-paginas.md`.
+5. **Enriquecer tags hierárquicas**: rodar os enrich scripts para preencher os namespaces validados. Todos idempotentes — skipam páginas já completas. Taxonomia completa em `.claude/rules/convencoes-paginas.md`.
+   - `uv run python scripts/enrich_tags_obra.py` — `obra/*` a partir de `fontes:`.
+   - `uv run python scripts/enrich_tags_autor.py` — `autor/*` a partir de `fontes:` e tags livres canônicas (espírito + médium para psicografias).
+   - `uv run python scripts/enrich_tags_grau.py` — `grau/*` por default heurístico (`questao`→introdutorio, `conceito`/`parabola`/`personalidade`→intermediario, `aprofundamento`/`sintese`/`divergencia`→avancado). Revisar caso a caso após gravar; promover/rebaixar manualmente quando o conteúdo discordar do default.
+   - **`tema/*`** (1-3 valores em conjunto fechado: `tema/deus`, `tema/espiritos`, `tema/encarnacao`, `tema/mediunidade`, `tema/moral`, `tema/jesus`, `tema/vida-futura`, `tema/sociedade`, `tema/livre-arbitrio`, `tema/prece-caridade`, `tema/sofrimento`, `tema/historia-doutrina`) — **atribuir manualmente** no frontmatter de cada página criada/atualizada. Não há script; o significado é semântico.
+   - `lei/*` (10 valores) quando a página tratar de lei moral — `uv run python scripts/enrich_tags_lei.py --apply` cobre os casos óbvios; complementar manual.
 6. **Recalcular "Status do projeto"**: rodar `uv run python .claude/skills/ingest/scripts/update_status.py` para atualizar a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.).
 7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
 8. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).

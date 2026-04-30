@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
-tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope]
+tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

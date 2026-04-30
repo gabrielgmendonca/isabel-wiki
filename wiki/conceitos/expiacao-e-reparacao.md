@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, expiacao, reparacao, arrependimento, justica-divina, reencarnacao, obra/ci, lei/justica-amor-caridade]
+tags: [ceu-e-inferno, expiacao, reparacao, arrependimento, justica-divina, reencarnacao, obra/ci, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-16
 status: ativo
 ---

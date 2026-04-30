@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [RE]
-tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/re]
+tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

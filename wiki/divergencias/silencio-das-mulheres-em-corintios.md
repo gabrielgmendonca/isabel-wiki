@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, NT]
-tags: [divergencia, mulher, igualdade, paulo, igreja-primitiva, obra/le, lei/igualdade]
+tags: [divergencia, mulher, igualdade, paulo, igreja-primitiva, obra/le, lei/igualdade, autor/kardec, autor/paulo, grau/avancado]
 atualizado_em: 2026-04-20
 status: aberta
 ---

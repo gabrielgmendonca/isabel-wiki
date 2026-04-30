@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [pactos, satanas, demonios, superstição, alegoria, gozos-materiais, obra/le]
+tags: [pactos, satanas, demonios, superstição, alegoria, gozos-materiais, obra/le, autor/kardec, grau/introdutorio]
 atualizado_em: 2026-04-19
 status: ativo
 ---

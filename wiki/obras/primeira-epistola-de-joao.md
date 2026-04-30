@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [joao, deus-e-amor, discernimento-de-espiritos, espirito-de-verdade, fraternidade, amor-ao-proximo, comunhao, luz-e-trevas, anticristo, filiacao-divina]
+tags: [joao, deus-e-amor, discernimento-de-espiritos, espirito-de-verdade, fraternidade, amor-ao-proximo, comunhao, luz-e-trevas, anticristo, filiacao-divina, autor/joao]
 atualizado_em: 2026-04-27
 status: ativo
 direitos:

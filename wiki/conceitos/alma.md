@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [alma, espirito-encarnado, antropologia-espirita, obra/le]
+tags: [alma, espirito-encarnado, antropologia-espirita, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-26
 status: ativo
 ---

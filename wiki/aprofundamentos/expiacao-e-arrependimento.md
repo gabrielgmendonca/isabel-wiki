@@ -22,6 +22,8 @@ tags:
   - lei/conservacao
   - lei/igualdade
   - lei/justica-amor-caridade
+  - grau/avancado
+  - autor/kardec
 atualizado_em: 2026-04-26
 status: ativo
 ---

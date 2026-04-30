@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
-tags: [emmanuel, espirito-comunicante, chico-xavier]
+tags: [emmanuel, espirito-comunicante, chico-xavier, autor/chico-xavier, autor/emmanuel, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

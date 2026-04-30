@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, André Luiz/Chico Xavier]
-tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao]
+tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

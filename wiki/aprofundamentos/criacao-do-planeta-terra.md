@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [Gênese, LE, Emmanuel/Chico Xavier]
-tags: [criacao, cosmogonia, geologia, terra, fluido-cosmico, principio-vital, alma-da-terra, jesus, capela, obra/genese, obra/le]
+tags: [criacao, cosmogonia, geologia, terra, fluido-cosmico, principio-vital, alma-da-terra, jesus, capela, obra/genese, obra/le, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado]
 atualizado_em: 2026-04-26
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [jeronimo, espirito-comunicante, andre-luiz, obreiros-da-vida-eterna, assistentes, socorro, desencarnacao]
+tags: [jeronimo, espirito-comunicante, andre-luiz, obreiros-da-vida-eterna, assistentes, socorro, desencarnacao, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

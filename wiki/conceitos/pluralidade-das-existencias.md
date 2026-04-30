@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [pluralidade-existencias, reencarnacao, existencias-sucessivas, obra/le]
+tags: [pluralidade-existencias, reencarnacao, existencias-sucessivas, obra/le, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-05
 status: ativo
 ---

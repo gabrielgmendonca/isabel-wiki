@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, NT]
-tags: [humildade, virtude, moral, orgulho, bem-aventurancas, tiago, obra/ese, obra/le]
+tags: [humildade, virtude, moral, orgulho, bem-aventurancas, tiago, obra/ese, obra/le, autor/kardec, autor/tiago, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

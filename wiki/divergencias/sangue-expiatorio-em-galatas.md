@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
-tags: [divergencia, paulo, galatas, expiacao, maldicao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, lei-mosaica, obra/le, obra/ese, obra/ci]
+tags: [divergencia, paulo, galatas, expiacao, maldicao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, lei-mosaica, obra/le, obra/ese, obra/ci, autor/kardec, autor/paulo, grau/avancado]
 atualizado_em: 2026-04-29
 status: aberta
 ---

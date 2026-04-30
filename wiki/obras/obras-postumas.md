@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [OPE]
-tags: [kardec, obras-postumas, nivel-2, postuma, obra/ope]
+tags: [kardec, obras-postumas, nivel-2, postuma, obra/ope, autor/kardec]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-29

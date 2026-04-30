@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM]
-tags: [allan-kardec, introducao, fenomenos-espiritas, mediunidade, perispirito, charlatanismo, sobrenatural, reunioes-espiritas, obra/le, obra/lm]
+tags: [allan-kardec, introducao, fenomenos-espiritas, mediunidade, perispirito, charlatanismo, sobrenatural, reunioes-espiritas, obra/le, obra/lm, autor/kardec]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-26

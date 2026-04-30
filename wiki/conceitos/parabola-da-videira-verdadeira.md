@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, videira, ramos, caridade, fe-raciocinada, obra/ese]
+tags: [parabola, jesus, videira, ramos, caridade, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-15
 status: ativo
 ---

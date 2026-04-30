@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, obra/le, obra/ese, lei/reproducao]
+tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, obra/le, obra/ese, lei/reproducao, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [zulmira, personagem, obsessao, culpa, remorso, andre-luiz]
+tags: [zulmira, personagem, obsessao, culpa, remorso, andre-luiz, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
 atualizado_em: 2026-04-15
 status: rascunho
 ---

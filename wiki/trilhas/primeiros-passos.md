@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LE, ESE, OQE]
-tags: [trilha, introducao, iniciante, obra/le, obra/ese, obra/oqe]
+tags: [trilha, introducao, iniciante, obra/le, obra/ese, obra/oqe, autor/kardec]
 atualizado_em: 2026-04-20
 status: rascunho
 ---

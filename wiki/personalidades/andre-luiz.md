@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, espirito-comunicante, chico-xavier, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna]
+tags: [andre-luiz, espirito-comunicante, chico-xavier, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

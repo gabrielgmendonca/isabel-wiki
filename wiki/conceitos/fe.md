@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, NT]
-tags: [fe, moral, virtude, razao, religiao, hebreus, tiago, fe-e-obras, obra/ese, obra/le]
+tags: [fe, moral, virtude, razao, religiao, hebreus, tiago, fe-e-obras, obra/ese, obra/le, autor/kardec, autor/tiago, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

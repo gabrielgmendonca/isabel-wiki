@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [Gênese, Emmanuel/Chico Xavier]
-tags: [emigracao, imigracao, espiritos, mundos, renovacao, flagelos, obra/genese]
+tags: [emigracao, imigracao, espiritos, mundos, renovacao, flagelos, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-06
 status: ativo
 ---

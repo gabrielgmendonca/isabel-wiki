@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, NT]
-tags: [prece, oracao, transmissao-do-pensamento, tiago, prece-pelos-doentes, obra/ese, obra/le, lei/adoracao]
+tags: [prece, oracao, transmissao-do-pensamento, tiago, prece-pelos-doentes, obra/ese, obra/le, lei/adoracao, autor/kardec, autor/tiago, grau/intermediario]
 atualizado_em: 2026-04-27
 status: ativo
 ---

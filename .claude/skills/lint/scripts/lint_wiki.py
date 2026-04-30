@@ -546,15 +546,42 @@ VALID_LEI_TAGS = {
     "lei/liberdade", "lei/justica-amor-caridade",
 }
 
+VALID_GRAU_TAGS = {
+    "grau/introdutorio", "grau/intermediario", "grau/avancado",
+}
+
+VALID_TEMA_TAGS = {
+    "tema/deus", "tema/espiritos", "tema/encarnacao", "tema/mediunidade",
+    "tema/moral", "tema/jesus", "tema/vida-futura", "tema/sociedade",
+    "tema/livre-arbitrio", "tema/prece-caridade", "tema/sofrimento",
+    "tema/historia-doutrina",
+}
+
+VALID_AUTOR_TAGS = {
+    "autor/kardec", "autor/leon-denis", "autor/chico-xavier",
+    "autor/emmanuel", "autor/andre-luiz", "autor/humberto-de-campos",
+    "autor/joanna-de-angelis", "autor/divaldo-franco",
+    "autor/bezerra-de-menezes", "autor/cairbar-schutel", "autor/hammed",
+    "autor/paulo", "autor/joao", "autor/pedro", "autor/tiago",
+}
+
 FONTES_TO_OBRA = {
     "LE": "obra/le", "LM": "obra/lm", "ESE": "obra/ese",
     "C&I": "obra/ci", "Gênese": "obra/genese",
     "OPE": "obra/ope", "OQE": "obra/oqe", "RE": "obra/re",
 }
 
+# Tipos de página que NÃO recebem grau/* (obras não têm grau próprio).
+GRAU_EXEMPT_TIPOS = {"obra"}
+
+
+def _is_trilha(page: Path, tags: list[str]) -> bool:
+    """Trilhas (em wiki/trilhas/ ou marcadas com tag livre 'trilha') não recebem grau/*."""
+    return "wiki/trilhas/" in str(page) or "trilha" in tags
+
 
 def check_tag_taxonomy(pages: list[Path]) -> dict:
-    """Check — tags lei/ e obra/ devem pertencer a conjuntos canônicos e ser consistentes com fontes."""
+    """Check — tags lei/, obra/, grau/, tema/, autor/ devem pertencer a conjuntos canônicos."""
     items = []
     for page in pages:
         fm, _ = parse_frontmatter(page)
@@ -571,6 +598,21 @@ def check_tag_taxonomy(pages: list[Path]) -> dict:
                 items.append({
                     "path": str(page),
                     "detail": f"tag lei/ inválida: {tag} (valores válidos: {', '.join(sorted(VALID_LEI_TAGS))})",
+                })
+            if tag.startswith("grau/") and tag not in VALID_GRAU_TAGS:
+                items.append({
+                    "path": str(page),
+                    "detail": f"tag grau/ inválida: {tag} (valores válidos: {', '.join(sorted(VALID_GRAU_TAGS))})",
+                })
+            if tag.startswith("tema/") and tag not in VALID_TEMA_TAGS:
+                items.append({
+                    "path": str(page),
+                    "detail": f"tag tema/ inválida: {tag} (valores válidos: {', '.join(sorted(VALID_TEMA_TAGS))})",
+                })
+            if tag.startswith("autor/") and tag not in VALID_AUTOR_TAGS:
+                items.append({
+                    "path": str(page),
+                    "detail": f"tag autor/ inválida: {tag} (valores válidos: {', '.join(sorted(VALID_AUTOR_TAGS))})",
                 })
 
         # Validar que obra/ tags são consistentes com fontes
@@ -593,7 +635,48 @@ def check_tag_taxonomy(pages: list[Path]) -> dict:
                 "detail": f"fonte presente mas tag {t} ausente",
             })
 
+        # grau/* não é permitido em obras nem em trilhas
+        tipo = fm.get("tipo", "")
+        if tipo in GRAU_EXEMPT_TIPOS or _is_trilha(page, tags):
+            for t in sorted(t for t in tags if t.startswith("grau/")):
+                items.append({
+                    "path": str(page),
+                    "detail": f"tag {t} não se aplica (obras/trilhas não têm grau próprio)",
+                })
+
     return {"severity": "warning", "count": len(items), "items": items}
+
+
+def _is_meta_tagged(fm: dict) -> bool:
+    """Meta-páginas (tipo: sintese + tag 'meta') ficam fora de checks de cobertura."""
+    tags = fm.get("tags", []) or []
+    if isinstance(tags, str):
+        tags = [tags]
+    return fm.get("tipo") == "sintese" and "meta" in tags
+
+
+def check_tag_coverage(pages: list[Path]) -> dict:
+    """Check — páginas elegíveis devem ter ao menos 1 tag tema/* (info-level).
+
+    Eleva sinal sobre páginas ainda sem eixo doutrinário marcado, alimentando
+    passes incrementais de tagueamento. Skip explícito: trilhas (estruturais)
+    e meta-páginas (tipo: sintese + tag meta).
+    """
+    items = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        tags = fm.get("tags", []) or []
+        if isinstance(tags, str):
+            tags = [tags]
+        if _is_trilha(page, tags) or _is_meta_tagged(fm):
+            continue
+        if not any(t.startswith("tema/") for t in tags):
+            items.append({
+                "path": str(page),
+                "tipo": fm.get("tipo", ""),
+                "detail": "página sem nenhuma tag tema/*",
+            })
+    return {"severity": "info", "count": len(items), "items": items}
 
 
 PENTATEUCO_SLUGS = {
@@ -966,6 +1049,7 @@ CHECK_REGISTRY = {
     "status_projeto": check_status_projeto,
     "broken_urls": check_broken_urls,
     "tag_taxonomy": check_tag_taxonomy,
+    "tag_coverage": check_tag_coverage,
     "naming_consistency": check_naming_consistency,
     "skills_consistency": check_skills_consistency,
     "raw_excluded": check_raw_excluded,

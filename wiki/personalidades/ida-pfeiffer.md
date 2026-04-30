@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [ida-pfeiffer, comunicante, viajante, austriaca, obra/re]
+tags: [ida-pfeiffer, comunicante, viajante, austriaca, obra/re, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-29
 status: ativo
 ---

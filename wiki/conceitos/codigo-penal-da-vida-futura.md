@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, penas-futuras, codigo-penal, expiacao, reparacao, livre-arbitrio, obra/ci]
+tags: [ceu-e-inferno, penas-futuras, codigo-penal, expiacao, reparacao, livre-arbitrio, obra/ci, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-16
 status: ativo
 ---

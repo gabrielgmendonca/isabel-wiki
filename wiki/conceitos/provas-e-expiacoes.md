@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, ESE, NT]
-tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, hebreus, obra/le, obra/ci, obra/ese]
+tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, hebreus, obra/le, obra/ci, obra/ese, autor/kardec, grau/intermediario]
 atualizado_em: 2026-04-21
 status: ativo
 ---
