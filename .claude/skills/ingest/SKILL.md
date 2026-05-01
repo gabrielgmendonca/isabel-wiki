@@ -30,7 +30,7 @@ A regra é: **nada em `wiki/` é editado antes do usuário aprovar um plano expl
    - **Páginas a atualizar**: existentes que ganham seção/citação (resultado da checagem de duplicatas).
    - **Direitos autorais**: detentor previsto e `url_aquisicao` (se obra protegida).
    - **Divergências com Kardec**: lista de pontos a flaggar (ou "nenhuma identificada").
-   - **Atualizações finais**: `catalogo.md`, `log.md`, recálculo de `index.md`.
+   - **Atualizações finais**: `catalogo.md` e `log.md`. `index.md` **não** é tocado pelo `/ingest` (a linha "Cobertura atual" é responsabilidade do `/stats`, rodado periodicamente na `main` — evita conflitos entre worktrees paralelas).
    
    Se o usuário rejeitar o plano, ajustar e re-submeter — não escrever nada.
 
@@ -61,6 +61,5 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
    - `uv run python scripts/enrich_tags_grau.py` — `grau/*` por default heurístico (`questao`→introdutorio, `conceito`/`parabola`/`personalidade`→intermediario, `aprofundamento`/`sintese`/`divergencia`→avancado). Revisar caso a caso após gravar; promover/rebaixar manualmente quando o conteúdo discordar do default.
    - **`tema/*`** (1-3 valores em conjunto fechado: `tema/deus`, `tema/espiritos`, `tema/encarnacao`, `tema/mediunidade`, `tema/moral`, `tema/jesus`, `tema/vida-futura`, `tema/sociedade`, `tema/livre-arbitrio`, `tema/prece-caridade`, `tema/sofrimento`, `tema/historia-doutrina`) — **atribuir manualmente** no frontmatter de cada página criada/atualizada. Não há script; o significado é semântico.
    - `lei/*` (10 valores) quando a página tratar de lei moral — `uv run python scripts/enrich_tags_lei.py --apply` cobre os casos óbvios; complementar manual.
-6. **Recalcular "Status do projeto"**: rodar `uv run python .claude/skills/ingest/scripts/update_status.py` para atualizar a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.).
-7. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases.
-8. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).
+6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases. Não tocar `index.md` — a linha "Cobertura atual" é regenerada pelo `/stats` na `main` (evita conflito entre worktrees paralelas; `log.md` usa `merge=union` no `.gitattributes` e auto-mescla).
+7. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).

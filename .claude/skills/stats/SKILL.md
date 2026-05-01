@@ -7,15 +7,16 @@ description: Gera página de estatísticas da wiki IsAbel — roda script Python
 
 Gatilhos: `/stats` · "gerar estatísticas" · "atualizar estatísticas da wiki"
 
-## Passo 1 — Rodar script
+## Passo 1 — Rodar scripts
 
 Da raiz do projeto:
 
 ```bash
 uv run python .claude/skills/stats/scripts/stats_wiki.py
+uv run python .claude/skills/stats/scripts/update_status.py
 ```
 
-O script sobrescreve `wiki/sinteses/estatisticas-da-wiki.md` com um painel determinístico contendo:
+`stats_wiki.py` sobrescreve `wiki/sinteses/estatisticas-da-wiki.md` com um painel determinístico contendo:
 
 - Totais e cobertura por tipo / status.
 - Grafo: top por grau de entrada, saída e PageRank; órfãos; componentes isolados.
@@ -23,6 +24,8 @@ O script sobrescreve `wiki/sinteses/estatisticas-da-wiki.md` com um painel deter
 - Atividade mensal a partir de `log.md` (sparkline ASCII).
 - Tamanho das páginas (histograma textual, extremos).
 - Sugestões automáticas (órfãs, termos sem página, componentes isolados).
+
+`update_status.py` atualiza a linha `**Cobertura atual:**` em `index.md` (contagens de obras, conceitos etc.). Centralizar essa atualização aqui — em vez de no `/ingest` — evita conflitos em `index.md` entre worktrees paralelas. Rodar preferencialmente na `main` após mesclar ingestões.
 
 ## Passo 2 — Atualizar catálogo e log
 

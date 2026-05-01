@@ -2,3 +2,15 @@
 *.epub filter=lfs diff=lfs merge=lfs -text
 *.mobi filter=lfs diff=lfs merge=lfs -text
 raw/assets/** filter=lfs diff=lfs merge=lfs -text
+
+# Append-only — auto-merge concatenando os dois lados em vez de gerar conflito
+# entre worktrees paralelas. Pode produzir ordem cronológica embaralhada; revisar
+# após merge se a ordem importar.
+log.md merge=union
+wiki/sinteses/catalogo.md merge=union
+ROADMAP.md merge=union
+
+# Gerado pelo /stats — qualquer conflito é ruído, basta regenerar.
+# Driver `ours` precisa ser registrado uma vez por clone:
+#   git config merge.ours.driver true
+wiki/sinteses/estatisticas-da-wiki.md merge=ours

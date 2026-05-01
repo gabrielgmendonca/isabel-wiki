@@ -52,7 +52,7 @@ Agrupar os resultados do script por severidade:
 ### Info
 - **divergencias_aberta** — divergências com `status: aberta`.
 - **missing_concept_pages** — links para conceitos que ainda não têm página própria. Inclui contagem de páginas distintas que referenciam cada conceito ausente.
-- **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/ingest/scripts/update_status.py`.
+- **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/stats/scripts/update_status.py`.
 
 Para cada categoria com `count > 0`, listar os itens de forma concisa.
 
