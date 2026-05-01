@@ -41,6 +41,18 @@ direitos:
 
 Default conservador: ausência do campo `direitos:` em `tipo: obra` é tratada pelo lint como `info` (vai virar `warning` após backfill em massa).
 
+### Limites de citação para obras protegidas
+
+Para obras com `direitos.detentor` diferente de `dominio-publico`, aplicar limites operacionais — não é doutrina jurídica de fair-use, é guia editorial para citar com respeito ao autor:
+
+- **Trecho citado direto**: até **400 palavras corridas** ou **3 questões/itens consecutivos** por página, o que vier primeiro.
+- **Proporção**: citação direta ≤ 25% do corpo da página; comentário próprio ≥ 75%. O leitor deve sair com a interpretação da wiki, não com a obra original transcrita.
+- **Quando exceder for necessário**: parafrasear ("conforme Hammed argumenta em *As Dores da Alma*, capítulo X, [paráfrase]") + 1 trecho-chave breve em citação direta. Linkar o `url_aquisicao` da página de obra.
+- **Páginas `tipo: obra`** podem citar mais (resumo estrutural por capítulo/parte), mas o "Resumo por eixos" deve ser **paráfrase + citações curtas**, não transcrição.
+- **Ensinamentos morais de Jesus** (Evangelhos canônicos): texto-base em DP, citar livremente.
+
+O lint (`check_quote_proportion`) reporta páginas que excedem como `info`; revisão manual decide se promove para `warning`.
+
 ## Taxonomia de tags
 
 Tags livres continuam permitidas. Além delas, **cinco namespaces hierárquicos** (com `/`) habilitam navegação temática no Quartz (que gera `/tags/<slug>/` automaticamente para cada tag em uso):

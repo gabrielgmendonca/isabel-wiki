@@ -5,6 +5,12 @@ paths:
 
 # Regra de divergência
 
+## Caso prático — trecho evangélico aparenta divergir do Pentateuco
+
+Se Kardec já fixou interpretação no ESE/Gênese/LE, ela prevalece (não a leitura literal do Evangelho). Se ele não tratou o trecho, antes de tomar como doutrina considerar (a) contexto alegórico, (b) interpolação ou tradução, (c) cultura semita do I século. Em qualquer caso, registrar como divergência se for citar.
+
+## Protocolo
+
 Quando nível 2/3 contradiz o Pentateuco:
 
 1. Na página da obra/autor, inserir:
