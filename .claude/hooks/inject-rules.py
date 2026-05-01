@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
 """PreToolUse hook: inject .claude/rules/*.md bodies whose frontmatter `paths:`
-globs match the Edit/Write/MultiEdit target file.
+globs match the target of an Edit/Write/MultiEdit, or the wiki/raw path
+referenced by a Bash search command (grep/rg/find/ag).
 
 Outputs a `hookSpecificOutput` JSON with `additionalContext` so Claude sees the
-rule before the tool runs. `permissionDecision: "allow"` keeps the normal no-
-friction UX for file edits within the project.
+rule before the tool runs. For file edits, also sets `permissionDecision: "allow"`
+to keep the existing no-friction UX. For Bash, omits the permission decision so
+the normal allowlist still gates execution.
 """
 from __future__ import annotations
 
 import fnmatch
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
 import yaml
+
+SEARCH_CMD_RE = re.compile(r"\b(grep|rg|ripgrep|fgrep|egrep|find|ag)\b")
+WIKI_RAW_REL_RE = re.compile(r"(?:^|[\s'\"=({])((?:wiki|raw)(?:/[\w\-./*?]+)?)")
 
 
 def parse_frontmatter(text: str) -> tuple[list[str], str]:
@@ -51,6 +57,37 @@ def path_matches(rel: str, pattern: str) -> bool:
     return fnmatch.fnmatch(rel, pattern)
 
 
+def derive_rel(tool_name: str, tool_input: dict, cwd: str) -> str | None:
+    """Return a repo-relative path for path-matching, or None to skip injection."""
+    if tool_name in ("Edit", "Write", "MultiEdit"):
+        target = tool_input.get("file_path")
+        if not target:
+            return None
+        try:
+            rel = os.path.relpath(target, cwd)
+        except ValueError:
+            return None
+        rel = rel.replace(os.sep, "/")
+        if rel.startswith("../") or rel == "..":
+            return None
+        return rel
+
+    if tool_name == "Bash":
+        cmd = tool_input.get("command") or ""
+        if not SEARCH_CMD_RE.search(cmd):
+            return None
+        # Normalize absolute paths under cwd to relative form, then look for
+        # the first reference to wiki/ or raw/ in the command.
+        cwd_norm = cwd.rstrip("/") + "/"
+        normalized = cmd.replace(cwd_norm, "")
+        m = WIKI_RAW_REL_RE.search(normalized)
+        if m:
+            return m.group(1)
+        return None
+
+    return None
+
+
 def main() -> int:
     try:
         event = json.load(sys.stdin)
@@ -58,18 +95,12 @@ def main() -> int:
         print(f"inject-rules: invalid event JSON on stdin: {exc}", file=sys.stderr)
         return 0
 
+    tool_name = event.get("tool_name") or ""
     tool_input = event.get("tool_input") or {}
-    target = tool_input.get("file_path")
-    if not target:
-        return 0
-
     cwd = event.get("cwd") or os.getcwd()
-    try:
-        rel = os.path.relpath(target, cwd)
-    except ValueError:
-        return 0
-    rel = rel.replace(os.sep, "/")
-    if rel.startswith("../") or rel == "..":
+
+    rel = derive_rel(tool_name, tool_input, cwd)
+    if not rel:
         return 0
 
     rules_dir = Path(cwd) / ".claude" / "rules"
@@ -99,15 +130,17 @@ def main() -> int:
         f"(carregadas automaticamente pelo hook inject-rules):\n\n{sections}"
     )
 
-    output = {
-        "hookSpecificOutput": {
-            "hookEventName": "PreToolUse",
-            "permissionDecision": "allow",
-            "permissionDecisionReason": f"rules: {names}",
-            "additionalContext": additional,
-        }
+    hook_output: dict = {
+        "hookEventName": "PreToolUse",
+        "additionalContext": additional,
     }
-    json.dump(output, sys.stdout)
+    # Auto-allow only for file edits — Bash still goes through the normal
+    # allowlist so this hook can never broaden permissions.
+    if tool_name in ("Edit", "Write", "MultiEdit"):
+        hook_output["permissionDecision"] = "allow"
+        hook_output["permissionDecisionReason"] = f"rules: {names}"
+
+    json.dump({"hookSpecificOutput": hook_output}, sys.stdout)
     return 0
 
 
