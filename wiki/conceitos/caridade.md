@@ -41,6 +41,14 @@ A ordenação paulina coloca a caridade no topo — acima mesmo da fé. É a mes
 
 Ver [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 13 para leitura integral.
 
+#### Eco em Colossenses: o "vínculo da perfeição" (Cl 3:14)
+
+Numa formulação compacta da mesma tese, Paulo escreve aos colossenses:
+
+> "E, sobre tudo isto, revesti-vos de amor, que é o **vínculo da perfeição**." ([[raw/biblia-acf/colossenses/3|Cl 3:14]])
+
+Após elencar virtudes ("entranhas de misericórdia, benignidade, humildade, mansidão, longanimidade", 3:12), Paulo coroa: o amor é o que **liga e completa** tudo. A imagem do "vínculo" (gr. *syndesmos*) é arquitetônica — sem ele, as virtudes ficam soltas; com ele, formam corpo. Eco direto de 1 Co 13:13 e base paulina paralela de ESE cap. XV. Ver [[wiki/obras/epistola-aos-colossenses]].
+
 ### O egoísmo como negação da caridade
 
 "O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra" (ESE, cap. XI, item 11). O egoísmo é o maior obstáculo ao progresso moral e à felicidade humana. A caridade é o antídoto natural do egoísmo: enquanto o egoísmo concentra tudo em si, a caridade expande o ser para fora de si.

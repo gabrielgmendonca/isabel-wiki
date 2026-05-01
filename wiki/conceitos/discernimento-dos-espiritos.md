@@ -107,6 +107,16 @@ Em 1 Co 14:32: "**os espíritos dos profetas estão sujeitos aos profetas**" —
 
 Ver [[wiki/obras/primeira-epistola-aos-corintios]].
 
+### Paulo — culto dos anjos como desvio (Cl 2:18)
+
+Em Colossenses, Paulo combate uma "filosofia" sincrética do vale do Lico que misturava especulação angelológica e ascetismo, com tendência a transformar Espíritos intermediários em **objetos de adoração**:
+
+> "Ninguém vos domine a seu bel-prazer com pretexto de humildade e culto dos anjos, envolvendo-se em coisas que não viu; estando debalde inchado na sua carnal compreensão, e não ligado à cabeça [Cristo]." (Cl 2:18, ACF)
+
+Para o Espiritismo, é texto-âncora paulino: a comunicação com Espíritos elevados **não é adoração**. A devoção é a Deus, mediada pelo Cristo; os Espíritos amigos são companheiros de jornada, nunca objetos de culto. O alerta paulino acrescenta um critério prático ao discernimento: **Espíritos que demandam reverência pessoal, títulos pomposos ou rituais de adoração específica são, por isso mesmo, suspeitos** — orgulho espiritual e exigência de culto são marcas de inferioridade moral, não de elevação. Articula com ESE cap. I, item 11 (adoração devida só a Deus) e com a regra da humildade dos Espíritos elevados (LM 2ª parte cap. XXIV, item 267).
+
+Ver [[wiki/obras/epistola-aos-colossenses]].
+
 ### João — "provai os espíritos" (1 Jo 4:1)
 
 > "Amados, não creiais em todo o espírito, mas provai se os espíritos são de Deus; porque já muitos falsos profetas se têm levantado no mundo." (1 Jo 4:1, ACF)

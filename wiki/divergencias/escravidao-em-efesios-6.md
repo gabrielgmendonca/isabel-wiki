@@ -108,7 +108,7 @@ Aqui a regra de ouro da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de a
 
 ### Relação com outras divergências
 
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — divergência irmã, articulada à mesma Lei de Igualdade. O literalismo da subordinação feminina e da subordinação dos servos compartilham a estrutura: dignidade espiritual paralela sem alteração da estrutura social.
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — divergência irmã, articulada à mesma Lei de Igualdade. O literalismo da subordinação feminina e da subordinação dos servos compartilham a estrutura: dignidade espiritual paralela sem alteração da estrutura social.
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] — divergência adjacente, do mesmo bloco doméstico de Efésios 5–6. As três (mulher, filhos, servos) formam o "código doméstico" paulino que a leitura espírita filtra integralmente pela Lei de Igualdade.
 
 ## Status
@@ -128,7 +128,7 @@ Nenhuma mitigação dissolve o fato de que o literalismo do texto serviu, por s�
 - [[wiki/conceitos/lei-de-igualdade]]
 - [[wiki/conceitos/lei-de-liberdade]]
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]]
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]]
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]]
 - [[wiki/personalidades/paulo-de-tarso]]
 

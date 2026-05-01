@@ -72,7 +72,7 @@ A leitura literalista de três passagens neotestamentárias instala estruturas h
 
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] — Ef 5:22–24 ("mulheres, sujeitai-vos a vossos maridos [...] o marido é a cabeça da mulher") em tensão com LE q. 817–822. A mutualidade de Ef 5:21 e o amor sacrificial assimétrico do marido (Ef 5:25) atenuam a leitura, mas o literalismo permanece divergente.
 - [[wiki/divergencias/escravidao-em-efesios-6]] — Ef 6:5–9 (servos obedecem aos senhores) em tensão com LE q. 803, 806, 818, 822 e com a [[wiki/conceitos/lei-de-liberdade]] (LE q. 825–872). Paulo dignifica o servo perante Deus ("não há acepção de pessoas", Ef 6:9) mas não recusa a estrutura escrava.
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11:3–16 e 14:34–35 (silêncio litúrgico feminino) em tensão com LE q. 817–822 e com At 2:17 ("vossas filhas profetizarão").
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — 1 Co 11:3–16 e 14:34–35 (silêncio litúrgico feminino) em tensão com LE q. 817–822 e com At 2:17 ("vossas filhas profetizarão").
 
 ## Páginas relacionadas
 

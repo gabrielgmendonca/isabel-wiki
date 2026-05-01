@@ -79,7 +79,7 @@ A ceia é, nessa leitura espírita, **ocasião ritual do exame diário de consci
 
 > [!warning] Divergência com Kardec
 > Os trechos 11:3–16 (véu feminino, "o homem é a cabeça da mulher") e 14:34–35 ("as vossas mulheres estejam caladas nas igrejas") contrastam com a doutrina da **igualdade dos sexos** em LE q. 817–822, especialmente q. 822: "O homem e a mulher são iguais perante Deus, por conseguinte devem sê-lo perante a lei". Também contrasta com Atos 2:17 ("vossas filhas profetizarão") e Gálatas 3:28 ("não há macho nem fêmea"). Crítica exegética moderna discute se 14:34–35 é interpolação pós-paulina.
-> Ver [[wiki/divergencias/silencio-das-mulheres-em-corintios]].
+> Ver [[wiki/divergencias/condicao-feminina-nas-paulinas]].
 
 **Cap. 12 — Diversidade dos dons; corpo único.** "Há diversidade de dons, mas o Espírito é o mesmo" (12:4). Lista programática (12:8–10): sabedoria, ciência, fé, **dons de curar**, operação de maravilhas, **profecia**, **discernimento dos espíritos**, variedade de línguas, interpretação das línguas. Cada uma dessas categorias tem paralelo direto no quadro sinótico dos médiuns em [[wiki/obras/livro-dos-mediuns|LM]] 2ª parte caps. XVI–XVII (itens 187–196): médiuns curadores, inspirados, proféticos, poliglotas etc. A formulação **"discernimento dos espíritos"** (12:10) é a primeira menção neotestamentária explícita do que Kardec desenvolverá em LM 2ª parte cap. XXIV (identificação dos Espíritos) — ver [[wiki/conceitos/discernimento-dos-espiritos]].
 
@@ -207,7 +207,7 @@ Ver [[raw/biblia-acf/1-corintios/15]].
 ## Divergências registradas
 
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7 vs. LE q. 695 (Lei de Reprodução). Status: aberta.
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11:3–16 e 14:34–35 vs. LE q. 817–822 (igualdade dos sexos); cf. At 2:17 e Gl 3:28. Status: aberta.
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — 1 Co 11:3–16 e 14:34–35 vs. LE q. 817–822 (igualdade dos sexos); cf. At 2:17 e Gl 3:28. Status: aberta.
 
 ## Fontes
 

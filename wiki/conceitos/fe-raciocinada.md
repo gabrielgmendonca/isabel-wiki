@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario]
+tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade]
 atualizado_em: 2026-04-28
 status: ativo
 ---
@@ -41,6 +41,16 @@ Em 2 Coríntios 5:7, Paulo formula o aspecto operacional da fé esclarecida:
 > "Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor (**porque andamos por fé, e não por vista**)." (2 Co 5:6–7)
 
 A frase é frequentemente lida como elogio da fé cega. O sentido paulino é o oposto: enquanto encarnados, **não temos acesso sensorial direto** à realidade espiritual; mas isso não impede a ação confiante baseada em evidência indireta — efeitos, fenômenos, frutos morais. É exatamente a posição kardequiana: a fé inabalável não dispensa exame, mas opera **antes** da visão direta, com base em razões suficientes (lógica, fenômenos, concordância universal das comunicações). Em chave espírita, "andar por fé" é confiar nas leis invisíveis demonstráveis pelos seus efeitos — não acreditar no não-demonstrado. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+
+### Crítica paulina ao "filosofismo" sem revelação (Cl 2:8)
+
+Paulo, em Colossenses, diante do sincretismo do vale do Lico, formula um critério complementar:
+
+> "Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo." (Cl 2:8, ACF)
+
+A passagem **não é hostil à razão**; o alvo paulino é **filosofia humana sem revelação** — especulação desconectada da experiência espiritual e da moral evangélica. O critério paulino "segundo Cristo" é simétrico ao critério kardequiano: filosofia que não passa pelo teste da moral evangélica é "vã sutileza", mesmo que pareça erudita. A fé raciocinada espírita está, portanto, **na linha paulina** — é razão **iluminada** pela revelação, não razão crua nem fé crua. Cl 2:8 articula com ESE cap. XIX, item 6 ("a fé raciocinada nada deixa de obscuro") e com a recusa kardequiana do fideísmo (LE q. 886).
+
+Ver [[wiki/obras/epistola-aos-colossenses]].
 
 ## Aplicação prática
 

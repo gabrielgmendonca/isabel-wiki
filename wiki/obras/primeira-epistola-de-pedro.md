@@ -116,7 +116,7 @@ A passagem 2:24 — "levando ele mesmo em seu corpo os nossos pecados sobre o ma
 
 ### Cap. 3 — Conduta no lar; "espíritos em prisão"
 
-**Casamento e conduta doméstica (3:1–7).** Capítulo doutrinariamente delicado nos vv. 1–6 (sujeição da mulher ao marido) e mais convergente nos vv. 7 (honra ao cônjuge) e 8 (igualdade fraterna). A leitura espírita acompanha a mesma posição de [[wiki/obras/primeira-epistola-aos-corintios|1 Coríntios 11; 14]]: as exortações paulinas/petrinas sobre a mulher refletem condicionantes culturais do I século e demandam **transposição** à luz da [[wiki/conceitos/lei-de-igualdade|igualdade dos sexos]] (LE q. 817–822). O essencial moral — **vida casta**, **adorno interior** ("incorruptível traje de um espírito manso e quieto", 3:4), **respeito mútuo**, **honra ao mais fraco** (3:7) — é mantido. Não se cria nova divergência aberta: a já existente sobre [[wiki/divergencias/silencio-das-mulheres-em-corintios|silêncio das mulheres em Coríntios]] cobre a estrutura.
+**Casamento e conduta doméstica (3:1–7).** Capítulo doutrinariamente delicado nos vv. 1–6 (sujeição da mulher ao marido) e mais convergente nos vv. 7 (honra ao cônjuge) e 8 (igualdade fraterna). A leitura espírita acompanha a mesma posição de [[wiki/obras/primeira-epistola-aos-corintios|1 Coríntios 11; 14]]: as exortações paulinas/petrinas sobre a mulher refletem condicionantes culturais do I século e demandam **transposição** à luz da [[wiki/conceitos/lei-de-igualdade|igualdade dos sexos]] (LE q. 817–822). O essencial moral — **vida casta**, **adorno interior** ("incorruptível traje de um espírito manso e quieto", 3:4), **respeito mútuo**, **honra ao mais fraco** (3:7) — é mantido. Não se cria nova divergência aberta: a já existente sobre [[wiki/divergencias/condicao-feminina-nas-paulinas|condição feminina nas paulinas]] cobre a estrutura.
 
 **Concórdia, retribuição do bem (3:8–12).** "Sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis. **Não tornando mal por mal, ou injúria por injúria; antes, pelo contrário, bendizendo**" (3:8–9). É a **versão petrina condensada** de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XII inteiro. A citação de Sl 34:12–16 nos vv. 10–12 reforça: "Quem quer amar a vida [...] refreie a sua língua do mal".
 
@@ -283,7 +283,7 @@ Não se abre divergência específica sobre 5:8 — o tratamento é **nota de re
 | 1Pe 2:13–17 | Sujeição às autoridades civis | Rm 13:1–7; At 5:29 ("obedecer mais a Deus"); ESE cap. XI |
 | 1Pe 2:18–25 | Cristo modelo de não-revolta no sofrimento | **ESE cap. XII** (Amai os vossos inimigos); ESE cap. IX (mansos); Mt 5:38–48 |
 | 1Pe 2:24 | "Levando ele mesmo em seu corpo os nossos pecados" | [[wiki/divergencias/sangue-expiatorio-em-1-pedro]]; LE q. 1009 |
-| 1Pe 3:1–7 | Conduta no casamento; sujeição; honra ao cônjuge | LE q. 817–822 ([[wiki/conceitos/lei-de-igualdade]]); [[wiki/divergencias/silencio-das-mulheres-em-corintios]]; LE q. 686–701 (Lei de Reprodução) |
+| 1Pe 3:1–7 | Conduta no casamento; sujeição; honra ao cônjuge | LE q. 817–822 ([[wiki/conceitos/lei-de-igualdade]]); [[wiki/divergencias/condicao-feminina-nas-paulinas]]; LE q. 686–701 (Lei de Reprodução) |
 | 1Pe 3:8–12 | "Não tornando mal por mal" | **ESE cap. XII**; Mt 5:43–48 |
 | 1Pe 3:14 | Bem-aventurança dos perseguidos pela justiça | Mt 5:10; [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] |
 | 1Pe 3:18 | "O justo pelos injustos" | [[wiki/divergencias/sangue-expiatorio-em-1-pedro]] |

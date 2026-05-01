@@ -49,9 +49,9 @@ Completar a base doutrinária para que o leitor encontre o essencial da codifica
 - [x] **Ingerir O Livro dos Médiuns** — concluído
 - [ ] **Ingerir Kardec complementar** — 6 fontes em `raw/kardec/complementares/`; 3 já ingeridas (O Que é o Espiritismo, Obras Póstumas, Viagem Espírita); faltam Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão
 - [ ] **Expandir autores nível 3** — Léon Denis avançado (4 obras ingeridas), Chico Xavier parcial (A Caminho da Luz ingerido); faltam O Consolador, Nosso Lar, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo
-- [ ] **Ingerir Novo Testamento restante** — 16/27 livros ingeridos: Evangelhos, Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Hebreus, Tiago, 1-Pedro, 1-João, Apocalipse. Faltam 11 (todos baixa prioridade — Kardec cita pouco ou nada):
-  - **Paulinas remanescentes** — Colossenses, 1/2-Tessalonicenses, 1/2-Timóteo, Tito, Filemom. Pastorais (1/2-Tim, Tito) e Filemom têm pouquíssima tração doutrinária no Pentateuco; Colossenses e Tessalonicenses entram só pontualmente
-  - **Cartas gerais remanescentes** — 2-Pedro, 2/3-João, Judas. Curtas, citadas raramente; 2-Pedro 1:5-7 (escala de virtudes) e 1-João já ingerido cobrem o essencial joânico
+- [ ] **Ingerir Novo Testamento restante** — 18/27 livros ingeridos: Evangelhos, Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Colossenses, Hebreus, Tiago, 1/2-Pedro, 1-João, Apocalipse. Faltam 9 (todos baixa prioridade — Kardec cita pouco ou nada):
+  - **Paulinas remanescentes** — 1/2-Tessalonicenses, 1/2-Timóteo, Tito, Filemom. Pastorais (1/2-Tim, Tito) e Filemom têm pouquíssima tração doutrinária no Pentateuco; Tessalonicenses entram só pontualmente
+  - **Cartas gerais remanescentes** — 2/3-João, Judas. Curtas, citadas raramente; 1-João e 2-Pedro já ingeridos cobrem o essencial joânico/petrino
 - [x] **Expandir personalidades-âncora** — stubs (<105 palavras) reescritos: Chico Xavier (88→~700), Espíritos Reveladores (103→~1170, agora cobre lista completa dos signatários dos Prolegômenos, Espírito de Verdade como Cristo no ESE cap. VI, e o critério de universalidade), Carlos Mendonça (61→~715, com método EELDE e três palestras associadas), Joseph Bré (97→~710, com a distinção honestidade-perante-homens vs perante-Deus), Eric Stanislas (104→~780, com a doutrina da reunião séria como santuário e expiação-vira-serviço)
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
 

@@ -257,7 +257,7 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 **Nenhuma nova divergência específica de 2 Coríntios.** As divergências doutrinárias paulinas (celibato como ideal, silêncio das mulheres, predestinação, leitura expiacionista do pecado original) já estão registradas a partir de 1 Coríntios e Romanos:
 
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — 1 Co 7
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — 1 Co 11; 14
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — 1 Co 11; 14
 - [[wiki/divergencias/pecado-original-em-romanos-5]] — Rm 5
 - [[wiki/divergencias/predestinacao-em-romanos-8-9]] — Rm 8–9
 

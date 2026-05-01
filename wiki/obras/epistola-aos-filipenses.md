@@ -152,7 +152,7 @@ Ver [[raw/biblia-acf/filipenses/3]].
 
 > "Rogo a Evódia, e rogo a Síntique, que sintam o mesmo no Senhor. E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os meus outros cooperadores, cujos nomes estão no livro da vida." (Fp 4:2–3)
 
-**Evódia e Síntique** são duas mulheres da liderança da comunidade filipense em discordância. O detalhe é precioso por dois motivos: (1) **mulheres exercendo ministério** ao lado de Paulo no evangelho (gr. *synēthlēsan moi en tō euangeliō*, "lutaram comigo no evangelho") — eco da liderança feminina nas comunidades paulinas, contrastando com a leitura literalista de 1 Co 14:34 ([[wiki/divergencias/silencio-das-mulheres-em-corintios]]); (2) **a paz na comunidade depende da reconciliação fraterna** — Paulo chama um "verdadeiro companheiro" (gr. *gnēsie syzyge*, possivelmente nome próprio Sízigo) para mediar. **Clemente** é mencionado entre os cooperadores; tradição patrística posterior (Orígenes, Eusébio) o identifica com Clemente de Roma, autor da 1ª Clementina (séc. I), embora a identificação seja conjectural.
+**Evódia e Síntique** são duas mulheres da liderança da comunidade filipense em discordância. O detalhe é precioso por dois motivos: (1) **mulheres exercendo ministério** ao lado de Paulo no evangelho (gr. *synēthlēsan moi en tō euangeliō*, "lutaram comigo no evangelho") — eco da liderança feminina nas comunidades paulinas, contrastando com a leitura literalista de 1 Co 14:34 ([[wiki/divergencias/condicao-feminina-nas-paulinas]]); (2) **a paz na comunidade depende da reconciliação fraterna** — Paulo chama um "verdadeiro companheiro" (gr. *gnēsie syzyge*, possivelmente nome próprio Sízigo) para mediar. **Clemente** é mencionado entre os cooperadores; tradição patrística posterior (Orígenes, Eusébio) o identifica com Clemente de Roma, autor da 1ª Clementina (séc. I), embora a identificação seja conjectural.
 
 A partir de 4:4, vem a sequência de preceitos centrais para o estudo espírita:
 
@@ -223,7 +223,7 @@ Ver [[raw/biblia-acf/filipenses/4]].
 | Fp 3:18–19 — "inimigos da cruz [...] cujo fim é a perdição" | **Divergência** com penas eternas / recaída irreversível; LE q. 115, q. 787, q. 1009–1012 (progresso universal); C&I 1ª parte cap. VII; ver [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] |
 | Fp 3:20 — "a nossa cidade está nos céus" | LE q. 84–85; C&I 1ª parte cap. III (vida espírita); ESE cap. II |
 | Fp 3:21 — "transformará o nosso corpo abatido [...] conforme o seu corpo glorioso" | **Gênese cap. XIV** (perispírito); 1 Co 15:42–49 (corpo animal × corpo espiritual) |
-| Fp 4:2–3 — Evódia, Síntique, Clemente | **Mulheres no evangelho** (contraponto a 1 Co 14:34 — ver [[wiki/divergencias/silencio-das-mulheres-em-corintios]]); ESE cap. IX, item 7 (tolerância) |
+| Fp 4:2–3 — Evódia, Síntique, Clemente | **Mulheres no evangelho** (contraponto a 1 Co 14:34 — ver [[wiki/divergencias/condicao-feminina-nas-paulinas]]); ESE cap. IX, item 7 (tolerância) |
 | Fp 4:4 — "regozijai-vos sempre no Senhor" | LE q. 916 (confiança em Deus); ESE cap. V (bem-aventurados os aflitos) |
 | Fp 4:5 — "seja a vossa eqüidade notória" | ESE cap. IX, item 7 (tolerância); LE q. 911 (domínio das paixões) |
 | Fp 4:6–7 — "não estejais inquietos [...] paz de Deus que excede todo o entendimento" | **ESE caps. XXVII–XXVIII** (eficácia da prece); LE q. 660–663; André Luiz, *Missionários da Luz*, cap. 6 |

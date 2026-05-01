@@ -96,11 +96,11 @@ A leitura espírita, articulando 5:21 (mutualidade) + 5:25–33 (amor sacrificia
 
 ### 4. Distinção em relação ao silêncio em 1 Co 14
 
-A divergência irmã, registrada em [[wiki/divergencias/silencio-das-mulheres-em-corintios]], trata do **silêncio litúrgico** (1 Co 14:34–35) e do **véu** (1 Co 11). O quadro lá é de **restrição cúltica em contexto pastoral específico**, com possível interpolação posterior. Aqui, em Ef 5, o quadro é distinto: **estrutura conjugal estável e cristologicamente fundamentada**, sem dúvidas textuais sobre autenticidade. Por isso a divergência é registrada em página própria — articula-se à mesma Lei de Igualdade, mas em domínio (família vs. assembleia) e com fundamentação (analogia Cristo/igreja vs. costume da assembleia) distintos.
+A divergência irmã, registrada em [[wiki/divergencias/condicao-feminina-nas-paulinas]], trata do **silêncio litúrgico** (1 Co 14:34–35) e do **véu** (1 Co 11). O quadro lá é de **restrição cúltica em contexto pastoral específico**, com possível interpolação posterior. Aqui, em Ef 5, o quadro é distinto: **estrutura conjugal estável e cristologicamente fundamentada**, sem dúvidas textuais sobre autenticidade. Por isso a divergência é registrada em página própria — articula-se à mesma Lei de Igualdade, mas em domínio (família vs. assembleia) e com fundamentação (analogia Cristo/igreja vs. costume da assembleia) distintos.
 
 ### Relação com outras divergências
 
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — divergência irmã sobre o estatuto feminino na assembleia.
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — divergência irmã sobre o estatuto feminino na assembleia.
 - [[wiki/divergencias/escravidao-em-efesios-6]] — divergência adjacente, do mesmo bloco doméstico de Efésios 5–6. As três (mulher, filhos, servos) formam o "código doméstico" paulino que a leitura espírita filtra integralmente pela Lei de Igualdade.
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — divergência paralela sobre a doutrina paulina do casamento.
 
@@ -121,7 +121,7 @@ A leitura espírita do casamento é parceria de iguais em vocação progressiva,
 - [[wiki/obras/livro-dos-espiritos]] — q. 803–824 (Lei de Igualdade)
 - [[wiki/conceitos/lei-de-igualdade]]
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
-- [[wiki/divergencias/silencio-das-mulheres-em-corintios]] — divergência irmã
+- [[wiki/divergencias/condicao-feminina-nas-paulinas]] — divergência irmã
 - [[wiki/divergencias/escravidao-em-efesios-6]] — divergência adjacente
 - [[wiki/divergencias/celibato-como-ideal-paulino]]
 - [[wiki/personalidades/paulo-de-tarso]]
