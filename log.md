@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-05-01] glossario | 4 termos novos: bivaques, pousio, arribação, cosmologia
+
+Termos colhidos da página recém-expandida [[wiki/conceitos/mundos-intermediarios-ou-transitorios]] — vocabulário do LE q. 234 e da RE de mai/1859 que tropeça leitor não-familiarizado: militar (`bivaques`), agrícola (`pousio`), zoológico (`arribação`) e filosófico-científico (`cosmologia`). `bivaques` registrado no plural porque é a única forma que aparece na wiki (citação de Kardec). `plenitude` foi rejeitado — abstrato comum em PT-BR sem referencial cultural específico. Preview de wraps no build: 21 ocorrências em 21 páginas distintas (15 `cosmologia`, 3 `pousio`, 2 `arribação`, 1 `bivaques`).
+
 ## [2026-04-30] lint | Promove 6 páginas finalizadas para `ativo` e silencia falso positivo de citation_format
 
 Lint reportou `rascunho_stale` em 6 páginas que estavam em `status: rascunho` por 15–23 dias mas já tinham conteúdo completo (todas as seções da estrutura por tipo preenchidas): [[wiki/obras/a-caminho-da-luz]], [[wiki/obras/entre-a-terra-e-o-ceu]], [[wiki/personalidades/mansao-do-caminho]], [[wiki/personalidades/irma-clara]], [[wiki/personalidades/odila]] e [[wiki/personalidades/zulmira]]. Promovidas para `status: ativo`. Em paralelo, único `citation_format` da wiki (`wiki/obras/revista-espirita.md:51`) era falso positivo — uma enumeração em prosa de obras queimadas no Auto-de-fé de Barcelona dentro de parênteses (`(LE, LM, OQE, RE, *História de Joana d'Arc* da [[…|Ermance Dufaux]] etc.)`) que o regex confundiu com citação. Reescrito sem parênteses, lista em texto corrido após travessão. Pós-correção: `citation_format` e `rascunho_stale` ambos zerados.
