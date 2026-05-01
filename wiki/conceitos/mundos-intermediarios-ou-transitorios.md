@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, RE]
-tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/le, obra/re, grau/intermediario, tema/vida-futura, tema/espiritos, autor/kardec, lei/progresso]
-atualizado_em: 2026-04-30
+fontes: [LE, RE, ESE]
+tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/le, obra/re, obra/ese, grau/intermediario, tema/vida-futura, tema/espiritos, autor/kardec, lei/progresso]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -47,14 +47,15 @@ A metáfora das aves migratórias é a mesma do LE q. 234 (*"bandos de aves que 
 
 ### Distinção das outras categorias de mundos
 
-A doutrina espírita reconhece quatro categorias hierárquicas de mundos habitados:
+A escala canônica fixada por Kardec no ESE, cap. III, item 4, reconhece **cinco categorias hierárquicas de mundos habitados**:
 
-1. **[[wiki/conceitos/mundos-de-expiacao-e-provas]]** — caso atual da Terra (predomínio da matéria, do mal, das paixões).
-2. **[[wiki/conceitos/mundos-regeneradores]]** — Espíritos completaram suas provas, podem reencarnar para depurar-se das últimas máculas (estado de transição da Terra).
-3. **[[wiki/conceitos/mundos-felizes]]** — predomínio do bem; corpo mais etéreo; sofrimento atenuado.
-4. **Mundos puros / superiores** — sede de Espíritos puros (LE q. 113).
+1. **Mundos primitivos** — destinados às primeiras encarnações da alma humana (ESE, cap. III, itens 4 e 8).
+2. **[[wiki/conceitos/mundos-de-expiacao-e-provas]]** — onde domina o mal; caso atual da Terra (ESE, cap. III, itens 4, 13–15).
+3. **[[wiki/conceitos/mundos-regeneradores]]** — transição entre os de expiação e os felizes; almas que ainda têm o que expiar haurem novas forças (ESE, cap. III, itens 4, 16–18).
+4. **[[wiki/conceitos/mundos-felizes]]** — onde o bem sobrepuja o mal; corpo mais etéreo, sofrimento atenuado (ESE, cap. III, itens 4, 9–12).
+5. **Mundos celestes ou divinos** — habitações de Espíritos depurados, onde exclusivamente reina o bem (ESE, cap. III, item 4). É o degrau supremo da escala dos **mundos**, correspondente, do lado dos **Espíritos**, à 1ª ordem da escala espírita ("Espíritos puros", LE q. 113).
 
-A categoria **transitória** acrescenta-se a essas: não é um quinto degrau na escala moral; é uma fase do **ciclo de vida do globo**, antes de tornar-se capaz de sustentar vida corpórea organizada. Espíritos errantes estacionam aí porque o lugar lhes é apropriado naquele estágio — sem habitantes "no sentido humano", sem necessidades fisiológicas (LE q. 236: *"Os que os habitam de nada precisam"*).
+A categoria **transitória** (LE q. 234–236) acrescenta-se a essas: não é um sexto degrau na escala moral; é uma fase do **ciclo de vida do globo**, antes de tornar-se capaz de sustentar vida corpórea organizada. Espíritos errantes estacionam aí porque o lugar lhes é apropriado naquele estágio — sem habitantes "no sentido humano", sem necessidades fisiológicas (LE q. 236: *"Os que os habitam de nada precisam"*).
 
 ### Função na cosmologia espírita
 
@@ -93,5 +94,7 @@ Não há.
 ## Fontes
 
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 234-236 ("Mundos transitórios", 2ª parte, cap. VI). Edição local: [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- KARDEC, Allan. *O Livro dos Espíritos*, q. 113 ("Espíritos puros", 1ª ordem da escala espírita). Edição local: [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. III, item 4 ("Diferentes categorias de mundos habitados"). Edição local: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - KARDEC, Allan. *Revista Espírita*, mai/1859, "Mundos intermediários ou transitórios". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
 - KARDEC, Allan. *Revista Espírita*, abr/1859, comunicação espontânea de Mozart sobre o tema (artigo precursor).

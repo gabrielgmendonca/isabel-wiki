@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [mundos, expiacao, provas, terra, obra/ese, obra/le, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -16,7 +16,7 @@ Categoria de mundos onde predomina o mal físico e moral, destinados à expiaç�
 
 ### Classificação dos mundos
 
-Kardec apresenta no ESE, cap. III, a escala dos mundos habitados conforme o grau de adiantamento de seus habitantes. Os mundos de expiação e provas estão entre os mais atrasados: "Neles, o mal predomina. Aí, a vida é um combate incessante" (ESE, cap. III, item 13).
+Kardec fixa a escala canônica em ESE, cap. III, item 4: **mundos primitivos**, **mundos de expiação e provas**, **mundos de regeneração**, **mundos felizes** e **mundos celestes ou divinos**. Os mundos de expiação e provas ocupam o **2º degrau** — acima dos primitivos (primeiras encarnações da alma humana) e abaixo dos regeneradores. São aqueles "onde domina o mal" (ESE, cap. III, item 4); o item 13 explicita: "a vida é um combate incessante".
 
 ### Características da vida nesses mundos
 

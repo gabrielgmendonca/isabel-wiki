@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [ESE]
-tags: [mundos, felicidade, espiritualidade-superior, obra/ese, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-06
+fontes: [ESE, LE]
+tags: [mundos, felicidade, espiritualidade-superior, obra/ese, obra/le, autor/kardec, grau/intermediario]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -16,11 +16,11 @@ Mundos superiores onde o bem sobrepuja o mal e os Espíritos gozam de condiçõe
 
 ### Posição na escala dos mundos
 
-Os mundos felizes estão acima dos mundos regeneradores. Neles, "o bem sobrepuja o mal" e as condições de vida refletem o adiantamento moral dos seus habitantes (ESE, cap. III, item 9).
+Na escala canônica fixada por Kardec (ESE, cap. III, item 4), os mundos felizes ocupam o **4º degrau**, acima dos mundos primitivos, dos mundos de expiação e provas e dos mundos regeneradores, e abaixo dos mundos celestes ou divinos. São definidos como aqueles **"onde o bem sobrepuja o mal"** (ESE, cap. III, item 4); a descrição detalhada das condições de vida vem nos itens 9–12.
 
 ### Características físicas e espirituais
 
-O corpo nesses mundos é purificado: "O envoltório, quase fluídico, permite uma leveza que torna a locomoção fácil e rápida" (ESE, cap. III, item 10). Os habitantes locomovem-se pela vontade, sem as limitações da matéria grosseira. Não há guerras, escravidão, nem ódio. "A luz que os ilumina não é a do Sol; é uma claridade permanente, suave e etérea, que não provém de nenhum foco particular" (ESE, cap. III, item 11).
+A descrição mais ampla dos mundos superiores está em ESE, cap. III, item 9: corpo aperfeiçoado, sentidos mais apurados, locomoção pela vontade ("desliza, a bem dizer, pela superfície, ou plana na atmosfera, sem qualquer outro esforço além do da vontade"), longevidade proporcional ao adiantamento, transmissão livre do pensamento. Aplicado especificamente aos mundos felizes (itens 10–11): não há guerras, escravidão, ódio nem inveja; "ninguém, todavia, sofre por lhe faltar o necessário, uma vez que ninguém se acha em expiação. Numa palavra: o mal, nesses mundos, não existe" (ESE, cap. III, item 10).
 
 ### Relações sociais
 
@@ -36,7 +36,7 @@ Deus não é parcial — todos os Espíritos podem alcançar os mundos felizes p
 
 ### Espíritos puros e mundos divinos
 
-Acima dos mundos felizes estão ainda as moradas dos Espíritos puros — os mundos divinos ou celestes, onde a matéria já não existe e a vida é puramente espiritual (ESE, cap. III, item 9). Estes representam o grau supremo da escala.
+Acima dos mundos felizes estão os **mundos celestes ou divinos** — "habitações de Espíritos depurados, onde exclusivamente reina o bem" (ESE, cap. III, item 4). Representam o grau supremo da escala dos mundos e correspondem, do lado dos Espíritos, à 1ª ordem da [[wiki/conceitos/escala-espirita|escala espírita]] ("Espíritos puros", LE q. 113).
 
 ## Desdobramentos
 
@@ -57,4 +57,5 @@ Em estudos sobre a pluralidade dos mundos e o destino da Humanidade, os mundos f
 
 ## Fontes
 
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. III ("Há muitas moradas na casa de meu Pai"), itens 9–12.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. III ("Há muitas moradas na casa de meu Pai"), item 4 (escala canônica das categorias de mundos) e itens 9–12 (descrição dos mundos felizes).
+- Kardec, Allan. *O Livro dos Espíritos*, q. 113 ("Espíritos puros", 1ª ordem da escala espírita). Trad. Guillon Ribeiro. FEB.
