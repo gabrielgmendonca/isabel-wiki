@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro, antioquia, paulo, autor/paulo, autor/pedro, grau/intermediario, lei/justica-amor-caridade]
-atualizado_em: 2026-04-29
+tags: [pedro, apostolo, atos, evangelho, primeira-epistola-de-pedro, segunda-epistola-de-pedro, antioquia, paulo, transfiguracao, autor/paulo, autor/pedro, grau/intermediario, lei/justica-amor-caridade, tema/historia-doutrina]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -24,11 +24,14 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - **Mediunidade e ação fluídica.** Cura do coxo pela palavra em nome de Jesus (At 3:6); curas por irradiação da sombra (At 5:15); discernimento mediúnico diante de Ananias, Safira e Simão, o Mago. Repertório enquadrável em Gênese, caps. XIV–XV.
 - **Universalismo.** Depois da visão do lençol em Jope, formula: "Deus não faz acepção de pessoas" (At 10:34) — passagem citada por Kardec em ESE, cap. XI.
 - **Posição kardequiana quanto ao "primado".** Kardec **não lê Mt 16:18–19 ("sobre esta pedra edificarei a minha igreja [...] dar-te-ei as chaves")** como instituição de primado jurídico hereditário. O "poder das chaves" é moral: o fiel é julgado por suas obras; não há igreja exclusiva intermediária da salvação (ESE, cap. XV, "fora da caridade não há salvação"). A leitura espírita honra Pedro como testemunha e pioneiro sem elevá-lo a cabeça monárquica da fé.
+- **Carta-testamento e ciência mediúnica da própria morte.** Em [[wiki/obras/segunda-epistola-de-pedro|2 Pe]] 1:13–15, Pedro escreve sabendo que vai morrer logo: "**Sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já mo tem revelado**" — eco direto da palavra de Jesus em Jo 21:18. Caso paralelo aos relatados em C&I 2ª parte sobre Espíritos que anunciam o próprio fim; descreve fenômeno mediúnico claro (a revelação foi dada a Pedro por Jesus desencarnado) e justifica a redação como **memorial fiel** contra deformação posterior do ensino.
+- **Reconhecimento das cartas paulinas como Escritura e antecipação da hermenêutica espírita.** Em 2 Pe 3:15–16, Pedro chama Paulo de "**nosso amado irmão**" e reconhece suas cartas como conjunto canônico ("todas as suas epístolas") tratado como **Escritura** ("igualmente as outras Escrituras") — testemunho histórico precioso da formação precoce do corpus paulino. Crucial doutrinariamente: Pedro **admite** que Paulo tem "**pontos difíceis de entender, que os indoutos e inconstantes torcem**". É a antecipação apostólica da regra hermenêutica que Kardec sistematiza como controle universal (ESE Introdução; OPE; CLAUDE.md §2). As divergências da wiki sobre passagens paulinas absolutizadas pela tradição (pecado original em Rm 5; predestinação em Rm 8–9; sangue expiatório em Gl 3; cristologia calcedoniana em Fp 2) são casos do que Pedro chamou "torcer" Paulo — a leitura à luz do Pentateuco é o cumprimento maduro deste critério apostólico.
 
 ## Obras associadas
 
 - [[wiki/obras/atos-dos-apostolos]] — protagonista dos caps. 1–12; participação no concílio de Jerusalém (cap. 15).
 - [[wiki/obras/primeira-epistola-de-pedro]] — autor (1Pe 1:1; auto-identificado como "presbítero com eles, e testemunha das aflições de Cristo" em 5:1). Carta pastoral às comunidades dispersas da Ásia Menor sob perseguição.
+- [[wiki/obras/segunda-epistola-de-pedro]] — autor pela atribuição tradicional (auto-identificação em 1:1; testemunho ocular da Transfiguração em 1:16–18); autenticidade petrina debatida pela crítica moderna. Carta-testamento das vésperas do martírio (1:13–15) com escala de virtudes (1:5–7), profecia inspirada como base da mediunidade séria (1:20–21), universalismo da longanimidade divina (3:9) e reconhecimento das cartas de Paulo como Escritura (3:15–16).
 - [[wiki/obras/evangelho-segundo-marcos]] — Evangelho cuja tradição patrística (Papias) atribui à pregação oral de Pedro registrada por seu discípulo [[wiki/personalidades/marcos-evangelista|Marcos]].
 - [[wiki/obras/epistola-aos-galatas]] — figura mencionada (Gl 1:18 — Paulo o conhece quinze dias em Jerusalém; Gl 2:7–9 — apostolado da circuncisão; Gl 2:9 — coluna da Igreja; Gl 2:11–14 — episódio do confronto em Antioquia).
 
