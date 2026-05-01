@@ -163,6 +163,38 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 
 > **Lição doutrinária:** O caso ilustra (1) obsessão simples por **vingança afetiva** — motivo listado por Kardec (LM, 2ª parte, cap. XXIII, item 245); (2) o **perispírito** como veículo de ligação entre obsessor e obsidiado; (3) a mediunidade ignorada como fator agravante; (4) a desobsessão como **caridade ao Espírito sofredor**, não apenas ao encarnado.
 
+### Margarida — vampirismo psíquico tecnicamente organizado (André Luiz, *Libertação*, 1949)
+
+Caso paradigmático de **obsessão coletiva tecnicamente dirigida** — protótipo das modalidades sistematizadas em *Missionários da Luz* (cap. 18) e *Evolução em Dois Mundos* (1958). Margarida, jovem encarnada, é cercada por uma falange completa: Saldanha (chefe da operação), Leôncio, o hipnotizador Gaspar e dezenas de [[wiki/conceitos/ovoides]] plúmbeos pousados na cabeceira da enferma, ligados ao bulbo por fios sutis.
+
+> "A vampirização era incessante. As energias usuais do corpo pareciam transportadas às 'formas ovóides', que se alimentavam delas, automaticamente, num movimento indefinível de sucção." (*Libertação*, cap. 9)
+
+Os obsessores controlam a pressão sanguínea, bloqueiam os nervos óticos (gerando alucinações), produzem ulcerações na epiderme torácica. É **subjugação** (LM cap. XXIII, item 240) levada à infraestrutura tecnológica psíquica.
+
+**A solução em Libertação inverte o método pelo amor ao perseguidor**: Gúbio acompanha Saldanha ao hospício onde o filho do obsessor está internado em demência, libera o filho e converte o pai (cap. 12 — "Em todos os lugares, um grande amor pode socorrer o amor menor"). Saldanha vira aliado; Leôncio o segue. Só então, na reunião familiar mediúnica do cap. 15 com Sidônio e a médium Isaura, Gúbio extrai força nêurica dos assistentes encarnados, **desliga magneticamente os ovóides** do cérebro de Margarida (entregues a postos socorristas), e doutrina Gaspar via "enxertia psíquica".
+
+Lição operativa: contra obsessão tecnicamente dirigida, a chave não é confronto direto — é **conversão dos perseguidores intermediários** seguida de cirurgia magnética coletiva. Coerente com o caso Zulmira/Odila (não separar à força) e amplifica o método.
+
+### Isaura — obsessão de médium pelo ciúme (André Luiz, *Libertação*, 1949, cap. 16)
+
+Caso-modelo da **obsessão que ataca a mediunidade** pela porta do exclusivismo afetivo. D. Isaura Silva é médium de incorporação do centro doméstico que socorre Margarida. Durante a sessão, irradia luz e serve perfeitamente. Encerrada a reunião, porém — porque o esposo dispensou gentileza a senhoras visitantes — cai no ciúme; sai do corpo durante o sono e sintoniza espontaneamente com obsessores que a esperam.
+
+Os obsessores não a atacam — **lisonjeiam-na**. Apresentam-se como "leais amigos" que conhecem seus "padecimentos ocultos", confirmam que o marido é "patife mascarado de apóstolo", e plantam a semente fatal: que sua mediunidade é fantasiosa, "pálidas influências de Espíritos perturbados e... produtos de seu próprio cérebro" — "mistificação inconsciente". O objetivo é **anular a célula iluminativa** do santuário doméstico.
+
+Sidônio, diretor espiritual da casa, recusa intervir à força:
+
+> "Isaura, no fundo, era senhora do próprio destino e... dispunha do direito de errar para melhor aprender — o mais acertado caminho de defesa da própria felicidade." (*Libertação*, cap. 16)
+
+Em vez de coagi-la, age sobre o esposo desencarnado-momentâneo (durante o sono físico) e o orienta a despertar Isaura no leito. A doutrinação real vem dele, no pranto da esposa, e do tempo. Princípio explicitado por Sidônio: *"Educação não vem por imposição. Cada Espírito deverá a si mesmo a ascensão sublime ou a queda deplorável."*
+
+**Três lições para o trabalhador mediúnico**:
+
+1. **Obsessores adocicados são mais perigosos que obsessores furiosos.** A "fascinação" da LM cap. XXIII, item 239 — "tem a arte de inspirar confiança cega" — opera por elogio, não por agressão. Caso Isaura é o protótipo narrativo.
+2. **O ciúme é porta de entrada do médium.** Como o remorso em Zulmira, o exclusivismo afetivo desloca o padrão vibratório para baixo e abre o canal a obsessores que disputam o mesmo modo.
+3. **O socorro espiritual não pode coagir.** Mesmo o bem só se realiza no consentimento. Coerente com LE q. 843 (livre-arbítrio como pilar da justiça divina) — e radicalmente afastado da lógica de exorcismo coercitivo.
+
+Ver [[wiki/obras/libertacao]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — a obsessão é o principal perigo da prática mediúnica
@@ -174,9 +206,11 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - [[wiki/conceitos/depressao]] — transtorno frequentemente agravado pela obsessão
 - [[wiki/conceitos/vampirismo-espiritual]] — modalidade obsessiva por espoliação fluídica (André Luiz)
 - [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
+- [[wiki/conceitos/ovoides]] — Espíritos que perderam o perispírito; veículo passivo do vampirismo psíquico tecnicamente organizado
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
 - [[wiki/obras/missionarios-da-luz]] — tipologia operativa (cap. 18); possessa vs. obsidiada que reage
 - [[wiki/obras/obreiros-da-vida-eterna]] — caso padre Domênico (cap. 7); leitura mental retrospectiva como técnica desobsessiva
+- [[wiki/obras/libertacao]] — caso Margarida (cap. 9): vampirismo psíquico tecnicamente organizado; caso Isaura (cap. 16): obsessão de médium pelo ciúme; conversão pelo amor ao perseguidor (cap. 12)
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
@@ -194,4 +228,5 @@ A resolução veio com o auxílio de Teobaldo (irmão de Joaquim, também primo 
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. FEB, 1946. Cap. 7. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.

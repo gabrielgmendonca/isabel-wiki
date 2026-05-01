@@ -26,6 +26,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/obras/os-mensageiros]] — 2º livro da série (1944). Centro de Mensageiros sob orientação de Aniceto, mediunidade fracassada (Otávio, Acelino), Posto de Socorro Campo da Paz, culto doméstico como fortaleza, três desencarnações.
 - [[wiki/obras/missionarios-da-luz]] — 3º livro da série (1945). Tratado fenomenológico da mediunidade sob orientação de Alexandre: vampirismo psíquico, oração como antídoto, materialização, reencarnação assistida (caso Segismundo), incorporação, obsessão, passes (regra dos 10 socorros), advertência contra a idolatria do mestre.
 - [[wiki/obras/obreiros-da-vida-eterna]] — 4º livro da série (1946). Expedição socorrista de trinta dias sob a orientação do Assistente Jerônimo, com base na Casa Transitória de Fabiano (Irmã Zenóbia): leitura mental do padre Domênico no abismo, fogo etérico, três desencarnações de tipos opostos (Dimas, Cavalcante por anestesia, Adelaide), Bezerra de Menezes e a "técnica de Lázaro", repreensão de Zenóbia à idolatria dos cooperadores.
+- [[wiki/obras/libertacao]] — 6º livro da série (1949). Expedição a colônia purgatorial dirigida por Gregório, sob orientação de Gúbio; estudo dos [[wiki/conceitos/ovoides]] como "segunda morte" às avessas; socorro a Margarida via reunião familiar mediúnica; redenção de Gregório por Matilde no clímax.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — 8º livro da série (1954). Obsessão por ciúme, desobsessão envolvente, reencarnação de suicida.
 - [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
 
@@ -59,5 +60,6 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
