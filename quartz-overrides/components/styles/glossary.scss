@@ -5,9 +5,9 @@
 
 article abbr[title] {
   text-decoration: underline dotted;
-  text-decoration-color: var(--gray);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.18em;
+  text-decoration-color: var(--darkgray);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.2em;
   cursor: help;
   // Remove o estilo padrão de alguns navegadores (small caps no Firefox antigo).
   font-variant: inherit;
