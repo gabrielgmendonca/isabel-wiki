@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [leis-naturais, influencia-dos-espiritos, milagres, providencia, superstição, obra/le, autor/kardec, grau/introdutorio]
+tags: [leis-naturais, influencia-dos-espiritos, milagres, providencia, superstição, obra/le, autor/kardec, grau/introdutorio, lei/liberdade]
 atualizado_em: 2026-04-19
 status: ativo
 ---

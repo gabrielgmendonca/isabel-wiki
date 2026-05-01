@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, casamento, igualdade, mulher, paulo, efesios, lei-de-igualdade, obra/le, lei/igualdade, obra/ese, autor/kardec, autor/paulo, grau/avancado]
+tags: [divergencia, casamento, igualdade, mulher, paulo, efesios, lei-de-igualdade, obra/le, lei/igualdade, obra/ese, autor/kardec, autor/paulo, grau/avancado, lei/justica-amor-caridade]
 atualizado_em: 2026-04-29
 status: aberta
 ---

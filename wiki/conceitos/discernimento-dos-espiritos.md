@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE, NT]
 tags: [discernimento, identificacao, mediunidade, espiritos, critica, obra/lm, obra/ese, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -12,7 +12,7 @@ status: ativo
 
 Faculdade e prática crítica de avaliar a **natureza, o grau moral e a veracidade** dos Espíritos que se comunicam por mediunidade. Não se reduz a identificar um nome ou biografia passada — consiste em julgar o **fundo moral e racional** da mensagem, confrontando-a com a moral do Cristo e com a razão.
 
-A expressão é neotestamentária: Paulo lista, entre os dons do Espírito, o "**discernimento dos espíritos**" (1 Co 12:10, ACF). João o eleva a dever geral do crente: "**não creiais em todo o espírito, mas provai se os espíritos são de Deus**" (1 Jo 4:1). Kardec retoma ambos e os sistematiza em LM, 2ª parte, cap. XXIV (identificação dos Espíritos) e em ESE, cap. XXI (haverá falsos cristos e falsos profetas).
+A expressão é neotestamentária: Paulo lista, entre os dons do Espírito, o "**discernimento dos espíritos**" (1 Co 12:10, ACF). João o eleva a dever geral do crente: "**não creiais em todo o espírito, mas provai se os espíritos são de Deus**" (1 Jo 4:1). O próprio Cristo, no [[wiki/obras/apocalipse|Apocalipse]], elogia a igreja de Éfeso porque *"puseste à prova os que dizem ser apóstolos, e o não são, e tu os achaste mentirosos"* (Ap 2:2) — exercício comunitário do discernimento aplicado a falsos pregadores; e em Ap 19:10 condensa o critério moral em fórmula compacta: *"o testemunho de Jesus é o espírito de profecia"* — a profecia autêntica é a que confirma e desenvolve a moral do Cristo. Kardec retoma os três loci e os sistematiza em LM, 2ª parte, cap. XXIV (identificação dos Espíritos) e em ESE, cap. XXI (haverá falsos cristos e falsos profetas).
 
 ## Ensino de Kardec
 

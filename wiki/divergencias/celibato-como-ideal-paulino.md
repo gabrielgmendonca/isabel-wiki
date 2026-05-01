@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, NT]
-tags: [divergencia, celibato, casamento, paulo, lei-de-reproducao, obra/le, lei/reproducao, autor/kardec, autor/paulo, grau/avancado]
+tags: [divergencia, celibato, casamento, paulo, lei-de-reproducao, obra/le, lei/reproducao, autor/kardec, autor/paulo, grau/avancado, lei/liberdade]
 atualizado_em: 2026-04-20
 status: aberta
 ---

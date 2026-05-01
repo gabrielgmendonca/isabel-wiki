@@ -84,6 +84,21 @@ Primeiro Evangelho canônico e o mais citado por Kardec no ESE. Preserva os cinc
 
 Ver [[wiki/obras/evangelho-segundo-mateus]].
 
+## Cristo no Apocalipse (visões joaninas)
+
+O Apocalipse traz a galeria mais densa de **imagens cristológicas alegóricas** do NT, todas dirigidas a João em êxtase mediúnico em Patmos (c. 95 d.C.):
+
+- **Filho do Homem** com cabelos brancos, olhos como chama de fogo, voz como muitas águas, espada de dois fios saindo da boca (Ap 1:13–16) — eco direto de Daniel 7:9, 13. Os cabelos brancos = sabedoria atemporal; os olhos = capacidade de ver com plena luz; a espada = palavra moral. **Não divinização ontológica** — alegoria da soberania moral plena de Jesus como Espírito puro (LE q. 625).
+- **Cordeiro como havendo sido morto** (Ap 5:6) com sete pontas e sete olhos = **os sete Espíritos de Deus enviados a toda a terra**. O Cordeiro é digno de abrir o livro selado (5:9 — "*porque foste morto, e com o teu sangue nos compraste para Deus*") porque completou a missão até a cruz; convergência com a kenose de Fp 2:5–11. Conceito próprio: [[wiki/conceitos/sete-espiritos-de-deus]].
+- **Alfa e Ômega, princípio e fim** (Ap 1:8; 21:6; 22:13) — leitura espírita: Jesus participa do "princípio e fim" do projeto criador **enquanto guia e modelo da humanidade terrestre** (LE q. 625; Emmanuel, *A Caminho da Luz*, caps. 1–3, sobre Jesus na gestação planetária), não como ontologicamente igual a Deus (cf. OPE, "Estudo sobre a natureza do Cristo").
+- **Cavaleiro Fiel e Verdadeiro, Rei dos reis e Senhor dos senhores** (Ap 19:11–16) — pico cristológico do livro. Soberania **moral**, não política; o "manto tinto em sangue" = referência alegórica ao sacrifício na cruz, não veste literal. A espada que sai da boca (19:15) retoma 1:16 — **palavra moral**, não arma.
+- **"Eis que estou à porta, e bato"** (Ap 3:20) — descrição da inspiração espiritual respeitosa do livre-arbítrio. Convergência com ESE Introdução (Cristo como guia que aguarda o consentimento da consciência).
+- **"Eu, Jesus, enviei o meu anjo"** (Ap 22:16) — Jesus atua **através de Espíritos intermediários**, não por contato direto com o médium humano. Estrutura mediúnica idêntica à da Codificação kardequiana (signatários do ESE; Espírito de Verdade dirigindo coletivamente a revelação).
+- **"Raiz e geração de Davi, a resplandecente estrela da manhã"** (Ap 22:16) — autoidentificação final: Jesus reivindica continuidade com a tradição messiânica do AT e ao mesmo tempo se apresenta como **luz** que orienta a humanidade na transição (cf. 2 Pe 1:19, "estrela da alva").
+- **"O testemunho de Jesus é o espírito de profecia"** (Ap 19:10) — formulação compacta do critério kardequiano de discernimento: a profecia autêntica é a que confirma e desenvolve a moral do Cristo. Convergência com ESE Prolegômenos (Espírito de Verdade) e com a tese das [[wiki/conceitos/tres-revelacoes|Três Revelações]].
+
+A leitura espírita do conjunto: imagens **alegóricas** da soberania moral plena de Jesus, recebidas em comunicação mediúnica e formuladas no vocabulário apocalíptico judaico do I século — não material para a doutrina trinitária ontológica, fixada séculos depois. Ver [[wiki/obras/apocalipse]].
+
 ## Hino cristológico em Filipenses 2 (kenose)
 
 Em Fp 2:5–11, Paulo insere fragmento hímnico provavelmente pré-paulino que se tornou pedra angular da cristologia trinitária:
@@ -139,6 +154,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
 - [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
 - [[wiki/obras/epistola-aos-filipenses]] — hino cristológico (Fp 2:5–11) com a kenose como modelo de humildade voluntária; "para mim o viver é Cristo, e o morrer é ganho" (Fp 1:21).
+- [[wiki/obras/apocalipse]] — galeria de imagens cristológicas alegóricas: Cordeiro, Filho do Homem, Alfa e Ômega, Cavaleiro Fiel e Verdadeiro, Rei dos reis, "estou à porta, e bato".
 
 ## Páginas relacionadas
 

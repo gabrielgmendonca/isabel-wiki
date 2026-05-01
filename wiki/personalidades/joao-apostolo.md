@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor, autor/joao, grau/intermediario]
-atualizado_em: 2026-04-27
+tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor, autor/joao, grau/intermediario, lei/justica-amor-caridade]
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -40,7 +40,7 @@ João é responsável (segundo a tradição) por **cinco textos do NT**:
 - **[[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]]** (c. 90–100 d.C.). 5 capítulos. Tratado pastoral sobre amor fraterno, discernimento de espíritos e fé verdadeira. Eixos: "Deus é amor" (4:8, 16); "provai os espíritos" (4:1); "ainda não é manifestado o que havemos de ser" (3:2); fé que se prova pela caridade (3:17–18; 4:20–21).
 - **Segunda Epístola de João** (c. 90–100 d.C.). 13 versículos. Carta breve à "senhora eleita" e seus filhos, alertando contra docetistas — "muitos enganadores [...] que não confessam que Jesus Cristo veio em carne; este tal é o enganador e o anticristo" (2 Jo 7). **Não ingerida ainda na wiki.**
 - **Terceira Epístola de João** (c. 90–100 d.C.). 14 versículos. Carta breve a Gaio, sobre hospitalidade aos missionários itinerantes e disputa com Diótrefes. **Não ingerida ainda na wiki.**
-- **Apocalipse** (c. 95 d.C.). 22 capítulos. Livro profético-apocalíptico em sete cartas às igrejas, sete selos, sete trombetas, sete pragas; visões da Jerusalém celeste e da nova criação. **Não ingerido ainda na wiki.** Kardec o utiliza com cautela em Gênese cap. XVII (sobre o Consolador) e cap. XVIII (sobre transformação planetária), interpretando suas imagens como **alegorias** da transição moral da humanidade, não como cronograma cosmológico literal.
+- **[[wiki/obras/apocalipse|Apocalipse]]** (c. 95 d.C.). 22 capítulos. Livro profético-apocalíptico recebido em **êxtase mediúnico** (1:10; 4:1–2 — *"fui arrebatado em Espírito"*) durante o exílio de João em **Patmos** sob a perseguição domiciana. Estruturado em sete blocos paralelos: cartas às sete igrejas (caps. 2–3); visão do trono e dos sete Espíritos (caps. 4–5); selos (cap. 6); trombetas (caps. 8–11); Mulher, Dragão e Bestas (caps. 12–14); taças (caps. 15–16); Babilônia, milênio, segunda morte (caps. 17–20); novo céu, nova terra, nova Jerusalém (caps. 21–22). Kardec o utiliza com cautela em Gênese cap. XVII (sobre o Consolador) e cap. XVIII (sobre transformação planetária), citando explicitamente **Ap 21:1–5** ("novo céu e nova terra; Deus limpará toda lágrima") como passagem-fonte profética da [[wiki/conceitos/transicao-planetaria|transição planetária]]. Para o Espiritismo, o livro inteiro é leitura **alegórica da transição moral** da humanidade — não cronograma cosmológico. Duas divergências estruturais registradas: [[wiki/divergencias/penas-eternas-em-apocalipse]] e [[wiki/divergencias/diabo-ontologico-em-apocalipse]]. Conceitos próprios: [[wiki/conceitos/sete-espiritos-de-deus]] e [[wiki/conceitos/nova-jerusalem]].
 
 ### 4. Espírito de Verdade nos Prolegômenos do ESE
 
@@ -58,7 +58,7 @@ Ver [[wiki/personalidades/espiritos-reveladores]] para tratamento sistemático d
 - [[wiki/obras/primeira-epistola-de-joao]] — homilia pastoral sobre amor, discernimento dos espíritos e filiação divina (c. 90–100 d.C.).
 - *Segunda Epístola de João* — carta antidocetista breve (c. 90–100 d.C.). **Não ingerida na wiki.**
 - *Terceira Epístola de João* — carta sobre hospitalidade missionária (c. 90–100 d.C.). **Não ingerida na wiki.**
-- *Apocalipse* — visões proféticas, sete cartas às igrejas (c. 95 d.C.). **Não ingerido na wiki.** Citado por Kardec com cautela em Gênese cap. XVII.
+- [[wiki/obras/apocalipse]] — visões proféticas em êxtase mediúnico em Patmos (c. 95 d.C.). Sete cartas às igrejas + sete selos + sete trombetas + sete taças; visão dos sete Espíritos diante do trono (1:4; 4:5; 5:6); novo céu e nova terra como profecia da transição planetária (21:1–5, citado por Kardec em Gênese cap. XVIII).
 
 ## Citações relevantes
 
@@ -102,12 +102,17 @@ A passagem do NT mais convergente com o **progresso indefinido** kardequiano (LE
 - [[wiki/personalidades/paulo-de-tarso]] — Paulo encontra João em Jerusalém (Gl 2:9) e o nomeia "coluna" da Igreja.
 - [[wiki/obras/evangelho-segundo-joao]] — Quarto Evangelho.
 - [[wiki/obras/primeira-epistola-de-joao]] — primeira carta universal.
+- [[wiki/obras/apocalipse]] — visões proféticas recebidas em Patmos.
 - [[wiki/obras/atos-dos-apostolos]] — João em dupla com Pedro nos primeiros capítulos.
 - [[wiki/conceitos/discernimento-dos-espiritos]] — 1 Jo 4:1 como base escritural matriz.
 - [[wiki/conceitos/tres-revelacoes]] — Promessa do Consolador em Jo 14–16.
 - [[wiki/conceitos/caridade]] — "Deus é amor" (1 Jo 4) e amor por obra (1 Jo 3:17–18).
 - [[wiki/conceitos/progresso-espiritual]] — "ainda não é manifestado o que havemos de ser" (1 Jo 3:2).
 - [[wiki/divergencias/sangue-expiatorio-em-1-joao]] — leitura espírita das passagens expiacionistas em 1 João.
+- [[wiki/divergencias/penas-eternas-em-apocalipse]] — divergência sobre lago de fogo e segunda morte (Ap 14, 19–21).
+- [[wiki/divergencias/diabo-ontologico-em-apocalipse]] — divergência sobre Satanás nomeado como entidade (Ap 12, 20).
+- [[wiki/conceitos/sete-espiritos-de-deus]] — alegoria joanina dos Espíritos puros que servem ao plano divino (Ap 1:4; 4:5; 5:6).
+- [[wiki/conceitos/nova-jerusalem]] — alegoria da humanidade regenerada na transição planetária (Ap 21).
 
 ## Fontes
 

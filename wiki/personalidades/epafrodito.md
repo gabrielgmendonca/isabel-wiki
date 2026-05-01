@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [epafrodito, filipenses, paulo, cooperador, filipos, abnegacao, doenca, autor/paulo, grau/intermediario]
+tags: [epafrodito, filipenses, paulo, cooperador, filipos, abnegacao, doenca, autor/paulo, grau/intermediario, lei/justica-amor-caridade, lei/liberdade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [LE, ESE]
 tags: [reveladores, espiritos, codificacao, espirito-de-verdade, obra/le, obra/ese, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -53,6 +53,14 @@ O **concurso de médiuns diversos**, em cidades e países distintos, sem entendi
 3. **Sanção histórica.** Kardec registra que "a maioria desses princípios foram proferidos pelos mais eminentes homens dos tempos antigos e modernos, trazendo-lhes, assim, a sua sanção" (LE, Prolegômenos). A doutrina não é novidade absoluta, mas **organização sistemática** de verdades dispersas em todas as tradições sérias.
 
 A consequência prática é central: a codificação não é uma "psicografia" no sentido posterior do termo (uma obra ditada por um único Espírito a um único médium, como as séries Emmanuel ou André Luiz). É **um corpo de respostas convergentes**, organizado por Kardec segundo método inspirado nas ciências naturais.
+
+### Precedente joanino: as sete cartas do Apocalipse
+
+A estrutura coletiva da revelação tem precedente neotestamentário direto no [[wiki/obras/apocalipse|Apocalipse]]. Em Ap 1:11, o Cristo determina a João: *"O que vês, escreve-o num livro, e envia-o às sete igrejas que estão na Ásia: a Éfeso, e a Esmirna, e a Pérgamo, e a Tiatira, e a Sardes, e a Filadélfia, e a Laodicéia."* A revelação se dirige **a múltiplas comunidades simultaneamente**, com diagnósticos diferenciados — não a uma única igreja matriz, e cada carta passa pelo "**anjo da igreja**" (2:1, 8, 12, 18; 3:1, 7, 14), figura que a leitura espírita interpreta como **Espírito protetor coletivo da comunidade** (LE q. 459–471, q. 538–540).
+
+A visão do trono (Ap 4–5) reforça a dimensão coletiva: ao redor do trono divino há *"vinte e quatro anciãos"* (4:4) — Espíritos elevados em assembleia — e os *"sete Espíritos de Deus enviados a toda a terra"* (5:6, ver [[wiki/conceitos/sete-espiritos-de-deus]]) — núcleo coletivo da assistência espiritual à humanidade. **A estrutura é homóloga** à da Codificação: revelação ditada por múltiplos Espíritos elevados (24 anciãos / sete Espíritos / signatários do ESE) sob a direção central do Cristo (Cordeiro do Apocalipse / Espírito de Verdade dos Prolegômenos), recebida por médium humano organizador (João em Patmos / Allan Kardec em Paris) e dirigida a múltiplas comunidades. A diferença vocabular é apenas histórica — a estrutura espiritual é a mesma.
+
+Confirmação operacional: *"o testemunho de Jesus é o espírito de profecia"* (Ap 19:10) — formulação compacta do critério kardequiano de identificação dos Espíritos: a profecia autêntica é a que **confirma e desenvolve a moral do Cristo**. Convergência total com ESE cap. XXI (haverá falsos cristos e falsos profetas) e LM 2ª parte cap. XXIV (identificação dos Espíritos).
 
 ## Citações relevantes
 

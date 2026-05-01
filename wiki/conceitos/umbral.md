@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LE, C&I]
-tags: [umbral, andre-luiz, nosso-lar, sofredores, purgatorial, zonas-inferiores, esfera-vibratoria, obra/le, obra/ci, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [umbral, andre-luiz, nosso-lar, sofredores, purgatorial, zonas-inferiores, esfera-vibratoria, obra/le, obra/ci, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

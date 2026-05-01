@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [NT, ESE]
-tags: [parabola, jesus, marcos, reino-de-deus, progresso, obra/ese, autor/kardec, grau/intermediario]
+tags: [parabola, jesus, marcos, reino-de-deus, progresso, obra/ese, autor/kardec, grau/intermediario, lei/progresso]
 atualizado_em: 2026-04-15
 status: ativo
 ---

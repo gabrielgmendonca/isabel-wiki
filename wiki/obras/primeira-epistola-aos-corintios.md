@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, corintios, caridade, perispirito, mediunidade, dons-espirituais, discernimento, autor/paulo]
+tags: [paulo, corintios, caridade, perispirito, mediunidade, dons-espirituais, discernimento, autor/paulo, lei/adoracao, lei/conservacao, lei/igualdade, lei/justica-amor-caridade, lei/progresso, lei/reproducao, lei/sociedade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-20

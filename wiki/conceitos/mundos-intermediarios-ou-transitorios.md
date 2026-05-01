@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, RE]
-tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/le, obra/re, grau/intermediario, tema/vida-futura, tema/espiritos, autor/kardec]
+tags: [mundos-intermediarios, mundos-transitorios, erraticidade, cosmologia, obra/le, obra/re, grau/intermediario, tema/vida-futura, tema/espiritos, autor/kardec, lei/progresso]
 atualizado_em: 2026-04-30
 status: ativo
 ---

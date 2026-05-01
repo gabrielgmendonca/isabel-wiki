@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier]
 tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -50,6 +50,14 @@ O processo se dá por emigração e imigração de Espíritos: os obstinados no 
 
 O progresso não é acidental, mas obedece a leis eternas: "Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por Deus" (Gênese, cap. XVIII, item 2).
 
+### "Novo céu e nova terra" no Apocalipse
+
+Kardec cita explicitamente em Gênese cap. XVIII a profecia do [[wiki/obras/apocalipse|Apocalipse]] joanino como passagem-fonte da transição planetária:
+
+> "E vi um novo céu, e uma nova terra. Porque já o primeiro céu e a primeira terra passaram [...]. E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas. E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas." (Ap 21:1, 4–5)
+
+A "nova Jerusalém" (Ap 21:2; 21:9–22:5) é a alegoria da **humanidade regenerada** — não cidade física descendo do céu nem milênio cosmológico literal. Tratamento conceitual completo em [[wiki/conceitos/nova-jerusalem]]. A imagem das *"folhas da árvore [...] para a saúde das nações"* (22:2) confirma a universalidade da regeneração — convergência total com LE q. 1015–1019.
+
 ## Aplicação prática
 
 A transição planetária fundamenta a esperança espírita no futuro da Terra sem escapismo ou passividade: o advento do mundo regenerado depende do esforço moral de cada Espírito. Quem se reforma interiormente contribui para a transição; quem se obstina no mal será naturalmente afastado pela lei de progresso. A mensagem é de responsabilidade ativa, não de espera passiva.
@@ -88,6 +96,8 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/a-caminho-da-luz]] — caps. 24–25, visão de Emmanuel sobre a transição
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
 - [[wiki/obras/genese]] — cap. XVIII
+- [[wiki/obras/apocalipse]] — caps. 21–22, "novo céu e nova terra" como passagem-fonte
+- [[wiki/conceitos/nova-jerusalem]] — alegoria joanina da humanidade regenerada
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco aplica o conceito ao contexto da saúde psicológica
 
 ## Fontes

@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, C&I]
 tags: [penas, gozos, vida-futura, eternidade, inferno, paraiso, purgatorio, expiacao, obra/le, obra/ci, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -68,6 +68,16 @@ A duração do castigo é subordinada ao aperfeiçoamento do culpado: "Nenhuma c
 
 A 2ª parte inteira oferece dezenas de relatos de Espíritos em todos os graus de felicidade e sofrimento, corroborando pela observação os princípios expostos na 1ª parte. Ver [[wiki/obras/ceu-e-inferno]].
 
+### Vocabulário apocalíptico das penas e gozos
+
+O [[wiki/obras/apocalipse|Apocalipse]] joanino traz três vocabulários paralelos que articulam de modo intenso a temática das penas e gozos futuros, exigindo leitura espírita atenta:
+
+1. **"Lago de fogo e enxofre"** (Ap 19:20; 20:10, 14–15; 21:8) e **"a fumaça do seu tormento sobe para todo o sempre"** (14:11) — vocabulário de **pena perpétua** que serviu de matriz às doutrinas das penas eternas. Refutação sistemática em C&I 1ª parte caps. VI–VII. Ver [[wiki/divergencias/penas-eternas-em-apocalipse]].
+2. **"Segunda morte"** (Ap 2:11; 20:6, 14; 21:8) — alegoria da [[wiki/conceitos/morte-espiritual|morte espiritual]] prolongada (atrofia moral grave, **reversível** pela reforma), não condenação irreversível.
+3. **"Recompensa segundo as obras"** (Ap 14:13 — *"as suas obras os seguem"*; 20:12 — *"foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras"*; 22:12 — *"o meu galardão está comigo, para dar a cada um segundo a sua obra"*) — convergência **direta** com o princípio da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e com o "código penal da vida futura" de C&I 1ª parte cap. VII. Lida em chave kardequiana, **a passagem mais ortodoxa do Apocalipse** quanto ao critério de julgamento.
+
+A leitura espírita extrai do conjunto: sofrimento real e proporcional aos atos, autoinfligido pela persistência no mal, **temporário** e interrompível pela reforma — coerente com C&I e com LE q. 1009.
+
 ## Aplicação prática
 
 Este conjunto de ensinos é central para a consolação espírita: a certeza de que os sofrimentos são temporários e proporcionais, de que o arrependimento sincero sempre abre caminho, e de que a felicidade futura depende dos nossos esforços. Tema recorrente em palestras sobre luto, medo da morte e sentido da vida.
@@ -85,6 +95,8 @@ Este conjunto de ensinos é central para a consolação espírita: a certeza de 
 - [[wiki/conceitos/expiacao-e-reparacao]] — tríade do progresso moral (C&I)
 - [[wiki/obras/livro-dos-espiritos]] — Parte 4, cap. II
 - [[wiki/obras/ceu-e-inferno]] — 1ª parte, caps. VI–VII
+- [[wiki/obras/apocalipse]] — vocabulário escatológico do "lago de fogo", "segunda morte" e "recompensa segundo as obras"
+- [[wiki/divergencias/penas-eternas-em-apocalipse]] — leitura espírita das passagens absolutizadas pela tradição
 
 ## Fontes
 

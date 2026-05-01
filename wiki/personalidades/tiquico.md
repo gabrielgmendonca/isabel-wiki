@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [tiquico, paulo, asia, efesios, colossenses, mensageiro, igreja-primitiva, autor/paulo, grau/intermediario]
+tags: [tiquico, paulo, asia, efesios, colossenses, mensageiro, igreja-primitiva, autor/paulo, grau/intermediario, lei/sociedade]
 atualizado_em: 2026-04-29
 status: ativo
 ---

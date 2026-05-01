@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, Léon Denis]
 tags: [tres-revelacoes, moises, cristo, espiritismo, revelacao, obra/ese, autor/kardec, autor/leon-denis, grau/intermediario]
-atualizado_em: 2026-04-29
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -29,6 +29,10 @@ O Espiritismo vem completar, não destruir, o ensino do Cristo: "Não vim destru
 ### Antecipação paulina da nova aliança "do espírito"
 
 Em 2 Coríntios 3, Paulo formula avant la lettre o trânsito que Kardec sistematiza como passagem da segunda para a terceira revelação. A nova aliança escreve-se "não em tábuas de pedra, mas nas tábuas de carne do coração" (3:3); seus ministros são "ministros de um novo testamento, não da letra, mas do espírito; **porque a letra mata e o espírito vivifica**" (3:6). O critério paulino — letra que mata vs. espírito que vivifica — é exatamente o critério hermenêutico que Kardec retoma na Introdução do ESE para legitimar a leitura espírita das escrituras. E a fórmula do progresso "**de glória em glória**" (3:18) descreve em uma frase a progressividade ascendente da revelação que Kardec elabora no cap. I do ESE. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+
+### "O testemunho de Jesus é o espírito de profecia" (Apocalipse 19:10)
+
+A formulação joanina mais compacta da Terceira Revelação está no [[wiki/obras/apocalipse|Apocalipse]] 19:10: *"o testemunho de Jesus é o espírito de profecia"*. A frase liga **profecia** (revelação espiritual continuada) à **adesão à moral de Jesus**: a profecia autêntica é aquela cujo conteúdo confirma e desenvolve a moral do Cristo — não a que se autoriza pelo nome do comunicante ou pelo aparato cerimonial. É o critério **operacional** da Terceira Revelação em forma neotestamentária: a continuação da revelação (Promessa do Consolador, Jo 14:16; 16:13) **passa pelo crivo da moral evangélica** ([[wiki/conceitos/discernimento-dos-espiritos]]). Os "sete Espíritos diante do trono" (Ap 1:4; 4:5; 5:6 — ver [[wiki/conceitos/sete-espiritos-de-deus]]) prefigura a estrutura coletiva da revelação que Kardec articula nos Prolegômenos do ESE: revelação **não individual**, mas comunitária e plural, sob direção central do Cristo.
 
 ### Caráter coletivo da Terceira Revelação
 

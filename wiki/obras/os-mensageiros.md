@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, os-mensageiros, mediunidade, culto-domestico, posto-de-socorro, calunia, desencarnacao, soproterapia, oracao-coletiva, autor/andre-luiz, autor/chico-xavier]
+tags: [andre-luiz, chico-xavier, os-mensageiros, mediunidade, culto-domestico, posto-de-socorro, calunia, desencarnacao, soproterapia, oracao-coletiva, autor/andre-luiz, autor/chico-xavier, lei/trabalho]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/os-mensageiros

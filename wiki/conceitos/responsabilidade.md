@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT, Hammed/Francisco do Espírito Santo Neto]
-tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, paulo, romanos, obra/le, obra/ese, hammed, dores-da-alma, autor/hammed, autor/kardec, autor/paulo, grau/intermediario]
+tags: [responsabilidade, moral, livre-arbitrio, provas, justica-divina, paulo, romanos, obra/le, obra/ese, hammed, dores-da-alma, autor/hammed, autor/kardec, autor/paulo, grau/intermediario, lei/liberdade]
 atualizado_em: 2026-04-26
 status: ativo
 ---

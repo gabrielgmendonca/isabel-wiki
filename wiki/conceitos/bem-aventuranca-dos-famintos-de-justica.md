@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [bem-aventurancas, sermao-da-montanha, justica, fome-e-sede-de-justica, jesus, obra/ese, autor/kardec, grau/intermediario]
+tags: [bem-aventurancas, sermao-da-montanha, justica, fome-e-sede-de-justica, jesus, obra/ese, autor/kardec, grau/intermediario, lei/igualdade, lei/justica-amor-caridade]
 atualizado_em: 2026-04-20
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
-tags: [divergencia, joao, expiacao, propiciacao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, obra/le, obra/ese, obra/ci, autor/joao, autor/kardec, grau/avancado]
+tags: [divergencia, joao, expiacao, propiciacao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, obra/le, obra/ese, obra/ci, autor/joao, autor/kardec, grau/avancado, lei/justica-amor-caridade]
 atualizado_em: 2026-04-27
 status: aberta
 ---

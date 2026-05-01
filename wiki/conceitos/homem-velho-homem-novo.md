@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [homem-velho, homem-novo, reforma-intima, paulo, romanos, efesios, colossenses, vontade, transformacao, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, autor/paulo, grau/intermediario]
+tags: [homem-velho, homem-novo, reforma-intima, paulo, romanos, efesios, colossenses, vontade, transformacao, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, autor/paulo, grau/intermediario, lei/adoracao, lei/liberdade]
 atualizado_em: 2026-04-29
 status: ativo
 ---

@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [Gênese]
 tags: [geracao-nova, transicao, regeneracao, espiritismo, progresso, obra/genese, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-04-30
 status: ativo
 ---
 
@@ -38,6 +38,16 @@ Não será composta exclusivamente de Espíritos eminentes, mas de Espíritos qu
 
 Kardec compara a humanidade a um regimento composto de homens turbulentos. Substituídos gradualmente por bons soldados, o regimento se transforma: "A boa ordem terá sucedido à desordem" (Gênese, cap. XVIII, item 31).
 
+### Imagens joaninas da geração nova
+
+O [[wiki/obras/apocalipse|Apocalipse]] articula em vocabulário figurado a mesma realidade que Kardec descreve em Gênese cap. XVIII como "geração nova". Três imagens são especialmente convergentes:
+
+- **Os "selados" na testa** (Ap 7:2–4) — antes das pragas, o anjo "selado do Deus vivo" marca *"os servos do nosso Deus"* "nas suas testas". O número simbólico (144 mil = 12×12×1000, plenitude do povo de Deus) descreve **alegoricamente o conjunto de Espíritos comprometidos com o bem antes da prova** — perfeitamente compatível com a "predisposição interior" que Kardec atribui à geração nova (Gênese cap. XVIII, item 28: "intelegência e razão geralmente precoces, juntas ao sentimento inato do bem").
+- **A multidão das vestes brancas vinda da grande tribulação** (Ap 7:9, 14) — *"uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas"* que *"vieram da grande tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro"*. Em chave espírita: o conjunto dos Espíritos que atravessaram as provas da transição planetária e se mantiveram fiéis à moral do Cristo — convergência total com a descrição da geração nova.
+- **A "primeira ressurreição"** (Ap 20:5–6) — *"sobre estes não tem poder a segunda morte; mas serão sacerdotes de Deus e de Cristo, e reinarão com ele mil anos"*. Não é evento cosmológico literal: é alegoria do **despertar moral** dos Espíritos que aderiram ao bem antes de tempo, exatamente o que Gênese cap. XVIII chama de "Espíritos predispostos a assimilar todas as ideias progressivas" (item 28).
+
+Confirmação metodológica: a leitura apocalíptica das passagens é **alegórica**, conforme o gênero literário; a leitura kardequiana traduz as imagens em vocabulário operacional da transição planetária (Gênese cap. XVIII; ver [[wiki/conceitos/transicao-planetaria]] e [[wiki/conceitos/nova-jerusalem]]).
+
 ## Aplicação prática
 
 O conceito de geração nova oferece chave de leitura para fenômenos sociais observáveis: crianças e jovens com precocidade moral e intelectual, sensibilidade espiritual inata, aversão instintiva à violência. Para o espírita, reconhecer esses sinais é motivo de esperança fundamentada, não de messianismo.
@@ -55,6 +65,8 @@ Ver [[wiki/conceitos/evangelizacao-infantojuvenil]], [[wiki/obras/viagem-espirit
 - [[wiki/conceitos/progresso-espiritual]] — a lei que impulsiona a renovação
 - [[wiki/conceitos/reencarnacao]] — a lei que permite a substituição gradual
 - [[wiki/obras/genese]] — cap. XVIII, itens 27–35
+- [[wiki/obras/apocalipse]] — imagens joaninas: selados (Ap 7:2–4), multidão das vestes brancas (Ap 7:9, 14), primeira ressurreição (Ap 20:5–6)
+- [[wiki/conceitos/nova-jerusalem]] — humanidade regenerada como horizonte da geração nova
 
 ## Fontes
 
