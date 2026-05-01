@@ -16,7 +16,9 @@ status: ativo
 - **Título original:** *Voyage Spirite en 1862*
 - **Primeira edição francesa:** 1862
 - **Nível:** 2 — Kardec complementar
-- **Texto integral:** [[raw/kardec/complementares/viagem-espirita-em-1862.md]]
+- **Texto integral:** [[raw/kardec/complementares/viagem-espirita-em-1862]]
+- **Anúncio na *Revista Espírita*:** [[wiki/obras/revista-espirita-1862]] (RE nov/1862, "Viagem espírita em 1862")
+- **Casos investigados in loco:** [[wiki/sinteses/possessos-de-morzine]] (Saboia, set–out/1862)
 
 ## Estrutura
 

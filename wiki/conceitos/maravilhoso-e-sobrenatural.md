@@ -35,6 +35,19 @@ Definição da Academia Francesa, citada por Kardec: *"um ato do poder divino, c
 
 A formulação **prepara intacta** o tratamento em [[wiki/obras/genese]] cap. XIII (Os fluidos, item 11) e cap. XV (Os milagres, itens 1–9).
 
+### Apolônio de Tiana — caso-modelo da recusa do milagre como prova de divindade
+
+A figura de [[wiki/personalidades/apolonio-de-tiana|Apolônio de Tiana]] é mobilizada por Kardec em **dois artigos articulados** da [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]]:
+
+**"O Espiritismo é provado por milagres?"** (fev/1862) demolece o argumento taumatúrgico:
+> *"Se a verdade só fosse provada por milagres, poderíamos perguntar por que os padres do Egito, que estavam em erro, reproduziam perante o Faraó os milagres feitos por Moisés? Por que Apolônio de Tiana, que era pagão, curava pelo toque, dava a vista aos cegos, a palavra aos mudos, predizia o futuro e via o que se passava a distância?"* (RE, fev/1862)
+
+**"Apolônio de Tiana"** (out/1862) é estudo biográfico extenso do mago grego do séc. I, contemporâneo do Cristo. Kardec mostra que Apolônio fez prodígios análogos (cura, dupla vista, presciência, escrita direta, manifestação pós-morte) **sem ser de origem divina** — logo, os prodígios não distinguem o Cristo. O critério de divindade é outro: *"a divindade de sua missão, [...] a revolução produzida no mundo inteiro pela doutrina"*, não a taumaturgia.
+
+A "Epidemia demoníaca na Sabóia" (RE abr/1862) e o "Estudo sobre os possessos de Morzine" (RE dez/1862) — articulados no caso da [[wiki/sinteses/possessos-de-morzine|obsessão coletiva de Morzine]] — completam o quadro: a *"epidemia demoníaca"* não é sobrenatural, é manifestação natural da ação dos Espíritos imperfeitos sobre os encarnados.
+
+Material que prepara a posição definitiva em [[wiki/obras/genese]] cap. XV ("Os milagres do Evangelho").
+
 ### Sobre a falsa equivalência crítica → ateísmo
 
 Kardec identifica que a recusa **do princípio** (alma + Espírito + ação invisível) leva ao materialismo, e o materialismo leva ao ateísmo:

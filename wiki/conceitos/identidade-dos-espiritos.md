@@ -53,6 +53,14 @@ O cap. XXXI do LM apresenta comunicações sob nomes de Vicente de Paulo, Napole
 
 Mais fácil de comprovar: "os hábitos, de que eles ainda não tiveram tempo de despojar-se, são que os fazem reconhecíveis" — particularidades espontâneas (linguagem familiar, fatos desconhecidos dos assistentes) são as provas mais seguras (LM, 2ª parte, cap. XXIV, itens 257–258).
 
+### Casos-modelo em RE 1862
+
+A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] traz dois casos editoriais paradigmáticos:
+
+**Caso Carrère** (RE mar/1862) — subchefe de turma da estação ferroviária de Bordeaux, morto em 18/12/1861 no comando de uma manobra. A Sra. Beautey, esposa do chefe da estação, **vê o Espírito de Carrère em vigília** (sem ser médium iniciada) e o descreve com tal exatidão que o marido o reconhece imediatamente. Particularidade decisiva: **a Sra. Beautey jamais o vira em vida**. Caso-modelo do princípio "particularidade desconhecida do médium como prova de identidade".
+
+**Caso [[wiki/personalidades/sr-sanson|Sanson]]** (RE mai–out/1862) — membro da SPEE morto em 21/04/1862, evocado no dia do enterro pelo médium **Leymarie**, que jamais o conhecera em vida. Leymarie descreve seu caráter (*"o tipo do verdadeiro filósofo"*, sua paciência na doença, sua serenidade ante a morte) com exatidão depois confirmada por todos os assistentes que o conheceram. Caso-modelo do critério da **linguagem como prova** — o estilo do Espírito coincide com o do encarnado conhecido por outros.
+
 ## Aplicação prática
 
 O discernimento não é opcional — é dever de todo espírita. São Luís recomenda: "submeter ao controle da razão mais severa todas as comunicações que receberdes" (LM, 2ª parte, cap. XXIV, item 266).

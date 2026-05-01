@@ -32,6 +32,14 @@ Essa escala complementa o ensino do LE sobre a diversidade dos globos, detalhand
 
 Ver [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
+### Comunicação sobre Vênus (RE, ago/1862)
+
+A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] traz, em agosto, o ditado espontâneo "**O planeta Vênus**" (médium Sr. Costel, Espírito Georges), que descreve Vênus como **mundo intermediário entre Mercúrio e Júpiter**:
+
+> *"Os habitantes têm a mesma conformação física que vós. [...] Em Vênus, a sutileza do ar, comparável à das altas montanhas, o torna impróprio aos vossos pulmões. As doenças aí são ignoradas. Seus habitantes só se nutrem de frutas e laticínios. Eles ignoram o bárbaro costume de alimentar-se de cadáveres de animais, ferocidade só existente nos planetas inferiores."* (RE, ago/1862)
+
+Detalhes adicionais: vestimenta uniforme (túnicas brancas), forma política familiar (chefes eleitos por faixa de idade), velhice como apogeu da dignidade, ausência de guerras e ódios, religião como adoração constante despojada de culto idólatra. Kardec o publica *"a título condicional"*, com cláusula metodológica explícita: *"essa comunicação sobre Vênus não tem os caracteres de autenticidade absoluta"* — exemplo do princípio kardequiano de **prudência crítica** com revelações sobre mundos superiores.
+
 ### Desenvolvimento por Léon Denis
 
 Na síntese doutrinária de *O Grande Enigma* (Parte IV, seção III), Denis retoma a classificação dos mundos em 5 categorias (rudimentares, expiatórios, regeneradores, felizes, celestes/divinos) — fiel ao ESE, cap. III — e acrescenta uma afirmação sobre o **Sol como morada de Espíritos sublimes**: "O Sol é uma estada de espíritos sublimes, que atingiram os mais altos cumes da evolução e, do alto desse astro, como de um trono de luz, fazem irradiar seu pensamento e sua ação sobre os outros mundos por meio das transmissões fluídicas e magnéticas" (Léon Denis, *O Grande Enigma*, seção III, q. 40).

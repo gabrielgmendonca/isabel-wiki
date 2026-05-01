@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [meta]
-tags: [estatisticas, meta, grafo, vocabulario]
+tags: [estatisticas, meta, grafo, vocabulario, lei/justica-amor-caridade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

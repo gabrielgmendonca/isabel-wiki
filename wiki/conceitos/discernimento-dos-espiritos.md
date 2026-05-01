@@ -16,6 +16,15 @@ A expressão é neotestamentária: Paulo lista, entre os dons do Espírito, o "*
 
 ## Ensino de Kardec
 
+### Manifesto programático do controle universal (RE, jan/1862)
+
+Em **janeiro de 1862**, na *Revista Espírita*, Kardec publica dois artigos articulados que fixam o **controle universal** como princípio diretor da codificação:
+
+**"Controle do ensino espírita"** define a tese:
+> *"Em caso de divergência, o melhor critério é a conformidade dos ensinos por diferentes Espíritos e transmitidos por médiuns diferentes e estranhos uns aos outros. Quando o mesmo princípio for proclamado ou condenado pela maioria, é preciso nos rendermos à evidência."* (RE, jan/1862)
+
+**"Questões e problemas propostos aos vários grupos espíritas"** opera o método: Kardec envia cinco questões doutrinárias aos grupos correspondentes — incluindo, deliberadamente, teorias errôneas como a [[wiki/conceitos/incrustacao-planetaria|incrustação planetária]] — para teste prático do critério. Tese implícita: *"se a doutrina ou quaisquer pontos doutrinários que professamos fossem reconhecidos como errados, num julgamento unânime, submeter-nos-íamos sem murmuração"*. Material reaproveitado em [[wiki/obras/genese|Gênese]] cap. I ("Caráter da revelação espírita"). Ver [[wiki/obras/revista-espirita-1862]].
+
 ### Necessidade absoluta
 
 A mediunidade, por si, não garante qualidade da comunicação. Os Espíritos que se comunicam abrangem toda a escala — dos mais elevados aos mais atrasados, zombeteiros, mistificadores, obsessores.

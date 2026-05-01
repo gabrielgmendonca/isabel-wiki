@@ -44,6 +44,13 @@ A necrologia escrita por Kardec em **dezembro de 1861** registra explicitamente 
 
 A necrologia destaca que Jobard *"foi um dos primeiros a abandonar [a teoria da alma coletiva] quando apareceu o *Livro dos Espíritos*"* — caso-modelo do princípio kardequiano de que a abjuração de erros próprios é prova de bom-senso, não de fraqueza. As **conversas pós-morte** com seu Espírito iniciam imediatamente após 27/10/1861 e são publicadas a partir de jan/1862, alimentando o material que entra em [[wiki/obras/ceu-e-inferno|C&I]], 2ª parte, cap. II.
 
+## Continuação em 1862
+
+A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] continua a tratativa do caso:
+
+- **Janeiro de 1862** — comunicações pós-morte detalhadas; texto que entra integralmente em C&I, 2ª parte, cap. II.
+- **Março de 1862** — "Subscrição para um monumento ao Sr. Jobard" — testemunho do reconhecimento institucional na SPEE e na rede correspondente belga.
+
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]

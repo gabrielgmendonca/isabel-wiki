@@ -12,6 +12,14 @@ status: rascunho
 
 **Jean-Baptiste Roustaing** (1805–1879), advogado em Bordeaux. Em 1861 era *"distinto advogado e sobretudo consciencioso"* (Dr. Bouché de Vitray, RE nov/1861), figura proeminente do meio jurídico bordelês e um dos primeiros catalisadores do Espiritismo na cidade. Posteriormente publicou doutrina divergente em relação à codificação kardequiana — material a ser desenvolvido quando os volumes correspondentes da *Revue Spirite* (a partir de 1865) forem ingeridos.
 
+## Membro honorário da SPEE em 1862
+
+Em **outubro de 1862** Roustaing é nomeado **membro honorário da Sociedade Espírita de Paris**, ao lado de Sr. Dombre, J. Jaubert (vice-presidente do Tribunal Civil de Carcassone), Bouché de Vitray e outros. A nomeação consta do artigo "Membros honorários da sociedade de Paris" ([[wiki/obras/revista-espirita-1862|RE out/1862]]) e é registro biográfico **sem qualquer tensão doutrinária ainda**:
+
+> *"Para testemunhar sua simpatia e gratidão às pessoas que prestam serviços relevantes e efetivos à causa do Espiritismo, por seu zelo, seu devotamento e seu desinteresse, e que, se necessário, pessoalmente se expõem ao perigo, a Sociedade Espírita de Paris lhes confere o título de membro honorário."* (RE, out/1862)
+
+Em 1862, portanto, Roustaing está **integralmente alinhado** à codificação. A divergência roustainguista emergirá apenas com a publicação dos *Quatro Evangelhos* em 1866 e os volumes correspondentes da *Revue Spirite* registrarão o conflito.
+
 ## Papel — primeira aparição em 1861
 
 A primeira menção a Roustaing nas obras de Kardec está no fascículo de **novembro de 1861** da *Revista Espírita*, no longo discurso lido pelo **Dr. Bouché de Vitray** durante a Reunião Geral dos Espíritas Bordeleses (14 de outubro de 1861, inauguração da Sociedade Espírita de Bordeaux). Bouché de Vitray narra como Roustaing o introduziu ao Espiritismo:

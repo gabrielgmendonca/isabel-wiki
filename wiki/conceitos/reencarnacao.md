@@ -46,6 +46,24 @@ Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
 Kardec reconhece que a ideia não é nova — vem de Pitágoras e, antes, dos druidas. Mas ressalta que, por ser uma **Lei da Natureza**, o princípio há de existir desde a origem dos tempos (LE, q. 222).
 
+### Antecedentes documentados em RE 1862
+
+A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] traz dois artigos articulados que documentam o reconhecimento dos antecedentes:
+
+**"Pandus e Kurus"** (RE ago/1862) — extrato do *Mahabharata* enviado de Nantes, com o diálogo de Krishna e Arjuna sobre a imortalidade da alma e a reencarnação:
+> *"Metida em nossos corpos, a alma atravessa a juventude, a idade madura, a decrepitude, e passando a novos corpos, ela recomeça o seu curso. [...] A alma é uma coisa que o gládio não penetra, o fogo não consome, as águas não deterioram e o vento sul não resseca."* (RE, ago/1862)
+
+**"Charles Fourier, Louis Jourdain e a reencarnação"** (RE dez/1862) — texto programático sobre a metodologia espírita. Frente à acusação de plágio, Kardec reconhece **antecedentes explícitos**:
+- **Charles Fourier** (*Théorie de l'unité universelle*) — afirmou a reencarnação como pedra angular de sua teoria.
+- **Louis Jourdan** — *Préres de Ludovic* (1849), publicado *"antes que se cogitasse do Espiritismo"*; livro inteiramente assentado na reencarnação.
+- **Jean Reynaud** — *Céu e Terra* (1854).
+- **Druidas** e **brâmanes** (confirmado pelo extrato do Mahabharata).
+
+A passagem programática:
+> *"Quando ele [o princípio da reencarnação] nos foi revelado, ficamos surpresos, e o acolhemos com hesitação e desconfiança. Nós até mesmo o combatemos, durante algum tempo, até que a evidência nos foi demonstrada. Assim, nós ACEITAMOS esse dogma e não o INVENTAMOS, o que é muito diferente."* (RE, dez/1862)
+
+Demarcação metodológica decisiva: o Espiritismo é **descobridor**, não inventor da reencarnação.
+
 ## Desenvolvimento por Léon Denis
 
 Denis dedica toda a segunda parte de *O Problema do Ser e do Destino* (caps. 13–19) à defesa e ao aprofundamento da reencarnação: expõe suas leis, compila provas experimentais (regressão de memória sob hipnose — experiências de Rochas, Colavida, Marata), provas por crianças-prodígio, provas históricas (druidismo céltico, tradições orientais) e responde objeções. Apresenta a reencarnação como "condição necessária à educação e aos progressos" da alma (Léon Denis, *O Problema do Ser*, cap. 13).

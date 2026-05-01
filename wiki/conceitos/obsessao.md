@@ -65,6 +65,16 @@ O conhecimento da obsessão fundamenta o trabalho de **desobsessão** nos centro
 
 ## Casos ilustrativos
 
+### Os possessos de Morzine — caso paradigmático de obsessão coletiva (RE, abr e dez/1862)
+
+A epidemia de Morzine (Alta Saboia, 1857–1864), classificada pelos médicos do governo francês como *"epidemia demoníaca"* ou *"demonomania"*, foi visitada in loco por Kardec na viagem doutrinária de set–out/1862 e tratada em artigo programático na *Revista Espírita* de dezembro de 1862 — **"Estudo sobre os possessos de Morzine — Causas da obsessão e meios de combate"**. O artigo articula em sua plenitude a teoria fluídica da obsessão coletiva e fixa **três decisões doutrinárias**:
+
+1. **Obsessão preexiste ao Espiritismo.** *"Credes que os maus Espíritos que pululam entre os seres humanos esperaram ser chamados a fim de exercerem sua influência perniciosa? [...] A ação dos Espíritos, bons ou maus, é, pois, espontânea."* O Espiritismo não atrai os maus Espíritos — descobre-os.
+2. **Categoria da loucura obsessiva.** *"Ao lado de todas as variedades de loucura patológica, convém, pois, acrescentar a loucura obsessiva, que requer meios especiais."* Tese decisiva contra a redução psiquiátrica materialista.
+3. **Recusa explícita de fórmulas, talismãs e exorcismos.** *"Não há palavras sacramentais, nem fórmulas, nem talismãs, nem sinais materiais quaisquer."* O remédio é tríplice: vontade do obsidiado + prece (incluindo prece pelo próprio obsessor) + magnetização espírita. Recusa que será reaproveitada na crítica ao exorcismo eclesiástico (RE jan/1863, continuação anunciada).
+
+Material decisivo: o artigo de dez/1862 funciona como **aprofundamento *de facto*** de LM cap. XXIII, anterior em apenas 22 meses. Ver [[wiki/sinteses/possessos-de-morzine]] para tratamento completo.
+
 ### Marcos: quatro narrativas-base
 
 O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsessão, cobrindo três das categorias kardequianas:

@@ -27,7 +27,7 @@ Do método que empregou resultou o **Pentateuco**:
 4. *O Céu e o Inferno* (1865) — a justiça divina à luz do Espiritismo.
 5. *A Gênese* (1868) — milagres e predições.
 
-Também fundou a **Revista Espírita** (jan/1858 — ver [[wiki/obras/revista-espirita]] e os volumes [[wiki/obras/revista-espirita-1858]], [[wiki/obras/revista-espirita-1859]], [[wiki/obras/revista-espirita-1860]] e [[wiki/obras/revista-espirita-1861]]) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858, anunciada na *Revista* de mai/1858 — endereço inicial rue Sainte-Anne, 59; mudada em jan/1859 para a rue Montpensier, 12, no Palais-Royal; em jul/1860 retorna à **rue Sainte-Anne, 59**, mesmo endereço da residência de Kardec). A *Revista* funcionou como tribuna doutrinária e laboratório das obras sistematizadas, e a Sociedade como centro regular de observação e validação coletiva de comunicações mediúnicas, base do que mais tarde será chamado *controle universal do ensino dos Espíritos* (LM, 2ª parte, cap. XXIV).
+Também fundou a **Revista Espírita** (jan/1858 — ver [[wiki/obras/revista-espirita]] e os volumes [[wiki/obras/revista-espirita-1858]], [[wiki/obras/revista-espirita-1859]], [[wiki/obras/revista-espirita-1860]], [[wiki/obras/revista-espirita-1861]] e [[wiki/obras/revista-espirita-1862]]) e a **Sociedade Parisiense de Estudos Espíritas** (1º de abril de 1858, anunciada na *Revista* de mai/1858 — endereço inicial rue Sainte-Anne, 59; mudada em jan/1859 para a rue Montpensier, 12, no Palais-Royal; em jul/1860 retorna à **rue Sainte-Anne, 59**, mesmo endereço da residência de Kardec). A *Revista* funcionou como tribuna doutrinária e laboratório das obras sistematizadas, e a Sociedade como centro regular de observação e validação coletiva de comunicações mediúnicas, base do que mais tarde será chamado *controle universal do ensino dos Espíritos* (LM, 2ª parte, cap. XXIV).
 
 Em jul/1859, no relatório anual da Sociedade, Kardec **anuncia que renuncia à direção operacional** ("a qualquer função na Sociedade, mesmo a de diretor de estudos") em razão de "trabalhos mais consideráveis, que exigem longos e laboriosos estudos e que **não absorverão menos de dez anos**" (RE, jul/1859) — alusão direta ao projeto do Pentateuco, cujos prazos efetivos coincidem (2ª edição definitiva do LE em 1860, LM em 1861, ESE em 1864, C&I em 1865, *A Gênese* em 1868). Continuou como simples membro titular e diretor da *Revista*; a Sociedade permaneceu sendo o ambiente operacional de onde emergiram as comunicações que alimentaram o Pentateuco.
 
@@ -64,6 +64,19 @@ Em paralelo, dois grandes eventos externos marcam o ano:
 - **Morte do [[wiki/personalidades/sr-jobard|Sr. Jobard]] — 27 de outubro de 1861**: presidente honorário da SPEE, abjurou suas próprias teorias errôneas (alma coletiva, incrustação planetária) ao ser-lhe demonstrado o erro; primeiras comunicações pós-morte iniciam em nov/1861, depois compiladas em C&I, 2ª parte, cap. II.
 
 Em **dezembro/1861** Kardec publica o artigo programático **"Organização do Espiritismo"** (25 itens) — manifesto sobre a estruturação supralocal da doutrina (pequenos grupos, SPEE como Sociedade Iniciadora não hierárquica, recusa da palavra *afiliação*, grupos diretores, assembleia geral anual). É **matriz da *Constituição do Espiritismo*** que ele escreverá em 1868 (OPE).
+
+## Maturação institucional e terceira viagem doutrinária (1862)
+
+Em **1º de abril de 1862** abre-se o **5º ano da SPEE**. Kardec pronuncia discurso institucional ([[wiki/obras/revista-espirita-1862|RE jun/1862]]) com balanço dos cinco anos e **prestação de contas detalhada do donativo anônimo de 10.000 francos** recebido em 1860 — quase a totalidade absorvida pelo aluguel da nova sede (rue Sainte-Anne, 59) por seis anos. Estabelece que o que recebe pelas obras é canalizado de volta para a propaganda: *"não visando lucro pessoal de tais publicações, nossa intenção é aplicar os direitos [...] em favor da distribuição gratuita de nossas obras sobre o Espiritismo às pessoas que não as puderem adquirir"* (RE jan/1862).
+
+Em **set–out/1862**, Kardec realiza a **terceira viagem doutrinária** — *"durante uma viagem de mais de seis semanas e um percurso total de 693 léguas, estivemos em vinte cidades e assistimos a mais de cinquenta reuniões"* (RE nov/1862). O relato compõe a separata depois publicada como livro [[wiki/obras/viagem-espirita-em-1862]]. Inclui **visita aos possessos de Morzine** (Alta Saboia) — caso paradigmático de obsessão coletiva analisado em RE dez/1862; ver [[wiki/sinteses/possessos-de-morzine]].
+
+Outros marcos doutrinários de 1862:
+- **"Ensaio de interpretação da doutrina dos anjos decaídos"** (jan/1862) — matriz de Gênese cap. XI sobre a [[wiki/conceitos/raca-adamica]].
+- **"Controle do ensino espírita"** (jan/1862) — manifesto programático do controle universal.
+- **Caso [[wiki/personalidades/sr-sanson|Sanson]]** (mai–out/1862) — modelo de discurso fúnebre espírita; estreia substantiva do médium Leymarie.
+- **Estudo biográfico de [[wiki/personalidades/apolonio-de-tiana|Apolônio de Tiana]]** (out/1862) — recusa do milagre como prova de divindade.
+- **Instituição dos membros honorários da SPEE** (out/1862) — Dombre, Jaubert, Bouché de Vitray, Roustaing entre os primeiros.
 
 ## Primeira iniciação no Espiritismo
 

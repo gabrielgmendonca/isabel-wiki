@@ -27,6 +27,14 @@ Efeitos comuns à morte violenta (LE, q. 957, comentário):
 3. **Ligação à matéria** — dificuldade de se libertar para mundos melhores.
 4. **Pesar da inutilidade** — "a maior parte deles sofre o pesar de haver feito uma coisa inútil, pois que só decepções encontram."
 
+### Material casuístico em RE 1862
+
+O volume da [[wiki/obras/revista-espirita-1862|Revista Espírita de 1862]] traz três artigos articulados sobre suicídio, em julho:
+
+- **"Estatística de suicídios"** — argumento sociológico: o suicídio cresce no séc. XIX em paralelo com o avanço do materialismo, prova de que a recusa da vida futura desespera o homem.
+- **"Hereditariedade moral"** — refutação da tese materialista de hereditariedade do vício; tese alternativa: *"Espíritos semelhantes se atraem"* (comunicações de Erasto e São Luís); a aparência de hereditariedade moral é simpatia entre Espíritos afins, não transmissão biológica.
+- **"Duplo suicídio por amor e dever — Estudo moral"** — caso casuístico de duplo suicídio passional, análise sob a luz da [[wiki/conceitos/lei-de-causa-e-efeito]].
+
 ### Reunir-se aos entes queridos
 
 Quem se mata na esperança de juntar-se a pessoa falecida "muito diferente do que espera é o resultado que colhe. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por mais longo tempo" (LE, q. 956).
