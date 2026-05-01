@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
-fontes: [OPE]
-tags: [flammarion, astronomo, ciencia, discurso, obra/ope, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-07
+fontes: [OPE, RE]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -17,7 +17,17 @@ status: ativo
 
 ## Papel
 
-Flammarion foi um dos mais célebres astrônomos franceses do séc. XIX, autor de *Astronomie populaire* (1880) e defensor da pluralidade dos mundos habitados — tese cara ao Espiritismo. Amigo pessoal de Allan Kardec, pronunciou o célebre **discurso junto ao túmulo de Kardec** em 31 de março de 1869, reproduzido na íntegra em *Obras Póstumas*.
+Flammarion foi um dos mais célebres astrônomos franceses do séc. XIX, autor de *Astronomie populaire* (1880) e defensor da pluralidade dos mundos habitados — tese cara ao Espiritismo. **Calculador do Observatório Imperial de Paris e do Bureau des Longitudes** desde a juventude, tornou-se membro da Sociedade Parisiense de Estudos Espíritas (SPEE) ainda muito jovem e foi **médium das *Estudos Uranográficos* assinadas por Galileu** publicadas em RE set/1862. Amigo pessoal de Allan Kardec, pronunciou o célebre **discurso junto ao túmulo de Kardec** em 31 de março de 1869, reproduzido na íntegra em *Obras Póstumas*.
+
+## Aliança com Kardec (1862–1869)
+
+Em **set/1862** Flammarion publica, via mediunidade, a série *Estudos Uranográficos* assinada por Galileu — comunicações sobre a constituição dos mundos habitados. Em **jan/1863**, Kardec dedica resenha extensa ao livro de estreia de Flammarion, *La pluralité des mondes habités* (Paris: Bachelier, 1862), apresentando-o nesses termos:
+
+> *"O Sr. Flammarion é um dos membros da Sociedade Espírita de Paris, e seu nome figura como médium nas notáveis dissertações assinadas por Galileu, que publicamos em setembro último, sob o título de* Estudos Uranográficos. *Por esse duplo motivo, sentimo-nos felizes ao lhe fazer menção especial, que será ratificada, não temos a menor dúvida."* (RE, jan/1863)
+
+A obra é apresentada como **confirmação científica** — pela astronomia, física, meteorologia, geologia, fisiologia — de "uma das revelações capitais feitas pelos Espíritos": a [[wiki/conceitos/pluralidade-dos-mundos-habitados|pluralidade dos mundos habitados]]. Em **abr/1863**, Kardec republica artigo seu intitulado "Os Espíritos e o Espiritismo" extraído da *Revue Française*. A observação final de Kardec ao resenhar o livro é antecipação espírita da própria precocidade do astrônomo:
+
+> *"A gente se admira que um jovem, na idade em que os outros ainda estão nos bancos escolares, tenha tido tempo de se apropriar delas e, com mais forte razão, aprofundá-las. É para nós uma prova evidente de que seu Espírito não se acha no início, ou que, malgrado seu, ele é assistido por outro Espírito."* (RE, jan/1863)
 
 ## O discurso no túmulo de Kardec
 
@@ -32,13 +42,19 @@ No discurso, Flammarion:
 
 ## Obras associadas
 
-- [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais
+- [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais.
+- [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
+- *La pluralité des mondes habités* (Paris: Bachelier, 1862) — livro de estreia, defesa científica da pluralidade dos mundos.
+- *Estudos Uranográficos* (RE, set/1862) — série psicografada por Flammarion, assinada por Galileu.
 
 ## Páginas relacionadas
 
 - [[wiki/personalidades/allan-kardec]]
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
+- [[wiki/obras/revista-espirita]]
 
 ## Fontes
 
 - KARDEC, Allan. *Obras Póstumas*, "Discurso pronunciado junto ao túmulo de Allan Kardec por Camille Flammarion". Tradução de Guillon Ribeiro. FEB.
+- KARDEC, Allan. *Revista Espírita*, jan/1863, "Bibliografia — A pluralidade dos mundos habitados". Edição: [[raw/kardec/revista-espirita/revista-espirita-1863]].
+- KARDEC, Allan. *Revista Espírita*, abr/1863, "Os Espíritos e o Espiritismo, pelo Sr. Flammarion".

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
-fontes: [RE, CI]
-tags: [jean-reynaud, ceu-e-terra, reencarnacao, pluralidade-mundos, espiritos-felizes, ceu-e-inferno, obra/ci, obra/re, autor/kardec, grau/intermediario]
+fontes: [RE, C&I]
+tags: [jean-reynaud, ceu-e-terra, reencarnacao, pluralidade-mundos, espiritos-felizes, ceu-e-inferno, revista-espirita, precursores, swedenborg, fourier, obra/ci, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-05-01
 status: ativo
 ---
@@ -10,7 +10,28 @@ status: ativo
 
 ## Identificação
 
-**Jean Reynaud** (Lyon, 1806 — Paris, 28/06/1863) — escritor e filósofo espiritualista francês, autor de *Terre et Ciel* (*Céu e Terra*, 1854), obra capital que afirma a **pluralidade das existências** e a **habitabilidade dos mundos** com argumentos filosóficos rigorosos. Pertenceu ao círculo dos sansimonianos na juventude; depois deputado da Assembleia Constituinte de 1848. Sua morte é em 1863, mas sua intervenção pública em favor das ideias afins ao Espiritismo culminou em **agosto de 1862** com a "Carta do Sr. Jean Reynaud ao *Journal des Débats*", publicada em [[wiki/obras/revista-espirita-1862|RE ago/1862]].
+- **Nome:** Jean Reynaud
+- **Nascimento:** fevereiro de 1808, Lyon, França
+- **Desencarnação:** 28 de junho de 1863, Paris, França (após curta moléstia, aos 55 anos)
+- **Profissão:** Filósofo, ex-engenheiro de minas (Politécnica), ex-Subsecretário de Estado da Instrução Pública (1848), ex-conselheiro de Estado; depois deputado da Assembleia Constituinte de 1848.
+
+Filósofo democrata e espiritualista francês, autor da obra capital ***Terre et Ciel*** (*Céu e Terra*, 1854) — que sustentou a **pluralidade das existências** e a **habitabilidade dos mundos** por intuição filosófica rigorosa, sem qualquer apoio em manifestações espíritas. A obra foi **condenada e posta no Index pela cúria de Roma**, o que aumentou ainda o crédito de que já desfrutava. Pertenceu ao círculo dos sansimonianos na juventude — diz Henri Martin no *Siècle* de 16/07/1863: *"egresso da primeira turma da Escola Politécnica, era engenheiro de minas na Córsega no momento da eclosão da revolução de julho. Voltou a Paris, onde o sansimonismo acabava de irromper, e foi envolvido nesse grande e singular movimento"*. Compôs com Pierre Leroux a *Encyclopédie Nouvelle*. Sua intervenção pública em favor das ideias afins ao Espiritismo culminou em **agosto de 1862** com a "Carta do Sr. Jean Reynaud ao *Journal des Débats*", publicada em [[wiki/obras/revista-espirita-1862|RE ago/1862]]. Após a morte, deu comunicações espontâneas na Sociedade Espírita de Paris, numa reunião de família em Paris e em Bordeaux, por intermédio de três médiuns diferentes e desconhecidos entre si.
+
+## Como precursor do Espiritismo
+
+Em **ago/1863**, Kardec dedica artigo extenso à necrologia de Reynaud — "Jean Reynaud e os precursores do Espiritismo" — que classifica o filósofo na **linhagem de germinação providencial da doutrina**:
+
+> *"Como todas as grandes ideias que revolucionaram o mundo, o Espiritismo não nasceu de súbito. Ele germinou em mais de um cérebro e mostrou-se, aqui e ali, pouco a pouco, como que para habituar os homens à ideia."* (RE, ago/1863)
+
+Linhagem traçada por Kardec: **[[wiki/personalidades/swedenborg|Swedenborg]]** (séc. XVIII) → **doutrina dos teósofos** (início do séc. XIX) → **Charles Fourier** (progresso da alma pela reencarnação) → **Jean Reynaud** ("mesmo princípio, sondando o infinito com a ciência às mãos") → **manifestações americanas** (1848) → **filosofia espírita** (1857).
+
+Sobre a antecipação espírita de Reynaud sem fenômenos:
+
+> *"Jean Reynaud nada tinha visto. Tudo tirou de sua profunda intuição. O Espiritismo viu o que o filósofo apenas tinha pressentido, assim, acrescentou a sanção da experiência à teoria puramente especulativa."* (RE, ago/1863)
+
+Comunicação conclusiva de Santo Agostinho:
+
+> *"Mais uma circunstância que vai ser favorável ao Espiritismo. Jean Reynaud tinha feito o que devia fazer nesta última existência. Vão falar de sua morte, de sua vida e, mais do que nunca, de suas obras. Ora, falar de suas obras é pôr o pé no caminho do Espiritismo."* (Santo Agostinho, RE ago/1863)
 
 ## Papel na codificação
 
@@ -38,13 +59,17 @@ Descreveu o despertar como uma admiração imensa diante dos esplendores celeste
 
 ## Obras associadas
 
-- *Terre et Ciel* (1854) — obra principal, sobre pluralidade dos mundos e das existências; antecedente direto da reencarnação espírita.
-- Pluralidade de obras filosóficas e políticas anteriores; participação na *Encyclopédie Nouvelle* com Pierre Leroux.
+- *Terre et Ciel* (1854) — obra principal; defesa intuicionista da pluralidade das existências e dos mundos; antecedente direto da reencarnação espírita; condenada e posta no Index pela cúria de Roma.
+- *Encyclopédie Nouvelle* (com Pierre Leroux, 1836–1843) — obra colaborativa, ficou inacabada.
+- *Essai sur la doctrine du progrès continu* (publicado na *Revue Encyclopédique*, dirigida com Pierre Leroux e Hippolyte Carnot).
+- "Infinité des Cieux" — germe filosófico de *Terre et Ciel*.
 
 ## Páginas relacionadas
 
 - [[wiki/obras/revista-espirita-1862]] — carta ao *Journal des Débats* (ago/1862); citação como precursor em "Charles Fourier..." (dez/1862).
+- [[wiki/obras/revista-espirita-1863]] — necrologia "Jean Reynaud e os precursores do Espiritismo" (ago/1863).
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. II ("Espíritos felizes").
+- [[wiki/personalidades/swedenborg]] — primeiro elo da linhagem dos precursores.
 - [[wiki/conceitos/reencarnacao]] — Jean Reynaud como antecedente filosófico no séc. XIX.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — *Terre et Ciel* como referência.
 - [[wiki/conceitos/progresso-espiritual]] — articulação com a tese central de Reynaud.
@@ -54,6 +79,7 @@ Descreveu o despertar como uma admiração imensa diante dos esplendores celeste
 
 - KARDEC, Allan. "Carta do Sr. Jean Reynaud ao *Journal des Débats*". *Revista Espírita*, agosto de 1862.
 - KARDEC, Allan. "Charles Fourier, Louis Jourdain e a reencarnação". *Revista Espírita*, dezembro de 1862.
+- KARDEC, Allan. "Jean Reynaud e os precursores do Espiritismo". *Revista Espírita*, agosto de 1863.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "Jean Reynaud". FEB.
 - REYNAUD, Jean. *Terre et Ciel*. Paris: Furne, 1854.
-- Edição local integral: [[raw/kardec/revista-espirita/revista-espirita-1862]].
+- Edição local integral: [[raw/kardec/revista-espirita/revista-espirita-1862]], [[raw/kardec/revista-espirita/revista-espirita-1863]].
