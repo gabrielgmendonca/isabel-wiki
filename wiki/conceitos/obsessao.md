@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-26
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -131,6 +131,18 @@ Aplicação prática para grupos de desobsessão: a "leitura mental" do médium 
 
 Ver [[wiki/obras/obreiros-da-vida-eterna]].
 
+### Antídio e os vampiros do álcool (André Luiz, *No Mundo Maior*, 1947, cap. 14)
+
+Caso-modelo da **obsessão dipsomaníaca como simbiose vampírica**. Antídio, pai de família, alterna períodos de melhora e recaída no alcoolismo. Calderaro encontra-o numa casa noturna degradada, prestes a desencarnar. À volta dele, "quatro entidades embrutecidas submetiam-no aos seus desejos. Empolgavam-lhe a organização fisiológica, alternadamente, uma a uma, revezando-se para experimentar a absorção das emanações alcoólicas, no que sentiam singular prazer. Apossavam-se particularmente da 'estrada gástrica', inalando a bebida a volatilizar-se da cárdia ao piloro" (cap. 14).
+
+A cena articula obsessão e [[wiki/conceitos/vampirismo-espiritual|vampirismo]] de forma indissociável: os obsessores são desencarnados dipsomaníacos que **bebem através do encarnado** — não por vingança, por dependência. O obsidiado, por sua vez, "entrando em sintonia magnética com o psiquismo desequilibrado dos vampiros", começa a delirar com as visões espectrais que os perseguidores trazem do Umbral.
+
+Princípio terapêutico inédito: a **medida salvadora pelo agravamento controlado**. Calderaro aplica passes que provocam parada cardíaca momentânea seguida de **nevrose cardíaca persistente** por dois ou três meses, prendendo Antídio ao leito. "A enfermidade retifica sempre" (cap. 14). A doença induzida é socorro: tira o obsidiado do bar, interrompe a simbiose, permite a remoção dos vampiros desencarnados pelo socorro fluídico subsequente. Coerente com ESE cap. V (sofrimentos voluntários e impostos) — a Lei pode usar a tempestade como instrumento de salvação.
+
+No mesmo livro, cap. 16, Calderaro estende a análise a um esquizofrênico autômato no manicômio: vítima de "práticas hipnóticas de implacáveis perseguidores" — em encarnações anteriores abusou do magnetismo pessoal seduzindo mulheres, e agora paga a dívida tornando-se "rematado fantoche nas mãos dos algozes tipicamente perversos". A obsessão hipnótica em Espíritos vingativos é, assim, especialização da subjugação kardequiana descrita em LM, 2ª parte, cap. XXIII, item 240.
+
+Ver [[wiki/obras/no-mundo-maior]].
+
 ### Zulmira e Odila — obsessão por sintonia de culpa (André Luiz, *Entre a Terra e o Céu*, 1954)
 
 Caso-modelo do mecanismo pelo qual **o remorso abre a porta da obsessão**. Zulmira, segunda esposa de Amaro, desejou em ciumadas a morte do enteado Júlio e o negligenciou na praia onde ele se afogou. À frente da Lei, não era culpada — a criança trazia "morte prematura no quadro de provações" como suicida reencarnado. Mas, condenando a si mesma, desceu ao padrão vibratório de Odila (primeira esposa, desencarnada) e passou a ser vampirizada por ela pelo centro coronário, com fios cinzentos "à maneira de tentáculos de polvo".
@@ -210,6 +222,7 @@ Ver [[wiki/obras/libertacao]].
 - [[wiki/obras/livro-dos-mediuns]] — cap. XXIII
 - [[wiki/obras/missionarios-da-luz]] — tipologia operativa (cap. 18); possessa vs. obsidiada que reage
 - [[wiki/obras/obreiros-da-vida-eterna]] — caso padre Domênico (cap. 7); leitura mental retrospectiva como técnica desobsessiva
+- [[wiki/obras/no-mundo-maior]] — caso Antídio (cap. 14: vampirismo dipsomaníaco e nevrose cardíaca induzida); esquizofrênico hipnotizado por antigas vítimas (cap. 16)
 - [[wiki/obras/libertacao]] — caso Margarida (cap. 9): vampirismo psíquico tecnicamente organizado; caso Isaura (cap. 16): obsessão de médium pelo ciúme; conversão pelo amor ao perseguidor (cap. 12)
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
@@ -228,5 +241,6 @@ Ver [[wiki/obras/libertacao]].
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. FEB, 1946. Cap. 7. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14, 16. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.

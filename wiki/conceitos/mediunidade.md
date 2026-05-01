@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM, LE]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, obra/lm, obra/le, autor/kardec, grau/intermediario, lei/sociedade]
-atualizado_em: 2026-04-07
+fontes: [LM, LE, André Luiz/Chico Xavier]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -152,6 +152,28 @@ A obra apresenta também **caso clínico de cada faculdade**: psicografia (caps.
 
 Ver [[wiki/obras/missionarios-da-luz]].
 
+## Mediunidade contra o "Cérbero animista" (André Luiz, *No Mundo Maior*, 1947, cap. 9)
+
+Dois anos depois do manifesto de *Missionários da Luz*, o Assistente Calderaro retoma o tema com ângulo distinto: a **crítica ao uso inquisitorial da hipótese animista**. André Luiz pergunta se os reflexos condicionados de Pavlov (estudados no caso de epilepsia perispiritual de Marcelo, cap. 8) não explicariam as "mistificações inconscientes" que perturbam os círculos espíritas — e Calderaro reconhece a base de verdade da tese animista, mas denuncia seu uso como veto a candidatos:
+
+> "A tese animista é respeitável. Partiu de investigadores conscienciosos e sinceros, e nasceu para coibir os prováveis abusos da imaginação; entretanto, vem sendo usada cruelmente pela maioria dos nossos colaboradores encarnados, que fazem dela um órgão inquisitorial, quando deveriam aproveitá-la como elemento educativo, na ação fraterna. Milhares de companheiros fogem ao trabalho, amedrontados, recuam ante os percalços da iniciação mediúnica, porque o animismo se converteu em Cérbero." (Calderaro, *No Mundo Maior*, cap. 9)
+
+Quatro pontos articulam a doutrina:
+
+1. **A mediunidade tem evolução, campo, rota.** "Nenhuma árvore nasce produzindo, e qualquer faculdade nobre requer burilamento." Exigir comunicações precisas de aprendizes é ignorar lições elementares da natureza — e "exigem meros aparelhos de comunicação, como se a luz espiritual se transmitisse da mesma sorte que a luz elétrica por uma lâmpada vulgar".
+
+2. **Contraste Moisés × Jesus como dois padrões.** "Moisés desempenhou sua tarefa, compelido pelas expressões fenomênicas que o cercavam; recebe, sob incoercível comoção, os sublimes princípios do Decálogo, sentindo defrontar-se com figuras e vozes materializadas do Plano espiritual; entretanto, [...] sua doutrina, venerável embora, baseia-se no exclusivismo e no temor. Com Jesus, o aspecto da mediunidade é diferente. Mantém-se o Mestre em permanente contato com o Pai, através da própria consciência, do próprio coração; transmite aos homens a Revelação Divina, vivendo-a em si mesmo" (cap. 9). A mediunidade desejável é a de **intuição pura** — comunhão consciente com Deus, não fenomenologia externa.
+
+3. **O médium como "ponte" e o aprendizado pela cessão.** "Para ser instrumento relativamente exato, é-lhe imprescindível haver aprendido a ceder, e nem todos os artífices da oficina mediúnica realizam, a breve trecho, tal aquisição, que reclama devoção à felicidade do próximo, elevada compreensão do bem coletivo, avançado espírito de concurso fraterno e de serena superioridade nos atritos com a opinião alheia."
+
+4. **Reflexos condicionados aplicados ao mediunismo.** Os princípios pavlovianos não explicam apenas a psicopatologia; explicam também porque "uma mente humana, cedendo, não a meros reflexos condicionados, mas a emissões de outra mente em sintonia com a dele" pode produzir comunicações genuínas — desde que o intermediário cresça em valor próprio.
+
+O caso prático ilustrativo é o da **médium Eulália** (cap. 9), em formação em pequeno grupo: dos onze presentes, oito captam a emissão mental de um médico desencarnado anônimo, cada qual em livre associação (uma rememora hospital, outro Vicente de Paulo, outra paisagem de enfermaria); três permanecem impermeáveis (duas se contristam por perder cinema, uma se distrai com tarefas domésticas). Demonstra empiricamente que a mistificação inconsciente é fenômeno real *e* que a comunicação genuína de Espíritos pode passar por canais imperfeitos quando há "boa vontade criadora".
+
+A doutrina articula-se a 1 Co 14:32 ("os espíritos dos profetas estão sujeitos aos profetas") e a LM, 2ª parte, cap. XIX: o médium é intérprete, não autômato.
+
+Ver [[wiki/obras/no-mundo-maior]].
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
@@ -182,3 +204,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV–XXII (itens 159–236).
 - Denis, Léon. *O Grande Enigma*, cap. VII; notas complementares 4–6. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].

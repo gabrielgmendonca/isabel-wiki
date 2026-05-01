@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LM]
 tags: [vampirismo, obsessao, simbiose-espiritual, parasitismo-psiquico, andre-luiz, perispirito, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-05-01
 status: rascunho
 ---
 
@@ -86,6 +86,22 @@ A imagem dialoga com tradições populares ("alma penada", "larva astral"), mas 
 
 Nos casos mais graves, vítima e verdugo "se equiparam na mesma gama de sentimentos e pensamentos, caindo, além-túmulo, em dolorosos painéis infernais", até que a Misericórdia Divina promova a reencarnação do que estiver mais apto. A reencarnação reabre o ciclo: a mãe reencarnante "sofre o assédio de forças obscuras que, em muitas ocasiões, se lhe implantam no vaso genésico", e os filhos podem ser hospedeiros intermediários da hostilidade.
 
+## Caso intermediário: Antídio e os vampiros do álcool (No Mundo Maior, 1947, cap. 14)
+
+Em *No Mundo Maior* (1947) — peça que articula 1945 (*Missionários da Luz*) a 1958 (*Evolução em Dois Mundos*) —, André Luiz registra na voz de Calderaro uma forma específica de vampirismo: o **vampirismo dipsomaníaco**. Antídio, pai de família alcoolizado, é cercado por quatro entidades desencarnadas que se revezam absorvendo emanações alcoólicas pela "estrada gástrica":
+
+> "Em derredor, quatro entidades embrutecidas submetiam-no aos seus desejos. Empolgavam-lhe a organização fisiológica, alternadamente, uma a uma, revezando-se para experimentar a absorção das emanações alcoólicas, no que sentiam singular prazer. Apossavam-se particularmente da 'estrada gástrica', inalando a bebida a volatilizar-se da cárdia ao piloro." (cap. 14)
+
+A cena articula três princípios:
+
+1. **Vampirismo de vício, não de vingança.** O motor é a sede insaciável do desencarnado dipsomaníaco — herança vibratória da sua morte. "Os quatro infelizes desencarnados, a seu turno, tinham a mente invadida por visões terrificantes do sepulcro que haviam atravessado como dipsomaníacos. Sedentos, aflitos, traziam consigo imagens espectrais de víboras e morcegos."
+2. **Sintonia bidirecional** — o encarnado começa a delirar com as visões do Umbral pelos próprios obsessores ("Salvem-me dos morcegos!"). A simbiose contamina o psiquismo do hospedeiro.
+3. **A "taça viva".** Calderaro propõe a imagem doutrinária central: "Estaríamos diante de um homem embriagado ou de uma taça viva, cujo conteúdo sorviam gênios satânicos do vício?"
+
+A cena complementar de Calderaro no salão de baile (mesmo cap.) descreve uma forma **coletiva** do vampirismo: dezenas de pares dançam acompanhados invisivelmente por "Espíritos perturbadores que ali se davam ao vampirismo e ao sarcasmo", absorvendo as emanações da leviandade e da sensualidade. Não há um obsidiado individual; há **clima vibratório vampirizado** — modalidade que articula vampirismo a [[wiki/conceitos/colonia-espiritual|aglutinações de afinidade]].
+
+Ver [[wiki/obras/no-mundo-maior]] e [[wiki/conceitos/obsessao]].
+
 ## Caso ilustrativo: Odila e Zulmira
 
 O caso paradigmático narrado em *Entre a Terra e o Céu* (André Luiz, 1954, caps. 3–4, 22–23) — anterior a *Evolução em Dois Mundos*, mas perfeitamente alinhado à teoria — mostra Odila vampirizando Zulmira pelo centro coronário com "fios cinzentos à maneira de tentáculos de polvo", após esta ter aberto a porta interna pelo remorso. Ver [[wiki/conceitos/obsessao]] e [[wiki/personalidades/odila]].
@@ -126,6 +142,7 @@ A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação p
 - [[wiki/conceitos/prece]] — meio de defesa e cura
 - [[wiki/conceitos/depressao]] — quadro frequentemente associado
 - [[wiki/obras/missionarios-da-luz]] — primeira sistematização do conceito (caps. 3–5); caso Cecília como antídoto (cap. 6)
+- [[wiki/obras/no-mundo-maior]] — vampirismo dipsomaníaco (cap. 14: Antídio, vampirismo coletivo no salão de baile)
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional do circuito (parte I, caps. 14–15)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Odila/Zulmira
 - [[wiki/obras/livro-dos-mediuns]] — base kardequiana (cap. XXIII)
@@ -133,6 +150,7 @@ A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação p
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 3–6. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Cap. 14. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 14–15. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (itens 237–254). Trad. Guillon Ribeiro. FEB.

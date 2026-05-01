@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
-tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, andre-luiz, nosso-lar, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-28
+tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, alienacao-mental, andre-luiz, nosso-lar, no-mundo-maior, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -104,6 +104,22 @@ Não há divergência com Kardec: o **suicida inconsciente** de André Luiz é o
 
 Ver [[wiki/obras/nosso-lar]] e [[wiki/conceitos/perispirito]].
 
+### A alienação mental como suicídio dissimulado (André Luiz / Chico Xavier, *No Mundo Maior*, 1947, cap. 16)
+
+Três anos depois de *Nosso Lar*, André Luiz, na voz de Calderaro, estende a categoria do suicídio moral a um quadro que a psiquiatria do século XX classificava exclusivamente como patologia orgânica — a **alienação mental**:
+
+> "Excetuados os casos puramente orgânicos, o louco é alguém que procurou forçar a libertação do aprendizado terrestre, por indisciplina ou ignorância. Temos neste domínio um gênero de suicídio habilmente dissimulado, a autoeliminação da harmonia mental, pela inconformação da alma nos quadros de luta que a existência humana apresenta." (Calderaro, *No Mundo Maior*, cap. 16)
+
+A formulação articula três pontos:
+
+1. **Quase metade da loucura é etiologicamente moral.** "Quase podemos afirmar que noventa em cem dos casos de loucura, excetuados aqueles que se originam da incursão microbiana sobre a matéria cinzenta, começam nas consequências das faltas graves que praticamos, com a impaciência ou com a tristeza, isto é, por intermédio de atitudes mentais que imprimem deploráveis deflexões ao caminho daqueles que as acolhem e alimentam." A "loucura química" (sífilis cerebral, infecções, lesão) é minoria; a maioria é fuga moral da prova retificadora.
+2. **Cumulação inter-existencial.** "Esta por vezes perdura, não só numa existência, mas em várias delas, até que o interessado se disponha, com fidelidade, a valer-se das bênçãos divinas." A alienação herdada do berço é, em geral, sequela de descida mental cultivada em encarnações anteriores — coerente com a casuística de C&I cap. V (suicidas que reencarnam imperfeitos).
+3. **Mapa anatômico — descida na "casa mental".** Cf. [[wiki/conceitos/casa-mental]]: o suicídio dissimulado pela loucura é "rolar do terceiro andar" (superconsciente, lobos frontais) "para o primeiro" (subconsciente, gânglios basais), abandonando o esforço da vida atual. O quadro estende a doutrina de LE q. 952 ("falta de coragem e bestialidade, acrescidas do esquecimento de Deus") ao território da psiquiatria.
+
+Os casos visitados no manicômio terrestre exemplificam: a velha "marquesa" travada em fantasias de existência anterior, o esquizofrênico autômato sob hipnose vingativa de antigas vítimas, os velhinhos atoleimados que regrediram à infância pelo abandono do esforço espiritual. Em todos, "a alienação mental começa a 'descida da alma às zonas inferiores da morte'" (cap. 16) — fórmula que articula loucura, suicídio moral e [[wiki/conceitos/morte-espiritual]].
+
+Não há divergência com Kardec: o cap. 16 estende a casuística empírica de LE q. 952 e ESE cap. V para um quadro que Kardec não tratou clinicamente, mas para o qual a doutrina já estava preparada (LE q. 472 sobre alienação por causa moral). Ver [[wiki/obras/no-mundo-maior]].
+
 ## Aplicação prática
 
 O tema é central em palestras espíritas sobre prevenção e acolhimento. A abordagem doutrinária combina firmeza (é uma falta) com compaixão (as consequências variam, Deus considera as circunstâncias). A certeza da vida futura e a possibilidade de comunicação com os desencarnados são apresentadas como consolação àqueles que sofrem perdas, desestimulando a ideia de "encurtar o caminho."
@@ -119,6 +135,9 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - [[wiki/obras/livro-dos-espiritos]] — Parte 4, cap. I (q. 952 = suicídio moral)
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. V (9 relatos de suicidas) e cap. IV (paralelos materializados)
 - [[wiki/obras/nosso-lar]] — caso paradigmático do suicídio moral / suicida inconsciente (caps. 1–4)
+- [[wiki/obras/no-mundo-maior]] — alienação mental como suicídio dissimulado (cap. 16)
+- [[wiki/conceitos/casa-mental]] — modelo anatômico da descida moral
+- [[wiki/conceitos/morte-espiritual]] — paralelo doutrinário
 
 ## Fontes
 
@@ -126,3 +145,4 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V, itens 14–16 — "Suicídio e loucura". Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas"; cap. IV — "Auguste Michel" e "Arrependimento de um dissoluto". FEB.
 - Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].

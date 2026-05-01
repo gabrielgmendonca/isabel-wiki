@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier]
-tags: [energia-sexual, sexo, libido, sublimacao, magnetismo, centro-genesico, lei/reproducao, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
-atualizado_em: 2026-04-27
+tags: [energia-sexual, sexo, libido, sublimacao, magnetismo, centro-genesico, no-mundo-maior, freud, jung, adler, lei/reproducao, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
+atualizado_em: 2026-05-01
 status: ativo
 ---
 
@@ -66,6 +66,58 @@ A formulação não nega a sexualidade orgânica nos lares "em bases retas" — 
 
 A doutrina articula-se diretamente à [[wiki/conceitos/lei-de-reproducao|Lei de Reprodução]] kardequiana e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
 
+## Em André Luiz, marco intermediário (*No Mundo Maior*, 1947, cap. 11)
+
+Entre a cosmologia de *Missionários da Luz* (1945) e a anatomia de *Evolução em Dois Mundos* (1958), André Luiz registra em *No Mundo Maior* uma **preleção sistemática sobre sexo** ouvida num "centro de estudos" dirigido a colaboradores socorristas. É a peça intermediária do arco temporal — e a única passagem chicoxaveriana que dialoga **explicitamente com Freud, Adler e Jung**.
+
+A tese que abre a preleção articula sexualidade e psiquiatria espírita:
+
+> "No exame das causas da loucura, entre individualidades, sejam encarnadas, sejam ausentes da carne, a ignorância quanto à conduta sexual é dos fatores mais decisivos." (Mensageiro anônimo, *No Mundo Maior*, cap. 11)
+
+O sexo é tratado como **causa primária de loucura** — articulação direta com [[wiki/conceitos/casa-mental]] e [[wiki/conceitos/obsessao]]. Cinco eixos doutrinários acrescentam material à página:
+
+### Diálogo com a psicanálise reencarnacionista
+
+A preleção identifica explicitamente as três escolas e propõe síntese:
+
+- **Freud** — sexo como motor primário de toda neurose (1º andar da casa mental, fixação nos impulsos instintivos).
+- **Adler** — desejo de superioridade e cobiça de poder como motor adicional (2º andar vaidoso).
+- **Jung** — impulso da vida superior, "ser humano repositório das experiências da raça" (3º andar candidato à angelitude).
+
+> "As três escolas se identificam, portadoras todas elas de certa dose de razão, faltando-lhes, todavia, o conhecimento básico do reencarnacionismo. Representam belas e preciosas casas dos princípios científicos, sem, contudo, o telhado da lógica." (cap. 11)
+
+Cada escola descreve corretamente um andar da casa mental sem reconhecer o todo. A reencarnação é a chave que articula as três num único "impulso criador" universal — "todos os seres que conhecemos, do verme ao anjo, são herdeiros da Divindade que nos confere a existência, e todos somos depositários de faculdades criadoras".
+
+### Continuum animal-humano-anjo
+
+> "O vegetal, instigado pelo heliotropismo, surge na paisagem, distribuindo a vida e renovando-a. O pirilampo cintila na sombra, buscando perpetuar-se. O batráquio sente vibrações de amor e de paternidade nos recessos do charco. Aves minúsculas viajam longas distâncias, colhendo material para tecer um ninho. A fera olvida a índole selvagínea, ao lamber, com ternura, um filho recém-nato." (cap. 11)
+
+A formulação reforça a tese de *Missionários da Luz* de que sexo é "qualidade positiva ou passiva" universal, não atributo orgânico — mas com material textual evolucionista mais vívido.
+
+### Antecipação 1947 sobre identidade sexual e biotecnologia
+
+Passagem extraordinariamente atual:
+
+> "A endocrinologia poderá fazer muito com uma injeção de hormônios, à guisa de pronto-socorro às coletividades celulares, mas não sanará lesões do pensamento. A genética, mais hoje, mais amanhã, poderá interferir nas câmaras secretas da vida humana, perturbando a harmonia dos cromossomos, no sentido de impor o sexo ao embrião; todavia, não atingirá a zona mais alta da mente feminina ou masculina, que manterá característicos próprios, independentemente da forma exterior ou das convenções estatuídas." (cap. 11)
+
+A doutrina afirma que a **identidade sexual é função da alma**, não do corpo — coerente com LE q. 200–201 (sexos como "consequência da organização") mas formulada antes de qualquer debate clínico contemporâneo sobre disforia de gênero, hormonioterapia ou edição genética.
+
+### Sexo e Jesus
+
+Antecipação em 23 anos do tratamento que Emmanuel dará em [[wiki/obras/vida-e-sexo|*Vida e Sexo*]] (1970):
+
+> "Jesus não partilhou o matrimônio normal na Terra, e, no entanto, a família de seu coração cresce com os dias; suas forças não geraram formas passageiras nos Círculos carnais, e, contudo, suas energias fecundantes renovaram a civilização, transformando-lhe o curso, prosseguindo, até hoje, no aprimoramento do mundo." (cap. 11)
+
+A passagem dialoga com a "fecundação psíquica" de *Missionários da Luz*: a energia sexual sublimada em obra do Espírito é tão fecunda quanto a procriação biológica, e Jesus é o caso paradigmático.
+
+### Tribunal individual da consciência como sede da cura
+
+> "O cativeiro nos tormentos do sexo não é problema que possa ser solucionado por literatos ou médicos a agir no campo exterior: é questão da alma, que demanda processo individual de cura, e sobre esta só o Espírito resolverá no tribunal da própria consciência." (cap. 11)
+
+Coerente com Emmanuel ("educar, não proibir") e com a posição kardequiana de que a moral é interna (LE q. 919).
+
+A doutrina de 1947 prepara o terreno anatômico de 1958 — a tipologia tripartite mapeada sobre os andares da casa mental encontrará em *Evolução em Dois Mundos* sua tradução em centros vitais (genésico, cardíaco, coronário). Para a sistematização completa, ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]].
+
 ## Em André Luiz (*Evolução em Dois Mundos*, 1958)
 
 André Luiz dá à energia sexual uma **anatomia funcional**: ela é a função própria do **centro genésico**, um dos sete [[wiki/conceitos/centros-vitais|centros vitais]] do psicossoma, que "guia a modelagem de novas formas entre os homens ou o estabelecimento de estímulos criadores, com vistas ao trabalho, à associação e à realização entre as almas" (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 2).
@@ -95,7 +147,9 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — sistematização em Emmanuel
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — sistematização em André Luiz
 - [[wiki/obras/vida-e-sexo]] — fonte primária Emmanuel
-- [[wiki/obras/evolucao-em-dois-mundos]] — fonte primária André Luiz
+- [[wiki/obras/evolucao-em-dois-mundos]] — fonte primária André Luiz (anatomia)
+- [[wiki/obras/no-mundo-maior]] — fonte primária André Luiz (peça intermediária 1947, diálogo com a psicanálise)
+- [[wiki/conceitos/casa-mental]] — modelo dos três andares mapeado sobre Freud/Adler/Jung
 
 ## Fontes
 
@@ -103,4 +157,5 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII, item 11 (Espírito Georges) e cap. XXII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 13 (sexo como qualidade cósmica). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 11 (preleção sobre sexo, diálogo com Freud/Adler/Jung, antecipação sobre identidade sexual e biotecnologia). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
