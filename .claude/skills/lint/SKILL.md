@@ -58,7 +58,9 @@ Para cada categoria com `count > 0`, listar os itens de forma concisa.
 
 ## Passo 3 — Análise LLM (complementar ao script)
 
-Se houver muitos achados em `citation_format`, `fontes_missing`, `missing_concept_pages` ou `divergencias_aberta` (>~5 itens combinados), delegar esta análise a um subagente Explore para preservar o contexto principal. Passar ao subagente o JSON dos achados relevantes e pedir um relatório resumido seguindo as subseções 3a–3d abaixo. Caso contrário, fazer no main mesmo.
+Delegar a um subagente Explore com `model: "haiku"` — input é compacto (JSON dos achados) e output é classificação/sugestão estruturada, perfil ideal para Haiku 4.5 sem perda de qualidade. Preserva o contexto principal e reduz custo. Passar ao subagente o JSON dos achados relevantes e pedir um relatório resumido seguindo as subseções 3a–3d abaixo.
+
+Exceção: se a sessão atual já é Haiku, fazer no main mesmo (sem ganho em delegar). Se houver pouquíssimos achados (≤2 combinados em `citation_format` + `fontes_missing` + `missing_concept_pages` + `divergencias_aberta`), também fazer no main para evitar overhead de spin-up.
 
 ### 3a. Citações suspeitas
 Para cada item em `citation_format`, avaliar:

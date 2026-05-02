@@ -26,12 +26,19 @@ Saída JSON em stdout. Cada candidato traz:
 
 ## Passo 2 — Triar candidatos com o usuário
 
-A heurística é leve por design — sempre haverá ruído (verbos arcaicos isolados, adjetivos comuns, nomes próprios que escaparam). Filtrar mentalmente em três pilhas:
+A heurística é leve por design — sempre haverá ruído (verbos arcaicos isolados, adjetivos comuns, nomes próprios que escaparam). A triagem é classificação estruturada (input compacto = JSON do script + lista de conceitos existentes em `wiki/conceitos/`; output = três pilhas com termo + 1 frase), encaixe ideal para Haiku 4.5.
 
-- **Aceitar**: substantivo concreto com referencial cultural/histórico claro (`escribas`, `denário`, `centurião`, `iníquo`, `cabritos` no contexto do juízo).
-- **Rejeitar — verbos/adjetivos comuns**: `queres`, `mostram`, `morrerem`, `existimos`, `antiga`. Não merecem tooltip.
-- **Rejeitar — doutrinário/meta**: tudo que tem página em `wiki/conceitos/` ou que é jargão espírita. Esses termos pertencem ao corpo principal da wiki, não ao dicionário.
-- **Marginal — pedir opinião do usuário**: termos que dependem de quem é o público das palestras (`romano`, `genealogia`, `prólogo`).
+Delegar a um subagente `general-purpose` com `model: "haiku"`. Passar:
+
+1. O JSON do Passo 1 (os 30 candidatos com `count`, `pages_distinct`, `contexts`).
+2. A lista de slugs em `wiki/conceitos/` (para a pilha "doutrinário/meta" — termos com página doutrinária não entram no dicionário).
+3. As três pilhas a aplicar:
+   - **Aceitar**: substantivo concreto com referencial cultural/histórico claro (`escribas`, `denário`, `centurião`, `iníquo`, `cabritos` no contexto do juízo).
+   - **Rejeitar — verbos/adjetivos comuns**: `queres`, `mostram`, `morrerem`, `existimos`, `antiga`. Não merecem tooltip.
+   - **Rejeitar — doutrinário/meta**: tudo que tem página em `wiki/conceitos/` ou que é jargão espírita. Esses termos pertencem ao corpo principal da wiki, não ao dicionário.
+   - **Marginal — pedir opinião do usuário**: termos que dependem de quem é o público das palestras (`romano`, `genealogia`, `prólogo`).
+
+Pedir ao subagente um relatório curto no formato do bloco abaixo. Exceção: se a sessão atual já for Haiku ou se `--top` for ≤ 5, fazer no main para evitar overhead de spin-up.
 
 Apresentar a triagem ao usuário em formato compacto:
 
