@@ -46,6 +46,11 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
    1. `uv run python .claude/skills/ingest/scripts/find_feb_url.py wiki/obras/<slug>.md` — imprime a URL de busca da FEB Editora a partir do título da obra.
    2. WebFetch nessa URL para listar candidatos. Escolher o slug canônico (mais curto, sem variantes `--ingles-`, `--novo-projeto2`, `-para-criancas`).
    3. `uv run python .claude/skills/ingest/scripts/find_feb_url.py wiki/obras/<slug>.md --set https://www.febeditora.com.br/<produto>` — grava em `direitos.url_aquisicao`.
+
+   Para livros da Livraria Leal (Divaldo Franco / Joanna de Ângelis), usar `find_leal_url.py`. A Leal não tem busca por query string, mas o helper consulta `sitemap_produtos.xml` direto e ranqueia por slug do título — não precisa special-casear "Série Psicológica":
+   1. `uv run python .claude/skills/ingest/scripts/find_leal_url.py wiki/obras/<slug>.md` — imprime URLs candidatas (match exato + parciais).
+   2. Escolher entre as candidatas. Se houver match exato único, usar essa URL; em caso de múltiplos ou apenas parciais, abrir cada uma com WebFetch para confirmar título/edição.
+   3. `uv run python .claude/skills/ingest/scripts/find_leal_url.py wiki/obras/<slug>.md --set https://www.livrarialeal.com.br/<categoria>/<slug>.html` — grava em `direitos.url_aquisicao`.
 2. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
    - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
