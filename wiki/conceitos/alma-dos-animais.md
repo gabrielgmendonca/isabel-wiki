@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, RE, Gênese]
-tags: [alma-dos-animais, principio-inteligente, charlet, reencarnacao, escala-dos-seres, obra/le, obra/re, obra/genese, autor/kardec, grau/intermediario]
+tags: [alma-dos-animais, principio-inteligente, charlet, reencarnacao, escala-dos-seres, obra/le, obra/re, obra/genese, autor/kardec, grau/intermediario, tema/encarnacao]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [ESE, NT]
-tags: [zaqueu, jesus, publicano, arrependimento, reparacao, obra/ese, autor/kardec, grau/intermediario]
+tags: [zaqueu, jesus, publicano, arrependimento, reparacao, obra/ese, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-15
 status: ativo
 ---

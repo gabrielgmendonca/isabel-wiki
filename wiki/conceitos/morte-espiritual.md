@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [OPE]
-tags: [morte, transformacao, progresso, reencarnacao, obra/ope, autor/kardec, grau/intermediario]
+tags: [morte, transformacao, progresso, reencarnacao, obra/ope, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-04-30
 status: ativo
 ---

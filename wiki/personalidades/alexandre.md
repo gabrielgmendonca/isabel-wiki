@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [alexandre, espirito-comunicante, andre-luiz, missionarios-da-luz, mediunidade, ministerio-da-comunicacao, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [alexandre, espirito-comunicante, andre-luiz, missionarios-da-luz, mediunidade, ministerio-da-comunicacao, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

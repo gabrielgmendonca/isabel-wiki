@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, efesios, predestinacao, graca, gentios, reconciliacao, corpo-de-cristo, homem-velho, homem-novo, armadura-de-deus, casamento, escravidao, autor/paulo, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/trabalho]
+tags: [paulo, efesios, predestinacao, graca, gentios, reconciliacao, corpo-de-cristo, homem-velho, homem-novo, armadura-de-deus, casamento, escravidao, autor/paulo, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/trabalho, tema/jesus]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-29

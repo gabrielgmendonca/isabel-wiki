@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [avareza, vicio, desapego, caridade, bens-terrenos, obra/ese, obra/le, lei/conservacao, autor/kardec, grau/intermediario]
+tags: [avareza, vicio, desapego, caridade, bens-terrenos, obra/ese, obra/le, lei/conservacao, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-06
 status: ativo
 ---

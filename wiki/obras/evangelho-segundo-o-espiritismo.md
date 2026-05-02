@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [pentateuco, moral-evangelica, caridade, fe, prece, jesus, obra/ese, lei/justica-amor-caridade, lei/reproducao, autor/kardec]
+tags: [pentateuco, moral-evangelica, caridade, fe, prece, jesus, obra/ese, lei/justica-amor-caridade, lei/reproducao, autor/kardec, tema/moral]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-26

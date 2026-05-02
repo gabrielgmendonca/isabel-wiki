@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE]
-tags: [allan-kardec, introducao, definicao-espiritismo, perispirito, mesas-girantes, caridade, pluralidade-existencias, espiritismo-cristao, obra/le, obra/lm, obra/ese, autor/kardec, lei/justica-amor-caridade]
+tags: [allan-kardec, introducao, definicao-espiritismo, perispirito, mesas-girantes, caridade, pluralidade-existencias, espiritismo-cristao, obra/le, obra/lm, obra/ese, autor/kardec, lei/justica-amor-caridade, tema/historia-doutrina]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-26

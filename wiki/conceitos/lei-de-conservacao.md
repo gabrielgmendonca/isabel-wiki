@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [conservacao, instinto, necessario, privacoes, lei-moral, obra/le, lei/conservacao, autor/kardec, grau/intermediario]
+tags: [conservacao, instinto, necessario, privacoes, lei-moral, obra/le, lei/conservacao, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-30
 status: ativo
 ---

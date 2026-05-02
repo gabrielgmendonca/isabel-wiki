@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [mundos, expiacao, provas, terra, obra/ese, obra/le, autor/kardec, grau/intermediario]
+tags: [mundos, expiacao, provas, terra, obra/ese, obra/le, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-05-01
 status: ativo
 ---

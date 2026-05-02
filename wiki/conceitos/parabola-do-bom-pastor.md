@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, OPE]
-tags: [parabola, jesus, bom-pastor, porta-das-ovelhas, caridade, missao, obra/ese, obra/ope, autor/kardec, grau/intermediario]
+tags: [parabola, jesus, bom-pastor, porta-das-ovelhas, caridade, missao, obra/ese, obra/ope, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-15
 status: ativo
 ---

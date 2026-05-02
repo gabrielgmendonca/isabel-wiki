@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
-tags: [emmanuel, chico-xavier, historia, jesus, capela, transicao-planetaria, civilizacoes, autor/chico-xavier, autor/emmanuel]
+tags: [emmanuel, chico-xavier, historia, jesus, capela, transicao-planetaria, civilizacoes, autor/chico-xavier, autor/emmanuel, tema/historia-doutrina]
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073

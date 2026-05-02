@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, RE]
-tags: [bicorporeidade, perispirito, emancipacao-da-alma, manifestacao-fisica, aparicao, obra/lm, obra/re, autor/kardec, grau/intermediario]
+tags: [bicorporeidade, perispirito, emancipacao-da-alma, manifestacao-fisica, aparicao, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-30
 status: ativo
 ---

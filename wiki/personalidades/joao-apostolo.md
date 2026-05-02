@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor, autor/joao, grau/intermediario, lei/justica-amor-caridade]
+tags: [apostolo, joao, evangelista, corpus-joanino, espirito-de-verdade, discernimento, amor, autor/joao, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
 atualizado_em: 2026-04-30
 status: ativo
 ---

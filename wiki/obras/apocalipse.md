@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [joao, apocalipse, patmos, sete-igrejas, sete-espiritos, cordeiro, dragao, besta, babilonia, nova-jerusalem, transicao-planetaria, penas-eternas, espirito-de-profecia, autor/joao, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/progresso]
+tags: [joao, apocalipse, patmos, sete-igrejas, sete-espiritos, cordeiro, dragao, besta, babilonia, nova-jerusalem, transicao-planetaria, penas-eternas, espirito-de-profecia, autor/joao, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/progresso, tema/vida-futura]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-30

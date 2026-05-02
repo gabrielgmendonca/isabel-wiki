@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, trabalhadores, ultima-hora, misericordia, obra/ese, autor/kardec, grau/intermediario]
+tags: [parabola, jesus, trabalhadores, ultima-hora, misericordia, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-06
 status: ativo
 ---

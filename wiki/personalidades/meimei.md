@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE]
-tags: [espirito-comunicante, psicografia, chico-xavier, obra/le, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [espirito-comunicante, psicografia, chico-xavier, obra/le, autor/chico-xavier, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

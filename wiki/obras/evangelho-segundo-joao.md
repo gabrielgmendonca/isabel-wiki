@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [evangelho, joao, jesus, apostolo, fonte-primordial, autor/joao, lei/adoracao]
+tags: [evangelho, joao, jesus, apostolo, fonte-primordial, autor/joao, lei/adoracao, tema/jesus]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-15

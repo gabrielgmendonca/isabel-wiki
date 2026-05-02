@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, corintios, consolacao, perispirito, mediunidade, discernimento, hermeneutica, espinho-na-carne, nova-alianca, autor/paulo, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso]
+tags: [paulo, corintios, consolacao, perispirito, mediunidade, discernimento, hermeneutica, espinho-na-carne, nova-alianca, autor/paulo, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, tema/jesus]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-28

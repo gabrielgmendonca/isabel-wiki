@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, Gênese, Léon Denis]
-tags: [morte, desencarnacao, separacao-alma-corpo, perispirito, vida-espirita, perturbacao, obra/le, obra/ci, obra/genese, autor/kardec, autor/leon-denis, grau/intermediario]
+tags: [morte, desencarnacao, separacao-alma-corpo, perispirito, vida-espirita, perturbacao, obra/le, obra/ci, obra/genese, autor/kardec, autor/leon-denis, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-04-07
 status: ativo
 ---

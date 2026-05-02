@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [confianca, deus, fe, providencia, prece, obra/ese, obra/le, autor/kardec, grau/intermediario]
+tags: [confianca, deus, fe, providencia, prece, obra/ese, obra/le, autor/kardec, grau/intermediario, tema/deus]
 atualizado_em: 2026-04-06
 status: ativo
 ---

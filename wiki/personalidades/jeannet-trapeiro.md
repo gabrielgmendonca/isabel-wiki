@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [jeannet, trapeiro, manifestacao-fisica-espontanea, rue-des-noyers, paris, obra/re, autor/kardec, grau/intermediario]
+tags: [jeannet, trapeiro, manifestacao-fisica-espontanea, rue-des-noyers, paris, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

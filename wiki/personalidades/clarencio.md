@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [clarencio, espirito-comunicante, andre-luiz, ministro, nosso-lar, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [clarencio, espirito-comunicante, andre-luiz, ministro, nosso-lar, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

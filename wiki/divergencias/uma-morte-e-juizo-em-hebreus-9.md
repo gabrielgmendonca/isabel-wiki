@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
-tags: [divergencia, hebreus, reencarnacao, pluralidade-existencias, juizo, sumo-sacerdote, paulo, obra/le, obra/ese, obra/ci, autor/kardec, autor/paulo, grau/avancado]
+tags: [divergencia, hebreus, reencarnacao, pluralidade-existencias, juizo, sumo-sacerdote, paulo, obra/le, obra/ese, obra/ci, autor/kardec, autor/paulo, grau/avancado, tema/vida-futura]
 atualizado_em: 2026-04-21
 status: aberta
 ---

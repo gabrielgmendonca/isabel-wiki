@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, grao-de-trigo, desapego, expiacao, progresso, obra/ese, autor/kardec, grau/intermediario, lei/destruicao, lei/progresso]
+tags: [parabola, jesus, grao-de-trigo, desapego, expiacao, progresso, obra/ese, autor/kardec, grau/intermediario, lei/destruicao, lei/progresso, tema/jesus]
 atualizado_em: 2026-04-15
 status: ativo
 ---

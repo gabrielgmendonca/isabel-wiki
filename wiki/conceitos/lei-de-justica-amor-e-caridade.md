@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, NT]
-tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, efesios, tiago, lei-real, lei-da-liberdade, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, autor/paulo, autor/tiago, grau/intermediario]
+tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, efesios, tiago, lei-real, lei-da-liberdade, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-29
 status: ativo
 ---

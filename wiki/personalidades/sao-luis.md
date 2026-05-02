@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE, LM, RE]
-tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm, obra/re, autor/kardec, grau/intermediario]
+tags: [sao-luis, revelador, espirito-superior, obra/le, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

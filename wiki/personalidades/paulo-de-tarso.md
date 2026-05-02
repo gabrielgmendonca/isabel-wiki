@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, ESE]
-tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, filipenses, hebreus, mediunidade, tiago, fe-e-obras, kenose, contentamento, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, lei/igualdade, lei/justica-amor-caridade, lei/liberdade]
+tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, filipenses, hebreus, mediunidade, tiago, fe-e-obras, kenose, contentamento, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, tema/jesus]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [C&I, RE]
-tags: [ceu-e-inferno, espiritos-felizes, jobard, incrustacao-planetaria, obra/ci, obra/re, autor/kardec, grau/intermediario]
+tags: [ceu-e-inferno, espiritos-felizes, jobard, incrustacao-planetaria, obra/ci, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-30
 status: ativo
 ---

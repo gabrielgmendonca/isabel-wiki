@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [ESE, "C&I", NT]
-tags: [divergencia, fe, incredulidade, penas-futuras, marcos, obra/ese, obra/ci, autor/kardec, grau/avancado]
+tags: [divergencia, fe, incredulidade, penas-futuras, marcos, obra/ese, obra/ci, autor/kardec, grau/avancado, tema/jesus]
 atualizado_em: 2026-04-15
 status: aberta
 ---

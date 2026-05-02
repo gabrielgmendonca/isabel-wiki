@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, ESE, Gênese]
-tags: [fluidos, fluido-espiritual, fluido-vital, fluido-magnetico, perispirito, pensamento, obra/le, obra/lm, obra/ese, obra/genese, autor/kardec, grau/intermediario]
+tags: [fluidos, fluido-espiritual, fluido-vital, fluido-magnetico, perispirito, pensamento, obra/le, obra/lm, obra/ese, obra/genese, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-06
 status: ativo
 ---

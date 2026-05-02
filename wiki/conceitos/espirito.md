@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM]
-tags: [espirito, natureza-espiritual, ontologia, obra/le, obra/lm, autor/kardec, grau/intermediario]
+tags: [espirito, natureza-espiritual, ontologia, obra/le, obra/lm, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-05
 status: ativo
 ---

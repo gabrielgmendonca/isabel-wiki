@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [medium, ermance-dufaux, psicografia, biografia-mediunica, obra/re, autor/kardec, grau/intermediario]
+tags: [medium, ermance-dufaux, psicografia, biografia-mediunica, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

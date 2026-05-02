@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LM, RE]
-tags: [espirito-comunicante, psicografia, divaldo-franco, escritor, exilado, obra/lm, obra/re, autor/divaldo-franco, autor/kardec, grau/intermediario]
+tags: [espirito-comunicante, psicografia, divaldo-franco, escritor, exilado, obra/lm, obra/re, autor/divaldo-franco, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

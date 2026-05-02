@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [C&I]
-tags: [ceu-e-inferno, espiritos-condicao-media, honestidade, expiacao, obra/ci, autor/kardec, grau/intermediario, lei/trabalho]
+tags: [ceu-e-inferno, espiritos-condicao-media, honestidade, expiacao, obra/ci, autor/kardec, grau/intermediario, lei/trabalho, tema/moral]
 atualizado_em: 2026-04-26
 status: ativo
 ---

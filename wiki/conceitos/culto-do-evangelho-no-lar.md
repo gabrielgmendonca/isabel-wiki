@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, André Luiz/Chico Xavier]
-tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/prece-caridade]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

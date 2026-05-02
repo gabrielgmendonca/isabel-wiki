@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [RE]
-tags: [ageneres, perispirito, manifestacoes-espiritas, aparicoes, obra/re, autor/kardec, grau/intermediario]
+tags: [ageneres, perispirito, manifestacoes-espiritas, aparicoes, obra/re, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-29
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, corpo-espiritual, perispirito, centros-vitais, fluido-cosmico, evolucao, mediunidade, obsessao, vampirismo, sexualidade, autor/andre-luiz, autor/chico-xavier]
+tags: [andre-luiz, chico-xavier, corpo-espiritual, perispirito, centros-vitais, fluido-cosmico, evolucao, mediunidade, obsessao, vampirismo, sexualidade, autor/andre-luiz, autor/chico-xavier, tema/mediunidade]
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073

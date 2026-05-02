@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE, NT]
-tags: [discernimento, identificacao, mediunidade, espiritos, critica, obra/lm, obra/ese, autor/kardec, grau/intermediario]
+tags: [discernimento, identificacao, mediunidade, espiritos, critica, obra/lm, obra/ese, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

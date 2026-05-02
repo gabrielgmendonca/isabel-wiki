@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [maria-dagreda, freira, bicorporeidade, novo-mexico, mistica, obra/re, autor/kardec, grau/intermediario]
+tags: [maria-dagreda, freira, bicorporeidade, novo-mexico, mistica, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-30
 status: ativo
 ---

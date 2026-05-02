@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, NT]
-tags: [igualdade, riqueza, miseria, homem-e-mulher, escravidao, lei-moral, obra/le, lei/igualdade, autor/kardec, grau/intermediario]
+tags: [igualdade, riqueza, miseria, homem-e-mulher, escravidao, lei-moral, obra/le, lei/igualdade, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-30
 status: ativo
 ---

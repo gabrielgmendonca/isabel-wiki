@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [mundos, regeneracao, transicao, obra/ese, autor/kardec, grau/intermediario]
+tags: [mundos, regeneracao, transicao, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-04-06
 status: ativo
 ---

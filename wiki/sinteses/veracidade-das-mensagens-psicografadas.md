@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [LM, LE]
-tags: [psicografia, identidade, comunicacoes, obsessao, escala-espirita, mediunidade, obra/lm, obra/le, autor/kardec, grau/avancado]
+tags: [psicografia, identidade, comunicacoes, obsessao, escala-espirita, mediunidade, obra/lm, obra/le, autor/kardec, grau/avancado, tema/mediunidade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

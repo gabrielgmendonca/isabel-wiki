@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade]
+tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/moral]
 atualizado_em: 2026-04-28
 status: ativo
 ---

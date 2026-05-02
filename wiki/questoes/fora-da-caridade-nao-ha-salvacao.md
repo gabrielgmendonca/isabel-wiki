@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [ESE, LE]
-tags: [caridade, salvacao, humildade, egoismo, maximas, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/introdutorio]
+tags: [caridade, salvacao, humildade, egoismo, maximas, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/introdutorio, tema/moral]
 atualizado_em: 2026-04-19
 status: ativo
 ---

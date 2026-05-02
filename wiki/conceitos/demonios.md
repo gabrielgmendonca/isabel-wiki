@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos, obra/ci, autor/kardec, grau/intermediario]
+tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos, obra/ci, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [liberdade, livre-arbitrio, escravidao, consciencia, fatalidade, lei-moral, obra/le, lei/liberdade, autor/kardec, grau/intermediario]
+tags: [liberdade, livre-arbitrio, escravidao, consciencia, fatalidade, lei-moral, obra/le, lei/liberdade, autor/kardec, grau/intermediario, tema/livre-arbitrio]
 atualizado_em: 2026-04-30
 status: ativo
 ---

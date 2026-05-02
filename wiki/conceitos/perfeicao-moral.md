@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [perfeicao-moral, virtudes, vicios, paixoes, egoismo, auto-conhecimento, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
+tags: [perfeicao-moral, virtudes, vicios, paixoes, egoismo, auto-conhecimento, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-06
 status: ativo
 ---

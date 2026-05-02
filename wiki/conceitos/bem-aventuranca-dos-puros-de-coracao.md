@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [bem-aventurancas, sermao-da-montanha, pureza, coracao, jesus, obra/ese, autor/kardec, grau/intermediario]
+tags: [bem-aventurancas, sermao-da-montanha, pureza, coracao, jesus, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-20
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [ESE]
-tags: [palestrante, evangelho, eelde, bezerra-de-menezes, expositor-contemporaneo, obra/ese, autor/bezerra-de-menezes, autor/kardec, grau/intermediario]
+tags: [palestrante, evangelho, eelde, bezerra-de-menezes, expositor-contemporaneo, obra/ese, autor/bezerra-de-menezes, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-26
 status: ativo
 ---

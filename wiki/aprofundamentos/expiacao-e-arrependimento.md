@@ -24,6 +24,7 @@ tags:
   - lei/justica-amor-caridade
   - grau/avancado
   - autor/kardec
+  - tema/sofrimento
 atualizado_em: 2026-04-26
 status: ativo
 ---

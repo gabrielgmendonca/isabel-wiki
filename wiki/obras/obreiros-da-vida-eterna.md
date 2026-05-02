@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, obreiros-da-vida-eterna, socorro, desencarnacao, umbral, casa-transitoria, leitura-mental, suicidio, bezerra-de-menezes, idolatria-do-mestre, autor/andre-luiz, autor/bezerra-de-menezes, autor/chico-xavier]
+tags: [andre-luiz, chico-xavier, obreiros-da-vida-eterna, socorro, desencarnacao, umbral, casa-transitoria, leitura-mental, suicidio, bezerra-de-menezes, idolatria-do-mestre, autor/andre-luiz, autor/bezerra-de-menezes, autor/chico-xavier, tema/vida-futura]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/obreiros-da-vida-eterna

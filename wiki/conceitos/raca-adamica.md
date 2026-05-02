@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Emmanuel/Chico Xavier]
-tags: [raca-adamica, adao, imigracao, mundos, progresso, obra/le, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
+tags: [raca-adamica, adao, imigracao, mundos, progresso, obra/le, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-06
 status: ativo
 ---

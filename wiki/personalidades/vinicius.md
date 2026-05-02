@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [ESE]
-tags: [espirito, pedagogo, evangelho, obra/ese, autor/kardec, grau/intermediario]
+tags: [espirito, pedagogo, evangelho, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-07
 status: ativo
 ---

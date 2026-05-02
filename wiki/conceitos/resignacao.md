@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [resignacao, virtude, moral, sofrimento, provas, fe, obra/ese, obra/le, autor/kardec, grau/intermediario]
+tags: [resignacao, virtude, moral, sofrimento, provas, fe, obra/ese, obra/le, autor/kardec, grau/intermediario, tema/sofrimento]
 atualizado_em: 2026-04-06
 status: ativo
 ---

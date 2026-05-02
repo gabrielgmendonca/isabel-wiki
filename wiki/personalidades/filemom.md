@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [colossenses, filemom, paulo, anfitriao, escravidao, autor/paulo, grau/intermediario]
+tags: [colossenses, filemom, paulo, anfitriao, escravidao, autor/paulo, grau/intermediario, tema/jesus]
 atualizado_em: 2026-05-01
 status: rascunho
 ---

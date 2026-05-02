@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, RE]
-tags: [pneumatografia, escrita-direta, mediunidade, manifestacoes-espiritas, obra/lm, obra/re, autor/kardec, grau/intermediario]
+tags: [pneumatografia, escrita-direta, mediunidade, manifestacoes-espiritas, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-29
 status: ativo
 ---

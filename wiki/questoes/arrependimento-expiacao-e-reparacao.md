@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [C&I, NT]
-tags: [arrependimento, expiacao, reparacao, triade, justica-divina, penas-futuras, obra/ci, autor/kardec, grau/introdutorio, lei/justica-amor-caridade]
+tags: [arrependimento, expiacao, reparacao, triade, justica-divina, penas-futuras, obra/ci, autor/kardec, grau/introdutorio, lei/justica-amor-caridade, tema/sofrimento]
 atualizado_em: 2026-04-28
 status: ativo
 ---

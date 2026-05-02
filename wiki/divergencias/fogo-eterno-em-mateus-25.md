@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [ESE, "C&I", NT]
-tags: [divergencia, juizo-final, inferno, penas-futuras, mateus, lucas, obra/ese, obra/ci, autor/kardec, grau/avancado]
+tags: [divergencia, juizo-final, inferno, penas-futuras, mateus, lucas, obra/ese, obra/ci, autor/kardec, grau/avancado, tema/vida-futura]
 atualizado_em: 2026-04-15
 status: aberta
 ---

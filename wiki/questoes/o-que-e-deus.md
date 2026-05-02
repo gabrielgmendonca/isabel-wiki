@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [deus, causa-primaria, inteligencia-suprema, atributos-divinos, panteismo, obra/le, autor/kardec, grau/introdutorio]
+tags: [deus, causa-primaria, inteligencia-suprema, atributos-divinos, panteismo, obra/le, autor/kardec, grau/introdutorio, tema/deus]
 atualizado_em: 2026-04-19
 status: ativo
 ---

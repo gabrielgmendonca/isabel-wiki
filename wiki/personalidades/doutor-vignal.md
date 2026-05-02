@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [C&I, RE]
-tags: [ceu-e-inferno, espiritos-felizes, doutor-vignal, espirito-vivo, desprendimento, obra/ci, obra/re, autor/kardec, grau/intermediario]
+tags: [ceu-e-inferno, espiritos-felizes, doutor-vignal, espirito-vivo, desprendimento, obra/ci, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

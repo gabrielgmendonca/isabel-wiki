@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE, André Luiz/Chico Xavier]
-tags: [calunia, difamacao, lingua, reparacao, andre-luiz, os-mensageiros, lei/justica-amor-caridade, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [calunia, difamacao, lingua, reparacao, andre-luiz, os-mensageiros, lei/justica-amor-caridade, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [melquisedeque, hebreus, genesis, sacerdote, rei-de-salem, tipologia, paulo, autor/paulo, grau/intermediario]
+tags: [melquisedeque, hebreus, genesis, sacerdote, rei-de-salem, tipologia, paulo, autor/paulo, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-21
 status: ativo
 ---

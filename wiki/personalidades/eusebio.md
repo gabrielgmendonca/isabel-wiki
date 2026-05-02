@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [eusebio, espirito-comunicante, andre-luiz, no-mundo-maior, instrutores, sectarismo-cristao, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [eusebio, espirito-comunicante, andre-luiz, no-mundo-maior, instrutores, sectarismo-cristao, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-05-01
 status: rascunho
 ---

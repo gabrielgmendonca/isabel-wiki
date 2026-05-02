@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [lisias, espirito-comunicante, andre-luiz, chico-xavier, nosso-lar, ministerio-do-auxilio, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [lisias, espirito-comunicante, andre-luiz, chico-xavier, nosso-lar, ministerio-do-auxilio, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

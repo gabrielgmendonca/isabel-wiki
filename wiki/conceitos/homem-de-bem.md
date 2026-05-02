@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [homem-de-bem, moral, perfeicao, virtude, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
+tags: [homem-de-bem, moral, perfeicao, virtude, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [tiago, apostolo, jerusalem, irmao-do-senhor, conciulio-de-jerusalem, fe-e-obras, autor/tiago, grau/intermediario, lei/igualdade]
+tags: [tiago, apostolo, jerusalem, irmao-do-senhor, conciulio-de-jerusalem, fe-e-obras, autor/tiago, grau/intermediario, lei/igualdade, tema/jesus]
 atualizado_em: 2026-04-27
 status: ativo
 ---

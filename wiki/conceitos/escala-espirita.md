@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, RE]
-tags: [escala-espirita, classificacao, ordens, obra/le, obra/lm, obra/re, autor/kardec, grau/intermediario]
+tags: [escala-espirita, classificacao, ordens, obra/le, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-29
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, André Luiz/Chico Xavier]
-tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, obra/ese, lei/trabalho, bonus-hora, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, obra/ese, lei/trabalho, bonus-hora, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sociedade]
 atualizado_em: 2026-04-27
 status: ativo
 ---

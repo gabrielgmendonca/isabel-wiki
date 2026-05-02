@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [tiago, fe-e-obras, lei-real, lei-da-liberdade, dominio-da-lingua, sabedoria, riqueza, prece-pelos-doentes, nao-julgar, humildade, paciencia, autor/tiago, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/trabalho]
+tags: [tiago, fe-e-obras, lei-real, lei-da-liberdade, dominio-da-lingua, sabedoria, riqueza, prece-pelos-doentes, nao-julgar, humildade, paciencia, autor/tiago, lei/adoracao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/trabalho, tema/jesus]
 atualizado_em: 2026-04-27
 status: ativo
 direitos:

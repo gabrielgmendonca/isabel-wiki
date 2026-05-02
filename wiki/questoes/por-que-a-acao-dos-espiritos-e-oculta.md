@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [anjos-guardiaes, espiritos-protetores, livre-arbitrio, progresso, responsabilidade, obra/le, autor/kardec, grau/introdutorio, lei/liberdade]
+tags: [anjos-guardiaes, espiritos-protetores, livre-arbitrio, progresso, responsabilidade, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos]
 atualizado_em: 2026-04-19
 status: ativo
 ---

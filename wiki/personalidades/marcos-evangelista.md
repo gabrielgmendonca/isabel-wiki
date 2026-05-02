@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [marcos, evangelista, pedro, paulo, barnabe, evangelho-segundo-marcos, atos, autor/paulo, autor/pedro, grau/intermediario]
+tags: [marcos, evangelista, pedro, paulo, barnabe, evangelho-segundo-marcos, atos, autor/paulo, autor/pedro, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-28
 status: ativo
 ---

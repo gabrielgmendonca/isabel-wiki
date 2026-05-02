@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [colossenses, filemom, paulo, escravo, conversao, autor/paulo, grau/intermediario]
+tags: [colossenses, filemom, paulo, escravo, conversao, autor/paulo, grau/intermediario, tema/moral]
 atualizado_em: 2026-05-01
 status: rascunho
 ---

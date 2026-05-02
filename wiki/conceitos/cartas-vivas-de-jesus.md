@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, ESE, LM]
-tags: [cartas-vivas-de-jesus, mediunidade, missao-mediunica, centro-de-mensageiros, andre-luiz, os-mensageiros, obra/ese, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho]
+tags: [cartas-vivas-de-jesus, mediunidade, missao-mediunica, centro-de-mensageiros, andre-luiz, os-mensageiros, obra/ese, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho, tema/mediunidade]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [RE]
-tags: [incrustacao-planetaria, jobard, cosmologia, alma-da-terra, metodologia, hipotese-rejeitada, obra/re, autor/kardec, grau/intermediario]
+tags: [incrustacao-planetaria, jobard, cosmologia, alma-da-terra, metodologia, hipotese-rejeitada, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-30
 status: ativo
 ---

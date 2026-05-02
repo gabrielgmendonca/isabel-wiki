@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE, Emmanuel/Chico Xavier, NT]
-tags: [jesus, cristo, modelo-moral, kenose, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
+tags: [jesus, cristo, modelo-moral, kenose, obra/le, obra/ese, obra/genese, obra/ope, lei/justica-amor-caridade, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-30
 status: ativo
 ---

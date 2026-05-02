@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [C&I, LE, NT]
-tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le, autor/kardec, grau/avancado]
+tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le, autor/kardec, grau/avancado, tema/sofrimento]
 atualizado_em: 2026-04-15
 status: aberta
 ---

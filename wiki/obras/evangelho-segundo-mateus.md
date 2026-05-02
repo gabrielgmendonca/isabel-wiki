@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [evangelho, mateus, jesus, apostolo, fonte-primordial, lei/justica-amor-caridade]
+tags: [evangelho, mateus, jesus, apostolo, fonte-primordial, lei/justica-amor-caridade, tema/jesus]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-15

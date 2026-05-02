@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [adoracao, prece, culto, lei-moral, paulo, filipenses, gratidao, obra/le, obra/ese, lei/adoracao, autor/kardec, autor/paulo, grau/intermediario]
+tags: [adoracao, prece, culto, lei-moral, paulo, filipenses, gratidao, obra/le, obra/ese, lei/adoracao, autor/kardec, autor/paulo, grau/intermediario, tema/prece-caridade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm, autor/kardec, grau/intermediario]
+tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-06
 status: ativo
 ---

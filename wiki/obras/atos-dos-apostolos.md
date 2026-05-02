@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [atos, apostolos, pedro, paulo, mediunidade, obsessao, universalismo, autor/paulo, autor/pedro, lei/adoracao, lei/justica-amor-caridade]
+tags: [atos, apostolos, pedro, paulo, mediunidade, obsessao, universalismo, autor/paulo, autor/pedro, lei/adoracao, lei/justica-amor-caridade, tema/jesus]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-15

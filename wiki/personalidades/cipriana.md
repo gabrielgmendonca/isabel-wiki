@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [cipriana, espirito-comunicante, andre-luiz, no-mundo-maior, irmas, baixo-umbral, lar-de-cipriana, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [cipriana, espirito-comunicante, andre-luiz, no-mundo-maior, irmas, baixo-umbral, lar-de-cipriana, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/sofrimento]
 atualizado_em: 2026-05-01
 status: rascunho
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: []
-tags: [orador, medium, complementar, grau/intermediario]
+tags: [orador, medium, complementar, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-06
 status: ativo
 ---

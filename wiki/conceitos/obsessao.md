@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario]
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-05-01
 status: ativo
 ---

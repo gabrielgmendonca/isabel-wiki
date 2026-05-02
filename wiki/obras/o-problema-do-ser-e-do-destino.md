@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE, Gênese, C&I]
-tags: [leon-denis, reencarnacao, imortalidade, dor, vontade, evolucao, perispirito, mediunidade, obra/le, obra/lm, obra/ese, obra/genese, obra/ci, autor/kardec, autor/leon-denis]
+tags: [leon-denis, reencarnacao, imortalidade, dor, vontade, evolucao, perispirito, mediunidade, obra/le, obra/lm, obra/ese, obra/genese, obra/ci, autor/kardec, autor/leon-denis, tema/encarnacao]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-07

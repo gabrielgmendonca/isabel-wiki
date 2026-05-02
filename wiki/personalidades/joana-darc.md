@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [joana-darc, comunicante, biografia-mediunica, santa-francesa, obra/re, autor/kardec, grau/intermediario]
+tags: [joana-darc, comunicante, biografia-mediunica, santa-francesa, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

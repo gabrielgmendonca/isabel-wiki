@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, LE, André Luiz/Chico Xavier]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade, tema/mediunidade]
 atualizado_em: 2026-05-01
 status: ativo
 ---

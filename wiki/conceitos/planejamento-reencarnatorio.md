@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, André Luiz/Chico Xavier]
-tags: [planejamento-reencarnatorio, reencarnacao, encarnacao, perispirito, hereditariedade, aborto, andre-luiz, missionarios-da-luz, evolucao-em-dois-mundos, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario]
+tags: [planejamento-reencarnatorio, reencarnacao, encarnacao, perispirito, hereditariedade, aborto, andre-luiz, missionarios-da-luz, evolucao-em-dois-mundos, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/encarnacao]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

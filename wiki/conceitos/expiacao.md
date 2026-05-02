@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, ESE]
-tags: [expiacao, justica-divina, sofrimento, reencarnacao, progresso-espiritual, obra/le, obra/ci, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
+tags: [expiacao, justica-divina, sofrimento, reencarnacao, progresso-espiritual, obra/le, obra/ci, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/sofrimento]
 atualizado_em: 2026-04-16
 status: ativo
 ---

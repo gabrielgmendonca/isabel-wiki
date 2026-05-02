@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LE]
-tags: [bonus-hora, andre-luiz, nosso-lar, trabalho, economia-espiritual, lei/trabalho, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/justica-amor-caridade]
+tags: [bonus-hora, andre-luiz, nosso-lar, trabalho, economia-espiritual, lei/trabalho, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/historia-doutrina]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

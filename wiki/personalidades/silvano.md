@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [silvano, silas, paulo, pedro, atos, tessalonicenses, primeiros-passos-da-igreja, autor/paulo, autor/pedro, grau/intermediario]
+tags: [silvano, silas, paulo, pedro, atos, tessalonicenses, primeiros-passos-da-igreja, autor/paulo, autor/pedro, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-28
 status: ativo
 ---

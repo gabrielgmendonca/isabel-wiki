@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM]
-tags: [obsessao, mediunidade, psicografia, perispirito, atendimento-fraterno, caridade, resignacao, obra/le, obra/lm, autor/kardec]
+tags: [obsessao, mediunidade, psicografia, perispirito, atendimento-fraterno, caridade, resignacao, obra/le, obra/lm, autor/kardec, tema/mediunidade]
 url: https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw
 direitos:
   detentor: desconhecido

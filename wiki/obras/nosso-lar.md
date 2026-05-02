@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, nosso-lar, umbral, colonia-espiritual, bonus-hora, suicidio, reencarnacao, ministerios, governadoria, autor/andre-luiz, autor/chico-xavier, lei/destruicao, lei/trabalho]
+tags: [andre-luiz, chico-xavier, nosso-lar, umbral, colonia-espiritual, bonus-hora, suicidio, reencarnacao, ministerios, governadoria, autor/andre-luiz, autor/chico-xavier, lei/destruicao, lei/trabalho, tema/vida-futura]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/nosso-lar

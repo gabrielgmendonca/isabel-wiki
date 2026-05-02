@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [encarnacao, expiacao, missao, provas, obra/le, obra/ese, autor/kardec, grau/intermediario]
+tags: [encarnacao, expiacao, missao, provas, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/encarnacao]
 atualizado_em: 2026-04-06
 status: ativo
 ---

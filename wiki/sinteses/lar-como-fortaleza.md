@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [ESE, LE, LM, André Luiz/Chico Xavier]
-tags: [lar, prece, culto-do-evangelho-no-lar, defesa-espiritual, sono-fisico, fluidos, andre-luiz, os-mensageiros, obra/ese, obra/le, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/adoracao]
+tags: [lar, prece, culto-do-evangelho-no-lar, defesa-espiritual, sono-fisico, fluidos, andre-luiz, os-mensageiros, obra/ese, obra/le, obra/lm, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/adoracao, tema/prece-caridade]
 atualizado_em: 2026-04-28
 status: rascunho
 ---

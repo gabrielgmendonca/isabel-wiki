@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, NT]
-tags: [divergencia, mulher, igualdade, paulo, igreja-primitiva, codigo-domestico, corintios, colossenses, obra/le, lei/igualdade, autor/kardec, autor/paulo, grau/avancado]
+tags: [divergencia, mulher, igualdade, paulo, igreja-primitiva, codigo-domestico, corintios, colossenses, obra/le, lei/igualdade, autor/kardec, autor/paulo, grau/avancado, tema/historia-doutrina]
 atualizado_em: 2026-05-01
 status: aberta
 ---

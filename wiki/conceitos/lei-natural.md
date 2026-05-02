@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, NT]
-tags: [lei-natural, lei-divina, bem-e-mal, moral, paulo, romanos, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho, autor/kardec, autor/paulo, grau/intermediario]
+tags: [lei-natural, lei-divina, bem-e-mal, moral, paulo, romanos, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho, autor/kardec, autor/paulo, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-20
 status: ativo
 ---

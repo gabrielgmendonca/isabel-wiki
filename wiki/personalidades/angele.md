@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [C&I]
-tags: [ceu-e-inferno, espiritos-endurecidos, obra/ci, lei/trabalho, autor/kardec, grau/intermediario]
+tags: [ceu-e-inferno, espiritos-endurecidos, obra/ci, lei/trabalho, autor/kardec, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-06
 status: ativo
 ---

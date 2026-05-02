@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier]
-tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade]
+tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao]
 atualizado_em: 2026-04-27
 status: aberta
 ---

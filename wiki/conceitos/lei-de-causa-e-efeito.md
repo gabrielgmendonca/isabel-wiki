@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I, Gênese, NT]
-tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
+tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/livre-arbitrio]
 atualizado_em: 2026-04-29
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [Gênese]
-tags: [geracao-nova, transicao, regeneracao, espiritismo, progresso, obra/genese, autor/kardec, grau/intermediario]
+tags: [geracao-nova, transicao, regeneracao, espiritismo, progresso, obra/genese, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-30
 status: ativo
 ---

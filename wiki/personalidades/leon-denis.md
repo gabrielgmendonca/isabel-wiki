@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Léon Denis]
-tags: [autor, complementar, filosofo-espirita, autor/leon-denis, grau/intermediario]
+tags: [autor, complementar, filosofo-espirita, autor/leon-denis, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-07
 status: ativo
 ---

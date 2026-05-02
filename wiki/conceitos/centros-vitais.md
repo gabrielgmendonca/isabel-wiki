@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier]
-tags: [centros-vitais, corpo-espiritual, perispirito, psicossoma, andre-luiz, fisiologia-sutil, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [centros-vitais, corpo-espiritual, perispirito, psicossoma, andre-luiz, fisiologia-sutil, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-27
 status: rascunho
 ---

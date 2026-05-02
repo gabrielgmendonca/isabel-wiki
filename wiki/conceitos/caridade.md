@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [caridade, amor, egoismo, beneficencia, moral, tiago, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, autor/tiago, grau/intermediario, lei/igualdade]
+tags: [caridade, amor, egoismo, beneficencia, moral, tiago, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, autor/tiago, grau/intermediario, lei/igualdade, tema/moral]
 atualizado_em: 2026-04-27
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [RE]
-tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, volume-1859, autor/kardec, lei/progresso]
+tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, volume-1859, autor/kardec, lei/progresso, tema/historia-doutrina]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-04-29

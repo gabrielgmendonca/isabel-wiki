@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, missionarios-da-luz, mediunidade, vampirismo, reencarnacao, passes, materializacao, obsessao, autor/andre-luiz, autor/chico-xavier, lei/reproducao]
+tags: [andre-luiz, chico-xavier, missionarios-da-luz, mediunidade, vampirismo, reencarnacao, passes, materializacao, obsessao, autor/andre-luiz, autor/chico-xavier, lei/reproducao, tema/mediunidade]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/missionarios-da-luz

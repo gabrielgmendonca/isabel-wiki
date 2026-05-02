@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Emmanuel/Chico Xavier]
-tags: [progresso, evolucao-espiritual, perfeicao, finalidade, obra/le, obra/ese, lei/progresso, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario]
+tags: [progresso, evolucao-espiritual, perfeicao, finalidade, obra/le, obra/ese, lei/progresso, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-07
 status: ativo
 ---

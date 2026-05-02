@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [progresso, civilizacao, humanidade, estado-de-natureza, lei-moral, paulo, filipenses, obra/le, lei/progresso, autor/kardec, autor/paulo, grau/intermediario]
+tags: [progresso, civilizacao, humanidade, estado-de-natureza, lei-moral, paulo, filipenses, obra/le, lei/progresso, autor/kardec, autor/paulo, grau/intermediario, tema/moral]
 atualizado_em: 2026-04-30
 status: ativo
 ---

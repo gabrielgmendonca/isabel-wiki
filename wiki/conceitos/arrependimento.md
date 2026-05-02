@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I]
-tags: [arrependimento, expiacao, moral, justica-divina, progresso-espiritual, obra/le, obra/ci, autor/kardec, grau/intermediario]
+tags: [arrependimento, expiacao, moral, justica-divina, progresso-espiritual, obra/le, obra/ci, autor/kardec, grau/intermediario, tema/sofrimento]
 atualizado_em: 2026-04-16
 status: ativo
 ---

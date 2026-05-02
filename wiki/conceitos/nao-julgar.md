@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, NT]
-tags: [nao-julgar, juizo, misericordia, mulher-adultera, argueiro-e-trave, maledicencia, indulgencia, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade]
+tags: [nao-julgar, juizo, misericordia, mulher-adultera, argueiro-e-trave, maledicencia, indulgencia, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/moral]
 atualizado_em: 2026-04-27
 status: ativo
 ---

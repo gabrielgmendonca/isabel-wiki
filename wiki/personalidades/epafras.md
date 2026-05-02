@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [colossenses, frigia, paulo, fundador-de-igreja, oracao, pastoreio, autor/paulo, grau/intermediario, lei/adoracao]
+tags: [colossenses, frigia, paulo, fundador-de-igreja, oracao, pastoreio, autor/paulo, grau/intermediario, lei/adoracao, tema/jesus]
 atualizado_em: 2026-05-01
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, Gênese, C&I]
-tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico, obra/le, obra/lm, obra/genese, obra/ci, autor/kardec, grau/intermediario]
+tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico, obra/le, obra/lm, obra/genese, obra/ci, autor/kardec, grau/intermediario, tema/espiritos]
 atualizado_em: 2026-04-28
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [calderaro, espirito-comunicante, andre-luiz, no-mundo-maior, assistentes, psiquiatria-espirita, casa-mental, autor/andre-luiz, autor/chico-xavier, grau/intermediario]
+tags: [calderaro, espirito-comunicante, andre-luiz, no-mundo-maior, assistentes, psiquiatria-espirita, casa-mental, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-05-01
 status: rascunho
 ---

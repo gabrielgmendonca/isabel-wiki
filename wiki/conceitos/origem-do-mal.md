@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, NT]
-tags: [mal, bem, livre-arbitrio, imperfeicao, progresso, pecado-original, paulo, romanos, obra/le, obra/genese, lei/liberdade, autor/kardec, autor/paulo, grau/intermediario]
+tags: [mal, bem, livre-arbitrio, imperfeicao, progresso, pecado-original, paulo, romanos, obra/le, obra/genese, lei/liberdade, autor/kardec, autor/paulo, grau/intermediario, tema/deus]
 atualizado_em: 2026-04-20
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE, ESE]
-tags: [jesus, cristo, modelo-moral, revelacao, hierarquia-de-autoridade, obra/le, obra/ese, autor/kardec, grau/introdutorio, lei/justica-amor-caridade]
+tags: [jesus, cristo, modelo-moral, revelacao, hierarquia-de-autoridade, obra/le, obra/ese, autor/kardec, grau/introdutorio, lei/justica-amor-caridade, tema/jesus]
 atualizado_em: 2026-04-19
 status: ativo
 ---

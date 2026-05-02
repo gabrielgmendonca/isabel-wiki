@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, inferno, penas, fogo-eterno, sata, demonios, obra/ci, autor/kardec, grau/intermediario]
+tags: [ceu-e-inferno, inferno, penas, fogo-eterno, sata, demonios, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-04-30
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Humberto de Campos/Chico Xavier]
-tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, andre-luiz, os-mensageiros, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/humberto-de-campos, grau/intermediario]
+tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, andre-luiz, os-mensageiros, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/humberto-de-campos, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-28
 status: ativo
 ---

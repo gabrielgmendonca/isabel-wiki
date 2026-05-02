@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [voltaire, comunicante, filosofo-frances, iluminismo, arrependimento, obra/re, autor/kardec, grau/intermediario]
+tags: [voltaire, comunicante, filosofo-frances, iluminismo, arrependimento, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, RE]
-tags: [mediunidade-de-cura, medium-curador, fluidos, magnetismo, desinteresse, obra/lm, obra/re, autor/kardec, grau/intermediario]
+tags: [mediunidade-de-cura, medium-curador, fluidos, magnetismo, desinteresse, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-30
 status: ativo
 ---

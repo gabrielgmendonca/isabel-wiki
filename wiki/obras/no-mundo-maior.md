@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, no-mundo-maior, psiquiatria-espirita, casa-mental, obsessao, mediunidade, vampirismo, alienacao-mental, sexo, umbral, baixo-umbral, calderaro, eusebio, cipriana, autor/andre-luiz, autor/chico-xavier]
+tags: [andre-luiz, chico-xavier, no-mundo-maior, psiquiatria-espirita, casa-mental, obsessao, mediunidade, vampirismo, alienacao-mental, sexo, umbral, baixo-umbral, calderaro, eusebio, cipriana, autor/andre-luiz, autor/chico-xavier, tema/vida-futura]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/no-mundo-maior

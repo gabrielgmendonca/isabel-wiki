@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [sociedade, convivio, familia, insulamento, lei-moral, obra/le, obra/ese, lei/sociedade, autor/kardec, grau/intermediario]
+tags: [sociedade, convivio, familia, insulamento, lei-moral, obra/le, obra/ese, lei/sociedade, autor/kardec, grau/intermediario, tema/sociedade]
 atualizado_em: 2026-04-19
 status: ativo
 ---

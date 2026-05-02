@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [francois-paris, comunicante, diacono, jansenismo, saint-medard, obra/re, autor/kardec, grau/intermediario]
+tags: [francois-paris, comunicante, diacono, jansenismo, saint-medard, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-04-29
 status: ativo
 ---

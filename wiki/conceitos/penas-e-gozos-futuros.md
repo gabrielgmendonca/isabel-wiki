@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, C&I]
-tags: [penas, gozos, vida-futura, eternidade, inferno, paraiso, purgatorio, expiacao, obra/le, obra/ci, lei/justica-amor-caridade, autor/kardec, grau/intermediario]
+tags: [penas, gozos, vida-futura, eternidade, inferno, paraiso, purgatorio, expiacao, obra/le, obra/ci, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-04-30
 status: ativo
 ---
