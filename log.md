@@ -4,6 +4,16 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-05-02] refactor | Granularização de `convencoes-paginas.md` em três rules
+
+Roadmap §9 (eficiência de tokens). `convencoes-paginas.md` (187 linhas, `paths: wiki/**`) era injetado em **toda** edição em `wiki/**`, mesmo quando a página não tocava direitos autorais nem schema completo de obra. Quebrado em três:
+
+- `convencoes-frontmatter.md` (`paths: wiki/**`) — núcleo: frontmatter YAML, links/slugs, estrutura por tipo.
+- `convencoes-tags.md` (`paths: wiki/**`) — taxonomia completa dos 5 namespaces (`obra/`, `lei/`, `grau/`, `tema/`, `autor/`).
+- `convencoes-direitos.md` (`paths: wiki/obras/**`) — schema `direitos:`, tabela de detentores, limites de citação para obras protegidas.
+
+Verificado via simulação do hook: edições em `wiki/conceitos/`, `wiki/sinteses/`, `wiki/questoes/` deixam de carregar **2.653 chars** (~2.6 KB) por turno (12.524 vs 15.178 chars em `wiki/obras/`). Ganho permanente em todo turno de edição não-obra. Referências atualizadas em `CLAUDE.md` §3, `.claude/skills/ingest/SKILL.md` (passos 1.1 e 5), `.claude/skills/ingest/scripts/find_feb_url.py`, `scripts/enrich_tags_grau.py` e ROADMAP.md (4 menções históricas).
+
 ## [2026-05-01] lint | Resolução de 5 wikilinks quebrados
 
 Corrigidos os 5 wikilinks quebrados detectados pelo lint. Em `desprendimento-em-vida.md`, removida a referência a `dupla-vista` (página inexistente; tema é coberto dentro de [[wiki/conceitos/emancipacao-da-alma]]) — desfez wrapper inline e tirou linha órfã de "Páginas relacionadas". Em `grupo-mediunico.md`, redirecionados os dois links a `controle-universal-do-ensino-dos-espiritos` para [[wiki/sinteses/veracidade-das-mensagens-psicografadas]], síntese existente que já trata o CUEE como critério inter-grupos. Em `ressurreicao-da-carne.md`, corrigido o caminho real do raw de Léon Denis (`Cristianismo_e_Espiritismo` capitalizado/com underscore — não slug-style) e adicionado link para a página da obra na wiki.

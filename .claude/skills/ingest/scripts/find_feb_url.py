@@ -74,7 +74,7 @@ def patch_direitos(front: str, url: str) -> str:
         sys.exit(
             "erro: bloco `direitos:` ausente na frontmatter. "
             "Preencha-o primeiro (ver passo 4.5 do /ingest e "
-            ".claude/rules/convencoes-paginas.md)."
+            ".claude/rules/convencoes-direitos.md)."
         )
 
     # Fim do bloco: primeira linha não indentada e não vazia depois do start.

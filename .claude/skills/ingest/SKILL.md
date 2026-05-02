@@ -40,7 +40,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
 
 1. **Criar** `wiki/obras/<slug>.md` ou `wiki/personalidades/<slug>.md`. Nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.
 
-   **1.1 — direitos autorais (apenas `wiki/obras/`):** preencher o bloco `direitos:` no frontmatter com base no detentor da obra. Tabela canônica de detentores em `.claude/rules/convencoes-paginas.md` (subseção "Direitos autorais"). Em dúvida (palestras, autores nível 4 sem mapeamento claro), marcar `desconhecido` e perguntar ao usuário durante a confirmação. Para obras protegidas, incluir `url_aquisicao` quando conhecido (FEB, Boa Nova, LEAL).
+   **1.1 — direitos autorais (apenas `wiki/obras/`):** preencher o bloco `direitos:` no frontmatter com base no detentor da obra. Tabela canônica de detentores em `.claude/rules/convencoes-direitos.md`. Em dúvida (palestras, autores nível 4 sem mapeamento claro), marcar `desconhecido` e perguntar ao usuário durante a confirmação. Para obras protegidas, incluir `url_aquisicao` quando conhecido (FEB, Boa Nova, LEAL).
 
    Para livros da FEB Editora, usar o helper `find_feb_url.py`:
    1. `uv run python .claude/skills/ingest/scripts/find_feb_url.py wiki/obras/<slug>.md` — imprime a URL de busca da FEB Editora a partir do título da obra.
@@ -55,7 +55,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
 > `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do workflow **Query** (CLAUDE.md §4), não da ingestão.
 3. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 4. **Atualizar `wiki/sinteses/catalogo.md`** com links e resumos das páginas novas (a home `index.md` é landing de trilhas e não lista páginas individuais).
-5. **Enriquecer tags hierárquicas**: rodar os enrich scripts para preencher os namespaces validados. Todos idempotentes — skipam páginas já completas. Taxonomia completa em `.claude/rules/convencoes-paginas.md`.
+5. **Enriquecer tags hierárquicas**: rodar os enrich scripts para preencher os namespaces validados. Todos idempotentes — skipam páginas já completas. Taxonomia completa em `.claude/rules/convencoes-tags.md`.
    - `uv run python scripts/enrich_tags_obra.py` — `obra/*` a partir de `fontes:`.
    - `uv run python scripts/enrich_tags_autor.py` — `autor/*` a partir de `fontes:` e tags livres canônicas (espírito + médium para psicografias).
    - `uv run python scripts/enrich_tags_grau.py` — `grau/*` por default heurístico (`questao`→introdutorio, `conceito`/`parabola`/`personalidade`→intermediario, `aprofundamento`/`sintese`/`divergencia`→avancado). Revisar caso a caso após gravar; promover/rebaixar manualmente quando o conteúdo discordar do default.

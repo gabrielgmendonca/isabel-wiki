@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Adiciona tag grau/* ao frontmatter das páginas wiki por default heurístico.
 
-Mapeamento por `tipo:` documentado em .claude/rules/convencoes-paginas.md
-(seção Taxonomia de tags / `grau/`):
+Mapeamento por `tipo:` documentado em .claude/rules/convencoes-tags.md
+(seção `grau/`):
 
     questao        → grau/introdutorio
     parabola       → grau/intermediario

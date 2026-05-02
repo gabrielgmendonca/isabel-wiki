@@ -32,7 +32,7 @@ Toda afirmação doutrinária precisa de citação. Formatos:
 
 **Obras psicografadas**: citar como `Autor espiritual / Médium`. Conferir o frontmatter de `raw/mediuns/<médium>/<obra>.md` (campo `Autor espiritual:`) — o médium não é o autor. Não inferir autor a partir do médium.
 
-Toda página termina com `## Fontes`. Detentores de direitos e limites de citação para obras protegidas estão em `convencoes-paginas.md` (carrega ao editar `wiki/**`).
+Toda página termina com `## Fontes`. Detentores de direitos e limites de citação para obras protegidas estão em `convencoes-direitos.md` (carrega ao editar `wiki/obras/**`).
 
 ## 4. Workflows e estudo
 
