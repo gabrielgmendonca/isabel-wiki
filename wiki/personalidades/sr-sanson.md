@@ -99,4 +99,4 @@ Viu-se rodeado de Espíritos protetores que lhe sorriam. Pôde contemplar seu pr
 - KARDEC, Allan. "Palestras familiares de além túmulo — Sr. Sanson, 2ª palestra". *Revista Espírita*, junho de 1862.
 - KARDEC, Allan. "Papel da sociedade de Paris (médium: Sr. Leymarie)". *Revista Espírita*, novembro de 1862.
 - KARDEC, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "Sr. Sanson". FEB.
-- Edição local integral: [[raw/kardec/revista-espirita/revista-espirita-1862]].
+- Edição local integral: [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]].

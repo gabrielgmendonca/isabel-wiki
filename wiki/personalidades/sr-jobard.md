@@ -72,5 +72,5 @@ A [[wiki/obras/revista-espirita-1864|*Revista Espírita* de 1864]] traz duas apa
 ## Fontes
 
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "Sr. Jobard". FEB.
-- Kardec, Allan. *Revista Espírita*, abr/1860, "Formação da Terra — Teoria da incrustação planetária"; out/1860, "Sobre o valor das comunicações espíritas (pelo Sr. Jobard)". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
-- KARDEC, Allan. *Revista Espírita*, dezembro de 1861, "Necrologia — Morte do Sr. Jobard". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].
+- Kardec, Allan. *Revista Espírita*, abr/1860, "Formação da Terra — Teoria da incrustação planetária"; out/1860, "Sobre o valor das comunicações espíritas (pelo Sr. Jobard)". Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
+- KARDEC, Allan. *Revista Espírita*, dezembro de 1861, "Necrologia — Morte do Sr. Jobard". Edição local: [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]].

@@ -82,4 +82,4 @@ Descreveu o despertar como uma admiração imensa diante dos esplendores celeste
 - KARDEC, Allan. "Jean Reynaud e os precursores do Espiritismo". *Revista Espírita*, agosto de 1863.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "Jean Reynaud". FEB.
 - REYNAUD, Jean. *Terre et Ciel*. Paris: Furne, 1854.
-- Edição local integral: [[raw/kardec/revista-espirita/revista-espirita-1862]], [[raw/kardec/revista-espirita/revista-espirita-1863]].
+- Edição local integral: [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]], [[raw/kardec/revista-espirita/1863/01-janeiro|raw/kardec/revista-espirita/1863/]].

@@ -91,5 +91,5 @@ Não há obras de Swedenborg psicografadas após sua morte registradas na *Revis
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, nov/1859, "Swedenborg" e "Comunicação de Swedenborg prometida na sessão de 16 de setembro". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, nov/1859, "Swedenborg" e "Comunicação de Swedenborg prometida na sessão de 16 de setembro". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - SWEDENBORG, Emanuel. *De Caelo et Inferno* (1758) — referência da doutrina dos três céus / três infernos criticada por Kardec.

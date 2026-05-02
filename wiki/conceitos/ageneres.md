@@ -74,6 +74,6 @@ Não há. Conceito original da própria codificação (laboratório da *Revista*
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, fev/1859, "Os agêneres". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, fev/1859, "Os agêneres". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - KARDEC, Allan. *Revista Espírita*, jan/1859, "O duende de Bayonne" (caso empírico precursor da formulação).
 - KARDEC, Allan. *Revista Espírita*, fev/1859, "Meu amigo Hermann" (refutação da hipótese de dupla animação carnal — fronteira do conceito).

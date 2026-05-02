@@ -65,5 +65,5 @@ A *Mística Ciudad de Dios* — sua obra terrena maior — não é tratada doutr
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, nov/1860, "Maria d'Agreda — Fenômeno de bicorporeidade". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, nov/1860, "Maria d'Agreda — Fenômeno de bicorporeidade". Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - Resumo histórico citado por Kardec na RE: biografia da Madre Maria de Jesus de Agreda publicada em 1860 (autor não identificado por Kardec).

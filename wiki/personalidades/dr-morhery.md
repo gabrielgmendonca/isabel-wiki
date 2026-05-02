@@ -63,4 +63,4 @@ Sua tese inaugural de medicina (mencionada nas cartas mas não citada em detalhe
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu") e demais notícias em out e nov/1860. Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu") e demais notícias em out e nov/1860. Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

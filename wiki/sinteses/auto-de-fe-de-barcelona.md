@@ -131,4 +131,4 @@ A frase *"penhor de vosso próximo triunfo"* fixa o quadro de leitura kardequian
 - *La Corona* (Barcelona), outubro de 1861.
 - *Diário de Barcelona*, outubro de 1861.
 - *Le Siècle* (Paris), 14 de outubro de 1861.
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].
+- Edição local: [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]].

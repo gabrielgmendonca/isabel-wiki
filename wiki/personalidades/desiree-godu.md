@@ -66,4 +66,4 @@ Relato clínico de Morhéry:
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, fev/1860 ("Médiuns especiais"), mar/1860 ("Um médium curador"), abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, fev/1860 ("Médiuns especiais"), mar/1860 ("Um médium curador"), abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu"). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

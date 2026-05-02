@@ -62,5 +62,5 @@ Sobre a história de Luís XI (em resposta a quem atribuísse o trabalho à mem�
 ## Fontes
 
 - Kardec, Allan. *Revista Espírita*, jan/1858 ("História de Joana d'Arc ditada por ela própria à senhorita Ermance Dufaux"); fev, mai, jun, jul/1858 (dissertações morais); mar, mai, jun/1858 (Confissões de Luís XI).
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].
 - DUFAUX, Ermance (méd.). *Histoire de Jeanne d'Arc dictée par elle-même*. Paris: Dentu, Palais-Royal, 1858.

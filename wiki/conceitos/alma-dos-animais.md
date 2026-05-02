@@ -96,6 +96,6 @@ Nenhuma com o Pentateuco. As dissertações de Charlet são corrigidas por Karde
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, jul/1860, "Dos animais" (oito dissertações de Charlet) e "Exame crítico (Das dissertações de Charlet sobre animais)". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, jul/1860, "Dos animais" (oito dissertações de Charlet) e "Exame crítico (Das dissertações de Charlet sobre animais)". Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 597–613. Trad. Guillon Ribeiro. FEB. 2ª edição definitiva (1860).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Caps. III e XI.

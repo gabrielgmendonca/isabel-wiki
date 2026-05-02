@@ -99,6 +99,6 @@ Nenhuma com o Pentateuco. A teoria da incrustação **não é** divergência kar
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, abr/1860, "Formação da Terra — Teoria da incrustação planetária" (carta de Jobard + resposta-comentário longo de Kardec). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, abr/1860, "Formação da Terra — Teoria da incrustação planetária" (carta de Jobard + resposta-comentário longo de Kardec). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte, caps. XX e XXIV.
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Caps. VI, VII, XI.

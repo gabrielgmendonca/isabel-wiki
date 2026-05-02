@@ -50,5 +50,5 @@ Sobre o trabalho como prova de continuidade individual da alma:
 ## Fontes
 
 - Kardec, Allan. *Revista Espírita*, jan/1858, "História de Joana d'Arc ditada por ela própria à senhorita Ermance Dufaux".
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].
 - DUFAUX, Ermance (méd.). *Histoire de Jeanne d'Arc dictée par elle-même*. Paris: Dentu, Palais-Royal, 1858.

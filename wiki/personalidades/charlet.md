@@ -76,4 +76,4 @@ A obra terrena de Charlet (litografias militares e populares) não foi tratada d
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, jul/1860, "Dos animais" (oito dissertações de Charlet) e "Exame crítico (Das dissertações de Charlet sobre animais)". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, jul/1860, "Dos animais" (oito dissertações de Charlet) e "Exame crítico (Das dissertações de Charlet sobre animais)". Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

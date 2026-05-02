@@ -80,5 +80,5 @@ Sobre a doença que o reteve:
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, jan/1860, "Espírito de um lado, corpo do outro. Palestra com o Espírito de um vivo" (sessões de 25/11/1859 e 02/12/1859). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, jan/1860, "Espírito de um lado, corpo do outro. Palestra com o Espírito de um vivo" (sessões de 25/11/1859 e 02/12/1859). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. VIII (Da bicorporeidade e da transfiguração). FEB.

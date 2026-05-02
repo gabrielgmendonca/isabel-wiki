@@ -109,4 +109,4 @@ Nenhuma com o Pentateuco. Conceito kardequiano consolidado em LM cap. XIV; sem t
 ## Fontes
 
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XIV (Dos médiuns — variedades; "médiuns curadores"). Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *Revista Espírita*, fev/1860 ("Médiuns especiais"), mar/1860 ("Um médium curador"), abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, fev/1860 ("Médiuns especiais"), mar/1860 ("Um médium curador"), abr/1860 ("Cartas do Dr. Morhéry sobre a Srta. Désirée Godu"). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

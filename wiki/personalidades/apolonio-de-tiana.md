@@ -96,7 +96,7 @@ Filóstrato e a tradição consignam a Apolônio:
 
 ## Fontes
 
-- KARDEC, Allan. "Apolônio de Tiana". *Revista Espírita*, outubro de 1862. Edição local: [[raw/kardec/revista-espirita/revista-espirita-1862]] (artigo de outubro).
+- KARDEC, Allan. "Apolônio de Tiana". *Revista Espírita*, outubro de 1862. Edição local: [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]] (artigo de outubro).
 - KARDEC, Allan. "O Espiritismo é provado por milagres?". *Revista Espírita*, fevereiro de 1862.
 - KARDEC, Allan. *A Gênese, os milagres e as predições segundo o Espiritismo*. Cap. XV ("Os milagres do Evangelho").
 - FILÓSTRATO, Flávio. *Vida de Apolônio de Tiana*. Tradução francesa de Chassang (Paris: Didier, 1862) — referência da resenha kardequiana.

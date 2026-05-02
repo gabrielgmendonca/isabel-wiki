@@ -73,6 +73,6 @@ Sobre o caso de Java:
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, dez/1859, "Palestras familiares de além-túmulo — Sra. Ida Pfeiffer, Célebre viajante" e "Doutrina da reencarnação entre os Hindus". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, dez/1859, "Palestras familiares de além-túmulo — Sra. Ida Pfeiffer, Célebre viajante" e "Doutrina da reencarnação entre os Hindus". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - PFEIFFER, Ida. *Segunda Viagem ao Redor do Mundo*. 1856 (citada em RE, dez/1859, p. 345 da edição francesa).
 - KARDEC, Allan. *Revue de Paris*, 1º de setembro de 1856, e *Dictionnaire des Contemporains* de Vapereau (referências citadas por Kardec na biografia introdutória).

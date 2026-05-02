@@ -59,4 +59,4 @@ Sobre a especificidade dos fenômenos físicos:
 ## Fontes
 
 - Kardec, Allan. *Revista Espírita*, fev, mar e abr/1858 ("O Sr. Home", I, II e III); jun/1858 ("Teoria das manifestações físicas — II", §§ 15–18).
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].

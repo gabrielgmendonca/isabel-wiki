@@ -79,6 +79,6 @@ Não há obras de Voltaire **psicografadas** registradas na *Revista Espírita*.
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, ago/1859, "Palestras familiares de além-túmulo — Voltaire e Frederico". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, ago/1859, "Palestras familiares de além-túmulo — Voltaire e Frederico". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - KARDEC, Allan. *Revista Espírita*, set/1859, "Confissão de Voltaire" (extraída de Edmonds, *Spiritualism*, EUA).
 - EDMONDS, John W. *Spiritualism*. New York, 1853–1855. (Fonte primária da "Confissão" — diálogo Voltaire × Wolsey.)

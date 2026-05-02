@@ -44,4 +44,4 @@ A obra *Les Quatre Évangiles, suivis des commandements expliqués en esprit et 
 
 ## Fontes
 
-- KARDEC, Allan. *Revue Spirite*, novembro de 1861, "O Espiritismo em Bordéus" e "Reunião geral dos espíritas bordeleses — 14 de outubro de 1861". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].
+- KARDEC, Allan. *Revue Spirite*, novembro de 1861, "O Espiritismo em Bordéus" e "Reunião geral dos espíritas bordeleses — 14 de outubro de 1861". Edição local: [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]].

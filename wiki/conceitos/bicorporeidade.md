@@ -94,5 +94,5 @@ Nenhuma. Conceito kardequiano consolidado em LM cap. VII; sem tensão com Pentat
 ## Fontes
 
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. VII (Da bicorporeidade e da transfiguração). Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *Revista Espírita*, jan/1860 ("Espírito de um lado, corpo do outro" + "Aparição tangível"); fev/1860 e mar/1860 ("Estudo sobre o Espírito das pessoas vivas — Dr. Vignal"); nov/1860 ("Maria d'Agreda"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, jan/1860 ("Espírito de um lado, corpo do outro" + "Aparição tangível"); fev/1860 e mar/1860 ("Estudo sobre o Espírito das pessoas vivas — Dr. Vignal"); nov/1860 ("Maria d'Agreda"). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *Revista Espírita*, dez/1858 ("Fenômeno de bicorporeidade"); mai/1859 ("Ligação entre Espírito e corpo").

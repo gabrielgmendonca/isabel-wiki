@@ -73,6 +73,6 @@ Não há.
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, ago/1859, "Pneumatografia ou escrita direta". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, ago/1859, "Pneumatografia ou escrita direta". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XII ("Pneumatografia ou escrita direta"). Trad. Guillon Ribeiro. FEB.
 - GULDENSTUBBÉ, Barão de. *La Réalité des Esprits et de leurs manifestations, démontrée par le phénomène de l'écriture directe*. Paris: Frank, 1857. Citado por Kardec.

@@ -106,4 +106,4 @@ Material decisivo para LM cap. XXIII (que recebe atualização tácita pelo arti
 - KARDEC, Allan. "Epidemia demoníaca na Sabóia". *Revista Espírita*, abril de 1862.
 - KARDEC, Allan. "Viagem espírita em 1862". *Revista Espírita*, novembro de 1862.
 - KARDEC, Allan. *O Livro dos Médiuns*, cap. XXIII ("Da obsessão").
-- Edição local integral: [[raw/kardec/revista-espirita/revista-espirita-1862]].
+- Edição local integral: [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]].

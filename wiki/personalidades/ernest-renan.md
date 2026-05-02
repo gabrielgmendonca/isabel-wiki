@@ -76,4 +76,4 @@ A polêmica é **dupla**: contra o materialismo de Renan e contra a defesa cató
 - KARDEC, Allan. "A vida de Jesus, de Renan". *Revista Espírita*, maio de 1864.
 - KARDEC, Allan. "A vida de Jesus, pelo Sr. Renan (2º artigo)". *Revista Espírita*, junho de 1864.
 - RENAN, Ernest. *La Vie de Jésus*. Paris: Calmann-Lévy, 1863. (Primeiro volume de *Histoire des origines du christianisme*.)
-- Edição local da *Revista*: [[raw/kardec/revista-espirita/revista-espirita-1864]].
+- Edição local da *Revista*: [[raw/kardec/revista-espirita/1864/01-janeiro|raw/kardec/revista-espirita/1864/]].

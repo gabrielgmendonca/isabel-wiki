@@ -92,6 +92,6 @@ Os comentários bíblicos do diácono Pâris (sobre Romanos, Gálatas e Hebreus)
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, out/1859, "Os convulsionários de Saint-Médard" (notícia biográfica de Pauline Roland + evocação do diácono Pâris). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, out/1859, "Os convulsionários de Saint-Médard" (notícia biográfica de Pauline Roland + evocação do diácono Pâris). Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - KARDEC, Allan. *Revista Espírita*, dez/1859, "Os convulsionários de Saint-Médard" (continuação do estudo).
-- KARDEC, Allan. *Revista Espírita*, mai/1860 e jul/1860 (sessão de 01/06/1860; retratação da "grande Françoise"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, mai/1860 e jul/1860 (sessão de 01/06/1860; retratação da "grande Françoise"). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

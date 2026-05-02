@@ -94,5 +94,5 @@ Kardec nota que algumas respostas de Jeannet ultrapassam o alcance de um Espíri
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, ago/1860, "O trapeiro da Rue des Noyers" (sessão de 29/06/1860). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, ago/1860, "O trapeiro da Rue des Noyers" (sessão de 29/06/1860). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. V (Manifestações físicas espontâneas — ruídos, perturbações, transporte de objetos). FEB.

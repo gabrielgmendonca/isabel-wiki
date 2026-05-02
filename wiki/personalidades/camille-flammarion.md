@@ -60,5 +60,5 @@ No discurso, Flammarion:
 ## Fontes
 
 - KARDEC, Allan. *Obras Póstumas*, "Discurso pronunciado junto ao túmulo de Allan Kardec por Camille Flammarion". Tradução de Guillon Ribeiro. FEB.
-- KARDEC, Allan. *Revista Espírita*, jan/1863, "Bibliografia — A pluralidade dos mundos habitados". Edição: [[raw/kardec/revista-espirita/revista-espirita-1863]].
+- KARDEC, Allan. *Revista Espírita*, jan/1863, "Bibliografia — A pluralidade dos mundos habitados". Edição: [[raw/kardec/revista-espirita/1863/01-janeiro|raw/kardec/revista-espirita/1863/]].
 - KARDEC, Allan. *Revista Espírita*, abr/1863, "Os Espíritos e o Espiritismo, pelo Sr. Flammarion".

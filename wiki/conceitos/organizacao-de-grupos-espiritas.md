@@ -122,5 +122,5 @@ Estas instruções permanecem como referência fundamental para a organização 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, caps. XXIX–XXX. Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *Revista Espírita*, dezembro de 1861, "Organização do Espiritismo" (25 itens). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].
+- KARDEC, Allan. *Revista Espírita*, dezembro de 1861, "Organização do Espiritismo" (25 itens). Edição local: [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]].
 - Kardec, Allan. *Viagem Espírita em 1862*. Instruções X–XI; Projeto de regulamento.

@@ -72,5 +72,5 @@ A *Ilíada* e a *Odisseia* — obras terrenas atribuídas a Homero — não são
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, nov/1860, "Homero". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, nov/1860, "Homero". Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIV (Da identidade dos Espíritos). FEB.

@@ -67,4 +67,4 @@ Descreveu a separação como uma "oscilação descontínua, uma espécie de arra
 ## Fontes
 
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "O Doutor Vignal". FEB.
-- Kardec, Allan. *Revista Espírita*, mar/1860, "Estudo sobre o Espírito das pessoas vivas — O Dr. Vignal" (sessão de 03/02/1860). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- Kardec, Allan. *Revista Espírita*, mar/1860, "Estudo sobre o Espírito das pessoas vivas — O Dr. Vignal" (sessão de 03/02/1860). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].

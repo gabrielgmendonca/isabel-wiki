@@ -66,5 +66,5 @@ Comentário de Kardec, equilibrando a crítica de Plínio sobre o "século":
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, mar/1859, "Plínio, o moço" — incluindo "Carta a Sura (Liv. VII - Carta 27)" e "Respostas de Plínio às perguntas dirigidas na sessão do dia 28 de janeiro, na Sociedade". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, mar/1859, "Plínio, o moço" — incluindo "Carta a Sura (Liv. VII - Carta 27)" e "Respostas de Plínio às perguntas dirigidas na sessão do dia 28 de janeiro, na Sociedade". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - PLÍNIO, o moço. *Cartas*. Edição francesa de referência citada por Kardec; em português, *Cartas Selectas* (várias edições).

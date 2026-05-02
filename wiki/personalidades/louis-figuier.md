@@ -72,5 +72,5 @@ Sobre o efeito propagandístico involuntário:
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, set/1860 ("O maravilhoso e o sobrenatural" + "História do maravilhoso e do sobrenatural — Por Louis Figuier") e dez/1860 ("História do maravilhoso (pelo Sr. Louis Figuier)"). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, set/1860 ("O maravilhoso e o sobrenatural" + "História do maravilhoso e do sobrenatural — Por Louis Figuier") e dez/1860 ("História do maravilhoso (pelo Sr. Louis Figuier)"). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - FIGUIER, Louis. *Histoire du merveilleux dans les temps modernes*. Paris: L. Hachette, 1860. 4 volumes.

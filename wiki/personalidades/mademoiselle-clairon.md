@@ -57,4 +57,4 @@ Comentário final de Kardec:
 
 - Kardec, Allan. *Revista Espírita*, fev/1858, "Mademoiselle Clairon e o fantasma".
 - CLAIRON, Hippolyte. *Mémoires d'Hippolyte Clairon, et réflexions sur l'art dramatique*. Paris, 1798.
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].

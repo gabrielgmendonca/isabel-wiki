@@ -63,4 +63,4 @@ Em paralelo, Erasto dita uma **comunicação aos Espíritas Bordeleses** que Kar
 
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Cap. I, item 10; cap. XXI. Traducao de Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. XVI (itens 185, 189). Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *Revista Espírita*, outubro de 1861, "Epístola de Erasto aos Espíritas Lioneses"; novembro de 1861, comunicação aos Bordeleses lida na Reunião Geral de 14/10/1861. Edição local: [[raw/kardec/revista-espirita/revista-espirita-1861]].
+- KARDEC, Allan. *Revista Espírita*, outubro de 1861, "Epístola de Erasto aos Espíritas Lioneses"; novembro de 1861, comunicação aos Bordeleses lida na Reunião Geral de 14/10/1861. Edição local: [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]].

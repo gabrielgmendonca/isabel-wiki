@@ -74,4 +74,4 @@ Detalhamento por volume em [[wiki/obras/revista-espirita-1859]].
 
 - Kardec, Allan. *O Livro dos Espíritos*. Prolegômenos; q. 1004–1009; q. 1019. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. IV (item 74), cap. XXIV (item 266), cap. XXXI. Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *Revista Espírita*, fev, mar, mai, jun e jul/1858 (dissertações morais e respostas técnicas). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Kardec, Allan. *Revista Espírita*, fev, mar, mai, jun e jul/1858 (dissertações morais e respostas técnicas). Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].

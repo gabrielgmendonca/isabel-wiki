@@ -69,4 +69,4 @@ Não há obras psicografadas atribuídas. As referências do Espírito são toda
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, ago/1859, "Palestras familiares de além-túmulo — Voltaire e Frederico". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, ago/1859, "Palestras familiares de além-túmulo — Voltaire e Frederico". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].

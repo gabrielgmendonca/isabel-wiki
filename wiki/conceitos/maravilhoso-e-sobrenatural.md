@@ -99,7 +99,7 @@ Nenhuma. O conceito é fixado por Kardec na *Revista* de 1860 e entra intacto em
 
 ## Fontes
 
-- KARDEC, Allan. *Revista Espírita*, set/1860, "O maravilhoso e o sobrenatural" (artigo programático). Edição local: [[raw/kardec/revista-espirita/revista-espirita-1860]].
+- KARDEC, Allan. *Revista Espírita*, set/1860, "O maravilhoso e o sobrenatural" (artigo programático). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
 - KARDEC, Allan. *Revista Espírita*, out/1859, "Os milagres"; nov/1859, "Observações a propósito do vocábulo milagre" (formulações antecedentes).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XIII (Os fluidos), cap. XIV (Os fluidos no organismo), cap. XV (Os milagres do Evangelho).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 1ª parte, cap. I.

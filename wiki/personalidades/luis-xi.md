@@ -57,4 +57,4 @@ Kardec sobre o valor do trabalho:
 ## Fontes
 
 - Kardec, Allan. *Revista Espírita*, mar, mai e jun/1858 ("Confissões de Luís XI — História de sua vida, ditada por ele mesmo").
-- Edição local: [[raw/kardec/revista-espirita/revista-espirita-1858]].
+- Edição local: [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]].

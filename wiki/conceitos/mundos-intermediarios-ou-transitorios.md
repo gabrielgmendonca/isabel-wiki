@@ -96,5 +96,5 @@ Não há.
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 234-236 ("Mundos transitórios", 2ª parte, cap. VI). Edição local: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 113 ("Espíritos puros", 1ª ordem da escala espírita). Edição local: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. III, item 4 ("Diferentes categorias de mundos habitados"). Edição local: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
-- KARDEC, Allan. *Revista Espírita*, mai/1859, "Mundos intermediários ou transitórios". Edição local: [[raw/kardec/revista-espirita/revista-espirita-1859]].
+- KARDEC, Allan. *Revista Espírita*, mai/1859, "Mundos intermediários ou transitórios". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - KARDEC, Allan. *Revista Espírita*, abr/1859, comunicação espontânea de Mozart sobre o tema (artigo precursor).
