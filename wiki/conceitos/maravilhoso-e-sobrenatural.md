@@ -76,6 +76,18 @@ Kardec mantém o **fato extraordinário** (raro, surpreendente, novo) como categ
 
 Na acepção etimológica, todo fenômeno surpreendente é "milagre". Na acepção doutrinária católica medieval, "milagre" passou a significar derrogação das leis. O Espiritismo recupera o sentido etimológico (admiração diante do extraordinário natural) e recusa o sentido teológico (derrogação).
 
+### Caso paradigmático — [[wiki/personalidades/thomas-martin|Thomas Martin]] de Gallardon (RE dez/1866)
+
+A análise de Kardec do caso **Thomas-Ignace Martin de Gallardon** (camponês iletrado da Beauce que recebeu aparições do **Anjo Rafael** em 1816 e foi recebido pelo rei Luís XVIII em 02/04/1816) é exemplo cabal da **recusa metodológica do sobrenatural** aplicada a um fenômeno aparentemente milagroso.
+
+Em [[wiki/obras/revista-espirita-1866|RE dez/1866]], Kardec enfrenta **três hipóteses concorrentes**:
+
+1. **Hipótese teológica do milagre/sobrenatural** — descartada pela própria natureza espírita do fenômeno (mediunidade vidente e auditiva ordinária, não derrogação de lei natural).
+2. **Hipótese da alucinação subjetiva** — descartada pelos próprios exames oficiais (Dr. Pinel concluiu apenas pela *"possibilidade"* de alucinação, sem encontrar sintomas; observação prolongada em Charenton não detectou patologia). Mais decisivamente: a hipótese da alucinação não explica as **revelações verificáveis** (conhecimento prévio de eventos que vão acontecer, identificação de pessoas que Martin não conhece, transcrição de conversa em inglês que Martin não falava).
+3. **Hipótese dos efeitos ópticos** — refutação cirúrgica de Kardec: como aparelhos ópticos complicados poderiam ter sido dispostos *"num campo isolado de qualquer habitação"*, em pleno sol, num porão escuro, na escada de um hotel, no interior de um celeiro, dentro de uma igreja durante o ofício, e segui-lo até Charenton? *"Estas espécies de imagens artificiais são vistas por todos os espectadores. Como é que dentro da igreja e ao sair da igreja somente Martin viu o indivíduo?"*
+
+O diagnóstico positivo: **mediunidade vidente, auditiva e escrevente** (caso natural sob leis dos fluidos), com prova de identidade externa e múltipla. Caso paralelo estruturalmente a [[wiki/personalidades/maria-dagreda|Maria d'Agreda]] (RE nov/1860) e ao Padre Dégenettes (RE ago/1865), compondo a série de fenômenos católicos relidos pelo Espiritismo como mediunidade autêntica — e demolindo a tese do *"demônio único agente"* defendida por bispos contemporâneos.
+
 ## Aplicação prática
 
 - **Em estudo doutrinário:** sempre que um leitor ou crítico empregar "sobrenatural" ou "milagre" para descrever fenômeno espírita, propor a substituição por "fenômeno natural ainda não compreendido" ou "fenômeno extraordinário explicado pelas leis dos fluidos e do perispírito".

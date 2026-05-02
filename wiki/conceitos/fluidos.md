@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, LM, ESE, Gênese]
-tags: [fluidos, fluido-espiritual, fluido-vital, fluido-magnetico, perispirito, pensamento, obra/le, obra/lm, obra/ese, obra/genese, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-06
+fontes: [LE, LM, ESE, Gênese, RE]
+tags: [fluidos, fluido-espiritual, fluido-vital, fluido-magnetico, perispirito, pensamento, obra/le, obra/lm, obra/ese, obra/genese, obra/re, autor/kardec, grau/intermediario, tema/espiritos]
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -61,6 +61,17 @@ O perispírito, saturado de fluidos ambientes, atua sobre o corpo material. Flui
 
 O remédio está na qualidade do pensamento: "como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la, pois que são as imperfeições da alma que atraem os Espíritos maus" (Gênese, cap. XIV, item 21).
 
+### Preparação direta na *Revista Espírita* — 1866
+
+O cap. XIV de [[wiki/obras/genese|Gênese]] (1868) tem como **texto-matriz** o tratado "Introdução ao estudo dos fluidos espirituais", publicado em [[wiki/obras/revista-espirita-1866|RE mar/1866]]. Esse artigo de 10 seções romanas é o estudo cosmológico fundacional da metafísica espírita. Pontos centrais que entram em Gênese:
+
+- **Unidade da matéria** (II) — química como prova da combinatória de elementos simples; impotência humana de reconstituir o vivo.
+- **Tese do fluido cósmico universal** (III) — todos os corpos reputados simples são modificações de um único princípio: *"os corpos reputados simples não passam de modificações, de transformações de um elemento único, princípio universal designado sob os nomes de éter, fluido cósmico ou fluido universal"*; calórico, luz, eletricidade, magnetismo são variantes desse fluido único.
+- **Articulação com Moisés e Paulo como antecipações intuitivas** (VII) — *"Sendo o fluido universal o princípio de todos os corpos da Natureza [...] Moisés estava certo quando disse: 'Deus formou o corpo do homem do limo da terra'"* (Gn 2:7). E São Paulo: *"renascemos com um corpo espiritual"* (1Co 15:35–44, 50). As intuições proféticas eram acertadas; faltava a articulação científica.
+- **Mecanismo da formação do perispírito** (VII) — *"o perispírito é, igualmente, uma condensação do fluido cósmico em redor do foco de inteligência, ou alma. Mas aqui a transformação molecular opera-se diferentemente, porque o fluido conserva sua imponderabilidade e suas qualidades etéreas. O corpo perispiritual e o corpo humano têm, pois, sua fonte no mesmo fluido"*.
+- **Aparições como modificação atômica momentânea** (VIII) — *"A aparência se forma e se dissipa instantaneamente, o que explica as aparições e as desaparições súbitas. Sendo as aparições o produto de um fluido material invisível, tornado visível por força de uma mudança momentânea na sua constituição molecular, não são mais sobrenaturais que os vapores que alternadamente se tornam visíveis ou invisíveis pela condensação ou pela rarefação."*
+- **Classificação dos dois estados do fluido** (X) — eterização (estado normal primitivo, imponderabilidade) e materialização (estado consecutivo, ponderabilidade); fluidos imponderáveis como termo médio.
+
 ## Distinção: fluido cósmico universal vs. fluidos
 
 O **fluido cósmico universal** é a substância-mãe, una e indiferenciada. **Fluidos** é o termo genérico para suas incontáveis diferenciações — como "água" é uma substância e "soluções" são suas variações. Os fluidos espirituais não possuem qualidades intrínsecas (*sui generis*), mas "as que adquirem no meio onde se elaboram" (Gênese, cap. XIV, item 17).
@@ -84,6 +95,7 @@ A teoria dos fluidos fundamenta a compreensão espírita de: passe magnético, o
 - [[wiki/obras/livro-dos-mediuns]] — 2ª parte, cap. IV (itens 74–99)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XXVII, item 9; cap. XXVIII, itens 80, 83
 - [[wiki/obras/genese]] — cap. XIV
+- [[wiki/obras/revista-espirita-1866]] — "Introdução ao estudo dos fluidos espirituais" (RE mar/1866), texto-matriz de Gênese cap. XIV
 
 ## Fontes
 
@@ -91,3 +103,4 @@ A teoria dos fluidos fundamenta a compreensão espírita de: passe magnético, o
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. IV (itens 74–99), cap. XIV (item 161). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9; cap. XXVIII, itens 80, 83. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 1–21. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. "Introdução ao estudo dos fluidos espirituais". *Revista Espírita*, ano 1866, março. Edição: [[raw/kardec/revista-espirita/1866/03-marco]].

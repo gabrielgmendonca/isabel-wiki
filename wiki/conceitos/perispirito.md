@@ -50,6 +50,16 @@ O cap. XIV de *A Gênese* apresenta o desenvolvimento mais completo sobre o peri
 - **Irradiação fluídica**: o perispírito não se circunscreve ao corpo — "irradia ao seu derredor e o envolve como que de uma atmosfera fluídica" (Gênese, cap. XIV, item 18). Por essa expansão, o encarnado se relaciona com Espíritos livres e com outros encarnados.
 - **Couraça moral**: "O perispírito, portanto, é uma couraça a que se deve dar a melhor têmpera possível. Ora, como as suas qualidades guardam relação com as da alma, importa se trabalhe por melhorá-la" (Gênese, cap. XIV, item 21).
 
+## Texto-matriz na *Revista Espírita* (RE mar/1866)
+
+O cap. XIV de [[wiki/obras/genese|*A Gênese*]] tem como base direta o tratado "Introdução ao estudo dos fluidos espirituais" publicado em [[wiki/obras/revista-espirita-1866|RE mar/1866]] (10 seções romanas). Pontos centrais especificamente sobre o perispírito:
+
+- **Mecanismo de formação fluídica** (seção VII): *"o perispírito é, igualmente, uma condensação do fluido cósmico em redor do foco de inteligência, ou alma. Mas aqui a transformação molecular opera-se diferentemente, porque o fluido conserva sua imponderabilidade e suas qualidades etéreas."*
+- **Identidade material com o corpo, em estado diferente**: *"O corpo perispiritual e o corpo humano têm, pois, sua fonte no mesmo fluido; um e outro são matéria, embora sob dois estados diferentes."*
+- **Articulação com Moisés (Gn 2:7)**: *"Sendo o fluido universal o princípio de todos os corpos da Natureza, animados e inanimados [...] Moisés estava certo quando disse: 'Deus formou o corpo do homem do limo da terra'. Isto não quer dizer que Deus tomou um pouco de terra, a petrificou e com ela modelou o corpo do homem [...], mas que o corpo era formado dos mesmos princípios ou elementos."*
+- **Articulação com Paulo (1Co 15)**: *"Como envoltório do Espírito após a morte, ele foi suspeitado desde a mais alta Antiguidade [...]. São Paulo diz em termos precisos que nós renascemos com um corpo espiritual."*
+- **Aparições como modificação atômica momentânea**: *"De qualquer maneira pela qual se opere a modificação atômica do fluido, não há coesão como nos corpos materiais; a aparência se forma e se dissipa instantaneamente, o que explica as aparições e as desaparições súbitas."*
+
 ## Base escritural: 1 Coríntios 15
 
 A referência neotestamentária clássica do perispírito é 1 Coríntios 15, onde Paulo enfrenta a pergunta "como ressuscitarão os mortos? E com que corpo virão?" ([[raw/biblia-acf/1-corintios/15|1 Co 15]]:35).

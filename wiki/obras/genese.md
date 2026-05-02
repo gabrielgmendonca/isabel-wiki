@@ -101,6 +101,21 @@ Kardec reafirma o critério de validade da doutrina: o ensino coletivo e concord
 - **Geração nova** → [[wiki/conceitos/geracao-nova]]
 - **Livre-arbítrio** → [[wiki/conceitos/livre-arbitrio]]
 
+## Preparação na *Revista Espírita*
+
+A maior parte dos capítulos doutrinários de *A Gênese* (1868) foi **preparada em artigos da Revista Espírita** publicados entre 1864 e 1867. Os textos-matriz mais nítidos:
+
+| Capítulo de *Gênese* | Texto-matriz na *Revista Espírita* |
+|---------------------|-----------------------------------|
+| **Cap. I** — Caráter da revelação espírita | "Autoridade da doutrina espírita; controle universal do ensino dos Espíritos" ([[wiki/obras/revista-espirita-1864|RE abr/1864]]) + "O que ensina o Espiritismo" ([[wiki/obras/revista-espirita-1865|RE ago/1865]]) + ⭐⭐⭐ **"Da revelação"** ([[wiki/obras/revista-espirita-1866|RE abr/1866]]) |
+| **Cap. II** — Deus | ⭐⭐⭐ **"Deus está em toda parte"** + **"A vista de Deus"** ([[wiki/obras/revista-espirita-1866|RE mai/1866]]) |
+| **Cap. III** — O bem e o mal | ⭐⭐ **"Destruição recíproca dos seres vivos"** ([[wiki/obras/revista-espirita-1865|RE abr/1865]]) |
+| **Cap. XI** — Gênese espiritual / anjos decaídos | "Ensaio de interpretação da doutrina dos anjos decaídos" ([[wiki/obras/revista-espirita-1862|RE jan/1862]]) |
+| **Cap. XIV** — Os fluidos | ⭐⭐⭐ **"Introdução ao estudo dos fluidos espirituais"** ([[wiki/obras/revista-espirita-1866|RE mar/1866]]) — texto-matriz integral em 10 seções |
+| **Cap. XVIII** — Os tempos são chegados | ⭐⭐⭐ **"Os tempos são chegados"** + **"Instruções dos Espíritos sobre a regeneração da humanidade"** ([[wiki/obras/revista-espirita-1866|RE out/1866]]) — texto-matriz integral; "Imigração de Espíritos superiores para a Terra" (Mesmer, [[wiki/obras/revista-espirita-1865|RE mai/1865]]) como preparação |
+
+A continuidade comprova o **método espírita** descrito por Kardec em *A Gênese* cap. I, item 54: a doutrina é construída por sedimentação progressiva de instruções dos Espíritos coletadas e analisadas ao longo de uma década, depois sistematizadas em obra metódica.
+
 ## Aprofundamentos relacionados
 
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — bloco cosmogônico–geológico–orgânico (caps. VI a X), com aprofundamento mediúnico de Emmanuel.

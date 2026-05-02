@@ -1,7 +1,7 @@
 ---
 tipo: conceito
-fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
+fontes: [LM, ESE, RE]
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade, obra/re]
 atualizado_em: 2026-05-01
 status: ativo
 ---
@@ -224,6 +224,15 @@ A possessão é redimida não por exorcismo, mas pela conversão dos dois — v�
 **A doutrina operativa unificadora**: Áulus reforça em todos os casos a regra do joio e do trigo (Mt 13) — não basta arrancar; "é preciso saber até que ponto a raiz dele se entranha no solo com a raiz do trigo, para que não venhamos a esmagar um e outro" (cap. 23). Toda obsessão repousa em **reciprocidade**: "Não seria lícito guardarmos a pretensão de lavrar sentenças definitivas pró ou contra ninguém, porque, na posição em que ainda nos achamos, todos possuímos contas maiores ou menores por liquidar". A **desobsessão envolvente** já formulada em *Entre a Terra e o Céu* é confirmada como princípio geral.
 
 Ver [[wiki/obras/nos-dominios-da-mediunidade]].
+
+### Casos da *Revista Espírita 1866* — Cazères + Marmande
+
+Em [[wiki/obras/revista-espirita-1866|RE fev/1866]], dois casos longitudinais reforçam o tratamento sistemático da obsessão como **categoria distinta da loucura patológica**, tratável pela moralização do Espírito obsessor:
+
+- **Caso de Cazères** (relato de 07/01/1866): jovem de 22 anos, saúde perfeita, acometida de acesso de loucura furiosa; tratamento médico convencional ineficaz; internada em hospício sem melhora. Pais não conheciam o Espiritismo. Os guias do grupo de Cazères diagnosticaram **Espírito obsessor rebelde**; após **oito dias de evocação e moralização** do obsessor (sem qualquer contato físico com a doente, a léguas de distância), a paciente é curada — **prova definitiva** de que a causa não era patológica. *"Eis uma jovem [...] que é curada a léguas de distância por pessoas que jamais a viram, sem nenhum medicamento ou tratamento médico, apenas pela moralização do Espírito obsessor."*
+- **Caso do grupo de Marmande** (mesma RE fev/1866): camponês J... tomado de loucura furiosa, atacando familiares com forcado e os animais do pátio; autorização para internamento em Cadilac obtida. Antes da internação, parente procura o **Sr. Dombre** (já citado em RE 1865 pelo caso Valentine Laurent — terceiro caso longitudinal do mesmo grupo); diagnóstico de obsessão grave; **oito dias de moralização** do Espírito obsessor reconduzem o camponês ao estado normal sem nenhum tratamento físico. Particularidade: o Espírito obsessor declarou *"não ter qualquer motivo de ódio contra aquele homem; que, atormentado pela necessidade de fazer o mal, havia se agarrado a ele como a qualquer outro"*.
+
+Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes que não é exagero dizer que nos hospícios de alienados mais da metade apenas têm a aparência de loucura e que, por isto mesmo, a medicação vulgar não faz efeito."* — tese reforçada poucos meses depois pelo artigo "Estatística da loucura" ([[wiki/obras/revista-espirita-1866|RE jul/1866]]) que **refuta documentalmente** a acusação anti-espírita de que o Espiritismo causa loucura (com dados oficiais do Ministério da Agricultura no *Moniteur* de 16/04/1866).
 
 ## Páginas relacionadas
 

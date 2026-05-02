@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Gênese, André Luiz/Chico Xavier]
-tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, andre-luiz, obra/le, obra/ese, obra/genese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/deus]
-atualizado_em: 2026-04-26
+fontes: [LE, ESE, Gênese, RE, André Luiz/Chico Xavier]
+tags: [fluido-cosmico-universal, materia-cosmica, eter, materia, criacao, andre-luiz, obra/le, obra/ese, obra/genese, obra/re, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/deus]
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -44,6 +44,14 @@ São-lhe inerentes todas as **forças** do universo: gravidade, coesão, afinida
 O fluido cósmico é também a matéria-prima do **princípio vital**: este é "uma das modificações do fluido cósmico, pela qual este se torne princípio de vida, como se torna luz, fogo, calor, eletricidade" (Gênese, cap. X, item 17).
 
 E é a matéria-prima do **perispírito**: "O perispírito [...] é um dos mais importantes produtos do fluido cósmico; é uma condensação desse fluido em torno de um foco de inteligência ou alma" (Gênese, cap. XIV, item 7).
+
+### Preparação direta na *Revista Espírita* — 1866
+
+O cap. XIV de [[wiki/obras/genese|Gênese]] tem como **texto-matriz** o artigo "Introdução ao estudo dos fluidos espirituais" publicado em [[wiki/obras/revista-espirita-1866|RE mar/1866]]. Pontos centrais sobre o fluido cósmico universal:
+
+- **Tese da unidade material** — *"os corpos reputados simples não passam de modificações, de transformações de um elemento único, princípio universal designado sob os nomes de éter, fluido cósmico ou fluido universal"* (RE mar/1866, seção III). O calórico, a luz, a eletricidade, o magnetismo são variantes desse fluido único.
+- **Substrato comum dos corpos ponderáveis e imponderáveis** — *"esse fluido que, segundo toda probabilidade, é imponderável, seria ao mesmo tempo o princípio dos fluidos imponderáveis e dos corpos ponderáveis"* (RE mar/1866, seção III).
+- **Articulação com Moisés (Gn 2:7) e Paulo (1Co 15)** como antecipações intuitivas — *"Sendo o fluido universal o princípio de todos os corpos da Natureza [...] Moisés estava certo quando disse: 'Deus formou o corpo do homem do limo da terra'"* (RE mar/1866, seção VII).
 
 ## Em André Luiz: o "plasma divino"
 
@@ -95,4 +103,5 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - Kardec, Allan. *O Livro dos Espíritos*, q. 27–29, q. 65, q. 282. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. VI, itens 7–10; cap. X, item 17; cap. XIV, itens 2, 7. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. "Introdução ao estudo dos fluidos espirituais". *Revista Espírita*, ano 1866, março. Edição: [[raw/kardec/revista-espirita/1866/03-marco]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

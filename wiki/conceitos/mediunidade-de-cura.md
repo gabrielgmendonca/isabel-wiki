@@ -74,6 +74,15 @@ Kardec é firme: *"se o demônio vem à Terra curar os incuráveis, abandonados 
 
 A cura mediúnica não é universal: há casos em que o Espírito orientador recusa intervir (a doença é prova/expiação que deve seguir seu curso); há casos em que a faculdade do médium é insuficiente; há casos em que a fé do paciente é necessária. A doutrina espírita **não promete cura para tudo** — a cura, quando ocorre, é dom, não direito; e quando não ocorre, isso não invalida a doutrina nem o médium.
 
+### Sistematização institucional na *Revista Espírita 1866*
+
+O ano de 1866 traz **três casos novos** que reforçam a sistematização institucional da mediunidade de cura:
+
+- **"Cura de uma fratura - Pela magnetização espiritual"** + **"Da mediunidade curadora"** (RE set/1865) já fixaram a doutrina; em 1866 ela é aplicada em escala mais ampla.
+- **"O zuavo curador do campo de Châlons"** ([[wiki/obras/revista-espirita-1866|RE out/1866]]) — caso de mediunidade curadora militar em ambiente de caserna; comprova que a faculdade é independente de classe social, instrução ou meio cultural.
+- **"Considerações sobre a propagação da mediunidade curadora"** ([[wiki/obras/revista-espirita-1866|RE nov/1866]]) — artigo metodológico-institucional sobre o **crescimento da prática** entre os adeptos e a necessidade de organização cuidadosa para **não cair sob acusação de exercício ilegal da medicina** (preocupação editorial reiterada em "O Espiritismo e a magistratura", RE mar/1866).
+- **"O príncipe de Hohenlohe, médium curador"** ([[wiki/obras/revista-espirita-1866|RE dez/1866]]) — caso histórico católico de mediunidade curadora exercida por dignitário eclesiástico, **rebaixada ao estatuto de fenômeno natural** pela leitura espírita. Continuidade da série anti-eclesiástica (Maria d'Agreda, Padre Dégenettes, Thomas Martin) que demonstra a presença de fenômenos mediúnicos autênticos no próprio universo católico.
+
 ### Continuidade na literatura mediúnica
 
 A mediunidade de cura recebeu desenvolvimentos extensos em autores pós-Kardec:

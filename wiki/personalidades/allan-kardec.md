@@ -78,6 +78,14 @@ Outros marcos doutrinários de 1862:
 - **Estudo biográfico de [[wiki/personalidades/apolonio-de-tiana|Apolônio de Tiana]]** (out/1862) — recusa do milagre como prova de divindade.
 - **Instituição dos membros honorários da SPEE** (out/1862) — Dombre, Jaubert, Bouché de Vitray, Roustaing entre os primeiros.
 
+## Anos finais (1865–1869) — Pentateuco fechado, doença, "Os tempos são chegados"
+
+Após a publicação de [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]] em **agosto/1865** — quinto livro do Pentateuco — Kardec entra na **fase final** de sua atuação. Na **Alocução de reabertura da SPEE de 6/10/1865** (publicada em [[wiki/obras/revista-espirita-1865|RE nov/1865]]), declara expressamente: *"os trabalhos que me restam para terminar são consideráveis, devo apressar-me, a fim de estar pronto em tempo oportuno"*. Os trabalhos: [[wiki/obras/genese|*A Gênese*]] (1868), 2ª edição da *Constituição do Espiritismo* (1868), 4ª edição revisada de *O Que é o Espiritismo*, e o material que comporá [[wiki/obras/obras-postumas|*Obras Póstumas*]] (1890).
+
+**1866 — ano-charneira pós-Pentateuco.** Kardec adoece em **abril/1866** — período de *"sonolência e absorção quase contínuas"* mencionado no artigo "Um sonho instrutivo" ([[wiki/obras/revista-espirita-1866|RE jun/1866]]) com a visão simbólica da *borracha enrolada sob a roda* (24/04/1866). É o primeiro registro público de uma fragilidade física que se agravará nos anos seguintes. Apesar disso, 1866 é ano de **alta produtividade doutrinária**: quatro artigos do volume são textos-matriz integrais de capítulos de *Gênese* (caps. I, II, XIV, XVIII). O artigo ⭐⭐⭐ "**Os tempos são chegados**" + "Instruções dos Espíritos sobre a regeneração da humanidade" ([[wiki/obras/revista-espirita-1866|RE out/1866]]) **fixa em prosa madura** a doutrina da [[wiki/conceitos/geracao-nova]] já anunciada por Mesmer (RE mai/1865) e antecipada na comunicação de **30/jan/1866** (cit. em OPE, *Livro das Previsões*).
+
+**SPEE em 1866 — 9º ano social.** Reabertura em 1/abr/1866. Três exéquias institucionais: Sr. **Didier** (livreiro-editor das obras de Kardec, m. 02/12/1865, com alocução de Kardec na SPEE em 8/12/1865 — RE jan/1866); Sra. **Dozon**, Sr. **Fournier**, Sr. **D'Ambel** (RE dez/1866). Adesão pública de magistrados de alto escalão: Sr. **[[wiki/personalidades/jaubert|Jaubert]]** (vice-presidente do tribunal de Carcassonne, RE jan + mar/1866) e Sr. F. Blanchard (carta ao *La Liberté*, RE abr/1866).
+
 ## Primeira iniciação no Espiritismo
 
 Nas *Obras Póstumas*, Kardec relata em primeira pessoa os passos que o levaram ao Espiritismo:

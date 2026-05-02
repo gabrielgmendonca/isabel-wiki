@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM]
-tags: [identidade, comunicacoes, discernimento, apocrifas, escala-espirita, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-04-06
+fontes: [LM, RE]
+tags: [identidade, comunicacoes, discernimento, apocrifas, escala-espirita, obra/lm, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -60,6 +60,12 @@ A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] traz dois cas
 **Caso Carrère** (RE mar/1862) — subchefe de turma da estação ferroviária de Bordeaux, morto em 18/12/1861 no comando de uma manobra. A Sra. Beautey, esposa do chefe da estação, **vê o Espírito de Carrère em vigília** (sem ser médium iniciada) e o descreve com tal exatidão que o marido o reconhece imediatamente. Particularidade decisiva: **a Sra. Beautey jamais o vira em vida**. Caso-modelo do princípio "particularidade desconhecida do médium como prova de identidade".
 
 **Caso [[wiki/personalidades/sr-sanson|Sanson]]** (RE mai–out/1862) — membro da SPEE morto em 21/04/1862, evocado no dia do enterro pelo médium **Leymarie**, que jamais o conhecera em vida. Leymarie descreve seu caráter (*"o tipo do verdadeiro filósofo"*, sua paciência na doença, sua serenidade ante a morte) com exatidão depois confirmada por todos os assistentes que o conheceram. Caso-modelo do critério da **linguagem como prova** — o estilo do Espírito coincide com o do encarnado conhecido por outros.
+
+**Caso N. G. Bach / Henrique III** (RE jul/1865 + continuação RE fev/1866 "A Espineta de Henrique III") — bisneto de Sebastian Bach, professor de piano em Paris; após receber em 04/05/1865 uma espineta de 1564, sonha com personagem da corte de Henrique III; ao acordar encontra na cama folha de música com escrita microscópica antiga — letra e melodia cuja **ortografia "absolutamente não é familiar ao Sr. Bach"**. Caso paradigmático cruzando escrita direta nocturna, audição mediúnica e prova histórica.
+
+**"Identidade dos Espíritos nas comunicações particulares"** (RE jul/1866, "Questões e problemas") — artigo metodológico especificamente dedicado ao discernimento da identidade em comunicações pessoais (mais difíceis que em sessões coletivas, porque a sugestão íntima do médium pode mascarar a comunicação real). Reforça os critérios já fixados em LM cap. XXIV.
+
+**Caso [[wiki/personalidades/thomas-martin|Thomas Martin]] de Gallardon** (RE dez/1866) — caso paradigmático com **prova de identidade externa e múltipla**: previsão antecipada de eventos verificados (encontros, viagens), conhecimento de língua estrangeira (inglês) ignorada pelo médium, reconhecimento das advertências pelo próprio rei Luís XVIII em 02/04/1816. Demonstra que a identidade do Espírito é demonstrável por **convergência de provas externas independentes** — não apenas pelo conteúdo subjetivo da mensagem.
 
 ## Aplicação prática
 
