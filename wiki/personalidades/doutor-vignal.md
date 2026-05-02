@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [C&I, RE]
 tags: [ceu-e-inferno, espiritos-felizes, doutor-vignal, espirito-vivo, desprendimento, obra/ci, obra/re, autor/kardec, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Membro titular da Sociedade Parisiense de Estudos Espíritas. Residente em **Sully** (proximidades de Paris). Morreu em 27 de março de 1865. Na véspera do enterro, um sonâmbulo lúcido descreveu o trabalho de separação do Espírito como "uma massa que se agita, e como algo que faz esforços para se desprender". Evocado na Sociedade de Paris em 31 de março de 1865 — caso registrado em [[wiki/obras/ceu-e-inferno]].
+Membro titular da Sociedade Parisiense de Estudos Espíritas. Residente em **Sully** (proximidades de Paris). Faleceu em **25 de março de 1865**. Na véspera do enterro, um sonâmbulo lúcido descreveu o trabalho de separação do Espírito como "uma massa que se agita, e como algo que faz esforços para se desprender". Evocado na Sociedade de Paris em **31 de março de 1865** (médium Sr. Diesliens) — caso publicado em [[wiki/obras/revista-espirita-1865|RE mai/1865]] ("Palestras de além-túmulo - O Doutor Vignal") e registrado em [[wiki/obras/ceu-e-inferno]].
 
 **Cinco anos antes**, em **3 de fevereiro de 1860**, o Dr. Vignal foi voluntariamente o **segundo sócio** a oferecer-se para o estudo experimental do Espírito de pessoa viva, na esteira do precedente do [[wiki/personalidades/conde-de-r-c|Conde de R… C…]] (jan/1860). A sessão é publicada em [[wiki/obras/revista-espirita-1860]] (mar/1860, "Estudo sobre o Espírito das pessoas vivas").
 
@@ -55,7 +55,8 @@ Descreveu a separação como uma "oscilação descontínua, uma espécie de arra
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/obras/revista-espirita-1860]] — fascículo de março ("Estudo sobre o Espírito das pessoas vivas").
+- [[wiki/obras/revista-espirita-1860]] — fascículo de março ("Estudo sobre o Espírito das pessoas vivas") — primeiro estudo, com Vignal vivo.
+- [[wiki/obras/revista-espirita-1865]] — fascículo de maio ("Palestras de além-túmulo - O Doutor Vignal") — segundo estudo, pós-morte; **continuidade longitudinal única** de cinco anos na *Revista*.
 - [[wiki/conceitos/emancipacao-da-alma]] — fenômeno do desligamento do Espírito durante o sono.
 - [[wiki/conceitos/bicorporeidade]] — caso-limite do mesmo fenômeno (LM cap. VIII).
 - [[wiki/conceitos/desligamento-do-espirito]]
@@ -68,3 +69,4 @@ Descreveu a separação como uma "oscilação descontínua, uma espécie de arra
 
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. II, "O Doutor Vignal". FEB.
 - Kardec, Allan. *Revista Espírita*, mar/1860, "Estudo sobre o Espírito das pessoas vivas — O Dr. Vignal" (sessão de 03/02/1860). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
+- Kardec, Allan. *Revista Espírita*, mai/1865, "Palestras de além-túmulo - O Doutor Vignal" (evocação de 31/03/1865 na SPEE, médium Sr. Diesliens). Edição local: [[raw/kardec/revista-espirita/1865/05-maio|raw/kardec/revista-espirita/1865/05-maio]].

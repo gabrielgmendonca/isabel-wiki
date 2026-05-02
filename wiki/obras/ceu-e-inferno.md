@@ -4,7 +4,7 @@ fontes: [C&I]
 tags: [kardec, pentateuco, codificacao, ceu, inferno, penas-eternas, anjos, demonios, purgatorio, obra/ci, autor/kardec, tema/vida-futura]
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -20,6 +20,7 @@ Quarta obra do Pentateuco kardequiano, publicada em Paris em agosto de 1865 (4ª
 - **Publicação original:** Agosto de 1865, Paris; 4ª edição (definitiva): 1869.
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/ceu-e-inferno]]
+- **Dossiê preparatório:** [[wiki/obras/revista-espirita-1865]] — dois capítulos foram **publicados como artigos antecipados** na *Revista*: "Da apreensão da morte" (RE fev/1865, → cap. II) e "Onde é o Céu?" (RE mar/1865, → cap. III), com nota editorial explícita de Kardec (*"extraídos da nova obra que o Sr. Allan Kardec publicará proximamente"*). Casuística pós-publicação ([[wiki/personalidades/doutor-vignal|Dr. Vignal]] mai/1865, padre Dégenettes ago/1865, Sr. Dozon ago/1865, Sr. Nant set/1865) alimenta a 2ª parte da obra.
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **1 — Pentateuco** (autoridade normativa máxima).
 
 ## Estrutura
