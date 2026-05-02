@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, C&I]
-tags: [dor, sofrimento, provas, expiacao, progresso, leon-denis, obra/le, obra/ese, obra/ci, autor/kardec, autor/leon-denis, grau/intermediario, tema/sofrimento]
-atualizado_em: 2026-04-07
+fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
+tags: [dor, sofrimento, provas, expiacao, progresso, leon-denis, andre-luiz, obra/le, obra/ese, obra/ci, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/sofrimento]
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -54,6 +54,16 @@ O materialismo não oferece consolação ao sofrimento. As religiões "exagerara
 
 > "A dor perde seu caráter assustador; não é mais um inimigo, um monstro temível; é uma ajudante, uma auxiliar, e seu papel é providencial." (Léon Denis, *O Problema do Ser*, cap. 27)
 
+## Tipologia tríplice em André Luiz (*Ação e Reação*, cap. 19)
+
+Em [[wiki/obras/acao-e-reacao]] (1957), o Instrutor [[wiki/personalidades/druso]] distingue três modalidades operacionais da dor — sistematização útil para distinguir o que cada sofrimento está pedindo do Espírito:
+
+- **Dor-evolução** — vem de fora para dentro, atua "aprimorando o ser, sem a qual não existiria progresso". É a dor do ferro sob o malho, da semente na cova, da criança que chora para desenvolver os órgãos. Não nasce de dívida moral; faz parte do exercício natural do ser.
+- **Dor-expiação** — vem de dentro para fora, "marcando a criatura no caminho dos séculos, detendo-a em complicados labirintos de aflição, para regenerá-la perante a Justiça". É a dor que [[wiki/conceitos/lei-de-causa-e-efeito|a Lei]] devolve ao Espírito por faltas conscientes; reflete-se na carne através do desequilíbrio dos centros perispirituais (cf. [[wiki/conceitos/perispirito]]).
+- **Dor-auxílio** — enfermidades prolongadas (enfarte, trombose, hemiplegia, câncer, senilidade prematura) intercedidas por amigos espirituais "para evitar-nos a queda no abismo da criminalidade, seja, mais frequentemente, para o serviço preparatório da desencarnação". É auxílio direto: a dor que **previne** queda maior, ou **prepara** a transição serena.
+
+A distinção é útil pastoralmente: nem toda dor é expiação. Diante do sofrimento alheio, a leitura kardequiana evita o juízo apressado de "está pagando alguma coisa" — pode ser evolução natural, ou auxílio amigo de cima.
+
 ## Aplicação prática
 
 - Compreender a dor como transitória e educativa alivia a revolta e abre caminho para a resignação ativa.
@@ -71,6 +81,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/conceitos/progresso-espiritual]] — finalidade última da dor
 - [[wiki/conceitos/potencias-da-alma]] — faculdades que a dor desperta
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — obra-fonte para o desenvolvimento de Denis
+- [[wiki/obras/acao-e-reacao]] — tipologia tríplice da dor (cap. 19)
 
 ## Fontes
 
@@ -78,3 +89,4 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V — "Bem-aventurados os aflitos". Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, cap. VII — "Código penal da vida futura". Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 26–27. Trad. Homero Dias de Carvalho. CELD, 2011.
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*, cap. 19. Rio de Janeiro: FEB, 1957.

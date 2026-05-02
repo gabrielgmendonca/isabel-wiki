@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, C&I, Gênese, NT]
 tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/livre-arbitrio]
-atualizado_em: 2026-04-29
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -47,6 +47,10 @@ A lei de causa e efeito **não é** acréscimo doutrinário do Espiritismo ao cr
 
 A compreensão da lei de causa e efeito é libertadora: transforma o sofrimento de castigo em oportunidade, e a felicidade de acaso em conquista merecida. Em palestras, ajuda a responder por que há desigualdade de condições entre os homens — sem recorrer a um Deus parcial ou indiferente.
 
+## Tratamentos sistemáticos posteriores
+
+[[wiki/obras/acao-e-reacao]] (André Luiz / Chico Xavier, FEB, 1957) é o tratado romanesco mais sistemático sobre a Lei de Causa e Efeito na literatura espírita complementar. Ambientado na Mansão Paz, instituição assistencial no Umbral, o livro desenvolve em 20 capítulos: a dinâmica do remorso e da memória nas zonas inferiores; o **regime de sanções** (deficiências congeniais que o próprio Espírito suplica para evitar recidiva); os **resgates coletivos** (cúmplices de delitos pretéritos reunidos em tragédia comum); e a **tipologia tríplice da dor** — dor-evolução, dor-expiação, dor-auxílio (cap. 19, ver [[wiki/conceitos/dor]]). A tese central permanece kardequiana: **o bem novo neutraliza o mal antigo** ("ondas sonoras de campos opostos resultam em silêncio", cap. 18) — não há fatalismo, há economia moral aberta à reforma.
+
 ## Divergências
 
 - [[wiki/divergencias/sangue-expiatorio-em-1-joao]] · [[wiki/divergencias/sangue-expiatorio-em-1-pedro]] · [[wiki/divergencias/sangue-expiatorio-em-galatas]] — a teologia da expiação penal substitutiva (sangue de Cristo como pagamento jurídico) é a leitura **incompatível** com a lei de causa e efeito; ver as três divergências por especificidades textuais.
@@ -63,6 +67,9 @@ A compreensão da lei de causa e efeito é libertadora: transforma o sofrimento 
 - [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
 - [[wiki/obras/epistola-aos-galatas]] — Gl 6:7–8 (semear e ceifar)
 - [[wiki/obras/primeira-epistola-de-pedro]] — 1Pe 1:17 (juízo segundo a obra)
+- [[wiki/obras/acao-e-reacao]] — tratado romanesco de André Luiz sobre a economia moral da Lei
+- [[wiki/conceitos/dor]] — tipologia tríplice (evolução / expiação / auxílio)
+- [[wiki/conceitos/planejamento-reencarnatorio]] — regime de sanções e resgates coletivos
 
 ## Fontes
 

@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
 tags: [andre-luiz, espirito-comunicante, chico-xavier, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, no-mundo-maior, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-05-01
+atualizado_em: 2026-05-02
 status: rascunho
 ---
 
@@ -14,7 +14,7 @@ Espírito comunicante que se apresenta como ex-médico, autor da série de livro
 
 ## Papel
 
-Narrador em primeira pessoa de uma série de livros-reportagem sobre a vida no plano espiritual: colônia "Nosso Lar", missões de socorro, mecânica da reencarnação e da obsessão, bastidores da vida orgânica. Seu traço central é **aprender servindo**: não expõe doutrina pronta; observa, pergunta e é corrigido por instrutores (Clarêncio, Lísias, Alexandre, Gúbio).
+Narrador em primeira pessoa de uma série de livros-reportagem sobre a vida no plano espiritual: colônia "Nosso Lar", missões de socorro, mecânica da reencarnação e da obsessão, bastidores da vida orgânica. Seu traço central é **aprender servindo**: não expõe doutrina pronta; observa, pergunta e é corrigido por instrutores (Clarêncio, Lísias, Alexandre, Gúbio, Druso).
 
 A trajetória começa em *Nosso Lar* (1944) — anos de tormento no Umbral, hospitalização, audiência com Clarêncio que recusa o título de médico como atalho ("o título, para nós, é simplesmente uma ficha" — cap. 14), aprendizado humilde nas Câmaras de Retificação, missão na Terra junto da família terrestre, declaração de cidadania ao final do livro (cap. 50). Em *Os Mensageiros* (1944), segundo livro da série, deixa as Câmaras a convite de Narcisa, ingressa no Centro de Mensageiros do Ministério da Comunicação sob a orientação de Aniceto e cumpre uma semana de aprendizado prático na Crosta — Posto de Socorro Campo da Paz, lar do culto doméstico de Isidoro e Isabel, evangelho rural, três desencarnações assistidas. Em *Missionários da Luz* (1945), terceiro volume, é entregue ao Instrutor **Alexandre** para um ciclo dedicado à fenomenologia mediúnica num grupo espiritista da Crosta: psicografia, vampirismo psíquico, oração como antídoto, socorro a moribundos, materialização, reencarnação assistida (caso Segismundo–Adelino), incorporação, doutrinação, obsessão e passes magnéticos — fechando com a despedida de Alexandre e a advertência contra a idolatria do mestre. Em *Obreiros da Vida Eterna* (1946), 4º livro, é incorporado a uma expedição socorrista de trinta dias sob a orientação do **Assistente Jerônimo**, com base na Casa Transitória de Fabiano (Irmã Zenóbia): leitura mental do padre Domênico no abismo, três desencarnações de tipos opostos (Dimas, Cavalcante por anestesia, Adelaide), visita de Bezerra de Menezes e a "técnica de Lázaro" para o desprendimento consciente. Em *No Mundo Maior* (1947), 5º livro, dedica-se a uma semana de adestramento em "psiquiatria iluminada" sob o **Assistente Calderaro**, na hierarquia do **Instrutor Eusébio** e em parceria com a **Irmã Cipriana**: introdução do modelo doutrinário da casa mental (cérebro em três andares), casos clínicos de alcoolismo (Antídio, vampirizado por entidades dipsomaníacas), epilepsia como reflexo condicionado perispiritual (Marcelo), mediunidade contra o "Cérbero animista", preleção sobre sexo em diálogo com Freud/Adler/Jung, alienação mental no manicômio terrestre, expedição às cavernas de sofrimento — onde reencontra o avô paterno **Cláudio**, avarento preso à ilusão dos punhados de lama-ouro, resgatado pelo concurso da irmã reencarnada **Ismênia**. De cidadão "novato" da colônia, segue para os volumes subsequentes da série, até aparecer em *Entre a Terra e o Céu* (1954) já como discípulo experiente acompanhando Clarêncio em missão de socorro a uma família obsidiada por ciúme. Em *Evolução em Dois Mundos* (1958), assina como autor de tratado doutrinário sistemático.
 
@@ -30,6 +30,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/obras/libertacao]] — 6º livro da série (1949). Expedição a colônia purgatorial dirigida por Gregório, sob orientação de Gúbio; estudo dos [[wiki/conceitos/ovoides]] como "segunda morte" às avessas; socorro a Margarida via reunião familiar mediúnica; redenção de Gregório por Matilde no clímax.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — 8º livro da série (1954). Obsessão por ciúme, desobsessão envolvente, reencarnação de suicida.
 - [[wiki/obras/nos-dominios-da-mediunidade]] — 9º livro da série (1955). Curso técnico de mediunidade ministrado por Áulus a André Luiz e Hilário; psicoscópio, equipagem mediúnica, tipologia das manifestações (psicofonia, possessão, sonambulismo torturado, fascinação, dominação telepática, passes, psicometria, efeitos físicos), mandato mediúnico e mediunidade ontológica universal.
+- [[wiki/obras/acao-e-reacao]] — 10º livro da série (1957). Três anos de estágio na Mansão Paz sob orientação de Druso e Silas: Lei de Causa e Efeito, regime de sanções, resgates coletivos, tipologia tríplice da dor (evolução / expiação / auxílio).
 - [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
 
 ## Citações relevantes
@@ -45,7 +46,9 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 ## Páginas relacionadas
 
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
-- [[wiki/personalidades/clarencio]] — orientador na série
+- [[wiki/personalidades/clarencio]] — orientador em *Nosso Lar* e *Entre a Terra e o Céu*
+- [[wiki/personalidades/druso]] — Instrutor diretor da Mansão Paz em *Ação e Reação*
+- [[wiki/personalidades/silas]] — Assistente em *Ação e Reação*
 - [[wiki/personalidades/lisias]] — instrutor inicial em *Nosso Lar*
 - [[wiki/personalidades/aniceto]] — orientador no Centro de Mensageiros em *Os Mensageiros*
 - [[wiki/personalidades/alexandre]] — orientador em *Missionários da Luz*
@@ -70,4 +73,5 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, André Luiz/Chico Xavier]
-tags: [planejamento-reencarnatorio, reencarnacao, encarnacao, perispirito, hereditariedade, aborto, andre-luiz, missionarios-da-luz, evolucao-em-dois-mundos, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/encarnacao]
-atualizado_em: 2026-04-28
+tags: [planejamento-reencarnatorio, reencarnacao, encarnacao, perispirito, hereditariedade, aborto, regime-de-sancoes, resgates-coletivos, andre-luiz, missionarios-da-luz, evolucao-em-dois-mundos, acao-e-reacao, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/encarnacao]
+atualizado_em: 2026-05-02
 status: rascunho
 ---
 
@@ -107,6 +107,18 @@ Em volume posterior da série (1954), Clarêncio refina a tipologia:
 
 O caso Segismundo de *Missionários da Luz* é caso assistido — não regra geral. A maioria reencarna sem orientador da hierarquia de Alexandre presente.
 
+### 10. Regime de sanções e resgates coletivos (Ação e Reação, caps. 18–19)
+
+Em [[wiki/obras/acao-e-reacao]] (1957), [[wiki/personalidades/druso]] expõe duas extensões pastorais do planejamento reencarnatório:
+
+**Regime de sanções (cap. 19).** O Espírito endividado **suplica corpos com deficiências congeniais** correspondentes às viciações pretéritas — não como castigo, mas como vacina contra recidiva. A clínica espiritual ratifica o pedido: alcoólatras pedem doenças do estômago e intestino; caluniadores, surdez/cegueira; abusadores do sexo, lesões genésicas; faladores cruéis, afonias e doenças das cordas vocais; leviandade no esporte, paralisia/reumatismo. Mesmo sem o pedido explícito, "a prática do mal opera lesões imediatas em nossa consciência, que, entrando em condição desarmônica, desajusta, ela própria, os centros de força em que se mantém" — a desarmonia perispiritual imprime-se na carne pela atração magnética, com ou sem súplica.
+
+A prece pedindo a sanção tem, portanto, valor educativo (humildade, reconhecimento da dívida, vacina contra reincidência), não eficácia jurídica: a economia moral atua independentemente. Mas a humildade de pedir já gera bem.
+
+**Resgates coletivos (cap. 18).** Tragédias coletivas — acidentes aéreos, marítimos, industriais — não são acasos: são **convergências planejadas** de cúmplices de delitos pretéritos sob mesmo destino reparador. O caso paradigmático: Ascânio e Lucas, soldados de Joana d'Arc após a libertação de Orleães (1429), precipitaram dois companheiros do alto de uma fortaleza no Gâtinais. Cinco séculos depois, com créditos morais que lhes facultaram escolher o gênero da prova, optaram por reencarnar e morrer em desastre aéreo análogo, oferecendo a vida ao progresso da aeronáutica. Espíritos com menos crédito moral não escolhem o gênero — recebem provações análogas em mutilação primária, doença na infância ou morte violenta na maturidade. Os pais "que se acumpliciaram com elas em delitos lamentáveis, no pretérito distante ou recente, ou faliram junto dos filhos em outras épocas" são chamados a recebê-los, "para que aprendam na saudade cruel e na angústia inominável o respeito e o devotamento […] que todos devemos na Terra ao instituto da família".
+
+A mecânica é coerente com LE q. 263–273 (escolha das provas): o que *Ação e Reação* acrescenta é a **dimensão coletiva** — provas que reúnem cúmplices. Não substitui a doutrina da reencarnação individual; articula-a com a economia social do resgate.
+
 ## Aplicação prática
 
 - **Educação dos primeiros sete anos como missão estratégica.** O reencarnante ainda não governa sozinho a usina celular; o ambiente moral dos pais e a evangelização infantojuvenil têm peso desproporcional sobre toda a existência seguinte.
@@ -127,12 +139,16 @@ O caso Segismundo de *Missionários da Luz* é caso assistido — não regra ger
 - [[wiki/conceitos/expiacao-e-reparacao]] — programa de provas como retificação
 - [[wiki/obras/missionarios-da-luz]] — fonte primária (caps. 13–15)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — refinamento doutrinário (cap. 28)
+- [[wiki/obras/acao-e-reacao]] — regime de sanções e resgates coletivos (caps. 18–19)
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional ampliada
 - [[wiki/personalidades/alexandre]] — orientador do caso paradigmático
+- [[wiki/personalidades/druso]] — Instrutor expositor do regime de sanções
+- [[wiki/conceitos/lei-de-causa-e-efeito]] — economia moral subjacente
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 256–262, q. 344–345, q. 357–367, q. 379–381. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13–15. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Cap. 28. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 18–19. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13–14. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

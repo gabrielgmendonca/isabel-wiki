@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LE, C&I]
-tags: [umbral, andre-luiz, nosso-lar, sofredores, purgatorial, zonas-inferiores, esfera-vibratoria, obra/le, obra/ci, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho, tema/vida-futura]
-atualizado_em: 2026-04-27
+tags: [umbral, andre-luiz, nosso-lar, acao-e-reacao, sofredores, purgatorial, zonas-inferiores, esfera-vibratoria, mansao-paz, casa-transitoria, obra/le, obra/ci, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho, tema/vida-futura]
+atualizado_em: 2026-05-02
 status: rascunho
 ---
 
@@ -59,6 +59,25 @@ Quatro traços operacionais relevantes para a doutrina:
 
 Ver [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/personalidades/jeronimo-assistente]].
 
+### A Mansão Paz (*Ação e Reação*, 1957)
+
+No 9º livro da série, [[wiki/personalidades/druso]] descreve o Umbral em fórmula sintética que se tornou referência:
+
+> "Para nós, no entanto, é o imenso **Umbral**, entre a Terra e o Céu, doloroso continente de sombras, **erguido e cultivado pela mente humana**, em geral rebelde e ociosa, desvairada e enfermiça." (*Ação e Reação*, cap. 19)
+
+A precisão moral é importante: o Umbral não é geografia exterior imposta — é **construção mental coletiva**, "vasto campo de desequilíbrio, estabelecido pela maldade calculada, nascido da cegueira voluntária e da perversidade completa" (cap. 1). Deus não cria o inferno; criaturas cristalizam-no por sintonia.
+
+A **Mansão Paz**, dirigida por Druso, é a instituição-modelo apresentada no livro: fundada há mais de três séculos sob jurisdição de Nosso Lar, recebe apenas Espíritos "que conhecendo as responsabilidades morais que lhes competiam, delas se ausentaram, deliberadamente, com o louco propósito de ludibriarem o próprio Deus" (Druso, cap. 1). Almas em erro primário ou em selvageria não habitam ali — "cada ser está jungido, por impositivos da atração magnética, ao círculo de evolução que lhe é próprio" (cap. 1). Quatro traços específicos:
+
+- **Filtro moral de admissão** — só recebe consciências decididas a trabalhar pela própria regeneração; "se acolhidas aqui, sem a necessária preparação, atacar-nos-iam de pronto, arrasando-nos o instituto de assistência pacífica" (cap. 1).
+- **Setor médico-pedagógico** — médicos, sacerdotes, enfermeiros, professores; cursos de instrução; serviço magnético sobre o córtex encefálico de internados em desespero (caps. 4–7, 19).
+- **Aprendizado dos próprios servidores** — Druso recolhe: "Também sou aqui um companheiro à espera da volta. A prisão redentora da carne acena-nos ao regresso" (cap. 2). A casa é tanto hospital de sofredores quanto preparatório dos próprios diretores para a reencarnação reparadora.
+- **Amnésia espiritual operativa** — internados acessam apenas causas próximas das aflições; "achamo-nos presos à recordação das causas próximas de nossas angústias, dificultando-se-nos a possibilidade de penetrar o domínio das causas remotas" (Silas, cap. 9). O lodo do remorso turva o lago da memória; só pelo serviço a luz se restitui.
+
+A Mansão Paz complementa a Casa Transitória de Fabiano (instituição móvel) como dois modelos arquetípicos de socorro umbralino: uma centrada na expedição itinerante; a outra, na internação prolongada e na escola de reajuste.
+
+Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
+
 ## Aplicação prática
 
 - **Em palestra** — usar o Umbral para explicar concretamente, sem inferno eterno, o que ocorre com Espíritos atados à matéria após a morte. Sempre nomear que se trata de extensão descritiva (André Luiz / Chico Xavier), articulada com C&I, cap. IV–V de Kardec.
@@ -75,10 +94,12 @@ Ver [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/personalidades/jeronimo-assi
 - [[wiki/obras/ceu-e-inferno]] — Espíritos sofredores e suicidas (2ª parte, caps. IV–V)
 - [[wiki/obras/nosso-lar]] — fonte do termo na tradição espírita brasileira
 - [[wiki/obras/obreiros-da-vida-eterna]] — Casa Transitória de Fabiano como instituição-modelo do umbral; fogo etérico
+- [[wiki/obras/acao-e-reacao]] — Mansão Paz e definição do Umbral como construção mental coletiva
 
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 1–2 e cap. 12. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
 - XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 4–10. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 1, 2, 9, 19. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113, 149–165. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, caps. III, VI, VII; 2ª parte, caps. IV–V. Trad. Manuel Quintão. FEB.
