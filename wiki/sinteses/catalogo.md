@@ -98,6 +98,7 @@ index: false
 
 #### Joanna de Ângelis / Divaldo Franco
 - [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis/Divaldo Franco (LEAL, 1993). Quarta Força em Psicologia (Psicologia Transpessoal) à luz espírita: estrutura trina do ser, ego × self, mecanismos de fuga (compensação, deslocamento, projeção, introjeção, racionalização), gigantes da alma (ressentimento, ciúme, inveja), silêncio interior, conquista do si. Ancorado em LE q. 919 ("Conhece-te a ti mesmo") e q. 621. 39 capítulos em 10 partes.
+- [[wiki/obras/momentos-de-felicidade]] — Joanna de Ângelis/Divaldo Franco (LEAL, 1990). Volume pastoral curto (prefácio + 20 capítulos breves), distinto da série psicológica densa. Eixos: felicidade acessível no presente, dor como benfeitora anônima (cap. 4), mediunidade discreta autenticada pelo conteúdo (cap. 3), pensamento como força criadora (caps. 5/14/20), oração-terapia (cap. 7), passe e magnetização da água (cap. 8), domínio das paixões inferiores (medo, ira, tédio).
 
 #### Divaldo Franco (palestras)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.

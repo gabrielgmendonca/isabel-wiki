@@ -26,6 +26,7 @@ Espírito apresentado por Divaldo Franco como seu **principal mentor espiritual*
 ## Obras associadas (na wiki)
 
 - [[wiki/obras/o-ser-consciente]] — *O Ser Consciente* (LEAL, 1993). 39 capítulos em 10 partes. Quarta Força em Psicologia, autoconhecimento, ego × self, mecanismos de fuga, gigantes da alma, conquista do si.
+- [[wiki/obras/momentos-de-felicidade]] — *Momentos de Felicidade* (LEAL, 1990). Prefácio + 20 capítulos breves. **Tom pastoral**, não psicológico-técnico — distinto da série psicológica densa: "modestas reflexões à luz do Evangelho de Jesus e da Doutrina Espírita". Eixos: felicidade acessível no presente, dor como benfeitora, mediunidade discreta, pensamento como força criadora, oração-terapia, domínio das paixões inferiores.
 
 ## Páginas relacionadas
 
@@ -37,4 +38,5 @@ Espírito apresentado por Divaldo Franco como seu **principal mentor espiritual*
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, ~2023 (referência ao estilo sintético de Joanna). Cf. [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].

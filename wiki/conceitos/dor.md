@@ -64,6 +64,14 @@ Em [[wiki/obras/acao-e-reacao]] (1957), o Instrutor [[wiki/personalidades/druso]
 
 A distinção é útil pastoralmente: nem toda dor é expiação. Diante do sofrimento alheio, a leitura kardequiana evita o juízo apressado de "está pagando alguma coisa" — pode ser evolução natural, ou auxílio amigo de cima.
 
+## Formulação pastoral em Joanna de Ângelis (*Momentos de Felicidade*, cap. 4)
+
+Em [[wiki/obras/momentos-de-felicidade]] (1990, cap. 4 — "Benfeitora"), [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] consolida em registro pastoral o que Léon Denis tratou em registro filosófico e André Luiz tipologizou. A dor é apresentada como **benfeitora anônima** que opera independentemente da disposição moral da criatura:
+
+> "Essa flor abençoada, que surge nos terrenos de todas as vidas, é a dor. […] É instrumento da Lei, que o próprio homem vitaliza e necessita."
+
+A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro kardequiano em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
+
 ## Aplicação prática
 
 - Compreender a dor como transitória e educativa alivia a revolta e abre caminho para a resignação ativa.
@@ -82,6 +90,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/conceitos/potencias-da-alma]] — faculdades que a dor desperta
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — obra-fonte para o desenvolvimento de Denis
 - [[wiki/obras/acao-e-reacao]] — tipologia tríplice da dor (cap. 19)
+- [[wiki/obras/momentos-de-felicidade]] — formulação pastoral: a dor como "benfeitora anônima" (cap. 4)
 
 ## Fontes
 
@@ -90,3 +99,4 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, cap. VII — "Código penal da vida futura". Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 26–27. Trad. Homero Dias de Carvalho. CELD, 2011.
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*, cap. 19. Rio de Janeiro: FEB, 1957.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*, cap. 4 — "Benfeitora". Salvador: LEAL, 1990.

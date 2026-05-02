@@ -27,6 +27,7 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 ## Obras associadas (na wiki)
 
 - [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis / Divaldo (LEAL, 1993). Quarta Força em Psicologia, autoconhecimento, ego × self, conquista do si. 39 capítulos em 10 partes.
+- [[wiki/obras/momentos-de-felicidade]] — Joanna de Ângelis / Divaldo (LEAL, 1990). Volume pastoral curto: prefácio + 20 capítulos breves sobre felicidade acessível, dor benfeitora, mediunidade discreta, oração-terapia e domínio das paixões inferiores.
 - [[wiki/obras/conquista-da-saude-psicologica]] — Palestra sobre depressão, obsessão e saúde psicológica à luz do Espiritismo (~2009)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Palestra testemunhal: obsessão, psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho (~2023)
 
@@ -48,5 +49,6 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023. Disponível em: <https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw>.
