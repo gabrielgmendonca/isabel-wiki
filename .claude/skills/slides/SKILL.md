@@ -29,7 +29,7 @@ Usar `AskUserQuestion` para obter:
 
 ### Passo 3 — Buscar material via qmd
 
-Queries read-only em `raw/` e `wiki/` para montar o outline com conteúdo real, não placeholders:
+Queries read-only em `raw/` e `wiki/` para montar o outline com conteúdo real, não placeholders. Defaults: `mcp__qmd__query` com `limit: 5`, `minScore: 0.5`, `intent` sempre presente, `collections` explícito. Para abrir trechos longos em seguida, `mcp__qmd__get` com offset (`file.md:100-300`) — nunca `Read` integral em arquivos `raw/` > 1000 linhas (Revista Espírita por ano, Livro dos Médiuns, etc.).
 
 - **Pergunta + resposta literais do Kardec** (LE): query em collection `raw` pela pergunta e resposta dos Espíritos. Se a resposta >300 palavras, aplicar elipses `(...)` em trechos não-essenciais, mantendo núcleo doutrinário.
 - **Citação integral** (ESE/LM/C&I): query em `raw` pela passagem referenciada.

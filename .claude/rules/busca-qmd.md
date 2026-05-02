@@ -27,7 +27,9 @@ Para localizar conteúdo dentro de `wiki/**` ou `raw/**`, usar **`mcp__qmd__quer
 ```
 mcp__qmd__query(
   intent="<descrição curta da intenção>",
-  collection="wiki" | "raw",
+  collections=["wiki"],            # ou ["raw"], ou ambas
+  limit=5,
+  minScore=0.5,
   searches=[
     {type: "lex", query: "<termos exatos>"},
     {type: "vec", query: "<paráfrase semântica>"},
@@ -37,8 +39,16 @@ mcp__qmd__query(
 
 - `intent` é obrigatório — passa contexto pro ranker e melhora os snippets.
 - Combinar `lex` + `vec`. Adicionar `hyde` quando a resposta tiver formato previsível ("a q. X do LE diria…").
+
+### Defaults de triagem (não exaustão)
+
+- `limit: 5` em vez do default 10 do servidor. Aumentar pontualmente quando a busca for genuinamente exaustiva (lint manual, auditoria de cobertura).
 - `minScore: 0.5` filtra ruído quando o resultado vier disperso.
-- Para abrir o documento depois, `mcp__qmd__get` aceita `file.md:100` para offset por linha.
+- `collections` explícito (`["wiki"]` ou `["raw"]`) — buscar nas duas só quando faz sentido (ex.: checagem de duplicata cobrindo curado e fonte).
+
+### Abrir o documento depois
+
+`mcp__qmd__get` aceita offset por linha em `file.md:100` ou `file.md:100-300`. **Para arquivos em `raw/` com mais de ~1000 linhas (Revista Espírita por ano, Livro dos Médiuns, transcrições longas) preferir sempre `get` com offset a `Read` integral** — ler 200 linhas relevantes em vez de 12K do arquivo todo.
 
 ## Antipadrão
 

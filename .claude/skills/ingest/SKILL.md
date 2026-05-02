@@ -22,7 +22,7 @@ A regra é: **nada em `wiki/` é editado antes do usuário aprovar um plano expl
 ### Passos 1–2 — Leitura, discussão e plano
 
 1. **Ler** o arquivo em `raw/`.
-2. **Checar duplicatas via qmd**: query `lex` + `vec` em coleção `wiki` por título da obra e conceitos centrais. Resultado entra no plano (se já existir página próxima, propor consolidação em vez de criar nova).
+2. **Checar duplicatas via qmd**: `mcp__qmd__query` com `intent`, `collections: ["wiki"]`, `limit: 5`, `minScore: 0.5` e duas sub-queries — `lex` pelo título da obra, `vec` pelos conceitos centrais. Resultado entra no plano (se já existir página próxima, propor consolidação em vez de criar nova).
 3. **Apresentar 5–10 pontos-chave em prosa** para o usuário (resposta de texto normal, sem tool call). Isso permite ajustes antes do plano formal.
 4. **Chamar `EnterPlanMode`** com o plano de escrita estruturado. O plano deve conter, no mínimo:
    - **Classificação**: nível doutrinário (1/2/3/4) e justificativa.
