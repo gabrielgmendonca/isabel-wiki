@@ -25,6 +25,18 @@ Em **janeiro de 1862**, na *Revista Espírita*, Kardec publica dois artigos arti
 
 **"Questões e problemas propostos aos vários grupos espíritas"** opera o método: Kardec envia cinco questões doutrinárias aos grupos correspondentes — incluindo, deliberadamente, teorias errôneas como a [[wiki/conceitos/incrustacao-planetaria|incrustação planetária]] — para teste prático do critério. Tese implícita: *"se a doutrina ou quaisquer pontos doutrinários que professamos fossem reconhecidos como errados, num julgamento unânime, submeter-nos-íamos sem murmuração"*. Material reaproveitado em [[wiki/obras/genese|Gênese]] cap. I ("Caráter da revelação espírita"). Ver [[wiki/obras/revista-espirita-1862]].
 
+### Manifesto de abril de 1864 — texto canônico citado em A Gênese
+
+Em **abril de 1864**, na *Revista Espírita*, Kardec publica o artigo **"Autoridade da doutrina espírita; controle universal do ensino dos Espíritos"** — desenvolvimento sistemático da tese de jan/1862. **Kardec mesmo o cita explicitamente em [[wiki/obras/genese|*A Gênese*]] cap. I, item 54** como matriz direta. Texto-canônico do critério:
+
+> *"A única séria garantia está na concordância que existe entre as revelações espontâneas feitas por intermédio de grande número de médiuns estranhos uns aos outros e em diversas regiões. [...] Compreende-se que aqui não se trata de comunicações relativas a interesses secundários, mas do que se liga aos princípios mesmos da doutrina. Prova a experiência que quando um princípio novo deve ter a sua solução, é ensinado **espontaneamente** em diversos pontos ao mesmo tempo e de maneira idêntica, senão na forma, ao menos no fundo. Se, pois, a um Espírito agrada formular um sistema excêntrico, baseado em suas próprias ideias e fora da verdade, podemos estar certos de que o sistema ficará **circunscrito** e cairá ante a unanimidade das instruções dadas por toda parte."* (Kardec, RE abr/1864)
+
+A passagem mais radical do artigo — em que Kardec **se exclui programaticamente** de qualquer pretensão de autoridade pessoal — fixa o caráter coletivo e descentralizado da doutrina:
+
+> *"Não é à opinião de um homem que eles se aliarão, é a voz unânime dos Espíritos. Não é um homem, **nem nós mais que outro**, que fundará a ortodoxia espírita; também não é um Espírito vindo impor-se a quem quer que seja: é a universalidade dos Espíritos, comunicando-se em toda a Terra, por ordem de Deus."* (Kardec, RE abr/1864)
+
+Aplicação operacional do critério em **dezembro/1864**: o caso "Jobard e os médiuns mercenários — Notável exemplo de concordância" (RE dez/1864) — uma sonâmbula apresenta comunicação atribuída a Jobard sobre cobrar consultas dos ricos para dar gratuitamente aos pobres; a SPEE submete a comunicação ao escrutínio coletivo e verifica unanimemente a inautenticidade. Caso-modelo do **controle universal aplicado à fraude mediúnica de boa-fé**. Ver [[wiki/obras/revista-espirita-1864]].
+
 ### Necessidade absoluta
 
 A mediunidade, por si, não garante qualidade da comunicação. Os Espíritos que se comunicam abrangem toda a escala — dos mais elevados aos mais atrasados, zombeteiros, mistificadores, obsessores.

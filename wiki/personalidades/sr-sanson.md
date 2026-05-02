@@ -80,10 +80,12 @@ Viu-se rodeado de Espíritos protetores que lhe sorriam. Pôde contemplar seu pr
 | 25/04/1862 (Sociedade) | Leymarie | 1ª–2ª palestras: descrição da própria morte e dos primeiros instantes desencarnados (RE mai–jun/1862). |
 | Sessões subsequentes (1ª sexta após 25/04, depois mensais) | Leymarie + outros | 3ª, 4ª, 5ª palestras — esclarecimentos sobre o mundo invisível comparado com o visível e *"principalmente sobre a transição de um a outro"*. |
 | Out/1862 ("Papel da sociedade de Paris") | Leymarie | Comunicação programática sobre a missão da SPEE — *"Paris é o ponto de desembarque do mundo. [...] a Sociedade central faz jorrar seu pensamento no Universo"* (RE nov/1862). |
+| **02/11/1864 (Sessão comemorativa do Dia dos Mortos)** | Leymarie | Comunicação na primeira sessão fúnebre coletiva institucional da SPEE: *"diz-se que Paris é uma cidade de barulho e esquecimento. [...] Bem alto eu protesto, porque Paris é a cidade dos pensamentos laboriosos, das ideias fecundas e dos nobres sentimentos"*; pedido de combate à ignorância — *"nosso dever, de todos nós espíritas, é diminuir o número de nossos irmãos ignorantes, a fim de que o Livro dos Espíritos não continue sendo letra morta para tantos párias"* (RE dez/1864). |
 
 ## Páginas relacionadas
 
 - [[wiki/obras/revista-espirita-1862]] — exéquias (mai/1862); cinco palestras pós-morte (mai–out/1862).
+- [[wiki/obras/revista-espirita-1864]] — comunicação na Sessão comemorativa do Dia dos Mortos (02/11/1864).
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. II ("Espíritos felizes").
 - [[wiki/conceitos/vida-futura]] — caso-modelo de transição lúcida.
 - [[wiki/conceitos/perturbacao]] — Sanson contrasta com casos de Espíritos perturbados após a morte.

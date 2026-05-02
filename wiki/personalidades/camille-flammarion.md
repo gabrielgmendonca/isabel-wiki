@@ -29,6 +29,10 @@ A obra é apresentada como **confirmação científica** — pela astronomia, f�
 
 > *"A gente se admira que um jovem, na idade em que os outros ainda estão nos bancos escolares, tenha tido tempo de se apropriar delas e, com mais forte razão, aprofundá-las. É para nós uma prova evidente de que seu Espírito não se acha no início, ou que, malgrado seu, ele é assistido por outro Espírito."* (RE, jan/1863)
 
+## Primeira aparição na *Revista Espírita* (out/1864)
+
+Antes de entrar formalmente na SPEE em 1865, Flammarion já comparece na *Revue Spirite* aos **22 anos**, na resenha favorável de seu primeiro livro de divulgação, ***La pluralité des mondes habités*** (Paris, 1862; ampliado em 1864). A notícia bibliográfica em [[wiki/obras/revista-espirita-1864|RE out/1864]] é o **primeiro registro da aproximação** entre o jovem astrônomo e a comunidade espírita parisiense — convergência preparada pela coincidência temática: Flammarion defendia em chave científico-popular o que Kardec já sustentava em chave doutrinária desde [[wiki/obras/livro-dos-espiritos|LE]] q. 53–58 e q. 172–188 (ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]]).
+
 ## O discurso no túmulo de Kardec
 
 No discurso, Flammarion:

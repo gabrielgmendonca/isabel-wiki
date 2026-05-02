@@ -51,6 +51,13 @@ A [[wiki/obras/revista-espirita-1862|*Revista Espírita* de 1862]] continua a tr
 - **Janeiro de 1862** — comunicações pós-morte detalhadas; texto que entra integralmente em C&I, 2ª parte, cap. II.
 - **Março de 1862** — "Subscrição para um monumento ao Sr. Jobard" — testemunho do reconhecimento institucional na SPEE e na rede correspondente belga.
 
+## Continuação em 1864
+
+A [[wiki/obras/revista-espirita-1864|*Revista Espírita* de 1864]] traz duas aparições significativas do Espírito de Jobard:
+
+- **Sessão comemorativa do Dia dos Mortos (02/11/1864)** — Jobard é nominalmente invocado por Kardec na alocução aos antigos colegas falecidos da SPEE, ao lado de Sanson, Costeau, Hobach e Poudra. *"A Sociedade se rejubila por vos saber felizes. Ela se sente honrada por vos haver contado entre os seus membros e de vos contar agora entre os seus conselheiros do mundo invisível."* (RE dez/1864).
+- **"Jobard e os médiuns mercenários — Notável exemplo de concordância" (RE dez/1864)** — uma sonâmbula apresenta comunicação atribuída a Jobard aconselhando outro médium a *"cobrar as consultas dos ricos e dá-las gratuitamente aos pobres e aos operários"*; a SPEE submete a comunicação ao escrutínio coletivo (princípio do controle universal) e verifica unanimemente a inautenticidade — o Espírito autêntico de Jobard rejeita a teoria da mediunidade mercenária. Caso-modelo do **controle universal aplicado à fraude mediúnica de boa-fé**; ver [[wiki/conceitos/discernimento-dos-espiritos]].
+
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
