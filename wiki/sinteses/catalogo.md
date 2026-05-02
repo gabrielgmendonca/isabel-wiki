@@ -95,7 +95,10 @@ index: false
 - [[wiki/obras/acao-e-reacao]] — André Luiz/Chico Xavier (1957). 9º livro da série. Tratado romanesco da Lei de Causa e Efeito ambientado na **Mansão Paz**, sob orientação de [[wiki/personalidades/druso|Druso]] e [[wiki/personalidades/silas|Silas]]: amnésia espiritual no Umbral (caps. 1–2), confissão autobiográfica de Silas (cap. 9, ex-médico avarento, conversão dos obsessores Clarindo e Leonel), desastre aviatório como **resgate coletivo** com Ascânio e Lucas reencarnados (cap. 18, ex-soldados de Joana d'Arc), **regime de sanções** e a **tipologia tríplice da dor** — evolução / expiação / auxílio (cap. 19), revelação de Druso, Silas e Aída como ex-família que se reencontra para o resgate (cap. 20). 20 capítulos. **(rascunho)**
 - [[wiki/obras/evolucao-em-dois-mundos]] — André Luiz/Chico Xavier (1958). Tratado em duas partes (20 + 20 capítulos). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade e centro genésico, mediunidade como função dos centros, religiões como higiene da alma. **(rascunho)**
 
-#### Divaldo Franco
+#### Joanna de Ângelis / Divaldo Franco
+- [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis/Divaldo Franco (LEAL, 1993). Quarta Força em Psicologia (Psicologia Transpessoal) à luz espírita: estrutura trina do ser, ego × self, mecanismos de fuga (compensação, deslocamento, projeção, introjeção, racionalização), gigantes da alma (ressentimento, ciúme, inveja), silêncio interior, conquista do si. Ancorado em LE q. 919 ("Conhece-te a ti mesmo") e q. 621. 39 capítulos em 10 partes.
+
+#### Divaldo Franco (palestras)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco, palestra (~2009). Depressão, obsessão, neurociência e saúde psicológica à luz espírita.
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Divaldo Franco, palestra (~2023). Obsessão (caso Baby), psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho.
 
@@ -166,6 +169,8 @@ index: false
 - [[wiki/conceitos/avareza]] — apego excessivo aos bens materiais, forma de egoísmo (ESE, cap. XVI).
 - [[wiki/conceitos/materialismo]] — negação da alma e da vida futura, fruto do orgulho (LE, q. 147–148).
 - [[wiki/conceitos/dores-da-alma]] — Hammed: reenquadramento dos "sete pecados capitais" como fases evolutivas da psique.
+- [[wiki/conceitos/autoconhecimento]] — *"Conhece-te a ti mesmo"* (LE q. 919 + comentário de Santo Agostinho): pilar da reforma íntima, balanço moral diário, teste do espelho.
+- [[wiki/conceitos/psicologia-transpessoal]] — Quarta Força em Psicologia (Maslow, Wilber, Grof, Assagioli) e sua convergência com a antropologia kardequiana (Espírito-perispírito-corpo); ego × self, mecanismos de fuga, estados alterados de consciência. Tratamento sistemático em [[wiki/obras/o-ser-consciente]].
 - [[wiki/conceitos/nao-julgar]] — preceito moral da abstenção do juízo condenatório (Mt 7:1–5; Lc 6:37; Jo 8:1–11 — mulher adúltera; Rm 14; Tg 4:11–12; ESE cap. X).
 - [[wiki/conceitos/calunia]] — calúnia como "monstro invisível"; tutela inversa como mecanismo de reparação (ESE caps. X, XII; André Luiz, *Os Mensageiros*, caps. 17, 27).
 
@@ -195,6 +200,7 @@ index: false
 - [[wiki/personalidades/erasto]] — discípulo de S. Paulo, comunicante no ESE, co-autor do quadro sinótico no LM.
 - [[wiki/personalidades/leon-denis]] — Léon Denis (1846–1927), filósofo espírita, continuador da obra de Kardec.
 - [[wiki/personalidades/divaldo-franco]] — Divaldo Pereira Franco (1927–2025), médium, orador, cofundador da Mansão do Caminho.
+- [[wiki/personalidades/joanna-de-angelis]] — Espírito autor da série psicológica de Divaldo Franco (*O Ser Consciente* e outras); síntese entre Doutrina Espírita e Psicologia Transpessoal; estilo sintético como critério de identificação.
 - [[wiki/personalidades/vinicius]] — Vinícius (Pedro de Camargo, 1878–1966), escritor espírita, comentarista do Evangelho.
 - [[wiki/personalidades/carlos-mendonca]] — Carlos Mendonça, palestrante do Centro Espírita Bezerra de Menezes de Estácio.
 - [[wiki/personalidades/victor-hugo]] — Victor Hugo (1802–1885), escritor francês, Espírito comunicante via Divaldo Franco (11 romances).
