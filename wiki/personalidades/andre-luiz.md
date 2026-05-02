@@ -29,6 +29,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/obras/no-mundo-maior]] — 5º livro da série (1947). Semana de psiquiatria espírita sob o Assistente Calderaro, na hierarquia do Instrutor Eusébio e em parceria com a Irmã Cipriana: modelo da casa mental (cérebro em três andares), casos Antídio (alcoolismo), Marcelo (epilepsia), Eulália (mediunidade), preleção sobre sexo em diálogo com Freud/Adler/Jung, alienação mental, expedição às cavernas e reencontro com o avô Cláudio, Lar de Cipriana como instituto regenerativo nas zonas inferiores.
 - [[wiki/obras/libertacao]] — 6º livro da série (1949). Expedição a colônia purgatorial dirigida por Gregório, sob orientação de Gúbio; estudo dos [[wiki/conceitos/ovoides]] como "segunda morte" às avessas; socorro a Margarida via reunião familiar mediúnica; redenção de Gregório por Matilde no clímax.
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — 8º livro da série (1954). Obsessão por ciúme, desobsessão envolvente, reencarnação de suicida.
+- [[wiki/obras/nos-dominios-da-mediunidade]] — 9º livro da série (1955). Curso técnico de mediunidade ministrado por Áulus a André Luiz e Hilário; psicoscópio, equipagem mediúnica, tipologia das manifestações (psicofonia, possessão, sonambulismo torturado, fascinação, dominação telepática, passes, psicometria, efeitos físicos), mandato mediúnico e mediunidade ontológica universal.
 - [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
 
 ## Citações relevantes
@@ -68,4 +69,5 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

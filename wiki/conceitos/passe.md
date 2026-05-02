@@ -55,6 +55,28 @@ A formulação operacional vem na sequência (cap. 25), na voz de Aniceto:
 
 A semeadura cabe ao passista; a germinação, a Deus.
 
+## Passe como transfusão de energias e o princípio da "tensão favorável" (André Luiz, *Nos Domínios da Mediunidade*, 1955, cap. 17)
+
+NDM dedica capítulo inteiro ao serviço de passes, dirigido pelo Espírito Conrado e pelos passistas Clara e Henrique. A formulação operativa de Áulus reaparece na precisão técnica da era atômica:
+
+> "O passe é uma transfusão de energias, alterando o campo celular. Vocês sabem que na própria ciência humana de hoje o átomo não é mais o tijolo indivisível da matéria… Que, antes dele, encontram-se as linhas de força, aglutinando os princípios subatômicos, e que, antes desses princípios, surge a vida mental determinante… Tudo é espírito no santuário da Natureza." (Áulus, NDM, cap. 17)
+
+**A condição decisiva da eficácia é a fé do receptor**, formulada como "tensão favorável":
+
+> "É imprescindível que o candidato apresente uma certa 'tensão favorável'. Essa tensão decorre da fé. Certo, não nos reportamos ao fanatismo religioso ou à cegueira da ignorância, mas sim à atitude de segurança íntima, com reverência e submissão, diante das Leis Divinas. (...) Em fotografia precisamos da chapa impressionável para deter a imagem, tanto quanto em eletricidade carecemos do fio sensível para a transmissão da luz." (cap. 17)
+
+Pacientes "impermeáveis" — descrentes, escarnecedores, "duros de coração" — não recebem o efluxo magnético: "o escárnio e a dureza de coração podem ser comparados a espessas camadas de gelo sobre o templo da alma" (cap. 17).
+
+**Distinção radical entre passe espírita e magnetismo profissional**. Áulus reconhece que hipnotizadores comuns têm energia excepcional e podem curar **acidentalmente**:
+
+> "Podem curar, mas acidentalmente, quando o enfermo é credor de assistência espiritual imediata, com a intervenção de amigos que o favorecem. Fora disso, os que abusam dessa fonte de energia, explorando-a ao seu bel-prazer, quase sempre resvalam para a desmoralização de si mesmos, porque interferindo num campo de forças que lhes é desconhecido, guiados tão somente pela vaidade ou pela ambição inferior, fatalmente encontram entidades que com eles se afinam, precipitando-se em difíceis situações." (cap. 17)
+
+Sem caráter elevado, o magnetizador acaba **vampirizado** por hipnotizadores espirituais mais fortes, "nas linhas atormentadas da ignorância e da crueldade, de onde se originam os mais aflitivos processos de obsessão". A serpente é o emblema natural do poder hipnótico desprovido de moralidade. Para serviço sustentado, "não prescindimos do coração nobre e da mente pura, no exercício do amor, da humildade e da fé viva, para que os raios do poder divino encontrem acesso e passagem por nós, a benefício dos outros".
+
+**Passe a distância** é admitido — "desde que haja sintonia entre aquele que o administra e aquele que o recebe. Nesse caso, diversos companheiros espirituais se ajustam no trabalho do auxílio, favorecendo a realização, e a prece silenciosa será o melhor veículo da força curadora" (cap. 17).
+
+Síntese: a passe é menos transferência da força do passista do que **passagem da força divina pelo passista**, condicionada à fé do paciente como "chapa impressionável". A doutrina articula-se à dos fluidos (Gênese, cap. XIV) e à dos médiuns curadores (LM, cap. XIV).
+
 ## Condições de eficácia
 
 Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
@@ -82,6 +104,7 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - [[wiki/conceitos/prece]] — envoltório operacional indispensável
 - [[wiki/conceitos/principio-vital]] — substrato da eficácia magnética
 - [[wiki/obras/os-mensageiros]] — caps. 19, 22, 25 (arquitetura tripla do Posto)
+- [[wiki/obras/nos-dominios-da-mediunidade]] — cap. 17 (passe como transfusão de energias, "tensão favorável", distinção do magnetismo profissional)
 
 ## Fontes
 
@@ -89,4 +112,5 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - Kardec, Allan. *A Gênese*, cap. XIV (Os fluidos), itens 13-50. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. V, XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 19, 22, 25. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 17. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
 - Bíblia ACF — Mc 6:5; Mt 8:3; Lc 4:40; At 9:17; At 28:8.

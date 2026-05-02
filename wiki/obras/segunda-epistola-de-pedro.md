@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [pedro, paulo, escala-de-virtudes, profecia-inspirada, mediunidade-inspirada, transicao-planetaria, falsos-doutores, anjos-rebeldes, transfiguracao, autor/pedro, autor/paulo, lei/adoracao, lei/justica-amor-caridade, lei/progresso, tema/moral, tema/mediunidade, tema/vida-futura]
+tags: [pedro, paulo, escala-de-virtudes, profecia-inspirada, mediunidade-inspirada, transicao-planetaria, falsos-doutores, anjos-rebeldes, transfiguracao, autor/pedro, autor/paulo, lei/adoracao, lei/justica-amor-caridade, lei/progresso, tema/moral, tema/mediunidade, tema/vida-futura, lei/conservacao, lei/destruicao, lei/liberdade, lei/trabalho]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-01

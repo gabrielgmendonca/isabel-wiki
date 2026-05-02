@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade]
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
 atualizado_em: 2026-05-01
 status: ativo
 ---
@@ -207,6 +207,24 @@ Em vez de coagi-la, age sobre o esposo desencarnado-momentâneo (durante o sono 
 
 Ver [[wiki/obras/libertacao]].
 
+### Pedro, sonambulismo torturado e a fascinada da Toscana — três tipologias em chave de reciprocidade pretérita (André Luiz, *Nos Domínios da Mediunidade*, 1955)
+
+NDM aprofunda a tipologia kardequiana com três casos que articulam **possessão completa, sonambulismo torturado e fascinação extrema** sob um mesmo princípio: toda obsessão tem alicerce na **reciprocidade do passado**.
+
+**Possessão completa = "epilepsia essencial" (cap. 9).** Pedro sofre ataques epilépticos clássicos com sintomatologia clínica completa (palidez, tetania, convulsões, esfíncteres relaxados). Áulus identifica como **possessão completa**, "transe mediúnico de baixo teor", entre dois desencarnados endividados desde o século passado: Pedro, médico libertino, seduzira a esposa do irmão e o levara à internação em hospício; o irmão atraiçoado, desencarnado primeiro, agora o vampiriza. Lição central:
+
+> "Penetramos forçosamente no inferno que criamos para os outros, a fim de experimentarmos, por nossa vez, o fogo com que afligimos o próximo. Ninguém ilude a justiça. As reparações podem ser transferidas no tempo, mas são sempre fatais." (Áulus, NDM, cap. 9)
+
+A possessão é redimida não por exorcismo, mas pela conversão dos dois — vítima e algoz — através do trabalho doutrinário continuado.
+
+**Sonambulismo torturado (cap. 10).** A jovem médium reproduz **cérebro a cérebro** os sintomas do obsessor — glote intumescida, voz rouquenha, palavras quebradas. O tutor envenenado em vida pretérita (séc. XIX, parricídio por interesse hereditário) assume-lhe a glote pelo enlace fluídico íntimo. Recusou a maternidade do antigo perseguidor reencarnante e multiplicou as crises histéricas. Eletrochoque e insulina não resolvem: "**a perfeita entrosagem dos elementos psicofísicos filia-se à mente. (...) Não há órgãos em harmonia sem pensamentos equilibrados, como não há ordem sem inteligência**" (cap. 10). A solução adiada é a maternidade aceita.
+
+**Fascinação extrema com xenoglossia (cap. 23).** A dama "uivando, à semelhança de loba ferida", em **licantropia hipnótica deformante** — caso de fascinação levada ao limite. Manifesta-se em antigo dialeto da velha Toscana, séc. X (corte do duque Ugo), porque ela e o obsessor foram cúmplices em parricídio na época. Áulus introduz aqui uma novidade conceitual: "**Em mediunidade há também o problema da sintonia no tempo**". A xenoglossia não milagriza saber novo — mobiliza memórias do próprio reencarnante. A solução: ela e o verdugo serão mãe e filho. **A maternidade reaparece como matriz última da redenção** — motivo já presente em *Entre a Terra e o Céu*.
+
+**A doutrina operativa unificadora**: Áulus reforça em todos os casos a regra do joio e do trigo (Mt 13) — não basta arrancar; "é preciso saber até que ponto a raiz dele se entranha no solo com a raiz do trigo, para que não venhamos a esmagar um e outro" (cap. 23). Toda obsessão repousa em **reciprocidade**: "Não seria lícito guardarmos a pretensão de lavrar sentenças definitivas pró ou contra ninguém, porque, na posição em que ainda nos achamos, todos possuímos contas maiores ou menores por liquidar". A **desobsessão envolvente** já formulada em *Entre a Terra e o Céu* é confirmada como princípio geral.
+
+Ver [[wiki/obras/nos-dominios-da-mediunidade]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — a obsessão é o principal perigo da prática mediúnica
@@ -231,6 +249,7 @@ Ver [[wiki/obras/libertacao]].
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Zulmira–Odila, desobsessão envolvente
+- [[wiki/obras/nos-dominios-da-mediunidade]] — possessão completa (cap. 9), sonambulismo torturado (cap. 10), fascinação com xenoglossia (cap. 23); reciprocidade do passado como princípio unificador
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — "pacto" como obsessão voluntária por sintonia com Espíritos inferiores (LE, q. 549–550).
 
 ## Fontes
@@ -244,3 +263,4 @@ Ver [[wiki/obras/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14, 16. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].

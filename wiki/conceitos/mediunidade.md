@@ -174,6 +174,20 @@ A doutrina articula-se a 1 Co 14:32 ("os espíritos dos profetas estão sujeitos
 
 Ver [[wiki/obras/no-mundo-maior]].
 
+## Mediunidade ontológica universal (André Luiz, *Nos Domínios da Mediunidade*, 1955)
+
+O 9º livro da série radicaliza a tese da universalidade até alcançar dimensão ontológica. Áulus, Assistente especializado em ciências mediúnicas, abre o curso (cap. 1) com o princípio que organiza a obra inteira: "**a mente permanece na base de todos os fenômenos mediúnicos**". A ideia é "um 'ser' organizado por nosso Espírito, a que o pensamento dá forma e ao qual a vontade imprime movimento e direção". Decorre o axioma da sintonia — "atraímos os Espíritos que se afinam conosco, tanto quanto somos por eles atraídos" — e o critério moral: "**não existe aperfeiçoamento mediúnico sem acrisolamento da individualidade**".
+
+No fecho (cap. 30), Áulus amplia o conceito a categoria ontológica universal:
+
+> "O lavrador é o médium da colheita, a planta é o médium da frutificação e a flor é o médium do perfume. (...) **A Arte é a mediunidade do Belo**. (...) o juiz é o médium das leis. (...) **A família consanguínea é uma reunião de almas em processo de evolução**. (...) A paternidade e a maternidade, dignamente vividas no mundo, constituem sacerdócio dos mais altos para o Espírito reencarnado." (cap. 30)
+
+Toda atividade humana é mediunidade — o homem **filtra os recursos que o cercam e molda-lhes a manifestação, segundo as suas possibilidades**. A formulação coerente com 1 Co 12 (corpo único com muitos membros) e com a teleologia kardequiana da mediunidade como serviço (LM, 2ª parte, cap. XXXI — *mediunato*).
+
+NDM introduz ainda o **mandato mediúnico** como categoria distinta da mediunidade comum: delegação outorgada pelo Plano Superior por crédito moral acumulado, com mentor fixo, programa pré-encarnatório e responsabilidade ampliada. Ver [[wiki/conceitos/mandato-mediunico]] para o tratamento completo. O psicoscópio (cap. 2) — aparelho fluídico que ausculta a alma — funciona como instrumento auxiliar da pedagogia: ver [[wiki/conceitos/psicoscopio]].
+
+A obra é o tratado mais sistemático da série sobre tipologia mediúnica: psicofonia consciente (cap. 6) e sonambúlica (cap. 8), possessão completa (cap. 9), sonambulismo torturado (cap. 10), desdobramento em serviço (cap. 11), clarividência/clariaudiência (cap. 12), serviço de passes (cap. 17), dominação telepática (cap. 19), mediunidade no leito de morte (cap. 21), fascinação com xenoglossia (cap. 23), psicometria (cap. 26), efeitos físicos (cap. 28). Ver [[wiki/obras/nos-dominios-da-mediunidade]].
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec registra a multiplicação dos médiuns e o declínio dos de efeitos físicos em favor dos de comunicações inteligentes (moralistas) — confirmando a passagem do "período da curiosidade" ao "período da filosofia". Enfatiza o **desinteresse** como qualidade essencial:
@@ -187,6 +201,8 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 ## Páginas relacionadas
 
 - [[wiki/conceitos/psicografia]] — principal forma de comunicação escrita
+- [[wiki/conceitos/mandato-mediunico]] — categoria distinta com mentor fixo e crédito moral acumulado (NDM, cap. 16)
+- [[wiki/conceitos/psicoscopio]] — aparelho fluídico de auscultação da alma (NDM, cap. 2)
 - [[wiki/conceitos/obsessao]] — principal perigo da prática mediúnica
 - [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos produzidos
@@ -205,3 +221,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - Denis, Léon. *O Grande Enigma*, cap. VII; notas complementares 4–6. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Caps. 1, 2, 16, 30 (tese da mente, psicoscópio, mandato, mediunidade ontológica universal). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].

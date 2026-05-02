@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, "C&I", NT]
-tags: [divergencia, anjos, anjos-caidos, demonios, dualismo, vigilantes, enoque, pedro, judas, autor/pedro, autor/kardec, obra/le, obra/ci, grau/avancado, tema/espiritos]
+tags: [divergencia, anjos, anjos-caidos, demonios, dualismo, vigilantes, enoque, pedro, judas, autor/pedro, autor/kardec, obra/le, obra/ci, grau/avancado, tema/espiritos, lei/justica-amor-caridade]
 atualizado_em: 2026-05-01
 status: aberta
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, umbral, obsessao, colonia-purgatorial, desobsessao, socorro-mediunico, ovoides, passe, forca-mental, vampirismo, segunda-morte, autor/andre-luiz, autor/chico-xavier, tema/vida-futura, tema/mediunidade, tema/sofrimento]
+tags: [andre-luiz, chico-xavier, umbral, obsessao, colonia-purgatorial, desobsessao, socorro-mediunico, ovoides, passe, forca-mental, vampirismo, segunda-morte, autor/andre-luiz, autor/chico-xavier, tema/vida-futura, tema/mediunidade, tema/sofrimento, lei/liberdade]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/libertacao
