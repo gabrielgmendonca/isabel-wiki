@@ -165,6 +165,20 @@ A wiki é publicada no GitHub Pages e `LICENSE-CONTENT.md` cobre apenas o conte�
 
 ---
 
+## 9. Eficiência de tokens no workflow
+
+A wiki cresce e cada conversa com o Claude Code consome mais tokens. Auditoria (2026-05-02) identificou três focos principais: leitura de `raw/` inteiros em `/ingest`, rules grandes injetadas em todo Edit, e queries `qmd` sem limites. Itens abaixo reduzem custo sem comprometer Kardec ou a qualidade das páginas — qualidade é inegociável; o que se otimiza é o caminho até ela.
+
+- [ ] **Disciplina nas queries `qmd`** — definir `limit: 5` e `minScore: 0.5` como default em `/ingest`, `/slides` e `/glossario` (triagem, não exaustão); registrar o padrão `lex` curto + `vec` focado em `.claude/rules/busca-qmd.md`; preferir `mcp__qmd__get` com offset (`file.md:100-300`) a `Read` em raw de 10K+ linhas. Hoje `/slides` faz 3 buscas semânticas sem filtro sobre 1225 docs em `raw/` — ganho imediato.
+- [ ] **Granularizar `convencoes-paginas.md`** — a rule tem 187 linhas e é injetada em CADA Edit em `wiki/**`. Quebrar em `convencoes-frontmatter.md` (`paths: wiki/**`, núcleo), `convencoes-direitos.md` (`paths: wiki/obras/**`) e eventual `convencoes-tags.md` reduz ~50-70 linhas de contexto por turno em edições típicas (síntese, conceito, questão) que não tocam direitos autorais nem schema completo de obra.
+- [ ] **Fragmentar Revista Espírita em `raw/`** — hoje cada ano é 1 arquivo (8-13K linhas; 1862 = 13.430). Reestruturar `raw/kardec/revista-espirita/<ano>/<mes>-<slug>.md` (1 artigo por arquivo, 150-300 linhas) faz `/ingest` ler só o artigo a tratar, melhora os snippets do `qmd` (score mais discriminativo) e torna re-índice incremental. Esforço pontual, ganho permanente.
+- [ ] **Haiku para triagem em `/lint` e `/glossario`** — análise LLM do `/lint` (após o script Python) e triagem de candidatos do `/glossario` cabem em Haiku 4.5 sem perda de qualidade: input é compacto e estruturado, output é classificação. Hoje rodam no modelo da sessão (Opus na maior parte do tempo). `/stats` já é 100% Python — sem LLM no loop.
+- [ ] **Pré-resumo de obras monolíticas** — para obras nível 2/3 que excedem 5K linhas e não dão para fragmentar por natureza (Livro dos Médiuns, ~12K linhas), gerar uma única vez `raw/<obra>/_index.md` (índice de capítulos com 1-2 frases) e `_resumo.md` (~500 palavras) com Haiku. `/ingest` consulta o índice antes de decidir o que ler integralmente. Menos urgente se Revista Espírita for fragmentada (item acima cobre a maior fonte de overhead).
+
+Itens descartados desta lista por impacto baixo ou não-aplicável: hábito de RTK (já intercepta automaticamente; só monitorar), validação explícita de prompt caching (Claude Code já cacheia system+CLAUDE.md por 5min; sem ação se está funcionando), `references/` carregado sob demanda nas skills (SKILL.md hoje 45-117 linhas — não é prioridade até passar de 200).
+
+---
+
 ## Priorização para o workflow autor + Claude Code
 
 Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki (ingest, queries, sínteses), com uma categoria à parte para **risco/robustez** — onde o custo de mitigar é baixo e o custo de não mitigar pode ser alto.
@@ -191,6 +205,7 @@ Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki 
 6. **Pipeline de palestras (§1)** — Automatizar YouTube → transcrição → MD reduz fricção significativa; cada palestra hoje exige vários passos manuais antes do ingest.
 7. **Lint em CI (§5)** — Rede de segurança útil, mas já rodamos `/lint` manualmente; ganho incremental.
 8. **Auditoria de conteúdo gerado por LLM (§8)** — Importância cresce com o tempo. Hoje a wiki é pessoal-pública; em 12-24 meses, se for citada por terceiros, transparência sobre paráfrase vs citação importa muito mais. Implementação simples (campo de frontmatter); o trabalho é definir a política.
+9. **Eficiência de tokens — eixo §9** — disciplina em queries `qmd`, granularizar `convencoes-paginas.md`, fragmentar Revista Espírita por artigo, Haiku para tarefas determinísticas. Custo composto: ganho pequeno por turno, alto somado em meses de uso. Item 1 do eixo (qmd `limit`/`minScore`) é o mais barato e o mais imediato — promovível para "Impacto alto" quando for executado.
 
 ### Decisões arquiteturais a destravar
 
