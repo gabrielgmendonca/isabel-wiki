@@ -4,7 +4,7 @@ fontes: [RE]
 tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, autor/kardec, tema/historia-doutrina]
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-04-30
+atualizado_em: 2026-05-02
 status: ativo
 ---
 
@@ -20,8 +20,8 @@ Periódico mensal fundado e dirigido por Allan Kardec entre **janeiro de 1858 e 
 - **Título original:** *Revue Spirite — Journal d'Études Psychologiques*
 - **Periodicidade:** mensal
 - **Período de publicação:** janeiro de 1858 — abril de 1869 (interrompida pela morte de Kardec em 31/03/1869; o número de abril/1869 saiu sob direção de seus colaboradores)
-- **Total de números:** 12 volumes anuais (135 fascículos mensais)
-- **Total de artigos:** ~1.600 (ver detalhamento abaixo)
+- **Total de números:** 12 volumes anuais (136 fascículos mensais — 11 anos completos × 12 meses + 4 meses de 1869)
+- **Total de artigos:** ~1.437 (ver detalhamento abaixo; volumes 1858–1864 com contagem real, 1865–1869 como estimativa)
 - **Editora original:** Bureaux de la Revue Spirite, Paris
 - **Tradução de referência (Brasil):** Júlio Abreu Filho (Edicel) e edições FEB
 - **Texto integral (Kardecpédia):** [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]] · [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]] · [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]] · [[raw/kardec/revista-espirita/1861/01-janeiro|raw/kardec/revista-espirita/1861/]] · [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]] · [[raw/kardec/revista-espirita/1863/01-janeiro|raw/kardec/revista-espirita/1863/]] · [[raw/kardec/revista-espirita/1864/01-janeiro|raw/kardec/revista-espirita/1864/]] · [[raw/kardec/revista-espirita/1865/01-janeiro|raw/kardec/revista-espirita/1865/]] · [[raw/kardec/revista-espirita/1866/01-janeiro|raw/kardec/revista-espirita/1866/]] · [[raw/kardec/revista-espirita/1867/01-janeiro|raw/kardec/revista-espirita/1867/]] · [[raw/kardec/revista-espirita/1868/01-janeiro|raw/kardec/revista-espirita/1868/]] · [[raw/kardec/revista-espirita/1869/01-janeiro|raw/kardec/revista-espirita/1869/]]
@@ -58,7 +58,7 @@ Cada volume cobre um ano civil, com fascículos mensais (janeiro a dezembro). Ca
 | **1868** | 128 | Ano de *A Gênese*. Artigos sobre milagres, profecias e leis naturais. |
 | **1869** | 53 (jan–abr) | Volume interrompido pela morte de Kardec em 31 de março. O fascículo de abril, póstumo, traz comunicações sobre sua passagem e o discurso de Camille Flammarion no túmulo. |
 
-**Total: ~1.500 artigos.** (Volumes ingeridos com contagem real do raw — 1858: 144; 1859: 91; 1860: 86; 1861: 172; 1862: 171; 1864: 96; demais como estimativa.)
+**Total: ~1.437 artigos** (soma da coluna "Artigos" acima). Volumes com contagem real do raw — 1858: 144; 1859: 91; 1860: 86; 1861: 172; 1862: 171; 1863: 143; 1864: 96. Os demais (1865–1869) ainda como estimativa, a serem confirmados na ingestão de cada volume.
 
 ## Tipos de matéria
 
@@ -151,4 +151,4 @@ Em estudos de palestra, prefira citar o Pentateuco quando ele cobre o tema; reco
 - Edição brasileira de referência: KARDEC, Allan. *Revista Espírita*. Tradução de Júlio Abreu Filho. São Paulo: Edicel.
 - Edição FEB: KARDEC, Allan. *Revista Espírita*. Rio de Janeiro: Federação Espírita Brasileira.
 - Disponível online: [Kardecpédia — Revista Espírita](https://kardecpedia.com/) (12 volumes integrais).
-- Edição local: 12 volumes integrais em [[raw/kardec/revista-espirita/1858/01-janeiro|raw/kardec/revista-espirita/1858/]] e demais arquivos `revista-espirita-YYYY` listados em "Texto integral" acima (1.600 artigos baixados da Kardecpédia).
+- Edição local: 12 volumes integrais particionados em arquivos mensais sob `raw/kardec/revista-espirita/YYYY/MM-mes.md` (136 fascículos no total — 1869 com 4 meses por interrupção da publicação). Pontos de entrada por ano em "Texto integral" acima.
