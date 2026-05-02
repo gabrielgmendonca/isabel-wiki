@@ -50,6 +50,17 @@ mcp__qmd__query(
 
 `mcp__qmd__get` aceita offset por linha em `file.md:100` ou `file.md:100-300`. **Para arquivos em `raw/` com mais de ~1000 linhas (Revista Espírita por ano, Livro dos Médiuns, transcrições longas) preferir sempre `get` com offset a `Read` integral** — ler 200 linhas relevantes em vez de 12K do arquivo todo.
 
+### Pré-resumos para obras monolíticas
+
+Algumas obras nível 1/2 ultrapassam 5K linhas e não dão para fragmentar por natureza (LM, Gênese, ESE). Para essas, há dois artefatos adjacentes ao arquivo monolítico:
+
+- `<obra>.index.md` — índice estrutural (capítulos, range de linhas, primeira sentença). ~100-200 linhas. Gerado deterministicamente por `scripts/generate_obra_index.py`.
+- `<obra>.resumo.md` — síntese executiva (~500 palavras: propósito, escopo, aportes, quando recorrer). Gerado uma única vez por subagente Haiku.
+
+**Antes de abrir o arquivo monolítico em `raw/kardec/pentateuco/`, ler o `.index.md` correspondente.** Ele indica o range de linhas do capítulo desejado, que vira `mcp__qmd__get <obra>.md:<inicio>-<fim>`. Para "do que trata esta obra?", o `.resumo.md` resolve sem abrir nem o índice.
+
+Glob para descobrir: `ls raw/kardec/pentateuco/*.index.md raw/kardec/pentateuco/*.resumo.md`.
+
 ## Antipadrão
 
 `Bash(grep -r "termo" wiki/)` ou `Read wiki/conceitos/...` no escuro pra descobrir se algo existe. Custa mais tokens, perde matches semânticos, e a auditoria de 1/mai/2026 mostrou que esse reflexo é o motivo de qmd estar sendo usado em só 9% das sessões deste projeto — mesmo nas que fazem 5-8 buscas via Bash. Quando usado, qmd retorna scores 0.88-0.93 e responde a pergunta na primeira chamada.
