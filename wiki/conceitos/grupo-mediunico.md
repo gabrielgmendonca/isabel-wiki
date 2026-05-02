@@ -76,7 +76,7 @@ A SPEE de 1858 (Sociedade Parisiense de Estudos Espíritas) é o **modelo histó
 
 - **Não improvisar grupo mediúnico.** Sem direção formada e médiuns preparados, o resultado é fascinação ou subjugação. A regra é começar pela base — culto no lar e estudo doutrinário — antes de abrir reunião mediúnica.
 - **Disciplina antes de fenômeno.** A medida de saúde do grupo não é a quantidade ou o brilho das comunicações, mas o **avanço moral verificável** dos participantes ao longo dos meses (cf. ESE cap. XVII, item 4).
-- **Avaliar pelo conjunto.** Comunicação isolada nunca é doutrina. O critério é o [[wiki/sinteses/controle-universal-do-ensino-dos-espiritos|controle universal do ensino dos Espíritos]] — convergência entre grupos sérios em locais diversos (Gênese, cap. I).
+- **Avaliar pelo conjunto.** Comunicação isolada nunca é doutrina. O critério é o [[wiki/sinteses/veracidade-das-mensagens-psicografadas|controle universal do ensino dos Espíritos]] — convergência entre grupos sérios em locais diversos (Gênese, cap. I).
 - **Reconhecer sinais de desvio.** Vaidade pelas comunicações, defesa pessoal de mensagens recebidas, monetização do dom, recusa do julgamento coletivo, busca de público (LM cap. XXVIII; cf. [[wiki/conceitos/mercantilizacao-da-mediunidade]]).
 
 ## Páginas relacionadas
@@ -87,7 +87,7 @@ A SPEE de 1858 (Sociedade Parisiense de Estudos Espíritas) é o **modelo histó
 - [[wiki/conceitos/discernimento-dos-espiritos]] — critério aplicado dentro do grupo.
 - [[wiki/conceitos/mercantilizacao-da-mediunidade]] — recusa do motivo lucrativo.
 - [[wiki/conceitos/organizacao-de-grupos-espiritas]] — perspectiva organizacional macro.
-- [[wiki/sinteses/controle-universal-do-ensino-dos-espiritos]] — critério inter-grupos.
+- [[wiki/sinteses/veracidade-das-mensagens-psicografadas]] — critério inter-grupos (CUEE).
 - [[wiki/obras/livro-dos-mediuns]] — 2ª parte, cap. XXIX.
 - [[wiki/obras/viagem-espirita-em-1862]] — instruções aos grupos visitados.
 

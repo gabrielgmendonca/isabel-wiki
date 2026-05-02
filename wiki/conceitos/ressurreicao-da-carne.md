@@ -80,4 +80,4 @@ A negação da ressurreição da carne é o **principal vetor de hostilidade ins
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Cap. IV ("Ninguém poderá ver o reino de Deus se não nascer de novo"). FEB. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - KARDEC, Allan. "Elias e João Batista — Refutação". *Revista Espírita*, dez/1863.
 - KARDEC, Allan. "São Paulo, precursor do Espiritismo". *Revista Espírita*, dez/1863.
-- DENIS, Léon. *Cristianismo e Espiritismo*. Cap. sobre ressurreição. Edição: [[raw/autores/leon-denis/cristianismo-e-espiritismo/cristianismo-e-espiritismo]].
+- DENIS, Léon. *Cristianismo e Espiritismo*. Cap. sobre ressurreição. Ver [[wiki/obras/cristianismo-e-espiritismo]]; edição: [[raw/autores/leon-denis/Cristianismo_e_Espiritismo/Cristianismo_e_Espiritismo]].

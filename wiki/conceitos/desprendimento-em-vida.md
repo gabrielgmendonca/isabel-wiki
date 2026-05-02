@@ -10,7 +10,7 @@ status: ativo
 
 ## Definição
 
-**Desprendimento em vida** é o afastamento parcial do Espírito em relação ao corpo durante a encarnação — o vínculo perispiritual permanece, mas o Espírito age fora dos limites materiais com graus variáveis de lucidez. Cobre o conjunto de fenômenos que Kardec agrupa em [[wiki/conceitos/emancipacao-da-alma|emancipação da alma]]: sono, sonho, sonambulismo natural e magnético, [[wiki/conceitos/dupla-vista|dupla vista]], êxtase, letargia, catalepsia e — em sua expressão mais densa — [[wiki/conceitos/bicorporeidade|bicorporeidade]] (aparição do duplo a distância).
+**Desprendimento em vida** é o afastamento parcial do Espírito em relação ao corpo durante a encarnação — o vínculo perispiritual permanece, mas o Espírito age fora dos limites materiais com graus variáveis de lucidez. Cobre o conjunto de fenômenos que Kardec agrupa em [[wiki/conceitos/emancipacao-da-alma|emancipação da alma]]: sono, sonho, sonambulismo natural e magnético, dupla vista, êxtase, letargia, catalepsia e — em sua expressão mais densa — [[wiki/conceitos/bicorporeidade|bicorporeidade]] (aparição do duplo a distância).
 
 Não é morte: a *"corda fluídica"* permanece (Gênese, cap. XIV). É a alma "operando fora do organismo" sem romper o laço perispirítico que a mantém solidária ao corpo carnal.
 
@@ -75,7 +75,6 @@ Os "encontros noturnos" entre Espíritos de pessoas que se amam — vivas ou mor
 
 - [[wiki/conceitos/perispirito]] — corpo intermediário que viabiliza o desprendimento.
 - [[wiki/conceitos/bicorporeidade]] — caso extremo: aparição do duplo a distância.
-- [[wiki/conceitos/dupla-vista]] — desprendimento sem suspensão da vigília.
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa programática da categoria miraculosa.
 - [[wiki/obras/livro-dos-espiritos]] — Parte 2, cap. VIII (Emancipação da alma).
 - [[wiki/obras/genese]] — caps. XIII–XV (fluidos, milagres do Evangelho).
