@@ -4,6 +4,7 @@ fontes: [LE, ESE]
 tags: [psicologia-transpessoal, autoconhecimento, ego, self, silencio-interior, felicidade, mecanismos-de-fuga, gigantes-da-alma, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, tema/moral, tema/espiritos, autor/kardec, lei/justica-amor-caridade]
 direitos:
   detentor: LEAL
+  url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/o-ser-consciente.html
   ano_dp_estimado: 2095
 atualizado_em: 2026-05-02
 status: ativo
