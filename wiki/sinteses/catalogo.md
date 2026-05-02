@@ -126,6 +126,7 @@ index: false
 - [[wiki/conceitos/planejamento-reencarnatorio]] — André Luiz: engenharia fluídica da reencarnação assistida (reconciliação prévia, mapas cromossômicos, redução perispiritual, fecundação assistida, consolidação aos 7 anos); aprofundamento de LE q. 344–345.
 - [[wiki/conceitos/pluralidade-das-existencias]] — a sucessão de vidas.
 - [[wiki/conceitos/morte]] — desencarnação, separação Espírito-corpo, perturbação pós-morte (LE, q. 149–165; C&I).
+- [[wiki/conceitos/ressurreicao-da-carne]] — dogma cristão tradicional refutado por Kardec via 1 Co 15 ("corpo espiritual" = perispírito), Mt 22:30 e argumento químico do ciclo da matéria; releitura espírita: ressurreição = retorno à vida espiritual + reencarnação (Gênese cap. XI; ESE cap. IV; RE dez/1863).
 - [[wiki/conceitos/desligamento-do-espirito]] — processo gradual de separação do Espírito no momento da morte.
 - [[wiki/conceitos/ligacao-espirito-corpo]] — união Espírito-corpo pelo perispírito, da concepção à morte.
 - [[wiki/conceitos/vida-espirita]] — estado errante entre encarnações.
@@ -287,6 +288,7 @@ index: false
 - [[wiki/conceitos/pneumatografia]] — escrita direta produzida pelo Espírito sem intermediário humano (RE, ago/1859; LM, cap. XII).
 - [[wiki/conceitos/manifestacoes-espiritas]] — fenômenos físicos e inteligentes; cobre a 1ª e a 2ª parte de *O Livro dos Médiuns*.
 - [[wiki/conceitos/ageneres]] — Espíritos cujo perispírito assume aparência humana sólida temporária, sem corpo carnal vivo correspondente (RE, fev/1859).
+- [[wiki/conceitos/desprendimento-em-vida]] — afastamento parcial do Espírito durante a encarnação: sono, sonambulismo, dupla vista, êxtase, bicorporeidade (LE Parte 2 cap. VIII; Gênese caps. XIII–XV; RE 1860, 1863).
 - [[wiki/conceitos/bicorporeidade]] — Espírito de pessoa viva manifestando-se em local diferente do corpo (LM cap. VII; RE jan/fev/nov/1860 — Conde de R…C…, Dr. Vignal, Maria d'Agreda).
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa programática das categorias "sobrenatural" e "maravilhoso" (RE set/1860, em refutação a Louis Figuier; matriz de Gênese caps. XIII–XV).
 - [[wiki/conceitos/mediunidade-de-cura]] — variedade da mediunidade caracterizada pela cura por imposição das mãos, prece, indicação de remédios (LM cap. XIV; caso-pivô Désirée Godu, RE 1860).
@@ -300,6 +302,8 @@ index: false
 - [[wiki/conceitos/identidade-dos-espiritos]] — critérios de discernimento, comunicações apócrifas (LM, caps. XXIV, XXXI).
 - [[wiki/conceitos/discernimento-dos-espiritos]] — faculdade crítica de avaliar natureza e veracidade dos Espíritos comunicantes; sistematização kardequiana do "discernimento dos espíritos" de Paulo (1 Co 12:10) e João (1 Jo 4:1).
 - [[wiki/conceitos/evocacao]] — chamada dirigida a Espíritos, regras e cuidados (LM, cap. XXV).
+- [[wiki/conceitos/educacao-mediunica]] — formação prévia do médium pelo estudo, disciplina e moral (LM 2ª parte, cap. XVII; manifesto operacional em André Luiz / Chico Xavier, *Missionários da Luz*, cap. 9).
+- [[wiki/conceitos/grupo-mediunico]] — unidade operacional básica do Espiritismo aplicado: reunião regular sob direção, com estudo, disciplina e finalidade moral (LM 2ª parte, cap. XXIX; *Viagem Espírita em 1862*; RE 1860, 1861).
 
 ### Esperanças e consolações (Parte 4 do LE)
 - [[wiki/conceitos/suicidio]] — infração da lei de conservação, consequências espirituais (LE, q. 943–957).

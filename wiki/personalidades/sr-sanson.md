@@ -1,6 +1,6 @@
 ---
 tipo: personalidade
-fontes: [RE, CI]
+fontes: [RE, C&I]
 tags: [ceu-e-inferno, espiritos-felizes, sanson, spee, exequias-espiritas, transicao-morte, leymarie, vida-futura, obra/ci, obra/re, tema/vida-futura, tema/historia-doutrina, autor/kardec, grau/intermediario]
 atualizado_em: 2026-05-01
 status: ativo
