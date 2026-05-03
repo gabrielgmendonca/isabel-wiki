@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE, RE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, animismo, onda-mental, obra/lm, obra/ese, obra/re, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
+tags: [obsessao, fascinacao, subjugacao, possessao-partilhada, espiritos-inferiores, mediunidade, vampirismo, animismo, onda-mental, obra/lm, obra/ese, obra/re, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
 atualizado_em: 2026-05-03
 status: ativo
 ---
@@ -31,6 +31,10 @@ O fascinador "tem a arte de lhe inspirar confiança cega" ao médium e "o que ma
 ### Possessão redefinida
 
 Kardec substitui o termo "possessão" por **subjugação**: (1) porque "possessão" implica seres criados para o mal eterno, quando na verdade "não há senão seres mais ou menos imperfeitos, os quais todos podem melhorar-se"; (2) porque implica coabitação, quando o que há é "apenas constrangimento" (LM, 2ª parte, cap. XXIII, item 241).
+
+### Configuração adicional: possessão partilhada (André Luiz, 1963)
+
+[[wiki/personalidades/andre-luiz|André Luiz]] cunha em [[wiki/obras/sexo-e-destino|*Sexo e Destino*]] (Parte 1, cap. 8) a categoria de **[[wiki/conceitos/possessao-partilhada|possessão partilhada]]** — qualitativamente distinta dos três graus kardequianos por seu **vetor recíproco**: obsessor desencarnado e encarnado se sintonizam por afinidade total (especialmente sexual) ao ponto de "dois seres num corpo só", compartilhando sensações, impulsos e responsabilidade. Não substitui as três configurações de Kardec — soma-se a elas como categoria fenomenológica observada no plano espiritual, em que o consentimento do encarnado ("deixava-se prazerosamente senhorear") inverte o quadro habitual da vítima passiva.
 
 ### Sinais de obsessão (item 243)
 
@@ -276,6 +280,8 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Zulmira–Odila, desobsessão envolvente
 - [[wiki/obras/nos-dominios-da-mediunidade]] — possessão completa (cap. 9), sonambulismo torturado (cap. 10), fascinação com xenoglossia (cap. 23); reciprocidade do passado como princípio unificador
+- [[wiki/obras/sexo-e-destino]] — possessão partilhada (Parte 1, cap. 8) e drama familiar sob ação de obsessores
+- [[wiki/conceitos/possessao-partilhada]] — quarta configuração, recíproca, cunhada por André Luiz
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — "pacto" como obsessão voluntária por sintonia com Espíritos inferiores (LE, q. 549–550).
 
 ## Fontes
@@ -291,3 +297,4 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].

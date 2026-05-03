@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
-fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier]
-tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao]
-atualizado_em: 2026-04-27
+fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
+tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, andre-luiz, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao]
+atualizado_em: 2026-05-03
 status: aberta
 ---
 
@@ -114,6 +114,48 @@ Não se trata, com isso, de equiparar os dois casos ou de esgotar a discussão s
 
 A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki/obras/epistola-aos-romanos|Epístola aos Romanos]], anota precisamente este paralelo: Paulo em Rm 1 e Denis em OPS cap. 13 compartilham a mesma estratégia argumentativa, e ambas são dissolvidas pela mesma tríade kardequiana (LE q. 200–202).
 
+## Extensão: André Luiz (*Sexo e Destino*, 1963)
+
+A ingestão de [[wiki/obras/sexo-e-destino|Sexo e Destino]] (Uberaba, 1963 — coautoria mediúnica de Chico Xavier com [[wiki/personalidades/waldo-vieira|Waldo Vieira]]) acrescenta uma **terceira voz** ao registro, cronologicamente entre Léon Denis (1908) e Emmanuel/*Vida e Sexo* (1970). É o **primeiro documento da tradição espírita brasileira a inverter pastoralmente Léon Denis sobre o tema** — antecede em sete anos a formulação que Emmanuel daria no *Vida e Sexo*.
+
+### O contexto: institutos de estudo do sexo no "Almas Irmãs"
+
+A passagem está em Parte 2, cap. 5. André Luiz visita os institutos de ensino da colônia espiritual "Almas Irmãs" — faculdades dedicadas a "sexo e amor", "sexo e matrimônio", "sexo e maternidade", "sexo e medicina", "sexo e penalogia". O contraste com a desconsideração terrestre é explícito: "na Espiritualidade Superior o sexo não é considerado unicamente por baliza morfológica do corpo de carne (...) definição unilateral que, na Terra, ainda se faz seguir de atitudes e exigências tirânicas, herdadas do comportamento animal".
+
+Félix expõe a tese kardequiana de fundo: "Entre os Espíritos desencarnados, a partir daqueles de evolução mediana, o sexo é categorizado por atributo divino na individualidade humana, qual ocorre com a inteligência, com o sentimento, com o raciocínio". Em chave compatível com LE q. 200–202: "masculinidade e feminilidade totais são inexistentes na personalidade humana, do ponto de vista psicológico".
+
+### A pergunta direta sobre homossexuais
+
+> "Tendo Neves formulado consulta sobre os homossexuais, Félix demonstrou que inúmeros Espíritos reencarnam em condições inversivas, seja no domínio de lides expiatórias ou em obediência a tarefas específicas, que exigem duras disciplinas por parte daqueles que as solicitam ou que as aceitam.
+>
+> Referiu ainda que homens e mulheres podem nascer homossexuais ou intersexos, como são suscetíveis de retomar o veículo físico na condição de mutilados ou inibidos em certos campos de manifestação, aditando que a alma reencarna, nessa ou naquela circunstância, para melhorar e aperfeiçoar-se e nunca sob a destinação do mal, o que nos constrange a reconhecer que os delitos, sejam quais sejam, em quaisquer posições, correm por nossa conta." (André Luiz / Chico Xavier + Waldo Vieira, *Sexo e Destino*, Parte 2, cap. 5)
+
+### Igualdade de dignidade ante a Justiça Divina
+
+> "Nos foros da Justiça Divina, em todos os distritos da Espiritualidade Superior, as personalidades humanas tachadas por anormais são consideradas tão carecentes de proteção quanto as outras que desfrutam a existência garantida pelas regalias da normalidade, segundo a opinião dos homens, observando-se que as faltas cometidas pelas pessoas de psiquismo julgado anormal são examinadas no mesmo critério aplicado às culpas de pessoas tidas por normais, notando-se, ainda, que, em muitos casos, os desatinos das pessoas supostas normais são consideravelmente agravados, por menos justificáveis perante acomodações e primazias que usufruem, no clima estável da maioria." (*Sexo e Destino*, Parte 2, cap. 5)
+
+### Cuidado pastoral sobre legislação humana
+
+Inserção que **não aparece em Emmanuel/*Vida e Sexo***: Félix faz adendo sobre a velocidade de mudança das leis morais, advertindo que mudanças bruscas podem ser instrumentalizadas:
+
+> "Os homens não podem efetivamente alterar, de chofre, as leis morais em que se regem, sob pena de precipitar a Humanidade na dissolução, entendendo-se que os Espíritos ainda ignorantes ou animalizados, por enquanto em maioria no seio de todas as nações terrestres, estão invariavelmente decididos a usurpar liberalidades prematuras para converter os valores sublimes do amor em criminalidade e devassidão." (*Sexo e Destino*, Parte 2, cap. 5)
+
+A nota não restringe a dignidade dos homossexuais — nem sugere que a libertação social esteja errada. Aponta que a maturidade moral coletiva é condição da maturidade legal, e que reformas isoladas podem servir de pretexto a abusos de maioria ainda imperfeita. É **cuidado pastoral**, não trava conservadora.
+
+### Profecia e crítica à perseguição
+
+> "No mundo porvindouro os irmãos reencarnados, tanto em condições normais quanto em condições julgadas anormais, serão tratados em pé de igualdade, no mesmo nível de dignidade humana, reparando-se as injustiças assacadas, há séculos, contra aqueles que renascem sofrendo particularidades anômalas, porquanto a perseguição e a crueldade com que são batidos pela sociedade humana lhes impedem ou dificultam a execução dos encargos que trazem à existência física, quando não fazem deles **criaturas hipócritas, com necessidade de mentir incessantemente para viver**, sob o Sol que a Bondade Divina acendeu em benefício de todos." (*Sexo e Destino*, Parte 2, cap. 5)
+
+### Análise — extensão pastoral, não nova divergência
+
+A passagem **não contradiz** Kardec; ao contrário, opera no quadro de LE q. 200–202 (sexo é atributo do organismo, não do Espírito) e o aplica pastoralmente. Mais importante: **inverte explicitamente a leitura estigmatizante de Léon Denis**, sem citá-lo nominalmente. Onde Denis fala em "viragos", "extraviados", "nada têm de estético nem de sedutor", André Luiz fala em "irmãos em condições inversivas", "mesma dignidade humana", "cessar perseguição".
+
+A relação com a extensão posterior de Emmanuel (*Vida e Sexo*, 1970) é de **continuidade doutrinária**: Emmanuel desenvolve o quadro com vocabulário de "bissexualidade adquirida ao longo de milênios", André Luiz já o havia formulado em chave reencarnatória ("expiação ou tarefa específica"). Os dois textos operam o mesmo movimento: dignificação na herança kardequiana, sem cair no estigma deniseano.
+
+### Status
+
+A divergência permanece `aberta` por causa de Léon Denis (e da estrutura paulina). André Luiz e Emmanuel são registrados aqui como **inversões pastorais sucessivas** (1963 → 1970) que reforçam a leitura kardequiana. **A tradição espírita brasileira sobre o tema, vista cronologicamente, evolui de Léon Denis (estigma) para André Luiz (dignidade reencarnatória) para Emmanuel (sistematização pastoral)**.
+
 ## Extensão: Emmanuel (*Vida e Sexo*, 1970)
 
 A ingestão de [[wiki/obras/vida-e-sexo|Vida e Sexo]] (Uberaba, jun/1970) acrescenta uma terceira voz ao registro — e ela vai em **direção oposta a Denis**, apesar de também não ser idêntica a Kardec.
@@ -152,6 +194,7 @@ A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). E
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/conceitos/energia-sexual]] — fio conceitual transversal (Kardec + Emmanuel + André Luiz)
 - [[wiki/obras/o-problema-do-ser-e-do-destino]]
+- [[wiki/obras/sexo-e-destino]] — André Luiz/Chico Xavier+Waldo Vieira (1963): Parte 2, cap. 5 (passagem-chave de Félix sobre homossexuais)
 - [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970): cap. 21 (Homossexualidade)
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]]
 - [[wiki/obras/epistola-aos-romanos]] — cap. 1:26–27 (extensão paulina da mesma estrutura argumentativa)
@@ -165,4 +208,5 @@ A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). E
 - Kardec, Allan. *O Céu e o Inferno*, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11. Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 1:26–27.
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*, cap. 21 — "Homossexualidade". Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].

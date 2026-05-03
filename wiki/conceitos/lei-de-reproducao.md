@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, obra/le, obra/ese, lei/reproducao, autor/kardec, grau/intermediario, tema/sociedade]
-atualizado_em: 2026-04-27
+tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, andre-luiz, sexo-e-destino, obra/le, obra/ese, lei/reproducao, autor/kardec, autor/andre-luiz, grau/intermediario, tema/sociedade]
+atualizado_em: 2026-05-03
 status: ativo
 ---
 
@@ -61,6 +61,14 @@ A igualdade numérica dos sexos indica a proporção em que devem unir-se: "tudo
 - Avaliar o celibato pela motivação: egoísmo ou serviço?
 - Reconhecer no casamento por afeto um ato de progresso, e na indissolubilidade sem afeto, uma lei só humana.
 
+## Em André Luiz: afeto verdadeiro e obsessão (*Sexo e Destino*, 1963)
+
+[[wiki/personalidades/andre-luiz|André Luiz]] aplica a tese kardequiana ao drama familiar concreto em [[wiki/obras/sexo-e-destino]]. A obra mostra como uniões movidas por paixão sem afeto verdadeiro **abrem o casal a obsessão e [[wiki/conceitos/possessao-partilhada|possessão partilhada]]**, gerando ciclos cármicos que se prolongam pela reencarnação. Félix expõe na Parte 2, cap. 5:
+
+> "Qualquer ligação sexual, instalada no campo emotivo, engendra sistemas de compensação vibratória, e o parceiro que lesa o outro, até o ponto em que suscitou os desastres morais consequentes, passa a responder por dívida justa. Todo desmando sexual danificando consciências reclama corrigenda, tanto quanto qualquer abuso do raciocínio." (André Luiz / Chico Xavier + Waldo Vieira, *Sexo e Destino*, Parte 2, cap. 5)
+
+É comentário fenomenológico ao princípio doutrinário de LE q. 701 ("na poligamia não há afeição real: há apenas sensualidade") — sem contradizê-lo, descreve o mecanismo de compensação que se segue à infração. A obra sustenta também que o casamento por sedução ou interesse social, sem afinidade espiritual, é pasto fértil para a presença de vampirizadores que partilham as paixões do casal — tema desenvolvido em [[wiki/conceitos/possessao-partilhada]].
+
 ## Em Emmanuel: as quatro normas (*Vida e Sexo*, 1970)
 
 Em [[wiki/obras/vida-e-sexo|Vida e Sexo]] (Uberaba, jun/1970), Emmanuel reescreve em vocabulário pastoral aplicado o regime moral da Lei de Reprodução:
@@ -78,10 +86,13 @@ As quatro normas operacionalizam diretamente q. 693a (regular sem opor obstácul
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual; janela providencial da infância (LE, q. 582–583).
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] · [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — aplicações pastorais.
 - [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970): tratado pastoral em 25 capítulos.
+- [[wiki/obras/sexo-e-destino]] — André Luiz/Chico Xavier+Waldo Vieira (1963): drama familiar quando o casamento se funda em paixão sem afeto verdadeiro.
+- [[wiki/conceitos/possessao-partilhada]] — fenômeno correlato observado por André Luiz nas relações sexuais desregradas.
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. IV (q. 686–701). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
