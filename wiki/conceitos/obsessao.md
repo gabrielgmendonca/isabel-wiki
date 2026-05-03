@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LM, ESE, RE]
-tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, obra/lm, obra/ese, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade, obra/re]
-atualizado_em: 2026-05-01
+tags: [obsessao, fascinacao, subjugacao, espiritos-inferiores, mediunidade, vampirismo, animismo, onda-mental, obra/lm, obra/ese, obra/re, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
+atualizado_em: 2026-05-03
 status: ativo
 ---
 
@@ -207,6 +207,23 @@ Em vez de coagi-la, age sobre o esposo desencarnado-momentâneo (durante o sono 
 
 Ver [[wiki/obras/libertacao]].
 
+### Etiologia espírita das psicopatias — manicômios e penitenciárias como casos clínicos (André Luiz, *Mecanismos da Mediunidade*, 1959, cap. 24)
+
+Quatro anos após NDM, *Mecanismos da Mediunidade* fecha o ciclo doutrinário com um capítulo programático sobre a articulação obsessão–enfermidade mental. A tese central é radical:
+
+> "Os manicômios e as penitenciárias estão repletos de irmãos nossos obsidiados que, alcançando o ponto específico de suas recapitulações do pretérito culposo, à falta de providências reeducativas, nada mais puderam fazer que recair na loucura ou no crime, porque, em verdade, **a alienação e a delinquência, na maioria das vezes, expressam a queda mental do Espírito em reminiscências de lutas pregressas**." (*Mecanismos*, cap. 24)
+
+**Quatro princípios articulam o cap. 24**:
+
+1. **Ondas mentais viciadas pós-morte consolidam a obsessão.** O Espírito que, em vida, "ocultou no esconderijo da carne os resultados das paixões e abusos", arredado do corpo pela morte, "obriga-se a sofrer, em si própria, as consequências dos excessos e ultrajes" — torturado por suas próprias ondas desorientadas, condensa, no perispírito influenciável, "as inibições que, em futura existência, dominar-lhe-ão temporariamente a personalidade, sob a forma de fatores mórbidos".
+2. **Zonas purgatoriais como prisão-manicômio.** As regiões de sofrimento pós-morte são "imensas penitenciárias do Espírito, a que se recolhem as feras conscientes que foram homens" — categoria geográfica e moral que articula o capítulo a [[wiki/obras/ceu-e-inferno|Céu e Inferno]] (Kardec, 2ª parte). Tiranos, suicidas, homicidas, libertinos, caluniadores, traidores agrupam-se "conforme o tipo de falta ou defecção a que se renderam".
+3. **Reencarnação como retorno medianímico das psicopatias.** Espíritos vindos do "abismo expiatório" reencarnam "espiritualmente jungidos às linhas inferiores de que são advindos, assimilando-lhes, facilmente, o influxo aviltante" — "perfeitamente classificáveis entre os psicopatas amorais, segundo o conceito da 'moral insanity'" inglesa, ou (em casos de regeneração intermediária) entre "psicopatas astênicos e abúlicos, fanáticos e hipertímicos, ou identificáveis como representantes de várias doenças e delírios psíquicos, inclusive aberrações sexuais diversas".
+4. **Médiuns enfermos devem ser acolhidos no Espiritismo.** Pergunta direta de André Luiz: "tais enfermos da alma, tantas vezes submetidos, sem resultado satisfatório, à insulina e à convulsoterapia, quando recomendados ao auxílio dos templos espíritas, poderão ser tidos como médiuns?" Resposta: "**Sem dúvida, são médiuns doentes**, afinizados com os fulcros de sentimento desequilibrado de onde ressurgiram para novo aprendizado entre os homens. Por certa quota de tempo, são intérpretes de forças degradadas, às quais é preciso opor a intervenção moral necessária, do mesmo modo que se prescreve medicação aos enfermos." Princípio operativo decisivo: a casa espírita é instituto terapêutico-doutrinário para os obsidiados pesados, não filtro de exclusão moral.
+
+A formulação articula obsessão a **vidas pregressas culposas**, à **etapa atual de sofrimento extra-físico**, e à **reencarnação como retorno medianímico** — três faixas de uma mesma curva. O cap. 24 é o tratamento mais sistemático dessa articulação na literatura espírita brasileira; serve de fundamento para a tipologia desenvolvida nas casas de assistência social-espiritual (lar de obsidiados, fraternidades terapêuticas, acolhimento de saúde mental).
+
+Ver [[wiki/obras/mecanismos-da-mediunidade]] e [[wiki/conceitos/animismo]] (cap. 23, abordagem complementar).
+
 ### Pedro, sonambulismo torturado e a fascinada da Toscana — três tipologias em chave de reciprocidade pretérita (André Luiz, *Nos Domínios da Mediunidade*, 1955)
 
 NDM aprofunda a tipologia kardequiana com três casos que articulam **possessão completa, sonambulismo torturado e fascinação extrema** sob um mesmo princípio: toda obsessão tem alicerce na **reciprocidade do passado**.
@@ -273,3 +290,4 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].

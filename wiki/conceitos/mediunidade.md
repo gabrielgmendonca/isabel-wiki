@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LM, LE, André Luiz/Chico Xavier]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade, tema/mediunidade]
-atualizado_em: 2026-05-01
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, onda-mental, ideoplastia, psicometria, desdobramento, mediunidade-curativa, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade, tema/mediunidade]
+atualizado_em: 2026-05-03
 status: ativo
 ---
 
@@ -174,6 +174,24 @@ A doutrina articula-se a 1 Co 14:32 ("os espíritos dos profetas estão sujeitos
 
 Ver [[wiki/obras/no-mundo-maior]].
 
+## A fisiologia sutil em *Mecanismos da Mediunidade* (André Luiz, 1959)
+
+Quatro anos depois de *Nos Domínios da Mediunidade*, André Luiz fecha o ciclo doutrinário da série com um **tratado expositivo** dedicado integralmente à fisiologia da mediunidade. *Mecanismos da Mediunidade* é o livro em que cada faculdade isolada nos volumes anteriores recebe formulação sistemática pelo léxico da microfísica do séc. XX (eletromagnetismo, eletrônica, química, fisiologia), sob declarada subordinação à codificação — um capítulo inteiro, "Registros de Allan Kardec", funciona como dedicatória aos pontos de LE, LM, ESE, C&I e Gênese em que a doutrina já estava fixada.
+
+Cinco contribuições estruturam o livro e preenchem lacunas da wiki:
+
+1. **[[wiki/conceitos/onda-mental]]** (cap. 11) — pensamento como radiação eletromagnética sutil; cérebro como emissor-receptor; sintonia como motor da mediunidade; vontade como cíclotron.
+2. **[[wiki/conceitos/ideoplastia]]** (cap. 19) — modelagem de formas pelo pensamento; disciplina das sessões de efeitos físicos.
+3. **[[wiki/conceitos/psicometria]]** (cap. 20) — leitura medianímica de objetos como operação coletiva (Espíritos induzem o sensitivo).
+4. **[[wiki/conceitos/desdobramento]]** (cap. 21) — três regimes (artificial, natural, voluntário/instruído); base fisiológica da mediunidade sonâmbula.
+5. **[[wiki/conceitos/mediunidade-curativa]]** (cap. 22) — passe pelo circuito sangue–fluido cósmico; médium passista como representante do magnetizador espiritual; vontade do paciente como coautoria.
+
+Capítulos finais articulam **animismo como gradiente, não dicotomia** (cap. 23 — ver [[wiki/conceitos/animismo]]); **etiologia espírita das psicopatias** (cap. 24, expansão do tratamento de [[wiki/conceitos/obsessao]] por reencarnação a partir das zonas purgatoriais); **oração como reflexo condicionado positivo** (cap. 25, "comutador das correntes mentais"); e **Jesus como Médium de Deus** (cap. 26, exibindo todas as categorias mediúnicas — efeitos físicos, intelectuais, curativos), com Maria, José, Zacarias, Isabel, Simeão e Ana apresentados como "médiuns preparadores" do influxo crístico.
+
+A obra contém ainda a formulação canônica da **Lei do Campo Mental** (cap. 17): "a criatura consciente, seja onde for no Universo, apenas assimilará as influências a que se afeiçoe. Cada mente é como se fora um mundo, respirando nas ondas criativas que despede".
+
+Ver [[wiki/obras/mecanismos-da-mediunidade]].
+
 ## Mediunidade ontológica universal (André Luiz, *Nos Domínios da Mediunidade*, 1955)
 
 O 9º livro da série radicaliza a tese da universalidade até alcançar dimensão ontológica. Áulus, Assistente especializado em ciências mediúnicas, abre o curso (cap. 1) com o princípio que organiza a obra inteira: "**a mente permanece na base de todos os fenômenos mediúnicos**". A ideia é "um 'ser' organizado por nosso Espírito, a que o pensamento dá forma e ao qual a vontade imprime movimento e direção". Decorre o axioma da sintonia — "atraímos os Espíritos que se afinam conosco, tanto quanto somos por eles atraídos" — e o critério moral: "**não existe aperfeiçoamento mediúnico sem acrisolamento da individualidade**".
@@ -211,8 +229,15 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - [[wiki/conceitos/escala-espirita]] — régua de avaliação dos Espíritos comunicantes
 - [[wiki/conceitos/emancipacao-da-alma]] — fundamento da mediunidade sonambúlica
 - [[wiki/conceitos/fluidos]] — o fluido vital como agente mediúnico
+- [[wiki/conceitos/onda-mental]] — substrato fluídico do intercâmbio (Mecanismos cap. 11)
+- [[wiki/conceitos/animismo]] — fenômenos com cooperação consciente/inconsciente do médium
+- [[wiki/conceitos/ideoplastia]] — formas-pensamentos materializadas
+- [[wiki/conceitos/psicometria]] — leitura medianímica de objetos
+- [[wiki/conceitos/desdobramento]] — emancipação parcial do perispírito
+- [[wiki/conceitos/mediunidade-curativa]] — passe e fluidoterapia
 - [[wiki/obras/livro-dos-mediuns]]
 - [[wiki/obras/o-que-e-o-espiritismo]] — cap. II, introdução à mediunidade e seus tipos
+- [[wiki/obras/mecanismos-da-mediunidade]] — tratado expositivo da fisiologia mediúnica (1959)
 - [[wiki/obras/atos-dos-apostolos]] — Pentecostes e repertório fenomenológico apostólico
 
 ## Fontes
@@ -222,3 +247,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Caps. 1, 2, 16, 30 (tese da mente, psicoscópio, mandato, mediunidade ontológica universal). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos (fisiologia sutil, onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo, Jesus e mediunidade). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].

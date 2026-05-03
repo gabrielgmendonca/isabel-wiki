@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, espirito-comunicante, chico-xavier, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, no-mundo-maior, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-05-02
+tags: [andre-luiz, espirito-comunicante, chico-xavier, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, no-mundo-maior, mecanismos-da-mediunidade, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
+atualizado_em: 2026-05-03
 status: rascunho
 ---
 
@@ -32,6 +32,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/obras/nos-dominios-da-mediunidade]] — 9º livro da série (1955). Curso técnico de mediunidade ministrado por Áulus a André Luiz e Hilário; psicoscópio, equipagem mediúnica, tipologia das manifestações (psicofonia, possessão, sonambulismo torturado, fascinação, dominação telepática, passes, psicometria, efeitos físicos), mandato mediúnico e mediunidade ontológica universal.
 - [[wiki/obras/acao-e-reacao]] — 10º livro da série (1957). Três anos de estágio na Mansão Paz sob orientação de Druso e Silas: Lei de Causa e Efeito, regime de sanções, resgates coletivos, tipologia tríplice da dor (evolução / expiação / auxílio).
 - [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
+- [[wiki/obras/mecanismos-da-mediunidade]] — tratado expositivo em 26 capítulos (1959). Fisiologia sutil das faculdades mediúnicas pelo léxico da microfísica do séc. XX (eletromagnetismo, eletrônica, química); onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo; culminação cristocêntrica (Jesus como Médium de Deus).
 
 ## Citações relevantes
 
@@ -75,3 +76,4 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
