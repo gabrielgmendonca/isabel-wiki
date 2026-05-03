@@ -35,6 +35,17 @@ Antes de entrar formalmente na SPEE em 1865, Flammarion já comparece na *Revue 
 
 A **admissão formal na SPEE ocorre em 1865**, ano de publicação de [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]] e da [[wiki/obras/revista-espirita-1865|crise dos irmãos Davenport]]. Na **Alocução de reabertura da Sociedade de Paris em 6 de outubro de 1865** ([[wiki/obras/revista-espirita-1865|RE nov/1865]]), Kardec cita a profecia espiritual do padre D… — *"Os literatos serão os vossos mais poderosos auxiliares"* — formulação que descreve com precisão o papel histórico que Flammarion virá a desempenhar (do discurso fúnebre de 1869 até *La pluralité des mondes habités* publicado em sucessivas edições e *Astronomie populaire* em 1880).
 
+## Primeira contribuição autoral substantiva à Revista (RE dez/1867)
+
+Em "**O homem antes da história**" (RE dez/1867), Flammarion publica na *Revista Espírita* — agora como **autor encarnado, não mais como médium** — um artigo sobre **antropologia pré-histórica** (extraído dos seus artigos científicos no jornal *Le Siècle*). O texto trata: cidades lacustres da Suíça (descoberta de 1853 nas estiagens dos lagos); grutas funerárias de Aurignac (Haute-Garonne, 1852); Idade da Pedra dinamarquesa; alimentação onívora dos primitivos; túmulos pré-históricos como câmaras mortuárias com cadáveres em **atitude agachada** (joelhos contra o queixo, braços cruzados — *"a posição da criança no seio materno"*).
+
+A peça é importante por **dois motivos** complementares:
+
+1. **Nota editorial explícita de Kardec** (presente no rodapé): *"Julgamos dever reproduzi-lo, primeiro porque sabemos o interesse que têm os nossos leitores pelos escritos desse jovem sábio, e, além disto, porque, do ponto de vista da Ciência, ele toca nalguns dos pontos fundamentais da doutrina exposta em nossa obra sobre a Gênese."* É a **confirmação direta de que [[wiki/obras/genese|*Gênese*]] já estava em redação avançada em dezembro de 1867** — sairá em janeiro de 1868. A nota refere os caps. X ("Gênese orgânica") e XI ("Gênese espiritual") da obra, que tratam da formação dos seres vivos e da paleontologia humana.
+2. **Concretiza a profecia de 1865**: a Alocução de 6/10/1865 (RE nov/1865) anunciara, citando o padre D…, que *"Os literatos serão os vossos mais poderosos auxiliares"*. Flammarion é o **caso paradigmático** dessa profecia: jovem astrônomo cuja autoridade científica reforça a doutrina espírita do exterior do Espiritismo.
+
+Detalhe completo do papel de 1867 em [[wiki/obras/revista-espirita-1867]].
+
 ## O discurso no túmulo de Kardec
 
 No discurso, Flammarion:

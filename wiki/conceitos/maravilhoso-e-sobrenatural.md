@@ -48,6 +48,23 @@ A "Epidemia demoníaca na Sabóia" (RE abr/1862) e o "Estudo sobre os possessos 
 
 Material que prepara a posição definitiva em [[wiki/obras/genese]] cap. XV ("Os milagres do Evangelho").
 
+### Polêmica de 1867 — Philaléthès, *La Vérité* de Lyon
+
+A formulação canônica do programa terminológico é defendida em **"Do emprego da palavra 'milagre'"** (RE mai/1867), em resposta ao Sr. Philaléthès, redator do *La Vérité* de Lyon (16/09/1866), que havia censurado Kardec por *"inadvertência"* em recusar o vocábulo. Kardec responde *"em perfeito conhecimento de causa e com intenção"*:
+
+> *"Para ser por todos compreendido, é preciso falar como todo o mundo. Ora, é evidente que se tivéssemos qualificado os fenômenos espíritas de miraculosos, o público ter-se-ia enganado quanto ao seu verdadeiro caráter. [...] Considerando-se que a generalidade a isto liga a ideia de uma derrogação das leis naturais, e que os fenômenos espíritas não passam de aplicação dessas mesmas leis, é bem mais simples, e sobretudo mais lógico, dizer claramente: Não, o Espiritismo não faz milagres. Dessa maneira, não há engano nem falsa interpretação."* (RE mai/1867)
+
+A peça de 1867 é **matriz literal de [[wiki/obras/genese|*Gênese*]] cap. XIII** ("Caracteres dos milagres"). Ela amplia a recusa terminológica para **quatro vocábulos correlatos**:
+
+| Vocábulo | Razão da recusa |
+|---|---|
+| **Milagre** | Acepção corrente implica derrogação das leis naturais — incompatível com Espiritismo |
+| **Sobrenatural** | *"Insensatez do ponto de vista do Espiritismo"* — nada está fora da Natureza |
+| **Sobre-humano** (proposto por Philaléthès) | Os Espíritos *"não deixam de pertencer à humanidade"* |
+| **Demônio** | Sentido católico de "anjo decaído fora da humanidade" — recusado em RE fev/1867 ("Refutação da intervenção do demônio", recuperando Mons. Freyssinous, bispo de Hermópolis) |
+
+Conclusão programática: *"Vestir o Espiritismo com roupas velhas teria sido uma inabilidade; teria sido dar um golpe funesto na doutrina"*. Detalhe completo em [[wiki/obras/revista-espirita-1867]].
+
 ### Sobre a falsa equivalência crítica → ateísmo
 
 Kardec identifica que a recusa **do princípio** (alma + Espírito + ação invisível) leva ao materialismo, e o materialismo leva ao ateísmo:

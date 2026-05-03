@@ -83,6 +83,36 @@ O ano de 1866 traz **três casos novos** que reforçam a sistematização instit
 - **"Considerações sobre a propagação da mediunidade curadora"** ([[wiki/obras/revista-espirita-1866|RE nov/1866]]) — artigo metodológico-institucional sobre o **crescimento da prática** entre os adeptos e a necessidade de organização cuidadosa para **não cair sob acusação de exercício ilegal da medicina** (preocupação editorial reiterada em "O Espiritismo e a magistratura", RE mar/1866).
 - **"O príncipe de Hohenlohe, médium curador"** ([[wiki/obras/revista-espirita-1866|RE dez/1866]]) — caso histórico católico de mediunidade curadora exercida por dignitário eclesiástico, **rebaixada ao estatuto de fenômeno natural** pela leitura espírita. Continuidade da série anti-eclesiástica (Maria d'Agreda, Padre Dégenettes, Thomas Martin) que demonstra a presença de fenômenos mediúnicos autênticos no próprio universo católico.
 
+### Distinção médium-curador × médium-médico (RE out/1867)
+
+Em "Médicos - médiuns" (RE out/1867), Kardec **fixa a distinção doutrinária** entre dois regimes mediúnicos correlatos:
+
+| | **Médium-curador** | **Médium-médico** |
+|---|---|---|
+| Aquisição da faculdade | Recebida gratuitamente, sem trabalho prévio | Acrescida ao saber científico adquirido com esforço |
+| Remuneração material | **Vedada** — deve atuar gratuitamente | **Permitida** — exerce profissão regulamentada |
+| Desinteresse moral | Absoluto | Absoluto |
+| Subsistência | Trabalho ordinário separado | Profissão médica |
+
+> *"A faculdade do médium curador nada lhe custou; não lhe exigiu estudo, nem trabalho, nem despesas; ele recebeu-a gratuitamente, para o bem dos outros, e deve usá-la gratuitamente. [...] Muito diferente seria a posição dos médicos-médiuns. A Medicina é uma das carreiras sociais que se abraça para dela fazer uma profissão, e a ciência médica só se adquire a título oneroso, por um trabalho assíduo, por vezes penoso."* (RE out/1867, "Médicos - médiuns")
+
+Tese de futuro: convergência da medicina com a mediunidade — *"haja médicos-médiuns como há médiuns-médicos"*. Modelo histórico do tipo médium-médica: [[wiki/personalidades/condessa-de-clerambert|Sra. Adèle de Clérambert]] (estudou Medicina por gosto inato — memória de existência anterior — e atendeu sempre gratuitamente).
+
+### Casos públicos de 1867 — frente prática e jurídica
+
+O ano de 1867 documenta **cinco grandes casos públicos** que cristalizam o regime jurídico da mediunidade de cura na *Revista Espírita*:
+
+- **[[wiki/personalidades/zuavo-jacob|Zuavo Jacob]]** (RE jul + out + nov/1867) — soldado-médium curador militar; **interdição disciplinar** (não criminal) por perturbação do quartel.
+- **Simonet** (RE ago/1867) — marceneiro do Château du Bel-Air em Bordéus; mil consultas diárias; processo contra os hospedeiros (irmãos Barbier) por exploração comercial; Simonet apenas testemunha, ele próprio não condenado.
+- **Pedreiro Grezelle** de La Certellerie, Eure-et-Loir (RE jul/1867) — apedrejado em Illiers pela campanha do *Journal de Chartres*; investigação independente do Sr. Quômes d'Arras restaura a verdade.
+- **Sr. P...** (ex-cozinheiro autodidata, Paris, RE jul/1867) — detido pela polícia, denunciado por duas damas do bairro Saint-Germain.
+- **Caïd Hassan** (Tripolitânia, RE out/1867) — antigo governador de Ouerchéfâna, cura crianças com fórmula muçulmana ("benção do sangue").
+- **Cura Gassner** (RE nov/1867) — recuperação histórica do padre suábio (1727–1779); paralelo explícito com Hohenlohe e zuavo Jacob.
+
+A **doutrina jurídica** fixada em "A lei e os médiuns curadores" (RE jul/1867):
+
+> *"Não há nenhum poder no mundo que possa opor-se ao exercício da mediunidade ou magnetização curadora, na verdadeira acepção da palavra"* — desde que haja **completo desinteresse material**.
+
 ### Continuidade na literatura mediúnica
 
 A mediunidade de cura recebeu desenvolvimentos extensos em autores pós-Kardec:

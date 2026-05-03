@@ -121,6 +121,23 @@ A continuidade comprova o **método espírita** descrito por Kardec em *A Gênes
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — bloco cosmogônico–geológico–orgânico (caps. VI a X), com aprofundamento mediúnico de Emmanuel.
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — articulação com cap. I, item 33 (justiça distributiva).
 
+## Dossiê preparatório na Revista Espírita de 1867
+
+Como ocorrera com [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]] em 1865, **a *Revue Spirite* de 1867 funciona como dossiê preparatório direto de *A Gênese***. Quatro artigos do volume são trechos antecipados ou matrizes literais do livro:
+
+| Artigo na *Revista* | Capítulo de *Gênese* |
+|---------------------|----------------------|
+| ⭐⭐⭐ "**Caracteres da revelação espírita**" (RE set/1867, **44 itens numerados**) | **Cap. I — Caráter da revelação espírita** (transposição literal item por item) |
+| ⭐⭐ "**Do emprego da palavra 'milagre'**" (RE mai/1867) | **Cap. XIII — Caracteres dos milagres** |
+| ⭐⭐ "**Atmosfera espiritual**" (RE mai/1867) | **Cap. XIV — Os fluidos** |
+| ⭐⭐ "**O homem antes da história**" (Camille Flammarion, RE dez/1867, com nota editorial explícita de Kardec) | **Caps. X–XI — Gênese orgânica e espiritual** (paleontologia humana) |
+
+A nota editorial de Kardec à peça de Flammarion (RE dez/1867) **confirma diretamente que *Gênese* já estava em redação avançada em dezembro de 1867**: *"Julgamos dever reproduzi-lo [...] porque, do ponto de vista da Ciência, ele toca nalguns dos pontos fundamentais da doutrina exposta em nossa obra sobre a Gênese."*
+
+A peça do "milagre" é uma resposta extensa ao Sr. Philaléthès do *La Vérité* de Lyon, que havia sugerido reabilitação etimológica do vocábulo; Kardec defende a recusa terminológica *"em perfeito conhecimento de causa e com intenção"* — argumento que entra na demarcação do cap. XIII.
+
+Detalhe completo do dossiê em [[wiki/obras/revista-espirita-1867]].
+
 ## Como citar
 
 Formato padrão desta wiki:
