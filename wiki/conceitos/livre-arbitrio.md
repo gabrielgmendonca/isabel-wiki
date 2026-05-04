@@ -26,6 +26,17 @@ A fatalidade existe **unicamente pela escolha** que o Espírito fez, ao encarnar
 
 Essa escolha prévia **não anula** o livre-arbítrio diante das circunstâncias concretas da vida: o modo como se enfrenta a prova escolhida permanece aberto à liberdade humana.
 
+### Defesa do livre-arbítrio diante de leis numéricas — "Concordância dos números e a fatalidade" ([[wiki/obras/revista-espirita-1868|RE jul/1868]])
+
+A peça mais articulada de Kardec sobre o tema entre as obras complementares está em RE jul/1868. Articula matemática estatística (jogos de vermelho-preto, dados, antiga loteria francesa de 90 números) e demografia (mortalidade por idade) com o princípio doutrinário:
+
+- **Reconhecimento das leis numéricas**: *"é certo, pois, que os números estão na Natureza e que leis numéricas regem a maior parte dos fenômenos de ordem física"*. As chances do acaso *"se equilibram com uma surpreendente regularidade"*.
+- **Distinção fatalidade do conjunto / liberdade individual**: *"a fatalidade é o freio imposto ao homem por uma vontade superior a ele, e mais sábia que ele, em tudo o que não é deixado à sua iniciativa. Mas ela jamais é um entrave ao exercício de seu livre-arbítrio, no que toca às suas ações pessoais"*. Imagem dos peixes no rio: *"os pequenos remoinhos causados nas águas de um rio, pelos peixes que se agitam, não impedem a massa das águas de seguir o curso forçado que lhes imprime a lei de gravitação"*.
+- **Refutação do dogma materialista**: *"os materialistas, aqueles mesmos que proclamam o dogma da fatalidade, são os primeiros a dela tirar partido; a constituir-se senhores de sua liberdade […]. Sendo o materialismo a negação do princípio espiritual, é, por isso mesmo, a negação da liberdade"*.
+- **Recusa da culpabilidade da Providência**: *"se um acontecimento está no destino de um homem, ele realizar-se-á, a despeito de sua vontade, e será sempre para o seu bem, mas as circunstâncias da realização dependem do emprego que ele faça de seu livre-arbítrio"*.
+
+A peça refuta também toda *"ciência da concordância dos números"* (numerologia divinatória) como base de previsões individuais — a coincidência de datas, mesmo quando real, não autoriza inferência sobre o destino pessoal. Posição metodológica que se aplica permanentemente a sistemas adivinhatórios.
+
 ## Livre-arbítrio na escolha das provas
 
 No estado errante, entre encarnações, o Espírito **escolhe** o gênero de provas por que há de passar (LE, q. 258). Ver [[wiki/conceitos/vida-espirita]].

@@ -105,6 +105,16 @@ Em [[wiki/obras/revista-espirita-1866|RE dez/1866]], Kardec enfrenta **três hip
 
 O diagnóstico positivo: **mediunidade vidente, auditiva e escrevente** (caso natural sob leis dos fluidos), com prova de identidade externa e múltipla. Caso paralelo estruturalmente a [[wiki/personalidades/maria-dagreda|Maria d'Agreda]] (RE nov/1860) e ao Padre Dégenettes (RE ago/1865), compondo a série de fenômenos católicos relidos pelo Espiritismo como mediunidade autêntica — e demolindo a tese do *"demônio único agente"* defendida por bispos contemporâneos.
 
+### Recusa de profecias apocalípticas datadas — "O fim do mundo em 1911" ([[wiki/obras/revista-espirita-1868|RE abr/1868]])
+
+Continuidade direta do tratamento canônico em RE abr/1868 contra a brochura *Le fin du monde en 1911* de **Joseph Gustave Leserteur** (Lyon), que combinava sinais evangélicos com cálculo cabalístico do profeta alemão **Holzauzer** (1613). Kardec articula três argumentos:
+
+1. **Argumento histórico** — fim do mundo já fora previsto para 1840 (*"era pregado nas igrejas […] foram feitos pedidos e provocadas doações com esse objetivo"*). A profecia datada serve a interesses temporais e fracassa repetidamente.
+2. **Argumento teológico** — a narrativa de Holzauzer faz Satã mais poderoso que Deus: a Igreja sucumbe ao Anticristo, que faz milagres equivalentes aos divinos. *"Não está aí uma confissão ingênua de fraqueza e de impotência?"*
+3. **Tese espírita do fim regenerativo** — comunicação do Espírito [[wiki/personalidades/sr-jobard|Jobard]] (Sociedade de Paris, 28/02/1868, médium Morin): *"o fim do mundo está próximo… mas, o fim de que mundo? Será o fim do mundo da superstição, do despotismo, dos abusos mantidos pela ignorância, pela malevolência e pela hipocrisia […]. Tudo concorre para o fim do velho mundo"*.
+
+A peça consolida posição metodológica permanente: o Espiritismo recusa **toda profecia datada do fim do mundo material**, lendo o "fim dos tempos" em chave **regenerativa, não cataclísmica**. Material que ancora cap. XVIII de [[wiki/obras/genese|*Gênese*]] ("Os tempos são chegados") e a doutrina da [[wiki/conceitos/geracao-nova]].
+
 ## Aplicação prática
 
 - **Em estudo doutrinário:** sempre que um leitor ou crítico empregar "sobrenatural" ou "milagre" para descrever fenômeno espírita, propor a substituição por "fenômeno natural ainda não compreendido" ou "fenômeno extraordinário explicado pelas leis dos fluidos e do perispírito".
