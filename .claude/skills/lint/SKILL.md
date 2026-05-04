@@ -21,6 +21,7 @@ Flags disponíveis:
 - `--check NAME` (repetível): rodar apenas os checks listados. Ex: `--check broken_links --check frontmatter`.
 - `--skip NAME` (repetível): pular os checks listados.
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
+- `--file PATH`: modo single-file — roda só os checks isoláveis (frontmatter, fontes_missing, citation_format, broken_links, low_citations, rascunho_stale, divergencias_aberta, tag_taxonomy, tag_coverage, direitos_obras, quote_proportion) sobre uma única página, com items filtrados por path. Consumido pelo hook `PostToolUse` em `.claude/hooks/lint-on-edit.py` para feedback imediato pós-Edit/Write/MultiEdit em `wiki/**/*.md`. Não substitui o lint global — checks que precisam de estado entre páginas (orphan_pages, missing_concept_pages, naming_consistency, catalogo_*, pentateuco_completo, raw_excluded, skills_consistency) só rodam aqui.
 
 Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`.
 

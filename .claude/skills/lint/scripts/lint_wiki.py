@@ -1065,6 +1065,75 @@ CHECK_REGISTRY = {
 # Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).
 DEFAULT_SKIP = {"broken_urls"}
 
+# Checks isoláveis: operam sobre uma única página sem precisar de estado global
+# (incoming links, agregação de tags entre páginas, índice/catálogo, config do
+# Quartz). Usados pelo modo --file e pelo hook PostToolUse para feedback rápido
+# pós-edit. Os checks de fora deste conjunto continuam exclusivos do `/lint` global.
+SINGLE_FILE_CHECKS = (
+    "frontmatter",
+    "fontes_missing",
+    "citation_format",
+    "broken_links",
+    "low_citations",
+    "rascunho_stale",
+    "divergencias_aberta",
+    "tag_taxonomy",
+    "tag_coverage",
+    "direitos_obras",
+    "quote_proportion",
+)
+
+
+def _filter_items_to_target(check_result: dict, target_str: str) -> dict:
+    """Mantém apenas items cujo `source` ou `path` aponta para `target_str`.
+
+    Necessário porque alguns checks (notadamente `broken_links`) lêem fontes
+    auxiliares como `index.md` mesmo quando rodam sobre uma única página —
+    no modo single-file queremos só o ruído do arquivo recém-editado.
+    """
+    filtered = [
+        item for item in check_result.get("items", [])
+        if (item.get("source") or item.get("path")) == target_str
+    ]
+    return {
+        "severity": check_result["severity"],
+        "count": len(filtered),
+        "items": filtered,
+    }
+
+
+def lint_single_file(target: Path) -> dict:
+    """Roda os checks isoláveis sobre uma única página e devolve resultado filtrado.
+
+    Estrutura espelha `main()` para que callers (CLI `--file`, hook PostToolUse)
+    consumam o mesmo schema. Inclui apenas items cujo source/path bate com
+    `target` — INDEX_PATH e similares são descartados.
+    """
+    if not target.exists():
+        return {"error": f"arquivo não existe: {target}"}
+
+    pages = [target]
+    target_str = str(target)
+    checks: dict[str, dict] = {}
+    for name in SINGLE_FILE_CHECKS:
+        result = CHECK_REGISTRY[name](pages)
+        checks[name] = _filter_items_to_target(result, target_str)
+
+    errors = sum(1 for c in checks.values() if c["severity"] == "error" and c["count"] > 0)
+    warnings = sum(1 for c in checks.values() if c["severity"] == "warning" and c["count"] > 0)
+    infos = sum(1 for c in checks.values() if c["severity"] == "info" and c["count"] > 0)
+    total_items = sum(c["count"] for c in checks.values())
+
+    return {
+        "timestamp": datetime.now().isoformat(timespec="seconds"),
+        "file": target_str,
+        "checks": checks,
+        "summary": (
+            f"{total_items} achados em {target_str}: "
+            f"{errors} erro(s), {warnings} aviso(s), {infos} info"
+        ),
+    }
+
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Lint determinístico da wiki IsAbel")
@@ -1074,6 +1143,9 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
                    help="Pular os checks listados (repetível).")
     p.add_argument("--check-urls", action="store_true",
                    help="Habilita check broken_urls (I/O externo, opt-in).")
+    p.add_argument("--file", metavar="PATH",
+                   help="Modo single-file: roda apenas checks isoláveis sobre PATH "
+                        "(consumido pelo hook PostToolUse). Incompatível com --check/--skip.")
     return p.parse_args(argv)
 
 
@@ -1100,6 +1172,24 @@ def main(argv: list[str] | None = None):
     if not WIKI_DIR.exists():
         print(json.dumps({"error": "Diretório wiki/ não encontrado"}), file=sys.stdout)
         sys.exit(1)
+
+    if args.file:
+        if args.check or args.skip or args.check_urls:
+            print(json.dumps({"error": "--file é incompatível com --check/--skip/--check-urls"}),
+                  file=sys.stdout)
+            sys.exit(2)
+        target = Path(args.file)
+        result = lint_single_file(target)
+        print(json.dumps(result, ensure_ascii=False, indent=2))
+        if "error" in result:
+            sys.exit(1)
+        errors = sum(
+            1 for c in result["checks"].values()
+            if c["severity"] == "error" and c["count"] > 0
+        )
+        if errors > 0:
+            sys.exit(1)
+        return
 
     pages = collect_pages()
     selected = select_checks(args)

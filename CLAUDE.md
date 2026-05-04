@@ -40,6 +40,8 @@ Skills cobrem `/ingest`, `/lint`, `/slides`, `/stats`, `/glossario`, `/ship` (au
 
 **Para responder dúvidas doutrinárias**: buscar com `qmd` (coleções `wiki` e `raw`, sempre com `intent`, combinando `lex` + `vec`); citar começando por Jesus/Pentateuco; capitalizar a resposta em página citável (`wiki/sinteses/` para panoramas, `wiki/aprofundamentos/` para estudo sistemático, `wiki/questoes/` para Q&A ancorada em uma única questão/item) e listar em `wiki/sinteses/catalogo.md` + `log.md`. Pular só quando a pergunta for puramente operacional.
 
-## 5. Regras condicionais
+## 5. Regras condicionais e hooks
 
 `.claude/rules/*.md` são injetadas via hook `PreToolUse` (`.claude/hooks/inject-rules.py`) quando o `paths:` do frontmatter bate com o arquivo de Edit/Write/MultiEdit. Listar com `ls .claude/rules/`. Mover detalhe editorial para uma rule é a forma de manter este CLAUDE.md enxuto.
+
+Hook `PostToolUse` (`.claude/hooks/lint-on-edit.py`) roda `lint_wiki.py --file` após cada Edit/Write/MultiEdit em `wiki/**/*.md` e surfa erros/warnings de frontmatter, taxonomia de tags e wikilinks quebrados no momento da edição. Não bloqueia; complementa (não substitui) o `/lint` global.
