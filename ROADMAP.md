@@ -198,21 +198,20 @@ Itens ranqueados pelo impacto na qualidade e velocidade de construção da wiki 
 
 ### Impacto alto — muda o jogo
 
-1. **Métricas de cobertura (§5)** — Saber o que falta é tão valioso quanto saber o que existe. Reportar conceitos mencionados em 5+ páginas sem página própria, % do Pentateuco coberto, razão conceitos/questões — dá lista de trabalho priorizada em vez de depender de intuição.
-2. **Lint evolutivo (§5)** — Checks de conteúdo (páginas com poucas citações, nomenclatura inconsistente, aliases) mantêm qualidade conforme a wiki cresce. Hoje isso depende de o Claude Code "perceber" problemas durante ingest.
+1. **Aliases canônicos para personalidades e obras (§5)** — Lint evolutivo já cobre poucas citações, nomenclatura inconsistente e missing concepts (linha 120). Falta a política de aliases: forma canônica em frontmatter (`aliases: [...]`) + check que avise quando uma página usa nome não-canônico de personalidade/obra existente. Reduz drift conforme a wiki cresce e cita o mesmo autor de várias formas.
 
 ### Risco e robustez — custo baixo de mitigar, alto de não mitigar
 
-3. ~~**Política de fair-use para nível 3 protegido (§8)**~~ — concluído em 2026-04-27 (ver bloco "Concluído" acima).
-4. ~~**Testes do `scripts/link_citations.py` (§5)**~~ — concluído em 2026-05-01 (25 casos em `tests/`, rodando em CI).
-5. **Backup do que está fora do git (§5)** — `raw/`, `wiki/` e scripts já estão no git; índice qmd e estado local de hooks não. Regerar qmd do zero custa horas, não dias — então é mais documentação de checklist do que infraestrutura de backup. Vale fazer enquanto a memória do setup é fresca.
+2. ~~**Política de fair-use para nível 3 protegido (§8)**~~ — concluído em 2026-04-27 (ver bloco "Concluído" acima).
+3. ~~**Testes do `scripts/link_citations.py` (§5)**~~ — concluído em 2026-05-01 (25 casos em `tests/`, rodando em CI).
+4. **Backup do que está fora do git (§5)** — `raw/`, `wiki/` e scripts já estão no git; índice qmd e estado local de hooks não. Regerar qmd do zero custa horas, não dias — então é mais documentação de checklist do que infraestrutura de backup. Vale fazer enquanto a memória do setup é fresca.
 
 ### Impacto médio — acelera o que já funciona
 
-6. **Pipeline de palestras (§1)** — Automatizar YouTube → transcrição → MD reduz fricção significativa; cada palestra hoje exige vários passos manuais antes do ingest.
-7. **Lint em CI (§5)** — Rede de segurança útil, mas já rodamos `/lint` manualmente; ganho incremental.
-8. **Auditoria de conteúdo gerado por LLM (§8)** — Importância cresce com o tempo. Hoje a wiki é pessoal-pública; em 12-24 meses, se for citada por terceiros, transparência sobre paráfrase vs citação importa muito mais. Implementação simples (campo de frontmatter); o trabalho é definir a política.
-9. **Eficiência de tokens — eixo §9** — concluído (2026-05-04): disciplina em queries `qmd`, granularização de `convencoes-paginas.md`, partição mensal da Revista Espírita, Haiku para `/lint` e `/glossario`, pré-resumo de obras monolíticas (LM/Gênese/ESE). Custo composto: ganho pequeno por turno, alto somado em meses de uso. Per-artigo da Revista Espírita descartado — partição mensal + `qmd get` com offset já cobrem o overhead.
+5. **Pipeline de palestras (§1)** — Automatizar YouTube → transcrição → MD reduz fricção significativa; cada palestra hoje exige vários passos manuais antes do ingest.
+6. **Lint em CI (§5)** — Rede de segurança útil, mas já rodamos `/lint` manualmente; ganho incremental.
+7. **Auditoria de conteúdo gerado por LLM (§8)** — Importância cresce com o tempo. Hoje a wiki é pessoal-pública; em 12-24 meses, se for citada por terceiros, transparência sobre paráfrase vs citação importa muito mais. Implementação simples (campo de frontmatter); o trabalho é definir a política.
+8. **Eficiência de tokens — eixo §9** — concluído (2026-05-04): disciplina em queries `qmd`, granularização de `convencoes-paginas.md`, partição mensal da Revista Espírita, Haiku para `/lint` e `/glossario`, pré-resumo de obras monolíticas (LM/Gênese/ESE). Custo composto: ganho pequeno por turno, alto somado em meses de uso. Per-artigo da Revista Espírita descartado — partição mensal + `qmd get` com offset já cobrem o overhead.
 
 ### Decisões arquiteturais a destravar
 
