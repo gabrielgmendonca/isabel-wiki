@@ -2,9 +2,12 @@
 tipo: obra
 fontes: [C&I]
 tags: [kardec, pentateuco, codificacao, ceu, inferno, penas-eternas, anjos, demonios, purgatorio, obra/ci, autor/kardec, tema/vida-futura]
+aliases:
+  - "Le Ciel et l'Enfer"
+  - "Le Ciel et l'Enfer ou la Justice divine selon le Spiritisme"
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-05-02
+atualizado_em: 2026-05-04
 status: ativo
 ---
 

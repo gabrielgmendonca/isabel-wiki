@@ -2,7 +2,9 @@
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
 tags: [andre-luiz, espirito-comunicante, chico-xavier, waldo-vieira, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, no-mundo-maior, mecanismos-da-mediunidade, sexo-e-destino, e-a-vida-continua, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-05-03
+aliases:
+  - "Andre Luiz"
+atualizado_em: 2026-05-04
 status: rascunho
 ---
 

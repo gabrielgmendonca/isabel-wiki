@@ -20,6 +20,8 @@ status: rascunho | ativo | revisar
 
 Para `tipo: obra`, completar com o bloco `direitos:` — schema e tabela de detentores em `convencoes-direitos.md` (carrega ao editar `wiki/obras/**`). Para taxonomia de tags hierárquicas (`obra/`, `lei/`, `grau/`, `tema/`, `autor/`), ver `convencoes-tags.md`.
 
+Páginas `tipo: personalidade` e `tipo: obra` aceitam ainda o campo opcional `aliases:` (lista de strings) com formas alternativas pelas quais a entidade é referenciada — política e regras em `convencoes-aliases.md`.
+
 ## Links e slugs
 
 - Links estilo Obsidian: `[[wiki/conceitos/reencarnacao]]`, `[[wiki/obras/livro-dos-espiritos]]`.

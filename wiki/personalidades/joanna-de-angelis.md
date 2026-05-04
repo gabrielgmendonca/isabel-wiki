@@ -2,7 +2,9 @@
 tipo: personalidade
 fontes: []
 tags: [espirito-mentor, autor-espiritual, complementar, joanna-de-angelis, autor/joanna-de-angelis, tema/espiritos, grau/intermediario, lei/justica-amor-caridade]
-atualizado_em: 2026-05-02
+aliases:
+  - "Joanna de Angelis"
+atualizado_em: 2026-05-04
 status: ativo
 ---
 

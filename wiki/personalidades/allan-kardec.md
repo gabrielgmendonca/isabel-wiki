@@ -2,7 +2,12 @@
 tipo: personalidade
 fontes: [LE, ESE, Gênese, OPE]
 tags: [codificador, kardec, rivail, obra/le, obra/ese, obra/genese, obra/ope, autor/kardec, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-30
+aliases:
+  - "Hippolyte Léon Denizard Rivail"
+  - "Hippolyte Rivail"
+  - "Léon Denizard Rivail"
+  - "Rivail"
+atualizado_em: 2026-05-04
 status: ativo
 ---
 

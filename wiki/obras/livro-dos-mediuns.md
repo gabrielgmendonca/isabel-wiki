@@ -2,9 +2,11 @@
 tipo: obra
 fontes: [LM]
 tags: [kardec, pentateuco, codificacao, mediunidade, manifestacoes, pratica-espirita, obra/lm, autor/kardec, tema/mediunidade]
+aliases:
+  - "Le Livre des Médiums"
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-04
 status: ativo
 ---
 

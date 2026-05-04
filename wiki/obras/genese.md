@@ -2,9 +2,12 @@
 tipo: obra
 fontes: [Gênese]
 tags: [kardec, pentateuco, codificacao, genese, milagres, predicoes, fluidos, obra/genese, autor/kardec, tema/deus]
+aliases:
+  - "La Genèse, les Miracles et les Prédictions selon le Spiritisme"
+  - "La Genèse selon le Spiritisme"
 direitos:
   detentor: dominio-publico
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-04
 status: ativo
 ---
 

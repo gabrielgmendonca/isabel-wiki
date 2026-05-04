@@ -1002,6 +1002,106 @@ def check_direitos_obras(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items_info), "items": items_info}
 
 
+def _strip_blockquotes(body: str) -> str:
+    """Substitui linhas começando com `>` por espaços, preservando offsets.
+
+    Citações em blockquote (transcrições literais de fonte) podem usar a forma
+    histórica de uma personalidade (ex.: "Rivail" em jornal de 1857) e devem
+    ser preservadas. O canonical-name check ignora esse conteúdo.
+    """
+    out = []
+    for line in body.splitlines(keepends=True):
+        stripped = line.lstrip()
+        if stripped.startswith(">"):
+            out.append("".join(c if c == "\n" else " " for c in line))
+        else:
+            out.append(line)
+    return "".join(out)
+
+
+def _strip_wikilinks(body: str) -> str:
+    """Substitui o conteúdo de cada `[[...]]` por espaços, preservando offsets.
+
+    Necessário para o canonical-name check: aliases já citados via wikilink
+    com label (`[[wiki/personalidades/allan-kardec|Rivail]]`) são uso correto
+    e não devem ser sinalizados.
+    """
+    return re.sub(r"\[\[[^\]]*\]\]", lambda m: " " * len(m.group(0)), body)
+
+
+def check_canonical_names(pages: list[Path]) -> dict:
+    """Check — uso de alias registrado fora de wikilink/blockquote/inline code.
+
+    Constrói o mapa alias → canonical a partir do campo `aliases:` no frontmatter
+    de páginas em `wiki/personalidades/` e `wiki/obras/`. Para cada página da
+    wiki, varre o corpo (sem frontmatter, sem blockquotes, sem inline code, sem
+    wikilinks) e sinaliza ocorrências de alias como whole-word. Skip explícito:
+
+    - Página canônica da própria entidade (ela introduz seus próprios aliases
+      em "Identificação", "Dados bibliográficos", etc.).
+    - Aliases com menos de 4 caracteres (regra editorial em
+      `convencoes-aliases.md`) — defesa profunda contra cadastro errado.
+
+    Severity `info`: orienta passes incrementais; promover a `warning` após
+    calibração contra falsos positivos.
+    """
+    aliases_map: dict[str, dict] = {}
+    canonical_dirs = ("personalidades", "obras")
+    for page in pages:
+        if not any(f"/{d}/" in str(page) for d in canonical_dirs):
+            continue
+        fm, _ = parse_frontmatter(page)
+        aliases = fm.get("aliases") or []
+        if isinstance(aliases, str):
+            aliases = [aliases]
+        for alias in aliases:
+            alias_str = alias.strip()
+            if len(alias_str) < 4:
+                continue
+            # Em caso de colisão (alias registrado em duas páginas), preserva o
+            # primeiro e ignora subsequentes — o cadastro deveria ser único.
+            if alias_str in aliases_map:
+                continue
+            aliases_map[alias_str] = {
+                "canonical_path": str(page),
+                "canonical_link": page_key(page),
+            }
+
+    if not aliases_map:
+        return {"severity": "info", "count": 0, "items": []}
+
+    # Compila um regex por alias com word-boundary unicode-aware. \b padrão do
+    # Python já trata letras acentuadas como parte da palavra na flag default,
+    # mas a borda em "Rivail." casa porque "." não é \w — bom assim.
+    alias_patterns = {
+        alias: re.compile(rf"\b{re.escape(alias)}\b")
+        for alias in aliases_map
+    }
+
+    items: list[dict] = []
+    for page in pages:
+        page_str = str(page)
+        text = page.read_text(encoding="utf-8")
+        body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
+        body = strip_inline_code(body)
+        body = _strip_blockquotes(body)
+        body = _strip_wikilinks(body)
+        for alias, info in aliases_map.items():
+            if info["canonical_path"] == page_str:
+                continue  # página canônica introduz seus próprios aliases
+            pat = alias_patterns[alias]
+            for i, line in enumerate(body.splitlines(), 1):
+                if pat.search(line):
+                    items.append({
+                        "path": page_str,
+                        "line": i,
+                        "alias": alias,
+                        "canonical": info["canonical_link"],
+                    })
+                    break  # uma ocorrência por (página, alias) basta
+    return {"severity": "info", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -1057,6 +1157,7 @@ CHECK_REGISTRY = {
     "tag_taxonomy": check_tag_taxonomy,
     "tag_coverage": check_tag_coverage,
     "naming_consistency": check_naming_consistency,
+    "canonical_names": check_canonical_names,
     "skills_consistency": check_skills_consistency,
     "raw_excluded": check_raw_excluded,
     "direitos_obras": check_direitos_obras,

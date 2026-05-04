@@ -2,7 +2,9 @@
 tipo: personalidade
 fontes: [OPE, RE]
 tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-05-02
+aliases:
+  - "Nicolas Camille Flammarion"
+atualizado_em: 2026-05-04
 status: ativo
 ---
 
