@@ -24,7 +24,7 @@ Décimo-primeiro volume da *Revue Spirite*, redigido por [[wiki/personalidades/a
 - **Editora original:** Bureaux de la Revue Spirite, Paris
 - **Página-mãe:** [[wiki/obras/revista-espirita]] — visão de conjunto dos 12 volumes (1858–1869)
 - **Volume anterior:** [[wiki/obras/revista-espirita-1867]] (ainda não detalhado)
-- **Volume seguinte:** [[wiki/obras/revista-espirita-1869]] (volume póstumo, jan–abr/1869, ainda não detalhado)
+- **Volume seguinte:** Revista Espírita 1869 (volume póstumo, jan–abr/1869, ainda não detalhado)
 - **Texto integral:** [[raw/kardec/revista-espirita/1868/01-janeiro|raw/kardec/revista-espirita/1868/]]
 - **Fonte original online:** [Kardecpédia — Revista Espírita 1868](https://kardecpedia.com/roteiro-de-estudos/902/revista-espirita-jornal-de-estudos-psicologicos-1868)
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **2 — Kardec complementar**.
