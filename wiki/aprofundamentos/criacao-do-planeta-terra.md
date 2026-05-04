@@ -1,8 +1,8 @@
 ---
 tipo: aprofundamento
-fontes: [Gênese, LE, Emmanuel/Chico Xavier]
-tags: [criacao, cosmogonia, geologia, terra, fluido-cosmico, principio-vital, alma-da-terra, jesus, capela, obra/genese, obra/le, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado, tema/deus]
-atualizado_em: 2026-04-26
+fontes: [Gênese, LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier]
+tags: [criacao, cosmogonia, geologia, terra, fluido-cosmico, principio-vital, alma-da-terra, jesus, capela, obra/genese, obra/le, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/avancado, tema/deus]
+atualizado_em: 2026-05-04
 status: ativo
 ---
 
@@ -37,6 +37,12 @@ Antes de tratar da Terra em particular, Kardec estabelece a substância de que t
 > "Há um fluido etéreo que enche o espaço e penetra os corpos. Esse fluido é o éter ou matéria cósmica primitiva, geradora do mundo e dos seres. São-lhe inerentes as forças que presidiram às metamorfoses da matéria, as leis imutáveis e necessárias que regem o mundo." (Gênese, cap. VI, item 10)
 
 Esse fluido é o ponto de partida físico da criação: dele derivam as forças (gravidade, coesão, afinidade, magnetismo, eletricidade) e os estados da matéria (sólido, líquido, gasoso, etéreo). É também o substrato do **princípio vital** (Gênese, cap. X, item 17) e do **perispírito** (Gênese, cap. XIV, item 7). A criação do planeta Terra é, em última análise, uma sequência particular de transformações dessa substância única — por isso a cosmogonia kardeciana parte da uranografia geral antes de descer ao globo terrestre.
+
+Décadas depois, André Luiz retoma o conceito em *Evolução em Dois Mundos* (1958) com vocabulário deliberadamente inclusivo de outras escolas:
+
+> "O fluido cósmico é o plasma divino, hausto do Criador ou força nervosa do Todo-Sábio. Nesse elemento primordial, vibram e vivem constelações e sóis, mundos e seres, como peixes no oceano." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 1)
+
+A substância única é a mesma de Kardec (LE, q. 27–29; Gênese, cap. VI, item 10), mas a obra identifica as "Inteligências Divinas" com os "grandes Devas da teologia hindu" e os "Arcanjos da interpretação de variados templos religiosos", definindo toda matéria como "energia tornada visível" e toda energia como "força divina" — ressalvando-se que o homem co-cria, mas só Deus é o Criador. Ver [[wiki/obras/evolucao-em-dois-mundos]].
 
 Ver [[wiki/conceitos/fluido-cosmico-universal]].
 
@@ -134,6 +140,7 @@ A criação do planeta Terra é, assim, o primeiro capítulo de uma narrativa qu
 - **Os "seis dias" da Gênese mosaica** — Gênese, cap. XII (Gênese moisaica). Leitura espírita da narrativa de Moisés como alegoria progressiva, compatível com os períodos geológicos.
 - **Origem do homem corpóreo** — Gênese, cap. X, "O homem corpóreo"; cap. XI, "União do princípio espiritual à matéria". Para o vínculo entre formação biológica e encarnação dos Espíritos, ver [[wiki/conceitos/raca-adamica]] e [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]].
 - **A Capela e o exílio** — *A Caminho da Luz*, cap. 3. Tema separado da formação do planeta em si, mas que dá continuidade narrativa à cosmogonia.
+- **O fluido cósmico em André Luiz** — *Evolução em Dois Mundos*, parte I, cap. 1. Reformulação posterior do conceito kardeciano com vocabulário inclusivo de tradições religiosas (Devas, Arcanjos) e equivalência matéria↔energia↔força divina. Útil para aproximar o público heterodoxo do esquema cosmogônico.
 
 ---
 
@@ -151,6 +158,7 @@ A criação do planeta Terra é, assim, o primeiro capítulo de uma narrativa qu
 - [[wiki/personalidades/emmanuel]] — autor espiritual do aprofundamento mediúnico
 - [[wiki/obras/genese]] — obra-fonte primária deste aprofundamento
 - [[wiki/obras/a-caminho-da-luz]] — obra-fonte do aprofundamento complementar
+- [[wiki/obras/evolucao-em-dois-mundos]] — reformulação posterior do fluido cósmico como "plasma divino"
 - [[wiki/sinteses/hierarquia-de-autoridade]] — critério de articulação entre Pentateuco e complementares
 
 ---
@@ -160,3 +168,4 @@ A criação do planeta Terra é, assim, o primeiro capítulo de uma narrativa qu
 - Kardec, Allan. *A Gênese, os Milagres e as Predições Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. VI ("Uranografia geral"), itens 7–23; cap. VII ("Esboço geológico da Terra"), itens 1–48; cap. VIII ("Teorias sobre a formação da Terra"), itens 1–7; cap. IX ("Revoluções do globo"), itens 1–15; cap. X ("Gênese orgânica"), itens 16–19; cap. XII ("Gênese moisaica"). Edição: [[raw/kardec/pentateuco/genese]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. q. 27–29 (matéria e elementos gerais), q. 60–75 (princípio vital). Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Xavier, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Cap. 1 ("A Gênese Planetária"); cap. 2 ("A Vida Organizada"). Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]]. Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Acl/AclPref.htm>.
+- Xavier, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, cap. 1 ("Fluido cósmico"). Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
