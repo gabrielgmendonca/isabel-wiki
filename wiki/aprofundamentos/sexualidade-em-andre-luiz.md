@@ -1,8 +1,8 @@
 ---
 tipo: aprofundamento
-fontes: [André Luiz/Chico Xavier, LE]
-tags: [sexualidade, sexo, matrimonio, divorcio, aborto, centro-genesico, casa-mental, no-mundo-maior, andre-luiz, lei/reproducao, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/igualdade, tema/historia-doutrina]
-atualizado_em: 2026-05-01
+fontes: [André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, LE]
+tags: [sexualidade, sexo, matrimonio, divorcio, aborto, centro-genesico, casa-mental, no-mundo-maior, sexo-e-destino, possessao-partilhada, almas-irmas, andre-luiz, lei/reproducao, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/igualdade, tema/historia-doutrina, tema/encarnacao]
+atualizado_em: 2026-05-04
 status: rascunho
 ---
 
@@ -167,20 +167,68 @@ O cap. 20 da Parte II ("Invasão microbiana") amplia o quadro: doenças orgânic
 
 > "Os princípios de Jesus, desterrando de nós animalidade e orgulho, vaidade e cobiça, crueldade e avareza, e exortando-nos à simplicidade e à humildade, à fraternidade sem limites e ao perdão incondicional, estabelecem, quando observados, a imunologia perfeita em nossa vida interior." (parte II, cap. 20)
 
+### 7. *Sexo e Destino* (1963): a sexualidade como construtora de destino
+
+Cinco anos após a anatomia funcional de [[wiki/obras/evolucao-em-dois-mundos|*Evolução em Dois Mundos*]], a parceria André Luiz / Chico Xavier + [[wiki/personalidades/waldo-vieira|Waldo Vieira]] publica [[wiki/obras/sexo-e-destino|*Sexo e Destino*]], romance doutrinário que substitui o tratado pela narrativa: nenhuma das proposições de 1958 é abandonada, mas a doutrina é desdobrada em três aportes próprios — uma **tese ativa** (sexo como construtor de destino reencarnatório), uma **categoria fenomenológica nova** (possessão partilhada) e uma **postura pastoral** explícita sobre identidades fora da norma cisheterossexual.
+
+#### (a) A tese central: sexo edifica ou desorganiza o destino
+
+A obra não traz manifesto de abertura — a tese está dispersa em falas de Félix, instrutor que dirige o "Almas Irmãs", hospital-escola dedicado à reeducação sexual de Espíritos em vias de reencarnação. As formulações mais sintéticas:
+
+> "Qualquer dia é dia de criar destino ou reconstituir destino, de vez que todos somos consciências responsáveis." (Félix, *Sexo e Destino*, Parte 2, cap. 5 — cena Almas Irmãs)
+
+> "Qualquer ligação sexual, instalada no campo emotivo, engendra sistemas de compensação vibratória, e o parceiro que lesa o outro, até o ponto em que suscitou os desastres morais consequentes, passa a responder por dívida justa. Todo desmando sexual danificando consciências reclama corrigenda, tanto quanto qualquer abuso do raciocínio." (Félix, Parte 2, cap. 5)
+
+A novidade narrativa é a **instituição "Almas Irmãs"** — agremiação espiritual de cinco a seis mil estudantes que se preparam, antes do renascimento, em **disciplinas categoricamente nomeadas**: "Sexo e amor. Sexo e matrimônio. Sexo e maternidade. Sexo e estímulo. Sexo e equilíbrio. Sexo e medicina. Sexo e evolução. Sexo e penalogia" (Parte 2, cap. 5). Currículo doutrinário inteiro construído sobre o eixo sexo↔destino. Os de matrícula mais numerosa são "sexo e maternidade" (alunos que se endereçam aos ajustes de lar) e "sexo e penalogia" (Espíritos conscientes que examinam a melhor maneira de infligirem a si próprios determinadas inibições, para se corrigirem de hábitos deprimentes no curso da reencarnação a que se dirigem) — confirmando que **o sexo é tratado como vetor de causalidade reencarnatória**, não como apêndice biológico do encarne.
+
+A estatística do "Almas Irmãs" — "no coeficiente de cada cem estudantes, dezoito vitoriosos nos compromissos da reencarnação, vinte e dois melhorados, vinte e seis muito imperfeitamente melhorados e trinta e quatro onerados por dívidas lamentáveis" (Parte 2, cap. 5) — sublinha o realismo da tese: a maioria fracassa na primeira tentativa. Sexo constrói destino, mas o programa pode ser rompido pelo arbítrio do encarnado, exigindo nova rodada.
+
+A tese é coerente com Kardec ([[wiki/conceitos/lei-de-causa-e-efeito]] aplicada à Lei de Reprodução, LE q. 686-701) e com a posição de 1958 sobre o centro genésico, mas dá-lhe **dimensão arquitetônica**: o sexo, em *Sexo e Destino*, não é só fisiologia sutil — é o material de construção do próximo renascimento.
+
+#### (b) Possessão partilhada (Parte 1, cap. 8) — categoria fenomenológica nova
+
+Acrescentando à tipologia kardequiana das três formas de obsessão (LM cap. XXIII), André Luiz registra uma **quarta configuração**, qualitativamente distinta: o encarnado **consente prazerosamente** na invasão do obsessor desencarnado, e ambos compartilham sensações, impulsos e responsabilidade — "dois seres num corpo só" — em "quotas iguais" de culpa.
+
+> "E afirmamos 'possessão partilhada', porque, efetivamente, ali, um aspirava ardentemente aos objetivos desonestos do outro, completando-se, euforicamente, na divisão da responsabilidade em quotas iguais." (André Luiz, *Sexo e Destino*, Parte 1, cap. 8)
+
+A condição necessária é a **afinidade total** — sintonia de paixão dominante. O fenômeno aparece em *Sexo e Destino* especialmente ligado ao desejo sexual desregrado, mas o mecanismo é genérico: qualquer paixão dominante pode produzir o mesmo acoplamento se intensa o bastante. Articula sexualidade, [[wiki/conceitos/vampirismo-espiritual|vampirismo espiritual]] e [[wiki/conceitos/obsessao|obsessão]] em quadro unificado. Tratamento sistemático em [[wiki/conceitos/possessao-partilhada]].
+
+A relevância para a doutrina da sexualidade é que **o consentimento prazeroso à influência inferior é, ele próprio, uma forma de construção de destino**: o encarnado não é vítima passiva — é coautor. Coerente com a posição moral conservadora de 1958 (matrimônio, divórcio, aborto), mas oferece o **mecanismo perispiritual** que explica por que a reforma íntima é a única terapêutica eficaz; doutrinação isolada do obsessor não basta porque "a porta está aberta de dentro".
+
+#### (c) Dignidade dos homossexuais e intersexos (Parte 2, cap. 5 — Almas Irmãs)
+
+Na cena central do "Almas Irmãs", a pedido de Neves que formula consulta direta sobre o tema, Félix oferece a **posição doutrinária mais explícita do corpus chicoxaveriano sobre identidades sexuais fora da norma cisheterossexual**:
+
+> "Tendo Neves formulado consulta sobre os homossexuais, Félix demonstrou que inúmeros Espíritos reencarnam em condições inversivas, seja no domínio de lides expiatórias ou em obediência a tarefas específicas, que exigem duras disciplinas por parte daqueles que as solicitam ou que as aceitam. Referiu ainda que homens e mulheres podem nascer homossexuais ou intersexos, como são suscetíveis de retomar o veículo físico na condição de mutilados ou inibidos em certos campos de manifestação, aditando que a alma reencarna, nessa ou naquela circunstância, para melhorar e aperfeiçoar-se e nunca sob a destinação do mal." (Parte 2, cap. 5)
+
+Quatro proposições articulam o tratamento:
+
+1. **Reencarnação programada, não acidental.** A condição homossexual ou intersexo é resultado de provação ou tarefa assumida pelo Espírito antes do renascimento — coerente com [[wiki/conceitos/planejamento-reencarnatorio]] e LE q. 258-259 sobre escolha de provas.
+
+2. **Igualdade integral perante a Justiça Divina.** "Nos foros da Justiça Divina, em todos os distritos da Espiritualidade Superior, as personalidades humanas tachadas por anormais são consideradas tão carecentes de proteção quanto as outras que desfrutam a existência garantida pelas regalias da normalidade, segundo a opinião dos homens, observando-se que as faltas cometidas pelas pessoas de psiquismo julgado anormal são examinadas no mesmo critério aplicado às culpas de pessoas tidas por normais" (Parte 2, cap. 5). Tratamento doutrinariamente isonômico — sem culpabilização específica, sem exigência moral diferenciada.
+
+3. **Condenação explícita do preconceito social.** "No mundo porvindouro os irmãos reencarnados, tanto em condições normais quanto em condições julgadas anormais, serão tratados em pé de igualdade, no mesmo nível de dignidade humana, reparando-se as injustiças assacadas, há séculos, contra aqueles que renascem sofrendo particularidades anômalas, porquanto a perseguição e a crueldade com que são batidos pela sociedade humana lhes impedem ou dificultam a execução dos encargos que trazem à existência física, quando não fazem deles criaturas hipócritas, com necessidade de mentir incessantemente para viver" (Parte 2, cap. 5). Em 1963, antes da Revolução Sexual, do Stonewall (1969) e da despatologização da homossexualidade pela OMS (1990), a posição é antecipatória.
+
+4. **Prudência quanto à mudança jurídica brusca.** Félix ressalva que "os homens não podem efetivamente alterar, de chofre, as leis morais em que se regem, sob pena de precipitar a Humanidade na dissolução, entendendo-se que os Espíritos ainda ignorantes ou animalizados, por enquanto em maioria no seio de todas as nações terrestres, estão invariavelmente decididos a usurpar liberalidades prematuras para converter os valores sublimes do amor em criminalidade e devassidão" (Parte 2, cap. 5). A passagem é **conservadora no plano civil** ("não alterar de chofre") mas **inequivocamente acolhedora no plano espiritual e pessoal** ("dignidade humana", "reparação de injustiças seculares"). É uma das passagens mais delicadas da obra: distingue postura pastoral (acolher) de postura jurídico-social (não precipitar reformas).
+
+A tese articula-se com a antecipação de 1947 em [[wiki/obras/no-mundo-maior|*No Mundo Maior*]] (cap. 11): "a genética, mais hoje, mais amanhã, poderá interferir nas câmaras secretas da vida humana (...); todavia, não atingirá a zona mais alta da mente feminina ou masculina, que manterá característicos próprios, independentemente da forma exterior". Identidade sexual é função da alma; o sexo biológico é instrumento de prova, não veredicto sobre o Espírito. Em *Sexo e Destino*, essa cosmologia ganha **consequência pastoral**: respeito, fraternidade, reparação histórica. Antecipa em sete anos a posição que Emmanuel formularia em *Vida e Sexo* (1970) — registro detalhado em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]], seção "Extensão: André Luiz (1963)".
+
 ## Síntese
 
-André Luiz oferece, sobre a sexualidade, uma doutrina articulada em **seis eixos** (cosmológico de 1945, dialógico com a psicanálise de 1947, e os quatro do quadro anatômico-moral de 1958):
+André Luiz oferece, sobre a sexualidade, uma doutrina articulada em **sete eixos** que percorrem 18 anos do corpus chicoxaveriano (1945-1963):
 
 0. **Cosmológico** (*Missionários da Luz*, 1945, cap. 13): o sexo é qualidade positiva ou passiva da alma, princípio universal de "união de qualidades" que percorre astros, almas e elementos químicos.
 
 0.5. **Dialógico com a psicanálise** (*No Mundo Maior*, 1947, cap. 11): tipologia tripartite mapeada sobre a casa mental — Freud descreve o 1º andar (impulsos), Adler o 2º (cobiça de poder), Jung o 3º (aspiração superior). As três escolas têm parcela de razão; falta-lhes a chave reencarnacionista. Identidade sexual é função da alma, não do corpo — independentemente de hormônios ou cromossomos.
 
-1. **Evolutivo**: o sexo é uma conquista do princípio inteligente, a serviço da reprodução e do amor.
-2. **Anatômico**: o centro genésico é o eixo psicossomático da sexualidade, com repercussões sistêmicas.
-3. **Moral**: matrimônio é vínculo cármico sério; divórcio é mal menor admissível; aborto provocado é dívida grave (com cláusula evangélica de misericórdia).
-4. **Terapêutico**: a "imunologia perfeita" é a vivência do Evangelho — humildade, fraternidade, perdão.
+1. **Evolutivo** (*Evolução em Dois Mundos*, 1958, parte I): o sexo é uma conquista do princípio inteligente, a serviço da reprodução e do amor.
+2. **Anatômico** (1958, parte I cap. 18; parte II caps. 13-14, 16): o centro genésico é o eixo psicossomático da sexualidade, com repercussões sistêmicas.
+3. **Moral** (1958, parte II caps. 8, 13-14): matrimônio é vínculo cármico sério; divórcio é mal menor admissível; aborto provocado é dívida grave (com cláusula evangélica de misericórdia).
+4. **Terapêutico** (1958, parte II cap. 20): a "imunologia perfeita" é a vivência do Evangelho — humildade, fraternidade, perdão.
 
-A doutrina é coerente com Kardec em substância, conservadora em formulação, e datada em algumas formulações sociais (linguagem sobre gênero, divórcio, papéis conjugais). Sua leitura em palestra ou estudo demanda contextualização histórica e hierárquica.
+7. **Construtor de destino** (*Sexo e Destino*, 1963, com Waldo Vieira): a sexualidade é vetor causal do próximo renascimento — não apêndice da encarnação, mas matéria-prima dela. Acrescenta (a) a **tese ativa** (sexo edifica ou desorganiza o destino, eixo de toda a programação reencarnatória feita no "Almas Irmãs"); (b) a **possessão partilhada** como quarta categoria fenomenológica (acréscimo à tipologia de LM cap. XXIII); e (c) **posição pastoral explícita** sobre homossexuais e intersexos — reencarnam em provação ou tarefa, têm dignidade integral perante a Justiça Divina, e a perseguição social precisa ser reparada, sem que isso implique reformas civis abruptas.
+
+A doutrina é coerente com Kardec em substância, conservadora em formulação social, e datada em alguns aspectos (linguagem sobre gênero, divórcio, papéis conjugais — embora *Sexo e Destino* já flexione na direção do acolhimento). Sua leitura em palestra ou estudo demanda contextualização histórica e hierárquica.
 
 ## Aprofundamento
 
@@ -199,6 +247,8 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 - A sublimação é caminho de progresso, não negação biológica — coerente com [[wiki/conceitos/perfeicao-moral]].
 - O aborto provocado tem peso moral grave em todos os autores espíritas, mas a cláusula evangélica de misericórdia é universal.
 - Casos individuais (especialmente em situações limite — risco de vida da gestante, gravidez por estupro) demandam discernimento, não juízo apressado — mesmo André Luiz admite "casos especiais".
+- Homossexuais e intersexos têm dignidade integral perante a Justiça Divina (*Sexo e Destino*, Parte 2, cap. 5 — Almas Irmãs); a perseguição social, além de injusta, dificulta a execução dos encargos reencarnatórios. Acolhimento na casa espírita é posição doutrinária, não concessão pastoral.
+- Desregramento sexual movido por paixão sem afeto abre porta a [[wiki/conceitos/possessao-partilhada|possessão partilhada]] — uma das aplicações mais concretas e didáticas da articulação sexo↔perispírito↔obsessão.
 
 ## Conceitos relacionados
 
@@ -207,14 +257,19 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 - [[wiki/conceitos/perispirito]] — substrato da sexualidade
 - [[wiki/conceitos/lei-de-reproducao]] — base kardequiana
 - [[wiki/conceitos/reencarnacao]] — escolha de sexo e contas a acertar
-- [[wiki/conceitos/planejamento-reencarnatorio]] — reconciliação espiritual prévia à concepção; mapas cromossômicos
+- [[wiki/conceitos/planejamento-reencarnatorio]] — reconciliação espiritual prévia à concepção; mapas cromossômicos; condição homossexual ou intersexo como tarefa programada
 - [[wiki/conceitos/expiacao-e-reparacao]] — sequelas e oportunidades de resgate
 - [[wiki/conceitos/lei-de-causa-e-efeito]] — base das consequências orgânicas
 - [[wiki/conceitos/perfeicao-moral]] — sublimação como meta
+- [[wiki/conceitos/possessao-partilhada]] — quarta categoria fenomenológica de obsessão (acréscimo a LM cap. XXIII)
+- [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus com o qual a possessão partilhada contrasta
+- [[wiki/conceitos/vampirismo-espiritual]] — fenômeno correlato
+- [[wiki/conceitos/casa-mental]] — modelo dos três andares mapeado sobre a tipologia psicanalítica
 - [[wiki/obras/missionarios-da-luz]] — formulação cosmológica matriz (cap. 13)
 - [[wiki/obras/no-mundo-maior]] — peça intermediária 1947, diálogo com Freud/Adler/Jung
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional madura
-- [[wiki/conceitos/casa-mental]] — modelo dos três andares mapeado sobre a tipologia psicanalítica
+- [[wiki/obras/sexo-e-destino]] — tese ativa de 1963 (sexo construtor de destino, possessão partilhada, Almas Irmãs)
+- [[wiki/personalidades/waldo-vieira]] — coautor mediúnico de *Sexo e Destino*
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — paralelo direto (Vida e Sexo, 1970)
 
 ## Fontes
@@ -222,4 +277,6 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 13 (sexo como qualidade cósmica; tálamo conjugal inviolável). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Cap. 11 (preleção sobre sexo, diálogo com Freud/Adler/Jung, antecipação sobre identidade sexual e biotecnologia); caps. 3–4 (casa mental). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 8, 12, 13, 14, 16, 20. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
-- Kardec, Allan. *O Livro dos Espíritos*, q. 200–201, q. 358–359, q. 686–701, q. 822. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Parte 1, cap. 8 (possessão partilhada); Parte 2, cap. 5 (instituto Almas Irmãs — tese ativa, currículo de disciplinas, dignidade dos homossexuais e intersexos). Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
+- Kardec, Allan. *O Livro dos Espíritos*, q. 200–201, q. 258–259, q. 358–359, q. 686–701, q. 822. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (obsessão em três graus — quadro com o qual a possessão partilhada de André Luiz contrasta). Trad. Guillon Ribeiro. FEB.
