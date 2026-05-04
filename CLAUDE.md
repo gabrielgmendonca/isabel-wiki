@@ -36,7 +36,7 @@ Toda página termina com `## Fontes`. Convenções editoriais granularizadas em 
 
 ## 4. Workflows e estudo
 
-Skills cobrem `/ingest`, `/lint`, `/slides`, `/stats`, `/glossario` (autocontidos em `.claude/skills/`). Build público exclui `raw/` (`quartz.config.ts` `ignorePatterns`); lint (`check_raw_excluded`) trava regressão. Auto-link de citações e glossário cultural rodam no CI sobre cópia em `/tmp/quartz/content` — source markdown não é alterado.
+Skills cobrem `/ingest`, `/lint`, `/slides`, `/stats`, `/glossario`, `/ship` (autocontidos em `.claude/skills/`). Build público exclui `raw/` (`quartz.config.ts` `ignorePatterns`); lint (`check_raw_excluded`) trava regressão. Auto-link de citações e glossário cultural rodam no CI sobre cópia em `/tmp/quartz/content` — source markdown não é alterado.
 
 **Para responder dúvidas doutrinárias**: buscar com `qmd` (coleções `wiki` e `raw`, sempre com `intent`, combinando `lex` + `vec`); citar começando por Jesus/Pentateuco; capitalizar a resposta em página citável (`wiki/sinteses/` para panoramas, `wiki/aprofundamentos/` para estudo sistemático, `wiki/questoes/` para Q&A ancorada em uma única questão/item) e listar em `wiki/sinteses/catalogo.md` + `log.md`. Pular só quando a pergunta for puramente operacional.
 
