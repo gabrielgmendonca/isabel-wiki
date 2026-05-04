@@ -18,7 +18,7 @@ status: ativo
 - **Edição utilizada:** 10ª edição em português, tradução FEB (Federação Espírita Brasileira), Rio de Janeiro, 1977
 - **Digitalização:** L. Neilmoris, 2008
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/autores/leon-denis/l48/l48.md]]
+- **Texto integral:** [[raw/autores/leon-denis/depois-da-morte/depois-da-morte]]
 
 ## Estrutura
 
