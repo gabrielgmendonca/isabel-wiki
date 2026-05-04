@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [swedenborg, comunicante, mistico, sueco, precursor, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [swedenborg, comunicante, mistico, sueco, precursores, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 atualizado_em: 2026-04-29
 status: ativo
 ---

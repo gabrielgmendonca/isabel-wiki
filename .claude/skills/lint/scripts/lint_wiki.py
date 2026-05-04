@@ -568,6 +568,7 @@ VALID_AUTOR_TAGS = {
     "autor/joanna-de-angelis", "autor/divaldo-franco",
     "autor/bezerra-de-menezes", "autor/cairbar-schutel", "autor/hammed",
     "autor/paulo", "autor/joao", "autor/pedro", "autor/tiago",
+    "autor/waldo-vieira",
 }
 
 FONTES_TO_OBRA = {

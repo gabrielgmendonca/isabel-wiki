@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [RE]
-tags: [lacordaire, dominicano, igreja-catolica, precursor, espirito-comunicante, autor/kardec, tema/historia-doutrina, tema/jesus, obra/re, grau/intermediario]
+tags: [lacordaire, dominicano, igreja-catolica, precursores, espirito-comunicante, autor/kardec, tema/historia-doutrina, tema/jesus, obra/re, grau/intermediario]
 atualizado_em: 2026-05-03
 status: ativo
 ---
