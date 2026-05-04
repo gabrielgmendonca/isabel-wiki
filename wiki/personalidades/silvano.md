@@ -45,7 +45,7 @@ A função de Silvano em 1 Pedro merece atenção. A fórmula *dia Silouanou egr
 - [[wiki/obras/atos-dos-apostolos]] — caps. 15–18.
 - [[wiki/obras/primeira-epistola-de-pedro]] — amanuense / portador (1Pe 5:12).
 - [[wiki/obras/primeira-epistola-aos-tessalonicenses]] — co-saudador (1 Ts 1:1) junto com Paulo e Timóteo, na carta paulina mais antiga (c. 50–51 d.C.).
-- 2 Tessalonicenses — co-saudador (2 Ts 1:1).
+- [[wiki/obras/segunda-epistola-aos-tessalonicenses]] — co-saudador (2 Ts 1:1) na carta-correção da inquietação escatológica e da disciplina do trabalho, escrita poucos meses depois da primeira.
 - 2 Coríntios 1:19 — companheiro na pregação a Corinto.
 
 ## Citações relevantes
