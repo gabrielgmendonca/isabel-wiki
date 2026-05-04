@@ -435,6 +435,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
 - [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
 - [[wiki/aprofundamentos/por-que-mediuns-falham]] — Análise da preleção de Telésforo e dos casos paradigmáticos de fracasso mediúnico (Otávio, Acelino, Belarmino, Monteiro) à luz de LM caps. XX, XXVIII (André Luiz, *Os Mensageiros*, caps. 5–13).
+- [[wiki/aprofundamentos/dor-rigidez]] — A rigidez como dor da alma: excesso íntimo, dureza social e paixão como raiz, articulando o tema 14 de *As Dores da Alma* (Hammed) com LE q. 713, 762 e 908.
 
 ## Questões
 
