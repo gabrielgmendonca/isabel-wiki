@@ -238,7 +238,7 @@ A pergunta-síntese de Kardec, do autoexame da Conclusão do LE, vale como fecho
 - *Bíblia Sagrada* (ACF). S. Mateus 5:3–12 (bem-aventuranças); 18:23–35 (credor incompassivo). S. Lucas 15:11–32 (filho pródigo); 18:9–14 (fariseu e publicano). Atos dos Apóstolos 9:1–9 (caminho de Damasco). Romanos 7:19; 14:12. 2 Coríntios 3:6. Gálatas 3:28; 5:1; 5:6; 5:22–23.
 
 ### Complementares
-- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema 14 — "Rigidez" (três comentários, ancorados em LE q. 713, q. 762 e q. 908). Edição: [[raw/mediuns/francisco-neto/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]]. Disponível em: https://www.editoraboanova.com.br/.
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema 14 — "Rigidez" (três comentários, ancorados em LE q. 713, q. 762 e q. 908). Edição: [[raw/mediuns/francisco-neto/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA]]. Disponível em: https://www.editoraboanova.com.br/.
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cavernas de sofrimento; o avô Cláudio (paixão pela posse cristalizada). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Colônia purgatorial dirigida por Gregório; redenção pelo amor de Matilde. Edição: [[raw/mediuns/chico-xavier/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Tipologia tríplice da dor (evolução / expiação / auxílio). Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
