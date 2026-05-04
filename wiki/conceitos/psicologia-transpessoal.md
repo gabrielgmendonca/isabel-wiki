@@ -28,9 +28,9 @@ A Quarta Força, na leitura de Joanna, não substitui o Espiritismo — confirma
 
 Dois pontos do Pentateuco fundam o diálogo:
 
-**LE, q. 621** — *"A lei de Deus está escrita na consciência."* Para Joanna, esta inscrição é o que a Psicologia Transpessoal aproxima quando estuda o inconsciente profundo e os "estados alterados de consciência" como portadores de sabedoria preexistente, não meras sequelas patológicas.
+*"A lei de Deus está escrita na consciência."* (LE, q. 621). Para Joanna, esta inscrição é o que a Psicologia Transpessoal aproxima quando estuda o inconsciente profundo e os "estados alterados de consciência" como portadores de sabedoria preexistente, não meras sequelas patológicas.
 
-**LE, q. 919** — *"Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da Antiguidade vo-lo disse: Conhece-te a ti mesmo."* O programa terapêutico da Quarta Força — auto-conhecimento, individuação (Jung), conquista do self (Maslow, Assagioli) — coincide com o que Kardec recolheu dos Espíritos Benfeitores e que Santo Agostinho desenvolveu no comentário à própria questão. Cf. [[wiki/conceitos/autoconhecimento]].
+*"Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da Antiguidade vo-lo disse: Conhece-te a ti mesmo."* (LE, q. 919). O programa terapêutico da Quarta Força — auto-conhecimento, individuação (Jung), conquista do self (Maslow, Assagioli) — coincide com o que Kardec recolheu dos Espíritos Benfeitores e que Santo Agostinho desenvolveu no comentário à própria questão. Cf. [[wiki/conceitos/autoconhecimento]].
 
 ## Desdobramentos
 

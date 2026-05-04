@@ -20,7 +20,7 @@ Pesa "alguns gramas" na Terra. Usado pelo Assistente como ferramenta narrativa e
 
 A premissa do aparelho é o **paralelo entre matéria densa e matéria sutil**:
 
-> "Se o espectroscópio permite ao homem perquirir a natureza dos elementos químicos, localizados a enormes distâncias, através da onda luminosa que arrojam de si, com muito mais facilidade identificaremos os valores da individualidade humana pelos raios que emite. A moralidade, o sentimento, a educação e o caráter são claramente perceptíveis, através de ligeira inspeção." (Áulus, cap. 2)
+> "Se o espectroscópio permite ao homem perquirir a natureza dos elementos químicos, localizados a enormes distâncias, através da onda luminosa que arrojam de si, com muito mais facilidade identificaremos os valores da individualidade humana pelos raios que emite. A moralidade, o sentimento, a educação e o caráter são claramente perceptíveis, através de ligeira inspeção." (André Luiz / Chico Xavier, *Nos Domínios da Mediunidade*, cap. 2)
 
 Áulus prevê que a humanidade desenvolverá instrumentos análogos:
 
@@ -56,7 +56,7 @@ NDM cap. 16 introduz outro instrumento — o **espelho fluídico** ("televisor" 
 
 Para o leitor encarnado, o psicoscópio funciona como advertência: **somos lidos**. A "ficha psicoscópica" de cada um já existe; a vida moral não é privada porque o mundo invisível registra as emanações. Decorre o princípio prático:
 
-> "O psicoscópio, sobretudo, determina a natureza de nossos pensamentos e, através de semelhante auscultação, é fácil ajuizar dos nossos méritos ou das nossas necessidades." (Áulus, cap. 2)
+> "O psicoscópio, sobretudo, determina a natureza de nossos pensamentos e, através de semelhante auscultação, é fácil ajuizar dos nossos méritos ou das nossas necessidades." (André Luiz / Chico Xavier, *Nos Domínios da Mediunidade*, cap. 2)
 
 A pedagogia do livro inteiro está aí: a tipologia das mediunidades é inferida das fichas psicoscópicas observadas pelos discípulos.
 

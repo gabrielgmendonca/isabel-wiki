@@ -271,8 +271,12 @@ LOW_CITATION_MIN_CITATIONS = 2
 # Citações reconhecidas para `low_citations`: parentéticas com sigla do Pentateuco /
 # complementares Kardec (`cf.` opcional), livros bíblicos canônicos por nome ou
 # abreviação ACF (com prefixo opcional `S.`/`São`), ou autor/médium + obra em itálico.
+# Para RE/LM/ESE/Gênese, aceita também sigla seguida de espaço + marcador estrutural
+# (ex.: `(RE dez/1868)`, `(LM cap. XXIX)`) — forma curta de uso editorial.
 _CITATION_COUNT_RE = re.compile(
-    r"\((?:cf\.\s+)?(?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)\s*[,)]"
+    r"\((?:cf\.\s+)?(?:LE|LM|ESE|C&I|Gênese|RE|OPE|OQE)"
+    r"(?:\s*[,)]"
+    r"|\s+(?:caps?\.|q\.|item|p\.|\d|jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez))"
     r"|\((?:cf\.\s+)?(?:S\.\s+|São\s+|Sta\.\s+|Santa\s+)?"
     r"(?:Mateus|Marcos|Lucas|João|Atos|Romanos|Tiago|Hebreus|Apocalipse"
     r"|1?-?\s*Coríntios|2-?\s*Coríntios|Gálatas|Efésios|Filipenses|Colossenses"
@@ -433,6 +437,7 @@ _CITATION_VALID = [
     r"\(LE,\s*Prolegômenos",
     r"\(LE,\s*Nota\s",
     r"\(LE,\s*Parte\s*\d",
+    r"\(LE,\s*[12][ªa]\s*parte",
     # LM
     r"\(LM,\s*[12][ªa]\s*parte",
     r"\(LM,\s*caps?\.\s*[IVXLC]+",

@@ -16,7 +16,7 @@ Emancipação parcial do perispírito do corpo físico, com manutenção do **fi
 
 ## Ensino de Kardec
 
-### Emancipação da alma (LE, parte II, caps. VII–VIII)
+### Emancipação da alma (LE, 2ª parte, cap. VII e VIII)
 
 O Pentateuco trata o desdobramento sob o nome de **emancipação da alma** (LE, q. 400–418). Princípios centrais:
 

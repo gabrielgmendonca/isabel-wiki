@@ -14,7 +14,7 @@ status: ativo
 
 Conceito desenvolvido por André Luiz em *Nos Domínios da Mediunidade* (1955), cap. 16, através do caso da médium Ambrosina, dirigida pelo orientador espiritual Gabriel:
 
-> "Quando o médium se evidencia no serviço do bem, pela boa vontade, pelo estudo e pela compreensão das responsabilidades de que se encontra investido, recebe apoio mais imediato de amigo espiritual experiente e sábio, que passa a guiar-lhe a peregrinação na Terra, governando-lhe as forças. (...) Um mandato mediúnico reclama ordem, segurança, eficiência. Uma delegação de autoridade humana envolve concessão de recursos da parte de quem a outorga." (Áulus, cap. 16)
+> "Quando o médium se evidencia no serviço do bem, pela boa vontade, pelo estudo e pela compreensão das responsabilidades de que se encontra investido, recebe apoio mais imediato de amigo espiritual experiente e sábio, que passa a guiar-lhe a peregrinação na Terra, governando-lhe as forças. (...) Um mandato mediúnico reclama ordem, segurança, eficiência. Uma delegação de autoridade humana envolve concessão de recursos da parte de quem a outorga." (André Luiz / Chico Xavier, *Nos Domínios da Mediunidade*, cap. 16)
 
 ## Sinais visíveis
 
@@ -34,7 +34,7 @@ Não por desejo do médium, mas por **convergência de mérito moral, planejamen
 
 Risco e queda continuam abertos:
 
-> "Um mandato é uma delegação de poder obtida pelo crédito moral, sem ser um atestado de santificação. Com maiores ou menores responsabilidades, é imprescindível não esquecer nossas obrigações perante a Lei Divina, a fim de consolidar nossos títulos de merecimento na vida eterna." (Áulus, cap. 16)
+> "Um mandato é uma delegação de poder obtida pelo crédito moral, sem ser um atestado de santificação. Com maiores ou menores responsabilidades, é imprescindível não esquecer nossas obrigações perante a Lei Divina, a fim de consolidar nossos títulos de merecimento na vida eterna." (André Luiz / Chico Xavier, *Nos Domínios da Mediunidade*, cap. 16)
 
 E reforça:
 
