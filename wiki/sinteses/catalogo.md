@@ -86,6 +86,7 @@ index: false
 
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**
+- [[wiki/obras/o-consolador]] — Emmanuel/Chico Xavier (1940). Tratado doutrinário em **412 perguntas e respostas** nos moldes do Pentateuco, dividido em três partes (Filosofia, Ciência, Religião). Identifica o Espiritismo como o **Consolador prometido em João 14:16** (q. 352); razão e fé como duas asas (q. 197); caridade material só vale enquanto espiritualizadora; sociologia espírita (igualdade de direitos, não de posições, q. 54); Velho Testamento como pedra angular da Revelação. Inclui divergência das almas gêmeas (q. 378) atenuada pela própria Casa de Ismael em ressalva editorial — ver [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
 - [[wiki/obras/vida-e-sexo]] — Emmanuel/Chico Xavier (1970). Tratado pastoral em 25 capítulos sobre o ciclo afetivo–sexual humano à luz da Doutrina: energia genésica, família, casamento, divórcio, aborto, homossexualidade (cap. 21 com tom respeitoso/igualitário), abstinência, conclusão pastoral.
 
 #### André Luiz / Chico Xavier

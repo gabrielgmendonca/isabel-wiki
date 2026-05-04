@@ -33,6 +33,7 @@ Em Pedro Leopoldo, Chico psicografou trinta páginas de [[wiki/personalidades/me
 Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citação `Autor espiritual / Médium`):
 
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel / Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo.
+- [[wiki/obras/o-consolador]] — Emmanuel / Chico Xavier (1940). Tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião) nos moldes do Pentateuco; identifica o Espiritismo como o Consolador prometido em João 14:16. Inclui divergência das almas gêmeas (q. 378) atenuada pela própria Casa de Ismael em ressalva editorial.
 - [[wiki/obras/nosso-lar]] — André Luiz / Chico Xavier (1944). 1º volume da série André Luiz; despertar no Umbral, topologia da colônia espiritual, sistema do bônus-hora, suicídio inconsciente.
 - [[wiki/obras/os-mensageiros]] — André Luiz / Chico Xavier (1944). 2º volume da série André Luiz; Centro de Mensageiros, mediunidade fracassada, Posto de Socorro Campo da Paz, culto doméstico como fortaleza, três desencarnações.
 - [[wiki/obras/missionarios-da-luz]] — André Luiz / Chico Xavier (1945). 3º volume da série André Luiz; tratado fenomenológico da mediunidade sob orientação de Alexandre — vampirismo psíquico, oração como antídoto, materialização, reencarnação assistida (caso Segismundo), incorporação, obsessão, passes magnéticos, advertência contra a idolatria do mestre.
@@ -49,7 +50,6 @@ Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citaç
 
 Obras psicografadas por Chico Xavier disponíveis em `raw/` mas ainda sem página própria na wiki (candidatas a `/ingest`):
 
-- [[raw/mediuns/chico-xavier/o-consolador]] — Emmanuel / Chico Xavier (1940). Tratado em formato Q&A nos moldes do Pentateuco, cobrindo Sociologia, Cristianismo e Espiritismo.
 - [[raw/mediuns/chico-xavier/boa-nova]] — Humberto de Campos / Chico Xavier (1941). Episódios da vida de Jesus narrados em prosa literária.
 
 A produção total atribuída a Chico Xavier abrange ainda obras-marco como *Parnaso de Além-Túmulo*, *O Evangelho por Emmanuel*, *Pão Nosso*, *Vinha de Luz* e *Caminho, Verdade e Vida* — não ingeridas até a data desta página.

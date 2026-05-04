@@ -19,6 +19,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Obras associadas
 
 - [[wiki/obras/a-caminho-da-luz]] — história da civilização terrestre sob a direção espiritual do Cristo (1939)
+- [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
 - [[wiki/obras/vida-e-sexo]] — tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina (1970)
 
 ## Citações relevantes
