@@ -11,10 +11,19 @@ Gatilhos: "faça ingest de X" · "acabei de adicionar X em raw/" · `/ingest <ca
 
 A regra é: **nada em `wiki/` é editado antes do usuário aprovar um plano explícito**. Para garantir isso, esta fase **sempre termina em `EnterPlanMode`** — independente do modo do harness (manual ou auto). A aprovação do plano é o gate para a fase de escrita.
 
-### Passo 0 — Pré-checagem de escopo
+### Passo 0 — Pre-flight e pré-checagem de escopo
 
-1. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
-2. Classifique conforme seção 2 do CLAUDE.md:
+Custo ~30s; evita o ciclo completo de análise descartado quando o raw está ausente desta worktree ou a branch está atrás de `main`.
+
+**Pre-flight material** (rodar antes de qualquer leitura ou query):
+
+1. **`raw/<caminho>` existe nesta worktree?** `test -e raw/<caminho>` (ou `ls`). Se não existir, PARE — pode estar em outra worktree, em `main` à frente desta branch, ou nunca foi adicionado. Sugerir candidatos com `find raw -iname '*<chave>*'` antes de pedir confirmação ao usuário.
+2. **Branch alinhada com `main`?** `git rev-parse --abbrev-ref HEAD` para identificar a branch; se não for `main`, `git rev-list --count HEAD..main` (comparação local, sem `fetch`). Se >0, PARE — `main` está à frente desta branch e o arquivo pode estar visível só lá; sugerir `git rebase main` (ou `git merge main`) antes de prosseguir.
+
+**Pré-checagem de escopo:**
+
+3. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
+4. Classifique conforme seção 2 do CLAUDE.md:
    - Nível 1, 2, 3 ou 4 → siga adiante.
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
