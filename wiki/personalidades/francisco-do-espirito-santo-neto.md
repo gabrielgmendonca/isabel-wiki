@@ -2,8 +2,8 @@
 tipo: personalidade
 fontes: [Hammed/Francisco do Espírito Santo Neto]
 tags: [francisco-espirito-santo-neto, medium, psicografia, hammed, boa-nova, catanduva, autor/hammed, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-19
-status: rascunho
+atualizado_em: 2026-05-04
+status: ativo
 ---
 
 # Francisco do Espírito Santo Neto

@@ -175,6 +175,7 @@ Não foram identificadas divergências substantivas com o Pentateuco. Cada um do
 - [[wiki/personalidades/francisco-do-espirito-santo-neto]]
 - [[wiki/personalidades/hammed]]
 - [[wiki/conceitos/dores-da-alma]]
+- [[wiki/aprofundamentos/dor-rigidez]] — estudo sistemático do tema 14 (Rigidez) ancorado em LE q. 713, q. 762 e q. 908
 - [[wiki/obras/livro-dos-espiritos]]
 
 ## Fontes

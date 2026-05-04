@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [LE, Hammed/Francisco do Espírito Santo Neto]
 tags: [dores-da-alma, sete-pecados-capitais, psicologia-espirita, imperfeicoes, progresso-espiritual, hammed, obra/le, autor/hammed, autor/kardec, grau/intermediario, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/reproducao, lei/sociedade, lei/trabalho, tema/moral]
-atualizado_em: 2026-04-19
-status: rascunho
+atualizado_em: 2026-05-04
+status: ativo
 ---
 
 # Dores da Alma
@@ -100,6 +100,7 @@ Não há divergência substantiva com Kardec. O conceito é um **aprofundamento 
 ## Páginas relacionadas
 
 - [[wiki/obras/as-dores-da-alma]] — obra-matriz do conceito
+- [[wiki/aprofundamentos/dor-rigidez]] — estudo sistemático do tema 14 (Rigidez) ancorado em LE q. 713, q. 762 e q. 908
 - [[wiki/personalidades/hammed]] — autor espiritual
 - [[wiki/personalidades/francisco-do-espirito-santo-neto]] — médium
 - [[wiki/conceitos/orgulho]] · [[wiki/conceitos/egoismo]] · [[wiki/conceitos/materialismo]]
