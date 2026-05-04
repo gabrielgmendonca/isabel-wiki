@@ -108,6 +108,19 @@ Em **junho/1867** Kardec realiza **excursão a Bordeaux** para o banquete de Pen
 
 Detalhe completo do volume em [[wiki/obras/revista-espirita-1868]].
 
+## Volume terminal e desencarnação (1869)
+
+**1869** é o ano da consolidação final. Quatro fascículos da *Revue Spirite* (jan, fev, mar, abr) ainda saem editados pelo próprio Kardec. Eixos da última fase:
+
+- **Estatística inaugural** — "Estatística do Espiritismo" ([[wiki/obras/revista-espirita-1869|RE jan + fev/1869]]) é a **primeira tentativa programática de mapeamento sociológico** do movimento espírita: ~6-7 milhões de espíritas no mundo (600 mil na França, 4-10 milhões nos EUA), 70% homens / 30% mulheres, 60% aflitos / 0% sensualistas. Retificação amistosa pelo *La Solidarité* sobre a omissão da Ásia (mediunidade escrita por bagueta sobre areia praticada pelos Tao-Tsé chineses desde [[wiki/personalidades/lao-tseu|Lao-Tseu]]).
+- **"A carne é fraca"** ([[wiki/obras/revista-espirita-1869|RE mar/1869]]) — **possivelmente o último grande artigo doutrinário pessoal** publicado em vida; tese fisiológico-moral central: *"a carne não é fraca senão porque o espírito é fraco"*, *"o espírito é o artífice de seu próprio corpo, por assim dizer, modela-o"* — continuidade direta de Gênese cap. XI (Gênese Espiritual).
+- **Mudança para a Avenida e Villa Ségur, 39, atrás dos Inválidos** — anunciada em [[wiki/obras/revista-espirita-1869|RE abr/1869]] ("Aviso muito importante") com data de 1º de abril; é o endereço onde Kardec sofreria o **aneurisma cerebral em 31/03/1869**, no momento em que se preparava para sair para a SPEE. O número de abril é, portanto, **diagramado em vida e parcialmente impresso após a morte**; a Errata final assinada *"ALLAN KARDEC"* é provavelmente sua **última assinatura impressa**.
+- **Inauguração da Livraria Espírita** (rua de Lille, 7), primeira instituição editorial colaborativa não-comercial da doutrina — embrião da *Société Anonyme du Spiritisme* que **Amélie Boudet** (viúva) assumirá após 31/03/1869. Concretização da primeira peça do programa anexo da [[wiki/conceitos/constituicao-do-espiritismo|Constituição Transitória]].
+- **Comparação com o Espiritualismo americano** ("Profissão de fé espírita americana", [[wiki/obras/revista-espirita-1869|RE abr/1869]]) — **última peça programática internacional**: *"a maior barreira que separa os espíritas dos dois continentes é o Oceano"*; reconhecimento solidário de que ao Espiritualismo americano falta *"um centro de ação para coordenar os princípios"*.
+- **Comunicações pós-morte centrais** — [[wiki/personalidades/lamartine|Lamartine]] (m. fev/1869) e [[wiki/personalidades/charles-fourier|Fourier]] (autocrítica doutrinária) em RE abr/1869, **fechamento da linhagem precursora**.
+
+**Desencarnação em 31 de março de 1869** — aneurisma cerebral. Discurso fúnebre no Père Lachaise por [[wiki/personalidades/camille-flammarion|Camille Flammarion]] em 02/04/1869 (publicado na *Revue* de mai/1869, sob nova direção de **Pierre-Gaëtan Leymarie**, e nas [[wiki/obras/obras-postumas|*Obras Póstumas*]] de 1890). Detalhe completo do volume terminal em [[wiki/obras/revista-espirita-1869]].
+
 ## Primeira iniciação no Espiritismo
 
 Nas *Obras Póstumas*, Kardec relata em primeira pessoa os passos que o levaram ao Espiritismo:
