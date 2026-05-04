@@ -128,6 +128,6 @@ Combinando Kardec, André Luiz e a tradição espírita brasileira:
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 31–35 (fluidos, magnetismo humano e espiritual, fluidificação de água). FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII–XXVIII (prece, fluido salutar, ação dos bons Espíritos). FEB.
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos" — magnetismo humano, espiritual e misto. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 22 (Mediunidade curativa). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 22 (Mediunidade curativa). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 19 (passes magnéticos, regra dos 10 socorros). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Anatomia do psicossoma e centros vitais. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Anatomia do psicossoma e centros vitais. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

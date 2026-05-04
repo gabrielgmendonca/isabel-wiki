@@ -1,12 +1,12 @@
 ---
 tipo: obra
-fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, mediunidade, onda-mental, ideoplastia, psicometria, desdobramento, animismo, obsessao, mediunidade-curativa, perispirito, fluido-cosmico, autor/andre-luiz, autor/chico-xavier, tema/mediunidade, tema/jesus]
+fontes: [André Luiz/Chico Xavier+Waldo Vieira]
+tags: [andre-luiz, chico-xavier, waldo-vieira, mediunidade, onda-mental, ideoplastia, psicometria, desdobramento, animismo, obsessao, mediunidade-curativa, perispirito, fluido-cosmico, autor/andre-luiz, autor/chico-xavier, autor/waldo-vieira, tema/mediunidade, tema/jesus]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/mecanismos-da-mediunidade
   ano_dp_estimado: 2073
-atualizado_em: 2026-05-02
+atualizado_em: 2026-05-04
 status: rascunho
 ---
 
@@ -15,12 +15,15 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médiuns:** Francisco Cândido Xavier (Chico Xavier) **e** Waldo Vieira
 - **Primeira edição:** 1959
 - **Editora:** FEB
 - **Gênero:** tratado doutrinário sobre a fisiologia sutil da mediunidade
 - **Texto integral:** [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Mdm/MdmPref2.htm)
+
+> [!info] Coautoria mediúnica
+> *Mecanismos da Mediunidade* foi psicografado em parceria por Chico Xavier e Waldo Vieira no grupo da Comunhão Espírita Cristã, em Uberaba. Integra o ciclo de quatro obras coautoradas pela dupla na série André Luiz: *Evolução em Dois Mundos* (1958), *Mecanismos da Mediunidade* (1959), *Sexo e Destino* (1963) e *Desobsessão* (1964). Ver [[wiki/personalidades/waldo-vieira]] para o contexto da parceria.
 
 ## Programa do livro
 
@@ -112,10 +115,11 @@ Sem divergências doutrinárias estruturais identificadas. Os pontos em que Andr
 
 - [[wiki/personalidades/andre-luiz]] — autor espiritual
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
+- [[wiki/personalidades/waldo-vieira]] — médium coautor
 - [[wiki/personalidades/allan-kardec]] — referência de fundo (capítulo dedicado)
 - Personalidades históricas mencionadas no capítulo "Mediunidade": Sócrates, Plutarco, Bruto, Pausânias, Nero, Calígula; entre cristãos, os apóstolos, Saulo de Tarso, Ananias, Ágabo, Paulo, Barnabé; entre místicos modernos, Francisco de Assis, Lutero, Teresa d'Ávila, José de Copertino, Swedenborg.
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Mdm/MdmPref2.htm>

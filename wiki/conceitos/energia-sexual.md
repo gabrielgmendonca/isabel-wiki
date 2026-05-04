@@ -158,4 +158,4 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 13 (sexo como qualidade cósmica). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 11 (preleção sobre sexo, diálogo com Freud/Adler/Jung, antecipação sobre identidade sexual e biotecnologia). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

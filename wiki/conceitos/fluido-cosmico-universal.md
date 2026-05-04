@@ -104,4 +104,4 @@ A compreensão do fluido cósmico universal unifica a visão espírita sobre mat
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVII, item 9. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. VI, itens 7–10; cap. X, item 17; cap. XIV, itens 2, 7. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. "Introdução ao estudo dos fluidos espirituais". *Revista Espírita*, ano 1866, março. Edição: [[raw/kardec/revista-espirita/1866/03-marco]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 1, 13. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

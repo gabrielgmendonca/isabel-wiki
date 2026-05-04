@@ -104,5 +104,5 @@ A doutrina dos reflexos condicionados perispirituais (cap. 8) e a tipologia sexu
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Caps. 3–4 (exposição sistemática); cap. 8 (Marcelo); cap. 11 (sexo); cap. 16 (alienação mental). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, cap. 2 (centros vitais como desenvolvimento posterior). Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, cap. 2 (centros vitais como desenvolvimento posterior). Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 134–137 e q. 459–471. Trad. Guillon Ribeiro. FEB.

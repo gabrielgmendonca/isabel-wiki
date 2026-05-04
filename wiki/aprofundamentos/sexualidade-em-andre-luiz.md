@@ -221,5 +221,5 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação, 
 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 13 (sexo como qualidade cósmica; tálamo conjugal inviolável). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Cap. 11 (preleção sobre sexo, diálogo com Freud/Adler/Jung, antecipação sobre identidade sexual e biotecnologia); caps. 3–4 (casa mental). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 8, 12, 13, 14, 16, 20. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 8, 12, 13, 14, 16, 20. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 200–201, q. 358–359, q. 686–701, q. 822. Trad. Guillon Ribeiro. FEB.

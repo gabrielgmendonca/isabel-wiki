@@ -121,4 +121,4 @@ A "Lei do Campo Mental" é o nome que André Luiz dá à articulação entre **l
 - Kardec, Allan. *A Gênese*, cap. XIV, item 18 (irradiação fluídica do perispírito). FEB.
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento". FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Caps. 4 (Matéria mental), 11 (Onda mental), 12 (Reflexo condicionado), 17 (Efeitos físicos — Lei do Campo Mental), 18 (Efeitos intelectuais), 25 (Oração). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Caps. 4 (Matéria mental), 11 (Onda mental), 12 (Reflexo condicionado), 17 (Efeitos físicos — Lei do Campo Mental), 18 (Efeitos intelectuais), 25 (Oração). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].

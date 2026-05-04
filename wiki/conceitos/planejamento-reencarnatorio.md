@@ -151,4 +151,4 @@ A mecânica é coerente com LE q. 263–273 (escolha das provas): o que *Ação 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13–15. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Cap. 28. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 18–19. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13–14. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13–14. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].

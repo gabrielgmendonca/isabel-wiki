@@ -90,6 +90,6 @@ Implicação operativa decisiva para reuniões de [[wiki/conceitos/obsessao|deso
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XVI (item 187), cap. XIX (item 223), cap. XXIV. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 23 (Animismo). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 23 (Animismo). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", caso Eulália). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
 - AKSAKOF, Alexandre. *Animisme et Spiritisme* (1890). Referência histórica do termo.

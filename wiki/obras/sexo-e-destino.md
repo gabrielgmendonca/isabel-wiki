@@ -7,7 +7,7 @@ direitos:
   url_aquisicao: https://www.febeditora.com.br/sexo-e-destino
   ano_dp_estimado: 2073
   observacao: "Chico Xavier (m. 2002) e Waldo Vieira (m. 2015) cederam direitos à FEB; PD estimado em 70 anos após óbito do último coautor sobrevivente."
-atualizado_em: 2026-05-03
+atualizado_em: 2026-05-04
 status: rascunho
 ---
 
@@ -24,7 +24,7 @@ status: rascunho
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Sd/SdP2C05.htm)
 
 > [!info] Coautoria mediúnica
-> *Sexo e Destino* foi psicografado em parceria por Chico Xavier e Waldo Vieira no grupo da Comunhão Espírita Cristã, em Uberaba — primeira (e, junto com *Evolução em Dois Mundos* de 1958, única) coautoria mediúnica representada nesta wiki. Ver [[wiki/personalidades/waldo-vieira]] para o contexto da parceria.
+> *Sexo e Destino* foi psicografado em parceria por Chico Xavier e Waldo Vieira no grupo da Comunhão Espírita Cristã, em Uberaba. Integra o ciclo de quatro obras coautoradas pela dupla na série André Luiz: *Evolução em Dois Mundos* (1958), *Mecanismos da Mediunidade* (1959), *Sexo e Destino* (1963) e *Desobsessão* (1964 — não ingerida nesta wiki até a data desta página). Ver [[wiki/personalidades/waldo-vieira]] para o contexto da parceria.
 
 ## Estrutura
 

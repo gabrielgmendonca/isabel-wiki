@@ -102,4 +102,4 @@ Pessoas presas a tabus religiosos ou a ritos mágicos aviltados precisam ser **c
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, caps. VI–VII (aparições e bicorporeidade). FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV, itens 18, 21. FEB.
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento". FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Caps. 4, 11, 19. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Caps. 4, 11, 19. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].

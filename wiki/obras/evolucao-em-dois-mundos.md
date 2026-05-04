@@ -1,12 +1,12 @@
 ---
 tipo: obra
-fontes: [André Luiz/Chico Xavier]
-tags: [andre-luiz, chico-xavier, corpo-espiritual, perispirito, centros-vitais, fluido-cosmico, evolucao, mediunidade, obsessao, vampirismo, sexualidade, autor/andre-luiz, autor/chico-xavier, tema/mediunidade]
+fontes: [André Luiz/Chico Xavier+Waldo Vieira]
+tags: [andre-luiz, chico-xavier, waldo-vieira, corpo-espiritual, perispirito, centros-vitais, fluido-cosmico, evolucao, mediunidade, obsessao, vampirismo, sexualidade, autor/andre-luiz, autor/chico-xavier, autor/waldo-vieira, tema/mediunidade]
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
   url_aquisicao: https://www.febeditora.com.br/evolucao-em-dois-mundos
-atualizado_em: 2026-04-26
+atualizado_em: 2026-05-04
 status: rascunho
 ---
 
@@ -15,13 +15,16 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médiuns:** Francisco Cândido Xavier (Chico Xavier) **e** Waldo Vieira
 - **Primeira edição:** 1958
 - **Editora:** FEB
 - **Gênero:** tratado doutrinário sobre o corpo espiritual + Q&A sobre temas correlatos
 - **Local de psicografia:** Pedro Leopoldo (jan–jun/1958) e Uberaba (jan–jun/1958) — capítulos psicografados nas duas cidades antes da transferência oficial para Uberaba (1959)
 - **Texto integral:** [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Edm/EdmPref1.htm)
+
+> [!info] Coautoria mediúnica
+> *Evolução em Dois Mundos* foi psicografado em parceria por Chico Xavier e Waldo Vieira no grupo da Comunhão Espírita Cristã, em Uberaba — **inaugurando** o ciclo de quatro obras coautoradas pela dupla na série André Luiz: *Evolução em Dois Mundos* (1958), *Mecanismos da Mediunidade* (1959), *Sexo e Destino* (1963) e *Desobsessão* (1964). Ver [[wiki/personalidades/waldo-vieira]] para o contexto da parceria.
 
 ## Estrutura
 
@@ -151,6 +154,7 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 
 - [[wiki/personalidades/andre-luiz]] — autor espiritual
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
+- [[wiki/personalidades/waldo-vieira]] — médium coautor
 - [[wiki/personalidades/jesus]] — princípio do amor inaugurado na Terra
 - [[wiki/personalidades/allan-kardec]] — referência terminológica ("perispírito da definição kardequiana", parte I, cap. 15)
 
@@ -160,5 +164,5 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Edm/EdmPref1.htm>

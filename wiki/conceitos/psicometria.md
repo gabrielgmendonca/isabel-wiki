@@ -94,5 +94,5 @@ Objetos colecionáveis — joias, armas, documentos antigos — são "francos me
 
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, caps. XIV–XVI (variedades de médiuns sensitivos, videntes, sonâmbulos). FEB.
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento". FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 20 (Psicometria). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 20 (Psicometria). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Cap. 26 (psicometria como espécie da fenomenologia mediúnica). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].

@@ -102,5 +102,5 @@ Toda mediunidade sonâmbula opera por desdobramento parcial; a [[wiki/conceitos/
 - Kardec, Allan. *O Livro dos Espíritos*, q. 400–418 (emancipação da alma), q. 425–439 (sonambulismo, êxtase). FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. VII (bicorporeidade), cap. XIV (médiuns sonâmbulos). FEB.
 - Kardec, Allan. *A Gênese*, cap. XIV. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 21 (Desdobramento). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 21 (Desdobramento). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Cap. 11 (desdobramento em serviço). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
