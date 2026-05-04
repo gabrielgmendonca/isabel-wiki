@@ -66,7 +66,8 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 - [[wiki/obras/epistola-aos-hebreus]] — preso e liberto, 13:23.
 - [[wiki/obras/epistola-aos-filipenses]] — co-saudador (1:1) e cooperador modelar promovido por Paulo a "filho ao pai" no serviço do evangelho (2:19–24): "a ninguém tenho de igual sentimento, que sinceramente cuide do vosso estado [...] todos buscam o que é seu, e não o que é de Cristo Jesus" (2:20–21).
 - [[wiki/obras/livro-dos-mediuns]] — assinatura "Erasto e Timóteo" no encerramento da explicação sobre psicografia (2ª parte, cap. XIX).
-- 1 Tessalonicenses, 2 Tessalonicenses, Colossenses, Filemom — co-saudador (1:1 nas duas primeiras e em Cl; v. 1 em Fm).
+- [[wiki/obras/primeira-epistola-aos-tessalonicenses]] — co-saudador (1 Ts 1:1) e enviado por Paulo a Tessalônica para "vos confortar e vos exortar acerca da vossa fé" (3:2); seu retorno com boas notícias é a ocasião imediata da carta (3:6–8).
+- 2 Tessalonicenses, Colossenses, Filemom — co-saudador (1:1 nas duas primeiras; v. 1 em Fm).
 - **1 Timóteo** e **2 Timóteo** — destinatário das duas Pastorais (páginas próprias na wiki em backlog).
 
 ## Citações relevantes
