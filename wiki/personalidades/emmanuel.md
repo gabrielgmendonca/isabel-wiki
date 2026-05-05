@@ -23,6 +23,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
 - [[wiki/obras/pao-nosso]] — segunda coletânea evangélica em 180 capítulos curtos; forte primazia paulina; eixos de trabalho-serviço (caps. 1-5), restauração apostólica (cap. 176), pensamento como morada do Espírito (cap. 177) e reforma íntima como combate paulino (cap. 178) (1950)
 - [[wiki/obras/vinha-de-luz]] — terceira coletânea evangélica em 180 capítulos curtos; eixo da hermenêutica evangélica ("Quem lê, atenda" — cap. 1), vida como negociação espiritual (cap. 2), tipologia do discípulo e dos personagens evangélicos (caps. 99-100), inimigos como credores (cap. 41), Jo 14.6 em chave de reino individual (caps. 175-177), advertência final sobre perseverança (cap. 180) (1952)
+- [[wiki/obras/fonte-viva]] — quarta e última coletânea evangélica em 180 capítulos curtos; fecha o ciclo CVV → Pão Nosso → Vinha de Luz → Fonte Viva. Eixo central da **renovação interior contínua** (caps. 107 *Renovemo-nos dia a dia* sobre Rm 12.2; 141 *Renova-te sempre* sobre 2 Co 4.16); pensamento e palavra como força criadora (caps. 76, 108, 144); Cireneu como tipo do discípulo (cap. 140); tipologia do "morto vivo" (cap. 143); crítica ao messianismo político (cap. 148 sobre Hb 1.2); encerramento natalino com *"o criminoso passaria à condição de doente"* (cap. 180 sobre Lc 2.14) (1956)
 - [[wiki/obras/vida-e-sexo]] — tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina (1970)
 
 ## Citações relevantes
@@ -39,6 +40,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 > "Por enquanto, ninguém se atreverá, em boa lógica, a exibir, na Terra, a verdade pura, ante a visão das forças coletivas. (…) Cada escola religiosa, em razão disso, mantém no mundo cursos diferentes da revelação gradativa. (…) Semelhante imperativo, porém, para a mentalidade cristã, apenas vigora quanto às massas. Diante de cada discípulo, no reino individual, Jesus é a verdade sublime e reveladora." (Emmanuel / Chico Xavier, *Vinha de Luz*, cap. 175 — Jo 14.6 deslocado da panorâmica de [[wiki/obras/caminho-verdade-e-vida|CVV]] para o reino individual)
 
+> "Não adianta a transformação aparente da nossa personalidade na feição exterior. Mais títulos, mais recursos financeiros, mais possibilidades de conforto e maiores considerações sociais podem ser simples agravo de responsabilidade. Renovemo-nos por dentro. (…) Renovemos nossa alma, dia a dia, estudando as lições dos vanguardeiros do progresso e vivendo a nossa existência sob a inspiração do serviço incessante." (Emmanuel / Chico Xavier, *Fonte Viva*, cap. 107 — sobre Rm 12.2; eixo central que distingue *Fonte Viva* das três coletâneas anteriores: a renovação interior contínua como processo cotidiano)
+
 ## Páginas relacionadas
 
 - [[wiki/personalidades/chico-xavier]] — médium que psicografou suas obras
@@ -52,4 +55,5 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/fonte-viva]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].

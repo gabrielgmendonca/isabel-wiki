@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [ESE, LE, NT]
-tags: [decisao, prece, livre-arbitrio, providencia, intuicao, inspiracao, lei/adoracao, lei/liberdade, tema/livre-arbitrio, tema/prece-caridade, grau/avancado, obra/ese, obra/le, autor/kardec, autor/tiago, autor/paulo, autor/emmanuel, autor/chico-xavier]
+tags: [decisao, prece, livre-arbitrio, providencia, intuicao, inspiracao, lei/adoracao, lei/liberdade, tema/livre-arbitrio, tema/prece-caridade, grau/avancado, obra/ese, obra/le, autor/kardec, autor/tiago, autor/paulo, autor/emmanuel, autor/chico-xavier, lei/conservacao, lei/reproducao, lei/sociedade, lei/trabalho]
 atualizado_em: 2026-05-05
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: sintese
 fontes: [ESE, LE, NT]
-tags: [trilha, decisao, prece, livre-arbitrio, providencia, intuicao, obra/ese, obra/le, autor/kardec]
+tags: [trilha, decisao, prece, livre-arbitrio, providencia, intuicao, obra/ese, obra/le, autor/kardec, lei/adoracao, lei/liberdade]
 atualizado_em: 2026-05-05
 status: ativo
 ---
