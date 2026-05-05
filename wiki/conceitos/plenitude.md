@@ -24,12 +24,12 @@ O sofrimento é "doença da alma" desencadeada pelo mau uso do livre-arbítrio e
 
 A obra apresenta caminhos cumulativos, não excludentes:
 
-1. **Conhecer-se** ([[wiki/obras/livro-dos-espiritos|LE]] q. 919 — *"Conhece-te a ti mesmo"*, ancoragem de toda a psicologia espírita de Joanna).
+1. **Conhecer-se** — *"Conhece-te a ti mesmo"* (LE, q. 919), ancoragem de toda a psicologia espírita de Joanna.
 2. **Amar e perdoar** — perdão das faltas alheias e autoperdão, antídotos contra remorso e complexo de culpa (cap. IV).
-3. **Praticar a caridade** — tese kardecista do [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV (*"Fora da caridade não há salvação"*) reposicionada como tese terapêutica.
+3. **Praticar a caridade** — tese kardecista *"Fora da caridade não há salvação"* (ESE, cap. XV, item 10), reposicionada como tese terapêutica.
 4. **Trilhar o Caminho Óctuplo retamente** — releitura espírita dos oito passos budistas em chave moral cristã (cap. VIII de Plenitude).
 5. **Praticar a [[wiki/conceitos/autocura|autocura]]** — técnica em 4 passos do cap. IX, que canaliza pensamento e emoção para a Fonte do Poder.
-6. **Libertar-se da obsessão** — terapia desobsessiva (cap. X), ancorada em [[wiki/obras/livro-dos-mediuns|LM]] cap. XXIII.
+6. **Libertar-se da obsessão** — terapia desobsessiva (cap. X), ancorada em (LM, cap. XXIII, item 252).
 
 A síntese paulina, repetida ao final do cap. VIII, condensa o estado: *"já não mais vive [a pessoa], sendo o Cristo quem vive nela"*.
 

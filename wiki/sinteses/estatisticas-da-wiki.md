@@ -16,14 +16,14 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 
 ## Resumo executivo
 
-- Páginas na wiki: **472**
-- Arquivos em `raw/`: **1394**
-- Nós no grafo: **460** · Arestas: **5378**
-- Componentes fracamente conexos: **1** (maior: 460 nós)
-- Páginas órfãs (sem backlinks): **0**
-- Vocabulário único (após stopwords): **27000** termos
-- Entradas em `log.md`: **155**
-- Razão conceitos/questões: **178:11** (16.2)
+- Páginas na wiki: **482**
+- Arquivos em `raw/`: **1396**
+- Nós no grafo: **470** · Arestas: **5538**
+- Componentes fracamente conexos: **1** (maior: 470 nós)
+- Páginas órfãs (sem backlinks): **1**
+- Vocabulário único (após stopwords): **27438** termos
+- Entradas em `log.md`: **162**
+- Razão conceitos/questões: **180:11** (16.4)
 - Questões únicas do LE citadas: **347/1019** (34.1%)
 - Wikilinks não resolvidos (freq ≥ 5): **0** targets
 
@@ -31,12 +31,12 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 
 | Diretório | Páginas |
 |-----------|---------|
-| `wiki/obras/` | 76 |
-| `wiki/conceitos/` | 178 |
-| `wiki/personalidades/` | 159 |
+| `wiki/obras/` | 81 |
+| `wiki/conceitos/` | 180 |
+| `wiki/personalidades/` | 161 |
 | `wiki/questoes/` | 11 |
 | `wiki/aprofundamentos/` | 9 |
-| `wiki/sinteses/` | 10 |
+| `wiki/sinteses/` | 11 |
 | `wiki/divergencias/` | 22 |
 | `wiki/index.md/` | 1 |
 | `wiki/trilhas/` | 6 |
@@ -45,8 +45,8 @@ Como a wiki IsAbel está distribuída entre obras, conceitos e entidades? Quais 
 
 | Status | Páginas |
 |--------|---------|
-| `ativo` | 389 |
-| `rascunho` | 62 |
+| `ativo` | 404 |
+| `rascunho` | 57 |
 | `aberta` | 20 |
 | `concluída` | 1 |
 
@@ -86,21 +86,21 @@ Referências `cap./item` únicas: ESE **137**, Gênese **68**, LM **37**, C&I **
 
 | # | Página | In |
 |---|--------|----|
-| 1 | [[wiki/conceitos/reencarnacao]] | 127 |
+| 1 | [[wiki/conceitos/reencarnacao]] | 129 |
 | 2 | [[wiki/obras/ceu-e-inferno]] | 122 |
-| 3 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 115 |
-| 4 | [[wiki/conceitos/caridade]] | 108 |
-| 5 | [[wiki/conceitos/mediunidade]] | 98 |
-| 6 | [[wiki/conceitos/perispirito]] | 98 |
-| 7 | [[wiki/conceitos/obsessao]] | 94 |
-| 8 | [[wiki/conceitos/prece]] | 88 |
-| 9 | [[wiki/personalidades/jesus]] | 86 |
+| 3 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 119 |
+| 4 | [[wiki/conceitos/caridade]] | 111 |
+| 5 | [[wiki/conceitos/mediunidade]] | 100 |
+| 6 | [[wiki/conceitos/obsessao]] | 99 |
+| 7 | [[wiki/conceitos/perispirito]] | 99 |
+| 8 | [[wiki/conceitos/prece]] | 91 |
+| 9 | [[wiki/personalidades/jesus]] | 91 |
 | 10 | [[wiki/conceitos/progresso-espiritual]] | 84 |
-| 11 | [[wiki/conceitos/livre-arbitrio]] | 78 |
-| 12 | [[wiki/obras/livro-dos-espiritos]] | 71 |
-| 13 | [[wiki/obras/genese]] | 69 |
-| 14 | [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] | 68 |
-| 15 | [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] | 60 |
+| 11 | [[wiki/conceitos/livre-arbitrio]] | 80 |
+| 12 | [[wiki/obras/livro-dos-espiritos]] | 76 |
+| 13 | [[wiki/obras/genese]] | 71 |
+| 14 | [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] | 69 |
+| 15 | [[wiki/obras/livro-dos-mediuns]] | 62 |
 
 ### Mais conectores (grau de saída)
 
@@ -126,25 +126,25 @@ Referências `cap./item` únicas: ESE **137**, Gênese **68**, LM **37**, C&I **
 
 | # | Página | PR |
 |---|--------|-----|
-| 1 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 0.0258 |
-| 2 | [[wiki/conceitos/reencarnacao]] | 0.0256 |
-| 3 | [[wiki/conceitos/progresso-espiritual]] | 0.0244 |
-| 4 | [[wiki/conceitos/livre-arbitrio]] | 0.0176 |
-| 5 | [[wiki/obras/ceu-e-inferno]] | 0.0167 |
-| 6 | [[wiki/conceitos/perispirito]] | 0.0155 |
+| 1 | [[wiki/obras/evangelho-segundo-o-espiritismo]] | 0.0257 |
+| 2 | [[wiki/conceitos/reencarnacao]] | 0.0254 |
+| 3 | [[wiki/conceitos/progresso-espiritual]] | 0.0240 |
+| 4 | [[wiki/conceitos/livre-arbitrio]] | 0.0174 |
+| 5 | [[wiki/obras/ceu-e-inferno]] | 0.0163 |
+| 6 | [[wiki/conceitos/perispirito]] | 0.0153 |
 | 7 | [[wiki/conceitos/caridade]] | 0.0148 |
-| 8 | [[wiki/conceitos/mediunidade]] | 0.0139 |
-| 9 | [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] | 0.0137 |
-| 10 | [[wiki/obras/livro-dos-espiritos]] | 0.0131 |
-| 11 | [[wiki/conceitos/obsessao]] | 0.0128 |
-| 12 | [[wiki/conceitos/escala-espirita]] | 0.0113 |
-| 13 | [[wiki/conceitos/penas-e-gozos-futuros]] | 0.0109 |
-| 14 | [[wiki/conceitos/lei-natural]] | 0.0107 |
-| 15 | [[wiki/conceitos/morte]] | 0.0107 |
+| 8 | [[wiki/conceitos/mediunidade]] | 0.0138 |
+| 9 | [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] | 0.0136 |
+| 10 | [[wiki/conceitos/obsessao]] | 0.0133 |
+| 11 | [[wiki/obras/livro-dos-espiritos]] | 0.0131 |
+| 12 | [[wiki/conceitos/escala-espirita]] | 0.0112 |
+| 13 | [[wiki/conceitos/penas-e-gozos-futuros]] | 0.0107 |
+| 14 | [[wiki/obras/livro-dos-mediuns]] | 0.0107 |
+| 15 | [[wiki/conceitos/lei-natural]] | 0.0106 |
 
 ### Páginas órfãs (sem backlinks)
 
-_Nenhuma página órfã._
+- [[wiki/sinteses/colecao-fonte-viva-emmanuel]]
 
 ### Componentes isolados (≤ 2 nós)
 
@@ -156,81 +156,81 @@ _Nenhum._
 
 | # | Termo | Ocorrências |
 |---|-------|-------------|
-| 1 | `kardec` | 2147 |
-| 2 | `espírito` | 2082 |
-| 3 | `deus` | 2065 |
-| 4 | `espíritos` | 1872 |
-| 5 | `espírita` | 1715 |
-| 6 | `moral` | 1617 |
-| 7 | `espiritismo` | 1231 |
-| 8 | `vida` | 1110 |
-| 9 | `espiritual` | 1100 |
-| 10 | `jesus` | 1051 |
-| 11 | `cristo` | 936 |
-| 12 | `homem` | 922 |
-| 13 | `doutrina` | 814 |
-| 14 | `morte` | 796 |
-| 15 | `médium` | 748 |
-| 16 | `leitura` | 739 |
-| 17 | `corpo` | 712 |
-| 18 | `alma` | 677 |
-| 19 | `três` | 665 |
-| 20 | `mundo` | 661 |
-| 21 | `paulo` | 656 |
-| 22 | `terra` | 631 |
-| 23 | `amor` | 619 |
-| 24 | `caso` | 613 |
-| 25 | `caridade` | 573 |
-| 26 | `caps` | 568 |
-| 27 | `princípio` | 529 |
-| 28 | `toda` | 494 |
-| 29 | `contra` | 490 |
-| 30 | `próprio` | 486 |
-| 31 | `andré` | 483 |
-| 32 | `obra` | 479 |
-| 33 | `obras` | 468 |
-| 34 | `prece` | 466 |
-| 35 | `item` | 460 |
-| 36 | `espíritas` | 448 |
-| 37 | `progresso` | 444 |
-| 38 | `segundo` | 441 |
-| 39 | `mediunidade` | 438 |
-| 40 | `dois` | 429 |
-| 41 | `prática` | 421 |
-| 42 | `anos` | 415 |
-| 43 | `antes` | 413 |
-| 44 | `luiz` | 395 |
-| 45 | `senhor` | 388 |
-| 46 | `estudo` | 383 |
-| 47 | `justiça` | 374 |
-| 48 | `natureza` | 364 |
-| 49 | `universal` | 364 |
-| 50 | `gênese` | 362 |
+| 1 | `kardec` | 2191 |
+| 2 | `espírito` | 2103 |
+| 3 | `deus` | 2087 |
+| 4 | `espíritos` | 1878 |
+| 5 | `espírita` | 1759 |
+| 6 | `moral` | 1652 |
+| 7 | `espiritismo` | 1259 |
+| 8 | `vida` | 1157 |
+| 9 | `espiritual` | 1129 |
+| 10 | `jesus` | 1089 |
+| 11 | `homem` | 956 |
+| 12 | `cristo` | 953 |
+| 13 | `doutrina` | 831 |
+| 14 | `morte` | 812 |
+| 15 | `leitura` | 766 |
+| 16 | `médium` | 758 |
+| 17 | `corpo` | 729 |
+| 18 | `alma` | 701 |
+| 19 | `três` | 684 |
+| 20 | `mundo` | 672 |
+| 21 | `paulo` | 671 |
+| 22 | `amor` | 658 |
+| 23 | `terra` | 636 |
+| 24 | `caps` | 632 |
+| 25 | `caso` | 613 |
+| 26 | `caridade` | 594 |
+| 27 | `princípio` | 539 |
+| 28 | `obra` | 523 |
+| 29 | `toda` | 506 |
+| 30 | `próprio` | 501 |
+| 31 | `contra` | 497 |
+| 32 | `andré` | 488 |
+| 33 | `obras` | 484 |
+| 34 | `prece` | 478 |
+| 35 | `item` | 461 |
+| 36 | `espíritas` | 456 |
+| 37 | `progresso` | 449 |
+| 38 | `segundo` | 448 |
+| 39 | `mediunidade` | 445 |
+| 40 | `anos` | 434 |
+| 41 | `dois` | 433 |
+| 42 | `prática` | 430 |
+| 43 | `antes` | 422 |
+| 44 | `luiz` | 400 |
+| 45 | `senhor` | 392 |
+| 46 | `estudo` | 388 |
+| 47 | `justiça` | 380 |
+| 48 | `tudo` | 374 |
+| 49 | `chave` | 371 |
+| 50 | `própria` | 369 |
 
 ### Top 20 bigramas
 
 | # | Bigrama | Ocorrências |
 |---|---------|-------------|
-| 1 | `andré luiz` | 395 |
-| 2 | `leitura espírita` | 285 |
-| 3 | `livre arbítrio` | 193 |
-| 4 | `aplicação prática` | 171 |
-| 5 | `doutrina espírita` | 160 |
-| 6 | `chico xavier` | 160 |
+| 1 | `andré luiz` | 400 |
+| 2 | `leitura espírita` | 289 |
+| 3 | `livre arbítrio` | 201 |
+| 4 | `aplicação prática` | 175 |
+| 5 | `doutrina espírita` | 168 |
+| 6 | `chico xavier` | 168 |
 | 7 | `ensino kardec` | 142 |
 | 8 | `jesus cristo` | 119 |
-| 9 | `revista espírita` | 107 |
+| 9 | `revista espírita` | 109 |
 | 10 | `mundo espiritual` | 106 |
 | 11 | `estudo espírita` | 104 |
-| 12 | `após morte` | 102 |
+| 12 | `após morte` | 103 |
 | 13 | `vida futura` | 98 |
 | 14 | `espírito verdade` | 98 |
 | 15 | `plano espiritual` | 93 |
-| 16 | `causa efeito` | 89 |
-| 17 | `allan kardec` | 84 |
-| 18 | `texto integral` | 82 |
-| 19 | `chave espírita` | 79 |
-| 20 | `caridade salvação` | 78 |
+| 16 | `causa efeito` | 91 |
+| 17 | `allan kardec` | 89 |
+| 18 | `texto integral` | 87 |
+| 19 | `chave espírita` | 81 |
+| 20 | `dados bibliográficos` | 80 |
 
 ## Atividade no tempo
 
@@ -240,10 +240,10 @@ Período coberto: **2026-04** → **2026-05** (2 meses).
 
 ```
 aprofundamento ▁█  total=1
-estudo     █▂  total=14
+estudo     █▂  total=15
 glossario  ██  total=2
-ingest     █▄  total=79
-lint       █▂  total=42
+ingest     █▅  total=84
+lint       █▂  total=43
 refactor   █▂  total=15
 setup      █▁  total=2
 ```
@@ -253,13 +253,14 @@ setup      █▁  total=2
 | Mês | aprofundamento | estudo | glossario | ingest | lint | refactor | setup | Total |
 |-----|---|---|---|---|---|---|---|-------|
 | 2026-04 | 0 | 12 | 1 | 52 | 36 | 12 | 2 | 115 |
-| 2026-05 | 1 | 2 | 1 | 27 | 6 | 3 | 0 | 40 |
+| 2026-05 | 1 | 3 | 1 | 32 | 7 | 3 | 0 | 47 |
 
 ### Dias mais ativos
 
 | Data | Entradas |
 |------|----------|
 | 2026-04-07 | 15 |
+| 2026-05-05 | 13 |
 | 2026-04-15 | 13 |
 | 2026-04-29 | 12 |
 | 2026-05-01 | 11 |
@@ -268,15 +269,14 @@ setup      █▁  total=2
 | 2026-04-06 | 10 |
 | 2026-04-28 | 9 |
 | 2026-05-04 | 8 |
-| 2026-05-02 | 8 |
 
 ## Tamanho das páginas
 
 ```
-<200        101  █████████████████
-200-500     173  ██████████████████████████████
-500-1000    118  ████████████████████
-1000-2000    43  ███████
+<200        100  █████████████████
+200-500     175  ██████████████████████████████
+500-1000    125  █████████████████████
+1000-2000    45  ███████
 >2000        25  ████
 ```
 
@@ -314,7 +314,8 @@ _Nenhum wikilink quebrado._
 
 ## Sugestões automáticas
 
-- **Termos frequentes sem página própria**: `kardec` (2147), `espírito` (2082), `espíritos` (1872), `espírita` (1715), `moral` (1617), `espiritismo` (1231), `vida` (1110), `espiritual` (1100) — candidatos a novos conceitos ou sinônimos a padronizar.
+- **1 páginas órfãs** (grau de entrada = 0) — considerar adicionar backlinks a partir de conceitos/obras relacionados.
+- **Termos frequentes sem página própria**: `kardec` (2191), `espírito` (2103), `espíritos` (1878), `espírita` (1759), `moral` (1652), `espiritismo` (1259), `vida` (1157), `espiritual` (1129) — candidatos a novos conceitos ou sinônimos a padronizar.
 - **3 blocos de 100 questões do LE com <20% de cobertura**: 201–300 (19/100), 301–400 (8/100), 401–500 (17/100). Priorizar extração de questões-chave desses intervalos para `wiki/questoes/`.
 
 ## Páginas referenciadas

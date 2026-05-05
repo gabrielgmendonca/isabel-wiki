@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [meta]
 tags: [glossario, meta, dicionario]
-atualizado_em: 2026-04-20
-status: rascunho
+atualizado_em: 2026-05-05
+status: ativo
 ---
 
 # Glossário espírita

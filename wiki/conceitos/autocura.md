@@ -10,7 +10,7 @@ status: ativo
 
 ## Definição
 
-**Autocura** é a técnica em quatro passos que [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] sistematiza no capítulo IX de [[wiki/obras/plenitude|Plenitude]] (1990) para o paciente trabalhar, ao lado da terapia médica e desobsessiva, a recuperação da saúde a partir do próprio Espírito. Parte da tese central da obra: o sofrimento é "doença da alma" desencadeada pelo mau uso do livre-arbítrio, e portanto a cura real exige reformulação interior — não basta tratar sintomas.
+**Autocura** é a técnica em quatro passos que [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] sistematiza no capítulo IX de [[wiki/obras/plenitude|Plenitude]] (1990) para o paciente trabalhar, ao lado da terapia médica e desobsessiva, a recuperação da saúde a partir do próprio Espírito. Parte da tese central da obra: o sofrimento é "doença da alma" desencadeada pelo mau uso do livre-arbítrio, e portanto a cura real exige reformulação interior — não basta tratar sintomas. A formulação espírita já está em germe em Kardec, que afirma a encarnação como meio de expiação e progresso (LE, q. 132) e propõe ao aflito a transformação interior como única saída efetiva da prova (ESE, cap. V, item 18).
 
 A técnica não substitui a medicina nem a desobsessão; **complementa-as**, atuando do Espírito para o corpo. O capítulo abre referindo Jesus aos enfermos: *"se quiseres, já que queres, levanta-te e anda, vê, sê limpo"* — a vontade lúcida do paciente é a faísca inicial.
 

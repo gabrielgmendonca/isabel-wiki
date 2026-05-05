@@ -8,6 +8,7 @@ direitos:
   ano_dp_estimado: 2073
 atualizado_em: 2026-05-05
 status: ativo
+
 ---
 
 # Pão Nosso
@@ -73,7 +74,7 @@ Tratamento pastoral **antecipa em meia década** a pneumatologia da mente que ap
 
 Cap. 178 *Combate interior* (Filipenses 1.30 — *"Tendo o mesmo combate que já em mim tendes visto"*) toma Paulo como arquétipo. A meditação é biográfica: enumera as vitórias exteriores do convertido pré-Damasco (sobrepujar contemporâneos em inteligência, em conquista material, no tribunal de Jerusalém, na perseguição aos cristãos) e descreve o ponto de inflexão:
 
-> "Surgiu, contudo, um momento em que o Senhor lhe convoca o espírito a outro gênero de batalha — o combate consigo mesmo. Chegada essa hora, Paulo de Tarso cala-se e escuta… Quebra-se-lhe a espada nas mãos para sempre. Não tem braços para hostilizar e sim para ajudar e servir. Caminha, modificado, em sentido inverso. Ao invés de humilhar os outros, dobra a própria cerviz." (cap. 178)
+> "Surgiu, contudo, um momento em que o Senhor lhe convoca o espírito a outro gênero de batalha — o combate consigo mesmo. Chegada essa hora, Paulo de Tarso cala-se e escuta… Quebra-se-lhe a espada nas mãos para sempre. (…) Ao invés de humilhar os outros, dobra a própria cerviz." (cap. 178)
 
 Aplicação direta ao leitor: *"Se ainda não combates contigo mesmo, dia virá em que serás chamado a semelhante serviço."* O capítulo é a estampa pastoral do conceito de reforma íntima — combate exterior → combate consigo mesmo como inflexão obrigatória do discípulo. Articula-se com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XVII]] (*"Sede perfeitos"*) e com [[wiki/conceitos/livre-arbitrio]] na chave da responsabilidade.
 

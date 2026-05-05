@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [LE, ESE, LM, "C&I", Gênese]
 tags: [trilha, leitura, pentateuco, obra/le, obra/ese, obra/lm, obra/ci, obra/genese, autor/kardec]
-atualizado_em: 2026-04-20
-status: rascunho
+atualizado_em: 2026-05-05
+status: ativo
 ---
 
 # Leitura livre — roteiro pelas obras

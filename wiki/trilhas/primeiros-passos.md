@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [LE, ESE, OQE]
 tags: [trilha, introducao, iniciante, obra/le, obra/ese, obra/oqe, autor/kardec, lei/justica-amor-caridade]
-atualizado_em: 2026-04-20
-status: rascunho
+atualizado_em: 2026-05-05
+status: ativo
 ---
 
 # Primeiros passos no Espiritismo
