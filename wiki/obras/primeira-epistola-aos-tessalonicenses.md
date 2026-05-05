@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, silvano, timoteo, tessalonicenses, parousia, livre-exame, mediunidade, perispirito, autor/paulo, lei/justica-amor-caridade, lei/adoracao, tema/vida-futura, tema/prece-caridade, tema/mediunidade]
+tags: [paulo, silvano, timoteo, tessalonicenses, parousia, livre-exame, mediunidade, perispirito, autor/paulo, lei/justica-amor-caridade, lei/adoracao, tema/vida-futura, tema/prece-caridade, tema/mediunidade, lei/conservacao, lei/reproducao, lei/sociedade, lei/trabalho]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-04

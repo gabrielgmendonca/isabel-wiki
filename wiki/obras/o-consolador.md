@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
-tags: [emmanuel, chico-xavier, consolador, espiritismo-evangelico, qa-doutrinario, autor/chico-xavier, autor/emmanuel, tema/historia-doutrina, tema/jesus, tema/moral]
+tags: [emmanuel, chico-xavier, consolador, espiritismo-evangelico, qa-doutrinario, autor/chico-xavier, autor/emmanuel, tema/historia-doutrina, tema/jesus, tema/moral, lei/igualdade]
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073

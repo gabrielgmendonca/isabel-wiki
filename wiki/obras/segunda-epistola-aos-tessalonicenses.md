@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, silvano, timoteo, tessalonicenses, parousia, anticristo, homem-do-pecado, lei-do-trabalho, livre-arbitrio, autor/paulo, lei/trabalho, lei/justica-amor-caridade, tema/jesus, tema/sociedade, tema/moral]
+tags: [paulo, silvano, timoteo, tessalonicenses, parousia, anticristo, homem-do-pecado, lei-do-trabalho, livre-arbitrio, autor/paulo, lei/trabalho, lei/justica-amor-caridade, tema/jesus, tema/sociedade, tema/moral, lei/progresso]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-04
