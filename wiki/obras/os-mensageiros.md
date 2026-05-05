@@ -151,7 +151,7 @@ A formulação fecha o livro: "**A ideia da morte não serve para aliviar, curar
 - [[wiki/conceitos/umbral]] — onze anos de Acelino entre seus consulentes desencarnados
 - [[wiki/conceitos/suicidio]] — Otávio como caso correlato ("suicídio inconsciente" por excessos)
 - [[wiki/conceitos/fluidos]] — sopro curativo, passe magnético, água efluviada
-- [[wiki/conceitos/lei-do-trabalho]] — o trabalho como única chave de cooperação na vida espiritual
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — o trabalho como única chave de cooperação na vida espiritual
 
 ## Páginas derivadas
 

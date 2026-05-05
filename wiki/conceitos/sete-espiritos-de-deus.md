@@ -46,7 +46,7 @@ A leitura espírita acolhe parcialmente a segunda interpretação (sete Espírit
 
 Três aspectos da função dos Espíritos elevados, que a expressão joanina articula em forma alegórica:
 
-1. **Diante do trono** (Ap 1:4; 4:5) — proximidade direta com Deus; reverência espontânea (cf. Ap 4:10–11, anciãos lançam coroas e adoram); estado de **adoração** que é, em chave kardequiana, o estado natural dos Espíritos puros (LE q. 649–663, [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]]).
+1. **Diante do trono** (Ap 1:4; 4:5) — proximidade direta com Deus; reverência espontânea (cf. Ap 4:10–11, anciãos lançam coroas e adoram); estado de **adoração** que é, em chave kardequiana, o estado natural dos Espíritos puros (LE q. 649–663, [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]]).
 2. **Enviados a toda a terra** (Ap 5:6) — função executiva: atuam na humanidade encarnada por inspiração e assistência (LE q. 459–471 sobre relações encarnados/desencarnados; q. 538–540 sobre Espíritos protetores).
 3. **Em comunhão com o Cordeiro** (Ap 5:6) — sob a direção de Jesus como [[wiki/personalidades/jesus|guia da humanidade terrestre]] (LE q. 625; ESE Introdução; Emmanuel/Chico, *A Caminho da Luz*, sobre a Comunidade de Jesus).
 
@@ -87,7 +87,7 @@ Para o estudo espírita, a expressão joanina é útil em três frentes:
 - [[wiki/conceitos/escala-espirita]] — estrutura geral da hierarquia dos Espíritos.
 - [[wiki/personalidades/espiritos-reveladores]] — análogo coletivo nos Prolegômenos do ESE.
 - [[wiki/personalidades/jesus]] — o Cordeiro com os "sete Espíritos enviados a toda a terra" (Ap 5:6).
-- [[wiki/conceitos/lei-de-adoracao]] — adoração espontânea dos Espíritos puros diante do trono (Ap 4:10–11).
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — adoração espontânea dos Espíritos puros diante do trono (Ap 4:10–11).
 - [[wiki/conceitos/anjos]] — refutação espírita dos arcanjos como criatura à parte; convergência funcional com os "sete Espíritos".
 - [[wiki/conceitos/tres-revelacoes]] — Espírito de Verdade dirigindo a revelação coletiva.
 - [[wiki/obras/apocalipse]] — passagens-fonte (1:4; 3:1; 4:5; 5:6).

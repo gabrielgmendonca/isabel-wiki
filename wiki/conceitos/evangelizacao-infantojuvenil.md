@@ -52,7 +52,7 @@ A evangelização infantojuvenil é uma das atividades centrais das casas espír
 
 - [[wiki/conceitos/geracao-nova]] — a nova geração de Espíritos que se educa
 - [[wiki/conceitos/reencarnacao]] — tendências inatas que a educação pode moldar
-- [[wiki/conceitos/lei-moral]] — fundamento do ensino
+- [[wiki/conceitos/leis-morais]] — fundamento do ensino
 - [[wiki/conceitos/verdadeiro-espirita]] — o perfil que a evangelização visa formar
 - [[wiki/conceitos/organizacao-de-grupos-espiritas]] — a inclusão de jovens nos grupos
 - [[wiki/obras/viagem-espirita-em-1862]] — observações de Kardec sobre educação espírita

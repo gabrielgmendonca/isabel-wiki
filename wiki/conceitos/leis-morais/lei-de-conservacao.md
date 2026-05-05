@@ -1,4 +1,5 @@
 ---
+title: "Lei de conservação"
 tipo: conceito
 fontes: [LE]
 tags: [conservacao, instinto, necessario, privacoes, lei-moral, obra/le, lei/conservacao, autor/kardec, grau/intermediario, tema/moral]
@@ -56,7 +57,7 @@ O critério operacional desta lei é o discernimento entre **necessário** e **s
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-de-destruicao]] · [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-de-destruicao]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 - [[wiki/conceitos/suicidio]] — infração extrema da lei de conservação
 
 ## Fontes

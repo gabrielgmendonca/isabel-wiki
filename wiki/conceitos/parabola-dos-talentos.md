@@ -37,7 +37,7 @@ A parábola desafia a inércia e o comodismo. No contexto espírita, ela nos lem
 ## Páginas relacionadas
 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/livre-arbitrio]]
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
 
 ## Fontes

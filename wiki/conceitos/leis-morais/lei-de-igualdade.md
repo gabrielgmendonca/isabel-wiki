@@ -1,4 +1,5 @@
 ---
+title: "Lei de igualdade"
 tipo: conceito
 fontes: [LE, NT]
 tags: [igualdade, riqueza, miseria, homem-e-mulher, escravidao, lei-moral, obra/le, lei/igualdade, autor/kardec, grau/intermediario, tema/moral]
@@ -60,7 +61,7 @@ Em vão tenta o rico perpetuar-se em monumentos: "o tempo os destruirá, como lh
 
 > "O primeiro princípio de justiça é este: Não façais aos outros o que não quereríeis que vos fizessem." (LE, q. 822)
 
-A regra de ouro, enunciada aqui na Lei de Igualdade, será retomada como coração da [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — selo de que igualdade e caridade são uma única lei vista de dois lados.
+A regra de ouro, enunciada aqui na Lei de Igualdade, será retomada como coração da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — selo de que igualdade e caridade são uma única lei vista de dois lados.
 
 ## Aplicação prática
 
@@ -71,12 +72,12 @@ A Lei de Igualdade descarta tanto a aristocracia natural (sangue, casta, sexo) q
 A leitura literalista de três passagens neotestamentárias instala estruturas hierárquicas que divergem da Lei de Igualdade:
 
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] — Ef 5:22–24 ("mulheres, sujeitai-vos a vossos maridos [...] o marido é a cabeça da mulher") em tensão com LE q. 817–822. A mutualidade de Ef 5:21 e o amor sacrificial assimétrico do marido (Ef 5:25) atenuam a leitura, mas o literalismo permanece divergente.
-- [[wiki/divergencias/escravidao-em-efesios-6]] — Ef 6:5–9 (servos obedecem aos senhores) em tensão com LE q. 803, 806, 818, 822 e com a [[wiki/conceitos/lei-de-liberdade]] (LE q. 825–872). Paulo dignifica o servo perante Deus ("não há acepção de pessoas", Ef 6:9) mas não recusa a estrutura escrava.
+- [[wiki/divergencias/escravidao-em-efesios-6]] — Ef 6:5–9 (servos obedecem aos senhores) em tensão com LE q. 803, 806, 818, 822 e com a [[wiki/conceitos/leis-morais/lei-de-liberdade]] (LE q. 825–872). Paulo dignifica o servo perante Deus ("não há acepção de pessoas", Ef 6:9) mas não recusa a estrutura escrava.
 - [[wiki/divergencias/condicao-feminina-nas-paulinas]] — 1 Co 11:3–16 e 14:34–35 (silêncio litúrgico feminino) em tensão com LE q. 817–822 e com At 2:17 ("vossas filhas profetizarão").
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-liberdade]] · [[wiki/conceitos/expiacao]] · [[wiki/conceitos/reencarnacao]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-liberdade]] · [[wiki/conceitos/expiacao]] · [[wiki/conceitos/reencarnacao]]
 
 ## Fontes
 

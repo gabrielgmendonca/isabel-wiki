@@ -135,7 +135,7 @@ Druso renunciará à direção da casa para reencarnar primeiro; depois a esposa
 
 ## Conceitos tratados
 
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — eixo doutrinário da obra inteira
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — eixo doutrinário da obra inteira
 - [[wiki/conceitos/umbral]] — Mansão Paz é instituição assistencial nas zonas inferiores
 - [[wiki/conceitos/expiacao-e-reparacao]] — mecânica do resgate por reencarnação retificadora
 - [[wiki/conceitos/provas-e-expiacoes]] — provas individuais e coletivas

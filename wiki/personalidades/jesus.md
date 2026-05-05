@@ -158,7 +158,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/personalidades/espiritos-reveladores]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/personalidades/espiritos-reveladores]]
 - [[wiki/conceitos/kenose-de-cristo]] — esvaziamento voluntário (Fp 2:5–11) como modelo de humildade do Espírito superior em missão.
 - [[wiki/personalidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
 - [[wiki/questoes/jesus-tipo-mais-perfeito]] — Q&A direta sobre LE, q. 625.

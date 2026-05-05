@@ -99,7 +99,7 @@ A leitura contextual (expectativa iminente da Parusia) mitiga parcialmente o con
 
 - [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 7
 - [[wiki/obras/livro-dos-espiritos]] — q. 686–701 (Lei de Reprodução); esp. q. 695, 698–699
-- [[wiki/conceitos/lei-de-reproducao]]
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]]
 - [[wiki/personalidades/paulo-de-tarso]]
 
 ## Fontes

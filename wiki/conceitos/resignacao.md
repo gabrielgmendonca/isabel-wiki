@@ -33,7 +33,7 @@ Em palestras sobre sofrimento, a resignação é tema delicado. Convém apresent
 - [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/bem-aventurancas]]
 - [[wiki/conceitos/fe]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

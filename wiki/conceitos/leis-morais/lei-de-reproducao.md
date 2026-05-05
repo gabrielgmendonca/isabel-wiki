@@ -1,4 +1,5 @@
 ---
+title: "Lei de reprodução"
 tipo: conceito
 fontes: [LE, ESE]
 tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, andre-luiz, sexo-e-destino, obra/le, obra/ese, lei/reproducao, autor/kardec, autor/andre-luiz, grau/intermediario, tema/sociedade]
@@ -79,8 +80,8 @@ As quatro normas operacionalizam diretamente q. 693a (regular sem opor obstácul
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]]
-- [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/lei-de-sociedade]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais]]
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] · [[wiki/conceitos/leis-morais/lei-de-sociedade]]
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] · [[wiki/conceitos/raca-adamica]]
 - [[wiki/conceitos/energia-sexual]] — fio conceitual que articula a Lei de Reprodução com a "carga magnética" em Emmanuel e o centro genésico em André Luiz.
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual; janela providencial da infância (LE, q. 582–583).

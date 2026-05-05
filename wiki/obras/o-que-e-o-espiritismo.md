@@ -105,7 +105,7 @@ Resumo de *O Livro dos Espíritos* aplicado a problemas concretos, em itens nume
 - [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/prece]]
 - [[wiki/conceitos/materialismo]] · [[wiki/conceitos/fe-raciocinada]]
 - [[wiki/conceitos/emancipacao-da-alma]] · [[wiki/conceitos/vida-futura]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]] · [[wiki/conceitos/provas-e-expiacoes]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/provas-e-expiacoes]]
 
 ## Personalidades citadas
 

@@ -33,7 +33,7 @@ Para o estudo espírita, a carta é preciosa por **cinco eixos**:
 
 2. **Origem da tentação não é Deus** (Tg 1:13–15). "Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta. Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência. Depois, havendo a concupiscência concebido, dá à luz o pecado." A passagem é **uma das formulações mais espíritas do NT**: o mal não tem origem divina externa nem em entidade ontologicamente má, mas na **inclinação imperfeita do próprio Espírito** que não dominou ainda suas paixões. Convergência exata com [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843), com a doutrina da [[wiki/conceitos/origem-do-mal|origem do mal]] como ausência do bem (Gênese, cap. III) e com a lei moral inscrita na consciência (LE q. 621). Tira da equação tanto o Deus que prova arbitrariamente ("nos induz à tentação") quanto o Diabo-tentador-externo da teologia popular. Ver [[wiki/conceitos/livre-arbitrio]].
 
-3. **Lei real / lei perfeita da liberdade** (Tg 1:25; 2:8–13). "Lei real" (*nomos basilikos*, lei do Reino) é nome dado por Tiago ao mandamento "amarás a teu próximo como a ti mesmo" (Lv 19:18, citado em Tg 2:8). E "lei perfeita da liberdade" (1:25) ou "lei da liberdade" (2:12) é o nome dado à mesma lei moral enquanto **vivida por dentro**, não imposta por fora — a antítese do legalismo. É a formulação apostólica mais próxima de duas teses centrais do Pentateuco: a [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892) e a [[wiki/conceitos/lei-de-liberdade|Lei de Liberdade]] como condição do mérito (LE q. 825–872). E é a base do critério judicial do final da carta: "porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo" (2:13) — eco direto da bem-aventurança dos misericordiosos (Mt 5:7) e de [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35).
+3. **Lei real / lei perfeita da liberdade** (Tg 1:25; 2:8–13). "Lei real" (*nomos basilikos*, lei do Reino) é nome dado por Tiago ao mandamento "amarás a teu próximo como a ti mesmo" (Lv 19:18, citado em Tg 2:8). E "lei perfeita da liberdade" (1:25) ou "lei da liberdade" (2:12) é o nome dado à mesma lei moral enquanto **vivida por dentro**, não imposta por fora — a antítese do legalismo. É a formulação apostólica mais próxima de duas teses centrais do Pentateuco: a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892) e a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] como condição do mérito (LE q. 825–872). E é a base do critério judicial do final da carta: "porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo" (2:13) — eco direto da bem-aventurança dos misericordiosos (Mt 5:7) e de [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35).
 
 4. **Domínio da língua** (Tg 3:1–12). "A língua é um pequeno membro, e gloria-se de grandes coisas. Vede quão grande bosque um pequeno fogo incendeia." (3:5) "De uma mesma boca procede bênção e maldição. Meus irmãos, não convém que isto se faça assim." (3:10) É a passagem **mais densa do NT** sobre o uso moral da palavra, e a base escritural matriz para [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. X (sobre maledicência e perdão) e para o conceito kardequiano da **palavra como ato moral** (LE q. 919; ESE cap. XVII, item 4 — "as boas palavras supõem boas qualidades, e as boas qualidades supõem o homem de bem"). Tiago insiste num ponto que Kardec retoma: a sinceridade da pessoa se mede pela **homogeneidade** entre o que ela bendiz e o que ela amaldiçoa. Quem bendiz a Deus e amaldiçoa o irmão "feito à semelhança de Deus" (3:9) tem fé contraditada pelos próprios lábios.
 
@@ -53,7 +53,7 @@ Saudação às doze tribos da diáspora (1:1). Logo no segundo versículo, abre 
 
 **Bem-aventurado quem suporta a tentação** (1:12). "Bem-aventurado o homem que sofre a tentação; porque, quando for provado, receberá a coroa da vida." Paralelo das [[wiki/conceitos/bem-aventurancas|bem-aventuranças]] do Sermão da Montanha — em particular da [[wiki/conceitos/bem-aventuranca-dos-aflitos|bem-aventurança dos aflitos]] e da [[wiki/conceitos/bem-aventuranca-dos-perseguidos|bem-aventurança dos perseguidos]].
 
-**Deus a ninguém tenta** (1:13–15). Centro doutrinário do capítulo. Descontamina a noção popular de "Deus me submete a esta tentação para me provar" e localiza a origem do mal **dentro do próprio ser** — "cada um é tentado, quando atraído e engodado pela sua própria concupiscência" (1:14). A imagem da concupiscência que "dá à luz o pecado" (1:15) é **psicologia moral**, não dogmática: descreve o ciclo desejo→ação→consequência que Kardec sistematizará em [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e em [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843–850). Ver [[raw/biblia-acf/tiago/1]].
+**Deus a ninguém tenta** (1:13–15). Centro doutrinário do capítulo. Descontamina a noção popular de "Deus me submete a esta tentação para me provar" e localiza a origem do mal **dentro do próprio ser** — "cada um é tentado, quando atraído e engodado pela sua própria concupiscência" (1:14). A imagem da concupiscência que "dá à luz o pecado" (1:15) é **psicologia moral**, não dogmática: descreve o ciclo desejo→ação→consequência que Kardec sistematizará em [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e em [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843–850). Ver [[raw/biblia-acf/tiago/1]].
 
 **Pai das luzes** (1:17). "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação." Formulação bíblica matriz da imutabilidade dos atributos divinos — **Deus único, justo, imutável** (LE q. 13). Paralelo neotestamentário do "Pai dos espíritos" de Hb 12:9.
 
@@ -67,12 +67,12 @@ Saudação às doze tribos da diáspora (1:1). Logo no segundo versículo, abre 
 
 **Acepção de pessoas é pecado** (2:1–9). Cena pedagógica: na assembleia entra um rico de anel de ouro e um pobre de roupas sórdidas; tratá-los diferentemente é **fazer-se "juízes de maus pensamentos"** (2:4) e quebrar a "lei real" (2:8). A justificação teológica de Tiago é dupla: (i) **Deus escolheu os pobres deste mundo para serem ricos na fé** (2:5) — paralelo direto da [[wiki/conceitos/bem-aventuranca-dos-pobres-de-espirito|primeira bem-aventurança]] (Mt 5:3) e do anúncio de Jesus em Lc 4:18 ("o Espírito do Senhor [...] me ungiu para evangelizar os pobres"); (ii) **a acepção de pessoas é transgressão da lei** (2:9), por mais que esteja socialmente normalizada.
 
-A passagem é **base escritural** para a [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] kardequiana (LE q. 803–824). Convergência com At 10:34 ("Deus não faz acepção de pessoas") já registrada em [[wiki/obras/atos-dos-apostolos|Atos]].
+A passagem é **base escritural** para a [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] kardequiana (LE q. 803–824). Convergência com At 10:34 ("Deus não faz acepção de pessoas") já registrada em [[wiki/obras/atos-dos-apostolos|Atos]].
 
 **Lei real e lei da liberdade** (2:8–13). "Se cumprirdes, conforme a Escritura, a lei real: Amarás a teu próximo como a ti mesmo, bem fazeis." (2:8) "Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade." (2:12) "Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo." (2:13) Os três versículos **fundem três teses kardequianas**:
 
 - O **mandamento do amor ao próximo como sumo da lei** — formulação de Jesus em Mt 22:39, retomada por Paulo em Rm 13:9 e por Tiago aqui. Convergência total com LE q. 886 e ESE cap. XV.
-- A **lei interior como lei da liberdade** — a antítese da lei externa imposta. É a [[wiki/conceitos/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872) e a fórmula de Hb 8:10 ("porei as minhas leis no seu entendimento, e em seu coração as escreverei") já vista em [[wiki/obras/epistola-aos-hebreus|Hebreus]].
+- A **lei interior como lei da liberdade** — a antítese da lei externa imposta. É a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872) e a fórmula de Hb 8:10 ("porei as minhas leis no seu entendimento, e em seu coração as escreverei") já vista em [[wiki/obras/epistola-aos-hebreus|Hebreus]].
 - O **critério recíproco do juízo** — "a misericórdia triunfa do juízo" é eco direto de Mt 5:7 ("bem-aventurados os misericordiosos") e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35). Ver [[wiki/conceitos/bem-aventuranca-dos-misericordiosos]].
 
 **Fé sem obras é morta** (2:14–26). Núcleo doutrinário da carta. Tiago argumenta em três passos:
@@ -87,7 +87,7 @@ A leitura espírita harmoniza esta passagem com Rm 4 (justificação pela fé): 
 
 **[[wiki/personalidades/abraao|Abraão]] e Raabe** são exemplos paradigmáticos de Tiago — um patriarca e uma estrangeira pagã (não-judia) — porque a justificação pelas obras é **universal**, não étnica. Paralelo programático de At 10:34 e da abertura aos gentios. Ver [[raw/biblia-acf/tiago/2]].
 
-- **Conceitos:** [[wiki/conceitos/fe]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-de-igualdade]]
+- **Conceitos:** [[wiki/conceitos/fe]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 
 ### Cap. 3 — Domínio da língua e sabedoria do alto
 
@@ -138,7 +138,7 @@ A "humilhação" prescrita em 4:9–10 — "senti as vossas misérias, e lamenta
 
 ### Cap. 5 — Riqueza condenada, paciência, prece pelos doentes
 
-**Riqueza acumulada como peso** (5:1–6). Tom de **profeta vétero-testamentário**: "Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir" (5:1). A acusação é dupla: (i) **acúmulo improdutivo** — "as vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça [...] o vosso ouro e a vossa prata se enferrujaram" (5:2–3); (ii) **exploração do trabalhador** — "o jornal dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos" (5:4). Convergência forte com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVI ("Não se pode servir a Deus e a Mamon") e com a [[wiki/conceitos/parabola-do-mau-rico|parábola do mau rico]] (Lc 16:19–31). A passagem articula duas exigências: o **uso moral da riqueza** (não é a posse, é a função) e a **justiça do salário** ([[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]], LE q. 674–685).
+**Riqueza acumulada como peso** (5:1–6). Tom de **profeta vétero-testamentário**: "Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir" (5:1). A acusação é dupla: (i) **acúmulo improdutivo** — "as vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça [...] o vosso ouro e a vossa prata se enferrujaram" (5:2–3); (ii) **exploração do trabalhador** — "o jornal dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos" (5:4). Convergência forte com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVI ("Não se pode servir a Deus e a Mamon") e com a [[wiki/conceitos/parabola-do-mau-rico|parábola do mau rico]] (Lc 16:19–31). A passagem articula duas exigências: o **uso moral da riqueza** (não é a posse, é a função) e a **justiça do salário** ([[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]], LE q. 674–685).
 
 **Paciência até a vinda do Senhor** (5:7–11). "Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência" (5:7). "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso" (5:11). [[wiki/personalidades/jesus|Jesus]], em Mc 13 / Mt 24, descreveu a "vinda do Filho do Homem" — Tiago retoma na chave da **paciência ativa**. Ver nota interpretativa abaixo.
 
@@ -156,7 +156,7 @@ Sobre a **unção com azeite** (5:14), ver nota interpretativa abaixo.
 
 **Converter quem se desviou** (5:19–20). "Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter, saiba que aquele que fizer converter do erro do seu caminho um pecador, salvará da morte uma alma, e cobrirá uma multidão de pecados." Fecho da carta na chave da [[wiki/conceitos/caridade|caridade]] ativa: a **caridade pelos vivos no sentido espiritual** — ajudar quem se afasta da [[wiki/conceitos/lei-natural|Lei Moral]] a retomar o caminho. Convergência com ESE cap. XV (caridade total, dos vivos e dos mortos) e com a função dos [[wiki/personalidades/espiritos-reveladores|Espíritos protetores]]. "Salvar da morte uma alma" é alegoria da [[wiki/conceitos/morte-espiritual|morte espiritual]] — entendida na chave de OPE como afastamento do progresso, não como aniquilamento. Ver [[raw/biblia-acf/tiago/5]].
 
-- **Conceitos:** [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/prece]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-do-trabalho]]
+- **Conceitos:** [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/prece]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 
 ## Notas interpretativas
 
@@ -197,9 +197,9 @@ Ambos louvam o mesmo Abraão como modelo (Rm 4 / Tg 2:21–23). A "fé" que Paul
 | Tg 1:17 | Pai das luzes, sem variação | LE q. 1–13 (atributos divinos); Hb 12:9 (Pai dos espíritos) |
 | Tg 1:22–25 | Fazedores da palavra, lei perfeita da liberdade | Mt 7:24–27 ([[wiki/conceitos/parabola-da-casa-sobre-a-rocha]]); ESE cap. XIX ([[wiki/conceitos/fe-raciocinada]]) |
 | Tg 1:27 | Religião pura: viúvas e órfãos | ESE cap. XV ("Fora da caridade não há salvação"); cap. XVII ([[wiki/conceitos/homem-de-bem]]) |
-| Tg 2:1–9 | Acepção de pessoas é pecado | At 10:34; LE q. 803–824 ([[wiki/conceitos/lei-de-igualdade]]) |
+| Tg 2:1–9 | Acepção de pessoas é pecado | At 10:34; LE q. 803–824 ([[wiki/conceitos/leis-morais/lei-de-igualdade]]) |
 | Tg 2:8 | Lei real: amarás o próximo como a ti mesmo | LE q. 886; ESE caps. XI–XV; Mt 22:39; Rm 13:9 |
-| Tg 2:12–13 | Lei da liberdade; misericórdia triunfa do juízo | LE q. 825–872 ([[wiki/conceitos/lei-de-liberdade]]); Mt 5:7 ([[wiki/conceitos/bem-aventuranca-dos-misericordiosos]]); Mt 18:23–35 ([[wiki/conceitos/parabola-do-credor-incompassivo]]) |
+| Tg 2:12–13 | Lei da liberdade; misericórdia triunfa do juízo | LE q. 825–872 ([[wiki/conceitos/leis-morais/lei-de-liberdade]]); Mt 5:7 ([[wiki/conceitos/bem-aventuranca-dos-misericordiosos]]); Mt 18:23–35 ([[wiki/conceitos/parabola-do-credor-incompassivo]]) |
 | Tg 2:14–26 | Fé sem obras é morta | ESE cap. XIX, item 7; [[wiki/conceitos/parabola-da-figueira-seca]]; LE q. 886 |
 | Tg 3:1 | Mestres recebem juízo mais duro | Mt 25:14–30 ([[wiki/conceitos/parabola-dos-talentos]]); Mt 21:33–46 ([[wiki/conceitos/parabola-dos-lavradores-maus]]) |
 | Tg 3:2–12 | Domínio da língua; mesma boca bendiz e amaldiçoa | ESE cap. X; ESE cap. XVII, item 4; Mt 12:34–35 |
@@ -210,7 +210,7 @@ Ambos louvam o mesmo Abraão como modelo (Rm 4 / Tg 2:21–23). A "fé" que Paul
 | Tg 4:11–12 | Não julgar o irmão | Mt 7:1–5; Lc 6:37; Rm 14:4, 10–13; Jo 8:1–11; [[wiki/conceitos/nao-julgar]] |
 | Tg 4:14 | Vida como vapor | ESE cap. II; [[wiki/conceitos/desapego-dos-bens-terrenos]] |
 | Tg 4:17 | Pecado de omissão | ESE cap. XV, item 10; LE q. 636–640 ([[wiki/conceitos/responsabilidade]]) |
-| Tg 5:1–6 | Riqueza acumulada, salário sonegado | ESE cap. XVI; [[wiki/conceitos/parabola-do-mau-rico]]; LE q. 674–685 ([[wiki/conceitos/lei-do-trabalho]]) |
+| Tg 5:1–6 | Riqueza acumulada, salário sonegado | ESE cap. XVI; [[wiki/conceitos/parabola-do-mau-rico]]; LE q. 674–685 ([[wiki/conceitos/leis-morais/lei-do-trabalho]]) |
 | Tg 5:7–11 | Paciência; Jó; vinda do Senhor | ESE cap. V; Gênese cap. XVII (vinda do Consolador) |
 | Tg 5:12 | Não jurar: sim, sim; não, não | Mt 5:33–37 (Sermão da Montanha) |
 | Tg 5:13–18 | Prece pelos doentes; oração do justo; Elias | ESE cap. XXVII, item 18; LM 2ª parte cap. XIV; Gênese cap. XIV (ação fluídica) |
@@ -233,10 +233,10 @@ Ambos louvam o mesmo Abraão como modelo (Rm 4 / Tg 2:21–23). A "fé" que Paul
 - [[wiki/conceitos/humildade]] — Tg 4:6, 10 ("Deus resiste aos soberbos").
 - [[wiki/conceitos/livre-arbitrio]] — Tg 1:13–15 ("Deus a ninguém tenta").
 - [[wiki/conceitos/prece]] — Tg 5:13–18 (prece pelos doentes; oração do justo).
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Tg 2:8 (lei real).
-- [[wiki/conceitos/lei-de-liberdade]] — Tg 1:25; 2:12 (lei perfeita da liberdade).
-- [[wiki/conceitos/lei-de-igualdade]] — Tg 2:1–9 (acepção de pessoas).
-- [[wiki/conceitos/lei-do-trabalho]] — Tg 5:4 (salário sonegado).
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — Tg 2:8 (lei real).
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]] — Tg 1:25; 2:12 (lei perfeita da liberdade).
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — Tg 2:1–9 (acepção de pessoas).
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — Tg 5:4 (salário sonegado).
 - [[wiki/conceitos/nao-julgar]] — Tg 4:11–12.
 - [[wiki/conceitos/responsabilidade]] — Tg 4:17 (pecado de omissão).
 - [[wiki/conceitos/escala-espirita]] — Tg 3:13–18 (sabedoria do alto vs terrena, animal, diabólica).

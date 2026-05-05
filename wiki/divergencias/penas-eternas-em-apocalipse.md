@@ -72,7 +72,7 @@ A divergência é, todavia, **com a tradição dogmática** que fixou a leitura 
 
 3. **"Tormento para todo o sempre"** (Ap 14:11; 20:10) — gr. *eis aiōnas aiōnōn*. A construção idiomática hebraico-grega designa **duração extensa** dentro da percepção do narrador, não infinitude metafísica. O sofrimento é **real** e pode ser **muito longo**, mas é **interrompível pelo arrependimento e pela reforma íntima** (LE q. 1009; C&I 1ª parte cap. VII; ESE cap. XVII).
 
-4. **"O livro da vida"** (Ap 20:12, 15; 21:27) — alegoria do **registro moral** do Espírito, escrito pelas próprias obras (cf. Ap 20:12 — *"foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras"*). Convergência **direta** com a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] (LE q. 636–640). Não estar "escrito no livro da vida" = não ter colocado ainda os atos morais que abrem o caminho ao progresso — estado **reversível** pela reforma.
+4. **"O livro da vida"** (Ap 20:12, 15; 21:27) — alegoria do **registro moral** do Espírito, escrito pelas próprias obras (cf. Ap 20:12 — *"foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras"*). Convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] (LE q. 636–640). Não estar "escrito no livro da vida" = não ter colocado ainda os atos morais que abrem o caminho ao progresso — estado **reversível** pela reforma.
 
 5. **"Adoradores da besta"** (Ap 14:9–11) — alegoria dos Espíritos que aderem ao sistema corruptor (Mamon coletivo, ESE cap. XVI), submetendo a consciência ao poder material. O "tormento" descrito é o **sofrimento moral** consequente à adesão; "para todo o sempre" enquanto persistem na adesão — não independente do estado moral.
 
@@ -101,7 +101,7 @@ A divergência companheira em cap. 12 e 20 sobre o **diabo nomeado como entidade
 - [[wiki/conceitos/inferno]] — inferno como estado, não lugar.
 - [[wiki/conceitos/morte-espiritual]] — leitura espírita da "segunda morte".
 - [[wiki/conceitos/dores-da-alma]] — sofrimento moral pós-morte.
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — recompensa segundo as obras (Ap 20:12; 22:12).
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — recompensa segundo as obras (Ap 20:12; 22:12).
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — divergência companheira sobre Mt 25:41, 46.
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — divergência companheira sobre Hb 6:4–6 e 10:26–27.
 - [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]] — divergência companheira sobre Hb 9:27.

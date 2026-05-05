@@ -103,7 +103,7 @@ Bloco central da moral cristã; núcleo doutrinário do ESE.
 - **Conceitos:** [[wiki/conceitos/parabola-dos-dois-filhos]], [[wiki/conceitos/parabola-dos-lavradores-maus]], [[wiki/conceitos/parabola-da-figueira-seca]]
 
 **Cap. 22 — Festim de bodas, tributo a César, ressurreição, maior mandamento.** Parábola do festim de bodas (Mt 22:1–14) — ESE, cap. XVIII. "Dai a César o que é de César, e a Deus o que é de Deus" (Mt 22:21) — distinção entre deveres civis e deveres morais. "Na ressurreição, nem casam, nem se dão em casamento; mas serão como os anjos de Deus no céu" (Mt 22:30) — Kardec lê como descrição do estado espiritual, coerente com a pluralidade de existências (ESE, cap. IV). Maior mandamento: amar a Deus e ao próximo (Mt 22:37–40) — síntese de toda a Lei (ESE, cap. XI). Ver [[raw/biblia-acf/mateus/22]].
-- **Conceitos:** [[wiki/conceitos/parabola-do-festim-de-bodas]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/parabola-do-festim-de-bodas]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 **Cap. 23 — "Ais" aos escribas e fariseus.** Crítica à religião exterior e hipócrita: "dizem e não fazem" (Mt 23:3). "O maior dentre vós será vosso servo" (Mt 23:11). "Ai de vós, escribas e fariseus, hipócritas" (refrão setenário). "Purifica primeiro o interior do copo" (Mt 23:26). Ver [[raw/biblia-acf/mateus/23]].
 
@@ -131,7 +131,7 @@ Bloco central da moral cristã; núcleo doutrinário do ESE.
 
 1. **Sermão da Montanha** — caps. 5–7. Núcleo da moral cristã; base dos caps. V–X e XXVIII do ESE. Ver [[wiki/conceitos/bem-aventurancas]].
 2. **Parábolas do Reino** — cap. 13 (sete parábolas) e caps. 18, 20, 21, 22, 25 (parábolas pastorais e escatológicas). Comentadas sistematicamente nos caps. XVI–XX do ESE.
-3. **Lei de amor e caridade** — maior mandamento (Mt 22:37–40); amor aos inimigos (Mt 5:44); juízo pela caridade prática (Mt 25:31–46). Ver [[wiki/conceitos/lei-de-justica-amor-e-caridade]].
+3. **Lei de amor e caridade** — maior mandamento (Mt 22:37–40); amor aos inimigos (Mt 5:44); juízo pela caridade prática (Mt 25:31–46). Ver [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]].
 4. **Reencarnação** — João Batista como reencarnação de Elias (Mt 11:14; 17:12), citada por Kardec (ESE, cap. IV). Ver [[wiki/conceitos/reencarnacao]].
 5. **Distinção corpo/alma** — Mt 10:28 ("não temais os que matam o corpo e não podem matar a alma"). Ver [[wiki/conceitos/espirito]].
 6. **Prece e adoração interior** — Pai Nosso (Mt 6:9–13); crítica à ostentação (Mt 6:1–18); intenção sobre ritual (Mt 15:11). Ver [[wiki/conceitos/prece]].
@@ -184,7 +184,7 @@ Bloco central da moral cristã; núcleo doutrinário do ESE.
 - [[wiki/conceitos/parabola-das-dez-virgens]] · [[wiki/conceitos/parabola-dos-talentos]]
 - [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] · [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]]
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/humildade]]
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/transicao-planetaria]]
 
 ## Personalidades citadas

@@ -79,7 +79,7 @@ Para o estudante e o palestrante, a máxima oferece três usos:
 ## Conceitos relacionados
 
 - [[wiki/conceitos/caridade]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/humildade]]
 - [[wiki/conceitos/egoismo]]
 - [[wiki/conceitos/orgulho]]

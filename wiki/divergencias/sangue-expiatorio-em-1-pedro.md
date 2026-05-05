@@ -112,7 +112,7 @@ A leitura espírita de Kardec **converge** com essa exegese crítica em recusar 
 
 | Leitura literalista (satisfação / penal substitutiva) | Kardec |
 |---|---|
-| Pecado cria **dívida infinita** diante de Deus | Pecado cria **falta proporcional** diante da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]]; reparação proporcional sempre disponível (LE q. 1009) |
+| Pecado cria **dívida infinita** diante de Deus | Pecado cria **falta proporcional** diante da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]; reparação proporcional sempre disponível (LE q. 1009) |
 | Cristo paga a dívida por **substituição vicária** ("preço do sangue", 1Pe 1:18–19) | Cristo é **modelo, guia e auxiliar fluídico**; cada Espírito repara as próprias faltas (LE q. 636; ESE cap. XV) |
 | "Levou nossos pecados sobre o madeiro" como **transferência** das faltas | "Levou em seu corpo os nossos pecados" como **demonstração moral suprema** que rompe o ciclo do mal mostrando o caminho contrário (cf. 2:24, "para que [...] vivessem para a justiça") |
 | "O justo pelos injustos" como **substituição penal** | "O justo pelos injustos" como **disponibilidade radical** do Cristo a alcançar os Espíritos faltosos onde estão (cf. 3:18b–19, "no qual também foi e pregou aos espíritos em prisão" — ação contínua, não apaga reparação) |
@@ -146,7 +146,7 @@ A divergência é com a **literalização jurídica** que substitui o caminho pr
 
 **Aberta.** A divergência é real e estrutural com a leitura literalista da satisfação / substituição penal — leitura amplamente difundida na cristandade ocidental e que mobiliza estas passagens de 1 Pedro como ancoragem textual. É **mitigada** por dois recursos internos da própria carta: (i) a articulação imediata com 3:18b–22 e 4:6 (pregação aos desencarnados, ministério contínuo, finalidade de transformação moral); (ii) a insistência paralela em juízo pelas obras (1:17), santidade pessoal (1:14–16; 2:11), conduta no sofrimento (2:18–25; 3:8–17), prática do amor (4:8) e mordomia dos dons (4:10–11) — que **subordinam a metáfora sacrificial à exigência ética**.
 
-A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e modelo, e a eficácia espiritual de seu concurso fluídico no progresso humano (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação vicária que dispensa, em qualquer grau, a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
+A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e modelo, e a eficácia espiritual de seu concurso fluídico no progresso humano (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação vicária que dispensa, em qualquer grau, a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
 
 ### Relação com outras divergências
 
@@ -162,7 +162,7 @@ A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e 
 - [[wiki/obras/ceu-e-inferno]] — 1ª parte caps. VI–VII (penas temporárias e medicinais)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XV ("Fora da caridade não há salvação"), itens 4–10; cap. XXVII (a prece), item 14 (sacrifício do coração)
 - [[wiki/obras/obras-postumas]] — "Estudo sobre a natureza do Cristo"
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/arrependimento]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/expiacao-e-reparacao]]

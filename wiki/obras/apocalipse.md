@@ -110,7 +110,7 @@ A leitura espírita decompõe a cena em **quatro elementos alegóricos**:
 
 1. **O trono e o que assenta** (4:2–3) — descrição alegórica de Deus em sua perfeição e justiça (jaspe e sardônica = transparência e firmeza; arco celeste = aliança; esmeralda = vida). **Não é antropomorfismo literal** — Kardec é taxativo (LE q. 1, 13): Deus é "soberana inteligência, causa primária de todas as coisas", incapaz de representação visual fiel; toda imagem é **acomodação pedagógica** ao que o Espírito do médium pode receber.
 
-2. **Os 24 anciãos** (4:4) — leitura tradicional: os 12 patriarcas + os 12 apóstolos. Leitura espírita: **alegoria do conjunto dos Espíritos puros** que governam coletivamente o plano espiritual (LE q. 113); o número 24 é dobramento do 12 (plenitude do povo de Deus, Israel + Igreja). Os anciãos *"prostram-se [...] e adoram"* e *"lançam suas coroas diante do trono"* (4:10) — descrição da [[wiki/conceitos/lei-de-adoracao|adoração espontânea]] que os Espíritos elevados oferecem ao Pai (LE q. 649–673), reconhecendo que **toda autoridade é delegada**, não própria.
+2. **Os 24 anciãos** (4:4) — leitura tradicional: os 12 patriarcas + os 12 apóstolos. Leitura espírita: **alegoria do conjunto dos Espíritos puros** que governam coletivamente o plano espiritual (LE q. 113); o número 24 é dobramento do 12 (plenitude do povo de Deus, Israel + Igreja). Os anciãos *"prostram-se [...] e adoram"* e *"lançam suas coroas diante do trono"* (4:10) — descrição da [[wiki/conceitos/leis-morais/lei-de-adoracao|adoração espontânea]] que os Espíritos elevados oferecem ao Pai (LE q. 649–673), reconhecendo que **toda autoridade é delegada**, não própria.
 
 3. **Os quatro animais com seis asas** (4:6–8) — leitura tradicional: leão (Marcos), bezerro (Lucas), homem (Mateus), águia (João) — atribuição de Irineu (séc. II) que se tornou iconografia padrão. Leitura mais antiga (Ezequiel 1:10): símbolos das **quatro virtudes que sustentam a criação** — força (leão), serviço (bezerro), inteligência (homem), liberdade espiritual (águia). Leitura espírita: descrição alegórica da **estrutura moral** que Deus imprime ao universo, não criaturas literais; o cântico *"Santo, Santo, Santo"* (4:8) é eco de Isaías 6:3 e descrição da consciência cósmica do Bem.
 
@@ -122,11 +122,11 @@ Para a leitura espírita, a cena articula três pontos:
 
 1. **Cristo como mestre da humanidade terrestre.** O Cordeiro digno de abrir o livro = Jesus, "**tipo mais perfeito**" (LE q. 625), com autoridade moral plena por ter completado a missão até a cruz. Não é divinização ontológica; é **reconhecimento do progresso conquistado** pela missão (cf. paralelo paulino em Fp 2:9–11; ver [[wiki/divergencias/jesus-igual-a-deus-em-filipenses-2]]).
 2. **O sangue como metáfora moral.** *"Foste morto, e com o teu sangue nos compraste para Deus"* (5:9). A linguagem expiacionista exige releitura espírita — o "sangue" não é transação jurídica mágica, é **alegoria do exemplo moral** levado às últimas consequências (cf. [[wiki/divergencias/sangue-expiatorio-em-1-joao]]). O modelo de Jesus, perseverante até a cruz, abre o caminho da reabilitação para os que o seguem.
-3. **A liturgia universal (5:11–14).** *"Milhões de milhões, e milhares de milhares"* de anjos + *"toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar"* — convergência com a [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] universal (LE q. 649): a adoração autêntica é cósmica, não cerimonial restrita.
+3. **A liturgia universal (5:11–14).** *"Milhões de milhões, e milhares de milhares"* de anjos + *"toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar"* — convergência com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] universal (LE q. 649): a adoração autêntica é cósmica, não cerimonial restrita.
 
 Ver [[raw/biblia-acf/apocalipse/4]] · [[raw/biblia-acf/apocalipse/5]].
 
-- **Conceitos:** [[wiki/conceitos/sete-espiritos-de-deus]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/lei-de-adoracao]]
+- **Conceitos:** [[wiki/conceitos/sete-espiritos-de-deus]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 
 ### Bloco 3 — Selos, trombetas, taças (caps. 6–9, 15–16)
 
@@ -136,7 +136,7 @@ Ver [[raw/biblia-acf/apocalipse/4]] · [[raw/biblia-acf/apocalipse/5]].
 |---|---|---|
 | 1º (6:2) | Cavalo branco com arco e coroa, "saiu vitorioso" | Conquista e expansão; ambivalente — pode ser pregação do evangelho (leitura otimista) ou guerras de conquista (leitura realista) |
 | 2º (6:4) | Cavalo vermelho, tira a paz, "que se matassem uns aos outros" | **Guerras** — provas coletivas que acompanham a transição planetária (Gênese cap. XVIII) |
-| 3º (6:5–6) | Cavalo preto com balança; *"uma medida de trigo por um dinheiro"* | **Fome e desigualdade econômica** — convergência com a [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) violada |
+| 3º (6:5–6) | Cavalo preto com balança; *"uma medida de trigo por um dinheiro"* | **Fome e desigualdade econômica** — convergência com a [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) violada |
 | 4º (6:8) | Cavalo amarelo (Morte e Inferno seguindo) | **Pestes e mortandade** — provas coletivas |
 | 5º (6:9–11) | Almas dos mártires sob o altar pedindo justiça | **Comunicação dos desencarnados** que sofreram violência; *"que repousassem ainda um pouco de tempo"* — descrição direta do estado intermediário pós-morte (LE q. 150–166; C&I 2ª parte) |
 | 6º (6:12–17) | Tremor de terra; sol negro; lua como sangue; estrelas caindo | **Cataclismos cósmicos** alegóricos — leitura tradicional: dia do juízo; leitura espírita: provas terminais da transição planetária (cf. Mt 24:29; Mc 13:24–25) |
@@ -188,11 +188,11 @@ Para o estudo espírita, a leitura histórica é robusta e suficiente: as bestas
 
 **A queda de Babilônia (caps. 17–18).** Leitura tradicional unânime: Babilônia (17:5) é **Roma imperial** — a "grande cidade que reina sobre os reis da terra" (17:18) sentada sobre "**sete montes**" (17:9, descrição direta dos sete montes de Roma: Aventino, Capitolino, Célio, Esquilino, Palatino, Quirinal, Viminal). A "**prostituta**" em vestes de púrpura e escarlata (17:4) embriagada *"do sangue dos santos"* (17:6) = Roma perseguidora, no contexto domiciano (c. 95 d.C.). O lamento dos mercadores em 18:11–13 — incluindo a venda de *"corpos e almas de homens"* (18:13, escravos) — descreve com precisão o sistema econômico do Império.
 
-Para o estudo espírita, a leitura histórica é sólida; o uso atemporal é direto: Babilônia = **alegoria do Mamon coletivo** (ESE cap. XVI), do sistema econômico-político que prospera explorando os trabalhadores e perseguindo a moral espiritual. O *"sai dela, povo meu"* (18:4) é convocação à **reforma íntima** que separa o Espírito da cumplicidade com o sistema injusto — paralelo direto com Mt 6:24 ("não podeis servir a Deus e a Mamon") e com a [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824).
+Para o estudo espírita, a leitura histórica é sólida; o uso atemporal é direto: Babilônia = **alegoria do Mamon coletivo** (ESE cap. XVI), do sistema econômico-político que prospera explorando os trabalhadores e perseguindo a moral espiritual. O *"sai dela, povo meu"* (18:4) é convocação à **reforma íntima** que separa o Espírito da cumplicidade com o sistema injusto — paralelo direto com Mt 6:24 ("não podeis servir a Deus e a Mamon") e com a [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824).
 
 **Os 144 mil sobre o Sião e as três bem-aventuranças intermediárias (cap. 14).** Cap. 14 traz três bem-aventuranças que merecem registro:
 
-1. **"Bem-aventurados os mortos que desde agora morrem no Senhor [...] para que descansem dos seus trabalhos, e as suas obras os seguem"** (14:13). Convergência **direta** com a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]]: o Espírito leva consigo o que fez na encarnação. Não há transação vicária — *"as suas obras os seguem"* é descrição compacta do princípio kardequiano de que cada Espírito é **responsável e portador** dos seus atos (LE q. 636–640; ESE cap. XV).
+1. **"Bem-aventurados os mortos que desde agora morrem no Senhor [...] para que descansem dos seus trabalhos, e as suas obras os seguem"** (14:13). Convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]: o Espírito leva consigo o que fez na encarnação. Não há transação vicária — *"as suas obras os seguem"* é descrição compacta do princípio kardequiano de que cada Espírito é **responsável e portador** dos seus atos (LE q. 636–640; ESE cap. XV).
 
 2. **"Aqui está a paciência dos santos; aqui estão os que guardam os mandamentos de Deus e a fé em Jesus"** (14:12). Síntese do programa do [[wiki/conceitos/homem-de-bem|homem de bem]] (ESE cap. XVII): paciência + observância da lei moral + fé em Jesus como modelo.
 
@@ -202,7 +202,7 @@ Mas o mesmo cap. 14 contém uma das passagens mais difíceis para a leitura esp�
 
 Ver [[raw/biblia-acf/apocalipse/12]] · [[raw/biblia-acf/apocalipse/13]] · [[raw/biblia-acf/apocalipse/14]] · [[raw/biblia-acf/apocalipse/17]] · [[raw/biblia-acf/apocalipse/18]].
 
-- **Conceitos:** [[wiki/conceitos/demonios]] · [[wiki/conceitos/origem-do-mal]] · [[wiki/conceitos/lei-de-causa-e-efeito]] · [[wiki/conceitos/geracao-nova]]
+- **Conceitos:** [[wiki/conceitos/demonios]] · [[wiki/conceitos/origem-do-mal]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/geracao-nova]]
 
 ### Bloco 5 — Cavaleiro, milênio, segunda morte (caps. 19–20)
 
@@ -210,7 +210,7 @@ Ver [[raw/biblia-acf/apocalipse/12]] · [[raw/biblia-acf/apocalipse/13]] · [[ra
 
 > "E vi o céu aberto, e eis um cavalo branco; e o que estava assentado sobre ele chama-se Fiel e Verdadeiro; e julga e peleja com justiça. [...] E estava vestido de veste tingida em sangue; e o nome pelo qual se chama é A Palavra de Deus. [...] E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores." (Ap 19:11–16)
 
-Convergência espírita: descrição alegórica da **soberania moral de Jesus** consumada na transição planetária — Cristo como modelo último, *"a Palavra de Deus"* (cf. Jo 1:1) tornada referência ética universal. Não é divinização ontológica — é **autoridade moral plena** reconhecida pela humanidade regenerada (LE q. 625; ESE Introdução). A "espada que sai da boca" (19:15) retoma a imagem de 1:16 — **palavra moral**, não arma física. O detalhe importantíssimo da humildade espírita aparece já em 19:10: João prostra-se aos pés do anjo, e este o impede — *"olha, não faças tal; sou teu conservo, e de teus irmãos [...]. Adora a Deus"*. Convergência total com a [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] interior (LE q. 649–663): nem mesmo os Espíritos elevados aceitam adoração — toda adoração é devida a Deus.
+Convergência espírita: descrição alegórica da **soberania moral de Jesus** consumada na transição planetária — Cristo como modelo último, *"a Palavra de Deus"* (cf. Jo 1:1) tornada referência ética universal. Não é divinização ontológica — é **autoridade moral plena** reconhecida pela humanidade regenerada (LE q. 625; ESE Introdução). A "espada que sai da boca" (19:15) retoma a imagem de 1:16 — **palavra moral**, não arma física. O detalhe importantíssimo da humildade espírita aparece já em 19:10: João prostra-se aos pés do anjo, e este o impede — *"olha, não faças tal; sou teu conservo, e de teus irmãos [...]. Adora a Deus"*. Convergência total com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] interior (LE q. 649–663): nem mesmo os Espíritos elevados aceitam adoração — toda adoração é devida a Deus.
 
 **O milênio e a segunda morte (cap. 20).** Capítulo de divergência doutrinária máxima:
 
@@ -232,7 +232,7 @@ Quatro problemas doutrinários agudos para a leitura espírita:
 
 Ver [[raw/biblia-acf/apocalipse/19]] · [[raw/biblia-acf/apocalipse/20]].
 
-- **Conceitos:** [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/inferno]] · [[wiki/conceitos/morte-espiritual]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- **Conceitos:** [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/inferno]] · [[wiki/conceitos/morte-espiritual]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ### Bloco 6 — Novo céu, nova terra, nova Jerusalém (caps. 21–22:5)
 
@@ -256,7 +256,7 @@ A imagem da **árvore da vida** (22:2) — *"que produz doze frutos, dando seu f
 
 Ver [[raw/biblia-acf/apocalipse/21]] · [[raw/biblia-acf/apocalipse/22]].
 
-- **Conceitos:** [[wiki/conceitos/nova-jerusalem]] · [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/lei-do-progresso]]
+- **Conceitos:** [[wiki/conceitos/nova-jerusalem]] · [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 
 ### Bloco 7 — Encerramento e advertência (cap. 22:6–21)
 
@@ -264,7 +264,7 @@ Ver [[raw/biblia-acf/apocalipse/21]] · [[raw/biblia-acf/apocalipse/22]].
 
 **"Eu, Jesus, enviei o meu anjo" (22:16).** Confirmação direta da estrutura mediúnica do livro: Jesus → anjo → médium (João) → comunidades. Eco direto do prólogo (1:1). Para o Espiritismo, é descrição compacta do **modus operandi** da Codificação: o Cristo **não fala diretamente** ao médium humano — atua **através** de Espíritos elevados intermediários, preservando a estrutura hierárquica da revelação. Convergência total com os Prolegômenos do ESE.
 
-**A ceia das bodas e o convite final (22:17).** *"E o Espírito e a esposa dizem: Vem. E quem ouve, diga: Vem. E quem tem sede, venha; e quem quiser, tome de graça da água da vida."* O convite final é **universal e gratuito** ("de graça") — qualquer pode vir, basta querer. Convergência com Jo 7:37 ("se alguém tem sede, venha a mim, e beba"); com a [[wiki/conceitos/lei-do-progresso|Lei do Progresso]] como direito de todo Espírito (LE q. 1019); e com a recusa kardequiana de qualquer predestinação ou eleição arbitrária.
+**A ceia das bodas e o convite final (22:17).** *"E o Espírito e a esposa dizem: Vem. E quem ouve, diga: Vem. E quem tem sede, venha; e quem quiser, tome de graça da água da vida."* O convite final é **universal e gratuito** ("de graça") — qualquer pode vir, basta querer. Convergência com Jo 7:37 ("se alguém tem sede, venha a mim, e beba"); com a [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]] como direito de todo Espírito (LE q. 1019); e com a recusa kardequiana de qualquer predestinação ou eleição arbitrária.
 
 **A advertência de 22:18–19.** Versículos historicamente armados contra o Espiritismo:
 
@@ -300,7 +300,7 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 
 8. **Novo céu, nova terra, nova Jerusalém** (21:1–22:5) — passagem-fonte profética da transição planetária, citada explicitamente por Kardec em Gênese cap. XVIII. A "nova Jerusalém" é alegoria da humanidade regenerada, não cidade física. Universalidade do progresso ("folhas para a saúde das nações", 22:2; "as nações dos salvos andarão à sua luz", 21:24). Ver [[wiki/conceitos/nova-jerusalem]].
 
-9. **Recompensa segundo as obras** (14:13; 20:12; 22:12) — convergência **direta** com a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]]. *"As suas obras os seguem"* (14:13) é descrição compacta da responsabilidade individual portada pelo Espírito desencarnado.
+9. **Recompensa segundo as obras** (14:13; 20:12; 22:12) — convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]. *"As suas obras os seguem"* (14:13) é descrição compacta da responsabilidade individual portada pelo Espírito desencarnado.
 
 10. **A advertência de 22:18–19** — versículo historicamente usado contra o Espiritismo. Resposta: refere-se ao próprio livro do Apocalipse (cânon não estava fechado em c. 95 d.C.); a Promessa do Consolador (Jo 14:16; 16:13) é parte do mesmo cânon e prevê revelação continuada; o Espiritismo não subtrai nem acrescenta — comenta, interpreta, completa moralmente (ESE Introdução).
 
@@ -316,7 +316,7 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 | Ap 2–3 — diagnósticos morais das sete igrejas | ESE caps. XVII–XIX (homem de bem; fé viva); LE q. 919 (vontade firme) |
 | Ap 3:20 — "estou à porta, e bato" | LE q. 459–471, q. 538–540 (assistência sem coação); ESE Introdução (Cristo como guia que respeita o livre-arbítrio) |
 | Ap 4:8 — "Santo, Santo, Santo" | LE q. 1, 13 (atributos divinos); Is 6:3 |
-| Ap 4:10–11 — anciãos lançam coroas e adoram | **LE q. 649–673** ([[wiki/conceitos/lei-de-adoracao|Lei de Adoração]]) |
+| Ap 4:10–11 — anciãos lançam coroas e adoram | **LE q. 649–673** ([[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]]) |
 | Ap 5:6 — Cordeiro com sete pontas e sete olhos | LE q. 625 (Jesus modelo); LE q. 538 (assistência universal dos Espíritos) |
 | Ap 5:9 — "com o teu sangue nos compraste" | **Divergência** com leitura expiacionista; ver [[wiki/divergencias/sangue-expiatorio-em-1-joao]] (mesma família) |
 | Ap 6:1–8 — quatro cavaleiros (provas coletivas) | Mt 24:6–8; Mc 13:7–8; Lc 21:9–11; Gênese cap. XVII (predições do Evangelho) |
@@ -328,8 +328,8 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 | Ap 13:1–18 — Bestas e 666 | ESE cap. XVI (Mamon); historicamente: Nero Caesar (gematria); alegoricamente: imperfeição triplicada |
 | Ap 14:10–11 — "atormentado com fogo e enxofre [...] para todo o sempre" | **Divergência** com C&I 1ª parte caps. VI–IX; LE q. 1009; ver [[wiki/divergencias/penas-eternas-em-apocalipse]] |
 | Ap 14:12 — paciência dos santos; mandamentos + fé em Jesus | ESE cap. XVII (homem de bem); LE q. 919 (vontade firme) |
-| Ap 14:13 — "as suas obras os seguem" | **LE q. 636–640** ([[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]]); ESE cap. XV |
-| Ap 17–18 — Babilônia | ESE cap. XVI ("não se pode servir a Deus e a Mamon"); LE q. 803–824 ([[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]]) |
+| Ap 14:13 — "as suas obras os seguem" | **LE q. 636–640** ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]); ESE cap. XV |
+| Ap 17–18 — Babilônia | ESE cap. XVI ("não se pode servir a Deus e a Mamon"); LE q. 803–824 ([[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]]) |
 | Ap 19:10 — "o testemunho de Jesus é o espírito de profecia" | ESE Prolegômenos (Espírito de Verdade); Jo 14:16–17, 26; 16:13; ver [[wiki/conceitos/tres-revelacoes]] |
 | Ap 19:10b — "olha, não faças tal; sou teu conservo" | **LE q. 649–673** (adoração devida só a Deus); rejeição da intermediação ritualística |
 | Ap 19:11–16 — cavaleiro Fiel e Verdadeiro, "Rei dos reis" | LE q. 625 (Jesus tipo mais perfeito); leitura **alegórica** da soberania moral, não divinização ontológica |
@@ -338,7 +338,7 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 | Ap 20:12 — "julgados [...] segundo as suas obras" | LE q. 636–640 (lei de causa e efeito); ESE cap. XV |
 | Ap 21:1–5 — novo céu e nova terra; "Deus limpará toda lágrima" | **Gênese cap. XVIII** (citação direta); ESE cap. III; **LE q. 1019**; ver [[wiki/conceitos/transicao-planetaria]] e [[wiki/conceitos/nova-jerusalem]] |
 | Ap 21:22–23 — sem templo; sem sol nem lua | LE q. 649–673 (adoração interior, não cerimonial); fim da intermediação ritualística |
-| Ap 22:2 — folhas da árvore "para a saúde das nações" | **LE q. 1015–1019** (universalismo do progresso); [[wiki/conceitos/lei-do-progresso]] |
+| Ap 22:2 — folhas da árvore "para a saúde das nações" | **LE q. 1015–1019** (universalismo do progresso); [[wiki/conceitos/leis-morais/lei-do-progresso]] |
 | Ap 22:12 — "o meu galardão está comigo, para dar a cada um segundo a sua obra" | LE q. 636–640 (lei de causa e efeito); ESE cap. XV |
 | Ap 22:16 — "Eu, Jesus, enviei o meu anjo" | LE Prolegômenos; ESE Prolegômenos (estrutura da revelação por Espíritos intermediários) |
 | Ap 22:17 — "quem quiser, tome de graça da água da vida" | LE q. 1019 (universalidade do progresso); recusa de eleição arbitrária |
@@ -352,9 +352,9 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 - [[wiki/conceitos/escala-espirita]] — Ap 4:4 (24 anciãos); 7:9 (multidão de todas as nações)
 - [[wiki/conceitos/discernimento-dos-espiritos]] — Ap 2:2 (provar os que se dizem apóstolos)
 - [[wiki/conceitos/tres-revelacoes]] — Ap 19:10 (testemunho de Jesus = espírito de profecia)
-- [[wiki/conceitos/lei-de-adoracao]] — Ap 4:10; 19:10 (adoração devida só a Deus)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — Ap 14:13; 20:12; 22:12 (recompensa segundo as obras)
-- [[wiki/conceitos/lei-do-progresso]] — Ap 21:5 ("faço novas todas as coisas"); 22:2 (universalidade)
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — Ap 4:10; 19:10 (adoração devida só a Deus)
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — Ap 14:13; 20:12; 22:12 (recompensa segundo as obras)
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — Ap 21:5 ("faço novas todas as coisas"); 22:2 (universalidade)
 - [[wiki/conceitos/morte-espiritual]] — Ap 20:14; 21:8 (segunda morte como alegoria)
 - [[wiki/conceitos/inferno]] — Ap 19:20; 20:10, 14–15; 21:8 (lago de fogo)
 - [[wiki/conceitos/penas-e-gozos-futuros]] — Ap 14:10–11; 20:10 (tormento eterno como divergência)

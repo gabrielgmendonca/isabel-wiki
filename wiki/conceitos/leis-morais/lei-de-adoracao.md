@@ -1,4 +1,5 @@
 ---
+title: "Lei de adoração"
 tipo: conceito
 fontes: [LE, ESE]
 tags: [adoracao, prece, culto, lei-moral, paulo, filipenses, gratidao, obra/le, obra/ese, lei/adoracao, autor/kardec, autor/paulo, grau/intermediario, tema/prece-caridade]
@@ -79,8 +80,8 @@ Para o estudo espírita:
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/deus]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]]
-- [[wiki/conceitos/fe]] · [[wiki/conceitos/humildade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/deus]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais]]
+- [[wiki/conceitos/fe]] · [[wiki/conceitos/humildade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/contentamento]] — articulação direta com gratidão como disciplina (Fp 4:6–13)
 - [[wiki/obras/epistola-aos-filipenses]] — Fp 4:6 (ação de graças); Fp 4:8 (disciplina mental que prepara a adoração)
 - ESE, cap. XXVII (Pedi e obtereis) · cap. XXVIII (Coletânea de preces espíritas)

@@ -123,7 +123,7 @@ A leitura espírita de Kardec **converge** com essa exegese crítica em recusar 
 
 | Leitura literalista (satisfação / penal substitutiva) | Kardec |
 |---|---|
-| Pecado cria **dívida infinita** diante de Deus | Pecado cria **falta proporcional** diante da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]]; reparação proporcional sempre disponível (LE q. 1009) |
+| Pecado cria **dívida infinita** diante de Deus | Pecado cria **falta proporcional** diante da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]; reparação proporcional sempre disponível (LE q. 1009) |
 | Cristo paga a dívida por **substituição vicária** ("o sangue purifica todo o pecado") | Cristo é **modelo, guia e auxiliar fluídico**; cada Espírito repara as próprias faltas (LE q. 636; ESE cap. XV) |
 | Apropriação da salvação por **fé confessional** que recebe o mérito alheio | "Salvação" se opera pelo **arrependimento + propósito + reparação efetiva** (LE q. 1003–1009) |
 | "Justificação" é evento jurídico instantâneo | Reabilitação moral é **processo gradual indefinido** (LE q. 1015) |
@@ -144,7 +144,7 @@ A divergência é com a **literalização jurídica** que substitui o caminho pr
 
 **Aberta.** A divergência é real e estrutural com a leitura literalista da satisfação / substituição penal — leitura amplamente difundida na cristandade ocidental e que mobiliza estas passagens de 1 João como ancoragem textual. É **mitigada** quando se lê 1 João dentro do seu próprio horizonte ético-comunitário e das exegeses críticas modernas, que reconhecem o caráter cultual-metafórico da linguagem sacrificial joanina.
 
-A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e modelo, e a eficácia espiritual de seu concurso fluídico no progresso humano (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação vicária que dispensa, em qualquer grau, a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
+A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e modelo, e a eficácia espiritual de seu concurso fluídico no progresso humano (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação vicária que dispensa, em qualquer grau, a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
 
 ### Relação com outras divergências
 
@@ -159,7 +159,7 @@ A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e 
 - [[wiki/obras/ceu-e-inferno]] — 1ª parte caps. VI–VII (penas temporárias e medicinais)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XV ("Fora da caridade não há salvação"), itens 4–10; cap. XXVII (a prece), item 14 (sacrifício do coração)
 - [[wiki/obras/obras-postumas]] — "Estudo sobre a natureza do Cristo"
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/arrependimento]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/expiacao-e-reparacao]]

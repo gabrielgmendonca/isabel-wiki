@@ -73,7 +73,7 @@ O autoconhecimento, na dimensão transpessoal, conduz à **conquista do self** �
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — bloco doutrinário em que LE q. 919 está inserida (q. 873–919)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — bloco doutrinário em que LE q. 919 está inserida (q. 873–919)
 - [[wiki/conceitos/psicologia-transpessoal]] — vocabulário contemporâneo do mesmo programa
 - [[wiki/personalidades/joanna-de-angelis]] — autora da síntese moderna
 - [[wiki/obras/o-ser-consciente]] — tratamento sistemático em chave psicológica

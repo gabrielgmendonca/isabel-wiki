@@ -128,7 +128,7 @@ A obra fecha pela tese central da série: "a vida que, em toda parte, continua s
 
 - [[wiki/conceitos/perispirito]] — corpo espiritual modelador (cap. 2, analogia do cavalo)
 - [[wiki/conceitos/reencarnacao]] — reencarnação programada como restituição (cap. 22)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — caso paradigmático: réu reencarna como pai/protetor da vítima
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — caso paradigmático: réu reencarna como pai/protetor da vítima
 - [[wiki/conceitos/obsessao]] — caso Desidério/Elisa, obsessão simbiótica de longa duração
 - [[wiki/conceitos/suicidio]] — discussão preliminar de Ernesto (cap. 3); revelação posterior de que o caso de Túlio era homicídio
 

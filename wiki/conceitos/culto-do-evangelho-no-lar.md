@@ -63,7 +63,7 @@ O caso **Joãozinho** (cap. 36) tipifica o limite do culto: a presença de um me
 ## Páginas relacionadas
 
 - [[wiki/conceitos/prece]] — fundamento doutrinário: prece como comunicação da alma com Deus
-- [[wiki/conceitos/lei-de-adoracao]] — culto íntimo como verdadeira adoração
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — culto íntimo como verdadeira adoração
 - [[wiki/conceitos/obsessao]] — defesa magnética do ambiente articula-se ao combate ao foco obsessivo
 - [[wiki/conceitos/emancipacao-da-alma]] — sono físico no lar disciplinado abre a porta de intercâmbio
 - [[wiki/sinteses/lar-como-fortaleza]] — articulação entre culto, prece coletiva e sono físico

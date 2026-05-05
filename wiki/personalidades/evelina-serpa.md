@@ -35,7 +35,7 @@ Ao final (cap. 26), liberada de qualquer compromisso afetivo por Caio (que casou
 - [[wiki/personalidades/ribas]] — Instrutor da estância
 - [[wiki/personalidades/andre-luiz]] — autor espiritual
 - [[wiki/personalidades/chico-xavier]] — médium
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-de-causa-e-efeito]] · [[wiki/conceitos/perispirito]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/perispirito]]
 
 ## Fontes
 

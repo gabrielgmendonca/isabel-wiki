@@ -16,7 +16,13 @@ export const sharedPageComponents: SharedLayout = {
 // Componentes para páginas de conteúdo individuais
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({
+      rootName: "Início",
+      spacerSymbol: "›",
+      resolveFrontmatterTitle: true,
+      hideOnRoot: true,
+      showCurrentPage: true,
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -38,7 +44,13 @@ export const defaultContentPageLayout: PageLayout = {
 // Componentes para páginas de listagem (tags, pastas)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.Breadcrumbs({
+      rootName: "Início",
+      spacerSymbol: "›",
+      resolveFrontmatterTitle: true,
+      hideOnRoot: true,
+      showCurrentPage: true,
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],

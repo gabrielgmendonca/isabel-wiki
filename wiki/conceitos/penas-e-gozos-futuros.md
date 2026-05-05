@@ -74,7 +74,7 @@ O [[wiki/obras/apocalipse|Apocalipse]] joanino traz três vocabulários paralelo
 
 1. **"Lago de fogo e enxofre"** (Ap 19:20; 20:10, 14–15; 21:8) e **"a fumaça do seu tormento sobe para todo o sempre"** (14:11) — vocabulário de **pena perpétua** que serviu de matriz às doutrinas das penas eternas. Refutação sistemática em C&I 1ª parte caps. VI–VII. Ver [[wiki/divergencias/penas-eternas-em-apocalipse]].
 2. **"Segunda morte"** (Ap 2:11; 20:6, 14; 21:8) — alegoria da [[wiki/conceitos/morte-espiritual|morte espiritual]] prolongada (atrofia moral grave, **reversível** pela reforma), não condenação irreversível.
-3. **"Recompensa segundo as obras"** (Ap 14:13 — *"as suas obras os seguem"*; 20:12 — *"foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras"*; 22:12 — *"o meu galardão está comigo, para dar a cada um segundo a sua obra"*) — convergência **direta** com o princípio da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e com o "código penal da vida futura" de C&I 1ª parte cap. VII. Lida em chave kardequiana, **a passagem mais ortodoxa do Apocalipse** quanto ao critério de julgamento.
+3. **"Recompensa segundo as obras"** (Ap 14:13 — *"as suas obras os seguem"*; 20:12 — *"foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras"*; 22:12 — *"o meu galardão está comigo, para dar a cada um segundo a sua obra"*) — convergência **direta** com o princípio da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e com o "código penal da vida futura" de C&I 1ª parte cap. VII. Lida em chave kardequiana, **a passagem mais ortodoxa do Apocalipse** quanto ao critério de julgamento.
 
 A leitura espírita extrai do conjunto: sofrimento real e proporcional aos atos, autoinfligido pela persistência no mal, **temporário** e interrompível pela reforma — coerente com C&I e com LE q. 1009.
 
@@ -89,7 +89,7 @@ Este conjunto de ensinos é central para a consolação espírita: a certeza de 
 - [[wiki/conceitos/reencarnacao]] — mecanismo de progresso e expiação
 - [[wiki/conceitos/progresso-espiritual]] — finalidade última
 - [[wiki/conceitos/suicidio]] — caso particular de sofrimento pós-morte
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — fundamento da sanção moral
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — fundamento da sanção moral
 - [[wiki/conceitos/penas-eternas]] — refutação detalhada (C&I)
 - [[wiki/conceitos/codigo-penal-da-vida-futura]] — 33 princípios (C&I)
 - [[wiki/conceitos/expiacao-e-reparacao]] — tríade do progresso moral (C&I)

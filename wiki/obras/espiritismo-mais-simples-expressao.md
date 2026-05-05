@@ -87,7 +87,7 @@ A obra põe a caridade no centro. O item 60 do resumo arremata:
 
 > *"Com a verdadeira caridade, tal como ele [o Cristo] a ensinou e praticou, não haverá mais egoísmo, nem orgulho, nem ódio, nem ciúme, nem maledicência; não haverá mais, igualmente, apego desvairado aos bens deste mundo. Eis por que o Espiritismo cristão tem por máxima: FORA DA CARIDADE NÃO HÁ SALVAÇÃO."*
 
-A tipologia da caridade é tripartite (item 56): *"Caridoso por pensamentos é aquele que tem indulgência para as faltas do seu próximo; caridoso por palavras o que nada diz que possa prejudicar ao seu próximo; caridoso por obras o que, na medida de suas forças, assiste o seu próximo."* Ver [[wiki/conceitos/caridade]] e [[wiki/conceitos/lei-de-justica-amor-e-caridade]].
+A tipologia da caridade é tripartite (item 56): *"Caridoso por pensamentos é aquele que tem indulgência para as faltas do seu próximo; caridoso por palavras o que nada diz que possa prejudicar ao seu próximo; caridoso por obras o que, na medida de suas forças, assiste o seu próximo."* Ver [[wiki/conceitos/caridade]] e [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]].
 
 ## Caráter religioso
 
@@ -128,8 +128,8 @@ Esta obra **não é o Pentateuco** e não introduz tese nova. É um *resumo miss
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/pluralidade-das-existencias]] · [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
 - [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/origem-do-mal]]
 - [[wiki/conceitos/provas-e-expiacoes]] · [[wiki/conceitos/penas-e-gozos-futuros]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/egoismo]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/egoismo]]
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/fe-raciocinada]] · [[wiki/conceitos/materialismo]]
 - [[wiki/conceitos/verdadeiro-espirita]]
 

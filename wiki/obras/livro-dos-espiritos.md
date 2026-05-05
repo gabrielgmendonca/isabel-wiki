@@ -99,16 +99,16 @@ A lei natural e suas dez divisões, culminando na perfeição moral.
 | Cap. | Título | Questões | Página wiki |
 |------|--------|----------|-------------|
 | I    | Da lei divina ou natural | 614–648 | [[wiki/conceitos/lei-natural]] |
-| II   | 1. Lei de adoração | 649–673 | [[wiki/conceitos/lei-de-adoracao]] |
-| III  | 2. Lei do trabalho | 674–685 | [[wiki/conceitos/lei-do-trabalho]] |
-| IV   | 3. Lei de reprodução | 686–701 | [[wiki/conceitos/lei-de-reproducao]] |
-| V   | 4. Lei de conservação | 702–727 | [[wiki/conceitos/lei-de-conservacao]] |
-| VI   | 5. Lei de destruição | 728–765 | [[wiki/conceitos/lei-de-destruicao]] |
-| VII  | 6. Lei de sociedade | 766–775 | [[wiki/conceitos/lei-de-sociedade]] |
-| VIII | 7. Lei do progresso | 776–802 | [[wiki/conceitos/lei-do-progresso]] |
-| IX   | 8. Lei de igualdade | 803–824 | [[wiki/conceitos/lei-de-igualdade]] |
-| X    | 9. Lei de liberdade | 825–872 | [[wiki/conceitos/lei-de-liberdade]] |
-| XI   | 10. Lei de justiça, de amor e de caridade | 873–892 | [[wiki/conceitos/lei-de-justica-amor-e-caridade]] |
+| II   | 1. Lei de adoração | 649–673 | [[wiki/conceitos/leis-morais/lei-de-adoracao]] |
+| III  | 2. Lei do trabalho | 674–685 | [[wiki/conceitos/leis-morais/lei-do-trabalho]] |
+| IV   | 3. Lei de reprodução | 686–701 | [[wiki/conceitos/leis-morais/lei-de-reproducao]] |
+| V   | 4. Lei de conservação | 702–727 | [[wiki/conceitos/leis-morais/lei-de-conservacao]] |
+| VI   | 5. Lei de destruição | 728–765 | [[wiki/conceitos/leis-morais/lei-de-destruicao]] |
+| VII  | 6. Lei de sociedade | 766–775 | [[wiki/conceitos/leis-morais/lei-de-sociedade]] |
+| VIII | 7. Lei do progresso | 776–802 | [[wiki/conceitos/leis-morais/lei-do-progresso]] |
+| IX   | 8. Lei de igualdade | 803–824 | [[wiki/conceitos/leis-morais/lei-de-igualdade]] |
+| X    | 9. Lei de liberdade | 825–872 | [[wiki/conceitos/leis-morais/lei-de-liberdade]] |
+| XI   | 10. Lei de justiça, de amor e de caridade | 873–892 | [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] |
 | XII  | Da perfeição moral | 893–919 | [[wiki/conceitos/perfeicao-moral]] |
 
 **Destaques:**

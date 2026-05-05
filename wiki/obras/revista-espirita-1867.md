@@ -199,7 +199,7 @@ A passagem ganha caráter de **presságio** quando lida pós-31/03/1869 (morte d
 - **Reencarnação e expiação:**
   - [[wiki/conceitos/reencarnacao]] (Eugénie Colombe, Tom o Cego — fev/1867; Franklin — dez/1867)
   - [[wiki/conceitos/provas-e-expiacoes]] (jovem François — mai/1867)
-  - [[wiki/conceitos/lei-de-causa-e-efeito]] (Lincoln/Booth — mar/1867)
+  - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] (Lincoln/Booth — mar/1867)
 - **Moral e prática:**
   - [[wiki/conceitos/livre-arbitrio]] ("Livre pensamento e livre consciência", fev/1867)
   - [[wiki/conceitos/caridade]] (carta do arcebispo de Argel, mar/1867)

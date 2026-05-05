@@ -71,7 +71,7 @@ Aplicar a bem-aventurança é, diante da ofensa, recusar tanto a reação imedia
 
 - [[wiki/conceitos/bem-aventurancas]] — síntese e índice das oito bem-aventuranças
 - [[wiki/conceitos/bem-aventuranca-dos-brandos]] · [[wiki/conceitos/bem-aventuranca-dos-pacificadores]] — virtudes irmãs
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-causa-e-efeito]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/obsessao]] · [[wiki/conceitos/prece]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. X
 - [[wiki/obras/evangelho-segundo-mateus]] — Mt 5:7, 23–26; 6:12–15; 18:21–35; S. João 8:3–11

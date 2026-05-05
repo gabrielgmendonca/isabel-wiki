@@ -70,16 +70,16 @@ A Lei Natural kardequiana é, lida pela chave de Hb 8:10, **a nova aliança leva
 
 Kardec divide a lei natural em **dez leis morais** (Parte 3, Caps. II–XI), mais a culminação em perfeição moral (Cap. XII):
 
-1. [[wiki/conceitos/lei-de-adoracao]]
-2. [[wiki/conceitos/lei-do-trabalho]]
-3. [[wiki/conceitos/lei-de-reproducao]]
-4. [[wiki/conceitos/lei-de-conservacao]]
-5. [[wiki/conceitos/lei-de-destruicao]]
-6. [[wiki/conceitos/lei-de-sociedade]]
-7. [[wiki/conceitos/lei-do-progresso]]
-8. [[wiki/conceitos/lei-de-igualdade]]
-9. [[wiki/conceitos/lei-de-liberdade]]
-10. [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+1. [[wiki/conceitos/leis-morais/lei-de-adoracao]]
+2. [[wiki/conceitos/leis-morais/lei-do-trabalho]]
+3. [[wiki/conceitos/leis-morais/lei-de-reproducao]]
+4. [[wiki/conceitos/leis-morais/lei-de-conservacao]]
+5. [[wiki/conceitos/leis-morais/lei-de-destruicao]]
+6. [[wiki/conceitos/leis-morais/lei-de-sociedade]]
+7. [[wiki/conceitos/leis-morais/lei-do-progresso]]
+8. [[wiki/conceitos/leis-morais/lei-de-igualdade]]
+9. [[wiki/conceitos/leis-morais/lei-de-liberdade]]
+10. [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - Culminação: [[wiki/conceitos/perfeicao-moral]]
 
 ## Páginas relacionadas

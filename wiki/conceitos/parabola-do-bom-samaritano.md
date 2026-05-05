@@ -36,7 +36,7 @@ A parábola interpela diretamente a conduta cotidiana. Não basta frequentar cen
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] · [[wiki/obras/evangelho-segundo-lucas]]
 
 ## Fontes

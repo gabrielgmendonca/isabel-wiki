@@ -42,7 +42,7 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - "Não tenho prata nem ouro; mas o que tenho isso te dou. Em nome de Jesus Cristo, o Nazareno, levanta-te e anda" (At 3:6).
 - "Reconheço por verdade que Deus não faz acepção de pessoas; mas que lhe é agradável aquele que, em qualquer nação, o teme e faz o que é justo" (At 10:34–35).
 - "Convém obedecer mais a Deus do que aos homens" (At 5:29).
-- "**E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor**, durante o tempo da vossa peregrinação" (1Pe 1:17) — fórmula epistolar paralela a At 10:34, expressão apostólica da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]].
+- "**E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor**, durante o tempo da vossa peregrinação" (1Pe 1:17) — fórmula epistolar paralela a At 10:34, expressão apostólica da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]].
 - "Apascentai o rebanho de Deus, que está entre vós, tendo cuidado dele, **não por força, mas voluntariamente; nem por torpe ganância, mas de ânimo pronto**; nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho" (1Pe 5:2–3) — crítica direta à mercantilização e ao autoritarismo do ministério.
 
 ## Páginas relacionadas
@@ -53,7 +53,7 @@ Em [[wiki/obras/atos-dos-apostolos|Atos]] (caps. 1–12): articula a escolha de 
 - [[wiki/personalidades/jesus]]
 - [[wiki/personalidades/paulo-de-tarso]]
 - [[wiki/personalidades/tiago-irmao-do-senhor]] — coluna ao lado de Pedro em Jerusalém (Gl 2:9)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — "Deus não faz acepção de pessoas"
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — "Deus não faz acepção de pessoas"
 - [[wiki/conceitos/mediunidade]] — repertório fenomenológico petrino
 
 ## Fontes

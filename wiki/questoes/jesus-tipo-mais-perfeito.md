@@ -75,8 +75,8 @@ Para o estudante e o palestrante, a q. 625 oferece um critério operativo. Diant
 ## Conceitos relacionados
 
 - [[wiki/personalidades/jesus]]
-- [[wiki/conceitos/lei-moral]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/caridade]]
 - [[wiki/sinteses/hierarquia-de-autoridade]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]

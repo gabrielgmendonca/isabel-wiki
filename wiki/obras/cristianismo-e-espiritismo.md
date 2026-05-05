@@ -157,7 +157,7 @@ Denis usa a analogia do sol sobre as águas: "Basta-lhe que se esforce para deix
 - [[wiki/conceitos/mediunidade]] — dom de profecia, relações com os Espíritos dos mortos
 - [[wiki/conceitos/perispirito]] — corpo fluídico de Jesus nas aparições pós-morte
 - [[wiki/conceitos/progresso-espiritual]] — renovação moral pelo Espiritismo
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — responsabilidade pessoal vs. redenção vicária
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — responsabilidade pessoal vs. redenção vicária
 - [[wiki/conceitos/penas-eternas]] — refutação pelas leis divinas e pela tradição de Orígenes
 - [[wiki/conceitos/bem-aventurancas]] — "puros de coração verão a Deus"
 - [[wiki/conceitos/fe-raciocinada]] — razão como meio de descobrir a verdade

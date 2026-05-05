@@ -65,7 +65,7 @@ Tiago **descontamina** simultaneamente duas leituras populares incompatíveis co
 1. **"Deus me submete a esta tentação para me provar"** — leitura herdada de uma certa exegese do "não nos deixes cair em tentação" do Pai-Nosso e de passagens do AT como a prova de Abraão (Gn 22). Tiago a recusa em termos absolutos: "Deus a ninguém tenta". A prova existe (cf. ESE cap. V; LE q. 258, 851), mas é **provida pelo próprio Espírito antes de encarnar** (livre-arbítrio na escolha das provas) ou **emerge das circunstâncias da vida** — não é estímulo arbitrário do Pai querendo testar a criatura.
 2. **"O Diabo me tentou"** — leitura herdada da demonologia popular, em que uma entidade externa malévola carrega a responsabilidade pelas quedas morais. Tiago a recusa pela raiz: "cada um é tentado, quando atraído e engodado pela sua própria concupiscência". A tentação **brota de dentro**, da imperfeição ainda não dominada do próprio ser. Pode haver, sim, ação obsessiva de Espíritos inferiores que se aproveitam dessa concupiscência (cf. LM cap. XXIII), mas **a iniciativa é interna**: sem inclinação imperfeita prévia, não há porta para a obsessão (cf. [[wiki/conceitos/obsessao]]).
 
-A descrição do ciclo concupiscência → pecado → morte (1:14–15) é **psicologia moral**, não dogmática. É exatamente o ciclo que Kardec sistematizará em [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] aplicada à vida moral: o desejo não dominado gera ato, e o ato gera consequência espiritual. Convergência total com LE q. 621 ("a lei está escrita na consciência") e com a doutrina da [[wiki/conceitos/origem-do-mal|origem do mal]] como ausência do bem (Gênese cap. III) — não há substância maligna autônoma, há **estágios imperfeitos do livre-arbítrio**.
+A descrição do ciclo concupiscência → pecado → morte (1:14–15) é **psicologia moral**, não dogmática. É exatamente o ciclo que Kardec sistematizará em [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] aplicada à vida moral: o desejo não dominado gera ato, e o ato gera consequência espiritual. Convergência total com LE q. 621 ("a lei está escrita na consciência") e com a doutrina da [[wiki/conceitos/origem-do-mal|origem do mal]] como ausência do bem (Gênese cap. III) — não há substância maligna autônoma, há **estágios imperfeitos do livre-arbítrio**.
 
 Para o estudo espírita, Tg 1:13–15 é texto-base ao tratar com pessoas em sofrimento moral que projetam responsabilidade no exterior ("o demônio me induziu", "Deus me prova com isto"). O preceito kardequiano é exatamente o de Tiago: **a porta do mal abre por dentro**.
 
@@ -99,7 +99,7 @@ Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/obras/o-problema-do-ser-e-do-de
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-liberdade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/potencias-da-alma]]
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/potencias-da-alma]]
 - [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]] — proteção dos Espíritos discreta para preservar o livre-arbítrio (LE, q. 501).
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — sintonia voluntária com Espíritos inferiores, sempre rompível pela vontade firme (LE, q. 549–550).
 

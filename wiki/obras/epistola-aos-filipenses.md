@@ -43,9 +43,9 @@ Para o estudo espírita, Filipenses é precioso por **seis razões**:
 
 4. **"Operai a vossa salvação com temor e tremor; porque Deus é o que opera em vós tanto o querer como o efetuar" (Fp 2:12–13)** — paradoxo capital entre **iniciativa humana** (operar a salvação) e **assistência divina** (Deus operando o querer e o efetuar). Para o Espiritismo, articulação direta de [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843–872) + assistência espiritual (LE q. 459–471, q. 538–540). Não há predestinação automática nem salvação por graça incondicional: a salvação é **trabalho** ("operai") feito **com auxílio** que opera no íntimo. Formulação paulina compacta do que ESE cap. XVII chama de "esforços do homem para se melhorar" e do que LE q. 919 sintetiza como "vontade firme".
 
-5. **"Esquecendo-me das coisas que atrás ficam, e avançando para as que estão diante de mim, prossigo para o alvo" (Fp 3:13–14)** — fórmula compacta da [[wiki/conceitos/lei-do-progresso|Lei do Progresso]] (LE q. 776–800) e da reforma íntima como caminhada. Paulo recusa explicitamente a perfeição como estado já alcançado: "Não que já a tenha alcançado, ou que seja perfeito; mas prossigo" (3:12). Para o estudante espírita, é formulação paulina do que ESE cap. XVII descreve como esforço cotidiano do homem de bem.
+5. **"Esquecendo-me das coisas que atrás ficam, e avançando para as que estão diante de mim, prossigo para o alvo" (Fp 3:13–14)** — fórmula compacta da [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]] (LE q. 776–800) e da reforma íntima como caminhada. Paulo recusa explicitamente a perfeição como estado já alcançado: "Não que já a tenha alcançado, ou que seja perfeito; mas prossigo" (3:12). Para o estudante espírita, é formulação paulina do que ESE cap. XVII descreve como esforço cotidiano do homem de bem.
 
-6. **"Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus" (Fp 4:6–7)** — fórmula da prece tranquilizadora. Articulação direta com ESE caps. XXVII–XXVIII (eficácia da prece como sintonia com Espíritos protetores) e com [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663 — gratidão como disciplina). A "ação de graças" é, no vocabulário espírita, **adoração ativa**: orar não é apenas pedir, é **agradecer e confiar**.
+6. **"Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus" (Fp 4:6–7)** — fórmula da prece tranquilizadora. Articulação direta com ESE caps. XXVII–XXVIII (eficácia da prece como sintonia com Espíritos protetores) e com [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663 — gratidão como disciplina). A "ação de graças" é, no vocabulário espírita, **adoração ativa**: orar não é apenas pedir, é **agradecer e confiar**.
 
 Passagens-chave citadas ou aproveitadas pelo estudo espírita: **Fp 1:21** (viver é Cristo, morrer é ganho); **Fp 2:3–11** (humildade prática + hino da kenose); **Fp 2:12–13** (operar a salvação com temor e tremor); **Fp 3:7–14** (perda das vantagens humanas pela "excelência do conhecimento de Cristo Jesus"; corrida ao alvo); **Fp 3:20** ("a nossa cidade está nos céus"); **Fp 4:4–9** (regozijai-vos sempre; prece tranquilizadora; disciplina mental); **Fp 4:11–13** (contentamento aprendido). Três blocos exigem registro de divergência ou recuperação cuidadosa: o **hino cristológico** (2:6–11, leitura calcedoniana × Espírito puro de LE q. 625); a sentença "**cujo fim é a perdição**" sobre os "inimigos da cruz" (3:18–19, eco de Hb 6:4–6); e a articulação "**Deus opera em vós o querer**" (2:13, eco da cadeia predestinacionista de Rm 8–9 e Ef 1).
 
@@ -125,7 +125,7 @@ A consequência é a meta da corrida (3:13–14):
 
 > "Irmãos, quanto a mim, não julgo que o haja alcançado; mas uma coisa faço, e é que, esquecendo-me das coisas que atrás ficam, e avançando para as que estão diante de mim, prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus." (Fp 3:13–14)
 
-É a fórmula paulina mais compacta da [[wiki/conceitos/lei-do-progresso|Lei do Progresso]] (LE q. 776–800) e da reforma íntima como caminhada. Paulo recusa explicitamente a perfeição como estado já alcançado: "Não que já a tenha alcançado, ou que seja perfeito; mas prossigo para alcançar aquilo para o que fui também preso por Cristo Jesus" (3:12). A perfeição é **alvo** (gr. *skopos*), não estado adquirido — coerente com ESE cap. XVII ("Sede perfeitos") como **meta progressiva**, não condição imediatamente realizável. A imagem da corrida é gêmea de 1 Co 9:24–27 e ressoa em 2 Tm 4:7 ("combati o bom combate, acabei a carreira, guardei a fé").
+É a fórmula paulina mais compacta da [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]] (LE q. 776–800) e da reforma íntima como caminhada. Paulo recusa explicitamente a perfeição como estado já alcançado: "Não que já a tenha alcançado, ou que seja perfeito; mas prossigo para alcançar aquilo para o que fui também preso por Cristo Jesus" (3:12). A perfeição é **alvo** (gr. *skopos*), não estado adquirido — coerente com ESE cap. XVII ("Sede perfeitos") como **meta progressiva**, não condição imediatamente realizável. A imagem da corrida é gêmea de 1 Co 9:24–27 e ressoa em 2 Tm 4:7 ("combati o bom combate, acabei a carreira, guardei a fé").
 
 A última parte do capítulo (3:17–21) opõe **dois caminhos**:
 
@@ -144,7 +144,7 @@ A passagem articula três pontos doutrinários:
 3. **"A nossa cidade está nos céus" (3:20).** Formulação paulina compacta da prioridade do plano espiritual — eco direto da [[wiki/conceitos/vida-espirita|vida espírita]] como verdadeira condição da alma (LE q. 84–85; C&I 1ª parte cap. III). A "cidade celeste" não é fuga do mundo — é **lar de origem e destino do Espírito**, que está encarnado provisoriamente para progresso. A "transformação do corpo abatido em corpo glorioso" (3:21) é eco direto de 1 Co 15:42–49 (corpo animal × corpo espiritual) e formulação neotestamentária do [[wiki/conceitos/perispirito|perispírito]] (Gênese cap. XIV).
 
 Ver [[raw/biblia-acf/filipenses/3]].
-- **Conceitos:** [[wiki/conceitos/lei-do-progresso]], [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/vida-espirita]], [[wiki/conceitos/perispirito]]
+- **Conceitos:** [[wiki/conceitos/leis-morais/lei-do-progresso]], [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/vida-espirita]], [[wiki/conceitos/perispirito]]
 
 ### Preceitos práticos; contentamento aprendido; saudações da casa de César (cap. 4)
 
@@ -166,7 +166,7 @@ Quatro pontos doutrinários:
 
 3. **"Perto está o Senhor"** (4:5). Sentença ambígua — pode significar (a) **iminência da Parusia** (volta de Cristo, leitura escatológica), (b) **proximidade espiritual** (Deus é próximo de todos os que o invocam, eco do Sl 145:18; cf. ESE cap. XXVII, item 1), ou (c) **proximidade temporal do auxílio**. A leitura espírita prefere (b) e (c): a "proximidade do Senhor" descreve a sintonia mediúnica positiva — os Espíritos protetores **estão presentes** quando o orante se eleva (LE q. 538; LM 2ª parte cap. XX).
 
-4. **Prece tranquilizadora** (4:6–7). "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações". Articulação direta com ESE caps. XXVII–XXVIII (eficácia da prece) e com LE q. 660–663. A **ação de graças** (gr. *eucharistia*) é gratidão como disciplina ([[wiki/conceitos/lei-de-adoracao]]); a "paz que excede todo o entendimento" é descrição direta do que André Luiz desenvolve em *Missionários da Luz* sobre a prece como vibração energética que "traz socorro" (cap. 6) — efeito real da sintonia mediúnica positiva.
+4. **Prece tranquilizadora** (4:6–7). "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações". Articulação direta com ESE caps. XXVII–XXVIII (eficácia da prece) e com LE q. 660–663. A **ação de graças** (gr. *eucharistia*) é gratidão como disciplina ([[wiki/conceitos/leis-morais/lei-de-adoracao]]); a "paz que excede todo o entendimento" é descrição direta do que André Luiz desenvolve em *Missionários da Luz* sobre a prece como vibração energética que "traz socorro" (cap. 6) — efeito real da sintonia mediúnica positiva.
 
 Em 4:8 vem a **disciplina mental**:
 
@@ -187,7 +187,7 @@ A carta encerra com saudações finais (4:21–23). O detalhe surpreendente:
 Há cristãos **dentro da própria casa imperial** em c. 60–62 d.C. — funcionários, escravos domésticos, talvez algum membro da família ampliada de Nero. Sinal direto da penetração silenciosa do evangelho mesmo no centro do poder romano, anos antes da perseguição neroniana de 64.
 
 Ver [[raw/biblia-acf/filipenses/4]].
-- **Conceitos:** [[wiki/conceitos/contentamento]], [[wiki/conceitos/prece]], [[wiki/conceitos/lei-de-adoracao]], [[wiki/conceitos/obsessao]]
+- **Conceitos:** [[wiki/conceitos/contentamento]], [[wiki/conceitos/prece]], [[wiki/conceitos/leis-morais/lei-de-adoracao]], [[wiki/conceitos/obsessao]]
 
 ## Temas centrais para o estudo espírita
 
@@ -198,7 +198,7 @@ Ver [[raw/biblia-acf/filipenses/4]].
 5. **"Esquecendo-me das coisas que atrás ficam, e avançando para as que estão diante de mim"** (Fp 3:13–14): fórmula compacta da Lei do Progresso (LE q. 776–800). Recusa explícita da perfeição como estado já alcançado (3:12). Eco de 1 Co 9:24–27 e 2 Tm 4:7 (a corrida espiritual).
 6. **"A nossa cidade está nos céus"** (Fp 3:20): formulação paulina compacta da prioridade da vida espírita (LE q. 84–85; C&I 1ª parte cap. III). A "transformação do corpo abatido em corpo glorioso" (3:21) é eco neotestamentário do perispírito (Gênese cap. XIV).
 7. **"Regozijai-vos sempre no Senhor"** (Fp 4:4): alegria como disciplina conquistada, não estado natural. Serenidade ativa que resulta da confiança em Deus (LE q. 916; ESE cap. V).
-8. **Prece tranquilizadora — paz que excede o entendimento** (Fp 4:6–7): articulação direta com ESE caps. XXVII–XXVIII e LE q. 660–663. "Ação de graças" é gratidão como disciplina ([[wiki/conceitos/lei-de-adoracao|Lei de Adoração]]); a "paz que excede o entendimento" é efeito da sintonia mediúnica positiva (André Luiz, *Missionários da Luz*, cap. 6).
+8. **Prece tranquilizadora — paz que excede o entendimento** (Fp 4:6–7): articulação direta com ESE caps. XXVII–XXVIII e LE q. 660–663. "Ação de graças" é gratidão como disciplina ([[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]]); a "paz que excede o entendimento" é efeito da sintonia mediúnica positiva (André Luiz, *Missionários da Luz*, cap. 6).
 9. **Disciplina mental: "nisso pensai"** (Fp 4:8): controle do pensamento como prevenção de obsessão (LM 2ª parte cap. XXIII) e sintonia com Espíritos elevados (LM 2ª parte cap. XX). Formulação paulina compacta da higiene mental que André Luiz desenvolve em *Mecanismos da Mediunidade* e *Sexo e Destino*.
 10. **Contentamento aprendido — "posso todas as coisas em Cristo que me fortalece"** (Fp 4:11–13): conquista moral, não estoicismo apático. Confiança no auxílio do modelo Cristo articulada à liderança dos Espíritos protetores (LE q. 538–540; LE q. 625). Distinção crucial: o contentamento espírita é virtude ativa, não resignação passiva.
 
@@ -237,12 +237,12 @@ Ver [[raw/biblia-acf/filipenses/4]].
 - [[wiki/conceitos/kenose-de-cristo]] — Fp 2:5–11 (passagem-síntese)
 - [[wiki/conceitos/alma]] — Fp 1:21–24 (viver é Cristo, morrer é ganho)
 - [[wiki/conceitos/livre-arbitrio]] — Fp 2:12–13 (operar a salvação)
-- [[wiki/conceitos/lei-do-progresso]] — Fp 3:12–14 (esquecendo as coisas que atrás ficam)
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — Fp 3:12–14 (esquecendo as coisas que atrás ficam)
 - [[wiki/conceitos/perfeicao-moral]] — Fp 3:12 (não que já a tenha alcançado)
 - [[wiki/conceitos/vida-espirita]] — Fp 3:20 (a nossa cidade está nos céus)
 - [[wiki/conceitos/perispirito]] — Fp 3:21 (corpo glorioso)
 - [[wiki/conceitos/prece]] — Fp 4:6–7 (prece tranquilizadora)
-- [[wiki/conceitos/lei-de-adoracao]] — Fp 4:6 (ação de graças); Fp 4:8 (disciplina mental)
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — Fp 4:6 (ação de graças); Fp 4:8 (disciplina mental)
 - [[wiki/conceitos/contentamento]] — Fp 4:11–13 (contentamento aprendido)
 - [[wiki/conceitos/obsessao]] — Fp 4:8 (controle do pensamento como prevenção)
 - [[wiki/conceitos/fe-raciocinada]] — Fp 1:9–10 (amor que cresce em ciência e conhecimento)

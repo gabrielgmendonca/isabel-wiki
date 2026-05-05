@@ -1,4 +1,5 @@
 ---
+title: "Lei do progresso"
 tipo: conceito
 fontes: [LE]
 tags: [progresso, civilizacao, humanidade, estado-de-natureza, lei-moral, paulo, filipenses, obra/le, lei/progresso, autor/kardec, autor/paulo, grau/intermediario, tema/moral]
@@ -82,7 +83,7 @@ A Lei do Progresso fundamenta uma postura de **paciência ativa** diante da hist
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/obras/epistola-aos-filipenses]] — Fp 3:12–14 (formulação paulina compacta)
 
 ## Fontes

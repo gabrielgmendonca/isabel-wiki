@@ -19,7 +19,7 @@ direitos:
 - **Datação provável:** entre 90 e 100 d.C., posterior ao Quarto Evangelho (que pressupõe). Período em que comunidades cristãs já enfrentavam dissidências internas significativas — sobretudo formas pré-gnósticas e docetistas que **negavam a real encarnação do Cristo** ("Jesus Cristo veio em carne", 1 Jo 4:2; cf. 2 Jo 7).
 - **Destinatário:** comunidade(s) joanina(s), provavelmente da Ásia Menor (Éfeso e arredores), em situação de dissensão recente — "saíram de nós, mas não eram de nós" (1 Jo 2:19). Não há saudação inicial ou despedida nominal: a carta tem feição de **homilia circular** ou tratado pastoral.
 - **Título:** Primeira Epístola Universal de S. João (Bíblia ACF — Almeida Corrigida e Fiel). "Universal" é o modo tradicional de referir-se às **epístolas católicas** (ou gerais) do NT — endereçadas a comunidades amplas, não a uma cidade específica.
-- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado por Kardec sobretudo pelo eixo do **discernimento dos Espíritos** (1 Jo 4:1, em ESE cap. XXI, item 9; LM 2ª parte cap. XXIV) e pela formulação "Deus é amor" (1 Jo 4:8, 16), que se harmoniza com a [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
+- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado por Kardec sobretudo pelo eixo do **discernimento dos Espíritos** (1 Jo 4:1, em ESE cap. XXI, item 9; LM 2ª parte cap. XXIV) e pela formulação "Deus é amor" (1 Jo 4:8, 16), que se harmoniza com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
 - **Capítulos:** 5
 - **Texto integral:** [[raw/biblia-acf/1-joao/1]]
 
@@ -95,7 +95,7 @@ Três aproveitamentos espíritas:
 
 **"Não como Caim, que era do maligno"** (3:11–12). Eco do ódio fratricida. Caim é exemplo paradigmático do ciclo cobiça → inveja → violência (cf. Tg 1:14–15) — psicologia do mal **dentro do próprio Espírito**, não interferência externa. Convergência com [[wiki/conceitos/origem-do-mal]] (Gênese cap. III) e com a tese de que "Deus a ninguém tenta" (Tg 1:13).
 
-**"Quem odeia a seu irmão é homicida" (3:15)**. "Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele." É a **versão joanina** da radicalização moral do Sermão da Montanha (Mt 5:21–22 — "qualquer que se encolerizar contra seu irmão sem motivo será réu de juízo"): o ódio é raiz do homicídio, e os dois são moralmente do mesmo nível. Para o estudo espírita, é a base escritural do tratamento kardequiano dos **pensamentos como atos morais** (LE q. 459 — sobre transmissão e responsabilidade do pensamento; ESE cap. XII — "amar os inimigos"). Ver [[wiki/conceitos/lei-de-destruicao]] (LE q. 728–765, sobre o assassinato em todas as suas formas).
+**"Quem odeia a seu irmão é homicida" (3:15)**. "Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele." É a **versão joanina** da radicalização moral do Sermão da Montanha (Mt 5:21–22 — "qualquer que se encolerizar contra seu irmão sem motivo será réu de juízo"): o ódio é raiz do homicídio, e os dois são moralmente do mesmo nível. Para o estudo espírita, é a base escritural do tratamento kardequiano dos **pensamentos como atos morais** (LE q. 459 — sobre transmissão e responsabilidade do pensamento; ESE cap. XII — "amar os inimigos"). Ver [[wiki/conceitos/leis-morais/lei-de-destruicao]] (LE q. 728–765, sobre o assassinato em todas as suas formas).
 
 **Conhecemos o amor pelo exemplo do Cristo** (3:16). "Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos." A leitura espírita acolhe: o sacrifício de Jesus é **modelo moral** de doação de si pelos irmãos. Não é, para Kardec, expiação vicária mágica (ver [[wiki/divergencias/sangue-expiatorio-em-1-joao]]). É exemplo de caridade levada às últimas consequências — convergência com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIII ("dar do próprio") e cap. XV ("fora da caridade não há salvação"). E o desdobramento prático é imediato: "nós devemos dar a vida pelos irmãos" — a caridade autêntica chega à doação total, na medida do necessário.
 
@@ -107,7 +107,7 @@ Passagem **convergente direta com Tiago 2:14–17** ("se o irmão ou a irmã est
 
 **Prece confiante e mandamento do amor** (3:23–24). "E o seu mandamento é este: que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, segundo o seu mandamento. E aquele que guarda os seus mandamentos nele está, e ele nele. E nisto conhecemos que ele está em nós, pelo Espírito que nos tem dado." A síntese joanina dos mandamentos é dupla: **fé no Cristo + amor ao próximo** — exatamente a "lei real" de Tg 2:8 (amor) ancorada na fé que Tg 2:14–26 descreve como necessariamente ativa.
 
-- **Conceitos:** [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/origem-do-mal]] · [[wiki/conceitos/lei-de-destruicao]]
+- **Conceitos:** [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/origem-do-mal]] · [[wiki/conceitos/leis-morais/lei-de-destruicao]]
 
 ### Cap. 4 — Provai os espíritos; Deus é amor
 
@@ -135,7 +135,7 @@ A fórmula é **a definição mais sintética da teologia joanina**. Em chave es
 
 1. **Deus é amor** — não "Deus tem amor" ou "Deus ama". O amor não é atributo entre outros; é a **substância** do agir divino. Convergência com LE q. 13 (Deus como soberana bondade) e q. 1 ("Deus é a soberana inteligência, causa primária de todas as coisas") em sua dimensão moral.
 2. **O amor é prova do conhecimento de Deus** — "qualquer que ama é nascido de Deus e conhece a Deus" (4:7). Ama-se e por aí se conhece; ou não se ama, e o "conhecimento" verbal é vácuo. Convergência total com Mt 25:31–46 (o juízo das nações), Lc 10:25–37 (bom samaritano), Tg 2:14–26 (fé sem obras é morta).
-3. **"Quem está em amor está em Deus"** — é a fórmula joanina da comunhão com Deus por via moral, dispensando intermediários ritualísticos. Convergência com a [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] kardequiana (LE q. 649–673), que é interior, não cerimonial.
+3. **"Quem está em amor está em Deus"** — é a fórmula joanina da comunhão com Deus por via moral, dispensando intermediários ritualísticos. Convergência com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] kardequiana (LE q. 649–673), que é interior, não cerimonial.
 4. **"No amor não há temor [...] o perfeito amor lança fora o temor" (4:18)**. Passagem programática contra o temor servil de Deus — leitura espírita acolhe integralmente. O Deus de Kardec é Pai bondoso, não juiz vingativo (LE q. 11–13; C&I 1ª parte caps. III–IV). O orante maduro **ama**, não teme. O temor pertence à fase rudimentar da religiosidade humana e cede lugar ao amor consciente à medida que o Espírito progride.
 5. **"Ninguém jamais viu a Deus; se nos amamos uns aos outros, Deus está em nós" (4:12)**. Convergência com Tg 1:27 ("religião pura": viúvas e órfãos): a manifestação visível de Deus se dá pela caridade entre os irmãos. Não há "ver" Deus diretamente; vê-se sua ação **através do amor humano**.
 
@@ -145,7 +145,7 @@ A fórmula é **a definição mais sintética da teologia joanina**. Em chave es
 
 A passagem é **a versão apostólica direta** do que o ESE cap. XV chama "fora da caridade não há salvação". É **psicologia moral em estado puro**: o amor visível ao irmão é teste falsificável; o amor invisível a Deus, sozinho, não tem como ser verificado — e portanto não tem como ser verdadeiro sem o primeiro.
 
-- **Conceitos:** [[wiki/conceitos/discernimento-dos-espiritos]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-de-adoracao]]
+- **Conceitos:** [[wiki/conceitos/discernimento-dos-espiritos]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 
 ### Cap. 5 — Fé que vence o mundo; vida eterna
 
@@ -163,14 +163,14 @@ Passagem importantíssima para a doutrina espírita da prece. **Pedir "segundo a
 
 **"O mundo está no maligno" (5:19)**. "Sabemos que somos de Deus, e que todo o mundo está no maligno." Passagem que demanda leitura espírita atenta. Não é dualismo metafísico (mundo = território do diabo); em vocabulário kardequiano, descreve **o estágio atual** da Terra como [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] (LE q. 234), onde a maioria da humanidade ainda vive sob o domínio das paixões inferiores. Convergência com Gênese cap. XVIII (sobre a [[wiki/conceitos/transicao-planetaria|transição planetária]]) e com OPE (sobre o estado moral atual da humanidade terrestre). O "maligno", aqui, é descrição **coletiva e moral**, não entidade ontológica.
 
-**"Filhinhos, guardai-vos dos ídolos" (5:21)**. Encerramento abrupto, na chave da tradição profética judaica. A leitura espírita acolhe o sentido amplo: ídolos são **tudo o que substitui Deus na vida do Espírito** — o dinheiro, o poder, o orgulho, mas também as devoções religiosas que se tornam fim em si mesmas. Convergência com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVI e com a [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] (LE q. 649–673), que recusa toda materialização e toda intermediação ritualística do divino.
+**"Filhinhos, guardai-vos dos ídolos" (5:21)**. Encerramento abrupto, na chave da tradição profética judaica. A leitura espírita acolhe o sentido amplo: ídolos são **tudo o que substitui Deus na vida do Espírito** — o dinheiro, o poder, o orgulho, mas também as devoções religiosas que se tornam fim em si mesmas. Convergência com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVI e com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 649–673), que recusa toda materialização e toda intermediação ritualística do divino.
 
-- **Conceitos:** [[wiki/conceitos/fe-raciocinada]] · [[wiki/conceitos/prece]] · [[wiki/conceitos/morte-espiritual]] · [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/lei-de-adoracao]]
+- **Conceitos:** [[wiki/conceitos/fe-raciocinada]] · [[wiki/conceitos/prece]] · [[wiki/conceitos/morte-espiritual]] · [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 
 ## Divergências
 
 > [!warning] Divergência com Kardec
-> A linguagem expiacionista de 1 Jo 1:7; 2:2; 4:10 ("o sangue de Jesus Cristo nos purifica de todo o pecado"; "ele é a propiciação pelos nossos pecados") contradiz, em leitura literalista, a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] — ninguém paga pelos pecados de outro (LE q. 1009; ESE cap. XV).
+> A linguagem expiacionista de 1 Jo 1:7; 2:2; 4:10 ("o sangue de Jesus Cristo nos purifica de todo o pecado"; "ele é a propiciação pelos nossos pecados") contradiz, em leitura literalista, a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] — ninguém paga pelos pecados de outro (LE q. 1009; ESE cap. XV).
 > Ver [[wiki/divergencias/sangue-expiatorio-em-1-joao]].
 
 ## Notas interpretativas
@@ -187,7 +187,7 @@ Três passagens da carta usam vocabulário **claramente expiacionista**:
 
 A leitura literalista, sustentada pela teologia clássica da satisfação (Anselmo, séc. XI) e por suas reformulações reformadas (justificação penal substitutiva), entende: o sangue de Cristo paga a dívida do pecador diante de Deus. Para o Espiritismo, esta leitura **contradiz princípios estruturais** da codificação:
 
-- A [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] estabelece que cada Espírito é **pessoalmente responsável** pelas suas ações (LE q. 636–640; ESE cap. XV, item 10). Ninguém paga pelos pecados de outro.
+- A [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] estabelece que cada Espírito é **pessoalmente responsável** pelas suas ações (LE q. 636–640; ESE cap. XV, item 10). Ninguém paga pelos pecados de outro.
 - Em LE q. 1009: "Nenhuma falta é irremissível. As de maior gravidade podem-no mediante expiações **mais dolorosas e mais prolongadas**, porém a misericórdia divina é infinita." A reabilitação se opera por **reparação e reforma íntima**, não por substituição vicária.
 - Em ESE cap. XV, Kardec é explícito: "A salvação está em cada um de nós, no nosso esforço pessoal de reforma; o Cristo é exemplo, modelo, mas não substituto."
 
@@ -234,15 +234,15 @@ Não há contradição doutrinária com Kardec — há **reorientação do horiz
 | 1 Jo 3:4–6 | Pecado é iniquidade | LE q. 621–630 (lei moral na consciência); ESE cap. XV |
 | 1 Jo 3:7–10 | Filhos de Deus / filhos do diabo | LE q. 100–113 ([[wiki/conceitos/escala-espirita]]); LE q. 131 (rejeição do diabo ontológico); C&I 2ª parte cap. VII |
 | 1 Jo 3:11–12 | Caim como exemplo do ódio fratricida | Tg 1:13–15; Gênese cap. III ([[wiki/conceitos/origem-do-mal]]) |
-| 1 Jo 3:15 | Quem odeia o irmão é homicida | Mt 5:21–22 (Sermão da Montanha); LE q. 459 (transmissão do pensamento); LE q. 728–765 ([[wiki/conceitos/lei-de-destruicao]]); ESE cap. XII |
+| 1 Jo 3:15 | Quem odeia o irmão é homicida | Mt 5:21–22 (Sermão da Montanha); LE q. 459 (transmissão do pensamento); LE q. 728–765 ([[wiki/conceitos/leis-morais/lei-de-destruicao]]); ESE cap. XII |
 | 1 Jo 3:16 | Cristo deu a vida pelos irmãos | ESE cap. XIII; [[wiki/divergencias/sangue-expiatorio-em-1-joao]] |
 | 1 Jo 3:17–18 | Amar por obra, não por palavra | Tg 2:14–17; ESE cap. XIII, itens 4, 7; [[wiki/conceitos/caridade]] |
 | 1 Jo 3:19–22 | "Maior é Deus do que o nosso coração" | LE q. 919, q. 621 (consciência); C&I 1ª parte cap. III (juízo divino) |
 | 1 Jo 4:1–6 | Provai os espíritos; Espírito da verdade vs do erro | LM 2ª parte cap. XXIV; ESE cap. XXI; [[wiki/conceitos/discernimento-dos-espiritos]]; 1 Co 12:10; 14:29, 32–33 |
 | 1 Jo 4:6 | Espírito de Verdade | Jo 14:16–17, 26; 16:13; ESE Prolegômenos; [[wiki/personalidades/espiritos-reveladores]]; [[wiki/conceitos/tres-revelacoes]] |
-| 1 Jo 4:7–8, 16 | "Deus é amor" | LE q. 13 (soberana bondade); ESE cap. XI; cap. XV; [[wiki/conceitos/lei-de-justica-amor-e-caridade]] |
+| 1 Jo 4:7–8, 16 | "Deus é amor" | LE q. 13 (soberana bondade); ESE cap. XI; cap. XV; [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] |
 | 1 Jo 4:10 | "Propiciação pelos pecados" | [[wiki/divergencias/sangue-expiatorio-em-1-joao]] |
-| 1 Jo 4:12 | "Se nos amamos uns aos outros, Deus está em nós" | Tg 1:27; ESE cap. XV; [[wiki/conceitos/lei-de-adoracao]] |
+| 1 Jo 4:12 | "Se nos amamos uns aos outros, Deus está em nós" | Tg 1:27; ESE cap. XV; [[wiki/conceitos/leis-morais/lei-de-adoracao]] |
 | 1 Jo 4:18 | "No amor não há temor" | LE q. 11–13; C&I 1ª parte caps. III–IV (rejeição do Deus-juiz vingativo) |
 | 1 Jo 4:19–21 | "Quem ama a Deus, ame também a seu irmão" | Mt 22:39; Mt 25:31–46; ESE cap. XV; Tg 2:14–17 |
 | 1 Jo 5:3 | "Os mandamentos não são pesados" | Mt 11:30; Tg 1:25; 2:12; LE q. 614–635 ([[wiki/conceitos/lei-natural]]) |
@@ -250,7 +250,7 @@ Não há contradição doutrinária com Kardec — há **reorientação do horiz
 | 1 Jo 5:14–15 | Prece "segundo a vontade de Deus" | ESE cap. XXVII, itens 7, 18; [[wiki/conceitos/prece]] |
 | 1 Jo 5:16–17 | Prece pelo irmão pecador | ESE cap. XXVII, item 18; LE q. 1009–1010; [[wiki/conceitos/morte-espiritual]] |
 | 1 Jo 5:19 | "Todo o mundo está no maligno" | LE q. 234 ([[wiki/conceitos/mundos-de-expiacao-e-provas]]); Gênese cap. XVIII ([[wiki/conceitos/transicao-planetaria]]) |
-| 1 Jo 5:21 | "Guardai-vos dos ídolos" | ESE cap. XVI; LE q. 649–673 ([[wiki/conceitos/lei-de-adoracao]]) |
+| 1 Jo 5:21 | "Guardai-vos dos ídolos" | ESE cap. XVI; LE q. 649–673 ([[wiki/conceitos/leis-morais/lei-de-adoracao]]) |
 
 ## Personalidades citadas
 
@@ -262,15 +262,15 @@ Não há contradição doutrinária com Kardec — há **reorientação do horiz
 
 - [[wiki/conceitos/discernimento-dos-espiritos]] — 1 Jo 4:1 como base escritural matriz.
 - [[wiki/conceitos/caridade]] — 1 Jo 3:17–18 (amar por obra); 1 Jo 4:7–21 ("Deus é amor").
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — convergência total com o eixo do amor.
-- [[wiki/conceitos/lei-de-adoracao]] — 1 Jo 4:12, 5:21 (adoração interior; recusa de ídolos).
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — convergência total com o eixo do amor.
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — 1 Jo 4:12, 5:21 (adoração interior; recusa de ídolos).
 - [[wiki/conceitos/fe-raciocinada]] — 1 Jo 2:20, 27 (unção do Santo).
 - [[wiki/conceitos/progresso-espiritual]] — 1 Jo 3:1–3 ("ainda não é manifestado o que havemos de ser").
 - [[wiki/conceitos/prece]] — 1 Jo 5:14–17.
 - [[wiki/conceitos/morte-espiritual]] — 1 Jo 5:16–17 ("pecado para morte").
 - [[wiki/conceitos/transicao-planetaria]] — 1 Jo 2:18; 5:19 (escatologia reorientada).
 - [[wiki/conceitos/origem-do-mal]] — 1 Jo 3:11–12 (Caim).
-- [[wiki/conceitos/lei-de-destruicao]] — 1 Jo 3:15 (ódio = homicídio).
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — 1 Jo 3:15 (ódio = homicídio).
 - [[wiki/conceitos/tres-revelacoes]] — 1 Jo 4:6 (Espírito de Verdade).
 - [[wiki/divergencias/sangue-expiatorio-em-1-joao]] — leitura espírita das passagens expiacionistas.
 - [[wiki/personalidades/joao-apostolo]] — autor.

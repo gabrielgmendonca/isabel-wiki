@@ -22,8 +22,8 @@ Os três comentários articulam-se a três blocos diferentes do LE, o que dá ao
 
 | Comentário | Eixo | Bloco do LE | Lei moral |
 |---|---|---|---|
-| 1 | Excesso íntimo | q. 713 (Cap. V) | [[wiki/conceitos/lei-de-conservacao]] |
-| 2 | Dureza social | q. 762 (Cap. VI) | [[wiki/conceitos/lei-de-destruicao]] |
+| 1 | Excesso íntimo | q. 713 (Cap. V) | [[wiki/conceitos/leis-morais/lei-de-conservacao]] |
+| 2 | Dureza social | q. 762 (Cap. VI) | [[wiki/conceitos/leis-morais/lei-de-destruicao]] |
 | 3 | Paixão como raiz | q. 908 (Cap. XII) | [[wiki/conceitos/perfeicao-moral]] |
 
 A leitura de Hammed pressupõe a tese central de Kardec sobre as paixões: elas "são alavancas que decuplicam as forças do homem e o auxiliam na execução dos desígnios da Providência" — só se tornam mal "quando, em vez de as dirigir, deixa que elas o dirijam" (LE, q. 908, comentário). O que Hammed acrescenta é o diagnóstico psicológico do **mecanismo** pelo qual a paixão escapa ao governo: o excesso, a compensação, a imobilização mental.
@@ -54,7 +54,7 @@ Três movimentos kardecistas convergem aqui:
 
 **1. Erros como contingência evolutiva.** "Os erros são quase que inevitáveis para quem quer avançar e crescer. São acidentes de percurso, contingências do processo evolutivo que todos estamos destinados a vivenciar" (Hammed, *As Dores da Alma*, "Rigidez", 2º comentário). Quem age erroneamente "é porque não sabe como fazer melhor" — formulação compatível com LE q. 631 (distinguir bem e mal) e q. 636 (relatividade do bem e do mal segundo o estágio evolutivo).
 
-**2. Só o amor renova.** "A dor apenas terá função dentro dos imperativos da vida, enquanto os homens não aceitarem que somente o amor muda e renova as criaturas." Castigar por castigar não transforma; só o amor "é capaz de sublimar e educar as almas". Convergência direta com ESE cap. XV — "Fora da caridade não há salvação" — e com [[wiki/conceitos/lei-de-justica-amor-e-caridade]].
+**2. Só o amor renova.** "A dor apenas terá função dentro dos imperativos da vida, enquanto os homens não aceitarem que somente o amor muda e renova as criaturas." Castigar por castigar não transforma; só o amor "é capaz de sublimar e educar as almas". Convergência direta com ESE cap. XV — "Fora da caridade não há salvação" — e com [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]].
 
 **3. A Providência não condena.** "Deus não condena ou castiga ninguém, mas o oposto: instituiu leis harmoniosas e justas que nos conduzirão fatalmente à felicidade plena, apesar de nossas faltas e desacertos." Se a fonte teológica não condena, a austeridade humana que condena se revela desproporcional à sua própria base — argumento ecoado por LE q. 1006 ("Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal") e por C&I 1ª parte, cap. VII (relatividade do bem e do mal).
 
@@ -192,9 +192,9 @@ A pergunta-síntese de Kardec, do autoexame da Conclusão do LE, vale como fecho
 - [[wiki/conceitos/orgulho]] — dor da alma cuja cristalização produz a rigidez
 - [[wiki/conceitos/humildade]] — virtude oposta à rigidez orgulhosa
 - [[wiki/conceitos/livre-arbitrio]] — fundamento do "governar a paixão" (q. 908)
-- [[wiki/conceitos/lei-de-conservacao]] — limite do necessário (q. 713)
-- [[wiki/conceitos/lei-de-destruicao]] — pena de morte e progresso moral (q. 762)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — "só o amor renova" (ESE cap. XV)
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]] — limite do necessário (q. 713)
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — pena de morte e progresso moral (q. 762)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — "só o amor renova" (ESE cap. XV)
 - [[wiki/conceitos/caridade]] — antídoto estrutural à dureza social
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — distinção entre expiação consciente e autopunição compulsiva
 

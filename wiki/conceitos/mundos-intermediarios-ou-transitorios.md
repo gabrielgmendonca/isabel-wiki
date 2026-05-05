@@ -86,7 +86,7 @@ Não há.
 - [[wiki/conceitos/erraticidade]] — estado dos Espíritos que estacionam nesses mundos.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — princípio geral.
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/conceitos/mundos-regeneradores]] — categorias paralelas (escala moral).
-- [[wiki/conceitos/lei-do-progresso]] — Espíritos progridem mesmo nos pousios.
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — Espíritos progridem mesmo nos pousios.
 - [[wiki/obras/livro-dos-espiritos]] — codificação primária do conceito.
 - [[wiki/obras/revista-espirita-1859]] — volume com o desenvolvimento complementar.
 - [[wiki/obras/genese]] — cosmologia espírita posterior.

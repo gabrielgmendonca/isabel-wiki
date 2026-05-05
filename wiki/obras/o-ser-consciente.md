@@ -94,7 +94,7 @@ Em **o homem consciente** (cap. 37), retoma Gurdjieff (homem adormecido / homem 
 - [[wiki/conceitos/autoconhecimento]] — LE q. 919 como programa terapêutico
 - [[wiki/conceitos/perispirito]] — modelo organizador biológico, peça intermediária do tripé
 - [[wiki/conceitos/reencarnacao]] — método de progresso e fonte de conflitos psicogênicos
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — base da amorterapia (cap. 24)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — base da amorterapia (cap. 24)
 - [[wiki/conceitos/egoismo]] — dificuldade central do ego imaturo
 - [[wiki/conceitos/obsessao]] — interferência espiritual agravando neuroses (cap. 11)
 

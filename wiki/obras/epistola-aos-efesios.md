@@ -72,7 +72,7 @@ A segunda argumentação (2:11–22) é o **manifesto universalista** da carta. 
 > "Mas agora em Cristo Jesus, vós, que antes estáveis longe, já pelo sangue de Cristo chegastes perto. Porque ele é a nossa paz, o qual de ambos os povos fez um; e, derrubando a parede de separação que estava no meio, na sua carne desfez a inimizade [...] para criar em si mesmo dos dois um novo homem, fazendo a paz [...]. Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos, e da família de Deus." (Ef 2:13–15, 19)
 
 A "parede de separação" alude provavelmente à **soreg** — barreira física no Templo de Jerusalém que excluía os gentios sob pena de morte. A imagem é poderosa: o mais alto símbolo de exclusão religiosa cai, e Cristo "de ambos os povos faz um". É formulação paulina máxima da universalidade que Kardec articula em ESE cap. XI ("Amar o próximo como a si mesmo") e que LE q. 1009–1016 generaliza para todos os Espíritos — nenhum povo, nenhuma raça, nenhuma classe está excluída do plano divino. A geração nova ([[wiki/conceitos/geracao-nova]]) e a transição planetária ([[wiki/conceitos/transicao-planetaria]]) lêem-se em chave universalista também — "templo santo no Senhor [...] morada de Deus em Espírito" (2:21–22) é, no Espiritismo, a humanidade regenerada da Terra como mundo de regeneração. Ver [[raw/biblia-acf/efesios/2]].
-- **Conceitos:** [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/caridade]], [[wiki/conceitos/lei-do-progresso]]
+- **Conceitos:** [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-do-progresso]]
 
 **Cap. 3 — Mistério revelado; oração pela plenitude.** Paulo descreve sua missão como anúncio do "mistério" antes oculto, agora revelado pelo Espírito: que os gentios "são co-herdeiros, e de um mesmo corpo, e participantes da promessa em Cristo pelo evangelho" (3:6). A linguagem mistérica (*mystērion*) é vocabulário próprio das religiões de mistério greco-romanas — Paulo a re-significa: o "mistério" cristão **não é segredo iniciático para poucos**, é plano divino agora **publicamente** anunciado. Coerente com a leitura espírita das três revelações ([[wiki/conceitos/tres-revelacoes]]): cada revelação progressiva amplia o que estava cifrado na anterior.
 
@@ -103,13 +103,13 @@ A partir de 4:25, Paulo lista preceitos práticos — reforma íntima descida ao
 
 - **Falar a verdade** (4:25) — "deixai a mentira, e falai a verdade cada um com o seu próximo".
 - **Irar-se sem pecar** (4:26) — "Irai-vos, e não pequeis; não se ponha o sol sobre a vossa ira". A ira não é em si pecado — o que importa é que **não se prolongue**, não se cristalize em rancor. Paralelo direto com ESE cap. IX, item 7 ("não há vida em comum possível sem reciprocidade de tolerância"). Aliás, "não dar lugar ao diabo" (4:27) é, em chave espírita, **não dar acesso a Espíritos inferiores** pela vibração da ira sustentada — sintonia mediúnica negativa (LM 2ª parte cap. XXIII; [[wiki/conceitos/obsessao]]).
-- **Trabalhar honestamente, repartir com o necessitado** (4:28) — "trabalhe, fazendo com as mãos o que é bom, para que tenha o que repartir com o que tiver necessidade". Síntese da [[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]] articulada à [[wiki/conceitos/caridade|caridade]].
+- **Trabalhar honestamente, repartir com o necessitado** (4:28) — "trabalhe, fazendo com as mãos o que é bom, para que tenha o que repartir com o que tiver necessidade". Síntese da [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] articulada à [[wiki/conceitos/caridade|caridade]].
 - **Palavra que edifica** (4:29) — "Não saia da vossa boca nenhuma palavra torpe, mas só a que for boa para promover a edificação". Paralelo com Tg 3:1–12 sobre o domínio da língua.
 - **Não entristecer o Espírito Santo** (4:30) — vibrar em sintonia com os Espíritos elevados.
 - **Perdão como espelho do perdão divino** (4:32) — "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo". Formulação paulina compacta de ESE cap. XII ("Amai os vossos inimigos") e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35).
 
 Ver [[raw/biblia-acf/efesios/4]].
-- **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/mediunidade]], [[wiki/conceitos/lei-do-trabalho]], [[wiki/conceitos/caridade]]
+- **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/mediunidade]], [[wiki/conceitos/leis-morais/lei-do-trabalho]], [[wiki/conceitos/caridade]]
 
 **Cap. 5 — Imitadores de Deus; luz e trevas; sabedoria do tempo; relações conjugais.** Abre com a fórmula que sintetiza o programa moral paulino:
 
@@ -125,7 +125,7 @@ Em 5:14, Paulo cita o que parece ser **fragmento de hino batismal primitivo**:
 
 A imagem do "despertar dos mortos" como **passagem da inconsciência espiritual à vida consciente** ressoa em toda a literatura espírita sobre o despertar pós-morte (C&I 2ª parte; André Luiz, *Nosso Lar*). É também a chave para o trabalho do médium iniciante: sair da letargia espiritual e assumir a responsabilidade da consciência (LM 2ª parte cap. XX).
 
-5:15–21 dá conselhos sobre **uso do tempo** ("Remindo o tempo; porquanto os dias são maus", 5:16), embriaguez vs. enchimento espiritual ("não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito", 5:18) e **gratidão constante** ("Dando sempre graças por tudo a nosso Deus e Pai", 5:20). A gratidão como disciplina moral é tema kardequiano direto (LE q. 660–663; [[wiki/conceitos/lei-de-adoracao]]) e voltará em Fp 4 ("regozijai-vos sempre no Senhor").
+5:15–21 dá conselhos sobre **uso do tempo** ("Remindo o tempo; porquanto os dias são maus", 5:16), embriaguez vs. enchimento espiritual ("não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito", 5:18) e **gratidão constante** ("Dando sempre graças por tudo a nosso Deus e Pai", 5:20). A gratidão como disciplina moral é tema kardequiano direto (LE q. 660–663; [[wiki/conceitos/leis-morais/lei-de-adoracao]]) e voltará em Fp 4 ("regozijai-vos sempre no Senhor").
 
 A partir de 5:21, Paulo entra no bloco da **ética doméstica** — três pares de relações: marido/esposa (5:21–33), pais/filhos (6:1–4), senhores/servos (6:5–9). Abre com a chave hermenêutica que a tradição majoritária preferiu esquecer:
 
@@ -137,12 +137,12 @@ A submissão é **mútua e recíproca**, antes de ser hierarquizada. Em seguida 
 >
 > "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela [...]. Assim devem os maridos amar as suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo." (Ef 5:25, 28)
 
-Paulo articula o casamento como mistério Cristo/igreja (5:32 — "Grande é este mistério"). A passagem foi pedra fundamental da teologia sacramental do matrimônio na tradição católica e ortodoxa. Para o Espiritismo, a hierarquia conjugal explícita ("o marido é a cabeça da mulher") está em tensão com a Lei de Igualdade (LE q. 817–822 — ver [[wiki/conceitos/lei-de-igualdade]]). Mas o quadro paulino não é simétrico ao silêncio em 1 Co 14: há reciprocidade de 5:21 e há **amor sacrificial assimétrico** exigido do marido (5:25 — "amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela") que **subverte** qualquer leitura de domínio. A leitura espírita preserva a ética do amor mútuo e dissolve a hierarquia ontológica. Ver [[raw/biblia-acf/efesios/5]].
+Paulo articula o casamento como mistério Cristo/igreja (5:32 — "Grande é este mistério"). A passagem foi pedra fundamental da teologia sacramental do matrimônio na tradição católica e ortodoxa. Para o Espiritismo, a hierarquia conjugal explícita ("o marido é a cabeça da mulher") está em tensão com a Lei de Igualdade (LE q. 817–822 — ver [[wiki/conceitos/leis-morais/lei-de-igualdade]]). Mas o quadro paulino não é simétrico ao silêncio em 1 Co 14: há reciprocidade de 5:21 e há **amor sacrificial assimétrico** exigido do marido (5:25 — "amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela") que **subverte** qualquer leitura de domínio. A leitura espírita preserva a ética do amor mútuo e dissolve a hierarquia ontológica. Ver [[raw/biblia-acf/efesios/5]].
 
 > [!warning] Divergência com Kardec
 > Ef 5:22–24 ("mulheres, sujeitai-vos a vossos maridos") instala uma **hierarquia conjugal explícita** que diverge da Lei de Igualdade kardequiana — "Não outorgou Deus a ambos a inteligência do bem e do mal e a faculdade de progredir?" (LE q. 817); "uma legislação, para ser perfeitamente justa, deve consagrar a igualdade dos direitos do homem e da mulher" (LE q. 822, comentário). A reciprocidade de 5:21 ("sujeitando-vos uns aos outros") e o amor sacrificial assimétrico exigido dos maridos (5:25) abrem brecha hermenêutica — mas o literalismo da hierarquia foi e é fundamento de práticas patriarcais que o Espiritismo recusa.
 > Ver [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]].
-- **Conceitos:** [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/lei-de-adoracao]], [[wiki/conceitos/caridade]], [[wiki/conceitos/lei-de-igualdade]]
+- **Conceitos:** [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/leis-morais/lei-de-adoracao]], [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 
 **Cap. 6 — Pais/filhos; senhores/servos; armadura de Deus; saudações finais.** Os pares restantes da ética doméstica: filhos obedecem aos pais "no Senhor" (6:1) e os pais não exasperam os filhos, mas os criam "na doutrina e admoestação do Senhor" (6:4) — preceito coerente com a doutrina kardequiana sobre [[wiki/conceitos/evangelizacao-infantojuvenil|evangelização infantojuvenil]] (LE q. 383–385) e com a [[wiki/questoes/paternidade-como-missao|paternidade como missão]] (LE q. 582–583).
 
@@ -150,7 +150,7 @@ O par mais delicado é o de senhores/servos (6:5–9):
 
 > "Vós, servos, obedecei a vossos senhores segundo a carne, com temor e tremor, na sinceridade de vosso coração, como a Cristo; não servindo à vista, como para agradar aos homens, mas como servos de Cristo, fazendo de coração a vontade de Deus [...]. E vós, senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor deles e vosso está no céu, e que para com ele não há acepção de pessoas." (Ef 6:5–7, 9)
 
-Paulo aceita a instituição da escravidão como **dado social a ser vivido virtuosamente**, sem questioná-la em sua estrutura. O critério de "não acepção de pessoas" (6:9) **dignifica o servo perante Deus** — eco direto de At 10:34 e Rm 2:11 — mas não abole a relação. O Espiritismo é taxativo: "A escravidão é uma das chagas da humanidade" (LE q. 829, paráfrase do comentário), contrária à Lei de Igualdade (LE q. 803–824) e à Lei de Liberdade (LE q. 825–872). Ver [[wiki/conceitos/lei-de-liberdade]].
+Paulo aceita a instituição da escravidão como **dado social a ser vivido virtuosamente**, sem questioná-la em sua estrutura. O critério de "não acepção de pessoas" (6:9) **dignifica o servo perante Deus** — eco direto de At 10:34 e Rm 2:11 — mas não abole a relação. O Espiritismo é taxativo: "A escravidão é uma das chagas da humanidade" (LE q. 829, paráfrase do comentário), contrária à Lei de Igualdade (LE q. 803–824) e à Lei de Liberdade (LE q. 825–872). Ver [[wiki/conceitos/leis-morais/lei-de-liberdade]].
 
 > [!warning] Divergência com Kardec
 > Ef 6:5–9 aceita a escravidão como instituição social a ser vivida virtuosamente — "servos, obedecei a vossos senhores segundo a carne, com temor e tremor". Kardec rejeita: "Os homens são iguais perante Deus" (LE q. 803); "todos têm os mesmos direitos" (LE q. 803, comentário); a escravidão é "abuso da força sobre a fraqueza" (LE q. 818) e "obra do homem e não de Deus" (LE q. 806). A Lei de Liberdade kardequiana (LE q. 825–828) declara a propriedade do próprio corpo direito imprescritível. Paulo dignifica o servo perante Deus mas não recusa a estrutura — divergência estrutural com a moral espírita.
@@ -168,7 +168,7 @@ Os seis elementos da armadura — **cíngulo da verdade, couraça da justiça, s
 - Encerra com "orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança" (6:18) — **prece e vigilância** como fechamento; é o que Kardec retoma em ESE cap. XXVII–XXVIII e em LM 2ª parte cap. XXIII (sobre prevenção da obsessão pela elevação moral).
 
 A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão amado, e fiel ministro do Senhor", portador da carta — e com saudação fraternal (6:23–24). Ver [[wiki/personalidades/tiquico]] e [[raw/biblia-acf/efesios/6]].
-- **Conceitos:** [[wiki/conceitos/evangelizacao-infantojuvenil]], [[wiki/conceitos/lei-de-liberdade]], [[wiki/conceitos/armadura-de-deus]], [[wiki/conceitos/prece]], [[wiki/conceitos/obsessao]]
+- **Conceitos:** [[wiki/conceitos/evangelizacao-infantojuvenil]], [[wiki/conceitos/leis-morais/lei-de-liberdade]], [[wiki/conceitos/armadura-de-deus]], [[wiki/conceitos/prece]], [[wiki/conceitos/obsessao]]
 
 ## Temas centrais para o estudo espírita
 
@@ -208,7 +208,7 @@ A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão ama
 | Ef 5:14 — "Desperta, tu que dormes, e levanta-te dentre os mortos" | C&I 2ª parte (despertar pós-morte); LM 2ª parte cap. XX (vocação do médium); André Luiz, *Nosso Lar* |
 | Ef 5:15–16 — "Remindo o tempo; porquanto os dias são maus" | ESE cap. XVII, item 4 (esforço cotidiano); LE q. 685 (trabalho útil) |
 | Ef 5:18 — "enchei-vos do Espírito" | LE q. 538 (assistência dos Espíritos); ESE cap. XXVIII (prece) |
-| Ef 5:20 — "dando sempre graças por tudo" | LE q. 660–663 (Lei de Adoração); [[wiki/conceitos/lei-de-adoracao]] |
+| Ef 5:20 — "dando sempre graças por tudo" | LE q. 660–663 (Lei de Adoração); [[wiki/conceitos/leis-morais/lei-de-adoracao]] |
 | Ef 5:22–24 — sujeição conjugal | **Divergência** com LE q. 817–822 (Lei de Igualdade); ver [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]] |
 | Ef 5:25–28 — maridos amam suas mulheres como Cristo amou a igreja | ESE cap. XV (caridade como fundamento) — atenua a hierarquia de 5:22–24 |
 | Ef 6:1–4 — pais e filhos | LE q. 383–385 (educação infantojuvenil); LE q. 582–583 (paternidade como missão); [[wiki/conceitos/evangelizacao-infantojuvenil]] |
@@ -227,11 +227,11 @@ A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão ama
 - [[wiki/conceitos/homem-velho-homem-novo]] — Ef 4:22–24 (passagem-síntese)
 - [[wiki/conceitos/armadura-de-deus]] — Ef 6:10–17 (passagem-síntese)
 - [[wiki/conceitos/caridade]] — Ef 4:32; Ef 5:1–2; ESE caps. XI–XV
-- [[wiki/conceitos/lei-de-igualdade]] — Ef 6:9 ("não há acepção de pessoas"); contraponto em Ef 5:22–24 e Ef 6:5–9
-- [[wiki/conceitos/lei-de-liberdade]] — contraponto em Ef 6:5–9 (escravidão)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Ef 4:32; Ef 5:1–2
-- [[wiki/conceitos/lei-do-trabalho]] — Ef 4:28
-- [[wiki/conceitos/lei-de-adoracao]] — Ef 5:20 (gratidão constante)
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — Ef 6:9 ("não há acepção de pessoas"); contraponto em Ef 5:22–24 e Ef 6:5–9
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]] — contraponto em Ef 6:5–9 (escravidão)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — Ef 4:32; Ef 5:1–2
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — Ef 4:28
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — Ef 5:20 (gratidão constante)
 - [[wiki/conceitos/mediunidade]] — Ef 4:11–13 (variedade dos dons)
 - [[wiki/conceitos/obsessao]] — Ef 4:27 ("não deis lugar ao diabo"); Ef 6:11–12 (combate espiritual)
 - [[wiki/conceitos/escala-espirita]] — Ef 1:21; Ef 6:12 (principados, potestades)

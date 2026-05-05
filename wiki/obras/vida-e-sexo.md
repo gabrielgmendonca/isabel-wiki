@@ -94,9 +94,9 @@ Para a sistematização doutrinária por eixos, ver [[wiki/aprofundamentos/sexua
 ## Conceitos tratados
 
 - [[wiki/conceitos/energia-sexual]] — eixo da obra (caps. 1, 5, 6, 24)
-- [[wiki/conceitos/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
 - [[wiki/conceitos/reencarnacao]] — sustentáculo dos vínculos cármicos
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base do "saque afetivo"
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"
 - [[wiki/conceitos/perispirito]] — substrato das cargas magnéticas
 - [[wiki/conceitos/provas-e-expiacoes]] — celibato, abstinência, união infeliz
 - [[wiki/conceitos/livre-arbitrio]] — base da responsabilidade nos compromissos afetivos

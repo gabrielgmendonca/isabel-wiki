@@ -59,7 +59,7 @@ Paulo dá em [[wiki/obras/epistola-aos-filipenses|Filipenses]] uma das fórmulas
 
 Três pontos para o estudo espírita:
 
-1. **Tríplice movimento da prece (4:6).** Paulo articula três modalidades — **oração** (gr. *proseuchē*, ato genérico de elevar-se a Deus), **súplica** (gr. *deēsis*, pedido específico) e **ação de graças** (gr. *eucharistia*, gratidão). A última é decisiva: a oração que pede sem agradecer fica truncada. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, pedir, agradecer". A gratidão é parte da [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663).
+1. **Tríplice movimento da prece (4:6).** Paulo articula três modalidades — **oração** (gr. *proseuchē*, ato genérico de elevar-se a Deus), **súplica** (gr. *deēsis*, pedido específico) e **ação de graças** (gr. *eucharistia*, gratidão). A última é decisiva: a oração que pede sem agradecer fica truncada. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, pedir, agradecer". A gratidão é parte da [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663).
 2. **"Não estejais inquietos por coisa alguma"** (4:6). A prece não é negação da preocupação legítima, é **dirigir** a inquietação para o canal certo. Paulo escreve preso em Roma — sabe do que fala. Coerente com ESE cap. XXVII, item 7 (a prece não muda a ordem da natureza, mas dispõe o orante).
 3. **"A paz de Deus que excede todo o entendimento" (4:7)** descreve, em chave kardequiana, o efeito real da sintonia mediúnica positiva — a vibração serena que se instala quando o orante eleva o pensamento aos Espíritos protetores. Não é metáfora; é experiência fenomenologicamente reportada. André Luiz, em *Missionários da Luz* cap. 6, descreve a prece de Cecília como "vibração, energia, poder" que produz efeito clínico real sobre o esposo vampirizado — articulação direta com Fp 4:7.
 
@@ -123,7 +123,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-adoracao]] — a prece como forma de adoração
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — a prece como forma de adoração
 - [[wiki/conceitos/fe-raciocinada]] — a prece consciente, não supersticiosa
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XXVII–XXVIII
 - [[wiki/obras/livro-dos-espiritos]] — q. 658–673

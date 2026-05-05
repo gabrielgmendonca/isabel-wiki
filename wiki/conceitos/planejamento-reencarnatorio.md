@@ -143,7 +143,7 @@ A mecânica é coerente com LE q. 263–273 (escolha das provas): o que *Ação 
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional ampliada
 - [[wiki/personalidades/alexandre]] — orientador do caso paradigmático
 - [[wiki/personalidades/druso]] — Instrutor expositor do regime de sanções
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — economia moral subjacente
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — economia moral subjacente
 
 ## Fontes
 

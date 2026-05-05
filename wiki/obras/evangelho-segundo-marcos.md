@@ -73,7 +73,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 - **Conceitos:** [[wiki/conceitos/parabola-da-figueira-seca]], [[wiki/conceitos/prece]]
 
 **Cap. 12 — Lavradores maus; César; ressurreição; maior mandamento; óbolo da viúva.** Parábola dos lavradores maus (Mc 12:1–12) — ESE, cap. XVIII. "Dai a César o que é de César, e a Deus o que é de Deus" (Mc 12:17). Diante dos saduceus: "não errais vós em razão de não saberdes as Escrituras nem o poder de Deus? [...] nem casarão, nem se darão em casamento, mas serão como os anjos que estão nos céus" (Mc 12:24–25) — descrição do estado espiritual (ESE, cap. IV). "Deus não é de mortos, mas sim, é Deus de vivos" (Mc 12:27) — imortalidade da alma. **Maior mandamento (Mc 12:28–34), exclusivo de Marcos neste formato.** Jesus cita o Shemá (Dt 6:4): "Ouve, Israel, o Senhor nosso Deus é o único Senhor" (Mc 12:29) — monoteísmo explícito; depois o amor ao próximo. O escriba **concorda** e acrescenta que isso "é mais do que todos os holocaustos e sacrifícios" (Mc 12:33); Jesus responde: "Não estás longe do reino de Deus" (Mc 12:34) — reconhecimento da fé raciocinada fora do círculo discipular. **Óbolo da viúva (Mc 12:41–44)** — ESE, cap. XIII, item 8: "esta, da sua pobreza, deitou tudo o que tinha" — a caridade mede-se pelo sacrifício, não pelo valor absoluto. Ver [[raw/biblia-acf/marcos/12]].
-- **Conceitos:** [[wiki/conceitos/parabola-dos-lavradores-maus]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/parabola-dos-lavradores-maus]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 ### Discurso escatológico (cap. 13)
 
@@ -104,7 +104,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 4. **Progresso gradual do bem** — parábola da semente que cresce por si (Mc 4:26–29) e cura gradual do cego de Betsaida (Mc 8:22–26).
 5. **Primado da intenção sobre o ritual** — Mc 7:1–23 (tradição dos anciãos, o que contamina vem de dentro). Coerente com LE, q. 649–673 (lei de adoração).
 6. **Reencarnação** — "Elias já veio" (Mc 9:13). Ver [[wiki/conceitos/reencarnacao]].
-7. **Lei de amor e caridade** — maior mandamento com o Shemá (Mc 12:28–34); óbolo da viúva (Mc 12:41–44). Ver [[wiki/conceitos/lei-de-justica-amor-e-caridade]].
+7. **Lei de amor e caridade** — maior mandamento com o Shemá (Mc 12:28–34); óbolo da viúva (Mc 12:41–44). Ver [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]].
 8. **Fé raciocinada** — "o escriba respondeu sabiamente... não estás longe do reino de Deus" (Mc 12:34): reconhecimento da adesão racional fora do círculo discipular.
 9. **Transição planetária** — sinais de Mc 13. Ver [[wiki/conceitos/transicao-planetaria]].
 10. **Humanidade de Jesus** — compaixão, indignação, cansaço, suspiro, afeto pessoal (Mc 10:21). Coerente com a encarnação real de um Espírito elevadíssimo (Gênese, cap. XV).
@@ -144,7 +144,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 
 - [[wiki/conceitos/parabola-do-semeador]] · [[wiki/conceitos/parabola-da-semente-que-cresce-por-si]] · [[wiki/conceitos/parabola-do-grao-de-mostarda]] · [[wiki/conceitos/parabola-da-candeia-sob-o-alqueire]] · [[wiki/conceitos/parabola-dos-lavradores-maus]] · [[wiki/conceitos/parabola-da-figueira-seca]]
 - [[wiki/conceitos/obsessao]]
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/humildade]]
 - [[wiki/conceitos/transicao-planetaria]]
 

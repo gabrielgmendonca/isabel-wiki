@@ -97,7 +97,7 @@ Referências `cap./item` únicas: ESE **136**, Gênese **68**, LM **37**, C&I **
 | 10 | [[wiki/personalidades/jesus]] | 78 |
 | 11 | [[wiki/conceitos/livre-arbitrio]] | 72 |
 | 12 | [[wiki/obras/livro-dos-espiritos]] | 67 |
-| 13 | [[wiki/conceitos/lei-de-causa-e-efeito]] | 65 |
+| 13 | [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] | 65 |
 | 14 | [[wiki/obras/genese]] | 63 |
 | 15 | [[wiki/personalidades/allan-kardec]] | 57 |
 
@@ -133,7 +133,7 @@ Referências `cap./item` únicas: ESE **136**, Gênese **68**, LM **37**, C&I **
 | 6 | [[wiki/conceitos/perispirito]] | 0.0156 |
 | 7 | [[wiki/conceitos/caridade]] | 0.0148 |
 | 8 | [[wiki/conceitos/mediunidade]] | 0.0141 |
-| 9 | [[wiki/conceitos/lei-de-justica-amor-e-caridade]] | 0.0135 |
+| 9 | [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] | 0.0135 |
 | 10 | [[wiki/obras/livro-dos-espiritos]] | 0.0131 |
 | 11 | [[wiki/conceitos/obsessao]] | 0.0130 |
 | 12 | [[wiki/conceitos/escala-espirita]] | 0.0115 |

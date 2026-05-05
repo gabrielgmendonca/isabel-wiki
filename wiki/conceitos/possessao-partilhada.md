@@ -45,14 +45,14 @@ A condição necessária é a **afinidade total** — sintonia de paixão domina
 
 - **Discernimento moral.** Em cenas de descontrole emocional intenso (especialmente sexual), considerar a hipótese de presença de obsessor afim — não como desresponsabilização ("o demônio fez"), mas como aviso de que **paixão dominante atrai sintonia equivalente** no plano espiritual.
 - **Trabalho desobsessivo.** A possessão partilhada não cede a doutrinação do obsessor isoladamente — exige **reforma do encarnado**, porque a porta está aberta de dentro. Coerente com LM cap. XXIII, item 244 ("a mediunidade permite ver o inimigo (...) e combatê-lo com suas próprias armas") — aqui, as armas são interiores.
-- **Casamento e família.** *Sexo e Destino* aplica o conceito ao drama familiar: relações sexuais movidas por paixão sem afeto verdadeiro tendem a abrir o casal a esse tipo de visitação, gerando ciclos de conflito que se prolongam pela reencarnação. Cf. [[wiki/conceitos/lei-de-reproducao]] sobre afeto como fundamento do casamento (LE, q. 695, 701).
+- **Casamento e família.** *Sexo e Destino* aplica o conceito ao drama familiar: relações sexuais movidas por paixão sem afeto verdadeiro tendem a abrir o casal a esse tipo de visitação, gerando ciclos de conflito que se prolongam pela reencarnação. Cf. [[wiki/conceitos/leis-morais/lei-de-reproducao]] sobre afeto como fundamento do casamento (LE, q. 695, 701).
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus
 - [[wiki/conceitos/vampirismo-espiritual]] — fenômeno correlato de extração de vitalidade
 - [[wiki/conceitos/perispirito]] — substrato da sintonia entre encarnado e desencarnado
-- [[wiki/conceitos/lei-de-reproducao]] — sexualidade sob a Lei da Natureza
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — sexualidade sob a Lei da Natureza
 - [[wiki/obras/sexo-e-destino]] — obra de origem do conceito
 - [[wiki/obras/livro-dos-mediuns]] — quadro doutrinário da obsessão (cap. XXIII)
 

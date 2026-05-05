@@ -62,7 +62,7 @@ A prática da bem-aventurança começa no controle da palavra: silenciar a respo
 - [[wiki/conceitos/bem-aventuranca-dos-pacificadores]] — agrupada no mesmo capítulo IX do ESE
 - [[wiki/conceitos/humildade]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/resignacao]]
 - [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-regeneradores]]
-- [[wiki/conceitos/lei-de-igualdade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. IX
 - [[wiki/obras/evangelho-segundo-mateus]] — Mt 5:5, 21–22
 

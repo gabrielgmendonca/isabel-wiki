@@ -104,7 +104,7 @@ A amplitude é máxima — praticamente todos os conceitos da wiki encontram mat
 - [[wiki/conceitos/mediunidade]] · [[wiki/conceitos/identidade-dos-espiritos]] · [[wiki/conceitos/manifestacoes-espiritas]]
 - [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/fluidos]]
 - [[wiki/conceitos/obsessao]] · [[wiki/conceitos/evocacao]]
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/provas-e-expiacoes]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/provas-e-expiacoes]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/egoismo]] · [[wiki/conceitos/orgulho]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/vida-futura]] · [[wiki/conceitos/perturbacao]]
 - [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/progresso-espiritual]]

@@ -1,12 +1,13 @@
 ---
+title: "Leis Morais"
 tipo: conceito
 fontes: [LE]
 tags: [lei-moral, leis-morais, lei-natural, lei-divina, consciencia, obra/le, lei/adoracao, lei/conservacao, lei/destruicao, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, lei/progresso, lei/reproducao, lei/sociedade, lei/trabalho, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-04
 status: ativo
 ---
 
-# Lei moral
+# Leis Morais
 
 Conjunto das leis divinas que regem a vida moral do ser humano, constituindo a parte da lei natural que diz respeito à conduta do homem para consigo mesmo e para com os seus semelhantes. A lei moral é universal, eterna e inscrita na consciência de cada Espírito.
 
@@ -24,16 +25,16 @@ A lei moral está gravada na consciência de todo Espírito. Nem sempre é perce
 
 Kardec organiza a lei moral em dez categorias, que constituem os capítulos da Parte 3 do LE:
 
-1. [[wiki/conceitos/lei-de-adoracao]] (q. 649–673)
-2. [[wiki/conceitos/lei-do-trabalho]] (q. 674–685)
-3. [[wiki/conceitos/lei-de-reproducao]] (q. 686–701)
-4. [[wiki/conceitos/lei-de-conservacao]] (q. 702–727)
-5. [[wiki/conceitos/lei-de-destruicao]] (q. 728–765)
-6. [[wiki/conceitos/lei-de-sociedade]] (q. 766–775)
-7. [[wiki/conceitos/lei-do-progresso]] (q. 776–802)
-8. [[wiki/conceitos/lei-de-igualdade]] (q. 803–824)
-9. [[wiki/conceitos/lei-de-liberdade]] (q. 825–872)
-10. [[wiki/conceitos/lei-de-justica-amor-e-caridade]] (q. 873–892)
+1. [[wiki/conceitos/leis-morais/lei-de-adoracao]] (q. 649–673)
+2. [[wiki/conceitos/leis-morais/lei-do-trabalho]] (q. 674–685)
+3. [[wiki/conceitos/leis-morais/lei-de-reproducao]] (q. 686–701)
+4. [[wiki/conceitos/leis-morais/lei-de-conservacao]] (q. 702–727)
+5. [[wiki/conceitos/leis-morais/lei-de-destruicao]] (q. 728–765)
+6. [[wiki/conceitos/leis-morais/lei-de-sociedade]] (q. 766–775)
+7. [[wiki/conceitos/leis-morais/lei-do-progresso]] (q. 776–802)
+8. [[wiki/conceitos/leis-morais/lei-de-igualdade]] (q. 803–824)
+9. [[wiki/conceitos/leis-morais/lei-de-liberdade]] (q. 825–872)
+10. [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] (q. 873–892)
 
 ### Lei moral e lei humana
 
@@ -49,7 +50,7 @@ A organização das leis morais em dez capítulos fornece um roteiro completo pa
 - [[wiki/conceitos/perfeicao-moral]]
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/conceitos/responsabilidade]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ## Fontes
 

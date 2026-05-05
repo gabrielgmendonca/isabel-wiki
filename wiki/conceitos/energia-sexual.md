@@ -14,7 +14,7 @@ Modalidade da força criadora do Universo que, no ser humano, alimenta simultane
 
 ## Ensino de Kardec
 
-A energia sexual aparece no Pentateuco subordinada à **Lei de Reprodução** ([[wiki/conceitos/lei-de-reproducao]]; LE, q. 686–701). Os Espíritos não a tratam como tema autônomo: tratam-na pelo seu efeito (o instinto reprodutor) e pelos seus desdobramentos morais (casamento, celibato, poligamia).
+A energia sexual aparece no Pentateuco subordinada à **Lei de Reprodução** ([[wiki/conceitos/leis-morais/lei-de-reproducao]]; LE, q. 686–701). Os Espíritos não a tratam como tema autônomo: tratam-na pelo seu efeito (o instinto reprodutor) e pelos seus desdobramentos morais (casamento, celibato, poligamia).
 
 **Função natural.** A reprodução é "evidentemente" lei da Natureza: "Sem a reprodução, o mundo corporal pereceria" (LE, q. 686). O instinto sexual existe para que essa lei se cumpra — não pode, portanto, ser estigmatizado em si.
 
@@ -34,7 +34,7 @@ Emmanuel dedica três capítulos diretos ao tema — caps. 5 (Energia sexual), 6
 
 **Recurso da Lei de Atração.** A energia sexual é "inerente à própria vida, gerando cargas magnéticas em todos os seres, à face das potencialidades criativas de que se reveste" (Emmanuel / Chico Xavier, *Vida e Sexo*, cap. 5). Não é fato meramente fisiológico: é **agente da Lei de Atração** que sustenta a perpetuação do Universo.
 
-**Circuito magnético entre parceiros.** Quando duas criaturas se entregam à comunhão sexual, "estabelece-se entre ambas um circuito de forças, pelo qual a dupla se alimenta psiquicamente de energias espirituais, em regime de reciprocidade" (cap. 6). A ruptura desleal é "saque afetivo" punível pela [[wiki/conceitos/lei-de-causa-e-efeito|Lei de Causa e Efeito]], deixando o parceiro lesado em "pânico" e o agressor sob a sementeira de conflitos que carreará para o futuro.
+**Circuito magnético entre parceiros.** Quando duas criaturas se entregam à comunhão sexual, "estabelece-se entre ambas um circuito de forças, pelo qual a dupla se alimenta psiquicamente de energias espirituais, em regime de reciprocidade" (cap. 6). A ruptura desleal é "saque afetivo" punível pela [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]], deixando o parceiro lesado em "pânico" e o agressor sob a sementeira de conflitos que carreará para o futuro.
 
 **Carga erótica como herança evolutiva inalienável.** "Toda criatura na Terra transporta em si mesma determinada taxa de carga erótica, de que, em verdade, não se libertará unicamente ao preço de palavras e votos brilhantes, mas à custa de experiência e trabalho" (cap. 24). A energia sexual atravessa a humanidade do reino animal à angelitude — só os "Espíritos sublimados" e os "provisoriamente internados nas celas da idiotia" estão dela isentos.
 
@@ -64,7 +64,7 @@ Quatro proposições articulam o princípio:
 
 A formulação não nega a sexualidade orgânica nos lares "em bases retas" — pelo contrário, defende-a como **inviolável**: "Semelhantes momentos do tálamo conjugal são sublimes e invioláveis nos lares em bases retas. [...] Todos os encarnados que edificam o ninho conjugal, sobre a retidão, conquistam a presença de testemunhas respeitosas, que lhes garantem a privatividade dos atos mais íntimos" (cap. 13). E adverte sobre o reverso — em moradias cujos cônjuges "buscam testemunhas em zonas inferiores", a intimidade torna-se objeto de "participação das desvairadas testemunhas que escolheram".
 
-A doutrina articula-se diretamente à [[wiki/conceitos/lei-de-reproducao|Lei de Reprodução]] kardequiana e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
+A doutrina articula-se diretamente à [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] kardequiana e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
 
 ## Em André Luiz, marco intermediário (*No Mundo Maior*, 1947, cap. 11)
 
@@ -139,10 +139,10 @@ A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
 - [[wiki/conceitos/centros-vitais]] — centro genésico como anatomia sutil (André Luiz)
 - [[wiki/conceitos/perispirito]] — substrato da carga magnética
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base do "saque afetivo"
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"
 - [[wiki/conceitos/provas-e-expiacoes]] — celibato e abstinência impostos
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — sistematização em Emmanuel
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — sistematização em André Luiz

@@ -38,10 +38,10 @@ Na leitura espírita, João é lido à luz do Pentateuco de Kardec. As passagens
 - **Conceito:** [[wiki/conceitos/reencarnacao]]
 
 **Cap. 4 — A samaritana e a adoração em espírito.** "Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade" (Jo 4:24). Kardec cita esta passagem ao tratar da lei de adoração: a adoração verdadeira é interior, não ritual (LE, q. 653–654). O diálogo com a samaritana também demonstra a universalidade da mensagem de Jesus — sem distinção de raça ou povo.
-- **Conceito:** [[wiki/conceitos/lei-de-adoracao]]
+- **Conceito:** [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 
 **Cap. 5 — Cura no tanque de Betesda.** "Não peques mais, para que não te suceda alguma coisa pior" (Jo 5:14) — relação entre falta moral e sofrimento, coerente com a lei de causa e efeito (LE, q. 920–921). Jesus declara sua subordinação ao Pai: "O Filho por si mesmo não pode fazer coisa alguma, se o não vir fazer o Pai" (Jo 5:19) — trecho citado por Kardec como prova de que Jesus não se fez igual a Deus (OPE, §III).
-- **Conceito:** [[wiki/conceitos/lei-de-causa-e-efeito]]
+- **Conceito:** [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ### Sinais e discursos públicos (caps. 6–12)
 
@@ -103,11 +103,11 @@ Bloco exclusivo de João — os capítulos mais ricos para a leitura espírita.
 1. **Reencarnação** — Diálogo com Nicodemos (cap. 3); pergunta sobre o cego de nascença (cap. 9). Ver [[wiki/conceitos/reencarnacao]].
 2. **Pluralidade dos mundos** — "Na casa de meu Pai há muitas moradas" (cap. 14). Ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]].
 3. **O Consolador prometido** — Caps. 14, 15, 16: o Espírito de Verdade que guiará em toda a verdade. Ver [[wiki/conceitos/tres-revelacoes]].
-4. **Adoração em espírito e verdade** — Diálogo com a samaritana (cap. 4). Ver [[wiki/conceitos/lei-de-adoracao]].
+4. **Adoração em espírito e verdade** — Diálogo com a samaritana (cap. 4). Ver [[wiki/conceitos/leis-morais/lei-de-adoracao]].
 5. **Natureza de Jesus** — Subordinação ao Pai (caps. 5, 8, 10, 14, 17); unidade moral, não ontológica. Ver [[wiki/personalidades/jesus]].
 6. **Lei de amor e caridade** — Lava-pés (cap. 13); mandamento novo (caps. 13, 15); a videira (cap. 15). Ver [[wiki/conceitos/caridade]].
 7. **Fenômenos mediúnicos** — Aparições pós-ressurreição (cap. 20); ressurreição de Lázaro (cap. 11). Ver [[wiki/conceitos/fluidos]].
-8. **Lei de causa e efeito** — "Não peques mais" (cap. 5); cego de nascença (cap. 9). Ver [[wiki/conceitos/lei-de-causa-e-efeito]].
+8. **Lei de causa e efeito** — "Não peques mais" (cap. 5); cego de nascença (cap. 9). Ver [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]].
 
 ## Referências cruzadas com o Pentateuco
 

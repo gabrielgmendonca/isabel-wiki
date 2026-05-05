@@ -1,4 +1,5 @@
 ---
+title: "Lei do trabalho"
 tipo: conceito
 fontes: [LE, ESE, André Luiz/Chico Xavier]
 tags: [trabalho, ocupacao, repouso, lei-moral, obra/le, obra/ese, lei/trabalho, bonus-hora, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sociedade]
@@ -88,8 +89,8 @@ Ver [[wiki/obras/epistola-aos-colossenses]] cap. 3 para o desenvolvimento comple
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
-- [[wiki/conceitos/lei-de-sociedade]] · [[wiki/conceitos/lei-do-progresso]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 - [[wiki/conceitos/provas-e-expiacoes]] · [[wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora]]
 - [[wiki/conceitos/bonus-hora]] · [[wiki/obras/nosso-lar]]
 

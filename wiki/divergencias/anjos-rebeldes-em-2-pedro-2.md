@@ -82,7 +82,7 @@ A leitura espírita pode **conservar a passagem** como advertência moral pela s
 
 3. **"Cadeias da escuridão" como descrição de estado moral de restrição**, não prisão física eterna. O vocabulário do umbral em [[wiki/obras/nosso-lar|*Nosso Lar*]] e da zona inferior em [[wiki/obras/missionarios-da-luz|*Missionários da Luz*]] / [[wiki/obras/obreiros-da-vida-eterna|*Obreiros da Vida Eterna*]] é exatamente isto: Espíritos endurecidos no mal vivem em **escuridão fluídica autoinduzida** (cf. [[wiki/conceitos/umbral|umbral]]), que se dissipa quando reorientam a vontade. C&I 2ª parte caps. III–VII descreve fenomenologicamente a "prisão" moral dos Espíritos sofredores — sempre temporária.
 
-4. **"Reservados para o juízo"** — em chave espírita, **a lei de causa e efeito é o "juízo" permanente** ([[wiki/conceitos/lei-de-causa-e-efeito]], LE q. 873–892). Não há tribunal dramático futuro; há a regulagem contínua que cada Espírito enfrenta ao confrontar-se com as consequências dos próprios atos.
+4. **"Reservados para o juízo"** — em chave espírita, **a lei de causa e efeito é o "juízo" permanente** ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]], LE q. 873–892). Não há tribunal dramático futuro; há a regulagem contínua que cada Espírito enfrenta ao confrontar-se com as consequências dos próprios atos.
 
 A releitura conserva o **valor moral da passagem** (advertência aos falsos doutores: nem mesmo Espíritos elevados estão imunes ao desvio do livre-arbítrio; o passado de elevação não garante o futuro) e **dissolve a doutrina ontológica da queda angélica** que a tradição construiu sobre o texto.
 

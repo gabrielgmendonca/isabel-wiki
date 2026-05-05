@@ -30,7 +30,7 @@ O guia do médium classificou-o como "Espírito endurecido" e exortou à perseve
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/prece]]
 - [[wiki/conceitos/progresso-espiritual]]
-- [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 
 ## Fontes
 

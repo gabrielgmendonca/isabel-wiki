@@ -71,7 +71,7 @@ Ver [[wiki/sinteses/hierarquia-de-autoridade]] — escritos apostólicos como n�
 - [[wiki/personalidades/pedro-apostolo]] — coluna da Igreja de Jerusalém junto com Tiago e João.
 - [[wiki/conceitos/fe]] — Tiago como matriz escritural da fé viva.
 - [[wiki/conceitos/caridade]] — Tg 1:27 (viúvas e órfãos) e 2:14–17.
-- [[wiki/conceitos/lei-de-igualdade]] — Tg 2:1–9 (acepção de pessoas).
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — Tg 2:1–9 (acepção de pessoas).
 
 ## Fontes
 

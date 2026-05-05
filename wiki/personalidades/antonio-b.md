@@ -28,7 +28,7 @@ Confirmou ter sido enterrado vivo e que esse fim fora previsto e aceito antes do
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/personalidades/erasto]]
 
 ## Fontes

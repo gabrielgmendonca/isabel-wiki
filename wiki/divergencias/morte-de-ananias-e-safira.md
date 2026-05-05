@@ -69,7 +69,7 @@ A divergência é **real quanto à atribuição causal** (morte como castigo div
 - [[wiki/obras/ceu-e-inferno]] — 1ª parte, caps. VI–VII (penas temporárias)
 - [[wiki/obras/livro-dos-espiritos]] — q. 1009–1016 (duração das penas)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. I, VI (Deus como Pai, não vingador)
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — divergência análoga sobre penas eternas
 
 ## Fontes

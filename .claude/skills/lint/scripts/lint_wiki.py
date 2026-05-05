@@ -44,7 +44,14 @@ def _collect_catalog_targets() -> set[str]:
         return targets
     text = CATALOG_PATH.read_text(encoding="utf-8")
     for _, target in find_wikilinks(text):
-        if target.startswith("wiki/"):
+        if not target.startswith("wiki/"):
+            continue
+        # Normalizar [[wiki/conceitos/leis-morais]] para a key real do index.md
+        # quando o link aponta para uma pasta com index.md.
+        resolved = resolve_wikilink(target)
+        if resolved.exists() and resolved.name == "index.md" and not target.endswith("/index"):
+            targets.add(str(resolved.with_suffix("")))
+        else:
             targets.add(target)
     return targets
 
@@ -73,8 +80,18 @@ def check_broken_links(pages: list[Path]) -> dict:
 
 
 def check_orphan_pages(pages: list[Path]) -> dict:
-    """Check 2 — páginas sem nenhum link de entrada (excluindo index.md como fonte)."""
-    all_keys = {page_key(p) for p in pages}
+    """Check 2 — páginas sem nenhum link de entrada (excluindo index.md como fonte).
+
+    Páginas com `index: false` no frontmatter são excluídas — landings/meta-índices
+    cuja função é receber visitas via Explorer/breadcrumb, não via wikilink.
+    """
+    excluded_keys: set[str] = set()
+    for p in pages:
+        fm, _ = parse_frontmatter(p)
+        if str(fm.get("index", "")).lower() == "false":
+            excluded_keys.add(page_key(p))
+
+    all_keys = {page_key(p) for p in pages} - excluded_keys
     incoming: dict[str, list[str]] = {k: [] for k in all_keys}
 
     for page in pages:
@@ -82,6 +99,12 @@ def check_orphan_pages(pages: list[Path]) -> dict:
         src = page_key(page)
         for _, target in find_wikilinks(text):
             key = target.rstrip("/")
+            if key not in incoming:
+                # Pasta com index.md: [[wiki/conceitos/leis-morais]] resolve para
+                # wiki/conceitos/leis-morais/index.
+                folder_key = key + "/index"
+                if folder_key in incoming:
+                    key = folder_key
             if key in incoming and key != src:
                 incoming[key].append(str(page))
 

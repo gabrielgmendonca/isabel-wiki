@@ -1,4 +1,5 @@
 ---
+title: "Lei de liberdade"
 tipo: conceito
 fontes: [LE]
 tags: [liberdade, livre-arbitrio, escravidao, consciencia, fatalidade, lei-moral, obra/le, lei/liberdade, autor/kardec, grau/intermediario, tema/livre-arbitrio]
@@ -66,7 +67,7 @@ Em regra, Deus oculta o futuro — porque conhecê-lo paralisaria a ação: "a c
 
 > "Sem o livre-arbítrio o homem não teria nem culpa por praticar o mal, nem mérito em praticar o bem." (LE, q. 872, comentário)
 
-A liberdade é a contrapartida indispensável da [[wiki/conceitos/lei-de-causa-e-efeito]]: só responde quem podia escolher. Por isso, a doutrina espírita "admite no homem o livre-arbítrio em toda a sua plenitude" — mesmo quando reconhece a influência de Espíritos sugerindo ao íntimo, mantém intacto o poder de resistir (LE, q. 872, comentário). Foi este o ensino de Jesus na Oração Dominical: "Não nos deixes sucumbir à tentação, mas livra-nos do mal" — pedido de força, não de imunidade.
+A liberdade é a contrapartida indispensável da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]: só responde quem podia escolher. Por isso, a doutrina espírita "admite no homem o livre-arbítrio em toda a sua plenitude" — mesmo quando reconhece a influência de Espíritos sugerindo ao íntimo, mantém intacto o poder de resistir (LE, q. 872, comentário). Foi este o ensino de Jesus na Oração Dominical: "Não nos deixes sucumbir à tentação, mas livra-nos do mal" — pedido de força, não de imunidade.
 
 ## Aplicação prática
 
@@ -74,7 +75,7 @@ A Lei de Liberdade descarta dois extremos: o **fatalismo**, que dilui a responsa
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-igualdade]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/divergencias/escravidao-em-efesios-6]] — leitura literalista de Ef 6:5–9 em tensão com q. 829
 
 ## Fontes

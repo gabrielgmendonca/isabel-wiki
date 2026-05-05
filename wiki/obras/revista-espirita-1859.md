@@ -143,7 +143,7 @@ Em janeiro/1859 a Sociedade muda da rue Sainte-Anne, 59, para a **rue Montpensie
 
 - **Inéditos no volume:** [[wiki/conceitos/ageneres]] · [[wiki/conceitos/pneumatografia]] · [[wiki/conceitos/mundos-intermediarios-ou-transitorios]]
 - **Aprofundados:** [[wiki/conceitos/manifestacoes-espiritas]] · [[wiki/conceitos/mediunidade]] · [[wiki/conceitos/identidade-dos-espiritos]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/erraticidade]]
-- **Reencarnação e progressão:** [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/pluralidade-dos-mundos-habitados]] · [[wiki/conceitos/lei-do-progresso]]
+- **Reencarnação e progressão:** [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/pluralidade-dos-mundos-habitados]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 - **Moral aplicada:** [[wiki/conceitos/anjos]] (anjos da guarda) · [[wiki/conceitos/prece]] · [[wiki/conceitos/mercantilizacao-da-mediunidade]] (médiuns interesseiros) · [[wiki/conceitos/arrependimento]] (Voltaire, Frederico, Carlos IX)
 
 ## Personalidades citadas

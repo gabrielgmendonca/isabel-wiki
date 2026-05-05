@@ -93,7 +93,7 @@ Três usos típicos do conceito em estudos espíritas:
 - [[wiki/conceitos/armadura-de-deus]] — disciplina ativa da reforma íntima
 - [[wiki/conceitos/livre-arbitrio]] — vontade como motor (LE q. 843)
 - [[wiki/conceitos/egoismo]] — vício radical a destruir (LE q. 913)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — lei que o homem novo pratica
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — lei que o homem novo pratica
 - [[wiki/personalidades/paulo-de-tarso]]
 
 ## Fontes

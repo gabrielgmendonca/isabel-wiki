@@ -26,8 +26,8 @@ Romanos é **a paulina mais sistemática** — tratado doutrinário que sintetiz
 Para o estudo espírita, Romanos é precioso por **quatro razões**:
 
 1. **Lei moral inscrita no coração** (Rm 2:14–15) — Paulo afirma que os gentios "que não têm lei, fazem naturalmente as coisas que são da lei" e "mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência". É a **formulação neotestamentária direta** da Lei Natural kardequiana ([[wiki/obras/livro-dos-espiritos|LE]] q. 621 — "Onde está escrita a lei de Deus? — Na consciência"). Paulo e Kardec convergem no mesmo axioma: a lei moral não é externa nem histórica, é inscrita na consciência de todo ser humano.
-2. **Luta moral interior** (Rm 7:15–25) — "Porque não faço o bem que quero, mas o mal que não quero esse faço" é a descrição mais penetrante que o NT oferece do **combate entre a [[wiki/conceitos/lei-de-conservacao|carne]] e o espírito**, tema que Kardec retoma em LE q. 905–910 (a luta moral) e que percorre o ESE cap. XVII ("Sede perfeitos") como núcleo do esforço do homem de bem.
-3. **Amor como cumprimento da lei** (Rm 13:8–10) — "quem ama aos outros cumpriu a lei" e "o cumprimento da lei é o amor" é a formulação paulina do princípio que Kardec coroa em [[wiki/conceitos/lei-de-justica-amor-e-caridade|LE Cap. XI]] (q. 873–892) e em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV ("Fora da caridade não há salvação"). É base escritural, lado a lado com 1 Co 13, do primado da caridade sobre a letra.
+2. **Luta moral interior** (Rm 7:15–25) — "Porque não faço o bem que quero, mas o mal que não quero esse faço" é a descrição mais penetrante que o NT oferece do **combate entre a [[wiki/conceitos/leis-morais/lei-de-conservacao|carne]] e o espírito**, tema que Kardec retoma em LE q. 905–910 (a luta moral) e que percorre o ESE cap. XVII ("Sede perfeitos") como núcleo do esforço do homem de bem.
+3. **Amor como cumprimento da lei** (Rm 13:8–10) — "quem ama aos outros cumpriu a lei" e "o cumprimento da lei é o amor" é a formulação paulina do princípio que Kardec coroa em [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|LE Cap. XI]] (q. 873–892) e em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV ("Fora da caridade não há salvação"). É base escritural, lado a lado com 1 Co 13, do primado da caridade sobre a letra.
 4. **Aflições como provas com sentido** (Rm 5:3–4; 8:18, 28) — "a tribulação produz a paciência, e a paciência a experiência, e a experiência a esperança" (5:3–4); "as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada" (8:18); "todas as coisas contribuem juntamente para o bem daqueles que amam a Deus" (8:28) — **armadura escritural** direta de ESE cap. V ("Bem-aventurados os aflitos"). O sofrimento, lido pelo Espiritismo à luz da pluralidade das existências, é prova escolhida ou expiação aceita; Paulo antecipa a mesma chave de leitura sem o mecanismo reencarnatório.
 
 Passagens-chave citadas ou aproveitadas por Kardec: **Rm 2:11** (sem acepção de pessoas, ESE cap. XI); **Rm 2:14–15** (lei na consciência, LE q. 621); **Rm 7:15–25** (luta moral, ESE cap. XVII); **Rm 8:18** (aflições e glória futura, ESE cap. V); **Rm 13:8–10** (amor como cumprimento da lei, ESE cap. XV). Ao mesmo tempo, Romanos traz três pontos em que a leitura literalista entra em tensão com o Pentateuco: o **pecado original** de Rm 5:12–19, a **predestinação** de Rm 8:28–30 e 9:11–23, e a **"natureza" sexual** invocada em Rm 1:26–27 como crítica moral — os três filtrados na leitura espírita pela autoridade superior do Pentateuco e pela moral de Jesus.
@@ -52,7 +52,7 @@ Em seguida, a passagem-chave para o Espiritismo — a **lei moral inscrita na co
 > "Porque, quando os gentios, que não têm lei, fazem naturalmente as coisas que são da lei, não tendo eles lei, para si mesmos são lei; os quais mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência, e os seus pensamentos, quer acusando-os, quer defendendo-os." (Rm 2:14–15)
 
 Paralelo direto com LE q. 621 — "Onde está escrita a lei de Deus? — Na consciência". E com LE q. 617: "a lei de Deus é eterna [...] universal". A imparcialidade divina (2:11) é a mesma formulação que Kardec cita em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XI a partir de At 10:34. O fundamento moral do homem não é a Torá histórica nem o Evangelho como sistema dogmático, mas a **consciência esclarecida** — formulação que habilita tanto Paulo quanto Kardec ao universalismo moral. Ver [[raw/biblia-acf/romanos/2]].
-- **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/lei-moral]], [[wiki/conceitos/lei-de-causa-e-efeito]]
+- **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/leis-morais]], [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 **Cap. 3 — Universalidade do pecado; justificação pela fé.** Paulo conclui a primeira seção: judeus e gentios estão todos "debaixo do pecado" (3:9); "todos pecaram e destituídos estão da glória de Deus" (3:23). A solução é a justificação "pela redenção que há em Cristo Jesus" (3:24), "pela fé sem as obras da lei" (3:28). O "sem as obras da lei" refere-se aqui especificamente às obras rituais da Torá (circuncisão, calendário, pureza alimentar), não à ética prática — Paulo reafirma logo em 3:31: "Anulamos, pois, a lei pela fé? De maneira nenhuma, antes estabelecemos a lei". A leitura espírita distingue: a fé a que Paulo se refere é a [[wiki/conceitos/fe-raciocinada|fé raciocinada]] ativa, não adesão cega — sem ela, as obras exteriores carecem do motor interior (cf. ESE cap. XIX, item 12 — "a fé inabalável só o é a que pode encarar frente a frente a razão"). Ver [[raw/biblia-acf/romanos/3]].
 - **Conceitos:** [[wiki/conceitos/fe]], [[wiki/conceitos/fe-raciocinada]]
@@ -93,7 +93,7 @@ Paralelos espíritas: LE q. 908 — "Para vencermos nossas más inclinações, q
 - **Carne e Espírito como duas economias morais.** "Porque os que são segundo a carne inclinam-se para as coisas da carne; mas os que são segundo o Espírito para as coisas do Espírito. Porque a inclinação da carne é morte; mas a inclinação do Espírito é vida e paz" (8:5–6). Paralelo com a tríade corpo / perispírito / alma (LE q. 135, comentário) e com a dualidade resolvida pelo Espírito sobre a matéria (cf. [[wiki/conceitos/espirito]]).
 - **Filhos pelo Espírito.** "Porque todos os que são guiados pelo Espírito de Deus esses são filhos de Deus [...]. O mesmo Espírito testifica com o nosso espírito que somos filhos de Deus" (8:14, 16). A filiação divina é universal e direta, não restrita a linhagem histórica — coerente com ESE cap. XI e com LE q. 1009–1016 (salvação universal).
 - **Aflições e glória futura.** "Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada" (8:18). É formulação paulina direta da chave de leitura espírita do sofrimento — ESE cap. V, item 12: "Procurai o remédio em vós mesmos; confiai na justiça de Deus; não colheis agora senão o que semeastes ontem".
-- **Criação que geme à espera do progresso.** "Porque sabemos que toda a criação geme e está juntamente com dores de parto até agora. E não só ela, mas nós mesmos, que temos as primícias do Espírito, também gememos em nós mesmos, esperando a adoção, a saber, a redenção do nosso corpo" (8:22–23). Leitura espírita: toda a criação é sujeita ao progresso; o "gemido" é a dinâmica universal de saída do estado primitivo em direção à harmonia (cf. LE q. 540; [[wiki/conceitos/lei-do-progresso]]; [[wiki/conceitos/transicao-planetaria]]).
+- **Criação que geme à espera do progresso.** "Porque sabemos que toda a criação geme e está juntamente com dores de parto até agora. E não só ela, mas nós mesmos, que temos as primícias do Espírito, também gememos em nós mesmos, esperando a adoção, a saber, a redenção do nosso corpo" (8:22–23). Leitura espírita: toda a criação é sujeita ao progresso; o "gemido" é a dinâmica universal de saída do estado primitivo em direção à harmonia (cf. LE q. 540; [[wiki/conceitos/leis-morais/lei-do-progresso]]; [[wiki/conceitos/transicao-planetaria]]).
 - **Providência.** "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito" (8:28). Princípio da **providência articulada à lei** — não intervenção arbitrária, mas concurso de circunstâncias orientado pela sintonia moral com a Lei. Paralelo com LE q. 872 (Deus socorre a quem se esforça) e com [[wiki/conceitos/confianca-em-deus]].
 - **Inseparabilidade do amor de Deus.** "Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada? [...] nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir [...] nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor" (8:35, 38–39). Fórmula máxima de **confiança em Deus** como fundamento moral da prova.
 
@@ -102,7 +102,7 @@ Entre estas passagens inestimáveis, porém, Paulo insere a cadeia que alimentou
 > "Porque os que dantes conheceu também os predestinou para serem conformes à imagem de seu Filho [...]. E aos que predestinou a estes também chamou; e aos que chamou a estes também justificou; e aos que justificou a estes também glorificou." (Rm 8:29–30)
 
 Ver [[raw/biblia-acf/romanos/8]].
-- **Conceitos:** [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/confianca-em-deus]], [[wiki/conceitos/lei-do-progresso]], [[wiki/conceitos/perispirito]]
+- **Conceitos:** [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/confianca-em-deus]], [[wiki/conceitos/leis-morais/lei-do-progresso]], [[wiki/conceitos/perispirito]]
 
 ### Israel e o plano divino (caps. 9–11)
 
@@ -127,12 +127,12 @@ A passagem, lida à letra, parece anular o livre-arbítrio: Deus decretaria de a
 
 > "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. E não sede conformados com este mundo, mas sede transformados pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus." (Rm 12:1–2)
 
-O "culto racional" (em outras traduções, "culto espiritual" — *logikēn latreían*) é o paralelo paulino exato da [[wiki/conceitos/lei-de-adoracao|adoração em espírito e verdade]] (Jo 4:23–24; ESE cap. XVII) e da [[wiki/conceitos/fe-raciocinada|fé raciocinada]]. Não mais sacrifícios exteriores, mas a própria vida oferecida como culto, com o entendimento renovado.
+O "culto racional" (em outras traduções, "culto espiritual" — *logikēn latreían*) é o paralelo paulino exato da [[wiki/conceitos/leis-morais/lei-de-adoracao|adoração em espírito e verdade]] (Jo 4:23–24; ESE cap. XVII) e da [[wiki/conceitos/fe-raciocinada|fé raciocinada]]. Não mais sacrifícios exteriores, mas a própria vida oferecida como culto, com o entendimento renovado.
 
 Segue a retomada breve dos dons (12:4–8 — profecia, ministério, ensino, exortação, liberalidade, presidência, misericórdia), paralelo condensado do tratamento amplo em 1 Co 12 (ver [[wiki/obras/primeira-epistola-aos-corintios]]). Depois, o decálogo ético paulino (12:9–21): "O amor seja não fingido [...] amai-vos cordialmente uns aos outros com amor fraternal [...] abençoai aos que vos perseguem [...] alegrai-vos com os que se alegram, e chorai com os que choram [...] a ninguém torneis mal por mal [...] não vos vingueis a vós mesmos [...] se o teu inimigo tiver fome, dá-lhe de comer [...] não te deixes vencer do mal, mas vence o mal com o bem."
 
 Paralelo direto com ESE cap. XII ("Amai os vossos inimigos"): "É mais fácil perdoar do que se vingar [...] a brandura desarma, ainda às feras; apenas dela é incapaz o homem que se entrega às paixões animais" (ESE cap. XII, item 3, comentário). Ver [[raw/biblia-acf/romanos/12]].
-- **Conceitos:** [[wiki/conceitos/lei-de-adoracao]], [[wiki/conceitos/caridade]], [[wiki/conceitos/mediunidade]], [[wiki/conceitos/humildade]]
+- **Conceitos:** [[wiki/conceitos/leis-morais/lei-de-adoracao]], [[wiki/conceitos/caridade]], [[wiki/conceitos/mediunidade]], [[wiki/conceitos/humildade]]
 
 **Cap. 13 — Autoridades; amor como cumprimento da lei; vigilância.** Abre com a instrução delicada sobre sujeição às autoridades civis (13:1–7) — passagem historicamente lida como sacralização do poder. A leitura espírita contextualiza: Paulo orienta uma comunidade minoritária num Império que poderia esmagá-la à menor provocação; a sujeição é conselho prudencial + reconhecimento da função pedagógica da lei civil na preservação da ordem (cf. LE q. 766 — "a vida em sociedade está na lei natural"). **Não é** base para obediência acrítica a regimes injustos — Pedro e João, em At 5:29, ensinam explicitamente: "Importa antes obedecer a Deus do que aos homens".
 
@@ -143,7 +143,7 @@ A segunda metade do capítulo, porém, é pedra angular:
 É a **formulação paulina da Lei de Justiça, Amor e Caridade** — paralela ao hino de 1 Co 13 e gêmea da síntese de Jesus em Mt 22:37–40. Kardec coroa o LE cap. XI (q. 873–892) com a mesma lei; ESE cap. XV ("Fora da caridade não há salvação") a declara divisa do Espiritismo.
 
 Encerra com imagem escatológica: "A noite é passada, e o dia é chegado. Rejeitemos, pois, as obras das trevas, e vistamo-nos das armas da luz" (13:12) — imagem retomada em ESE cap. VIII (pureza de intenção) e na imagética espírita do despertar da humanidade para a era da [[wiki/conceitos/geracao-nova|geração nova]]. Ver [[raw/biblia-acf/romanos/13]].
-- **Conceitos:** [[wiki/conceitos/lei-de-justica-amor-e-caridade]], [[wiki/conceitos/caridade]], [[wiki/conceitos/lei-de-sociedade]]
+- **Conceitos:** [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]], [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-sociedade]]
 
 **Cap. 14 — Consciência, tolerância, responsabilidade individual.** Paulo trata de questões práticas em comunidade mista (comer ou não comer certas comidas; guardar ou não certos dias): a regra é respeitar a consciência do outro sem impor a própria. Princípio cardinal:
 
@@ -164,7 +164,7 @@ Paralelo direto com a responsabilidade individual kardequiana (LE q. 636–637; 
 4. **Aflições como provas com sentido** — Rm 5:3–5 (tribulação → paciência → experiência → esperança) e 8:18 ("aflições deste tempo presente não são para comparar com a glória") são base paulina de ESE cap. V. Lido pelo Espiritismo à luz da pluralidade das existências, o sofrimento é prova escolhida ou expiação aceita, não castigo arbitrário.
 5. **Providência articulada à lei** — Rm 8:28 ("todas as coisas contribuem") — não intervenção avulsa de Deus, mas concurso de circunstâncias orientado pela sintonia moral (cf. [[wiki/conceitos/confianca-em-deus]]).
 6. **Carne vs. Espírito** — Rm 8:5–13 sintetiza a dualidade moral que Kardec desenvolve em termos de [[wiki/conceitos/alma|alma]] / [[wiki/conceitos/perispirito|perispírito]] / corpo (LE q. 135). A "inclinação da carne é morte, mas a inclinação do Espírito é vida e paz".
-7. **Amor como cumprimento da lei** — Rm 13:8–10 é a formulação paulina direta da [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]]. Gêmea de 1 Co 13 e da síntese de Jesus em Mt 22:37–40.
+7. **Amor como cumprimento da lei** — Rm 13:8–10 é a formulação paulina direta da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]]. Gêmea de 1 Co 13 e da síntese de Jesus em Mt 22:37–40.
 8. **Amai os vossos inimigos; não vos vingueis** — Rm 12:14, 17–21 é sinóptico ao Sermão da Montanha e paralelo direto com ESE cap. XII. "Vence o mal com o bem" é fórmula-resumo da moral evangélica.
 9. **Culto racional / adoração em espírito** — Rm 12:1–2: o culto não é ritual exterior, mas a própria vida entregue com entendimento renovado. Paralelo exato com Jo 4:23–24 e ESE cap. XVII.
 10. **Responsabilidade individual** — Rm 14:12: "cada um de nós dará conta de si mesmo a Deus". Base paulina do princípio espírita de responsabilidade moral pessoal (LE q. 636–640; [[wiki/conceitos/responsabilidade]]).
@@ -192,7 +192,7 @@ Paralelo direto com a responsabilidade individual kardequiana (LE q. 636–637; 
 | Rm 9:11–23 — Jacó/Esaú; oleiro e barro | **Divergência**; resposta espírita: ESE cap. V, item 6 (bagagem de vidas anteriores) |
 | Rm 10:12–13 — "não há diferença entre judeu e grego" | ESE cap. XI (universalismo); LE q. 1009–1016 |
 | Rm 11:17 — gentios enxertados na oliveira | [[wiki/conceitos/progresso-espiritual]]; [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] |
-| Rm 12:1–2 — culto racional; entendimento renovado | **ESE cap. XVII** (adoração em espírito e verdade); [[wiki/conceitos/lei-de-adoracao]]; [[wiki/conceitos/fe-raciocinada]] |
+| Rm 12:1–2 — culto racional; entendimento renovado | **ESE cap. XVII** (adoração em espírito e verdade); [[wiki/conceitos/leis-morais/lei-de-adoracao]]; [[wiki/conceitos/fe-raciocinada]] |
 | Rm 12:4–8 — diversidade dos dons | LM 2ª parte caps. XVI–XVII (quadro dos médiuns) |
 | Rm 12:14–21 — amar inimigos, vencer o mal com o bem | **ESE cap. XII** ("Amai os vossos inimigos") |
 | Rm 12:15 — "chorai com os que choram" | ESE cap. X, item 15 (benevolência e indulgência) |
@@ -205,18 +205,18 @@ Paralelo direto com a responsabilidade individual kardequiana (LE q. 636–637; 
 ## Conceitos tratados
 
 - [[wiki/conceitos/lei-natural]] — Rm 2:14–15 (lei escrita nos corações)
-- [[wiki/conceitos/lei-moral]] — Rm 2:6, 12–13
+- [[wiki/conceitos/leis-morais]] — Rm 2:6, 12–13
 - [[wiki/conceitos/fe]] / [[wiki/conceitos/fe-raciocinada]] — Rm 3:28; 4:3, 21; 12:2 ("entendimento renovado")
 - [[wiki/conceitos/livre-arbitrio]] — Rm 14:12; contraponto em 8:29–30, 9:11–23
 - [[wiki/conceitos/responsabilidade]] — Rm 14:12; 2:6
 - [[wiki/conceitos/provas-e-expiacoes]] — Rm 5:3–5; 8:18
 - [[wiki/conceitos/bem-aventuranca-dos-aflitos]] — Rm 5:3–5; 8:18
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Rm 13:8–10
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — Rm 13:8–10
 - [[wiki/conceitos/caridade]] — Rm 12:9–10; 13:8–10
 - [[wiki/conceitos/homem-de-bem]] — Rm 7:15–25; 12:9–21
-- [[wiki/conceitos/lei-de-adoracao]] — Rm 12:1–2 (culto racional)
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — Rm 12:1–2 (culto racional)
 - [[wiki/conceitos/confianca-em-deus]] — Rm 8:28, 35–39
-- [[wiki/conceitos/lei-do-progresso]] — Rm 8:19–23 ("toda a criação geme")
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — Rm 8:19–23 ("toda a criação geme")
 - [[wiki/conceitos/origem-do-mal]] — Rm 5:12–19 (com divergência registrada)
 - [[wiki/conceitos/perispirito]] — Rm 8:5–13 (carne e Espírito)
 

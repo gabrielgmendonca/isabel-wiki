@@ -27,7 +27,7 @@ O guia do médium o definiu como "um desocupado do mundo dos Espíritos como o f
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 - [[wiki/conceitos/vida-espirita]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/reencarnacao]]

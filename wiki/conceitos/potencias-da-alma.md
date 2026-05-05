@@ -28,7 +28,7 @@ Kardec distingue a consciência moral — "a lei que Deus gravou no coração do
 
 O homem é livre em seus atos. "O homem não é fatalmente conduzido ao mal; os atos que pratica não foram de antemão escritos" (LE, q. 843). A liberdade cresce com o adiantamento do Espírito e diminui com a ignorância e as paixões (LE, q. 843–872).
 
-Ver [[wiki/conceitos/livre-arbitrio]], [[wiki/conceitos/lei-de-liberdade]].
+Ver [[wiki/conceitos/livre-arbitrio]], [[wiki/conceitos/leis-morais/lei-de-liberdade]].
 
 ### Pensamento
 

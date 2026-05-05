@@ -65,7 +65,7 @@ Passagens-chave citadas por Kardec: **At 10:34** (imparcialidade divina, ESE cap
 ### Universalismo e gentios (caps. 10–12)
 
 **Cap. 10 — Cornélio e Pedro.** Centurião romano, "piedoso e temente a Deus com toda a sua casa" (At 10:2), recebe visão de "um homem com vestes resplandecentes" (At 10:30). Pedro, em Jope, tem visão do lençol com animais impuros: "O que Deus purificou, não o faças tu comum" (At 10:15). Ao encontrar Cornélio: **"Reconheço por verdade que Deus não faz acepção de pessoas; mas que lhe é agradável aquele que, em qualquer nação, o teme e faz o que é justo"** (At 10:34–35) — formulação neotestamentária do universalismo moral, **citada por Kardec em ESE, cap. XI**. O Espírito Santo desce sobre os gentios antes mesmo do batismo (At 10:44–48). Ver [[raw/biblia-acf/atos/10]].
-- **Conceito:** [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceito:** [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 **Cap. 11 — Pedro defende a conversão dos gentios; primeiros "cristãos" em Antioquia.** Ágabo profetiza fome mundial: "e significou pelo Espírito, que haveria uma grande fome em todo o mundo" (At 11:28) — mediunidade profética (LM, 2ª parte, cap. XVI, item 191). Ver [[raw/biblia-acf/atos/11]].
 
@@ -87,7 +87,7 @@ Passagens-chave citadas por Kardec: **At 10:34** (imparcialidade divina, ESE cap
 - **Conceito:** [[wiki/conceitos/obsessao]]
 
 **Cap. 17 — Tessalônica, Beréia, Atenas.** Bereanos "de bom grado receberam a palavra, examinando cada dia nas Escrituras se estas coisas eram assim" (At 17:11) — **modelo da fé raciocinada** (ESE, cap. XIX). **Discurso no Areópago (At 17:22–31).** "Homens atenienses, em tudo vos vejo um tanto supersticiosos" (At 17:22). O Deus desconhecido é o Deus único: **"O Deus que fez o mundo e tudo que nele há [...] não habita em templos feitos por mãos de homens"** (At 17:24) — coerente com ESE cap. XVII (adoração em espírito e verdade) e LE q. 658–664. **"De um só sangue fez toda a geração dos homens"** (At 17:26) — unidade da espécie humana, base de ESE cap. XI. **"Nele vivemos, e nos movemos, e existimos"** (At 17:28) — **imanência divina**, citada por Kardec. Anúncio do juízo e da ressurreição; zombaria dos epicureus e estoicos; conversão de Dionísio, o Areopagita, e Dâmaris (At 17:32–34). Ver [[raw/biblia-acf/atos/17]].
-- **Conceitos:** [[wiki/conceitos/deus]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/deus]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 **Cap. 18 — Corinto; Áquila e Priscila; Galião; Apolo.** Paulo trabalha como fabricante de tendas com Áquila e Priscila (At 18:3). Visão noturna encorajadora: "Não temas, mas fala, e não te cales [...] porque tenho muito povo nesta cidade" (At 18:9–10). Apolo, "eloquente e poderoso nas Escrituras", é instruído por Priscila e Áquila (At 18:24–26). Ver [[raw/biblia-acf/atos/18]].
 
@@ -164,7 +164,7 @@ Passagens-chave citadas por Kardec: **At 10:34** (imparcialidade divina, ESE cap
 ## Conceitos tratados
 
 - [[wiki/conceitos/mediunidade]] · [[wiki/conceitos/obsessao]]
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/prece]] · [[wiki/conceitos/fe-raciocinada]]
 - [[wiki/conceitos/emancipacao-da-alma]] · [[wiki/conceitos/fluidos]]
 - [[wiki/conceitos/deus]]

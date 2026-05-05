@@ -114,7 +114,7 @@ A seção termina com imagem luminosa da esperança: "a qual temos como âncora 
 
 A continuação — "não ensinará cada um a seu próximo [...] dizendo: Conhece o Senhor; porque todos me conhecerão" (8:11) — é uma das formulações mais poderosas do **universalismo moral** que o Espiritismo coroa em LE q. 1009–1016 e em ESE cap. XI. Ver [[raw/biblia-acf/hebreus/8]].
 
-- **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/lei-moral]], [[wiki/conceitos/tres-revelacoes]]
+- **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/leis-morais]], [[wiki/conceitos/tres-revelacoes]]
 
 **Cap. 9 — Tabernáculo, sacrifício único, "uma morte e depois o juízo".** Comparação entre o santuário terrestre e o santuário "feito por mãos [...] não desta criação" (9:11). Cristo entrou "uma vez no santuário, havendo efetuado uma eterna redenção" (9:12). No meio do argumento tipológico, aparece uma passagem que a tradição cristã posterior isolou de seu contexto para usá-la contra a reencarnação:
 
@@ -178,7 +178,7 @@ O capítulo encerra com a imagem do "monte Sião, e à cidade do Deus vivo, à J
 
 Ver [[raw/biblia-acf/hebreus/13]].
 
-- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/anjos]], [[wiki/conceitos/lei-de-reproducao]]
+- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/anjos]], [[wiki/conceitos/leis-morais/lei-de-reproducao]]
 
 ## Temas centrais para o estudo espírita
 
@@ -191,7 +191,7 @@ Ver [[raw/biblia-acf/hebreus/13]].
 7. **Palavra penetrante / juízo da consciência** — Hb 4:12–13 descreve o diagnóstico moral interior que a doutrina espírita coroa no juízo de si mesmo após a morte (C&I 1ª parte caps. II, VI–VII).
 8. **Esperança como âncora da alma** — Hb 6:19. Virtude ativa, não ilusão: confiança fundada na justiça de Deus (ESE cap. V, XXV; [[wiki/conceitos/confianca-em-deus]]).
 9. **"Espíritos dos justos aperfeiçoados"** — Hb 12:23 é linguagem homóloga à da [[wiki/conceitos/escala-espirita|escala espírita]]: a vida póstuma é povoada de Espíritos em diferentes graus, não de "almas" indistintas.
-10. **Beneficência como verdadeiro sacrifício** — Hb 13:16: os sacrifícios que agradam a Deus são o bem feito e a comunicação com os necessitados, não o culto ritual. Linha direta da [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Caridade]].
+10. **Beneficência como verdadeiro sacrifício** — Hb 13:16: os sacrifícios que agradam a Deus são o bem feito e a comunicação com os necessitados, não o culto ritual. Linha direta da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Caridade]].
 
 ## Referências cruzadas com o Pentateuco
 
@@ -218,14 +218,14 @@ Ver [[raw/biblia-acf/hebreus/13]].
 | Hb 12:5–11 — correção do Senhor; "Pai dos espíritos" | **ESE cap. V, item 12**; LE q. 258; LE q. 1 (Deus causa primária); [[wiki/conceitos/provas-e-expiacoes]] |
 | Hb 12:22–23 — "espíritos dos justos aperfeiçoados" | LE Parte 2 cap. I (escala espírita); [[wiki/conceitos/escala-espirita]] |
 | Hb 13:2 — hospedar anjos sem saber | **LE q. 128**; Gênese cap. XI (identificação anjos = Espíritos) |
-| Hb 13:4 — casamento venerado | LE q. 686–701 ([[wiki/conceitos/lei-de-reproducao]]); tensão com 1 Co 7 |
+| Hb 13:4 — casamento venerado | LE q. 686–701 ([[wiki/conceitos/leis-morais/lei-de-reproducao]]); tensão com 1 Co 7 |
 | Hb 13:8 — Jesus o mesmo ontem, hoje e eternamente | LE q. 625; [[wiki/obras/a-caminho-da-luz]] (direção espiritual permanente da Terra) |
 | Hb 13:16 — "com tais sacrifícios Deus se agrada" | ESE cap. XV; LE q. 651 (adoração interior > exterior) |
 
 ## Conceitos tratados
 
 - [[wiki/conceitos/anjos]] — Hb 1:14 ("espíritos ministradores") e 13:2 (hospedar anjos sem saber) como base NT direta.
-- [[wiki/conceitos/lei-natural]] / [[wiki/conceitos/lei-moral]] — Hb 8:10 (nova aliança com a lei escrita no coração).
+- [[wiki/conceitos/lei-natural]] / [[wiki/conceitos/leis-morais]] — Hb 8:10 (nova aliança com a lei escrita no coração).
 - [[wiki/conceitos/fe]] / [[wiki/conceitos/fe-raciocinada]] — Hb 11:1, 6 (definição matriz).
 - [[wiki/conceitos/provas-e-expiacoes]] — Hb 2:10; 12:5–11 (correção pedagógica).
 - [[wiki/conceitos/bem-aventuranca-dos-aflitos]] — Hb 12:11 (o fruto da correção é paz e justiça).
@@ -234,7 +234,7 @@ Ver [[raw/biblia-acf/hebreus/13]].
 - [[wiki/conceitos/escala-espirita]] — Hb 12:22–23 ("espíritos dos justos aperfeiçoados").
 - [[wiki/conceitos/reencarnacao]] / [[wiki/conceitos/pluralidade-das-existencias]] — Hb 9:27 (contraposição clássica; ver divergência).
 - [[wiki/conceitos/tres-revelacoes]] — Hb 8:11 ("todos me conhecerão"); universalismo.
-- [[wiki/conceitos/lei-de-reproducao]] — Hb 13:4.
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — Hb 13:4.
 - [[wiki/conceitos/caridade]] — Hb 10:24; 13:1–3, 16.
 - [[wiki/conceitos/arrependimento]] / [[wiki/conceitos/codigo-penal-da-vida-futura]] — Hb 6:4–6; 10:26–27 (ver divergência).
 - [[wiki/conceitos/resignacao]] — Hb 12:5–11.

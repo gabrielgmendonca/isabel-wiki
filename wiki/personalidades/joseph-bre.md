@@ -45,7 +45,7 @@ Mensagem final, que Kardec preserva como regra prática:
 - [[wiki/obras/ceu-e-inferno]] — obra que abriga o caso
 - [[wiki/conceitos/expiacao]] · [[wiki/conceitos/expiacao-e-reparacao]] — quadro doutrinário de sua situação
 - [[wiki/conceitos/arrependimento]] — eixo emocional de seu depoimento
-- [[wiki/conceitos/lei-moral]] · [[wiki/conceitos/lei-do-trabalho]] — leis que ele identifica como descumpridas por omissão
+- [[wiki/conceitos/leis-morais]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]] — leis que ele identifica como descumpridas por omissão
 - [[wiki/conceitos/caridade]] — critério positivo da honestidade diante de Deus
 
 ## Fontes

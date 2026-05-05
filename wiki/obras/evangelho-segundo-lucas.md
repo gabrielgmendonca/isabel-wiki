@@ -43,7 +43,7 @@ Na leitura espírita, Lucas complementa Mateus em três frentes: (1) oferece a n
 **Cap. 5 — Pesca milagrosa; cura do leproso e do paralítico; chamado de Levi.** "Dize somente uma palavra, e a minha alma sarará" — a fé como disposição moral. Chamado de Levi (Mateus) e refeição com publicanos (Lc 5:27–32): "não vim chamar os justos, mas os pecadores, ao arrependimento". Ver [[raw/biblia-acf/lucas/5]].
 
 **Cap. 6 — Sábado, escolha dos doze, Sermão da Planície.** Primado da caridade sobre o ritual: "é lícito no sábado fazer bem" (Lc 6:9). Escolha dos doze apóstolos (Lc 6:12–16). **Sermão da Planície** (Lc 6:17–49): bem-aventuranças e "ais" correspondentes (Lc 6:20–26), amor aos inimigos (Lc 6:27–36), regra de ouro (Lc 6:31), "não julgueis" (Lc 6:37), árvore pelos frutos (Lc 6:43–45), casa sobre a rocha (Lc 6:46–49). Ver [[raw/biblia-acf/lucas/6]].
-- **Conceitos:** [[wiki/conceitos/bem-aventurancas]], [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/bem-aventurancas]], [[wiki/conceitos/parabola-da-casa-sobre-a-rocha]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 ### Ministério em expansão (caps. 7–9)
 
@@ -163,7 +163,7 @@ Bloco narrativo próprio de Lucas com parábolas exclusivas.
 
 ## Conceitos tratados
 
-- [[wiki/conceitos/bem-aventurancas]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/caridade]]
+- [[wiki/conceitos/bem-aventurancas]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/caridade]]
 - [[wiki/conceitos/parabola-do-bom-samaritano]] · [[wiki/conceitos/parabola-do-rico-insensato]] · [[wiki/conceitos/parabola-do-mau-rico]]
 - [[wiki/conceitos/parabola-da-ovelha-perdida]] · [[wiki/conceitos/parabola-da-dracma-perdida]] · [[wiki/conceitos/parabola-do-filho-prodigo]]
 - [[wiki/conceitos/parabola-do-mordomo-infiel]] · [[wiki/conceitos/parabola-do-juiz-iniquo]] · [[wiki/conceitos/parabola-do-fariseu-e-do-publicano]]

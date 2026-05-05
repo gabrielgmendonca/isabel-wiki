@@ -62,7 +62,7 @@ Gêmea de "Sede perfeitos como o vosso Pai celestial é perfeito" (Mt 5:48; ESE 
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-natural]]
 - [[wiki/conceitos/homem-velho-homem-novo]] — moldura paulina da reforma íntima
 - [[wiki/obras/epistola-aos-efesios]] — Ef 4:22–24; 5:1–2
 

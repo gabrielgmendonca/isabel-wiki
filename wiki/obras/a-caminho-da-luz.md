@@ -103,7 +103,7 @@ Emmanuel apresenta o Espiritismo como a força moral capaz de restaurar o Cristi
 - [[wiki/conceitos/progresso-espiritual]] — a marcha ascendente das civilizações
 - [[wiki/conceitos/reencarnacao]] — sustentáculo do ciclo de degredo e retorno
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — Capela e os mundos do sistema solar
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — consequências cármicas coletivas
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — consequências cármicas coletivas
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo
 
 ## Aprofundamentos relacionados

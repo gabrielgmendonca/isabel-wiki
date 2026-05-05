@@ -62,7 +62,7 @@ O "sacrifício de Cristo" tem valor **moral e pedagógico** — exemplo do amor 
 
 ### 4. A "Lei" e a "maldição" relidas em chave kardequiana
 
-Para Kardec, a **Lei** que **maldiz** quem nela falta não é instrumento de Deus para punir antes de Cristo — é descrição da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] enquanto regime moral. A "maldição" sobre o homem que falta à Lei é simplesmente o **efeito moral natural** das suas más ações sobre seu próprio Espírito. **Cristo não desativa** essa lei (que é constitutiva da justiça divina, [[wiki/obras/genese|Gênese]] cap. I, itens 14–16) — ele **mostra a saída** pelo caminho moral concreto, e oferece auxílio fluídico contínuo a quem se alinha à sua moral.
+Para Kardec, a **Lei** que **maldiz** quem nela falta não é instrumento de Deus para punir antes de Cristo — é descrição da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] enquanto regime moral. A "maldição" sobre o homem que falta à Lei é simplesmente o **efeito moral natural** das suas más ações sobre seu próprio Espírito. **Cristo não desativa** essa lei (que é constitutiva da justiça divina, [[wiki/obras/genese|Gênese]] cap. I, itens 14–16) — ele **mostra a saída** pelo caminho moral concreto, e oferece auxílio fluídico contínuo a quem se alinha à sua moral.
 
 ## Análise
 
@@ -132,7 +132,7 @@ A divergência é com a **literalização jurídica** que substitui o caminho pr
 
 **Aberta.** A divergência é real e particularmente aguda — mais aguda do que a de 1 João ou de 1 Pedro, porque Gl 3:13 é a passagem **mais explicitamente substitutiva** do NT. É **mitigada** internamente pela própria carta — Gl 5:6 ("fé que opera pelo amor") e Gl 6:7–8 ("o que o homem semear, isso também ceifará") **bloqueiam** a leitura substitutiva radical à letra do próprio Paulo. A leitura paulina coerente, em chave espírita, é a **antijudaizante**: Cristo libera a humanidade do regime cerimonial da Lei mosaica e abre o caminho da fé viva — sem dispensar a reparação, sem substituir a colheita pelo bem semeado.
 
-A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia, modelo e auxiliar fluídico no progresso moral (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação penal substitutiva — radicalizada por Lutero a partir desta passagem — que dispensa, em qualquer grau, a [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
+A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia, modelo e auxiliar fluídico no progresso moral (cf. ESE Introdução); (b) recusar firmemente a teologia da expiação penal substitutiva — radicalizada por Lutero a partir desta passagem — que dispensa, em qualquer grau, a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e a reparação pessoal pelo Espírito faltoso.
 
 ### Relação com outras divergências
 
@@ -154,7 +154,7 @@ A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia, m
 - [[wiki/obras/genese]] — cap. I, itens 14–16 (imutabilidade das leis morais); cap. XI (raça adâmica)
 - [[wiki/obras/obras-postumas]] — "Estudo sobre a natureza do Cristo"
 - [[wiki/obras/epistola-de-tiago]] — Tg 2:14–24 e a tensão luterana com Gl 3:13
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — Gl 6:7–8 como contraprova interna da própria carta
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — Gl 6:7–8 como contraprova interna da própria carta
 - [[wiki/conceitos/arrependimento]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/expiacao-e-reparacao]]

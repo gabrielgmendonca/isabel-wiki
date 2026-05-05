@@ -43,7 +43,7 @@ Compreender a expiação à luz espírita transforma a visão sobre o sofrimento
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/codigo-penal-da-vida-futura]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 
 ## Fontes

@@ -1,4 +1,5 @@
 ---
+title: "Lei de destruição"
 tipo: conceito
 fontes: [LE, André Luiz/Chico Xavier]
 tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sociedade]
@@ -44,7 +45,7 @@ O desenvolvimento intelectual **não implica necessariamente** a prática do bem
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-conservacao]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-do-progresso]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-conservacao]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 - [[wiki/obras/nosso-lar]] — guerra mundial vista do plano espiritual (caps. 24, 42, 43)
 
 ## Fontes

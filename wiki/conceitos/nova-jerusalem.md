@@ -40,7 +40,7 @@ Detalhe doutrinariamente decisivo:
 
 > "E nela não vi templo, porque o seu templo é o Senhor Deus Todo-Poderoso, e o Cordeiro." (Ap 21:22)
 
-A ausência de templo na nova Jerusalém é **ruptura programática** com toda forma de mediação cerimonial. Convergência **direta** com a [[wiki/conceitos/lei-de-adoracao|Lei de Adoração]] kardequiana (LE q. 649–673): a verdadeira adoração é **interior**, não cerimonial; não exige templos físicos, sacerdotes intermediários ou rituais codificados. Em Ap 21:23, *"a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem iluminado"* — leitura espírita: a fase nova da humanidade dispensa as **luzes derivadas** (instituições religiosas como mediadoras) porque alcança comunhão direta com o plano espiritual.
+A ausência de templo na nova Jerusalém é **ruptura programática** com toda forma de mediação cerimonial. Convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] kardequiana (LE q. 649–673): a verdadeira adoração é **interior**, não cerimonial; não exige templos físicos, sacerdotes intermediários ou rituais codificados. Em Ap 21:23, *"a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem iluminado"* — leitura espírita: a fase nova da humanidade dispensa as **luzes derivadas** (instituições religiosas como mediadoras) porque alcança comunhão direta com o plano espiritual.
 
 ### Universalidade da regeneração
 
@@ -87,7 +87,7 @@ A imagem não tem paralelo direto na Codificação, mas converge funcionalmente 
 
 ### "Eis que faço novas todas as coisas" (21:5)
 
-A frase resume o sentido kardequiano da [[wiki/conceitos/lei-do-progresso|Lei do Progresso]]: a renovação não é restauração de um estado inicial perdido (paradigma Edênico do AT), é **emergência de uma fase superior** que a humanidade alcança pela marcha cumulativa do progresso (LE q. 776–800). O verbo no presente contínuo (*"faço"*, gr. *poiō*) sugere ação contínua, não evento único.
+A frase resume o sentido kardequiano da [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]]: a renovação não é restauração de um estado inicial perdido (paradigma Edênico do AT), é **emergência de uma fase superior** que a humanidade alcança pela marcha cumulativa do progresso (LE q. 776–800). O verbo no presente contínuo (*"faço"*, gr. *poiō*) sugere ação contínua, não evento único.
 
 ## Aplicação prática
 
@@ -102,8 +102,8 @@ Em estudos e palestras, a "nova Jerusalém" é instrumento útil para:
 - [[wiki/conceitos/transicao-planetaria]] — processo do qual a nova Jerusalém é o horizonte.
 - [[wiki/conceitos/mundos-regeneradores]] — categoria à qual a Terra ascende.
 - [[wiki/conceitos/geracao-nova]] — Espíritos que protagonizam a edificação.
-- [[wiki/conceitos/lei-do-progresso]] — lei subjacente à renovação.
-- [[wiki/conceitos/lei-de-adoracao]] — fim da intermediação ritualística (Ap 21:22).
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — lei subjacente à renovação.
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — fim da intermediação ritualística (Ap 21:22).
 - [[wiki/conceitos/vida-espirita]] — comunhão direta com o plano espiritual.
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] — mecanismo de troca de populações na transição.
 - [[wiki/obras/apocalipse]] — passagem-fonte (caps. 21–22).

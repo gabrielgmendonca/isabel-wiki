@@ -40,7 +40,7 @@ Ver [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
 A Humanidade, em seu conjunto, progride — embora em meio a abusos e recuos aparentes. "Faz-se mister que o mal chegue ao excesso, para tornar compreensível a necessidade do bem e das reformas." (LE, q. 784)
 
-Ver [[wiki/conceitos/lei-do-progresso]].
+Ver [[wiki/conceitos/leis-morais/lei-do-progresso]].
 
 ## Desenvolvimento por Léon Denis
 
@@ -64,7 +64,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
+- [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/leis-morais/lei-do-progresso]] · [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
 
 ## Fontes
 

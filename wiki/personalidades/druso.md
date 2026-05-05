@@ -41,7 +41,7 @@ A obra fecha com a **revelação tríplice** (cap. 20): Druso é pai pretérito 
 
 - [[wiki/personalidades/silas]] — filho da última encarnação, Assistente da Mansão
 - [[wiki/personalidades/andre-luiz]] — discípulo em estágio
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — eixo de seu ensino
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — eixo de seu ensino
 - [[wiki/conceitos/umbral]] — campo de atuação
 - [[wiki/conceitos/dor]] — tipologia tríplice exposta por Druso (cap. 19)
 - [[wiki/conceitos/planejamento-reencarnatorio]] — regime de sanções e resgates coletivos

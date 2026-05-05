@@ -51,7 +51,7 @@ Apoiado em LE q. 851 ("a fatalidade existe unicamente pela escolha que o Espíri
 ## Páginas relacionadas
 
 - [[wiki/conceitos/livre-arbitrio]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/parabola-dos-talentos]]
 - [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/perfeicao-moral]]

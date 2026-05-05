@@ -67,7 +67,7 @@ A obra contém **duas partes de 14 capítulos cada**, narradas em primeira pesso
 - **Sexualidade como construtora de destino.** O desejo sexual mal sublimado fixa o perispírito a faixas vibratórias inferiores, atrai vampirizadores e constrange escolhas reencarnatórias (laços de sangue, casamentos infelizes, dramas familiares prolongados).
 - **[[wiki/conceitos/possessao-partilhada|Possessão partilhada]].** Conceito cunhado por André Luiz na obra (Parte 1, cap. 8): obsessor desencarnado e encarnado se sintonizam por afinidade total ao ponto de constituírem "dois seres num corpo só", compartilhando sensações e responsabilidade.
 - **Sexualidade no escalonamento evolutivo.** "Quanto mais se eleva a criatura, mais se capacita de que o uso do sexo demanda discernimento pelas responsabilidades que acarreta" (Parte 2, cap. 5). O sexo não é "baliza morfológica" — é "atributo divino na individualidade humana".
-- **Casamento e afeto verdadeiro.** Eco direto de [[wiki/conceitos/lei-de-reproducao|LE q. 695, 701]]: o casamento sem afeto é ligação humana, não divina, e abre porta a obsessão e ciclos cármicos prolongados.
+- **Casamento e afeto verdadeiro.** Eco direto de [[wiki/conceitos/leis-morais/lei-de-reproducao|LE q. 695, 701]]: o casamento sem afeto é ligação humana, não divina, e abre porta a obsessão e ciclos cármicos prolongados.
 - **Reabilitação por amor encarnado.** Reencarnação como "segundo tempo da partida" (Parte 2, cap. 1): cada vida é uma chance de reescrever os laços do grupo familiar.
 - **Lares espirituais como contraponto ao caos terreno.** O "Almas Irmãs" — colônia socorrista — é cenário recorrente; mostra o plano espiritual organizado por leis de afinidade, trabalho e estudo, em contraste com o desgoverno passional dos encarnados.
 - **Vampirizadores e obsessores como agentes da queda.** A obra distingue claramente vampirização (extração de vitalidade) e obsessão (domínio mental), em continuidade com [[wiki/conceitos/vampirismo-espiritual]] e [[wiki/conceitos/obsessao]].
@@ -94,7 +94,7 @@ Pontos-chave da fala de Félix:
 - [[wiki/conceitos/possessao-partilhada]] — conceito cunhado nesta obra
 - [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus (LM cap. XXIII)
 - [[wiki/conceitos/vampirismo-espiritual]] — extração de vitalidade
-- [[wiki/conceitos/lei-de-reproducao]] — afeto como fundamento do casamento (LE q. 695, 701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — afeto como fundamento do casamento (LE q. 695, 701)
 - [[wiki/conceitos/reencarnacao]] — segundo tempo da partida; resgate familiar
 - [[wiki/conceitos/perispirito]] — substrato da sintonia entre planos
 - [[wiki/conceitos/colonia-espiritual]] — "Almas Irmãs" como instituição socorrista

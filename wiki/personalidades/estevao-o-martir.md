@@ -51,7 +51,7 @@ Três aspectos tornam Estêvão especialmente significativo para o estudo espír
 - [[wiki/conceitos/emancipacao-da-alma]]
 - [[wiki/personalidades/paulo-de-tarso]] — testemunha da morte; possível reparador
 - [[wiki/personalidades/jesus]] — modelo do perdão aos algozes
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ## Fontes
 

@@ -125,9 +125,9 @@ Nenhuma mitigação dissolve o fato de que o literalismo do texto serviu, por s�
 
 - [[wiki/obras/epistola-aos-efesios]] — Ef 6:5–9
 - [[wiki/obras/livro-dos-espiritos]] — q. 803–824 (Lei de Igualdade); q. 825–872 (Lei de Liberdade)
-- [[wiki/conceitos/lei-de-igualdade]]
-- [[wiki/conceitos/lei-de-liberdade]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]]
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/divergencias/condicao-feminina-nas-paulinas]]
 - [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]]
 - [[wiki/personalidades/paulo-de-tarso]]

@@ -27,7 +27,7 @@ Ainda sob a impressão da morte trágica, revelou que, dois séculos antes, fora
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/reencarnacao]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/fe-raciocinada]]
 
 ## Fontes

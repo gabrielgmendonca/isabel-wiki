@@ -44,12 +44,12 @@ A explicação para a desigualdade aparente e o mecanismo do progresso.
 
 ### 5. Lei de causa e efeito
 Toda ação produz consequência proporcional, no plano físico e moral. Base da justiça divina.
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ### 6. As leis morais
 O núcleo prático: o que Deus espera do homem.
-- [[wiki/conceitos/lei-moral]] — panorama das 10 leis.
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — a lei que resume todas.
+- [[wiki/conceitos/leis-morais]] — panorama das 10 leis.
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — a lei que resume todas.
 
 ### 7. Jesus, modelo moral
 A Doutrina reconhece em Jesus o tipo mais perfeito oferecido ao homem. Seus ensinos morais são a fundação sobre a qual Kardec construiu o ESE.

@@ -65,7 +65,7 @@ A metáfora reorganiza a hierarquia de prioridades na formação do médium:
 - [[wiki/conceitos/mediunidade]] — eixo central que esta metáfora reorganiza
 - [[wiki/aprofundamentos/por-que-mediuns-falham]] — análise da preleção de Telésforo (caps. 5-6) e dos casos paradigmáticos
 - [[wiki/conceitos/mercantilizacao-da-mediunidade]] — caso Acelino: a carta viva pervertida em palpiteiro
-- [[wiki/conceitos/lei-do-trabalho]] — mediunidade como ocupação espiritual responsável
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — mediunidade como ocupação espiritual responsável
 - [[wiki/personalidades/aniceto]] — instrutor titular do Centro de Mensageiros
 - [[wiki/obras/os-mensageiros]] — cap. 3
 

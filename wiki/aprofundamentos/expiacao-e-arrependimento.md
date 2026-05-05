@@ -350,7 +350,7 @@ Material curado na wiki para ilustrar cada eixo da tríade arrependimento–expi
 
 - [[wiki/conceitos/reencarnacao]] — instrumento de reparação e progresso; o Espírito reencontra aqueles a quem prejudicou.
 - [[wiki/conceitos/progresso-espiritual]] — finalidade da criação; lei que rege todas as criaturas.
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — fundamento moral da reparação.
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — fundamento moral da reparação.
 - [[wiki/conceitos/perfeicao-moral]] — o combate ao egoísmo e ao orgulho.
 - [[wiki/conceitos/caridade]] — virtude ativa de amor ao próximo; caridade pelos desencarnados via prece.
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — desprendimento dos bens materiais; generosidade em vida.

@@ -50,7 +50,7 @@ O cap. XVII do ESE é frequentemente utilizado em estudos sistemáticos e grupos
 - [[wiki/conceitos/homem-velho-homem-novo]] — moldura paulina do esforço (Rm 6; Ef 4:22–24; Cl 3:9–10)
 - [[wiki/conceitos/armadura-de-deus]] — disciplina ativa que o homem de bem reveste (Ef 6:10–17)
 - [[wiki/conceitos/caridade]] — a virtude central do homem de bem
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — a lei que o homem de bem pratica
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — a lei que o homem de bem pratica
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] — desinteresse como traço do homem de bem
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XVII
 - [[wiki/obras/livro-dos-espiritos]] — q. 893–919

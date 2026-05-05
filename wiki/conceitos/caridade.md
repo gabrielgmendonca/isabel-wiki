@@ -93,7 +93,7 @@ A definição mínima de religião que Tiago oferece é **caridade prática + in
 
 ### A acepção de pessoas como ruptura da caridade (Tg 2:1–9)
 
-Tiago descreve cena cotidiana: na assembleia entra um rico de anel de ouro e um pobre de vestes sórdidas; tratá-los diferentemente é "fazer-se juízes de maus pensamentos" (2:4) e quebrar a "lei real" — *amarás a teu próximo como a ti mesmo* (2:8). A caridade de Tiago não admite hierarquia social: onde há acepção de pessoas, **a caridade já está corrompida**, ainda que não tenha sido nomeada como tal. Convergência com At 10:34, com [[wiki/conceitos/lei-de-igualdade]] (LE q. 803–824) e com a moral de Jesus.
+Tiago descreve cena cotidiana: na assembleia entra um rico de anel de ouro e um pobre de vestes sórdidas; tratá-los diferentemente é "fazer-se juízes de maus pensamentos" (2:4) e quebrar a "lei real" — *amarás a teu próximo como a ti mesmo* (2:8). A caridade de Tiago não admite hierarquia social: onde há acepção de pessoas, **a caridade já está corrompida**, ainda que não tenha sido nomeada como tal. Convergência com At 10:34, com [[wiki/conceitos/leis-morais/lei-de-igualdade]] (LE q. 803–824) e com a moral de Jesus.
 
 ### A fé sem obras é morta (Tg 2:14–17)
 
@@ -111,7 +111,7 @@ A [[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]] formula a
 
 > "E nós conhecemos, e cremos no amor que Deus nos tem. **Deus é amor**; e quem está em amor está em Deus, e Deus nele." (1 Jo 4:16)
 
-A fórmula joanina **não diz** que Deus tem amor ou que ama — diz que Deus **é** amor: a substância do agir divino. Em chave kardequiana, é o reverso operacional da máxima "fora da caridade não há salvação" (ESE cap. XV): conhecer Deus se mede pela prática efetiva do amor ao próximo. Quem ama **conhece** Deus — não em sentido especulativo, mas em sentido **moral e existencial**. Convergência total com LE q. 13 (Deus como soberana bondade) e com a [[wiki/conceitos/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
+A fórmula joanina **não diz** que Deus tem amor ou que ama — diz que Deus **é** amor: a substância do agir divino. Em chave kardequiana, é o reverso operacional da máxima "fora da caridade não há salvação" (ESE cap. XV): conhecer Deus se mede pela prática efetiva do amor ao próximo. Quem ama **conhece** Deus — não em sentido especulativo, mas em sentido **moral e existencial**. Convergência total com LE q. 13 (Deus como soberana bondade) e com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
 
 Sobre o vocabulário: a ACF traduz como **"amor"** o mesmo *agape* grego que Kardec, seguindo a Vulgata e o francês Segond, cita como **"caridade"** (cf. nota filológica acima). Em 1 João, *agape* aparece ~50 vezes em 105 versículos — a carta é, no NT, **a mais densa em vocabulário do amor**.
 
@@ -141,7 +141,7 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — a lei moral que fundamenta a caridade
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — a lei moral que fundamenta a caridade
 - [[wiki/conceitos/perfeicao-moral]] — a caridade como caminho da perfeição
 - [[wiki/conceitos/homem-de-bem]] — o retrato moral do praticante da caridade
 - [[wiki/conceitos/parabola-do-bom-samaritano]] — exemplo máximo de caridade

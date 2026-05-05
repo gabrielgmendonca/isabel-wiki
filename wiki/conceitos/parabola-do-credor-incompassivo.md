@@ -38,7 +38,7 @@ A parábola convida ao exame de consciência: em quantas situações somos deved
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/prece]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
 

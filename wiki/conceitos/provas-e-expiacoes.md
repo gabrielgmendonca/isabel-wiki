@@ -60,7 +60,7 @@ Distinguir prova de expiação ajuda a evitar dois extremos comuns: culpar a si 
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/conceitos/erraticidade]]
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/progresso-espiritual]]
 
 ## Fontes

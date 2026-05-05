@@ -27,7 +27,7 @@ Perturbação breve apesar do apego à vida. Reconheceu-se feliz e curada logo a
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/desligamento-do-espirito]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ## Fontes
 

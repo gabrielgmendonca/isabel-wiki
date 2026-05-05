@@ -146,7 +146,7 @@ Kardec prevalece: livre-arbítrio como fundamento da responsabilidade moral (LE 
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. V (bem-aventurados os aflitos — provas escolhidas pelo Espírito)
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/conceitos/provas-e-expiacoes]]
-- [[wiki/conceitos/lei-de-liberdade]]
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]]
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/responsabilidade]]
 - [[wiki/divergencias/pecado-original-em-romanos-5]]

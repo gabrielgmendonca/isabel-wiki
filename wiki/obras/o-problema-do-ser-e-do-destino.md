@@ -103,7 +103,7 @@ Compilação de declarações de cientistas favoráveis à realidade dos fenôme
 - [[wiki/conceitos/perispirito]] · [[wiki/conceitos/espirito]] · [[wiki/conceitos/alma]]
 - [[wiki/conceitos/morte]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/erraticidade]]
 - [[wiki/conceitos/emancipacao-da-alma]]
-- [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/potencias-da-alma]] · [[wiki/conceitos/dor]]
 - [[wiki/conceitos/mediunidade]]

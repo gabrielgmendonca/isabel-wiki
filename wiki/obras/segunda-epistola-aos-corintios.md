@@ -58,7 +58,7 @@ A **consolação** paulina não é anestesia: é capacitação para consolar. Qu
 
 Kardec aplica o critério à própria leitura dos Evangelhos: a letra (texto histórico, formulação cultural, alegoria, interpolação) **passa**; o espírito (sentido moral profundo, lei divina inscrita na consciência) **permanece e vivifica**. É o fundamento epistemológico da hermenêutica espírita — sem ele, a Doutrina cairia ou no literalismo dogmático ou no relativismo arbitrário.
 
-**(c) O véu sobre o coração (3:14–18).** "Até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido" (3:14); "quando se converterem ao Senhor, então o véu se tirará" (3:16). Paulo lê **alegoricamente** o véu de Moisés (Êx 34:33–35) como cifra da incompreensão das escrituras enquanto não houver conversão moral. "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade" (3:17) — articulação entre verdade interior, espírito e liberdade, coerente com ESE cap. XIX (fé raciocinada) e com a [[wiki/conceitos/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872). "**Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor**" (3:18) — formulação paulina do progresso espiritual ascendente "de glória em glória". Ver [[raw/biblia-acf/2-corintios/3]].
+**(c) O véu sobre o coração (3:14–18).** "Até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido" (3:14); "quando se converterem ao Senhor, então o véu se tirará" (3:16). Paulo lê **alegoricamente** o véu de Moisés (Êx 34:33–35) como cifra da incompreensão das escrituras enquanto não houver conversão moral. "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade" (3:17) — articulação entre verdade interior, espírito e liberdade, coerente com ESE cap. XIX (fé raciocinada) e com a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872). "**Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor**" (3:18) — formulação paulina do progresso espiritual ascendente "de glória em glória". Ver [[raw/biblia-acf/2-corintios/3]].
 - **Conceitos:** [[wiki/conceitos/cartas-vivas-de-jesus]], [[wiki/conceitos/tres-revelacoes]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/progresso-espiritual]]
 
 **Cap. 4 — Tesouro em vasos de barro; renovação interior; eterno vs. temporal.** "Não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus" (4:5) — desativação programática do culto à personalidade do apóstolo.
@@ -82,12 +82,12 @@ Em chave espírita: o "tabernáculo" (corpo físico) é morada provisória; a "c
 
 **"Andamos por fé, e não por vista" (5:7)** — formulação paulina da [[wiki/conceitos/fe-raciocinada|fé raciocinada]] como ação prática mesmo sem evidência sensorial direta. Não é fé cega: é confiança operativa nas leis invisíveis demonstráveis pelos efeitos.
 
-**"Todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal" (5:10)** — formulação paulina da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e da [[wiki/conceitos/responsabilidade|responsabilidade individual]]. Não há juízo por substituição nem por mérito alheio: "cada um" segundo "o que tiver feito".
+**"Todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal" (5:10)** — formulação paulina da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e da [[wiki/conceitos/responsabilidade|responsabilidade individual]]. Não há juízo por substituição nem por mérito alheio: "cada um" segundo "o que tiver feito".
 
 > "Assim que, se alguém está em Cristo, **nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo**." (2 Co 5:17)
 
 A "nova criatura" paulina é figura do Espírito em **renovação moral progressiva** — sintonizado à moral do Cristo, deixa para trás hábitos viciosos. "Reconciliação" (5:18–20) como ministério apostólico: "somos embaixadores da parte de Cristo". Em chave espírita, **missionariado moral** (ver [[wiki/conceitos/verdadeiro-espirita]]). Ver [[raw/biblia-acf/2-corintios/5]].
-- **Conceitos:** [[wiki/conceitos/perispirito]], [[wiki/conceitos/morte]], [[wiki/conceitos/vida-futura]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/lei-de-causa-e-efeito]], [[wiki/conceitos/responsabilidade]]
+- **Conceitos:** [[wiki/conceitos/perispirito]], [[wiki/conceitos/morte]], [[wiki/conceitos/vida-futura]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]], [[wiki/conceitos/responsabilidade]]
 
 **Cap. 6 — Ministros recomendados pelas aflições; jugo desigual.** Catálogo paulino das marcas do verdadeiro ministério: "muita paciência, aflições, necessidades, angústias, açoites, prisões, tumultos, trabalhos, vigílias, jejuns" (6:4–5) somadas a "pureza, ciência, longanimidade, benignidade, no Espírito Santo, no amor não fingido" (6:6). A **autoridade moral nasce da provação atravessada com retidão** — não dos títulos.
 
@@ -112,7 +112,7 @@ Cristo como modelo do **dom desinteressado**.
 
 > "[...] mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade." (2 Co 8:13–14)
 
-Princípio paulino da **circulação solidária dos bens** — eco direto da [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) e do "tudo lhes era comum" de At 4:32. Não é igualdade rígida nem comunismo de bens, mas **equilíbrio dinâmico** entre comunidades. Ver [[raw/biblia-acf/2-corintios/8]].
+Princípio paulino da **circulação solidária dos bens** — eco direto da [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) e do "tudo lhes era comum" de At 4:32. Não é igualdade rígida nem comunismo de bens, mas **equilíbrio dinâmico** entre comunidades. Ver [[raw/biblia-acf/2-corintios/8]].
 
 **Cap. 9 — A bênção da semeadura; Deus ama o que dá com alegria.**
 
@@ -125,7 +125,7 @@ Quatro princípios paulinos da caridade autêntica:
 4. **Liberalidade** (sem cálculo mesquinho).
 
 Convergência total com ESE cap. XIII (item 4 — "Dai gratuitamente o que gratuitamente recebestes") e com LE q. 888–890 (caridade como ato ativo e desinteressado). Ver [[raw/biblia-acf/2-corintios/9]].
-- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/lei-de-igualdade]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-igualdade]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 ### Apologia defensiva (caps. 10–13)
 
@@ -178,10 +178,10 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 8. **Discernimento dos espíritos** — "Satanás se transfigura em anjo de luz" (11:14) é o **alerta paulino mais forte do NT** sobre o engano por aparência luminosa. Critério complementar a 1 Jo 4:1 ("provai os espíritos") e a 1 Co 12:10 (dom do discernimento). Convergência total com LM, 2ª parte, cap. XXIV.
 9. **Êxtase e emancipação plena** — 12:1–4 (arrebatamento ao terceiro céu) é o relato neotestamentário mais explícito do **desdobramento profundo**, articulável com LE q. 400–418 e LM, 2ª parte, cap. XIX. A insegurança sobre o estado corporal ("se no corpo, não sei...") é descrição fenomenológica honesta.
 10. **Provas reparadoras pedagógicas** — "espinho na carne" (12:7–9) ensina três princípios convergentes com a doutrina espírita: a função pedagógica da prova, os limites da prece pelo desvio, e o paradoxo da força na fraqueza assumida. "Minha graça te basta" como resposta divina ao pedido de remoção da prova.
-11. **Caridade material organizada** — caps. 8–9 elaboram quatro princípios paulinos da caridade autêntica (proporcionalidade, voluntariedade, alegria, liberalidade) e introduzem o ideal de **igualdade dinâmica** entre comunidades (8:13–14). Convergência com a [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] e com a parábola do óbolo da viúva.
+11. **Caridade material organizada** — caps. 8–9 elaboram quatro princípios paulinos da caridade autêntica (proporcionalidade, voluntariedade, alegria, liberalidade) e introduzem o ideal de **igualdade dinâmica** entre comunidades (8:13–14). Convergência com a [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] e com a parábola do óbolo da viúva.
 12. **Arrependimento construtivo vs. remorso estéril** — 7:10 ("a tristeza segundo Deus opera arrependimento para a salvação, mas a tristeza do mundo opera a morte") distingue o arrependimento espírita (ato moral ativo que pede reparação) do remorso paralisante. Convergência total com LE q. 994 e ESE cap. X.
 13. **Cartas vivas de Cristo** — 3:2–3 é a base bíblica direta da metáfora retomada por André Luiz (*Os Mensageiros*, cap. 3) para o médium-missionário cuja "carta" é a própria vida moral. Ver [[wiki/conceitos/cartas-vivas-de-jesus]].
-14. **Renovação interior progressiva** — "ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia" (4:16). Formulação paulina do **progresso moral progressivo**, independente do declínio físico. Articulação com a [[wiki/conceitos/lei-do-progresso|Lei do Progresso]].
+14. **Renovação interior progressiva** — "ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia" (4:16). Formulação paulina do **progresso moral progressivo**, independente do declínio físico. Articulação com a [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]].
 
 ## Referências cruzadas com o Pentateuco
 
@@ -231,15 +231,15 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 - [[wiki/conceitos/arrependimento]] — 7:10 (tristeza segundo Deus vs. tristeza do mundo)
 - [[wiki/conceitos/expiacao-e-reparacao]] — 7:10 e 4:17 (utilidade redentora do sofrimento)
 - [[wiki/conceitos/caridade]] — caps. 8–9 (caridade material organizada)
-- [[wiki/conceitos/lei-de-igualdade]] — 8:13–14 (igualdade dinâmica entre comunidades)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — 5:10 (tribunal segundo o que cada um fez)
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — 8:13–14 (igualdade dinâmica entre comunidades)
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — 5:10 (tribunal segundo o que cada um fez)
 - [[wiki/conceitos/responsabilidade]] — 5:10 (cada um por si)
 - [[wiki/conceitos/humildade]] — 4:7 (vasos de barro); 12:9–10 (força na fraqueza)
 - [[wiki/conceitos/prece]] — 12:8–9 (três preces atendidas com graça suficiente, não com remoção da prova)
 - [[wiki/conceitos/dor]] — 1:3–7; 4:17–18; 12:7–10
 - [[wiki/conceitos/resignacao]] — 4:8–9; 6:4–10
 - [[wiki/conceitos/perfeicao-moral]] — 13:5, 11 ("sede perfeitos")
-- [[wiki/conceitos/lei-do-progresso]] — 3:18 (de glória em glória); 4:16 (renovação do homem interior)
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — 3:18 (de glória em glória); 4:16 (renovação do homem interior)
 - [[wiki/conceitos/mercantilizacao-da-mediunidade]] — 11:13 (falsos apóstolos como obreiros fraudulentos)
 
 ## Personalidades citadas

@@ -24,7 +24,7 @@ Kardec não dedica capítulo próprio à calúnia, mas a doutrina cobre o tema e
 
 **No paralelo bíblico**, At 5:1-11 (Ananias e Safira) e a história das pythonissas e exorcistas (At 16; 19) mostram como a falsidade pública é tratada com seriedade pelos apóstolos, ainda que sem o quadro doutrinário kardequiano da reparação. O caso de Ananias e Safira gera divergência aberta na wiki — ver [[wiki/divergencias/morte-de-ananias-e-safira]] (a morte fulminante por mentira é incompatível com a progressividade das penas em C&I 1ª parte).
 
-A consequência espiritual da calúnia, na chave do Pentateuco, segue a Lei de Causa e Efeito: o caluniador atrai a si o sofrimento moral correspondente — "carregaremos todos o nosso fardo" — e cria, para si, a obrigação de reparar (C&I, 1ª parte, cap. VII, item 16). Ver [[wiki/conceitos/lei-de-causa-e-efeito]] e [[wiki/conceitos/expiacao-e-reparacao]].
+A consequência espiritual da calúnia, na chave do Pentateuco, segue a Lei de Causa e Efeito: o caluniador atrai a si o sofrimento moral correspondente — "carregaremos todos o nosso fardo" — e cria, para si, a obrigação de reparar (C&I, 1ª parte, cap. VII, item 16). Ver [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] e [[wiki/conceitos/expiacao-e-reparacao]].
 
 ## A calúnia como "monstro invisível"
 
@@ -64,8 +64,8 @@ A figura é a **tutela inversa**: a vítima reconciliada se torna o instrumento 
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — fundamento doutrinário
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — consequência inevitável; o "monstro" volta ao caluniador
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — fundamento doutrinário
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — consequência inevitável; o "monstro" volta ao caluniador
 - [[wiki/conceitos/expiacao-e-reparacao]] — tríade arrependimento-expiação-reparação
 - [[wiki/conceitos/perturbacao]] — Paulo, dementado, ilustra o estado pós-morte do caluniador não reparado
 - [[wiki/conceitos/obsessao]] — calúnia recorrente abre canal a Espíritos da mesma índole

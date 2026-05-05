@@ -27,7 +27,7 @@ O guia Monod explicou que Angele representa aqueles que não praticam o mal, mas
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/perfeicao-moral]]

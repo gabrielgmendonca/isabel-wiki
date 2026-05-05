@@ -147,7 +147,7 @@ Notas complementares da FEB com citações de Allan Kardec (ESE) e de Emmanuel/C
 - [[wiki/conceitos/morte]] — desprendimento, perturbação, hora final
 - [[wiki/conceitos/erraticidade]] — vida no espaço entre encarnações
 - [[wiki/conceitos/livre-arbitrio]] — e providência divina
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — justiça divina sem tribunal
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — justiça divina sem tribunal
 - [[wiki/conceitos/provas-e-expiacoes]] — expiação na carne
 - [[wiki/conceitos/fluidos]] — matéria sutil, ação da vontade
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância única do Universo
@@ -160,8 +160,8 @@ Notas complementares da FEB com citações de Allan Kardec (ESE) e de Emmanuel/C
 - [[wiki/conceitos/orgulho]] — riqueza e pobreza
 - [[wiki/conceitos/fe]] — fé raciocinada no futuro
 - [[wiki/conceitos/resignacao]] — na adversidade
-- [[wiki/conceitos/lei-do-trabalho]] — lei universal
-- [[wiki/conceitos/lei-moral]] — prescrições do dever
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — lei universal
+- [[wiki/conceitos/leis-morais]] — prescrições do dever
 - [[wiki/conceitos/suicidio]] — consequências terríveis
 - [[wiki/conceitos/escala-espirita]] — classificação dos espíritos
 - [[wiki/conceitos/penas-e-gozos-futuros]] — situação dos espíritos

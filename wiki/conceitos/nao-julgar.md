@@ -22,7 +22,7 @@ Kardec dedica o capítulo X do [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]
 
 Kardec sublinha três aspectos:
 
-1. **Reciprocidade do critério** (item 14 do cap. X). "A medida com que medirdes vos medirão a vós também" — o orgulho julgador escolhe, sem perceber, a medida que será aplicada a si próprio. É **lei de causa e efeito** aplicada à esfera moral do juízo: julgamentos severos atraem julgamentos severos; indulgência atrai indulgência. Convergência com [[wiki/conceitos/lei-de-causa-e-efeito]] e com a [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35), em que o credor que não perdoou é por sua vez não perdoado.
+1. **Reciprocidade do critério** (item 14 do cap. X). "A medida com que medirdes vos medirão a vós também" — o orgulho julgador escolhe, sem perceber, a medida que será aplicada a si próprio. É **lei de causa e efeito** aplicada à esfera moral do juízo: julgamentos severos atraem julgamentos severos; indulgência atrai indulgência. Convergência com [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] e com a [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35), em que o credor que não perdoou é por sua vez não perdoado.
 
 2. **A trave e o argueiro** (item 9 do cap. X — "Sede indulgentes"). A imagem de Jesus é hiperbólica e exata: julgar o defeito alheio sem ver o próprio é **ridículo antes de ser injusto**. Kardec amplia: "o homem que com a maior severidade examina a sua própria conduta, é, por toda a parte, indulgente para com a do próximo". A indulgência é fruto natural da **lucidez sobre si**.
 
@@ -99,7 +99,7 @@ A casa espírita é lugar onde o preceito é cotidianamente exigido. Algumas apl
 - [[wiki/conceitos/parabola-do-fariseu-e-do-publicano]] — o orgulho do julgador vs. a humildade do penitente (Lc 18:9–14).
 - [[wiki/conceitos/humildade]] — fundamento subjetivo do não julgar.
 - [[wiki/conceitos/caridade]] — manifestação prática do não julgar como indulgência.
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — moldura doutrinária.
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — moldura doutrinária.
 - [[wiki/conceitos/arrependimento]] — eco da palavra de Jesus à mulher adúltera ("vai-te, e não peques mais").
 - [[wiki/conceitos/livre-arbitrio]] — Rm 14:12 (cada um dará conta de si mesmo a Deus).
 - [[wiki/conceitos/discernimento-dos-espiritos]] — distinção entre julgar pessoas e discernir espíritos.

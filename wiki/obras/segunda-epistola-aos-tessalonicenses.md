@@ -15,7 +15,7 @@ status: ativo
 - **Autor:** [[wiki/personalidades/paulo-de-tarso|Paulo de Tarso]], em coautoria explícita com [[wiki/personalidades/silvano|Silvano]] e [[wiki/personalidades/timoteo|Timóteo]] (2 Ts 1:1) — o mesmo trio missionário da [[wiki/obras/primeira-epistola-aos-tessalonicenses|1 Tessalonicenses]]. Escrita provavelmente de **Corinto**, c. 51–52 d.C., poucos meses após a primeira carta, ainda no contexto da segunda viagem missionária ([[wiki/obras/atos-dos-apostolos|At]] 18:1–18). A nota autógrafa final ("**saudação da minha própria mão, de mim, Paulo, que é o sinal em todas as epístolas; assim escrevo**", 3:17) é o registro neotestamentário mais explícito da prática paulina de **ditar ao escriba e assinar de próprio punho** — detalhe filológico relevante para a discussão da autoria do corpus.
 - **Destinatário:** "À igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo" (1:1) — a mesma comunidade jovem da [[wiki/obras/primeira-epistola-aos-tessalonicenses|1 Tessalonicenses]], agora em estado mais agudo de **inquietação escatológica**: alguns acreditavam que o "dia de Cristo" já tinha chegado, motivados por "espírito, palavra ou epístola, como de nós" (2:2). A 2 Ts existe para corrigir a leitura ansiosa, refrear o ócio que ela alimentava (3:6–13) e devolver a comunidade à disciplina cotidiana.
 - **Título:** Segunda Epístola do Apóstolo Paulo aos Tessalonicenses (Bíblia ACF — Almeida Corrigida e Fiel).
-- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico. Citado seletivamente por Kardec; lido à luz do Pentateuco. Cap. 3 contém a **passagem-âncora paulina sobre dignidade do trabalho** ("se alguém não quiser trabalhar, não coma também", 3:10), de relevância maior para o estudo da [[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]].
+- **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico. Citado seletivamente por Kardec; lido à luz do Pentateuco. Cap. 3 contém a **passagem-âncora paulina sobre dignidade do trabalho** ("se alguém não quiser trabalhar, não coma também", 3:10), de relevância maior para o estudo da [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]].
 - **Capítulos:** 3 (47 versículos no total — a paulina mais curta do corpus, com Filemom).
 - **Texto integral:** [[raw/biblia-acf/2-tessalonicenses/1]] · [[raw/biblia-acf/2-tessalonicenses/2]] · [[raw/biblia-acf/2-tessalonicenses/3]].
 
@@ -41,7 +41,7 @@ Passagens-chave aproveitadas ou debatidas pelo Espiritismo: **2 Ts 1:5–10** (j
 > A leitura espírita **recusa duas formulações** da escatologia paulina deste capítulo:
 >
 > 1. **Eternidade das penas.** [[wiki/obras/livro-dos-espiritos|LE]] q. 1009 fixa que "as penas dos Espíritos são variáveis, segundo a sua perversidade", e em q. 1003–1011 Kardec afirma claramente que **toda pena é corretiva, não retributiva**, e que **nenhuma é eterna** — Deus é justo e bom (q. 13, 621–622), e a expiação que não terminasse jamais seria injustiça absoluta. ESE cap. VII ("Bem-aventurados os pobres de espírito") item 1 lê o "fogo eterno" como recurso retórico semita para significar **gravidade**, não infinitude temporal. A "eterna perdição" de 1 Ts 4:14, 17 e 2 Ts 1:9 é leitura literalista que não se sustenta em chave kardequiana.
-> 2. **Linguagem de "vingança" divina.** "Tomando vingança dos que não conhecem a Deus" (1:8) é vocabulário que decalca a tradição apocalíptica judaica do I século, marcada pelo dualismo perseguidor/perseguido. Para Kardec, **Deus não se vinga** — a justiça divina é exercício imanente da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] (LE q. 622, 1009), não retribuição passional. O perseguidor de hoje é o reencarnado de amanhã que viverá a posição inversa, e nesse processo **resgata e progride**, não é eternamente punido.
+> 2. **Linguagem de "vingança" divina.** "Tomando vingança dos que não conhecem a Deus" (1:8) é vocabulário que decalca a tradição apocalíptica judaica do I século, marcada pelo dualismo perseguidor/perseguido. Para Kardec, **Deus não se vinga** — a justiça divina é exercício imanente da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] (LE q. 622, 1009), não retribuição passional. O perseguidor de hoje é o reencarnado de amanhã que viverá a posição inversa, e nesse processo **resgata e progride**, não é eternamente punido.
 >
 > A intenção pastoral de Paulo é honrada — consolar a comunidade perseguida, reafirmando que a injustiça não é a última palavra. O Espiritismo oferece consolo equivalente em chave melhor: a injustiça não é eterna porque o **progresso é indefinido** (LE q. 776–800) e **nenhuma alma é abandonada** (q. 624). Tratamento inline; sem página própria em `wiki/divergencias/` por ser divergência interpretativa, não estrutural — e por se reproduzir em outros pontos do corpus paulino e joanino com tratamento já consolidado (cf. [[wiki/divergencias/penas-eternas-em-apocalipse]] como página de divergência canônica do mesmo eixo).
 
@@ -80,7 +80,7 @@ Passagens-chave aproveitadas ou debatidas pelo Espiritismo: **2 Ts 1:5–10** (j
 
 > "**Mandamo-vos, porém, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo o irmão que anda desordenadamente, e não segundo a tradição que de nós recebeu. Porque vós mesmos sabeis como convém imitar-nos, pois que não nos houvemos desordenadamente entre vós, nem de graça comemos o pão de homem algum, mas com trabalho e fadiga, trabalhando noite e dia, para não sermos pesados a nenhum de vós. Não porque não tivéssemos autoridade, mas para vos dar em nós mesmos exemplo, para nos imitardes. Porque, quando ainda estávamos convosco, vos mandamos isto, que, se alguém não quiser trabalhar, não coma também. Porquanto ouvimos que alguns entre vós andam desordenadamente, não trabalhando, antes fazendo coisas vãs. A esses tais, porém, mandamos, e exortamos por nosso Senhor Jesus Cristo, que, trabalhando com sossego, comam o seu próprio pão. E vós, irmãos, não vos canseis de fazer o bem.**" (2 Ts 3:6–13)
 
-A passagem articula **quatro princípios** integralmente compatíveis com a [[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]] kardequiana ([[wiki/obras/livro-dos-espiritos|LE]] q. 674–685):
+A passagem articula **quatro princípios** integralmente compatíveis com a [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] kardequiana ([[wiki/obras/livro-dos-espiritos|LE]] q. 674–685):
 
 - **Trabalho como dever moral, não escolha facultativa** (3:10) — eco direto de LE q. 674: "O trabalho é uma lei da Natureza?" — "Sim, e a prova está em que o homem que se entrega ao ócio sofre privações; e em que mais as mais altas posições não dispensam de algum gênero de atividade".
 - **Espera apocalíptica não dispensa o esforço cotidiano** (3:11–12) — Paulo combate o **ócio espiritualizado**, a fé que se imagina dispensar o trabalho. Coerente com ESE cap. XXV ("Buscai e achareis"): a graça pressupõe diligência, não a substitui.
@@ -121,14 +121,14 @@ A passagem é **passagem-chave para palestra** sobre a Lei do Trabalho — texto
 
 ## Conceitos tratados
 
-- [[wiki/conceitos/lei-do-trabalho]] — 3:6–13 (eixo central da carta para o estudo espírita)
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — 3:6–13 (eixo central da carta para o estudo espírita)
 - [[wiki/conceitos/livre-arbitrio]] — 2:10–12 (entregue às próprias escolhas quem recusa a verdade)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — implícita em 2:11 (efeito interior de quem se nega à verdade)
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — implícita em 2:11 (efeito interior de quem se nega à verdade)
 - [[wiki/conceitos/responsabilidade]] — 1:5 + 2:12 (quem é "havido por digno do reino" e quem é "julgado")
 - [[wiki/conceitos/codigo-penal-da-vida-futura]] — 1:9 (refutação espírita da eterna perdição)
 - [[wiki/conceitos/provas-e-expiacoes]] — 1:4–5 (perseguições como provas dignificantes)
 - [[wiki/conceitos/caridade]] — 3:13 (não cansar de fazer o bem); 3:14–15 (admoestar como irmão)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — 3:5 (amor de Deus + paciência de Cristo); 3:14–15 (caridade na correção)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — 3:5 (amor de Deus + paciência de Cristo); 3:14–15 (caridade na correção)
 - [[wiki/conceitos/prece]] — 3:1 (pedido de prece recíproca)
 - [[wiki/conceitos/discernimento-dos-espiritos]] — 2:1–2 + 3:17 (pseudepígrafe; autógrafo como critério de identificação)
 

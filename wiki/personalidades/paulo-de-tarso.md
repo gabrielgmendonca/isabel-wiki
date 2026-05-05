@@ -73,7 +73,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - "Toda a lei se cumpre numa só palavra, nesta: Amarás ao teu próximo como a ti mesmo" (Gl 5:14) — paralelo a Mt 22:39 e Rm 13:8–10.
 - "O fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança" (Gl 5:22–23) — catálogo moral fundamental.
 - "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo" (Gl 6:2) — caridade ativa.
-- "Tudo o que o homem semear, isso também ceifará" (Gl 6:7) — formulação apostólica direta da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]].
+- "Tudo o que o homem semear, isso também ceifará" (Gl 6:7) — formulação apostólica direta da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]].
 - "Sede, pois, imitadores de Deus, como filhos amados; e andai em amor" (Ef 5:1–2) — formulação compacta de "Sede perfeitos" (Mt 5:48; ESE cap. XVII).
 - "Vos despojeis do velho homem [...] e vos revistais do novo homem, que segundo Deus é criado em verdadeira justiça e santidade" (Ef 4:22–24) — imagem nuclear da reforma íntima.
 - "Sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo" (Ef 4:32) — perdão fraterno como espelho do perdão divino.
@@ -101,7 +101,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 - [[wiki/obras/epistola-de-tiago]] — diálogo Rm 3–4 vs. Tg 2 sobre justificação
 - [[wiki/conceitos/caridade]] — 1 Co 13 comentado em ESE, cap. XV
 - [[wiki/conceitos/lei-natural]] — Rm 2:14–15 (lei escrita no coração)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — Rm 13:8–10; Ef 4:32; Ef 5:1–2
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — Rm 13:8–10; Ef 4:32; Ef 5:1–2
 - [[wiki/conceitos/perispirito]] — "corpo espiritual" (1 Co 15:44); "segundo o Espírito" (Rm 8:5–13)
 - [[wiki/conceitos/mediunidade]] — repertório fenomenológico paulino
 - [[wiki/conceitos/discernimento-dos-espiritos]] — 1 Co 12:10; 14:29, 32–33

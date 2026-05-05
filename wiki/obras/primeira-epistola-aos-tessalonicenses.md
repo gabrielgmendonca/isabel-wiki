@@ -42,9 +42,9 @@ Passagens-chave aproveitadas ou debatidas pelo Espiritismo: **1 Ts 4:13–18** (
 
 **Cap. 4 — Santificação moral; pureza sexual; trabalho discreto; vinda do Senhor.** Capítulo doutrinariamente decisivo, divisível em três blocos:
 
-*4:1–8 — Santificação e domínio de si.* "Esta é a vontade de Deus, a vossa santificação; que vos abstenhais da fornicação" (4:3); "que cada um de vós saiba possuir o seu vaso em santificação e honra; não na paixão da concupiscência, como os gentios" (4:4–5). Paulo trata a sexualidade no quadro da **lei moral**: não condena o casamento (cf. 1 Co 7:2–5), mas exige domínio do impulso e respeito à pessoa do outro. Coerente com a [[wiki/conceitos/lei-de-conservacao|Lei de Conservação]] (LE q. 702–727) e com a doutrina espírita do **uso digno da faculdade reprodutora** (LE q. 686–701, [[wiki/conceitos/lei-de-reproducao|Lei de Reprodução]]) — sexo é função, não fim em si.
+*4:1–8 — Santificação e domínio de si.* "Esta é a vontade de Deus, a vossa santificação; que vos abstenhais da fornicação" (4:3); "que cada um de vós saiba possuir o seu vaso em santificação e honra; não na paixão da concupiscência, como os gentios" (4:4–5). Paulo trata a sexualidade no quadro da **lei moral**: não condena o casamento (cf. 1 Co 7:2–5), mas exige domínio do impulso e respeito à pessoa do outro. Coerente com a [[wiki/conceitos/leis-morais/lei-de-conservacao|Lei de Conservação]] (LE q. 702–727) e com a doutrina espírita do **uso digno da faculdade reprodutora** (LE q. 686–701, [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]]) — sexo é função, não fim em si.
 
-*4:9–12 — Amor fraternal e trabalho honesto.* "Procureis viver quietos, e tratar dos vossos próprios negócios, e trabalhar com vossas próprias mãos" (4:11) — recomendação que algumas leituras tomam como antiapocalíptica (Paulo refreando a ansiedade dos que abandonavam o trabalho à espera da parousia iminente). Coerente com a [[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]] (LE q. 674–685) e com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XXV — fé não dispensa esforço; ao contrário, **exige diligência cotidiana**.
+*4:9–12 — Amor fraternal e trabalho honesto.* "Procureis viver quietos, e tratar dos vossos próprios negócios, e trabalhar com vossas próprias mãos" (4:11) — recomendação que algumas leituras tomam como antiapocalíptica (Paulo refreando a ansiedade dos que abandonavam o trabalho à espera da parousia iminente). Coerente com a [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] (LE q. 674–685) e com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XXV — fé não dispensa esforço; ao contrário, **exige diligência cotidiana**.
 
 *4:13–18 — Parousia e ressurreição em Cristo.* Eixo de divergência interpretativa (callout abaixo). "Não quero, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais, como os demais, que não têm esperança" (4:13). Paulo descreve o retorno do Senhor com **voz de arcanjo, trombeta de Deus**, e arrebatamento dos vivos junto com os mortos em Cristo "nas nuvens, a encontrar o Senhor nos ares" (4:16–17). Ver [[raw/biblia-acf/1-tessalonicenses/4]].
 
@@ -132,10 +132,10 @@ A tricotomia paulina, lida em chave espírita, **não acrescenta nem retira** ao
 - [[wiki/conceitos/perispirito]] — 5:23 (tricotomia paulina e polissemia de "alma")
 - [[wiki/conceitos/prece]] — 5:17–18 (orar sem cessar; em tudo dar graças)
 - [[wiki/conceitos/caridade]] — 5:14 (admoestar/consolar/sustentar)
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — 5:14–15 (caridade ativa + não retribuir mal por mal)
-- [[wiki/conceitos/lei-de-reproducao]] — 4:3–8 (santificação sexual)
-- [[wiki/conceitos/lei-de-conservacao]] — 4:4 ("possuir o seu vaso em santificação")
-- [[wiki/conceitos/lei-do-trabalho]] — 4:11 (trabalhar com as próprias mãos)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — 5:14–15 (caridade ativa + não retribuir mal por mal)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — 4:3–8 (santificação sexual)
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]] — 4:4 ("possuir o seu vaso em santificação")
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — 4:11 (trabalhar com as próprias mãos)
 - [[wiki/conceitos/vida-futura]] — 4:13–18 (mortos em Cristo; ressurreição reinterpretada)
 - [[wiki/conceitos/ressurreicao-da-carne]] — 4:13–18 (refutação literal; assimilação espírita)
 - [[wiki/conceitos/responsabilidade]] — 2:14–16 (lida contra culpabilização coletiva)

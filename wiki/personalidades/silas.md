@@ -44,7 +44,7 @@ Co-protagonista da narrativa de *Ação e Reação*. Sua função tripla na obra
 - [[wiki/personalidades/druso]] — pai da última encarnação, Instrutor da Mansão
 - [[wiki/personalidades/andre-luiz]] — companheiro de estágio
 - [[wiki/conceitos/avareza]] — vício que motivou sua queda
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — eixo de sua confissão
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — eixo de sua confissão
 - [[wiki/conceitos/suicidio]] — sua morte por intoxicação acidental confundida com suicídio
 
 ## Fontes

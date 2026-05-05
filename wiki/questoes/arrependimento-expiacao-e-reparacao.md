@@ -79,7 +79,7 @@ Para o estudo e a palestra, a tríade oferece chave interpretativa para as prova
 - [[wiki/conceitos/codigo-penal-da-vida-futura]]
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/provas-e-expiacoes]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]]
 - [[wiki/obras/ceu-e-inferno]]
 

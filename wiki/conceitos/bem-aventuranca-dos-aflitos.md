@@ -84,7 +84,7 @@ Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e i
 - [[wiki/conceitos/bem-aventurancas]] — síntese e índice das oito bem-aventuranças
 - [[wiki/conceitos/bem-aventuranca-dos-famintos-de-justica]] · [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] — agrupadas no mesmo capítulo V do ESE
 - [[wiki/conceitos/resignacao]] · [[wiki/conceitos/dor]] · [[wiki/conceitos/provas-e-expiacoes]]
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. V
 - [[wiki/obras/evangelho-segundo-mateus]] — Mt 5:4; S. Lucas 6:20–25
 

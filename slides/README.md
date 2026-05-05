@@ -20,7 +20,7 @@ Manualmente:
 
 ```bash
 # 1. Scaffold a partir de uma página wiki
-uv run python .claude/skills/slides/scripts/scaffold_deck.py wiki/conceitos/lei-do-trabalho.md
+uv run python .claude/skills/slides/scripts/scaffold_deck.py wiki/conceitos/leis-morais/lei-do-trabalho.md
 
 # 2. Editar slides/lei-do-trabalho/deck.md à mão (refinar perguntas, adicionar parábola)
 

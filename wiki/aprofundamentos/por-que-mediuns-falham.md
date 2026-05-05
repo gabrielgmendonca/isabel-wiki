@@ -146,7 +146,7 @@ Acrescente-se uma sexta, transversal: **continuidade de cultivo evangélico**. A
 - [[wiki/conceitos/mercantilizacao-da-mediunidade]] — caso Acelino em página própria
 - [[wiki/conceitos/obsessao]] — mecanismo de fixação dos consulentes inferiores
 - [[wiki/conceitos/umbral]] — onze anos de Acelino e desfechos análogos
-- [[wiki/conceitos/lei-do-trabalho]] — mediunidade como ocupação responsável
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — mediunidade como ocupação responsável
 - [[wiki/conceitos/suicidio]] — Otávio como caso correlato (suicídio inconsciente)
 - [[wiki/conceitos/culto-do-evangelho-no-lar]] — substrato moral preventivo
 - [[wiki/personalidades/aniceto]] — orientador da semana de aprendizado

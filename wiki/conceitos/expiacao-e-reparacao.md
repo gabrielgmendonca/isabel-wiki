@@ -70,7 +70,7 @@ Para o estudo pessoal, o conceito convida à reflexão sobre as provas da vida p
 - [[wiki/conceitos/codigo-penal-da-vida-futura]]
 - [[wiki/conceitos/penas-eternas]]
 - [[wiki/conceitos/reencarnacao]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/questoes/arrependimento-expiacao-e-reparacao]]
 

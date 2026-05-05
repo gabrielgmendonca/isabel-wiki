@@ -13,7 +13,7 @@ status: ativo
 A doutrina kardequiana fixa o quadro moral da sexualidade em três passagens-chave:
 
 - **LE q. 200–202** — Os Espíritos não têm sexo; este é atributo do organismo. Encarnam alternadamente como homens e mulheres ("isso pouco lhe importa") porque "cada sexo lhes proporciona provações e deveres especiais".
-- **LE q. 686–701** — A [[wiki/conceitos/lei-de-reproducao|Lei de Reprodução]] regula o instinto sexual: a reprodução é natural; o casamento é "progresso da humanidade"; a poligamia é "sensualidade", não afeição; o celibato vale pelo motivo (egoísmo desagrada, sacrifício pelo bem eleva).
+- **LE q. 686–701** — A [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] regula o instinto sexual: a reprodução é natural; o casamento é "progresso da humanidade"; a poligamia é "sensualidade", não afeição; o celibato vale pelo motivo (egoísmo desagrada, sacrifício pelo bem eleva).
 - **ESE cap. XVII, item 11** (Espírito Georges) — Equilíbrio entre asceta e materialista: "Amai a vossa alma, porém cuidai igualmente do vosso corpo, instrumento daquela. Desatender às necessidades que a própria Natureza indica é desatender a lei de Deus."
 - **ESE cap. XXII** — "Não separareis o que Deus juntou": indissolubilidade do casamento é lei humana, não natural; sem afeto, o vínculo é só convencional.
 
@@ -47,7 +47,7 @@ O cap. 6 introduz a noção operativa central: o **circuito magnético** entre o
 
 > "Toda vez que determinada pessoa convide outra à comunhão sexual ou aceita de alguém um apelo neste sentido, em bases de afinidade e confiança, estabelece-se entre ambas um circuito de forças, pelo qual a dupla se alimenta psiquicamente de energias espirituais, em regime de reciprocidade. Quando um dos parceiros foge ao compromisso assumido, sem razão justa, lesa o outro na sustentação do equilíbrio emotivo." (cap. 6)
 
-A ruptura desleal é "saque afetivo" punível pela [[wiki/conceitos/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. O cap. 24 fecha a antropologia: toda criatura traz "carga erótica" inalienável, da qual não se liberta por palavras, mas por experiência e trabalho. Para a sistematização do conceito, ver [[wiki/conceitos/energia-sexual]].
+A ruptura desleal é "saque afetivo" punível pela [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. O cap. 24 fecha a antropologia: toda criatura traz "carga erótica" inalienável, da qual não se liberta por palavras, mas por experiência e trabalho. Para a sistematização do conceito, ver [[wiki/conceitos/energia-sexual]].
 
 ### 3. Família como educandário e laços cármicos (caps. 2, 4, 14, 18)
 
@@ -171,8 +171,8 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 ## Conceitos relacionados
 
 - [[wiki/conceitos/energia-sexual]] — eixo conceitual da obra
-- [[wiki/conceitos/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base do "saque afetivo"
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"
 - [[wiki/conceitos/reencarnacao]] — laços cármicos no lar
 - [[wiki/conceitos/perispirito]] — substrato das cargas magnéticas
 - [[wiki/conceitos/provas-e-expiacoes]] — celibato, abstinência, união infeliz

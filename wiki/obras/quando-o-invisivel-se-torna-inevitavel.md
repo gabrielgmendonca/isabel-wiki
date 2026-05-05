@@ -136,7 +136,7 @@ Encerra pedindo humildade e perdão: "Muita coisa é nossa visão errada. Tenham
 - [[wiki/conceitos/perispirito]] — mecanismo de ligação entre obsessor e médium
 - [[wiki/conceitos/mediunidade]] — descoberta, exercício, dignidade
 - [[wiki/conceitos/psicografia]] — Victor Hugo (11 romances), Chico Xavier (Meimei)
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — "só nos acontece o que devemos a Deus"
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — "só nos acontece o que devemos a Deus"
 - [[wiki/conceitos/caridade]] — finalidade precípua do Espiritismo
 - [[wiki/conceitos/resignacao]] — reação ao erro médico
 

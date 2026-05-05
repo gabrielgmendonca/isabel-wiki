@@ -1,4 +1,5 @@
 ---
+title: "Lei de causa e efeito"
 tipo: conceito
 fontes: [LE, C&I, Gênese, NT]
 tags: [lei-de-causa-e-efeito, justica-divina, reencarnacao, leis-morais, consequencias, obra/le, obra/ci, obra/genese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/livre-arbitrio]
@@ -64,7 +65,7 @@ A compreensão da lei de causa e efeito é libertadora: transforma o sofrimento 
 - [[wiki/conceitos/livre-arbitrio]]
 - [[wiki/conceitos/lei-natural]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/obras/epistola-aos-galatas]] — Gl 6:7–8 (semear e ceifar)
 - [[wiki/obras/primeira-epistola-de-pedro]] — 1Pe 1:17 (juízo segundo a obra)
 - [[wiki/obras/acao-e-reacao]] — tratado romanesco de André Luiz sobre a economia moral da Lei

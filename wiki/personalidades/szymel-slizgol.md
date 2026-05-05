@@ -30,7 +30,7 @@ Declarou-se "bastante feliz" e tendo "alcançado a plenitude de minha ambição"
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/penas-e-gozos-futuros]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ## Fontes
 

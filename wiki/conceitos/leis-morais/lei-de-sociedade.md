@@ -1,4 +1,5 @@
 ---
+title: "Lei de sociedade"
 tipo: conceito
 fontes: [LE, ESE]
 tags: [sociedade, convivio, familia, insulamento, lei-moral, obra/le, obra/ese, lei/sociedade, autor/kardec, grau/intermediario, tema/sociedade]
@@ -57,8 +58,8 @@ O relaxamento dos laços de família resultaria em "uma recrudescência do egoí
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-moral]] · [[wiki/conceitos/lei-do-progresso]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-do-trabalho]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 - [[wiki/conceitos/egoismo]] · [[wiki/conceitos/homem-de-bem]]
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual (LE, q. 582–583).
 

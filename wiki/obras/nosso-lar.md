@@ -122,8 +122,8 @@ André recebe sua primeira **licença em missão na Terra**: socorrer Ernesto, m
 - [[wiki/conceitos/prece]] — oração coletiva da Governadoria
 - [[wiki/conceitos/perispirito]] — marcas das ações terrenas no corpo sutil
 - [[wiki/conceitos/suicidio]] — André Luiz como caso paradigmático do suicídio moral / suicida inconsciente (cap. 4)
-- [[wiki/conceitos/lei-do-trabalho]] — a economia do bônus-hora como aplicação concreta
-- [[wiki/conceitos/lei-de-destruicao]] — a guerra vista do plano espiritual
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — a economia do bônus-hora como aplicação concreta
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — a guerra vista do plano espiritual
 
 ## Personalidades citadas
 

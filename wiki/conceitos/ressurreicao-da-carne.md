@@ -53,7 +53,7 @@ Léon Denis sintetiza o ponto em *Cristianismo e Espiritismo*:
 O Espiritismo desdobra a "ressurreição" em **dois movimentos**:
 
 - **Imediato após a morte:** o Espírito readquire a consciência plena no plano espiritual (após o período de [[wiki/conceitos/perturbacao|perturbação]] variável). Esta é a *"ressurreição"* propriamente dita — saída do "sono" da vida material para a vida espiritual lúcida.
-- **Mediato, em nova existência:** [[wiki/conceitos/reencarnacao|reencarnação]] em novo corpo carnal, conforme as necessidades da [[wiki/conceitos/lei-de-causa-e-efeito|lei de causa e efeito]] e do progresso. *"Nascer de novo"* (Jo 3:3) recobra aqui sentido literal — não da carne ressurgida, mas do Espírito reencarnado.
+- **Mediato, em nova existência:** [[wiki/conceitos/reencarnacao|reencarnação]] em novo corpo carnal, conforme as necessidades da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e do progresso. *"Nascer de novo"* (Jo 3:3) recobra aqui sentido literal — não da carne ressurgida, mas do Espírito reencarnado.
 
 ## Origem e estabilização do dogma
 

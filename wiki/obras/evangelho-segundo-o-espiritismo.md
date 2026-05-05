@@ -90,13 +90,13 @@ Perdoar para ser perdoado. Reconciliação com os adversários. O argueiro e a t
 ### Capítulo XI — Amar o próximo como a si mesmo
 O mandamento maior. Parábola do credor incompassivo. Dar a César o que é de César. A lei de amor. O egoísmo. A fé e a caridade. Caridade para com os criminosos (ESE, cap. XI, itens 1–14).
 - **NT:** S. Mateus, 22:34–40; S. Lucas, 6:31; S. Mateus, 18:23–35; S. Mateus, 22:15–22; S. Marcos, 12:13–17.
-- **LE:** [[wiki/conceitos/lei-de-justica-amor-e-caridade]] (LE, q. 873–892).
+- **LE:** [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] (LE, q. 873–892).
 - **Conceitos:** [[wiki/conceitos/caridade]]; [[wiki/conceitos/parabola-do-credor-incompassivo]].
 
 ### Capítulo XII — Amai os vossos inimigos
 Retribuir o mal com o bem. Os inimigos desencarnados. Apresentar a outra face. A vingança, o ódio, o duelo (ESE, cap. XII, itens 1–14).
 - **NT:** S. Mateus, 5:20, 38–47; S. Lucas, 6:32–36.
-- **LE:** [[wiki/conceitos/lei-de-justica-amor-e-caridade]]; [[wiki/conceitos/perfeicao-moral]].
+- **LE:** [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]; [[wiki/conceitos/perfeicao-moral]].
 - **Conceito:** [[wiki/conceitos/caridade]].
 
 ### Capítulo XIII — Não saiba a vossa mão esquerda o que dê a vossa mão direita
@@ -147,7 +147,7 @@ A árvore e seus frutos. Missão dos profetas. Prodígios dos falsos profetas. "
 ### Capítulo XXII — Não separareis o que Deus juntou
 Indissolubilidade do casamento. O divórcio (ESE, cap. XXII, itens 1–5).
 - **NT:** S. Mateus, 19:3–9.
-- **LE:** [[wiki/conceitos/lei-de-reproducao]] (LE, q. 695–701).
+- **LE:** [[wiki/conceitos/leis-morais/lei-de-reproducao]] (LE, q. 695–701).
 
 ### Capítulo XXIII — Estranha moral
 Odiar os pais. Abandonar pai, mãe e filhos. "Deixar aos mortos o cuidado de enterrar seus mortos." "Não vim trazer a paz, mas a divisão" — sentido figurado destas máximas (ESE, cap. XXIII, itens 1–16).
@@ -212,7 +212,7 @@ Preces gerais (Oração dominical, reuniões espíritas, para médiuns). Preces 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]]
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]]
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/encarnacao]] · [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/perfeicao-moral]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/perfeicao-moral]]
 - [[wiki/conceitos/suicidio]] · [[wiki/conceitos/livre-arbitrio]] · [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/vida-espirita]]
 

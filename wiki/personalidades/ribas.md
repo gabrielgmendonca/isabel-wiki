@@ -38,7 +38,7 @@ Tom: paternal, sereno, com humor brando ("Trabalho para trinta anos, meus amigos
 - [[wiki/personalidades/evelina-serpa]] · [[wiki/personalidades/ernesto-fantini]] — pupilos
 - [[wiki/personalidades/aniceto]] · [[wiki/personalidades/calderaro]] · [[wiki/personalidades/druso]] — instrutores em outros volumes da série
 - [[wiki/personalidades/andre-luiz]] — autor espiritual
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
 ## Fontes
 

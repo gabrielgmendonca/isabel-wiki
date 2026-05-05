@@ -139,11 +139,21 @@ def find_wikilinks(text: str) -> list[tuple[int, str]]:
 
 
 def resolve_wikilink(link: str) -> Path:
-    """Converte wikilink target em caminho de arquivo."""
+    """Converte wikilink target em caminho de arquivo.
+
+    Tenta `<link>.md`; se não existir mas `<link>/index.md` existir, retorna o
+    index — pasta com index.md é destino válido no Quartz.
+    """
     p = Path(link)
-    if p.suffix != ".md":
-        p = p.with_suffix(".md")
-    return p
+    if p.suffix == ".md":
+        return p
+    direct = p.with_suffix(".md")
+    if direct.exists():
+        return direct
+    folder_index = p / "index.md"
+    if folder_index.exists():
+        return folder_index
+    return direct
 
 
 def collect_pages() -> list[Path]:

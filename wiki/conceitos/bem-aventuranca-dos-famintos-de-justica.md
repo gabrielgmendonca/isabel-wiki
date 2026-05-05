@@ -55,7 +55,7 @@ A bem-aventurança impede a acomodação. Quem se cala diante da iniquidade fami
 
 - [[wiki/conceitos/bem-aventurancas]] — síntese e índice das oito bem-aventuranças
 - [[wiki/conceitos/bem-aventuranca-dos-aflitos]] · [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] — agrupadas no mesmo capítulo V do ESE
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/lei-de-igualdade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 - [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-de-expiacao-e-provas]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. V (itens 1–3, 16)
 - [[wiki/obras/evangelho-segundo-mateus]] — Mt 5:6, 10; S. Lucas 6:21, 25

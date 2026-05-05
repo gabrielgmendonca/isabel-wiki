@@ -67,7 +67,7 @@ Sobre o caso de Java:
 ## Páginas relacionadas
 
 - [[wiki/obras/revista-espirita-1859]] — fascículo de dezembro.
-- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/lei-do-progresso]] · [[wiki/conceitos/livre-arbitrio]] — escolha de prova e persistência de tendências.
+- [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-do-progresso]] · [[wiki/conceitos/livre-arbitrio]] — escolha de prova e persistência de tendências.
 - [[wiki/conceitos/manifestacoes-espiritas]] — caso de Java; transporte vs. criação fluídica.
 - [[wiki/conceitos/pneumatografia]] — comparação técnica (criar matéria vs. transportá-la).
 

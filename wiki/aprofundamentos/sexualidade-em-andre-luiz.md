@@ -183,7 +183,7 @@ A novidade narrativa é a **instituição "Almas Irmãs"** — agremiação espi
 
 A estatística do "Almas Irmãs" — "no coeficiente de cada cem estudantes, dezoito vitoriosos nos compromissos da reencarnação, vinte e dois melhorados, vinte e seis muito imperfeitamente melhorados e trinta e quatro onerados por dívidas lamentáveis" (Parte 2, cap. 5) — sublinha o realismo da tese: a maioria fracassa na primeira tentativa. Sexo constrói destino, mas o programa pode ser rompido pelo arbítrio do encarnado, exigindo nova rodada.
 
-A tese é coerente com Kardec ([[wiki/conceitos/lei-de-causa-e-efeito]] aplicada à Lei de Reprodução, LE q. 686-701) e com a posição de 1958 sobre o centro genésico, mas dá-lhe **dimensão arquitetônica**: o sexo, em *Sexo e Destino*, não é só fisiologia sutil — é o material de construção do próximo renascimento.
+A tese é coerente com Kardec ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] aplicada à Lei de Reprodução, LE q. 686-701) e com a posição de 1958 sobre o centro genésico, mas dá-lhe **dimensão arquitetônica**: o sexo, em *Sexo e Destino*, não é só fisiologia sutil — é o material de construção do próximo renascimento.
 
 #### (b) Possessão partilhada (Parte 1, cap. 8) — categoria fenomenológica nova
 
@@ -255,11 +255,11 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação s
 - [[wiki/conceitos/energia-sexual]] — fio conceitual transversal (Kardec + Emmanuel + André Luiz)
 - [[wiki/conceitos/centros-vitais]] — centro genésico em foco
 - [[wiki/conceitos/perispirito]] — substrato da sexualidade
-- [[wiki/conceitos/lei-de-reproducao]] — base kardequiana
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — base kardequiana
 - [[wiki/conceitos/reencarnacao]] — escolha de sexo e contas a acertar
 - [[wiki/conceitos/planejamento-reencarnatorio]] — reconciliação espiritual prévia à concepção; mapas cromossômicos; condição homossexual ou intersexo como tarefa programada
 - [[wiki/conceitos/expiacao-e-reparacao]] — sequelas e oportunidades de resgate
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base das consequências orgânicas
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base das consequências orgânicas
 - [[wiki/conceitos/perfeicao-moral]] — sublimação como meta
 - [[wiki/conceitos/possessao-partilhada]] — quarta categoria fenomenológica de obsessão (acréscimo a LM cap. XXIII)
 - [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus com o qual a possessão partilhada contrasta

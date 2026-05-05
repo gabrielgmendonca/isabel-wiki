@@ -29,8 +29,8 @@ Para o estudo espírita, Colossenses é precioso por seis razões:
 2. **"Cristo cabeça do corpo, da igreja" (1:18; 2:19)** — metáfora orgânica da unidade que prolonga 1 Co 12. Igreja, na leitura espírita, é a **comunhão de Espíritos** no caminho do progresso, não instituição visível.
 3. **Crítica ao culto dos anjos (2:18)** — texto-âncora paulino contra **mediunidade desviada para adoração** de entidades intermediárias. Articula diretamente com ESE cap. I, item 11, e com [[wiki/conceitos/discernimento-dos-espiritos|discernimento dos espíritos]] (LM 2ª parte cap. XXIV). A comunicação com os Espíritos não é culto.
 4. **Crítica ao ascetismo legalista (2:16–23)** — "não toques, não proves, não manuseies" (2:21); disciplina corporal "não é de valor algum senão para a satisfação da carne" (2:23). Recusa paulina das formas externas que substituem a transformação interior, coerente com ESE cap. XV, item 10 (a salvação está nas **obras da caridade**, não em ritos).
-5. **Trabalho como adoração (3:23)** — "tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens". Formulação paulina densa do princípio do **fim do dualismo sagrado/profano**: qualquer ação sincera vira culto. Articula com a [[wiki/conceitos/lei-do-trabalho|Lei do Trabalho]] (LE q. 674–685), com [[wiki/conceitos/lei-de-adoracao|adoração em espírito e verdade]] (ESE cap. XVII) e com a pureza da intenção (ESE cap. X, item 7).
-6. **Universalismo (3:11)** — "não há grego, nem judeu, circuncisão, nem incircuncisão, bárbaro, cita, servo ou livre; mas Cristo é tudo, e em todos". Paralelo direto com Gl 3:28. Fundamento neotestamentário da [[wiki/conceitos/lei-de-igualdade|igualdade dos espíritos]] (LE q. 803–824) e da [[wiki/conceitos/lei-de-sociedade|fraternidade universal]] (LE q. 768–775; ESE cap. XI).
+5. **Trabalho como adoração (3:23)** — "tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens". Formulação paulina densa do princípio do **fim do dualismo sagrado/profano**: qualquer ação sincera vira culto. Articula com a [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] (LE q. 674–685), com [[wiki/conceitos/leis-morais/lei-de-adoracao|adoração em espírito e verdade]] (ESE cap. XVII) e com a pureza da intenção (ESE cap. X, item 7).
+6. **Universalismo (3:11)** — "não há grego, nem judeu, circuncisão, nem incircuncisão, bárbaro, cita, servo ou livre; mas Cristo é tudo, e em todos". Paralelo direto com Gl 3:28. Fundamento neotestamentário da [[wiki/conceitos/leis-morais/lei-de-igualdade|igualdade dos espíritos]] (LE q. 803–824) e da [[wiki/conceitos/leis-morais/lei-de-sociedade|fraternidade universal]] (LE q. 768–775; ESE cap. XI).
 
 Passagens-chave aproveitadas direta ou indiretamente por Kardec, Emmanuel ou Léon Denis: **Cl 1:15–20** (cristologia paulina, articulada por Emmanuel à doutrina do Cristo-Governador); **Cl 1:27** ("Cristo em vós, esperança da glória", paralelo de ESE cap. XVII); **Cl 2:5** ("ausente no corpo, presente em espírito", paralelo de 1 Co 5:3 e fundamento NT da emancipação da alma — Gênese cap. XIV, item 18); **Cl 2:8** (crítica ao "filosofismo", compatível com a [[wiki/conceitos/fe-raciocinada|fé raciocinada]]); **Cl 2:18** (culto dos anjos, base do discernimento dos espíritos); **Cl 3:11** (universalismo); **Cl 3:14** (amor como "vínculo da perfeição", paralelo de 1 Co 13:13 e ESE cap. XV); **Cl 3:23** (trabalho como adoração).
 
@@ -88,7 +88,7 @@ A leitura espírita preserva integralmente o alerta paulino: a mediunidade que v
 
 Ver [[raw/biblia-acf/colossenses/2]].
 
-- **Conceitos:** [[wiki/conceitos/emancipacao-da-alma]] (2:5); [[wiki/conceitos/fe-raciocinada]] (2:8); [[wiki/conceitos/discernimento-dos-espiritos]] (2:18); [[wiki/conceitos/lei-de-adoracao]] (2:16–23).
+- **Conceitos:** [[wiki/conceitos/emancipacao-da-alma]] (2:5); [[wiki/conceitos/fe-raciocinada]] (2:8); [[wiki/conceitos/discernimento-dos-espiritos]] (2:18); [[wiki/conceitos/leis-morais/lei-de-adoracao]] (2:16–23).
 
 ### Cap. 3 — Vida nova: ética da reforma íntima
 
@@ -127,7 +127,7 @@ Cl 3:17 é o par antecedente: "**quanto fizerdes por palavras ou por obras, faze
 
 Ver [[raw/biblia-acf/colossenses/3]].
 
-- **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]] (3:9–10); [[wiki/conceitos/caridade]] (3:14); [[wiki/conceitos/lei-do-trabalho]] (3:23); [[wiki/conceitos/lei-de-adoracao]] (3:17, 23).
+- **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]] (3:9–10); [[wiki/conceitos/caridade]] (3:14); [[wiki/conceitos/leis-morais/lei-do-trabalho]] (3:23); [[wiki/conceitos/leis-morais/lei-de-adoracao]] (3:17, 23).
 
 ### Cap. 4 — Encerramento: oração, sabedoria pastoral e saudações
 
@@ -201,10 +201,10 @@ Ver [[raw/biblia-acf/colossenses/4]].
 - [[wiki/conceitos/discernimento-dos-espiritos]] — Cl 2:18 (culto dos anjos)
 - [[wiki/conceitos/fe-raciocinada]] — Cl 2:8 (filosofismo)
 - [[wiki/conceitos/emancipacao-da-alma]] — Cl 2:5
-- [[wiki/conceitos/lei-do-trabalho]] — Cl 3:23
-- [[wiki/conceitos/lei-de-adoracao]] — Cl 3:17, 23
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — Cl 3:23
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — Cl 3:17, 23
 - [[wiki/conceitos/homem-velho-homem-novo]] — Cl 3:9–10 (paralelo de Ef 4:22–24)
-- [[wiki/conceitos/lei-de-igualdade]] — Cl 3:11 (universalismo) e 3:18 (divergência)
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — Cl 3:11 (universalismo) e 3:18 (divergência)
 - [[wiki/conceitos/prece]] — Cl 4:2
 - [[wiki/conceitos/transicao-planetaria]] — correlação cosmológica do hino cristológico via [[wiki/obras/a-caminho-da-luz]]
 

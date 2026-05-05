@@ -31,18 +31,18 @@ Pontos de partida: o que é Espiritismo, Deus, Espírito, reencarnação.
 
 As 10 leis divinas que regem a vida moral. Núcleo do estudo sistematizado.
 
-- [[wiki/conceitos/lei-moral]] — panorama
+- [[wiki/conceitos/leis-morais]] — panorama
 - [[wiki/conceitos/lei-natural]]
-- [[wiki/conceitos/lei-de-adoracao]]
-- [[wiki/conceitos/lei-do-trabalho]]
-- [[wiki/conceitos/lei-de-reproducao]]
-- [[wiki/conceitos/lei-de-conservacao]]
-- [[wiki/conceitos/lei-de-destruicao]]
-- [[wiki/conceitos/lei-de-sociedade]]
-- [[wiki/conceitos/lei-do-progresso]]
-- [[wiki/conceitos/lei-de-igualdade]]
-- [[wiki/conceitos/lei-de-liberdade]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]]
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]]
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]]
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]]
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]]
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]]
+- [[wiki/conceitos/leis-morais/lei-do-progresso]]
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]]
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 ### 3. Moral evangélica (ESE)
 

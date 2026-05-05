@@ -148,7 +148,7 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 - [[wiki/conceitos/reencarnacao]] — recapitulação corpórea e moldes mentais preexistentes
 - [[wiki/conceitos/raca-adamica]] — Espíritos exilados de outro sistema cósmico
 - [[wiki/conceitos/tres-revelacoes]] — Moisés, Cristo e Espiritismo como ciclo
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base das doenças e provas
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base das doenças e provas
 
 ## Personalidades citadas
 

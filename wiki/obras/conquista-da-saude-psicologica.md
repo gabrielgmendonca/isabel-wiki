@@ -146,7 +146,7 @@ Encerra vinculando tudo ao momento de transição: "Vivemos o grande momento da 
 - [[wiki/conceitos/depressao]] — tema central
 - [[wiki/conceitos/obsessao]] — fator espiritual da depressão
 - [[wiki/conceitos/mediunidade]] — faculdade ignorada pela psiquiatria materialista
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — fundamento da terapêutica espírita
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — fundamento da terapêutica espírita
 - [[wiki/conceitos/transicao-planetaria]] — contexto cósmico da crise psicológica
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] — ondas de Espíritos
 - [[wiki/conceitos/geracao-nova]] — Espíritos melhores que substituirão os obstinados

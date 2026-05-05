@@ -57,7 +57,7 @@ Nenhuma divergência registrada. A leitura espírita (exemplo moral, não sacrif
 ## Páginas relacionadas
 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/expiacao-e-reparacao]]
-- [[wiki/conceitos/lei-de-destruicao]] · [[wiki/conceitos/lei-do-progresso]]
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 - [[wiki/conceitos/dor]] · [[wiki/conceitos/resignacao]]
 - [[wiki/conceitos/parabola-do-mau-rico]] · [[wiki/conceitos/parabola-do-rico-insensato]]
 - [[wiki/obras/evangelho-segundo-joao]] — cap. 12 comentado

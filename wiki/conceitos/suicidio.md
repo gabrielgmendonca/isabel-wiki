@@ -33,7 +33,7 @@ O volume da [[wiki/obras/revista-espirita-1862|Revista Espírita de 1862]] traz 
 
 - **"Estatística de suicídios"** — argumento sociológico: o suicídio cresce no séc. XIX em paralelo com o avanço do materialismo, prova de que a recusa da vida futura desespera o homem.
 - **"Hereditariedade moral"** — refutação da tese materialista de hereditariedade do vício; tese alternativa: *"Espíritos semelhantes se atraem"* (comunicações de Erasto e São Luís); a aparência de hereditariedade moral é simpatia entre Espíritos afins, não transmissão biológica.
-- **"Duplo suicídio por amor e dever — Estudo moral"** — caso casuístico de duplo suicídio passional, análise sob a luz da [[wiki/conceitos/lei-de-causa-e-efeito]].
+- **"Duplo suicídio por amor e dever — Estudo moral"** — caso casuístico de duplo suicídio passional, análise sob a luz da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]].
 
 ### Reunir-se aos entes queridos
 
@@ -126,7 +126,7 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-de-conservacao]] — lei moral que o suicídio transgride
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]] — lei moral que o suicídio transgride
 - [[wiki/conceitos/morte]] — o processo natural de desencarnação
 - [[wiki/conceitos/penas-e-gozos-futuros]] — consequências morais pós-morte
 - [[wiki/conceitos/livre-arbitrio]] — responsabilidade pelas escolhas

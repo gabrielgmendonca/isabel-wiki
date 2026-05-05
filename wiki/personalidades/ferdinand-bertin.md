@@ -25,7 +25,7 @@ Encontra-se em profundo sofrimento, revivendo continuamente as angústias do nau
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
-- [[wiki/conceitos/lei-de-causa-e-efeito]]
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/arrependimento]]
 

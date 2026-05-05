@@ -44,7 +44,7 @@ Três aspectos:
 - [[wiki/obras/atos-dos-apostolos]] — At 20:4 (delegação da coleta)
 - [[wiki/personalidades/paulo-de-tarso]] — companheiro de missão
 - [[wiki/personalidades/timoteo]] — cooperador paulino paralelo, com vocação distinta (pastor doutrinal vs. mensageiro itinerante)
-- [[wiki/conceitos/lei-de-sociedade]] — cooperação como princípio
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — cooperação como princípio
 - [[wiki/conceitos/caridade]] — entrega discreta como caridade
 
 ## Fontes

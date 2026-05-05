@@ -49,7 +49,7 @@ Na vida prática, o desapego manifesta-se na generosidade, na simplicidade de co
 ## Páginas relacionadas
 
 - [[wiki/conceitos/caridade]] — o uso fraterno dos bens
-- [[wiki/conceitos/lei-de-igualdade]] — a desigualdade como prova
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — a desigualdade como prova
 - [[wiki/conceitos/homem-de-bem]] — desprendimento como traço do homem de bem
 - [[wiki/conceitos/vida-futura]] — a transitoriedade dos bens face à eternidade
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XVI

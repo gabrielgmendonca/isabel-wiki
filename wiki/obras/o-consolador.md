@@ -56,7 +56,7 @@ A divisa kardequiana *"fora da caridade não há salvação"* é reafirmada (q. 
 
 ### Sociologia espírita (q. 54 da Parte I)
 
-A igualdade absoluta é "erro grave dos sociólogos": existe uma igualdade absoluta de **direitos** perante Deus (acesso aos tesouros do tempo), não de posições. A desigualdade social é "elevado testemunho da reencarnação" — cada espírito tem posição definida pelo próprio esforço. Emmanuel critica o **racismo** como erro grave sem base séria, defende o socialismo nos limites do não-extremismo, e qualifica o Espiritismo como "iniciador da Sociologia" por restaurar o Evangelho que as religiões literalistas inumaram nos interesses econômicos. Tema dialoga com [[wiki/conceitos/lei-de-causa-e-efeito]] e o eixo da [[wiki/conceitos/lei-de-igualdade|Lei de Igualdade]] (LE, q. 803-824).
+A igualdade absoluta é "erro grave dos sociólogos": existe uma igualdade absoluta de **direitos** perante Deus (acesso aos tesouros do tempo), não de posições. A desigualdade social é "elevado testemunho da reencarnação" — cada espírito tem posição definida pelo próprio esforço. Emmanuel critica o **racismo** como erro grave sem base séria, defende o socialismo nos limites do não-extremismo, e qualifica o Espiritismo como "iniciador da Sociologia" por restaurar o Evangelho que as religiões literalistas inumaram nos interesses econômicos. Tema dialoga com [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] e o eixo da [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE, q. 803-824).
 
 ### Velho Testamento como pedra angular da Revelação
 
@@ -85,7 +85,7 @@ Religião é "o sentimento Divino" cuja exteriorização é o Amor; Ciência e F
 - [[wiki/conceitos/fe-raciocinada]] — síntese de razão e sentimento
 - [[wiki/conceitos/caridade]] — material e espiritual, e o limite da primeira
 - [[wiki/conceitos/reencarnacao]] — sustentáculo da desigualdade social como pedagogia
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — base das condições de prova individuais
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base das condições de prova individuais
 - [[wiki/conceitos/progresso-espiritual]] — caminho coletivo da humanidade
 
 ## Personalidades citadas

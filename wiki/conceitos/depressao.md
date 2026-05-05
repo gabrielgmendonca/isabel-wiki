@@ -74,7 +74,7 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 ## Páginas relacionadas
 
 - [[wiki/conceitos/obsessao]] — fator espiritual frequentemente associado
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — débitos de existências passadas
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — débitos de existências passadas
 - [[wiki/conceitos/transicao-planetaria]] — contexto cósmico da crise psicológica
 - [[wiki/conceitos/caridade]] — amor como terapia
 - [[wiki/conceitos/prece]] — instrumento de equilíbrio mental e espiritual

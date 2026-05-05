@@ -119,8 +119,8 @@ A leitura espírita do casamento é parceria de iguais em vocação progressiva,
 
 - [[wiki/obras/epistola-aos-efesios]] — Ef 5:21–33
 - [[wiki/obras/livro-dos-espiritos]] — q. 803–824 (Lei de Igualdade)
-- [[wiki/conceitos/lei-de-igualdade]]
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]]
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/divergencias/condicao-feminina-nas-paulinas]] — divergência irmã
 - [[wiki/divergencias/escravidao-em-efesios-6]] — divergência adjacente
 - [[wiki/divergencias/celibato-como-ideal-paulino]]

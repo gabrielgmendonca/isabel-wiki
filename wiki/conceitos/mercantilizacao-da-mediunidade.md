@@ -79,7 +79,7 @@ Em sentido contrário: a gratuidade quebra o contrato. O médium que serve sem c
 - [[wiki/conceitos/cartas-vivas-de-jesus]] — médium-missionário coerente vs. comerciante
 - [[wiki/conceitos/obsessao]] — o caso Acelino é caso-limite de obsessão por sintonia financeira
 - [[wiki/conceitos/umbral]] — onze anos de Acelino entre seus consulentes
-- [[wiki/conceitos/lei-do-trabalho]] — distinção entre serviço útil e exploração
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — distinção entre serviço útil e exploração
 - [[wiki/aprofundamentos/por-que-mediuns-falham]] — síntese mais ampla, com o caso Acelino entre os paradigmáticos
 - [[wiki/obras/os-mensageiros]] — cap. 8
 

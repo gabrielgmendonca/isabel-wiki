@@ -11,6 +11,19 @@ index: false
 
 > Página utilitária. Para navegação orientada, ver a [home](../../index.md); para achar um termo específico, use a busca no topo ou o [[wiki/sinteses/glossario]]. Este catálogo serve como panorama textual e referência para checagens de cobertura.
 
+## Mapas de seção
+
+Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o catálogo. Servem de destino dos breadcrumbs do Quartz e como landing page de cada tipo:
+
+- [[wiki/conceitos]] — definições doutrinárias, com sub-cluster [[wiki/conceitos/leis-morais|Leis Morais]]
+- [[wiki/obras]] — livros e fontes primárias
+- [[wiki/sinteses]] — páginas panorâmicas e meta-índices
+- [[wiki/aprofundamentos]] — estudos sistemáticos por tema
+- [[wiki/divergencias]] — tensões doutrinárias entre fontes
+- [[wiki/personalidades]] — Espíritos, médiuns, autores
+- [[wiki/questoes]] — Q&A pontuais
+- [[wiki/trilhas]] — roteiros guiados de estudo
+
 ## Trilhas e navegação
 
 - [[wiki/trilhas/primeiros-passos]] — introdução ao Espiritismo em passos guiados.
@@ -159,7 +172,7 @@ index: false
 - [[wiki/conceitos/harmonia-das-esferas]] — harmonia planetária como expressão estética da Inteligência Divina; contribuição original de Léon Denis (*O Grande Enigma*, caps. IV–V).
 
 ### Justiça divina e consequências morais
-- [[wiki/conceitos/lei-de-causa-e-efeito]] — toda ação produz consequência proporcional, no plano físico e moral.
+- [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — toda ação produz consequência proporcional, no plano físico e moral.
 - [[wiki/conceitos/expiacao]] — sofrimento consequente às faltas, oportunidade de progresso (LE; C&I).
 - [[wiki/conceitos/arrependimento]] — primeiro passo da reabilitação moral (LE, q. 990–1009; C&I).
 - [[wiki/conceitos/provas-e-expiacoes]] — provas educativas vs. expiações reparadoras (LE; C&I; ESE).
@@ -187,19 +200,19 @@ index: false
 - [[wiki/conceitos/calunia]] — calúnia como "monstro invisível"; tutela inversa como mecanismo de reparação (ESE caps. X, XII; André Luiz, *Os Mensageiros*, caps. 17, 27).
 
 ### Leis morais (Parte 3 do LE)
-- [[wiki/conceitos/lei-moral]] — conjunto das leis divinas que regem a vida moral, inscrita na consciência (LE, Parte 3).
+- [[wiki/conceitos/leis-morais]] — conjunto das leis divinas que regem a vida moral, inscrita na consciência (LE, Parte 3).
 - [[wiki/conceitos/lei-natural]] — lei divina, guarda-chuva das demais (LE, q. 614–648).
-- [[wiki/conceitos/lei-de-adoracao]] — prece e culto (LE, q. 649–673).
-- [[wiki/conceitos/lei-do-trabalho]] — LE, q. 674–685.
-- [[wiki/conceitos/lei-de-reproducao]] — LE, q. 686–701.
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — prece e culto (LE, q. 649–673).
+- [[wiki/conceitos/leis-morais/lei-do-trabalho]] — LE, q. 674–685.
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — LE, q. 686–701.
 - [[wiki/conceitos/energia-sexual]] — Modalidade da força criadora que sustenta reprodução, magnetismo afetivo e sublimação; articula Kardec (Lei de Reprodução), Emmanuel (carga magnética) e André Luiz (centro genésico).
-- [[wiki/conceitos/lei-de-conservacao]] — LE, q. 702–727.
-- [[wiki/conceitos/lei-de-destruicao]] — guerra, pena de morte (LE, q. 728–765).
-- [[wiki/conceitos/lei-de-sociedade]] — LE, q. 766–775.
-- [[wiki/conceitos/lei-do-progresso]] — civilização e progresso moral (LE, q. 776–802).
-- [[wiki/conceitos/lei-de-igualdade]] — riqueza, miséria, homem e mulher (LE, q. 803–824).
-- [[wiki/conceitos/lei-de-liberdade]] — escravidão, livre-arbítrio, fatalidade (LE, q. 825–872).
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — LE, q. 873–892.
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]] — LE, q. 702–727.
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — guerra, pena de morte (LE, q. 728–765).
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — LE, q. 766–775.
+- [[wiki/conceitos/leis-morais/lei-do-progresso]] — civilização e progresso moral (LE, q. 776–802).
+- [[wiki/conceitos/leis-morais/lei-de-igualdade]] — riqueza, miséria, homem e mulher (LE, q. 803–824).
+- [[wiki/conceitos/leis-morais/lei-de-liberdade]] — escravidão, livre-arbítrio, fatalidade (LE, q. 825–872).
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — LE, q. 873–892.
 - [[wiki/conceitos/perfeicao-moral]] — virtudes, egoísmo (LE, q. 893–919).
 
 ## Personalidades

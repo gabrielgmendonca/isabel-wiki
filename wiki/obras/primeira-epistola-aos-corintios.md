@@ -50,7 +50,7 @@ Passagens-chave citadas ou aproveitadas por Kardec: **1 Co 13:1–13** (caridade
 
 **Cap. 5 — O incestuoso; "presente no espírito".** Caso escandaloso de fornicação na comunidade. Curiosamente, Paulo escreve: "Eu, na verdade, ainda que ausente no corpo, mas **presente no espírito**, já determinei [...]" (5:3) — formulação que, em chave espírita, sugere ação consciente à distância pelo perispírito (cf. Gênese, cap. XIV, item 18 — irradiação fluídica; [[wiki/conceitos/emancipacao-da-alma|emancipação da alma]]). Ver [[raw/biblia-acf/1-corintios/5]].
 
-**Cap. 6 — Processos entre irmãos; corpo como templo.** "Não sabeis vós que havemos de julgar os anjos?" (6:3) — passagem enigmática sobre a responsabilidade espiritual futura. "O vosso corpo é o templo do Espírito Santo" (6:19) — retomada de 3:16, base para a ética do **respeito ao corpo** e da condenação da fornicação. "Fugi da fornicação. Todo o pecado que o homem comete é fora do corpo; mas o que fornica peca contra o seu próprio corpo" (6:18) — coerente com [[wiki/conceitos/lei-de-conservacao|Lei de Conservação]] (LE q. 702–727) e com o princípio de que o corpo é instrumento a ser preservado para a obra da alma. Ver [[raw/biblia-acf/1-corintios/6]].
+**Cap. 6 — Processos entre irmãos; corpo como templo.** "Não sabeis vós que havemos de julgar os anjos?" (6:3) — passagem enigmática sobre a responsabilidade espiritual futura. "O vosso corpo é o templo do Espírito Santo" (6:19) — retomada de 3:16, base para a ética do **respeito ao corpo** e da condenação da fornicação. "Fugi da fornicação. Todo o pecado que o homem comete é fora do corpo; mas o que fornica peca contra o seu próprio corpo" (6:18) — coerente com [[wiki/conceitos/leis-morais/lei-de-conservacao|Lei de Conservação]] (LE q. 702–727) e com o princípio de que o corpo é instrumento a ser preservado para a obra da alma. Ver [[raw/biblia-acf/1-corintios/6]].
 
 **Cap. 7 — Casamento, celibato, separação, escravidão, vocação.** Capítulo doutrinariamente delicado. Paulo prefere o celibato ("bom seria que o homem não tocasse em mulher", 7:1; "quereria que todos os homens fossem como eu mesmo", 7:7) e trata o casamento como concessão ("melhor casar do que abrasar-se", 7:9; "os tais terão tribulações na carne", 7:28). Aos casados, ordena a indissolubilidade e a não-separação (7:10–11). "Cada um fique na vocação em que foi chamado" (7:20) — princípio de aceitação da posição social, delicado à luz da evolução doutrinária. Ver [[raw/biblia-acf/1-corintios/7]].
 
@@ -95,7 +95,7 @@ A ceia é, nessa leitura espírita, **ocasião ritual do exame diário de consci
 > "Agora, pois, permanecem a fé, a esperança e o amor, estes três, mas o maior destes é o amor." (1 Co 13:13)
 
 Kardec cita esta passagem em ESE cap. XV, item 4, como base neotestamentária da máxima **"Fora da caridade não há salvação"**. O v. 8 — "O amor nunca falha; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá" — estabelece a **primazia da moral sobre os fenômenos**: dons mediúnicos passam; a caridade permanece (cf. Viagem Espírita em 1862 — o período moralista sucede o fenomênico). Ver [[raw/biblia-acf/1-corintios/13]].
-- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/lei-de-justica-amor-e-caridade]]
+- **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 **Cap. 14 — Profecia, línguas e ordem no culto.** "Segui o amor, e procurai com zelo os dons espirituais, mas principalmente o de profetizar" (14:1). Paulo **hierarquiza os dons pela utilidade coletiva**: profecia (comunicação inteligível) > línguas (ininteligível sem intérprete). "Cinco palavras na minha própria inteligência" valem mais que "dez mil palavras em língua desconhecida" (14:19). Princípios centrais para o estudo espírita da mediunidade:
 
@@ -144,7 +144,7 @@ Ver [[raw/biblia-acf/1-corintios/15]].
 7. **Autoexame moral** — "examine-se o homem a si mesmo" (11:28). Paralelo direto com LE q. 919 (Conhece-te a ti mesmo — Santo Agostinho). A ceia como ocasião do exame diário.
 8. **Prova pelo fogo** — 1 Co 3:13–15 é alegoria das penas reparadoras; o salvo "como pelo fogo" refuta a tese do castigo eterno (cf. [[wiki/conceitos/penas-eternas]]; C&I 1ª parte caps. VI–VII).
 9. **Idolatria e demônios** — 8:4 + 10:20 articulam monoteísmo (ídolo nada é) com reconhecimento dos espíritos inferiores associados a cultos degradados (cf. [[wiki/conceitos/demonios]]).
-10. **Universalismo e adaptação pedagógica** — "fiz-me tudo para todos" (9:22); todos vivificados em Cristo (15:22). Articula com a progressividade da revelação e com a [[wiki/conceitos/lei-de-justica-amor-e-caridade|lei de justiça, amor e caridade]].
+10. **Universalismo e adaptação pedagógica** — "fiz-me tudo para todos" (9:22); todos vivificados em Cristo (15:22). Articula com a progressividade da revelação e com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|lei de justiça, amor e caridade]].
 
 ## Referências cruzadas com o Pentateuco
 
@@ -185,8 +185,8 @@ Ver [[raw/biblia-acf/1-corintios/15]].
 - [[wiki/conceitos/expiacao-e-reparacao]] — 3:13–15 (prova pelo fogo)
 - [[wiki/conceitos/penas-eternas]] — "salvo, todavia como pelo fogo" (3:15)
 - [[wiki/conceitos/demonios]] — 10:20
-- [[wiki/conceitos/lei-de-justica-amor-e-caridade]] — cap. 13
-- [[wiki/conceitos/lei-de-conservacao]] — 6:18–20 (corpo como templo)
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — cap. 13
+- [[wiki/conceitos/leis-morais/lei-de-conservacao]] — 6:18–20 (corpo como templo)
 - [[wiki/conceitos/vida-futura]] — cap. 15
 
 ## Personalidades citadas

@@ -1,4 +1,5 @@
 ---
+title: "Lei de justiça, de amor e de caridade"
 tipo: conceito
 fontes: [LE, ESE, NT]
 tags: [justica, amor, caridade, propriedade, lei-moral, regra-de-ouro, paulo, romanos, efesios, tiago, lei-real, lei-da-liberdade, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, tema/moral]
@@ -60,7 +61,7 @@ A passagem é gêmea do hino de 1 Co 13 e da síntese de Jesus em Mt 22:37–40 
 A fórmula paulina ilumina dois pontos do Pentateuco:
 
 1. **Caridade sintetiza**, não substitui, o decálogo moral — Paulo lista os mandamentos e mostra que todos se resumem no amor ao próximo. Espelhando LE q. 886, comentário: "amar o próximo é fazer-lhe todo o bem que nos seria possível e que desejaríamos nos fosse feito".
-2. **"O amor não faz mal ao próximo"** (Rm 13:10) — critério negativo paralelo à [[wiki/conceitos/lei-de-igualdade|regra de ouro]]: onde há amor efetivo, não há dano; onde há dano, não há amor, por mais que se invoque a palavra. Este critério operacional é retomado em ESE cap. XV, item 10: "Ama o teu próximo como a ti mesmo, faze aos outros o que quiseras que te fizessem a ti; sintetiza todos os deveres do homem para com o seu semelhante".
+2. **"O amor não faz mal ao próximo"** (Rm 13:10) — critério negativo paralelo à [[wiki/conceitos/leis-morais/lei-de-igualdade|regra de ouro]]: onde há amor efetivo, não há dano; onde há dano, não há amor, por mais que se invoque a palavra. Este critério operacional é retomado em ESE cap. XV, item 10: "Ama o teu próximo como a ti mesmo, faze aos outros o que quiseras que te fizessem a ti; sintetiza todos os deveres do homem para com o seu semelhante".
 
 Paulo retoma o mesmo tema na ética prática de Rm 12:9–21 ("O amor seja não fingido [...] abençoai aos que vos perseguem [...] não vos vingueis a vós mesmos [...] não te deixes vencer do mal, mas vence o mal com o bem"), paralelo direto de ESE cap. XII ("Amai os vossos inimigos"). Ver [[wiki/obras/epistola-aos-romanos]].
 
@@ -85,8 +86,8 @@ A [[wiki/obras/epistola-de-tiago|Epístola de Tiago]] dá ao princípio formula�
 Tiago articula três teses que fundem perfeitamente esta lei moral kardequiana:
 
 1. **"Lei real"** (*nomos basilikos*, lei do Reino, 2:8) — nome dado por Tiago ao "amarás a teu próximo como a ti mesmo" (Lv 19:18; cf. Mt 22:39; Rm 13:9). Convergência total com LE q. 886 e ESE caps. XI–XV. A "realeza" da lei é seu **caráter síntese**: as demais leis são "vassalas" desta.
-2. **"Lei perfeita da liberdade"** (1:25) ou **"lei da liberdade"** (2:12) — nome dado à mesma lei moral enquanto **vivida por dentro**, não imposta por fora. A antítese exata do legalismo: a Lei real **liberta** quem a cumpre porque elimina a fragmentação interior entre dever e querer (cf. ESE cap. XVII; LE q. 825–872 — [[wiki/conceitos/lei-de-liberdade]]).
-3. **"A misericórdia triunfa do juízo"** (2:13) — critério recíproco do juízo, eco direto da [[wiki/conceitos/bem-aventuranca-dos-misericordiosos|bem-aventurança dos misericordiosos]] (Mt 5:7) e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35). Quem mediu com indulgência será medido com indulgência; é [[wiki/conceitos/lei-de-causa-e-efeito]] aplicada à esfera moral do juízo.
+2. **"Lei perfeita da liberdade"** (1:25) ou **"lei da liberdade"** (2:12) — nome dado à mesma lei moral enquanto **vivida por dentro**, não imposta por fora. A antítese exata do legalismo: a Lei real **liberta** quem a cumpre porque elimina a fragmentação interior entre dever e querer (cf. ESE cap. XVII; LE q. 825–872 — [[wiki/conceitos/leis-morais/lei-de-liberdade]]).
+3. **"A misericórdia triunfa do juízo"** (2:13) — critério recíproco do juízo, eco direto da [[wiki/conceitos/bem-aventuranca-dos-misericordiosos|bem-aventurança dos misericordiosos]] (Mt 5:7) e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35). Quem mediu com indulgência será medido com indulgência; é [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] aplicada à esfera moral do juízo.
 
 A formulação de Tiago **fecha o anel** entre as três leis kardequianas que mais se entrelaçam: Lei de Justiça, Amor e Caridade (LE q. 873–892), Lei de Liberdade (LE q. 825–872) e Lei de Igualdade (LE q. 803–824) — esta última especialmente solicitada por Tg 2:1–9 ("não fazer acepção de pessoas").
 
@@ -102,7 +103,7 @@ Desdobrado nas questões finais do capítulo como expressão mais primária da c
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/lei-de-igualdade]] · [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/lei-de-adoracao]]
+- [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]] · [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec como síntese desta lei (ESE, cap. XV, item 5).
 
 ## Fontes

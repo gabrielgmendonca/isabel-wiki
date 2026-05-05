@@ -94,8 +94,8 @@ A expressão "partilharão dos sofrimentos do filho na vida futura" aponta para 
 ## Conceitos relacionados
 
 - [[wiki/conceitos/responsabilidade]]
-- [[wiki/conceitos/lei-de-sociedade]]
-- [[wiki/conceitos/lei-de-reproducao]]
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]]
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]]
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/evangelizacao-infantojuvenil]]

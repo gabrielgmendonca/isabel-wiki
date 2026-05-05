@@ -114,7 +114,7 @@ Couraça e fortaleza não são duas imagens para a mesma coisa. A couraça é in
 
 - [[wiki/conceitos/culto-do-evangelho-no-lar]] — estrutura concreta do culto familiar
 - [[wiki/conceitos/prece]] — fundamento doutrinário da prece (ESE caps. XXVII-XXVIII)
-- [[wiki/conceitos/lei-de-adoracao]] — base na Parte 3 do LE
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — base na Parte 3 do LE
 - [[wiki/conceitos/emancipacao-da-alma]] — sono físico como porta de intercâmbio
 - [[wiki/conceitos/fluidos]] — substrato físico da defesa magnética
 - [[wiki/conceitos/obsessao]] — defesa magnética articula-se ao combate ao foco obsessivo
