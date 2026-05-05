@@ -85,6 +85,8 @@ A coletânea de preces do cap. XXVIII do ESE oferece modelos para diversas circu
 
 Na casa espírita, a prece de abertura e encerramento dos trabalhos cria a atmosfera espiritual adequada. No cotidiano, a prece é recurso de fortalecimento interior, de conexão com os benfeitores espirituais e de exercício da humildade diante de Deus.
 
+Em momentos de **decisão de vida difícil** (carreira, casamento, filhos, cuidado de familiar dependente), o cap. XXVII do ESE é a referência operativa: pedir paciência, coragem, resignação, fé e melhoria moral — não o desfecho material. A alegoria do viajante perdido no deserto (item 8) ilustra o regime: o socorro chega como **ideia inspirada**, deixando ao orante o mérito da ação. Sistematização e aplicação a casos típicos em [[wiki/aprofundamentos/decisoes-de-vida-e-providencia]].
+
 ## Desenvolvimento por Léon Denis
 
 Em *O Grande Enigma* (caps. III, VII–VIII), Denis apresenta a prece como a "expressão mais elevada da comunhão das almas" — não fórmula banal, mas impulso do coração pelo qual "o espírito desvencilha-se das servidões da matéria para penetrar nas leis, nos mistérios da Potência Infinita" (cap. III).

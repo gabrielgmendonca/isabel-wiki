@@ -183,6 +183,34 @@ Sem prece e pensamento dirigido a Deus, o experimentador fica exposto a "mistifi
 2. Desconfiar de revelações novas que "ultrapassam" o Pentateuco em pontos doutrinários centrais.
 3. Confrontar sempre com a razão e com a moral do Cristo — os dois crivos permanentes.
 
+### Discernimento da inspiração no cotidiano
+
+Os mesmos critérios que se aplicam à comunicação mediúnica formal aplicam-se à **intuição em decisão de vida**. Quando alguém ora diante de uma escolha pesada — qual caminho seguir, se romper ou manter um vínculo, como agir num conflito — pensamentos chegam. Eles podem ser inspiração elevada (concurso de bons Espíritos via [[wiki/conceitos/comunhao-de-pensamentos|comunhão de pensamentos]]), sugestão de Espíritos inferiores (incluindo obsessores que confirmam o que a vaidade quer ouvir), ou eco da própria mente em estado emocional. Distinguir os três é o discernimento da inspiração no foro íntimo.
+
+A alegoria matriz é o **viajante perdido no deserto** (ESE, cap. XXVII, item 8): o bom Espírito sugere a ideia de tomar um caminho; o homem se ergue e encontra o regato. A inspiração elevada chega como **ideia clara, sustentável pela razão, alinhada à moral do Cristo, que reforça a responsabilidade própria** — e nunca como ordem que retira do escolhedor o mérito da ação.
+
+**Sinais de inspiração elevada:**
+
+- **Paz interior** — não euforia, não certeza absoluta; a paz que excede o entendimento (Fp 4:7), serena e firme.
+- **Caridade** — a ideia respeita o próximo, considera o efeito sobre quem depende, não nasce do desejo de retaliação ou afirmação egoísta.
+- **Reforço da responsabilidade própria** — a ideia convoca à ação, ao discernimento, ao trabalho; não promete que outro (Espírito, médium, Deus) decidirá pelo orante.
+- **Coerência moral** — alinhamento com os ensinamentos morais de Jesus e com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|lei de justiça, amor e caridade]].
+- **Coerência racional** — sustentável pelo exame da razão; a inspiração elevada não exige que se desligue o juízo.
+- **Humildade** — admite incerteza, abre-se à correção, não tem urgência arrogante.
+
+**Sinais de sugestão inferior (ou de projeção da própria mente desequilibrada):**
+
+- **Agitação, urgência ansiosa** — "tem que ser agora, sem pensar mais".
+- **Impulso egoísta** — privilegia a gratificação imediata, despreza o efeito sobre os outros.
+- **Terceirização** — "o Espírito decide por mim", "esta foi a vontade de Deus". A Doutrina admite o livre-arbítrio "em toda a sua plenitude" (LE q. 843); inspirações que retiram do orante a responsabilidade da escolha são suspeitas por construção.
+- **Desejo de gratificação ou vingança** — "ele vai ver", "vou provar para todos".
+- **Descolamento da realidade prática** — promete resultados sem caminho, ignora obrigações concretas, fantasia fugitiva.
+- **Confirmação cega da vaidade** — a "inspiração" diz exatamente o que se queria ouvir, sem custo nem reforma.
+
+A regra prática é a mesma da reunião mediúnica: **inspiração não é oráculo**. Serve de subsídio à deliberação, não a substitui. Diante de pensamentos persistentes que parecem inspirados, deixar repousar (uma noite, alguns dias), conferir com pessoas equilibradas de confiança, comparar com a moral do Cristo e com a [[wiki/conceitos/prece|prece]] continuada por discernimento — sem pressa de "obedecer" o que pareceu inspiração súbita. A inspiração elevada não tem pressa.
+
+Aplicação a decisões reais (carreira, casamento, separação, filhos, cuidado de dependente) está sistematizada em [[wiki/aprofundamentos/decisoes-de-vida-e-providencia]].
+
 ## Divergências
 
 Nenhuma divergência registrada entre Kardec e as fontes neotestamentárias centrais sobre discernimento — há **convergência forte** entre 1 Co 12:10; 14:29, 32–33; 1 Jo 4:1 e LM cap. XXIV. A divergência se dá apenas com tradições que **absolutizam uma comunicação específica** (mensagem privada, revelação pessoal, aparição tida como inquestionável) em prejuízo do exame crítico — prática que Kardec e o NT condenam igualmente.

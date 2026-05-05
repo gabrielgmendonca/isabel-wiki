@@ -30,6 +30,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/trilhas/esde]] — trilhas para ESDE e evangelização infantojuvenil.
 - [[wiki/trilhas/palestras]] — preparação de palestras: parábolas, sínteses, slides.
 - [[wiki/trilhas/leitura-livre]] — roteiro de leitura do Pentateuco e complementares.
+- [[wiki/trilhas/decisoes-dificeis]] — sequência prática para quem está num momento de decisão de vida pesada.
 - [[wiki/sinteses/glossario]] — definições curtas dos termos espíritas.
 
 ## Obras
@@ -459,6 +460,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 - [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
 - [[wiki/aprofundamentos/por-que-mediuns-falham]] — Análise da preleção de Telésforo e dos casos paradigmáticos de fracasso mediúnico (Otávio, Acelino, Belarmino, Monteiro) à luz de LM caps. XX, XXVIII (André Luiz, *Os Mensageiros*, caps. 5–13).
 - [[wiki/aprofundamentos/dor-rigidez]] — A rigidez como dor da alma: excesso íntimo, dureza social e paixão como raiz, articulando o tema 14 de *As Dores da Alma* (Hammed) com LE q. 713, 762 e 908.
+- [[wiki/aprofundamentos/decisoes-de-vida-e-providencia]] — Como a Doutrina ajuda em decisões pesadas (carreira, casamento, separação, filhos, cuidado de dependente): inspiração em vez de substituição, pedido calibrado, critério moral acima do critério de êxito, livre-arbítrio + horizonte longo (ESE cap. XXVII, com Emmanuel/*Vida e Sexo* para vida conjugal e familiar).
 
 ## Questões
 
@@ -473,6 +475,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual e responsabilidade cósmica; janela providencial da infância (LE, q. 582–583).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
+- [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
 
 ## Sínteses
 
