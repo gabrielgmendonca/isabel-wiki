@@ -1125,6 +1125,70 @@ def check_canonical_names(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items), "items": items}
 
 
+_MUNDOS_HABITADOS_CANONICAL_SLUGS = (
+    "mundos-primitivos",
+    "mundos-de-expiacao-e-provas",
+    "mundos-regeneradores",
+    "mundos-felizes",
+    "mundos-celestes-ou-divinos",
+    "pluralidade-dos-mundos-habitados",
+)
+
+# (descrição amigável, regex) — cada padrão captura UM tipo de drift.
+_MUNDOS_HABITADOS_DRIFT_PATTERNS = (
+    ("mundo regenerado (particípio)", re.compile(r"\bmundos?\s+regenerados?\b", re.IGNORECASE)),
+    ("mundos ditosos (variante)", re.compile(r"\bmundos?\s+ditosos?\b", re.IGNORECASE)),
+    ("ordem invertida 'provas e expiações'", re.compile(r"\bmundos?\s+de\s+provas\s+e\s+expia[cç][õo]es?\b", re.IGNORECASE)),
+)
+
+# "mundo de provas" sem "expiação" próximo na mesma linha — flagged separado
+# porque exige verificação de contexto.
+_MUNDOS_PROVAS_PATTERN = re.compile(r"\bmundos?\s+de\s+provas?\b", re.IGNORECASE)
+
+
+def check_mundos_habitados_naming(pages: list[Path]) -> dict:
+    """Check — variantes não-canônicas da escala dos mundos habitados.
+
+    Kardec fixa em ESE cap. III, item 4 cinco categorias canônicas (mundos
+    primitivos / de expiação e provas / de regeneração / felizes / celestes
+    ou divinos). Em prosa, a wiki acaba usando variantes drift: "mundo de
+    provas" (sem expiação), "mundo regenerado" (particípio), "mundos ditosos",
+    "mundo de provas e expiações" (ordem invertida). Ver
+    `.claude/rules/convencoes-mundos-habitados.md`.
+
+    Skip: as 6 páginas-conceito da escala (introduzem suas próprias variantes
+    em "Definição"/"Ensino de Kardec"), frontmatter, blockquotes, inline code,
+    wikilinks. Severity `info` — orienta passes incrementais; promover a
+    `warning` após calibração contra falsos positivos.
+    """
+    items: list[dict] = []
+    for page in pages:
+        page_str = str(page)
+        slug = page.stem
+        if slug in _MUNDOS_HABITADOS_CANONICAL_SLUGS:
+            continue
+        text = page.read_text(encoding="utf-8")
+        body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
+        body = strip_inline_code(body)
+        body = _strip_blockquotes(body)
+        body = _strip_wikilinks(body)
+        seen_for_page: set[str] = set()
+        for i, line in enumerate(body.splitlines(), 1):
+            for label, pat in _MUNDOS_HABITADOS_DRIFT_PATTERNS:
+                if label in seen_for_page:
+                    continue
+                if pat.search(line):
+                    items.append({"path": page_str, "line": i, "variante": label})
+                    seen_for_page.add(label)
+            # "mundo de provas" sem "expiação" na mesma linha — drift.
+            if "provas" in seen_for_page:
+                continue
+            if _MUNDOS_PROVAS_PATTERN.search(line) and "expia" not in line.lower():
+                items.append({"path": page_str, "line": i, "variante": "mundo de provas (sem expiação)"})
+                seen_for_page.add("provas")
+    return {"severity": "info", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -1181,6 +1245,7 @@ CHECK_REGISTRY = {
     "tag_coverage": check_tag_coverage,
     "naming_consistency": check_naming_consistency,
     "canonical_names": check_canonical_names,
+    "mundos_habitados_naming": check_mundos_habitados_naming,
     "skills_consistency": check_skills_consistency,
     "raw_excluded": check_raw_excluded,
     "direitos_obras": check_direitos_obras,
@@ -1206,6 +1271,7 @@ SINGLE_FILE_CHECKS = (
     "tag_coverage",
     "direitos_obras",
     "quote_proportion",
+    "mundos_habitados_naming",
 )
 
 

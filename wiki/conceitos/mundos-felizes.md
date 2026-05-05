@@ -48,8 +48,10 @@ Em estudos sobre a pluralidade dos mundos e o destino da Humanidade, os mundos f
 
 ## Páginas relacionadas
 
+- [[wiki/conceitos/mundos-primitivos]] — o ponto de partida da escala
+- [[wiki/conceitos/mundos-de-expiacao-e-provas]] — onde a Terra ainda está
 - [[wiki/conceitos/mundos-regeneradores]] — o estágio intermediário
-- [[wiki/conceitos/mundos-de-expiacao-e-provas]] — o estágio inferior
+- [[wiki/conceitos/mundos-celestes-ou-divinos]] — o estágio seguinte (cume)
 - [[wiki/conceitos/escala-espirita]] — a classificação dos Espíritos
 - [[wiki/conceitos/progresso-espiritual]] — a lei que conduz aos mundos superiores
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — a diversidade dos mundos

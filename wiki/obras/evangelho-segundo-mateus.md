@@ -109,7 +109,7 @@ Bloco central da moral cristã; núcleo doutrinário do ESE.
 
 ### Discurso escatológico (caps. 24–25)
 
-**Cap. 24 — Sinais dos tempos e vinda do Filho do homem.** Destruição do templo, guerras, pestes, falsos cristos, perseguições (Mt 24:1–28). Kardec relaciona estes sinais à transição planetária — passagem da Terra da condição de mundo de provas à de mundo regenerado (Gênese, cap. XVIII; ESE, cap. III, item 18). "Vigiai, pois, porque não sabeis a que hora há de vir o vosso Senhor" (Mt 24:42). Ver [[raw/biblia-acf/mateus/24]].
+**Cap. 24 — Sinais dos tempos e vinda do Filho do homem.** Destruição do templo, guerras, pestes, falsos cristos, perseguições (Mt 24:1–28). Kardec relaciona estes sinais à transição planetária — passagem da Terra da condição de [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] à de [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] (Gênese, cap. XVIII; ESE, cap. III, item 18). "Vigiai, pois, porque não sabeis a que hora há de vir o vosso Senhor" (Mt 24:42). Ver [[raw/biblia-acf/mateus/24]].
 - **Conceito:** [[wiki/conceitos/transicao-planetaria]]
 
 **Cap. 25 — Dez virgens, talentos, ovelhas e cabritos.** Parábola das dez virgens (Mt 25:1–13) — vigilância moral, ESE, cap. XVIII. Parábola dos talentos (Mt 25:14–30) — responsabilidade sobre os dons, ESE, cap. XVI. Juízo final das ovelhas e cabritos (Mt 25:31–46) — o critério é a caridade prática: "o que fizestes a um destes meus pequeninos irmãos, a mim o fizestes" (Mt 25:40). Ver [[raw/biblia-acf/mateus/25]].

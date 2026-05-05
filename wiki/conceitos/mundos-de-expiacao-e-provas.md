@@ -49,8 +49,10 @@ Essa classificação auxilia na compreensão das desigualdades, das guerras e do
 ## Páginas relacionadas
 
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — a diversidade dos mundos
+- [[wiki/conceitos/mundos-primitivos]] — o estágio anterior na escala
 - [[wiki/conceitos/mundos-regeneradores]] — a etapa seguinte à expiação
 - [[wiki/conceitos/mundos-felizes]] — os mundos superiores
+- [[wiki/conceitos/mundos-celestes-ou-divinos]] — o cume da escala
 - [[wiki/conceitos/reencarnacao]] — o mecanismo de progresso individual
 - [[wiki/conceitos/penas-e-gozos-futuros]] — consequências morais nos mundos
 - [[wiki/conceitos/vida-futura]] — a transitoriedade da vida terrena

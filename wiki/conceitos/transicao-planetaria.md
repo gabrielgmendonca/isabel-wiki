@@ -60,7 +60,7 @@ A "nova Jerusalém" (Ap 21:2; 21:9–22:5) é a alegoria da **humanidade regener
 
 ## Aplicação prática
 
-A transição planetária fundamenta a esperança espírita no futuro da Terra sem escapismo ou passividade: o advento do mundo regenerado depende do esforço moral de cada Espírito. Quem se reforma interiormente contribui para a transição; quem se obstina no mal será naturalmente afastado pela lei de progresso. A mensagem é de responsabilidade ativa, não de espera passiva.
+A transição planetária fundamenta a esperança espírita no futuro da Terra sem escapismo ou passividade: o advento do [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] depende do esforço moral de cada Espírito. Quem se reforma interiormente contribui para a transição; quem se obstina no mal será naturalmente afastado pela lei de progresso. A mensagem é de responsabilidade ativa, não de espera passiva.
 
 ## Na *Viagem Espírita em 1862*
 

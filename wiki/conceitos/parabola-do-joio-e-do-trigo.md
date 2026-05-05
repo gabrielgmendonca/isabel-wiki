@@ -18,7 +18,7 @@ Parábola narrada por Jesus em Mateus 13:24–30 (explicada em 13:36–43). Desc
 
 ## Ensino de Kardec
 
-Kardec aborda esta parábola no ESE, cap. XVIII ("Muitos são os chamados, poucos os escolhidos"), articulando-a à lógica da **triagem moral** que caracteriza a transição da Terra de mundo de provas a mundo regenerado. O joio e o trigo convivem enquanto os Espíritos podem progredir — cada existência é oportunidade de transformação. A "ceifa" é a separação: os Espíritos endurecidos no mal passam a mundos inferiores para continuar sua evolução; os que se emendaram permanecem no mundo renovado (ESE, cap. XVIII, item 7; Gênese, cap. XVIII).
+Kardec aborda esta parábola no ESE, cap. XVIII ("Muitos são os chamados, poucos os escolhidos"), articulando-a à lógica da **triagem moral** que caracteriza a transição da Terra de [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] a [[wiki/conceitos/mundos-regeneradores|mundo regenerador]]. O joio e o trigo convivem enquanto os Espíritos podem progredir — cada existência é oportunidade de transformação. A "ceifa" é a separação: os Espíritos endurecidos no mal passam a mundos inferiores para continuar sua evolução; os que se emendaram permanecem no mundo renovado (ESE, cap. XVIII, item 7; Gênese, cap. XVIII).
 
 A parábola responde a uma inquietação prática: por que Deus tolera que bons e maus convivam? Porque a coexistência é oportunidade de aprendizado mútuo, e porque a separação precipitada arrancaria também trigo bom ainda em formação.
 

@@ -29,9 +29,9 @@ O Espírito pode também sofrer sem culpa própria aparente, por missão de abne
 
 O Espírito, no estado errante, escolhe suas provas com o auxílio de guias espirituais. Escolhe as que julga mais adequadas para seu adiantamento — riqueza ou pobreza, saúde ou doença, família ou solidão. Se fracassa, pode recomeçar numa nova existência (LE, q. 258–262).
 
-### A Terra como mundo de provas e expiações
+### A Terra como mundo de expiação e provas
 
-A Terra é classificada como mundo de expiações e provas — onde o mal ainda sobrepuja o bem. Os Espíritos que nela encarnam têm provas a sofrer ou faltas a expiar, o que explica a soma de sofrimento observada na humanidade (ESE, cap. III; C&I, 1ª parte, cap. III).
+A Terra é classificada como [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] — onde o mal ainda sobrepuja o bem. Os Espíritos que nela encarnam têm provas a sofrer ou faltas a expiar, o que explica a soma de sofrimento observada na humanidade (ESE, cap. III; C&I, 1ª parte, cap. III).
 
 ### Base paulina: a correção do "Pai dos espíritos" em Hebreus 12
 

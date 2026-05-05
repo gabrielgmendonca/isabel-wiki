@@ -30,7 +30,7 @@ O cap. III do ESE desenvolve a classificação dos mundos habitados em categoria
 
 Essa escala complementa o ensino do LE sobre a diversidade dos globos, detalhando as condições morais de cada categoria e a progressão do Espírito de um tipo de mundo a outro.
 
-Ver [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
+Ver [[wiki/conceitos/mundos-primitivos]] · [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/mundos-felizes]] · [[wiki/conceitos/mundos-celestes-ou-divinos]] · [[wiki/obras/evangelho-segundo-o-espiritismo]].
 
 ### Comunicação sobre Vênus (RE, ago/1862)
 

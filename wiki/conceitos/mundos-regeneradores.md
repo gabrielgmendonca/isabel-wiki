@@ -44,8 +44,11 @@ Nas palestras sobre o futuro da Humanidade e da Terra, os mundos regeneradores o
 
 ## Páginas relacionadas
 
+- [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — a escala canônica
+- [[wiki/conceitos/mundos-primitivos]] — o ponto de partida da escala
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — o estágio anterior
 - [[wiki/conceitos/mundos-felizes]] — o estágio seguinte
+- [[wiki/conceitos/mundos-celestes-ou-divinos]] — o cume da escala
 - [[wiki/conceitos/progresso-espiritual]] — a lei que impulsiona a transição entre mundos
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
 

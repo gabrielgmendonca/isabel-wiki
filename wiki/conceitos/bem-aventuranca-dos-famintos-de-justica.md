@@ -23,7 +23,7 @@ Kardec lê as três bem-aventuranças do capítulo V como um diagnóstico da Ter
 "Somente na vida futura podem efetivar-se as compensações que Jesus promete aos aflitos da Terra" (ESE, cap. V, item 3). A saciedade prometida tem, portanto, dois horizontes:
 
 - **Individual** — o Espírito sedento de justiça encontra nos mundos superiores o reino de concórdia que na Terra lhe faltou. "As vicissitudes da vida derivam de uma causa e, pois que Deus é justo, justa há de ser essa causa" (ibid.); quem persevera na justiça aqui colhe nos mundos felizes o que plantou.
-- **Coletivo** — a transição planetária. "Quando a Humanidade se submeter à lei de amor e de caridade, deixará de haver egoísmo; o fraco e o pacífico já não serão explorados, nem esmagados pelo forte e pelo violento. Tal a condição da Terra, quando (...) se houver tornado mundo ditoso, por efeito do afastamento dos maus" (ESE, cap. IX, item 5).
+- **Coletivo** — a transição planetária. "Quando a Humanidade se submeter à lei de amor e de caridade, deixará de haver egoísmo; o fraco e o pacífico já não serão explorados, nem esmagados pelo forte e pelo violento. Tal a condição da Terra, quando (...) se houver tornado [[wiki/conceitos/mundos-felizes|mundo ditoso]], por efeito do afastamento dos maus" (ESE, cap. IX, item 5).
 
 ### Fome e sede como virtude
 
