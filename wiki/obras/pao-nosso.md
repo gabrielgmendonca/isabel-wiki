@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
-tags: [emmanuel, chico-xavier, pao-nosso, evangelho, comentarios-evangelicos, coletanea-evangelica, autor/emmanuel, autor/chico-xavier, tema/jesus, tema/moral, tema/mediunidade, lei/trabalho]
+tags: [emmanuel, chico-xavier, pao-nosso, evangelho, comentarios-evangelicos, coletanea-evangelica, autor/emmanuel, autor/chico-xavier, tema/jesus, tema/moral, tema/mediunidade, lei/trabalho, lei/igualdade]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/pao-nosso--brochura-
