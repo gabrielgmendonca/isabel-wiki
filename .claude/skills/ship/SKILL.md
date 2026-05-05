@@ -66,6 +66,7 @@ Comportamento esperado:
 - Faz `rebase` da branch atual sobre `main` com `rerere.enabled=true`.
 - Fast-forward de `main` para o novo HEAD na worktree de `main`.
 - Apaga a branch local (default; `--keep-branch` para evitar).
+- `git push origin main` ao final — obrigatório, falha o ship se push falhar. Mantém `origin/main` em sincronia para que `claude -w` (que ramifica de `origin/HEAD`) abra worktrees frescas.
 
 Se sair com código 0 → seguir para Passo 5.
 

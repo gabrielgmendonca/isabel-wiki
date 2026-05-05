@@ -135,4 +135,15 @@ if [[ $KEEP_BRANCH -eq 0 && $DRY_RUN -eq 0 && $USE_MERGE -eq 0 ]]; then
   }
 fi
 
-echo "✓ $MAIN_BRANCH agora em $(git -C "$MAIN_WORKTREE" rev-parse --short HEAD)"
+# Push para origin: mantém origin/main em sincronia para que `claude -w`
+# (que ramifica de origin/HEAD) abra worktrees frescas.
+if [[ $DRY_RUN -eq 0 ]]; then
+  git -C "$MAIN_WORKTREE" remote get-url origin >/dev/null 2>&1 \
+    || die "remote 'origin' não configurado; o /ship exige push para manter origin/$MAIN_BRANCH em sincronia."
+  echo "→ push de $MAIN_BRANCH para origin"
+  if ! git -C "$MAIN_WORKTREE" push origin "$MAIN_BRANCH"; then
+    die "push de $MAIN_BRANCH falhou. main local está em $(git -C "$MAIN_WORKTREE" rev-parse --short HEAD), origin desatualizado. Resolva (ex.: 'git -C $MAIN_WORKTREE pull --rebase origin $MAIN_BRANCH') e rode 'git -C $MAIN_WORKTREE push origin $MAIN_BRANCH'."
+  fi
+fi
+
+echo "✓ $MAIN_BRANCH agora em $(git -C "$MAIN_WORKTREE" rev-parse --short HEAD) (origin sincronizado)"
