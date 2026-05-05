@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, espirito-comunicante, chico-xavier, autor/chico-xavier, autor/emmanuel, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-05-05
 status: ativo
 ---
 
@@ -20,6 +20,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 - [[wiki/obras/a-caminho-da-luz]] — história da civilização terrestre sob a direção espiritual do Cristo (1939)
 - [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
+- [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
 - [[wiki/obras/vida-e-sexo]] — tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina (1970)
 
 ## Citações relevantes
@@ -29,6 +30,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 > "Sim, porque depois da treva surgirá uma nova aurora. Luzes consoladoras envolverão todo o orbe regenerado no batismo do sofrimento." (Emmanuel, *A Caminho da Luz*, cap. 25)
 
 > "Não proibição, mas educação. Não abstinência imposta, mas emprego digno, com o devido respeito aos outros e a si mesmo. Não indisciplina, mas controle. Não impulso livre, mas responsabilidade." (Emmanuel / Chico Xavier, *Vida e Sexo*, Prefácio — quatro normas-síntese sobre a vida sexual)
+
+> "É sobre a mediunidade, gloriosa luz dos Céus oferecida às criaturas, no Pentecostes, que se edificam as construções espirituais de todas as comunidades sinceras da Doutrina do Cristo e é ainda ela que, dilatada dos apóstolos ao círculo de todos os homens, ressurge no Espiritismo cristão, como a alma imortal do Cristianismo redivivo." (Emmanuel / Chico Xavier, *Caminho, Verdade e Vida*, cap. 10 — sobre o Pentecostes como marco institucional da era mediúnica)
 
 ## Páginas relacionadas
 
@@ -40,4 +43,5 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
