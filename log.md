@@ -1204,3 +1204,13 @@ Ingestão de *Plenitude* (LEAL, 1991, 17ª ed., texto datado out/1990) — trata
 **Páginas atualizadas (7)**: `joanna-de-angelis.md` e `divaldo-franco.md` (Obras associadas + Fontes); `dor.md` (seção "Sofrimento como doença da alma" + Páginas relacionadas); `obsessao.md` (link cruzado para Plenitude cap. X); `o-homem-integral.md` (callout note marcando *Plenitude* como continuação do cap. 33); `no-mundo-maior.md` (wikilink em "Carl Gustav Jung" no cap. 11); `catalogo.md` (5 entradas novas).
 
 **Flags inline**: cap. XI (terapias alternativas — acupuntura, ioga/chakras/kundalini, cromoterapia, homeopatia) registrado como callout `> [!warning]` na página da obra; léxico hindu/teosófico fora do Pentateuco, autora ressalva a primazia da caridade — não é divergência estrutural. Diálogo com Jung registrado como diálogo interdisciplinar, não autoridade doutrinária. Citações de Kardec textuais: LE q. 132 (cap. IV), LE q. 165 (cap. XII), LM cap. XXIII it. 249/252/254 (cap. IX).
+
+## [2026-05-05] ingest | Momentos de Saúde e Consciência (Joanna de Ângelis / Divaldo, LEAL)
+
+Compilação LEAL de duas obras gêmeas: *Momentos de Saúde* (psicografia 22-out-1992) e *Momentos de Consciência* (psicografia 11-set-1991), 20 capítulos cada. Mesmo padrão pastoral curto de *Momentos de Felicidade* (1990), com diálogo aberto com Psicossomática e Psicologias Transpessoal/Transacional/Criativa explicitado no prefácio da Parte 1. Sexta obra de Joanna catalogada na wiki, completando o tríptico LEAL 1990–1992 (*Momentos de Felicidade* → *Plenitude* → *Momentos de Saúde e Consciência*) que antecede a sistematização de *O Ser Consciente* (1993).
+
+**Página criada**: `wiki/obras/momentos-de-saude-e-consciencia.md` — frontmatter `direitos: LEAL` com `url_aquisicao` resolvida pelo helper LEAL para `/series-e-colecoes/serie-psicologica-joanna-de-angelis/momentos-de-saude-e-de-consciencia.html` (slug LEAL inclui "de" duplicado).
+
+**Páginas atualizadas (4)**: `joanna-de-angelis.md` e `divaldo-franco.md` (Obras associadas + Fontes); `psicologia-transpessoal.md` (parágrafo novo articulando a 4-Forças do prefácio da Parte 1 + entrada em Fontes); `catalogo.md` (entrada nova entre *Momentos de Felicidade* e *O Ser Consciente*).
+
+**Flags inline**: léxico tópico "Consciência Cósmica" (Parte 1 cap. 1) registrado como callout `> [!note]` — termo Bucke/teosófico usado como sinônimo de Deus/integração espiritual, sem tensão doutrinária. Citações textuais de Kardec: LE q. 408, q. 621, q. 630, q. 912, q. 919, q. 967. Sem divergência estrutural identificada.
