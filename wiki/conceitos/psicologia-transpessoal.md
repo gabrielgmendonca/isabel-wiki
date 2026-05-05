@@ -22,6 +22,8 @@ Em [[wiki/obras/o-ser-consciente]] (1993), [[wiki/personalidades/joanna-de-angel
 
 > "Antes, porém, de todas essas disciplinas psicológicas e doutrinas parapsíquicas, o Espiritismo descortinou para a criatura a valiosa possibilidade de ser consciente, concitando-a ao auto-encontro e à autodescoberta a respeito da vida além dos estreitos limites materiais."
 
+A tese aparece **já em 1990** em [[wiki/obras/o-homem-integral]] (cap. 39), onde Joanna sintetiza: *"agigantando-se o Espiritismo, pioneiro de uma Psicologia Espiritualista dedicada ao conhecimento do homem integral, na sua valiosa complexidade — Espírito, perispírito e matéria — ampliando os horizontes da vida orgânica, a se desdobrarem além do túmulo e antes do corpo, com infinitas possibilidades de progresso, no rumo da perfeição."* A formulação sistemática de 1993 retoma e organiza o que *O Homem Integral* já articula em prosa narrativa.
+
 A Quarta Força, na leitura de Joanna, não substitui o Espiritismo — confirma-o por outro vocabulário. Os fenômenos paranormais antes catalogados como patologias passam a ser reconhecidos como **expressões da realidade espiritual**, e o ser humano deixa de ser examinado em partes para ser tratado como **integral, holístico**.
 
 ## Ancoragem em Kardec
@@ -64,6 +66,7 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 
 ## Páginas relacionadas
 
+- [[wiki/obras/o-homem-integral]] — primeira articulação extensa da Quarta Força (1990), precursora de *O Ser Consciente*
 - [[wiki/obras/o-ser-consciente]] — tratamento sistemático da Quarta Força à luz espírita
 - [[wiki/conceitos/autoconhecimento]] — programa central da Psicologia Transpessoal e de LE q. 919
 - [[wiki/conceitos/perispirito]] — peça intermediária do tripé que torna o ser "integral"
@@ -73,6 +76,7 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 
 ## Fontes
 
+- Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. LEAL, 1990, especialmente caps. 38–39 (Modelo Organizador Biológico e Reencarnação). Cf. [[wiki/obras/o-homem-integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. LEAL, 1993, especialmente caps. 1–5 (Primeira parte: A Quarta Força). Cf. [[wiki/obras/o-ser-consciente]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621; q. 919.
 - Bíblia. Mateus 7:12.

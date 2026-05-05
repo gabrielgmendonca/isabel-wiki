@@ -29,6 +29,7 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 Em ordem cronológica:
 
 - [[wiki/obras/jesus-e-atualidade]] — Joanna de Ângelis / Divaldo (LEAL, 1989). Prefácio + 20 capítulos breves no padrão "Jesus e X". Livro-manifesto da tese "Jesus-psicoterapeuta": Jesus antecipou Maslow, Assagioli, Grof e Klein. Eixos: reencarnação, querer + crer, honra/decisão/responsabilidade, inimigos internos.
+- [[wiki/obras/o-homem-integral]] — Joanna de Ângelis / Divaldo (LEAL, 1990). 39 capítulos em 9 partes. Livro precursor de *O Ser Consciente* (1993). Tese-título: Jesus como "biótipo do Homem Integral". Catálogo de psicopatologias contemporâneas e tratado mais completo do Modelo Organizador Biológico na bibliografia Joanna.
 - [[wiki/obras/momentos-de-felicidade]] — Joanna de Ângelis / Divaldo (LEAL, 1990). Volume pastoral curto: prefácio + 20 capítulos breves sobre felicidade acessível, dor benfeitora, mediunidade discreta, oração-terapia e domínio das paixões inferiores.
 - [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis / Divaldo (LEAL, 1993). Quarta Força em Psicologia, autoconhecimento, ego × self, conquista do si. 39 capítulos em 10 partes.
 - [[wiki/obras/conquista-da-saude-psicologica]] — Palestra sobre depressão, obsessão e saúde psicológica à luz do Espiritismo (~2009)
@@ -53,6 +54,7 @@ Em ordem cronológica:
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.

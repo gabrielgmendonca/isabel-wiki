@@ -30,6 +30,7 @@ Espírito apresentado por Divaldo Franco como seu **principal mentor espiritual*
 Em ordem cronológica:
 
 - [[wiki/obras/jesus-e-atualidade]] — *Jesus e Atualidade* (LEAL, 1989). Prefácio + 20 capítulos breves no padrão "Jesus e X". **Livro-manifesto** do método "Jesus-psicoterapeuta" — primeiro a articular a tese de que Jesus antecipou intuitivamente Maslow, Assagioli, Grof e Klein, com diálogo explícito com a psicologia profunda no prefácio. Eixos: reencarnação como base terapêutica, querer + crer, honra/decisão/responsabilidade, inimigos internos.
+- [[wiki/obras/o-homem-integral]] — *O Homem Integral* (LEAL, 1990). 39 capítulos em 9 partes. **Livro precursor** da síntese sistemática que será *O Ser Consciente* (1993). Tese-título: Jesus como "biótipo do Homem Integral, por haver desenvolvido todas as aptidões herdadas de Deus". Catálogo extenso de psicopatologias contemporâneas (rotina, ansiedade, fobia social, ódio, mecanismos de evasão) e tratado mais completo do **Modelo Organizador Biológico** na bibliografia Joanna (cap. 38, com galeria multimilenar dos nomes do perispírito).
 - [[wiki/obras/momentos-de-felicidade]] — *Momentos de Felicidade* (LEAL, 1990). Prefácio + 20 capítulos breves. **Tom pastoral**, não psicológico-técnico — distinto da série psicológica densa: "modestas reflexões à luz do Evangelho de Jesus e da Doutrina Espírita". Eixos: felicidade acessível no presente, dor como benfeitora, mediunidade discreta, pensamento como força criadora, oração-terapia, domínio das paixões inferiores.
 - [[wiki/obras/o-ser-consciente]] — *O Ser Consciente* (LEAL, 1993). 39 capítulos em 10 partes. Quarta Força em Psicologia, autoconhecimento, ego × self, mecanismos de fuga, gigantes da alma, conquista do si.
 
@@ -44,6 +45,7 @@ Em ordem cronológica:
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Homem Integral*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, ~2023 (referência ao estilo sintético de Joanna). Cf. [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].

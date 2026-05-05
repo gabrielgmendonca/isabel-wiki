@@ -106,6 +106,29 @@ Ver [[wiki/conceitos/perturbacao]] e [[wiki/conceitos/morte]].
 
 Divaldo explica o perispírito ao público como "o corpo intermediário entre o Espírito e o corpo físico", usando linguagem acessível: "é o que o povo chama de corpo astral; Kardec dá o nome de perispírito — é semimaterial, é uma matéria semiespiritual." No contexto da palestra, o perispírito aparece como o **mecanismo da obsessão**: o ex-namorado desencarnado de sua prima Baby mantinha ligação com ela pelo perispírito, causando afonia sem causa orgânica (cf. LM, 2ª parte, cap. XXIII, item 245). Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
 
+## Galeria multimilenar dos nomes (Joanna, *O Homem Integral*, cap. 38)
+
+No tratado mais completo do **Modelo Organizador Biológico** (MOB) na sua bibliografia, [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] reúne os nomes pelos quais o perispírito atravessou a história do pensamento, atestando o reconhecimento intuitivo do envoltório semi-material desde a Antiguidade:
+
+- **Hipócrates** — *Enormon*
+- **Plotino** — *Corpo Aéreo* ou *Ígneo*
+- **Tertuliano** — *Corpo Vital da Alma*
+- **Orígenes** — *Aura*
+- **Paulo** — *Corpo Espiritual* / *Corpo Incorruptível* (1 Co 15)
+- **Vedanta** — *Manontaya-Kosha*
+- **Budismo Esotérico** — *Kainarupa*
+- **Egípcios** — *Ka*
+- **Zend Avesta** — *Baodhas*
+- **Cabala hebraica** — *Rouach*
+- **Tradicionalismo grego** — *Eidôlon*
+- **Latinos** — *Imago*
+- **Chineses** — *Khi*
+- **Aristóteles** — *Corpo sutil e etéreo*
+- **Confúcio** — *Corpo Aeriforme*
+- **Leibniz** — *Corpo fluídico*
+
+Joanna cita o filósofo escocês **Woodsworth** caracterizando o perispírito como *"Mediador plástico, através do qual passa a torrente de matéria fluente que destrói e reconstrói incessantemente o organismo vivo"* — formulação convergente com a teoria fluídica de Gênese cap. XIV. A função técnica destacada por Joanna: *"plasmar no corpo físico as necessidades morais evolutivas, através dos genes e cromossomos"*; é, portanto, **o esboço, o modelo, a forma em que se desenvolve o corpo físico** — na sua intimidade energética se agregam as células e se modelam os órgãos. Cf. [[wiki/obras/o-homem-integral]].
+
 ## Nas Obras Póstumas
 
 Kardec aprofunda a teoria do perispírito como princípio das manifestações (OPE, "Manifestações dos Espíritos", §I):

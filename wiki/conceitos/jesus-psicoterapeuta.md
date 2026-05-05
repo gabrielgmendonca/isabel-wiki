@@ -32,8 +32,9 @@ Kardec não usa o vocabulário "psicoterapia" (séc. XX), mas a leitura está im
 A imagem é **eixo de toda uma série psicológica** de Joanna:
 
 - [[wiki/obras/jesus-e-atualidade|*Jesus e Atualidade*]] (1989) — livro-manifesto. Vinte capítulos confrontam situações contemporâneas (consumismo, depressão, modismos, paranoia) com a "terapia de Jesus". O prefácio nomeia Assagioli (psicossíntese), Maslow (psicologia do ser), Grof (mente-cérebro), Klein e Johnson como autores que chegaram, "por processos mais demorados", às mesmas conclusões que Jesus alcançava intuitivamente.
-- [[wiki/obras/o-ser-consciente|*O Ser Consciente*]] (1993) — sistematização técnica. Jesus apresentado como **"Psicoterapeuta Excelente"**.
+- [[wiki/obras/o-homem-integral|*O Homem Integral*]] (1990) — primeira articulação extensa da tese: *"Jesus, superando todos os limites do conhecimento, fez-se o biótipo do Homem Integral, por haver desenvolvido todas as aptidões herdadas de Deus, na condição de ser mais perfeito de que se tem notícia."* Funda a leitura de Jesus como modelo de **integração** — não apenas de moral. Toda a terapêutica psicológica visa, em última instância, à integralidade de que Jesus é paradigma. A fórmula "Psicoterapeuta Excelente" já aparece aqui (cap. 5, sobre solidão, retomando Mt 22:39).
 - [[wiki/obras/momentos-de-felicidade|*Momentos de Felicidade*]] (1990) — vertente pastoral; Jesus como referência permanente em capítulos sobre dor, oração, libertação das paixões.
+- [[wiki/obras/o-ser-consciente|*O Ser Consciente*]] (1993) — sistematização técnica. Jesus apresentado como **"Psicoterapeuta Excelente"**.
 
 Eixos do método em Joanna:
 
@@ -81,5 +82,6 @@ A leitura de "Jesus-psicoterapeuta" tem três consequências práticas para o es
 - Kardec, Allan. *O Livro dos Espíritos*, q. 919 (Conhece-te a ti mesmo). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, caps. XIV-XV (médiuns curadores e fluidos magnéticos). Trad. Guillon Ribeiro. FEB.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Homem Integral*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993.
 - André Luiz / Xavier, Francisco Cândido (psicografia). Comunicação atribuída ao Dr. Calderaro, registrada em obra da série André Luiz.
