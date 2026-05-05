@@ -274,6 +274,7 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - [[wiki/obras/libertacao]] — caso Margarida (cap. 9): vampirismo psíquico tecnicamente organizado; caso Isaura (cap. 16): obsessão de médium pelo ciúme; conversão pelo amor ao perseguidor (cap. 12)
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
+- [[wiki/obras/plenitude]] — Joanna de Ângelis sobre terapia desobsessiva (cap. X), ancorada em LM cap. XXIII it. 249/252/254 com citação textual
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)

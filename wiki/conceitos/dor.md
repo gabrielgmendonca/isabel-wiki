@@ -72,6 +72,16 @@ Em [[wiki/obras/momentos-de-felicidade]] (1990, cap. 4 — "Benfeitora"), [[wiki
 
 A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro kardequiano em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
 
+## Sofrimento como "doença da alma" em *Plenitude* (1990)
+
+[[wiki/obras/plenitude|Plenitude]] (Joanna/Divaldo, prefácio out/1990, LEAL 1991) avança o tratamento técnico ao inscrever a dor num diálogo Buda–Jesus–Kardec organizado pelas Quatro Nobres Verdades budistas. A categoria-chave é **"doença da alma"** (cap. I):
+
+> "O sofrimento, portanto, pode e deve ser considerado uma *doença da alma*, que ainda se atém às sensações e opta pelas direções e ações que produzem desequilíbrio." (Plenitude, cap. I)
+
+A formulação não substitui o quadro kardeciano (provas, expiações, escolha do gênero de prova) — desloca o eixo descritivo. Em vez de tipificar pela origem (expiação × prova × auxílio), Joanna tipifica pela **estrutura clínica**: o sofrimento manifesta-se como sintoma de desarmonia entre Espírito, perispírito e organismo, e cura-se por extirpação das causas. O caminho terapêutico se desdobra em [[wiki/conceitos/autocura|autocura]] em 4 passos (cap. IX) e na [[wiki/conceitos/obsessao|terapia desobsessiva]] (cap. X), ancorada em [[wiki/obras/livro-dos-mediuns|LM]] cap. XXIII.
+
+A leitura é compatível com Kardec (a obra cita textualmente LE q. 132 e q. 165) e adiciona vocabulário psicológico-clínico ao tratamento espírita do sofrimento — útil como ponte para audiências que chegam à Doutrina pela porta da psicoterapia.
+
 ## Aplicação prática
 
 - Compreender a dor como transitória e educativa alivia a revolta e abre caminho para a resignação ativa.
@@ -91,6 +101,9 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — obra-fonte para o desenvolvimento de Denis
 - [[wiki/obras/acao-e-reacao]] — tipologia tríplice da dor (cap. 19)
 - [[wiki/obras/momentos-de-felicidade]] — formulação pastoral: a dor como "benfeitora anônima" (cap. 4)
+- [[wiki/obras/plenitude]] — sofrimento como "doença da alma" em diálogo Buda–Jesus–Kardec (1990, 14 caps.)
+- [[wiki/conceitos/autocura]] — técnica de cura interior em 4 passos (Plenitude cap. IX)
+- [[wiki/conceitos/plenitude]] — estado-alvo: saúde integral pós-libertação do sofrimento
 
 ## Fontes
 

@@ -185,7 +185,7 @@ Modelo institucional que dialoga com a Casa Transitória de Fabiano em [[wiki/ob
 
 Personagens narrativos sem página própria (mencionados em prosa): Pedro (uxoricida, cap. 5), Camilo (vítima obsessora, cap. 5), Cândida (cap. 6), Marcelo (epileptóide, cap. 8), Eulália (médium em formação, cap. 9), Antídio (alcoólatra, cap. 14), Cláudio (avô avarento, caps. 18, 20), Ismênia (irmã reencarnada de Cláudio, cap. 19), Nicanor (noivo pedreiro de Ismênia, cap. 19), Cecília (cap. 10).
 
-Personalidades históricas citadas: Ivan Pavlov (reflexos condicionados, caps. 8, 9), Sigmund Freud, Alfred Adler, Carl Gustav Jung (cap. 11), Paul Broca, Wagner-Jauregg (cap. 3), Franz Mesmer, Jean-Martin Charcot, Philippe Pinel (cap. 8), Dante Alighieri ("selva escura", cap. 17), Bartolomé Esteban Murillo ("madona de Murilo", cap. 5).
+Personalidades históricas citadas: Ivan Pavlov (reflexos condicionados, caps. 8, 9), Sigmund Freud, Alfred Adler, [[wiki/personalidades/carl-gustav-jung|Carl Gustav Jung]] (cap. 11 — "três escolas" da psicologia analítica avaliadas como portadoras "de certa dose de razão" mas sem "a chave da reencarnação"), Paul Broca, Wagner-Jauregg (cap. 3), Franz Mesmer, Jean-Martin Charcot, Philippe Pinel (cap. 8), Dante Alighieri ("selva escura", cap. 17), Bartolomé Esteban Murillo ("madona de Murilo", cap. 5).
 
 ## Citações de Pentateuco e Evangelho mobilizadas
 

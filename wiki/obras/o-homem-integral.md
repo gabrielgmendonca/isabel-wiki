@@ -62,6 +62,9 @@ Cap. 17 (**O conceito de saúde**) — definição da OMS (bem-estar psicológic
 
 Cap. 22 (**Mecanismos de evasão**) — infância psicológica prolongada, autocompaixão, dependência. Cap. 23 (**O problema do espaço**) — territorialidade; afetos imaturos invadem o espaço alheio. Cap. 24 (**A reconquista da identidade**) — coragem para *aceitar-se* como condição da maturidade. Cap. 25 (**Ter e ser**) — falsa segurança da posse; o ter pode "possuir o possuidor". Cap. 26 (**Observador, observação e observado**) — superação da dissociação cartesiana; a unidade observador-observado como nova consciência. Cap. 27 (**O devir psicológico**) — a moderna psicologia profunda foca o vir-a-ser, não a anamnese culpabilizadora; cita Ouspensky.
 
+> [!note] Continuidade temática em *Plenitude* (1990)
+> O capítulo 33 desta obra ("Os sofrimentos humanos", 8ª parte) é continuado e expandido em [[wiki/obras/plenitude|Plenitude]] (Joanna/Divaldo, prefácio out/1990, LEAL 1991), que dedica 14 capítulos exclusivamente ao tema. A própria *Plenitude* abre referindo, em nota da autora espiritual, que o estudo aqui aberto "oportunamente" foi aprofundado em livro próprio. O par *O Homem Integral* + *Plenitude* funciona como **díptico psicológico-doutrinário** publicado no mesmo ano.
+
 ### Sétima parte — Plenificação interior (cap. 28–31)
 
 Cap. 28 (**Problemas sexuais**) — entre castração e libertação sem disciplina; sexo como "santuário da vida"; cita Alice Bailey (alienações "psicológicas, hereditárias, coletivas e cármicas"). Cap. 29 (**Relacionamentos perturbadores**) — o amor não é gratidão ("não é amor, é reconhecimento"); a separação nunca resolve sem reforma íntima. Cap. 30 (**Manutenção de propósitos**) — perceber o fato sem julgamento; a renovação como aceitação contínua. Cap. 31 (**Leis cármicas e felicidade**) — incerteza como fomento ao crescimento; resignação dinâmica como primeira fase do estado feliz.
