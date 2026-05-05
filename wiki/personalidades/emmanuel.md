@@ -22,6 +22,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
 - [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
 - [[wiki/obras/pao-nosso]] — segunda coletânea evangélica em 180 capítulos curtos; forte primazia paulina; eixos de trabalho-serviço (caps. 1-5), restauração apostólica (cap. 176), pensamento como morada do Espírito (cap. 177) e reforma íntima como combate paulino (cap. 178) (1950)
+- [[wiki/obras/vinha-de-luz]] — terceira coletânea evangélica em 180 capítulos curtos; eixo da hermenêutica evangélica ("Quem lê, atenda" — cap. 1), vida como negociação espiritual (cap. 2), tipologia do discípulo e dos personagens evangélicos (caps. 99-100), inimigos como credores (cap. 41), Jo 14.6 em chave de reino individual (caps. 175-177), advertência final sobre perseverança (cap. 180) (1952)
 - [[wiki/obras/vida-e-sexo]] — tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina (1970)
 
 ## Citações relevantes
@@ -36,6 +37,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 > "Negar, presentemente, a legitimidade do esforço espiritista, em nome da fé cristã, é testemunho de ignorância ou leviandade. (…) O Espiritismo evangélico vem movimentar o serviço divino que envolve em si, não somente a crença consoladora, mas também o conhecimento indiscutível da imortalidade." (Emmanuel / Chico Xavier, *Pão Nosso*, cap. 176 — sobre o Espiritismo como restauração do testemunho apostólico de Atos 4:33)
 
+> "Por enquanto, ninguém se atreverá, em boa lógica, a exibir, na Terra, a verdade pura, ante a visão das forças coletivas. (…) Cada escola religiosa, em razão disso, mantém no mundo cursos diferentes da revelação gradativa. (…) Semelhante imperativo, porém, para a mentalidade cristã, apenas vigora quanto às massas. Diante de cada discípulo, no reino individual, Jesus é a verdade sublime e reveladora." (Emmanuel / Chico Xavier, *Vinha de Luz*, cap. 175 — Jo 14.6 deslocado da panorâmica de [[wiki/obras/caminho-verdade-e-vida|CVV]] para o reino individual)
+
 ## Páginas relacionadas
 
 - [[wiki/personalidades/chico-xavier]] — médium que psicografou suas obras
@@ -48,4 +51,5 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
