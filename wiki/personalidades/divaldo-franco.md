@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: []
 tags: [orador, medium, complementar, autor/divaldo-franco, grau/intermediario, tema/historia-doutrina, lei/justica-amor-caridade]
-atualizado_em: 2026-05-02
+atualizado_em: 2026-05-05
 status: ativo
 ---
 
@@ -26,14 +26,18 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 
 ## Obras associadas (na wiki)
 
-- [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis / Divaldo (LEAL, 1993). Quarta Força em Psicologia, autoconhecimento, ego × self, conquista do si. 39 capítulos em 10 partes.
+Em ordem cronológica:
+
+- [[wiki/obras/jesus-e-atualidade]] — Joanna de Ângelis / Divaldo (LEAL, 1989). Prefácio + 20 capítulos breves no padrão "Jesus e X". Livro-manifesto da tese "Jesus-psicoterapeuta": Jesus antecipou Maslow, Assagioli, Grof e Klein. Eixos: reencarnação, querer + crer, honra/decisão/responsabilidade, inimigos internos.
 - [[wiki/obras/momentos-de-felicidade]] — Joanna de Ângelis / Divaldo (LEAL, 1990). Volume pastoral curto: prefácio + 20 capítulos breves sobre felicidade acessível, dor benfeitora, mediunidade discreta, oração-terapia e domínio das paixões inferiores.
+- [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis / Divaldo (LEAL, 1993). Quarta Força em Psicologia, autoconhecimento, ego × self, conquista do si. 39 capítulos em 10 partes.
 - [[wiki/obras/conquista-da-saude-psicologica]] — Palestra sobre depressão, obsessão e saúde psicológica à luz do Espiritismo (~2009)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Palestra testemunhal: obsessão, psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho (~2023)
 
 ## Páginas relacionadas
 
 - [[wiki/personalidades/joanna-de-angelis]] — principal mentor espiritual, autora da série psicológica
+- [[wiki/conceitos/jesus-psicoterapeuta]] — eixo recorrente nas psicografias e palestras
 - [[wiki/conceitos/psicologia-transpessoal]] — Quarta Força, ponte entre Espiritismo e psicologia contemporânea (tese central da série Joanna)
 - [[wiki/conceitos/autoconhecimento]] — programa terapêutico de LE q. 919
 - [[wiki/conceitos/mediunidade]] — faculdade que exerceu ao longo de toda a vida
@@ -48,7 +52,8 @@ Reconhecido pelo tom fraterno, didático e erudito de suas palestras, nas quais 
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023. Disponível em: <https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw>.

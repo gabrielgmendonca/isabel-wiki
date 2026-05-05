@@ -4,7 +4,7 @@ fontes: []
 tags: [espirito-mentor, autor-espiritual, complementar, joanna-de-angelis, autor/joanna-de-angelis, tema/espiritos, grau/intermediario, lei/justica-amor-caridade]
 aliases:
   - "Joanna de Angelis"
-atualizado_em: 2026-05-04
+atualizado_em: 2026-05-05
 status: ativo
 ---
 
@@ -27,18 +27,23 @@ Espírito apresentado por Divaldo Franco como seu **principal mentor espiritual*
 
 ## Obras associadas (na wiki)
 
-- [[wiki/obras/o-ser-consciente]] — *O Ser Consciente* (LEAL, 1993). 39 capítulos em 10 partes. Quarta Força em Psicologia, autoconhecimento, ego × self, mecanismos de fuga, gigantes da alma, conquista do si.
+Em ordem cronológica:
+
+- [[wiki/obras/jesus-e-atualidade]] — *Jesus e Atualidade* (LEAL, 1989). Prefácio + 20 capítulos breves no padrão "Jesus e X". **Livro-manifesto** do método "Jesus-psicoterapeuta" — primeiro a articular a tese de que Jesus antecipou intuitivamente Maslow, Assagioli, Grof e Klein, com diálogo explícito com a psicologia profunda no prefácio. Eixos: reencarnação como base terapêutica, querer + crer, honra/decisão/responsabilidade, inimigos internos.
 - [[wiki/obras/momentos-de-felicidade]] — *Momentos de Felicidade* (LEAL, 1990). Prefácio + 20 capítulos breves. **Tom pastoral**, não psicológico-técnico — distinto da série psicológica densa: "modestas reflexões à luz do Evangelho de Jesus e da Doutrina Espírita". Eixos: felicidade acessível no presente, dor como benfeitora, mediunidade discreta, pensamento como força criadora, oração-terapia, domínio das paixões inferiores.
+- [[wiki/obras/o-ser-consciente]] — *O Ser Consciente* (LEAL, 1993). 39 capítulos em 10 partes. Quarta Força em Psicologia, autoconhecimento, ego × self, mecanismos de fuga, gigantes da alma, conquista do si.
 
 ## Páginas relacionadas
 
 - [[wiki/personalidades/divaldo-franco]] — médium psicógrafo
+- [[wiki/conceitos/jesus-psicoterapeuta]] — eixo articulado em *Jesus e Atualidade* e *O Ser Consciente*
 - [[wiki/conceitos/psicologia-transpessoal]] — eixo da série psicológica de Joanna
 - [[wiki/conceitos/autoconhecimento]] — programa terapêutico ancorado em LE q. 919
 - [[wiki/conceitos/perispirito]] — peça intermediária do tripé que Joanna defende contra a dualidade espiritualista
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, ~2023 (referência ao estilo sintético de Joanna). Cf. [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
