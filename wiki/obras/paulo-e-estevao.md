@@ -135,7 +135,17 @@ A pregação na igreja humilde é elaboração de Emmanuel sobre o substrato de 
 | *"A Lei é humana; o Evangelho é divino. […] com a Lei, éramos servos; com o Evangelho, somos filhos livres"* | Gl 3:24 (*"a lei nos serviu de aio para nos conduzir a Cristo"*); Rm 8:14-17 |
 | *"a letra mata, mas o espírito vivifica"* (citado por Emmanuel no prefácio) | 2 Co 3:6 |
 | Carpinteiro como abrigo da humanidade (resposta a Saulo) | Mc 6:3; Mt 13:55 |
-| *"Senhor, não lhe imputes este pecado"* (oração final, At 7:60) | Lc 23:34 (*"Pai, perdoa-lhes…"*) |
+
+### Martírio de Estêvão (cap. 8 do romance) — oração pelo algoz
+
+A oração final de Estêvão na lapidação é o eco mais explícito de **Lc 23:34** em todo o NT, e o romance a singulariza ao endereçá-la nominalmente ao perseguidor presente.
+
+| Linha do romance | Paralelo NT |
+|------------------|-------------|
+| *"Senhor, não lhe imputes este pecado!"* (oração final do mártir pelo algoz, cap. 8) | At 7:60 (*"Senhor, não lhes imputes este pecado"* — Almeida; Estêvão histórico na mesma cena); Lc 23:34 (*"Pai, perdoa-lhes, porque não sabem o que fazem"* — Jesus na cruz) |
+| *"Eis que vejo os céus abertos"* (vidência espiritual ampliada) | At 7:55-56 |
+
+A variação "lhe" (singular) no romance vs. "lhes" (plural) em Almeida é deliberada: Emmanuel singulariza Saulo como destinatário direto da intercessão, tornando narrativamente visível o que a leitura espírita afirma como mecanismo — a oração do mártir pelo algoz como assistência espiritual concreta. Para a fenomenologia mediúnica adjacente da cena (assistência fluídica, emancipação da alma), ver seção "Fenomenologia mediúnica na morte de Estêvão" acima.
 
 ### Martírio de Paulo (cap. 10 do arco Saulo)
 
@@ -198,7 +208,7 @@ A obra dilata os dois capítulos lucanos em uma biografia completa do mártir (J
 | Estêvão | 9 *Abigail cristã* | (sem base direta — flashback de Abigail) |
 | Estêvão | 10 *No caminho de Damasco* | At 9:1-9; At 22:6-11; At 26:12-18 |
 
-Para o tratamento sistemático de Atos sob ótica espírita ver [[wiki/obras/atos-dos-apostolos|Atos dos Apóstolos]] — converge com este romance em sete pontos: (i) lapidação de Estêvão como emancipação da alma (At 7:55-56); (ii) conversão de Damasco como ação fluídica (At 9:18); (iii) pregação no Areópago como universalismo moral (At 17:24-28); (iv) prisão e libertação como assistência espiritual (At 12; 27:23); (v) ressurreição de Êutico como morte aparente (At 20:7-12); (vi) imposição de mãos como cura por fluido (At 9:18; 14:10; 28:8); (vii) viagem missionária como missão programada (LE q. 575-580).
+Para o tratamento sistemático de Atos sob ótica espírita ver [[wiki/obras/atos-dos-apostolos|Atos dos Apóstolos]] — converge com este romance em sete pontos: (i) lapidação de Estêvão como emancipação da alma (At 7:55-56); (ii) conversão de Damasco como ação fluídica (At 9:18); (iii) pregação no Areópago como universalismo moral (At 17:24-28); (iv) prisão e libertação como assistência espiritual (At 12; 27:23); (v) ressurreição de Êutico como morte aparente (At 20:7-12); (vi) imposição de mãos como cura por fluido (At 9:17; 28:8); (vii) viagem missionária como missão programada (LE q. 575-580).
 
 ## Conceitos tratados
 
