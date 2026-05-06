@@ -5,7 +5,7 @@ tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, and
 aliases:
   - "Francisco Cândido Xavier"
   - "Francisco Xavier"
-atualizado_em: 2026-05-05
+atualizado_em: 2026-05-06
 status: ativo
 ---
 
@@ -39,6 +39,7 @@ Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citaç
 - [[wiki/obras/ha-dois-mil-anos]] — Emmanuel / Chico Xavier (1939). Romance histórico em dois arcos intercalados; confissão reencarnatória de Emmanuel sobre sua existência como o senador romano Públio Lêntulus, contemporâneo de Tibério, Pilatos e Nero. Núcleo doutrinário: encontro de Públio com Jesus em Cafarnaum (cap. 5) e o "minuto glorioso" do livre-arbítrio na hora da Graça; martírio de Lívia no Circo Máximo sob Nero; recepção pelo Plano espiritual após a desencarnação. Inclui divergência de almas-gêmeas (cap. 6 — *"alma gêmea da minha"*) — mesma divergência da q. 378 de *O Consolador* contra LE q. 298–299.
 - [[wiki/obras/50-anos-depois]] — Emmanuel / Chico Xavier (1939). Continuação narrativa de *Há Dois Mil Anos*; 7+7 capítulos sob Adriano (~133) e Antonino Pio (~145). Centrada em [[wiki/personalidades/celia|Célia]], virgem-mártir cristã que se traveste de monge em Alexandria como "Irmão Marinho" (releitura hagiográfica de Santa Marina), com Pompílio Crasso reencarnado como [[wiki/personalidades/helvidio-lucius|Helvídio Lucius]] e Públio Lêntulus retornando como o escravo [[wiki/personalidades/nestorio|Nestório]]. Capítulo "Nas Esferas Espirituais" como página doutrinária central sobre reencarnação coletiva com livre escolha de adversários como futuros companheiros, em aplicação literal do "perdoar setenta vezes sete" (Mt 18:22). Sem divergências doutrinárias inéditas — referência cruzada a *Há Dois Mil Anos* para a leitura do "vulto de anjo ou de mulher" no leito de morte de Nestório.
 - [[wiki/obras/o-consolador]] — Emmanuel / Chico Xavier (1940). Tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião) nos moldes do Pentateuco; identifica o Espiritismo como o Consolador prometido em João 14:16. Inclui divergência das almas gêmeas (q. 378) atenuada pela própria Casa de Ismael em ressalva editorial.
+- [[wiki/obras/paulo-e-estevao]] — Emmanuel / Chico Xavier (recepção em Pedro Leopoldo, 08/07/1941; FEB 1942). 3º volume do ciclo romano de Emmanuel/Chico (entre [[wiki/obras/50-anos-depois|50 Anos Depois]] e [[wiki/obras/ave-cristo|Ave, Cristo!]]); romance histórico em vinte capítulos alternando os arcos Saulo→Paulo de Tarso e Jeziel→Estêvão de Corinto, da perseguição em Jerusalém ao martírio de Paulo em Roma sob Nero (c. 67). Tese central — *"sem Estêvão, não teríamos Paulo de Tarso"* — articula intercessão do mártir + intercessão póstuma de Abigail (noiva fictícia de Saulo, irmã do mártir) como motor da conversão de Damasco. Inclui callout inline sobre linguagem de "sangue resgatador" no sermão de Estêvão (cap. 5), com a leitura espírita explícita: exemplo moral + assistência fluídica, não substituição penal.
 - [[wiki/obras/nosso-lar]] — André Luiz / Chico Xavier (1944). 1º volume da série André Luiz; despertar no Umbral, topologia da colônia espiritual, sistema do bônus-hora, suicídio inconsciente.
 - [[wiki/obras/os-mensageiros]] — André Luiz / Chico Xavier (1944). 2º volume da série André Luiz; Centro de Mensageiros, mediunidade fracassada, Posto de Socorro Campo da Paz, culto doméstico como fortaleza, três desencarnações.
 - [[wiki/obras/missionarios-da-luz]] — André Luiz / Chico Xavier (1945). 3º volume da série André Luiz; tratado fenomenológico da mediunidade sob orientação de Alexandre — vampirismo psíquico, oração como antídoto, materialização, reencarnação assistida (caso Segismundo), incorporação, obsessão, passes magnéticos, advertência contra a idolatria do mestre.
@@ -91,6 +92,7 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 - XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]].
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].

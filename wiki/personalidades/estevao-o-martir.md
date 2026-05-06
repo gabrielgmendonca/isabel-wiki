@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [NT]
 tags: [estevao, martir, atos, emancipacao-da-alma, grau/intermediario, lei/adoracao, tema/jesus]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-05-06
 status: ativo
 ---
 
@@ -35,7 +35,7 @@ Três aspectos tornam Estêvão especialmente significativo para o estudo espír
 
 ## Entrada indireta de Paulo
 
-"As testemunhas depuseram as suas capas aos pés de um jovem chamado Saulo" (At 7:58) — Saulo **consentia na morte** de Estêvão (At 8:1; 22:20). A semente do martírio germinará mais tarde no perseguidor convertido em Damasco. Emmanuel, em obras psicografadas por Chico Xavier (sobretudo *Paulo e Estêvão*, 1941), desenvolve a tese de que **Saulo/Paulo carregava a responsabilidade moral pela morte de Estêvão** e seu trabalho missionário subsequente é em larga medida **reparação desse débito** — aplicação direta da lei de causa e efeito (LE, q. 964–975; C&I).
+"As testemunhas depuseram as suas capas aos pés de um jovem chamado Saulo" (At 7:58) — Saulo **consentia na morte** de Estêvão (At 8:1; 22:20). A semente do martírio germinará mais tarde no perseguidor convertido em Damasco. Emmanuel, em [[wiki/obras/paulo-e-estevao]] (psicografado por Chico Xavier em 1941, publicado pela FEB em 1942), desenvolve a tese de que **Saulo/Paulo carregava a responsabilidade moral pela morte de Estêvão** e seu trabalho missionário subsequente é em larga medida **reparação desse débito** — aplicação direta da lei de causa e efeito (LE, q. 964–975; C&I). A obra acrescenta dois pontos doutrinariamente carregados, ausentes do texto canônico: (a) a **oração de Estêvão pelo perseguidor** (At 7:60) é descrita como prece consciente pelo verdugo presente, com efeito assistencial concreto sobre a alma de Saulo; (b) a conversão de Damasco é apresentada como **fruto cooperado da intercessão do mártir e da intercessão póstuma de Abigail** (irmã fictícia do mártir, na trama do romance), modelo dramatizado da articulação entre lei de causa e efeito e cooperação espiritual entre encarnados e desencarnados (LM 2ª parte cap. XXV; ESE cap. XXVII).
 
 ## Citações relevantes
 
@@ -48,6 +48,7 @@ Três aspectos tornam Estêvão especialmente significativo para o estudo espír
 ## Páginas relacionadas
 
 - [[wiki/obras/atos-dos-apostolos]] — caps. 6–7
+- [[wiki/obras/paulo-e-estevao]] — romance histórico de Emmanuel/Chico (1941) que dramatiza, na chave da lei de causa e efeito, a relação entre o mártir e o convertido de Damasco
 - [[wiki/conceitos/emancipacao-da-alma]]
 - [[wiki/personalidades/paulo-de-tarso]] — testemunha da morte; possível reparador
 - [[wiki/personalidades/jesus]] — modelo do perdão aos algozes
@@ -58,4 +59,4 @@ Três aspectos tornam Estêvão especialmente significativo para o estudo espír
 - *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 6–7; 8:1; 22:20.
 - KARDEC, Allan. *O Livro dos Espíritos*. Q. 149–164, 400–418. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Caps. V, XII, XVII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido. *Paulo e Estêvão*. Pelo Espírito Emmanuel. FEB, 1941.
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]]. Síntese curada em [[wiki/obras/paulo-e-estevao]].

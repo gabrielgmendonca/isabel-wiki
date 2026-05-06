@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [NT, ESE]
 tags: [paulo, apostolo, gentios, atos, romanos, corintios, galatas, efesios, filipenses, hebreus, mediunidade, tiago, fe-e-obras, kenose, contentamento, obra/ese, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, lei/igualdade, lei/justica-amor-caridade, lei/liberdade, tema/jesus]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-05-06
 status: ativo
 ---
 
@@ -39,6 +39,10 @@ No plano histórico, Paulo e Tiago colaboraram diretamente: Tiago presidiu o con
 ### Nota sobre Hebreus
 
 A **Epístola aos Hebreus** é, neste projeto, mantida no corpus paulino ampliado, como é prática tradicional das casas espíritas brasileiras. Mas o leitor deve saber: Hebreus **não traz nome de autor no próprio texto** (diferente de todas as demais cartas atribuídas a Paulo) e sua autoria foi posta em dúvida já na Antiguidade. Orígenes (séc. III) conclui célebremente que "quem de fato escreveu a carta, só Deus sabe" (apud Eusébio, *História Eclesiástica* VI.25.14). Diferenças marcantes de vocabulário, estilo e construção argumentativa em relação ao corpus paulino autêntico levam o consenso crítico moderno a considerar a autoria paulina **improvável**; candidatos alternativos discutidos: Apolo (1 Co 3), Barnabé, Priscila. Para panorama historiográfico, ver o verbete ["Epístola aos Hebreus"](https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Hebreus) na Wikipédia em português. A voz espiritual da carta é do **apostolado primitivo** dirigindo-se a cristãos de origem judaica; lê-la como "escrito do círculo paulino" resguarda a honestidade intelectual.
+
+## Leitura emmanuelina — *Paulo e Estêvão*
+
+Em [[wiki/obras/paulo-e-estevao]] (Emmanuel / Chico Xavier, 1941; FEB 1942), a conversão de Damasco é apresentada não como operação mecânica da graça, mas como **fruto cooperado da intercessão de uma vítima**. A oração de [[wiki/personalidades/estevao-o-martir|Estêvão]] pelo perseguidor presente (At 7:60) — paralela a Lc 23:34 — soma-se à intercessão póstuma de Abigail (irmã fictícia do mártir, na trama do romance) para preparar o exame de consciência que Saulo enfrenta na estrada de Damasco. A obra explicita, com personagens encarnados, a articulação entre [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|lei de justiça, amor e caridade]] — o convertido paga em décadas de apostolado e martírio em Roma o débito da lapidação, e o Cristo recebe verdugo e mártir no mesmo Reino: *"é da vontade de meu Pai que os verdugos e os mártires se reúnam, para sempre, no meu Reino."* Ler a moldura novelística (Estêvão como "Jeziel de Corinto", Abigail como noiva de Saulo) como dispositivo dramático declarado por Emmanuel, não como reconstrução factual do texto canônico.
 
 ## Fenomenologia mediúnica
 
@@ -82,6 +86,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 ## Páginas relacionadas
 
 - [[wiki/obras/atos-dos-apostolos]] — caps. 9, 13–28
+- [[wiki/obras/paulo-e-estevao]] — Emmanuel / Chico Xavier (1941). Romance histórico em vinte capítulos alternando os arcos Saulo→Paulo e Jeziel→Estêvão, da perseguição a Damasco até o martírio em Roma sob Nero. Tese central: *"sem Estêvão, não teríamos Paulo de Tarso"*
 - [[wiki/obras/epistola-aos-romanos]] — carta-tratado (2:14–15 lei na consciência; 5 aflições; 7 luta moral; 8 vida no Espírito; 13 amor cumpre a lei)
 - [[wiki/obras/primeira-epistola-aos-corintios]] — caps. 13 (caridade), 15 (corpo espiritual), 12–14 (dons espirituais)
 - [[wiki/obras/segunda-epistola-aos-corintios]] — apologia do ministério; "a letra mata, o espírito vivifica" (3:6, base hermenêutica do ESE); cartas vivas (3:2–3); tabernáculo terrestre / casa eterna (5:1–10); tesouro em vasos de barro (4:7); arrebatamento ao terceiro céu e espinho na carne (12:1–10); "Satanás se transfigura em anjo de luz" (11:14)
@@ -126,6 +131,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 ## Fontes
 
 - *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm). Edições: [[raw/biblia-acf/1-corintios/1]]; [[raw/biblia-acf/2-corintios/1]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (512 p.; recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]]. Síntese curada em [[wiki/obras/paulo-e-estevao]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IV, V, XI, XII, XV (item 4), XVII.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 135, 200–202, 621, 843–872.
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. caps. XI (raça adâmica) e XIV (perispírito).

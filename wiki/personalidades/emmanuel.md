@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, espirito-comunicante, chico-xavier, autor/chico-xavier, autor/emmanuel, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-05-05
+atualizado_em: 2026-05-06
 status: ativo
 ---
 
@@ -21,6 +21,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - [[wiki/obras/ha-dois-mil-anos]] — romance histórico em dois arcos intercalados; confissão reencarnatória de Emmanuel sobre sua existência como o senador romano Públio Lêntulus, contemporâneo de Tibério, Pilatos e Nero (1939)
 - [[wiki/obras/50-anos-depois]] — continuação narrativa de *Há Dois Mil Anos*; centrada em [[wiki/personalidades/celia|Célia]] (virgem-mártir traveste-se de monge em Alexandria como "Irmão Marinho"), com Pompílio Crasso reencarnado como [[wiki/personalidades/helvidio-lucius|Helvídio Lucius]] e Públio Lêntulus retornando como o escravo [[wiki/personalidades/nestorio|Nestório]]; capítulo "Nas Esferas Espirituais" como página doutrinária central sobre reencarnação coletiva e perdão setenta vezes sete (1939)
 - [[wiki/obras/a-caminho-da-luz]] — história da civilização terrestre sob a direção espiritual do Cristo (1939)
+- [[wiki/obras/paulo-e-estevao]] — terceiro volume do ciclo romano (recepção em 08/07/1941, FEB 1942); romance histórico em vinte capítulos alternando os arcos Saulo→Paulo de Tarso e Jeziel→Estêvão de Corinto, da perseguição em Jerusalém ao martírio de Paulo em Roma sob Nero. Tese central: *"sem Estêvão, não teríamos Paulo de Tarso"* — a oração do mártir pelo algoz e a intercessão póstuma de Abigail (irmã fictícia do mártir) operam a conversão de Damasco. Inclui leitura espírita explícita do "sangue resgatador" como exemplo moral perfeito + assistência fluídica, não substituição penal (callout inline). Personagens novos com superfície bíblica curta e/ou fictícios (Ananias de Damasco, Gamaliel, Abigail, Jeziel) ficam descritos dentro da página da obra, sem virar personalidades autônomas
 - [[wiki/obras/ave-cristo]] — quarto volume do ciclo romano de Emmanuel/Chico, fechando o arco narrativo das perseguições com a conversão tardia do patrício Taciano no Anfiteatro Flaviano sob Décio (250 d.C.). Eixo doutrinário central: paternidade espiritual atravessando três encarnações sucessivas de [[wiki/personalidades/quinto-varro|Quinto Varro]] (Varro → Corvino presbítero de Lião sob Maximino → Quinto Celso filho adotivo de Taciano), missão pré-acordada com [[wiki/personalidades/clodio|Clódio]] na esfera superior por "vinte lustros". Personagens novos com página própria: Taciano, Quinto Varro, Clódio. Inclui divergência menor (suicídio "redentor" de Flávio Súbrio, contra LE q. 943-957) tratada em callout inline (1953)
 - [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
 - [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
@@ -59,6 +60,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 - XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
 - XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942. Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]].
 - XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
