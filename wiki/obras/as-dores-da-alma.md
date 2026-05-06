@@ -141,7 +141,7 @@ A frase poderia ser lida como transmigracionismo (o Espírito passando por miner
 A obra cita nominalmente autores da psicanálise clássica, sempre como instrumento de diagnóstico — nunca como ontologia concorrente à doutrina espírita:
 
 - **Alfred Adler** (raw l. 1367, 1483) — "austríaco, um dos grandes nomes da psicanálise"; o conceito adleriano de *compensação* é aplicado como mecanismo de defesa do ego, articulado à superação das paixões (LE q. 908).
-- **Carl Jung** (raw l. 681) — "'Sombra' é um conceito junguiano para designar a soma dos lados rejeitados da realidade"; aplicado ao comentário de Lucas 6:42 (argueiro/trave) como chave para a projeção psicológica (LE q. 903).
+- **[[wiki/personalidades/carl-gustav-jung|Carl Jung]]** (raw l. 681) — "'Sombra' é um conceito junguiano para designar a soma dos lados rejeitados da realidade"; aplicado ao comentário de Lucas 6:42 (argueiro/trave) como chave para a projeção psicológica (LE q. 903).
 - **Sigmund Freud** (implícito; raw l. 1365) — definição técnica de *recalque/repressão* como exclusão para o inconsciente; lida como explicação moderna de "paixões mal dirigidas".
 
 Em todos os casos, o diagnóstico psicológico é reancorado em questão do LE; psicologia ilumina, não suplanta. Paralelo compatível com [[wiki/conceitos/depressao]], onde a neurobiologia (Divaldo Franco) articula-se com obsessão espírita sem contraditá-la.

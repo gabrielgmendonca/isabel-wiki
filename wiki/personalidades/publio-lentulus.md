@@ -26,7 +26,7 @@ A obra explicita, no sonho do capítulo "Dois amigos", a conexão entre Públio 
 ## Trajetória no romance
 
 - **Roma, ano 31** — senador ainda jovem; a filha Flávia, de 7 anos, sofre de lepra. Recorre aos áugures sem êxito.
-- **Palestina, ano 32–33** — comissionado na província; a esposa Lívia é caluniada por Fúlvia Prócula no gabinete de Pilatos.
+- **Palestina, ano 32–33** — comissionado na província; a esposa Lívia é caluniada por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pilatos]].
 - **Cafarnaum, ano 33** — encontro com Jesus à beira do lago. Cura da pequena Flávia. Públio rejeita o "minuto glorioso".
 - **Cesareia–Roma, ano 46** — retorno a Roma após morte do amigo Flamínio Sevérus.
 - **Roma, ano 64–67** — perseguição de Nero; Lívia, convertida ao cristianismo, é presa nas catacumbas e martirizada no Circo Máximo. Públio descobre a fé tardia da esposa e sua humildade — *"de joelhos ante a relíquia de Simeão, como de seu recente costume, Públio Lêntulus meditava"*.

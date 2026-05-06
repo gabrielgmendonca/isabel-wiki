@@ -146,7 +146,7 @@ A **libertação pessoal** é articulada via os **três olhos de São Boaventura
 - **Tradição psicológica clássica**: Sigmund Freud, Carl Gustav Jung, Alfred Adler, Pierre Janet, Jean-Martin Charcot, Liébault, Bernheim, Ivan Pavlov, Joseph Grasset, William James, Emilio Mira y Lopez.
 - **Filosofia/ciência**: Albert Einstein, Gottfried Leibniz, Arthur Schopenhauer, São Boaventura ("Doutor Seráfico").
 - **Tradições orientais (referência conceitual)**: Buda (conceito *raga*), tradição taoísta (yin-yang), épico Mahabharata.
-- **Outros**: Santa Josefa Meléndez, São Francisco de Assis, Pôncio Pilatos, Mahatma Gandhi.
+- **Outros**: Santa Josefa Meléndez, São Francisco de Assis, [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]], Mahatma Gandhi.
 
 ## Divergências
 
@@ -154,7 +154,7 @@ Nenhuma divergência estrutural com Kardec identificada. A obra opera dentro do 
 
 Pontos sensíveis avaliados e categorizados como **desdobramentos**, não divergências:
 
-- **Chakras** (cap. 1) — referência pontual à transmutação energética dos núcleos abaixo do diafragma para a região superior; descrição psicossomática, não prescrição esotérica. Mesmo tratamento dado em *Plenitude* (cap. XI), já registrado como ponte com a Quarta Força.
+- **Chakras** (cap. 1) — referência pontual à transmutação energética dos núcleos abaixo do diafragma para a região superior; descrição psicossomática, não prescrição esotérica. Mesmo tratamento dado em *[[wiki/obras/plenitude|Plenitude]]* (cap. XI), já registrado como ponte com a Quarta Força.
 - **Releitura do perdão** (cap. 10) — "esquecimento como diluição na água lustral do amor". Não contradiz ESE cap. X (Bem-aventurados os que perdoam): Joanna explicita que a diluição é amorosa, não repressiva, e cita Jesus como modelo.
 - **Defesa do psicofármaco** (cap. 9) — explicitação de que terapia psiquiátrica e transformação moral atuam em conjunto, não em oposição. Posicionamento alinhado a [[wiki/conceitos/obsessao]] e [[wiki/conceitos/depressao]] na bibliografia da wiki.
 

@@ -22,7 +22,7 @@ Em [[wiki/obras/o-ser-consciente]] (1993), [[wiki/personalidades/joanna-de-angel
 
 > "Antes, porém, de todas essas disciplinas psicológicas e doutrinas parapsíquicas, o Espiritismo descortinou para a criatura a valiosa possibilidade de ser consciente, concitando-a ao auto-encontro e à autodescoberta a respeito da vida além dos estreitos limites materiais."
 
-A tese aparece **já em 1990** em [[wiki/obras/o-homem-integral]] (cap. 39), onde Joanna sintetiza: *"agigantando-se o Espiritismo, pioneiro de uma Psicologia Espiritualista dedicada ao conhecimento do homem integral, na sua valiosa complexidade — Espírito, perispírito e matéria — ampliando os horizontes da vida orgânica, a se desdobrarem além do túmulo e antes do corpo, com infinitas possibilidades de progresso, no rumo da perfeição."* A formulação sistemática de 1993 retoma e organiza o que *O Homem Integral* já articula em prosa narrativa.
+A tese aparece **já em 1990** em [[wiki/obras/o-homem-integral]] (cap. 39), onde Joanna sintetiza: *"agigantando-se o Espiritismo, pioneiro de uma Psicologia Espiritualista dedicada ao conhecimento do homem integral, na sua valiosa complexidade — Espírito, perispírito e matéria — ampliando os horizontes da vida orgânica, a se desdobrarem além do túmulo e antes do corpo, com infinitas possibilidades de progresso, no rumo da perfeição."* A formulação sistemática de 1993 retoma e organiza o que *[[wiki/obras/o-homem-integral|O Homem Integral]]* já articula em prosa narrativa.
 
 Entre os dois marcos, [[wiki/obras/momentos-de-saude-e-consciencia]] (LEAL, 1992) explicita pela primeira vez na bibliografia Joanna a articulação **conjunta de Psicossomática + Psicologia Transpessoal + Psicologia Transacional + Psicologia Criativa**, todas nomeadas no prefácio da Parte 1 como interlocutoras concordes do programa kardequiano: *"diversas ciências são concordes com esses programas, especialmente as Psicologias Transpessoal, Transacional e Criativa, concitando ao auto-encontro, à libertação do entulho mental e moral, à conquista do ego e plenificação do self, do EU espiritual eterno, no seu inevitável processo de crescimento."*
 
@@ -81,9 +81,9 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. LEAL, 1990, especialmente caps. 38–39 (Modelo Organizador Biológico e Reencarnação). Cf. [[wiki/obras/o-homem-integral]].
-- Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Saúde e Consciência*. LEAL, 1992, prefácio da Parte 1 (articulação conjunta Psicossomática + Transpessoal + Transacional + Criativa). Cf. [[wiki/obras/momentos-de-saude-e-consciencia]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/o-homem-integral|O Homem Integral]]*. LEAL, 1990, especialmente caps. 38–39 (Modelo Organizador Biológico e Reencarnação). Cf. [[wiki/obras/o-homem-integral]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/momentos-de-saude-e-consciencia|Momentos de Saúde]] e Consciência*. LEAL, 1992, prefácio da Parte 1 (articulação conjunta Psicossomática + Transpessoal + Transacional + Criativa). Cf. [[wiki/obras/momentos-de-saude-e-consciencia]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. LEAL, 1993, especialmente caps. 1–5 (Primeira parte: A Quarta Força). Cf. [[wiki/obras/o-ser-consciente]].
-- Joanna de Ângelis / Franco, Divaldo Pereira. *Autodescobrimento — Uma Busca Interior*. LEAL, 1995, prefácio + cap. 9 (Viciações mentais) + cap. 10 (Conteúdos perturbadores). Cf. [[wiki/obras/autodescobrimento]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/autodescobrimento|Autodescobrimento — Uma Busca Interior]]*. LEAL, 1995, prefácio + cap. 9 (Viciações mentais) + cap. 10 (Conteúdos perturbadores). Cf. [[wiki/obras/autodescobrimento]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621; q. 919.
 - Bíblia. Mateus 7:12.

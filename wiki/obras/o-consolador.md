@@ -15,7 +15,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1940
 - **Editora:** FEB (312 p., formato 14×21)
 - **Gênero:** tratado doutrinário em formato de perguntas e respostas

@@ -34,7 +34,7 @@ Após anos de ascetismo extremo no monastério, Gautama abandonou as práticas d
 
 ### 2. Caminho Óctuplo — disciplina ético-meditativa
 
-Os oito passos para a libertação do sofrimento — visão correta, intenção correta, fala correta, ação correta, modo de vida correto, esforço correto, atenção correta, concentração correta — são reformulados por Joanna no cap. VIII de Plenitude como **caminhos para a saúde**: crer, querer, falar, operar, viver, esforçar-se, pensar e meditar **retamente**. A obra cruza explicitamente cada passo budista com elementos cristãos ("a fé tudo pode") e com a caridade kardecista, oferecendo síntese terapêutica tripartite Buda–Jesus–Kardec.
+Os oito passos para a libertação do sofrimento — visão correta, intenção correta, fala correta, ação correta, modo de vida correto, esforço correto, atenção correta, concentração correta — são reformulados por Joanna no cap. VIII de [[wiki/obras/plenitude|Plenitude]] como **caminhos para a saúde**: crer, querer, falar, operar, viver, esforçar-se, pensar e meditar **retamente**. A obra cruza explicitamente cada passo budista com elementos cristãos ("a fé tudo pode") e com a caridade kardecista, oferecendo síntese terapêutica tripartite Buda–Jesus–Kardec.
 
 ### 3. Lei do carma — antecipação parcial
 
@@ -42,12 +42,12 @@ A **lei do carma** (causa e efeito moral, com encadeamento entre vidas) é, na l
 
 ### 4. Posição na *Revista Espírita* e no Pentateuco
 
-Kardec menciona Buda esparsamente no Pentateuco — a *Revista Espírita* não dedica artigo monográfico ao Budismo nos moldes do que Lao-Tseu recebe em [[wiki/obras/revista-espirita-1868|RE outubro/1868]]. As referências aparecem como nó da rede de tradições religiosas antigas que prefiguram a moral espírita. A leitura sistematizada à luz espírita vem dos **complementares consagrados**: Joanna em Plenitude (1990) e em [[wiki/obras/o-homem-integral|O Homem Integral]] (cap. 33, "Os sofrimentos humanos"); Léon Denis e Emmanuel também o citam como precursor.
+Kardec menciona Buda esparsamente no Pentateuco — a *Revista Espírita* não dedica artigo monográfico ao Budismo nos moldes do que Lao-Tseu recebe em [[wiki/obras/revista-espirita-1868|RE outubro/1868]]. As referências aparecem como nó da rede de tradições religiosas antigas que prefiguram a moral espírita. A leitura sistematizada à luz espírita vem dos **complementares consagrados**: Joanna em [[wiki/obras/plenitude|Plenitude]] (1990) e em [[wiki/obras/o-homem-integral|O Homem Integral]] (cap. 33, "Os sofrimentos humanos"); Léon Denis e Emmanuel também o citam como precursor.
 
 ## Obras associadas
 
 - **Tripitaka** (*Tipiṭaka*, "três cestos") — cânone budista Theravada em pali; coleção dos discursos atribuídos a Buda. Não há tradução brasileira espírita dedicada.
-- **Anguttara Nikaya** — coletânea de discursos cuja epígrafe (III, 35ª) abre o cap. XII de Plenitude.
+- **Anguttara Nikaya** — coletânea de discursos cuja epígrafe (III, 35ª) abre o cap. XII de [[wiki/obras/plenitude|Plenitude]].
 - **Dhammapada** — antologia de versos atribuídos a Buda, frequentemente citada por Joanna.
 
 ## Citações relevantes
@@ -64,6 +64,6 @@ Kardec menciona Buda esparsamente no Pentateuco — a *Revista Espírita* não d
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira. *Plenitude*. LEAL, 1991. Caps. II–VIII (Quatro Nobres Verdades, Caminho Óctuplo) e cap. XII (epígrafe do *Anguttara Nikaya*).
-- Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. LEAL, 1990. Cap. 33 ("Os sofrimentos humanos").
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/plenitude|Plenitude]]*. LEAL, 1991. Caps. II–VIII (Quatro Nobres Verdades, Caminho Óctuplo) e cap. XII (epígrafe do *Anguttara Nikaya*).
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/o-homem-integral|O Homem Integral]]*. LEAL, 1990. Cap. 33 ("Os sofrimentos humanos").
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 132 (encarnação como expiação ou missão).

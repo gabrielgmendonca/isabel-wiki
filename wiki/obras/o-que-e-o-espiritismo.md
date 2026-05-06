@@ -119,5 +119,5 @@ Nenhuma — obra de Kardec (nível 2), em pleno alinhamento com o Pentateuco. Tr
 ## Fontes
 
 - Kardec, Allan. *O Que é o Espiritismo?* (*Qu'est-ce que le Spiritisme?*). 1ª ed. Paris, 1859. Tradução FEB.
-- Kardec, Allan. *O Livro dos Espíritos* (*Le Livre des Esprits*). 2ª ed. Paris, 1860.
-- Kardec, Allan. *O Livro dos Médiuns* (*Le Livre des Médiums*). 1ª ed. Paris, 1861.
+- Kardec, Allan. *O Livro dos Espíritos* (*[[wiki/obras/livro-dos-espiritos|Le Livre des Esprits]]*). 2ª ed. Paris, 1860.
+- Kardec, Allan. *O Livro dos Médiuns* (*[[wiki/obras/livro-dos-mediuns|Le Livre des Médiums]]*). 1ª ed. Paris, 1861.

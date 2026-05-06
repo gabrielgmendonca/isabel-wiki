@@ -35,7 +35,7 @@ A leitura espírita reconhece o valor do mapeamento, mas marca o que **falta**: 
 
 Jung é citado nominalmente em pelo menos **duas obras espíritas de primeira linha**:
 
-#### Joanna de Ângelis / Divaldo Franco — *Plenitude* (1990)
+#### Joanna de Ângelis / Divaldo Franco — *[[wiki/obras/plenitude|Plenitude]]* (1990)
 
 **Cap. III — Origens do Sofrimento.** Cita carta de Jung em *Letters* (Princeton, 1973, vol. I, p. 236):
 
@@ -43,7 +43,7 @@ Jung é citado nominalmente em pelo menos **duas obras espíritas de primeira li
 
 **Cap. XIV — Libertação do Sofrimento.** Joanna avalia: *"Carl Gustav Jung foi possivelmente quem melhor penetrou a realidade do sofrimento, propondo a sua elucidação e cura. Enquanto a preocupação geral se baseava nos resultados físicos, no bem-estar emocional, sob a angulação médica, ele recorreu a dois métodos para encontrar-lhe a gênese e a solução: os sonhos e a imaginação."* Reconhece-lhe os métodos terapêuticos — sonhos, imaginação ativa, individuação, marcha para o numinoso — como *"valiosos mecanismos terapêuticos"*. A obra fecha posicionando o Espiritismo como complemento que faltava: *"a promoção moral proposta pelo Espiritismo e a contribuição extraordinária que dá, pelo fato de ser a alma imortal e da reencarnação — em cujos renascimentos o ser espiritual se depura — constituem terapias irrecusáveis"*.
 
-A interlocução com Jung percorre toda a série psicológica de Joanna ([[wiki/obras/o-homem-integral|O Homem Integral]], [[wiki/obras/conquista-da-saude-psicologica|A Conquista da Saúde Psicológica]], [[wiki/obras/o-ser-consciente|O Ser Consciente]]) — em particular o cap. 32 de *O Homem Integral* ("Nascimento da consciência") cita extensamente Jung sobre o trabalho de conscientização dos conteúdos do inconsciente.
+A interlocução com Jung percorre toda a série psicológica de Joanna ([[wiki/obras/o-homem-integral|O Homem Integral]], [[wiki/obras/conquista-da-saude-psicologica|A Conquista da Saúde Psicológica]], [[wiki/obras/o-ser-consciente|O Ser Consciente]]) — em particular o cap. 32 de *[[wiki/obras/o-homem-integral|O Homem Integral]]* ("Nascimento da consciência") cita extensamente Jung sobre o trabalho de conscientização dos conteúdos do inconsciente.
 
 #### André Luiz / Chico Xavier — *No Mundo Maior* (1947)
 
@@ -75,7 +75,7 @@ Em síntese: Jung é interlocutor valioso no diagnóstico e no método (inconsci
 Jung produziu volumosa obra; abaixo, os títulos mais frequentemente referenciados em estudos espíritas:
 
 - **Memórias, Sonhos, Reflexões** (1962, póstuma) — autobiografia espiritual; passagens sobre reencarnação, encontros com Filemon, hipóteses sobre a pós-vida.
-- **Letters** (Princeton, 1973, 2 vols.) — fonte da citação em *Plenitude* cap. III.
+- **Letters** (Princeton, 1973, 2 vols.) — fonte da citação em *[[wiki/obras/plenitude|Plenitude]]* cap. III.
 - **O Eu e o Inconsciente** (*Die Beziehungen zwischen dem Ich und dem Unbewussten*, 1928) — individuação e função transcendente.
 - **Tipos Psicológicos** (1921) — extroversão/introversão e quatro funções.
 - **Resposta a Jó** (*Antwort auf Hiob*, 1952) — leitura do Antigo Testamento à luz do numinoso.
@@ -93,8 +93,8 @@ Não há obra de Jung traduzida e publicada por editora espírita — a interloc
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira. *Plenitude*. LEAL, 1991. Caps. III e XIV.
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/plenitude|Plenitude]]*. LEAL, 1991. Caps. III e XIV.
 - André Luiz / Xavier, Francisco Cândido. *No Mundo Maior*. FEB, 1947. Cap. 11 ("Sexologia divina").
-- Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. LEAL, 1990. Cap. 32 ("Nascimento da consciência").
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/o-homem-integral|O Homem Integral]]*. LEAL, 1990. Cap. 32 ("Nascimento da consciência").
 - Jung, Carl Gustav. *Letters*. Princeton: Princeton University Press, 1973, vol. I, p. 236.
 - Jung, Carl Gustav. *Memórias, Sonhos, Reflexões*. Trad. Dora Ferreira da Silva. Rio de Janeiro: Nova Fronteira, 1975.

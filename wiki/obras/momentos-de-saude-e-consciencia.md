@@ -74,7 +74,7 @@ Duas partes independentes (psicografadas em momentos distintos) reunidas pela LE
 - **16. Em serenidade.** Serenidade como conquista, não como temperamento.
 - **17. Encontro com a realidade.** Aceitação lúcida do que a vida apresenta.
 
-**Eixo VI — Plenitude (caps. 18-20)**
+**Eixo VI — [[wiki/obras/plenitude|Plenitude]] (caps. 18-20)**
 - **18. A bênção da saúde.** Saúde como recurso para servir, não como fim em si.
 - **19. Compreensão.** A compreensão como cura das relações.
 - **20. Amadurecimento psicológico.** Encerramento — maturidade em pleno desabrochar.
@@ -125,7 +125,7 @@ Duas partes independentes (psicografadas em momentos distintos) reunidas pela LE
 4. **Auto-exame como receita de Jesus** — Joanna lê Jesus como "psicoterapeuta incomum" que propôs o auto-exame como receita para a paz; convergência direta com [[wiki/conceitos/jesus-psicoterapeuta]].
 5. **Diálogo com a psicologia secular** — Psicossomática, Psicologias Transpessoal, Transacional e Criativa; Jung relido (arquétipo coletivo como herança da Erraticidade, não construção cultural).
 6. **Lei de Renovação como força operativa** — explicitada na Parte 1 cap. 3 e cap. 15: nada permanece inalterável; a renovação é fenômeno natural e a paisagem futura é modificável pela conduta presente.
-7. **Plenitude como sintonia entre as duas partes** — a Parte 1 termina em "amadurecimento psicológico" e a Parte 2 termina em "consciência e plenitude"; ambas convergem para o mesmo estado conquistado, ressoando o título da obra-irmã [[wiki/obras/plenitude]] (1991).
+7. **[[wiki/obras/plenitude|Plenitude]] como sintonia entre as duas partes** — a Parte 1 termina em "amadurecimento psicológico" e a Parte 2 termina em "consciência e plenitude"; ambas convergem para o mesmo estado conquistado, ressoando o título da obra-irmã [[wiki/obras/plenitude]] (1991).
 
 ## Conceitos tratados
 
@@ -160,7 +160,7 @@ Duas partes independentes (psicografadas em momentos distintos) reunidas pela LE
 ## Páginas relacionadas
 
 - [[wiki/obras/momentos-de-felicidade]] — irmã editorial direta (LEAL, 1990): mesmo padrão de capítulos curtos com mantras emoldurando.
-- [[wiki/obras/plenitude]] — irmã cronológica (LEAL, 1991): a Parte 2 desta obra encerra justamente em "Consciência e Plenitude", ressoando o título.
+- [[wiki/obras/plenitude]] — irmã cronológica (LEAL, 1991): a Parte 2 desta obra encerra justamente em "Consciência e [[wiki/obras/plenitude|Plenitude]]", ressoando o título.
 - [[wiki/obras/o-homem-integral]] — antecessora (LEAL, 1990) que abriu o eixo da "Quarta Força" na bibliografia Joanna.
 - [[wiki/obras/o-ser-consciente]] — sucessora (LEAL, 1993) que sistematiza a tese aqui aflorada.
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra que retoma o eixo da Parte 1 em chave clínica.

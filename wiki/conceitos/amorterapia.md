@@ -42,7 +42,7 @@ Em ESE cap. V, item 12, Kardec articula a cura pelo amor como traço caracterís
 
 Em [[wiki/obras/o-ser-consciente]] cap. 24, Joanna já mencionava "a base da amorterapia" como ancoragem da Lei de Justiça, Amor e Caridade. O termo aparece em registro técnico, sem desenvolvimento próprio.
 
-### Formulação plena em *Desperte e Seja Feliz* (1996, cap. 22)
+### Formulação plena em *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]* (1996, cap. 22)
 
 A obra de 1996 toma o termo como **título de capítulo** e o desenvolve como tese central. O princípio operativo é "Não se apagam incêndios, usando-se combustíveis":
 
@@ -90,7 +90,7 @@ A amorterapia opera em três campos:
 - [[wiki/conceitos/caridade]] — caridade como sinônimo prático do amor cristão (ESE cap. XV).
 - [[wiki/conceitos/jesus-psicoterapeuta]] — Jesus como Médico das almas / Psicoterapeuta Excelente.
 - [[wiki/conceitos/medico-interno]] — contraparte psicossomática individual da amorterapia.
-- [[wiki/conceitos/autocura]] — técnica em 4 passos sistematizada em *Plenitude*.
+- [[wiki/conceitos/autocura]] — técnica em 4 passos sistematizada em *[[wiki/obras/plenitude|Plenitude]]*.
 - [[wiki/conceitos/dores-da-alma]] — alvo da amorterapia no plano clínico-moral.
 - [[wiki/obras/desperte-e-seja-feliz]] — formulação canônica do conceito (cap. 22).
 - [[wiki/obras/o-ser-consciente]] — antecedente terminológico (cap. 24).
@@ -100,6 +100,6 @@ A amorterapia opera em três campos:
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 873-919 (Lei de Justiça, Amor e Caridade).
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XI (Amar o próximo como a si mesmo); cap. XII (Amar os inimigos); cap. XV (Fora da caridade não há salvação) e item 5 do mesmo capítulo.
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 22 — "Amorterapia". Salvador: LEAL, 1996.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 22 — "Amorterapia". Salvador: LEAL, 1996.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*, cap. 24. Salvador: LEAL, 1993.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Amor, Imbatível Amor*, caps. 60–61. Salvador: LEAL, 1998.

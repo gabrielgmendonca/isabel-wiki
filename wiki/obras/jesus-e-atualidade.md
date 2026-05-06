@@ -80,7 +80,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 
 - **1 — Jesus e Desafios**: o progresso do Espírito como série de desafios à resistência; "lei de entropia" como paralelo cósmico do esforço moral.
 - **5 — Jesus e Tolerância**: psicologia do julgamento como projeção da própria sombra; *"tem compaixão de quem cai. A consciência dele será o seu juiz."*
-- **7 — Jesus e Justiça**: tratamento equânime — Nicodemos, Zaqueu, Lázaro, ladrão na cruz, fariseus, saduceus, todos sob o mesmo regime; resposta a Pilatos sobre o "verdadeiro poder".
+- **7 — Jesus e Justiça**: tratamento equânime — Nicodemos, Zaqueu, Lázaro, ladrão na cruz, fariseus, saduceus, todos sob o mesmo regime; resposta a [[wiki/personalidades/poncio-pilatos|Pilatos]] sobre o "verdadeiro poder".
 - **9 — Jesus e Alegria**: combate à tristeza como morbo; Getsêmani como única vez em que Jesus *"deixou-se vestir de tristeza"* — e por piedade dos discípulos invigilantes. Diagnóstico kardequiano: tristeza pode ter origem em (a) reminiscências espirituais ou (b) obsessão.
 - **10 — Jesus e Coragem**: contra o crime disfarçado de legalidade, a arrogância mascarada de humildade, a hipocrisia disfarçada de honestidade. *"Coragem é conquista que difere muito da temeridade."*
 - **14 — Jesus e Posses**: o jovem rico (Mt 19,16-22) — *"o moço era rico e gozador, mas não era feliz, pois que lhe faltava algo: a solidariedade"*. Doutrina da mordomia: *"sabe que é mordomo transitório e não dono permanente"*.
@@ -116,7 +116,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 ### Personalidades históricas mencionadas (sem página própria na wiki)
 
 - **Psicólogos da profundidade**: Roberto Assagioli (psicossíntese), Abraham Maslow (psicologia do ser), Stanislav Grof (mente-cérebro/psicologia transpessoal), Melanie Klein, Carl Johnson — todos no prefácio.
-- **Personagens evangélicos**: Nicodemos (cap. 2), o samaritano (caps. 4, 10), Pilatos (cap. 7), o jovem rico (cap. 14), o paralítico do telhado (cap. 18), os dez leprosos (cap. 19), Judas (cap. 20).
+- **Personagens evangélicos**: Nicodemos (cap. 2), o samaritano (caps. 4, 10), [[wiki/personalidades/poncio-pilatos|Pilatos]] (cap. 7), o jovem rico (cap. 14), o paralítico do telhado (cap. 18), os dez leprosos (cap. 19), Judas (cap. 20).
 
 ## Divergências
 

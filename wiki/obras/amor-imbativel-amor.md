@@ -93,7 +93,7 @@ A novidade do cap. 60 é a **ancoragem psiconeuroimunológica**: o pensamento am
 
 **Cap. 62 — Amor que liberta.** Articula o amor maduro à **distância sem perda** (vínculo metafísico que a separação física não interrompe) e reconhece que muitos distúrbios comportamentais têm na raiz "a ausência do amor que se não recebeu, produzindo uma terra psicológica árida".
 
-**Cap. 63 — Amor de Plenitude.** Encerra com a síntese pedagogicamente invertida do mandamento de Jesus:
+**Cap. 63 — Amor de [[wiki/obras/plenitude|Plenitude]].** Encerra com a síntese pedagogicamente invertida do mandamento de Jesus:
 
 > "Ante a impossibilidade de o homem amar a Deus em plenitude, já que tem dificuldade em conceber o Absoluto, realiza o mister, **invertendo a ordem do ensinamento**, amando-se de início, a fim de desenvolver as aptidões que lhe dormem em latência […] crescendo na direção do amor ao próximo, decorrência natural do auto-amor, já que o outro é extensão dele mesmo, para, finalmente, amar a Deus, em uma transcendência incomparável."
 
@@ -107,7 +107,7 @@ A inversão é explicitamente pedagógica, não doutrinária — Joanna a aprese
 4. **Subpersonalidades × superpersonalidades** (cap. 61) — vocabulário Assagioli + Kasarjian para o trabalho com o ressentimento; o amor-perdão como recurso de transmutação.
 5. **Catálogo de psicopatologias contemporâneas** — mecanismos conflitivos, feridas da infância, doenças da alma, transtornos contemporâneos —, todas relidas em chave reencarnacionista.
 6. **Síntese pedagogicamente invertida do mandamento** (cap. 63) — Si → próximo → Deus como caminho de aprendizagem afetiva, sem reescritura da ordem canônica.
-7. **Continuidade da Série Psicológica** — articulação explícita com os volumes anteriores, em especial *O Ser Consciente* e *Desperte e Seja Feliz*.
+7. **Continuidade da Série Psicológica** — articulação explícita com os volumes anteriores, em especial *O Ser Consciente* e *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*.
 
 ## Conceitos tratados
 

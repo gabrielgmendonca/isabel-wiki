@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Esposa de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] e mãe de Flávia Lentúlia e Márcus Lêntulus. Personagem central de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier, 1939). Caluniada injustamente por Fúlvia Prócula no gabinete de Pôncio Pilatos durante a permanência da família na Palestina, é afastada afetivamente do marido por 25 anos e converte-se ao cristianismo pelo apostolado de Ana e do velho Simeão da Samaria. Morre no Circo Máximo na perseguição neroniana de 64 d.C.
+Esposa de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] e mãe de Flávia Lentúlia e Márcus Lêntulus. Personagem central de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier, 1939). Caluniada injustamente por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] durante a permanência da família na Palestina, é afastada afetivamente do marido por 25 anos e converte-se ao cristianismo pelo apostolado de Ana e do velho Simeão da Samaria. Morre no Circo Máximo na perseguição neroniana de 64 d.C.
 
 ## Papel
 

@@ -71,7 +71,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 
 - **6 — Amigo ingrato**: tratamento da decepção fraterna à luz da paixão de Cristo (Pedro, Judas, fuga dos discípulos); ingratidão como "psicopatologia social".
 - **10 — Libertação**: solidão e silêncio como terapia de auto-encontro; relativização da posse e do dinheiro.
-- **11 — Insegurança e medo**: *"a existência humana deve transcorrer dentro de um esquema atemporal, sem passado, sem futuro, num interminável presente"*; medo como inversão de Pedro, Judas, Pilatos diante do Cristo.
+- **11 — Insegurança e medo**: *"a existência humana deve transcorrer dentro de um esquema atemporal, sem passado, sem futuro, num interminável presente"*; medo como inversão de Pedro, Judas, [[wiki/personalidades/poncio-pilatos|Pilatos]] diante do Cristo.
 - **12 — Janelas na alma**: amor, bondade, perdão e ternura como "lentes" pelas quais se observa o mundo.
 - **17 — Teoria e prática**: o conhecimento que não se traduz em ação é "sepulcro caiado por fora"; anedota do monge budista que retirou e recolocou a pele do urso após leitura completa do texto.
 - **18 — Emoções perturbadoras**: excesso de auto-estima, apego e orgulho como raízes; sequência de exercícios para desidentificação. Continuidade temática direta com os "gigantes da alma" de *O Ser Consciente*.
@@ -109,7 +109,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 ### Personalidades históricas mencionadas (sem página própria na wiki)
 
 - **Heróis morais**: Francisco de Assis (humildade), Vicente de Paulo (caridade), Gandhi (não-violência) — galeria do cap. 1.
-- **Antagonistas evangélicos**: Judas (ambição), Pilatos (covardia), Anás, Caifás (medo do "Homem Livre") — caps. 6, 11.
+- **Antagonistas evangélicos**: Judas (ambição), [[wiki/personalidades/poncio-pilatos|Pilatos]] (covardia), Anás, Caifás (medo do "Homem Livre") — caps. 6, 11.
 
 ## Divergências
 

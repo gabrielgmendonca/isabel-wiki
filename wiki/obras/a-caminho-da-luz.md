@@ -15,7 +15,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1939
 - **Editora:** FEB
 - **Gênero:** história da humanidade sob a perspectiva espiritual

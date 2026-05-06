@@ -18,7 +18,7 @@ Segunda obra da codificação kardequiana e **guia prático do Espiritismo exper
 
 ## Dados bibliográficos
 
-- **Autor:** Allan Kardec (Hippolyte Léon Denizard Rivail)
+- **Autor:** Allan Kardec ([[wiki/personalidades/allan-kardec|Hippolyte Léon Denizard Rivail]])
 - **Publicação original:** janeiro de 1861, Paris.
 - **2ª edição (definitiva):** revisada com "particular cuidado" pelos Espíritos, que "aprovando-a, ou modificando-a à sua vontade", fizeram dela, "em grande parte, obra deles" (LM, Introdução).
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).

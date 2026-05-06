@@ -67,7 +67,7 @@ O trabalhador espírita que atende pessoas deprimidas deve:
 - Compreender que a doença pode ter componente obsessivo e reencarnatório
 - Estimular a reforma íntima e a busca do sentido da vida
 
-## Os "três inimigos" em Joanna de Ângelis (*Desperte e Seja Feliz*, cap. 7)
+## Os "três inimigos" em Joanna de Ângelis (*[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 7)
 
 Em [[wiki/obras/desperte-e-seja-feliz]] (1996), Joanna agrupa a depressão com dois outros adversários sutis da paz interior, formando uma **tríade nosográfica** com terapia diferenciada para cada componente:
 
@@ -109,5 +109,5 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XXIII, itens 237–254 (obsessão).
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XVIII, itens 27–28 (transição planetária).
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 7 — "Três inimigos". Salvador: LEAL, 1996.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 7 — "Três inimigos". Salvador: LEAL, 1996.
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Depressão" (LE q. 725, q. 974, q. 1000).

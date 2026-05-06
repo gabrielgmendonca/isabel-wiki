@@ -21,7 +21,7 @@ Acompanhamento editorial na *Revue Spirite* — diferente do silêncio editorial
 
 ## Dados bibliográficos
 
-- **Autor:** Allan Kardec (Hippolyte Léon Denizard Rivail)
+- **Autor:** Allan Kardec ([[wiki/personalidades/allan-kardec|Hippolyte Léon Denizard Rivail]])
 - **Publicação original:** Janeiro de 1868, Paris.
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/genese]]

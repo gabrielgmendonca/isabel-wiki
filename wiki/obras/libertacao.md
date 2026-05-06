@@ -14,7 +14,7 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1949
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (6º livro da série André Luiz, entre *No Mundo Maior* 1947 e *Entre a Terra e o Céu* 1954)

@@ -82,6 +82,6 @@ A leitura de "Jesus-psicoterapeuta" tem três consequências práticas para o es
 - Kardec, Allan. *O Livro dos Espíritos*, q. 919 (Conhece-te a ti mesmo). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, caps. XIV-XV (médiuns curadores e fluidos magnéticos). Trad. Guillon Ribeiro. FEB.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL, 1989. Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Homem Integral*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/o-homem-integral|O Homem Integral]]*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993.
 - André Luiz / Xavier, Francisco Cândido (psicografia). Comunicação atribuída ao Dr. Calderaro, registrada em obra da série André Luiz.

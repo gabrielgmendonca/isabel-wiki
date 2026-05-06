@@ -106,7 +106,7 @@ Cap. 36 (**A morte e seu problema**) — o homem teme a morte porque receia a vi
 
 ### Personalidades históricas mencionadas (sem página na wiki)
 
-- **Filósofos antigos**: Pitágoras, Sócrates, Platão, Aristóteles, Sófocles (Édipo), Buda (Príncipe Gautama), Confúcio.
+- **Filósofos antigos**: Pitágoras, Sócrates, Platão, Aristóteles, Sófocles (Édipo), Buda ([[wiki/personalidades/buda|Príncipe Gautama]]), Confúcio.
 - **Padres da Igreja e místicos**: Hipócrates, Plotino, Tertuliano, Orígenes, São Vicente de Paulo, Santa Teresa, Francisco de Assis.
 - **Modernos**: Descartes, Leibniz, Nietzsche, Kierkegaard, Freud, Adler, Jung, Maslow, Wilber, Grof, Assagioli, Sutich, Capra, Walsh, Vaughan, Kübler-Ross, Moody, Alice Bailey, Pedro Ouspensky, Burcke, Mivart, Cézanne, Schweitzer, Gandhi.
 - **Bíblicos/lendários**: Adão (jardim do Éden), Caim/Abel, Prometeu, Zeus, Jocasta/Laio (Édipo), Medusa/Perseu/Atena, Caronte (mitologia grega), Midas.

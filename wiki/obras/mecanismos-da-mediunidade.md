@@ -15,7 +15,7 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médiuns:** Francisco Cândido Xavier (Chico Xavier) **e** Waldo Vieira
+- **Médiuns:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier) **e** Waldo Vieira
 - **Primeira edição:** 1959
 - **Editora:** FEB
 - **Gênero:** tratado doutrinário sobre a fisiologia sutil da mediunidade

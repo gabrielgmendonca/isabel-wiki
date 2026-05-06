@@ -19,7 +19,7 @@ Quarta obra do Pentateuco kardequiano, publicada em Paris em agosto de 1865 (4ª
 
 ## Dados bibliográficos
 
-- **Autor:** Allan Kardec (Hippolyte Léon Denizard Rivail)
+- **Autor:** Allan Kardec ([[wiki/personalidades/allan-kardec|Hippolyte Léon Denizard Rivail]])
 - **Publicação original:** Agosto de 1865, Paris; 4ª edição (definitiva): 1869.
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/ceu-e-inferno]]

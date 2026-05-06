@@ -40,7 +40,7 @@ A tese pressupõe a antropologia kardequiana fundamental: o Espírito comanda; o
 
 ### Mecanismo bioquímico
 
-Em *Desperte e Seja Feliz* cap. 20, Joanna detalha o circuito:
+Em *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]* cap. 20, Joanna detalha o circuito:
 
 > "Uma emoção qualquer produz descarga de adrenalina na corrente sanguínea, ocasionando sensações equivalentes ao tipo do agente desencadeador. Assim sendo, *encefalinas* e *endorfinas* são secretadas pelo cérebro sob estímulos próprios, gerando imediatos efeitos no aparelho físico. Enzimas outras são produzidas com cargas positivas ou negativas, conforme a *ordem mental,* que contribuem para a manutenção da saúde ou a piora da enfermidade."
 
@@ -91,5 +91,5 @@ Inversamente, "quando o indivíduo tem propensão para o pessimismo, o ressentim
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 459-465 (influência dos Espíritos), q. 1009-1010 (penas pedagógicas).
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. V, item 12 (cura pelo amor); cap. XV (Fora da caridade não há salvação).
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, caps. 20 (O médico interno) e 23 (Curas). Salvador: LEAL, 1996.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, caps. 20 (O médico interno) e 23 (Curas). Salvador: LEAL, 1996.
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, ~2009. Cf. [[wiki/obras/conquista-da-saude-psicologica]].

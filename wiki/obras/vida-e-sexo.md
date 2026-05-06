@@ -15,7 +15,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Local e data da redação:** Uberaba, 5 de junho de 1970
 - **Primeira edição:** 1970
 - **Editora:** FEB

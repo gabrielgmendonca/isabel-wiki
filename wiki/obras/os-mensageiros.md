@@ -16,7 +16,7 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1944 (prefácio assinado em Pedro Leopoldo, 26/02/1944)
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (2º livro da série André Luiz)

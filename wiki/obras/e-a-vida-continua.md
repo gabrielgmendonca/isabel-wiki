@@ -16,7 +16,7 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1968
 - **Editora:** FEB
 - **Gênero:** romance espiritual em terceira pessoa (13º e último volume da série André Luiz)

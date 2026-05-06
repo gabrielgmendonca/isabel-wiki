@@ -16,7 +16,7 @@ status: rascunho
 ## Dados bibliográficos
 
 - **Autor espiritual:** André Luiz
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1947
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (5º livro da série André Luiz)

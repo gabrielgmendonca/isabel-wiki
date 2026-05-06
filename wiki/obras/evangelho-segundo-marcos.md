@@ -84,7 +84,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 
 **Cap. 14 — Unção em Betânia; última ceia; Getsêmani; prisão; negação de Pedro.** Unção pela mulher no alabastro (Mc 14:3–9). Última ceia e pão/cálice (Mc 14:22–25). Getsêmani: "Aba, Pai, todas as coisas te são possíveis; afasta de mim este cálice; não seja, porém, o que eu quero, mas o que tu queres" (Mc 14:36) — aceitação consciente da missão (cf. Gênese, cap. XV). Prisão, fuga dos discípulos, julgamento noturno ante Caifás, negação tripla de Pedro (Mc 14:66–72). Ver [[raw/biblia-acf/marcos/14]].
 
-**Cap. 15 — Julgamento romano, crucificação, morte, sepultamento.** Pilatos, Barrabás, flagelação. Crucificação: "Eloí, Eloí, lamá sabactâni?" (Mc 15:34) — citação do Salmo 22; leitura espírita: provação extrema do Espírito encarnado, não abandono real. Véu do templo rasgado (Mc 15:38). Confissão do centurião romano (Mc 15:39). Mulheres que seguiam de longe — Maria Madalena, Maria mãe de Tiago, Salomé. Sepultamento por José de Arimatéia. Ver [[raw/biblia-acf/marcos/15]].
+**Cap. 15 — Julgamento romano, crucificação, morte, sepultamento.** [[wiki/personalidades/poncio-pilatos|Pilatos]], Barrabás, flagelação. Crucificação: "Eloí, Eloí, lamá sabactâni?" (Mc 15:34) — citação do Salmo 22; leitura espírita: provação extrema do Espírito encarnado, não abandono real. Véu do templo rasgado (Mc 15:38). Confissão do centurião romano (Mc 15:39). Mulheres que seguiam de longe — Maria Madalena, Maria mãe de Tiago, Salomé. Sepultamento por José de Arimatéia. Ver [[raw/biblia-acf/marcos/15]].
 
 ### Ressurreição e final longo (cap. 16)
 

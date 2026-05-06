@@ -34,7 +34,7 @@ Tradicionalmente a expressão é interpretada por três caminhos principais:
 
 1. **Os sete dons do Espírito Santo** (Is 11:2 — sabedoria, entendimento, conselho, fortaleza, ciência, piedade, temor do Senhor) — leitura medieval dominante (Tomás de Aquino, *Summa Theologiae* I-II q. 68); o Espírito Santo é **um** mas seus dons são sete.
 2. **Sete arcanjos** — leitura judaica-cristã antiga ancorada no livro deuterocanônico de Tobias (Tob 12:15, "eu sou Rafael, um dos sete santos anjos") e no apócrifo 1 Enoque (caps. 20, 40, 71, listas de sete arcanjos).
-3. **Plenitude do Espírito Santo trinitário** — leitura reformada moderna, harmonizando com a doutrina trinitária niceno-calcedoniana.
+3. **[[wiki/obras/plenitude|Plenitude]] do Espírito Santo trinitário** — leitura reformada moderna, harmonizando com a doutrina trinitária niceno-calcedoniana.
 
 A leitura espírita acolhe parcialmente a segunda interpretação (sete Espíritos como **figuras elevadas** com função de servir e revelar) e a transpõe para a chave kardequiana:
 

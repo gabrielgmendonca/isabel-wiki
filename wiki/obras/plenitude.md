@@ -42,7 +42,7 @@ A divisão em 14 capítulos segue, em primeiro arco, as Quatro Nobres Verdades; 
 
 **Cap. I — Sofrimento.** O homem trava batalha milenar para eximir-se à dor; mitologias pintaram o sofrimento como vingança divina, escolas filosóficas (estoicismo, ascetismos) tentaram combatê-lo com mais dor. A tese da obra é que a dor é "excelente mecanismo da vida a serviço da própria vida" — não punição, mas advertência ao desvio.
 
-**Cap. II — Análise dos Sofrimentos.** Apresenta as três formas budistas: *sofrimento do sofrimento* (físico/mental, doenças), *sofrimento da impermanência* (perdas, transitoriedade) e *sofrimento dos condicionamentos* (apegos, ilusões). Buda como "o jovem Gautama" que afastou-se do ascetismo cruel, meditou e formulou as Quatro Nobres Verdades.
+**Cap. II — Análise dos Sofrimentos.** Apresenta as três formas budistas: *sofrimento do sofrimento* (físico/mental, doenças), *sofrimento da impermanência* (perdas, transitoriedade) e *sofrimento dos condicionamentos* (apegos, ilusões). Buda como "o jovem [[wiki/personalidades/buda|Gautama]]" que afastou-se do ascetismo cruel, meditou e formulou as Quatro Nobres Verdades.
 
 **Cap. III — Origens do Sofrimento.** Catálogo das raízes psicológicas: ambição desmedida, frustração, ilusão, ignorância, desamor, complexo de culpa. **Primeira citação a Jung**: carta de 1955 (*Letters*, Princeton, 1973, vol. I, p. 236) — *"o sofrimento precisa ser superado, e o único meio de superá-lo é suportando-o. Aprendemos isso somente com Ele [o Cristo Crucificado]"*. O amor é o "antídoto para todas as causas".
 

@@ -62,6 +62,6 @@ A técnica também ecoa a fórmula paulina retomada no cap. VIII: o crente que s
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Plenitude*, cap. IX. Salvador: LEAL, 1991. 17ª ed.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/plenitude|Plenitude]]*, cap. IX. Salvador: LEAL, 1991. 17ª ed.
 - Kardec, Allan. *O Livro dos Médiuns*, cap. XXIII, itens 249, 252, 254. Trad. Guillon Ribeiro. FEB.
 - Bíblia. Mateus 9:5-7 (*"levanta-te e anda"*); Gálatas 2:20 (*"já não sou eu quem vive, mas Cristo vive em mim"*).

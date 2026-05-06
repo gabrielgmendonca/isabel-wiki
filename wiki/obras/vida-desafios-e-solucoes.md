@@ -150,7 +150,7 @@ A obra tem aporte significativo em conceitos que ainda não têm página própri
 
 - **Filósofos**: Sócrates ("Conhece-te a ti mesmo"), Aristóteles, Heráclito, Protágoras de Abdera, Santo Agostinho, Cláudio Bernard.
 - **Patrística e medieval**: Philo Judaeus, Irineu de Lyon (sobre arquétipos como Imago Dei), São Kevin (cap. 8 — paciência exemplar), São Francisco de Assis (referência indireta à reencarnação anterior de Joanna).
-- **Psicólogos**: Sigmund Freud (Pai da Psicanálise — cap. 2), Carl Jung (cap. 7 — análise sistemática com discordância parcial nominal), Alfred Binet e Théodore Simon (cap. 11 — escala métrica da inteligência).
+- **Psicólogos**: Sigmund Freud (Pai da Psicanálise — cap. 2), [[wiki/personalidades/carl-gustav-jung|Carl Jung]] (cap. 7 — análise sistemática com discordância parcial nominal), Alfred Binet e Théodore Simon (cap. 11 — escala métrica da inteligência).
 - **Mitologia**: Sísifo (cap. 3 — fábula como alegoria moral central da obra).
 - **Bíblicos não-canônicos**: Lázaro de Betânia (cap. 7 — leitura espírita).
 

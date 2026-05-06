@@ -15,7 +15,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Recepção:** 24/10/1938 a 09/02/1939, em Pedro Leopoldo–MG
 - **Primeira edição:** 1939
 - **Editora:** FEB
@@ -33,7 +33,7 @@ A obra abre com o testemunho íntimo "Ao leitor — Na intimidade de Emmanuel" �
 | Presente | 1 | A morte de Flamínio | Cafarnaum, ano 46 — retorno de Públio a Roma |
 | Passado | 2 | Um escravo | Roma, ano 31–32 |
 | Presente | 2 | Sombras e núpcias | Roma, ano 46 |
-| Passado | 3 | Em casa de Pilatos | Cesareia, ano 32 — calúnia contra Lívia |
+| Passado | 3 | Em casa de [[wiki/personalidades/poncio-pilatos|Pilatos]] | Cesareia, ano 32 — calúnia contra Lívia |
 | Presente | 3 | Planos da treva | Roma, intrigas familiares |
 | Passado | 4 | Na Galileia | Cafarnaum, doença de Flávia |
 | Presente | 4 | Tragédias e esperanças | Roma |
@@ -68,7 +68,7 @@ A filha leprosa Flávia é curada não pelo sentimento de Públio — *"é, sim,
 
 ### Lívia, a esposa-mártir
 
-Caluniada por Fúlvia Prócula no gabinete de Pilatos, Lívia é afastada afetivamente por Públio durante 25 anos. Cristã convertida pela serva Ana e pelo apóstolo Simeão da Samaria, frequenta as catacumbas em Roma sob Nero. Presa numa reunião dirigida por João de Cleofas (emissário da igreja de Antioquia), troca, no cárcere, a toga patrícia pela túnica da serva — "buscar o Reino de Jesus com as vestiduras singelas dos que passaram pelo mundo no torvelinho doloroso das provações" — e morre nas feras do Circo Máximo.
+Caluniada por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pilatos]], Lívia é afastada afetivamente por Públio durante 25 anos. Cristã convertida pela serva Ana e pelo apóstolo Simeão da Samaria, frequenta as catacumbas em Roma sob Nero. Presa numa reunião dirigida por João de Cleofas (emissário da igreja de Antioquia), troca, no cárcere, a toga patrícia pela túnica da serva — "buscar o Reino de Jesus com as vestiduras singelas dos que passaram pelo mundo no torvelinho doloroso das provações" — e morre nas feras do Circo Máximo.
 
 ### O Plano espiritual após a desencarnação (cap. 6 do presente)
 
@@ -78,7 +78,7 @@ Lívia desperta nos braços de Simeão, contempla o "caminho radioso" entre a Te
 
 Apóstolo samaritano septuagenário, recolhe Lívia e Ana em fuga do lictor Sulpício Tarquínius, esconde-as em refúgio escavado nas rochas e enfrenta o martírio na cruz para salvá-las. Encarna a doutrina do perdão até a morte e da rejeição da legítima defesa: *"sou dos que negam o próprio direito da chamada legítima defesa, porque está escrito na Lei: 'Não Matarás', sem nenhuma cláusula que autorize o homem a eliminar o seu irmão"*. Quando Sulpício também morre — a cruz tomba sobre seu crânio — Lívia toma a frente da assembleia samaritana e pronuncia oração que inclui o algoz: *"Queremos esquecer a sua infâmia, como perdoaste aos teus algozes do alto da cruz infamante do martírio… Ajuda-nos, Senhor, para que compreendamos e pratiquemos os teus ensinos!"*
 
-### Pôncio Pilatos no romance
+### [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] no romance
 
 Retratado como tirano libidinoso, ordena (via Sulpício) o sequestro de Lívia. Após o massacre samaritano, é processado em Roma a partir de denúncia organizada por Públio e Flamínio Sevérus; em 35 d.C. é destituído, banido para Viena nas Gálias, e suicida-se três anos depois, *"ralado de remorsos, de privações e de amarguras"*. Linha narrativa convergente com a tradição patrística (Eusébio, *História Eclesiástica*, II.7).
 
@@ -118,7 +118,7 @@ Não-divergências (registradas, mas sem callout):
 
 - O **tribunal espiritual de magistrados** que sentencia Públio antes do renascimento é dramatização literária do exame da vida que LE q. 330+ trata em chave fenomenológica — não constitui divergência doutrinária.
 - A **cura por contato direto de Jesus** em Cafarnaum é coerente com a ação fluídica que Kardec acolhe em ESE cap. XIV (Os fluidos) e Gênese cap. XIV.
-- O **suicídio de Pilatos nas Gálias** segue tradição patrística (Eusébio); não é matéria doutrinária.
+- O **suicídio de [[wiki/personalidades/poncio-pilatos|Pilatos]] nas Gálias** segue tradição patrística (Eusébio); não é matéria doutrinária.
 
 ## Continuação
 

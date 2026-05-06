@@ -72,7 +72,7 @@ Em [[wiki/obras/momentos-de-felicidade]] (1990, cap. 4 — "Benfeitora"), [[wiki
 
 A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro kardequiano em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
 
-## Tipologia funcional-pedagógica em *Desperte e Seja Feliz* (1996)
+## Tipologia funcional-pedagógica em *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]* (1996)
 
 Em [[wiki/obras/desperte-e-seja-feliz]] cap. 21 ("Dor-reparação"), Joanna de Ângelis introduz uma tipologia tríplice **distinta** da de André Luiz. O critério aqui não é a *origem* (de fora/de dentro/auxílio amigo), mas a **função pedagógica** que a dor cumpre no processo evolutivo do espírito:
 
@@ -86,7 +86,7 @@ A tipologia é **convergente, porém não idêntica**, à de André Luiz em *Aç
 
 A diretriz pastoral é a mesma das duas tipologias anteriores: **diante da própria dor, não saltar ao juízo apressado de "estou pagando"**. Pode ser elevação, pode ser conquista, pode ser resgate — e a leitura amorosa vence as três muito antes da hipótese punitiva.
 
-## Sofrimento como "doença da alma" em *Plenitude* (1990)
+## Sofrimento como "doença da alma" em *[[wiki/obras/plenitude|Plenitude]]* (1990)
 
 [[wiki/obras/plenitude|Plenitude]] (Joanna/Divaldo, prefácio out/1990, LEAL 1991) avança o tratamento técnico ao inscrever a dor num diálogo Buda–Jesus–Kardec organizado pelas Quatro Nobres Verdades budistas. A categoria-chave é **"doença da alma"** (cap. I):
 
@@ -117,7 +117,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/obras/momentos-de-felicidade]] — formulação pastoral: a dor como "benfeitora anônima" (cap. 4)
 - [[wiki/obras/plenitude]] — sofrimento como "doença da alma" em diálogo Buda–Jesus–Kardec (1990, 14 caps.)
 - [[wiki/obras/desperte-e-seja-feliz]] — tipologia funcional-pedagógica: dor-elevação, dor-conquista, dor-resgate (cap. 21)
-- [[wiki/conceitos/autocura]] — técnica de cura interior em 4 passos (Plenitude cap. IX)
+- [[wiki/conceitos/autocura]] — técnica de cura interior em 4 passos ([[wiki/obras/plenitude|Plenitude]] cap. IX)
 - [[wiki/conceitos/plenitude]] — estado-alvo: saúde integral pós-libertação do sofrimento
 
 ## Fontes
@@ -128,4 +128,4 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 26–27. Trad. Homero Dias de Carvalho. CELD, 2011.
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*, cap. 19. Rio de Janeiro: FEB, 1957.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*, cap. 4 — "Benfeitora". Salvador: LEAL, 1990.
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 21 — "Dor-reparação". Salvador: LEAL, 1996.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 21 — "Dor-reparação". Salvador: LEAL, 1996.

@@ -15,7 +15,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Recepção:** prefácio assinado em Pedro Leopoldo–MG, 08/07/1941
 - **Primeira edição:** 1942
 - **Editora:** FEB (512 p., brochura)

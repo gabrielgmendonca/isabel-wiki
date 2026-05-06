@@ -61,7 +61,7 @@ A categoria **transitória** (LE q. 234–236) acrescenta-se a essas: não é um
 
 A doutrina cumpre três funções:
 
-1. **Plenitude da criação** — nenhum mundo, em nenhuma fase, é desabitado; a vida espiritual antecede e sucede à vida corpórea organizada. Princípio metafísico contra a hipótese de "espaços vazios".
+1. **[[wiki/obras/plenitude|Plenitude]] da criação** — nenhum mundo, em nenhuma fase, é desabitado; a vida espiritual antecede e sucede à vida corpórea organizada. Princípio metafísico contra a hipótese de "espaços vazios".
 2. **Lógica das eras geológicas** — os longos períodos pré-orgânicos da Terra (atestados pelas camadas geológicas) não foram tempo morto; serviram de pousio a Espíritos errantes.
 3. **Articulação com erraticidade** — os Espíritos errantes não vagueiam pelo "espaço vazio"; têm pontos de apoio. Ver [[wiki/conceitos/erraticidade]].
 

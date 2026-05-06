@@ -16,7 +16,7 @@ status: ativo
 ## Dados bibliográficos
 
 - **Autor espiritual:** Emmanuel
-- **Médium:** Francisco Cândido Xavier (Chico Xavier)
+- **Médium:** [[wiki/personalidades/chico-xavier|Francisco Cândido Xavier]] (Chico Xavier)
 - **Primeira edição:** 1964 (proêmio datado de Uberaba, 14/09/1964)
 - **Editora:** FEB
 - **Gênero:** coletânea evangélica em forma de epígrafe + comentário pastoral
