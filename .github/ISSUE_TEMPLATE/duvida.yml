@@ -1,0 +1,26 @@
+name: Dúvida doutrinária ou sugestão
+description: Tirar dúvida sobre um tema, sugerir página nova ou propor melhoria editorial
+title: "[dúvida] "
+labels: ["duvida"]
+body:
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: O que você estava estudando ou procurando? Páginas que já consultou.
+    validations:
+      required: true
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: Dúvida ou sugestão
+      description: Pergunta doutrinária, tema que falta cobertura, página nova proposta ou melhoria editorial.
+    validations:
+      required: true
+  - type: textarea
+    id: referencias
+    attributes:
+      label: Referências consultadas
+      description: Citações do Pentateuco ou de outros autores que ancoram a pergunta.
+    validations:
+      required: false

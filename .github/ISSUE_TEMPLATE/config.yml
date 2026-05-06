@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Licença e uso do conteúdo
+    url: https://github.com/gabrielgmendonca/isabel-wiki/blob/main/LICENSE-CONTENT.md
+    about: O conteúdo curado em `wiki/` está sob CC BY-NC-SA 4.0.

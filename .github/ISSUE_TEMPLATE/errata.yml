@@ -1,0 +1,34 @@
+name: Errata ou correção
+description: Reportar erro factual, citação incorreta, link quebrado ou typo em alguma página
+title: "[errata] "
+labels: ["errata"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página afetada
+      description: URL ou caminho dentro de `wiki/` (ex.: `wiki/conceitos/leis-morais/lei-de-causa-e-efeito`)
+      placeholder: wiki/...
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: O que está incorreto
+      description: Descreva o erro. Se for citação, indique a referência esperada (ex.: LE q. 150, ESE cap. XVII item 4).
+    validations:
+      required: true
+  - type: textarea
+    id: correcao
+    attributes:
+      label: Correção sugerida
+      description: Texto, citação ou link que deveria estar no lugar.
+    validations:
+      required: false
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Onde você verificou? (edição, capítulo, item da obra; ou link externo)
+    validations:
+      required: false

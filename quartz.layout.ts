@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/gabrielgmendonca/isabel-wiki",
+      "Sugerir correção": "https://github.com/gabrielgmendonca/isabel-wiki/issues/new/choose",
     },
   }),
 }
