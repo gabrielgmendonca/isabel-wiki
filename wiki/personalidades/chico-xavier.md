@@ -36,6 +36,7 @@ Em Pedro Leopoldo, Chico psicografou trinta páginas de [[wiki/personalidades/me
 Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citação `Autor espiritual / Médium`):
 
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel / Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo.
+- [[wiki/obras/ha-dois-mil-anos]] — Emmanuel / Chico Xavier (1939). Romance histórico em dois arcos intercalados; confissão reencarnatória de Emmanuel sobre sua existência como o senador romano Públio Lêntulus, contemporâneo de Tibério, Pilatos e Nero. Núcleo doutrinário: encontro de Públio com Jesus em Cafarnaum (cap. 5) e o "minuto glorioso" do livre-arbítrio na hora da Graça; martírio de Lívia no Circo Máximo sob Nero; recepção pelo Plano espiritual após a desencarnação. Inclui divergência de almas-gêmeas (cap. 6 — *"alma gêmea da minha"*) — mesma divergência da q. 378 de *O Consolador* contra LE q. 298–299.
 - [[wiki/obras/o-consolador]] — Emmanuel / Chico Xavier (1940). Tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião) nos moldes do Pentateuco; identifica o Espiritismo como o Consolador prometido em João 14:16. Inclui divergência das almas gêmeas (q. 378) atenuada pela própria Casa de Ismael em ressalva editorial.
 - [[wiki/obras/nosso-lar]] — André Luiz / Chico Xavier (1944). 1º volume da série André Luiz; despertar no Umbral, topologia da colônia espiritual, sistema do bônus-hora, suicídio inconsciente.
 - [[wiki/obras/os-mensageiros]] — André Luiz / Chico Xavier (1944). 2º volume da série André Luiz; Centro de Mensageiros, mediunidade fracassada, Posto de Socorro Campo da Paz, culto doméstico como fortaleza, três desencarnações.
@@ -84,6 +85,7 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].

@@ -120,6 +120,18 @@ Em *A Caminho da Luz*, Emmanuel apresenta Jesus como o responsável direto pela 
 
 Ver [[wiki/obras/a-caminho-da-luz]].
 
+## O encontro com Públio Lêntulus em Cafarnaum (Há Dois Mil Anos…)
+
+Em [[wiki/obras/ha-dois-mil-anos]] (1939), Emmanuel narra em primeira pessoa, na encarnação como o senador romano [[wiki/personalidades/publio-lentulus|Públio Lêntulus]], um diálogo direto com Jesus à margem do lago de Genesaré em ano 33 d.C. Cena que articula doutrinariamente a **soteriologia do livre-arbítrio na hora da Graça**:
+
+> "Senador, porque me procuras? […] Pastor das almas humanas, desde a formação deste planeta, há muitos milênios venho procurando reunir as ovelhas tresmalhadas, tentando trazer-lhes ao coração as alegrias eternas do reinado de Deus e de sua justiça!" (Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, cap. "O Messias de Nazaret")
+
+Doutrina central: **o "minuto glorioso"** — a Graça é oferecida, mas a escolha permanece com a criatura.
+
+> "Soa para teu espírito, neste momento, um minuto glorioso, se conseguires utilizar tua liberdade para que seja ele, em teu coração, doravante, um cântico de amor, de humildade e de fé, na hora indeterminável da redenção, dentro da eternidade… Mas, ninguém poderá agir contra a tua própria consciência, se quiseres desprezar indefinidamente este minuto ditoso!" (idem)
+
+A cura simultânea da filha leprosa Flávia opera não pelo merecimento do pai, mas pela fé da mãe — *"é, sim, a fé e o amor de tua mulher, porque a fé é divina… Basta um raio só de suas energias poderosas para que se pulverizem todos os monumentos das vaidades da Terra"*. Articula a doutrina de ESE cap. XIX (a fé que opera maravilhas) com a ação fluídica de Gênese cap. XIV.
+
 ## Parábolas
 
 - [[wiki/conceitos/parabola-do-bom-samaritano]]
@@ -150,6 +162,7 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/genese]] — milagres de Jesus explicados (cap. XV); Consolador (cap. XVII).
 - [[wiki/obras/obras-postumas]] — estudo sobre a natureza do Cristo (9 seções).
 - [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
+- [[wiki/obras/ha-dois-mil-anos]] — encontro com Públio Lêntulus em Cafarnaum; o "minuto glorioso" do livre-arbítrio na hora da Graça; cura de Flávia (Emmanuel/Chico Xavier).
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
 - [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
 - [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
@@ -170,3 +183,4 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Tradução de Guillon Ribeiro. FEB.
 - KARDEC, Allan. *Obras Póstumas*, "Estudo sobre a natureza do Cristo". Tradução de Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939.
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].

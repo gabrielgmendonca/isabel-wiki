@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Léon Denis, André Luiz/Chico Xavier]
-tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao]
-atualizado_em: 2026-04-26
+fontes: [LE, ESE, Léon Denis, André Luiz/Chico Xavier, Emmanuel/Chico Xavier]
+tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao]
+atualizado_em: 2026-05-06
 status: ativo
 ---
 
@@ -97,6 +97,16 @@ A obra apresenta descrição detalhada do processo perispirítico da gravidez, c
 
 Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 
+## Confissão reencarnatória de Emmanuel (Há Dois Mil Anos…, 1939)
+
+[[wiki/obras/ha-dois-mil-anos]] é, ela mesma, **um dos documentos doutrinários mais explícitos da pluralidade das existências na literatura espírita** — não em registro teórico, mas em primeira pessoa. Emmanuel narra sua trajetória pessoal pelo ciclo Públio Lêntulus Sura (cônsul ao tempo de Cícero, estrangulado em 63 a.C.) → [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] (senador romano contemporâneo de Tibério) → Espírito comunicante.
+
+No capítulo "Dois amigos", Públio relata um sonho-revelação em que comparece, antes do renascimento na gens Cornélia, ante o tribunal de magistrados em togas alvas que fixa o programa expiatório:
+
+> "Públio Lêntulus, a justiça dos deuses, na sua misericórdia, determina tua volta ao turbilhão das lutas do mundo, para que laves as nódoas de tuas culpas nos prantos remissores. Viverás numa época de maravilhosos fulgores espirituais, lutando com todas as situações e dificuldades, não obstante o berço de ouro que te receberá ao renasceres, a fim de que edifiques tua consciência denegrida, nas dores que purificam e regeneram!… Determinou-se que sejas poderoso e rico, a fim de que, com o teu desprendimento dos caminhos humanos, no instante preciso, possas ser elemento valioso para os teus mentores espirituais." (Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, cap. "Dois amigos")
+
+Articula em chave narrativa o que LE q. 258 (escolha das provas) e q. 330 (exame da vida pelos espíritos errantes) descrevem em chave fenomenológica. A "fortuna como prova" (cap. acima) ecoa LE q. 814–822 (riqueza e pobreza como provações). Cf. também [[wiki/conceitos/planejamento-reencarnatorio]].
+
 ## Divergências
 
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — Denis restringe a mudança de sexo; Kardec a trata com naturalidade (LE, q. 200–202).
@@ -120,3 +130,4 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. III–IV, VI; nota complementar nº 5. Trad. Albertina Escudeiro Sêco. CELD, 2012.
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 13–15 (planejamento reencarnatório, fecundação assistida, fracasso). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 28–29.
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Cap. "Dois amigos" (tribunal espiritual e programa expiatório). Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].

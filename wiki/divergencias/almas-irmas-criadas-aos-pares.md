@@ -28,9 +28,15 @@ Denis afirma a existência de almas criadas aos pares com destino conjugal perma
 
 Denis as descreve como "a forma mais completa, mais perfeita da vida e do sentimento" e usa esse conceito para reforçar seu argumento contra a mudança de sexo: a troca tornaria inviável a relação entre almas-irmãs.
 
-## Posição de Emmanuel (O Consolador, 1940)
+## Posição de Emmanuel (Há Dois Mil Anos…, 1939; O Consolador, 1940)
 
-Emmanuel formula a tese das almas gêmeas em [[wiki/obras/o-consolador]] (q. 378), na seção "União":
+A formulação aparece pela primeira vez no romance [[wiki/obras/ha-dois-mil-anos]] (1939), em registro narrativo. No capítulo "Alvoradas do Reino do Senhor", Lívia chega ao Plano espiritual após o martírio no Circo Máximo e pede para retornar à Terra como espírito protetor de Públio. Uma entidade angélica fundamenta o pedido na doutrina do amor cosmogônico:
+
+> "Sim — o amor é o laço de luz eterna que une todos os mundos e todos os seres da imensidade; sem ele, a própria Criação Infinita não teria razão de ser, porque Deus é a sua expressão suprema… As perspectivas deslumbrantes das Esferas felizes perderiam a divina beleza, se não guardássemos a esperança de participar, um dia, de suas ilimitadas venturas, junto dos nossos bem-amados, que se encontram na Terra ou noutros círculos de provação, do Universo…" (Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor")
+
+E Lívia se refere a Públio como *"a alma gêmea da minha, que a sabedoria de Deus, em seus profundos e doces mistérios, destinou ao meu modo de ser, desde a aurora dos tempos"* — ecoando exatamente a doutrina das "metades eternas" que Kardec havia rejeitado em LE q. 298–299.
+
+Um ano depois, Emmanuel formula a tese de modo doutrinário em [[wiki/obras/o-consolador]] (q. 378), na seção "União":
 
 > "No sagrado mistério da vida, cada coração possui no Infinito a alma gêmea da sua, como divino complemento da sua personalidade. Criadas uma para a outra, as almas gêmeas se buscam através da eternidade." (Emmanuel / Chico Xavier, *O Consolador*, q. 378 — texto original)
 
@@ -46,7 +52,7 @@ A motivação declarada por Emmanuel para preservar a ressalva é pastoral (comb
 
 ## Análise
 
-**Divergência real, com tratamento exemplar em Emmanuel.** Denis e Emmanuel afirmam, em formulações próximas, o que Kardec nega. Na q. 298, Kardec recusa a noção de "união particular e fatal"; ambos a abraçam (Denis sob "almas-irmãs criadas aos pares", Emmanuel sob "alma gêmea como divino complemento da personalidade"). Na q. 299, Kardec rejeita a expressão "metade" como inexata; Denis romantiza a ideia de pares inseparáveis e Emmanuel a recupera com mesma estrutura.
+**Divergência real, com tratamento exemplar em Emmanuel.** Denis e Emmanuel afirmam, em formulações próximas, o que Kardec nega. Na q. 298, Kardec recusa a noção de "união particular e fatal"; ambos a abraçam (Denis sob "almas-irmãs criadas aos pares", Emmanuel sob "alma gêmea como divino complemento da personalidade", já presente em registro narrativo em *Há Dois Mil Anos…*). Na q. 299, Kardec rejeita a expressão "metade" como inexata; Denis romantiza a ideia de pares inseparáveis e Emmanuel a recupera com mesma estrutura, primeiro em romance (1939) e depois em tratado doutrinário (1940).
 
 A posição de Kardec fundamenta-se na individualidade plena de cada Espírito e na universalidade da simpatia: a perfeição aproxima todos os Espíritos, não apenas pares eleitos. Denis, ao sistematizar a noção de pares predestinados, introduz um elemento de fatalidade que Kardec expressamente combate.
 
@@ -61,9 +67,11 @@ O caso de *O Consolador* é doutrinariamente instrutivo por dois motivos:
 - [[wiki/conceitos/separacao-e-reencontro]]
 - [[wiki/obras/o-problema-do-ser-e-do-destino]]
 - [[wiki/obras/o-consolador]]
+- [[wiki/obras/ha-dois-mil-anos]]
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 298–303 — "Relações de simpatia e de antipatia entre os Espíritos. Metades eternas." Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - Xavier, Francisco Cândido (Emmanuel). *O Consolador*, q. 378 e Nota final. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
+- Xavier, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor". Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].

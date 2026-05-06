@@ -18,6 +18,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 ## Obras associadas
 
+- [[wiki/obras/ha-dois-mil-anos]] — romance histórico em dois arcos intercalados; confissão reencarnatória de Emmanuel sobre sua existência como o senador romano Públio Lêntulus, contemporâneo de Tibério, Pilatos e Nero (1939)
 - [[wiki/obras/a-caminho-da-luz]] — história da civilização terrestre sob a direção espiritual do Cristo (1939)
 - [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
 - [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
@@ -30,6 +31,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Citações relevantes
 
 > "Um único objetivo orientou as nossas atividades — o da demonstração da influência sagrada do Cristo na organização de todos os surtos da civilização do planeta." (Emmanuel, *A Caminho da Luz*, Conclusão)
+
+> "Soa para teu espírito, neste momento, um minuto glorioso, se conseguires utilizar tua liberdade para que seja ele, em teu coração, doravante, um cântico de amor, de humildade e de fé, na hora indeterminável da redenção, dentro da eternidade… Mas, ninguém poderá agir contra a tua própria consciência, se quiseres desprezar indefinidamente este minuto ditoso!" (Jesus a Públio Lêntulus em Cafarnaum, *Há Dois Mil Anos…*, cap. 5 — núcleo da soteriologia emanueliana do livre-arbítrio na hora da Graça)
 
 > "Sim, porque depois da treva surgirá uma nova aurora. Luzes consoladoras envolverão todo o orbe regenerado no batismo do sofrimento." (Emmanuel, *A Caminho da Luz*, cap. 25)
 
@@ -52,6 +55,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 ## Fontes
 
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
