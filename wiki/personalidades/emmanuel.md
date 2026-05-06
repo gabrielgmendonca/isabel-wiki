@@ -19,6 +19,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Obras associadas
 
 - [[wiki/obras/ha-dois-mil-anos]] — romance histórico em dois arcos intercalados; confissão reencarnatória de Emmanuel sobre sua existência como o senador romano Públio Lêntulus, contemporâneo de Tibério, Pilatos e Nero (1939)
+- [[wiki/obras/50-anos-depois]] — continuação narrativa de *Há Dois Mil Anos*; centrada em [[wiki/personalidades/celia|Célia]] (virgem-mártir traveste-se de monge em Alexandria como "Irmão Marinho"), com Pompílio Crasso reencarnado como [[wiki/personalidades/helvidio-lucius|Helvídio Lucius]] e Públio Lêntulus retornando como o escravo [[wiki/personalidades/nestorio|Nestório]]; capítulo "Nas Esferas Espirituais" como página doutrinária central sobre reencarnação coletiva e perdão setenta vezes sete (1939)
 - [[wiki/obras/a-caminho-da-luz]] — história da civilização terrestre sob a direção espiritual do Cristo (1939)
 - [[wiki/obras/o-consolador]] — tratado doutrinário em 412 perguntas e respostas (Filosofia, Ciência, Religião); identifica o Espiritismo como o Consolador prometido em Jo 14:16 (1940)
 - [[wiki/obras/caminho-verdade-e-vida]] — coletânea evangélica de 180 capítulos curtos (epígrafe + comentário pastoral); primeira da série de comentários ao Evangelho (1948)
@@ -56,6 +57,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].

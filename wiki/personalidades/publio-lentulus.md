@@ -30,7 +30,7 @@ A obra explicita, no sonho do capítulo "Dois amigos", a conexão entre Públio 
 - **Cafarnaum, ano 33** — encontro com Jesus à beira do lago. Cura da pequena Flávia. Públio rejeita o "minuto glorioso".
 - **Cesareia–Roma, ano 46** — retorno a Roma após morte do amigo Flamínio Sevérus.
 - **Roma, ano 64–67** — perseguição de Nero; Lívia, convertida ao cristianismo, é presa nas catacumbas e martirizada no Circo Máximo. Públio descobre a fé tardia da esposa e sua humildade — *"de joelhos ante a relíquia de Simeão, como de seu recente costume, Públio Lêntulus meditava"*.
-- **Após desencarnação** — sucessivas reencarnações de expiação e serviço, até a apresentação como mentor espiritual de Chico Xavier em Pedro Leopoldo no séc. XX.
+- **Após desencarnação** — sucessivas reencarnações de expiação e serviço, até a apresentação como mentor espiritual de Chico Xavier em Pedro Leopoldo no séc. XX. A primeira reencarnação documentada na wiki é a do escravo cristão [[wiki/personalidades/nestorio|Nestório]], em Roma sob Adriano (séc. II d.C.) — *"sob a veste humilde dos escravos, que o seu orgulhoso coração havia espezinhado outrora"* (Emmanuel, *50 anos depois*, Carta ao leitor) —, narrado em [[wiki/obras/50-anos-depois]].
 
 ## Citações relevantes
 

@@ -120,6 +120,10 @@ Não-divergências (registradas, mas sem callout):
 - A **cura por contato direto de Jesus** em Cafarnaum é coerente com a ação fluídica que Kardec acolhe em ESE cap. XIV (Os fluidos) e Gênese cap. XIV.
 - O **suicídio de Pilatos nas Gálias** segue tradição patrística (Eusébio); não é matéria doutrinária.
 
+## Continuação
+
+A obra tem continuação narrativa direta em [[wiki/obras/50-anos-depois]] (Emmanuel / Chico Xavier, 1939) — recepção concluída em Pedro Leopoldo, 19/12/1939, ainda no mesmo ciclo. Centrada em Célia, a história desloca o eixo doutrinário do "minuto glorioso" do livre-arbítrio (cap. 5 daqui) para o **perdão setenta vezes sete como gate da reencarnação coletiva** (cap. 7 "Nas Esferas Espirituais" de lá), trazendo Pompílio Crasso reencarnado como [[wiki/personalidades/helvidio-lucius|Helvídio Lucius]] e Públio Lêntulus retornando como o escravo [[wiki/personalidades/nestorio|Nestório]].
+
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
