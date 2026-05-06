@@ -17,6 +17,15 @@ status: ativo
 - **Função:** Mentora espiritual de Divaldo Pereira Franco e autora de extensa série psicográfica de orientação psicológica
 - **Nível na hierarquia da wiki:** 3 — Complementar aprovado
 
+### Reencarnações relatadas
+
+A apresentação biográfica registrada nas edições da Série Psicológica (cf. capa interna de [[wiki/obras/desperte-e-seja-feliz]], 1996) reúne quatro reencarnações em que Joanna se identifica como "colaboradora de Jesus":
+
+- **Joana de Cusa** — séc. I, "piedosa mulher citada no Evangelho" (cf. Lc 8:3 — Joana, esposa de Cuza, procurador de Herodes), mártir queimada viva ao lado do filho e de cristãos no Coliseu de Roma. Citada também em *Desperte e Seja Feliz* cap. 26 ("Joana de Cusa demonstrou sua fé, no momento do martírio, permanecendo tranquila até ao fim").
+- **Companheira de São Francisco de Assis** — séc. XIII, em Assis, "conforme se apresentou a Divaldo Franco".
+- **Sor Juana Inés de la Cruz** — México, 1651-1695. "A maior poetisa da língua hispânica", religiosa, intelectual e dramaturga novo-hispânica.
+- **Sóror Joana Angélica de Jesus** — Salvador-BA, 1761-1822. **Mártir da Independência do Brasil**, abadessa do Convento da Lapa, assassinada na invasão das tropas portuguesas em 19 de fevereiro de 1822.
+
 ## Papel
 
 Espírito apresentado por Divaldo Franco como seu **principal mentor espiritual**. Assina, via psicografia de Divaldo, uma série psicológica de obras dedicadas à integração entre a Doutrina Espírita codificada por Allan Kardec e a Psicologia contemporânea — em particular a Quarta Força (Psicologia Transpessoal). A produção de Joanna se caracteriza por:
@@ -36,6 +45,7 @@ Em ordem cronológica:
 - [[wiki/obras/momentos-de-saude-e-consciencia]] — *Momentos de Saúde e Consciência* (LEAL, 1992). Compilação de duas obras gêmeas: *Momentos de Saúde* (psicografia 22-out-1992) e *Momentos de Consciência* (psicografia 11-set-1991), 20 capítulos cada. Mesmo padrão pastoral curto de *Momentos de Felicidade*, mas com diálogo aberto com a Psicossomática e as Psicologias Transpessoal, Transacional e Criativa. Eixos: saúde como conquista interior decorrente da harmonia moral; consciência como sede da lei de Deus (ancorada em LE q. 621, q. 630, q. 912, q. 919, q. 967). Atribui a Kardec a fórmula "a Caridade como terapia para a paz e o modelo de aplicação correta para o amor".
 - [[wiki/obras/o-ser-consciente]] — *O Ser Consciente* (LEAL, 1993). 39 capítulos em 10 partes. Quarta Força em Psicologia, autoconhecimento, ego × self, mecanismos de fuga, gigantes da alma, conquista do si.
 - [[wiki/obras/autodescobrimento]] — *Autodescobrimento — Uma Busca Interior* (LEAL, 1995). Série Psicológica vol. 6, 12 capítulos. **Manual prático de interiorização** — sucessor direto de *O Ser Consciente* em registro aplicado: tripartição do inconsciente (incluindo o "inconsciente sagrado" como memória reencarnatória), sicários da alma (passado/futuro/desconhecimento de si com Mt 6:34), viciações mentais (insatisfação, indiferença, pânico — com defesa explícita do uso conjugado de psicofármacos e transformação moral), conteúdos perturbadores (raiva, ressentimento, lamentação, perda pela morte, amargura), distinção estar × ser, infância psicológica (criança interior reativa), conquista do Si com a interrogação canônica de Kardec ("O que fica sendo o Espírito depois de sua última reencarnação?") e os três olhos de São Boaventura.
+- [[wiki/obras/desperte-e-seja-feliz]] — *Desperte e Seja Feliz* (LEAL, 1996). Série Psicológica vol. 7, prefácio + 30 capítulos breves. **Registro homilético-pastoral** distinto da densidade técnica de *O Ser Consciente* / *Autodescobrimento*: convoca ao despertamento contra a modernidade adormecida ("seduzida pelas ambições desmedidas do poder"). Aportes específicos: **três inimigos** (depressão, ressentimento, exaltação — cap. 7) com terapia diferenciada (prece, raciocínio lúcido pelo amor, meditação); **programa pré-encarnatório** explícito como antídoto à autocompaixão (cap. 6); **tríade da autorrealização** amor-perdão-serviço (cap. 18); **esquecimento providencial** das vidas passadas como recurso pedagógico (cap. 19); **médico interno** como sistema autorreparador comandado pela mente (cap. 20, com encefalinas/endorfinas/Psiconeuroimunologia); tipologia funcional-pedagógica da dor — **dor-elevação, dor-conquista, dor-resgate** (cap. 21, distinta da tipologia clínica de *Plenitude*); **amorterapia** como cunhagem joanniana ("Não se apagam incêndios, usando-se combustíveis" — cap. 22); crítica à encomenda de orações como atavismo das "preces pagas" (cap. 27). Cita Hb 12:7 nominalmente atribuído a Paulo (cap. 17).
 
 ## Páginas relacionadas
 
@@ -54,4 +64,5 @@ Em ordem cronológica:
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Saúde e Consciência*. Salvador: LEAL, 1992. Edição: [[raw/mediuns/divaldo-franco/MOMENTOS_DE_SAUDE_E_CONSCIENCIA/MOMENTOS_DE_SAUDE_E_CONSCIENCIA]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL, 1995. 17ª ed., 2013. Série Psicológica vol. 6. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*. Salvador: LEAL, 1996. 11ª ed., 2013, 136 p. Série Psicológica vol. 7. ISBN 978-85-61879-90-7. Edição: [[raw/mediuns/divaldo-franco/DPF_JA-08-Desperte_e_seja_feliz/DPF_JA-08-Desperte_e_seja_feliz]].
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, ~2023 (referência ao estilo sintético de Joanna). Cf. [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].

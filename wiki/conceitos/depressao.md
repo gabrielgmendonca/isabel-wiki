@@ -67,6 +67,24 @@ O trabalhador espírita que atende pessoas deprimidas deve:
 - Compreender que a doença pode ter componente obsessivo e reencarnatório
 - Estimular a reforma íntima e a busca do sentido da vida
 
+## Os "três inimigos" em Joanna de Ângelis (*Desperte e Seja Feliz*, cap. 7)
+
+Em [[wiki/obras/desperte-e-seja-feliz]] (1996), Joanna agrupa a depressão com dois outros adversários sutis da paz interior, formando uma **tríade nosográfica** com terapia diferenciada para cada componente:
+
+> "Inúmeros adversários trabalham contra a paz. Destacamos três que são cruéis, na sordidez dos seus processos perseguidores. […] Referimo-nos à **depressão, ao ressentimento e à exaltação**."
+
+Imagens-diagnóstico de cada um:
+
+- **Depressão** — "noite inopinada em pleno dia… nuvem ameaçadora que tolda o sol… tóxico que envenena lentamente as mais belas florações do ser".
+- **Ressentimento** — "mofo que faz apodrecer o sustentáculo onde se apoia. Utilizando-se de causas propiciatórias, desenvolve-se e, invariavelmente, alcança poder destruidor onde se fixa".
+- **Exaltação** — "faísca de eletricidade devoradora, atinge os nervos e produz *relâmpagos* de loucura com *trovoadas* carregadas de impropérios e rebeldias".
+
+A terapia é específica para cada componente:
+
+> "Para a depressão, imediatamente se deve usar a **vacina da coragem pela prece**. Para o ressentimento, o **raciocínio lúcido, mediante o amor que não espera nada**. E para a exaltação, o **refrigério da meditação, que recompõe as energias**."
+
+A formulação é complementar — não concorrente — à abordagem neurobiológica desenvolvida por Divaldo em [[wiki/obras/conquista-da-saude-psicologica]] (2009): aqui a depressão é tratada num registro pastoral, como um dos três adversários sutis a serem combatidos pela prece como recurso prioritário, ao lado da terapêutica integrada (psiquiatria + psicoterapia + terapêutica espírita) que continua valendo nos casos clínicos.
+
 ## Em Hammed — *As Dores da Alma*
 
 No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata a depressão como uma das [[wiki/conceitos/dores-da-alma]] — processo psicológico que resgata faltas pelo próprio sofrimento interior ("Já desde esta vida poderemos ir resgatando as nossas faltas?" — LE q. 1000). O comentário é mais moral-pedagógico que clínico: **não substitui o diagnóstico psiquiátrico nem a visão neurobiológica desenvolvida por Divaldo Franco**. Complementa com a ideia de que a vivência depressiva pode ser ocasião de reparação quando acolhida como processo evolutivo e não como punição.
@@ -81,6 +99,7 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - [[wiki/conceitos/mediunidade]] — faculdade que pode agravar ou esclarecer o quadro
 - [[wiki/conceitos/provas-e-expiacoes]] — a doença como oportunidade de progresso
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra de Divaldo Franco sobre o tema
+- [[wiki/obras/desperte-e-seja-feliz]] — três inimigos (depressão, ressentimento, exaltação) com terapia específica (cap. 7)
 - [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto, tema "Depressão"
 - [[wiki/conceitos/dores-da-alma]]
 
@@ -90,4 +109,5 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XXIII, itens 237–254 (obsessão).
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XVIII, itens 27–28 (transição planetária).
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 7 — "Três inimigos". Salvador: LEAL, 1996.
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Depressão" (LE q. 725, q. 974, q. 1000).

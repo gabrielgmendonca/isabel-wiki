@@ -72,6 +72,20 @@ Em [[wiki/obras/momentos-de-felicidade]] (1990, cap. 4 — "Benfeitora"), [[wiki
 
 A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro kardequiano em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
 
+## Tipologia funcional-pedagógica em *Desperte e Seja Feliz* (1996)
+
+Em [[wiki/obras/desperte-e-seja-feliz]] cap. 21 ("Dor-reparação"), Joanna de Ângelis introduz uma tipologia tríplice **distinta** da de André Luiz. O critério aqui não é a *origem* (de fora/de dentro/auxílio amigo), mas a **função pedagógica** que a dor cumpre no processo evolutivo do espírito:
+
+> "Não consideres que sofres porque foste o pior dos seres no passado espiritual. Existe a **dor-elevação**, a **dor-conquista**, a **dor-resgate**." (*Desperte e Seja Feliz*, cap. 21)
+
+- **Dor-elevação** — dor que **alça** o espírito a patamares superiores; cumpre função ascensional. Lê-se nos santos e missionários do bem (cf. cap. 4 da mesma obra), não como castigo, mas como instrumento de iluminação.
+- **Dor-conquista** — dor pela qual o espírito **adquire** virtude antes não possuída (paciência, resignação ativa, fé raciocinada). Não há a *priori* dívida pretérita; é trabalho construtivo positivo.
+- **Dor-resgate** — dor que **paga** débito reencarnatório, na linha clássica da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. Joanna nuança: "A tua é resgate, sim, que o teu amor não conseguiu evitar" — a dor-resgate é a dor que o amor anterior não soube prevenir.
+
+A tipologia é **convergente, porém não idêntica**, à de André Luiz em *Ação e Reação*: a dor-elevação corresponde à dor-evolução de Druso, e a dor-resgate corresponde à dor-expiação. A categoria **dor-conquista** (positiva, sem dívida prévia) é cunhagem joanniana sem equivalente direto em André Luiz, mais próxima do que Léon Denis trata como "preço da virtude" (cap. 26 de *O Problema do Ser e do Destino*).
+
+A diretriz pastoral é a mesma das duas tipologias anteriores: **diante da própria dor, não saltar ao juízo apressado de "estou pagando"**. Pode ser elevação, pode ser conquista, pode ser resgate — e a leitura amorosa vence as três muito antes da hipótese punitiva.
+
 ## Sofrimento como "doença da alma" em *Plenitude* (1990)
 
 [[wiki/obras/plenitude|Plenitude]] (Joanna/Divaldo, prefácio out/1990, LEAL 1991) avança o tratamento técnico ao inscrever a dor num diálogo Buda–Jesus–Kardec organizado pelas Quatro Nobres Verdades budistas. A categoria-chave é **"doença da alma"** (cap. I):
@@ -102,6 +116,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/obras/acao-e-reacao]] — tipologia tríplice da dor (cap. 19)
 - [[wiki/obras/momentos-de-felicidade]] — formulação pastoral: a dor como "benfeitora anônima" (cap. 4)
 - [[wiki/obras/plenitude]] — sofrimento como "doença da alma" em diálogo Buda–Jesus–Kardec (1990, 14 caps.)
+- [[wiki/obras/desperte-e-seja-feliz]] — tipologia funcional-pedagógica: dor-elevação, dor-conquista, dor-resgate (cap. 21)
 - [[wiki/conceitos/autocura]] — técnica de cura interior em 4 passos (Plenitude cap. IX)
 - [[wiki/conceitos/plenitude]] — estado-alvo: saúde integral pós-libertação do sofrimento
 
@@ -113,3 +128,4 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - Denis, Léon. *O Problema do Ser e do Destino*, caps. 26–27. Trad. Homero Dias de Carvalho. CELD, 2011.
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*, cap. 19. Rio de Janeiro: FEB, 1957.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*, cap. 4 — "Benfeitora". Salvador: LEAL, 1990.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 21 — "Dor-reparação". Salvador: LEAL, 1996.
