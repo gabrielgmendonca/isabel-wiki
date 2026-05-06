@@ -4,7 +4,7 @@ fontes: [LE, ESE, LM]
 aliases:
   - "Vida — Desafios e Soluções"
   - "Vida, Desafios e Soluções"
-tags: [psicologia-transpessoal, psicologia-espirita, individuacao, arquetipos, inteligencia-emocional, meditacao, visualizacao, metanecessidades, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, obra/lm, autor/kardec, tema/moral, tema/sofrimento, tema/encarnacao]
+tags: [psicologia-transpessoal, psicologia-espirita, individuacao, arquetipos, inteligencia-emocional, meditacao, visualizacao, metanecessidades, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, obra/lm, autor/kardec, tema/moral, tema/sofrimento, tema/encarnacao, lei/justica-amor-caridade]
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/vida-desafios-e-solucoes.html

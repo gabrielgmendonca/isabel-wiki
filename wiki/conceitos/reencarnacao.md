@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Léon Denis, André Luiz/Chico Xavier, Emmanuel/Chico Xavier]
-tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao]
+tags: [reencarnacao, pluralidade-existencias, justica-divina, obra/le, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao, lei/igualdade]
 atualizado_em: 2026-05-06
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [amor, caridade, autorrealizacao, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, lei/justica-amor-caridade, tema/moral, tema/jesus, tema/prece-caridade]
+tags: [amor, caridade, autorrealizacao, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, lei/justica-amor-caridade, tema/moral, tema/jesus, tema/prece-caridade, lei/igualdade, lei/liberdade]
 atualizado_em: 2026-05-06
 status: ativo
 ---
@@ -58,11 +58,27 @@ A síntese é articulada em sete oposições:
 
 A amorterapia é a contraparte sociomoral do que [[wiki/conceitos/medico-interno|o médico interno]] (cap. 20 da mesma obra) é como mecanismo psicossomático individual: o amor como recurso autorreparador da pessoa e da sociedade, em ressonância com a Psiconeuroimunologia.
 
+### Sistematização ampla em *Amor, Imbatível Amor* (1998, cap. 60)
+
+[[wiki/obras/amor-imbativel-amor]] (Vol. 9 da Série Psicológica) dedica capítulo inteiro à amorterapia e oferece a **definição operacional mais explícita** da bibliografia joanniana:
+
+> "Amorterapia, portanto, é o processo mediante o qual se pode contribuir conscientemente em favor de uma sociedade mais saudável, logo, mais justa e nobre. Essa terapia decorre do **auto-amor**, quando o ser se enriquece de estima por si mesmo […] e, esplendente de alegria, reparte com as demais pessoas o sentimento que o assinala."
+
+A novidade do cap. 60 é a **ancoragem psiconeuroimunológica direta**: o pensamento amoroso "estimula os neurônios à produção de enzimas saudáveis que respondem pela harmonia do sistema nervoso simpático e estímulo das glândulas de secreção endócrina, superando as toxinas […] e a deficiência imunológica". O amor é tratado como vetor mensurável de **imunoglobulinas** que "preservam o organismo físico de várias infecções", articulando a Psiconeuroimunologia ao ensino kardequiano da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]].
+
+### Subpersonalidades × superpersonalidades (*Amor, Imbatível Amor*, 1998, cap. 61)
+
+O cap. 61 acrescenta o vocabulário de **subpersonalidades** (qualidades morais inferiores — inveja, ciúme, malquerença, raiva, ódio) e **superpersonalidades** (qualidades elevadas), apoiando-se nominalmente em **Roberto Assagioli** (Psicossíntese) e **Robin Kasarjian** (estudos sobre o ressentimento). A imagem clínica do ressentimento é decisiva:
+
+> "Essa atitude pode ser comparada à condução de 'uma brasa para ser atirada no adversário que, apesar disso, enquanto não é lançada queima a mão daquele que a carrega'."
+
+O ressentimento é, portanto, autodestrutivo antes de ser ofensivo. O **amor-perdão** transforma subpersonalidades em superpersonalidades, anulando a sintonia vibratória que faculta a captação dos "petardos inferiores" disparados pelos adversários. É a contraparte teórica do trabalho prático do amor-perdão: não há perdão pleno sem trabalho de transmutação interior.
+
 ## Aplicação prática
 
 A amorterapia opera em três campos:
 
-1. **Cura individual** — substituir pensamentos de ressentimento, ódio e desejo de revide por compaixão lúcida. Não é repressão sentimental — é redirecionamento da energia vital. Convergente com a [[wiki/conceitos/autocura]] em 4 passos sistematizada em [[wiki/obras/plenitude]].
+1. **Cura individual** — substituir pensamentos de ressentimento, ódio e desejo de revide por compaixão lúcida. Não é repressão sentimental — é redirecionamento da energia vital. Convergente com a [[wiki/conceitos/autocura]] em 4 passos sistematizada em [[wiki/obras/plenitude]]. Em chave Assagioli/Kasarjian (cf. *Amor, Imbatível Amor* cap. 61), corresponde à **transmutação das subpersonalidades em superpersonalidades** — não anulando o sentimento inferior pela repressão, mas pela elevação do registro vibratório que torna o ressentimento incaptável.
 
 2. **Reparação social** — recusar o circuito violência → revide → violência. Tratar o criminoso como doente que precisa de educação, sem deixar de extirpar o crime. Articulação com a Lei de Igualdade (LE q. 803-824) e a Lei de Liberdade (LE q. 825-872): nenhum ser humano é descartável.
 
@@ -78,6 +94,7 @@ A amorterapia opera em três campos:
 - [[wiki/conceitos/dores-da-alma]] — alvo da amorterapia no plano clínico-moral.
 - [[wiki/obras/desperte-e-seja-feliz]] — formulação canônica do conceito (cap. 22).
 - [[wiki/obras/o-ser-consciente]] — antecedente terminológico (cap. 24).
+- [[wiki/obras/amor-imbativel-amor]] — sistematização ampla com ancoragem psiconeuroimunológica (cap. 60) e introdução de subpersonalidades × superpersonalidades (cap. 61).
 
 ## Fontes
 
@@ -85,3 +102,4 @@ A amorterapia opera em três campos:
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XI (Amar o próximo como a si mesmo); cap. XII (Amar os inimigos); cap. XV (Fora da caridade não há salvação) e item 5 do mesmo capítulo.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*, cap. 22 — "Amorterapia". Salvador: LEAL, 1996.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*, cap. 24. Salvador: LEAL, 1993.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Amor, Imbatível Amor*, caps. 60–61. Salvador: LEAL, 1998.

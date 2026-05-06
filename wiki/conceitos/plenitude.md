@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [plenitude, sofrimento, doenca-da-alma, amor, caridade, joanna-de-angelis, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, tema/sofrimento, tema/moral]
+tags: [plenitude, sofrimento, doenca-da-alma, amor, caridade, joanna-de-angelis, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, tema/sofrimento, tema/moral, lei/justica-amor-caridade]
 atualizado_em: 2026-05-05
 status: ativo
 ---
