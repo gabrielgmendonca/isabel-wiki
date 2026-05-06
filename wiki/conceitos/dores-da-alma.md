@@ -84,6 +84,18 @@ Hammed trabalha **21 "dores da alma"**, cada uma ancorada em uma ou duas questõ
 
 > "As pessoas, entretanto, tendem a condenar e punir, olvidando-se de que todos somos alunos, não malfeitores, na escola da vida; que as 'dores da alma' são as educadoras ou instrutoras particulares que a Harmonia da Vida nos concedeu, para vencermos bloqueios e obstáculos íntimos." (Hammed, *As Dores da Alma*)
 
+### Tratamento paralelo: Joanna de Ângelis (cap. 10 de *Autodescobrimento*)
+
+[[wiki/obras/autodescobrimento]] (Joanna de Ângelis / Divaldo, LEAL, 1995) enquadra um subconjunto contíguo dessas dores sob o título **"Conteúdos perturbadores"** (cap. 10): raiva, ressentimento, lamentação, perda pela morte, amargura. Onde Hammed cataloga 21 dores em chave moral-psicológica, Joanna trata cinco delas em chave terapêutica — com prescrições específicas para cada uma:
+
+- **Raiva** como reação normal a ser canalizada, não reprimida (Rolfismo, descarga em trabalho físico, "elucidação até diluir" diante de espelho); o "perdão das ofensas" de Jesus reinterpretado como "esquecimento — diluição na água lustral do amor", não repressão.
+- **Ressentimento** como raiva não extravasada que se converte em "verdugo" interior, somatizando tumores e distonias — superável pelo autoamor, segurança pessoal e reciclagem do subconsciente.
+- **Lamentação** como hábito alienante apoiado na "preguiça física e mental" — combatido pelo "vício do otimismo".
+- **Perda pela morte** como dor justa que se torna patologia quando vira desespero ou autopunição; recursos: lágrimas, recordações, repartição dos haveres, oração.
+- **Amargura** como sequela de reminiscências reencarnatórias ou traumas infantis — dissolvida por pensamentos otimistas, contato com a natureza e participação em obras de auxílio.
+
+A formulação Hammed e a Joanna não competem: Hammed mapeia o catálogo em chave doutrinária extensa; Joanna oferece a aplicação terapêutica em registro psicológico-aplicado. Ambas convergem na recusa do vocabulário condenatório ("pecado") em favor de categorias evolutivas.
+
 ## Aplicação prática
 
 O conceito é especialmente útil:
@@ -100,6 +112,7 @@ Não há divergência substantiva com Kardec. O conceito é um **aprofundamento 
 ## Páginas relacionadas
 
 - [[wiki/obras/as-dores-da-alma]] — obra-matriz do conceito
+- [[wiki/obras/autodescobrimento]] — tratamento paralelo de cinco dores (raiva, ressentimento, lamentação, perda pela morte, amargura) em chave terapêutica psicológica (Joanna, cap. 10)
 - [[wiki/aprofundamentos/dor-rigidez]] — estudo sistemático do tema 14 (Rigidez) ancorado em LE q. 713, q. 762 e q. 908
 - [[wiki/personalidades/hammed]] — autor espiritual
 - [[wiki/personalidades/francisco-do-espirito-santo-neto]] — médium

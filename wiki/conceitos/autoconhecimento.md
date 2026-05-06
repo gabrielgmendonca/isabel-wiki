@@ -51,6 +51,8 @@ Em [[wiki/obras/o-ser-consciente]] (1993), [[wiki/personalidades/joanna-de-angel
 
 A síntese de Joanna: *"O auto-conhecimento se torna uma necessidade prioritária na programática existencial da criatura. Quem o posterga, não se realiza satisfatoriamente, porque permanece perdido em um espaço escuro, ignorado dentro de si mesmo."*
 
+Em [[wiki/obras/autodescobrimento]] (1995, Vol. 6 da Série Psicológica), Joanna aplica o programa em registro mais prático, identificando os **sicários da alma** (cap. 8) — passado, incerteza do futuro, desconhecimento de si mesmo — como a tríade dos algozes que obstruem o autodescobrimento. Antídotos: autoperdão como "luarização da culpa" (não justificativa); visualização para encontro mental com o prejudicado; vivência intensa de cada momento conforme Mt 6:34 ("Não vos inquieteis, pois, pelo dia de amanhã"). A síntese aplicada: *"Cada um é o construtor da sua realidade, afirmando-se e desembaraçando-se das amarras prejudiciais a que se deixou atar."*
+
 ### Relação com self e individuação
 
 O autoconhecimento, na dimensão transpessoal, conduz à **conquista do self** — a integração entre ego e individualidade profunda, que Joanna identifica com o **Espírito imperecível**. A linguagem junguiana da individuação se sobrepõe à linguagem espírita do despertamento da consciência: o ser deixa de ser conduzido pelos automatismos do ego para agir como Espírito desperto, lúcido, responsável.
@@ -76,7 +78,8 @@ O autoconhecimento, na dimensão transpessoal, conduz à **conquista do self** �
 - [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — bloco doutrinário em que LE q. 919 está inserida (q. 873–919)
 - [[wiki/conceitos/psicologia-transpessoal]] — vocabulário contemporâneo do mesmo programa
 - [[wiki/personalidades/joanna-de-angelis]] — autora da síntese moderna
-- [[wiki/obras/o-ser-consciente]] — tratamento sistemático em chave psicológica
+- [[wiki/obras/o-ser-consciente]] — tratamento sistemático em chave psicológica (Vol. 5)
+- [[wiki/obras/autodescobrimento]] — manual prático aplicado (Vol. 6), com tríade dos sicários da alma
 - [[wiki/conceitos/egoismo]] — primeiro adversário do autoconhecimento honesto
 - [[wiki/personalidades/jesus]] — modelo de auto-conhecimento pleno
 

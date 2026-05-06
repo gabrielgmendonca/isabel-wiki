@@ -34,6 +34,7 @@ Em ordem cronológica:
 - [[wiki/obras/momentos-de-felicidade]] — Joanna de Ângelis / Divaldo (LEAL, 1990). Volume pastoral curto: prefácio + 20 capítulos breves sobre felicidade acessível, dor benfeitora, mediunidade discreta, oração-terapia e domínio das paixões inferiores.
 - [[wiki/obras/momentos-de-saude-e-consciencia]] — Joanna de Ângelis / Divaldo (LEAL, 1992). Compilação de duas obras gêmeas no padrão pastoral curto: *Momentos de Saúde* (1992) e *Momentos de Consciência* (1991), 20 capítulos cada. Eixos: saúde como conquista interior decorrente da harmonia moral; consciência como sede da lei de Deus (LE q. 621, q. 630, q. 912, q. 919, q. 967). Diálogo aberto com Psicossomática e Psicologias Transpessoal/Transacional/Criativa.
 - [[wiki/obras/o-ser-consciente]] — Joanna de Ângelis / Divaldo (LEAL, 1993). Quarta Força em Psicologia, autoconhecimento, ego × self, conquista do si. 39 capítulos em 10 partes.
+- [[wiki/obras/autodescobrimento]] — Joanna de Ângelis / Divaldo (LEAL, 1995). Série Psicológica vol. 6, 12 capítulos. Manual prático de interiorização: tripartição do inconsciente (incluindo "inconsciente sagrado"), sicários da alma, viciações mentais (com defesa explícita do uso conjugado de psicofármacos e transformação moral no distúrbio de pânico), conteúdos perturbadores, infância psicológica, conquista do Si com a interrogação canônica de Kardec.
 - [[wiki/obras/conquista-da-saude-psicologica]] — Palestra sobre depressão, obsessão e saúde psicológica à luz do Espiritismo (~2009)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — Palestra testemunhal: obsessão, psicografia com Victor Hugo, atendimento fraterno na Mansão do Caminho (~2023)
 
@@ -59,5 +60,6 @@ Em ordem cronológica:
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Felicidade*. Salvador: LEAL, 1ª edição, 1990. Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. Salvador: LEAL, 1993. Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL, 1995. 17ª ed., 2013. Série Psicológica vol. 6. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior]].
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023. Disponível em: <https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw>.

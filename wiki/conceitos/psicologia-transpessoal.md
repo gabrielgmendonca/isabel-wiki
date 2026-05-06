@@ -28,6 +28,8 @@ Entre os dois marcos, [[wiki/obras/momentos-de-saude-e-consciencia]] (LEAL, 1992
 
 A Quarta Força, na leitura de Joanna, não substitui o Espiritismo — confirma-o por outro vocabulário. Os fenômenos paranormais antes catalogados como patologias passam a ser reconhecidos como **expressões da realidade espiritual**, e o ser humano deixa de ser examinado em partes para ser tratado como **integral, holístico**.
 
+[[wiki/obras/autodescobrimento]] (LEAL, 1995, Vol. 6 da Série Psicológica) aplica este programa em registro mais prático que o Vol. 5: prefácio explícito sobre "colocar pontes entre os mecanismos das Psicologias Humanista e Transpessoal com a Doutrina Espírita, que as ilumina e completa". A obra cataloga viciações mentais (insatisfação, indiferença, pânico, medo da morte) e conteúdos perturbadores (raiva, ressentimento, lamentação, amargura) como hábitos psíquicos automatizados, com terapias específicas para cada caso. No tratamento do **distúrbio de pânico** (cap. 9), Joanna defende explicitamente o uso conjugado de psicofármacos e transformação moral — ilustrando o critério de discernimento clínico que distingue causalidade orgânica, conflito psicogênico e interferência espiritual sem reduzir uma à outra.
+
 ## Ancoragem em Kardec
 
 Dois pontos do Pentateuco fundam o diálogo:
@@ -69,7 +71,8 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 ## Páginas relacionadas
 
 - [[wiki/obras/o-homem-integral]] — primeira articulação extensa da Quarta Força (1990), precursora de *O Ser Consciente*
-- [[wiki/obras/o-ser-consciente]] — tratamento sistemático da Quarta Força à luz espírita
+- [[wiki/obras/o-ser-consciente]] — tratamento sistemático da Quarta Força à luz espírita (Vol. 5, 1993)
+- [[wiki/obras/autodescobrimento]] — manual aplicado da interiorização (Vol. 6, 1995)
 - [[wiki/conceitos/autoconhecimento]] — programa central da Psicologia Transpessoal e de LE q. 919
 - [[wiki/conceitos/perispirito]] — peça intermediária do tripé que torna o ser "integral"
 - [[wiki/conceitos/mediunidade]] — fenômeno que a Quarta Força acolhe e o Espiritismo elucida
@@ -81,5 +84,6 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Homem Integral*. LEAL, 1990, especialmente caps. 38–39 (Modelo Organizador Biológico e Reencarnação). Cf. [[wiki/obras/o-homem-integral]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Momentos de Saúde e Consciência*. LEAL, 1992, prefácio da Parte 1 (articulação conjunta Psicossomática + Transpessoal + Transacional + Criativa). Cf. [[wiki/obras/momentos-de-saude-e-consciencia]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. LEAL, 1993, especialmente caps. 1–5 (Primeira parte: A Quarta Força). Cf. [[wiki/obras/o-ser-consciente]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *Autodescobrimento — Uma Busca Interior*. LEAL, 1995, prefácio + cap. 9 (Viciações mentais) + cap. 10 (Conteúdos perturbadores). Cf. [[wiki/obras/autodescobrimento]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621; q. 919.
 - Bíblia. Mateus 7:12.
