@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [individuacao, jung, psicologia-profunda, psicologia-analitica, self, autoconhecimento, joanna-de-angelis, divaldo-franco, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, tema/moral, tema/encarnacao]
+tags: [individuacao, jung, psicologia-profunda, psicologia-analitica, self, autoconhecimento, joanna-de-angelis, divaldo-franco, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/intermediario, tema/moral, tema/encarnacao, lei/justica-amor-caridade]
 atualizado_em: 2026-05-07
 status: ativo
 ---
@@ -81,6 +81,7 @@ Cuidado ponto-a-ponto: a fórmula "Self como Deus interno", que aparece em Jung 
 - [[wiki/obras/triunfo-pessoal]] — tratamento sistemático no cap. 11
 - [[wiki/obras/o-despertar-do-espirito]] — articulação com a psicossíntese de Assagioli
 - [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] — chave hermenêutica explicitamente junguiana
+- [[wiki/obras/conflitos-existenciais]] — Joanna de Ângelis (LEAL, 2005). Cap. 1 trata o crescimento interior como movimento individuante; cap. 15 (Vazio existencial) lê a desintegração da personalidade como ruptura Self↔ego — a individuação fica suspensa quando *"se faz um abismo entre o Self e o ego, que mais se afastam um do outro, concedendo espaço para a desintegração da personalidade, para a esquizofrenia"*. Ver [[wiki/conceitos/vazio-existencial]].
 
 ## Fontes
 

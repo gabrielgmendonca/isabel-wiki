@@ -114,6 +114,7 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra de Divaldo Franco sobre o tema
 - [[wiki/obras/desperte-e-seja-feliz]] — três inimigos (depressão, ressentimento, exaltação) com terapia específica (cap. 7)
 - [[wiki/obras/triunfo-pessoal]] — Joanna de Ângelis, tratamento técnico-psiquiátrico em quatro matrizes etiológicas (cap. 6)
+- [[wiki/obras/conflitos-existenciais]] — Joanna de Ângelis (LEAL, 2005). Articulação adicional com **neurastenia** (cap. 11), **ressentimento** (cap. 5) e **vazio existencial** (cap. 15) — quadros que frequentemente coexistem ou desembocam em depressão. Ver [[wiki/conceitos/vazio-existencial]].
 - [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto, tema "Depressão"
 - [[wiki/conceitos/dores-da-alma]]
 

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [numinoso, jung, rudolf-otto, psicologia-profunda, self, deus-interno, individuacao, joanna-de-angelis, divaldo-franco, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/avancado, tema/deus, tema/moral]
+tags: [numinoso, jung, rudolf-otto, psicologia-profunda, self, deus-interno, individuacao, joanna-de-angelis, divaldo-franco, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, grau/avancado, tema/deus, tema/moral, lei/justica-amor-caridade]
 atualizado_em: 2026-05-07
 status: ativo
 ---

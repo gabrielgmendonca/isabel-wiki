@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [psicologia-transpessoal, psicossintese, autoconhecimento, ego, self, subpersonalidades, culpa, vontade, sublimacao-sexual, joanna-de-angelis, divaldo-franco, tema/moral, tema/sofrimento, obra/le, obra/ese, autor/divaldo-franco, autor/joanna-de-angelis, autor/kardec]
+tags: [psicologia-transpessoal, psicossintese, autoconhecimento, ego, self, subpersonalidades, culpa, vontade, sublimacao-sexual, joanna-de-angelis, divaldo-franco, tema/moral, tema/sofrimento, obra/le, obra/ese, autor/divaldo-franco, autor/joanna-de-angelis, autor/kardec, lei/justica-amor-caridade]
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/o-despertar-do-espirito.html

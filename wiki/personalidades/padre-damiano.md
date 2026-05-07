@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
-tags: [padre-damiano, damiano, emmanuel, chico-xavier, renuncia, sacerdote-catolico, mentor-evangelico, avila, paris, autor/emmanuel, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
+tags: [padre-damiano, damiano, emmanuel, chico-xavier, renuncia, sacerdote-catolico, mentor-evangelico, avila, paris, autor/emmanuel, autor/chico-xavier, grau/intermediario, tema/historia-doutrina, lei/adoracao]
 atualizado_em: 2026-05-07
 status: ativo
 ---

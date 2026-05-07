@@ -3,7 +3,7 @@ tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 aliases:
   - "Maria de Jesus Crucificado"
-tags: [alcione, alcione-vilamil, maria-de-jesus-crucificado, renuncia, emmanuel, chico-xavier, carmelo-medina-del-campo, inquisicao-espanhola, sirius, autor/emmanuel, autor/chico-xavier, grau/intermediario, tema/encarnacao, tema/sofrimento]
+tags: [alcione, alcione-vilamil, maria-de-jesus-crucificado, renuncia, emmanuel, chico-xavier, carmelo-medina-del-campo, inquisicao-espanhola, sirius, autor/emmanuel, autor/chico-xavier, grau/intermediario, tema/encarnacao, tema/sofrimento, lei/trabalho]
 atualizado_em: 2026-05-07
 status: ativo
 ---

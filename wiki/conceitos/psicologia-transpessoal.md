@@ -76,6 +76,7 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 - [[wiki/obras/o-ser-consciente]] — tratamento sistemático da Quarta Força à luz espírita (Vol. 5, 1993)
 - [[wiki/obras/autodescobrimento]] — manual aplicado da interiorização (Vol. 6, 1995)
 - [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] — articulação Psicologia Profunda → Transpessoal aplicada ao ESE (Especial vol. 11, 2000)
+- [[wiki/obras/conflitos-existenciais]] — Especial vol. 13 (2005). Único volume da série em forma de manual clínico-doutrinário (psicogênese / transtornos / terapia). Diálogo crítico explícito com a **Psicologia Negativa freudiana** e adoção da **Psicologia Positiva** como matriz terapêutica nomeada (cap. 5 — Adler/Freud/Frankl com Spinoza); quadro teórico mais granulado da série (Karen Horney, Anna Freud + Hartmann + Erikson, Bowlby, Selye, Locke, Erich Fromm, Frankl).
 - [[wiki/conceitos/autoconhecimento]] — programa central da Psicologia Transpessoal e de LE q. 919
 - [[wiki/conceitos/perispirito]] — peça intermediária do tripé que torna o ser "integral"
 - [[wiki/conceitos/mediunidade]] — fenômeno que a Quarta Força acolhe e o Espiritismo elucida

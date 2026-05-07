@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [psicologia-profunda, psicologia-analitica, jung, individuacao, numinoso, self, arquetipos, inconsciente-coletivo, cerebro-triuno, transtornos-psicologicos, depressao, transtorno-obsessivo-compulsivo, esquizofrenia, fobia, sociopatia, terrorismo, joanna-de-angelis, divaldo-franco, tema/moral, tema/sofrimento, tema/encarnacao, obra/le, obra/ese, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec]
+tags: [psicologia-profunda, psicologia-analitica, jung, individuacao, numinoso, self, arquetipos, inconsciente-coletivo, cerebro-triuno, transtornos-psicologicos, depressao, transtorno-obsessivo-compulsivo, esquizofrenia, fobia, sociopatia, terrorismo, joanna-de-angelis, divaldo-franco, tema/moral, tema/sofrimento, tema/encarnacao, obra/le, obra/ese, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, lei/justica-amor-caridade]
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/triunfo-pessoal.html

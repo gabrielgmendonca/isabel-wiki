@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Emmanuel/Chico Xavier]
-tags: [emmanuel, chico-xavier, romance-historico, alcione, avila, paris, connecticut, varíola-de-paris, inquisicao-espanhola, carmelo, padre-damiano, antero-de-oviedo, polux, robbie, reencarnacao-expiatoria, deficiencia-congenita, culto-domestico-do-evangelho, suicidio, sirius, autor/chico-xavier, autor/emmanuel, tema/encarnacao, tema/sofrimento, tema/sociedade]
+tags: [emmanuel, chico-xavier, romance-historico, alcione, avila, paris, connecticut, varíola-de-paris, inquisicao-espanhola, carmelo, padre-damiano, antero-de-oviedo, polux, robbie, reencarnacao-expiatoria, deficiencia-congenita, culto-domestico-do-evangelho, suicidio, sirius, autor/chico-xavier, autor/emmanuel, tema/encarnacao, tema/sofrimento, tema/sociedade, lei/adoracao, lei/trabalho]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/renuncia

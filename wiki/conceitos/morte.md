@@ -58,6 +58,15 @@ Denis sublinha o papel da prece dos vivos nesse momento: "As influências magné
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+## Releitura em Joanna de Ângelis (Conflitos Existenciais, 2005)
+
+[[wiki/obras/conflitos-existenciais|Conflitos Existenciais]] cap. 20 fecha a Série Psicológica retomando o tratamento kardequiano da morte e acrescentando duas notas próprias:
+
+- **Argumento físico explícito** — a **Lei de Entropia** é articulada como motor cósmico da inevitabilidade: *"Neste mundo relativo, toda organização tende à desagregação imposta através da Lei de Entropia, responsável pela quantidade de desordem de qualquer sistema. Dessa maneira, toda forma organizada marcha para o caos."* Dados fisiológicos contemporâneos (~70 trilhões de células, ~30 milhões de hemácias substituídas por segundo) sustentam o argumento.
+- **Citação direta a Kardec** — o capítulo cita literalmente o diálogo de **Sócrates** com seus juízes (*"De duas uma: ou a morte é uma destruição absoluta, ou é passagem da alma para outro lugar... eu para morrer, vós para viverdes"*) com referência explícita: *"(KARDEC, Allan: O Evangelho Segundo o Espiritismo, Introdução.)"*. Em uma série predominantemente em diálogo com a Psicologia Profunda, a referência literal ao Pentateuco no último capítulo do volume reafirma o ancoramento kardequista.
+
+Tese clínica: **psicoterapia preventiva** da educação contínua sobre a morte como parte da vida — *"a crença na vida futura, por consequência, na imortalidade do Espírito e na sua destinação gloriosa, constitui a mais adequada autoterapia preventiva"* (cap. 16, princípio aplicado também ao cap. 20).
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/alma]] · [[wiki/conceitos/perispirito]] · [[wiki/conceitos/vida-espirita]] · [[wiki/conceitos/reencarnacao]]

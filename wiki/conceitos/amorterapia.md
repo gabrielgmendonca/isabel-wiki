@@ -66,6 +66,13 @@ A amorterapia é a contraparte sociomoral do que [[wiki/conceitos/medico-interno
 
 A novidade do cap. 60 é a **ancoragem psiconeuroimunológica direta**: o pensamento amoroso "estimula os neurônios à produção de enzimas saudáveis que respondem pela harmonia do sistema nervoso simpático e estímulo das glândulas de secreção endócrina, superando as toxinas […] e a deficiência imunológica". O amor é tratado como vetor mensurável de **imunoglobulinas** que "preservam o organismo físico de várias infecções", articulando a Psiconeuroimunologia ao ensino kardequiano da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]].
 
+### Cristalização final em *Conflitos Existenciais* (2005)
+
+[[wiki/obras/conflitos-existenciais|Conflitos Existenciais]] (vol. 13 da Série Psicológica) cristaliza a tese amor-terapêutica em duas fórmulas operacionais que percorrem todo o livro:
+
+- **Antídoto único do medo** (cap. 4): *"a escolha é de cada um: o medo ou o amor, já que os dois não convivem no mesmo espaço emocional"* — articulando 1Jo 4:18 ("o perfeito amor lança fora o medo") com a Quarta Força. Ver [[wiki/conceitos/medo]].
+- **Inversão pedagógica do mandamento de Jesus com declaração explícita de método** (cap. 19): *"para fins metodológicos, invertemos a ordem apresentada para nova análise: Amar-se a si mesmo, a fim de amar ao próximo e, por consequência, amar-se a Deus."* A finalidade metodológica nominalizada (já presente em *[[wiki/obras/amor-imbativel-amor|Amor, Imbatível Amor]]* cap. 63 e *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]*) é declarada operacionalmente. Erich Fromm é incorporado ao quadro teórico ("orientação para transações"). Tese-âncora: *"Somente é capaz de amar a outrem aquele que se ama"*. Encerramento da série: *"o amor é o mais eficaz processo psicoterapêutico que existe, ao alcance de todos."*
+
 ### Subpersonalidades × superpersonalidades (*Amor, Imbatível Amor*, 1998, cap. 61)
 
 O cap. 61 acrescenta o vocabulário de **subpersonalidades** (qualidades morais inferiores — inveja, ciúme, malquerença, raiva, ódio) e **superpersonalidades** (qualidades elevadas), apoiando-se nominalmente em **Roberto Assagioli** (Psicossíntese) e **Robin Kasarjian** (estudos sobre o ressentimento). A imagem clínica do ressentimento é decisiva:

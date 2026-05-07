@@ -275,6 +275,7 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - [[wiki/obras/evolucao-em-dois-mundos]] — mecânica fluídica detalhada (parte I, caps. 14–15)
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco sobre obsessão e depressão
 - [[wiki/obras/plenitude]] — Joanna de Ângelis sobre terapia desobsessiva (cap. X), ancorada em LM cap. XXIII it. 249/252/254 com citação textual
+- [[wiki/obras/conflitos-existenciais]] — Joanna de Ângelis (LEAL, 2005) opera a obsessão como vetor transversal: vampirização energética por Espíritos ociosos no quadro da preguiça (cap. 2), drogadição/tabagismo/alcoolismo como **dependências químicas em chave obsessivo-velada** (caps. 12-14), e fobias com **etiologia obsessiva** quando antigas vítimas se aproveitam de gravames pretéritos (cap. 17)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
