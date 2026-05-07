@@ -1034,6 +1034,50 @@ procurou o deserto, nutrindo-se de mel selvagem. Os homens alegaram que em sua c
 
 ---
 
+## 18 — A Oração Dominical
+
+Curada pelo Mestre Divino,
+a sogra de
+Simão Pedro
+ficara maravilhada com os poderes ocultos do Nazareno humilde, que falava em nome de Deus, enlaçando os corações com a sua fé profunda e ardente. Restabelecida em sua saúde, passou a reflexionar mais atentamente acerca do Pai que está nos Céus, sempre pronto a atender às súplicas dos filhos. Chamando certo dia o genro para um exame detido do assunto, consultou-o sobre a possibilidade de pedirem a Jesus favores excepcionais para a sua família. Lembrava-lhe a circunstância de ser o Mestre um emissário poderoso do Reino de Deus que parecia muito próximo. Concitava-o a ponderar ao Messias que eles eram dos seus primeiros colaboradores sinceros e a enumerar-lhe as necessidades prementes da família, a exiguidade do dinheiro, o peso dos serviços domésticos, a casa pobre de recursos, situação a que as imensas possibilidades de Jesus, cheio de poderes prodigiosos, seriam capazes de remediar.
+O pescador simples e generoso, tentado em seus sentimentos humanos, examinou aquelas observações destinadas a lhe abrir os olhos com referência ao futuro. Entretanto, refletiu que Jesus era Mestre e nunca desprezava qualquer ensejo de bem ensinar o que era realmente proveitoso aos discípulos. Acaso, não saberia ele o melhor caminho? Não viam em sua presença alguma coisa da própria presença de Deus? Guardando, contudo, indeciso o espírito, em face das ponderações familiares, buscou uma oportunidade de falar com o Messias acerca do assunto.
+Chegada que foi a ocasião, o apóstolo procurou provocar muito de leve a solução do problema, perguntando a Jesus, com a sua sinceridade ingênua:
+— Mestre, será que Deus nos ouve todas as orações?
+— Como não, Pedro? — Respondeu Jesus solicitamente. — Desde que começou a raciocinar, observou o homem que, acima de seus poderes reduzidos, havia um poder ilimitado, que lhe criara o ambiente da vida. Todas as criaturas nascem com tendência para o mais alto e experimentam a necessidade de comungar com esse Plano elevado, donde o Pai nos acompanha com o seu amor, todo justiça e sabedoria, onde as preces dos homens o procuram sob nomes diversos. Acreditarias, Simão, que, em todos os séculos da vida humana, recorreriam as almas, incessantemente, a uma porta silenciosa e inflexível, se nenhum resultado obtivessem?… Não tenhas dúvida: todas as nossas orações são ouvidas!…
+— No entanto, — exclamou respeitoso o discípulo, — se Deus ouve as súplicas de todos os seres, por que tamanhas diferenças na sorte? Por que razão sou obrigado a pescar para prover à subsistência, quando
+Levi
+ganha bom salário no serviço dos impostos, com a sabedoria dos livros? Como explicar que
+Joana
+disponha de servas numerosas, quando minha mulher é obrigada a plantar e cuidar a nossa horta?
+Jesus ouviu atento essas suas palavras e retrucou:
+— Pedro, precisamos não esquecer que o mundo pertence a Deus e que todos nós somos seus servidores. Os trabalhos variam, conforme a capacidade do nosso esforço. Hoje pescas, amanhã pregarás a palavra divina do Evangelho. Todo trabalho honesto é de Deus. Quem escreve com a sabedoria dos pergaminhos não é maior do que aquele que traça a leira laboriosa e fértil, com a sabedoria da terra. O escriba sincero, que cuida dos dispositivos da lei, é irmão do lavrador bem-intencionado que cuida do sustento da vida. Um cultiva as flores do pensamento, outro as do trigal que o Pai protege e abençoa. Achas que uma casa estaria completa sem as mãos abnegadas que lhe varrem os detritos? Se todos os filhos de Deus se dispusessem a cobrar impostos, quem os pagaria? Vês, portanto, que, antes de qualquer consideração, é preciso santificar todo trabalho útil, como quem sabe que o mundo é morada de Deus.
+Já pensaste que, se a tua esposa cuida das plantas de tua horta, Joana de Khouza [Cusa] educa as suas servas?! A qual das duas cabe responsabilidade maior, à tua mulher que cultiva os legumes, ou à nossa irmã que tem algumas filhas de Deus sob sua proteção? Quem poderá garantir que Joana terá essa responsabilidade por toda a vida? No mundo, há grandes generais que apesar das suas vitórias passam também pelas duras experiências de seus soldados. Assim, Pedro, precisamos considerar, em definitiva, que somos filhos e servos de Deus, antes de qualquer outro título convencional, dentro da vida humana. Necessário é, pois, que disponhamos o nosso coração a bem servi-lo, seja como rei ou como escravo, certos de que o Pai nos conhece a todos e nos conduz ao trabalho ou à posição que mereçamos.
+O discípulo ouviu aquelas explicações judiciosas e, confortado com os esclarecimentos recebidos, interrogou:
+— Mestre, como deveremos interpretar a oração?
+— Em tudo, — elucidou Jesus, — deve a oração constituir o nosso recurso permanente de comunhão ininterrupta com Deus. Nesse intercâmbio incessante, as criaturas devem apresentar ao Pai, no segredo das íntimas aspirações, os seus anelos e esperanças, dúvidas e amargores. Essas confidências lhes atenuarão os cansaços do mundo, restaurando-lhes as energias, porque Deus lhes concederá de sua luz. É necessário, portanto, cultivar a prece, para que ela se torne um elemento natural da vida, como a respiração. É indispensável conheçamos o meio seguro de nos identificarmos com o Nosso Pai.
+Entretanto, Pedro, observamos que os homens não se lembram do Céu, senão nos dias de incerteza e angústia do coração. Se a ameaça é cruel e iminente o desastre, se a morte do corpo é irremediável, os mais fortes dobram os joelhos. Mas, quanto não deverá sentir-se o Pai amoroso e leal de que somente o procurem os filhos nos momentos do infortúnio, por eles criados com as suas próprias mãos? Em face do relaxamento dessas relações sagradas, por parte dos homens, indiferentes ao carinho paternal, da Providência que tudo lhes concede de útil e agradável, improficuamente desejará o filho uma solução imediata para as suas necessidades e problemas, sem remediar ao longo afastamento em que se conservou do Pai no percurso, postergando-lhe os desígnios, respeito às suas questões íntimas e profundas.
+Simão Pedro ouvia o Mestre com uma compreensão nova. Não podia apreender a amplitude daqueles conceitos que transcendiam o âmbito da educação que recebera, mas procurava perceber o alcance daquelas elucidações, a fim de cultivar o intercâmbio perfeito com o Pai sábio e amoroso, cuja assistência generosa Jesus lhes revelara, dentro da luz dos seus divinos ensinamentos.
+Decorridos alguns dias, estando o Mestre a ensinar aos companheiros uma nova lição referente ao impulso natural da prece, Simão lhe observou:
+— Senhor, tenho procurado, por todos os modos, manter inalterável a minha comunhão com Deus, mas não tenho alcançado o objetivo de minhas súplicas.
+— E o que tens pedido a Deus? — Interrogou o Mestre, sem se perturbar.
+— Tenho implorado à sua bondade que aplaine os meus caminhos, com a solução de certos problemas materiais.
+Jesus contemplou longamente o discípulo, como se examinasse a fragilidade dos elementos intelectuais de que podia dispor para a realização da obra evangélica. Contudo, evidenciando mais uma vez o seu profundo amor e boa vontade, esclareceu com brandura e convicção:
+— Pedro, enquanto orares pedindo ao Pai a satisfação de teus desejos e caprichos, é possível que te retires da prece inquieto e desalentado. Mas, sempre que solicitares as bênçãos de Deus, a fim de compreenderes a sua vontade justa e sábia, a teu respeito, receberás pela oração os bens divinos do consolo e da paz.
+O apóstolo guardou silêncio, demonstrando haver, afinal, compreendido. Um dos filhos de Alfeu, porém, reconhecendo que o assunto interessava sobremaneira à pequena comunidade ali reunida, adiantou-se para Jesus, pedindo:
+— Senhor, ensina-nos a orar!…
+Dispondo-os então em círculo e como se mergulhasse o pensamento num invisível oceano de luz, o Messias pronunciou, pela primeira vez, a oração que legaria à Humanidade.
+Elevando o seu espírito magnânimo ao Pai Celestial e colocando o seu amor acima de todas as coisas, exclamou:
+— “Pai Nosso, que estás nos Céus, santificado seja o teu nome.”
+E, ponderando que a redenção da criatura nunca se poderá efetuar sem a misericórdia do Criador, considerada a imensa bagagem das imperfeições humanas, continuou: — “Venha a nós o teu Reino.”
+Dando a entender que a vontade de Deus, amorosa e justa, deve cumprir-se em todas as circunstâncias, acrescentou: “Seja feita a tua vontade, assim na Terra como nos Céus.”
+Esclarecendo que todas as possibilidades de saúde, trabalho e experiência chegam invariavelmente, para os homens, da fonte sagrada da proteção divina, prosseguiu: — “O pão nosso de cada dia dá-nos hoje.”
+Mostrando que as criaturas estão sempre sob a ação da lei de compensações e que cada uma precisa desvencilhar-se das penosas algemas do passado obscuro pela exemplificação sublime do amor, acentuou: — “Perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores.”
+Conhecedor, porém, das fragilidades humanas, para estabelecer o princípio da luta eterna dos cristãos contra o mal, terminou a sua oração, dizendo com infinita simplicidade: “Não nos deixes cair em tentação e livra-nos de todo mal, porque teus são o Reino, o poder e a glória para sempre. Assim seja.”
+Levi, o mais intelectual dos discípulos, tomou nota das sagradas palavras,
+para que a prece do Senhor fosse guardada em seus corações humildes e simples. A rogativa de Jesus continha, em síntese, todo o programa de esforço e edificação do Cristianismo nascente. Desde aquele dia memorável, a oração singela de Jesus se espalhou como um perfume dos Céus pelo mundo inteiro.
+
+---
+
 ## 19 — Comunhão com Deus
 
 As elucidações do Mestre, relativamente à oração, sempre encontravam nos discípulos certa perplexidade, quase que invariavelmente em virtude das ideias novas que continham, acerca da concepção de Deus como Pai carinhoso e amigo. Aquela necessidade de comunhão com o seu amor, que Jesus não se cansava de salientar, lhes aparecia como problema obscuro, que o homem do mundo não conseguiria realizar.
@@ -1444,7 +1488,63 @@ Se eu, Senhor e Mestre, vos lavo os pés, deveis igualmente lavar os pés uns ao
 
 ## 26 — A negação de Pedro
 
-
+O ato do Messias, lavando os pés de seus discípulos,
+encontrou certa incompreensão da parte de
+Simão Pedro
+. O velho pescador não concordava com semelhante ato de extrema submissão. E, chegada a sua vez, obtemperou, resoluto:
+— Nunca me lavareis os pés, Mestre; meus companheiros estão sendo ingratos e duros neste instante, deixando-vos praticar esse gesto, como se fôsseis um escravo vulgar.
+Em seguida a essas palavras, lançou à assembleia um olhar de reprovação e desprezo, enquanto Jesus lhe respondia:
+— Simão, não queiras ser melhor que os teus irmãos de apostolado, em nenhuma circunstância da vida. Em verdade, assevero-te que, sem o meu auxílio, não participarás com meu Espírito das alegrias supremas da redenção.
+O antigo pescador de Cafarnaum aquietou-se um pouco, fazendo calar a voz de sua generosidade quase infantil.
+Terminada a lição e retomando o seu lugar à mesa, o Mestre parecia meditar gravemente. Logo após, todavia, dando a entender que sua visão espiritual devassava os acontecimentos do futuro, sentenciou:
+— Aproxima-se a hora do meu derradeiro testemunho! Sei, por antecipação, que todos vós estareis dispersados nesse instante supremo. É natural, porquanto ainda não estais preparados senão para aprender. Antes, porém, que eu parta, quero deixar-vos um novo mandamento, o de amar-vos uns aos outros como eu vos tenho amado;
+que sejais conhecidos como meus discípulos, não pela superioridade no mundo, pela demonstração de poderes espirituais, ou pelas vestes que envergueis na vida, mas pela revelação do amor com que vos amo, pela humildade que deverá ornar as vossas almas, pela boa disposição no sacrifício próprio.
+Vendo que Jesus repetia, mais uma vez, aquelas recomendações de despedida, Pedro, dando expansão ao seu temperamento irrequieto, adiantou-se, indagando:
+— Afinal, Senhor, para onde ides?
+O Mestre lhe lançou um olhar sereno, fazendo-lhe sentir o interesse que lhe causava a sua curiosidade e redarguiu:
+— Ainda não te encontras preparado para seguir-me. O testemunho é de sacrifício e de extrema abnegação e somente mais tarde entrarás na posse da fortaleza indispensável.
+Simão, no entanto, desejando provar por palavras aos companheiros o valor da sua dedicação, acrescentou, com certa ênfase, no propósito de se impor à confiança do Messias:
+— Não posso seguir-vos? Acaso, Mestre, podereis duvidar de minha coragem? Então, não sou um homem? Por vós darei a minha própria vida.
+O Cristo sorriu e ponderou:
+— Pedro, a tua inquietação se faz credora de novos ensinamentos. A experiência te ensinará melhores conclusões, porque, em verdade, te afirmo que esta noite o galo não cantará sem que me tenhas negado por três vezes.
+— Julgais-me, então, um Espírito mau e endurecido a esse ponto? — Indagou o pescador, sentindo-se ofendido. — Não, Pedro, — adiantou o Mestre, com doçura, — não te suponho ingrato ou indiferente aos meus ensinos. Mas vais aprender, ainda hoje, que o homem do mundo é mais frágil do que perverso.
+Pedro não quis acreditar nas afirmações do Messias e tão logo se verificara a sua prisão, no pressuposto de demonstrar o seu desassombro e boa disposição para a defesa do Evangelho do Reino, atacou com a espada um dos servos do sumo-sacerdote de Jerusalém, compelindo o Mestre a mais severas observações. Consoante as afirmativas de Jesus, o colégio dos apóstolos se dispersara naquele momento de supremas resoluções. A humildade com que o Cristo se entregava desapontara a alguns deles, que não conseguiam compreender a transcendência daquele Reino de Deus, sublimado e distante.
+Pedro e
+João
+, observando que a detenção do Mestre pelos emissários do Templo era fato consumado, combinaram, entre si, acompanhar, de longe, o grupo que se afastava, conduzindo o Messias. Debalde, procuraram os demais companheiros que, receosos da perseguição, haviam debandado.
+Ambos, no entanto, desejavam prestar a Jesus o auxílio necessário. Quem sabe poderiam encontrar um recurso de salvá-lo? Era mister certificar-se de todas as ocorrências. Mobilizariam suas humildes relações em Jerusalém, a favor do Mestre querido. Compreendiam a extensão do perigo e as ameaças que lhes pesavam sobre a fronte. De instante a instante, eram surpreendidos por homens do povo que, em palestra de caminho, acusavam a Jesus de feiticeiro e herético.
+A noite caíra sobre a cidade.
+Os dois discípulos observaram que a expedição de servos e soldados chegava à residência de Caifás, onde o Cristo foi recolhido a uma cela úmida, cujas grades davam para um pátio extenso.
+O prisioneiro fora trancafiado, por entre zombarias e impropérios. Ao grupo reduzido, juntava-se agora a massa popular, então em pleno alvoroço festivo, nas comemorações da Páscoa.
+O pátio amplo foi invadido por uma aluvião de pessoas alegres.
+Pedro e João compreenderam que as autoridades do Templo imprimiam caráter popular ao movimento de perseguição ao Messias, vingando-se de sua vitória na entrada triunfal em Jerusalém,
+como uma nova esperança para o coração dos desalentados e oprimidos.
+Depois de ligeiro entendimento, o filho de Zebedeu voltou a Betânia,
+a fim de colocar a mãe de Jesus ao corrente dos fatos, enquanto Pedro se misturava à aglomeração, de maneira a observar em que poderia ser útil ao Messias.
+O ambiente estava já preparado pelo farisaísmo para os tristes acontecimentos do dia imediato. Em todas as rodas, falava-se do Cristo como de um traidor ou revolucionário vulgar. Alguns comentadores mais exaltados o denunciavam como ladrão. Ridicularizava-se o seu ensinamento, zombava-se de sua exemplificação e não faltavam os que diziam, em voz alta, que o Profeta Nazareno havia chegado à cidade chefiando um bando de salteadores.
+O velho pescador de Cafarnaum sentiu a hostilidade com que teria de lutar, a fim de socorrer o Messias, e experimentou um frio angustioso no coração. Sua resolução parecia vencida. A alma ansiosa se deixava dominar por dúvidas e aflições. Começou a pensar nos seus familiares, em suas necessidades comuns, nas convenções de Jerusalém, que ele não poderia afrontar sem pesados castigos. Com o cérebro fervilhando de expectativas e cogitações de defesa própria, penetrou no pátio extenso, onde se adensava a multidão.
+Para logo, uma das servas da casa se aproximou dele e exclamou, surpreendida:
+— Não és tu um dos companheiros deste homem? — Indagou, designando a cela onde Jesus se achava encarcerado.
+O pescador refletiu um momento e, reconhecendo que o instante era decisivo, respondeu, dissimulando a própria emoção:
+— Estás enganada. Não sou.
+O apóstolo ponderou aquela primeira negativa e pôs-se a considerar que semelhante procedimento, aos seus olhos, era o mais razoável, porquanto tinha de empregar todas as possibilidades ao seu alcance, a favor de Jesus.
+Fingindo despreocupação, o irmão de André se dirigiu a uma pequena aglomeração de populares, onde cada qual procurava esquivar-se ao frio intenso da noite, aquentando-se junto de um braseiro. Novamente um dos circunstantes, reconhecendo-o, o interpelou nestes termos:
+— Então, vieste socorrer o teu Mestre?
+— Que Mestre? — Perguntou o pescador de Cafarnaum, entre receoso e assustado. — Nunca fui discípulo desse homem.
+Fornecida essa explicação, todo o grupo se sentiu à vontade para comentar a situação do prisioneiro. Longas horas passaram-se para Simão Pedro, que tinha o coração a duelar-se com a própria consciência, naqueles instantes penosos em que fora chamado ao testemunho. A noite ia adiantada, quando alguns servidores vieram servir bilhas de vinho. Um deles, encarando o discípulo com certo espanto, exclamou de súbito:
+— É este!… É bem aquele discípulo que nos atacou a espada, entre as árvores do horto!…
+Simão ergueu-se, pálido, e protestou:
+— Estás enganado, amigo! Vê que isso não seria possível!…
+Logo que pronunciou sua derradeira negativa, os galos da vizinhança cantaram em vozes estridentes, anunciando a madrugada.
+Pedro
+recordou as palavras do Mestre
+e sentiu-se perturbado por infinita angústia. Levantou-se cambaleante e, voltando-se instintivamente para a cela em que o Mestre se achava prisioneiro, viu o semblante sereno de Jesus a contemplá-lo através das grades singelas.
+Presa de indizível remorso, o apóstolo retirou-se, envergonhado de si mesmo. Dando alguns passos, alcançou os muros exteriores, onde se deteve a chorar amargamente. Ele, que fora sempre homem ríspido e resoluto, que condenara invariavelmente os transviados da verdade e do bem, que nunca conseguira perdoar às mulheres mais infelizes, ali se encontrava, abatido como uma criança, em face de sua própria falta. Começava a entender a razão de certas experiências dolorosas de seus irmãos em humanidade. Em seu espírito como que desabrochava uma fonte de novas considerações pelos infortunados da vida. Desejava, ansiosamente, ajoelhar-se ante o Messias e suplicar-lhe perdão para a sua queda dolorosa.
+Através do véu de lágrimas que lhe obscurecia os olhos, Simão Pedro experimentou uma visão consoladora e generosa. Figurou-se-lhe que o Mestre vinha vê-lo, em Espírito, na solidão da noite, trazendo nos lábios aquele mesmo sorriso sereno de todos os dias. Ante a emoção confortadora e divina, Pedro ajoelhou-se e murmurou:
+— Senhor, perdoai-me!
+Mas, nesse instante, nada mais viu, na confusão de seus angustiados pensamentos. Luar alvíssimo enfeitava de luz as vielas desoladas. Foi aí que o antigo pescador refletiu mais austeramente,
+lembrando as advertências amigas de Jesus
+, quando lhe dizia: — “Pedro, o homem do mundo é mais frágil do que perverso!…”
 
 ---
 
