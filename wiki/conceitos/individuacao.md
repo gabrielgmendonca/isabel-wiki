@@ -54,6 +54,10 @@ Essa formulação completa a leitura do **Self como "preexistente ao berço"** j
 
 Em [[wiki/obras/o-despertar-do-espirito|O Despertar do Espírito]] (2000), a individuação é articulada com a **psicossíntese de Roberto Assagioli** (eu pessoal × Eu superior) — formulação operacional do mesmo movimento de integração. Em *Triunfo Pessoal* cap. 11, a articulação se expande para incluir Carl Rogers e o Self humanista, sem identificá-los: cada vocabulário ilumina uma face do mesmo programa.
 
+### O Self assexuado e a integração anima/animus
+
+Em [[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]] cap. 4 (2007), Joanna explicita uma face nova do programa: o **Self na sua estrutura psicológica é assexuado**, e avança na escalada humana em busca da individuação *"assimilando os méritos transcendentes do animus e da anima, de modo a superar os impositivos biológicos da anatomia fisiológica"*. A repetição de uma só polaridade ao longo de muitas reencarnações imprime no comportamento ora o machismo arbitrário (predomínio do *animus*), ora a docilidade submissa (predomínio da *anima*); a mudança abrupta entre vidas pode produzir *"um indivíduo em conflito quanto à sua sexualidade"* — base da explicação reencarnatória oferecida no cap. 8 da mesma obra para variações da identidade sexual *"sem nenhum caráter de natureza cármica, punitiva"*. A integração equilibrada anima/animus é, assim, **face específica do programa de individuação** — articulada com a tese junguiana já presente em [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda|Jesus e o Evangelho à Luz da Psicologia Profunda]] cap. 21 (Bom Samaritano lido em chave anima/animus).
+
 ## Aplicação prática
 
 A **terapia da individuação** integra três planos para Joanna:
@@ -90,5 +94,6 @@ Cuidado ponto-a-ponto: a fórmula "Self como Deus interno", que aparece em Jung 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/o-despertar-do-espirito|O Despertar do Espírito]]*. Salvador: LEAL, 2000. (Articulação com a psicossíntese de Assagioli.)
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda|Jesus e o Evangelho à Luz da Psicologia Profunda]]*. Salvador: LEAL, 2000. Cap. 23 (arquétipos com raiz reencarnacionista).
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/vida-desafios-e-solucoes|Vida: Desafios e Soluções]]*. Salvador: LEAL, 1997. Cap. 7 (discordância parcial nominal de Jung).
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]]*. Salvador: LEAL, 2007. Cap. 4 (Self assexuado integrando anima/animus).
 - André Luiz / Xavier, Francisco Cândido. *[[wiki/obras/no-mundo-maior|No Mundo Maior]]*. FEB, 1947. Cap. 11.
 - Jung, Carl Gustav. *O Eu e o Inconsciente* e *Tipos Psicológicos*. (Conceito-fonte.)

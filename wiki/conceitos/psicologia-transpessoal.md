@@ -58,6 +58,16 @@ A Quarta Força recolhe da Psicanálise (Freud) e da Psicologia Individual (Adle
 
 Para Joanna, Jesus é "Psicoterapeuta Excelente" e marco da Psicologia Transpessoal por considerar o indivíduo "essencialmente espiritual, em transitória existência física". O ensino "não fazer ao próximo o que não deseja que ele lhe faça" (cf. Mt 7:12) é apresentado como condição psicoterapêutica básica para a identificação saudável consigo, com o próximo e com o mundo.
 
+### Estágios de Ken Wilber adotados sistematicamente
+
+Em [[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]] cap. 9 (2007), Joanna **adota a tipologia tripartite de Ken Wilber como matriz estrutural** para narrar a conquista da consciência:
+
+- **Pré-pessoal** — sensório-físico, fantasmagórico-emocional, mente representativa.
+- **Pessoal** — mente regra-papel, mente reflexivo-formal, visão lógica.
+- **Transpessoal** — psíquico, sutil, causal.
+
+A novidade frente aos volumes anteriores da Série Psicológica (em que Wilber é citado pontualmente) é o uso **estrutural** dos níveis como eixo da narrativa, com **acréscimo explícito da autora**: *"E acrescentaríamos os fenômenos paranormais conscientes, responsáveis, incluindo a [[wiki/conceitos/mediunidade|mediunidade lúcida]] e a saúde emocional"* — complemento espírita que estende o nível transpessoal para incluir a mediunidade saudável como conquista do ser plenificado. A leitura é cauçada por Teilhard de Chardin (*"o ser humano é a ponta da flecha do processo evolutivo"* mediante *"complexificação da consciência"*) e dialoga com William James e Gurdjieff.
+
 ## Aplicação prática
 
 Para o estudante kardecista, a Psicologia Transpessoal serve como:
@@ -89,5 +99,6 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 - Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/momentos-de-saude-e-consciencia|Momentos de Saúde]] e Consciência*. LEAL, 1992, prefácio da Parte 1 (articulação conjunta Psicossomática + Transpessoal + Transacional + Criativa). Cf. [[wiki/obras/momentos-de-saude-e-consciencia]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *O Ser Consciente*. LEAL, 1993, especialmente caps. 1–5 (Primeira parte: A Quarta Força). Cf. [[wiki/obras/o-ser-consciente]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/autodescobrimento|Autodescobrimento — Uma Busca Interior]]*. LEAL, 1995, prefácio + cap. 9 (Viciações mentais) + cap. 10 (Conteúdos perturbadores). Cf. [[wiki/obras/autodescobrimento]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *[[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]]*. LEAL, 2007, cap. 9 (adoção sistemática dos estágios de Ken Wilber, com mediunidade lúcida como nível complementar). Cf. [[wiki/obras/encontro-com-a-paz-e-a-saude]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621; q. 919.
 - Bíblia. Mateus 7:12.
