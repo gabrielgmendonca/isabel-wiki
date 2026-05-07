@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE]
 tags: [psicologia, psicologia-transpessoal, quarta-forca, joanna-de-angelis, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, tema/espiritos, tema/moral, grau/intermediario, autor/kardec, lei/justica-amor-caridade]
-atualizado_em: 2026-05-02
+atualizado_em: 2026-05-07
 status: ativo
 ---
 
@@ -27,6 +27,8 @@ A tese aparece **já em 1990** em [[wiki/obras/o-homem-integral]] (cap. 39), ond
 Entre os dois marcos, [[wiki/obras/momentos-de-saude-e-consciencia]] (LEAL, 1992) explicita pela primeira vez na bibliografia Joanna a articulação **conjunta de Psicossomática + Psicologia Transpessoal + Psicologia Transacional + Psicologia Criativa**, todas nomeadas no prefácio da Parte 1 como interlocutoras concordes do programa kardequiano: *"diversas ciências são concordes com esses programas, especialmente as Psicologias Transpessoal, Transacional e Criativa, concitando ao auto-encontro, à libertação do entulho mental e moral, à conquista do ego e plenificação do self, do EU espiritual eterno, no seu inevitável processo de crescimento."*
 
 A Quarta Força, na leitura de Joanna, não substitui o Espiritismo — confirma-o por outro vocabulário. Os fenômenos paranormais antes catalogados como patologias passam a ser reconhecidos como **expressões da realidade espiritual**, e o ser humano deixa de ser examinado em partes para ser tratado como **integral, holístico**.
+
+Em [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] (LEAL, 2000 — Série Psicológica – Especial vol. 11) Joanna **articula explicitamente a relação entre Psicologia Profunda (junguiana) e Psicologia Transpessoal**: na maior parte do livro o vocabulário é o da Profunda (sombra coletiva e individual, Self, anima/animus, arquétipos, Selbst); no cap. 28, sobre mediunidade, Joanna registra que *"a Psicologia Profunda cede lugar à análise da Psicologia Transpessoal, porque mais compatível com a mensagem, que haure na Psicologia Espírita a explicação clara e significativa, interpretando o fenômeno, na área da mediunidade"*. A obra é, portanto, a articulação mais nítida na bibliografia Joanna entre o método junguiano e o paradigma da Quarta Força.
 
 [[wiki/obras/autodescobrimento]] (LEAL, 1995, Vol. 6 da Série Psicológica) aplica este programa em registro mais prático que o Vol. 5: prefácio explícito sobre "colocar pontes entre os mecanismos das Psicologias Humanista e Transpessoal com a Doutrina Espírita, que as ilumina e completa". A obra cataloga viciações mentais (insatisfação, indiferença, pânico, medo da morte) e conteúdos perturbadores (raiva, ressentimento, lamentação, amargura) como hábitos psíquicos automatizados, com terapias específicas para cada caso. No tratamento do **distúrbio de pânico** (cap. 9), Joanna defende explicitamente o uso conjugado de psicofármacos e transformação moral — ilustrando o critério de discernimento clínico que distingue causalidade orgânica, conflito psicogênico e interferência espiritual sem reduzir uma à outra.
 
@@ -73,6 +75,7 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 - [[wiki/obras/o-homem-integral]] — primeira articulação extensa da Quarta Força (1990), precursora de *O Ser Consciente*
 - [[wiki/obras/o-ser-consciente]] — tratamento sistemático da Quarta Força à luz espírita (Vol. 5, 1993)
 - [[wiki/obras/autodescobrimento]] — manual aplicado da interiorização (Vol. 6, 1995)
+- [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] — articulação Psicologia Profunda → Transpessoal aplicada ao ESE (Especial vol. 11, 2000)
 - [[wiki/conceitos/autoconhecimento]] — programa central da Psicologia Transpessoal e de LE q. 919
 - [[wiki/conceitos/perispirito]] — peça intermediária do tripé que torna o ser "integral"
 - [[wiki/conceitos/mediunidade]] — fenômeno que a Quarta Força acolhe e o Espiritismo elucida

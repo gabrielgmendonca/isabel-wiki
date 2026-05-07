@@ -6,7 +6,7 @@ aliases:
   - "Carl Jung"
   - "C. G. Jung"
   - "Carl G. Jung"
-atualizado_em: 2026-05-05
+atualizado_em: 2026-05-07
 status: ativo
 ---
 
@@ -44,6 +44,8 @@ Jung é citado nominalmente em pelo menos **duas obras espíritas de primeira li
 **Cap. XIV — Libertação do Sofrimento.** Joanna avalia: *"Carl Gustav Jung foi possivelmente quem melhor penetrou a realidade do sofrimento, propondo a sua elucidação e cura. Enquanto a preocupação geral se baseava nos resultados físicos, no bem-estar emocional, sob a angulação médica, ele recorreu a dois métodos para encontrar-lhe a gênese e a solução: os sonhos e a imaginação."* Reconhece-lhe os métodos terapêuticos — sonhos, imaginação ativa, individuação, marcha para o numinoso — como *"valiosos mecanismos terapêuticos"*. A obra fecha posicionando o Espiritismo como complemento que faltava: *"a promoção moral proposta pelo Espiritismo e a contribuição extraordinária que dá, pelo fato de ser a alma imortal e da reencarnação — em cujos renascimentos o ser espiritual se depura — constituem terapias irrecusáveis"*.
 
 A interlocução com Jung percorre toda a série psicológica de Joanna ([[wiki/obras/o-homem-integral|O Homem Integral]], [[wiki/obras/conquista-da-saude-psicologica|A Conquista da Saúde Psicológica]], [[wiki/obras/o-ser-consciente|O Ser Consciente]]) — em particular o cap. 32 de *[[wiki/obras/o-homem-integral|O Homem Integral]]* ("Nascimento da consciência") cita extensamente Jung sobre o trabalho de conscientização dos conteúdos do inconsciente.
+
+Em *[[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda|Jesus e o Evangelho à Luz da Psicologia Profunda]]* (LEAL, 2000 — Série Psicológica – Especial vol. 11) Joanna **leva o vocabulário junguiano à sua aplicação evangélica mais densa**: comenta um item específico de cada capítulo I–XXVII do ESE com leitura sistemática em chave de **sombra coletiva e individual, Self, anima/animus** (Jesus como androginia psicológica; Bom Samaritano relido com hospedaria-anima e hospedeiro-animus, cap. 21), **Selbst** (uso pontual no cap. 16 sem identificação ontológica entre Self e Deus), e **arquétipos com raiz reencarnacionista** (cap. 23 — *"Os Seus arquétipos procediam de outras imagens ancestrais representativas de patamares vibratórios superiores"*, convergente com a discordância parcial nominal de Jung registrada em *[[wiki/obras/vida-desafios-e-solucoes|Vida: Desafios e Soluções]]* cap. 7).
 
 #### André Luiz / Chico Xavier — *No Mundo Maior* (1947)
 
@@ -90,6 +92,7 @@ Não há obra de Jung traduzida e publicada por editora espírita — a interloc
 - [[wiki/obras/plenitude]] — duas citações nominais (cap. III e cap. XIV).
 - [[wiki/obras/no-mundo-maior]] — cap. 11; "três escolas" da psicologia analítica.
 - [[wiki/obras/o-homem-integral]] — cap. 32; Jung sobre o nascimento da consciência.
+- [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] — comentário do ESE em chave junguiana explícita (sombra/Self/anima-animus/arquétipos/Selbst).
 
 ## Fontes
 

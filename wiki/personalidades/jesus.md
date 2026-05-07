@@ -168,6 +168,7 @@ A cura simultânea da filha leprosa Flávia opera não pelo merecimento do pai, 
 - [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
 - [[wiki/obras/epistola-aos-filipenses]] — hino cristológico (Fp 2:5–11) com a kenose como modelo de humildade voluntária; "para mim o viver é Cristo, e o morrer é ganho" (Fp 1:21).
 - [[wiki/obras/apocalipse]] — galeria de imagens cristológicas alegóricas: Cordeiro, Filho do Homem, Alfa e Ômega, Cavaleiro Fiel e Verdadeiro, Rei dos reis, "estou à porta, e bato".
+- [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] — comentário sistemático de um item de cada capítulo I–XXVII do ESE em chave junguiana (Joanna de Ângelis / Divaldo Franco, LEAL, 2000); Jesus como "Psicoterapeuta por excelência", reafirmação enfática da cristologia kardequista antitrinitária.
 
 ## Páginas relacionadas
 
