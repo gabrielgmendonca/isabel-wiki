@@ -85,6 +85,19 @@ A terapia é específica para cada componente:
 
 A formulação é complementar — não concorrente — à abordagem neurobiológica desenvolvida por Divaldo em [[wiki/obras/conquista-da-saude-psicologica]] (2009): aqui a depressão é tratada num registro pastoral, como um dos três adversários sutis a serem combatidos pela prece como recurso prioritário, ao lado da terapêutica integrada (psiquiatria + psicoterapia + terapêutica espírita) que continua valendo nos casos clínicos.
 
+## Em Joanna de Ângelis — *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]* (cap. 6)
+
+Em [[wiki/obras/triunfo-pessoal]] (LEAL, 2002), Joanna desenvolve no cap. 6 ("Transtornos profundos") o tratamento mais técnico-psiquiátrico da depressão dentro do corpus da Série Psicológica. Articulação em **quatro matrizes etiológicas**:
+
+1. **Frustração de desejos não realizados** — com referência a Freud sobre **luto/perda** como gatilho saudável até **6-8 semanas**. Além disso, é patológico e exige terapêutica bem-elaborada: *"Qualquer tipo de perda produz impacto aflitivo, perturbador, como é natural. Demora-se algum tempo, que não deve exceder a seis ou oito semanas."*
+2. **Eventos de vida** — perda profissional, abandono afetivo, traumatismos cranianos atingindo "duas regiões específicas do tronco cerebral: a *rafe*, encarregada da produção da serotonina e o *locus coeruleus*, que produz a noradrenalina".
+3. **Etiologia perinatal** — *"a amargura da mãe que não desejava o filho, do pai violento, dos familiares irresponsáveis, das pelejas domésticas, da insegurança no processo da gestação, produzindo sulcos profundos que se irão manifestar mais tarde como traumas, conflitos, transtornos de comportamento."*
+4. **Transferência reencarnatória** — *"o ser espiritual viajor de multifários renascimentos carnais... ressumam como conflito avassalador, a princípio em manifestação de melancolia, de abandono de si mesmo, de desconsideração pelos próprios valores, de perda da autoestima."* Pode disparar **intercorrências obsessivas** quando a consciência culpada produz "clima psíquico para a sintonia com outras [mentes] fora do corpo somático... gerando sórdidos processos de parasitose espiritual".
+
+**Terapêutica profilática preventiva**: identificar-se com os sentimentos e exteriorizá-los enquanto o tempo permite — *"Repetem-se as oportunidades desperdiçadas, nas quais se pode dizer aos familiares quanto eles são importantes... Nunca, pois, se devem postergar essas saudáveis e verdadeiras manifestações da afetividade, a fim de serem evitados futuros transtornos de comportamento, quando a culpa pretenda instalar-se em forma de arrependimento pelo não dito."*
+
+A formulação é **complementar — não concorrente** — à abordagem de Hammed (centrada em LE q. 725, q. 974 e q. 1000) e à dos "três inimigos" de [[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]] cap. 7. Joanna em *Triunfo Pessoal* é mais técnico-clínica; em *Desperte e Seja Feliz* é homilético-pastoral. Ambas convergem na terapia integrada (psiquiatria + psicoterapia + terapêutica espírita) já desenvolvida por Divaldo em [[wiki/obras/conquista-da-saude-psicologica]].
+
 ## Em Hammed — *As Dores da Alma*
 
 No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata a depressão como uma das [[wiki/conceitos/dores-da-alma]] — processo psicológico que resgata faltas pelo próprio sofrimento interior ("Já desde esta vida poderemos ir resgatando as nossas faltas?" — LE q. 1000). O comentário é mais moral-pedagógico que clínico: **não substitui o diagnóstico psiquiátrico nem a visão neurobiológica desenvolvida por Divaldo Franco**. Complementa com a ideia de que a vivência depressiva pode ser ocasião de reparação quando acolhida como processo evolutivo e não como punição.
@@ -100,6 +113,7 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - [[wiki/conceitos/provas-e-expiacoes]] — a doença como oportunidade de progresso
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra de Divaldo Franco sobre o tema
 - [[wiki/obras/desperte-e-seja-feliz]] — três inimigos (depressão, ressentimento, exaltação) com terapia específica (cap. 7)
+- [[wiki/obras/triunfo-pessoal]] — Joanna de Ângelis, tratamento técnico-psiquiátrico em quatro matrizes etiológicas (cap. 6)
 - [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto, tema "Depressão"
 - [[wiki/conceitos/dores-da-alma]]
 
@@ -110,4 +124,5 @@ No tema 19 ("Depressão", ancorado em LE q. 725, q. 974 e q. 1000), Hammed trata
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XVIII, itens 27–28 (transição planetária).
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 7 — "Três inimigos". Salvador: LEAL, 1996.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]*, cap. 6 — "Transtornos profundos / Depressão". Salvador: LEAL, 2002. 7ª ed., 2013.
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Depressão" (LE q. 725, q. 974, q. 1000).

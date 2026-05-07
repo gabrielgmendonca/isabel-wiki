@@ -21,7 +21,7 @@ status: ativo
 - **Data:** 2000 (1ª ed.); ed. consultada — 8ª ed., 40º-42º milheiro, 2007
 - **Estrutura:** prefácio "O Despertar do Espírito" + 10 capítulos, cada um subdividido em 3 subseções
 - **Nível:** 3 — Complementar aprovado
-- **Posição na série:** **vol. 10 da Série Psicológica** de Joanna de Ângelis, sucessor cronológico de [[wiki/obras/amor-imbativel-amor]] (1998)
+- **Posição na série:** **vol. 10 da Série Psicológica** de Joanna de Ângelis, sucessor cronológico de [[wiki/obras/amor-imbativel-amor]] (1998); seguido por [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] (Especial vol. 11, 2000) e [[wiki/obras/triunfo-pessoal]] (vol. 12, 2002)
 - **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna de Ângelis - O despertar do Espírito/Joanna de Ângelis - O despertar do Espírito]]
 - **Dedicatória:** homenagem à **Conferência Espírita Brasil-Portugal** (Salvador, 16-19 de março de 2000), promovida por FEB e Federação Espírita Portuguesa via FEEB, comemorando os 500 anos do Descobrimento do Brasil
 
