@@ -309,6 +309,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/personalidades/waldo-vieira]] — Waldo Vieira (1932–2015), médico de Uberaba, médium co-psicógrafo de Chico Xavier em *Sexo e Destino* (1963) e *Evolução em Dois Mundos* (1958). Citado pela wiki estritamente pelo período de coautoria (~1958–1965); pós-1966 fundou a projeciologia/IIPC, fora do escopo kardecista.
 - [[wiki/personalidades/francisco-do-espirito-santo-neto]] — médium psicógrafo (Catanduva-SP); intermediário do Espírito Hammed.
 - [[wiki/personalidades/hammed]] — Espírito comunicante, autor de obras de psicologia espírita via Francisco do Espírito Santo Neto (nível 4).
+- [[wiki/personalidades/humberto-de-campos]] — Humberto de Campos Veras (1886–1934), jornalista e cronista (ABL, cadeira 20); como Espírito-autor, dita a [[wiki/personalidades/chico-xavier|Chico Xavier]] a partir de 1939 — ação judicial movida pela viúva (1944) é fundadora do enquadramento jurídico da psicografia no Brasil.
 - [[wiki/personalidades/camille-flammarion]] — Camille Flammarion (1842–1925), astrônomo francês, discurso no túmulo de Kardec.
 - [[wiki/personalidades/zaqueu]] — chefe dos publicanos de Jericó (Lc 19:1–10), protótipo evangélico da conversão pela reparação material.
 - [[wiki/personalidades/pedro-apostolo]] — Simão Pedro, pescador da Galileia; protagonista de Atos 1–12, pregador do Pentecostes.

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [joanna-de-angelis, divaldo-franco, psicologia-profunda, jung, jesus-psicoterapeuta, sombra, self, anima-animus, evangelho-segundo-o-espiritismo, obra/ese, autor/divaldo-franco, autor/joanna-de-angelis, autor/kardec]
+tags: [joanna-de-angelis, divaldo-franco, psicologia-profunda, jung, jesus-psicoterapeuta, sombra, self, anima-animus, evangelho-segundo-o-espiritismo, obra/ese, autor/divaldo-franco, autor/joanna-de-angelis, autor/kardec, tema/jesus, tema/moral]
 aliases:
   - "Jesus e o Evangelho à luz da Psicologia Profunda"
   - "Jesus e o Evangelho a Luz da Psicologia Profunda"
