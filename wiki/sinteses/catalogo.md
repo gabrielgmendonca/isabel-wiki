@@ -520,6 +520,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 Q&A direta de questões específicas do Pentateuco (uma questão por página).
 
 - [[wiki/questoes/o-que-e-deus]] — "Deus é a inteligência suprema, causa primária de todas as coisas" — primeira pergunta do LE e raiz dos atributos da Divindade (LE, q. 1).
+- [[wiki/questoes/objetivo-da-encarnacao]] — três fins da encarnação (perfeição, expiação ou missão, parte na obra da criação); resposta-matriz que abre o Cap. II (LE, q. 132).
 - [[wiki/questoes/jesus-tipo-mais-perfeito]] — Jesus como tipo mais perfeito que Deus ofereceu ao homem; fundamento da hierarquia de autoridade do Espiritismo (LE, q. 625).
 - [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — diferença entre arrependimento, expiação e reparação segundo *O Céu e o Inferno* (1ª parte, cap. VII, itens 16–17).
 - [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]] — por que a proteção dos Espíritos é discreta: livre-arbítrio e progresso como razão da invisibilidade (LE, q. 501).
