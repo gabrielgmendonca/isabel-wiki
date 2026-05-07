@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-05-07] glossario | 3 termos novos: galardão, diáconos, conservo
+
+Sugeridor (`sugerir_termos.py --top 30`) varreu vocabulário recente (dominado pelo registro paulino — Filipenses, Atos, Apocalipse). Triagem rejeitou adjetivos étnicos autoexplicativos (judaico/judeu/hebraico/greco/romanas), verbos arcaicos comuns (queres/prossigo/andam/conhecereis/movemos/morrerem/imputes), duplicata (`escribas` já cobrida por `escriba`) e jargão meta-wiki (`irrecuperabilidade`). Aceitos três termos com referencial cultural-histórico claro: **galardão** (recompensa em registro bíblico arcaico — Cl 3:24, Ap 22:12), **diáconos** (instituição da Igreja primitiva, At 6:1–6) e **conservo** (companheiro de servidão — parábola do credor incompassivo, Mt 18:28–33; também usado em Ap 19:10 e Cl 1:7). Wraps preview confirmou aplicação em contextos certos: parábolas de Mateus, Atos 6, Filipenses 1:1, Apocalipse 22, Tíquico/Epafras nas personalidades.
+
 ## [2026-05-06] lint | Catálogo + conversão de aliases canônicos para wikilink
 
 Adicionadas [[wiki/conceitos/mundos-primitivos]] e [[wiki/conceitos/mundos-celestes-ou-divinos]] ao [[wiki/sinteses/catalogo]] (na ordem canônica de ESE cap. III, item 4: primitivos → expiação/provas → regeneradores → felizes → celestes/divinos). Convertidas 162 ocorrências de aliases registrados em `aliases:` (Rivail, Pilatos, Francisco Cândido Xavier, Gautama, Irmão Marinho, Corvino, Quinto Celso, Carl Jung, Plenitude, Desperte e Seja Feliz, O Homem Integral, Momentos de Saúde, Autodescobrimento, Le Livre des Esprits/Médiums) de texto solto para wikilink com display alternativo (`[[canonical|alias]]`) em 64 arquivos — preserva o texto original e fecha os flags `info` do `check_canonical_names`. Lint final: 124 → 2 achados (apenas `status_projeto` cosmético).
