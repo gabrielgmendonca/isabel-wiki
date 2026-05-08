@@ -96,7 +96,7 @@ Em [[wiki/obras/triunfo-pessoal]] (LEAL, 2002), Joanna desenvolve no cap. 6 ("Tr
 
 **Terapêutica profilática preventiva**: identificar-se com os sentimentos e exteriorizá-los enquanto o tempo permite — *"Repetem-se as oportunidades desperdiçadas, nas quais se pode dizer aos familiares quanto eles são importantes... Nunca, pois, se devem postergar essas saudáveis e verdadeiras manifestações da afetividade, a fim de serem evitados futuros transtornos de comportamento, quando a culpa pretenda instalar-se em forma de arrependimento pelo não dito."*
 
-A formulação é **complementar — não concorrente** — à abordagem de Hammed (centrada em LE q. 725, q. 974 e q. 1000) e à dos "três inimigos" de [[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]] cap. 7. Joanna em *Triunfo Pessoal* é mais técnico-clínica; em *Desperte e Seja Feliz* é homilético-pastoral. Ambas convergem na terapia integrada (psiquiatria + psicoterapia + terapêutica espírita) já desenvolvida por Divaldo em [[wiki/obras/conquista-da-saude-psicologica]].
+A formulação é **complementar — não concorrente** — à abordagem de Hammed (centrada em LE q. 725, q. 974 e q. 1000) e à dos "três inimigos" de [[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]] cap. 7. Joanna em *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]* é mais técnico-clínica; em *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]* é homilético-pastoral. Ambas convergem na terapia integrada (psiquiatria + psicoterapia + terapêutica espírita) já desenvolvida por Divaldo em [[wiki/obras/conquista-da-saude-psicologica]].
 
 ## Em Hammed — *As Dores da Alma*
 

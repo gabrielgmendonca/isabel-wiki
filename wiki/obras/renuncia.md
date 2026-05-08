@@ -29,20 +29,20 @@ A obra abre com prefácio "Velhas recordações" (Emmanuel narrador-testemunha, 
 
 | Arco | Cap. | Cenário | Foco |
 |------|------|---------|------|
-| Alcíone | 1 *O padre Carlos* | Ávila, 1681 | Alcíone aos 17, em casa modesta com Madalena Vilamil e o filho adotivo Robbie; chegada do padre Carlos Clenaghan (sobrinho de [[wiki/personalidades/padre-damiano|Damiano]]); paixão silenciada |
-| Pólux/Antero | 1 *Sacrifícios do amor* | Plano espiritual + esfera Sírius | Pólux na "região de sombras" pré-encarnatória dialoga com Menandro; Alcíone (em túnica de luz, vinda de "portentosa Esfera" com três sóis) intercede com Antênio para retornar à carne |
-| Alcíone | 2 *Novamente em Paris* | Paris, c. 1683 | Madalena, Alcíone, Damiano e Robbie partem de Ávila; Damiano adoece de tísica; Alcíone busca trabalho como costureira (Madame Paulete) e como governanta dos Davenport |
-| Pólux/Antero | 2 *Anseios da mocidade* | Espanha → Paris | Antero de Oviedo, sobrinho-adotivo de D. Inácio Vilamil, mocidade indolente; primeira sugestão de Federigo Izaza para o tráfico negreiro |
+| Alcíone | 1 *O padre Carlos* | Ávila, 1681 | Alcíone aos 17, em casa modesta com Madalena Vilamil e o filho adotivo [[wiki/personalidades/antero-de-oviedo|Robbie]]; chegada do padre Carlos Clenaghan (sobrinho de [[wiki/personalidades/padre-damiano|Damiano]]); paixão silenciada |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 1 *Sacrifícios do amor* | Plano espiritual + esfera Sírius | [[wiki/personalidades/antero-de-oviedo|Pólux]] na "região de sombras" pré-encarnatória dialoga com Menandro; Alcíone (em túnica de luz, vinda de "portentosa Esfera" com três sóis) intercede com Antênio para retornar à carne |
+| Alcíone | 2 *Novamente em Paris* | Paris, c. 1683 | Madalena, Alcíone, Damiano e [[wiki/personalidades/antero-de-oviedo|Robbie]] partem de Ávila; Damiano adoece de tísica; Alcíone busca trabalho como costureira (Madame Paulete) e como governanta dos Davenport |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 2 *Anseios da mocidade* | Espanha → Paris | Antero de Oviedo, sobrinho-adotivo de D. Inácio Vilamil, mocidade indolente; primeira sugestão de Federigo Izaza para o tráfico negreiro |
 | Alcíone | 3 *Testemunhos de Fé* | Paris, casa Davenport | [[wiki/personalidades/alcione-vilamil|Alcíone]] como governanta de Beatriz; conversão progressiva de Cirilo, Susana e Jaques; primeiro grande discurso sobre o **lar como primeiro santuário** |
-| Pólux/Antero | 3 *A caminho da América* | Atlântico → Connecticut | Cirilo Davenport, falsamente informado da morte de Madalena, embarca para a colônia e casa-se em segundas núpcias com a prima Susana |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 3 *A caminho da América* | Atlântico → Connecticut | Cirilo Davenport, falsamente informado da morte de Madalena, embarca para a colônia e casa-se em segundas núpcias com a prima Susana |
 | Alcíone | 4 *Reencontro* | Paris | Alcíone reencontra Cirilo Davenport (seu pai biológico, que ela ignorava); revelação parcial da identidade |
-| Pólux/Antero | 4 *A varíola* | Paris | Epidemia devastadora; Antero de Oviedo, isolado pelos remorsos, suicida-se com veneno; D. Inácio e D. Margarida morrem da peste; Madalena Vilamil também é vitimada |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 4 *A varíola* | Paris | Epidemia devastadora; Antero de Oviedo, isolado pelos remorsos, suicida-se com veneno; D. Inácio e D. Margarida morrem da peste; Madalena Vilamil também é vitimada |
 | Alcíone | 5 *Provas redentoras* | Paris/Espanha | (recomposição familiar; Alcíone retorna a Ávila órfã) |
-| Pólux/Antero | 5 *Na infância de Alcíone* | Ávila (flashback) | Recapitulação da infância de Alcíone em Ávila — chácara dos Vilamil, amizade com Dolores e João de Deus, primeiras lições com Damiano |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 5 *Na infância de Alcíone* | Ávila (flashback) | Recapitulação da infância de Alcíone em Ávila — chácara dos Vilamil, amizade com Dolores e João de Deus, primeiras lições com Damiano |
 | Alcíone | 6 *Solidão amarga* | Espanha | Alcíone no claustro carmelita; Carlos Clenaghan casa-se em Ávila; tragédia conjugal de Carlos |
-| Pólux/Antero | 6 *Novos rumos* | Ávila + plano espiritual | Damiano expõe a Madalena a doutrina da **pluralidade de existências, prece-transformação e crítica ao Santo Ofício**; Antero, no umbral, encontra D. Margarida e implora reencarnação reparadora; nascimento de Robbie (criança escrava deformada — mão direita atrofiada de dois dedos, pé torto, defeito visual) e adoção pela família Vilamil |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 6 *Novos rumos* | Ávila + plano espiritual | Damiano expõe a Madalena a doutrina da **pluralidade de existências, prece-transformação e crítica ao Santo Ofício**; Antero, no umbral, encontra D. Margarida e implora reencarnação reparadora; nascimento de [[wiki/personalidades/antero-de-oviedo|Robbie]] (criança escrava deformada — mão direita atrofiada de dois dedos, pé torto, defeito visual) e adoção pela família Vilamil |
 | Alcíone | 7 *A despedida* | Medina del Campo → Madrid | Alcíone, sub-priora carmelita, denunciada por Frei Osório à Inquisição; cárcere úmido por dez meses; reencontro derradeiro com Carlos Clenaghan (agora **Frei José do Santíssimo**, jesuíta-inquisidor); morte tísica abraçada ao crucifixo da mãe; recepção pelo cortejo do Grande Lar Celeste |
-| Pólux/Antero | 7 *Caminhos de luta* | Connecticut → Paris | Cirilo em "Nova Irlanda" recebe a notícia da morte de Madalena; segundo casamento com Susana; visita ao túmulo no cemitério dos Inocentes em Paris; nasce Robbie em Ávila — *"assim regressava Antero de Oviedo ao cenáculo do mundo"* |
+| [[wiki/personalidades/antero-de-oviedo\|Pólux/Antero]] | 7 *Caminhos de luta* | Connecticut → Paris | Cirilo em "Nova Irlanda" recebe a notícia da morte de Madalena; segundo casamento com Susana; visita ao túmulo no cemitério dos Inocentes em Paris; nasce [[wiki/personalidades/antero-de-oviedo|Robbie]] em Ávila — *"assim regressava Antero de Oviedo ao cenáculo do mundo"* |
 
 A linha narrativa atravessa **mais de três décadas** (~1681-c. 1710), com flashbacks à infância de Alcíone em Ávila e à mocidade espanhola dos Vilamil/Oviedo.
 
@@ -52,9 +52,9 @@ A linha narrativa atravessa **mais de três décadas** (~1681-c. 1710), com flas
 
 Alcíone, no cap. 1B (*Sacrifícios do amor*), é apresentada como **espírito adiantado vindo de outra Esfera** (sistema de Sírius, "três sóis rutilantes despejavam no solo arminhoso oceanos de luz mirífica"). Coopera com benfeitores da arte terreal e tem ideais cooperativos com a humanidade. Pede a Antênio — entidade angelical do Grande Lar Celeste — permissão para **interromper sua tarefa** e retornar à carne. Antênio adverte contra "novos e arriscados compromissos", mas Alcíone replica: *"profundas saudades me lancinam rudemente o coração. Será condenável o desejo firme de alcançar a felicidade através das renúncias do amor e nos propósitos de semear o bem?"*
 
-A renúncia que dá nome ao livro é **abnegação consciente em favor de espíritos afetivamente ligados** — Pólux/Antero (futuro Robbie), o pai (Cirilo), a mãe (Madalena), o amor da juventude (Carlos Clenaghan). Não monasticismo evasivo: a tomada do hábito carmelita só vem depois de Carlos casar-se em Ávila e impossibilitar o casamento, e mesmo no claustro Alcíone resiste à reclusão estéril (cap. 7A: *"Jesus atravessou a pé grandes extensões da Palestina, ensinando e praticando o bem… Acreditais, frei Osório, que Jesus necessite de mulheres ociosas?"*). Convergente com LE q. 132 (encarnação como condição da natureza espiritual, não castigo) e ESE cap. V (bem-aventurados os aflitos como missionários consentidos).
+A renúncia que dá nome ao livro é **abnegação consciente em favor de espíritos afetivamente ligados** — [[wiki/personalidades/antero-de-oviedo|Pólux/Antero]] (futuro [[wiki/personalidades/antero-de-oviedo|Robbie]]), o pai (Cirilo), a mãe (Madalena), o amor da juventude (Carlos Clenaghan). Não monasticismo evasivo: a tomada do hábito carmelita só vem depois de Carlos casar-se em Ávila e impossibilitar o casamento, e mesmo no claustro Alcíone resiste à reclusão estéril (cap. 7A: *"Jesus atravessou a pé grandes extensões da Palestina, ensinando e praticando o bem… Acreditais, frei Osório, que Jesus necessite de mulheres ociosas?"*). Convergente com LE q. 132 (encarnação como condição da natureza espiritual, não castigo) e ESE cap. V (bem-aventurados os aflitos como missionários consentidos).
 
-### Reencarnação expiatória encarnada — o ciclo Pólux → Antero → Robbie
+### Reencarnação expiatória encarnada — o ciclo [[wiki/personalidades/antero-de-oviedo|Pólux]] → Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]]
 
 Eixo doutrinário mais denso da obra. Antero de Oviedo, sobrinho-adotivo de D. Margarida e D. Inácio Vilamil, encarna em criatividade e charme mas cede a Federigo Izaza, dedica-se ao tráfico negreiro, forja carta sobre o naufrágio de Cirilo Davenport para tentar conquistar Madalena (sua prima), e suicida-se com veneno na epidemia de varíola de Paris (cap. 4B). Após dois anos no umbral, em meio a remorsos amargurados pela noite invariável, ora a Jesus pedindo a presença materna. D. Margarida (no plano espiritual, em halo de luz) aparece-lhe e expõe a mecânica da reparação:
 
@@ -64,7 +64,7 @@ A correspondência entre faltas pretéritas e órgãos atrofiados é explicitada
 
 > *"A mão que assinou documentos condenáveis, aí a tens mirrada; o pé que se moveu no rumo dos feitos delituosos está ressequido; os olhos que procuraram o mal repletam-se de sombras espessas…"* (D. Margarida, cap. 6B)
 
-Antero aceita a oportunidade de retornar como Robbie — **criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual**, adotado por Madalena (sua antiga vítima) e Alcíone (sua antiga benfeitora) na chácara dos Estigarríbias em Ávila. A intercessão materna direta da D. Margarida — mãe espiritual que obtém de Jesus a abreviação do período umbralino e o pedido formal de corpo deficitário — é uma das ilustrações mais explícitas da **economia da reencarnação reparadora** em toda a literatura de Emmanuel. Convergente direto com [[wiki/conceitos/expiacao-e-reparacao]] e com o "regime de sanções" formulado em [[wiki/obras/acao-e-reacao]] (cap. 19): o Espírito endividado **suplica corpos com deficiências congênitas correspondentes às viciações pretéritas** — não castigo, mas vacina contra recidiva.
+Antero aceita a oportunidade de retornar como [[wiki/personalidades/antero-de-oviedo|Robbie]] — **criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual**, adotado por Madalena (sua antiga vítima) e Alcíone (sua antiga benfeitora) na chácara dos Estigarríbias em Ávila. A intercessão materna direta da D. Margarida — mãe espiritual que obtém de Jesus a abreviação do período umbralino e o pedido formal de corpo deficitário — é uma das ilustrações mais explícitas da **economia da reencarnação reparadora** em toda a literatura de Emmanuel. Convergente direto com [[wiki/conceitos/expiacao-e-reparacao]] e com o "regime de sanções" formulado em [[wiki/obras/acao-e-reacao]] (cap. 19): o Espírito endividado **suplica corpos com deficiências congênitas correspondentes às viciações pretéritas** — não castigo, mas vacina contra recidiva.
 
 ### Lar como primeiro santuário (cap. 3A)
 
@@ -109,7 +109,7 @@ Logo depois, sob direção de Antênio, *"chegavam resplandecentes entidades do 
 ## Conceitos tratados
 
 - [[wiki/conceitos/reencarnacao]] — moldura geral (Damiano cap. 6B; D. Margarida cap. 6B)
-- [[wiki/conceitos/expiacao-e-reparacao]] — exemplo paradigmático Antero→Robbie
+- [[wiki/conceitos/expiacao-e-reparacao]] — exemplo paradigmático Antero→[[wiki/personalidades/antero-de-oviedo|Robbie]]
 - [[wiki/conceitos/planejamento-reencarnatorio]] — caso de intercessão materna direta no umbral
 - [[wiki/conceitos/prece]] — oração como vigília matinal + balanço noturno; Jesus perdoa pela renovação do ensejo
 - [[wiki/conceitos/culto-do-evangelho-no-lar]] — lar como primeiro santuário (cap. 3A)
@@ -122,7 +122,7 @@ Logo depois, sob direção de Antênio, *"chegavam resplandecentes entidades do 
 ### Centrais (página própria)
 - [[wiki/personalidades/alcione-vilamil]] — protagonista; espírito adiantado em missão de renúncia
 - [[wiki/personalidades/padre-damiano]] — mentor evangélico de Alcíone; expositor das teses doutrinárias da obra
-- [[wiki/personalidades/antero-de-oviedo]] — arco karmico Pólux → Antero → Robbie
+- [[wiki/personalidades/antero-de-oviedo]] — arco karmico [[wiki/personalidades/antero-de-oviedo|Pólux]] → Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]]
 
 ### Secundárias (sem página própria nesta ingestão)
 - **Madalena Vilamil** — mãe de Alcíone, esposa de Cirilo Davenport; condenada à viuvez aparente pela carta forjada de Antero; morre na varíola de Paris
@@ -131,18 +131,18 @@ Logo depois, sob direção de Antênio, *"chegavam resplandecentes entidades do 
 - **Susana Duchesne** — prima de Cirilo; arquiteta a falsa carta sobre o naufrágio para conquistá-lo; segunda esposa de Cirilo na América; mãe de Beatriz
 - **D. Margarida** — esposa de D. Inácio Vilamil; mãe espiritual de Antero; intercede no umbral pelo afilhado
 - **Antênio** — entidade angelical do Grande Lar Celeste; mentor de Alcíone na esfera de Sírius
-- **Pólux** — identidade espiritual de Antero antes da reencarnação como Antero
-- **Robbie** — encarnação reparadora de Antero; criança escrava deformada adotada pelos Vilamil
+- **[[wiki/personalidades/antero-de-oviedo|Pólux]]** — identidade espiritual de Antero antes da reencarnação como Antero
+- **[[wiki/personalidades/antero-de-oviedo|Robbie]]** — encarnação reparadora de Antero; criança escrava deformada adotada pelos Vilamil
 - **Beatriz** — filha de Cirilo e Susana; aluna de Alcíone em Paris
 - **Jaques Davenport** — tio de Cirilo, professor de Blois; chega a Connecticut com Susana e organiza a escola colonial
 - **Frei Osório** — capelão inspetor de Medina del Campo; denuncia Alcíone à Inquisição
-- **Dolores e João de Deus** — servos da chácara dos Estigarríbias em Ávila; pais biológicos de Robbie
+- **Dolores e João de Deus** — servos da chácara dos Estigarríbias em Ávila; pais biológicos de [[wiki/personalidades/antero-de-oviedo|Robbie]]
 
 ## Divergências
 
 Nenhuma divergência estrutural com Kardec identificada. Pontos sensíveis verificados durante a redação:
 
-- **Reencarnação relativamente curta** (Antero suicida-se → ~2 anos no umbral → renasce como Robbie ainda em vida de Madalena). Convergente com LE q. 222-227 (intervalos entre encarnações são variáveis, dependentes do estado moral do espírito; suicidas têm geralmente tempo de umbral prolongado, mas casos com intercessão direta de mães espirituais avançadas — como D. Margarida — abreviam essa permanência). Não é divergência; é caso particular dentro do espectro doutrinário.
+- **Reencarnação relativamente curta** (Antero suicida-se → ~2 anos no umbral → renasce como [[wiki/personalidades/antero-de-oviedo|Robbie]] ainda em vida de Madalena). Convergente com LE q. 222-227 (intervalos entre encarnações são variáveis, dependentes do estado moral do espírito; suicidas têm geralmente tempo de umbral prolongado, mas casos com intercessão direta de mães espirituais avançadas — como D. Margarida — abreviam essa permanência). Não é divergência; é caso particular dentro do espectro doutrinário.
 - **Crítica à Inquisição** (caps. 6B e 7A) — convergente com a *Revista Espírita* e com a posição de Kardec sobre o anti-clericalismo construtivo (denúncia do desvio sem rejeição do cristianismo). Damiano sustenta que *"a Igreja do Cristo é inviolável"* — ao mesmo tempo em que critica os "sacerdotes ambiciosos" e o "poder temporal" do Vaticano.
 - **Posição matizada sobre Lutero** (cap. 6B) — Damiano reconhece "necessidade da reforma íntima" mas não adere ao protestantismo institucional; convergente com a leitura espírita do cristianismo restaurado.
 - **Pluralidade de existências apoiada em exemplos pagãos pré-cristãos** — convergente com OPE e com a abertura de [[wiki/obras/genese|Gênese]] cap. I.

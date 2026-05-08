@@ -58,7 +58,7 @@ Kardec vislumbra o efeito moral e social dessa compreensão:
 
 > "Quando essa perspectiva da reparação for inculcada na crença das massas, será um freio muito mais poderoso do que a do inferno e das penas eternas, porque se refere à atualidade da vida, e o homem compreenderá a razão de ser das circunstâncias penosas em que se acha colocado." (C&I, 1ª parte, cap. VII, item 17, nota)
 
-### Ilustração narrativa — o ciclo Antero → Robbie em [[wiki/obras/renuncia|Renúncia]]
+### Ilustração narrativa — o ciclo Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]] em [[wiki/obras/renuncia|Renúncia]]
 
 Em [[wiki/obras/renuncia|Renúncia]] (Emmanuel/Chico Xavier, 1944), o caso de [[wiki/personalidades/antero-de-oviedo|Antero de Oviedo]] é uma das ilustrações mais explícitas em toda a literatura emanueliana da **correspondência reparadora ato↔órgão**. Antero, sobrinho-adotivo dos Vilamil, ofende a prima Madalena com carta forjada sobre o naufrágio do marido, dedica-se ao tráfico negreiro e suicida-se com veneno na epidemia de varíola de Paris. Após dois anos no umbral, em meio a remorsos cruéis, recebe a visita da mãe espiritual D. Margarida, que expõe a doutrina como **renovação do ensejo**, não absolvição mecânica:
 
@@ -68,7 +68,7 @@ A correspondência ato↔órgão é estabelecida em diálogo:
 
 > *"A mão que assinou documentos condenáveis, aí a tens mirrada; o pé que se moveu no rumo dos feitos delituosos está ressequido; os olhos que procuraram o mal repletam-se de sombras espessas…"* (D. Margarida a Antero, cap. 6B)
 
-Antero aceita o programa reparador e renasce como **Robbie** — criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual — adotado pela própria família que ofendera (a antiga vítima Madalena torna-se sua mãe adotiva; a antiga companheira espiritual [[wiki/personalidades/alcione-vilamil|Alcíone]] torna-se sua irmã). A geometria reparadora é precisa: **renasce no lar que atacou, sob a tutela das almas que feriu**. Convergente com C&I 1ª parte cap. VII, item 17 — *"as mesmas pessoas que tiveram queixas dele, em condições escolhidas por ele mesmo, de maneira a poder provar-lhes dedicação e fazer-lhes tanto bem quanto lhes fez mal"*.
+Antero aceita o programa reparador e renasce como **[[wiki/personalidades/antero-de-oviedo|Robbie]]** — criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual — adotado pela própria família que ofendera (a antiga vítima Madalena torna-se sua mãe adotiva; a antiga companheira espiritual [[wiki/personalidades/alcione-vilamil|Alcíone]] torna-se sua irmã). A geometria reparadora é precisa: **renasce no lar que atacou, sob a tutela das almas que feriu**. Convergente com C&I 1ª parte cap. VII, item 17 — *"as mesmas pessoas que tiveram queixas dele, em condições escolhidas por ele mesmo, de maneira a poder provar-lhes dedicação e fazer-lhes tanto bem quanto lhes fez mal"*.
 
 A obra também exemplifica que **suicídio não anula a oportunidade reparadora** (LE q. 943-957): apenas a torna mais longa e mais penosa (umbral + corpo deficitário). E que a **intercessão materna no plano espiritual** pode abreviar a permanência umbralina, **mas não dispensa a expiação corporal subsequente** — a misericórdia opera como aceleração da oportunidade, não como pulo de etapas.
 
@@ -91,4 +91,4 @@ Para o estudo pessoal, o conceito convida à reflexão sobre as provas da vida p
 ## Fontes
 
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. VII — "Código penal da vida futura", itens 16-17. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Cap. 6B (ciclo Antero → Robbie como ilustração narrativa da correspondência reparadora ato↔órgão e do reencontro reparador no mesmo lar). Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Cap. 6B (ciclo Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]] como ilustração narrativa da correspondência reparadora ato↔órgão e do reencontro reparador no mesmo lar). Edição: [[raw/mediuns/chico-xavier/renuncia]].

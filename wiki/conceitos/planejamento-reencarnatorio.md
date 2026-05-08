@@ -119,7 +119,7 @@ A prece pedindo a sanção tem, portanto, valor educativo (humildade, reconhecim
 
 A mecânica é coerente com LE q. 263–273 (escolha das provas): o que *Ação e Reação* acrescenta é a **dimensão coletiva** — provas que reúnem cúmplices. Não substitui a doutrina da reencarnação individual; articula-a com a economia social do resgate.
 
-### 11. Intercessão materna direta no umbral — caso Antero/Robbie em [[wiki/obras/renuncia|Renúncia]]
+### 11. Intercessão materna direta no umbral — caso Antero/[[wiki/personalidades/antero-de-oviedo|Robbie]] em [[wiki/obras/renuncia|Renúncia]]
 
 [[wiki/obras/renuncia|Renúncia]] (Emmanuel/Chico Xavier, 1944) acrescenta uma face complementar do regime de sanções: a **intercessão direta de uma mãe espiritual** abreviando o período umbralino e formalizando o pedido reparador junto a Jesus. [[wiki/personalidades/antero-de-oviedo|Antero de Oviedo]] suicida-se com veneno após perseguir a prima Madalena (carta forjada sobre o naufrágio do marido) e dedicar-se ao tráfico negreiro. Após dois anos no umbral em "noite invariável", percebendo a destra atrofiada e o pé ressequido como manifestações perispiríticas das faltas, Antero ora a Jesus pedindo a presença materna. D. Margarida desce em halo de luz e expõe a mecânica da sanção:
 
@@ -127,7 +127,7 @@ A mecânica é coerente com LE q. 263–273 (escolha das provas): o que *Ação 
 
 > *"A mão que assinou documentos condenáveis, aí a tens mirrada; o pé que se moveu no rumo dos feitos delituosos está ressequido; os olhos que procuraram o mal repletam-se de sombras espessas…"* (cap. 6B)
 
-A intercessão materna não dispensa o programa reparador — apenas o **organiza e antecipa**. D. Margarida explica: *"se rogaste ao Senhor a minha presença, implorei igualmente a Jesus me permitisse reorganizar as tuas possibilidades de trabalho no orbe terrestre. A bondade infinita do Mestre concedeu-me essa dita."* Antero aceita; renasce como **Robbie**, criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual — corpo deficitário pedido em consciência, exatamente como descreve [[wiki/obras/acao-e-reacao|Ação e Reação]] cap. 19. A reciprocidade é dupla: corpo formado em precisa correspondência ato↔órgão **e** lar de renascimento com as antigas vítimas (Madalena como mãe adotiva, [[wiki/personalidades/alcione-vilamil|Alcíone]] como irmã). Caso paradigmático em toda a literatura emanueliana de **planejamento reencarnatório com pedido formal de deficiência reparadora** — anterior em treze anos à formulação sistemática de [[wiki/obras/acao-e-reacao|Ação e Reação]] (1957).
+A intercessão materna não dispensa o programa reparador — apenas o **organiza e antecipa**. D. Margarida explica: *"se rogaste ao Senhor a minha presença, implorei igualmente a Jesus me permitisse reorganizar as tuas possibilidades de trabalho no orbe terrestre. A bondade infinita do Mestre concedeu-me essa dita."* Antero aceita; renasce como **[[wiki/personalidades/antero-de-oviedo|Robbie]]**, criança escrava com mão direita atrofiada de dois dedos, pé direito torto e defeito visual — corpo deficitário pedido em consciência, exatamente como descreve [[wiki/obras/acao-e-reacao|Ação e Reação]] cap. 19. A reciprocidade é dupla: corpo formado em precisa correspondência ato↔órgão **e** lar de renascimento com as antigas vítimas (Madalena como mãe adotiva, [[wiki/personalidades/alcione-vilamil|Alcíone]] como irmã). Caso paradigmático em toda a literatura emanueliana de **planejamento reencarnatório com pedido formal de deficiência reparadora** — anterior em treze anos à formulação sistemática de [[wiki/obras/acao-e-reacao|Ação e Reação]] (1957).
 
 ## Aplicação prática
 
@@ -154,7 +154,7 @@ A intercessão materna não dispensa o programa reparador — apenas o **organiz
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional ampliada
 - [[wiki/personalidades/alexandre]] — orientador do caso paradigmático
 - [[wiki/personalidades/druso]] — Instrutor expositor do regime de sanções
-- [[wiki/personalidades/antero-de-oviedo]] — caso narrativo Pólux → Antero → Robbie em [[wiki/obras/renuncia|Renúncia]] (intercessão materna no umbral; corpo deficitário pedido em consciência)
+- [[wiki/personalidades/antero-de-oviedo]] — caso narrativo [[wiki/personalidades/antero-de-oviedo|Pólux]] → Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]] em [[wiki/obras/renuncia|Renúncia]] (intercessão materna no umbral; corpo deficitário pedido em consciência)
 - [[wiki/obras/renuncia]] — formulação narrativa de 1944, anterior em treze anos a [[wiki/obras/acao-e-reacao|Ação e Reação]]
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — economia moral subjacente
 
