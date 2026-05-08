@@ -100,6 +100,7 @@ Para a sistematização doutrinária por eixos, ver [[wiki/aprofundamentos/sexua
 - [[wiki/conceitos/perispirito]] — substrato das cargas magnéticas
 - [[wiki/conceitos/provas-e-expiacoes]] — celibato, abstinência, união infeliz
 - [[wiki/conceitos/livre-arbitrio]] — base da responsabilidade nos compromissos afetivos
+- [[wiki/aprofundamentos/aborto]] — cap. 17 lido no contexto do bloco LE q. 344-360 e dos demais autores nível 3
 
 ## Personalidades citadas
 

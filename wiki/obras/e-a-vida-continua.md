@@ -131,6 +131,7 @@ A obra fecha pela tese central da série: "a vida que, em toda parte, continua s
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — caso paradigmático: réu reencarna como pai/protetor da vítima
 - [[wiki/conceitos/obsessao]] — caso Desidério/Elisa, obsessão simbiótica de longa duração
 - [[wiki/conceitos/suicidio]] — discussão preliminar de Ernesto (cap. 3); revelação posterior de que o caso de Túlio era homicídio
+- [[wiki/aprofundamentos/aborto]] — caso Evelina (aborto terapêutico) lido como confirmação narrativa de LE q. 359 (sacrifício do feto admitido em risco materno)
 
 ## Personalidades citadas
 

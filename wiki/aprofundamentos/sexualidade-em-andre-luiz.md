@@ -271,6 +271,7 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação s
 - [[wiki/obras/sexo-e-destino]] — tese ativa de 1963 (sexo construtor de destino, possessão partilhada, Almas Irmãs)
 - [[wiki/personalidades/waldo-vieira]] — coautor mediúnico de *Sexo e Destino*
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — paralelo direto (Vida e Sexo, 1970)
+- [[wiki/aprofundamentos/aborto]] — síntese transversal sobre o tema (LE q. 344-360 + autores nível 3 + casos limite)
 
 ## Fontes
 

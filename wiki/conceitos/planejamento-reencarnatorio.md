@@ -146,6 +146,7 @@ A intercessão materna não dispensa o programa reparador — apenas o **organiz
 - [[wiki/conceitos/centros-vitais]] — anatomia funcional do corpo espiritual
 - [[wiki/conceitos/evangelizacao-infantojuvenil]] — janela dos primeiros sete anos
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — aborto e eixo genésico em vidas futuras
+- [[wiki/aprofundamentos/aborto]] — síntese transversal: LE q. 344-360, exceção de q. 359 (risco materno), corpos sem Espírito designado, casos limite
 - [[wiki/conceitos/expiacao-e-reparacao]] — programa de provas como retificação
 - [[wiki/obras/missionarios-da-luz]] — fonte primária (caps. 13–15)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — refinamento doutrinário (cap. 28)

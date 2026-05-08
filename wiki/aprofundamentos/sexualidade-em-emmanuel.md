@@ -179,6 +179,7 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 - [[wiki/conceitos/livre-arbitrio]] — base da responsabilidade
 - [[wiki/obras/vida-e-sexo]] — fonte primária deste estudo
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — paralelo direto
+- [[wiki/aprofundamentos/aborto]] — síntese transversal sobre o tema (LE q. 344-360 + autores nível 3 + casos limite)
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — relação Emmanuel × Denis sobre o cap. 21
 
 ## Fontes
