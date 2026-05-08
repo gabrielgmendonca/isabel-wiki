@@ -34,6 +34,10 @@ Kardec interpreta os talentos em sentido amplo (ESE, cap. XVI, item 9):
 
 A parábola desafia a inércia e o comodismo. No contexto espírita, ela nos lembra de que cada encarnação traz consigo um conjunto de recursos — materiais e espirituais — que devem ser postos a serviço do bem. Quem tem instrução, que ensine; quem tem saúde, que trabalhe; quem tem recursos, que partilhe; quem tem mediunidade, que a exerça com caridade. Não há talento pequeno demais para ser útil, nem posição humilde demais para produzir frutos. O essencial é não enterrar o que se recebeu.
 
+## Leitura junguiana de Joanna de Ângelis
+
+Em [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15), a parábola dos talentos abre o cap. 7 ("A possível saúde integral") e é relida em chave junguiana: os talentos como **aptidões adormecidas no Self à espera de despertamento**, o servo que enterra o talento como **ego paralisado pelo medo da [[wiki/conceitos/individuacao|sombra]]**. A leitura permanece convergente com Kardec em ESE cap. XVI item 9 — a inutilidade não é virtude, é falta moral —, mas adiciona a tese psicológica de que o talento "enterrado" cristaliza-se como conflito interno: o capital não posto em circulação no plano moral somatiza, deprime, vampiriza. A **conquista do Si** (subseção do mesmo capítulo) opera o binômio saúde-doença como gradiente da integração ego↔Self: a doença não é fatalidade, é convite à interiorização — e os talentos despertos são a moeda dessa integração.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/progresso-espiritual]] · [[wiki/conceitos/livre-arbitrio]]
@@ -45,3 +49,4 @@ A parábola desafia a inércia e o comodismo. No contexto espírita, ela nos lem
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVI ("Não se Pode Servir a Deus e a Mamon"), item 9. Trad. Guillon Ribeiro. FEB.
 - *Novo Testamento*. S. Mateus, 25:14–30.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 928–929. Trad. Guillon Ribeiro. FEB.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]*. Salvador: LEAL, 2009. Série Psicológica vol. 15. Cap. 7 (A possível saúde integral — leitura junguiana dos talentos como aptidões adormecidas no Self).

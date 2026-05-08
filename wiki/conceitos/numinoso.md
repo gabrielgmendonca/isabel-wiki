@@ -50,6 +50,10 @@ Joanna estabelece uma série de equivalências em registro pedagógico — **Sel
 
 A obra encerra com a citação do próprio Jung: *"O homem não muda, na morte, em sua parte imortal; ele é mortal e imortal ainda em vida, pois é tanto ego como Self."*
 
+### A meta-síntese em *Em Busca da Verdade* (2009)
+
+Em [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15), o estado numinoso aparece como **meta-síntese declarada da terapêutica espírito-junguiana**, equiparado a *sukha* (sânscrito = bem-estar pleno) e ao Reino dos Céus, e atingido pela integração ego↔Self e diluição da [[wiki/conceitos/individuacao|sombra]]. A obra é dedicada explicitamente, no prefácio, a "fazer uma ponte de perfeita identificação com a psicologia analítica" de Jung — e o numinoso é o ponto culminante recorrente do programa. Já no cap. 1 a meta é nomeada (*"Sendo o Self o arquétipo básico da vida consciente, o princípio inteligente, ele é o somatório de todas as experiências evolutivas, sempre avançando na direção do estado numinoso"*); o cap. 2 (Filho Pródigo) lê o pai misericordioso como "o estado numinoso que sempre esteve ao alcance"; o cap. 10 fecha articulando o numinoso com a fatalidade da morte (*"o oposto de morte não é vida, mas renascimento"* + LE q. 540 + 1Co 15:55) — o numinoso é o telos da imortalidade, não meta de uma só existência.
+
 ## Aplicação prática
 
 A **terapêutica orientada para o numinoso** integra três níveis em Joanna:
@@ -82,5 +86,6 @@ A síntese permanece kardequiana: a experiência numinosa, descrita pela teologi
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 4 (existência de Deus), q. 621 (lei de Deus na consciência), q. 919 (conhece-te a ti mesmo).
 - Kardec, Allan. *O Evangelho segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XIX (fé raciocinada — Mt 17:20).
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]*. Salvador: LEAL, 2002. Caps. 2 e 11.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]*. Salvador: LEAL, 2009. Série Psicológica vol. 15. (Numinoso como meta-síntese declarada — ponte explícita com Jung no prefácio; equivalência *sukha* ↔ numinoso ↔ Reino dos Céus.)
 - Otto, Rudolf. *Das Heilige* (*A ideia do Sagrado*). 1917. (Conceito-fonte; categoria do *mysterium tremendum et fascinans*.)
 - Jung, Carl Gustav. *Resposta a Jó* (*Antwort auf Hiob*, 1952) e *Psicologia e Religião*. (Adoção e aprofundamento do conceito.)

@@ -42,6 +42,16 @@ Kardec lê a parábola como afirmação da misericórdia divina que sobreleva o 
 
 A parábola convida o estudante a duas disposições complementares. Primeiro, a **confiança** de que nenhuma queda é definitiva: por mais longe que se tenha ido, basta "tornar em si" e pôr-se a caminho para encontrar já a compaixão do Pai vindo ao encontro. Segundo, a **vigilância contra o orgulho do irmão mais velho**, que, ciumento da misericórdia concedida a outrem, endurece o coração sob aparência de retidão. Na vida de casa espírita, acolher o que retorna — o companheiro que se afastou, o estudante que tropeçou, o Espírito sofredor que chega à reunião mediúnica — é repetir o gesto do pai da parábola. A caridade autêntica não pede curriculum de méritos; pede apenas que o filho queira voltar.
 
+## Leitura junguiana de Joanna de Ângelis
+
+A parábola é o **eixo estrutural dos caps. 1–3** de [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15) — o tratado psicoterapêutico mais extenso da Série dedicado a uma única parábola. Joanna trabalha sobre a **tradução do original grego pelas Sociedades Bíblicas Unidas** (escolha tradutológica distinta da utilizada por Kardec em ESE; é nota tradutológica, não divergência doutrinária — o ensino kardecista do retorno permanece intacto). Os arquétipos do ego e do Self são lidos da seguinte forma:
+
+- **Filho mais novo como ego perverso e ingrato**: ao pedir a herança, "inconscientemente deseja a morte do pai"; a viagem para o "país longínquo" é tentativa de "arrancar as raízes existenciais", a *fome* simboliza a falência das compensações libidinais, e o **insight** ("caindo, porém, em si") opera o despertar do Self.
+- **País longínquo** lido em chave reencarnacionista: pode ser a Terra (para onde vêm os Espíritos com os bens herdados do Pai), o mundo espiritual em fase primária, ou as fases sucessivas da existência (infância → juventude → idade adulta → senectude) que o ego atravessa sem se cristalizar.
+- **Pai misericordioso = Self pleno**: o abraço, a melhor roupa, o anel e o calçado novo são arquétipos da reintegração ego↔Self; o pai que sai para encontrar o filho ainda longe é o Self vindo ao encontro do ego ferido.
+- **Tese-aporte distintiva: ambos os filhos estão doentes.** Joanna lê o irmão mais velho como **Abel mitológico** que agora "gostaria de assassinar Caim que voltou" — *"O filho fiel é o mito representativo de Abel, generoso e bom, que será sacrificado por Caim... Agora, o mito Abel no filho mais velho, gostaria de assassinar Caim, que se tornara bom, que voltara tomando-lhe o lugar"*. O ciúme, o ressentimento e a recusa em entrar na festa são sintomas de fragmentação que **só se integram quando o pai (Self) leva o irmão ressentido para dentro de casa**, completando o arco. O encerramento proposto: *"olharam-se por largo e silencioso tempo de reflexão, superando distâncias emocionais, culminando em demorado abraço de integração dos dois eus num self coletivo"* (cap. 2).
+- **Estado *numinoso*** (categoria junguiana derivada de Rudolf Otto) como meta: o pai misericordioso é, na cena arquetípica, *"o estado numinoso que sempre esteve ao alcance"*. A parábola é, assim, **dispositivo psicoterapêutico arquetípico**, no programa declarado pela autora no prefácio: ponte com a psicologia analítica de Jung.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/arrependimento]] · [[wiki/conceitos/parabola-da-ovelha-perdida]] · [[wiki/conceitos/parabola-da-dracma-perdida]]
@@ -54,3 +64,4 @@ A parábola convida o estudante a duas disposições complementares. Primeiro, a
 - *Bíblia Sagrada* (Almeida Corrigida Fiel). S. Lucas, 15:11–32.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 1000–1009. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, cap. VII ("Código penal da vida futura"). Trad. Manuel Justiniano Quintão. FEB.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]*. Salvador: LEAL, 2009. Série Psicológica vol. 15. Caps. 1–3 (leitura junguiana extensa: ambos os filhos doentes; irmão mais velho como Abel mitológico; tradução do original grego pelas Sociedades Bíblicas Unidas).
