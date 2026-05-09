@@ -110,12 +110,26 @@ Rodar o script determinístico (não a skill):
 uv run python .claude/skills/lint/scripts/lint_wiki.py
 ```
 
-Reportar ao usuário:
+Não chamar `/lint` (skill LLM). Se o usuário quiser análise complementar, sugerir `/lint` como passo separado.
+
+## Passo 6 — Reindex qmd
+
+Após o land, reindexar para que buscas posteriores enxerguem o que acabou de entrar em `main`:
+
+```bash
+qmd update && qmd embed
+```
+
+`qmd update` é instantâneo (~1s); `qmd embed` escala com o volume novo (segundos para um ship típico de 3-5 páginas; até ~1min se houve `/ingest` grande no ciclo). Rodar síncrono — sem isso, a próxima checagem de duplicata via qmd (no `/ingest` seguinte) pode mentir.
+
+Se algum dos dois sair com código não-zero, reportar a saída literal e parar — não tentar consertar nem mascarar. O conteúdo já está em `main`, o index só ficou stale.
+
+## Passo 7 — Reportar
+
 - Hash curto de `main` após o land (`git -C <main-worktree> rev-parse --short HEAD`).
 - Resumo do lint: total de errors/warnings/info. Erros novos introduzidos pelo land merecem destaque.
 - Se houve conflito resolvido, mencionar quais arquivos.
-
-Não chamar `/lint` (skill LLM). Se o usuário quiser análise complementar, sugerir `/lint` como passo separado.
+- Linha curta com o resultado do reindex (ex.: `qmd: 5 docs novos, 12 chunks embedded em 8s`).
 
 ## Regras
 

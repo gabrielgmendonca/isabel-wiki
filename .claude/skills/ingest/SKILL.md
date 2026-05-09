@@ -19,11 +19,12 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
 
 1. **`raw/<caminho>` existe nesta worktree?** `test -e raw/<caminho>` (ou `ls`). Se não existir, PARE — pode estar em outra worktree, em `main` à frente desta branch, ou nunca foi adicionado. Sugerir candidatos com `find raw -iname '*<chave>*'` antes de pedir confirmação ao usuário.
 2. **Branch alinhada com `main`?** `git rev-parse --abbrev-ref HEAD` para identificar a branch; se não for `main`, `git rev-list --count HEAD..main` (comparação local, sem `fetch`). Se >0, PARE — `main` está à frente desta branch e o arquivo pode estar visível só lá; sugerir `git rebase main` (ou `git merge main`) antes de prosseguir.
+3. **Índice qmd fresco?** `qmd status` → ler `lastUpdated` das coleções `wiki` e `raw`. Comparar com `git log -1 --format=%cI -- wiki raw` (timestamp do último commit que tocou conteúdo indexável). Se algum `lastUpdated` < timestamp do commit, rodar `qmd update && qmd embed` antes de prosseguir — leva segundos no caso comum, e sem isso a checagem de duplicatas do Passo 2 pode falsamente reportar "não existe". O caminho feliz é skip: `/ship` reindexa ao final, então normalmente não há nada a fazer aqui.
 
 **Pré-checagem de escopo:**
 
-3. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
-4. Classifique conforme seção 2 do CLAUDE.md:
+4. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
+5. Classifique conforme seção 2 do CLAUDE.md:
    - Nível 1, 2, 3 ou 4 → siga adiante.
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
