@@ -1,7 +1,7 @@
 ---
 tipo: aprofundamento
 fontes: [LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, RE]
-tags: [aborto, encarnacao, perispirito, planejamento-reencarnatorio, lei/reproducao, obra/le, obra/re, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, grau/avancado, tema/encarnacao, tema/sociedade]
+tags: [aborto, encarnacao, perispirito, planejamento-reencarnatorio, lei/reproducao, obra/le, obra/re, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, grau/avancado, tema/encarnacao, tema/sociedade, lei/destruicao]
 atualizado_em: 2026-05-07
 status: rascunho
 ---

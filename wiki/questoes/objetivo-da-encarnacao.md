@@ -1,7 +1,7 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [encarnacao, expiacao, missao, progresso-espiritual, perfeicao-moral, obra-da-criacao, obra/le, autor/kardec, grau/introdutorio, tema/encarnacao]
+tags: [encarnacao, expiacao, missao, progresso-espiritual, perfeicao-moral, obra-da-criacao, obra/le, autor/kardec, grau/introdutorio, tema/encarnacao, lei/progresso, lei/sociedade, lei/trabalho]
 atualizado_em: 2026-05-07
 status: ativo
 ---
