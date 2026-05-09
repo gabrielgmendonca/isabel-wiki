@@ -72,7 +72,7 @@ A distinção tem consequências práticas. O estoico **reduz** o desejo até at
 
 ### Gratidão como disciplina
 
-Em Fp 4:6, a "ação de graças" (gr. *eucharistia*) introduz a **gratidão** como instrumento da prece tranquilizadora. Para o Espiritismo, é parte da [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663): orar não é só pedir, é **agradecer e reconhecer**. A gratidão dispõe o orante à recepção dos auxílios espirituais; o contentamento é seu fruto cotidiano.
+Em Fp 4:6, a "ação de graças" (gr. *eucharistia*) introduz a **[[wiki/conceitos/gratidao|gratidão]]** como instrumento da prece tranquilizadora. Para o Espiritismo, é parte da [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663): orar não é só pedir, é **agradecer e reconhecer**. A gratidão dispõe o orante à recepção dos auxílios espirituais; o contentamento é seu fruto cotidiano. O tratamento monográfico mais extenso desta articulação na literatura espírita brasileira está em [[wiki/obras/psicologia-da-gratidao]] (Joanna de Ângelis / Divaldo, 2011) — vol. 16 da Série Psicológica.
 
 ## Aplicação prática
 
@@ -87,6 +87,7 @@ Em Fp 4:6, a "ação de graças" (gr. *eucharistia*) introduz a **gratidão** co
 - [[wiki/obras/epistola-aos-filipenses]] — passagem-síntese (Fp 4:11–13).
 - [[wiki/conceitos/leis-morais/lei-do-progresso]] — Fp 3:13–14 (esquecendo as coisas que atrás ficam) articula contentamento com avanço moral.
 - [[wiki/conceitos/leis-morais/lei-de-adoracao]] — gratidão (Fp 4:6) como disciplina que prepara o contentamento.
+- [[wiki/conceitos/gratidao]] — virtude irmã do contentamento; Fp 4:6 (*eucharistia*) e Fp 4:11-13 articulados pelo apóstolo Paulo.
 - [[wiki/conceitos/prece]] — prece tranquilizadora (Fp 4:6–7).
 - [[wiki/conceitos/humildade]] — virtude irmã; o orgulhoso não se contenta nunca.
 - [[wiki/conceitos/perfeicao-moral]] — meta progressiva da qual o contentamento é instrumento.

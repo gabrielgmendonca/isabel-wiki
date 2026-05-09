@@ -69,7 +69,7 @@ Para o estudo espírita:
 
 1. **A "ação de graças" (gr. *eucharistia*)** é parte estruturante da prece, não apêndice opcional. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, **pedir**, **agradecer**". Sem o agradecimento, a prece pendinte fica truncada.
 2. **A disciplina mental de Fp 4:8** prepara o solo da adoração. A oração não brota de uma mente entupida de ressentimento, fofoca ou desejo desordenado — brota da atenção dirigida ao bom, ao verdadeiro, ao justo. Para o Espiritismo, é também sintonia mediúnica positiva (LM 2ª parte cap. XX): o pensamento dirigido aos bons Espíritos abre o canal; o pensamento dirigido às misérias do dia a dia o fecha.
-3. **A gratidão é virtude conquistada**, não estado natural. Quem não treina a atenção em direção ao bom não sente espontaneamente o impulso de agradecer. A "ação de graças" é portanto **disciplina**, em paralelo com o contentamento aprendido de Fp 4:11–13 ([[wiki/conceitos/contentamento]]).
+3. **A [[wiki/conceitos/gratidao|gratidão]] é virtude conquistada**, não estado natural. Quem não treina a atenção em direção ao bom não sente espontaneamente o impulso de agradecer. A "ação de graças" é portanto **disciplina**, em paralelo com o contentamento aprendido de Fp 4:11–13 ([[wiki/conceitos/contentamento]]). O tratamento sistemático mais extenso desta articulação na literatura espírita brasileira está em [[wiki/obras/psicologia-da-gratidao]] (Joanna de Ângelis / Divaldo, 2011) — vol. 16 da Série Psicológica.
 
 
 
@@ -83,6 +83,7 @@ Para o estudo espírita:
 - [[wiki/conceitos/deus]] · [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais]]
 - [[wiki/conceitos/fe]] · [[wiki/conceitos/humildade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/contentamento]] — articulação direta com gratidão como disciplina (Fp 4:6–13)
+- [[wiki/conceitos/gratidao]] — terceira modalidade da prece (LE q. 659); virtude moral conquistada em Joanna de Ângelis
 - [[wiki/obras/epistola-aos-filipenses]] — Fp 4:6 (ação de graças); Fp 4:8 (disciplina mental que prepara a adoração)
 - ESE, cap. XXVII (Pedi e obtereis) · cap. XXVIII (Coletânea de preces espíritas)
 
