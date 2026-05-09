@@ -532,6 +532,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
 - [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
+- [[wiki/questoes/obediencia-e-resignacao]] — obediência como consentimento da razão e resignação como consentimento do coração; "forças ativas ambas" e não negação da vontade (ESE, cap. IX, item 8 — Lázaro, Paris, 1863).
 
 ## Sínteses
 
