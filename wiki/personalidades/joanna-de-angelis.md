@@ -59,6 +59,7 @@ Em ordem cronológica:
 
 ## Páginas relacionadas
 
+- [[wiki/sinteses/serie-psicologica-joanna-de-angelis]] — **síntese panorâmica** dos 16 volumes da Série Psicológica (1989-2011), com cinco eixos transversais
 - [[wiki/personalidades/divaldo-franco]] — médium psicógrafo
 - [[wiki/conceitos/jesus-psicoterapeuta]] — eixo articulado em *Jesus e Atualidade* e *O Ser Consciente*
 - [[wiki/conceitos/psicologia-transpessoal]] — eixo da série psicológica de Joanna
