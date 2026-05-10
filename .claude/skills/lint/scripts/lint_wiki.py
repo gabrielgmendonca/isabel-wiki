@@ -31,6 +31,15 @@ from _lib.wiki_utils import (  # noqa: E402
     strip_inline_code,
 )
 
+# Permitir `from _slug import ...` (top-level scripts/ do repo)
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "scripts"))
+from _slug import (  # noqa: E402
+    RAW_TOP_LEVEL_DIRS,
+    canonical_for,
+    has_artifact_marker,
+    is_canonical_slug,
+)
+
 STALE_DAYS = 14
 
 # A listagem linear da wiki vive em wiki/sinteses/catalogo.md. A home (index.md)
@@ -815,6 +824,165 @@ def check_raw_excluded(pages: list[Path]) -> dict:
     return {"severity": "error", "count": 0, "items": []}
 
 
+RAW_DIR = Path("raw")
+
+# Em raw/mediuns/<medium>/, a próxima camada deve ser <autor-espiritual>/.
+# Não há .pdf/.md soltos no nível do médium.
+_MEDIUNS_REQUIRES_AUTHOR_LAYER = True
+
+
+def check_raw_layout(pages: list[Path]) -> dict:
+    """Check — raw/ deve seguir o esquema canônico de slugs e hierarquia.
+
+    Regras (warnings — legado em migração):
+    1. Subpasta direta de raw/ está em RAW_TOP_LEVEL_DIRS.
+    2. Cada nome de pasta/arquivo (sem extensão) é kebab-case ASCII puro.
+    3. Em raw/mediuns/<medium>/: o próximo nível é <autor-espiritual>/, não
+       arquivo solto (CLAUDE.md §3 — "o médium não é o autor").
+    4. Para cada <slug>.pdf, existe diretório <slug>/ com <slug>.md dentro.
+    5. Imagens _page_*.jpeg ficam em assets/, não soltas no diretório <slug>/.
+    6. Sem sufixos artefato (_compress, -min, c3a[0-9a-f]) em nomes.
+
+    Nota: pares <TÍTULO>.md + summary-<TÍTULO>.md em palestras/ ficam lado
+    a lado por convenção (.claude/rules/convencoes-palestras.md).
+    """
+    items: list[dict] = []
+
+    if not RAW_DIR.exists():
+        return {"severity": "warning", "count": 0, "items": []}
+
+    # Regra 1: top-level allowlist
+    for entry in sorted(RAW_DIR.iterdir()):
+        if entry.name.startswith(".") or entry.is_file():
+            continue
+        if entry.name not in RAW_TOP_LEVEL_DIRS:
+            items.append({
+                "path": str(entry),
+                "rule": "top_level_unknown",
+                "detail": f"subpasta '{entry.name}' fora da allowlist {sorted(RAW_TOP_LEVEL_DIRS)}",
+            })
+
+    # Coletor genérico — visita tudo dentro das pastas conhecidas
+    def _walk(base: Path):
+        if not base.exists():
+            return
+        for p in base.rglob("*"):
+            # ignora dot-files de sistema
+            if any(part.startswith(".") for part in p.relative_to(RAW_DIR).parts):
+                continue
+            yield p
+
+    # Regras 2 e 7: slug canônico + sem artefato (toda pasta/arquivo dentro de raw/)
+    # Skip biblia-acf/ (slugs de livros e capítulos numerados são especiais) e kardec/
+    # (estrutura própria validada manualmente).
+    for top in RAW_TOP_LEVEL_DIRS - {"biblia-acf", "kardec", "assets"}:
+        base = RAW_DIR / top
+        for p in _walk(base):
+            rel = p.relative_to(RAW_DIR)
+            # Para arquivos: stem; para pastas: nome.
+            name = p.stem if p.is_file() else p.name
+            # Allowlist de nomes especiais (não-slug por desenho)
+            if name in {"_meta", "_summaries", "assets", "_page_*"}:
+                continue
+            if name.startswith("_page_"):  # _page_0_Picture_0.jpeg etc.
+                continue
+            if has_artifact_marker(name):
+                items.append({
+                    "path": str(p),
+                    "rule": "artifact_suffix",
+                    "detail": f"nome contém marcador artefato (compress/min/c3a*): '{name}'",
+                    "suggested": str(p.parent / canonical_for(p.name)),
+                })
+                continue
+            if not is_canonical_slug(name):
+                items.append({
+                    "path": str(p),
+                    "rule": "non_canonical_slug",
+                    "detail": f"slug fora do padrão kebab-case ASCII: '{name}'",
+                    "suggested": str(p.parent / canonical_for(p.name)),
+                })
+
+    # Regra 3: mediuns/<medium>/<autor-espiritual>/<obra>
+    mediuns_dir = RAW_DIR / "mediuns"
+    if mediuns_dir.exists() and _MEDIUNS_REQUIRES_AUTHOR_LAYER:
+        for medium_dir in sorted(mediuns_dir.iterdir()):
+            if not medium_dir.is_dir() or medium_dir.name.startswith("."):
+                continue
+            for child in sorted(medium_dir.iterdir()):
+                if child.name.startswith("."):
+                    continue
+                # No nível do médium só pode haver pastas (autor espiritual).
+                if child.is_file():
+                    items.append({
+                        "path": str(child),
+                        "rule": "missing_author_layer",
+                        "detail": (
+                            f"arquivo direto em mediuns/{medium_dir.name}/ — "
+                            f"deve estar dentro de <autor-espiritual>/"
+                        ),
+                    })
+
+    # Regra 4: PDF ↔ diretório homônimo + Regra 5: imagens em assets/
+    # Aplicamos em autores/ e mediuns/.
+    for top in ("autores", "mediuns"):
+        base = RAW_DIR / top
+        if not base.exists():
+            continue
+        # Considera pares pdf/diretório no mesmo nível
+        for parent in base.rglob("*"):
+            if not parent.is_dir():
+                continue
+            stems_with_pdf: set[str] = set()
+            stems_with_dir: set[str] = set()
+            for child in parent.iterdir():
+                if child.name.startswith("."):
+                    continue
+                if child.is_file() and child.suffix.lower() == ".pdf":
+                    stems_with_pdf.add(child.stem)
+                elif child.is_dir():
+                    stems_with_dir.add(child.name)
+            # PDF sem diretório de extrato (warning brando — pode ser intencional)
+            for stem in stems_with_pdf - stems_with_dir:
+                # ignora se há .md irmão com mesmo stem (extração single-file)
+                if (parent / f"{stem}.md").exists():
+                    continue
+                items.append({
+                    "path": str(parent / f"{stem}.pdf"),
+                    "rule": "pdf_without_extract",
+                    "detail": f"{stem}.pdf sem diretório homônimo {stem}/ (extrato ausente)",
+                })
+            # Diretório com .md mas sem PDF (apenas info — extrato órfão)
+            for name in stems_with_dir - stems_with_pdf:
+                d = parent / name
+                if (d / f"{name}.md").exists() and not (parent / f"{name}.pdf").exists():
+                    # info, não warning — ingest pode chegar como .md direto
+                    pass
+
+        # Regra 5: imagens _page_*.jpeg dentro de <slug>/ devem estar em assets/
+        for slug_dir in base.rglob("*"):
+            if not slug_dir.is_dir():
+                continue
+            loose_images = [
+                p for p in slug_dir.iterdir()
+                if p.is_file() and p.name.startswith("_page_")
+                and p.suffix.lower() in (".jpeg", ".jpg", ".png")
+            ]
+            if loose_images:
+                items.append({
+                    "path": str(slug_dir),
+                    "rule": "images_not_in_assets",
+                    "detail": f"{len(loose_images)} imagem(ns) _page_*.* solta(s) — mover para {slug_dir.name}/assets/",
+                    "count_images": len(loose_images),
+                })
+
+    # Nota: pares <TÍTULO>.md + summary-<TÍTULO>.md em palestras/ são uma
+    # convenção documentada (.claude/rules/convencoes-palestras.md). Os summaries
+    # ficam lado a lado com a transcrição — só a slugificação se aplica
+    # (já coberta pela Regra 2).
+
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
 def check_skills_consistency(pages: list[Path]) -> dict:
     """Check — coerência interna entre CLAUDE.md, .claude/skills/ e .claude/rules/.
 
@@ -1248,6 +1416,7 @@ CHECK_REGISTRY = {
     "mundos_habitados_naming": check_mundos_habitados_naming,
     "skills_consistency": check_skills_consistency,
     "raw_excluded": check_raw_excluded,
+    "raw_layout": check_raw_layout,
     "direitos_obras": check_direitos_obras,
     "quote_proportion": check_quote_proportion,
 }

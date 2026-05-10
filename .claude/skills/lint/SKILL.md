@@ -23,7 +23,7 @@ Flags disponíveis:
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
 - `--file PATH`: modo single-file — roda só os checks isoláveis (frontmatter, fontes_missing, citation_format, broken_links, low_citations, rascunho_stale, divergencias_aberta, tag_taxonomy, tag_coverage, direitos_obras, quote_proportion) sobre uma única página, com items filtrados por path. Consumido pelo hook `PostToolUse` em `.claude/hooks/lint-on-edit.py` para feedback imediato pós-Edit/Write/MultiEdit em `wiki/**/*.md`. Não substitui o lint global — checks que precisam de estado entre páginas (orphan_pages, missing_concept_pages, naming_consistency, catalogo_*, pentateuco_completo, raw_excluded, skills_consistency) só rodam aqui.
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`.
+Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`, `raw_layout`.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
@@ -48,6 +48,7 @@ Agrupar os resultados do script por severidade:
 - **tag_taxonomy** — tags `lei/` fora da taxonomia canônica ou `obra/` inconsistentes com `fontes`.
 - **naming_consistency** — tags equivalentes registradas com nomenclaturas inconsistentes: variantes de mesma raiz (case/diacrítico, ex.: `perispirito` vs `perispírito`) ou pares plural/singular ambos circulando (ex.: `parabola` vs `parabolas`). Pares intencionais ficam em `NAMING_STEM_ALLOWLIST`.
 - **skills_consistency** — drift entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`: referência a `wiki/<dir>/` que não existe, skill em `.claude/skills/` sem menção em `CLAUDE.md`, ou caminho de script (`uv run python ...`) apontando para arquivo inexistente.
+- **raw_layout** — arquivos em `raw/` fora do esquema canônico: subpasta top-level fora da allowlist (`autores`, `mediuns`, `palestras`, `artigos`, `kardec`, `biblia-acf`, `assets`); slug não-kebab-case-ASCII; sufixo artefato (`_compress`, `-min`, `c3a[0-9a-f]`); arquivo solto direto em `mediuns/<medium>/` sem camada de autor espiritual; `<slug>.pdf` sem diretório homônimo; imagens `_page_*` soltas fora de `assets/`; `summary-*.md` em `palestras/` fora de `_summaries/`. Migração via `uv run python scripts/normalize_raw_layout.py --dry-run` (e `--apply` quando aprovado).
 - **broken_urls** — URLs externas retornando erro (só aparece se `--check-urls` foi passado).
 
 ### Info
