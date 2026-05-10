@@ -21,8 +21,8 @@ status: ativo
 - **Data:** 2002 (1ª ed., ©2002 Centro Espírita Caminho da Redenção); ed. consultada — 7ª ed., 2013, 188 p., ISBN 978-85-61879-93-8
 - **Estrutura:** prefácio "Triunfo Pessoal" + 11 capítulos com 3 subseções cada
 - **Nível:** 3 — Complementar aprovado
-- **Posição na série:** **vol. 12 da Série Psicológica** de Joanna de Ângelis, sucessor de [[wiki/obras/o-despertar-do-espirito]] (vol. 10, 2000) e [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] (Especial vol. 11, 2000). O CIP do livro registra explicitamente "Série Psicológica, volume 12" — apesar do filename em `raw/` usar "DPF_JA-13", a numeração canônica é a do CIP.
-- **Texto integral:** [[raw/mediuns/divaldo-franco/DPF_JA-13-Triunfo_Pessoal/DPF_JA-13-Triunfo_Pessoal]]
+- **Posição na série:** **vol. 12 da Série Psicológica** de Joanna de Ângelis, sucessor de [[wiki/obras/o-despertar-do-espirito]] (vol. 10, 2000) e [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] (Especial vol. 11, 2000). O CIP do livro registra explicitamente "Série Psicológica, volume 12" — apesar do filename em `raw/` usar `dpf-ja-13`, a numeração canônica é a do CIP.
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal/dpf-ja-13-triunfo-pessoal]]
 
 ## Tese central
 
@@ -142,7 +142,7 @@ Nenhuma divergência estrutural com Kardec identificada. O vocabulário junguian
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Triunfo Pessoal*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2002 (1ª ed.). 7. ed., 2013, 188 p. Série Psicológica vol. 12. ISBN 978-85-61879-93-8. Edição: [[raw/mediuns/divaldo-franco/DPF_JA-13-Triunfo_Pessoal/DPF_JA-13-Triunfo_Pessoal]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Triunfo Pessoal*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2002 (1ª ed.). 7. ed., 2013, 188 p. Série Psicológica vol. 12. ISBN 978-85-61879-93-8. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal/dpf-ja-13-triunfo-pessoal]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 919 (Conhece-te a ti mesmo); q. 459-465 (influência dos Espíritos).
 - Kardec, Allan. *O Evangelho segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. (Tripartição Espírito-perispírito-matéria; Mt 5:25-26 como matriz da reconciliação com as paixões internas.)
 - Bíblia. Mateus 5:25-26 (cap. 10 da obra); João 14:16 (Consolador, prefácio).

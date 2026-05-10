@@ -28,7 +28,7 @@ status: ativo
 - **CDD:** 133.90
 - **Nível na hierarquia da wiki:** 3 — Complementar consagrado
 - **Posição na série:** **vol. 16 (Especial)** da Série Psicológica de Joanna de Ângelis, sucessor cronológico de [[wiki/obras/em-busca-da-verdade]] (vol. 15, 2009). Publicado em **homenagem ao sesquicentenário de [[wiki/obras/livro-dos-mediuns|O Livro dos Médiuns]]** (1861-2011), conforme declarado em nota de rodapé do cap. 11 — análogo a *[[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]]* (vol. 14, 2007), homenagem ao sesquicentenário de [[wiki/obras/livro-dos-espiritos|O Livro dos Espíritos]].
-- **Texto integral:** [[raw/mediuns/divaldo-franco/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]]
 
 ## Tese central
 
@@ -177,7 +177,7 @@ Encerra com a parábola moderna do **carneiro e o menino em Boston** — Eduardo
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Psicologia da Gratidão*. 3. ed. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2014. 240 p. (Série Psicológica – Especial, vol. 16). ISBN 978-85-8266-060-7. 1ª ed.: 2011 (assinatura final em 1° de janeiro de 2011). Edição: [[raw/mediuns/divaldo-franco/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Psicologia da Gratidão*. 3. ed. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2014. 240 p. (Série Psicológica – Especial, vol. 16). ISBN 978-85-8266-060-7. 1ª ed.: 2011 (assinatura final em 1° de janeiro de 2011). Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. XIV, item 9 (mensagem de Santo Agostinho de 1862, citada literalmente na obra).
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 540 (princípio inteligente), q. 660-663 (Lei de Adoração — gratidão como prece), q. 919 (vontade firme), q. 920-933 (felicidade e infelicidade).
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. (Obra homenageada pelo sesquicentenário 1861-2011, cap. 11.)

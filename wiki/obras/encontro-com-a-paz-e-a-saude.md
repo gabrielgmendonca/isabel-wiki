@@ -22,7 +22,7 @@ status: ativo
 - **Estrutura:** prefácio "Encontro com a paz e a saúde" + 11 capítulos com 3 subseções cada e bloco final *Temas para reflexão* (questão de LE/LM/OQE + versículo evangélico)
 - **Nível:** 3 — Complementar aprovado
 - **Posição na série:** **vol. 14 da Série Psicológica** de Joanna de Ângelis, sucessor direto de [[wiki/obras/conflitos-existenciais]] (vol. 13, 2005). Publicado em homenagem ao **Sesquicentenário de [[wiki/obras/livro-dos-espiritos|O Livro dos Espíritos]]** (1857–2007), declarada no prefácio: *"em homenagem ao Sesquicentenário de O Livro dos Espíritos, do egrégio codificador Allan Kardec, este especial tratado de higiene mental e psicoterapêutico"*.
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Encontro_com_a_Paz_e_a_Saude/Joanna_de_Angelis__Encontro_com_a_Paz_e_a_Saude]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-encontro-com-a-paz-e-a-saude/joanna-de-angelis-encontro-com-a-paz-e-a-saude]]
 
 ## Tese central
 
@@ -149,7 +149,7 @@ Nenhuma divergência estrutural com Kardec identificada. Dois pontos de aprofund
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Encontro com a Paz e a Saúde*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª edição, 2007 (assinatura 24 de dezembro de 2006). Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Encontro_com_a_Paz_e_a_Saude/Joanna_de_Angelis__Encontro_com_a_Paz_e_a_Saude]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Encontro com a Paz e a Saúde*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª edição, 2007 (assinatura 24 de dezembro de 2006). Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-encontro-com-a-paz-e-a-saude/joanna-de-angelis-encontro-com-a-paz-e-a-saude]].
 - Kardec, Allan. *O Livro dos Espíritos* (questões 122, 200, 474, 540, 631, 744, 755, 784, 817, 919; comentários a 917 e 630). 29ª edição da FEB, tradução de Guillon Ribeiro.
 - Kardec, Allan. *O Livro dos Médiuns*, capítulo XXIII (sobre obsessões: simples, fascinação, subjugação) — referenciado em nota da autora espiritual.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, Conclusão III.

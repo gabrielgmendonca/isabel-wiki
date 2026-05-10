@@ -22,7 +22,7 @@ status: ativo
 - **Estrutura:** prefácio "Em busca da verdade" + 10 capítulos com 3 subseções cada
 - **Nível:** 3 — Complementar aprovado
 - **Posição na série:** **vol. 15 da Série Psicológica** de Joanna de Ângelis, sucessor direto de [[wiki/obras/encontro-com-a-paz-e-a-saude]] (vol. 14, 2007). Mesmo padrão estrutural 11 capítulos × 3 subseções de *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]* (vol. 12) e *[[wiki/obras/encontro-com-a-paz-e-a-saude|Encontro com a Paz e a Saúde]]* (vol. 14), agora com 10 capítulos.
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Em_Busca_da_Verdade/Joanna_de_Angelis__Em_Busca_da_Verdade]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade/joanna-de-angelis-em-busca-da-verdade]]
 
 ## Tese central
 
@@ -126,7 +126,7 @@ Ancoragem dupla: João 8:32 + Plotino (*Enéadas* VI). Define a **verdade buscad
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Em Busca da Verdade*. Salvador: LEAL — Livraria Espírita Alvorada Editora / Centro Espírita Caminho da Redenção, 1ª edição, 2009 (assinatura 20 de fevereiro de 2009). 240 p. ISBN 978-85-61879-09-9. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Em_Busca_da_Verdade/Joanna_de_Angelis__Em_Busca_da_Verdade]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Em Busca da Verdade*. Salvador: LEAL — Livraria Espírita Alvorada Editora / Centro Espírita Caminho da Redenção, 1ª edição, 2009 (assinatura 20 de fevereiro de 2009). 240 p. ISBN 978-85-61879-09-9. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade/joanna-de-angelis-em-busca-da-verdade]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 540 (citada em nota da autora espiritual no cap. 10), q. 621, q. 919.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB, 52ª edição. Cap. XVII, item 3 ("O homem de bem") — citado literal e extensamente no cap. 6 da obra.
 - *Bíblia Sagrada*. Lc 15:11–32 (Filho Pródigo, traduzido do original grego pelas Sociedades Bíblicas Unidas, conforme nota explícita da autora); Mt 25:14–30 (talentos); Mt 5:28; Mt 6:3; Mt 17:20; Mt 22:39; Jo 8:32; 1Co 15:55; Gl 2:20.

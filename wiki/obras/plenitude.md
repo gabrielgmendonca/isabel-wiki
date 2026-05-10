@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora
 - **Estrutura:** 14 capítulos (prólogo "Plenitude" + caps. I a XIV)
 - **Nível:** 3 — Complementar consagrado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_angelis_03_Plenitude/Joanna_de_angelis_03_Plenitude]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-03-plenitude/joanna-de-angelis-03-plenitude]]
 
 ## Tese central
 
@@ -124,7 +124,7 @@ A divisão em 14 capítulos segue, em primeiro arco, as Quatro Nobres Verdades; 
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Plenitude*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1991. 17ª edição.
-- Edição: [[raw/mediuns/divaldo-franco/Joanna_de_angelis_03_Plenitude/Joanna_de_angelis_03_Plenitude]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-03-plenitude/joanna-de-angelis-03-plenitude]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 132 (encarnação como expiação); q. 165 e comentário (perturbação após morte).
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Cap. XXIII, itens 249, 252, 254 (combate à obsessão).
 - Bíblia. Tiago 5:10-11 (epígrafe do cap. XIV); Mateus 8:20 (Filho do Homem); Mateus 19:21 (jovem rico).

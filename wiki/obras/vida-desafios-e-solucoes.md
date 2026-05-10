@@ -27,7 +27,7 @@ status: ativo
 - **Série:** Série Psicológica Joanna de Ângelis — **Volume 8**
 - **Estrutura:** prefácio "O milagre da vida" + 11 capítulos densos (não 30 brevíssimos como o Vol. 7)
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelispdf_compress/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelispdf_compress]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]]
 
 A nota editorial inicial registra dedicatória dupla: a obra é homenagem ao **140º aniversário de *O Livro dos Espíritos*** (18 de abril de 1857) e ao **cinquentenário da mediunidade de Divaldo** (iniciada em 27 de março de 1947, em Aracaju-SE).
 
@@ -166,7 +166,7 @@ Nenhuma divergência estrutural identificada. Pontos sensíveis avaliados como *
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Vida: Desafios e Soluções*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1997. 12ª ed., 2013, 176 p. Série Psicológica vol. 8. ISBN 978-85-61879-88-4. Edição: [[raw/mediuns/divaldo-franco/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelispdf_compress/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelispdf_compress]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Vida: Desafios e Soluções*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1997. 12ª ed., 2013, 176 p. Série Psicológica vol. 8. ISBN 978-85-61879-88-4. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 73 (morte aparente), q. 78-79 (preexistência do Espírito), q. 202-203 (laços familiares e mudança de sexo), q. 459-462 (pensamento como força), q. 919 (auto-conhecimento) como ancoragem das releituras reencarnacionistas e neurocientíficas.
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 1ª parte cap. VI (pensamento como agente), 2ª parte cap. XXIII (obsessão), item 205 (vinculações pretéritas) como ancoragem dos eixos psicodinâmico e mediúnico.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XIV item 8 (filhos como vínculos pretéritos), cap. XXVII ("Pedi e obtereis" — prece como ato pessoal).

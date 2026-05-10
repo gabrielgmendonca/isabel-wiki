@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora
 - **Estrutura:** 39 capítulos em 9 partes
 - **Nível:** 3 — Complementar consagrado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-homem-integral/joanna-de-angelis-o-homem-integral]]
 
 ## Tese central
 
@@ -116,7 +116,7 @@ Cap. 36 (**A morte e seu problema**) — o homem teme a morte porque receia a vi
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Homem Integral*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª edição, 1990.
-- Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__O_Homem_Integral/Joanna_de_Angelis__O_Homem_Integral]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-homem-integral/joanna-de-angelis-o-homem-integral]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621 (lei de Deus inscrita na consciência); q. 919 (Conhece-te a ti mesmo) e comentário de Santo Agostinho.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XVII (Sede perfeitos); cap. XII (Amai os vossos inimigos).
 - Bíblia. Mateus 6:34 ("a cada dia baste a sua aflição"); Mateus 22:39 ("amarás o teu próximo como a ti mesmo"); Gálatas 2:20.

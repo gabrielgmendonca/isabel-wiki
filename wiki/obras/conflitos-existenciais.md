@@ -22,7 +22,7 @@ status: ativo
 - **Estrutura:** prefácio "Conflitos Existenciais" + 20 capítulos breves no padrão tripartite **psicogênese / transtornos / terapia**
 - **Nível:** 3 — Complementar aprovado
 - **Posição na série:** **vol. 13 da Série Psicológica** de Joanna de Ângelis, sucessor direto de [[wiki/obras/triunfo-pessoal]] (vol. 12, 2002). Catalogado pelo CIP como "Série Psicológica - Especial, volume 13".
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Conflitos_Existenciais/Joanna_de_Angelis__Conflitos_Existenciais]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-conflitos-existenciais/joanna-de-angelis-conflitos-existenciais]]
 
 ## Tese central
 
@@ -175,7 +175,7 @@ Nenhuma divergência doutrinária com Kardec identificada. A obra cita literalme
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Conflitos Existenciais*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2005 (1ª ed.). 6. ed., 2014, 240 p. Série Psicológica - Especial vol. 13. ISBN 978-85-8266-057-7. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Conflitos_Existenciais/Joanna_de_Angelis__Conflitos_Existenciais]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Conflitos Existenciais*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2005 (1ª ed.). 6. ed., 2014, 240 p. Série Psicológica - Especial vol. 13. ISBN 978-85-8266-057-7. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-conflitos-existenciais/joanna-de-angelis-conflitos-existenciais]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. **Introdução** (diálogo de Sócrates com seus juízes — citado literalmente no cap. 20 da obra).
 - Kardec, Allan. *O Céu e o Inferno*. Trad. Manuel Justiniano Quintão. FEB, 1865 (1ª ed. francesa). **Homenagem declarada no prefácio** (140º aniversário em ago/2005).
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 919 (Conhece-te a ti mesmo — programa terapêutico subjacente).

@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora
 - **Estrutura:** 39 capítulos em 10 partes
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/o-ser-consciente/o-ser-consciente]]
 
 ## Tese central
 
@@ -116,6 +116,6 @@ Em **o homem consciente** (cap. 37), retoma Gurdjieff (homem adormecido / homem 
 ## Fontes
 
 - Franco, Divaldo Pereira (psicografia) / Joanna de Ângelis (autoria espiritual). *O Ser Consciente*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1993.
-- Edição: [[raw/mediuns/divaldo-franco/O-SER-CONSCIENTE/O-SER-CONSCIENTE]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/o-ser-consciente/o-ser-consciente]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 621 (lei de Deus inscrita na consciência); q. 919 (Conhece-te a ti mesmo) e comentário de Santo Agostinho.
 - Bíblia. Mateus 6:33; 22:39; João 18:36.

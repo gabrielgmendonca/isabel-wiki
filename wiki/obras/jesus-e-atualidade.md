@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora
 - **Estrutura:** prefácio + 20 capítulos breves no padrão "Jesus e X"
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-atualidade/jesus-e-atualidade]]
 
 ## Tese central
 
@@ -133,7 +133,7 @@ A obra opera inteiramente no nível 3 da hierarquia da wiki sem tensionar o nív
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1989.
-- Edição: [[raw/mediuns/divaldo-franco/Jesus-e-Atualidade_/Jesus-e-Atualidade_]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-atualidade/jesus-e-atualidade]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV (Ninguém pode ver o reino de Deus se não nascer de novo), cap. XVI (Não se pode servir a Deus e a Mamon), cap. XIX (A fé transporta montanhas), cap. XXVIII (Coleção de preces espíritas). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 132ss (lei de causa e efeito), q. 919 (conhece-te a ti mesmo). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (obsessão). Trad. Guillon Ribeiro. FEB.

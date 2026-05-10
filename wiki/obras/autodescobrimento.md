@@ -27,7 +27,7 @@ status: ativo
 - **Série:** Série Psicológica Joanna de Ângelis — **Volume 6**
 - **Estrutura:** 12 capítulos em ~46 seções
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/joanna-de-angelis-autodescobrimento-uma-busca-interior]]
 
 ## Tese central
 
@@ -160,7 +160,7 @@ Pontos sensíveis avaliados e categorizados como **desdobramentos**, não diverg
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1995. 17ª ed., 2013, 168 p. Série Psicológica vol. 6. ISBN 978-85-61879-74-7. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior/Joanna_de_Angelis__Autodescobrimento__Uma_Busca_Interior]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1995. 17ª ed., 2013, 168 p. Série Psicológica vol. 6. ISBN 978-85-61879-74-7. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/joanna-de-angelis-autodescobrimento-uma-busca-interior]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Cap. final sobre o Espírito após a última reencarnação ("Espírito bem-aventurado; puro Espírito"); q. 919 (Conhece-te a ti mesmo) como ancoragem implícita.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. X (Bem-aventurados os que perdoam) como referência da releitura do cap. 10.
 - Bíblia. Mateus 6:22-23 (cap. 3), 6:34 (cap. 8), 22:39 (cap. 6); 1 Coríntios 15:33 (cap. 6, atribuído a Paulo pela autora espiritual).

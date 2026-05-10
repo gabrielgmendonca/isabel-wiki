@@ -25,7 +25,7 @@ status: ativo
 - **Série:** Série Psicológica Joanna de Ângelis — **Volume 9**
 - **Estrutura:** prefácio + 63 capítulos breves em 13 partes
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Amor_Imbativel_Amor/Joanna_de_Angelis__Amor_Imbativel_Amor]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-amor-imbativel-amor/joanna-de-angelis-amor-imbativel-amor]]
 
 ## Tese central
 
@@ -141,7 +141,7 @@ A inversão é explicitamente pedagógica, não doutrinária — Joanna a aprese
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Amor, Imbatível Amor*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª ed. 1998. Série Psicológica vol. 9. Edição: [[raw/mediuns/divaldo-franco/Joanna_de_Angelis__Amor_Imbativel_Amor/Joanna_de_Angelis__Amor_Imbativel_Amor]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Amor, Imbatível Amor*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª ed. 1998. Série Psicológica vol. 9. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-amor-imbativel-amor/joanna-de-angelis-amor-imbativel-amor]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 873-919 (Lei de Justiça, Amor e Caridade).
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XI (Amar o próximo como a si mesmo); cap. XII (Amar os inimigos); cap. XV (Fora da caridade não há salvação).
 - Bíblia. Mateus 18:3-4 (citado no cap. 15 como nota da própria autora espiritual).

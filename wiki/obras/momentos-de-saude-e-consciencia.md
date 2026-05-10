@@ -27,7 +27,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora
 - **Estrutura:** duas partes de 20 capítulos breves cada (40 capítulos no total)
 - **Nível:** 3 — Complementar consagrado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/MOMENTOS_DE_SAUDE_E_CONSCIENCIA/MOMENTOS_DE_SAUDE_E_CONSCIENCIA]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/momentos-de-saude-e-consciencia]]
 
 ## Tese central
 
@@ -169,7 +169,7 @@ Duas partes independentes (psicografadas em momentos distintos) reunidas pela LE
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Saúde e Consciência*. Salvador: LEAL — Livraria Espírita Alvorada Editora.
-- Edição: [[raw/mediuns/divaldo-franco/MOMENTOS_DE_SAUDE_E_CONSCIENCIA/MOMENTOS_DE_SAUDE_E_CONSCIENCIA]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/momentos-de-saude-e-consciencia]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 408 (vozes psíquicas), q. 621 (lei de Deus na consciência), q. 630 (distinção bem/mal), q. 912 (abnegação), q. 919 (conhece-te a ti mesmo), q. 967 (felicidade dos bons espíritos).
 - Bíblia. João 8:32 (verdade libertadora); João 10:30 (Eu e meu Pai somos um); Mateus 22:37-39 (síntese do amor).
 - Jung, Carl Gustav (referência indireta em Parte 2 cap. 2 — três princípios universais e arquétipo coletivo).

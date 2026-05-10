@@ -24,7 +24,7 @@ status: ativo
 - **Série:** Série Psicológica Joanna de Ângelis — **Volume 7**
 - **Estrutura:** prefácio + 30 capítulos breves, cada um precedido por uma "ementa" em itálico do espírito orientador
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/DPF_JA-08-Desperte_e_seja_feliz/DPF_JA-08-Desperte_e_seja_feliz]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-08-desperte-e-seja-feliz/dpf-ja-08-desperte-e-seja-feliz]]
 
 ## Tese central
 
@@ -138,7 +138,7 @@ Nenhuma divergência estrutural identificada. Pontos sensíveis avaliados como *
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1996. 11ª ed., 2013, 136 p. Série Psicológica vol. 7. ISBN 978-85-61879-90-7. Edição: [[raw/mediuns/divaldo-franco/DPF_JA-08-Desperte_e_seja_feliz/DPF_JA-08-Desperte_e_seja_feliz]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Desperte e Seja Feliz*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1996. 11ª ed., 2013, 136 p. Série Psicológica vol. 7. ISBN 978-85-61879-90-7. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-08-desperte-e-seja-feliz/dpf-ja-08-desperte-e-seja-feliz]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 258-262 (escolha de provas), q. 873-919 (Lei de Justiça, Amor e Caridade), q. 1009-1010 (penas pedagógicas) como ancoragem de respectivamente cap. 6, cap. 22 e cap. 20.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. V (Bem-aventurados os aflitos), cap. X (Bem-aventurados os que perdoam), cap. XI (Amar o próximo como a si mesmo), cap. XXVII (Pedi e obtereis) como ancoragem dos eixos terapêuticos.
 - Kardec, Allan. *O Céu e o Inferno*. Trad. Manuel Quintão. FEB. 1ª parte, caps. VI-VII (penas progressivas e medicinais); 2ª parte, cap. VIII ("História de um empregado doméstico" — convergente com cap. 19).

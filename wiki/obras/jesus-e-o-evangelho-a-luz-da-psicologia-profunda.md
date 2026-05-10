@@ -26,7 +26,7 @@ status: ativo
 - **ISBN:** 978-85-8266-055-3
 - **Assinatura da Autora espiritual:** Salvador, 30 de junho de 2000
 - **Nível na hierarquia da wiki:** 3 — Complementar consagrado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/jesus-e-o-evangelho-c3a0-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-c3a2ngelis/jesus-e-o-evangelho-c3a0-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-c3a2ngelis]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis]]
 
 ## Estrutura
 
@@ -183,6 +183,6 @@ Comenta ESE III, item 3 (Jo 14:2 — "Há muitas moradas na casa de meu Pai"). A
 
 ## Fontes
 
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e o Evangelho à Luz da Psicologia Profunda*. 5. ed. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2014. 256 p. (Série Psicológica – Especial, vol. 11). ISBN 978-85-8266-055-3. 1ª ed.: 2000. Edição: [[raw/mediuns/divaldo-franco/jesus-e-o-evangelho-c3a0-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-c3a2ngelis/jesus-e-o-evangelho-c3a0-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-c3a2ngelis]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e o Evangelho à Luz da Psicologia Profunda*. 5. ed. Salvador: LEAL — Livraria Espírita Alvorada Editora, 2014. 256 p. (Série Psicológica – Especial, vol. 11). ISBN 978-85-8266-055-3. 1ª ed.: 2000. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. (Obra-base comentada por Joanna nesta volume — caps. I a XXVII.)
 - Bíblia. Mateus, Marcos, Lucas, João — versículos comentados nos epígrafes de cada capítulo.

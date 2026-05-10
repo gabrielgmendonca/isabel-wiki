@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** LEAL — Livraria Espírita Alvorada Editora, 1ª edição, 1990
 - **Estrutura:** prefácio + 20 capítulos curtos
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]]
+- **Texto integral:** [[raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-felicidade/momentos-de-felicidade]]
 
 ## Tese central
 
@@ -118,7 +118,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 ## Fontes
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*. Salvador: LEAL — Livraria Espírita Alvorada Editora, 1ª edição, 1990.
-- Edição: [[raw/mediuns/divaldo-franco/momentos-de-felicidade/momentos-de-felicidade]].
+- Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-felicidade/momentos-de-felicidade]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (Bem-aventurados os aflitos), cap. XXVII (Pedi e obtereis). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XIV (Médiuns curadores), cap. XV (Médiuns sonâmbulos e curadores), cap. XXIV (Identificação dos Espíritos). Trad. Guillon Ribeiro. FEB.
 - Bíblia. Mateus 13:2 (Jesus na barca); Lucas 16:9; João 14:12.
