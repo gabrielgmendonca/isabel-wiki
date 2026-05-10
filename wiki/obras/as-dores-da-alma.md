@@ -22,7 +22,7 @@ Comentário psicológico-doutrinário ao *O Livro dos Espíritos*, psicografado 
 - **Editora:** Boa Nova — Editora e Distribuidora de Livros Espíritas (Catanduva-SP)
 - **Gênero:** comentário psicológico ao LE; reflexões morais articuladas com a psicologia contemporânea
 - **Ancoragem doutrinária:** cada comentário cita literalmente uma questão do LE (tradução de Guillon Ribeiro, FEB)
-- **Texto integral:** [[raw/mediuns/francisco-neto/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA]]
+- **Texto integral:** [[raw/mediuns/francisco-neto/diversos/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]]
 
 ## Estrutura
 
@@ -180,5 +180,5 @@ Não foram identificadas divergências substantivas com o Pentateuco. Cada um do
 
 ## Fontes
 
-- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA]].
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/diversos/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]].
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Questões-âncora citadas ao longo da obra: 8, 13, 115, 179, 239, 250, 255, 264, 320, 558, 559, 564, 585, 631, 636, 681, 697, 713, 715, 723, 725, 754, 762, 771, 811, 817, 827, 837, 851, 860, 863, 871, 873, 882, 903, 908, 917, 938, 940, 974, 975, 1000, 1007.

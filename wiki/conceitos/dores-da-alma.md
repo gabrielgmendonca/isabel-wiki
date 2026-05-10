@@ -125,4 +125,4 @@ Não há divergência substantiva com Kardec. O conceito é um **aprofundamento 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Q. 636 (bem e mal relativos), q. 754 (senso moral em estado embrionário), q. 903 (estudar defeitos alheios), Conclusão item III (autoexame).
-- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA]].
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/diversos/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]].

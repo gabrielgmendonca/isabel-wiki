@@ -48,4 +48,4 @@ Hammed encerra a dedicatória citando Pascal: *"O coração tem razões que a pr
 
 ## Fontes
 
-- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA/FRANCISCO-DO-ESPIRITO-SANTO-NETO-AS-DORES-DA-ALMA]].
+- ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. 1ª ed. 1998. Edição: [[raw/mediuns/francisco-neto/diversos/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]].

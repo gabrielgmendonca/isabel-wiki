@@ -320,8 +320,28 @@ def apply_renames(plan: list[tuple[Path, Path]]) -> None:
 
     Para case-only renames em FS case-insensitive (APFS), usa rename via
     arquivo temporário para evitar colisão.
+
+    Quando o plano contém um rename de diretório seguido de renames de
+    filhos com o caminho antigo, remapeamos o `src` de cada entry através
+    dos diretórios já renomeados. Sem isso, a segunda entry tenta mexer
+    em um caminho que deixou de existir após o primeiro `git mv`.
     """
+    dir_renames: list[tuple[Path, Path]] = []
+
+    def _rewrite(p: Path) -> Path:
+        for old_dir, new_dir in dir_renames:
+            try:
+                rel = p.relative_to(old_dir)
+            except ValueError:
+                continue
+            return new_dir / rel
+        return p
+
     for src, dst in plan:
+        src = _rewrite(src)
+        dst = _rewrite(dst)
+        if src == dst:
+            continue
         dst.parent.mkdir(parents=True, exist_ok=True)
         if _is_same_file_case_insensitive(src, dst):
             tmp = src.parent / f".{src.name}.case-tmp"
@@ -329,6 +349,8 @@ def apply_renames(plan: list[tuple[Path, Path]]) -> None:
             _git_mv(tmp, dst)
         else:
             _git_mv(src, dst)
+        if dst.is_dir():
+            dir_renames.append((src, dst))
 
 
 def main() -> int:
