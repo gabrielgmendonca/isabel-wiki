@@ -52,4 +52,4 @@ Faz dupla com André Luiz no curso de mediunidade ministrado por Áulus. Suas pe
 
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949.
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].

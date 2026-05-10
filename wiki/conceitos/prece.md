@@ -137,5 +137,5 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XXVII ("Pedi e obtereis"), itens 1–22; cap. XXVIII ("Coletânea de preces espíritas").
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 3, cap. II (q. 658–673) — "Lei de adoração: da prece".
 - Denis, Léon. *O Grande Enigma*, caps. III, VII–VIII. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 6, 19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 6, 19. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Cap. 1.

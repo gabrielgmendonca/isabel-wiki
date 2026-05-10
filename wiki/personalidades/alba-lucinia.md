@@ -37,4 +37,4 @@ No plano espiritual, reúne-se aos seus na esfera de repouso de Cneio Lucius. Na
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].

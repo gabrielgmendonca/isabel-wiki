@@ -154,7 +154,7 @@ Acrescente-se uma sexta, transversal: **continuidade de cultivo evangélico**. A
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 3, 5-13. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 3, 5-13. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XX (Influência moral do médium); cap. XXII (Mediunidade nos animais); cap. XXVIII (Médiuns imperfeitos). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXIV (Não conhecer pelos efeitos). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Viagem Espírita em 1862* — instruções aos grupos. Trad. Wallace Leal V. Rodrigues. FEB.

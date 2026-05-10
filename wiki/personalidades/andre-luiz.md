@@ -70,16 +70,16 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
-- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/e-a-vida-continua]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
+- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].

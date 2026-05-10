@@ -79,4 +79,4 @@ A trajetória **Pólux → Antero → Robbie** é, em toda a literatura de Emman
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1B, 2B, 4B, 6B, 7B (Pólux/Antero); 7B, 1A, 2A (Robbie). Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1B, 2B, 4B, 6B, 7B (Pólux/Antero); 7B, 1A, 2A (Robbie). Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].

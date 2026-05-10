@@ -73,4 +73,4 @@ O caso **Joãozinho** (cap. 36) tipifica o limite do culto: a presença de um me
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 654-672 (Lei de Adoração). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].

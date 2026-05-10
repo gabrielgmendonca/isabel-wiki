@@ -244,7 +244,7 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV–XXII (itens 159–236).
 - Denis, Léon. *O Grande Enigma*, cap. VII; notas complementares 4–6. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Caps. 1, 2, 16, 30 (tese da mente, psicoscópio, mandato, mediunidade ontológica universal). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos (fisiologia sutil, onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo, Jesus e mediunidade). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 1–2, 9, 16–19. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Caps. 1, 2, 16, 30 (tese da mente, psicoscópio, mandato, mediunidade ontológica universal). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos (fisiologia sutil, onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo, Jesus e mediunidade). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].

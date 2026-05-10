@@ -20,7 +20,7 @@ status: rascunho
 - **Editora:** FEB
 - **Gênero:** tratado doutrinário sobre o corpo espiritual + Q&A sobre temas correlatos
 - **Local de psicografia:** Pedro Leopoldo (jan–jun/1958) e Uberaba (jan–jun/1958) — capítulos psicografados nas duas cidades antes da transferência oficial para Uberaba (1959)
-- **Texto integral:** [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Edm/EdmPref1.htm)
 
 > [!info] Coautoria mediúnica
@@ -164,5 +164,5 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 
 ## Fontes
 
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Edm/EdmPref1.htm>

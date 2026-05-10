@@ -48,4 +48,4 @@ A obra explicita, no sonho do capítulo "Dois amigos", a conexão entre Públio 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].

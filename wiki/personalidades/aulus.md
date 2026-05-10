@@ -53,4 +53,4 @@ Conduz André Luiz e Hilário em curso de 30 capítulos por duas reuniões espí
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].

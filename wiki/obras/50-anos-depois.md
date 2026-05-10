@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1939
 - **Editora:** FEB
 - **Gênero:** romance histórico psicografado — continuação narrativa de [[wiki/obras/ha-dois-mil-anos]], centrado em Célia
-- **Texto integral:** [[raw/mediuns/chico-xavier/50-anos-depois]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Cad/CadPref.htm)
 
 ## Estrutura
@@ -119,5 +119,5 @@ Não há divergência doutrinária inédita identificada nesta obra. A leitura s
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Cad/CadPref.htm>

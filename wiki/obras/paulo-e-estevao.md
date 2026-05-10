@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1942
 - **Editora:** FEB (512 p., brochura)
 - **Gênero:** romance histórico psicografado — terceiro volume do ciclo romano de Emmanuel/Chico, entre [[wiki/obras/50-anos-depois|50 Anos Depois]] (1939) e [[wiki/obras/ave-cristo|Ave, Cristo!]] (1953); narrativa central da era apostólica, entre Damasco (c. 34) e o martírio de Paulo em Roma sob Nero (c. 67)
-- **Texto integral:** [[raw/mediuns/chico-xavier/paulo-e-estevao]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Pe/PePref.htm)
 - **Substrato bíblico:** [[wiki/obras/atos-dos-apostolos|Atos dos Apóstolos]] (caps. 6-9; 22:3-21; 26:12-18; 28:30-31), 1 Coríntios 15:8-10, Gálatas 1:11-24, Filipenses 3:4-14, 1 Timóteo 1:12-16, 2 Timóteo 4:6-21, 2 Coríntios 11:22-33; 12:1-4
 
@@ -244,7 +244,7 @@ Outras tensões menores **não** justificam callout próprio:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (512 p., brochura). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (512 p., brochura). Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Pe/PePref.htm>
 - *Bíblia Sagrada* (Almeida Corrigida e Fiel). Substrato neotestamentário do romance:
   - **Atos dos Apóstolos** caps. 6 (eleição dos sete diáconos); 7 (sermão e martírio de Estêvão); 8:1-3 (perseguição organizada por Saulo); 9:1-19 (conversão de Damasco — narrativa de Lucas); 22:3-21 (defesa em Jerusalém — autorrelato); 26:12-18 (defesa diante de Agripa — autorrelato); 28:30-31 (final aberto de Atos). Página da wiki: [[wiki/obras/atos-dos-apostolos]].

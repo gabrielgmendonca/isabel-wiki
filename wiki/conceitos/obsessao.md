@@ -292,11 +292,11 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XXVIII, item 83. Trad. Guillon Ribeiro. FEB.
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023.
 - EELDE. "Jesus Ensina em Cafarnaum". Disponível em: <https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO>.
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. FEB, 1946. Cap. 7. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14, 16. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/libertacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. FEB, 1946. Cap. 7. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14, 16. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Caps. 9, 12, 15, 16. Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 3–4, 22–23.
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].

@@ -98,8 +98,8 @@ Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 1–2 e cap. 12. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 4–10. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 1, 2, 9, 19. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 1–2 e cap. 12. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 4–10. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 1, 2, 9, 19. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113, 149–165. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, caps. III, VI, VII; 2ª parte, caps. IV–V. Trad. Manuel Quintão. FEB.

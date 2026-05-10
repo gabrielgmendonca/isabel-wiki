@@ -76,4 +76,4 @@ A formulação tem matriz evangélica explícita ("não me chameis bom; um só �
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].

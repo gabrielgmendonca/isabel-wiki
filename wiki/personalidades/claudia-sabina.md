@@ -35,4 +35,4 @@ No plano espiritual, Cláudia Sabina passa a habitar as **regiões mais sombrias
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].

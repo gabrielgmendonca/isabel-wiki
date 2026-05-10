@@ -71,7 +71,7 @@ A metáfora reorganiza a hierarquia de prioridades na formação do médium:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 3, 5-6. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 3, 5-6. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XX (Influência moral do médium), itens 220-228; cap. XXVIII (Médiuns imperfeitos). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXIV. Trad. Guillon Ribeiro. FEB.
 - Bíblia ACF — 2 Coríntios 3:2-3.

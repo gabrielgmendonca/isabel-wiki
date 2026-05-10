@@ -40,5 +40,5 @@ A presença de Pilatos no romance é o fio que conecta a esfera política do Imp
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
 - EUSÉBIO DE CESAREIA. *História Eclesiástica*, livro II, cap. 7 (referência ao banimento e suicídio).

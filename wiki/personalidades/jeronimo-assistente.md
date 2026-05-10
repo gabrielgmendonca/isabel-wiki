@@ -74,4 +74,4 @@ A função se aproxima do **Sertório** auxiliar de Alexandre em *Missionários 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 1–20. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Caps. 1–20. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].

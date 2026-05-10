@@ -19,7 +19,7 @@ status: rascunho
 - **Primeira edição:** 1959
 - **Editora:** FEB
 - **Gênero:** tratado doutrinário sobre a fisiologia sutil da mediunidade
-- **Texto integral:** [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Mdm/MdmPref2.htm)
 
 > [!info] Coautoria mediúnica
@@ -121,5 +121,5 @@ Sem divergências doutrinárias estruturais identificadas. Os pontos em que Andr
 
 ## Fontes
 
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Mdm/MdmPref2.htm>

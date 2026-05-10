@@ -124,4 +124,4 @@ Para o estudante, a q. 132 oferece três critérios para examinar a própria vid
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. II — "Da encarnação dos Espíritos", q. 132–148. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. II — "A alma" (q. 134–141), "Materialismo" (q. 145–148); Cap. VII — "Retorno do Espírito à vida corporal" (q. 330–399).
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo", itens 16–18 (necessidade da encarnação para o progresso). Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Parte I, cap. 1 — "Fluido cósmico" (co-criação em plano maior e em plano menor). Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Parte I, cap. 1 — "Fluido cósmico" (co-criação em plano maior e em plano menor). Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].

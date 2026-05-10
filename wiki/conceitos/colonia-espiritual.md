@@ -66,6 +66,6 @@ Toda colônia exerce função de **filtro vibratório** entre o [[wiki/conceitos
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113, 223–236. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. VI. Trad. Guillon Ribeiro. FEB.

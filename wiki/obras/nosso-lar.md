@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1944
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (1º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/nosso-lar]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Nl/NlPref2.htm)
 
 ## Estrutura
@@ -136,5 +136,5 @@ Personagens secundários sem página própria (mencionados em prosa): Henrique d
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. 50 capítulos. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. 50 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Nl/NlPref2.htm>

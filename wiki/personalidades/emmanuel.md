@@ -59,15 +59,15 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
-- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
-- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942. Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]].
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Edição: [[raw/mediuns/chico-xavier/renuncia]].
-- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942. Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
-- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/fonte-viva]].
-- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/palavras-de-vida-eterna]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/emmanuel/caminho-verdade-e-vida]].
+- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/emmanuel/pao-nosso]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]].
+- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].

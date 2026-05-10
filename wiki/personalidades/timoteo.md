@@ -109,4 +109,4 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XVII (concurso entre encarnados na obra do progresso).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 200–202 (escolha das provas e da família), q. 211 (laços de família), q. 919 (caridade pelo exemplo).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XIV (fluidos e ação fluídica).
-- André Luiz / Chico Xavier. *Obreiros da Vida Eterna*. FEB, 1946. Capítulo onde Asclépios cita 1 Tm 6:11 como prescrição moral ao Irmão Raimundo, do grupo socorrista de assistência aos loucos. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- André Luiz / Chico Xavier. *Obreiros da Vida Eterna*. FEB, 1946. Capítulo onde Asclépios cita 1 Tm 6:11 como prescrição moral ao Irmão Raimundo, do grupo socorrista de assistência aos loucos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].

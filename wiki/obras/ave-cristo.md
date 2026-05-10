@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1953
 - **Editora:** FEB
 - **Gênero:** romance histórico psicografado — quarto volume do ciclo romano de Emmanuel/Chico, na sequência de [[wiki/obras/ha-dois-mil-anos]] (Tibério/[[wiki/personalidades/poncio-pilatos|Pilatos]]/Nero), [[wiki/obras/50-anos-depois]] (Adriano/Antonino), e *Paulo e Estêvão* (1942, ainda sem página própria na wiki)
-- **Texto integral:** [[raw/mediuns/chico-xavier/ave-cristo]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Avc/AvcPref.htm)
 
 ## Estrutura
@@ -111,5 +111,5 @@ Outras tensões menores **não** justificam callout próprio:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Avc/AvcPref.htm>

@@ -64,5 +64,5 @@ Reaparece na série em outros livros coordenando serviços do Templo do Socorro.
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954.

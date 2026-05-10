@@ -104,10 +104,10 @@ A função doutrinária do conjunto na hierarquia da wiki é nível 3 (consagrad
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
-- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/fonte-viva]].
-- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/palavras-de-vida-eterna]].
+- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/emmanuel/caminho-verdade-e-vida]].
+- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/emmanuel/pao-nosso]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]].
+- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]].
 - KARDEC, Allan. *O Evangelho segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. V, XI, XII, XV, XVII, XVIII, XXVII (referências cruzadas internas).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XVII (Espiritismo como Consolador prometido).

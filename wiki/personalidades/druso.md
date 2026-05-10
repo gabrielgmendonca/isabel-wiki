@@ -48,4 +48,4 @@ A obra fecha com a **revelação tríplice** (cap. 20): Druso é pai pretérito 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].

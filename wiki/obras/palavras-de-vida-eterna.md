@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1964 (proêmio datado de Uberaba, 14/09/1964)
 - **Editora:** FEB
 - **Gênero:** coletânea evangélica em forma de epígrafe + comentário pastoral
-- **Texto integral:** [[raw/mediuns/chico-xavier/palavras-de-vida-eterna]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Pve/PvePref.htm)
 
 ## Estrutura
@@ -117,5 +117,5 @@ Além dos seis eixos acima, recorrências menores:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/palavras-de-vida-eterna]].
+- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]].
 - Disponível também em: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Pve/PvePref.htm) (transcrição online não-oficial).

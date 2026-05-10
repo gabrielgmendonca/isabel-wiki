@@ -52,6 +52,6 @@ E, sobre o objetivo do registro evangélico:
 
 ## Fontes
 
-- Prefácio "Na Escola do Evangelho" — Edição: [[raw/mediuns/chico-xavier/boa-nova]].
+- Prefácio "Na Escola do Evangelho" — Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941.
 - Biografia encarnada e contexto da Academia Brasileira de Letras: registros públicos da ABL, cadeira 20.

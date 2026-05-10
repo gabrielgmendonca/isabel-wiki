@@ -185,7 +185,7 @@ A doutrina é **conservadora em substância** (não relativiza o crime, não aut
 
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 344-360 (União da alma e do corpo. Aborto), q. 750-751 (infanticídio). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *Revista Espírita — Jornal de Estudos Psicológicos*, ano I, mar/1858, "Palestras familiares de além-túmulo" (nota redacional sobre o instante da união alma-corpo, em referência a *O Livro dos Espíritos*, n.º 344 e seguintes). Edição: [[raw/kardec/revista-espirita/1858/03-marco]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13-14. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Cap. 17 (Aborto), cap. 26 (cláusula final pastoral). Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13-15 (planejamento reencarnatório, fracasso reencarnatório por leviandade — caso Cesarina). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Caso Evelina Serpa (aborto terapêutico). Edição: [[raw/mediuns/chico-xavier/e-a-vida-continua]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13-14. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Cap. 17 (Aborto), cap. 26 (cláusula final pastoral). Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13-15 (planejamento reencarnatório, fracasso reencarnatório por leviandade — caso Cesarina). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Caso Evelina Serpa (aborto terapêutico). Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].

@@ -70,4 +70,4 @@ A pedagogia do livro inteiro está aí: a tipologia das mediunidades é inferida
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 2 (introdução), caps. 3, 5, 9, 16 (usos). Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 2 (introdução), caps. 3, 5, 9, 16 (usos). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].

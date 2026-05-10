@@ -67,4 +67,4 @@ Em flashback do cap. 5B, a pequena Alcíone pergunta: *"Padre Damiano, onde é a
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1A, 2A, 5B, 6B, 7A. Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1A, 2A, 5B, 6B, 7A. Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].

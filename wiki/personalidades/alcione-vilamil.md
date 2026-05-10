@@ -60,4 +60,4 @@ A obra apresenta Alcíone como **alma com longa história de devotamento** — [
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1A, 1B, 3A, 5B, 6B, 7A. Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Caps. 1A, 1B, 3A, 5B, 6B, 7A. Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].

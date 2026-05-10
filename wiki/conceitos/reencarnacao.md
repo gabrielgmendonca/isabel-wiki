@@ -128,6 +128,6 @@ Articula em chave narrativa o que LE q. 258 (escolha das provas) e q. 330 (exame
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. IV — "Ninguém poderá ver o reino de Deus se não nascer de novo". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, Parte 2 (caps. 13–19). Trad. Homero Dias de Carvalho. CELD, 2011.
 - Denis, Léon. *Cristianismo e Espiritismo*, caps. III–IV, VI; nota complementar nº 5. Trad. Albertina Escudeiro Sêco. CELD, 2012.
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 13–15 (planejamento reencarnatório, fecundação assistida, fracasso). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Caps. 13–15 (planejamento reencarnatório, fecundação assistida, fracasso). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954. Caps. 28–29.
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Cap. "Dois amigos" (tribunal espiritual e programa expiatório). Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Cap. "Dois amigos" (tribunal espiritual e programa expiatório). Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].

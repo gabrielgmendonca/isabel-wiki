@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1944 (prefácio assinado em Pedro Leopoldo, 26/02/1944)
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (2º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/os-mensageiros]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Om/OmPref.htm)
 
 ## Estrutura
@@ -168,5 +168,5 @@ Personagens secundários sem página própria (mencionados em prosa): Vicente (m
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. 51 capítulos. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. 51 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Om/OmPref.htm>

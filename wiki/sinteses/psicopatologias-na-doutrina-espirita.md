@@ -178,12 +178,12 @@ A figura síntese é o cap. 6 de *Triunfo Pessoal* relido em chave de palestra: 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. V, XXVII-XXVIII; Introdução (Sócrates).
 - Kardec, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XVIII, itens 27-28.
 - Kardec, Allan. *Revista Espírita*. Dez/1862 ("Estudo sobre os possessos de Morzine — Causas da obsessão e meios de combate"); fev/1866 (casos de Cazères e Marmande); jul/1866 ("Estatística da loucura"). Edição: [[raw/kardec/revista-espirita/1862/12-dezembro]], [[raw/kardec/revista-espirita/1866/02-fevereiro]], [[raw/kardec/revista-espirita/1866/07-julho]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14 e 16. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 18. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. FEB, 1947. Caps. 14 e 16. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. FEB, 1949. Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
 - XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. FEB, 1954.
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9, 10, 23, 24. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias). Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9, 10, 23, 24. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Triunfo Pessoal*. Salvador: LEAL, 2002. Caps. 6-8 (núcleo clínico). Série Psicológica vol. 12.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Conflitos Existenciais*. Salvador: LEAL, 2005. 20 capítulos no padrão psicogênese/transtornos/terapia. Série Psicológica vol. 13.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Encontro com a Paz e a Saúde*. Salvador: LEAL, 2007. Cap. 6 (releitura clínica das obsessões kardequianas). Série Psicológica vol. 14.

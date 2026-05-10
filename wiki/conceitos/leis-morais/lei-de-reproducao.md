@@ -94,6 +94,6 @@ As quatro normas operacionalizam diretamente q. 693a (regular sem opor obstácul
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. IV (q. 686–701). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].

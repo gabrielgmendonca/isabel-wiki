@@ -85,4 +85,4 @@ Sinais de que a educação está sendo bem conduzida: o médium **aceita a crít
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte, cap. XVII (Da formação dos médiuns, itens 200–220), cap. XVIII (Dos inconvenientes e perigos da mediunidade, itens 221–222), cap. XX (Da influência moral do médium, itens 226 e seguintes). Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - Kardec, Allan. *Viagem Espírita em 1862*, "Impressões gerais" — qualidades do bom médium (modéstia, simpatia, devotamento; aceitar e solicitar a crítica). Edição: [[raw/kardec/complementares/viagem-espirita-em-1862]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 9 (manifesto operacional). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 9 (manifesto operacional). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].

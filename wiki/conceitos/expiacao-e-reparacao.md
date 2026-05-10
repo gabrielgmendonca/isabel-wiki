@@ -91,4 +91,4 @@ Para o estudo pessoal, o conceito convida à reflexão sobre as provas da vida p
 ## Fontes
 
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. VII — "Código penal da vida futura", itens 16-17. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Cap. 6B (ciclo Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]] como ilustração narrativa da correspondência reparadora ato↔órgão e do reencontro reparador no mesmo lar). Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Cap. 6B (ciclo Antero → [[wiki/personalidades/antero-de-oviedo|Robbie]] como ilustração narrativa da correspondência reparadora ato↔órgão e do reencontro reparador no mesmo lar). Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].

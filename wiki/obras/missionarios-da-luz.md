@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1945
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (3º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/missionarios-da-luz]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Mdl/MdlPref.htm)
 
 ## Estrutura
@@ -191,5 +191,5 @@ Personagens secundários sem página própria (mencionados em prosa): Anacleto (
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. 20 capítulos. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. 20 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Mdl/MdlPref.htm>

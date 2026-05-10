@@ -39,4 +39,4 @@ Ao final (cap. 26), liberada de qualquer compromisso afetivo por Caio (que casou
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/e-a-vida-continua]].
+- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].

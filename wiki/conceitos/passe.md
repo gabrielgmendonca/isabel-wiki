@@ -111,6 +111,6 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XIV (Os médiuns curadores), itens 175-176; cap. XX (Influência moral do médium). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - Kardec, Allan. *A Gênese*, cap. XIV (Os fluidos), itens 13-50. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. V, XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 19, 22, 25. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 17. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 19, 22, 25. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 17. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - Bíblia ACF — Mc 6:5; Mt 8:3; Lc 4:40; At 9:17; At 28:8.

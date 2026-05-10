@@ -21,7 +21,7 @@ status: ativo
 - **Primeira edição:** 1941
 - **Editora:** FEB
 - **Gênero:** narrativa evangélica em trinta episódios curtos — "folclore espiritual do Cristianismo" (auto-denominação do autor espiritual no prefácio)
-- **Texto integral:** [[raw/mediuns/chico-xavier/boa-nova]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Bn/BnPref.htm) (transcrição online não-oficial)
 
 ## Estrutura
@@ -109,5 +109,5 @@ Eixo organizador da obra. Cada cena dramatizada retoma um ou mais trechos dos Ev
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]].
 - Disponível também em: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Bn/BnPref.htm) (transcrição online não-oficial).

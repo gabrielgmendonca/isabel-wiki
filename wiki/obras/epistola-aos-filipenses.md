@@ -272,4 +272,4 @@ Ver [[raw/biblia-acf/filipenses/4]].
 - KARDEC, Allan. *Obras Póstumas*. Trad. Guillon Ribeiro. FEB. "Estudo sobre a natureza do Cristo" (9 seções).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte cap. XX (sintonia mediúnica); cap. XXIII (prevenção da obsessão).
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Esp. caps. 1–3, 10–12 (Jesus como Sublime Missionário e governador espiritual da Terra).
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 6 (prece como vibração energética). Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 6 (prece como vibração energética). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].

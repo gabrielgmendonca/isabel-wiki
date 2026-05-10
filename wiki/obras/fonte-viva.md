@@ -19,7 +19,7 @@ status: ativo
 - **Primeira edição:** 1956
 - **Editora:** FEB
 - **Gênero:** coletânea evangélica em forma de epígrafe + comentário pastoral
-- **Texto integral:** [[raw/mediuns/chico-xavier/fonte-viva]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Fv/FvPref.htm)
 
 ## Estrutura
@@ -170,5 +170,5 @@ A relação com [[wiki/obras/vinha-de-luz|Vinha de Luz]] (1952) é de **compleme
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/fonte-viva]].
+- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]].
 - Disponível também em: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Fv/FvPref.htm) (transcrição online não-oficial; cap. 77 *Pai Nosso* duplicado por artefato).

@@ -239,6 +239,6 @@ A pergunta-síntese de Kardec, do autoexame da Conclusão do LE, vale como fecho
 
 ### Complementares
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema 14 — "Rigidez" (três comentários, ancorados em LE q. 713, q. 762 e q. 908). Edição: [[raw/mediuns/francisco-neto/diversos/francisco-do-espirito-santo-neto-as-dores-da-alma/francisco-do-espirito-santo-neto-as-dores-da-alma]]. Disponível em: https://www.editoraboanova.com.br/.
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cavernas de sofrimento; o avô Cláudio (paixão pela posse cristalizada). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Colônia purgatorial dirigida por Gregório; redenção pelo amor de Matilde. Edição: [[raw/mediuns/chico-xavier/libertacao]].
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Tipologia tríplice da dor (evolução / expiação / auxílio). Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cavernas de sofrimento; o avô Cláudio (paixão pela posse cristalizada). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Colônia purgatorial dirigida por Gregório; redenção pelo amor de Matilde. Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Tipologia tríplice da dor (evolução / expiação / auxílio). Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].

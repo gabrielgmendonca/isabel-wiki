@@ -59,6 +59,6 @@ A senhora Laura observa: "no Ministério da Regeneração temos o Bônus-Hora-Re
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 13 e 22. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 13 e 22. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 674–685. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Viagem Espírita em 1862* — divisa "Fora da caridade não há salvação". FEB.

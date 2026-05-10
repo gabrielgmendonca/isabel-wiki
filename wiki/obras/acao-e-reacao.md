@@ -18,7 +18,7 @@ direitos:
 - **Primeira edição:** 1957
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (9º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/acao-e-reacao]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Aer/AerPref.htm)
 
 ## Estrutura
@@ -156,5 +156,5 @@ Druso renunciará à direção da casa para reencarnar primeiro; depois a esposa
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. 20 capítulos. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. 20 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Aer/AerPref.htm>

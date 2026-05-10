@@ -86,28 +86,28 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 ## Fontes
 
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
-- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/50-anos-depois]].
-- XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
-- XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/boa-nova]].
-- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]].
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Edição: [[raw/mediuns/chico-xavier/renuncia]].
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
-- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
-- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/libertacao]].
-- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/pao-nosso]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
-- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
-- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/fonte-viva]].
-- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/palavras-de-vida-eterna]].
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/mecanismos-da-mediunidade]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].
+- XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/emmanuel/caminho-verdade-e-vida]].
+- XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/emmanuel/pao-nosso]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]].
+- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Edição: [[raw/mediuns/chico-xavier/andre-luiz/entre-a-terra-e-o-ceu]].
+- XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]].
+- XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].

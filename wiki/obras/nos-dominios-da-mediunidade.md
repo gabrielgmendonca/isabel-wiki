@@ -19,7 +19,7 @@ status: ativo
 - **Primeira edição:** 1955
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (9º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Ndm/NdmPref.htm)
 
 ## Estrutura
@@ -128,5 +128,5 @@ Síntese final. Áulus amplia o conceito a categoria existencial: "o lavrador é
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. 30 capítulos.
-- Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Ndm/NdmPref.htm>

@@ -124,7 +124,7 @@ Couraça e fortaleza não são duas imagens para a mesma coisa. A couraça é in
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 24-25, 26, 33-39, 47. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 24-25, 26, 33-39, 47. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 658-672 (Lei de Adoração); q. 400-455 (Emancipação da alma). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. VIII (Visitas espirituais entre pessoas vivas); cap. XXIII (Obsessão). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII (Sobre a prece; Coletânea de preces espíritas). Trad. Guillon Ribeiro. FEB.

@@ -18,7 +18,7 @@ status: rascunho
 - **Primeira edição:** 1949
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (6º livro da série André Luiz, entre *No Mundo Maior* 1947 e *Entre a Terra e o Céu* 1954)
-- **Texto integral:** [[raw/mediuns/chico-xavier/libertacao]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/libertacao]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Lib/LibPref.htm)
 
 ## Estrutura
@@ -132,5 +132,5 @@ Nenhuma identificada. A descrição narrativa do umbral é desenvolvimento coere
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Libertação*. Rio de Janeiro: FEB, 1949. 20 capítulos.
-- Edição: [[raw/mediuns/chico-xavier/libertacao]].
+- Edição: [[raw/mediuns/chico-xavier/andre-luiz/libertacao]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Lib/LibPref.htm>

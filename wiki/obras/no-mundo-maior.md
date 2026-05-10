@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1947
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (5º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/no-mundo-maior]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]]
 
 ## Contexto na série
 
@@ -224,5 +224,5 @@ A "casa mental" não tem antecedente direto em Kardec mas não conflita com a to
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. 20 capítulos numerados (faltando o 15) e dois capítulos de abertura sem numeração. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. 20 capítulos numerados (faltando o 15) e dois capítulos de abertura sem numeração. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Nmm/Nmm15.htm>

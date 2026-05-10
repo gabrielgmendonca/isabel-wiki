@@ -59,4 +59,4 @@ Três aspectos tornam Estêvão especialmente significativo para o estudo espír
 - *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 6–7; 8:1; 22:20.
 - KARDEC, Allan. *O Livro dos Espíritos*. Q. 149–164, 400–418. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Caps. V, XII, XVII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/paulo-e-estevao]]. Síntese curada em [[wiki/obras/paulo-e-estevao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]]. Síntese curada em [[wiki/obras/paulo-e-estevao]].

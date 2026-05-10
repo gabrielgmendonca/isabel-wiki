@@ -64,4 +64,4 @@ Acompanha a despedida lendo Provérbios 2 e exortando os cooperadores a "ratific
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].

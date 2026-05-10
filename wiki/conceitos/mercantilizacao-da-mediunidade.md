@@ -88,5 +88,5 @@ Em sentido contrário: a gratuidade quebra o contrato. O médium que serve sem c
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXVIII (Dos médiuns interesseiros), itens 294-297. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Viagem Espírita em 1862*, instruções aos grupos. Trad. Wallace Leal V. Rodrigues. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXVI (Dai de graça o que de graça recebestes). Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, cap. 8. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, cap. 8. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - Bíblia ACF — Atos 8:18-24 (Simão, o Mago).

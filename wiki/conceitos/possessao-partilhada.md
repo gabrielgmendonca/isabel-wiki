@@ -58,5 +58,5 @@ A condição necessária é a **afinidade total** — sintonia de paixão domina
 
 ## Fontes
 
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, Cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, Cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
 - Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XXIII (itens 237–254). Trad. Guillon Ribeiro. FEB.

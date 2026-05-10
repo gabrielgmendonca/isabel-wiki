@@ -49,4 +49,4 @@ Co-protagonista da narrativa de *Ação e Reação*. Sua função tripla na obra
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Cap. 9 ("A história de Silas") e caps. 10–20. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Cap. 9 ("A história de Silas") e caps. 10–20. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].

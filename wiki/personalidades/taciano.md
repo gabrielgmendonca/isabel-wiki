@@ -43,4 +43,4 @@ A trajetória de Taciano cobre setenta anos e é o eixo dramático da obra:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]].

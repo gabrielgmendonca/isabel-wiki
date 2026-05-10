@@ -98,5 +98,5 @@ Ver [[wiki/obras/epistola-aos-colossenses]] cap. 3 para o desenvolvimento comple
 
 - Kardec, Allan. *O Livro dos Espíritos*, Parte 3, Cap. III (q. 674–685). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XX, cap. XXV. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 13 e 22. Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
+- XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 13 e 22. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].

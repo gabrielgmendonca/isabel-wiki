@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1963
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (volume da série André Luiz, em coautoria mediúnica)
-- **Texto integral:** [[raw/mediuns/chico-xavier/sexo-e-destino]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Sd/SdP2C05.htm)
 
 > [!info] Coautoria mediúnica
@@ -112,5 +112,5 @@ Pontos-chave da fala de Félix:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/sexo-e-destino]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Sd/SdP2C05.htm>

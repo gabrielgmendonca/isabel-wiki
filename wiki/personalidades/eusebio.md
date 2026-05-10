@@ -66,4 +66,4 @@ Embora apareça pessoalmente apenas nos capítulos iniciais, Eusébio é a **aut
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Capítulo de abertura "Apelo cristão" e referências hierárquicas nos caps. 1, 17. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Capítulo de abertura "Apelo cristão" e referências hierárquicas nos caps. 1, 17. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].

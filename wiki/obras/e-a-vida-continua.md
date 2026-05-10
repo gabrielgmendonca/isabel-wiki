@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1968
 - **Editora:** FEB
 - **Gênero:** romance espiritual em terceira pessoa (13º e último volume da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/e-a-vida-continua]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Evc/EvcHom.htm)
 - **Datação interna:** "Uberaba, 18 de abril de 1968" (homenagem inicial e mensagem de André Luiz que abre o livro).
 
@@ -143,5 +143,5 @@ A obra fecha pela tese central da série: "a vida que, em toda parte, continua s
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/e-a-vida-continua]].
+- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. 26 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Evc/EvcHom.htm>

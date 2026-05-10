@@ -144,5 +144,5 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 4, cap. I — "Das penas e gozos terrestres", q. 943–957 (q. 952 = suicídio moral); também Parte 3, cap. V — "Lei de conservação", q. 702–727.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V, itens 14–16 — "Suicídio e loucura". Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas"; cap. IV — "Auguste Michel" e "Arrependimento de um dissoluto". FEB.
-- Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/nosso-lar]].
-- Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
+- Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
+- Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].

@@ -73,5 +73,5 @@ O caso de *O Consolador* é doutrinariamente instrutivo por dois motivos:
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 298–303 — "Relações de simpatia e de antipatia entre os Espíritos. Metades eternas." Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
-- Xavier, Francisco Cândido (Emmanuel). *O Consolador*, q. 378 e Nota final. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/o-consolador]].
-- Xavier, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor". Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- Xavier, Francisco Cândido (Emmanuel). *O Consolador*, q. 378 e Nota final. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
+- Xavier, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor". Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].

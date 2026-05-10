@@ -42,4 +42,4 @@ Tom: paternal, sereno, com humor brando ("Trabalho para trinta anos, meus amigos
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/e-a-vida-continua]].
+- XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].

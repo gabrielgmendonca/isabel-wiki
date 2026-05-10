@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1939
 - **Editora:** FEB
 - **Gênero:** romance histórico psicografado — confissão reencarnatória de Emmanuel
-- **Texto integral:** [[raw/mediuns/chico-xavier/ha-dois-mil-anos]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Ha/HaIntrod.htm)
 
 ## Estrutura
@@ -126,5 +126,5 @@ A obra tem continuação narrativa direta em [[wiki/obras/50-anos-depois]] (Emma
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Ha/HaIntrod.htm>

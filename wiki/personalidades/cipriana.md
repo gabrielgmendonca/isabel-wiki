@@ -92,4 +92,4 @@ Três marcas na sua condução:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Caps. 5, 17–20, com referências em todo o volume. Edição: [[raw/mediuns/chico-xavier/no-mundo-maior]].
+- XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Caps. 5, 17–20, com referências em todo o volume. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].

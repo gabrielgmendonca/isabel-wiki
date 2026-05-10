@@ -184,4 +184,4 @@ A cura simultânea da filha leprosa Flávia opera não pelo merecimento do pai, 
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Tradução de Guillon Ribeiro. FEB.
 - KARDEC, Allan. *Obras Póstumas*, "Estudo sobre a natureza do Cristo". Tradução de Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939.
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].

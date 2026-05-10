@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1944
 - **Editora:** FEB
 - **Gênero:** romance histórico psicografado — narrativa de Emmanuel ambientada na Idade Moderna ibérico-colonial (Espanha, França, Connecticut), c. 1681-c. 1710. Romance autônomo, fora da Série Romana ([[wiki/obras/ha-dois-mil-anos|Há Dois Mil Anos]] / [[wiki/obras/50-anos-depois|50 Anos Depois]] / [[wiki/obras/paulo-e-estevao|Paulo e Estêvão]] / [[wiki/obras/ave-cristo|Ave, Cristo!]]).
-- **Texto integral:** [[raw/mediuns/chico-xavier/renuncia]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/renuncia]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Rna/RnaPref.htm)
 
 ## Estrutura
@@ -149,7 +149,7 @@ Nenhuma divergência estrutural com Kardec identificada. Pontos sensíveis verif
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Prefácio "Velhas recordações" datado em Pedro Leopoldo, 11/01/1942. Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944. Prefácio "Velhas recordações" datado em Pedro Leopoldo, 11/01/1942. Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 132, q. 222-227, q. 256-262, q. 400-418, q. 658-661, q. 685+. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Evangelho segundo o Espiritismo*, cap. V (bem-aventurados os aflitos), cap. XVII (sede perfeitos), cap. XXVII (instruções sobre a prece). Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - KARDEC, Allan. *A Gênese*, cap. XIV (fluidos espirituais e cura magnética). Edição: [[raw/kardec/pentateuco/genese]].

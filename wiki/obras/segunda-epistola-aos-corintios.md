@@ -271,4 +271,4 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XIX (médium como intérprete; êxtase), cap. XX (influência moral do médium), cap. XXIII (obsessão e sintonia), cap. XXIV (identificação dos Espíritos).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XIV (perispírito), itens 7, 10, 18.
 - KARDEC, Allan. *O Céu e o Inferno*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. I (a passagem).
-- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, cap. 3 — diálogo de Tobias com André Luiz sobre as "cartas vivas de Jesus" como recepção espírita de 2 Co 3:2–3. Edição: [[raw/mediuns/chico-xavier/os-mensageiros]].
+- XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, cap. 3 — diálogo de Tobias com André Luiz sobre as "cartas vivas de Jesus" como recepção espírita de 2 Co 3:2–3. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].

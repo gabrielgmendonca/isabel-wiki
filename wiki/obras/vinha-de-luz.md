@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1952
 - **Editora:** FEB
 - **Gênero:** coletânea evangélica em forma de epígrafe + comentário pastoral
-- **Texto integral:** [[raw/mediuns/chico-xavier/vinha-de-luz]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Vl/VlPref.htm)
 
 ## Estrutura
@@ -162,5 +162,5 @@ A relação com [[wiki/obras/pao-nosso|Pão Nosso]] (1950), publicado dois anos 
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/vinha-de-luz]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]].
 - Disponível também em: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Vl/VlPref.htm) (transcrição online não-oficial).

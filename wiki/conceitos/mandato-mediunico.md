@@ -78,5 +78,5 @@ O conceito não é estranho à codificação. Kardec já distingue, no [[wiki/ob
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 16. Edição: [[raw/mediuns/chico-xavier/nos-dominios-da-mediunidade]].
+- XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 16. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - KARDEC, Allan. *O Livro dos Médiuns*. 2ª parte, cap. XIV — "Dos Médiuns".

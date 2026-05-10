@@ -19,7 +19,7 @@ status: ativo
 - **Primeira edição:** 1948
 - **Editora:** FEB
 - **Gênero:** coletânea evangélica em forma de epígrafe + comentário pastoral
-- **Texto integral:** [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/caminho-verdade-e-vida]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Cvv/CvvPref.htm)
 
 ## Estrutura
@@ -122,5 +122,5 @@ Além dos seis eixos acima, a obra trabalha de modo recorrente:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/caminho-verdade-e-vida]].
+- XAVIER, Francisco Cândido (Emmanuel). *Caminho, Verdade e Vida*. Rio de Janeiro: FEB, 1948. Edição: [[raw/mediuns/chico-xavier/emmanuel/caminho-verdade-e-vida]].
 - Disponível também em: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Cvv/CvvPref.htm) (transcrição online não-oficial).

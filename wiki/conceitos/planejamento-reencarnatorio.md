@@ -161,8 +161,8 @@ A intercessão materna não dispensa o programa reparador — apenas o **organiz
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 256–262, q. 344–345, q. 357–367, q. 379–381. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
-- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13–15. Edição: [[raw/mediuns/chico-xavier/missionarios-da-luz]].
-- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Cap. 28. Edição: [[raw/mediuns/chico-xavier/entre-a-terra-e-o-ceu]].
-- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 18–19. Edição: [[raw/mediuns/chico-xavier/acao-e-reacao]].
-- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13–14. Edição: [[raw/mediuns/chico-xavier/evolucao-em-dois-mundos]].
-- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Cap. 6B (intercessão materna de D. Margarida no umbral; pedido formal de corpo deficitário em correspondência ato↔órgão). Edição: [[raw/mediuns/chico-xavier/renuncia]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Caps. 13–15. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- XAVIER, Francisco Cândido (André Luiz). *Entre a Terra e o Céu*. Rio de Janeiro: FEB, 1954. Cap. 28. Edição: [[raw/mediuns/chico-xavier/andre-luiz/entre-a-terra-e-o-ceu]].
+- XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 18–19. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
+- XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte II, caps. 13–14. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Renúncia*. Rio de Janeiro: FEB, 1944 (prefácio em Pedro Leopoldo, 11/01/1942). Cap. 6B (intercessão materna de D. Margarida no umbral; pedido formal de corpo deficitário em correspondência ato↔órgão). Edição: [[raw/mediuns/chico-xavier/emmanuel/renuncia]].

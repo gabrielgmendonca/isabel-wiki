@@ -20,7 +20,7 @@ status: rascunho
 - **Primeira edição:** 1946
 - **Editora:** FEB
 - **Gênero:** romance-relatório do plano espiritual (4º livro da série André Luiz)
-- **Texto integral:** [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Ove/OvePref.htm)
 
 ## Estrutura
@@ -195,5 +195,5 @@ Personagens secundários sem página própria (mencionados em prosa): Bezerra de
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Prefácio "Rasgando véus" e 20 capítulos. Edição: [[raw/mediuns/chico-xavier/obreiros-da-vida-eterna]].
+- XAVIER, Francisco Cândido (André Luiz). *Obreiros da Vida Eterna*. Rio de Janeiro: FEB, 1946. Prefácio "Rasgando véus" e 20 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/obreiros-da-vida-eterna]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Ove/OvePref.htm>

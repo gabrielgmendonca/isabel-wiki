@@ -19,7 +19,7 @@ status: ativo
 - **Primeira edição:** 1940
 - **Editora:** FEB (312 p., formato 14×21)
 - **Gênero:** tratado doutrinário em formato de perguntas e respostas
-- **Texto integral:** [[raw/mediuns/chico-xavier/o-consolador]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/o-consolador]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Ocs/OcsP1C1It5.htm)
 
 ## Estrutura
@@ -32,7 +32,7 @@ Terceira obra da série Emmanuel/Chico Xavier (após *Há Dois Mil Anos…* e *C
 | II | **Ciência** | Diálogo com Física, Química, Biologia e Psicologia; limites do racionalismo |
 | III | **Religião** | Cristianismo, Evangelho de Jesus, identidade do Espiritismo como Consolador, fé, fraternidade |
 
-A versão em [[raw/mediuns/chico-xavier/o-consolador]] é uma **seleção curatorial** da Bíblia do Caminho que reagrupa 72 das 412 questões em 44 blocos temáticos (Sociologia, Jesus, Revelação, Ensinamentos, Virtude, Razão, União, Fé, Fraternidade etc.), em vez de seguir a numeração linear.
+A versão em [[raw/mediuns/chico-xavier/emmanuel/o-consolador]] é uma **seleção curatorial** da Bíblia do Caminho que reagrupa 72 das 412 questões em 44 blocos temáticos (Sociologia, Jesus, Revelação, Ensinamentos, Virtude, Razão, União, Fé, Fraternidade etc.), em vez de seguir a numeração linear.
 
 ## Resumo por eixos
 
@@ -104,6 +104,6 @@ Religião é "o sentimento Divino" cuja exteriorização é o Amor; Ciência e F
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940 (312 p., formato 14×21). Edição: [[raw/mediuns/chico-xavier/o-consolador]].
+- XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940 (312 p., formato 14×21). Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Ocs/OcsP1C1It5.htm>
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 298. Trad. Guillon Ribeiro. FEB. (Cotejo da divergência das almas gêmeas.)

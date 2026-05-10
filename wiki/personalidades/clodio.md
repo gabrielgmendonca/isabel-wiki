@@ -37,4 +37,4 @@ A figura é arquétipo da **entidade superior que regula reencarnações por afi
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/ave-cristo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Ave, Cristo!* Rio de Janeiro: FEB, 1953. Edição: [[raw/mediuns/chico-xavier/emmanuel/ave-cristo]].
