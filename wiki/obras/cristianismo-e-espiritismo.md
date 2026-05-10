@@ -19,7 +19,7 @@ status: ativo
 - **Edição utilizada:** 2ª ed. em português, tradução de Albertina Escudeiro Sêco. Rio de Janeiro: CELD, 2012. 344 p.
 - **ISBN:** 978-85-7297-425-7
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/autores/leon-denis/Cristianismo_e_Espiritismo/Cristianismo_e_Espiritismo.md]]
+- **Texto integral:** [[raw/autores/leon-denis/cristianismo-e-espiritismo/cristianismo-e-espiritismo]]
 
 ## Estrutura
 

@@ -19,7 +19,7 @@ status: ativo
 - **Edição utilizada:** 3ª ed. em português, tradução de Maria Lucia Alcantara de Carvalho. Rio de Janeiro: CELD, 2011. 296 p.
 - **ISBN:** 978-85-7297-412-7
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/autores/leon-denis/o_grande_enigma-min/o_grande_enigma-min.md]]
+- **Texto integral:** [[raw/autores/leon-denis/o-grande-enigma/o-grande-enigma]]
 
 ## Estrutura
 

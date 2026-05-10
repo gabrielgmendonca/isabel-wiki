@@ -21,7 +21,7 @@ status: ativo
 - **Páginas:** 456
 - **ISBN:** 978-85-7297-503-2
 - **Nível:** 3 — Complementar aprovado
-- **Texto integral:** [[raw/autores/leon-denis/O Problema do Ser do Destino e da Dor/O Problema do Ser do Destino e da Dor.md]]
+- **Texto integral:** [[raw/autores/leon-denis/o-problema-do-ser-do-destino-e-da-dor/o-problema-do-ser-do-destino-e-da-dor]]
 
 > **Nota sobre o título:** Algumas edições brasileiras incluem "e da Dor" no título. A edição CELD (2011), baseada na edição francesa de 1922, adota o título original escolhido pelo autor: *O Problema do Ser e do Destino*.
 
