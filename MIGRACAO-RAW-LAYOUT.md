@@ -6,7 +6,7 @@ Plano transitório para zerar o legado de slugs/hierarquia em `raw/`. **Concluí
 
 - Slugs kebab-case ASCII puros: `^[a-z0-9]+(-[a-z0-9]+)*$` — sem `_`, sem espaços, sem maiúsculas, sem diacríticos, sem sufixos artefato (`_compress`, `-min`, `pdf`, `c3a[0-9a-f]`).
 - `raw/mediuns/<medium>/<autor-espiritual>/<obra>` (sempre 3 níveis).
-- `<slug>.pdf` no nível pai + `<slug>/<slug>.md` + `<slug>/_meta.json` + `<slug>/assets/_page_*.jpeg`.
+- `<slug>.pdf` no nível pai + `<slug>/<slug>.md` + `<slug>/<slug>_meta.json` + `<slug>/assets/_page_*.jpeg`. O sufixo `_meta` no `.json` é o nome produzido pelo extrator (marker-pdf, etc.) e fica preservado — o lint reconhece `<slug>_meta` como par válido do `<slug>.md`.
 - `<TÍTULO>.md` + `summary-<TÍTULO>.md` em palestras ficam lado a lado (ver `.claude/rules/convencoes-palestras.md`).
 
 ## Ferramentas

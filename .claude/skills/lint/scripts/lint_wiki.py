@@ -886,6 +886,10 @@ def check_raw_layout(pages: list[Path]) -> dict:
                 continue
             if name.startswith("_page_"):  # _page_0_Picture_0.jpeg etc.
                 continue
+            # Metadados de extração: `<slug>_meta.json` é a forma produzida pelo
+            # extrator (marker-pdf etc.). Validar o slug sem o sufixo `_meta`.
+            if p.is_file() and name.endswith("_meta"):
+                name = name[: -len("_meta")]
             if has_artifact_marker(name):
                 items.append({
                     "path": str(p),
@@ -958,9 +962,11 @@ def check_raw_layout(pages: list[Path]) -> dict:
                     # info, não warning — ingest pode chegar como .md direto
                     pass
 
-        # Regra 5: imagens _page_*.jpeg dentro de <slug>/ devem estar em assets/
+        # Regra 5: imagens _page_*.jpeg dentro de <slug>/ devem estar em assets/.
+        # Skip o próprio `assets/` (é o destino canônico das imagens; flagga-lo
+        # geraria detail "mover para assets/assets/", falso positivo).
         for slug_dir in base.rglob("*"):
-            if not slug_dir.is_dir():
+            if not slug_dir.is_dir() or slug_dir.name == "assets":
                 continue
             loose_images = [
                 p for p in slug_dir.iterdir()
