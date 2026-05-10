@@ -20,8 +20,8 @@ status: ativo
 - **Data aproximada:** ~2009 (Divaldo menciona ter 82 anos)
 - **Nível:** 3 — Complementar aprovado
 - **Fonte original:** [YouTube](https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp)
-- **Texto integral:** [[raw/palestras/divaldo-franco/A conquista da saúde psicológica - Divaldo Franco.md]]
-- **Resumo:** [[raw/palestras/divaldo-franco/summary-A conquista da saúde psicológica - Divaldo Franco.md]]
+- **Texto integral:** [[raw/palestras/divaldo-franco/a-conquista-da-saude-psicologica-divaldo-franco]]
+- **Resumo:** [[raw/palestras/divaldo-franco/summary-a-conquista-da-saude-psicologica-divaldo-franco]]
 
 ![](https://youtu.be/yPr8lf74-rY?si=TQZtJcQPE54EaHQp)
 

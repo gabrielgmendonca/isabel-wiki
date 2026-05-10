@@ -20,8 +20,8 @@ status: ativo
 - **Data aproximada:** ~2023 (Divaldo menciona ter 96 anos)
 - **Nível:** 3 — Complementar aprovado
 - **Fonte original:** [YouTube](https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw)
-- **Texto integral:** [[raw/palestras/divaldo-franco/Quando o Invisível se Torna Inevitável. Palestra Espírita com Divaldo Pereira Franco.md]]
-- **Resumo:** [[raw/palestras/divaldo-franco/summary-Quando o Invisível se Torna Inevitável. Palestra Espírita com Divaldo Pereira Franco.md]]
+- **Texto integral:** [[raw/palestras/divaldo-franco/quando-o-invisivel-se-torna-inevitavel-palestra-espirita-com-divaldo-pereira-franco]]
+- **Resumo:** [[raw/palestras/divaldo-franco/summary-quando-o-invisivel-se-torna-inevitavel-palestra-espirita-com-divaldo-pereira-franco]]
 
 ![](https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw)
 

@@ -19,7 +19,7 @@ status: ativo
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 3 — complementar alinhado à codificação
 - **Fonte original:** [YouTube](https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_)
-- **Texto integral:** [[raw/palestras/carlos-mendonca/PARÁBOLA DO SEMEADOR]]
+- **Texto integral:** [[raw/palestras/carlos-mendonca/parabola-do-semeador]]
 
 ![](https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_)
 

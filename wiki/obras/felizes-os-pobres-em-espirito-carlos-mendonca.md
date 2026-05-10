@@ -19,7 +19,7 @@ status: ativo
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 3 — complementar alinhado à codificação
 - **Fonte original:** [YouTube](https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B)
-- **Texto integral:** [[raw/palestras/carlos-mendonca/Felizes os Pobres em Espíritos]]
+- **Texto integral:** [[raw/palestras/carlos-mendonca/felizes-os-pobres-em-espiritos]]
 
 ![](https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B)
 
