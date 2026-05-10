@@ -2,7 +2,7 @@
 tipo: aprofundamento
 fontes: [LE, ESE, C&I, NT, Hammed/Francisco do Espírito Santo Neto, André Luiz/Chico Xavier]
 tags: [rigidez, dores-da-alma, paixoes, teimosia, severidade, fanatismo, pena-de-morte, flexibilidade, espiritos-endurecidos, conversao-de-saulo, hammed, francisco-espirito-santo-neto, obra/le, obra/ese, obra/ci, lei/conservacao, lei/destruicao, lei/justica-amor-caridade, autor/kardec, autor/hammed, autor/paulo, autor/andre-luiz, autor/chico-xavier, grau/avancado, tema/moral, tema/sofrimento, tema/jesus]
-atualizado_em: 2026-05-04
+atualizado_em: 2026-05-10
 status: ativo
 ---
 
@@ -14,7 +14,7 @@ Estudo da **rigidez** como dor da alma, articulando o tema 14 de *As Dores da Al
 
 ### "Dores da alma" como reenquadramento
 
-Hammed propõe ler os antigos "pecados capitais" da moralidade medieval como **fases naturais da evolução** — não condenações teológicas, mas "educadoras ou instrutoras particulares que a Harmonia da Vida nos concedeu" (cf. [[wiki/obras/as-dores-da-alma]]; [[wiki/conceitos/dores-da-alma]]). A rigidez não é, nesse marco, vício a ser combatido pelo temor, mas padrão psíquico que cristaliza outras "dores" anteriores — sobretudo o orgulho (tema 2), a culpa (tema 10) e a preocupação (tema 7) — quando deixam de circular e enrijecem.
+[[wiki/personalidades/hammed|Hammed]] (Espírito psicografado por [[wiki/personalidades/francisco-do-espirito-santo-neto|Francisco do Espírito Santo Neto]]; **fonte de nível 4** — complementar secundária na hierarquia desta wiki, sempre ancorada literalmente em questão do LE) propõe ler os antigos "pecados capitais" da moralidade medieval como **fases naturais da evolução** — não condenações teológicas, mas "educadoras ou instrutoras particulares que a Harmonia da Vida nos concedeu" (cf. [[wiki/obras/as-dores-da-alma]]; [[wiki/conceitos/dores-da-alma]]). A rigidez não é, nesse marco, vício a ser combatido pelo temor, mas padrão psíquico que cristaliza outras "dores" anteriores — sobretudo o orgulho (tema 2), a culpa (tema 10) e a preocupação (tema 7) — quando deixam de circular e enrijecem.
 
 ### Tríplice ancoragem kardecista
 
@@ -38,7 +38,7 @@ A leitura de Hammed pressupõe a tese central de Kardec sobre as paixões: elas 
 
 Kardec situa a questão na **lei de conservação**: a Natureza fixa o necessário; o homem que excede esse limite "se pune a si mesmo" pela saciedade. Hammed lê esse "punir-se a si mesmo" como dinâmica psíquica concreta, não como castigo divino externo:
 
-> "O excesso de rigidez e severidade faz com que criemos um padrão mental que influenciará os outros para que nos tratem da mesma forma como os tratamos." (Hammed, *As Dores da Alma*, "Rigidez", 1º comentário)
+> "O excesso de rigidez e severidade faz com que criemos um padrão mental que influenciará os outros para que nos tratem da mesma forma como os tratamos." (Hammed/Francisco do Espírito Santo Neto, *As Dores da Alma*, "Rigidez", 1º comentário)
 
 A teimosia é tipificada como "apego obstinado às próprias idéias e gostos, nunca admitindo insuficiências e erros". O rígido se apresenta como instrutor permanente — "criaturas que estão sempre com a razão, que acreditam que nasceram para ensinar ou salvar todo mundo" — e reduz todo relacionamento ao par instrutor-aprendiz, mentor-pupilo. O preço é o desrespeito à individualidade do outro, "por não darem o devido espaço para as diferenças pessoais que existem nos amigos e familiares".
 
@@ -152,11 +152,13 @@ Paulo descreve em primeira pessoa a luta interior que sobrevive mesmo após a co
 
 ### A rigidez cristalizada — Espíritos endurecidos em C&I e em André Luiz
 
-A 2ª parte de *O Céu e o Inferno* dedica o cap. VII inteiro aos **Espíritos endurecidos** — casos em que a paixão já não é dor evolutiva mas obstinação cristalizada (cf. [[wiki/obras/ceu-e-inferno]]). Cinco relatos, todos demonstrações concretas do diagnóstico de Hammed:
+A 2ª parte de *O Céu e o Inferno* dedica o cap. VII inteiro aos **Espíritos endurecidos** — casos em que a paixão já não é dor evolutiva mas obstinação cristalizada (cf. [[wiki/obras/ceu-e-inferno]]). O capítulo apresenta cinco relatos (Lapommeray, Angèle, "Um Espírito aborrecido", Rainha de Oude, Xumène); três têm página própria nesta wiki e funcionam como demonstrações diretas do diagnóstico de Hammed:
 
-- **[[wiki/personalidades/lapommeray]]** — assassino sem remorso. "Obstinação no mal prolonga sofrimento indefinidamente" (C&I, 2ª parte, cap. VII).
+- **[[wiki/personalidades/lapommeray]]** — assassino sem remorso, comunicação espontânea logo após a execução. A obstinação no mal prolonga indefinidamente o sofrimento até que "a sua vontade, por fim vencida, se curvar sob o aperto pungente do remorso" (Erasto, em C&I, 2ª parte, cap. VII).
 - **[[wiki/personalidades/rainha-de-oude]]** — orgulho régio cristalizado. Poder terreno nada vale no além — comprovação empírica de q. 762 (a rigidez institucional é ignorância, não virtude).
-- **[[wiki/personalidades/angele]]** — nulidade moral; vida inútil como falta grave.
+- **[[wiki/personalidades/angele]]** — nulidade moral; vida inútil como falta grave. "Não basta abster-vos das faltas: é preciso praticar as virtudes que lhes são opostas" (Monod, em C&I, 2ª parte, cap. VII) — formulação que ecoa diretamente a tese de Hammed sobre **substituição** (não repressão) como saída da rigidez.
+
+Os outros dois casos do capítulo — "Um Espírito aborrecido" (tédio que paralisa a vontade por 180 anos) e Xumène (endurecido que aceita prece mas recusa o trabalho íntimo) — ainda não têm página própria, mas são igualmente pertinentes: o primeiro como retrato da **rigidez como apatia** (espelho doentio da preocupação do tema 7), o segundo como **rigidez recalcitrante** que só cede pela persistência da caridade (cf. observação final de Kardec ao capítulo: "não há tamanhos culpados que não se possa reconduzir pela persuasão e pelo exemplo").
 
 A escala se gradua para os **Espíritos sofredores** do cap. IV — não tão endurecidos, mas presos a paixão dominante:
 
