@@ -118,7 +118,7 @@ Não há divergência estrutural com o Pentateuco em nenhuma das quatro fontes c
 - **Divaldo Franco** ancora a etiologia espiritual da depressão em **LE q. 459-465** (influência dos Espíritos sobre os pensamentos) e **LM cap. XXIII** (obsessão).
 - **Hammed** ([[wiki/obras/as-dores-da-alma|*As Dores da Alma*]]), tema 19, ancora a depressão em **LE q. 725, q. 974, q. 1000** sob o registro pedagógico das [[wiki/conceitos/dores-da-alma|dores da alma]] como processo evolutivo.
 
-A única tensão registrada — e tratada como **observação textual**, não divergência — é a referência narrativa de Joanna à lenda medieval do suicídio de Pôncio Pilatos no Monte Pilatus na Suíça (*Triunfo Pessoal* cap. 6), sem registro histórico ou kardequiano. Discussão completa em [[wiki/personalidades/poncio-pilatos]].
+A única tensão registrada — e tratada como **observação textual**, não divergência — é a referência narrativa de Joanna à lenda medieval do suicídio de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] no Monte Pilatus na Suíça (*Triunfo Pessoal* cap. 6), sem registro histórico ou kardequiano. Discussão completa em [[wiki/personalidades/poncio-pilatos]].
 
 ## Conclusão
 

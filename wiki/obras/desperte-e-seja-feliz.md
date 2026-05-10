@@ -1,8 +1,6 @@
 ---
 tipo: obra
 fontes: [LE, ESE, C&I]
-aliases:
-  - "Desperte e Seja Feliz"
 tags: [psicologia-transpessoal, autorrealizacao, amorterapia, dor-reparacao, medico-interno, tres-inimigos, esquecimento-providencial, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, obra/ci, autor/kardec, tema/moral, tema/sofrimento, tema/jesus, lei/justica-amor-caridade]
 direitos:
   detentor: LEAL

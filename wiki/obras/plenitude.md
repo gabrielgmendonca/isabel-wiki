@@ -2,8 +2,6 @@
 tipo: obra
 fontes: [LE, LM]
 tags: [sofrimento, plenitude, autocura, terapia-desobsessiva, caminho-octuplo, doenca-da-alma, joanna-de-angelis, divaldo, buda, jung, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/lm, tema/sofrimento, tema/moral, tema/mediunidade, tema/vida-futura, lei/igualdade]
-aliases:
-  - "Plenitude"
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/plenitude.html

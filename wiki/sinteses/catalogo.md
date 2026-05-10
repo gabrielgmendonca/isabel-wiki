@@ -512,6 +512,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — Sexualidade em André Luiz: centro genésico, matrimônio, divórcio, aborto à luz de *Evolução em Dois Mundos* (1958).
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — Sexualidade em Emmanuel: as quatro normas, energia sexual como circuito magnético, divórcio admissível, homossexualidade tratada com dignidade integral, abstinência como canalização, à luz de *Vida e Sexo* (1970).
+- [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]] — Sexualidade em Joanna de Ângelis: quatro eixos (sexo a serviço da vida, neurobiologia integrada à dignidade espiritual, Self assexuado integrando anima/animus, amor × Eros) à luz da Série Psicológica (1989–2011), com cap. 8 de *Encontro com a Paz e a Saúde* (2007) como síntese.
 - [[wiki/aprofundamentos/aborto]] — União alma-corpo desde a concepção, criminalidade do aborto provocado em qualquer período, exceção do risco materno (q. 359), corpos sem Espírito designado, aprofundamentos em Emmanuel, André Luiz e o caso Evelina; casos limite (estupro, anencefalia, gestação ectópica) à luz dos princípios do bloco "União da alma e do corpo. Aborto." do LE (q. 344-360 e q. 750-751).
 - [[wiki/aprofundamentos/criacao-do-planeta-terra]] — Cosmogonia, períodos geológicos e gênese orgânica; aprofundamento mediúnico de Emmanuel sobre a direção espiritual do planeta (Gênese, caps. VI–X; *A Caminho da Luz*, caps. 1–2).
 - [[wiki/aprofundamentos/missao-de-kardec]] — A missão do Codificador como função impessoal da Terceira Revelação: revelação progressiva (Livro das Previsões), método, programa em três frentes, "tiara espiritual" como autoridade moral, articulação com a nova geração e a regeneração (OPE, 2ª parte; ESE, cap. VI; Gênese, cap. XVIII; *A Caminho da Luz*, caps. 22, 24).
@@ -534,6 +535,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
 - [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
+- [[wiki/questoes/esquecimento-do-passado]] — "ele é mais ele mesmo": o véu sobre o passado como condição de autenticidade do livre-arbítrio; substitutos operacionais da memória (intuição, voz da consciência, tendências instintivas) (LE, q. 392).
 - [[wiki/questoes/obediencia-e-resignacao]] — obediência como consentimento da razão e resignação como consentimento do coração; "forças ativas ambas" e não negação da vontade (ESE, cap. IX, item 8 — Lázaro, Paris, 1863).
 
 ## Sínteses

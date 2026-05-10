@@ -2,8 +2,6 @@
 tipo: obra
 fontes: [LE, ESE]
 tags: [psicologia-transpessoal, autoconhecimento, homem-integral, jesus-psicoterapeuta, modelo-organizador-biologico, joanna-de-angelis, divaldo, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, obra/le, obra/ese, tema/moral, tema/jesus, tema/sofrimento, lei/justica-amor-caridade]
-aliases:
-  - "O Homem Integral"
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/series-e-colecoes/serie-psicologica-joanna-de-angelis/o-homem-integral.html
