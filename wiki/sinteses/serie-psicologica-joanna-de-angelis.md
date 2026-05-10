@@ -7,7 +7,6 @@ fontes:
   - "Joanna de Ângelis / Divaldo Franco, Jesus e Atualidade (1989)"
   - "Joanna de Ângelis / Divaldo Franco, O Homem Integral (1990)"
   - "Joanna de Ângelis / Divaldo Franco, Plenitude (1991)"
-  - "Joanna de Ângelis / Divaldo Franco, Momentos de Felicidade (1990)"
   - "Joanna de Ângelis / Divaldo Franco, Momentos de Saúde e Consciência (1992)"
   - "Joanna de Ângelis / Divaldo Franco, O Ser Consciente (1993)"
   - "Joanna de Ângelis / Divaldo Franco, Autodescobrimento (1995)"
@@ -40,11 +39,13 @@ status: ativo
 
 ## Pergunta motivadora
 
-A Doutrina codificada por Allan Kardec já contém, em 1857-1868, a estrutura ontológica do humano: Espírito-perispírito-corpo (LE q. 132, q. 165), reencarnação como mecanismo de progresso (LE Parte 2), lei de causa e efeito como motor moral (LE q. 873-919), tripartição clínica das obsessões (LM cap. XXIII). Em 22 anos de psicografias mediúnicas — de *Jesus e Atualidade* (1989) a *Psicologia da Gratidão* (2011) —, **por que** Joanna de Ângelis mobiliza, ao longo de 16 volumes, todo o repertório da Quarta Força em Psicologia (Maslow, Wilber, Grof, Assagioli) e da Psicologia Profunda (Jung)? Há ganho doutrinário concreto, ou apenas adorno terapêutico para o leitor contemporâneo?
+Kardec já entregou, entre 1857 e 1868, o essencial da estrutura humana: Espírito, perispírito e corpo (LE q. 132, q. 165); reencarnação como mecanismo de progresso (LE Parte 2); lei de causa e efeito como motor moral (LE q. 873-919); e tripartição clínica das obsessões (LM cap. XXIII).
 
-E, sobretudo: como esse projeto se sustenta, em duas décadas, sem deslizar para sincretismo de bolso? Joanna integra Reich, recua Nietzsche, relê Freud como matriz negativa, promove Jung e Maslow a interlocutores principais — e ainda assim consegue, no vol. 11 (cap. 4), reafirmar com vigor a cristologia antitrinitária de Kardec ("Jesus e Deus são independentes [...] Jesus-Homem, Filho e não Pai"). Como?
+Por que, então, Joanna de Ângelis dedica 22 anos e 16 volumes — de *Jesus e Atualidade* (1989) a *Psicologia da Gratidão* (2011) — a reler essa mesma estrutura no vocabulário da Psicologia? Não em qualquer Psicologia: ela mobiliza Jung (sombra, arquétipos, Self, individuação) e a chamada "Quarta Força" — Maslow, Assagioli, Grof, Wilber, escolas que, a partir dos anos 1960, recolocam a dimensão espiritual no centro da clínica. Há ganho doutrinário concreto nisso, ou é só roupagem para o leitor contemporâneo?
 
-A tese desta síntese: a Série Psicológica não é adorno. É **leitura clínica do Pentateuco** — toma LE q. 919 ("Conhece-te a ti mesmo") como mandato operacional e mobiliza a Psicologia secular como vocabulário traduzível para o leitor do séc. XX-XXI, sem reescrever a ontologia espírita. Onde Kardec deixou estrutura, Joanna instrumentaliza terapia.
+E, sobretudo: como o projeto se sustenta, ao longo de duas décadas, sem virar mistura indiscriminada de doutrinas? Joanna acolhe Reich em parte, descarta Nietzsche, relê Freud como matriz negativa, promove Jung e Maslow a interlocutores principais — e ainda assim, no vol. 11 cap. 4, reafirma a cristologia kardecista com vigor: *"Jesus e Deus são independentes [...] Jesus-Homem, Filho e não Pai"*. Como?
+
+A tese desta síntese: a Série Psicológica não é adorno. É **leitura clínica do Pentateuco**. Toma LE q. 919 ("Conhece-te a ti mesmo") como mandato operacional e usa a Psicologia secular como vocabulário traduzível para o leitor dos séc. XX-XXI, sem reescrever a ontologia espírita. Onde Kardec deixou estrutura, Joanna oferece terapia.
 
 ---
 
@@ -56,12 +57,11 @@ A Série se divide em quatro momentos:
 
 | Vol. | Título | Ano | Eixo distintivo |
 |------|--------|-----|-----------------|
-| — | [[wiki/obras/jesus-e-atualidade\|Jesus e Atualidade]] | 1989 | Manifesto: Jesus-psicoterapeuta antecipa Maslow/Assagioli/Grof/Klein |
-| — | [[wiki/obras/o-homem-integral\|O Homem Integral]] | 1990 | Modelo Organizador Biológico (cap. 38); Jesus como biótipo do Homem Integral |
-| — | [[wiki/obras/plenitude\|Plenitude]] | 1991 | Sofrimento como "doença da alma"; diálogo Buda–Jesus–Kardec |
-| — | [[wiki/obras/momentos-de-felicidade\|Momentos de Felicidade]] | 1990 | Tom pastoral curto, distinto da série densa |
-| — | [[wiki/obras/momentos-de-saude-e-consciencia\|Momentos de Saúde e Consciência]] | 1992 | Idem; saúde como conquista interior; consciência como "força não-intelectual" |
-| — | [[wiki/obras/o-ser-consciente\|O Ser Consciente]] | 1993 | Quarta Força: ego × self, mecanismos de fuga, gigantes da alma |
+| 1 | [[wiki/obras/jesus-e-atualidade\|Jesus e Atualidade]] | 1989 | Manifesto: Jesus-psicoterapeuta antecipa Maslow/Assagioli/Grof/Klein |
+| 2 | [[wiki/obras/o-homem-integral\|O Homem Integral]] | 1990 | Modelo Organizador Biológico (cap. 38); Jesus como biótipo do Homem Integral |
+| 3 | [[wiki/obras/plenitude\|Plenitude]] | 1991 | Sofrimento como "doença da alma"; diálogo Buda–Jesus–Kardec |
+| 4 | [[wiki/obras/momentos-de-saude-e-consciencia\|Momentos de Saúde e Consciência]] | 1992 | Saúde como conquista interior; consciência como "força não-intelectual" |
+| 5 | [[wiki/obras/o-ser-consciente\|O Ser Consciente]] | 1993 | Quarta Força: ego × self, mecanismos de fuga, gigantes da alma |
 | 6 | [[wiki/obras/autodescobrimento\|Autodescobrimento]] | 1995 | Manual prático: inconsciente sagrado, sicários da alma, três olhos de Boaventura |
 | 7 | [[wiki/obras/desperte-e-seja-feliz\|Desperte e Seja Feliz]] | 1996 | Registro homilético; tríade autorrealização (amor-perdão-serviço); tipologia da dor |
 | 8 | [[wiki/obras/vida-desafios-e-solucoes\|Vida: Desafios e Soluções]] | 1997 | Maslow + metanecessidades; meditação operacional; Édipo/Eletra reencarnatório |
@@ -76,9 +76,9 @@ A Série se divide em quatro momentos:
 
 Quatro momentos:
 
-1. **Manifesto e precursores (1989-1992)** — *Jesus e Atualidade* lança a tese motor: Jesus como psicoterapeuta que antecipou intuitivamente Maslow, Assagioli, Grof, Klein. *O Homem Integral* sistematiza pela primeira vez o Modelo Organizador Biológico (cap. 38, com galeria multimilenar dos nomes do perispírito — Hipócrates, Plotino, Tertuliano, Vedanta, Leibniz). *Plenitude* organiza o sofrimento segundo as Quatro Nobres Verdades budistas, em diálogo tripartite com Jesus e Kardec. Os dois volumes pastorais curtos (*Momentos de Felicidade*, *Momentos de Saúde e Consciência*) correm em paralelo, com tom homilético distinto da densidade técnica que viria.
+1. **Manifesto e precursores (1989-1992)** — *Jesus e Atualidade* (vol. 1) lança a tese motor: Jesus como psicoterapeuta que antecipou intuitivamente Maslow, Assagioli, Grof, Klein. *O Homem Integral* (vol. 2) sistematiza pela primeira vez o Modelo Organizador Biológico (cap. 38, com galeria multimilenar dos nomes do perispírito — Hipócrates, Plotino, Tertuliano, Vedanta, Leibniz). *Plenitude* (vol. 3) organiza o sofrimento segundo as Quatro Nobres Verdades budistas, em diálogo tripartite com Jesus e Kardec. *Momentos de Saúde e Consciência* (vol. 4) fecha o ciclo introdutório com tom mais homilético — saúde como conquista interior e consciência como sede da lei de Deus (LE q. 621).
 
-2. **Tratado clínico (1993-1998)** — *O Ser Consciente* consolida a Quarta Força como vocabulário central; *Autodescobrimento* (vol. 6) é o manual prático de interiorização, com a defesa explícita do uso conjugado de psicofármacos e transformação moral no distúrbio de pânico (cap. 9). *Vida: Desafios e Soluções* (vol. 8) introduz Maslow + metanecessidades + meditação operacional. *Amor, Imbatível Amor* (vol. 9) culmina o ciclo com a amorterapia sistematizada (cap. 60) e o vocabulário das subpersonalidades.
+2. **Tratado clínico (1993-1998)** — *O Ser Consciente* (vol. 5) consolida a Quarta Força como vocabulário central; *Autodescobrimento* (vol. 6) é o manual prático de interiorização, com a defesa explícita do uso conjugado de psicofármacos e transformação moral no distúrbio de pânico (cap. 9). *Vida: Desafios e Soluções* (vol. 8) introduz Maslow + metanecessidades + meditação operacional. *Amor, Imbatível Amor* (vol. 9) culmina o ciclo com a amorterapia sistematizada (cap. 60) e o vocabulário das subpersonalidades.
 
 3. **Virada junguiana (2000-2002)** — *O Despertar do Espírito* (vol. 10) adota a psicossíntese de Assagioli como ferramenta operacional articulada com a tripartição kardecista. *Jesus e o Evangelho à Luz da Psicologia Profunda* (vol. 11) **recua até Jung como fonte** — onde os volumes anteriores adotavam o vocabulário transpessoal, aqui Joanna lê o ESE em chave de sombra coletiva, anima/animus, Self e arquétipos. *Triunfo Pessoal* (vol. 12) integra Jung com cérebro triúno de MacLean e a Bhagavad Gita.
 
@@ -97,6 +97,22 @@ O vol. 16 (*Psicologia da Gratidão*) cunha a formulação cristológica mais di
 A ponte interdisciplinar é a contribuição estrutural da Série. Sua arquitetura, declarada com clareza no prefácio do vol. 15, opera por **equivalência funcional** — não identidade ontológica:
 
 > Self ≈ "princípio inteligente" kardecista (LE q. 540, citada em nota da autora espiritual no vol. 15 cap. 10).
+
+A correspondência operacional, em forma sinótica:
+
+| Vocabulário Kardec / Doutrina Espírita | Vocabulário Jung / Quarta Força | Equivalência funcional (não identidade) |
+|----------------------------------------|--------------------------------|----------------------------------------|
+| Princípio inteligente (LE q. 540) | Self (Jung) | Centro organizador permanente do ser |
+| Espírito encarnado em prova | Ego (Jung) | Instância que opera no plano consciente |
+| Perispírito (LE q. 132, q. 165) | Inconsciente individual (registros) | Substrato dos arquivos psíquicos da personalidade |
+| Heranças reencarnatórias e paixões inferiores | Sombra individual e coletiva (Jung) | Conteúdos rejeitados ou ainda não integrados |
+| Polaridade sexual alternada em vidas sucessivas | Anima/Animus (Jung) | Polaridade interna a integrar para a totalidade |
+| Progresso espiritual (LE q. 776-800) | [[wiki/conceitos/individuacao\|Individuação]] (Jung) | Caminho da fragmentação à totalidade |
+| Reino dos Céus (Jesus) | [[wiki/conceitos/numinoso\|Numinoso]] (Otto via Jung); peak experience (Maslow); samadhi | Estado de plenitude e sintonia última |
+| Hierarquia das virtudes (LE Parte 3) | Hierarquia + metanecessidades (Maslow) | Estágios escalonados do progresso pessoal |
+| Conhecimento de si (LE q. 919) | Autoconhecimento clínico | Mandato operacional comum |
+
+A tabela é mapa de correspondência, não dicionário de tradução: cada par opera em planos distintos (ontológico em Kardec, fenomenológico em Jung) e converge no que produz para a clínica e para o estudo, não no que afirma sobre a estrutura última do real.
 
 A tripartição operacional:
 
@@ -224,12 +240,11 @@ Para o estudante de palestra: a Série é o corpus mais sistemático em PT-BR de
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — comparação de tom com a sublimação sexual de Joanna (vol. 10 cap. 4)
 
 ### As 16 obras da Série
-- [[wiki/obras/jesus-e-atualidade]] (1989) — manifesto
-- [[wiki/obras/o-homem-integral]] (1990) — Modelo Organizador Biológico
-- [[wiki/obras/momentos-de-felicidade]] (1990) — pastoral curto
-- [[wiki/obras/plenitude]] (1991) — sofrimento como doença da alma
-- [[wiki/obras/momentos-de-saude-e-consciencia]] (1992) — pastoral curto
-- [[wiki/obras/o-ser-consciente]] (1993) — Quarta Força consolidada
+- [[wiki/obras/jesus-e-atualidade]] (1989) — vol. 1, manifesto
+- [[wiki/obras/o-homem-integral]] (1990) — vol. 2, Modelo Organizador Biológico
+- [[wiki/obras/plenitude]] (1991) — vol. 3, sofrimento como doença da alma
+- [[wiki/obras/momentos-de-saude-e-consciencia]] (1992) — vol. 4, saúde e consciência
+- [[wiki/obras/o-ser-consciente]] (1993) — vol. 5, Quarta Força consolidada
 - [[wiki/obras/autodescobrimento]] (1995) — vol. 6, manual prático
 - [[wiki/obras/desperte-e-seja-feliz]] (1996) — vol. 7, registro homilético
 - [[wiki/obras/vida-desafios-e-solucoes]] (1997) — vol. 8, retorno técnico
@@ -248,7 +263,6 @@ Para o estudante de palestra: a Série é o corpus mais sistemático em PT-BR de
 
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Jesus e Atualidade*. Salvador: LEAL, 1989.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Homem Integral*. Salvador: LEAL, 1990.
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*. Salvador: LEAL, 1990.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Plenitude*. Salvador: LEAL, 1991.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Saúde e Consciência*. Salvador: LEAL, 1992.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *O Ser Consciente*. Salvador: LEAL, 1993.

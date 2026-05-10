@@ -31,7 +31,7 @@ status: ativo
 
 ## Tese central
 
-Volume duplo da **série pastoral curta** de [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] — mesmo padrão editorial de [[wiki/obras/momentos-de-felicidade]] (1990): capítulos breves emoldurados por listas de **mantras/afirmações** no início e no fim, prosa exortativa em segunda pessoa, separadores `* * *` cadenciando blocos. A diferença em relação ao volume de 1990 é o foco: aqui a obra articula explicitamente **saúde integral** (Parte 1) e **consciência como sede da lei de Deus** (Parte 2), em diálogo aberto com a Psicossomática e com as Psicologias Transpessoal, Transacional e Criativa.
+**Vol. 4 da [[wiki/sinteses/serie-psicologica-joanna-de-angelis|Série Psicológica]]** de [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]]. Compartilha com [[wiki/obras/momentos-de-felicidade]] (1990, da *Série Momentos*) o padrão editorial — capítulos breves emoldurados por listas de **mantras/afirmações** no início e no fim, prosa exortativa em segunda pessoa, separadores `* * *` cadenciando blocos —, mas pertence à Série Psicológica e não à Série Momentos pastoral. A diferença em relação ao volume de 1990 é o foco: aqui a obra articula explicitamente **saúde integral** (Parte 1) e **consciência como sede da lei de Deus** (Parte 2), em diálogo aberto com a Psicossomática e com as Psicologias Transpessoal, Transacional e Criativa.
 
 A tese da Parte 1 é enunciada no prefácio:
 
@@ -159,10 +159,11 @@ Duas partes independentes (psicografadas em momentos distintos) reunidas pela LE
 
 ## Páginas relacionadas
 
-- [[wiki/obras/momentos-de-felicidade]] — irmã editorial direta (LEAL, 1990): mesmo padrão de capítulos curtos com mantras emoldurando.
-- [[wiki/obras/plenitude]] — irmã cronológica (LEAL, 1991): a Parte 2 desta obra encerra justamente em "Consciência e [[wiki/obras/plenitude|Plenitude]]", ressoando o título.
-- [[wiki/obras/o-homem-integral]] — antecessora (LEAL, 1990) que abriu o eixo da "Quarta Força" na bibliografia Joanna.
-- [[wiki/obras/o-ser-consciente]] — sucessora (LEAL, 1993) que sistematiza a tese aqui aflorada.
+- [[wiki/sinteses/serie-psicologica-joanna-de-angelis]] — síntese da Série Psicológica completa (16 vols.); este volume é o vol. 4.
+- [[wiki/obras/plenitude]] — vol. 3, antecessor imediato na Série (LEAL, 1991): a Parte 2 desta obra encerra justamente em "Consciência e [[wiki/obras/plenitude|Plenitude]]", ressoando o título.
+- [[wiki/obras/o-homem-integral]] — vol. 2 (LEAL, 1990) que abriu o eixo da "Quarta Força" na bibliografia Joanna.
+- [[wiki/obras/o-ser-consciente]] — vol. 5 sucessor (LEAL, 1993) que sistematiza a tese aqui aflorada.
+- [[wiki/obras/momentos-de-felicidade]] — paralelo editorial (LEAL, 1990, *Série Momentos*): mesmo padrão de capítulos curtos com mantras emoldurando, mas **fora** da Série Psicológica.
 - [[wiki/obras/conquista-da-saude-psicologica]] — palestra que retoma o eixo da Parte 1 em chave clínica.
 
 ## Fontes
