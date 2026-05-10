@@ -232,12 +232,11 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação s
 
 ## Aprofundamento
 
-**Comparações futuras** (a serem desenvolvidas com novas ingestões):
+**Comparações já desenvolvidas e futuras:**
 
-- **Joanna de Ângelis / Divaldo Franco** — psicologia transpessoal aplicada à sexualidade; tom mais terapêutico, menos disciplinar.
+- **Joanna de Ângelis / Divaldo Franco** — sistematização psicológica e neurobiológica em diálogo com a Psicologia Profunda e Transpessoal. Distinção amor × Eros, Self assexuado integrando anima/animus, leitura mais explícita da tradição brasileira sobre homossexualidade não-patológica. Ver [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]].
 - **[[wiki/personalidades/hammed|Hammed]] / Francisco do Espírito Santo Neto** — *Renovando Atitudes*, *Tudo Vale a Pena*: sublimação como caminho, não como repressão.
 - **[[wiki/personalidades/leon-denis|Léon Denis]]** — *O Problema do Ser e do Destino*: tratamento mais filosófico, no contexto francês do fim do XIX.
-- **Divaldo Franco** — palestras contemporâneas que atualizam linguagem e aproximam-se da psicologia clínica.
 
 **Tema controverso e relevante** para palestras em casa espírita: a posição de cada autor reflete sua época e seu papel; a doutrina viva exige discernimento, hierarquia (Pentateuco prevalece) e prudência pastoral.
 

@@ -130,6 +130,18 @@ Anotações:
 
 A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o **fluxo psíquico** ("circuito de forças"), André Luiz descreve o **órgão sutil** que o opera (centro genésico). Ambos ancoram-se na mesma moldura kardequiana de Lei de Reprodução.
 
+## Em Joanna de Ângelis (Série Psicológica, 1989-2011)
+
+Joanna oferece a sistematização contemporânea — psicológica e neurobiológica — em diálogo aberto com a Psicologia Profunda e Transpessoal (Freud, Adler, Jung, Wilber, Reich), ancorada no Pentateuco. O capítulo-síntese é o cap. 8 de [[wiki/obras/encontro-com-a-paz-e-a-saude|*Encontro com a Paz e a Saúde*]] (LEAL, 2007 — vol. 14, comemorativo do Sesquicentenário do LE).
+
+**Sexo a serviço da vida.** A tese-síntese é antiascetista e antilibertina: *"O sexo foi colocado a serviço da vida e não esta à sua servidão"* (cap. 8). Coerente com ESE cap. XVII, item 11 e com a primeira norma de Emmanuel ("educar, não proibir").
+
+**Neurobiologia integrada.** Onde Emmanuel descreve "circuito magnético" e André Luiz descreve "centro genésico", Joanna descreve **arquitetura neuroendócrina** — luliberina (hipotálamo), oxitocina, vasopressina (fidelidade no homem), endorfina (no clímax) — sem reduzir a sexualidade ao plano fisiológico. A neurobiologia descreve o "como"; a moral espírita responde "para quê".
+
+**Amor × Eros.** A distinção é a categoria pastoral central da série: *"O amor é permanente, enquanto Eros é transitório. (...) O amor utiliza-se de Eros, sem que se lhe submeta"* ([[wiki/obras/amor-imbativel-amor|*Amor, Imbatível Amor*]], cap. 2). Hierarquia integrativa, não exclusão — recusando simultaneamente ascetismo e reducionismo.
+
+**Self assexuado integrando anima/animus.** Releitura junguiana de LE q. 200–202: *"Sendo o Self na sua estrutura psicológica assexuado, avança na escalada humana em busca da [[wiki/conceitos/individuacao|individuação]], assimilando os méritos transcendentes do animus e da anima, de modo a superar os impositivos biológicos da anatomia fisiológica"* (*Encontro*, cap. 4). Para a sistematização completa em oito eixos, ver [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]].
+
 ## Aplicação prática
 
 - **Educar, não condenar.** A energia sexual em si é dom — o juízo moral incide sobre o **uso**, não sobre a presença. Discursos pastorais que tratam o impulso como pecado em si afastam-se de Kardec (LE q. 686, q. 701) e contrariam frontalmente Emmanuel (Vida e Sexo, cap. 1).

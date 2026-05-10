@@ -188,6 +188,35 @@ A diferença com Denis é qualitativa: Denis **estigmatiza** quem mudou; Emmanue
 
 A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). Emmanuel é registrado aqui como **inversão pastoral** que reforça a leitura kardequiana e neutraliza, na tradição espírita brasileira, o vetor estigmatizante deniseano. Casa espírita que precise de referência interna sobre o tema pode citar diretamente *Vida e Sexo* cap. 21 sem necessidade de recorrer a autores fora da tradição.
 
+## Extensão: Joanna de Ângelis (*Encontro com a Paz e a Saúde*, 2007)
+
+A ingestão de [[wiki/obras/encontro-com-a-paz-e-a-saude|*Encontro com a Paz e a Saúde*]] (LEAL, 2007 — vol. 14 da Série Psicológica, comemorativo do Sesquicentenário do LE) acrescenta o **quarto e mais explícito registro** da tradição espírita brasileira sobre o tema, com caução clínica contemporânea.
+
+### Despatologização explícita com referência à OMS
+
+> "Constatado que o homossexualismo não tem natureza patológica, nem é impositivo neuronal, conforme os estudos de nobres neurocientistas da atualidade, reconhecida a tese pela Organização Mundial de Saúde, podemos afirmar, sim, que se encontra geneticamente assinalando alguns neurônios, de forma que a produção de hormônios seja compatível com as heranças espirituais do passado, sempre as grandes delineadoras do presente e do futuro, ou com as necessidades evolutivas." (Joanna de Ângelis / Divaldo, *Encontro com a Paz e a Saúde*, cap. 8)
+
+### Recusa explícita do registro cármico-punitivo
+
+Distinção doutrinariamente significativa em relação à **tese reparativa** que Emmanuel registra como um dos dois cenários possíveis em *Vida e Sexo* cap. 21:
+
+> "O espírito progride viajando através de ambas as polaridades, masculina e feminina, facultando que, na mudança de uma para outra, por necessidade de progresso, as marcas (arquétipos) da existência anterior fixem-se na constituição atual, **sem nenhum caráter de natureza cármica, punitiva**, como pretendem alguns estudiosos, ou por efeito da necessidade de retificação de erros anteriormente praticados, vivenciando novas experiências iluminativas." (cap. 8)
+
+### Análise — refinamento, não nova divergência
+
+Joanna **não contradiz** Kardec — opera no quadro de LE q. 200–202 (sexo é atributo do organismo, não do Espírito). **Refina** Emmanuel: onde Emmanuel ofereceu duas possibilidades (reparativa **ou** missionária) sem prescrever uma sobre a outra, Joanna recua da leitura cármico-punitiva e fixa o quadro em **alternância evolutiva** dos arquétipos anima/animus, com o critério moral incidindo sobre a conduta, não sobre a orientação. A formulação é coerente com a posição de André Luiz em *Sexo e Destino* (1963) — "a alma reencarna, nessa ou naquela circunstância, para melhorar e aperfeiçoar-se e nunca sob a destinação do mal" — e ancora-se na neurociência contemporânea sem reduzir-se a ela.
+
+### Arco completo da tradição espírita brasileira
+
+| Autor | Ano | Posição | Vocabulário |
+|---|---|---|---|
+| Léon Denis | 1908 | Estigma — mudança de sexo "inútil e perigosa"; pessoas "anormais" | "Viragos", "extraviados" |
+| André Luiz / Waldo Vieira | 1963 | Dignidade reencarnatória ante a Justiça Divina | "Irmãos em condições inversivas" |
+| Emmanuel | 1970 | Dignidade pastoral; bissexualidade adquirida; teses reparativa **e** missionária | "Irmãos em experiência" |
+| **Joanna de Ângelis** | **2007** | **Despatologização explícita (caução OMS); recusa do registro punitivo** | "Heranças espirituais"; "necessidades evolutivas" |
+
+Para a sistematização completa da doutrina joanniana sobre sexualidade (oito eixos), ver [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]].
+
 ## Conceitos relacionados
 
 - [[wiki/conceitos/reencarnacao]]

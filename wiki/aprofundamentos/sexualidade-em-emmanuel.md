@@ -154,9 +154,9 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 
 ## Aprofundamento
 
-**Comparações futuras** (a serem desenvolvidas com novas ingestões):
+**Comparações já desenvolvidas e futuras:**
 
-- **Joanna de Ângelis / Divaldo Franco** — psicologia transpessoal aplicada à sexualidade; tom mais terapêutico que o de Emmanuel, especialmente sobre identidades de gênero contemporâneas.
+- **Joanna de Ângelis / Divaldo Franco** — sistematização psicológica e neurobiológica em diálogo com a Psicologia Profunda e Transpessoal, ancorada no Pentateuco. Posição mais explícita da tradição espírita brasileira sobre homossexualidade não-patológica (com caução da OMS), distinção amor × Eros, releitura reencarnacionista de Édipo/Eletra. Ver [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]].
 - **[[wiki/personalidades/hammed|Hammed]] / Francisco do Espírito Santo Neto** — *Renovando Atitudes*, *Tudo Vale a Pena*: sublimação como caminho prático.
 - **[[wiki/personalidades/leon-denis|Léon Denis]]** — *O Problema do Ser e do Destino*, cap. 13: tratamento mais filosófico, com viés conservador francês — diametralmente oposto a Emmanuel sobre homossexualidade. Ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]].
 

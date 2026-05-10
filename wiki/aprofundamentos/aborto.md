@@ -161,7 +161,7 @@ A doutrina é **conservadora em substância** (não relativiza o crime, não aut
 
 **Comparações e desdobramentos futuros:**
 
-- **Joanna de Ângelis / Divaldo Franco** — psicologia transpessoal aplicada ao tema; tom mais terapêutico. A ingerir.
+- **Joanna de Ângelis / Divaldo Franco** — Série Psicológica (1989-2011), psicologia transpessoal e neurobiologia integradas ao Pentateuco. Não trata o aborto em capítulo monográfico, mas a sistematização da sexualidade joanniana está em [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]].
 - **Hammed / Francisco do Espírito Santo Neto** — *Renovando Atitudes*, *Tudo Vale a Pena*. A ingerir para verificar tratamento direto.
 - **Léon Denis** — não desenvolve o tema diretamente (*O Problema do Ser, do Destino e da Dor* trata reencarnação e perispírito, mas não aborto). Nível 2 europeu fica silente.
 
