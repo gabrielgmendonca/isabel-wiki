@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, filho-prodigo, arrependimento, misericordia, reparacao, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-05-09
 status: ativo
 ---
 
@@ -44,13 +44,21 @@ A parábola convida o estudante a duas disposições complementares. Primeiro, a
 
 ## Leitura junguiana de Joanna de Ângelis
 
-A parábola é o **eixo estrutural dos caps. 1–3** de [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15) — o tratado psicoterapêutico mais extenso da Série dedicado a uma única parábola. Joanna trabalha sobre a **tradução do original grego pelas Sociedades Bíblicas Unidas** (escolha tradutológica distinta da utilizada por Kardec em ESE; é nota tradutológica, não divergência doutrinária — o ensino kardecista do retorno permanece intacto). Os arquétipos do ego e do Self são lidos da seguinte forma:
+A parábola é o **eixo estrutural dos caps. 1–3** de [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15) — o tratado psicoterapêutico mais extenso da Série dedicado a uma única parábola. Joanna trabalha sobre a **tradução do original grego pelas Sociedades Bíblicas Unidas** (escolha tradutológica distinta da utilizada por Kardec em ESE; é nota tradutológica, não divergência doutrinária — o ensino kardecista do retorno permanece intacto).
+
+A obra abre (cap. 1) fixando a **estrutura bipolar do ser humano** — anima/animus, polaridades opostas — em diálogo entre Jung, Jesus (Mt 6:3, *"dai com a mão direita, sem que a esquerda o saiba"*) e Robert Louis Stevenson (*O médico e o monstro* / Dr. Jekyll-Mr. Hyde como tradução literária dos dois polos). É nessa moldura antropológica que a parábola é desdobrada nos caps. 2–3: o filho pródigo figura o ego em fragmentação, o pai figura o Self em sua completude, e [[wiki/personalidades/paulo-de-tarso|Paulo]] em **Gálatas 2:20** (*"já não sou eu quem vive, mas o Cristo que vive em mim"*) é apresentado como protótipo bíblico da integração ego↔Self consumada — ponto de chegada do percurso que a parábola descreve.
+
+Os arquétipos do ego e do Self são lidos da seguinte forma:
 
 - **Filho mais novo como ego perverso e ingrato**: ao pedir a herança, "inconscientemente deseja a morte do pai"; a viagem para o "país longínquo" é tentativa de "arrancar as raízes existenciais", a *fome* simboliza a falência das compensações libidinais, e o **insight** ("caindo, porém, em si") opera o despertar do Self.
 - **País longínquo** lido em chave reencarnacionista: pode ser a Terra (para onde vêm os Espíritos com os bens herdados do Pai), o mundo espiritual em fase primária, ou as fases sucessivas da existência (infância → juventude → idade adulta → senectude) que o ego atravessa sem se cristalizar.
+- **Regressão da libido e vontade dirigida** (cap. 3): aplicando a progressão junguiana à libido, Joanna lê a viagem ao país longínquo como o que ocorre quando a energia psíquica é interrompida e **regride ao inconsciente formando complexos**. O retorno do filho exige uma força contrária — a **vontade dirigida**, "impulso da razão" que possibilita atravessar cada fase arquetípica sem que o ego se cristalize numa delas. O insight do filho pródigo é precisamente o instante em que essa vontade rompe a regressão.
 - **Pai misericordioso = Self pleno**: o abraço, a melhor roupa, o anel e o calçado novo são arquétipos da reintegração ego↔Self; o pai que sai para encontrar o filho ainda longe é o Self vindo ao encontro do ego ferido.
 - **Tese-aporte distintiva: ambos os filhos estão doentes.** Joanna lê o irmão mais velho como **Abel mitológico** que agora "gostaria de assassinar Caim que voltou" — *"O filho fiel é o mito representativo de Abel, generoso e bom, que será sacrificado por Caim... Agora, o mito Abel no filho mais velho, gostaria de assassinar Caim, que se tornara bom, que voltara tomando-lhe o lugar"*. O ciúme, o ressentimento e a recusa em entrar na festa são sintomas de fragmentação que **só se integram quando o pai (Self) leva o irmão ressentido para dentro de casa**, completando o arco. O encerramento proposto: *"olharam-se por largo e silencioso tempo de reflexão, superando distâncias emocionais, culminando em demorado abraço de integração dos dois eus num self coletivo"* (cap. 2).
+- **Insight como experiência iluminativa** (cap. 4 — *Experiências de iluminação*): o "tornar em si" da parábola é tratado como protótipo do insight psicoterapêutico — verdadeira psicoterapia que conduz o paciente "ao redescobrimento da sua realidade, da sua origem espiritual, da finalidade existencial". Joanna critica, no mesmo capítulo, a religiosidade castradora ("personalidades psicopatas, na sua grande maioria, refugiam-se nas doutrinas religiosas") em contraste com a leitura espírita do *religare* como restabelecimento do **eixo pleno ego↔Self** — exatamente o eixo que pai e filho refazem no abraço da parábola.
 - **Estado *numinoso*** (categoria junguiana derivada de Rudolf Otto) como meta: o pai misericordioso é, na cena arquetípica, *"o estado numinoso que sempre esteve ao alcance"*. A parábola é, assim, **dispositivo psicoterapêutico arquetípico**, no programa declarado pela autora no prefácio: ponte com a psicologia analítica de Jung.
+
+Para Joanna, a parábola é, portanto, *"todo um conjunto de lições psicoterapêuticas e filosóficas, de cunho moral e espiritual incomum"* (cap. 3) — não apenas figura do arrependimento, mas **dispositivo arquetípico de integração** que articula a doutrina kardecista do retorno (LE q. 1000–1009) com a clínica junguiana do Self.
 
 ## Páginas relacionadas
 

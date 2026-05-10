@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, talentos, responsabilidade, riqueza, obra/ese, lei/trabalho, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-05-09
 status: ativo
 ---
 
@@ -36,7 +36,11 @@ A parábola desafia a inércia e o comodismo. No contexto espírita, ela nos lem
 
 ## Leitura junguiana de Joanna de Ângelis
 
-Em [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15), a parábola dos talentos abre o cap. 7 ("A possível saúde integral") e é relida em chave junguiana: os talentos como **aptidões adormecidas no Self à espera de despertamento**, o servo que enterra o talento como **ego paralisado pelo medo da [[wiki/conceitos/individuacao|sombra]]**. A leitura permanece convergente com Kardec em ESE cap. XVI item 9 — a inutilidade não é virtude, é falta moral —, mas adiciona a tese psicológica de que o talento "enterrado" cristaliza-se como conflito interno: o capital não posto em circulação no plano moral somatiza, deprime, vampiriza. A **conquista do Si** (subseção do mesmo capítulo) opera o binômio saúde-doença como gradiente da integração ego↔Self: a doença não é fatalidade, é convite à interiorização — e os talentos despertos são a moeda dessa integração.
+Em [[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]] (LEAL, 2009 — Série Psicológica vol. 15), a parábola dos talentos abre o **cap. 7 — *A possível saúde integral*** (subseções: *A parábola dos talentos · A conquista do Si · Binômio saúde-doença*) e é relida em chave junguiana. Joanna parte de um diagnóstico das **paradoxias contemporâneas da saúde** — anorexia e bulimia, *fast foods*, cirurgias bariátricas eletivas, retirada de costelas em busca da silhueta-Barbie, *gurus* psicologicamente enfermos — para mostrar que a inutilidade dos talentos recebidos somatiza-se em adoecimento individual e coletivo: a parábola é, hoje, **manual de saúde integral**, não exortação moral abstrata.
+
+Os talentos, nessa leitura, são **aptidões adormecidas no Self à espera de despertamento**; o servo que enterra o talento é o **ego paralisado pelo medo da [[wiki/conceitos/individuacao|sombra]]**, incapaz de pôr em circulação o capital recebido. A leitura permanece convergente com Kardec em ESE cap. XVI item 9 — a inutilidade não é virtude, é falta moral —, mas adiciona a tese psicológica de que o talento "enterrado" cristaliza-se como conflito interno: o capital não posto em circulação no plano moral **somatiza, deprime, vampiriza**.
+
+A **conquista do Si** (segunda subseção do capítulo) opera o **binômio saúde-doença** como gradiente da integração ego↔Self: a doença não é fatalidade, é convite à interiorização — e os talentos despertos são a moeda dessa integração. O tédio existencial, a depressão e os transtornos somáticos contemporâneos são, todos, formas modernas de "esconder o talento na terra"; a saúde integral é o reverso desse gesto — pôr a render, no plano moral e psíquico, o que foi confiado pelo Pai.
 
 ## Páginas relacionadas
 
