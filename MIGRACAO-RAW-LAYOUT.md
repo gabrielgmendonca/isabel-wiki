@@ -1,6 +1,6 @@
 # Migração do layout de `raw/`
 
-Plano transitório para zerar o legado de slugs/hierarquia em `raw/`. Quando todos os warnings de `check_raw_layout` forem resolvidos, este arquivo pode ser removido (ou virar nota histórica no `ROADMAP.md`).
+Plano transitório para zerar o legado de slugs/hierarquia em `raw/`. **Concluído em 2026-05-10** — `check_raw_layout` zera; este arquivo pode ser removido ou virar nota histórica no `ROADMAP.md`. Mantido enquanto os refinos opcionais (severidade `error`, hook PostToolUse) não forem promovidos.
 
 ## Esquema canônico (referência)
 
@@ -21,11 +21,13 @@ Plano transitório para zerar o legado de slugs/hierarquia em `raw/`. Quando tod
 | Escopo | Status | Notas |
 |---|---|---|
 | `raw/palestras` | concluído | 19 renames aplicados em 2026-05-09. Pares `<TÍTULO>` + `summary-` preservados. |
-| `raw/autores/leon-denis` | pendente | PDFs com `Snake_Case` e `Title Case`; sufixos `-min` e `_` URL-encoded. |
-| `raw/mediuns/chico-xavier` | pendente | 28 obras soltas no nível do médium. Mapping `OBRA_TO_SPIRIT` distribui entre Emmanuel/André Luiz/Humberto-de-Campos. Revisar mapping antes de aplicar. |
-| `raw/mediuns/divaldo-franco` | pendente | 19 obras + diretórios bagunçados. `__default__` envia para `joanna-de-angelis/`. Casos `c3a0`/`c3a2` (UTF-8 escapado) tratados via `_decode_url_encoded`. |
-| `raw/mediuns/francisco-neto` | pendente | 1 obra (`AS-DORES-DA-ALMA`) → `francisco-neto/diversos/`. |
+| `raw/mediuns/francisco-neto` | concluído | 2026-05-10 — 4 renames: `AS-DORES-DA-ALMA` → `diversos/as-dores-da-alma`. |
+| `raw/mediuns/chico-xavier` | concluído | 2026-05-10 — 28 obras distribuídas: emmanuel/ (12), andre-luiz/ (15), humberto-de-campos/ (1 — Boa Nova). 114 wikilinks atualizados. |
+| `raw/autores/leon-denis` | concluído | 2026-05-10 — 174 renames (4 obras + 170 imagens em `assets/`). Sufixo `-min` removido. 4 wikilinks atualizados. |
+| `raw/mediuns/divaldo-franco` | concluído | 2026-05-10 — 175 renames + 8 obras novas incorporadas no layout canônico. `c3a0`/`c3a2` decodificados. 73 wikilinks atualizados. |
 | `raw/autores/cairbar-schutel`, `euripedes-barsanulfo`, `martins-peralva` | sem ação | Apenas `.gitkeep`, nada para migrar. |
+
+**Estado final (2026-05-10):** `check_raw_layout` retorna 0 achados em todo o `raw/`. Migração completa.
 
 ## Workflow recomendado por escopo
 
@@ -43,6 +45,7 @@ Plano transitório para zerar o legado de slugs/hierarquia em `raw/`. Quando tod
 - **PDFs sem extrato** (`pdf_without_extract`): decidir se vale extrair ou se o PDF é arquivado bruto.
 - **Imagens fora de `assets/`** (`images_not_in_assets`): 17 ocorrências; o normalizador move automaticamente.
 - **`raw/mediuns/divaldo-franco/jesus-e-o-evangelho-c3a0-luz-...`**: nome com UTF-8 escapado; o normalizador agora decodifica para "à"/"â". Conferir resultado.
+- **Split state após apply** (caso `momentos-de-felicidade` em divaldo-franco, 2026-05-10): o normalizador moveu o `.pdf` para `joanna-de-angelis/` mas deixou o diretório `<obra>/` com `.md`+`_meta.json` no nível anterior. Resolução manual via `git mv <obra> joanna-de-angelis/<obra>`. Caso reapareça em outros médiuns, vale investigar o `infer_spirit_author` para garantir que diretório e PDF tomem a mesma decisão.
 
 ## Próximos refinos opcionais (após zerar legado)
 
