@@ -1,0 +1,34 @@
+// IsAbel — tipografia
+//
+// (A) Bump default no mobile: leitor típico da wiki é mais velho e lê
+//     trechos longos em smartphone; o default Quartz (16px) fica apertado.
+// (B) Escala controlada pelo leitor via componente FontSize. Atributo
+//     data-font-scale é gravado em <html> e persistido em localStorage.
+//
+// Quartz v4 não declara uma variável base — todo o tipo escala em rem a
+// partir do html { font-size }. Setamos a raiz para mexer em tudo.
+
+@media (max-width: 800px) {
+  html {
+    font-size: 18px;
+  }
+
+  article {
+    p,
+    li {
+      line-height: 1.7;
+    }
+  }
+}
+
+// Escala manual — desktop
+:root[data-font-scale="sm"]  { font-size: 14px; }
+:root[data-font-scale="lg"]  { font-size: 18px; }
+:root[data-font-scale="xl"]  { font-size: 20px; }
+
+// Escala manual — mobile (parte de uma base já maior)
+@media (max-width: 800px) {
+  :root[data-font-scale="sm"] { font-size: 16px; }
+  :root[data-font-scale="lg"] { font-size: 20px; }
+  :root[data-font-scale="xl"] { font-size: 23px; }
+}

@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import glossaryStyle from "./styles/glossary.scss"
+import typographyStyle from "./styles/typography.scss"
 import { version } from "../../package.json"
 
 interface Options {
@@ -52,6 +53,6 @@ export default ((opts?: Options) => {
     )
   }
 
-  Footer.css = style + glossaryStyle
+  Footer.css = style + glossaryStyle + typographyStyle
   return Footer
 }) satisfies QuartzComponentConstructor

@@ -1,0 +1,35 @@
+.fontsize-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0.5rem 0;
+
+  button {
+    background: var(--light);
+    color: var(--darkgray);
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    font-family: var(--bodyFont);
+    line-height: 1;
+
+    &:hover {
+      background: var(--lightgray);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 1px;
+    }
+
+    &.fontsize-down { font-size: 0.75rem; }
+    &.fontsize-up   { font-size: 1rem; }
+  }
+
+  .fontsize-label {
+    font-size: 0.75rem;
+    color: var(--gray);
+    user-select: none;
+  }
+}

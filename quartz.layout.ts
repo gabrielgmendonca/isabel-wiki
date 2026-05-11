@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import FontSize from "./quartz/components/FontSize"
 
 // Componentes compartilhados entre todas as páginas
 export const sharedPageComponents: SharedLayout = {
@@ -33,6 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    FontSize(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -60,6 +62,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    FontSize(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
