@@ -16,7 +16,7 @@ Gabriel Mendonça · 11/05/2026 · Centro Espírita Emmanuel
 
 ---
 
-## Quando o cuidado vira controle?
+## Quando a *rigidez* gera *dor*?
 
 ---
 
