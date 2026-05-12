@@ -5,7 +5,7 @@ tags: [humberto-de-campos, espirito-autor, academia-brasileira-de-letras, jornal
 aliases:
   - "Conselheiro XX"
   - "Humberto de Campos Veras"
-atualizado_em: 2026-05-07
+atualizado_em: 2026-05-12
 status: ativo
 ---
 
@@ -23,9 +23,10 @@ A inflexão temática que Humberto opera ao psicografar é explicitada por ele p
 
 ## Obras associadas
 
-Obras espirituais ditadas por Humberto de Campos a Chico Xavier:
+Contribuições espirituais de Humberto de Campos psicografadas por Chico Xavier presentes na wiki:
 
-- [[wiki/obras/boa-nova]] — Humberto de Campos / Chico Xavier (psicografia em Pedro Leopoldo, 09/11/1940; FEB 1941). Trinta episódios narrativos do "folclore espiritual do Cristianismo", cada um articulado a um trecho específico do Evangelho. Primeira psicografia da parceria Humberto/Chico.
+- [[wiki/obras/parnaso-de-alem-tumulo]] — prefácio *"De pé, os mortos!"* (psicografado para reedição posterior à 1ª edição de 1932). **Primeira contribuição editorial de Humberto na trajetória chicoxaveriana**, anterior em quase uma década a *Boa Nova*. Texto curto que articula três teses operacionais: continuidade da consciência e dos interesses no Além ("os mortos prossigam com as mesmas tendências"), determinismo sensorial por Esfera ("cada Esfera da vida está subordinada a certo determinismo, no domínio do conhecimento e da sensação") e convocação ativa dos desencarnados ao auxílio dos vivos — ecoando o gesto histórico do almirante Tōgō no cemitério de Oogama após a batalha de Tsushima. Inflexão pré-evangélica do Humberto-espírito, anunciando o registro pastoral que se consolidaria em *Boa Nova*.
+- [[wiki/obras/boa-nova]] — Humberto de Campos / Chico Xavier (psicografia em Pedro Leopoldo, 09/11/1940; FEB 1941). Trinta episódios narrativos do "folclore espiritual do Cristianismo", cada um articulado a um trecho específico do Evangelho. Primeira psicografia narrativa da parceria Humberto/Chico em formato de livro.
 
 Obras de Humberto de Campos atribuídas a recepção mediúnica de Chico Xavier mas **ainda sem página própria** na wiki (candidatas a futuro `/ingest`):
 
@@ -48,10 +49,12 @@ E, sobre o objetivo do registro evangélico:
 ## Páginas relacionadas
 
 - [[wiki/personalidades/chico-xavier|Chico Xavier]] — médium psicógrafo da parceria.
+- [[wiki/obras/parnaso-de-alem-tumulo]] — prefácio "De pé, os mortos!".
 - [[wiki/obras/boa-nova]] — obra ingerida na wiki.
 
 ## Fontes
 
+- XAVIER, Francisco Cândido. Prefácio "De pé, os mortos!" em *Parnaso de Além-Túmulo*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/parnaso-de-alem-tumulo]].
 - Prefácio "Na Escola do Evangelho" — Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941.
 - Biografia encarnada e contexto da Academia Brasileira de Letras: registros públicos da ABL, cadeira 20.
