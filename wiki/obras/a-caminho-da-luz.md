@@ -6,7 +6,7 @@ direitos:
   detentor: FEB
   ano_dp_estimado: 2073
   url_aquisicao: https://www.febeditora.com.br/a-caminho-da-luz
-atualizado_em: 2026-04-30
+atualizado_em: 2026-05-12
 status: ativo
 ---
 
@@ -82,7 +82,7 @@ A Reforma Protestante é vista como tentativa de retorno às fontes evangélicas
 
 ### O Espiritismo e o futuro (caps. 24–25)
 
-Emmanuel apresenta o Espiritismo como a força moral capaz de restaurar o Cristianismo deturpado e conduzir a Humanidade pela transição planetária. A Terra passará por uma seleção espiritual: os obstinados no mal serão afastados, e uma nova era se inaugurará. A América — e o Brasil em particular — é apontada como destino da civilização do futuro, pela preservação da sua integridade territorial sob orientação do Plano Espiritual.
+Emmanuel apresenta o Espiritismo como a força moral capaz de restaurar o Cristianismo deturpado e conduzir a Humanidade pela transição planetária. A Terra passará por uma seleção espiritual: os obstinados no mal serão afastados, e uma nova era se inaugurará. A América — e o Brasil em particular — é apontada como destino da civilização do futuro, pela preservação da sua integridade territorial sob orientação do Plano Espiritual. A elaboração específica desta tese para o caso brasileiro está em [[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho]] (Humberto de Campos/Chico Xavier, 1938), obra-irmã publicada um ano antes que narra com detalhe a missão da [[wiki/conceitos/patria-do-evangelho|Pátria do Evangelho]] sob a tutela de [[wiki/personalidades/ismael|Ismael]].
 
 ## Temas centrais
 
