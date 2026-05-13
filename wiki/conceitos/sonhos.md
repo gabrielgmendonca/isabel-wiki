@@ -1,7 +1,7 @@
 ---
 tipo: conceito
-fontes: [LE, LM, RE, OPE]
-tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, grau/intermediario, tema/mediunidade]
+fontes: [LE, LM, RE, OPE, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
+tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-05-12
 status: ativo
 ---
@@ -76,6 +76,72 @@ Sobre os sonhos de **voo** e **atravessar paredes**, ele propõe leitura espíri
 
 A nota mais útil para a vida prática diz respeito à **memória profunda**: ao lado da memória normal, "que só abarca o círculo estreito da vida presente", existe uma memória que "abrange toda a história do ser, desde sua origem, suas etapas sucessivas, seus modos de existência, planetários ou celestes. Lembranças e sensações, todo um passado esquecido, ignorado no estado de vigília, está gravado em nós; este passado só desperta na exteriorização, durante o sono comum ou provocado" (*O Problema do Ser*, Parte I).
 
+## André Luiz — fenomenologia do sono
+
+A série psicografada por Chico Xavier sob a autoria espiritual de [[wiki/personalidades/andre-luiz|André Luiz]] retoma a doutrina de Kardec, mas a descreve **do ponto de vista do plano espiritual** — testemunhando reuniões noturnas de encarnados, mecânica fisiológica do desprendimento e tipologia das influências que cercam quem adormece.
+
+### Atividade real durante o sono
+
+O capítulo 8 de *Missionários da Luz* leva o título "No Plano dos sonhos" e é dedicado inteiramente ao tema. Alexandre conduz André Luiz a uma aula noturna no salão onde se congregam espíritos desencarnados e **encarnados em desdobramento**:
+
+> "Era considerável o número de amigos encarnados, provisoriamente libertos do corpo físico através do sono, que se congregavam no vasto salão." (*Missionários da Luz*, cap. 8)
+
+A advertência sobre o aproveitamento dessa franquia é direta:
+
+> "Quando encarnados, na Crosta, não temos bastante consciência dos serviços realizados durante o sono físico; contudo, esses trabalhos são inexprimíveis e imensos. Se todos os homens prezassem seriamente o valor da preparação espiritual, diante de semelhante gênero de tarefa, certo efetuariam as conquistas mais brilhantes, nos domínios psíquicos, ainda mesmo quando ligados aos envoltórios inferiores." (*Missionários da Luz*, cap. 8)
+
+E o avesso — o uso degradado do desprendimento noturno:
+
+> "Infelizmente, porém, a maioria vale-se, inconscientemente, do repouso noturno para sair à caça de emoções frívolas ou menos dignas. Relaxam-se as defesas próprias, e certos impulsos, longamente sopitados durante a vigília, extravasam em todas as direções, por falta de educação espiritual, verdadeiramente sentida e vivida." (*Missionários da Luz*, cap. 8)
+
+### Mecânica do desprendimento — a mente justaposta
+
+Em *Mecanismos da Mediunidade*, o foco fisiológico se aprofunda. A maioria das criaturas, ainda apegadas à animalidade, não viaja muito ao adormecer — fica **justaposta** ao corpo, ruminando a si mesma:
+
+> "Atreita ao narcisismo, tão logo demande o sono, quase sempre se detém justaposta ao veículo físico, como acontece ao condutor que repousa ao pé do carro que dirige, entregando-se à volúpia mental com que alimenta os próprios impulsos afetivos, enquanto a máquina se refaz." (*Mecanismos da Mediunidade*)
+
+Quando há desprendimento mais amplo, a lei de afinidade dirige o Espírito para onde o coração esteja:
+
+> "O homem do campo, no repouso físico, supera os fenômenos hipnagógicos e volta à gleba que semeou contemplando aí, em Espírito, a plantação que lhe recolhe o carinho; o artista regressa à obra a que se consagra, mentalizando-lhe o aprimoramento; o espírito maternal se aconchega ao pé dos filhinhos que a vida lhe confia, e o delinquente retorna ao lugar onde se encarcera a dor do seu arrependimento." (*Mecanismos da Mediunidade*)
+
+Em *Evolução em Dois Mundos*, a localização anatômica é mais explícita — os sonhos não-libertadores mobilizam o **núcleo da visão superior, no diencéfalo**, plasmando imagens a partir da própria memória afetiva:
+
+> "É dessa forma, aliviando o controle sobre as células que a servem no corpo carnal, que a mente se volta, no sono, para o refúgio de si mesma, plasmando na onda constante de suas próprias ideias as imagens com que se compraz nos sonhos agradáveis em que saca da memória a essência de seus próprios desejos, retemperando-se na antecipada contemplação dos painéis ou situações que almeja concretizar. Para isso, mobiliza os recursos do núcleo da visão superior, no diencéfalo..." (*Evolução em Dois Mundos*)
+
+### Assistência espiritual via desprendimento
+
+A "libertação pelo sono" é o canal habitual de socorro aos encarnados:
+
+> "A libertação pelo sono é o recurso imediato de nossas manifestações de amparo fraterno. A princípio, recebem-nos a influência inconscientemente; em seguida, porém, fortalecem a mente, devagarinho, gravando-nos o concurso na memória, apresentando ideias, alvitres, sugestões, pareceres e inspirações beneficentes e salvadoras, através de recordações imprecisas." (*No Mundo Maior*)
+
+André Luiz faz convergir a tradição magnética terrena (Puységur, hipnotismo de Braid) com a vivência cotidiana do plano espiritual:
+
+> "De Puysegur foi dos primeiros magnetistas que encontraram o sono revelador [...]. Entretanto, para nós, 'neste lado' da vida, o fenômeno é corriqueiro: diariamente milhões de pessoas adormecem sob a influência magnética de amigos espirituais, a fim de serem auxiliadas nas resoluções inadiáveis." (*No Mundo Maior*, cap. 4)
+
+### Vampirismo e obsessão noturna
+
+A mesma porta que serve ao socorro serve ao parasitismo. Em *Os Mensageiros*, a advertência é taxativa:
+
+> "Através das correntes magnéticas suscetíveis de movimentação, quando se efetua o sono dos encarnados, são mantidas obsessões inferiores, perseguições permanentes, explorações psíquicas de baixa classe, vampirismo destruidor, tentações diversas. Ainda são poucos, relativamente, os irmãos encarnados que sabem dormir para o bem..." (*Os Mensageiros*, cap. 39)
+
+Em *Evolução em Dois Mundos*, o caráter bifrontal da exposição noturna fica explícito — o mesmo sono que atrai amparo atrai também [[wiki/conceitos/vampirismo-espiritual|vampirismo espiritual]]:
+
+> "Numa e noutra condição, todavia, é a mente suscetível à influenciação dos desencarnados que, evoluídos ou não, lhe visitam o ser, atraídos pelos quadros que se lhe filtram da aura, ofertando-lhe auxílio eficiente quando se mostre inclinada à ascensão de ordem moral, ou sugando-lhe as energias e assoprando-lhe sugestões infelizes quando, pela própria ociosidade ou intenção maligna, adere ao consórcio psíquico de espécie aviltante..." (*Evolução em Dois Mundos*)
+
+### Amnésia relativa, benefício real
+
+A explicação fisiológica de Kardec ("o cérebro só registra o que passa por sua via sensorial", LE q. 403) ressurge aqui sob outro ângulo: o **fruto espiritual permanece** mesmo quando o cérebro físico não recupera o conteúdo da aula noturna:
+
+> "O homem eterno guarda a lembrança completa e conservará consigo todos os ensinamentos, intensificando-os e valorizando-os, de acordo com o estado evolutivo que lhe é próprio. O homem físico, entretanto, escravo de limitações necessárias, não pode ir tão longe [...]. As aulas, no teor da que será por você assistida nesta noite, são mensageiras de inexprimíveis utilidades práticas. Em despertando, na Crosta, depois delas, os aprendizes experimentam alívio, repouso e esperança..." (*Missionários da Luz*, cap. 8)
+
+Eco direto do que Kardec antecipara nos "sonhos etéreos" da Revista Espírita de 1865 — o esquecimento não anula o ganho.
+
+### Sono e reencarnação
+
+A doutrina se aplica ainda ao processo gestacional. Em *No Mundo Maior*, a criança em [[wiki/conceitos/reencarnacao|reencarnação]] encontra-se em estado de "sono brando", sob influência psíquica direta dos pais que a recebem:
+
+> "A mente do filhinho, em processo de reencarnação, como se fora violentada num sono brando, suplicava, chorosa: — Poupa-me! Poupa-me! Quero acordar no trabalho! Quero viver e reajustar o destino..." (*No Mundo Maior*)
+
 ## Aplicação prática
 
 - **Preparação moral para o repouso.** Se o sono é a porta para a vida espiritual, a disposição com que adormecemos importa: pensamentos elevados, prece e reconciliação com o dia atraem encontros benéficos; agitação, mágoa e indulgência atraem o oposto (LE, q. 402 — "antipatias invencíveis" e simpatias intuitivas têm origem nesses encontros noturnos).
@@ -99,11 +165,16 @@ O LM trata o sonho como **forma elementar de manifestação aparente**: "As mani
 - [[wiki/conceitos/morte]] — libertação definitiva da qual o sono é prefiguração diária
 - [[wiki/conceitos/livre-arbitrio]] — o Espírito desprendido conserva a sua vontade, não a do corpo
 - [[wiki/conceitos/mediunidade]] — sonhos como entrada das manifestações aparentes
+- [[wiki/conceitos/vampirismo-espiritual]] — a exposição obsessiva do sono é seu corolário patológico (André Luiz)
+- [[wiki/personalidades/andre-luiz]] — fenomenologia do desprendimento noturno vista do plano espiritual
 - [[wiki/obras/livro-dos-espiritos]] — Parte 2, cap. VIII, q. 400–419
 - [[wiki/obras/livro-dos-mediuns]] — manifestações aparentes; sonambulismo mediúnico
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — Parte I, sono, sonho e memória profunda
-- [[wiki/obras/missionarios-da-luz]] — assistência espiritual a encarnados durante o sono
-- [[wiki/obras/os-mensageiros]] — colaboração com encarnados em desprendimento
+- [[wiki/obras/missionarios-da-luz]] — cap. 8 "No Plano dos sonhos"; assistência espiritual a encarnados durante o sono
+- [[wiki/obras/os-mensageiros]] — colaboração com encarnados em desprendimento; cap. 39 sobre vampirismo noturno
+- [[wiki/obras/no-mundo-maior]] — libertação pelo sono como recurso de socorro fraterno
+- [[wiki/obras/evolucao-em-dois-mundos]] — diencéfalo como núcleo da visão superior nos sonhos
+- [[wiki/obras/mecanismos-da-mediunidade]] — mente justaposta ao corpo e lei de afinidade noturna
 - [[wiki/obras/autodescobrimento]] — sonhos como linguagem do si profundo (Joanna de Ângelis)
 
 ## Fontes
@@ -113,3 +184,8 @@ O LM trata o sonho como **forma elementar de manifestação aparente**: "As mani
 - Kardec, Allan. *Revista Espírita*, jul/1865 — "Teoria dos sonhos" (categorização tripartite: sonhos materiais, mistos e etéreos). Edição: [[raw/kardec/revista-espirita/1865/07-julho]].
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos", §IV (emancipação da alma).
 - Denis, Léon. *O Problema do Ser, do Destino e da Dor*. Parte I — "O sono e o sonho"; "A memória profunda". Edição: [[raw/autores/leon-denis/o-problema-do-ser-do-destino-e-da-dor/o-problema-do-ser-do-destino-e-da-dor]].
+- Xavier, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 8 — "No Plano dos sonhos". Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- Xavier, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944. Cap. 39 — vampirismo e obsessão durante o sono. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
+- Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. A libertação pelo sono como canal de socorro espiritual. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- Xavier, Francisco Cândido; Vieira, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Diencéfalo como núcleo da visão superior nos sonhos; influenciação noturna. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
+- Xavier, Francisco Cândido; Vieira, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Mente justaposta ao corpo no sono; lei de afinidade noturna. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
