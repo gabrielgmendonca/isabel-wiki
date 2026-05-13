@@ -1,7 +1,7 @@
 ---
 tipo: conceito
-fontes: [LE, LM, RE, OPE, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
-tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/mediunidade]
+fontes: [LE, LM, RE, OPE, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, Joanna de Ângelis/Divaldo Franco]
+tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, autor/joanna-de-angelis, autor/divaldo-franco, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-05-12
 status: ativo
 ---
@@ -142,6 +142,62 @@ A doutrina se aplica ainda ao processo gestacional. Em *No Mundo Maior*, a crian
 
 > "A mente do filhinho, em processo de reencarnação, como se fora violentada num sono brando, suplicava, chorosa: — Poupa-me! Poupa-me! Quero acordar no trabalho! Quero viver e reajustar o destino..." (*No Mundo Maior*)
 
+## Joanna de Ângelis — sonhos na psicologia profunda
+
+Na [[wiki/sinteses/serie-psicologica-joanna-de-angelis|Série Psicológica]] (1989-2011), [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] relê os sonhos a partir da ponte tripartite **Kardec ↔ Jung ↔ Quarta Força**. A leitura preserva integralmente a doutrina kardecista do desprendimento parcial no sono — *"sem dúvida, em muitos casos, o Eu superior, o Espírito, em se deslocando do corpo, realiza viagens e mantém contatos com outros, cujas impressões são registradas pelo cérebro e se reapresentam benéficas, gratificantes, no campo onírico"* (*Autodescobrimento*) — mas amplia o quadro com o vocabulário da psicologia profunda, articulando subconsciente individual (Freud), inconsciente coletivo e arquétipos (Jung) e técnicas operacionais (Quarta Força).
+
+### Subconsciente e sonhos — arquivos do encarnado (Autodescobrimento, 1995)
+
+Em *[[wiki/obras/autodescobrimento|Autodescobrimento]]* (cap. "Subconsciente e Sonhos"), Joanna sistematiza os sonhos como **exteriorização do subconsciente** — arquivo próximo das experiências, "automático, destituído de raciocínio, estático", herdeiro tanto das memórias afetivas da existência atual quanto dos *conflitos não digeridos* da personalidade:
+
+> "Anseios e medos não digeridos, ocorrências incompreendidas e palavras como gestos agressivos, educação castradora, interrogações sem respostas, que se transformaram em conflitos da personalidade, prosseguem aguardando esclarecimentos, liberação, que se reapresentam na área dos sonhos." (*Autodescobrimento*)
+
+As fontes do sonho são plurais e listadas explicitamente: subconsciente arquivado, **libido** (desejos, frustrações, impulsos sexuais contidos), estados afetivos atuais (exaltação, estresse, depressão, fobias) — e, **simultaneamente**, a atividade do Espírito emancipado. Joanna não substitui Kardec por Freud; sobrepõe os dois planos. O *Eu superior* segue se desprendendo no sono — só que a memória cerebral mistura esse aporte com o material do arquivo psíquico.
+
+A contribuição prática mais distintiva é o **"programa de sonhos bons"** — operacionalização espírita das técnicas de autossugestão noturna:
+
+> "Antes de dormir, cumpre sejam fixadas as ideias agradáveis e positivas, visualizando aquilo com que se deseja sonhar, certamente para tirar proveito útil no processo de crescimento interior. [...] Ao planejamento da experiência onírica, sucederá uma forma de autossugestão, de enriquecimento, com uma breve leitura salutar, o exame de consciência para liberar-se dos tóxicos dissolventes da ira, da amargura, do ressentimento, asserenando-se e, mediante a oração, entregando-se à Divina Essência Criadora." (*Autodescobrimento*)
+
+Eco direto da advertência de Kardec em LE q. 402 sobre o estado moral com que se adormece (que determina os encontros noturnos) — agora articulado num protocolo prático passo a passo. Joanna sintetiza o eixo terapêutico no aforismo:
+
+> "Dize-me o que sonhas e eu te direi quem és e qual futuro terás." (*Autodescobrimento*)
+
+### Sonhos como linguagem dos arquétipos (Triunfo Pessoal, 2002)
+
+Em *[[wiki/obras/triunfo-pessoal|Triunfo Pessoal]]* (cap. 1, "Os Arquétipos Junguianos"), Joanna **traduz o sonho para o vocabulário junguiano** — e reescreve a ontologia dos arquétipos em chave reencarnacionista. Os três grandes arquétipos junguianos identificam-se pelo sexo da personificação no sonho:
+
+> "A *sombra*, que pode ser uma personificação não identificada ou teimosamente negada, que se apresenta nos sonhos com as mesmas características e idêntico sexo do paciente; a *anima* e o *animus*, que são conexões inconscientes vinculadas ao coletivo não identificado, expressando-se em sexo oposto ao do sonhador; e, por fim, o *Self* que pode ser entendido como a totalidade, a magnitude do Velho Sábio/Velha Sábia, alterando sua expressão conforme as circunstâncias e apresentando-se em extensa gama de formas humanas, animais e abstratas." (*Triunfo Pessoal*)
+
+O passo doutrinário decisivo é a leitura espírita do material arquetípico — arquétipos **não** são apenas heranças filogenéticas, são também **depósitos das próprias reencarnações**:
+
+> "[são] heranças das experiências vivenciadas em reencarnações transatas, quando o Espírito transferiu, mesmo sem dar-se conta, as lembranças para o inconsciente, nele arquivando todas as realizações, anseios, frustrações, conquistas e prejuízos, facultando o surgimento das futuras imagens primordiais." (*Triunfo Pessoal*)
+
+A sombra deixa de ser pura categoria psicológica para se tornar **"herança dos atos ignóbeis ou infelizes que o Espírito gostaria de esquecer ou negar, mas que prosseguem em mecanismo de punição"** — leitura da lei de causa e efeito aplicada ao material onírico. Anima e animus se explicam pela **polaridade sexual alternada** em encarnações sucessivas (o Espírito é assexuado, vivencia ora um, ora outro polo). O Self, "Velho Sábio/Velha Sábia", **é o próprio Espírito imortal, herdeiro de si mesmo**.
+
+Conclusão da releitura — ao se apresentarem em sonho, os arquétipos são "exteriorizações dos arquivos pessoais e das experiências coletivas — reminiscências liberadas do períspirito, igualmente registradas no inconsciente universal" (*Triunfo Pessoal*). O perispírito kardecista converge funcionalmente com o inconsciente individual junguiano sem identidade ontológica entre os dois.
+
+### Sonhos repetitivos e a imaginação ativa (Em Busca da Verdade, 2009)
+
+*[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]*, volume mais sistematicamente junguiano da Série, aprofunda o tratamento do **sonho repetitivo simbólico** como expressão do inconsciente coletivo:
+
+> "Abarcando o conhecimento geral dos acontecimentos do passado, [o inconsciente coletivo] responde por inúmeros conflitos que assaltam a criatura humana, revelando-se, especialmente, nos sonhos repetitivos, simbólicos e representativos de figuras ou fatos mitológicos, cuja interpretação, além de complexa, constitui um grande desafio." (*Em Busca da Verdade*)
+
+A técnica clínica recomendada é a **imaginação ativa** junguiana — diálogo consciente com o material onírico — agora pensada como ferramenta de **integração reencarnatória**:
+
+> "Nos sonhos, e através da imaginação ativa, consegue-se encontrar os símbolos representativos que, em se tornando conscientes, liberam o indivíduo da sua incidência e da ação morbosa da representação onírica portadora de conflitos." (*Em Busca da Verdade*)
+
+Os **sonhos proféticos** — que Kardec já admitira em LE q. 404 ("se Deus o permitir") — são listados ao lado de simpatia/antipatia, sincronicidade e premonição como **evidências da continuidade do Self transtemporal**, não meras "coincidências" psicológicas. Joanna cita nominalmente o sonho-visão de Jung antecipando a Grande Guerra como caso paradigmático (*Em Busca da Verdade*).
+
+A consequência terapêutica fecha o circuito: os sonhos não são apenas resíduo psicofisiológico (Freud) nem mensagem do inconsciente coletivo (Jung) — são, **simultaneamente**, espelho dos arquivos perispiríticos do Espírito e canal pelo qual o autoconhecimento ([[wiki/conceitos/autoconhecimento]], LE q. 919) opera como dispositivo de [[wiki/conceitos/individuacao|individuação]].
+
+### Sono sem sonhos como estado pré-individuativo
+
+Joanna acrescenta ainda uma chave hermenêutica para o sono profundo sem registro onírico — distinta dos "sonhos etéreos" de Kardec (em que o esquecimento é fruto do excesso de espiritualidade). Há um *sono sem sonhos* **inferior**, sintoma do Espírito ainda mergulhado na consciência coletiva amorfa:
+
+> "Enquanto esse fenômeno [do desenvolvimento espiritual] não ocorrer, o indivíduo permanecerá mergulhado em um estado de *consciência coletiva* amorfa, perdido no emaranhado dos instintos primitivos, das paixões primárias, em nível de *sono sem sonhos,* sem autoidentificação, sem conhecimento da sua realidade espiritual." (*Autodescobrimento*)
+
+A distinção é doutrinariamente importante: o **silêncio onírico inferior** (Espírito ainda não individuado, justaposto ao corpo como descrito por André Luiz em *Mecanismos da Mediunidade*) e o **silêncio onírico superior** (sonho etéreo, Kardec, RE jul/1865) são polos opostos da mesma ausência de lembrança — só que um é estagnação animalizada e o outro é elevação que transborda o cérebro físico.
+
 ## Aplicação prática
 
 - **Preparação moral para o repouso.** Se o sono é a porta para a vida espiritual, a disposição com que adormecemos importa: pensamentos elevados, prece e reconciliação com o dia atraem encontros benéficos; agitação, mágoa e indulgência atraem o oposto (LE, q. 402 — "antipatias invencíveis" e simpatias intuitivas têm origem nesses encontros noturnos).
@@ -149,6 +205,8 @@ A doutrina se aplica ainda ao processo gestacional. Em *No Mundo Maior*, a crian
 - **Não confundir vontade com domínio.** A vontade da vigília não controla o Espírito desprendido (LE, q. 416). Técnicas que prometem "controle do sonho lúcido" para forçar encontros ou descobertas devem ser lidas com reserva — o Espírito vai onde sua condição moral o leva.
 - **Confiar nas intuições matinais.** "Ideias que vos vêm espontaneamente, sem que possais explicar como vos acudiram" (LE, q. 415) merecem atenção: podem ser aprendizado real trazido do desprendimento.
 - **Pressentimentos da própria morte.** A intuição pode ser autêntica (LE, q. 411), mas é prudência não tomar todo presságio como certeza — o filtro do desejo e do temor opera (LE, q. 405).
+- **Programa de sonhos bons (Joanna).** Antes de dormir, fixar imagens positivas, fazer breve leitura salutar, exame de consciência e prece — protocolo de autossugestão noturna que articula a recomendação moral de Kardec com a higiene psíquica da Quarta Força (*Autodescobrimento*).
+- **Imaginação ativa para sonhos repetitivos.** Sonhos simbólicos que retornam pedem decodificação — pelo registro do material onírico ao despertar, pelo diálogo consciente com as imagens, pelo cotejo com a hipótese reencarnatória (*Em Busca da Verdade*). Não substituir psicoterapia indicada; complementar.
 
 ## Sonhos como mediunidade
 
@@ -166,7 +224,10 @@ O LM trata o sonho como **forma elementar de manifestação aparente**: "As mani
 - [[wiki/conceitos/livre-arbitrio]] — o Espírito desprendido conserva a sua vontade, não a do corpo
 - [[wiki/conceitos/mediunidade]] — sonhos como entrada das manifestações aparentes
 - [[wiki/conceitos/vampirismo-espiritual]] — a exposição obsessiva do sono é seu corolário patológico (André Luiz)
+- [[wiki/conceitos/individuacao]] — sonhos como dispositivo de individuação (Joanna ↔ Jung)
+- [[wiki/conceitos/autoconhecimento]] — mandato de LE q. 919 operacionalizado pela leitura dos sonhos
 - [[wiki/personalidades/andre-luiz]] — fenomenologia do desprendimento noturno vista do plano espiritual
+- [[wiki/personalidades/joanna-de-angelis]] — releitura dos sonhos na ponte Kardec ↔ Jung ↔ Quarta Força
 - [[wiki/obras/livro-dos-espiritos]] — Parte 2, cap. VIII, q. 400–419
 - [[wiki/obras/livro-dos-mediuns]] — manifestações aparentes; sonambulismo mediúnico
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — Parte I, sono, sonho e memória profunda
@@ -175,7 +236,10 @@ O LM trata o sonho como **forma elementar de manifestação aparente**: "As mani
 - [[wiki/obras/no-mundo-maior]] — libertação pelo sono como recurso de socorro fraterno
 - [[wiki/obras/evolucao-em-dois-mundos]] — diencéfalo como núcleo da visão superior nos sonhos
 - [[wiki/obras/mecanismos-da-mediunidade]] — mente justaposta ao corpo e lei de afinidade noturna
-- [[wiki/obras/autodescobrimento]] — sonhos como linguagem do si profundo (Joanna de Ângelis)
+- [[wiki/obras/autodescobrimento]] — subconsciente e sonhos; "programa de sonhos bons"; Eu superior em desprendimento (Joanna, vol. 6)
+- [[wiki/obras/triunfo-pessoal]] — arquétipos junguianos (sombra, anima/animus, Self) relidos em chave reencarnacionista (Joanna, vol. 12)
+- [[wiki/obras/em-busca-da-verdade]] — sonhos repetitivos simbólicos, imaginação ativa, sonhos proféticos como evidência do Self transtemporal (Joanna, vol. 15)
+- [[wiki/sinteses/serie-psicologica-joanna-de-angelis]] — síntese do arco 1989-2011 em que a leitura espírita dos sonhos se inscreve
 
 ## Fontes
 
@@ -189,3 +253,6 @@ O LM trata o sonho como **forma elementar de manifestação aparente**: "As mani
 - Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. A libertação pelo sono como canal de socorro espiritual. Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
 - Xavier, Francisco Cândido; Vieira, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Diencéfalo como núcleo da visão superior nos sonhos; influenciação noturna. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
 - Xavier, Francisco Cândido; Vieira, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Mente justaposta ao corpo no sono; lei de afinidade noturna. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL, 1995. Série Psicológica vol. 6. Capítulo "Subconsciente e Sonhos" — subconsciente, libido, Eu superior em desprendimento, "programa de sonhos bons". Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/joanna-de-angelis-autodescobrimento-uma-busca-interior]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Triunfo Pessoal*. Salvador: LEAL, 2002. Série Psicológica vol. 12. Capítulo "Os Arquétipos Junguianos" — sombra, anima/animus, Self lidos em chave reencarnacionista; sonhos como exteriorização do perispírito. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal/dpf-ja-13-triunfo-pessoal]].
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Em Busca da Verdade*. Salvador: LEAL, 2009. Série Psicológica vol. 15. Sonhos repetitivos simbólicos, imaginação ativa, sonhos proféticos como evidência da continuidade do Self. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade/joanna-de-angelis-em-busca-da-verdade]].
