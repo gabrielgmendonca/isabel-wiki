@@ -200,6 +200,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/erraticidade]] — condição do Espírito entre encarnações, escolha das provas (LE, q. 223–236).
 - [[wiki/conceitos/separacao-e-reencontro]] — a morte separa corpos, não Espíritos; reencontro na erraticidade e na reencarnação.
 - [[wiki/conceitos/emancipacao-da-alma]] — sono, sonhos, sonambulismo, êxtase (LE, q. 400–455).
+- [[wiki/conceitos/sonhos]] — imagens retidas da atividade do Espírito durante o sono; tipologia tripartite (RE 1865/07) e psicologia profunda em Léon Denis.
 - [[wiki/conceitos/progresso-espiritual]] — finalidade da criação.
 - [[wiki/conceitos/livre-arbitrio]] — liberdade e responsabilidade.
 - [[wiki/conceitos/potencias-da-alma]] — vontade, consciência, livre-arbítrio, pensamento, disciplina do caráter (Léon Denis, *O Problema do Ser*, Parte 3).
