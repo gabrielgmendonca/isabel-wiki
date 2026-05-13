@@ -9,6 +9,7 @@ dependencies = [
     "google-generativeai>=0.8.6",
     "html-to-markdown>=3.3.2",
     "marker-pdf>=1.10.2",
+    "markitdown[doc,docx,pdf]>=0.1.5",
     "networkx>=3.4.2",
     "nltk>=3.9.4",
     "psutil>=7.2.2",

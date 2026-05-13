@@ -1,24 +1,31 @@
 #!/usr/bin/env python3
-"""Baixa PDFs de um autor em espiritualidades.com.br.
+"""Baixa obras de um autor em espiritualidades.com.br.
 
 Pipeline:
   1. Fetch  https://www.espiritualidades.com.br/Artigos/Art_Sumarios/Sumario_Autores_<L>.htm
   2. Filtra links cujo filename bate `<SURNAME>_<Firstname>_tit_*.htm`
      (matching insensível a acentos — `Léon` casa com `DENIS_Leon_tit_*`).
-  3. Para cada página de obra, procura o primeiro `<a href="*.pdf">`.
-  4. Baixa para `raw/autores/<author-slug>/<titulo-slug>.pdf`.
+  3. Para cada página de obra, escolhe o melhor link conforme `--format`:
+       auto  → .doc → .docx → .pdf  (default; .doc é mais fácil de
+                                     converter para .md)
+       doc   → .doc → .docx         (sem fallback para PDF)
+       pdf   → .pdf                 (comportamento antigo)
+  4. Baixa para `raw/autores/<author-slug>/<titulo-slug>.<ext>`,
+     preservando a extensão original.
 
-Layout resultante (espelha `raw/autores/leon-denis/*.pdf`):
+Layout resultante (com --format auto):
   raw/autores/camille-flammarion/
-    ├── as-casas-mal-assombradas.pdf
-    ├── deus-na-natureza.pdf
+    ├── as-casas-mal-assombradas.doc
+    ├── deus-na-natureza.doc
     └── …
 
 CLI (uso típico):
   uv run python scripts/download_espiritualidades_autor.py \
-      --author "Camille Flammarion"                # baixa tudo
+      --author "Camille Flammarion"                # baixa tudo (.doc preferido)
   uv run python scripts/download_espiritualidades_autor.py \
-      --surname FLAMMARION --firstname Camille     # equivalente, forma longa
+      --author "Camille Flammarion" --format pdf   # força PDF (legado)
+  uv run python scripts/download_espiritualidades_autor.py \
+      --surname FLAMMARION --firstname Camille     # forma longa
   uv run python scripts/download_espiritualidades_autor.py \
       --author "Camille Flammarion" --dry-run      # só lista (não baixa)
   uv run python scripts/download_espiritualidades_autor.py \
@@ -33,7 +40,9 @@ CLI (uso típico):
 Idempotência:
   - HTML fica cacheado em /tmp/espiritualidades-cache/ (apaga essa pasta
     para forçar re-discovery; rodar de novo é barato).
-  - PDFs já presentes no destino são pulados — use --force para sobrescrever.
+  - Arquivos já presentes no destino são pulados — use --force para
+    sobrescrever. A checagem é por extensão: se você baixou `.pdf` antes
+    e re-roda em `--format auto`, o `.doc` é baixado ao lado (não substitui).
 
 Exit codes:
   0 = sucesso (todas obras baixadas ou já presentes)
@@ -45,8 +54,8 @@ Limitações conhecidas:
     suportados pelo atalho --author; nesse caso use --surname/--firstname
     diretamente, ou consulte a página Sumario_Autores_<L>.htm para ver
     a grafia exata do filename.
-  - O site às vezes lista a obra apenas em .doc/.html (sem PDF). Essas
-    aparecem em "sem PDF" no resumo, sem causar erro.
+  - Algumas páginas listam só .html (sem .doc/.pdf). Essas aparecem em
+    "sem fonte" no resumo, sem causar erro.
   - O site tem typos ocasionais nos filenames (ex.: Léon Denis aparece como
     `DENNIS_Leon_tit_*` com NN duplo). Quando o script não encontra obras,
     ele sugere sobrenomes parecidos do mesmo sumário — re-rode com a grafia
@@ -165,21 +174,40 @@ def find_author_book_pages(
     return found
 
 
-def find_pdf_url(html: str, *, page_url: str) -> str | None:
-    """Procura o link `.pdf` na página da obra. Retorna URL absoluta ou None."""
+FORMAT_ORDER: dict[str, tuple[str, ...]] = {
+    "auto": ("doc", "docx", "pdf"),
+    "doc":  ("doc", "docx"),
+    "pdf":  ("pdf",),
+}
+
+
+def find_source_url(
+    html: str, *, page_url: str, formats: tuple[str, ...],
+) -> tuple[str, str] | None:
+    """Procura link da obra na ordem de `formats`. Retorna (url, ext) ou None.
+
+    Para cada formato em ordem, devolve o **primeiro** link cujo path
+    termina em `.<ext>`. Só passa pro próximo formato se nenhum link
+    daquele tipo existir na página.
+    """
     soup = BeautifulSoup(html, "html.parser")
+    by_ext: dict[str, str] = {}
     for a in soup.find_all("a", href=True):
         href: str = a["href"]
-        if ".pdf" not in href.lower():
-            continue
-        # ignora âncoras vazias e mailtos
         if href.startswith("#") or href.lower().startswith("mailto:"):
             continue
-        return urljoin(page_url, href)
+        path = urlparse(href).path.lower()
+        for fmt in formats:
+            if path.endswith(f".{fmt}") and fmt not in by_ext:
+                by_ext[fmt] = urljoin(page_url, href)
+                break
+    for fmt in formats:
+        if fmt in by_ext:
+            return by_ext[fmt], fmt
     return None
 
 
-def download_pdf(url: str, dest: Path, *, delay: float = 0.0) -> int:
+def download_file(url: str, dest: Path, *, delay: float = 0.0) -> int:
     """Baixa stream para `dest`. Retorna bytes gravados. Cria pais se preciso."""
     if delay:
         time.sleep(delay)
@@ -197,18 +225,19 @@ def download_pdf(url: str, dest: Path, *, delay: float = 0.0) -> int:
     return written
 
 
-def pdf_dest(out_dir: Path, pdf_url: str, *, titulo: str) -> Path:
-    """Decide o nome final do PDF dentro de `out_dir`.
+def source_dest(out_dir: Path, source_url: str, *, titulo: str, ext: str) -> Path:
+    """Decide o nome final do arquivo dentro de `out_dir`.
 
     Preferência: slug do título (estável, idêntico ao que `/ingest` usaria).
-    Fallback: stem do filename da URL.
+    Fallback: stem do filename da URL. A extensão é a da fonte real
+    (.doc/.docx/.pdf), não inferida do título.
     """
     if titulo:
         stem = slugify(titulo)
     else:
-        url_stem = Path(unquote(urlparse(pdf_url).path)).stem
+        url_stem = Path(unquote(urlparse(source_url).path)).stem
         stem = slugify(url_stem)
-    return out_dir / f"{stem}.pdf"
+    return out_dir / f"{stem}.{ext}"
 
 
 def parse_author(author: str | None, surname: str | None, firstname: str | None) -> tuple[str, str]:
@@ -255,9 +284,18 @@ def main(argv: list[str] | None = None) -> int:
     )
     ap.add_argument(
         "--force", action="store_true",
-        help="re-baixa PDFs mesmo quando já existem no destino",
+        help="re-baixa arquivos mesmo quando já existem no destino",
+    )
+    ap.add_argument(
+        "--format", choices=sorted(FORMAT_ORDER), default="auto",
+        help=(
+            "ordem de preferência de formato: "
+            "auto=.doc→.docx→.pdf (default, mais fácil de converter p/ .md); "
+            "doc=.doc/.docx só; pdf=.pdf só (comportamento antigo)"
+        ),
     )
     args = ap.parse_args(argv)
+    formats = FORMAT_ORDER[args.format]
 
     surname, firstname = parse_author(args.author, args.surname, args.firstname)
     letter = (args.letter or surname[0]).upper()
@@ -303,7 +341,7 @@ def main(argv: list[str] | None = None) -> int:
     new_bytes = 0
     skipped = 0
     failed: list[tuple[str, str]] = []
-    no_pdf: list[tuple[str, str]] = []
+    no_source: list[tuple[str, str]] = []
 
     for i, (titulo, page_url) in enumerate(book_pages, 1):
         print(f"[{i}/{len(book_pages)}] {titulo}", file=sys.stderr)
@@ -314,16 +352,18 @@ def main(argv: list[str] | None = None) -> int:
             failed.append((titulo, page_url))
             continue
 
-        pdf_url = find_pdf_url(page_html, page_url=page_url)
-        if not pdf_url:
-            print("  (sem PDF nesta página — só HTML/.doc?)", file=sys.stderr)
-            no_pdf.append((titulo, page_url))
+        found = find_source_url(page_html, page_url=page_url, formats=formats)
+        if not found:
+            wanted = "/".join(f".{f}" for f in formats)
+            print(f"  (sem fonte nesta página em {wanted})", file=sys.stderr)
+            no_source.append((titulo, page_url))
             continue
+        source_url, ext = found
 
-        dest = pdf_dest(out_dir, pdf_url, titulo=titulo)
+        dest = source_dest(out_dir, source_url, titulo=titulo, ext=ext)
         rel_dest = dest.relative_to(ROOT) if dest.is_absolute() and ROOT in dest.parents else dest
         if args.dry_run:
-            print(f"  → {pdf_url}", file=sys.stderr)
+            print(f"  → {source_url}", file=sys.stderr)
             print(f"  → {rel_dest}", file=sys.stderr)
             continue
         if dest.exists() and not args.force:
@@ -332,23 +372,23 @@ def main(argv: list[str] | None = None) -> int:
             skipped += 1
             continue
         try:
-            written = download_pdf(pdf_url, dest, delay=args.delay)
+            written = download_file(source_url, dest, delay=args.delay)
             new_bytes += written
             print(f"  baixado: {rel_dest} ({written:,} B)", file=sys.stderr)
         except Exception as exc:  # noqa: BLE001
-            print(f"  ! falha ao baixar PDF: {exc}", file=sys.stderr)
-            failed.append((titulo, pdf_url))
+            print(f"  ! falha ao baixar: {exc}", file=sys.stderr)
+            failed.append((titulo, source_url))
 
     print("", file=sys.stderr)
     print(
         f"resumo: {len(book_pages)} obra(s) descoberta(s); "
-        f"{skipped} já presente(s); {len(no_pdf)} sem PDF; "
+        f"{skipped} já presente(s); {len(no_source)} sem fonte; "
         f"{len(failed)} falha(s); {new_bytes:,} B novos",
         file=sys.stderr,
     )
-    if no_pdf:
-        print("sem PDF:", file=sys.stderr)
-        for t, u in no_pdf:
+    if no_source:
+        print("sem fonte:", file=sys.stderr)
+        for t, u in no_source:
             print(f"  - {t} ({u})", file=sys.stderr)
     if failed:
         print("falhas:", file=sys.stderr)
