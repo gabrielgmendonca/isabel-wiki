@@ -57,4 +57,4 @@ Da inflexão de método após a Proclamação da República, quando Jesus determ
 ## Fontes
 
 - XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 1, 2, 22, 23, 26, 27, 28, 29, 30.
-- Edição: [[raw/mediuns/chico-xavier/brasil-coracao-do-mundo-patria-do-evangelho]].
+- Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].

@@ -80,6 +80,6 @@ Réplica final de Humberto que fecha a crônica:
 ## Fontes
 
 - *Bíblia Sagrada* (ACF). Mt 26-27; Mc 14; Lc 22; Jo 6, 12, 13, 17, 18; At 1:18-19.
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 5 "Judas Iscariotes". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 5 "Judas Iscariotes". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 999-1008 (sobre arrependimento, expiação e reparação). Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (sobre provas voluntárias). Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].

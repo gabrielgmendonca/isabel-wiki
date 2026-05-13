@@ -75,6 +75,8 @@ OBRA_TO_SPIRIT: dict[str, dict[str, str]] = {
         "palavras-de-vida-eterna": "emmanuel",
         "agenda-crista": "emmanuel",
         "boa-nova": "humberto-de-campos",
+        "brasil-coracao-do-mundo-patria-do-evangelho": "humberto-de-campos",
+        "cronicas-de-alem-tumulo": "humberto-de-campos",
         # André Luiz
         "nosso-lar": "andre-luiz",
         "missionarios-da-luz": "andre-luiz",

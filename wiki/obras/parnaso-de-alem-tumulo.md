@@ -19,7 +19,7 @@ status: ativo
 - **Primeira edição:** 1932 (FEB) — **primeira obra publicada do médium**, aos 22 anos, em Pedro Leopoldo.
 - **Editora:** FEB.
 - **Gênero:** antologia poética mediúnica.
-- **Texto integral:** [[raw/mediuns/chico-xavier/parnaso-de-alem-tumulo]].
+- **Texto integral:** [[raw/mediuns/chico-xavier/diversos/parnaso-de-alem-tumulo]].
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Pat/PatIntr.htm).
 
 ## Estrutura
@@ -113,7 +113,7 @@ Personalidades com página própria na wiki:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido. *Parnaso de Além-Túmulo: Poesias Mediúnicas*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/parnaso-de-alem-tumulo]].
+- XAVIER, Francisco Cândido. *Parnaso de Além-Túmulo: Poesias Mediúnicas*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/diversos/parnaso-de-alem-tumulo]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Pat/PatIntr.htm>.
 - KARDEC, Allan. *O Livro dos Médiuns*, cap. XXIV ("Da identidade dos Espíritos"). Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. III, V e XVII. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].

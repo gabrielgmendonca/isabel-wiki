@@ -56,8 +56,8 @@ E, sobre o objetivo do registro evangélico:
 
 ## Fontes
 
-- XAVIER, Francisco Cândido. Prefácio "De pé, os mortos!" em *Parnaso de Além-Túmulo*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/parnaso-de-alem-tumulo]].
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*. Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido. Prefácio "De pé, os mortos!" em *Parnaso de Além-Túmulo*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/diversos/parnaso-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*. Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
 - Prefácio "Na Escola do Evangelho" — Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/boa-nova]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Boa Nova*. Rio de Janeiro: FEB, 1941.
 - Biografia encarnada e contexto da Academia Brasileira de Letras: registros públicos da ABL, cadeira 20.

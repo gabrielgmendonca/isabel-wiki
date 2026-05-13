@@ -10,17 +10,17 @@ status: ativo
 
 ## Definição curta
 
-Designação atribuída ao Brasil pela tradição espírita brasileira como **solo escolhido por Jesus para a regeneração evangélica da humanidade** — território cuja missão coletiva é abrigar e irradiar a vivência cristã restaurada pelo Espiritismo. A formulação canônica é dada por *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo, Pátria do Evangelho]]* (Humberto de Campos / Chico Xavier, 1938) e ecoada por *[[wiki/obras/a-caminho-da-luz|A Caminho da Luz]]* (Emmanuel / Chico Xavier, 1939), onde a América — e o Brasil em particular — é apresentada como destino da civilização futura.
+Designação atribuída ao Brasil pela tradição espírita brasileira como **solo escolhido por Jesus para a regeneração evangélica da humanidade** — território cuja missão coletiva é abrigar e irradiar a vivência cristã restaurada pelo Espiritismo. A formulação canônica é dada por *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo, Pátria do Evangelho]]* (Humberto de Campos / Chico Xavier, 1938) e ecoada por *[[wiki/obras/a-caminho-da-luz|A Caminho da Luz]]* (Emmanuel / Chico Xavier, *A Caminho da Luz*, caps. 24-25), onde a América — e o Brasil em particular — é apresentada como destino da civilização futura.
 
 ## Ensino de Kardec
 
-Kardec não usa a expressão "Pátria do Evangelho" nem nomeia o Brasil como tal — a obra do codificador foi produzida na Europa do séc. XIX e referencia o Brasil apenas em comentários esparsos da *Revista Espírita* (com elogio à recepção da doutrina nas plagas americanas, ver RE 1865-1869). A doutrina propriamente dita sobre o Brasil como pátria do Evangelho é elaboração posterior, **nível 3** (consagrados), articulada pela geração FEB dos anos 30 a partir das psicografias de Humberto de Campos e Emmanuel via Chico Xavier.
+Kardec não usa a expressão "Pátria do Evangelho" nem nomeia o Brasil como tal — a obra do codificador foi produzida na Europa do séc. XIX e referencia o Brasil apenas em comentários esparsos da *Revista Espírita* (cf. RE, 1865-1869, em comentários sobre a recepção da doutrina nas plagas americanas). A doutrina propriamente dita sobre o Brasil como pátria do Evangelho é elaboração posterior, **nível 3** (consagrados), articulada pela geração FEB dos anos 30 a partir das psicografias de Humberto de Campos e Emmanuel via Chico Xavier.
 
 Os fundamentos kardequianos que sustentam o conceito são:
 
-- **LE q. 132-141 e q. 776-800** — lei de progresso aplicada coletivamente: cada povo cumpre missão própria no concerto das nações, sob lei de causa e efeito coletiva.
-- **ESE cap. III** — pluralidade dos mundos habitados e progressão planetária; a Terra como [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] caminhando para [[wiki/conceitos/mundos-regeneradores|mundo regenerador]].
-- **Gênese cap. XI** — transição planetária; geração nova como instrumento do progresso.
+- **(LE, q. 132-141)** — solidariedade entre os povos e missão das nações; **(LE, q. 776-800)** — lei de progresso aplicada coletivamente: cada povo cumpre missão própria no concerto das nações, sob lei de causa e efeito coletiva.
+- **(ESE, cap. III, item 4)** — pluralidade dos mundos habitados e progressão planetária; a Terra como [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] caminhando para [[wiki/conceitos/mundos-regeneradores|mundo regenerador]].
+- **(Gênese, cap. XI, item 13)** — transição planetária; geração nova como instrumento do progresso.
 
 A tese da "Pátria do Evangelho" pode ser lida como aplicação particular dessas três bases ao caso brasileiro, sem contradizê-las.
 
@@ -28,7 +28,7 @@ A tese da "Pátria do Evangelho" pode ser lida como aplicação particular dessa
 
 ### A escolha por Jesus (séc. XIV)
 
-Conforme o cap. 1 de *Brasil, Coração do Mundo*, no último quartel do séc. XIV Jesus, em visita à Terra, encontra a Europa medieval ensanguentada pelas Cruzadas e, vendo no continente sul-americano "espíritos jovens e simples", determina ali a futura instalação do "pensamento cristão, dentro das doutrinas do amor e da liberdade". A forma geográfica de coração que o território brasileiro viria a ter — fixada antes mesmo do Tratado de Tordesilhas — é apresentada como desenho prévio do Plano espiritual: *"o coração geográfico do orbe não se podia fracionar."*
+Conforme (Humberto de Campos / Chico Xavier, *Brasil, Coração do Mundo, Pátria do Evangelho*, cap. 1), no último quartel do séc. XIV Jesus, em visita à Terra, encontra a Europa medieval ensanguentada pelas Cruzadas e, vendo no continente sul-americano "espíritos jovens e simples", determina ali a futura instalação do "pensamento cristão, dentro das doutrinas do amor e da liberdade". A forma geográfica de coração que o território brasileiro viria a ter — fixada antes mesmo do Tratado de Tordesilhas — é apresentada como desenho prévio do Plano espiritual: *"o coração geográfico do orbe não se podia fracionar."*
 
 ### O lema "Deus, Cristo e Caridade"
 
@@ -36,15 +36,15 @@ Em 1500, com a chegada de Cabral, Jesus entrega a [[wiki/personalidades/ismael|I
 
 ### Articulação com a transição planetária
 
-A Pátria do Evangelho funciona como **operacionalização local da transição planetária**: enquanto a Terra como um todo migra da condição de mundo de expiação e provas para a de mundo regenerador (Gênese cap. XI), o Brasil é o solo onde essa migração ganha forma cultural concreta — Cristianismo restaurado pela revelação espírita, vivência da caridade prática, fraternidade entre raças. O cap. 30 explicita: *"o Brasil terá a sua expressão imortal na vida do espírito, representando a fonte de um pensamento novo, sem as ideologias de separatividade, e inundando todos os campos das atividades humanas com uma nova luz."*
+A Pátria do Evangelho funciona como **operacionalização local da transição planetária**: enquanto a Terra como um todo migra da condição de mundo de expiação e provas para a de mundo regenerador (Gênese, cap. XI), o Brasil é o solo onde essa migração ganha forma cultural concreta — Cristianismo restaurado pela revelação espírita, vivência da caridade prática, fraternidade entre raças. O cap. 30 explicita (Humberto de Campos / Chico Xavier, *Brasil, Coração do Mundo, Pátria do Evangelho*, cap. 30): *"o Brasil terá a sua expressão imortal na vida do espírito, representando a fonte de um pensamento novo, sem as ideologias de separatividade, e inundando todos os campos das atividades humanas com uma nova luz."*
 
 ### Caráter brasileiro do Espiritismo
 
-O cap. 29 de *Brasil, Coração do Mundo* destaca a forma específica que o Espiritismo assumiu na Pátria do Evangelho — não como movimento experimental ou laboratorial (como na Europa) mas como **Cristianismo redivivo**: cura mediúnica, água fluidificada, passes, assistência gratuita aos necessitados. Esse traço diferencial é apresentado como expressão direta da missão do território.
+(Humberto de Campos / Chico Xavier, *Brasil, Coração do Mundo, Pátria do Evangelho*, cap. 29) destaca a forma específica que o Espiritismo assumiu na Pátria do Evangelho — não como movimento experimental ou laboratorial (como na Europa) mas como **Cristianismo redivivo**: cura mediúnica, água fluidificada, passes, assistência gratuita aos necessitados. Esse traço diferencial é apresentado como expressão direta da missão do território, em diálogo direto com (ESE, cap. XV, item 10) sobre a caridade como sinal distintivo do verdadeiro discípulo.
 
 ### Maioridade coletiva (pós-1889)
 
-Com a Proclamação da República, o Brasil atinge sua "maioridade coletiva" e Jesus determina a Ismael uma inflexão de método (cap. 27): o Plano espiritual recua das instituições políticas — *"César esclareça o seu próprio coração"* — e concentra-se na evangelização permanente. A Pátria do Evangelho, a partir daí, é responsabilidade dos discípulos encarnados, não mais dos mensageiros invisíveis na linha de frente política.
+Com a Proclamação da República, o Brasil atinge sua "maioridade coletiva" e Jesus determina a Ismael uma inflexão de método (Humberto de Campos / Chico Xavier, *Brasil, Coração do Mundo, Pátria do Evangelho*, cap. 27): o Plano espiritual recua das instituições políticas — *"César esclareça o seu próprio coração"* — e concentra-se na evangelização permanente. A Pátria do Evangelho, a partir daí, é responsabilidade dos discípulos encarnados, não mais dos mensageiros invisíveis na linha de frente política.
 
 ## Aplicação prática
 

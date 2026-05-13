@@ -22,7 +22,7 @@ status: ativo
 - **Editora:** FEB (Federação Espírita Brasileira)
 - **Gênero:** crônica espiritual; coletânea de cenas pós-morte dramatizadas
 - **Origem editorial:** as crônicas foram inicialmente publicadas em colunas do *Correio da Manhã* (Rio de Janeiro), transcritas pelo Sr. Frederico Figner a partir das psicografias de Pedro Leopoldo (cf. cap. 35, em que Humberto se dirige ao próprio médium recapitulando o histórico)
-- **Texto integral:** [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Cat/CatPref.htm)
 
 ## Posição na cronologia Humberto/Chico
@@ -213,7 +213,7 @@ Personalidades históricas mencionadas (sem página na wiki):
 ## Fontes
 
 - XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*. Rio de Janeiro: FEB, 1935.
-- Edição: [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]].
+- Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Cat/CatPref.htm>.
 - KARDEC, Allan. *O Livro dos Médiuns*, cap. XXIV ("Da identidade dos Espíritos"). Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, caps. V, XV, XIX. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].

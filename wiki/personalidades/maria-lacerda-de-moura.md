@@ -56,4 +56,4 @@ Convocação final (mesma crônica):
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 19 "Carta a Maria Lacerda de Moura". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 19 "Carta a Maria Lacerda de Moura". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].

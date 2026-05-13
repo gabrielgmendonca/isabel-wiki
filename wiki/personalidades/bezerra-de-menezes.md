@@ -60,5 +60,5 @@ E, sobre seu chamado ao apostolado em 1885, descrita no cap. 23:
 ## Fontes
 
 - XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 22, 23, 26, 28.
-- Edição: [[raw/mediuns/chico-xavier/brasil-coracao-do-mundo-patria-do-evangelho]].
+- Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].
 - Biografia encarnada: registros públicos da Federação Espírita Brasileira; arquivos de *O País* (1886-1893).

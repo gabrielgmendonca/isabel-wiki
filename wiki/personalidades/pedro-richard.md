@@ -50,4 +50,4 @@ Diretriz programática à visita doutrinária de Humberto (cap. 33):
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, caps. 18 ("A Casa de Ismael") e 33 ("Uma venerável instituição"). Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, caps. 18 ("A Casa de Ismael") e 33 ("Uma venerável instituição"). Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].

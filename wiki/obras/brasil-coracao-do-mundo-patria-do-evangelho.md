@@ -22,7 +22,7 @@ status: ativo
 - **Primeira edição:** 1938
 - **Editora:** FEB (Federação Espírita Brasileira)
 - **Gênero:** história espiritual do Brasil; narrativa providencial
-- **Texto integral:** [[raw/mediuns/chico-xavier/brasil-coracao-do-mundo-patria-do-evangelho]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Bcm/BcmIntrod.htm)
 
 ## Estrutura
@@ -139,5 +139,5 @@ Nenhuma divergência estrutural com o Pentateuco identificada. A obra opera em r
 ## Fontes
 
 - XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938.
-- Edição: [[raw/mediuns/chico-xavier/brasil-coracao-do-mundo-patria-do-evangelho]].
+- Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Bcm/BcmIntrod.htm>
