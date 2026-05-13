@@ -478,6 +478,10 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/proibicao-de-evocar-os-mortos]] — refutação da lei mosaica como argumento contra as evocações (C&I, 1ª parte, cap. XI).
 - [[wiki/conceitos/perturbacao]] — entorpecimento pós-morte, duração variável conforme adiantamento (C&I, 2ª parte, cap. I).
 
+### Sermão do Monte
+
+- [[wiki/sinteses/sermao-do-monte]] — **mapa do discurso programático de Jesus** (Mt 5–7, paralelo em S. Lucas 6:17–49) cruzado com os capítulos do ESE: bem-aventuranças, sal e luz, antíteses da Lei, Pai-Nosso, regra de ouro, frutos, casa sobre a rocha. Humildade e caridade como eixos.
+
 ### Parábolas de Jesus
 
 - [[wiki/sinteses/parabolas-de-jesus]] — **índice temático das 29 parábolas** cobertas na wiki: agrupamento por tema (misericórdia, Reino, prece, vigilância, justiça futura etc.), tabela com referências cruzadas (evangelho × capítulo ESE × tema) e lições doutrinárias transversais.

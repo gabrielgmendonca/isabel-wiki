@@ -86,6 +86,7 @@ No plano pessoal, cada bem-aventurança é um espelho: serve para exame diário.
 - [[wiki/conceitos/perfeicao-moral]] — as bem-aventuranças como roteiro de perfeição.
 - [[wiki/conceitos/homem-de-bem]] — o praticante das bem-aventuranças em forma de retrato moral (ESE, cap. XVII).
 - [[wiki/conceitos/caridade]] · [[wiki/conceitos/humildade]] · [[wiki/conceitos/orgulho]] — virtudes e vícios centrais no eixo das bem-aventuranças.
+- [[wiki/sinteses/sermao-do-monte]] — discurso completo de Mt 5–7 (do qual as bem-aventuranças são a abertura), mapeado por capítulo do ESE.
 - [[wiki/sinteses/parabolas-de-jesus]] — síntese-índice complementar: as parábolas iluminam o Reino que as bem-aventuranças abrem.
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. V, VII, VIII, IX, X, XVII, XXVIII.
 - [[wiki/obras/evangelho-segundo-mateus]] — texto integral do Sermão da Montanha (Mt 5–7).
