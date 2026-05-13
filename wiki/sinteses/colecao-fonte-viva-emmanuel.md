@@ -91,6 +91,12 @@ A função doutrinária do conjunto na hierarquia da wiki é nível 3 (consagrad
 
 ## Páginas referenciadas
 
+### Sínteses-irmãs
+
+- [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — recompõe o Sermão do Monte a partir de 52 capítulos das cinco coletâneas; cinco inflexões pastorais distintivas (trabalho-serviço, adversário × delinquente, anti-intelectualismo evangélico, frutos contra aparência, subida ao monte como crítica social).
+
+### Obras da coleção
+
 - [[wiki/obras/caminho-verdade-e-vida]] — 1948, primeira da série
 - [[wiki/obras/pao-nosso]] — 1950, segunda
 - [[wiki/obras/vinha-de-luz]] — 1952, terceira

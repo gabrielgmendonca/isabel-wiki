@@ -54,6 +54,8 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 
 - [[wiki/personalidades/chico-xavier]] — médium que psicografou suas obras
 - [[wiki/personalidades/jesus]] — figura central dos ensinamentos de Emmanuel
+- [[wiki/sinteses/colecao-fonte-viva-emmanuel]] — síntese das cinco coletâneas evangélicas (CVV, Pão Nosso, Vinha de Luz, Fonte Viva, PVE)
+- [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — leitura emanueliana do Sermão do Monte recomposta a partir de 52 capítulos das cinco coletâneas
 - [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/conceitos/energia-sexual]] · [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — sistematização pastoral sobre amor e sexualidade
 
