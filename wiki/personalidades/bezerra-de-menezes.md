@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Humberto de Campos/Chico Xavier, FEB]
-tags: [bezerra-de-menezes, feb, espiritismo-brasil, medico, politico, patria-do-evangelho, autor/bezerra-de-menezes, autor/chico-xavier, tema/historia-doutrina, grau/intermediario]
+tags: [bezerra-de-menezes, feb, espiritismo-brasil, medico, politico, patria-do-evangelho, autor/bezerra-de-menezes, autor/chico-xavier, tema/historia-doutrina, grau/intermediario, autor/humberto-de-campos]
 aliases:
   - "Adolfo Bezerra de Menezes"
   - "Adolfo Bezerra de Menezes Cavalcanti"

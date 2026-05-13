@@ -152,6 +152,10 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 - Pentateuco (acima) — nível 1 na hierarquia de autoridade.
 - *Obras Póstumas*, *O Que é o Espiritismo*, *O Espiritismo em sua mais simples expressão*, *Resumo da lei dos fenômenos espíritas*, *Revista Espírita*, *Viagem Espírita em 1862* — nível 2.
 
+## Homenagens em obras psicografadas
+
+- [[wiki/obras/cronicas-de-alem-tumulo]] — Humberto de Campos / Chico Xavier (FEB, 1935), **cap. 21 "O grande Missionário"**. Homenagem comemorativa pelos 132 anos do nascimento (03/10/1804–03/10/1936) articulando Kardec à linhagem de João Batista: *"O Consolador prometido à Terra pelo coração misericordioso do Divino Mestre, e que é o Espiritismo, teve o sacrifício de Allan Kardec — o precursor da sua gloriosa disseminação no peito atormentado das criaturas humanas."* Reforça a linhagem [[wiki/personalidades/camille-flammarion|Flammarion]] → Delanne / [[wiki/personalidades/leon-denis|Léon Denis]] / [[wiki/personalidades/charles-richet|Richet]] como herdeira intelectual. Texto narrativo com cena de leito de morte e cortejo de "homens do povo, seres infelizes que ele havia consolado". Compatível com a tese explícita de [[wiki/obras/o-consolador|*O Consolador*]] (Emmanuel/Chico, 1940) que identifica o Espiritismo com o Consolador prometido em Jo 14:16.
+
 ## Páginas relacionadas
 
 - [[wiki/obras/livro-dos-espiritos]]

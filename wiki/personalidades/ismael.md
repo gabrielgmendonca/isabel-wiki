@@ -29,6 +29,7 @@ A bandeira/estandarte "Deus, Cristo e Caridade" — descrita como um fragmento l
 ## Obras associadas
 
 - [[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho]] — fonte primária; Ismael é o protagonista espiritual da narrativa.
+- [[wiki/obras/cronicas-de-alem-tumulo]] — Humberto de Campos / Chico Xavier (FEB, 1935); **antecipação narrativa** da doutrina sobre Ismael, três anos antes de BCM. Caps. 18 ("A Casa de Ismael") e 33 ("Uma venerável instituição") descrevem a Federação Espírita Brasileira como "Casa de Ismael" na Avenida Passos, com falanges invisíveis cooperando junto aos administradores encarnados — preparação literária do que a tese providencial sistemática de 1938 vai articular em escala macro-histórica. [[wiki/personalidades/pedro-richard|Pedro Richard]] aparece como espírito-cooperador residente da Casa, recepcionista e expositor doutrinário.
 - [[wiki/obras/a-caminho-da-luz]] — obra adjacente (Emmanuel/Chico, 1939) que generaliza a tese providencial para a história universal; o Brasil aparece no cap. 25 como "celeiro da civilização futura".
 
 ## Citações relevantes
