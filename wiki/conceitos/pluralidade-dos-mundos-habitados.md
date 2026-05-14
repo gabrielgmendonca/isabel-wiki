@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, urania, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-05-13
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
+atualizado_em: 2026-05-14
 status: ativo
 ---
 
@@ -48,11 +48,15 @@ Kardec reconhece a diversidade dos mundos (LE, q. 55–58) e não especifica qua
 
 Ver [[wiki/obras/o-grande-enigma]].
 
-### Desenvolvimento literário — Camille Flammarion, *Urânia* (1889)
+### Desenvolvimento literário — Camille Flammarion, *Urânia* (1889) e *Estela* (1897)
 
-[[wiki/personalidades/camille-flammarion|Camille Flammarion]] converte a tese em **romance filosófico-científico**. Em [[wiki/obras/urania|*Urânia*]] (1889), a Parte I narra viagem celeste guiada pela musa da Astronomia através das "humanidades desconhecidas": sistemas de sóis triplos coloridos, seres alados-libélula, organismos andróginos, mundos onde a alma pode mudar de corpo sem morrer, seres com até vinte e seis sentidos — encarnação literária do princípio kardequiano de que *"os habitantes [dos outros mundos] têm organizações diferentes"* (LE, q. 57). A Parte III situa **Marte como mundo mais adiantado** que a Terra (humanidade bipede-bialada, atmosfera nutritiva, ausência de guerras), com o desenlace narrativo da reencarnação de Spero e Icleia da Terra para Marte — caso literário do princípio de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). Notavelmente, a obra explicita que *"as almas não possuem sexo e têm um destino igual"* (Parte III, cap. III), em consonância plena com LE q. 200–202.
+[[wiki/personalidades/camille-flammarion|Camille Flammarion]] converte a tese em **romance filosófico-científico** em dois volumes complementares — um par literário que cobre a mesma tese em registros diferentes.
+
+Em [[wiki/obras/urania|*Urânia*]] (1889), a Parte I narra viagem celeste guiada pela musa da Astronomia através das "humanidades desconhecidas": sistemas de sóis triplos coloridos, seres alados-libélula, organismos andróginos, mundos onde a alma pode mudar de corpo sem morrer, seres com até vinte e seis sentidos — encarnação literária do princípio kardequiano de que *"os habitantes [dos outros mundos] têm organizações diferentes"* (LE, q. 57). A Parte III situa **Marte como mundo mais adiantado** que a Terra (humanidade bipede-bialada, atmosfera nutritiva, ausência de guerras), com o desenlace narrativo da reencarnação de Spero e Icleia da Terra para Marte — caso literário do princípio de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). Notavelmente, a obra explicita que *"as almas não possuem sexo e têm um destino igual"* (Parte III, cap. III), em consonância plena com LE q. 200–202.
 
 O aforismo 15 do "testamento científico de Spero" que encerra a obra ecoa LE q. 56–58: *"Os mundos atualmente não são todos habitados. [...] Tais mundos foram habitados no passado, milhares de séculos; tais outros sê-lo-ão no futuro"*.
+
+Oito anos depois, em [[wiki/obras/estela|*Estela*]] (1897), Flammarion retoma o mesmo eixo em registro de romance mais propriamente narrativo. O cap. XII percorre o mapa de Marte ao telescópio (canais, lagos, mar das Sereias, neves polares) — *"Marte é mais antigo e mais adiantado do que a Terra no seu ciclo vital"*; o cap. XXVIII formula em êxtase contemplativo a imagem-síntese da obra: *"Estamos no céu… a Terra é um astro do céu"*; o cap. XXXV repete a cena de Marte como primeira etapa após a Terra — Rafael e Estela morrem juntos no Dachstein durante um cometa e reencarnam em Marte (paralelo direto a Spero e Icleia em *Urânia*). A duplicação narrativa do mesmo desfecho em duas obras consecutivas estabelece Marte, na obra literária de Flammarion, como o **mundo-receptor canônico** para almas terrenas em progresso — leitura ficcional do princípio kardequiano de transmigração entre globos.
 
 ## Contra o antropocentrismo
 
@@ -68,3 +72,4 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Grande Enigma*, Parte IV, seção III. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
 - Flammarion, Camille. *Urânia* (*Uranie*, 1889). Trad. Almir Ribeiro Guimarães. FEB.
+- Flammarion, Camille. *Estela* (*Stella*, 1897). Trad. Almerindo Martins de Castro. FEB.

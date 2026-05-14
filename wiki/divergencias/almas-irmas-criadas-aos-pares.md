@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, Emmanuel/Chico Xavier]
-tags: [reencarnacao, afinidade, almas-gemeas, leon-denis, emmanuel, chico-xavier, obra/le, autor/kardec, autor/leon-denis, autor/emmanuel, autor/chico-xavier, grau/avancado, tema/historia-doutrina]
-atualizado_em: 2026-05-04
+tags: [reencarnacao, afinidade, almas-gemeas, leon-denis, emmanuel, chico-xavier, flammarion, obra/le, autor/kardec, autor/leon-denis, autor/emmanuel, autor/chico-xavier, grau/avancado, tema/historia-doutrina]
+atualizado_em: 2026-05-14
 status: concluída
 ---
 
@@ -50,6 +50,16 @@ A editora original (Casa de Ismael) submeteu objeção formal a Emmanuel, citand
 
 A motivação declarada por Emmanuel para preservar a ressalva é pastoral (combater o relativismo afetivo da modernidade), não doutrinária — o argumento de Kardec contra a fatalidade da união não é refutado.
 
+## Posição de Camille Flammarion (*Estela*, 1897)
+
+Convergência literária do nível 3 a partir de uma terceira voz. No romance filosófico-científico [[wiki/obras/estela|*Estela*]] (Paris: Ernest Flammarion, 1897), o casal protagonista — Rafael Dargilan e Estela d'Ossian — é apresentado como **par predestinado por afinidade adquirida em existência anterior**:
+
+> *"E assim também um mesmo sentimento intuitivo pareceu emergir em seus corações: o de já terem vivido, conservado certas idéias, certas preferências adquiridas em uma existência anterior, e de já se haverem conhecido. Uma afinidade misteriosa parecia uni-los por laços predestinados."* (Camille Flammarion, *Estela*, cap. XXVI)
+
+A obra encerra-se com Rafael e Estela morrendo juntos na geleira do Dachstein e reencarnando em Marte unidos *"em um par inseparável"*, com o "amor vitorioso da morte" como tema-síntese. A formulação de Flammarion difere de Denis e Emmanuel em um ponto: a predestinação é apresentada em registro **literário-poético**, sem ser sistematizada doutrinariamente como em *O Problema do Ser e do Destino* (Denis) ou em *O Consolador* q. 378 (Emmanuel). Não há ressalva ou retratação como na Casa de Ismael — Flammarion publica em romance, não em tratado, e a ficção dispensa o crivo plural característico da metodologia kardecista (ver [[wiki/obras/estela#gênero-romance-ensaio|callout sobre o gênero]]).
+
+A convergência de três vozes de nível 3 (Denis 1899, Flammarion 1897, Emmanuel/Chico 1939–1940) em torno da mesma tese contrária a LE q. 298 indica menos uma reflexão coordenada que **a força do topos literário das "almas gêmeas"** no período tardo-romântico e pós-romântico — exatamente o que Kardec previu ao rejeitar a *"poesia que tem o seu encanto"* (LE q. 298, comentário) em favor da formulação doutrinária precisa.
+
 ## Análise
 
 **Divergência real, com tratamento exemplar em Emmanuel.** Denis e Emmanuel afirmam, em formulações próximas, o que Kardec nega. Na q. 298, Kardec recusa a noção de "união particular e fatal"; ambos a abraçam (Denis sob "almas-irmãs criadas aos pares", Emmanuel sob "alma gêmea como divino complemento da personalidade", já presente em registro narrativo em *Há Dois Mil Anos…*). Na q. 299, Kardec rejeita a expressão "metade" como inexata; Denis romantiza a ideia de pares inseparáveis e Emmanuel a recupera com mesma estrutura, primeiro em romance (1939) e depois em tratado doutrinário (1940).
@@ -68,6 +78,7 @@ O caso de *O Consolador* é doutrinariamente instrutivo por dois motivos:
 - [[wiki/obras/o-problema-do-ser-e-do-destino]]
 - [[wiki/obras/o-consolador]]
 - [[wiki/obras/ha-dois-mil-anos]]
+- [[wiki/obras/estela]]
 
 ## Fontes
 
@@ -75,3 +86,4 @@ O caso de *O Consolador* é doutrinariamente instrutivo por dois motivos:
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - Xavier, Francisco Cândido (Emmanuel). *O Consolador*, q. 378 e Nota final. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
 - Xavier, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor". Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
+- Flammarion, Camille. *Estela* (*Stella*, Paris: Ernest Flammarion, 1897), cap. XXVI. Trad. Almerindo Martins de Castro. FEB. Edição: [[raw/autores/camille-flammarion/estela/estela]].

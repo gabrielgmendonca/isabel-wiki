@@ -96,6 +96,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/obras/o-grande-enigma]] — Léon Denis (1911). Deus e o Universo: argumento cosmológico, harmonia das esferas, lei circular da vida, síntese doutrinária. 4 partes, 16 capítulos + notas complementares.
 
 #### Camille Flammarion
+- [[wiki/obras/estela]] — Camille Flammarion (*Stella*, 1897). Sequência narrativa de *Urânia*: história de amor entre Rafael Dargilan (astrônomo "Solitário" dos Pirineus, alter-ego do autor) e Estela d'Ossian (jovem ex-conventual). O par morre na geleira do Dachstein durante a passagem de um cometa e reencarna em Marte. Capítulo polêmico sobre Lourdes (XXVII) e formulação da "religião da Ciência" como religião do futuro (XXXV — Jesus como "precursor"). Quatro divergências flaggadas; a tese das almas predestinadas (cap. XXVI) atualiza [[wiki/divergencias/almas-irmas-criadas-aos-pares]] com Flammarion como terceira voz literária.
 - [[wiki/obras/urania]] — Camille Flammarion (*Uranie*, 1889). Romance filosófico-científico em três partes que converte em narrativa a tese da pluralidade dos mundos habitados: viagem celeste com a musa da Astronomia (Parte I), drama de Spero e Icleia (Parte II), encontro com Spero reencarnado em Marte (Parte III). Encerra-se com **testamento científico em 25 aforismos** — síntese ontológica espírita-científica. Inclui duas divergências menores em callout inline (diluição religiosa, tom anti-bíblico).
 
 #### Carlos Mendonça

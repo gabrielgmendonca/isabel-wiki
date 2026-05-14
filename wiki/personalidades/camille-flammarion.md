@@ -4,7 +4,7 @@ fontes: [OPE, RE]
 tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, urania, marte, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
-atualizado_em: 2026-05-13
+atualizado_em: 2026-05-14
 status: ativo
 ---
 
@@ -65,9 +65,18 @@ Vinte anos após o discurso fúnebre de Kardec (1869) e nove anos após *Astrono
 
 Ver [[wiki/obras/urania]].
 
+## *Estela* (1897) — continuidade narrativa do projeto Urânia
+
+Oito anos depois, Flammarion retoma o mesmo eixo doutrinário em registro mais propriamente romanesco. [[wiki/obras/estela|*Estela*]] (*Stella*, Paris: Ernest Flammarion, 1897) conta a história de amor entre Rafael Dargilan (astrônomo "Solitário" dos Pirineus, alter-ego literário do autor) e Estela d'Ossian (jovem ex-conventual que abandona fortuna pela ciência). O par morre junto na geleira do Dachstein durante a passagem de um cometa e reencarna em Marte — fechando narrativamente o ciclo que *Urânia* abriu com Spero e Icleia.
+
+*Estela* é **doutrinariamente mais ousada** que *Urânia*: dedica um capítulo inteiro à crítica do culto marial em Lourdes (cap. XXVII), assume centralidade emocional na tese das almas predestinadas (tensão com LE q. 298–303), e formula no capítulo final que *"Jesus foi um precursor. Se ele tivesse vindo a este mundo depois de Copérnico e Galileu, talvez nos tivesse verdadeiramente aberto o Céu"* (cap. XXXV) — divergência mais aguda com a posição kardecista de Jesus como tipo da perfeição moral (LE q. 625) do que o aforismo paralelo de Spero em *Urânia*.
+
+Ver [[wiki/obras/estela]].
+
 ## Obras associadas
 
 - [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
+- [[wiki/obras/estela]] — *Estela* (*Stella*, Paris: Ernest Flammarion, 1897). Sequência narrativa de *Urânia*; história de amor entre Rafael Dargilan e Estela d'Ossian, morte conjunta na geleira do Dachstein e reencarnação em Marte. Crítica frontal ao culto marial em Lourdes (cap. XXVII) e formulação da "religião da Ciência" como religião do futuro (cap. XXXV).
 - [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais.
 - [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
 - *La pluralité des mondes habités* (Paris: Bachelier, 1862) — livro de estreia, defesa científica da pluralidade dos mundos.
