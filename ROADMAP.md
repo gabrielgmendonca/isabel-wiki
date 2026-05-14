@@ -44,18 +44,46 @@ Tirados de uma auditoria de `CLAUDE.md` + 4 skills + rules + hook (2026-04-26). 
 
 ## 1. Cobertura de fontes
 
-Completar a base doutrinária para que o leitor encontre o essencial da codificação.
+Completar a base doutrinária para que o leitor encontre o essencial da codificação. Organizado em três frentes: **obras a ingerir** (gargalo principal), **curadoria de páginas existentes** (correções e expansões em obras/personalidades já presentes) e **pipeline/processos** (workflow de ingest).
 
-- [x] **Ingerir O Livro dos Médiuns** — concluído
-- [ ] **Ingerir Kardec complementar** — 6 fontes em `raw/kardec/complementares/`; 3 já ingeridas (O Que é o Espiritismo, Obras Póstumas, Viagem Espírita); faltam Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão
-- [ ] **Expandir autores nível 3** — Léon Denis avançado (4 obras ingeridas), Chico Xavier parcial (A Caminho da Luz e O Consolador ingeridos); faltam Nosso Lar, Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo
+### 1.1 Obras a ingerir
+
+Agrupadas por nível da hierarquia de autoridade (CLAUDE.md §2). Dentro de cada nível, ordenadas por prioridade doutrinária (não cronológica).
+
+**Nível 1 — Pentateuco**
+
+- [x] **O Livro dos Médiuns** — concluído. Pentateuco 5/5.
+
+**Nível 2 — Kardec complementar** (3 de 6 pendentes)
+
+- [ ] **Ingerir 3 fontes restantes** em `raw/kardec/complementares/`: Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão. Já ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862.
+
+**Novo Testamento canônico** (20/27 ingeridos — verificado 2026-05-13)
+
+Evangelhos (Mateus, Marcos, Lucas, João) são fonte primordial na hierarquia; demais escritos apostólicos não têm tier explícito mas seguem o critério "citados por Kardec" (Atos como repertório fenomenológico, paulinas e gerais para temas pontuais, Apocalipse como base de Gênese caps. XVII–XVIII).
+
+- [x] **Ingeridos (20)** — Evangelhos (4), Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1/2-Tessalonicenses, Hebreus, Tiago, 1/2-Pedro, 1-João, Apocalipse. Marcos com 1-Tessalonicenses (2026-05-04 — livre exame em 5:21) e 2-Tessalonicenses (2026-05-04 — Lei do Trabalho em 3:6–13).
+- [ ] **Ingerir 7 livros restantes** — todos baixa prioridade (Kardec cita pouco ou nada):
+  - **Pastorais paulinas** — 1-Timóteo, 2-Timóteo, Tito. Pouquíssima tração doutrinária no Pentateuco; autoria paulina contestada por boa parte da exegese moderna.
+  - **Filemom** — bilhete curto a Filêmon pedindo acolhida ao escravo Onésimo; já antecipado em Cl 4:9.
+  - **Joaninas curtas** — 2-João, 3-João. Cobertura joanina essencial já garantida por 1-João.
+  - **Judas** — carta curta sobre falsos mestres; conteúdo amplamente reproduzido em 2-Pedro, já ingerido.
+
+**Nível 3 — Consagrados** (cobertura parcial)
+
+- [ ] **Léon Denis** — 4 obras ingeridas (avançado). Levantar restante prioritário.
+- [ ] **Chico Xavier** — *A Caminho da Luz* e *O Consolador* ingeridos; falta âncora André Luiz *Nosso Lar* (1944, abre a série).
+- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — ainda sem obra-âncora ingerida. Definition of done de §1 (Estado-alvo) exige ao menos uma por autor.
+
+### 1.2 Curadoria de páginas existentes
+
 - [x] **Corrigir coautoria mediúnica em `wiki/obras/evolucao-em-dois-mundos.md`** (1958) — lista apenas Chico Xavier em `fontes:`, mas é coautoria com Waldo Vieira (mesma parceria de *Sexo e Destino*, corrigida em 2026-05-03 — ver `log.md`). Atualizar `fontes:` para `[André Luiz/Chico Xavier+Waldo Vieira]`, dados bibliográficos e seção Fontes; cruzar com a página nova [[wiki/personalidades/waldo-vieira]].
-- [ ] **Ingerir Novo Testamento restante** — 20/27 livros ingeridos: Evangelhos, Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Colossenses, **1-Tessalonicenses** (ingerida 2026-05-04 — fonte apostólica do livre exame em 5:21), **2-Tessalonicenses** (ingerida 2026-05-04 — Lei do Trabalho na primeira hora apostólica em 3:6–13; "homem do pecado" relido alegoricamente), Hebreus, Tiago, 1/2-Pedro, 1-João, Apocalipse. Faltam 7 (todos baixa prioridade — Kardec cita pouco ou nada):
-  - **Paulinas remanescentes** — 1/2-Timóteo, Tito, Filemom. Pastorais (1/2-Tim, Tito) e Filemom têm pouquíssima tração doutrinária no Pentateuco
-  - **Cartas gerais remanescentes** — 2/3-João, Judas. Curtas, citadas raramente; 1-João e 2-Pedro já ingeridos cobrem o essencial joânico/petrino
-- [x] **Expandir personalidades-âncora** — stubs (<105 palavras) reescritos: Chico Xavier (88→~700), Espíritos Reveladores (103→~1170, agora cobre lista completa dos signatários dos Prolegômenos, Espírito de Verdade como Cristo no ESE cap. VI, e o critério de universalidade), Carlos Mendonça (61→~715, com método EELDE e três palestras associadas), Joseph Bré (97→~710, com a distinção honestidade-perante-homens vs perante-Deus), Eric Stanislas (104→~780, com a doutrina da reunião séria como santuário e expiação-vira-serviço)
-- [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais
+- [x] **Expandir personalidades-âncora** — stubs (<105 palavras) reescritos: Chico Xavier (88→~700), Espíritos Reveladores (103→~1170, agora cobre lista completa dos signatários dos Prolegômenos, Espírito de Verdade como Cristo no ESE cap. VI, e o critério de universalidade), Carlos Mendonça (61→~715, com método EELDE e três palestras associadas), Joseph Bré (97→~710, com a distinção honestidade-perante-homens vs perante-Deus), Eric Stanislas (104→~780, com a doutrina da reunião séria como santuário e expiação-vira-serviço).
+
+### 1.3 Pipeline e processos
+
 - [x] **Pre-flight check em `/ingest` Passo 0** (2026-05-04) — Passo 0 da skill renomeado para "Pre-flight e pré-checagem de escopo" e ganhou dois sub-passos materiais antes da classificação doutrinária: (1) `test -e raw/<caminho>` com sugestão via `find raw -iname '*<chave>*'` quando ausente; (2) `git rev-parse --abbrev-ref HEAD` + `git rev-list --count HEAD..main` (comparação local, sem `fetch`) — se a branch não for `main` e estiver atrás, PARE e sugerir rebase/merge. Custo ~30s; cobre os dois modos de falha registrados no report de uso (raw inexistente na worktree, worktree atrás de main mascarando arquivos).
+- [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais.
 
 ---
 
