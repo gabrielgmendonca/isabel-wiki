@@ -56,6 +56,12 @@ No preâmbulo do Credo Espírita, Kardec reforça: "A doutrina do nadismo é a p
 
 Em palestras, o materialismo é ponto de partida frequente para o diálogo com incrédulos. Convém abordá-lo sem julgamento — reconhecendo que é consequência de uma filosofia incompleta, não de má-fé — e apresentar os fatos e raciocínios que o superam. O Espiritismo não pede fé cega; oferece provas e lógica.
 
+## Em Flammarion — *Deus na Natureza*
+
+Em [[wiki/obras/deus-na-natureza|*Deus na Natureza*]] (1866), publicado **simultaneamente à redação de *A Gênese* de Kardec**, [[wiki/personalidades/camille-flammarion|Camille Flammarion]] organiza a **refutação espírita-científica clássica do materialismo alemão do séc. XIX** — Ludwig Büchner (*Força e Matéria*, 1855), Jacob Moleschott (*Circulação da Vida*, 1852), Karl Vogt (*Lições sobre o Homem*), Emil Dubois-Reymond. A estratégia é tomar os adversários *com as próprias armas da ciência experimental*: a obra é estruturada em cinco partes (Força e Matéria, Vida, Alma, Destino dos Seres, Deus) que examinam ponto por ponto os argumentos materialistas e os invertem.
+
+Eixo metodológico: o axioma materialista *"a força é uma propriedade da matéria"* (Büchner) é desmascarado como petição de princípio — matéria e força sempre coexistem, mas isso não autoriza concluir que uma seja qualidade da outra. Flammarion sustenta o oposto: **a força rege a matéria**, e a inteligência manifesta nas leis naturais (mecânica celeste, química, fisiologia) aponta para uma força ordenadora distinta da matéria que ordena. A tese é meio século anterior a [[wiki/obras/o-grande-enigma|*O Grande Enigma*]] de Léon Denis (1911), que retomará o programa com argumentos atualizados pela radioatividade.
+
 ## Em Hammed — *As Dores da Alma*
 
 No tema 13 ("Baixa Estima", ancorado em LE q. 8 e q. 115), Hammed aborda o materialismo pelo ângulo psicológico da autoestima: "a criatura materialista precisa crer que é superior, para compensar sua crença na" inferioridade espiritual ontológica. O materialismo, nessa leitura, é sintoma de insegurança íntima — não apenas erro intelectual. Complementa, sem substituir, a análise de Kardec (que trata o materialismo sobretudo como fruto do orgulho intelectual): aqui, a base emocional reside na **baixa estima** que projeta compensações em posses e status.

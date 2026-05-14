@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, urania, o-fim-do-mundo, estela, marte, jupiter, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, urania, o-fim-do-mundo, estela, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
 atualizado_em: 2026-05-13
@@ -48,6 +48,16 @@ A peça é importante por **dois motivos** complementares:
 
 Detalhe completo do papel de 1867 em [[wiki/obras/revista-espirita-1867]].
 
+## *Deus na Natureza* (1866) — obra-tese filosófico-científica
+
+Aos **24 anos**, Flammarion publica seu **primeiro grande tratado filosófico**: [[wiki/obras/deus-na-natureza|*Deus na Natureza*]] (*Dieu dans la nature*, Paris: Didier, 1866; introdução datada de maio de 1867). O livro é cronologicamente **simultâneo à redação de [[wiki/obras/genese|*A Gênese*]] de Kardec** (publicada em janeiro de 1868) — convergência confirmada pelo próprio Kardec na nota editorial de [[wiki/obras/revista-espirita-1867|RE dez/1867]] sobre "O homem antes da história" (*"do ponto de vista da Ciência, ele toca nalguns dos pontos fundamentais da doutrina exposta em nossa obra sobre a Gênese"*).
+
+A obra refuta o materialismo científico alemão da época (Büchner, Moleschott, Karl Vogt, Dubois-Reymond) **com as próprias armas da ciência experimental**, organizada em cinco partes ascendentes — A Força e a Matéria, A Vida, A Alma, Destino dos Seres e das Coisas, Deus. O eixo é a inversão do axioma materialista *"a força é propriedade da matéria"*: para Flammarion, **a força rege a matéria**, e a inteligência manifesta nas leis naturais aponta para Deus presente *na* Natureza (não fora dela, nem confundido com ela). É a obra filosófica anti-materialista clássica do espiritismo francês — anterior em meio século a *O Grande Enigma* de Léon Denis (1911), que retomará o mesmo programa com argumentos atualizados pela radioatividade.
+
+O livro encerra-se com uma **prosa lírica autobiográfica**: pôr-do-sol no cabo Heve (Sainte-Adresse, Normandia), prece dirigida ao *"misterioso Incógnito"*. Esse final contemplativo antecipa em vinte e três anos o tom dos finais de *Urânia* e *Estela*, marcando desde 1866 a assinatura literária que se tornará característica de Flammarion.
+
+Ver [[wiki/obras/deus-na-natureza]].
+
 ## O discurso no túmulo de Kardec
 
 No discurso, Flammarion:
@@ -83,6 +93,7 @@ Ver [[wiki/obras/estela]].
 
 ## Obras associadas
 
+- [[wiki/obras/deus-na-natureza]] — *Deus na Natureza* (*Dieu dans la nature*, Paris: Didier, 1866; introdução de maio de 1867). Primeiro grande tratado filosófico-científico de Flammarion, contemporâneo da redação de [[wiki/obras/genese|*A Gênese*]] de Kardec. Refutação sistemática do materialismo alemão (Büchner, Moleschott, Vogt) em cinco partes (Força e Matéria, Vida, Alma, Destino dos Seres, Deus); inversão do axioma materialista *"a força é propriedade da matéria"*. Encerra-se com prosa lírica contemplativa no cabo Heve.
 - [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
 - [[wiki/obras/o-fim-do-mundo]] — *O Fim do Mundo* (*La Fin du Monde*, Paris, 1893). Segundo romance-ensaio. Cataclismo cometário no séc. XXV (Parte I) e apogeu/decadência da humanidade em 10 milhões de anos (Parte II); aparição do Espírito de Khéops como núcleo doutrinário (imortalidade, reencarnação como expiação progressiva, migração entre mundos); migração coletiva da humanidade para Júpiter. Forma mais aguda da divergência "filosofia astronômica = religião" (Jesus equiparado a Júpiter/Maomé).
 - [[wiki/obras/estela]] — *Estela* (*Stella*, Paris: Ernest Flammarion, 1897). Sequência narrativa de *Urânia*; história de amor entre Rafael Dargilan e Estela d'Ossian, morte conjunta na geleira do Dachstein e reencarnação em Marte. Crítica frontal ao culto marial em Lourdes (cap. XXVII) e formulação da "religião da Ciência" como religião do futuro (cap. XXXV).

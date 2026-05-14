@@ -44,6 +44,12 @@ Essa visão expande a posição de Kardec (LE, q. 11: "falta-vos para isso o sen
 
 Ver [[wiki/obras/cristianismo-e-espiritismo]].
 
+## Em Flammarion — *Deus na Natureza* (1866)
+
+Em [[wiki/obras/deus-na-natureza|*Deus na Natureza*]] (Paris, 1866; introdução de maio de 1867), [[wiki/personalidades/camille-flammarion|Camille Flammarion]] formula a tese imanentista que dá título à obra: *"Deus não pode estar fora do mundo, mas no mesmo lugar do mundo, do qual é o sustentáculo e a vida"* (Parte I, cap. 1). A leitura é **convergente com (LE, q. 1–14)** pelo eixo central — Deus como causa primária, distinta da matéria, manifesta pelas leis naturais — mas opera em registro mais imanentista que a formulação kardecista. Flammarion mesmo neutraliza o risco de leitura panteísta: anuncia que sua tese *"não é panteísmo, não é dogma"* e fixa Deus como força ordenadora *em* cada átomo da Natureza, sem se confundir com ela. Coerente, portanto, com a refutação categórica do panteísmo em (LE, q. 14).
+
+A obra é simultânea à redação de (Gênese, 1868) e tematicamente convergente com ela — convergência confirmada por Kardec na nota editorial de (RE, dez/1867). Para o argumento cosmológico contra o materialismo (força > matéria) que sustenta a prova da existência de Deus, *Deus na Natureza* é a versão **espírita-científica clássica do séc. XIX**, anterior em meio século à atualização de Léon Denis pela radioatividade.
+
 Em *O Grande Enigma* (caps. I–IX), Denis dedica a obra inteira ao argumento cosmológico atualizado: matéria, força e inteligência são três aspectos de uma substância única; a radioatividade (Crookes, Le Bon, Curie) demonstra que a matéria se dissolve em energia, a energia obedece a leis, e as leis exigem uma Inteligência ordenadora. "A força engendra o movimento, mas a força não é a lei. Cega e sem-guia, ela não poderia produzir a ordem e a harmonia no Universo" (Léon Denis, *O Grande Enigma*, cap. I). Denis rejeita tanto o panteísmo quanto o antropomorfismo: Deus é manifestado pelo Universo mas não se confunde com ele — posição alinhada com Kardec (LE, q. 14). No cap. IV, a harmonia planetária é apresentada como prova estética da ação divina. Ver [[wiki/conceitos/harmonia-das-esferas]], [[wiki/obras/o-grande-enigma]].
 
 ## Desdobramentos na wiki
