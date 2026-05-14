@@ -1,10 +1,10 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, urania, marte, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, urania, o-fim-do-mundo, estela, marte, jupiter, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
-atualizado_em: 2026-05-14
+atualizado_em: 2026-05-13
 status: ativo
 ---
 
@@ -65,6 +65,14 @@ Vinte anos após o discurso fúnebre de Kardec (1869) e nove anos após *Astrono
 
 Ver [[wiki/obras/urania]].
 
+## *O Fim do Mundo* (1893) — escala coletiva da humanidade terrestre
+
+Quatro anos após *Urânia*, Flammarion publica o **segundo dos três romances-ensaio**. Onde *Urânia* opera em escala cósmica (viagem com a musa por sistemas planetários, encontro com Spero em Marte) e *Estela* operará em escala individual (casal Rafael-Estela), [[wiki/obras/o-fim-do-mundo|*O Fim do Mundo*]] (*La Fin du Monde*, Paris, 1893) trata a **humanidade terrestre como protagonista coletivo**. Duas partes: (I) cataclismo cometário no séc. XXV — choque parcial, 218 mil mortes em Paris, sobrevivência da espécie; (II) apogeu e decadência da humanidade em 10 milhões de anos, Omégar e Eva como último casal, aparição do Espírito de **Khéops** como núcleo doutrinário do livro (formula em uma fala simultânea os três pilares espíritas: imortalidade da alma, reencarnação como expiação progressiva, migração entre mundos habitados). Migração coletiva final para Júpiter. Epílogo filosófico sobre a infinitude do universo (citação de Pascal) e a imortalidade das almas em hierarquias do "universo psíquico invisível".
+
+Doutrinariamente, *O Fim do Mundo* é também a obra em que a **divergência "filosofia astronômica = religião"** atinge sua forma mais aguda — Jesus é arrolado ao lado de Júpiter, Maomé, Osíris e Jeová como "abstração do pietismo religioso" (Parte II, cap. III). Mesma divergência já flaggada em *Urânia* (aforismo 19 do testamento de Spero) e em *Estela* (cap. XXXV — "religião da Ciência"), aqui em forma extrema. Tom anti-clerical satírico (papa esmagado por bólido como reviravolta narrativa noticiada falsamente) e estereótipo antissemita do "judeu americano, príncipe das finanças" são outros dois artefatos do texto que exigem mediação cultural.
+
+Ver [[wiki/obras/o-fim-do-mundo]].
+
 ## *Estela* (1897) — continuidade narrativa do projeto Urânia
 
 Oito anos depois, Flammarion retoma o mesmo eixo doutrinário em registro mais propriamente romanesco. [[wiki/obras/estela|*Estela*]] (*Stella*, Paris: Ernest Flammarion, 1897) conta a história de amor entre Rafael Dargilan (astrônomo "Solitário" dos Pirineus, alter-ego literário do autor) e Estela d'Ossian (jovem ex-conventual que abandona fortuna pela ciência). O par morre junto na geleira do Dachstein durante a passagem de um cometa e reencarna em Marte — fechando narrativamente o ciclo que *Urânia* abriu com Spero e Icleia.
@@ -76,6 +84,7 @@ Ver [[wiki/obras/estela]].
 ## Obras associadas
 
 - [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
+- [[wiki/obras/o-fim-do-mundo]] — *O Fim do Mundo* (*La Fin du Monde*, Paris, 1893). Segundo romance-ensaio. Cataclismo cometário no séc. XXV (Parte I) e apogeu/decadência da humanidade em 10 milhões de anos (Parte II); aparição do Espírito de Khéops como núcleo doutrinário (imortalidade, reencarnação como expiação progressiva, migração entre mundos); migração coletiva da humanidade para Júpiter. Forma mais aguda da divergência "filosofia astronômica = religião" (Jesus equiparado a Júpiter/Maomé).
 - [[wiki/obras/estela]] — *Estela* (*Stella*, Paris: Ernest Flammarion, 1897). Sequência narrativa de *Urânia*; história de amor entre Rafael Dargilan e Estela d'Ossian, morte conjunta na geleira do Dachstein e reencarnação em Marte. Crítica frontal ao culto marial em Lourdes (cap. XXVII) e formulação da "religião da Ciência" como religião do futuro (cap. XXXV).
 - [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais.
 - [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
