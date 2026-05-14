@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [NT, LM]
 tags: [timoteo, apostolo, paulo, atos, pastorais, efeso, listra, filipos, mediunidade, mediunidade-inspirada, heranca-de-fe, obra/lm, autor/kardec, autor/paulo, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-05-13
+atualizado_em: 2026-05-14
 status: ativo
 ---
 
@@ -70,7 +70,7 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 - [[wiki/obras/segunda-epistola-aos-tessalonicenses]] — co-saudador (2 Ts 1:1) na carta-correção que se segue poucos meses depois, contra a inquietação escatológica e o ócio espiritualizado.
 - Colossenses, Filemom — co-saudador (1:1 na primeira; v. 1 em Fm).
 - [[wiki/obras/primeira-epistola-a-timoteo]] — destinatário direto; pastor regional de Éfeso encarregado de combater "fábulas e genealogias intermináveis" (1 Tm 1:3–4); recebe imposição de mãos do presbitério (1 Tm 4:14).
-- **2 Timóteo** — destinatário da segunda Pastoral (página própria na wiki em backlog).
+- [[wiki/obras/segunda-epistola-a-timoteo]] — destinatário direto da Pastoral final; "amado filho" (2 Tm 1:2); herdeiro da fé de Loide e Eunice (1:5); recipiente da imposição das mãos paulina (1:6); convocado a vir antes do inverno na vigília do martírio (4:9, 21).
 
 ## Citações relevantes
 
