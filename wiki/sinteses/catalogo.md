@@ -95,6 +95,9 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/obras/o-problema-do-ser-e-do-destino]] — Léon Denis (1908/1922). Natureza do ser, reencarnação, potências da alma e a dor como instrumento de progresso. 3 partes, 27 capítulos.
 - [[wiki/obras/o-grande-enigma]] — Léon Denis (1911). Deus e o Universo: argumento cosmológico, harmonia das esferas, lei circular da vida, síntese doutrinária. 4 partes, 16 capítulos + notas complementares.
 
+#### Camille Flammarion
+- [[wiki/obras/urania]] — Camille Flammarion (*Uranie*, 1889). Romance filosófico-científico em três partes que converte em narrativa a tese da pluralidade dos mundos habitados: viagem celeste com a musa da Astronomia (Parte I), drama de Spero e Icleia (Parte II), encontro com Spero reencarnado em Marte (Parte III). Encerra-se com **testamento científico em 25 aforismos** — síntese ontológica espírita-científica. Inclui duas divergências menores em callout inline (diluição religiosa, tom anti-bíblico).
+
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — Carlos Mendonça, palestra. Primeira bem-aventurança (Mateus 5:3), pobreza de espírito como humildade, conquista do Reino dos Céus.

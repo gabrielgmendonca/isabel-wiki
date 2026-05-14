@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-15
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, urania, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
+atualizado_em: 2026-05-13
 status: ativo
 ---
 
@@ -48,6 +48,12 @@ Kardec reconhece a diversidade dos mundos (LE, q. 55–58) e não especifica qua
 
 Ver [[wiki/obras/o-grande-enigma]].
 
+### Desenvolvimento literário — Camille Flammarion, *Urânia* (1889)
+
+[[wiki/personalidades/camille-flammarion|Camille Flammarion]] converte a tese em **romance filosófico-científico**. Em [[wiki/obras/urania|*Urânia*]] (1889), a Parte I narra viagem celeste guiada pela musa da Astronomia através das "humanidades desconhecidas": sistemas de sóis triplos coloridos, seres alados-libélula, organismos andróginos, mundos onde a alma pode mudar de corpo sem morrer, seres com até vinte e seis sentidos — encarnação literária do princípio kardequiano de que *"os habitantes [dos outros mundos] têm organizações diferentes"* (LE, q. 57). A Parte III situa **Marte como mundo mais adiantado** que a Terra (humanidade bipede-bialada, atmosfera nutritiva, ausência de guerras), com o desenlace narrativo da reencarnação de Spero e Icleia da Terra para Marte — caso literário do princípio de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). Notavelmente, a obra explicita que *"as almas não possuem sexo e têm um destino igual"* (Parte III, cap. III), em consonância plena com LE q. 200–202.
+
+O aforismo 15 do "testamento científico de Spero" que encerra a obra ecoa LE q. 56–58: *"Os mundos atualmente não são todos habitados. [...] Tais mundos foram habitados no passado, milhares de séculos; tais outros sê-lo-ão no futuro"*.
+
 ## Contra o antropocentrismo
 
 Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o privilégio de conter seres racionais (LE, q. 55). A infinitude de Deus manifesta-se no povoamento do Universo.
@@ -58,6 +64,7 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 
 ## Fontes
 
-- Kardec, Allan. *O Livro dos Espíritos*, q. 55–58. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Espíritos*, q. 55–58, q. 173, q. 188, q. 200–202. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Grande Enigma*, Parte IV, seção III. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
+- Flammarion, Camille. *Urânia* (*Uranie*, 1889). Trad. Almir Ribeiro Guimarães. FEB.

@@ -1,10 +1,10 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, urania, marte, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
-atualizado_em: 2026-05-04
+atualizado_em: 2026-05-13
 status: ativo
 ---
 
@@ -59,8 +59,15 @@ No discurso, Flammarion:
 - Aponta que Allan Kardec era "o bom-senso encarnado" — razão reta e judiciosa, qualidade que tornou a obra popular.
 - Encerra com a convicção espiritualista: "Até à vista, meu caro Allan Kardec, até à vista!"
 
+## *Urânia* (1889) — culminação literária da tese da pluralidade
+
+Vinte anos após o discurso fúnebre de Kardec (1869) e nove anos após *Astronomie populaire* (1880), Flammarion converte em **romance filosófico-científico** a tese que defendia desde 1862. *Urânia* é estruturado em três partes — viagem celeste com a musa da Astronomia, drama de Jorge Spero e Icleia, encontro com Spero reencarnado em Marte — e encerra-se com um "testamento científico" em 25 aforismos que sintetiza ontologia espírita (alma indestrutível, lei do progresso, almas sem sexo, mundos múltiplos). É a obra em que Flammarion concretiza a profecia espiritual de 1865 sobre os "literatos como auxiliares" do Espiritismo.
+
+Ver [[wiki/obras/urania]].
+
 ## Obras associadas
 
+- [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
 - [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais.
 - [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
 - *La pluralité des mondes habités* (Paris: Bachelier, 1862) — livro de estreia, defesa científica da pluralidade dos mundos.
