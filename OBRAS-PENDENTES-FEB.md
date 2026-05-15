@@ -2,6 +2,8 @@
 
 Gerado por `scripts/scrape_feb_catalogo.py` em 2026-05-15. Tracker operacional (não é página da wiki — sem frontmatter, fora do build público). Regenerável a qualquer momento.
 
+Triagem de direitos autorais (o que tem fonte legal gratuita vs. só compra): ver `OBRAS-PENDENTES-FEB-DIREITOS.md` — documento curado, **não** regenerado por este script.
+
 **54 obras** catalogadas em 14 autores · **54 pendentes** de download para `raw/autores/<slug>/`.
 
 Marcação `[x]` = já existe arquivo correspondente em `raw/autores/<slug>/` (match heurístico por slug — conferir antes de assumir como baixado).

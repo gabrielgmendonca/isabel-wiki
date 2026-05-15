@@ -243,6 +243,10 @@ def render_markdown(catalogo: list[dict], gerado_em: str) -> str:
         f"Tracker operacional (não é página da wiki — sem frontmatter, fora "
         f"do build público). Regenerável a qualquer momento.",
         "",
+        "Triagem de direitos autorais (o que tem fonte legal gratuita vs. "
+        "só compra): ver `OBRAS-PENDENTES-FEB-DIREITOS.md` — documento "
+        "curado, **não** regenerado por este script.",
+        "",
         f"**{total} obras** catalogadas em {len(catalogo)} autores · "
         f"**{pend} pendentes** de download para `raw/autores/<slug>/`.",
         "",
