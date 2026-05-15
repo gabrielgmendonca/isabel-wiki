@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [ESE]
 tags: [espirito, pedagogo, evangelho, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-05-15
 status: ativo
 ---
 
@@ -21,6 +21,9 @@ Comentarista e pedagogo do Evangelho na literatura espírita. Suas obras são re
 - *Em torno do Mestre* — estudo sobre o método pedagógico de Jesus e suas parábolas.
 - *O Mestre na Educação* — ensino e pedagogia de Jesus.
 - *Nas pegadas do Mestre* — comentários evangélicos.
+- *Na seara do Mestre* — comentários evangélicos (catálogo FEB).
+
+Catálogo ativo na loja FEB Editora (scrape em 2026-05-15): *Em torno do mestre*, *Na seara do Mestre*, *Nas pegadas do mestre*, *O mestre na educação* — sem página própria em `wiki/obras/`. Lista de download em `OBRAS-PENDENTES-FEB.md` (raiz do repo).
 
 ## Citações relevantes
 

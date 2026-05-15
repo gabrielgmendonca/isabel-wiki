@@ -1,0 +1,578 @@
+{
+  "gerado_em": "2026-05-15",
+  "fonte": "https://www.febeditora.com.br/listaprodutos.asp",
+  "autores": [
+    {
+      "nome": "Bezerra de Menezes",
+      "slug": "bezerra-de-menezes",
+      "fil": "293768",
+      "tfil_q": "Bezerra+de+Menezes",
+      "declarado_loja": 5,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "A loucura sob novo prisma",
+          "product_id": 6821231,
+          "sku": "2367",
+          "preco": "45.0",
+          "url": "https://www.febeditora.com.br/a-loucura-sob-novo-prisma",
+          "em_raw": false
+        },
+        {
+          "titulo": "A pérola negra",
+          "product_id": 6459708,
+          "sku": "445",
+          "preco": "54.0",
+          "url": "https://www.febeditora.com.br/a-perola-negra",
+          "em_raw": false
+        },
+        {
+          "titulo": "Evangelho do futuro",
+          "product_id": 6469991,
+          "sku": "212",
+          "preco": "75.0",
+          "url": "https://www.febeditora.com.br/evangelho-do-futuro",
+          "em_raw": false
+        },
+        {
+          "titulo": "História de um sonho",
+          "product_id": 6470043,
+          "sku": "280",
+          "preco": "39.0",
+          "url": "https://www.febeditora.com.br/historia-de-um-sonho",
+          "em_raw": false
+        },
+        {
+          "titulo": "Uma carta de Bezerra de Menezes",
+          "product_id": 6469868,
+          "sku": "71",
+          "preco": "36.0",
+          "url": "https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Arthur Conan Doyle",
+      "slug": "arthur-conan-doyle",
+      "fil": "293784",
+      "tfil_q": "Arthur+Conan+Doyle",
+      "declarado_loja": 2,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "A história do espiritualismo",
+          "product_id": 6459671,
+          "sku": "281",
+          "preco": "90.0",
+          "url": "https://www.febeditora.com.br/a-historia-do-espiritualismo",
+          "em_raw": false
+        },
+        {
+          "titulo": "A nova revelação",
+          "product_id": 6564317,
+          "sku": "389",
+          "preco": "36.0",
+          "url": "https://www.febeditora.com.br/a-nova-revelacao-42855471",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Deolindo Amorim",
+      "slug": "deolindo-amorim",
+      "fil": "293801",
+      "tfil_q": "Deolindo+Amorim",
+      "declarado_loja": null,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Ponderações doutrinárias",
+          "product_id": 6961691,
+          "sku": "2524",
+          "preco": "26.25",
+          "url": "https://www.febeditora.com.br/ponderacoes-doutrinarias",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Geraldo Campetti Sobrinho",
+      "slug": "geraldo-campetti-sobrinho",
+      "fil": "293824",
+      "tfil_q": "Geraldo+Campetti+Sobrinho",
+      "declarado_loja": 2,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "A vida no mundo espiritual",
+          "product_id": 6459725,
+          "sku": "567",
+          "preco": "108.75",
+          "url": "https://www.febeditora.com.br/a-vida-no-mundo-espiritual",
+          "em_raw": false
+        },
+        {
+          "titulo": "Biblioteca espírita",
+          "product_id": 6469851,
+          "sku": "50",
+          "preco": "36.0",
+          "url": "https://www.febeditora.com.br/biblioteca-espirita",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Haroldo Dutra Dias",
+      "slug": "haroldo-dutra-dias",
+      "fil": "293828",
+      "tfil_q": "Haroldo+Dutra+Dias",
+      "declarado_loja": 3,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Parábolas de Jesus: texto e contexto",
+          "product_id": 6961687,
+          "sku": "1048",
+          "preco": "26.25",
+          "url": "https://www.febeditora.com.br/parabolas-de-jesus--texto-e-contexto",
+          "em_raw": false
+        },
+        {
+          "titulo": "Vida: somos muitos, somos um - VOL. 1",
+          "product_id": 8434104,
+          "sku": "3717",
+          "preco": "33.75",
+          "url": "https://www.febeditora.com.br/vida--somos-muitos--somos-um---vol--1",
+          "em_raw": false
+        },
+        {
+          "titulo": "Vida: somos muitos, somos um - VOL. 2",
+          "product_id": 8434105,
+          "sku": "3718",
+          "preco": "33.75",
+          "url": "https://www.febeditora.com.br/vida--somos-muitos--somos-um---vol--2",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Hermínio Corrêa de Miranda",
+      "slug": "herminio-correa-de-miranda",
+      "fil": "293830",
+      "tfil_q": "Hermínio+Corrêa+de+Miranda",
+      "declarado_loja": 5,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Candeias na noite escura",
+          "product_id": 6469864,
+          "sku": "67",
+          "preco": "49.5",
+          "url": "https://www.febeditora.com.br/candeias-na-noite-escura",
+          "em_raw": false
+        },
+        {
+          "titulo": "Diálogo com as sombras",
+          "product_id": 6459649,
+          "sku": "132",
+          "preco": "54.0",
+          "url": "https://www.febeditora.com.br/dialogo-com-as-sombras",
+          "em_raw": false
+        },
+        {
+          "titulo": "Dialogue avec les ombres (Diálogo com as sombras - Francês)",
+          "product_id": 7083524,
+          "sku": "2760",
+          "preco": "60.0",
+          "url": "https://www.febeditora.com.br/dialogue-avec-les-ombres--dialogo-com-as-sombras---frances-",
+          "em_raw": false
+        },
+        {
+          "titulo": "Estudos e crônicas de Hermínio Miranda",
+          "product_id": 6469987,
+          "sku": "207",
+          "preco": "56.25",
+          "url": "https://www.febeditora.com.br/estudos-e-cronicas-de-herminio-miranda",
+          "em_raw": false
+        },
+        {
+          "titulo": "Nas fronteiras do além",
+          "product_id": 6470018,
+          "sku": "257",
+          "preco": "51.0",
+          "url": "https://www.febeditora.com.br/nas-fronteiras-do-alem",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "José Raul Teixeira",
+      "slug": "jose-raul-teixeira",
+      "fil": "469243",
+      "tfil_q": "José+Raul+Teixeira",
+      "declarado_loja": 3,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Vida e valores",
+          "product_id": 6961699,
+          "sku": "2529",
+          "preco": "28.5",
+          "url": "https://www.febeditora.com.br/vida-e-valores",
+          "em_raw": false
+        },
+        {
+          "titulo": "Vida e valores - VOL. 2",
+          "product_id": 6961700,
+          "sku": "2530",
+          "preco": "28.5",
+          "url": "https://www.febeditora.com.br/vida-e-valores---volume-ii",
+          "em_raw": false
+        },
+        {
+          "titulo": "Vida e valores - VOL. 3",
+          "product_id": 7891659,
+          "sku": "3392",
+          "preco": "28.5",
+          "url": "https://www.febeditora.com.br/vida-e-valores---vol--3",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Martins Peralva",
+      "slug": "martins-peralva",
+      "fil": "298585",
+      "tfil_q": "Martins+Peralva",
+      "declarado_loja": 5,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Mensageiros do bem",
+          "product_id": 8857808,
+          "sku": "3906",
+          "preco": "46.5",
+          "url": "https://www.febeditora.com.br/mensageiros-do-bem",
+          "em_raw": false
+        },
+        {
+          "titulo": "Estudando a mediunidade",
+          "product_id": 6469970,
+          "sku": "179",
+          "preco": "42.0",
+          "url": "https://www.febeditora.com.br/estudando-a-mediunidade",
+          "em_raw": false
+        },
+        {
+          "titulo": "Estudando o evangelho",
+          "product_id": 6469972,
+          "sku": "181",
+          "preco": "49.5",
+          "url": "https://www.febeditora.com.br/estudando-o-evangelho",
+          "em_raw": false
+        },
+        {
+          "titulo": "Mediunidade e evolução",
+          "product_id": 6470110,
+          "sku": "353",
+          "preco": "40.5",
+          "url": "https://www.febeditora.com.br/mediunidade-e-evolucao",
+          "em_raw": false
+        },
+        {
+          "titulo": "O pensamento de Emmanuel",
+          "product_id": 6459706,
+          "sku": "441",
+          "preco": "48.75",
+          "url": "https://www.febeditora.com.br/o-pensamento-de-emmanuel",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Richard Simonetti",
+      "slug": "richard-simonetti",
+      "fil": "293870",
+      "tfil_q": "Richard+Simonetti",
+      "declarado_loja": 7,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Quem tem medo da obsessão?",
+          "product_id": 8741211,
+          "sku": "3873",
+          "preco": "39.0",
+          "url": "https://www.febeditora.com.br/quem-tem-medo-da-obsessao-",
+          "em_raw": false
+        },
+        {
+          "titulo": "A bênção da gratidão",
+          "product_id": 6459631,
+          "sku": "969",
+          "preco": "49.5",
+          "url": "https://www.febeditora.com.br/a-bencao-da-gratidao",
+          "em_raw": false
+        },
+        {
+          "titulo": "A voz do monte",
+          "product_id": 6470316,
+          "sku": "1089",
+          "preco": "48.75",
+          "url": "https://www.febeditora.com.br/a-voz-do-monte",
+          "em_raw": false
+        },
+        {
+          "titulo": "Conheça o espiritismo",
+          "product_id": 6459644,
+          "sku": "1114",
+          "preco": "45.0",
+          "url": "https://www.febeditora.com.br/conheca-o-espiritismo",
+          "em_raw": false
+        },
+        {
+          "titulo": "Para viver a grande mensagem",
+          "product_id": 6470306,
+          "sku": "1080",
+          "preco": "43.5",
+          "url": "https://www.febeditora.com.br/para-viver-a-grande-mensagem",
+          "em_raw": false
+        },
+        {
+          "titulo": "Quem tem medo da morte?",
+          "product_id": 8550733,
+          "sku": "3751",
+          "preco": "41.25",
+          "url": "https://www.febeditora.com.br/quem-tem-medo-da-morte-",
+          "em_raw": false
+        },
+        {
+          "titulo": "Quem tem medo dos espíritos?",
+          "product_id": 8665247,
+          "sku": "3830",
+          "preco": "37.5",
+          "url": "https://www.febeditora.com.br/quem-tem-medo-dos-espiritos-",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Rodolfo Calligaris",
+      "slug": "rodolfo-calligaris",
+      "fil": "293873",
+      "tfil_q": "Rodolfo+Calligaris",
+      "declarado_loja": 4,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "As leis morais",
+          "product_id": 6470075,
+          "sku": "311",
+          "preco": "37.5",
+          "url": "https://www.febeditora.com.br/as-leis-morais",
+          "em_raw": false
+        },
+        {
+          "titulo": "O sermão da montanha",
+          "product_id": 6470250,
+          "sku": "512",
+          "preco": "42.0",
+          "url": "https://www.febeditora.com.br/o-sermao-da-montanha",
+          "em_raw": false
+        },
+        {
+          "titulo": "Páginas de espiritismo cristão",
+          "product_id": 7681385,
+          "sku": "3229",
+          "preco": "46.5",
+          "url": "https://www.febeditora.com.br/paginas-de-espiritismo-cristao2",
+          "em_raw": false
+        },
+        {
+          "titulo": "Parábolas evangélicas",
+          "product_id": 6470172,
+          "sku": "429",
+          "preco": "33.75",
+          "url": "https://www.febeditora.com.br/parabolas-evangelicas",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Suely Caldas Schubert",
+      "slug": "suely-caldas-schubert",
+      "fil": "293878",
+      "tfil_q": "Suely+Caldas+Schubert",
+      "declarado_loja": 6,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Chico Xavier e Emmanuel: dores e glórias",
+          "product_id": 7473754,
+          "sku": "3039",
+          "preco": "45.0",
+          "url": "https://www.febeditora.com.br/chico-xavier-e-emmanuel-dores-e-glorias",
+          "em_raw": false
+        },
+        {
+          "titulo": "Dimensões espirituais do centro espírita",
+          "product_id": 6469930,
+          "sku": "134",
+          "preco": "49.5",
+          "url": "https://www.febeditora.com.br/dimensoes-espirituais-do-centro-espirita",
+          "em_raw": false
+        },
+        {
+          "titulo": "Entrevistando Allan Kardec",
+          "product_id": 6564976,
+          "sku": "2152",
+          "preco": "41.25",
+          "url": "https://www.febeditora.com.br/entrevistando-allan-kardec2",
+          "em_raw": false
+        },
+        {
+          "titulo": "Obsessão/desobsessão",
+          "product_id": 6470142,
+          "sku": "399",
+          "preco": "43.5",
+          "url": "https://www.febeditora.com.br/obsessao-desobsessao",
+          "em_raw": false
+        },
+        {
+          "titulo": "Obsession/désobsession (Obsessão/desobsessão - Francês)",
+          "product_id": 8629660,
+          "sku": "3822",
+          "preco": "54.0",
+          "url": "https://www.febeditora.com.br/obsession-et-desobsession--obsessao-e-desobsessao---frances-",
+          "em_raw": false
+        },
+        {
+          "titulo": "Testemunhos de Chico Xavier",
+          "product_id": 6682421,
+          "sku": "2267",
+          "preco": "64.5",
+          "url": "https://www.febeditora.com.br/testemunhos-de-chico-xavier",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Vinícius (Pedro de Camargo)",
+      "slug": "vinicius",
+      "fil": "293881",
+      "tfil_q": "Vinícius",
+      "declarado_loja": 4,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Em torno do mestre",
+          "product_id": 6470275,
+          "sku": "544",
+          "preco": "67.5",
+          "url": "https://www.febeditora.com.br/em-torno-do-mestre",
+          "em_raw": false
+        },
+        {
+          "titulo": "Na seara do Mestre",
+          "product_id": 6505369,
+          "sku": "501",
+          "preco": "36.0",
+          "url": "https://www.febeditora.com.br/na-seara-do-mestre",
+          "em_raw": false
+        },
+        {
+          "titulo": "Nas pegadas do mestre",
+          "product_id": 6470180,
+          "sku": "439",
+          "preco": "63.0",
+          "url": "https://www.febeditora.com.br/nas-pegadas-do-mestre",
+          "em_raw": false
+        },
+        {
+          "titulo": "O mestre na educação",
+          "product_id": 6470121,
+          "sku": "369",
+          "preco": "37.5",
+          "url": "https://www.febeditora.com.br/o-mestre-na-educacao",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Zilda Gama",
+      "slug": "zilda-gama",
+      "fil": "293894",
+      "tfil_q": "Zilda+Gama",
+      "declarado_loja": 5,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Almas crucificadas",
+          "product_id": 6459625,
+          "sku": "14",
+          "preco": "72.0",
+          "url": "https://www.febeditora.com.br/almas-crucificadas",
+          "em_raw": false
+        },
+        {
+          "titulo": "Do calvário ao infinito",
+          "product_id": 6459633,
+          "sku": "59",
+          "preco": "73.5",
+          "url": "https://www.febeditora.com.br/do-calvario-ao-infinito",
+          "em_raw": false
+        },
+        {
+          "titulo": "Dor suprema",
+          "product_id": 6469936,
+          "sku": "142",
+          "preco": "82.5",
+          "url": "https://www.febeditora.com.br/dor-suprema",
+          "em_raw": false
+        },
+        {
+          "titulo": "Na sombra e na luz",
+          "product_id": 6470261,
+          "sku": "525",
+          "preco": "60.0",
+          "url": "https://www.febeditora.com.br/na-sombra-e-na-luz",
+          "em_raw": false
+        },
+        {
+          "titulo": "Redenção",
+          "product_id": 6470209,
+          "sku": "471",
+          "preco": "63.75",
+          "url": "https://www.febeditora.com.br/redencao",
+          "em_raw": false
+        }
+      ]
+    },
+    {
+      "nome": "Zêus Wantuil",
+      "slug": "zeus-wantuil",
+      "fil": "293893",
+      "tfil_q": "Zêus+Wantuil",
+      "declarado_loja": 2,
+      "stub_criado": false,
+      "obras": [
+        {
+          "titulo": "Allan Kardec: o educador e o codificador",
+          "product_id": 6459624,
+          "sku": "2118",
+          "preco": "71.25",
+          "url": "https://www.febeditora.com.br/allan-kardec--o-educador-e-o-codificador",
+          "em_raw": false
+        },
+        {
+          "titulo": "As mesas girantes e o espiritismo",
+          "product_id": 6619241,
+          "sku": "2234",
+          "preco": "59.25",
+          "url": "https://www.febeditora.com.br/as-mesas-girantes-e-o-espiritismo",
+          "em_raw": false
+        }
+      ]
+    }
+  ]
+}

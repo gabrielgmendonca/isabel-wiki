@@ -6,7 +6,7 @@ aliases:
   - "Adolfo Bezerra de Menezes"
   - "Adolfo Bezerra de Menezes Cavalcanti"
   - "Médico dos Pobres"
-atualizado_em: 2026-05-12
+atualizado_em: 2026-05-15
 status: ativo
 ---
 
@@ -38,7 +38,15 @@ Bezerra deixou produção doutrinária encarnada significativa, publicada parcia
 - *A Casa Assombrada* (FEB) — romance espírita.
 - *Memórias Póstumas* — psicografia atribuída a Bezerra desencarnado, recebida por diversos médiuns.
 
-Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`.
+Catálogo ativo na loja FEB Editora (scrape em 2026-05-15) — títulos sob o filtro de autor de Bezerra de Menezes, sem página própria em `wiki/obras/`:
+
+- *A loucura sob novo prisma* — [FEB](https://www.febeditora.com.br/a-loucura-sob-novo-prisma) (mesma obra listada acima)
+- *A pérola negra* — [FEB](https://www.febeditora.com.br/a-perola-negra)
+- *Evangelho do futuro* — [FEB](https://www.febeditora.com.br/evangelho-do-futuro)
+- *História de um sonho* — [FEB](https://www.febeditora.com.br/historia-de-um-sonho)
+- *Uma carta de Bezerra de Menezes* — [FEB](https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes)
+
+Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista de download em `OBRAS-PENDENTES-FEB.md` (raiz do repo).
 
 ## Citações relevantes
 
