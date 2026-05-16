@@ -18,6 +18,8 @@ FAIL=0
 
 ok()   { printf '  \033[32m✓\033[0m %s\n' "$1"; PASS=$((PASS + 1)); }
 bad()  { printf '  \033[31m✗\033[0m %s\n' "$1"; FAIL=$((FAIL + 1)); }
+# note(): item opcional — informa mas NÃO conta como pendência.
+note() { printf '  \033[36m·\033[0m %s\n' "$1"; }
 have() { command -v "$1" >/dev/null 2>&1; }
 
 echo "Preflight — $REPO_ROOT"
@@ -49,7 +51,9 @@ if have qmd; then
 else
   bad "qmd ausente (npm install -g @tobilu/qmd; upstream github.com/tobi/qmd)"
 fi
-have rtk && ok "rtk" || bad "rtk ausente (Rust Token Killer)"
+have rtk \
+  && ok   "rtk ($(rtk --version 2>/dev/null | awk '{print $2}'))" \
+  || note "rtk ausente — opcional, projeto funciona sem (ver README → Opcional: rtk)"
 
 echo
 echo "Versão do Python:"

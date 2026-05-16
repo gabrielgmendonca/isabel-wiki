@@ -11,8 +11,9 @@
 #
 # Uso:  bash scripts/bootstrap.sh              # tudo, incluindo embed
 #       bash scripts/bootstrap.sh --skip-embed # pula o embed (use se
-#                                              # copiou ~/.cache/qmd/index.sqlite
-#                                              # da máquina antiga — ver README)
+#                                              # copiou ~/.cache/qmd/isabel.sqlite*
+#                                              # da máquina antiga — ver README,
+#                                              # "Atalho do índice qmd")
 #
 # NÃO cobre (passos manuais — o script avisa no fim):
 #   - .env                  (cp .env.example .env + preencher)
@@ -81,7 +82,9 @@ qmd --index "$QMD_INDEX" update
 
 if [[ "$SKIP_EMBED" -eq 1 ]]; then
   echo "==> 5/5  qmd embed PULADO (--skip-embed)"
-  echo "    Lembre de copiar ~/.cache/qmd/index.sqlite da máquina antiga,"
+  echo "    Lembre de copiar ~/.cache/qmd/$QMD_INDEX.sqlite* da máquina antiga"
+  echo "    (índice nomeado '$QMD_INDEX' — NÃO o ~/.cache/qmd/index.sqlite default;"
+  echo "    ver README, 'Atalho do índice qmd'),"
   echo "    ou rode 'qmd --index $QMD_INDEX embed' quando puder esperar horas."
 else
   echo "==> 5/5  qmd embed (gera embeddings — pode levar horas)"
