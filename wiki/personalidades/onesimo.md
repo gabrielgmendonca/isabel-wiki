@@ -1,9 +1,9 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [colossenses, filemom, paulo, escravo, conversao, autor/paulo, grau/intermediario, tema/moral]
-atualizado_em: 2026-05-01
-status: rascunho
+tags: [colossenses, filemom, paulo, escravo, conversao, autor/paulo, grau/intermediario, tema/moral, tema/sociedade]
+atualizado_em: 2026-05-16
+status: ativo
 ---
 
 # Onésimo
@@ -18,10 +18,13 @@ Onésimo (gr. *Onēsimos* — "útil") fugira de Filemom, possivelmente levando 
 
 Para o estudo espírita, é caso paradigmático de **conversão moral em servidão** + transformação relacional pelo evangelho: a estrutura social externa (escravo/senhor) permanece, mas a relação interna foi convertida em fraternidade. Articula com a leitura espírita do código doméstico paulino — Paulo trabalha **dentro** do código sem o reformar, mas instala os germes que o subvertem (cf. [[wiki/divergencias/escravidao-em-efesios-6]]).
 
+O trocadilho paulino com o nome (*Onēsimos* = "útil") condensa a leitura espírita: "noutro tempo te foi **inútil**, mas agora… muito **útil**" (Fm 1:11). Ninguém é definitivamente perdido — o estado moral é mutável pelo esforço de si mesmo. Onésimo é caso paradigmático de **regeneração e reabilitação pelo trabalho moral**, o capital que cada Espírito forma para si ([[wiki/obras/livro-dos-espiritos|LE]] q. 165–170; [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVII). Análise doutrinária completa em [[wiki/obras/epistola-a-filemom]].
+
 Tradição patrística posterior (Inácio de Antioquia, *Aos Efésios*, c. 110 d.C.) identifica Onésimo com o **bispo de Éfeso** do mesmo nome — confirmação possível da carreira eclesiástica posterior do escravo convertido, embora a identificação seja conjectural.
 
-> [!note] Stub
-> Página em rascunho, será expandida quando a carta a [[wiki/personalidades/filemom|Filemom]] for ingerida na wiki.
+## Obras associadas
+
+- [[wiki/obras/epistola-a-filemom]] — protagonista do bilhete; o escravo fugitivo cujo retorno motiva a carta.
 
 ## Citações relevantes
 
@@ -31,7 +34,9 @@ Tradição patrística posterior (Inácio de Antioquia, *Aos Efésios*, c. 110 d
 
 ## Páginas relacionadas
 
+- [[wiki/obras/epistola-a-filemom]] — a carta de que é protagonista
 - [[wiki/obras/epistola-aos-colossenses]] — carta-irmã (4:9)
+- [[wiki/personalidades/filemom]] — seu senhor, destinatário da carta
 - [[wiki/personalidades/paulo-de-tarso]] — pai espiritual na conversão
 - [[wiki/personalidades/epafras]] — cooperador frígio do mesmo círculo
 - [[wiki/divergencias/escravidao-em-efesios-6]] — código doméstico paulino sobre escravidão

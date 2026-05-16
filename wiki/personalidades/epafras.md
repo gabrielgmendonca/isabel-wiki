@@ -36,6 +36,7 @@ O verbo "combatendo" (*agōnizomenos*) é o mesmo da imagem paulina do "bom comb
 ## Páginas relacionadas
 
 - [[wiki/obras/epistola-aos-colossenses]] — carta dirigida à sua comunidade
+- [[wiki/obras/epistola-a-filemom]] — envia saudação como "companheiro de prisão" (Fm 1:23)
 - [[wiki/personalidades/paulo-de-tarso]] — mestre e companheiro de cativeiro
 - [[wiki/personalidades/epafrodito]] — não confundir (cooperador filipense)
 - [[wiki/personalidades/onesimo]] — outro frígio do círculo de Colossos

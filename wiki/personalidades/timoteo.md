@@ -68,7 +68,8 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 - [[wiki/obras/livro-dos-mediuns]] — assinatura "Erasto e Timóteo" no encerramento da explicação sobre psicografia (2ª parte, cap. XIX).
 - [[wiki/obras/primeira-epistola-aos-tessalonicenses]] — co-saudador (1 Ts 1:1) e enviado por Paulo a Tessalônica para "vos confortar e vos exortar acerca da vossa fé" (3:2); seu retorno com boas notícias é a ocasião imediata da carta (3:6–8).
 - [[wiki/obras/segunda-epistola-aos-tessalonicenses]] — co-saudador (2 Ts 1:1) na carta-correção que se segue poucos meses depois, contra a inquietação escatológica e o ócio espiritualizado.
-- Colossenses, Filemom — co-saudador (1:1 na primeira; v. 1 em Fm).
+- [[wiki/obras/epistola-aos-colossenses]] — co-saudador (Cl 1:1).
+- [[wiki/obras/epistola-a-filemom]] — co-remetente do bilhete a Filemom ("Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo", Fm 1:1).
 - [[wiki/obras/primeira-epistola-a-timoteo]] — destinatário direto; pastor regional de Éfeso encarregado de combater "fábulas e genealogias intermináveis" (1 Tm 1:3–4); recebe imposição de mãos do presbitério (1 Tm 4:14).
 - [[wiki/obras/segunda-epistola-a-timoteo]] — destinatário direto da Pastoral final; "amado filho" (2 Tm 1:2); herdeiro da fé de Loide e Eunice (1:5); recipiente da imposição das mãos paulina (1:6); convocado a vir antes do inverno na vigília do martírio (4:9, 21).
 

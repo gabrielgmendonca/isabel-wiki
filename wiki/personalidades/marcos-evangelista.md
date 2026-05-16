@@ -59,6 +59,7 @@ Em paralelo, Marcos torna-se discípulo próximo de **Pedro**, em Roma, onde col
 - [[wiki/obras/evangelho-segundo-marcos]] — Evangelho.
 - [[wiki/obras/atos-dos-apostolos]] — caps. 12, 13, 15.
 - [[wiki/obras/primeira-epistola-de-pedro]] — colaboração final com Pedro em Roma.
+- [[wiki/obras/epistola-a-filemom]] — saudação como "meu colaborador" (*synergos*) no cativeiro romano (Fm 1:24).
 - [[wiki/conceitos/arrependimento]] — trajetória de reabilitação.
 - [[wiki/conceitos/expiacao-e-reparacao]] — caso paradigmático da reparação efetiva.
 - [[wiki/conceitos/mediunidade]] — Marcos como intérprete-médium de Pedro.

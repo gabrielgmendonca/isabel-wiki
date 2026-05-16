@@ -116,7 +116,7 @@ Aqui a regra de ouro da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de a
 **Aberta.** A divergência é real e estrutural na leitura literalista. Sustentar Ef 6:5–9 como prescrição perene é incompatível com a Lei de Igualdade (LE q. 803–824) e com a Lei de Liberdade (LE q. 825–872). Mitigações reais:
 
 - **Contexto histórico** de minoria perseguida sem capacidade política de abolição.
-- **Coerência intra-paulina** com Gl 3:28 ("não há servo nem livre [...] todos sois um em Cristo Jesus") e com a intercessão por Onésimo em Filêmon.
+- **Coerência intra-paulina** com Gl 3:28 ("não há servo nem livre [...] todos sois um em Cristo Jesus") e com a intercessão por Onésimo na [[wiki/obras/epistola-a-filemom|Epístola a Filêmon]] — o **pólo mais atenuado** da posição paulina sobre a escravidão, em que a divergência com Kardec é só de *alcance* (transfigura a relação por dentro sem reclamar a abolição jurídica), não de princípio.
 - **Critério da hierarquia de autoridade**: o Pentateuco kardequiano prevalece sobre o nível 3 quando há conflito doutrinário.
 
 Nenhuma mitigação dissolve o fato de que o literalismo do texto serviu, por séculos, como **fundamento bíblico da legitimação cristã da escravidão** — incluindo o tráfico atlântico. A divergência permanece viva como exigência de leitura crítica explícita, não interpretação suavizadora.
@@ -124,6 +124,8 @@ Nenhuma mitigação dissolve o fato de que o literalismo do texto serviu, por s�
 ## Páginas relacionadas
 
 - [[wiki/obras/epistola-aos-efesios]] — Ef 6:5–9
+- [[wiki/obras/epistola-a-filemom]] — pólo atenuante: subverte a escravidão por dentro ("não já como servo, antes, mais do que servo, como irmão amado", Fm 1:16)
+- [[wiki/personalidades/onesimo]] — escravo fugitivo cuja reabilitação encarna o caso-chave
 - [[wiki/obras/livro-dos-espiritos]] — q. 803–824 (Lei de Igualdade); q. 825–872 (Lei de Liberdade)
 - [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 - [[wiki/conceitos/leis-morais/lei-de-liberdade]]
