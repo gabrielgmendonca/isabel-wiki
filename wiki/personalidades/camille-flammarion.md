@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, urania, o-fim-do-mundo, estela, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, estela, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
 atualizado_em: 2026-05-13
@@ -58,6 +58,16 @@ O livro encerra-se com uma **prosa lírica autobiográfica**: pôr-do-sol no cab
 
 Ver [[wiki/obras/deus-na-natureza]].
 
+## *Narrações do Infinito* (Lúmen, 1867/1872) — protótipo da fórmula narrativa
+
+No mesmo ano de *Deus na Natureza*, Flammarion escreve **Lúmen** (1866; primeira publicação em 1º de fevereiro de 1867 na *Revista do Século XIX*; ampliado na coletânea *Récits de l'Infini*, Paris: Didier, 1872). É a **matriz cronológica** de toda a sua obra de ficção doutrinária: o diálogo entre o Espírito **Lúmen** e o encarnado **Quœrens** estabelece, **22 anos antes de [[wiki/obras/urania|*Urânia*]] (1889)**, o dispositivo que reaparecerá em *Urânia*, *O Fim do Mundo* e *Estela* — a viagem celeste pós-morte como veículo da tese da [[wiki/conceitos/pluralidade-dos-mundos-habitados|pluralidade dos mundos habitados]] e da reencarnação entre globos.
+
+A obra usa a **velocidade finita da luz** para dramatizar a sobrevivência da alma e a relatividade do tempo: quem se afasta da Terra mais rápido que a luz vê a história desenrolar-se em retrocesso, e quem se posiciona à distância certa revê suas existências anteriores em outros mundos. O experimento mental teve repercussão científica reconhecida: **Henri Poincaré** o discute em *Science et Méthode* (1908, p. 71–72 e 83), nomeando "a ficção de Flammarion" e "Lúmen" ao tratar da reversibilidade do tempo.
+
+Doutrinariamente, *Narrações do Infinito* é a obra de Flammarion **mais próxima do Pentateuco e isenta da divergência tardia**: a relativização de Jesus e a "religião da Ciência" que marcarão *Urânia*, *Estela* e *O Fim do Mundo* ainda não aparecem — aqui o tom é reverente (o Pai-Nosso, "a bela prece de Jesus", no leito de morte; o Gólgota como "glória futura da Igreja cristã"). Na 5ª narrativa, Lúmen afirma ter conhecido o Espírito de Allan Kardec num mundo de Theta Orionis havia 24 séculos — recurso que o próprio autor sinaliza como ficção (endnote 7 da fonte).
+
+Ver [[wiki/obras/narracoes-do-infinito]].
+
 ## O discurso no túmulo de Kardec
 
 No discurso, Flammarion:
@@ -94,6 +104,7 @@ Ver [[wiki/obras/estela]].
 ## Obras associadas
 
 - [[wiki/obras/deus-na-natureza]] — *Deus na Natureza* (*Dieu dans la nature*, Paris: Didier, 1866; introdução de maio de 1867). Primeiro grande tratado filosófico-científico de Flammarion, contemporâneo da redação de [[wiki/obras/genese|*A Gênese*]] de Kardec. Refutação sistemática do materialismo alemão (Büchner, Moleschott, Vogt) em cinco partes (Força e Matéria, Vida, Alma, Destino dos Seres, Deus); inversão do axioma materialista *"a força é propriedade da matéria"*. Encerra-se com prosa lírica contemplativa no cabo Heve.
+- [[wiki/obras/narracoes-do-infinito]] — *Narrações do Infinito* (*Lumen*, 1866/1867; reunido em *Récits de l'Infini*, Paris: Didier, 1872). Protótipo cronológico da fórmula narrativa (22 anos antes de *Urânia*): diálogo entre o Espírito Lúmen e o encarnado Quœrens que usa a velocidade finita da luz para dramatizar sobrevivência da alma, relatividade do tempo, pluralidade dos mundos e palingenesia. Citado por Henri Poincaré (*Science et Méthode*, 1908). Obra de Flammarion mais próxima do Pentateuco — ainda isenta da divergência tardia "religião da Ciência".
 - [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
 - [[wiki/obras/o-fim-do-mundo]] — *O Fim do Mundo* (*La Fin du Monde*, Paris, 1893). Segundo romance-ensaio. Cataclismo cometário no séc. XXV (Parte I) e apogeu/decadência da humanidade em 10 milhões de anos (Parte II); aparição do Espírito de Khéops como núcleo doutrinário (imortalidade, reencarnação como expiação progressiva, migração entre mundos); migração coletiva da humanidade para Júpiter. Forma mais aguda da divergência "filosofia astronômica = religião" (Jesus equiparado a Júpiter/Maomé).
 - [[wiki/obras/estela]] — *Estela* (*Stella*, Paris: Ernest Flammarion, 1897). Sequência narrativa de *Urânia*; história de amor entre Rafael Dargilan e Estela d'Ossian, morte conjunta na geleira do Dachstein e reencarnação em Marte. Crítica frontal ao culto marial em Lourdes (cap. XXVII) e formulação da "religião da Ciência" como religião do futuro (cap. XXXV).

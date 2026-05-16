@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, narracoes-do-infinito, lumen, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
 atualizado_em: 2026-05-14
 status: ativo
 ---
@@ -48,9 +48,11 @@ Kardec reconhece a diversidade dos mundos (LE, q. 55–58) e não especifica qua
 
 Ver [[wiki/obras/o-grande-enigma]].
 
-### Desenvolvimento literário — Camille Flammarion, *Urânia* (1889) e *Estela* (1897)
+### Desenvolvimento literário — Camille Flammarion (*Narrações do Infinito* 1872, *Urânia* 1889, *Estela* 1897)
 
-[[wiki/personalidades/camille-flammarion|Camille Flammarion]] converte a tese em **romance filosófico-científico** em dois volumes complementares — um par literário que cobre a mesma tese em registros diferentes.
+[[wiki/personalidades/camille-flammarion|Camille Flammarion]] transpõe a tese para a ficção doutrinária ao longo de três décadas. O **ponto de origem** é [[wiki/obras/narracoes-do-infinito|*Narrações do Infinito*]] (*Lumen*, escrito em 1866, publicado em 1867, ampliado em *Récits de l'Infini*, 1872): o diálogo entre o Espírito Lúmen e o encarnado Quœrens já encena, **17 anos antes de *Urânia***, a viagem celeste pós-morte como veículo da pluralidade dos mundos e da reencarnação entre globos. Lúmen usa a velocidade finita da luz para mostrar o Espírito revendo suas existências anteriores em outros mundos à distância astronômica conveniente — leitura ficcional direta do princípio de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). A 5ª narrativa cataloga a diversidade inesgotável das humanidades siderais (seres sem sexo, troca de corpo sem morte, sentidos desconhecidos na Terra), prefigurando quase termo a termo a Parte I de *Urânia*.
+
+Duas décadas depois, Flammarion retoma e amplia o dispositivo em **dois volumes complementares** que cobrem a mesma tese em registros diferentes.
 
 Em [[wiki/obras/urania|*Urânia*]] (1889), a Parte I narra viagem celeste guiada pela musa da Astronomia através das "humanidades desconhecidas": sistemas de sóis triplos coloridos, seres alados-libélula, organismos andróginos, mundos onde a alma pode mudar de corpo sem morrer, seres com até vinte e seis sentidos — encarnação literária do princípio kardequiano de que *"os habitantes [dos outros mundos] têm organizações diferentes"* (LE, q. 57). A Parte III situa **Marte como mundo mais adiantado** que a Terra (humanidade bipede-bialada, atmosfera nutritiva, ausência de guerras), com o desenlace narrativo da reencarnação de Spero e Icleia da Terra para Marte — caso literário do princípio de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). Notavelmente, a obra explicita que *"as almas não possuem sexo e têm um destino igual"* (Parte III, cap. III), em consonância plena com LE q. 200–202.
 
@@ -71,5 +73,6 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 - Kardec, Allan. *O Livro dos Espíritos*, q. 55–58, q. 173, q. 188, q. 200–202. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Grande Enigma*, Parte IV, seção III. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
+- Flammarion, Camille. *Narrações do Infinito* (*Lumen*; *Récits de l'Infini*, 1872). FEB Editora. Ver [[wiki/obras/narracoes-do-infinito]].
 - Flammarion, Camille. *Urânia* (*Uranie*, 1889). Trad. Almir Ribeiro Guimarães. FEB.
 - Flammarion, Camille. *Estela* (*Stella*, 1897). Trad. Almerindo Martins de Castro. FEB.
