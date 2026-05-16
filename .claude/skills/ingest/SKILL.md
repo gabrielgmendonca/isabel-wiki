@@ -21,11 +21,14 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
 2. **Branch alinhada com `main`?** `git rev-parse --abbrev-ref HEAD` para identificar a branch; se não for `main`, `git rev-list --count HEAD..main` (comparação local, sem `fetch`). Se >0, PARE — `main` está à frente desta branch e o arquivo pode estar visível só lá; sugerir `git rebase main` (ou `git merge main`) antes de prosseguir.
 3. **Índice qmd fresco?** `qmd status` → ler `lastUpdated` das coleções `wiki` e `raw`. Comparar com `git log -1 --format=%cI -- wiki raw` (timestamp do último commit que tocou conteúdo indexável). Se algum `lastUpdated` < timestamp do commit, rodar `qmd update && qmd embed` antes de prosseguir — leva segundos no caso comum, e sem isso a checagem de duplicatas do Passo 2 pode falsamente reportar "não existe". O caminho feliz é skip: `/ship` reindexa ao final, então normalmente não há nada a fazer aqui.
 
+**Layout e dedup em `raw/`** (sobretudo se a fonte é PDF a converter): conversões manuais vivem em **subpasta por obra** — `raw/.../<slug>/<slug>.md`, com o PDF um nível acima (`raw/.../<slug>.pdf`). Considerar a obra **já feita** se houver `.md` rastreado (`git ls-files`) com o mesmo *stem* **em qualquer lugar sob `raw/`** (não só irmão do PDF) OU página correspondente em `wiki/obras/`. Antes de qualquer lote de conversão, fazer dry-run e confirmar escopo — checar só o irmão de mesmo nome quase reconverteu 25 obras prontas.
+
 **Pré-checagem de escopo:**
 
 4. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
 5. Classifique conforme seção 2 do CLAUDE.md:
    - Nível 1, 2, 3 ou 4 → siga adiante.
+   - **Nível 3 vs 4**: nível 3 é reservado a autores **consagrados** (Léon Denis / Chico / Divaldo-tier, ou peso doutrinário comparável: Emmanuel, André Luiz, Bezerra, Cairbar, Joanna de Ângelis). Complementar alinhado mas sem essa estatura (Hammed/Espírito Santo Neto, palestras isoladas) → nível 4. Em dúvida, perguntar antes de classificar.
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
 
@@ -63,7 +66,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
    3. `uv run python .claude/skills/ingest/scripts/find_leal_url.py wiki/obras/<slug>.md --set https://www.livrarialeal.com.br/<categoria>/<slug>.html` — grava em `direitos.url_aquisicao`.
 2. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
-   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas.
+   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas. **Conceito tratável isoladamente** (tem definição, ensino de Kardec e aplicação prática) → **página própria linkada**, nunca seção inline numa página maior — só assim aparece em buscas e alimenta o grafo. Levantar proativamente os fios conceituais transversais que atravessam vários capítulos da obra e pedem destinação dedicada, mesmo quando já existe um conceito-mãe (pode haver subconceito autônomo). Seção inline apenas para desdobramento sem autonomia conceitual; em dúvida, default para página própria.
    - **Série André Luiz** — para todo livro da série, identificar o(s) **Espírito(s) orientador(es)** que conduz(em) a narrativa (varia por volume) e garantir que tenha(m) página própria em `wiki/personalidades/`. Se ainda não existir, criar; se existir, enriquecer com material da nova obra. Não assumir o orientador a partir de memória — confirmar lendo o próprio texto em `raw/`.
 
 > [!note] Escopo

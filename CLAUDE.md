@@ -1,6 +1,6 @@
 # IsAbel — Wiki Espírita
 
-Idioma: **PT-BR** em todas as páginas geradas.
+Idioma: **PT-BR** em todas as páginas geradas. Usar sempre **kardecista** (nunca "kardequista") em todo conteúdo — páginas, commits, respostas.
 
 ## 1. Propósito e tom
 
@@ -20,6 +20,8 @@ Base de conhecimento pessoal sobre a Doutrina Espírita codificada por Allan Kar
 | **Fora de escopo** | Umbanda, Candomblé, Ramatís, teosofia, antroposofia, ocultismo, neoespiritismo que relativiza o Pentateuco — **não ingerir sem confirmação explícita** |
 
 Regra de ouro: quando nível 2/3/4 contradiz o nível 1, Kardec prevalece. A divergência é registrada, nunca apagada. Análise completa e tratamento de divergências evangélicas em [[wiki/sinteses/hierarquia-de-autoridade]] (e em `regra-divergencia.md` quando for editar `wiki/**`).
+
+**Caso editorial — Waldo Vieira**: autor aceito na wiki (allowlist; curadoria seletiva das obras em parceria com Chico Xavier), mas **não** classificá-lo como "consagrado" (nível 3) — afastou-se da Doutrina. Tratá-lo como autor encarnado legítimo das obras curadas, sem editorializar a trajetória pessoal; divergência doutrinária nas obras vira `> [!warning]` factual, sem condenação.
 
 ## 3. Citação obrigatória
 
