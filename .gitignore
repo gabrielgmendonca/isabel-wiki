@@ -15,6 +15,10 @@
 # eventuais artefatos locais do qmd criados na raiz do projeto.
 .qmd/
 
+# uv / virtualenv — regenerável via `uv sync` (scripts/bootstrap.sh, passo 7
+# da migração; ver README → "O que está / não está no git")
+.venv/
+
 # Arquivos grandes de dados brutos
 books_with_links.json
 
