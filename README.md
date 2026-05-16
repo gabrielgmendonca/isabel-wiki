@@ -29,7 +29,11 @@ máquina nova é estado local — esta checklist o reconstrói.
    - Python — versão pinada em [`.python-version`](.python-version) (via
      `brew install python@<versão>` ou pyenv) + [`uv`](https://docs.astral.sh/uv/)
      (`brew install uv`).
-   - Node — `brew install node@22` (CI usa Node 22; ≥22 serve para build local).
+   - Node — `brew install node` (formula atual ≥ 22, já no PATH; CI usa Node
+     22, mas ≥ 22 basta para o build local). Para cravar a paridade exata,
+     `brew install node@22` funciona, mas é *keg-only* — siga o caveat impresso
+     pelo `brew` (adicionar `/opt/homebrew/opt/node@22/bin` ao PATH), senão
+     `node`/`npm` não ficam disponíveis.
    - `qmd` — `npm install -g @tobilu/qmd` (busca local; pacote npm, requer o
      Node acima; upstream [github.com/tobi/qmd](https://github.com/tobi/qmd)).
    - `rtk` — **opcional, não é requisito** do projeto. Setup desta máquina na
