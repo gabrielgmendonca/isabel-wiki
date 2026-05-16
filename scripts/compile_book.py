@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Compila um livro do books_with_links.json em uma página Markdown em raw/mediuns/."""
+"""Compila um livro do books_with_links.json em Markdown sob
+raw/mediuns/<medium>/<autor-espiritual>/."""
 
 import argparse
 import difflib
@@ -19,6 +20,30 @@ def slugify(text: str) -> str:
     text = text.lower().strip()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     return text.strip("-")
+
+
+_COLETIVO = re.compile(
+    r"(?i)(divers|familiar|depoiment|trovador|entrevista|outros|"
+    r"volume|livro\s+[ivxlcdm0-9]|parte|mandato|carta)"
+)
+_COLETIVO_EXATO = {
+    "o próprio",
+    "a própria",
+    "o próprio (encarnado)",
+    "marcos",
+    "2ª parte",
+}
+
+
+def author_slug(author: str) -> str:
+    """Camada <autor-espiritual> sob raw/mediuns/<medium>/. Nome próprio vira
+    pasta dedicada; autoria coletiva, composta (com "/") ou ruído de scraping
+    (Volume IV, Livro II, ...) cai em 'diversos' — mesma convenção dos
+    diretórios já existentes (chico-xavier/emmanuel, chico-xavier/diversos)."""
+    a = (author or "").strip()
+    if not a or "/" in a or a.lower() in _COLETIVO_EXATO or _COLETIVO.search(a):
+        return "diversos"
+    return slugify(a)
 
 
 _SUFFIX_NAMES = re.compile(
@@ -122,11 +147,12 @@ def main():
     md = build_markdown(chapters)
 
     medium = chapters[0].get("book_medium", "")
+    author = chapters[0].get("book_author", "")
     if not medium:
         print("Aviso: book_medium ausente; salvando em raw/mediuns/.")
         out_dir = OUTPUT_DIR
     else:
-        out_dir = OUTPUT_DIR / slugify(medium)
+        out_dir = OUTPUT_DIR / slugify(medium) / author_slug(author)
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{slugify(canonical_title)}.md"
     out_path.write_text(md, encoding="utf-8")

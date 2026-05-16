@@ -13,6 +13,7 @@ from pathlib import Path
 from compile_book import (
     OUTPUT_DIR,
     ROOT,
+    author_slug,
     build_markdown,
     slugify,
     sort_chapters,
@@ -61,7 +62,11 @@ def main() -> None:
     for title, indexed in sorted(by_title.items()):
         chapters = sort_chapters(indexed)
         medium = chapters[0].get("book_medium", "")
-        out_dir = OUTPUT_DIR / slugify(medium) if medium else OUTPUT_DIR
+        author = chapters[0].get("book_author", "")
+        if medium:
+            out_dir = OUTPUT_DIR / slugify(medium) / author_slug(author)
+        else:
+            out_dir = OUTPUT_DIR
         slug = slugify(title)
         out_path = out_dir / f"{slug}.md"
 
