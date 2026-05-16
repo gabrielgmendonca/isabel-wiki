@@ -1,0 +1,1377 @@
+# Bênção de paz
+
+**Autor espiritual:** Emmanuel  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Bp/BpPref.htm
+
+---
+
+##  — Prece de limiar
+
+Senhor Jesus!
+Laureada pelos avanços da inteligência, a Terra se engalana nos cimos da evolução… A Ciência investiga e alcança as entranhas do mundo físico e os escaninhos do mundo mental.
+Estudos, pesquisas, experiências e descobertas desnudam a vida planetária e propõem soluções justas aos problemas da forma; entretanto, Senhor, na retaguarda dessa legião de brilhantes valores do cérebro arrasta-se o comboio das necessidades espirituais.
+Do campo de trabalho em que se agitam os militantes menores da renovação falamos nós também, invocando-te a bênção, porque necessitamos da máquina e do cálculo que nos descansem os braços, mas precisamos igualmente, e mais ainda, do equilíbrio e da paz que nos asserenem os corações.
+Em tudo te reconhecemos a mão bendita, orientando-nos para o bem.
+Sob a tua proteção conseguimos vasculhar ingredientes da Lua, no entanto te rogamos auxílio a fim de aprendermos contigo a atingir o coração de nossos vizinhos;
+com a tua bondade, que nos deseja a isenção do sofrimento, temos o socorro da anestesia para atravessar a esfogueada ponte da enfermidade, mas te suplicamos apoio a fim de que saibamos perdoar e esquecer todo mal, liberando-nos da dolorosa penalogia da culpa;
+com a tua supervisão encontramos recursos para transmitir a voz e a imagem a longas distâncias, todavia te imploramos força para criar o pensamento e a palavra edificantes que nos assegurem a felicidade e a paz, uns com os outros;
+com a tua direção dominamos largas faixas de energias da Natureza, no entanto te solicitamos amparo a fim de que não venhamos a utilizá-las em louvor do ódio e do egoísmo, e sim para a maior extensão do teu reino de harmonia e de amor entre as criaturas.
+Senhor, deixa-nos escutar-te ainda o verbo que vara a muralha dos séculos e ensina-nos a discernir o bem do mal, para que o mal não nos arrase os tesouros da vida e do tempo. Tão somente contigo encontraremos a estrada de nossa própria libertação, nos cipoais fulgurantes da frase trajada em louros de superfície com que se pretende hoje, em muitos setores da Terra, afundar-nos o coração nas trevas do materialismo destruidor.
+É por isso que oramos, no limiar deste livro,
+n
+rogando-te inspiração e luz para o necessário entendimento de teus ensinos, e assim procedemos, Senhor Jesus, porque todos nós, os filhos da Terra, precisamos de ti.
+Uberaba, 26 de Fevereiro de 1971.
+
+---
+
+## 1 — A caminho do Alto
+
+> “Porque eu sou o menor dos apóstolos…”  PAULO (
+> — 1 Coríntios, 15.9
+
+Decididamente, muitos defeitos nos caracterizam ainda o progresso moral deficitário. Não nos será lícito, porém, esquecer algumas das bênçãos que já conseguimos amealhar com o amparo do Mestre Divino.
+
+Não temos a santidade; no entanto, já nos matriculamos na escola do bem, aprendendo a evitar as arremetidas do mal.
+
+Não dispomos de sabedoria, mas já percebemos a importância do estudo, diligenciando entesourar-lhe os valores imperecíveis.
+
+Não possuímos a inexpugnabilidade moral; todavia, já sabemos orar, organizando a própria resistência contra o assédio das tentações.
+
+Não nos galardoamos ainda com o total desprendimento de nós mesmos, notadamente no capítulo do perdão incondicional; contudo, já aceitamos a necessidade de abandonar a concha do egoísmo, exercitando-nos em diminutos gestos de entendimento e fraternidade para alcançar a vivência da grande abnegação.
+
+Não atingimos o sentimento imaculado; entretanto, pelo esforço na disciplina de nossas inclinações e desejos, já nos adestramos, a pouco e pouco, para a aquisição do amor puro.
+
+Não entremostramos, de leve, o heroísmo da fé absoluta, mas já assimilamos grau relativo de confiança na Divina Providência, buscando agradecer-lhe a paz dos dias serenos, tanto quanto invocando-lhe a proteção para a travessia das horas difíceis.
+Sem dúvida, estamos muito longe, infinitamente muito longe da perfeição… Cabe, porém, a nós, aprendizes do Evangelho, a obrigação de confrontar-nos hoje com o que éramos ontem e, a nosso ver, feito isso, cada um de nós pode, sem pretensão, parafrasear as palavras do apóstolo Paulo, nos
+versículos 9 e 10, do capítulo 15
+, de sua primeira epístola aos coríntios: — “Dos servidores do Senhor, sei que sou o menor e o mais endividado perante a Lei, mas com a graça de Deus sou o que sou…”
+
+---
+
+## 2 — Na trilha do Mestre
+
+> “Partindo Jesus dali, viu um homem, chamado Mateus, sentado na coletoria, e disse-lhe: Segue-me! Ele se levantou e o seguiu.”  (
+> — MATEUS, 9.9
+
+É importante verificar que o Mestre não estabelece condições para que o discípulo lhe compartilhe a jornada.
+Não pergunta se ele se julga dotado com a força conveniente…
+Se é fraco de espírito…
+Se é demasiado imperfeito…
+Se sofre em família…
+Se possui débitos a solver…
+Se padece tentações…
+Se está acusado de alguma falta…
+Se retém valores de educação…
+Se é rico ou pobre de possibilidades materiais…
+O Senhor diz apenas segue-me, como quem afirma que, se o aprendiz se dispõe realmente a segui-lo, será suprido de socorros eficientes, em todas as suas necessidades.
+A lição é clara e expressiva. Reflitamos nela para que não venhamos a permanecer na sombra da indecisão.
+
+---
+
+## 3 — Na subida espiritual
+
+> “Mas alguém dirá: tu tens a fé e eu tenho as obras; mostra-me essa tua fé sem as obras, e eu, com as obras, te mostrarei a minha fé.”  TIAGO (
+> — Tiago, 2:18
+
+Esmorecer na prática das boas obras será desmerecer-nos diante delas. Acontece o mesmo no trabalho de elevação.
+A planta que hoje reclama extremo cuidado ao cultivador não lhe dá frutos imediatos.
+O aprendiz, de começo, na escola, não responde às arguições do professor na pauta do entendimento e da cultura com que lhe recolhe os ensinamentos.
+Que seria de nós, as criaturas humanas destinadas à perfeição angélica, se o Criador nos exigisse chegar à meta de um dia para outro?
+Em todo empreendimento digno, tanto quanto em qualquer construção, entre o início e o acabamento da tarefa jazem, de permeio, o ideal e o serviço, a persistência e a esperança. E quando a empresa em curso se refere ao nosso anseio de melhorar espiritualmente aqueles que mais amamos, é forçoso reconhecer que ninguém consegue modificar alguém, sem que esse alguém se disponha à transfiguração necessária.
+Compreendamos assim que, se não é lógico alterarem-se, por nossa causa, as leis e as experiências que regem as criaturas e as instituições que nos sejam queridas, podemos perfeitamente mudar a nós mesmos pela força de nossa vontade na oração, na decisão, no serviço e na lealdade aos compromissos assumidos para a sustentação das boas obras, seja no plano externo ou no campo íntimo, em nós ou fora de nós, aprendendo a compreender e a sofrer, a edificar e a servir, a suportar e a esperar.
+
+---
+
+## 4 — Palavra e construção
+
+> “A palavra do Cristo habite em vós ricamente.”  PAULO (
+> — Colossenses, 3.16
+
+Comumente nos referimos à penúria, qual se estivéssemos à frente de um monstro instalado em definitivo junto de nós, esquecidos de que o trabalho é infalível extintor da miséria…
+Mencionamos conflitos como quem tateia chagas irreversíveis, sem ponderar que o amor opera a extirpação de todo quisto de ódio…
+Comentamos provações, dando a ideia de que se erigem à condição de flagelos permanentes, distanciados do otimismo que funciona por dissolvente da sombra…
+Reportamo-nos a enfermidades com tamanho luxo de minudências como se fossem males eternos, injuriando os princípios de saúde, capazes de restituir-nos a euforia…
+Destacamos a parte menos feliz dos semelhantes com tanto empenho que fornecemos a impressão de rentear com seres irremissivelmente condenados às trevas, ausentando-nos do bem, à luz do qual todos nos redimiremos um dia.
+Conversemos segundo a fraternidade e o bom ânimo que o Cristo nos ensinou a cultivar.
+Imperfeições, desastres, doenças, desequilíbrios e infortúnios assemelham-se a meros borrões em nossos cadernos de experiência educativa, no aprendizado da existência transitória, a fim de senhorearmos os nossos títulos de herdeiros de Deus na vida eterna.
+Claro que apagaremos tais desdouros com a lixívia do nosso próprio sofrimento, mas não adianta ampliá-los através da exaltação emotiva ou do comentário inconveniente.
+Em baixo, a Terra parece uma estância obscura, mas o Sol brilha acima…
+Recordemos a exortação de Paulo:
+
+---
+
+## 5 — Mudança e proveito
+
+> “… Assim também andemos nós em novidade de vida.”  PAULO (
+> — Romanos, 6.4
+
+Criaturas existem que se confessam dedicadas ao espírito de mudança que a vida exige de cada um, e tão somente por se referirem a isso alteram obrigações assumidas, logo ao se sentirem incomodadas por singelos motivos de feição pessoal.
+Mal começam ação determinada, ou em meio da empresa edificante a que se consagraram, se experimentam o impacto de pequeninos contratempos, asseveram que é preciso mudar para progredir, relegando a outrem problemas e encargos que lhes competem.
+Semelhante atitude, porém, resulta simplesmente de insatisfação e imaturidade.
+Renovação não é alterar o caminho, porque estejamos sob as consequências de ajustes e decisões abraçados por nós mesmos, com vistas à nossa melhoria espiritual; muito mais que isso, é aceitar varonilmente as ocorrências adversas, os golpes da estrada, os desafios da prova e as crises da existência, incluindo as mudanças a que penúria, abandono, enfermidade ou desencarnação nos constranjam, procurando servir mais e melhor no plano de evolução e trabalho em que a Providência Divina nos colocou.
+Transformação permanente por dentro, metamorfose da alma que encerra consigo bastante poder para transfigurar dificuldade em lição e sombra em luz.
+Paulo de Tarso, que tanta vez nos impele à renovação, converteu cada dia em trilha mais alta de acesso à confiança no Senhor e ao serviço em favor do próximo, sem renunciar aos sacrifícios pessoais que a obra esposada lhe impunha.
+Reformemos sentimento, ideia, observação, expressão e discernimento, descerrando portas e janelas sempre novas em nosso mundo íntimo, para que a vida nos acrescente os recursos de conhecimento, receptividade, visão e interpretação — mas sejamos fiéis aos nossos compromissos até ao fim.
+
+---
+
+## 6 — Palavra e vida
+
+> “Recomenda estas coisas. Dá testemunho solene a todos, perante Deus, para que evitem contendas de palavras que para nada aproveitam, exceto para a subversão dos ouvintes.”  PAULO (
+> — II Timóteo, 2.14
+
+Beneficência para todos os dias e ao alcance de todos: a doação das boas palavras.
+Estamos convencidos de que as nossas palavras, em oração, trabalham por nós diante do Criador, mas é preciso não olvidar que aquelas outras, pronunciadas à frente das criaturas nas ações diárias, também repercutem.
+As frases que articulamos são recursos inteligentes que colocamos em circulação nos mecanismos da vida, e cujos resultados voltam matematicamente a nós em forma de auxílio ou prejuízo, conforme o bem ou o mal de que nos fazemos portadores, inconscientemente ou não.
+O verbo dita modelo à experiência.
+Um conselho é uma indicação.
+Um discurso é comparável a motor indutivo.
+Uma página escrita não deixa de ser um figurino para criações de ordem moral.
+Enquanto não nos dispomos a entender o valimento da palavra e a respeitá-la através da disciplina no uso digno e harmonioso dessa tremenda força da alma, muito pouco aproveitamos da bênção de cada reencarnação, porque, via de regra, caímos facilmente sob a hipnose da massa de agentes involuídos, aderindo de maneira instintiva aos processes de vampirização em que se comprazem, na esfera da animalidade primitivista.
+Reflitamos na advertência do apóstolo Paulo a Timóteo, com referência ao assunto: “Recomenda estas coisas. Dá testemunho solene a todos, perante Deus, para que evitem contendas de palavras que para nada aproveitam, exceto para a subversão dos ouvintes.”
+
+---
+
+## 7 — Encargos pequeninos
+
+> “Se todo o corpo fosse olho, onde estaria o ouvido? se todo ele fosse ouvido, onde o olfato?”  PAULO (
+> — 1 Coríntios, 12.17
+
+Se não acreditas no valor dos instrumentos e encargos diminutos, pensa num carro sem rodas, num piano sem teclas, num grande sistema de serviço elétrico sem o fio de condução da força…
+Não fossem as gotas d’água e a fonte não existiria.
+Recusasse a semente a própria segregação no solo e a Terra se converteria em deserto.
+Não se resignasse a pedra com o próprio anonimato nos alicerces e um edifício seguro jamais se colocaria de pé.
+Lembra-te da poção medicamentosa que te suprime a dor, do copo d’água pura que te dessedenta, do livro simples que baseia a cultura complexa e jamais te digas inútil.
+Somente aquele que se dispõe a fazer as coisas pequeninas, que sabe e pode, virá a saber e a poder realizar grandes coisas.
+Qualquer subida exige passos e degraus. Assim também nas ascensões do espírito a que se refere o Evangelho do Senhor.
+Chegarás futuramente às culminâncias do serviço e da luz, na esfera de ação direta do Cristo de Deus, mas para isso é imprescindível que faças agora tão bem quanto te seja possível, todo o bem que és capaz de fazer.
+
+---
+
+## 8 — Burilamento
+
+> “Meu pai trabalha até agora e eu trabalho também.”  JESUS (
+> — João, 5.17
+
+Muitas vezes entregas-te a melancólicas reflexões em torno de transformações espirituais que inutilmente intentaste.
+Deste o máximo de abnegação ao filho estremecido para quem planejaste luminoso futuro, sem conseguir talvez arrancá-lo à rebeldia em que persiste;
+ofertaste a própria existência aos pais queridos, ornamentando-lhes o caminho de auxílio e ternura, e, provavelmente, nem de leve pudeste arredá-los da discórdia a que jazem atrelados por longo tempo;
+situaste todo o coração no carinho por este ou aquele companheiro, aguardando-lhes em vão qualquer concurso nas tarefas edificantes que te felicitam a alma;
+empenhaste os mais nobres sentimentos na melhoria deste ou daquele grupo de entes amados, seja no lar ou na organização de serviço a que te afeiçoas, e, por maior o esforço despendido, nada colheste até agora, senão amargura e negação.
+Em meio do trabalho absorvente costumas interromper as próprias atividades, indagando de ti mesmo se vale a pena continuar no esforço renovador…
+Semelhante introdução ao desespero comumente aparece porque, em muitas ocasiões, experimentas o desencanto de quem cava num monte de pedras procurando debalde o fio d’água que lhe foge à sede, ou a fadiga de quem cruza o deserto, em todas as direções, sem achar caminho para a vanguarda libertadora.
+Ainda assim, persevera nos bons propósitos e colabora, quanto possível, pela consecução dos objetivos de fraternidade e aprimoramento a que devemos todos visar.
+Uma pergunta só dar-nos-á, reconforto: se Jesus, há milênios, trabalha por nós, para que tenhamos o pequenino clarão de conhecimento com que hoje tentamos dissipar as sombras que ainda trazemos, por que desanimar na obra de amparo aos que amamos, se apenas agora começamos a servir no terreno da luz?
+
+---
+
+## 9 — No plano dos inimigos
+
+> “Eu, porém, vos digo: Amai os vossos inimigos…”  JESUS (
+> — Mateus, 5.44
+
+O ofensor apareceu diante de ti à maneira de um teste de aprimoramento moral.
+Injuriou-te o nome.
+Zombou-te dos brios.
+Gritou-te ameaças.
+Golpeou-te os sentimentos.
+Desafiou-te a capacidade de tolerância.
+Apedrejou-te os ideais.
+Escarneceu-te dos propósitos.
+Torturou-te o pensamento.
+Disse Jesus: “Ama os teus inimigos”, mas não recomendou que os tomássemos por modelos de serviço e conduta, quando os nossos opositores se afeiçoem ao mal.
+Mentaliza um homem estirado no charco. É razoável lhe estendas a mão, no fito de socorrê-lo; entretanto, nada justifica te afundes, por isso, conscientemente no barro.
+É preciso salvar as vítimas do incêndio, mas a vida não te pede o mergulho desamparado nas chamas.
+O adversário é sempre alguém digno do auxílio ao nosso alcance, mas nem sempre, com desculpa de amor, devemos fazer aquilo que ele estima fazer.
+
+---
+
+## 10 — Em equipe
+
+> “Se todos, porém, fossem um só membro, onde estaria o corpo?”  PAULO (
+> — 1 Coríntios, 12.19
+
+Na edificação espírita-cristã auxiliemos cada companheiro a perceber o valor do esforço que se lhe atribui.
+Nunca será demais repetir que todos, encarnados e desencarnados, atendendo aos interesses da própria evolução, na obra da Doutrina Espírita, funcionamos em equipe, visando a um fim — a consolidação do bem geral.
+Cada tarefeiro é situado no lugar certo, para a cooperação exata.
+Este retém a palavra vibrante, aquele conserva com mais segurança o senso da direção, outro escreve de modo convincente, outro ainda, com mais propriedade, fornece a energia curadora… Há quem se responsabilize pela escola, pelo conforto moral, pela assistência aos necessitados, pela enfermagem da alma…
+Todo trabalho a fazer, quanto ocorre a cada peça de determinado engenho, é de suma importância. Em razão disso, não existem privilégios ou distinções na construção da Espiritualidade Superior.
+O colaborador requestado à produção de fenômenos espetaculares ou aos efeitos brilhantes da inteligência, não é maior que o obreiro encarregado de lenir feridas ou suprimir aflições na retaguarda.
+O apóstolo Paulo, em se reportando ao assunto, articulou esta feliz expressão: “Se todos, porém, fossem um só membro, onde estaria o corpo?”
+Os olhos não substituem os ouvidos e nem as mãos tomam para si os deveres dos pés; contudo, trabalham todos, interligados, em proveito da personalidade real.
+Aprendamos com a Natureza e, sustentando-nos na posição que nos é própria, aprimoremos, quanto possível, a nossa capacidade de servir, reconhecendo sempre que a seara do bem pertence ao Senhor.
+
+---
+
+## 11 — Disponibilidades mediúnicas
+
+> “A manifestação do Espírito é concedida a cada um, visando a um fim proveitoso.”  PAULO (
+> — 1 Coríntios, 12.7
+
+São muitos os chamados ao campo da atividade espírita-cristã.
+Encontramo-los, a cada trecho do caminho, sobretudo relacionando fenômenos.
+Descrevem sonhos, expõem revelações que lhes dizem respeito, alinham ocorrências de sentido premonitório, narram visões…
+A maioria, no entanto, deserta do serviço.
+Alguns chegam a solicitar o socorro de amigos para se livrarem das possibilidades medianímicas com que foram beneficiados, à maneira de enfermos interessados em evitar o remédio que lhes asseguraria a saúde ou de lavradores que se determinassem a fugir do arado capaz de propiciar-lhes o tesouro da colheita.
+Junto desses aparecem ainda os que se encantam com os recursos psíquicos de que são detentores, para atraírem vantagens pessoais ante os caçadores de entretenimentos vazios.
+A observação do Evangelho, todavia, é clara demais para que nos enganemos.
+Ninguém recebe disponibilidades mediúnicas para escondê-las ou esbanjá-las através de inutilidade ou conveniência.
+Reflitamos no conceito sábio e oportuno do apóstolo Paulo: “A manifestação do Espírito é concedida a cada um, visando a um fim proveitoso.”
+
+---
+
+## 12 — Atentai vós que ouvis
+
+> “Atentai vós que ouvis…”  JESUS (
+> — Marcos, 4.24
+
+Frequentemente lastimamos enganos de que somos vítimas ou deploramos obstáculos com que não contávamos, absolutamente desvinculados de advertências edificantes que nos enriquecem a alma.
+Esperamos que amigos nos evitem aborrecimentos, que instrutores nos garantam o passo…
+As leis que nos regem, contudo, se expressam por evolução, crescimento, disciplina, responsabilidade.
+Uma criança, nos primeiros tempos da experiência física, decerto contará com o amparo materno ou com o auxílio de pajens dedicados, a fim de equilibrar-se nos próprios pés; todavia, o tempo desenvolver-lhe-á entendimento e forma, situando-a na idade da razão.
+Chegada a esse ponto a criatura já não pode refugiar-se no regaço alheio para obter apoio e condução.
+Colocada entre os adultos, que gravitam em torno de interesses variados, é compelida a defrontar-se com os problemas que lhe digam respeito, de modo a resolvê-los, com vistas à própria sublimação espiritual.
+Imperioso, dessa forma, que não se renda culto à desatenção nos caminhos da vida.
+Nos menores e maiores acontecimentos do cotidiano é preciso saibamos analisar, de raciocínio sereno, que sugestões edificantes a fé nos proporciona ou que lições vivas a experiência nos traz.
+Imaginemos alguém atravessando a via pública sem a menor consideração para com os avisos do trânsito, ou contraindo dívidas sem a mínima ideia de que responderá pelos próprios atos. Claramente que, por fim, esbarrará com desastre e insolvência.
+Assim também na vida moral.
+Ninguém vive acertadamente sem ponderação, equilíbrio, discernimento, autoexame. Reflitamos em nossos compromissos, deveres, tarefas, necessidades.
+Para que nos premunamos contra disparate e imprudência, Jesus foi persuasivo, exortando-nos pelos apontamentos de Marcos: “Atentai vós que ouvis.”
+
+---
+
+## 13 — No reino da alma
+
+> “Por este motivo te lembro que despertes o dom de Deus, que existe em ti, pela imposição de minhas mãos.”  PAULO (
+> — II Timóteo, 1.6
+
+Numerosos os companheiros que pagam ou reclamam concurso alheio para que se lhes desenvolvam determinadas qualidades espirituais. Ginásticas, regimes dietéticos, penitências, austeridades místicas…
+Sem dúvida, semelhantes processos de educação do corpo e da mente valem por precioso concurso ao despertamento da vida interior, sempre que empregados de intenção e pensamento voltados para os interesses superiores do Espírito. Mas não bastam.
+A palavra do Evangelho, através do apóstolo Paulo, é suficientemente esclarecedora. Ele se reporta à colaboração dos passes magnéticos, ministrados por ele mesmo, em favor do discípulo; entretanto, não o exonera da obrigação de acordar, em si e por si próprio, os talentos de que é portador.
+O convívio com um amigo da altura moral do convertido de Damasco, as preces e ensinamentos do lar, os apelos doutrinários e o amparo externo constantemente recebido não desligavam Timóteo do dever de estudar e aprender, trabalhar e servir, a fim de burilar os seus dons de alma e acioná-los na construção da própria felicidade pela extensão do bem.
+Pensemos nisso e saibamos receber reconhecidamente os auxílios que a bondade alheia nos proporcione, aproveitando-os em nosso benefício, mas lembrando sempre que o autoaperfeiçoamento, para que a luz do Senhor se nos retrate no coração e na vida, será resultado de esforço nosso, ação individual de que não poderemos fugir.
+
+---
+
+## 14 — Nas trilhas da palavra
+
+> “Tu, porém, fala o que convém à sã doutrina.”  PAULO (
+> — Tito, 2.1
+
+Espíritos encarnados e desencarnados, a serviço da evangelização, em nosso próprio benefício, muitas vezes somos arrastados ao verbo deturpado ou violento.
+Erro comum a nós todos, sempre que desprevenidos de mais ampla visão de conjunto.
+Centralizamos a atenção em nódoas e defeitos, faltas e quedas, conferindo-lhes um poder que não possuem ou exagerando-lhes a feição.
+E enquanto isso ocorre, perdemos tempo, retardando as edificações espirituais que nos competem, à maneira de operários que furtassem as horas do trabalho em que se engajaram para medir a lama do caminho que o sol há de secar.
+Avisemo-nos, tanto quanto possível, contra semelhante impropriedade.
+Conversando ou escrevendo, informando ou pregando, imunizemos a nossa área de obrigações, desterrando o mal, seja de nosso pensamento ou de nossa palavra.
+Se nos constitui dever de setor identificar a presença da sombra e afastá-la, sempre que a sombra ameace a comunidade, façamos luz sem tumulto contraproducente, mas fujamos de comprometer a obra do Senhor, pisando ou repisando deficiências, chagas, mazelas e infortúnios alheios, convictos de que fomos chamados a falar o que convém à sã doutrina.
+
+---
+
+## 15 — Ante o mundo espiritual
+
+> “Que entesourem para si mesmos um bom fundamento para o futuro, para que possam alcançar a vida eterna.”  PAULO (
+> — 1 Timóteo, 6.19
+
+Fundamento é
+.
+A essência espírita da palavra de Paulo a Timóteo não nos deixa qualquer dúvida.
+O apóstolo solicita aos companheiros encarnados na Terra entesourarem “um bom fundamento para o futuro, para que possam alcançar a vida eterna”.
+Claro que não se reporta ao porvir do corpo, destinado a transformações inevitáveis na química da Natureza.
+O convertido de Damasco, se refere à alma imperecedoura.
+Em síntese, destaca a necessidade do máximo aproveitamento da reencarnação.
+Recorda aos homens que os obstáculos do mundo são recursos valiosos para o reajuste do Espírito;
+que as provações na carne são agentes de purificação interior;
+que a convivência com aqueles que nos ferem ou caluniam é oportunidade de exercitarmos humildade e
+que o contato de tentações é o processo de amealharmos experiência.
+Paulo quer dizer que a criatura humana, em se desvencilhando da armadura física pelo transe da morte, se aspira a conquistar os Planos superiores, no rumo da imortalidade vitoriosa, precisa transportar consigo as riquezas do espírito hauridas no estudo e no trabalho, no mérito das boas obras e no autoaprimoramento, uma vez que sem esses requisitos, conquanto desencarnada, permanecerá gravitando em torno de vicissitudes terrestres, à espera de novas reencarnações.
+
+---
+
+## 16 — Na seara evangélica
+
+> “… Ai de mim se não pregar o Evangelho!”  PAULO (
+> — 1 Coríntios, 9.16
+
+Às vezes fugimos ao serviço evangélico, justificando a omissão com os defeitos que ainda nos caracterizam.
+Dizemo-nos demasiado fracos para cooperar com a beneficência e desertamos do contato com os irmãos em penúria…
+Afirmamo-nos inábeis e recusamos encargos honrosos que se nos confiam…
+Proclamamo-nos rudes em excesso e rejeitamos a possibilidade de cooperar no ensinamento edificante…
+Asseveramo-nos na posição de Espíritos endividados e fantasiamos incapacidade para o cultivo da fé…
+Entretanto, é grande contrassenso semelhante norma de proceder. Se a criatura humana surgisse instruída no berço, para que a escola na Terra?
+Jesus transmitiu as revelações e lições do Evangelho a homens e mulheres débeis, infelizes, revoltados, obsessos, inibidos, ignorantes, desanimados, doentes. Ele próprio declarou não ter vindo ao mundo para curar os sãos.
+
+Evitemos escapatórias diante da construção do bem, que é dever nosso.
+A obra de evangelização e, notadamente, a que Jesus nos concede na seara luminosa da Doutrina Espírita, é oportunidade rara de serviço, melhoria, aprimoramento e felicidade, cujo valor não sabemos ainda apreciar.
+Recordemos Paulo de Tarso.
+Ele, o apóstolo que recolheu apelos diretos do Cristo à sementeira de luz, foi positivo ao confessar: “Ai de mim se não pregar o Evangelho!”
+E nós, em lhe meditando o exemplo, podemos reconhecer que se não aproveitarmos os recursos de trabalho que o Espiritismo nos oferece, permaneceremos na inferioridade em que temos vivido até hoje, se não descambarmos para coisa pior.
+Dizemo-nos demasiado fracos para cooperar com a beneficência e desertamos do contato com os irmãos em penúria…
+Afirmamo-nos inábeis e recusamos encargos honrosos que se nos confiam…
+Proclamamo-nos rudes em excesso e rejeitamos a possibilidade de cooperar no ensinamento edificante…
+Asseveramo-nos na posição de Espíritos endividados e fantasiamos incapacidade para o cultivo da fé…
+
+---
+
+## 17 — Na luta educativa
+
+> “Mas pela graça de Deus sou o que sou…”  PAULO (
+> — 1 Coríntios, 15.10
+
+Ninguém nos desconhece a inferioridade de Espíritos ainda vinculados aos processos evolutivos da Terra, sempre que tenhamos as nossas condições imperfeitas confrontadas com as qualidades sublimes que imaginamos nas entidades angélicas.
+Não nos é lícito, porém, negar os recursos de aperfeiçoamento que já nos felicitam. Somos incipientes no trato dos conhecimentos superiores, mas já estamos instruídos quanto à necessidade de adquiri-los.
+Achamo-nos empenhados a débitos enormes, diante de muitas existências transcorridas no erro; no entanto, já sabemos que, se formos leais ao cumprimento dos deveres que o resgate nos impõe, é possível atenuar muitas dificuldades e transpor vitoriosamente as barreiras que nos separam da vitória sobre nós mesmos.
+Experimentamos tentações escabrosas, segundo as falhas que ainda nos marcam a posição; todavia, não ignoramos que triunfaremos sobre todos os alvitres da sombra, desde que estejamos atentos aos impositivos do serviço e da vigilância.
+Percebemos as fragilidades que nos assinalam a existência para o levantamento de construções morais nos domínios da virtude; entretanto, dispomos das mais nobres instruções para guiar-nos no caminho da elevação.
+Melhoremo-nos, melhorando a vida.
+Aprendamos para ensinar.
+Impossível ocultar as deficiências de que somos ainda portadores; conquanto isso, podemos parafrasear Paulo de Tarso, asseverando: dentre os Espíritos devedores e imperfeitos, reconhecemos estar em meio dos mais necessitados de regeneração e ensinamento, mas pela graça de Deus já somos o que somos.
+
+---
+
+## 18 — Ante a força do bem
+
+> “… Deus é caridade; e quem está em caridade está em Deus e Deus nele.”  (
+> — 1 João, 4.16
+
+Muitos acreditam simplesmente na força e agem sob o domínio da imposição.
+A força, no entanto, comanda apenas coisas e corpos, e tudo o que ela faça, em matéria de condução ou vivência, depende de mais força para continuar.
+No reino da alma somente o amor, fonte da vida, consegue estabelecer verdadeiro apoio ao equilíbrio e à governança.
+A força não resolve um cálculo aritmético nem compõe leve trecho de melodia; entretanto, pelo amor ao estudo o homem prevê a movimentação das estrelas e pelo amor à arte produz a sinfonia que tange os sentimentos da multidão.
+Em qualquer departamento da vida é necessário amar para entender e construir.
+Se forçamos a posse disto ou daquilo, tão somente reteremos a sombra ou a casca daquilo ou disto, porquanto, escoada a energia que mantém o processo de violência, perdemos de imediato o domínio da posição que intentamos assegurar.
+A força tiraniza.
+O amor reina.
+“Deus é caridade”, afirma o Evangelho. Consequentemente, Deus está no bem verdadeiro que é, mais propriamente, o bem de todos.
+Auxiliando, compreendemos.
+Dando, possuímos.
+Quanto mais baixo nas Esferas da Natureza, mais intensamente se mostra o bem da força, e quanto mais alto, nos Planos do Espírito, mais pura se revela a força do bem.
+, dezembro 1965, p. 268.
+
+---
+
+## 19 — Ante o poder do amor
+
+> “Porque Deus amou o mundo de tal maneira que deu seu Filho unigênito para que todo aquele que nele crê não pereça, mas tenha a vida eterna.”  (
+> — JOÃO, 3.16
+
+Ninguém conseguiria manter a ordem sem a justiça, mas ninguém constrói a paz sem amor.
+Não se negará merecimento à colônia penal que reúne os doentes de espírito, como não se recusa apreço ao hospital que congrega os doentes do corpo; mas assim como na instituição de saúde somente o desvelo do amor é capaz de assegurar o preciso êxito às instruções da medicina, nos estabelecimentos de regeneração apenas o trabalho do amor garante a recuperação da lei que traça disposições para o equilíbrio social.
+Muitos falarão de esforço corretivo perante os erros do mundo; não lhes desconsiderarás as razões, quando justas, todavia, precedendo quaisquer medidas de coerção referir-te-ás ao amor que restaura.
+Muitos apontarão os perigos resultantes das deficiências do próximo; não lhes desrespeitarás a argumentação, quando sincera, mas antes de tudo providenciarás a obtenção de remédio que as reduza.
+Assim deve ser, de vez que por enquanto, na Terra, para legiões de acusadores, diante das vítimas do mal, existem raros advogados para o socorro do bem.
+Ama sempre. E quando estiveres a ponto de descrer do poder do amor, lembra-te do Cristo; o Senhor sabia que o mundo de seu tempo estava repleto de Espíritos endividados perante a Lei, que Ele não poderia invalidar os arestos da Justiça para o reajustamento dos culpados, compreendia que as criaturas hipnotizadas pelo vício não lhe dariam atenção, que deveria contar com a hostilidade daqueles mesmos a quem se propunha beneficiar e permanecia convicto de que o extremo sacrifício lhe seria o coroamento da obra; entretanto, consubstanciando em si mesmo o infinito amor que Deus consagra à Humanidade, veio ao mundo, mesmo assim.
+
+---
+
+## 20 — Pontos do explicador espírita
+
+> “Tu, porém, sê sóbrio em todas as coisas, suporta as aflições, faze o trabalho de um evangelista, cumpre cabalmente o teu ministério.”  PAULO (
+> — II Timóteo, 4.5
+
+Educar a voz para que se faça construtiva e agradável.
+Adaptar-se aos ouvintes, abordando-lhes o coração.
+Falar com sinceridade, sem aspereza.
+Situar os princípios doutrinários acima de quaisquer ideias pessoais.
+Jamais transfigurar a verdade em bastão de castigo, mas dosá-la e usá-la no veículo do amor, à maneira de esclarecimento e remédio, renovação e consolo, escora e incentivo à prática do bem.
+Evitar conceituações e palavras que sugiram ódio ou violência, desprezo ou terror, condenação ou pessimismo.
+Estudar sempre a fim de oferecer recursos verbais sempre mais vastos à inspiração da Vida Maior.
+Tolerar as críticas e aproveitá-las.
+Jamais valer-se da pregação para combater adversários ou hostilizar criaturas com as quais ainda não consiga afinar-se de todo.
+Respeitar as crenças e pontos de vista do auditório, sem elogiar-lhe as ilusões e os preconceitos.
+Abster-se de instalar dúvidas ou perguntas no espírito daqueles que lhe prestam atenção, sem soluções ou respostas convenientes.
+Tratar os ouvintes na condição de familiares e entes queridos a quem se oferecem os melhores valores do coração.
+Nunca falar de alto para baixo, mas compartilhar as necessidades e deficiências dos circunstantes, transmitindo-lhes a certeza de que carrega também consigo as mesmas lutas e problemas que lhes marcam a vida.
+Orar antes de explicar ou de ensinar, para que a palavra se lhe transforme numa bênção de Deus.
+
+---
+
+## 21 — Pontos do escritor espírita
+
+> “Porque o fruto da luz consiste em toda a bondade e justiça e verdade…”  PAULO (
+> — Efésios, 5.9
+
+Selecionar os pensamentos, compreendendo a sua responsabilidade pelas imagens que veicule.
+Usar linguagem acessível a todos, evitando termos chulos.
+Recorrer ao passado para ensinar e referir-se ao futuro para construir, mas viver nas realidades do presente, colaborando com os irmãos da Humanidade na solução dos problemas que lhes tumultuam a vida.
+Consultar necessidades do povo a fim de ajudá-lo a encontrar caminhos de pacificação e progresso.
+Abster-se de extravagâncias verbais.
+Negar-se às divagações sem proveito.
+Dialogar sempre com os profitentes de outros credos sem ferir-lhes as crenças, mas sem encorajar-lhes os enganos ou as superstições.
+Respeitar os divergentes.
+Nunca destilar ódio ou azedume, desânimo ou injustiça.
+Consagrar-se ao estudo quanto possível, honorificando a Doutrina Espírita com a literatura sem ridículo.
+Jamais julgar-se superior aos outros pelo fato de dominar a linguagem escrita, reconhecendo que todas as faculdades e técnicas são veneráveis perante Deus.
+Reconhecer a autoridade moral de Nosso Senhor Jesus Cristo e submeter-se, sem subserviência ou pieguice, mas com dignidade e respeito, ao controle dos ensinamentos evangélicos explicados pelo Espiritismo Cristão.
+Cultivar o hábito da prece para que os seus textos humanos não se mostrem vazios de luz espiritual.
+
+---
+
+## 22 — Não só de inteligência
+
+> “Aquele que ama a seu irmão permanece na luz e nele não há nenhum tropeço.”  JOÃO (
+> — 1 João, 2.10
+
+Esfalfamo-nos na Terra a fazer testes de inteligência para ganhar inteligência, e, sem dúvida, precisamos todos de agilidade mental para a destreza de raciocínio e firmeza de decisão.
+Entretanto, não basta a inteligência, só por si, para orientar com absoluta segurança os roteiros da vida.
+Senão, vejamos.
+Quase sempre sabemos: entesourar conhecimento intelectual, mas ignoramos ainda como utilizá-lo para evitar a guerra uns com os outros;
+acumular o dinheiro, mas muito raramente aprendemos como empregá-lo na construção da própria felicidade e da felicidade dos semelhantes;
+inventar os mais variados processos de reconforto em benefício do corpo transitório, mas desconhecemos ainda como prover as necessidades de nossas almas eternas;
+legislar com eficiência nas atividades visíveis do mundo, mas ignoramos como preservar a tranquilidade de consciência, conquanto já conheçamos a generalidade dos princípios morais que nos regem;
+cultivar grandes afeições, até mesmo com testemunhos heroicos de sacrifício, mas não sabemos ainda como traçar-lhes o equilíbrio justo para que não se convertam em desarmonia e paixão.
+Em suma, estamos em condições de preparar o futuro para todas as garantias no Plano físico, mas habitualmente descuidamo-nos de nossos interesses na imortalidade que é patrimônio inalienável de cada um.
+Em razão disso, muitas vezes damos na Terra estranhos espetáculos de genialidade e delinquência, cultura e degradação.
+É que apenas a inteligência não basta à felicidade. A alegria de viver pede, acima de tudo, a luz do entendimento e a bênção do amor.
+
+---
+
+## 23 — No campo da elevação
+
+> “Aquele que não ama não conhece a Deus, pois Deus é amor.”  JOÃO (
+> — 1 João, 4.8
+
+O materialismo apresenta contradições que nos obrigam a procurar a melhor maneira de elevar o coração ao nível do cérebro.
+Quantos se imaginam hoje abordando a felicidade em outros planetas sem saberem como descobrir a alegria dentro de casa!
+Quantos devassam a intimidade da Natureza sem se dignarem sondar os recessos da própria alma!
+O raciocínio avança destemeroso para a luz, mas o sentimento se acomoda na sombra.
+Ainda assim é imperioso fugir ao pessimismo e prosseguir no trabalho da sublimação espiritual.
+Urge reconhecer que, renteando com os nossos irmãos ainda desconhecedores da própria imortalidade e que se atolam, por isso mesmo, em sinistros enganos, surpreendemos, em todas as latitudes da Terra, companheiros notáveis pela própria formação que sabem manejar com acerto os recursos do mundo para a glória do Bem Eterno, com esquecimento deles mesmos.
+O problema da elevação, porém, é comum a nós todos, de vez que, se perguntamos aos nossos irmãos materialistas o que fazem eles da cultura, eles podem indagar, e com razão, o que estamos nós fazendo de proveitoso com a fé.
+A verdade é que nós todos — eles e nós outros, os Espíritos religiosos — em maioria imensa na Terra, somos criaturas endividadas ante as leis do Universo, com séculos de trabalho pela frente a fim de aprendermos não apenas a evoluir, instruídos pela inteligência, mas também a caminhar com o devido aprimoramento no amor para viver com educação.
+, fevereiro 1968, p. 26.
+
+---
+
+## 24 — Verbo e caminho
+
+> “Expondo estas coisas aos irmãos serás bom ministro do Cristo Jesus, alimentando-os com as palavras da fé e da boa doutrina que tens seguido.”  PAULO (
+> — 1 Timóteo, 4.6
+
+É necessário estudar o poder do verbo e jamais abusar dele.
+Mobilizá-lo para estabelecer condições de saúde e equilíbrio, paz e alegria, onde estivermos.
+Compreendê-lo e acatá-lo para saber que a verdade, na correção do Espírito, deve ser empregada como a radioterapia na cura física, dentro da cautela aconselhável, sem que nos caiba o direito de inclinar-lhe as aplicações para o terreno da leviandade ou da malícia.
+Usá-lo para auxiliar e abençoar, levantar e instruir.
+Falar é gravar. Gravar é criar.
+Acatemos as necessidades e os interesses dos outros no campo dos recursos verbalistas.
+Somos obviamente responsáveis pelos bens materiais de que nos apropriemos indebitamente. Outro tanto acontece quando dilapidamos fé e otimismo, esperança e coragem nos corações alheios.
+A ideia é uma força criadora e nossas palavras aderem a ela construindo sentimentos, sugestões, formas e coisas.
+Conversemos para melhorar.
+Utilizemos a frase por agente de elevação. Estejamos convencidos de que as palavras que nos escapam da boca ou da escrita assemelham-se, de maneira simbólica, ao ferro gusa; após escorrerem do forno de nossa mente solidificam-se nos trilhos, bons ou maus, sobre os quais o comboio de nossa existência estará no caminho.
+
+---
+
+## 25 — Diante dos Homens
+
+> “Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus, de antemão, preparou para que andássemos nelas.”  PAULO (
+> — Efésios, 2.19
+
+Não te deixes dominar pelo derrotismo acerca da natureza humana.
+Nem sempre as ações isoladas de um indivíduo são as melhores que se devem esperar dele, mas o homem, visto no conjunto da Humanidade, é um ser dotado de todos os recursos virtuais dos entes superiores em trânsito para a angelitude.
+O Criador não ergueria a criatura para insuflar-lhe maldição.
+Todos os filhos de Deus são potencialmente bons e encerram consigo as sementes da grandeza moral a que se destinam.
+O pessimismo possivelmente objetará que, em contraposição às nossas afirmativas, encontramos a presença dos homens nas guerras que envilecem nações, nos vários sistemas de cativeiro que ainda rebaixam a espécie humana, nos cadastros policiais que patenteiam a criminalidade existente no mundo e nos vícios que corrompem coletividades inteiras.
+Conhecemos tudo isso e a isso nós todos nos referimos nos estudos que vamos realizando em torno de nossa própria natureza, mas, de quando em quando, é justo refletir no exemplo daqueles que nos deram a certeza de que nascemos no Universo para complementar os mais altos Propósitos Divinos.
+Pensemos em nós, Espíritos em reajuste perante a Lei, como sendo talvez muitos dos tiranos que censuramos nas galerias da História e meditemos na abnegação e no heroísmo de quantos nos legaram tudo de bom que hoje possuímos.
+Voltemo-nos para eles, os nossos benfeitores que nos proporcionaram o melhor nas leis, costumes, edificações e ideais que nos motivam a evolução no planeta.
+E, perante os irmãos que se afeiçoam ao pessimismo, malsinando-nos as instituições de socorro espiritual, como sejam as religiões e os princípios de elevação do caráter, perguntemos sinceramente a nós mesmos: se ainda nos achamos extremamente imperfeitos, com o auxílio incessante das ciências da alma, que seria de nós sem elas?
+
+---
+
+## 26 — Louvemos o bem
+
+> “Saudai a todos os vossos guias, bem como a todos os santos.”  PAULO (
+> — Hebreus, 13.24
+
+Ante a dificuldade inconteste para servir à Causa do Bem e da Verdade, entre os problemas do mundo, imitemos os espíritos corajosos que nos abrem caminho.
+Louvemos os que tiveram suficiente valor para aceitar a humilhação de si mesmos a fim de serem fiéis à própria consciência;
+
+os que recusaram vantagens materiais para não conluiarem com o erro;
+
+os que atravessaram longa existência dedicados a melhorar as condições dos seus semelhantes;
+
+os que renasceram em dolorosas provações no veículo físico e não permitiram que a dor lhes suprimisse a quota de serviço à comunidade;
+
+os que sofreram a morte prematura a fim de que a ciência avançasse sobre trilhas corretas;
+
+e aqueles outros que suportaram perseguições e calúnias por amor aos seus irmãos, sem abandonar a tarefa que o Senhor lhes confiou, quando poderiam ter fugido!…
+A eles devemos todos os bens que desfrutamos na Terra, nos domínios da lei e da cultura, da civilização e do progresso!
+Eles foram homens e mulheres que lutaram e choraram, entre obstáculos e paixões semelhantes aos que nos marcam a vida; entretanto obedeceram, mais cedo que nós, às leis do Senhor e ainda agora nos esclarecem que,
+por cima de nossos corações — por enquanto chumbados ao magnetismo do planeta — brilham os caminhos do futuro, rasgados de horizonte a horizonte nos céus abertos, através dos quais, um dia, nossa alma, livre e redimida, subirá, de ascensão em ascensão, para além das estrelas.
+
+---
+
+## 27 — Razões para amar os inimigos
+
+> “Eu, porém, vos digo: amai os vossos inimigos…”  JESUS (
+> — Mateus, 5.44
+
+Os inimigos, queiramos ou não, são filhos de Deus como nós e, consequentemente, nossos irmãos, para quem Deus providenciará recursos e caminhos dentro da mesma bondade com que age em nosso favor.
+Temos muito a dever aos amigos pelos estímulos com que nos asseguram êxito na vida, mas não podemos esquecer que devemos bastante aos nossos inimigos pelas oportunidades que nos proporcionam no sentido de retificarmos os próprios erros.
+O adversário é mais propriamente aquele que sulca a nossa alma, à feição do lavrador que cava na terra, a fim de que produzamos na seara do bem.
+O amor pelos inimigos dar-nos-á excelentes recursos contra o desajuste circulatório, a neurose, a loucura ou a úlcera gástrica, sempre que estejamos em tarefa no corpo físico.
+Orando em benefício dos que nos ferem, evitamos maiores perturbações em torno de nós mesmos.
+Uma atitude respeitosa para com os adversários nunca nos rouba tempo ao serviço.
+Amando os inimigos e entregando-nos sinceramente ao juízo de Deus, com as melhores vibrações de fraternidade, eliminamos noventa por cento dos motivos de aflição e aborrecimento.
+Abençoando em silêncio os que nos criticam ou golpeiam, protegemos com mais segurança os interesses do trabalho que a Providência Divina nos concedeu.
+A serenidade e o apreço para com os inimigos são os melhores antídotos para que as preocupações com eles não nos destruam.
+O amor pelos inimigos não nos rouba a paz da consciência, na hipótese de serem malfeitores confessos, porque, quando Jesus nos diz ide e reconciliai-vos com o adversário,
+[ele] nos ensina a fazer paz em nossas relações, como não é justo privar de tranquilidade uma criança ou um doente. Mas em trecho algum do Evangelho Jesus nos recomenda cooperar com eles.
+
+---
+
+## 28 — Motivos para socorro aos maus
+
+> “…e orai pelos que vos perseguem.”  JESUS (
+> — Mateus, 5.44
+
+Todos aqueles Espíritos interpretados como [sendo] maus são irmãos nossos — criaturas do Criador, quanto nós mesmos — credores de auxílio e consideração.
+A maldade, em muitos [casos], provém da ignorância que compele o ser a comportamento infeliz, reclamando assistência educativa.
+Às vezes a crueldade não é senão doença catalogável na patologia da mente, agravada, em muitas ocasiões, por influência obsessiva solicitando ajuda curativa ao invés de punição.
+Muitos criminosos são companheiros que não resistiram às tentações trazidas de existências passadas, incursos em faltas das quais somos passíveis em nossa atual posição de consciências endividadas perante a Lei.
+O malfeitor no cárcere ou em cumprimento da pena que lhe foi cominada é semelhante ao enfermo no hospital ou em tratamento adequado, requerendo compreensão e apoio fraterno.
+Ninguém experimenta alegria ante as vítimas do mal, como ninguém sente prazer diante do vizinho que a moléstia perturba, mas, assim como o doente do corpo exige medicação, o doente da alma requisita socorro.
+Tanto quanto não será possível prever a extensão do incêndio sem medidas que o combatam, ninguém pode acautelar-se do alastramento do mal sem a colaboração do bem que o elimine.
+Quando a pessoa conhece as próprias responsabilidades e pratica o mal mesmo assim, entreguemo-la a si mesma, convencidos de que essa pessoa carregará no subconsciente a dor da culpa até que se liberte, pelo sofrimento, da sombra em que se envolveu.
+Situemo-nos em lugar dos nossos irmãos caídos e verificaremos que eles precisam muito mais de assistência que de censura.
+Quando as circunstâncias nos impeçam o abraço fraternal imediato aos que nos feriram, não nos esqueçamos de que, ainda assim, ser-nos-á possível auxiliá-los sempre através da oração.
+
+---
+
+## 29 — Enfermos da alma
+
+> “… Não são os que gozam saúde que precisam de médico.”  JESUS (
+> — Mateus, 9.12
+
+Aqui e ali encontramos inúmeros doentes que se candidatam ao auxílio da ciência médica, mas em toda parte, igualmente, existem aqueles outros, portadores de moléstias da alma, para os quais há que se fazer o socorro do espírito.
+E nem sempre semelhantes necessitados são os viciados e os malfeitores, que se definem de imediato por enfermos de ordem moral, quando aparecem.
+Vemos outros muitos para os quais é preciso descobrir o remédio justo e, às vezes, difícil, de vez que se intoxicaram no próprio excesso das atitudes respeitáveis em que desfiguraram os sentimentos, tais como sejam:
+
+os extremistas da corrigenda, tão apaixonados pelos processos punitivos que se perturbam na dureza de coração pela ausência de misericórdia;
+
+os extremistas da gentileza, tão interessados em agradar que descambam, um dia, para as deficiências da invigilância;
+
+os extremistas da superioridade, tão agarrados à ideia de altura pessoal que adquirem a cegueira do orgulho;
+
+os extremistas da independência, tão ciosos da própria emancipação que fogem ao dever, caindo nos desequilíbrios da licenciosidade;
+
+os extremistas da poupança, tão receosos de perder alguns centavos que acabam transformando o dinheiro, instrumento do bem e do progresso, na paralisia da avareza em que se lhes arrasa a alegria de viver.
+Há doentes do corpo e doentes da alma. É forçoso não esquecer isso, porque todos eles são credores de entendimento e bondade, amparo e restauração.
+Diante de quem quer que seja, em posição menos digna perante as leis de harmonia que governam a Vida e o Universo, recordemos as palavras do Cristo: “não são os que gozam saúde que precisam de médico.”
+
+---
+
+## 30 — Nas trilhas da caridade
+
+> “A caridade nunca falha…”  PAULO (
+> — 1 Coríntios, 13.8
+
+A caridade possui maneiras múltiplas de ajudar, em tudo aplicando o senso das dimensões.
+No atendimento de cada necessidade ei-la que se expressa não somente com a luz da bondade, mas também com o metro da prudência:
+
+distribuindo alimento às vítimas da penúria, abstém-se de azedar o pão com o vinagre da reprimenda, respeitando a condição dos que lhe batem à porta;
+
+medicando o enfermo, não lhe exige atitudes em desacordo com os desajustes orgânicos em que o socorrido se veja, e sim escolhe os melhores gestos de tolerância e compreensão, de modo a servi-lo;
+
+alfabetizando o ignorante, não lhe reclama demonstrações de cultura antes do aprendizado, mas revela paciência e brandura para guiar-lhe a inteligência nos mais simples degraus da escola.
+Assim também, se invocamos a caridade a fim de orientar os que se transviam, não nos cabe esquecer as dificuldades em que se encontram.
+Para recuperar-lhes o equilíbrio não basta identificar-lhes as fraquezas e reprová-las. É imprescindível anotar-lhes a posição desfavorável e socorrê-los sem exigência.
+Daí o impositivo de se reconhecer, em qualquer parte, quanto à distribuição da verdade, que, se existe um modo distinto para que a beneficência exerça a caridade de saber assistir nos domínios do corpo, nos reinos do espírito é preciso que ela aperfeiçoe igualmente a caridade de saber explicar.
+
+---
+
+## 31 — Transformação e objetivo
+
+> “E vos renoveis no espírito…”  PAULO (
+> — Efésios, 4.23
+
+Sem dúvida, a existência é transformação incessante.
+Indispensável nos vejamos, muitas vezes, à luz da autoanálise, observando se estamos realmente seguindo os processos da evolução.
+Não nos esquecermos de verificar se nos achamos gravitando em torno dos erros de muito tempo ou se vivemos com os problemas que nos foram habituais no passado, sem procurar solução justa;
+examinar o campo íntimo e deduzir com clareza se estamos apaixonados por nós próprios, repetindo lances autobiográficos ou lamentações estéreis em derredor de provações que tenhamos vivido, sem alterar o mecanismo de nossas emoções, disposições, atitudes e palavras.
+Dia a dia é imperioso indagar de nós se prosseguimos empenhados no trabalho de autoburilamento, acompanhando o progresso que nos rodeia e tomando contato com as novas criações da inteligência, da cultura, da arte e dos assuntos humanos que nos envolvem a estrada.
+Todos necessitamos de intercâmbio, mantendo-nos interessados em buscar o melhor que a vida nos ofereça e interessar igualmente à vida, oferecendo a ela, na pessoa do próximo, aquilo de melhor que sejamos capazes de sugerir ou fazer.
+Ampliar os interesses da personalidade, esquecer ideias impróprias, enriquecer o cadastro das relações e estabelecer conhecimentos novos é dever nosso em toda parte.
+Entretanto, no rol de ideais, atividades, empreendimentos e ações que nos digam respeito é preciso saber que modificações estamos realizando.
+Estudemos, desse modo, o imperativo da transformação permanente no imo da própria alma e aprendamos com as leis do espírito que a renovação pede serviço constante, na construção do bem comum, para criar a felicidade e integrar-se harmoniosamente em nossas aquisições para a vida eterna.
+
+---
+
+## 32 — Necessitados
+
+> “Tende o mesmo sentimento uns para com os outros…”  PAULO (
+> — Romanos, 12.16
+
+A moeda, a cultura da inteligência, o verbo fulgurante e a segurança social nem sempre conseguem suprimir os problemas da pobreza, porque não nos é lícito esquecer a pobreza de espírito.
+Seareiros do bem que esvaziam a bolsa em socorro dos semelhantes, conquanto a ventura que adquirem pela ventura que espalham, às vezes trazem cruzes dolorosas por dentro do coração.
+E o mesmo acontece a muitos daqueles outros que levantam no mundo o archote do gênio, empunhando o buril da frase, transportando os tesouros da emoção, desvendando novos ângulos da Natureza ou detendo o cetro da autoridade.
+Isso nos obriga a considerar que necessitados não são apenas aqueles que se nos mostram em condições visíveis de penúria material; em muitas circunstâncias somos procurados por dores disfarçadas sob títulos honrosos do mundo ou recobertas por enfeites dourados.
+Descerra, desse modo, o coração para o grande entendimento!
+
+n
+Aquele que julgas como sendo o mais rico, diante da realidade será provavelmente o mais pobre, tanto quanto o que se te afigura o mais feliz seja talvez o mais infortunado.
+Ouçamos a solicitação oportuna do apóstolo Paulo: “Tenhamos o mesmo sentimento uns para com os outros…”
+Não te impressiones tão somente pelos olhos físicos. Deixa que a tua visão espiritual funcione à frente de todos e encontrarás em cada um daqueles que te cruzam a estrada um filho de Deus e irmão nosso, qual acontece a nós no rude labor do próprio burilamento, pedinte de compreensão e necessitado de amor.
+
+---
+
+## 33 — Da segurança íntima
+
+> “Ora, quem é que vos há de maltratar se fordes zelosos do que é bom?”  PEDRO (
+> — 1 Pedro, 3.13
+
+Se te fazes modesto sem a preocupação de exibir humildade…
+Se executas as próprias obrigações sem invadir a seara alheia…
+Se auxilias sem pedir retribuição…
+Se retificas teu erro sem culpar os outros de participação na falta que te é própria…
+Se colaboras no levantamento do bem sem exigir o concurso alheio…
+Se te desincumbes das responsabilidades pessoais sem reprovar a conduta do próximo…
+Se sofres com paciência, sem reclamar que os semelhantes te partilhem os obstáculos…
+Se toleras serenamente aqueles que te combatem, sem desconhecer-lhes as qualidades nobres…
+Se carregas a cruz do aprimoramento próprio sem querer amarrá-la aos ombros dos companheiros…
+Se cumpres com o teu dever e não aspiras a outro prêmio que não seja a consciência tranquila…
+Quem te poderá fazer mal, se procuras somente o bem?
+Pensa nisso, atendendo a isso, e verificarás que a segurança íntima reside em ti mesmo, qual acontece à paz da alma, que vem a ser patrimônio de cada um.
+
+---
+
+## 34 — No clima da corrigenda
+
+> “… Deixemo-nos levar para o que é perfeito…”  PAULO (
+> — Hebreus, 6.1
+
+Há que prevenir-nos, não só contra o fingimento que nos impele a exibir superioridade imaginária, como também contra aquele outro que nos induz a parecer piores do que somos.
+Efetivamente é muito difícil assinalar qual deles o mais ruinoso aos interesses do Espírito, porque, se o primeiro coagula a vaidade, favorecendo desequilíbrio e obsessão, o segundo se define por sorrateiro agente de fuga, retardando conscientemente o serviço a fazer.
+A cada passo ouvimos de companheiros, plenamente capacitados para o exercício das boas obras, afirmações como estas:
+— Compreendo a necessidade do esforço no bem, mas não estou preparado para tomar compromisso…
+— Sei que é preciso melhorar a situação, mas não sou santo…
+— Quem sou eu para auxiliar!
+— Não tenho merecimento…
+— Sou criatura indigna de viver…
+Entretanto, esses mesmos amigos, nas lides materiais, não se acanham de asseverar que estão procurando melhoria de nível, seja no campo de trabalho, na esfera dos vencimentos, no cultivo da inteligência ou nos recursos da profissão.
+Busquemos edificar-nos em espírito, reconhecendo que, em verdade, estamos infinitamente longe das criaturas perfeitas, mas, se já conhecemos algo do Cristo, estamos na trilha da corrigenda e qualquer corrigenda, mesmo ligeira, é passo da vida no rumo da perfeição.
+— Compreendo a necessidade do esforço no bem, mas não estou preparado para tomar compromisso…
+— Sei que é preciso melhorar a situação, mas não sou santo…
+— Quem sou eu para auxiliar!
+— Não tenho merecimento…
+— Sou criatura indigna de viver…
+
+---
+
+## 35 — Ouçamos, também
+
+> “… Depois, erguendo os olhos ao céu, Jesus disse: Efatá  que quer dizer: Abre-te.”  (
+> — MARCOS, 7.34
+
+A palavra do Cristo, ao surdo e gago, intimava-lhe as faculdades do espírito a se abrirem para a vida.
+Quantos de nós precisamos hoje consagrar atenção ao divino apelo?
+Quantos problemas nos cruciam a alma, por trancá-la às sendas libertadoras que a experiência oferece?
+Encerrados, quase sempre, no poço do “eu”, nada mais lobrigamos que a sombra das ilusões a que nos afazemos, esbanjando tempo e força em lamentáveis reclamações.
+O Senhor nos solicita a descerrar passagens no mundo íntimo, a fim de que os dons inefáveis da Espiritualidade Superior nos enriqueçam de alegria e de luz.
+Necessário verificar se carregamos sentimentos e raciocínios, olhos e ouvidos, lábios e mãos fechados ao entendimento e ao serviço.
+Indispensável abrir o coração à bondade, o cérebro à compreensão, a existência ao trabalho, o passo ao bem, o verbo à fraternidade…
+Não só isso. Imperioso abrir igualmente o livro edificante ao estudo, a bolsa à beneficência, a capacidade à cooperação e o caminho à hospitalidade.
+O sol, para sustentar o mundo, pede horizontes abertos.
+Diante do enfermo de espírito, encarcerado em si próprio, disse Jesus: “Abre-te.”
+Saibamos acolher a advertência sublime e, perante a luz do Infinito Amor de Deus, rompamos a clausura do “eu” e ouçamo-la também.
+
+---
+
+## 36 — Falta de fé
+
+> “Acolhei ao que é débil na fé, não, porém, para discutir opiniões.”  PAULO (
+> — Romanos, 14.1
+
+Não se deve julgar a criatura sem fé pelo padrão moral daquela que a possui, como não se pode considerar o enfermo à maneira de alguém que se encontre sem saúde porque assim o deseje.
+E assim como não se extingue a doença com pancadas e sim à custa de amparo e remédio, não se remove a descrença a preço de controvérsia e sim pelo concurso do amor e da educação.
+Existem motivações diversas para a incredulidade, tanto quanto existem causas variadas para a moléstia.
+Em toda parte onde se alinham seres humanos encontramos aqueles irmãos que ainda se privam de mais amplo entendimento, no domínio das questões essencialmente espirituais:
+
+os que da infância à madureza tão somente estiveram no clima da mais profunda ignorância acerca dos assuntos da alma;
+
+os que se enredaram na inquietação, em face de compromissos inconfessáveis, e temem o contato com as realidades do Espírito;
+
+os que se apegam a preconceitos estéreis e fogem de incrementar no próprio ser o conhecimento da Vida Superior;
+
+os que sofrem processos obsessivos, temporariamente incapacitados para raciocinar com segurança em torno da orientação pessoal;
+
+os que caíram em extrema revolta ante as lides expiatórias que eles mesmos fizeram por merecer.
+Quando te vejas defrontado pelos companheiros sem fé ou portadores de confiança ainda muito frágil, compadece-te deles e auxilia-os, quanto possas. Segundo a solicitação do apóstolo Paulo, saibamos acolhê-los ao calor da bondade, nunca ao fogo da discussão.
+
+---
+
+## 37 — Enquanto
+
+> “… Não vem o Reino de Deus com visível aparência.”  JESUS (
+> — Lucas, 17.20
+
+Dominarás a gramática, adquirindo fino lavor verbalista na ciência da expressão, mas enquanto não articulares a própria linguagem na luz da sinceridade e da compreensão, a tua palavra, conquanto primorosa, não renovará a ninguém.
+Indicarás a trilha exata da beneficência através de preciosos conselhos, mas enquanto não te dispuseres a percorrer a estrada do desprendimento, no auxílio aos semelhantes, embora ajudes indiretamente a quem te ouça, andarás órfão de teus próprios avisos.
+Pregarás tolerância, movimentando conceitos sublimes, mas enquanto não deres de ti mesmo em abnegação e humildade, na desculpa que ofertas, não farás claridade no coração a fim de acertar com o próprio caminho.
+Levantarás magnificentes construções terrestres, mas enquanto não ergueres em ti próprio o templo da paz, alicerçado no dever nobremente cumprido, não encontrarás em teu benefício o pouso interior da genuína tranquilidade.
+Honrarás os teus familiares e amigos como seres extremamente queridos, mas enquanto não compreenderes que as esperanças e as necessidades deles são iguais às do próximo, com o mesmo direito à bênção de Deus, não conquistarás em favor de ti a cidadania do Universo.
+Desfrutarás admiração e apreço, com espetáculos de prestígio e renome, mas enquanto essas realizações não te repercutirem na vida íntima, em forma de alegria oculta pelas obrigações irrepreensivelmente atendidas, ainda mesmo à custa de supostos fracassos e prejuízos, no campo das experiências materiais, nenhuma demonstração de estima pública te adiantará no Reino do Espírito, onde, em verdade, se te vincula a vida real.
+Melhoremos o mundo em derredor de nós, aperfeiçoando a nós mesmos. Capacita-te de que, depois das tarefas executadas no Plano físico, possuirás tão somente a extensão e a quantidade de Céu que houveres edificado dentro de ti.
+
+---
+
+## 38 — Criação verbal
+
+> “Seja, porém, a tua palavra: Sim, sim; não, não…”  JESUS (
+> — Mateus, 5.37
+
+Toda frase, no mundo da alma, é semelhante a engenho de projeção suscitando imagens na câmara oculta do pensamento.
+Temos, assim, frases e frases:
+duras como aço;
+violentas como fogo;
+suaves como brisa;
+reconfortantes como sol;
+mordentes quais lâminas;
+providenciais como bálsamos.
+À vista disso, todos nós carregamos, no estoque verbalístico, palavras e palavras:
+palavras — bênçãos;
+palavras — armadilhas;
+palavras — charcos;
+palavras — luzes;
+palavras — esperanças;
+palavras — alegrias;
+palavras — promessas;
+palavras — realizações;
+palavras — trevas;
+palavras — consolos;
+palavras — aflições;
+palavras — problemas.
+Sabendo nós que o Criador, ao criar a criatura, criou nessa mesma criatura o poder de criar, é forçoso reconhecer que toda frase cria imagens e toda imagem pode criar alguma coisa.
+Saibamos, assim, compor as nossas frases com as nossas melhores palavras, nascidas de nossos melhores sentimentos, porque toda peça verbal rende luz ou sombra, felicidade ou sofrimento, bem ou mal para aquele que lhe faz o lançamento na Criação.
+duras como aço;
+violentas como fogo;
+suaves como brisa;
+reconfortantes como sol;
+mordentes quais lâminas;
+providenciais como bálsamos.
+palavras — bênçãos;
+palavras — armadilhas;
+palavras — charcos;
+palavras — luzes;
+palavras — esperanças;
+palavras — alegrias;
+palavras — promessas;
+palavras — realizações;
+palavras — trevas;
+palavras — consolos;
+palavras — aflições;
+palavras — problemas.
+
+---
+
+## 39 — Autoentrevista
+
+> “Interrogado pelos fariseus sobre quando viria o Reino de Deus, Jesus lhes respondeu: “Não vem o Reino de Deus com visível aparência.”  (
+> — LUCAS, 17:20
+
+Vez por outra convém tomar o caderno de notas e rumar para dentro de nós mesmos, efetuando uma autoentrevista, a fim de sabermos em que posição se nos situa a personalidade na soma integral de nossas tendências mais íntimas:
+
+quem somos verdadeiramente para lá da genética humana e das documentações cartorárias do mundo, na condição real de filhos de Deus, em provisório serviço no campo da evolução terrestre;
+
+para que objetivos nos dirigimos;
+
+que fazemos do tempo;
+
+se nos achamos hoje com menos débito e mais crédito do que ontem, perante as Leis Eternas;
+
+se já recolhemos dificuldades e provações por reais benefícios;
+
+se procuramos renovar-nos constantemente, em espírito, para fazer o melhor ao nosso alcance;
+
+o que estamos produzindo a favor do próximo, seja no trabalho remunerado ou na atividade gratuita das boas obras;
+
+se já sabemos esquecer as ofensas alheias, tanto quanto desejamos que as nossas sejam esquecidas;
+
+se o nosso entusiasmo é invariável na prática do bem.
+Nós, que nos interessamos tão vivamente pelo noticiário de cada dia, acerca do que vai acontecendo no mundo, de quando em quando realizemos uma entrevista com o nosso próprio espírito e estejamos convencidos de que recolheremos as mais importantes informações para orientar-nos com segurança e êxito, na viagem de aperfeiçoamento em que nos encontramos, descobrindo gradativamente o Reino do Senhor em nós mesmos, ante a Espiritualidade Maior.
+
+---
+
+## 40 — No zelo fraternal
+
+> “Aquele, pois, que pensa estar em pé, olhe não caia.”  PAULO (
+> — 1 Coríntios, 10.12
+
+Observaste com pesar todos os irmãos do caminho que se arrojaram em situações aflitivas, angariando para si mesmos complicados problemas na sombra:
+
+os que perderam a confiança na Providência Divina e se desbordaram nos precipícios da rebeldia;
+
+os que desanimaram à frente das tentações e caíram no logro da morte voluntária;
+
+os que abandonaram as obrigações santificantes que lhes competiam, a pretexto de fadiga ou dificuldade;
+
+os que esmoreceram no serviço de elevação espiritual e buscaram repouso nos refúgios da ilusão;
+
+os que se aprisionaram nas armadilhas da delinquência;
+
+os que se enrodilharam nas teias da obsessão; os que se cansaram de fazer o bem;
+
+os que trocaram os percalços do trabalho pelos enganos do comodismo.
+Diante de todos eles, os nossos irmãos que entraram no cipoal dos obstáculos maiores, não pronuncies censura ou condenação. Ao invés disso, ora por eles.
+Recordemos a sábia advertência do apóstolo Paulo: — “Aquele, pois, que pensa estar em pé, olhe não caia.”
+
+---
+
+## 41 — Na seara espírita
+
+> “Ora, vós sois do Cristo e, individualmente, membros desse corpo.”  PAULO (
+> — 1 Coríntios, 12.27
+
+Em Doutrina Espírita é indispensável nos convençamos definitivamente — todos nós, os seus cultivadores — de que não fomos chamados às construções de espiritualidade para desempenhar a mera função de espectadores.
+Jamais escorarmo-nos na ideia de imperfeição pessoal para demitir-nos do trabalho a fazer.
+Observar que as edificações do bem comum, acima de tudo, pertencem a nós que lhes percebemos a urgência e a necessidade, e não a outros que ainda não despertaram, em espírito, para considerar-lhes a importância.
+Não nos queixarmos da falta de orientação no dever a cumprir, porquanto estamos informados com respeito às atitudes que nos competem na esfera da consciência.
+Não transferir aos amigos, sejam quais forem, a culpa de nossos fracassos ou qualquer das obrigações que a vida nos atribui.
+Olvidar a sensibilidade ferida e atuar incessantemente para que se realize o bem de todos.
+Fugirmos de contendas em torno de problemas doutrinários acessórios, mas sustentar o conceito criterioso e sereno na preservação dos valores essenciais.
+Estimar a posição de todos os companheiros no degrau em que se colocam, sem desprezar a nenhum.
+Cientificarmo-nos de que o conselho bom, sem o bom exemplo, é comparável a promissória sem crédito a caminho de protesto nos tribunais da vida por falta de pagamento.
+Erguer o esforço da ação construtiva ao nível de nossa responsabilidade, identificável na altura de nossa palavra edificante.
+Acatar as experiências alheias e aproveitá-las.
+Resistirmos à influência do mal sem render-nos à falsa suposição de que não podemos abolir ou diminuir o quadro das provações necessárias.
+Nunca vivermos tão profundamente mergulhados nos grandes ideais que não encontremos tempo para as demonstrações pequeninas de entendimento e de afeto.
+Equilibrarmos os recursos da existência, de modo que não sejamos pesados à coletividade a que se vincula a nossa cooperação.
+Recusar privilégios.
+Reconhecermos que, se a Doutrina Espírita nos serve e auxilia de inúmeros modos, é natural que ela chegue até nós esperando venhamos a conhecer e a praticar a nossa obrigação de auxiliar e servir.
+
+---
+
+## 42 — Em ação espírita
+
+> “Entretanto, procurai com zelo os melhores dons.”  PAULO (
+> — 1 Coríntios, 12.31
+
+Em ação espírita evangélica é preciso saber, antes de tudo, que nos achamos na edificação do Reino de Deus a começar no burilamento de nós mesmos.
+Reconhecer diante de qualquer pessoa que estamos convidados pelo Senhor à tarefa bendita de auxiliar.
+Substituir a crítica pelo apoio fraterno, tanto possível, e, mesmo quando estejamos intimados ao serviço de correção, nunca executá-lo sem colocar-nos no lugar do companheiro passível de reprimenda, a fim de que a nossa palavra perca a propriedade de ferir.
+Jamais esquecermos a obrigação de estudar para discernir com segurança.
+Considerarmos com apreço e gratidão o esforço construtivo de todos os companheiros.
+Aceitarmos com alegria a indicação para prestar pequeninos serviços.
+Opinar em qualquer assunto com sinceridade sem rudeza e com brandura sem engodo.
+Interpretarmos as dificuldades da vida por testes que nos positivem o valor da fé.
+Usar para o bem comum quaisquer talentos que possuamos.
+Não nos ausentarmos dos compromissos assumidos.
+Compreendermos que todos necessitamos uns dos outros e que ninguém pode trabalhar com eficiência sem cultivar a cooperação.
+Encontrar na mediunidade um instrumento para a sustentação da felicidade geral, sem escravizá-la aos nossos caprichos.
+Aplicar os princípios da caridade no total das nossas obrigações.
+Nunca desesperar nem desanimar à frente das provações, sejam elas quais forem.
+Servir sempre.
+Confiar na vitória final do bem.
+
+---
+
+## 43 — Injustiças
+
+> “A fé que tens, tem-na em ti mesmo perante Deus.”  PAULO (
+> — Romanos, 14.22
+
+Momentos existem nos quais surgimos diante de nós mesmos na condição de pessoas injustiçadas.
+Isso não ocorre tão somente quando somos focalizados na vida pública, em amplos movimentos de opinião.
+Pequeninos descontentamentos nos visitam com frequência, no cotidiano, principalmente:
+
+se somos preteridos no direito que acreditamos pertencer-nos;
+
+se somos arredados de vantagens, ao mesmo tempo que somos forçados a prejuízos;
+
+se alvejados por repreensões que não fizemos por merecer;
+
+se espancados moralmente nas provas que nomeamos como sendo ingratidões;
+
+se ficamos deserdados da atenção daqueles que julgamos dever-nos apreço e carinho;
+
+se contrariados nos desejos que consideramos oportunos e justos;
+
+se somos incomodados em nossas realizações pela intromissão de criaturas que nos subestimam os interesses;
+
+se apontados pela crítica…
+Nessas ocasiões achamo-nos habitualmente sob a influência de personalidades outras, sejam amigos ou adversários, que não podem ver de imediato as nossas necessidades e questões por nossos olhos e por nossas conveniências.
+Quando isso aconteça, embora a frase de louvor e encorajamento partida de outros em nosso favor seja sempre uma bênção, saibamos perseverar em nosso trabalho com o bem e pelo bem de todos, reconhecendo que há muitas situações na vida em que nos cabe atender, com segurança, à exortação do apóstolo Paulo: “A fé que tens, tem-na em ti mesmo perante Deus.”
+
+---
+
+## 44 — Embaraços
+
+> “Isto é impossível aos homens, mas para Deus tudo é possível.”  JESUS (
+> — Mateus, 19.26
+
+Indiscutivelmente somos defrontados por situações embaraçosas, nas quais se nos oprime o espírito ante a nossa incapacidade para conjurar-lhes a presença.
+Isso te ocorre no mundo quase sempre:
+
+quando os próprios erros elastecidos assumem aos teus olhos a feição de males sem remédio;
+
+quando a saúde física se te revela positivamente arruinada;
+
+quando um ente querido parece haver chegado às raias da morte;
+
+quando te vês sob aflições e desencantos por negócios francamente infelizes;
+
+quando a injúria te arrasa a imagem à frente do teu círculo social;
+
+quando afetos extremamente queridos te abandonam;
+
+quando alguém te acusa por delitos que não cometeste;
+
+quando caíste em alguma falta grave e todas as oportunidades de reparação se te afiguram perdidas…
+Ainda hoje, dolorosos desafios talvez te cerquem… Sejam quais forem, no entanto, ora e confia, trabalha e espera.
+Em verdade, todos nós renteamos com embaraços para a transposição dos quais somos absolutamente incapazes. Ante qualquer dificuldade, porém, recordemos a afirmação positiva do Mestre: “Isto é impossível aos homens, mas para Deus tudo é possível.”
+
+---
+
+## 45 — Em serviço do mundo
+
+> “Não peço que os tires do mundo e sim que os livres do mal.”  JESUS (
+> — João, 17.15
+
+Indubitavelmente os cristãos de todas as procedências são chamados a viver no mundo sem se agarrarem ao mundo, para servirem ao mundo em nome do Senhor, valorizando consequentemente a si mesmos.
+É assim que será possível encontrá-los em todas as posições.
+Aqui e além somos defrontados por muitos companheiros que não compreendem o cristão verdadeiro sem a moldura externa do sofrimento. Entretanto, poucos se decidem a pensar no tormento dos que exibem sinais de conforto por fora, carregando no íntimo pesadas cruzes morais.
+Bendito seja o lavrador que aprendeu a conquistar respeitabilidade e sustentação com o suor de cada dia, mas será menos bendito o dono do campo que passa, de semana a semana, sob o fogo mental da responsabilidade para manter a cúpula da lavoura indene de prejuízo e insucesso, tão só porque se apresente no mundo em forma diferente, nos mecanismos da representação social?
+Bendito seja o irmão que bate à porta da sopa fraterna, mostrando paciência e humildade no quadro de penúria em que se destaca; no entanto, será menos bendita a irmã que olvida o convite ao repouso para atendê-lo, apenas porque disponha de pão suficiente para distribuir?
+Saibamos honrar cada obreiro na tarefa que a vida lhe atribui e recordemos que o próprio Jesus, em oração, pediu sabiamente ao Pai, em se referindo aos discípulos e seguidores: — “Não vos peço que os tires do mundo e sim que os livres do mal.”
+
+---
+
+## 46 — Andar
+
+> “Andai em amor…”  PAULO (
+> — Efésios, 5.2
+
+O verbo andar não significa unicamente
+mas também
+.
+Compreende-se, pois, que cada criatura é conhecida pelo modo de andar.
+Há quem se esmere de forma sacrificial para andar de acordo com a moda, com os hábitos do seu tempo, com os característicos do grupo a que pertence ou na pauta dos preconceitos da sociedade em que vive.
+Em toda parte há processos diferentes de agir.
+Determinados costumes do Oriente não são os mesmos do Ocidente, e vice-versa.
+Cada povo possui modos de proceder que lhe personalizam a presença no planeta.
+Aqui, a comunidade anda segundo a tradição, mais além, conforme o clima…
+E desde que a boa consciência esteja na base do caminho de cada um, todo estilo de andança é respeitável, mas não nos será lícito esquecer que o Evangelho de Jesus nos oferece modelo imperecível nesse particular.
+Andai em amor, recomenda-nos o Livro da Vida.
+Estejamos, assim, no passo de nossa época, buscando o progresso e fazendo o melhor ao nosso alcance para elevar o nível espiritual do nosso campo de ação.
+Contudo, é preciso não olvidar que somente conseguiremos caminhar na direção da felicidade e da paz, servindo-nos mutuamente e amando-nos uns aos outros como Jesus nos amou.
+
+---
+
+## 47 — Qualificação espírita
+
+> “Ainda que eu fale as línguas dos homens e dos anjos, se não tiver caridade serei como o bronze que soa ou como o címbalo que retine.”  PAULO (
+> — 1 Coríntios, 13.1
+
+Adotando a caridade por base de todas as suas aspirações e instituições, o espírita evangélico em tudo patenteia as marcas do caráter cristão de que dá testemunho.
+É por isso que se mostra:
+
+justo sem rigorismo;
+
+sincero sem agressão;
+
+paciente sem preguiça;
+
+digno sem orgulho;
+
+generoso sem desperdício;
+
+previdente sem avareza;
+
+alegre sem abuso;
+
+entusiasta sem imprudência;
+
+simples sem afetação;
+
+correto sem frieza;
+
+fervoroso sem dogmatismo;
+
+indulgente sem leviandade;
+
+afetuoso sem ciúme;
+
+humilde sem baixeza;
+
+sensível sem pieguice;
+
+brando sem subserviência;
+
+enérgico sem dureza;
+
+tolerante sem exagero;
+
+altruísta sem pretensão.
+Informado de que fora da caridade não há salvação
+e compreendendo que salvar, essencialmente, significa livrar de ruína ou perigo, dá-se o espírita à divina virtude, desde o mais singelo recurso da beneficência até o mais profundo traço do próprio caráter, demonstrando ao mundo, conforme os preceitos do Cristo, que, se as boas obras constituem a educação da caridade, os bons exemplos formam a caridade da educação.
+
+justo sem rigorismo;
+
+sincero sem agressão;
+
+paciente sem preguiça;
+
+digno sem orgulho;
+
+generoso sem desperdício;
+
+previdente sem avareza;
+
+alegre sem abuso;
+
+entusiasta sem imprudência;
+
+simples sem afetação;
+
+correto sem frieza;
+
+fervoroso sem dogmatismo;
+
+indulgente sem leviandade;
+
+afetuoso sem ciúme;
+
+humilde sem baixeza;
+
+sensível sem pieguice;
+
+brando sem subserviência;
+
+enérgico sem dureza;
+
+tolerante sem exagero;
+
+altruísta sem pretensão.
+
+---
+
+## 48 — Madureza espiritual
+
+> “Quando eu era menino falava como menino, sentia como menino, pensava como menino; quando cheguei a ser homem desisti das coisas próprias de menino.”  PAULO (
+> — 1 Coríntios, 13.11
+
+Antes do esclarecimento espírita é compreensível que a criatura subverta os valores da vida, mas depois de investir-se na posse do conhecimento da própria imortalidade e das leis que lhe regem os destinos, a maneira espírita de se conduzir claramente lhe revela o caráter cristão nas mínimas circunstâncias da existência.
+É por esse motivo que o espírita evangélico:
+
+age sem apego;
+
+progride sem soberbia;
+
+ama sem egoísmo;
+
+serve sem recompensa;
+
+auxilia sem reclamação;
+
+aprende sem vaidade;
+
+ensina sem exigência;
+
+esclarece sem azedume;
+
+perdoa sem condição;
+
+espera sem ociosidade;
+
+corrige sem reproche;
+
+observa sem malícia;
+
+socorre sem barulho;
+
+opera sem temeridade;
+
+colabora sem constrangimento;
+
+constrói sem alarde;
+
+confia sem bazófia;
+
+administra sem imposição;
+
+obedece sem servilismo.
+O espírita evangélico, onde esteja e com quem esteja, sabe perfeitamente que as suas convicções se erigem à condição de veículos das ideias que abraça e, em razão disso, seleciona as suas próprias atitudes perante o mundo e a vida, consciente de que, havendo atingido a madureza espiritual, se pode fazer o que quer, somente acerta com as Leis do Senhor quando faz o que deve.
+
+age sem apego;
+
+progride sem soberbia;
+
+ama sem egoísmo;
+
+serve sem recompensa;
+
+auxilia sem reclamação;
+
+aprende sem vaidade;
+
+ensina sem exigência;
+
+esclarece sem azedume;
+
+perdoa sem condição;
+
+espera sem ociosidade;
+
+corrige sem reproche;
+
+observa sem malícia;
+
+socorre sem barulho;
+
+opera sem temeridade;
+
+colabora sem constrangimento;
+
+constrói sem alarde;
+
+confia sem bazófia;
+
+administra sem imposição;
+
+obedece sem servilismo.
+
+---
+
+## 49 — Buscando a frente
+
+> “Todavia, andemos de acordo com o que já alcançamos.”  PAULO (
+> — Filipenses, 3.16
+
+Disse Paulo: “prossigo para o alvo…”
+em se referindo às conquistas supremas do Espírito.
+Baseados em semelhante afirmativa, numerosos aprendizes do Evangelho pretendem justificar aventuras e inovações temerárias a que se confiam.
+Imaginam programas fantasiosos de trabalho ou mudanças precipitadas de orientação espiritual e endereçam-se ao apóstolo Paulo, procurando apoio evangélico para as atitudes extravagantes que assumem.
+Vale, porém, reexaminar sempre como é que o amigo da gentilidade seguia para o alvo.
+Paulo marchava para a frente, fiel à retaguarda em tudo aquilo que a retaguarda possuía de útil e bom, grande e santo.
+Caminhava para diante honorificando os compromissos abraçados, adiantava-se no tempo sem perder a visão da tarefa que prometera realizar.
+Não propunha realizações prematuras nem se entregava a sonhos marginais.
+Andava na trilha espinhosa dos deveres que traçara a si mesmo, perante o Cristo, buscando a meta sem contradições ou discrepâncias.
+Se a sede de progresso te escalda o raciocínio, lembra-te realmente de Paulo e acompanha-lhe os exemplos no serviço renovador, mas avança para a vanguarda sem fugir ao sentido e à disciplina dos princípios edificantes que esposaste, no encalço da Vida Superior.
+Não nos será lícito esquecer que o apóstolo da gentilidade, no
+versículo 14 do capítulo 3
+da epístola dedicada por ele aos filipenses, grafou as suas inesquecíveis palavras de entusiasmo e esperança: “prossigo para o alvo…”; entretanto, no
+versículo 16
+do mesmo documento evangélico não deixou de prevenir-nos, sensatamente: “todavia, andemos de acordo com o que já alcançamos”.
+
+---
+
+## 50 — Vigiando e orando
+
+> “Tu, porém, sê sóbrio em todas as coisas, suporta as aflições, faze o trabalho de evangelista, cumpre cabalmente o teu ministério.”  PAULO (
+> — II Timóteo, 4.5
+
+Em nos reportando aos obreiros do Senhor recordemos que uma espécie existe que, sem dúvida trabalha e sem dúvida produz algo; entretanto, vive sempre em posição deficitária e por vezes estraga aqueles companheiros que se lhes aproximam, quando frágeis na fé.
+Onde estejam, são para logo identificáveis porque servem, mas servem debaixo de condições especialíssimas, tais quais sejam:
+onde querem;
+como entendem;
+quando se vejam dispostos;
+tanto quanto se determinam;
+na faixa de ação em que não se sintam incomodados;
+com quem gostam;
+com as ideias que lhes agradem;
+com os recursos que venham a escolher;
+como julgam melhor;
+nas conveniências que lhes digam respeito;
+desde que se lhes satisfaçam as exigências;
+e desde que ninguém os critique nem contrarie.
+Um companheiro assim assemelha-se a um servidor meio-sombra e meio-luz, que beneficia com a luz que derrama e prejudica com a sombra que teima em carregar.
+Daí o imperativo de orarmos e vigiarmos, procurando desvencilhar-nos de toda sombra que ainda nos pesa no orçamento da alma, a fim de que nos tornemos, a pouco e pouco, em obreiros fiéis na causa do Eterno Bem, servindo ao Senhor conforme os desígnios do Senhor.
+
+---
+
+## 51 — Na conquista da fé
+
+> “Justificados, pois, pela fé, tenhamos paz com Deus por meio de Nosso Senhor Jesus Cristo.”  PAULO (
+> — Romanos, 5.1
+
+Louváveis todas as nossas considerações referentes à coragem da fé que nos cabe cultivar à frente das lutas, no mundo externo; todavia, é forçoso examinemos a importância da fé viva, portas a dentro do mundo de nós mesmos. Fé profunda e espontânea. Segurança íntima, tranquila, funcional.
+Já sabemos realmente mecanizar as operações do corpo, comandando-as de maneira instintiva.
+Alimentas-te e não te preocupas com as fases diversas do processo nutritivo.
+Dormes e entregas ao coração todo o trabalho de vigilância e sustento dos mais remotos distritos da vida orgânica.
+Falta-nos, porém, até agora, automatizar os recursos superiores da própria alma.
+Falta-nos reconhecer — mas reconhecer claramente — que Deus está em nós, conosco, junto de nós, ao redor de nós e que, por isso mesmo, é imperioso, de nossa parte, aceitar as lições difíceis mas sempre abençoadas do sofrimento, nas quais a pouco e pouco obteremos a coragem suprema da fé invencível.
+Nesse sentido jamais desinteressar-nos do aprendizado.
+Confiar em Deus nos dias de céu azul, mas igualmente confiar em Sua Divina Providência nas horas de tempestade.
+Acolher a dor como sendo preparação da alegria.
+Atravessar a provação entesourando experiência.
+Observar as leis da vida e acatá-las, compreendendo que dificuldade é instrução imprescindível e que o tempo de infortúnio não é senão a consequência dos nossos erros de pensamento ou de ação, favorecendo-nos o reajuste.
+Tão-somente assim, abraçando com paciência e proveito as lições menores da existência, transfigurando-as em luz para a vida prática, adquiriremos a fé vitoriosa que sabe esperar, agir, desculpar, amar e servir segundo a misericórdia de Deus.
+
+---
+
+## 52 — Na senda de todos
+
+> “Pois ao que tem se lhe dará e terá em abundância; mas ao que não tem, até o que tem lhe será tirado.”  JESUS (
+> — Mateus, 13.12
+
+Quanto mais tiveres:
+posses sem utilidade;
+títulos sem aplicação;
+conhecimento sem trabalho;
+poder sem benevolência;
+objetos sem uso;
+relações sem proveito;
+menos livre te reconhecerás para ser feliz.
+Decerto que a independência não quer dizer impassibilidade à frente da vida; é razoável
+
+que possuas reservas amoedadas, mas é importante se mantenham colocadas a serviço do amparo e do progresso comunitários;
+
+que te exornes com lauréis terrenos, entretanto, mobilizando-os em auxílio dos semelhantes;
+
+que entesoures cultura, todavia, utilizando-lhe as possibilidades em benefício do próximo;
+
+que disponhas de autoridade, contudo, manejando-a na administração da bondade e da justiça;
+
+que conserves pertences diversos para conforto e apresentação individuais, doando, porém, o supérfluo no socorro aos que sofrem na retaguarda;
+
+que contes com legiões de amigos, mas buscando motivá-los para as obras da beneficência e da educação.
+Quanto mais retivermos do que somos e temos, em louvor do próprio egoísmo, eis-nos mais escravos da sombra em que se expressa o domínio do “eu”;
+estejamos, porém, convencidos de que, quanto mais dermos do que somos e temos, em apoio dos outros, mais livres nos tornamos para assimilar e esparzir a luz que entretece o Reino de Deus.
+
+---
+
+## 53 — Um dia surgirá
+
+> “Pois que aproveitará o homem se ganhar o mundo inteiro e perder a sua alma?”  JESUS (
+> — Mateus, 16.26
+
+É certo que possuis na Terra:
+
+familiares queridos e deves ampará-los com todas as possibilidades que usufruas;
+
+amigos valiosos junto dos quais é importante saibas agradecer a bondade e a colaboração com que te prestigiam;
+
+adversários atentos aos quais não te será lícito sonegar as homenagens de teu apreço;
+
+vultos nobres do cotidiano que te inspiram a caminhada e que te merecem especial consideração.
+Além disso, ainda dispões da faculdade:
+
+de apreciar como queiras os acontecimentos que te assinalam a época;
+
+de discutir livremente os fatos e personalidades de interesse palpitante nas telas do dia;
+
+de seguir as correntes de ideia que mais se te afeiçoem ao modo de ser;
+
+de cooperar como, quanto e onde prefiras, nesse ou naquele movimento de significação coletiva.
+Ainda assim não olvides conduzir o tesouro da consciência tranquila em toda estrada na qual te movimentes, porquanto um dia surgirá, entre todos os outros dias, em que seremos invariavelmente chamados à prestação de contas nas Leis da Vida.
+E, chegado semelhante momento, nada se nos perguntará sobre atividades e causas alheias, mas, sim, tão somente sobre nós mesmos.
+
+---
+
+## 54 — Merecimento
+
+> “Por isso mesmo, vós reunindo toda a vossa diligência, associai com a vossa fé a virtude…”  PEDRO (
+> — 2 Pedro, 1.5
+
+Não há tanto mérito em que domines essa ou aquela ciência e sim em que lhe utilizes os recursos a fim de ajudar os companheiros da Humanidade a se desvencilharem da insipiência e da ignorância.
+Não há tanto mérito em tua pureza de coração, mas sim no esforço que desenvolvas em benefício dos irmãos chafurdados no erro, de modo a soerguê-los para a restauração necessária.
+Não há tanto mérito em tua fé ardente e sim no trabalho a que te apliques com ela no apoio àqueles que ainda não lhe entesouraram a luz, para que não lhes falte à mesa o pão da esperança.
+Não há tanto mérito na posse que detenhas, mas sim no emprego que lhe dês em socorro aos que te cercam ou no auxílio aos sofredores e menos felizes, dos quais te vês defrontado na experiência comum.
+Não há tanto mérito em teu nome, por mais nobre seja ele, e sim no uso do prestígio que desfrutes amparando a jornada de quantos te compartilhem o esforço do dia a dia.
+Virtude sem proveito é brilhante no deserto.
+Inteligência sem boas obras é tesouro enterrado.
+Fita o sol acalentando a lama da Terra e compreenderás o ensino claro da natureza que nos determina, sabiamente, entender e servir, abençoar e auxiliar.
+Em qualquer parte a vida te conhece pelo que és, mas apenas te valoriza pelo que fazes de ti.
+
+---
+
+## 55 — Padrão espírita
+
+> “Pois desta maneira é que vos será amplamente suprida a entrada no reino eterno de Nosso Senhor e Salvador Jesus Cristo”.  PEDRO (
+> — 2 Pedro, 1.11
+
+Transformar o coração em fonte de amor, de tal modo que nenhum sentimento contrário lhe alcance os recessos, ainda quando violentamente arremessado pelos piores dardos vibratórios…
+Converter o cérebro em fulcro de pensamentos nobres, de tal maneira que nenhuma ideia menos feliz se lhe fixe nas criações, mesmo quando sob a mais constrangedora indução ao fascínio das trevas.
+Metamorfosear os olhos em mananciais de compreensão, com tal amplitude que, à frente de quaisquer cenários da vida, somente apreendam as imagens que favoreçam a construção do bem, com olvido de todo mal…
+Transfigurar os ouvidos em depósitos de bondade, com tal extensão que venham a filtrar exclusivamente, no auxílio aos outros, os conceitos, revelações, apontamentos e comentários capazes de promover a paz e a consolação, a esperança e a bênção no caminho dos semelhantes, com absoluto esquecimento de tudo aquilo que signifique incentivo à crueldade ou ao desânimo, à incompreensão ou à discórdia.
+Selecionar as palavras que ajudem, consagrar as mãos ao serviço, investir os valores do tempo em ação digna e aproveitar as oportunidades que se nos ofereçam na vida para melhorar-nos, melhorando a estrada em que se jornadeia — eis, na essência, o padrão espírita que, um dia, através do trabalho e do estudo, do burilamento e da renovação, teremos todos nós de atingir.
+
+---
+
+## 56 — Na escola da confiança
+
+> “Porque andamos por fé e não por visão.”  PAULO (
+> — 2 Coríntios, 5.7
+
+Terás conhecido horas inolvidáveis de alegria e de paz junto dos seres queridos, na exaltação da ventura doméstica; no entanto, é possível tenhas o coração defrontado por amargas crises de provação, com as quais não contavas…
+Esse é o dia de tua fé no poder da paciência.
+No círculo de tuas experiências mais nobres conseguiste amontoar muitos anos de ação pacífica, sob o respeito e a simpatia de quantos te compartilham a caminhada terrestre; contudo, é provável apareçam dificuldades a te ensombrarem os quadros de serviço, atraindo a crítica impiedosa, e sofres com isso, qual se estivesses varando chuva de fogo…
+Esse é o dia de tua fé no poder do trabalho.
+Por tempo indeterminado cumpriste austeramente os deveres que a vida te assinalou, angariando acatamento e carinho em derredor de teu nome, mas é possível que a inveja e o despeito te arremessem lodo sobre a existência, torturando-te a sensibilidade…
+Esse é o dia de tua fé no poder do perdão.
+Acolheste os entes queridos que te reconfortam a alma por riquezas eternas, oferecendo, às vezes, a própria vida para que nada lhes falte de bom e belo à sustentação; entretanto, talvez encontres a ventania da incompreensão pela frente, arrancando-te muitos deles ao escrínio do afeto, qual se eles, os entes amados, te viessem a ferir com punhaladas de ingratidão…
+Esse é o dia de tua fé no poder do amor.
+A cultura da fé positiva, sem dúvida, qual acontece à cultura da inteligência, não se adquire por osmose; há que ser aprendida, exercitada, sofrida, assimilada e consolidada a pouco e pouco.
+Abençoa, pois, os teus dias de prova e de aflição, porquanto através deles obterás a confiança perfeita em Deus, entendendo, por fim, toda a significação da sentença do apóstolo Paulo: “andamos por fé e não por visão.”
+
+---
+
+## 57 — Progresso e amor
+
+> A caridade jamais acaba.  PAULO (
+> — 1 Coríntios, 13.8
+
+Mais atenção para os fenômenos da vida e verificaremos a instabilidade de todos os processos de aperfeiçoamento a que se lhe atrela o carro evolutivo, com exceção do amor que lhe sustenta as bases eternas.
+Muitas vezes afligem-se os cultivadores da fé perante os exotismos que surgem nos caminhos do povo, nos tempos de mais intensiva renovação.
+Obviamente é preciso guardar a chama da confiança em Deus, com absoluta fidelidade às leis do Bem Eterno, a cavaleiro de quaisquer extravagâncias que alguém nos queira impingir; todavia, com a nossa lealdade ao Senhor é forçoso não conturbar a nossa tarefa com receios pueris.
+A caridade jamais acaba… asseverou o apóstolo Paulo, guiado pela Inspiração Divina.
+Remontemos ao passado e observaremos, com apoio na História, que as definições propriamente humanas sofrem transformações incessantes.
+Leis terrestres, com raras exceções, são muito diferentes de século para século.
+A Ciência é sempre clara no propósito de acertar, mas é um quadro de afirmações provisórias, lidando incessantemente a caminho de mais amplos contatos com os princípios que regem as atividades do Universo.
+A cultura intelectual assemelha-se a largo movimento de ideias que procura esquecer a maior parte das concepções que valorizava ontem, para lembrar o que precisa estudar hoje, de modo a atingir o que deve ser amanhã.
+A arte modifica-se de época para época.
+Progresso, na essência, é mudança com alicerces na experimentação.
+Tudo, na superfície da vida, é transformação permanente, mas por dentro dela vige o amor invariável.
+Não te assustes, assim, diante das inovações que caracterizam o espírito humano, insatisfeito e irrequieto, até que obtenha a madureza necessária à frente do Mundo e do Universo.
+Cultiva o amor que constrói e ilumina, na esfera de cada um de nós, para a imortalidade, de vez que, enquanto aparecem e desaparecem as inquietações humanas, a caridade jamais acaba.
+
+---
+
+## 58 — Doações
+
+> “…O cumprimento da lei é o amor.”  PAULO (
+> — Romanos, 13.10
+
+Milhares de dádivas transitam na Terra diariamente.
+Vemos aquelas que se constituem do dinheiro generoso que alimenta as boas obras; as que se definem por glórias da arte enriquecendo a mente popular; as que se erigem sobre os louros da palavra traçando caminhos para o encontro fraternal entre as criaturas; e aquelas outras, inumeráveis, que consubstanciam a amizade de quem as oferece ou recolhe.
+Todas elas, demonstrações da bondade humana, são abençoadas na Vida Superior. Entretanto, uma existe, inconfundível entre todas, da qual nós, os seres em evolução no Orbe Terrestre, não conseguimos prescindir…
+Ao alcance de todos ela se expressa por exigência inarredável do caminho de cada um. Desejamos referir-nos ao amor, sem o qual ninguém logra subsistir.
+Além disso, o amor é a força que valoriza qualquer dádiva, tanto quanto a maneira de dar.
+Muitos de nossos irmãos necessitados, junto de quem praticamos o ideal da beneficência, decerto agradecem o concurso materializado que lhes possamos ofertar, mas quantas vezes estimariam, acima de tudo, receber uma bênção de solidariedade e otimismo que lhes restaure a alegria de viver e o conforto de trabalhar!
+Reflitamos de igual modo nos companheiros temporariamente apresados no cárcere das paixões e reconheceremos que o mundo tem tanta necessidade de amor quanto de luz.
+Meditemos nisso, e, diante da parte de trabalho que nos compete, na construção do Reino de Deus entre os homens, seja à frente dos felizes ou dos imperfeitamente felizes, dos justos ou dos menos justos, comecemos por estender com as dádivas de nossas mãos aquelas outras que nos é lícito nomear como sendo o favor do sorriso fraterno, o benefício da boa palavra, o empréstimo da esperança e o donativo do entendimento.
+
+---
+
+## 59 — Oremos agindo
+
+> “Vigiai e orai para que não entreis em tentação…”  JESUS (
+> — Marcos, 14.38
+
+Diante da prova, orar, envidando meios de transformá-la em experiência benéfica.
+Diante da penúria, orar, desenvolvendo serviço que a desfaça.
+Diante da ignorância, orar, acendendo luz que lhe dissipe a sombra.
+Diante da enfermidade, orar, procurando medicação que lhe afaste os prejuízos.
+Diante do desastre, orar, empreendendo ações que lhe anulem os efeitos.
+Diante da dificuldade, orar, aproveitando a lição dos obstáculos de modo a evitá-los futuramente.
+Diante do sofrimento, orar, construindo caminhos para a devida libertação.
+Diante da discórdia, orar, edificando recursos para o estabelecimento da paz.
+Orar sempre, mas agir cada vez mais para que se realize o melhor.
+Disse-nos o Senhor: “vigiai e orai para que não entreis em tentação…” e, realmente, acima de tudo vigiam e oram aqueles que ativamente se esforçam para que, em tudo, se faça o bem que nos cabe fazer.
+
+---
+
+## 60 — Paciência e construção
+
+> “A caridade é paciente…”  PAULO (
+> — 1 Coríntios, 13.4
+
+Indiscutivelmente não consegues corrigir, como talvez desejes, os desacertos da Humanidade, mas é possível ajustar o próprio coração à lei do amor a fim de que a redenção do mundo encontre em ti mesmo o ponto necessário de expansão.
+Não julgues, porém, que pressa ou violência sejam climas adequados de ação para a vitória do bem.
+Amarás e servirás; entretanto, não só isso: ampararás também.
+Compreensão pede amadurecimento de raciocínio nos refolhos da alma.
+Que dizer do lavrador que propiciasse leito e adubo à semente, sob a condição de ser correspondido com o fruto em apenas algumas horas? Do professor que instituísse o apoio da escola exigindo, por isso, que o aluno efetue a conquista de todos os louros culturais numa semana?
+Auxilia aqueles a quem amas; no entanto, não lhes solicites espetáculos de entendimento e gratidão que ainda não sejam capazes de oferecer.
+Que seria de nós se fôssemos constrangidos a pagar de improviso as contas do amor que temos recebido e com que temos sido sustentados na longa fieira de nossas reencarnações, através dos séculos?
+Pensa nisso e semeia o bem quanto possas, porque a caridade é paciente e na caridade infatigável se edifica, em favor de nós todos, a paciência de Deus.

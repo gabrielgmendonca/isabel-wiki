@@ -1,0 +1,1176 @@
+# Jovens no Além
+
+**Autor espiritual:** Familiares diversos  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Jna/JnaP4Intr.htm
+
+---
+
+## ENCONTRO DA FAMÍLIA ABRAHÃO COM FRANCISCO CÂNDIDO XAVIER — Wady Abrahão Filho
+
+Nascimento: São Paulo, 16 de fevereiro de 1956 — Desencarnação: São Paulo, 06 de julho de 1973. Filho de Wady Abrahão e Jandira do Amaral Abrahão. Irmã: Axima Abrahão de Oliveira, casada com Wilson Benedito de Oliveira.
+Figura querida no Bairro da Água Rasa, na capital paulista, Wady Abrahão Filho se destacava surpreendentemente pelo apego a Jesus que procurava pregar e exemplificar em sua vida simples de adolescente.
+A par de suas atividades escolares e das poucas incursões nos sonhos da juventude, pois faleceu com 17 anos apenas, Wadyzinho era o líder incontestável de todos os movimentos beneficentes que se organizavam no Bairro, para o socorro de famílias pobres e de instituições ligadas aos trabalhos sociais. Enfim, estava presente o dinâmico jovem, que trazia o Cristo nos lábios e no coração, em tudo o que significasse caridade e solidariedade humana.
+Campanhas de inverno, de Natal, visitas periódicas a lares necessitados, eram parte obrigatória de sua agenda já tão onerada em compromissos que cumulava também junto à Comunidade Unida a Cristo, movimento jovem de inspiração católica, que sob a coordenação do Wady levava aos jovens desorientados a palavra de Jesus, através de reuniões e conferências.
+Amoroso, filho alegre, simples, muitas vezes seu pai o surpreendia madrugada a dentro com o quebra-luz aceso, escamoteado, para não despertar os familiares — e também para fugir à admoestação paterna, preparando suas inúmeras conferências a serem proferidas nas reuniões da Comunidade. O Cristo era a tônica de todas as suas palestras.
+O início do mês de julho de 1973 absorvia particularmente Wadyzinho devido à campanha de inverno programada para o sábado — 7 de julho. Wady era a empolgação viva a ultimar os preparativos. Contudo, algo prenunciava com surpreendente riqueza de dados que sua partida estava próxima…
+Quinze dias antes de sua morte, a mãe passou a sentir indefinível angústia, que a não abandonou mais.
+Dois dias antes de seu falecimento, Wadyzinho teve um sonho significativo, em que foi visitado por um anjo que abriu a janela de seu quarto e pediu ao jovem que voasse com ele. Fê-lo e pôde divisar a Terra imponente e bela do alto do Firmamento. Relatou aos familiares e amigos o sonho e disse-lhes que se ele — Wadyzinho — partisse, era para continuar a viver e não morrer!!!
+Na véspera de sua morte, coordenando as últimas providências para a campanha de inverno de que falamos, no colégio, junto de seus colegas, disse-lhes que no fim daquela semana (era uma quinta-feira) ele iria partir para uma viagem muito longa.
+A 6 de julho — sexta-feira — dia do falecimento do jovem, os prenúncios continuavam. O Sr. Wady Abrahão chegou para o almoço, chamou o filho para um entendimento e pediu-lhe que tomasse muito cuidado, porque pressentia que alguma coisa iria acontecer com a família naquele dia. Pela insistência da recomendação, o próprio jovem advertiu carinhoso o pai: — o que é isso, meu pai? O senhor nunca foi supersticioso!…
+Após o almoço, de hábito com a presença de muitos jovens, colegas de Wady nos trabalhos comunitários, seu pai, alegando indisposição, cancelou a viagem que faria naquela tarde para Sumaré. Foi para os escritórios da indústria, próximos da residência, e, ao sair, recomendou ao filho, mais uma vez, muito cuidado para atravessar as ruas…
+D. Jandira, também indisposta, cancelou a visita programada à cabeleireira e Axima e o marido saíram a negócios, esquecendo, contudo, documentos que os obrigariam a voltar pouco depois…
+Wadyzinho deixou sua casa às 13 horas e 30 minutos em direção ao Colégio Nossa Senhora de Lourdes, onde estudava, e às 15 horas estava morto, vítima de um mal súbito, definido no atestado de óbito como infarto do miocárdio.
+O pai, na hora aproximada da ocorrência, sentiu em seus escritórios um mal estar inexplicável, que o obrigou a descer rapidamente as escadas do Edifício, sem mesmo se utilizar do elevador, dirigindo seu carro em direção ao lar, sendo, entretanto, interceptado no caminho por pequena multidão que lhe comunicou estar o filho agonizante no colégio.
+Levado ao Pronto Socorro próximo, apesar da massagem cardíaca e de outras técnicas de reanimação, o coração de Wadyzinho não pulsou mais.
+Eram 15 horas do dia 6 de julho de 1973. Com 17 anos Wady não pôde realizar a campanha de inverno que com tanto carinho programara para o dia seguinte. Seu sepultamento no Cemitério do Brás, apoteose autêntica de respeito e consideração, com centenas de pessoas rendendo-lhe as homenagens últimas, abriu para os familiares as páginas de um livro em branco onde a dor, a saudade e mais tarde o reencontro escreveriam palavras de imortal beleza.
+Natural de São Paulo-Capital, nasceu a 16 de fevereiro de 1956. Fez o curso primário e ginasial no Colégio Nossa Senhora de Lourdes, na Água Rasa, e ali frequentava também o 1.° ano do curso colegial, quando a morte o colheu dentro do próprio colégio.
+A vida naquela casa da Avenida Álvaro Ramos, 2.419 — Água Rasa, era para todos uma tristeza continuada. O tempo como que parara e às libélulas de outrora sucediam lagartas que contemplavam aflitas o relógio estático.
+n
+O Sr. Abrahão abandonara praticamente as atividades na indústria e desconsolado fazia pouso constante no túmulo do filho, no Cemitério da 4ª Parada. Durante o dia, ia com a esposa, que o aguardava do lado de fora do jazigo, enquanto que ele, sorrateiramente tirava a pedra tumular e se deitava na gaveta imediatamente superior à que abrigava o caixão do filho.
+À noite, com muita frequência, alegando que iria até Sumaré, para supervisionar a fábrica de tecidos ali situada, deixava o lar às 19 horas e buscava o cemitério, onde, ludibriando o vigia, repetia a mesma lúgubre operação: retirava a pedra de cobertura, penetrava no jazigo e se deitava na gaveta vazia contígua à do filho. Assim permanecia madrugada a dentro; fazendo companhia para o filho, pois supunha que seu Wadyzinho tinha medo de dormir sozinho, naquela lápide fria…
+Por duas vezes foi surpreendido pelo zelador do Cemitério que ao observar a fumaça saindo do túmulo foi verificar o que ocorria e estupefato viu o Sr. Abrahão recostado dentro do jazigo. A partir dessa noite, o pai do Wadyzinho, por precaução, não mais fumou no cemitério…
+De outra feita, sendo novamente surpreendido teve de dar satisfações à Rádio-Patrulha chamada para atender a singular ocorrência.
+As visitas continuavam, a tristeza pairava sobre o conjunto familiar e a filha Axima se desdobrava em cuidados para devolver aos pais a paz de espírito enterrada com o filho.
+Amigos da família sugeriram a Axima que levasse os pais até Chico Xavier, o que, de princípio, Axima considerou difícil por serem os pais católicos, sem qualquer conhecimento de Espiritismo. Ocasionalmente, dois meses após a morte de Wadyzinho, Francisco Cândido Xavier visitou o Centro Espírita Perseverança, próximo à Água Rasa e dirigido pela Srª Guiomar de Oliveira Albanese. Axima convidou o pai para conhecer o Chico, naquela oportunidade.
+Os cumprimentos foram rápidos e superficiais, devido à multidão que se aglomerava na Casa.
+Sensibilizado pela bondade de Francisco Cândido Xavier a irradiar-se de suas palavras atenciosas para com todos que o procuravam, o Sr. Wady se animou a ir até Uberaba e conversar com o médium, fazendo-o em novembro de 1973 — 6 meses após a desencarnação do filho. Impôs como condição aos familiares que ninguém se abrisse com o Chico, para que uma eventual revelação fosse realmente verdadeira.
+Reunião de sexta-feira prestes a terminar, com o Chico Xavier atendendo a um grupo de pessoas que dele se despediam, participando dessa fila a família Abrahão que não tivera ainda a oportunidade de cumprimentá-lo. Súbito, Chico começa a falar em voz alta: — Axima, Axima, Axima!!!
+Axima e os familiares se aproximaram do Chico, adiantando-se na fila e D. Jandira disse-lhe:
+— Sr. Francisco, Axima é minha filha. Viemos aqui porque perdi meu filho, ao que o Chico retrucou:
+— Não, a senhora não perdeu o filho. Seu filho é um apóstolo de Jesus. Não disse mais nada, além de convidá-los para a reunião mediúnica da manhã seguinte.
+E, na manhã seguinte, 24 de novembro de 1973, a família se completava com a volta do filho querido que escreveu pelas mãos de Francisco Cândido Xavier longa mensagem de reencontro, seis meses após sua morte.
+Como já dissemos, o livro de páginas brancas que se abriu com o falecimento do jovem seria agora preenchido com as suas candentes palavras, voltando para o passado as páginas umedecidas pelas lágrimas da saudade.
+
+---
+
+## COMO A FAMÍLIA PRESENTE TEVE NOTÍCIAS DO JAIR APÓS SUA MORTE — Jair Presente
+
+Nascimento: Campinas, 10 de novembro de 1949 — Desencarnação: Americana, 03 de fevereiro de 1974. Filho de José Presente e Josefina Basso Presente. Deixou uma irmã, Sueli Presente.
+Algo de especial tocava o coração da família Presente, naquela manhã de domingo. O calendário anotava 3 de fevereiro de 1974…
+Sueli, a irmã, mal controlava o desejo incontido de ir à Praia Azul, distante alguns quilômetros de Campinas, no município de Americana; a mãe, D. Josefina, acordara angustiada, servindo-se do socorro de tranquilizantes.
+Na véspera, notificando os familiares de que iriam a um pesqueiro em Paulínia, às margens do Rio Atibaia, Jair Presente e seus amigos Carlos Roberto Ramos Fonseca e Sérgio Galgani, lá passaram a noite e, no domingo cedo, modificaram o programa, partindo — sem que em Campinas ninguém soubesse — para a Praia Azul, distante 30 quilômetros do pesqueiro.
+Ao fim da manhã do domingo, as angústias e pressentimentos de Sueli e sua mãe, abalaram também o pai, Sr. José Presente, com a notícia do afogamento do jovem Jair, antes de completar 25 anos, nas águas da Praia Azul.
+Jair Presente nasceu em Campinas a 10 de novembro de 1949. Filho de José Presente e de Josefina Basso Presente, antigos moradores da cidade, deixou também uma irmã — Sueli Presente, funcionária da Reitoria da Universidade Estadual de Campinas, UNICAMP.
+Fez os cursos primário e colegial, em Campinas, respectivamente nos seguintes estabelecimentos: Grupo Escolar Adalberto Nascimento, Colégio Salesiano, Liceu Nossa Senhora Auxiliadora e Colégio Estadual Barão de Ataliba Nogueira.
+Em 1971, após brilhante vestibular, sendo aprovado em três faculdades de Engenharia — a Escola Politécnica da Universidade de São Paulo, a Escola de Engenharia de Itajubá e a Escola de Engenharia da Universidade Estadual de Campinas, optou pelo curso da UNICAMP.
+Quando a morte o levou — ou em expressão sua, quando o trem da mudança o despejou no outro lado da vida — cursava o 4.° ano de Engenharia Mecânica na UNICAMP.
+Alegre, jovial, aluno destacado, de atividades múltiplas, encontrava jeito para dividir seu tempo extra-curricular com o trabalho para o sustento, lecionando em colégios de Campinas, com os inúmeros cursos de extensão universitária e com os concursos, de que era pertinaz candidato. Pela rama, vamos lembrar alguns dos cursos e concursos que Jair fez e prestou, não obstante o exíguo tempo de estudante universitário.
+— Curso Livre de Acústica para Engenharia, em 1971, no Centro de Ciências, Letras e Artes de Campinas;
+— Curso de Extensão Universitária de Psicologia, em 1971, na Universidade Católica de Campinas;
+— Curso de Formação Política Brasileira, em 1972, pela Prefeitura Municipal de Campinas;
+— Curso de Supervisão de Pessoal na Indústria, em 1972, no SESI;
+— IV Ciclo Paulista de Estudos sobre Marketing e Propaganda, em 1972, na Universidade Católica de Campinas, promovido pelo Instituto de Artes e Comunicações e pela Associação Paulista de Propaganda;
+— Curso de Mecânica, em 1972, no SENAI;
+— Curso de Pequena Licenciatura em Matemática, em 1972, na Universidade Católica de Campinas;
+— Curso de Pequena Licenciatura em Física, em 1972, na Universidade Católica de Campinas;
+— Curso de Usinagem Racional nos Processos de Torneamento e Frezamento, em 1973, no Centro de Tecnologia da UNICAMP.
+Aprovado em concursos: Companhia Mogiana de Estradas de Ferro; Universidade Estadual de Campinas; Secretaria da Fazenda; Banco do Estado de São Paulo; Banco do Brasil.
+Querido de toda Campinas, pela sua comunicação fácil, loquaz, dinâmico, cheio de vida, madrugava regularmente até às três ou quatro horas, estudando ou atualizando sua correspondência epistolar com amigos do Exterior.
+Sua morte, deixou subitamente a família Presente diante de uma lacuna que sulcou de dor e sofrimento o coração do querido vendedor de frutas que, com sua banca no Largo do Rosário, conquistou a simpatia de tantos e tantos clientes. Foi essa amizade, nascida ao mais puro sentimento de respeito e apreço, que possibilitou ao Sr. José Presente reorganizar em nova têmpera seu lar combalido. Pouco mais de um mês após à partida de Jair, uma réstia de luz iluminou novamente aqueles três corações, aclarando-os em novas perspectivas de paz e trabalho…
+Como lembramos nas palavras anteriores foi a amizade espontânea do Sr. José Presente, pai do Jair, com os seus clientes que possibilitou o dealbar de uma nova vida para ele e familiares.
+Embora aposentado, mantinha a entrega domiciliar de frutas para alguns de seus antigos clientes. Durante um mês, após a morte do Jair, o Sr. José permaneceu totalmente entregue ao desânimo, não trabalhando, entendendo que a partida do filho representava para ele também o fim de sua existência, que levava a custo, como se não houvesse mais sol a dissipar as brumas e o céu fosse constantemente escuro. Por insistência de sua esposa e de sua filha, após 30 dias assim passados, resolveu, em tentativa vacilante de reintegrar-se à vida, voltar a vender frutas.
+Numa dessas visitas comerciais, a Sra. Wandir Dias, espírita, dirigente do Movimento Assistencial Espírita Maria Rosa, no Bairro do Grameiro, em Campinas, ao observar tanto abatimento no semblante do Sr. José Presente, inquiriu a ele o porquê de semelhante condição. Ao saber de toda a verdade, buscou entusiasmá-lo com os ensinamentos espíritas sobre a morte e ofereceu-lhe o livro “Presença de Chico Xavier”.
+O Sr. José, de formação católica, como de resto toda a família, e sobretudo o filho querido, após a leitura da obra, entusiasmado, quis conhecer o Chico.
+As observações da família foram inicialmente no sentido de que o Sr. José ainda se encontrava abatido, sendo oportuno evitar uma viagem a Uberaba, até que ele se recuperasse mais. No entanto, ninguém logrou demovê-lo do intento e, a 15 de março de 1974, 42 dias após a morte, de Jair Presente, seus familiares estavam em Uberaba, à procura de um entendimento com Chico Xavier.
+As apresentações foram rápidas, sem maiores detalhamentos, pedindo apenas Sueli ao Chico que consolasse se possível, seu pai, tão abatido com a morte do filho.
+Durante as realizações das tarefas mediúnicas, programadas para a noite, Chico recebeu comovente mensagem assinada, para surpresa de todos, por Jair Presente.
+
+---
+
+## COMO OS PAIS DE CARLOS ALBERTO CHEGARAM ATÉ CHICO XAVIER — Carlos Alberto da Silva Lourenço
+
+Nascimento: Santos, 25 de junho de 1956 — Desencarnação: São Bernardo do Campo, 17 de setembro de 1974. Filho único de Severino Domingos Lourenço e Dirce Pessoa da Silva Lourenço.
+17 de setembro de 1974. Fim de Inverno. A Primavera, ainda que timidamente, assomava nas florações primeiras e o sol do meio-dia aquecia São Bernardo do Campo.
+Àquela hora, a Faculdade de Engenharia Industrial — a F. E. I. — se via tumultuada por súbita ocorrência que fazia regurgitar de alunos e professores a quadra de esportes. A pequena multidão inerme presenciava um quadro doloroso.
+Um jovem aluno do 1.° ano de Engenharia Mecânica jazia, pela ruptura de um aneurisma cerebral, apesar dos primeiros socorros ministrados pelo diligente professor de Educação Física da escola, Nélson Menoni, que buscava, ansioso, pela massagem cardíaca e pela respiração boca-a-boca, devolver a vida ao jovem alto, corpo atlético, que até há poucos minutos se empolgava na disputa de uma partida de basquetebol.
+Dali para os cuidados hospitalares pouco se passou, sem que, contudo, seus pais, chamados à pressa de Santos, o vissem reintegrado à vida. Carlos Alberto estava morto…
+Seu pai, o Sr. Severino, já há três meses andava angustiado, triste, pois sonhara, então, com a morte do filho, impressão que não se apagava de sua mente.
+Natural de Santos, onde residia, Carlos Alberto da Silva Lourenço nascera a 25 de junho de 1956.
+Desenvolveu sua escolaridade pré-universitária no tradicional Colégio Santista, onde, desde o primário até à conclusão do curso colegial, se destacou como um dos mais brilhantes alunos.
+Com 17 anos foi aprovado nos vestibulares da Faculdade de Engenharia Industrial de São Bernardo do Campo, optando pela especialização em Engenharia Mecânica. Estudioso, afável, amigo de todos, dominava fluentemente o Inglês, cujo curso, na Cultura Inglesa, de Santos, estava por concluir.
+A par de suas atividades vinculadas ao estudo, era anonimamente um dos colaboradores da Instituição Braille de Santos, onde lecionava Braille. Dizemos anonimamente porque seus pais sequer sabiam de sua ligação com os cegos, a quem devotava especial carinho, não somente com relação ao ensino do Braille — o que, convenhamos, é insólito para um jovem que jamais teve qualquer problema ligado à visão — como também no trato dos problemas da Instituição de cujas campanhas beneficentes sempre participava, junto com dois grandes amigos, o José Maria Piva e o Iwaldo Ferreira Martins.
+Pouco depois de completar 18 anos, desencarnou de modo aparentemente inexplicável, deixando no coração de seus pais e amigos a saudade da separação compulsória, felizmente temporária, pois quatro meses mais tarde, Carlos Alberto retornaria pelo lápis de Francisco Cândido Xavier, sacudindo os pais ainda enevoados no aturdimento natural da saudade, com revelações irrefutáveis a respeito da sobrevivência do Espírito. E, como se deu esse reencontro?
+Os pais de Carlos Alberto, Severino Domingos Lourenço e Dirce Pessoa da Silva Lourenço, pelo inusitado da situação, vendo seu único filho partir, descontrolaram-se de tal modo, a viver D. Dirce sob constante ação medicamentosa.
+A solidão, a tristeza, substituíram as alegrias constantes daquele lar até há poucos dias feliz e sem problemas. Não obstante seus esforços ingentes, o Sr. Severino, superando-se a si mesmo, não conseguia devolver à esposa o desejo de viver, de retomar o curso de suas atividades.
+De formação católica, desconhecendo os ensinamentos do Espiritismo em torno da sobrevivência da alma, não poderiam supor jamais que a despeito de morto, Carlos Alberto nunca estivera tão perto.
+O cunhado do Sr. Severino, Dr. Danilo Caldas Vaz, que também não era espírita, quatro dias após a desencarnação do sobrinho, visitou-lhe os pais, dizendo que iria levá-los a Uberaba, para conhecerem Chico Xavier, por sugestão de seu amigo José da Fonseca, espírita residente em Santos, que muito se sensibilizara diante dos sofrimentos que abalavam os pais de Carlos Alberto.
+Esta deliberação do Dr. Danilo veio de encontro às ponderações da Sra. Alzira Bonfim da Silva Vitorino, irmã de D. Dirce, de que deviam realmente procurar o Chico, animada que fora pela Sra. Guiomar de Oliveira Albanese, dedicada dirigente espírita na capital paulista.
+Entorpecidos pelas altas doses de medicamentos tranquilizantes, sem mesmo atinar com o significado da viagem, foram a Uberaba conhecer Francisco Cândido Xavier.
+No primeiro contato, sem maiores explicações, Chico informou aos pais que Carlos Alberto se encontrava hospitalizado na Espiritualidade e pediu-lhes que aguardassem alguns meses ainda para possíveis notícias do filho. Voltaram a Uberaba mais três vezes e na quarta viagem, em fevereiro de 1975, quatro meses após a desencarnação do filho, eis que alguns fatos preliminares prenunciavam grandes consolações para os pais desalentados.
+A reunião pública da sexta-feira — 7 de fevereiro — estava se encerrando às seis horas da manhã do sábado (!!!), com o Chico atendendo ininterruptamente desde às 19 horas da véspera a aluvião de pessoas que o procuravam. Às despedidas, Chico de oitiva perguntou ao pai de Carlos Alberto quem era o avô Lourenço que estava ao lado do jovem, ali presente em Espírito. Inquiriu ainda de D. Dirce se ela poderia identificar um sacerdote de baixa estatura, calvo e gordo que também acompanhava o jovem desencarnado. Surpresos, informaram tratar-se de seu bisavô paterno, que falecera no ano de 1932, em Santos, e do Padre Galdino Viliotto, Professor de Química no Colégio Santista, bastante amigo de Carlos Alberto e desencarnado em 1973.
+A propósito do avô Lourenço, nem o Sr. Severino o conhecera em vida, pois nascera um ano após a morte do avô. Não é fácil cogitar, desse modo, que os pais de Carlos Alberto estivessem no momento sequer pensando no avô Lourenço, há muito mergulhado no campo das raras recordações familiares.
+Ressalte-se também que a descrição feita pelo Chico do Padre Galdino coincidia totalmente com sua aparência física quando na Terra, de tal forma que qualquer de seus ex-alunos do Colégio Santista o identificaria através dessa foto falada.
+Combinando o reencontro com o Chico na sessão pública de logo mais às 19 horas, os pais de Carlos Alberto despediram-se já alimentando o desejo, em secreta intuição, de rever pelo lápis o filho querido.
+E isso realmente ocorreu. Com a riqueza de revelações do absoluto desconhecimento de parte de Chico Xavier, Carlos Alberto da Silva Lourenço, pela psicografia do querido médium, trazia naquela noite — 8 de fevereiro de 1975 — sua primeira mensagem.
+Os pais, que já vinham apresentando paulatino processo de recuperação, face às consolações que buscavam, em suas rápidas viagens até o Chico, após o recebimento da mensagem do filho, voltaram a sorrir. Nós, presentes à reunião, pudemos testemunhar naqueles dois gigantes a superação da grande batalha travada com a morte e com a separação.
+Dois meses após o recebimento da primeira mensagem, em reencontro junto de Chico Xavier, vemo-los transformados, procurando no consolo de alheios sofrimentos homenagear a lembrança do filho querido que partiu antes para o Plano Espiritual, mas que despojado do corpo físico, vela e socorre seus pais, na continuidade daquela família enriquecida pelas ligações profundas e indestrutíveis do espírito.
+
+---
+
+##  — Considerações finais
+
+Diante de tantos nomes, de tantas citações, perguntamos como poderia o médium escrevê-los com rapidez incrível, devorando o papel em letra firme e clara — como qualquer pessoa que já presenciou a psicografia de Chico Xavier pôde observar sem conhecer nada a respeito daquelas famílias presentes, numerosas, cada qual trazendo o seu problema, dramas diversos, situações específicas.
+De que modo nomes como Ruberley, Benedito, Ginete, Odete, Maria e suas revelações confirmadas pelos pais e familiares presentes poderiam ser escritos em grafia célere e escorreita por quem nunca os conheceu — nem aos encarnados, nem aos desencarnados?
+Assim ponderamos na certeza de que o amigo leitor conseguiu se situar no realismo de nossas descrições, muitas vezes enfáticas e talvez cansativas, mas absolutamente fiéis.
+Nas dezenove mensagens deste livro, foram revelados cerca de oitenta nomes, todos confirmados por seus familiares, sendo que em algumas vezes nem os presentes à reunião sabiam identificar os nomes citados, o que somente pôde ser feito posteriormente, como no caso do jovem Aníbal, lembrado em uma das mensagens de Jair Presente.
+Numerosos dramas e situações foram relatados pelos jovens autores espirituais, sendo que todos foram também confirmados, com surpreendente riqueza de dados, que chegaram a surpreender o próprio Chico. Apelidos, apocorísticos vedados aos familiares mais chegados, foram citados.
+Enfim, os quatro autores não regatearam esforços para evidenciar que estão vivos — muito vivos — no Plano Espiritual, em comovente apelo aos pais queridos, para que divisassem, no alto dos Céus, a presença de uma justiça que jamais poderia permitir a separação definitiva, e em advertência direta aos jovens da Terra para que despertem de ilusões, muitas vezes comprometedoras, diante da certeza de que para todos nós a vida e a morte são etapas naturais, transformações a que estamos sujeitos no longo jornadear entre Plano Espiritual e Terra.
+Mostraram-nos, Augusto, Carlos Alberto, Jair e Wady, que aqui como lá a vida é uma só, sendo a morte uma ilusão que criamos para fugir aos imperativos de nossa consciência. Nosso corpo é tão somente um escafandro com que nossos Espíritos mergulham na Terra, em prosseguimento às lutas redentoras que vimos enfrentando ao longo dos séculos, pelas bênçãos da Reencarnação.
+Deus os recompense, em nome dos pais que na Terra, através de suas palavras, compreenderam que seus filhos, desencarnados, como vocês, também não morreram!
+
+---
+
+##  — Francisco Cândido Xavier
+
+Mineiro de Pedro Leopoldo, nasceu a 2 de abril de 1910.
+Funcionário aposentado do Ministério da Agricultura, reside atualmente em Uberaba — MG.
+Em 1932, Francisco Cândido Xavier assombrava o País com o lançamento de seu primeiro livro —
+— antologia assinada por poetas que já haviam atravessado a porta da sepultura.
+Insulado na pequena cidade mineira de Pedro Leopoldo, onde nascera em 1910, às voltas com grave enfermidade ocular, que lhe reduzira acentuadamente a visão, sem recursos e sem tempo para a leitura de obras literárias, como poderia o jovem de 22 anos escrever — senão pela mão espiritual dos autores as joias poéticas que mereceram elogios de intelectuais como Humberto de Campos, então Presidente da Academia Brasileira de Letras, de Monteiro Lobato, de Afonso Schmidt, de Edgard Cavalheiro, de Olegário Mariano e de tantos outros bastiões de nossa Literatura?
+E desde o lançamento do Parnaso sua mediunidade tem pontificado na mesma altura de seu abençoado exemplo pessoal.
+Cento e trinta livros, quatro milhões de exemplares, dos mais variados gêneros, desde a poesia até ao romance histórico, com importantes produções de cunho filosófico e um sem número de trabalhos de exegese evangélica, à luz do Espiritismo.
+Os autores espirituais que se manifestaram por seu intermédio chegam à casa dos 600!!! Seiscentas cabeças a escreverem pelas mãos de Chico Xavier em estilos próprios, como podemos facilmente observar no Parnaso de Além Túmulo, em que Castro Alves, Olavo Bilac, Augusto dos Anjos, Cruz e Souza, Alphonsus de Guimaraens, Antero de Quental, Artur Azevedo, Casimiro de Abreu, Fagundes Varela, etc., etc., etc., estão presentes…
+Atendendo à multidão que o procura diuturnamente, Chico dispõe de reduzido tempo para o repouso, trabalhando desde o início de suas atividades mediúnicas em 1927 — há quase 50 anos — até altas horas da noite, na imperativa preocupação de a todos atender, de atualizar a correspondência — cerca de 60 cartas por dia! — e de psicografar os seus livros e mensagens de elevado conteúdo moral.
+Falar de Chico Xavier é encargo dificílimo. Tantos são os fatos a relatar, em sua longa vivência apostólica, tão exuberante é a fenomenologia mediúnica que o cerca, de molde a ser unanimemente considerado o mais completo médium de toda a História do Espiritismo, tão grande tem sido o seu papel na catálise do movimento espírita do Brasil e do Planeta e na exemplificação do Evangelho de Jesus entre nós, que sua vida e sua obra estão a desafiar a ousadia dos mais intrépidos biógrafos.
+Se até o início da década 1970 sua popularidade já era incontestável, de 1971 para cá, com suas participações em programas de nossa Televisão e com o recebimento dos inúmeros títulos de cidadania — mais de quarenta até o momento — que importantes capitais e cidades brasileiras, e mesmo um Estado, lhe concederam, seu nome passou a ser uma legenda em milhões de lares brasileiros, a simbolizar a mensagem do Cristo, na extensão toda da sabedoria que caracteriza suas respeitosas ponderações.
+Do homem afável, amigo, compreensivo, igual, ao médium brilhante, ao mesmo tempo psicógrafo, clarividente, clariaudiente e de efeitos físicos, Chico Xavier é gente, muito gente, a demonstrar-nos que o amor e a sabedoria não se divorciam da simplicidade.
+Neste livro, enfileiramos algumas das muitas mensagens, que, nos últimos anos, Chico Xavier tem recebido de Espíritos recém-desencarnados, sobretudo, de jovens que voltaram pela sua psicografia, para o consolo dos pais saudosos.
+Para bem situar o leitor nas páginas que se seguem é oportuno lembrar que de todos os fatos e revelações contidos nas mensagens, o médium não tinha absolutamente conhecimento, ficando, muitas vezes, tão surpreso quanto os pais dos jovens, com a citação de nomes e ocorrências que o leitor encontrará à farta no desdobrar das páginas seguintes.
+São Bernardo do Campo, 06 de julho de 1975.
+
+---
+
+##  — Apresentação
+
+Jovem amigo:
+Nosso caro Emmanuel se dirigiu à estimada comunidade de todos os leitores. De nós mesmos, falaremos a você em particular.
+Este livro é o depoimento de quatro jovens desencarnados que retornam pela mediunidade de Francisco Cândido Xavier para dizer que estão vivos.
+Todos faleceram recentemente:
+Augusto, em fevereiro de 1968;
+Wady, em julho de 1973;
+Jair, em fevereiro de 1974;
+Carlos Alberto, em setembro de 1974.
+Como você pode observar, estão há bem pouco tempo no Mundo Espiritual e suas impressões da morte ainda são muito vivas, tão vivas quanto a saudade que os unem aos familiares queridos.
+Mas, voltado às preocupações do estudo, aos devaneios e também ao trabalho para o provimento de seus compromissos mais imediatos, você talvez nos pergunte:
+— A que vem essa ideia de lhe apresentarmos jovens que já deixaram este Mundo? Já não bastam as nossas próprias lutas na Terra? Não será melhor deixar que os mortos cuidem dos mortos?
+— Por que macular o seu natural entusiasmo de jovem, os seus dias muitas vezes despreocupados, com informações de uma outra vida tão distante e impalpável?
+A resposta não é difícil.
+Ocorre que os jovens que voltaram do Além não estão mortos. Vivem e têm ideias e sugestões a trocar com você da Terra. A saudade dos familiares queridos os fez voltar para o papo informal com os pais, através da mediunidade abençoada de Chico Xavier.
+E, além do reencontro dos entes queridos, preocuparam-se eles em transmitir na sua linguagem clara e sem rodeios as suas impressões sobre a morte que na verdade não existe.
+Mais do que a transmissão de sensações, de como chegaram ao Lado de Lá, sentimos neles o anseio de dizer a você que as responsabilidades do jovem não podem ser esquecidas, em função de sonhos temporários; que enfrentaram lá no outro lado da vida, a necessidade do trabalho, do estudo e da revisão de muitos conceitos à luz de uma compreensão mais ampla.
+Por isso, meu amigo, é que nós o colocamos frente-a-frente com os seus companheiros do Além. Têm eles muito a dizer.
+A dor da separação e a ruptura de sonhos tão gostosos lhes forjaram no coração e no cérebro uma têmpera mais firme, de molde a serem as suas palavras amadurecidas pela experiência maior que vêm acumulando, desde que deixaram seus corpos nos túmulos frios dos cemitérios.
+Ouça-os e medite!
+Pedimos-lhe, jovem amigo, ainda um favor.
+Se em seu relacionamento fácil e comunicativo, você souber de pais que amargam na Terra as dores da separação pela morte dos filhos queridos, procure-os para dizer que a morte não existe, que seus filhos estão muito perto deles e, como os jovens autores deste livro, também lhes transmitem as suas mensagens de amor e reencontro, através dos diálogos do pensamento.
+
+---
+
+## COMO A FAMÍLIA CEZAR CHEGOU ATÉ CHICO XAVIER — Augusto Cezar Netto
+
+Nascimento: São Paulo, 27 de setembro de 1942 — Desencarnação: Praia Grande, 27 de fevereiro de 1968.
+Filho de Raul Cezar e Yolanda Cezar.
+Irmãs: — Maria Otília Cezar Toscano, casada com o Sr. Walter Toscano — Zuleica Cezar Carvalho, casada com o Dr. Antônio Celso Mesquita Carvalho — Marly Cezar de Almeida, casada com o Dr. Paulo Roberto Bourgogne de Almeida.
+Às 12 horas e 30 minutos daquela terça-feira de carnaval, 27 de fevereiro de 1968, o telefone tilintou na residência da Rua Marcos Lopes, Vila Nova Conceição, São Paulo.
+Preocupada com o encaminhamento do almoço, de que participariam as filhas e o então único genro, desataviada, alegre, D. Yolanda Cezar não deu atenção ao telefonema que lhe iria mudar radicalmente o curso da vida nos anos seguintes. O genro Walter Toscano atendeu à ligação de Santos e convocando, de imediato, D. Yolanda, alegando outros motivos paliativos, para lá se dirigiram.
+Augusto, naquela manhã, bem cedo, junto de amigos partira para a Praia Grande, com a promessa de retornar pouco depois das 13 horas, quem sabe para o almoço. Alto, forte, atleta de formação, habituado aos exaustivos exercícios físicos, comedido, jamais se suporia que, afogado nas águas da Praia Grande, naquela manhã cálida de fevereiro, iria deixar o nosso mundo, em viagem para a Vida Espiritual, transpondo as gélidas barreiras da morte.
+Chegando à Santa Casa de Santos, D. Yolanda, que esperava encontrar, em sua cândida ingenuidade de mãe, o filho recebendo socorros pelo pretenso acidente de automóvel — em versão conciliatória elaborada pelo genro — teve à vista outro quadro.
+O rabecão vindo da Praia Grande trazia o corpo de Augusto, frio, definitivamente morto.
+Natural de São Paulo, Augusto Cezar Netto nasceu a 27 de setembro de 1942 e faleceu a 27 de fevereiro de 1968, cinco meses após completar 25 anos.
+Desde o curso primário estudou no Liceu Eduardo Prado, bem perto de sua Vila Nova Conceição, onde sempre residiu. Completou os estudos básicos e, no próprio Liceu, formou-se em Química Industrial.
+Trabalhou até quatro meses antes de sua morte nos Laboratórios Squibb, tendo deixado este emprego para dedicar-se com o pai e com o cunhado à extração de areia em sítio localizado na BR-2 (atual BR-116) km 64, estrada perigosa, motivo de preocupações constantes de parte do pai carinhoso, Sr. Raul Cezar, que, encontrando-se em Goiânia no dia do falecimento do filho, ao receber a notícia, imediatamente associou o infortúnio à movimentada rodovia que liga a capital paulista a Curitiba.
+Muito alegre, sem maiores preocupações além do trabalho exaustivo e do convívio familiar intenso, como de hábito na família brasileira, Augusto era esportista de nomeada, com participação efetiva nas atividades do Clube Ipê, a tradicional agremiação do Ibirapuera.
+Sua morte mereceu dos amigos do Ipê uma página tão candente, assinada na revista do clube por Camilo Guimarães, que reproduziremos a seguir as últimas palavras do articulista:
+“…Março chegou de novo! O campeonato vai começar. Os times se formaram e nenhum de nós aprovou o seu contrato (referindo-se ao Augusto) com o Senhor dos Espaços Infinitos, pois sabemos que você jogará num gol de estrelas, defendendo com segurança as nossas lembranças, segurando com firmeza os “pênaltis” de nossa saudade. Augusto Cezar Netto! Até Quando? Até Sempre! Adeus!”
+Após o sepultamento na quarta-feira de cinzas, a família se voltou para uma nova realidade. A dor, o luto, a tristeza imensa fecharam as portas daquela casa dantes alegre e jovial, para que os amigos e vizinhos não pudessem ver os olhos sempre úmidos de D. Yolanda, o desespero do Sr. Raul e a angústia das filhas que, quais pássaros desorientados, procuravam, engolindo as lágrimas, devolver aos pais um pouco de alento e reconforto.
+Sendo católicos, absolutamente distantes de qualquer informação a respeito do Espiritismo, sem conhecer Francisco Cândido Xavier, como chegaram a Uberaba quatro meses mais tarde, para o primeiro contato com o querido médium que lhes descortinaria um panorama novo, construindo para aqueles pais desesperados uma estrada firme, assentada na certeza absoluta da sobrevivência do Espírito?
+Sem o Augusto, começaram no lar os intermináveis monólogos com as sombras, as longas insônias que tranquilizantes e hipnóticos não conseguiam debelar. Amigos se aproximaram da família, buscando de toda sorte atenuar os duros padecimentos.
+Alguém sugeriu que D. Yolanda tomasse passes e, com a sua anuência cortês, antes por respeito que por convicção, um pequeno grupo de senhoras do Lar do Amor Cristão, entidade espírita beneficente do Ipiranga, passou a frequentar regularmente a casa, ministrando passes e fazendo preces que, segundo a mãe do Augusto, nada trouxeram de paz e refazimento, face à atribulação mental tão grande de que se via possuída.
+Aos poucos, com a natural amizade decorrente das reuniões, a dirigente do grupo, Sra. Acácia Maciel Cassanha, sugeriu ao casal que fosse até Chico Xavier. Quem sabe o querido Chico poderia dar-lhes uma palavra de alento e esperança?
+Quatro a cinco meses após a morte do Augusto, o Sr. Raul e D. Yolanda, num sábado pela manhã, chegam a Uberaba. Terminava uma reunião matinal com a presença de companheiros de outras cidades, e, num contato brevíssimo, apenas puderam dizer ao Chico que sofriam muito com a perda recente de um filho. Chico lhes pediu que voltassem para a reunião pública da noite, quando então poderiam conversar um pouco.
+No reencontro da noite, entre o atendimento de imensa fila de companheiros, amigos, e sobretudo de pessoas desconhecidas que o procuravam, Chico Xavier disse a D. Yolanda — sem mesmo saber o nome do filho morto — que “era um pouco cedo para notícias do Augusto, mas que ela se tranquilizasse que ele estava bem, no Plano Espiritual, sendo assistido pelo seu avô Augusto”.
+Algo descrente, por que não dizer decepcionada, D. Yolanda conjeturou consigo mesma que alguém dos presentes teria dito o nome do filho ao Chico, embora não conhecesse e não tivesse conversado com qualquer pessoa presente àquela reunião. Mas, apesar da descrença, não escondia sua curiosidade; como adivinhara o Chico o nome do filho e do avô, e como sabia que o avô Augusto estava desencarnado?
+Ao término das tarefas da noite, Chico voltou a conversar com D. Yolanda e disse-lhe que ficara preocupado com a sua descrença, mas o Augusto lhe mandava dizer que ele era mesmo o seu Augusto e o Augustinho dos outros familiares.
+No lar, apenas D. Yolanda e uma das filhas chamavam o filho por Augusto, a despeito dos outros todos o tratarem por Augustinho.
+De posse dessas curiosas revelações, o casal passou a visitar regularmente o Chico, fazendo-o mesmo todos os meses e, nessa rotina de visitas, quatro anos se passaram até que surgisse a primeira mensagem psicografada.
+Conotação importante é observarmos quão variável é o período decorrente entre o falecimento e a primeira comunicação dos jovens autores espirituais deste livro. Augusto o fez após 4 anos; Carlos Alberto após 4 meses; Jair Presente, 42 dias depois e o Wadyzinho, ao cabo de 6 meses.
+Ensinam-nos os Espíritos que não é fácil a comunicação conosco após a morte, antes que fatores vários sejam superados. Compreende-se que, despojado do corpo físico, retornando o Espírito ao convívio direto dos entes queridos, pode desesperar-se por encontrar condições que o preocupem, sem que possa atuar diretamente no grupo familiar pelas limitações impostas com a ausência do corpo material.
+Devemos também considerar que muitas vezes o Espírito desencarnado passa no Além por um período de recuperação mais ou menos longo que nós devemos respeitar e, mais do que isso, abreviar com nossas preces e pensamentos construtivos, evitando levar até eles o nosso desespero e o nosso sofrimento, pois os entes queridos permanecem ligados conosco após a morte, como se entre nós e eles existisse indestrutível cordão umbilical, de modo que choram, sorriem, sofrem ou permanecem felizes, conforme o nosso próprio estado de espírito.
+Passemos às mensagens do Augusto, escritas aos pais, pela psicografia do Chico.
+
+---
+
+##  — Prefácio
+
+Amigo leitor:
+Para nós, efetivamente, não existem na Terra jovens ou velhos.
+Em qualquer parte, encontramos companheiros de trabalho e de experiência, nos mais diversos marcos de tempo.
+Em razão disso, tantas vezes, no mundo, somos defrontados por meninos-sábios e sábios-meninos.
+Amigos que se transferiram para as nossas vivências espirituais, no verdor da força física, escreveram este livro.
+Formaram-no, página a página, consagrando-as aos familiares e afeiçoados da Terra, identificando-se de modo a informá-los com segurança.
+Para isso, bastas vezes, quiseram empregar linguagem própria, esbatendo choques em brandas consolações, transformando surpresas em advertências, saudades em bênçãos e lágrimas em sorrisos.
+E as mensagens desses irmãos queridos da juventude vertem do Além para a Terra, não somente para os corações amados a que se vinculam.
+Chegam igualmente em nossa direção, auxiliando-nos a escolher o melhor caminho e a pensar com acerto, em qualquer ângulo espacial a que nos ajustemos ou em qualquer faixa etária de nossa evolução.
+Leitor amigo, que este recipiente de sensatez e alegria, paz e renovação que te ofertamos, em forma de livro, possa beneficiar-te e reconfortar-te, onde quer que te encontres, são os votos do servidor que, como sempre, roga à Divina Providência a todos nos ilumine, sustente, fortaleça e abençoe.
+Uberaba, 06 de julho de 1975.
+
+---
+
+## 1 — Primeira mensagem de Wady Abrahão Filho
+
+> Mensagem-Reapresentação.
+> — Axima
+
+Meu pai, querida mãezinha. Não chorem mais, não morri como pensam.
+O que sinto é a névoa das lágrimas com que me acompanham. Lembremo-nos. É muita atividade a desenvolver: — os outros, papai, pensemos nos outros. Procure com mamãe, auxiliar aos outros rapazes.
+Não chorem mais, imploro. Ainda não pude acomodar-me com o trabalho aqui. Melhoro em Espírito, quanto ao ânimo de que preciso para seguir adiante, mas ouço as vozes de meus pais queridos chamando-me em pranto…
+Não queiram morrer para ver-me, encontrar-me. Esperar os desígnios de Deus, entregarmo-nos a Deus.
+Tudo o que eu tinha era o amor de meus pais e de nossa querida Axima,
+n
+com a fé viva que recebi em casa e não posso admitir que as nossas preces de antigamente sejam hoje lágrimas de inconformação.
+Estou contente, observando o amor com que procuram Jesus no Templo da Perseverança em Cristo,
+com a nossa irmã Guiomar.
+Também compareço às reuniões, também escuto as preleções e vou aprendendo novos ensinamentos.
+Desde a manhã daquela sexta feira, 6 de julho passado, estou sentindo uma grande transformação. Antes do coração parar em meus entendimentos com os amigos, já me via como que deslocado do mundo…
+Não julguem que vim para cá antes da hora, que poderiam ter evitado o que sucedeu. Meus dias no corpo terrestre não podiam ser mais extensos.
+Agradeçamos a Deus. Tudo terminou tão bem — tão bem como começou, porque Deus me concedeu os melhores pais que eu não mereci e que poderia receber.
+Meu pai, aqui está comigo o vovô Abrahão.
+Ele e eu pedimos para não chorarem mais. Preciso melhorar, papai, seguir a vontade de Deus para mim.
+Mãezinha, não pense em Natal triste.
+Vamos auxiliar as criancinhas e construir um Natal melhor que os anteriores. Prometo fazer o que puder para ser útil.
+Agradeçam por mim o carinho dos amigos no Colégio
+e nas reuniões.
+Estou bem.
+Beija-lhes as mãos e reúne os dois com a irmãzinha querida em meu coração, o filho reconhecido.
+
+---
+
+## 1 — Primeira mensagem de Jair Presente
+
+> Nesta mensagem psicografada 42 dias apenas depois da morte de Jair Presente, são trazidas à baila, como também veremos nas próximas mensagens, revelações completamente desconhecidas pelo médium.
+> — Avô Basso, mensagem seguinte
+
+Meu pai, minha mãe, minha querida Sueli, peço-lhes calma, coragem.
+Não estou em situação infeliz, mas sofro muito com a atitude de casa. Auxiliem-me. É tudo, por agora, o que lhes posso dizer. Tenho a mente nublada. Consigo entender muito pouco aquilo que se passa em torno de mim. As lágrimas dos meus queridos me prendem. Que há, meu Deus?
+Não pensem que desapareci para sempre. Estarei, porém, com vocês na condição em que estiverem comigo. Fortes, me fortalecerão. Desanimados, me farão esmorecer.
+É muita coisa para observar, entretanto, não posso ainda. Creio apenas que perder o corpo mais pesado, não é desvencilhar-se do peso de nossas emoções e pensamentos, quando nossos pensamentos e emoções jazem nas sombras da angústia.
+Eu encontrei muito amparo, mas a não ser o meu avô Basso,
+n
+a quem me ligo pelo coração, não tenho ainda memória para funcionar aqui; minha faculdade de lembrar está com vocês, assim à maneira de um balão escravizado. Ajudem-me. Preciso ver e ouvir aqui para retomar-me como sou.
+As vozes de casa chegam ao meu coração e, como se continuássemos juntos, vejo-os no quarto, guardando-me as lembranças como se devesse chegar a qualquer instante.
+E o meu pensamento não sai de onde me prendem.
+Agradeço, sim, o amor em suas lágrimas. Agradeço o carinho em suas preces, mas venho pedir-lhes para viverem. Viverem! E viverem felizes, porque assim também serei feliz.
+Esqueçam o que sucedeu, ninguém me prejudicou, ninguém teve culpa. Mal sabia eu que um passeio domingueiro era o fim da resistência física.
+O coração parou, ao modo de um motor, de que não se descobre imediatamente o defeito.
+Sou eu quem deu tanto trabalho aos amigos.
+Notei quando me chamavam, quando me abraçavam, massageavam e me faziam quase respirar sem conseguir. Agradeço por tudo.
+Depois foi o sono, um sono profundo, do qual acordei para chorar com o pranto de meus pais e de meus afetos mais queridos.
+Sueli, acalme-se e auxilie os pais queridos. Nada de lamentações e reclamações.
+Deixei o corpo num domingo, sem extravagâncias quaisquer.
+Há quem pense em drogas quando se deixa a vida física assim qual me sucedeu.
+Mas não havia drogas, nem abuso da véspera. Estávamos sóbrios e brincávamos à maneira de pássaros descuidados.
+Em qualquer lugar que me achasse, a queda de forças seria a mesma.
+Estou saudoso de tudo, dos familiares queridos, dos companheiros, dos estudos e das aulas; entretanto, espero sarar e refazer-me. Para isso você, meu querido pai, e você, querida mãezinha, são as alavancas de que preciso para me levantar.
+Aqui comigo estão o meu avô Basso e um coração de benfeitora a quem chamo Irmã Elvira.
+n
+Estou bem, mas é preciso melhorar.
+Encaremos a vida como deve ser a vida perante Deus e esperemos o futuro melhor. Creiam que estou fazendo muita força para não acovardar-me. Não posso aumentar-lhes os sofrimentos.
+Agora, é o momento de pensarmos na fé, na fé viva que nos ergue o pensamento para a Vida Maior. Abençoem-me e ajudem-me.
+Lembrem-me estudando e não morto, porque a vida não admite a morte. Por hoje nada mais consigo escrever.
+A garganta, como se eu fosse falar, está constrangida, e as lágrimas estão contidas, a ponto de rebentar. Quero confiar em Deus e em vocês e por isso termino, com um abraço, deixando aqui a vocês aquele beijo de todos os dias, rogando a Deus para que nos fortaleça e nos abençoe.
+
+---
+
+## 1 — Primeira mensagem de Carlos Alberto
+
+> Esta primeira mensagem de Carlos Alberto é rica de elementos de identificação, particularmente importantes  ressaltemos  pelo desconhecimento de parte do médium Francisco Cândido Xavier, a respeito.
+> — Tia Amélia
+
+Querida mamãe, querido papai, querida tia Amélia,
+n
+estou aqui e peço a Deus proteção e bênção para nós todos.
+Querida mamãe, não chore mais; papai, conformação é o nosso caminho; tia Amélia, ajude este seu sobrinho que é também seu filho do coração.
+Mãezinha, estou agradecido a tanto amor. Tenho suas lágrimas por bênçãos de sofrimento. Bênçãos de carinho e tristeza, de luz e sombra, de paz e tempestade. Peço ao seu coração querido, querida mãezinha — não chore mais, assim como se estivéssemos separados para sempre.
+O que tenho experimentado em aflição para falar ou escrever, não há tinta que conte. Desde que despertei nos braços de meu avô Lourenço e no carinho daquela que conhecemos aqui por nossa vovó Pessoa ou vovó Maria, luto com as reações difíceis que não sei descrever.
+Via a senhora por dentro de mim, querida mãezinha e tia Amélia, a outra mãezinha que Deus nos deu, perguntando por mim… Escutava papai chamando e o nosso bom amigo Dr. José Marins a buscar-me no silêncio, nos lugares de nossos passeios
+e conversações ou nas preces que ambos tentavam articular.
+Penso que o estado de alguém que acorda aqui, de repente, assim como me sucedeu, é uma espécie de loucura consciente em que nos conhecemos e passamos a desconhecer, porque somos nós e os que pensam em nós, e se os que pensam em nós estão envolvidos em pranto e aflição, a aflição e o pranto estão igualmente conosco, mesmo quando procuremos ser fortes ou não queiramos chorar. Sabia que me achava longe de casa, mas via você, mãezinha, procurando meus retratos, cartões, lembranças, roupas, objetos e escritos.
+Oh! meu Deus, não creio que a gente aí possa compreender o amor profundo de nossos pais, porque você, mamãe, procurava lembrar seu filho, desde a praça de esportes até o lugar último em que as últimas recordações de seu filho se conservaram…
+Agradecia e chorava também e, por mais que os nossos protetores daqui me reconfortassem, queria voltar e reviver, para que você quisesse viver e para que meu pai não desanimasse. Pouco a pouco, vamos melhorando com as melhoras uns dos outros.
+Tia Amélia, você que me foi também mãe pelo coração, você que partilhou com mãezinha tudo o que pude ser em dias tão ligeiros, console meus pais por mim! Não os deixe tristes, desalentados. Você e Regina
+me auxiliarão. Preciso renovar-me e reeducar-me para trabalhar e servir.
+Papai, naquele dia de setembro, nada aconselhava que fosse ao médico. Fiz meus exercícios na véspera, revisei lições e prometi aos companheiros um forte ensaio.
+Apenas uma dor de cabeça muito ligeira me dava a ideia de algum comprimido que pudesse me restituir toda a força.
+A queda do corpo foi rápida. Quis controlar-me mas não pude. Alguma coisa estava diferente em meu cérebro. Tentei estudar a mim mesmo, pois parecia estar caindo num choque de encontro a um muro desconhecido…
+Ouvi os companheiros de bola gritando por mim… Alguém se ajoelhava, procurando meu corpo para massagens, no entanto, escutava os chamamentos de carinho e sentia várias mãos em meu peito,
+mas a voz morrera na garganta e chorei…
+Chorei passando a um sono que me pareceu vir de uma injeção de anestésicos.
+Então dormi muito, mas sonhei que fui ao encontro da nossa casa e do nosso caro Dr. Marins,
+caminhando livre, mas desorientado pela praia do Embaré e ao longo de outras praias, como se eu fosse feito de um material muito leve e flutuante, a transferir-me de um lugar para outro conforme a minha própria vontade.
+Em seguida, apaguei-me e nada senti senão repouso sem nenhuma recordação.
+Mais tarde, vim a saber por meu avô e por antigo e querido professor padre,
+que conheci no Colégio Santista e reencontrei aqui, que me achava de pensamento liberto, num estado diferente que as definições do mundo ainda não podem apreender.
+A desencarnação violenta deslocava meu pensamento para longe e o meu pensamento, em tudo, eram vocês, os entes queridos que me via forçado a abandonar.
+De então para cá, estou melhorando com as melhoras de meus queridos pais e de meus amigos queridos. Peço ainda auxílio e paz.
+Mãezinha, as suas orações à frente de nossas relíquias da fé em casa são atendidas.
+Ore por seu filho! Ouço suas vozes quando pretende chamar-me em silêncio, encerrada no quarto, com as minhas lembranças e com as nossas lágrimas.
+Uma vida nova está surgindo para nós. Estamos conhecendo um mundo diverso daquele em que nos amávamos sempre mais e, no entanto, em que hoje vejo, estávamos mais sozinhos.
+Mãezinha, você e mãezinha Amélia, papai e os outros, nosso caro Dr. Marins e tantos outros corações queridos auxiliem aos outros rapazes, meus irmãos que tenho também noutros lares — rapazes necessitados de amparo, de entendimento, de carinho e de bênção… Ajudem-me a estender essa família bendita que o amor de Jesus descobre aos nossos olhos, agoniados de saudade e de pranto…
+O sol da caridade seca as lágrimas onde apareça mãezinha; confio em você e espero em você, mãezinha Dirce, esse apoio de que necessito a fim de melhorar-me a servir. Ore por mim sempre, abençoe-me e una-se à mãezinha Amelinha para nos sentirmos mais juntos nas tarefas do bem.
+Quando eu sarar da saudade que é angústia e doença, vou estudar e continuar para frente para ser útil. A Engenharia em seu filho estará aqui também, renascendo em trabalho maior. Não posso ser mais extenso. Relaciono todos os meus amigos no agradecimento que deixo aqui.
+Tia Amélia, receba os meus pensamentos de carinho e de gratidão.
+Mãezinha Dirce e meu pai Severino, abençoem seu Tato
+e abracem-me… Tenho frio ainda — o frio que é a saudade entre nós e que Jesus afastará para sempre, porque, com esta carta, vocês saberão que estou vivo!
+E recebam no meu abraço de filho em recuperação, aquele amor e aquele agradecimento de todos os dias que me restitui ao meu querido pai e à minha querida mãezinha como sendo o companheiro de todas as horas e o filho reconhecido, sempre de vocês e sempre cada vez mais reconhecido.
+
+---
+
+## 1 — Primeira mensagem de Augusto Cezar
+
+> Para situar o leitor amigo na mensagem, vamos acompanhá-la de breves elucidações, obedecendo à sua sequência cronológica. Em essência, encontramos a preocupação da família, entrecortada de ponderações oportunas. Aliás, o próprio Augusto se trai nessas ponderações, ao lembrar que “aluno que não deu a lição não pode ensinar”. De fato, segundo sua mãe, quando na Terra, não era grande a sua preocupação religiosa. Católico, esporádicas vezes frequentava o culto, mas denotava respeitosa religiosidade, não obstante mais ligado, como jovem, ao estudo, aos entretenimentos, ao namoro e ao trabalho.
+> — Colaterais
+
+Querida mamãe, aquele abraço e aquela prece de sempre a Jesus por sua fortaleza e paciência.
+Seu coração pede uma palavra e
+, na medida do possível, para trazer ao seu carinho aquele alô de todos os tempos, enviando a você e a meu pai com as meninas e o nosso pessoal o beijo de sempre.
+Estou fazendo força e melhorando. Hoje uma lição, amanhã a experiência inesperada, e a gente vai indo…
+Parece que estamos todos de mãos dadas subindo a montanha. De quando em quando, um de nós parece despencar de cima. O companheiro tropeça, rola e se fere um bocado, mas a turma aguenta e o caído se levanta a fim de seguir para a frente.
+Não podia ser de outro modo. E o pessoal daqui é a cópia melhorada do grupo terrestre, ou melhor, mãezinha, aí no mundo somos a cópia piorada da equipe que segura a caminhada do lado de cá.
+É muita gente mesmo, tanto de nossa parte quanto da parte dos colaterais.
+n
+Mas é isso. Sigamos com otimismo e fé. Viva em Deus. O ponto para ser alcançado é a felicidade de todos.
+Fale à Maria Otília
+n
+para se alegrar. Tudo vai bem com ela e com o Walter. Tratamento do corpo é necessidade. Imposição da vida. Devem atender a isso, mas a maternidade com ela vai sendo muito bem amparada. O amigo que veio e voltou precisa refazer-se. Essa é a verdade. Não posso
+a criança, dando uma de
+, mas o tempo dirá quem é esse generoso amigo que procura voltar pelos braços dela com as mãos firmes do nosso Walter.
+Zuleica
+n
+está sob forte auxílio, mas não deve descuidar-se. A ela e ao Celso, à Maria Otília e ao Walter, à Marly e ao Paulo,
+n
+o meu carinho de sempre.
+Nosso pessoal por aí costuma tratar a gente por mortos. Isso, às vezes, dificulta o intercâmbio. Mas com a experiência da vida tudo vai melhorando.
+Mãezinha, diga ao meu pai que a vida é luta. Luta da pesada, para perdermos os pesos que nos afastam da Espiritualidade Superior. Rogo a ele não chorar ao ler esta carta.
+Da vez passada, quase que entrei em grande aperto com as lágrimas do pessoal. Quando minhas pobres notícias foram abertas, fiquei tão emocionado com o carinho de meu pai molhando o papel com o pranto forte.
+n
+Felizmente, mamãe, o seu coração, embora golpeado de saudade, estava firme. E quando as lágrimas brilhavam nos seus olhos, lembro-me de que você procurava fixar meu retrato, fazendo força para alegrar-se.
+Tudo vai passando. Aqui está nossa Acácia.
+Nosso grupo
+é uma família de paz e amor com serviço e realização, chamando-nos a testes incessantes. O que puderem fazer no terreno do bem, façam. O que puderem suportar com paciência, suportem.
+Aqui é o que a gente fez de si mesmo, pelo que fez aos outros ou pelos outros é o que vale.
+Nossa oficina de modelagem espiritual está funcionando. Todos podemos transformar-nos, construindo em nós mãos de paz se espalharmos a paz, verbos de luz se cultivarmos a luz em nossas palavras, pés de alegria se soubermos caminhar no rumo do bem, olhos e ouvidos de bênçãos se nos dispusermos a abençoar sempre.
+Paro aqui. Este assunto de citação é pesado para seu filho. Aluno que não deu a lição não pode ensinar.
+Mãezinha, tio Casimiro
+está bem e nossa irmã Thereza,
+a quem devemos tanto carinho, prossegue feliz, embora com a saudade extravasando em forma de lágrimas. Nosso Godoy vem recebendo muito amparo. E vamos caminhando.
+Agradeço o seu carinho em favor das crianças.
+É a verdade, mamãe. Trabalhando é que se progride. Auxiliando é que a gente se auxilia. Dar é a forma de receber. E receber sempre mais.
+Quem diz aqui que o relógio não existe de nosso lado? Lembranças explodem e as palavras querem tomar forma no lápis, mas o nosso caro Dr. Bezerra
+me diz calmo: “agora, meu filho, já chega”. Não devo internar-me em novos assuntos. Mas termino, mãezinha, pedindo a sua serenidade e paciência.. Sua saúde melhorará cada vez mais com a sua calma crescendo e com a sua compreensão avançando para cima.
+Creia em nossa união de todos os dias. E abrace este rapaz que o seu carinho colocou neste mundo. Não é o melhor, mas é seu.
+Não chegou a ser o que a sua ternura esperava, mas é seu amor, companheiro de seus passos tanto quanto é para o nosso caro amigo de todas as horas o nosso herói e meu querido pai — o sócio e o companheiro de trabalho e de luta.
+Peça às meninas que não me exijam o nome do
+nesta carta.
+Seria uma fila acrescida dos nomes de todos aqueles que amamos.
+Querida mãezinha, a mensagem está pronta, mas a saudade é um problema que não foi resolvido. Entretanto, estamos felizes. Temos fé e esperança e isso é muito no Tudo que é Deus, no amor com que nos amamos. Muito carinho e aquele beijo do seu filho
+
+---
+
+## 2 — Segunda mensagem de Wady Abrahão Filho
+
+> Esta mensagem impressionou-nos vivamente pela numerosa série de citações tão detalhadas que surpreenderam os familiares do Wadyzinho.
+> — Wilson
+
+Querida mãezinha, meu querido pai, querida Axima, querido Wilson.
+n
+Nossa festa de aniversário
+— a melhor de todas — realmente é aquela em que a oração se faz a nossa luz de alegria.
+Vocês lembram o bolo simbólico. As velas acesas. Os doces. As saudações. Os presentes. Os sorrisos. E as bênçãos que Deus nos concede no mundo. Também estou nestas recordações.
+Entretanto, se posso, convido a todos para o aniversário do novo nascimento. 16 de fevereiro trocado por 6 de julho. Terra e Espiritualidade. Existência e Vida Maior. Ansiedade e realização. Estejamos, assim, alegres e felizes.
+Agradeço-lhes o amor com que fizeram a romaria de ternura no dia de hoje. Estas flores de esperança e fé, alegria e paz que me trazem nunca fenecem. Recebo-as no coração em forma de perfume e felicidade.
+A melhor notícia de que posso ser portador é a de que estou trabalhando. Minhas ideias se ampliaram. Tenho a certeza de que, com o amparo de Jesus, posso enxergar um tanto mais longe.
+Depois de haver dormido naquela fria sexta feira em que amanheci preparando lições,
+despertei na luz de conhecimentos mais dilatados — aqueles que hoje vamos entesourando. Mas quem diz meus amados, que o coração se desvincula do amor, quando o amor vem de Deus?
+Reconheci com meus pais e meus irmãos os assuntos novos por estudar, alusivos à morte e aos problemas de que se acompanha semelhante libertação; entretanto, o meu querido Colégio estava, quanto está como sempre, retratado em minh’alma.
+As Irmãs veneráveis, os professores, os meus colegas, a nossa carinhosa Comunidade Unida a Cristo!… Ah! com que lágrimas de alegria, pude voltar a eles! E com eles encontrei outros amigos em minha condição, a servirem também!…
+Senti-me tão pequeno, ante uma obra tão grande! A família de Jesus a buscar-nos!… Os últimos do caminho carregando pesadas necessidades, os irmãos em problemas, os quase-suicidas, as vítimas das drogas descontroladas!…
+Ouvi meu nome nas preces e nas lembranças e ajoelhei-me, como noutro tempo, rogando à Nossa Senhora e Nossa Mãe me fizesse digno de retornar à tarefa!…
+E vi que as paredes de nosso querido educandário brilhavam de intensa luz!…
+E novamente integrado com alguns corações de nossa família, em nosso Plano, trabalho com saudade mas com bom ânimo, pequeno mas feliz!…
+Louvo a Deus por havermos encontrado o Templo Espírita-Cristão da Perseverança em Jesus e louvo igualmente pela bênção do recomeço no meu Colégio… Trabalhar e estudar, progredir e auxiliar para melhor servir sempre!…
+Agradeçam por mim às Irmãs queridas e benfeitoras,
+digam ao nosso querido Cláudio,
+o meu querido amigão e aos outros companheiros que é preciso continuar… Falem que Deus é misericórdia para todos, que o amor salva sempre, que o serviço é a chave da elevação, que a humildade é a luz do caminho!
+Pai querido, meu querido, papai, agradeço a sua transformação, querida mãezinha, não chore mais, Axima e Wilson, muito obrigado!
+Aqui comigo meu avô Abrahão e minhas queridas tias Axima e Sara
+se rejubilam também. A família não se acaba no túmulo. Tanto amor no lar não se destinaria às cinzas da terra! Ressurgimos! Ressurgimos! Não será este com Jesus o novo cântico de Aleluia?
+Agradeço o Natal que me deram, distribuindo felicidade com os protegidos de Jesus e de nossa venerada Maria Albertina!
+Agradeço a nossa irmã Guiomar por nos haver incentivado a todos a persistir no trabalho que foi começado! Santas Irmãs, todas essas, as que sustentam os colégios em que nos instruímos para a Terra e essas outras, quais a nossa irmã Guiomar, que nos ajudam para a vida diversa em que hoje respiro renovação!
+Não choremos mais! Estamos felizes porque cremos, estamos tranquilos porque o Senhor nos permite trabalhar para o bem.
+Mãezinha, beijo as suas mãos. Ofereço ao seu carinho na data de hoje os anéis dos cabelos que as suas mãos educaram penteando em oração.
+Obrigado, queridos meus!
+Axima, querida irmã, peço a Deus para que você seja uma abençoada mãe! Nossa Mãe Celeste guardará você em sua formosa missão. Faça nosso querido Wilson feliz. Não pense que me perdeu. Sou mais seu irmão, estamos mais juntos! Agradeço por tudo, agradeço a Jesus e agradeço a todos.
+Papai, não pense em morte, pense na vida e no bem que com a vida na Terra todos nós podemos fazer. Ajude os amigos, papai, e ajude a todos! Do abençoado dinheiro que a sua bondade me punha nas mãos, sempre destaquei a parte para sustento de nossa querida Comunidade Unida a Cristo.
+
+Agradeço o que faz e o que fará por meus companheiros queridos. Não nos faltarão recursos para fazer o bem. Continue trabalhando, papai. Produza sempre. Trabalho em nossas mãos e dar trabalho aos outros é caridade sublime. Procuremos servir.
+Queria tanto falar mais, escrever mais; entretanto, não posso, tenho tarefas ainda hoje com os amigos a me esperarem no 2.419.
+Fiquem felizes; alegres.
+Wilson, meu lugar hoje é seu. Prossiga dando a meus pais o amor de filho que você sempre lhes deu. Oro por você, meu amigo e meu irmão! Abençoe a sua estrada de homem de bem, e sigamos com Jesus para a frente.
+Escrevo ainda com os sentimentos que eu trouxe. Depois progredirei para falar melhor.
+Meu pai querido, querida mãezinha, querida Axima e querido Wilson, vou terminar — mas terminar só no papel — porque prosseguiremos trocando ideias pelos fios do pensamento e do coração.
+Deixo a todos o carinho e a saudade, o reconhecimento e a esperança, com todo amor do
+
+---
+
+## 2 — Segunda mensagem de Jair Presente
+
+> Fartos elementos de identificação encontramos nesta mensagem em que a mediunidade de Francisco Cândido Xavier mais uma vez pontifica.
+> — Carlos, Irmã Elvira
+
+Oi Carlos,
+n
+pedi vez e obtive. Falar com vocês assim mesmo como sou! Vocês não me veem, mas nunca fui Jair Presente como agora, presente apenas presente, para um abraço no rancho.
+
+,
+e o Sérgio?
+Aquele negócio de Praia Azul no domingo, não deve meter medo de qualquer modo. O modo era aquele mesmo:
+, para não cair em
+; porque doente nunca fui e afogado não fiquei sendo.
+nisto aí se puderem.
+Eu fico na
+diferente; começar vida nova, observar e aprender. Ainda estou um tanto
+mas vou me
+, a fim de apanhar as verdades daqui. Vocês não me perguntem muita coisa ou mesmo nada.
+
+, agradeço o carinho que me deram; vocês leram as minhas palavras a meu pai, a minha mãe e a nossa querida Sueli.
+, mas vocês sabem, falar com professores não é conversar no grupinho; controlar tudo para não
+, foi o que fiz.
+Hoje pedi à tia Elvira
+(mamãe faz questão que fale na tia e madrinha) e tive permissão, escreva como julgar melhor, disse a
+, mas reclamou: cuidado. E concluiu: Jair, se você estivesse lá, e eles do Lado de Cá, você teria medo também.
+
+De fato nunca pensei que a morte fosse o que vi, tudo tão natural, vocês ocupados em me trazer ao corpo parado e eu a mover-me, escutando alguns
+gritando.
+Depois Carlos, foi uma vertigem como quando um sujeito assusta e
+. O resto já sabem; leram o que pude escrever, não pude fazer mais.
+Se vocês puderem e se tiverem gosto com isso, orem por mim.
+. A prece é um fio que esbarra na estação de destino, e a estação de destino agora sou eu. Se puderem, entrem na
+de emissores. Nada de lágrimas. Legal!
+É preciso viver e viver trabalhando. Agradeço a você, a Elenice
+e a Cida
+e a todos os corações amigos da família e da
+, presentes com os Presentes.
+Estou bem, melhorando, preciso ficar mais
+para trabalhar. Ainda estou muito
+e não posso ficar assim.
+
+aqui é muita; escola ao que ouço, não tem conta, mas no momento ainda tenho mais saudade de vocês, que vontade de renovação. Entretanto, preciso disso: renovação. Liguem comigo e ajudem-me. Ligação é para estas horas.
+Não sei quando poderei escrever novamente assim, eu mesmo com o aconchego do grupinho, mas vou esforçar para ficar em dia.
+Não quero pensar em
+pelo menos agora; desejo somente ser mais útil, refazer-me e ficar melhor, melhor para os outros a fim de ser melhor para mim.
+Vou terminar afirmando a vocês que para mim a morte
+; o negócio é viver mesmo, viver de olho vivo em nós mesmos para que nossa vida seja feliz. Não me levem a mal se escrevi hoje um tanto
+; Deus é Pai de nós todos e sabe que as palavras são
+e o coração está quente de carinho e gratidão a vocês e por vocês todos.
+Carlos, vocês ajudem meus pais e Sueli; preciso! Contem comigo para quando eu possa
+fazendo o bem, de que vou cogitar seriamente. Por agora é só e creiam que já é muito. Peço para que vivam felizes fazendo o melhor que possam.
+A vida está caminhando e o
+despeja
+e
+aqui todos os dias. Desejo a todos vocês muita saúde e alegria, paz e vida longa; cultivemos o amor, aquele bom amor que melhora a gente, sem complicar ninguém e queiram-me bem, que eu estou cada vez mais
+em vocês.
+
+pura. Boa noite. Um beijão pra vocês.
+.
+
+---
+
+## 2 — Segunda mensagem de Carlos Alberto
+
+> Novamente as revelações desconcertantes do Além. Detalhes aparentemente simples, fatos ocasionais do cotidiano e citações fartas são o cartão de visitas do jovem que se materializa aos pais nas palavras candentes de quem, despojado do corpo físico, não consegue fixar sua imagem na retina de nossos olhos.
+> — Vovó Deolinda
+
+Mãezinha Dirce, meu pai Severino, meus queridos, peço a Deus nos abençoe.
+Quem recebe socorro deve agradecer tão depressa quanto possível. É o que faço, rogando aos nossos Benfeitores para que concedam aos meus pais queridos e a todos os nossos a felicidade que me deram.
+Mãezinha querida, o primeiro laço de prisão que me libertou foi aquele do momento de sua comunicação telefônica com a minha querida vovó Deolinda.
+n
+Quando o seu coração e o dela se misturaram no fio com as mesmas alegrias e com as mesmas lágrimas, reconhecendo que eu não havia desaparecido, aquela emoção das duas funcionou em mim por mão bendita a desatar-me para a Vida.
+
+Achava-me livre daquela nuvem de pranto e de aflição que nos aguilhoava os pensamentos na mesma sombra. E daí em diante, desde as nossas conversações em casa até às surpresas na Faculdade,
+entre os companheiros e professores, a existência foi se modificando.
+Estou melhor, mais forte, experimentando novas forças e novas alegrias no coração. E agradeço. Agradeço aos queridos pais, à vovó Deolinda, à tia Amelinha, ao tio Olavo
+e a todos os corações inesquecíveis, tudo de bom que estou recebendo em tranquilidade e esperança. Agradeço ao tio Alberto e à tia Olga
+e a todos — todos os que me fazem sentir que a morte se fundiu na vida, como a neblina se dissipa diante do Sol.
+Agora compreendo que a sombra do corpo sem alma é assim quais o frio e a treva. Surgindo o calor e a claridade, frio e treva simplesmente não existem.
+Louvado seja Deus que nos arranca da dúvida para a certeza, da saudade para a esperança! Felizmente, as impressões últimas desapareceram e estou íntegro em minhas faculdades.
+Hoje, diante das lições que estou assimilando, reconheço que certas dificuldades orgânicas representam as lembranças derradeiras de desajustes que nós mesmos criamos em nós, em nosso corpo espiritual.
+Muitas vezes, cometemos determinadas faltas, prejudicando a nós próprios, regressamos à Espiritualidade com os traços desses gestos infelizes e retomamos o corpo no renascimento com as marcas dessas atitudes com que assinalamos as peças de nosso envoltório orgânico. É por isso que eu trazia a luta congênita que me impôs a desencarnação violenta.
+Felizmente, a provação terminou e tenho hoje os meus recursos perfeitos no cérebro com que renascera, carregando o ponto enfermiço que se exteriorizou por fim, constrangendo-me à partida súbita, e com as bênçãos da compreensão de que hoje me felicito com os sentimentos renovados da querida família, estou transformado para seguir adiante, buscando valores que ainda não tenho, a fim de ser-lhes mais útil.
+Vovó Pessoa ou vovó Zezé
+está comigo nestes momentos e agradece-lhes igualmente por mim.
+Mãezinha Dirce, sejamos felizes. Deus colocará em suas mãos e nas mãos de meu querido papai Severino tudo aquilo de que necessitamos para auxiliar àqueles que atravessam dificuldades e lutas maiores do que as nossas.
+Um novo Mundo se descortina aos meus olhos. Penso na Engenharia, cujos estudos espero rearticular; no entanto, com ela, reconheço presentemente que é necessário estudar a ciência do amor para que venhamos a praticá-la.
+Começo os meus exercícios nas aulas de casa. Primeiro, meus pais queridos, incluindo os meus queridos tio Olavo e tia Amelinha, por vovó Deolinda e por todos os nossos, mas já posso dizer que estou igualmente cooperando na paz e na alegria de nossa Regina, de nossa Míriam, de nosso Celso,
+e de outros companheiros da minha faixa de tempo, de vez que é preciso ajudar para sermos ajudados.
+Mãezinha Dirce e meu pai Severino, muito obrigado por havermos enxugado os olhos para fitar a Terra que não conhecíamos: a Terra dos que se arrastam em duros problemas da vida material, dos que choram sem esperança, dos que se perderam nas sombras do pessimismo, dos que experimentam abandono por moléstias que lhes carcomem as forças, dos que caminham a sós, rogando a Deus um lugar dentro da noite que lhes permita o repouso sem maior aflição…
+Deus de bondade, quantos ensinamentos é preciso que a morte nos aponte! Benditas sejam assim as nossas dores, porque todas elas, em nossa separação, funcionaram por medicamentos da alma, ensinando-nos a usar as fibras mais profundas do coração!
+Estou feliz, porque senti em todos os entes amados essa renovação que experimentei! Não é o adeus que a morte nos impõe e sim a luz da vida que ela nos descerra, ensinando-nos a ver — a ver por dentro de nós, com os olhos do coração.
+Temos aqui muitos amigos que nos prometem sustento e cooperação, apoio e auxílio constantes. Nosso amigo Augusto
+e nosso amigo Senhor Abreu
+me recomendam dizer às nossas irmãs Dona Yolanda e Dona Laura que eles se encontram aqui e agindo sempre para que as estradas do dia a dia se façam sempre mais claras.
+Vovó Bonfim,
+uma abnegada amiga e benfeitora devotada que vim a conhecer aqui com o meu avô Severino, abraça ao querido tio Olavo, de quem beijo as mãos na condição, não só de sobrinho, mas também de seu filho espiritual. Somos tantos neste recinto, mas, acima de tudo, todos me dizem: Tato, o maior de nós que está presente em nossos grupos de prece é Jesus, sempre Jesus, representado pelos Benfeitores que nos amparam e nos socorrem a vida. Que Jesus, assim nos abençoe e nos fortaleça.
+Paizinho Severino e mãezinha Dirce, mãezinha Amelinha e paizinho Olavo, façam por mim as lembranças e agradecimentos a todos os nossos. Meu afeto e meu reconhecimento a todos os caros amigos da FEI. O carinho que me dedicaram muito me enternece; entretanto, reconheço que nada sou ainda e não fiz o que devo fazer para merecer tantas bênçãos. Recebo, porém, tantas manifestações de bondade por empréstimo de recursos para o trabalho de hoje, a fim de resgatar amanhã os débitos que vou contraindo.
+Queridos meus, minha querida vovó Deolinda, recebam todo o meu amor e todo o meu reconhecimento. Rogo me perdoem as omissões. Queremos lembrar nomes nos lápis e marcar notas de gratidão pessoal; entretanto, ao escrevermos, as letras vão saindo do coração, sem que a memória, por vezes, consiga entrar naquilo que fazemos.
+Mãezinha Dirce e meu pai Severino, com todos os nossos, peço guardarem o meu carinho de todos os instantes. Que Deus nos conserve nas vibrações de fé e alegria a que fomos conduzidos pela bondade dos nossos amigos da Vida Espiritual, a fim de crescermos em esperança e amor, serviço e construção nos valores da alma, são os meus votos.
+Aos meus queridos, corações abençoados do meu coração, o abraço do filho, sempre reconhecido e cada vez mais filho e amigo nas bênçãos de Deus.
+(Tato)
+
+---
+
+## 2 — Segunda mensagem de Augusto Cezar
+
+> Eivada de revelações do total desconhecimento de Chico Xavier, temos a sensação nesta mensagem, como de resto nas outras todas, de que Augusto, acompanhando sua mãe no próprio lar e na intimidade de seus pensamentos, foi recolhendo as impressões recônditas, as preocupações e os anseios, para, através de Chico, pela psicografia, devolver-lhe ao coração materno as respostas correspondentes.
+> — Nossa Vila
+
+Querida mamãe, é a hora de começar a nossa conversa falando em Deus. Não se pode mudar uma entrada assim tão clara e tão boa. Repito: Deus nos proteja.
+Sou eu mesmo. Seu Augusto. Para servir só? Não. Para dizer que amo você, mãezinha, cada vez mais.
+Gostei de sua decisão.
+n
+Acabar com os impedimentos e aparecer por aqui, de modo a termos a ideia de que a gente melhora na comunicação. É só a ideia. Porque união mesmo é em qualquer lugar. Nossa Vila
+é aquele negócio de amizade e beleza. Todos irmanados, quase que pensando com uma cabeça só.
+Mas, hoje é um dia triste para quem coloca a imagem da morte na frente da vida. E tanta lágrima nessa fronteira que se exprime por passagem de um estado a outro, que fiquei contente de
+nesta sala para aquele abraço. É isso aí.
+Problemas não faltam. Perguntas sobram. E a saudade parece sete pontas de punhal retalhando a alma principalmente quando gritam aí por nós como se estivéssemos mortos e
+
+na Terra, sem recurso de alteração. Graças a Deus, não estamos nessa. A
+para nós é confiança e amor. Amor que não muda e confiança em que Deus é a base firme.
+Agradeço, mamãe, por tudo. Compreendo. Sei que o seu carinho queria e não queria a mensagem de hoje.
+Queria porque a falta que sentimos uns dos outros é uma espécie de doença crônica, sem tranquilizante que aguente. E ao mesmo tempo você não esperava por mim, porque desejava que as nossas amigas recolhessem palavras dos filhos que vieram também para cá, assim como acontece a tantos de nós.
+Temos, porém, aqui diversos companheiros. Uma
+de moços, como diria o Jair Presente,
+meu colega de incursão hidráulica. Entretanto, não sei se as mágoas do dia de hoje estão virando nuvens grossas de pensamentos amargos em torno da rapaziada. O certo é que fui considerado veterano para rasgar os obstáculos e dizer qualquer coisa. Por eles e por mim.
+O Cristiano e o Gabriel
+estão realmente aqui, lembrando pássaros ansiosos de pouso. Pouso no coração dos pais, que é sempre para nós um ninho de socorro infalível. Entretanto, não puderam reorganizar forças e enfileirar pensamentos para sustentar o lápis neste bailado das letras a que me vou habituando.
+Ainda assim, recomendam a este pobre estafeta da Vida Espiritual para transmitir-lhes as lembranças e os agradecimentos. Ambos sorriem e choram ao mesmo tempo. É aquela emoção de calouros da nova estrada, contentes por se verem na memória dos pais queridos e
+no regime de carência afetiva a que nos submetemos. Enfim, a situação é esta mesma.
+Ninguém pode alterar o inalterável. E, para transformar o que deve ser transformado, em coisas que fogem ao nosso
+, qual acontece com a vida e com a morte, só Deus consegue modificar o que consideramos como coisa necessitada de mudança.
+Querer estar aí com todos, a qualquer hora, e ligar pra vocês como quem toca telefones e campainhas, a gente quer mesmo. No entanto, é preciso esperar e esperar.
+Este
+parece fatalidade. É preciso nascer e é preciso morrer, é preciso lutar por melhoria e é preciso melhorar sempre. Sequência de imposições benéficas que a pessoa agradece porque não há saída melhor para estes assuntos e casos de evolução.
+Mas não se impressionem com isto. Não. Continuem auxiliando a gente com o pensamento de paz e amor. Isso é importante. Qualquer cara por aqui tem necessidade disso.
+Não é fácil esquecer o que ficou pra trás. Somos alunos felizes porque nos achamos resignados e contentes na escola da vida diferente a que fomos trazidos; contudo, somos ainda presos, muito presos ao carinho de vocês. Falo aqui, mãezinha, a todos os presentes.
+A indesejada
+vai chegando e ataca de gigante, colhendo pessoas aqui e ali, deitando-as e levantando-as ao mesmo tempo. A gente entra à força na ideia de que está fazendo
+. É aquele clamor de arrasar igualmente a qualquer um. Depois dessa operação obrigatória em que a criatura é deslocada em definitivo de seu próprio encaixe, começa a luta maior pela adaptação.
+Vocês aí, fazendo força para nos reencontrar e nós daqui arrebentando energia para dar pra vocês a certeza de que ninguém morre… Mas tudo deve estar certo. Eu não posso andar invocado com problemas que não são para mim. Falo em saudade, falem outros com explicações. Dou, porém, uma voz à saudade e com ela peço a coragem de que não devemos estar desligados a fim de vencer a
+de nossas indagações molhadas de lágrimas e prosseguir pra frente,
+no melhor por fazer.
+Você, mãezinha, leve a meu pai o carinho de sempre e fique animada. Corpo terrestre é máquina de costura em mãos do alfaiate, enxada nos braços do lavrador. Qualquer coisa de precioso que se deve conservar. A senhora tem que
+por muito tempo ainda e, por isso, deve dar uma
+na saúde física a fim de sabermos qual é o melhor remédio para a
+no equilíbrio das forças.
+É preciso (outra vez o “é preciso”) viver a vida tanto quanto seja possível na Terra para que se retire o máximo da escola do mundo. Às vezes encontro você matutando coisas. Será? Não será? Tenho ainda muito tempo no mundo? O seu pensamento me busca longe e eu fico mais perto de você para auxiliar as suas ideias no reajuste. Viver sim, mãezinha, e viver feliz como o
+recomenda.
+Otília, Zuca,
+Marli e a meninada estão chamando… Papai é nosso, um gigante de trabalho e de bondade, a pedir sempre mais atividade para ser mais útil. E nós não podemos
+do desânimo. Com os nossos de casa, temos nossos amigos e eles todos formam hoje uma família só em nosso favor.
+Sigamos pro Alto, que pro Alto é que a gente
+com segurança. Mas isso tem que ser devagar. Pouco a pouco. A subida será por deveres cumpridos e por bênçãos do amor ao próximo. O melhor negócio é trabalhar com todos os necessitados do caminho por sócios ativos em nossos dividendos, por menores que sejam.
+Mãezinha, hoje é um dia de aniversário geral. Todos lembrados nos dois Planos da vida. Muito grato por sua presença com os nossos laços do coração nas preces de hoje. Convertam vocês aí as flores das homenagens em apoio aos que sofrem mais que nós mesmos. Teremos três benefícios juntos: pouparemos as flores em seus ninhos de origem, cooperaremos em favor de irmãos matriculados na penúria inesperada e prestaremos serviço a nós mesmos. Porque, como se vê na prece famosa — “é dando que se recebe”.
+Mãezinha, continuemos dando ao papai todo aquele apoio. Diga a ele que não estou ausente. Cada vez mais em casa para melhorar-me aprendendo amor e dedicação com vocês todos.
+Agora, é aquele beijo do filho reconhecido. A carta pronta, as datas lembradas, aniversários em dia
+e avisos colocados entre nós para dizer que não há sinal vermelho nas estradas de nossa fé. Agora é me
+para outras tarefas. Não para outras
+, que não as tenho maiores do que a nossa.
+Deixamos, companheiros e eu, muito carinho e muitas lembranças para os amigos presentes.
+Quanto a nós dois, querida mamãe, é aquele mundo de flores do coração que entrego em seus braços. Flores de ternura e de gratidão. Desculpe seu filho pela pobreza. Tudo o que tenho de melhor é o seu amor e o amor dos nossos.
+Com esse amor peço aceite o seu rapaz que você criou com tantos mimos e que não aprendeu a criar mimo algum para o seu carinho. Mas sei que você, querida mamãe, não quer tanto o que eu lhe pudesse trazer com as mãos repletas e sim espera o amor, acima de tudo o nosso amor, que trago nas mãos vazias. São vazias? Nós dois sabemos que não. Essas mãos, as mãos que Deus me concedeu, me trazem para o seu coração.
+Sim, sou eu mesmo. Abrace-me. Estou com muitas saudades, embora sem desespero. Quero você, mãezinha, estar com você e com meu pai, e dar-lhes a certeza de que estou vivo.
+Recebam todo o meu agradecimento em meu amor inalterável. E abençoe seu filho, sempre mais seu. E tudo de mais belo que espero sempre é a sua bênção.
+Com todo o meu coração, entrego a você, mamãe, aquele abração do seu, sempre seu,
+
+---
+
+## 3 — Terceira mensagem de Wady Abrahão Filho
+
+> Voltado à preocupação de restituir o equilíbrio e a paz ao lar querido, aqui ainda vemos as palavras do Wadyzinho dirigidas ao consenso familiar. Nomes já nos são conhecidos, não havendo necessidade de maior identificação das personalidades envolvidas neste diálogo mediúnico.
+> — Às vezes é preciso que amigos espirituais me procurem para buscá-lo
+
+Queridos papai e mamãe, queridos irmãos Axima e Wilson. De pensamento em preces de gratidão a Jesus, estou aqui.
+Aniversário de queda comemorado em levantamento: Graças a Deus, não há motivo para lamentação. Estou mais vivo do que naquele outro 6 de julho que já passou. E começo esta carta lembrando, acima deste aniversário, aquele outro de paz e amor — o aniversário da querida mãezinha que foi ontem e que será sempre.
+Querida mamãe, seu carinho perguntou naquela nossa primeira noite de renovação por que tanta alegria na véspera e tanta tristeza depois. Agora, é preciso sorrirmos todos e concluir que não havia razão para a dor.
+Nossas flores de ternura e gratidão ao seu devotamento estão mais vivas. Quantos cravos e quantas rosas pude trazer ontem e hoje. São tantos, querida mãezinha, que eu mesmo não sei contar. São colhidos no jardim de Cristo e foram adubados com amor e orvalhados de lágrimas. Aquelas boas lágrimas de saudade que nos iluminam, porque nos aproximam de Deus.
+Venho pedir a todos os meus a continuação do auxílio em apoio de conformação e de paz. Nesse sentido, meu querido papai, não só em meu nome, mas em nome do vovô Abrahão rogo a sua serenidade e paciência.
+Papai, auxilie o seu Wadyzinho. Afinal, o seu coração é meu apoio de sempre. Como seguir adiante sem cobertura espiritual? Quando a saudade aumentar, procure o meu resto na face dos rapazes cansados e quase sozinhos em luta pela construção do futuro melhor. Vá, papai, ao Colégio, ao grupo de nossos amigos, à casa de nossas crianças de Jesus e da nossa benfeitora Irmã Albertina, mas não somente passeie. Detenha-se, papai, ao ouvir os rapazinhos que precisam de um amigo e de um benfeitor paternal.
+Agradeço as suas preces e as suas visitas ao cemitério. Afinal, temos ali um recinto de silêncio e meditação, mas não se demore tanto, meu paizinho, naquelas pedras respeitáveis mas frias. Às vezes é preciso que Amigos Espirituais me procurem para buscá-lo. Ouço as suas palavras e perguntas, pedidos e reclamações. Mas providencio logo aquele abraço e aquele beijo para faze-lo voltar à casa.
+Não pode imaginar quanto dói em seu filho aquelas horas terríveis em que ficamos lutando mentalmente um com o outro. O senhor a sofrer e atormentar-se e eu a tentar consolá-lo sem conseguir.
+Lembre-se, papai. Seu filho amou a imortalidade e a fé no Cristo enquanto aí esteve. Levantei-me da morte com a ânsia de trabalhar com Cristo e pelo Cristo no exemplo que o senhor e mamãe sempre me deram. Ajude-me agora a destruir o coreto da morte e não apenas a balançá-lo.
+Tantos
+na terra a pregar negação e nós a confirmarmos o que eles dizem? Não se alarme se digo
+. Não quero ofender a ninguém. No Colégio prometemo-nos uns aos outros, especialmente o amigão e eu, a usar o mesmo idioma dos nossos dias para melhorar a comunicação. E o serviço não é de
+. Tantos companheiros esbanjões de cultura fugindo à verdade e tanta gente a morrer de fome espiritual!…
+Sei que tanto
+e
+,
+e
+, somos todos irmãos em Deus. Quem não crê em Cristo vai crer. Já sei. Não posso me iludir, quanto a isto. Entretanto, a nossa corrente aqui prossegue firme. Temos de trabalhar em renovação. Somos muitos. Muitos irmãos unidos, qual acontecia com o Cláudio e seu filho, para levarmos adiante a nossa campanha.
+As trevas são quadrilhas de irmãos que fogem do Cristo. Não temos laços para tolher-lhes os movimentos, porque Deus nos fez livres. Mas temos a luz do conhecimento para distribuir.
+Não fique parado nas pedras, não, papai querido. Liguemos pensamento e coração no melhor a fazer. Procuremos sair de nós mesmos. Nosso caro Wilson está entrando agora em mediunidade. Está ajudando e sendo ajudado. Mostra-se espiritualmente e vê em espírito caminhos novos. Papai querido, comunique-se também no grupo dos médiuns, com a experiência de nossa irmã Guiomar na frente dos assuntos.
+Agradeço a alegria que me deu. Barbeou-se para o nosso encontro através do lápis e da oração. Seu rosto demonstra o seu revigoramento da alma. Continuemos aniversário sempre. Esqueçamos a morte para fixar-nos na vida. É preciso embarcar no rio da vida. Acontecer, papai, é participar. Viver é conviver. Tenha paciência e creia.
+Quanto mais conformação, mais ligação. Quanto mais entendimento, mais alegria. Ajude mamãe e Axima, Wilson e os nossos com a sua serenidade. Amamos tanto a você, papai querido, que é impossível ficarmos felizes sem a sua felicidade.
+Axima está esperando gente nova. Sou tão pequeno ainda aqui que não posso e nem devo entrar neste assunto, mas precisamos ajudar a irmãzinha a ficar tranquila. Peço a Deus para que a nossa festa de paz e amor em casa seja completa. Axima, não tema. Estamos com Jesus e Jesus não nos abandona. Descanse com algum exercício nos movimentos regulares. E com a oração e com tratamento dos passes, a assistência médica funcionará com segurança.
+Mãezinha e papai, estejamos alegres e tranquilos. Vejam Axima e Wilson conosco. Dois gigantes de carinho que nos trazem nos braços. Mãezinha, desculpe o papai, quando o papai se mostre aflito e agoniado. É saudade, mamãe, e saudade é doença, enquanto não a entregamos total no Amor Infinito de Deus. Eu também chorei, mas agora é esperança que cultivo em tudo.
+Lembranças ao grupo do Colégio e muito amor à nossa Mocidade na luz do Perseverança.
+Agradeço o fato de terem analisado o que eu disse. Também ainda estudo e vivo procurando conhecimento e progresso.
+Mais uma vez muito carinho e gratidão pela festa de aniversário. Recebi tudo o que vocês leram com minhas pobres mãos. Quereria escrever mais, entretanto, é necessário respeitar as limitações.
+Papai querido e querida mamãe, queridos irmãos Axima e Wilson, com as bênçãos de vovô Abrahão e da tia Sara que vieram comigo, peço receberem o coração todo o coração daquele que sendo filho e irmão está sempre em casa, tanto quanto possível, rogando ao Cristo nos proteja e nos abençoe.
+
+---
+
+## 3 — Terceira mensagem de Jair Presente
+
+> Aqui os nomes citados já nos são familiares. Há que se acrescentar o Wilson e conexos, mencionados no início da mensagem.
+> — Jamegão
+
+Oi, Gente! Vocês aí, vocês mesmo,
+nos bancos. Papai, minha mãe, Sueli, Carlos, Sérgio, Wilson e conexos.
+Não coloquem a imagem desta mensagem no
+de ensinar; isso é conversa de casa, fora da prensa de imprensa. Se eu não garanto já a
+
+n
+aqui deste modo, vocês estarão aí de
+e de espírito
+.
+É duro isto, mas não fiquem matutando,
+
+na ideia de que vou continuar assim; gíria não dá para nós, os que varamos o rio da mudança. Pedi favor para escrever assim, só para mostrar pra vocês que estou vivo, vivinho mesmo.
+E quero dizer a meu pai que não fique de pensamento
+nas águas;
+se
+foi para nadar melhor. Fico
+quando meu pai começa a embarafustar na lembrança de Praia Azul.
+Papai tenha paciência. Voltei como vim. Não sabemos como é isso, não. Vamos deixar isso pra lá. Deus sabe tudo e em nossa
+cabe somente alguma coisa.
+Estou bem, estou melhorando, mas vou
+de palavras giradas. Já saí da
+,
+começo a compreender que preciso educar meus impulsos.
+Educar impulsos é qualquer coisa de progresso. Não me lembro de haver dito isso, apesar dos
+que andei consultando. Isso quer dizer que já não me vejo com
+que largam os deveres de mão para
+e
+Vocês aí!… Carlos, que tu
+pensando? Não fique parado, não, depois de saber que o negócio não termina ali no meio das estátuas.
+
+Olhe rapaz, os dias vão correndo… Quando puder acompanhe minha mãe para
+no serviço do bem.
+Aqueles
+nas panelas de sopa estão certos e os
+que somos nós, quando longe deles, é que ficamos nas risadas do
+. Trabalhar, meu amigo, trabalhar pelos outros.
+Sempre acreditei que mendicância seria preguiça,
+, mas o problema é diferente.
+Se temos de mudar qualquer coisa, temos de começar mudando a nós mesmos. E só existe uma transformação que vale a pena: ajudar os que precisam mais do que nós para que larguem de precisar.
+Você e Sérgio, venham também. Wilson anda arrepiado num medo
+,
+mas já veio. Está
+sem passar por cima da verdade. O moço está querendo mesmo
+diferente. Muitas vezes ele me sente perfeitinho junto dele, mas e a paúra? Ele diz que deseja me ver, mas se eu
+mesmo diante de vocês, já sei que sairão
+por aí. Não conte com isso, não. Essa de parecer fantasma
+mesmo.
+Só aqueles
+com casa e comida é que ficam aí, às vezes, até procurando esquecer tudo com umas e outras. Mas vocês já sabem.
+.
+Gostamos da vida e fomos irmãos de alegria e de esperança; no entanto, nada sabemos de
+com essa ou aquela
+. Fomos e somos rapazes decentes e porque largamos cabelos nas caras para não ficarmos
+, isso não é motivo para sermos Espíritos adoidados, querendo o que não se deve querer.
+Wilson, tu
+
+a toa. Não pense que tudo aqui seja concedido de
+.
+acabou. Mentira não vale. Toda conquista pede tempo e suor, creio que mais suor do que tempo.
+Mediunidade é transmissão.
+certa? Creio que sim, embora não tenha as palavras para explicar. Vocês agora aí tão interessados em comunicação, saibam disto: cada um dá o que tem. Isto pode ser de coisa passada, mas é muito válido.
+A gente aproxima do médium e quer falar, e aí temos de
+o assunto, porque só falamos em dupla;
+o médium quando não tem muito exercício nos passa pra trás e fala na frente.
+Vocês ficam
+e esquecem a faixa em que nos achamos. Por isso, Wilson, é que nestes casos que hoje vemos é melhor que a
+não fique
+.
+
+É hora do coração conversar. Não quero que você esteja santo, mas também não desejo que você fique esperto demais. Nem
+, nem
+. Fique você mesmo e observe que a
+do problema é auxiliar outros para sermos auxiliados.
+Hoje vivo partindo para essas novas atitudes que me façam mais útil. Viver bem para encontrar o bem e ser melhor.
+Se a gente morresse mesmo, era só seguir entre a preguiça e a rede; no entanto, a morte é uma passagem que parece aquela porta dos contos de fadas. Vocês abraçam a gente movimentando gritos e lágrimas e o
+não consegue falar
+. Estamos
+que não se vê, mas posso dizer que é uma bruxa inofensiva, porque nem a vemos de leve. A morte chega e decerto bate aquela varinha em nossa cabeça; a gente dorme, acorda com vocês chamando e chamando, e aos poucos saímos do barro ou da pedra. O negócio é isso.
+Quero que vocês todos fiquem aí até que o
+; peço a Deus que todos se arrastem de velhos, mas eu não sei se isso vai acontecer. De qualquer modo preparem-se para vir algum dia. E saibam que só temos aqui o que damos e só sabemos o que colocamos por dentro de nós.
+Em negócio de
+, fiquem
+para pensar melhor. Não brinquem com fogo, que o fogo nesse assunto queima muito mais do Lado de Cá.
+O que vocês prometem cumpram.
+E o que fizerem no campo dos tratos saibam tratar, porque o amor é uma luz que não aparece em querosene de
+de
+.
+Estão abrindo a boca perto de mim, creio que os amigos estão cansados. Já escrevi muito. E se continuasse, o papel necessário, não está apontado no
+. Vocês não se impressionem com o que digo. Vivam corretos e
+certos. Não
+para ensinar porque não sou santo. Desculpem.
+Mamãe e papai, concedam aí uma bênção ao filho agradecido.
+Sueli, acertemos tudo no coração para fazer o bem. Vocês, meus
+, não fiquem rindo, não.
+Coloquemos a
+para
+e busquemos o que estiver certo; Carlos, Sérgio, Wilson e nossa amiga, favoreçam este Espírito de rapaz supostamente afogado com os pensamentos bons, com o que puderem dar aí para mim; vou melhorar, estou caminhando e caminhando para frente.
+Hoje, escrevi
+, mas voltarei com siso e juízo. Não posso empregar palavras mais fortes neste tchau e é preciso acabar esta carta antes da
+.
+Recebam o maior abraço da
+. Falei mas não sei se disse.
+
+---
+
+## 3 — Terceira mensagem de Augusto Cezar
+
+> A terça-feira de carnaval traz a D. Yolanda um turbilhão de reminiscências, ligadas à trágica morte de seu filho.
+
+Obrigado, mamãe. Seu filho está igualmente em prece por sua felicidade.
+A saudade agora é uma oração de esperança. E a esperança é um caminho de amor. Ao trilhar essa estrada bendita de reencontro, você me aparece constantemente em tudo o que vejo de mais belo.
+Melodias que me alcançam lembram suas cantigas de embalar e flores que afago trazem à memória o seu carinho.
+No regaço das mães que contemplamos, à cabeceira dos filhos, sinto de novo o calor de sua ternura e nas crianças que nos sorriem revejo o meu próprio retrato, quando chegava em casa, depois da fuga para os brinquedos, e você me abraçava, perguntando aflita e surpreendida: — “Onde estava você, meu filho?”
+Tanta inquietação pela ausência de minutos como que nos contava alguma coisa da separação que viria depois e das nuvens de saudade em que tatearíamos, chorando, na busca incessante de um coração para o outro. Deus, porém, já dissipou todas as sombras e as nossas lágrimas assemelham-se hoje ao orvalho do amanhecer. Tudo é luz, confiança, alegria e trabalho anunciando vida nova.
+Neste dia diferente em que nos encontramos, de alma para alma, tenho a impressão de ver a Terra, como sendo imenso jardim, onde todas as mães brilham, quais estrelas que ofuscassem o próprio Sol. Vejo-as todas. Todas são mensageiras do Céu clareando o mundo.
+Volto-me, no entanto, para o seu colo, imagino-me novamente criança e olhando para o Alto, em minha oração de jubiloso agradecimento, digo sem palavras, com todas as forças do coração: — “Meu Deus, de todas as mães, na Terra, aquela que me deste é, com certeza, a mais linda!”
+
+---
+
+## 4 — Quarta mensagem de Wady Abrahão Filho
+
+> Página de transição entre as três anteriores, mais carregadas de apresentações e identificações a caracterizarem a autoria espiritual do jovem, e as três seguintes, onde, sobre os colóquios familiares, se fixam ensinamentos e exposições evangélicas.
+
+Queridos papai e mamãe, queridos Wilson e Axima, Deus nos conceda a sua bênção.
+Apenas um bilhete. Umas palavras do coração. Ou será longa carta? Prossigamos na caminhada. Construindo. Fazendo o melhor ao nosso alcance. Não há empecilhos para as boas obras, quando elegemos as boas obras como sendo o nosso clima de lições.
+Aqui, não paramos. O tempo está repleto. Atividade plena. Tarefas e deveres a cumprir em auxílio aos outros são alimentos para cada um de nós. “Meu alimento é fazer a vontade do Pai” — disse-nos Jesus.
+Depois de descer do carro do corpo, nas estradas da Vida Espiritual é que entendemos isso.
+Desde o abençoado dia em que vocês perceberam que eu continuava existindo, tenho mais segurança.
+Estou grato a todos, conquanto ainda preocupado por meu pai querido, cujas tristezas repentinas ainda me alcançam. Sei que alguns centímetros de conformação para ele são muito mais difíceis que muitos quilômetros de serenidade para nós. A morte colheu papai com muito mais força do que a mim que sou o morto desta história de nosso intercâmbio entre dois mundos.
+Papai, mais um passo à frente. Adiante, Axima e Wilson já estão na condição de enfermeiros do espírito, doando energias nos passes de socorro aos necessitados e doentes, como quem cede o próprio sangue para as transfusões nos hospitais.
+Troque a dor por esperança. E todo o tempo que tivermos a nosso favor, façamos dele a moeda do amor com que se compra a felicidade. A felicidade, papai, é dar felicidade aos outros. Sei que o senhor e mamãe fazem tudo por nós, no entanto peço-lhes mais. Ajude-me, ficando robustecido na fé.
+Entendemos a importância de suas doações em socorro dos nossos irmãos do caminho. O dinheiro da beneficência circula no câmbio da paz espiritual. Muito mérito, papai, o seu mérito, mas dê também a sua presença e palavra.
+Coloque uma criança enferma nos seus braços como fazia com seu filho. Imagine-me naqueles que visitar, levando a sua palavra de reconforto e sigamos, papai, movendo as nossas mãos para auxiliar outras mãos.
+Mamãe, continuemos. O trabalho com Jesus é o que vemos, não só o que sentimos. O serviço do amor nos reformará todas as forças e seremos mais felizes. As oportunidades do Cristo são portas abertas. E abertas constantemente.
+Axima e Wilson, não se entristeçam se a vinda do filhinho foi adiada. Foi melhor assim. Rogo à querida irmã para que não deixe a saudade doer tanto no coração.
+Estou vivo, sempre mais vivo e, graças a Deus, trabalhando mais. Estamos na condição de trabalhadores de Jesus, nos dois lados da existência na Terra.
+Os homens cavam daí para cá e nós, os Espíritos desencarnados que procuramos o apoio e a inspiração do Cristo, cavamos daqui no rumo de vocês.
+O túnel luminoso está sendo construído. Um dia, a verdade da vida imperecível será a luz de nosso encontro sem despedida, porque, onde estivermos para cá da morte ou para além do berço terrestre, tudo será vitória do amor para sempre.
+Tenho o cérebro repleto de ideias e felizmente não tenho os braços desocupados. Agradeço a irmã Guiomar e aos Benfeitores da nossa casa de fraternidade e bênçãos o ensejo de trabalhar mais que nos foi concedido.
+Mãezinha, receba as flores de meu afeto; papai, guarde a confiança em seu filho; Wilson, conte sempre com o meu abraço de irmão; querida Axima, deponho em sua fronte o meu beijo fraterno, agradecendo as suas preces em meu favor.
+Continuem ligados na prece. A oração é a chama que não se apaga ante as ventanias do mundo, porque brilha na alma, nas entranhas de nosso próprio ser.
+E trabalhemos que o serviço é o melhor lugar para receber; sem qualquer extravio, as respostas e as concessões de Jesus.
+Queridos meus, papai e mamãe, Axima e Wilson, amigos todos de quem sou devedor, a todos o meu agradecimento.
+E recebam, amados meus, o meu tchau em forma de abraço, com todas as alegrias e esperanças do filho reconhecido e do irmão sempre grato,
+
+---
+
+## 4 — Quarta mensagem de Jair Presente
+
+> Mais familiarizado com o relacionamento mediúnico, através da psicografia, quase 10 meses após sua desencarnação, nesta mensagem encontramos o Jair em toda a pujança de sua comunicação, manejando  como o fazia em vida  as palavras e expressões de gíria com bastante facilidade.
+> — Sueli, você tá esperando papo firme E o manoca está no estudo Vidrado nos livros
+
+Oi, Sueli, meu papai e mamãe, Gema
+n
+de lado, a nossa querida Gema de nossa amizade.
+Sueli, você
+esperando
+firme. E o
+
+está no estudo.
+nos livros.
+nas observações.
+É preciso
+de vocês aí,
+e seguir pra frente. Não é
+abraçar tarefas tão duras. Mas
+forte mesmo.
+. Porque não vivo aqui de peixinho. Estou fazendo vida nova no
+.
+Sei que você e
+lá no grupo esperam mensagens. E mensagens em bossa nova, em conversa bem animada, mas a vida aqui não é o que se pensa, nem o que se diz. É como é.
+A pessoa é obrigada a dar a si mesma em proveito dos outros, porque os outros todos fazem o mesmo. E devo estar super-incrementado para não cair em preguiça. Trouxe para cá unicamente o coração de rapaz que não tem muita chance para retomar o passado.
+Muitos se levantam aqui lembrando e refazendo conhecimentos, mas, pelo menos agora
+. Lutando muito para
+a mim mesmo que devo estudar e renovar minha própria vida. Por aí, tudo era
+. Tudo no livro do
+e na lista do
+.
+
+Aqui, fazer e comprar é com a gente mesmo. A pessoa tem o que vale para o próximo. Por isso é que tenho
+de agir e servir. Vocês não se enganem. Exercício de caridade para recebermos caridade, onde estou e para onde vocês virão.
+Ninguém precisa assustar porque não
+alguma. Penso em
+para não perdermos tempo. Fui eu mesmo quem escreveu a mensagem com o pessoal do Grameiro.
+Não me
+porque não estava certo se conseguiria pôr o lápis ou a palavra pra
+fazendo o bem.
+Estou trabalhando. Dando duro se quiser ficar mais perto de vocês. Que há muita gente por aqui apenas procurando sacudir a carola, não tenham dúvida. É muita
+. Se fosse pessoa de força religiosa, diria, muita gente anti-Cristo.
+Vocês, porém, vivam certos de que não posso
+em que vocês me puseram com tanta oração e com tantas palavras boas. Não posso fugir do que presta e por isso vou indo no
+da vida nova. Conhecer para fazer e fazer o melhor para chegar ao bem que é a luz de Deus.
+Ainda preciso de vocês. A gente aqui continua ligado com quem se liga conosco. E precisamos do apoio daqueles em cujo amor estamos crentes. Continuar e continuar para estarmos firmes. Mesmo aqui, interrompo o que digo para cumprir ordens. Isso é bom para mim; porque meu curso agora é outro.
+Amigos pedem para dizer que presentes conosco temos duas pessoas cuja palavra devo encaminhar com respeito. Duas pessoas de recado em regime de urgência. Um deles é um amigo de nome Aníbal
+que pede ao pai tolerância e desculpa pela ocorrência em que foi vencido, pela própria insuficiência de forças. Abriu o portão do lado de vocês e veio para cá em dificuldade. Mas o entendimento paterno e as desculpas da família são para ele bênçãos de paz.
+E outro aviso é de uma irmã que roga à irmã Lídia,
+oração e tranquilidade, abençoando a amiga que voltou para cá nas condições a que nos referimos. Naturalmente que a irmã do nosso lado sofre ao pensar que a companheira possa imitar o gesto em que se fez mais doente. Ela agora pede sossego e bênção e a nossa irmã presente pode auxiliá-la procurando fortalecê-la com a sua paciência tocada de fé em Deus. A morte procurada encontra problemas fortes. A pessoa busca esquecimento e ganha memória, mas memória doente, porque a lembrança se transforma em aflição por não conseguir consertar de pronto o que ficou na incerteza.
+Não sei se transmiti os recados de que me incumbiram. Entretanto, Sueli, nossos amigos aqui me falam que mensagem deve ter mensagem por dentro. E esses comunicados precisam chegar ao destino. Por hoje é parar no ponto justo. Não posso escrever tanto papel só para dizer que o trabalho é nosso.
+Abracem nossos amigos por mim. Aqui somos um
+. A
+, porém, está iluminada com a fé em Deus e decidida a servir para aprender realmente a servir. O Wady amigo é também figura de prol. E temos outros. Estamos fazendo um grupinho novo, com a tarefa de nos unirmos para Cristo, buscando, assim, o bem para nós mesmos.
+Continuo pedindo preces. Sabem vocês que no campo de luta precisamos da torcida. Um pouco mais de bom ânimo para nós. Lembrem-nos para trabalhar. Chamem-nos se isso for possível. O negócio aqui é diferente. Na Terra pedimos trabalho para ganhar, aqui rogamos trabalho como sendo salário.
+Vocês, aí! Preparem-se porque vão encontrar os mesmos programas, embora deva saber de minha parte que muitos de vocês já cooperam com Jesus de modo silencioso.
+Ajudem-me para que me livre de mim para pertencer realmente a Jesus.
+Meu pai, mamãe e querida Sueli, adeus por hoje. O pessoal aqui saberá perdoar o moço inexperiente que ainda sou.
+Muito grato a todos. Tchau para cada um com aquele abraço. E escrevo aqui o ponto final, meio
+e meio
+comigo mesmo, pedindo desculpas se não comuniquei meus pensamentos
+como desejava e realmente sem saber se falei.
+
+---
+
+## 4 — Quarta mensagem de Augusto Cezar
+
+> “Paquerei o mundo, procurando o ouro do céu…”
+
+
+o mundo, procurando o ouro do Céu. E caminhei
+maravilhas.
+Achei meu pai, o amigão que me pôs pra
+.
+Guardei pra mim uma gente
+chamada família e
+.
+
+amizades que me colocaram nas
+e me ensinaram a
+Peguei uma
+e gastei
+uma
+.
+Adorei máquinas lindas e ouvi
+geniais quase
+da
+.
+Aprendi a sair bem de
+e
+, de
+
+n
+e
+.
+
+, na
+.
+Mas quando o
+pra cima de mim,
+o meu corpo num tremendo
+de praia, é que achei o tesouro do Céu que em procurava: — O coração de minha mãe, porque o coração de minha mãe é um pedaço de Deus.
+
+---
+
+## 5 — Quinta mensagem de Wady Abrahão Filho
+
+> Como dissemos no capítulo anterior, a partir desta mensagem o Wadyzinho deslancha em ponderações doutrinárias, trazendo-nos a palavra segura, fortalecida pela ampliação dos horizontes espirituais, em consequência à sua desencarnação. De suas várias palestras aos jovens, quando entre nós, poucas permaneceram gravadas, mas no fim destes comentários reproduziremos uma dessas gravações, para que o leitor observe a essência de suas preocupações  a pregação do Evangelho do Cristo.
+> — Ao companheiro querido, hoje no São Judas, o meu coração reconhecido
+
+É isso. Estudando os problemas do sexo nos encontramos. Cremos que unicamente os enfermos são excluídos. O quadro envolve a todos. Nós todos.
+Achamo-nos aqui e com todo amor saúdo a meus queridos pais, e aos irmãos. Se pudesse, enfileirava os nomes numa lista em que a limitação desaparecesse. Entretanto, é preciso espalhar o coração e prestigiar o tempo.
+Papai e mamãe, pedimos a Deus pela paz de nossa casa. Paz que nasça do coração. Essa paz com Jesus é semelhante à fonte. A corrente surge limpa e harmoniosa, mas depois aparecem as dificuldades; a visitação dos insetos e o assalto de animais grandes; a intromissão da terra e as mil surpresas desagradáveis que alteram o curso da água. Contudo, é possível a filtragem do líquido e mante-lo com a pureza das horas iniciais. A filtragem no caso da tranquilidade mais nossa há de ser feita no espírito de sacrifício, uns pelos outros. Renúncia que se defina em atos mesmo diminutos, em que a alegria dos que nos cercam se garanta através da nossa disposição de nos aplicarmos a Cristo, Nosso Senhor.
+Pai, meu querido papai, ajude-nos com a sua calma e paciência. Sabemos: do coração paterno surge a segurança do lar. Paternidade é proteção e bênção. Não se aflija, querido papai. Felizmente, vamos superando os problemas. Tudo vai sendo facilitado, compreendido, vivido e aproveitado com a bênção de Jesus, entre nós. Agora, papai, rogo-lhe, como sempre, o apoio de seu carinho para que o seu carinho seja paz de nós todos.
+Mãezinha precisa de sua proteção especial nesse sentido e os nossos queridos Wilson e Axima necessitam desse amparo de modo que a nossa paz se processe na base do trabalho que necessitamos desenvolver. E o trabalho, querido papai, é isso aí: luta abençoada em todos os dias pela vitória do bem. Do bem de todos que em seguida se transforma em nosso próprio bem.
+Aqui, somos muitos. Vários companheiros anseiam falar. É como se tivesse um telefone nas mãos, expressando-me por muitos usuários dele que ainda não conseguem manejá-lo. Isso, porém, acontece, não porque eu seja melhor e sim porque o amor nos obriga à ginástica em que me vejo desde quando escrevi pela primeira vez, pela mediunidade. Alivio saudades e cumpro ordens.
+O tema da manhã é sexo e amor. E nessa dupla se agiganta hoje no mundo uma guerra que congrega conflitos terríveis. Peçamos a Deus nos auxilie a vencer as sombras que obscurecem os problemas em nós e conosco. Tudo quanto pudermos fazer para que o sexo não nos atormente é obrigação. E o amor nos solicita provas de entendimento e abnegação todos os dias.
+Realmente, o casamento, a nosso ver, não é apenas a união de duas pessoas, atendendo aos mais nobres fins na experiência Terrestre. Matrimônio é também a conjugação de nossas energias com as luzes das causas nobres que abraçamos. Em suma, estamos todos casados com a Obra de Cristo.
+
+Fidelidade e trabalho constituem as margens da estrada em que nos cabe seguir à frente. Enlacemo-nos todos na condição de irmãos em família, nascidos dessa bendita união entre Jesus e aqueles outros amigos que o aceitaram em suas próprias vidas, tutelando-nos por filhos das tarefas abençoadas de que se encarregaram.
+Quanto ao estudo do sexo, propriamente considerado, tenhamos bastante força para homenagear o amor na sua mais bela expressão, sublimando as forças que talvez estejamos inclinados a utilizar, fora dos compromissos naturais, convertendo essas forças em bênçãos de serviço aos semelhantes.
+Nos exercícios de resistência espiritual, à frente do assunto, quando mais jovens aí no mundo recorremos especialmente aos esportes — é o remo, o salto, a bola, a competição digna que, de certo modo, nos exaure as energias, que provavelmente, sem isso, seriam canalizadas para recursos menos felizes.
+Entretanto, em nosso caso de Evangelho e experiência humana, respeitando o sexo, em sua elevada expressão de vida e estímulo ao trabalho, luz espiritual e entendimento, ser-nos-á possível empregar o excesso de vitalidade que, porventura, nos sobre no esporte da beneficência e da educação.
+Nas canchas da Terra, o suor das partidas amistosas e construtivas e nos campos da alma, os testemunhos sacrifício e caridade, de compreensão e serviço ao próximo representam caminhos de sublimação que nos compete trilhar, em nosso próprio favor.
+Aqueles que receberam as tarefas da união no lar, estão igualmente convocados a muito trabalho e dedicação ao bem, como que taxados no imposto natural da abnegação, transformando ainda as bênçãos do sexo em amor aplicado pela melhoria e amparo, em benefício dos outros.
+Os que não se casam encontram lutas beneméritas no burilamento próprio e aqueles que se casam surpreendem igualmente dificuldades enormes por superar.
+E por tudo o que vemos e sabemos que a permanência na Terra é sempre escola, em que os obstáculos do mundo se erguem por lições do cotidiano, saibamos viver com Jesus e Jesus se nos revelará mais intensamente em nós e por nós, elevando a vida em que nos vemos.
+Mãezinha e querido papai, Axima e Wilson, trabalhemos e sirvamos. O tempo está voando e a Terra é um grande aparelho cósmico que está voando também conosco, a pleno Espaço, transportando-nos no rumo dos Planos Maiores.
+O serviço do bem é a área em que nos será possível o encontro permanente com a bênção de Deus. O Senhor nos espera nos outros. Esta é a verdade. E esses outros começam em nossas estações domésticas, porque realmente é sempre em casa que nos achamos na melhor e mais complicada carteira de ensino.
+A nossa irmã Guiomar e todos os amigos presentes recebam nosso afeto e reconhecimento. Ao companheiro querido, hoje no São Judas, o meu coração reconhecido.
+Em nome de todos aqueles, em nome dos quais uso a oportunidade de falar e de exprimir-me transmito a mensagem maior: irmãos, a Seara do bem é a nossa escola de luz na escola da experiência. Valorizemos as horas, construindo o bem de quantos nos compartilham a vida. Assim, venceremos.
+Fé em Cristo, mas fé aplicada, no bem e na felicidade dos que nos cercam. Nessa base, as dificuldades desaparecerão e unicamente o Sol do Amor de Jesus brilhará sobre nós.
+E aqui, a estaca da gratidão, fica em meu caminho, ante a estrada dos amigos queridos.
+E aquele abraço de sempre, com a prece a Jesus por nossa paz no serviço cristão em qualquer lugar é a mensagem do afeto e da gratidão do companheiro e filho reconhecido,
+
+---
+
+## 5 — Quinta mensagem de Jair Presente
+
+> Logo no início, uma revelação importante.
+> — nossos amigos novatos em mediunidade e serviço ao próximo desejavam que eu estivesse rente para identificar verdades, entregar o ouro daqui…
+
+Meu pai, minha mãe, Sueli e os mais. Pedi vez para ter voz e
+qualquer coisa que possa dizer o que sinto, sem os meios de falar como desejo. Indaguei de minha tia e dos amigos se podia escrever sem
+, mas eu mesmo,
+segundo a nossa
+. Posso. Desde que não crie problemas, nem
+os bons costumes.
+Sei que vocês vieram em reuniões passadas querendo palavras novas, e onde a
+em que pudesse entrar sem dificuldade? Nossos amigos novatos em mediunidade e serviço ao próximo desejavam que eu estivesse rente para identificar verdades,
+daqui para glorificar os que já estão glorificados aí na Terra, querendo que Deus
+para que tomem as chaves do Céu. Digam, porém, aos nossos
+para que não se
+
+n
+com as
+de tantos
+para guardar os hábitos em que se enquadraram há muito tempo.
+Creiam na verdade se quiserem. A vida na Terra é isto aí. Uma escola. Cada qual carrega a sua
+. Por mais que a bondade dos outros nos enfeite, a realidade não é diferente.
+Acordei por aqui feliz da vida e há quem exija de mim, explique como foi. Expliquem eles primeiro como nasceram aí dos troncos em que florescem e esclarecerei, o que experimento, sem
+de contar o que vi.
+De fato,
+nas águas, mas nada sei de
+guardado em
+. Apesar disso, estou
+e quem vive assim não muito longe de
+não consegue nem
+e nem
+, enviando
+a
+do Governo.
+Estou
+, mas unicamente em matéria de lições que não sei transmitir. Não posso largar o trabalho a fim de
+esses
+que não
+a verdade.
+Não sei em que se escoram para sarcastizar médiuns e gritar contra nós, os Espíritos, tão vivos quanto qualquer criatura viva, embora já não queiramos ser vivos, e, por isso mesmo, não será justo que esses
+da cultura para menos se manifestem contra nós, quando procuramos dar uma incorporada, com disciplina em nome das orações dirigidas a Deus.
+Não sei porque assumem os ares de importância com que
+por este mundo de escola no sem fim. Geralmente
+, esses
+, quando estão de olhos no copo ou quando se acham excitados depois de queimarem erva. São quase sempre
+e
+, gerando barulho sem qualquer justificativa. Declaram-se contra a verdade e é isso aí. Tumulto, confusão, má fé e
+de
+desocupadas ou de
+perturbadas de
+.
+Mas a vida é a vida mesmo e a morte é aquela de
+, pondo gritos nas bocas. De fera; porém, não temos qualquer vizinhança e vamos indo…
+Agora, de meses para cá, somos muitos.
+
+Queremos trabalhar pelos companheiros perdidos no
+. Muita gente boa está dando
+por essas plagas de delírio, em que a mente enlouquece de corpo estirado. Precisamos servir e compreender. Não há tempo para
+e
+em que a
+grita frases raras para desculpar a neurose e a bobagem nas quais tantos militam.
+Digam aos
+nossos para não
+, com medo de trabalho. De trabalho bom é o bem que fica. Sei que muitos companheiros estão saindo de
+receando compromissos.
+
+Que não
+como pensam porque a
+das provas dá logo
+e a hora de voltar soa na campainha do tempo, sem qualquer consideração.
+Sueli, diz você que anda triste. Não faça isso. Fossa tem um nome e esse nome é o tédio, no qual tanta gente perde o uniforme escolar no educandário do mundo para vagar aqui, entre aqueles que dão aquelas de fantasmas, sem ver a luz do dia, embora estejam fora da noite.
+A vida é ação e alegria. Ação de criar, renovação e bondade. Alegria de estender o bem e plantar a felicidade; e a felicidade, sabe você, é a única riqueza que podemos dar sem ter, porque mesmo sofrendo é possível erguer a felicidade dos outros.
+Papai, minha mãe, abençoem o filho adoidado que ainda sou. Sueli, abrace o irmão que não a esquece. Lembre-me aos amigos. Continuo pedindo preces em meu favor.
+Estou melhorando. E escrever com algum traçado de gíria não quer dizer que eu seja Espírito obsessor. Apenas luto. Mas se firo quero fazer isso apenas a mim mesmo. A todos desejo paz e progresso e muita utilidade e vantagem no
+para não serem apanhados nos
+da verdade quando chegarem aqui.
+Por hoje, tchau. O maior abraço da
+para a turma toda e que Deus nos abençoe.
+Voltei a falar, mas agora estou procurando firmar-me para saber se disse.
+
+---
+
+## 5 — Quinta mensagem de Augusto Cezar
+
+> 1
+> — Flavão, n
+
+Meu caro Flavão,
+n
+prezado amigo Duda e outros primos.
+Deus nos inspire a conversa em casa.
+informal querendo aproximação. É muita gente esperando por nós com
+e muitos ficam
+
+n
+quando percebem que somos aqueles mesmos rapazes frajolas de pouca roupa.
+Não corram de nós e fiquem na
+com nossas
+.
+Quando pintei por aqui julguei que iria
+, e o que achei foi os
+do
+. O negócio é isso. Acordei
+e tive de organizar muitas daquelas de
+com gente de bem para ver a melhora.
+Perguntaram qual era o
+. Olhem pra mim. Fiquei naquela de agitado, depois
+e parti para outras. Era preciso sair do
+e comecei a mudança.
+Por isso,
+meus, venho até vocês para dizer que não encontrei super-pai nem
+. Fiz minha
+e vi todo mundo
+. Procurei meu lugar; dando início a coisas diferentes. Pega daqui, pega dali,
+e vida nova.
+Caso vocês queiram fornecer pra mim aquela
+de irmãos, não fiquem no mais
+do que
+. Esqueçam
+e
+.
+e
+,
+e
+servem só para
+.
+Não acreditem que eu esteja fazendo
+ou anotando aqui alguma de Nostradamus. Nem estou também
+. O negócio é que não há
+mortos.
+O pessoal e as
+, o grupinho e as turmas estão aqui. Ninguém sobe dando guinadas de foguetes. Nem os astronautas, porque os astronautas foram obrigados a voltar para
+forças novas. Estamos como éramos e ainda somos, procurando caminhos de renovar.
+Vocês aí se estiram nas camas cada noite e morrem um pouco na mágica do sono e levantam-se cada manhã com o mesmo cenário; um céu muito azul quando está sem nuvens convidando a pensar e se
+para
+.
+Nós aqui, despertamos, fitando um céu muito mais azul, chamando para cima, entretanto, somos atraídos para baixo, a fim de trabalharmos em favor das
+, especialmente dos amigos que ainda moram aí nas
+. O difícil é que temos o dever de plantar novas ideias nas cucas de que falo, como se fôssemos horticultores, cultivando plantas de Deus nesses vasos vivos. Temos, porém, tantos
+no pensamento, que não é fácil
+as ideias dos outros.
+Vocês não fiquem parados aí, quando estamos entregando a vocês tantas
+. Entrar no
+do bem aos que se esforçam por um mundo melhor, para não
+. Por aqui,
+é o que não falta. Visitamos juntos os irmãos separados em grades
+e aqueles outros que esperam a felicidade brotar para ter alegria. Crianças vimos pedindo, com os olhos, braços que as sustentem e muitas mães enxergamos, como se fossem nossas escravas, embalando os que estão nascendo para o futuro.
+Primos e amigos, larguemos copos e
+,
+e
+e coloquemos nossas mãos nessa construção de paz e amor. Ninguém nasce feliz, ninguém nasce sábio. Tudo é produto de esforço que nos cabe guiar para o melhor em auxílio a todos.
+Pra frente com o programa de
+corretas. Somos aqui uma turma que engrossa a corrente. Grupo de paz e amor formado pelos que se cansaram de
+e água refrigerada.
+Permitem os professores que se fale como nos entendemos, mas sem fofocagem e sem
+. Inventamos canais de comunicação para alcançar vocês e estamos contentes, porque muitos companheiros estão ouvindo. Quanto possível, façamos força para aderir.
+Compreendemos vocês. Não somos realmente os
+, lembrando chupeta. Olhem aí, porém! porque continuamos e devemos continuar filhos de Deus, nas obras de Deus com nossos pais e com nossas mães. Ponham freio nas fantasias e procuremos agarrar a enxada do bem a todos e com todos.
+É muito a conversar e o tempo está dividido. Acabou-se a parcela de que dispunha e preciso
+noutras
+.
+Agradeço à minha mãe ter trazido vocês. É verdade, ela
+com vocês aí, carreando com alegria os corações amigos para as nossas preces e o servidor ainda muito fraco que sou busco
+e
+. Boa vontade só.
+Aquele beijo para mamãe — o meu pedaço de bom caminho para a Vida Superior — e para vocês todos, tchau. Até outra vista. Fiquem com Deus que tenho outros
+. Muito reconhecido, o primo pobre e o filho rico,
+
+---
+
+## 6 — Sexta mensagem de Wady Abrahão Filho
+
+> Supúnhamos não mais haver revelações a fazer, da parte do Wady, e eis que a psicografia abençoada do Chico nos traz informações desconcertantes.
+> — Festa de aniversário
+
+Querido pai, querida mãezinha, meus queridos irmãos Wilson e Axima, Jesus nos abençoe.
+Festa de aniversário.
+n
+Lembranças. Flores. Preces. Agradeço por tudo, diante do nosso dia dezesseis, e peço a Deus os recompense. Agradeço, acima de tudo meu pai, as bênçãos que espalharam os meus queridos, com a nossa seara de amor.
+Os amigos presentes desculparão se volto a escrever. Não se trata unicamente de nosso caso festivo em família. Estou no caminho da renovação. Caminho de todos. Estou feliz, apoiado pelos corações que a Divina Providência me concedeu. Melhoro aos poucos, porque vou aceitando a obrigação de trabalhar.
+Querido pai, agradeço a bondade com que o seu carinho me acolheu a solicitação.
+Sei que ainda sente, muitas vezes, o desejo de ficar ali, noite inteira, naquelas pedras de nossas últimas lembranças, em nos referindo à separação aparente, mas vejo que a sua lembrança assinala o pedido que fiz e as horas de contato com as relíquias do Brás
+vão ficando mais curtas.
+Mãezinha, beijo as suas mãos. Axima e Wilson, meu abraço a vocês.
+Não nos acreditemos numa entrevista espiritual, a pedaços de intercâmbio, como se nos víssemos num filme em série. Estamos em escola diferente, na qual somos alterados para melhor, pouco a pouco. Renovação gradativa, com base na saudade convertida em esperança. Continuemos ativos, na dedicação ao nosso novo modo de ser.
+Compreendo que as tarefas da Comunidade e do Colégio sofreram modificações,
+mas o serviço permanece.
+Aqui, a nossa equipe de ligações vai crescendo. De minha parte, vou fazendo quanto posso. Impossível crer em Jesus e não segui-lo, aceitar as lições do Mestre e ficar inerte. Temos um mundo à frente e Ele à frente desse mundo chamando-nos a servir.
+Meu pai, não julgue seu filho entusiasmado em excesso.
+Tenho a cabeça mergulhada nas ideias que vertem do Alto e o coração que o seu carinho e o carinho de minha mãe plasmaram no meu peito. Não descansaremos, papai.
+Mãezinha, seguiremos. Wilson e Axima a luta construtiva nos pede continuar.
+Mãezinha, nossa Glorinha
+no Hospital Modelo é mensagem que lhes pude endereçar. Antes que suas mãos a acariciassem, fora levado ali, a convite de nossos familiares. E o Senhor permitiu que a pequenina, à frente da morte, me observasse e reconhecesse, transmitindo minhas notícias.
+E a bênção de agir com a bênção de Jesus brilha conosco. É preciso trocar o tempo que é dádiva de Deus por algo que fique nos domínios do Bem.
+Venho cooperando em auxilio da tia Jacira
+da tia Jamile, do tio Manoel,
+do tio Azis
+e, afinal, os nossos laços do coração não terminam. Hoje, tenho comigo nesta noite o meu avô Abrahão e a tia Clotilde
+que deixa ao nosso Wilson todo o coração de mãe amorosa e abnegada.
+E depois de nosso entendimento, peço ao nosso querido Wilson muita serenidade ao tratar com o volante. A máquina não precisa comer chão para chegar ao destino. Wilson, a vida é um tesouro de Deus que nunca se deve arriscar a perder sem motivo justo. As rodas correm por si, desde que o motor as garanta, sem necessidade de acelerar-lhes o movimento.
+Evite as competições nas estradas e não atravesse à frente desse ou daquele companheiro de caminho, a não ser quando a frente se descortine, claramente ampla e limpa, convidando ao avanço sem prejuízo. E assim como se prepara o corpo, a fim de que se possa viver no mundo, não use o veículo sem anotar-lhe condição e eficiência. Você sabe que sapatos desnivelados favorecem queda e problema e, de igual modo, pneus em desequilíbrio são riscos graves.
+Perdoe, irmão, as palavras que digo. Falo por sua mamãe que é também nossa mãe. Agradeço as lembranças de Sumaré,
+mas não me creiam fora da obrigação de entregar a Cristo qualquer vantagem que nos venha desse ou daquele campo da vida. Por muito fizéssemos ou por muito façamos nas áreas do bem, tudo que se faça é do Cristo, em nome de Deus.
+Temos aqui hoje um amigo que desejava escrever mas não conseguiu recursos emocionais para isso. É um amigo respeitável, que nos solicita transmitir um recado. Meu pai e minha mãe, Wilson e Axima atendam a isso por mim. Trata-se de um grande amigo do bem e da justiça, da cultura e do progresso, que se nos apresenta com o nome de Akl Jorge
+que deseja exprimir à esposa, nossa irmã senhora Jamile, as suas saudades e agradecimentos.
+Ele pede à esposa e às filhas — ouço os nomes de Elza e Marlene — para que se consolem e promete escrever quando estiver mais refeito. Roga à esposa para que se alimente e procure viver. A tristeza dela e dos familiares queridos lhe impõem difíceis preocupações. Pede o apoio de dois corações que nomeia por Adriana e Gito
+para sustentarem a senhora Jamile no esforço de viver e sobreviver à separação. Diz ele que a esposa é católica, iluminada por imensa bondade repleta de compreensão e fé. Roga a Jesus fortaleça a esposa querida e insiste em que ela pense nele na condição de vivo e não morto e agradece o amor com que o seu ambiente foi conservado.
+Papai e mamãe, Axima e Wilson conversem com a senhora Jamile por nós. Ninguém precisa mudar de pensamento religioso para a conquista da paz. Onde estiver o Cristo está Deus. A senhora Jamile será amparada tanto quanto tem sido amparada sempre. Estimaria ser mais claro e preciso; entretanto, sou tão pobre de expressões para mostrar os nossos sentimentos deste lado da vida!
+Querida Axima atenda à saúde e esperemos. Você espera a maternidade como quem aguarda a luz de Deus e fico feliz com isso. Cogitemos de criar as melhores condições para recebermos o melhor da Bondade de Deus e a Bondade de Deus nos concederá sempre o melhor.
+Envio abraços aos caros companheiros Cláudio, Wellington, Walmir
+e a todos os nossos que são hoje, tanto quanto ontem, companheiros na construção da vida melhor com o Cristo, sempre nas bênçãos d’Ele, nosso Mestre e Senhor.
+As tarefas com a nossa querida irmã Guiomar, no Perseverança, continuam abençoadas pelos nossos Maiores. Trabalhemos no bem dos outros e os outros se farão instrumentos de nosso próprio bem.
+Agradeço à nossa irmã Guiomar e a todos os corações queridos da nossa casa de fraternidade e de paz, tudo de bom e belo que realizam por nós.
+Querido papai e querida mamãe abençoem-me. Axima e Wilson recebam o meu abraço de gratidão. E apoiando-me no trabalho e na fé viva em nosso querido lar, peço a Deus pela felicidade de todos e rogo aos meus queridos papai e mãezinha, Wilson e Axima, receberem todo o coração do filho e irmão sempre reconhecido,
+
+---
+
+## 7 — Sétima mensagem de Wady Abrahão Filho
+
+> Nesta mensagem, atendendo à determinação do Dr. Bezerra de Menezes, coordenador espiritual das atividades mediúnicas em questão, o Wady é o porta-voz do grupo de jovens desencarnados ali presentes.
+> — Ruberley Boaretto da Silva
+
+Pais queridos, meus irmãos. Jesus nos ilumine os corações.
+O pessoal perdoará se falo ainda. Gente que passa no rumo do Além muito verde parece que não falou na Terra quanto queria.
+Talvez seja isso. Não sei bem. No entanto, estão aqui professores de cá. Dr. Bezerra, venerável amigo, traça normas. Decerto porque veja minha turma conosco, fui eu designado. Sem mérito algum, é claro. Mas alguns minutos — diz o benfeitor — devem ser preenchidos. “Fale, Wady; você precisa externar o amor de Cristo que nos uniu”. Foi ouvir e obedecer. E obedecer com alegria.
+Minha saudação aos de casa precedeu minhas próprias palavras, porque o meu coração funcionou antes do lápis. E nessa saudação, não me esqueci de incluir os amigos queridos do nosso querido Perseverança. Nossos caros irmãos Albanesi, Guiomar e Benjamin, recebam a confirmação dos meus votos de paz e alegria.
+Venho com a tarefa específica de explicar qualquer cousa. Explicar envolve presunção em meu caso. Quem esclarece possui competência, e isso me falta.
+Devo informar que não é assim tão fácil mover o braço de um médium e começar o papo. É muita engrenagem para ser movida. E movida com precisão.
+Na maioria das circunstâncias, é preciso que a pessoa aqui se habitue a construir um braço com tanta exatidão quanta seja possível, construir com as forças de que se possa dispor.
+Semimaterialização de recursos em elementos que, de mim mesmo, não sei classificar. E esse braço artificial deve calçar o outro — que emana do médium como sendo uma luva.
+Sem isso, é necessário muito apoio do lado de cá para que o companheiro desenfaixado do corpo físico possa escrever.
+Depois disso, temos as afinidades e os processos harmônicos da hora. Por processos harmônicos definimos o ambiente, com as suas composições. Se os pensamentos na reunião não estiverem integrados na mesma vibração de confiança ou se não tivermos grande maioria de pessoas que nos ajudem na sustentação desse clima vibratório, o comunicado, mais ou menos pessoal, é quase impossível.
+Não se impacientem, por isso, as mães e os pais, os filhos e irmãos que não recebem de pronto as mensagens que desejam. O negócio não é pegar o fone e discar. Muita complicação deve ser atendida.
+Pensamos que em futuro próximo a cabeça do homem decidirá muito problema desse setor com a Eletrônica. Até que isso aconteça, não temos outras vias.
+Nossos irmãos Ruberley e Benedito estão presentes e desejam entrar no esquema gráfico. Entretanto, não conseguem isso. O primeiro nosso amigo Ruberley pede à mãezinha coragem e fé. Acertará, quem sabe?, em outros modos de ação, até que fale escrevendo.
+O sonho é uma bela aproximação do prêmio em que consideramos o intercâmbio individual. Nossa irmã senhora Maria do Carmo continue orando e aguardando, mas na certeza de que o filho querido não está distante.
+Nosso Benedito ainda luta e bastante para sentir-se plenamente integrado em si mesmo. Quando nos reaproximamos dos entes queridos no Plano Físico, sem realizar a façanha do desprendimento com amor, é muito difícil não se retomar as sensações que nos marcaram a vinda para este outro lado. O cara se esforça, lança prodígios de força mental para fora de si para a empresa legal da comunicação, que se tenta, mas a visão do corpo se associa à lembrança dos parentes e a tarefa se torna
+, sem técnicos que nos garantam conserto.
+Nossos amigos, no entanto, os companheiros de Itapeva que lhe foram pais estejam tranquilos. Benedito é um construtor de raça. Está progredindo, sem reclamação e sem choro. Tem saudade sem moleza. Foi socorrido na Europa, ante a desencarnação predeterminada, por vários amigos que o esperavam.
+Por aqui, é a corrente das lágrimas acompanhando esses fatos que a imprensa especialmente qualifica de trágicos. No entanto, no Plano Espiritual, a hospitalização carinhosa dos que perdem o corpo em acidentes do mundo é simples rotina.
+Quase isso, se o pessoal na Terra pudesse encarar a morte com menos gritos. Gasta-se demais com aflição sem propósito e o assunto é esse aí: sofrimento nos dois lados, lamentos e protestos que parecem não ter fim. Mas, não se pode mudar depressa o que existe.
+Isso deve ser uma lei de Deus. Tudo o que é, é porque deve ser para modificar-se um dia para melhor. Um espinheiro não fere porque goste e sim porque vive armado de lâminas pequeninas. A pedra não é dureza porque viva satisfeita de receber marteladas e chutes e sim porque precisa cumprir a tarefa em que foi colocada.
+Assim, o nosso Benedito desceu nos arredores de Paris, para separar-se imediatamente do carro físico porque isso devia suceder com ele. Foi transferido, no mesmo dia da libertação para os campos alemães, onde bondade e família espiritual lhe estavam reservados. Do que motivou isso falará ele em tempo oportuno. Transmito apenas o noticiário de que ele me fez portador para reconforto dos pais queridos.
+E muita gente se vê à bica de comunicações a parentes e amigos. Uma dessas pessoas amáveis é a nossa irmã, senhora Maria que abraça as filhas presentes — Ginete, Odete, Maria Lúcia, Tereza e a outra cujo nome não ouço corretamente dos lábios maternos que o pronunciam. Espera que Jesus lhe ampare as filhas abençoadas no empreendimento de amor e paz a que se inclinam. Mas, é preciso encerrar esta carta.
+Wilson, estou alegre vendo os seus melhores cuidados no volante. Brasileiro gosta de brincar com a vida. Isso sempre me pareceu uma verdade. Carros a mais de cem, caminhões balançando, ônibus, às vezes, em torneios competitivos e motos em disparadas. Flagelos para os nossos guardas que, honra lhes seja feita, são sempre os nossos melhores amigos quando policiam marchas e faixas, corridas e sinais. Mas você está melhorando. Nota dez você ainda não tem nas estradas de asfalto aberto, entretanto, já está com cinco e seis à mostra. Tenhamos todos, o cuidado preciso, Wilson e vocês todos, os caras que se responsabilizam por velocímetros. Tanto se morre aí pelo carma do resgate, como também pelo carma da imprudência. E ninguém deve chegar aqui verde demais.
+Axima, atenda à saúde. É preciso que você se fortifique. Ouça o médico amigo e trabalhemos no bem pensando no futuro.
+Mãezinha e meu pai, rogo a bênção. A todos os amigos, no recinto, os meus agradecimentos.
+Para vocês, meus amados, o coração total do
+
+---
+
+##  — Agradecimentos
+
+A Raul Cezar e Yolanda Cezar; Severino Domingos Lourenço e Dirce Pessoa da Silva Lourenço; José Presente e Josefina Basso Presente; Wady Abrahão e Jandira do Amaral Abrahão, bem como aos demais familiares dos jovens desencarnados, autores espirituais deste livro, o nosso reconhecimento pela decidida cooperação nas entrevistas em que obtivemos os dados e esclarecimentos que possibilitaram a elaboração dos Traços Biográficos e dos comentários complementares às mensagens psicografadas.

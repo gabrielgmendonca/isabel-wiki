@@ -1,0 +1,350 @@
+# O caminho oculto
+
+**Autor espiritual:** Veneranda  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Oco/OcoPref.htm
+
+---
+
+##  — O Celeste Amigo
+
+Jesus é o Celeste Amigo dos meninos.
+Através de todos os caminhos e circunstâncias do mundo, a criança de boa intenção pode sentir-Lhe a presença sublime.
+Basta que cultive a bondade no esforço diário e que guarde sincera confiança no Divino Poder, porque, então, a prece representará a escada de luz pela qual receberá a inspiração e o socorro do vigilante e compassivo Amigo do Céu.
+Pedro Leopoldo, 3 de abril de 1946.
+
+---
+
+## 1 — Leonardo
+
+Leonardo, jovem aparentemente devoto, pedia sempre ao Senhor que lhe fosse revelado o caminho prodigioso para o Céu.
+Embevecido, costumava olhar o firmamento, frequentes vezes, pensando nas alegrias do Paraíso.
+Comparecia às aulas de um curso evangélico e escutava, de ouvidos maravilhados, as descrições e referências acerca de Jesus.
+Não era muito gentil no trato com os colegas, nem dedicava o respeito devido às pessoas mais velhas, sendo, por isso, pouco simpático aos companheiros. Entretanto, era curioso e perguntador, nas lições religiosas. Admirava Jesus e gostava de ouvir todas as histórias que se referissem a Ele.
+Dentre as passagens das narrativas apostólicas, preocupava-se especialmente com a Ressurreição.
+Regozijava-se ao saber que o Cristo, depois da morte na cruz, reaparecera, cercado de gloriosa luz, pronto para subir ao Reino Celestial.
+Por essa razão, queria preparar a felicidade futura, desejoso de encontrar-se, mais tarde, no quadro brilhante dos justos.
+E, muitas vezes, meditando nisso, interrompia brincadeiras para dizer consigo mesmo:
+— “Oh! se eu pudesse receber do Divino Mestre o ensinamento necessário! que ventura, a de conviver com os anjos e ganhar a devoção das criaturas!…”
+
+---
+
+## 2 — Sublime encontro
+
+Certa noite, depois de fervorosas súplicas, em companhia de sua mamãe, Leonardo dormiu e sonhou.
+Teve a impressão de que o vento era um carro de asas veludosas, carregando-o, docemente, para muito longe…
+Parecia-lhe viajar num avião diferente, sobre florestas e mares, cidades e rios, resplandecendo ao Sol.
+Por fim, o carro deixou-o numa paisagem desconhecida.
+Viu-se à beira de lago cristalino semelhante a imenso espelho encrespado pelas ondas buliçosas, e lembrou-se do Genesaré, onde o Senhor ensinara a verdade e o bem aos discípulos humildes.
+Observava as águas tranquilas, que refletiam as luzes do firmamento, sentia o perfume das árvores adjacentes, quando notou que alguém se aproximava.
+Gracioso bando de avezinhas apareceu, de imprevisto, bicando as flores e atirando as pétalas ao chão, como se elas estivessem enfeitando o caminho para o visitante inesperado.
+O jovem contemplava-as sob forte admiração, indagando intimamente: “quem receberia semelhante homenagem da Natureza?”
+Decorridos alguns instantes, sentiu-se à frente do próprio Cristo.
+Não teve qualquer dúvida. A claridade sublime que se fazia em torno, o olhar suave e profundo, eram os do Mestre…
+
+---
+
+## 3 — A rogativa
+
+Jesus acercou-se dele e abençoou-o.
+O menino ajoelhou-se aos pés do
+Mestre Sublime e, recordando o desejo que o inquietava desde muito, suplicou:
+— Senhor, ensina-me o caminho para o Céu!… quero conhecer o Paraíso, abraçar os Teus anjos e receber lições de Teus lábios!…
+O Divino Amigo sorriu, benévolo, e permaneceu em silêncio, sondando-lhe o coração.
+Leonardo não desanimou e prosseguiu:
+— Ouve, Mestre! vivo suspirando pela descoberta da senda que me levará ao Reino Celestial!… Ajuda-me! Mamãe costuma dizer-me que lá é a Mansão dos Justos e dos Bons e que Tu és o Príncipe da Paz, benfeitor devotado e fiel!…
+Esperou alguns momentos, de olhos cheios de lágrimas, e, porque tardasse a resposta do Salvador, perguntou, concluindo:
+— Dar-me-ás a feliz revelação?
+O Cristo abraçou-o afetuosamente e respondeu, num belo sorriso:
+— Sim.
+O jovem, maravilhado e jubiloso; interrogou:
+— Como saberei, Senhor? como compreenderei a dádiva sublime?
+O Mestre fixou nele o olhar muito doce e falou:
+— Dar-te-ei o conhecimento da estrada celeste, por diversos sinais.
+— Quando? — perguntou, ainda, o pequeno rapaz, confundido de alegria.
+— Hoje mesmo! — disse Jesus, bondosamente.
+
+---
+
+## 4 — O despertar
+
+Nesse instante, Leonardo sentiu dificuldade para manter-se na formosa paisagem a que fora conduzido.
+Já não conseguia ver o Amigo Celeste, nem ouvi-Lo com a mesma clareza.
+Teve a impressão de uma voz muito forte a gritar-lhe nos ouvidos:
+— Leonardo! Leonardo! Leonar… dôô!…
+O quadro desapareceu como por encanto. Nem a figura do Cristo, nem o céu azul, nem as árvores, nem o grande lago. E ele acordou na cama, atendendo ao chamado maternal.
+Profundo contentamento invadia-lhe a alma toda. Guardava, no íntimo, a certeza de que regressava de maravilhoso país onde estivera com Jesus, frente a frente.
+O relógio grande da sala de jantar dera sete badaladas e um sol de ouro vivo derramava-se através da vidraça.
+Levantou-se otimista, deixando transparecer no rosto a mais viva satisfação.
+Depois do banho matinal, contou à sua mamãe a ocorrência da noite. Descreveu com entusiasmo a grande viagem num avião desconhecido, a chegada a misterioso recanto, cheio de verdura e beleza, e, por fim, o encontro com o Mestre, de cuja boca recebera a promessa desejada.
+Sua mãezinha ouvira-o, orgulhosa e feliz, elogiando-o com palavras de carinho e de incentivo à prática, do bem.
+Leonardo não cabia em si de contente. Ao café; pensava consigo mesmo: — “Não deverei esperar a revelação prometida?”
+E aguardou a vinda de Jesus, supondo que Ele viesse traçar-lhe aos olhos assombrados um grande roteiro, como a professora nas aulas de Geografia.
+
+---
+
+## 5 — No serviço paterno
+
+Tocado de alegre expectativa, foi ao encontro do pai, nos serviços de horticultura.
+Atravessou o grande milharal, contemplando as nuvens, cheio de curiosidade e esperança.
+Eram justamente oito horas, quando avistou o genitor, ocupado em proteger os largos canteiros de tomates e ervilhas.
+Parou admirado. O quadro de trabalho inspira desânimo às pessoas menos corajosas. A enxurrada trouxera dos morros próximos densa camada de imundície, ameaçando as hortaliças delicadas.
+Fazia-se preciso manobrar a enxada, cuidadosamente, e movimentar pesados carrinhos de mão.
+— Venha, Leonardo! — convidou o pai sorridente, enxugando o suor que lhe caía copiosamente do rosto.
+Nosso rapazinho, no entanto, examinou as condições do serviço, naquela manhã, e concluiu que a cooperação seria difícil. Ficaria, por certo, todo enlameado. Sentiria cansaço.
+O pai, homem valente e bem disposto, explicou, satisfeito:
+— Esta é a boa terra que produz nosso pão.
+“Sim — pensou o filho, consigo mesmo — o pão é excelente, mas a tarefa é enorme. Não seria melhor, escapulir?”
+Sem demora, imaginou um pretexto para retirar-se.
+— Hoje, papai — disse ele —, não posso ajudá-lo. Devo fazer muitos exercícios escolares.
+O genitor não se aborreceu e aconselhou-o, sorrindo:
+— Então, meu filho, não perca tempo. Volte para casa e estude.
+
+---
+
+## 6 — As plantas tenras
+
+Apesar do aviso paternal o menino apenas se afastou para gozar a vadiagem.
+Dirigia-se, preguiçoso, para a fonte próxima, quando encontrou compridas fileiras de formigas, atacando tenras mudas de laranjeiras. As pequeninas invasoras cortavam folhas e grelos minúsculos com o maior desrespeito, e fugiam, apressadas.
+Observando as mudas ofendidas, recordou as alegrias do pomar.
+De vez em quando, sua mamãe realizava festas para a criançada, em pleno quintal.
+Os colegas e ele serviam-se das laranjas, gostosamente.
+Eram sempre saborosas e doces. Pareciam verdadeiros presentes de Deus, colocados inexplicavelmente nos galhos verdes das árvores.
+O pai recomendava incessantemente o maior cuidado com as laranjeiras. Aos sábados, fazia-lhes demorada visita, defendendo-as de formigueiros e ervas daninhas.
+Nem por isso, todavia, modificou a atitude inicial de indiferença. Julgou que despenderia muito tempo.
+Considerou a possibilidade de comunicar a ocorrência ao seu papai, mas, quando supôs que poderia ser incumbido de salvar as plantas, abandonou todo o propósito de esforço.
+Teve a impressão de que as mudas frágeis lhe pediam socorro; entretanto, olhou a imensa quantidade de pequenas perturbadoras em movimento, deu de ombros e exclamou:
+— Façam as formigas o que quiserem!…
+
+---
+
+## 7 — A vaca doente
+
+Retirou-se para as vizinhanças do curral, onde sua atenção foi solicitada por uma vaca doente.
+A pobrezinha arfava de cansaço. Tinha uma perna quebrada e várias feridas no corpo. Apelava para ele, com o olhar muito triste, como a suplicar-lhe uma gota d’água.
+O animal tinha sede, muita sede. Era Brinquinha.
+Não pôde furtar-se às recordações de seus bons serviços. Fornecia leite saboroso pela manhã e deixava-se ordenhar, mansa e humilde, parecendo satisfeita em atender às necessidades de toda a casa.
+O tratador separava-a do bezerro, que chorava, a distância, vendo-se prejudicado no carinho materno.
+Brinquinha, porém, pousava nele o olhar calmo de mãe, pedindo-lhe, talvez, paciência e boa vontade, até que pudesse satisfazer o ordenhador.
+Leonardo recordou-lhe os gestos de bondade e renúncia, mas, mesmo assim, não se animou a socorrê-la.
+O animal só faltava falar-lhe diretamente com palavras humanas. Confiante, mostrava-lhe a boca sedenta e a língua seca. Entretanto, o rapazinho conservou-se indiferente.
+Chegou a buscar um chicote com que pudesse atormentá-la.
+Felizmente, não encontrou o que procurava e, longe de compadecer-se, fez um gesto de ingratidão e disse à vaca enferma, em alta voz:
+— Fica-te, por aí, cheia de manhas! Receberás a boa sova de que precisas!
+
+---
+
+## 8 — A ave ferida
+
+Prosseguia o menino na estrada, de volta a casa, e, depois de alguns passos, longe do curral, avistou uma ave ferida, incapaz de tornar ao voo.
+Perverso caçador acertara-lhe o corpo frágil com um grão de chumbo.
+A infeliz arrastava-se dificilmente, provocando piedade. As penas macias das asas mostravam rubros sinais de sangue.
+Dirigiu a Leonardo um olhar de aflição e desalento, num apelo mudo de assistência e carinho.
+Parecia dizer:
+— “Tenho o ninho cheio de filhotes que me esperam!… saí, muito cedo, procurando alimento, mas fui visada por um homem mau, que me atingiu sem razão!…
+Ó bom menino! Ajuda-me, em nome de nosso Pai Celestial! Auxilia-me a regressar!…
+Tenho medo, muito medo!… Lembra-te de tua mamãe que não desejava separar-se de ti e compadece-te do meu coração angustiado de mãe ferida!
+Meus filhinhos abençoarão teu nome, cantaremos em tua janela com alegria e gratidão!”
+O rapazinho, contudo, insensível ante aquela rogativa sem palavras, observou, rudemente:
+— Ótima ocasião para a experiência do tiro ao alvo!…
+Sem qualquer outra reflexão, apanhou uma pedra, a esmo, e, depois de mirar atentamente a cabeça arrepiada da ave infeliz, matou-a sem compaixão.
+
+---
+
+## 9 — O velho servidor
+
+Prosseguia em sua caminhada, quando encontrou antigo servidor da propriedade paterna.
+O velhinho, de cabelos brancos, seguia dificilmente, suportando pequeno fardo às costas.
+Como não recordar-se dele? Era Ricardo, precioso auxiliar em todos os serviços domésticos. Demonstrava cansaço e velhice, mas nunca lhe faltava boa vontade. Em razão disso, o papai de Leonardo aproveitava-lhe os préstimos em atividades mais leves.
+Nesse dia, mostrava-se mais pálido, mais trêmulo, tropeçando frequentes vezes.
+Leonardo aproximou-se. Notando-lhe a presença, o ancião rogou, confiante:
+— Meu bom rapaz, ajude-me, por favor! Venho do moinho de seu pai, onde recebi o farelo que devo entregar ao vizinho…
+Creio, porém, que meu velho corpo não está funcionando bem… A cabeça anda-me à roda, tenho as pernas doridas, receio cair a qualquer momento…
+Fez pequeno intervalo e acrescentou, humilde:
+— Quer auxiliar-me a levar a carga?
+A voz dele era triste e chorosa, mas o menino não se comoveu. Pensou consigo mesmo que o velho era simples empregado e que não devia diminuir-se, prestando-lhe colaboração. Dominado por essa ideia, pôs as mãos nos bolsos, deu uma gargalhada e falou:
+— O senhor acha que sou seu criado? Arrebente-se como puder.
+A resposta revelava dura ingratidão. O velhinho, contudo, não disse mais nada e seguiu em silêncio.
+
+---
+
+## 10 — O livro emprestado
+
+Decorridos alguns minutos, o indolente rapaz encontrava-se, de novo, às portas de casa, e contemplou o firmamento, onde o Sol ia muito alto, dando a impressão de que viajava no dorso branco das nuvens.
+Parado na observação do alto, interrogou a si próprio:
+— Em que momento virá Jesus ensinar-me o caminho para o Céu?
+O vento passava, de leve, parecendo recomendar-lhe calma e esperança….
+Dispunha-se agora a penetrar o interior doméstico, quando foi procurado por Antoninho, inteligente sobrinho do vaqueiro, o qual, de pés descalços e camisa em remendos, lhe pedia um livro emprestado.
+O colega pobre permanecia respeitoso, acanhado. Os olhos tímidos mostravam expressão de súplica.
+Leonardo supôs que o companheiro talvez tivesse vindo a conselho do tio Manuel, que o assistia carinhosamente nas lições, e antegozou o prazer de exibir a posse. Aprumou-se e recebeu-lhe as saudações com as fumaças da superioridade mentirosa.
+Antoninho explicou-se humildemente, alegando que devia apresentar as lições preparadas, o que se tornava difícil por faltar-lhe o livro de História Natural.
+Leonardo ouviu tudo, de cabeça alta, e respondeu, inflexível:
+— O quê? emprestar meu livro? de modo algum! Se você quiser estudar, gaste o seu próprio dinheiro.
+O colega ia insistir na solicitação, mas o nosso rapazinho adiantou-se, exclamando:
+— Não! não e não!…
+Antoninho retirou-se abatido, procurando reprimir as lágrimas.
+
+---
+
+## 11 — A refeição
+
+Logo após, entrou Leonardo em casa, onde esperou o pai para o almoço.
+Nem sequer olhou para a sua mamãe que ia afobada, de um lado para outro, atenta aos preparativos da refeição. Temendo o serviço, fechou-se no quarto, até que a voz materna se fizesse ouvir à porta, chamando-o carinhosamente.
+O pai já havia chegado, preparando-se para o almoço. Viera suado, mas prazenteiro, carregando dois cestos pesados de morangos, cenouras, bananas e abacaxis.
+Leonardo, porém, mantinha-se distante de qualquer expressão de reconhecimento e nem se dignou de reparar as frutas.
+Posta a mesa em toalha muito limpa, debalde sua mamãe lhe recomendava compostura e silêncio.
+O menino choramingava, entre lamentações e palavras feias.
+— Onde está o meu bife? — reclamava, gritando, em vista da ausência da carne.
+— Sirva-se dos ovos, meu filho! dizia sua mamãe carinhosa e boa.
+— Não quero! não quero!… — exclamava o filho ingrato.
+— As cenouras e batatas estão excelentes — acentuava a senhora com desvelo.
+O pequeno malcriado, no entanto, longe de corresponder à bondade dos pais, abandonou a mesa precipitadamente, dirigindo-se para a cozinha, onde bebeu quase um litro de leite às escondidas.
+
+---
+
+## 12 — Zé Macaco
+
+Findo o almoço, sob o olhar materno, que revelava enorme preocupação, Leonardo tomou a pasta de livros e cadernos, pondo-se a caminho da escola.
+O sítio de seus pais localizava-se nas imediações de grande cidade e o nosso amigo, durante o trajeto, num quilômetro da estrada marginada de grandes árvores, ia pensando consigo mesmo: — “como receberei os sinais do caminho para o Céu?”
+Em breves minutos, penetrava as ruas bem tratadas, onde outras crianças, não menos descuidadas, uniram-se a ele, rumando para o grupo escolar.
+Aproximava-se do estabelecimento de ensino, junto de três companheiros, quando avistou pobre homem esfarrapado, catando papéis velhos.
+— Quem é aquele? — perguntou o menor dos colegas.
+Leonardo sorriu maliciosamente, dando a entender que havia encontrado excelente motivo para brincadeira. Assobiou, fortemente, e respondeu em voz gritante:
+— É Zé Macaco!!!
+Não contente com isso, acercou-se do mendigo dementado e exclamou de modo estridente:
+— Má-cá-co! Má-cá-a-co!…
+O infeliz tentou reagir, espantando as crianças vadias, mas Leonardo tomou de uma pedra e atirou-lhe à cabeça, sem piedade. A vítima gemeu de dor e afastou-se à pressa para estancar o sangue que escorria, abundante, da testa quebrada.
+Receando os policiais, Leonardo e os outros meninos recolheram-se cautelosamente à casa da escola.
+
+---
+
+## 13 — Na escola
+
+Dentro em pouco, a campainha anunciava o início das aulas.
+O interior da sala dava prazer. A professora, muito cuidadosa, organizara ambiente de alegria, como sempre, enchendo o recinto com jarrões de flores.
+As carteiras, limpas e bem dispostas, convidavam a posição respeitosa; contudo, Leonardo mantinha-se distante de qualquer sentimento de gratidão, parecendo cego a semelhantes bens.
+Enquanto a professora falava sobre Geografia, procurava ele fazer troça.
+Assobiava para os colegas, provocava rixas, espetando o companheiro da frente com a ponta do lápis e, de minuto a minuto, declinava, em voz alta, apelidos e nomes feios.
+Debalde, a professora rogava silêncio, tocando o tímpano. O menino continuava sempre o mesmo, inconveniente e insubordinado.
+Na aula de canto, preparada com gosto pelas meninas bem comportadas, perturbou a ordem, com arremedo de vozes de peru e macaco; durante o recreio, fez-se de valentão e meteu-se a brigar com dois pequenos menores, aos quais prometeu espancamento para o dia seguinte.
+A professora, conquanto gastasse muitos conselhos e promessas de castigo, suportou-o calmamente. Todavia, ao terminar as lições, contemplou-o, com enorme tristeza, reparando, porém, que Leonardo não se dava ao trabalho de pensar que a mestra lastimava a conduta do aluno ingrato e desobediente.
+
+---
+
+## 14 — A merenda
+
+À saída do educandário, como pusesse à mostra duas grandes fatias de pão com manteiga e queijo fresco, que lhe sobraram da merenda, aproximou-se Orlandinho, o filho de uma lavadeira pobre, que lhe falou, envergonhado:
+— Leonardo, hoje ainda não comi coisa alguma… Tive medo de ficar atrasado nas lições e não quis perder a aula, embora viesse com bastante fome.
+Torcia as mãos, acanhado por pedir. E porque o colega o fitasse com frieza, prosseguiu, explicando:
+— “Seu” Januário não me pagou os serviços que fiz em casa dele, na semana passada, e, por isso, como ma- mãe tem andado doente, não nos foi possível comprar nem mesmo o café…
+Leonardo não respondia, mas Orlandinho, muito corado de vergonha, passou ao pedido direto, depois de uma pausa mais longa:
+— Em vista de nossas dificuldades, quem sabe você quererá ceder-me, por favor, a merenda que lhe sobrou do recreio?
+Nesse ponto da solicitação, os olhos de Orlandinho estavam cheios d’água. Em voz mais triste ainda, ele concluiu:
+— Gostaria de levar algum alimento para a mamãe…
+Leonardo, todavia, quebrando o silêncio em que se fechara, exclamou: — Ora! você acha que eu sou padaria? Passe à frente! Não dou merenda a colegas vadios!
+Orlandinho chorou, porque, de fato, sentia fome, mas Leonardo foi insensível.
+— Se quiser comer — acrescentou vá trabalhar!
+
+---
+
+## 15 — A oração da noite
+
+Era tarde, quando tornou a casa. Esperavam-no os pais carinhosos para leve jantar. Observando que o dia terminava, sem que Jesus viesse, em pessoa, ensinar-lhe o caminho do Céu, Leonardo mantinha-se aborrecido e birrento.
+À noite, quando sua mamãe o chamou para a oração de graças, respondeu, nervoso:
+— Para que rezar mais? O dia passou sem que Jesus cumprisse a promessa… Esperei, ansioso, que me viesse revelar a estrada celestial.
+Ia choramingar, mas a palavra materna acudiu, consoladora:
+— Não se aborreça, meu filho! O Mestre, certamente, espera que você melhore o coração.
+Ferido na vaidade, o menino não se conteve:
+— Ah! — disse, desrespeitoso — a senhora quer dizer que sou mau, que não cumpro meus deveres? quer dizer que sou perverso?
+Cerrando os punhos, gritava, irritadiço:
+— Não sou! não sou!
+Acalmando-o, acrescentava a mãezinha desvelada:
+— Não estou acusando, meu filho. Sei que devemos confiar em seu caráter, reconheço que você tem sido correto nas obrigações diárias, mas não podemos esperar que Jesus venha até nós, sem aperfeiçoarmos o coração.
+Contemplou a Leonardo, bondosa, e acentuou:
+— Não podemos fazer tão grande trabalho num só dia.
+Consolado pela paciência materna, ele orou de má vontade e deitou-se.
+
+---
+
+## 16 — Temores
+
+Decorridos alguns minutos, começou a sonhar novamente.
+Sentiu-se ágil e feliz, fora do corpo de carne, e reconheceu que o mesmo carro desconhecido, de asas macias como o veludo, transportava-o, brandamente, para muito longe…
+Olhando das nuvens as cidades, as florestas e os mares, lá embaixo, recordou a viagem anterior com todas as minudências.
+Em breve, o indescritível aparelho deixava-o à beira do mesmo lago caprichoso e cristalino.
+Acercaram-se dele passarinhos em bando. Árvores frondosas ofereciam-lhe frutos e flores.
+De longas distâncias, vinham cantigas de pescadores simples e venturosos.
+Via-se transformado. Não mais sentia nervosismo ou irritação. Profunda paz enchia-lhe toda a alma.
+Nesse instante, uma pergunta cruzou-lhe o cérebro.
+— Veria Jesus, de novo? — pensou.
+Oh! sem querer, estava triste ao pensar nisso. Começou a recordar as leviandades do dia é experimentou enorme vergonha.
+Agora, somente agora, compreendia. Talvez o Mestre houvesse procurado por ele; mas, observando-o tão descuidado, esperara aquela ocasião para falar-lhe: Acabrunhado, sentiu que o remorso tornara-se dolorosa ferida na consciência… Não seria melhor retroceder? — indagou de si próprio — não convinha tornar a casa e retificar os erros do dia, antes do reencontro com o Mestre?
+
+---
+
+## 17 — O reencontro
+
+Esforçava-se por sair, quando ouviu a mesma voz da noite anterior:
+— Leonardo! Leonardo!…
+Estava o Senhor à frente dele, mais belo que nunca.
+O menino caiu de joelhos, mas notou que Jesus não tinha a mesma alegria anterior. Parecia triste, muito triste. Mostrava nos olhos profundos e sublimes o pranto que não chegava a cair. E até a Natureza parecia comungar com o Mestre, porque as aves silenciaram e as ondas buliçosas e límpidas do lago imenso aquietaram-se, de manso, obedecendo a estranho poder.
+Leonardo quis perguntar o motivo de tanta modificação, mas faltou-lhe coragem.
+Jesus contemplava-o com infinita doçura, aliada, porém, a desapontamento tão grande, que Leonardo se inclinou para o chão, abraçando-lhe os pés, humilhado e choroso.
+Como Jesus nada dissesse, o menino explicou-se, acanhado:
+— Senhor, esperei-te em vão o dia inteiro… Porque não vieste ensinar-me o caminho do Céu, tu que és bom e poderoso? porque não me deste os sinais prometidos?
+— Como assim? — exclamou o Cristo, surpreendido — dei-te o caminho celeste e, por dez vezes, indiquei-te os sinais da revelação divina. Entretanto, não quiseste ver. Trabalhei contigo, debalde, horas inteiras, insistindo para que visses e compreendesses.
+Leonardo arregalou os olhos lacrimosos e interrogou:
+— Que dizes, Senhor?!…
+
+---
+
+## 18 — Explicações do Mestre
+
+O Mestre Divino, então, começou a explicar-lhe:
+— Quando te levantaste pela manhã, aproximei-me de teu pai e convidei-te ao trabalho em teu benefício próprio, mas fugiste, receando o esforço a que te chamava. Foi o primeiro sinal.
+Acompanhei-te e fiz-te sentir a súplica silenciosa das laranjeiras tenras atacadas pélas pobres formigas inconscientes e esperei que tuas mãos me ajudassem na obra do bem, para que o pomar de tua casa fosse enriquecido. No entanto, não aceitaste o meu apelo e seguiste apressado.
+Conduzi-te, então, à vaca doente, que muitas vezes te atendeu à fome com o leite generoso, garantindo a fartura do lar paterno. Não quiseste socorrê-la, nem mesmo com uma gota d’água.
+Logo após, levei-te a auxiliar pobre ave ferida que, frequentemente, ajudava teu pai nos trabalhos de horticultura, consumindo vermes daninhos. Mas, longe de ampará-la, roubaste-lhe a proveitosa vida, necessária aos filhotinhos.
+Mais tarde, guiei-te à presença de velho servidor, cansado e enfermo, a fim de que o ajudasses a carregar pesada carga. Entretanto, negaste auxílio ao antigo cooperador de tua prosperidade doméstica.
+Sem desanimar com as tuas negativas, mandei um pobre menino à tua presença, para rogar-te um livro emprestado, a fim de que adquirisses um amigo fiel. Todavia, expulsaste-o sem caridade.
+Depois, proporcionei-te ocasião de ser grato a Deus, oferecendo-te refeição substanciosa e sadia, mas insultaste a mesa paternal, pronunciando palavras inconvenientes.
+Em seguida, aproximei-te de modesto e doente varredor de rua, para que demonstrasses respeito e amor ao próximo. Perseguiste-o a pedradas.
+Terminada mais essa experiência infrutífera, acompanhei-te até à professora bondosa, esperando que revelasses boa vontade e reconhecimento. Preferiste, contudo, a perturbação e a vadiagem.
+Na escola, havia humilde criança com fome que conduzi à tua presença, a fim de que lhe desses um pouco do pão que te sobrava, mas feriste-a com palavras de zombaria e negação.
+Finalmente, à noite, dei-te oportunidade à prece de reconciliação e agradecimento… atacaste, porém, tua mãe com frases grosseiras e queixas infindáveis!…
+
+---
+
+## 19 — O caminho
+
+Leonardo estava perplexo. Entendia, agora, as visitas do Mestre Invisível.
+Tinha o rosto banhado em lágrimas e o coração entristecido. Mas, como não guardava perfeita compreensão de tudo, arriscou-se a considerar, ainda:
+— Senhor, reconheço que não respeitei os sinais que me deste. Estava cego… Perdoa-me e ajuda-me, por amor ao Pai de Bondade Infinita…
+Os soluços de amargura íntima obrigaram-no a pequeno intervalo. O menino, porém, criou forças novas e perguntou:
+— Contudo, Senhor, e o caminho para o Céu?
+Jesus, então, sorriu benevolente e esclareceu:
+— O caminho celeste é o dia que o Pai nos concede, quando aproveitado por nós na prática do bem.
+Cada hora, desse modo, transforma-se em abençoado trecho dessa estrada divina, que trilharemos até o encontro com a grandeza, e a perfeição do Supremo Criador, e cada oportunidade de bom serviço, durante o dia, é um sinal da confiança de Deus, depositada em nós.
+Quem aproveita o ensejo de ser útil, caminha para o Alto e avança na senda sublime; mas os que fogem ao trabalho edificante perdem o tempo e demoram-se à retaguarda, lutando com os perigosos monstros da preguiça e do mal.
+O Mestre fez longa pausa e, depois, acariciando a fronte de Leonardo, que se desfazia em pranto, perguntou:
+— Porque fugiste à ocasião de ser bom, meu filho?
+
+---
+
+## 20 — Acordando de novo
+
+Leonardo, abatido e humilhado, levantou os olhos tristes e rogou:
+— Perdoa-me, Senhor!…
+Em seguida exclamou, desalentado:
+— Que será de mim? Perdi o meu dia, desprezei o caminho para o Céu e, sobretudo, fiz o mal aos meus semelhantes…
+Nesse momento, notou que sombras espessas caíam na paisagem. Não mais via os astros brilhantes, nem as águas, nem as árvores, nem os passarinhos.
+Cravou os olhos em Jesus, entretanto, sentia também extremas dificuldades para enxergar o Mestre…
+Queria prolongar indefinidamente aqueles minutos sublimes na companhia do Celeste Amigo para saber mais, muito mais.
+Percebendo, porém, que o Cristo se afastava, estendeu os braços na direção d’Ele e interrogou, ansiosamente:
+— Que será de mim, Senhor?
+Leonardo não conseguiu mais divisar o Mestre, mas ouviu-lhe ainda a voz que respondia:
+— Esperarei por ti, amanhã…
+Desejou levantar-se e correr para procurá-lo… Entretanto, não conseguiu fazê-lo. A sombra aumentava, aumentava sempre e uma força estranha e invencível chumbava-lhe os joelhos ao solo em que se achava genuflexo.
+Depois de penosos minutos de aflição, dentro dos quais se sentia numa noite horrível de trevas, acordou, agitado, chorando intensamente…
+Mas, em seus ouvidos de menino transformado, ressoavam ainda as palavras do Divino Mestre:
+— Esperarei por ti, amanhã…

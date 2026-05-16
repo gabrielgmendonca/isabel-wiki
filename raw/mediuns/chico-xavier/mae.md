@@ -1,0 +1,224 @@
+# Mãe
+
+**Autor espiritual:** Autores diversos  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Me/MeIntr.htm
+
+---
+
+## NTRODUÇÃO — O cravo-branco de Anna Jarvis
+
+“Ela disse, com terrível amargura, que lamentava ter criado o Dia das Mães”.
+Quando as pessoas leram essa frase impressa, deixaram o jornal cair-lhes das mãos. Quedaram num silêncio de reprovação ou de perplexidade que, nem por isso, diminuiu o impacto da acusação lançada d face do “
+” do mundo ocidental. A declaração foi prestada d imprensa americana por um jornalista que, a pretexto de entregar uma encomenda, conseguiu ser o último repórter a entrevistar Anna Jarvis. Foi nas vésperas de um Dia das Mães, maio entrava triunfante, saltando no trampolim da primavera, o céu azul, disparando canções de vento e nuvem. Entretanto, no interior da casa cercada de árvores trêmulas, na Rua 12 Norte, em Filadélfia, havia penumbra, um ar de outono estagnado, as horas pingando de um velho relógio, em fonte de desalento.
+— Antes não o tivesse feito! Lamento ter criado o Dia das Mães!
+Não muito tempo se passou e, exausta, agonizante, Anna Jarvis era levada para o Sanatório da Praça Marshal, na cidade de West Chester, Estado da Pensilvânia.
+Morreu ali!
+Sua cabeça pendeu sobre o travesseiro, cravo-branco ferido, que murchou e morreu, impotente aos revérberos ferozes de milhares de sóis em dólar-ouro.
+Dezenas de mensagens têm chegado, pelas fontes mediúnicas, dizendo aos espíritas que é preciso dar ao Natal o seu verdadeiro espírito.
+Alguém, algum dia, fará isso!
+Uma opinião, em processo de cristianização autêntica, vai desdenhar as imensas vitrinas do natal-pagão, cintilante em seus falsos ouropéis, desbragado, gargalhando de escárnio ante ao clamor dos bolsos vazios. Vai deter o rio de sangue de inocentes animais sacrificados, essa correnteza que tinge de escarlate os personagens todos de um presépio em Belém, cabras e ovelhas com seu calor para um recém-nascido pobre e desnudo, o jumento que serviu à Inefável Mãe para descer das agruras escarpadas de Nazaré.
+Quem poderá dizer que, nos recintos domésticos, os espíritas — que tão perto têm acesso a tal literatura de protesto! — modificaram esse Natal de alegrias falsas, garantido por vinhos coniventes?!
+Quem poderá dizer que eles o tentaram? Todavia já detêm a incipiente caracterização do Natal dos Homens-de-Paz-e-boa vontade, e saem de suas casas — que importa se apenas por um dia! — levando o agasalho e o pão onde se levanta, impossível de ser amordaçado, o gemido negado da Fome e do Esquecimento, estranhamente desafinando os hinos distraídos a repetir Glórias e Hosanas.
+Assim, pois, soluções e soluções esperam ser encontradas!
+E, como se não bastasse, eu venho falar aos espíritas em nome de Anna Jarvis. Ela mo pediu, mil vezes! Em cada página psicografada de Francisco Cândido Xavier, que eu compilava. No ruído das teclas, na luz que fugia ou na luz que chegava.
+Ela diz que ALGUÉM precisa restabelecer o espírito abastardado do Dia das Mães. E pergunta: “uma maldição que os homens tenham de mercadejar com tudo quanto é belo, santo e puro? Por favor, peça aos espíritas que, conjuntamente ao Natal, retirem o Dia das Mães dos balcões e caixas registradoras. Enfeitem-nos de Bondade e Alegria, contabilizem-nos no coração! Eles podem fazer isto!”
+Eu espero que ela use do seu último argumento e então lhe digo: “Minha bem-amada Anna, deixe que eu conte aos meus irmãos a tua história…”
+Certo dia, em 1925, uma mulher alta e enérgica, de aspecto decidido, entrou num hotel de Filadélfia e encaminhou-se na direção de um grupo de senhoras da Associação das Mães de Veteranos de Guerra, reunidas em convenção.
+Censurou-as, denunciando-as por venderem o cravo branco, símbolo do Dia das Mães, por preços extravagantes e extorsivos. Diversas pessoas tentaram interrompê-la, mas a sua invectiva era fria e obstinada. Finalmente foi chamado um policial. A dama foi presa sob a alegação de perturbar a ordem. Assim terminava mais um incidente na atribulada carreira de Anna Jarvis, a criadora do Dia das Mães.
+Quando o juiz, constrangido, pôs Anna Jarvis em liberdade, um repórter foi visitá-la em sua casa, à Rua 12 Norte, em Filadélfia. A bela mulher, de cabelos brancos e 60 anos de idade, estava sentada numa cadeira de espaldar reto e seu olhar estava posto no retrato de sua mãe.
+O jornalista perguntou-lhe:
+— Por que a senhora não desiste? Está lutando contra o mundo, sozinha! Deveria orgulhar-se por ser a criadora do Dia das Mães.
+— O Dia das Mães foi transformado num comércio sórdido. O senhor leu o que escrevi ao Presidente Coolidge?
+O rapaz acenou afirmativamente. A carta fora publicada pelos jornais. Em um certo tópico, Anna Jarvis dizia: “Estou tentando, de todas as maneiras ao meu alcance, evitar que o Dia das Mães seja aviltado por certa classe de indivíduos e organizações que veem nele apenas um meio para ganhar dinheiro”.
+— Mas, retrucou o repórter —, afinal foi a senhora mesma quem instou durante anos para que o cravo branco fosse transformado em símbolo do Dia das Mães. Foi a senhora quem insistiu para que todos mandassem mensagens de carinho às mães, por telegrama ou carta.
+— O senhor está dizendo que o meu triunfo é, também, o meu fracasso. Está bem! Você tem razão, meu rapaz! Este é o paradoxo de minha vida.
+Mas não era o único paradoxo na vida de Anna Jarvis. Embora fosse uma mulher extremamente bela, jamais se casara. Nascera em 1864, em Grafton, Virgínia Ocidental, onde crescera, transformando-se numa beldade esbelta e ruiva. Por que uma jovem assim teria permanecido solteira?
+Um amigo da família contou. “Anna teve um caso de amor mal sucedido e isso deixou-a abalada e desiludida. Daí por diante deu as costas a todos os homens”.
+Ao sair da Faculdade Mary Baldwin, em 1883, dedicara-se ao magistério em Grafton. Não que precisasse do salário. Sua mãe, viúva, gozava de boa situação. Alguns anos mais tarde, Anna, sua mãe e sua irmã mais nova, Elsinore, que era cega, mudaram-se para Filadélfia. Anna empregou-se como assistente no departamento de publicidade de uma companhia de seguros. Assim viveu dos 20 aos 40 anos. Então, em 1905, a Sra. Jarvis faleceu. Foi um golpe terrível que, entretanto, marcou o início de nova e vital etapa na vida de Anna.
+Contava ela, então, 41 anos, era dona de uma bela casa, tutora da irmã cega e principal beneficiária da herança materna.
+Enquanto decorriam os dias longos, o coração clamando pela presença materna, uma visão tomou corpo em seu espírito: a instituição de um dia consagrado às Mães.
+Sugeriu a ideia ao Prefeito Reyburn, de Filadélfia. Esse foi o início da cruzada de Anna Jarvis. O ponto básico era — ela insistia — a homenagem não só às mães vivas, mas, também, às mães que já haviam morrido. De sua casa — feita quartel-general — ela dirigiu uma das mais estranhas e eficientes campanhas epistolares de que se tem notícia. Escreveu a governadores, congressistas, clérigos, industriais, clubes femininos a qualquer um que pudesse exercer influência. As respostas a essas cartas foram em número tão considerável — demandavam tanta correspondência — que Anna deixou o emprego que tinha a fim de dedicar-se inteiramente à sua campanha.
+Quando verificou que sua casa se tornara pequena para servir de escritório, comprou a casa vizinha. Em breve era convidada a visitar outras cidades para falar perante diversas organizações. Escreveu e imprimiu folhetos sobre seu plano, distribuindo-os gratuitamente. Todas essas atividades consumiam boa parte de sua fortuna, mas Anna jamais permitiu que isso a preocupasse.
+Corriam os dias em que outras mulheres corajosas e enérgicas — as célebres Sufragettes — lutavam pelo direito de voto. Os objetivos de Anna Jarvis eram mais sentimentais, menos sujeitos a controvérsias. Como poderia um legislador combater algo tão doce, puro e cheio de beleza como um Dia das Mães? E a Virgínia Ocidental foi o primeiro Estado norte-americano a adotar oficialmente a data festiva.
+Anna Jarvis, inspirada por esses primeiros sucessos, continuou a escrever, a viajar, a fazer conferências. Em 1914 sua eloquência persuadiu o Deputado J. Thomas Heflin, do Alabama, e o Senador Morris Sheppard, do Texas, a apresentarem uma proposta conjunta para que se observasse em toda a nação norte-americana, o Dia das Mães. A proposta foi aprovada pelas duas casas do Congresso.
+O verdadeiro grande momento de Anna chegou quando o Presidente Woodrow Wilson assinou uma proclamação na qual recomendava que o segundo domingo de maio (aniversário da morte da mãe de Anna) fosse observado no país inteiro como o Dia das Mães.
+Todavia, para Anna, esse triunfo não era suficiente. Ainda era preciso conquistar o resto do mundo! Assim, a correspondência, os discursos e os folhetos de exortação continuaram, agora em escala internacional.
+E o seu esforço foi notavelmente bem sucedido. Só no decurso de sua vida, 43 países adotaram o Dia das Mães. O Brasil foi um deles. A 5 de maio de 1932, o então chefe do Governo Provisório, Getúlio Vargas, promulgou oficialmente, pelo decreto 21.366, o segundo domingo do mês de maio, o Dia das Mães.
+Infelizmente o triunfo de Anna Jarvis em breve se tornava a sua grande frustração. Ela escrevia desesperada por centenas de jornais: “Estão comercializando o meu Dia das Mães! Não era isso que eu pretendia! Esse é um dia de sentimentos e não de lucros!”
+Anna não queria que a festa da mãe pobre fosse diferente da festa da mãe rica. Um simples cravo branco, a flor predileta de sua mãe, bastava para exprimir um mundo de afeto!
+Ela estava atônita. Inesperadamente viu-se pobre e só. A escada do templo, de onde queria expulsar os vendilhões, tornara-se uma rua comercial sem horizontes: dezenas de vezes dava a volta ao mundo. Todo o dinheiro de sua herança se fora.
+Então, fazendo apagar-se para sempre o seu belo sorriso, onde, durante anos tatalara asas a borboleta de ouro de suas esperanças, recolheu-se d sua casa na Rua 12 Norte. Levando pela mão a passiva Elsinore, fechou com firmeza a porta às suas costas. Daí para a frente recusava-se a receber quem quer que fosse.
+Assim deixou-se levar pelas torrentes crepusculares dos anos até a enseada da Praça Marshal, em West Chester.
+— Antes não o tivesse feito! Lamento ter criado o Dia das Mães!
+Agora este livro espírita está pronto. Ele se move no fulcro mesmo dos anseios, angústias, esperanças e reivindicações de Anna Jarvis.
+Eu creio que ele encheu o seu coração vazio!
+Entre cravos brancos e preces, louvor, ternura e devoção, aqui se encontra algo que não pode ser comprado nem vendido, que não se expõe em vitrinas e nem se embrulha em papel doirado, com laços coloridos: LUZ ESPIRITUAL.
+Eis algo em que Anna Jarvis gostaria de ter pensado.
+Todavia, este não é um livro Cor-de-Rosa. O que existe nele de floração, nasce de um solo cuja fertilidade se chama: consciência e consequência. As vozes que nele vão travar um diálogo, às vezes contumaz, sempre forte como o cristal, tentam ecoar para muito além das distâncias e dos horários.
+Elas chamam à Terra: Mãe! Chamam a Miriam, esposa de José, carpinteiro nazareno: Mãe! Gritam: Mãe! a todas as mulheres do mundo. E esse grito é triunfo, pois mil vozes respondem: Meu filho!
+De modo que o desafio de Anna Jarvis está feito. Em cada página deste livro estão os pensamentos que, desesperadamente, ela procurou na casa vazia da Rua 12 Norte.
+Por isso, hoje, eu me volto para a presença ausente de Anna Jarvis e suavemente lhe digo: Este livro é teu! Toma-o! É a bíblia de tua companhia, o manifesto de teu movimento. Jamais homem algum poderá mercadejar com quanto vai aqui escrito. A tua causa, pois, não está perdida!
+Depois de tantos e tantos anos, ela sorri a audaz mulher de Filadélfia — e, compondo de luar um cravo branco, atira-mo. Em sua trajetória de arco-íris, ele atravessa esta página. E, leitora, eis que cai em teu regaço.
+Tu foste, és, ou serás mãe. Em ti — aurora desagrilhoada — estão o Poder, o Reino e a Glória.
+Anna Jarvis dá-te o seu cravo branco, dá-te o seu Dia das Mães. Lê este livro e faze desse cravo, desse Dia, aquilo que te parecer melhor.
+Araraquara, primavera de 1971.
+
+---
+
+##  — Avulsos
+
+A mulher deve ser como a palha miúda com que se encaixotam porcelanas, palha que não conta, palha que mal se vê, palha de que ninguém se apercebe e sem a qual se quebraria tudo!
+Certos pensamentos são como orações. Em dados momentos, qualquer que seja a postura do corpo, a alma está de joelhos.
+Ama, filhinha, entretanto
+Sofre a dor que o lar te der.
+É toda feita de pranto
+A glória de ser mulher.
+Mãezinha, não sei ao certo
+Onde a ausência dói mais fundo,
+Se na paz do firmamento,
+Se na dor que envolve o mundo.
+Leite materno! Óleo santo!
+Afirma-se que ele veio
+Do sangue que se fez pranto
+No filtro de amor do seio.
+Mãe, quando a noite afervora
+A tua oração no lar,
+Teu filho, morto lá fora,
+E a brisa querendo entrar.
+
+Mãe entregue à sepultura
+Vence trevas e empecilhos,
+Para ser paz e brandura
+À cabeceira dos filhos.
+O mundo será feliz
+Quando a mulher sem receio
+Abrir a porta da casa
+Aos órfãos do lar alheio.
+Devemos interpretar
+Toda mulher ao relento
+Como sendo nossa mãe
+Vagando no sofrimento.
+Mãe, abençoa teu filho,
+Mesmo ingrato, rude e vão.
+A luz nunca perde o brilho
+Por derramar-se no chão.
+Oh! O que seria das mães que temem pela vida de seus filhos, se não fosse a oração!
+
+---
+
+## PREFÁCIO — Oferta de amor
+
+MÃEZINHA, enquanto o mundo te adorna a presença com legendas sublimes, abrilhantando-te o nome, quis trazer-te a homenagem de meu reconhecimento e de meu carinho, segundo as dimensões de tua bondade, e te rememorei os sacrifícios…
+Revi, mãezinha, as tuas noites longas, junto de mim, quando a febre me atormentava no berço. Anjo transformado em mulher, erguias as mãos para o Céu e o que falavas com Deus me caía no rosto em forma de lágrimas!… Tornei a encontrar-te os braços acolhedores, festejando-me o retorno à saúde, com a doçura de teus beijos.
+E, vida em fora, o pensamento recuou para lembrar-te…
+Com a retina da memória, contemplei-te os lábios pacientes, ensinando-me a pronunciar as preces da infância; e, nesses lábios inesquecíveis, fitei os sorrisos de júbilo quando me deste os primeiros livros da escola.
+Depois, acompanhei-te, passo a passo, o calvário de renúncia em que me levantaste para a vida.
+Quantas vezes me abraçaste, trocando bênçãos por aflições, não conseguiria contar… Quantas vezes te ocultaste no sofrimento para que a alegria não me fugisse realmente, não sei…
+Passou o tempo e, hoje, de alma enternecida, anseio debalde surpreender as palavras com que algo te venha a dizer de meu agradecimento; entretanto, eu que desejaria medir o meu preito de afeto pelo tamanho de teu devotamento, posso apenas calcular a extensão de meu débito para contigo, a repetir que te amo e que em ti possuo o meu tesouro do Céu.
+Perdoa, mãezinha, se nada tenho para dedicar-te, senão as pérolas do meu pranto de gratidão, iluminadas pelas orações que endereço a Deus por tua felicidade. E, se te posso entregar algo mais, deixa que te oferte o meu próprio coração, neste livro de ternura, por dádiva singela de minha confiança e carinho, num ramalhete de amor.
+Uberaba, 1º de março de 1971.
+
+---
+
+## 5 — Rainha do lar
+
+Doce Rainha do Lar, quem te relacionará os sacrifícios? Que concha sublime te guardará na Terra, as pérolas do coração, vertidas em forma de lágrimas, para definir-te o salário no Céu?
+Todos te devem carinho, raros te conhecem no esplendor de tua renúncia. Embora desconhecidas, porém, as tuas mãos de luz alimentam a vida…
+Teces a renda do berço e guardas a nossa existência no ninho acolhedor de teus braços, orvalhando-nos de ternura para que venhamos a crescer no entendimento. Isolada no pequenino reino doméstico, sustentaste-nos os passos primeiros, ensinando-nos a pronunciar o nome de Deus.
+Quando todos se fatigavam, à frente de nossos caprichos, era teu coração nosso invariável refúgio.
+Desapegaste a ti mesma de todos os adornos, para que nos enfeitássemos de ilusão, quanta vez esquecendo-te à distância de nossos triunfos! Nem por isso te revoltaste, Anjo Amigo!
+Bastava que a dor nos anuviasse os olhos para que as tuas mãos desfalecessem de amor, acariciando-nos a face tristonha e arrebatando-nos, de novo, à música do sorriso.
+Muitos se ergueram aos clarins da fama, relegando-te à obscuridade e outros muitos atingiram as culminâncias do ouro e do poder, olvidando-te no infortúnio… Entretanto, mãezinha, teus lábios sorriam felizes, abençoando-lhes a vitória!…
+Vives na base de todos os monumentos do mundo, no entanto, quão poucos se lembram de ti, crucificada no sofrimento para que a alegria e o progresso assinalem o esforço das criaturas distraídas da Terra!
+Enxuga, porém, o teu pranto oculto e não permitas que a flagelação e a saudade, a mágoa e o desencanto te sufoquem a alma. Ainda mesmo apunhalada de angústia, crê e espera, ama e ajuda sempre!
+Do teu trono de humildade e aflição, alça teu pensamento ao Caminho Estrelado, porque na Glória do Céu a tua dolorosa vigília é abençoada pela Divina Soberana, cujo filho é o nosso Excelso Rei coroado de espinhos.
+
+---
+
+## 7 — Cantigas para a mulher
+
+
+Mãe e esposa, filha e irmã,
+Sentinelas benfazejas!…
+Mulher fiandeira da vida,
+Bendita, bendita sejas!…
+
+Alegria da mulher,
+Seja qual seja, onde for,
+Aflição oculta em riso,
+Ventura feita de dor.
+
+Mulher cativa da sombra,
+Que o mundo fere a capricho,
+Tesouro que ninguém vê,
+Abandonado no lixo.
+
+Mulher caída na estrada!…
+Não grites condenação.
+A chuva desce do céu
+E faz-se vida no chão.
+
+Tudo o que é belo no mundo
+Deus garante, enquanto houver
+Alma que aceite os espinhos
+Do ofício de ser mulher.
+
+---
+
+## 9 — Meu tesouro
+
+Agradeço, Senhor, o mundo em verde e flor que nos fizeste…
+— A Terra, o lar de luz que se equilibra em pleno Lar Celeste!…
+Agradeço a esperança que me acalenta o ser,
+A bênção de servir, o dom de compreender.
+Agradeço a amizade em que meu coração se renova e se ufana,
+Toda vez que se alegra ou se refaz, no entendimento da ternura humana.
+Agradeço a lição do sofrimento, no cadinho da prova em que me exaltas,
+Entregando-me a dor por auxílio divino e apagando em silêncio as minhas próprias faltas!…
+Agradeço a instrução e o carinho da escola,
+O socorro do bem e a palavra tranquila que me ajuda ou consola!…
+Agradeço a alvorada, o sol que me sustenta e acaricia,
+A noite que me acalma o pensamento, o pão de cada dia.
+Entretanto, meu Deus, mais do que tudo, agradeço-te a prece enternecida,
+O regaço materno que me trouxe para a glória da vida!…
+Em tudo, em todo tempo e em toda parte, sê bendito, Senhor,
+Pela Santa Mãezinha que me deste, meu tesouro de amor!
+
+---
+
+## 13 — Oração de mãe
+
+Deus de Infinita Bondade!
+Puseste astros no céu e colocaste flores na haste agressiva… A mim deste os filhos e, com os filhos, me deste o amor diferente, que me rasga as entranhas, como se eu fosse roseira espinhosa, que mandasses carregar uma estrela…
+Aceitaste minha fragilidade a teu serviço, determinando que eu sustente com a maternidade o mandato da vida; entretanto, não me deixes transportar, sozinha, um tesouro assim tão grande! Dá-me forças para que te compreenda os desígnios; guia-me o entendimento para que a minha dedicação não se faça egoísmo; guarda-me em teus braços eternos, para que o meu sentimento não se transforme em cegueira.
+Ensina-me a abraçar os filhos das outras mães com o carinho que me insuflas no trato daqueles de que enriqueceste minhalma!
+Faze-me reconhecer que os rebentos de minha ternura são depósitos de tua bondade, consciências livres que devo encaminhar para a tua vontade e não para os meus caprichos. Inspira-me humildade para que não se tresmalhem no orgulho por minha causa.
+Concede-me a honra do trabalho constante, a fim de que eu não venha precipitá-los na indolência. Auxilia-me a querê-los sem paixão e a servi-los sem apego. Esclarece-me para que eu ame a todos com devotamento igual.
+No entanto, Senhor, permite-me inclinar o coração, em teu nome, por sentinela de tua bênção, junto daqueles que se mostrarem menos felizes!… Que eu me veja contente e grata se me puderem oferecer mínima parcela de ventura e que me sinta igualmente reconhecida se, para afagá-los, for impelida a seguir nos caminhos do tempo, sobre longos calvários de aflição!…
+E, no dia em que caiba entregá-los aos compromissos que lhes reservaste ou a restituí-los às tuas mãos, dá que, ainda mesmo por entre lágrimas, possa eu dizer-te, em oração, com a obediência da excelsa Mãe de Jesus: “Senhor, eis aqui tua serva! Cumpra-se em mim, segundo a tua palavra…”
+
+
+---
+
+## 35 — Encontro no lar
+
+Ouvi hoje, mãezinha, os poemas que te exaltam a glória e, como acontece em tantos outros dias, minha memória te buscou nas telas do tempo! O passado desfilou à frente de meus olhos e tornei a escutar as palavras com que te magoei, recordando as ações infelizes com que, tantas vezes, te deixei arrasada, entre o assombro e a aflição!…
+Tornei a ver-te debruçada, em pranto sobre mim, quando leve mal-estar me tomava o corpo, suplicando a Deus me poupasse ao teu carinho, a mim que te roubava a mocidade e atormentava o coração… E reconstituí na lembrança o teu sorriso de ventura, quando a saúde, de novo, me coloria a face!…
+Depois, revi mais… Minha vida foi arrastada para fora de teu convívio pelas intimações do mundo, assim como o barco se desgarra do refúgio, arrebatado pelos golpes do vento. Então, nem o dinheiro e nem o conforto, nem o apoio social e nem a cultura da inteligência me apagaram a sede de retornar-te à presença, a fim de sentir-me outra vez no calor de teu regaço que me guardava no lar, à feição da paina forrando o ninho.
+Nada encontrei que se te assemelhasse à ternura!…
+Anjo, como desceste da luz divina para as sombras da Terra? Estrela, quem poderá definir o brilho com que fulges, invariável, no céu da abnegação?
+Anseio algo exprimir-te do meu agradecimento e do meu afeto, mas a emoção se me extravasa do peito e as minhas frases esmorecem na boca… Por isso, ante o mundo que se enternece para saudar-te, rogo te recolhas comigo no templo invisível da oração!…
+Quero entregar-te minhalma para dizer-te sem palavras o amor com que te amo… Abraça-me!… Conchega-me a ti!… Mais ainda!… Deixa que eu te beije a cabeça fatigada e, enquanto as lágrimas de reconhecimento me caem dos olhos, à maneira de orvalho da gratidão sobre os teus cabelos que o tempo esmaltou de prata, deixa que o meu coração pulse em silêncio, junto do teu!
+Entretanto, fala mãezinha!… Dize-me ainda: “Deus te abençoe!…”
+
+---
+
+## 44 — Celina
+
+Quando elevamos ao céu o nosso olhar suplicante, há para todos nós, os que se afligem na provação, uma carinhosa e compassiva mãe que nos ampara e consola.
+Compadece-te da nossa dor, contempla-nos com misericórdia e manda-nos então o anjo da sua bondade para balsamizar os nossos padecimentos… É Celina, a suave mensageira da Virgem, a Mãe de todas as mães, o gênio tutelar da Humanidade sofredora…
+Quando o pranto aflora nos olhos das que são filhas e irmãs, das que são esposas e mães na Terra, no coração das quais, muitas vezes, se concentra a amargura, vem Celina e toma-as nos seus braços de névoa resplandecente e, através dos ouvidos da consciência, lhes diz com brandura: “Veio a dor bater à vossa porta? Coragem… Não vos desanimeis nas ásperas lutas que objetivam o vosso aprimoramento moral. Pensai Naquela que teve sua alma recortada de martírios, lacerada de sofrimentos, atormentada de angústias. Ela se desvela do céu por todas aquelas almas que escolheram suas pegadas de mãe amorosa e compassiva.
+Foi ela que escutou a oração da vossa fé e me enviou para que eu vos desse as flores do seu amor sacrossanto, portadoras da paz, da humildade e, sobretudo, da paciência, porque o acaso não existe e tudo na vida obedece a uma lei inteligente de causalidade que foge aos vossos olhos, que se sentem impossibilitados de ver toda a verdade: Tomai as minhas mãos! Cumpri austeramente todos os vossos deveres, fechai os vossos olhos àquilo que pode obstar os vossos passos para a luz e caminhai comigo…
+Os anos são minúsculas frações de tempo, e, um dia, sem vos deterdes com o cansaço, chegareis aos pés daquela que é a vossa mãe desvelada de todos os instantes!…”
+E todas aquelas que a ouvem, sentem-se sustentadas por braços tutelares, na noite escura das dores, e, vertendo lágrimas amargosas, preparam-se e se iluminam na pedregosa senda da virtude para respirarem os ares felizes do encantado país onde desabrocham os lírios maravilhosos da esperança.

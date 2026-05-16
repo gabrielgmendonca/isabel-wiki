@@ -1,0 +1,391 @@
+# Hoje
+
+**Autor espiritual:** Emmanuel  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Ho/HoPref.htm
+
+---
+
+##  — Hoje
+
+Leitor amigo,
+Quais as razões que teriam induzido alguns amigos a solicitar-nos um livro sob o título “HOJE”?
+Possivelmente estimariam ler uma relação de encargos para as horas do dia, à feição de um prontuário que lhes sirva de guia às atividades mentais, evitando-lhes desacertos e atropelos.
+Cada dia, porém, é uma parcela do tempo que a Providência Divina nos concede a todos, em quotas iguais, para o nosso aprendizado na escola da evolução.
+Escalonar obrigações para as criaturas humanas, além das disciplinas naturais estabelecidas para o trabalho de cada uma, seria coartar o livre-arbítrio, encarcerando-lhes as manifestações para a escolha de caminhos e atitudes, suscetíveis de aperfeiçoar-lhes as experiências.
+Eis porque não temos neste volume simples um conjunto de regras e sim um campo de ideias e sugestões para nossa vida diária. Ideias e sugestões capazes de auxiliar-nos a tomar as melhores diretrizes nos trevos das horas, de maneira a nos sentirmos tranquilos na marcha das ocorrências, nascidas de nossas próprias opções.
+Cada dia é constituído por mil e quatrocentos e quarenta minutos, equivalendo esse número à quantidade de aberturas de que dispomos no tempo, a fim de fazer o melhor ao nosso alcance.
+Aqui está o pequeno parque de apontamentos e indicações que te oferecemos para a valorização de nossas oportunidades de acertar com as leis que nos regem, e nos induz à prática do bem, a norma segura para as nossas aquisições de paz e alegria, com alicerces no dever cumprido.
+Compreendemos que hoje é o nosso melhor dia para melhorar-nos, melhorando a vida em derredor de nós.
+Admitimos que estamos respondendo aos nossos companheiros do Plano Físico, no clima de segurança que se nos faz possível observar, dentro de nossas próprias limitações.
+Assim pensando, por hoje, ficamos por aqui, rogando a Jesus, o nosso Divino Mestre, nos inspire e abençoe.
+Uberaba, 19 de maio de 1984.
+
+---
+
+## 1 — Serviço urgente
+
+Em verdade, o ensinamento do bem somente vale quando a criatura lhe substancializa a orientação.
+O esquema de estudo, no recinto da escola, é o mesmo tesouro de luz para a coletividade dos aprendizes; cada aluno, porém, revela assimilação diferente.
+O regimento de uma fábrica relaciona instruções gerais para a dignificação do trabalho; mas, a eficiência da indústria exige o concurso criterioso de cada cooperador.
+As disposições do trânsito representam sugestões respeitáveis daqueles que se desvelam pela tranquilidade pública; a segurança comum, todavia, depende do acatamento com que as observem pedestres e motoristas.
+Valemo-nos dos símiles para considerar que a Doutrina Espírita é instituição funcional na Terra e em qualquer outra estância do Universo, por englobar princípios idênticos para todos os seres, com vistas à emancipação, equilíbrio, burilamento e felicidade das consciências, assemelhando-se à fonte desatada, de cujas águas cada um pode tomar a quantidade compatível com o recipiente que carrega. Nas diretrizes em que se define, expede amparo e esclarecimento, favores e bênçãos, em todas as direções, sem personalização ou prerrogativa.
+Capacitemo-nos de que o nosso aproveitamento dos valores da vida, empregando os recursos que ela nos oferece, guarda o tamanho de nosso esforço.
+Aperfeiçoamento em nós mesmos — serviço urgente.
+A Doutrina Espírita administra a educação com benemerência e grandeza, auxiliando indistintamente. Recebê-la e aplicá-la constituem tarefas da nossa vontade em ação.
+
+---
+
+## 2 — Construir
+
+Em muitas ocasiões, lamentamos as dificuldades para fazer aquilo que os mensageiros do Senhor nos solicitam.
+Todos eles nos pedem construir o bem, onde estivermos. Dentro de casa, no lugar de trabalho, nos encontros e nas ruas. Em suma, levantar os alicerces do bem que estamos aguardando para os dias porvindouros.
+Sabemos o que fazer mas, habitualmente, nos detemos nos obstáculos e divergências, perdendo tempo e oportunidade.
+Não raro, subestimamos a sinceridade e a franqueza dos amigos valorosos que nos convidam à coragem e à persistência na execução de nossos encargos e identificamo-nos, com facilidade, com os que choram e se lastimam ao invés de trabalhar.
+Aderindo à falange da queixa, passamos a censurar o clima social, clamamos contra o afastamento de determinados companheiros, apresentamo-nos na condição dos peregrinos de pés sangrentos e exibimos as mãos calejadas.
+Entretanto, não fomos engajados na obra do Cristo para fiscalizar o comportamento do próximo, para inventariar reclamações, deplorar-nos ou chorar inutilmente e sim para construir.
+Se nos sentimos incomodados por inquietações e discórdias, estirados em azedume e tristeza, levantemo-nos para servir.
+Cada pequenina realização é um tijolo simbólico assentado na edificação a que fomos admitidos.
+O diálogo com a criança, insuflando-lhe pensamentos de compreensão e generosidade.
+Uma frase de bom-ânimo para com os amigos ameaçados pelo esmorecimento.
+Um apelo à renovação dos companheiros abatidos.
+Algum comentário sobre a necessidade de mais luz e mais dedicação no desdobramento das tarefas de benefício, em favor do próximo.
+A migalha amoedada com que se atenua a aflição ou a penúria de alguém.
+O amparo ao doente.
+Qualquer desses recursos são tijolos de paz e amor na concretização do Reino do Bem.
+Não importa que a ventania da discórdia esteja rugindo em torno de nós. O importante será erguer o coração e as mãos, a palavra e a atitude para construir.
+
+---
+
+## 3 — Nós e os outros
+
+Quando te sintas à beira de pesar e desânimo, diante dos contatos sociais menos felizes, reflete na importância dos outros.
+Certamente, não nos é lícito aceitar os golpes e os preconceitos que os irmãos menos esclarecidos nos queiram impor, de vez que atendemos ao tato fraterno, em bases de respeito e discernimento.
+Não podemos, no entanto, esquecer que os outros são para nós:
+os companheiros do caminho;
+os associados de ideal;
+os colegas de aprendizado;
+os fornecedores de serviço;
+os mensageiros do pensamento que arremessamos na direção do futuro;
+os ouvintes de nossas palavras;
+os leitores das páginas que mais amamos;
+os simpatizantes da causa a que empenhamos o coração;
+os consumidores de nossas ideias;
+os cultivadores dos princípios que nos clareiam a estrada;
+os continuadores do esforço que nos marca a existência;
+os amigos de nossas realizações…
+Por muito te doam os desencantos adquiridos na comunidade social, que, aliás, correspondem a preciosas lições de que todos temos necessidade, na escola da experiência, medita na importância dos outros!… Eles são efetivamente nossos irmãos e tudo aquilo que fizermos aos outros, determinam as leis da vida seja debitado ou creditado, em nossa conta, diante da Humanidade — nossa família maior.
+os companheiros do caminho;
+os associados de ideal;
+os colegas de aprendizado;
+os fornecedores de serviço;
+os mensageiros do pensamento que arremessamos na direção do futuro;
+os ouvintes de nossas palavras;
+os leitores das páginas que mais amamos;
+os simpatizantes da causa a que empenhamos o coração;
+os consumidores de nossas ideias;
+os cultivadores dos princípios que nos clareiam a estrada;
+os continuadores do esforço que nos marca a existência;
+os amigos de nossas realizações…
+
+---
+
+## 4 — Problema
+
+Diante desse ou daquele problema que te aflija, perdendo forças inutilmente:
+se é doença no próprio corpo, a inquietação não se te fará remédio;
+se é enfermidade em pessoas queridas, a irritação que demonstres apenas lhes prejudicará o campo emotivo;
+se é dívida a pagar, não te liberarás com lamentações;
+se erraste, tão somente a tristeza não se te erguerá em apoio real para a corrigenda devida;
+se sofre porque algum familiar se te desvinculou da equipe doméstica a fim de residir à distância, não conseguirás, com isso, retê-lo a cabresto;
+se um companheiro ou uma companheira te deixaram a sós, não lhes modificarás as decisões unicamente porque te lastimes;
+se alguém te feriu e não desculpas a ofensa recebida, o ressentimento se te manifestará no coração, comprometendo-te o equilíbrio orgânico;
+se a tua dor se verifica ante a desencarnação de entes queridos, a inconformação a que te entregas tão só se te fará tumultuar o círculo daqueles aos quais mais amas.
+Perante qualquer problema, se não queres agravá-lo, aceita-o, com paciência, porque assim formarás em ti mesmo o clima favorável ao auxílio dos Mensageiros do Eterno Bem, que te sustentarão as energias, de modo a que promovas a única solução segura e verdadeira que se te faz necessária e que será sempre — trabalhar.
+se é doença no próprio corpo, a inquietação não se te fará remédio;
+se é enfermidade em pessoas queridas, a irritação que demonstres apenas lhes prejudicará o campo emotivo;
+se é dívida a pagar, não te liberarás com lamentações;
+se erraste, tão somente a tristeza não se te erguerá em apoio real para a corrigenda devida;
+se sofre porque algum familiar se te desvinculou da equipe doméstica a fim de residir à distância, não conseguirás, com isso, retê-lo a cabresto;
+se um companheiro ou uma companheira te deixaram a sós, não lhes modificarás as decisões unicamente porque te lastimes;
+se alguém te feriu e não desculpas a ofensa recebida, o ressentimento se te manifestará no coração, comprometendo-te o equilíbrio orgânico;
+se a tua dor se verifica ante a desencarnação de entes queridos, a inconformação a que te entregas tão só se te fará tumultuar o círculo daqueles aos quais mais amas.
+
+---
+
+## 5 — Emoção e raciocínio
+
+Para distrair-se, ao longo da praia, o viajante pede madeira frágil destinada à canoa leve, contudo, na travessia do mar, requisita o concurso do aço, na sustentação dos grandes navios.
+A fim de tão somente alfabetizar-se, o estudante roga semanas breves, no entanto, para senhorear os recursos especializado de uma profissão liberal, gasta quase toda a existência.
+Para alimentar-se, no espaço de algumas horas, a criatura pode valer-se da alface de poucos dias, mas se deseja apoiar a oficina em que se educa, solicita o favor da peroba que exige muitos anos para desenvolver-se.
+A fim de brincar num circo, o homem utiliza estacas, à flor da terra, em galpões de emergência, entretanto, ao erguer a casa de moradia, recorre ao prestígio da pedra, na garantia dos alicerce.
+Viver bem, segundo a emoção, na superfície das cousas, é atividade comum. Viver para o bem, na profundeza do raciocínio, é obra de raros.
+Arma-te de energia, se aspiras a vencer a sombra em ti mesmo. Ninguém constrói caminhos de paz e luz, sem a firmeza da fé sobre a constância da paciência.
+
+---
+
+## 6 — Preservação
+
+Na preservação da segurança comunitária, contra a violência, atendamos à caridade que lhe evite a eclosão.
+Onde te requisitem a opinião, sobre determinado assunto, fala para o bem, esquecendo o mal.
+Aceita-te como és, com o que sabes e com o que tens, caminhando segundo o limite dos teus próprios passos.
+Não clames por recursos maiores, antes que o tempo te amadureça o raciocínio, a fim de que saibas repartir com os outros as facilidades de tuas próprias aquisições.
+Guarda a vida simples, de modo a não provocares a inveja destrutiva em determinados companheiros que ainda não possuem suficiente compreensão para te aplaudirem os destaques.
+É justo sonhes com mais progresso e conforto, no entanto não procures vantagens, aos saltos, e nem te acomodes com a clandestinidade, capaz de complicar-te os caminhos.
+Nas vias públicas, abstém-te de correr no encalço dos primeiros lugares que talvez te comprometam a própria existência.
+Responde com serenidade aos que te interpelem sobre qualquer assunto, mantendo, tanto quanto possível, a disponibilidade de quem deseja ser útil.
+O mundo vem sofrendo repetidas crises de violência. Sê a paz, onde estejas e por mais desafios recebas à rixas e problemas estéreis, dialoga com respeito e bondade, seguindo adiante, em teu próprio caminho, sustentando, acima de tudo, a consciência tranquila com a bênção de Deus.
+
+---
+
+## 7 — Os outros também
+
+Habitualmente, lembramo-nos da justiça apenas à frente dos acontecimentos de monta.
+Recordamo-la, quando as calamidades da guerra indicam multidões humilhadas ou a imprensa nos fala de vítimas, quando a autoridade se desmanda ou a fortuna se desgoverna.
+Mencionamo-la, à feição de conceito remoto, entretanto, justiça é dever de cada um, culto pessoal ao bem de todos, através do respeito ao próximo.
+Sem ela, o caos dominaria a existência, prestigiando imposição e desordem.
+Razoável, assim, aceitá-la como sendo obrigação de cada dia, a começar de nossas menores atividades caseiras. Para isso, bastará enumerar algumas das nossas aspirações e solicitações pequeninas.
+
+Desejamos que se nos respeite as tarefas…
+
+Aguardamos atenção para os nossos pontos de vista…
+
+Queremos ser acatados…
+
+Suspiramos por auxílio fraterno que nos ajude a ser melhores…
+
+Contamos com a tolerância alheia sem que sejamos forçados a mendigá-la…
+
+Sonhamos progredir…
+
+Requisitamos facilidades…
+
+Disputamos ensejos de aprendizado e ascensão…
+
+Esperamos que se nos anote a sinceridade…
+
+Ansiamos obter a confiança daqueles que nos rodeiam…
+
+Confortamo-nos com as palavras de compreensão ou desculpa que se nos enderece espontaneamente, em nossas horas menos felizes…
+Enfileiremos na memória alguns dos desejos primários que apresentamos como sendo condições básicas à sustentação de nossa euforia e observemos que se exigimos à justiça da vida consideração para com as nossas necessidades mais ínfimas, isso acontece com os outros também.
+
+---
+
+## 8 — Pontes
+
+Serviço de caridade, às vezes, pouco lembrado, e que se reveste de elevada significação — o levantamento de pontes espirituais para alterar a compreensão entre as criaturas.
+No Plano Físico marcado por separações de toda espécie, é justo destacar a necessidade de semelhante realização.
+Nos domínios da alma, a Terra jaz repleta de divisões, barreiras, preconceitos, privilégios, prioridades, convenções e classes, prejudicando o estabelecimento da harmonia e da segurança entre os homens.
+A própria diplomacia, em tese, pode ser considerada por ciência destinada a erguer o entendimento e a simpatia entre as nações.
+Quanto possas, trabalha na formação das pontes da amizade e da tolerância, onde estejas. Para isso, basta procures utilizar, simbolicamente, as vigas do serviço desinteressado ao próximo, o cimento do silêncio diante da discórdia e do mal, as paredes
+n
+das boas palavras empregadas em tempo certo, as peças do perdão incondicional das ofensas, sob os planos e indicações da humildade.
+Muita gente pede concurso para a concretização das obras de caridade. A construção das pontes de ligação entre pessoas e grupos sociais é uma das mais importantes.
+E provavelmente hoje mesmo, se quiseres, poderás iniciar a construção das pontes da conciliação e de amor, dentro da própria casa.
+
+---
+
+## 9 — Pensemos nisso
+
+Exaltemos a indulgência não apenas qual lâmpada que deve brilhar nos vizinhos, mas, acima de tudo, por luz viva que nos cabe trazer no coração, de maneira a clarear o próprio caminho.
+Pensemos nisso, observando as dificuldades do próximo, como se as dificuldades do próximo, em verdade, nos pertencessem.
+Viste o companheiro embriagado, na via pública, e, instado a prestar-lhe breve momento de apoio, desapareceste na esquina, desistindo conscientemente de auxiliá-lo. Reflete, porém, nos suplícios da esposa digna que o suporta, incessantemente, dentro de casa.
+Percebeste as manifestações desagradáveis da irmã irrefletida e lhe atiraste em rosto reprovações e críticas, através de advertências amargas. Recorda, no entanto, a luta do homem correto que a sustenta no lar, por mãe dos próprios filhos.
+Registraste a presença do irmão obsidiado e fugiste à sorrelfa, temendo a obrigação de socorrê-lo, no espaço de algumas horas. Medita, contudo, nos sacrifícios do coração materno que o carrega sem pausa.
+Ouviste as lamentações do enfermo, a censurar-lhe gemidos e descontroles. Imagina, entretanto, como te comportarias se a doença que o verga te invadisse a esfera da própria carne.
+Assinalaste as inibições do amigo que conversa de maneira infantilizada e abandonaste, intempestivamente, a palestra, negando-lhe mais alguns minutos de atenção cordial. Pensa, todavia, quão longo e doloroso te seria o sofrimento, se guardasses no cérebro semelhantes entraves.
+Ninguém pode viver sem a indulgência dos outros, mas, para exercer com sinceridade a indulgência para com os outros, é necessário saibamos colocar-nos no lugar deles.
+
+---
+
+## 10 — Inquietação
+
+Existem na vida social determinados tipos de inquietação que permanecem estanques, conosco, de vez que o espírito de compreensão e tolerância não nos permite exteriorizá-los. Exemplos:
+
+A pessoa querida que sabemos em caminhos indesejáveis.
+
+Alguém que estimamos profundamente, a mergulhar-se em atividades clandestinas.
+
+A companheira que se afasta dos próprios deveres, comprometendo-se em aventuras inconfessáveis.
+
+O esposo que se envolveu em obrigações incompatíveis com as responsabilidades que abraça.
+
+O amigo que se entregou a costumes infelizes.
+
+A maioria das criaturas pertencentes ao grupo afetivo a que nos achamos vinculados, quando se prepara, a fim de dar um golpe de enormes proporções sobre os interesses alheios.
+
+O irmão que nos mente, a fim de alcançar objetivos escusos.
+
+O parente amado que deserta de casa, lançando culpas indébitas sobre outrem.
+Justo observar que daríamos quanto se nos fizesse possível para socorrer semelhantes corações que se nos fazem extremamente estimáveis, entretanto, o respeito por todos eles nos faz emudecer.
+Ainda assim, compete-nos lembrar que dispomos de possibilidades valiosas a fim de auxiliá-los: a primeira é o silêncio, com que lhes manifestamos o nosso apreço, e a segunda é a oração, porquanto, na oração ser-nos-á possível entregá-los a Deus, cujo amor por todos esses amigos é infinitamente maior do que o nosso.
+
+---
+
+## 11 — Se quiseres servir
+
+A lei de causa e efeito terá ajustado aos teus momentos de agora problemas difíceis de resolver, incluindo provações que te acabrunham a alma, no entanto, se quiseres servir a benefício dos outros, a Misericórdia Divina interferirá no campo da Divina Justiça, em teu favor, e conseguirás sem dificuldade renovar o próprio caminho.
+Por injunções da tarefa que desempenhas, adversários gratuitos te impõem duros reveses, promovendo discórdia e incompreensão em torno das responsabilidades que te marcam as horas, mas, se quiseres servir, a breve tempo, transformarás aversão em simpatia, angariando novos amigos para a esfera de tua causa.
+Estorvos à realização de teus ideais te afligirão a senda, contudo, se quiseres servir, atrairás braços inúmeros que estarão contigo, sintonizados no esforço das boas obras.
+Sofres a influência obsessiva da parte de inimigos desencarnados a te inibirem os movimentos, como se grilhões invisíveis te barrassem os passos, todavia, se quiseres servir, nisso empenhando vontade e decisão, para logo, terás convertido desafeto em cooperação, criando atmosfera de paz e amor, ao redor de teus dias.
+O quadro de tuas obrigações te parece duvidoso, com vistas à possível execução dos deveres que a vida te designa no erguimento do bem, fornecendo a impressão de iminente insucesso, entretanto, se quiseres servir, colherás novos contingentes de auxílio e verás frutescer em triunfo as flores que te pendem dos projetos edificantes.
+Jamais desanimes. Obstáculo é agente renovador, acumulando a riqueza da experiência.
+Trabalho digno é cimento espiritual na construção da felicidade.
+O que hoje é sombra de perturbação, amanhã pode ser luz e esclarecimento, segurança e harmonia. Mas para que isso aconteça por demonstração da Força Divina em nossa fraqueza humana, é necessário olvidar a nós mesmos, procurando servir.
+
+---
+
+## 12 — Desespero
+
+Provações e problemas, habitualmente, são testes de resistência, necessários à evolução e aprimoramento da própria vida.
+A paciência é a escora íntima que auxilia a criatura a atravessá-los com o proveito devido.
+O desespero, entretanto, é a sobretaxa de sofrimento que a pessoa impõe a si mesma, complicando todos os processos de apoio que a conduziriam à tranquilidade e ao refazimento.
+Provações e problemas, habitualmente, são testes de resistência, necessários à evolução e aprimoramento da própria vida.
+A paciência é a escora íntima que auxilia a criatura a atravessá-los com o proveito devido.
+O desespero, entretanto, é a sobretaxa de sofrimento que a pessoa impõe a si mesma, complicando todos os processos de apoio que a conduziriam à tranquilidade e ao refazimento.
+O desespero é comparável a certo tipo de alucinação, estabelecendo as maiores dificuldades para aqueles que o hospedam na própria alma.
+Em conflitos domésticos, inspira as vítimas dela a pronunciar frases inoportunas, muitas vezes separando os entes amados, ao invés de uni-los.
+Nos eventos sociais que demandam prudência e serenidade, suscita a requisição de medidas que prejudicariam a vida comunitária se fossem postas em prática no imediatismo com que são exigidas.
+Nas reivindicações justas, costuma antecipar declarações e provocar acontecimentos
+n
+que distanciam os beneficiários das vantagens que lhes caberiam atingir.
+Nas moléstias do corpo físico, por vezes, encoraja o desrespeito pela dosagem dos medicamentos, no doente que precisa da disciplina, em favor da própria cura.
+Disse Jesus: “Bem-aventurados os aflitos porque serão consolados”,
+mas urge reconhecer que os aflitos inconformados, sempre acomodados com o desespero, acima de tudo, são enfermos que se candidatam a socorro e medicação.
+
+---
+
+## 13 — Perdoarás
+
+Perdoarás, mas perdoarás compreendendo que o perdão não te coloca na galeria de virtudes especiais, diante daquele a quem hajas brindado com a tua benevolência.
+Perdoarás, reconhecendo que poderias estar no lugar dele.
+Examinarás todo o acervo de sentimentos e pensamentos, impulsos e ações que te definem a personalidade e perguntarás a ti mesmo, sem qualquer subterfúgio, como agirias na posição do ofensor, no momento psicológico em que ele caiu.
+Ouvirás a consciência sem fugir-lhe às anotações e perceberás, para logo, que é forçoso sanar o erro, entretanto, observarás claramente, que ninguém suprime um erro em definitivo sem o clima da compaixão, e ninguém encontra o clima da compaixão sem a luz do entendimento.
+À face disso, quando alguém te apedreje, detém-te por alguns instantes, a fim de enxergar o ocorrido.
+Alguém já disse que de dez partes do ato de ver nove delas se processam fora dos olhos físicos, nas profundezas da mente.
+Através da meditação, ser-te-á possível verificar o agravo como sendo um espinho de raízes envenenadas, infelicitando muito mais o agressor do que a vítima.
+Divisarás, desse modo, naquele que te desconsidera ou injuria o prejuízo da ignorância, a inibição da enfermidade, o complexo da angústia ou a cegueira da obsessão.
+Feito isso, destacarás, facilmente, não a suposta superioridade, diante dele, mas sim distinguirás tuas vantagens, com as oportunidades de refletir e de auxiliar que o irmão menos feliz, de muito tempo até agora, não terá conhecido.
+Em verdade, nem sempre nas lesões que venham a ocorrer, na esfera do espírito, conseguirás agir a sós, no plano da condescendência absoluta, de vez que existem as postergações de preceito que não se correlacionam apenas contigo mas também com as obrigações da justiça, à frente de todos.
+Mesmo nessas circunstâncias, perdoarás de ti próprio, esquecendo todo mal, recordando que carregas contigo as próprias fragilidades.
+E ainda quando o agravo se caracterize por feição complexa, separando-te provisoriamente daqueles que te feriram, podes atender à lição de Jesus, auxiliando a cada um deles com a bênção da prece, porque, em nos referindo aos domínios da alma, em qualquer lugar, a oração é a presença do coração.
+
+---
+
+## 14 — Provação
+
+Se a provação se te abateu sobre o Espírito de tal modo que já não sabes, de pronto, como orientar o próprio caminho, não te entregues a qualquer atitude negativa.
+
+Recorda que o desânimo é fator de mais amplo abatimento.
+
+Suicídio se te faria calamidade.
+
+Queixas não te adiantariam.
+
+Acusações contra outrem te agravariam o quadro de inquietações.
+
+A fuga te lançaria em descrédito.
+
+O desespero te induziria ao desequilíbrio.
+
+Confidências amargas te mergulhariam em problemas inúteis.
+
+Mágoa te travaria ideias infelizes.
+A única saída para superar qualquer provação será enfrentá-la com humildade e coragem, procurando-se esquecer o mal e seguir o bem, trabalhar e servir com ânimo e decisão, reconhecendo-se que a Divina Providência, amanhã, nos fará novo dia.
+
+---
+
+## 15 — Posse
+
+Compreende-se que a ignorância induza o homem à incredulidade e à violência, porquanto obsessão e loucura podem assaltar a todos aqueles que abdicam do raciocínio e do estudo.
+Entende-se, também, que a ilusão incline a criatura para a vaidade e para o vício, de vez que paixão e egoísmo cegam facilmente a quem se compraz no desequilíbrio ou se habitua à ociosidade.
+Entretanto, como explicar a gana dos que ajuntam posses e posses, sem qualquer proveito para si mesmo ou para os outros, quando sabem pela experiência dos próprios antepassados que esbarrarão com novo câmbio, nas fronteiras da morte?
+Para que tanta carga se apenas conseguirão transportar os valores que carreiam consigo?
+Além disso, além dessa megalomania no terreno das posses materiais, temos outras espécies de avareza.
+Aqui e ali, surpreendemos sovinas de honras e vantagens, ciosos de estima e ganho, que almejariam carregar, para além do túmulo, títulos e pertences, quando se encontram absolutamente certos de que nada mais levarão para lá da morte senão a si mesmos.
+Indiscutivelmente, é preciso amar a tarefa que a vida nos atribui para que ela seja executada com segurança, no entanto, é forçoso que a nossa dedicação não se transforme em apego excessivo, como se fôssemos árvores dispostas a devorar os próprios frutos;
+por outro lado, é justo que o nosso desprendimento não se faça irresponsabilidade, qual se trabalhássemos longo tempo numa obra prima de estatuária, a fim de entregá-la, voluntariamente, a injúria de malfeitores.
+Saibamos conquistar com equilíbrio e honestidade os bens da vida que o Senhor nos empresta, fazendo-os prosperar em serviço e progresso, educação e beneficência, na felicidade geral.
+Possuir, sim, mas não sermos possuídos, porque os possuídos, quase sempre, estão possessos.
+
+---
+
+## 16 — No exame do bem
+
+Mal e bem!…
+Vejamos alguns daqueles que são responsáveis pelo mal, conquanto, de algum modo, se relacionem com o bem:
+os que falam bem e não agem bem;
+os que vivem no bem de si, conscientemente foragidos do trabalho pelo bem dos outros;
+os que apregoam o bem sem cultivá-lo;
+os que se apresentam bem e não comportam bem;
+os que acreditam no poder do bem e exploram o bem do poder;
+os que se apoiam no bem do dinheiro, sem distribuir o dinheiro do bem;
+os que destacam o bem da ciência e ridicularizam a ciência do bem;
+os que identificam claramente o bem e não procuram o bem naquilo que enxergam e naquilo que escutam;
+os que se instruem bem e não ensinam bem;
+os que sabem onde se encontra o bem e não se dispõem a preservá-lo;
+os que se afligem pelo bem-estar, segundo o conforto próprio, e não se preocupam em estar bem, conforme a justiça.
+O mal que surge nos que desconhecem o bem é fruto da ignorância.
+O mal verdadeiro, o mal que se consolida qual moléstia minaz no organismo do mundo, é sempre o resultado de nossas atitudes, quando conhecemos o bem e apontamos a necessidade do bem, sem vontade e sem coragem de praticá-lo.
+os que falam bem e não agem bem;
+os que vivem no bem de si, conscientemente foragidos do trabalho pelo bem dos outros;
+os que apregoam o bem sem cultivá-lo;
+os que se apresentam bem e não comportam bem;
+os que acreditam no poder do bem e exploram o bem do poder;
+os que se apoiam no bem do dinheiro, sem distribuir o dinheiro do bem;
+os que destacam o bem da ciência e ridicularizam a ciência do bem;
+os que identificam claramente o bem e não procuram o bem naquilo que enxergam e naquilo que escutam;
+os que se instruem bem e não ensinam bem;
+os que sabem onde se encontra o bem e não se dispõem a preservá-lo;
+os que se afligem pelo bem-estar, segundo o conforto próprio, e não se preocupam em estar bem, conforme a justiça.
+
+---
+
+## 17 — Imagens
+
+Assunto já esmerilhado por muitos pensadores — a força das imagens. Entretanto, é justo simplificá-lo para nosso próprio benefício.
+É sabido que o pensamento é vida. E, sendo vida, é corrente de energias criadoras, gerando formas e realizações.
+Em razão disso, estamos quase sempre influenciados ou dominados por aquilo que nós mesmos pensamos.
+Habitualmente, na Terra, vemos um companheiro despendendo fortunas em determinados empreendimentos e, às vezes, julgamo-lo muito rico e sovina, em se tratando de beneficência.
+Verificada a realidade, em muitos episódios, ele não passa de um homem corajoso e interessado em criar emprego para os outros, empenhado em erguer vasta colmeia de trabalho, em auxílio aos semelhantes, à base de financiamentos e empréstimos que lhe custam enormes sacrifícios.
+Notamos um rapaz bem-posto, passando à porta, de braços com uma menina simpática, em certos horários, repetidos em horas certas. E, com frequência, imaginando-los unidos, à procura de recanto indicado ao prazer do sentidos.
+Chegando, porém, à verdade, informamo-nos que são eles uma jovem abnegada, conduzindo o irmão quase cego pelo tratamento.
+Isso, no mundo, é o que geralmente ocorre. Na maioria das ocasiões, pensamos que os outros pensam de nós aquilo que pensamos deles.
+Eis porque só a ideia do bem a sustentar-nos o Espírito é capaz de renovar-nos por dentro, auxiliando-nos a evitar julgamentos preconcebidos, suscetíveis de atirar-nos em frustração e arrependimento, quando venham a surgir as horas da realidade, no relógio do tempo.
+À vista do que expomos, tenhamos a coragem precisa de instalar a supremacia do bem no campo de nossas tendências e opiniões, porquanto, unicamente pelo trabalho do bem, atingiremos a paz de quem se vê constantemente desejando a felicidade, sem mentalizar o mal para ninguém.
+
+---
+
+## 18 — Nos domínios da inteligência
+
+Na leira talhada a preço de carinho e devotamento, chegava o pão em forma de fruto, promovendo a abastança e garantindo o trabalho, mas a terra fértil foi abandonada e o mato inculto invadiu-a rapidamente, rebaixando-a à posição de tapera.
+Sob o teto primorosamente levantado, situava-se o lar, salvaguardando a segurança e enobrecimento da família, no entanto, deixada vazia, a residência se viu para logo tomada de animais daninhos que lhe deram a forma de pardieiro.
+Do coração da terra, brotava a água pura, alentando a fonte e enriquecendo a paisagem, todavia, a corrente detida, entre barrancos do vale, sem utilidade para a natureza criadora, se encontrou imediatamente absorvida pela comunidade microbiana que a transmudou em charco.
+Assim a inteligência profundamente cultivada. O conhecimento superior nela se instala, de modo a ser desentranhado em trabalho constante do bem, a fim de que progresso e educação, virtude e ciência, favoreçam o conforto e o aperfeiçoamento da Humanidade, no entanto, qual acontece ao solo fecundo largado à-toa que se faz tapera, à moradia desabitada que se transforma em pardieiro e ao manancial sem serventia que se converte no charco, a inteligência instruída mas ociosa e desocupada torna-se facilmente em ninho de pensamentos pervertidos ou dementados, transfigurando-se em perigoso foco de obsessão.
+
+---
+
+## 19 — Festa íntima
+
+Quando podes reagir, reivindicando vantagens que te pertencem, usurpadas por outrem e nada reclamas, mantendo tolerância e renúncia nas próprias atitudes…
+Quando ouves referências que te ferem a vida particular e guardas silêncio…
+Quando sabes que alguém te prejudica conscientemente e procuras encontrar um caminho de paz, para te afastares do problema, discretamente, sem aborrecer a quem te aborrece…
+Quando sofres acusações indébitas sem te queixares…
+Quando atravessas difíceis provas domésticas e sociais, sustentando os que te cercam, sem entender as complicações de que te vês objeto…
+Quando carregas com paciência os fardos de trabalho e responsabilidade abandonados em teus ombros por outros irmãos…
+Quando suportas tentações, que se te fazem endereçadas por outras pessoas, recusando-lhes os alvitres sem ofendê-las…
+Quando choras, diante de impedimentos amontoados por irmãos infelizes em torno de ti, para que te afastes do serviço e continuas trabalhando sem queixas…
+Então haverão chegado em teu favor os instantes de festa íntima, de vez que, em todas as ocasiões, nas quais superamos as próprias inferioridades, alcançamos um degrau acima, na conquista de nossa própria sublimação.
+
+---
+
+## 20 — Em prece
+
+Senhor Jesus!
+Por três séculos de aflição, na alvorada nascente do Evangelho, quantos te seguiam, cultivando-te os princípios e venerando-te a ressurreição além da morte, eram perseguidos, espezinhados, enxovalhados, espancados, espoliados nos bens mais singelos, trancafiados nos cárceres, algemados em postes de martírios, atirados às presas sanguissedentas de animais ferozes ou apartados daqueles a quem mais amavam, a fim de serem assassinados nas praças públicas!…
+Hoje, que as leis humanas evoluíram, coartando, quando possível, os abusos da autoridade e do poder, os espíritas-cristãos, que te restauram o ensinamento, não são conduzidos para as arenas de suplícios; entretanto, são igualmente escarnecidos, humilhados, injuriados, desprezados, batidos nas mínimas esperanças, relegados ao desapreço do mundo, marcados a fogo de zombaria, indicados aos golpes da calúnia ou incompreendidos nos sentidos mais santos, por buscarem a Religião da Fraternidade e da Justiça com a certeza do túmulo vazio…
+Afirmaste, porém, que se quisermos encontrar-te, não nos resta outra alternativa senão a de tomar nossa cruz e seguir-te.
+Sabemos que estás junto de nós, não por símbolo morto, mas por Mestre vivo e infatigável, sustentando-nos o passo e alentando-nos a fé.
+Em razão disso, oh! Inefável Amigo, é que os espíritas cristãos e nós outros — os pequeninos tarefeiros desencarnados que os assistem — aspiramos acompanhar-te!
+Apaga em nós qualquer impulso à violência, unge-nos o Espírito nas fontes vivas da caridade, inclina-nos ao amor e à tolerância, e, embora trilhemos ainda o carreiro obscuro de velhas imperfeições, deixa que te possamos repetir:
+— Senhor, as nossas almas endividadas, a caminho de tua bênção, te glorificam e te saúdam!…

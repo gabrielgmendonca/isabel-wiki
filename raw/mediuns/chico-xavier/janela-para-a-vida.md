@@ -1,0 +1,1036 @@
+# Janela para a vida
+
+**Autor espiritual:** Autores diversos  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Jpv/JpvPref.htm
+
+---
+
+##  — Nota ao leitor
+
+
+Amigo leitor.
+De janela determinada, será sempre possível contemplar horizontes e paisagens, criaturas e objetos, dentro de limitações compreensíveis.
+
+Este livro, por isso mesmo, é uma abertura para anotações da vida, sem a pretensão de dissecá-la.
+
+Unidos ao companheiro Fernando Worm, que nos convidou a examinar com ele os panoramas e quadros de nossas vivências em comum, eis-nos com o médium, junto ao médium e através do médium neste volume.
+
+Compete-nos, entretanto, explicar que não nos achamos aqui com garbos de mentor ou de instrutor, capaz de solucionar os problemas que a vida, em si, nos apresenta, e sim na condição de aprendiz que lhe compartilha o estudo e o respeito, diante das questões de natureza superior em que todos nós — Espíritos encarnados e desencarnados na Terra — nos envolvemos.
+
+Na escola da evolução, todos somos instintivamente chamados ao diálogo e ao trabalho de assistência mútua para a aquisição de conhecimento do trato do Universo em que nos achamos inseridos.
+
+É assim que, usufruindo o privilégio de ombrear consigo no estudo e na observação do mundo e dos fatos do mundo a que nos vinculamos, rogo ao Senhor Jesus que nos inspire e nos guie em nossa jornada de indagações e deduções, de modo a reconhecermos que, acima de tudo, nos cabe a prática do amor uns pelos outros, a fim de merecermos a compreensão da Sabedoria e da Bênção de Deus.
+Uberaba, 15 de maio de 1979.
+
+---
+
+##  — Onde Cristo está?
+
+> Um sábio me falou isto:
+
+Certa noite de novembro de 1971, de repente vi-me frente aos altos muros de Jerusalém. O núcleo cristão da cidade velha preparava-se para as festividades natalinas, iluminando feericamente alguns prédios e templos, as torres e o mercado.
+Embora ali comparecesse com a credencial única de mero viajor daquelas eleitas regiões do Planeta, causou-me natural perplexidade a consciência de que a poucos passos de mim estavam a Porta de Damasco, a Porta de Santo Estêvão, a antiga pretoria de Pilatos, a Via Dolorosa, o Santo Sepulcro, os templos sagrados de judeus e muçulmanos, o Getsemane no Monte das Oliveiras e todos aqueles históricos locais cujos nomes, desde pequenino, eu me acostumara a ouvir intermitentemente.
+Os registros históricos informam que a cidade murada foi tomada e destruída pelos romanos no ano 70 da nossa era. No rastro das hordas de Tito, a dramática Jerusalém prosseguiu sendo invadida e saqueada primeiramente pelos persas de Khosro, em 614; depois pelos árabes, em 637; pelos Cruzados de Godefroi de Bouillon, em 1099; por Saladino, em 1187; por Frederico II, em 1229; por tropas franco-inglesas, em 1917. Internacionalizada pela Organização das Nações Unidas em 1947, foi então dividida pela linha de armistício entre árabes e judeus em 1948; novamente invadida e anexada à Jerusalém nova após a “Guerra dos Seis Dias”, a estranha cidade murada dos Patriarcas prossegue na rota de seu dramático destino de marco de disputa entre povos irmãos, cultuando religiões que ali tiveram sua origem comum.
+Dois dias após a chegada às semi-áridas terras da antiga Judeia e Samaria, desci a Jericó, visitando depois Belém, Hebron, a desembocadura do rio Jordão no mar Morto e a região adjacente no deserto de Neguef.
+A enganosa calma que se observava na região só era quebrada pela passagem ruidosa de veículos militares, ou pela visão dos campos de refugiados, com cercas divisórias de arame farpado, além dos destroços de tanques de guerra ao longo da rodovia que desce em direção ao mar Morto.
+Continuava a não existir ali a paz entre os homens. Não bastaram dois milênios de desencontros após a passagem do Nazareno sob o mesmo céu cintilantemente azul, pregando incessantemente a tolerância e o amor, a busca da perfeição e a necessidade de perdoar-nos uns aos outros.
+Árabes viam com ressentimento seus irmãos judeus, enquanto cristãos peregrinavam pelos santuários do Cristianismo como quem pisa chão alheio.
+A tensão dominante, visível no relacionamento das comunidades conterrâneas, inconscientemente fazia com que nos lembrássemos das vozes ressoantes do Cristo, desde aquelas terras de antanho: “Perdoai-vos setenta vezes sete vezes;
+Sede misericordiosos;
+Amai os vossos inimigos;
+Bem-aventurados os que são brandos e pacíficos;
+Não separeis o que Deus juntou;
+Pedi e obtereis”.
+
+Não, ali não se achava o Cristo. Ou seu Espírito ali ainda não chegara, depois de tudo e de tanto tempo. Passaram-se anos.
+Do regresso lembro apenas ter ouvido de alguém esta perene afirmativa: “É mais fácil encontrar o Cristo no coração de uma criatura animada pela fé do que no silencioso e subterrâneo tumulto de Jerusalém”.
+Decorridos quatro anos dessa viagem, eis que um dia circunstâncias inesperadas me levam a tomar parte numa peregrinação a bairros humildes de Uberaba, no preparo de matéria jornalística.
+Numa das moradas com paredes de barro e piso de chão batido, fomos encontrar uma senhora enferma, de aproximadamente 70 anos de idade, dividindo a casa com outra amiga, também anciã e de saúde abalada.
+A paralisia atingira todo um lado de seu corpo, prejudicando a faculdade da fala de tal forma que ela, embora ouvindo perfeitamente, só respondia através de sinais mímicos.
+Por meio desses sinais emitidos com dificuldade, ela inicialmente demonstrou júbilo pela presença da caravana de irmãos, que fraternalmente a visitava, para em seguida, enquanto um médium da comitiva fazia a prece de agradecimento e súplica a Deus, emitir através de seus olhos uma luminosidade estática, cuja transcedente descrição eu só poderia tentar se conhecesse a linguagem dos anjos. Era como uma antevisão celestial da presença irradiante do próprio Deus.
+Naquele olhar vasado de amor sublimado, naquelas encarquilhadas e trêmulas mãos em prece, estava o Cristo redivivo dos Evangelhos de sempre.
+Menos de um ano depois desse significativo episódio, quase ao fim de um dia de intenso trabalho, adentrei-me pelo paço de uma igreja a fim de desfrutar da paz, do reconfortante silêncio e das vibrações das preces ali existentes.
+Quase ao meu lado, uma senhora de meia-idade orava com visível fervor e concentração.
+De seus olhos, voltados para o Mais Alto, fulgia o mesmo luminescente olhar da enferma de Uberaba: pareciam verter lágrimas de iluminado amor.
+Saímos do templo quase ao mesmo tempo, de forma que pude observar quando, deparando-se com um menino que descia a rua fronteira transido de frio, tirou de seus ombros a manta que a agasalhava, colocando-a sobre os ombros da criança.
+Novamente, ali estava o Cristo redivivo.
+Em outra ocasião, ainda em Uberaba, uma caravana de fiéis do “Grupo Espírita da Prece” com Chico Xavier à frente, lia o Evangelho sob uma densa chuva, pés imersos no barro campesino, antes de fazer a distribuição de gêneros para centenas de criaturas nas quais a subnutrição era visível, algumas comendo o alimento ali mesmo.
+Pontos luminosos na Terra, propiciando a revivência daquele mesmo Jesus dos tempos primevos do Cristianismo.
+A constatação se impunha desde logo: a presença viva do Cristo tanto pode estar na aparente solidão de um velho que tenha o coração aquecido pela fé em Deus, quanto no aconchego de uma catedral; tanto na prece de uma mãe aflita pelo seu rebento, quanto na súplica inocente de uma criança orando; no gesto de boa vontade de uma criatura para com outra menos favorecida ou na esperança convicta em Deus de um moribundo à míngua de recursos médicos num humilde tugúrio, embora assistido pelo consolo do Mundo Espiritual Maior.
+“Onde estiver o vosso tesouro, aí estará o vosso coração.” (
+S. Lucas 6.45
+)
+Preciosos ensinamentos hauridos ao correr de um caminho e de um tempo longo e frutífero, que não devo esquecer:
+Enquanto me concentrava na redação desta breve introdução, lia em horas disponíveis um compêndio tratando da Astronomia e do Universo em expansão. Recolho nas páginas admiráveis desse compêndio os seguintes dados científicos:
+O observatório de Monte Palomar, nos Estados Unidos, consegue abranger, numa única chapa fotográfica, dez mil bilhões de sóis; a Via-Láctea, à qual pertencemos, é composta de 200 mil estrelas, sendo o nosso Sol uma dessas estrelas, de tamanho apenas mediano, embora 109 vezes maior do que a Terra — pelo Equador. Cada galáxia contém centenas, de milhares, ou milhões, ou bilhões de estrelas, sendo que o raio desse observatório permite entrever um bilhão de galáxias. A luz viaja a uma velocidade de 300.000 km/s e a luz do Sol, nessa velocidade, necessita de oito minutos para chegar à Terra; a Constelação Andrômeda, uma das mais próximas da nossa Via Láctea necessita de 680.000 anos-luz até tocar nosso planeta, existindo galáxias cujas distâncias são superiores a milhões de bilhões de anos-luz. Quase ao fim de uma longa existência de pesquisa debruçado sobre a imensidão cósmica, e sentindo a proximidade da morte, exclama Isaac Newton: “Ignoro o que o mundo pensa de mim, mas tenho a impressão de nunca haver sido, em toda a minha vida, senão um garotinho brincando à beira do mar e se divertindo com descobrir, aqui e ali, uma pedrinha mais polida ou uma concha mais bonita que as outras, enquanto o grande oceano da Verdade se estendia, pleno de mistérios, diante de meus olhos. Há um Ser Infinito que governa tudo, é Deus quem dirige o balé do Universo”. A Cosmologia comprovou que o Universo se move em contínua expansão, enquanto as galáxias se afastam rapidamente umas das outras em direção a rumos desconhecidos.
+Uma única colher das de café, se contivesse massa dos chamados espaços ou “buracos negros”, onde a matéria fica concentrada ao extremo, pesaria em torno de um bilhão de toneladas.
+Os “quasar” do espaço, ou nebulosas gasosas dotadas das luminosidades azul e ultravioleta, de intensidade espantosa e com cauda de luz saindo de um dos flancos, embora não sejam classificadas como cometa, estrela ou planeta, emitem sinais de radioeletricidade com frequência e potência desconcertantes.
+Também numa colher das de café existem 50 quatrilhões de átomos, sem falar nos sub-átomos.
+O macrocosmo e o microcosmo contêm enigmas de estonteante grandeza, harmonia e equilíbrio perfeitos! Observando tudo isso, analisando, medindo e comparando, os sábios e astrônomos que se debruçam sobre a mais ampla das ciências — a Cosmologia — após um esforço desesperado de compreensão abrangente, afirmam, entre perplexos e desiludidos: “Nada sabemos acerca da origem e da razão de ser do Universo e de tudo o que nele há”. Depois que os homens aprenderam a se orientar pelos astros, a Cosmologia, teoricamente, tornou-se uma ciência inútil!
+A grande janela aberta para o Céu por Copérnico, Tycho Brahe, Kepler e Galileu, Newton é William Herschel, de repente se revela um espetáculo tão grandioso quanto vazio de sentido. “Por que tudo isso? Para que existem esses bilhões de mundos aparentemente estéreis, mudos e despovoados? Para onde vão as galáxias? Por que esses bilhões de astros anódinos — e conhecemos apenas uma fração deles — não respondem aos nossos sinais e interpelações?”
+Renova-se, através das gerações, afirmativa de Jesus quando diz que Deus confunde os sábios com aquilo que revela aos simples pela graça da fé. “Há muitas moradas na casa de meu Pai; se assim não fosse, já eu vo-lo teria dito.” (
+S. João 14.2
+)
+Outro dia, numa reunião fraterna de amigos no Hospital Espírita de Porto Alegre, presentes o professor Cícero Marcos Teixeira, os doutores Nei da Silva Pinheiro e José Jorge da Silva, e este vosso servidor, considerava-se a grandiosidade de Deus relembrando a célebre frase de Santo Agostinho: “Que absurdo não crer!”
+“Janela Para a Vida” constitui uma das tentativas de iluminar ao menos parte dos múltiplos problemas e indagações que fazem também perplexo o ser humano perquiridor das razões que teriam, determinado a origem do homem, sua presença e finalidade neste planeta.
+Através das respostas do Benfeitor Emmanuel — a Mediunidade com Jesus — novas luzes para enfocar problemas emergentes descem até nós sempre por acréscimo da Misericórdia Divina do Pai.
+Mudam os tempos e as circunstâncias e, com eles, às vezes sem o perceber, mudamos nós também.
+Janela Para a Vida deseja fazer parte desse esforço de conscientização individual e coletiva que aproxima o homem de Deus, visando à autotransformação para melhor.
+Através das luzes do Mundo Maior, tenta colocar frente à frente a involução e a evolução, a dúvida e a resposta, o amargor e a esperança, a obscuridade e a luminescência Divina, objetivando sintonizar a mente humana com os enigmas da vida, na busca do sentido real da existência.
+Longa e difícil é a caminhada evolutiva, desde a mônada até o Arcanjo, desde o profundo sono da inconsciência nos reinos inferiores da Natureza até o cósmico despertar do Espírito para a essência de tudo o que existe nos Dois Planos da Vida: Deus.
+Sabemos que é nas asas do amor e do conhecimento que a alma humana alça o voo definitivo para as cumeadas do Mundo Maior.
+Num futuro não previsível, o Evangelho será a Lei Maior para a Humanidade inteira.
+Isto pode parecer utopia de um escriba alienado das realidades da existência terrena. Entretanto, se formos considerar o progresso alcançado pelos seres humanos, principalmente a partir do século XIX até esta parte, nos campos filosóficos, científico e religioso, constataremos que há motivos para grandes esperanças quanto ao futuro da Humanidade.
+Enquanto esse amanhecer do Espírito não chega, cabe-nos prosseguir na gradual conscientização da senda evolutiva que a todos, sem exceções, convoca e condiciona, sempre sob as luzes infinitas e misericordiosas do Alto.
+Guaíba, 23 de julho de 1979.
+
+---
+
+## 1 — A proveta e o amanhã
+
+A 25 de julho de 1978, na pequena cidade de Oldhan, a poucos quilômetros de Londres, nasceu a menina Louise Brown, pesando 1.6 kg.
+O óvulo de sua mãe — senhora Lesley Brown — fora fecundado numa proveta, em laboratório, e transplantado com êxito para o claustro materno.
+Os médicos desse notável feito, o ginecologista Patrick Steboe e o fisiologista Robert Edwards, da Universidade de Cambridge, alcançavam assim a concretização de uma façanha há longo tempo acalentada pela ciência genética em relação ao homem: uma fecundação humana extragenital.
+Com o escoar do tempo outros países participaram com êxito desses experimentos no campo da Genética.
+Em torno desse importante e debatido tema, o Espírito Emmanuel assinou as respostas a seguir formuladas, por intermédio de Francisco Cândido Xavier.
+R — Consideramos o assunto com sadio otimismo, desde que o óvulo fertilizado em proveta, com o apoio de autoridades respeitáveis, para a implantação no claustro materno revela senso de maturidade espiritual na mulher que assume a maternidade conscientemente, em plenitude de responsabilidade ante a vida que passa a acalentar no próprio regaço.
+R — Não vemos qualquer limitação espiritual para o bebê, uma vez que o processo de reencarnação para o Espírito experimenta menos riscos, porquanto estará sob apoio mais completo da responsabilidade humana.
+R — As mães incapazes de amamentar os próprios filhos recorrem aos préstimos de companheiras que as assessoram nesse mister ou aproveitam outros recursos para a alimentação dos recém-nascidos. Quando a mulher se dispõe a ser mãe consciente e digna do elevado encargo de se responsabilizar por determinadas vidas, sem possibilidades próprias para isso, julgamos justo que uma companheira, se possível, tome a si o trabalho de gestar, em favor dela, o filho ou os filhos que essa mulher digna da maternidade consciente se propõe a receber nos próprios braços.
+R — No caso, o problema é estritamente de natureza consciencial.
+R — A evolução moral dos povos não permitirá a criação de semelhante indústria, ou o homem estará rebaixando o nível de conhecimento superior em que se encontra, com perigosos comprometimentos para a Humanidade inteira.
+R — Sim, quando a Ciência na Terra, iluminada pela bênção da fé na imortalidade, puder intervir no auxílio, realmente digno, junto ao trabalho da Genética no campo humano, sem nenhuma disposição para extravagâncias e abusos através de experimentações absolutamente desaconselháveis; a implantação do óvulo fertilizado no claustro da mulher responsável evitará muitos desastres na reencarnação, especialmente os que se referem ao aborto sem justificativas.
+R — Os Amigos da Espiritualidade consideram a realização com o melhor otimismo, desde que o óvulo fertilizado em proveta por autoridades competentes revele senso de maturidade espiritual na mulher que assume tal maternidade consciente, sempre em plenitude de responsabilidade ante a vida que passa a acalentar no próprio regaço.
+R — Sim, porque enquanto o homem estiver socorrendo a mulher que aspira a ser mãe, aceitando voluntariamente os encargos decorrentes dessa tarefa, a ciência terrestre estará colaborando com a natureza, amparando-lhe os processos de autopreservação.
+R — O homem cumpre um dever cooperando com a natureza nesse sentido, abstendo-se de experiências extravagantes que não teriam razão de ser. Aliás, a Divina Sabedoria oferece ao homem determinados recursos de evolução que o próprio homem se vê impulsionado a aperfeiçoar. Descoberto o fogo a inteligência terrestre esmerou-se em aprender como aproveitá-lo. Conquistada a força elétrica a Ciência, até agora, ainda lhe estuda os efeitos e aplicações.
+R — Uma dessas razões, mais que justa, será observar na mulher a disposição à maternidade, atendendo mais à ação do que ao instinto. Outro motivo para desejarmos todos amplo sucesso nessas experiências será a diminuição dos processos de aborto, nos quais milhares de criaturas se empenham a débitos complicados prejudicando amigos desencarnados em vias de novo nascimento no Plano Físico e prejudicando, desse modo, a si mesmas.
+R — Quando destacamos a excelência da colaboração humana na gênese do corpo, com a fertilização do óvulo feminino em proveta, a fim de que o ovo seja entregue à nidação no claustro materno, não nos reportamos aos experimentadores cruéis, capazes de provocar fenômenos teratológicos, de vez que semelhantes inteligências, conforme esperamos, serão controladas pelas autoridades chamadas a legislar no relacionamento entre as criaturas.
+R — A Ciência, indiscutivelmente, poderá chegar até lá; no entanto, por muito tempo ainda será prudente permanecer o homem no aperfeiçoamento da fertilização do óvulo para a condução do ovo ao ninho maternal. Nesse sentido é muito provável que vejamos na Terra as amas de gestação, como já se conhecem as amas-de-leite ou as amas guardiãs da criança. Observando-se o assunto, nas implicações remotas que ele envolve, as amas de gestação deverão ser, decerto, submetidas a testes de afinidade, saúde, empatia e resistência física, antes de se lhe contratarem os serviços atinentes à formação dos nascituros. Isso é mais que natural, sem que haja qualquer diminuição do amor entre pais e filhos.
+R — O materialismo inteligente, quando cruel, sem qualquer ideia de Deus e da imortalidade da alma é o perigo que ameaça a manipulação dos recursos genéticos sem responsabilidade, mas devemos confiar nos homens de bom-senso e de espírito humanitário que, através de legislações dignas, podem e devem coibir quaisquer abusos suscetíveis de aparecer no campo das pesquisas de caráter delituoso e deprimente. Confiemos no amparo e na inspiração dos Mensageiros do Cristo, em auxílio à coletividade humana.
+
+---
+
+## 2 — Terapia para as dores do mundo
+
+São 14h 30min de uma tarde de julho em Uberaba. No trajeto que medeia entre sua residência e a sede do “Grupo Espírita da Prece”, comento para o médium o visível aumento das filas de necessitados de toda sorte que o procuram a cada fim de semana. Chico redargui: “Não foi apenas o número que aumentou. Você esteve aqui há sete meses atrás e poderá observar que aumentou principalmente o grau de ansiedade das pessoas. Estes são tempos de prova e renovação para todos nós, criaturas humanas cada vez mais carentes de amparo no aprendizado do Bem. Mas a Misericórdia Divina alcança a todos sem exceção e assim vamos seguindo para a frente com as nossas tarefas.
+O atendimento prolonga-se por horas a fio. São mães e pais que perderam filhos, irmãos e amigos, aos quais o desaparecimento de alguém trouxe grandes provações; outras tantas pessoas são portadoras de males físicos, morais, mentais, espirituais; é a própria involução da condição humana que parece sofrer de uma cadeia de sofrimentos aparentemente intermináveis.
+Com raras exceções, cada atendimento dura apenas alguns minutos. Uma trilha musical de fundo suave, músicas que incluem Mozart, Haendel, Bach e outros, auxilia a harmonização do ambiente de trabalho.
+O médium permanece sentado num banco de madeira do “Centro” enquanto ouve os consulentes; às vezes indaga, perquire, dá sugestões, faz apontamentos. Os Espíritos que o auxiliam fornecem as informações necessárias.
+Algumas vezes, os Espíritos aparentados com a pessoa que está solicitando orientação se manifestam pela palavra do médium, ou enviam recados através dele.
+É quando surge a imprevisível pergunta: “Quem é fulano?”. A pessoa atendida geralmente é tomada por surpresa e habitualmente responde: “é meu avô, ou avó, pai, irmão, irmã, tio, amigo, companheiro, colega etc.”. Então o médium completa:” Esse Espírito está aqui conosco e roga para que lhe seja dito isso ou aquilo (geralmente citando nomes, datas, situações que o médium desconhecia totalmente e, apesar disso, invariavelmente corretos). “Deus não desampara ninguém, por maiores que sejam nossas provações a Misericórdia Divina tem o bálsamo de que necessitamos.”
+Noutras ocasiões Chico Xavier apenas ouve o que a pessoa tem a relatar, toma nota do nome e endereço do Centro Espírita que essa pessoa eventualmente frequenta, permanecendo tais registros sobre a mesa de trabalhos. A alguns lembra o medianeiro que seja feito o pedido de orientação por escrito para que ele psicografe a resposta dos Espíritos. A outros endereça palavra de consolo e esperança, solidariedade e amparo e, em algumas circunstâncias, indicações homeopáticas.
+Alguns visitantes recebem respostas e esclarecimentos mais diretos e objetivos, conforme o teor do que foi perguntado.
+Após a recepção mediúnica dessas orientações, serviço esse que perdura em média por 6 horas consecutivas, encerra-se a primeira parte da reunião pública da noite.
+Em seguida, na parte final das tarefas, comumente os espíritos amigos aparentados com pessoas do auditório enviam mensagens de saudade, reconforto, paz e esperança, com muitas citações e referências pessoais no texto respectivo. Para melhor esclarecimento, ao final deste capítulo, reproduzimos uma das mensagens do jovem Cássio aos seus pais, D. Tereza Leite Llorente e Sr. Florentino Llorente, residentes em São Paulo, e outra mensagem assinada por D. Marina Lúcia Pedrosa, que foi a esposa do Gen. Ilcon da Cunha Cavalcanti, residente no Rio de Janeiro, e que nos escreveu autorizando a publicação da mensagem.
+
+---
+
+## 3 — 76 casos de consultas a Chico Xavier
+
+Vejamos, pois, o que nos foi possível registrar em duas reuniões públicas de sexta-feira, no ano de 1978, e numa terceira, no início de 1979.
+Os nomes dos consulentes aqui citados são pseudônimos, a fim de resguardar o imprescindível anonimato das pessoas atendidas.
+O número de consulentes nessas três sessões públicas foi para mais de 200, de forma que para não tornar monótona a leitura, selecionamos 75 casos sinteticamente reproduzidos a seguir.
+VITÓRIA — 38 anos — “Sinto ardência nas mãos e esbraseamento pelo corpo. Saíram estas manchas pelos braços e pernas. Não sinto dores, é só como se fosse uma queimação.”
+LUCI — 32 anos — “Enxaquecas que duram quase uma semana em cada crise. Então, perde o apetite e emagrece. Não encontrou solução em medicamentos e pede auxílio espiritual.”
+Menina ASCENSÃO — 5 anos — “Chico, minha filha pelo que os médicos dizem é portadora de mongolismo, mas eu creio que é atuação de Espíritos. (Resposta do médium: “Sua filha não tem atuação de Espíritos. Os movimentos descoordenados são da própria doença”, etc. Quando mãe e filha se dirigiam à sala de passes o médium volta-se para mim e diz: “Os Espíritos estão me dizendo que essa menina, em vida anterior recente, suicidou-se, atirando-se de um lugar muito alto…”.)
+EDNA — 26 anos — “Minha personalidade muda muito frequentemente. Às vezes tenho a impressão de ser outra pessoa. Será que estou ficando louca?” (Chico: “Essa mudança em si é imposta espiritualmente. No caso você está funcionando qual um espelho. Busque ajudar-se. Qual é sua profissão?”. Resposta da jovem: “Sou técnica em serviço de perfuração em máquinas IBM. Mas se continuar assim, acho que vou abandonar a profissão”. Chico: “Sugiro-lhe que não faça isso. Distraia-se em seu trabalho. Você não está louca, não. Você sabe o que quer. Diga-me, quem é Rosa?”. (A moça titubeia e, após breve hesitação, responde: “É minha avó já falecida há muitos anos”. Chico intervém: “Ela está aqui e roga que lhe diga que tem procurado ajudá-la, mas você deve exercer um certo controle sobre si própria. Busque orar muito. Não se preocupe, ela está dizendo que vai lhe ajudar”.)
+JOÃO — 45 anos — “Desejo saber se meu filho Alcides, que sofre de ataques epiléticos, está com “encosto” espiritual. Peço saber também se minha mulher deve aceitar o emprego que está proposto neste envelope.”
+ANTÔNIO — 28 anos — “Estive perturbado e me internaram em hospital psiquiátrico em São Paulo. Fiz o tratamento e não me sinto melhor.” O médium Xavier pergunta-lhe: “Quem é Alfredo?” — “É meu pai”, responde Antônio. “Ele não existe mais.” Chico acrescenta: “Ele está aqui e roga que lhe diga para continuar os tratamentos médicos, pede para que ore com fé. Ele o protege.”
+MARISA — 42 anos — “Sinto dores na coluna, no peito e um cansaço permanente. Já fui a vários médicos. Quero curar-me do desespero.”
+SILVA — 45 anos — “Veja esse caroço que está crescendo aqui na minha garganta, sinto muita queimação nas pernas.”
+Menino RUIZ — 5 anos — “Chico, meu filho é perturbado, francamente excepcional. Fala muito pouco e não memoriza mais que cinco minutos qualquer coisa que se lhe ensine.” (Após encaminhar o menino e sua mãe para a sala de passes, o médium Xavier volta-se para mim e diz: “Esse menino, na última encarnação que viveu na Terra, deu um tiro na cabeça que lhe foi fatal”.)
+VLADIMIR — 19 anos — “Vim pedir ao senhor para curar minha bronquite, tenho muita falta de ar. Não consegui deixar o cigarro, acho que não posso viver sem nicotina. Quase não durmo à noite. Creio que preciso de auxílio espiritual.”
+FURTADO — 57 anos — “Sofro de um ruído ininterrupto nos ouvidos e tenho um problema constante de sexo.”
+PAULINO — 38 anos — Eu tinha economizado um dinheiro, deixei minha terra e fui para São Paulo. Empreguei esse dinheiro num negócio que foi mal e fiquei sem nada. Agora nem emprego decente consigo arranjar. Minha mulher quer deixar-me.”
+MÁRCIA — 4 anos — “Minha filha é muito agressiva comigo, vive quebrando coisas em casa e ainda não aprendeu a falar. Levei-a a um médico, que a encaminhou a um psiquiatra de crianças, entretanto, ela continua muito agressiva.”
+ÂNGELA — 50 anos — “Meu filho entregou-se à bebida alcoólica e por causa disso não consegue ficar nos empregos. Até 2 anos atrás ainda nos dávamos bem. Agora, acho que ele não gosta mais de mim.”
+CARLOS ALBERTO — 22 anos — “Chico, não posso dizer o que tenho, mas trouxe esta carta que diz tudo. Meu pai expulsou-me de casa. Acho que há um espírito encostado em mim e faço o que não quero.” (O médium lê uma parte da carta depois diz: “Mas se você não entregar-se à viciação tóxica sua vida irá melhorar. Você não tem nenhum espírito encostado. Precisa é decidir-se a agir contra as tendências destrutivas. As Leis de Deus não permitem que os espíritos nos levem a fazer coisas contrárias a nossa vontade. Se você vencer esse hábito, sua vida melhorará muitíssimo. Você tem muitas chances. Esforce-se que o Espírito de Deus não lhe faltará”.)
+ZAÍRA — 38 anos — “Extirpei um seio faz 4 anos, agora o médico diz que é preciso extrair o outro seio. A biópsia deu resultado positivo de novo.”
+JOSÉ — 40 anos — “Vim aqui para que me autografe este livro (título Amizade, ditado pelo Espírito Meimei) e pedir para que ore no sentido de algo que necessito.”
+FRANCISCO — 56 anos — “Tenho um problema de coluna, fui operado três vezes, agora é mais difícil qualquer operação porque o diabete ficou pior.”
+GERALDO — 55 anos (conduzido por uma filha) “Meu pai ouvia normalmente, de 15 meses para cá ficou totalmente surdo. Ele presentemente vive sem esperanças.”
+APARECIDA — 32 anos — “Tenho andado muito nervosa, às vezes me vem à mente uma persistente ideia de suicídio, aí eu luto comigo mesma e só não me mato porque sei que o Espírito não vai morrer e vou ficar penando por aí.”
+SOLANGE — 28 anos — “As vezes vejo espíritos e quero fugir deles. Fui consultar o padre da nossa paróquia, ele me aconselhou a rezar o terço, mas o espíritos continuam.”
+NADIR — 50 anos — “Chico, vim pedir proteção para estes dois filhos que estão aqui comigo e para que lá em casa tudo volte ao normal.”
+ELISABETE — 45 anos — “Meu marido está voltando para o lar, eu queria saber se ele se desligou definitivamente da pessoa que o fez perder a cabeça.”
+ELVIRA — 48 anos — “Perdi meu filho Antônio em agosto de 1975 em acidente automobilístico. Agora meu filho Carlos caiu numa apatia, não quer comer nem se prepara mais para ir a bailes e festas. Vim pedir auxílio para esse filho.”
+D. GABRIEL — 35 anos — “Sou médico cardiologista e estou cruzando uma fase muito difícil. Estou casado há 3 anos e há pouco tive um desacerto afetivo com minha esposa. Ela voltou à casa dos pais e eu caí em profunda prostração. Com o passar dos dias fui a um psicanalista conhecido, tendo este resolvido que eu me internasse num sanatório para um tratamento de sonoterapia.” O médium Xavier indaga: “O irmão é espírita?”. “Sou”, responde o médico. Replica o médium: “Perdoe-me, não sou ninguém para dizer-lhe isto, mas se o irmão é espírita, seu conflito afetivo poderia ser resolvido dentro dos recursos próprios com que conta nossa Doutrina. Se o seu problema fosse um caso neurológico ou, digamos, de loucura manifesta, então é certo que os recursos da Medicina psiquiátrica seriam de inestimável valia. Mas o senhor demonstra que o problema é de fortalecimento da sua vontade própria. Estamos certos de que os ensinamentos de Jesus, conforme as explicações de Allan Kardec, podem lhe oferecer o necessário apoio. O irmão é médico e amigo nosso e, portanto, sabe que respeitamos e enaltecemos a Medicina dos homens. Só não podemos aceitar é que um problema da vontade não possa ser resolvido pela própria pessoa interessada em tranquilizar-se”.
+JUAN — 48 anos — “Sou chileno e estou há 10 anos no Brasil. Sofro desta alergia que me surge nos braços e pescoço. Sempre que como carnes, principalmente a de porco, as manchas reaparecem. Se tomo álcool? Não, não tomo mais.”
+CESÁRIO — 30 anos — O rapaz olha para Chico Xavier, os olhos marejados de lágrimas, não consegue articular uma única palavra. Permaneceu na fila desde a noite de quinta-feira, irradia de si um halo de sofrimento manso e reprimido. O médium insta-o a falar, mas ele apenas cobre a face com as mãos. Diz-lhe o médium Xavier: “Doutor Bezerra está dizendo que quando você conseguir falar o que está sentindo, já estará melhor”. O rapaz é encaminhado à sala de passes.
+SÔNIA — 22 anos — “Tenho sinusite desde pequenina, agora estou tomando os remédios desta receita aqui.” Diz-lhe o médium: “Continue com essa medicação e passes. Você está com as melhores indicações”.
+MATSU — 60 anos — “Vim como imigrante japonês quando tinha 6 anos. Há seis meses operei-me de câncer no estômago e só melhorei quando vim a Uberaba pela primeira vez. Voltei para melhorar. Necessito de acentuar minha vontade de viver.”
+NISSEI — 35 anos — “Meus problemas de coluna estão maiores apesar dos tratamentos que tenho feito.” O médium sugeriu-lhe que experimentasse a “Acupuntura”.
+VALDIR — 27 anos — “Detesto minha mãe desde criança, principalmente depois que ela casou-se pela segunda vez. Ainda não consegui concluir o curso básico e não tenho emprego fixo. Sempre me saio mal no relacionamento com as mulheres.” Pergunta de Chico: “Sua mãe maltratou você alguma vez?”. Resposta: “Não muito”. — “Dê-me então seu nome e endereço, também nome e endereço de sua mãe. A prece é muito importante. Você deve perdoar para sair desse campo negativo do sentimento. Nossas mães são sempre nossas benfeitoras.”
+LOIVA — 24 anos — “Ouvi falar muito no senhor, queria conhecê-lo. Meu pai enfermou do coração faz dois anos, daí para cá em sonho ou em vigília me parece que caminho sempre à beira de abismos. Preciso de uma orientação e de auxílio para minha alma.”
+DINARTE — 29 anos — “Estou com dois problemas, o primeiro deles é um mal na próstata. O segundo é em relação a meu pai. Não gosto de estudar e ele quer que eu seja professor. Me sinto melhor em outras profissões que não exijam tanta concentração e esforço mental.” Chico Xavier faz somente uma observação: “Em algumas existências nós vimos para enriquecer a inteligência. Em outras, para enriquecer o coração. Tudo indica que seu desenvolvimento atual deve ser o do coração”.
+MARIA — 40 anos — “Chico, faz alguns anos que anseio trabalhar na caridade, mas minha família é pudica, sei lá, ela é contrária. Não quer que eu faça o bem.” — “Minha irmã”, responde o médium, “creia que o bem verte do Alto buscando expressar-se através de nós. No início das minhas tarefas na mediunidade, Emmanuel me disse: Na prática do bem não disputamos com ninguém”. “Ore e espere. A prece lhe trará um caminho para o bem que deseja fazer.”
+GENI — 43 anos — “Perdi meu pai em 5/03/1969 e nunca pude esquecê-lo, porque ele foi a única pessoa que me deu amor. Na época em que viveu eu não o compreendi e algumas vezes lhe criei problemas que mais tarde me trouxeram remorsos. Sinto necessidade de pedir-lhe perdão e rogo auxílio espiritual.”
+NEUSA — 42 anos — “Atualmente, perdi o amor por Jesus. Não sei como isso aconteceu mas aquele amor me fortalecia muito.” Pondera-lhe o médium Xavier: “Não, a senhora não perdeu o amor por Jesus. Uma faixa se interpôs entre a irmã e o caminho de Nosso Senhor”. “Mas, e essa aflição que sinto?” “A noite me atormento com pensamentos atrozes. Serão espíritos demoníacos?” Chico Xavier tira do bolso um impresso e o entrega à mulher aflita: “Peço-lhe que leia esta mensagem de Emmanuel. Busque refúgio na segurança da prece. A irmã vai melhorar”.
+RAIMUNDO — 26 anos — “Vim pedir que o senhor me consiga notícias de meu pai. Sem ele a vida tem sido muito dura para mim…” O médium pede-lhe que encaminhe uma consulta à direção do Grupo.
+NINA — 45 anos — “Perdi meu filho num acidente de caminhão no Paraná e não posso entender porque Deus me tenha tirado esse filho. Era a única razão da minha vida. Olhe esta foto dele. Faz 3 anos que tudo aconteceu. Não sei se ele estava desgostoso; ele vinha guiando um Volkswagen que entrou na traseira de um caminhão. A vida, a vida…” Chico Xavier acrescenta o seguinte: — “Está aqui um espírito que diz chamar-se Artidório Fernandes. Está dizendo que seu filho Sidnei não se suicidou, ele ressonou na direção do carro, embora fosse de dia”. Nina obtempera: “O nome de meu filho era Sidnei mas não conheço nenhum Artidório Fernandes”. O médium Xavier volta-se para mim e comenta: “Infelizmente esta nossa irmã está com o pensamento muito voltado para o suicídio”.
+VICENTE — 22 anos — “Amei muito uma garota mas não consegui me acertar com ela. Tenho um problema sexual e não consigo me realizar. Desde adolescente que carrego isso comigo. Vivo inseguro. A memória anda fraca e agora quero estudar Medicina. Acha que devo seguir essa carreira?” (O médium recomendou que ele se concentrasse nos estudos, sem desânimo.)
+ANA — 18 anos — “Perdi minha mãe na idade de 8 anos, mas meu pai cuida muito de mim. Agora ele extraiu um tumor na cabeça e os remédios que toma não conseguem acalmar as dores. Vim pedir orientação para que eu não me sinta tão fraca nem perca a fé e a esperança em Deus.”
+NORMA — 58 anos — “Moro no Rio de Janeiro e sou escultora. Atualmente convalesço de uma crise orgânica, moral e espiritual. Sei claramente que há espíritos que me perseguem. Sinto intuitivamente que meu espírito entra numa nova fase em que vou precisar de reforço para a perspectiva de uma abertura.”
+JANETE — 24 anos — “Minha mediunidade é muito conflitada e me tem trazido inúmeros problemas. Estou cursando o último ano da escola normal, mas agora me surgiu um tumor na garganta, bem aqui. Vim consultar para ver se devo operar-me. Preciso de orações.”
+ZÉLIA — 19 anos — “Perdi meu namorado há dois anos, quando o carro dele bateu num poste. Nós havíamos discutido justo naquele dia. Eu não tinha razão e agora sinto imensa falta dele. Queria que o senhor me dissesse se Carlos guardou mágoa de mim.”
+EUGÉNIA — 65 anos — “Fui operada deste pé direito, agora o médico quer operar novamente. Sinto dores, mas, com alguma dificuldade, consigo andar.” O médium indaga: “A senhora sente que poderia viver com essa dor? “Acho que sim”, responde a consulente. Recomendação de Chico: “Às vezes, sendo possível, é melhor suportar certas dores”.
+ANA AMÉLIA — 50 anos — “Sou mãe de Maria Amélia que desencarnou juntamente com o esposo e mais 5 netos meus num acidente automobilístico. Esta aqui é a foto de minha filha com a família. Vim pedir notícias dela, é a quinta vez que venho aqui.” Chico Xavier: “Está aqui conosco um Espírito que diz chamar-se Francisco”. — “É meu pai!”, responde Ana Amélia. Prossegue o médium: “O avô Francisco diz que socorreu Maria Amélia, o esposo e os netos no instante do acidente. Maria Amélia apesar de achar-se grávida do 6.° filho quando desencarnou, agora está em boa recuperação. Uma outra pessoa, também aqui presente, que diz ser tia Leonor, pede que a senhora se tranquilize. Seus familiares estão bem na espiritualidade, é preciso que a irmã tenha fé e não alimente mágoas nem revolta. Transforme em preces a sua saudade. Deus nos sustentará”.
+JUDITE — 40 anos — “Este é o meu filho Carlos de 6 anos, ele sofre dos nervos e tem dificuldade de andar. As pessoas dizem que é espírito.” Palavras do médium: “Ter um filho, ou filhos sem problemas, é privilégio de Deus. Ter filho com problemas é superprivilégio para o nosso espírito . Redarguiu D. Judite: “Antes de meu filho nascer algo me fazia sentir ou pensar que ele não nasceria perfeito”. Ao que o médium Xavier acrescenta: “A irmã já estava sendo avisada pelos Mentores. Este menino vai ser um companheiro muito querido da senhora. Vamos orar para que ele seja feliz”.
+MOEMA — 32 anos — “Estou desolada porque perdi minha filha Dina, de apenas 9 aninhos, num acidente em que um caminhão de refrigerantes esmagou minha filha na rua. Venho rogar a bênção de notícias.” (Moema foi uma das mães que em número de três receberam mensagens de entes queridos naquela noite.)
+NORMA — 50 anos — “Sou viúva e venho pedir notícias de meu marido desencarnado a 29/5/1978. Venho sentindo muita dor de cabeça e falta de ar, creio que pelo meu estado de angústia.”
+JANE — 32 anos — “Esta é minha filhinha, ela não anda e não fala já com 4 anos de idade. Teve o primeiro ataque quando estava com apenas 3 meses; há poucos dias teve vinte ataques em menos de 24 horas. Aninha está sonolenta assim devido aos tranquilizantes que deve usar. Frequento o Centro Espírita de Guarulhos, mas preciso de muita ajuda dos Amigos da Vida Maior.”
+MÁRIO — 30 anos — “Tenho uma inibição geral, não consigo completar meu curso de radiotécnico, que é o que gosto.” Resposta de Chico Xavier: “O irmão não está doente. Busque concentrar-se, nem que tenha que recorrer a um gravador para gravar as lições no seu subconsciente. Estude, meu filho, você é inteligente e deve aproveitar a oportunidade”.
+VALDIR — 30 anos — “Não sigo bem de negócios, tenho a impressão de que alguma influência ruim me persegue. Trabalho dia e noite, acumulo um pouco do que ganho depois perco tudo em pouco tempo. Vivo em desastres financeiros constantes.”
+MARINA — 20 anos — “Meu noivo Marco Antônio morreu inesperadamente; um dia antes nós havíamos discutido mas eu o amava muito. Vim pedir orientação, uma palavra, sei lá. Tenho sede de paz, anseio captar-lhe algum conselho, alguma frase que me pacifique por dentro e me reaqueça a confiança na Bondade de Deus.”
+DORA — 60 anos — “Sou uma pessoa só, as vezes o mundo me parece muito agressivo, eu busco me refugiar em Deus mas o estado de meus nervos não permite. Também sofro da coluna, penso que só um tratamento espiritual poderá resolver meus problemas.”
+CAIO — 42 anos — “Exerço a profissão de engenheiro, mas sinto que obsedo com facilidade. Vou pouco ao Centro Espírita de meu bairro em Pinheiros, São Paulo. Certa feita frequentei a Federação Espírita de São Paulo. Lamentável e inexplicavelmente meu pai enforcou-se em 1.°/12/1968 e eu sinto muito a presença dele com certa angústia para mim. Parece que uma atmosfera muito ruim me envolve em inquietude. Peço orientação espiritual e uma ajuda em esperança.”
+LÚCIA — 35 anos — “Esta minha filha, agora com três anos, é mongolóide. Olhe, Chico, este rostinho não é um amor? Não sei por que Deus me deu uma prova tão dura frente a essa criaturinha tão adorável. Há dias em que mergulho na desesperança embora se firme em mim a certeza de que somente aqui encontrarei a solução que preciso do ponto de vista espiritual.”
+BENEDITO — 35 anos — “Estou doente dos nervos e do sexo. Fiz tratamento num Centro Espírita mas a dor de cabeça que me atormenta não cede. Sinto como se minha vida estivesse cercada por um muro, não vejo saída.”
+MARA — 24 anos — “Tive um relacionamento com um rapaz que não era benquisto por minha família. Através dele, envolvi-me com drogas, desculpe que esteja falando assim devagar, hoje não estou bem. O rapaz me abandonou e agora não consigo desvencilhar-me das drogas. Desculpe, estou um pouco dopada, acho que preciso deixar disso…”
+NELI — 42 anos — “Primeiro perdi meu filho mais velho de doença do coração. Um ano depois este rapaz de que lhe mostro a fotografia foi realizar um passeio de moto em Guarulhos e morreu imprensado por um caminhão. Tenho mais dois filhos e eles querem moto. Não sei o que devo fazer para contentá-los. Preciso de sua ajuda espiritual.”
+ROSE — 55 anos — “Chico, meu filho deixou de estudar e não para em emprego algum. Vive muito ensimesmado, lê muito romance policial. Vim pedir orações em favor desse filho.”
+MARIA JOSÉ — 50 anos — “Meu pai está paralítico há 22 anos, cuidei dele todo esse tempo sem constituir família. Mês passado decidi tirar uns dias de férias e, ao voltar, meu irmão mais velho me expulsou de casa. Meu pai me mandou dizer que quer ir comigo para o Norte, eu venho perguntar se ele aguentará essa viagem de ônibus.”
+JOSÉ — 34 anos — “Meu pai está muito doente. Ele agora está em São Paulo, com o pensamento concentrado nesta entrevista, a fim de receber auxílio vibratório. Perdoe se me emociono… As palavras… não acho palavras… É que minha vida também não anda boa, houve um acontecimento traumático com minha família, isto há mais de 10 anos e eu me afastei do Espiritismo. Sinto que preciso reiniciar um tratamento espiritual e venho pedir a esse Grupo orações em meu favor.”
+APARECIDA — 55 anos — Eu era muito ligada a um irmão que desencarnou há menos de dois anos. Ele era compositor de músicas eruditas com certa fama nos meios musicais do Rio e de São Paulo. Minha mãe e minha avó sentiram e sentem muita revolta pela morte dele e eu não estou conseguindo controlar as duas. Venho pedir notícias espirituais desse irmão e preces lá para casa.”
+MANOEL — 33 anos — “Lá em casa andam acontecendo coisas que não consigo entender. Não deve ser a presença de espíritos bons pelo que fazem. Eu sinto muita dor de cabeça, às vezes perco sangue pelas narinas, mordo com frequência a língua sem querer, tropeço e caio assim muito seguidamente. Percebo que há algo errado e não sei o que é. Vim pedir auxílio através de preces.”
+LUÍS — 29 anos — “Tenho tido muitos pesadelos ultimamente e tudo o que sonho de negativo termina acontecendo. Quando vou a um ambiente com muitas pessoas, sinto que atraio sobre mim as vibrações desse ambiente. Sou como que um ímã atraindo alfinetes.”
+LUCIMAR — 40 anos — “Perdoe minhas lágrimas, perdi meu filho em São Bernardo do Campo quando seu carro bateu num muro. Isso faz apenas dois meses, acho que seu carro bateu naquele muro, ele sofria de desmaios súbitos. Desculpe, se choro… Era moço, tinha noivado com uma moça de muito valor, era feliz… Sabe Chico, uma existência inteira não é suficiente para afastar a dor do coração de uma mãe que perde um filho. Haverá no mundo dor maior? Uma semana antes de desencarnar, o meu Roberto escreveu esse poema que mandei imprimir”. (Olho na direção do impresso, e leio as primeiras linhas do poema: “Levo a vida / imaginando de onde venho, / corro riscos, / não me assustam…”.)
+CARMOSINA — 48 anos — “Sou advogada e presentemente trabalho num Fórum. Perdi meu marido há dois anos, fui convidada a ir a um Centro Espírita; havia lá uma sessão de materialização, vi que alguém se materializava através do ectoplasma de um médium mas não consegui distinguir as feições do rosto. Ele me chamou de Carminha, Dra. Carminha, meu verdadeiro nome. Será que foi meu marido que se materializou naquela sessão? Tenho muitas dúvidas…”
+CARLOTA — 60 anos — “Meu filho está desaparecido há onze meses. Dizem amigos dele que ele caiu na Barragem do Jupiá, mas seu corpo nunca apareceu. Às vezes me vem à mente a esperança de que tudo foi uma brincadeira dele, quem sabe, não é? Vim pedir uma confirmação.”
+PEDRO — 32 anos — “Meu problema é que não sou sexualmente potente. Fiz tratamento, o médico diz que fisiologicamente estou bem, que é tudo psicológico, mas eu desconfio que não é porque estou assim desde a adolescência.”
+JUAREZ — 50 anos — “Sinto dores e cãibras nas pernas. Penso que possa ser “despacho” de pessoas que me invejam ou não gostam de mim. Venho pedir ajuda espiritual.”
+CARLOS — 12 anos — “Vim em visita a este Grupo e ao senhor pedir preces para que meus pais não briguem tanto.”
+ÂNGELO — 45 anos — “Ultimamente só durmo com soníferos. De madrugada me acordo, fico de olhos abertos horas a fio. Se tomo segunda dose, não consigo acordar na hora do trabalho.” (O médium Xavier diz a este consulente: “O irmão não deve se dopar, isto que você sente não vem de si. O irmão é lúcido, é íntegro, seria bom que buscasse remédio na fé, em Deus, em si mesmo. Creio que passes na base da fé lhe farão grande bem”.)
+CARLOS — 23 anos — “Meu caso é que há um ano atrás, ao me desesperar por um problema que afinal não tinha a importância que eu lhe dava, dei um tiro no ouvido mas consegui sobreviver. Desde então perdi a saúde e agora quero viver. Não sei como fui fazer isso, tenho medo de um derrame, eu preciso continuar vivendo mesmo sem saúde.”
+SÔNIA — 23 anos — “Acordo à noite com dormência no corpo. Às vezes essa dormência se transforma em tremores e então eu sinto a presença de meu pai falecido em 1976, em Minas Gerais.”
+SOFIA — 49 anos — “Vim para conhecê-lo… Espere um pouco… (lágrimas) desculpe… peço socorro para meus sentimentos…”
+ANA — 30 anos — “Meu marido desapareceu nas águas do rio Corumbá, faz um ano e até hoje não encontraram o corpo dele. Tenho três filhos, preciso de notícias que me esclareçam.”
+MANOEL — 11 anos — “Vim pedir para que curem meu olho direito, esta aqui é minha mãe. (Ela explica ao médium que com apenas 8 dias de vida o menino começou a apresentar problemas nos olhos.) Chico comenta: “Antes de nascer, no Espaço, seu filho já estava assim. Ao reencarnar a moléstia seguiu seu curso. É um processo curativo ao avesso, ou seja, do perispírito para o corpo. Certos males nos advêm para que possamos enrijecer os músculos do Espírito. Para ficarmos fortes e readaptados às Leis de Deus”.
+
+---
+
+## 4 — Mensagem de Cássio à sua mãe Therezinha
+
+> THEREZINHA  45 anos  … não conseguiu falar. Tirou da bolsa uma foto do filho Cássio e apertou as mãos do médium. Várias pessoas receberam, naquela noite, mensagens de seus entes queridos já desencarnados. D. Therezinha, transbordando saudades e indizível felicidade pelo contato obtido, recebeu do jovem Cássio esta mensagem:
+
+
+“Querida Mãezinha Therezinha e meu querido pai Florentino, abençoem-me.
+Glória de nossa vida, abrace-me.
+Marlise, nossa irmã, Deus nos proteja a todos.
+
+Mãezinha, estou aqui. Nem podia deixar de ser assim. A gente imagina que a separação no Plano Físico vem a ser distância, mas o próprio coração nos diz que semelhante ocorrência seria claramente impossível.
+
+O amor vem de Deus e em Deus estaremos reunidos sempre.
+
+Compreendo. As noites supostas vazias, as horas julgadas entregues ao tempo sem nada e a saudade por sentinela espreitando-nos todos os movimentos.
+
+Isso, mãe querida, foi no princípio. Agora é setembro. Hora de primavera. Festa de aniversário. As velinhas são orações e os nossos pensamentos são flores de esperança e de fé.
+
+Agradeço todo seu esforço, mãe abençoada e inesquecível. Eu sabia que sua ternura ouviria minha voz nas palavras escritas e que as minhas notícias lhe ecoariam na alma, à feição da música de nossa união constante.
+Eu sabia que meu pai Florentino encontraria meios de registrar a minha presença e que a nossa querida Glória Cristina me entenderia, sem muitos argumentos do mundo, porque sempre fomos um todo e a parcela que sou eu permanece no lar, tanto quanto o lar permanece em mim.
+
+Sei igualmente que ainda choramos; entretanto, nossas lágrimas assemelham-se ao orvalho da noite, vitalizando as flores do alvorecer.
+A alegria na grande compreensão também se revela através do pranto — desse pranto que nos alcança os recessos do espírito, como que lavando e purificando nossas ideias e emoções, ao levantar-nos para a Vida Maior.
+Se estou feliz, posso dizer que estou quase. A saudade é parte que falta para que a minha alegria seja perfeita. Mas não é a sensação pesada do sentimento rebelde quando anseia pela obtenção do impossível. É a saudade-esperança que floresce no espírito, iluminado pela fé viva em Deus.
+Como não ser assim, se nos amamos tanto? Como poderia ser de outro modo se a nossa vida permanece no mundo positivamente impregnada pela vida uns dos outros?
+Graças à nossa confiança em Jesus, entretanto, vamos transformando inquietação em tranquilidade e carência em plenitude. Viveremos juntos, sim, e para sempre, porque a Divina Providência não nos criou para exilar-nos do carinho com que nos enlaçamos de coração para coração. Estou e estarei, quanto possível, em nosso caminho diário, seguindo nos passos com que marcam a estrada humana.
+
+Mãezinha querida, hoje entendo que os pais não nos perdem, quando trocamos de vestimenta, nas metamorfoses da desencarnação. Somos mais filhos, quando conseguimos adentrar os sentimentos daqueles corações benditos que nos plasmam a existência. E tanto mais filho sou eu agora que oro em suas preces, mãe querida, por aquela outra mãe que me entregou no endereço a que Deus me destinava.
+Agora, que o meu olhar alcança mais longe, enterneço-me ao refletir nas circunstâncias em que fui conduzido aos seus braços. E juntos, como sempre, teremos o coração a diluir-se no carinho por outras crianças que chegaram à Terra indagando pela moradia em que devam respirar. Elas e eles, rebentos da vida de Deus, em nossos cuidados receberão nosso amor. Com a nossa Marlise e outros corações generosos, abraçaremos por nossos entes queridos aqueles mesmos companheiros do Cássio pequenino, a asilar-se em seu colo para refazer-se ou chorar nos dias primeiros da infância.
+
+Eu sei, mãezinha querida. Sei que vim à nossa casa terrestre para cultivar as flores da crença ao seu lado, junto de meu pai, de nossa Glorinha e de todos os nossos. De começo, imaginei que teríamos um imenso jardim de rosas pela frente, mas em regressando ao Plano Espiritual reconheci que a nossa plantação era de saudades do Céu. Voltei mais cedo, como que a fim de imprimir renovado vigor às flores de nossas aspirações.
+As saudades nos chamaram a todos, dos vales terrestres para os montes da espiritualidade superior. E vicejando cada vez mais a nossa floricultura invisível nos fornece ideais e planejamentos de serviço ao próximo, cada vez mais valiosos e mais belos.
+Peço-lhes, porém, alegria e otimismo, de vez que fomos trazidos ao continente das construções novas em que nos reencontraremos, um dia, bendizendo a Bondade Infinita de Deus. Estamos pavimentando um caminho de libertação. Cada minudência do trabalho no bem, na qual nos esqueçamos para pensar no bem dos outros, é um tijolo de amor ajustando as sendas redentoras em que o carro de nossa vida deslizará, um dia, à procura da felicidade perfeita. Por isso mesmo rejubilamo-nos ao vê-los todos interessados e integrados nas obras da beneficência e da luz.
+Auxiliemos aos companheiros do futuro que hoje sonham juntos de nós. A criança é o capital de Deus para a sublimação da vida, na Terra. De nós depende sejam os pequeninos da atualidade os grandes responsáveis pelo progresso e pela felicidade de todos, no grande Amanhã.
+
+Agradeço, mãezinha querida, as suas lembranças com respeito ao natalício de seu filho. Tenho recebido suas preces e, pelo reconhecimento de tantos, qual se houvéssemos usado o correio dos corações, obtenho diariamente as notícias do seu amor.
+Muito grato por entender-me o coração nas mãos operosas. “Isto é pelo meu filho”, “em nome de meu filho”, “com o amor de meu filho” e “em lembrança de meu filho” são frases que me soam nos ouvidos à maneira de cânticos celestes.
+Como dizer a palavra certa, no sentido de agradecer? Não encontro a frase que desejaria articular para manifestar-lhe reconhecimento e carinho, mas a prece falará por mim. Amigos devotados daqui me auxiliarão a orar, pedindo a Deus pela felicidade e paz de nós todos.
+
+À nossa querida Marlise, posso dizer que a nossa sempre querida Rosana vai bem, tanto quanto é possível asserenar-se um coração que voltou de inesperado ao Plano Espiritual. Aqui estão, em nossa companhia, duas avós convertidas em mães do coração, nossas queridas Maria Faustina e Maria Caruso. Nossa Rosana vem recebendo todos os cuidados que o seu tratamento merece e, em breve, esperamos contar com a colaboração dela em nossas mensagens.
+Que nossa irmã do coração, nossa Marlise, espere confiante, pois, com a Bênção Divina, estará a irmãzinha trazendo notícias de próprio punho, muito brevemente. Creiam que todos nós, aqueles que voltamos nos dias mais verdes da existência terrestre, éramos destinados a tempo ligeiro. Mas a vida não cessa e todas as edificações do amor continuam.
+
+Meu pai Florentino, o vovô Florentino se encontra aqui conosco e envia lembranças ao meu outro vovô. Achamo-nos todos muito felizes com as disposições de todos, no sentido de darmos de nós, quanto possível, à Causa do Bem.
+
+Mãezinha, este é o caminho que se nos desvenda perante os olhos: construir amando e abençoando sempre, a fim de que, por nossa vez, sejamos abençoados. A luta nobre pela vitória do bem prossegue ativa e sentimo-nos felizes em vê-los participando dessa cruzada de bênçãos.
+
+Estimaria escrever ainda muito, mas o tempo nos diz que todas as palavras a serem ditas se resumem na descoberta do amor, em cuja refulgência vivemos todos. Amor infinito e belo, semelhante ao Sol que nos aquece por dentro das próprias almas.
+Nas vibrações benditas dessa alegria indescritível que sinto, em lhes escrevendo, ofereço-lhes o meu carinho por ramalhete de pétalas de saudade, mas de saudades sempre iluminadas na esperança e na fé.
+Mãezinha querida, desejava encontrar em meu peito uma harpa de luz para dizer cantando quanto a amo, entretanto, isso fica em meus pensamentos que lhe pertencem nas menores situações do sentimento e da vida.
+
+Estou contente à maneira de alguém que estivesse muito feliz numa festa maravilhosa de bênçãos com um espinho oculto na própria alma. O espinho da saudade que dividida em quatro partes, pelo muito que nos amamos, ainda é um peso enorme nos ombros de cada um, mas Deus tudo transformará em alegria.
+
+Pode a pedra repousar desconhecida entranhada no solo, mas virá um dia no qual se erguerá do chão anônimo para entregar o ouro que conserva consigo;
+pode o espinheiral vestir-se de verde escondendo agudas lâminas na folhagem, mas um dia virá em que Deus lhe enfeitará de rosas a roupa de espinhos;
+pode o deserto escaldar os pés do viajante cansado, qual se fora a imagem da solidão e da morte, no entanto, virá um dia em que a fonte se lhe alçará das profundezas para fazer o oásis balsamizante;
+pode a ostra ferida gemer na imensidão do mar, sem que ninguém na Terra lhe perceba o sofrimento, mas, um dia virá em que Deus, por mãos prodigiosas de trabalho e de amor, lhe trará o tesouro da pérola à superfície para que a preciosidade que se lhe formou do pranto invisível funcione em auxílio dos homens;
+e pode também perdurar a dor da imaginária separação que hoje nos assinala o relacionamento, entre os dois mundos, entretanto, um dia virá em que a Providência Divina converterá a nossa cruz de saudade em asas de luz para a Terra do Amor e do Reencontro.
+
+Com essa bendita certeza da vida imperecível, aqui termino para recomeçar o nosso diálogo, pensamento a pensamento.
+
+Nossa querida Marlise receba o nosso carinho de sempre, nossa Glória conserve o beijo fraterno do irmão reconhecido e para meu pai Florentino e para a minha mãe Therezinha, todo o coração agradecido, na ternura total do filho que lhes deve a vida e a felicidade e que pede a Deus nos conserve para sempre em sua proteção de paz e em sua bênção de amor.
+
+Sempre o filho do coração, carinhosamente, sempre o mesmo,
+
+---
+
+## 5 — Fumo e perispírito
+
+Em 1964 escrevi um livro intitulado “Deixe de Fumar Pelo Método de Cinco Dias” que contou com seis edições seguidas.
+Na época eu nada sabia sobre Allan Kardec.
+Via a questão “fumo-saúde” sob um ângulo parcial de higidez orgânica, dos danos físicos reversíveis ou não trazidos pelo cigarro, da dependência do fumante em relação à nicotina e outros componentes do fumo.
+Decorridos dez anos, circunstâncias pessoais de dor e reflexão me levaram ao estudo da Doutrina codificada por Kardec sob a orientação do Mundo Espiritual Superior.
+Uma nova visão acerca da vida, do destino e da morte do ser humano aos poucos haveria de despertar-me para as inarredáveis realidades da alma em suas recorrentes trajetórias terrenas.
+O conhecimento das leis de causa e efeito, sobretudo no que concerne ao princípio intermediário entre a matéria e o espírito, elo de união conhecido pelo nome de perispírito, levar-me-ia a refletir mais adiante nos danos visíveis e invisíveis que certos hábitos adquiridos, quase sempre inconscientemente, nos causam.
+Desde o “Livro dos Espíritos”, a literatura doutrinária vem mostrando abundantemente a estreita vinculação desse tripé homogêneo representado pelo “corpo-perispírito-espírito” .
+Observei, outrossim, serem relativamente escassas as informações disponíveis em torno da influência do cigarro no perispírito, por se tratar de um hábito relativamente novo na existência humana.
+Ocorreu-me então a ideia de submeter a questão à apreciação de Emmanuel, através de perguntas formuladas a Chico Xavier.
+Ao tempo em que Kardec viveu, o tabagismo era elitista, quase não se difundira em termos das populações. Porém, de um modo geral, o tema ficou incluído no capítulo “Das Paixões”, dessa obra básica, conforme
+questões de n.° 907 a 912
+. Dali extraímos as seguintes proposições respondidas pelos Espíritos:
+“Visto que o princípio das paixões está na Natureza, ele é mau em si mesmo?”
+— Não, a paixão está no excesso acrescentado à vontade, porque o princípio foi concedido ao homem para o bem e as paixões podem levá-lo a grandes coisas, sendo o abuso que delas se faça que causa o mal.
+O homem poderia sempre vencer suas más tendências por seus esforços?
+— Sim, e, algumas vezes, por fracos esforços. É a vontade que lhe falta. Ah! Quão poucos dentre vós fazem esforços!
+Não há paixões tão vivas e irresistíveis que a vontade não tem poder para superá-las?
+— Há muitas pessoas que dizem: “eu quero”, mas a vontade não está senão nos lábios; elas querem, mas estão contentes que assim não seja. Quando se crê não poder vencer suas paixões, é que o Espírito nelas se compraz em consequência de sua inferioridade. Aquele que procura reprimi-las, compreende sua natureza espiritual, e as vitórias são para ele um triunfo do Espírito sobre a matéria.
+Qual é o meio mais eficaz de combater a predominância da natureza corporal?
+— Praticar a abnegação de si mesmo.”
+Sabemos, portanto, que o perispírito é o agente intermediário das sensações externas. Tudo que façamos, nele fica gravado indelevelmente, como se fora num filme intocado. Após a morte do corpo físico, as sensações se generalizam no espírito, ou seja, as dores não ficam localizadas. Num paciente que tenha desencarnado, por exemplo, de câncer pulmonar proveniente do uso prolongado e constante do cigarro, o Espírito não fica propriamente sofrendo de um mal localizado, mas de um mal correspondente que lhe abrange toda a constituição espiritual.
+Às nossas perguntas Chico Xavier deu as seguintes respostas:
+R — “O problema da dependência continua até que a impregnação dos agentes tóxicos nos tecidos sutis do corpo espiritual ceda lugar à normalidade do envoltório perispirítico, o que, na maioria das vezes, tem a duração do tempo correspondente ao tempo em que o hábito perdurou na existência física do fumante. Quando a vontade do interessado não está suficientemente desenvolvida para arredar de si o costume inconveniente, o tratamento dele, no Mundo Espiritual, ainda exige quotas diárias de sucedâneos dos cigarros comuns, com ingredientes análogos aos dos cigarros terrestres, cuja administração ao paciente diminui gradativamente, até que ele consiga viver sem qualquer dependência do fumo.”
+R — “As sensações do fumante inveterado, no Mais Além, são naturalmente as da angustiosa sede de recursos tóxicos a que se habituou no Plano Físico, de tal modo obsedante que as melhores lições e surpresas da Vida Maior lhe passam quase que despercebidas, até que se lhe normalizem as percepções. O assunto, no entanto, no capítulo da saúde corpórea, deveria ser estudado na Terra mais atenciosamente, de vez que a resistência orgânica decresce consideravelmente com o hábito de fumar, favorecendo a instalação de moléstias que poderiam ser claramente evitáveis. A necropsia do corpo cadaverizado de um fumante em confronto com o de uma pessoa sem esse hábito estabelece clara diferença.”
+R — “Muitas vezes os filhos ou netos de fumantes e dipsômanos inveterados, são aqueles mesmos espíritos afins que já fumavam ou usavam agentes alcoólicos em companhia deles mesmos, antes do retorno à reencarnação. Compreensível, assim, que muitas crianças (Espíritos extremamente ligados aos hábitos e idiossincrasias dos pais e dos avós) apresentem, desde muito cedo, tendências compulsivas para o fumo ou para o álcool, reclamando trabalho persistente e amoroso de reeducação.”
+R — “Justo esclarecer que não apenas quanto ao fumo, mas igualmente quanto a outros hábitos prejudiciais, somos compelidos na Espiritualidade a esquecê-los, se nos propomos a seguir para diante, no capítulo da própria sublimação. O tratamento na Vida Maior para que nos desvencilhemos de costumes nocivos perdura pelo tempo em que nossa vontade não se mostre tão ativa e decidida, quanto necessário, para a liberação precisa, de vez que nos planos extra-físicos, nas vizinhanças da Terra propriamente dita, as reincidências ocorrem com irmãos numerosos que ainda se acomodam com a indecisão e a insegurança.”
+R — “Em nossa palavra, não desejamos imprimir censura ou condenação a ninguém, mas, ao que nos parece, o melhor dissolvente da solidão é o trabalho em favor do próximo, através do qual se forma, de imediato, uma família espiritual em torno do servidor.”
+R — “A opinião médica, no assunto, é a mais justa. Considerando os prejuízos dos amigos fumantes contra eles mesmos, a racionalização não se revela bem posta.”
+R — “Conseguir esquecer o hábito arraigado de fumar é, realmente, uma vitória espiritual de alto alcance.”
+R — “Acreditamos que ambos os tipos de dependência se equiparam na feição compulsiva com que se apresentam, cabendo-nos uma observação: é que o fumo prejudica, de modo especial, apenas ao seu consumidor, quando os narcóticos de variada natureza são suscetíveis de induzir seus usuários a perigosas alucinações que, por vezes, lhes situam a mente em graves delitos, comprometendo a vida comunitária.”
+R — “Compreendendo as nossas próprias dificuldades, em matéria de renovação íntima, sempre difícil para todos aqueles que cultivam sinceridade para com a própria consciência, não devemos subestimar o esforço da indústria, no sentido de atenuar a nicotina ou suprimi-la, recorrendo a meios pacíficos que auxiliem os fumantes a esquecê-la sobretudo, gradativamente.”
+R — “Quando o Espírito não conseguiu desvencilhar-se de hábitos determinados, enquanto no corpo físico, é compreensível que esses mesmos hábitos não o deixem tão logo se veja desencarnado.”
+R — “O fumo, decorrente de recursos condensados para a sustentação de hábitos humanos, em derredor do Plano Físico, é constituído por agentes químicos semelhantes àqueles que integram o fumo, no campo dos homens. E, em se tratando de costume nocivo da entidade espiritual, tanto encarnada quanto desencarnada, tão difícil é a erradicação do hábito de fumar na Terra quanto nos círculos de atividade espiritual que a rodeiam, no que tange às sensações de ordem sensorial.”
+R — “O assunto é complexo, de vez que somos impulsionados, pelo espírito de humanidade, a considerar que o fumante arruína as possibilidades unicamente dele mesmo, requisitando, de modo quase que exclusivo, o manejo da própria vontade para exonerar-se de um hábito que lhe estraga a saúde. Partindo do princípio de que o uso do fumo se relaciona com a liberdade de cada um, indagamos de nós mesmos: não será mais compreensível que o homem pague ao seu grupo social essa ou aquela taxa de valores econômicos, pela permissão de usar uma substância unicamente nociva a ele próprio, aumentando a riqueza comum, do que induzi-lo a uma situação de clandestinidade a que se entregaria fatalmente o fumante inveterado, sem nenhum proveito para a sociedade a que pertence? Como vemos, é fácil observar que a supressão do tabagismo é um problema de educação, com sólidos fundamentos no autocontrole.”
+R — “Qualquer hábito prejudicial cria condições anômalas para o perispírito, impondo-lhe condicionamentos difíceis de serem erradicados. Quanto à definição do relacionamento “hábito nocivo-constituição molecular do perispírito” e os reflexos de um sobre o outro nos dois Planos da matéria, em nos reportando às vivências da Terra, ainda não dispomos de terminologia própria a fim de apresentar por dentro o fenômeno em si, como seria de desejar.”
+R — “Nas civilizações sublimadas, que consideramos por muito mais evoluídas que a civilização terrestre, os problemas de tabagismo, alcoolismo e toxicomania, efetivamente não existem.”
+
+R — Creio que o hábito de fumar não pode ser definido por suicídio conscientemente considerado. Será um prejuízo que o fumante causa a si mesmo, sem a intenção de se destruir, mas prejuízo que se deve estudar com esclarecimento, sem condenação, para que a pessoa se conscientize quanto às consequências do fumo, no campo da vida, de maneira a fazer as suas próprias opções.
+R — Creio que não, com referência ao tempo de trabalho, de vez que a ingestão de nicotina agravaria as doenças de que sou portador, mas não quanto a supostas qualidades espirituais para o mandato referido, de vez que considero “o hábito de cultivar pensamentos infelizes” uma condição pior que o uso ou o abuso da nicotina e, sinceramente, do “hábito de cultivar pensamentos infelizes” ainda não me livrei.
+R — A prece e o trabalho, em meu entendimento, são sempre os melhores recursos para defender-nos contra qualquer desequilíbrio.
+
+---
+
+## 6 — A sensibilidade das plantas nos dois Planos da Vida
+
+Em 1943 veio a lume o livro
+, ditado a Chico Xavier pelo Espírito André Luiz, contendo descrições pormenorizadas da vida e atividades dos Espíritos nas regiões e paisagens do Mundo Maior, de acordo com o grau evolutivo atingido por esses Espíritos.
+A narrativa, que pela primeira vez descreve a existência de cidades e colônias povoadas por Espíritos dedicados às mais diversas tarefas, no espaço que circunda o nosso planeta Terra, faz também várias referências a formosos jardins, bosques e plantas, bem como a cidades de vida organizada com serviços os mais diversificados.
+Constata-se, desde logo, que, nas diversas “Moradas do Pai”, conforme o prometido pelo Cristo,
+a suave presença de plantas, folhagens, belos e aromáticos arvoredos, roseirais de indescritível beleza, ambientes de música e harmonia constitui um fator constante. Dir-se-ia que as plantas e flores, essas prestimosas e encantadoras companheiras do ser humano, não se limitam a enriquecer a vida somente no Plano da Matéria mais densa, mas também acompanham a Humanidade como um todo, mesmo após a passagem pela morte, apresentando-se em feições, matizes e aromas de uma forma cada vez mais etérea e espiritualizada.
+Até mesmo nas inóspitas e sombreadas regiões do Umbral, onde se domiciliam os Espíritos nas condições evolutivas menos felizes, sua presença marcante é condicionada pelo meio.
+Tudo na vida é energia, transformação, renascimento, ascensão e luz. Nada se perde e tudo avança de conformidade com os desígnios de Deus, dentro dos processos evolutivos que orientam o rumo dos seres criados.
+Com relação à vida das plantas no Plano Extra-físico, muitas revelações surpreendentes chegaram ao conhecimento de todos nós, através da mediunidade de Chico Xavier. Podemos verificar a secreta e insuspeitada sensibilidade dos vegetais reagindo aos processos da vida; tanto na Terra como no Mundo Maior.
+De resto, aparelhamentos mais sensíveis, criados pela técnica do homem, registram poligraficamente as reações das plantas às influências do meio e às intervenções e sentimentos humanos, de forma a não pairar qualquer dúvida fundamental às manifestações de sensitividade do complexo mundo vegetal que nos cerca.
+Acerca dessa transcendente questão, os Espíritos Superiores prestaram valiosos e significativos esclarecimentos.
+R — Caro Fernando, devo explicar a você que responderei às suas perguntas, ouvindo o nosso devotado Emmanuel, a quem posso e devo atribuir a autoria dos conceitos emitidos, especialmente agora, em que de corpo físico menos apto para qualquer esforço mental, tenho tido mais facilidade para ouvir o nosso Amigo da Vida Maior que, com toda a certeza, por amor à nossa Doutrina de Luz, e não por méritos que não possuo, tem me favorecido de modo mais amplo, sempre que os assuntos se reportem aos temas espíritas-cristãos, com mais reforço de amparo, suprindo-me as deficiências naturais em evidência maior com a diminuição das possibilidades de minha saúde física. Feito o esclarecimento, iniciemos as respostas de nosso Amigo da Espiritualidade. — “O fenômeno da Empatia está presente em todos os seres e em todos os domínios do Universo.”
+R — Todo ser organizado é sensível ao campo magnético da criatura que se lhe faça mais próxima.
+R — A ciência humana continuará com êxito nas investigações em torno das comunicações biológicas, registrando a presença de forças que se interligam, de acordo com o tempo mensurável na Terra, e de conformidade com recursos outros de TEMPO EXTRATERRESTRE, cabendo-nos respeitar o trabalho humano de pesquisa e solução aos problemas da Natureza, sem nos anteciparmos em conclusões que pertencem às forças representativas da ciência no Plano Físico.
+R — Quanto ao assunto, recordemos que, até mesmo em observações que se fizeram rotineiras, a luz precede o som nas manifestações que se lhes fazem características. No que se refere à vibração, a inteligência humana se encontra à frente de imenso império de energias a serem devidamente estudadas para a necessária catalogação.
+R — As plantas possuem, compreensivelmente, a MEMÓRIA EM CONSTRUÇÃO, se nos é permitido assim nos exprimirmos. A memória, em qualquer grau, apresenta a parcela de discernimento que haja conquistado.
+R — Em graus e tons diversos a Espiritualidade se encontra em qualquer partícula de vida.
+R — Sim, reconhecendo-se que a palavra “rudimentos” está positivamente adequada à indagação proposta.
+R — Intuitivamente, desde hoje, os responsáveis pela solução dos problemas de ecologia na Terra já reconhecem a necessidade de proteção ao mundo vegetal para garantir as condições de habitabilidade e conforto da pessoa humana nos variados climas do Planeta.
+R — O tempo, com o trabalho, auxiliará o homem a descobrir a energia elétrica através das plantas, tanto quanto já cooperou com a inteligência humana; por exemplo, na descoberta do álcool na cana-de-açúcar e do óleo na mamoneira, para fins específicos na indústria.
+R — As percepções das plantas estão no homem; contudo, as percepções humanas com a evolução da inteligência se fizeram altamente complexas, mas sempre enfeixando em si — mesmo em caráter crítico — todas as percepções das várias faixas da Natureza, pelas quais o Espírito Humano já passou em sua multimilenária evolução sobre a Terra.
+R — O estímulo musical trará sempre rendimentos em qualquer resultado da conjugação de esforços entre o Homem e a Natureza, com vistas à produção de valores para determinados fins.
+R — No Mundo Espiritual, propriamente assim chamado na Terra, o Espírito desenfaixado das experiências no Plano Físico entra, facilmente, em relação com os chamados Espíritos da Natureza. (Quanto a mim, aqui já me expresso na condição do médium ou Espírito encarnado no corpo denso, já entrei em relação com seres diversos que presidem certos fenômenos da Natureza, e isso começou em mim quando iniciei a psicografia dos livros de autoria do nosso Amigo Espiritual André Luiz, que nos fala dessas inteligências em muitos tópicos de seus apontamentos e narrativas. — Nota de Chico Xavier.)
+R — O pensamento do homem exerce constantemente influência decisiva no meio em que se encontra.
+R — Allan Kardec e cientistas outros que se consagraram ao estudo da evolução do princípio inteligente, estavam em sintonia com o mesmo campo vibratório da Vida Superior que impelia e impele sempre a criatura terrestre ao exame dos processos evolutivos na oficina do progresso planetário.
+R — Atentos ao contexto evangélico das tarefas que nos competem desempenhar, cremos que seja nosso dever entregar à inteligência humana os problemas da materialização, desmaterialização e rematerialização da matéria, nos vários conceitos de definição da matéria na esfera das investigações científicas, vigentes no mundo.
+R — Não somente as plantas e os animais necessitam de amor para se renderem às necessidades do processo evolutivo em que todos nos encontramos. Nós mesmos, os espíritos humanos ou candidatos à humanização, não conseguimos prescindir do amor ou da proteção do amor, a fim de nos submetermos às disciplinas da vida, de modo a servirmos com segurança e eficiência na engrenagem do progresso comum.
+R — A inteligência, em qualquer setor da Natureza, está impregnada de princípios que caracterizamos como sendo “divinos”, já que procedem da Sabedoria Divina, agindo sempre no rumo de objetivos determinados.
+R — Todos os reinos da Natureza na Terra, em plano inferior à posição da Pessoa Humana, precisam da proteção da inteligência terrestre para que possam proteger a inteligência terrestre. Achando-nos todos em evolução no Planeta, é natural semelhante intercâmbio, para que estejamos no lugar que nos é próprio, auxiliando para que sejamos auxiliados.
+R — Segundo os nossos conhecimentos atuais, o início da sensitividade do reino mineral antecede as ocorrências da sensitividade ao mundo vegetal.
+R — Se pudéssemos trocar ideias com os minerais, os vegetais e os animais de que nos prevalecemos na Terra para a sustentação da vida física, também eles possivelmente nos perguntariam por que lhes causamos tanto sofrimento, ignorando que a dor é sofrimento educativo de primeira ordem, sem o qual o mais rudimentar aperfeiçoamento das criaturas e das coisas seria claramente impossível.
+R — “Caro Fernando, aqui respondo por mim mesmo. Para mim é como se o tempo não tivesse existido na contagem humana das horas. Atualmente, conforme já disse, observo o meu corpo físico em desgaste natural, à maneira do trabalhador que registra o desgaste da enxada de que se utiliza no trato do solo. Indiscutivelmente, nos primeiros dez e quinze anos do início das tarefas, estive na condição do animal em processo de domesticação para aceitar o serviço que se lhe faz necessário, mas, com o escoar do tempo, na condição de animal humano, fui reconhecendo o valor dos que me domesticavam para as atividades do intercâmbio espiritual (no caso, os Espíritos benevolentes e sábios que nos protegem e auxiliam), de tal maneira que voluntariamente obedeci e obedeço até hoje ao plano de trabalho traçado por eles, reconhecendo, plenamente, que as realizações deles estão muito acima de qualquer cogitação de meu espírito estreito, cabendo-me a obediência feliz às Instruções que, por bondade deles, possa receber, notando embora, de minha parte, que se meu corpo vai cedendo à lei do desgaste com o tempo terrestre, meu Espírito se vê cada vez mais interessado e contente, absorvendo ensinamentos e orientações dos Espíritos amigos, qual se eu vivesse NUM TEMPO QUE NÃO É DA TERRA (sic), com a mesma surpresa e com a mesma vitalidade emocional com que os nossos Benfeitores da Vida Maior me proporcionaram a honra do engajamento no trabalho deles em nome de Jesus, nosso Divino Mestre e Senhor, desde uma noite de julho de 1927, quando os recursos mediúnicos, que me caracterizavam a existência terrestre desde os primeiros dias de meu corpo atual, entraram na disciplina e na condução do serviço dirigido e organizado segundo as instruções fundamentais de Allan Kardec, no Cristianismo atualmente redivivo.”
+
+---
+
+## 7 — Assuntos da vida
+
+“Morte clínica” e desencarne, amor, eutanásia, psicanálise, vida pulsante do Universo, sexo e evolução, divórcio, marxismo, o fim das guerras, a arte de envelhecer, etc.
+Com mais de dez comensais à mesa, naquele meio-dia de sábado, o médium Xavier pede que cada um se sirva daquilo que preferir, enquanto ele próprio serve refrigerante aos presentes.
+Finda a refeição, e antes que Chico Xavier se retire para um repouso de meia hora recuperando energias para a tarefa evangélica de sábados à tarde, retenho-o por alguns instantes em palestra sobre planos para este livro. Sugeri-lhe que o título fosse “Janela para o Céu”, tendo ele preferido que o título seja “Janela para a Vida”, já que seu tema principal é a mediunidade.
+Enquanto concordava com ele que sua sugestão era a mais indicada, notei que o médium Xavier me observava com uma expressão indefinível. Ou melhor, aquele olhar compassivo e doce, compreensivo e profundo, não era o olhar de Chico Xavier a que eu me habituara.
+Aquela luz vertendo do Mais Alto proporcionava-me sentimentos de profunda paz, aliados a uma indescritível vontade de superar-me em minhas limitações, de já me ter libertado das algemas das ilusões materiais. Uma luz de inavaliável beleza, vinda de regiões desconhecidas de minha alma, mas presentes nas mais recônditas esperanças de meu espírito sedento de Luz e Sabedoria Divina.
+Poderia afirmar tratar-se de Emmanuel, o Benfeitor e o Amigo dos necessitados. Seja como for, penso que nunca esquecerei os vívidos sentimentos que me avassalaram a alma naqueles breves e infinitos minutos de enlevo espiritual.
+Antes de recolher-se aos seus aposentos, o médium Xavier entregou-me um envelope contendo respostas às perguntas que eu lhe formulara em várias folhas datilografadas.
+Tratando de muitos e variados assuntos, disse ao médium que respondesse somente as que lhe parecessem mais apropriadas ou significativas. Apesar disso, nem uma só ficou sem resposta. Ei-las:
+
+R — Respeito a interpretação da ciência psicológica com referência à nossa vida mental inconsciente, entretanto, creio que, na maioria dos casos em que despertamos após o sono comum com determinadas “soluções prontas” para problemas que nos inquietavam, isso se deve ao amparo de Espíritos Amigos e Benfeitores que nos estendem auxílio, quando a nossa mente repousa entre as atividades de vigília. Aliás, não nos seria licito esquecer que os magnetizadores, mesmo entre nós, os espíritos encarnados, conseguem prestar valioso auxílio aos companheiros por eles magnetizados, enquanto se encontram esses, no estado de hipnose, sem que eles, os magnetizados, conservem, pelo menos temporariamente, qualquer lembrança dos benefícios recebidos.
+R — Compreendemos o fenômeno não só por socorro indireto de amigos desencarnados, como também por impacto de recordações instintivas, decorrente de circunstâncias em que a personalidade reencarnada recapitula experiências pelas quais haverá passado em existências anteriores.
+R — Admitimos que o conhecimento dos princípios reencarnacionistas, auxiliando-nos a aceitar com paciência e coragem os problemas e provações criados por nós mesmos, com o aprendizado e prática da tolerância recíproca nos imunizará contra os prejuízos das neuroses, auxiliando-nos, igualmente, na cura das obsessões.
+R — Com a maturidade espiritual necessária, o homem perceberá que os filhos são Espíritos imortais, independentes dos pais, que lhes são tutores perante Deus e a Vida. Isso desfará a ilusão de que os filhos são cópias dos genitores que lhes propiciaram a formação de novo corpo, na Terra, conquanto saibamos que, em numerosos casos, os filhos se parecem extraordinariamente com os pais, conforme os princípios da afinidade, compreensíveis em nossas vivências comuns.
+R — Cremos que o admirável poeta condensou todo um mundo de pensamentos complexos na síntese apresentada, porque renteando com esse conflito entre a incredulidade e a fé, somos induzidos a reconhecer outros, como sejam os conflitos entre o ódio e o amor, entre o equilíbrio e o desequilíbrio, e outros muitos, entre os quais lidamos e lutamos, todos, nós, à busca de nosso próprio burilamento.
+R — A educação do impulso sexual é trabalho não só para a infância e para a juventude, mas para todo o tempo da existência terrestre, continuando além da morte para as inteligências desencarnadas.
+R — Ao que nos parece, o conteúdo da personalidade, formada na criança, é um testemunho eloquente da reencarnação, compelindo toda criatura humana a ser educada e a educar-se no curso da existência berço-túmulo.
+R — Um assunto para a pediatria que merece consideração.
+R — A amnésia parcial ou total em que se encontra o espírito encarnado no período da infância equivale a um estado de semi-consciência no qual a criança não dispõe de recursos para raciocínios mais profundos.
+R — Somos partidários do respeito recíproco entre pais e filhos, adultos e jovens, em todas as fases da vida. Cada espírito é um mundo por si, com a obrigação de descobrir-se a aprimorar-se, conquanto deva e possa receber o auxílio de outrem para isso, mas sempre na base do apreço mútuo.
+R — Verdade. O espírito do nascituro, mais ou menos conscientemente, conhece as disposições dos pais a seu respeito.
+R — Qualquer violência, em qualquer lugar e em qualquer tempo, é prejudicial ao autor e aos que lhe assistem a exteriorização, seja qual for a idade do espectador.
+R — Em matéria de relacionamento sexual tão só o tempo com a maturidade espiritual da maioria das criaturas encarnadas na Terra é que solucionará o problema da compreensão necessária ao equilíbrio e à segurança dos grupos sociais.
+R — O relacionamento entre os parceiros da vida íntima no lar, na essência, é uma escola ativa de aperfeiçoamento do espírito. Até que duas criaturas alcancem o amor integral, uma pela outra, sob todos os aspectos da individualidade, é compreensível o atrito mais ou menos frequente entre ambas, visando ao burilamento recíproco.
+R — Alguém que fira outro alguém, depois dos compromissos afetivos devidamente assumidos em dupla, é responsável pela lesão psicológica que cause, criando para outrem e para si mesmo dificuldades que só pelo amparo do tempo conseguirá resgatar.
+R — Os espíritos sublimados nas leis do Bem aprenderam a amar sem exigência e a aceitar as pessoas amadas como realmente são ou estão.
+R — Realmente são muitas as pessoas que me supõem na condição de uma criatura que devora livros e mais livros. Não me ofendem com isso. Ficaria até mesmo feliz se assim fosse. Acontece, porém, que comecei a trabalhar profissionalmente aos dez janeiros de idade e, desde 1931, sou portador de enfermidade irreversível num dos olhos. Em vista disso, nunca pude ler excessivamente, conquanto seja um dever para cada pessoa cultivar-se quanto lhe seja possível. Nos anos últimos, a fim de poupar trabalho aos poucos recursos visuais de que disponho, procuro realmente ler apenas livros que me sejam recomendados por amigos para não perder forças experimentando leituras que não me trariam qualquer proveito.
+R — Pessoalmente guardo a convicção de que o livro Nosso Lar nos oferece plena realidade da vida além da morte física. Os contatos mediúnicos com André Luiz e outras entidades da Vida Maior não me deixam qualquer dúvida quanto a isso.
+R — Não me considero com créditos para adquirir popularidade. Mas devendo responder à pergunta creio que a fama é uma grande oficina de fotografias. Uma criatura conquista renome e, com isso, passa a ser vista por numerosas pessoas que simpatizam ou não simpatizam com ela. Começam aí as “fotos” da pessoa em causa. Cada amigo ou cada adversário apresenta a imagem que mentaliza e os retratos falados ou comentados vão aparecendo. Entretanto, no íntimo penso que uma criatura famosa se vê, na realidade, tal qual é, com muito mais necessidade de amparo a fim de viver do que de popularidade, embora, a meu ver, as pessoas famosas devam ser agradecidas a quantos lhes dispensam atenção. Não conhecia a fórmula de Einstein para que alguém se imunize contra os riscos do elogio, mas nela encontro um modelo de equilíbrio e sensatez. Aliás, Emmanuel sempre me adverte que o trabalho é o caminho para a verdadeira paz, quando o trabalho se encontre alicerçado no bem. Refiro-me ao assunto com o respeito que me vincula à indagação, mas preciso esclarecer que, quanto a mim, nunca precisei estar vigilante contra os inconvenientes da fama, de vez que nada fiz para conquistá-la e se trabalho sempre é porque preciso aprender a servir, em meu próprio benefício, competindo-me ainda acrescentar que os Espíritos Amigos me ensinam que devo sempre trabalhar porque, sinceramente, não tenho algo de melhor para fazer.
+R — Os Benfeitores Espirituais comumente nos dizem que, o tempo, com a evolução do ser humano, através de múltiplas experiências, a todos nos ensinará como aproveitar toda a capacidade mental de que somos dotados.
+R — A opinião aqui exposta pertence ao nosso Emmanuel. Diz nosso Amigo Espiritual que, no curso das provações coletivas, somos instintivamente induzidos a trabalhar em auxílio do próximo, com esquecimento de nós mesmo e, com isso, aprendemos espontaneamente solidariedade, união, tolerância e entendimento recíproco, imunizando-nos contra muitas das doenças consideradas mentais. E acrescenta que se nos decidirmos a trabalhar, todos nós, voluntariamente, uns pelos outros, sem propósitos de egoísmo e ambição, nos tempos de paz, teremos sempre os mesmos resultados. Isso acontece em nosso atual estágio evolutivo, porque carregar as dificuldades alheias, auxiliando aos outros com amor e desinteresse é muito mais fácil que carregar, sozinhos, o peso mental de nós mesmos.
+R — O assunto é de resposta impraticável para os obreiros do Evangelho do Cristo, de vez que demanda ciência absoluta, o que nos induziria provavelmente a regiões polêmicas sem proveito para as construções do homem interior.
+R — Um tema para os cientistas, cujos labores e realizações profundamente respeitamos.
+R — Uma gota d’água comum é um mundo microscópico, intensamente habitado. Não existem planetas vazios de vida, mas as formas de manifestação da vida variam ao infinito e não nos serviria a penetração num terreno de discussões inoportunas ou estéreis.
+R — A Terra, observada à imensa distância nas vastidões do Cosmo pode ser considerada pequena moradia das criaturas em evolução, confrontada com outros mundos da galáxia, mas examinada pelo sentimento, em qualquer ângulo pelo qual se nos apresente é maravilhosa mansão do Espírito, pelos bens inestimáveis que a todos nos proporciona.
+R — Consideramos que o problema proposto pertence ao domínio da ciência, mesmo porque, nós outros, os espíritos desencarnados, somos habitantes de outras faixas evolutivas do Planeta, quase que em comunicação constante com os irmãos corporificados no Plano Físico, sem que muitos companheiros da Humanidade estejam conscientizados a respeito disso.
+
+R — A desencarnação não é uma ocorrência absolutamente igual para todos. Por isso mesmo consideramos por desencarnação o estado do Espírito que já se desvencilhou de todos os liames que o prendiam ao corpo propriamente material.
+R — A ciência na Terra pode, em muitos casos, realizar processos artificiais de retenção do Espírito no corpo físico, mas sempre a título precário, sem ligação com as realidades definitivas da vida.
+R — Um problema na lei de causa e efeito a que a ciência no mundo, muito louvavelmente, não aplicou a eutanásia, permitindo que as leis superiores da existência claramente se manifestem.
+R — A doutrina Espírita, restaurando os ensinamentos de Jesus, pede ao homem discernimento e não o exonera da responsabilidade sobre os próprios atos.
+R — A palavra é tão importante, em qualquer domínio da vida, que o próprio Apóstolo João começa a narrativa evangélica que nos legou com o trecho inesquecível: “No princípio era o Verbo…”.
+
+R — Com os instrutores da Vida Maior acreditamos que as instituições cristãs, em futuro próximo ou talvez ainda um tanto distante, farão grandes aberturas nos princípios criados por elas mesmas, para que sejam os ensinamentos de Jesus interpretados com base nas realidades simples da vida.
+R — Entendemos a inconveniência da solidão e da inércia, em nome da fé; no entanto, será justo reconhecer que os refúgios da Religião para o exercício da vida conventual tiveram manifesto valor para milhares de criaturas portadoras de conflitos psicológicos ou vítimas de anseios que os preconceitos do mundo positivamente hostilizavam e que se reconheciam em muito melhores condições, no passado, nas casas de oração, consagradas à confiança em Deus e ao estudo dos problemas espirituais do que hoje, se procurassem abrigo e segregação em sanatórios e recantos de repouso mental. Conservamos, aliás, a convicção de que esses recantos de solidariedade e disciplina religiosa serão restaurados no futuro, não apenas para a contemplação de Deus, mas para a crença em Deus com trabalho e proveito para a vida comunitária, já que teremos inevitavelmente, reencarnados na Terra, por muito tempo ainda, milhares de companheiros em pesadas dificuldades psicológicas ou marcados por frustrações, para os quais a cura ou o tratamento pela fé e pela terapêutica ocupacional serão de eficiência mais ampla do que os processos curativos aconselhados, na atualidade, nas terapias que se interligam com a patologia da mente, muito embora não nos seja lícito esquecer ou desprezar o valor inconteste da medicação moderna em numerosos casos específicos.
+R — A segunda hipótese é muito mais frequente nas tentativas de intercâmbio espiritual. Entretanto, qual ocorria nas comunidades terrestres de outro tempo, sequiosas por facilidade de comunicação uma com as outras, antes da era do telefone, há que esperar a época em que os desencarnados consigam recursos mais amplos para a troca de notícias com os irmãos domiciliados no Plano Físico, a fim de que o problema seja devidamente solucionado.
+R — O assunto é de natureza política, pertinente à responsabilidade dos irmãos transitoriamente encarnados na Terra, sem conexão com as nossas construções espirituais. Entretanto, os amigos ainda residentes no mundo podem estar de braços dados conosco, os amigos que já atravessamos as barreiras da Grande Mudança.
+R — Os princípios da reencarnação, quando forem aceitos pela Ciência na Terra, conseguirão liquidar aflitivas questões do espírito humano; entretanto, não seria justo, de nossa parte, impor a verdade ou exigi-la em bases de violência. Enquanto na experiência física, saibamos recolher da Ciência os benefícios que ela nos consiga prestar, sem reclamar-lhe realizações que ela própria considere de caráter prematuro.
+R — Admitimos que a violência pode e deve ser contida pelos órgãos de repressão, mas acreditamos que será erradicada do campo humano somente quando nos voltarmos todos — os Espíritos vinculados à Terra — para o serviço de educação a partir da criança recém-nascida.
+R — Ante a grandeza do Universo somos inevitavelmente compelidos a reconhecer na criatura humana um Espírito imortal, em evolução no rumo da Vida Superior, cujo burilamento não prescinde das relações com as demais criaturas do mesmo nível de inteligência, a fim de que se lhe acentue a compreensão e se lhe aprimorem os sentimentos, em demanda dos cimos do progresso e da elevação a que aspira alcançar.
+R — No Mais Além, outras cores se nos descortinam às percepções, na decomposição da luz, mas não encontramos as palavras adequadas para definir a ocorrência, nas áreas atuais do conhecimento terrestre.
+R — Consideramos a poesia dos especialistas terrestres, no terreno das cores, por ingrediente respeitável nas definições expostas e não nos consideramos capazes de lhe aditar ponderações científicas por falta de termos próprios que funcionariam em apoio da argumentação que porventura pudéssemos agora articular. Quanto à música é certo que ela irradia cores, a traduzir-se em espectro multicor. Reconhecemos, outrossim, que a cor se reveste de muita importância para a harmonização e evolução do Espírito, seja no Plano Físico ou no Plano Espiritual.
+R — As expressões do grande filósofo são indiscutivelmente admiráveis e, a nosso ver, preparavam os ouvidos humanos para entenderem a afirmativa do Cristo: “Sede perfeitos, tanto quanto perfeito é o vosso Pai Celestial”.
+
+R — Estamos na convicção de que assim é, Frequentemente observamos que a pessoa culta, quando não admite a sobrevivência do Espírito além da morte, não raro também se declara descrente da existência de Deus, muitas vezes criando teorias que lhe justifiquem o ateísmo, unicamente para não aceitar as responsabilidades que a certeza da existência de Deus e da imortalidade da alma implicam, nela mesma.
+R — Sabemos que no Plano Espiritual, os que se utilizaram na Terra do nome de Deus para extravasarem as paixões próprias, mais enquistados se tornam nessa atitude infeliz, adorando a si mesmos e tiranizando as criaturas culpadas em nome do Criador. Isso ocorre com as inteligências que desertaram do bem — que é o Bem de todos — de vez que os Espíritos, encarnados ou desencarnados, que amam a Deus, procuram revelar esse amor junto aos semelhantes, neles encontrando os seus próprios irmãos e, igualmente, filhos de Deus.
+R — Temos a impressão de que cientistas do porte de Darwin e Freud, se afirmando ateus estariam intimamente procurando a tranquilidade da fé religiosa, na torturante indagação que lhes assinalava a mente insatisfeita. Na imensidade das perquirições mentais em que viviam, a solução do problemas de vida interior em que se fixavam seria muito difícil, no curto espaço de tempo em que perdura uma só das múltiplas existências humanas.
+R — Cremos que se o ferro, conduzido ao clima de alta temperatura para converter-se em aço, pudesse falar ao homem que o retempera e aperfeiçoa, repetiria as alegações de Jó, clamando diante daquele que o eleva de condição e o habilita para mais nobre destino nas áreas da utilidade.
+R — Os Benfeitores Espirituais asseveram comumente que “a miséria humana é um dos grandes caminhos para o encontro da criatura com a Misericórdia Divina”.
+R — O filósofo apresenta o enunciado com claras razões, a nosso ver, porquanto o homem que se livrou das amarras da ignorância, refletindo na morte, está meditando na vida, compreendendo, perante a imortalidade, que a morte do corpo físico significa renascimento da vida em outras dimensões vibratórias.
+R — Será justo esclarecer aos que amam a morte, na certeza de que ela expressa libertação, que essa libertação unicamente traduz tranquilidade e renovação, alegria e progresso quando a criatura humana, dentro de si própria, já se libertou de hábitos e paixões nitidamente inferiores.
+R — A eutanásia, observada do Plano Espiritual para o Plano Físico, constitui sempre descaridade e imprudência praticadas pelo homem para com os seus semelhantes. Até nos instantes últimos do veículo físico, o espírito encarnado ainda é suscetível de colher valiosas lições e conquistar recursos de importância inavaliável para os entes que ficam, recursos esses que lhe serão de alto proveito logo após a desencarnação.
+R — Para nós outros, os leitores do eminente escritor e dramaturgo, a afirmativa dele, “Ser ou não ser”, não se reporta ao Espírito que, por ser imortal, é imperecível. Entretanto, para ele próprio, ao que nos parece, ao gravar tais expressões, estaria Shakespeare procurando retratar a angústia da maioria dos homens, diante das ocorrências da vida fatalmente encaminhadas para as transformações da morte.
+R — “Caro Fernando, segundo minhas observações modestas, creio que o médium na Terra pode servir aos Espíritos que se comunicam, cedendo-lhes, provisoriamente, o corpo físico em que se encontra, e pode igualmente prestar-lhes cooperação, depois da existência física cedendo-lhes, também provisoriamente, o corpo de natureza espiritual em que se veja nas faixas de trabalho do Mais Além”
+R — Com a cooperação do homem, a Divina Providência, no curso de um milênio, pode esculpir primores indefiníveis de paz e amor, progresso e união para a Humanidade.
+
+---
+
+## 8 — Mensagens do Céu à Terra
+
+Desde seu primeiro livro psicografado (
+), publicado em 1931, os Mentores Espirituais, através de Chico Xavier, constantemente se utilizam da poesia mediúnica como veículo para mensagens e informações espirituais, conceitos morais, filosóficos e religiosos destinados ao grande público.
+Enquanto os meios literários, culturais e científicos debatiam e debatem a questão da autenticidade ou não dos autores e textos incluídos naquela e em outras obras e ela posteriores, debate que de resto se prolonga até a atualidade sem proveito notável ou solução, o médium Xavier prossegue perseverantemente captando em sua tarefa mediúnica a produção e o testemunho espiritual de autores com maior ou menor renome no campo das letras, sem falar nos que se apresentam sob pseudônimo, cujo exemplo mais notável é o do Espírito Humberto de Campos (Irmão X).
+Desde a quadra popular, a trova, o soneto, até mesmo o alexandrino clássico, passando por todos os gêneros poéticos, tal produção copiosa, diversificada e constante aponta para uma única finalidade: evangelização com vistas à elevação espiritual da comunidade.
+E quanto à autenticidade? Talvez possamos responder com outra indagação: haverá no mundo alguém que aceite a legitimidade da produção mediúnica de um autor desencarnado, se esse alguém, antes de mais nada, não acreditar na sobrevivência do espírito após a morte física? Como aceitar que um Espírito conserve todos os dons e características de que se revestia quando na vida corpórea se tivermos posição firmada no conceito pelo qual a morte do corpo é o fim de tudo?
+Daí por que se nos afigura que o importante não é a sustentação de um debate sobremaneira improfícuo e claramente inútil.
+O ateísmo empedernido não cede passo nem mesmo ante as mais palpáveis manifestações da vida espiritual superior e exemplos de racionalização materialista não têm faltado ao longo do tempo, na vã tentativa de tudo reduzir ao nível da ciência experimental e ou do sensório.
+A certeza na imortalidade da alma e na manifestação dos Espíritos só a adquirimos ao longo dos séculos de vivências em reencarnações sucessivas.
+No presente caso, o essencial, portanto, é atermo-nos ao conteúdo das produções poéticas recebidas através da mediunidade de Chico Xavier. Não raro surgem joias do mais puro quilate, quais as que transcrevemos a seguir:
+
+
+Desencarnei é verdade
+Mas prodígios não me peças
+Já tenho a infelicidade
+De ver o mundo às avessas.
+
+Ouvi alguém que dizia
+— Lá se vai o poeta morto
+Sem perceber a alegria
+Do sonho chegando ao porto.
+
+Prazeres gerando trevas?
+A vida é uma grande escola;
+A cruz pesada que levas
+É a força que te controla.
+
+Veja assim o ensinamento:
+Vida correta é dever,
+Vale mais sofrer na vida
+Que a gente fazer sofrer.
+Para a complementação deste capítulo, recebemos de Chico Xavier as produções mediúnicas de Espíritos diversos a seguir reproduzidas. [As mensagens se desdobraram nos capítulos seguintes]
+
+---
+
+## 9 — Oração de sempre
+
+
+Senhor Jesus!
+Entre as forças que Te servem, reconheço a minha quase total desvalia. Entretanto, graças à Tua bondade, na fé que me concedeste guardo um valor que me honra, embora as imperfeições que ainda carrego.
+
+Apesar da migalha de colaboração que Te possa oferecer, no crédito que me confias, auxilia-me a ser útil em Teu serviço.
+
+Nas horas de crise, induze-me a ser a esperança daqueles que estejam esmorecendo no dever a cumprir;
+
+nas discórdias que encontre, coloca em meus lábios a palavra de tolerância e união;
+no tumulto, conserva-me em Tua serenidade para que eu seja uma nota de paz;
+junto aos irmãos que ainda não consigam trabalhar, faze que, de algum modo, possa eu substituí-los sem queixa;
+em minhas necessidades atendidas não me consintas menosprezar os companheiros que ainda não disponham dos recursos que me emprestas
+e nos dias de penúria e dificuldade, nos quais me levas a aprender paciência e coragem, não me permitas humilhar a ninguém.
+
+Senhor, ensina-me a ser o pensamento que modela o bem, o sentimento que compreenda e perdoe, o olhar que vê sem malícia, o ouvido que escuta a aspereza sem transmiti-la aos outros, a mão que trabalha e protege; e a voz que esclarece e abençoa sem azedume ou condenação.
+
+Servir é o único meio de renovar-me, segundo os Teus ensinamentos. Ajuda-me a agir e servir, sem qualquer ideia de cansaço ou compensação; e, se não posso ombrear com as inteligências que se transformam em chamas de Teu amor para engrandecerem a vida, deixa, Senhor, que eu seja, entre os irmãos de experiência e de prova, um pequenino raio da Tua luz.
+
+---
+
+## 10 — Anotações no caminho
+
+
+Não podes negar que o progresso no mundo te criou exigências de todo porte.
+
+Vivendo numa época dedicada ao culto da velocidade, em que necessitas correr, mentalmente, no encalço das horas, a fim de satisfazer aos próprios encargos, é indispensável adotes a serenidade por suporte de todas as decisões.
+
+Quanto mais complexidade nos assuntos, mais compreensão para clareá-los.
+
+Quanto mais urgência, mais calma.
+
+Imaginemos o corpo físico na posição do carro que diriges.
+
+Os preceitos de paz que asseguram a consciência tranquila assemelham-se aos sinais do trânsito.
+
+E as várias províncias do envoltório físico lembram peças de constituição específica a exigirem cuidado para que não se desgastem sem razão.
+
+Aproveitemos o lembrete para fixar o respeito que nos cabe às próprias condições e às condições alheias, de modo a não nos perdermos em cogitações inúteis.
+
+Em quaisquer circunstâncias, abstém-te de avançar no regime da precipitação desnecessária.
+
+Não atravesses, à frente dos companheiros, em ocasiões nas quais semelhantes manobras são desaconselháveis.
+
+Não exijas que os outros viajem na Terra em veículos iguais ao teu, conformando-te com a realidade de que nas estradas cada pessoa segue a seu modo.
+
+Compadece-te dos irmãos do caminho que se mostrem inábeis, imprudentes, distraídos ou disparados, ignorando os perigos da rebeldia e da indisciplina.
+
+Em suma, escora-te na paciência e exerce a tolerância, amparando o próximo quanto puderes, de vez que empregando a paciência e a tolerância, onde estiveres, auxiliarás aos próprios Mensageiros da Providência Divina para que eles também te possam auxiliar.
+
+---
+
+## 11 — Memorando
+
+
+Reclamas alfinetadas
+E choras por ninharia,
+Mas não percebes o amparo
+Que recebes dia a dia.
+
+Enquanto vives no mundo,
+Ante o corpo que te encerra,
+Não sabes quanto socorro
+Que te vem do Céu à Terra.
+
+Sais de casa, muitas vezes,
+Regressando, indiferente;
+Entretanto, desfrutaste
+O auxílio de muita gente.
+
+Espíritos generosos
+Em sustentando-te a paz,
+Guardaram-te os aposentos,
+Cerraram bicos de gás.
+
+Outros muitos te garantem
+Encontros, lucros, recados,
+Trabalhando na memória
+De parentes e agregados.
+
+Na doença, ante os remédios,
+Que te suprimem a dor,
+Colhes o apoio invisível
+Dos mensageiros de Amor.
+
+Por muitas bênçãos que encontres
+Nas pessoas benfazejas,
+São muitas mãos de outros Planos
+Que te ajudam, sem que as vejas.
+
+Nas provas inevitáveis,
+Evita a lamentação,
+O Céu te auxilia sempre
+Sem contas de gratidão.
+
+---
+
+## 12 — Chaves libertadoras
+
+
+Qualquer contratempo aborrece.
+No entanto, sem desgosto, a conquista de experiência é impraticável.
+
+Todo empeço atrapalha.
+Sem obstáculo, porém, nenhum de nós consegue efetuar a superação das próprias deficiências.
+
+Qualquer desilusão incomoda.
+Todavia, sem decepção, não chegamos a discernir o certo do errado.
+
+Toda doença embaraça.
+Sem a enfermidade, entretanto, é muito difícil consolidar a preservação consciente da própria saúde.
+
+Qualquer desafio conturba.
+Mas, sem tentação, nunca se mede a própria resistência.
+
+Todo golpe fere.
+Sem prejuízo, porém, é quase impossível construir segurança nas relações uns com os outros.
+
+Qualquer insulto à confiança estraga a vida espiritual.
+No entanto, sem o concurso da ingratidão que nos visite, não saberemos formular equações verdadeiras nas contas de nosso tesouro afetivo.
+
+Toda morte traz dor.
+Sem a desencarnação, porém, não atingiríamos a renovação precisa, largando processos menos felizes de vivência ou livrando-nos da caducidade no terreno das formas.
+Compreendamos, à face disso, que não podemos louvar as dificuldades que nos rodeiem, mas é imperioso reconhecer que, sem elas, eternizaríamos paixões, enganos, desequilíbrios e desacertos, motivo pelo qual será justo interpretá-las por chaves libertadoras, que funcionam em nosso Espírito, afim de que nosso Espírito se mude para o que deve ser, mudando em si e fora de si tudo aquilo que lhe compete mudar.
+
+---
+
+## 13 — Paz e vida
+
+
+Todos estamos concordes, quanto ao imperativo de se colaborar na sustentação da paz.
+
+A paz, no entanto, é uma construção quase sempre mais difícil que qualquer outra que se levante sobre estruturas materiais.
+
+O próprio Jesus quando prometeu aos companheiros: “a minha paz vos dou”,
+não fez semelhante afirmativa senão depois do extremo sacrifício.
+
+Se nos propomos a contribuir na preservação da harmonia, em nosso grupo doméstico ou social, aprendamos a compreender os outros, a fim de auxiliá-los, sempre que preciso, a se ajustarem ao esquema de equilíbrio, sobre o qual as leis da vida se executam.
+
+Tantas vezes aspiramos a alcançar a paz, exigindo-a de pessoas que, em muitas ocasiões, jazem às portas do desespero, aguardando algum gesto de simpatia, capaz de aliviá-las na tensão que as aflige.
+
+Se queres serenidade nas criaturas queridas, procura envolvê-las em tua própria serenidade, porquanto a paz é um sentimento que se transmite, de coração para coração.
+
+Às vezes, é indispensável renunciar à alegria própria, a fim de que se veja a alegria brilhar na face daqueles que nos compartilham a existência. Para isso, é necessário operar no câmbio da compreensão, pelo qual entregamos a outrem aquilo que careçamos receber.
+
+Nesse sentido, frequentemente, aqueles que te pareçam ferir, em verdade, muito te amam, entretanto, provisoriamente se inclinam para estradas e tarefas que se relacionam com eles e não contigo.
+
+Se podes entender essa realidade, estás em condições de produzir a paz.
+
+E chegados a esse ponto de nossas experiências, penetraremos esta profunda lição da vida que resumimos aqui em poucas palavras: “a paz que se dá é a paz que se tem”.
+
+---
+
+## 14 — Façamos de conta
+
+
+Nas lides comuns, talvez
+Não saibas, alma querida,
+Quanto vale em plena vida
+Qualquer migalha de amor;
+Tão depressa corre o tempo,
+Que nem sempre se avalia
+Nas bênçãos de cada dia
+A larga extensão da dor.
+
+Reflitamos quanto a isso…
+Provação é trilha em fogo.
+Façamos nós este jogo
+De pura imaginação:
+Se sofrêssemos no mundo
+Penúria e aflição no lar,
+Saberíamos notar
+O imenso valor de um pão.
+
+Em lugar das mães aflitas,
+De tristes pais sem trabalho,
+Meditando no agasalho
+Para os filhos quase nus;
+Na condição da criança
+Sozinha e desamparada,
+Qual seria a nossa estrada
+Sem pouso, sem paz, sem luz?!…
+
+Lembra o “façamos de conta…”
+Em meio de tanta gente
+Cansada, triste ou doente
+Dos caminhos teus e meus,
+Teríamos num lençol,
+Numa fatia de bolo
+Ou num gesto de consolo
+Mensagens e dons de Deus.
+
+---
+
+## 15 — Ensino e vida
+
+
+— “A morte, meus irmãos, é coisa à-toa”
+— Pregava Nhô Picanço Albergaria —
+“A morte é o despertar em novo dia,
+Na luz de nova vida clara e boa”…
+
+“Considero infeliz toda pessoa
+Que não sabe morrer como devia,
+Medo da morte é pura covardia…
+A morte é a vida que nos abençoa…”
+
+Mas nisso, um marimbondo entrou de manso,
+E ao ferroar o peito de Picanço,
+Fez-se na sala um bafafá tremendo…
+
+Caindo, ele gritou de voz opressa:
+— “Estou de enfarte!… Um médico depressa!…
+Socorro, meus irmãos, que estou morrendo!…”
+
+---
+
+## 16 — Em nós
+
+
+Se já acordaste para as realidades do Espírito, medita nas oportunidades de elevação que te felicitam na Terra, a fim de aproveitá-las.
+
+Pensa, primeiro, na estreiteza do tempo que desfrutas e observa, em teu próprio campo de ação, as tuas imensas possibilidades de servir.
+
+Se deténs o supérfluo, recorda que a vida te chama, buscando ensinar-te a difícil ciência de administrar e distribuir com justiça e discernimento.
+
+Se atravessas as provações da carência, é que as circunstâncias te compelem a trabalho árduo, de modo a superá-las, educando a própria vontade para que consigas operar futuramente na edificação do porvir de felicidade e abastança que te propões a atingir.
+
+Se te encontras num corpo doente, é preciso lembrar que os princípios da vida te permitem treinar paciência e disciplina, coragem e esperança, em teu proveito próprio.
+
+Se te vês em meio de familiares e companheiros difíceis, eis-te no cotidiano com as pessoas certas, com as quais necessitas adquirir tolerância e compreensão.
+
+Diante dessa ou daquela ofensa, reconhecer-te-ás na época adequada de exercitar perdão e entendimento.
+
+Presença no Plano Físico significa internação em escola edificante.
+
+Reflete na lei da mudança que altera incessantemente situações e pessoas, quadros e processos dos quais te vales para a execução das tarefas que te vinculam provisoriamente ao mundo, e então perceberás que o centro de todas as soluções dos nossos problemas está irreversivelmente em nós mesmos.
+
+---
+
+## 17 — Vida livre
+
+
+Ele casava a filha numa festa
+E o sitiante, em meio aos convidados,
+Explica sobre o filho que lhe resta:
+— Meu rapaz, um gigante de destreza,
+É criado, conforme a natureza.
+Vai por todos os lados,
+Estuda como quer e quando quer.
+Homem é diferente de mulher,
+Não se deve mostrar com ares de menina,
+Nada de contenção ou disciplina.
+Endimião, meu filho, é um atleta perfeito.
+Não só isso. É uma grande inteligência,
+Sem qualquer pensamento acovardado e estreito.
+É livre para toda experiência
+Em que deseje realizar-se,
+Sem máscara, sem freio, sem disfarce…
+
+Aparecendo a pausa, um amigo aparteia:
+— Mas, coronel, e a lei da educação?
+— A educação — replica o interpelado —
+Nunca foi o tabu que se receia,
+É caminho do impulso liberado
+Para elevar a civilização.
+
+Era assim o sitiante: um homem singular.
+A palestra, porém, fora rompida.
+A filha e o genro estavam a chegar,
+Morariam não longe do lugar
+E apresentavam-se contentes
+Para o abraço de terna despedida.
+
+Endimião, em plena juventude,
+Era dono da força e da saúde.
+
+Dois anos findos sobre o relatado
+No longo entardecer de um dia quente,
+Eis o rapaz surgindo, de repente,
+No sítio do cunhado.
+A irmã tanto se alegra quão se espanta,
+Estava a sós com velha governanta;
+O marido ausentara-se em serviço…
+Um dia apenas, breve compromisso.
+O rapaz se declara de passagem,
+Diz-se ansioso por seguir viagem…
+Mas a irmã, em diálogo escondido,
+Roga-lhe: — Fica, irmão, estou desorientada,
+Tenho medo da noite… Meu marido
+Deixou comigo, em caixa resguardada,
+Duzentos e cinquenta mil cruzeiros…
+A nossa governanta é pessoa cansada,
+Nossos poucos peões e alguns vaqueiros
+Não residem tão perto…
+Este sítio é um lugar quase deserto.
+Somente em nossos cães consigo companheiros…
+A noite se avizinha,
+Temo ficar sozinha,
+Tenho medo, confesso…
+
+O irmão sorriu e esclareceu: — Não posso.
+Agora me despeço,
+Tenho grande jornada
+Para vencer até o fim do dia…
+E acrescentou, num gesto de alegria:
+— Irmã, não tenhas medo.
+Ninguém sabe o que guardas em segredo.
+Deixando a moça amedrontada,
+Saiu no próprio carro em disparada.
+
+Mas, depois de uma hora,
+Eis que ali chega, inopinadamente,
+O conhecido pai da estimada senhora.
+Soubera o genro ausente, por um dia,
+E viera fazer-lhe companhia.
+
+Júlio, reencontro e lembranças do lar,
+O diálogo segue ativo e manso
+Até que se despedem, a buscar,
+No silêncio noturno, a bênção do descanso.
+
+Alta noite, em seu quarto, a senhora desperta,
+Tem pela frente um homem mascarado,
+Que lhe aponta um revólver, lado a lado,
+E lhe diz numa voz estranha e sibilante:
+– É um assalto,
+Quero todo o dinheiro,
+Toda a quantia por inteiro…
+Ouvi o seu marido a conversar na praça
+E exijo a soma toda…
+
+Atônita, a senhora, a tremer e a tremer,
+Ergue-se à luz do luar que vem pela vidraça
+E põe-se a obedecer…
+Segue na direção da caixa que lacrara,
+No entanto, o genitor já despertara…
+Pé ante pé, caminha armado,
+Faz luz que jorra, em cheio, no salão,
+E atira sobre o homem mascarado
+Que se estira no chão.
+Acorrem servidores prestimosos
+E o defensor da filha solicita,
+Ante a senhora, agoniada e aflita:
+— Que alguém me desmascare este sujeito,
+Não se importem com o sangue a borbulhar no peito,
+Quero ver esta cara de ladrão…
+
+Sob as mãos calejadas na lavoura,
+Primeiro, surge a cabeleira loura,
+Depois, em dolorosa exclamação,
+Todos gritam um nome: “Endimião!…”
+
+O pai que dera o filho à liberdade
+Sem ressalva, sem base, sem suporte,
+Cai sobre o filho, agora entregue à morte,
+Sobre quem arrojara o rápido gatilho
+E clama a estremecer em convulsivo pranto:
+— Oh! Deus, por que matei o filho que amo tanto?!…
+Socorre-me, Senhor!…
+Ah!… meu filho, meu filho!…
+
+---
+
+## 18 — Zeca Leal
+
+
+Morre Zeca Leal numa palhoça,
+Morre a sós quem servira a vida inteira…
+Faz calor… Cantam aves na mangueira…
+Depois, é a noite, a sombra que se engrossa…
+
+Morre Leal lembrando o milho, a eira,
+O cafezal imenso, além da roça…
+Nisso, aparece um moço à choça…
+“Quem é?” — murmura o pobre em voz rasteira.
+
+— “Já não aguento mais minhas feridas!…”
+O moço toca as chagas doloridas
+E diz: “Eu sou Jesus! Vim socorrê-las!…”
+
+Leal entrega o corpo à terra fria
+E segue o Cristo em pranto de alegria,
+Numa estrela mais clara que as estrelas!…
+
+---
+
+## 19 — Janela para a Vida
+
+> P  Você diria que a mediunidade é uma janela voltada para o Céu?
+
+O dia amanhecera úmido e chuvoso. Por volta das 15 horas uma caravana de pessoas, em carros e ônibus, se formara à frente do “Grupo Espírita da Prece”, aguardando o início da peregrinação evangélica de sábados à tarde ao “bairro dos Pássaros”.
+n
+
+Pouco antes da chegada do médium Xavier a chuva se adensara formando poças d’água ao longo da estrada de chão batido.
+Ã chegada, uma pequena multidão se agrupou ao abrigo de algumas árvores existentes numa clareira próxima à estrada.
+Abriram-se diversos guarda-chuvas e o médium Xavier deu início à leitura de um trecho do
+Cap. XIII do Evangelho Segundo o Espiritismo
+: “Não saiba a vossa mão esquerda o que dê a vossa mão direita”. Quatro ou cinco pessoas do grupo foram convidadas por Chico a comentarem o trecho em 3 ou 4 minutos cada uma, findos os quais deu-se início à distribuição de gêneros a centenas de criaturas de todas as idades, ali postadas em filas.
+Chico Xavier estava quase afônico. Emagrecido e caminhando com dificuldade, sua palidez indicava que, no campo da saúde, não obtivera melhoras consideráveis, de forma que todos nós, os presentes, nos preocupávamos ao vê-lo exposto à intempérie, os sapatos embarrados, a roupa molhada.
+Já próximo dos setenta anos de existência física num organismo desgastado e mantido com vida (diria eu que semi-artificial) pela Misericórdia Divina tendo em vista a inadiabilidade da difusão da Doutrina Consoladora entre os homens, a marcante lição daquela tarde inesquecível que ele apresentou para todos quantos participaram da caravana evangélica foi preponderantemente esta: para fazer o bem toda hora é hora, todo tempo é tempo, todo obstáculo deverá ser removido, a doença momentaneamente cede passo à saúde espiritual, a inquietude caminha rumo à paz, a dúvida rumo à certeza, a treva rumo à luz.
+Quantas e quantas vezes nos queixamos por ninharias… Quantas vezes abandonamos pequenas tarefas do bem que poderiam valorizar nosso dia a dia, tarefas que se transformariam em moedas de luz que desonerariam nosso Espírito sempre tão endividado perante a Contabilidade Divina. “Vinde a mim todos vós que estais aflitos e sobrecarregados, que eu vos aliviarei. Tomai sobre vós o meu jugo e aprendei comigo que sou brando e humilde de coração a achareis repouso para vossas almas, pois é suave o meu jugo e leve o meu fardo.” (
+S. Mateus, Cap. XI, v. 28-30
+)
+R — “Se me fosse possível definir a mediunidade, de minha parte eu diria que ela se parece com uma janela voltada para a vida”.
+A resposta não nos surpreendera totalmente. Outra não poderia ser a linguagem, o posicionamento da Espiritualidade Superior encarregada de difundir a Doutrina Consoladora sobre a Terra, frente à mediunidade cristã.
+Na comunicabilidade com os chamados mortos deparamo-nos com a profunda consolação de constatarmos com certeza a continuidade da vida extra-fisicamente transformada, a certeza da eternidade para o espírito submetido às necessidades da matéria densa.
+E o que é a mediunidade com Jesus senão, a própria essência da consolação para milhares de criaturas ávidas de bálsamo e conhecimento? Não morremos, eis a Verdade. No Mais Além conservamos todos os atributos de caráter, de coração, todos os afetos e afinidades espirituais perante aqueles que amamos nas romagens terrestres ao longo dos milênios.
+
+---
+
+## 20 — Mensagem de Maria Lúcia Pedrosa
+
+> Vamos ilustrar a afirmativa com exemplos. Na sessão mediúnica de 17/11/1978, no “Grupo Espírita da Prece”, o médium Xavier, como vem fazendo há mais de meio século, psicografou a seguinte e significativa mensagem consoladora endereçada ao Gen. Ilcon da Cunha Cavalcanti, presente à reunião, por sua esposa Marina Lúcia Pedroza, falecida em 1976.
+
+
+Ilcon, meu filho, Deus nos abençoe.
+
+Creio não precisar dizer que prosseguimos juntos. Não é fácil estampar o coração de companheira no papel em que o próprio coração me induz a escrever com lágrimas de alegria. Há muito tempo venho conservando o propósito de trazer ao seu carinho a resposta do meu amor que ambos cultivamos no mundo com a presença de Deus. Peço a você que não chore tanto em nossas conversações do silêncio.
+
+Quanto posso, volto à nossa moradia para ouvir seus sentimentos que são igualmente os meus. Escuto quando me diz a sua ternura fitando nossas relíquias, como se eu não estivesse presente, e volto a experimentar o anseio de aliviar a sua cabeça fatigada de pensar. Querido meu, a morte é uma cortina de sombra que simplesmente oculta uma luz maior do que esta, a que nossos olhos se habituam na Terra.
+
+Quanto puder, conserve a nossa alegria no coração. Há tanto a fazer pelos outros que é necessário esquecer-nos para que a saudade não se faça um agente negativo em nossas vidas entrelaçadas. Filho meu, você sabe que a sua esposa se reconhece, agora muito mais que antigamente, por sua tutora ou mãezinha espiritual.
+
+Quando a tristeza surgir, lembre-me ao seu lado. E creia que estarei na mesma posição dos dias que se foram para voltar a nós dois em espírito. Dê-me a sua cabeça para o repouso. Saberei contar a você, de novo, as minhas histórias da infância, as brincadeiras da Diana, a severidade da mamãe Dalila, as descrições das dificuldades que o tempo desfez e acabarei cantando para você dormir nossas cantigas de ninar:
+
+“Boi da cara preta
+Pega esse menino
+Que tem medo de careta.”
+
+“Sapo gururu
+Da beira do rio
+Vem buscar este menino
+Que não quer dormir.”
+
+Vê que a sua Marina, de modo algum, perderia a memória. Os vinte e um anos de felicidade não desapareceram. Sinta-me em sua companhia sempre. Deus não nos criou para separar-nos um do outro. Pensa que aquela dor súbita no peito, à despedida, teria sido o fim? Não é isto. Aquilo foi um começo brilhante de um amor diferente e maior que desafia o tempo para crescer cada vez mais.
+
+Quanto estiver ao seu alcance continue ajudando-me através do auxílio aos outros. Ambos sabíamos que as crianças menos felizes eram todas elas nossos filhos, compreendíamos que os nossos irmãos se estendiam por toda parte, especialmente onde o sofrimento estivesse marcando as situações. Amor, meu, não creia em velhice e doença.
+As formas terrestres são unicamente roupas que usamos e que se desgastam com as horas. O sentimento é a vida e a vida é a nossa própria alma imortal. Desejo que a alegria nos retome por dentro para que você consiga sorrir de novo, abençoando as experiências felizes em que Jesus nos permitiu viver.
+
+Quero contar a seu carinho que me encontro acompanhada por meu pai Adalgizo que me trouxe aqui para que eu escreva esta carta. A princípio fui muito auxiliada no afastamento de minhas dores remanescentes do corpo físico por um médico que me declarou ser seu amigo e companheiro também nas Forças Armadas. O nome dele é Dr. Ismael da Rocha e creio que deixou a estalagem do mundo com a respeitabilidade de um General.
+Foi um médico e benfeitor a quem passei a dever muito e a quem peço auxílio em seu favor; também o nosso amigo, o Pe. Severino, antigo sacerdote de Nova Cruz, me prestou muito amparo. Transmito-lhe essas notícias com aquele mesmo contentamento com que lhe confiava minhas pequenas impressões do cotidiano enquanto perdurou o nosso inesquecível convívio na existência física.
+Perdoe-me se me dirijo ao seu querido coração com aquela afeição de criança-mulher que Deus me concedeu para lhe dar. A verdade, meu filho, é que não conseguiria escrever a você de outro modo.
+Rogo colocar a sua coragem e a sua esperança em circulação no desdobrar de nossos caminhos. Tudo vai seguindo bem, porquanto a nossa fé em Deus possui a beleza cristalina das primeiras horas de nosso encontro. Não se julgue cansado ou no término da estrada que o Senhor nos permitiu percorrer.
+
+Caminhamos procurando servir e as estações de pausa ou renovação pertencem a Deus. Desejo que o seu devotamento me sinta na efusão com que endereço estas palavras ao seu amor que continua sendo a vida de minha vida. A mãezinha Dalila igualmente veio conosco e agradece-lhe por todas as demonstrações de abnegação em nosso benefício. Querido Lelego, aqui fica toda a minha saudade na forma de uma flor que entrego a você orvalhada de beijos, dos beijos de orvalhada ternura com que aprendi a reverenciar a sua presença. Perdoe se não posso escrever mais.
+
+A emoção é uma força que nos faz inaptos para o equilíbrio necessário quando se quer dizer tudo e quando as contingências nos obrigam a dosar as frases na pauta das considerações humanas. Filho de meu coração e esposo inesquecível, receba todo o carinho com a alma de sua companheira, sempre mais sua companheira e mãe pelo coração.
+
+“Boi da cara preta
+Pega esse menino
+Que tem medo de careta.”
+
+“Sapo gururu
+Da beira do rio
+Vem buscar este menino
+Que não quer dormir.”
+
+---
+
+## 21 — Mensagem de José Wilson de Campos
+
+> Destacamos também a mensagem recebida pelo Sr. Aurélio Olegário de Campos, da cidade de Cáceres, Mato Grosso do Norte, enviada por seu filho José Wilson de Campos, desencarnado em 17 de janeiro de 1976, aos 39 anos. A reconfortante mensagem foi psicografada por Chico Xavier na sessão mediúnica de 13 de janeiro de 1979, no “Grupo Espírita da Prece”, estando presente o Sr. Aurélio, com o seguinte teor:
+
+
+Querido pai, rogo a sua bênção e peço a Deus que nos proteja.
+
+São passados três anos sobre aquele sábado de provação.
+
+Os dias e as noites somaram experiência e, por dentro de nossos corações, o amor é sempre o mesmo.
+
+Creia o senhor que penso neste momento de escrever-lhe, desde muito tempo.
+
+Realizei exercícios. Procurei reeducar minhas próprias emoções, no entanto o que sinto é indescritível.
+
+Meus pensamentos se conjugam num tecido de alegria e sofrimento, como se minhas lembranças mais vivas nesta hora formassem uma noite no íntimo de meu ser, toda ela riscada pelas luzes da esperança.
+
+E não falta o orvalho benéfico na paisagem de minhas cogitações interiores, pois que as lágrimas de gratidão a Deus como que me encharcam as ideias de renovação e entendimento.
+
+Estou quase feliz, querido pai, e esse quase é aquele intervalo entre as duas vidas — a existência na Terra e a existência na Espiritualidade — que não nos permite um intercâmbio mais intenso, como seria de desejar.
+
+Imagine que estamos regularmente juntos em Cáceres e precisou sua paternal dedicação de varar quase mil e quinhentos quilômetros para que ambos nos comunicássemos, através desta carta.
+
+Ainda assim, venho aprendendo, como sempre, com a sua cartilha de exemplos e com o carinho da mamãe, cujas preces me auxiliam a basear a vida nova.
+
+Não preciso falar-lhes de perdão, porque esse assunto já foi suficientemente iluminado por suas atitudes, nas primeiras horas de meu desligamento do corpo.
+
+Estou encontrando com alguma dificuldade as palavras que me componham a imagem real para a situação que, graças a Deus, já superamos.
+
+Em nossas atividades de cartório, entretanto, ser-me-á fácil descobrir o que desejo expressar.
+
+Lembro-me dos processos de despejo, por vezes estudados por mim próprio e prefiro dizer que fui violentamente despejado da casa física sem qualquer razão aparente para isso.
+
+Uma conversação que julguei simples para um ajuste amistoso e dois projéteis me alcançaram com a violência de um raio.
+
+Era de tarde. Pensava em alguma distração no domingo, embora refletindo na saúde de nossa querida Saé; a nossa querida Fussaé, e, intimamente, antes do encontro pensava na melhor maneira de avistar-me com os nossos amigos Luiz Fernando e Eduardo Benavides, quando me dirigi para o escritório onde a surpresa me aguardava… O resto não preciso recontar.
+
+Lembro-me, porém, de que ao cair, desarmado qual me achava, entrei de repente num sono difícil de explicar. O sono parecia vir de uma força desconhecida, como se alguém me aplicasse pesada carga de sedativos.
+
+Sonhei — este é o termo pelo qual posso designar o que se passou comigo — sonhei que seguia para nossa casa e que não me achava distante da residência do Dr. Jaques Souto e pensei de mim para comigo em pedir-lhe tutela para a minha causa, pois, apesar da atmosfera anuviada de sonho em que me via, estava consciente de que fora agredido…
+
+Meus pensamentos vagueavam descontrolados, quando acordei de improviso… Achava-me ao seu lado, na casa de tratamento para onde me haviam conduzido o corpo e ESCUTEI os seus pensamentos em prece, rogando a Deus me fortalecesse e perdoasse aquele companheiro que se fizera instrumento de nossas atribulações.
+
+Compreendi com a força de sua fé que fora retirado da presença da vida física, de vez que, embora, algo entontecido, reconheci que ninguém no recinto dava conta de minha presença.
+
+Recordei, de imediato, as suas conversações e os seus ensinamentos. A lembrança de mamãe e da esposa passou a me doer no coração.
+
+Só então registrei o sofrimento do corpo que ainda se ligava comigo por fios de vida que não sei classificar. Aquele anseio de retomar-me na forma inerte me compelia a experimentar um largo complexo de inquietações…
+
+Detive-me, no entanto, na prece e copiando os seus gestos de pai, também eu roguei a Jesus me fortificasse e desculpasse o amigo que se deixara levar pela impulsividade negativa, quando entre nós só existiam amizade e confiança em comum.
+
+Foi então que realmente dormi. Dormi pesadamente, por tempo que não sei enumerar e despertei atordoado ainda no regaço de alguém que me lembrava a mamãe em meus tempos de menino. Eram aquelas mãos, a me acariciarem como se voltasse a ser novamente criança…
+
+Chorei num misto de reconforto e de aflição, mas aquela voz boa e mansa me aconselhou a lembrar que Jesus igualmente fora sacrificado fora do ambiente doméstico se Ele realmente possuíra algum. Pedia-me rezar, acalmar-me.
+
+Só aí num transporte de alegria repleta de pranto, reconheci que a santa enfermeira que me amparava era a minha avó Benedita Freire.
+
+Em breves momentos o tio Olegário se me fez visível e, desde aí, começou a minha recuperação.
+
+Papai, obrigado ao senhor e à mãezinha, tanto quanto à querida esposa, à Marília e ao Antônio Carlos por não resolverem o caso em processos de condenação que somente serviriam para me afligir.
+
+Quem de nós, meu pai, estará livre de ferir o próximo? Quem somos nós para condenar alguém que nasceu como nós, das mãos de Deus?
+
+A oração tem sido o nosso ponto de encontro e na oração pediremos sempre a Deus que conduza o nosso irmão e nosso amigo para a bênção da paz.
+
+Estou certo de que resgatei dívidas de existências passadas que ainda não estou em condições de rever. Sinto-me renovado em suas aspirações de bondade e compreensão.
+
+Nossa querida Wilsineli é para nós o futuro… Trabalharemos.
+
+Agradeço à mãezinha todas as orações com que me aliviou e me auxilia sempre.
+
+Nossa querida Fussaé ficou em meu lugar e temos todos tantos ideais para diante, que não há tempo a desperdiçar com relatórios e lembranças incompatíveis agora com o nosso modo de ser.
+
+A saudade é irreversível. Aí e aqui mesmo, essa é uma enfermidade que só a Divina Providência consegue amenizar. Mas as nossas saudades inspiram serviço em Jesus.
+
+Tenho estado consigo em seus novos planos para a edificação de um lar para os nossos irmãos perturbados e infelizes.
+
+Estou contente, buscando identificar-me com o empreendimento. Jesus nos proverá de energias capazes de materializar o projeto que nos ligará por laços de luz à terra bendita de Cáceres.
+
+Meu pai, agradeço-lhe por tudo. Nossa integração mútua no trabalho está prosseguindo… Confiemos em Deus.
+
+Agradeço ao vosso valoroso Túlio que se mostrou firme para a viagem. A todos os nossos, as minhas lembranças de irmão e amigo.
+
+O tio Olegário está comigo e abraça-o declarando que nos será sempre o companheiro de cada dia.
+
+Papai, diga por favor, à mamãe, que a nossa fé por aqui está unificada. Somos do Cristo e Cristo nos guiará a todos para Deus.
+
+Se eu pudesse continuaria escrevendo pela noite a dentro, mas estamos condicionados aos recursos de tempo dos amigos que nos acolhem.
+
+Para a mãezinha e para a esposa, anjos de guarda de meu caminho, os meus mais íntimos pensamentos de amor e gratidão, com um beijo à filhinha.
+
+Aos amigos, o fraterno abraço de sempre. Aos irmãos com a familinha, todo o meu afeto.
+
+E para o senhor, querido pai, a luz do nosso lema que se foi sempre UNIR PARA CONSTRUIR agora será também construir para unir, porque edificando o bem conforme o que aprendi de sua própria vida é que encontraremos todos o caminho de luz para a união com Deus.
+
+Receba, querido papai, as muitas saudades e as muitas esperanças no abraço de coração para coração do seu filho e companheiro de sempre.
+
+Sempre seu filho reconhecido de todos os momentos.
+
+---
+
+## 22 — Policiamento, vibrações, saúde
+
+Tínhamos a intenção de indagar ao médium Xavier quais os reais motivos do policiamento que nos últimos tempos vínhamos observando na organização das tarefas de sextas-feiras e sábados.
+Inobstante, nunca chegamos a formular tal pergunta. Em carta de 26/1/1979 escreve-nos o seguinte: “prosseguimos no esquema de organização mantido sob a proteção da Polícia Militar. Muita gente estranha isso, mas que fazer? Depois de mais de cinquenta anos de contato com o público, os médicos amigos expressaram o desejo de ver-me fora das reuniões públicas, atendendo-se ao meu problema coronariano sempre suscetível de agravar-se com qualquer aumento de carga emotiva, com o que não pude concordar. Nossos cardiologistas aconselharam, então, que as nossas atividades públicas se processem sob o amparo policial, porquanto desde muito, não disponho de voz para conversação alta. Acontece que o nosso grupo recebe a média de 60 a 80 por cento de amigos sem nenhum conhecimento espírita e, em meio a estes, encontram-se irmãos drogados ou obsedados, carinhosamente trazidos ao nosso modesto recanto de orações, com os quais não tenho, por enquanto, as forças precisas para dialogar com segurança, quando se mostram agressivos ou desditosos. Em vista disso, a cobertura policial, para mim especialmente é uma bênção, que não posso estranhar e sim agradecer”.
+Faláramos a Chico Xavier acerca das prováveis influencias de sua enfermidade no desempenho mediúnico de 1976 para diante.
+Chico respondeu que apenas se vê com percepções alongadas, isto é, com uma sensibilidade mais aguda para registrar as vibrações que por sobre ele se projetam.
+— E com relação à saúde nestes últimos tempos?
+— “Posso sintetizar meu problema com esta definição: estou muito bem porque, se tenho algumas dores, estou desfrutando do privilégio do trabalho regular. Recebi grande aumento de disciplinas e Deus me concedeu a felicidade de muito auxílio”.
+Mais adiante, dizia-nos (22/2/1979): “Gostei da tua observação sobre o fato de viver e sobreviver com os problemas orgânicos que atualmente carrego. É verdade, querido amigo. Mas podes crer que isto é obrigação minha. Já sei que; em me desencarnando, não me cabe qualquer pretensão de subir à convivência dos nossos Patrocinadores do Mais Alto e, mais embaixo, antigas afeições que talvez ainda persistam em desequilíbrio, não mais me aceitarão para desfrutar-lhes a companhia. A reencarnação será o meu caminho imediato. Desse modo, considero importante fazer o possível por aproveitar o meu veículo atual, enquanto ele me possa servir no trabalho de sempre, a fim de retirar de meu atual emprego na vida física o máximo rendimento de concurso com os Amigos Espirituais que, ao término da tarefa, se compadecerão de mim, auxiliando-me na recolocação necessária em algum recanto terrestre”
+A mediunidade, portanto, é misericordiosa janela voltada para a vida. Uma luz balsamizante penetrando e desfazendo as sombras que anuviam o espírito humano, possibilitando nossa edificação interior através das dores do crescimento.
+Se nos fosse possível observarmos de uma posição inversa à direção dessa luz inextinguível, veríamos extasiados a maravilhosa Misericórdia Divina vertendo ininterruptamente em prol dos necessitados, dos aflitos, dos desesperançados. Veríamos a humanidade inteira a caminho da luz.
+Vislumbraríamos a Luz Divina do Supremo Autor de todas as coisas, que é Deus.

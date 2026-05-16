@@ -1,0 +1,156 @@
+# Crianças no Além
+
+**Autor espiritual:** Marcos  
+**Médium:** Chico Xavier  
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Cna/CnaApres.htm
+
+---
+
+##  — Apresentação
+
+A mensagem do pequeno Marcos foi psicografada por Francisco Cândido Xavier no dia 12 de dezembro de 1975, dez meses após o seu falecimento.
+Marcos Hideo Hayashi, com doze anos e os irmãos, João Batista Hayashi, onze anos e Sheila Tieko Hayashi, com sete anos, desencarnaram no dia 9 de fevereiro do ano passado, em acidente na Via Anhanguera, próximo a Perus, onde residiam. Eram os únicos filhos de Ukuru Hayashi e de D. Elite Diogo de Oliveira Hayashi.
+Em rápidas pinceladas, vamos situá-lo, leitor amigo, no drama familiar, envolvendo os pais e os três filhos, desde um pouco antes do acidente que vitimou as crianças até o recebimento da mensagem do Marcos por Chico Xavier.
+São Bernardo do Campo, 3 de outubro de 1976.
+
+---
+
+##  — Anotação
+
+Por que a desencarnação de crianças, vidas taladas em flor?
+Muitos problemas observados exclusivamente do “lado físico”, assemelham-se a enigmas de solução impraticável; entretanto, examinados do ponto de vista da imortalidade e do burilamento progressivo da alma, reconhecer-se-á que o Espírito em evolução pode solicitar conscientemente certas experiências ou ser induzido a elas em benefício próprio.
+Nas realizações terrestres, é comum a vinculação temporária de alguém a determinado serviço por tempo previamente considerado.
+Há quem renasça em limitado campo de ação para trabalho uniforme em decênios de presença pessoal e há quem se transfira dessa ou daquela tarefa para outra, no curso da existência, despendendo, para isso, de quotas marcadas de tempo.
+Encontramos amigos que efetuam longos cursos de formação profissional em lugares distantes do recanto em que nasceram e outros que se afastam, a prazo curto, da paisagem que lhes é própria, buscando as especializações de que se observam necessitados.
+E depois dos empreendimentos concluídos, através de viagens que variam de tipo, segundo as escolhas que façam, ei-los de regresso aos locais de trabalho em cuja estruturação se situam.
+Esta é a imagem a que recorremos para que a desencarnação de crianças seja compreendida, no Plano Físico, em termos de imortalidade e reencarnação.
+Marcos é o companheiro em readaptação na Vida Maior, após haver deixado o corpo de menino num acidente de trânsito.
+Ainda a sentir-se criança, no degrau evolutivo em que se acha, escreve aos pais, de modo comovedor, trazendo notícias dele mesmo e dos irmãos que se lhe associaram à prova.
+A palavra simples e eloquente do garoto amigo, a identificar-se, quanto possível, para reconforto dos entes queridos, aqui se encontra, demonstrando que, além da morte do corpo, o Espírito prossegue atendendo aos condicionamentos indispensáveis à conquista da evolução que não dá saltos.
+Marcos menino — continuará Marcos menino —, por algum tempo, na Espiritualidade, qual acontece ao Espírito, mesmo quando procede de Altos Cimos da Vida Superior, ao retornar à Terra, para certos fins, sempre compelido a passar pela estação da infância.
+Mas, muito acima de nossas modestas argumentações, o que vale neste livro é o consolo iluminado de esperança que ressuma destas páginas, não somente para os genitores do comunicante, mas também para aqueles outros pais e mães do mundo que perderam filhos amados no alvorecer da existência.
+Marcos, o suave mensageiro, deixa claro que a vida prossegue no Mais Além;
+que novas áreas de assistência se descerram depois da experiência física, em auxílio dos pequeninos carecentes de instrução e ternura;
+que os laços afetivos não desaparecem
+e que Deus concede filhos aos pais humanos, não a fim de separá-los para sempre, e sim para que, na vida ou além da morte, haja entre eles a bênção da união eterna com a luz perene do amor.
+Uberaba, 3 de outubro de 1976.
+
+---
+
+## 1 — A separação
+
+Tão grande era o apego de Ukuru Hayashi — o Roberto — aos filhos, que não fora fácil convencê-lo a deixar Marcos e seu irmão João Batista passarem uma semana em Ribeirão Preto, junto de amigos da família.
+Os argumentos de D. Elite eram muitos: as férias se aproximavam do fim; Marcos, o mais velho dos três, fora aprovado, em primeiro lugar, nos exames de dezembro e ajudara bastante o pai, nas entregas com o “Mercedinho”; tudo, enfim, servia de motivo para que Roberto cedesse.
+
+Calado, introvertido, efetivamente o Roberto pouco falava. E, para agravar sua sisudez ainda mais, ocorreu-lhe uma revelação que tivera anos atrás, antes mesmo de conhecer a esposa, D. Elite.
+Quando solteiro, um amigo profetizou com convicção que o destino lhe reservara uma esposa brasileira, sem qualquer ascendência japonesa, e que o casal teria três filhos que, contudo, morreriam, ainda crianças. Tal fato, que marcou profundamente Roberto, somente foi revelado à esposa, após o falecimento das crianças.
+Como dizíamos, com a insistência de D. Elite e das próprias crianças, Roberto concordou que os filhos mais velhos, Marcos e João Batista, fossem passar a primeira semana de fevereiro de 1975 em Ribeirão Preto.
+Seguiram de ônibus, com uma amiga do casal e, no fim da semana seguinte, D. Elite, com a filha caçula Sheila, com o irmão, Saulo Prestes de Oliveira, e a cunhada, Maria Prestes de Oliveira, foram de Volkswagen buscar os filhos em Ribeirão Preto. Seguia também no carro o filhinho do casal que acompanhava D. Elite, pequeno, ainda de colo.
+No domingo, 9 de fevereiro, voltavam a Perus. Saulo ao volante, D. Elite ao lado, com a filha Sheila no colo. Atrás, Marcos, João Batista e D. Maria com o filhinho. Muita alegria, músicas, comemorações, pois no dia anterior, 8 de fevereiro, o João Batista completara onze anos. Assim descontraídos, chegaram até a entrada de Perus, quando uma veraneio colheu e arremessou longe o Volks que já deixava a Via Anhanguera para atingir o acesso que leva a Perus.
+Todos os ocupantes do banco traseiro do carro tiveram morte instantânea: D. Maria e os três irmãos, Marcos, João Batista e Sheila. Segundo D. Elite, apenas três minutos antes do acidente, em virtude de um mal-estar súbito da cunhada, a Sheilinha precisou ir para trás, a fim de que D. Elite segurasse no colo o sobrinho.
+O menino sobreviveu, mas a Sheila, em função da troca de lugar, veio a falecer com os dois irmãos e com a tia.
+
+---
+
+## 2 — Do acidente à psicografia da mensagem
+
+A adaptação diante da realidade nova se fazia à custa de lágrimas incontroláveis. De chofre, a família alegre, feliz, estava destruída. Sobravam os pais que, em desespero, se arrastavam na busca dos filhos ausentes: do Marcos, do João Batista e da Sheilinha, a suave gueixa da casa.
+Roberto pouco falava; era, de hábito, calado e com o duro golpe, mais se fechou em si mesmo; continuava firme no trabalho, pois os compromissos exigiam que seu “Mercedinho” riscasse o Vale do Paraíba, para as entregas comerciais inadiáveis.
+D. Elite, entre calmantes e crises de desespero, foi empurrando o tempo, na saudade dos filhos; ao lar, não voltara mais, morando com a genitora, alimentando a ideia única, implacável de rever os filhos, pois não podia acreditar que tivessem morrido.
+Que poemas não terão nascido, nessas horas de dor, dos corações simples de Ukuru e Elite, ao mergulharem nas recordações dos três anjos que partiram. Certamente tão belos quanto o Salmo 23 de David
+— o Salmo da despedida — que, uma semana antes de morrer, como que prevendo a desencarnação iminente, o filhinho João Batista pediu para que todos cantassem, durante uma reunião que D. Elite fizera em seu lar com companheiros de crença religiosa. O cântico de David, entre outras reverências ao Senhor, diz: “Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque estás comigo…”
+Embora na época se achasse ligada a outro campo de fé, um mês depois do 9 de fevereiro, por sugestão de D. Consuelo Andrade Carvalho, sua vizinha, D. Elite estava em Uberaba. Queria conhecer Francisco Cândido Xavier.
+Misturou-se com a multidão que ali se encontrava para abraçar o Chico e, embora rapidamente, teve a oportunidade de mostrar-lhe uma fotografia das três crianças, pedindo ao Chico que a confortasse.
+— “Quem sou eu para confortá-la? Eu não sou ninguém…” respondeu Chico Xavier.
+O diálogo com o médium se resumiu nesse rápido intercâmbio, suficiente, contudo, pelo respeito do Chico aos sofrimentos de D. Elite, para que ela voltasse um pouco melhor para casa.
+Retornou a Uberaba mais quatro vezes, durante o ano de 1975, sempre sem entrar em detalhes com o Chico, pois os entendimentos se resumiam em saudações rápidas. Na última visita, no dia 12 de dezembro, eis que o Marcos traz a exuberante mensagem de quase oitenta laudas psicografadas.
+Após o recebimento da mensagem, embora a dor ainda persista, os pais acham-se mais confortados. Vez por outra um sorriso já se desenha no rosto de D. Elite; e, nos olhos do Roberto, observam-se lampejos de alento, cada vez menos fugazes.
+É a renovação, com a decidida certeza da sobrevivência do Espírito, reconstruindo no casal a estrutura abalada pelos golpes da separação provisória. É a convicção plena de que seus três filhos não morreram, convicção, aliás, solidificada pela mensagem que veremos adiante, onde as revelações surgem pelas mãos de Chico Xavier que desconhecia detalhes do acidente e ignorava os nomes citados pelo Marcos, alguns dos quais até D. Elite e Roberto tiveram dificuldade em identificar.
+
+---
+
+## 3 — A mensagem
+
+Minha querida mamãe, meu querido papai.
+Estou obedecendo ao meu avô Joaquim
+n
+que me trouxe para escrever.
+Peço para que me abençoem.
+Querida mamãe, a senhora pede notícias e rogou tanto, mas tanto, perante as orações, que me vejo aqui para trazer a esperança ao seu coração e fortalecer em meu pai a confiança na vida.
+Não sei como fazer isso direito: escrever falando o que se passa.
+Meu avô está me auxiliando, mas, por dentro de mim, estou como quem traz o pensamento tropeçando na vontade de chorar.
+É preciso ser forte e ser um homem para receber um compromisso desses.
+Papai sempre nos ensinou que devemos ser valorosos com a luz da coragem na frente de nossos passos, mas é tanta dor para vencer, querida mamãe, que eu não tenho forças para remover a situação.
+Meu avô diz que não devo procurar desculpas e sim tomar o assunto sem mais demora.
+Por isso, quero dizer a você, mãezinha, para confiar em Deus e na vida.
+Papai é calado
+e tantas vezes sem manifestações iguais às nossas, mas para ele também estou garatujando esta carta.
+Rogo a vocês para não se deixarem dominar pelo sofrimento, embora este conselho deva ser ditado para mim mesmo.
+Estamos assim como num telefone direto, em que o fio do lápis vai formando as minhas palavras, sem que eu possa receber as palavras de meus pais queridos, ao mesmo tempo.
+Sei tudo o que tem acontecido.
+Sei, mãezinha, que a senhora está sendo considerada uma pessoa em perturbação mental.
+Mas nós entendemos daqui as suas aflições. Três filhos esmagados quase ao chegarem em casa… E a nossa separação de repente. Isso transtornaria o cérebro de um gigante, quanto mais os nossos corações sempre ligados pelo carinho.
+Desde que acordei aqui, ouço os seus gritos do coração: suas palavras que não são faladas, suas preces de aflição no silêncio e suas lágrimas que aí na Terra ninguém vê…
+Mas peço à senhora, em nome da nossa Sheilinha, do João Batista e em meu nome, para viver e viver com fé em nosso reencontro.
+Mamãe, se não fosse a falta que a gente experimenta de casa, se não fosse a voz da senhora e do papai por dentro de mim, eu diria que tudo está bem.
+Mas posso dizer agora que tudo melhorará, quando melhorarem na paciência e na confiança.
+Estamos num parque de crianças que vieram para cá apressadamente.
+Temos tratamentos, exercícios, lições e muito carinho.
+Muitos meninos já crescidos ajudam os menores e são auxiliares de enfermeiras queridas que nos amparam, como sendo filhos do coração.
+Temos repouso, mas o repouso é atravessado pelas recordações que se fazem tão vivas como se fossem relâmpagos coloridos e parados em nossas lembranças.
+Nessas telas da alma, vemos o que se passa à distância e, além disso, suas vozes, mãezinha, nos alcançam por todos os meios.
+Peço a você — a você que é nosso querido anjo da guarda — entregar a Deus os acontecimentos de fevereiro.
+Não chore mais com desânimo e aflição.
+A senhora, sempre carinhosa e sempre imensamente boa para nós, não choraria mais com tanta angústia se visse a nossa querida Sheila cair de aflição, querendo ir ao seu encontro sem poder…
+Ajude-nos, querida mamãe.
+Aqui temos muita gente dedicada ao bem.
+A Irmã Luiza
+nos abençoa — benfeitora que não conheci — e um santo a quem devemos chamar por Irmão Ukuru
+nos cerca de muito amor, quase todos os dias.
+O tio Diogo
+e o avô Joaquim são companheiros que tudo fazem por nosso auxílio.
+De tia Maria
+nada sei. Pergunto por ela, mas recebo apenas a notícia de que ela vai bem.
+De certo modo, ainda não estou muito em mim.
+Se tivesse de retomar os estudos aí em casa, creio que não seria possível.
+Tenho a cabeça assim aflita, como quem não saiu de um susto muito grande e não posso lembrar com muita insistência aquela
+
+e nem a nossa casa em Perus, porque me sobe uma emoção ao cérebro que dá para tontear; mas o avô Joaquim me diz que tudo vai melhorar quando a senhora e papai estiverem mais fortes.
+Nós estamos todos unidos sem que eu saiba como é isso.
+O pensamento é uma força, mas não sei ainda explicar o que sinto.
+Mamãe, não fique parando o olhar em nossas lembranças.
+Tudo o que foi nosso — de nós três — dê a outras crianças em nosso nome.
+Ficará para nós o coração inteirinho, porque a senhora, papai, João Batista, Sheila e eu não nos separamos.
+Peça energias para nós nas preces do seu carinho de sempre.
+Mamãe, as lágrimas são forças de Deus em nossa vida, e por isso, nenhum de nós está livre de chorar, mas as nossas lágrimas devem ser orações — orações de gratidão e amor, paz e fé.
+Um dia estaremos todos juntos, mas não deseje vir para cá como quem força a entrada de uma casa desconhecida.
+Pouco a pouco, entenderemos as razões de tudo o que sucedeu.
+Rogamos para que a ninguém seja atribuída qualquer culpa pelo acidente.
+O veículo poderia estar sendo guiado por nós.
+Ninguém cria problemas de trânsito por vontade própria, como no caso em que nos vimos.
+Mamãe, queremos a paz, a paz de todos.
+Ajudem, a senhora e meu pai, a termos paz.
+Não se queixem.
+Vamos cultivar a saudade na igreja do amor ao próximo.
+Temos tantos irmãos nas calçadas e nas ruas, pedindo auxílio! Sejam eles, filhos também de seu coração.
+Aqui, muitos pais de meninos desamparados oram conosco pelos filhos que sofrem no mundo, mas eu sei que a senhora e meu pai serão auxílio e bênção para esses meninos, filhos de tantos amigos bons que nos amparam aqui.
+Não posso continuar.
+Mamãe, abençoe os filhos que somos nós aqui, sem você, mas contando sempre com a senhora para ficar mais fortes.
+Deus nos auxiliará.
+Hoje, tenho mais fé.
+Em nome dos irmãos e em meu nome, deixo a vocês, em casa, o nosso beijo de respeito e de amor.
+E recebam, com o abraço do avô Joaquim, todo o coração do filho, sempre filho reconhecido
+Uberaba, 12 de dezembro de 1975.
+
+---
+
+## 4 — Comentários
+
+> 1  “Meu avô Joaquim”  avô materno, Joaquim Diogo de Oliveira, desencarnado há 16 anos, 1959, em Perus.
+> — “A separação”
+
+“Três filhos esmagados quase ao chegarem em casa… E a nossa separação de repente. Isso transtornaria o cérebro de um gigante, quanto mais os nossos corações sempre ligados, pelo carinho.”
+São palavras do menino de doze anos. Se os conceitos profundos, sobretudo se creditados ao cérebro de uma criança, quase adolescente, impressionam-nos, do mesmo modo a grandeza de seus sentimentos nos comove muito.
+É a criança que fala aos pais, mostrando que as dificuldades são as mesmas do lado de lá, mormente quando a saudade permanece tão viva.
+Na mensagem, o filho conversa com a mãezinha, em súplica, rogando-lhe não se detenha mais nas lágrimas, pois quem sofre mais com as lágrimas dos pais, são os filhos no outro lado da vida. É por isso que o Marcos diz: — “Mamãe, se não fosse a falta que a gente experimenta de casa, se não fosse a voz da senhora e do papai por dentro de mim, eu diria que tudo está bem.”
+Da mensagem, separaremos algumas citações, obedecendo a sequência da psicografia, para maior esclarecimento:
