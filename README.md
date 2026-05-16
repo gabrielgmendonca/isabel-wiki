@@ -30,8 +30,8 @@ máquina nova é estado local — esta checklist o reconstrói.
      `brew install python@<versão>` ou pyenv) + [`uv`](https://docs.astral.sh/uv/)
      (`brew install uv`).
    - Node — `brew install node@22` (CI usa Node 22; ≥22 serve para build local).
-   - `qmd` — `brew install qmd` (busca local; upstream
-     [github.com/tobi/qmd](https://github.com/tobi/qmd)).
+   - `qmd` — `npm install -g @tobilu/qmd` (busca local; pacote npm, requer o
+     Node acima; upstream [github.com/tobi/qmd](https://github.com/tobi/qmd)).
    - `rtk` — Rust Token Killer (hook de otimização de tokens do Claude Code).
 5. **Segredos** — `.env` não está no git:
    ```bash
@@ -48,9 +48,10 @@ máquina nova é estado local — esta checklist o reconstrói.
    ```bash
    claude mcp add qmd -- qmd --index isabel mcp
    ```
-   Confira com `claude mcp list`. O registro fica em
-   `${CLAUDE_CONFIG_DIR:-~/.claude}/.claude.json` — `CLAUDE_CONFIG_DIR` é uma
-   escolha pessoal de máquina; o default do Claude Code é `~/.claude`.
+   Confira com `claude mcp list`. O registro (escopo local) vai para o arquivo
+   de config do Claude Code — `~/.claude.json` por padrão, ou
+   `$CLAUDE_CONFIG_DIR/.claude.json` se você definir `CLAUDE_CONFIG_DIR`
+   (escolha pessoal de máquina; este projeto não exige nenhum valor).
 9. **Smoke test**:
    ```bash
    uv run python .claude/skills/lint/scripts/lint_wiki.py   # 0 erros
@@ -68,7 +69,7 @@ máquina nova é estado local — esta checklist o reconstrói.
 |---|---|---|
 | **No git** | `wiki/`, `raw/` (inclui `*.index.md`/`*.resumo.md`), `scripts/`, `data/*.json`, `.claude/{rules,skills,hooks}` + `settings.json`, `.github/`, `pyproject.toml`, `uv.lock`, configs do Quartz | `git clone` resolve |
 | **Fora do git, carregar à mão** | `.env`; `.claude/settings.local.json`; registro do MCP qmd; contextos `qmd` | passos 5, 6, 8 + `bootstrap.sh` |
-| **Fora do git, regenerável** | `.venv/` (`uv sync`); índice qmd `~/.cache/qmd/index.sqlite` (~335 MB, embed custa horas); `books_with_links.json` (~47 MB, só p/ re-ingest) | `bootstrap.sh` |
+| **Fora do git, regenerável** | `.venv/` (`uv sync`); índice qmd `~/.cache/qmd/isabel.sqlite` (~270 MB, embed custa horas); `books_with_links.json` (~47 MB, só p/ re-ingest) | `bootstrap.sh` |
 
 `data/kardec-mapping.json` e os demais `data/*.json` **estão no git** — não
 re-crawlear Kardecpedia/FEB.
@@ -81,9 +82,12 @@ pronto **antes** de rodar o bootstrap:
 
 ```bash
 mkdir -p ~/.cache/qmd
-scp maquina-antiga:~/.cache/qmd/index.sqlite ~/.cache/qmd/
+scp 'maquina-antiga:~/.cache/qmd/isabel.sqlite*' ~/.cache/qmd/
 bash scripts/bootstrap.sh --skip-embed
 ```
 
-O `index.sqlite` carrega junto coleções de outros projetos (`kpi-*`) — inócuo
-para esta wiki; as coleções `wiki`/`raw` continuam funcionando.
+O projeto usa o índice **nomeado** `isabel` (`qmd --index isabel`), que mora em
+`~/.cache/qmd/isabel.sqlite` e contém só as coleções `wiki`/`raw` desta wiki —
+**não** confundir com `~/.cache/qmd/index.sqlite` (índice default do qmd, com
+coleções de outros projetos como `kpi-*`). O glob `isabel.sqlite*` também leva
+os arquivos `-wal`/`-shm`, caso a máquina antiga não tenha feito checkpoint.

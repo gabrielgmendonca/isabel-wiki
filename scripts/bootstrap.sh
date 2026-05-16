@@ -100,8 +100,8 @@ cat <<EOF
 
   3. Registre o MCP qmd no Claude Code (escopo local deste projeto):
        claude mcp add qmd -- qmd --index $QMD_INDEX mcp
-     (confirme com 'claude mcp list'; o objeto fica em
-      \${CLAUDE_CONFIG_DIR:-~/.claude}/.claude.json)
+     (confirme com 'claude mcp list'; o objeto fica em ~/.claude.json, ou
+      \$CLAUDE_CONFIG_DIR/.claude.json se você definir CLAUDE_CONFIG_DIR)
 
   Smoke test: uv run python .claude/skills/lint/scripts/lint_wiki.py
 EOF

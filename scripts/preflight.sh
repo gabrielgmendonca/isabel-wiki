@@ -9,7 +9,10 @@ set -uo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 QMD_INDEX="isabel"
-CLAUDE_CFG="${CLAUDE_CONFIG_DIR:-$HOME/.claude}"
+# Arquivo de config do Claude Code: ~/.claude.json por padrão, ou
+# $CLAUDE_CONFIG_DIR/.claude.json se a env estiver setada (escolha de máquina).
+CLAUDE_CFG_FILE="${CLAUDE_CONFIG_DIR:+$CLAUDE_CONFIG_DIR/.claude.json}"
+CLAUDE_CFG_FILE="${CLAUDE_CFG_FILE:-$HOME/.claude.json}"
 PASS=0
 FAIL=0
 
@@ -44,7 +47,7 @@ fi
 if have qmd; then
   ok "qmd ($(qmd --version 2>/dev/null | awk '{print $2}'))"
 else
-  bad "qmd ausente (brew; upstream github.com/tobi/qmd)"
+  bad "qmd ausente (npm install -g @tobilu/qmd; upstream github.com/tobi/qmd)"
 fi
 have rtk && ok "rtk" || bad "rtk ausente (Rust Token Killer)"
 
@@ -90,10 +93,10 @@ if have qmd && qmd --index "$QMD_INDEX" status >/dev/null 2>&1; then
 else
   bad "índice qmd '$QMD_INDEX' inacessível (rode scripts/bootstrap.sh)"
 fi
-if [[ -f "$CLAUDE_CFG/.claude.json" ]] \
-   && grep -q '"qmd"' "$CLAUDE_CFG/.claude.json" 2>/dev/null \
-   && grep -q "\"$QMD_INDEX\"" "$CLAUDE_CFG/.claude.json" 2>/dev/null; then
-  ok "MCP qmd registrado em $CLAUDE_CFG/.claude.json"
+if [[ -f "$CLAUDE_CFG_FILE" ]] \
+   && grep -q '"qmd"' "$CLAUDE_CFG_FILE" 2>/dev/null \
+   && grep -q "\"$QMD_INDEX\"" "$CLAUDE_CFG_FILE" 2>/dev/null; then
+  ok "MCP qmd registrado em $CLAUDE_CFG_FILE"
 else
   bad "MCP qmd não registrado (claude mcp add qmd -- qmd --index $QMD_INDEX mcp)"
 fi
