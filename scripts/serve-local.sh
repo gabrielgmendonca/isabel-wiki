@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Build local Quartz mirror do CI e sobe servidor em http://localhost:8080.
-# Replica o workflow de .github/workflows/deploy-wiki.yml passo a passo.
+# Espelha os passos de BUILD de .github/workflows/deploy-wiki.yml (clone Quartz,
+# copia conteúdo/config, link de citações, glossário <abbr>, direitos, build).
+# NÃO roda os gates de lint/testes do CI — para isso use /lint e preflight.sh.
 #
 # Uso:  ./scripts/serve-local.sh            # build + serve
 #       ./scripts/serve-local.sh --build    # só build, sem serve
@@ -44,6 +46,9 @@ cp -r "$REPO_ROOT/quartz-overrides/components/"* "$QUARTZ_DIR/quartz/components/
 echo "==> Aplicando link_citations.py"
 uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/content/wiki"
 uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/content/index.md"
+
+echo "==> Envolvendo termos do glossário em <abbr>"
+uv run python "$REPO_ROOT/scripts/wrap_glossary_terms.py" --apply "$QUARTZ_DIR/content/wiki"
 
 echo "==> Injetando avisos de direitos autorais"
 uv run python "$REPO_ROOT/scripts/inject_copyright.py" --apply "$QUARTZ_DIR/content/wiki"

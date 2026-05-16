@@ -90,7 +90,8 @@ fi
 
 cat <<EOF
 
-==> Bootstrap concluído. Passos manuais que faltam (não estão no git):
+==> Bootstrap concluído. Faltam os passos manuais fora do git
+    (independem da ordem em relação a este script — ver README passos 5/6/8):
 
   1. Segredos:
        cp .env.example .env   # depois preencha GEMINI_API_KEY / OPENROUTER_API_KEY

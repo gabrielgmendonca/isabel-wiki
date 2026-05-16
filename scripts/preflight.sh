@@ -66,7 +66,9 @@ echo "Estado local (fora do git):"
 ENV_FILE="$REPO_ROOT/.env"
 if [[ -f "$ENV_FILE" ]]; then
   ok ".env presente"
-  for key in GEMINI_API_KEY OPENROUTER_API_KEY OPENAI_BASE_URL; do
+  # OPENAI_BASE_URL já vem preenchida no .env.example — só checamos o que o
+  # usuário precisa colar do gerenciador de senhas.
+  for key in GEMINI_API_KEY OPENROUTER_API_KEY; do
     val="$(grep -E "^${key}=" "$ENV_FILE" | head -1 | cut -d= -f2- | tr -d '"'"'"' ')"
     [[ -n "$val" ]] && ok "  $key preenchida" || bad "  $key vazia/ausente em .env"
   done

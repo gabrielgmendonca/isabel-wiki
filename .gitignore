@@ -10,7 +10,9 @@
 .claude/settings.local.json
 .claude/worktrees/
 
-# qmd — índice e embeddings (estado local)
+# qmd — o índice/embeddings reais ficam em ~/.cache/qmd/ (fora do repo; ver
+# README → "Atalho do índice qmd"). .qmd/ aqui é só rede de segurança para
+# eventuais artefatos locais do qmd criados na raiz do projeto.
 .qmd/
 
 # Arquivos grandes de dados brutos
