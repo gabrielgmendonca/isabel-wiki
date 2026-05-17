@@ -40,6 +40,23 @@ for bin in uv qmd; do
   }
 done
 
+# pillow (via torchvision) costuma não ter wheel quando o Python pinado é muito
+# novo: o uv compila do fonte e o build precisa do libjpeg. No macOS o jpeg do
+# Homebrew é keg-only — exporta as flags para o build do pillow achá-lo (no-op
+# fora do macOS, sem Homebrew, ou sem a formula). Ver README → Toolchain.
+if [[ "${OSTYPE:-}" == darwin* ]] && command -v brew >/dev/null 2>&1; then
+  jpeg_prefix="$(brew --prefix jpeg 2>/dev/null || true)"
+  if [[ -n "$jpeg_prefix" && -d "$jpeg_prefix/include" ]]; then
+    export CPPFLAGS="-I$jpeg_prefix/include${CPPFLAGS:+ $CPPFLAGS}"
+    export LDFLAGS="-L$jpeg_prefix/lib${LDFLAGS:+ $LDFLAGS}"
+    export CPATH="$jpeg_prefix/include${CPATH:+:$CPATH}"
+    export LIBRARY_PATH="$jpeg_prefix/lib${LIBRARY_PATH:+:$LIBRARY_PATH}"
+  else
+    echo "    aviso: formula 'jpeg' do Homebrew não encontrada — se 'uv sync'" >&2
+    echo "    falhar compilando pillow, rode 'brew install jpeg' (README)." >&2
+  fi
+fi
+
 echo "==> 1/5  uv sync"
 uv sync
 

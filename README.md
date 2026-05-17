@@ -29,6 +29,11 @@ máquina nova é estado local — esta checklist o reconstrói.
    - Python — versão pinada em [`.python-version`](.python-version) (via
      `brew install python@<versão>` ou pyenv) + [`uv`](https://docs.astral.sh/uv/)
      (`brew install uv`).
+   - `libjpeg` — `brew install jpeg`. Quando o pin do Python é novo demais para
+     haver wheel binário do `pillow` (puxado por `torchvision`), o `uv sync`
+     compila do fonte e o build exige o libjpeg. O `jpeg` do Homebrew é
+     *keg-only*; o `bootstrap.sh` exporta as flags do build automaticamente se a
+     formula estiver instalada (logo, basta o `brew install jpeg`).
    - Node — `brew install node` (formula atual ≥ 22, já no PATH; CI usa Node
      22, mas ≥ 22 basta para o build local). Para cravar a paridade exata,
      `brew install node@22` funciona, mas é *keg-only* — siga o caveat impresso
