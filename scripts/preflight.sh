@@ -107,5 +107,5 @@ fi
 
 echo
 echo "Resumo: $PASS ok, $FAIL pendência(s)."
-[[ "$FAIL" -eq 0 ]] && echo "Tudo pronto." || echo "Resolva as pendências acima (veja README.md → Setup / Migração)."
+[[ "$FAIL" -eq 0 ]] && echo "Tudo pronto." || echo "Resolva as pendências acima (veja docs/migracao.md)."
 exit 0
