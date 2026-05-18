@@ -1,0 +1,65 @@
+@use "./base.scss";
+
+// ── Mermaid ───────────────────────────────────────────────────────────────
+// O Quartz v4.4.0 inicializa o Mermaid com o tema stock (`default`/`dark`),
+// sem nenhuma integração com a paleta do site — no tema claro as arestas saem
+// apagadas e os nós destoam. Em vez de hard-codar cor por diagrama (proibido
+// por convencoes-mermaid.md), mapeamos o SVG renderizado para os tokens CSS
+// que o Quartz já troca por tema. Assim claro e escuro ficam corretos de uma
+// vez e qualquer diagrama novo herda o ajuste. `!important` é necessário: o
+// Mermaid injeta um <style> inline no próprio SVG.
+.mermaid {
+  // tipografia alinhada ao corpo do site
+  .nodeLabel,
+  .edgeLabel,
+  span.nodeLabel,
+  span.edgeLabel {
+    font-family: inherit !important;
+  }
+
+  // nós
+  .node rect,
+  .node circle,
+  .node polygon,
+  .node path {
+    fill: var(--lightgray) !important;
+    stroke: var(--secondary) !important;
+    stroke-width: 1.5px !important;
+  }
+  .nodeLabel,
+  .node .label,
+  span.nodeLabel {
+    color: var(--dark) !important;
+    fill: var(--dark) !important;
+  }
+
+  // arestas (linhas) — eram o ponto fraco no tema claro
+  .edgePath .path,
+  .flowchart-link,
+  path.flowchart-link {
+    stroke: var(--darkgray) !important;
+    stroke-width: 1.5px !important;
+  }
+  marker path,
+  .marker,
+  defs marker path {
+    fill: var(--darkgray) !important;
+    stroke: var(--darkgray) !important;
+  }
+
+  // rótulos de aresta + fundo (para o texto não ser cortado pela linha)
+  .edgeLabel,
+  .edgeLabel p,
+  span.edgeLabel {
+    color: var(--dark) !important;
+    fill: var(--dark) !important;
+    background-color: var(--light) !important;
+  }
+  .edgeLabel rect,
+  .edgeLabel .labelBkg,
+  .labelBkg {
+    fill: var(--light) !important;
+    background-color: var(--light) !important;
+    opacity: 0.9;
+  }
+}

@@ -26,6 +26,19 @@ Como se estrutura a hierarquia de fontes da wiki IsAbel? Que peso cada nível ca
 
 **Regra de ouro:** quando nível 2 ou 3 contradiz o nível 1, Kardec prevalece. A divergência é registrada, nunca apagada.
 
+O diagrama abaixo resume a escala; a fundamentação de cada nível está nas seções seguintes.
+
+```mermaid
+graph TD
+    P["Fonte primordial<br/>Ensinamentos morais de Jesus — Evangelhos canônicos"]
+    N1["Nível 1 — Pentateuco<br/>LE · LM · ESE · C&I · A Gênese"]
+    N2["Nível 2 — Kardec complementar<br/>OPE · OQE · Revista Espírita · Viagem Espírita em 1862"]
+    N3["Nível 3 — Complementares aprovados<br/>Léon Denis · Chico Xavier · Divaldo Franco · apóstolos citados por Kardec"]
+
+    P --> N1 --> N2 --> N3
+    N3 -.->|"contradiz o nível 1 → Kardec prevalece"| N1
+```
+
 ---
 
 ## Descrição de cada nível

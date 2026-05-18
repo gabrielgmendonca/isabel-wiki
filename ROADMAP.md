@@ -188,7 +188,7 @@ O Quartz tem busca full-text básica, suficiente para o leitor. Para queries sem
 Formatos além de markdown para tornar o conteúdo mais acessível.
 
 - [x] **Apresentações Marp** — skill `/slides <página-wiki>` gera deck Marp no padrão socrático Q&A (capa → perguntas/respostas com citação → parábola → síntese → fontes); build PPTX+PDF via npx; tema customizado em `slides/themes/isabel.css`
-- [ ] **Mapas conceituais** — gerar visualizações (Mermaid ou similar) das relações entre conceitos de um tema
+- [~] **Mapas conceituais** — Mermaid validado como zero-plumbing (2026-05-17): Quartz v4.4.0 já renderiza ` ```mermaid ` nativamente via OFM (`mermaid: true` default), tema-aware; `link_citations.py`/`wrap_glossary_terms.py` pulam blocos cercados (sem conflito). Convenção em `.claude/rules/convencoes-mermaid.md` (paths `wiki/**`: prosa-primeiro, rótulo na forma canônica, nó≠wikilink, fallback textual, quando não usar). Smoke-test = 1º mapa real em `wiki/sinteses/hierarquia-de-autoridade.md`. **Faltando:** lint `check_mermaid_labels` (drift de nomenclatura em rótulo não é detectado por nenhum check — risco aberto conhecido); skill `/mapa` qmd-driven e/ou derivação automática do grafo networkx do `/stats` para gerar mapas por tema.
 - [ ] **Export temático** — gerar PDF/EPUB de um conjunto de páginas sobre um tema, para estudo offline
 - [ ] **Flashcards** — gerar pares pergunta/resposta a partir de `questoes/` para revisão espaçada (formato Anki-compatível)
 
