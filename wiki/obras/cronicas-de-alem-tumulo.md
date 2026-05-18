@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Humberto de Campos/Chico Xavier]
-tags: [humberto-de-campos, chico-xavier, cronica, casa-de-ismael, feb, psicografia, autor/humberto-de-campos, autor/chico-xavier, tema/vida-futura, tema/historia-doutrina, tema/jesus, tema/sociedade]
+tags: [humberto-de-campos, chico-xavier, cronica, casa-de-ismael, feb, psicografia, autor/humberto-de-campos, autor/chico-xavier, tema/vida-futura, tema/historia-doutrina, tema/jesus, tema/sociedade, lei/destruicao]
 direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/cronicas-de-alem-tumulo

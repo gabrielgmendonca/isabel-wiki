@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, RE, OPE, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, Joanna de Ângelis/Divaldo Franco]
-tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, autor/joanna-de-angelis, autor/divaldo-franco, grau/intermediario, tema/mediunidade]
+tags: [sonhos, sono, emancipacao, perispirito, obra/le, obra/lm, obra/re, obra/ope, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, autor/joanna-de-angelis, autor/divaldo-franco, grau/intermediario, tema/mediunidade, lei/justica-amor-caridade]
 atualizado_em: 2026-05-13
 status: ativo
 ---

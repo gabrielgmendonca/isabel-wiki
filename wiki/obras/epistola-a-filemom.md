@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, filemom, onesimo, escravidao, fraternidade, autor/paulo, tema/moral, tema/sociedade]
+tags: [paulo, filemom, onesimo, escravidao, fraternidade, autor/paulo, tema/moral, tema/sociedade, lei/igualdade, lei/liberdade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-16

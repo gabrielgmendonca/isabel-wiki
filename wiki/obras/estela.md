@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [flammarion, estela, pluralidade-dos-mundos, marte, reencarnacao, almas-gemeas, perispirito, astronomia, religiao-do-futuro, lourdes, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/encarnacao, tema/jesus]
+tags: [flammarion, estela, pluralidade-dos-mundos, marte, reencarnacao, almas-gemeas, perispirito, astronomia, religiao-do-futuro, lourdes, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/encarnacao, tema/jesus, lei/progresso]
 aliases:
   - "Stella"
 direitos:

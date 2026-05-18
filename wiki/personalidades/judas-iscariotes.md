@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, Humberto de Campos/Chico Xavier]
-tags: [judas-iscariotes, apostolo, traidor, reencarnacao, expiacao, autor/humberto-de-campos, autor/chico-xavier, tema/jesus, tema/encarnacao, tema/sofrimento, grau/intermediario]
+tags: [judas-iscariotes, apostolo, traidor, reencarnacao, expiacao, autor/humberto-de-campos, autor/chico-xavier, tema/jesus, tema/encarnacao, tema/sofrimento, grau/intermediario, lei/progresso]
 aliases:
   - "Judas Iscariote"
   - "Iscariotes"

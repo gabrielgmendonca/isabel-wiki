@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [flammarion, urania, pluralidade-dos-mundos, marte, reencarnacao, astronomia, telepatia, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina]
+tags: [flammarion, urania, pluralidade-dos-mundos, marte, reencarnacao, astronomia, telepatia, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina, lei/progresso]
 aliases:
   - "Uranie"
 direitos:

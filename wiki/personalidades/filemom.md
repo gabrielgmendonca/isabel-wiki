@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT]
-tags: [colossenses, filemom, paulo, anfitriao, escravidao, fraternidade, autor/paulo, grau/intermediario, tema/sociedade, tema/moral]
+tags: [colossenses, filemom, paulo, anfitriao, escravidao, fraternidade, autor/paulo, grau/intermediario, tema/sociedade, tema/moral, lei/igualdade, lei/liberdade]
 atualizado_em: 2026-05-16
 status: ativo
 ---

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, Gênese]
-tags: [flammarion, o-fim-do-mundo, pluralidade-dos-mundos, marte, jupiter, reencarnacao, astronomia, telepatia, romance-espirita, oitavo-sentido-psiquico, cataclismo-cometario, progresso-eterno, kheops, obra/le, obra/ese, obra/genese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina]
+tags: [flammarion, o-fim-do-mundo, pluralidade-dos-mundos, marte, jupiter, reencarnacao, astronomia, telepatia, romance-espirita, oitavo-sentido-psiquico, cataclismo-cometario, progresso-eterno, kheops, obra/le, obra/ese, obra/genese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina, lei/destruicao, lei/progresso]
 aliases:
   - "La Fin du Monde"
 direitos:

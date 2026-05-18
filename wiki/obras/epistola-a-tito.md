@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, tito, pastorais, creta, boas-obras, falsos-mestres, graca, universalismo, autor/paulo, tema/moral, tema/jesus]
+tags: [paulo, tito, pastorais, creta, boas-obras, falsos-mestres, graca, universalismo, autor/paulo, tema/moral, tema/jesus, lei/igualdade, lei/justica-amor-caridade, lei/liberdade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-15

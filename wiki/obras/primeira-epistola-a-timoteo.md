@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, timoteo, pastorais, efeso, falsos-mestres, discernimento, mediunidade, passe, riqueza, autor/paulo, lei/justica-amor-caridade, lei/conservacao, lei/reproducao, lei/trabalho, tema/mediunidade, tema/moral, tema/prece-caridade]
+tags: [paulo, timoteo, pastorais, efeso, falsos-mestres, discernimento, mediunidade, passe, riqueza, autor/paulo, lei/justica-amor-caridade, lei/conservacao, lei/reproducao, lei/trabalho, tema/mediunidade, tema/moral, tema/prece-caridade, lei/igualdade, lei/liberdade, lei/sociedade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-13

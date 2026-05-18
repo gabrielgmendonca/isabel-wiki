@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [Humberto de Campos/Chico Xavier, Emmanuel/Chico Xavier]
-tags: [patria-do-evangelho, brasil, ismael, missao-coletiva, autor/humberto-de-campos, autor/emmanuel, autor/chico-xavier, tema/historia-doutrina, tema/sociedade, grau/intermediario]
+tags: [patria-do-evangelho, brasil, ismael, missao-coletiva, autor/humberto-de-campos, autor/emmanuel, autor/chico-xavier, tema/historia-doutrina, tema/sociedade, grau/intermediario, lei/progresso]
 atualizado_em: 2026-05-12
 status: ativo
 ---
