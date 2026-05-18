@@ -80,6 +80,13 @@ Evangelhos (Mateus, Marcos, Lucas, João) são fonte primordial na hierarquia; d
 ### 1.3 Pipeline e processos
 
 - [x] **Pre-flight check em `/ingest` Passo 0** (2026-05-04) — Passo 0 da skill renomeado para "Pre-flight e pré-checagem de escopo" e ganhou dois sub-passos materiais antes da classificação doutrinária: (1) `test -e raw/<caminho>` com sugestão via `find raw -iname '*<chave>*'` quando ausente; (2) `git rev-parse --abbrev-ref HEAD` + `git rev-list --count HEAD..main` (comparação local, sem `fetch`) — se a branch não for `main` e estiver atrás, PARE e sugerir rebase/merge. Custo ~30s; cobre os dois modos de falha registrados no report de uso (raw inexistente na worktree, worktree atrás de main mascarando arquivos).
+- [ ] **Endurecer o pipeline `/ingest` a partir do report de uso** (2026-05-18) — cruzamento `/insights` × etapas do `/ingest` (recorte de 31 sessões de ingestão; report completo em `~/.claude-personal/usage-data/insights-ingest-2026-05-18.md`). Já mitigado no SKILL/rules e fora de escopo aqui: dry-run/dedup do Passo 0, lint determinístico obrigatório em fluxos automáticos, layout `raw/` por subpasta, disciplina nas queries `qmd` (§9). Itens abertos, ordenados por ROI:
+  - [ ] **Hook de pre-flight** — promover o Passo 0 (hoje prosa, não-determinístico) a Hook `PreToolUse` antes do `/ingest`/primeiro `Write` em `wiki/**`: cwd é a worktree (não o repo `main`), branch não está atrás de `main`, `raw/<caminho>` existe. Fecha o cluster #1 de friction do report (conteúdo escrito no `main`, regeneração/migração de 386 arquivos pega tarde pelo lint). Maior ROI.
+  - [ ] **`qmd get` com offset no Passo 1** — instruir no SKILL a ler a fonte via `mcp__qmd__get <path>:<offset>` em vez de `Read`/`Bash` quando o arquivo for grande. A rule `busca-qmd.md` já recomenda; falta o ponteiro explícito no `/ingest` Passo 1 (token).
+  - [ ] **Rule "shell gotchas"** — bash 3.2 (sem `mapfile`); proibir `for`+`sed` para substituição multi-arquivo (falha silenciosa, exit 0); passar args explícitos e `grep`/`diff` pós-substituição por arquivo. Fecha o cluster #2 de friction.
+  - [ ] **Manifest de progresso em lotes longos** — conversão de catálogo / ingest multi-livro mantém JSON de itens concluídos, checado no início, para retomar após limite de uso / timeout sem refazer trabalho.
+
+  Os quatro são pré-requisito de segurança do loop autônomo roadmap-driven (versão atenuada com gate humano do "self-driving ingest loop" do report, análogo ao `/autolint` em §5).
 - [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais.
 
 ---
