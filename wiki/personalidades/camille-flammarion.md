@@ -1,10 +1,10 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, estela, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, estela, as-casas-mal-assombradas, metapsiquica, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Nicolas Camille Flammarion"
-atualizado_em: 2026-05-13
+atualizado_em: 2026-05-18
 status: ativo
 ---
 
@@ -101,6 +101,14 @@ Oito anos depois, Flammarion retoma o mesmo eixo doutrinário em registro mais p
 
 Ver [[wiki/obras/estela]].
 
+## A tetralogia metapsíquica e *As Casas Mal-Assombradas* (1900–1923)
+
+Encerrada a trilogia narrativa (*Urânia*/*O Fim do Mundo*/*Estela*), Flammarion converte o último quarto de século de vida em **investigação documental pura** da sobrevivência: *O Desconhecido e os Problemas Psíquicos* (1900), os três tomos de *A Morte e o seu Mistério* (1920–1922) e [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]] (*Les Maisons Hantées*, Paris, 1923) — sua **última obra metapsíquica**, publicada dois anos antes do desencarne. Acervo declarado superior a **10.000 casos** críticos.
+
+O método maduro é a **escada de hipóteses** — fraude → ilusão → coincidência fortuita (refutada pelo cálculo de probabilidades de Laplace) → telepatia entre vivos → sugestão retardada de F. Myers (≤ 12 h) → ação do moribundo → ação do morto, só admitida quando esgotadas as anteriores. É a aplicação fenomenológica do **controle universal** kardequiano. No cap. XIII Flammarion nomeia o médium *"dinamógeno"* (engendra força), dialoga com Aksakof e a teoria do *poltergeist* de Barrett, e conclui que as faculdades humanas **cooperam mas não bastam** — é forçoso admitir um "mundo psíquico invisível" de seres inteligentes. Recorda ali o início de seu estudo *"de parceria com Allan Kardec"* em novembro de 1861 e reafirma a fórmula do discurso fúnebre de 1869 (*"o Espiritismo [é] ciência a estudar"*) — divergência "religião da Ciência" da mesma família já flaggada em *Urânia*/*Estela*/*O Fim do Mundo*, tratada inline em [[wiki/obras/as-casas-mal-assombradas#divergencias-com-kardec]]. Ver [[wiki/conceitos/prova-experimental-da-sobrevivencia]] e [[wiki/conceitos/casas-mal-assombradas]].
+
+Ver [[wiki/obras/as-casas-mal-assombradas]].
+
 ## Obras associadas
 
 - [[wiki/obras/deus-na-natureza]] — *Deus na Natureza* (*Dieu dans la nature*, Paris: Didier, 1866; introdução de maio de 1867). Primeiro grande tratado filosófico-científico de Flammarion, contemporâneo da redação de [[wiki/obras/genese|*A Gênese*]] de Kardec. Refutação sistemática do materialismo alemão (Büchner, Moleschott, Vogt) em cinco partes (Força e Matéria, Vida, Alma, Destino dos Seres, Deus); inversão do axioma materialista *"a força é propriedade da matéria"*. Encerra-se com prosa lírica contemplativa no cabo Heve.
@@ -108,6 +116,7 @@ Ver [[wiki/obras/estela]].
 - [[wiki/obras/urania]] — *Urânia* (Paris: Marpon & Flammarion, 1889). Romance filosófico-científico que converte em narrativa a tese da pluralidade dos mundos habitados; encerra-se com testamento científico em 25 aforismos.
 - [[wiki/obras/o-fim-do-mundo]] — *O Fim do Mundo* (*La Fin du Monde*, Paris, 1893). Segundo romance-ensaio. Cataclismo cometário no séc. XXV (Parte I) e apogeu/decadência da humanidade em 10 milhões de anos (Parte II); aparição do Espírito de Khéops como núcleo doutrinário (imortalidade, reencarnação como expiação progressiva, migração entre mundos); migração coletiva da humanidade para Júpiter. Forma mais aguda da divergência "filosofia astronômica = religião" (Jesus equiparado a Júpiter/Maomé).
 - [[wiki/obras/estela]] — *Estela* (*Stella*, Paris: Ernest Flammarion, 1897). Sequência narrativa de *Urânia*; história de amor entre Rafael Dargilan e Estela d'Ossian, morte conjunta na geleira do Dachstein e reencarnação em Marte. Crítica frontal ao culto marial em Lourdes (cap. XXVII) e formulação da "religião da Ciência" como religião do futuro (cap. XXXV).
+- [[wiki/obras/as-casas-mal-assombradas]] — *As Casas Mal-Assombradas* (*Les Maisons Hantées*, Paris, 1923). Última obra metapsíquica e fecho da tetralogia de investigação (com *O Desconhecido* 1900 e *A Morte e o seu Mistério* 1920–22). Dossiê crítico de >10.000 casos de assombração; escada de hipóteses e regra de Laplace; classificação objetivo/subjetivo (cap. X); o "dinamógeno" e o limite das faculdades humanas (cap. XIII, com Aksakof e Barrett). Três divergências inline (a fórmula "ciência, não religião"; consciência condicional da imortalidade; o "quinto elemento"/alma do mundo) + nota teosófica do tradutor sinalizada como fora de escopo.
 - [[wiki/obras/obras-postumas]] — discurso reproduzido nos textos prefaciais.
 - [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
 - *La pluralité des mondes habités* (Paris: Bachelier, 1862) — livro de estreia, defesa científica da pluralidade dos mundos.

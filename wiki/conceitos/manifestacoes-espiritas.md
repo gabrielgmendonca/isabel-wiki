@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM]
 tags: [manifestacoes, fenomenos, mesas-girantes, aparicoes, fluidos, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-04-26
+atualizado_em: 2026-05-18
 status: ativo
 ---
 
@@ -36,6 +36,8 @@ Fenômenos que ocorrem independentemente da vontade do médium ou dos assistente
 
 **Caso-paradigma na codificação:** o **trapeiro da Rua des Noyers** (Paris, 1860). Espírito perturbador identificado como [[wiki/personalidades/jeannet-trapeiro|"Jeannet"]] arremessava projéteis (carvões, tições) na casa do Sr. Lesage, ferindo a criada e os agentes de polícia. Evocado pela SPEE em 29/06/1860, confessou ter usado uma criada da casa como **médium auxiliar inconsciente**: *"Eu me servi da natureza elétrica daquela moça, adicionada à minha, menos material. Assim pudemos juntos transportar aqueles diversos materiais"* (RE, ago/1860). A teoria operacional — Espírito perturbador + médium fisicamente presente, mesmo sem consciência da faculdade — entra em LM, 2ª parte, cap. V. Casos correlatos no mesmo volume: padeiro de Dieppe (mar/1860), fabricante de São Petersburgo (abr/1860).
 
+As manifestações espontâneas ligadas a um **lugar** ("casas mal-assombradas", *poltergeist*) constituem subtipo autônomo com tratamento próprio — definição, agentes, leitura objetivo/subjetivo e protocolo pastoral — em [[wiki/conceitos/casas-mal-assombradas]]. O maior dossiê crítico do fenômeno é [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]] de [[wiki/personalidades/camille-flammarion|Camille Flammarion]] (1923, >10.000 casos), cuja conclusão — o médium como *"dinamógeno"*/núcleo, mas com seres invisíveis como causa inteligente — redescobre indutivamente a teoria de LM cap. V.
+
 ### Manifestações inteligentes
 
 Toda manifestação que revela "um ato, ainda que insignificantíssimo, de livre vontade" — desde uma pancada que responde a um pensamento até comunicações extensas por escrita ou palavra (LM, 2ª parte, cap. X, item 133). Ver [[wiki/conceitos/mediunidade]] e [[wiki/conceitos/psicografia]].
@@ -59,6 +61,7 @@ Os três são casos do mesmo princípio mecânico: o Espírito modula a matéria
 - [[wiki/conceitos/mediunidade]] — faculdade que permite as manifestações
 - [[wiki/conceitos/ageneres]] · [[wiki/conceitos/pneumatografia]] · [[wiki/conceitos/bicorporeidade]] — subtipos limítrofes (RE/1859 e RE/1860)
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa programática do "sobrenatural" como categoria explicativa (RE set/1860)
+- [[wiki/conceitos/casas-mal-assombradas]] — subtipo autônomo: manifestações espontâneas ligadas a um lugar (poltergeist); dossiê de Flammarion
 - [[wiki/personalidades/jeannet-trapeiro]] — caso-paradigma das manifestações espontâneas com médium auxiliar inconsciente (RE ago/1860)
 - [[wiki/conceitos/fluidos]] · [[wiki/conceitos/perispirito]] — agentes das manifestações
 - [[wiki/conceitos/evocacao]] — chamada que provoca manifestações inteligentes
@@ -68,3 +71,4 @@ Os três são casos do mesmo princípio mecânico: o Espírito modula a matéria
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 1ª parte, caps. I–IV; 2ª parte, caps. I–XIII.
+- Flammarion, Camille. *As Casas Mal-Assombradas* (1923), cap. X (classificação dos fenômenos). Edição: [[raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas]].

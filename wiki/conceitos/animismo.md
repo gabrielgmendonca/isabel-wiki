@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, André Luiz/Chico Xavier]
 tags: [animismo, mediunidade, mediuns, identidade-dos-espiritos, obsessao, andre-luiz, autor/kardec, autor/andre-luiz, autor/chico-xavier, tema/mediunidade, obra/lm, grau/intermediario]
-atualizado_em: 2026-05-03
+atualizado_em: 2026-05-18
 status: rascunho
 ---
 
@@ -19,6 +19,12 @@ Conjunto dos fenômenos psíquicos produzidos com **cooperação consciente ou i
 O termo "animismo", no sentido aqui usado, foi consolidado pelo psiquiatra italiano **Alexandre Aksakof** em *Animisme et Spiritisme* (1890), defendendo que parte significativa dos fenômenos do magnetismo e da mediunidade pode ser explicada pela ação da própria alma do sensitivo em desdobramento — sem precisar invocar a comunicação com desencarnados. Aksakof não pretendia negar o Espiritismo: queria proteger a hipótese espírita de ser confundida com fenomenologia anímica genuína.
 
 A história da recepção do termo, porém, foi a história de seu **uso polêmico** contra o Espiritismo: o "tudo é animismo" virou bandeira cética, ignorando que o próprio Aksakof mantinha a comunicação espiritual como fenômeno real distinto.
+
+### A posição de Flammarion — o "dinamógeno" e o limite da hipótese anímica
+
+[[wiki/personalidades/camille-flammarion|Camille Flammarion]], em [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]] (1923, cap. XIII), dá ao animismo a formulação investigativa madura. Reconhece o **coeficiente humano** — casos de assombração ligados a adolescentes e histéricos (Sra. Karin na Suécia, Floralina em Ooty, o rapaz de Molignon) — e propõe chamar o médium de **"dinamógeno"** ("aquele que engendra força"), termo que prefere a "médium" por não prejulgar a presença de um Espírito. **William Barrett** completa com a metáfora química: o *sujet* é o **núcleo** que cristaliza uma solução supersaturada — o foco humano é necessário, mas não é a causa inteligente.
+
+O ponto decisivo, e doutrinariamente convergente, é a **recusa do exclusivismo animista**: *"As faculdades desconhecidas do ser humano cooperam mas não bastam, por si sós, para explicar umas tantas manifestações póstumas. [...] Os fatos são reais, extrínsecos e revelam a existência de um mundo psíquico invisível"* (cap. XIII). Flammarion percorre a hipótese anímica **até o fim** antes de admitir a ação do desencarnado — exatamente a ordem metódica de Kardec (esgotar a força do médium antes de afirmar o Espírito externo) e a "escada de hipóteses" de [[wiki/conceitos/prova-experimental-da-sobrevivencia]].
 
 ## Posição de Kardec
 
@@ -80,6 +86,9 @@ Implicação operativa decisiva para reuniões de [[wiki/conceitos/obsessao|deso
 - [[wiki/conceitos/discernimento-dos-espiritos]] — dom paulino aplicado ao filtro anímico
 - [[wiki/conceitos/desdobramento]] — base fisiológica do animismo
 - [[wiki/conceitos/onda-mental]] — operação anímica é emissão da onda própria do médium
+- [[wiki/conceitos/prova-experimental-da-sobrevivencia]] — animismo como hipótese a esgotar na escada de Flammarion
+- [[wiki/conceitos/casas-mal-assombradas]] — o médium-foco ("dinamógeno") nas assombrações
+- [[wiki/obras/as-casas-mal-assombradas]] — Flammarion, cap. XIII (Aksakof, Barrett, o "dinamógeno")
 - [[wiki/conceitos/obsessao]] — em obsessão prolongada, médium personifica conteúdo próprio recalcado
 - [[wiki/conceitos/obsessao]] — protocolo de desobsessão válido também para manifestações anímicas
 - [[wiki/conceitos/escala-espirita]] — sintonia anímica obedece à mesma lei magnética
@@ -93,3 +102,4 @@ Implicação operativa decisiva para reuniões de [[wiki/conceitos/obsessao|deso
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Cap. 23 (Animismo). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", caso Eulália). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
 - AKSAKOF, Alexandre. *Animisme et Spiritisme* (1890). Referência histórica do termo.
+- Flammarion, Camille. *As Casas Mal-Assombradas* (1923), cap. XIII (o "dinamógeno"; Aksakof; teoria do poltergeist de Barrett). Edição: [[raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas]].

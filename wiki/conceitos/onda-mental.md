@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Gênese, OPE, André Luiz/Chico Xavier]
 tags: [onda-mental, pensamento, sintonia, fluido-cosmico, perispirito, mediunidade, andre-luiz, autor/kardec, autor/andre-luiz, autor/chico-xavier, tema/mediunidade, tema/espiritos, obra/le, obra/ese, obra/genese, obra/ope, grau/intermediario]
-atualizado_em: 2026-05-03
+atualizado_em: 2026-05-18
 status: rascunho
 ---
 
@@ -100,6 +100,10 @@ A mediunidade não é canal passivo — é **encontro de duas ondas**. Daí a re
 
 A "Lei do Campo Mental" é o nome que André Luiz dá à articulação entre **liberdade de escolha** e **responsabilidade fluídica**: ninguém é absorvido por onda alheia sem sintonia prévia. Princípio operativo decisivo no trato da [[wiki/conceitos/obsessao]].
 
+## Convergência metapsíquica — a "corrente psíquica" de Flammarion
+
+Décadas antes da sistematização de André Luiz, [[wiki/personalidades/camille-flammarion|Camille Flammarion]] já chegava indutivamente à mesma intuição pela via documental. Em [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]] (1923) descreve a transmissão à distância **não** como onda esférica que se irradia e se dispersa, mas como **corrente psíquica** dirigida: *"adivinhamos, antes, uma corrente psíquica, lembrando a corrente magnética, produzida entre a barra de ferro e a agulha imantada"* (cap. X, caso Riondel). Documenta uma **gradação contínua** — telepatia entre vivos → manifestação de moribundos → manifestação *post-mortem* — e adota a hipótese da **sugestão retardada** de Frederic Myers (a impressão emitida fica latente no cérebro do receptor e só aflora no repouso, com atraso máximo de ~12 h). É a tradução, em vocabulário psíquico do séc. XIX, da irradiação fluídica do perispírito (Gênese cap. XIV, item 18) e da telegrafia do pensamento da OPE. Ver [[wiki/conceitos/prova-experimental-da-sobrevivencia]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/perispirito]] — substrato físico da emissão da onda mental
@@ -114,6 +118,8 @@ A "Lei do Campo Mental" é o nome que André Luiz dá à articulação entre **l
 - [[wiki/obras/mecanismos-da-mediunidade]] — tratamento sistemático nível 3
 - [[wiki/obras/genese]] — cap. XIV, irradiação fluídica do perispírito
 - [[wiki/obras/livro-dos-espiritos]] — q. 459–466, influência do pensamento
+- [[wiki/obras/as-casas-mal-assombradas]] — Flammarion: a "corrente psíquica" e a escada telepática (1923)
+- [[wiki/conceitos/prova-experimental-da-sobrevivencia]] — escada de hipóteses metapsíquica
 
 ## Fontes
 
@@ -122,3 +128,4 @@ A "Lei do Campo Mental" é o nome que André Luiz dá à articulação entre **l
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento". FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII. FEB.
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Caps. 4 (Matéria mental), 11 (Onda mental), 12 (Reflexo condicionado), 17 (Efeitos físicos — Lei do Campo Mental), 18 (Efeitos intelectuais), 25 (Oração). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- Flammarion, Camille. *As Casas Mal-Assombradas* (1923), cap. X (caso Riondel — "corrente psíquica"). Edição: [[raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas]].

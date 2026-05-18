@@ -4,7 +4,7 @@ fontes: [Humberto de Campos/Chico Xavier]
 tags: [charles-richet, cientista, fisiologia, metapsiquica, anafilaxia, nobel, encarnado, autor/humberto-de-campos, autor/chico-xavier, tema/historia-doutrina, grau/intermediario]
 aliases:
   - "Charles Robert Richet"
-atualizado_em: 2026-05-12
+atualizado_em: 2026-05-18
 status: ativo
 ---
 
@@ -39,6 +39,7 @@ Richet representa o **paradigma da metapsíquica científica europeia** — vert
 ## Obras associadas
 
 - [[wiki/obras/cronicas-de-alem-tumulo]] — Humberto de Campos / Chico Xavier (FEB, 1935), cap. 16 ("A passagem de Richet"). Narrativa do leito de morte e do **cortejo de espíritas franceses** ([[wiki/personalidades/leon-denis|Léon Denis]], **Gabriel Delanne**, [[wiki/personalidades/camille-flammarion|Flammarion]]) recebendo Richet no Além.
+- [[wiki/obras/as-casas-mal-assombradas]] — Camille Flammarion (1923) cita Richet como colega e destinatário de casos (Srta. Tverdianski ao Dr. Richet, nov/1891; anedota da médium Sra. Thompson em Carqueiranne com William James e Myers, nota 54), e invoca seu *Tratado de Metapsíquica* como referência de método. Par contrastante: Flammarion adere ao quadro espírita; Richet permanece no fenomenalismo metapsíquico.
 - *Traité de Métapsychique* (1922) — obra-marco encarnada; não ingerida na wiki (nível 4 / heterodoxa quanto ao quadro espírita).
 - *La grande espérance* (1933) — obra encarnada de inflexão pessoal; não ingerida.
 
