@@ -99,10 +99,11 @@ else
 fi
 if [[ -f "$CLAUDE_CFG_FILE" ]] \
    && grep -q '"qmd"' "$CLAUDE_CFG_FILE" 2>/dev/null \
-   && grep -q "\"$QMD_INDEX\"" "$CLAUDE_CFG_FILE" 2>/dev/null; then
-  ok "MCP qmd registrado em $CLAUDE_CFG_FILE"
+   && grep -q "INDEX_PATH" "$CLAUDE_CFG_FILE" 2>/dev/null \
+   && grep -q "$QMD_INDEX\.sqlite" "$CLAUDE_CFG_FILE" 2>/dev/null; then
+  ok "MCP qmd registrado (com INDEX_PATH) em $CLAUDE_CFG_FILE"
 else
-  bad "MCP qmd não registrado (claude mcp add qmd -- qmd --index $QMD_INDEX mcp)"
+  bad "MCP qmd não registrado ou sem INDEX_PATH (claude mcp add qmd -s local -e INDEX_PATH=$HOME/.cache/qmd/$QMD_INDEX.sqlite -- qmd --index $QMD_INDEX mcp)"
 fi
 
 echo

@@ -119,7 +119,10 @@ cat <<EOF
   2. .claude/settings.local.json — copie da máquina antiga (hook RTK + allowlist).
 
   3. Registre o MCP qmd no Claude Code (escopo local deste projeto):
-       claude mcp add qmd -- qmd --index $QMD_INDEX mcp
+       claude mcp add qmd -s local -e INDEX_PATH=$HOME/.cache/qmd/$QMD_INDEX.sqlite -- qmd --index $QMD_INDEX mcp
+     (o -e INDEX_PATH é obrigatório: no qmd 2.1.0 o subcomando 'mcp' ignora
+      --index e abre o índice default vazio (~/.cache/qmd/index.sqlite);
+      só INDEX_PATH aponta o servidor MCP para o índice '$QMD_INDEX'.)
      (confirme com 'claude mcp list'; o objeto fica em ~/.claude.json, ou
       \$CLAUDE_CONFIG_DIR/.claude.json se você definir CLAUDE_CONFIG_DIR)
 
