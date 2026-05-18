@@ -58,16 +58,13 @@ Agrupadas por nível da hierarquia de autoridade (CLAUDE.md §2). Dentro de cada
 
 - [ ] **Ingerir 3 fontes restantes** em `raw/kardec/complementares/`: Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão. Já ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862.
 
-**Novo Testamento canônico** (20/27 ingeridos — verificado 2026-05-13)
+**Novo Testamento canônico** — ✅ **27/27 (completo)** — fechado 2026-05-18
 
 Evangelhos (Mateus, Marcos, Lucas, João) são fonte primordial na hierarquia; demais escritos apostólicos não têm tier explícito mas seguem o critério "citados por Kardec" (Atos como repertório fenomenológico, paulinas e gerais para temas pontuais, Apocalipse como base de Gênese caps. XVII–XVIII).
 
-- [x] **Ingeridos (20)** — Evangelhos (4), Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1/2-Tessalonicenses, Hebreus, Tiago, 1/2-Pedro, 1-João, Apocalipse. Marcos com 1-Tessalonicenses (2026-05-04 — livre exame em 5:21) e 2-Tessalonicenses (2026-05-04 — Lei do Trabalho em 3:6–13).
-- [ ] **Ingerir 7 livros restantes** — todos baixa prioridade (Kardec cita pouco ou nada):
-  - **Pastorais paulinas** — 1-Timóteo, 2-Timóteo, Tito. Pouquíssima tração doutrinária no Pentateuco; autoria paulina contestada por boa parte da exegese moderna.
-  - **Filemom** — bilhete curto a Filêmon pedindo acolhida ao escravo Onésimo; já antecipado em Cl 4:9.
-  - **Joaninas curtas** — 2-João, 3-João. Cobertura joanina essencial já garantida por 1-João.
-  - **Judas** — carta curta sobre falsos mestres; conteúdo amplamente reproduzido em 2-Pedro, já ingerido.
+- [x] **Ingeridos (todos os 27)** — Evangelhos (4), Atos, Romanos, 1/2-Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1/2-Tessalonicenses, 1/2-Timóteo, Tito, Filemom, Hebreus, Tiago, 1/2-Pedro, 1/2/3-João, Judas, Apocalipse.
+- [x] **Pastorais paulinas + Filemom** (concluídos antes desta atualização; ROADMAP estava estagnado) — 1-Timóteo (`72ae5b2`), 2-Timóteo (`77d9b29`), Tito (`f3bf871`), Filemom (`a123602`). Tratamento inline de divergências culturais (mulher/escravidão) cross-linkando páginas estruturais já existentes.
+- [x] **Joaninas curtas + Judas** (2026-05-18 — fecha o eixo) — 2-João (amor mútuo como conduta; antidocetismo consonante; recusa do enganador em callout pontual), 3-João (moral-tipológico Diótrefes×Demétrio; "quem faz o bem é de Deus"; zero divergência), Judas (gêmeo de 2-Pedro; eixo positivo "apiedai-vos usando de discernimento"; três tensões mítico-punitivas roteadas para divergências estruturais já existentes — nenhuma página nova). Criada personalidade `judas-irmao-de-tiago` (desambiguada de Iscariotes).
 
 **Nível 3 — Consagrados** (cobertura parcial)
 

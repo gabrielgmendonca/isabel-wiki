@@ -99,6 +99,7 @@ Em chave histórica: a doutrina dos anjos caídos foi consolidada por **Agostinh
 ## Páginas relacionadas
 
 - [[wiki/obras/segunda-epistola-de-pedro]] — passagem-fonte (cap. 2).
+- [[wiki/obras/epistola-de-judas]] — passagem-fonte gêmea (Jd 6; citação explícita de 1 Enoque em Jd 14–15); a página da obra roteia Jd 6 para cá.
 - [[wiki/divergencias/diabo-ontologico-em-apocalipse]] — divergência companheira (Ap 12; 20).
 - [[wiki/divergencias/penas-eternas-em-apocalipse]] — escatologia punitiva (Ap 14, 19, 20, 21).
 - [[wiki/divergencias/condenacao-dos-incredulos-em-marcos-16]] — mesma lógica de leitura literal vs. penas temporárias.

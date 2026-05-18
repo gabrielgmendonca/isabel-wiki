@@ -15,6 +15,9 @@ status: ativo
 
 **Judas, filho de Simão Iscariotes** (Jo 6:71; 13:26). Um dos doze apóstolos chamados por Jesus (Mc 3:19); tesoureiro do grupo (Jo 12:6; 13:29); identificado pelos quatro Evangelhos canônicos como o **traidor** que entregou Jesus às autoridades do Sinédrio por trinta moedas de prata (Mt 26:14-16; Mc 14:10-11; Lc 22:3-6; Jo 13:21-30). Os Sinóticos relatam seu enforcamento (Mt 27:3-10); Atos dos Apóstolos traz versão alternativa (At 1:18-19). A tradição localiza seu sepulcro no "Campo de Sangue" (Akeldama), comprado com o dinheiro da traição.
 
+> [!important] Não confundir com o autor da Epístola de Judas
+> Esta página trata do **traidor**. O autor da [[wiki/obras/epistola-de-judas|Epístola de Judas]] é outra pessoa: **[[wiki/personalidades/judas-irmao-de-tiago|Judas, irmão de Tiago]]** — irmão do Senhor (Mt 13:55), convertido no pós-Páscoa. Judas Iscariotes morreu antes de Pentecostes e não escreveu carta alguma. O nome *Judas* (hebr. *Yehudah*) era comuníssimo no I século — há ainda um terceiro, "Judas de Tiago", entre os doze (Lc 6:16; At 1:13).
+
 ## Papel
 
 Na narrativa dos Evangelhos canônicos, Judas representa o **paradigma da traição entre próximos** — não o inimigo externo, mas o discípulo escolhido que falha por motivação própria. A Doutrina Espírita, sem absolver o ato, recusa a tese da **predestinação à perdição** ou da **condenação eterna**: Judas é espírito imperfeito sujeito à mesma lei de causa e efeito, ao mesmo regime de reparação progressiva, ao mesmo direito à redenção pela reencarnação.
@@ -74,6 +77,7 @@ Réplica final de Humberto que fecha a crônica:
 - [[wiki/personalidades/jesus]] — entregue por Judas; protagonista da Paixão
 - [[wiki/personalidades/pedro-apostolo]] — outro apóstolo que falha (negação tripla) mas se restaura por reparação ativa pós-Páscoa — contraste estrutural com Judas
 - [[wiki/personalidades/humberto-de-campos]] — narrador espiritual do cap. 5
+- [[wiki/personalidades/judas-irmao-de-tiago]] — homônimo a **não confundir**: o autor da Epístola de Judas (irmão do Senhor), não o traidor
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/conceitos/reencarnacao]]
 

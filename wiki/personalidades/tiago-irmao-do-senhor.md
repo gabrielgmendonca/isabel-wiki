@@ -67,6 +67,7 @@ Ver [[wiki/sinteses/hierarquia-de-autoridade]] — escritos apostólicos como n�
 - [[wiki/obras/epistola-de-tiago]] — carta atribuída.
 - [[wiki/obras/atos-dos-apostolos]] — concílio de At 15.
 - [[wiki/personalidades/jesus]] — irmão biológico segundo a leitura literal do NT.
+- [[wiki/personalidades/judas-irmao-de-tiago]] — irmão (Mt 13:55; Mc 6:3); autor da [[wiki/obras/epistola-de-judas|Epístola de Judas]], que se credencia precisamente como "irmão de Tiago" (Jd 1:1); mesma trajetória incredulidade → adesão pós-pascal.
 - [[wiki/personalidades/paulo-de-tarso]] — colaborador no concílio de Jerusalém; complementaridade Paulo/Tiago em fé e obras.
 - [[wiki/personalidades/pedro-apostolo]] — coluna da Igreja de Jerusalém junto com Tiago e João.
 - [[wiki/conceitos/fe]] — Tiago como matriz escritural da fé viva.
