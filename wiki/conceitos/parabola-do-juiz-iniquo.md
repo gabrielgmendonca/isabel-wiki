@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, juiz-iniquo, prece, perseveranca, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
+tags: [parabola, jesus, juiz-iniquo, prece, perseverança, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
 atualizado_em: 2026-04-15
 status: ativo
 ---

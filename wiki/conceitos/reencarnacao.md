@@ -115,6 +115,7 @@ Articula em chave narrativa o que LE q. 258 (escolha das provas) e q. 330 (exame
 
 ## Páginas relacionadas
 
+- [[wiki/aprofundamentos/reencarnacao]] — estudo sistemático dos 7 eixos doutrinários de LE Parte 2, caps. IV–V (q. 166–222).
 - [[wiki/conceitos/encarnacao]] — objetivo e mecânica da primeira/cada encarnação.
 - [[wiki/conceitos/progresso-espiritual]] — a reencarnação como meio de progresso.
 - [[wiki/conceitos/vida-espirita]] — o intervalo entre encarnações.

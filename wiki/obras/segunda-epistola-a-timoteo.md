@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [paulo, timoteo, pastorais, despedida, passe, mediunidade, herança-de-fe, bom-combate, falsos-mestres, perseverança, autor/paulo, lei/justica-amor-caridade, lei/trabalho, tema/mediunidade, tema/moral, tema/sofrimento]
+tags: [paulo, timoteo, pastorais, despedida, passe, mediunidade, herança-de-fé, bom-combate, falsos-mestres, perseverança, autor/paulo, lei/justica-amor-caridade, lei/trabalho, tema/mediunidade, tema/moral, tema/sofrimento]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-14

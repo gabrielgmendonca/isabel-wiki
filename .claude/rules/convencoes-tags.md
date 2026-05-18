@@ -5,7 +5,9 @@ paths:
 
 # Taxonomia de tags
 
-Tags livres continuam permitidas. Além delas, **cinco namespaces hierárquicos** (com `/`) habilitam navegação temática no Quartz (que gera `/tags/<slug>/` automaticamente para cada tag em uso):
+Tags livres continuam permitidas. **Tags livres em PT-BR pleno, com acentuação completa, inclusive acento agudo** — ex.: `herança-de-fé` (não `heranca-de-fe` nem `herança-de-fe`), `perseverança`, `superstição`. Os namespaces fechados (`obra/`, `lei/`, `grau/`, `tema/`, `autor/`) permanecem ASCII sem acento (são conjuntos canônicos abaixo). O lint `check_naming_consistency` sinaliza quando variantes com/sem acento da mesma raiz coexistem; resolver unificando para a forma acentuada plena.
+
+Além das livres, **cinco namespaces hierárquicos** (com `/`) habilitam navegação temática no Quartz (que gera `/tags/<slug>/` automaticamente para cada tag em uso):
 
 | Namespace | Conjunto | Origem | Aplica a |
 |-----------|----------|--------|----------|

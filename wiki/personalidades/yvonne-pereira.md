@@ -29,19 +29,19 @@ Médium psicógrafa brasileira da linhagem da [[wiki/personalidades/bezerra-de-m
 
 ## Obras associadas
 
-Lista compilada a partir do catálogo da FEB Editora (loja em 2026-05-13, 28 SKUs deduplicados a 17 títulos em PT-BR — as demais 11 fichas são traduções para FR/EN/DE das mesmas obras). Autor espiritual a confirmar por obra; nenhuma destas obras tem ainda página em `wiki/obras/`.
+Lista compilada a partir do catálogo da FEB Editora (loja em 2026-05-13, 28 SKUs deduplicados a 17 títulos em PT-BR — as demais 11 fichas são traduções para FR/EN/DE das mesmas obras). Autor espiritual a confirmar por obra; das 17, apenas *Contos amigos*, *Evangelho aos simples* e *Nas telas do infinito* têm página própria em `wiki/obras/` (linkadas abaixo).
 
 - *À luz do consolador*
 - *Amor e ódio*
 - *As três revelações*
 - *A família espírita*
 - *A tragédia de Santa Maria*
-- *Contos amigos*
+- [[wiki/obras/contos-amigos|Contos amigos]]
 - *Devassando o invisível*
 - *Dramas da obsessão*
-- *Evangelho aos simples*
+- [[wiki/obras/evangelho-aos-simples|Evangelho aos simples]]
 - *Memórias de um suicida* — referência clássica da literatura espírita sobre [[wiki/conceitos/suicidio|suicídio]] (autor espiritual tradicionalmente atribuído: Camilo Cândido Botelho)
-- *Nas telas do infinito*
+- [[wiki/obras/nas-telas-do-infinito|Nas telas do infinito]]
 - *Nas voragens do pecado*
 - *O cavaleiro de Numiers*
 - *O drama da Bretanha*

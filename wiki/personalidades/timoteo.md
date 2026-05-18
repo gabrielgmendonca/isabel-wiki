@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [NT, LM]
-tags: [timoteo, apostolo, paulo, atos, pastorais, efeso, listra, filipos, mediunidade, mediunidade-inspirada, heranca-de-fe, obra/lm, autor/kardec, autor/paulo, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
+tags: [timoteo, apostolo, paulo, atos, pastorais, efeso, listra, filipos, mediunidade, mediunidade-inspirada, herança-de-fé, obra/lm, autor/kardec, autor/paulo, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
 atualizado_em: 2026-05-14
 status: ativo
 ---

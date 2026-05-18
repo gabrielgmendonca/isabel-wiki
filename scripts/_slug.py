@@ -97,17 +97,22 @@ def strip_artifact_suffixes(stem: str) -> str:
 
 
 def has_artifact_marker(name: str) -> bool:
-    """True se `name` contém marcador de artefato (sufixo ou UTF-8 escapado).
+    """True se `name` contém marcador de artefato (sufixo real ou UTF-8 escapado).
 
-    Usado pelo check para flaggar slugs sujos sem precisar normalizar.
+    Espelha `strip_artifact_suffixes`: o marcador só conta quando é sufixo de
+    fato no fim do stem (extensão removida), nunca substring solta. Evita
+    falso-positivo em palavras legítimas que contêm "min"/"pdf" no meio
+    (ex.: "...proporcoes-minusculas.pdf"). Usado pelo check para flaggar slugs
+    sujos sem precisar normalizar.
     """
     if URL_ENCODED_ARTIFACT_RE.search(name):
         return True
-    lowered = name.lower()
-    for suf in ARTIFACT_SUFFIXES:
-        if suf in lowered:
-            return True
-    return False
+    if "." in name and not name.startswith("."):
+        stem = name.rpartition(".")[0]
+    else:
+        stem = name
+    stem = stem.lower()
+    return strip_artifact_suffixes(stem) != stem
 
 
 def is_canonical_slug(s: str) -> bool:
