@@ -15,7 +15,7 @@ Consequência prática: se um conceito aparece como nó no diagrama, ele deve ap
 
 ## Onde o diagrama mora
 
-Na **própria página-conceito, síntese ou aprofundamento que ele ilustra** — junto da seção cujo conteúdo ele resume. **Não criar `wiki/mapas/`** nem páginas-diagrama autônomas: um mapa sem a prosa que o fundamenta é uma afirmação sem citação. Posicionar o bloco *depois* do texto/tabela que ele sintetiza, não antes (prosa primeiro).
+Na **própria página-conceito, síntese ou aprofundamento que ele ilustra** — junto da seção cujo conteúdo ele resume. **Não criar um diretório de mapas dedicado em `wiki/`** nem páginas-diagrama autônomas: um mapa sem a prosa que o fundamenta é uma afirmação sem citação. Posicionar o bloco *depois* do texto/tabela que ele sintetiza, não antes (prosa primeiro).
 
 ## Rótulos dos nós
 
