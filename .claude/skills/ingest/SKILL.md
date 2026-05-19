@@ -32,7 +32,7 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
 
-### Passos 1–2 — Leitura, dedup e plano
+### Passos 1–4 — Leitura, dedup e plano
 
 1. **Ler** o arquivo em `raw/`. Para fontes grandes (>1000 linhas), abrir via `mcp__qmd__get <path>:<offset>` em vez de `Read` integral (ver `busca-qmd.md`).
 2. **Checar duplicatas via qmd**: `mcp__qmd__query` com `intent`, `collections: ["wiki"]`, `limit: 5`, `minScore: 0.5` e duas sub-queries — `lex` pelo título da obra, `vec` pelos conceitos centrais.
@@ -48,12 +48,13 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
    **§A — Decisões (precisa do seu julgamento)** — só itens decision-grade, 1 linha de razão cada:
    - Classificação nível 1/2/3/4 + justificativa.
    - Consolidação: páginas existentes que absorvem o material (resultado da dedup) em vez de página nova.
-   - Conceitos **página própria vs. inline**: para cada um, o fio conceitual + resultado da checagem de lar canônico (Passo 3) + slug proposto na terminologia de Kardec/fonte. É aqui que o julgamento editorial mais erra.
+   - Conceitos **página própria vs. inline**: para cada um, o fio conceitual + resultado da checagem de lar canônico (Passo 3 acima) + slug proposto na terminologia de Kardec/fonte. É aqui que o julgamento editorial mais erra.
    - Divergências a flaggar (ou "nenhuma").
    - Direitos: detentor previsto (ou "desconhecido — confirmo com você") e `url_aquisicao` se protegida.
 
    **§B — Execução (idempotente — FYI, não aprova item a item)** — lista compacta, sem prosa:
    - Páginas a criar: `wiki/obras/<slug>.md`, `wiki/personalidades/<slug>.md`, `wiki/conceitos/<slug>.md` — só os slugs.
+   - Páginas existentes a enriquecer: slugs que ganham seção/citação nova (distinto da consolidação em §A — aqui a página continua sobre seu tema, só recebe afirmação citada nova). Mapa de edição; as `(sigla, ref)` agregadas vão no relatório do Passo 7.
    - Enrich scripts a rodar; `catalogo.md`; `log.md`. `index.md` **não** é tocado (linha "Cobertura atual" é do `/stats` na `main` — evita conflito entre worktrees).
 
    Se o usuário rejeitar o plano, ajustar e re-submeter — não escrever nada. Uma leitura errada da fonte aparece em §0 e custa só uma rejeição, não conteúdo escrito.
@@ -77,7 +78,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar. **Trabalh
    3. `uv run python .claude/skills/ingest/scripts/find_leal_url.py wiki/obras/<slug>.md --set https://www.livrarialeal.com.br/<categoria>/<slug>.html` — grava em `direitos.url_aquisicao`.
 2. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
-   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas. **Conceito tratável isoladamente** (tem definição, ensino de Kardec e aplicação prática) → **página própria linkada**, nunca seção inline numa página maior — só assim aparece em buscas e alimenta o grafo. Levantar proativamente os fios conceituais transversais que atravessam vários capítulos da obra e pedem destinação dedicada, mesmo quando já existe um conceito-mãe (pode haver subconceito autônomo). Seção inline apenas para desdobramento sem autonomia conceitual; em dúvida, default para página própria — **mas esse default só vale sem lar canônico**: se a checagem do Passo 3 achou página na terminologia de Kardec, consolidar nela; slug novo nomeia pela linguagem da fonte/Kardec, nunca rótulo cunhado.
+   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas. **Conceito tratável isoladamente** (tem definição, ensino de Kardec e aplicação prática) → **página própria linkada**, nunca seção inline numa página maior — só assim aparece em buscas e alimenta o grafo. Levantar proativamente os fios conceituais transversais que atravessam vários capítulos da obra e pedem destinação dedicada, mesmo quando já existe um conceito-mãe (pode haver subconceito autônomo). Seção inline apenas para desdobramento sem autonomia conceitual; em dúvida, default para página própria — **mas esse default só vale sem lar canônico**: se a checagem de lar canônico (Passo 3 da fase de análise) achou página na terminologia de Kardec, consolidar nela; slug novo nomeia pela linguagem da fonte/Kardec, nunca rótulo cunhado.
    - **Série André Luiz** — para todo livro da série, identificar o(s) **Espírito(s) orientador(es)** que conduz(em) a narrativa (varia por volume) e garantir que tenha(m) página própria em `wiki/personalidades/`. Se ainda não existir, criar; se existir, enriquecer com material da nova obra. Não assumir o orientador a partir de memória — confirmar lendo o próprio texto em `raw/`.
 
 > [!note] Escopo
