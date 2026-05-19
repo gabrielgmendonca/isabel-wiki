@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [judas, falsos-mestres, anjos-decaidos, penas-futuras, discernimento, enoque, tema/moral, tema/vida-futura, tema/espiritos]
+tags: [judas, falsos-mestres, anjos-decaidos, penas-futuras, discernimento, enoque, tema/moral, tema/vida-futura, tema/espiritos, lei/justica-amor-caridade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-18

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [joao, corpus-joanino, hospitalidade, orgulho, humildade, autor/joao, tema/moral, tema/sociedade]
+tags: [joao, corpus-joanino, hospitalidade, orgulho, humildade, autor/joao, tema/moral, tema/sociedade, lei/justica-amor-caridade, lei/progresso, lei/sociedade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-18

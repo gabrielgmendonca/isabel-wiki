@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE, Gênese, OPE]
-tags: [flammarion, as-casas-mal-assombradas, casas-mal-assombradas, metapsiquica, telepatia, sobrevivencia-da-alma, poltergeist, animismo, espiritos-perturbadores, aparicoes, manifestacoes-post-mortem, quinto-elemento, metodo-experimental, dinamogeno, obra/le, obra/lm, obra/ese, obra/genese, obra/ope, autor/kardec, tema/mediunidade, tema/vida-futura, tema/historia-doutrina]
+tags: [flammarion, as-casas-mal-assombradas, casas-mal-assombradas, metapsiquica, telepatia, sobrevivencia-da-alma, poltergeist, animismo, espiritos-perturbadores, aparicoes, manifestacoes-post-mortem, quinto-elemento, metodo-experimental, dinamogeno, obra/le, obra/lm, obra/ese, obra/genese, obra/ope, autor/kardec, tema/mediunidade, tema/vida-futura, tema/historia-doutrina, lei/progresso]
 aliases:
   - "Les Maisons Hantées"
 direitos:

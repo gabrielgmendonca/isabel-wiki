@@ -22,7 +22,7 @@ Fenômenos materiais produzidos pela ação do Espírito sobre a matéria, por m
 - **Pancadas (raps)**: ruídos sem causa física aparente — tiptologia (LM, 2ª parte, cap. XI).
 - **Suspensões e translações**: objetos suspensos no ar sem ponto de apoio (LM, 2ª parte, cap. IV, itens 75–80).
 - **Transportes**: objetos materiais levados de um lugar a outro por Espíritos (LM, 2ª parte, cap. V, seção "Fenômeno de transporte").
-- **Aparições**: manifestações visuais do Espírito, de vapores a formas tangíveis (LM, 2ª parte, cap. VI).
+- **[[wiki/conceitos/aparicoes|Aparições]]**: manifestações visuais do Espírito, de vapores a formas tangíveis (LM, 2ª parte, cap. VI) — subtipo autônomo com tratamento próprio (aparição de vivo, de moribundo no momento da morte, de morto).
 - **Bicorporeidade**: aparição do Espírito de uma pessoa viva em lugar diferente do seu corpo (LM, 2ª parte, cap. VII).
 - **Transfiguração**: alteração temporária da aparência do médium (LM, 2ª parte, cap. VII).
 
@@ -61,6 +61,7 @@ Os três são casos do mesmo princípio mecânico: o Espírito modula a matéria
 - [[wiki/conceitos/mediunidade]] — faculdade que permite as manifestações
 - [[wiki/conceitos/ageneres]] · [[wiki/conceitos/pneumatografia]] · [[wiki/conceitos/bicorporeidade]] — subtipos limítrofes (RE/1859 e RE/1860)
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa programática do "sobrenatural" como categoria explicativa (RE set/1860)
+- [[wiki/conceitos/aparicoes]] — subtipo autônomo: manifestação visual do Espírito (de vivo, de moribundo, de morto); dossiê de Flammarion em *A Morte e o Seu Mistério*
 - [[wiki/conceitos/casas-mal-assombradas]] — subtipo autônomo: manifestações espontâneas ligadas a um lugar (poltergeist); dossiê de Flammarion
 - [[wiki/personalidades/jeannet-trapeiro]] — caso-paradigma das manifestações espontâneas com médium auxiliar inconsciente (RE ago/1860)
 - [[wiki/conceitos/fluidos]] · [[wiki/conceitos/perispirito]] — agentes das manifestações

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [NT]
-tags: [joao, corpus-joanino, anticristo, docetismo, amor-fraterno, discernimento, autor/joao, tema/moral, tema/jesus]
+tags: [joao, corpus-joanino, anticristo, docetismo, amor-fraterno, discernimento, autor/joao, tema/moral, tema/jesus, lei/justica-amor-caridade]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-18
