@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LM, ESE, RE]
 tags: [obsessao, fascinacao, subjugacao, possessao-partilhada, espiritos-inferiores, mediunidade, vampirismo, animismo, onda-mental, obra/lm, obra/ese, obra/re, andre-luiz, autor/andre-luiz, autor/kardec, grau/intermediario, tema/mediunidade, lei/liberdade]
-atualizado_em: 2026-05-03
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -255,6 +255,14 @@ Em [[wiki/obras/revista-espirita-1866|RE fev/1866]], dois casos longitudinais re
 
 Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes que não é exagero dizer que nos hospícios de alienados mais da metade apenas têm a aparência de loucura e que, por isto mesmo, a medicação vulgar não faz efeito."* — tese reforçada poucos meses depois pelo artigo "Estatística da loucura" ([[wiki/obras/revista-espirita-1866|RE jul/1866]]) que **refuta documentalmente** a acusação anti-espírita de que o Espiritismo causa loucura (com dados oficiais do Ministério da Agricultura no *Moniteur* de 16/04/1866).
 
+### Yvonne Pereira: a desobsessão não está superada, e o obsessor é irmão (*À Luz do Consolador*)
+
+Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] — meio século de atendimento a obsidiados — contesta a tese, então corrente, de que o trabalho de desobsessão "está superado e deve ser abolido das cogitações dos Centros Espíritas". Três ênfases pastorais, todas ancoradas em Kardec:
+
+1. **Trabalho atual e sagrado, exigindo preparo.** A desobsessão requer renovação íntima, amor à causa, qualidades morais que se imponham à rebeldia do obsessor e **conhecimento das instruções de LM, cap. XXIII** — capítulo que ela observa "alguns nunca leram, e outros leram sem entendê-lo".
+2. **O obsessor é irmão sofredor, não perverso.** "É erro supor que os obsessores sejam literalmente perversos; ao contrário, são, como nós, filhos de Deus" — grandes sofredores conquistáveis pelo amor e pela **prece** (inclusive a prece pelo próprio obsessor), na linha de ESE cap. XXVIII. Cita [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] em *Dramas da Obsessão*: "a obsessão nada mais é do que uma troca de vibrações afins".
+3. **O obsessor não "entra" no corpo.** Reafirma LE q. 473 (e LM, cap. XXIII): salvo o raro médium sonambúlico que empresta o aparelho, "o obsessor não entra no corpo do obsidiado" — envolve-o em vibrações nocivas, dominando-lhe a mente; e "quem se deixa assim obsidiar é cúmplice do próprio obsessor", por invigilância e baixa sintonia moral.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — a obsessão é o principal perigo da prática mediúnica
@@ -300,3 +308,4 @@ Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Obsessão*; *Um estranho caso de obsessão*). Ver [[wiki/obras/a-luz-do-consolador]]. Ancoragem: LM, cap. XXIII; LE, q. 473; ESE, cap. XXVIII.

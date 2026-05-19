@@ -6,7 +6,7 @@ aliases:
   - "Adolfo Bezerra de Menezes"
   - "Adolfo Bezerra de Menezes Cavalcanti"
   - "Médico dos Pobres"
-atualizado_em: 2026-05-15
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -58,9 +58,14 @@ E, sobre seu chamado ao apostolado em 1885, descrita no cap. 23:
 
 > "Bezerra de Menezes traz consigo a palma da harmonia, serenando todos os conflitos. Estabelece a prudência e a discrição, entre os temperamentos mais veementes e combativos. A obra de Ismael, no que se referia às luzes sublimes do Consolador, estava definitivamente instalada na pátria do Cruzeiro, apesar da precariedade do concurso dos homens."
 
+## Como autor espiritual e orientador de Yvonne Pereira
+
+Bezerra de Menezes foi, segundo a autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] (em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), o **principal supervisor e orientador espiritual** de sua mediunidade e autor espiritual de várias de suas obras (*Dramas da Obsessão*, *A Tragédia de Santa Maria*, supervisão de *Recordações da Mediunidade*, *Nas Telas do Infinito* — esta com Camilo Castelo Branco). Em *À Luz do Consolador*, Yvonne cita a definição de Bezerra em *Dramas da Obsessão*: "a obsessão nada mais é do que uma troca de vibrações afins" — formulação coerente com LM, 2ª parte, cap. XXIII (ver [[wiki/conceitos/obsessao]]). Foi também a voz que, ao vê-la prestes a queimar os originais de *Memórias de um Suicida*, lhe disse "Espera! Guarda-os!".
+
 ## Páginas relacionadas
 
 - [[wiki/personalidades/ismael]] — mensageiro espiritual que designou e sustentou Bezerra na missão brasileira.
+- [[wiki/personalidades/yvonne-pereira]] · [[wiki/obras/a-luz-do-consolador]] — médium de quem Bezerra foi orientador e autor espiritual.
 - [[wiki/personalidades/allan-kardec]] — codificador cuja obra Bezerra divulgou e estruturou no Brasil.
 - [[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho]] — fonte primária da narrativa sobre a designação espiritual de Bezerra.
 - [[wiki/conceitos/patria-do-evangelho]] — conceito doutrinário operacionalizado por sua obra terrestre.
@@ -70,3 +75,4 @@ E, sobre seu chamado ao apostolado em 1885, descrita no cap. 23:
 - XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 22, 23, 26, 28.
 - Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].
 - Biografia encarnada: registros públicos da Federação Espírita Brasileira; arquivos de *O País* (1886-1893).
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (autobiografia; *Obsessão*). Ver [[wiki/obras/a-luz-do-consolador]].

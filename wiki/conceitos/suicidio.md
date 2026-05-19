@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
 tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, alienacao-mental, andre-luiz, nosso-lar, no-mundo-maior, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sofrimento]
-atualizado_em: 2026-05-01
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -120,6 +120,14 @@ Os casos visitados no manicômio terrestre exemplificam: a velha "marquesa" trav
 
 Não há divergência com Kardec: o cap. 16 estende a casuística empírica de LE q. 952 e ESE cap. V para um quadro que Kardec não tratou clinicamente, mas para o qual a doutrina já estava preparada (LE q. 472 sobre alienação por causa moral). Ver [[wiki/obras/no-mundo-maior]].
 
+### *À Luz do Consolador* — não há "motivos nobres" para o suicídio (Yvonne Pereira)
+
+Em *O estranho mundo dos suicidas* ([[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] responde, a partir de cinco décadas de atendimento mediúnico a suicidas, à pergunta de um missivista: "um suicida por *motivos nobres* sofre os mesmos tormentos? Não haverá para ele uma *misericórdia especial*?". Três pontos consolidam o ensino de Kardec sem dele divergir:
+
+1. **Não há motivo nobre que justifique** — diferente do sacrifício da vida por outrem (LE, q. 953), o que o suicida supõe "honroso ou nobre" pode ser "falso conceito, sofisma"; pode haver atenuantes pela sinceridade, "mas não justificativa ou isenção de responsabilidade".
+2. **Consequência é efeito natural, não castigo** — os males "não decorrerão como castigo enviado por Deus ao infrator, mas como *efeito natural de uma causa desarmonizada com as leis da vida e da morte*". Articula-se com LE q. 957 (penas sempre proporcionais às causas) e com a fenomenologia perispiritual (traumatismo da morte violenta).
+3. **Misericórdia não é "especial"** — estende-se sobre todos os suicidas sem predileção, no concurso dos bons Espíritos e na possibilidade de reabilitação por reencarnações futuras. O conselho dos próprios suicidas que se comunicam: suportar todos os males terrenos, porque "ainda será preferível ao que de melhor se possa atingir pelos desvios do suicídio".
+
 ## Aplicação prática
 
 O tema é central em palestras espíritas sobre prevenção e acolhimento. A abordagem doutrinária combina firmeza (é uma falta) com compaixão (as consequências variam, Deus considera as circunstâncias). A certeza da vida futura e a possibilidade de comunicação com os desencarnados são apresentadas como consolação àqueles que sofrem perdas, desestimulando a ideia de "encurtar o caminho."
@@ -146,3 +154,4 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas"; cap. IV — "Auguste Michel" e "Arrependimento de um dissoluto". FEB.
 - Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*O estranho mundo dos suicidas*; *Tormentos voluntários*). Ver [[wiki/obras/a-luz-do-consolador]].

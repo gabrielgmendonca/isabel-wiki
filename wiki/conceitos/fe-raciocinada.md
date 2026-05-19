@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/moral]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -52,6 +52,17 @@ A passagem **não é hostil à razão**; o alvo paulino é **filosofia humana se
 
 Ver [[wiki/obras/epistola-aos-colossenses]].
 
+### Estudo metódico pela base — Yvonne Pereira em *À Luz do Consolador*
+
+A coletânea póstuma [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]], de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]], faz da fé raciocinada o eixo de quase todas as suas crônicas, traduzindo-a em **disciplina de estudo**: aprender o Espiritismo "metodicamente, parcelado, partindo da base da doutrina, ou exposição das leis, e não do coroamento", como "o aluno de uma escola iniciará o curso da primeira série e não da quarta". O risco de não fazê-lo é o **sofisma** — "tão perigoso em assuntos de Espiritismo" —, em que o adepto, sem raciocinar pela base, propaga "falsos conceitos doutrinários originados das nossas ideias pessoais pouco esclarecidas".
+
+Daí dois critérios práticos que ela repõe a partir de Kardec:
+
+1. **Primado das obras da Codificação sobre as mediúnicas.** As contribuições mediúnicas (sobretudo os romances) são preciosas, mas precisam ser "calcadas sobre os princípios inabaláveis erigidos por Allan Kardec e seus continuadores"; sem conhecer as obras básicas não há como "analisar a perícia da arte literária de além-túmulo" nem escapar "do perigo do sofisma e das opiniões particulares". A advertência do Espírito de Verdade ancora o ponto: "Não mistureis o joio com a boa semente, as utopias com as verdades" (ESE, cap. VI).
+2. **Concordância como aferição.** Ela invoca a regra da Introdução do ESE — "Uma só garantia séria existe para o ensino dos Espíritos: a concordância que haja entre as revelações que eles façam espontaneamente, servindo-se de grande número de médiuns estranhos uns aos outros e em vários lugares" (ESE, Introdução) — para defender obras como as de André Luiz contra a recusa apriorística: não negar gratuitamente, mas "estudar, pesquisar, examinar".
+
+É a mesma fé raciocinada de ESE cap. XIX, aplicada à higiene do movimento espírita: crer porque se compreende, e medir toda produção mediúnica pela Codificação.
+
 ## Aplicação prática
 
 Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada como convite ao exame livre — o ouvinte jamais deve ser constrangido a acreditar. O estudante espírita cultiva a fé raciocinada pelo estudo metódico das obras da Codificação e pela observação dos fenômenos mediúnicos com critério e discernimento.
@@ -62,6 +73,8 @@ Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada c
 - [[wiki/conceitos/caridade]] — a fé que se traduz em obras
 - [[wiki/conceitos/tres-revelacoes]] — o Espiritismo como revelação da razão
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XIX
+- [[wiki/obras/a-luz-do-consolador]] — fé raciocinada como disciplina de estudo metódico pela base
+- [[wiki/personalidades/yvonne-pereira]] — repõe o primado das obras da Codificação contra o sofisma
 
 ## Nas Obras Póstumas
 
@@ -72,3 +85,4 @@ No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocina
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 4–7.
 - Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.
 - *Bíblia Sagrada* (ACF). Segunda Epístola aos Coríntios, 5:6–7. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*A verdade mediúnica*, *O estranho mundo dos suicidas*, *Convite ao estudo*, *Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]]. Critério: ESE, Introdução; cap. VI.

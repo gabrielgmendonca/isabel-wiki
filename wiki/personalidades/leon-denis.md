@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [Léon Denis]
 tags: [autor, complementar, filosofo-espirita, autor/leon-denis, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-07
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -57,9 +57,14 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 > "A força engendra o movimento, mas a força não é a lei. Cega e sem-guia, ela não poderia produzir a ordem e a harmonia no Universo." (*O Grande Enigma*, cap. I)
 
+## Atuação como Espírito — revisão de *Memórias de um Suicida*
+
+Segundo a autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] (em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), foi Léon Denis quem, já desencarnado, **refez doutrinariamente** *Memórias de um Suicida* — recebido por ela de Camilo Castelo Branco em 1926, mas que "Camilo, o seu autor espiritual, não o completara devidamente, não lhe dera aquela feição doutrinária necessária". Apresentando-se à médium, Denis declarou: "Vamos refazer o livro sobre o suicídio. Ele está incompleto, não poderá ser publicado como está." Só após essa revisão a obra foi aceita pela FEB e publicada (1956). Datum biográfico que ilustra a continuidade de seu trabalho doutrinário no plano espiritual; ver [[wiki/conceitos/suicidio]].
+
 ## Páginas relacionadas
 
 - [[wiki/personalidades/allan-kardec]] — codificador cuja obra Denis continuou
+- [[wiki/personalidades/yvonne-pereira]] · [[wiki/obras/a-luz-do-consolador]] — revisão de *Memórias de um Suicida*
 - [[wiki/conceitos/reencarnacao]] — tema central de sua obra filosófica
 - [[wiki/conceitos/potencias-da-alma]] — conceito desenvolvido na Parte 3 de *O Problema do Ser*
 - [[wiki/conceitos/dor]] — a dor como instrumento educativo, tema de destaque

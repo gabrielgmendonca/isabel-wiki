@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, C&I, ESE, NT]
 tags: [provas, expiacoes, reencarnacao, sofrimento, justica-divina, livre-arbitrio, hebreus, obra/le, obra/ci, obra/ese, autor/kardec, grau/intermediario, lei/liberdade, tema/sofrimento]
-atualizado_em: 2026-04-21
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -18,6 +18,12 @@ A encarnação é imposta a uns como expiação, a outros como missão. "A vida 
 
 - **Prova**: dificuldade que o Espírito solicita para testar suas forças e adquirir méritos. O Espírito errante pode escolher o gênero de prova, embora nem sempre esteja em condições de escolher com acerto (LE, q. 258–262).
 - **Expiação**: sofrimento que é consequência direta de faltas passadas. Não é escolhido, mas aceito como condição da nova encarnação.
+
+### Causas atuais das aflições (ESE, cap. V, 4–5)
+
+Antes de remontar a vidas passadas, Kardec distingue **duas fontes** das vicissitudes: "Umas têm sua causa na vida presente; outras, fora desta vida" (ESE, cap. V, item 4). Boa parte dos males "são consequência natural do caráter e do proceder dos que os suportam": "Quantos homens caem por sua própria culpa! Quantos são vítimas de sua imprevidência, de seu orgulho e de sua ambição!" (ESE, cap. V, item 4). E mesmo a falta que a lei humana não pune não escapa às suas consequências, porque "não há falta alguma, por mais leve que seja [...] que não acarrete forçosas e inevitáveis consequências" (ESE, cap. V, item 5).
+
+Esse polo — o sofrimento que **criamos agora**, por uso indevido do [[wiki/conceitos/livre-arbitrio|livre-arbítrio]], distinto da expiação de vidas anteriores — é o que [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] desenvolve em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]] (crônica *Tormentos voluntários*), citando precisamente esse trecho do ESE. Seu caso ilustrativo: a mulher que, por cólera e impaciência, atira-se com os filhos diante de um trem — não trouxera "ao reencarnar, seu trágico destino"; trouxera "a prova da paciência e da resignação na pobreza", e o desastre foi "criação dela, falindo no testemunho que deveria dar". São os "tormentos voluntários" — efeito da própria vontade, evitáveis "com um pouco de moderação", "uma prece do coração ou um apelo à razão".
 
 ### As vicissitudes da vida
 
@@ -67,4 +73,5 @@ Distinguir prova de expiação ajuda a evitar dois extremos comuns: culpar a si 
 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. I (Introdução); q. 258–262; Parte 4, cap. II, q. 984–989. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. III. FEB.
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. III — "Há muitas moradas na casa de meu Pai"; cap. V — "Bem-aventurados os aflitos", itens 4–5 ("Causas atuais das aflições"). Trad. Guillon Ribeiro. FEB.
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Tormentos voluntários*; *Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].

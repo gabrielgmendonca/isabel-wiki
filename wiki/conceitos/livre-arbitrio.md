@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, NT]
 tags: [livre-arbitrio, liberdade, responsabilidade, fatalidade, paulo, romanos, tiago, tentacao, obra/le, obra/ese, lei/liberdade, lei/progresso, autor/kardec, autor/paulo, autor/tiago, grau/intermediario, tema/livre-arbitrio]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-05-19
 status: ativo
 ---
 
@@ -91,6 +91,10 @@ Ver [[wiki/divergencias/predestinacao-em-romanos-8-9]].
 
 - [[wiki/divergencias/predestinacao-em-romanos-8-9]] — leitura literalista de Rm 8:29–30; 9:11–23 vs. LE q. 843 (livre-arbítrio como fundamento do homem moral).
 
+## Aplicação — Yvonne Pereira: homicídio e suicídio não são destino
+
+Na crônica *Destino e livre-arbítrio* de [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]], [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] enfrenta o sofisma corrente entre iniciantes — o de que o homicida reencarnaria "com o destino de matar" e o suicida "com o destino de matar a si próprio". A refutação é estritamente kardequiana: "a lei da reencarnação foi estabelecida [...] tendo por alvo o progresso, a evolução da criatura e não a sua desgraça"; se alguém se torna homicida ou suicida, "agiu por sua própria iniciativa, serviu-se do livre-arbítrio", pois "não somos escravos nem autômatos" — eco direto de LE q. 843 ("sem o livre-arbítrio, o homem seria máquina"). Mesmo quando um Espírito, levado pelo remorso, escolhe livremente reencarnação em que sucumbirá pelo homicídio, aquele que o mata "não trouxe o destino de o assassinar": fê-lo por uso indevido do próprio livre-arbítrio, não por determinação da Lei de Deus — articulação coerente com a escolha prévia das provas (LE, q. 851) sem anulação da liberdade diante das circunstâncias.
+
 ## Desenvolvimento por Léon Denis
 
 Denis dedica o cap. 22 de *O Problema do Ser e do Destino* ao livre-arbítrio, reafirmando o ensino de Kardec. Insere o tema no contexto mais amplo das "potências da alma" (vontade, consciência, pensamento), argumentando que a liberdade cresce com o desenvolvimento dessas faculdades.
@@ -108,4 +112,5 @@ Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/obras/o-problema-do-ser-e-do-de
 - Kardec, Allan. *O Livro dos Espíritos*, q. 843–872, q. 258, q. 780. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (itens 8–9) e cap. XVII (item 7). Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 22. Trad. Homero Dias de Carvalho. CELD, 2011.
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 8:29–30; 9:11–23; 14:10, 12. Ver [[wiki/obras/epistola-aos-romanos]].
