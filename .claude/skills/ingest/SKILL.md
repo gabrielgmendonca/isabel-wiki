@@ -32,24 +32,35 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
 
-### Passos 1–2 — Leitura, discussão e plano
+### Passos 1–2 — Leitura, dedup e plano
 
-1. **Ler** o arquivo em `raw/`.
-2. **Checar duplicatas via qmd**: `mcp__qmd__query` com `intent`, `collections: ["wiki"]`, `limit: 5`, `minScore: 0.5` e duas sub-queries — `lex` pelo título da obra, `vec` pelos conceitos centrais. Resultado entra no plano (se já existir página próxima, propor consolidação em vez de criar nova).
-3. **Apresentar 5–10 pontos-chave em prosa** para o usuário (resposta de texto normal, sem tool call). Isso permite ajustes antes do plano formal.
-4. **Chamar `EnterPlanMode`** com o plano de escrita estruturado. O plano deve conter, no mínimo:
-   - **Classificação**: nível doutrinário (1/2/3/4) e justificativa.
-   - **Páginas a criar**: lista de `wiki/obras/<slug>.md`, `wiki/personalidades/<slug>.md`, `wiki/conceitos/<slug>.md` com 1 linha de propósito cada.
-   - **Páginas a atualizar**: existentes que ganham seção/citação (resultado da checagem de duplicatas).
-   - **Direitos autorais**: detentor previsto e `url_aquisicao` (se obra protegida).
-   - **Divergências com Kardec**: lista de pontos a flaggar (ou "nenhuma identificada").
-   - **Atualizações finais**: `catalogo.md` e `log.md`. `index.md` **não** é tocado pelo `/ingest` (a linha "Cobertura atual" é responsabilidade do `/stats`, rodado periodicamente na `main` — evita conflitos entre worktrees paralelas).
-   
-   Se o usuário rejeitar o plano, ajustar e re-submeter — não escrever nada.
+1. **Ler** o arquivo em `raw/`. Para fontes grandes (>1000 linhas), abrir via `mcp__qmd__get <path>:<offset>` em vez de `Read` integral (ver `busca-qmd.md`).
+2. **Checar duplicatas via qmd**: `mcp__qmd__query` com `intent`, `collections: ["wiki"]`, `limit: 5`, `minScore: 0.5` e duas sub-queries — `lex` pelo título da obra, `vec` pelos conceitos centrais.
+3. **Checar lar canônico de cada fio conceitual**: antes de cunhar qualquer slug de conceito novo, rodar qmd + `ls wiki/conceitos/` por termos **kardecianos** vizinhos. Se já houver página na terminologia de Kardec, o plano propõe consolidar nela; só criar nova quando nenhum lar existir, nomeando pela linguagem da fonte/Kardec — nunca rótulo cunhado (`primado-das-obras-basicas` era glosa de `fe-raciocinada`; slug inventado polui o grafo e duplica doutrina já presente).
+4. **Chamar `EnterPlanMode`** com o plano em três blocos visualmente separados. Disciplina de tamanho é contrato da skill — o plano é superfície de revisão, não relatório; cada bloco tem orçamento próprio:
+
+   **§0 — Ficha da fonte** (teto ~15 linhas, mesma forma toda vez — o olho do revisor aprende onde olhar):
+   - Linha 1: obra · autor (espiritual/médium se psicografia) · nível doutrinário proposto + justificativa em 1 frase.
+   - 3–6 teses centrais, 1 linha cada, **cada uma com a citação-âncora** `(sigla, ref)`.
+   - Divergências candidatas com Kardec: 1 linha cada, ou "nenhuma aparente".
+   - Duplicatas qmd: "consolidar em [[X]]" (com score) ou "nada próximo".
+
+   **§A — Decisões (precisa do seu julgamento)** — só itens decision-grade, 1 linha de razão cada:
+   - Classificação nível 1/2/3/4 + justificativa.
+   - Consolidação: páginas existentes que absorvem o material (resultado da dedup) em vez de página nova.
+   - Conceitos **página própria vs. inline**: para cada um, o fio conceitual + resultado da checagem de lar canônico (Passo 3) + slug proposto na terminologia de Kardec/fonte. É aqui que o julgamento editorial mais erra.
+   - Divergências a flaggar (ou "nenhuma").
+   - Direitos: detentor previsto (ou "desconhecido — confirmo com você") e `url_aquisicao` se protegida.
+
+   **§B — Execução (idempotente — FYI, não aprova item a item)** — lista compacta, sem prosa:
+   - Páginas a criar: `wiki/obras/<slug>.md`, `wiki/personalidades/<slug>.md`, `wiki/conceitos/<slug>.md` — só os slugs.
+   - Enrich scripts a rodar; `catalogo.md`; `log.md`. `index.md` **não** é tocado (linha "Cobertura atual" é do `/stats` na `main` — evita conflito entre worktrees).
+
+   Se o usuário rejeitar o plano, ajustar e re-submeter — não escrever nada. Uma leitura errada da fonte aparece em §0 e custa só uma rejeição, não conteúdo escrito.
 
 ## Fase de escrita
 
-Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
+Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar. **Trabalhar sem narração intermediária** — não anunciar cada passo ("agora crio X… agora atualizo Y…"). As únicas superfícies que falam com o usuário são o plano (§0/§A/§B) e o relatório de verificação final (Passo 7).
 
 1. **Criar** `wiki/obras/<slug>.md` ou `wiki/personalidades/<slug>.md`. Nos Dados bibliográficos da página de obra, incluir `**Texto integral:** [[raw/<caminho-da-fonte>]]` apontando para o arquivo original em `raw/`.
 
@@ -66,7 +77,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
    3. `uv run python .claude/skills/ingest/scripts/find_leal_url.py wiki/obras/<slug>.md --set https://www.livrarialeal.com.br/<categoria>/<slug>.html` — grava em `direitos.url_aquisicao`.
 2. **Extrair e vincular**:
    - **Autor(es) da obra**: atualizar `wiki/personalidades/<slug>.md` adicionando a nova obra em `## Obras associadas` (ou criar a página se não existir). Para psicografias, fazer isso tanto para o médium quanto para o autor espiritual (ex.: Chico Xavier **e** Emmanuel para *O Consolador*).
-   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas. **Conceito tratável isoladamente** (tem definição, ensino de Kardec e aplicação prática) → **página própria linkada**, nunca seção inline numa página maior — só assim aparece em buscas e alimenta o grafo. Levantar proativamente os fios conceituais transversais que atravessam vários capítulos da obra e pedem destinação dedicada, mesmo quando já existe um conceito-mãe (pode haver subconceito autônomo). Seção inline apenas para desdobramento sem autonomia conceitual; em dúvida, default para página própria.
+   - **Personalidades citadas e conceitos**: atualizar páginas existentes (consolidar, não substituir) ou criar novas. **Conceito tratável isoladamente** (tem definição, ensino de Kardec e aplicação prática) → **página própria linkada**, nunca seção inline numa página maior — só assim aparece em buscas e alimenta o grafo. Levantar proativamente os fios conceituais transversais que atravessam vários capítulos da obra e pedem destinação dedicada, mesmo quando já existe um conceito-mãe (pode haver subconceito autônomo). Seção inline apenas para desdobramento sem autonomia conceitual; em dúvida, default para página própria — **mas esse default só vale sem lar canônico**: se a checagem do Passo 3 achou página na terminologia de Kardec, consolidar nela; slug novo nomeia pela linguagem da fonte/Kardec, nunca rótulo cunhado.
    - **Série André Luiz** — para todo livro da série, identificar o(s) **Espírito(s) orientador(es)** que conduz(em) a narrativa (varia por volume) e garantir que tenha(m) página própria em `wiki/personalidades/`. Se ainda não existir, criar; se existir, enriquecer com material da nova obra. Não assumir o orientador a partir de memória — confirmar lendo o próprio texto em `raw/`.
 
 > [!note] Escopo
@@ -80,4 +91,9 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar:
    - **`tema/*`** (1-3 valores em conjunto fechado: `tema/deus`, `tema/espiritos`, `tema/encarnacao`, `tema/mediunidade`, `tema/moral`, `tema/jesus`, `tema/vida-futura`, `tema/sociedade`, `tema/livre-arbitrio`, `tema/prece-caridade`, `tema/sofrimento`, `tema/historia-doutrina`) — **atribuir manualmente** no frontmatter de cada página criada/atualizada. Não há script; o significado é semântico.
    - `lei/*` (10 valores) quando a página tratar de lei moral — `uv run python scripts/enrich_tags_lei.py --apply` cobre os casos óbvios; complementar manual.
 6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases. Não tocar `index.md` — a linha "Cobertura atual" é regenerada pelo `/stats` na `main` (evita conflito entre worktrees paralelas; `log.md` usa `merge=union` no `.gitattributes` e auto-mescla).
-7. **Reportar** arquivos criados/atualizados e sugerir rodar `/lint` para verificar integridade da wiki após a ingestão (links, frontmatter, taxonomia).
+7. **Relatório de verificação** (por exceção, forma fixa — substitui a lista chapada de arquivos):
+   - **Citações novas afirmadas**: lista `(sigla, ref) — página` de toda afirmação doutrinária nova, para spot-check do usuário.
+   - **Divergências flaggadas**: onde e o quê, 1 linha cada (ou "nenhuma").
+   - **Desvios do plano aprovado**: o que mudou na escrita vs. §A, declarado explicitamente (ou "sem desvios").
+   - **Arquivos**: criados/atualizados em 1 linha, no fim.
+   - Sugerir rodar `/lint` para verificar integridade da wiki (links, frontmatter, taxonomia).
