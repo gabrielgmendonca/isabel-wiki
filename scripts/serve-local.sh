@@ -42,6 +42,7 @@ cp "$REPO_ROOT/static/og-image.png" "$QUARTZ_DIR/quartz/static/og-image.png"
 cp "$REPO_ROOT/quartz.config.ts" "$QUARTZ_DIR/quartz.config.ts"
 cp "$REPO_ROOT/quartz.layout.ts" "$QUARTZ_DIR/quartz.layout.ts"
 cp -r "$REPO_ROOT/quartz-overrides/components/"* "$QUARTZ_DIR/quartz/components/"
+cp "$REPO_ROOT/quartz-overrides/styles/custom.scss" "$QUARTZ_DIR/quartz/styles/custom.scss"
 
 echo "==> Aplicando link_citations.py"
 uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/content/wiki"

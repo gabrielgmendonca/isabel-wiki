@@ -1,5 +1,97 @@
 @use "./base.scss";
 
+// ── IsAbel design system overrides ─────────────────────────────────────────
+// Refinos sobre a paleta/tipografia que o quartz.config.ts já injeta.
+// O que precisa virar override aqui é o que Quartz não expõe via config:
+// (a) decouplar texto-meta do "cinza desabilitado",
+// (b) blockquote em EB Garamond UPRIGHT com regra sage,
+// (c) tipografia da tagline e ícones do explorer,
+// (d) largura das colunas (Quartz hard-coda 320px de painel lateral).
+
+// (1) EB Garamond — para wordmark, blockquotes e copy cerimonial.
+//     Não é token de tipografia no quartz.config; o <link> é injetado
+//     em quartz-overrides/components/Head.tsx (não dá pra usar @import
+//     aqui porque o bundler do Quartz concatena custom.scss depois de
+//     base.scss e CSS exige que @import preceda toda outra regra).
+
+// (2) Desacopla "texto-meta" do "cinza desabilitado".
+//     Quartz usa --gray (#b8b8b8) para os dois; em fundo creme falha em contraste.
+//     --gray permanece para regras/UI desabilitada; meta ganha valor próprio.
+:root {
+  --fg-meta: #6e6e6a;
+}
+:root[saved-theme="dark"] {
+  --fg-meta: #9c9c98;
+}
+
+// (3) Cabeçalhos: garante que todos os níveis sigam --dark.
+//     Quartz v4.4.0 já entrega isto; deixamos como rede de segurança
+//     contra regressão em upgrades futuros.
+article h4,
+article h5,
+article h6,
+.popover-inner h4 {
+  color: var(--dark);
+}
+
+// (4) Blockquote — EB Garamond UPRIGHT (Quartz default é serif itálico).
+//     Regra lateral sage de 3px.
+article blockquote,
+.popover-inner blockquote {
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  border-left: 3px solid var(--secondary);
+  padding: 6px 20px;
+  letter-spacing: 0.002em;
+}
+
+// (5) Meta / breadcrumbs / tags — usam --fg-meta, não --gray.
+//     Selectors conferidos contra /tmp/quartz/quartz/components/*.tsx (v4.4.0):
+//     - .content-meta (ContentMeta.tsx — antes mapeado para var(--gray))
+//     - .breadcrumb-container (Breadcrumbs.tsx)
+//     - .tags (TagList.tsx) — herda --darkgray do base; aqui força meta
+.content-meta,
+.breadcrumb-container,
+.breadcrumb-container a,
+.tags {
+  color: var(--fg-meta);
+}
+
+// (6) Separador do breadcrumb (Quartz renderiza " › " dentro de <p>).
+.breadcrumb-element > p {
+  color: var(--fg-meta);
+}
+
+// (7) Ícones da árvore lateral (chevron + folder-icon).
+//     Quartz default tinta em --secondary (sage); o design pede neutro
+//     para que sage fique reservado a links/acentos.
+.explorer .folder-icon,
+.explorer svg.folder-icon polyline {
+  color: var(--fg-meta);
+  stroke: var(--fg-meta);
+}
+.explorer .folder-icon:hover {
+  color: var(--secondary);
+  stroke: var(--secondary);
+}
+
+// (8) Layout: trilhos laterais mais estreitos, gap mais respirado.
+//     Quartz hard-coda 320px / 5px / 1500px em styles/variables.scss; sobrescrevemos
+//     apenas no desktop (>1200px), preservando o colapso mobile/tablet.
+@media all and (min-width: 1201px) {
+  .page {
+    max-width: 1320px;
+
+    & > #quartz-body {
+      grid-template-columns: 200px minmax(0, 1fr) 220px;
+      column-gap: 40px;
+    }
+  }
+}
+
 // ── Mermaid ───────────────────────────────────────────────────────────────
 // O Quartz v4.4.0 inicializa o Mermaid com o tema stock (`default`/`dark`),
 // sem nenhuma integração com a paleta do site — no tema claro as arestas saem
