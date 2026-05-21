@@ -3,6 +3,11 @@
 globs match the target of an Edit/Write/MultiEdit, or the wiki/raw path
 referenced by a Bash search command (grep/rg/find/ag).
 
+Also injects `convencoes-shell.md` unconditionally when a Bash command matches
+a high-signal "shell hazard" pattern (`sed -i`, `mapfile`, `readarray`) — these
+are the markers of bash-4-or-GNU habits that fail silently on macOS bash 3.2 +
+BSD coreutils. Gate is by command regex, not by file path.
+
 Outputs a `hookSpecificOutput` JSON with `additionalContext` so Claude sees the
 rule before the tool runs. For file edits, also sets `permissionDecision: "allow"`
 to keep the existing no-friction UX. For Bash, omits the permission decision so
@@ -21,6 +26,10 @@ import yaml
 
 SEARCH_CMD_RE = re.compile(r"\b(grep|rg|ripgrep|fgrep|egrep|find|ag)\b")
 WIKI_RAW_REL_RE = re.compile(r"(?:^|[\s'\"=({])((?:wiki|raw)(?:/[\w\-./*?]+)?)")
+# High-signal markers: sed in-place (BSD/GNU divergence + classic for+sed silent
+# failure) and bash 4 array builtins (don't exist on macOS bash 3.2).
+SHELL_HAZARD_RE = re.compile(r"\bsed\s+-i\b|\bmapfile\b|\breadarray\b")
+SHELL_RULE_NAME = "convencoes-shell.md"
 
 
 def parse_frontmatter(text: str) -> tuple[list[str], str]:
@@ -88,6 +97,20 @@ def derive_rel(tool_name: str, tool_input: dict, cwd: str) -> str | None:
     return None
 
 
+def _load_rule_body(rules_dir: Path, name: str) -> str | None:
+    """Read a rule file by filename and return its body (frontmatter stripped)."""
+    rule_file = rules_dir / name
+    if not rule_file.is_file():
+        return None
+    try:
+        text = rule_file.read_text(encoding="utf-8")
+    except OSError as exc:
+        print(f"inject-rules: cannot read {name}: {exc}", file=sys.stderr)
+        return None
+    _, body = parse_frontmatter(text)
+    return body.strip()
+
+
 def main() -> int:
     try:
         event = json.load(sys.stdin)
@@ -100,7 +123,10 @@ def main() -> int:
     cwd = event.get("cwd") or os.getcwd()
 
     rel = derive_rel(tool_name, tool_input, cwd)
-    if not rel:
+    bash_cmd = tool_input.get("command") or "" if tool_name == "Bash" else ""
+    shell_hazard = bool(bash_cmd and SHELL_HAZARD_RE.search(bash_cmd))
+
+    if not rel and not shell_hazard:
         return 0
 
     rules_dir = Path(cwd) / ".claude" / "rules"
@@ -108,26 +134,37 @@ def main() -> int:
         return 0
 
     matched: list[tuple[str, str]] = []
-    for rule_file in sorted(rules_dir.glob("*.md")):
-        try:
-            text = rule_file.read_text(encoding="utf-8")
-        except OSError as exc:
-            print(f"inject-rules: cannot read {rule_file.name}: {exc}", file=sys.stderr)
-            continue
-        paths, body = parse_frontmatter(text)
-        if not paths:
-            continue
-        if any(path_matches(rel, p) for p in paths):
-            matched.append((rule_file.name, body.strip()))
+    if rel:
+        for rule_file in sorted(rules_dir.glob("*.md")):
+            try:
+                text = rule_file.read_text(encoding="utf-8")
+            except OSError as exc:
+                print(f"inject-rules: cannot read {rule_file.name}: {exc}", file=sys.stderr)
+                continue
+            paths, body = parse_frontmatter(text)
+            if not paths:
+                continue
+            if any(path_matches(rel, p) for p in paths):
+                matched.append((rule_file.name, body.strip()))
+
+    if shell_hazard and not any(n == SHELL_RULE_NAME for n, _ in matched):
+        body = _load_rule_body(rules_dir, SHELL_RULE_NAME)
+        if body:
+            matched.append((SHELL_RULE_NAME, body))
 
     if not matched:
         return 0
 
     names = ", ".join(n for n, _ in matched)
     sections = "\n\n---\n\n".join(f"<!-- {n} -->\n{b}" for n, b in matched)
-    additional = (
+    header = (
         f"Regras do projeto aplicáveis a `{rel}` "
-        f"(carregadas automaticamente pelo hook inject-rules):\n\n{sections}"
+        if rel
+        else "Regras do projeto aplicáveis ao comando Bash "
+    )
+    additional = (
+        header
+        + f"(carregadas automaticamente pelo hook inject-rules):\n\n{sections}"
     )
 
     hook_output: dict = {
