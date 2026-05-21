@@ -5,8 +5,7 @@
 // O que precisa virar override aqui é o que Quartz não expõe via config:
 // (a) decouplar texto-meta do "cinza desabilitado",
 // (b) blockquote em EB Garamond UPRIGHT com regra sage,
-// (c) tipografia da tagline e ícones do explorer,
-// (d) largura das colunas (Quartz hard-coda 320px de painel lateral).
+// (c) tipografia da tagline e ícones do explorer.
 
 // (1) EB Garamond — para wordmark, blockquotes e copy cerimonial.
 //     Não é token de tipografia no quartz.config; o <link> é injetado
@@ -76,20 +75,6 @@ article blockquote,
 .explorer .folder-icon:hover {
   color: var(--secondary);
   stroke: var(--secondary);
-}
-
-// (8) Layout: trilhos laterais mais estreitos, gap mais respirado.
-//     Quartz hard-coda 320px / 5px / 1500px em styles/variables.scss; sobrescrevemos
-//     apenas no desktop (>1200px), preservando o colapso mobile/tablet.
-@media all and (min-width: 1201px) {
-  .page {
-    max-width: 1320px;
-
-    & > #quartz-body {
-      grid-template-columns: 200px minmax(0, 1fr) 220px;
-      column-gap: 40px;
-    }
-  }
 }
 
 // ── Mermaid ───────────────────────────────────────────────────────────────
