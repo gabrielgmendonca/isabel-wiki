@@ -39,6 +39,12 @@ from _slug import (  # noqa: E402
     has_artifact_marker,
     is_canonical_slug,
 )
+from kardec_structure import (  # noqa: E402
+    SIGLA_NORM,
+    load_structures,
+    resolve_locus,
+)
+from link_citations import KARDEC_RE  # noqa: E402
 
 STALE_DAYS = 14
 
@@ -531,6 +537,52 @@ def check_citation_format(pages: list[Path]) -> dict:
                         "path": str(page),
                         "line": i,
                         "citation": citation,
+                    })
+    return {"severity": "warning", "count": len(items), "items": items}
+
+
+def check_citation_resolves(pages: list[Path]) -> dict:
+    """Check — citações (sigla, ref) cujo locus não existe na obra-fonte.
+
+    Camada baixa da verificação de fidelidade: bate cada citação ao Pentateuco
+    contra a estrutura real da obra (parts, chapters, intro_items, range de
+    questão). Captura typo de número, sigla com parte que não existe e cap.
+    fora do range. **Não** verifica se o trecho citado sustenta a afirmação —
+    essa é a versão estrita, que exige granularidade questão/item em `raw/`
+    (§4 do ROADMAP).
+
+    Skip por design (mesma política de `check_canonical_names`):
+    - Citações em blockquote (transcrição literal de outra fonte).
+    - Citações em inline/fenced code (exemplo/placeholder).
+    - Siglas sem estrutura carregada (RE, OPE, OQE, complementares).
+
+    **Wikilinks não são strippados**: citações dentro de `[[obras/X|(LE q. N)]]`
+    são reais e devem ser validadas; mais importante, encadear a próxima sigla
+    via wikilink-com-alias (`…; [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. IX`)
+    é padrão idiomático na wiki — NEXT_SIGLA_RE precisa ver `|<sigla>` para
+    truncar corretamente.
+    """
+    structures = load_structures()
+    items: list[dict] = []
+    for page in pages:
+        text = page.read_text(encoding="utf-8")
+        # Frontmatter pode ter `fontes: [LE, ...]` sem parêntese — não casa
+        # KARDEC_RE — então skip-frontmatter explícito é desnecessário.
+        body = strip_inline_code(text)
+        body = _strip_blockquotes(body)
+        for i, line in enumerate(body.splitlines(), 1):
+            for m in KARDEC_RE.finditer(line):
+                sigla = SIGLA_NORM.get(m.group("sigla"), m.group("sigla"))
+                structure = structures.get(sigla)
+                if structure is None:
+                    continue
+                ok, reason = resolve_locus(m.group("sigla"), m.group("rest"), structure)
+                if not ok:
+                    items.append({
+                        "path": str(page),
+                        "line": i,
+                        "citation": m.group(0),
+                        "reason": reason,
                     })
     return {"severity": "warning", "count": len(items), "items": items}
 
@@ -1407,6 +1459,7 @@ CHECK_REGISTRY = {
     "orphan_pages": check_orphan_pages,
     "fontes_missing": check_fontes_section,
     "citation_format": check_citation_format,
+    "citation_resolves": check_citation_resolves,
     "low_citations": check_low_citations,
     "rascunho_stale": check_rascunho_stale,
     "divergencias_aberta": check_divergencias_aberta,
@@ -1438,6 +1491,7 @@ SINGLE_FILE_CHECKS = (
     "frontmatter",
     "fontes_missing",
     "citation_format",
+    "citation_resolves",
     "broken_links",
     "low_citations",
     "rascunho_stale",

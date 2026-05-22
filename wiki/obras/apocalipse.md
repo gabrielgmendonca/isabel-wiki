@@ -284,7 +284,7 @@ Ver [[raw/biblia-acf/apocalipse/22]].
 
 ## Temas centrais para o estudo espírita
 
-1. **João arrebatado em Espírito** (1:10; 4:1–2) — descrição mediúnica de êxtase com desdobramento parcial do perispírito (LM 1ª parte cap. VI; Gênese cap. XIV). O Apocalipse é, em chave espírita, **registro de comunicação mediúnica extensa** dirigida ao apóstolo idoso em Patmos.
+1. **João arrebatado em Espírito** (1:10; 4:1–2) — descrição mediúnica de êxtase com desdobramento parcial do perispírito (LM 2ª parte cap. VI; Gênese cap. XIV). O Apocalipse é, em chave espírita, **registro de comunicação mediúnica extensa** dirigida ao apóstolo idoso em Patmos.
 
 2. **Os sete Espíritos diante do trono** (1:4; 4:5; 5:6) — alegoria do conjunto coletivo dos Espíritos puros que servem ao plano divino e atuam na Terra. Convergência direta com LE q. 113 (Espíritos puros) e q. 538–540 (Espíritos protetores). Ver [[wiki/conceitos/sete-espiritos-de-deus]].
 

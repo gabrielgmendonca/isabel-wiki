@@ -93,7 +93,7 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar. **Trabalh
    - `lei/*` (10 valores) quando a página tratar de lei moral — `uv run python scripts/enrich_tags_lei.py --apply` cobre os casos óbvios; complementar manual.
 6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases. Não tocar `index.md` — a linha "Cobertura atual" é regenerada pelo `/stats` na `main` (evita conflito entre worktrees paralelas; `log.md` usa `merge=union` no `.gitattributes` e auto-mescla).
 7. **Relatório de verificação** (por exceção, forma fixa — substitui a lista chapada de arquivos):
-   - **Citações novas afirmadas**: lista `(sigla, ref) — página` de toda afirmação doutrinária nova, para spot-check do usuário.
+   - **Citações novas inválidas**: lista `(sigla, ref) — página` apenas para citações que falharam em `check_citation_resolves` (camada baixa de fidelidade — capítulo/parte/questão fora da estrutura da obra; cobertura: Pentateuco). O hook PostToolUse já roda essa checagem por arquivo após cada Write/Edit; aqui só consolida o que sobrou. Citações cujo locus existe ficam fora do relatório — "trecho sustenta a afirmação?" continua editorial (depende do usuário, não automatizável na versão leve).
    - **Divergências flaggadas**: onde e o quê, 1 linha cada (ou "nenhuma").
    - **Desvios do plano aprovado**: o que mudou na escrita vs. §A, declarado explicitamente (ou "sem desvios").
    - **Arquivos**: criados/atualizados em 1 linha, no fim.
