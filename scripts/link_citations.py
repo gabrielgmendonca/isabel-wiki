@@ -212,7 +212,7 @@ def link_complementar(obras_index: set[str]) -> callable:
             return original
         # Wikilink Obsidian; o pipe preserva o texto da citação como label.
         label = original.replace("|", r"\|")
-        return f"[[obras/{slug}|{label}]]"
+        return f"[[wiki/obras/{slug}|{label}]]"
     return repl
 
 

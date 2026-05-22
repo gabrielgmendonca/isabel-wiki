@@ -141,7 +141,7 @@ class LinkCitationsTests(unittest.TestCase):
         self.assertEqual(text, self.run_transform(text))
 
     def test_inside_wikilink_left_intact(self) -> None:
-        text = "[[obras/o-livro-dos-espiritos|(LE, q. 990)]]"
+        text = "[[wiki/obras/o-livro-dos-espiritos|(LE, q. 990)]]"
         self.assertEqual(text, self.run_transform(text))
 
     # ─── Heading: linkagem normal (parser ignora '#') ─────────────────────────
@@ -166,7 +166,7 @@ class LinkCitationsTests(unittest.TestCase):
         self.assertNotIn("kardecpedia", out.lower())
         self.assertNotIn("example.test/le/", out)
         # Deve virar wikilink complementar (obra existe na fixture).
-        self.assertIn("[[obras/o-problema-do-ser-e-do-destino|", out)
+        self.assertIn("[[wiki/obras/o-problema-do-ser-e-do-destino|", out)
 
     # ─── Revista Espírita ─────────────────────────────────────────────────────
 
@@ -194,7 +194,7 @@ class LinkCitationsTests(unittest.TestCase):
 
     def test_complementar_known_obra_becomes_wikilink(self) -> None:
         out = self.run_transform("(Emmanuel / Chico Xavier, *O Consolador*, q. 123)")
-        self.assertIn("[[obras/o-consolador|", out)
+        self.assertIn("[[wiki/obras/o-consolador|", out)
 
     def test_complementar_unknown_obra_left_intact(self) -> None:
         text = "(Hammed, *Obra Inexistente*, cap. I)"
@@ -203,7 +203,18 @@ class LinkCitationsTests(unittest.TestCase):
     def test_complementar_strips_article_for_slug_match(self) -> None:
         # "Nosso Lar" em wiki/obras/nosso-lar.md — slug exato.
         out = self.run_transform("(André Luiz / Chico Xavier, *Nosso Lar*, cap. 1)")
-        self.assertIn("[[obras/nosso-lar|", out)
+        self.assertIn("[[wiki/obras/nosso-lar|", out)
+
+    def test_complementar_wikilink_uses_wiki_prefix(self) -> None:
+        # Regressão (2026-05-22): o gerador produzia `[[obras/<slug>|...]]` sem o
+        # prefixo `wiki/`, que não resolve no Quartz nem no `check_broken_links`
+        # do lint (este só audita o source, e o link malformado nasce em CI).
+        # Toda referência a obra dentro de wikilink deve trazer o prefixo `wiki/`.
+        out = self.run_transform(
+            "(André Luiz / Chico Xavier, *Nosso Lar*, cap. 1)",
+        )
+        self.assertIn("[[wiki/obras/nosso-lar|", out)
+        self.assertNotIn("[[obras/", out)
 
 
 class ResolveObraSlugTests(unittest.TestCase):
