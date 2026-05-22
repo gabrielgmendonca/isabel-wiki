@@ -35,9 +35,10 @@ DEFAULT_OBRAS = ROOT / "wiki" / "obras"
 SAFE_RE = re.compile(
     r"```.*?```"                  # fenced code (DOTALL)
     r"|`[^`\n]+`"                 # inline code
+    r"|^#+\s[^\n]*"               # ATX heading — auto-link em heading não renderiza
     r"|\[\[[^\]\n]+\]\]"          # [[wikilink]] or [[wikilink|alias]]
     r"|\[[^\]\n]+\]\([^)\n]+\)",  # [text](url)
-    re.DOTALL,
+    re.DOTALL | re.MULTILINE,
 )
 
 # ─── Kardec citations ─────────────────────────────────────────────────────────
