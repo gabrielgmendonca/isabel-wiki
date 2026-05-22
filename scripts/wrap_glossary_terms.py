@@ -2,7 +2,9 @@
 """Pré-processa páginas da wiki envolvendo termos do dicionário em <abbr>.
 
 Lê `data/dicionario.json` e, para cada termo, envolve a **primeira ocorrência
-por página** em `<abbr title="definição">termo</abbr>`. Não toca:
+por página** em `<abbr data-tooltip="definição" aria-label="definição">termo</abbr>`.
+`data-tooltip` alimenta o tooltip CSS (instantâneo, sem o delay nativo do
+`title=`); `aria-label` mantém a leitura por screen readers. Não toca:
 
 - frontmatter YAML (entre `---` no topo);
 - linhas de heading (`#`, `##`, ...);
@@ -73,7 +75,7 @@ def wrap_first_in_segment(segment: str, term: str, definicao: str) -> tuple[str,
     Retorna (novo_segmento, achou).
     """
     pattern = build_term_pattern(term)
-    title = html.escape(definicao, quote=True)
+    tooltip = html.escape(definicao, quote=True)
 
     for m in pattern.finditer(segment):
         # Detecta a linha em que o match começa.
@@ -84,7 +86,9 @@ def wrap_first_in_segment(segment: str, term: str, definicao: str) -> tuple[str,
         if HEADING_RE.match(line):
             continue
         original = m.group(0)
-        replacement = f'<abbr title="{title}">{original}</abbr>'
+        replacement = (
+            f'<abbr data-tooltip="{tooltip}" aria-label="{tooltip}">{original}</abbr>'
+        )
         return segment[:m.start()] + replacement + segment[m.end():], True
     return segment, False
 

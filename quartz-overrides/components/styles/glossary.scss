@@ -1,9 +1,13 @@
 // Estilo para termos do dicionário (data/dicionario.json) envolvidos em
-// <abbr> pelo script scripts/wrap_glossary_terms.py durante o build.
+// <abbr data-tooltip="..." aria-label="..."> pelo script
+// scripts/wrap_glossary_terms.py durante o build.
 //
-// Objetivo: marcar o termo como tendo definição-no-hover sem chamar atenção.
+// Objetivo: marcar o termo como tendo definição-no-hover sem chamar atenção,
+// e mostrar a definição num tooltip CSS-puro instantâneo — sem o delay de
+// ~500ms do tooltip nativo `title=`.
 
-article abbr[title] {
+article abbr[data-tooltip] {
+  position: relative;
   text-decoration: underline dotted;
   text-decoration-color: var(--darkgray);
   text-decoration-thickness: 2px;
@@ -11,4 +15,39 @@ article abbr[title] {
   cursor: help;
   // Remove o estilo padrão de alguns navegadores (small caps no Firefox antigo).
   font-variant: inherit;
+
+  // Tooltip via pseudo-elemento: aparece imediato no hover/focus.
+  // pointer-events:none impede que o tooltip "engula" o hover do termo.
+  &::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: calc(100% + 0.4em);
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+
+    background: var(--dark);
+    color: var(--light);
+    padding: 0.4em 0.7em;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-family: var(--bodyFont);
+    line-height: 1.35;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: left;
+    white-space: normal;
+    width: max-content;
+    max-width: min(28rem, 80vw);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 80ms ease-out;
+  }
+
+  &:hover::after,
+  &:focus::after {
+    opacity: 1;
+  }
 }
