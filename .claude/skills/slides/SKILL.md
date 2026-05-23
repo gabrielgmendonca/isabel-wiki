@@ -7,7 +7,7 @@ description: Gera apresentação Marp (PPTX + PDF) a partir de uma página da wi
 
 Gatilhos: `/slides <página>` · "fazer slides de X" · "deck para palestra sobre X"
 
-Convenções obrigatórias: ler `.claude/rules/convencoes-slides.md` antes de propor outline.
+Convenções obrigatórias: ler `.claude/rules/convencoes-slides.md` (estrutura e densidade) e `.claude/rules/convencoes-perguntas-socraticas.md` (critérios A/B/C para perguntas-ponte) antes de propor outline.
 
 ## Premissa
 
