@@ -64,7 +64,7 @@ Qualquer tentativa de construir doutrinas esotéricas (ordem de Melquisedeque co
 
 - **Gênesis 14:18–20** — aparição única no Pentateuco hebraico. Texto integral em [[raw/biblia-acf/genesis/14]].
 - **Salmo 110:4** — profecia messiânica do "sacerdote eternamente segundo a ordem de Melquisedeque". Texto integral em [[raw/biblia-acf/salmos/110]].
-- **[[wiki/obras/epistola-aos-hebreus|Epístola aos Hebreus]]** — desenvolvimento tipológico extenso: caps. 5:6, 10; 6:20; 7:1–17. Texto integral em [[raw/biblia-acf/hebreus/7]].
+- **[[wiki/obras/epistola-aos-hebreus|Epístola aos Hebreus]]** — desenvolvimento tipológico extenso: caps. 5:6, 10; 6:20; 7:1–17. Texto integral em [[wiki/biblia/hebreus/7]].
 
 ## Citações relevantes
 

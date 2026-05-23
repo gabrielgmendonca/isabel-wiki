@@ -32,7 +32,7 @@ Kardec sublinha três aspectos:
 
 A passagem é o **caso paradigmático** do preceito. Os escribas e fariseus trazem a Jesus uma mulher surpreendida em adultério, lembrando que a Lei de Moisés mandava apedrejá-la (Lv 20:10; Dt 22:22) e perguntam: "Tu, pois, que dizes?" — armadilha que pretendia ou comprometer Jesus com a transgressão da Lei mosaica ou estabelecer-lhe uma posição punitiva incompatível com a misericórdia que ele pregava.
 
-> "E, como insistissem, perguntando-lhe, endireitou-se, e disse-lhes: Aquele que dentre vós está sem pecado seja o primeiro que atire pedra contra ela. E, tornando a inclinar-se para o chão, escrevia na terra. Quando, porém, ouviram isto, redarguidos pela consciência, saíram um a um, a começar pelos mais velhos até aos últimos; ficou só Jesus e a mulher que estava no meio. E, endireitando-se Jesus, e não vendo a ninguém mais além da mulher, disse-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou? E ela disse: Ninguém, Senhor. E disse-lhe Jesus: Nem eu também te condeno; vai-te, e não peques mais." ([[raw/biblia-acf/joao/8|Jo 8:7–11]])
+> "E, como insistissem, perguntando-lhe, endireitou-se, e disse-lhes: Aquele que dentre vós está sem pecado seja o primeiro que atire pedra contra ela. E, tornando a inclinar-se para o chão, escrevia na terra. Quando, porém, ouviram isto, redarguidos pela consciência, saíram um a um, a começar pelos mais velhos até aos últimos; ficou só Jesus e a mulher que estava no meio. E, endireitando-se Jesus, e não vendo a ninguém mais além da mulher, disse-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou? E ela disse: Ninguém, Senhor. E disse-lhe Jesus: Nem eu também te condeno; vai-te, e não peques mais." ([[wiki/biblia/joao/8|Jo 8:7–11]])
 
 A passagem é **lição em três planos**:
 
@@ -59,7 +59,7 @@ Confundir a recusa do julgamento condenatório com **omissão moral** é leitura
 
 Lucas, no Sermão da Planície, formula em quatro tempos o que Mateus condensou em dois:
 
-> "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e soltar-vos-ão. Dai, e ser-vos-á dado." ([[raw/biblia-acf/lucas/6|Lc 6:37–38]])
+> "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e soltar-vos-ão. Dai, e ser-vos-á dado." ([[wiki/biblia/lucas/6|Lc 6:37–38]])
 
 A passagem articula **julgar / condenar / perdoar / dar** como sequência única — quatro modos de medida que voltam ao próprio em mesma proporção.
 
@@ -67,7 +67,7 @@ A passagem articula **julgar / condenar / perdoar / dar** como sequência única
 
 [[wiki/personalidades/paulo-de-tarso|Paulo]], em Romanos 14, aplica o preceito ao caso concreto das **questões secundárias** (comer ou não certos alimentos, observar ou não certos dias) que dividiam a comunidade romana:
 
-> "Mas tu, por que julgas a teu irmão? Ou tu, também, por que desprezas a teu irmão? Pois todos havemos de comparecer ante o tribunal de Cristo. [...] Não nos julguemos mais uns aos outros; mas antes julgai isto: não pôr tropeço ou escândalo ao irmão." ([[raw/biblia-acf/romanos/14|Rm 14:10, 13]], ACF)
+> "Mas tu, por que julgas a teu irmão? Ou tu, também, por que desprezas a teu irmão? Pois todos havemos de comparecer ante o tribunal de Cristo. [...] Não nos julguemos mais uns aos outros; mas antes julgai isto: não pôr tropeço ou escândalo ao irmão." ([[wiki/biblia/romanos/14|Rm 14:10, 13]], ACF)
 
 Paulo distingue: **julgar a si mesmo** ("dará conta de si mesmo a Deus", Rm 14:12) é dever; **julgar ao irmão** em matérias indiferentes é usurpação de função divina. A passagem é leitura matriz do **respeito ao livre-arbítrio do outro** em pontos onde a Lei moral propriamente dita não se pronuncia. Ver [[wiki/conceitos/livre-arbitrio]].
 
@@ -75,7 +75,7 @@ Paulo distingue: **julgar a si mesmo** ("dará conta de si mesmo a Deus", Rm 14:
 
 [[wiki/personalidades/tiago-irmao-do-senhor|Tiago]] dá ao preceito a sua formulação mais lapidar:
 
-> "Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei, já não és observador da lei, mas juiz. Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outrem?" ([[raw/biblia-acf/tiago/4|Tg 4:11–12]])
+> "Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei, já não és observador da lei, mas juiz. Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outrem?" ([[wiki/biblia/tiago/4|Tg 4:11–12]])
 
 O argumento de Tiago é elegante: a Lei (a "lei real" de Tg 2:8 — "amarás a teu próximo como a ti mesmo") já julga; quem se põe acima dela para julgar o irmão **passa de observador a juiz**, usurpando função que cabe só a Deus. A maledicência (Tg 3:9–10) é o **modo cotidiano** dessa usurpação. Ver [[wiki/obras/epistola-de-tiago]].
 
@@ -113,5 +113,5 @@ A casa espírita é lugar onde o preceito é cotidianamente exigido. Algumas apl
 ## Fontes
 
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. **Cap. X — "Bem-aventurados os que são misericordiosos"**, esp. itens 9 (sede indulgentes), 10 (do direito de censurar; ver os defeitos próprios antes dos alheios), 14 (não julgueis para que não sejais julgados), 16 (indulgência) e 18 (da maledicência).
-- *Bíblia Sagrada* (ACF). Mateus 7:1–5 (Sermão da Montanha); Lucas 6:37–38 (Sermão da Planície); João 7:53–8:11 (mulher adúltera); Romanos 14; Tiago 4:11–12. Edição: [[raw/biblia-acf/joao/8]] · [[raw/biblia-acf/tiago/4]] · [[raw/biblia-acf/romanos/14]] · [[raw/biblia-acf/lucas/6]].
+- *Bíblia Sagrada* (ACF). Mateus 7:1–5 (Sermão da Montanha); Lucas 6:37–38 (Sermão da Planície); João 7:53–8:11 (mulher adúltera); Romanos 14; Tiago 4:11–12. Edição: [[wiki/biblia/joao/8]] · [[wiki/biblia/tiago/4]] · [[wiki/biblia/romanos/14]] · [[wiki/biblia/lucas/6]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 886 (caridade como benevolência, indulgência para as imperfeições dos outros, perdão das ofensas).

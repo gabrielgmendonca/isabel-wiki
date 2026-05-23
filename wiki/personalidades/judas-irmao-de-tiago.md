@@ -25,7 +25,7 @@ status: ativo
 
 ### No ministério de Jesus
 
-Como os demais irmãos, **não cria** durante o ministério público ([[raw/biblia-acf/joao/7|Jo 7:5]] — "nem mesmo seus irmãos criam nele"). A conversão dos irmãos do Senhor se dá no pós-Páscoa: At 1:14 os situa, já crentes, no cenáculo com Maria e os apóstolos. A trajetória de **incredulidade → adesão** é, na leitura espírita, exemplo concreto de **reforma íntima** ao longo de uma existência (ESE cap. XVII): a proximidade biológica não dispensa o trabalho moral próprio — a fé não se herda, conquista-se.
+Como os demais irmãos, **não cria** durante o ministério público ([[wiki/biblia/joao/7|Jo 7:5]] — "nem mesmo seus irmãos criam nele"). A conversão dos irmãos do Senhor se dá no pós-Páscoa: At 1:14 os situa, já crentes, no cenáculo com Maria e os apóstolos. A trajetória de **incredulidade → adesão** é, na leitura espírita, exemplo concreto de **reforma íntima** ao longo de uma existência (ESE cap. XVII): a proximidade biológica não dispensa o trabalho moral próprio — a fé não se herda, conquista-se.
 
 ### Autor de carta apostólica
 

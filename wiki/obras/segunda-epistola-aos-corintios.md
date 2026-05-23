@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Segunda Epístola do Apóstolo Paulo aos Coríntios (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico não-evangélico). Citada **explicitamente por Kardec na Introdução do ESE** (princípio "a letra mata, o espírito vivifica" — 3:6); lida à luz do Pentateuco.
 - **Capítulos:** 13
-- **Texto integral:** [[raw/biblia-acf/2-corintios/1]]
+- **Texto integral:** [[wiki/biblia/2-corintios/1]]
 
 ## Cabeçalho
 
@@ -42,10 +42,10 @@ Para o estudo espírita, 2 Coríntios é precioso por oito razões:
 
 > "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação; que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." (2 Co 1:3–4)
 
-A **consolação** paulina não é anestesia: é capacitação para consolar. Quem foi consolado torna-se ministro da consolação — eco direto da [[wiki/conceitos/bem-aventuranca-dos-aflitos|bem-aventurança dos aflitos]] e de ESE cap. V (item 12: "a resignação que leva o padecente a bendizer do sofrimento, como prelúdio da cura"). Paulo descreve sua aflição na Ásia como "agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos" (1:8) — ponto extremo, atravessado em fé. "Todas quantas promessas há de Deus, são nele sim, e por ele o Amém" (1:20) sinaliza fidelidade contratual de Deus às criaturas. Ver [[raw/biblia-acf/2-corintios/1]].
+A **consolação** paulina não é anestesia: é capacitação para consolar. Quem foi consolado torna-se ministro da consolação — eco direto da [[wiki/conceitos/bem-aventuranca-dos-aflitos|bem-aventurança dos aflitos]] e de ESE cap. V (item 12: "a resignação que leva o padecente a bendizer do sofrimento, como prelúdio da cura"). Paulo descreve sua aflição na Ásia como "agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos" (1:8) — ponto extremo, atravessado em fé. "Todas quantas promessas há de Deus, são nele sim, e por ele o Amém" (1:20) sinaliza fidelidade contratual de Deus às criaturas. Ver [[wiki/biblia/2-corintios/1]].
 - **Conceitos:** [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/dor]], [[wiki/conceitos/resignacao]]
 
-**Cap. 2 — Perdão ao ofensor; "fragrância de Cristo".** Paulo intercede pelo membro disciplinado: "deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza" (2:7). A correção fraterna não pode degenerar em destruição moral; o perdão é parte da economia da reparação (cf. ESE cap. X). "**Não ignoramos os seus ardis**" (2:11) — sobre Satanás (em chave espírita: os mecanismos pelos quais Espíritos inferiores exploram divisões e ressentimentos). "Para Deus somos o bom perfume de Cristo" (2:15) — metáfora da influência fluídica do bem. "Não somos, como muitos, falsificadores da palavra de Deus" (2:17) — abertura para o tema da nova aliança no cap. 3. Ver [[raw/biblia-acf/2-corintios/2]].
+**Cap. 2 — Perdão ao ofensor; "fragrância de Cristo".** Paulo intercede pelo membro disciplinado: "deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza" (2:7). A correção fraterna não pode degenerar em destruição moral; o perdão é parte da economia da reparação (cf. ESE cap. X). "**Não ignoramos os seus ardis**" (2:11) — sobre Satanás (em chave espírita: os mecanismos pelos quais Espíritos inferiores exploram divisões e ressentimentos). "Para Deus somos o bom perfume de Cristo" (2:15) — metáfora da influência fluídica do bem. "Não somos, como muitos, falsificadores da palavra de Deus" (2:17) — abertura para o tema da nova aliança no cap. 3. Ver [[wiki/biblia/2-corintios/2]].
 - **Conceitos:** [[wiki/conceitos/arrependimento]], [[wiki/conceitos/nao-julgar]]
 
 **Cap. 3 — Cartas vivas; ministério do espírito; véu sobre o coração.** Capítulo doutrinariamente decisivo. Três blocos:
@@ -58,7 +58,7 @@ A **consolação** paulina não é anestesia: é capacitação para consolar. Qu
 
 Kardec aplica o critério à própria leitura dos Evangelhos: a letra (texto histórico, formulação cultural, alegoria, interpolação) **passa**; o espírito (sentido moral profundo, lei divina inscrita na consciência) **permanece e vivifica**. É o fundamento epistemológico da hermenêutica espírita — sem ele, a Doutrina cairia ou no literalismo dogmático ou no relativismo arbitrário.
 
-**(c) O véu sobre o coração (3:14–18).** "Até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido" (3:14); "quando se converterem ao Senhor, então o véu se tirará" (3:16). Paulo lê **alegoricamente** o véu de Moisés (Êx 34:33–35) como cifra da incompreensão das escrituras enquanto não houver conversão moral. "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade" (3:17) — articulação entre verdade interior, espírito e liberdade, coerente com ESE cap. XIX (fé raciocinada) e com a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872). "**Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor**" (3:18) — formulação paulina do progresso espiritual ascendente "de glória em glória". Ver [[raw/biblia-acf/2-corintios/3]].
+**(c) O véu sobre o coração (3:14–18).** "Até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido" (3:14); "quando se converterem ao Senhor, então o véu se tirará" (3:16). Paulo lê **alegoricamente** o véu de Moisés (Êx 34:33–35) como cifra da incompreensão das escrituras enquanto não houver conversão moral. "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade" (3:17) — articulação entre verdade interior, espírito e liberdade, coerente com ESE cap. XIX (fé raciocinada) e com a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825–872). "**Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor**" (3:18) — formulação paulina do progresso espiritual ascendente "de glória em glória". Ver [[wiki/biblia/2-corintios/3]].
 - **Conceitos:** [[wiki/conceitos/cartas-vivas-de-jesus]], [[wiki/conceitos/tres-revelacoes]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/progresso-espiritual]]
 
 **Cap. 4 — Tesouro em vasos de barro; renovação interior; eterno vs. temporal.** "Não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus" (4:5) — desativação programática do culto à personalidade do apóstolo.
@@ -71,7 +71,7 @@ Aplicação espírita direta: o **médium é vaso, não fonte**. A faculdade med
 
 > "Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente; **não atentando nós nas coisas que se vêem, mas nas que se não vêem; porque as que se vêem são temporais, e as que se não vêem são eternas**." (2 Co 4:17–18)
 
-Eco direto de Rm 8:18 ("aflições não são para comparar com a glória que em nós há de ser revelada") e fundamento paulino da chave kardequiana sobre a **utilidade do sofrimento** (ESE cap. V; LE q. 919–921). Ver [[raw/biblia-acf/2-corintios/4]].
+Eco direto de Rm 8:18 ("aflições não são para comparar com a glória que em nós há de ser revelada") e fundamento paulino da chave kardequiana sobre a **utilidade do sofrimento** (ESE cap. V; LE q. 919–921). Ver [[wiki/biblia/2-corintios/4]].
 - **Conceitos:** [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/dor]], [[wiki/conceitos/expiacao-e-reparacao]], [[wiki/conceitos/cartas-vivas-de-jesus]]
 
 **Cap. 5 — Tabernáculo terrestre e casa eterna; nova criatura; reconciliação.** Capítulo central para a doutrina espírita da continuidade da vida.
@@ -86,18 +86,18 @@ Em chave espírita: o "tabernáculo" (corpo físico) é morada provisória; a "c
 
 > "Assim que, se alguém está em Cristo, **nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo**." (2 Co 5:17)
 
-A "nova criatura" paulina é figura do Espírito em **renovação moral progressiva** — sintonizado à moral do Cristo, deixa para trás hábitos viciosos. "Reconciliação" (5:18–20) como ministério apostólico: "somos embaixadores da parte de Cristo". Em chave espírita, **missionariado moral** (ver [[wiki/conceitos/verdadeiro-espirita]]). Ver [[raw/biblia-acf/2-corintios/5]].
+A "nova criatura" paulina é figura do Espírito em **renovação moral progressiva** — sintonizado à moral do Cristo, deixa para trás hábitos viciosos. "Reconciliação" (5:18–20) como ministério apostólico: "somos embaixadores da parte de Cristo". Em chave espírita, **missionariado moral** (ver [[wiki/conceitos/verdadeiro-espirita]]). Ver [[wiki/biblia/2-corintios/5]].
 - **Conceitos:** [[wiki/conceitos/perispirito]], [[wiki/conceitos/morte]], [[wiki/conceitos/vida-futura]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]], [[wiki/conceitos/responsabilidade]]
 
 **Cap. 6 — Ministros recomendados pelas aflições; jugo desigual.** Catálogo paulino das marcas do verdadeiro ministério: "muita paciência, aflições, necessidades, angústias, açoites, prisões, tumultos, trabalhos, vigílias, jejuns" (6:4–5) somadas a "pureza, ciência, longanimidade, benignidade, no Espírito Santo, no amor não fingido" (6:6). A **autoridade moral nasce da provação atravessada com retidão** — não dos títulos.
 
-"Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?" (6:14) — princípio das **afinidades espirituais**. Em chave espírita, paralelo com a lei de sintonia que rege as comunicações mediúnicas e as obsessões (cf. LM, 2ª parte, cap. XXIII). Ver [[raw/biblia-acf/2-corintios/6]].
+"Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?" (6:14) — princípio das **afinidades espirituais**. Em chave espírita, paralelo com a lei de sintonia que rege as comunicações mediúnicas e as obsessões (cf. LM, 2ª parte, cap. XXIII). Ver [[wiki/biblia/2-corintios/6]].
 
 **Cap. 7 — Tristeza segundo Deus; alegria pela vinda de Tito.** Tema doutrinário decisivo:
 
 > "**A tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte**." (2 Co 7:10)
 
-Distinção paulina entre **arrependimento construtivo** (que reconhece a falta, pede reparação e gera renovação moral) e **remorso estéril** (que paralisa, deprime e não corrige). Convergência total com LE q. 994 ("O arrependimento é da alma...") e ESE cap. X (item 7). O arrependimento espírita é da mesma família: ato moral ativo, não autoflagelação. Ver [[raw/biblia-acf/2-corintios/7]] e [[wiki/aprofundamentos/expiacao-e-arrependimento]].
+Distinção paulina entre **arrependimento construtivo** (que reconhece a falta, pede reparação e gera renovação moral) e **remorso estéril** (que paralisa, deprime e não corrige). Convergência total com LE q. 994 ("O arrependimento é da alma...") e ESE cap. X (item 7). O arrependimento espírita é da mesma família: ato moral ativo, não autoflagelação. Ver [[wiki/biblia/2-corintios/7]] e [[wiki/aprofundamentos/expiacao-e-arrependimento]].
 - **Conceitos:** [[wiki/conceitos/arrependimento]], [[wiki/conceitos/expiacao-e-reparacao]]
 
 ### Coleta para os santos (caps. 8–9)
@@ -112,7 +112,7 @@ Cristo como modelo do **dom desinteressado**.
 
 > "[...] mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade." (2 Co 8:13–14)
 
-Princípio paulino da **circulação solidária dos bens** — eco direto da [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) e do "tudo lhes era comum" de At 4:32. Não é igualdade rígida nem comunismo de bens, mas **equilíbrio dinâmico** entre comunidades. Ver [[raw/biblia-acf/2-corintios/8]].
+Princípio paulino da **circulação solidária dos bens** — eco direto da [[wiki/conceitos/leis-morais/lei-de-igualdade|Lei de Igualdade]] (LE q. 803–824) e do "tudo lhes era comum" de At 4:32. Não é igualdade rígida nem comunismo de bens, mas **equilíbrio dinâmico** entre comunidades. Ver [[wiki/biblia/2-corintios/8]].
 
 **Cap. 9 — A bênção da semeadura; Deus ama o que dá com alegria.**
 
@@ -124,14 +124,14 @@ Quatro princípios paulinos da caridade autêntica:
 3. **Alegria** (não com tristeza ou por necessidade — caridade resignada não é caridade);
 4. **Liberalidade** (sem cálculo mesquinho).
 
-Convergência total com ESE cap. XIII (item 4 — "Dai gratuitamente o que gratuitamente recebestes") e com LE q. 888–890 (caridade como ato ativo e desinteressado). Ver [[raw/biblia-acf/2-corintios/9]].
+Convergência total com ESE cap. XIII (item 4 — "Dai gratuitamente o que gratuitamente recebestes") e com LE q. 888–890 (caridade como ato ativo e desinteressado). Ver [[wiki/biblia/2-corintios/9]].
 - **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-igualdade]], [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 
 ### Apologia defensiva (caps. 10–13)
 
 Mudança de tom: Paulo enfrenta diretamente os opositores que questionavam sua autoridade apostólica.
 
-**Cap. 10 — Armas espirituais; gloriar-se no Senhor.** "Porque, andando na carne, não militamos segundo a carne. Porque **as armas da nossa milícia não são carnais, mas sim poderosas em Deus**" (10:3–4) — formulação paulina da batalha espiritual sem violência física. "Aquele, porém, que se gloria, glorie-se no Senhor" (10:17, citando Jr 9:24) — desativação do orgulho apostólico. Ver [[raw/biblia-acf/2-corintios/10]].
+**Cap. 10 — Armas espirituais; gloriar-se no Senhor.** "Porque, andando na carne, não militamos segundo a carne. Porque **as armas da nossa milícia não são carnais, mas sim poderosas em Deus**" (10:3–4) — formulação paulina da batalha espiritual sem violência física. "Aquele, porém, que se gloria, glorie-se no Senhor" (10:17, citando Jr 9:24) — desativação do orgulho apostólico. Ver [[wiki/biblia/2-corintios/10]].
 
 **Cap. 11 — Falsos apóstolos; Satanás como anjo de luz; catálogo das aflições paulinas.** Capítulo doutrinariamente capital para o discernimento espírita.
 
@@ -139,7 +139,7 @@ Mudança de tom: Paulo enfrenta diretamente os opositores que questionavam sua a
 
 Formulação paulina decisiva do **critério do discernimento dos espíritos**: **aparência luminosa não basta**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, em chave kardequiana, é **moral e prática**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Convergência total com LM, 2ª parte, cap. XXIV (identificação dos Espíritos) e com ESE cap. XXI ("Haverá falsos cristos e falsos profetas"). Ver [[wiki/conceitos/discernimento-dos-espiritos]].
 
-O catálogo autobiográfico paulino (11:23–28) — açoites, prisões, naufrágios, fome, sede, perigos no mar e em terra, "a oprimir-me cada dia o cuidado de todas as igrejas" — é prova do princípio de 6:4–10: o ministério verdadeiro **autentica-se pelas aflições atravessadas**, não pelas credenciais ostentadas. Ver [[raw/biblia-acf/2-corintios/11]].
+O catálogo autobiográfico paulino (11:23–28) — açoites, prisões, naufrágios, fome, sede, perigos no mar e em terra, "a oprimir-me cada dia o cuidado de todas as igrejas" — é prova do princípio de 6:4–10: o ministério verdadeiro **autentica-se pelas aflições atravessadas**, não pelas credenciais ostentadas. Ver [[wiki/biblia/2-corintios/11]].
 - **Conceitos:** [[wiki/conceitos/discernimento-dos-espiritos]], [[wiki/conceitos/identidade-dos-espiritos]], [[wiki/conceitos/mercantilizacao-da-mediunidade]]
 
 **Cap. 12 — Arrebatamento ao terceiro céu; espinho na carne.** Paulo narra (em terceira pessoa, por humildade) a experiência mais alta de êxtase mediúnico do NT:
@@ -158,12 +158,12 @@ Em chave espírita, formulação paulina das **provas reparadoras pedagógicas**
 2. **Limites da prece pelo desvio da prova:** Paulo "três vezes orou ao Senhor para que se desviasse" e recebeu como resposta a graça suficiente, não a remoção. A prece não tira a prova quando esta é necessária; **fortalece para atravessá-la**. Eco direto da prece de Jesus em Getsêmani (Mt 26:39).
 3. **"O meu poder se aperfeiçoa na fraqueza":** princípio paradoxal espírita — a fraqueza assumida sem revolta abre canal para o auxílio espiritual; o orgulho da força fecha. "Quando estou fraco então sou forte" (12:10) é formulação paulina da humildade ativa.
 
-Ver [[raw/biblia-acf/2-corintios/12]].
+Ver [[wiki/biblia/2-corintios/12]].
 - **Conceitos:** [[wiki/conceitos/emancipacao-da-alma]], [[wiki/conceitos/provas-e-expiacoes]], [[wiki/conceitos/humildade]], [[wiki/conceitos/prece]]
 
 **Cap. 13 — Examinai-vos; saudação trinitária.** "**Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos**" (13:5) — reformulação do autoexame paulino de 1 Co 11:28. Convergência direta com LE q. 919 ("Conhece-te a ti mesmo" — Santo Agostinho) e com a prática espírita do exame moral diário (ESE cap. XVII, item 4).
 
-A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que o cristianismo posterior chamaria trinitária: "**A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós**". Para o Espiritismo, três aspectos da mesma realidade divina: a misericórdia (graça), o amor essencial (Deus) e a comunhão pela ação espiritual (Espírito Santo, que Kardec lê como o conjunto dos Espíritos elevados a serviço da revelação progressiva — cf. ESE cap. VI). Ver [[raw/biblia-acf/2-corintios/13]].
+A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que o cristianismo posterior chamaria trinitária: "**A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós**". Para o Espiritismo, três aspectos da mesma realidade divina: a misericórdia (graça), o amor essencial (Deus) e a comunhão pela ação espiritual (Espírito Santo, que Kardec lê como o conjunto dos Espíritos elevados a serviço da revelação progressiva — cf. ESE cap. VI). Ver [[wiki/biblia/2-corintios/13]].
 - **Conceitos:** [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/fe]]
 
 ## Temas centrais para o estudo espírita
@@ -265,7 +265,7 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Segunda Epístola aos Coríntios, caps. 1–13. Texto integral em [[raw/biblia-acf/2-corintios/1]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Segunda Epístola aos Coríntios, caps. 1–13. Texto integral em [[wiki/biblia/2-corintios/1]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução (princípio hermenêutico "a letra mata, o espírito vivifica"); caps. V (utilidade do sofrimento), VI (Consolador), X (perdão das ofensas), XI (caridade desinteressada), XIII (dai gratuitamente), XV (Fora da caridade não há salvação), XVII (regeneração), XIX (fé raciocinada), XXI (Haverá falsos cristos e falsos profetas), XXIV (bom pastor), XXVII (prece).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 131 (Satanás como figura alegórica), 150 (perispírito após a morte), 165–169 (morte como libertação), 257–266 (provas escolhidas), 400–418 (emancipação da alma), 530 (afinidades), 638 (responsabilidade), 765 (não-violência), 776–800 (Lei do Progresso), 803–824 (Lei de Igualdade), 825–872 (Lei de Liberdade), 888–890 (caridade ativa), 919–921 (sofrimento como meio de progresso), 994 (arrependimento).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XIX (médium como intérprete; êxtase), cap. XX (influência moral do médium), cap. XXIII (obsessão e sintonia), cap. XXIV (identificação dos Espíritos).

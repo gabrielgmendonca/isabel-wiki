@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo Paulo aos Colossenses (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico, "epístola do cativeiro"). Lido à luz do Pentateuco. Citada seletivamente por Kardec (a tese da unidade do corpo de Cristo e a crítica ao culto dos anjos têm aplicação direta ao estudo da mediunidade).
 - **Capítulos:** 4
-- **Texto integral:** [[raw/biblia-acf/colossenses/1]] (continua nos capítulos 2, 3 e 4).
+- **Texto integral:** [[wiki/biblia/colossenses/1]] (continua nos capítulos 2, 3 e 4).
 
 ## Cabeçalho
 
@@ -64,7 +64,7 @@ Quatro afirmações nucleares: (a) Cristo é imagem do Deus invisível; (b) atra
 
 **"Cristo em vós, esperança da glória" (1:27)** — fórmula da habitação interior. Paralelo direto com ESE cap. XVII (templo de Deus em vós) e com a internalização moral do Cristo (ESE cap. XV). A "glória" é o progresso espiritual realizado, não recompensa extrínseca.
 
-Ver [[raw/biblia-acf/colossenses/1]].
+Ver [[wiki/biblia/colossenses/1]].
 
 - **Conceitos:** [[wiki/personalidades/jesus]]; [[wiki/conceitos/transicao-planetaria]] (correlação cosmológica via *A Caminho da Luz*).
 
@@ -86,7 +86,7 @@ Ver [[raw/biblia-acf/colossenses/1]].
 
 A leitura espírita preserva integralmente o alerta paulino: a mediunidade que vira culto a entidades nomeadas é **desvio**, não evolução. A devoção é a Deus, mediada pelo Cristo; os Espíritos amigos são companheiros de jornada, nunca objetos de adoração.
 
-Ver [[raw/biblia-acf/colossenses/2]].
+Ver [[wiki/biblia/colossenses/2]].
 
 - **Conceitos:** [[wiki/conceitos/emancipacao-da-alma]] (2:5); [[wiki/conceitos/fe-raciocinada]] (2:8); [[wiki/conceitos/discernimento-dos-espiritos]] (2:18); [[wiki/conceitos/leis-morais/lei-de-adoracao]] (2:16–23).
 
@@ -125,7 +125,7 @@ Embora dirigido inicialmente aos servos (3:22), o princípio é universal — Pa
 
 Cl 3:17 é o par antecedente: "**quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus**". O par 3:17 + 3:23 sela a universalização paulina do culto.
 
-Ver [[raw/biblia-acf/colossenses/3]].
+Ver [[wiki/biblia/colossenses/3]].
 
 - **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]] (3:9–10); [[wiki/conceitos/caridade]] (3:14); [[wiki/conceitos/leis-morais/lei-do-trabalho]] (3:23); [[wiki/conceitos/leis-morais/lei-de-adoracao]] (3:17, 23).
 
@@ -150,7 +150,7 @@ Ver [[raw/biblia-acf/colossenses/3]].
 
 **Saudação de próprio punho (4:18)** — "Saudação de minha mão, de Paulo. Lembrai-vos das minhas prisões". Selo autógrafo paulino, comum em suas cartas (cf. 1 Co 16:21; Gl 6:11; 2 Ts 3:17). Memória física do cativeiro romano.
 
-Ver [[raw/biblia-acf/colossenses/4]].
+Ver [[wiki/biblia/colossenses/4]].
 
 - **Conceitos:** [[wiki/conceitos/prece]] (4:2).
 
@@ -232,7 +232,7 @@ Ver [[raw/biblia-acf/colossenses/4]].
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Colossenses, caps. 1–4. Texto integral em [[raw/biblia-acf/colossenses/1]] e seguintes.
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Colossenses, caps. 1–4. Texto integral em [[wiki/biblia/colossenses/1]] e seguintes.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 14 (causa primária); 400–418 (emancipação da alma); 625 (Jesus); 658–664 (prece); 674–685 (Lei do Trabalho); 768–775 (solidariedade); 803–824 (Lei de Igualdade); 829–831 (Lei de Liberdade); 886 (fé raciocinada); 906–919 (combate aos vícios).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução; cap. I (item 11 — adoração só a Deus); cap. V; cap. IX; cap. X (item 7 — pureza da intenção); cap. XI (fraternidade); cap. XIV; cap. XV (item 10 — obras da caridade); cap. XVI (Mamon); cap. XVII (Sede perfeitos); cap. XIX (fé raciocinada); cap. XXIII (linguagem ao ouvinte); cap. XXV (jejum); cap. XXVII (prece).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XXIV (identificação dos Espíritos).

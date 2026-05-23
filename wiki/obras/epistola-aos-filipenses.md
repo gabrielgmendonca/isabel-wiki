@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo Paulo aos Filipenses (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico não-evangélico). Citada seletivamente por Kardec e referida no [[wiki/personalidades/paulo-de-tarso|verbete sobre Paulo]] (Fp 1:21 — "para mim o viver é Cristo, e o morrer é ganho" — convicção paulina da imortalidade); o hino cristológico (Fp 2:5–11 — kenose) é referência clássica para a doutrina espírita da humildade do Espírito missionário, à luz de LE q. 625 (Jesus como "tipo mais perfeito"). Lida à luz do Pentateuco.
 - **Capítulos:** 4
-- **Texto integral:** [[raw/biblia-acf/filipenses/1]]
+- **Texto integral:** [[wiki/biblia/filipenses/1]]
 
 ## Cabeçalho
 
@@ -69,7 +69,7 @@ A passagem-síntese vem em 1:21–24:
 
 É o lócus paulino máximo da convicção da imortalidade. Paulo está em vésperas de possível execução, e a serenidade não é resignação passiva — é **escolha consciente**: o desejo pessoal é "partir e estar com Cristo" (desencarnação como passagem para vida superior, 1:23), mas o dever moral pela comunidade ("por amor de vós") leva-o a aceitar continuar encarnado (1:24). Para o Espiritismo, é descrição direta do que LE q. 919 articula como **vontade firme orientada ao bem**: a permanência na "carne" é dever escolhido, não fatalidade.
 
-O capítulo encerra com exortação à firmeza moral em meio à perseguição (1:27–30) — "porque a vós vos foi concedido, em relação a Cristo, não somente crer nele, como também padecer por ele" (1:29). Paralelo com ESE cap. XXIV (não pôr a candeia debaixo do alqueire) e com a doutrina espírita das provas escolhidas pelo Espírito (LE q. 258, q. 851). Ver [[raw/biblia-acf/filipenses/1]].
+O capítulo encerra com exortação à firmeza moral em meio à perseguição (1:27–30) — "porque a vós vos foi concedido, em relação a Cristo, não somente crer nele, como também padecer por ele" (1:29). Paralelo com ESE cap. XXIV (não pôr a candeia debaixo do alqueire) e com a doutrina espírita das provas escolhidas pelo Espírito (LE q. 258, q. 851). Ver [[wiki/biblia/filipenses/1]].
 - **Conceitos:** [[wiki/conceitos/alma]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/provas-e-expiacoes]]
 
 ### Hino da kenose e exortação à unidade (cap. 2)
@@ -104,7 +104,7 @@ A última parte do capítulo (2:19–30) traz duas figuras de cooperadores:
 
 - **Epafrodito** (2:25–30) — "meu irmão e cooperador, e companheiro nos combates, e vosso enviado para prover às minhas necessidades" (2:25). Adoeceu quase à morte servindo Paulo (2:27, 30). Modelo do cooperador que "pela obra de Cristo chegou até bem próximo da morte, não fazendo caso da vida para suprir [...] a falta do vosso serviço" (2:30). Página própria em [[wiki/personalidades/epafrodito]].
 
-Ver [[raw/biblia-acf/filipenses/2]].
+Ver [[wiki/biblia/filipenses/2]].
 - **Conceitos:** [[wiki/conceitos/humildade]], [[wiki/conceitos/kenose-de-cristo]], [[wiki/conceitos/livre-arbitrio]], [[wiki/conceitos/perfeicao-moral]]
 
 ### Polêmica contra os judaizantes; corrida ao alvo (cap. 3)
@@ -143,7 +143,7 @@ A passagem articula três pontos doutrinários:
 
 3. **"A nossa cidade está nos céus" (3:20).** Formulação paulina compacta da prioridade do plano espiritual — eco direto da [[wiki/conceitos/vida-espirita|vida espírita]] como verdadeira condição da alma (LE q. 84–85; C&I 1ª parte cap. III). A "cidade celeste" não é fuga do mundo — é **lar de origem e destino do Espírito**, que está encarnado provisoriamente para progresso. A "transformação do corpo abatido em corpo glorioso" (3:21) é eco direto de 1 Co 15:42–49 (corpo animal × corpo espiritual) e formulação neotestamentária do [[wiki/conceitos/perispirito|perispírito]] (Gênese cap. XIV).
 
-Ver [[raw/biblia-acf/filipenses/3]].
+Ver [[wiki/biblia/filipenses/3]].
 - **Conceitos:** [[wiki/conceitos/leis-morais/lei-do-progresso]], [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/vida-espirita]], [[wiki/conceitos/perispirito]]
 
 ### Preceitos práticos; contentamento aprendido; saudações da casa de César (cap. 4)
@@ -186,7 +186,7 @@ A carta encerra com saudações finais (4:21–23). O detalhe surpreendente:
 
 Há cristãos **dentro da própria casa imperial** em c. 60–62 d.C. — funcionários, escravos domésticos, talvez algum membro da família ampliada de Nero. Sinal direto da penetração silenciosa do evangelho mesmo no centro do poder romano, anos antes da perseguição neroniana de 64.
 
-Ver [[raw/biblia-acf/filipenses/4]].
+Ver [[wiki/biblia/filipenses/4]].
 - **Conceitos:** [[wiki/conceitos/contentamento]], [[wiki/conceitos/prece]], [[wiki/conceitos/leis-morais/lei-de-adoracao]], [[wiki/conceitos/obsessao]]
 
 ## Temas centrais para o estudo espírita
@@ -264,7 +264,7 @@ Ver [[raw/biblia-acf/filipenses/4]].
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, caps. 1–4. Texto integral em [[raw/biblia-acf/filipenses/1]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, caps. 1–4. Texto integral em [[wiki/biblia/filipenses/1]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 84–85 (vida espírita), 115 (perfeição como destino), 150–166 (separação alma-corpo), 258–262 (escolha das provas), 459–471 (relações encarnados/desencarnados), 538–540 (assistência dos Espíritos), 621 (consciência esclarecida), 625 (Jesus como tipo mais perfeito), 660–673 (Lei de Adoração; prece), 776–800 (Lei do Progresso), 843–872 (Lei de Liberdade; livre-arbítrio), 893–919 (perfeição moral), 916 (confiança em Deus), 919 (vontade firme), 922–931 (paixões e progresso), 1009–1012 (escala progressiva).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. II (reino que não é deste mundo), V (bem-aventurados os aflitos), VII (bem-aventurados os pobres de espírito), IX (afetos terrestres), X (misericórdia), XV (caridade como fundamento), XVI (não se pode servir a Deus e a Mamon), XVII (sede perfeitos), XIX (fé viva), XXIV (não pôr a candeia debaixo do alqueire), XXVII–XXVIII (prece).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XIV (perispírito; fluidos); cap. XV (superioridade da natureza de Jesus).

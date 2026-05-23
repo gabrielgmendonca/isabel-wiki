@@ -22,7 +22,7 @@ status: ativo
 - **Título:** Segunda Epístola Universal de S. Pedro (Bíblia ACF). "Universal" por endereçar-se a comunidades amplas — característica das epístolas católicas/gerais (1–2 Pedro, Tiago, 1–3 João, Judas).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado por Kardec sobretudo pelo eixo do **universalismo da longanimidade divina** (3:9, convergente com LE q. 1009 e ESE cap. III sobre transição planetária) e pela formulação da **profecia inspirada** (1:20–21, eco neotestamentário direto da mediunidade tal como descrita em LM cap. XV). A escala de virtudes (1:5–7) é uma das versões apostólicas mais límpidas do crescendo moral que o ESE cap. XV ("Fora da caridade não há salvação") condensa.
 - **Capítulos:** 3
-- **Texto integral:** [[raw/biblia-acf/2-pedro/1]] · [[raw/biblia-acf/2-pedro/2]] · [[raw/biblia-acf/2-pedro/3]]
+- **Texto integral:** [[wiki/biblia/2-pedro/1]] · [[wiki/biblia/2-pedro/2]] · [[wiki/biblia/2-pedro/3]]
 
 ## Cabeçalho
 
@@ -225,7 +225,7 @@ Fechamento da carta com três pontos:
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Segunda Epístola Universal de S. Pedro, capítulos 1–3. Edição: [[raw/biblia-acf/2-pedro/1]] · [[raw/biblia-acf/2-pedro/2]] · [[raw/biblia-acf/2-pedro/3]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Segunda Epístola Universal de S. Pedro, capítulos 1–3. Edição: [[wiki/biblia/2-pedro/1]] · [[wiki/biblia/2-pedro/2]] · [[wiki/biblia/2-pedro/3]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 128–132 (origem dos Espíritos; igualdade); q. 649–673 (Lei de Adoração); q. 702–727 (Lei de Conservação); q. 873–919 (Lei de Justiça, Amor e Caridade); q. 1009 (penas temporárias); q. 1019 (mundos felizes).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. cap. XV (médium inspirado); cap. XVII (Espíritos enganadores); cap. XX (formação do médium); cap. XXVIII (médiuns interesseiros).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. III (transição planetária; "muitas moradas há na casa de meu Pai"); cap. XV ("Fora da caridade não há salvação"); cap. XVII (Sede perfeitos); cap. XIX (fé raciocinada).

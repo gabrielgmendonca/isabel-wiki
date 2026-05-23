@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo Paulo a Filêmon (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico, citado seletivamente por Kardec e lido à luz do Pentateuco. É a **mais curta** das cartas paulinas (25 versículos, capítulo único) e a **única dirigida a um indivíduo sobre matéria pessoal/jurídica privada**, não eclesiástica nem doutrinal. A autoria indisputada lhe dá, dentro da camada apostólica, peso superior ao das Pastorais, apesar da brevidade.
 - **Capítulos:** 1 (25 versículos).
-- **Texto integral:** [[raw/biblia-acf/filemom/1]].
+- **Texto integral:** [[wiki/biblia/filemom/1]].
 
 ## Cabeçalho
 
@@ -92,7 +92,7 @@ Status: tratamento concluído por referência (mesma decisão de [[wiki/obras/ep
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola a Filêmon (capítulo único, 25 versículos). Edição: [[raw/biblia-acf/filemom/1]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola a Filêmon (capítulo único, 25 versículos). Edição: [[wiki/biblia/filemom/1]].
 - *Bíblia Sagrada* (ACF). Epístola aos Colossenses 4:7–17 (círculo de cooperadores; Onésimo em Cl 4:9).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 165–170 (capital moral), q. 803–824 (Lei de Igualdade), q. 829–832 (escravidão contra a lei natural), q. 843 ss. (livre-arbítrio e mérito).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. I, itens 9–11 (sentido do resgate); cap. V (bem-aventurados os aflitos; a Providência); cap. XI (amar o próximo); cap. XIII (fazer o bem sem ostentação); cap. XV (fora da caridade não há salvação); cap. XVII (sede perfeitos; o capital moral).

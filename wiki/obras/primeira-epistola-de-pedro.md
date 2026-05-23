@@ -22,7 +22,7 @@ status: ativo
 - **Título:** Primeira Epístola Universal de S. Pedro (Bíblia ACF — Almeida Corrigida e Fiel). "Universal" por endereçar-se a comunidades amplas, não a uma cidade específica — característica das **epístolas católicas** (gerais) do NT (1–2 Pedro, Tiago, 1–3 João, Judas).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado seletivamente por Kardec, sobretudo pelo eixo das **provações como prova purificadora** (1:6–7; 4:12 — convergente com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. V) e pela linguagem do **"sem acepção de pessoas, julga segundo a obra de cada um"** (1:17 — eco direto de At 10:34, citado em ESE cap. XI). As passagens sobre os "espíritos em prisão" (3:19) e o "evangelho aos mortos" (4:6) são tradicionalmente mobilizadas pela tradição espírita como **base escritural petrina da sobrevivência consciente** e da **continuidade do ministério crístico no plano espiritual**.
 - **Capítulos:** 5
-- **Texto integral:** [[raw/biblia-acf/1-pedro/1]] · [[raw/biblia-acf/1-pedro/2]] · [[raw/biblia-acf/1-pedro/3]] · [[raw/biblia-acf/1-pedro/4]] · [[raw/biblia-acf/1-pedro/5]]
+- **Texto integral:** [[wiki/biblia/1-pedro/1]] · [[wiki/biblia/1-pedro/2]] · [[wiki/biblia/1-pedro/3]] · [[wiki/biblia/1-pedro/4]] · [[wiki/biblia/1-pedro/5]]
 
 ## Cabeçalho
 
@@ -367,7 +367,7 @@ Não se abre divergência específica sobre 5:8 — o tratamento é **nota de re
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Primeira Epístola Universal de S. Pedro, caps. 1–5. Edição: [[raw/biblia-acf/1-pedro/1]] · [[raw/biblia-acf/1-pedro/2]] · [[raw/biblia-acf/1-pedro/3]] · [[raw/biblia-acf/1-pedro/4]] · [[raw/biblia-acf/1-pedro/5]]. Disponível em [https://bibliaestudos.com/acf/1-pedro/1/](https://bibliaestudos.com/acf/1-pedro/1/).
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Primeira Epístola Universal de S. Pedro, caps. 1–5. Edição: [[wiki/biblia/1-pedro/1]] · [[wiki/biblia/1-pedro/2]] · [[wiki/biblia/1-pedro/3]] · [[wiki/biblia/1-pedro/4]] · [[wiki/biblia/1-pedro/5]]. Disponível em [https://bibliaestudos.com/acf/1-pedro/1/](https://bibliaestudos.com/acf/1-pedro/1/).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. V ("Bem-aventurados os afflitos"), VII ("Bem-aventurados os pobres de espírito"), IX ("Bem-aventurados os mansos"), XI ("Amar o próximo como a si mesmo"), XII ("Amai os vossos inimigos"), XIII ("Não saiba vossa mão esquerda o que faz a vossa direita"), XV ("Fora da caridade não há salvação"), XVII ("Sede perfeitos"), XIX ("A fé transporta montanhas"), XXIV ("Não ponhais a candeia debaixo do alqueire"), XXVII ("A prece").
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 131 (rejeição do diabo ontológico), q. 132 (igualdade dos Espíritos em sua origem), q. 150 (perispírito), q. 234 (mundos de expiação e provas), q. 258–273 (provas e expiações), q. 625 (Jesus modelo), q. 636 (responsabilidade individual), q. 649–673 (Lei de Adoração), q. 686–701 (Lei de Reprodução), q. 702–727 (Lei de Conservação), q. 803–824 (Lei de Igualdade), q. 873–892 (Lei de Justiça, Amor e Caridade), q. 988 (fé raciocinada), q. 990–1009 (arrependimento, expiação, reparação; irremissibilidade nula), q. 1015–1019 (universalismo do progresso).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XIX (médium intérprete e servidor); cap. XXIII (obsessão); cap. XXIV (identificação dos Espíritos); cap. XXVIII (médiuns interesseiros).

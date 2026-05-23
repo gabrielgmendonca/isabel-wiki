@@ -77,7 +77,7 @@ A imagem do "cheiro de suavidade e sacrifício" (gr. *osmēn euōdias, thysian d
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 2:25–30; 4:18. Edição: [[raw/biblia-acf/filipenses/2]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 2:25–30; 4:18. Edição: [[wiki/biblia/filipenses/2]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 258, 851 (provas escolhidas pelo Espírito); q. 919 (vontade firme).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. VII, item 13 (humildade não é falsa modéstia); cap. XIII, item 9 (todas as obras de caridade têm igual mérito); cap. XV (caridade como fundamento).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. caps. XIV–XV (fluidos; ação fluídica nas curas).

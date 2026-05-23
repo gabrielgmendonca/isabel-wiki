@@ -98,6 +98,6 @@ Três usos típicos do conceito em estudos espíritas:
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 6:1–14; Epístola aos Efésios, 4:17–32; Epístola aos Colossenses, 3:1–17. Edições: [[raw/biblia-acf/efesios/4]]; [[raw/biblia-acf/romanos/6]] (quando ingerido).
+- *Bíblia Sagrada* (ACF). Epístola aos Romanos, 6:1–14; Epístola aos Efésios, 4:17–32; Epístola aos Colossenses, 3:1–17. Edições: [[wiki/biblia/efesios/4]]; [[wiki/biblia/romanos/6]] (quando ingerido).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 893–919 (perfeição moral, esp. q. 905, 909, 913, 918, 919).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XVII ("Sede perfeitos"), itens 3–4 (homem de bem; esforço cotidiano).

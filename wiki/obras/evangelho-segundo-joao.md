@@ -16,7 +16,7 @@ status: ativo
 - **Título:** Evangelho segundo João (Bíblia ACF — Almeida Corrigida e Fiel)
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Fonte primordial — Ensinamentos morais de Jesus
 - **Capítulos:** 21
-- **Texto integral:** [[raw/biblia-acf/joao/1]]
+- **Texto integral:** [[wiki/biblia/joao/1]]
 
 ## Cabeçalho
 
@@ -142,7 +142,7 @@ Bloco exclusivo de João — os capítulos mais ricos para a leitura espírita.
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, caps. 1–21. Texto integral em `raw/biblia-acf/joao/`.
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, caps. 1–21. Texto integral em `wiki/biblia/joao/`.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB.

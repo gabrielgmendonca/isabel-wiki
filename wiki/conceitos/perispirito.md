@@ -62,7 +62,7 @@ O cap. XIV de [[wiki/obras/genese|*A Gênese*]] tem como base direta o tratado "
 
 ## Base escritural: 1 Coríntios 15
 
-A referência neotestamentária clássica do perispírito é 1 Coríntios 15, onde Paulo enfrenta a pergunta "como ressuscitarão os mortos? E com que corpo virão?" ([[raw/biblia-acf/1-corintios/15|1 Co 15]]:35).
+A referência neotestamentária clássica do perispírito é 1 Coríntios 15, onde Paulo enfrenta a pergunta "como ressuscitarão os mortos? E com que corpo virão?" ([[wiki/biblia/1-corintios/15|1 Co 15]]:35).
 
 Paulo elabora a distinção entre **corpo natural** (*soma psychikon*, animal/orgânico) e **corpo espiritual** (*soma pneumatikon*):
 

@@ -68,7 +68,7 @@ Nenhuma divergência registrada com o Pentateuco. A leitura dogmática tradicion
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 15. Texto integral: [[raw/biblia-acf/joao/15]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 15. Texto integral: [[wiki/biblia/joao/15]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. VI, XI, XV, XVII, XIX.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Questões 258–273, 886.
 - KARDEC, Allan. *O Céu e o Inferno*. Trad. Guillon Ribeiro. FEB. 1ª parte, caps. IV–VII.

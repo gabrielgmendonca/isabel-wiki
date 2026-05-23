@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Segunda Epístola do Apóstolo Paulo a Timóteo (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico. Citado seletivamente por Kardec; lido à luz do Pentateuco. Como em 1 Tm, **a autoria paulina das Pastorais é contestada** por parte da exegese moderna (data tardia, c. 90–100 d.C., atribuição a discípulo deuteropaulino). A tradição da Igreja mantém Paulo, e a voz pastoral-autobiográfica de 2 Tm — tom de despedida íntima, menção aos cooperadores presentes e ausentes, pedidos concretos (a capa, os livros, os pergaminhos) — é, dentre as três Pastorais, **a mais difícil de explicar como pseudepígrafe**: tem traços de carta genuína. Para o estudo espírita, a questão de autoria não altera o regime de hierarquia — as Pastorais são lidas como camada apostólica autorizada, com peso seletivo conforme passem ou não pelo crivo do Pentateuco.
 - **Capítulos:** 4 (83 versículos no total — uma das paulinas curtas).
-- **Texto integral:** [[raw/biblia-acf/2-timoteo/1]] · [[raw/biblia-acf/2-timoteo/2]] · [[raw/biblia-acf/2-timoteo/3]] · [[raw/biblia-acf/2-timoteo/4]].
+- **Texto integral:** [[wiki/biblia/2-timoteo/1]] · [[wiki/biblia/2-timoteo/2]] · [[wiki/biblia/2-timoteo/3]] · [[wiki/biblia/2-timoteo/4]].
 
 ## Cabeçalho
 
@@ -65,7 +65,7 @@ O versículo, lido nessa chave, é dos pontos mais altos do paulinismo em conver
 
 *1:15–18 — Apostasia "de todos os que estão na Ásia"; Onesíforo como exceção fiel.* "Bem sabes isto, que **os que estão na Ásia todos se apartaram de mim**; entre os quais foram Figelo e Hermógenes. O Senhor conceda misericórdia à casa de Onesíforo, porque muitas vezes me recreou, e não se envergonhou das minhas cadeias" (1:15–16). Quadro humano amargo: na hora da prisão, **a maioria dos cooperadores anteriores se retraiu**, com duas exceções nomeadas (Figelo e Hermógenes apostatas; Onesíforo fiel — buscou Paulo em Roma "com muito cuidado", 1:17).
 
-Em chave espírita, o quadro ilustra o princípio kardequiano da **prova como filtro do progresso real**: ESE cap. V (bem-aventurados os afligidos) e cap. XXIV (não acender candeia para o alqueire) ensinam que o testemunho na adversidade revela a fé efetiva por contraste com a adesão de superfície. Onesíforo — cuja casa é saudada também em 4:19 — torna-se modelo de cooperador fiel na hora difícil; o pedido "o Senhor lhe conceda que naquele dia ache misericórdia diante do Senhor" (1:18), em chave espírita, lê-se como prece pela retribuição moral natural da fidelidade ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] aplicada ao mérito espiritual). Ver [[raw/biblia-acf/2-timoteo/1]].
+Em chave espírita, o quadro ilustra o princípio kardequiano da **prova como filtro do progresso real**: ESE cap. V (bem-aventurados os afligidos) e cap. XXIV (não acender candeia para o alqueire) ensinam que o testemunho na adversidade revela a fé efetiva por contraste com a adesão de superfície. Onesíforo — cuja casa é saudada também em 4:19 — torna-se modelo de cooperador fiel na hora difícil; o pedido "o Senhor lhe conceda que naquele dia ache misericórdia diante do Senhor" (1:18), em chave espírita, lê-se como prece pela retribuição moral natural da fidelidade ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] aplicada ao mérito espiritual). Ver [[wiki/biblia/2-timoteo/1]].
 
 **Cap. 2 — Disciplina do servidor; palavra fiel; recusa das contendas vãs.** Capítulo central da carta para o estudo da vida moral espírita, divisível em quatro blocos.
 
@@ -108,7 +108,7 @@ Em 2:22–26 vem o **bloco-âncora pastoral** sobre a maneira de lidar com quem 
 - **"Tornarem a despertar, desprendendo-se dos laços do diabo".** A expressão (gr. *ananḗpsōsin*, **recobrar a sobriedade**, dito de quem volta do estupor da embriaguez) descreve com precisão o que LM 2ª parte caps. XXIII–XXIV apresentam como **estado obsessivo** e seu desfecho. O "diabo" paulino — gr. *diábolos*, **caluniador** — lê-se em chave kardequiana como **Espíritos imperfeitos** ou estado de inferioridade moral, não como entidade ontológica absoluta (LE q. 128–132; C&I 1ª parte cap. IX — ver também [[wiki/divergencias/diabo-ontologico-em-apocalipse]] para o tratamento do termo em contexto apocalíptico). Os "laços" descrevem **afinidade fluídica viciosa**: o Espírito que cede progressivamente à influência inferior se vê preso por reciprocidade, em quadro semelhante ao da obsessão simples descrita em LM cap. XXIII. O "desprender-se" é processo ativo do próprio sujeito + concurso fraterno do orientador esclarecedor — exatamente o que a desobsessão espírita pratica.
 - **"Se porventura Deus lhes dará arrependimento"** — não é determinismo divino. Lê-se em chave kardequiana como **concurso da Providência ao esforço pessoal**: Deus oferece a oportunidade do arrependimento (LE q. 622; ESE cap. XXVIII "Prece pelos inimigos"), mas a adesão é livre. O "porventura" paulino preserva a contingência da resposta humana.
 
-Ver [[raw/biblia-acf/2-timoteo/2]].
+Ver [[wiki/biblia/2-timoteo/2]].
 
 **Cap. 3 — Apostasia nos últimos tempos; fundamento nas Escrituras.** Capítulo dividido em duas metades nítidas: descrição moral da degeneração (3:1–9) e prescrição do fundamento (3:10–17).
 
@@ -138,7 +138,7 @@ Para o estudo espírita, três pontos:
 - **"Divinamente inspirada"** (gr. *theópneustos*, **soprada por Deus**) é categoria que o Espiritismo **assimila com qualificação**. Em chave kardequiana, a "inspiração" não é ditado divino infalível — é processo de **mediunidade inspirada** (LM 2ª parte cap. XV) em que o autor recebe influxo dos Espíritos elevados e o traduz com seus próprios recursos. Texto inspirado é fonte de **instrução moral autorizada**, mas passa pelo discernimento crítico (LM cap. XX, item 230 — "o crivo da razão"). Coexistência com a crítica explícita de Kardec a passagens do AT antropomórfico, alegórico ou culturalmente datado (Gênese caps. I, VIII–XI). O versículo paulino é, portanto, **convergente em princípio**, mas reinterpretado em chave de inspiração mediúnica + filtro racional, não literalismo verbal.
 - **Os quatro usos da Escritura** ("ensinar, redargüir, corrigir, instruir em justiça") descrevem **função pedagógica integral** — instruir, retificar erros, ajustar conduta, formar para a justiça. Mapeamento direto sobre os quatro registros de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]]: ensino doutrinal, retificação de erros teológicos do passado, ajuste de conduta, formação moral. Eco da função kardequiana da Codificação como **ciência de observação + moral em ação** (LE Introdução; OPE "Caracteres da revelação espírita").
 
-Ver [[raw/biblia-acf/2-timoteo/3]].
+Ver [[wiki/biblia/2-timoteo/3]].
 
 **Cap. 4 — Mandato final; despedida; quadro humano; saudações.** Último capítulo, dividido em quatro blocos.
 
@@ -188,7 +188,7 @@ Este é, dentro do NT, **o registro paulino mais direto da consciência de balan
 - **Eubulo, Prudente, Lino, Cláudia** — círculo romano final. Lino aparece nas listas eclesiásticas posteriores como sucessor de Pedro em Roma (Ireneu); não há corroboração paulina direta dessa identificação.
 - **"O Senhor Jesus Cristo seja com o teu espírito"** (4:22) — última formulação do epistolário. Em chave espírita, é **prece de presença espiritual permanente** — não saudação ritual vazia, mas voto de afinidade contínua entre o Cristo como Espírito guia e o Espírito de Timóteo. Eco de ESE cap. XXVIII (sobre a prece como elo permanente).
 
-Ver [[raw/biblia-acf/2-timoteo/4]].
+Ver [[wiki/biblia/2-timoteo/4]].
 
 ## Temas centrais para o estudo espírita
 
@@ -297,7 +297,7 @@ Status: tratamento concluído inline; sem páginas próprias em `wiki/divergenci
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Segunda Epístola a Timóteo, caps. 1–4. Edições: [[raw/biblia-acf/2-timoteo/1]] · [[raw/biblia-acf/2-timoteo/2]] · [[raw/biblia-acf/2-timoteo/3]] · [[raw/biblia-acf/2-timoteo/4]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Segunda Epístola a Timóteo, caps. 1–4. Edições: [[wiki/biblia/2-timoteo/1]] · [[wiki/biblia/2-timoteo/2]] · [[wiki/biblia/2-timoteo/3]] · [[wiki/biblia/2-timoteo/4]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 5, 76 (imortalidade da alma), q. 13 (atributos de Deus; imutabilidade), q. 128–132 (anjos e demônios na escala espírita), q. 132–134 (reabilitação entre encarnações), q. 165–170 (sobrevivência consciente), q. 169–170 (capital moral conservado), q. 200–202 (escolha das provas e da família), q. 211 (laços de família), q. 258–263 (escolha das provas), q. 459–460 (auxílio dos Espíritos elevados), q. 478–479 (afinidade fluídica), q. 622 (oportunidade do arrependimento), q. 674–685 (Lei do Trabalho), q. 884 (livre-arbítrio e imputação moral), q. 913–917 (egoísmo como chaga da sociedade), q. 967 (felicidade como conquista), q. 1009 (gratuidade da mediunidade; misericórdia divina contra penas eternas), Introdução (Espiritismo e fé raciocinada).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XIV (passe e fluido vital); **cap. XV (médiuns inspirados — Escrituras como inspiração mediúnica)**; cap. XIX (papel dos médiuns nas comunicações; assinatura "Erasto e Timóteo"); cap. XX (formação dos médiuns; obsessão fascinadora itens 220–226; estudo crítico itens 230–232); **caps. XXIII–XXIV (Espíritos enganadores; obsessão e desobsessão pedagógica)**; cap. XXVI (médiuns interesseiros); cap. XXIX (futuro do Espiritismo).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução (Jesus como Espírito puro encarnado); cap. III (muitas moradas); **cap. IV (Ninguém poderá ver o reino se não nascer de novo — reencarnação)**; cap. V (bem-aventurados os afligidos), itens 4–10, 17–18, 20; cap. IX (bem-aventurados os mansos); cap. X (misericórdia); cap. XI (justiça); cap. XII (amai os inimigos); **cap. XV (fora da caridade não há salvação)**, esp. item 10; cap. XVII (sede perfeitos), itens 4, 6–8; cap. XVIII (muitos os chamados, poucos os escolhidos), itens 12–13; cap. XIX (a fé), itens 6–7; cap. XXIII (estranha moral); cap. XXIV (não acender candeia para o alqueire); cap. XXVII (pedi e obtereis), itens 9–10; **cap. XXVIII (prece pelos inimigos)**.

@@ -65,7 +65,7 @@ Nenhuma divergência registrada. A leitura espírita (exemplo moral, não sacrif
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 12. Texto integral: [[raw/biblia-acf/joao/12]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 12. Texto integral: [[wiki/biblia/joao/12]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. V, XVI, XXIV (item 15).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Questões 132–148, 258–273, 728–737.
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. III.

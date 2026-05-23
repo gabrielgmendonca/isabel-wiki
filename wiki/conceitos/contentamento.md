@@ -96,7 +96,7 @@ Em Fp 4:6, a "ação de graças" (gr. *eucharistia*) introduz a **[[wiki/conceit
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 4:4–13. Edição: [[raw/biblia-acf/filipenses/4]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 4:4–13. Edição: [[wiki/biblia/filipenses/4]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 538 (assistência dos Espíritos), q. 625 (Jesus como tipo mais perfeito), q. 660–663 (prece e gratidão), q. 916 (confiança em Deus), q. 919 (vontade firme), q. 920–933 (felicidade e infelicidade na Terra), q. 932 (egoísmo), q. 947 (inveja).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. V (bem-aventurados os aflitos), cap. XVI (não se pode servir a Deus e a Mamon).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte cap. XX (sintonia mediúnica).

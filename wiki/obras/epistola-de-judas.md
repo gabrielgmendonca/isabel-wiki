@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola Universal de Judas (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico, lido à luz do Pentateuco. Carta curtíssima (25 versículos, capítulo único), de **baixa tração doutrinária**: panfleto polêmico contra falsos doutores libertinos, construído sobre **imaginário judaico apocalíptico** (Vigilantes enoquitas, Assunção de Moisés). Kardec não a cita; entra por completude do NT canônico (**fecha o eixo: 27/27**). Seu interesse para o estudo espírita é duplo: (a) o **eixo positivo final** (vv. 20–23 — caridade temperada por discernimento) e (b) ser **caso-laboratório** de leitura kardecista de linguagem mítico-punitiva (concentra, em poucos versículos, três tensões já estruturalmente tratadas na wiki).
 - **Capítulos:** 1 (25 versículos).
-- **Texto integral:** [[raw/biblia-acf/judas/1]].
+- **Texto integral:** [[wiki/biblia/judas/1]].
 
 ## Cabeçalho
 
@@ -95,7 +95,7 @@ Passagens-chave: **1:3** (combater pela fé — entendida como fidelidade moral,
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola de Judas (capítulo único, 25 versículos). Edição: [[raw/biblia-acf/judas/1]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola de Judas (capítulo único, 25 versículos). Edição: [[wiki/biblia/judas/1]].
 - *Bíblia Sagrada* (ACF). Segunda Epístola de Pedro, cap. 2 (paralelo literário); Evangelho segundo Mateus 13:55; Marcos 6:3 (irmãos de Jesus).
 - *1 Enoque* 1:9; 6–10 (texto judaico apocalíptico do II–I a.C.; citado explicitamente em Jd 14–15). *Assunção de Moisés* (apócrifo; fonte de Jd 9).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 115, 128–131 (igualdade de origem dos Espíritos; inexistência do diabo); q. 165–170 (capital moral); q. 913–917 (orgulho e egoísmo); q. 1009, 1015–1019 (penas proporcionais; progresso indefinido).

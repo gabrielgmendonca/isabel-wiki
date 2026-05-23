@@ -25,7 +25,7 @@ Tiago, **irmão do Senhor** ([[wiki/personalidades/jesus|Jesus]]) — assim Paul
 
 ### No ministério de Jesus
 
-Durante o ministério público, **não cria** ([[raw/biblia-acf/joao/7|Jo 7:5]]). Mc 3:21 e 31–35 mostram episódio em que "os seus" (a família) saem para "prendê-lo, pois diziam: Está fora de si" — Tiago provavelmente entre eles. A conversão se dá pelo encontro com o Cristo ressuscitado em aparição específica (1 Co 15:7), distinta das aparições aos onze apóstolos.
+Durante o ministério público, **não cria** ([[wiki/biblia/joao/7|Jo 7:5]]). Mc 3:21 e 31–35 mostram episódio em que "os seus" (a família) saem para "prendê-lo, pois diziam: Está fora de si" — Tiago provavelmente entre eles. A conversão se dá pelo encontro com o Cristo ressuscitado em aparição específica (1 Co 15:7), distinta das aparições aos onze apóstolos.
 
 ### Líder da Igreja de Jerusalém
 

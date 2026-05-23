@@ -9,7 +9,7 @@ paths:
 
 ```yaml
 ---
-tipo: conceito | obra | personalidade | questao | aprofundamento | sintese | divergencia
+tipo: conceito | obra | personalidade | questao | aprofundamento | sintese | divergencia | capitulo-biblico | livro-biblico
 fontes: [LE, ESE]
 tags: [reencarnacao, moral]
 url: https://...          # opcional — URL da fonte original (YouTube, site, etc.)
@@ -40,3 +40,5 @@ Páginas `tipo: personalidade` e `tipo: obra` aceitam ainda o campo opcional `al
 - **aprofundamentos/**: Estudo sistemático de um **tema ou bloco doutrinário** (subseção do LE, capítulo do ESE, conjunto de itens de C&I, etc.). Estrutura: Contexto doutrinário · Análise item a item ou por eixos · Síntese · Aprofundamento · Conceitos relacionados · Fontes. Use este tipo para material de palestra que cobre múltiplas questões/itens.
 - **sinteses/**: Pergunta motivadora · Análise · Conclusão · Páginas referenciadas · Fontes.
 - **divergencias/**: ver regra de divergência.
+- **biblia/<livro>/<cap>.md** (`tipo: capitulo-biblico`): H1 (`# <Livro> <N>`) · texto integral por versículo, cada versículo precedido por `## <N>` para anchor estável `#N`) · sem seção Fontes (texto é a fonte). Frontmatter mínimo: `livro`, `capitulo`, `testamento: NT|AT`, `fontes: [NT]` ou `[AT]`. Não recebe `direitos:` (Bíblia em DP), nem `grau/*`, nem `tema/*` (varia por capítulo — fica fora de `check_tag_coverage`).
+- **biblia/<livro>/index.md** (`tipo: livro-biblico`): H1 (`# <Livro>`) · breve nota (autor tradicional, ocasião, contexto histórico) · lista de capítulos como wikilinks · cross-link para a página-âncora correspondente em `wiki/obras/` (ex.: `[[wiki/obras/evangelho-segundo-joao]]`).

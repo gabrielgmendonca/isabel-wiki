@@ -21,7 +21,7 @@ direitos:
 - **Título:** Primeira Epístola Universal de S. João (Bíblia ACF — Almeida Corrigida e Fiel). "Universal" é o modo tradicional de referir-se às **epístolas católicas** (ou gerais) do NT — endereçadas a comunidades amplas, não a uma cidade específica.
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado por Kardec sobretudo pelo eixo do **discernimento dos Espíritos** (1 Jo 4:1, em ESE cap. XXI, item 9; LM 2ª parte cap. XXIV) e pela formulação "Deus é amor" (1 Jo 4:8, 16), que se harmoniza com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
 - **Capítulos:** 5
-- **Texto integral:** [[raw/biblia-acf/1-joao/1]]
+- **Texto integral:** [[wiki/biblia/1-joao/1]]
 
 ## Cabeçalho
 
@@ -47,7 +47,7 @@ Passagens-chave aproveitáveis pelo estudo espírita: **1 Jo 1:5** ("Deus é luz
 
 ### Cap. 1 — Comunhão na luz; confissão dos pecados
 
-**Prólogo testemunhal** (1:1–4). "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida." A abertura tem **eco direto** do prólogo do [[wiki/obras/evangelho-segundo-joao|Quarto Evangelho]] (Jo 1:1, "No princípio era o Verbo") mas em chave **testemunhal e sensorial**. Para o estudo espírita, a passagem afirma a realidade histórica da encarnação de Jesus contra leituras docetistas que negavam sua corporeidade — Jesus encarnou de fato, viveu, foi visto e tocado. Convergência com a leitura kardequiana: Jesus é Espírito de ordem altíssima **realmente encarnado** (não aparição fantasmagórica), e essa encarnação é a base da exemplaridade moral (LE q. 625; OPE, "Estudo sobre a natureza do Cristo"). Ver [[raw/biblia-acf/1-joao/1]].
+**Prólogo testemunhal** (1:1–4). "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida." A abertura tem **eco direto** do prólogo do [[wiki/obras/evangelho-segundo-joao|Quarto Evangelho]] (Jo 1:1, "No princípio era o Verbo") mas em chave **testemunhal e sensorial**. Para o estudo espírita, a passagem afirma a realidade histórica da encarnação de Jesus contra leituras docetistas que negavam sua corporeidade — Jesus encarnou de fato, viveu, foi visto e tocado. Convergência com a leitura kardequiana: Jesus é Espírito de ordem altíssima **realmente encarnado** (não aparição fantasmagórica), e essa encarnação é a base da exemplaridade moral (LE q. 625; OPE, "Estudo sobre a natureza do Cristo"). Ver [[wiki/biblia/1-joao/1]].
 
 **"Deus é luz" (1:5)**. "E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele trevas nenhumas." É a primeira das duas grandes definições de Deus na carta (a outra é "Deus é amor", 4:8). Convergência total com a perfeição absoluta de Deus (LE q. 13 — "Deus é a soberana inteligência, causa primária de todas as coisas"). Ver [[wiki/conceitos/deus]].
 
@@ -284,7 +284,7 @@ Não há contradição doutrinária com Kardec — há **reorientação do horiz
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Primeira Epístola Universal de S. João, caps. 1–5. Edição: [[raw/biblia-acf/1-joao/1]] · [[raw/biblia-acf/1-joao/2]] · [[raw/biblia-acf/1-joao/3]] · [[raw/biblia-acf/1-joao/4]] · [[raw/biblia-acf/1-joao/5]]. Disponível em [https://bibliaestudos.com/acf/1-joao/1/](https://bibliaestudos.com/acf/1-joao/1/).
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Primeira Epístola Universal de S. João, caps. 1–5. Edição: [[wiki/biblia/1-joao/1]] · [[wiki/biblia/1-joao/2]] · [[wiki/biblia/1-joao/3]] · [[wiki/biblia/1-joao/4]] · [[wiki/biblia/1-joao/5]]. Disponível em [https://bibliaestudos.com/acf/1-joao/1/](https://bibliaestudos.com/acf/1-joao/1/).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. XI ("Amar o próximo como a si mesmo"), XV ("Fora da caridade não há salvação"), XVI ("Não se pode servir a Deus e a Mamon"), XVII ("Sede perfeitos"), XIX ("A fé transporta montanhas"), XXI ("Haverá falsos cristos e falsos profetas"), XXVII ("A prece").
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 1–13 (atributos divinos), q. 100–113 (escala espírita), q. 131 (rejeição do diabo ontológico), q. 459 (transmissão do pensamento), q. 614–635 (lei natural), q. 649–673 (Lei de Adoração), q. 873–892 (Lei de Justiça, Amor e Caridade), q. 988 (fé raciocinada), q. 1009–1019 (universalismo da salvação).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte, cap. XXIV ("Da identificação dos Espíritos"), itens 265–268.

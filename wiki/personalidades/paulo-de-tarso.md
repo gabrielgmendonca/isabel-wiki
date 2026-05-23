@@ -137,7 +137,7 @@ A biografia de Paulo é um compêndio de fenômenos mediúnicos da mais alta ord
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm). Edições: [[raw/biblia-acf/1-corintios/1]]; [[raw/biblia-acf/2-corintios/1]].
+- *Bíblia Sagrada* (ACF). Atos dos Apóstolos, caps. 7–9, 13–28; epístolas paulinas (Rm, 1–2 Co, Gl, Ef, Fp, Cl, 1–2 Ts, 1–2 Tm, Tt, Fm). Edições: [[wiki/biblia/1-corintios/1]]; [[wiki/biblia/2-corintios/1]].
 - XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*. Rio de Janeiro: FEB, 1942 (512 p.; recepção em Pedro Leopoldo, 08/07/1941). Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]]. Síntese curada em [[wiki/obras/paulo-e-estevao]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IV, V, XI, XII, XV (item 4), XVII.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 135, 200–202, 621, 843–872.

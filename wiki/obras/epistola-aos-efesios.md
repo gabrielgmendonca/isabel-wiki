@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo Paulo aos Efésios (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico não-evangélico). Citada seletivamente por Kardec (Ef 4:22–24 — "homem velho / homem novo" — em paralelo com Rm 6 ressoa em ESE cap. XVII, item 4; Ef 4:26 — "Irai-vos, e não pequeis" — figura entre os preceitos morais retomados pelo Espiritismo); lida à luz do Pentateuco.
 - **Capítulos:** 6
-- **Texto integral:** [[raw/biblia-acf/efesios/1]]
+- **Texto integral:** [[wiki/biblia/efesios/1]]
 
 ## Cabeçalho
 
@@ -49,7 +49,7 @@ E mais adiante:
 
 A linguagem é doxológica — Paulo está louvando o plano divino, não construindo sistema — mas foi absolutizada pela tradição agostiniano-calvinista como prova da **predestinação dupla**. A leitura espírita compatibiliza: a "eleição" de Espíritos "antes da fundação do mundo" pode ser entendida como **presciência divina** + **escolha do Espírito antes da encarnação** (LE q. 851 — "ao encarnar o Espírito escolhe a prova por que quer passar; escolhendo-a, institui para si uma espécie de destino"). Deus conhece o caminho de cada alma; o Espírito escolhe seu trabalho de progresso; a "predestinação" descreve a sequência presciência → escolha → trajetória, não decreto que anula o livre-arbítrio.
 
-A segunda metade do capítulo é oração pelos efésios — Paulo pede que Deus "vos dê em seu conhecimento o espírito de sabedoria e de revelação; tendo iluminados os olhos do vosso entendimento" (1:17–18). Ressonância paulina direta da [[wiki/conceitos/fe-raciocinada|fé raciocinada]]: a fé que Paulo deseja para os efésios é fé que **vê**, não fé cega. Encerra com a soberania de Cristo "acima de todo o principado, e poder, e potestade, e domínio" (1:21) — vocabulário cósmico-angelológico que reaparecerá em 6:12 e que o Espiritismo lê pela [[wiki/conceitos/escala-espirita|escala espírita]]. Ver [[raw/biblia-acf/efesios/1]].
+A segunda metade do capítulo é oração pelos efésios — Paulo pede que Deus "vos dê em seu conhecimento o espírito de sabedoria e de revelação; tendo iluminados os olhos do vosso entendimento" (1:17–18). Ressonância paulina direta da [[wiki/conceitos/fe-raciocinada|fé raciocinada]]: a fé que Paulo deseja para os efésios é fé que **vê**, não fé cega. Encerra com a soberania de Cristo "acima de todo o principado, e poder, e potestade, e domínio" (1:21) — vocabulário cósmico-angelológico que reaparecerá em 6:12 e que o Espiritismo lê pela [[wiki/conceitos/escala-espirita|escala espírita]]. Ver [[wiki/biblia/efesios/1]].
 
 > [!warning] Divergência com Kardec
 > A linguagem de eleição "antes da fundação do mundo" (Ef 1:4) e de predestinação (1:5, 11) reverbera a cadeia de Rm 8:29–30 e 9:11–23 que a tradição absolutizou em decreto absoluto da salvação/perdição. Kardec é taxativo: "Sem o livre-arbítrio, o homem seria máquina" (LE q. 843). A "predestinação" paulina, lida pelo Espiritismo, descreve **presciência divina compatível com escolha livre** + **prova escolhida pelo Espírito antes da encarnação** (LE q. 258, q. 851), não decreto irrevogável.
@@ -71,7 +71,7 @@ A segunda argumentação (2:11–22) é o **manifesto universalista** da carta. 
 
 > "Mas agora em Cristo Jesus, vós, que antes estáveis longe, já pelo sangue de Cristo chegastes perto. Porque ele é a nossa paz, o qual de ambos os povos fez um; e, derrubando a parede de separação que estava no meio, na sua carne desfez a inimizade [...] para criar em si mesmo dos dois um novo homem, fazendo a paz [...]. Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos, e da família de Deus." (Ef 2:13–15, 19)
 
-A "parede de separação" alude provavelmente à **soreg** — barreira física no Templo de Jerusalém que excluía os gentios sob pena de morte. A imagem é poderosa: o mais alto símbolo de exclusão religiosa cai, e Cristo "de ambos os povos faz um". É formulação paulina máxima da universalidade que Kardec articula em ESE cap. XI ("Amar o próximo como a si mesmo") e que LE q. 1009–1016 generaliza para todos os Espíritos — nenhum povo, nenhuma raça, nenhuma classe está excluída do plano divino. A geração nova ([[wiki/conceitos/geracao-nova]]) e a transição planetária ([[wiki/conceitos/transicao-planetaria]]) lêem-se em chave universalista também — "templo santo no Senhor [...] morada de Deus em Espírito" (2:21–22) é, no Espiritismo, a humanidade regenerada da Terra como mundo de regeneração. Ver [[raw/biblia-acf/efesios/2]].
+A "parede de separação" alude provavelmente à **soreg** — barreira física no Templo de Jerusalém que excluía os gentios sob pena de morte. A imagem é poderosa: o mais alto símbolo de exclusão religiosa cai, e Cristo "de ambos os povos faz um". É formulação paulina máxima da universalidade que Kardec articula em ESE cap. XI ("Amar o próximo como a si mesmo") e que LE q. 1009–1016 generaliza para todos os Espíritos — nenhum povo, nenhuma raça, nenhuma classe está excluída do plano divino. A geração nova ([[wiki/conceitos/geracao-nova]]) e a transição planetária ([[wiki/conceitos/transicao-planetaria]]) lêem-se em chave universalista também — "templo santo no Senhor [...] morada de Deus em Espírito" (2:21–22) é, no Espiritismo, a humanidade regenerada da Terra como mundo de regeneração. Ver [[wiki/biblia/efesios/2]].
 - **Conceitos:** [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-do-progresso]]
 
 **Cap. 3 — Mistério revelado; oração pela plenitude.** Paulo descreve sua missão como anúncio do "mistério" antes oculto, agora revelado pelo Espírito: que os gentios "são co-herdeiros, e de um mesmo corpo, e participantes da promessa em Cristo pelo evangelho" (3:6). A linguagem mistérica (*mystērion*) é vocabulário próprio das religiões de mistério greco-romanas — Paulo a re-significa: o "mistério" cristão **não é segredo iniciático para poucos**, é plano divino agora **publicamente** anunciado. Coerente com a leitura espírita das três revelações ([[wiki/conceitos/tres-revelacoes]]): cada revelação progressiva amplia o que estava cifrado na anterior.
@@ -80,7 +80,7 @@ A oração que fecha o capítulo (3:14–21) é uma das mais belas do epistolár
 
 > "Por causa disto me ponho de joelhos perante o Pai de nosso Senhor Jesus Cristo, do qual toda a família nos céus e na terra toma o nome, para que, segundo as riquezas da sua glória, vos conceda que sejais corroborados com poder pelo seu Espírito no homem interior; para que Cristo habite pela fé nos vossos corações; a fim de, estando arraigados e fundados em amor, poderdes perfeitamente compreender, com todos os santos, qual seja a largura, e o comprimento, e a altura, e a profundidade, e conhecer o amor de Cristo, que excede todo o entendimento, para que sejais cheios de toda a plenitude de Deus." (Ef 3:14–19)
 
-A expressão **"toda a família nos céus e na terra"** (3:15) é, na leitura espírita, formulação paulina condensada da **comunhão do mundo dos Espíritos com o dos encarnados** — a "família" de Deus atravessa os planos. Paralelo direto com LE q. 936–937 (laços continuam após a morte) e com a doutrina das relações entre encarnados e desencarnados (LE q. 459–471). Ver [[raw/biblia-acf/efesios/3]].
+A expressão **"toda a família nos céus e na terra"** (3:15) é, na leitura espírita, formulação paulina condensada da **comunhão do mundo dos Espíritos com o dos encarnados** — a "família" de Deus atravessa os planos. Paralelo direto com LE q. 936–937 (laços continuam após a morte) e com a doutrina das relações entre encarnados e desencarnados (LE q. 459–471). Ver [[wiki/biblia/efesios/3]].
 - **Conceitos:** [[wiki/conceitos/tres-revelacoes]], [[wiki/conceitos/vida-espirita]]
 
 ### Ética da vida nova: unidade, reforma íntima, ética doméstica, armadura (caps. 4–6)
@@ -108,7 +108,7 @@ A partir de 4:25, Paulo lista preceitos práticos — reforma íntima descida ao
 - **Não entristecer o Espírito Santo** (4:30) — vibrar em sintonia com os Espíritos elevados.
 - **Perdão como espelho do perdão divino** (4:32) — "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo". Formulação paulina compacta de ESE cap. XII ("Amai os vossos inimigos") e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35).
 
-Ver [[raw/biblia-acf/efesios/4]].
+Ver [[wiki/biblia/efesios/4]].
 - **Conceitos:** [[wiki/conceitos/homem-velho-homem-novo]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/mediunidade]], [[wiki/conceitos/leis-morais/lei-do-trabalho]], [[wiki/conceitos/caridade]]
 
 **Cap. 5 — Imitadores de Deus; luz e trevas; sabedoria do tempo; relações conjugais.** Abre com a fórmula que sintetiza o programa moral paulino:
@@ -137,7 +137,7 @@ A submissão é **mútua e recíproca**, antes de ser hierarquizada. Em seguida 
 >
 > "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela [...]. Assim devem os maridos amar as suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo." (Ef 5:25, 28)
 
-Paulo articula o casamento como mistério Cristo/igreja (5:32 — "Grande é este mistério"). A passagem foi pedra fundamental da teologia sacramental do matrimônio na tradição católica e ortodoxa. Para o Espiritismo, a hierarquia conjugal explícita ("o marido é a cabeça da mulher") está em tensão com a Lei de Igualdade (LE q. 817–822 — ver [[wiki/conceitos/leis-morais/lei-de-igualdade]]). Mas o quadro paulino não é simétrico ao silêncio em 1 Co 14: há reciprocidade de 5:21 e há **amor sacrificial assimétrico** exigido do marido (5:25 — "amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela") que **subverte** qualquer leitura de domínio. A leitura espírita preserva a ética do amor mútuo e dissolve a hierarquia ontológica. Ver [[raw/biblia-acf/efesios/5]].
+Paulo articula o casamento como mistério Cristo/igreja (5:32 — "Grande é este mistério"). A passagem foi pedra fundamental da teologia sacramental do matrimônio na tradição católica e ortodoxa. Para o Espiritismo, a hierarquia conjugal explícita ("o marido é a cabeça da mulher") está em tensão com a Lei de Igualdade (LE q. 817–822 — ver [[wiki/conceitos/leis-morais/lei-de-igualdade]]). Mas o quadro paulino não é simétrico ao silêncio em 1 Co 14: há reciprocidade de 5:21 e há **amor sacrificial assimétrico** exigido do marido (5:25 — "amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela") que **subverte** qualquer leitura de domínio. A leitura espírita preserva a ética do amor mútuo e dissolve a hierarquia ontológica. Ver [[wiki/biblia/efesios/5]].
 
 > [!warning] Divergência com Kardec
 > Ef 5:22–24 ("mulheres, sujeitai-vos a vossos maridos") instala uma **hierarquia conjugal explícita** que diverge da Lei de Igualdade kardequiana — "Não outorgou Deus a ambos a inteligência do bem e do mal e a faculdade de progredir?" (LE q. 817); "uma legislação, para ser perfeitamente justa, deve consagrar a igualdade dos direitos do homem e da mulher" (LE q. 822, comentário). A reciprocidade de 5:21 ("sujeitando-vos uns aos outros") e o amor sacrificial assimétrico exigido dos maridos (5:25) abrem brecha hermenêutica — mas o literalismo da hierarquia foi e é fundamento de práticas patriarcais que o Espiritismo recusa.
@@ -167,7 +167,7 @@ Os seis elementos da armadura — **cíngulo da verdade, couraça da justiça, s
 - Os elementos da armadura são todos **virtudes morais cultiváveis** — não rito, não amuleto. Verdade, justiça, paz evangélica, fé raciocinada, esperança da salvação (= progresso), palavra do Espírito. A vida moral é trabalhada peça por peça.
 - Encerra com "orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança" (6:18) — **prece e vigilância** como fechamento; é o que Kardec retoma em ESE cap. XXVII–XXVIII e em LM 2ª parte cap. XXIII (sobre prevenção da obsessão pela elevação moral).
 
-A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão amado, e fiel ministro do Senhor", portador da carta — e com saudação fraternal (6:23–24). Ver [[wiki/personalidades/tiquico]] e [[raw/biblia-acf/efesios/6]].
+A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão amado, e fiel ministro do Senhor", portador da carta — e com saudação fraternal (6:23–24). Ver [[wiki/personalidades/tiquico]] e [[wiki/biblia/efesios/6]].
 - **Conceitos:** [[wiki/conceitos/evangelizacao-infantojuvenil]], [[wiki/conceitos/leis-morais/lei-de-liberdade]], [[wiki/conceitos/armadura-de-deus]], [[wiki/conceitos/prece]], [[wiki/conceitos/obsessao]]
 
 ## Temas centrais para o estudo espírita
@@ -255,7 +255,7 @@ A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão ama
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Efésios, caps. 1–6. Texto integral em [[raw/biblia-acf/efesios/1]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Efésios, caps. 1–6. Texto integral em [[wiki/biblia/efesios/1]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. IX (afetos terrestres), XI (amar o próximo), XII (amai os vossos inimigos), XV (fora da caridade não há salvação), XVII (sede perfeitos), XIX (fé viva), XXVII–XXVIII (prece).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 100–113 (escala espírita), 258–262 (escolha das provas), 383–385 (educação), 459–471 (relações encarnados/desencarnados), 582–583 (paternidade), 614–648 (lei natural), 660–673 (Lei de Adoração), 674–685 (Lei do Trabalho), 803–824 (Lei de Igualdade), 825–872 (Lei de Liberdade), 873–892 (Lei de Justiça, Amor e Caridade), 893–919 (perfeição moral), 905 (moral sem ações), 919 (vontade firme), 1009–1016 (salvação universal).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. caps. XIV–XV (perispírito; fluidos; ação dos Espíritos sobre encarnados).

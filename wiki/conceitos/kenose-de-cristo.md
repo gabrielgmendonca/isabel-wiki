@@ -92,7 +92,7 @@ A kenose oferece **modelo operacional** para o estudante espírita em três fren
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 2:5–11. Edição: [[raw/biblia-acf/filipenses/2]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Filipenses, 2:5–11. Edição: [[wiki/biblia/filipenses/2]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 100–113 (escala espírita), q. 258, 851 (provas escolhidas), q. 625 (Jesus como tipo mais perfeito), q. 1009–1012 (escala progressiva).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. VII (bem-aventurados os pobres de espírito); cap. XVII (sede perfeitos).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XV (superioridade da natureza de Jesus).

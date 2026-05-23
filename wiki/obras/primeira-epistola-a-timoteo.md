@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Primeira Epístola do Apóstolo Paulo a Timóteo (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico. Citado seletivamente por Kardec; lido à luz do Pentateuco. A **autoria paulina das três Pastorais** (1 Tm, 2 Tm, Tt) é contestada por parte da exegese moderna, que as data tardiamente (c. 90–100 d.C.) e as atribui a discípulo deuteropaulino; a tradição da Igreja, porém, mantém Paulo como autor, e o conjunto preserva voz pastoral coerente com a do apóstolo histórico. Para o estudo espírita, a questão de autoria não altera o regime de hierarquia: as Pastorais são lidas como **camada apostólica autorizada**, com peso seletivo conforme passem ou não pelo crivo do Pentateuco.
 - **Capítulos:** 6 (113 versículos no total — uma das paulinas curtas).
-- **Texto integral:** [[raw/biblia-acf/1-timoteo/1]] · [[raw/biblia-acf/1-timoteo/2]] · [[raw/biblia-acf/1-timoteo/3]] · [[raw/biblia-acf/1-timoteo/4]] · [[raw/biblia-acf/1-timoteo/5]] · [[raw/biblia-acf/1-timoteo/6]].
+- **Texto integral:** [[wiki/biblia/1-timoteo/1]] · [[wiki/biblia/1-timoteo/2]] · [[wiki/biblia/1-timoteo/3]] · [[wiki/biblia/1-timoteo/4]] · [[wiki/biblia/1-timoteo/5]] · [[wiki/biblia/1-timoteo/6]].
 
 ## Cabeçalho
 
@@ -47,7 +47,7 @@ A confissão autobiográfica de 1:12–17 — "a mim, que dantes fui blasfemo, e
 - **Redenção como caminho de progresso, não como troca jurídica**. Kardec relê "salvar os pecadores" não como **redenção vicária** (Cristo carrega a culpa em lugar do pecador), mas como **apontar o caminho moral** e oferecer modelo do Espírito perfeito que a humanidade pode seguir (ESE cap. I, itens 9–11; cap. XV "Fora da caridade não há salvação"). O próprio Paulo descreve sua transformação não como abolição mágica do passado, mas como reconhecimento do erro + "longanimidade" do Cristo + "exemplo dos que haviam de crer nele para a vida eterna" (1:16). É **emenda moral exemplar**, não substituição metafísica.
 - **A "misericórdia" alcançada na ignorância**. "Alcancei misericórdia, porque o fiz ignorantemente, na incredulidade" (1:13) tem paralelo direto com [[wiki/obras/livro-dos-espiritos|LE]] q. 638: a falta cometida em ignorância tem responsabilidade atenuada em comparação com a falta cometida em consciência plena. A doutrina espírita usa este princípio para diferenciar a culpa do Espírito que erra por imaturidade e a do que erra por revolta deliberada — Kardec é explícito que o julgamento divino mede pela **proporção da luz disponível**.
 
-O capítulo encerra com o mandato direto a Timóteo — "Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia; conservando a fé, e a boa consciência" (1:18–19) — e a entrega disciplinar de **Himeneu e Alexandre** "a Satanás, para que aprendam a não blasfemar" (1:20). O versículo é controverso na exegese; em chave espírita, "entregar a Satanás" não é maldição metafísica nem condenação à danação eterna — é **excomunhão pastoral** (separação da comunidade) com finalidade pedagógica ("para que aprendam"), coerente com a leitura kardequiana do "Satanás" como ímã de afinidade fluídica: o Espírito ou homem afastado da disciplina moral fica exposto, por consequência natural, à influência dos planos espirituais inferiores afins (cf. LE q. 478–479 sobre influência dos Espíritos imperfeitos; ESE cap. V, item 20 sobre os enfermos morais). Ver [[raw/biblia-acf/1-timoteo/1]].
+O capítulo encerra com o mandato direto a Timóteo — "Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia; conservando a fé, e a boa consciência" (1:18–19) — e a entrega disciplinar de **Himeneu e Alexandre** "a Satanás, para que aprendam a não blasfemar" (1:20). O versículo é controverso na exegese; em chave espírita, "entregar a Satanás" não é maldição metafísica nem condenação à danação eterna — é **excomunhão pastoral** (separação da comunidade) com finalidade pedagógica ("para que aprendam"), coerente com a leitura kardequiana do "Satanás" como ímã de afinidade fluídica: o Espírito ou homem afastado da disciplina moral fica exposto, por consequência natural, à influência dos planos espirituais inferiores afins (cf. LE q. 478–479 sobre influência dos Espíritos imperfeitos; ESE cap. V, item 20 sobre os enfermos morais). Ver [[wiki/biblia/1-timoteo/1]].
 
 **Cap. 2 — Prece universal; mediação cristológica; silêncio cúltico da mulher.** Capítulo doutrinariamente decisivo, divisível em três blocos:
 
@@ -55,7 +55,7 @@ O capítulo encerra com o mandato direto a Timóteo — "Este mandamento te dou,
 
 *2:5–7 — Um só Mediador.* "Porque há **um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem**. O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo" (2:5–6). Versículo cristologicamente forte mas formulado com precisão decisiva para o Espiritismo: **Cristo é Mediador, e é Mediador como *homem*** (gr. *ánthrōpos Christòs Iēsoũs*). Paulo não diz "Deus encarnado"; diz "Cristo Jesus homem". A leitura espírita lê o versículo na chave de ESE Introdução (Jesus como Espírito puro encarnado, modelo e guia da humanidade) e [[wiki/obras/genese|Gênese]] cap. XV (a missão do Cristo na economia do progresso humano) — não na chave da Trindade dogmática nem da divindade ontológica de Jesus. "Preço de redenção" (gr. *antílutron*) lê-se como **resgate moral pelo exemplo e pelo ensino**, não como pagamento vicário ao Pai (cf. comentário de ESE cap. I sobre o sentido da missão).
 
-*2:8–15 — Decoro cúltico; silêncio e sujeição da mulher.* "Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda" (2:8) — universalização do **gesto orante** sem reserva ao templo ou ao culto formal, coerente com ESE cap. XXVII, item 9 (a prece é elevação do pensamento, não rito espacial). Em seguida, prescrição cultural sobre a mulher — "ataviem-se em traje honesto, com pudor e modéstia" (2:9), "a mulher aprenda em silêncio, com toda a sujeição" (2:11), "não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido" (2:12), com fundamentação na ordem da criação ("primeiro foi formado Adão", 2:13) e na queda de Eva (2:14), e promessa de salvação "dando à luz filhos" (2:15). Ver [[raw/biblia-acf/1-timoteo/2]].
+*2:8–15 — Decoro cúltico; silêncio e sujeição da mulher.* "Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda" (2:8) — universalização do **gesto orante** sem reserva ao templo ou ao culto formal, coerente com ESE cap. XXVII, item 9 (a prece é elevação do pensamento, não rito espacial). Em seguida, prescrição cultural sobre a mulher — "ataviem-se em traje honesto, com pudor e modéstia" (2:9), "a mulher aprenda em silêncio, com toda a sujeição" (2:11), "não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido" (2:12), com fundamentação na ordem da criação ("primeiro foi formado Adão", 2:13) e na queda de Eva (2:14), e promessa de salvação "dando à luz filhos" (2:15). Ver [[wiki/biblia/1-timoteo/2]].
 
 > [!warning] Divergência com Kardec — silêncio e sujeição da mulher
 > 1 Tm 2:11–15 é uma das três passagens-chave do quadro paulino de subordinação feminina (junto com 1 Co 14:34–35 e Ef 5:22–24). A leitura espírita **recusa**:
@@ -74,7 +74,7 @@ Em chave espírita, três elementos do quadro são integralmente assimiláveis:
 - **Governo doméstico como prova do governo comunitário** (3:4–5). Princípio retomado por André Luiz / Chico Xavier em obras como *No Mundo Maior* e *Conduta Espírita* (Waldo Vieira): a casa é a primeira escola moral, e a posição de servidor da causa exige primeiro o testemunho dado no próprio lar (cf. [[wiki/conceitos/culto-do-evangelho-no-lar]]).
 - **"Não neófito"** (3:6) — recomendação que ecoa o cuidado kardequiano contra o orgulho do recém-convertido ou do médium principiante (LM 2ª parte cap. XX, itens 220–226 sobre **obsessão fascinadora**, em que o Espírito imperfeito infla o orgulho do médium novato).
 
-A doxologia hímnica de 3:16 — "Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória" — é provavelmente **fragmento litúrgico** das primeiras comunidades, reaproveitado por Paulo (paralelo de Fp 2:6–11). Em chave espírita, "manifestou-se em carne" não é encarnação ontológica de Deus, mas **vinda do Cristo encarnado** como Espírito puro à humanidade (Gênese cap. XV); "recebido acima na glória" é o **retorno ao seu plano espiritual** após a missão cumprida (ESE Introdução IV). Ver [[raw/biblia-acf/1-timoteo/3]].
+A doxologia hímnica de 3:16 — "Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória" — é provavelmente **fragmento litúrgico** das primeiras comunidades, reaproveitado por Paulo (paralelo de Fp 2:6–11). Em chave espírita, "manifestou-se em carne" não é encarnação ontológica de Deus, mas **vinda do Cristo encarnado** como Espírito puro à humanidade (Gênese cap. XV); "recebido acima na glória" é o **retorno ao seu plano espiritual** após a missão cumprida (ESE Introdução IV). Ver [[wiki/biblia/1-timoteo/3]].
 
 **Cap. 4 — Falsos mestres; advertência sobre espíritos enganadores; cuidado da faculdade espiritual.** Capítulo central da carta para o estudo espírita, divisível em três blocos:
 
@@ -97,7 +97,7 @@ A resposta paulina (4:4–5) — "porque toda a criatura de Deus é boa, e não 
 - **Dever de cultivá-lo ativamente** — "não desprezes". O dom esfria com descuido moral (LM 2ª parte cap. XX, item 226).
 - **Imposição das mãos do *presbitério*** (plural, colegiado) — sugere prática comunitária ritualizada na Igreja primitiva. Em chave espírita, o passe coletivo concentra ação fluídica de vários encarnados sobre o receptor (Gênese cap. XIV sobre fluidos; LM cap. XIV).
 
-Ver [[raw/biblia-acf/1-timoteo/4]].
+Ver [[wiki/biblia/1-timoteo/4]].
 
 **Cap. 5 — Disciplina pastoral interna; viúvas; presbíteros; imposição precipitada.** Capítulo prático sobre administração da comunidade, divisível em quatro blocos:
 
@@ -115,7 +115,7 @@ Ver [[raw/biblia-acf/1-timoteo/4]].
 
 A frase "não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas freqüentes enfermidades" (5:23) — conselho pessoal e médico, sem peso doutrinário — é citada como evidência de que a Pastoral é correspondência genuína, e não tratado teológico póstumo.
 
-Ver [[raw/biblia-acf/1-timoteo/5]].
+Ver [[wiki/biblia/1-timoteo/5]].
 
 **Cap. 6 — Escravos; falsos mestres por ganho; contentamento; amor ao dinheiro; atributos de Deus; mandato final.** Capítulo final denso, divisível em cinco blocos:
 
@@ -152,7 +152,7 @@ Os atributos de Deus de 6:15–16 — "**a seu tempo mostrará o bem-aventurado,
 - **Não é anti-intelectualismo**. O Espiritismo dialoga com a ciência genuína desde a Codificação ([[wiki/obras/livro-dos-espiritos|LE]] Introdução; [[wiki/obras/genese|Gênese]] cap. I; OPE "Caracteres da revelação espírita"); Kardec apresenta o Espiritismo como "ciência de observação", não como dogma fechado.
 - **O alvo de Paulo é a pseudo-gnose** — especulação sem método, sem critério e sem fruto moral. O que distingue a "ciência verdadeira" da "falsamente chamada" é o **fruto moral** e a **conformidade com o ensino de Jesus** (6:3) — exatamente os dois critérios paulinos do discernimento.
 
-Ver [[raw/biblia-acf/1-timoteo/6]].
+Ver [[wiki/biblia/1-timoteo/6]].
 
 ## Temas centrais para o estudo espírita
 
@@ -238,7 +238,7 @@ Status de ambas: tratamento concluído por referência.
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Primeira Epístola a Timóteo, caps. 1–6. Edições: [[raw/biblia-acf/1-timoteo/1]] · [[raw/biblia-acf/1-timoteo/2]] · [[raw/biblia-acf/1-timoteo/3]] · [[raw/biblia-acf/1-timoteo/4]] · [[raw/biblia-acf/1-timoteo/5]] · [[raw/biblia-acf/1-timoteo/6]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Primeira Epístola a Timóteo, caps. 1–6. Edições: [[wiki/biblia/1-timoteo/1]] · [[wiki/biblia/1-timoteo/2]] · [[wiki/biblia/1-timoteo/3]] · [[wiki/biblia/1-timoteo/4]] · [[wiki/biblia/1-timoteo/5]] · [[wiki/biblia/1-timoteo/6]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 1, 5, 10–13 (atributos de Deus; incognoscibilidade), q. 165–170 (sobrevivência consciente), q. 200–203 (escolha das provas, sexo dos Espíritos), q. 478–479 (influência dos Espíritos imperfeitos), q. 621 (universalismo da lei moral), q. 638 (atenuação da culpa na ignorância), q. 686–701 (Lei de Reprodução), q. 702–727 (Lei de Conservação), q. 766–775 (Lei de Sociedade), q. 814–822 (Lei de Justiça aplicada à riqueza), q. 822–824 (Lei de Igualdade), q. 829–832 (escravidão contra a lei natural), q. 836 (endurecimento moral), q. 919 (caridade pelo exemplo), q. 1009 (gratuidade da mediunidade).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XIV (passe e fluido vital); cap. XX (formação dos médiuns; obsessão fascinadora — itens 220–226; estudo crítico das comunicações — itens 230–232); **cap. XXIII (Espíritos enganadores)**; **cap. XXIV (identificação dos Espíritos)**; cap. XXVI (médiuns interesseiros).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução (Jesus como Espírito puro encarnado); cap. I (não vim destruir a lei), itens 9–11; cap. V (bem-aventurados os afligidos), item 20; cap. X (misericórdia); cap. XI (justiça); cap. XII (amai os inimigos); cap. XIV (amor ao próximo); cap. XV (fora da caridade não há salvação); **cap. XVI (Não se pode servir a Deus e a mamon)**, esp. itens 7–14; cap. XVII (sede perfeitos), esp. itens 4 e 7; cap. XXIII (estranha moral); cap. XXVII (pedi e obtereis), itens 9–10; cap. XXVIII (prece pelos inimigos).

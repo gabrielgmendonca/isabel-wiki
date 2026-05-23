@@ -22,7 +22,7 @@ status: ativo
 - **Título:** Epístola aos Hebreus (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico não-evangélico). Citada seletivamente por Kardec (ex.: Hb 1:14 — "todos eles espíritos ministradores" — figura em ESE cap. XI e Gênese cap. XI para a identificação anjos = Espíritos; Hb 12:9 — "Pai dos espíritos" — ecoa implicitamente a doutrina espírita da paternidade divina universal); lida à luz do Pentateuco.
 - **Capítulos:** 13
-- **Texto integral:** [[raw/biblia-acf/hebreus/1]]
+- **Texto integral:** [[wiki/biblia/hebreus/1]]
 
 ## Cabeçalho
 
@@ -50,17 +50,17 @@ Ao mesmo tempo, Hebreus traz **três pontos** em que a leitura literalista entra
 
 **Cap. 1 — Filho maior do que os anjos.** Prólogo solene: "Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho" (1:1–2). Segue cadeia de citações do AT mostrando a superioridade do Filho sobre os anjos. A afirmação de 1:3 — "sendo o resplendor da sua glória, e a expressa imagem da sua pessoa" — é um dos textos-raiz da cristologia nicena tardia que identifica Cristo a Deus. A leitura espírita distingue: Jesus é o **Espírito mais elevado que se ofereceu à Terra como modelo**, "tipo da perfeição moral" (LE q. 625), enviado do Pai, mas **não é** idêntico ao Pai (OPE §III — "Estudo sobre a natureza do Cristo"; ESE cap. I).
 
-Em 1:7 e sobretudo em **1:14** — "Não são porventura todos eles espíritos ministradores, enviados para servir a favor daqueles que hão de herdar a salvação?" — o autor enuncia, como parte natural do seu argumento, aquilo que o Espiritismo elevará a princípio: **os anjos são Espíritos**. A passagem é citada por Kardec em Gênese cap. XI, item 30, e sustenta a recusa da doutrina eclesiástica dos anjos como ordem criada à parte (C&I 1ª parte cap. VIII). Ver [[raw/biblia-acf/hebreus/1]].
+Em 1:7 e sobretudo em **1:14** — "Não são porventura todos eles espíritos ministradores, enviados para servir a favor daqueles que hão de herdar a salvação?" — o autor enuncia, como parte natural do seu argumento, aquilo que o Espiritismo elevará a princípio: **os anjos são Espíritos**. A passagem é citada por Kardec em Gênese cap. XI, item 30, e sustenta a recusa da doutrina eclesiástica dos anjos como ordem criada à parte (C&I 1ª parte cap. VIII). Ver [[wiki/biblia/hebreus/1]].
 
 - **Conceitos:** [[wiki/conceitos/anjos]], [[wiki/conceitos/escala-espirita]]
 
 **Cap. 2 — "Coroado de glória pelas aflições"; Jesus fez-se em tudo como nós.** Exortação a não "desviarmo-nos" da salvação anunciada (2:1–4), seguida do argumento-cume: Jesus, "coroado de glória e de honra" (2:9), foi consagrado príncipe da salvação **pelas aflições** (2:10): "convinha que aquele [...] consagrasse pelas aflições o príncipe da salvação deles". "Em tudo foi feito semelhante aos irmãos" (2:17), e "naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados" (2:18).
 
-Leitura espírita: a passagem oferece ancoragem direta para a **economia das provas** (ESE cap. V — utilidade do sofrimento) **aplicada ao próprio Cristo**. A moral de Jesus não é ensino abstrato — é experiência vivida na carne humana. É por isso que Ele é modelo real, não ideal distante: "Jesus é para o homem o tipo da perfeição moral a que pode aspirar a Humanidade na Terra" (LE q. 625). Ver [[raw/biblia-acf/hebreus/2]].
+Leitura espírita: a passagem oferece ancoragem direta para a **economia das provas** (ESE cap. V — utilidade do sofrimento) **aplicada ao próprio Cristo**. A moral de Jesus não é ensino abstrato — é experiência vivida na carne humana. É por isso que Ele é modelo real, não ideal distante: "Jesus é para o homem o tipo da perfeição moral a que pode aspirar a Humanidade na Terra" (LE q. 625). Ver [[wiki/biblia/hebreus/2]].
 
 - **Conceitos:** [[wiki/conceitos/provas-e-expiacoes]], [[wiki/conceitos/bem-aventuranca-dos-aflitos]]
 
-**Cap. 3 — Cristo maior que Moisés; "não endureçais os vossos corações".** A comparação com Moisés (3:1–6) mantém a elevação tipológica da carta. A segunda metade, porém, traz o chamado moral mais vivo: "se ouvirdes hoje a sua voz, não endureçais os vossos corações" (3:7–8, citando Sl 95). Advertência contra o endurecimento voluntário da consciência, exemplificado na geração do deserto que "não puderam entrar por causa da sua incredulidade" (3:19). Lido em chave espírita, descreve exatamente o perfil dos Espíritos endurecidos descritos em C&I 2ª parte cap. VII: não se trata de condenação divina, mas de **recusa obstinada do próprio Espírito** a se corrigir. Ver [[raw/biblia-acf/hebreus/3]].
+**Cap. 3 — Cristo maior que Moisés; "não endureçais os vossos corações".** A comparação com Moisés (3:1–6) mantém a elevação tipológica da carta. A segunda metade, porém, traz o chamado moral mais vivo: "se ouvirdes hoje a sua voz, não endureçais os vossos corações" (3:7–8, citando Sl 95). Advertência contra o endurecimento voluntário da consciência, exemplificado na geração do deserto que "não puderam entrar por causa da sua incredulidade" (3:19). Lido em chave espírita, descreve exatamente o perfil dos Espíritos endurecidos descritos em C&I 2ª parte cap. VII: não se trata de condenação divina, mas de **recusa obstinada do próprio Espírito** a se corrigir. Ver [[wiki/biblia/hebreus/3]].
 
 **Cap. 4 — Repouso de Deus; palavra penetrante; sumo sacerdote que se compadece.** "Resta ainda um repouso para o povo de Deus" (4:9): a escatologia paulina aponta para um estado de harmonia alcançado, que o Espiritismo lê como a felicidade dos Espíritos purificados (C&I 1ª parte cap. III).
 
@@ -72,7 +72,7 @@ A **"palavra de Deus"** aqui não é o texto fixo da Escritura — é a instruç
 
 > "Visto que temos um grande sumo sacerdote [...]. Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado." (Hb 4:14–15)
 
-Jesus que "em tudo foi tentado" confirma a leitura espírita: a perfeição moral não é ausência de provações — é fidelidade dentro delas. Ver [[raw/biblia-acf/hebreus/4]].
+Jesus que "em tudo foi tentado" confirma a leitura espírita: a perfeição moral não é ausência de provações — é fidelidade dentro delas. Ver [[wiki/biblia/hebreus/4]].
 
 - **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/fe-raciocinada]]
 
@@ -83,7 +83,7 @@ Jesus que "em tudo foi tentado" confirma a leitura espírita: a perfeição mora
 > "E, sendo ele consumado, veio a ser a causa da eterna salvação para todos os que lhe obedecem." (Hb 5:9)
 > "Ainda que era Filho, aprendeu a obediência, por aquilo que padeceu." (Hb 5:8)
 
-Jesus **aprende** e **é consumado** — verbos de processo, não de estado eterno imutável. É uma das bases escriturais para a leitura espírita segundo a qual o Cristo encarnado **viveu como homem** uma trajetória de obediência e aperfeiçoamento da própria missão, não executou um roteiro cósmico fixo. Isso harmoniza com LE q. 625 (Cristo como tipo que a Humanidade pode tomar por modelo) e com OPE §III (Espírito elevadíssimo missionário do Pai, não Deus). Ver [[raw/biblia-acf/hebreus/5]].
+Jesus **aprende** e **é consumado** — verbos de processo, não de estado eterno imutável. É uma das bases escriturais para a leitura espírita segundo a qual o Cristo encarnado **viveu como homem** uma trajetória de obediência e aperfeiçoamento da própria missão, não executou um roteiro cósmico fixo. Isso harmoniza com LE q. 625 (Cristo como tipo que a Humanidade pode tomar por modelo) e com OPE §III (Espírito elevadíssimo missionário do Pai, não Deus). Ver [[wiki/biblia/hebreus/5]].
 
 - **Conceitos:** [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/perfeicao-moral]]
 - **Personalidades:** [[wiki/personalidades/melquisedeque]]
@@ -98,11 +98,11 @@ Lida à letra, parece negar a possibilidade de recuperação do Espírito que re
 > A impossibilidade absoluta de "serem outra vez renovados para arrependimento" (Hb 6:4–6; retomada em Hb 10:26–27 — "já não resta mais sacrifício pelos pecados") colide com a misericórdia infinita e o progresso sempre aberto que Kardec ensina em LE q. 1009–1016 e C&I 1ª parte cap. VI. A análise espírita lê a passagem como **exortação pastoral** ao rigor diante de comunidade em perigo de apostasia — hipérbole parenética, não afirmação doutrinária sobre a irrecuperabilidade do Espírito.
 > Ver [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]].
 
-A seção termina com imagem luminosa da esperança: "a qual temos como âncora da alma, segura e firme" (6:19). A **esperança** como âncora — não como ilusão — é virtude ativa que o Espiritismo coroa em ESE cap. V (o consolo na confiança na justiça de Deus). Ver [[raw/biblia-acf/hebreus/6]].
+A seção termina com imagem luminosa da esperança: "a qual temos como âncora da alma, segura e firme" (6:19). A **esperança** como âncora — não como ilusão — é virtude ativa que o Espiritismo coroa em ESE cap. V (o consolo na confiança na justiça de Deus). Ver [[wiki/biblia/hebreus/6]].
 
 - **Conceitos:** [[wiki/conceitos/arrependimento]], [[wiki/conceitos/codigo-penal-da-vida-futura]]
 
-**Cap. 7 — Sacerdócio segundo Melquisedeque; mudança da lei.** Capítulo técnico-exegético: Melquisedeque, "rei de Salém, sacerdote do Deus Altíssimo" (7:1), a quem Abraão deu o dízimo, prefigura um sacerdócio **superior ao levítico** (7:4–10). A conclusão "mudando-se o sacerdócio, necessariamente se faz também mudança da lei" (7:12) é pedra angular do argumento: a antiga aliança dá lugar à nova. A chave-leitura espírita: o "sacerdócio" verdadeiro não é função ritual, mas **mediação moral** — Cristo como intercessor permanente porque "permanece eternamente" (7:24), e porque oferece a si próprio "uma vez" (7:27). Quando o Espiritismo recusa o sacerdócio sacramental como condição da salvação (ESE cap. XV — "fora da caridade não há salvação"), está radicalizando a mesma trajetória que Hebreus já inicia. Ver [[raw/biblia-acf/hebreus/7]].
+**Cap. 7 — Sacerdócio segundo Melquisedeque; mudança da lei.** Capítulo técnico-exegético: Melquisedeque, "rei de Salém, sacerdote do Deus Altíssimo" (7:1), a quem Abraão deu o dízimo, prefigura um sacerdócio **superior ao levítico** (7:4–10). A conclusão "mudando-se o sacerdócio, necessariamente se faz também mudança da lei" (7:12) é pedra angular do argumento: a antiga aliança dá lugar à nova. A chave-leitura espírita: o "sacerdócio" verdadeiro não é função ritual, mas **mediação moral** — Cristo como intercessor permanente porque "permanece eternamente" (7:24), e porque oferece a si próprio "uma vez" (7:27). Quando o Espiritismo recusa o sacerdócio sacramental como condição da salvação (ESE cap. XV — "fora da caridade não há salvação"), está radicalizando a mesma trajetória que Hebreus já inicia. Ver [[wiki/biblia/hebreus/7]].
 
 - **Personalidades:** [[wiki/personalidades/melquisedeque]], Abraão
 
@@ -112,7 +112,7 @@ A seção termina com imagem luminosa da esperança: "a qual temos como âncora 
 
 É a **matriz neotestamentária** do axioma kardequiano: "onde está escrita a lei de Deus? Na consciência" (LE q. 621). A lei divina não é código exterior — é disposição interior que cada Espírito traz inscrita; o que a Revelação (Moisés, Jesus, o Espiritismo como [[wiki/conceitos/tres-revelacoes|terceira revelação]]) faz é **despertar e esclarecer** a lei já presente, não implantá-la de fora. A nova aliança de Hebreus **é**, pela leitura espírita, a Lei Natural.
 
-A continuação — "não ensinará cada um a seu próximo [...] dizendo: Conhece o Senhor; porque todos me conhecerão" (8:11) — é uma das formulações mais poderosas do **universalismo moral** que o Espiritismo coroa em LE q. 1009–1016 e em ESE cap. XI. Ver [[raw/biblia-acf/hebreus/8]].
+A continuação — "não ensinará cada um a seu próximo [...] dizendo: Conhece o Senhor; porque todos me conhecerão" (8:11) — é uma das formulações mais poderosas do **universalismo moral** que o Espiritismo coroa em LE q. 1009–1016 e em ESE cap. XI. Ver [[wiki/biblia/hebreus/8]].
 
 - **Conceitos:** [[wiki/conceitos/lei-natural]], [[wiki/conceitos/leis-morais]], [[wiki/conceitos/tres-revelacoes]]
 
@@ -120,7 +120,7 @@ A continuação — "não ensinará cada um a seu próximo [...] dizendo: Conhec
 
 > "E, como aos homens está ordenado morrerem uma vez, vindo depois disso o juízo, assim também Cristo, oferecendo-se uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam para salvação." (Hb 9:27–28)
 
-Ver [[raw/biblia-acf/hebreus/9]].
+Ver [[wiki/biblia/hebreus/9]].
 
 > [!warning] Divergência com Kardec
 > Hb 9:27 ("aos homens está ordenado morrerem uma vez, vindo depois disso o juízo") é a passagem mais mobilizada pelas tradições cristãs contra a **pluralidade das existências**. A leitura espírita observa que o argumento de Hebreus é **tipológico e sacerdotal** — paralelismo entre a unicidade do sacrifício de Cristo (não repetido, em oposição aos sacrifícios anuais do sumo sacerdote levítico) e a unicidade da morte humana de cada existência; não é afirmação cosmológica sobre o número total de vidas da alma. "Morrer uma vez" é compatível com morrer uma vez **por existência corporal**; o "juízo" após a morte é a retomada de consciência e prestação de contas na vida espiritual (C&I 1ª parte caps. II, VI–VII), não juízo cosmogônico final que encerre a trajetória do Espírito. A reencarnação é afirmada pelo próprio Jesus em Jo 3:3–7 e Mt 17:12–13 (Elias retornado em João Batista — ESE cap. IV).
@@ -130,7 +130,7 @@ Ver [[raw/biblia-acf/hebreus/9]].
 
 **Cap. 10 — Sacrifício único; perseverança; o justo viverá pela fé.** Cristo, pelo único sacrifício, "aperfeiçoou para sempre os que são santificados" (10:14). "Retenhamos firmes a confissão da nossa esperança; porque fiel é o que prometeu" (10:23). "E consideremo-nos uns aos outros, para nos estimularmos ao amor e às boas obras" (10:24) — formulação bela da fraternidade ativa (cf. ESE cap. XV — fora da caridade não há salvação). A segunda metade do capítulo (10:26–39) retoma a advertência dura de 6:4–6, tratada na mesma divergência acima.
 
-A passagem de encerramento — "Mas o justo viverá pela fé" (10:38, citando Habacuque 2:4) — é a linha-resumo de toda a argumentação paulina e a base da seção que vem em seguida. Ver [[raw/biblia-acf/hebreus/10]].
+A passagem de encerramento — "Mas o justo viverá pela fé" (10:38, citando Habacuque 2:4) — é a linha-resumo de toda a argumentação paulina e a base da seção que vem em seguida. Ver [[wiki/biblia/hebreus/10]].
 
 ### Bloco III — Fé, correção e ética (caps. 11–13)
 
@@ -149,7 +149,7 @@ Segue a galeria dos patriarcas pela fé: Abel, Enoque (trasladado sem ver a mort
 - **"Tendo por maiores riquezas o vitupério de Cristo do que os tesouros do Egito"** (11:26) — Moisés como figura do [[wiki/conceitos/desapego-dos-bens-terrenos|desapego]] ativo em nome de um bem maior.
 - **"Dos quais o mundo não era digno, errantes pelos desertos, e montes, e pelas covas e cavernas da terra"** (11:38) — os justos perseguidos como Espíritos elevados em provas expiatórias.
 
-Ver [[raw/biblia-acf/hebreus/11]].
+Ver [[wiki/biblia/hebreus/11]].
 
 - **Conceitos:** [[wiki/conceitos/fe]], [[wiki/conceitos/fe-raciocinada]], [[wiki/conceitos/desapego-dos-bens-terrenos]]
 
@@ -164,7 +164,7 @@ Quatro afirmações decisivas para o espírita:
 3. **O fruto da correção é "paz e justiça nos exercitados por ela"** (12:11) — a prova produz, em quem a atravessa com vigilância, a virtude concreta. Ver [[wiki/conceitos/resignacao]] e [[wiki/conceitos/confianca-em-deus]].
 4. **A corrigibilidade é o signo da filiação**: "se estais sem disciplina [...] sois então bastardos, e não filhos" (12:8). Quem progride é filho; quem se endurece, afasta-se. Coerente com a liberdade de cada Espírito diante das próprias provas (LE q. 843; [[wiki/conceitos/livre-arbitrio]]).
 
-O capítulo encerra com a imagem do "monte Sião, e à cidade do Deus vivo, à Jerusalém celestial, e aos muitos milhares de anjos; à universal assembléia e igreja dos primogênitos, que estão inscritos nos céus, e a Deus, o juiz de todos, e **aos espíritos dos justos aperfeiçoados**" (12:22–23). A expressão "espíritos dos justos aperfeiçoados" é outra formulação notável: confirma que a vida póstuma é povoada de **Espíritos em diferentes graus de aperfeiçoamento**, linguagem homóloga à da [[wiki/conceitos/escala-espirita|escala espírita]] de LE Parte 2 cap. I. Ver [[raw/biblia-acf/hebreus/12]].
+O capítulo encerra com a imagem do "monte Sião, e à cidade do Deus vivo, à Jerusalém celestial, e aos muitos milhares de anjos; à universal assembléia e igreja dos primogênitos, que estão inscritos nos céus, e a Deus, o juiz de todos, e **aos espíritos dos justos aperfeiçoados**" (12:22–23). A expressão "espíritos dos justos aperfeiçoados" é outra formulação notável: confirma que a vida póstuma é povoada de **Espíritos em diferentes graus de aperfeiçoamento**, linguagem homóloga à da [[wiki/conceitos/escala-espirita|escala espírita]] de LE Parte 2 cap. I. Ver [[wiki/biblia/hebreus/12]].
 
 - **Conceitos:** [[wiki/conceitos/provas-e-expiacoes]], [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/resignacao]], [[wiki/conceitos/escala-espirita]]
 
@@ -176,7 +176,7 @@ O capítulo encerra com a imagem do "monte Sião, e à cidade do Deus vivo, à J
 - **"Não temos aqui cidade permanente, mas buscamos a futura"** (13:14) — retoma a imagem de 11:13–16; a Terra é lugar de passagem, de trabalho e aperfeiçoamento, não morada definitiva.
 - **Beneficência e comunicação** (13:16): "com tais sacrifícios Deus se agrada" — os **sacrifícios que agradam a Deus** são o bem feito e o partilhar com quem precisa, não o culto ritual. É linha direta do universalismo moral espírita.
 
-Ver [[raw/biblia-acf/hebreus/13]].
+Ver [[wiki/biblia/hebreus/13]].
 
 - **Conceitos:** [[wiki/conceitos/caridade]], [[wiki/conceitos/anjos]], [[wiki/conceitos/leis-morais/lei-de-reproducao]]
 
@@ -259,7 +259,7 @@ Ver [[raw/biblia-acf/hebreus/13]].
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Hebreus, caps. 1–13. Texto integral em [[raw/biblia-acf/hebreus/1]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola aos Hebreus, caps. 1–13. Texto integral em [[wiki/biblia/hebreus/1]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. I (Jesus, natureza e missão), IV (reencarnação no evangelho), V (bem-aventurados os aflitos), XI (amar o próximo; universalismo), XV (fora da caridade não há salvação), XVII (sede perfeitos; adoração em espírito e verdade), XIX (fé raciocinada), XXV (confiança em Deus).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 1 (Deus como causa primária), 128 (anjos são Espíritos puros), 166–222 (reencarnação e pluralidade das existências), 258 (escolha das provas), 459–466 (relações entre mundo visível e invisível), 621 (lei na consciência), 625 (Jesus como tipo da perfeição moral), 686–701 (lei de reprodução), 843 (livre-arbítrio), 940 (progresso como finalidade), 964 (retribuição pelas obras), 1009–1016 (universalismo da salvação).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. XI, itens 28–32 (anjos como Espíritos puros no plano divino).

@@ -22,7 +22,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo S. Paulo aos Gálatas (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico canônico. Citado seletivamente por Kardec, especialmente pelos eixos do **fruto do Espírito** (5:22–23, catálogo moral próximo das exigências de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XVII), do **semear e ceifar** (6:7–8, formulação apostólica direta da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]), e da **lei sintética do amor ao próximo** (5:14, paralelo direto a Mt 22:39 e a ESE cap. XV). A linguagem expiacionista de 3:13 ("fazendo-se maldição por nós") é tratada em [[wiki/divergencias/sangue-expiatorio-em-galatas|divergência específica]].
 - **Capítulos:** 6
-- **Texto integral:** [[raw/biblia-acf/galatas/1]] · [[raw/biblia-acf/galatas/2]] · [[raw/biblia-acf/galatas/3]] · [[raw/biblia-acf/galatas/4]] · [[raw/biblia-acf/galatas/5]] · [[raw/biblia-acf/galatas/6]]
+- **Texto integral:** [[wiki/biblia/galatas/1]] · [[wiki/biblia/galatas/2]] · [[wiki/biblia/galatas/3]] · [[wiki/biblia/galatas/4]] · [[wiki/biblia/galatas/5]] · [[wiki/biblia/galatas/6]]
 
 ## Cabeçalho
 
@@ -309,7 +309,7 @@ Gl 4:24 ("**o que se entende por alegoria**") é, talvez, a **autorização escr
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel — ACF). Epístola do Apóstolo S. Paulo aos Gálatas, capítulos 1–6. Edição: [[raw/biblia-acf/galatas/1]] · [[raw/biblia-acf/galatas/2]] · [[raw/biblia-acf/galatas/3]] · [[raw/biblia-acf/galatas/4]] · [[raw/biblia-acf/galatas/5]] · [[raw/biblia-acf/galatas/6]]. Disponível em: https://bibliaestudos.com/acf/galatas/
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel — ACF). Epístola do Apóstolo S. Paulo aos Gálatas, capítulos 1–6. Edição: [[wiki/biblia/galatas/1]] · [[wiki/biblia/galatas/2]] · [[wiki/biblia/galatas/3]] · [[wiki/biblia/galatas/4]] · [[wiki/biblia/galatas/5]] · [[wiki/biblia/galatas/6]]. Disponível em: https://bibliaestudos.com/acf/galatas/
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. XV (item 4 — fora da caridade não há salvação; item 10 — responsabilidade pelo bem que não se faz), XVII (sede perfeitos), XIX (item 7 — fé raciocinada).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 132 (igualdade dos Espíritos em sua origem), 625 (Jesus modelo), 649–673 (Lei de Adoração), 766–775 (Lei de Sociedade), 776–800 (Lei do Progresso), 803–824 (Lei de Igualdade), 873–919 (Lei de Justiça, Amor e Caridade), 988 (fé raciocinada), 1003–1009 (arrependimento, expiação, reparação).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Esp. cap. I, itens 14–16 (imutabilidade das leis morais); caps. XI (raça adâmica) e XIV (perispírito).

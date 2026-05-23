@@ -105,6 +105,8 @@ def check_orphan_pages(pages: list[Path]) -> dict:
         fm, _ = parse_frontmatter(p)
         if str(fm.get("index", "")).lower() == "false":
             excluded_keys.add(page_key(p))
+        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+            excluded_keys.add(page_key(p))
 
     all_keys = {page_key(p) for p in pages} - excluded_keys
     incoming: dict[str, list[str]] = {k: [] for k in all_keys}
@@ -129,9 +131,15 @@ def check_orphan_pages(pages: list[Path]) -> dict:
 
 
 def check_fontes_section(pages: list[Path]) -> dict:
-    """Check 5 — ## Fontes ausente ou vazia."""
+    """Check 5 — ## Fontes ausente ou vazia.
+
+    Skip: `capitulo-biblico` e `livro-biblico` — o próprio texto é a fonte.
+    """
     items = []
     for page in pages:
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+            continue
         text = page.read_text(encoding="utf-8")
         match = re.search(r"^## Fontes\s*$", text, re.MULTILINE)
         if not match:
@@ -167,6 +175,8 @@ def check_catalogo_missing(pages: list[Path]) -> dict:
     for p in pages:
         fm, _ = parse_frontmatter(p)
         if str(fm.get("index", "")).lower() == "false":
+            continue
+        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
             continue
         disk_keys.add(page_key(p))
 
@@ -662,7 +672,7 @@ FONTES_TO_OBRA = {
 }
 
 # Tipos de página que NÃO recebem grau/* (obras não têm grau próprio).
-GRAU_EXEMPT_TIPOS = {"obra"}
+GRAU_EXEMPT_TIPOS = {"obra", "capitulo-biblico", "livro-biblico"}
 
 
 def _is_trilha(page: Path, tags: list[str]) -> bool:
@@ -749,8 +759,9 @@ def check_tag_coverage(pages: list[Path]) -> dict:
     """Check — páginas elegíveis devem ter ao menos 1 tag tema/* (info-level).
 
     Eleva sinal sobre páginas ainda sem eixo doutrinário marcado, alimentando
-    passes incrementais de tagueamento. Skip explícito: trilhas (estruturais)
-    e meta-páginas (tipo: sintese + tag meta).
+    passes incrementais de tagueamento. Skip explícito: trilhas (estruturais),
+    meta-páginas (tipo: sintese + tag meta) e capítulos/livros bíblicos
+    publicados (texto literal, taguear por capítulo seria ruído).
     """
     items = []
     for page in pages:
@@ -759,6 +770,8 @@ def check_tag_coverage(pages: list[Path]) -> dict:
         if isinstance(tags, str):
             tags = [tags]
         if _is_trilha(page, tags) or _is_meta_tagged(fm):
+            continue
+        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
             continue
         if not any(t.startswith("tema/") for t in tags):
             items.append({
@@ -1418,7 +1431,7 @@ def check_mundos_habitados_naming(pages: list[Path]) -> dict:
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
-    valid_tipos = {"conceito", "obra", "personalidade", "questao", "aprofundamento", "sintese", "divergencia"}
+    valid_tipos = {"conceito", "obra", "personalidade", "questao", "aprofundamento", "sintese", "divergencia", "capitulo-biblico", "livro-biblico"}
     valid_status = {"rascunho", "ativo", "revisar"}
     valid_status_divergencia = {"aberta", "concluída"}
     items = []

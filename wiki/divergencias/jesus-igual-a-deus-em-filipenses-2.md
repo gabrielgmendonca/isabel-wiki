@@ -154,7 +154,7 @@ A leitura espírita preserva integralmente o **eixo ético** do hino (humildade 
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Epístola aos Filipenses, 2:5–11; Epístola aos Colossenses, 1:15–20; Epístola aos Hebreus, 1:1–4; Carta a Tito, 2:13; Romanos 5:15; 1 Coríntios 15:28; 1 Timóteo 2:5; Evangelho de João 5:19; 7:16; 10:34–36; 12:49; 14:28; 17:3; 20:17; Mateus 28:18; Salmos 82; Isaías 45:23. Edição: [[raw/biblia-acf/filipenses/2]].
+- *Bíblia Sagrada* (ACF). Epístola aos Filipenses, 2:5–11; Epístola aos Colossenses, 1:15–20; Epístola aos Hebreus, 1:1–4; Carta a Tito, 2:13; Romanos 5:15; 1 Coríntios 15:28; 1 Timóteo 2:5; Evangelho de João 5:19; 7:16; 10:34–36; 12:49; 14:28; 17:3; 20:17; Mateus 28:18; Salmos 82; Isaías 45:23. Edição: [[wiki/biblia/filipenses/2]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Q. 625. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *Obras Póstumas*. "Estudo sobre a natureza do Cristo" (9 seções: I — Posição da questão; II — Os milagres; III — As palavras de Jesus; IV — A qualidade de Messias; V — A natureza do Verbo; VI — A opinião dos apóstolos; VII — As predições dos profetas; VIII — Como surgiu o dogma da divindade; IX — Sentido de "Filho de Deus"). Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *A Gênese*. Cap. XV ("Os milagres do Evangelho — Superioridade da natureza de Jesus"); cap. XVII (Anunciação do Consolador). Trad. Guillon Ribeiro. FEB.

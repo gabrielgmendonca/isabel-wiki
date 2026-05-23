@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Segunda Epístola Universal de João (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico, citado seletivamente por Kardec e lido à luz do Pentateuco. É a **segunda mais curta** do NT (13 versículos, capítulo único; só 3 João é menor), bilhete pastoral de circunstância. Kardec não a cita diretamente; entra por completude do corpus joanino, cuja substância (amor, discernimento dos espíritos, realidade da missão do Cristo) ele lê como antecipação da moral espírita.
 - **Capítulos:** 1 (13 versículos).
-- **Texto integral:** [[raw/biblia-acf/2-joao/1]].
+- **Texto integral:** [[wiki/biblia/2-joao/1]].
 
 ## Cabeçalho
 
@@ -83,7 +83,7 @@ Status: tratamento concluído inline (mesma política de Tito/Filemom para tens�
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Segunda Epístola de João (capítulo único, 13 versículos). Edição: [[raw/biblia-acf/2-joao/1]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Segunda Epístola de João (capítulo único, 13 versículos). Edição: [[wiki/biblia/2-joao/1]].
 - *Bíblia Sagrada* (ACF). Primeira Epístola de João 2:7–8, 18, 22; 4:1–3 (mandamento antigo, anticristo, provai os espíritos); Evangelho segundo João 13:34 (mandamento novo).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 165–170 (capital moral), q. 625 (Jesus modelo), q. 873–892 ([[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]]).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução (missão do Cristo); cap. XI (amar o próximo); cap. XII (amar os inimigos); cap. XV (fora da caridade não há salvação); cap. XXI, item 9 (provai os espíritos).

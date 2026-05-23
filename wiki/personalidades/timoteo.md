@@ -106,7 +106,7 @@ Em **2 Tm**, escrita por Paulo da prisão final em Roma c. 67 d.C., o tom muda: 
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel — ACF). Atos dos Apóstolos, caps. 16–20; Romanos 16:21; 1 Coríntios 4:17 e 16:10–11; 2 Coríntios 1:1, 1:19; Filipenses 1:1; 2:19–22; Colossenses 1:1; 1 Tessalonicenses 1:1; 3:1–6; 2 Tessalonicenses 1:1; Filemom 1; 1 Timóteo (íntegra); 2 Timóteo (íntegra); Hebreus 13:23. Edições: [[raw/biblia-acf/atos/16]]; [[raw/biblia-acf/1-timoteo/1]]; [[raw/biblia-acf/2-timoteo/1]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel — ACF). Atos dos Apóstolos, caps. 16–20; Romanos 16:21; 1 Coríntios 4:17 e 16:10–11; 2 Coríntios 1:1, 1:19; Filipenses 1:1; 2:19–22; Colossenses 1:1; 1 Tessalonicenses 1:1; 3:1–6; 2 Tessalonicenses 1:1; Filemom 1; 1 Timóteo (íntegra); 2 Timóteo (íntegra); Hebreus 13:23. Edições: [[wiki/biblia/atos/16]]; [[wiki/biblia/1-timoteo/1]]; [[wiki/biblia/2-timoteo/1]].
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte, cap. XIV (passe e fluido vital); cap. XVI (médiuns inspirados); cap. XIX (papel dos médiuns nas comunicações; assinatura "Erasto e Timóteo" sobre psicografia); cap. XX, item 226 (médiuns que perdem faculdades). Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. XVII (concurso entre encarnados na obra do progresso).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 200–202 (escolha das provas e da família), q. 211 (laços de família), q. 919 (caridade pelo exemplo).

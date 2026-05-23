@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Terceira Epístola Universal de João (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico, lido à luz do Pentateuco. É o **mais curto livro do NT** (15 versículos, capítulo único) e o **menos doutrinário** de todos: carta pessoal sobre um conflito concreto de hospitalidade missionária, sem exposição de doutrina. Não citada por Kardec; entra por completude do corpus joanino. Seu valor para o estudo espírita é **moral-tipológico**: o contraste entre dois caráteres opostos.
 - **Capítulos:** 1 (15 versículos).
-- **Texto integral:** [[raw/biblia-acf/3-joao/1]].
+- **Texto integral:** [[wiki/biblia/3-joao/1]].
 
 ## Cabeçalho
 
@@ -80,7 +80,7 @@ Status: sem divergência (mesma situação de [[wiki/obras/epistola-de-tiago|Tia
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Terceira Epístola de João (capítulo único, 15 versículos). Edição: [[raw/biblia-acf/3-joao/1]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Terceira Epístola de João (capítulo único, 15 versículos). Edição: [[wiki/biblia/3-joao/1]].
 - *Bíblia Sagrada* (ACF). Evangelho segundo Mateus 7:16–20 (a árvore pelos frutos); 10:8 (de graça recebestes, de graça dai).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 766–775 ([[wiki/conceitos/leis-morais/lei-de-sociedade|Lei de Sociedade]]); q. 785–786, 913–917 (orgulho e egoísmo como causas dos males); q. 896–919 (lei de causa e efeito; sanção das leis morais).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. II (vida futura × terrena); cap. VII (bem-aventurados os pobres de espírito; humildade); cap. XIII (que a vossa mão esquerda não saiba); cap. XVI (não se pode servir a Deus e a Mamon); cap. XVII (sede perfeitos; o orgulho); cap. XVIII (muitos os chamados, poucos os escolhidos; a árvore pelos frutos).

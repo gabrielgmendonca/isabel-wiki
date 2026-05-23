@@ -64,6 +64,6 @@ Na carta-testamento das vésperas do martírio paulino, Tito aparece em missão 
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel — ACF). Epístola a Tito 1:4–5; 2:7; Gálatas 2:1–3; 2 Coríntios 2:13; 7:6–15; 8:6, 16–24; 2 Timóteo 4:10. Edições: [[raw/biblia-acf/tito/1]]; [[raw/biblia-acf/galatas/2]]; [[raw/biblia-acf/2-corintios/8]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel — ACF). Epístola a Tito 1:4–5; 2:7; Gálatas 2:1–3; 2 Coríntios 2:13; 7:6–15; 8:6, 16–24; 2 Timóteo 4:10. Edições: [[wiki/biblia/tito/1]]; [[wiki/biblia/galatas/2]]; [[wiki/biblia/2-corintios/8]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 621 (universalidade da lei moral gravada na consciência).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. cap. I (não vim destruir a lei — primado da moral interior sobre o rito); cap. XIII (caridade discreta — coleta para os santos).

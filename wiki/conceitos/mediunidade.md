@@ -94,7 +94,7 @@ Ver também [[wiki/personalidades/paulo-de-tarso]] e [[wiki/personalidades/pedro
 
 1 Coríntios 12–14 é o maior corpus neotestamentário explicitamente dedicado ao que o Espiritismo chama de mediunidade. Paulo organiza o tema em três eixos: a diversidade dos dons (cap. 12), a primazia da caridade (cap. 13) e a ordenação prática do culto mediúnico (cap. 14).
 
-### Os dons do Espírito ([[raw/biblia-acf/1-corintios/12|1 Co 12]])
+### Os dons do Espírito ([[wiki/biblia/1-corintios/12|1 Co 12]])
 
 > "Ora, há diversidade de dons, mas o Espírito é o mesmo. [...] Porque a um pelo Espírito é dada a palavra da sabedoria; e a outro, pelo mesmo Espírito, a palavra da ciência; e a outro, pelo mesmo Espírito, a fé; e a outro, pelo mesmo Espírito, os dons de curar; e a outro a operação de maravilhas; e a outro a profecia; **e a outro o dom de discernir os espíritos**; e a outro a variedade de línguas; e a outro a interpretação das línguas." (1 Co 12:4, 8–10)
 
@@ -117,11 +117,11 @@ A metáfora paulina do corpo único com muitos membros (12:12–27) articula, em
 
 Paulo interrompe a tipologia dos dons para afirmar a **primazia da moral sobre os fenômenos**:
 
-> "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine. E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé [...] e não tivesse amor, nada seria." ([[raw/biblia-acf/1-corintios/13|1 Co 13]]:1–2)
+> "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine. E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé [...] e não tivesse amor, nada seria." ([[wiki/biblia/1-corintios/13|1 Co 13]]:1–2)
 
 A mediunidade sem caridade não santifica, não aproveita. É a mesma tese de Kardec em *Viagem Espírita em 1862* (o período moralista sucede o fenomênico) e em [[wiki/conceitos/caridade|caridade]] como critério de verdadeiro espírita. O v. 8 — "havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá" — confirma que **os dons são meio, não fim**.
 
-### Ordenação prática do culto mediúnico ([[raw/biblia-acf/1-corintios/14|1 Co 14]])
+### Ordenação prática do culto mediúnico ([[wiki/biblia/1-corintios/14|1 Co 14]])
 
 Quatro princípios operacionais são formulados com clareza rara no NT:
 

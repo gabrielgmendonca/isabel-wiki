@@ -78,4 +78,4 @@ A figura é a **tutela inversa**: a vítima reconciliada se torna o instrumento 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 873-892 (Lei de Justiça, Amor e Caridade). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, cap. VII. Trad. Manuel Justiniano Quintão. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 17 e 27. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
-- Bíblia ACF — Tiago 3 (Sobre a língua); Atos 5:1-11. Edição: [[raw/biblia-acf/tiago/3]].
+- Bíblia ACF — Tiago 3 (Sobre a língua); Atos 5:1-11. Edição: [[wiki/biblia/tiago/3]].

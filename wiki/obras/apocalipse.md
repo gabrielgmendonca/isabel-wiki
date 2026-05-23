@@ -22,7 +22,7 @@ status: ativo
 - **Título:** Apocalipse de S. João Teólogo (Bíblia ACF — Almeida Corrigida e Fiel). O termo grego *apokalypsis* significa **revelação, desvelamento** — não "fim do mundo" no sentido vulgar moderno. O livro é o **único especimen apocalíptico** do cânon do NT e segue a forma literária judaica do gênero (cf. Daniel, 1 Enoque, 4 Esdras, Apocalipse de Baruque): visões cifradas em imagens animais e numéricas, dirigidas a comunidades sob perseguição, com função consoladora e parenética.
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **Nível 3** — escrito apostólico canônico (NT não-evangélico). Citado por Kardec **com cautela** e seletividade: em [[wiki/obras/genese|Gênese]] cap. XVII (predições do Evangelho) e sobretudo cap. XVIII ("Os tempos chegados"), Kardec retoma Ap 21:1–5 ("novo céu e nova terra") como **passagem-fonte profética da transição planetária**. Em C&I 1ª parte caps. VI–IX, ao refutar as penas eternas, Kardec cita Ap 20:10 entre os textos absolutizados pela teologia tradicional. A leitura espírita do Apocalipse é **alegórica em todos os seus blocos** (à exceção de Ap 21:1–5, retomado como profecia direta da transição) — ler à letra é fonte de erros doutrinários estruturais.
 - **Capítulos:** 22.
-- **Texto integral:** [[raw/biblia-acf/apocalipse/1]].
+- **Texto integral:** [[wiki/biblia/apocalipse/1]].
 
 ## Cabeçalho
 
@@ -96,7 +96,7 @@ Os sete diagnósticos morais são tipologia universal, válida para qualquer com
 
 Para o estudo espírita, as sete cartas funcionam como **espelho das casas espíritas contemporâneas** — cada comunidade pode reconhecer-se em mais de um diagnóstico. A estrutura "ao que vencer" promete, em todas as cartas, **avanço na escala espiritual** (comer da árvore da vida 2:7; não receber dano da segunda morte 2:11; pedra branca com novo nome 2:17; estrela da manhã 2:28; vestes brancas 3:5; coluna no templo 3:12; assento no trono 3:21) — alegorias do progresso que aguarda os Espíritos que perseveram (LE q. 1015–1019).
 
-Ver [[raw/biblia-acf/apocalipse/1]] · [[raw/biblia-acf/apocalipse/2]] · [[raw/biblia-acf/apocalipse/3]].
+Ver [[wiki/biblia/apocalipse/1]] · [[wiki/biblia/apocalipse/2]] · [[wiki/biblia/apocalipse/3]].
 
 - **Conceitos:** [[wiki/conceitos/discernimento-dos-espiritos]] · [[wiki/conceitos/homem-de-bem]] · [[wiki/conceitos/fe-raciocinada]]
 
@@ -124,7 +124,7 @@ Para a leitura espírita, a cena articula três pontos:
 2. **O sangue como metáfora moral.** *"Foste morto, e com o teu sangue nos compraste para Deus"* (5:9). A linguagem expiacionista exige releitura espírita — o "sangue" não é transação jurídica mágica, é **alegoria do exemplo moral** levado às últimas consequências (cf. [[wiki/divergencias/sangue-expiatorio-em-1-joao]]). O modelo de Jesus, perseverante até a cruz, abre o caminho da reabilitação para os que o seguem.
 3. **A liturgia universal (5:11–14).** *"Milhões de milhões, e milhares de milhares"* de anjos + *"toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar"* — convergência com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] universal (LE q. 649): a adoração autêntica é cósmica, não cerimonial restrita.
 
-Ver [[raw/biblia-acf/apocalipse/4]] · [[raw/biblia-acf/apocalipse/5]].
+Ver [[wiki/biblia/apocalipse/4]] · [[wiki/biblia/apocalipse/5]].
 
 - **Conceitos:** [[wiki/conceitos/sete-espiritos-de-deus]] · [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
 
@@ -160,7 +160,7 @@ Leitura tradicional: identifica as duas testemunhas com Moisés e Elias (referê
 
 Leitura espírita: ciclo paralelo, com a mesma chave hermenêutica. **Armagedom** (16:16) — provavelmente "Har-Megiddo", o "monte de Megido", planície da Galileia onde se travaram batalhas históricas (Juízes 5:19; 2 Reis 23:29) — é nome simbólico para o **conflito final entre o velho e o novo**, não localização geográfica futura. O detalhe moral importante: também aqui *"blasfemaram do Deus do céu [...] e não se arrependeram das suas obras"* (16:11) — repetição estrutural que reforça o princípio: a regeneração depende **do esforço moral interior**, não da intensidade do sofrimento exterior (LE q. 919; ESE cap. XVII).
 
-Ver [[raw/biblia-acf/apocalipse/6]] · [[raw/biblia-acf/apocalipse/7]] · [[raw/biblia-acf/apocalipse/8]] · [[raw/biblia-acf/apocalipse/9]] · [[raw/biblia-acf/apocalipse/11]] · [[raw/biblia-acf/apocalipse/15]] · [[raw/biblia-acf/apocalipse/16]].
+Ver [[wiki/biblia/apocalipse/6]] · [[wiki/biblia/apocalipse/7]] · [[wiki/biblia/apocalipse/8]] · [[wiki/biblia/apocalipse/9]] · [[wiki/biblia/apocalipse/11]] · [[wiki/biblia/apocalipse/15]] · [[wiki/biblia/apocalipse/16]].
 
 - **Conceitos:** [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/geracao-nova]] · [[wiki/conceitos/provas-e-expiacoes]]
 
@@ -200,7 +200,7 @@ Para o estudo espírita, a leitura histórica é sólida; o uso atemporal é dir
 
 Mas o mesmo cap. 14 contém uma das passagens mais difíceis para a leitura espírita: o **anúncio do tormento eterno** dos que adoram a besta — *"será atormentado com fogo e enxofre [...] e a fumaça do seu tormento sobe para todo o sempre"* (14:10–11). É a primeira aparição da linguagem da pena perpétua, que se intensificará nos caps. 19–20. Tratamento integral em [[wiki/divergencias/penas-eternas-em-apocalipse]]. **Leitura espírita resumida**: "para todo o sempre" (gr. *eis aiōnas aiōnōn*) = duração extensa, não infinitude; o "fogo" = símbolo do sofrimento moral; a pena é **temporária e reparadora** (C&I 1ª parte cap. VII; LE q. 1009).
 
-Ver [[raw/biblia-acf/apocalipse/12]] · [[raw/biblia-acf/apocalipse/13]] · [[raw/biblia-acf/apocalipse/14]] · [[raw/biblia-acf/apocalipse/17]] · [[raw/biblia-acf/apocalipse/18]].
+Ver [[wiki/biblia/apocalipse/12]] · [[wiki/biblia/apocalipse/13]] · [[wiki/biblia/apocalipse/14]] · [[wiki/biblia/apocalipse/17]] · [[wiki/biblia/apocalipse/18]].
 
 - **Conceitos:** [[wiki/conceitos/demonios]] · [[wiki/conceitos/origem-do-mal]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/geracao-nova]]
 
@@ -230,7 +230,7 @@ Quatro problemas doutrinários agudos para a leitura espírita:
 > Ap 14:10–11; 19:20; 20:10, 14–15; 21:8 ensinam, em leitura literalista, **tormento eterno** dos ímpios em "lago de fogo" e "segunda morte" perpétua. Posição de Kardec: as penas são **temporárias, proporcionais à falta, interrompíveis pelo arrependimento, medicinais e não vingativas** (C&I 1ª parte cap. VII; LE q. 1009 — "nenhuma falta é irremissível"). "Para todo o sempre" (gr. *eis aiōnas aiōnōn*) = duração extensa, não infinitude metafísica; o "fogo" e o "enxofre" = símbolo do sofrimento moral autoinfligido pela persistência no mal.
 > Ver [[wiki/divergencias/penas-eternas-em-apocalipse]].
 
-Ver [[raw/biblia-acf/apocalipse/19]] · [[raw/biblia-acf/apocalipse/20]].
+Ver [[wiki/biblia/apocalipse/19]] · [[wiki/biblia/apocalipse/20]].
 
 - **Conceitos:** [[wiki/conceitos/penas-e-gozos-futuros]] · [[wiki/conceitos/inferno]] · [[wiki/conceitos/morte-espiritual]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 
@@ -254,7 +254,7 @@ A descrição da nova Jerusalém em **dimensões cúbicas** (12 mil estádios de
 
 A imagem da **árvore da vida** (22:2) — *"que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações"* — encerra a alegoria com universalidade explícita: **a regeneração é universal** ("para a saúde das nações", *eis therapeian tōn ethnōn*), não exclusão arbitrária. O detalhe de 21:24 — *"as nações dos salvos andarão à sua luz; e os reis da terra trarão para ela a sua glória e honra"* — confirma: até "os reis da terra" (que apareceram antes como adoradores da besta) acabam **trazendo glória** à humanidade regenerada. Esse acabamento universal é, em chave kardequiana, a confirmação do **progresso indefinido** (LE q. 1015–1019): nenhum Espírito é definitivamente perdido; a regeneração final é universal.
 
-Ver [[raw/biblia-acf/apocalipse/21]] · [[raw/biblia-acf/apocalipse/22]].
+Ver [[wiki/biblia/apocalipse/21]] · [[wiki/biblia/apocalipse/22]].
 
 - **Conceitos:** [[wiki/conceitos/nova-jerusalem]] · [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-regeneradores]] · [[wiki/conceitos/leis-morais/lei-do-progresso]]
 
@@ -278,7 +278,7 @@ A leitura tradicional **fundamentalista** absolutiza a passagem: nenhum acrésci
 
 A advertência final e a saudação (22:20–21) — *"aquele que testifica estas coisas diz: Certamente cedo venho. Amém. Ora vem, Senhor Jesus. A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém."* — encerram o NT canônico em **expectativa ativa**: Jesus vem (na chave espírita: continua a vir, pela ação contínua do Espírito de Verdade), e a graça (auxílio espiritual) está sempre disponível.
 
-Ver [[raw/biblia-acf/apocalipse/22]].
+Ver [[wiki/biblia/apocalipse/22]].
 
 - **Conceitos:** [[wiki/conceitos/tres-revelacoes]] · [[wiki/conceitos/fe-raciocinada]] · [[wiki/personalidades/espiritos-reveladores]]
 
@@ -407,7 +407,7 @@ A leitura espírita adere à escola **recapitulativa** com inclinação **ideali
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Apocalipse de S. João Teólogo, caps. 1–22. Edição: [[raw/biblia-acf/apocalipse/1]] · [[raw/biblia-acf/apocalipse/2]] · [[raw/biblia-acf/apocalipse/3]] · [[raw/biblia-acf/apocalipse/4]] · [[raw/biblia-acf/apocalipse/5]] · [[raw/biblia-acf/apocalipse/6]] · [[raw/biblia-acf/apocalipse/7]] · [[raw/biblia-acf/apocalipse/8]] · [[raw/biblia-acf/apocalipse/9]] · [[raw/biblia-acf/apocalipse/10]] · [[raw/biblia-acf/apocalipse/11]] · [[raw/biblia-acf/apocalipse/12]] · [[raw/biblia-acf/apocalipse/13]] · [[raw/biblia-acf/apocalipse/14]] · [[raw/biblia-acf/apocalipse/15]] · [[raw/biblia-acf/apocalipse/16]] · [[raw/biblia-acf/apocalipse/17]] · [[raw/biblia-acf/apocalipse/18]] · [[raw/biblia-acf/apocalipse/19]] · [[raw/biblia-acf/apocalipse/20]] · [[raw/biblia-acf/apocalipse/21]] · [[raw/biblia-acf/apocalipse/22]]. Disponível em [https://bibliaestudos.com/acf/apocalipse/1/](https://bibliaestudos.com/acf/apocalipse/1/).
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Apocalipse de S. João Teólogo, caps. 1–22. Edição: [[wiki/biblia/apocalipse/1]] · [[wiki/biblia/apocalipse/2]] · [[wiki/biblia/apocalipse/3]] · [[wiki/biblia/apocalipse/4]] · [[wiki/biblia/apocalipse/5]] · [[wiki/biblia/apocalipse/6]] · [[wiki/biblia/apocalipse/7]] · [[wiki/biblia/apocalipse/8]] · [[wiki/biblia/apocalipse/9]] · [[wiki/biblia/apocalipse/10]] · [[wiki/biblia/apocalipse/11]] · [[wiki/biblia/apocalipse/12]] · [[wiki/biblia/apocalipse/13]] · [[wiki/biblia/apocalipse/14]] · [[wiki/biblia/apocalipse/15]] · [[wiki/biblia/apocalipse/16]] · [[wiki/biblia/apocalipse/17]] · [[wiki/biblia/apocalipse/18]] · [[wiki/biblia/apocalipse/19]] · [[wiki/biblia/apocalipse/20]] · [[wiki/biblia/apocalipse/21]] · [[wiki/biblia/apocalipse/22]]. Disponível em [https://bibliaestudos.com/acf/apocalipse/1/](https://bibliaestudos.com/acf/apocalipse/1/).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. **Cap. XVII** ("Predições do Evangelho"); **cap. XVIII** ("Os tempos chegados") — citação direta de Ap 21:1–5 como profecia da transição planetária.
 - KARDEC, Allan. *O Céu e o Inferno*. Trad. Manuel Quintão. FEB. **1ª parte caps. III–IV** (céu e inferno conforme as religiões); **caps. V–VII** (cessação das penas futuras conforme o Espiritismo); **caps. VIII–IX** (anjos e demônios — refutação do diabo ontológico).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 1–13 (atributos divinos); q. 100–113 (escala espírita); **q. 113** (descrição dos Espíritos puros); **q. 131** (refutação do diabo); q. 459–471 (relações encarnados/desencarnados); **q. 538–540** (assistência espiritual); q. 625 (Jesus tipo mais perfeito); q. 636–640 (lei de causa e efeito); q. 649–673 (Lei de Adoração); q. 776–800 (Lei do Progresso); q. 803–824 (Lei de Igualdade); **q. 1009** (nenhuma falta é irremissível); q. 1015–1019 (universalismo do progresso).

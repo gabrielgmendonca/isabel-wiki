@@ -21,7 +21,7 @@ direitos:
 - **Título:** Epístola de Tiago (Bíblia ACF — Almeida Corrigida e Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico (NT canônico não-evangélico). Citada por Kardec sobretudo pelo eixo *fé viva = obras* (Tg 2:17) e pela formulação da **lei real / lei da liberdade** (Tg 1:25; 2:8, 12), que ecoa diretamente a Lei de Justiça, Amor e Caridade (LE q. 873–892; ESE caps. XI–XV).
 - **Capítulos:** 5
-- **Texto integral:** [[raw/biblia-acf/tiago/1]]
+- **Texto integral:** [[wiki/biblia/tiago/1]]
 
 ## Cabeçalho
 
@@ -53,7 +53,7 @@ Saudação às doze tribos da diáspora (1:1). Logo no segundo versículo, abre 
 
 **Bem-aventurado quem suporta a tentação** (1:12). "Bem-aventurado o homem que sofre a tentação; porque, quando for provado, receberá a coroa da vida." Paralelo das [[wiki/conceitos/bem-aventurancas|bem-aventuranças]] do Sermão da Montanha — em particular da [[wiki/conceitos/bem-aventuranca-dos-aflitos|bem-aventurança dos aflitos]] e da [[wiki/conceitos/bem-aventuranca-dos-perseguidos|bem-aventurança dos perseguidos]].
 
-**Deus a ninguém tenta** (1:13–15). Centro doutrinário do capítulo. Descontamina a noção popular de "Deus me submete a esta tentação para me provar" e localiza a origem do mal **dentro do próprio ser** — "cada um é tentado, quando atraído e engodado pela sua própria concupiscência" (1:14). A imagem da concupiscência que "dá à luz o pecado" (1:15) é **psicologia moral**, não dogmática: descreve o ciclo desejo→ação→consequência que Kardec sistematizará em [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e em [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843–850). Ver [[raw/biblia-acf/tiago/1]].
+**Deus a ninguém tenta** (1:13–15). Centro doutrinário do capítulo. Descontamina a noção popular de "Deus me submete a esta tentação para me provar" e localiza a origem do mal **dentro do próprio ser** — "cada um é tentado, quando atraído e engodado pela sua própria concupiscência" (1:14). A imagem da concupiscência que "dá à luz o pecado" (1:15) é **psicologia moral**, não dogmática: descreve o ciclo desejo→ação→consequência que Kardec sistematizará em [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e em [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE q. 843–850). Ver [[wiki/biblia/tiago/1]].
 
 **Pai das luzes** (1:17). "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação." Formulação bíblica matriz da imutabilidade dos atributos divinos — **Deus único, justo, imutável** (LE q. 13). Paralelo neotestamentário do "Pai dos espíritos" de Hb 12:9.
 
@@ -85,7 +85,7 @@ A passagem é **base escritural** para a [[wiki/conceitos/leis-morais/lei-de-igu
 
 A leitura espírita harmoniza esta passagem com Rm 4 (justificação pela fé): a fé que Paulo louva em Abraão **é exatamente a mesma** que Tiago descreve cooperando com as obras. Não há **duas fés** — há fé viva (que age) e fé morta (mero assentimento intelectual). A "fé que os demônios também têm" (2:19) é a fé como crença em proposições sobre Deus, sem efeito moral. Kardec retoma esta exata distinção em ESE cap. XIX, item 7: "o que caracteriza a fé verdadeira é a ação". A passagem é o **paralelo apostólico direto** da [[wiki/conceitos/parabola-da-figueira-seca|parábola da figueira seca]] (Mt 21; Mc 11): a árvore com folhas mas sem frutos é cortada — a fé com profissão mas sem obras é morta.
 
-**[[wiki/personalidades/abraao|Abraão]] e Raabe** são exemplos paradigmáticos de Tiago — um patriarca e uma estrangeira pagã (não-judia) — porque a justificação pelas obras é **universal**, não étnica. Paralelo programático de At 10:34 e da abertura aos gentios. Ver [[raw/biblia-acf/tiago/2]].
+**[[wiki/personalidades/abraao|Abraão]] e Raabe** são exemplos paradigmáticos de Tiago — um patriarca e uma estrangeira pagã (não-judia) — porque a justificação pelas obras é **universal**, não étnica. Paralelo programático de At 10:34 e da abertura aos gentios. Ver [[wiki/biblia/tiago/2]].
 
 - **Conceitos:** [[wiki/conceitos/fe]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 
@@ -116,7 +116,7 @@ A tríade **terrena / animal / diabólica** é uma [[wiki/conceitos/escala-espir
 - **Animal** (*psychike*, "psíquica") — sabedoria movida pelas paixões da alma encarnada; corresponde aos Espíritos imperfeitos cuja "ignorância, desejo de gozos materiais [...] orgulho, egoísmo" (LE q. 100) ainda predominam.
 - **Diabólica** (*daimoniodes*) — sabedoria endurecida no mal; corresponde aos Espíritos endurecidos descritos em [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. X, e ao "espírito faccioso" do qual provém "toda a obra perversa" (3:16).
 
-A descrição dos sete atributos da sabedoria celeste — **pura, pacífica, moderada, tratável, cheia de misericórdia, sem parcialidade, sem hipocrisia** — é retrato moral dos Espíritos puros (LE q. 113) e dos comunicantes de [[wiki/obras/ceu-e-inferno|C&I]] 2ª parte cap. II. Ver [[raw/biblia-acf/tiago/3]].
+A descrição dos sete atributos da sabedoria celeste — **pura, pacífica, moderada, tratável, cheia de misericórdia, sem parcialidade, sem hipocrisia** — é retrato moral dos Espíritos puros (LE q. 113) e dos comunicantes de [[wiki/obras/ceu-e-inferno|C&I]] 2ª parte cap. II. Ver [[wiki/biblia/tiago/3]].
 
 - **Conceitos:** [[wiki/conceitos/escala-espirita]] · [[wiki/conceitos/inferno]] · [[wiki/conceitos/orgulho]]
 
@@ -132,7 +132,7 @@ A "humilhação" prescrita em 4:9–10 — "senti as vossas misérias, e lamenta
 
 **Não julgar o irmão** (4:11–12). "Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei." (4:11) "Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outrem?" (4:12) Eco direto de Mt 7:1 ("não julgueis para que não sejais julgados") e de Lc 6:37 e Rm 14:4, 10–13. Ver página dedicada: [[wiki/conceitos/nao-julgar]].
 
-**Vida como vapor** (4:13–17). "Que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece" (4:14). A advertência contra fazer planos sem reconhecer a precariedade radical da existência terrena ("se o Senhor quiser, e se vivermos, faremos isto ou aquilo", 4:15) ressoa diretamente em [[wiki/conceitos/desapego-dos-bens-terrenos|desapego dos bens terrenos]] e em ESE cap. II ("meu reino não é deste mundo"). Conclui com uma das **definições mais sintéticas de pecado** no NT: "**aquele, pois, que sabe fazer o bem e não o faz, comete pecado**" (4:17) — formulação **escritural matriz do pecado de omissão**, que Kardec retoma em ESE cap. XV, item 10 ("o homem é não somente responsável pelo mal que faz, mas pelo bem que não faz") e que sustenta a concepção espírita de [[wiki/conceitos/responsabilidade|responsabilidade]] (LE q. 636–640). Ver [[raw/biblia-acf/tiago/4]].
+**Vida como vapor** (4:13–17). "Que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece" (4:14). A advertência contra fazer planos sem reconhecer a precariedade radical da existência terrena ("se o Senhor quiser, e se vivermos, faremos isto ou aquilo", 4:15) ressoa diretamente em [[wiki/conceitos/desapego-dos-bens-terrenos|desapego dos bens terrenos]] e em ESE cap. II ("meu reino não é deste mundo"). Conclui com uma das **definições mais sintéticas de pecado** no NT: "**aquele, pois, que sabe fazer o bem e não o faz, comete pecado**" (4:17) — formulação **escritural matriz do pecado de omissão**, que Kardec retoma em ESE cap. XV, item 10 ("o homem é não somente responsável pelo mal que faz, mas pelo bem que não faz") e que sustenta a concepção espírita de [[wiki/conceitos/responsabilidade|responsabilidade]] (LE q. 636–640). Ver [[wiki/biblia/tiago/4]].
 
 - **Conceitos:** [[wiki/conceitos/humildade]] · [[wiki/conceitos/orgulho]] · [[wiki/conceitos/nao-julgar]] · [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/responsabilidade]]
 
@@ -154,7 +154,7 @@ Três aproveitamentos espíritas:
 
 Sobre a **unção com azeite** (5:14), ver nota interpretativa abaixo.
 
-**Converter quem se desviou** (5:19–20). "Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter, saiba que aquele que fizer converter do erro do seu caminho um pecador, salvará da morte uma alma, e cobrirá uma multidão de pecados." Fecho da carta na chave da [[wiki/conceitos/caridade|caridade]] ativa: a **caridade pelos vivos no sentido espiritual** — ajudar quem se afasta da [[wiki/conceitos/lei-natural|Lei Moral]] a retomar o caminho. Convergência com ESE cap. XV (caridade total, dos vivos e dos mortos) e com a função dos [[wiki/personalidades/espiritos-reveladores|Espíritos protetores]]. "Salvar da morte uma alma" é alegoria da [[wiki/conceitos/morte-espiritual|morte espiritual]] — entendida na chave de OPE como afastamento do progresso, não como aniquilamento. Ver [[raw/biblia-acf/tiago/5]].
+**Converter quem se desviou** (5:19–20). "Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter, saiba que aquele que fizer converter do erro do seu caminho um pecador, salvará da morte uma alma, e cobrirá uma multidão de pecados." Fecho da carta na chave da [[wiki/conceitos/caridade|caridade]] ativa: a **caridade pelos vivos no sentido espiritual** — ajudar quem se afasta da [[wiki/conceitos/lei-natural|Lei Moral]] a retomar o caminho. Convergência com ESE cap. XV (caridade total, dos vivos e dos mortos) e com a função dos [[wiki/personalidades/espiritos-reveladores|Espíritos protetores]]. "Salvar da morte uma alma" é alegoria da [[wiki/conceitos/morte-espiritual|morte espiritual]] — entendida na chave de OPE como afastamento do progresso, não como aniquilamento. Ver [[wiki/biblia/tiago/5]].
 
 - **Conceitos:** [[wiki/conceitos/desapego-dos-bens-terrenos]] · [[wiki/conceitos/prece]] · [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-do-trabalho]]
 
@@ -251,7 +251,7 @@ Ambos louvam o mesmo Abraão como modelo (Rm 4 / Tg 2:21–23). A "fé" que Paul
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola de Tiago, caps. 1–5. Edição: [[raw/biblia-acf/tiago/1]] · [[raw/biblia-acf/tiago/2]] · [[raw/biblia-acf/tiago/3]] · [[raw/biblia-acf/tiago/4]] · [[raw/biblia-acf/tiago/5]]. Disponível em [https://bibliaestudos.com/acf/tiago/1/](https://bibliaestudos.com/acf/tiago/1/).
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Epístola de Tiago, caps. 1–5. Edição: [[wiki/biblia/tiago/1]] · [[wiki/biblia/tiago/2]] · [[wiki/biblia/tiago/3]] · [[wiki/biblia/tiago/4]] · [[wiki/biblia/tiago/5]]. Disponível em [https://bibliaestudos.com/acf/tiago/1/](https://bibliaestudos.com/acf/tiago/1/).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. caps. V (utilidade do sofrimento), X (maledicência), XI–XV (caridade), XVI (não servir a Deus e a Mamon), XVII (homem de bem), XIX (fé que transporta montanhas), XXVII (prece).
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 100–113 (escala espírita), q. 621 (lei na consciência), q. 825–872 (Lei de Liberdade), q. 873–892 (Lei de Justiça, Amor e Caridade), q. 919 (perfeição moral).
 - KARDEC, Allan. *A Gênese*. Trad. Guillon Ribeiro. FEB. Cap. XIV (perispírito e ação fluídica); cap. XVII (vinda do Consolador).

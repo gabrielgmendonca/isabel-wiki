@@ -17,7 +17,7 @@ status: ativo
 - **Título:** Epístola do Apóstolo Paulo a Tito (Bíblia ACF — Almeida Corrigida Fiel).
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** Nível 3 — escrito apostólico do NT canônico não-evangélico. Citado seletivamente por Kardec; lido à luz do Pentateuco. A **autoria paulina das três Pastorais** (1 Tm, 2 Tm, Tt) é contestada por parte da exegese moderna, que as data tardiamente (c. 90–100 d.C.) e as atribui a discípulo deuteropaulino; a tradição da Igreja mantém Paulo como autor, e o conjunto preserva voz pastoral coerente. Para o estudo espírita, a questão de autoria não altera o regime de hierarquia: as Pastorais são lidas como **camada apostólica autorizada**, com peso seletivo conforme passem ou não pelo crivo do Pentateuco.
 - **Capítulos:** 3 (46 versículos — a mais curta das três Pastorais).
-- **Texto integral:** [[raw/biblia-acf/tito/1]] · [[raw/biblia-acf/tito/2]] · [[raw/biblia-acf/tito/3]].
+- **Texto integral:** [[wiki/biblia/tito/1]] · [[wiki/biblia/tito/2]] · [[wiki/biblia/tito/3]].
 
 ## Cabeçalho
 
@@ -36,7 +36,7 @@ Os critérios para presbíteros e bispos (1:5–9) são quase idênticos aos de 
 A polêmica contra falsos mestres (1:10–16) tem dois versículos doutrinariamente fortes:
 
 - **1:15 — "Todas as coisas são puras para os puros, mas nada é puro para os contaminados e infiéis; antes o seu entendimento e consciência estão contaminados."** Recusa apostólica do **legalismo cerimonial**: a pureza não é estado ritual do objeto, mas estado moral do sujeito. Eco direto de 1 Tm 4:4 ("toda a criatura de Deus é boa") e do ensino de Jesus em Mt 15:11 ("não é o que entra na boca que contamina o homem"). Convergência integral com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. VIII ("bem-aventurados os puros de coração") e cap. X — a pureza é interior.
-- **1:16 — "Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda a boa obra."** Primeira ocorrência do refrão: **a fé que não se traduz em obra é negação prática de Deus**. Convergência frontal com [[wiki/obras/epistola-de-tiago|Tg]] 2:17 ("a fé, se não tiver as obras, é morta") e com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV ("Fora da caridade não há salvação") e cap. XVIII. Ver [[raw/biblia-acf/tito/1]].
+- **1:16 — "Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda a boa obra."** Primeira ocorrência do refrão: **a fé que não se traduz em obra é negação prática de Deus**. Convergência frontal com [[wiki/obras/epistola-de-tiago|Tg]] 2:17 ("a fé, se não tiver as obras, é morta") e com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV ("Fora da caridade não há salvação") e cap. XVIII. Ver [[wiki/biblia/tito/1]].
 
 **Cap. 2 — Instrução ética por categorias; núcleo cristológico da graça educadora.** O capítulo abre com um **código doméstico** (*haustafel*) endereçado a velhos, mulheres idosas, mulheres novas, jovens e servos (2:1–10), todos sob o critério "o que convém à sã doutrina" (2:1). Notar que 2:3 atribui às mulheres idosas papel docente positivo — "**mestras no bem**" (gr. *kalodidaskalous*) — antes da recomendação de que as jovens sejam "sujeitas a seus maridos" (2:5).
 
@@ -54,7 +54,7 @@ O núcleo doutrinário do capítulo está em **2:11–14**:
   - A formulação "**o grande Deus e nosso Senhor Jesus Cristo**" (lida por parte da exegese como predicação trinitária) não se toma como divindade ontológica de Jesus. A chave espírita é a de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] Introdução (Jesus como Espírito puro encarnado, modelo e guia) e [[wiki/obras/genese|Gênese]] cap. XV (missão do Cristo). Padrão recorrente já tratado em [[wiki/divergencias/jesus-igual-a-deus-em-filipenses-2]].
   - "**Se deu a si mesmo por nós para nos remir de toda a iniquidade**" lê-se como **resgate moral pelo exemplo e pelo ensino**, não como pagamento vicário ao Pai (ESE cap. I, itens 9–11). O fecho — "zeloso de boas obras" — reancora a redenção na conduta, não na troca jurídica.
 
-Ver [[raw/biblia-acf/tito/2]].
+Ver [[wiki/biblia/tito/2]].
 
 **Cap. 3 — Ordem civil; misericórdia e regeneração; disciplina; encerramento.** "Admoesta-os a que se sujeitem aos principados e potestades… que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens" (3:1–2) — ordem civil + **mansidão universal**, eco de Rm 13 e de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. X (mansidão) e cap. XII (amai os inimigos).
 
@@ -65,7 +65,7 @@ O bloco **3:3–7** é o coração soteriológico da carta: "também nós éramo
 
 "Fiel é a palavra… **para que os que crêem em Deus procurem aplicar-se às boas obras**; estas coisas são boas e proveitosas aos homens" (3:8) fecha o círculo fé → obra. A disciplina pastoral de **3:10–11** — "ao homem hereje, depois de uma e outra admoestação, evita-o, sabendo que esse tal está pervertido, e peca, **estando já em si mesmo condenado**" — traz dois pontos espíritas: (a) a correção é **gradual** ("uma e outra admoestação" antes de evitar), paralelo de Mt 18:15–17 e de [[wiki/obras/segunda-epistola-aos-tessalonicenses|2 Ts]] 3:14–15; (b) "condenado **em si mesmo**" descreve **autocondenação consciencial** — a pena é consequência natural do estado moral e do remorso, não sentença externa arbitrária (ESE cap. VII; recusa das penas eternas, LE q. 1009).
 
-O encerramento (3:12–15) é prático: Ártemas ou [[wiki/personalidades/tiquico|Tíquico]] enviados para render Tito; encontro em Nicópolis; cuidado com Zenas, "doutor da lei", e com Apolo; e a última recorrência do refrão — "**e os nossos aprendam também a aplicar-se às boas obras**, nas coisas necessárias, para que não sejam infrutuosos" (3:14). Ver [[raw/biblia-acf/tito/3]].
+O encerramento (3:12–15) é prático: Ártemas ou [[wiki/personalidades/tiquico|Tíquico]] enviados para render Tito; encontro em Nicópolis; cuidado com Zenas, "doutor da lei", e com Apolo; e a última recorrência do refrão — "**e os nossos aprendam também a aplicar-se às boas obras**, nas coisas necessárias, para que não sejam infrutuosos" (3:14). Ver [[wiki/biblia/tito/3]].
 
 ## Temas centrais para o estudo espírita
 
@@ -126,7 +126,7 @@ Status: tratamento concluído por referência (mesma decisão de [[wiki/obras/pr
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola a Tito, caps. 1–3. Edições: [[raw/biblia-acf/tito/1]] · [[raw/biblia-acf/tito/2]] · [[raw/biblia-acf/tito/3]].
+- *Bíblia Sagrada* (Almeida Corrigida Fiel). Epístola a Tito, caps. 1–3. Edições: [[wiki/biblia/tito/1]] · [[wiki/biblia/tito/2]] · [[wiki/biblia/tito/3]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 13 (atributos de Deus), q. 165–170 (capital moral; sobrevivência consciente), q. 200–203 (sexo dos Espíritos), q. 621 (universalismo da lei moral), q. 822–824 (Lei de Igualdade), q. 829–832 (escravidão contra a lei natural), q. 919 (caridade pelo exemplo), q. 1009 (contra penas eternas; gratuidade).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Esp. 2ª parte, cap. XX (qualidade moral do servidor; formação dos médiuns).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Esp. Introdução (Jesus como Espírito puro encarnado); cap. I (sentido da missão), itens 9–11; cap. VII (penas como consequência); cap. VIII (puros de coração); cap. X (misericórdia); cap. XII (amai os inimigos); cap. XV (fora da caridade não há salvação); cap. XVII (sede perfeitos); cap. XVIII (muitos chamados, poucos escolhidos).

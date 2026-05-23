@@ -101,7 +101,7 @@ A imagem em si não diverge — ela traduz em vocabulário militar a disciplina 
 
 ## Fontes
 
-- *Bíblia Sagrada* (ACF). Epístola aos Efésios, 6:10–18. Ver [[wiki/obras/epistola-aos-efesios]] e [[raw/biblia-acf/efesios/6]].
+- *Bíblia Sagrada* (ACF). Epístola aos Efésios, 6:10–18. Ver [[wiki/obras/epistola-aos-efesios]] e [[wiki/biblia/efesios/6]].
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Q. 100–113 (escala espírita), 622–625 (fé), 873–892 (Lei de Justiça, Amor e Caridade), 909, 919 (vontade firme contra más inclinações).
 - KARDEC, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. 2ª parte, cap. XXIII (obsessão; combate moral pelas próprias armas — item 244).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. IX, X, XV, XVII (sede perfeitos), XIX (fé viva), XXVII–XXVIII (prece).

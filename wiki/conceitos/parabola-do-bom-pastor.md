@@ -62,7 +62,7 @@ Nenhuma divergência doutrinária registrada. A leitura católica tradicional id
 
 ## Fontes
 
-- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 10. Texto integral: [[raw/biblia-acf/joao/10]].
+- *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 10. Texto integral: [[wiki/biblia/joao/10]].
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. III, VI, XXI, XXIV.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Questão 625.
 - KARDEC, Allan. *Obras Póstumas*. Trad. Guillon Ribeiro. FEB. "Estudo sobre a natureza do Cristo", §VIII.
