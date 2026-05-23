@@ -272,17 +272,23 @@ Sugestão de arco, ajustável à duração disponível.
 ### Abertura (5-7 min)
 
 - Diagnóstico de Joanna no cap. 29: paz mundial como utopia enquanto não houver paz íntima. Conectar com a experiência cotidiana do público (sem ironia, sem moralismo).
-- Pergunta motivadora: *o que estamos buscando quando dizemos que buscamos paz?*
+- **Sugestão visual**: imagens que evidenciem a contradição entre o desejo universal de paz e a recorrência das guerras — manifestações pela paz lado a lado com cenas de conflito armado, ou capa de jornal com manchete sobre tratado de paz ao lado de notícia de guerra na mesma edição. O objetivo é fixar visualmente o diagnóstico do cap. 29 ("desde que não são capazes de se tolerarem reciprocamente em pequenos grupos, não se encontram em condições de respeitar os tratados, por eles mesmos firmados") antes de entrar na análise.
+- Pergunta motivadora: *o que estamos buscando quando dizemos que buscamos a paz?*
 
 ### Núcleo doutrinário (18-24 min)
 
 - **LE q. 919** ("Conhece-te a ti mesmo") como ponto de partida. Ler em voz alta a resposta dos Espíritos e o comentário de Kardec — texto curto e potente.
-- Apresentar os quatro movimentos da Oitava parte (silêncio → desidentificação → libertação → essencial) como **um único arco terapêutico**, não quatro temas separados.
-- Trabalhar com força o cap. 30: a descrição fenomenológica das sensações que sabotam o recolhimento (ruídos, imagens, fome, coceiras). É o trecho do livro que tem maior reconhecimento imediato — todo mundo já passou por isso.
+- Apresentar os quatro movimentos da Oitava parte como **um único arco terapêutico**, não quatro temas separados. Cada termo nomeia o movimento do capítulo correspondente:
+  - **Silêncio** (cap. 29) — *aquisição do silêncio interior*: domar a "mente macaco louco" e dar-se a viagem para dentro. É o **ponto de partida** do processo: sem aquietação prévia, os passos seguintes não acontecem.
+  - **Desidentificação** (cap. 30) — *distinguir o que se é do que se acumulou*: separar a essência (Eu profundo, individualidade kardequiana) da substância (hábitos, identificações, conteúdos psíquicos sedimentados). O ego cola-se no supérfluo; desidentificar é descolá-lo.
+  - **Libertação** (cap. 31) — *limpeza dos conteúdos negativos sedimentados*: trazer à consciência o que foi reprimido — inclusive resíduos reencarnatórios — e transformá-los pela conscientização e pela moral, em vez de esmagá-los. É aqui que se fecha o canal obsessivo.
+  - **Essencial** (cap. 32) — *fixar no centro o que reordena toda a periferia*: o "buscai primeiro o reino" (Mt 6:33) como critério que reorganiza toda a vida; o eu profundo conquistado, ligado à regra de ouro (Mt 7:12) e sustentado pela prece.
+- Trabalhar com força o cap. 30: a descrição fenomenológica das sensações que sabotam o recolhimento (ruídos, imagens, fome, coceiras). É o trecho do livro que tem maior reconhecimento imediato — todo mundo já passou por isso. **Sugestão visual**: imagem do "macaco louco que salta de galho em galho" (figura tradicional do budismo) para ancorar visualmente a metáfora que Joanna usa no cap. 29 — funciona como mnemônico forte para o público lembrar o diagnóstico durante a semana seguinte.
 - **Cap. 31 — 3-4 min, sem dramatizar**. Apresentar a obsessão em chave terapêutica de Joanna: sintonia + afetividade mórbida, não "fluido" nem "feitiço". Fechamento do canal obsessivo pela transformação moral (LE q. 470; ESE cap. XXV, item 7). Este é o ponto que mostra por que vale a pena ler Joanna em chave kardequiana: a Quarta Força não substitui a Doutrina — vira fenomenologia subjetiva do mecanismo mediúnico-inspirativo que Kardec já fixou (§7 do Aprofundamento).
 
 ### Articulação evangélica (8-10 min)
 
+- **Recurso pedagógico de base**: nesta seção, vale **exibir os trechos em slide, lê-los em voz alta e abrir momento de discussão** com o público. Os textos do ESE e da LE são curtos e densos — a leitura compartilhada (e não apenas a paráfrase do palestrante) sustenta a autoridade da Codificação, dá ao público a experiência direta do texto kardequiano e cria espaço para perguntas que aterrissam a doutrina no cotidiano. Privilegiar 1-2 trechos lidos integralmente em vez de muitos parafraseados.
 - Mt 6:33 lido com **ESE cap. XXV — *Buscai e achareis*, itens 6-7** (item 6 = transcrição evangélica incluindo "Buscai primeiramente o reino de Deus"; item 7 = comentário de Kardec contra o literalismo). Ler em voz alta a fórmula da ACF: *"Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas."* Esclarecer: "primeiro" é critério, não posição em lista (ver §5 do Aprofundamento acima).
 - Mt 7:12 + **ESE cap. XV, item 6** + **LE q. 875**: o silêncio interior só é fecundo se desemboca em caridade prática. Evitar que a palestra termine em "espiritualidade individualista".
 
