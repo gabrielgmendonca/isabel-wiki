@@ -144,12 +144,26 @@ class LinkCitationsTests(unittest.TestCase):
         text = "[[wiki/obras/o-livro-dos-espiritos|(LE, q. 990)]]"
         self.assertEqual(text, self.run_transform(text))
 
-    # ─── Heading: linkagem normal (parser ignora '#') ─────────────────────────
+    # ─── Heading: safe zone (auto-link em heading não renderiza no Quartz) ────
 
-    def test_citation_in_heading_is_linked(self) -> None:
-        out = self.run_transform("## (LE, q. 990) na ordem da criação")
+    def test_citation_in_heading_is_left_intact(self) -> None:
+        # Auto-link no H1-H6 polui a anchor (slug do heading absorve o link
+        # inteiro) e cria link "decorativo" onde a intenção era título.
+        text = "## (LE, q. 990) na ordem da criação"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_complementar_in_heading_is_left_intact(self) -> None:
+        # Caso concreto que motivou a safe zone: H3 com (Autor, *Obra*, ref)
+        # virava `### O sistema [[wiki/obras/...|...]]` (bonus-hora.md, 2026-05-22).
+        text = "### O sistema (segundo a senhora Laura, *Nosso Lar*, cap. 22)"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_heading_safe_zone_does_not_leak_to_next_line(self) -> None:
+        # MULTILINE + `[^\n]*` deve fechar o heading em \n — citação no corpo
+        # da linha seguinte continua sendo linkada normalmente.
+        out = self.run_transform("## Título\n(LE, q. 990) explica.")
         self.assertIn("[(LE, q. 990)](https://example.test/le/cap-3-vii)", out)
-        self.assertTrue(out.startswith("## "))
+        self.assertTrue(out.startswith("## Título\n"))
 
     # ─── Sigla ambígua: Léon Denis não vira link Kardec ───────────────────────
 
