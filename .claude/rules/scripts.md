@@ -29,6 +29,15 @@ Quando criar nova skill que invoque script Python, escrever os exemplos com `uv 
 
 Para domínios bem cobertos por bibliotecas estabelecidas — HTML→Markdown, MD→HTML, parsing de YAML/TOML, slugify, datas — preferir **adicionar a dependência** (`uv add <pkg>`) a escrever um wrapper ad hoc (ex.: conversor manual em BeautifulSoup). Antes de propor um parser/conversor custom de ~30+ linhas, verificar se há lib bem mantida no PyPI e propor `uv add` no plano. Não vale para lógica de negócio específica do projeto.
 
+## Conversores fonte → Markdown (já existem; checar antes de criar)
+
+Antes de pensar em wrapper novo para ingerir material em `raw/`, conferir `ls scripts/convert_*`. Hoje há dois conversores canônicos:
+
+- **`.doc` / `.docx`** → `uv run python scripts/convert_doc_to_md.py <dir>` (LibreOffice headless → markitdown; opera em lote sobre um diretório).
+- **`.pdf` born-digital** → `./scripts/convert_pdf_to_md.sh <arquivo.pdf>` (`marker` + modelos surya, ~6s/página em CPU; salva o `.md` ao lado do PDF). **Não** usar `markitdown` para PDF: preserva hifenização de fim de linha (`melhorando-` / `-se`), quebra cada linha do PDF como parágrafo, mantém cabeçalho corrente repetido por página e o sumário com pontilhados. `marker` resolve os três.
+
+Nova fonte (`.rtf`, `.epub`, `.html`, Pages…) → primeiro `grep`/`ls` em `scripts/convert_*`, depois lib madura no PyPI; só escrever wrapper se nenhum cobrir.
+
 ## Lint determinístico em fluxos automáticos
 
 Em automação — skills wrapper (`/ship`), hooks `PostToolUse`, loops (`/autolint`) — invocar o script determinístico `.claude/skills/lint/scripts/lint_wiki.py`, **não** a skill `/lint` (que puxa LLM para análise editorial). O script já cobre os checks estruturais (frontmatter, wikilinks, taxonomia, direitos); LLM em loop/hook é caro e o ganho é marginal. A skill `/lint` permanece para uso interativo dirigido pelo usuário. Mesmo num `/autolint` que corrija via LLM, a fase de detecção e re-validação roda no script.

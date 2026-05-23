@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #
-# pdf_to_md.sh — converte um PDF born-digital em Markdown via marker e salva o
-# .md já no lugar certo do raw/: ao lado do PDF de origem.
+# convert_pdf_to_md.sh — converte um PDF born-digital em Markdown via marker e
+# salva o .md já no lugar certo do raw/: ao lado do PDF de origem.
 #
 # Uso:
-#   ./pdf_to_md.sh <caminho/para/arquivo.pdf> [dir_de_saida] [args extras p/ marker]
+#   ./scripts/convert_pdf_to_md.sh <caminho/para/arquivo.pdf> [dir_de_saida] [args extras p/ marker]
 #
 # Exemplo:
-#   ./pdf_to_md.sh raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.pdf
+#   ./scripts/convert_pdf_to_md.sh raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.pdf
 #   -> gera raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.md
 #
 # Defaults validados por smoke test (mai/2026, corpus Bozzano/Léon Denis/Flammarion):
