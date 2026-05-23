@@ -575,6 +575,7 @@ Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capí
 - [[wiki/aprofundamentos/por-que-mediuns-falham]] — Análise da preleção de Telésforo e dos casos paradigmáticos de fracasso mediúnico (Otávio, Acelino, Belarmino, Monteiro) à luz de LM caps. XX, XXVIII (André Luiz, *Os Mensageiros*, caps. 5–13).
 - [[wiki/aprofundamentos/dor-rigidez]] — A rigidez como dor da alma: excesso íntimo, dureza social e paixão como raiz, articulando o tema 14 de *As Dores da Alma* (Hammed) com LE q. 713, 762 e 908.
 - [[wiki/aprofundamentos/decisoes-de-vida-e-providencia]] — Como a Doutrina ajuda em decisões pesadas (carreira, casamento, separação, filhos, cuidado de dependente): inspiração em vez de substituição, pedido calibrado, critério moral acima do critério de êxito, livre-arbítrio + horizonte longo (ESE cap. XXVII, com Emmanuel/*Vida e Sexo* para vida conjugal e familiar).
+- [[wiki/aprofundamentos/silencio-interior-o-ser-consciente]] — Silêncio interior como arco terapêutico em quatro tempos (silêncio → desidentificação → libertação dos conteúdos negativos → fixação no essencial), ancorado em LE q. 919 ("Conhece-te a ti mesmo") e Mt 6:33 / ESE cap. XXV ("Buscai primeiro o reino"); fenomenologia das sensações que sabotam o recolhimento, obsessão em chave terapêutica, regra de ouro como destino prático da introspecção, roteiro para palestra (Joanna de Ângelis / Divaldo Franco, *O Ser Consciente*, Oitava parte, cap. 29-32).
 
 ## Questões
 
