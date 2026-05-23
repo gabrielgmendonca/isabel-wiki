@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE, LE, André Luiz/Chico Xavier]
 tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/prece-caridade]
-atualizado_em: 2026-04-28
-status: rascunho
+atualizado_em: 2026-05-23
+status: ativo
 ---
 
 # Culto do Evangelho no lar
@@ -25,6 +25,21 @@ A prece coletiva soma:
 A oração feita "em comum" tem efeito superior à individual quando todos os concorrentes "pelo coração e pelo pensamento, se associam a um mesmo sentimento e tenham um mesmo objetivo" (ESE, cap. XXVII, item 9). É exatamente a configuração do culto familiar: pequena reunião de pessoas em afinidade afetiva e doutrinária.
 
 O ESE cap. XXVIII fornece o repertório de preces para uso doméstico e familiar — preces pelo lar, pelos filhos, pelos doentes da casa, pelos desencarnados da família. Não há dispositivo formal: o esquema é pedagogicamente aberto.
+
+## Antecedente literário em *Jesus no Lar*
+
+[[wiki/obras/jesus-no-lar|*Jesus no Lar*]] (Neio Lúcio / Chico Xavier, FEB, 1950) é a **âncora literária mais antiga** da prática. Os 50 capítulos da obra encenam, na casa de Simão Pedro em Cafarnaum, o que o cap. 1 chama explicitamente de *"o primeiro culto cristão do lar"*: depois de uma conversação doméstica "improdutiva e menos edificante", Jesus toma "os Sagrados Escritos" e converte a refeição familiar em palestra evangélica — sem rito, sem clero, com a participação de toda a família de Pedro e dos discípulos presentes:
+
+> "Pedro, acendamos aqui, em torno de quantos nos procuram a assistência fraterna, uma claridade nova. A mesa de tua casa é o lar de teu pão. Nela, recebes do Senhor o alimento para cada dia. Por que não instalar, ao redor dela, a sementeira da felicidade e da paz na conversação e no pensamento? [...] Em razão disso, o Evangelho não foi iniciado sobre a multidão, mas, sim, no singelo domicílio dos pastores e dos animais." (*Jesus no Lar*, cap. 1)
+
+Duas teses da obra fixam o quadro **anterior** ao desenvolvimento técnico de André Luiz:
+
+1. **O lar precede o templo.** *"O berço doméstico é a primeira escola e o primeiro templo da alma. A casa do homem é a legítima exportadora de caracteres para a vida comum"* (cap. 1). E em complemento, *"o lar é a escola das almas, o templo onde a sabedoria divina nos habilita, pouco a pouco, ao grande entendimento da Humanidade"* (cap. 2). Não é prática **adicional** à vida cristã — é a unidade básica dela.
+2. **Paz universal começa no lar.** *"A paz do mundo começa sob as telhas a que nos acolhemos. Se não aprendemos a viver em paz, entre quatro paredes, como aguardar a harmonia das nações?"* (cap. 1). O culto doméstico é critério geopolítico, não devocional.
+
+A obra encerra no cap. 50, na véspera da partida de Jesus para Sídon, com o culto na casa de Pedro envolto em melancolia — Mateus lê Isaías, ninguém formula indagação, e Jesus, "ao término da reunião", levanta uma **prece de intercessão pelos esquecidos** que sintetiza pastoralmente a função do culto: orar pelos delinquentes "que escapam aos tribunais da Terra, mas estão assinalados por tua justiça soberana e perfeita, por **delitos de esquecimento**". A categoria de *delito de esquecimento* — a omissão como falta moral positiva — é o aporte parabólico mais original de Neio Lúcio à compreensão espírita do culto doméstico: o que se ora **inclui** os ausentes do bem.
+
+A formulação de Neio Lúcio é **narrativa e arquetípica**; a de André Luiz, em *Os Mensageiros* (1944, mas com pedagogia técnica mais detalhada), é **operacional e fenomenológica**. As duas obras se complementam: *Jesus no Lar* responde "por que" e "com que tom"; *Os Mensageiros* responde "como" e "com que efeito fluídico".
 
 ## Desdobramentos em *Os Mensageiros*
 
@@ -68,9 +83,11 @@ O caso **Joãozinho** (cap. 36) tipifica o limite do culto: a presença de um me
 - [[wiki/conceitos/emancipacao-da-alma]] — sono físico no lar disciplinado abre a porta de intercâmbio
 - [[wiki/sinteses/lar-como-fortaleza]] — articulação entre culto, prece coletiva e sono físico
 - [[wiki/obras/os-mensageiros]] — caps. 33-39, casa de Isidoro e Isabel
+- [[wiki/obras/jesus-no-lar]] — Neio Lúcio / Chico Xavier (FEB, 1950), âncora literária mais antiga do conceito
 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 654-672 (Lei de Adoração). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
+- XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*. Rio de Janeiro: FEB, 1950, caps. 1, 2, 50. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].

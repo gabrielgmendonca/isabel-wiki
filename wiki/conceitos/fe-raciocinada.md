@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/moral]
-atualizado_em: 2026-05-19
+atualizado_em: 2026-05-23
 status: ativo
 ---
 
@@ -63,6 +63,14 @@ Daí dois critérios práticos que ela repõe a partir de Kardec:
 
 É a mesma fé raciocinada de ESE cap. XIX, aplicada à higiene do movimento espírita: crer porque se compreende, e medir toda produção mediúnica pela Codificação.
 
+### Fé sem obras como "matar a coragem" — Neio Lúcio em *Jesus no Lar*
+
+No cap. 11 de [[wiki/obras/jesus-no-lar|*Jesus no Lar*]] (Neio Lúcio / Chico Xavier, 1950), um "venerado devoto" retira-se a uma gruta isolada "a pretexto de servir a Deus" e, fascinado pela "alheia consideração", passa a desencorajar todo consulente que lhe traz projeto de serviço, casamento ou administração pública — *"venha orar e esquecer a cobiça"*, *"venha orar e consumir o pecado"*, *"venha orar, subtraindo-se à tentação"*. Morre julgando-se arrebatado ao Céu; é conduzido a "terrível purgatório de assassinos" e ouve:
+
+> "Se não fora homicida vulgar na Terra, era ali identificado como **matador da coragem e da esperança em centenas de irmãos em humanidade**. [...] A fé sem obras é uma lâmpada apagada. Nunca nos esqueçamos de que o ato de desanimar os outros, nas santas aventuras do bem, é um dos maiores pecados diante do Poderoso e Compassivo Senhor." (Neio Lúcio / Chico Xavier, *Jesus no Lar*, cap. 11)
+
+O capítulo é a tradução narrativa de Tg 2:17 ("a fé sem obras é morta") e da máxima de ESE cap. XV. O ponto cortante de Neio Lúcio é a **conversão da omissão em homicídio espiritual**: a devoção paralisante não é apenas estéril — ela mata. A figura do "santo desiludido" funciona como contraposto narrativo da fé raciocinada: enquanto esta opera porque compreende e age, aquela ora e desencoraja, recolhe veneração e adia o Reino. Ver também [[wiki/obras/jesus-no-lar]] e a categoria correlata de [[wiki/conceitos/caridade|caridade]] que age sem dinheiro (cap. 20 da mesma obra).
+
 ## Aplicação prática
 
 Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada como convite ao exame livre — o ouvinte jamais deve ser constrangido a acreditar. O estudante espírita cultiva a fé raciocinada pelo estudo metódico das obras da Codificação e pela observação dos fenômenos mediúnicos com critério e discernimento.
@@ -75,6 +83,7 @@ Na preparação de palestras e estudos, a fé raciocinada deve ser apresentada c
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XIX
 - [[wiki/obras/a-luz-do-consolador]] — fé raciocinada como disciplina de estudo metódico pela base
 - [[wiki/personalidades/yvonne-pereira]] — repõe o primado das obras da Codificação contra o sofisma
+- [[wiki/obras/jesus-no-lar]] — apólogo do "santo desiludido" (cap. 11): fé sem obras como homicídio espiritual
 
 ## Nas Obras Póstumas
 
@@ -86,3 +95,4 @@ No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocina
 - Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.
 - *Bíblia Sagrada* (ACF). Segunda Epístola aos Coríntios, 5:6–7. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
 - PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*A verdade mediúnica*, *O estranho mundo dos suicidas*, *Convite ao estudo*, *Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]]. Critério: ESE, Introdução; cap. VI.
+- XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, cap. 11 — "O santo desiludido". Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].

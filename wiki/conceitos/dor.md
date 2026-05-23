@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
 tags: [dor, sofrimento, provas, expiacao, progresso, leon-denis, andre-luiz, obra/le, obra/ese, obra/ci, autor/kardec, autor/leon-denis, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/sofrimento]
-atualizado_em: 2026-05-02
+atualizado_em: 2026-05-23
 status: ativo
 ---
 
@@ -96,6 +96,18 @@ A formulação não substitui o quadro kardeciano (provas, expiações, escolha 
 
 A leitura é compatível com Kardec (a obra cita textualmente LE q. 132 e q. 165) e adiciona vocabulário psicológico-clínico ao tratamento espírita do sofrimento — útil como ponte para audiências que chegam à Doutrina pela porta da psicoterapia.
 
+## A dor como proteção divina — Neio Lúcio em *Jesus no Lar* (cap. 31)
+
+No cap. 31 de [[wiki/obras/jesus-no-lar|*Jesus no Lar*]] (Neio Lúcio / Chico Xavier, 1950), Raquel — antiga servidora de Cusa — pergunta a Jesus por que a dor se converte em aflição nos caminhos do mundo. A resposta inverte a leitura habitual da pena como ofensa divina:
+
+> "A razão da dor humana procede da proteção divina. Os povos são famílias de Deus que, à maneira de grandes rebanhos, são chamados ao Aprisco do Alto. A Terra é o caminho. A luta que ensina e edifica é a marcha. O sofrimento é sempre o **aguilhão que desperta as ovelhas distraídas** à margem da senda verdadeira." (*Jesus no Lar*, cap. 31)
+
+A parábola que se segue narra um homem cercado de dádivas pelo seu anjo guardião desde o berço — saúde, equilíbrio, ideais, ensejo de "formar um reino de santificação e serviço, progresso e aperfeiçoamento, num lar". O tutelado, em vez de agradecer, "fez-se orgulhoso e cruel" e, no primeiro desgosto provocado por si mesmo, "gesticulou, revoltado, contra o Céu". O anjo guardião tenta levantar-lhe o ideal de bondade; é então que **"um Anjo Maior se aproximou dele e ordenou que o primeiro dissabor do tutelado endurecido por excesso de regalias se convertesse em aflição"**. A conversão é literal:
+
+> "Rolando, mentalmente, de aflição em aflição, o homem começou a recolher os valores da paciência, da humildade, do amor e da paz com todos, fazendo-se, então, precioso colaborador do Pai, na Criação." (*Jesus no Lar*, cap. 31)
+
+A formulação é convergente com ESE cap. V e com Léon Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27), mas acrescenta um aporte pastoral próprio: **a conversão deliberada do dissabor em aflição é ato divino positivo de socorro**, não acidente nem castigo. O Anjo Maior **ordena** a aflição como técnica pedagógica quando o tutelado endurecido não responde aos meios suaves. Articula-se com a dor-auxílio de André Luiz em *Ação e Reação* (cap. 19): há sofrimentos que **previnem queda maior** — e a dor convertida do dissabor em aflição é exatamente isso, intervenção espiritual amorosa que toma o resgate do passado em mãos para evitar o desastre do futuro.
+
 ## Aplicação prática
 
 - Compreender a dor como transitória e educativa alivia a revolta e abre caminho para a resignação ativa.
@@ -119,6 +131,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - [[wiki/obras/desperte-e-seja-feliz]] — tipologia funcional-pedagógica: dor-elevação, dor-conquista, dor-resgate (cap. 21)
 - [[wiki/conceitos/autocura]] — técnica de cura interior em 4 passos ([[wiki/obras/plenitude|Plenitude]] cap. IX)
 - [[wiki/conceitos/plenitude]] — estado-alvo: saúde integral pós-libertação do sofrimento
+- [[wiki/obras/jesus-no-lar]] — a dor como proteção divina e a conversão do dissabor em aflição pelo Anjo Maior (cap. 31)
 
 ## Fontes
 
@@ -129,3 +142,4 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*, cap. 19. Rio de Janeiro: FEB, 1957.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Felicidade*, cap. 4 — "Benfeitora". Salvador: LEAL, 1990.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]*, cap. 21 — "Dor-reparação". Salvador: LEAL, 1996.
+- XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, cap. 31 — "A razão da dor". Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].

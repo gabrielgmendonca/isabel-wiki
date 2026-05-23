@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [caridade, amor, egoismo, beneficencia, moral, tiago, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, autor/tiago, grau/intermediario, lei/igualdade, tema/moral]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-05-23
 status: ativo
 ---
 
@@ -129,6 +129,34 @@ Passagem **paralela direta** de Tg 2:14–17 ("se o irmão ou a irmã estiverem 
 
 Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo da carta e [[wiki/divergencias/sangue-expiatorio-em-1-joao]] para a leitura kardequiana das passagens expiacionistas (1 Jo 1:7; 2:2; 4:10).
 
+## Caridade desconhecida em Neio Lúcio (*Jesus no Lar*, caps. 9, 20, 29)
+
+[[wiki/obras/jesus-no-lar|*Jesus no Lar*]] (Neio Lúcio / Chico Xavier, 1950) trata da caridade em três registros complementares — todos em alinhamento direto com a caridade moral do ESE (caps. XIII, XV) e com a primazia paulina do amor:
+
+### O mensageiro do amor sobre o servidor da ciência (cap. 9)
+
+Diante de uma humanidade em crise, o Pai envia sucessivos "mensageiros da ciência" — um professor, um médico, um guerreiro, um artista —, mas cada um isola-se em vanguarda própria e despreza a multidão. Frustrado, o Excelso Pai envia "um mensageiro de amor aos homens", que "transformou-se no servo diligente de todos":
+
+> "Cultura e santificação representam forças inseparáveis da glória espiritual. A sabedoria e o amor são as duas asas dos anjos que alcançaram o Trono Divino, mas, em toda parte, quem ama segue à frente daquele que simplesmente sabe." (*Jesus no Lar*, cap. 9)
+
+A formulação reordena a tríade paulina fé-esperança-amor em chave de competência: a ciência sem a caridade fracassa missionariamente; **a caridade sem ciência basta** (ainda que a ciência com caridade seja superior à caridade sem ciência). Convergência com 1 Co 13:1-2 e ESE cap. XI.
+
+### Caridade desconhecida — combate silencioso ao mal (cap. 20)
+
+Um devoto sem recursos materiais, "escravo do lar que lhe absorvia o suor", reconhece que pode ainda assim **"guerrear o mal"**: cala-se diante da maledicência, lembra a virtude da vítima ausente, recolhe-se diante da cólera, defende silenciosamente o caluniado, retira pedras do caminho público. Morre temeroso do juízo; é aureolado por brilhante diadema, "a divina coroa da caridade desconhecida". Conclusão de Jesus:
+
+> "Distribuamos o pão e a cobertura, acendamos luz para a ignorância e intensifiquemos a fraternidade aniquilando a discórdia, mas não nos esqueçamos do combate metódico e sereno contra o mal, em esforço diário, convictos de que, nessa batalha santificante, conquistaremos a divina coroa da caridade desconhecida." (*Jesus no Lar*, cap. 20)
+
+O conceito amplia ESE cap. XIII, item 4 (*"a verdadeira caridade não consiste apenas no ato de dar esmola"*): há uma caridade **invisível e cotidiana** — o combate ao mal nos próprios pensamentos, na recusa da maledicência, na desfeita silenciosa da calúnia — que é tão constitutiva da virtude quanto a beneficência material. Pastoralmente, é texto-base para reabilitar a noção de caridade entre trabalhadores espíritas de baixa renda: a falta de dinheiro **não isenta** do dever caritativo nem **dispensa** sua prática.
+
+### Caridade direta supera a caridade por procuração (cap. 29)
+
+Releitura da parábola do bom samaritano: vários transeuntes ricos e poderosos (um romano de carro, um escriba, um sacerdote, uma nobre matrona, um juiz, um mercador de bolsa) "praticam a caridade" enviando moedas ou prepostos — todos sem socorro efetivo do doente jazido à beira da estrada. Apenas o publicano, "considerado de má vida", presta o socorro pessoal: levanta-o, conduz-o à estalagem, divide com ele o reduzido dinheiro. Tadeu identifica o caridoso, e Jesus conclui:
+
+> "A caridade, por substitutos, indiscutivelmente é honrosa e louvável, mas o bem que praticamos em sentido direto, dando de nós mesmos, é sempre o maior e o mais seguro de todos." (*Jesus no Lar*, cap. 29)
+
+A categoria *caridade direta* completa a noção kardequiana de caridade moral: não basta dar (material), nem basta sentir (moral); a caridade plena exige **presença corporal e tempo pessoal** — o doador entrega-se a si mesmo, não apenas a sua bolsa. Convergência com 1 Jo 3:18 (*"não amemos de palavra, nem de língua, mas por obra e em verdade"*) e com o critério paulino de 1 Co 13:3 (*"se eu repartisse todos os meus bens [...] e não tivesse amor, nada disso me aproveitaria"*).
+
 ## Na *Viagem Espírita em 1862*
 
 Kardec eleva a caridade a **critério absoluto de julgamento** entre espíritas. Propõe a dupla divisa: "Fora da caridade não há salvação" e "Fora da caridade não há verdadeiros espíritas". A caridade é apresentada como base indispensável de qualquer reforma social: sem ela, os sistemas utópicos materialistas fracassam, pois lhes falta o elemento moral.
@@ -153,8 +181,10 @@ Ver [[wiki/conceitos/verdadeiro-espirita]], [[wiki/obras/viagem-espirita-em-1862
 - [[wiki/obras/primeira-epistola-aos-corintios]] — cap. 13 (hino paulino à caridade/amor)
 - [[wiki/obras/epistola-de-tiago]] — Tg 1:27 (viúvas e órfãos); Tg 2:1–17 (acepção de pessoas; fé sem obras é morta)
 - [[wiki/obras/primeira-epistola-de-joao]] — "Deus é amor" (1 Jo 4:7–21); amar por obra (1 Jo 3:17–18)
+- [[wiki/obras/jesus-no-lar]] — caridade desconhecida (cap. 20), mensageiro do amor (cap. 9), caridade direta (cap. 29)
 
 ## Fontes
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Caps. XI ("Amar o próximo como a si mesmo"), XIII ("Que a mão esquerda não saiba o que dá a direita"), XV ("Fora da caridade não há salvação").
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 3, cap. XI (q. 886–892) — "Lei de justiça, de amor e de caridade".
+- XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, caps. 9, 20, 29. Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].
