@@ -12,6 +12,7 @@ Casos-canto (roadmap §5):
 
 from __future__ import annotations
 
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -19,7 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from link_citations import resolve_obra_slug, transform  # noqa: E402
+from link_citations import build_biblia_mapping, resolve_obra_slug, transform  # noqa: E402
 
 
 def make_mapping() -> dict:
@@ -76,16 +77,24 @@ def make_revista_mapping() -> dict:
 OBRAS = {"o-consolador", "nosso-lar", "o-problema-do-ser-e-do-destino"}
 
 
+def load_biblia() -> dict:
+    """Carrega o mapping real (66 livros) — é dado canônico, não fixture."""
+    return build_biblia_mapping(
+        json.loads((ROOT / "data" / "biblia-livros.json").read_text(encoding="utf-8")),
+    )
+
+
 class LinkCitationsTests(unittest.TestCase):
     """Cada teste exercita um caso-canto isolado de transform()."""
 
     def setUp(self) -> None:
         self.mapping = make_mapping()
         self.revista = make_revista_mapping()
+        self.biblia = load_biblia()
         self.obras = OBRAS
 
     def run_transform(self, text: str) -> str:
-        return transform(text, self.mapping, self.obras, self.revista)
+        return transform(text, self.mapping, self.obras, self.revista, self.biblia)
 
     # ─── Kardec: capítulo / questão / introdução ──────────────────────────────
 
@@ -229,6 +238,88 @@ class LinkCitationsTests(unittest.TestCase):
         )
         self.assertIn("[[wiki/obras/nosso-lar|", out)
         self.assertNotIn("[[obras/", out)
+
+
+    # ─── Bíblia ───────────────────────────────────────────────────────────────
+
+    def test_nt_canonical_becomes_internal_wikilink(self) -> None:
+        out = self.run_transform("Em (Mateus 5:3) Jesus abre o sermão.")
+        self.assertIn("[[wiki/biblia/mateus/5#3|(Mateus 5:3)]]", out)
+
+    def test_nt_abbreviation_resolves_to_same_slug(self) -> None:
+        # Mt sem ponto, Mt. com ponto, S. Mateus — todas viram link interno mateus.
+        out = self.run_transform("(Mt 5:3), (Mt. 5:3), (S. Mateus 5:3)")
+        self.assertIn("[[wiki/biblia/mateus/5#3|(Mt 5:3)]]", out)
+        self.assertIn("[[wiki/biblia/mateus/5#3|(Mt. 5:3)]]", out)
+        self.assertIn("[[wiki/biblia/mateus/5#3|(S. Mateus 5:3)]]", out)
+
+    def test_at_canonical_becomes_external_link(self) -> None:
+        # Gênesis é AT → URL bibliaonline, no nível do capítulo.
+        out = self.run_transform("Veja (Gênesis 1:1) sobre a criação.")
+        self.assertIn("[(Gênesis 1:1)](https://www.bibliaonline.com.br/acf/gn/1)", out)
+
+    def test_at_and_nt_in_same_line_resolve_independently(self) -> None:
+        out = self.run_transform("Confronto: (Gênesis 1:1) vs (João 1:1).")
+        self.assertIn("https://www.bibliaonline.com.br/acf/gn/1", out)
+        self.assertIn("[[wiki/biblia/joao/1#1|(João 1:1)]]", out)
+
+    def test_jo_unaccented_jo_does_not_match_job(self) -> None:
+        # "Jó" (Job, AT) só casa com diacrítico — não pode pegar "Jo" abrev. João.
+        # "Jo 1:1" (sem til) deveria ficar intocado (Jo não é variante NEM de Jó NEM
+        # de João sozinha — Jo é abrev. de João só em "1 Jo"/"2 Jo"/"3 Jo").
+        text = "Citação ambígua: (Jo 1:1) sem acento."
+        out = self.run_transform(text)
+        self.assertEqual(text, out)
+
+    def test_numbered_book_with_and_without_space(self) -> None:
+        # "1 Coríntios" e "1Co" devem resolver para o mesmo slug.
+        out = self.run_transform("(1 Coríntios 13:1) e (1Co 13:4-7)")
+        self.assertIn("[[wiki/biblia/1-corintios/13#1|(1 Coríntios 13:1)]]", out)
+        self.assertIn("[[wiki/biblia/1-corintios/13#4|(1Co 13:4-7)]]", out)
+
+    def test_verse_range_links_first_verse(self) -> None:
+        # (Lc 24:13-35) → anchor #13; label preserva o range.
+        out = self.run_transform("Estrada de Emaús em (Lc 24:13-35).")
+        self.assertIn("[[wiki/biblia/lucas/24#13|(Lc 24:13-35)]]", out)
+
+    def test_verse_range_with_en_dash(self) -> None:
+        # Texto-fonte costuma usar en-dash em vez de hífen ASCII.
+        out = self.run_transform("Cf. (Ef 5:22–24).")
+        self.assertIn("[[wiki/biblia/efesios/5#22|(Ef 5:22–24)]]", out)
+
+    def test_verse_list_links_first_verse(self) -> None:
+        # (Mt 5:3,5,8) → anchor #3; label preserva a lista.
+        out = self.run_transform("Bem-aventuranças (Mt 5:3,5,8).")
+        self.assertIn("[[wiki/biblia/mateus/5#3|(Mt 5:3,5,8)]]", out)
+
+    def test_unknown_book_left_intact(self) -> None:
+        # Livro fora dos 66 — texto preservado.
+        text = "Em (Macabeus 1:1) — fora do cânone."
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_chapter_only_left_intact(self) -> None:
+        # Sem versículo — `(Mateus 5)` não vira link (regex exige `:vers`).
+        text = "Lemos (Mateus 5) hoje."
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_biblia_in_fenced_code_left_intact(self) -> None:
+        # Safe zone do dispatch protege fenced code.
+        text = "```\nEx.: (Mateus 5:3)\n```"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_biblia_in_existing_wikilink_left_intact(self) -> None:
+        text = "[[wiki/biblia/mateus/5|(Mateus 5:3)]]"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_biblia_in_heading_left_intact(self) -> None:
+        text = "## (Mateus 5:3) — Bem-aventuranças"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_biblia_not_breaks_when_mapping_missing(self) -> None:
+        # `transform` com biblia_mapping=None deve operar normalmente, sem linkar.
+        text = "Em (Mateus 5:3) Jesus ensina."
+        out = transform(text, self.mapping, self.obras, self.revista, None)
+        self.assertEqual(text, out)
 
 
 class ResolveObraSlugTests(unittest.TestCase):

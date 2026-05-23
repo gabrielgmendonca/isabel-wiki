@@ -27,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MAPPING = ROOT / "data" / "kardec-mapping.json"
 DEFAULT_REVISTA = ROOT / "data" / "revista-espirita-mapping.json"
+DEFAULT_BIBLIA = ROOT / "data" / "biblia-livros.json"
 DEFAULT_OBRAS = ROOT / "wiki" / "obras"
 
 # ─── safe zones ───────────────────────────────────────────────────────────────
@@ -88,6 +89,54 @@ COMPL_RE = re.compile(
 
 # Stop-words removidas do início do título antes do slug match (artigos PT-BR).
 STOP_PREFIXES = ("o ", "a ", "os ", "as ", "um ", "uma ")
+
+# ─── Bíblia ───────────────────────────────────────────────────────────────────
+# `(Mateus 5:3)` → wikilink interno para NT (publicado em wiki/biblia/<slug>/<cap>),
+# URL externa bibliaonline.com.br para AT. Variantes (Mt, S. Mateus, 1Co, 1 Cor…)
+# vêm de data/biblia-livros.json. Anchor `#<vers>` casa com o heading `## <N>`
+# usado em cada capítulo NT publicado.
+def build_biblia_mapping(data: dict) -> dict:
+    variant_to_book: dict[str, dict] = {}
+    for book in data["books"]:
+        for v in book["variants"]:
+            variant_to_book[v] = book
+    # Alternação ordenada por tamanho desc — "1 Coríntios" antes de "1 Co".
+    variants_sorted = sorted(variant_to_book.keys(), key=lambda s: -len(s))
+    pattern = (
+        r"\(\s*"
+        r"(?P<livro>(?:" + "|".join(re.escape(v) for v in variants_sorted) + r"))"
+        r"\.?\s+"                              # ponto opcional após abreviação
+        r"(?P<cap>\d+):"
+        r"(?P<vers>\d+(?:\s*[-–—,]\s*\d+)*)"  # 3 | 3-5 | 3–5 | 3,5
+        r"\s*\)"
+    )
+    return {
+        "regex": re.compile(pattern),
+        "variant_to_book": variant_to_book,
+        "at_base": data["_at_base"],
+        "nt_prefix": data["_nt_prefix"],
+    }
+
+
+def link_biblia(mapping: dict | None) -> callable:
+    if not mapping:
+        return lambda m: m.group(0)
+    variant_to_book = mapping["variant_to_book"]
+    at_base = mapping["at_base"]
+    nt_prefix = mapping["nt_prefix"]
+
+    def repl(m: re.Match) -> str:
+        original = m.group(0)
+        book = variant_to_book.get(m.group("livro"))
+        if not book:
+            return original
+        cap = m.group("cap")
+        first_vers = re.match(r"\d+", m.group("vers")).group(0)
+        if book["testamento"] == "NT":
+            label = original.replace("|", r"\|")
+            return f"[[{nt_prefix}/{book['slug']}/{cap}#{first_vers}|{label}]]"
+        return f"[{original}]({at_base}/{book['abbrev']}/{cap})"
+    return repl
 
 
 def slugify(text: str) -> str:
@@ -222,9 +271,11 @@ def transform(
     mapping: dict,
     obras_index: set[str],
     revista_mapping: dict | None = None,
+    biblia_mapping: dict | None = None,
 ) -> str:
     repl_kardec = link_kardec(mapping)
     repl_revista = link_revista(revista_mapping)
+    repl_biblia = link_biblia(biblia_mapping)
     repl_compl = link_complementar(obras_index)
 
     def dispatch(segment: str) -> str:
@@ -232,7 +283,10 @@ def transform(
         segment = KARDEC_RE.sub(repl_kardec, segment)
         # 2) Revista Espírita
         segment = RE_CITE_RE.sub(repl_revista, segment)
-        # 3) Complementares (após Kardec — se já virou link, está dentro de safe zone na próxima passada)
+        # 3) Bíblia (Mateus 5:3) — antes do complementar genérico, que pegaria *itálico*.
+        if biblia_mapping is not None:
+            segment = biblia_mapping["regex"].sub(repl_biblia, segment)
+        # 4) Complementares (após Kardec — se já virou link, está dentro de safe zone na próxima passada)
         segment = COMPL_RE.sub(repl_compl, segment)
         return segment
 
@@ -251,10 +305,11 @@ def process_path(
     obras_index: set[str],
     apply: bool,
     revista_mapping: dict | None = None,
+    biblia_mapping: dict | None = None,
 ) -> bool:
     """Returns True se houve mudança."""
     original = path.read_text(encoding="utf-8")
-    new = transform(original, mapping, obras_index, revista_mapping)
+    new = transform(original, mapping, obras_index, revista_mapping, biblia_mapping)
     if new == original:
         return False
     if apply:
@@ -286,6 +341,8 @@ def main(argv=None) -> int:
     ap.add_argument("--mapping", type=Path, default=DEFAULT_MAPPING)
     ap.add_argument("--revista-mapping", type=Path, default=DEFAULT_REVISTA,
                     help="mapping da Revista Espírita (json gerado por download_revista_espirita.py)")
+    ap.add_argument("--biblia-mapping", type=Path, default=DEFAULT_BIBLIA,
+                    help="tabela dos 66 livros bíblicos (NT → link interno wiki/biblia/, AT → URL externa)")
     ap.add_argument("--obras-dir", type=Path, default=DEFAULT_OBRAS,
                     help="diretório com wiki/obras/*.md para indexar slugs")
     args = ap.parse_args(argv)
@@ -294,6 +351,10 @@ def main(argv=None) -> int:
     revista_mapping = (
         json.loads(args.revista_mapping.read_text(encoding="utf-8"))
         if args.revista_mapping.exists() else None
+    )
+    biblia_mapping = (
+        build_biblia_mapping(json.loads(args.biblia_mapping.read_text(encoding="utf-8")))
+        if args.biblia_mapping.exists() else None
     )
     # Quando --apply em /tmp/quartz/content, obras está em <content>/wiki/obras
     obras_dir = args.obras_dir
@@ -306,7 +367,8 @@ def main(argv=None) -> int:
     for p in iter_md(args.path):
         total += 1
         if process_path(p, mapping, obras_index, apply=args.apply,
-                        revista_mapping=revista_mapping):
+                        revista_mapping=revista_mapping,
+                        biblia_mapping=biblia_mapping):
             changed += 1
 
     verb = "modificados" if args.apply else "com mudanças pendentes"
