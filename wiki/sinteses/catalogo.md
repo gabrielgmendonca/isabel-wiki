@@ -590,6 +590,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — lendas de pactos como símbolo da sintonia voluntária com Espíritos inferiores; sempre rompíveis pela vontade firme (LE, q. 549–550).
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual e responsabilidade cósmica; janela providencial da infância (LE, q. 582–583).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
+- [[wiki/questoes/transicao-do-principio-inteligente]] — onde se opera o salto princípio inteligente → Espírito: agência espiritual afirmada (LE, q. 600), mecânica do salto declarada "insolúvel" por Kardec (RE mar/1864).
 - [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
 - [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
 - [[wiki/questoes/esquecimento-do-passado]] — "ele é mais ele mesmo": o véu sobre o passado como condição de autenticidade do livre-arbítrio; substitutos operacionais da memória (intuição, voz da consciência, tendências instintivas) (LE, q. 392).

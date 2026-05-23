@@ -75,6 +75,8 @@ O detalhe da q. 600 — "é classificado pelos Espíritos a quem incumbe essa ta
 
 O animal, após a morte, não perambula nem entra em relação com outras criaturas. É reinserido quase imediatamente no ciclo — sinal de que sua "alma" não tem, ainda, a autonomia que caracteriza o Espírito errante.
 
+Sobre o alcance dessa formulação para a pergunta "onde se opera o salto qualitativo princípio inteligente → Espírito?", ver [[wiki/questoes/transicao-do-principio-inteligente]] — questão-irmã ancorada em LE q. 600 e na reserva metodológica de RE mar/1864.
+
 ### Aplicação prática
 
 1. **Contra o antropomorfismo sentimental** — afeto pelos animais é legítimo, mas confundi-los com Espíritos humanos desencarnados (pets reencarnando como outros pets etc.) é superstição contrária à doutrina.

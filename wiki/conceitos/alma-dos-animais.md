@@ -85,6 +85,8 @@ Nenhuma com o Pentateuco. As dissertações de Charlet são corrigidas por Karde
 
 ## Páginas relacionadas
 
+- [[wiki/questoes/alma-dos-animais]] — questão ancorada em LE q. 597 (sobrevivência do princípio inteligente).
+- [[wiki/questoes/transicao-do-principio-inteligente]] — questão ancorada em LE q. 600 (gestão pós-morte no plano espiritual) + reserva metodológica da RE mar/1864.
 - [[wiki/personalidades/charlet]] — Espírito autor das dissertações de 1860.
 - [[wiki/conceitos/reencarnacao]] — princípio progressivo da reencarnação espírita; recusa da metempsicose retrogressiva.
 - [[wiki/conceitos/escala-espirita]] — gradação dos seres conscientes na escala da criação.
