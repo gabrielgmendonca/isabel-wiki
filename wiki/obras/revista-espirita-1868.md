@@ -220,7 +220,7 @@ No **11º ano social**, a SPEE prepara a transição para a estrutura da Constit
   - [[wiki/conceitos/obsessao]] (Aïssaouá jan/1868; Epidemia da Ilha Maurícia nov/1868)
 - **Antecipados / inaugurados:**
   - [[wiki/conceitos/fotografia-do-pensamento]] (jun/1868, antecipação do ensaio de *Obras Póstumas*)
-- **Cosmologia e ciência:**
+- **Mundos e ciência:**
   - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] ("A alma da Terra", set/1868)
   - [[wiki/conceitos/fluidos]] (todo o volume; "Ensaio teórico das curas instantâneas")
 - **Moral e prática:**

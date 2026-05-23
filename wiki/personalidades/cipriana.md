@@ -42,7 +42,7 @@ A intuição de Cipriana se confirma: nas cavernas dos avarentos, André reconhe
 
 ### O Lar de Cipriana: instituição regenerativa autogerida (cap. 20)
 
-A "benemérita fundação" nas zonas inferiores que André conhece no último capítulo é instituição singular na cosmologia chicoxaveriana:
+A "benemérita fundação" nas zonas inferiores que André conhece no último capítulo é instituição singular no panorama espiritual chicoxaveriano:
 
 - **Auto-gestão pelos beneficiários:** "A organização funciona, sob a vigilância dos próprios companheiros que vão melhorando."
 - **Trânsito, não residência:** "Educandário de trânsito... antigos expoentes do orgulho que entre os homens se engrimponavam na vaidade e no crime... são recolhidos a esta casa, onde reorganizam sentimentos e cabedais, a caminho do porvir."

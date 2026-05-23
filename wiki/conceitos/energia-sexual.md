@@ -68,7 +68,7 @@ A doutrina articula-se diretamente à [[wiki/conceitos/leis-morais/lei-de-reprod
 
 ## Em André Luiz, marco intermediário (*No Mundo Maior*, 1947, cap. 11)
 
-Entre a cosmologia de *Missionários da Luz* (1945) e a anatomia de *Evolução em Dois Mundos* (1958), André Luiz registra em *No Mundo Maior* uma **preleção sistemática sobre sexo** ouvida num "centro de estudos" dirigido a colaboradores socorristas. É a peça intermediária do arco temporal — e a única passagem chicoxaveriana que dialoga **explicitamente com Freud, Adler e Jung**.
+Entre o panorama espiritual de *Missionários da Luz* (1945) e a anatomia de *Evolução em Dois Mundos* (1958), André Luiz registra em *No Mundo Maior* uma **preleção sistemática sobre sexo** ouvida num "centro de estudos" dirigido a colaboradores socorristas. É a peça intermediária do arco temporal — e a única passagem chicoxaveriana que dialoga **explicitamente com Freud, Adler e Jung**.
 
 A tese que abre a preleção articula sexualidade e psiquiatria espírita:
 

@@ -34,7 +34,7 @@ Doutrinariamente, o volume articula **quatro eixos** que estruturam a preparaç�
 
 1. **Caráter da revelação espírita** — "Da revelação" (abr/1866) é texto-matriz integral do **cap. I** de Gênese. Fixa a teoria das três ordens de reveladores (homens de gênio, profetas/messias, revelação coletiva), o critério da *eterna verdade* como discernimento do divino, e a **distinção entre revelação direta** (raríssima, só Espíritos puros) **e revelação por médiuns inspirados/auditivos/videntes**.
 
-2. **Cosmologia dos fluidos** — "Introdução ao estudo dos fluidos espirituais" (mar/1866) é o tratado mais técnico do volume (10 seções) e texto-matriz do **cap. XIV** ("Os fluidos") de Gênese. Articula a tese da **unidade material** do fluido cósmico universal como princípio único dos corpos ponderáveis e imponderáveis. Fixa o **mecanismo da formação do perispírito** (condensação fluídica em torno do foco de inteligência) e das **aparições** (modificação molecular momentânea que torna o fluido visível).
+2. **Doutrina dos fluidos** — "Introdução ao estudo dos fluidos espirituais" (mar/1866) é o tratado mais técnico do volume (10 seções) e texto-matriz do **cap. XIV** ("Os fluidos") de Gênese. Articula a tese da **unidade material** do fluido cósmico universal como princípio único dos corpos ponderáveis e imponderáveis. Fixa o **mecanismo da formação do perispírito** (condensação fluídica em torno do foco de inteligência) e das **aparições** (modificação molecular momentânea que torna o fluido visível).
 
 3. **Onipresença divina** — "Deus está em toda parte" + "A vista de Deus" (mai/1866) compõem texto-matriz do **cap. II** ("Deus") de Gênese, seções sobre onipresença e visão de Deus. Articulam a **hipótese do fluido divino inteligente** que penetra o Universo, e a doutrina de que *"só pela visão espiritual é que podemos ver os Espíritos e as coisas do mundo imaterial; assim, só a nossa alma pode ter a percepção de Deus"*.
 
@@ -261,7 +261,7 @@ No 9º ano social, a SPEE consolida a forma fixada em 1862:
   - [[wiki/conceitos/discernimento-dos-espiritos]] (Da revelação abr/1866; controle universal)
   - [[wiki/conceitos/mediunidade-de-cura]] (zuavo out + Hohenlohe dez + Considerações nov/1866)
   - [[wiki/conceitos/obsessao]] (Cazères + Marmande, fev/1866)
-- **Cosmologia e ciência:**
+- **Mundos e ciência:**
   - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (Os tempos são chegados — Terra elevando-se na hierarquia)
 - **Moral e prática:**
   - [[wiki/conceitos/caridade]] (Espiritismo independente abr/1866; subscrição inundados nov/1866)

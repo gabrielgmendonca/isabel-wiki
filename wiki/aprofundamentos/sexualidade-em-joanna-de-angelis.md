@@ -140,9 +140,9 @@ A doutrina é coerente com Kardec em substância (LE q. 200–202, q. 686–701,
 | Aborto | Não tratado em capítulo monográfico específico (ver aprofundamento próprio) | Cap. 17: sequela obsessiva (relacional) | Parte II cap. 14: sequela orgânica em vidas futuras |
 | Divórcio | Tipologia clínica das separações; harmônica preservada | "Bênção necessária" contra dilapidação moral | "Mal menor" entre males maiores |
 | Tom geral | Terapêutico, integrativo, contemporâneo | Indulgência, anti-censura | Disciplina, anatomia das consequências |
-| Chave hermenêutica | Jung + Wilber + Maslow + Reich (criticamente) ancorados em LE | Kardec + tradição evangélica | Cosmologia evolutiva + medicina sutil |
+| Chave hermenêutica | Jung + Wilber + Maslow + Reich (criticamente) ancorados em LE | Kardec + tradição evangélica | Narrativa evolutiva + medicina sutil |
 
-Os três autores são **complementares, não contraditórios**. Emmanuel oferece o pastoreio; André Luiz oferece a fisiologia e a cosmologia; Joanna oferece a sistematização psicológico-clínica integrada à neurociência contemporânea. Quem estuda em casa espírita ganha em usar os três em paralelo — Joanna é particularmente útil para palestras com público que tenha familiaridade com Psicologia clínica.
+Os três autores são **complementares, não contraditórios**. Emmanuel oferece o pastoreio; André Luiz oferece a fisiologia e o panorama espiritual; Joanna oferece a sistematização psicológico-clínica integrada à neurociência contemporânea. Quem estuda em casa espírita ganha em usar os três em paralelo — Joanna é particularmente útil para palestras com público que tenha familiaridade com Psicologia clínica.
 
 ## Aprofundamento
 

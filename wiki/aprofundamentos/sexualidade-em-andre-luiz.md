@@ -70,7 +70,7 @@ Cada escola descreve corretamente um andar da casa mental sem reconhecer o todo.
 
 > "Todos os seres que conhecemos, do verme ao anjo, são herdeiros da Divindade que nos confere a existência, e todos somos depositários de faculdades criadoras. O vegetal, instigado pelo heliotropismo, surge na paisagem, distribuindo a vida e renovando-a. O pirilampo cintila na sombra, buscando perpetuar-se. O batráquio sente vibrações de amor e de paternidade nos recessos do charco. Aves minúsculas viajam longas distâncias, colhendo material para tecer um ninho. A fera olvida a índole selvagínea, ao lamber, com ternura, um filho recém-nato." (cap. 11)
 
-Articulação entre Lei de Reprodução kardequiana e cosmologia evolucionista: o impulso criador percorre todos os reinos, do heliotropismo vegetal à angelitude, sem rupturas — apenas graus.
+Articulação entre Lei de Reprodução kardequiana e narrativa evolucionista: o impulso criador percorre todos os reinos, do heliotropismo vegetal à angelitude, sem rupturas — apenas graus.
 
 #### (d) Antecipação 1947 sobre identidade sexual e biotecnologia
 
@@ -90,7 +90,7 @@ A sede da cura é a consciência individual:
 
 > "O cativeiro nos tormentos do sexo não é problema que possa ser solucionado por literatos ou médicos a agir no campo exterior: é questão da alma, que demanda processo individual de cura, e sobre esta só o Espírito resolverá no tribunal da própria consciência." (cap. 11)
 
-A doutrina do cap. 11 prepara o terreno anatômico de 1958: a tipologia tripartite mapeada sobre os andares mentais encontrará em *Evolução em Dois Mundos* sua tradução em centros vitais (genésico, cardíaco, coronário). A sexualidade é, da cosmologia ao centro genésico, uma única realidade vista em níveis crescentes de detalhe.
+A doutrina do cap. 11 prepara o terreno anatômico de 1958: a tipologia tripartite mapeada sobre os andares mentais encontrará em *Evolução em Dois Mundos* sua tradução em centros vitais (genésico, cardíaco, coronário). A sexualidade é, do panorama espiritual ao centro genésico, uma única realidade vista em níveis crescentes de detalhe.
 
 ### 1. Origem evolutiva do sexo (parte I, cap. 6; parte II, cap. 12)
 
@@ -211,7 +211,7 @@ Quatro proposições articulam o tratamento:
 
 4. **Prudência quanto à mudança jurídica brusca.** Félix ressalva que "os homens não podem efetivamente alterar, de chofre, as leis morais em que se regem, sob pena de precipitar a Humanidade na dissolução, entendendo-se que os Espíritos ainda ignorantes ou animalizados, por enquanto em maioria no seio de todas as nações terrestres, estão invariavelmente decididos a usurpar liberalidades prematuras para converter os valores sublimes do amor em criminalidade e devassidão" (Parte 2, cap. 5). A passagem é **conservadora no plano civil** ("não alterar de chofre") mas **inequivocamente acolhedora no plano espiritual e pessoal** ("dignidade humana", "reparação de injustiças seculares"). É uma das passagens mais delicadas da obra: distingue postura pastoral (acolher) de postura jurídico-social (não precipitar reformas).
 
-A tese articula-se com a antecipação de 1947 em [[wiki/obras/no-mundo-maior|*No Mundo Maior*]] (cap. 11): "a genética, mais hoje, mais amanhã, poderá interferir nas câmaras secretas da vida humana (...); todavia, não atingirá a zona mais alta da mente feminina ou masculina, que manterá característicos próprios, independentemente da forma exterior". Identidade sexual é função da alma; o sexo biológico é instrumento de prova, não veredicto sobre o Espírito. Em *Sexo e Destino*, essa cosmologia ganha **consequência pastoral**: respeito, fraternidade, reparação histórica. Antecipa em sete anos a posição que Emmanuel formularia em *Vida e Sexo* (1970) — registro detalhado em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]], seção "Extensão: André Luiz (1963)".
+A tese articula-se com a antecipação de 1947 em [[wiki/obras/no-mundo-maior|*No Mundo Maior*]] (cap. 11): "a genética, mais hoje, mais amanhã, poderá interferir nas câmaras secretas da vida humana (...); todavia, não atingirá a zona mais alta da mente feminina ou masculina, que manterá característicos próprios, independentemente da forma exterior". Identidade sexual é função da alma; o sexo biológico é instrumento de prova, não veredicto sobre o Espírito. Em *Sexo e Destino*, essa doutrina ganha **consequência pastoral**: respeito, fraternidade, reparação histórica. Antecipa em sete anos a posição que Emmanuel formularia em *Vida e Sexo* (1970) — registro detalhado em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]], seção "Extensão: André Luiz (1963)".
 
 ## Síntese
 

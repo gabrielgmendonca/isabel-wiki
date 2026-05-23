@@ -252,7 +252,7 @@ No 7º ano social, a SPEE consolida a forma fixada em 1862:
 ## Conceitos tratados
 
 - **Aprofundados:** [[wiki/conceitos/discernimento-dos-espiritos]] (controle universal — manifesto de abr/1864) · [[wiki/conceitos/mediunidade-de-cura]] (Médiuns curadores, jan/1864) · [[wiki/conceitos/obsessao]] (Júlia jan; Marmande jun; Morzine ago — quatro casos) · [[wiki/conceitos/prece]] (Suplemento ago; Pai Nosso desenvolvido) · [[wiki/conceitos/perispirito]] (Resumo da lei abr; ação fluídica nas curas) · [[wiki/conceitos/maravilhoso-e-sobrenatural]] (Algumas refutações jun; recusa do "diabo").
-- **Cosmologia e ciência:** [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (resenha de Flammarion out/1864).
+- **Mundos e ciência:** [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (resenha de Flammarion out/1864).
 - **Moral e prática:** [[wiki/conceitos/caridade]] (palavra de ordem do Discurso do 7º ano; Sessão comemorativa) · [[wiki/conceitos/verdadeiro-espirita]] · [[wiki/conceitos/fe-raciocinada]] (Resumo da lei + Discurso do 7º ano).
 - **Vida futura:** [[wiki/conceitos/vida-futura]] (Sessão comemorativa) · [[wiki/conceitos/perturbacao]] · [[wiki/conceitos/penas-e-gozos-futuros]].
 - **Identidade e mediunidade:** [[wiki/conceitos/identidade-dos-espiritos]] (Jobard e os médiuns mercenários, dez/1864).

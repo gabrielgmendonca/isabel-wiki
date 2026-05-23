@@ -52,7 +52,7 @@ Critério de avaliação — a **lógica e os fatos**, não o nome do Espírito:
 
 ### O subproduto admissível: alma da Terra
 
-Kardec rejeita a teoria da incrustação **como cosmologia física**, mas admite separadamente o **conceito de "alma da Terra"** que aparece na carta de Jobard:
+Kardec rejeita a teoria da incrustação **como descrição física da formação da Terra**, mas admite separadamente o **conceito de "alma da Terra"** que aparece na carta de Jobard:
 
 > *"Resta-nos explicar o que se deve entender por alma da Terra, porque não entra na cabeça de ninguém atribuir uma vontade à matéria. Os Espíritos sempre disseram que alguns entre eles têm atribuições especiais. Agentes e ministros de Deus, dirigem, conforme o seu grau de elevação, os fatos de ordem física, bem como os de ordem moral. Assim como alguns velam pelos indivíduos, dos quais se constituem gênios familiares ou protetores, outros tomam sob seu patrocínio reuniões de indivíduos, grupos, cidades, povos e mesmo mundos. A alma da Terra deve, pois, ser entendida como o Espírito chamado por sua missão a dirigi-la e fazê-la progredir, tendo sob suas ordens as inumeráveis legiões de Espíritos encarregados de velar pela realização de seus desígnios. O Espírito diretor de um mundo deve ser, necessariamente, de uma ordem superior, e tanto mais elevado quanto mais adiantado for o mundo."* (RE, abr/1860)
 
@@ -74,7 +74,7 @@ A formulação entra praticamente intacta em [[wiki/obras/livro-dos-mediuns]] ca
 
 ### Aplicação tardia (Gênese, 1868)
 
-Em [[wiki/obras/genese]] cap. VI ("Uranografia geral") e cap. VII ("Esboço geológico da Terra"), Kardec fixa a cosmologia espírita: **formação progressiva da Terra por leis físicas comuns**, em períodos geológicos longos; rejeição implícita de teorias como a da incrustação. O conceito de "alma da Terra" não é desenvolvido em Gênese, mas a tese geral dos **Espíritos diretores de mundo** está em cap. XI ("Gênese espiritual").
+Em [[wiki/obras/genese]] cap. VI ("Uranografia geral") e cap. VII ("Esboço geológico da Terra"), Kardec fixa a doutrina espírita da formação dos mundos: **formação progressiva da Terra por leis físicas comuns**, em períodos geológicos longos; rejeição implícita de teorias como a da incrustação. O conceito de "alma da Terra" não é desenvolvido em Gênese, mas a tese geral dos **Espíritos diretores de mundo** está em cap. XI ("Gênese espiritual").
 
 ## Aplicação prática
 
@@ -95,7 +95,7 @@ Nenhuma com o Pentateuco. A teoria da incrustação **não é** divergência kar
 - [[wiki/personalidades/sr-jobard]] — autor da carta com a teoria.
 - [[wiki/obras/revista-espirita-1860]] — fascículo de abril com o artigo programático.
 - [[wiki/obras/livro-dos-mediuns]] — caps. XX e XXIV (controle universal sistematizado).
-- [[wiki/obras/genese]] — cap. VI–VII (cosmologia espírita oficial).
+- [[wiki/obras/genese]] — cap. VI–VII (doutrina espírita oficial da formação dos mundos).
 
 ## Fontes
 

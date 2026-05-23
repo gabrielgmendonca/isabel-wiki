@@ -191,7 +191,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 
 ## Conceitos
 
-### Ontologia e cosmologia
+### Deus, Espíritos e mundos habitados
 - [[wiki/conceitos/deus]] — causa primária, atributos divinos (LE, q. 1–16).
 - [[wiki/conceitos/espirito]] — seres inteligentes da criação (LE, q. 76–131).
 - [[wiki/conceitos/perispirito]] — envoltório semimaterial do Espírito.

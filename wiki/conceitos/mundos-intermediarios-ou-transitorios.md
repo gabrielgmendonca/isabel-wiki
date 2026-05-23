@@ -57,7 +57,7 @@ A escala canônica fixada por Kardec no ESE, cap. III, item 4, reconhece **cinco
 
 A categoria **transitória** (LE q. 234–236) acrescenta-se a essas: não é um sexto degrau na escala moral; é uma fase do **ciclo de vida do globo**, antes de tornar-se capaz de sustentar vida corpórea organizada. Espíritos errantes estacionam aí porque o lugar lhes é apropriado naquele estágio — sem habitantes "no sentido humano", sem necessidades fisiológicas (LE q. 236: *"Os que os habitam de nada precisam"*).
 
-### Função na cosmologia espírita
+### Lugar na pluralidade dos mundos
 
 A doutrina cumpre três funções:
 
@@ -71,11 +71,11 @@ LE q. 236 afirma que esses mundos têm superfície estéril mas não desprovida 
 
 ## Aplicação prática
 
-A doutrina firma que **a viagem do Espírito errante não é vagabunda**: tem geografia, paradas, "estações" hierarquizadas. Em estudos de palestra, esse material liga (a) a transição planetária da Terra (RE 1864–1868; *A Gênese*, cap. XVIII) à (b) gestão da erraticidade. Ela completa a cosmologia da [[wiki/obras/genese]] ao indicar que os globos passam por **fases anteriores à habitabilidade humana** durante as quais já cumprem função espiritual — princípio fixado já em LE q. 236 ao associar os "lentos períodos de transição que as camadas geológicas atestam" à presença de Espíritos errantes na Terra pré-orgânica.
+A doutrina firma que **a viagem do Espírito errante não é vagabunda**: tem geografia, paradas, "estações" hierarquizadas. Em estudos de palestra, esse material liga (a) a transição planetária da Terra (RE 1864–1868; *A Gênese*, cap. XVIII) à (b) gestão da erraticidade. Ela completa o tratamento da [[wiki/obras/genese]] sobre a formação dos mundos ao indicar que os globos passam por **fases anteriores à habitabilidade humana** durante as quais já cumprem função espiritual — princípio fixado já em LE q. 236 ao associar os "lentos períodos de transição que as camadas geológicas atestam" à presença de Espíritos errantes na Terra pré-orgânica.
 
 ## Posição na codificação posterior
 
-A categoria foi codificada em LE (q. 234-236, na seção "Mundos transitórios", parte do capítulo sobre os Espíritos errantes) e ampliada na RE de mai/1859. Nos volumes seguintes da *Revista* e em *A Gênese* (1868), Kardec trata da formação dos mundos e da pluralidade dos mundos habitados sem retomar formalmente o termo. A doutrina permanece pacificada nessas duas referências, citada em estudos kardequianos modernos para articular cosmologia, erraticidade e formação planetária.
+A categoria foi codificada em LE (q. 234-236, na seção "Mundos transitórios", parte do capítulo sobre os Espíritos errantes) e ampliada na RE de mai/1859. Nos volumes seguintes da *Revista* e em *A Gênese* (1868), Kardec trata da formação dos mundos e da pluralidade dos mundos habitados sem retomar formalmente o termo. A doutrina permanece pacificada nessas duas referências, citada em estudos kardequianos modernos para articular formação planetária, erraticidade e pluralidade dos mundos.
 
 ## Divergências
 

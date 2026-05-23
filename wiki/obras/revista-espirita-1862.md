@@ -198,7 +198,7 @@ Em 1862 a SPEE conquista sua **forma definitiva**:
 - **Aprofundados:** [[wiki/conceitos/raca-adamica]] (artigo de jan, matriz de Gênese cap. XI) · [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] (mesma matriz) · [[wiki/conceitos/discernimento-dos-espiritos]] (manifesto do controle universal de jan) · [[wiki/conceitos/obsessao]] (Morzine, dez — caso-modelo) · [[wiki/conceitos/maravilhoso-e-sobrenatural]] (Apolônio, fev + out) · [[wiki/conceitos/identidade-dos-espiritos]] (Carrère, mar; Sanson, mai–out) · [[wiki/conceitos/suicidio]] (estatística + duplo suicídio + hereditariedade moral, jul).
 - **Moral e prática:** [[wiki/conceitos/prece]] (Valor da prece, ago) · [[wiki/conceitos/caridade]] (subscrição operários lioneses, fev) · [[wiki/conceitos/verdadeiro-espirita]] · [[wiki/conceitos/encarnacao]] (Hereditariedade moral, jul; Tugúrio e Salão, dez; planejamento reencarnatório).
 - **Vida futura:** [[wiki/conceitos/vida-futura]] (Sanson, mai–out) · [[wiki/conceitos/penas-e-gozos-futuros]] (Riquier, ago; Guillaume Remone, nov) · [[wiki/conceitos/perturbacao]].
-- **Cosmologia:** [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (Vênus, ago).
+- **Mundos habitados:** [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (Vênus, ago).
 - **Antiguidade da doutrina:** [[wiki/conceitos/reencarnacao]] (Pandus e Kurus, ago; Charles Fourier, dez).
 
 ## Personalidades citadas

@@ -249,7 +249,7 @@ No 8º ano social, a SPEE consolida a forma fixada em 1862:
   - [[wiki/conceitos/mediunidade-de-cura]] ("Da mediunidade curadora" set/1865; "Cura de uma fratura" set/1865)
   - [[wiki/conceitos/alma-dos-animais]] (mai/1865 — comunicação Sr. Vézy; **balizas, não doutrina fixa**)
   - [[wiki/conceitos/perispirito]] (Dr. Vignal mai/1865; "Sobre as criações fluídicas" mai/1865)
-- **Cosmologia e ciência:**
+- **Mundos e ciência:**
   - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] ("Onde é o Céu?" mar/1865)
 - **Moral e prática:**
   - [[wiki/conceitos/caridade]] ("Abri-me! - Apelo de Cárita" dez/1865; subscrição pobres de Lyon)

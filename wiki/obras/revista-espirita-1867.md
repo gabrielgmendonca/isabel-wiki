@@ -203,7 +203,7 @@ A passagem ganha caráter de **presságio** quando lida pós-31/03/1869 (morte d
 - **Moral e prática:**
   - [[wiki/conceitos/livre-arbitrio]] ("Livre pensamento e livre consciência", fev/1867)
   - [[wiki/conceitos/caridade]] (carta do arcebispo de Argel, mar/1867)
-- **Cosmologia e ciência:**
+- **Mundos e ciência:**
   - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] (Galileu — abr–mai/1867; Marteau — out/1867; Flammarion — dez/1867)
 - **Anti-eclesiástica metodológica:**
   - Recuperação de Mons. Freyssinous contra "demônio único agente" (fev/1867).

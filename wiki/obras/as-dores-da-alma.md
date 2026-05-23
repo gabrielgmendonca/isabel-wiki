@@ -124,10 +124,10 @@ O terceiro comentário converge para a formulação mais kardecista do tema: "as
 
 ### Vocabulário não-kardecista
 
-Três termos merecem registro por não refletirem a linguagem de Kardec — todos tópicos, nenhum erige cosmologia alternativa:
+Três termos merecem registro por não refletirem a linguagem de Kardec — todos tópicos, nenhum erige doutrina alternativa:
 
 - **"Carmas"** (tema 4, Crítica; raw l. 472 e 496) — Hammed usa o termo sânscrito, sem aspas, para a lei de causa e efeito: "Carmas são estruturados não somente sobre nossos feitos e atitudes, mas também sobre nossas sentenças e juízos, críticas e opiniões." Kardec evitou deliberadamente vocabulário oriental; o conceito mapeia [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] (LE q. 984–986, C&I 1ª parte, cap. VII), sem divergência substantiva.
-- **"Chakras"** (tema 6, Medo; raw l. 663) — "As sensações do medo sobrecarregam as energias dos 'chakras' do plexo solar e do cardíaco." Hammed coloca a palavra entre aspas, demonstrando ciência de que é termo não-kardecista; a referência é tópica e não estrutura a cosmologia da obra. Kardec trata energia perispiritual como fluido irradiante (Gênese cap. XIV), sem centros localizados.
+- **"Chakras"** (tema 6, Medo; raw l. 663) — "As sensações do medo sobrecarregam as energias dos 'chakras' do plexo solar e do cardíaco." Hammed coloca a palavra entre aspas, demonstrando ciência de que é termo não-kardecista; a referência é tópica e não estrutura o quadro doutrinário da obra. Kardec trata energia perispiritual como fluido irradiante (Gênese cap. XIV), sem centros localizados.
 - **"Aura"** (tema 2, Orgulho; raw l. 334) — "sustentam uma aura de pessoas delicadas, evoluídas e desprendidas." Uso metafórico ("aura de pessoas delicadas" ≈ "ar de pessoas delicadas"), não doutrinário — não há teoria energética implicada.
 
 ### "Reinos da Natureza" (tema 8, Vício; raw l. 890)

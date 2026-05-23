@@ -110,7 +110,7 @@ Personagens secundários (sem página própria, citados nesta obra): Cneio Luciu
 
 ## Divergências
 
-Não há divergência doutrinária inédita identificada nesta obra. A leitura segue a cosmologia de [[wiki/obras/ha-dois-mil-anos]]:
+Não há divergência doutrinária inédita identificada nesta obra. A leitura segue o panorama espiritual de [[wiki/obras/ha-dois-mil-anos]]:
 
 - O *"vulto de anjo ou de mulher"* que conforta Nestório no leito de morte (cap. 7 — "Nas festas de Adriano") é compatível com a leitura de Lívia retornando como espírito protetor — recoberta pelo callout de divergência de almas-gêmeas já registrado em [[wiki/obras/ha-dois-mil-anos]] e em [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
 - A "promoção aos mundos de regeneração e de paz" usa vocabulário canônico de ESE cap. III, item 4 — sem drift.

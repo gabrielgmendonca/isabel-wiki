@@ -201,7 +201,7 @@ No **12º ano social**, a SPEE entra em transição programada pela própria Con
   - [[wiki/conceitos/perispirito]] ("Aparição de filho vivo", mar/1869: o perispírito do filho assume aparência de roupas — caso de criação fluídica)
 - **História da doutrina e estatística:**
   - [[wiki/conceitos/geracao-nova]] (continuidade implícita: a estatística de 1869 mostra a doutrina já implantada em todos os graus da escala social)
-- **Cosmologia e ciência:**
+- **Mundos e ciência:**
   - [[wiki/conceitos/maravilhoso-e-sobrenatural]] (recusa dos milagres de Bois-d'Haine, abr/1869: *"como os milagres segundo a Igreja não são do campo do Espiritismo, julgamos supérfluo levar mais longe a busca das causas"*)
 - **Mediunidade:**
   - [[wiki/conceitos/mediunidade]] (Halévy: distinção mediunidade × inspiração)

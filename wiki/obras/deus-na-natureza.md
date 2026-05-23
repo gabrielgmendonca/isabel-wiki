@@ -99,7 +99,7 @@ Síntese. Flammarion recapitula as quatro partes anteriores e formula a tese ont
 
 > *"Nosso Deus da Natureza permanece inatacável, no seio mesmo da Natureza, força intrínseca e universal governando cada átomo, formando organismos e mundos, princípio e fim das criações que passam, luz incriada a brilhar no mundo invisível e para a qual, oscilantes, se dirigem as almas, como a agulha imantada, que não mais repousa enquanto não se encontra identificada com o plano do pólo magnético."* (Parte V)
 
-Conclui que os dois erros simétricos do tempo — ateísmo científico e superstição religiosa do "Deusinho antropomórfico" — caem juntos diante de uma cosmologia que reconhece Deus *na* Natureza, sem confundir-se com ela.
+Conclui que os dois erros simétricos do tempo — ateísmo científico e superstição religiosa do "Deusinho antropomórfico" — caem juntos diante de uma visão que reconhece Deus *na* Natureza, sem confundir-se com ela.
 
 O livro termina com uma **prosa lírica autobiográfica**: Flammarion contempla o pôr-do-sol no cabo Heve (Sainte-Adresse, Normandia), ajoelha-se ante o crepúsculo e dirige uma prece ao *"misterioso Incógnito"*. Antecipa o tom contemplativo dos finais de *Urânia* e *Estela*.
 
@@ -120,7 +120,7 @@ O livro termina com uma **prosa lírica autobiográfica**: Flammarion contempla 
 - [[wiki/conceitos/deus]] — Definição central da obra. Convergência explícita com (LE, q. 1–14): Deus como causa primária, distinta da matéria. A formulação flammarionista é mais imanentista que a kardecista, mas Flammarion mesmo neutraliza o risco panteísta (ver Divergências).
 - [[wiki/conceitos/materialismo]] — A obra é a **refutação espírita-científica clássica** do materialismo alemão do séc. XIX, anterior em meio século a Léon Denis. Trata todos os argumentos materialistas centrais: força como propriedade da matéria, pensamento como secreção cerebral, vontade como reflexo neuroquímico, vida como modalidade da mecânica.
 - [[wiki/conceitos/alma]] — Toda a Parte III. A alma é entidade distinta do cérebro, conserva identidade através da renovação celular, manifesta-se como vontade livre, gênio e virtude.
-- [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — Tematizada em passagens da Parte I (mecânica celeste) e implícita na cosmologia de fundo. Aprofundada em *La pluralité des mondes habités* (1862) e na trilogia narrativa posterior.
+- [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — Tematizada em passagens da Parte I (mecânica celeste) e implícita no panorama astronômico de fundo. Aprofundada em *La pluralité des mondes habités* (1862) e na trilogia narrativa posterior.
 
 ## Personalidades citadas
 

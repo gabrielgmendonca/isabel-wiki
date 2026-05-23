@@ -60,7 +60,7 @@ Três consequências:
 
 ### O comentário de Kardec — solidariedade como lei da Providência
 
-O comentário, muitas vezes lido de passagem, contém uma das formulações mais condensadas do que se poderia chamar de cosmologia ética kardequiana:
+O comentário, muitas vezes lido de passagem, contém uma das formulações mais condensadas da ética kardequiana do trabalho criador:
 
 > "A ação dos seres corpóreos é necessária à marcha do universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na natureza."
 

@@ -45,7 +45,7 @@ A questão 526 fecha três frentes de uma vez:
 
 ### Como conciliar com o "destino"
 
-O conceito de destino sobrevive à resposta, mas transformado. Na cosmologia kardequiana:
+O conceito de destino sobrevive à resposta, mas transformado. Na doutrina kardequiana:
 
 - A morte tem seu momento fixado antes da encarnação (LE, q. 851–854) — não a forma.
 - A forma pode ser qualquer uma coerente com as leis naturais e com o livre-arbítrio do próprio Espírito e dos demais agentes (LE, q. 258–259, q. 528).
