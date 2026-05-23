@@ -148,6 +148,7 @@ def render_deck(
     source_page: Path,
     data_palestra: str,
     casa: str | None,
+    interacao: str = "sem",
 ) -> str:
     data_br = format_date_br(data_palestra)
     footer_extra = f" · {casa}" if casa else ""
@@ -221,6 +222,27 @@ def render_deck(
                     "---\n\n"
                 )
 
+    interacao_slide = ""
+    if interacao == "retorica":
+        interacao_slide = (
+            "<!-- _class: quote -->\n\n"
+            "*<!-- skill: pergunta retórica para a plateia — não aguarda resposta verbal, "
+            "abre uma pausa de reflexão antes do próximo bloco. 5-15 palavras, ligando "
+            "as partes anteriores ao 'Para meditar' que vem em seguida. -->*\n\n"
+            "---\n\n"
+        )
+    elif interacao == "discussao":
+        interacao_slide = (
+            "<!-- _class: section -->\n\n"
+            "## Pausa para conversa\n\n"
+            "---\n\n"
+            "## Conversa com a plateia\n\n"
+            "*<!-- skill: convite explícito à plateia para comentar/perguntar. "
+            "1-2 perguntas-gatilho específicas ao tema (não genérico tipo 'alguma "
+            "dúvida?'). Calibrar pelo perfil da audiência. -->*\n\n"
+            "---\n\n"
+        )
+
     parabola = (
         "<!-- _class: section -->\n\n"
         "## Para meditar\n\n"
@@ -256,6 +278,7 @@ def render_deck(
     return (
         header + cap + abertura
         + "".join(body_parts)
+        + interacao_slide
         + parabola + sintese + encerramento
     )
 
@@ -269,6 +292,20 @@ def main() -> int:
         help="Data da palestra (YYYY-MM-DD). A skill pergunta ao usuário.",
     )
     ap.add_argument("--casa", default=None, help="Nome da casa espírita (opcional)")
+    ap.add_argument(
+        "--duracao", type=int, choices=[30, 45, 60, 90], default=60,
+        help="Duração estimada em minutos. Metadado para calibrar densidade no Passo 6.",
+    )
+    ap.add_argument(
+        "--audiencia", choices=["iniciantes", "regulares", "evangelizadores", "misto"],
+        default="misto",
+        help="Perfil da audiência. Metadado para calibrar glosa/tom no Passo 6.",
+    )
+    ap.add_argument(
+        "--interacao", choices=["sem", "retorica", "discussao"], default="sem",
+        help="Interação com plateia: sem / pergunta retórica entre partes / "
+             "slide explícito de discussão. Estrutural — afeta o scaffold.",
+    )
     args = ap.parse_args()
 
     if not re.match(r"^\d{4}-\d{2}-\d{2}$", args.data):
@@ -304,7 +341,7 @@ def main() -> int:
     out.parent.mkdir(parents=True, exist_ok=True)
     deck = render_deck(
         title, sigla_principal, range_principal, sections_qa,
-        page, args.data, args.casa,
+        page, args.data, args.casa, args.interacao,
     )
     out.write_text(deck, encoding="utf-8")
 
@@ -317,6 +354,9 @@ def main() -> int:
         "qa_pairs": total_qa,
         "data": args.data,
         "casa": args.casa,
+        "duracao": args.duracao,
+        "audiencia": args.audiencia,
+        "interacao": args.interacao,
     }, ensure_ascii=False, indent=2))
     return 0
 

@@ -23,9 +23,16 @@ Confirmar que o argumento é uma página existente em `wiki/`. Se vier só um te
 
 ### Passo 2 — Coletar metadados da palestra
 
-Usar `AskUserQuestion` para obter:
-- **Data da palestra** (YYYY-MM-DD) — obrigatória, nunca usar a data atual
-- **Casa espírita** (opcional, ex: "Centro Espírita Allan Kardec") — valor cru vai direto no footer, sem prefixo
+Duas chamadas `AskUserQuestion` (limite é 4 perguntas por chamada). Não prosseguir sem todos os campos respondidos.
+
+**Chamada 1 — Logística** (3 perguntas):
+- **Data da palestra** (YYYY-MM-DD) — obrigatória, nunca usar a data atual. Oferecer 2-3 datas-âncora (próximo sábado, próximo domingo) + "Other" para data explícita.
+- **Casa espírita** (opcional, ex: "Centro Espírita Allan Kardec") — valor cru vai direto no footer, sem prefixo. Oferecer casas recentes do histórico de `slides/` + "Sem casa" + "Other".
+- **Duração** — 30 / 45 / 60 / 90 min. Afeta quantidade de partes temáticas e profundidade de cada Q&A. Default sugerido: 60 min.
+
+**Chamada 2 — Formato** (2 perguntas):
+- **Perfil da audiência** — iniciantes / estudantes regulares / evangelizadores / misto. Muda densidade de citação, necessidade de glosa e tom didático.
+- **Interação com a plateia** — sem / pergunta retórica entre partes / slide explícito de discussão. Estrutural: o scaffold insere o slide correspondente.
 
 ### Passo 3 — Buscar material via qmd
 
@@ -37,16 +44,19 @@ Queries read-only em `raw/` e `wiki/` para montar o outline com conteúdo real, 
 
 ### Passo 4 — Propor outline ao usuário
 
-Apresentar o deck completo em texto, pronto para crítica:
+Apresentar o deck completo em texto para crítica do usuário:
 
 - **Capa** (título, obra+range, data, casa)
-- **Pergunta de abertura** (5-15 palavras)
-- **Partes temáticas** com Q&A já preenchido (perguntas literais + trechos de resposta com elipses quando longas)
-- **"Para meditar"** — 1-3 candidatos (parábola evangélica, caso de C&I, personalidade de André Luiz) para escolha
+- **Partes temáticas** com Q&A já preenchido (perguntas literais + trechos de resposta com elipses quando longas) — estrutura aberta a reordenação/corte pelo usuário no texto livre
 - **Síntese final** (3-5 bullets rascunho)
-- **Encerramento** — citação consolidadora opcional
 
-Aguardar validação. Em seguida, prosseguir para a fase de geração.
+Em paralelo, uma chamada `AskUserQuestion` com 3 perguntas para as escolhas discretas (cada uma com 2-4 opções):
+
+- **Pergunta de abertura** — gerar 3 candidatos (5-15 palavras cada, retóricos, ângulos diferentes do tema). Usuário escolhe 1 ou pede outra via "Other".
+- **Para meditar** — listar 2-4 candidatos selecionados no Passo 3 (parábola evangélica, caso de C&I, personalidade de André Luiz, página de `wiki/personalidades/`). Apenas título + referência, nunca texto integral.
+- **Encerramento** — citação consolidadora (Jesus/Kardec/Pentateuco) / convite à ação (chamada prática à reforma íntima) / sem encerramento (síntese fecha a palestra).
+
+Aguardar validação do outline em texto **e** respostas das 3 perguntas. Em seguida, prosseguir para a fase de geração.
 
 ## Fase de geração (pós-aprovação)
 
@@ -54,8 +64,14 @@ Aguardar validação. Em seguida, prosseguir para a fase de geração.
 
 ```bash
 uv run python .claude/skills/slides/scripts/scaffold_deck.py <caminho-wiki> \
-  --date <YYYY-MM-DD> [--casa "<nome da casa>"] [--out slides/<slug>/deck.md]
+  --date <YYYY-MM-DD> [--casa "<nome da casa>"] \
+  --duracao <30|45|60|90> \
+  --audiencia <iniciantes|regulares|evangelizadores|misto> \
+  --interacao <sem|retorica|discussao> \
+  [--out slides/<slug>/deck.md]
 ```
+
+Os flags `--duracao`, `--audiencia`, `--interacao` vêm das respostas do Passo 2. Duração e audiência são metadados que o modelo usa para calibrar densidade no Passo 6; `interacao` é estrutural e altera o scaffold.
 
 O script emite um esqueleto Marp com:
 
@@ -63,20 +79,24 @@ O script emite um esqueleto Marp com:
 2. **Abertura**: slide com TODO para pergunta socrática
 3. **Partes** — cada seção `##` do wiki que contenha blockquotes vira uma parte, com section header `<!-- _class: section -->` de transição
 4. **Q&A** — para citações LE, par pergunta+resposta; para outras obras, slide único de citação expandida
-5. **Para meditar** — slide de parábola/caso/personalidade
-6. **Síntese** — section header + slide de bullets
-7. **Encerramento** — citação consolidadora opcional
+5. **Interação com plateia** (se `--interacao` != `sem`) — inserida antes de "Para meditar". `retorica` → 1 slide com TODO de pergunta retórica; `discussao` → section header "Pausa para conversa" + slide convidando comentários.
+6. **Para meditar** — slide de parábola/caso/personalidade
+7. **Síntese** — section header + slide de bullets
+8. **Encerramento** — citação consolidadora opcional
 
 TODOs a preencher ficam marcados como `*<!-- skill: ... -->*` em itálico.
 
 ### Passo 6 — Refinar o deck.md
 
-Substituir todos os `<!-- skill: ... -->` com o conteúdo aprovado no Passo 4:
-- Pergunta de abertura
-- Perguntas e respostas literais do LE (com elipses quando longas)
-- Título + referência da parábola/caso/personalidade escolhida (sem texto integral)
-- Síntese (3-5 bullets)
-- Encerramento (ou remover slide se não couber)
+Substituir todos os `<!-- skill: ... -->` com o conteúdo aprovado no Passo 4 e calibrar densidade pelos metadados do Passo 2:
+
+- **Pergunta de abertura** — opção escolhida no AskUserQuestion do Passo 4
+- **Perguntas e respostas literais do LE** (com elipses quando longas) — quantidade calibrada por `duracao` (30min ≈ 3-5 pares; 60min ≈ 8-12; 90min ≈ 12-15)
+- **Glosa / explicação** — calibrada por `audiencia`: iniciantes pedem mais paráfrase em linguagem corrente, regulares aceitam citação seca, evangelizadores recebem ganchos para a prática de evangelização
+- **Slide de interação** (se inserido pelo scaffold) — preencher a pergunta retórica ou o convite à plateia
+- **Título + referência da parábola/caso/personalidade** escolhida no AskUserQuestion (sem texto integral)
+- **Síntese** (3-5 bullets)
+- **Encerramento** — conforme escolha do AskUserQuestion: preencher slide de citação consolidadora, substituir por slide de convite à ação, ou remover o slide
 
 **Não inserir slides em branco** (`<!-- _class: blank -->`). Transições são feitas com `<!-- _class: section -->`.
 
