@@ -255,7 +255,7 @@ Em [[wiki/obras/revista-espirita-1866|RE fev/1866]], dois casos longitudinais re
 
 Conclusão metodológica de Kardec: *"Os casos de obsessão são tão frequentes que não é exagero dizer que nos hospícios de alienados mais da metade apenas têm a aparência de loucura e que, por isto mesmo, a medicação vulgar não faz efeito."* — tese reforçada poucos meses depois pelo artigo "Estatística da loucura" ([[wiki/obras/revista-espirita-1866|RE jul/1866]]) que **refuta documentalmente** a acusação anti-espírita de que o Espiritismo causa loucura (com dados oficiais do Ministério da Agricultura no *Moniteur* de 16/04/1866).
 
-### Yvonne Pereira: a desobsessão não está superada, e o obsessor é irmão (*À Luz do Consolador*)
+### Yvonne Pereira: a desobsessão não está superada, e o obsessor é irmão (*[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*)
 
 Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] — meio século de atendimento a obsidiados — contesta a tese, então corrente, de que o trabalho de desobsessão "está superado e deve ser abolido das cogitações dos Centros Espíritas". Três ênfases pastorais, todas ancoradas em Kardec:
 
@@ -308,4 +308,4 @@ Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. FEB, 1955. Caps. 9 (possessão), 10 (sonambulismo torturado), 23 (fascinação com xenoglossia), 24 (luta expiatória). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias, zonas purgatoriais, médiuns enfermos). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 1, cap. 8. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Obsessão*; *Um estranho caso de obsessão*). Ver [[wiki/obras/a-luz-do-consolador]]. Ancoragem: LM, cap. XXIII; LE, q. 473; ESE, cap. XXVIII.
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Obsessão*; *Um estranho caso de obsessão*). Ver [[wiki/obras/a-luz-do-consolador]]. Ancoragem: LM, cap. XXIII; LE, q. 473; ESE, cap. XXVIII.

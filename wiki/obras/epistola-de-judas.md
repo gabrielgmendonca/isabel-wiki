@@ -78,7 +78,7 @@ Passagens-chave: **1:3** (combater pela fé — entendida como fidelidade moral,
 
 ## Personalidades citadas
 
-- [[wiki/personalidades/judas-irmao-de-tiago]] — autor; "servo de Jesus Cristo, e irmão de Tiago" (1:1); irmão do Senhor, **não** Iscariotes.
+- [[wiki/personalidades/judas-irmao-de-tiago]] — autor; "servo de Jesus Cristo, e irmão de Tiago" (1:1); irmão do Senhor, **não** [[wiki/personalidades/judas-iscariotes|Iscariotes]].
 - [[wiki/personalidades/tiago-irmao-do-senhor]] — irmão do autor, invocado como credencial (1:1).
 - [[wiki/personalidades/jesus]] — "Jesus Cristo, único dominador e Senhor nosso" (1:4); a misericórdia do Cristo "para a vida eterna" (1:21).
 - **Miguel (arcanjo)** — 1:9: figura da disputa pelo corpo de Moisés (fonte apócrifa, *Assunção de Moisés*); lido como linguagem alegórica de época.

@@ -24,7 +24,7 @@ url: https://www.febeditora.com.br/listaprodutos.asp?fil=293893&avancada=true&tf
 
 ## Papel
 
-Historiador do movimento espírita e um dos principais biógrafos de Allan Kardec — coautor, com Francisco Thiesen, da obra de pesquisa biográfica *Allan Kardec* (FEB). *Allan Kardec: o Educador e o Codificador* condensa o estudo da vida de Rivail/Kardec; *As Mesas Girantes e o Espiritismo* documenta o fenômeno que esteve na origem das pesquisas da Codificação. Trabalho fundado em documentação primária.
+Historiador do movimento espírita e um dos principais biógrafos de Allan Kardec — coautor, com Francisco Thiesen, da obra de pesquisa biográfica *Allan Kardec* (FEB). *Allan Kardec: o Educador e o Codificador* condensa o estudo da vida de [[wiki/personalidades/allan-kardec|Rivail]]/Kardec; *As Mesas Girantes e o Espiritismo* documenta o fenômeno que esteve na origem das pesquisas da Codificação. Trabalho fundado em documentação primária.
 
 ## Obras associadas
 

@@ -225,9 +225,9 @@ Ver [[wiki/biblia/1-timoteo/6]].
 - [[wiki/personalidades/paulo-de-tarso]] — autor (1:1); testemunho autobiográfico em 1:12–17 (blasfemo, perseguidor, injurioso, alcançou misericórdia "ignorantemente"); ordena a Timóteo permanecer em Éfeso (1:3).
 - [[wiki/personalidades/timoteo]] — destinatário (1:2); pastor regional de Éfeso encarregado de combater falsos mestres (1:3–4); jovem ministro a quem Paulo recomenda exemplo na palavra, no trato, no amor, na fé e na pureza (4:12); recebeu dom por imposição de mãos do presbitério (4:14).
 - **Himeneu e Alexandre** — entregues a Satanás por blasfêmia (1:20); presença histórica nominal; Himeneu reaparece em 2 Tm 2:17 como falso mestre da ressurreição (afirmando-a já consumada).
-- [[wiki/personalidades/jesus]] — "Cristo Jesus, esperança nossa" (1:1); "Cristo Jesus veio ao mundo para salvar os pecadores" (1:15); "um só Mediador entre Deus e os homens, Jesus Cristo homem" (2:5); diante de Pôncio Pilatos "deu o testemunho de boa confissão" (6:13).
+- [[wiki/personalidades/jesus]] — "Cristo Jesus, esperança nossa" (1:1); "Cristo Jesus veio ao mundo para salvar os pecadores" (1:15); "um só Mediador entre Deus e os homens, Jesus Cristo homem" (2:5); diante de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] "deu o testemunho de boa confissão" (6:13).
 - **Adão e Eva** — invocados em 2:13–14 como fundamento da subordinação feminina (divergência — ver callout do cap. 2).
-- **Pôncio Pilatos** — referência histórica em 6:13.
+- **[[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]]** — referência histórica em 6:13.
 
 ## Divergências registradas
 

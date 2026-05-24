@@ -49,7 +49,7 @@ O LM vincula a emancipação da alma à mediunidade:
 - O Espírito do médium pode, durante o exercício mediúnico, entrar em estado análogo à emancipação: "A alma do médium pode comunicar-se, como a de qualquer outro" (LM, 2ª parte, cap. XIX, item 223, 2ª).
 - Os **médiuns extáticos** recebem revelações em estado de êxtase, mas "muitos são joguetes da própria imaginação e de Espíritos zombeteiros" — "são raríssimos os que mereçam inteira confiança" (LM, 2ª parte, cap. XVI, item 190).
 
-## Tipologia do sonho — Yvonne Pereira (*À Luz do Consolador*)
+## Tipologia do sonho — Yvonne Pereira (*[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*)
 
 Na crônica *Sonhos...* de [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]], [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] parte de LE, q. 400–402 para distinguir, na prática, três registros do sonhar — útil para responder a consulentes que confundem pesadelo, intuição e revelação:
 
@@ -83,4 +83,4 @@ Na seção sobre emancipação da alma (OPE, "Manifestações dos Espíritos", �
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 2, cap. VIII — "Da emancipação da alma", q. 400–455.
 - Kardec, Allan. *O Livro dos Médiuns*. Trad. Guillon Ribeiro. FEB. Caps. XIV (item 172), XVI (item 190), XIX (item 223), XXV.
 - Kardec, Allan. *Obras Póstumas*, "Manifestações dos Espíritos", §IV; "Causa e natureza da clarividência sonambúlica"; "A segunda vista". FEB.
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Sonhos...*). Ver [[wiki/obras/a-luz-do-consolador]]. Ancoragem: LE, q. 400–402.
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Sonhos...*). Ver [[wiki/obras/a-luz-do-consolador]]. Ancoragem: LE, q. 400–402.

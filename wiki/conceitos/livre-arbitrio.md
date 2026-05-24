@@ -112,5 +112,5 @@ Ver [[wiki/conceitos/potencias-da-alma]], [[wiki/obras/o-problema-do-ser-e-do-de
 - Kardec, Allan. *O Livro dos Espíritos*, q. 843–872, q. 258, q. 780. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. V (itens 8–9) e cap. XVII (item 7). Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 22. Trad. Homero Dias de Carvalho. CELD, 2011.
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 8:29–30; 9:11–23; 14:10, 12. Ver [[wiki/obras/epistola-aos-romanos]].

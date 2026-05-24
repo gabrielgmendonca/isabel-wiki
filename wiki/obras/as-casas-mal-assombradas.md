@@ -30,7 +30,7 @@ status: ativo
 | Obra | Ano | Objeto |
 |------|-----|--------|
 | *O Desconhecido e os Problemas Psíquicos* | 1900 | telepatia e manifestações de vivos e moribundos (primeira classificação metódica) |
-| *A Morte e o seu Mistério* (3 tomos) | 1920–1922 | I — faculdades humanas desconhecidas; II — manifestações de moribundos; III — manifestações *post-mortem* |
+| *[[wiki/obras/a-morte-e-o-seu-misterio|A Morte e o seu Mistério]]* (3 tomos) | 1920–1922 | I — faculdades humanas desconhecidas; II — manifestações de moribundos; III — manifestações *post-mortem* |
 | ***As Casas Mal-Assombradas*** | **1923** | fenômenos de assombração ligados a **lugares** — o material que sobrara do 3º tomo de *A Morte* |
 
 Na **Advertência**, Flammarion explicita a filiação: *"No fim do 3º volume da minha trilogia metapsíquica, A Morte e seu Mistério, eu disse que a abundância de documentos me obrigava a eliminar um certo número desses documentos [...] reservando-os para publicações ulteriores, notadamente de fenômenos concernentes a casas mal-assombradas."* O acervo declarado ultrapassa **10.000 observações** (5.600 recebidas no inquérito de 1899, 500 anteriores, mais sociedades psíquicas da França, Inglaterra, Alemanha, Itália).

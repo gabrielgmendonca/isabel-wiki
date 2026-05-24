@@ -36,7 +36,7 @@ Seus principais orientadores espirituais foram **Bezerra de Menezes**, **Charles
 
 ## Obras associadas
 
-Autoria espiritual conforme a autobiografia da médium (em *À Luz do Consolador*); títulos sem página própria mantidos da compilação do catálogo FEB Editora. Apenas as linkadas têm página em `wiki/obras/`.
+Autoria espiritual conforme a autobiografia da médium (em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*); títulos sem página própria mantidos da compilação do catálogo FEB Editora. Apenas as linkadas têm página em `wiki/obras/`.
 
 - [[wiki/obras/a-luz-do-consolador|À Luz do Consolador]] — coletânea póstuma (FEB, 1997) de crônicas do *Reformador* sob o pseudônimo *Frederico Francisco*; inclui sua autobiografia mediúnica
 - *Memórias de um Suicida* — Espírito Camilo Castelo Branco, refeito por [[wiki/personalidades/leon-denis|Léon Denis]]; referência clássica sobre [[wiki/conceitos/suicidio|suicídio]]
@@ -56,11 +56,11 @@ Autoria espiritual conforme a autobiografia da médium (em *À Luz do Consolador
 
 ## Citações relevantes
 
-Sobre o critério inegociável da Codificação (autobiografia, em *À Luz do Consolador*):
+Sobre o critério inegociável da Codificação (autobiografia, em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*):
 
 > "Amei-a sempre, respeitei-a e guiei-a sob o critério insuperável da Codificação Espírita, realizada por Allan Kardec."
 
-Sobre a mediunidade como resgate, não privilégio (*O grande compromisso*, em *À Luz do Consolador*):
+Sobre a mediunidade como resgate, não privilégio (*O grande compromisso*, em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*):
 
 > "Não se é médium escritor por se desejar ser, mas sim por precisar ser. O compromisso será antes um resgate, uma reparação de displicências pretéritas [...] do que mesmo missão."
 
@@ -75,5 +75,5 @@ Sobre a mediunidade como resgate, não privilégio (*O grande compromisso*, em *
 
 ## Fontes
 
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997. "Dados biográficos de Yvonne A. Pereira para a Federação Espírita Brasileira" (autobiografia, 1973, revista 1981). Edição: [[raw/autores/yvonne-pereira/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral (Frederico Francisco). *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*. Rio de Janeiro: FEB, 1997. "Dados biográficos de Yvonne A. Pereira para a Federação Espírita Brasileira" (autobiografia, 1973, revista 1981). Edição: [[raw/autores/yvonne-pereira/a-luz-do-consolador]].
 - FEB Editora. Catálogo "Yvonne do Amaral Pereira". Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>. Acesso em: 2026-05-13.

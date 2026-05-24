@@ -77,7 +77,7 @@ Apesar das críticas, Kardec encerra a notícia biográfica com elogio:
 > *"— Poderíeis dizer-nos de que maneira eram recebidas por vós as comunicações dos Espíritos? Escrevíeis aquilo que vos era revelado, à maneira dos médiuns, ou por inspiração?  
 > — Quando eu estava em silêncio e em recolhimento, meu Espírito como que ficava deslumbrado, em êxtase, e eu via claramente uma imagem à minha frente, que me falava e ditava o que eu deveria escrever. Por vezes, minha imaginação se misturava a isso."* (RE, nov/1859)
 
-## Recepção complementar — Yvonne Pereira (*À Luz do Consolador*)
+## Recepção complementar — Yvonne Pereira (*[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*)
 
 A crônica *Emmanuel Swedenborg* de [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]], de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]], faz a leitura **histórico-positiva** complementar à crítica doutrinária de Kardec na RE de 1859, sem com ela conflitar (Kardec mesmo encerra a notícia de 1859 chamando-o "uma das grandes figuras [...] pioneiros"):
 
@@ -103,4 +103,4 @@ Não há obras de Swedenborg psicografadas após sua morte registradas na *Revis
 
 - KARDEC, Allan. *Revista Espírita*, nov/1859, "Swedenborg" e "Comunicação de Swedenborg prometida na sessão de 16 de setembro". Edição local: [[raw/kardec/revista-espirita/1859/01-janeiro|raw/kardec/revista-espirita/1859/]].
 - SWEDENBORG, Emanuel. *De Caelo et Inferno* (1758) — referência da doutrina dos três céus / três infernos criticada por Kardec.
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]].

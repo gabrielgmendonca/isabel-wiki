@@ -74,5 +74,5 @@ Kardec denuncia como "orgulho e vaidade" a crença de que só à Terra caberia o
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — "Há muitas moradas na casa de meu Pai". Trad. Guillon Ribeiro. FEB.
 - Denis, Léon. *O Grande Enigma*, Parte IV, seção III. Trad. Maria Lucia Alcantara de Carvalho. CELD, 2011.
 - Flammarion, Camille. *Narrações do Infinito* (*Lumen*; *Récits de l'Infini*, 1872). FEB Editora. Ver [[wiki/obras/narracoes-do-infinito]].
-- Flammarion, Camille. *Urânia* (*Uranie*, 1889). Trad. Almir Ribeiro Guimarães. FEB.
-- Flammarion, Camille. *Estela* (*Stella*, 1897). Trad. Almerindo Martins de Castro. FEB.
+- Flammarion, Camille. *Urânia* (*[[wiki/obras/urania|Uranie]]*, 1889). Trad. Almir Ribeiro Guimarães. FEB.
+- Flammarion, Camille. *Estela* (*[[wiki/obras/estela|Stella]]*, 1897). Trad. Almerindo Martins de Castro. FEB.

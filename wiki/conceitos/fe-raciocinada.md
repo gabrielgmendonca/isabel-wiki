@@ -52,7 +52,7 @@ A passagem **não é hostil à razão**; o alvo paulino é **filosofia humana se
 
 Ver [[wiki/obras/epistola-aos-colossenses]].
 
-### Estudo metódico pela base — Yvonne Pereira em *À Luz do Consolador*
+### Estudo metódico pela base — Yvonne Pereira em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*
 
 A coletânea póstuma [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]], de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]], faz da fé raciocinada o eixo de quase todas as suas crônicas, traduzindo-a em **disciplina de estudo**: aprender o Espiritismo "metodicamente, parcelado, partindo da base da doutrina, ou exposição das leis, e não do coroamento", como "o aluno de uma escola iniciará o curso da primeira série e não da quarta". O risco de não fazê-lo é o **sofisma** — "tão perigoso em assuntos de Espiritismo" —, em que o adepto, sem raciocinar pela base, propaga "falsos conceitos doutrinários originados das nossas ideias pessoais pouco esclarecidas".
 
@@ -94,5 +94,5 @@ No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocina
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 4–7.
 - Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.
 - *Bíblia Sagrada* (ACF). Segunda Epístola aos Coríntios, 5:6–7. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*A verdade mediúnica*, *O estranho mundo dos suicidas*, *Convite ao estudo*, *Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]]. Critério: ESE, Introdução; cap. VI.
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*A verdade mediúnica*, *O estranho mundo dos suicidas*, *Convite ao estudo*, *Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]]. Critério: ESE, Introdução; cap. VI.
 - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, cap. 11 — "O santo desiludido". Rio de Janeiro: FEB, 1950. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].

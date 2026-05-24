@@ -90,7 +90,7 @@ Como médium psicógrafo, Chico Xavier raramente assina texto próprio; as cita�
 ## Fontes
 
 - XAVIER, Francisco Cândido. *Parnaso de Além-Túmulo*. Rio de Janeiro: FEB, 1932. Edição: [[raw/mediuns/chico-xavier/diversos/parnaso-de-alem-tumulo]].
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*. Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/cronicas-de-alem-tumulo|Crônicas de Além-Túmulo]]*. Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
 - XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].

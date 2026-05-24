@@ -16,7 +16,7 @@ Espírito mensageiro de [[wiki/personalidades/jesus|Jesus]] designado, conforme 
 
 ## Papel
 
-Articulador permanente do plano espiritual do Brasil. Em *Brasil, Coração do Mundo*, sua atuação organiza:
+Articulador permanente do plano espiritual do Brasil. Em *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]]*, sua atuação organiza:
 
 - **A formação tripla do povo** (índios, degredados portugueses, africanos escravizados) como composição providencial (caps. 3–7).
 - **O ciclo monárquico** (1500–1889): sustenta D. Pedro II como missionário (caps. 20, 24–25), inspira as falanges responsáveis pelas pacificações da Regência e do Segundo Reinado.
@@ -56,5 +56,5 @@ Da inflexão de método após a Proclamação da República, quando Jesus determ
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 1, 2, 22, 23, 26, 27, 28, 29, 30.
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]], Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 1, 2, 22, 23, 26, 27, 28, 29, 30.
 - Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].

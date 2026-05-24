@@ -61,5 +61,5 @@ A obra reúne **duas narrativas** independentes que articulam o tema da lei de c
 ## Fontes
 
 - PEREIRA, Yvonne do Amaral (Bezerra de Menezes / Camilo Castelo Branco). *Nas Telas do Infinito*. Rio de Janeiro: FEB Editora, 2003. 192 p. ISBN 978-85-7328-348-8. Disponível em: <https://www.febeditora.com.br/prod,idproduto,6470269,nas-telas-do-infinito>. Acesso em: 2026-05-14.
-- FEB Editora. Catálogo "Yvonne do Amaral Pereira". Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>. Acesso em: 2026-05-14.
-- Wikipédia. "Yvonne do Amaral Pereira". Disponível em: <https://pt.wikipedia.org/wiki/Yvonne_do_Amaral_Pereira>. Acesso em: 2026-05-14.
+- FEB Editora. Catálogo "[[wiki/personalidades/yvonne-pereira|Yvonne do Amaral Pereira]]". Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>. Acesso em: 2026-05-14.
+- Wikipédia. "[[wiki/personalidades/yvonne-pereira|Yvonne do Amaral Pereira]]". Disponível em: <https://pt.wikipedia.org/wiki/Yvonne_do_Amaral_Pereira>. Acesso em: 2026-05-14.

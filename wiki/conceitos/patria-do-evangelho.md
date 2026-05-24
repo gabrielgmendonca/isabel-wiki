@@ -72,7 +72,7 @@ Nenhuma identificada. O conceito é aditivo a Kardec, opera nos eixos doutrinár
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938.
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]], Pátria do Evangelho*. Rio de Janeiro: FEB, 1938.
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939 — caps. 24-25.
 - KARDEC, Allan. *O Livro dos Espíritos*, q. 132-141, 776-800 — lei de progresso e missão das nações.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. III — pluralidade dos mundos habitados.

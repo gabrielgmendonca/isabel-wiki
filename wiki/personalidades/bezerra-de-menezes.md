@@ -50,7 +50,7 @@ Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista 
 
 ## Citações relevantes
 
-Da designação de Bezerra em assembleia espiritual, antes do fim do Primeiro Reinado, narrada no cap. 22 de *Brasil, Coração do Mundo* — Ismael dirige-se ao "dedicado e fiel discípulo" escolhido:
+Da designação de Bezerra em assembleia espiritual, antes do fim do Primeiro Reinado, narrada no cap. 22 de *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]]* — Ismael dirige-se ao "dedicado e fiel discípulo" escolhido:
 
 > "Descerás às lutas terrestres com o objetivo de concentrar as nossas energias no país do Cruzeiro, dirigindo-as para o alvo sagrado dos nossos esforços. Arregimentarás todos os elementos dispersos com as dedicações do teu espírito, a fim de que possamos criar o nosso núcleo de atividades espirituais, dentro dos elevados propósitos de reforma e regeneração. […] Se a luta vai ser grande, considera que não será menor a compensação do Senhor, dele que é o caminho, a verdade e a vida…"
 
@@ -60,7 +60,7 @@ E, sobre seu chamado ao apostolado em 1885, descrita no cap. 23:
 
 ## Como autor espiritual e orientador de Yvonne Pereira
 
-Bezerra de Menezes foi, segundo a autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] (em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), o **principal supervisor e orientador espiritual** de sua mediunidade e autor espiritual de várias de suas obras (*Dramas da Obsessão*, *A Tragédia de Santa Maria*, supervisão de *Recordações da Mediunidade*, *Nas Telas do Infinito* — esta com Camilo Castelo Branco). Em *À Luz do Consolador*, Yvonne cita a definição de Bezerra em *Dramas da Obsessão*: "a obsessão nada mais é do que uma troca de vibrações afins" — formulação coerente com LM, 2ª parte, cap. XXIII (ver [[wiki/conceitos/obsessao]]). Foi também a voz que, ao vê-la prestes a queimar os originais de *Memórias de um Suicida*, lhe disse "Espera! Guarda-os!".
+Bezerra de Menezes foi, segundo a autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] (em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), o **principal supervisor e orientador espiritual** de sua mediunidade e autor espiritual de várias de suas obras (*Dramas da Obsessão*, *A Tragédia de Santa Maria*, supervisão de *Recordações da Mediunidade*, *[[wiki/obras/nas-telas-do-infinito|Nas Telas do Infinito]]* — esta com Camilo Castelo Branco). Em *À Luz do Consolador*, Yvonne cita a definição de Bezerra em *Dramas da Obsessão*: "a obsessão nada mais é do que uma troca de vibrações afins" — formulação coerente com LM, 2ª parte, cap. XXIII (ver [[wiki/conceitos/obsessao]]). Foi também a voz que, ao vê-la prestes a queimar os originais de *Memórias de um Suicida*, lhe disse "Espera! Guarda-os!".
 
 ## Páginas relacionadas
 
@@ -72,7 +72,7 @@ Bezerra de Menezes foi, segundo a autobiografia de [[wiki/personalidades/yvonne-
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 22, 23, 26, 28.
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]], Pátria do Evangelho*. Rio de Janeiro: FEB, 1938 — caps. 22, 23, 26, 28.
 - Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].
 - Biografia encarnada: registros públicos da Federação Espírita Brasileira; arquivos de *O País* (1886-1893).
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (autobiografia; *Obsessão*). Ver [[wiki/obras/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (autobiografia; *Obsessão*). Ver [[wiki/obras/a-luz-do-consolador]].

@@ -32,7 +32,7 @@ Diferente dos romances psicografados da autora (*Memórias de um Suicida*, *Deva
 
 Duas partes:
 
-1. **"Dados biográficos de Yvonne A. Pereira para a Federação Espírita Brasileira"** — autobiografia em 11 seções (filiação, criação, instrução, mediunidade, curas, encargos, literatura, correspondência, Esperanto, FEB). Documento primário: nascimento, faculdades, relação com a Casa-Máter, gênese dos livros psicografados.
+1. **"Dados biográficos de [[wiki/personalidades/yvonne-pereira|Yvonne A. Pereira]] para a Federação Espírita Brasileira"** — autobiografia em 11 seções (filiação, criação, instrução, mediunidade, curas, encargos, literatura, correspondência, Esperanto, FEB). Documento primário: nascimento, faculdades, relação com a Casa-Máter, gênese dos livros psicografados.
 2. **Coletânea de ~33 crônicas** do *Reformador*, doutrinárias e pastorais, geralmente disparadas por uma carta ou visita de consulente e respondidas à luz da Codificação.
 
 ## Resumo por eixos
@@ -83,8 +83,8 @@ Nenhuma divergência doutrinária identificada. A obra subordina explicitamente 
 
 ## Fontes
 
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997. Edição: [[raw/autores/yvonne-pereira/a-luz-do-consolador]] (texto integral em `raw/`, excluído do build público — obra protegida).
-- Aquisição: catálogo "Yvonne do Amaral Pereira" na FEB Editora. Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>.
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997. Edição: [[raw/autores/yvonne-pereira/a-luz-do-consolador]] (texto integral em `raw/`, excluído do build público — obra protegida).
+- Aquisição: catálogo "[[wiki/personalidades/yvonne-pereira|Yvonne do Amaral Pereira]]" na FEB Editora. Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>.
 - Dados biográficos: *Reformador* (FEB), edições de janeiro e fevereiro de 1982 (autobiografia redigida pela autora em 1973, revista em 1981).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Introdução; cap. V, itens 4–5; cap. VI; caps. XXVII–XXVIII.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. q. 400–402; q. 473; Prolegômenos.

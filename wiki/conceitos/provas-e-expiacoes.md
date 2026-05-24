@@ -74,4 +74,4 @@ Distinguir prova de expiação ajuda a evitar dois extremos comuns: culpar a si 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. I (Introdução); q. 258–262; Parte 4, cap. II, q. 984–989. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. III. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. III — "Há muitas moradas na casa de meu Pai"; cap. V — "Bem-aventurados os aflitos", itens 4–5 ("Causas atuais das aflições"). Trad. Guillon Ribeiro. FEB.
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Tormentos voluntários*; *Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*Tormentos voluntários*; *Destino e livre-arbítrio*). Ver [[wiki/obras/a-luz-do-consolador]].

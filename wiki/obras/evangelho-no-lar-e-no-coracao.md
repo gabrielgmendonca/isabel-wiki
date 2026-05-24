@@ -5,6 +5,7 @@ tags: [evangelho-no-lar, culto-do-evangelho-no-lar, lar, feb, conselho-federativ
 direitos:
   detentor: FEB
   ano_dp_estimado: ""
+  observacao: "Livreto institucional do CFN distribuído pelas Casas Espíritas federadas no âmbito da campanha *Favor da Família e Contra o Desamor Social*. Sem página de produto individual no catálogo FEB Editora (URL direta retorna 404); url_aquisicao não fixada."
 atualizado_em: 2026-05-23
 status: rascunho
 ---
@@ -19,7 +20,7 @@ status: rascunho
 - **ISBN:** 978-65-5570-755-7
 - **Páginas:** 36
 - **Formato:** livreto institucional (100×155mm)
-- **Texto integral:** [[raw/artigos/feb/WEB-Evangelho-no-lar-e-no-coracao-100x155mm-2025]]
+- **Texto integral:** [[raw/artigos/feb/web-evangelho-no-lar-e-no-coracao-100x155mm-2025]]
 
 ## Caráter editorial
 
@@ -29,7 +30,7 @@ Constitui a **segunda fonte institucional federativa** ingerida na wiki sobre a 
 
 ### Edição anterior — *Paz no Lar, Paz na Humanidade*
 
-A edição 2025 é **reformulação de um livreto FEB anterior** da mesma campanha *Favor da Família e Contra o Desamor Social*, intitulado *Paz no Lar, Paz na Humanidade* (OCR em [[raw/artigos/feb/Livreto-Evangelho-no-Lar]], sem ISBN nem data legíveis na digitalização). Os dois textos compartilham praticamente toda a substância doutrinária — mesma cadeia argumentativa (reencarnação → família → função regeneradora), mesmas 7 finalidades, mesmo roteiro de 6 passos, mesma lista de livros recomendados, **mesma antologia das 6 mensagens-âncora**. A diferença editorial mais visível é que o título da publicação 2025, *Evangelho no Lar e no Coração*, foi **promovido da seção final** do livreto antigo: a edição anterior fechava com uma seção homônima ancorada em LE q. 208 — "Os Espíritos dos pais exercem alguma influência sobre os dos filhos, após o nascimento destes?" — que o 2025 absorveu na própria identidade. Para efeitos práticos de citação doutrinária e roteiro de reunião, ambas as edições convergem; esta página cobre o material das duas.
+A edição 2025 é **reformulação de um livreto FEB anterior** da mesma campanha *Favor da Família e Contra o Desamor Social*, intitulado *Paz no Lar, Paz na Humanidade* (OCR em [[raw/artigos/feb/livreto-evangelho-no-lar]], sem ISBN nem data legíveis na digitalização). Os dois textos compartilham praticamente toda a substância doutrinária — mesma cadeia argumentativa (reencarnação → família → função regeneradora), mesmas 7 finalidades, mesmo roteiro de 6 passos, mesma lista de livros recomendados, **mesma antologia das 6 mensagens-âncora**. A diferença editorial mais visível é que o título da publicação 2025, *Evangelho no Lar e no Coração*, foi **promovido da seção final** do livreto antigo: a edição anterior fechava com uma seção homônima ancorada em LE q. 208 — "Os Espíritos dos pais exercem alguma influência sobre os dos filhos, após o nascimento destes?" — que o 2025 absorveu na própria identidade. Para efeitos práticos de citação doutrinária e roteiro de reunião, ambas as edições convergem; esta página cobre o material das duas.
 
 ## Estrutura
 
@@ -169,8 +170,8 @@ Nenhuma divergência com Kardec identificada. Convergente com ESE caps. XVII (se
 
 ## Fontes
 
-- FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/WEB-Evangelho-no-lar-e-no-coracao-100x155mm-2025]].
-- FEDERAÇÃO ESPÍRITA BRASILEIRA. *Paz no Lar, Paz na Humanidade — Favor da Família e Contra o Desamor Social* (livreto FEB, edição anterior, sem ISBN nem data legíveis na digitalização disponível). Edição: [[raw/artigos/feb/Livreto-Evangelho-no-Lar]].
+- FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/web-evangelho-no-lar-e-no-coracao-100x155mm-2025]].
+- FEDERAÇÃO ESPÍRITA BRASILEIRA. *Paz no Lar, Paz na Humanidade — Favor da Família e Contra o Desamor Social* (livreto FEB, edição anterior, sem ISBN nem data legíveis na digitalização disponível). Edição: [[raw/artigos/feb/livreto-evangelho-no-lar]].
 - Textos antologizados (citação por *Autor / Médium*):
   - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, cap. 1. FEB.
   - XAVIER, Francisco Cândido (Emmanuel). *Seara dos Médiuns*, q. 341 (reunião pública 25/7/60). FEB.

@@ -86,4 +86,4 @@ O caso de *O Consolador* é doutrinariamente instrutivo por dois motivos:
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - Xavier, Francisco Cândido (Emmanuel). *O Consolador*, q. 378 e Nota final. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
 - Xavier, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…*, cap. "Alvoradas do Reino do Senhor". Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
-- Flammarion, Camille. *Estela* (*Stella*, Paris: Ernest Flammarion, 1897), cap. XXVI. Trad. Almerindo Martins de Castro. FEB. Edição: [[raw/autores/camille-flammarion/estela/estela]].
+- Flammarion, Camille. *Estela* (*[[wiki/obras/estela|Stella]]*, Paris: Ernest Flammarion, 1897), cap. XXVI. Trad. Almerindo Martins de Castro. FEB. Edição: [[raw/autores/camille-flammarion/estela/estela]].

@@ -24,7 +24,7 @@ status: rascunho
 - **Espíritos auxiliares:** [[wiki/personalidades/leon-denis|Léon Denis]], Charles e Léon Tolstoi
 - **Manuscrito original:** entre 1964 e 1971
 - **Edição FEB Editora:** 2013
-- **Editora:** FEB Editora (coleção "Yvonne A. Pereira" — obras inéditas póstumas)
+- **Editora:** FEB Editora (coleção "[[wiki/personalidades/yvonne-pereira|Yvonne A. Pereira]]" — obras inéditas póstumas)
 - **ISBN-13:** 978-85-7328-825-4
 - **Páginas:** 104
 - **Gênero:** narrativa familiar didático-doutrinária — Evangelho no lar
@@ -62,4 +62,4 @@ Embora dedicada a famílias e a reuniões com crianças e adolescentes, a obra p
 
 - PEREIRA, Yvonne do Amaral (Bezerra de Menezes). *Evangelho aos Simples*. Rio de Janeiro: FEB Editora, 2013. 104 p. ISBN 978-85-7328-825-4.
 - FEB Editora. *Evangelho aos Simples*. Disponível em: <https://www.febeditora.com.br/evangelho-aos-simples>. Acesso em: 2026-05-14.
-- FEB Editora. Catálogo "Yvonne do Amaral Pereira". Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>. Acesso em: 2026-05-14.
+- FEB Editora. Catálogo "[[wiki/personalidades/yvonne-pereira|Yvonne do Amaral Pereira]]". Disponível em: <https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada=true&tfil=Yvonne+do+Amaral+Pereira>. Acesso em: 2026-05-14.

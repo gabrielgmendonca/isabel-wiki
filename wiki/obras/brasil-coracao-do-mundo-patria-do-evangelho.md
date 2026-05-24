@@ -33,7 +33,7 @@ Esclarecimento (assinado pelo autor espiritual) · Prefácio (assinado por Emman
 |------|--------|--------------|
 | — | Esclarecendo | Tese da obra: o Brasil espiritual além do Brasil material |
 | — | Prefácio | Emmanuel anuncia o trabalho de Humberto e sua razão de ser |
-| 1 | O Coração do Mundo | Jesus escolhe a região do Cruzeiro (séc. XIV); designa Helil/Henrique de Sagres |
+| 1 | O Coração do Mundo | Jesus escolhe a região do Cruzeiro (séc. XIV); designa [[wiki/personalidades/ismael|Helil]]/Henrique de Sagres |
 | 2 | A "Pátria do Evangelho" | Cabral, 1500 — Ismael recebe o estandarte "Deus, Cristo e Caridade" |
 | 3 | Os Degredados | Afonso Ribeiro, o primeiro brasileiro de coração |
 | 4 | Os Missionários | Jesuítas, catequese, conflitos com colonos |
@@ -119,7 +119,7 @@ Com a proclamação da República, o Brasil atinge sua "maioridade coletiva". Je
 - [[wiki/conceitos/transicao-planetaria]] — pano de fundo macro-histórico da missão brasileira.
 - [[wiki/conceitos/tres-revelacoes]] — Kardec (cap. 22) como compilador do Consolador prometido.
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — aplicada às nações: o Brasil como expiação coletiva e oportunidade redentora.
-- [[wiki/conceitos/reencarnacao]] — Helil reencarna em D. Henrique de Sagres; Bezerra como missionário designado.
+- [[wiki/conceitos/reencarnacao]] — [[wiki/personalidades/ismael|Helil]] reencarna em D. Henrique de Sagres; Bezerra como missionário designado.
 
 ## Personalidades citadas
 

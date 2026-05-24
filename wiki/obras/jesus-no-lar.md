@@ -5,6 +5,7 @@ tags: [neio-lucio, chico-xavier, jesus-no-lar, lar, evangelho-no-lar, parabolas-
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073
+  url_aquisicao: https://www.febeditora.com.br/jesus-no-lar
 atualizado_em: 2026-05-23
 status: rascunho
 ---
@@ -159,7 +160,7 @@ A categoria *"delitos de esquecimento"* é o aporte original do capítulo final:
 - André — caps. 10, 16, 45, 47
 - Bartolomeu — caps. 28, 42, 45
 - Tadeu — caps. 29, 41, 42, 45
-- [[wiki/personalidades/judas-irmao-de-tiago|Judas]] (Tadeu, não Iscariotes) — caps. 17, 42, 45
+- [[wiki/personalidades/judas-irmao-de-tiago|Judas]] (Tadeu, não [[wiki/personalidades/judas-iscariotes|Iscariotes]]) — caps. 17, 42, 45
 - Isabel — esposa de Zebedeu, mãe de João e Tiago, interlocutora do cap. 22
 - Sara — esposa de Benjamim, criador de cabras, interlocutora do cap. 3
 - Raquel — antiga servidora de Cusa, interlocutora do cap. 31

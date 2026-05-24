@@ -117,4 +117,4 @@ A regra é congruente com a interpretação fenomenológica desta página (cap. 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*. Rio de Janeiro: FEB, 1950, caps. 1, 2, 50. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].
-- FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025, p. 16-17. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/WEB-Evangelho-no-lar-e-no-coracao-100x155mm-2025]].
+- FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025, p. 16-17. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/web-evangelho-no-lar-e-no-coracao-100x155mm-2025]].

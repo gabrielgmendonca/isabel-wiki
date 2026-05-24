@@ -120,7 +120,7 @@ Os casos visitados no manicômio terrestre exemplificam: a velha "marquesa" trav
 
 Não há divergência com Kardec: o cap. 16 estende a casuística empírica de LE q. 952 e ESE cap. V para um quadro que Kardec não tratou clinicamente, mas para o qual a doutrina já estava preparada (LE q. 472 sobre alienação por causa moral). Ver [[wiki/obras/no-mundo-maior]].
 
-### *À Luz do Consolador* — não há "motivos nobres" para o suicídio (Yvonne Pereira)
+### *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]* — não há "motivos nobres" para o suicídio (Yvonne Pereira)
 
 Em *O estranho mundo dos suicidas* ([[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] responde, a partir de cinco décadas de atendimento mediúnico a suicidas, à pergunta de um missivista: "um suicida por *motivos nobres* sofre os mesmos tormentos? Não haverá para ele uma *misericórdia especial*?". Três pontos consolidam o ensino de Kardec sem dele divergir:
 
@@ -154,4 +154,4 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas"; cap. IV — "Auguste Michel" e "Arrependimento de um dissoluto". FEB.
 - Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
-- PEREIRA, Yvonne do Amaral (Frederico Francisco). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*O estranho mundo dos suicidas*; *Tormentos voluntários*). Ver [[wiki/obras/a-luz-do-consolador]].
+- PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*O estranho mundo dos suicidas*; *Tormentos voluntários*). Ver [[wiki/obras/a-luz-do-consolador]].

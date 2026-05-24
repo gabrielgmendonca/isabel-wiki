@@ -33,8 +33,8 @@ Quarta peça documentada da parceria, após o prefácio "De pé, os mortos!" do 
 |-----|------|----------|
 | 1932 | Prefácio "De pé, os mortos!" no *Parnaso* | Pivô doutrinário; texto curto |
 | **1935** | ***Crônicas de Além-Túmulo*** | **Primeira obra-livro de Humberto-espírito; crônica jornalística espiritualizada** |
-| 1938 | *Brasil, Coração do Mundo* | Histórico-providencial; longa duração |
-| 1941 | *Boa Nova* | Evangélico-pastoral; ruptura explícita com a fase "Conselheiro XX" |
+| 1938 | *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo]]* | Histórico-providencial; longa duração |
+| 1941 | *Boa Nova* | Evangélico-pastoral; ruptura explícita com a fase "[[wiki/personalidades/humberto-de-campos|Conselheiro XX]]" |
 
 A obra ocupa o **interstício entre o pivô de 1932 e o ciclo de 1938-41**: ainda preserva a voz do cronista da Academia Brasileira de Letras (humor irônico, referências eruditas, retórica de salão), mas já articula doutrina espírita madura — convocação dos desencarnados, reencarnação como pedagogia, primazia evangélica de Jesus. É a peça em que Humberto-espírito se **autoidentifica publicamente** ao médium e ao público leitor.
 
@@ -106,7 +106,7 @@ O cap. 33 ("Uma venerável instituição") aprofunda a visita: Pedro Richard con
 
 Três casos paradigmáticos:
 
-**Judas Iscariote (cap. 5)** — entrevista nas margens do Jordão. Judas explica o gesto da traição como **motivação política** (acelerar o reino terrestre via revolução surda, fazendo do Mestre figura secundária), revisa a doutrina do arrependimento (*"O remorso é uma força preliminar para os trabalhos reparadores"* — distinção crucial entre **remorso** e **reparação**, alinhada com [[wiki/obras/livro-dos-espiritos|LE]] q. 1000-1008), narra ciclo expiatório multi-secular ("séculos de sofrimento expiatório", perseguições romanas, fogueira inquisitorial no séc. XV) e declara o ciclo encerrado: *"fechei o ciclo das minhas dolorosas reencarnações na Terra, sentindo na fronte o ósculo de perdão da minha própria consciência"*. Trata-se da formulação mais elaborada da wiki até a data desta página sobre o eixo **arrependimento → reparação → redenção** como sequência obrigatória.
+**[[wiki/personalidades/judas-iscariotes|Judas Iscariote]] (cap. 5)** — entrevista nas margens do Jordão. Judas explica o gesto da traição como **motivação política** (acelerar o reino terrestre via revolução surda, fazendo do Mestre figura secundária), revisa a doutrina do arrependimento (*"O remorso é uma força preliminar para os trabalhos reparadores"* — distinção crucial entre **remorso** e **reparação**, alinhada com [[wiki/obras/livro-dos-espiritos|LE]] q. 1000-1008), narra ciclo expiatório multi-secular ("séculos de sofrimento expiatório", perseguições romanas, fogueira inquisitorial no séc. XV) e declara o ciclo encerrado: *"fechei o ciclo das minhas dolorosas reencarnações na Terra, sentindo na fronte o ósculo de perdão da minha própria consciência"*. Trata-se da formulação mais elaborada da wiki até a data desta página sobre o eixo **arrependimento → reparação → redenção** como sequência obrigatória.
 
 **Charles Richet (cap. 16)** — narrativa biográfica em forma de tribunal celeste. [[wiki/personalidades/charles-richet|Richet]] aparece como espírito reencarnado em 1850 com compromisso pré-natal de servir aos ideais da imortalidade. Recebeu carreira científica deslumbrante (cadeira de Fisiologia, *Tratado de Metapsíquica*, Prêmio Nobel de 1913 — o texto diz "da Paz", **erro factual**: foi de Fisiologia/Medicina), experimentou com Eusápia Paladino, Lodge, Myers, Sidgwick e Delanne, mas viu nos fenômenos apenas exteriorização de um "sexto sentido", **não conseguindo adquirir a fé**. No leito de morte (1935) recebe a fé como **graça gratuita** de Jesus: *"premiando os teus labores, eu te concedo os tesouros da fé que te faltou na dolorosa estrada do mundo!"*. Caso doutrinariamente delicado — sugere que a fé pode ser concedida por mérito moral sem ter sido conquistada pela razão; harmoniza com ESE cap. XIX ("A fé transporta montanhas") onde Kardec distingue **fé raciocinada** (ideal) de **fé sentimental** (acessível a quem labora honestamente).
 
@@ -178,7 +178,7 @@ Personalidades históricas mencionadas (sem página na wiki):
 - **Augusto de Lima** — companheiro de Humberto na Academia Brasileira de Letras (cap. Ao Leitor)
 - **Frederico Figner** — transcritor das crônicas no *Correio da Manhã* (cap. 35)
 - **D. Pedro II** — episódios cívicos (cap. 2)
-- **Pôncio Pilatos, Caifás, Sinédrio** — pano de fundo do cap. 5
+- **[[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]], Caifás, Sinédrio** — pano de fundo do cap. 5
 - **Hippolyte Rivail / Allan Kardec** — cap. 21
 - **Pestalozzi** — formação pedagógica de Kardec (cap. 21)
 - **Gabriel Delanne, Frederic Myers, Oliver Lodge, Henry Sidgwick, Eusápia Paladino** — círculo de Richet (cap. 16)

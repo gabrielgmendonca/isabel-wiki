@@ -64,4 +64,4 @@ Sem divergência doutrinária no conceito em si. A obra-fonte (*As Casas Mal-Ass
 
 - Kardec, Allan. *O Livro dos Médiuns*, 1ª parte, cap. I (item 2); 2ª parte, cap. V (manifestações físicas espontâneas). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Revista Espírita*, ago/1860 ("O Espírito batedor da Rua des Noyers"). Edição: [[raw/kardec/revista-espirita/1860/08-agosto|raw/kardec/revista-espirita/1860/]].
-- Flammarion, Camille. *As Casas Mal-Assombradas* (*Les Maisons Hantées*, 1923). Trad. FEB. Edição: [[raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas]].
+- Flammarion, Camille. *As Casas Mal-Assombradas* (*[[wiki/obras/as-casas-mal-assombradas|Les Maisons Hantées]]*, 1923). Trad. FEB. Edição: [[raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas]].

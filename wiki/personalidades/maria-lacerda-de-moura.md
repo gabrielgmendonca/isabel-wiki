@@ -37,7 +37,7 @@ Bibliografia encarnada de Maria Lacerda — **fora do escopo desta wiki** (níve
 - *Serviço militar obrigatório para a mulher: recuso-me! denuncio!* (1933)
 - *Amai e... não vos multipliqueis* (1932)
 
-Não foi ingerida nenhuma obra de Maria Lacerda nesta wiki; sua presença aqui restringe-se à carta a ela endereçada em *Crônicas de Além-Túmulo*.
+Não foi ingerida nenhuma obra de Maria Lacerda nesta wiki; sua presença aqui restringe-se à carta a ela endereçada em *[[wiki/obras/cronicas-de-alem-tumulo|Crônicas de Além-Túmulo]]*.
 
 ## Citações relevantes
 
@@ -56,4 +56,4 @@ Convocação final (mesma crônica):
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 19 "Carta a Maria Lacerda de Moura". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/cronicas-de-alem-tumulo|Crônicas de Além-Túmulo]]*, cap. 19 "Carta a Maria Lacerda de Moura". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].

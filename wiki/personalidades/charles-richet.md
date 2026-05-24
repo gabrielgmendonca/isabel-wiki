@@ -53,6 +53,6 @@ Richet representa o **paradigma da metapsíquica científica europeia** — vert
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Humberto de Campos). *Crônicas de Além-Túmulo*, cap. 16 "A passagem de Richet". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
+- XAVIER, Francisco Cândido (Humberto de Campos). *[[wiki/obras/cronicas-de-alem-tumulo|Crônicas de Além-Túmulo]]*, cap. 16 "A passagem de Richet". Rio de Janeiro: FEB, 1935. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/cronicas-de-alem-tumulo]].
 - RICHET, Charles. *Traité de Métapsychique*. Paris: Félix Alcan, 1922 (referência encarnada externa à wiki).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. XIX ("A fé transporta montanhas"). Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
