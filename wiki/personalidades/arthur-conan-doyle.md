@@ -20,7 +20,7 @@ url: https://www.febeditora.com.br/listaprodutos.asp?fil=293784&avancada=true&tf
 - **Nascimento:** 1859, Edimburgo, Escócia
 - **Desencarnação:** 1930, Crowborough, Inglaterra
 - **Função:** Médico, escritor (criador de Sherlock Holmes), divulgador do **espiritualismo anglo-saxão**
-- **Nível na hierarquia da wiki:** 4 — Secundário (espiritualismo anglo-saxão, **não** kardecista; citar com consciência do tier)
+- **Nível na hierarquia da wiki:** 4 — Secundário (espiritualismo anglo-saxão, **não** kardecista; citar com consciência do nível)
 
 ## Papel
 

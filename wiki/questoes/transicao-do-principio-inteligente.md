@@ -52,7 +52,7 @@ Autores nível 2/3 retomam o tema desenvolvendo a fenomenologia, sem contradizer
 - **André Luiz / Chico Xavier e Waldo Vieira** (*[[wiki/obras/evolucao-em-dois-mundos|Evolução em Dois Mundos]]*, 1958, Parte I caps. 1, 19) descreve a evolução do princípio inteligente do [[wiki/conceitos/fluido-cosmico-universal|fluido cósmico]] até o homem responsável, com "moldes mentais preexistentes" geridos por hierarquias espirituais. *Missionários da Luz* (cap. 19) trata da fenomenologia espiritual do mundo animal.
 - **Joanna de Ângelis / Divaldo Franco** retoma a tese da hierarquia que "plasma as futuras formas vivas em todos os seres, no plano físico ou no espiritual" (*Dias Gloriosos*, "Desenvolvimento científico").
 
-Em todos os três casos, a localização da agência no plano espiritual aprofunda LE q. 600 — mas a *mecânica* da hominização permanece descritiva e não tem o caráter "controlado pela concordância" que Kardec exige (RE mar/1864). Para palestra ou estudo, citá-los **com consciência do tier**: são desenvolvimentos coerentes, não fechamento dogmático da questão que Kardec deixou em aberto.
+Em todos os três casos, a localização da agência no plano espiritual aprofunda LE q. 600 — mas a *mecânica* da hominização permanece descritiva e não tem o caráter "controlado pela concordância" que Kardec exige (RE mar/1864). Para palestra ou estudo, citá-los **com consciência do nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]**: são desenvolvimentos coerentes, não fechamento dogmático da questão que Kardec deixou em aberto.
 
 ### Síntese operacional
 

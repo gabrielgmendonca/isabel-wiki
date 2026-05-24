@@ -23,7 +23,7 @@ status: rascunho
 
 # Pluralidade das existências (LE, Parte 2, Caps. IV–V; q. 166–222)
 
-Estudo sistemático do bloco doutrinário central da reencarnação no *Livro dos Espíritos*: os nove subtítulos do **Cap. IV — Da pluralidade das existências** (q. 166–221) e o ensaio autoral do **Cap. V — Considerações sobre a pluralidade das existências** (q. 222 + texto seguinte). Organização por sete eixos doutrinários com citações literais das questões estruturais — material direto para palestra de 60–90 min e para estudo ESDE-tier.
+Estudo sistemático do bloco doutrinário central da reencarnação no *Livro dos Espíritos*: os nove subtítulos do **Cap. IV — Da pluralidade das existências** (q. 166–221) e o ensaio autoral do **Cap. V — Considerações sobre a pluralidade das existências** (q. 222 + texto seguinte). Organização por sete eixos doutrinários com citações literais das questões estruturais — material direto para palestra de 60–90 min e para estudo no padrão ESDE.
 
 A página-conceito [[wiki/conceitos/reencarnacao]] articula o tema **por autor/obra** (uma seção para Léon Denis, uma para André Luiz, uma para Emmanuel, uma para a Revista Espírita). Esta aqui faz o caminho inverso: ancora no **texto literal do LE** e remete às demais obras quando elas iluminam questão específica do Cap. IV.
 
