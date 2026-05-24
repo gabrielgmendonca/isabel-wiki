@@ -49,13 +49,13 @@ A estrutura do culto na casa de Isabel é simples e replicável (cap. 35):
 
 1. **Prece de abertura** — feita pela criança mais nova (Neli, 9 anos): "Senhor, seja feita a vossa vontade [...] permiti, Senhor, tenhamos bastante compreensão no trabalho evangélico!"
 2. **Leitura instrutiva** — Joaninha lê uma "página instrutiva e consoladora" de livro doutrinário e, em seguida, um fato marcante do noticiário (na noite descrita, um suicídio relatado em jornal).
-3. **Abertura do Novo Testamento "ao acaso"** — Isabel abre o NT, parecendo escolher aleatoriamente; André observa que **Isidoro, do plano espiritual, focaliza a passagem** — Mt 13:31, parábola do grão de mostarda.
+3. **Abertura do Novo Testamento "ao acaso"** — Isabel abre o NT, parecendo escolher aleatoriamente; André observa que **Isidoro, do plano espiritual, focaliza a passagem** — [[wiki/biblia/mateus/13#31|Mt 13:31]], parábola do grão de mostarda.
 4. **Comentário evangélico mediúnico** — o Espírito **Fábio Aleto** pousa a destra sobre a fronte de Isabel; ela retransmite às crianças, no nível da própria capacidade de recepção, a interpretação que Fábio formula.
 5. **Prece de encerramento** — Joaninha agradece em nome de todos.
 
 A "abertura ao acaso" não é casual: Aniceto explica que cada participante, conforme a própria sintonia, recebe o conteúdo em diferentes graus de profundidade — "Cada qual receberá a luz espiritual conforme a própria capacidade. Há muitos companheiros nossos, aqui reunidos, que registram o comentário de Fábio com mais dificuldade que as próprias crianças" (cap. 36). O culto opera por **irradiação**, não por uniformidade pedagógica.
 
-## Fenomenologia da defesa
+### Fenomenologia da defesa
 
 Após o culto, na rua do bairro carioca onde mora a família, André observa "formas sombrias, algumas monstruosas" se aproximando da casa e recuando antes de tocá-la (cap. 37). Aniceto interpreta:
 
@@ -63,9 +63,13 @@ Após o culto, na rua do bairro carioca onde mora a família, André observa "fo
 
 A causalidade é magnética: a prece é descrita como "emissão eletromagnética de relativo poder" (cap. 37); o lar que ora acumula camadas dessas emissões e produz, no ambiente, um campo cuja vibração é incompatível com a faixa de Espíritos em desequilíbrio. A muralha não é metáfora — é descrição operacional. Articula-se com [[wiki/conceitos/obsessao]] (LM cap. XXIII): o foco obsessivo só se fixa onde encontra ancoragem; o culto disciplinado retira a ancoragem.
 
-## Resistência interna
+### Resistência interna
 
 O caso **Joãozinho** (cap. 36) tipifica o limite do culto: a presença de um membro vibrando em outra zona não anula a eficácia para os demais. Joãozinho ouve a mãe sem assentir, propõe alugar o salão a um vendedor de móveis, resiste ao tom da casa. Isabel não cede — declara o salão consagrado às atividades evangélicas enquanto respeitarem a memória do pai —, mas tampouco força adesão. O culto opera **por contágio voluntário**, não por coerção doméstica: persistir é parte do método.
+
+### Culto não é sessão mediúnica
+
+A retransmissão de Fábio Aleto via Isabel é da ordem da **mediunidade intuitiva** — Isabel não psicografa, é *inspirada* pelo Espírito e parafraseia no nível da própria capacidade. É traço da casa, não requisito do culto: o esquema mínimo (prece-leitura-NT-comentário-prece) opera sem comentador espiritual mediúnico, e o comentário pode ser feito pelos próprios membros da família. Culto doméstico **não é sessão mediúnica** — exigências, finalidades e disciplina diferem, e confundi-los desfigura ambos.
 
 ## Aplicação prática
 
