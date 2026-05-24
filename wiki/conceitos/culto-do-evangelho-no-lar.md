@@ -71,6 +71,27 @@ O caso **Joãozinho** (cap. 36) tipifica o limite do culto: a presença de um me
 
 A retransmissão de Fábio Aleto via Isabel é da ordem da **mediunidade intuitiva** — Isabel não psicografa, é *inspirada* pelo Espírito e parafraseia no nível da própria capacidade. É traço da casa, não requisito do culto: o esquema mínimo (prece-leitura-NT-comentário-prece) opera sem comentador espiritual mediúnico, e o comentário pode ser feito pelos próprios membros da família. Culto doméstico **não é sessão mediúnica** — exigências, finalidades e disciplina diferem, e confundi-los desfigura ambos.
 
+## Roteiro institucional FEB-CFN (2025)
+
+O Conselho Federativo Nacional da FEB publicou em julho/2025 o livreto [[wiki/obras/evangelho-no-lar-e-no-coracao|*Evangelho no Lar e no Coração*]] (36p, ISBN 978-65-5570-755-7) — atual referência institucional federativa para a prática. Frente à abertura "ao acaso" da casa de Isabel em *Os Mensageiros*, o livreto fixa **leitura sequencial** desde o prefácio de [[wiki/obras/evangelho-segundo-o-espiritismo|*O Evangelho segundo o Espiritismo*]], optando por previsibilidade pedagógica adequada à implantação massiva. Os 6 passos do roteiro (~30 min, frequência semanal):
+
+1. **Prece simples e espontânea** de abertura.
+2. **Leitura de *O Evangelho segundo o Espiritismo***, "um item ou dois sempre em sequência" desde o prefácio.
+3. **Comentários breves** com participação dos presentes, "evidenciando o ensino moral aplicado às situações do dia a dia".
+4. **Vibrações** — pela fraternidade da Humanidade, pelos governantes e responsáveis, pela implantação do Evangelho em todos os lares, pelo próprio lar dos participantes.
+5. **Pedidos** — por parentes, amigos, pessoas fora do círculo de amizades, pela Humanidade.
+6. **Prece de encerramento** — simples, sincera, agradecendo a Deus, a Jesus e aos Bons Espíritos.
+
+O livreto convive com o [[raw/artigos/feesp/roteiro-evangelho-no-lar|roteiro web da FEESP]], mais conciso (sem corpo doutrinário ou antologia), demonstrando convergência institucional sobre o formato mínimo.
+
+### Culto não é sessão mediúnica — formulação CFN
+
+O FEB-CFN explicita a fronteira em uma linha editorial logo após o roteiro:
+
+> "**A prática do Evangelho no Lar não deve ser transformada em reunião mediúnica.** Toda intuição e inspiração, que possa ocorrer, deve ficar no campo dos comentários gerais, no momento oportuno." (*Evangelho no Lar e no Coração*, p. 17)
+
+A regra é congruente com a interpretação fenomenológica desta página (cap. 35-36 de *Os Mensageiros*): a intuição não é proibida — entra no comentário, sem ritualização mediúnica própria. As exigências, finalidades e disciplina da reunião mediúnica organizada (LM caps. XIV-XXIX) diferem das do culto doméstico, e confundi-los desfigura ambos.
+
 ## Aplicação prática
 
 - **Periodicidade** — semanal, em horário fixo (na casa de Isabel, à noite, por cerca de uma hora). A regularidade alimenta o campo defensivo.
@@ -88,6 +109,7 @@ A retransmissão de Fábio Aleto via Isabel é da ordem da **mediunidade intuiti
 - [[wiki/sinteses/lar-como-fortaleza]] — articulação entre culto, prece coletiva e sono físico
 - [[wiki/obras/os-mensageiros]] — caps. 33-39, casa de Isidoro e Isabel
 - [[wiki/obras/jesus-no-lar]] — Neio Lúcio / Chico Xavier (FEB, 1950), âncora literária mais antiga do conceito
+- [[wiki/obras/evangelho-no-lar-e-no-coracao]] — FEB-CFN (2025), livreto institucional federativo atual; roteiro padrão + antologia de mensagens-âncora
 
 ## Fontes
 
@@ -95,3 +117,4 @@ A retransmissão de Fábio Aleto via Isabel é da ordem da **mediunidade intuiti
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*. Rio de Janeiro: FEB, 1950, caps. 1, 2, 50. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].
+- FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025, p. 16-17. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/WEB-Evangelho-no-lar-e-no-coracao-100x155mm-2025]].

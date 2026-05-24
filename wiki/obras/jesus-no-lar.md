@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Neio Lúcio/Chico Xavier]
-tags: [neio-lucio, chico-xavier, jesus-no-lar, lar, evangelho-no-lar, parabolas-de-jesus, pedro-apostolo, cafarnaum, autor/chico-xavier, tema/jesus, tema/sociedade, tema/moral, lei/justica-amor-caridade, lei/adoracao]
+tags: [neio-lucio, chico-xavier, jesus-no-lar, lar, evangelho-no-lar, parabolas-de-jesus, pedro-apostolo, cafarnaum, autor/chico-xavier, tema/jesus, tema/sociedade, tema/moral, lei/justica-amor-caridade, lei/adoracao, lei/sociedade, lei/trabalho]
 direitos:
   detentor: FEB
   ano_dp_estimado: 2073

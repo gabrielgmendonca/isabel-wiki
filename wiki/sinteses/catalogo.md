@@ -192,6 +192,9 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 #### Hammed / Francisco do Espírito Santo Neto
 - [[wiki/obras/as-dores-da-alma]] — Hammed/Francisco do Espírito Santo Neto (1998, 8ª ed. 2000). Comentário psicológico ao LE: reinterpreta os "sete pecados capitais" como "dores da alma" em 47 reflexões agrupadas em 21 temas (crueldade, orgulho, medo, culpa, mágoa, depressão, inveja etc.), cada um ancorado em uma questão específica de *O Livro dos Espíritos*.
 
+#### Federação Espírita Brasileira — Conselho Federativo Nacional
+- [[wiki/obras/evangelho-no-lar-e-no-coracao]] — CFN/FEB (1ª ed. jul/2025, 36p, ISBN 978-65-5570-755-7). Livreto institucional federativo atual sobre a prática do [[wiki/conceitos/culto-do-evangelho-no-lar|Culto do Evangelho no lar]]: fundamentação doutrinária (reencarnação, função regeneradora da família), roteiro padrão em 6 passos para reunião de ~30 min, lista de livros recomendados e antologia de 6 mensagens-âncora (Neio Lúcio, Emmanuel, André Luiz, Bezerra, Joanna de Ângelis). Demarca a fronteira frente à reunião mediúnica organizada.
+
 ## Conceitos
 
 ### Deus, Espíritos e mundos habitados
