@@ -27,6 +27,10 @@ Publicação institucional do **Conselho Federativo Nacional** da FEB, com presi
 
 Constitui a **segunda fonte institucional federativa** ingerida na wiki sobre a prática, complementar ao [[raw/artigos/feesp/roteiro-evangelho-no-lar|roteiro web da FEESP]] (página única, sem ISBN). Frente ao roteiro FEESP, este livreto adiciona corpo doutrinário introdutório (reencarnação, função do lar) e antologia de mensagens — o que justifica página de obra própria.
 
+### Edição anterior — *Paz no Lar, Paz na Humanidade*
+
+A edição 2025 é **reformulação de um livreto FEB anterior** da mesma campanha *Favor da Família e Contra o Desamor Social*, intitulado *Paz no Lar, Paz na Humanidade* (OCR em [[raw/artigos/feb/Livreto-Evangelho-no-Lar]], sem ISBN nem data legíveis na digitalização). Os dois textos compartilham praticamente toda a substância doutrinária — mesma cadeia argumentativa (reencarnação → família → função regeneradora), mesmas 7 finalidades, mesmo roteiro de 6 passos, mesma lista de livros recomendados, **mesma antologia das 6 mensagens-âncora**. A diferença editorial mais visível é que o título da publicação 2025, *Evangelho no Lar e no Coração*, foi **promovido da seção final** do livreto antigo: a edição anterior fechava com uma seção homônima ancorada em LE q. 208 — "Os Espíritos dos pais exercem alguma influência sobre os dos filhos, após o nascimento destes?" — que o 2025 absorveu na própria identidade. Para efeitos práticos de citação doutrinária e roteiro de reunião, ambas as edições convergem; esta página cobre o material das duas.
+
 ## Estrutura
 
 | Bloco | Páginas | Conteúdo |
@@ -47,6 +51,8 @@ A introdução do CFN articula uma cadeia argumentativa em três passos:
 1. **Diagnóstico social**: a escalada da violência mundial não se reduz a fatores conjunturais — "todas essas manifestações têm suas raízes na formação moral das criaturas" (p. 4-5).
 2. **Visão espírita da reencarnação**: o cenário de conflitos "guarda relação íntima com o adiantamento moral dos Espíritos que reencarnam em nosso Planeta". A reencarnação é apresentada como **dupla oportunidade** — correção de erros do passado e contribuição ao progresso da Humanidade (p. 5-6; convergente com LE q. 132, 167 e Lei do Progresso q. 776-800).
 3. **O lar como ambiente nuclear**: "É no lar que os Espíritos se reencontram, sob o mesmo teto, na condição de pais, filhos e irmãos" (p. 7), retomando a tese das **afinidades familiares por reencarnação** já desenvolvida em [[wiki/obras/jesus-no-lar|*Jesus no Lar*]] (cap. 6). A função "educadora e regeneradora da família" decorre disso (p. 8; convergente com LE q. 766-775 — [[wiki/conceitos/leis-morais/lei-de-sociedade|Lei de Sociedade]]).
+
+A edição anterior do livreto explicitava esse terceiro passo com uma seção final ancorada em **LE q. 208** — "Os Espíritos dos pais exercem alguma influência sobre os dos filhos, após o nascimento destes?", cuja resposta atribui aos pais a **missão de desenvolver os Espíritos dos filhos pela educação**, sob pena de culpa. Era essa seção que o livreto antigo intitulava *O Evangelho no Lar e no Coração*, fórmula que o 2025 elevou ao título da publicação. O fio doutrinário cobre [[wiki/questoes/paternidade-como-missao]] (LE q. 208 + 379-385): o lar é o **dispositivo da missão paterna**, não circunstância biológica, e o culto familiar é a forma pela qual essa missão se exerce semanalmente.
 
 A fundamentação fecha com a citação-âncora de [[wiki/personalidades/emmanuel|Emmanuel]] que reaparece duas vezes no livreto (p. 9 e p. 14):
 
@@ -164,6 +170,7 @@ Nenhuma divergência com Kardec identificada. Convergente com ESE caps. XVII (se
 ## Fontes
 
 - FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/WEB-Evangelho-no-lar-e-no-coracao-100x155mm-2025]].
+- FEDERAÇÃO ESPÍRITA BRASILEIRA. *Paz no Lar, Paz na Humanidade — Favor da Família e Contra o Desamor Social* (livreto FEB, edição anterior, sem ISBN nem data legíveis na digitalização disponível). Edição: [[raw/artigos/feb/Livreto-Evangelho-no-Lar]].
 - Textos antologizados (citação por *Autor / Médium*):
   - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*, cap. 1. FEB.
   - XAVIER, Francisco Cândido (Emmanuel). *Seara dos Médiuns*, q. 341 (reunião pública 25/7/60). FEB.
