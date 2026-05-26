@@ -92,6 +92,20 @@ O FEB-CFN explicita a fronteira em uma linha editorial logo após o roteiro:
 
 A regra é congruente com a interpretação fenomenológica desta página (cap. 35-36 de *Os Mensageiros*): a intuição não é proibida — entra no comentário, sem ritualização mediúnica própria. As exigências, finalidades e disciplina da reunião mediúnica organizada (LM caps. XIV-XXIX) diferem das do culto doméstico, e confundi-los desfigura ambos.
 
+## Leitura clínica em Joanna de Ângelis — "psicoterapia de grupo"
+
+[[wiki/obras/constelacao-familiar]] (Joanna de Ângelis / Divaldo Franco, LEAL, 2008) dedica o cap. 21 ao Evangelho no lar com **registro clínico contemporâneo** distinto da fenomenologia fluídica de André Luiz e da gramática federativa do FEB-CFN. A formulação distintiva:
+
+> "Essas reuniões transformam-se em verdadeiros recursos de psicoterapia de grupo, quando se pode abrir o coração e falar abertamente a respeito dos conflitos e das desconfianças, das dificuldades e dos sofrimentos internos, recebendo-se o apoio geral. O silêncio, em torno dos conflitos, permite que mais se avultem, tornando-se gigantes imaginários e ameaçadores." (*Constelação Familiar*, cap. 21)
+
+Três deslocamentos lexicais articulam-se ao quadro doutrinário sem reescrevê-lo:
+
+1. **Reunião semanal como dispositivo terapêutico** — Joanna chama o encontro de **"verdadeiro recurso de psicoterapia de grupo"**, articulando-o à crítica clínica da TV durante as refeições e da fuga adolescente. A função pastoral kardecista do culto (LE q. 658-672; ESE caps. XXVII-XXVIII) é preservada; o vocabulário clínico é tradução para o leitor do séc. XX-XXI, no padrão geral da [[wiki/sinteses/serie-psicologica-joanna-de-angelis|Série Psicológica]].
+2. **Jesus como "Educador por excelência"** — *"foi Jesus, o Educador por excelência, quem iniciou esse método, quando, na residência de Simão Pedro [...] reunia os amigos e com eles falava a respeito dos planos em torno do Reino dos Céus"*. Convergente direto com [[wiki/obras/jesus-no-lar]] (Neio Lúcio / Chico Xavier, FEB, 1950); a obra de Joanna não cita nominalmente Neio Lúcio, mas a tese é idêntica: o primeiro culto cristão do lar foi institucionalizado por Jesus em Cafarnaum.
+3. **Mágoas como "resíduos perigosos nas tecelagens delicadas do perispírito"** — Joanna integra a função preventiva do culto à tese psicossomática espírita (perispírito como matriz somática das enfermidades), articulando o cap. 21 ao quadro mais amplo da [[wiki/obras/encontro-com-a-paz-e-a-saude]] cap. 6 (releitura clínica das obsessões via LM cap. XXIII) — o culto disciplinado evita que conflitos não-elaborados se cristalizem em sintoma orgânico.
+
+A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André Luiz e à do FEB-CFN — prece, leitura, comentário, vibrações, água magnetizada, eventuais passes, prece final, com participação rotativa de todos os membros e duração de meia hora. **A inovação é interpretativa, não estrutural**: o mesmo dispositivo, com o vocabulário clínico contemporâneo justificando-o ao leitor secular.
+
 ## Aplicação prática
 
 - **Periodicidade** — semanal, em horário fixo (na casa de Isabel, à noite, por cerca de uma hora). A regularidade alimenta o campo defensivo.
@@ -110,6 +124,8 @@ A regra é congruente com a interpretação fenomenológica desta página (cap. 
 - [[wiki/obras/os-mensageiros]] — caps. 33-39, casa de Isidoro e Isabel
 - [[wiki/obras/jesus-no-lar]] — Neio Lúcio / Chico Xavier (FEB, 1950), âncora literária mais antiga do conceito
 - [[wiki/obras/evangelho-no-lar-e-no-coracao]] — FEB-CFN (2025), livreto institucional federativo atual; roteiro padrão + antologia de mensagens-âncora
+- [[wiki/obras/constelacao-familiar]] — Joanna de Ângelis / Divaldo Franco (LEAL, 2008), cap. 21: leitura clínica do culto como "psicoterapia de grupo" e Jesus como "Educador por excelência" que iniciou o método em Cafarnaum
+- [[wiki/conceitos/familia]] — conceito-âncora da família como instituição doutrinária
 
 ## Fontes
 
@@ -118,3 +134,4 @@ A regra é congruente com a interpretação fenomenológica desta página (cap. 
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*. Rio de Janeiro: FEB, 1950, caps. 1, 2, 50. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].
 - FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025, p. 16-17. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/web-evangelho-no-lar-e-no-coracao-100x155mm-2025]].
+- Joanna de Ângelis / Franco, Divaldo Pereira. *Constelação Familiar*. Salvador: LEAL, 2008 (assinatura Natal/2007), cap. 21. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-constelacao-familiar/joanna-de-angelis-constelacao-familiar]].

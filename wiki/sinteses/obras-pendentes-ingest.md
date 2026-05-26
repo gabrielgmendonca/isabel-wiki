@@ -9,7 +9,7 @@ index: false
 
 # Obras em `raw/` pendentes de ingest
 
-> Página utilitária. Cruza `raw/` contra `wiki/obras/` (snapshot de 2026-05-26) e lista o que ainda não foi ingerido. Use como backlog para priorizar `/ingest`. A Bíblia ACF e a Revista Espírita 1858-1869 já estão totalmente cobertas e ficam fora desta lista.
+> Página utilitária. Cruza `raw/` contra `wiki/obras/` (snapshot de 2026-05-26, com correção parcial de 2026-05-26 para Kardec) e lista o que ainda não foi ingerido. Use como backlog para priorizar `/ingest`. A Bíblia ACF e a Revista Espírita 1858-1869 já estão totalmente cobertas e ficam fora desta lista.
 
 ## Resumo por autoria
 
@@ -20,16 +20,18 @@ index: false
 | Gabriel Delanne | 2 | 0 | 2 |
 | Léon Denis | 4 | 4 | 0 |
 | Yvonne Pereira | 14 | 1 | 13 |
-| Kardec — complementares | 6 | 5 | 1 |
+| Kardec — complementares | 6 | 6 | 0 |
 | Chico Xavier / André Luiz | 19 | 14 | 5 |
 | Chico Xavier / Emmanuel | 98 | 12 | 86 |
 | Chico Xavier / Humberto de Campos | 5 | 3 | 2 |
 | Chico Xavier / Neio Lúcio | 2 | 1 | 1 |
 | Chico Xavier / outros médiuns/espíritos | 67 | 1 | 66 |
 | Chico Xavier / diversos (mensagens) | 226 | 1 | 225 |
-| Divaldo Franco / Joanna de Ângelis | 19 | 17 | 2 |
+| Divaldo Franco / Joanna de Ângelis | 19 | 18 | 1 |
 | Palestras | 7 | 5 | 2 |
-| **Total estimado** | **499** | **71** | **~428** |
+| **Total estimado** | **499** | **73** | **~426** |
+
+> **Kardec — cobertura 100%** (Pentateuco + complementares + Revista Espírita 1858-1869). Última pendente, *Instruções Práticas* (1858), ingerida no commit `8e0583d` de 2026-05-26.
 
 ## Autores encarnados
 
@@ -80,7 +82,8 @@ index: false
 - [[raw/autores/yvonne-pereira/sublimacao]]
 
 ## Kardec — complementares
-- [[raw/kardec/complementares/instrucoes-praticas-manifestacoes-espiritas]]
+
+Cobertura completa em 2026-05-26. Sem pendentes.
 
 ## Chico Xavier
 
@@ -281,7 +284,6 @@ index: false
 Lista extensa: `raw/mediuns/chico-xavier/diversos/*.md` — apenas `parnaso-de-alem-tumulo` ingerida. Inclui clássicos como *O Espírito da Verdade*, *O Evangelho por Emmanuel*, os quatro *Evangelhos segundo Mateus/Marcos/Lucas/João*, *Salmos*, *Brilhe Vossa Luz*, *Cartas do Alto*, *Antologia Mediúnica do Natal*, *Auta de Souza*, *Crianças no Além*, biografias de Chico (várias) e dezenas de antologias. Priorizar caso a caso por relevância editorial.
 
 ## Divaldo Franco / Joanna de Ângelis
-- [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-constelacao-familiar/joanna-de-angelis-constelacao-familiar]]
 - [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-dias-gloriosos/joanna-de-angelis-dias-gloriosos]]
 
 ## Palestras
@@ -296,10 +298,9 @@ Lista extensa: `raw/mediuns/chico-xavier/diversos/*.md` — apenas `parnaso-de-a
 1. **Autores inteiros zerados**: Ernesto Bozzano (21), Gabriel Delanne (2). Cobrem fenomenologia espírita complementar a Kardec — útil para fundamentar páginas de mediunidade e materializações.
 2. **Yvonne Pereira** (13) — médium nível 3 já tratada; expandir o conjunto melhora a cobertura de romances mediúnicos (obsessão, suicídio, reencarnação).
 3. **Flammarion** (2) — fechar a cobertura do astrônomo já parcialmente ingerido.
-4. **Kardec — Instruções Práticas** — última obra complementar de Kardec ainda fora.
-5. **Joanna de Ângelis** (2) — fechar a série psicológica.
-6. **André Luiz** (5) — completar a série dos planos da vida.
-7. **Emmanuel** (86) e **Chico/diversos** (225) — backlog de muito longo prazo. Selecionar por relevância para palestras/estudo, não por exaustão.
+4. **Joanna de Ângelis** (2) — fechar a série psicológica.
+5. **André Luiz** (5) — completar a série dos planos da vida.
+6. **Emmanuel** (86) e **Chico/diversos** (225) — backlog de muito longo prazo. Selecionar por relevância para palestras/estudo, não por exaustão.
 
 ## Fontes
 

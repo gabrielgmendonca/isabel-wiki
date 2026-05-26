@@ -121,6 +121,8 @@ Couraça e fortaleza não são duas imagens para a mesma coisa. A couraça é in
 - [[wiki/conceitos/colonia-espiritual]] — Posto de Socorro como nó vibratório
 - [[wiki/personalidades/aniceto]] — orientador-síntese da obra
 - [[wiki/obras/os-mensageiros]] — caps. 24-25 (prece), 33-37 (culto), 38-39, 47 (sono)
+- [[wiki/obras/constelacao-familiar]] — Joanna de Ângelis / Divaldo (LEAL, 2008), cap. 21: releitura do culto como "psicoterapia de grupo"; cap. 2: lar como santuário, escola, oficina, hospital — vocabulário clínico contemporâneo articulado à fenomenologia fluídica de André Luiz.
+- [[wiki/conceitos/familia]] — conceito-âncora da família como instituição doutrinária (LE Parte 3; ESE cap. XIV).
 
 ## Fontes
 
