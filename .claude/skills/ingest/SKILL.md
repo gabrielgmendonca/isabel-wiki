@@ -23,6 +23,14 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
 
 **Layout e dedup em `raw/`** (sobretudo se a fonte é PDF a converter): conversões manuais vivem em **subpasta por obra** — `raw/.../<slug>/<slug>.md`, com o PDF um nível acima (`raw/.../<slug>.pdf`). Considerar a obra **já feita** se houver `.md` rastreado (`git ls-files`) com o mesmo *stem* **em qualquer lugar sob `raw/`** (não só irmão do PDF) OU página correspondente em `wiki/obras/`. Antes de qualquer lote de conversão, fazer dry-run e confirmar escopo — checar só o irmão de mesmo nome quase reconverteu 25 obras prontas.
 
+**Formatos de entrada** (a lista canônica de conversores vive em `.claude/rules/scripts.md`, injetada automaticamente; abaixo só os ganchos específicos do fluxo de ingest):
+
+- `.pdf` / `.doc` / `.docx` → ver `scripts.md` (marker para PDF born-digital; LibreOffice + markitdown para DOC/DOCX).
+- `.epub` → se `<stem>.md` não existe ao lado, rodar `uv run python scripts/convert_epub_to_md.py raw/<caminho>`. Aceita arquivo único ou diretório. Depois ler o `.md` gerado — o EPUB fica como original arquivado.
+- Palestras de YouTube → entrada canônica via `/yt <URL>` (ou `/yt-bulk <canal> --limit N`), que produz `raw/palestras/<canal-slug>/<titulo-slug>.md` + `summary-<titulo-slug>.md`. A partir daí, `/ingest raw/palestras/<canal-slug>/<titulo-slug>.md` segue o fluxo normal (são `.md`, sem conversão).
+
+Se o slug do arquivo ou da pasta destoa do canônico (`_compress`, maiúsculas, acentos, espaços), rodar `uv run python scripts/normalize_raw_layout.py --apply --scope <subpath>` antes de prosseguir. O lint `raw_layout` captura desvios; o script normaliza.
+
 **Pré-checagem de escopo:**
 
 4. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.

@@ -30,8 +30,9 @@ Duas chamadas `AskUserQuestion` (limite é 4 perguntas por chamada). Não prosse
 - **Casa espírita** (opcional, ex: "Centro Espírita Allan Kardec") — valor cru vai direto no footer, sem prefixo. Oferecer casas recentes do histórico de `slides/` + "Sem casa" + "Other".
 - **Duração** — 30 / 45 / 60 / 90 min. Afeta quantidade de partes temáticas e profundidade de cada Q&A. Default sugerido: 60 min.
 
-**Chamada 2 — Formato** (2 perguntas):
+**Chamada 2 — Formato** (3 perguntas):
 - **Perfil da audiência** — iniciantes / estudantes regulares / evangelizadores / misto. Muda densidade de citação, necessidade de glosa e tom didático.
+- **Ângulo da palestra** — **Didático** (explica do zero, ideal para iniciantes; mais glosa e exemplos) / **Problematização** (questiona uma leitura corrente mal compreendida do tema — ex.: "Espiritismo não é religião?", "evangelizar é doutrinar?"; abre com a tese a contestar) / **Q&A puro** (segue as questões do LE/ESE sem desvio; plateia acompanha o texto). Calibra a postura editorial do outline e do deck final.
 - **Interação com a plateia** — sem / pergunta retórica entre partes / slide explícito de discussão. Estrutural: o scaffold insere o slide correspondente.
 
 ### Passo 3 — Buscar material via qmd
@@ -44,7 +45,9 @@ Queries read-only em `raw/` e `wiki/` para montar o outline com conteúdo real, 
 
 ### Passo 4 — Propor outline ao usuário
 
-Apresentar o deck completo em texto para crítica do usuário:
+**Gate de aprovação: nada em `slides/` pode ser escrito antes do usuário aprovar este outline.** Em plan mode, isso é o `EnterPlanMode`; em auto mode, é uma pausa explícita pedindo OK antes de invocar o scaffold do Passo 5.
+
+Apresentar o deck completo em texto para crítica do usuário. O outline deve **refletir o ângulo escolhido no Passo 2**: uma palestra **Didática** puxa mais glosas e exemplos entre as citações; uma de **Problematização** abre com a tese corrente a contestar (não com pergunta neutra) e organiza as partes em torno do contraste; um **Q&A puro** segue a ordem das questões/itens da obra-base sem desvio, com mínimo de glosa.
 
 - **Capa** (título, obra+range, data, casa)
 - **Partes temáticas** com Q&A já preenchido (perguntas literais + trechos de resposta com elipses quando longas) — estrutura aberta a reordenação/corte pelo usuário no texto livre
@@ -56,7 +59,7 @@ Em paralelo, uma chamada `AskUserQuestion` com 3 perguntas para as escolhas disc
 - **Para meditar** — listar 2-4 candidatos selecionados no Passo 3 (parábola evangélica, caso de C&I, personalidade de André Luiz, página de `wiki/personalidades/`). Apenas título + referência, nunca texto integral.
 - **Encerramento** — citação consolidadora (Jesus/Kardec/Pentateuco) / convite à ação (chamada prática à reforma íntima) / sem encerramento (síntese fecha a palestra).
 
-Aguardar validação do outline em texto **e** respostas das 3 perguntas. Em seguida, prosseguir para a fase de geração.
+Aguardar validação do outline em texto **e** respostas das 3 perguntas. Sem o "OK" explícito do usuário ao outline (e sem as 3 escolhas discretas resolvidas), não invocar o scaffold do Passo 5 — nenhum arquivo em `slides/` pode ser criado ou tocado antes disso. Em seguida, prosseguir para a fase de geração.
 
 ## Fase de geração (pós-aprovação)
 

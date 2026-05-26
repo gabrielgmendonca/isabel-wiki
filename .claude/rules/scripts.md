@@ -31,12 +31,15 @@ Para domínios bem cobertos por bibliotecas estabelecidas — HTML→Markdown, M
 
 ## Conversores fonte → Markdown (já existem; checar antes de criar)
 
-Antes de pensar em wrapper novo para ingerir material em `raw/`, conferir `ls scripts/convert_*`. Hoje há dois conversores canônicos:
+Antes de pensar em wrapper novo para ingerir material em `raw/`, conferir `ls scripts/convert_*`. Hoje há três conversores canônicos:
 
 - **`.doc` / `.docx`** → `uv run python scripts/convert_doc_to_md.py <dir>` (LibreOffice headless → markitdown; opera em lote sobre um diretório).
-- **`.pdf` born-digital** → `./scripts/convert_pdf_to_md.sh <arquivo.pdf>` (`marker` + modelos surya, ~6s/página em CPU; salva o `.md` ao lado do PDF). **Não** usar `markitdown` para PDF: preserva hifenização de fim de linha (`melhorando-` / `-se`), quebra cada linha do PDF como parágrafo, mantém cabeçalho corrente repetido por página e o sumário com pontilhados. `marker` resolve os três.
+- **`.pdf` born-digital** → `./scripts/convert_pdf_to_md.sh <arquivo.pdf>` (`marker` + modelos surya, ~6s/página em CPU; salva o `.md` ao lado do PDF). Para PDFs com tabelas/layout sujo, `USE_LLM=1 ./scripts/convert_pdf_to_md.sh ...` aciona Gemini 2.5 Flash Lite (requer `GEMINI_API_KEY` no `.env`). **Não** usar `markitdown` para PDF: preserva hifenização de fim de linha (`melhorando-` / `-se`), quebra cada linha do PDF como parágrafo, mantém cabeçalho corrente repetido por página e o sumário com pontilhados. `marker` resolve os três.
+- **`.epub`** → `uv run python scripts/convert_epub_to_md.py <arquivo-ou-dir>` (markitdown nativo; aceita arquivo único ou diretório; `--force` sobrescreve; salva `.md` ao lado). Para impor o layout canônico de `raw/` depois (slug kebab-case ASCII, hierarquia por autor), rodar `scripts/normalize_raw_layout.py`.
 
-Nova fonte (`.rtf`, `.epub`, `.html`, Pages…) → primeiro `grep`/`ls` em `scripts/convert_*`, depois lib madura no PyPI; só escrever wrapper se nenhum cobrir.
+Palestras de YouTube têm pipeline próprio — não tentar tratar como conversor genérico. Use `/yt <URL>` ou `/yt-bulk <canal> --limit N`, que produzem `raw/palestras/<canal-slug>/<titulo-slug>.md` + `summary-<titulo-slug>.md` (ver `convencoes-palestras.md`).
+
+Nova fonte (`.rtf`, `.html`, Pages…) → primeiro `grep`/`ls` em `scripts/convert_*`, depois lib madura no PyPI; só escrever wrapper se nenhum cobrir.
 
 ## Lint determinístico em fluxos automáticos
 
