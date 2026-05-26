@@ -42,6 +42,10 @@ As manifestações espontâneas ligadas a um **lugar** ("casas mal-assombradas",
 
 Toda manifestação que revela "um ato, ainda que insignificantíssimo, de livre vontade" — desde uma pancada que responde a um pensamento até comunicações extensas por escrita ou palavra (LM, 2ª parte, cap. X, item 133). Ver [[wiki/conceitos/mediunidade]] e [[wiki/conceitos/psicografia]].
 
+### Tipologia precursora (Kardec, 1858)
+
+A divisão **manifestações físicas × inteligentes** que estrutura LM já está fixada em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (Cap. II), três anos antes. Kardec lista ali sete subtipos — **ocultas**, **patentes**, **físicas**, **inteligentes**, **aparentes**, **espontâneas**, **provocadas** — e fixa o critério lógico que LM expandirá: *"todo efeito tem uma causa; todo efeito inteligente deve ter uma causa inteligente. [...] Diz-nos a razão que não é o objeto material que é inteligente, de onde concluímos que ele é movido por uma causa inteligente estranha"*.
+
 ## Princípio fundamental
 
 Nada de sobrenatural: "Os Espíritos não são mais do que as almas dos homens [...]. Se se admite que as almas estão por toda parte, ter-se-á que admitir, do mesmo modo, que os Espíritos estão por toda parte" (LM, 1ª parte, cap. I, item 2). As manifestações "entram no cômputo dos fatos naturais" (LM, 1ª parte, cap. I, item 3).

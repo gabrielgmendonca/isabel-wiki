@@ -150,7 +150,7 @@ A Segunda Parte das *Obras Póstumas* reproduz extratos do *Livro das Previsões
 ## Obras em escopo desta wiki
 
 - Pentateuco (acima) — nível 1 na hierarquia de autoridade.
-- *Obras Póstumas*, *O Que é o Espiritismo*, *O Espiritismo em sua mais simples expressão*, *Resumo da lei dos fenômenos espíritas*, *Revista Espírita*, *Viagem Espírita em 1862* — nível 2.
+- *Obras Póstumas*, *O Que é o Espiritismo*, *O Espiritismo em sua mais simples expressão*, *Resumo da lei dos fenômenos espíritas*, *Revista Espírita*, *Viagem Espírita em 1862*, [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (1858, manual prático precursor de LM, descontinuado após a 13ª ed. de LE) — nível 2.
 
 ## Homenagens em obras psicografadas
 

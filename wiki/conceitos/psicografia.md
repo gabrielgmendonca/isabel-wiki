@@ -19,6 +19,10 @@ Escrita dos Espíritos pela mão de um médium. Do grego *psiké* (alma) e *grap
 - **Indireta**: o médium coloca as mãos sobre uma cesta ou prancheta (com lápis adaptado), que é movida pelo Espírito. Foi o primeiro método para obter comunicações escritas extensas (LM, 2ª parte, cap. XIII, item 152).
 - **Direta ou manual**: o médium segura o lápis diretamente na mão. Substituiu a cesta/prancheta "como mais cômodo e simples" e tornou-se o método predominante (LM, 2ª parte, cap. XIII, item 157).
 
+### Progressão técnica documentada em 1858
+
+Em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (Cap. IV), Kardec descreve a sucessão exata dos dispositivos antes de a psicografia direta consolidar-se: **cesta-pitorra** (cesta de 15-20 cm com lápis fixado pelo fundo, escreve em espiral) → **cesta de bico** (haste inclinada como mastro de proa, escreve em linhas paralelas) → **prancheta** sem pés → **lápis diretamente na mão do médium**. A análise mecânica é central: *"não é a cesta que se torna inteligente; é um instrumento dirigido por uma inteligência; na realidade, não passa de um porta-lápis, de um apêndice da mão, um intermediário inerte. Suprima-se esse intermediário e coloque-se o lápis na mão e ter-se-á o mesmo resultado, com um mecanismo muito mais simples"*. A passagem fixa o argumento que LM cap. XIII consolidará: o aparato é acessório, o que importa é o vínculo Espírito → alma do médium → mão.
+
 ### Variedades de médiuns psicógrafos (itens 178–184, 191)
 
 | Tipo | Mecanismo |

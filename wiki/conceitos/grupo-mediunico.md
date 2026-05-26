@@ -12,7 +12,7 @@ status: ativo
 
 **Grupo mediúnico** é a reunião regular, em casa espírita, de estudantes e médiuns para a prática supervisionada da [[wiki/conceitos/mediunidade|mediunidade]] — sob direção experiente, com regulamento, finalidade moral definida e disciplina espiritual. É a unidade operacional básica do Espiritismo aplicado: nem comunicação solitária, nem assembleia pública, mas o **núcleo de trabalho**.
 
-A categoria foi sistematizada por Kardec em *O Livro dos Médiuns* (1861), 2ª parte, cap. XXIX ("Das reuniões e sociedades espíritas"), e detalhada nas instruções aos grupos durante a turnê pela França documentada em *Viagem Espírita em 1862*.
+A categoria foi sistematizada por Kardec em *O Livro dos Médiuns* (1861), 2ª parte, cap. XXIX ("Das reuniões e sociedades espíritas"), e detalhada nas instruções aos grupos durante a turnê pela França documentada em *Viagem Espírita em 1862*. **As condições nucleares — comunhão de pensamento, regularidade e recusa de aparato místico — já estavam fixadas três anos antes**, em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (1858, caps. VII–VIII): *"toda vez que alguns homens se reúnem, têm consigo uma assembleia invisível que se afina com as suas qualidades ou com os seus defeitos"*. A regularidade de dias e horas, em particular, é argumentada com base na observação de que *"alguns [Espíritos] até levam a pontualidade ao extremo: formalizam-se por quinze minutos de atraso"* (Cap. VIII).
 
 ## Ensino de Kardec
 

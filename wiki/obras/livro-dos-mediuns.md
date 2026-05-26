@@ -24,6 +24,7 @@ Segunda obra da codificação kardequiana e **guia prático do Espiritismo exper
 - **Tradução usada nesta wiki:** Guillon Ribeiro (FEB).
 - **Texto integral:** [[raw/kardec/pentateuco/livro-dos-mediuns]]
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **1 — Pentateuco** (autoridade normativa máxima).
+- **Obra precursora:** [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (1858) — manual prático descontinuado por Kardec após a 13ª edição definitiva de LE; o material foi reorganizado e expandido em LM. Kardec mesmo, no Cap. X da *Instrução*, anuncia LM como destino do estudante.
 
 ## Estrutura
 

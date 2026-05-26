@@ -24,6 +24,14 @@ Kardec defende o equilíbrio: não chamar ninguém em particular "é abrir a por
 - Usar fórmulas **afetuosas ou respeitosas** — evitar secura e imperativos (LM, 2ª parte, cap. XXV, item 270).
 - Ter paciência: nem sempre o Espírito pode ou quer responder (LM, 2ª parte, cap. XXV, item 271).
 
+### Fórmula de evocação (1858)
+
+Três anos antes de LM, em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (Cap. VIII), Kardec já fixa a fórmula simples — **sem mística, sem aparato cabalístico**:
+
+> "Peço a Deus Todo-poderoso que permita ao Espírito de... (designar o Espírito com bastante precisão) vir comunicar-se conosco."
+
+Ou na variante curta: *"Em nome de Deus Todo-poderoso peço ao Espírito de... que venha comunicar-se conosco"*. Resposta esperada do Espírito: *"Sim"*, *"Aqui estou"* ou *"Para que me querem?"*. *"Não há para isso uma fórmula sacramental: quem quer que pretendesse apresentar uma pode imediatamente ser taxado de charlatanismo. O pensamento é tudo, a forma nada é"* (Cap. V).
+
 ### Quem se pode evocar
 
 Qualquer Espírito, de qualquer época: "Não há Espírito que, chamado, não acuda ao nosso chamado, se puder fazê-lo" (LM, 2ª parte, cap. XXV, item 272, paráfrase). Incluem-se evocações de:

@@ -48,6 +48,8 @@ A escala em três ordens / dez classes não nasceu na 2ª edição do LE (1860).
 
 A escala foi acompanhada na *Revista* da advertência metodológica decisiva: **não há fronteiras absolutas** entre as classes ("a transição é insensível e, nos limites, a nuança se apaga, como nos reinos da natureza, nas cores do arco-íris"). É essa formulação que entrará intacta no comentário à q. 100 do LE.
 
+No mesmo ano, em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (1858, Cap. I), Kardec publica a escala em **3 ordens / 9 classes** — sem a classe dos "Espíritos batedores e perturbadores", que será introduzida na **6ª posição** apenas na 13ª edição definitiva de LE, totalizando as 10 classes consagradas. O tradutor brasileiro do manual de 1858 anota a evolução: *"Allan Kardec fez sucessivas ampliações em O LIVRO DOS ESPÍRITOS e só lhe deu caráter definitivo, que não mais se alterou, na 13ª edição. Foi antes disso que lançou a presente obra"* (nota do tradutor, Cap. I).
+
 ## Aplicação prática no Livro dos Médiuns
 
 O LM faz da escala espírita uma **ferramenta de discernimento** nas comunicações:

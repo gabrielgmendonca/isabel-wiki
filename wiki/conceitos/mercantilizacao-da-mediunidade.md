@@ -28,6 +28,8 @@ Kardec é taxativo em LM 2ª parte, cap. XXVIII (Dos médiuns interesseiros), it
 
 A *Viagem Espírita em 1862* repete a regra na orientação aos grupos: médiuns interesseiros são repelidos pelos Espíritos sérios; o grupo deve recusar admissão. Nas instruções aos sociétés, Kardec inclui a vedação explícita.
 
+A posição é precoce e estável: já em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espiritas|*Instruções Práticas sobre as Manifestações Espíritas*]] (1858, Cap. VIII, "Médiuns remunerados") Kardec formula o argumento que LM apenas consolidará — *"como poderíamos supor que um Espírito, por menos elevado que fosse, estivesse continuamente às ordens de um vendedor de consultas e submetido às suas exigências para satisfazer a curiosidade do primeiro que chegasse?"* e *"sabemos da aversão dos Espíritos por tudo quanto cheira a cupidez e a egoísmo, o pouco caso que ligam às coisas materiais e queríamos que eles ajudassem a traficar com a sua presença?!"*. O mesmo capítulo já alerta para o sinal de falsidade institucional: *"Tomemos como tal sempre que virmos anúncios de pretensas sessões de espiritismo ou espiritualismo a tanto a cadeira"*.
+
 ## Paralelo bíblico: Simão, o Mago
 
 At 8:18-24 narra o caso-protótipo. Simão, da Samaria, vendo que pela imposição das mãos dos apóstolos os convertidos recebiam o Espírito Santo, **ofereceu dinheiro** para receber também esse poder. Pedro responde com fórmula severa:
