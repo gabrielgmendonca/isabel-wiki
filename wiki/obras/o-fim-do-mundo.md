@@ -35,6 +35,8 @@ status: ativo
 
 Entre as três obras, *O Fim do Mundo* é a de **maior abrangência temporal** (séc. XXV → ano 10 milhões → eternidade pós-solar) e a única em que o protagonista narrativo coletivo é **a Humanidade como espécie**, não um casal ou um observador.
 
+A **Parte I do romance retoma textualmente** o material da coletânea ensaística [[wiki/obras/como-acabara-o-mundo|*Como Acabará o Mundo*]] (publicada antes em revistas francesas, ~1891–1893): as passagens sobre choque cometário, transformação do movimento em calor e envenenamento atmosférico pelo óxido de carbono são quase verbatim entre as duas obras. A coletânea é, portanto, o **texto-fonte cronológico** do romance — Flammarion publicou primeiro o material em chave de divulgação científica direta e depois o reorganizou em estrutura narrativa.
+
 > [!note] Gênero romance-ensaio
 > *O Fim do Mundo* mistura ficção narrativa e exposição doutrinária — mesmo gênero de *Urânia* e *Estela*. As descrições do séc. XXV (Estados Unidos da Europa, comunicação interplanetária com Marte, criados símios), do ano 10 milhões (Omégar e Eva como último casal humano) e do epílogo (choque de sóis extintos engendrando nova nebulosa) são **especulação literária a serviço da divulgação doutrinária**, não revelação mediúnica submetida ao crivo plural característico do método kardecista. Kardec, ao publicar a comunicação espontânea "O planeta Vênus" em [[wiki/obras/revista-espirita-1862|RE ago/1862]], aplicou cláusula condicional explícita (*"essa comunicação sobre Vênus não tem os caracteres de autenticidade absoluta"*). Flammarion, no gênero ensaio-romance, dispensa esse crivo. A obra deve ser lida como **exercício imaginativo a serviço da divulgação doutrinária**, não como revelação experimental.
 
@@ -182,6 +184,7 @@ Personalidades **históricas tangenciais** (não geram página): Khéops (faraó
 ## Páginas relacionadas
 
 - [[wiki/personalidades/camille-flammarion]]
+- [[wiki/obras/como-acabara-o-mundo]] — coletânea ensaística (~1891–1893) cujo ensaio 1 prefigura textualmente a Parte I deste romance.
 - [[wiki/obras/urania]] — primeira obra do arco romance-ensaio (1889), escala cósmica.
 - [[wiki/obras/estela]] — terceira obra do arco (1897), escala individual-casal.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
