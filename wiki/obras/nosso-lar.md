@@ -7,8 +7,8 @@ direitos:
   url_aquisicao: https://www.febeditora.com.br/nosso-lar
   ano_dp_estimado: 2073
   observacao: "Chico Xavier (m. 2002) cedeu direitos autorais à FEB; PD estimado em 70 anos após óbito."
-atualizado_em: 2026-04-27
-status: rascunho
+atualizado_em: 2026-05-26
+status: ativo
 ---
 
 # Nosso Lar
@@ -94,6 +94,9 @@ A Ministra Veneranda apresenta casos: mães que aceitam reencarnar em corpos lim
 
 A obra é redigida em 1943, em pleno conflito europeu. O receptor da casa de Lísias capta o apelo da colônia "Moradia": "**Negras falanges da ignorância, depois de espalharem os fachos sanguinários da guerra na Ásia, cercam as nações europeias**" (cap. 24). No cap. 42, o **Governador** discursa pessoalmente ao Ministério da Regeneração lendo Mt 24:6 ("ouvireis falar de guerras e de rumores de guerras"): "**Nosso Lar precisa de trinta mil servidores adestrados no serviço defensivo... não podemos esperar o adversário em nossa morada espiritual**". O discurso justifica a militância como caridade aplicada — "todo crime como enfermidade d'alma", mas "Nosso Lar é um patrimônio divino, que precisamos defender".
 
+> [!warning] Tensão pontual com o ensinamento evangélico
+> A convocação militar de espíritos defensores no cap. 42 cria tensão aparente com a tradição evangélica do "não resistais ao mal" (Mt 5:39) e com a recusa total da violência pelo Pentateuco kardeciano (LE, q. 728–765 — Lei de Destruição; ESE, cap. XII — "Amai vossos inimigos"). A própria narrativa propõe a conciliação: a defesa da colônia é apresentada como ato caritativo (proteger os enfermos que ali se recuperam de "Espíritos desviados" do Umbral), não como retaliação ou agressão — "todo crime como enfermidade d'alma, mas Nosso Lar é um patrimônio divino, que precisamos defender" (cap. 42); o próprio cap. 43 descreve com horror o "verdadeiro inferno" do campo de batalha terreno na Polônia. Lida no contexto, a tensão é resolvida pela distinção entre **defesa fluídica de zona de cuidado** e **agressão**, mantendo-se a primazia da caridade.
+
 No cap. 43, o Ministro Benevenuto, recém-chegado da Polônia, descreve o campo de batalha invisível como "verdadeiro inferno de indescritíveis proporções". Os militares agressores que desencarnam, dominados por forças tenebrosas, fogem dos socorristas chamando-os "fantasmas da cruz". E sobre o Espiritismo: "é a nossa grande esperança e, por todos os títulos, é o Consolador da humanidade encarnada; mas a nossa marcha é ainda muito lenta. Trata-se de uma dádiva sublime, para a qual a maioria dos homens ainda não possui 'olhos de ver'."
 
 ### Cidadania (caps. 47–50)
@@ -114,8 +117,11 @@ André recebe sua primeira **licença em missão na Terra**: socorrer Ernesto, m
 ## Conceitos tratados
 
 - [[wiki/conceitos/colonia-espiritual]] — caso paradigmático de cidade espiritual organizada
+- [[wiki/conceitos/ministerios-de-nosso-lar]] — topologia administrativa: 6 ministérios + Governadoria + 72 ministros
+- [[wiki/conceitos/camaras-de-retificacao]] — instituição de tratamento dos desencarnados perturbados (caps. 27–30)
 - [[wiki/conceitos/umbral]] — região purgatorial vizinha da crosta terrestre
 - [[wiki/conceitos/bonus-hora]] — economia de serviço da colônia
+- [[wiki/conceitos/volitacao]] — locomoção espiritual por concentração mental (cap. 50)
 - [[wiki/conceitos/erraticidade]] — articulação com o estado errante de Kardec (LE q. 223–236)
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — a Terra como mundo que requer colônias-tampão
 - [[wiki/conceitos/reencarnacao]] — reencarnação programada nos Ministérios
@@ -131,8 +137,11 @@ André recebe sua primeira **licença em missão na Terra**: socorrer Ernesto, m
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/clarencio]] — Ministro do Auxílio, orientador
 - [[wiki/personalidades/lisias]] — visitador, instrutor inicial e anfitrião
+- [[wiki/personalidades/henrique-de-luna]] — médico-chefe do parque hospitalar; formula o diagnóstico do suicídio inconsciente (cap. 4)
+- [[wiki/personalidades/tobias]] — chefe das Câmaras de Retificação; segundo orientador, com lição sobre o casamento espiritual (caps. 27–42)
+- [[wiki/personalidades/veneranda]] — Ministra da Regeneração; preleção sobre o pensamento (cap. 37)
 
-Personagens secundários sem página própria (mencionados em prosa): Henrique de Luna (médico-chefe), Tobias (chefe das Câmaras de Retificação), Veneranda (Ministra da Comunicação), Narcisa (enfermeira), Laura (mãe de Lísias), Hilda (esposa de Lísias), Salústio, Lascínia, Benevenuto (Ministro da Regeneração), Laerte (pai de André), Zélia e Ernesto (família terrena de André).
+Personagens secundários sem página própria (mencionados em prosa): Narcisa (enfermeira veterana das Câmaras), Laura (mãe de Lísias), Hilda e Luciana (esposas de Tobias), Salústio, Lascínia, Benevenuto (Ministro da Regeneração), Laerte (pai de André), Zélia e Ernesto (família terrena de André).
 
 ## Fontes
 

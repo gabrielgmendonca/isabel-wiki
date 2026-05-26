@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
 tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, alienacao-mental, andre-luiz, nosso-lar, no-mundo-maior, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sofrimento]
-atualizado_em: 2026-05-19
+atualizado_em: 2026-05-26
 status: ativo
 ---
 
@@ -88,7 +88,7 @@ Todos os relatos confirmam o princípio do LE: o suicídio não liberta, aprisio
 
 ### O "suicida inconsciente" em *Nosso Lar* (André Luiz / Chico Xavier, 1944)
 
-A primeira ilustração extensa de LE q. 952 na literatura mediúnica é o próprio narrador de *Nosso Lar*. Médico carioca recém-desencarnado, é classificado pelos benfeitores da colônia como **suicida inconsciente** — terminologia da casa para o suicídio moral kardeciano. Henrique de Luna, médico-chefe do parque hospitalar, ausculta-lhe o perispírito e reconstitui, a partir das marcas, a história moral do paciente: oclusão intestinal por sífilis, fígado e rins destruídos pelo descuido moral, anos de excessos. Veredicto:
+A primeira ilustração extensa de LE q. 952 na literatura mediúnica é o próprio narrador de *Nosso Lar*. Médico carioca recém-desencarnado, é classificado pelos benfeitores da colônia como **suicida inconsciente** — terminologia da casa para o suicídio moral kardeciano. [[wiki/personalidades/henrique-de-luna|Henrique de Luna]], médico-chefe do parque hospitalar, ausculta-lhe o perispírito e reconstitui, a partir das marcas, a história moral do paciente: oclusão intestinal por sífilis, fígado e rins destruídos pelo descuido moral, anos de excessos. Veredicto:
 
 > "O organismo espiritual apresenta em si mesmo a história completa das ações praticadas no mundo." (Nosso Lar, cap. 4)
 
@@ -143,6 +143,8 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - [[wiki/obras/livro-dos-espiritos]] — Parte 4, cap. I (q. 952 = suicídio moral)
 - [[wiki/obras/ceu-e-inferno]] — 2ª parte, cap. V (9 relatos de suicidas) e cap. IV (paralelos materializados)
 - [[wiki/obras/nosso-lar]] — caso paradigmático do suicídio moral / suicida inconsciente (caps. 1–4)
+- [[wiki/conceitos/camaras-de-retificacao]] — instituição que trata suicidas conscientes e inconscientes nos volumes da série
+- [[wiki/personalidades/henrique-de-luna]] — médico que formula o diagnóstico no cap. 4
 - [[wiki/obras/no-mundo-maior]] — alienação mental como suicídio dissimulado (cap. 16)
 - [[wiki/conceitos/casa-mental]] — modelo anatômico da descida moral
 - [[wiki/conceitos/morte-espiritual]] — paralelo doutrinário

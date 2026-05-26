@@ -210,6 +210,9 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/colonia-espiritual]] — André Luiz: agrupamento organizado de Espíritos em zona de transição vizinha da Terra; "Nosso Lar" como caso paradigmático.
 - [[wiki/conceitos/umbral]] — André Luiz: faixa purgatorial logo acima da crosta terrestre, articulada com os Espíritos sofredores de C&I.
 - [[wiki/conceitos/bonus-hora]] — André Luiz: ficha de tempo de serviço útil, padrão único de remuneração na colônia espiritual; aplicação narrativa da Lei do Trabalho.
+- [[wiki/conceitos/ministerios-de-nosso-lar]] — André Luiz: topologia administrativa de "Nosso Lar" (6 ministérios + Governadoria + 72 ministros); aplicação institucional da escala espírita de Kardec.
+- [[wiki/conceitos/camaras-de-retificacao]] — André Luiz: complexo hospitalar do Ministério da Regeneração; tratamento dos "contrabandistas na vida eterna" retirados do Umbral (caps. 27–30 de *Nosso Lar*).
+- [[wiki/conceitos/volitacao]] — André Luiz: locomoção espiritual por concentração mental; aplicação da velocidade do pensamento de LE q. 90–92.
 
 ### Princípio vital e fluidos
 - [[wiki/conceitos/principio-vital]] — fluido vital, elo entre espírito e matéria (LE, q. 60–75; Gênese, cap. X).
@@ -329,6 +332,9 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/personalidades/hilario]] — Hilário, Espírito jovem, companheiro questionador de André Luiz em *Libertação*, *Entre a Terra e o Céu* e *Nos Domínios da Mediunidade*.
 - [[wiki/personalidades/clarencio]] — Ministro do Templo do Socorro em *Entre a Terra e o Céu* (André Luiz).
 - [[wiki/personalidades/lisias]] — visitador dos serviços de saúde do Ministério do Auxílio em *Nosso Lar*; instrutor inicial de André Luiz.
+- [[wiki/personalidades/henrique-de-luna]] — chefe do Serviço de Assistência Médica do Ministério do Auxílio em *Nosso Lar* (cap. 4); diagnóstico-âncora do suicídio inconsciente.
+- [[wiki/personalidades/tobias]] — chefe das Câmaras de Retificação em *Nosso Lar*; segundo orientador de André Luiz; caso paradigmático de casamento espiritual (cap. 38).
+- [[wiki/personalidades/veneranda]] — Ministra da Regeneração em *Nosso Lar*; autora espiritual de *O Caminho Oculto* e *Os Filhos do Grande Rei*; preleção sobre o pensamento como linguagem universal (cap. 37).
 - [[wiki/personalidades/aniceto]] — instrutor do Centro de Mensageiros (Ministério da Comunicação) em *Os Mensageiros*; orientador de André Luiz e Vicente.
 - [[wiki/personalidades/alexandre]] — instrutor missionário das atividades de Comunicação em *Missionários da Luz*; orientador de André Luiz no ciclo dedicado à fenomenologia mediúnica; ex-médico em encarnação anterior; encerra a obra com advertência expressa contra a idolatria do mestre.
 - [[wiki/personalidades/jeronimo-assistente]] — Assistente Jerônimo, orientador da expedição socorrista de trinta dias em *Obreiros da Vida Eterna*; conduz equipe de quatro com base na Casa Transitória de Fabiano e articula ciência (eletromagnética celular) com doutrina (suicídio, desencarnação consciente).

@@ -28,8 +28,8 @@ Completar a base doutrinária. Três frentes: **obras a ingerir** (gargalo princ
 
 **Nível 3 — Consagrados** (cobertura parcial)
 - [ ] **Léon Denis** — 4 obras ingeridas. Levantar restante prioritário.
-- [ ] **Chico Xavier** — *A Caminho da Luz* e *O Consolador* ingeridos; falta âncora André Luiz *Nosso Lar* (1944, abre a série).
-- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora. Definition of done exige ≥1 por autor.
+- [x] **Chico Xavier** — *A Caminho da Luz*, *O Consolador* e âncora André Luiz *Nosso Lar* (1944, abre a série) ingeridas. Auditoria 2026-05-26 promoveu 3 conceitos (`ministerios-de-nosso-lar`, `camaras-de-retificacao`, `volitacao`) + 3 personalidades-âncora (Henrique de Luna, Tobias, Veneranda) que atravessam a série inteira. Resta levantar prioridades de continuação na série André Luiz (~10 títulos pendentes em raw).
+- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora. Definition of done exige ≥1 por autor. **Gargalo**: coletar raw para esses autores (não há fonte em `raw/` no momento; ingest depende de aquisição da fonte primeiro).
 
 ### 1.2 Curadoria de páginas existentes
 
