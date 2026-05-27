@@ -34,6 +34,8 @@ Toda afirmação doutrinária precisa de citação. Formatos:
 
 **Obras psicografadas**: citar como `Autor espiritual / Médium`. Conferir o frontmatter de `raw/mediuns/<médium>/<obra>.md` (campo `Autor espiritual:`) — o médium não é o autor. Não inferir autor a partir do médium.
 
+**Verificação de citação do Pentateuco**: antes de afirmar `(LE, q. N)`, `(ESE, cap. X, item Y)` etc., rodar `uv run python scripts/cite.py <SIGLA> "<ref>"` para confirmar o texto literal — detalhes em `verificacao-citacao.md` (dispara em `wiki/**`).
+
 Toda página termina com `## Fontes`. Convenções editoriais granularizadas em três rules condicionais: `convencoes-frontmatter.md` (frontmatter, links, estrutura por tipo) e `convencoes-tags.md` (taxonomia dos 5 namespaces) carregam em `wiki/**`; `convencoes-direitos.md` (schema `direitos:`, detentores, limites de citação) carrega em `wiki/obras/**`.
 
 ## 4. Workflows e estudo
