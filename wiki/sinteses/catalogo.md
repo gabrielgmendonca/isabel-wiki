@@ -611,6 +611,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
 - [[wiki/questoes/esquecimento-do-passado]] — "ele é mais ele mesmo": o véu sobre o passado como condição de autenticidade do livre-arbítrio; substitutos operacionais da memória (intuição, voz da consciência, tendências instintivas) (LE, q. 392).
 - [[wiki/questoes/obediencia-e-resignacao]] — obediência como consentimento da razão e resignação como consentimento do coração; "forças ativas ambas" e não negação da vontade (ESE, cap. IX, item 8 — Lázaro, Paris, 1863).
+- [[wiki/questoes/ensaio-teorico-da-sensacao-dos-espiritos]] — ensaio expositivo de Kardec que define o perispírito como "quintessência da matéria" e agente das sensações; mecânica do sofrimento póstumo (caso do suicida) e conclusão tranquilizadora — o livre-arbítrio permite começar a libertação do jugo da matéria desde a vida atual (LE, q. 257).
 
 ## Sínteses
 
