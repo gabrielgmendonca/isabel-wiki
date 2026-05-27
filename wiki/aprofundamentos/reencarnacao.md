@@ -453,6 +453,7 @@ A parábola dos dois industriais é autossuficiente. **Sugestão pedagógica**: 
 - [[wiki/conceitos/planejamento-reencarnatorio]] — engenharia da reencarnação assistida (André Luiz).
 - [[wiki/conceitos/progresso-espiritual]] — finalidade das existências sucessivas; lei universal.
 - [[wiki/conceitos/livre-arbitrio]] — escolha das provas (cruzamento com q. 258).
+- [[wiki/aprofundamentos/escolha-de-provas]] — bloco contíguo posterior do LE (Cap. VI, q. 258–273); seis eixos doutrinários do ato de escolha pelo Espírito errante.
 - [[wiki/conceitos/expiacao]] · [[wiki/aprofundamentos/expiacao-e-arrependimento]] — articulação com a tríade arrependimento–expiação–reparação.
 - [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] — restrição denisiana à alternância de sexo.
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — pares predestinados (Denis/Emmanuel) vs. afinidade (Kardec).

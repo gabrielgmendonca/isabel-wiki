@@ -33,7 +33,7 @@ O Espírito pode também sofrer sem culpa própria aparente, por missão de abne
 
 ### Escolha das provas
 
-O Espírito, no estado errante, escolhe suas provas com o auxílio de guias espirituais. Escolhe as que julga mais adequadas para seu adiantamento — riqueza ou pobreza, saúde ou doença, família ou solidão. Se fracassa, pode recomeçar numa nova existência (LE, q. 258–262).
+O Espírito, no estado errante, escolhe suas provas com o auxílio de guias espirituais. Escolhe as que julga mais adequadas para seu adiantamento — riqueza ou pobreza, saúde ou doença, família ou solidão. Se fracassa, pode recomeçar numa nova existência (LE, q. 258–262). Tratamento sistemático das dezesseis questões da seção (q. 258–273) em [[wiki/aprofundamentos/escolha-de-provas]].
 
 ### A Terra como mundo de expiação e provas
 

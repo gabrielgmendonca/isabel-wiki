@@ -20,7 +20,7 @@ A codificação trata do tema em três planos:
 
 **LE q. 344–345 — União do perispírito com o corpo.** "A união do princípio vital com o corpo se opera pelo intermediário do perispírito. [...] No momento da concepção, o perispírito vai pondo-se em conexão com a alma, vai aderindo à alma molécula a molécula, durante toda a vida do corpo." A conexão começa na concepção e se completa progressivamente — formulação que André Luiz herdará e detalhará na "consolidação aos sete anos".
 
-**LE q. 256–262 — Escolha das provas.** "A escolha do gênero das provas que tem que sofrer pertence ao Espírito" (q. 258). "Os Espíritos preparam-se sempre, nos seus sucessivos exames, para sofrerem a vida que devem ter" (q. 261). A reencarnação assistida em André Luiz é a face operativa dessa escolha.
+**LE q. 256–262 — Escolha das provas.** "A escolha do gênero das provas que tem que sofrer pertence ao Espírito" (q. 258). "Os Espíritos preparam-se sempre, nos seus sucessivos exames, para sofrerem a vida que devem ter" (q. 261). A reencarnação assistida em André Luiz é a face operativa dessa escolha. Tratamento sistemático das dezesseis questões da seção "Escolha de provas" (LE Cap. VI, q. 258–273) em [[wiki/aprofundamentos/escolha-de-provas]].
 
 **LE q. 357–367 — Encarnação dos Espíritos.** "A encarnação não é um castigo para o Espírito; é uma condição da sua natureza" (q. 132). O Espírito "não tem sua perfeita liberdade enquanto se acha encarnado" (q. 257) — base para a redução perispiritual descrita por André Luiz: o veículo precisa adaptar-se à condição limitada do feto.
 
