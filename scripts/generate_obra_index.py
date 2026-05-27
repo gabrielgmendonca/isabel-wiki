@@ -28,6 +28,9 @@ PART_RE = re.compile(
     r"^##\s+("
     r"(?:Primeira|Segunda|Terceira|Quarta|Quinta|Sexta|Sétima|Oitava|Nona|Décima)"
     r"\s+parte"
+    # LE inverte a ordem: "Parte primeira — Das causas primárias".
+    # Mantém-se em sincronia com INDEX_PART_RE em scripts/kardec_structure.py.
+    r"|Parte\s+(?:primeira|segunda|terceira|quarta|quinta|sexta|sétima|oitava|nona|décima)"
     r"|Parte\s+[IVXLCDM]+"
     r"|Livro\s+(?:primeiro|segundo|terceiro|quarto|quinto)"
     r"|Prolegômenos"

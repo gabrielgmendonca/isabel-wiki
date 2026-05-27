@@ -82,6 +82,9 @@ INDEX_PART_RE = re.compile(
     r"^###\s+(?P<title>"
     r"(?:Primeira|Segunda|Terceira|Quarta|Quinta|Sexta|Sétima|Oitava|Nona|Décima)"
     r"\s+parte"
+    # LE inverte a ordem ("Parte primeira"); sincronizar com PART_RE em
+    # scripts/generate_obra_index.py.
+    r"|Parte\s+(?P<ordinal>primeira|segunda|terceira|quarta|quinta|sexta|sétima|oitava|nona|décima)"
     r"|Parte\s+(?P<roman>[IVXLCDM]+)"
     r"|Introdução"
     r")\b",
@@ -140,8 +143,11 @@ def _parse_index(index_path: Path) -> Structure:
                 current_part = None
                 continue
             roman = m_part.group("roman")
+            ordinal = m_part.group("ordinal")
             if roman:
                 n = _roman_to_int(roman.upper())
+            elif ordinal:
+                n = PART_ORDINAL.get(ordinal.lower())
             else:
                 first_word = title.split()[0]
                 n = PART_ORDINAL.get(first_word)
