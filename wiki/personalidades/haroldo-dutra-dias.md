@@ -31,7 +31,15 @@ Catálogo da FEB Editora (loja, scrape em 2026-05-15) — sem página própria e
 
 ## Palestras registradas
 
-- *Vem Estudar Com a Gente* — canal **Espiritualidade e Vida** (FEB), c. 2026, ~4 min. Reflexão sobre a atualidade das cartas de Paulo no movimento espírita. [YouTube](https://www.youtube.com/watch?v=quCG8llP80U) · transcrição em [[raw/palestras/espiritualidade-e-vida/vem-estudar-com-a-gente]].
+Canal **Espiritualidade e Vida** (FEB) — Haroldo conduz lives semanais (terça e quinta, 19h) e leituras meditativas curtas.
+
+**Estudos e conferências:**
+
+- *Vem Estudar Com a Gente* — c. 2026, ~4 min. Reflexão sobre a atualidade das cartas de Paulo no movimento espírita. [YouTube](https://www.youtube.com/watch?v=quCG8llP80U) · transcrição em [[raw/palestras/espiritualidade-e-vida/vem-estudar-com-a-gente]].
+- *A Transição Planetária não é o fim, é um novo começo* — conferência, c. 2026. Encadeia Platão (*Timeu* / Demiurgo) → LE q. 27 (2ª ed., fluido cósmico) → *A Caminho da Luz* cap. 1 (comunidade dos espíritos puros e três reuniões planetárias). Análise editorial em [[wiki/conceitos/transicao-planetaria]]. Transcrição em [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].
+- *O Momento do Recomeço — cap. 13 de Missionários da Luz* — live semanal da série André Luiz, c. 2026. Comentário do caso Segismundo–Adelino–Raquel; formula o princípio doutrinário "esquece histórias, não impressões" e a pedagogia de Alexandre ("espíritos superiores não recriminam — educam, orientam"). Análise em [[wiki/questoes/esquecimento-do-passado]] e [[wiki/personalidades/alexandre]]. Transcrição em [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]].
+
+**Coletânea de orações curtas lidas no canal:** ver [[wiki/sinteses/oracoes-do-canal-espiritualidade-e-vida]] — 17 peças mediúnicas (Emmanuel, Meimei, Albino Teixeira, Casimiro Cunha, Maria Dolores, Bezerra de Menezes, André Luiz, Alma Eros, Batuíra, Zeferino Brazil) declamadas por Haroldo em formato de 1–3 min.
 
 ## Citações relevantes
 

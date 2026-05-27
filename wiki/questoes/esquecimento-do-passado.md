@@ -1,8 +1,8 @@
 ---
 tipo: questao
-fontes: [LE, C&I, OQE]
-tags: [esquecimento, reencarnacao, intuicao, voz-da-consciencia, livre-arbitrio, providencia, obra/le, obra/ci, obra/oqe, autor/kardec, grau/introdutorio, tema/encarnacao]
-atualizado_em: 2026-05-08
+fontes: [LE, C&I, OQE, André Luiz/Chico Xavier, Léon Denis]
+tags: [esquecimento, reencarnacao, intuicao, voz-da-consciencia, livre-arbitrio, providencia, missionarios-da-luz, obra/le, obra/ci, obra/oqe, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/leon-denis, grau/introdutorio, tema/encarnacao]
+atualizado_em: 2026-05-26
 status: ativo
 ---
 
@@ -103,6 +103,20 @@ Em *O Grande Enigma*, o mesmo Léon Denis acrescenta a justificativa em fórmula
 
 A leitura é coerente com Kardec: o esquecimento é parcial, dosado, e operacional — e cumpre a função de proteger a liberdade do agente moral atual.
 
+## Adelino e a impressão sem enredo (André Luiz, *Missionários da Luz*, cap. 13)
+
+A fórmula de Léon Denis — *"o passado se acha sob a forma de impressões, senão de lembranças precisas"* — recebe **ilustração narrativa exata** no caso Segismundo–Adelino–Raquel, capítulo central de [[wiki/obras/missionarios-da-luz|*Missionários da Luz*]] (1945). Adelino havia sido assassinado por Segismundo em encarnação anterior; agora o ex-adversário se prepara para reencarnar como filho do casal, em obra de resgate. Antes de qualquer aproximação espiritual à futura mãe, o orientador **[[wiki/personalidades/alexandre|Alexandre]]** precisa preparar Adelino — e o estado interior do encarnado revela o que a memória **não** apagou:
+
+> "Tenho tido receio de mim mesmo. Tão logo me acomodo num leito, sinto instintivamente que uma sombra se aproxima de mim. Adormeço sob incrível ansiedade e o pesadelo começa sem que eu saiba explicar conscientemente alguma coisa. [...] Vejo que um homem se aproxima de mim, estendendo as mãos a maneira de um mendigo vulgar a implorar socorro. Mas ao lhe fixar a fisionomia, inexplicável terror invade meu espírito. Tenho a impressão de que ele deseja assassinar-me pelas costas. [...] Fujo, sempre num misto de ódio e repugnância." (Adelino, em *Missionários da Luz*, cap. 13)
+
+Adelino não tem qualquer **enredo** disponível — não sabe quem é o homem do sonho, não sabe que foi assassinado, não sabe que Segismundo está a poucos metros, prestes a tornar-se seu filho. Mas toda a **impressão** está ativa: o pavor, a desconfiança das costas, a oscilação entre socorro instintivo e repulsa. Haroldo Dutra Dias formula o princípio em palestra:
+
+> "O Adelino não lembra da narrativa das vidas anteriores, ele não lembra do enredo, ele não lembra detalhes, mas todos os sentimentos estão presentes, as sensações, as emoções, as impressões estão todas aqui. [...] O que a gente esquece quando reencarna são as histórias, não as impressões. As impressões espirituais estão com a gente. Os sentimentos, as emoções estão com a gente." (Haroldo Dutra Dias, *O Momento do Recomeço — cap. 13 de Missionários da Luz*)
+
+O caso confirma todos os elementos da formulação kardequiana: a **voz da consciência** (Adelino oscila — tenta estender as mãos antes de fugir, num impulso fraternal que destoa do terror), a **tendência instintiva** (a desconfiança das costas, registro perispirítico do golpe sofrido), e o efeito **proporcional ao mundo de expiação** — Adelino é poupado do enredo justamente porque a memória plena tornaria a coabitação familiar inviável. Quando, na mesma noite, Alexandre opera por intermédio do filho Joãozinho ("Mamãe, por que papai está triste?"), abre-se a porta para o perdão sem que o enredo precise ser jamais revelado — exatamente o que a q. 394 prevê sobre os "três inconvenientes" da memória plena nas relações sociais.
+
+Ver [[wiki/conceitos/planejamento-reencarnatorio]] para o desdobramento do caso e [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]] para a transcrição integral.
+
 ## Lembranças aparentes — cuidado epistemológico
 
 A q. 396 antecipa um problema que se tornaria espinhoso no século XX, com a popularização da regressão de memória: muitas pessoas julgam ter "vaga recordação de um passado desconhecido". Os Espíritos respondem com sobriedade característica:
@@ -139,3 +153,5 @@ A frase que sintetiza o capítulo está no comentário final de Kardec à q. 399
 - DENIS, Léon. *O Problema do Ser, do Destino e da Dor* (1903). Cap. sobre lembrança das vidas anteriores. Trad. FEB. Cf. [[wiki/obras/o-problema-do-ser-e-do-destino]].
 - DENIS, Léon. *Depois da Morte* (1891). Trad. João Lourenço de Souza. FEB. Edição: [[raw/autores/leon-denis/depois-da-morte/depois-da-morte]].
 - DENIS, Léon. *O Grande Enigma* (1911). Cap. sobre o esquecimento como condição da liberdade. Trad. FEB. Cf. [[wiki/obras/o-grande-enigma]].
+- XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. FEB, 1945. Cap. 13 (caso Adelino — impressão sem enredo). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- DIAS, Haroldo Dutra. *O Momento do Recomeço — cap. 13 de Missionários da Luz*. Canal Espiritualidade e Vida (FEB), 2026. Transcrição em [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]].

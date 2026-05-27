@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier]
-tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-30
+fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Haroldo Dutra Dias]
+tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, demiurgo, platao, haroldo-dutra-dias, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/intermediario, tema/vida-futura]
+atualizado_em: 2026-05-26
 status: ativo
 ---
 
@@ -58,9 +58,21 @@ Kardec cita explicitamente em Gênese cap. XVIII a profecia do [[wiki/obras/apoc
 
 A "nova Jerusalém" (Ap 21:2; 21:9–22:5) é a alegoria da **humanidade regenerada** — não cidade física descendo do céu nem milênio cosmológico literal. Tratamento conceitual completo em [[wiki/conceitos/nova-jerusalem]]. A imagem das *"folhas da árvore [...] para a saúde das nações"* (22:2) confirma a universalidade da regeneração — convergência total com LE q. 1015–1019.
 
+## Antecedentes filosóficos: Platão e o Demiurgo
+
+Kardec, na introdução do *Evangelho Segundo o Espiritismo* (item IV), reconhece **Sócrates e Platão** como missionários encarregados de lançar as primeiras sementes do pensamento espírita no Ocidente, em meio milênio antes da codificação. A continuidade é explícita: na 2ª edição do *Livro dos Espíritos* (1860), Platão consta entre os Espíritos signatários do prolegômenos, ao lado de Santo Agostinho e outros.
+
+No diálogo *Timeu*, Platão descreve uma **matéria eterna preexistente** que o **Demiurgo** — inteligência ordenadora — modela em formas segundo padrões eternos contidos no "mundo das ideias". Os Espíritos respondem em LE q. 27 (2ª ed., 1860) que essa matéria eterna corresponde ao [[wiki/conceitos/fluido-cosmico-universal|fluido cósmico universal]] da Doutrina — substância primordial suscetível de infinitas combinações (eletricidade, magnetismo, calor e a matéria densa são todas suas modificações). A conexão é desenvolvida por Haroldo Dutra Dias em palestra, ancorando a transição planetária na metafísica platônica:
+
+> "[Os espíritos dizem:] essa matéria eterna é o fluido cósmico. O fluido cósmico que é suscetível de infinitas combinações. [...] A inteligência divina é a fonte de todo o planejamento do cosmos. Tudo que existe e tudo que vai existir está primeiro vivo na mente, na inteligência suprema. [...] A consciência cósmica imprime nessa matéria leis imutáveis." (Haroldo Dutra Dias, *A Transição Planetária não é o fim, é um novo começo*)
+
+O encadeamento — matéria primordial · inteligência ordenadora · padrões eternos · teleologia (o propósito gravado pelo Demiurgo na matéria) — é o substrato filosófico em que se inscreverá, séculos depois, a "comunidade dos espíritos puros e eleitos" descrita por Emmanuel em *A Caminho da Luz* (cap. 1) como instância de governo do nosso sistema planetário. Ver [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].
+
 ## Aplicação prática
 
 A transição planetária fundamenta a esperança espírita no futuro da Terra sem escapismo ou passividade: o advento do [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] depende do esforço moral de cada Espírito. Quem se reforma interiormente contribui para a transição; quem se obstina no mal será naturalmente afastado pela lei de progresso. A mensagem é de responsabilidade ativa, não de espera passiva.
+
+A literatura mediúnica fornece **precedente operacional** para o momento atual: em *Nosso Lar*, durante o quadro de aflição que precede a Segunda Guerra Mundial e a desencarnação de Dona Laura, um locutor de colônia espiritual menos elevada transmite alertas alarmados, enquanto **Clarêncio** permanece sereno. A explicação do mentor enuncia o princípio: a guerra é inevitável e tutelada — *"a comunidade terrestre ingeriu por muito tempo substâncias tóxicas"* — porque o reordenamento é decidido em instâncias superiores. A leitura pastoral de Haroldo Dutra Dias para a transição atual recupera a frase de Bittencourt Sampaio publicada na *Reformador*: ***"Cristo está no leme"*** — *"eu não tô dizendo que a água não vai entrar e você vai ficar assustado. Vai. [...] Essa embarcação tem um comandante"* (palestra). O auxílio espiritual não suprime as dores da transição; garante que ela tenha rumo. Ver [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].
 
 ## Na *Viagem Espírita em 1862*
 
@@ -74,14 +86,30 @@ Ver [[wiki/obras/viagem-espirita-em-1862]].
 
 ## Desenvolvimento por Emmanuel
 
+### A comunidade dos espíritos puros (*A Caminho da Luz*, cap. 1)
+
+O capítulo de abertura de *A Caminho da Luz* (1939) inscreve a transição planetária num arco cósmico que retroage à formação da Terra. Emmanuel descreve uma instância de governo planetário:
+
+> "Rezam as tradições do mundo espiritual que, na direção de todos os fenômenos do nosso sistema, existe uma comunidade de espíritos puros e eleitos pelo Senhor supremo do universo, em cujas mãos se conservam as rédias diretoras de todas as coletividades planetárias [...]. Dessa comunidade de seres angélicos e perfeitos no sentido relativo é Jesus um dos membros divinos." (Emmanuel / Chico Xavier, *A Caminho da Luz*, cap. 1)
+
+Essa comunidade — que Haroldo Dutra Dias glosa como *"comunidade dos cristos do sistema solar"* na palestra — reuniu-se três vezes em relação à Terra:
+
+1. **Quando o orbe terrestre se desprendia da nebulosa solar** — para lançar "as balizas do nosso sistema cosmogônico e os prodomos da vida na matéria em ignição do planeta".
+2. **Quando se decidiu a vinda do Cristo à Terra** — para planejar a encarnação de um dos membros da comunidade.
+3. **Às vésperas da Segunda Guerra Mundial** — para planejar o que a humanidade vive agora: a transição planetária descrita nos capítulos 24–25.
+
+A continuidade Platão → LE q. 27 → ACL cap. 1 fica explícita: o **Demiurgo** platônico que ordena a matéria eterna é nomeado por Emmanuel como Jesus, "ao que nos foi dado saber" — operando há aproximadamente cinco bilhões de anos no campo do nosso planeta.
+
+### Os capítulos 24–25 — síntese da transição
+
 Em *A Caminho da Luz* (caps. 24–25), Emmanuel descreve a transição planetária com detalhes complementares:
 
 - O Espiritismo é apresentado como a força moral indispensável à transição: "só o Espiritismo pode representar o valor moral onde se encontre o apoio necessário à edificação do porvir" (cap. 24).
 - A Terra "alijará todos os Espíritos rebeldes e galvanizados no crime, que não souberam aproveitar a dádiva de numerosos milênios" (cap. 24).
 - A América é apontada como destinatária do "cetro da civilização e da cultura, na orientação dos povos porvindouros" (cap. 24).
-- Emmanuel menciona uma terceira reunião da "comunidade das potências angélicas do sistema solar" para decidir sobre os destinos da Terra (cap. 24).
+- A terceira reunião da "comunidade das potências angélicas do sistema solar" para decidir sobre os destinos da Terra (cap. 24) é a mesma anunciada no cap. 1 — confirmação intratextual da unidade da obra.
 
-Ver [[wiki/obras/a-caminho-da-luz]].
+Ver [[wiki/obras/a-caminho-da-luz]] e [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].
 
 ## Páginas relacionadas
 
@@ -99,10 +127,12 @@ Ver [[wiki/obras/a-caminho-da-luz]].
 - [[wiki/obras/apocalipse]] — caps. 21–22, "novo céu e nova terra" como passagem-fonte
 - [[wiki/conceitos/nova-jerusalem]] — alegoria joanina da humanidade regenerada
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo Franco aplica o conceito ao contexto da saúde psicológica
+- [[wiki/personalidades/haroldo-dutra-dias]] — palestra encadeia Platão, LE q. 27 (2ª ed.) e ACL cap. 1 numa leitura pastoral da transição
 
 ## Fontes
 
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. III, itens 2–19. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, Introdução, item IV; cap. III, itens 2–19. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *A Gênese*, cap. XVIII, itens 1–35. Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *O Livro dos Espíritos*, q. 55–58, q. 1019. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, caps. 24–25. FEB, 1939.
+- Kardec, Allan. *O Livro dos Espíritos*, q. 27 (2ª ed., 1860; fluido cósmico); q. 55–58, q. 1019. Trad. Guillon Ribeiro. FEB.
+- XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 1 (comunidade dos espíritos puros e três reuniões planetárias); caps. 24–25. FEB, 1939.
+- DIAS, Haroldo Dutra. *A Transição Planetária não é o fim, é um novo começo*. Canal Espiritualidade e Vida (FEB), 2026. Transcrição em [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].

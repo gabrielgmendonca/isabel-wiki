@@ -7,7 +7,7 @@ direitos:
   url_aquisicao: https://www.febeditora.com.br/missionarios-da-luz
   ano_dp_estimado: 2073
   observacao: "Chico Xavier (m. 2002) cedeu direitos autorais à FEB; PD estimado em 70 anos após óbito."
-atualizado_em: 2026-04-28
+atualizado_em: 2026-05-26
 status: rascunho
 ---
 
@@ -111,6 +111,11 @@ Os Espíritos **Construtores**, chefiados por **Apuleio**, manuseiam **mapas cro
 
 A obra introduz também a doutrina do **sexo como qualidade positiva ou passiva cósmica** (cap. 13): "Vejamos o sexo como qualidade positiva ou passiva, emissora ou receptora da alma. [...] Substituamos as palavras 'união sexual' por 'união de qualidades' e observaremos que toda a vida universal se baseia nesse divino fenômeno". Princípio que ressurgirá em *Vida e Sexo* (Emmanuel/Chico, 1970) e em *Evolução em Dois Mundos*. Ver [[wiki/conceitos/planejamento-reencarnatorio]] para a sistematização do bloco.
 
+O capítulo formula dois princípios pastorais complementares, recuperados em palestra por Haroldo Dutra Dias (*O Momento do Recomeço — cap. 13 de Missionários da Luz*):
+
+- **Pedagogia espiritual em oposição ao julgamento.** Diante do desespero de Segismundo às vésperas do retorno, Alexandre o acolhe sem qualquer recriminação: *"Espíritos superiores não ficam julgando pessoas, não recriminam — educam, orientam, explicam, chamam a atenção, dão indicativas."* É a definição operacional da caridade kardequiana (ESE, cap. XV) aplicada à pedagogia interpessoal entre desencarnados. Tratamento completo da pedagogia em [[wiki/personalidades/alexandre]].
+- **A reencarnação apaga histórias, não impressões.** Adelino sofre pesadelos recorrentes com um agressor sem rosto identificável (Segismundo, seu antigo homicida) — sente todo o terror sem qualquer enredo disponível. *"O que a gente esquece quando reencarna são as histórias, não as impressões"* (Haroldo Dutra Dias, palestra). Princípio que confirma narrativamente a fórmula de Léon Denis (*O Problema do Ser*): o passado se acha "sob a forma de impressões, senão de lembranças precisas". Análise integral em [[wiki/questoes/esquecimento-do-passado]].
+
 ### O fracasso (cap. 15)
 
 Caso **Cesarina–Volpíni**: a gestante, dois abortos prévios, recusa o conselho de Apuleio (transmitido pela amiga Francisca sob influxo magnético). Sai a uma "festa de aniversário em pleno bar" no sétimo mês; abusa de álcool e desvios sexuais. Apuleio retira Volpíni do útero antes que o aborto traumático o atinja: "Desliguei o reencarnante do santuário maternal; entretanto, não deveríamos esquecer de ministrar o devido socorro à mãe invigilante. Ela precisa continuar a luta terrestre, quanto possível, para aproveitar alguma coisa da oportunidade". Cesarina dá à luz uma criança morta na manhã seguinte. O capítulo é a contraparte do caso Segismundo: quando a mãe é "criatura repleta de leviandades", a tarefa do plano espiritual não pode evitar o desfecho.
@@ -193,3 +198,4 @@ Personagens secundários sem página própria (mencionados em prosa): Anacleto (
 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. 20 capítulos. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Mdl/MdlPref.htm>
+- DIAS, Haroldo Dutra. *O Momento do Recomeço — cap. 13 de Missionários da Luz*. Canal Espiritualidade e Vida (FEB), 2026. Live semanal da série André Luiz; comentário pastoral do cap. 13 com ênfase na pedagogia de Alexandre e no esquecimento das impressões. Transcrição em [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]].

@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [André Luiz/Chico Xavier]
 tags: [alexandre, espirito-comunicante, andre-luiz, missionarios-da-luz, mediunidade, ministerio-da-comunicacao, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-05-26
 status: rascunho
 ---
 
@@ -20,11 +20,12 @@ Na hierarquia dos orientadores de André Luiz visíveis na série, Alexandre se 
 
 Alexandre conduz André pela quase totalidade dos vinte episódios de *Missionários da Luz*. Sua marca pedagógica é o **magnetismo cooperativo**: ao tocar a fronte ou o braço de André, amplia-lhe a percepção visual para que veja o invisível — a epífise irradiando como "lótus de pétalas sublimes" (cap. 2), as larvas psíquicas das paixões nos centros nervosos dos candidatos a médium (cap. 3), os elementos masculinos competindo pela fecundação (cap. 13), as nuvens de matéria mental tóxica em torno dos órgãos (cap. 19). Não dispensa o esforço próprio do aprendiz; faz-se ponte óptica.
 
-A pedagogia tem três marcas próprias:
+A pedagogia tem quatro marcas próprias:
 
 1. **Não doutrinar antes do tempo** — ao ver os obsidiados em cap. 18 sem cooperação ativa, formula a regra: "Apenas o doente convertido voluntariamente em médico de si mesmo atinge a cura positiva".
 2. **Conter o sentimentalismo do discípulo** — no cap. 8, recusa que André "salve" Marcondes de sítio inferior antes da hora: "um minuto de conversação atenciosa com as tentações pode induzir-nos a perder um século".
 3. **Ausência educadora** — no cap. 20: "Junto do instrutor, o aprendiz, quase sempre, apenas observa. À distância, porém, experimenta e age, vivendo o que aprendeu".
+4. **Educar em vez de julgar** — no cap. 13, diante do desespero de Segismundo às vésperas do retorno, Alexandre o acolhe sem qualquer recriminação. A fórmula condensa o que [[wiki/conceitos/caridade]] kardequiana (ESE, cap. XV) entende por "indulgência para com as imperfeições": *"Espíritos superiores não ficam julgando pessoas, não recriminam — educam, orientam, explicam, chamam a atenção, dão indicativas."* Glosa em palestra por [[wiki/personalidades/haroldo-dutra-dias]] (*O Momento do Recomeço — cap. 13*), que identifica a postura como "o núcleo da caridade genuína".
 
 ### A reencarnação de Segismundo (caps. 13–14)
 
@@ -59,6 +60,8 @@ A formulação tem matriz evangélica explícita ("não me chameis bom; um só �
 
 > "Combatamos a idolatria; bem-queiramo-nos uns aos outros, como Jesus nos amou; todavia, cooperemos contra a insuflação do exclusivismo destruidor." (*Missionários da Luz*, cap. 20)
 
+> "Espíritos superiores não ficam julgando pessoas, não recriminam — educam, orientam, explicam, chamam a atenção, dão indicativas." (Alexandre a Segismundo, *Missionários da Luz*, cap. 13 — glosa de [[wiki/personalidades/haroldo-dutra-dias]])
+
 ## Obras associadas
 
 - [[wiki/obras/missionarios-da-luz]] — orientador da semana de aprendizado fenomenológico de André Luiz num grupo espiritista da Crosta; missionário das atividades de Comunicação.
@@ -77,3 +80,4 @@ A formulação tem matriz evangélica explícita ("não me chameis bom; um só �
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
+- DIAS, Haroldo Dutra. *O Momento do Recomeço — cap. 13 de Missionários da Luz*. Canal Espiritualidade e Vida (FEB), 2026. Glosa da pedagogia de Alexandre. Transcrição em [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]].
