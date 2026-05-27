@@ -6,1915 +6,917 @@
 
 ---
 
-##  — Perdoados, mas não limpos
+## 
 
-> Reunião pública de 4-8-1961.
-> — 1ª Parte — Cap. VII — Item 3 — § 24
-
-Em nossas faltas, na maioria das vezes somos imediatamente perdoados, mas não limpos.
-Fomos perdoados pelo fel da maledicência, mas a sombra que tencionávamos esparzir na estrada alheia permanece dentro de nós por agoniado constrangimento.
-Fomos perdoados pela brasa da calúnia, mas o fogo que arremessamos à cabeça do próximo passa a incendiar-nos o coração.
-Fomos perdoados pelo corte da ofensa, mas a pedra atirada aos irmãos do caminho volta, incontinenti, a lanhar-nos o próprio ser.
-Fomos perdoados pela falha de vigilância, mas o prejuízo em nossos vizinhos cobre-nos de vergonha.
-Fomos perdoados pela manifestação de fraqueza, mas o desastre que provocamos é dor moral que nos segue os dias.
-Fomos perdoados por todos aqueles a quem ferimos, no delírio da violência, mas, onde estivermos, é preciso extinguir os monstros do remorso que os nossos pensamentos articulam, desarvorados.
-Chaga que abrimos na alma de alguém pode ser luz e renovação nesse mesmo alguém, mas será sempre chaga de aflição a pesar-nos na vida.
-Injúria aos semelhantes é azorrague mental que nos chicoteia.
-A serpente carrega consigo o veneno que veicula.
-O escorpião guarda em si próprio a carga venenosa que ele mesmo segrega.
-Ridiculizados, atacados, perseguidos ou dilacerados, evitemos o mal, mesmo quando o mal assuma a feição de defesa, porque todo o mal que fizermos aos outros é mal a nós mesmos.
-Quase sempre aqueles que passaram pelos golpes de nossa irreflexão já nos perdoaram, incondicionalmente, fulgindo nos Planos Superiores;
-no entanto, pela lei de correspondência, ruminamos, por tempo indeterminado, os quadros sinistros que nós mesmos criamos.
-Cada consciência vive e evolve entre os seus próprios reflexos.
-É por isso que Allan Kardec afirmou, convincente, que, depois da morte, até que se redima no campo individual, “para o criminoso a presença incessante das vítimas e das circunstâncias do crime é suplício cruel.”
-
+1 Em nossas faltas, na maioria das vezes somos imediatamente perdoados, mas não limpos.
+2 Fomos perdoados pelo fel da maledicência, mas a sombra que tencionávamos esparzir na estrada alheia permanece dentro de nós por agoniado constrangimento.
+3 Fomos perdoados pela brasa da calúnia, mas o fogo que arremessamos à cabeça do próximo passa a incendiar-nos o coração.
+4 Fomos perdoados pelo corte da ofensa, mas a pedra atirada aos irmãos do caminho volta, incontinenti, a lanhar-nos o próprio ser.
+5 Fomos perdoados pela falha de vigilância, mas o prejuízo em nossos vizinhos cobre-nos de vergonha.
+6 Fomos perdoados pela manifestação de fraqueza, mas o desastre que provocamos é dor moral que nos segue os dias.
+7 Fomos perdoados por todos aqueles a quem ferimos, no delírio da violência, mas, onde estivermos, é preciso extinguir os monstros do remorso que os nossos pensamentos articulam, desarvorados.
+8 Chaga que abrimos na alma de alguém pode ser luz e renovação nesse mesmo alguém, mas será sempre chaga de aflição a pesar-nos na vida.
+9 Injúria aos semelhantes é azorrague mental que nos chicoteia.
+10 A serpente leva consigo a peçonha que veicula.
+11 O escorpião carrega em si próprio a carga venenosa que ele mesmo segrega.
+12 Ridicularizados, atacados, perseguidos ou dilacerados, evitemos o mal, mesmo quando o mal assuma a feição de defesa, porque todo o mal que fizermos aos outros é mal a nós mesmos.
+13 Quase sempre aqueles que passaram pelos golpes de nossa irreflexão já nos perdoaram, incondicionalmente, fulgindo nos Planos Superiores; 14 no entanto, pela lei de correspondência, ruminamos, por tempo indeterminado, os quadros sinistros que nós mesmos criamos.
+15 Cada consciência vive e evolve entre os seus próprios reflexos.
+16 É por isso que Allan Kardec afirmou, convincente, que, depois da morte, até que se redima no campo individual, “para o criminoso a presença incessante das vítimas e das circunstâncias do crime é suplício cruel.” ( † )
 
 ---
 
-##  — Caminho espírita
+## 
 
-Há caminhos, os mais diversos, tanto quanto existem princípios religiosos, os mais diferentes. E se as estradas, sejam quais sejam, expressam-se por vias de comunicação, no Plano Físico, as religiões de qualquer procedência, são vias de intercâmbio, no reino da alma.
-Fácil verificar que se temos caminhos agrestes, nas vastidões do campo, surpreendemos religiões primitivas em paragens remotas da Terra;
-se contamos com estradas particulares, unicamente abertas aos que jazem segregados no critério de elite, identificamos sistemas de fé somente acessíveis aos que se comprazem na ideia exclusivista do privilégio;
-se dispomos de trilhas improvisadas, absolutamente distantes de qualquer sentido de estabilidade ou de ordem, valendo por estreitos esboços de rodovias futuras, encontramos veredas religiosas, fundamentalmente presas à interpretação individual, carecentes de organização e de lógica, simbolizando simples esforços isolados que servirão, de algum modo, à consolidação da verdade no porvir.
-Recorremos a semelhantes imagens para definir a Doutrina Espírita, como sendo atualmente a avenida segura de nossos interesses imperecíveis — lembrando rodovia legalmente constituída ante os Poderes Superiores da Vida —, administrada à luz dos códigos de trânsito, formados na base da justiça igual para a comunidade dos viajantes.
-Nela, a Doutrina Espírita, que revive os ensinamentos do Cristo de Deus, possuímos a Religião Universal do Amor e da Sabedoria, cujas diretrizes funcionam na consciência de cada um, com amparo e orientação para todos e sem favoritismo ou exclusão para ninguém, tão válidos na Terra, quanto em qualquer outro Lar Planetário da imensa família cósmica.
-Ofertando-te, pois, este livro despretensioso, leitor amigo, nada mais fazemos nós, os companheiros desencarnados, que reunir lembretes-sinais de proveito à vossa jornada, através do reino interior da alma, onde, tantas vezes, nos inquietamos, à frente de problemas e desafios, quais encruzilhadas e nevoeiros, induzindo-nos à dificuldades ou à indecisão.
-Estudemo-lo, juntos, nos minutos que nos sobrem, entre os afazeres cotidianos — passos obrigatórios e rápidos a que somos levados na trilha do tempo —, e compreenderemos que o caminho espírita é a estrada real da criatura com todas as indicações exatas para a viagem de nosso aperfeiçoamento e libertação.
-Uberaba, 2 de Janeiro de 1967.
+1 Há caminhos, os mais diversos, tanto quanto existem princípios religiosos, os mais diferentes. E se as estradas, sejam quais sejam, expressam-se por vias de comunicação, no Plano Físico, as religiões de qualquer procedência, são vias de intercâmbio, no reino da alma.
+2 Fácil verificar que se temos caminhos agrestes, nas vastidões do campo, surpreendemos religiões primitivas em paragens remotas da Terra; 3 se contamos com estradas particulares, unicamente abertas aos que jazem segregados no critério de elite, identificamos sistemas de fé somente acessíveis aos que se comprazem na ideia exclusivista do privilégio; 4 se dispomos de trilhas improvisadas, absolutamente distantes de qualquer sentido de estabilidade ou de ordem, valendo por estreitos esboços de rodovias futuras, encontramos veredas religiosas, fundamentalmente presas à interpretação individual, carecentes de organização e de lógica, simbolizando simples esforços isolados que servirão, de algum modo, à consolidação da verdade no porvir.
+5 Recorremos a semelhantes imagens para definir a Doutrina Espírita, como sendo atualmente a avenida segura de nossos interesses imperecíveis, — lembrando rodovia legalmente constituída ante os Poderes Superiores da Vida, — administrada à luz dos códigos de trânsito, formados na base da justiça igual para a comunidade dos viajantes. 6 Nela, a Doutrina Espírita, que revive os ensinamentos do Cristo de Deus, possuímos a Religião Universal do Amor e da Sabedoria, cujas diretrizes funcionam na consciência de cada um, com amparo e orientação para todos e sem favoritismo ou exclusão para ninguém, tão válidos na Terra, quanto em qualquer outro Lar Planetário da imensa família cósmica.
+7 Ofertando-te, pois, este livro despretensioso, leitor amigo, nada mais fazemos nós, os companheiros desencarnados, que reunir lembretes-sinais de proveito à vossa jornada, através do reino interior da alma, onde, tantas vezes, nos inquietamos, à frente de problemas e desafios, quais encruzilhadas e nevoeiros, induzindo-nos à dificuldades ou à indecisão.
+8 Estudemo-lo, juntos, nos minutos que nos sobrem, entre os afazeres cotidianos, — passos obrigatórios e rápidos a que somos levados na trilha do tempo, — e compreenderemos que o caminho espírita é a estrada real da criatura com todas as indicações exatas para a viagem de nosso aperfeiçoamento e libertação.
+Uberaba, 2 de janeiro de 1967.
 
 ---
 
-## 1 — Tua lâmpada
+## 1
 
-Tua fé viva! — tua lâmpada.
-Zelarás por tua lâmpada para que as perturbações do caminho não te mergulhem nas trevas.
-O serviço é a chama que lhe define a vida, a compaixão é o óleo que a sustenta.
-Clareia a estrada para os que se acolhem na sombra e segue adiante!…
-Vê-los-ás tresmalhados no grande tumulto… Entre eles, encontramos:
-
-os que se julgam em liberdade, quando não passam de cativos da ignorância e do ódio;
-
-os que deliram na ambição desregrada, pisando o cairel de pavorosas desilusões;
-
-os que estadeiam soberbia nas eminências do mundo, admitindo-se encouraçados de poder, sem perceberem o abismo que os espreita;
-
-os que fizeram da vida culto incessante a todos os excessos e para quem a morte breve surgirá por freio de contenção…
-E com eles se agitam aqueles outros que desprezaram as vantagens do sofrimento, transformando o benefício da dor em cárcere de revolta;
-
-os que descreram do trabalho e se enredaram no crime;
-
-os que desertaram da consciência atirando-se ao fogo do remorso e os que perderam a fé, incapazes de sentir a bênção de Deus que lhes brilha no coração!…
-Unge de amor o pensamento transviado de todos os que se demoram na retaguarda, enlouquecidos por sinistros enganos e derrama o bálsamo do conforto nas feridas abertas de quantos se afligem na estrada, sob a névoa do desespero!…
-Para isso, não contes dificuldades, nem relaciones angústias. Auxilia e ama sempre.
-Se garras de incompreensão ou de injúria te assaltarem na marcha, entrega os tesouros que carregas, abençoando as mãos que te firam ou te despojem, mas alça a tua flama de confiança e caminha.
-Cada golpe desferido na alma é renovação que aparece, cada espinho que se nos enterra na carne do sonho é flor de verdade a enriquecer-nos o futuro, cada lágrima, vertida nos alimpa a visão!…
-Tua fé viva! — tua lâmpada!…
-Faze-a fulgir, acima de tuas próprias fraquezas, para que, um dia, possas transfigurá-la em estrela de eterna alegria, nos cimos da Grande Luz.
+1 Tua fé viva! — Tua lâmpada. Zelarás por tua lâmpada para que as perturbações do caminho não te mergulhem nas trevas.
+2 O serviço é a chama que lhe define a vida, a compaixão é o óleo que a sustenta.
+3 Clareia a estrada para os que se acolhem na sombra e segue adiante!…
+4 Vê-los-ás tresmalhados no grande tumulto… Entre eles, encontramos: 5 os que se julgam em liberdade, quando não passam de cativos da ignorância e do ódio; 6 os que deliram na ambição desregrada, pisando o cairel de pavorosas desilusões; 7 os que estadeiam soberbia nas eminências do mundo, admitindo-se encouraçados de poder, sem perceberem o abismo que os espreita; 8 os que fizeram da vida culto incessante a todos os excessos e para quem a morte breve surgirá por freio de contenção…
+9 E com eles se agitam aqueles outros que desprezaram as vantagens do sofrimento, transformando o benefício da dor em cárcere de revolta; 10 os que descreram do trabalho e se enredaram no crime; 11 os que desertaram da consciência atirando-se ao fogo do remorso 12 e os que perderam a fé, incapazes de sentir a bênção de Deus que lhes brilha no coração!…
+13 Unge de amor o pensamento transviado de todos os que se demoram na retaguarda, enlouquecidos por sinistros enganos e derrama o bálsamo do conforto nas feridas abertas de quantos se afligem na estrada, sob a névoa do desespero!… Para isso, não contes dificuldades, nem relaciones angústias. Auxilia e ama sempre.
+14 Se garras de incompreensão ou de injúria te assaltarem na marcha, entrega os tesouros que carregas, abençoando as mãos que te firam ou te despojem, mas alça a tua flama de confiança e caminha.
+15 Cada golpe desferido na alma é renovação que aparece, cada espinho que se nos enterra na carne do sonho é flor de verdade a enriquecer-nos o futuro, cada lágrima vertida nos alimpa a visão!…
+16 Tua fé viva! — Tua lâmpada!… Faze-a fulgir, acima de tuas próprias fraquezas, para que, um dia, possas transfigurá-la em estrela de eterna alegria, nos cimos da Grande Luz.
 
 ---
 
-## 2 — Tua mensagem
+## 2
 
-> O EVANGELHO SEGUNDO O ESPIRITISMO
-> — Cap. V — Item 24
-
-Tua mensagem não se constitui apenas do discurso ou do título de cerimônia com que te apresentas no plano convencional; é a essência de tuas próprias ações, a exteriorizar-se de ti, alcançando os outros.
-Sem que percebas, quando te diriges aos companheiros para simples opiniões, em torno de sucessos triviais do cotidiano, estás colocando o teu modo de ser no que dizes;
-ao traçares ligeira frase, num bilhete aparentemente sem importância, derramas o conteúdo moral de teu coração naquilo que escreves;
-articulando referência determinada, posto que breve, apontas o rumo de tuas inclinações;
-em adquirindo isso ou aquilo, entremostras o próprio senso de escolha;
-elegendo distrações, patenteias por elas os interesses que te regem a vida íntima…
-Reflete na mensagem que expedes, diariamente, na direção da comunidade.
-As tuas ideias e comentários, atos e diretrizes voam de ti, ao encontro do próximo, à feição das sementes que são transportadas para longe das árvores que as produzem.
-Cultivemos amor e justiça, compreensão e bondade, no campo do espírito.
-Guarda a certeza de que tudo quanto sintas e penses, fales e realizes é substância real de tua mensagem às criaturas e é claramente pelo que fazes às criaturas que a lei de causa e efeito, na Terra ou noutros mundos, te responde, em zelando por ti.
+1 Tua mensagem não se constitui apenas do discurso ou do título de cerimônia com que te apresentas no plano convencional; é a essência de tuas próprias ações, a exteriorizar-se de ti, alcançando os outros.
+2 Sem que percebas, quando te diriges aos companheiros para simples opiniões, em torno de sucessos triviais do cotidiano, estás colocando o teu modo de ser no que dizes; 3 ao traçares ligeira frase, num bilhete aparentemente sem importância, derramas o conteúdo moral de teu coração naquilo que escreves; 4 articulando referência determinada, posto que breve, apontas o rumo de tuas inclinações; 5 em adquirindo isso ou aquilo, entremostras o próprio senso de escolha; 6 elegendo distrações, patenteias por elas os interesses que te regem a vida íntima…
+7 Reflete na mensagem que expedes, diariamente, na direção da comunidade.
+8 As tuas ideias e comentários, atos e diretrizes voam de ti, ao encontro do próximo, à feição das sementes que são transportadas para longe das árvores que as produzem.
+9 Cultivemos amor e justiça, compreensão e bondade, no campo do espírito.
+10 Guarda a certeza de que tudo quanto sintas e penses, fales e realizes é substância real de tua mensagem às criaturas e é claramente pelo que fazes às criaturas que a lei de causa e efeito, na Terra ou noutros mundos, te responde, em zelando por ti.
 
 ---
 
-## 3 — Dia a dia
+## 3
 
-Nas curtas viagens do dia a dia, todos nós encontramos o próximo, para cuja dificuldade somos o próximo mais próximo.
-Imaginemo-nos, assim, numa excursão de cem passos que nos transporte do lar à rua. Não longe passa um homem que não conseguimos, de imediato, reconhecer. “Quem será?” — perguntamos em pensamento.
-E a Lei de Amor no-lo aponta como alguém que precisa de algo:
-
-se vive em penúria, espera socorro;
-
-se abastado, solicita assistência moral, de maneira a empregar, com justiça, as sobras de que dispõe;
-
-se aflito, pede consolo;
-
-se alegre, reclama apreço fraterno, para manter-se ajustado à ponderação;
-
-se é companheiro, aguarda concurso amigo;
-
-se é adversário, exige respeito;
-
-se benfeitor, requer cooperação;
-
-se malfeitor, demanda piedade;
-
-se doente, requisita remédio;
-
-se é dono de razoável saúde, precisa de apoio a fim de que a preserve;
-
-se ignorante, roga amparo educativo;
-
-se culto, reivindica estímulo ao trabalho, para desentranhar, a benefício dos semelhantes, os tesouros que acumula na inteligência;
-
-se é bom, não prescinde de auxílio para fazer-se melhor;
-
-se é menos bom, espera compaixão, que o integre na dignidade da vida.
-Ante o ensino de Jesus pelo samaritano da caridade,
-poderemos facilmente entender que os outros necessitam de nós, tanto quanto necessitamos dos outros. E, para atender às nossas obrigações, no socorro mútuo, comecemos, à frente de qualquer um, pelo exercício espontâneo da compreensão e da simpatia.
+1 Nas curtas viagens do dia a dia, todos nós encontramos o próximo, para cuja dificuldade somos o próximo mais próximo.
+2 Imaginemo-nos, assim, numa excursão de cem passos que nos transporte do lar à rua. Não longe passa um homem que não conseguimos, de imediato, reconhecer. “Quem será?” — Perguntamos em pensamento.
+3 E a Lei de Amor no-lo aponta como alguém que precisa de algo: 4 se vive em penúria, espera socorro; 5 se abastado, solicita assistência moral, de maneira a empregar, com justiça, as sobras de que dispõe; 6 se aflito, pede consolo; 7 se alegre, reclama apreço fraterno, para manter-se ajustado à ponderação; 8 se é companheiro, aguarda concurso amigo; 9 se é adversário, exige respeito; 10 se benfeitor, requer cooperação; 11 se malfeitor, demanda piedade; 12 se doente, requisita remédio; 13 se é dono de razoável saúde, precisa de apoio a fim de que a preserve; 14 se ignorante, roga amparo educativo; 15 se culto, reivindica estímulo ao trabalho, para desentranhar, a benefício dos semelhantes, os tesouros que acumula na inteligência; 16 se é bom, não prescinde de auxílio para fazer-se melhor; 17 se é menos bom, espera compaixão, que o integre na dignidade da vida.
+18 Ante o ensino de Jesus pelo samaritano da caridade, ( † ) poderemos facilmente entender que os outros necessitam de nós, tanto quanto necessitamos dos outros. E, para atender às nossas obrigações, no socorro mútuo, comecemos, à frente de qualquer um, pelo exercício espontâneo da compreensão e da simpatia.
 
 ---
 
-## 4 — Auxiliemos
+## 4
 
-Auxiliemos os que tombaram em sofrimento!…
-Deixa que a voz deles te alcance a vida. Não te presumas tão longe.
-Frequentemente, o espaço que os distancia não é senão aquele que te separa do lar vizinho.
-Enquanto nos detemos, pensando nas lágrimas que lhes encharcam as horas, é possível estejam a poucos metros de nós, carregando fadiga e desilusão.
-Há os que talvez procurem mostrar um sorriso, após remover os sinais de pranto do rosto desfigurado em penúria
-e os que, não obstante possuírem todos os excessos de uma existência faustosa, acalentam a ideia do suicídio, crendo seja a fuga a única solução para as dificuldades a que se arrojaram imprevidentes.
-Muitos abraçaram empresas delituosas, adquirindo tormentos de espírito, ao pé de outros tantos que escalaram a barranca da vaidade, despencando em precipícios de treva.
-Deixa que te visitem o espelho da consciência!…
-Vê-los-ás, sentindo-te por baliza de extensa caravana da angústia!…
-Dói contemplar não somente os adultos algemados à provação, mas também as crianças e jovens espoliados de afeto, que a necessidade, em muitas ocasiões, relega ao espinheiro da enfermidade ou à vala do vício!…
-Se desfrutas saúde, se tens algum tempo disponível, se possuis influência ou se reténs essa ou aquela sobra da bolsa, colabora para que se reduzam o desespero e a aflição que ainda lavram na Terra!…
-Não exijas, porém, a alheia gratidão para auxiliar.
-Ainda mesmo que os necessitados de teu concurso transportem no peito corações empedernidos na sombra do mal, dos quais não te é lícito aproximar, por enquanto, a fim de que não patrocines a irreflexão ou a desordem, ora por eles e ampara-os, de maneira indireta!
-As mães dos obsessores e dos ingratos, ainda quando desencarnadas, estão vivas!… Elas vibram de esperança e felicidade com os teus gestos de amor e te dirão, em preces de alegria, no silêncio da alma: “Deus te guarde e abençoe!”
+1 Auxiliemos os que tombaram em sofrimento!…
+2 Deixa que a voz deles te alcance a vida. Não te presumas tão longe.
+3 Frequentemente, o espaço que os distancia não é senão aquele que te separa do lar vizinho.
+4 Enquanto nos detemos, pensando nas lágrimas que lhes encharcam as horas, é possível estejam a poucos metros de nós, carregando fadiga e desilusão.
+5 Há os que talvez procurem mostrar um sorriso, após remover os sinais de pranto do rosto desfigurado em penúria 6 e os que, não obstante possuírem todos os excessos de uma existência faustosa, acalentam a ideia do suicídio, crendo seja a fuga a única solução para as dificuldades a que se arrojaram imprevidentes.
+7 Muitos abraçaram empresas delituosas, adquirindo tormentos de espírito, ao pé de outros tantos que escalaram a barranca da vaidade, despencando em precipícios de treva.
+8 Deixa que te visitem o espelho da consciência!… Vê-los-ás, sentindo-te por baliza de extensa caravana da angústia!…
+9 Dói contemplar não somente os adultos algemados à provação, mas também as crianças e jovens espoliados de afeto, que a necessidade, em muitas ocasiões, relega ao espinheiro da enfermidade ou à vala do vício!…
+10 Se desfrutas saúde, se tens algum tempo disponível, se possuis influência ou se reténs essa ou aquela sobra da bolsa, colabora para que se reduzam o desespero e a aflição que ainda lavram na Terra!…
+11 Não exijas, porém, a alheia gratidão para auxiliar.
+12 Ainda mesmo que os necessitados de teu concurso transportem no peito corações empedernidos na sombra do mal, dos quais não te é lícito aproximar, por enquanto, a fim de que não patrocines a irreflexão ou a desordem, ora por eles e ampara-os, de maneira indireta!
+13 As mães dos obsessores e dos ingratos, ainda quando desencarnadas, estão vivas!… Elas vibram de esperança e felicidade com os teus gestos de amor e te dirão, em preces de alegria, no silêncio da alma: “Deus te guarde e abençoe!”
 
 ---
 
-## 5 — Não te impacientes
+## 5
 
-A Paternidade Divina é amor e justiça para todas as criaturas.
-Quando os problemas do mundo te afogueiam a alma, não abras o coração à impaciência, que ela é capaz de arruinar-te a confiança.
-Quantos perderam as melhores oportunidades da reencarnação, unicamente por se haverem abraçado com o desespero!
-A impaciência é comparável à força negativa que, muitas vezes, inclina o enfermo para a morte, justamente no dia em que o organismo entra em recuperação para a cura.
-Se queres o fruto, não despetales a flor.
-Nas situações embaraçosas, medita caridosamente nos empeços que lhe deram origem!
-Se um irmão faltou ao dever, reflete nas dificuldades que se interpuseram entre ele e os compromissos assumidos.
-Se alguém te nega um favor, não te acolhas a desânimo ou frustração, de vez que, enquanto não chegarmos ao Plano da Luz Divina, nem sempre nos será possível conhecer, de antemão, tudo o de bom ou de mal que poderá sobrevir daquilo que nós pedimos.
-Não te irrites diante de qualquer obstáculo, porquanto reclamações ou censuras servirão apenas para torná-los maiores.
-Quase sempre a longa expectativa, em torno de certas concessões que disputamos, não é senão o amadurecimento do assunto para que não falhem minudências importantes.
-
-Não queremos dizer que será mais justo te acomodes à inércia. Desejamos asseverar que impaciência é precipitação e precipitação redunda em violência.
-Para muitos, a serenidade é a preguiça vestida de belas palavras.
-Os que vivem, porém, acordados para as responsabilidades que lhes são próprias sabem que paciência é esperança operosa: recebem obstáculos por ocasiões de trabalho e provações por ensinamentos.
-Aguarda o melhor da vida, oferecendo à vida o melhor que puderes.
-O lavrador fiel ao serviço espera a colheita, zelando a plantação.
-A casa nasce dos alicerces, mas, para completar-se pede atividades e esforços de acabamento.
-Não te irrites.
-Quem trabalha pode contar com o tempo.
-Se a crise sobrevém na obra a que te consagras, pede a Deus não apenas te abençoe a realização em andamento, mas também a força precisa para que saibas compreender e servir, suportar e esperar.
+1 A Paternidade Divina é amor e justiça para todas as criaturas.
+2 Quando os problemas do mundo te afogueiam a alma, não abras o coração à impaciência, que ela é capaz de arruinar-te a confiança.
+3 Quantos perderam as melhores oportunidades da reencarnação, unicamente por se haverem abraçado com o desespero!
+4 A impaciência é comparável à força negativa que, muitas vezes, inclina o enfermo para a morte, justamente no dia em que o organismo entra em recuperação para a cura.
+5 Se queres o fruto, não despetales a flor.
+6 Nas situações embaraçosas, medita caridosamente nos empeços que lhe deram origem! 7 Se um irmão faltou ao dever, reflete nas dificuldades que se interpuseram entre ele e os compromissos assumidos. 8 Se alguém te nega um favor, não te acolhas a desânimo ou frustração, de vez que, enquanto não chegarmos ao Plano da Luz Divina, nem sempre nos será possível conhecer, de antemão, tudo o de bom ou de mal que poderá sobrevir daquilo que nós pedimos. 9 Não te irrites diante de qualquer obstáculo, porquanto reclamações ou censuras servirão apenas para torná-los maiores.
+10 Quase sempre a longa expectativa, em torno de certas concessões que disputamos, não é senão o amadurecimento do assunto para que não falhem minudências importantes.
+11 Não queremos dizer que será mais justo te acomodes à inércia. Desejamos asseverar que impaciência é precipitação e precipitação redunda em violência.
+12 Para muitos, a serenidade é a preguiça vestida de belas palavras. 13 Os que vivem, porém, acordados para as responsabilidades que lhes são próprias sabem que paciência é esperança operosa: recebem obstáculos por ocasiões de trabalho e provações por ensinamentos.
+14 Aguarda o melhor da vida, oferecendo à vida o melhor que puderes.
+15 O lavrador fiel ao serviço espera a colheita, zelando a plantação.
+16 A casa nasce dos alicerces, mas, para completar-se pede atividades e esforços de acabamento.
+17 Não te irrites. Quem trabalha pode contar com o tempo. 18 Se a crise sobrevém na obra a que te consagras, pede a Deus não apenas te abençoe a realização em andamento, mas também a força precisa para que saibas compreender e servir, suportar e esperar.
 
 ---
 
-## 6 — Todos podemos
+## 6
 
-
-Nem todos revelamos grandeza, mas todos podemos cultivar humildade.
-
-Nem todos demonstramos conhecimentos superiores, mas todos podemos estudar.
-
-Nem todos conseguimos sustentar, economicamente, as boas obras, mas todos podemos efetuar essa ou aquela prestação de serviço.
-
-Nem todos guardamos a competência ou o dom de curar, mas todos podemos, de um modo ou de outro, auxiliar aos nossos irmãos enfermos.
-
-Nem todos estamos habilitados para mandar, mas todos podemos servir.
-
-Nem todos somos heróis, mas todos podemos ser sinceros, justos e bons.
-
-Nem todos nos achamos em condições de realizar muito no socorro aos que sofrem, mas todos podemos oferecer algo de nós, em favor deles.
-Espíritas, irmãos! Não alegueis indigência, pequenez, fraqueza, incapacidade ou ignorância para desertar do trabalho a que somos chamados. Comecemos, desde agora, a edificação do Reino de Deus, em nós e em torno de nós, através do serviço que já possamos fazer.
+1 Nem todos revelamos grandeza, mas todos podemos cultivar humildade. 2 Nem todos demonstramos conhecimentos superiores, mas todos podemos estudar. 3 Nem todos conseguimos sustentar, economicamente, as boas obras, mas todos podemos efetuar essa ou aquela prestação de serviço. 4 Nem todos guardamos a competência ou o dom de curar, mas todos podemos, de um modo ou de outro, auxiliar aos nossos irmãos enfermos. 5 Nem todos estamos habilitados para mandar, mas todos podemos servir. 6 Nem todos somos heróis, mas todos podemos ser sinceros, justos e bons. 7 Nem todos nos achamos em condições de realizar muito no socorro aos que sofrem, mas todos podemos oferecer algo de nós, em favor deles.
+8 Espíritas, irmãos! Não alegueis indigência, pequenez, fraqueza, incapacidade ou ignorância para desertar do trabalho a que somos chamados. Comecemos, desde agora, a edificação do Reino de Deus, em nós e em torno de nós, através do serviço que já possamos fazer.
 
 ---
 
-## 7 — Não perca
+## 7
 
-Não perca a esperança.
-Há milhões de pessoas aguardando os recursos de que você já dispõe.
-Não perca o bom humor.
-Em qualquer acesso de irritação, há sempre um suicidiozinho no campo de suas forças.
-Não perca a tolerância.
-É muita gente a tolerar você naquilo que você ainda tem de indesejável.
-Não perca a serenidade.
-O problema pode não ser assim tão difícil quanto você pensa.
-Não perca a humildade.
-Além da planície, surge a montanha, e, depois da montanha, aparece o horizonte infinito.
-Não perca o estudo.
-A própria morte é lição.
-Não perca a oportunidade de servir aos semelhantes.
-Hoje ou amanhã, você precisará de concurso alheio.
-Não perca tempo.
-Os dias voltam, mas os minutos são outros.
-Não perca a paciência.
-Recorde a paciência inesgotável de Deus.
+1 Não perca a esperança. Há milhões de pessoas aguardando os recursos de que você já dispõe.
+2 Não perca o bom humor. Em qualquer acesso de irritação, há sempre um suicidiozinho no campo de suas forças.
+3 Não perca a tolerância. É muita gente a tolerar você naquilo que você ainda tem de indesejável.
+4 Não perca a serenidade. O problema pode não ser assim tão difícil quanto você pensa.
+5 Não perca a humildade. Além da planície, surge a montanha, e, depois da montanha, aparece o horizonte infinito.
+6 Não perca o estudo. A própria morte é lição.
+7 Não perca a oportunidade de servir aos semelhantes. Hoje ou amanhã, você precisará de concurso alheio.
+8 Não perca tempo. Os dias voltam, mas os minutos são outros.
+9 Não perca a paciência. Recorde a paciência inesgotável de Deus.
 
 ---
 
-## 8 — Apelo espírita
+## 8
 
-Irmão, faze:
-de cada ensinamento que recebes uma instrução do Plano Superior;
-
-de cada tarefa, por mínima que seja, uma realização em que deixes os melhores sinais de tua presença;
-
-de cada conversão, um entendimento construtivo;
-
-de cada conversação, um mensageiro de tua cooperação, no levantamento da felicidade geral;
-
-de cada relação nova, uma sementeira de bênçãos;
-
-de cada necessitado, um irmão que te espera o auxílio, em nome da Divina Paternidade;
-
-de cada desapontamento, um teste de compreensão;
-
-de cada experiência, um ensejo de aprender;
-
-de cada hora, uma oportunidade de servir…
-Companheiro da Terra, és o viajor em trânsito na hospedaria do mundo!…Guarda o coração e a consciência, na prática do bem, de tal modo, que possas receber, com o despertar de cada manhã, um novo renascimento na casa física e, no descanso de cada noite, um ensaio de regresso tranquilo ao teu lar verdadeiro, na Vida Espiritual.
+1 Irmão, faze: de cada ensinamento que recebes uma instrução do Plano Superior; 2 de cada tarefa, por mínima que seja, uma realização em que deixes os melhores sinais de tua presença; 3 de cada conversão, um entendimento construtivo; 4 de cada conversação, um mensageiro de tua cooperação, no levantamento da felicidade geral; 5 de cada relação nova, uma sementeira de bênçãos; 6 de cada necessitado, um irmão que te espera o auxílio, em nome da Divina Paternidade; 7 de cada desapontamento, um teste de compreensão; 8 de cada experiência, um ensejo de aprender; 9 de cada hora, uma oportunidade de servir…
+10 Companheiro da Terra, és o viajor em trânsito na hospedaria do mundo!…Guarda o coração e a consciência, na prática do bem, de tal modo, que possas receber, com o despertar de cada manhã, um novo renascimento na casa física e, no descanso de cada noite, um ensaio de regresso tranquilo ao teu lar verdadeiro, na Vida Espiritual.
 
 ---
 
-## 9 — Contrassensos
+## 9
 
-> Reunião pública de 17-11-1961.
-> — 1ª Parte — Cap. I — Item 2
-
-Quando a gota se viu semelhante a uma gema valiosa, na folhagem da primavera, insultou o rio em que se formara: Sai da frente, monstro do chão.
-Quando o tronco se agigantou diante do firmamento, blasfemou contra a própria raiz: Não me sujes os pés.
-Quando o vaso passou pela cerâmica em que nascera, gritou, revoltado: Não suporto essa lama.
-Quando o ouro se ajustou ao palácio, indagou da terra que o produzira: Que fazes aí, barro escuro?
-Quando a seda brilhou, na pompa da festa, disse à lagarta que lhe dera a existência: Não te conheço, larva mesquinha.
-Quando a pérola fulgiu, soberana, exigiu da ostra em que se criara: Não te abeires de mim.
-Quando o arco-íris se reconheceu admirado pelo pintor, acusou o sol de que se fizera: Não me roubes a luz.
-Copiando esses contrassensos figurados da natureza, o homem insensato, quando erguido ao pedestal do orgulho pelos abusos da inteligência; costuma escarnecer de si próprio, afirmando jactancioso: A vida é poeira e nada, e Deus é ilusão.
+1 Quando a gota se viu semelhante a uma gema valiosa, na folhagem da primavera, insultou o rio em que se formara: Sai da frente, monstro do chão.
+2 Quando o tronco se agigantou diante do firmamento, blasfemou contra a própria raiz: Não me sujes os pés.
+3 Quando o vaso passou pela cerâmica em que nascera, gritou, revoltado: Não suporto essa lama.
+4 Quando o ouro se ajustou ao palácio, indagou da terra que o produzira: Que fazes aí, barro escuro?
+5 Quando a seda brilhou, na pompa da festa, disse à lagarta que lhe dera a existência: Não te conheço, larva mesquinha.
+6 Quando a pérola fulgiu, soberana, exigiu da ostra em que se criara: Não te abeires de mim.
+7 Quando o arco-íris se reconheceu admirado pelo pintor, acusou o sol de que se fizera: Não me roubes a luz.
+8 Copiando esses contrassensos figurados da natureza, o homem insensato, quando erguido ao pedestal do orgulho pelos abusos da inteligência; costuma escarnecer de si próprio, afirmando jactancioso: “A vida é poeira e nada, e Deus é ilusão.”
 
 ---
 
-## 10 — Exercício de compaixão
+## 10
 
-
-Se fosses o pedinte agoniado que estende a mão à bondade pública…
-
-Se fosses a mãezinha infeliz, atormentada pelo choro dos filhinhos que desfalecem de fome….
-
-Se fosses a criança que vagueia desprotegida à margem do lar…
-
-Se fosses o pai de família atribulado, ante a doença e penúria que lhe devastam a casa…
-
-Se fosses o enfermo desamparado, suplicando remédio…
-
-Se fosses a criatura caída em desvalimento, implorando compreensão…
-
-Se fosses o obsidiado, carregando inomináveis suplícios interiores, para desvencilhar-se das trevas…
-
-Se fosses o velhinho atirado às incertezas da rua…
-
-Se fosses o necessitado que te roga socorro, decerto perceberias com mais segurança a função da fraternidade para sustento da vida.
-
-Se estivéssemos no lado da dificuldade maior que a nossa, compreenderíamos, de imediato, o imperativo da caridade incessante e do auxílio mútuo.
-Reflitamos nisso. E nós, que nos afeiçoamos a estudos diversos, com vistas à edificação da felicidade e ao aperfeiçoamento do mundo, façamos quanto possível, semelhante exercício de compaixão.
+1 Se fosses o pedinte agoniado que estende a mão à bondade pública… 2 Se fosses a mãezinha infeliz, atormentada pelo choro dos filhinhos que desfalecem de fome…. 3 Se fosses a criança que vagueia desprotegida à margem do lar… 4 Se fosses o pai de família atribulado, ante a doença e penúria que lhe devastam a casa… 5 Se fosses o enfermo desamparado, suplicando remédio… 6 Se fosses a criatura caída em desvalimento, implorando compreensão… 7 Se fosses o obsidiado, carregando inomináveis suplícios interiores, para desvencilhar-se das trevas… 8 Se fosses o velhinho atirado às incertezas da rua… 9 Se fosses o necessitado que te roga socorro, decerto perceberias com mais segurança a função da fraternidade para sustento da vida. 10 Se estivéssemos no lado da dificuldade maior que a nossa, compreenderíamos, de imediato, o imperativo da caridade incessante e do auxílio mútuo.
+11 Reflitamos nisso. E nós, que nos afeiçoamos a estudos diversos, com vistas à edificação da felicidade e ao aperfeiçoamento do mundo, façamos quanto possível, semelhante exercício de compaixão.
 
 ---
 
-## 11 — Kardec
+## 11
 
-Lembrando o Codificador da Doutrina Espírita, é imperioso estejamos alertas em nossos deveres fundamentais.
-Convençamo-nos de que é necessário:
-sentir Kardec;
-estudar Kardec;
-anotar Kardec;
-meditar Kardec;
-analisar Kardec;
-comentar Kardec;
-interpretar Kardec;
-cultivar Kardec;
-ensinar Kardec;
-divulgar Kardec…
-Que é preciso cristianizar a Humanidade é afirmação que não padece dúvida; entretanto, cristianizar, na Doutrina Espírita, é raciocinar com a verdade e construir com o bem de todos, para que, em nome de Jesus, não venhamos a fazer sobre a Terra mais um sistema de fanatismo e de negação.
+1 Lembrando o Codificador da Doutrina Espírita, é imperioso estejamos alertas em nossos deveres fundamentais.
+2 Convençamo-nos de que é necessário: sentir Kardec; estudar Kardec; anotar Kardec; meditar Kardec; analisar Kardec; comentar Kardec; interpretar Kardec; cultivar Kardec; ensinar Kardec; divulgar Kardec…
+3 Que é preciso cristianizar a Humanidade é afirmação que não padece dúvida; entretanto, cristianizar, na Doutrina Espírita, é raciocinar com a verdade e construir com o bem de todos, para que, em nome de Jesus, não venhamos a fazer sobre a Terra mais um sistema de fanatismo e de negação.
 
 ---
 
-## 12 — Mediunidade e estudo
+## 12
 
-O dinheiro em si não é bom, nem mau.
-Instrumento neutro, é capaz de criar a abastança ou estimular a miséria, dependendo isso daqueles que o retêm.
-A eletricidade em si não é boa, nem má.
-Energia neutra, é capaz de engrandecer o trabalho ou precipitar o desastre, dependendo isso daqueles que a manejam.
-O magnetismo em si não é bom, nem mau.
-Agente neutro, é capaz de gerar o bem ou produzir o mal, dependendo isso daqueles que o dirigem.
-Assim também, é a mediunidade, que não é boa e nem má em si mesma.
-Força neutra, é capaz de promover a educação ou acalentar a ignorância, dependendo isso daqueles que a usufruem.
-Para o emprego louvável do dinheiro, contamos com os preceitos morais que patrocinam o aperfeiçoamento da alma;
-para a utilização correta da eletricidade, possuímos os princípios de ciência que a controlam na Natureza;
-para a sublimação do magnetismo, temos as leis da responsabilidade pessoal que honorificam a consciência;
-e, para a justa aplicação da mediunidade, dispomos dos ensinamentos do Espiritismo, consubstanciando a religião da justiça e do amor que ilumina todos os distritos do Universo.
-Irmãos, estudemos a Doutrina Espírita, a fim de que possamos compreender médiuns, mediunidades e fenômenos mediúnicos.
+1 O dinheiro em si não é bom, nem mau. Instrumento neutro, é capaz de criar a abastança ou estimular a miséria, dependendo isso daqueles que o retêm.
+2 A eletricidade em si não é boa, nem má. Energia neutra, é capaz de engrandecer o trabalho ou precipitar o desastre, dependendo isso daqueles que a manejam.
+3 O magnetismo em si não é bom, nem mau. Agente neutro, é capaz de gerar o bem ou produzir o mal, dependendo isso daqueles que o dirigem.
+4 Assim também, é a mediunidade, que não é boa e nem má em si mesma. Força neutra, é capaz de promover a educação ou acalentar a ignorância, dependendo isso daqueles que a usufruem.
+5 Para o emprego louvável do dinheiro, contamos com os preceitos morais que patrocinam o aperfeiçoamento da alma; 6 para a utilização correta da eletricidade, possuímos os princípios de ciência que a controlam na Natureza; 7 para a sublimação do magnetismo, temos as leis da responsabilidade pessoal que honorificam a consciência; 8 e, para a justa aplicação da mediunidade, dispomos dos ensinamentos do Espiritismo, consubstanciando a religião da justiça e do amor que ilumina todos os distritos do Universo.
+9 Irmãos, estudemos a Doutrina Espírita, a fim de que possamos compreender médiuns, mediunidades e fenômenos mediúnicos.
 
 ---
 
-## 13 — Rogativa do outro
+## 13
 
-Sei que te feri sem querer, em meu gesto impensado.
-Pretendias apoio e falhei, quando mais necessitavas de arrimo. Aguardavas alegria e consolo, através de meus lábios, e esmaguei-te a esperança…
-Entretanto, volto a ver-te e rogo humildemente para que me perdoes.
-Ouviste-me a palavra correta e julgaste-me em plena luz sem perceber o espinheiro de sombra encravado em minhalma. Reparaste-me o traje festivo, mas não viste as chagas de desencanto e fraqueza que ainda trago no coração.
-Às vezes, encorajo muitos daqueles que me procuram, fatigados de pranto, não por méritos que não tenho e sim esparzindo os tesouros de amor dos Espíritos generosos que me sustentam, contudo, justamente na hora em que me buscaste, chorava sem lágrimas, nas últimas raias da solidão. Talvez por isso não encontrei comigo senão frieza para ofertar-te.
-Revela-me o desespero quando me pedias brandura e desculpa-me o haver-te dado reprovação, quando esperavas entendimento.
-Deixa, porém, que eu te abrace de novo e, então, lerás em meus olhos, estas breves palavras que me pararam na boca: perdoa-me a falta e tem dó de mim.
-
----
-
-## 14 — Reflexão espírita
-
-Recordemos algumas das grandes
-da Espiritualidade Superior, no campo da vida, junto aos complementos que lhe são necessários:
-
-oração e serviço;
-
-ensino e exemplo;
-
-amor e construção;
-
-verdade e auxílio;
-
-fé e esclarecimento;
-
-paz e trabalho;
-
-cultura e préstimo;
-
-estudo e discernimento;
-
-entusiasmo e equilíbrio;
-
-confiança e diligência;
-
-renovação e melhoria;
-
-advertência e compreensão;
-
-tempo e proveito;
-
-vigilância e caridade.
-Reflitamos no assunto, porque, se a Doutrina Espírita nos induz à convicção na imortalidade, semelhante convicção vale pouco sem ação que lhe dê coerência.
+1 Sei que te feri sem querer, em meu gesto impensado.
+2 Pretendias apoio e falhei, quando mais necessitavas de arrimo. Aguardavas alegria e consolo, através de meus lábios, e esmaguei-te a esperança…
+3 Entretanto, volto a ver-te e rogo humildemente para que me perdoes.
+4 Ouviste-me a palavra correta e julgaste-me em plena luz sem perceber o espinheiro de sombra encravado em minhalma. Reparaste-me o traje festivo, mas não viste as chagas de desencanto e fraqueza que ainda trago no coração.
+5 Às vezes, encorajo muitos daqueles que me procuram, fatigados de pranto, não por méritos que não tenho e sim esparzindo os tesouros de amor dos Espíritos generosos que me sustentam, contudo, justamente na hora em que me buscaste, chorava sem lágrimas, nas últimas raias da solidão. Talvez por isso não encontrei comigo senão frieza para ofertar-te.
+6 Releva-me o desespero quando me pedias brandura e desculpa-me o haver-te dado reprovação, quando esperavas entendimento.
+7 Deixa, porém, que eu te abrace de novo e, então, lerás em meus olhos, estas breves palavras que me pararam na boca: perdoa-me a falta e tem dó de mim.
 
 ---
 
-## 15 — Livro espírita e vida
+## 14
 
-O pão elimina a fome.
-O livro espírita suprime a penúria rural.
-O traje compõe o exterior.
-O livro espírita harmoniza o íntimo.
-O teto abriga da intempérie.
-O livro espírita resguarda a criatura contra os perigos da obsessão.
-O remédio exclui a enfermidade.
-O livro espírita reanima o doente.
-A cirurgia reajusta os tecidos celulares.
-O livro espírita reequilibra os processos da consciência.
-A devoção prepara e consola.
-O livro espírita reconforta e explica.
-A arte distrai e enternece.
-O livro espírita purifica a emoção e impele ao raciocínio.
-A conversação amiga e edificante exige ambiente e ocasião para socorrer os necessitados da alma.
-O livro espírita faz isso em qualquer lugar e em qualquer tempo.
-A força corrige.
-O livro espírita renova.
-O alfabeto instrui.
-O livro espírita ilumina o pensamento.
-Certamente é dever nosso criar e desenvolver todos os recursos humanos que nos sustentem, e dignifiquem a vida na Terra de hoje;
-todavia, quanto nos seja possível, auxiliemos a manutenção e a difusão do livro espírita que nos sustenta e dignifica a vida imperecível, libertando-nos da sombra para a luz, no Plano Físico e na Esfera Espiritual, aqui e agora, depois e sempre.
+1 Recordemos algumas das grandes palavras legendas da Espiritualidade Superior, no campo da vida, junto aos complementos que lhe são necessários: 2 oração e serviço; 3 ensino e exemplo; 4 amor e construção; 5 verdade e auxílio; 6 fé e esclarecimento; 7 paz e trabalho; 8 cultura e préstimo; 9 estudo e discernimento; 10 entusiasmo e equilíbrio; 11 confiança e diligência; 12 renovação e melhoria; 13 advertência e compreensão; 14 tempo e proveito; 15 vigilância e caridade.
+16 Reflitamos no assunto, porque, se a Doutrina Espírita nos induz à convicção na imortalidade, semelhante convicção vale pouco sem ação que lhe dê coerência.
 
 ---
 
-## 16 — Rota espírita
+## 15
 
-Erguer-se de manhã e bendizer a vida.
-Espalhar ao redor a presença do bem.
-Escutar calmamente as notícias da hora.
-Dar a palavra amiga.
-Ajudar conversando.
-Dispor o coração a servir sem perguntas.
-Fazer mais que o dever na tarefa em que esteja.
-Suportar sem revolta as provações em curso.
-Apagar a discórdia e liquidar problemas.
-Estudar e entender.
-Discernir e elevar.
-Render culto à Verdade entre bênçãos de amor.
-Ver o direito alheio e respeitá-lo em tudo.
-Ser fiel ao trabalho e esquecer as ofensas.
-Amar fraternalmente a todas as criaturas.
-Acender cada noite as estrelas da paz no abrigo da consciência em preces de alegria.
-— Eis a rota ideal na jornada constante do espírita-cristão, à luz de cada dia.
+1 O pão elimina a fome. O livro espírita suprime a penúria moral. n
+2 O traje compõe o exterior. O livro espírita harmoniza o íntimo.
+3 O teto abriga da intempérie. O livro espírita resguarda a criatura contra os perigos da obsessão.
+4 O remédio exclui a enfermidade. O livro espírita reanima o doente.
+5 A cirurgia reajusta os tecidos celulares. O livro espírita reequilibra os processos da consciência.
+6 A devoção prepara e consola. O livro espírita reconforta e explica.
+7 A arte distrai e enternece. O livro espírita purifica a emoção e impele ao raciocínio.
+8 A conversação amiga e edificante exige ambiente e ocasião para socorrer os necessitados da alma. O livro espírita faz isso em qualquer lugar e em qualquer tempo.
+9 A força corrige. O livro espírita renova.
+10 O alfabeto instrui. O livro espírita ilumina o pensamento.
+11 Certamente é dever nosso criar e desenvolver todos os recursos humanos que nos sustentem, e dignifiquem a vida na Terra de hoje; 12 todavia, quanto nos seja possível, auxiliemos a manutenção e a difusão do livro espírita que nos sustenta e dignifica a vida imperecível, libertando-nos da sombra para a luz, no Plano Físico e na Esfera Espiritual, aqui e agora, depois e sempre.
 
 ---
 
-## 17 — Em todos os caminhos
+## 16
 
-> O EVANGELHO SEGUNDO O ESPIRITISMO
-> — Cap. XVIII — Item 10
-
-Seja qual for a experiência, convence-te de que Deus está conosco em todos os caminhos.
-Isso não significa omissão de responsabilidade ou exoneração da incumbência de que o Senhor nos revestiu.
-Não há consciência sem compromisso, como não existe dignidade sem lei.
-O peixe mora gratuitamente na água, mas deve nadar por si mesmo.
-A árvore, embora não pague imposto pelo solo em que se vincula, é chamada a produzir conforme a espécie.
-Ninguém recebe talentos da vida para escondê-los em poeira ou ferrugem.
-Nasceste para realizar o melhor. Para isso, é possível te defrontes com embaraços naturais ao próprio burilamento, qual a criança que se esfalfa compreensivelmente nos exercícios da escola.
-A criança atravessa as provas do aprendizado sob a cobertura da educação que transparece do professor. Desempenhamos as nossas funções com o apoio de Deus.
-Se o conhecimento exato da Onipresença Divina ainda não te acode à mente necessitada de fé, pensa no infinito das bênçãos que te envolvem, sem que despendas mínimo esforço.
-Não contrataste engenheiros para a garantia do sol que te sustenta e nem assalariaste empregados para a escavação de minas de oxigênio na atmosfera, a fim de que se renove o ar que respiras.
-Reflete, por um momento só, nas riquezas ilimitadas ao teu dispor, nos reservatórios da Natureza, e compreenderás que ninguém vive só.
-Confia, segue, trabalha e constrói para o bem. E guarda a certeza de que, para alcançar a felicidade, se fazes teu dever, Deus faz o resto.
+1 Erguer-se de manhã e bendizer a vida. 2 Espalhar ao redor a presença do bem. 3 Escutar calmamente as notícias da hora. 4 Dar a palavra amiga. 5 Ajudar conversando. 6 Dispor o coração a servir sem perguntas. 7 Fazer mais que o dever na tarefa em que esteja. 8 Suportar sem revolta as provações em curso. 9 Apagar a discórdia e liquidar problemas. 10 Estudar e entender. 11 Discernir e elevar. 12 Render culto à Verdade entre bênçãos de amor. 13 Ver o direito alheio e respeitá-lo em tudo. 14 Ser fiel ao trabalho e esquecer as ofensas. 15 Amar fraternalmente a todas as criaturas.
+16 Acender cada noite as estrelas da paz no abrigo da consciência em preces de alegria. — Eis a rota ideal na jornada constante do espírita-cristão, à luz de cada dia.
 
 ---
 
-## 18 — Receita espírita
+## 17
 
-Pensamento sombrio?
-Alguns instantes de prece.
-Irritação?
-Silêncio de meia hora pelo menos.
-Tristeza?
-Ampliação voluntária da quota de trabalho habitual.
-Impulso à crítica destrutiva?
-Observemos as nossas próprias fraquezas.
-Desejo de censurar o próximo?
-Um olhar para dentro de nós mesmos.
-Solidão?
-Auxiliar a alguém que, em relação a nós, talvez se encontre mais sozinho.
-Tédio?
-Visita a um hospital para que se possa medir a próprias vantagens.
-Ofensa?
-Perdoar e servir mais amplamente.
-Ressentimento?
-Olvido de todo mal.
-Fracasso?
-Voltar às boas obras e começar outra vez.
+1 Seja qual seja a experiência, convence-te de que Deus está conosco em todos os caminhos.
+2 Isso não significa omissão de responsabilidade ou exoneração da incumbência de que o Senhor nos revestiu. 3 Não há consciência sem compromisso, como não existe dignidade sem lei.
+4 O peixe mora gratuitamente na água, mas deve nadar por si mesmo. 5 A árvore, embora não pague imposto pelo solo em que se vincula, é chamada a produzir conforme a espécie.
+6 Ninguém recebe talentos da vida para escondê-los em poeira ou ferrugem.
+7 Nasceste para realizar o melhor. Para isso, é possível te defrontes com embaraços naturais ao próprio burilamento, qual a criança que se esfalfa compreensivelmente nos exercícios da escola. 8 A criança atravessa as provas do aprendizado sob a cobertura da educação que transparece do professor. Desempenhamos as nossas funções com o apoio de Deus.
+9 Se o conhecimento exato da Onipresença Divina ainda não te acode à mente necessitada de fé, pensa no infinito das bênçãos que te envolvem, sem que despendas mínimo esforço. 10 Não contrataste engenheiros para a garantia do sol que te sustenta e nem assalariaste empregados para a escavação de minas de oxigênio na atmosfera, a fim de que se renove o ar que respiras.
+11 Reflete, por um momento só, nas riquezas ilimitadas ao teu dispor, nos reservatórios da Natureza, e compreenderás que ninguém vive só.
+12 Confia, segue, trabalha e constrói para o bem. E guarda a certeza de que, para alcançar a felicidade, se fazes teu dever, Deus faz o resto.
 
 ---
 
-## 19 — Enfermidade
+## 18
 
-Enquanto nos escasseie educação, nos domínios da mente, a enfermidade por mortificação involuntária, desempenhará expressivo papel em nossa vida espiritual.
-Na maioria das circunstâncias, somos nós quem lhe pede a presença e o concurso, antes da reencarnação, no campo da existência física, à maneira do viajor, encomendando recursos de segurança para a travessia do mar;
-e, em ocasiões outras, ela constitui auxílio de urgência, promovido pela bondade dos amigos, que se erigem, nas Esferas Superiores, à condição de patronos da nossa libertação para a Vida Maior.
-À face de semelhante motivo, doenças existem de múltiplas significações, como sejam:
-
-inibições trazidas do berço — moléstias amparo, comboiando votos de melhoria moral;
-
-dermatoses recidivantes — moléstias proteção, coibindo desmantelos do sentimento;
-
-mutilações congênitas — moléstias refúgio, impedindo a queda em atos de violência ou venalidade;
-
-incômodos imprevistos — moléstias socorro, evitando o mergulho da alma em compromissos inferiores;
-
-males de longo curso — moléstias abrigo, obstando enredamento da criatura nas tramas da obsessão.
-Certamente, ninguém deve acalentar desequilíbrios orgânicos sob a desculpa de buscar a purificação da vida interior.
-O corpo físico é para a alma encarnada aquilo que a máquina significa à frente do operário, instrumento de serviço e progresso, que ele recebe de autoridade maior, a fim de produzir, a benefício dos outros e de si próprio, cabendo-lhe a obrigação de assisti-la constantemente e restaurá-la sempre que necessário.
-Todavia, diante da doença que persiste no corpo, a despeito de todas as medidas acautelatórias e defensivas, é imperioso reconhecer-lhe a função providencial e tratá-la com a certeza de quem carrega consigo a luz de uma bênção.
+1 Pensamento sombrio? Alguns instantes de prece.
+2 Irritação? Silêncio de meia hora pelo menos.
+3 Tristeza? Ampliação voluntária da quota de trabalho habitual.
+4 Impulso à crítica destrutiva? Observemos as nossas próprias fraquezas.
+5 Desejo de censurar o próximo? Um olhar para dentro de nós mesmos.
+6 Solidão? Auxiliar a alguém que, em relação a nós, talvez se encontre mais sozinho.
+7 Tédio? Visita a um hospital para que se possa medir as próprias vantagens.
+8 Ofensa? Perdoar e servir mais amplamente.
+9 Ressentimento? Olvido de todo mal.
+10 Fracasso? Voltar às boas obras e começar outra vez.
 
 ---
 
-## 20 — Anotação espírita
+## 19
 
-Cada criatura, na esfera da evolução, requisita certos ingredientes, com vistas à obtenção de plenitude espiritual para a alegria de viver, tais quais sejam:
-Luz na consciência;
-equilíbrio no coração;
-discernimento no caminho;
-lógica na conduta;
-raciocínio na fé;
-desprendimento na posse;
-ponderação na abastança;
-resignação na escassez;
-estímulo ao trabalho;
-paz na luta;
-consolo no sofrimento;
-humildade na vitória;
-renovação no fracasso;
-amparo na queda;
-esperança na tristeza;
-resistência na prova;
-sustentação no dever;
-força no sacrifício.
-Sempre que você puder socorrer alguém, nas necessidades reais da alma, dê a esse alguém a bênção de um livro espírita.
+1 Enquanto nos escasseie educação, nos domínios da mente, a enfermidade por mortificação involuntária, desempenhará expressivo papel em nossa vida espiritual.
+2 Na maioria das circunstâncias, somos nós quem lhe pede a presença e o concurso, antes da reencarnação, no campo da existência física, à maneira do viajor, encomendando recursos de segurança para a travessia do mar; 3 e, em ocasiões outras, ela constitui auxílio de urgência, promovido pela bondade dos amigos, que se erigem, nas Esferas Superiores, à condição de patronos da nossa libertação para a Vida Maior.
+4 À face de semelhante motivo, doenças existem de múltiplas significações, como sejam: 5 inibições trazidas do berço — moléstias amparo, — comboiando votos de melhoria moral; 6 dermatoses recidivantes — moléstias proteção, — coibindo desmantelos do sentimento; 7 mutilações congênitas — moléstias refúgio, — impedindo a queda em atos de violência ou venalidade; 8 incômodos imprevistos — moléstias socorro, — evitando o mergulho da alma em compromissos inferiores; 9 males de longo curso — moléstias abrigo, — obstando enredamento da criatura nas tramas da obsessão.
+10 Certamente, ninguém deve acalentar desequilíbrios orgânicos sob a desculpa de buscar a purificação da vida interior.
+11 O corpo físico é para a alma encarnada aquilo que a máquina significa à frente do operário, — instrumento de serviço e progresso, que ele recebe de autoridade maior, a fim de produzir, a benefício dos outros e de si próprio, cabendo-lhe a obrigação de assisti-la constantemente e restaurá-la sempre que necessário.
+12 Todavia, diante da doença que persiste no corpo, a despeito de todas as medidas acautelatórias e defensivas, é imperioso reconhecer-lhe a função providencial e tratá-la com a certeza de quem carrega consigo a luz de uma bênção.
 
 ---
 
-## 21 — Bilhete paternal
+## 20
 
-Sim, meu filho, talvez por um capricho dos seus treze anos, você deseja receber um bilhete do amigo desencarnado, cujas páginas começou a ler.
-Você — um menino! — solicita orientação espiritual.
-Tenho escrito muitas cartas depois da morte, mas sinceramente não me recordo de haver dirigido até hoje, qualquer recado a gente verde do seu porte.
-Perdoe se não lhe correspondo à expectativa.
-Diz você que não espera uma história da carochinha, baseada em gênios protetores.
-E remata: —“Quero, Irmão X, que você me diga quais são as coisas mais importantes da vida, apontando-me aquilo de bom que devo querer e aquilo de mau que preciso evitar”.
-Lembro-me, assim, de oferecer a você uma lista curiosa que um velho amigo me ofereceu, aí no mundo, precisamente quando eu tinha a sua idade.
-A relação apresentava o título “APRENDA, MEU FILHO…” e continha as seguintes informações:
-1 — O maior e melhor amigo:
-.
-2 — Os melhores companheiros :
-.
-3 — A melhor casa:
-.
-4 — A maior felicidade:
-.
-5 — O mais belo dia:
-.
-6 — O melhor tempo:
-.
-7 — A melhor regra para vencer:
-.
-8 — O melhor negócio:
-.
-9 — O melhor divertimento:
-.
-10 — A coleção mais rica:
-.
-11 — A estrada mais fácil para ser feliz:
-.
-12 — A maior alegria:
-.
-13 — A maior força:
-.
-14 — A melhor atitude:
-.
-15 — O maior heroísmo:
-.
-16 — A maior falta:
-.
-17 — A pior pobreza:
-.
-18 — O pior fracasso:
-.
-19 — O maior inimigo:
-.
-20 — O melhor dos esportes:
-.
-Leia esta lista de informações, sempre que você puder, e veja por si como vai indo a sua orientação.
-E se quer mais um aviso de amigo velho, cada noite acrescente esta pergunta a você mesmo, depois de sua oração para o repouso: — Que fiz hoje de bom que somente um amigo de Jesus conseguiria fazer?
-1 — O maior e melhor amigo:
-.
-2 — Os melhores companheiros :
-.
-3 — A melhor casa:
-.
-4 — A maior felicidade:
-.
-5 — O mais belo dia:
-.
-6 — O melhor tempo:
-.
-7 — A melhor regra para vencer:
-.
-8 — O melhor negócio:
-.
-9 — O melhor divertimento:
-.
-10 — A coleção mais rica:
-.
-11 — A estrada mais fácil para ser feliz:
-.
-12 — A maior alegria:
-.
-13 — A maior força:
-.
-14 — A melhor atitude:
-.
-15 — O maior heroísmo:
-.
-16 — A maior falta:
-.
-17 — A pior pobreza:
-.
-18 — O pior fracasso:
-.
-19 — O maior inimigo:
-.
-20 — O melhor dos esportes:
-.
+1 Cada criatura, na esfera da evolução, requisita certos ingredientes, com vistas à obtenção de plenitude espiritual para a alegria de viver, tais quais sejam:
+2 Luz na consciência; 3 equilíbrio no coração; 4 discernimento no caminho; 5 lógica na conduta; 6 raciocínio na fé; 7 desprendimento na posse; 8 ponderação na abastança; 9 resignação na escassez; 10 estímulo ao trabalho; 11 paz na luta; 12 consolo no sofrimento; 13 humildade na vitória; 14 renovação no fracasso; 15 amparo na queda; 16 esperança na tristeza; 17 resistência na prova; 18 sustentação no dever; 19 força no sacrifício.
+20 Sempre que você puder socorrer alguém, nas necessidades reais da alma, dê a esse alguém a bênção de um livro espírita.
 
 ---
 
-## 22 — Identificação espírita
+## 21
 
-O espírita é aquele servidor do Evangelho que, no campo da observação:
-lê tudo;
-ouve tudo;
-vê tudo;
-e analisa tudo;
-mas retém apenas a substância que lhe seja de proveito real.
-Na esfera da vivência:
-respeita a todos;
-serve a todos;
-lida com todos;
-e trabalha na senda de todos, mas permanece tão somente com aqueles que estão procurando o caminho de acesso ao Reino de Deus.
-Entre a observação e a vivência, ele pratica:
-todo o bem que pode;
-onde pode;
-como pode;
-e quanto pode.
-Em suma, é possível identificar o espírita como um companheiro de Jesus-Cristo na experiência humana, que nem sempre faz aquilo que quer, mas faz constantemente aquilo que deve.
+1 Sim, meu filho, talvez por um capricho dos seus treze anos, você deseja receber um bilhete do amigo desencarnado, cujas páginas começou a ler.
+2 Você, — um menino! — Solicita orientação espiritual.
+3 Tenho escrito muitas cartas depois da morte, mas sinceramente não me recordo de haver dirigido até hoje, qualquer recado a gente verde do seu porte.
+4 Perdoe se não lhe correspondo à expectativa.
+5 Diz você que não espera uma história da carochinha, baseada em gênios protetores. 6 E remata: — “Quero, Irmão X, que você me diga quais são as coisas mais importantes da vida, apontando-me aquilo de bom que devo querer e aquilo de mau que preciso evitar.”
+7 Lembro-me, assim, de oferecer a você uma lista curiosa que um velho amigo me ofereceu, aí no mundo, precisamente quando eu tinha a sua idade.
+8 A relação apresentava o título “APRENDA, MEU FILHO…” e continha as seguintes informações:
+1 — O maior e melhor amigo: “Deus.” 2 — Os melhores companheiros: “Os pais.” 3 — A melhor casa: “O lar.” 4 — A maior felicidade: “A boa consciência.” 5 — O mais belo dia: “Hoje.” 6 — O melhor tempo: “Agora.” 7 — A melhor regra para vencer: “A disciplina.” 8 — O melhor negócio: “O trabalho.” 9 — O melhor divertimento: “O estudo.” 10 — A coleção mais rica: “A das boas ações.” 11 — A estrada mais fácil para ser feliz: “O caminho reto.” 12 — A maior alegria: “Dever cumprido.” 13 — A maior força: “O bem.” 14 — A melhor atitude: “A cortesia.” 15 — O maior heroísmo: “A coragem de ser bom.” 16 — A maior falta: “A mentira.” 17 — A pior pobreza: “A preguiça.” 18 — O pior fracasso: “O desânimo.” 19 — O maior inimigo: “O mal.” 20 — O melhor dos esportes: “A prática do bem.”
+9 Leia esta lista de informações, sempre que você puder, e veja por si como vai indo a sua orientação.
+10 E se quer mais um aviso de amigo velho, cada noite acrescente esta pergunta a você mesmo, depois de sua oração para o repouso:
+— Que fiz hoje de bom que somente um amigo de Jesus conseguiria fazer?
 
 ---
 
-## 23 — Para ser feliz
+## 22
+
+1 O espírita é aquele servidor do Evangelho que, no campo da observação: lê tudo; ouve tudo; vê tudo; e analisa tudo; mas retém apenas a substância que lhe seja de proveito real.
+2 Na esfera da vivência: respeita a todos; serve a todos; lida com todos; e trabalha na senda de todos, mas permanece tão somente com aqueles que estão procurando o caminho de acesso ao Reino de Deus.
+3 Entre a observação e a vivência, ele pratica: todo o bem que pode; onde pode; como pode; e quanto pode.
+4 Em suma, é possível identificar o espírita como um companheiro de Jesus-Cristo na experiência humana, que nem sempre faz aquilo que quer, mas faz constantemente aquilo que deve.
+
+---
+
+## 23
 
 > “E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido.”  PAULO (
-> — GÁLATAS, 6.9
+> — Gálatas, 6.9
 
-Confia em Deus.
-Aceita no dever de cada dia a vontade do Senhor para as horas de hoje.
-Não fujas da simplicidade.
-Conserva a mente interessada no trabalho edificante.
-Detém-te no “lado bom” das pessoas, das situações e das coisas.
-Guarda o coração sem ressentimento.
-Cria esperança e otimismo onde estiveres.
-Reflete nas necessidades alheias, buscando suprimi-las ou atenuá-las.
-Faze todo o bem que puderes, em favor dos outros, sem pedir remuneração.
-Auxilia muito.
-Espera pouco.
-Serve sempre.
-Espalha a felicidade no caminho alheio, quanto seja possível.
-Experimentemos semelhantes conceitos na vida prática e adquiriremos a luminosa ciência de ser feliz.
+1 Confia em Deus. 2 Aceita no dever de cada dia a vontade do Senhor para as horas de hoje. 3 Não fujas da simplicidade. 4 Conserva a mente interessada no trabalho edificante. 5 Detém-te no “lado bom” das pessoas, das situações e das coisas. 6 Guarda o coração sem ressentimento. 7 Cria esperança e otimismo onde estiveres. 8 Reflete nas necessidades alheias, buscando suprimi-las ou atenuá-las. 9 Faze todo o bem que puderes, em favor dos outros, sem pedir remuneração. 10 Auxilia muito. 11 Espera pouco. 12 Serve sempre. 13 Espalha a felicidade no caminho alheio, quanto seja possível.
+14 Experimentemos semelhantes conceitos na vida prática e adquiriremos a luminosa ciência de ser feliz.
 
 ---
 
-## 24 — Vivência espírita
+## 24
 
-Nos mais complexos e nos mais simples elementos da Natureza, encontramos o desafio à ação.
-Um transatlântico erigir-se-á por maravilha de técnica, efetuada à custa de centenas de artífices, mas, se não enfrenta os perigos do mar alto, em auxílio do homem, descansará indefinidamente no cais, à feição de prodígio em ponto morto.
-Uma biblioteca se destacará por celeiro de ensinamentos, reunindo os melhores autores, mas, se não é compulsada na formação de cultura, estará reduzida à condição de mausoléu do pensamento.
-De maneira análoga, temos a convicção espírita em nossas vidas. Ela poderá representar a dádiva de numerosos benfeitores desencarnados, o apoio de muitos amigos, a cura de males diversos ou o tesouro de consolação acumulado por abençoadas revelações medianímicas, mas, se não rende serviço aos semelhantes ou educação em nós mesmos, não passará de promessa inútil.
-É certo que, para atravessar os oceanos ou adquirir instrução na Terra, carecemos de barcos seguros e bons livros, os quais, aliás, não teriam maior significação, fora das regras de proveito e de uso.
-De modo idêntico, sem a ideia espírita, ainda mesmo disfarçada sob conceitos diferentes, não alcançaremos a luz da fé raciocinada, capaz de descerrar-nos caminho à verdade que nos fará livres;
-entretanto, somos forçados a reconhecer que não vale a escola do bem, sem a vivência no bem, como em nada adianta planejar sem fazer.
-
----
-
-## 25 — Cultura espírita
-
-Estejamos atentos à bênção da caridade, por intermédio das migalhas de luz:
-
-desenvolve-se a plantação, semente a semente;
-
-ergue-se a casa, tijolo a tijolo;
-
-constitui-se a mais bela sinfonia, nota a nota;
-
-agiganta-se o rio, gota a gota;
-
-surge a história, palavra a palavra;
-
-edifica-se a estrada mais longa, metro a metro;
-
-desdobra-se o tecido, fio a fio;
-
-e o próprio século não é mais que larga faixa de tempo, a estruturar-se, minuto a minuto.
-Assim também é a obra da inteligência — doemos à expansão da luz as nossas melhores forças, conscientes de que o esclarecimento quanto aos nossos princípios, se realizará, de coração a coração através de página a página, e de que a cultura espírita capaz de operar a renovação do mundo, se fará livro a livro.
+1 Nos mais complexos e nos mais simples elementos da Natureza, encontramos o desafio à ação.
+2 Um transatlântico erigir-se-á por maravilha de técnica, efetuada à custa de centenas de artífices, mas, se não enfrenta os perigos do mar alto, em auxílio do homem, descansará indefinidamente no cais, à feição de prodígio em ponto morto.
+3 Uma biblioteca se destacará por celeiro de ensinamentos, reunindo os melhores autores, mas, se não é compulsada na formação de cultura, estará reduzida à condição de mausoléu do pensamento.
+4 De maneira análoga, temos a convicção espírita em nossas vidas. Ela poderá representar a dádiva de numerosos benfeitores desencarnados, o apoio de muitos amigos, a cura de males diversos ou o tesouro de consolação acumulado por abençoadas revelações medianímicas, mas, se não rende serviço aos semelhantes ou educação em nós mesmos, não passará de promessa inútil.
+5 É certo que, para atravessar os oceanos ou adquirir instrução na Terra, carecemos de barcos seguros e bons livros, os quais, aliás, não teriam maior significação, fora das regras de proveito e de uso.
+6 De modo idêntico, sem a ideia espírita, ainda mesmo disfarçada sob conceitos diferentes, não alcançaremos a luz da fé raciocinada, capaz de descerrar-nos caminho à verdade que nos fará livres; 7 entretanto, somos forçados a reconhecer que não vale a escola do bem, sem a vivência no bem, como em nada adianta planejar sem fazer.
 
 ---
 
-## 26 — Necessidade e socorro
+## 25
 
-O homem sente fome.
-Deus promove os recursos do pão.
-O homem tem sede.
-Deus faz o jorro da fonte.
-O homem padece fraqueza.
-Deus dá-lhe força.
-O homem adquire doença.
-Deus institui o remédio.
-O homem sofre desequilíbrio.
-Deus estabelece o reajuste.
-O homem chora em desespero.
-Deus suscita a consolação.
-O homem se desvaira em pessimismo.
-Deus restaura a esperança.
-O homem cai na sombra da ignorância.
-Deus acende a luz da instrução.
-Entretanto, Deus criou a liberdade de consciência com a responsabilidade, traçando o merecimento de cada um.
-É assim que, entre a necessidade humana e o Socorro Divino permanece a vontade do homem, que é plenamente livre para aceitar ou não o auxílio de Deus.
+1 Estejamos atentos à bênção da caridade, por intermédio das migalhas de luz: 2 desenvolve-se a plantação, semente a semente; 3 ergue-se a casa, tijolo a tijolo; 4 constitui-se a mais bela sinfonia, nota a nota; 5 agiganta-se o rio, gota a gota; 6 surge a história, palavra a palavra; 7 edifica-se a estrada mais longa, metro a metro; 8 desdobra-se o tecido, fio a fio; 9 e o próprio século não é mais que larga faixa de tempo, a estruturar-se, minuto a minuto.
+10 Assim também é a obra da inteligência, Doemos à expansão da luz as nossas melhores forças, conscientes de que o esclarecimento quanto aos nossos princípios, se realizará, de coração a coração através de página a página, e de que a cultura espírita capaz de operar a renovação do mundo, se fará livro a livro.
 
 ---
 
-## 27 — Deus primeiro
+## 26
 
-Caminharás, muitas vezes, no mundo, à maneira de barco no oceano revolto, sob a ameaça de soçobro, a cada momento; entretanto, pensa em Deus primeiro e encontrarás o equilíbrio que reina, inviolável, no seio dos elementos.
-
-Se a Natureza parece descer à desordem, prenunciando catástrofe, não permitas que a tua palavra se converta em agente da morte. Fala em Deus primeiro.
-Antes das destruições que hoje atribulam a Humanidade, outras destruições ocorreram ontem, mas Deus plantou, em silêncio, novas cidades e novos campos onde a ventania da transformação instalara o deserto.
-
-Se os profetas da calamidade e da negação anunciarem o fim do mundo, traçando quadros de aflição e terror, crê em Deus primeiro, recordando que ainda mesmo da cova pequenina, em que a semente minúscula é sepultada, o Senhor faz nascer a graça do perfume e a beleza da cor, a abastança da seiva e a alegria do pão.
-
-Se a dor te constringe o peito, em forma de angústia ou abandono, tristeza ou enfermidade, recorre a Deus primeiro. Ele será teu refúgio na tempestade, companheiro na solidão, esperança nas lágrimas, remédio no sofrimento.
-Diante de toda provação e à frente dos próprios erros, busca Deus primeiro. Ele, que mantém as estrelas no Espaço e alimenta os vermes no abismo, ser-nos-á sustento e consolo.
-Nesse ou naquele problema, quanto nessa ou naquela dificuldade, confia em Deus primeiro e sentirás que a nossa própria vida é uma bênção de luz, para sempre guardada nos braços do Amor Eterno.
-
----
-
-## 28 — Mediunidade e dúvida
-
-> Reunião pública de 23 de Setembro de 1960
-> — Item n.° 214
-
-Quando a sombra da dúvida se interponha entre o campo de ação e a tua faculdade medianímica, contempla o necessitado que te espera o serviço.
-
-Se fosses o companheiro sob o guante da enfermidade, qual se lâminas de fogo lhe cortassem as vísceras, agradecerias as mãos que se erguessem, generosas, no passe magnético em teu benefício.
-
-Se fosses o irmão que exibe a epiderme em largas feridas, como se envergasse roupa nodoada de chagas, mostrarias imensa gratidão aos dedos que te ofertassem o fluido restaurador.
-
-Se fosses o alienado mental, de que tanta gente se afasta, tomada de inquietação, decerto acolherias por bênção do Alto a exortação que te ajudasse a superar o desequilíbrio.
-
-Se fosses a pessoa desesperada nas últimas fronteiras da resistência, à beira do suicídio ou do crime, revelarias reconhecimento profundo a quem te desse a frase de apaziguamento, sustando-te a queda.
-
-Se fosses pai ou mãe, esposo ou esposa, filho ou amigo da criatura presa nas malhas da obsessão, agradecerias, feliz, a palavra renovadora de quem se expressasse na tarefa do auxílio.
-
-Se fosses o doente, na ansiedade comatosa da despedida, abraçarias por recurso divino a prece amiga de quem te doasse serenidade e esperança para a viagem da morte.
-
-Se trouxesses a dor contigo, não vacilarias em acreditar que o próximo tem a obrigação de estender-te consolo e enfermagem, compreensão e remédio.
-O escrúpulo é naturalmente compreensível toda vez que o mal nos espreita os movimentos; contudo, ante o socorro correto à necessidade dos outros, o escrúpulo, quase sempre, é válvula à exaltação da preguiça.
-Quem despende o mais mínimo esforço no bem, recebe todo apoio do Bem Eterno, assim como a tomada humilde e fiel recolhe da usina toda a força de que se mostre capaz.
-Se duvidas do nosso dever de auxiliar os semelhantes, através da mediunidade, observa a obra imensa do Evangelho e pensa no que seria de nós, se Jesus houvesse duvidado de Deus.
+1 O homem sente fome. Deus promove os recursos do pão.
+2 O homem tem sede. Deus faz o jorro da fonte.
+3 O homem padece fraqueza. Deus dá-lhe força.
+4 O homem adquire doença. Deus institui o remédio.
+5 O homem sofre desequilíbrio. Deus estabelece o reajuste.
+6 O homem chora em desespero. Deus suscita a consolação.
+7 O homem se desvaira em pessimismo. Deus restaura a esperança.
+8 O homem cai na sombra da ignorância. Deus acende a luz da instrução.
+9 Entretanto, Deus criou a liberdade de consciência com a responsabilidade, traçando o merecimento de cada um.
+10 É assim que, entre a necessidade humana e o Socorro Divino permanece a vontade do homem, que é plenamente livre para aceitar ou não o auxílio de Deus.
 
 ---
 
-## 29 — Livro espírita
+## 27
 
-No câmbio dos valores morais, o livro espírita pode ser:
-
-lido — negócio importante;
-
-cultivado — crédito permanente;
-
-ofertado — cheque ao portador;
-
-sustentado — rendimento constante;
-
-extraviado — abono sem endereço;
-
-achado — auxílio indireto;
-
-difundido — riqueza pública;
-
-vendido — tesouro sem preço;
-
-emprestado — socorro imprevisto;
-
-conservado — reserva segura.
-Amparar o livro espírita e distribuí-lo é participar dos interesses da Providência Divina, realizando preciosos investimentos de luz e verdade, amor e renovação entre os homens.
+1 Caminharás, muitas vezes, no mundo, à maneira de barco no oceano revolto, sob a ameaça de soçobro, a cada momento; entretanto, pensa em Deus primeiro e encontrarás o equilíbrio que reina, inviolável, no seio dos elementos.
+2 Se a Natureza parece descer à desordem, prenunciando catástrofe, não permitas que a tua palavra se converta em agente da morte. Fala em Deus primeiro.
+3 Antes das destruições que hoje atribulam a Humanidade, outras destruições ocorreram ontem, mas Deus plantou, em silêncio, novas cidades e novos campos onde a ventania da transformação instalara o deserto.
+4 Se os profetas da calamidade e da negação anunciarem o fim do mundo, traçando quadros de aflição e terror, crê em Deus primeiro, recordando que ainda mesmo da cova pequenina, em que a semente minúscula é sepultada, o Senhor faz nascer a graça do perfume e a beleza da cor, a abastança da seiva e a alegria do pão.
+5 Se a dor te constringe o peito, em forma de angústia ou abandono, tristeza ou enfermidade, recorre a Deus primeiro. Ele será teu refúgio na tempestade, companheiro na solidão, esperança nas lágrimas, remédio no sofrimento.
+6 Diante de toda provação e à frente dos próprios erros, busca Deus primeiro. Ele, que mantém as estrelas no Espaço e alimenta os vermes no abismo, ser-nos-á sustento e consolo.
+7 Nesse ou naquele problema, quanto nessa ou naquela dificuldade, confia em Deus primeiro e sentirás que a nossa própria vida é uma bênção de luz, para sempre guardada nos braços do Amor Eterno.
 
 ---
 
-## 30 — Na hora da crítica
+## 28
 
-> O EVANGELHO SEGUNDO O ESPIRITISMO
-> — Cap. X — Item 19
-
-Salientamos a necessidade de moderação e equilíbrio, ante os momentos menos felizes dos outros; no entanto, há ocasiões em que as baterias da crítica estão assestadas contra nós.
-Junto de amigos quanto de opositores, ouvimos objurgatórias e reprimendas e, não raro, tombamos mentalmente em revolta ou depressão.
-Azedume e abatimento, porém, nada efetuam de construtivo. Em qualquer dificuldade, irritação ou desânimo apenas obscurecem situações ou complicam problemas.
-Atingidos por acusação e censura, convém estabelecer minucioso autoexame.
-Articulemos o intervalo preciso, em nossas atividades, a fim de orar e refletir, vasculhando o imo da própria alma.
-Analisemos, sem a mínima compaixão por nós mesmos, todos os acontecimentos que nos ditam a orientação e a conduta, sopesando fatos e desígnios que motivaram as advertências em lide, com rigorosa sinceridade.
-Se o foro íntimo nos aponta falhas de nosso lado, tenhamos suficiente coragem a fim de repará-las, seja solicitando desculpas aos ofendidos ou diligenciando meios de sanar os prejuízos de que sejamos causadores.
-Entanto, se nos identificamos atentos ao dever que a vida nos atribui, se intenção e comportamento nos deixam seguros, quanto ao caminho exato que estamos trilhando em proveito geral e não em exclusivo proveito próprio, saibamos acomodar-nos à paz e à conformidade.
-E, embora reclamação e tumulto nos cerquem, prossigamos adiante, na execução do trabalho que nos compete, sem desespero e sem mágoa, convencidos de que, acima do conforto de sermos imediatamente compreendidos, vige a tranquilidade da consciência, no cumprimento de nossas obrigações.
-
----
-
-## 31 — Independência espírita
-
-O espírita, em verdade, pode e deve:
-
-estimular as boas obras, mas saber com que meios;
-
-ler de tudo, mas saber para que;
-
-andar em qualquer parte, mas saber para onde;
-
-cooperar no bem de todos, mas saber com quem convive;
-
-prosperar, mas saber de que modo;
-
-guardar a fé, mas saber porquê;
-
-agir quanto deseje, mas saber o que faz;
-
-falar o que queira, mas saber o que diz;
-
-lutar corajosamente, mas saber com que fim;
-
-elevar-se, mas saber como.
-O espírita pensa livremente, mas precisa discernir.
+1 Quando a sombra da dúvida se interponha entre o campo de ação e a tua faculdade medianímica, contempla o necessitado que te espera o serviço.
+2 Se fosses o companheiro sob o guante da enfermidade, qual se lâminas de fogo lhe cortassem as vísceras, agradecerias as mãos que se erguessem, generosas, no passe magnético em teu benefício.
+3 Se fosses o irmão que exibe a epiderme em largas feridas, como se envergasse roupa nodoada de chagas, mostrarias imensa gratidão aos dedos que te ofertassem o fluido restaurador.
+4 Se fosses o alienado mental, de que tanta gente se afasta, tomada de inquietação, decerto acolherias por bênção do Alto a exortação que te ajudasse a superar o desequilíbrio.
+5 Se fosses a pessoa desesperada nas últimas fronteiras da resistência, à beira do suicídio ou do crime, revelarias reconhecimento profundo a quem te desse a frase de apaziguamento, sustando-te a queda.
+6 Se fosses pai ou mãe, esposo ou esposa, filho ou amigo da criatura presa nas malhas da obsessão, agradecerias, feliz, a palavra renovadora de quem se expressasse na tarefa do auxílio.
+7 Se fosses o doente, na ansiedade comatosa da despedida, abraçarias por recurso divino a prece amiga de quem te doasse serenidade e esperança para a viagem da morte.
+8 Se trouxesses a dor contigo, não vacilarias em acreditar que o próximo tem a obrigação de estender-te consolo e enfermagem, compreensão e remédio.
+9 O escrúpulo é naturalmente compreensível toda vez que o mal nos espreite os movimentos; contudo, ante o socorro correto à necessidade dos outros, o escrúpulo, quase sempre, é válvula à exaltação da preguiça.
+10 Quem despende o mais mínimo esforço no bem, recebe todo apoio do Bem Eterno, assim como a tomada humilde e fiel recolhe da usina toda a força de que se mostre capaz.
+11 Se duvidas do nosso dever de auxiliar os semelhantes, através da mediunidade, observa a obra imensa do Evangelho e pensa no que seria de nós, se Jesus houvesse duvidado de Deus.
 
 ---
 
-## 32 — Oração diante da palavra
+## 29
 
-Senhor!
-Deste-me a palavra por semente de luz.
-Auxilia-me a cultivá-la.
-Não me permitas envolvê-la na sombra que projeto.
-Ensina-me a falar para que se faça o melhor.
-Ajuda-me a lembrar o que deve ser dito e a lavar da memória tudo aquilo que a tua bondade espera se lance no esquecimento.
-Onde a irritação me procure, induza-me ao silêncio, e, onde lavre o incêndio da incompreensão ou do ódio, dá que eu pronuncie a frase calmante que possa apagar o fogo da ira.
-Em qualquer conversação, inspira-me o conceito certo que se ajuste à edificação do bem, no momento exato, e faze-me vigilante para que o mal não me use, em louvor da perturbação.
-Não me deixes emudecer, diante da verdade, mas conserva-me em tua prudência, a fim de que eu saiba dosar a verdade em amor, para que a compaixão e a esperança não esmoreçam, junto de mim.
-Traze-me o coração ao raciocínio, sincero sem aspereza, brando sem preguiça, fraterno sem exigência e deixa, Senhor, que a minha palavra te obedeça a vontade, hoje e sempre.
+1 No câmbio dos valores morais, o livro espírita pode ser: 2 lido — negócio importante; 3 cultivado — crédito permanente; 4 ofertado — cheque ao portador; 5 sustentado — rendimento constante; 6 extraviado — abono sem endereço; 7 achado — auxílio indireto; 8 difundido — riqueza pública; 9 vendido — tesouro sem preço; 10 emprestado — socorro imprevisto; 11 conservado — reserva segura.
+12 Amparar o livro espírita e distribuí-lo é participar dos interesses da Providência Divina, realizando preciosos investimentos de luz e verdade, amor e renovação entre os homens.
 
 ---
 
-## 33 — Fácil e difícil
+## 30
 
-Fácil amontoar.
-Difícil distribuir.
-Fácil falar.
-Difícil fazer.
-Fácil arrasar.
-Difícil construir.
-Fácil reprovar.
-Difícil compreender.
-Fácil acomodar.
-Difícil realizar.
-Fácil ganhar.
-Difícil ceder.
-Fácil crer.
-Difícil discernir.
-Fácil ensinar.
-Difícil exemplificar.
-Fácil sofrer.
-Difícil aproveitar.
-Qualquer pessoa, de qualquer condição, pode fazer o que é fácil; entretanto, efetuar o que é difícil pede noção de responsabilidade e burilamento íntimo.
-É por esse motivo que o Espiritismo, sendo em si mesmo a doutrina da fé raciocinada, para que se cumpra o imperativo evangélico do “a cada um segundo as suas obras”, reclama o combustível do serviço individual, para que brilhe, em cada um de nós, o facho da educação.
+1 Salientamos a necessidade de moderação e equilíbrio, ante os momentos menos felizes dos outros; entretanto, há ocasiões em que as baterias da crítica estão assestadas contra nós.
+2 Junto de amigos quanto de opositores, ouvimos objurgatórias e reprimendas e, não raro, tombamos mentalmente em revolta ou depressão.
+3 Azedume e abatimento, porém, nada efetuam de construtivo. Em qualquer dificuldade, irritação ou desânimo apenas obscurecem situações ou complicam problemas.
+4 Atingidos por acusação e censura, convém estabelecer minucioso autoexame. 5 Articulemos o intervalo preciso, em nossas atividades, a fim de orar e refletir, vasculhando o imo da própria alma.
+6 Analisemos, sem a mínima compaixão por nós mesmos, todos os acontecimentos que nos ditam a orientação e a conduta, sopesando fatos e desígnios que motivaram as advertências em lide, com rigorosa sinceridade.
+7 Se o foro íntimo nos aponta falhas de nosso lado, tenhamos suficiente coragem a fim de repará-las, seja solicitando desculpas aos ofendidos ou diligenciando meios de sanar os prejuízos de que sejamos causadores. 8 Entanto, se nos identificamos atentos ao dever que a vida nos atribui, se intenção e comportamento nos deixam seguros, quanto ao caminho exato que estamos trilhando em proveito geral e não em exclusivo proveito próprio, saibamos acomodar-nos à paz e à conformidade. 9 E, embora reclamação e tumulto nos cerquem, prossigamos adiante, na execução do trabalho que nos compete, sem desespero e sem mágoa, convencidos de que, acima do conforto de sermos imediatamente compreendidos, vige a tranquilidade da consciência, no cumprimento de nossas obrigações.
 
 ---
 
-## 34 — Na hora do desânimo
+## 31
 
-Desânimo em ação espírita-cristã é francamente injustificável.
-Vejamos alguns apontamentos, suscetíveis de confirmar-nos o asserto.
-
-Se fomos ludibriados, na expectativa honesta em torno de pessoas e acontecimentos, o desânimo nos indicaria o propósito de infalibilidade, condição incompatível com qualquer espírito em evolução;
-se incorremos em falta e caímos em desalento, isso mostraria que andávamos sustentando juízo excessivamente benévolo, acerca de nós mesmos, quando sabemos que, por agora, somos simples aprendizes na escola da experiência;
-se esmorecemos na tarefa que nos cabe, tão só porque outros patenteiam dentro dela competência que ainda estamos longe de alcançar, nossa tristeza destrutiva apenas nos revelaria a reduzida disposição de estudar e trabalhar, a fim de crescer, melhorar-nos e merecer;
-se nos desnorteamos em amargura pelo fato de algum companheiro nos endereçar advertência determinada, nesse ou naquele passo da vida, tal atitude somente nos evidenciaria o orgulho ferido, inadmissível em criaturas conscientes das próprias imperfeições;
-se entramos em desencanto porque entes amados estejam tardando em adquirir as virtudes que lhes desejamos, certamente estamos provisoriamente esquecidos de que também nós estagiamos no passado, em longos trechos de incompreensão e rebeldia.
-Claramente, ninguém se rejubila com falhas e logros, abusos e desilusões, mas é preciso recordar que, por enquanto, nós, os seres vinculados à Terra, somos alunos no educandário da existência e que Espíritos bem-aventurados, em níveis muito superiores ao nosso, ainda caminham encontrando desafios da Vida e do Universo, a perseverarem no esforço de aprender.
-Regozijemo-nos pela felicidade de já albergar conosco o desejo sadio de educar-nos e, toda vez que o desânimo nos atire ao chão da dificuldade, levantemo-nos, tantas vezes quantas forem necessárias para o serviço do bem, na certeza de que não estamos sozinhos e de que muito antes de nossos desapontamentos e de nossas lágrimas, Deus estava no clima de nossos problemas, providenciando e trabalhando.
+1 O espírita, em verdade, pode e deve: 2 estimular as boas obras, mas saber com que meios; 3 ler de tudo, mas saber para que; 4 andar em qualquer parte, mas saber para onde; 5 cooperar no bem de todos, mas saber com quem convive; 6 prosperar, mas saber de que modo; 7 guardar a fé, mas saber porquê; 8 agir quanto deseje, mas saber o que faz; 9 falar o que queira, mas saber o que diz; 10 lutar corajosamente, mas saber com que fim; 11 elevar-se, mas saber como.
+12 O espírita pensa livremente, mas precisa discernir.
 
 ---
 
-## 35 — Prática espírita
+## 32
 
-Se você já consegue:
-encontrar no serviço a fonte da paz;
-
-impedir a intromissão do desânimo, à frente das boas obras, e continuar trabalhando;
-
-ouvir a incompreensão e prosseguir compreendendo;
-
-sustar o impulso da cólera;
-
-guardar paciência em todas as provações;
-
-colocar-se em lugar do próximo, nas horas difíceis;
-
-perceber que as suas dores são iguais às dores do próximo;
-
-auxiliar sem esperar esse ou aquele pedido de auxílio;
-
-discernir entre consciência e conveniência e seguir a consciência por mais áspero que seja o caminho que ela esteja indicando;
-
-e confiar, sem desfalecer, na vitória do bem, ainda mesmo quando tudo pareça sob o domínio do mal…
-Então guarde a certeza de que a sua prática espírita estará alcançando valioso nível de elevação.
+1 Senhor! Deste-me a palavra por semente de luz. Auxilia-me a cultivá-la.
+2 Não me permitas envolvê-la na sombra que projeto. Ensina-me a falar para que se faça o melhor.
+3 Ajuda-me a lembrar o que deve ser dito e a lavar da memória tudo aquilo que a tua bondade espera se lance no esquecimento.
+4 Onde a irritação me procure, induza-me ao silêncio, e, onde lavre o incêndio da incompreensão ou do ódio, dá que eu pronuncie a frase calmante que possa apagar o fogo da ira.
+5 Em qualquer conversação, inspira-me o conceito certo que se ajuste à edificação do bem, no momento exato, e faze-me vigilante para que o mal não me use, em louvor da perturbação.
+6 Não me deixes emudecer, diante da verdade, mas conserva-me em tua prudência, a fim de que eu saiba dosar a verdade em amor, para que a compaixão e a esperança não esmoreçam, junto de mim.
+7 Traze-me o coração ao raciocínio, sincero sem aspereza, brando sem preguiça, fraterno sem exigência e deixa, Senhor, que a minha palavra te obedeça a vontade, hoje e sempre.
 
 ---
 
-## 36 — Emergência
+## 33
 
-> O EVANGELHO SEGUNDO O ESPIRITISMO
-> — Cap. XVII — Item 3
-
-Perfeitamente discerníveis as situações em que resvalamos, imprevidentemente, para o domínio da perturbação e da sombra.
-Enumeremos algumas delas com as quais renteamos claramente, com o perigo da obsessão:
-Cabeça desocupada;
-mãos improdutivas;
-palavra irreverente;
-conversa inútil;
-queixa constante;
-opinião desrespeitosa;
-tempo indisciplinado;
-atitude insincera;
-observação pessimista;
-gesto impaciente;
-conduta agressiva;
-comportamento descaridoso;
-apego demasiado;
-decisão facciosa;
-comodismo exagerado;
-refeição intemperante.
-Sempre que nós, os lidadores encarnados e desencarnados, com serviço na renovação espiritual nos reconhecermos em semelhantes fronteiras do processo obsessivo, proclamemos o estado de emergência no mundo íntimo e defendamo-nos contra o desequilíbrio, recorrendo à profilaxia da prece.
+1 Fácil amontoar. Difícil distribuir.
+2 Fácil falar. Difícil fazer.
+3 Fácil arrasar. Difícil construir.
+4 Fácil reprovar. Difícil compreender.
+5 Fácil acomodar. Difícil realizar.
+6 Fácil ganhar. Difícil ceder.
+7 Fácil crer. Difícil discernir.
+8 Fácil ensinar. Difícil exemplificar.
+9 Fácil sofrer. Difícil aproveitar.
+10 Qualquer pessoa, de qualquer condição, pode fazer o que é fácil; entretanto, efetuar o que é difícil pede noção de responsabilidade e burilamento íntimo.
+11 É por esse motivo que o Espiritismo, sendo em si mesmo a doutrina da fé raciocinada, para que se cumpra o imperativo evangélico do “a cada um segundo as suas obras”, ( † ) reclama o combustível do serviço individual, para que brilhe, em cada um de nós, o facho da educação.
 
 ---
 
-## 37 — Mediunidade e intercâmbio
+## 34
 
-Alguns símiles da vida para considerarmos a importância do serviço mediúnico no serviço espiritual:
-
-Um aviador em ação, precisando de urgente aterrissagem, descerá em qualquer parte, conquanto sujeito a acidentes de consequências imprevisíveis. Para que o pouso se verifique nas condições desejáveis, é forçoso disponha ele de aeroporto seguro.
-
-Um motorista, precisando alcançar apressadamente o destino, conduzirá o carro, através de qualquer matagal, conquanto sujeito a perdas e consequências imprevisíveis. Para que a viagem se verifique nas condições desejáveis, é forçoso disponha ele de rodovia correta.
-
-Um fornecedor de maquinaria pesada, precisando transpor sem delonga um grande rio para entregar tratores a clientes necessitados, utilizará o auxílio de embarcação ligeira, conquanto sujeito a desastres de consequências imprevisíveis. Para que a carga transite nas condições desejáveis, é forçoso disponha ele de ponte firme.
-Assim também, na mediunidade:
-Um benfeitor desencarnado, precisando expressar-se, sem demora, no Plano Físico, aceitará o concurso de qualquer pessoa que lhe empreste apoio medianímico para isso, conquanto sujeito a incompreensões de consequências imprevisíveis. Para que o intercâmbio espiritual se verifique nas condições desejáveis, é forçoso disponha ele de médium preparado e lúcido, com noção de responsabilidade e reta noção do dever a cumprir.
+1 Desânimo em ação espírita-cristã é francamente injustificável.
+2 Vejamos alguns apontamentos, suscetíveis de confirmar-nos o asserto.
+3 Se fomos ludibriados, na expectativa honesta em torno de pessoas e acontecimentos, desânimo nos indicaria o propósito de infalibilidade, condição incompatível com qualquer espírito em evolução; 4 se incorremos em falta e caímos em desalento, isso mostraria que andávamos sustentando juízo excessivamente benévolo, acerca de nós mesmos, quando sabemos que, por agora, somos simples aprendizes na escola da experiência; 5 se esmorecemos na tarefa que nos cabe, tão só porque outros patenteiam dentro dela competência que ainda estamos longe de alcançar, nossa tristeza destrutiva apenas nos revelaria a reduzida disposição de estudar e trabalhar, a fim de crescer, melhorar-nos e merecer; 6 se nos desnorteamos em amargura pelo fato de algum companheiro nos endereçar advertência determinada, nesse ou naquele passo da vida, tal atitude somente nos evidenciaria o orgulho ferido, inadmissível em criaturas conscientes das próprias imperfeições; 7 se entramos em desencanto porque entes amados estejam tardando em adquirir as virtudes que lhes desejamos, certamente estamos provisoriamente esquecidos de que também nós estagiamos no passado, em longos trechos de incompreensão e rebeldia.
+8 Claramente, ninguém se rejubila com falhas e logros, abusos e desilusões, mas é preciso recordar que, por enquanto, nós, os seres vinculados à Terra, somos alunos no educandário da existência e que Espíritos bem-aventurados, em níveis muito superiores ao nosso, ainda caminham encontrando desafios da Vida e do Universo, a perseverarem no esforço de aprender.
+9 Regozijemo-nos pela felicidade de já albergar conosco o desejo sadio de educar-nos e, toda vez que o desânimo nos atire ao chão da dificuldade, levantemo-nos, tantas vezes quantas forem necessárias para o serviço do bem, na certeza de que não estamos sozinhos e de que muito antes de nossos desapontamentos e de nossas lágrimas, Deus estava no clima de nossos problemas, providenciando e trabalhando.
 
 ---
 
-## 38 — Auxilia também
+## 35
 
-O cérebro trabalha para que raciocines.
-O coração trabalha para que te sustentes.
-O sangue trabalha para que te equilibres.
-Os nervos trabalham para que observes.
-As glândulas trabalham para que te controles.
-Os pulmões trabalham para que respires.
-Os ossos trabalham para que te levantes.
-Os cabelos trabalham para que te protejas.
-O estômago trabalha para que te nutras.
-Os olhos trabalham para que vejas.
-Os ouvidos trabalham para que ouças.
-A língua trabalha para que te exprimas.
-As mãos trabalham para que construas.
-Os pés trabalham para que te movas.
-Entre as forças que trabalham, no teu próprio corpo, para servir-te, que fazes de ti mesmo para servir aos outros?
-Ante a Lei do Senhor, o ato de servir é luz em toda a parte.
-E essa Lei pede em tudo: “ajuda agora alguém”.
-Assim, quem nada faz, em nada se detém.
-Recorda que a preguiça é o retrato da morte.
-Toda a vida auxilia. Auxilia também.
+1 Se você já consegue: encontrar no serviço a fonte da paz; 2 impedir a intromissão do desânimo, à frente das boas obras, e continuar trabalhando; 3 ouvir a incompreensão e prosseguir compreendendo; 4 sustar o impulso da cólera; 5 guardar paciência em todas as provações; 6 colocar-se em lugar do próximo, nas horas difíceis; 7 perceber que as suas dores são iguais às dores do próximo; 8 auxiliar sem esperar esse ou aquele pedido de auxílio; 9 discernir entre consciência e conveniência e seguir a consciência por mais áspero que seja o caminho que ela esteja indicando; 10 e confiar, sem desfalecer, na vitória do bem, ainda mesmo quando tudo pareça sob o domínio do mal…
+11 Então guarde a certeza de que a sua prática espírita estará alcançando valioso nível de elevação.
 
 ---
 
-## 39 — Grupo no grupo
+## 36
 
-A família espírita, em cuja intimidade cooperas na seara da Verdade e do Bem, aguarda sejas para ela:
-
-o concurso no trabalho e o alívio na provação;
-
-o equilíbrio nos instantes alegres e a escora nos tempos difíceis;
-
-a mensagem de estímulo, na obra em realização, e a palavra de bênção na travessia dos obstáculos;
-
-o refúgio de paz e o apoio fraterno;
-
-a observação compreensiva e a amizade real.
-Assim é porque se um Grupo Espírita é um templo aberto à necessidade e à indagação de todas as criaturas,
-o grupo de trabalho que persevera dentro dele é diferente;
-essa equipe de corações, aos quais nos agregamos para servir, é comumente o grupo de nossas afinidades, afetos e desafetos que trazemos de existências passadas, que nem sempre estão associados a nós pelos laços consanguíneos, mas até agora jungidos ao nosso Espírito por vínculos magnéticos.
-É nesse grupo íntimo que encontramos grandes alegrias e grandes dores, consolações e desafios, facilidades e empeços, tesouros de amor e testes de burilamento moral, entre os quais ser-nos-á possível aproveitar o tempo, com mais segurança, ressarcindo erros e aprimorando qualidades que nos facilitem acessos às vanguardas de luz.
+1 Perfeitamente discerníveis as situações em que resvalamos, imprevidentemente, para o domínio da perturbação e da sombra.
+2 Enumeremos algumas delas nas quais renteamos claramente, com o perigo da obsessão:
+3 Cabeça desocupada; 4 mãos improdutivas; 5 palavra irreverente; 6 conversa inútil; 7 queixa constante; 8 opinião desrespeitosa; 9 tempo indisciplinado; 10 atitude insincera; 11 observação pessimista; 12 gesto impaciente; 13 conduta agressiva; 14 comportamento descaridoso; 15 apego demasiado; 16 decisão facciosa; 17 comodismo exagerado; 18 refeição intemperante.
+19 Sempre que nós, os lidadores encarnados e desencarnados, com serviço na renovação espiritual nos reconhecermos em semelhantes fronteiras do processo obsessivo, proclamemos o estado de emergência no mundo íntimo e defendamo-nos contra o desequilíbrio, recorrendo à profilaxia da prece.
 
 ---
 
-## 40 — Mérito
+## 37
 
-No critério de inúmeros companheiros, o merecimento, por fator de facilidade e sublimação, decorrerá simplesmente do ato de crer.
-Profissão de fé, no entanto, guarda o valor do título de serviço que estabelece a competência e acentua a responsabilidade.
-Todos trazemos do pretérito, defeitos e provações!…
-Todos carregamos o fardo de antigos débitos, mas não basta proclamemos confiança no Senhor, a fim de alijá-lo. Necessário conduzir semelhante quisto de sombra ao calor da reforma íntima para que se converta em luz de experiência, à maneira do calhau que libera o ouro na tensão do cadinho.
-Por mais vigorosa a expressão de nossos conhecimentos, nenhuma renovação surgirá para nós, se fugimos da disciplina indispensável à educação de nós mesmos — disciplina que nos eleve o nível da existência à altura dos ideais superiores que abraçamos.
-As próprias comodidades materiais na civilização terrestre falam disso.
-Locomotivas aprimoradas, lembrando grandes hotéis rodantes, não atingem a meta se desertarem dos trilhos.
-Aviões, quais palácios voadores, tombarão em desastre se desatendem aos princípios que lhes regem os movimentos.
-Decerto que a Bondade Divina brilha em toda parte, entretanto, não se sabe de lugar algum que mantenha salário sem trabalho.
-E o trabalho edificante, seja qual for, exige fidelidade e esforço, aplicação e obediência.
-Jesus a ninguém prometeu direitos sem deveres.
-Ao invés disso, ele que transitou no caminho dos homens, invariavelmente subordinado aos interesses do Reino de Deus, convidou-nos a cooperar espontaneamente na construção do bem, advertindo-nos claramente: — “Tomai sobre vós o meu jugo”.
-
+1 Alguns símiles da vida para considerarmos a importância do serviço mediúnico no serviço espiritual:
+2 Um aviador em ação, precisando de urgente aterrissagem, descerá em qualquer parte, conquanto sujeito a acidentes de consequências imprevisíveis. Para que o pouso se verifique nas condições desejáveis, é forçoso disponha ele de aeroporto seguro.
+3 Um motorista, precisando alcançar apressadamente o destino, conduzirá o carro, através de qualquer matagal, conquanto sujeito a perdas e consequências imprevisíveis. Para que a viagem se verifique nas condições desejáveis, é forçoso disponha ele de rodovia correta.
+4 Um fornecedor de maquinaria pesada, precisando transpor sem delonga um grande rio para entregar tratores a clientes necessitados, utilizará o auxílio de embarcação ligeira, conquanto sujeito a desastres de consequências imprevisíveis. Para que a carga transite nas condições desejáveis, é forçoso disponha ele de ponte firme.
+5 Assim também, na mediunidade: Um benfeitor desencarnado, precisando expressar-se, sem demora, no Plano Físico, aceitará o concurso de qualquer pessoa que lhe empreste apoio medianímico para isso, conquanto sujeito a incompreensões de consequências imprevisíveis. Para que o intercâmbio espiritual se verifique nas condições desejáveis, é forçoso disponha ele de médium preparado e lúcido, com noção de responsabilidade e reta noção do dever a cumprir.
 
 ---
 
-## 41 — Solução natural
+## 38
 
-Os Espíritos benfeitores já não sabiam como atender à pobre senhora obsidiada.
-Perseguidor e perseguida estavam mentalmente associados à maneira de polpa e casca no fruto.
-Os amigos desencarnados tentaram afastar o obsessor, induzindo a jovem senhora a esquecê-lo, mas debalde.
-
-Se tropeçava na rua, a moça pensava nele…
-
-Se alfinetava um dedo em serviço, atribuía-lhe o golpe…
-
-Se o marido estivesse irritado, dizia-se vítima do verdugo invisível…
-
-Se a cabeça doía, acusava-o…
-
-Se uma xícara se espatifasse, no trabalho doméstico, imaginava-se atacada por ele…
-
-Se aparecesse leve dificuldade econômica, transformava a prece em crítica ao desencarnado infeliz…
-Reconhecendo que a interessada não encontrava libertação por teimosia, os instrutores espirituais, ligaram os dois — a doente e o acompanhante invisível — em laços fluídicos mais profundos, até que ele renasceu dela mesma, por filho necessitado de carinho e de compaixão.
-
-Os benfeitores descansaram.
-
-O obsessor descansou.
-
-A obsidiada descansou.
-
-O esposo dela descansou.
-Transformar obsessores em filhos, com a bênção da Providência Divina, para que haja paz nos corações e equilíbrio nos lares, muita vez, é a única solução.
+1 O cérebro trabalha para que raciocines. 2 O coração trabalha para que te sustentes. 3 O sangue trabalha para que te equilibres. 4 Os nervos trabalham para que observes. 5 As glândulas trabalham para que te controles. 6 Os pulmões trabalham para que respires. 7 Os ossos trabalham para que te levantes. 8 Os cabelos trabalham para que te protejas. 9 O estômago trabalha para que te nutras. 10 Os olhos trabalham para que vejas. 11 Os ouvidos trabalham para que ouças. 12 A língua trabalha para que te exprimas. 13 As mãos trabalham para que construas. 14 Os pés trabalham para que te movas.
+15 Entre as forças que trabalham, no teu próprio corpo, para servir-te, que fazes de ti mesmo para servir aos outros?
+16 Ante a Lei do Senhor, o ato de servir é luz em toda a parte.
+17 E essa Lei pede em tudo: “ajuda agora alguém.”
+18 Assim, quem nada faz, em nada se detém.
+19 Recorda que a preguiça é o retrato da morte.
+20 Toda a vida auxilia. Auxilia também.
 
 ---
 
-## 42 — Créditos espirituais
+## 39
 
-Não deixes que o dia se ponha sem praticares, pelo menos, uma boa ação, melhorando os próprios créditos no caminho espiritual.
-Vejamos algumas receitas e sugestões ao alcance de todos:
-
-doar um prato de alimento a quem sofre em penúria;
-
-entregar uma peça de roupa aos que gemem no frio;
-
-improvisar o conforto de uma criança menos feliz;
-
-promover ainda que migalha de assistência, a benefício dessa ou daquela mãe desditosa;
-
-oferecer um livro nobilitante;
-
-escrever uma página de esperança e alegria aos amigos ausentes;
-
-conter a irritação;
-
-evitar a palavra inconveniente;
-
-escutar, com paciência e bondade, a conversação inoportuna, no equilíbrio de quem ouve, sem elogiar a invigilância e sem condenar a inabilidade dos que falam, tocados de boa intenção;
-
-prestar serviço desinteressado aos enfermos;
-
-assegurar dois minutos de prosa consoladora aos doentes;
-
-cultivar o espírito de sacrifício, em favor dos outros, seja em casa ou na rua;
-
-plantar uma árvore proveitosa;
-
-acrescentar a alegria dos que fazem o bem;
-
-auxiliar, de algum modo, aos que procuram auxiliar;
-
-encaminhar parcelas de recursos amoedados, conquanto ligeiras, a irmãos em necessidade;
-
-articular algumas frases calmantes em hora de crise;
-
-usar a palavra na construção do melhor a fazer;
-
-remover espontaneamente um perigo na via pública.
-Na base de uma boa ação por dia, terás o crédito de trezentos e sessenta e cinco boas ações por ano; se aumentares a contagem em tempo breve, somente a Contadoria Divina conseguirá relacionar a extensão de teus bens imperecíveis e o valor de teus investimentos no erário da Vida Eterna.
+1 A família espírita, em cuja intimidade cooperas na seara da Verdade e do Bem, aguarda sejas para ela: 2 o concurso no trabalho e o alívio na provação; 3 o equilíbrio nos instantes alegres e a escora nos tempos difíceis; 4 a mensagem de estímulo, na obra em realização, e a palavra de bênção na travessia dos obstáculos; 5 o refúgio de paz e o apoio fraterno; 6 a observação compreensiva e a amizade real.
+7 Assim é porque se um Grupo Espírita é um templo aberto à necessidade e à indagação de todas as criaturas, 8 o grupo de trabalho que persevera dentro dele é diferente; 9 essa equipe de corações, aos quais nos agregamos para servir, é comumente o grupo de nossas afinidades, afetos e desafetos que trazemos de existências passadas, que nem sempre estão associados a nós pelos laços consanguíneos, mas até agora jungidos ao nosso Espírito por vínculos magnéticos.
+10 É nesse grupo íntimo que encontramos grandes alegrias e grandes dores, consolações e desafios, facilidades e empeços, tesouros de amor e testes de burilamento moral, entre os quais ser-nos-á possível aproveitar o tempo, com mais segurança, ressarcindo erros e aprimorando qualidades que nos facilitem acessos às vanguardas de luz.
 
 ---
 
-## 43 — O essencial
+## 40
 
-O essencial não será tanto o que reténs.
-É o que dás de ti mesmo e a maneira como dás.
-Não é tanto o que recebes.
-É o que distribuis e como distribuis.
-Não é tanto o que colhes.
-É o que semeias e para que semeias.
-Não é tanto o que esperas.
-É o que realizas.
-Não é tanto o que rogas.
-É o que aceitas.
-Não é tanto o que reclamas.
-É o que suportas e como suportas.
-Não é tanto o que falas.
-É o que sentes e como sentes.
-Não é tanto o que perguntas.
-É o que aprendes e para que aprendes.
-Não é tanto o que aconselhas.
-É o que exemplificas.
-Não é tanto o que ensinas.
-É o que fazes e como fazes.
-Em suma, na vida do Espírito — a única vida verdadeira — o essencial não é o que parece. O essencial será sempre aquilo que é.
+1 No critério de inúmeros companheiros, o merecimento, por fator de facilidade e sublimação, decorrerá simplesmente do ato de crer.
+2 Profissão de fé, no entanto, guarda o valor do título de serviço que estabelece a competência e acentua a responsabilidade.
+3 Todos trazemos do pretérito, defeitos e provações!…
+4 Todos carregamos o fardo de antigos débitos, mas não basta proclamemos confiança no Senhor, a fim de alijá-lo. Necessário conduzir semelhante quisto de sombra ao calor da reforma íntima para que se converta em luz de experiência, à maneira do calhau que libera o ouro na tensão do cadinho.
+5 Por mais vigorosa a expressão de nossos conhecimentos, nenhuma renovação surgirá para nós, se fugimos da disciplina indispensável à educação de nós mesmos, — disciplina que nos eleve o nível da existência à altura dos ideais superiores que abraçamos.
+6 As próprias comodidades materiais na civilização terrestre falam disso.
+7 Locomotivas aprimoradas, lembrando grandes hotéis rodantes, não atingem a meta se desertarem dos trilhos.
+8 Aviões, quais palácios voadores, tombarão em desastre se desatendem aos princípios que lhes regem os movimentos.
+9 Decerto que a Bondade Divina brilha em toda parte, entretanto, não se sabe de lugar algum que mantenha salário sem trabalho.
+10 E o trabalho edificante, seja qual for, exige fidelidade e esforço, aplicação e obediência.
+11 Jesus a ninguém prometeu direitos sem deveres.
+12 Ao invés disso, ele que transitou no caminho dos homens, invariavelmente subordinado aos interesses do Reino de Deus, convidou-nos a cooperar espontaneamente na construção do bem, advertindo-nos claramente: — “Tomai sobre vós o meu jugo.” ( † )
 
 ---
 
-## 44 — Lógica espírita
+## 41
 
-A Lei de Deus permite:
-que desfrutemos tantas posses, quantas sejamos capazes de reter honestamente, mas espera estejamos agindo com elas, em benefício dos outros;
-
-que tenhamos tanta cultura, quanto os recursos da própria inteligência no-lo permitam, mas espera nos empenhemos a convertê-la em realização no bem de todos;
-
-que sejamos felizes, mas espera busquemos fazer a felicidade dos semelhantes;
-
-que sejamos amados, mas espera nos transformemos em amor para os nossos irmãos;
-
-que solucionemos as nossas necessidades, mas espera que não venhamos a prejudicar ninguém, no campo dos deveres em que nos achamos comprometidos;
-
-que sejamos desculpados em nossas faltas, mas espera perdoemos sem condições as ofensas que senos façam;
-
-que usufruamos os bens do Universo, mas espera nos mostremos prontos a reparti-los sempre que necessário;
-
-que se pense ou fale mal de nós, tanto quanto se queira, nos círculos de nossa convivência, mas espera nos devotemos a guardar a consciência tranquila;
-
-que erremos, em nossa condição de almas imperfeitas ainda, mas espera que na base de nossos fracassos permaneça brilhando a luz da boa intenção…
-Enfim, a Lei de Deus permite sejamos quem somos, mas nos apoia ou desapoia, abate ou exalta, corrige ou favorece pelo que somos, através do que fazemos de nós, porque Deus não cogita daquilo que parece mas daquilo que é.
+1 Os Espíritos benfeitores já não sabiam como atender à pobre senhora obsidiada.
+2 Perseguidor e perseguida estavam mentalmente associados à maneira de polpa e casca no fruto.
+4 Os amigos desencarnados tentaram afastar o obsessor, induzindo a jovem senhora a esquecê-lo, mas debalde. 5 Se tropeçava na rua, a moça pensava nele… 6 Se alfinetava um dedo em serviço, atribuía-lhe o golpe… 7 Se o marido estivesse irritado, dizia-se vítima do verdugo invisível… 8 Se a cabeça doía, acusava-o… 9 Se uma xícara se espatifasse, no trabalho doméstico, imaginava-se atacada por ele… 10 Se aparecesse leve dificuldade econômica, transformava a prece em crítica ao desencarnado infeliz…
+11 Reconhecendo que a interessada não encontrava libertação por teimosia, os instrutores espirituais, ligaram os dois — a doente e o acompanhante invisível — em laços fluídicos mais profundos, até que ele renasceu dela mesma, por filho necessitado de carinho e de compaixão. 12 Os benfeitores descansaram. 13 O obsessor descansou. 14 A obsidiada descansou. 15 O esposo dela descansou.
+16 Transformar obsessores em filhos, com a bênção da Providência Divina, para que haja paz nos corações e equilíbrio nos lares, muita vez, é a única solução.
 
 ---
 
-## 45 — Traços do caráter espírita
+## 42
 
-Humildade sem subserviência.
-Dignidade sem orgulho.
-Devotamento sem apego.
-Alegria sem excesso.
-Liberdade sem licença.
-Firmeza sem petulância.
-Fé sem exclusivismo.
-Raciocínio sem aspereza.
-Sentimento sem pieguice.
-Caridade sem presunção.
-Generosidade sem desperdício.
-Conhecimento sem vaidade.
-Cooperação sem exigência.
-Respeito sem bajulice.
-Valor sem ostentação.
-Coragem sem temeridade.
-Justiça sem intransigência.
-Admiração sem inveja.
-Otimismo sem ilusão.
-Paz sem preguiça.
+1 Não deixes que o dia se ponha sem praticares, pelo menos, uma boa ação, melhorando os próprios créditos no caminho espiritual.
+2 Vejamos algumas receitas e sugestões ao alcance de todos: 3 doar um prato de alimento a quem sofre em penúria; 4 entregar uma peça de roupa aos que gemem no frio; 5 improvisar o conforto de uma criança menos feliz; 6 promover ainda que migalha de assistência, a benefício dessa ou daquela mãe desditosa; 7 oferecer um livro nobilitante; 8 escrever uma página de esperança e alegria aos amigos ausentes; 9 conter a irritação; 10 evitar a palavra inconveniente; 11 escutar, com paciência e bondade, a conversação inoportuna, no equilíbrio de quem ouve, sem elogiar a invigilância e sem condenar a inabilidade dos que falam, tocados de boa intenção; 12 prestar serviço desinteressado aos enfermos; 13 assegurar dois minutos de prosa consoladora aos doentes; 14 cultivar o espírito de sacrifício, em favor dos outros, seja em casa ou na rua; 15 plantar uma árvore proveitosa; 16 acrescentar a alegria dos que fazem o bem; 17 auxiliar, de algum modo, aos que procuram auxiliar; 18 encaminhar parcelas de recursos amoedados, conquanto ligeiras, a irmãos em necessidade; 19 articular algumas frases calmantes em hora de crise; 20 usar a palavra na construção do melhor a fazer; 21 remover espontaneamente um perigo na via pública.
+22 Na base de uma boa ação por dia, terás o crédito de trezentos e sessenta e cinco boas ações por ano; se aumentares a contagem em tempo breve, somente a Contadoria Divina conseguirá relacionar a extensão de teus bens imperecíveis e o valor de teus investimentos no erário da Vida Eterna.
 
 ---
 
-## 46 — Presença espírita
+## 43
 
-O espírita que entende a doutrina que aceita, ergue-se de manhã quando o dia flameja; ora e agradece a Deus o privilégio santo de poder trabalhar no corpo a que se acolhe.
-
-Se ouve o mal, fala o bem.
-
-Ajusta-se ao dever cumprindo a obrigação que a vida lhe assinala.
-
-Na rua, estende as mãos em amparo fraterno.
-
-Em casa, forma a paz que auxilia e constrói.
-
-Prejudicado, esquece.
-
-Ofendido, perdoa.
-
-Não discute, realiza; e nem pergunta, serve.
-
-Não censura, abençoa; nem condena, restaura.
-
-Desce para ajudar, sem tisnar-se na sombra.
-
-Alteia-se na luz mas apaga-se humilde, por saber-se instrumento a serviço do Pai.
-
-Reparte do que tem, sem reclamar louvores.
-
-Corrige levantando e educa amando sempre.
-
-Tolera sem revolta as provações que o ferem, transformando em bondade o fel das próprias dores.
-O espírita onde está faz com que tudo brilhe, aperfeiçoe, melhore, engrandeça e progrida.
-De alma no entendimento harmônico e profundo, faz-se fonte de amor para os males da vida, faz-se raio de sol para as trevas do mundo.
+1 O essencial não será tanto o que reténs. É o que dás de ti mesmo e a maneira como dás.
+2 Não é tanto o que recebes. É o que distribuis e como distribuis.
+3 Não é tanto o que colhes. É o que semeias e para que semeias.
+4 Não é tanto o que esperas. É o que realizas.
+5 Não é tanto o que rogas. É o que aceitas.
+6 Não é tanto o que reclamas. É o que suportas e como suportas.
+7 Não é tanto o que falas. É o que sentes e como sentes.
+8 Não é tanto o que perguntas. É o que aprendes e para que aprendes.
+9 Não é tanto o que aconselhas. É o que exemplificas.
+10 Não é tanto o que ensinas. É o que fazes e como fazes.
+11 Em suma, na vida do Espírito, — a única vida verdadeira, — o essencial não é o que parece. O essencial será sempre aquilo que é.
 
 ---
 
-## 47 — Saber e fazer
+## 44
 
-Em matéria de educação a nós mesmos, existe comumente um adversativo em nossas melhores definições.
-Via de regra, afirmamos, a cada trecho de nossa marcha espiritual:
-
-sei que a morte é apenas mudança e devo corrigir-me para a Vida Maior; entretanto, estou sob o cativeiro de inúmeras imperfeições, à maneira de árvore asfixiada pela erva-de-passarinho, e não consigo renovar-me;
-
-sei que é necessário praticar o bem para que o mal não me ensombre as horas; todavia, por mais que me esforce, não chego a vencer a preguiça que me entorpece;
-
-sei que é urgente estudar, melhorando conhecimentos, a fim de entender os desafios do mundo e solucioná-los com segurança; contudo, não tenho tempo;
-
-sei que é minha obrigação abraçar as boas obras, que as circunstâncias me indicam, em proveito de minha felicidade, mas receio entrar em choque com as alheias opiniões.
-Sei que é preciso… — é a nossa frase trivial, diante do serviço que nos compete; no entanto, habitualmente falha o motor da vontade, no momento da ação.
-Quase sempre, perdemos tempo precioso, empenhando-nos em saber o que ainda estamos muito longe de aprender, numa atitude, aliás, muito compreensível, porquanto, desejando saber dignamente, a curiosidade respeitável alenta o progresso;
-mas, se fizéssemos o melhor do que já conhecemos, transferindo ideais e planos superiores das linhas teóricas para o terreno da realização e da prática, desde muito estaríamos guindados à posição de numes apostolares das doutrinas redentoras que apregoamos, adiantando o relógio da evolução terrestre.
-Como é fácil de anotar, nós todos, coletivamente examinados, criamos muitas dificuldades na Terra, pela ânsia de fazer sem saber, mas agravamos consideravelmente, essas mesmas dificuldades, pelo atraso de saber e não fazer.
+1 A Lei de Deus permite: que desfrutemos tantas posses, quantas sejamos capazes de reter honestamente, mas espera estejamos agindo com elas, em benefício dos outros; 2 que tenhamos tanta cultura, quanto os recursos da própria inteligência no-lo permitam, mas espera nos empenhemos a convertê-la em realização no bem de todos; 3 que sejamos felizes, mas espera busquemos fazer a felicidade dos semelhantes; 4 que sejamos amados, mas espera nos transformemos em amor para os nossos irmãos; 5 que solucionemos as nossas necessidades, mas espera que não venhamos a prejudicar ninguém, no campo dos deveres em que nos achamos comprometidos; 6 que sejamos desculpados em nossas faltas, mas espera perdoemos sem condições as ofensas que se nos façam; 7 que usufruamos os bens do Universo, mas espera nos mostremos prontos a reparti-los sempre que necessário; 8 que se pense ou fale mal de nós, tanto quanto se queira, nos círculos de nossa convivência, mas espera nos devotemos a guardar a consciência tranquila; 9 que erremos, em nossa condição de almas imperfeitas ainda, mas espera que na base de nossos fracassos permaneça brilhando a luz da boa intenção…
+10 Enfim, a Lei de Deus permite sejamos quem somos, mas nos apoia ou desapoia, abate ou exalta, corrige ou favorece pelo que somos, através do que fazemos de nós, porque Deus não cogita daquilo que parece mas daquilo que é.
 
 ---
 
-## 48 — Nosso dever
+## 45
 
-Por mais humilde, quando confrontando com as atividades que nos pareçam superiores, amemos o dever que a vida nos reservou.
-No Plano do Universo, todo encargo é digno de apreço.
-
-O firmamento agasalha o mundo sob imensa abóbada de estrelas; no entanto, não desempenha as atribuições do telhado doméstico.
-
-O sol é um espetáculo permanente de luz, mas não realiza o serviço da lâmpada.
-
-O grande rio é um gigante de água movente; contudo, não executa em casa a função da bica.
-
-O celeiro guarda os ingredientes do pão, mas não consegue amassá-lo.
-
-O transatlântico transporta o salva-vidas, sem tomar-lhe a prerrogativa.
-Cultivemos o nosso dever por mandato da Providência Divina.
-O esforço anônimo do verme, na fecundação da terra, jaz revestido de extrema significação para ela e para ele.
-Assim também, a nossa tarefa particular pode não aparecer aos olhos dos outros, no desdobramento da vida, entretanto, ela é sumamente importante para a vida e para nós.
+1 Humildade sem subserviência. 2 Dignidade sem orgulho. 3 Devotamento sem apego. 4 Alegria sem excesso. 5 Liberdade sem licença. 6 Firmeza sem petulância. 7 Fé sem exclusivismo. 8 Raciocínio sem aspereza. 9 Sentimento sem pieguice. 10 Caridade sem presunção. 11 Generosidade sem desperdício. 12 Conhecimento sem vaidade. 13 Cooperação sem exigência. 14 Respeito sem bajulice. 15 Valor sem ostentação. 16 Coragem sem temeridade. 17 Justiça sem intransigência. 18 Admiração sem inveja. 19 Otimismo sem ilusão. 20 Paz sem preguiça.
 
 ---
 
-## 49 — Diante de tudo
+## 46
 
-Diante de tudo, estabelece Jesus para nós todos uma conduta básica, de que todas as providências exatas se derivam para a solução dos problemas no caminho da vida:
-Sombra — caridade da luz;
-Ignorância — caridade do ensino;
-Penúria — caridade do socorro;
-Doença — caridade do remédio;
-Injúria — caridade do silêncio;
-Tristeza — caridade do consolo;
-Azedume — caridade do sorriso;
-Cólera — caridade da brandura;
-Ofensa — caridade da tolerância;
-Insulto — caridade da prece;
-Desequilíbrio — caridade do reajuste;
-Ingratidão — caridade do esquecimento.
-Diante de cada criatura, exerçamos a caridade do serviço e da bênção. Todos somos viajores na direção da Vida Maior.
-Doemos amor a Deus, na pessoa do próximo, e Deus, através do próximo, dar-nos-á mais amor.
+1 O espírita que entende a doutrina que aceita, ergue-se de manhã quando o dia flameja; ora e agradece a Deus o privilégio santo de poder trabalhar no corpo a que se acolhe. 2 Se ouve o mal, fala o bem. 3 Ajusta-se ao dever cumprindo a obrigação que a vida lhe assinala. 4 Na rua, estende as mãos em amparo fraterno. 5 Em casa, forma a paz que auxilia e constrói. 6 Prejudicado, esquece. 7 Ofendido, perdoa. 8 Não discute, realiza; e nem pergunta, serve. 9 Não censura, abençoa; nem condena, restaura. 10 Desce para ajudar, sem tisnar-se na sombra. 11 Alteia-se na luz mas apaga-se humilde, por saber-se instrumento a serviço do Pai. 12 Reparte do que tem, sem reclamar louvores. 13 Corrige levantando e educa amando sempre. 14 Tolera sem revolta as provações que o ferem, transformando em bondade o fel das próprias dores.
+15 O espírita onde está faz com que tudo brilhe, aperfeiçoe, melhore, engrandeça e progrida.
+16 De alma no entendimento harmônico e profundo, faz-se fonte de amor para os males da vida, faz-se raio de sol para as trevas do mundo.
 
 ---
 
-## 50 — Espiritismo e nós
+## 47
 
-Se o doente solicita receita e não aplica o remédio…
-Se o aluno fichado na escola não lhe frequenta as aulas…
-Se o viajante necessita chegar à estação, com passagem adquirida, e não toma o comboio…
-Se o lavrador inicia a plantação e larga o trabalho à conta do vento…
-Não culpe o médico, não acuse o professor, não reprove a condução, nem malsine a terra.
-Assim também o Espiritismo junto de nós, quando lhe conhecemos os sagrados objetivos sob a direção de Jesus.
-Se nos reconhecemos necessitados de melhoria, se aspiramos à luz, se temos sede de paz, se queremos felicidade e não nos dispomos a usá-lo em nós, por instrumento da própria renovação, não nos queixemos senão de nós mesmos.
+1 Em matéria de educação a nós mesmos, existe comumente um adversativo em nossas melhores definições.
+2 Via de regra, afirmamos, a cada trecho de nossa marcha espiritual: 3 sei que a morte é apenas mudança e devo corrigir-me para a Vida Maior; entretanto, estou sob o cativeiro de inúmeras imperfeições, à maneira de árvore asfixiada pela erva-de-passarinho, e não consigo renovar-me; 4 sei que é necessário praticar o bem para que o mal não me ensombre as horas; todavia, por mais que me esforce, não chego a vencer a preguiça que me entorpece; 5 sei que é urgente estudar, melhorando conhecimentos, a fim de entender os desafios do mundo e solucioná-los com segurança; contudo, não tenho tempo; 6 sei que é minha obrigação abraçar as boas obras, que as circunstâncias me indicam, em proveito de minha felicidade, mas receio entrar em choque com as alheias opiniões.
+7 Sei que é preciso… — é a nossa frase trivial, diante do serviço que nos compete; no entanto, habitualmente falha o motor da vontade, no momento da ação.
+8 Quase sempre, perdemos tempo precioso, empenhando-nos em saber o que ainda estamos muito longe de aprender, numa atitude, aliás, muito compreensível, porquanto, desejando saber dignamente, a curiosidade respeitável alenta o progresso; 9 mas, se fizéssemos o melhor do que já conhecemos, transferindo ideais e planos superiores das linhas teóricas para o terreno da realização e da prática, desde muito estaríamos guindados à posição de numes apostolares das doutrinas redentoras que apregoamos, adiantando o relógio da evolução terrestre.
+10 Como é fácil de anotar, nós todos, coletivamente examinados, criamos muitas dificuldades na Terra, pela ânsia de fazer sem saber, mas agravamos consideravelmente, essas mesmas dificuldades, pelo atraso de saber e não fazer.
 
 ---
 
-## 51 — Desgosto
+## 48
 
-Referimo-nos habitualmente aos desgostos da vida, como se nada mais tivéssemos que pensar.
-Tal ocorrência sobrevém, de vez que, em nossas atuais condições evolutivas, somos ainda propensos a fixar o coração nos fenômenos do mal, extremamente desmemoriados quanto ao bem, à feição de pessoa que preferisse morar dentro de uma nuvem, à frente do sol.
-Ligeiro mal-estar obscurece-nos a harmonia interior e adotamos regime de aflição que acaba por atrair-nos moléstia grave…
-
-Isso porque apagamos da lembrança os milhares de horas felizes que lhe antecederam o aparecimento, sem perceber que o incômodo diminuto é aviso da Natureza a que retomemos posição de equilíbrio.
-Breve desajuste no lar interrompe-nos a alegria e desvairamo-nos em revolta, instalando, às vezes, perigosos quistos de malquerença, no organismo familiar…
-
-Isso porque quase nunca relacionamos os tesouros de estabilidade e euforia com que somos favorecidos em casa, longe de observar que o problema imprevisto expressa bendita oportunidade de consolidarmos o amor e a tranquilidade no instituto doméstico.
-Um companheiro nos deixa a convivência e deitamos longas teorias acerca da ingratidão, estabelecendo complicações de profundidade…
-
-Isso porque olvidamos as afeições preciosas que nos enriquecem os dias, incompetentes que nos achamos para concluir que o amigo, tangido pelas forças espirituais com que se afina, terá buscado o tipo de experiência mais adequada aos próprios impulsos com vantagem para ele e proveito nosso.
-Insignificante desentendimento reponta na esfera profissional e exageramos o acontecido, lançando perturbação ou incrementando a desordem…
-
-Isso porque muito dificilmente ligamos justa importância aos dotes inúmeros que recolhemos do nosso campo de trabalho, inábeis para reconhecer que o destempero havido é o ensejo de proteger e prestigiar a organização a que fomos chamados, em favor de nós mesmos.
-Desgosto está efetivamente para o coração, como a poda para a árvore.
-Se dissabores nos visitam, recordemos que a vida está cortando o prejudicial e o supérfluo, em nossas plantas de ideal e realização, a fim de que possamos nos renovar e melhor produzir.
+1 Por mais humilde, quando confrontando com as atividades que nos pareçam superiores, amemos o dever que a vida nos reservou.
+2 No Plano do Universo, todo encargo é digno de apreço. 3 O firmamento agasalha o mundo sob imensa abóbada de estrelas; no entanto, não desempenha as atribuições do telhado doméstico. 4 O sol é um espetáculo permanente de luz, mas não realiza o serviço da lâmpada. 5 O grande rio é um gigante de água movente; contudo, não executa em casa a função da bica. 6 O celeiro guarda os ingredientes do pão, mas não consegue amassá-lo. 7 O transatlântico transporta o salva-vidas, sem tomar-lhe a prerrogativa.
+8 Cultivemos o nosso dever por mandato da Providência Divina.
+9 O esforço anônimo do verme, na fecundação da terra, jaz revestido de extrema significação para ela e para ele.
+10 Assim também, a nossa tarefa particular pode não aparecer aos olhos dos outros, no desdobramento da vida, entretanto, ela é sumamente importante para a vida e para nós.
 
 ---
 
-## 52 — Até e depois
+## 49
 
-Isso é perfeitamente compreensível até a ocasião em que somos felicitados pelo conhecimento espírita;
-depois do conhecimento espírita, entretanto, qualquer alegação dessa natureza denota algo errado em nós, reclamando a retificação necessária.
-Frequentemente, na Terra, declaramos sofrer:
-assédio de tentações;
-cansaço da vida;
-impaciência contínua;
-desânimo sistemático;
-acessos de cólera;
-crises de tédio;
-ingratidão de amigos;
-tristeza constante;
-inaptidão ao serviço;
-isolamento doméstico;
-ostracismo social;
-desolação interior;
-incerteza de rumo.
-Um professor interpreta a lição para que o aluno se liberte da ignorância.
-Um médico interpreta as informações de laboratório para restabelecer o doente.
-Assim também, a Doutrina Espírita interpreta o Evangelho de Jesus, através de Allan Kardec, para que venhamos a entrar na vivência da Religião do Cristo, que é a Religião do Universo.
-Para todos nós, os espíritas desencarnados, que não tivemos a felicidade de renascer em berço espírita, com a noção mais ampla de nossas responsabilidades e obrigações adquiridas mais cedo, a reencarnação na Terra se divide em dois quadros distintos para julgamento diverso: o que éramos e fazíamos, antes do conhecimento espírita, e o que passamos a ser e fazer depois dele.
+1 Diante de tudo, estabelece Jesus para nós todos uma conduta básica, de que todas as providências exatas se derivam para a solução dos problemas no caminho da vida:
+2 Sombra — caridade da luz; 3 Ignorância — caridade do ensino; 4 Penúria — caridade do socorro; 5 Doença — caridade do remédio; 6 Injúria — caridade do silêncio; 7 Tristeza — caridade do consolo; 8 Azedume — caridade do sorriso; 9 Cólera — caridade da brandura; 10 Ofensa — caridade da tolerância; 11 Insulto — caridade da prece; 12 Desequilíbrio — caridade do reajuste; 13 Ingratidão — caridade do esquecimento.
+14 Diante de cada criatura, exerçamos a caridade do serviço e da bênção. Todos somos viajores na direção da Vida Maior.
+15 Doemos amor a Deus, na pessoa do próximo, e Deus, através do próximo, dar-nos-á mais amor.
 
 ---
 
-## 53 — Faltas
+## 50
 
-> Reunião pública de 6-2-1961.
-> — 1ª Parte — Cap. VII — Item 3 — § 27
-
-É possível que o constrangimento do companheiro tenha surgido do gesto impensado de tua parte.
-O gracejo impróprio ou o apontamento inoportuno teria tido o efeito de um golpe.
-Decerto, não alimentaste a intenção de ferir, mas a desarmonia partiu de bagatela, agigantando-se em conflito de grandes proporções.
-De outras vezes, a mente adoece, conturbada.
-Teremos ofendido, realmente.
-A cólera ter-nos-á cegado o discernimento e brandimos o tacape da injúria.
-Pretendemos aconselhar e cortamos o coração de quem ouve.
-Alegando franqueza, envenenamos a língua.
-No pretexto de consolar, ampliamos chagas abertas.
-E começa para logo a distância e a aversão.
-Se a consciência te acusa, repara a falta enquanto é cedo.
-Chispa de fogo gera incêndio.
-Leve alfinetada prepara a infecção.
-Humildade é caminho.
-Entendimento é remédio.
-Perdão é profilaxia.
-Muitas vezes, loucura e crime, dispersão e calamidade nascem de pequeninos desajustes acalentados.
-Não hesites rogar desculpas, nem vaciles apagar-te, a favor da concórdia, com aparente desvantagem particular, porquanto, na maioria dos casos de incompreensão, em que nos imaginamos sofrer dores e ser vítimas, os verdadeiros culpados somos nós mesmos.
+1 Se o doente solicita receita e não aplica o remédio…
+2 Se o aluno fichado na escola não lhe frequenta as aulas…
+3 Se o viajante necessita chegar à estação, com passagem adquirida, e não toma o comboio…
+4 Se o lavrador inicia a plantação e larga o trabalho à conta do vento…
+5 Não culpe o médico, não acuse o professor, não reprove a condução, nem malsine a terra.
+6 Assim também o Espiritismo junto de nós, quando lhe conhecemos os sagrados objetivos sob a direção de Jesus.
+7 Se nos reconhecemos necessitados de melhoria, se aspiramos à luz, se temos sede de paz, se queremos felicidade e não nos dispomos a usá-lo em nós, por instrumento da própria renovação, não nos queixemos senão de nós mesmos.
 
 ---
 
-## 54 — Aplicação espírita
+## 51
 
-Um pensamento relativo à aplicação espírita na existência:
-Aprendemos no cotidiano que não se movimenta a usina se lhe dermos vinagre ao invés de combustível; a dona de casa não consegue um bolo simples, deitando alho em lugar do fermento.
-Nas menores utilidades da vida, cada ingrediente deve ajustar-se à posição própria, com especificação de medida e atributo.
-Assim também Espiritismo e plano individual: indispensável a entrosagem de um com o outro.
-Fidelidade ao dever.
-Diligência no trabalho.
-Rendimento no bem.
-Fé raciocinada.
-Lógica nas decisões.
-Paciência na dor.
-Serenidade nas provas.
-Compreensão e fraternidade.
-Em suma, o conhecimento espírita elevado assemelha-se, de algum modo, à máquina perfeita.
-Entretanto, qual acontece à máquina valiosa, o conhecimento de alto gabarito somente vale se funciona e como funciona.
+1 Referimo-nos habitualmente aos desgostos da vida, como se nada mais tivéssemos que pensar.
+2 Tal ocorrência sobrevém, de vez que, em nossas atuais condições evolutivas, somos ainda propensos a fixar o coração nos fenômenos do mal, extremamente desmemoriados quanto ao bem, à feição de pessoa que preferisse morar dentro de uma nuvem, à frente do sol.
+3 Ligeiro mal-estar obscurece-nos a harmonia interior e adotamos regime de aflição que acaba por atrair-nos moléstia grave…
+4 Isso porque apagamos da lembrança os milhares de horas felizes que lhe antecederam o aparecimento, sem perceber que o incômodo diminuto é aviso da Natureza a que retomemos posição de equilíbrio.
+5 Breve desajuste no lar interrompe-nos a alegria e desvairamo-nos em revolta, instalando, às vezes, perigosos quistos de malquerença, no organismo familiar…
+6 Isso porque quase nunca relacionamos os tesouros de estabilidade e euforia com que somos favorecidos em casa, longe de observar que o problema imprevisto expressa bendita oportunidade de consolidarmos o amor e a tranquilidade no instituto doméstico.
+7 Um companheiro nos deixa a convivência e deitamos longas teorias acerca da ingratidão, estabelecendo complicações de profundidade…
+8 Isso porque olvidamos as afeições preciosas que nos enriquecem os dias, incompetentes que nos achamos para concluir que o amigo, tangido pelas forças espirituais com que se afina, terá buscado o tipo de experiência mais adequada aos próprios impulsos com vantagem para ele e proveito nosso.
+9 Insignificante desentendimento reponta na esfera profissional e exageramos o acontecido, lançando perturbação ou incrementando a desordem…
+10 Isso porque muito dificilmente ligamos justa importância aos dotes inúmeros que recolhemos do nosso campo de trabalho, inábeis para reconhecer que o destempero havido é o ensejo de proteger e prestigiar a organização a que fomos chamados, em favor de nós mesmos.
+11 Desgosto está efetivamente para o coração, como a poda para a árvore.
+12 Se dissabores nos visitam, recordemos que a vida está cortando o prejudicial e o supérfluo, em nossas plantas de ideal e realização, a fim de que possamos nos renovar e melhor produzir.
 
 ---
 
-## 55 — Anjos desconhecidos
+## 52
 
-> Reunião pública de 24-11-1961.
-> — 1ª Parte — Cap. VII — Item 3 — § 20
-
-Há guardiães espirituais que te apoiam a existência no Plano físico e há tutores da alma que te protegem a vida mesmo na Terra.
-Frequentemente, centralizas a atenção nos poderosos do dia, sem ver os companheiros anônimos que te ajudam na garantia do pão.
-Admiras os artistas renomados que dominam nos cartazes da imprensa e esqueces facilmente os braços humildes que te auxiliam a plasmar, no santuário da própria alma, as obras primas da esperança e da paciência.
-Aplaudes os heróis e tribunos que se agigantam nas praças; todavia, não te recordas daqueles que te sustentaram a infância, de modo a desfrutares as oportunidades que hoje te felicitam.
-Ouves, em êxtase, a biografia de vultos famosos e quase nunca te dispões a conhecer a grandeza silenciosa de muitos daqueles que te rodeiam, na intimidade doméstica, invariavelmente dispostos a te estenderem generosidade e carinho.
-Homenageia, sim, os que te acenam dos pedestais que conquistaram, merecidamente, à custa, de inteligência e trabalho;
-contudo, reverencia também aqueles que talvez nada te falem e que muito fizeram e ainda fazem por ti, muitas vezes ao preço de sacrifícios pungentes.
-São eles pais e mães que te guardaram o berço, professores que te clarearam o entendimento, amigos que te guiaram à fé e irmãos que te ensinaram a confiar e servir…
-Vários deles jazem agora, na retaguarda, acabrunhados e encanecidos, experimentando agoniada carência de afeto ou sentindo o frio do entardecer;
-alguns prosseguem obscuros e devotados, no amparo às gerações que retomam a lide terrestre, enquanto outros muitos, embora enrugados e padecentes, quais cireneus do caminho, carregam as cruzes dos semelhantes.
-Pensa nesses anjos desconhecidos que se ocultam na armadura da carne, e, de quando em quando, unge-lhes o coração de reconhecimento e alegria.
-Para isso, não desejam transfigurar-se em fardos nos teus ombros. Quase sempre, esperam de ti, simplesmente, leve migalha das sobras que atiras pela janela ou uma frase de estímulo, uma prece ou uma flor.
+1 Frequentemente, na Terra, declaramos sofrer:
+2 assédio de tentações; 3 cansaço da vida; 4 impaciência contínua; 5 desânimo sistemático; 6 acessos de cólera; 7 crises de tédio; 8 ingratidão de amigos; 9 tristeza constante; 10 inaptidão ao serviço; 11 isolamento doméstico; 12 ostracismo social; 13 desolação interior; 14 incerteza de rumo.
+15 Isso é perfeitamente compreensível até a ocasião em que somos felicitados pelo conhecimento espírita; 16 depois do conhecimento espírita, entretanto, qualquer alegação dessa natureza denota algo errado em nós, reclamando a retificação necessária.
+17 Um professor interpreta a lição para que o aluno se liberte da ignorância.
+18 Um médico interpreta as informações de laboratório para restabelecer o doente.
+19 Assim também, a Doutrina Espírita interpreta o Evangelho de Jesus, através de Allan Kardec, para que venhamos a entrar na vivência da Religião do Cristo, que é a Religião do Universo.
+20 Para todos nós, os espíritas desencarnados, que não tivemos a felicidade de renascer em berço espírita, com a noção mais ampla de nossas responsabilidades e obrigações adquiridas mais cedo, a reencarnação na Terra se divide em dois quadros distintos para julgamento diverso: o que éramos e fazíamos, antes do conhecimento espírita, e o que passamos a ser e fazer depois dele.
 
 ---
 
-## 56 — Influência espírita
+## 53
 
-Ninguém dá unicamente aquilo que entrega ou cede, a benefício dos semelhantes.
-Cada criatura, através de leis inalienáveis que governam a vida, é obrigada a dar de si própria, nas situações essenciais do cotidiano, como sejam:
-no pensamento;
-na palavra;
-no gesto;
-no lar;
-na comunidade;
-na profissão;
-no trabalho;
-na tarefa;
-no negócio;
-na saúde;
-na doença;
-na administração;
-na subalternidade.
-Em ação espírita, somos compreensivelmente chamados a dar todo o apoio material e socorro moral aos irmãos em necessidade, conforme os recursos que usufruímos.
-Acima de tudo, porém, o espírita é convocado a melhorar a Vida e o planeta pela cooperação da influência.
-Revisemos, pois, dia a dia, nossas atitudes pessoais, observando como distribuímos as parcelas espirituais de nós mesmos, seja no que fazemos ou no que somos.
-Espiritismo é orientação certa e orientação certa se define como sendo o caminho certo de auxiliar e o jeito certo de viver.
+1 É possível que o constrangimento do companheiro tenha surgido do gesto impensado de tua parte.
+2 O gracejo impróprio ou o apontamento inoportuno teria tido o efeito de um golpe.
+3 Decerto, não alimentaste a intenção de ferir, mas a desarmonia partiu de bagatela, agigantando-se em conflito de grandes proporções.
+4 De outras vezes, a mente adoece, conturbada.
+5 Teremos ofendido, realmente.
+6 A cólera ter-nos-á cegado o discernimento e brandimos o tacape da injúria.
+7 Pretendemos aconselhar e cortamos o coração de quem ouve.
+8 Alegando franqueza, envenenamos a língua.
+9 No pretexto de consolar, ampliamos chagas abertas.
+10 E começa para logo a distância e a aversão.
+11 Se a consciência te acusa, repara a falta enquanto é cedo. 12 Chispa de fogo gera incêndio. 13 Leve alfinetada prepara a infecção. 14 Humildade é caminho. 15 Entendimento é remédio. 16 Perdão é profilaxia.
+17 Muitas vezes, loucura e crime, dispersão e calamidade nascem de pequeninos desajustes acalentados.
+18 Não hesites rogar desculpas, nem vaciles apagar-te, a favor da concórdia, com aparente desvantagem particular, porquanto, na maioria dos casos de incompreensão, em que nos imaginamos sofrer dores e ser vítimas, os verdadeiros culpados somos nós mesmos.
 
 ---
 
-## 58 — Telas de serviço
+## 54
 
-O lavrador chega ao campo e em muitos casos observa no plano da tarefa a cumprir:
-
-a secura do solo,
-
-a lama do charco,
-
-a brutalidade do espinheiro,
-
-a praga na plantação,
-
-a enfermidade nos animais.
-Contudo, se acordado para a execução dos compromissos que lhe competem, atira-se à atividade pacífica com o propósito de trabalhar e servir.
-Também na lavoura do Cristo, muitas vezes o seareiro do bem encontra no quadro da própria ação:
-
-a aspereza de muitas almas,
-
-o vício triunfante,
-
-os golpes da ingratidão,
-
-a hostilidade ambiente,
-
-a sombra da ignorância,
-
-a necessidade das criaturas.
-Entretanto, se ele está consciente das obrigações que lhe cabem, não perde tempo com desânimo e queixa, desespero ou censura, porque abraça o trabalho, em silêncio, e passa automaticamente a servir.
+1 Um pensamento relativo à aplicação espírita na existência.
+2 Aprendemos no cotidiano que não se movimenta a usina se lhe dermos vinagre ao invés de combustível; a dona de casa não consegue um bolo simples, deitando alho em lugar do fermento. 3 Nas menores utilidades da vida, cada ingrediente deve ajustar-se à posição própria, com especificação de medida e atributo.
+4 Assim também Espiritismo e plano individual: indispensável a entrosagem de um com o outro.
+5 Fidelidade ao dever. 6 Diligência no trabalho. 7 Rendimento no bem. 8 Fé raciocinada. 9 Lógica nas decisões. 10 Paciência na dor. 11 Serenidade nas provas. 12 Compreensão e fraternidade.
+13 Em suma, o conhecimento espírita elevado assemelha-se, de algum modo, à máquina perfeita. 14 Entretanto, qual acontece à máquina valiosa, o conhecimento de alto gabarito somente vale se funciona e como funciona.
 
 ---
 
-## 59 — Pequeno apólogo
+## 55
 
-Com respeito à luz do Evangelho que nos compete estender, a favor de nós mesmos, contou velho sábio antiga lenda que buscaremos sintetizar.
-A certo país vergastado de fome, concedeu o Divino Pomicultor valiosas sementes de amor e redenção, cujo trato esmerado traria a toda gente benefícios essenciais.
-As sementes, no entanto, robustas e enceleiradas, revelavam-se tão belas que provocaram aluviões de anseios e ideias, palavras e teorias naqueles corações em necessidade.
-Em êxtase, a multidão consagrou-lhes tempo e cuidado no que se referia à pura contemplação.
-Botânicos eminentes vieram de muito longe examinar-lhes a contextura, escrevendo enormes tratados quanto às virtudes de que se faziam portadoras.
-Geneticistas de prol auscultaram-lhes os princípios, destacando-lhes a nobreza.
-Pintores exímios fixaram-lhes a imagem preciosa,
-escultores imitaram-lhes a forma divina,
-poetas cantaram-lhes a beleza,
-oradores dedicaram-lhes primorosos discursos
-e longas turbas de crentes agradecidos ajoelharam-se ante o excelso legado, em adoração mística e perene…
-Enquanto isso, passou o tempo multiplicando os casos de inanição e morte.
-Vendo que a nação operosa e fiel desfalecia à míngua de socorro e alimento, mandou o Eterno Amigo que viessem ao campo lavradores humildes que as plantassem ao preço de fadiga e suor, para que o pão e a fé restaurassem a vida.
-No apólogo singelo notamos a aflição da palavra excessiva, sem exemplo que ajude.
-Saibamos, pois, na Terra, cultivar o Evangelho em nossos próprios atos, porque somente assim, à custa de trabalho e esforço constante, faremos rebrilhar a palavra do Cristo, valorizando o verbo perante o mundo enfermo que roga paz e luz.
+1 Há guardiães espirituais que te apoiam a existência no Plano físico e há tutores da alma que te protegem a vida mesmo na Terra.
+2 Frequentemente, centralizas a atenção nos poderosos do dia, sem ver os companheiros anônimos que te ajudam na garantia do pão. 3 Admiras os artistas renomados que dominam nos cartazes da imprensa e esqueces facilmente os braços humildes que te auxiliam a plasmar, no santuário da própria alma, as obras primas da esperança e da paciência. 4 Aplaudes os heróis e tribunos que se agigantam nas praças; todavia, não te recordas daqueles que te sustentaram a infância, de modo a desfrutares as oportunidades que hoje te felicitam. 5 Ouves, em êxtase, a biografia de vultos famosos e quase nunca te dispões a conhecer a grandeza silenciosa de muitos daqueles que te rodeiam, na intimidade doméstica, invariavelmente dispostos a te estenderem generosidade e carinho.
+6 Homenageia, sim, os que te acenam dos pedestais que conquistaram, merecidamente, à custa, de inteligência e trabalho; 7 contudo, reverencia também aqueles que talvez nada te falem e que muito fizeram e ainda fazem por ti, muitas vezes ao preço de sacrifícios pungentes.
+8 São eles pais e mães que te guardaram o berço, professores que te clarearam o entendimento, amigos que te guiaram à fé e irmãos que te ensinaram a confiar e servir… 9 Vários deles jazem agora, na retaguarda, acabrunhados e encanecidos, experimentando agoniada carência de afeto ou sentindo o frio do entardecer; 10 alguns prosseguem obscuros e devotados, no amparo às gerações que retomam a lide terrestre, enquanto outros muitos, embora enrugados e padecentes, quais cireneus do caminho, carregam as cruzes dos semelhantes.
+11 Pensa nesses anjos desconhecidos que se ocultam na armadura da carne, e, de quando em quando, unge-lhes o coração de reconhecimento e alegria. 12 Para isso, não desejam transfigurar-se em fardos nos teus ombros. Quase sempre, esperam de ti, simplesmente, leve migalha das sobras que atiras pela janela ou uma frase de estímulo, uma prece ou uma flor.
 
 ---
 
-## 60 — Fenômenos mediúnicos
+## 56
 
-Os fenômenos mediúnicos a se evidenciarem, inevitáveis, nas estradas do homem, guardam expressiva similitude com a presença das águas, nos caminhos da Terra.
-Águas existem, por toda parte. Possuímo-las cristalinas em fontes recamadas de areia, pesadas de barro nos rios que desgastam o solo, tisnadas na sarjeta em que rolam depois da chuva, lodacentas no charco, furtadas de represas, concentradas em lagoas infectas, amargas em poços largados no esquecimento, semi-envenenadas nos esgotos de lama…
-Todas elas, contudo, podem ser decantadas, medicadas, purificadas e renovadas para servir.
-Assim também os fenômenos mediúnicos. Venham de onde vierem, assinalam-se por determinado valor.
-Entretanto, é preciso não esquecer que devem ser examinados, raciocinados, interpretados e compreendidos para mostrarem proveito justo.
-Para eles e junto deles, todos nós temos a Doutrina Espírita por filtro de tratamento.
-À vista disso, não desprezeis fato algum, mas, igualmente, em tempo algum, não vos canseis de estudar.
-
----
-
-## 61 — A quem mais tem
-
-A quem mais ama — amor mais amplo.
-A quem mais despreza — mais se evita.
-A quem mais serve — maior auxílio.
-A quem desajuda — embaraço maior.
-A quem aprende — firme lição.
-A quem foge do ensino — experiência mais dura.
-A quem trabalha — grande influência.
-A quem busque a preguiça — tédio maior.
-A quem ampara — vasto socorro.
-A quem prejudica — larga aflição.
-A quem perdoa — desculpa extensa.
-A quem critica — maior censura.
-A quem tenha razão — mais direito.
-A quem escasseie o direito — mais compromisso.
-A quem desanime — sombra envolvente.
-A quem persista — luz de esperança.
-A quem se lembra — memória pronta.
-A quem esquece — total olvido.
-A quem adoça — mel na passagem.
-A quem amarga — fel no caminho.
-Quem planta recolhe segundo a sementeira.
-Recebemos por isso, em maior porção daquilo que mais dermos.
-Eis por que nos disse o Senhor: — “a quem mais tem mais se lhe dará”,
-porquanto, de tudo o que entregarmos à existência, receberemos, de volta, em medida cheia e recalcada.
-
+1 Ninguém dá unicamente aquilo que entrega ou cede, a benefício dos semelhantes.
+2 Cada criatura, através de leis inalienáveis que governam a vida, é obrigada a dar de si própria, nas situações essenciais do cotidiano, como sejam:
+no pensamento; na palavra; no gesto; no lar; na comunidade; na profissão; no trabalho; na tarefa; no negócio; na saúde; na doença; na administração; na subalternidade.
+3 Em ação espírita, somos compreensivelmente chamados a dar todo o apoio material e socorro moral aos irmãos em necessidade, conforme os recursos que usufruímos. 4 Acima de tudo, porém, o espírita é convocado a melhorar a Vida e o planeta pela cooperação da influência.
+5 Revisemos, pois, dia a dia, nossas atitudes pessoais, observando como distribuímos as parcelas espirituais de nós mesmos, seja no que fazemos ou no que somos.
+6 Espiritismo é orientação certa e orientação certa se define como sendo o caminho certo de auxiliar e o jeito certo de viver.
 
 ---
 
-## 62 — Caridade: a nossa bandeira
+## 58
 
-Meus filhos:
-Jesus — o nosso mestre.
-
-Amor — o nosso clima.
-
-Caridade — a nossa bandeira.
-
-Serviço — a nossa bênção.
-Sim, filhos do coração,
-quanto nos seja lícito;
-
-tanto quanto pudermos;
-
-seja com quem for;
-
-em toda parte;
-
-em qualquer tempo;
-
-à frente de todos;
-
-ante quaisquer circunstâncias;
-
-por todos os modos justos;
-
-nos mínimos gestos;
-
-sem restrições de qualquer natureza;
-
-como nos seja possível;
-
-através dos sentimentos;
-
-pelo veículo das ideias;
-
-pela forma das palavras;
-
-e pela força das ações,
-levantemos o nosso estandarte de luz!…
-Que, em tudo, a caridade, por presença do Cristo, resplandeça de nós para com os outros, com o esquecimento de nós próprios, para que o Reino Eterno do Pai Celestial, seja instalado, enfim, em nossos corações, agora e para sempre.
+1 O lavrador chega ao campo e em muitos casos observa no plano da tarefa a cumprir: 2 a secura do solo, 3 a lama do charco, 4 a brutalidade do espinheiro, 5 a praga na plantação, 6 a enfermidade nos animais.
+7 Contudo, se acordado para a execução dos compromissos que lhe competem, atira-se à atividade pacífica com o propósito de trabalhar e servir.
+8 Também na lavoura do Cristo, muitas vezes o seareiro do bem encontra no quadro da própria ação: 9 a aspereza de muitas almas, 10 o vício triunfante, 11 os golpes da ingratidão, 12 a hostilidade ambiente, 13 a sombra da ignorância, 14 a necessidade das criaturas.
+15 Entretanto, se ele está consciente das obrigações que lhe cabem, não perde tempo com desânimo e queixa, desespero ou censura, porque abraça o trabalho, em silêncio, e passa automaticamente a servir.
 
 ---
 
-## 63 — Voltarás por amor
+## 59
 
-Ante a fome de paz que te atormenta os dias, decerto já sonhaste com a disposição de repousar, além da morte, recusando o cálice de angústia que a existência carnal te sugere…
-Cultivas a virtude e aspiras, sem dúvida, ao prêmio natural que o trabalho irrepreensível te granjeou.
-Sofres e reclamas consolo…
-Choras e pretendes alívio…
-Entretanto, para lá das fronteiras terrestres, o amor te fulgirá sublime, no coração, como estrela surpreendente, mas ouvirás os soluços daqueles que deixaste sob a névoa do adeus…
-Escutarás as preces de tua mãe e os rogos de teus filhos, quais poemas de lágrimas a desfalecerem de dor sobre a tua cabeça invadida de novas aspirações e tocada de novos sonhos.
-Compreenderás a renúncia com mais segurança e exercerás o perdão sem dificuldade…
-A consciência tranquila ser-te-á uma bênção; contudo, o anseio de ajudar fremirá no teu peito inspirando-te a volta.
-E reconhecendo que o Céu verdadeiro não existe sem a alegria daqueles que mais amamos, regressarás por amor ao campo da luta para novamente experimentar e sofrer, esperar e redimir, adquirindo o poder para ascensões mais altas,
-porquanto, pela força do bem puro, descobrirás com o Cristo de Deus a luz da abnegação que nos impele sempre a horizontes mais vastos, repetindo também com Ele, aos companheiros de aprendizado, a divina promessa: — “Em verdade estarei convosco até ao fim dos séculos”,
-porque não há felicidade para os filhos acordados de Deus, sem que todos os filhos de Deus entrem efetivamente na posse da felicidade real.
-
----
-
-## 64 — Discernimento
-
-Alimentar e alimentar, a larva também se alimenta, carregando aperfeiçoado sistema digestivo.
-Vestir e vestir, certas aves também ostentam plumagens que causam inveja aos melhores figurinistas.
-Procriar e procriar, o tatu também procria, utilizando primorosos recursos genésicos.
-Obedecer e obedecer, o cão também obedece, quase sempre demonstrando fidelidade até ao sacrifício.
-Triunfar e triunfar, também surgem cavalos, cujas vitórias no prado são celebradas com regozijo público.
-Sofrer e sofrer, o boi também paga os mais elevados impostos de sofrimento, no instituto da evolução.
-Imitar e imitar, o símio também imita com extrema habilidade muitas das manifestações visíveis da inteligência.
-Organizar e organizar, a abelha e a formiga também edificam verdadeiros impérios de harmonia coletiva.
-Em verdade, o homem não se pode orgulhar de semelhantes operações que constituem igualmente apanágio do reino animal, conquanto seja obrigado a atender, naturalmente às necessidades primordiais da existência.
-Razão, por isso, é o poder de educar-se alguém para que a Vida se eduque em torno.
-Discernimento é conquista sagrada. Estudemos e estudemos.
-Quem recebe uma fé raciocinada para o coração e para a cabeça, qual acontece na Doutrina Espírita ajustada ao Evangelho de Jesus, adquiriu o mais alto instrumento que se pode obter do mundo para construir em si mesmo a elevação do próprio destino.
+1 Com respeito à luz do Evangelho que nos compete estender, a favor de nós mesmos, contou velho sábio antiga lenda que buscaremos sintetizar.
+2 A certo país vergastado de fome, concedeu o Divino Pomicultor valiosas sementes de amor e redenção, cujo trato esmerado traria a toda gente benefícios essenciais.
+3 As sementes, no entanto, robustas e enceleiradas, revelavam-se tão belas que provocaram aluviões de anseios e ideias, palavras e teorias naqueles corações em necessidade.
+4 Em êxtase, a multidão consagrou-lhes tempo e cuidado no que se referia à pura contemplação.
+5 Botânicos eminentes vieram de muito longe examinar-lhes a contextura, escrevendo enormes tratados quanto às virtudes de que se faziam portadoras.
+6 Geneticistas de prol auscultaram-lhes os princípios, destacando-lhes a nobreza.
+7 Pintores exímios fixaram-lhes a imagem preciosa, 8 escultores imitaram-lhes a forma divina, 9 poetas cantaram-lhes a beleza, 10 oradores dedicaram-lhes primorosos discursos 11 e longas turbas de crentes agradecidos ajoelharam-se ante o excelso legado, em adoração mística e perene…
+12 Enquanto isso, passou o tempo multiplicando os casos de inanição e morte.
+13 Vendo que a nação operosa e fiel desfalecia à míngua de socorro e alimento, mandou o Eterno Amigo que viessem ao campo lavradores humildes que as plantassem ao preço de fadiga e suor, para que o pão e a fé restaurassem a vida.
+14 No apólogo singelo notamos a aflição da palavra excessiva, sem exemplo que ajude.
+15 Saibamos, pois, na Terra, cultivar o Evangelho em nossos próprios atos, porque somente assim, à custa de trabalho e esforço constante, faremos rebrilhar a palavra do Cristo, valorizando o verbo perante o mundo enfermo que roga paz e luz.
 
 ---
 
-## 65 — Ressentimento
+## 60
 
-O ressentimento não é somente um peso morto, à feição de chumbo na flama alígera de nossa prece, compelindo-a a descer, anulada, nas sombras da frustração, e, em verdade, nem é apenas o tóxico que envenena a membrana gástrica, provocando moléstias de abordagem difícil…
-É também o fermento da treva que, a exteriorizar-se de melindres inconsequentes, avança qual projétil invisível sobre companheiros invigilantes, debuxando as linhas de lama em que a maledicência e a calúnia proliferam sem peias, ferindo almas e consciências, tanto quando depredando ou destruindo instituições generosas e veneráveis que nos rogam compreensão e devotamento a fim de que produzam redenção e progresso no campo da Humanidade.
-Cada vez que o desgosto te bata à porta, aprende a esquecê-lo com toda a alma.
-Lembra-te de que todos somos devedores insolventes da Tolerância Divina e que, por isso mesmo, em nossas imperfeições e fraquezas, não prescindimos da caridade recíproca, a fim de que nos mantenhamos de pé.
-Jamais olvidemos quão profunda é a nossa dificuldade para retificar em nós mesmos as qualidades que nos desagradam nos outros e banhemos o pensamento no grande amor, para que a fraternidade real nos abençoe o caminho.
-Seja qual for o grau da ofensa recebida, não te esqueças de que somente a fonte do perdão irrestrito possui bastante poder para extinguir o lodo da miséria e da ignorância, porquanto, pretendendo fazer-nos justiça, com a força das próprias mãos, invariavelmente caímos na delinquência e no desespero que nos agravam a detenção nas cadeias do crime ou nas algemas da crueldade.
-
----
-
-## 66 — Libertação espiritual
-
-A criatura terrestre pode realmente: aproveitar-se de leis que não subscreve;
-
-manobrar vantagens que não conquista;
-
-cruzar caminhos que não talha;
-
-habitar a casa que não levanta;
-
-comer o pão que não produz;
-
-trajar o fio que não tece;
-
-ampliar processos de reconforto que não inventa;
-
-colaborar na execução de programas que não planeia;
-
-utilizar veículos que não fabrica;
-
-medicar-se com elementos que desconhece…
-Todas essas operações consegue a pessoa humana efetuar, ignorando, muitas vezes, onde o bem, onde o mal, onde a sombra, onde a luz.
-Devemos convencer-nos, no entanto, de que, para libertar-se, efetivamente, diante da vida, a criatura terrestre há de raciocinar com a própria cabeça.
-Ninguém pode viver a toda hora, com discernimento emprestado.
-É por isso que somos chamados, na Doutrina Espírita, a estudar instruindo-nos, e, pela mesma razão, advertiu-nos Jesus de que apenas o conhecimento da verdade nos fará livres.
-
-Se aspiramos, assim, à conquista da emancipação espiritual para a imortalidade, é forçoso que cada um de nós desenvolva, com esforço próprio, as sementes da verdade que traz consigo.
+1 Os fenômenos mediúnicos a se evidenciarem, inevitáveis, nas estradas do homem, guardam expressiva similitude com a presença das águas, nos caminhos da Terra.
+2 Águas existem, por toda parte. Possuímo-las cristalinas em fontes recamadas de areia, pesadas de barro nos rios que desgastam o solo, tisnadas na sarjeta em que rolam depois da chuva, lodacentas no charco, furtadas de represas, concentradas em lagoas infectas, amargas em poços largados no esquecimento, semi-envenenadas nos esgotos de lama…
+3 Todas elas, contudo, podem ser decantadas, medicadas, purificadas e renovadas para servir.
+4 Assim também os fenômenos mediúnicos. Venham de onde vierem, assinalam-se por determinado valor.
+5 Entretanto, é preciso não esquecer que devem ser examinados, raciocinados, interpretados e compreendidos para mostrarem proveito justo.
+6 Para eles e junto deles, todos nós temos a Doutrina Espírita por filtro de tratamento.
+7 À vista disso, não desprezeis fato algum, mas, igualmente, em tempo algum, não vos canseis de estudar.
 
 ---
 
-## 67 — Em nós
+## 61
 
-Paciência incessante em todas as dores e em todas as circunstâncias, a fim de que venhamos a transpor com segurança as dificuldades que vigem por fora, mas também cultivar paciência conosco, para construirmos a nobilitação que nos é necessária.
-Com isso, não queremos dizer que devamos acalentar as nossas fraquezas ou aplaudir as próprias faltas, mas sim que não nos cabe interromper a edificação, no mundo íntimo, quando surjam falhas em nós, no serviço do bem que nos toca fazer.
-Frequentemente, fugimos envergonhados, desertando das tarefas de elevação, martelando confissões, qual se pregássemos esponjas de farpas no coração, para que nos firamos a toda hora.
-E repetimos a cada instante:
-— Verifiquei que não presto…
-
-— Tentei melhorar-me e não pude…
-
-— Não me peçam voltar ao serviço, que não sou santo…
-
-— Larguei a oração porque tenho lama no pensamento…
-
-— Sou um poço de vermes…
-
-— Não quero perturbar os outros com os meus defeitos…
-
-— Sou um monte de erros…
-Há quem recorra ao rifão popular: “pau que nasce torto tem a sombra torta”, esquecendo-se de que existem milhares de troncos, tortos na configuração externa, guardando seiva robusta e sadia, na produção dos frutos com que alimentam as criaturas.
-Cair é acidente próprio dos que caminham. Refocilar-se no chão é próprio dos que se animalizam.
-Aprendamos a emendar, corrigir, restaurar, refazer…
-Nos derradeiros ensinamentos, Jesus não se esqueceu de induzir-nos à calma, recomendando aos seguidores: “na paciência, possuireis as vossas almas”.
-
-Isso realmente significa que precisamos de paciência, não só para angariar a simpatia e a colaboração das almas alheias, mas para educar também as nossas.
+1 A quem mais ama — amor mais amplo. 2 A quem mais despreza — mais se evita. 3 A quem mais serve — maior auxílio. 4 A quem desajuda — embaraço maior. 5 A quem aprende — firme lição. 6 A quem foge do ensino — experiência mais dura. 7 A quem trabalha — grande influência. 8 A quem busque a preguiça — tédio maior. 9 A quem ampara — vasto socorro. 10 A quem prejudica — larga aflição. 11 A quem perdoa — desculpa extensa. 12 A quem critica — maior censura. 13 A quem tenha razão — mais direito. 14 A quem escasseie o direito — mais compromisso. 15 A quem desanime — sombra envolvente. 16 A quem persista — luz de esperança. 17 A quem se lembra — memória pronta. 18 A quem esquece — total olvido. 19 A quem adoça — mel na passagem. 20 A quem amarga — fel no caminho.
+21 Quem planta recolhe segundo a sementeira.
+22 Recebemos por isso, em maior porção daquilo que mais dermos.
+23 Eis por que nos disse o Senhor: — “A quem mais tem mais se lhe dará”, ( † ) porquanto, de tudo o que entregarmos à existência, receberemos, de volta, em medida cheia e recalcada. ( † )
 
 ---
 
-## 68 — Edificação
+## 62
 
-Tudo o que é útil e tudo o que é nobre na Terra exige preparação.
-Casa alguma se ergue sem que elemento a elemento se ajuste na concretização do plano estabelecido.
-Campo cultivado reclama operações sistemáticas de limpeza e adubação, amparo e plantio.
-Roupa que veste passou por múltiplas fases de trabalho desde a produção do fio singelo.
-O pão mais simples não aparece, fora dos arranjos indispensáveis.
-O livro, para surgir, transmitindo informações e conhecimentos, roga gestação mental e esforço de composição, letra a letra.
-A sinfonia que aprimora as fontes da inspiração, requisita combinações e estudos diversos, para que os sons se harmonizem, nota por nota.
-Certifiquemo-nos de que as probabilidades da mensagem sem fio vibravam na Terra, antes de Marconi.
-A gravitação era realidade, antes de
-Newton
-.
-Todos os ingredientes, destinados ao progresso e à civilização, ao aperfeiçoamento e à proteção da vida física, jazem potencialmente nos reservatórios da Natureza.
-O homem, porém, apenas desfruta aquilo que ele próprio analisou e construiu.
-Assim também, no terreno do espírito. Todos os recursos necessários à educação e à sublimação da individualidade, à criação intelectual e à revelação do Plano extrasensorial, estão contidos, em possibilidades virtuais, nas esferas do pensamento.
-Ninguém espere milagres depois da morte. Na Terra ou além da Terra, cada pessoa somente dispõe, em si e fora de si, da cultura e do merecimento que edificou.
+Meus filhos: 1 Jesus — o nosso mestre. 2 Amor — o nosso clima. 3 Caridade — a nossa bandeira. 4 Serviço — a nossa bênção.
+5 Sim, filhos do coração, quanto nos seja lícito; 6 tanto quanto pudermos; 7 seja com quem for; 8 em toda parte; 9 em qualquer tempo; 10 à frente de todos; 11 ante quaisquer circunstâncias; 12 por todos os modos justos; 13 nos mínimos gestos; 14 sem restrições de qualquer natureza; 15 como nos seja possível; 16 através dos sentimentos; 17 pelo veículo das ideias; 18 pela forma das palavras; 19 e pela força das ações, levantemos o nosso estandarte de luz!…
+20 Que, em tudo, a caridade, por presença do Cristo, resplandeça de nós para com os outros, com o esquecimento de nós próprios, para que o Reino Eterno do Pai Celestial, seja instalado, enfim, em nossos corações, agora e para sempre.
 
 ---
 
-## 69 — Tua prosperidade
+## 63
 
-> O EVANGELHO SEGUNDO O ESPIRITISMO
-> — Cap. XVI — Item 13
-
-Tua prosperidade não transparece unicamente da face material do teu dinheiro, das tuas posses, da tua casa, dos teus bens.
-Ela se compõe das experiências que ajuntaste, de alma transida, ante as incompreensões que te cercaram as horas.
-Forma-se dos conhecimentos nobilitantes que amealhaste pelo estudo perseverante com que te habilitas ao privilégio de minorar a fadiga e o sofrimento dos irmãos que te acompanham à retaguarda, sem luz que os norteie…
-Ergue-se das palavras temperadas de prudência e de amor que as provações atravessadas com paciência te acumularam no escrínio da alma, transfigurando-te em socorro aos caídos…
-Eleva-se dos gestos de compaixão, que amontoaste à custa das disciplinas a que te submeteste em favor dos que amas, pelas quais adquiriste o tato capaz de arredar a discórdia no nascedouro…
-Avoluma-se nas migalhas de tempo, que sabes extrair das obrigações retamente cumpridas, para que te não falte a oportunidade de trabalhar no amparo aos menos felizes…
-Tua prosperidade brilha nos exemplos de fraternidade com que dignificas a vida,
-nas demonstrações de altruísmo com que suprimes a crueldade,
-nos testemunhos de fé renovadora com que levantas os tíbios
-ou nos atos de humildade com que desarmas a delinquência.
-Reparte com o próximo os valores que transportas no Espírito.
-Aquele que verdadeiramente serve, distribui sem nunca empobrecer-se.
-Quem mais deu e quem mais dá sobre a Terra é Jesus-Cristo, cuja riqueza verte, infinita, dos tesouros do coração.
+1 Ante a fome de paz que te atormenta os dias, decerto já sonhaste com a disposição de repousar, além da morte, recusando o cálice de angústia que a existência carnal te sugere…
+2 Cultivas a virtude e aspiras, sem dúvida, ao prêmio natural que o trabalho irrepreensível te granjeou.
+3 Sofres e reclamas consolo…
+4 Choras e pretendes alívio…
+5 Entretanto, para lá das fronteiras terrestres, o amor te fulgirá sublime, no coração, como estrela surpreendente, mas ouvirás os soluços daqueles que deixaste sob a névoa do adeus…
+6 Escutarás as preces de tua mãe e os rogos de teus filhos, quais poemas de lágrimas a desfalecerem de dor sobre a tua cabeça invadida de novas aspirações e tocada de novos sonhos.
+7 Compreenderás a renúncia com mais segurança e exercerás o perdão sem dificuldade…
+8 A consciência tranquila ser-te-á uma bênção; contudo, o anseio de ajudar fremirá no teu peito inspirando-te a volta.
+9 E reconhecendo que o Céu verdadeiro não existe sem a alegria daqueles que mais amamos, regressarás por amor ao campo da luta para novamente experimentar e sofrer, esperar e redimir, adquirindo o poder para ascensões mais altas, 10 porquanto, pela força do bem puro, descobrirás com o Cristo de Deus a luz da abnegação que nos impele sempre a horizontes mais vastos, repetindo também com Ele, aos companheiros de aprendizado, a divina promessa:
+11 — “Em verdade estarei convosco até ao fim dos séculos”, ( † ) porque não há felicidade para os filhos acordados de Deus, sem que todos os filhos de Deus entrem efetivamente na posse da felicidade real.
 
 ---
 
-## 70 — Prodígios da fé
+## 64
 
-Esquecer agravos.
-Apagar injúrias.
-Desprender-se das posses materiais em benefício dos outros.
-Reconhecer as próprias fraquezas.
-Praticar a humildade.
-Abençoar os que nos firam.
-Amar os adversários.
-Orar pelos que nos perseguem e caluniam.
-Converter dores em bênçãos.
-Aceitar as provações da vida com paciência e bom ânimo.
-Transformar os golpes do mal em oportunidades para fazer o bem.
-Servir ao próximo em qualquer circunstância.
-Jamais duvidar da presença de Deus.
-Semelhantes atitudes são prodígios da fé; busquemos sustentá-las com todo o nosso coração, recordando as palavras do Mestre a cada enfermo que Seu Divino Amor levantava e restaurava nos caminhos do mundo: “a tua fé te curou”.
-
+1 Alimentar e alimentar, a larva também se alimenta, carregando aperfeiçoado sistema digestivo.
+2 Vestir e vestir, certas aves também ostentam plumagens que causam inveja aos melhores figurinistas.
+3 Procriar e procriar, o tatu também procria, utilizando primorosos recursos genésicos.
+4 Obedecer e obedecer, o cão também obedece, quase sempre demonstrando fidelidade até ao sacrifício.
+5 Triunfar e triunfar, também surgem cavalos, cujas vitórias no prado são celebradas com regozijo público.
+6 Sofrer e sofrer, o boi também paga os mais elevados impostos de sofrimento, no instituto da evolução.
+7 Imitar e imitar, o símio também imita com extrema habilidade muitas das manifestações visíveis da inteligência.
+8 Organizar e organizar, a abelha e a formiga também edificam verdadeiros impérios de harmonia coletiva.
+9 Em verdade, o homem não se pode orgulhar de semelhantes operações que constituem igualmente apanágio do reino animal, conquanto seja obrigado a atender, naturalmente às necessidades primordiais da existência.
+10 Razão, por isso, é o poder de educar-se alguém para que a Vida se eduque em torno.
+11 Discernimento é conquista sagrada. Estudemos e estudemos.
+12 Quem recebe uma fé raciocinada para o coração e para a cabeça, qual acontece na Doutrina Espírita ajustada ao Evangelho de Jesus, adquiriu o mais alto instrumento que se pode obter do mundo para construir em si mesmo a elevação do próprio destino.
 
 ---
 
-## 71 — Diante da consciência
+## 65
 
-A vontade do Criador, na essência, é, para nós, a atitude mais elevada que somos capazes de assumir, onde estivermos, em favor de todas as criaturas.
-Que vem a ser, porém, essa atitude mais elevada que estamos chamados a abraçar, diante dos outros?
-Sem dúvida, é a execução do dever que as leis do Eterno Bem nos preceituam para a felicidade geral, conquanto o dever adquira especificações determinadas, na pauta das circunstâncias.
-Vejamos alguns dos nomes que o definem, nos lugares e condições em que somos levados a cumpri-lo:
-Na conduta — sinceridade;
-no sentimento — limpeza;
-na ideia — elevação;
-na atividade — serviço;
-no repouso — dignidade;
-na alegria — temperança;
-na dor — paciência;
-no lar — devotamento;
-na rua — gentileza;
-na profissão — diligência;
-no estudo — aplicação;
-no poder — liberalidade;
-na afeição — equilíbrio;
-na corrigenda — misericórdia;
-na ofensa — perdão;
-no direito — desprendimento;
-na obrigação — resgate;
-na posse — abnegação;
-na carência — conformidade;
-na tentação — resistência;
-na conversa — proveito;
-no ensino — demonstração;
-no conselho — exemplo.
-Em qualquer parte ou situação, não hesites quanto à atitude mais elevada a que nos achamos intimados pelos Propósitos Divinos, diante da consciência.
-Para encontrá-la, basta procures realizar o melhor de ti mesmo, a benefício dos outros, porquanto, onde e quando te esqueces para servir em auxílio ao próximo; aí surpreenderás a vontade de Deus que, sustentando o Bem de todos, nos atende ao anseio de paz e felicidade, conforme a paz e a felicidade que oferecemos a cada um.
+1 O ressentimento não é somente um peso morto, à feição de chumbo na flama alígera de nossa prece, compelindo-a a descer, anulada, nas sombras da frustração, e, em verdade, nem é apenas o tóxico que envenena a membrana gástrica, provocando moléstias de abordagem difícil…
+2 É também o fermento da treva que, a exteriorizar-se de melindres inconsequentes, avança qual projétil invisível sobre companheiros invigilantes, debuxando as linhas de lama em que a maledicência e a calúnia proliferam sem peias, ferindo almas e consciências, tanto quando depredando ou destruindo instituições generosas e veneráveis que nos rogam compreensão e devotamento a fim de que produzam redenção e progresso no campo da Humanidade.
+3 Cada vez que o desgosto te bata à porta, aprende a esquecê-lo com toda a alma.
+4 Lembra-te de que todos somos devedores insolventes da Tolerância Divina e que, por isso mesmo, em nossas imperfeições e fraquezas, não prescindimos da caridade recíproca, a fim de que nos mantenhamos de pé.
+5 Jamais olvidemos quão profunda é a nossa dificuldade para retificar em nós mesmos as qualidades que nos desagradam nos outros e banhemos o pensamento no grande amor, para que a fraternidade real nos abençoe o caminho.
+6 Seja qual for o grau da ofensa recebida, não te esqueças de que somente a fonte do perdão irrestrito possui bastante poder para extinguir o lodo da miséria e da ignorância, porquanto, pretendendo fazer-nos justiça, com a força das próprias mãos, invariavelmente caímos na delinquência e no desespero que nos agravam a detenção nas cadeias do crime ou nas algemas da crueldade.
 
 ---
 
-## 72 — Oração e serviço
+## 66
 
-Oração é requerimento da criatura ao Criador.
-Serviço é condição que a lei estabelece para todas as criaturas, a fim de que o Criador lhes responda.
-Meditação estuda.
-Trabalho realiza.
-Observemos a propriedade do asserto em quadros simples.
-Semente nobre é pedido silencioso da natureza a que se faça verdura e pão.
-Mas, se o cultivador não desenvolve esforço conveniente, a súplica viva desaparece .
-Livro edificante é apelo sublime do espírito a que se ergam instrução e cultura.
-Mas, se o homem não lhe perlustra as folhas no aprendizado, a sábia rogativa fenece, em vão.
-Música, ainda mesmo divina, se mora exclusivamente na pauta, é melodia que não nasceu.
-Invenção sem experimento é raciocínio morto.
-Oremos, meus irmãos, mas oremos servindo.
-Construção correta não se concretiza sem planta adequada.
-Mas a palavra, por mais bela, sem construção que lhe corresponda, será sempre um sonho mumificado em tábuas de geometria.
+1 A criatura terrestre pode realmente: aproveitar-se de leis que não subscreve; 2 manobrar vantagens que não conquista; 3 cruzar caminhos que não talha; 4 habitar a casa que não levanta; 5 comer o pão que não produz; 6 trajar o fio que não tece; 7 ampliar processos de reconforto que não inventa; 8 colaborar na execução de programas que não planeia; 9 utilizar veículos que não fabrica; 10 medicar-se com elementos que desconhece…
+11 Todas essas operações consegue a pessoa humana efetuar, ignorando, muitas vezes, onde o bem, onde o mal, onde a sombra, onde a luz.
+12 Devemos convencer-nos, no entanto, de que, para libertar-se, efetivamente, diante da vida, a criatura terrestre há de raciocinar com a própria cabeça.
+13 Ninguém pode viver a toda hora, com discernimento emprestado.
+14 É por isso que somos chamados, na Doutrina Espírita, a estudar instruindo-nos, e, pela mesma razão, advertiu-nos Jesus de que apenas o conhecimento da verdade nos fará livres. ( † )
+15 Se aspiramos, assim, à conquista da emancipação espiritual para a imortalidade, é forçoso que cada um de nós desenvolva, com esforço próprio, as sementes da verdade que traz consigo.
 
 ---
 
-## 73 — Limpeza
+## 67
 
-Onde o bem se mostra por edificação do bem de todos, a limpeza comparece na base de todos os serviços.
-A fim de que produza, com segurança, a gleba aguarda o concurso da enxada contra o crescimento da erva daninha.
-
-O laboratório reclama instrumentos esterilizados para que o remédio alcance os fins a que se destina.
-
-O lar espera faxina diária, na preservação da saúde dos moradores.
-
-O livro, verdadeiramente nobre, demanda rigorosa triagem para que se lhe evite, no texto, o prejuízo dos termos chulos.
-Nas providências mais simples da vida, surpreendemos semelhante necessidade.
-
-Alimento sadio requisita seleção de produtos.
-
-Água, para servir, quer filtragem.
-
-Roupa não se conserva sem a cooperação da lavadeira.
-
-Vias públicas solicitam esgotos.
-Nas mesmas circunstâncias, diante das posições desagradáveis da alma, que, de fato, equivalem a perturbações e moléstias obscuras da mente, é necessário saibamos usar a lixívia da paciência, aclarando raciocínios e renovando emoções, definindo atitudes e policiando palavras, na certeza de que toda cura espiritual exige a limpeza do pensamento.
+1 Paciência incessante em todas as dores e em todas as circunstâncias, a fim de que venhamos a transpor com segurança as dificuldades que vigem por fora, mas também cultivar paciência conosco, para construirmos a nobilitação que nos é necessária.
+2 Com isso, não queremos dizer que devamos acalentar as nossas fraquezas ou aplaudir as próprias faltas, mas sim que não nos cabe interromper a edificação, no mundo íntimo, quando surjam falhas em nós, no serviço do bem que nos toca fazer.
+3 Frequentemente, fugimos envergonhados, desertando das tarefas de elevação, martelando confissões, qual se pregássemos esponjas de farpas no coração, para que nos firamos a toda hora.
+4 E repetimos a cada instante: — Verifiquei que não presto… 5 — Tentei melhorar-me e não pude… 6 — Não me peçam voltar ao serviço, que não sou santo… 7 — Larguei a oração porque tenho lama no pensamento… 8 — Sou um poço de vermes… 9 — Não quero perturbar os outros com os meus defeitos… 10 — Sou um monte de erros…
+11 Há quem recorra ao rifão popular: “pau que nasce torto tem a sombra torta”, esquecendo-se de que existem milhares de troncos, tortos na configuração externa, guardando seiva robusta e sadia, na produção dos frutos com que alimentam as criaturas.
+12 Cair é acidente próprio dos que caminham. Refocilar-se no chão é próprio dos que se animalizam.
+13 Aprendamos a emendar, corrigir, restaurar, refazer…
+14 Nos derradeiros ensinamentos, Jesus não se esqueceu de induzir-nos à calma, recomendando aos seguidores: “Na paciência, possuireis as vossas almas.” ( † )
+15 Isso realmente significa que precisamos de paciência, não só para angariar a simpatia e a colaboração das almas alheias, mas para educar também as nossas.
 
 ---
 
-## 74 — Paciência e nós
+## 68
 
-
-Quando as dificuldades atingem o apogeu, induzindo os companheiros mais valorosos a desertarem da luta pelo estabelecimento das boas obras, e prossegues sob o peso da responsabilidade que elas acarretam, na convicção de que não nos cabe descrer da vitória final…
-
-Quando os problemas se multiplicam na estrada, pela invigilância dos próprios amigos, e te manténs, sem revolta, nas realizações edificantes a que te consagras…
-
-Quando a injúria te espanca o nome, procurando desmantelar-te o trabalho, e continuas fiel às obrigações que abraçaste, sem atrasar o serviço com justificações ociosas…
-
-Quando tentações e perturbações te ameaçam as horas, tumultuando-te os passos, e caminhas à frente, sem reclamações e sem queixas…
-
-Quando te é lícito largar aos ombros de outrem a carga de atribuições sacrificiais que te assinala a existência, e não te afastas do serviço a fazer, entendendo que nenhum esforço é demais em favor do próximo…
-
-Quando podes censurar e não censuras, exigir e não exiges…
-Então, terás levantado a fortaleza da paciência no reino da própria alma.
-Nem sempre passividade significa resignação construtiva.
-Raramente pode alguém demonstrar conformidade, quando se encontre sob os constrangimentos da provação.
-Paciência, em verdade, é perseverar na edificação do bem, a despeito das arremetidas do mal, e prosseguir corajosamente cooperando com ela e junto dela, quando nos seja mais fácil desistir.
+1 Tudo o que é útil e tudo o que é nobre na Terra exige preparação.
+2 Casa alguma se ergue sem que elemento a elemento se ajuste na concretização do plano estabelecido.
+3 Campo cultivado reclama operações sistemáticas de limpeza e adubação, amparo e plantio.
+4 Roupa que veste passou por múltiplas fases de trabalho desde a produção do fio singelo.
+5 O pão mais simples não aparece, fora dos arranjos indispensáveis.
+6 O livro, para surgir, transmitindo informações e conhecimentos, roga gestação mental e esforço de composição, letra a letra.
+7 A sinfonia que aprimora as fontes da inspiração, requisita combinações e estudos diversos, para que os sons se harmonizem, nota por nota.
+8 Certifiquemo-nos de que as probabilidades da mensagem sem fio vibravam na Terra, antes de Marconi. ( † )
+9 A gravitação era realidade, antes de Newton.
+10 Todos os ingredientes, destinados ao progresso e à civilização, ao aperfeiçoamento e à proteção da vida física, jazem potencialmente nos reservatórios da Natureza.
+11 O homem, porém, apenas desfruta aquilo que ele próprio analisou e construiu.
+12 Assim também, no terreno do espírito. Todos os recursos necessários à educação e à sublimação da individualidade, à criação intelectual e à revelação do Plano extrasensorial, estão contidos, em possibilidades virtuais, nas esferas do pensamento.
+13 Ninguém espere milagres depois da morte. Na Terra ou além da Terra, cada pessoa somente dispõe, em si e fora de si, da cultura e do merecimento que edificou.
 
 ---
 
-## 75 — O sinal espírita
+## 69
 
-Quando a pessoa entrou no Espiritismo, é fácil verificar: basta perquirir um fichário ou escutar uma indicação.
-Entretanto, a fim de positivar se o Espiritismo entrou na pessoa, é indispensável que a própria criatura faça menção disso, através de manifestações evidentes.
-Vejamos dez das inequívocas expressões do sinal espírita na individualidade, que sempre se representa pelo designativo “mais”, nos domínios do bem:
-
-mais serviço espontâneo e desinteressado aos semelhantes;
-
-mais empenho no estudo;
-
-mais noção de responsabilidade;
-
-mais zelo na obrigação;
-
-mais respeito pelos problemas dos outros;
-
-mais devotamento à verdade;
-
-mais cultivo de compaixão;
-
-mais equilíbrio nas atitudes;
-
-mais brandura na conversa;
-
-mais exercício de paciência.
-Ser espírita de nome, perante o mundo, decerto que já significa trazer legenda honrosa e encorajadora na personalidade, mas, para que a criatura seja espírita, à frente dos Bons Espíritos, é necessário apresentar o sinal espírita da renovação interior, que, ante a Vida Maior, tem a importância que se confere na Terra às prerrogativas de um passaporte ou ao valor de uma certidão.
+1 Tua prosperidade não transparece unicamente da face material do teu dinheiro, das tuas posses, da tua casa, dos teus bens.
+2 Ela se compõe das experiências que ajuntaste, de alma transida, ante as incompreensões que te cercaram as horas, com as quais saberás esquecer amarguras e ofensas.
+3 Forma-se dos conhecimentos nobilitantes que amealhaste pelo estudo perseverante com que te habilitas ao privilégio de minorar as fadigas e o sofrimento dos irmãos que te acompanham à retaguarda, sem luz que os norteie…
+4 Ergue-se das palavras temperadas de prudência e de amor que as provações atravessadas com paciência te acumularam no escrínio da alma, transfigurando-te em socorro aos caídos…
+5 Eleva-se dos gestos de compaixão, que amontoaste à custa das disciplinas a que te submeteste em favor dos que amas, pelas quais adquiriste o tato capaz de arredar a discórdia no nascedouro…
+6 Avoluma-se nas migalhas de tempo, que sabes extrair das obrigações retamente cumpridas, para que te não falte a oportunidade de trabalhar no amparo aos menos felizes…
+7 Tua prosperidade brilha nos exemplos de fraternidade com que dignificas a vida, 8 nas demonstrações de altruísmo com que suprimes a crueldade, 9 nos testemunhos de fé renovadora com que levantas os tíbios 10 ou nos atos de humildade com que desarmas a delinquência.
+11 Reparte com o próximo os valores que transportas no Espírito.
+12 Aquele que verdadeiramente serve, distribui sem nunca empobrecer-se.
+13 Quem mais deu e quem mais dá sobre a Terra é Jesus-Cristo, cuja riqueza verte, infinita, dos tesouros do coração.
 
 ---
 
-## 76 — Pense nisso
+## 70
 
-Se você considerasse as provações e as desvantagens do ofensor…
-Se experimentasse na própria pele o processo obsessivo do companheiro caído em tentação…
-Se você carregasse a sombra da ignorância, tanto quanto aquele que erra…
-Se sofresse a dificuldade do amigo que lhe não pôde atender aos desejos…
-Se estivesse doente, qual a pessoa que procura ser agradável sem consegui-lo…
-Se você fosse uma das criaturas, cuja segurança depende do seu bom humor…
-Se conhecesse todas as necessidades de quem precisa da sua cooperação…
-Se percebesse em si mesmo o esgotamento daquele que serviu até o extremo cansaço e agora já não lhe pode ser útil…
-Se meditasse nas consequências de sua irritação ou de sua cólera…
-Se você refletisse na caridade da paz e da alegria, em favor dos outros, que lhe capitalizará, cada vez mais, a própria felicidade, certamente que você nunca perderia a paciência e saberia trazer no coração e nos lábios a boa palavra e o sorriso fraterno por bênçãos incessantes de Deus.
+1 Esquecer agravos. 2 Apagar injúrias. 3 Desprender-se das posses materiais em benefício dos outros. 4 Reconhecer as próprias fraquezas. 5 Praticar a humildade. 6 Abençoar os que nos firam. 7 Amar os adversários. 8 Orar pelos que nos perseguem e caluniam. 9 Converter dores em bênçãos. 10 Aceitar as provações da vida com paciência e bom ânimo. 11 Transformar os golpes do mal em oportunidades para fazer o bem. 12 Servir ao próximo em qualquer circunstância. 13 Jamais duvidar da presença de Deus.
+14 Semelhantes atitudes são prodígios da fé; busquemos sustentá-las com todo o nosso coração, recordando as palavras do Mestre a cada enfermo que Seu Divino Amor levantava e restaurava nos caminhos do mundo: “A tua fé te curou.” ( † )
 
 ---
 
-## 77 — Férias espíritas
+## 71
 
-Dedicamos aos companheiros espíritas algumas sugestões para o tempo de férias.
-Viajar, se possível, no rumo de instituição consagrada à assistência, cooperando, por alguns dias, no tratamento de irmãos em provas maiores que as nossas, como sejam os obsidiados em posição difícil ou os doentes semi-desamparados.
-Devotar-se à pregação ou à conversação doutrinárias, nos lares de caridade pública, onde estejam irmãos hansenianos, tuberculosos ou portadores de moléstias que requisitem segregação.
-Auxiliar, de algum modo, aos que jazem nos cárceres.
-Ensinar os princípios espíritas evangélicos, nas organizações doutrinárias mais humildes, comumente sediadas na periferia de cidades ou vilas, colaborando na sementeira da Nova Revelação.
-Executar um programa de visitas fraternas aos paralíticos, cegos, enfermos esquecidos ou agonizantes no local de residência.
-Observar com respeito e discrição o ambiente doméstico das viúvas em abandono, enumerando sem alarde as necessidades materiais que aí se destaquem e atendendo-as, quanto seja possível.
-Contribuir com algum serviço pessoal para a segurança e conforto do templo espírita que nos beneficia, quais sejam a pintura ou renovação de paredes, a restauração de utilidades, a reparação de livros edificantes ou tarefas concernentes à ordem e à limpeza em geral.
-Reunir material de instrução doutrinária, tais como jornais e impressos espíritas, distribuindo-os através de prisões e hospitais, onde permaneçam irmãos desejosos de mais amplos conhecimentos.
-Costurar para os necessitados, principalmente no sentido de melhorar a rouparia de orfanatos, creches e lares outros de assistência espírita-cristã.
-Preparar o enxoval para algum pequenino, em vias de renascer nos distritos de penúria e sofrimento.
-Criar a alegria de um enfermo, largado ao próprio infortúnio, ou de uma criança que a provação situou em constrangedoras necessidades.
-Pense nas suas férias e não permita que a sua oportunidade de elevação venha a escapar.
+1 A vontade do Criador, na essência, é, para nós, a atitude mais elevada que somos capazes de assumir, onde estivermos, em favor de todas as criaturas.
+2 Que vem a ser, porém, essa atitude mais elevada que estamos chamados a abraçar, diante dos outros? 3 Sem dúvida, é a execução do dever que as leis do Eterno Bem nos preceituam para a felicidade geral, conquanto o dever adquira especificações determinadas, na pauta das circunstâncias.
+4 Vejamos alguns dos nomes que o definem, nos lugares e condições em que somos levados a cumpri-lo:
+5 Na conduta — sinceridade; 6 no sentimento — limpeza; 7 na ideia — elevação; 8 na atividade — serviço; 9 no repouso — dignidade; 10 na alegria — temperança; 11 na dor — paciência; 12 no lar — devotamento; 13 na rua — gentileza; 14 na profissão — diligência; 15 no estudo — aplicação; 16 no poder — liberalidade; 17 na afeição — equilíbrio; 18 na corrigenda — misericórdia; 19 na ofensa — perdão; 20 no direito — desprendimento; 21 na obrigação — resgate; 22 na posse — abnegação; 23 na carência — conformidade; 24 na tentação — resistência; 25 na conversa — proveito; 26 no ensino — demonstração; 27 no conselho — exemplo.
+28 Em qualquer parte ou situação, não hesites quanto à atitude mais elevada a que nos achamos intimados pelos Propósitos Divinos, diante da consciência. 29 Para encontrá-la, basta procures realizar o melhor de ti mesmo, a benefício dos outros, porquanto, onde e quando te esqueces para servir em auxílio ao próximo; aí surpreenderás a vontade de Deus que, sustentando o Bem de todos, nos atende ao anseio de paz e felicidade, conforme a paz e a felicidade que oferecemos a cada um.
 
 ---
 
-## 78 — Unicamente de ti
+## 72
 
-Diante do serviço do bem, não afirmes “não posso” e não digas “nada sei”.
-Lembra-te de que no curso dos dias, a se repetirem no tempo, cada hora pode trazer-nos sempre nova lição.
-E há tarefas, na experiência, cuja solução depende unicamente de ti.
-
-Nem dos mestres de teu caminho…
-
-Nem dos amados de tua alma…
-
-Nem dos conselheiros de tua fé…
-
-Nem dos heróis de teu culto…
-
-Nem dos benfeitores desencarnados…
-
-Nem dos amigos que te rodeiam…
-
-Unicamente de ti mesmo…
-A sós contigo e ao lado dos credores e devedores de tua marcha…
-
-É o chamamento imperioso da renúncia no lar,
-
-é o dever no campo profissional em que os pequenos sacrifícios gravam a ficha de tua honra,
-
-é o necessitado a rentear contigo na via pública, suplicando-te amparo,
-
-é o amigo a quem podes pessoalmente desculpar, sempre que haja uma falta a ser esquecida,
-
-é a criança que te pede um minuto de apoio,
-
-é o espírito em sombra, a rogar-te leve gota de luz, através da palavra tolerante e afetuosa…
-Não olvides, assim, que, se há programa de caridade a luzir para todos, há um apelo da Lei de Deus a ti somente, para que exercites a sublime virtude com tua esposa ou com teu esposo, com teu filho e com teu amigo, com teu desafeto ou com teu devedor…
-E atendendo, em silêncio, ao convite celeste, a que se faça o bem que o mundo em torno espera agora unicamente de ti, acordarás, mais tarde, na Beneficência Divina, de coração convertido em astro de entendimento, a brilhar para a vida em sereno esplendor.
+1 Oração é requerimento da criatura ao Criador.
+2 Serviço é condição que a lei estabelece para todas as criaturas, a fim de que o Criador lhes responda.
+3 Meditação estuda.
+4 Trabalho realiza.
+5 Observemos a propriedade do asserto em quadros simples.
+6 Semente nobre é pedido silencioso da natureza a que se faça verdura e pão, mas, se o cultivador não desenvolve esforço conveniente, a súplica viva desaparece.
+8 Livro edificante é apelo sublime do espírito a que se ergam instrução e cultura, mas, se o homem não lhe perlustra as folhas no aprendizado, a sábia rogativa fenece, em vão.
+7 Música, ainda mesmo divina, se mora exclusivamente na pauta, é melodia que não nasceu.
+9 Invenção sem experimento é raciocínio morto.
+10 Oremos, meus irmãos, mas oremos servindo.
+11 Construção correta não se concretiza sem planta adequada.
+12 Mas a palavra, por mais bela, sem construção que lhe corresponda, será sempre um sonho mumificado em tábuas de geometria.
 
 ---
 
-## 79 — Programa espírita
+## 73
 
-Reconhecer no berço um livro que se abriu para uma conta nova.
-Aceitar cada dia por página, ante o Céu, que nos grave o melhor.
-Escriturar valor, benevolência, fé, bondade e compreensão sobre as linhas das horas.
-Observar que a dor é o remédio da vida para retificar os nossos próprios erros.
-Viver e trabalhar pelo câmbio do amor.
-Dar tudo o que há de bom por tudo o que há de mau.
-Usar a caridade a começar de casa.
-Ser socorro tranquilo onde lavrem paixões.
-Enfeitar cada espinho em rosas de esperança.
-Ajudar sem pedir compensação nenhuma.
-Jamais perder na estrada a visão do otimismo.
-Esquecer toda ofensa e envolver o ofensor nas vibrações da paz que a oração entretece.
-Valer-se do presente e elevar o porvir.
-Eis o programa do espírita que tem, na forja do trabalho, a divisa do bem: estudar, renovar-se, aprender e servir.
+1 Onde o bem se mostra por edificação do bem de todos, a limpeza comparece na base de todos os serviços. 2 A fim de que produza, com segurança, a gleba aguarda o concurso da enxada contra o crescimento da erva daninha. 3 O laboratório reclama instrumentos esterilizados para que o remédio alcance os fins a que se destina. 4 O lar espera faxina diária, na preservação da saúde dos moradores. 5 O livro, verdadeiramente nobre, demanda rigorosa triagem para que se lhe evite, no texto, o prejuízo dos termos chulos.
+6 Nas providências mais simples da vida, surpreendemos semelhante necessidade. 7 Alimento sadio requisita seleção de produtos. 8 Água, para servir, quer filtragem. 9 Roupa não se conserva sem a cooperação da lavadeira. n 10 Vias públicas solicitam esgotos.
+11 Nas mesmas circunstâncias, diante das posições desagradáveis da alma, que, de fato, equivalem a perturbações e moléstias obscuras da mente, é necessário saibamos usar a lixívia da paciência, aclarando raciocínios e renovando emoções, definindo atitudes e policiando palavras, na certeza de que toda cura espiritual exige a limpeza do pensamento.
 
 ---
 
-## 80 — Oração do servo imperfeito
+## 74
 
-Senhor!…
-Dura é a pedra, entretanto, com a tua sabedoria, temo-la empregada em obras de segurança.
-Violento é o fogo, todavia, sob a tua inspiração, foi ele posto em disciplina, em auxílio da inteligência.
-Agressiva é a lâmina, no entanto, ao influxo de teu amparo, vemo-la piedosa, na caridade da cirurgia.
-Enfermiço é o pântano, contudo, sob tua benevolência, encontramo-lo convertido em celeiro de flores.
-Eu também trago comigo a dureza da pedra, a violência do fogo, a agressividade da lâmina e a enfermidade do charco, mas com a tua bênção de amor, posso desfrutar o privilégio de cooperar na construção do teu Reino!…
-Para isso, porém, Senhor, concede-me, por acréscimo de misericórdia, a felicidade de trabalhar e ensina-me a receber o dom de servir.
+1 Quando as dificuldades atingem o apogeu, induzindo os companheiros mais valorosos a desertarem da luta pelo estabelecimento das boas obras, e prossegues sob o peso da responsabilidade que elas acarretam, na convicção de que não nos cabe descrer da vitória final… 2 Quando os problemas se multiplicam na estrada, pela invigilância dos próprios amigos, e te manténs, sem revolta, nas realizações edificantes a que te consagras… 3 Quando a injúria te espanca o nome, procurando desmantelar-te o trabalho, e continuas fiel às obrigações que abraçaste, sem atrasar o serviço com justificações ociosas… 4 Quando tentações e perturbações te ameaçam as horas, tumultuando-te os passos, e caminhas à frente, sem reclamações e sem queixas… 5 Quando te é lícito largar aos ombros de outrem a carga de atribuições sacrificiais que te assinala a existência, e não te afastas do serviço a fazer, entendendo que nenhum esforço é demais em favor do próximo… 6 Quando podes censurar e não censuras, exigir e não exiges…
+7 Então, terás levantado a fortaleza da paciência no reino da própria alma.
+8 Nem sempre passividade significa resignação construtiva.
+9 Raramente pode alguém demonstrar conformidade, quando se encontre sob os constrangimentos da provação.
+10 Paciência, em verdade, é perseverar na edificação do bem, a despeito das arremetidas do mal, e prosseguir corajosamente cooperando com ela e junto dela, quando nos seja mais fácil desistir.
+
+---
+
+## 75
+
+1 Quando a pessoa entrou no Espiritismo, é fácil verificar: basta perquirir um fichário ou escutar uma indicação. 2 Entretanto, a fim de positivar se o Espiritismo entrou na pessoa, é indispensável que a própria criatura faça menção disso, através de manifestações evidentes.
+3 Vejamos dez das inequívocas expressões do sinal espírita na individualidade, que sempre se representa pelo designativo “mais”, nos domínios do bem: 4 mais serviço espontâneo e desinteressado aos semelhantes; 5 mais empenho no estudo; 6 mais noção de responsabilidade; 7 mais zelo na obrigação; 8 mais respeito pelos problemas dos outros; 9 mais devotamento à verdade; 10 mais cultivo de compaixão; 11 mais equilíbrio nas atitudes; 12 mais brandura na conversa; 13 mais exercício de paciência.
+14 Ser espírita de nome, perante o mundo, decerto que já significa trazer legenda honrosa e encorajadora na personalidade, mas, para que a criatura seja espírita, à frente dos Bons Espíritos, é necessário apresentar o sinal espírita da renovação interior, que, ante a Vida Maior, tem a importância que se confere na Terra às prerrogativas de um passaporte ou ao valor de uma certidão.
+
+---
+
+## 76
+
+1 Se você considerasse as provações e as desvantagens do ofensor… 2 Se experimentasse na própria pele o processo obsessivo do companheiro caído em tentação… 3 Se você carregasse a sombra da ignorância, tanto quanto aquele que erra… 4 Se sofresse a dificuldade do amigo que lhe não pôde atender aos desejos… 5 Se estivesse doente, qual a pessoa que procura ser agradável sem consegui-lo… 6 Se você fosse uma das criaturas, cuja segurança depende do seu bom humor… 7 Se conhecesse todas as necessidades de quem precisa da sua cooperação… 8 Se percebesse em si mesmo o esgotamento daquele que serviu até o extremo cansaço e agora já não lhe pode ser útil… 9 Se meditasse nas consequências de sua irritação ou de sua cólera… 10 Se você refletisse na caridade da paz e da alegria, em favor dos outros, que lhe capitalizará, cada vez mais, a própria felicidade, certamente que você nunca perderia a paciência e saberia trazer no coração e nos lábios a boa palavra e o sorriso fraterno por bênçãos incessantes de Deus.
+
+---
+
+## 77
+
+1 Dedicamos aos companheiros espíritas algumas sugestões para o tempo de férias.
+2 Viajar, se possível, no rumo de instituição consagrada à assistência, cooperando, por alguns dias, no tratamento de irmãos em provas maiores que as nossas, como sejam os obsidiados em posição difícil ou os doentes semi-desamparados.
+3 Devotar-se à pregação ou à conversação doutrinárias, nos lares de caridade pública, onde estejam irmãos hansenianos, tuberculosos ou portadores de moléstias que requisitem segregação.
+4 Auxiliar, de algum modo, aos que jazem nos cárceres.
+5 Ensinar os princípios espíritas evangélicos, nas organizações doutrinárias mais humildes, comumente sediadas na periferia de cidades ou vilas, colaborando na sementeira da Nova Revelação.
+6 Executar um programa de visitas fraternas aos paralíticos, cegos, enfermos esquecidos ou agonizantes no local de residência.
+7 Observar com respeito e discrição o ambiente doméstico das viúvas em abandono, enumerando sem alarde as necessidades materiais que aí se destaquem e atendendo-as, quanto seja possível.
+8 Contribuir com algum serviço pessoal para a segurança e conforto do templo espírita que nos beneficia, quais sejam a pintura ou renovação de paredes, a restauração de utilidades, a reparação de livros edificantes ou tarefas concernentes à ordem e à limpeza em geral.
+9 Reunir material de instrução doutrinária, tais como jornais e impressos espíritas, distribuindo-os através de prisões e hospitais, onde permaneçam irmãos desejosos de mais amplos conhecimentos.
+10 Costurar para os necessitados, principalmente no sentido de melhorar a rouparia de orfanatos, creches e lares outros de assistência espírita-cristã.
+11 Preparar o enxoval para algum pequenino, em vias de renascer nos distritos de penúria e sofrimento.
+12 Criar a alegria de um enfermo, largado ao próprio infortúnio, ou de uma criança que a provação situou em constrangedoras necessidades.
+13 Pense nas suas férias e não permita que a sua oportunidade de elevação venha a escapar.
+
+---
+
+## 78
+
+1 Diante do serviço do bem, não afirmes “não posso” e não digas “nada sei”.
+2 Lembra-te de que no curso dos dias, a se repetirem no tempo, cada hora pode trazer-nos sempre nova lição.
+3 E há tarefas, na experiência, cuja solução depende unicamente de ti. 4 Nem dos mestres de teu caminho… 5 Nem dos amados de tua alma… 6 Nem dos conselheiros de tua fé… 7 Nem dos heróis de teu culto… 8 Nem dos benfeitores desencarnados… 9 Nem dos amigos que te rodeiam… 10 Unicamente de ti mesmo…
+11 A sós contigo e ao lado dos credores e devedores de tua marcha…
+12 É o chamamento imperioso da renúncia no lar, 13 é o dever no campo profissional em que os pequenos sacrifícios gravam a ficha de tua honra, 14 é o necessitado a rentear contigo na via pública, suplicando-te amparo, 15 é o amigo a quem podes pessoalmente desculpar, sempre que haja uma falta a ser esquecida, 16 é a criança que te pede um minuto de apoio, 17 é o espírito em sombra, a rogar-te leve gota de luz, através da palavra tolerante e afetuosa…
+18 Não olvides, assim, que, se há programa de caridade a luzir para todos, há um apelo da Lei de Deus a ti somente, para que exercites a sublime virtude com tua esposa ou com teu esposo, com teu filho e com teu amigo, com teu desafeto ou com teu devedor…
+19 E atendendo, em silêncio, ao convite celeste, a que se faça o bem que o mundo em torno espera agora unicamente de ti, acordarás, mais tarde, na Beneficência Divina, de coração convertido em astro de entendimento, a brilhar para a vida em sereno esplendor.
+
+---
+
+## 79
+
+1 Reconhecer no berço um livro que se abriu para uma conta nova. 2 Aceitar cada dia por página, ante o Céu, que nos grave o melhor. 3 Escriturar valor, benevolência, fé, bondade e compreensão sobre as linhas das horas. 4 Observar que a dor é o remédio da vida para retificar os nossos próprios erros. 5 Viver e trabalhar pelo câmbio do amor. 6 Dar tudo o que há de bom por tudo o que há de mau. 7 Usar a caridade a começar de casa. 8 Ser socorro tranquilo onde lavrem paixões. 9 Enfeitar cada espinho em rosas de esperança. 10 Ajudar sem pedir compensação nenhuma. 11 Jamais perder na estrada a visão do otimismo. 12 Esquecer toda ofensa e envolver o ofensor nas vibrações da paz que a oração entretece. 13 Valer-se do presente e elevar o porvir.
+14 Eis o programa do espírita que tem, na forja do trabalho, a divisa do bem: estudar, renovar-se, aprender e servir.
+
+---
+
+## 80
+
+1 Senhor!… Dura é a pedra, entretanto, com a tua sabedoria, temo-la empregada em obras de segurança. 2 Violento é o fogo, todavia, sob a tua inspiração, foi ele posto em disciplina, em auxílio da inteligência. 3 Agressiva é a lâmina, no entanto, ao influxo de teu amparo, vemo-la piedosa, na caridade da cirurgia. 4 Enfermiço é o pântano, contudo, sob tua benevolência, encontramo-lo convertido em celeiro de flores.
+5 Eu também trago comigo a dureza da pedra, a violência do fogo, a agressividade da lâmina e a enfermidade do charco, mas com a tua bênção de amor, posso desfrutar o privilégio de cooperar na construção do teu Reino!… 6 Para isso, porém, Senhor, concede-me, por acréscimo de misericórdia, a felicidade de trabalhar e ensina-me a receber o dom de servir.

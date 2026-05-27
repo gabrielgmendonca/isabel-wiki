@@ -2,20 +2,11 @@
 
 **Autor espiritual:** Mensagens familiares de Lineu de Paula Leão Jr.  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Vav/VavAnexo2.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Vav/VavAnexo1.htm
 
 ---
 
-##  — Notas e apontamentos
-
-> (1)  Júnior desencarnou no dia de seu aniversário, completando 27 anos.
-> — Aristides de Paula Leão, O Acidente
-
-Para melhor compreensão das mensagens — prova insofismável da comunicação dos chamados “mortos” com os chamados “vivos”, nelas foi efetuada a necessária numeração, com a significação abaixo:
-
----
-
-## O ACIDENTE — Esclarecimentos
+## O ACIDENTE
 
 Na manhã de 12 de julho de 1985, quando completava 27 anos de idade, o engenheiro Lineu de Paula Leão Júnior, que na véspera havia dirigido sua camioneta por 860 quilômetros, viajando de Ituverava (SP) a Campo Grande (MS), dirigia-se para o centro comercial desta última cidade, através de sua avenida principal (com duas vias de tráfego e largo canteiro central) quando, em um dos seus principais cruzamentos, com o carro parado, aguardando o sinal verde, acabou sendo alboroado pela traseira por um velho caminhão FNM. Este, desde que havia entrado na avenida, estava sem o funcionamento do cardã (a cruzeta não foi achada), o que demonstra o precário estado de sua conservação. Sem também a corrente obrigatória que seguraria o eixo do cardã, esta peça começou a bater no asfalto e a ricochetear, de tal modo que inutilizou os canos dos freios e deu início às primeiras fagulhas de incêndio.
 Utilizando uma via de tráfego proibida a caminhões, só o veterano motorista deve saber porque preferiu descer o acentuado declive da avenida, tendo certeza (tal o “rush” do momento) que o enorme caminhão vazio que dirigia só poderia parar utilizando como amortecedor um carro pequeno. O lógico seria guiar o veículo para o canteiro central, onde as árvores o parariam, sem perigo para ninguém.
@@ -26,7 +17,7 @@ Em Janeiro de 1985 mudaram seu domicílio da capital de São Paulo para Campo Gr
 O pai Lineu; foi criado em lar tradicionalmente espírita, eis que seus progenitores, Aristides de Paula Leão e Alayde de Paula Silveira, praticavam, enquanto vivos, o kardecismo, sendo que Aristides, por mais de três decênios foi presidente do Centro Espírita “Fé, Esperança e Caridade”, de Ituverava (SP). Lineu, como a maioria dos homens, distanciou-se de sua religião, na ânsia da conquista de bens materiais. Jamais tentou passar aos filhos, Júnior e Sandra, sua crença.
 A mãe, Elza, formou-se professora em escola de freiras e praticava o catolicismo, ainda que concordasse com temas básicos da teoria espírita, mormente o da reencarnação.
 Seus filhos, com liberdade de optarem pela religião que quisessem, frequentaram o curso ginasial em educandários católicos.
-Lineu de Paula Leão Júnior nasceu em Ituverara (SP), em 12 de julho de 1958. Cursou o ginasial no Arquidiocesano e o colegial no Objetivo, ambos em São Paulo. Formou-se engenheiro civil em Belo Horizonte.
+Lineu de Paula Leão Júnior nasceu em Ituverava (SP), em 12 de julho de 1958. Cursou o ginasial no Arquidiocesano e o colegial no Objetivo, ambos em São Paulo. Formou-se engenheiro civil em Belo Horizonte.
 Há um ano antes do acidente, praticava com sucesso a sojicultura e a pecuária em imóveis seus e ajudava seu pai na administração das propriedades deste.
 Em carta de 15 de outubro de 1985, dirigida à Câmara Municipal de Ituverava (SP), em agradecimento a homenagem que a mesma prestara à memória de Júnior, seus pais lhe traçaram o perfil:
 “Modesto e humilde a mais não poder; jovial, honesto e sincero, simbolizava sempre a alma reta, do povo ituveravense, ao qual, sempre proclamava, com alto e bom som, tinha a satisfação de pertencer. Filho boníssimo e carinhoso, tinha sempre nos lábios o sorriso franco e uma palavra de amizade aos que dele se acercavam.”
@@ -43,8 +34,8 @@ Os ambientes humildes de sua residência e de sua casa de preces recendem paz e 
 Que é um homem bom, simples e modesto, tudo o indica. Mas deve ser também um homem culto, ainda que sem ostentar láureas acadêmicas. Senão, como dissecar tantos e complexos temas com a habilidade do mais exímio cirurgião? Senão, como comentar conceitos de “A Grande Síntese”, de Pietro Ubaldi, à frente de seu autor, como nos conta o Prof. Clóvis Tavares em seu livro “Trinta Anos com Chico Xavier”?
 Os pais de Júnior sabiam que suas preces poderiam ser efetuadas em qualquer ambiente. Contudo, as ondas do fogo que consumiram o corpo físico do filho querido, comumente brotavam em seus corações, incendiavam suas mentes e turvavam suas vistas. Por mais que corressem em suas faces, silenciosas e tristes, eram poucas suas lágrimas para abrandarem o fogo do sofrimento e da saudade.
 A paz que emana de Chico Xavier e dos ambientes em que ele se encontra, todavia, fazia com que as preces que pronunciavam em sua casa ou em seu centro, como que os aproximavam mais de Deus e do filho que partira tão cedo.
-Na sexta visita ao “Grupo Espírita da Prece”, de Chico Xavier, dia 1-11-1985, os pais de Júnior observaram que uma senhora da mesa diretora dos trabalhos os observava constantemente.
-Posteriormente, esta senhora dirigiu-se à Dª Elza, perguntando-lhe:
+Na sexta visita ao “Grupo Espírita da Prece”, de Chico Xavier, dia 1.11.1985, os pais de Júnior observaram que uma senhora da mesa diretora dos trabalhos os observava constantemente.
+Posteriormente, esta senhora dirigiu-se à D.ª Elza, perguntando-lhe:
 “—Seu filho desencarnou recentemente?”
 Diante da resposta afirmativa, continuou:
 “— Ele parecia consigo. Apenas o rosto era mais fino e comprido. Sorriso largo, com os bonitos dentes superiores se mostrando todos, à frente, não?”
@@ -52,20 +43,29 @@ Surpresa, novamente Elza confirmou os dizeres da interlocutora e mostrou-lhe um 
 “— Este mesmo. Mas bem mais claro”, disse a senhora.
 Os pais de Júnior se admiraram e perguntaram-lhe se havia conhecido seu filho e onde ela o havia visto.
 “— Não o conheci quando em vida. Mas, durante os trabalhos desta noite, não pude deixar de observar aquele rapaz ao lado de vocês, sorrindo. E, quando a senhora chorava, lágrimas também desciam dos olhos dele.”
-Citada senhora, Dª Guiomar Albaneze, diretora do “Centro Espírita Perseverança”, de São Paulo, e de outras obras sociais daquela Capital, com seus dizeres, animou os pais do falecido, pois se ela, médium vidente, observara Júnior ao lado deles seria porque ele estaria próximo a lhes transmitir algo.
-Realmente, na madrugada do dia seguinte, 2-11-1985, pela mediunidade assombrosa de Chico Xavier, Júnior transmitiu a seus pais sua primeira mensagem, 3 meses e 20 dias após sua morte.
-Na primeira mensagem, de 2-11-1985, Júnior explica os fatos ao acidente; descreve o seu desenlace, o novo ambiente em que se encontra e, acalmando os pais, traça o procedimento que julga correto para o futuro. É uma comunicação que demonstra as atribulações que atravessam os Espíritos de todos que foram envolvidos pelos fatos narrados, inclusive o do comunicante.
-A segunda missiva (1-3-1986) já espelha o que Júnior foi na vida terrena: um jovem intimamente alegre, calmo, caridoso e, principalmente, modesto.
-A terceira (4-7-1986) reflete a preocupação do filho com a saúde do pai. Ensina a respeito da proteção dos Espíritos no ambiente hospitalar e, principalmente, sobre o poder da prece.
-Na quarta (28-9-1986), Júnior discorre sobre atos e fatos familiares. Nota-se ainda seu apego às coisas terrenas.
+Citada senhora, D.ª Guiomar Albaneze, diretora do “Centro Espírita Perseverança”, de São Paulo, e de outras obras sociais daquela Capital, com seus dizeres, animou os pais do falecido, pois se ela, médium vidente, observara Júnior ao lado deles seria porque ele estaria próximo a lhes transmitir algo.
+Realmente, na madrugada do dia seguinte, 2.11.1985, pela mediunidade assombrosa de Chico Xavier, Júnior transmitiu a seus pais sua primeira mensagem, 3 meses e 20 dias após sua morte.
+Na primeira mensagem, de 2.11.1985, Júnior explica os fatos ao acidente; descreve o seu desenlace, o novo ambiente em que se encontra e, acalmando os pais, traça o procedimento que julga correto para o futuro. É uma comunicação que demonstra as atribulações que atravessam os Espíritos de todos que foram envolvidos pelos fatos narrados, inclusive o do comunicante.
+A segunda missiva (1.3.1986) já espelha o que Júnior foi na vida terrena: um jovem intimamente alegre, calmo, caridoso e, principalmente, modesto.
+A terceira (4.7.1986) reflete a preocupação do filho com a saúde do pai. Ensina a respeito da proteção dos Espíritos no ambiente hospitalar e, principalmente, sobre o poder da prece.
+Na quarta (28.9.1986), Júnior discorre sobre atos e fatos familiares. Nota-se ainda seu apego às coisas terrenas.
 A quinta epístola, recebida na véspera dos finados de 1986, é dedicada aos “mortos-vivos”. Doutrinariamente, é elucidativa; literariamente, é poética.
-A sexta mensagem (14-2-1987) é uma verdadeira lição de tolerância religiosa.
-Na carta de 3-5-1987 — sétima — há a força do estímulo e do entusiasmo.
-Na madrugada do dia que marcava o segundo ano do acidente que vitimou Júnior (12-7-1987), ele deu sua oitava mensagem. Já com o espírito mais estabilizado, recorda as minúcias do evento, complementando então a primeira missiva. É um hino de louvor à resignação e aos desígnios da providência divina. “Se formos fazer a listagem dos benefícios que recebemos nesses dois anos, todas as nossas dores ficarão para trás”, resume ele.
+A sexta mensagem (14.2.1987) é uma verdadeira lição de tolerância religiosa.
+Na carta de 3.5.1987 — sétima — há a força do estímulo e do entusiasmo.
+Na madrugada do dia que marcava o segundo ano do acidente que vitimou Júnior (12.7.1987), ele deu sua oitava mensagem. Já com o espírito mais estabilizado, recorda as minúcias do evento, complementando então a primeira missiva. É um hino de louvor à resignação e aos desígnios da providência divina. “Se formos fazer a listagem dos benefícios que recebemos nesses dois anos, todas as nossas dores ficarão para trás”, resume ele.
 
 ---
 
-##  — Introdução
+## 
+
+> (1) - Júnior desencarnou no dia de seu aniversário, completando 27 anos.
+> — Aristides de Paula Leão, O Acidente
+
+Para melhor compreensão das mensagens — prova insofismável da comunicação dos chamados “mortos” com os chamados “vivos”, nelas foi efetuada a necessária numeração, com a significação abaixo:
+
+---
+
+## 
 
 Era uma tarde chuvosa, logo após o retorno de nossas férias passadas em Mato Grosso, de onde voltei deslumbrada com o verdadeiro “oceano” de soja que lá, e pela maior parte do percurso, pudemos apreciar, quando fui chamada a conhecer os pais de Lineuzinho.
 Mais uma dessas “coincidências” que sempre nos ocorrem e nos confirmam a lei da harmonia da vida! Um casal entusiasmado com as experiências vividas após o desencarne de seu filho, e repletos de planos de trabalho, seguindo a orientação dele, para o futuro.
@@ -74,419 +74,259 @@ Para a maioria dos pais, seus filhos são sempre portadores de excelentes qualid
 Quando pequeno, teve cachorros, pássaros, carneiros, gatos, tartarugas, etc. como muitas crianças; porém se a mãe adquirisse um frango caipira vivo, ele se tornava galo pois Júnior não permitia a sua morte.
 Certa vez, conta Dona Elza, trouxeram da fazenda para a residência em São Paulo um carneiro que seria sacrificado no Natal próximo. O animal acabou sendo criado no jardim pois Júnior não deixava matá-lo.
 Contaram-nos que Júnior era alto, magro, um tanto desengonçado, incapaz de vestir-se para mostrar o que não era, e nem mesmo aquilo que era.
-Constantemente Dona Elza pedia que substituísse uma camisa, colocasse uma cinta ou trocasse os sapatos. Quando não estava com pressa, obedecia sorrindo:
-— Ora “muié”, está bom assim, não estou vestido e calçado?
+Constantemente Dona Elza pedia que substituísse uma camisa, colocasse uma cinta ou trocasse os sapatos. Quando não estava com pressa, obedecia sorrindo: — Ora “muié”, está bom assim, não estou vestido e calçado?
 Não raro, vindo da fazenda, tomava banho, trocava roupas limpas e calçava os sapatos sujos com os quais acabara de chegar. Outras vezes, vindo da cidade, chegava à fazenda e começava a trabalhar, esquecendo-se de trocar os sapatos de cromo pela botas de serviço.
 “Certa feita, diz o pai, cheguei em sua propriedade agrícola e fui encontrá-lo acompanhando a colheita de soja em cima de uma colheitadeira, sujo, alegre, risonho e… portanto um relógio Rolex caríssimo que lhe havíamos oferecido anos antes.”
 Lineu Jr. recebia de seus pais uma mesada atualizada para manter-se em Belo Horizonte durante o período de faculdade. Porém, sempre que vinha para casa, nas férias, estava magro e com as roupas puídas pelo uso. Sua mãe comprava-lhe novas indumentárias e o pai reclamava, achando que se alimentava mal.
 Como será que ele gastaria sua mesada para estar tão magro e mal vestido?
 Bem, uns seis meses após o desencarne, eles o descobriram.
-Por três vezes um jovem havia procurando Dr. Lineu em sua residência de Campo Grande, porém não o encontrara nem deixou nome e endereço, afirmava ser colega de faculdade de Júnior e queria estar pessoalmente com seu pai.
+Por três vezes um jovem havia procurado Dr. Lineu em sua residência de Campo Grande, porém não o encontrara nem deixou nome e endereço, afirmava ser colega de faculdade de Júnior e queria estar pessoalmente com seu pai.
 Afinal, quando encontraram-se, ele explicou: formara-se na mesma turma de Lineuzinho, e residia agora em uma cidade do interior, exercendo sua profissão com sucesso. Procurou Dr. Lineu não só para conhecê-lo como para pagar uma dívida que contraíra com Júnior.
-“— Seu filho, disse o jovem a Dr. Lineu” era homem de extrema bondade. No último semestre da faculdade perdi meu avô, que ajudava a me sustentar. Eu trabalhava de manhã, frequentava a faculdade à tarde e estudava à noite na pensão. Com a perda de meu avô, vi-me obrigado a parar os estudos, pois o que ganhava não dava para todas as despesas. Resolvi trancar a matrícula e trabalhar o dia todo, a fim de capitalizar-me e terminar o curso no semestre seguinte. Estava triste, pensando se não haveria outra solução, quando seu filho chegou perto de mim e, com seu eterno sorriso, perguntou:
-— Problemas? Quem sabe posso ajudar?
+“— Seu filho, disse o jovem a Dr. Lineu” era homem de extrema bondade. No último semestre da faculdade perdi meu avô, que ajudava a me sustentar. Eu trabalhava de manhã, frequentava a faculdade à tarde e estudava à noite na pensão. Com a perda de meu avô, vi-me obrigado a parar os estudos, pois o que ganhava não dava para todas as despesas. Resolvi trancar a matrícula e trabalhar o dia todo, a fim de capitalizar-me e terminar o curso no semestre seguinte. Estava triste, pensando se não haveria outra solução, quando seu filho chegou perto de mim e, com seu eterno sorriso, perguntou: — Problemas? Quem sabe posso ajudar?
 Confiei nele e contei-lhe meu drama. Ele ficou sério alguns instantes mas, logo depois, sorrindo novamente, disse:
 — Ora, não seria o fim do mundo você terminar o curso no próximo semestre e não neste. Mas, quem sabe? Apertemos os cintos e eu poderei emprestar-lhe um pouco de minha mesada. Mais tarde você me paga.
-Assim fez nos cinco meses seguintes. Ao término do curso, com emprego já assegurado, perguntei-lhe quanto haveria de lhe pagar, se iria cobrar juros, etc. Ele sorriu, bateu-me nas costas e disse:
-— Amigo, tudo é fato passado. Esqueça. Vá em frente, pois sei que você está de casamento marcado.”
+Assim fez nos cinco meses seguintes. Ao término do curso, com emprego já assegurado, perguntei-lhe quanto haveria de lhe pagar, se iria cobrar juros, etc. Ele sorriu, bateu-me nas costas e disse: — Amigo, tudo é fato passado. Esqueça. Vá em frente, pois sei que você está de casamento marcado.”
 De outra vez, conversando com uma senhora, esposa de um oficial do exército, e sua filha., que conheceram Lineu Jr. e vieram demonstrar solidariedade pela dor vivida, o assunto encaminhou-se para a possível vingança que poderiam executar contra o motorista do FNM. Dr. Lineu confessou que este era um sentimento que procurava expelir, mas sempre retornava, acenando com o corpo carbonizado de seu filho. Só o tempo e as preces e, principalmente, a compreensão dos fatos foram dissolvendo os sentimentos de ódio e vingança.
-Naquele momento porém, em que a senhora falava em vingança, sentiu que maus pensamentos afluíam ao cérebro. A jovem, que pouco dissera até então, observou:
-— Se Júnior saiu ao pai, não creio que o senhor tomará qualquer providência de vingança. Ele era bom demais para se deixar dominar por um sentimento deste tipo…
-Os empregados tinham-no como patrão, mas não o temiam. Eram seus amigos. Certa ocasião, ao chegar em uma de suas fazendas, o capataz explicou que Júnior estava na vila próxima, resolvendo certos assuntos e, sentindo a pressa de seu pai, disse:
-— Se houver pressa, não carece o senhor ficar. Júnior resolve tudo…
+Naquele momento porém, em que a senhora falava em vingança, sentiu que maus pensamentos afluíam ao cérebro. A jovem, que pouco dissera até então, observou: — Se Júnior saiu ao pai, não creio que o senhor tomará qualquer providência de vingança. Ele era bom demais para se deixar dominar por um sentimento deste tipo…
+Os empregados tinham-no como patrão, mas não o temiam. Eram seus amigos. Certa ocasião, ao chegar em uma de suas fazendas, o capataz explicou que Júnior estava na vila próxima, resolvendo certos assuntos e, sentindo a pressa de seu pai, disse: — Se houver pressa, não carece o senhor ficar. Júnior resolve tudo…
 Na verdade; Dr. Lineu sentiu que eles preferiam trabalhar o quanto se fizesse necessário para que tudo corresse bem a fim de que a administração de seu filho não pudesse sofrer críticas.
 Quando do preparo da terra para o plantio de soja, em que o atraso pode significar uma má colheita, um dos tratoristas sentiu-se mal, na hora do revezamento. À meia-noite Júnior foi acordado pela voz alta do capataz que achava que o cronograma não poderia ser alterado pelo mal estar de um tratorista. Lineu Jr. levantou-se, colocou-se a par da situação, mandou o empregado repousar sem colocar em dúvida sua palavra, tomou a direção do trator e acompanhou os demais trabalhadores para a lavoura.
 Até hoje, todos aqueles que com ele trabalharam naquela noite lembram-se da figura magra do patrão, dirigindo um trator pela noite adentro, com a poeira envolvendo-os a todos, enquanto a madrugada lançava suas luzes cinzentas no alvorecer. Seu gesto encerrou a discussão sem ninguém sentir-se ofendido, fez com que o serviço não se atrasasse e impôs a todos a marca generosa de sua personalidade.
 Ele organizou o time de futebol dos servidores. Forneceu camisas, bolas, mandou construir o campo e, o mais importante (Dr. Lineu pasmou!) substituía algum jogador caso isto fosse necessário. Logo ele, que nunca jogara ou apreciara futebol!
 Júnior era apaixonado, além da leitura e da música, por motos e carros. Aos 14 anos, fez uma aposta com seu pai a respeito de suas notas no ginásio. O pai achou que seria impossível a vitória do filho pois só faltavam 2 meses para o final do ano letivo. Mas foi assim que ele ganhou sua primeira moto.
 Júnior cresceu e a moto tornou-se pequena demais para suas longas pernas; porém seu pai sempre o desestimulava em adquirir outra. Até que, dois meses antes de seu acidente, decidiu-se por comprá-la.
-Veio a São Paulo, comprou-a e nela, saiu em viagem, para tormento maior de seus pais que, nos últimos tempos, sentiam forte angústia. Telefonaram para cada localidade em que Lineuzinho esteve, após sua passagem, para certificarem-se de que tudo ia bem. De São Paulo, visitou amigos pelo interior de Minas, foi a Viçosa visitar a namorada, passou por Belo Horizonte e foi à casa da avó, em Ituverava. De lá, na Quarta-feira, telefonou ao pai para combinarem o dia em que comemorariam seu 27.° aniversário. A data seria na sexta-feira mas a festa seria no sábado. Disse ao pai pelo telefone:
-— Muito perigoso, papai, não creio que faça novas viagens em moto. Experimentei e não gostei devido ao menosprezo dos motoristas para com os motoqueiros. O senhor tinha razão, moto só para espairecer de vez em quando.
-Colocou a moto na traseira de sua Pampa e seguiu na manhã seguinte para Campo Grande. No dia seguinte, sexta-feira, antes de sair para ir ao banco, despediu-se da mãe, dizendo:
-— Papai virá hoje para meu aniversário. Não era isto que Dona Elza havia entendido, a festa seria no dia seguinte e resolveu então não acompanhá-lo ao banco, para fazer um almoço adequado à data. Ocorreu então o acidente fatal.
+Veio a São Paulo, comprou-a e nela, saiu em viagem, para tormento maior de seus pais que, nos últimos tempos, sentiam forte angústia. Telefonaram para cada localidade em que Lineuzinho esteve, após sua passagem, para certificarem-se de que tudo ia bem. De São Paulo, visitou amigos pelo interior de Minas, foi a Viçosa visitar a namorada, passou por Belo Horizonte e foi à casa da avó, em Ituverava. De lá, na Quarta-feira, telefonou ao pai para combinarem o dia em que comemorariam seu 27.º aniversário. A data seria na sexta-feira mas a festa seria no sábado. Disse ao pai pelo telefone: — Muito perigoso, papai, não creio que faça novas viagens em moto. Experimentei e não gostei devido ao menosprezo dos motoristas para com os motoqueiros. O senhor tinha razão, moto só para espairecer de vez em quando.
+Colocou a moto na traseira de sua Pampa e seguiu na manhã seguinte para Campo Grande. No dia seguinte, sexta-feira, antes de sair para ir ao banco, despediu-se da mãe, dizendo: — Papai virá hoje para meu aniversário. Não era isto que Dona Elza havia entendido, a festa seria no dia seguinte e resolveu então não acompanhá-lo ao banco, para fazer um almoço adequado à data. Ocorreu então o acidente fatal.
 O carinho com que Lineuzinho envolve seus pais e demais familiares continua se fazendo presente, quer seja em sonho, quer seja “marcando presença”, movimentando seu aparelho de barbear que ficara na fazenda para que sua mãe tivesse confirmadas as sensações de sua presença, ou mudando o canal de televisão, que seu pai estava assistindo, para um programa de rock. Música que seu pai quase nunca ouve mas ele, sempre que podia, ouvia.
 Suas mensagens, esclarecendo dúvidas de seus familiares, trazem certeza e ensinamentos para muitos, como no caso de sua querida avó Joana, que sempre tivera muito medo de morrer e agora encontra-se plenamente confiante de que a vida é sempre vida, seja aqui, como nós no Plano físico a conhecemos, ou no além, comumente chamado de reino dos “mortos”.
 Na certeza de que este é mais um Novo Companheiro a caminho da luz, despeço-me carinhosamente,
-São Paulo, fevereiro de 1988.
 
 ---
 
-##  — Novo companheiro
+## 
 
-O Autor deste livro dispensa qualquer apresentação, depois das observações dos pais queridos que o trouxeram à vida física.
-O nosso amigo Dr. Lineu de Paula Leão, que lhe foi o genitor na Terra, traça-lhe o retrato, nas páginas que se seguem, com tamanha fidelidade, e o jovem Lineu, em pessoa, nos tem proporcionado tantos testemunhos de amor ao próximo e tantos gestos de humanidade e compreensão, que a alegria e o reconhecimento nos possuem o espírito, ao tê-lo ao nosso lado, sob a tutela daquele companheiro generoso, que lhe foi o generoso avô paterno, o nosso irmão Aristides de Paula Leão, igualmente emérito trabalhador na difusão das realidades espirituais, que somente nos resta a satisfação de abraçá-lo com todas as forças do coração e repetir lhe: — Filho, trabalhemos na Seara de Jesus e que Ele, nosso Mestre e Senhor, nos inspire e abençoe.
-Uberaba, 29 de janeiro de 1988.
-
----
-
-## 1 — Primeiras notícias
-
-Querida mãezinha Elza e querido papai Lineu.
-Agradeço-lhes a presença confortadora e tentarei alinhar algumas notícias minhas. Naquele dia 12 as horas amanheceram com a fisionomia de festa. Notava a mãezinha Elza preocupada com a mesa que nos ofereceria naquela marca dos vinte e sete anos.
-1
-Não sei se estou enfileirando dados exatos, porque estou em convalescença e recuperação. Quero dizer-lhes porém, que em mim tudo respirava vigor e tranquilidade, sempre escudado na dedicação dos pais queridos.
-Dispus-me a sair pela manhã de sol alto,
-2
-certamente o papai Lineu viria da fazenda ao nosso encontro.
-3
-Pensei que deveria necessitar de algum dinheiro, trocando alguns de meus cheques com amigos nossos.
-As horas seguiam na matemática dos ponteiros. Parei o carro na retaguarda de outros vários que aguardavam o sinal, quando senti que um corpo pesado em demasia prensava o meu Alfa, ao mesmo tempo que aquele impacto me atingia a cabeça com violência.
-Entontecido, de repente observei que algo de estranho me espancava a vida intracraneana e compreendi que fora vítima da ruptura de vasos importantes, sem que fosse permitido falar.
-Aquela estranha convulsão me apagara o raciocínio. Tentei recorrer à oração; entretanto, a coordenação de meus vocábulos, mesmo no pensamento, se fazia impossível.
-Como se fora transportado da inconsciência ao sono, vi a mim próprio fora do meu corpo, espantando-me com a dualidade de que o choque me fazia objeto.
-Naquela atmosfera de penumbra, embora soubesse que o sol claro estaria brilhando por fora de minha sonolência, avistei um homem de olhar compassivo que me estendeu as mãos, esclarecendo: “— Lineuzinho, venha conosco; seu avô Aristides também está à sua espera!”
-Tudo aquilo transcorria numa partícula mínima de tempo, quando ouvi barulho de explosão à retaguarda.
-“— Filho, sigamos! — falou o amigo generoso — Não olhe para trás, porque de agora em diante, os seus caminhos se desdobram para a frente!”
-Nesse mesmo instante, vi que vovô Aristides finalmente chegava e os dois entrelaçaram as mãos para que eu pudesse dispor de um abrigo para descanso.
-4
-Procurei ainda exercitar a palavra a fim de avisar que me achava à espera de meu pai Lineu, quando um torpor irresistível me submeteu a um sono agitado, que até hoje não consigo compreender.
-Aquele sono era um labirinto de pesadelos, no qual observava estampados quadros vivos de minha própria existência.
-Quis relutar contra o repouso, de modo a definir o que me ocorria; entretanto, o sono se fez mais profundo e perdi de todo a noção de mim.
-Despertei num ambiente agradável, em que os dois amigos pareciam aguardar-me a conscientização.
-Meu avô, embora entendendo as minhas dificuldades da voz, apresentou-me o companheiro da primeira hora: “— Lineuzinho, este é o nosso Aristides Nery, de Igarapava. Ambos temos o mesmo nome”.
-5
-Fiz um aceno movimentando levemente a cabeça dolorida, na intenção de demonstrar a minha simpatia para com o desconhecido.
-Nesse ponto de minhas lembranças, entrou uma senhora que se me deu a conhecer por mãe da vovó Joana e que até hoje me dispensa especial carinho.
-6
-Demorei um tanto a retomar a minha capacidade vocal e perguntei a meu avô se tudo aquilo que estava acontecendo era a morte.
-Ele confirmou, trocando a expressão “morte” por “desencarnação”.
-Reconhecendo-me transferido à força para a vida diferente que, de certo, me aguardava para novas obrigações, passei a chorar, recordando os pais queridos, a nossa Sandra Maria
-7
-e a nossa Luciana,
-11
-que não acreditariam naquela mudança compulsória.
-Recordei Ituverava, os amigos da fazenda, além dos meus laços mais íntimos e desatei o pranto que me banhou todo o rosto.
-8
-Meu avô compadeceu-se de mim e falou-me palavras de consolo e esperança, que me ficariam impressas na memória.
-Depois de alguns dias pude rever a família em Campo Grande e começava a pensar em suicídio, quando o vovô Aristides se incumbiu de erradicar de mim tais pensamentos, explicando com bom humor que eu já não conseguiria destruir o meu corpo de novas expressões e, usando o melhor de mim, de que poderia dispor, deliberei aceitar a situação com a possível serenidade.
-Com isso, tranquilizei os amigos que me cercavam e pude retornar a Campo Grande, amargurando-me com a tristeza da mamãe Elza, que não conseguia me esquecer.
-Foi então que ao ler-lhe os pensamentos, como quem senhoreia textos de páginas e páginas, vim a saber que o Instituto Médico Legal me considerava vítima de queimaduras que a nenhum corpo humano é dado resistir.
-9
-Com todo o meu respeito ao I.M.L., desejei aclarar a ideia de minha mãe sobre a intensa hemorragia interna que me expulsou do corpo.
-Hoje venho confirmar isso, para arredar da cabeça da mãezinha e do pensamento de nossa Sandra Maria, a suposta informação de que eu teria sido vítima de queimaduras cruéis.
-10
-Isso não aconteceu. Não me lembrei de queimadura alguma, de vez que não retratara nenhuma.
-Se o fogo desmantelou o meu carro, não me alcançou de modo algum. Mãe, peço-lhe coragem e fé em Deus.
-As queimaduras mencionadas nas perícias, tanto me tocaram como as chamas atingem a roupa de alguém sem ferir esse alguém.
-Peço à mãezinha Elza diga minhas notícias à nossa Sandra e à nossa Luciana, a companheirinha que eu tomaria, em breve, se Deus permitisse, para a condição de minha esposa e tutora espiritual, no casamento que nos reuniria as esperanças.
-11
-Agora, peço aos queridos pais serenidade e bom ânimo, com a certeza de que continuo em vida diferente mas ligado à nossa existência comum.
-Rogo ao papai Lineu conformação e paz em nosso favor, porque há muito que fazer para ele, unido a mim.
-Nós ambos trabalharemos, quanto possível, para que o bem se estenda aos outros, porque na verdade sou seu filho mas junto de outros rapazes, filhos de Deus quanto nós, que esperam quem lhes estimule o propósito de trabalhar e estudar.
-12
-Papai, a nossa vida não terminou e os nossos planos de agir para a execução do bem comum continuam comigo.
-Mãezinha Elza, abençoe-me e fique tranquila. As saudades são de nossa plantação recíproca. Lembremo-nos de que a nossa Sandra e nosso amigo Fernandes, com a familhinha iniciante, precisam de nós e tenhamos paz e coragem para a travessia das renovações do momento.
-13
-Muito carinho à nossa Luciana e muitas lembranças aos nossos de Campo Grande, da Fazenda e de Ituverava.
-O meu avô Aristides é de parecer que já transmiti as notícias que se faziam convenientes e que devo terminar.
-É o que faço saudosamente, beijando-lhes reconhecidamente as mãos de pais queridos, lutadores fiéis e obreiros do bem, com o imensurável amor e o maior respeito do filho que lhes deve as maiores alegrias e pede a Deus conservá-los sempre e cada vez mais felizes.
+1 O Autor deste livro dispensa qualquer apresentação, depois das observações dos pais queridos que o trouxeram à vida física.
+2 O nosso amigo Dr. Lineu de Paula Leão, que lhe foi o genitor na Terra, traça-lhe o retrato, nas páginas que se seguem, com tamanha fidelidade, e o jovem Lineu, em pessoa, nos tem proporcionado tantos testemunhos de amor ao próximo e tantos gestos de humanidade e compreensão, que a alegria e o reconhecimento nos possuem o espírito, ao tê-lo ao nosso lado, sob a tutela daquele companheiro generoso, que lhe foi o generoso avô paterno, o nosso irmão Aristides de Paula Leão, igualmente emérito trabalhador na difusão das realidades espirituais, que somente nos resta a satisfação de abraçá-lo com todas as forças do coração e repetir lhe: — Filho, trabalhemos na Seara de Jesus e que Ele, nosso Mestre e Senhor, nos inspire e abençoe.
 
 ---
 
-## 2 — “Carta do coração”
+## 1ª Mensagem
 
-Querido papai Lineu e querida mãezinha Elza: Peço a Jesus fortalecer-nos e abençoar-nos.
-Pai, é tão grande a minha alegria ao abraçá-lo que a emoção me constringe a garganta, transmitindo-se aos meus dedos, obrigando-me a escrever com certa dificuldade.
-Mãezinha Elza, muito grato por haver insistido com o papai para virem até aqui hoje.
-As minhas saudades eram muito grandes e quem não consegue tocar as pessoas queridas, qual me acontece agora, contenta-se com a possibilidade de se desinibir escrevendo, dando expansão aos sentimentos de amor e saudade que nos pressionam o coração.
-Meu pai, agradeço a sua disposição de defender-me contra as opiniões dos que me supuseram inerte, incapaz de me movimentar contra o fogo que vinha de fora.
-15
-Compreendo a extensão da luta de que fui o causador involuntário.
-Sucede que a fila dos veículos à espera do sinal de passagem crescera muito e, sempre na expectativa de que o movimento se normalizasse, tomei os impactos que me lesaram as veias do cérebro.
-Pouco a pouco, estou sendo conscientizado de que o acontecimento infeliz viria a se concretizar naquele dia de mais uma primavera de gente moça.
-1
-Importante é que eu tive a intuição de que a mãezinha Elza e a nossa Sandra Maria poderiam preparar a nossa mesa de meu aniversário, a fim de esperar a sua chegada depois do meio dia.
-3
-Preparei-me. Creia que o senhor era o meu personagem central para a festa. Nunca me vira de tal modo alegre e otimista, mal sabendo o que me esperava.
-Do que se realizou em matéria de sofrimento já lhes dei as minhas notícias.
-Agora desejo falar de meus agradecimentos aos pais queridos, que me abençoaram e me fizeram feliz durante a minha vida toda.
-Desejo, com o meu reconhecimento, falar de minhas saudades da terra de que o seu paternal carinho me fez presente para ter um pedaço de chão a cultivar e um pedaço de céu azul para ver com exclusividade.
-16
-Sinto saudades de minha soja, cujo verde me impressionava e do gado que me habituei a querer bem; tenho saudades da Sandra Maria, do Saturnino e dos meus sobrinhos pequenos, que se achegavam a meu colo.
-13
-Tenho muitas saudades da vovó Joana,
-17
-sempre compreensiva e prestimosa, abraçando todos que chegassem à sua casa em Ituverava; tenho saudades de Luciana,
-11
-principalmente quando líamos juntos algum texto espiritual que nos fazia pensar muito mais no futuro além da Terra do que nos bens da Terra mesma.
-Lemos juntos algumas páginas inesquecíveis que me prepararam para esta vida nova que estou vivendo com esperança e otimismo e, vezes várias, era ela que me favorecia com a cessão de livros espíritas e outros, que me serviram com eficiência, porque, ao que julgo, os que chegam por aqui sem qualquer conhecimento espiritual, se me figuram pessoas analfabetas, encontrando grandes embaraços para compreender a renovação compulsória a que foram induzidas pela desencarnação.
-18
-Devo muito a Ituverava e à namorada que, afinal, consubstanciava as qualidades que eu desejava surpreender numa jovem para me casar, de futuro.
-Vovó Joana está sempre em minha memória. Aqui, a nossa querida bisavó me lembra sempre aquele carinho irradiante e constante.
-A propósito, desejo contar-lhes que passei a não chamar minha bisavó por bisavó Filhinha,
-6
-porque o tempo lhe refez a beleza. A chamada bisavó Filhinha é uma senhora de nobre juventude espiritual que se lhe derrama de todos os gestos.
-Falando nisso a ela, eis que ela me disse: “Lineuzinho, ficarei contente se você me chamar por vovó Telva, um nome que me agrada.” Pois em companhia da vovó Telva, tenho tido belos momentos, que somente não são completos porque me faltam os pais queridos e a Sandra Maria com os meninos, para completarem a paisagem doméstica iluminada de espiritualidade que a vovó Telva nos proporciona.
-Em vista de minha liberação, considerada aqui muito recente, vejo-me ainda no instituto de tratamento a que fui conduzido por meu avô Aristides.
-4
-A vida aqui prossegue repleta de encantos para quem trouxe a vontade de trabalhar e o espírito de aceitação dos desígnios de Deus.
-19
-Há poucos dias o vovô Aristides me buscou para receber, com ele e vovó Alayde,
-20
-uma visita confortadora. Fui até à moradia cercada de gerânios e rosas que o vovô Aristides faz questão de cultivar e esperei alguns momentos.
-A visita era de um casal cuja bondade criava um ambiente de paz e tranquilidade. Ele já era meu conhecido — o benfeitor Aristides Nery
-5
-e a senhora que o acompanhava era a esposa dele, que eu não conhecia, Dona Agripina Nery.
-Fiquei encantado com o carinho de meus avós na recepção íntima em que todos os assuntos foram de interesse espiritual, sem a menor parcela de curiosidade ou lembrança de lutas da Terra.
-Tudo isso me reconforta e espero, um dia, ser mais preciso e mais claro em minhas notícias, não para criar qualquer fascínio a favor da desencarnação e sim ampliar a nossa convicção de como é útil e belo poder trabalhar e servir na Terra para encontrar tanta alegria e paz no Grande Além.
-Mãezinha Elza, perdoe-me se me excedi nos comentários.
-Desejo fazer-lhes um pedido, à mãezinha e a meu pai. Não conservem objetos e utilidades que me pertenceram. Ficarei satisfeito se a Sandra Maria selecionar algumas lembranças para os meus sobrinhos, a fim de guardarem alguma lembrança do tio quando crescerem e, a maior parte, estimaria que a vovó Joana se incumbisse de distribuir com os rapazes amigos de Ituverava, a critério dela mesma.
-21
-Mãezinha, perdoe-me se formulo esta solicitação; desejo apenas que conserve os nossos retratos, porque eles são as imagens de nossos momentos mais belos e mais felizes. Se estou a contrariá-los, desculpem a minha infantilidade de gente ainda verde. Meu pai, mais uma vez lhe agradeço por todo o seu devotamento de pai e amigo.
-Mãezinha Elza, mais uma vez reafirmo-lhe o reconhecimento que reina no coração de seu filho.
-O vovô Aristides, que me faz companhia, julga que devo encerrar esta carta do coração.
-Recebam os pais queridos, com a nossa Sandra Maria e o nosso Saturnino, com as crianças, com a querida vovó Joana e com a estimada Luciana, todo o coração do filho reconhecido, que agradece a Deus o privilégio de lhes haver sido filho e companheiro, ontem e hoje — no hoje que desejo ser o sempre de nossa feliz união.
+1 Querida mãezinha Elza e querido papai Lineu.
+2 Agradeço-lhes a presença confortadora e tentarei alinhar algumas notícias minhas. Naquele dia 12 as horas amanheceram com a fisionomia de festa. Notava a mãezinha Elza preocupada com a mesa que nos ofereceria naquela marca dos vinte e sete anos. (1)
+3 Não sei se estou enfileirando dados exatos, porque estou em convalescença e recuperação. Quero dizer-lhes porém, que em mim tudo respirava vigor e tranquilidade, sempre escudado na dedicação dos pais queridos.
+4 Dispus-me a sair pela manhã de sol alto, (2) certamente o papai Lineu viria da fazenda ao nosso encontro. (3) Pensei que deveria necessitar de algum dinheiro, trocando alguns de meus cheques com amigos nossos.
+5 As horas seguiam na matemática dos ponteiros. Parei o carro na retaguarda de outros vários que aguardavam o sinal, quando senti que um corpo pesado em demasia prensava o meu Alfa, ao mesmo tempo que aquele impacto me atingia a cabeça com violência.
+6 Entontecido, de repente observei que algo de estranho me espancava a vida intracraneana e compreendi que fora vítima da ruptura de vasos importantes, sem que fosse permitido falar.
+7 Aquela estranha convulsão me apagara o raciocínio. Tentei recorrer à oração; entretanto, a coordenação de meus vocábulos, mesmo no pensamento, se fazia impossível.
+8 Como se fora transportado da inconsciência ao sono, vi a mim próprio fora do meu corpo, espantando-me com a dualidade de que o choque me fazia objeto.
+9 Naquela atmosfera de penumbra, embora soubesse que o sol claro estaria brilhando por fora de minha sonolência, avistei um homem de olhar compassivo que me estendeu as mãos, esclarecendo: “— Lineuzinho, venha conosco; seu avô Aristides também está à sua espera!”
+10 Tudo aquilo transcorria numa partícula mínima de tempo, quando ouvi barulho de explosão à retaguarda.
+11 “— Filho, sigamos! — falou o amigo generoso — Não olhe para trás, porque de agora em diante, os seus caminhos se desdobram para a frente!”
+12 Nesse mesmo instante, vi que vovô Aristides finalmente chegava e os dois entrelaçaram as mãos para que eu pudesse dispor de um abrigo para descanso. (4)
+13 Procurei ainda exercitar a palavra a fim de avisar que me achava à espera de meu pai Lineu, quando um torpor irresistível me submeteu a um sono agitado, que até hoje não consigo compreender.
+14 Aquele sono era um labirinto de pesadelos, no qual observava estampados quadros vivos de minha própria existência.
+15 Quis relutar contra o repouso, de modo a definir o que me ocorria; entretanto, o sono se fez mais profundo e perdi de todo a noção de mim.
+16 Despertei num ambiente agradável, em que os dois amigos pareciam aguardar-me a conscientização.
+17 Meu avô, embora entendendo as minhas dificuldades da voz, apresentou-me o companheiro da primeira hora: “— Lineuzinho, este é o nosso Aristides Nery, de Igarapava. Ambos temos o mesmo nome”. (5)
+18 Fiz um aceno movimentando levemente a cabeça dolorida, na intenção de demonstrar a minha simpatia para com o desconhecido.
+19 Nesse ponto de minhas lembranças, entrou uma senhora que se me deu a conhecer por mãe da vovó Joana e que até hoje me dispensa especial carinho. (6)
+20 Demorei um tanto a retomar a minha capacidade vocal e perguntei a meu avô se tudo aquilo que estava acontecendo era a morte. 21 Ele confirmou, trocando a expressão “morte” por “desencarnação”.
+22 Reconhecendo-me transferido à força para a vida diferente que, de certo, me aguardava para novas obrigações, passei a chorar, recordando os pais queridos, a nossa Sandra Maria (7) e a nossa Luciana, (11) que não acreditariam naquela mudança compulsória.
+23 Recordei Ituverava, os amigos da fazenda, além dos meus laços mais íntimos e desatei o pranto que me banhou todo o rosto. (8) Meu avô compadeceu-se de mim e falou-me palavras de consolo e esperança, que me ficariam impressas na memória.
+24 Depois de alguns dias pude rever a família em Campo Grande e começava a pensar em suicídio, quando o vovô Aristides se incumbiu de erradicar de mim tais pensamentos, explicando com bom humor que eu já não conseguiria destruir o meu corpo de novas expressões e, usando o melhor de mim, de que poderia dispor, deliberei aceitar a situação com a possível serenidade. 25 Com isso, tranquilizei os amigos que me cercavam e pude retornar a Campo Grande, amargurando-me com a tristeza da mamãe Elza, que não conseguia me esquecer.
+26 Foi então que ao ler-lhe os pensamentos, como quem senhoreia textos de páginas e páginas, vim a saber que o Instituto Médico Legal me considerava vítima de queimaduras que a nenhum corpo humano é dado resistir. (9)
+27 Com todo o meu respeito ao I.M.L., desejei aclarar a ideia de minha mãe sobre a intensa hemorragia interna que me expulsou do corpo.
+28 Hoje venho confirmar isso, para arredar da cabeça da mãezinha e do pensamento de nossa Sandra Maria, a suposta informação de que eu teria sido vítima de queimaduras cruéis. (10) Isso não aconteceu. Não me lembrei de queimadura alguma, de vez que não retratara nenhuma.
+29 Se o fogo desmantelou o meu carro, não me alcançou de modo algum. Mãe, peço-lhe coragem e fé em Deus.
+30 As queimaduras mencionadas nas perícias, tanto me tocaram como as chamas atingem a roupa de alguém sem ferir esse alguém.
+31 Peço à mãezinha Elza diga minhas notícias à nossa Sandra e à nossa Luciana, a companheirinha que eu tomaria, em breve, se Deus permitisse, para a condição de minha esposa e tutora espiritual, no casamento que nos reuniria as esperanças. (11)
+32 Agora, peço aos queridos pais serenidade e bom ânimo, com a certeza de que continuo em vida diferente mas ligado à nossa existência comum.
+33 Rogo ao papai Lineu conformação e paz em nosso favor, porque há muito que fazer para ele, unido a mim.
+34 Nós ambos trabalharemos, quanto possível, para que o bem se estenda aos outros, porque na verdade sou seu filho mas junto de outros rapazes, filhos de Deus quanto nós, que esperam quem lhes estimule o propósito de trabalhar e estudar. (12)
+35 Papai, a nossa vida não terminou e os nossos planos de agir para a execução do bem comum continuam comigo.
+36 Mãezinha Elza, abençoe-me e fique tranquila. As saudades são de nossa plantação recíproca. Lembremo-nos de que a nossa Sandra e nosso amigo Fernandes, com a familhinha iniciante, precisam de nós e tenhamos paz e coragem para a travessia das renovações do momento. (13)
+37 Muito carinho à nossa Luciana e muitas lembranças aos nossos de Campo Grande, da Fazenda e de Ituverava.
+38 O meu avô Aristides é de parecer que já transmiti as notícias que se faziam convenientes e que devo terminar.
+39 É o que faço saudosamente, beijando-lhes reconhecidamente as mãos de pais queridos, lutadores fiéis e obreiros do bem, com o imensurável amor e o maior respeito do filho que lhes deve as maiores alegrias e pede a Deus conservá-los sempre e cada vez mais felizes.
 
 ---
 
-## 3 — “Afinal, estou entre dois mundos”
+## 2ª Mensagem
 
-Querido papai Lineu e querida mãezinha Elza. Não posso me retirar sem lhes falar do meu carinho e reconhecimento.
-Tenho mantido a minha situação de estudante da vida, buscando com meus avós e com os amigos de que disponho as informações exatas do meu novo Plano de vivência espiritual.
-Hoje para mim é um dia de graças porque me reconheço concentrado nas melhoras do papai Lineu; que resistiu valorosamente à implantação das pontes de safena para continuar sendo o nosso apoio e a nossa alegria. Rendo louvores à bondade infinita de Deus que no-lo devolveu nas melhores condições orgânicas.
-22
-Papai refletiu tanto em mim que não conseguiu afastar de si o percurso coronariano que o deprimia. Pai, é necessário viver e suportar as atribulações com que sejamos visitados.
-Tenho estado consigo nas suas meditações, especialmente da fazenda, em vista do seu amor à Natureza. Pense nos corações que se nos ligam ao Espírito e fique tranquilo.
-23
-Durante a intervenção de que foi objeto, formamos na própria sala em que foi cirurgiado um grupo de orações em prece com o desejo de inflar-lhe energias renovadoras. Éramos nós os amigos e familiares de sempre: o Aristides Waldomiro e esposa, Dª Agripina,
-5
-o vovô Aristides de Paula
-4
-e a vovó Alayde Silveira,
-20
-a nossa querida Etelvina Augusta
-6
-e eu mesmo.
-Explicou-nos o irmão Aristides que as nossas orações teriam fins bactericidas para a limpeza completa do ambiente hospitalar em que encontraria as medidas providenciais de que necessitava.
-Até então, não sabia que, carregadas pelas forças de nossos desejos reunidos, as preces que iríamos formular em silêncio, atuariam no âmago do estabelecimento, afastando os corpúsculos negativos suscetíveis de interferir em sua posição orgânica.
-Aprendi mais essa lição: que a prece funciona como recurso preservativo, garantindo a higienização integral do meio-ambiente em que nos reunimos ao seu lado, com o firme propósito de extinguir quaisquer focos ambulantes de bactérias que não se harmonizavam com as suas necessidades de cura.
-Sensibilizado, registrei igualmente as petições de mãezinha Elza e de nossa Sandra Maria
-7
-que torciam por sua volta à saúde. Agora, papai, é preciso proteger-se, o que sempre se lhe faz difícil, porque o seu coração abnegado palpita em nosso auxílio, com o esquecimento de si mesmo.
-Sei que a vovó Joana e os nossos de Ituverava se nos associaram ao movimento socorrista e vemo-lo novamente em forma para a continuidade de nossas tarefas.
-Peço-lhe dizer ao nosso amigo Saturnino
-13
-que espero seja ele o protetor da minha terra que, em princípio, consagrei à soja, como não ocorreu com tanta gente, que largou da cultura do café e de outros agentes mantenedores da vida para o cultivo de canaviais, que lhes melhorassem os rendimentos com o álcool, agora mais assentado, com o preço moderado da gasolina. Sempre pensei na soja porque vejo nela um grande futuro para os nossos irmãos brasileiros.
-Não renunciei à sua doação da terra a que me referi e é por isso que rogo ao nosso irmão Saturnino que auxilie a garantir a propriedade em atividade plena, até mesmo refletindo com otimismo nas exigências da chamada reforma agrária.
-Penso hoje em minha própria renovação para a vida maior, mas não perco a oportunidade de fazer o Saturnino e a Sandra Maria esboçarem os melhores sorrisos, diante de meus cuidados.
-Afinal, estou entre dois mundos: o mundo físico e o mundo espiritual e não posso esquecer de ambos.
-Peço à mãezinha Elza, se possível, dizer à Sandra Maria que, neste ano, o desejo dela de me ver aniversariando num sábado, ao que me parece, será satisfeito, de vez que, recordando os dias próximos, creio que o meu natalício será mesmo num sábado.
-Não desejo que façam da tristeza a supervisora de nossa festa em família, porque já sabem que vivo e estou atuante em nossos caminhos.
-Nada de pensamentos dedicados à morte porque não podemos crer na grande ilusão em que caminham na Terra milhões de pessoas. A Sandra Maria com a mãezinha Elza serão as autoras das novidades culinárias que, no mundo, são sempre os enfeites nas comemorações de aniversário.
-Pai, peço-lhe atender às sugestões médicas, sem adotar qualquer improvisação. Andar sem pressa e evitar a barra dos pesos realmente pesados. Tantas exigências para que sobrevivamos aí! Em verdade, isso é indispensável.
-Todos os nossos daqui se rejubilam com as suas melhoras e estamos felizes ao sabê-lo com o pensamento em descanso, depois de muitos dias com as atribuições das extra-sístoles.
-Termino aqui, enviando muitas lembranças à querida irmã, ao cunhado amigo e os queridos sobrinhos em Campo Grande.
-Muito carinho à vovó Joana,
-17
-e à Luciana
-11
-em Ituverava
-8
-e para os queridos pais todo o amor e muitas saudades do filho que lhes pertence pelo coração.
+1 Querido papai Lineu e querida mãezinha Elza: Peço a Jesus fortalecer-nos e abençoar-nos.
+2 Pai, é tão grande a minha alegria ao abraçá-lo que a emoção me constringe a garganta, transmitindo-se aos meus dedos, obrigando-me a escrever com certa dificuldade.
+3 Mãezinha Elza, muito grato por haver insistido com o papai para virem até aqui hoje.
+4 As minhas saudades eram muito grandes e quem não consegue tocar as pessoas queridas, qual me acontece agora, contenta-se com a possibilidade de se desinibir escrevendo, dando expansão aos sentimentos de amor e saudade que nos pressionam o coração.
+5 Meu pai, agradeço a sua disposição de defender-me contra as opiniões dos que me supuseram inerte, incapaz de me movimentar contra o fogo que vinha de fora. (15) Compreendo a extensão da luta de que fui o causador involuntário. 6 Sucede que a fila dos veículos à espera do sinal de passagem crescera muito e, sempre na expectativa de que o movimento se normalizasse, tomei os impactos que me lesaram as veias do cérebro.
+7 Pouco a pouco, estou sendo conscientizado de que o acontecimento infeliz viria a se concretizar naquele dia de mais uma primavera de gente moça. (1)
+8 Importante é que eu tive a intuição de que a mãezinha Elza e a nossa Sandra Maria poderiam preparar a nossa mesa de meu aniversário, a fim de esperar a sua chegada depois do meio dia. (3) Preparei-me. Creia que o senhor era o meu personagem central para a festa. Nunca me vira de tal modo alegre e otimista, mal sabendo o que me esperava.
+9 Do que se realizou em matéria de sofrimento já lhes dei as minhas notícias. ( † ) Agora desejo falar de meus agradecimentos aos pais queridos, que me abençoaram e me fizeram feliz durante a minha vida toda.
+10 Desejo, com o meu reconhecimento, falar de minhas saudades da terra de que o seu paternal carinho me fez presente para ter um pedaço de chão a cultivar e um pedaço de céu azul para ver com exclusividade. (16)
+11 Sinto saudades de minha soja, cujo verde me impressionava e do gado que me habituei a querer bem; tenho saudades da Sandra Maria, do Saturnino e dos meus sobrinhos pequenos, que se achegavam a meu colo. (13) Tenho muitas saudades da vovó Joana, (17) sempre compreensiva e prestimosa, abraçando todos que chegassem à sua casa em Ituverava; tenho saudades de Luciana, (11) principalmente quando líamos juntos algum texto espiritual que nos fazia pensar muito mais no futuro além da Terra do que nos bens da Terra mesma. 12 Lemos juntos algumas páginas inesquecíveis que me prepararam para esta vida nova que estou vivendo com esperança e otimismo e, vezes várias, era ela que me favorecia com a cessão de livros espíritas e outros, que me serviram com eficiência, porque, ao que julgo, os que chegam por aqui sem qualquer conhecimento espiritual, se me figuram pessoas analfabetas, encontrando grandes embaraços para compreender a renovação compulsória a que foram induzidas pela desencarnação. (18)
+13 Devo muito a Ituverava e à namorada que, afinal, consubstanciava as qualidades que eu desejava surpreender numa jovem para me casar, de futuro.
+14 Vovó Joana está sempre em minha memória. Aqui, a nossa querida bisavó me lembra sempre aquele carinho irradiante e constante. 15 A propósito, desejo contar-lhes que passei a não chamar minha bisavó por bisavó Filhinha, (6) porque o tempo lhe refez a beleza. A chamada bisavó Filhinha é uma senhora de nobre juventude espiritual que se lhe derrama de todos os gestos.
+16 Falando nisso a ela, eis que ela me disse: “Lineuzinho, ficarei contente se você me chamar por vovó Telva, um nome que me agrada.” Pois em companhia da vovó Telva, tenho tido belos momentos, que somente não são completos porque me faltam os pais queridos e a Sandra Maria com os meninos, para completarem a paisagem doméstica iluminada de espiritualidade que a vovó Telva nos proporciona.
+17 Em vista de minha liberação, considerada aqui muito recente, vejo-me ainda no instituto de tratamento a que fui conduzido por meu avô Aristides. (4)
+18 A vida aqui prossegue repleta de encantos para quem trouxe a vontade de trabalhar e o espírito de aceitação dos desígnios de Deus. (19)
+19 Há poucos dias o vovô Aristides me buscou para receber, com ele e vovó Alayde, (20) uma visita confortadora. Fui até à moradia cercada de gerânios e rosas que o vovô Aristides faz questão de cultivar e esperei alguns momentos.
+20 A visita era de um casal cuja bondade criava um ambiente de paz e tranquilidade. Ele já era meu conhecido — o benfeitor Aristides Nery (5) e a senhora que o acompanhava era a esposa dele, que eu não conhecia, Dona Agripina Nery.
+21 Fiquei encantado com o carinho de meus avós na recepção íntima em que todos os assuntos foram de interesse espiritual, sem a menor parcela de curiosidade ou lembrança de lutas da Terra.
+22 Tudo isso me reconforta e espero, um dia, ser mais preciso e mais claro em minhas notícias, não para criar qualquer fascínio a favor da desencarnação e sim ampliar a nossa convicção de como é útil e belo poder trabalhar e servir na Terra para encontrar tanta alegria e paz no Grande Além.
+23 Mãezinha Elza, perdoe-me se me excedi nos comentários.
+24 Desejo fazer-lhes um pedido, à mãezinha e a meu pai. Não conservem objetos e utilidades que me pertenceram. Ficarei satisfeito se a Sandra Maria selecionar algumas lembranças para os meus sobrinhos, a fim de guardarem alguma lembrança do tio quando crescerem e, a maior parte, estimaria que a vovó Joana se incumbisse de distribuir com os rapazes amigos de Ituverava, a critério dela mesma. (21)
+25 Mãezinha, perdoe-me se formulo esta solicitação; desejo apenas que conserve os nossos retratos, porque eles são as imagens de nossos momentos mais belos e mais felizes. Se estou a contrariá-los, desculpem a minha infantilidade de gente ainda verde. Meu pai, mais uma vez lhe agradeço por todo o seu devotamento de pai e amigo.
+26 Mãezinha Elza, mais uma vez reafirmo-lhe o reconhecimento que reina no coração de seu filho.
+27 O vovô Aristides, que me faz companhia, julga que devo encerrar esta carta do coração.
+28 Recebam os pais queridos, com a nossa Sandra Maria e o nosso Saturnino, com as crianças, com a querida vovó Joana e com a estimada Luciana, todo o coração do filho reconhecido, que agradece a Deus o privilégio de lhes haver sido filho e companheiro, ontem e hoje — no hoje que desejo ser o sempre de nossa feliz união.
 
 ---
 
-## 4 — “Encontrando dois amigos”
+## 3ª Mensagem
 
-Querido papai Lineu e querida mãezinha Elza. Estou presente com o meu avô Aristides,
-4
-como quem assina o livro de ponto da saudade.
-Estamos sempre juntos, no entanto as palavras escritas guardam a função de materializar-nos na união de sempre.
-O tempo corre mas os nossos sentimentos se assemelham às pirâmides, que não se transfiguram com o vento forte.
-Tenho estado sempre que possível na fazenda, onde os benfeitores da Vida Maior me consentem agora permanências mais longas já que o meu restabelecimento geral caminha para o final em passos rápidos. Ali posso rejubilar-me com os espetáculos da Natureza sempre mais linda, onde a aflição urbana ainda não chegou com as inquietações que lhes são características. O céu na fazenda é mais azul, o campo é mais rico e meu pedaço, dedicado especialmente à soja, me faz pensar no devotamento de nosso prezado Saturnino
-13
-que tudo faz, com o papai Lineu, para que os meus desejos, expressos há muito tempo, sejam cumpridos.
-Pai, tenho motivos para imaginar que a soja alcançará posição especial em nosso país e no mundo.
-Posso conscientemente registrar uma experiência pessoal que realizei, procurando fatores nutrientes na soja, através do olfato, havendo encontrado, em mim próprio, sensações de reconforto e saciedade que me fizeram grande bem.
-Imaginei, para logo, o que não fará a ciência de amanhã dessa planta preciosa, que se fará uma central de alimentos diversos para o homem do futuro.
-Do que tenho visto na Terra, mesmo com a minha inexperiência em botânica, vejo a soja como sendo uma preciosidade, que o nosso século apenas começou a descobrir. [Vide
-Ezequiel 34.29
-]
-Tenho ido a Ituverava, sempre que as circunstâncias me favorecem e desejo contar-lhes que em companhia do meu avô Aristides, num passeio a dois, para sentirmos de perto a grandeza do Salto Belo,
-24
-fomos ambos até lá, encontrando dois amigos que a avô Aristides me apresentou com alegria.
-Amigos de tempos passados, mas presentemente vivos; no presente que consubstancia a vida em si mesma, nos seus movimentos próprios. Estavam ali, qual ocorria a meu avô e a mim, contemplando a queda límpida e brilhante. O vovô Aristides mencionou-lhes os nomes, depois de abraçá-los: Coronel Augusto Sempliciano Barbosa
-25
-e Capitão Antônio Jacinto de Freitas.
-26
-O Coronel fixou-me com bondade e explicou: “— Meu filho, não se atenha aos títulos, que não mais nos pertencem. Isso já passou. Somos apenas seus irmãos.”
-Meu avô sorriu mas declinou-lhes a posição de fundadores de nossa cidade, em visita de carinho e admiração pelo progresso que a cidade hoje ostenta.
-A nossa conversação foi amena e longa e, ao retirar-me, muito grande foi o meu anseio de comentar o encontro com a vovó Joana e com a nossa estimada Luciana, mas isso foi obviamente impossível, porque não seria eu quem poderia quebrar as dimensões vibratórias em que vivemos atualmente.
-Tenho porém a satisfação de dar-lhes ciência do acontecido porque o papai Lineu poderá arrancar dos arquivos os nomes dos cavalheiros a que me referi.
-Mãezinha Elza, peço-lhe dizer à vovó Joana e à Luciana, tanto quanto aos amigos de Ituverava, quanta saudade experimento em relação a eles todos.
-Falando em lembranças aos corações queridos, peço-lhes permissão para encerrar estas minhas notícias, atentos que devemos estar à festividade que esta casa amiga realiza, em homenagem a um jovem, o jovem Augusto Cezar,
-27
-que se fez um herói de compreensão e bondade humana, depois de sua volta da vida física para a vida espiritual.
-Admiro a plêiade entusiasta de jovens que temos pela frente e, ao sentir-lhes os ideais de evangelismo e renovação, creio no Brasil melhor que se encontra em abençoada gestação.
-Queridos pais: com muito carinho aos nossos de Ituverava e Campo Grande, peço-lhes receber as saudades do filho reconhecido,
+1 Querido papai Lineu e querida mãezinha Elza. Não posso me retirar sem lhes falar do meu carinho e reconhecimento.
+2 Tenho mantido a minha situação de estudante da vida, buscando com meus avós e com os amigos de que disponho as informações exatas do meu novo Plano de vivência espiritual.
+3 Hoje para mim é um dia de graças porque me reconheço concentrado nas melhoras do papai Lineu; que resistiu valorosamente à implantação das pontes de safena para continuar sendo o nosso apoio e a nossa alegria. Rendo louvores à bondade infinita de Deus que no-lo devolveu nas melhores condições orgânicas. (22)
+4 Papai refletiu tanto em mim que não conseguiu afastar de si o percurso coronariano que o deprimia. Pai, é necessário viver e suportar as atribulações com que sejamos visitados.
+5 Tenho estado consigo nas suas meditações, especialmente da fazenda, em vista do seu amor à Natureza. Pense nos corações que se nos ligam ao Espírito e fique tranquilo. (23)
+6 Durante a intervenção de que foi objeto, formamos na própria sala em que foi cirurgiado um grupo de orações em prece com o desejo de inflar-lhe energias renovadoras. Éramos nós os amigos e familiares de sempre: o Aristides Waldomiro e esposa, D.ª Agripina, (5) o vovô Aristides de Paula (4) e a vovó Alayde Silveira, (20) a nossa querida Etelvina Augusta (6) e eu mesmo.
+7 Explicou-nos o irmão Aristides que as nossas orações teriam fins bactericidas para a limpeza completa do ambiente hospitalar em que encontraria as medidas providenciais de que necessitava. 8 Até então, não sabia que, carregadas pelas forças de nossos desejos reunidos, as preces que iríamos formular em silêncio, atuariam no âmago do estabelecimento, afastando os corpúsculos negativos suscetíveis de interferir em sua posição orgânica. 9 Aprendi mais essa lição: que a prece funciona como recurso preservativo, garantindo a higienização integral do meio-ambiente em que nos reunimos ao seu lado, com o firme propósito de extinguir quaisquer focos ambulantes de bactérias que não se harmonizavam com as suas necessidades de cura.
+10 Sensibilizado, registrei igualmente as petições de mãezinha Elza e de nossa Sandra Maria (7) que torciam por sua volta à saúde. Agora, papai, é preciso proteger-se, o que sempre se lhe faz difícil, porque o seu coração abnegado palpita em nosso auxílio, com o esquecimento de si mesmo.
+11 Sei que a vovó Joana e os nossos de Ituverava se nos associaram ao movimento socorrista e vemo-lo novamente em forma para a continuidade de nossas tarefas.
+12 Peço-lhe dizer ao nosso amigo Saturnino (13) que espero seja ele o protetor da minha terra que, em princípio, consagrei à soja, como não ocorreu com tanta gente, que largou da cultura do café e de outros agentes mantenedores da vida para o cultivo de canaviais, que lhes melhorassem os rendimentos com o álcool, agora mais assentado, com o preço moderado da gasolina. Sempre pensei na soja porque vejo nela um grande futuro para os nossos irmãos brasileiros.
+13 Não renunciei à sua doação da terra a que me referi e é por isso que rogo ao nosso irmão Saturnino que auxilie a garantir a propriedade em atividade plena, até mesmo refletindo com otimismo nas exigências da chamada reforma agrária.
+14 Penso hoje em minha própria renovação para a vida maior, mas não perco a oportunidade de fazer o Saturnino e a Sandra Maria esboçarem os melhores sorrisos, diante de meus cuidados.
+15 Afinal, estou entre dois mundos: o mundo físico e o mundo espiritual e não posso esquecer de ambos.
+16 Peço à mãezinha Elza, se possível, dizer à Sandra Maria que, neste ano, o desejo dela de me ver aniversariando num sábado, ao que me parece, será satisfeito, de vez que, recordando os dias próximos, creio que o meu natalício será mesmo num sábado. 17 Não desejo que façam da tristeza a supervisora de nossa festa em família, porque já sabem que vivo e estou atuante em nossos caminhos. 18 Nada de pensamentos dedicados à morte porque não podemos crer na grande ilusão em que caminham na Terra milhões de pessoas. A Sandra Maria com a mãezinha Elza serão as autoras das novidades culinárias que, no mundo, são sempre os enfeites nas comemorações de aniversário.
+19 Pai, peço-lhe atender às sugestões médicas, sem adotar qualquer improvisação. Andar sem pressa e evitar a barra dos pesos realmente pesados. Tantas exigências para que sobrevivamos aí! Em verdade, isso é indispensável.
+20 Todos os nossos daqui se rejubilam com as suas melhoras e estamos felizes ao sabê-lo com o pensamento em descanso, depois de muitos dias com as atribuições das extra-sístoles.
+21 Termino aqui, enviando muitas lembranças à querida irmã, ao cunhado amigo e os queridos sobrinhos em Campo Grande.
+22 Muito carinho à vovó Joana, (17) e à Luciana (11) em Ituverava (8) e para os queridos pais todo o amor e muitas saudades do filho que lhes pertence pelo coração.
 
 ---
 
-## 5 — “A saudade é um ímã a que raras criaturas conseguem resistir”
+## 4ª Mensagem
 
-Meu pai Lineu e querida mãezinha Elza. Estou presente com os meus votos de paz e saúde, luz e amor.
-A saudade é um ímã a que raras criaturas conseguem resistir. Quero dizer que a mãezinha Elza pensou no dia dos supostos Finados me recordou a figura, mentalizando-me com tamanha perfeição de estrutura e me falou de saudades com sentimentos tão altos que não pude sofrear o propósito de reencontrá-los, através do papel e do lápis, qual se estivéssemos grafando notícias aos queridos destinatários no próprio correio.
-É importante tudo isso para mim que, aos poucos, vou me habituando a esse tipo de relacionamento.
-Sentir-me-ia feliz se pudesse transmitir a todos a certeza de que os “finados” não existem. Somos os “mortos-vivos” das histórias domésticas, tentando varar as barreiras vibratórias que nos separam um dos outros.
-A força básica que nos compele a crer na morte é justamente a saudade que nos fere a todos, em cada paisagem social e em todos os grupos de atividades humanas.
-Dói de tal modo no coração essa presença do vazio imaginário que, na retaguarda, nos impele a procurar, por todos os meios ao nosso alcance, o fio de comunicação com os que ficaram na vida física a comungar conosco as mesmas lembranças e, por vezes, as mesmas lágrimas.
-Este, mamãe, é o motivo pelo qual me vejo aqui em companhia do vovô Aristides,
-4
-a fim de informar ao seu carinho e ao carinho de meu pai que estamos bem, desejando aos nossos entes amados tudo aquilo que a vida nos possa oferecer de bom e belo.
-Vejo aqui, além de nós, outros corações sensíveis que se recordam dos seus entes queridos e podemos dizer a cada um que a morte é um fenômeno sem substância ou acontecimento que apenas reconduz a mente humana a recordar as suas fontes de origem.
-A todos os companheiros e companheiras que se agrupam aqui, desejo entregar a mensagem de vida previsível que nos é trazida por nossa própria fé. Regozijem-se todos com esta realidade porque a verdade é semelhante ao espelho que não aclara retoques ou enfeites desnecessários.
-A esse respeito, meu pai, tenho mantido vários diálogos com vovô Aristides, que é incisivo em suas respostas: “Cada existência, meu filho, é um ato do drama evolutivo em que vivemos; cada existência que se segue à outra é um traço de continuidade da peça em que nos integramos para a conquista de nós mesmos. Muitas vezes temos vindo à arena do mundo na condição de guerreiros, na suposição de que as aquisições exteriores nos conduziriam às finalidades desejadas mas apenas no instante em que nos conhecemos é que encontramos o verdadeiro caminho. Pense nisso e escrevendo aos nossos irmãos, sobre o Dia de Finados, vocês talvez se reencontrem quanto às necessidades essenciais da vida.” Estou nesta fase, buscando descobrir-me.
-Veja, mãezinha, que o caminho das saudades é o mais acessível para os nossos reencontros até agora e agradeço-lhe o chamamento de mãe que me fala tão alto ao campo do coração.
-Se eu pudesse, rogaria a cada um dos nossos irmãos presentes destacar um pequeno farnel para uma família em dificuldades maiores que as nossas, na certeza de que esse expediente nos fortificaria muito mais que as palavras quentes de lamentação e sofrimento.
-Uma rosa para a terra que nos conserva as lembranças e um pão para os lares que sofrem privações e obstáculos numerosos, em nossa memória. Se a rosa for artificial, mais gratos nos tornamos porque a flor não terá custado qualquer desgosto à planta maternal em cujos braços desabrochou.
-Mãezinha, procure difundir essa prática, desse modo. Qual acontece no Natal de Jesus, estaremos dividindo nosso próprio conforto com aqueles que carecem dos elementos mais simples da terra para sobreviverem. Isso não é impossível e a alegria repartida ser-nos-á força e estímulo para colaborar com mais carinho nos setores do bem.
-Como vê o papai, as ideias me explodem na cabeça: entretanto a paciência deve ser a guardiã dessas instruções, porque só através de muita paciência convenceremos os nossos irmãos da Terra quanto à realidade que pertence a todos nós. Acima, minha resposta.
-Mãezinha Elza no íntimo perguntou o que teria o seu filho a dizer numa data expressiva quanto esta, o tradicional Dois de Novembro, que desejo desperte luminoso e belo para todos os nossos irmãos em humanidade.
-Mãezinha, já que nos referimos a supostos falecidos, quero dizer-lhes que eu vi suas indagações carinhosas, juntamente com as da vovó Joana., quanto ao paradeiro do meu avô João Ferreira Telles.
-28
-Outra vez a saudade, filha do amor, funcionando no coração da querida vovó, que até hoje registra a ausência do companheiro.
-Sei que ele a visita, frequentemente em Ituverava e, sem desejar antecipação nos projetos do meu avô, posso informá-lo de que ele aceitou determinados serviços sacrificiais, em Plano espiritual diferente daquele em que hoje tenho a minha provisória habitação, a fim de conquistar o direito de possuir uma residência própria, na qual esperará a vovó com a ternura do homem que aguarda a noiva querida. Com isso não me refiro a qualquer possibilidade de morte para a vovó, a quem desejo muitos e muitos anos de vida e bondade no Plano físico a fim de prosseguir o seu apostolado de mãe espiritual para tanta gente.
-Desejo simplesmente salientar que o vovô João traz o coração renascido em primavera de sonhos e tudo fará de modo que um dia poderá mostrar com santo orgulho, haurido no trabalho, o novo ninho em que os dois se reencontrem para servirem aos desígnios de Deus em outras dimensões.
-Às vezes vovó Joana indaga se o vovô não lhe recebe as orações. Recebe sim e se sente feliz em ser lembrado por ela porque na Espiritualidade Maior não há desencontro nem velhice e a alma retoma o seu jardim interior de ideais sublimados em novo nível de vivência.
-Reporto-me a essas notícias para que se veja que os “finados” estão vivos e quantos partiram amando as próprias responsabilidades são trabalhadores ativos, agindo na vanguarda com o objetivo de oferecerem o melhor de suas vidas aos que ficam temporariamente na Terra, com a obrigação de voltarem ao Plano das realidades imperecíveis.
-Pai, perdoa-me semelhantes registros mas desejo infundir em mãezinha Elza e em vovó Joana a certeza de que todos aqueles que se lembram dos que os antecederam na grande mudança são também por estes lembrados na mesma tônica de amor que lhes prendem as recordações.
-Agradeço as atenções que o Saturnino
-13
-tem dado aos meus pedidos, tanto quanto sou grato à querida irmã Sandra Maria
-7
-por estar sempre recordando aos meus sobrinhos a imagem do tio que continua a amá-los no mesmo grau de carinho com que os beijava na existência do corpo pesado.
-A todos as minhas lembranças, sem me esquecer da nossa Luciana, que me recorda com silencioso afeto, muitas vezes a renovar-me as energias, fortalecendo-me para o trabalho. Muito carinho à vovó Joana, a quem dedico esta mensagem, na qual me dirijo a todos os irmãos presentes sobre o dia de amanhã, dia dos supostos finados.
-Querido papai, estou muito grato pelo prosseguimento de seus estudos sobre a reencarnação e creia que a nossa ligação é inalterável.
-Mais tarde escreverei sobre a alegria de reencontrar o meu trisavô, em cuja pessoa julgava estar abraçando um amigo, sem maiores raízes com a nossa vida familiar.
-A reunião deve continuar no esquema dos nossos mentores espirituais e reúno papai e mamãe no respeitoso beijo do filho que lhes pertence pelo coração.
+1 Querido papai Lineu e querida mãezinha Elza. Estou presente com o meu avô Aristides, (4) como quem assina o livro de ponto da saudade.
+2 Estamos sempre juntos, no entanto as palavras escritas guardam a função de materializar-nos na união de sempre.
+3 O tempo corre mas os nossos sentimentos se assemelham às pirâmides, que não se transfiguram com o vento forte.
+4 Tenho estado sempre que possível na fazenda, onde os benfeitores da Vida Maior me consentem agora permanências mais longas já que o meu restabelecimento geral caminha para o final em passos rápidos. Ali posso rejubilar-me com os espetáculos da Natureza sempre mais linda, onde a aflição urbana ainda não chegou com as inquietações que lhes são características. O céu na fazenda é mais azul, o campo é mais rico e meu pedaço, dedicado especialmente à soja, me faz pensar no devotamento de nosso prezado Saturnino (13) que tudo faz, com o papai Lineu, para que os meus desejos, expressos há muito tempo, sejam cumpridos.
+5 Pai, tenho motivos para imaginar que a soja alcançará posição especial em nosso país e no mundo. 6 Posso conscientemente registrar uma experiência pessoal que realizei, procurando fatores nutrientes na soja, através do olfato, havendo encontrado, em mim próprio, sensações de reconforto e saciedade que me fizeram grande bem. 7 Imaginei, para logo, o que não fará a ciência de amanhã dessa planta preciosa, que se fará uma central de alimentos diversos para o homem do futuro. 8 Do que tenho visto na Terra, mesmo com a minha inexperiência em botânica, vejo a soja como sendo uma preciosidade, que o nosso século apenas começou a descobrir. [Vide Ezequiel 34.29.]
+9 Tenho ido a Ituverava, sempre que as circunstâncias me favorecem e desejo contar-lhes que em companhia do meu avô Aristides, num passeio a dois, para sentirmos de perto a grandeza do Salto Belo, (24) fomos ambos até lá, encontrando dois amigos que a avô Aristides me apresentou com alegria. 10 Amigos de tempos passados, mas presentemente vivos; no presente que consubstancia a vida em si mesma, nos seus movimentos próprios. Estavam ali, qual ocorria a meu avô e a mim, contemplando a queda límpida e brilhante. O vovô Aristides mencionou-lhes os nomes, depois de abraçá-los: Coronel Augusto Sempliciano Barbosa (25) e Capitão Antônio Jacinto de Freitas. (26)
+11 O Coronel fixou-me com bondade e explicou: “— Meu filho, não se atenha aos títulos, que não mais nos pertencem. Isso já passou. Somos apenas seus irmãos.”
+12 Meu avô sorriu mas declinou-lhes a posição de fundadores de nossa cidade, em visita de carinho e admiração pelo progresso que a cidade hoje ostenta.
+13 A nossa conversação foi amena e longa e, ao retirar-me, muito grande foi o meu anseio de comentar o encontro com a vovó Joana e com a nossa estimada Luciana, mas isso foi obviamente impossível, porque não seria eu quem poderia quebrar as dimensões vibratórias em que vivemos atualmente.
+14 Tenho porém a satisfação de dar-lhes ciência do acontecido porque o papai Lineu poderá arrancar dos arquivos os nomes dos cavalheiros a que me referi.
+15 Mãezinha Elza, peço-lhe dizer à vovó Joana e à Luciana, tanto quanto aos amigos de Ituverava, quanta saudade experimento em relação a eles todos.
+16 Falando em lembranças aos corações queridos, peço-lhes permissão para encerrar estas minhas notícias, atentos que devemos estar à festividade que esta casa amiga realiza, em homenagem a um jovem, o jovem Augusto Cezar, (27) que se fez um herói de compreensão e bondade humana, depois de sua volta da vida física para a vida espiritual. 17 Admiro a plêiade entusiasta de jovens que temos pela frente e, ao sentir-lhes os ideais de evangelismo e renovação, creio no Brasil melhor que se encontra em abençoada gestação.
+18 Queridos pais: com muito carinho aos nossos de Ituverava e Campo Grande, peço-lhes receber as saudades do filho reconhecido,
 
 ---
 
-## 6 — “Hoje há festa em meu coração”
+## 5ª Mensagem
 
-Querido papai Lineu e querida mãezinha Elza e querida vovó Joana. Hoje há festa em meu coração e nos olhos do vovô Aristides, que se admirou da disposição da vovó para se afastar de casa, mesmo por algumas horas, para sentir de perto a presença do neto que sempre encontra em vó Joana um anjo tutelar.
-Querida vovó, não se impressione com a reunião de que participa. Isso não lhe fere os princípios.
-29
-Em Jesus estamos todos unidos, dentro da ligação espiritual em que conseguimos viver.
-A organização cristã primitiva incluía o intercâmbio em seu culto. Os mártires voltavam do Mais Além, encorajando os companheiros para os testemunhos da fé. A comunhão entre os vivos do Além e os vivos da Terra era constante.
-
-Por isso mesmo, não se sinta em falta com os seus compromissos de fé, porque, enquanto o lápis desliza no papel, recordo as epopeias daqueles que nos deram a confiança no Deus de misericórdia e de paz, que nos rege os destinos.
-
-Sei que a nossa Luciana, a senhora e a mãezinha Elza permutam ideias quanto à sobrevivência e graças a Deus, sinto-a transfigurada, qual se a fé encontrasse um novo nascimento em seu coração.
-Muito grato, vovó Joana, por ter vindo verificar que amamos os preceitos de Deus e que, por isso, não seria lícito afastar-nos dos outros.
-Querida mamãe,venho animando meu pai em todos os serviços que ele empreende e estou agradecido. Apesar disso, peço-lhe incluir o cultivo da soja
-30
-no ânimo do papai, a fim de que o vejamos sempre inclinado às melhores realizações no que diz respeito ao assunto.
-Papai, compreenda que as suas atividades são múltiplas; entretanto, com nosso Saturnino, concretizemos os nossos projetos de estender essa bênção, quanto possível, a benefício dos nossos irmãos. Tenho apreciado os valores da soja em todos os sentidos e não vejo porque não auxiliar a nossa gente com semelhante plantação, que reúne qualidades admiráveis na sustentação de nossos contemporâneos.
-Sei que a mãezinha Elza ficaria satisfeita em vê-lo descansar, refazendo forças; entretanto, sinto que o trabalho é parte importante no seu pão de cada dia e contaremos consigo para vermos o progresso dessa preciosidade vegetal nos agrupamentos de nosso pessoal.
-Querido pai, formulo votos para seu sucesso a fim de que seu trabalho específico sobre a reencarnação tome a forma necessária, em nosso benefício.
-31
-Algumas páginas sobre o assunto, sem qualquer nota de misticismo religioso e sem os vínculos da ciência materialista, farão grande bem aos estudiosos de nosso país. Creio que as novas gerações precisariam dessa chave de luz, que abrirá novas portas ao discernimento geral. Estudemos. Não nos faltarão livros que nos facultem valiosas contribuições à consecução do projeto.
-Com respeito a sobrevivência, fui com meu avô Aristides à nossa Ituverava, com o propósito de acentuarmos pesquisas que servissem da vida espiritual para a vida física. Ouvi alguém dizer que no caso de minha citação aos nossos pioneiros;
-25
-26
-o médium poderia ter ido a Ituverava e lido os nomes que citei. Trocando impressões com o vovô Aristides, ele me disse que semelhantes críticas não se revestem de importância alguma.
-Noite alta, convidou-me a encontrar alguém na cidade que pudesse contribuir conosco em nossas pesquisas. Não se passou muito tempo e encontramos simpática senhora a quem expusemos o nosso caso e ela se prontificou a se identificar, no intuito de cooperar conosco. Disse-nos que na terra se chamou Hilda Rocha,
-32
-acrescentando que conhecia vovó Joana, a quem consagrava respeitosa admiração. Informou-nos que partira para a vida espiritual em 29 de novembro de 1939. Registrei a ocorrência porque assim o papai conseguirá pesquisar o que nos foi transmitido: Falo nisso unicamente para enriquecer o acervo de nossos conhecimentos nesse terreno.
-Já escrevi muito e preciso terminar. Deixo à vovó Joana, dois beijos; um para ela e outro para a nossa Luciana, que eu não poderia esquecer e, com as lembranças do avô Aristides, entrego ao papai e à mãezinha Elza um monte de saudades, juntamente com o carinho e o reconhecimento do filho sempre grato.
-
----
-
-## 7 — “Estou aqui, no ponto de espera, para nossas conversações”
-
-Querido papai Lineu e querida mãezinha Elza. Estou aqui, no ponto de espera, para nossas conversações.
-O avô Aristides me acompanha e tanto eu quanto ele tomamos a liberdade de pedir ao papai para se desligar dos pensamentos e enfermiços com respeito às safenas que recebeu.
-Papai amigo, não precisa impressionar-se negativamente com o acontecimento. O corpo humano é um conjunto maravilhoso de peças interligadas e esperamos que a sua resistência rechace os pensamentos de tristeza e preocupação que lhe mortificam a alma. A cirurgia foi muito bem feita e basta que se mantenha no regime prescrito, evitando aquilo que o seu discernimento já compreende ser mau para os agentes de seu tratamento, para que o corpo lhe agradeça.
-O vovô Aristides e eu não estamos procedendo como quem se compraz com o alarme mas, sim, tentando consolidar as suas forças. Vovô chega a dizer que o senhor tem energias para transmitir até mesmo a mim, já desencarnado e, para que seja mantida sua atividade, é preciso que o senhor se liberte de um apego doentio às funções físicas, impróprias ao homem que alcançou a meia idade. Queremos que o senhor viva muitos e muitos anos, para o que deve prescrever-se normas de trabalho e resolver as situações com o pensamento positivo.
-Ficamos satisfeitos por haverem encontrado a pessoa que mencionamos, cujo nome devia ser solicitado aos arquivos de Ituverava.
-32
-Mamãe estranhou o fato, mas é que aqui na vida espiritual, em que nos achamos, o desenvolvimento das crianças avança na direção da pessoa adulta. A pesquisa valeu ainda mais porque a irmã Hilda Rocha foi por mim encontrada já moça feita, na vida espiritual, contrariando os assentamentos do cartório.
-Estou desejando à mãezinha Elza e à vovó Joana um Dia das Mães, no domingo próximo, iluminado pelas bênçãos de Deus. Estarei presente às comemorações encomendadas à mamãe e à vovó, almejando-lhes toda a felicidade que a Terra possa proporcionar às duas criaturas que são nossas devotadas guardiãs de cada dia.
-Peço ao papai Lineu recordar a nossa soja ao Saturnino. Houve nos últimos dias uma edição extra do verão, com um sol que me fez pensar no êxito de nossas plantas queridas.
-30
-Esperando ser mais extenso em outra carta, que será também um cântico de saudades do filho que não os esquece, reúne o papai e a mamãe num grande abraço, o filho que já lhes deu o coração. Perdão, mas não posso esquecer a nossa Luciana,
-11
-a quem tanto devo. Peço-lhes transmitir as minhas afetuosas saudades de todos os dias. Sempre o filho grato.
+1 Meu pai Lineu e querida mãezinha Elza. Estou presente com os meus votos de paz e saúde, luz e amor.
+2 A saudade é um ímã a que raras criaturas conseguem resistir. Quero dizer que a mãezinha Elza pensou no dia dos supostos Finados me recordou a figura, mentalizando-me com tamanha perfeição de estrutura e me falou de saudades com sentimentos tão altos que não pude sofrear o propósito de reencontrá-los, através do papel e do lápis, qual se estivéssemos grafando notícias aos queridos destinatários no próprio correio.
+3 É importante tudo isso para mim que, aos poucos, vou me habituando a esse tipo de relacionamento.
+4 Sentir-me-ia feliz se pudesse transmitir a todos a certeza de que os “finados” não existem. Somos os “mortos-vivos” das histórias domésticas, tentando varar as barreiras vibratórias que nos separam um dos outros.
+5 A força básica que nos compele a crer na morte é justamente a saudade que nos fere a todos, em cada paisagem social e em todos os grupos de atividades humanas. 6 Dói de tal modo no coração essa presença do vazio imaginário que, na retaguarda, nos impele a procurar, por todos os meios ao nosso alcance, o fio de comunicação com os que ficaram na vida física a comungar conosco as mesmas lembranças e, por vezes, as mesmas lágrimas.
+7 Este, mamãe, é o motivo pelo qual me vejo aqui em companhia do vovô Aristides, (4) a fim de informar ao seu carinho e ao carinho de meu pai que estamos bem, desejando aos nossos entes amados tudo aquilo que a vida nos possa oferecer de bom e belo.
+8 Vejo aqui, além de nós, outros corações sensíveis que se recordam dos seus entes queridos e podemos dizer a cada um que a morte é um fenômeno sem substância ou acontecimento que apenas reconduz a mente humana a recordar as suas fontes de origem.
+9 A todos os companheiros e companheiras que se agrupam aqui, desejo entregar a mensagem de vida previsível que nos é trazida por nossa própria fé. Regozijem-se todos com esta realidade porque a verdade é semelhante ao espelho que não aclara retoques ou enfeites desnecessários.
+10 A esse respeito, meu pai, tenho mantido vários diálogos com vovô Aristides, que é incisivo em suas respostas: “Cada existência, meu filho, é um ato do drama evolutivo em que vivemos; cada existência que se segue à outra é um traço de continuidade da peça em que nos integramos para a conquista de nós mesmos. Muitas vezes temos vindo à arena do mundo na condição de guerreiros, na suposição de que as aquisições exteriores nos conduziriam às finalidades desejadas mas apenas no instante em que nos conhecemos é que encontramos o verdadeiro caminho. Pense nisso e escrevendo aos nossos irmãos, sobre o Dia de Finados, vocês talvez se reencontrem quanto às necessidades essenciais da vida.” Estou nesta fase, buscando descobrir-me.
+11 Veja, mãezinha, que o caminho das saudades é o mais acessível para os nossos reencontros até agora e agradeço-lhe o chamamento de mãe que me fala tão alto ao campo do coração.
+12 Se eu pudesse, rogaria a cada um dos nossos irmãos presentes destacar um pequeno farnel para uma família em dificuldades maiores que as nossas, na certeza de que esse expediente nos fortificaria muito mais que as palavras quentes de lamentação e sofrimento.
+13 Uma rosa para a terra que nos conserva as lembranças e um pão para os lares que sofrem privações e obstáculos numerosos, em nossa memória. Se a rosa for artificial, mais gratos nos tornamos porque a flor não terá custado qualquer desgosto à planta maternal em cujos braços desabrochou.
+14 Mãezinha, procure difundir essa prática, desse modo. Qual acontece no Natal de Jesus, estaremos dividindo nosso próprio conforto com aqueles que carecem dos elementos mais simples da terra para sobreviverem. Isso não é impossível e a alegria repartida ser-nos-á força e estímulo para colaborar com mais carinho nos setores do bem.
+15 Como vê o papai, as ideias me explodem na cabeça: entretanto a paciência deve ser a guardiã dessas instruções, porque só através de muita paciência convenceremos os nossos irmãos da Terra quanto à realidade que pertence a todos nós. Acima, minha resposta.
+16 Mãezinha Elza no íntimo perguntou o que teria o seu filho a dizer numa data expressiva quanto esta, o tradicional Dois de Novembro, que desejo desperte luminoso e belo para todos os nossos irmãos em humanidade.
+17 Mãezinha, já que nos referimos a supostos falecidos, quero dizer-lhes que eu vi suas indagações carinhosas, juntamente com as da vovó Joana., quanto ao paradeiro do meu avô João Ferreira Telles. (28) Outra vez a saudade, filha do amor, funcionando no coração da querida vovó, que até hoje registra a ausência do companheiro.
+18 Sei que ele a visita, frequentemente em Ituverava e, sem desejar antecipação nos projetos do meu avô, posso informá-lo de que ele aceitou determinados serviços sacrificiais, em Plano espiritual diferente daquele em que hoje tenho a minha provisória habitação, a fim de conquistar o direito de possuir uma residência própria, na qual esperará a vovó com a ternura do homem que aguarda a noiva querida. Com isso não me refiro a qualquer possibilidade de morte para a vovó, a quem desejo muitos e muitos anos de vida e bondade no Plano físico a fim de prosseguir o seu apostolado de mãe espiritual para tanta gente.
+19 Desejo simplesmente salientar que o vovô João traz o coração renascido em primavera de sonhos e tudo fará de modo que um dia poderá mostrar com santo orgulho, haurido no trabalho, o novo ninho em que os dois se reencontrem para servirem aos desígnios de Deus em outras dimensões.
+20 Às vezes vovó Joana indaga se o vovô não lhe recebe as orações. Recebe sim e se sente feliz em ser lembrado por ela porque na Espiritualidade Maior não há desencontro nem velhice e a alma retoma o seu jardim interior de ideais sublimados em novo nível de vivência.
+21 Reporto-me a essas notícias para que se veja que os “finados” estão vivos e quantos partiram amando as próprias responsabilidades são trabalhadores ativos, agindo na vanguarda com o objetivo de oferecerem o melhor de suas vidas aos que ficam temporariamente na Terra, com a obrigação de voltarem ao Plano das realidades imperecíveis.
+22 Pai, perdoa-me semelhantes registros mas desejo infundir em mãezinha Elza e em vovó Joana a certeza de que todos aqueles que se lembram dos que os antecederam na grande mudança são também por estes lembrados na mesma tônica de amor que lhes prendem as recordações.
+23 Agradeço as atenções que o Saturnino (13) tem dado aos meus pedidos, tanto quanto sou grato à querida irmã Sandra Maria (7) por estar sempre recordando aos meus sobrinhos a imagem do tio que continua a amá-los no mesmo grau de carinho com que os beijava na existência do corpo pesado.
+24 A todos as minhas lembranças, sem me esquecer da nossa Luciana, que me recorda com silencioso afeto, muitas vezes a renovar-me as energias, fortalecendo-me para o trabalho. Muito carinho à vovó Joana, a quem dedico esta mensagem, na qual me dirijo a todos os irmãos presentes sobre o dia de amanhã, dia dos supostos finados.
+25 Querido papai, estou muito grato pelo prosseguimento de seus estudos sobre a reencarnação e creia que a nossa ligação é inalterável.
+26 Mais tarde escreverei sobre a alegria de reencontrar o meu trisavô, em cuja pessoa julgava estar abraçando um amigo, sem maiores raízes com a nossa vida familiar.
+27 A reunião deve continuar no esquema dos nossos mentores espirituais e reúno papai e mamãe no respeitoso beijo do filho que lhes pertence pelo coração.
 
 ---
 
-## 8 — “Dois anos são passados”
+## 6ª Mensagem
 
-Meus queridos pais. Peço a Deus nos faça seguir para diante.
-Dois anos são passados. Não me esqueço: os carros engarrafados e eu tentando aproveitar os minutos para pensar. Na retaguarda, surgiu o mastodonte que me colheu desprevenido. Foi um momento trágico, em que queria e não queria descer para acompanhar aquela batida estranha. De repente a minha visão estava toldada por uma névoa forte, surgida logo após a minha incapacidade de pensar.
-Ouvi uma voz amiga que soube depois ser de nosso prezado amigo Aristides Nery:
-5
-“Retire-se para fora, meu filho”, dizia ele com insistência. Eu, que não me dispunha a sair, num impulso instintivo, que não sei explicar, retirei-me inesperadamente. Entretanto, vi de imediato que não era mais o Lineu condutor do carro; era eu mesmo, de corpo modificado, ouvindo as palavras do amigo Nery, que se incumbiu de trazer enfermeiros que se concentravam junto de mim.
-“Ah! Então eu morrera!”, pensei com tristeza. Aristides Nery explicou-me que me libertara e que era preciso facear as ocorrências com cara e coragem.
-Não se passaram dois minutos depois do nosso diálogo e o fogo irrompeu na grande máquina da retaguarda, transmitindo-se ao meu carro, que vi despedaçar-se.
-Oh! papai, quanto segredo da vida por desvendar! Enxergava meu corpo inerte e insensível alcançado pelas labaredas, via-me fora dele, com os amigos, seguindo a ocorrência inesperada.
-Pensei em meu aniversário, em sua ausência temporária, refleti nas aflições da mamãe e não pude deixar de chorar copiosamente: Então os livros que Luciana e eu estivemos lendo exprimiam a verdade!
-11
-Sabia que o senhor estava a caminho de Campo Grande e a ideia de que a sua presença seria nosso consolo, especialmente para a querida mana e para o cunhado Saturnino, me instilaram forças novas.
-3
-“Seu pai virá em poucas horas”, disse Aristides Nery. Lúcido, conquanto de ânimo alterado pela fogueira, vi quando os bombeiros retiravam meu corpo hirto para algum lugar. Aristides Nery, porém, convidou-me para ir ao encontro do Saturnino e me declarou que o meu caso não me privava de reconfortar a família.
-Nessa hora, mãezinha Elza e minha irmã já se haviam entregue à emoção do pranto inestancável e o telefone já se fizera sentir, chamando o senhor para nós. Isso me aliviou, sem trazer-me a paz que perdera com o incêndio destruidor.
-Uma certa sensação de sono ou fadiga mental me tomou de todo quando o amigo Aristides Nery me avisou que não resistisse ao torpor de que me havia acometido. Conquanto a minha cabeça me desse a ideia de um vulcão interno, consegui dormir para despertar muito depois.
-O nosso amigo de Igarapava
-5
-me fez sentir que a minha comoção agravaria a sua, papai, quando chegasse e acentuaria os sofrimentos da mãezinha Elza e que o sono me facultaria o ensejo de repouso, o qual livraria o senhor de receber, na condição de pai, as cargas de minhas emoções condensadas.
-Foi assim que não mais procurei vê-los até que pudesse vir em Campo Grande rever a querida família.
-Muito obrigado, meu pai, por todas as medidas que já iniciara para demonstrar que não perdi o meu corpo nas chamas que se levantaram e sim que o traumatismo craniano me arrancou da forma física antes que aquele quadro de guerra me extinguisse as forças.
-Tivemos muitas lágrimas. O ambiente de Ituverava, entretanto, nos reconfortou. As observações da vovó Joana e as confidências da Luciana, contando-lhes que líamos livros que nos davam excelentes informações de outras vidas, foram consolo e bênção em seu coração e no coração da mamãe.
-Depois, é o que sabemos: da luta para minha adaptação à Espiritualidade, o encontro com meus avós e as excursões de estudo, que ainda persistem e eis-me aqui, mais otimista e mais forte do que antes do acontecimento, considerado tragédia.
-Se formos fazer a listagem dos benefícios que recebemos nesses dois anos, todas as nossas dores ficarão para trás.
-Agradeço à mãezinha as flores que me ofertou junto com as suas lembranças e quem sabe? — talvez choremos de novo, refletindo nos fenômenos da saudade. Mas creiam, meus pais, seu filho está refeito e com lucidez em seus pensamentos.
-Estamos na expectativa de tomar Ituverava para nossa residência e não estou contra, apenas lhe peço o tempo destinado à nossa preparação mental.
-Sabemos que a Terra pertence a Deus, que confiou o espaço aos homens. Tentar ampliar o nosso espaço em Ituverava é ideia feliz mas precisamos agir com vagar. Querido papai Lineu e querida mãezinha Elza, vamos pensar.
-Muito grato pelas alegrias com que vieram participar comigo da felicidade de minha libertação. Estamos juntos e estou contente.
-Recebem nossos fluídos de amor; beijo as mãos queridas com o mesmo carinho e com a imensa saudade do filho agradecido de todos os dias.
+1 Querido papai Lineu e querida mãezinha Elza e querida vovó Joana. Hoje há festa em meu coração e nos olhos do vovô Aristides, que se admirou da disposição da vovó para se afastar de casa, mesmo por algumas horas, para sentir de perto a presença do neto que sempre encontra em vó Joana um anjo tutelar.
+2 Querida vovó, não se impressione com a reunião de que participa. Isso não lhe fere os princípios. (29) Em Jesus estamos todos unidos, dentro da ligação espiritual em que conseguimos viver. 3 A organização cristã primitiva incluía o intercâmbio em seu culto. Os mártires voltavam do Mais Além, encorajando os companheiros para os testemunhos da fé. A comunhão entre os vivos do Além e os vivos da Terra era constante. 4 Por isso mesmo, não se sinta em falta com os seus compromissos de fé, porque, enquanto o lápis desliza no papel, recordo as epopeias daqueles que nos deram a confiança no Deus de misericórdia e de paz, que nos rege os destinos. 5 Sei que a nossa Luciana, a senhora e a mãezinha Elza permutam ideias quanto à sobrevivência e graças a Deus, sinto-a transfigurada, qual se a fé encontrasse um novo nascimento em seu coração. 6 Muito grato, vovó Joana, por ter vindo verificar que amamos os preceitos de Deus e que, por isso, não seria lícito afastar-nos dos outros.
+7 Querida mamãe,venho animando meu pai em todos os serviços que ele empreende e estou agradecido. Apesar disso, peço-lhe incluir o cultivo da soja (30) no ânimo do papai, a fim de que o vejamos sempre inclinado às melhores realizações no que diz respeito ao assunto.
+8 Papai, compreendo que as suas atividades são múltiplas; entretanto, com nosso Saturnino, concretizemos os nossos projetos de estender essa bênção, quanto possível, a benefício dos nossos irmãos. Tenho apreciado os valores da soja em todos os sentidos e não vejo porque não auxiliar a nossa gente com semelhante plantação, que reúne qualidades admiráveis na sustentação de nossos contemporâneos. 9 Sei que a mãezinha Elza ficaria satisfeita em vê-lo descansar, refazendo forças; entretanto, sinto que o trabalho é parte importante no seu pão de cada dia e contaremos consigo para vermos o progresso dessa preciosidade vegetal nos agrupamentos de nosso pessoal.
+10 Querido pai, formulo votos para seu sucesso a fim de que seu trabalho específico sobre a reencarnação tome a forma necessária, em nosso benefício. (31) Algumas páginas sobre o assunto, sem qualquer nota de misticismo religioso e sem os vínculos da ciência materialista, farão grande bem aos estudiosos de nosso país. Creio que as novas gerações precisariam dessa chave de luz, que abrirá novas portas ao discernimento geral. Estudemos. Não nos faltarão livros que nos facultem valiosas contribuições à consecução do projeto.
+11 Com respeito a sobrevivência, fui com meu avô Aristides à nossa Ituverava, com o propósito de acentuarmos pesquisas que servissem da vida espiritual para a vida física. Ouvi alguém dizer que no caso de minha citação aos nossos pioneiros; (25 e 26) o médium poderia ter ido a Ituverava e lido os nomes que citei. Trocando impressões com o vovô Aristides, ele me disse que semelhantes críticas não se revestem de importância alguma. 12 Noite alta, convidou-me a encontrar alguém na cidade que pudesse contribuir conosco em nossas pesquisas. Não se passou muito tempo e encontramos simpática senhora a quem expusemos o nosso caso e ela se prontificou a se identificar, no intuito de cooperar conosco. Disse-nos que na terra se chamou Hilda Rocha, (32) acrescentando que conhecia vovó Joana, a quem consagrava respeitosa admiração. Informou-nos que partira para a vida espiritual em 29 de novembro de 1939. Registrei a ocorrência porque assim o papai conseguirá pesquisar o que nos foi transmitido: Falo nisso unicamente para enriquecer o acervo de nossos conhecimentos nesse terreno.
+13 Já escrevi muito e preciso terminar. Deixo à vovó Joana, dois beijos; um para ela e outro para a nossa Luciana, que eu não poderia esquecer e, com as lembranças do avô Aristides, entrego ao papai e à mãezinha Elza um monte de saudades, juntamente com o carinho e o reconhecimento do filho sempre grato.
 
 ---
 
-## 9 — Semeador das verdades excelsas
+## 7ª Mensagem
 
-Querido papai Lineu e querida mãezinha Elza. Jesus nos fortaleça e abençoe.
-Tenho estado com ambos, sempre que isso se me faz possível e folgo de vê-los em pequeno período de refazimento, porque o suposto descanso destes dias constituirá oportunidade para realizarmos observações e experiências que de muito nos servirão para o trabalho que o Senhor nos concedeu.
-Anotar e aprender representam tarefas de importância, e espero que, de quando a quando, possam efetuar excursões, mesmo limitadas e rápidas, com o que me regozijarei, porquanto estaremos sempre juntos e de tudo o que assimilarem de bom, por onde passarem, também eu retirarei o proveito preciso.
-Meu pai, estou satisfeito com os resultados favoráveis de nosso intercâmbio, de vez que, apresentado por seu amor e sinceridade, tenho conseguido a aquisição de novos amigos que personificam novos esteios para a nossa construção espiritual.
-A terra está repleta de gente boa e de corações dedicados ao Bem e, por vezes, somente algumas palavras dispõem do poder de acordá-los para a imortalidade e para a compreensão das provas construtivas do mundo.
-Tenho tido a minha atenção voltada para semelhantes realidades e para as notícias que lhes chegam às mãos, referentes aos comunicados deste seu filho (ainda pobre de conhecimentos, mas sempre rico do afeto com que me encorajam os pais queridos) na continuidade dos meus limitados empreendimentos na sementeira da verdade e do bem.
-Graças a Deus, tenho mantido os nossos princípios de respeito e entendimento do próximo. Com isso, experimento novas facilidades para agir, disseminando as possíveis informações que evidenciem a responsabilidade de viver e a ilusão da morte (que só existe por desencarnação) qual acontece ao frio e à escuridão, que vivem unicamente nas apreciações humanas, de vez que um punhado de brasas desfaz o gelo e uma simples vela acesa dissipa as trevas, ainda mesmo quando dominem vasta extensão.
-Meus contatos com vovô Aristides de Paula Leão,
-4
-habitualmente acompanhados de lições ao vivo, como que me preparam ante a jornada de semeador das verdades excelsas.
-Quando Luciana
-11
-e eu compulsávamos o Evangelho, longe estava de pressentir o serviço que se me desdobrava diante dos olhos…
-Vemos tanta gente a sofrer nos caminhos do mundo, tantos corações apunhalados pela saudade, tantas lágrimas naqueles companheiros que se distanciaram da fé em Deus, tantas criaturas abandonadas suplicando uma diretriz que lhes converta a existência em estágio de paz e renovação que, hoje, suponho que seria uma atitude impensada cogitar unicamente da própria elevação, esquecendo os que se demoram no desequilíbrio, na expectativa de alguma página ou de algum diálogo que lhes descortinem os panoramas da vida — vida que não se circunscreve aos dias ligeiros de uma existência terrestre, mesmo longa — já que o amparo religioso se faz atualmente no mundo demasiadamente escasso e quase sempre mais difícil.
-O avô Aristides mostra-me essas necessidades do homem atual e estimula-me a agir e servir, sempre mais, nesse campo das obrigações de uns para com os outros.
-Gradativamente reconheço que a nossa família não se reduz ao círculo doméstico, mas sim à Terra inteira, que espera pela paz, ignorando de que modo alcançá-la. Observo que isso me faz caminhar na direção de novos ideais e novos testes de serviço, a fim de que eu seja, além do filho que procura honrar a dedicação dos pais, também um companheiro da humanidade.
-Isso não me desvincula do carinho por nossa família e nossa casa e, sim, encontro novas perspectivas de ação para ser mais útil quanto possível, aos entes amados, aos quais me prendo com os sentimentos mais puros.
-A propósito do vovô Aristides, suponho que o papai e a mãezinha já se lembraram que ele celebra o centenário de nascimento da última existência de seus dias terrestres, neste ano de 1988.
-A vovó Alayde
-20
-me pediu recordar este evento e estamos preparando uma reunião de preces em que possamos agradecer a Deus a vida preciosa do vovô Aristides, que rende tantos ensinamentos e tantas bênçãos em nosso favor.
-Perguntei a ele o dia exato desse aniversário tão expressivo; no entanto, procurando esquecer quaisquer homenagens pessoais, ele me respondeu: “— Lineuzinho, celebraremos juntos o aniversário que você deseja enfeitar. Escolhamos a data de doze de julho, porque assim nos reuniremos todos sem preocupações pessoais.”
-Achei graça na determinação do vovô Aristides e conversei com a nossa querida vovó Telva,
-6
-com o querido avô João Ferreira Telles,
-28
-com os amigos Nery,
-5
-de Igarapava e prestaremos ao vovô o testemunho de nosso afeto e gratidão.
-Rogo à mãezinha Elza dizer tudo isso à nossa Sandra Maria
-7
-e ao nosso Satumino,
-13
-em Campo Grande, pois, na data indicada, todos poderemos fundir os pensamentos numa só oração de reconhecimento a Deus pela presença do vovô Aristides entre nós.
-Meu pai, sou muito grato ao apoio que recebo de sua abnegação e ao carinho da mãezinha Elza nas estradas novas que me compete palmilhar.
-Sinto-me agora ligado às atividades para as quais me designaram e receber as ondas mentais de ambos, abençoando-me e pedindo a Jesus proteção e socorro em meu benefício, muito me encorajam e reconfortam para seguir adiante sem fracassos ou deserções.
-Não posso esquecer as orações da vovó Joana
-17
-29
-e da nossa querida Luciana que me recordam, em nossa Ituverava, rogando a paz de Jesus para mim; paz que preciso a fim de marchar em busca das realizações espirituais que demando.
-Agradeço aos nossos entes queridos em Campo Grande que me fortalecerem para o desempenho de meus novos deveres.
-Queridos pais, creio que não preciso dizer-lhes de minhas saudades imensas; no entanto, sabendo que as saudades se nos fazem patrimônio, peço aos Mensageiros do Bem nos auxiliem a transformar saudades em ardentes esperanças, através das quais estejamos certos de que nos reencontraremos um dia para o abençoado prosseguimento de nossa união e de nosso amor sempre maior.
-Peço entregarem as minhas lembranças à vovó Joana e à Luciana e, no desejo de voltar em breve ao nosso diálogo entre os dois mundos — o mundo físico e o mundo espiritual — sou, como sempre, o filho que lhes pertence pelo coração; sempre o filho e companheiro reconhecido,
-20 de fevereiro de 1988.
+1 Querido papai Lineu e querida mãezinha Elza. Estou aqui, no ponto de espera, para nossas conversações.
+2 O avô Aristides me acompanha e tanto eu quanto ele tomamos a liberdade de pedir ao papai para se desligar dos pensamentos e enfermiços com respeito às safenas que recebeu.
+3 Papai amigo, não precisa impressionar-se negativamente com o acontecimento. O corpo humano é um conjunto maravilhoso de peças interligadas e esperamos que a sua resistência rechace os pensamentos de tristeza e preocupação que lhe mortificam a alma. A cirurgia foi muito bem feita e basta que se mantenha no regime prescrito, evitando aquilo que o seu discernimento já compreende ser mau para os agentes de seu tratamento, para que o corpo lhe agradeça.
+4 O vovô Aristides e eu não estamos procedendo como quem se compraz com o alarme mas, sim, tentando consolidar as suas forças. Vovô chega a dizer que o senhor tem energias para transmitir até mesmo a mim, já desencarnado e, para que seja mantida sua atividade, é preciso que o senhor se liberte de um apego doentio às funções físicas, impróprias ao homem que alcançou a meia idade. Queremos que o senhor viva muitos e muitos anos, para o que deve prescrever-se normas de trabalho e resolver as situações com o pensamento positivo.
+5 Ficamos satisfeitos por haverem encontrado a pessoa que mencionamos, cujo nome devia ser solicitado aos arquivos de Ituverava. (32) Mamãe estranhou o fato, mas é que aqui na vida espiritual, em que nos achamos, o desenvolvimento das crianças avança na direção da pessoa adulta. A pesquisa valeu ainda mais porque a irmã Hilda Rocha foi por mim encontrada já moça feita, na vida espiritual, contrariando os assentamentos do cartório.
+6 Estou desejando à mãezinha Elza e à vovó Joana um Dia das Mães, no domingo próximo, iluminado pelas bênçãos de Deus. Estarei presente às comemorações encomendadas à mamãe e à vovó, almejando-lhes toda a felicidade que a Terra possa proporcionar às duas criaturas que são nossas devotadas guardiãs de cada dia.
+7 Peço ao papai Lineu recordar a nossa soja ao Saturnino. Houve nos últimos dias uma edição extra do verão, com um sol que me fez pensar no êxito de nossas plantas queridas. (30)
+8 Esperando ser mais extenso em outra carta, que será também um cântico de saudades do filho que não os esquece, reúne o papai e a mamãe num grande abraço, o filho que já lhes deu o coração. Perdão, mas não posso esquecer a nossa Luciana, (11) a quem tanto devo. Peço-lhes transmitir as minhas afetuosas saudades de todos os dias. Sempre o filho grato.
+
+---
+
+## 8ª Mensagem
+
+1 Meus queridos pais: Peço a Deus nos faça seguir para diante.
+2 Dois anos são passados. Não me esqueço: os carros engarrafados e eu tentando aproveitar os minutos para pensar. Na retaguarda, surgiu o mastodonte que me colheu desprevenido. Foi um momento trágico, em que queria e não queria descer para acompanhar aquela batida estranha. De repente a minha visão estava toldada por uma névoa forte, surgida logo após a minha incapacidade de pensar.
+3 Ouvi uma voz amiga que soube depois ser de nosso prezado amigo Aristides Nery: (5) “Retire-se para fora, meu filho”, dizia ele com insistência. Eu, que não me dispunha a sair, num impulso instintivo, que não sei explicar, retirei-me inesperadamente. Entretanto, vi de imediato que não era mais o Lineu condutor do carro; era eu mesmo, de corpo modificado, ouvindo as palavras do amigo Nery, que se incumbiu de trazer enfermeiros que se concentravam junto de mim.
+4 “Ah! Então eu morrera!”, pensei com tristeza. Aristides Nery explicou-me que me libertara e que era preciso facear as ocorrências com cara e coragem.
+5 Não se passaram dois minutos depois do nosso diálogo e o fogo irrompeu na grande máquina da retaguarda, transmitindo-se ao meu carro, que vi despedaçar-se.
+6 Oh! papai, quanto segredo da vida por desvendar! Enxergava meu corpo inerte e insensível alcançado pelas labaredas, via-me fora dele, com os amigos, seguindo a ocorrência inesperada.
+7 Pensei em meu aniversário, em sua ausência temporária, refleti nas aflições da mamãe e não pude deixar de chorar copiosamente: Então os livros que Luciana e eu estivemos lendo exprimiam a verdade! (11)
+8 Sabia que o senhor estava a caminho de Campo Grande e a ideia de que a sua presença seria nosso consolo, especialmente para a querida mana e para o cunhado Saturnino, me instilaram forças novas. (3)
+9 “Seu pai virá em poucas horas”, disse Aristides Nery. Lúcido, conquanto de ânimo alterado pela fogueira, vi quando os bombeiros retiravam meu corpo hirto para algum lugar. Aristides Nery, porém, convidou-me para ir ao encontro do Saturnino e me declarou que o meu caso não me privava de reconfortar a família.
+10 Nessa hora, mãezinha Elza e minha irmã já se haviam entregue à emoção do pranto inestancável e o telefone já se fizera sentir, chamando o senhor para nós. Isso me aliviou, sem trazer-me a paz que perdera com o incêndio destruidor.
+11 Uma certa sensação de sono ou fadiga mental me tomou de todo quando o amigo Aristides Nery me avisou que não resistisse ao torpor de que me havia acometido. Conquanto a minha cabeça me desse a ideia de um vulcão interno, consegui dormir para despertar muito depois.
+12 O nosso amigo de Igarapava (5) me fez sentir que a minha comoção agravaria a sua, papai, quando chegasse e acentuaria os sofrimentos da mãezinha Elza e que o sono me facultaria o ensejo de repouso, o qual livraria o senhor de receber, na condição de pai, as cargas de minhas emoções condensadas.
+13 Foi assim que não mais procurei vê-los até que pudesse vir em Campo Grande rever a querida família.
+14 Muito obrigado, meu pai, por todas as medidas que já iniciara para demonstrar que não perdi o meu corpo nas chamas que se levantaram e sim que o traumatismo craniano me arrancou da forma física antes que aquele quadro de guerra me extinguisse as forças.
+15 Tivemos muitas lágrimas. O ambiente de Ituverava, entretanto, nos reconfortou. As observações da vovó Joana e as confidências da Luciana, contando-lhes que líamos livros que nos davam excelentes informações de outras vidas, foram consolo e bênção em seu coração e no coração da mamãe.
+16 Depois, é o que sabemos: da luta para minha adaptação à Espiritualidade, o encontro com meus avós e as excursões de estudo, que ainda persistem e eis-me aqui, mais otimista e mais forte do que antes do acontecimento, considerado tragédia.
+17 Se formos fazer a listagem dos benefícios que recebemos nesses dois anos, todas as nossas dores ficarão para trás.
+18 Agradeço à mãezinha as flores que me ofertou junto com as suas lembranças e — quem sabe? — Talvez choremos de novo, refletindo nos fenômenos da saudade. Mas creiam, meus pais, seu filho está refeito e com lucidez em seus pensamentos.
+19 Estamos na expectativa de tomar Ituverava para nossa residência e não estou contra, apenas lhe peço o tempo destinado à nossa preparação mental.
+20 Sabemos que a Terra pertence a Deus, que confiou o espaço aos homens. Tentar ampliar o nosso espaço em Ituverava é ideia feliz mas precisamos agir com vagar. Querido papai Lineu e querida mãezinha Elza, vamos pensar.
+21 Muito grato pelas alegrias com que vieram participar comigo da felicidade de minha libertação. Estamos juntos e estou contente.
+22 Recebem nossos fluídos de amor; beijo as mãos queridas com o mesmo carinho e com a imensa saudade do filho agradecido de todos os dias.
+
+---
+
+## 9ª Mensagem
+
+1 Querido papai Lineu e querida mãezinha Elza. Jesus nos fortaleça e abençoe.
+2 Tenho estado com ambos, sempre que isso se me faz possível e folgo de vê-los em pequeno período de refazimento, porque o suposto descanso destes dias constituirá oportunidade para realizarmos observações e experiências que de muito nos servirão para o trabalho que o Senhor nos concedeu.
+3 Anotar e aprender representam tarefas de importância, e espero que, de quando a quando, possam efetuar excursões, mesmo limitadas e rápidas, com o que me regozijarei, porquanto estaremos sempre juntos e de tudo o que assimilarem de bom, por onde passarem, também eu retirarei o proveito preciso.
+4 Meu pai, estou satisfeito com os resultados favoráveis de nosso intercâmbio, de vez que, apresentado por seu amor e sinceridade, tenho conseguido a aquisição de novos amigos que personificam novos esteios para a nossa construção espiritual.
+5 A terra está repleta de gente boa e de corações dedicados ao Bem e, por vezes, somente algumas palavras dispõem do poder de acordá-los para a imortalidade e para a compreensão das provas construtivas do mundo.
+6 Tenho tido a minha atenção voltada para semelhantes realidades e para as notícias que lhes chegam às mãos, referentes aos comunicados deste seu filho (ainda pobre de conhecimentos, mas sempre rico do afeto com que me encorajam os pais queridos) na continuidade dos meus limitados empreendimentos na sementeira da verdade e do bem.
+7 Graças a Deus, tenho mantido os nossos princípios de respeito e entendimento do próximo. Com isso, experimento novas facilidades para agir, disseminando as possíveis informações que evidenciem a responsabilidade de viver e a ilusão da morte (que só existe por desencarnação) qual acontece ao frio e à escuridão, que vivem unicamente nas apreciações humanas, de vez que um punhado de brasas desfaz o gelo e uma simples vela acesa dissipa as trevas, ainda mesmo quando dominem vasta extensão.
+8 Meus contatos com vovô Aristides de Paula Leão, (4) habitualmente acompanhados de lições ao vivo, como que me preparam ante a jornada de semeador das verdades excelsas.
+9 Quando Luciana (11) e eu compulsávamos o Evangelho, longe estava de pressentir o serviço que se me desdobrava diante dos olhos…
+10 Vemos tanta gente a sofrer nos caminhos do mundo, tantos corações apunhalados pela saudade, tantas lágrimas naqueles companheiros que se distanciaram da fé em Deus, tantas criaturas abandonadas suplicando uma diretriz que lhes converta a existência em estágio de paz e renovação que, hoje, suponho que seria uma atitude impensada cogitar unicamente da própria elevação, esquecendo os que se demoram no desequilíbrio, na expectativa de alguma página ou de algum diálogo que lhes descortinem os panoramas da vida — vida que não se circunscreve aos dias ligeiros de uma existência terrestre, mesmo longa — já que o amparo religioso se faz atualmente no mundo demasiadamente escasso e quase sempre mais difícil.
+11 O avô Aristides mostra-me essas necessidades do homem atual e estimula-me a agir e servir, sempre mais, nesse campo das obrigações de uns para com os outros.
+12 Gradativamente reconheço que a nossa família não se reduz ao círculo doméstico, mas sim à Terra inteira, que espera pela paz, ignorando de que modo alcançá-la. Observo que isso me faz caminhar na direção de novos ideais e novos testes de serviço, a fim de que eu seja, além do filho que procura honrar a dedicação dos pais, também um companheiro da humanidade. 13 Isso não me desvincula do carinho por nossa família e nossa casa e, sim, encontro novas perspectivas de ação para ser mais útil quanto possível, aos entes amados, aos quais me prendo com os sentimentos mais puros.
+14 A propósito do vovô Aristides, suponho que o papai e a mãezinha já se lembraram que ele celebra o centenário de nascimento da última existência de seus dias terrestres, neste ano de 1988.
+15 A vovó Alayde (20) me pediu recordar este evento e estamos preparando uma reunião de preces em que possamos agradecer a Deus a vida preciosa do vovô Aristides, que rende tantos ensinamentos e tantas bênçãos em nosso favor. 16 Perguntei a ele o dia exato desse aniversário tão expressivo; no entanto, procurando esquecer quaisquer homenagens pessoais, ele me respondeu: “— Lineuzinho, celebraremos juntos o aniversário que você deseja enfeitar. Escolhamos a data de doze de julho, porque assim nos reuniremos todos sem preocupações pessoais.”
+17 Achei graça na determinação do vovô Aristides e conversei com a nossa querida vovó Telva, (6) com o querido avô João Ferreira Telles, (28) com os amigos Nery, (5) de Igarapava e prestaremos ao vovô o testemunho de nosso afeto e gratidão.
+18 Rogo à mãezinha Elza dizer tudo isso à nossa Sandra Maria (7) e ao nosso Saturnino, (13) em Campo Grande, pois, na data indicada, todos poderemos fundir os pensamentos numa só oração de reconhecimento a Deus pela presença do vovô Aristides entre nós.
+19 Meu pai, sou muito grato ao apoio que recebo de sua abnegação e ao carinho da mãezinha Elza nas estradas novas que me compete palmilhar.
+20 Sinto-me agora ligado às atividades para as quais me designaram e receber as ondas mentais de ambos, abençoando-me e pedindo a Jesus proteção e socorro em meu benefício, muito me encorajam e reconfortam para seguir adiante sem fracassos ou deserções.
+21 Não posso esquecer as orações da vovó Joana (17 e 29) e da nossa querida Luciana que me recordam, em nossa Ituverava, rogando a paz de Jesus para mim; paz que preciso a fim de marchar em busca das realizações espirituais que demando.
+22 Agradeço aos nossos entes queridos em Campo Grande que me fortalecerem para o desempenho de meus novos deveres.
+23 Queridos pais, creio que não preciso dizer-lhes de minhas saudades imensas; no entanto, sabendo que as saudades se nos fazem patrimônio, peço aos Mensageiros do Bem nos auxiliem a transformar saudades em ardentes esperanças, através das quais estejamos certos de que nos reencontraremos um dia para o abençoado prosseguimento de nossa união e de nosso amor sempre maior.
+24 Peço entregarem as minhas lembranças à vovó Joana e à Luciana e, no desejo de voltar em breve ao nosso diálogo entre os dois mundos — o mundo físico e o mundo espiritual — sou, como sempre, o filho que lhes pertence pelo coração; sempre o filho e companheiro reconhecido,

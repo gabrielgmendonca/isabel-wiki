@@ -1,243 +1,216 @@
-# Palavras de Chico Xavier
+# Palavras de Chico Xavier.
 
-**Autor espiritual:** O próprio  
+**Autor espiritual:** O próprio. (Encarnado)  
 **Médium:** Chico Xavier  
 **Fonte:** https://bibliadocaminho.com/ocaminho/TX/Plc/PlcPref.htm
 
 ---
 
-##  — Palavras de luz
+## 
 
-Aqui encontraremos, leitor amigo, uma coletânea de pensamentos preciosos emitidos pelo médium Chico Xavier, quando entrevistado em diversos momentos, sempre assistido por Emmanuel, o incansável Benfeitor Espiritual que supervisiona sua tarefa mediúnica desde os primeiros dias.
+Aqui encontraremos, Leitor Amigo, uma coletânea de pensamentos preciosos emitidos pelo médium Chico Xavier, quando entrevistado em diversos momentos, sempre assistido por Emmanuel, o incansável Benfeitor Espiritual que supervisiona sua tarefa mediúnica desde os primeiros dias.
 Todos os pensamentos que constituem este livro, claramente alicerçados em Jesus e Kardec, por elucidarem, com tanta simplicidade e sabedoria, temas dos mais complexos que interessam de perto a todos nós, podem ser considerados como raios de luz capazes de iluminar nossas mentes e aquecer nossos corações.
-Que possamos todos, com a leitura e meditação destas palavras, colher abençoados frutos de paz íntima e compreensão mais ampla.
+Que possamos todos, com a leitura e meditação destas Palavras, colher abençoados frutos de paz íntima e compreensão mais ampla.
 Araras, 27 de maio de 1995.
 
 ---
 
-## 1 — Sobre o Apocalipse
+## 1
 
-Respeito os estudos
-, mas não tenho largueza de pensamento para interpretar o Apocalipse como determinados técnicos o interpretam e situam.
-Mas, acima do próprio Apocalipse, eu creio na bondade eterna do Criador que nos insuflou de vida imortal. Então, acima de todos os Apocalipses, eu creio em Deus e na imortalidade humana, e essas duas realidades preponderarão em qualquer tempo da humanidade.
-
----
-
-## 2 — Céu, inferno e purgatório
-
-Dentro da visão espírita-cristã,
-começam dentro de nós mesmos.
-A alegria do bem praticado é o alicerce do Céu.
-A má intenção já é um piso para o purgatório e o mal devidamente efetuado, positivado, já é o remorso que é o princípio do inferno.
+1 Respeito os estudos sobre o Apocalipse, mas não tenho largueza de pensamento para interpretar o Apocalipse como determinados técnicos o interpretam e situam.
+2 Mas, acima do próprio Apocalipse, eu creio na bondade eterna do Criador que nos insuflou de vida imortal. Então, acima de todos os Apocalipses, eu creio em Deus e na imortalidade humana, e essas duas realidades preponderarão em qualquer tempo da humanidade.
 
 ---
 
-## 3 — Explicação sobre Deus
+## 2
 
-Acreditamos que para melhores esclarecimentos sobre médiuns e mediunidade, as obras de Allan Kardec devem ser consultadas e estudadas.
-
-Com todo o nosso respeito aos entrevistadores, devemos dizer que solicitar de nós uma
-é o mesmo que pedir a um verme para que se pronuncie quanto à glória e a natureza do sol, embora o verme, se pudesse falar, diria, com toda a certeza, da veneração e do amor que consagra ao sol que lhe garante a vida.
-
----
-
-## 4 — Pobreza e trabalho
-
-Agora, o problema no Brasil, pessoalmente, opinião minha, o que deveria ser faceado pela comunidade brasileira como um dos problemas mais sérios é o problema do trabalho. O amor ao trabalho e a fidelidade ao cumprimento do dever.
-
-Se nós todos trabalharmos, se carpirmos a terra, se construirmos, se lidarmos com a pedra, com o barro, com a sementeira, com os fios; se tecermos; se todos nós nos unirmos para criar valores em nosso benefício, a pobreza deixará de existir.
+1 Dentro da visão espírita-cristã, Céu, inferno e purgatório começam dentro de nós mesmos.
+2 A alegria do bem praticado é o alicerce do Céu.
+3 A má intenção já é um piso para o purgatório e o mal devidamente efetuado, positivado, já é o remorso que é o princípio do inferno.
 
 ---
 
-## 5 — Receio da mediunidade
+## 3
 
-Não posso julgar os companheiros que sintam
-, porque a minha mediunidade realmente começou muito cedo, eu não tive oportunidade de sentir medo, isso para mim começou em criança em minha vida, e passou a fazer parte de minha existência atual.
+1 Acreditamos que para melhores esclarecimentos sobre médiuns e mediunidade, as obras de Allan Kardec devem ser consultadas e estudadas.
+2 Com todo o nosso respeito aos entrevistadores, devemos dizer que solicitar de nós uma explicação sobre Deus é o mesmo que pedir a um verme para que se pronuncie quanto à glória e a natureza do sol, embora o verme, se pudesse falar, diria, com toda a certeza, da veneração e do amor que consagra ao sol que lhe garante a vida.
 
 ---
 
-## 6 — O mundo e nós
+## 4
+
+1 Agora, o problema no Brasil, pessoalmente, opinião minha, o que deveria ser faceado pela comunidade brasileira como um dos problemas mais sérios é o problema do trabalho. O amor ao trabalho e a fidelidade ao cumprimento do dever.
+2 Se nós todos trabalharmos, se carpirmos a terra, se construirmos, se lidarmos com a pedra, com o barro, com a sementeira, com os fios; se tecermos; se todos nós nos unirmos para criar valores em nosso benefício, a pobreza deixará de existir.
+
+---
+
+## 5
+
+Não posso julgar os companheiros que sintam receio da mediunidade, porque a minha mediunidade realmente começou muito cedo, eu não tive oportunidade de sentir medo, isso para mim começou em criança em minha vida, e passou a fazer parte de minha existência atual.
+
+---
+
+## 6
 
 Eu penso com aquela assertiva do nosso André Luiz, que é um mentor que nós respeitamos, se cada um de nós consertar de dentro o que está desajustado, tudo por fora estará certo.
 
 ---
 
-## 7 — Jesus-Cristo
+## 7
 
-Aprendi desde muito cedo a venerar
-, na fé que minha mãe me transmitiu desde os dois anos de idade.
-Um dia, tendo perguntado a ela como orientar minhas preces, minha mãe ensinou-me a considerar Jesus como Nosso Senhor e Mestre.
-Nas rodopias do tempo, eu fui compreendendo que Jesus é realmente o Guia Espiritual da Humanidade, perante Deus, a quem nós chamamos, segundo o ensinamento dele mesmo, de Pai Nosso que está nos Céus.
+1 Aprendi desde muito cedo a venerar Nosso Senhor Jesus-Cristo, na fé que minha mãe me transmitiu desde os dois anos de idade. 2 Um dia, tendo perguntado a ela como orientar minhas preces, minha mãe ensinou-me a considerar Jesus como Nosso Senhor e Mestre. 3 Nas rodopias do tempo, eu fui compreendendo que Jesus é realmente o Guia Espiritual da Humanidade, perante Deus, a quem nós chamamos, segundo o ensinamento dele mesmo, de Pai Nosso que está nos Céus.
 
 ---
 
-## 8 — Crescimento mediúnico
+## 8
 
 Nunca nos cansaremos de repetir que mediunidade é sintonia. Subamos aos cimos da virtude e do conhecimento e a mediunidade, na condição de serviço de sintonia com o Plano Divino, se elevará conosco.
 
 ---
 
-## 9 — Cadeias de amor
+## 9
 
 Aceitemos com humildade o concurso sagrado daqueles que se constituem nossos benfeitores nas Esferas Mais Altas e estendamos aos nossos irmãos mais necessitados que nós mesmos os braços fraternos que o Espiritismo envolve em bênçãos de revelação e de amor.
 
 ---
 
-## 10 — Sectarismo
+## 10
 
 Quando cada um de nós transformar-se em livro atuante e vivo de lições para quantos nos observam o exemplo, as fronteiras da interpretação religiosa cederão lugar à nova era de fraternidade e paz que estamos esperando.
 
 ---
 
-## 11 — Vencer o mal
+## 11
 
 A vitória na luta pelo bem contra o mal caberá sempre ao servidor que souber perseverar com a Lei Divina até o fim.
 
 ---
 
-## 12 — Que será do futuro
+## 12
 
-Somos companheiros otimistas no campo da fraternidade. Se Jesus espera no homem, com que direito deveríamos desesperar?
-Aguardemos o futuro triunfante, no caminho da luz.
-A Terra é uma embarcação cósmica de vastas proporções e não podemos olvidar que o Senhor permanece vigilante no leme.
-
----
-
-## 13 — Felicidade e amor
-
-O amor é ciência de sublimação para Deus e a felicidade para crescer deve dividir-se.
-Não há ruptura de laços entre os que se amam no infinito do espaço e na eternidade do tempo.
-As almas afins se engrandecem constantemente repartindo as suas alegrias e os seus dons com a Humanidade inteira, não existindo limitações para o amor, embora seja ele também a luz divina a expressar-se em graus diferentes nas variadas Esferas da vida.
+1 Somos companheiros otimistas no campo da fraternidade. Se Jesus espera no homem, com que direito deveríamos desesperar?
+2 Aguardemos o futuro triunfante, no caminho da luz.
+3 A Terra é uma embarcação cósmica de vastas proporções e não podemos olvidar que o Senhor permanece vigilante no leme.
 
 ---
 
-## 14 — Vida e amor
+## 13
+
+1 O amor é ciência de sublimação para Deus e a felicidade para crescer deve dividir-se. 2 Não há ruptura de laços entre os que se amam no infinito do espaço e na eternidade do tempo. 3 As almas afins se engrandecem constantemente repartindo as suas alegrias e os seus dons com a Humanidade inteira, não existindo limitações para o amor, embora seja ele também a luz divina a expressar-se em graus diferentes nas variadas Esferas da vida.
+
+---
+
+## 14
 
 O amor é o clima em que as menores expressões da vida, em todos os Planos, crescem nos laboratórios do tempo, para a divina glorificação.
 
 ---
 
-## 15 — Artífices da paz
+## 15
 
-Tenho aprendido com os Benfeitores Espirituais que a paz é doação que podemos oferecer aos outros sem tê-la para nós mesmos.
-Isto é, será sempre importante renunciar, de boa vontade, as vantagens que nos favoreceriam, em favor daqueles que nos cercam.
-Em razão disso, seríamos todos nós,
-, começando a garanti-la por dentro de nossas próprias casas e dos grupos sociais a que pertençamos.
+1 Tenho aprendido com os Benfeitores Espirituais que a paz é doação que podemos oferecer aos outros sem tê-la para nós mesmos. 2 Isto é, será sempre importante renunciar, de boa vontade, as vantagens que nos favoreceriam, em favor daqueles que nos cercam. 3 Em razão disso, seríamos todos nós, artífices da paz, começando a garanti-la por dentro de nossas próprias casas e dos grupos sociais a que pertençamos.
 
 ---
 
-## 16 — No combate à violência
+## 16
 
-Esperemos que o amor se propague no mundo com mais força que a violência e a violência desaparecerá, à maneira da treva quando a luz se lhe sobrepõe.
-Consideremos, porém, que essa obra, naturalmente, não prescindirá da autoridade humana, mas na essência e na prática exige a cooperação de nós todos.
+1 Esperemos que o amor se propague no mundo com mais força que a violência e a violência desaparecerá, à maneira da treva quando a luz se lhe sobrepõe.
+2 Consideremos, porém, que essa obra, naturalmente, não prescindirá da autoridade humana, mas na essência e na prática exige a cooperação de nós todos.
 
 ---
 
-## 17 — Pobreza
+## 17
 
 Acreditamos que as administrações na Terra, gradativamente, estão resolvendo o problema da penúria, mas até que o problema seja solucionado, admito seja nossa obrigação auxiliar-nos, uns aos outros, para que as provações da carência sejam atenuadas.
 
 ---
 
-## 18 — A Doutrina Espírita e as religiões tradicionais
+## 18
 
-Não vemos luta competitiva entre
-que zelam pela memória e pelos ensinos de Jesus.
-Ante o Evangelho do Divino Mestre, a Doutrina Espírita é portadora de princípios que aclaram com segurança as lições do Cristo, sem qualquer pretensão de superioridade sobre as organizações cristãs, sempre dignas do maior respeito.
+1 Não vemos luta competitiva entre a Doutrina Espírita e as religiões tradicionais que zelam pela memória e pelos ensinos de Jesus. 2 Ante o Evangelho do Divino Mestre, a Doutrina Espírita é portadora de princípios que aclaram com segurança as lições do Cristo, sem qualquer pretensão de superioridade sobre as organizações cristãs, sempre dignas do maior respeito.
 
 ---
 
-## 19 — Riqueza e felicidade
+## 19
 
-Acreditamos que o Criador nos fez ricos a todos, sem exceção, porque a riqueza autêntica, a nosso ver, procede do trabalho e todos nós de uma forma ou de outra, podemos trabalhar e servir.
-
-Quanto à felicidade, cremos que ela nasce na paz da consciência tranquila pelo dever cumprido e cresce, no íntimo de cada pessoa, à medida que a pessoa procura fazer a felicidade dos outros, sem pedir felicidade para si própria.
+1 Acreditamos que o Criador nos fez ricos a todos, sem exceção, porque a riqueza autêntica, a nosso ver, procede do trabalho e todos nós de uma forma ou de outra, podemos trabalhar e servir.
+2 Quanto à felicidade, cremos que ela nasce na paz da consciência tranquila pelo dever cumprido e cresce, no íntimo de cada pessoa, à medida que a pessoa procura fazer a felicidade dos outros, sem pedir felicidade para si própria.
 
 ---
 
-## 20 — Temas variados
+## 20
 
 Indubitavelmente, vemos o Espiritismo influenciando, não apenas no campo da Arte, mas em quase todos os setores da inteligência humana.
 Não acreditamos que criaturas humanas e comunidades humanas consigam ser felizes sem a ideia de Deus e sem respeito aos semelhantes.
 A alma humana não pode viver sem religião. Quanto mais o materialismo cresce, mais nosso Espírito tem saudade da união com Deus. Isso é nato em cada um de nós. Toda pessoa tem essa sede.
-Segundo admitimos, o padrão ideal para a convivência pacífica entre as criaturas da Terra, está contido naquele inesquecível mandamento de Jesus Cristo: “Amai-vos uns aos outros, como eu vos amei”.
-Quando este preceito for praticado, certamente usufruiremos a felicidade do Mundo Melhor com que todos sonhamos.
+Segundo admitimos, o padrão ideal para a convivência pacífica entre as criaturas da Terra, está contido naquele inesquecível mandamento de Jesus Cristo: “Amai-vos uns aos outros, como eu vos amei”. ( † ) Quando este preceito for praticado, certamente usufruiremos a felicidade do Mundo Melhor com que todos sonhamos.
 Creio que a importância do Evangelho de Jesus em nossa evolução espiritual, é semelhante à importância do sol na sustentação de nossa vida física.
 A solidão é boa somente para refletir, porque, sem dúvida, fomos criados para viver uns com os outros.
 
 ---
 
-## 21 — Espíritos infelizes
+## 21
 
-Não há ninguém desamparado. Assim como aqui na Terra, na pior das hipóteses, renasceremos a sós, em companhia de nossa mãe, mas nunca sozinhos, no mundo espiritual também a Providência Divina ampara todos os seus filhos.
-
-Ainda aqueles considerados os mais infelizes, pelas ações que praticaram e que entram no mundo espiritual com a mente barrada pela sombra, que eles próprios criaram em si mesmos, ainda esses têm o carinho de guardiães amorosos que os ajudam e amparam, no mundo de mais luzes e mais felicidade.
-
----
-
-## 22 — O Espiritismo em seu aspecto religioso
-
-Temos aprendido com os Benfeitores da Vida Maior que todos os três aspectos do Espiritismo são essencialmente importantes, entretanto, o religioso é o mais expressivo por atribuir-nos mais amplas responsabilidades de ordem moral, no trato com a vida.
-
-Emmanuel costuma afirmar-nos que, sem religião, seríamos na Terra, viajores sem bússola, incapazes de orientar-nos no rumo da elevação real.
+1 Não há ninguém desamparado. Assim como aqui na Terra, na pior das hipóteses, renasceremos a sós, em companhia de nossa mãe, mas nunca sozinhos, no mundo espiritual também a Providência Divina ampara todos os seus filhos.
+2 Ainda aqueles considerados os mais infelizes, pelas ações que praticaram e que entram no mundo espiritual com a mente barrada pela sombra, que eles próprios criaram em si mesmos, ainda esses têm o carinho de guardiães amorosos que os ajudam e amparam, no mundo de mais luzes e mais felicidade.
 
 ---
 
-## 23 — Os tempos são chegados
+## 22
 
-Segundo os mensageiros da Espiritualidade Maior, nós, as criaturas terrestres de todas as idades, superaremos as crises atuais e dizem que as transformações aflitivas do mundo moderno se verificam para o bem geral.
-Os nossos guias espirituais traduzem a nossa insatisfação, no mundo inteiro, como sendo a ausência de Jesus-Cristo em nossos corações.
-Precisamos desalojar o ódio, a inveja, o ciúme, a discórdia de nós mesmos, para que possamos chegar a uma solução em matéria de paz, de modo a sentirmos que
-para a felicidade humana.
+1 Temos aprendido com os Benfeitores da Vida Maior que todos os três aspectos do Espiritismo são essencialmente importantes, entretanto, o religioso é o mais expressivo por atribuir-nos mais amplas responsabilidades de ordem moral, no trato com a vida.
+2 Emmanuel costuma afirmar-nos que, sem religião, seríamos na Terra, viajores sem bússola, incapazes de orientar-nos no rumo da elevação real.
 
 ---
 
-## 24 — Necessidade do estudo
+## 23
 
-Na ignorância não conseguiríamos, como não conseguiremos, enxergar o caminho real que Deus traçou a cada um de nós na Terra.
-
-Todos nós, sejamos crianças ou jovens, adultos ou já muitíssimos maduros, devemos estudar sempre.
-
----
-
-## 25 — Vêm de Deus
-
-A vida está repleta da beleza de Deus e por isso não nos será lícito entregar o coração ao desespero, porque a vida vem de Deus, tal qual o sol maravilhoso que nos ilumina.
-
-Ainda sabendo que a morte
-, quando nós não a provocamos, não podemos, por enquanto, na Terra receber a morte com alegria porque ninguém recebe um adeus com felicidade, mas podemos receber a separação com fé em Deus, entendendo que um dia nos reencontraremos todos numa vida maior e essa esperança deve aquecer-nos o coração.
+1 Segundo os mensageiros da Espiritualidade Maior, nós, as criaturas terrestres de todas as idades, superaremos as crises atuais e dizem que as transformações aflitivas do mundo moderno se verificam para o bem geral.
+2 Os nossos guias espirituais traduzem a nossa insatisfação, no mundo inteiro, como sendo a ausência de Jesus-Cristo em nossos corações.
+3 Precisamos desalojar o ódio, a inveja, o ciúme, a discórdia de nós mesmos, para que possamos chegar a uma solução em matéria de paz, de modo a sentirmos que os tempos são chegados para a felicidade humana.
 
 ---
 
-## 26 — Valores físicos
+## 24
 
-Acreditamos que para que o homem atinja a perfeição não se pode menosprezar os valores do Espírito.
-Todos estamos formulando votos aos Poderes Divinos que governam o mundo e a Humanidade, para que o homem se volte para dentro de si mesmo a fim de que nós todos, dentro dessa interiorização, venhamos a compreender que sem os valores da alma não podemos avançar muito tão só com os valores físicos que são praticamente transitórios.
-Mas a pessoa sã, em plenitude dos seus valores físicos, pode perfeitamente estudar a própria mediunidade e ver qual o caminho que suas faculdades mediúnicas podem tomar.
-
----
-
-## 27 — A Doutrina Espírita e as religiões tradicionais
-
-Os nossos Benfeitores Espirituais nos esclarecem, frequentemente, que a Doutrina Espírita formula explicações mais lógicas, mais simples em torno dos ensinamentos de Nosso Senhor Jesus-Cristo, explicações essas que nós encontramos com muita riqueza de minudências nas obras codificadas por Allan Kardec.
-Mas, explicam também, que todas as religiões são respeitáveis e que nossa atitude, diante de todas elas, deve ser de extremada veneração, pelo bem que elas trazem às criaturas humanas e por serem igualmente sustentáculos do bem na comunidade em nome de Deus.
+1 Na ignorância não conseguiríamos, como não conseguiremos, enxergar o caminho real que Deus traçou a cada um de nós na Terra.
+2 Todos nós, sejamos crianças ou jovens, adultos ou já muitíssimos maduros, devemos estudar sempre.
 
 ---
 
-## 28 — Maledicência
+## 25
 
-Estávamos, certa vez, sob chuvas de observações e eu pedi ao Espírito de Emmanuel:
-— Que fazer! dizem tanto mal… — e ele respondeu: — Olha, a boca do mal na Terra é como a boca da noite. Ninguém consegue fechá-la. Vamos trabalhar, trabalhar…
-
----
-
-## 29 — Da compreensão
-
-Cremos que, em matéria de
-e experiência, todos nos assemelhamos aos frutos que o tempo vai amadurecendo a pouco e pouco.
+1 A vida está repleta da beleza de Deus e por isso não nos será lícito entregar o coração ao desespero, porque a vida vem de Deus, tal qual o sol maravilhoso que nos ilumina.
+2 Ainda sabendo que a morte vem de Deus, quando nós não a provocamos, não podemos, por enquanto, na Terra receber a morte com alegria porque ninguém recebe um adeus com felicidade, mas podemos receber a separação com fé em Deus, entendendo que um dia nos reencontraremos todos numa vida maior e essa esperança deve aquecer-nos o coração.
 
 ---
 
-## 30 — Mediunidade e estudo
+## 26
+
+1 Acreditamos que para que o homem atinja a perfeição não se pode menosprezar os valores do Espírito.
+2 Todos estamos formulando votos aos Poderes Divinos que governam o mundo e a Humanidade, para que o homem se volte para dentro de si mesmo a fim de que nós todos, dentro dessa interiorização, venhamos a compreender que sem os valores da alma não podemos avançar muito tão só com os valores físicos que são praticamente transitórios.
+3 Mas a pessoa sã, em plenitude dos seus valores físicos, pode perfeitamente estudar a própria mediunidade e ver qual o caminho que suas faculdades mediúnicas podem tomar.
+
+---
+
+## 27
+
+1 Os nossos Benfeitores Espirituais nos esclarecem, frequentemente, que a Doutrina Espírita formula explicações mais lógicas, mais simples em torno dos ensinamentos de Nosso Senhor Jesus-Cristo, explicações essas que nós encontramos com muita riqueza de minudências nas obras codificadas por Allan Kardec. 2 Mas, explicam também, que todas as religiões são respeitáveis e que nossa atitude, diante de todas elas, deve ser de extremada veneração, pelo bem que elas trazem às criaturas humanas e por serem igualmente sustentáculos do bem na comunidade em nome de Deus.
+
+---
+
+## 28
+
+Estávamos, certa vez, sob chuvas de observações e eu pedi ao Espírito de Emmanuel: — Que fazer! Dizem tanto mal… — E ele respondeu: — Olha, a boca do mal na Terra é como a boca da noite. Ninguém consegue fechá-la. Vamos trabalhar, trabalhar…
+
+---
+
+## 29
+
+Cremos que, em matéria de compreensão e experiência, todos nos assemelhamos aos frutos que o tempo vai amadurecendo a pouco e pouco.
+
+---
+
+## 30
 
 A mediunidade pode manifestar-se através da pessoa absolutamente inculta, mas os Bons Espíritos são de parecer que todos os médiuns são chamados a estudar a fim de servirem com mais segurança.

@@ -6,14 +6,13 @@
 
 ---
 
-##  — Palavras de estímulo
+## 
 
-“A biografia de D. Aparecida que você escreveu, é uma documentação preciosa e fico muito satisfeito ao saber que os nossos nomes estarão juntos no volume a ser publicado.”
-Uberaba, 02 de março de 1988.
+Dirigimos à Comunidade Uberabense os nossos agradecimentos sinceros pela valiosa colaboração que recebemos desde o início da experiência pedagógica “Escola dentro do Hospital”, dedicada aos nosso irmãos acometidos de Pênfigo Foliáceo, para que pudessem usufruir do “direito à eduação”.
 
 ---
 
-##  — Uma vida de amor e caridade
+## 
 
 > AGRADECIMENTO
 
@@ -29,56 +28,7 @@ Uberaba, 19 de maio de 1988.
 
 ---
 
-## 1 — Caridade  e vida
-
-Partíamos — a equipe de serviço —,
-Para aprender na Terra a servir por amor,
-Quando ouvimos atentos.
-A palavra serena do Instrutor:
-— Irmãos, a Terra é sempre a nossa grande escola,
-Onde plantar o bem lembra luta renhida…
-Tereis convosco a Eterna Providência,
-Ide e considerai primeiro a vida.
-Deus clareou a inteligência humana
-E a inteligência humana fez do mundo
-Amplo facilitário de trabalho,
-Que lhe nasceu do cérebro fecundo!…
-Naves e ondas, firmamento afora,
-Cidades ostentando harmonia e grandeza,
-Máquinas, invenções e experimentos,
-Tudo é sagrado para a Natureza.
-Entretanto, anotai! Antes de tudo,
-Na Civilização da Nova Era,
-Sois obreiros do amor, caminho adiante,
-Na seara do bem que vos espera!…
-Entre os carros triunfantes da cultura
-E os louros imortais de nobres gênios,
-Crueldade e violência, ódio e penúria,
-São chagas ancestrais de outros milênios…
-Estampai vossa voz nas vozes generosas
-Que renovam a fé nas almas combalidas,
-E ponde as vossas mãos nas mãos abençoadas
-Que socorrem a dor, lavando-lhe as feridas!…
-Ide à mágoa das mães, na provação que oprime,
-E extirpai-lhes do peito o fel do desconforto
-Amparai as crianças desprezadas
-E evitai sobre a Terra o estigma do aborto!…
-Não vos equivoqueis, fitando a Ciência,
-Refulgindo no chão e conquistando Espaços,
-A Humanidade em si, chora, aflige-se e clama,
-Esperando por Deus em vossos braços!…
-Finda a palavra do mentor amigo,
-Eis-nos na Terra, ao sol, ante o mundo opulento
-Das cidades que brilham carregando,
-Insegurança, angústia e sofrimento…
-Então reconheci que acima do progresso
-Dos grandes povos-reis que se transformarão,
-Somente a Caridade, assegurando a vida
-Pode criar na Terra a paz do coração.
-
----
-
-## 1 — Alicerces da tarefa missionária
+## 1
 
 Tudo começou no ano de 1957 de nosso calendário, quando uma abnegada mulher, angustiada pelo sofrimento de nossos irmãos em humanidade, necessitados de uma assistência vigilante e constante, pela enfermidade manifestada — o “Pênfigo Foliáceo”, vulgarmente denominado de “Fogo Selvagem”, pela semelhança com indisciplinadas labaredas, que percorrendo todo o corpo acometido dessa difícil moléstia, vão deixando sobre ele as doloridas marcas de sua queimadura, — se dispôs a entregar-se definitivamente, em dedicação exclusiva, ao trabalho de auxílio permanente àqueles que buscavam ansiosos os recursos para a sua recuperação.
 Mas, como em a natureza nada se processa bruscamente, devendo as realizações percorrer, de forma metódica e gradual, todos os passos que constituem o percurso extenso da evolução, a tarefa missionária de Aparecida Conceição Ferreira alicerçou-se nas bases sólidas das lutas de uma vida difícil, preparando-se naturalmente, para que estivesse pronta no momento determinado pela Divina Providência.
@@ -86,19 +36,23 @@ As nossas singelas expressões estão muito distanciadas da revelação mais pro
 
 ---
 
-## 2 — Petição  do aprendiz
+## 1
 
-Senhor Jesus!
-Deste-nos a conhecer a grandeza do bem, ensina-nos a praticá-lo.
-Quando não possa oferecer te o serviço excelente, orienta-me para que eu faça o melhor ao meu alcance.
-No entanto, se as circunstâncias estiverem contra os meus propósitos, ampara-me a fim de que te entregue o bom trabalho.
-Se isso, porém, não me for concedido, em vista das imperfeições que carrego, permita-me confiar-te o meu esforço sofrível.
-No entanto, Mestre, se ainda aqui estiver sob impedimento para a concretização do meu desejo, auxilia-me a trazer te a migalha de bem que eu puder, mas, de qualquer modo, rogo-te, Senhor, para que me livre da inércia e que, embora em me arrastando, consiga algo aprender para servir te, servindo ao próximo, hoje, agora e sempre.
-Assim seja.
+1 Partíamos, — a equipe de serviço, — Para aprender na Terra a servir por amor, Quando ouvimos atentos, A palavra serena do Instrutor:
+2 — Irmãos, a Terra é sempre a nossa grande escola, Onde plantar o bem lembra luta renhida… Tereis convosco a Eterna Providência, Ide e considerai primeiro a vida.
+3 Deus clareou a inteligência humana E a inteligência humana fez do mundo Amplo facilitário de trabalho, Que lhe nasceu do cérebro fecundo!…
+4 Naves e ondas, firmamento afora, Cidades ostentando harmonia e grandeza, Máquinas, invenções e experimentos, Tudo é sagrado para a Natureza.
+5 Entretanto, anotai! Antes de tudo, Na Civilização da Nova Era, Sois obreiros do amor, caminho adiante, Na seara do bem que vos espera!…
+6 Entre os carros triunfantes da cultura E os louros imortais de nobres gênios, Crueldade e violência, ódio e penúria, São chagas ancestrais de outros milênios…
+7 Estampai vossa voz nas vozes generosas Que renovam a fé nas almas combalidas, E ponde as vossas mãos nas mãos abençoadas Que socorrem a dor, lavando-lhe as feridas!…
+8 Ide à mágoa das mães, na provação que oprime, E extirpai-lhes do peito o fel do desconforto, Amparai as crianças desprezadas E evitai sobre a Terra o estigma do aborto!…
+9 Não vos equivoqueis, fitando a Ciência, Refulgindo no chão e conquistando Espaços, A Humanidade em si, chora, aflige-se e clama, Esperando por Deus em vossos braços!…
+10 Finda a palavra do mentor amigo, Eis-nos na Terra, ao sol, ante o mundo opulento Das cidades que brilham carregando, Insegurança, angústia e sofrimento…
+11 Então reconheci que acima do progresso Dos grandes povos-reis que se transformarão, Somente a Caridade, assegurando a vida Pode criar na Terra a paz do coração.
 
 ---
 
-## 2 — Sua vida, sua história
+## 2
 
 Atendendo aos princípios que determinam o conhecimento de uma vida, necessário se torna, para transmitir os seus dados biográficos, que façamos uma retrospectiva no tempo, desde as manifestações primeiras que marcaram o início de sua existência.
 Nasceu a criança que recebeu o nome de Aparecida Conceição Ferreira, no dia 19 de maio de 1915, na cidade de Igarapava, Estado de São Paulo.
@@ -118,57 +72,17 @@ No surto de hepatite infecciosa que grassou em Uberaba, ceifando muitas vidas, a
 
 ---
 
-## 3 — Caridade  e caminho
+## 2
 
-
-Alma querida, observa
-Na Terra que se aprimora
-A vida fulge por fora
-Nas trilhas da evolução.
-Em toda parte, no entanto,
-Sob ruído e disfarce
-A dor é chaga a ocultar-se
-Por dentro do coração.
-
-Nunca existiu para os homens
-Tanta cultura brilhando,
-Altas conquistas em bando,
-Inventos, palmas, troféus!…
-Mas a violência campeia,
-No império do instinto bruto,
-Ouro e sangue, pompa e luto,
-Entremeiam-se ante os Céus!…
-
-O ódio incendeia povos,
-A ambição ruge no excesso,
-Desnorteando o progresso,
-A discórdia aflige o lar…
-As criaturas se apartam,
-Sob o medo que as domina,
-A treva espalha em surdina
-A guerra ativa no ar.
-
-Mas sobrestando o tumulto,
-Reina a Divina Presença,
-Em Cristo, a luz se condensa
-E aponta o Sol por porvir…
-Quanto a nós outros, obreiros
-De qualquer tempo e lugar,
-A ordem é “trabalhar”
-E o lema é “sempre servir”!…
-
-Alma fraterna, sigamos!
-A voz do Céu nos confia
-A base do novo dia
-No campo renovador.
-Caridade! Caridade!
-Sem cansaço ou retrocesso
-Eis o caminho de acesso
-Ao Reino do Eterno Amor.
+1 Senhor Jesus! Deste-nos a conhecer a grandeza do bem, ensina-nos a praticá-lo.
+2 Quando não possa oferecer te o serviço excelente, orienta-me para que eu faça o melhor ao meu alcance.
+3 No entanto, se as circunstâncias estiverem contra os meus propósitos, ampara-me a fim de que te entregue o bom trabalho.
+4 Se isso, porém, não me for concedido, em vista das imperfeições que carrego, permita-me confiar-te o meu esforço sofrível.
+5 No entanto, Mestre, se ainda aqui estiver sob impedimento para a concretização do meu desejo, auxilia-me a trazer te a migalha de bem que eu puder, mas, de qualquer modo, rogo-te, Senhor, para que me livre da inércia e que, embora em me arrastando, consiga algo aprender para servir te, servindo ao próximo, hoje, agora e sempre. Assim seja.
 
 ---
 
-## 3 — O início da obra assistencial
+## 3
 
 Continuando o seu trabalho e estando já integrada nos serviços de natureza específica do Pavilhão de Isolamento da Santa Casa de Uberaba, o internamento de um doente de Pênfigo Foliáceo, veio iniciar os alicerces da nova tarefa que lhe estava destinada. Chamava-se Josaphat Francisco Machado. Outros chegaram às portas da Santa Casa, portadores da referida moléstia, completando naquele ano de 1957, um total de vinte e dois doentes.
 Mas, devido às dificuldades de tratamento do Pênfigo Foliáceo, pela sua longa duração, o elevado custo dos medicamentos e o escasso pessoal para os serviços de enfermagem, a direção do Hospital Santa Casa de Misericórdia, julgou-se incapaz de continuar mantendo os vinte e dois doentes internados que se encontravam naquela enfermaria, alimentando a grande esperança de recuperar a sua saúde.
@@ -187,25 +101,17 @@ Diante daquele acontecimento, uma pessoa caridosa alugou um barracão próximo, 
 
 ---
 
-## 4 — Prece  da Caridade
+## 3
 
-Amigo,
-Auxilia-me para que eu te consiga auxiliar.
-Não me relegues ao amanhã e nem me ignores a presença.
-O Senhor enviou-me ao teu encontro, para que eu te sirva de apoio na senda da elevação.
-Em teu caminho, no entanto, estou entregue à tua vontade.
-Hoje sou convite, ideia, sugestão… Amanhã, porém, se quiseres, receber-me-ás na contabilidade da vida por passaporte em demanda aos reinos da luz.
-Emprega-me com bondade para que os outros nos acolham com entendimento e simpatia.
-Protege-me contra a omissão.
-Conduze-me no rumo daqueles que contam conosco, sem exigir que nos procurem.
-Auxilia-me a ouvir qualquer irmão em dificuldade com paciência e compreensão para que não falte a esperança em todos aqueles que nos requisitem a companhia.
-Deixa que o perdão e a tolerância nos sigam de perto a fim de que as nossas palavras não se percam no vazio.
-Agradece a moeda ou a migalha de recursos que o Céu te envie às mãos para a nossa lavoura no bem, mas não olvides que a nossa tarefa será sempre constituída de parcelas do nosso amor.
-De ti depende a felicidade de prosseguirmos adiante, com a Bênção de Deus.
+1 Alma querida, observa Na Terra que se aprimora A vida fulge por fora Nas trilhas da evolução. Em toda parte, no entanto, Sob ruído e disfarce A dor é chaga a ocultar-se Por dentro do coração.
+2 Nunca existiu para os homens Tanta cultura brilhando, Altas conquistas em bando, Inventos, palmas, troféus!… Mas a violência campeia, No império do instinto bruto, Ouro e sangue, pompa e luto, Entremeiam-se ante os Céus!…
+3 O ódio incendeia povos, A ambição ruge no excesso, Desnorteando o progresso, A discórdia aflige o lar… As criaturas se apartam, Sob o medo que as domina, A treva espalha em surdina A guerra ativa no ar.
+4 Mas sobrestando o tumulto, Reina a Divina Presença, Em Cristo, a luz se condensa E aponta o Sol por porvir… Quanto a nós outros, obreiros De qualquer tempo e lugar, A ordem é “trabalhar” E o lema é “sempre servir”!…
+5 Alma fraterna, sigamos! A voz do Céu nos confia A base do novo dia No campo renovador. Caridade! Caridade! Sem cansaço ou retrocesso Eis o caminho de acesso Ao Reino do Eterno Amor.
 
 ---
 
-## 4 — No “Asilo São Vicente de Paulo”
+## 4
 
 Aquela triste ocorrência emocionou as autoridades uberabenses e por sua solicitação e providências, foi cedido um pavilhão do Asilo “São Vicente de Paulo”, no bairro da Abadia, por dez dias, prazo estipulado para a procura de outro local que os abrigasse.
 Os dez dias concedidos pela Sociedade “São Vicente de Paulo” para a permanência dos doentes no Pavilhão do Asilo, se alongaram por dez anos, e desde o primeiro instante, Aparecida passou a residir com eles, para a contínua assistência exigida por essa prolongada enfermidade.
@@ -213,79 +119,49 @@ Aparecida deixou os filhos com o esposo em sua casa, que não ficava distante do
 
 ---
 
-## 5 — Progresso  e caridade
+## 4
 
-
-O Progresso expandiu-se, enaltecendo o mundo.
-Com integral desembaraço,
-Máquinas cortam vastidões do Espaço,
-Vencendo imensidões, de segundo a segundo.
-
-Não importa o engenho em que te escondas,
-Para a realização de teus próprios misteres,
-O radar marcará o sítio em que estiveres,
-A palavra caminha sob as ondas.
-
-Impulsos eletrônicos, motores
-E usinas de energias nucleares,
-Tudo facilidade onde te achares,
-Conforto e evolução, por onde fores.
-
-Por outro lado, em tudo se condensa,
-O acesso à liberdade soberana,
-Exalta-se o valor da inteligência humana,
-Aclama-se o poder da grande imprensa.
-
-Mas no clima ideal nascido de altos gênios,
-Ocultam-se os tacões e as lâminas da guerra,
-Tentando obstruir os avanços da Terra,
-Usando a mesma fúria de há milênios…
-
-Agitam-se no mundo os embates e as crises
-De ódio, rebeldia, angústia e solidão…
-Raciocínio se estranho ao coração
-Não reconhece a dor dos infelizes.
-
-Há crianças vivendo nas calçadas,
-Enfermos sem apoio, entre mães esquecidas,
-A máquina porém, não vê milhões de vidas,
-Aguardando socorro em todas as estradas.
-
-Eis porque na ascensão da Humanidade inteira,
-Ao passo do Progresso em jornadas de luz,
-A Caridade à frente é sempre fúlgida bandeira,
-Por presença do amor e amparo de Jesus.
+1 Amigo, Auxilia-me para que eu te consiga auxiliar.
+2 Não me relegues ao amanhã e nem me ignores a presença.
+3 O Senhor enviou-me ao teu encontro, para que eu te sirva de apoio na senda da elevação.
+4 Em teu caminho, no entanto, estou entregue à tua vontade.
+5 Hoje sou convite, ideia, sugestão… Amanhã, porém, se quiseres, receber-me-ás na contabilidade da vida por passaporte em demanda aos reinos da luz.
+6 Emprega-me com bondade para que os outros nos acolham com entendimento e simpatia.
+7 Protege-me contra a omissão.
+8 Conduze-me no rumo daqueles que contam conosco, sem exigir que nos procurem.
+9 Auxilia-me a ouvir qualquer irmão em dificuldade com paciência e compreensão para que não falte a esperança em todos aqueles que nos requisitem a companhia.
+10 Deixa que o perdão e a tolerância nos sigam de perto a fim de que as nossas palavras não se percam no vazio.
+11 Agradece a moeda ou a migalha de recursos que o Céu te envie às mãos para a nossa lavoura no bem, mas não olvides que a nossa tarefa será sempre constituída de parcelas do nosso amor.
+12 De ti depende a felicidade de prosseguirmos adiante, com a Bênção de Deus.
 
 ---
 
-## 5 — Registro do Hospital do Pênfigo
+## 5
 
 Para o tratamento do Pênfigo Foliáceo, segundo constam dos arquivos da Instituição, foram internados nos três primeiros anos:
 1958 — 26 doentes
 1959 — 43 doentes
 1960 — 187 doentes
 Para normalizar legalmente esse progressivo movimento hospitalar, foi constituída a Sociedade Civil de caráter filantrópico, sob a denominação de Associação Hospital do Pênfigo Foliáceo de Uberaba.
-Os seus Estatutos foram registrados no Cartório de Títulos e Documentos sob o número 166, Livro n° 1, de Registro de Pessoas Jurídicas, pág. 174, em 29.04.60, em Uberaba-MG.
+Os seus Estatutos foram registrados no Cartório de Títulos e Documentos sob o número 166, Livro nº 1, de Registro de Pessoas Jurídicas, pág. 174, em 29.04.60, em Uberaba-MG.
 Com a situação “de direito” proporcionada pelo Registro dos Estatutos, consolidou-se o funcionamento do Hospital do Pênfigo Foliáceo, que já existia “de fato”, desde 30 de agosto de 1957, amparando a todos os enfermos que batiam à sua porta, para o tratamento necessário à recuperação de sua saúde.
-1958 — 26 doentes
-1959 — 43 doentes
-1960 — 187 doentes
 
 ---
 
-## 6 — Petição  de paz
+## 5
 
-Senhor Jesus!
-Auxilia-nos a construir a paz onde estivermos.
-Faze-nos extinguir a discórdia pela prática do amor que nos ensinaste.
-Senhor, inspira-nos a palavra, a fim de desculparmos aos nossos semelhantes, para que sejamos desculpados, e a compreendê-los para que sejamos compreendidos.
-Auxilia-nos a entender que não estaremos tranquilos, sem servir-nos espontaneamente uns aos outros.
-Guia-nos para a aceitação de tuas diretrizes, de modo a reconhecermos que todos somos irmãos e filhos do mesmo Pai; e ampara-nos o coração de modo a sabermos que é possível usufruir a felicidade de estarmos contigo desde hoje, tanto quanto estás conosco, agora e sempre.
-Assim seja!
+1 O Progresso expandiu-se, enaltecendo o mundo. Com integral desembaraço, Máquinas cortam vastidões do Espaço, Vencendo imensidões, de segundo a segundo.
+2 Não importa o engenho em que te escondas, Para a realização de teus próprios misteres, O radar marcará o sítio em que estiveres, A palavra caminha sob as ondas.
+3 Impulsos eletrônicos, motores E usinas de energias nucleares, Tudo facilidade onde te achares, Conforto e evolução, por onde fores.
+4 Por outro lado, em tudo se condensa, O acesso à liberdade soberana, Exalta-se o valor da inteligência humana, Aclama-se o poder da grande imprensa.
+5 Mas no clima ideal nascido de altos gênios, Ocultam-se os tacões e as lâminas da guerra, Tentando obstruir os avanços da Terra, Usando a mesma fúria de há milênios…
+6 Agitam-se no mundo os embates e as crises De ódio, rebeldia, angústia e solidão… Raciocínio se estranho ao coração Não reconhece a dor dos infelizes.
+7 Há crianças vivendo nas calçadas, Enfermos sem apoio, entre mães esquecidas, A máquina porém, não vê milhões de vidas, Aguardando socorro em todas as estradas.
+8 Eis porque na ascensão da Humanidade inteira, Ao passo do Progresso em jornadas de luz, A Caridade à frente é sempre fúlgida bandeira, Por presença do amor e amparo de Jesus.
 
 ---
 
-## 6 — Construção da sede própria
+## 6
 
 O Pavilhão do Asilo “São Vicente de Paulo” onde funcionava o Hospital do Pênfigo, apesar da limpeza que lhe era peculiar, não podia mais atender ao grande número de enfermos — 363 (trezentos e sessenta e três), registrados em 1961 — devido a falta de espaço e a precariedade de suas instalações.
 Construir a sede própria — a meta a ser atingida, para proporcionar aos doentes mais conforto e melhores condições de tratamento.
@@ -293,47 +169,17 @@ Diante daquela vontade firme e da necessidade urgente, o lançamento da pedra fu
 
 ---
 
-## 7 — Cantiga  em caminho
+## 6
 
-
-Quando a prova te procure
-Ao rigor de ásperos lances,
-Alma boa, não te canses,
-Em desespero e pesar!
-Tribulação, muitas vezes
-É o apoio que te escora,
-De que não vês por agora,
-Toda a expressão tutelar.
-
-Ao invés de lastimar te,
-Observa, alma querida,
-Vem a dor a cada vida,
-Ninguém escapa ao sofrer!…
-Quem julgas feliz e forte,
-Talvez carregue consigo
-Desventura e desabrigo
-Por dentro do próprio ser.
-
-Existem, frequentemente,
-Na festa que anima as ruas,
-Chagas maiores que não tens…
-Não esmoreças. Trabalha,
-Ampara, ergue, auxilia,
-A esperança, dia a dia,
-É o maior de nossos bens.
-
-Não te vendas à tristeza,
-Eis que o tempo nos reclama,
-Feliz quem se esquece e ama,
-Na senda em que se conduz.
-Sigamos. Na estrada nova,
-Sob a fé que nos invade,
-Ante o Sol da Caridade,
-O companheiro é Jesus.
+1 Senhor Jesus! Auxilia-nos a construir a paz onde estivermos.
+2 Faze-nos extinguir a discórdia pela prática do amor que nos ensinaste.
+3 Senhor, inspira-nos a palavra, a fim de desculparmos aos nossos semelhantes, para que sejamos desculpados, e a compreendê-los para que sejamos compreendidos.
+4 Auxilia-nos a entender que não estaremos tranquilos, sem servir-nos espontaneamente uns aos outros.
+5 Guia-nos para a aceitação de tuas diretrizes, de modo a reconhecermos que todos somos irmãos e filhos do mesmo Pai; e ampara-nos o coração de modo a sabermos que é possível usufruir a felicidade de estarmos contigo desde hoje, tanto quanto estás conosco, agora e sempre. Assim seja!
 
 ---
 
-## 7 — Buscando recursos em São Paulo
+## 7
 
 Corria o ano de 1964.
 A escassez de recursos para o tratamento dos doentes gera grandes dificuldades. Além das despesas com remédios e alimentos, ainda o prédio em construção.
@@ -360,19 +206,16 @@ E, Aparecida continuou a trabalhar com a fé inquebrantável e a coragem destemi
 
 ---
 
-## 8 — Rogativa  de servidor
+## 7
 
-Senhor Jesus!
-Não nos retires dos ombros o fardo das responsabilidade com o qual nos ensinas a praticar entendimento e cooperação, mas auxilia-nos a transportá-lo, sob os teus desígnios.
-Não nos afastes dos obstáculos com que nos impeles à aquisição da confiança e nos avalias as dimensões da fé, no entanto, ampara-nos Senhor, para que possamos transpô-los.
-Não nos desligues dos problemas com que nos impulsionas para o caminho da elevação das nossas próprias experiências, contudo, dá-nos a tua bênção, a fim de que venhamos a resolvê-los com segurança.
-Não nos deixes sem o convívio com os irmãos irritadiços ou infelizes, que se nos fazem enigmas no cotidiano, junto dos quais nos convidas ao aprendizado da serenidade e da paciência, mas protege-nos os corações e ilumina-nos a estrada de modo a que nos transformemos para todos eles em refúgios de apoio e socorro de amor.
-Enfim, Senhor, dá-nos, a cada dia, o privilégio de servir, entretanto, infunde em nossas almas o poder da compreensão e da tolerância, do devotamento e da caridade para que possamos estar contido, tanto quanto permaneces conosco, hoje e sempre.
-Assim seja!
+1 Quando a prova te procure Ao rigor de ásperos lances, Alma boa, não te canses, Em desespero e pesar! Tribulação, muitas vezes É o apoio que te escora, De que não vês por agora, Toda a expressão tutelar.
+2 Ao invés de lastimar te, Observa, alma querida, Vem a dor a cada vida, Ninguém escapa ao sofrer!… Quem julgas feliz e forte, Talvez carregue consigo Desventura e desabrigo Por dentro do próprio ser.
+3 Existem, frequentemente, Na festa que anima as ruas, Chagas maiores que não tens… Não esmoreças. Trabalha, Ampara, ergue, auxilia, A esperança, dia a dia, É o maior de nossos bens.
+4 Não te vendas à tristeza, Eis que o tempo nos reclama, Feliz quem se esquece e ama, Na senda em que se conduz. Sigamos. Na estrada nova, Sob a fé que nos invade, Ante o Sol da Caridade, O companheiro é Jesus.
 
 ---
 
-## 8 — Saúde, Trabalho e Educação
+## 8
 
 Considerando a longa duração do tratamento do Pênfigo Foliáceo, Aparecida mantinha sempre um pensamento fixo: o aproveitamento do tempo para o doente durante o longo período em que permanecia internado no Hospital.
 Desde o início, ao lado da preocupação preponderante de devolver a saúde ao enfermo, havia portanto, outra consideração de igual importância — a promoção dos Filhos da Casa pela Educação e pelo Trabalho, que aliados à Saúde, constituem o glorioso trinômio onde alicerça o progresso do homem.
@@ -382,65 +225,21 @@ O ano de 1964 trouxe duplo contentamento para a Instituição e principalmente, 
 Primeiramente, os alicerces da futura construção do Hospital foram terminados, levantando-se as paredes do prédio até a altura determinada para a colocação do madeiramento.
 E complementando essa alegria, dois alunos em tratamento conseguiram vencer as barreiras dos exames de admissão exigidos na época, com muito rigor, e ingressaram no curso ginasial (2) do Colégio “Dr. José Ferreira” de Uberaba, sendo promovidos no fim do ano letivo, à segunda série ginasial. (3) Uma demonstração patente da sua normalidade mental, atestando que a enfermidade não perturbou, de forma alguma, a sua escolarização.
 Seguindo esse magnífico exemplo, no ano seguinte, mais cinco alunos doentes, também foram habilitados à matrícula na primeira série ginasial. (4)
-As novas perspectivas para os planos da casa própria e a integração dos estudantes-enfermos na escola, renovavam as esperanças para melhores dias no ambiente hospitalar.
-(1) — Correspondente ao ensino de l° grau – 1ª a 4ª série, pela Lei n° 5.692/7l.
-(2) — Ensino de 1° grau – 5ª a 8ª série
-(3) — 6ª série do 1° grau
-(4) — 5ª série do 1° grau
+As novas perspectivas para os planos da casa própria e a integração dos estudantes-enfermos na escola, renovavam as esperanças para melhores dias no ambiente hospitalar. (1) — Correspondente ao ensino de lº grau – 1ª a 4ª série, pela Lei nº 5.692/7l. (2) — Ensino de 1º grau – 5ª a 8ª série (3) — 6ª série do 1º grau (4) — 5ª série do 1º grau
 
 ---
 
-## 9 — Ante o  próximo
+## 8
 
-
-… E quem é o meu próximo?
-— indaguei
-Ao coração da vida
-E o coração da vida obedecendo a Lei
-Respondeu com voz clara e decidida:
-Olha em redor de ti, onde o dever te leve
-Do espaço livre e amplo à senda estreita e breve.
-Fita em teu próprio lar:
-É teu pai, tua mãe, teu irmão, teu parente,
-E mais alguém do grupo familiar,
-É o vizinho piedoso e intransigente,
-
-É o mendigo a esmolar que te visita a porta,
-O amigo suscetível de amparar te
-É aquele que padece
-Privação ou problema em qualquer parte.
-É aquele que te esquece
-E o outro que te humilha,
-A esconder-se no ouro em que se alteia e brilha
-Para depois cair quando se desilude.
-É aquele que se faz bandeira da virtude,
-E o outro que te apoia ou te faz concessões.
-
-É aquele que te furta o lugar e o direito,
-Alimentando a sombra do despeito
-Sem que te saiba ver as intenções.
-É a mulher que te guia para o bem
-E a outra que atravessa as áreas de ninguém
-Avinagrando corações…
-O próximo, afinal, seja onde for,
-Será sempre a criatura
-Que te busca onde estás
-Procurando por ti o socorro da paz,
-
-Rogando-te bondade, amparo e compreensão,
-Amizade e calor
-Dando-te o nobre ensejo,
-De seguir para a luz na presença do amor.
-E posso sem o próximo viver? — perguntei comovida
-E disse novamente o coração da vida:
-Acende sem cessar a luz do Bem,
-Trabalha, serve, crê, chora, sofre e auxilia…
-Sem o próximo em tua companhia
-Nunca serás alguém.
+1 Senhor Jesus! Não nos retires dos ombros o fardo das responsabilidade com o qual nos ensinas a praticar entendimento e cooperação, mas auxilia-nos a transportá-lo, sob os teus desígnios.
+2 Não nos afastes dos obstáculos com que nos impeles à aquisição da confiança e nos avalias as dimensões da fé, no entanto, ampara-nos Senhor, para que possamos transpô-los.
+3 Não nos desligues dos problemas com que nos impulsionas para o caminho da elevação das nossas próprias experiências, contudo, dá-nos a tua bênção, a fim de que venhamos a resolvê-los com segurança.
+4 Não nos deixes sem o convívio com os irmãos irritadiços ou infelizes, que se nos fazem enigmas no cotidiano, junto dos quais nos convidas ao aprendizado da serenidade e da paciência, mas protege-nos os corações e ilumina-nos a estrada de modo a que nos transformemos para todos eles em refúgios de apoio e socorro de amor.
+5 Enfim, Senhor, dá-nos, a cada dia, o privilégio de servir, entretanto, infunde em nossas almas o poder da compreensão e da tolerância, do devotamento e da caridade para que possamos estar contigo, tanto quanto permaneces conosco, hoje e sempre. Assim seja!
 
 ---
 
-## 9 — Vítimas do preconceito, os alunos não podem continuar a estudar
+## 9
 
 A alegria dos estudantes-enfermos e da querida Mãe Aparecida teve pouca duração. A comunidade do Hospital do Pênfigo teve a sua tranquilidade comprometida pelas rajadas do pessimismo, causadas pelo preconceito humano.
 No início do ano letivo de 1965, os alunos não conseguiram matricular-se porque os pais impuseram condição, afirmando que os seus filhos seriam transferidos do Colégio “Dr. José Ferreira”, se os doentes de pênfigo frequentassem o estabelecimento.
@@ -448,22 +247,16 @@ Criado o impasse por aquela imposição social, resultante da ausência de escla
 
 ---
 
-## 10 — Oração  da Caridade
+## 9
 
-Senhor Jesus!
-Dá-nos a coragem precisa de esquecer-nos em auxílio daqueles que nos deste ao convívio.
-Ante a dificuldade, concede-nos a esperança que nos faça sorrir, encorajando os companheiros de trabalho e de ideal.
-Não nos permita a omissão, quando se nos apresente a oportunidade de sermos úteis.
-Ensina-nos, Senhor, que todos somos irmãos, filhos do mesmo Pai, e que, por isso mesmo, o perdão de quaisquer ofensas deve inspirar as nossas diretrizes, dando-nos a entender que os erros de outrem poderiam ser nossos.
-Auxilia-nos a pronunciar a frase de otimismo e de alegria, quando o pessimismo nos tente abater a fé viva nos destinos que nos traçaste.
-Ampara-nos a fim de que sejamos um anteparo contra a violência, pela capacidade de construir o bem onde estivermos, com a qual nos dotaste o entendimento.
-Infunde-nos a compreensão de que o doente e o necessitado, a criança e o companheiro desvalido, as mães sozinhas e os filhos do sofrimento devem usufruir de prioridade em nossa disposição de socorrer.
-Não nos deixes indiferentes à dor do próximo e inspira-nos o que devamos fazer para atenuar as lágrimas e as aflições, os conflitos e desarmonias que lavram sobre a Terra.
-E faze-nos, Senhor, aceitar te os desígnios misericordiosos e justos, que prevalecerão sempre sobre quaisquer desentendimentos humanos, de vez que a Ti pertencem as realizações da paz e do amor que felicitarão as criaturas na Terra, não somente agora mas sempre, não apenas hoje mas igualmente no esplendor do amanhã.
+1 … E quem é o meu próximo? ( † ) — indaguei Ao coração da vida E o coração da vida obedecendo a Lei Respondeu com voz clara e decidida: Olha em redor de ti, onde o dever te leve Do espaço livre e amplo à senda estreita e breve. Fita em teu próprio lar: É teu pai, tua mãe, teu irmão, teu parente, E mais alguém do grupo familiar, É o vizinho piedoso e intransigente,
+2 É o mendigo a esmolar que te visita a porta, O amigo suscetível de amparar te É aquele que padece Privação ou problema em qualquer parte. É aquele que te esquece E o outro que te humilha, A esconder-se no ouro em que se alteia e brilha Para depois cair quando se desilude. É aquele que se faz bandeira da virtude, E o outro que te apoia ou te faz concessões.
+3 É aquele que te furta o lugar e o direito, Alimentando a sombra do despeito Sem que te saiba ver as intenções. É a mulher que te guia para o bem E a outra que atravessa as áreas de ninguém Avinagrando corações… O próximo, afinal, seja onde for, Será sempre a criatura Que te busca onde estás Procurando por ti o socorro da paz,
+4 Rogando-te bondade, amparo e compreensão, Amizade e calor Dando-te o nobre ensejo, De seguir para a luz na presença do amor. E posso sem o próximo viver? — perguntei comovida E disse novamente o coração da vida: Acende sem cessar a luz do Bem, Trabalha, serve, crê, chora, sofre e auxilia… Sem o próximo em tua companhia Nunca serás alguém.
 
 ---
 
-## 10 — Dirigindo-se às autoridades do Ministério da Educação e Cultura
+## 10
 
 Pessoalmente, eu não conhecia Aparecida Conceição Ferreira.
 Naquela ocasião, eu era responsável pela Inspetoria Seccional do Ensino Secundário de Uberaba, Regional do Ministério da Educação e Cultura, sendo a titular daquela repartição pública.
@@ -476,7 +269,7 @@ Naquele dia, a autoridade do Ministério da Educação e Cultura que representá
 Foi assim, que naquele momento, espiritualmente assumimos o compromisso perante Deus e Aparecida, afirmando que os meninos não deixariam de estudar, “não sabendo como”! A afirmação foi tão espontânea e categórica, que somente a força superior do Poder Divino, poderia nos induzir a tal decisão apriorística, diante do grave problema social que nos foi apresentado na esperança de uma solução satisfatória.
 De fato, após dois dias, com a nossa visita ao Hospital do Pênfigo, no Pavilhão do Asilo “São Vicente de Paulo”, para as formalidades legais, autorizamos uma semana depois, “ad referendum” da Diretoria do Ensino Secundário — Ministério da Educação e Cultura, o funcionamento do curso ginasial dentro do próprio Hospital, como Classes Anexas do Colégio “Dr. José Ferreira” de Uberaba.
 Justificamos o nosso ato de autorizar a abertura do curso ginasial no Hospital do Pênfigo, como Anexo do Colégio “Dr. José Ferreira”, devido não haver condições materiais para a instalação do estabelecimento, de propriedade da Instituição. E, como curso anexo, seriam supridas as deficiências, especialmente quanto aos aparelhos e reagentes para o estudo de Ciências Físicas e Biológicas com a utilização de laboratórios exigidos para o ensino secundário.
-A autorização para o funcionamento do Ginásio no Hospital do Pênfigo foi logo referendada pelo Exm° Sr. Diretor do Ensino Secundário, Prof. Gildásio Amado que entregou à Inspetoria Seccional de Uberaba, a orientação e execução da nossa proposta de experiência pedagógica — “Escola dentro de hospitais”, para que os enfermos metidos de moléstias com longa duração, aproveitem o tempo, estudando e participando da comunidade.
+A autorização para o funcionamento do Ginásio no Hospital do Pênfigo foi logo referendada pelo Exmº Sr. Diretor do Ensino Secundário, Prof. Gildásio Amado que entregou à Inspetoria Seccional de Uberaba, a orientação e execução da nossa proposta de experiência pedagógica — “Escola dentro de hospitais”, para que os enfermos metidos de moléstias com longa duração, aproveitem o tempo, estudando e participando da comunidade.
 Com a verificação da validade da experiência, posteriormente, a Escola foi reconhecida pela Portaria número 02, de 25 de julho de 1971, publicada no Diário Oficial da União, em 24/10/1972.
 Logo após a resolução da abertura da Escola dentro do Hospital do Pênfigo de Uberaba, bem explicada anteriormente, oferecemos o nosso serviço desinteressado de remuneração, para dirigir e lecionar naquele mais novo estabelecimento de ensino secundário, sob nossa jurisdição. Houve aquiescência por parte do Setor Local da Campanha Nacional de Escolas da Comunidade, mantenedora do Colégio “Dr. José Ferreira” e de Aparecida Conceição Ferreira, responsável pela Instituição.
 Devido as nossas relações de amizade com os administradores de ensino e professores uberabenses, pelo nosso convívio na Inspetoria Seccional através de Cursos, Encontros, Seminários e outras atividades educacionais, solicitamos o seu trabalho assistencial para compor o quadro do magistério e do serviço de secretaria do estabelecimento.
@@ -489,7 +282,21 @@ Mas, não havendo possibilidade, cumpre-nos o dever de gratidão, apresentar a t
 
 ---
 
-## 11 — A Escola estende a matrícula a outros alunos
+## 10
+
+1 Senhor Jesus! Dá-nos a coragem precisa de esquecer-nos em auxílio daqueles que nos deste ao convívio.
+2 Ante a dificuldade, concede-nos a esperança que nos faça sorrir, encorajando os companheiros de trabalho e de ideal.
+3 Não nos permita a omissão, quando se nos apresente a oportunidade de sermos úteis.
+4 Ensina-nos, Senhor, que todos somos irmãos, filhos do mesmo Pai, e que, por isso mesmo, o perdão de quaisquer ofensas deve inspirar as nossas diretrizes, dando-nos a entender que os erros de outrem poderiam ser nossos.
+5 Auxilia-nos a pronunciar a frase de otimismo e de alegria, quando o pessimismo nos tente abater a fé viva nos destinos que nos traçaste.
+6 Ampara-nos a fim de que sejamos um anteparo contra a violência, pela capacidade de construir o bem onde estivermos, com a qual nos dotaste o entendimento.
+7 Infunde-nos a compreensão de que o doente e o necessitado, a criança e o companheiro desvalido, as mães sozinhas e os filhos do sofrimento devem usufruir de prioridade em nossa disposição de socorrer.
+8 Não nos deixes indiferentes à dor do próximo e inspira-nos o que devamos fazer para atenuar as lágrimas e as aflições, os conflitos e desarmonias que lavram sobre a Terra.
+9 E faze-nos, Senhor, aceitar te os desígnios misericordiosos e justos, que prevalecerão sempre sobre quaisquer desentendimentos humanos, de vez que a Ti pertencem as realizações da paz e do amor que felicitarão as criaturas na Terra, não somente agora mas sempre, não apenas hoje mas igualmente no esplendor do amanhã.
+
+---
+
+## 11
 
 A Escola funcionou durante algum tempo, exclusivamente para os enfermos internos do Hospital.
 Mas, muitas vezes, e quase sempre, era necessário que a família do doente, também recebesse a assistência da Instituição porque não tinha recursos para a sua sobrevivência.
@@ -498,97 +305,38 @@ Mais tarde, com o devido consentimento médico, foi estendida a outros alunos ca
 
 ---
 
-## 11 — Gratidão  de irmã
+## 11
 
-Agradeço, alma irmã, tudo que me trouxeste,
-A mesa farta, o teto amigo, a veste,
-A palavra de luz.
-O remédio, o socorro, a solidariedade
-Por bênçãos do caminho,
-Por tudo te consagro o meu carinho,
-Que o verbo não traduz.
-Agradeço o trabalho
-Que te haverá custado sacrifício
-Para meu benefício,
-Suprimindo-me a dor,
-A bendita moeda que entregaste
-Ouvindo o apelo da beneficência,
-O serviço sagrado da existência,
-Recamado de amor.
-Agradeço a presença com que honras
-A nossa de esperança
-Enriquecendo a fé que nos alcança
-Em nosso festival!…
-A ternura a sorrir com que anuncias
-O alvorecer da nova era,
-A futura e sublime primavera
-Da união fraternal…
-Mas, acima de tudo, alma querida,
-Em preces agradeço
-O conforto sem preço
-Por estender me a tua própria mão,
-Fazendo-me sentir que Deus existe em nós,
-Guardando-nos na força da alegria,
-Ao bendito calor de cada dia,
-Dando-nos vida e paz ao coração.
+1 Agradeço, alma irmã, tudo que me trouxeste, A mesa farta, o teto amigo, a veste, A palavra de luz. O remédio, o socorro, a solidariedade Por bênçãos do caminho, Por tudo te consagro o meu carinho, Que o verbo não traduz.
+2 Agradeço o trabalho Que te haverá custado sacrifício Para meu benefício, Suprimindo-me a dor, A bendita moeda que entregaste Ouvindo o apelo da beneficência, O serviço sagrado da existência, Recamado de amor.
+3 Agradeço a presença com que honras A nossa casa de esperança Enriquecendo a fé que nos alcança Em nosso festival!… A ternura a sorrir com que anuncias O alvorecer da nova era, A futura e sublime primavera Da união fraternal…
+4 Mas, acima de tudo, alma querida, Em preces agradeço O conforto sem preço Por estender me a tua própria mão, Fazendo-me sentir que Deus existe em nós, Guardando-nos na força da alegria, Ao bendito calor de cada dia, Dando-nos vida e paz ao coração.
 
 ---
 
-## 12 — Gratidão e rogativa
+## 12
 
-Senhor!…
-Ensina-nos a agradecer os bens que temos recebido de tua Infinita Bondade, sem desconsiderar os supostos males com que a tua Misericordiosa Justiça nos consolida os bens que já possuímos.
-Agradecemos a presença dos amigos que nos ampliam os recursos de modo a nos garantir o próprio reconforto, tanto quanto o concurso dos irmãos que nos auxiliam a despendê-los, seja pelos canais do trabalho ou perante a luz da beneficência;
-dos que nos amparam a vida e daqueles outros que nos rogam apoio, exercitando-nos nas obras de assistência e solidariedade pelas quais jornadeamos para a aquisição do amor a que nos destinas;
-dos benfeitores que nos administram aulas de educação e dos companheiros que se nos fazem examinadores do grau da paciência e tolerância em que estagiamos presentemente…
-Agradecemos a bênção dos associados de trabalho e de ideal que nos reconfortam e a escora dos adversários cujo policiamento nos disciplina;
-o amparo dos irmãos que nos animam a seguir para a frente e o incentivo daqueles outros que nos ajudam a encontrar as melhoras de que carecemos, através da crítica construtiva…
-Senhor!…
-Agradecemos a luz e agradecemos a sombra, sempre que a sombra nos impulsione a fazer mais luz e agradecemos o clima da harmonia que nos tranquiliza a estrada que nos cabe percorrer, tanto quanto a tempestade de incompreensão, toda vez que a incompreensão nos auxilie a descobrir a necessidade da concórdia, reunindo-nos os esforços uns dos outros para o levantamento da felicidade comum.
-Diante da luta, induze-nos a reconhecer que unicamente a luta nos oferece os ingredientes precisos para a vitória da paz em nós mesmos e perante o fracasso, qualquer que seja, faze-nos recordar que somente aprendendo e reaprendendo é que fixaremos a lição.
-Senhor!…
-Não nos entregues ao suposto bem que se converta em mal, nem nos permitas menosprezar o suposto mal que nos conduza ao bem.
-E sejam quais forem as provas a que formos chamados, ajuda-nos a reconhecer que a tua sabedoria misericordiosa reina sobre nós e que, acima das nossas tribulações e obstáculos, dificuldades e lágrimas, estamos todos reunidos em teu coração, incessantemente sustentados em teu amor para sempre.
-
----
-
-## 12 — Remuneração dos professores
-
-Depois de quinze anos de magistério gratuito, de caráter assistencial, nas classes do curso secundário, conforme nossa referência anterior, a Campanha Nacional de Escolas da Comunidade, mantenedora da Escola Anexa de 1° Grau da Instituição, firma contrato de pagamento dos professores. Essa resolução veio consolidar financeiramente, a continuidade da Escola e ao mesmo tempo, trazer maior tranquilidade para Aparecida e seus tutelados.
+Depois de quinze anos de magistério gratuito, de caráter assistencial, nas classes do curso secundário, conforme nossa referência anterior, a Campanha Nacional de Escolas da Comunidade, mantenedora da Escola Anexa de 1º Grau da Instituição, firma contrato de pagamento dos professores. Essa resolução veio consolidar financeiramente, a continuidade da Escola e ao mesmo tempo, trazer maior tranquilidade para Aparecida e seus tutelados.
 O funcionamento da Escola do Hospital, com o exercício gratuito do magistério durante aquele longo período, trouxe-nos a revelação de uma grande verdade, nem sempre apreendida pelos nossos insuficientes sentidos de percepção: “Todos nós podemos dedicar horas-extras a serviço do próximo”.
 Comprovando essa afirmativa, foi verificado que o tempo de prestação de serviços das nossas obrigações profissionais, dedicado àquelas atividades do magistério assistencial, alcançou um total de 43.200 (quarenta e três mil e duzentas) horas de aulas, ministradas com a maior alegria e responsabilidade.
 Concluindo, podemos asseverar: “Que algumas horas por semana, de trabalho no serviço do Bem, nos indicam um roteiro para a conquista de um mundo melhor”.
 
 ---
 
-## 13 — Agradecimento
+## 12
 
-
-Pelo prato de pão que dás à porta
-Aos que se vão no espaço de ninguém,
-Atirados à dor que os desconforta,
-Deus te conserve as mãos na lavoura do bem.
-
-Ante os que sofrem a agressão do frio
-Na trilha da aflição nevoenta e espinhosa,
-Pelo agasalho com que os fortaleças,
-Deus te resguarde a vida generosa.
-
-Pensando nos doentes desprezados,
-Cujas inquietações minoras e alivias,
-Pelo socorro que lhes ofereças,
-Deus te faça mais luz na estrada dos teus dias.
-
-Pelo perdão à ofensa recebida,
-Por teus gestos de amparo e compreensão,
-Deus te conceda em tudo, alma querida,
-Felicidade e paz ao coração.
+1 Senhor!… Ensina-nos a agradecer os bens que temos recebido de tua Infinita Bondade, sem desconsiderar os supostos males com que a tua Misericordiosa Justiça nos consolida os bens que já possuímos.
+2 Agradecemos a presença dos amigos que nos ampliam os recursos de modo a nos garantir o próprio reconforto, tanto quanto o concurso dos irmãos que nos auxiliam a despendê-los, seja pelos canais do trabalho ou perante a luz da beneficência; 3 dos que nos amparam a vida e daqueles outros que nos rogam apoio, exercitando-nos nas obras de assistência e solidariedade pelas quais jornadeamos para a aquisição do amor a que nos destinas; 4 dos benfeitores que nos administram aulas de educação e dos companheiros que se nos fazem examinadores do grau da paciência e tolerância em que estagiamos presentemente…
+5 Agradecemos a bênção dos associados de trabalho e de ideal que nos reconfortam e a escora dos adversários cujo policiamento nos disciplina; 6 o amparo dos irmãos que nos animam a seguir para a frente e o incentivo daqueles outros que nos ajudam a encontrar as melhoras de que carecemos, através da crítica construtiva…
+7 Senhor!… Agradecemos a luz e agradecemos a sombra, sempre que a sombra nos impulsione a fazer mais luz e agradecemos o clima da harmonia que nos tranquiliza a estrada que nos cabe percorrer, tanto quanto a tempestade de incompreensão, toda vez que a incompreensão nos auxilie a descobrir a necessidade da concórdia, reunindo-nos os esforços uns dos outros para o levantamento da felicidade comum.
+8 Diante da luta, induze-nos a reconhecer que unicamente a luta nos oferece os ingredientes precisos para a vitória da paz em nós mesmos e perante o fracasso, qualquer que seja, faze-nos recordar que somente aprendendo e reaprendendo é que fixaremos a lição.
+9 Senhor!… Não nos entregues ao suposto bem que se converta em mal, nem nos permitas menosprezar o suposto mal que nos conduza ao bem. 10 E sejam quais forem as provas a que formos chamados, ajuda-nos a reconhecer que a tua sabedoria misericordiosa reina sobre nós e que, acima das nossas tribulações e obstáculos, dificuldades e lágrimas, estamos todos reunidos em teu coração, incessantemente sustentados em teu amor para sempre.
 
 ---
 
-## 13 — Palavras à Campanha Nacional de Escolas da Comunidade
+## 13
 
-Dirigimo-nos especialmente, à Campanha Nacional de Escolas da Comunidade afirmando que a manutenção das Classes Anexas de 1° Grau, no Lar da Caridade — “essa nobre Instituição que dignifica a assistência social uberabense” — atendeu sem dúvida, ao elevado objetivo da Campanha, visando o trabalho comunitário.
+Dirigimo-nos especialmente, à Campanha Nacional de Escolas da Comunidade afirmando que a manutenção das Classes Anexas de 1º Grau, no Lar da Caridade — “essa nobre Instituição que dignifica a assistência social uberabense” — atendeu sem dúvida, ao elevado objetivo da Campanha, visando o trabalho comunitário.
 A garantia da continuidade da Escola, a segurança e a certeza da escolaridade para os doentes e seus familiares, representam o maior trabalho de promoção humana já realizado em nosso país.
 Lembrando a felicidade do enfermo ao sentir que os seus estudos não seriam interrompidos pela manifestação da moléstia; que o seu próprio quarto seria transformado, sala de aula, caso fosse necessário — o que aconteceu realmente, para atender a uma situação de imobilidade física, a confiança de que a Escola chegava naturalmente até a sua presença, justificavam a existência desse estabelecimento de ensino.
 E a Campanha Nacional de Escolas da Comunidade teve o privilégio de desempenhar o papel fundamental de mantenedora da “Escola dentro do Hospital”, desde o início em 1965, até o ano de 1985, nessa experiência que alicerça a execução de todos os planejamentos futuros de reabilitação sócio-cultural dos enfermos, em longo tratamento de saúde.
@@ -596,126 +344,59 @@ Rogamos a proteção de Deus para essa abençoada Campanha que representou um fa
 
 ---
 
-## 14 — Oração  da Tarefa
+## 13
 
-Senhor Jesus!
-Compadece-te de nós, a fim de que nos esqueçamos para servir aos nossos semelhantes.
-Nas sugestões do egoísmo, não nos permitas mergulhar o coração nos próprios interesses com indiferença por aqueles companheiros que nos deste a zelar.
-Abençoa-nos para que de nosso pouco venhamos a fazer o muito da boa vontade, de modo a realizarmos algo do que te devemos na pessoa do próximo.
-Ampara-nos as mãos a fim de que se abram ao trabalho, ofertando a migalha de nossas possibilidades para a construção do bem onde estivermos.
-Senhor, enquanto o mundo se agita na incompreensão, dá-nos o necessário entendimento de nossos deveres com a precisa força para cumpri-los.
-Não nos permitas o apego às sobras de nossos recursos ou de nosso tempo, auxiliando-nos a investi-las no bem dos outros.
-E dá, Senhor, que a nossa fé se traduza em caridade para que possamos servir-Te na pessoa de nossos irmãos da Humanidade, hoje, agora e sempre.
+1 Pelo prato de pão que dás à porta Aos que se vão no espaço de ninguém, Atirados à dor que os desconforta, Deus te conserve as mãos na lavoura do bem.
+2 Ante os que sofrem a agressão do frio Na trilha da aflição nevoenta e espinhosa, Pelo agasalho com que os fortaleças, Deus te resguarde a vida generosa.
+3 Pensando nos doentes desprezados, Cujas inquietações minoras e alivias, Pelo socorro que lhes ofereças, Deus te faça mais luz na estrada dos teus dias.
+4 Pelo perdão à ofensa recebida, Por teus gestos de amparo e compreensão, Deus te conceda em tudo, alma querida, Felicidade e paz ao coração.
 
 ---
 
-## 14 — O hino da escola
+## 14
 
 Culminando o nosso trabalho educacional nessa escola diferente, pela natureza de sua estrutura, a nossa experiência é cantada em versos pela composição e letra do “Hino da Escola” de autoria da benemérita professora Maria Crema Marzola, que fez parte do nosso corpo docente por muitos anos, em colaboração fraterna e assistencial.
 Encerramos as nossas referências sobre a “Bendita Escola do Hospital”, com os expressivos e emocionantes versos que compõem o harmonioso “HINO DA ESCOLA”.
-Salve Escola, querida e modesta,
-Relicário de luz e saber.
-Em um dia risonho de festa,
-Gloriosa, queremos te ver!
-Batida de sol ardente,
-És do saber o fanal
-Que nos guia para a frente
-Bendita Escola do Hospital!
-Através da lavoura florida
-Que a riqueza da Pátria produz.
-Nossos pais vão lutar pela vida,
-E nós vimos em busca de luz!
-Salve Escola querida e modesta,
-De paredes branquinhas de cal.
-És um dia risonho de festa
-Alegrando a vida do Hospital!
-A nossa alma formando enobrece,
-Boa Escola risonha e gentil.
-Ensinando a cantar como preces
-As cantigas do nosso Brasil!
+Salve Escola, querida e modesta, Relicário de luz e saber. Em um dia risonho de festa, Gloriosa, queremos te ver!
+Batida de sol ardente, És do saber o fanal Que nos guia para a frente Bendita Escola do Hospital!
+Através da lavoura florida Que a riqueza da Pátria produz. Nossos pais vão lutar pela vida, E nós vimos em busca de luz!
+Salve Escola querida e modesta, De paredes branquinhas de cal. És um dia risonho de festa Alegrando a vida do Hospital!
+A nossa alma formando enobrece, Boa Escola risonha e gentil. Ensinando a cantar como preces As cantigas do nosso Brasil!
 
 ---
 
-## 15 — Tela do  mundo
+## 14
 
-
-A Terra esbanja beleza,
-Na cúpula dos países,
-Fulguram povos felizes,
-Riquezas em profusão…
-A Natureza soberba,
-Guarda tesouros na selva,
-Flores enfeitam a relva,
-Veludo que adorna o chão.
-
-Das cidades opulentas,
-Voam naves poderosas,
-Surgem torres luminosas,
-Brasões, legendas, troféus…
-A inteligência se alteia,
-Abrindo escolas e estradas,
-Há mansões dependuras,
-Na luz dos arranha-céus!…
-
-Mas à frente do esplendor
-Em que o ouro se descobre
-Surge o mundo
-e pobre,
-Dos que vivem de esperar…
-Tristes mães rogam auxílio
-Em dolorosas andanças,
-Para mirradas crianças
-Que se agitam sem lugar!…
-
-Irmãos despontam na praça,
-Sob o fascínio do furto,
-Avançam em passo curto
-De empórios retiram pães;
-Moços fortes ao prendê-los
-Prometem pancadaria,
-Há tumulto e gritaria
-Em meio ao choro das mães.
-
-Registro vozes diversas…
-De quem são? Ouço gemidos,
-É a multidão dos vencidos
-Que mal conhece onde vai…
-Junto a um posto de assistência,
-Formando enorme fileira…
-Aguarda-se a noite inteira,
-O raro apoio que sai…
-
-O progresso exalta o mundo…
-E no porão da grandeza,
-Há pranto, angústia, tristeza,
-Embates de chaga e dor!…
-Só Jesus, vencendo as sombras,
-Ergue a luz da Caridade,
-Conduzindo a Humanidade
-Para a vitória do Amor.
+1 Senhor Jesus! Compadece-te de nós, a fim de que nos esqueçamos para servir aos nossos semelhantes.
+2 Nas sugestões do egoísmo, não nos permitas mergulhar o coração nos próprios interesses com indiferença por aqueles companheiros que nos deste a zelar.
+3 Abençoa-nos para que de nosso pouco venhamos a fazer o muito da boa vontade, de modo a realizarmos algo do que te devemos na pessoa do próximo.
+4 Ampara-nos as mãos a fim de que se abram ao trabalho, ofertando a migalha de nossas possibilidades para a construção do bem onde estivermos.
+5 Senhor, enquanto o mundo se agita na incompreensão, dá-nos o necessário entendimento de nossos deveres com a precisa força para cumpri-los.
+6 Não nos permitas o apego às sobras de nossos recursos ou de nosso tempo, auxiliando-nos a investi-las no bem dos outros.
+7 E dá, Senhor, que a nossa fé se traduza em caridade para que possamos servir-Te na pessoa de nossos irmãos da Humanidade, hoje, agora e sempre.
 
 ---
 
-## 15 — Transferência do estabelecimento para a Prefeitura Municipal de Uberaba
+## 15
 
-No ano de 1986, conforme Portaria 1608/86, o estabelecimento de ensino de 1° grau, situado à Rua Patos, 249, Bairro Abadia, município de Uberaba, é transferido da Entidade mantenedora Campanha Nacional de Escolas da Comunidade (CNEC), para a Prefeitura Municipal, e passou a ser denominado Escola Municipal Adolfo Bezerra de Menezes — 1° grau (1ª a 8ª série).
+No ano de 1986, conforme Portaria 1608/86, o estabelecimento de ensino de 1º grau, situado à Rua Patos, 249, Bairro Abadia, município de Uberaba, é transferido da Entidade mantenedora Campanha Nacional de Escolas da Comunidade (CNEC), para a Prefeitura Municipal, e passou a ser denominado Escola Municipal Adolfo Bezerra de Menezes — 1º grau (1ª a 8ª série).
 A criação da Escola Municipal “Adolfo Bezerra de Menezes”, com sede no Lar da Caridade, prosseguindo o mesmo roteiro de atendimento, primordialmente, para os doentes de Pênfigo e seus familiares, com as outras vagas destinadas à comunidade, representa sem dúvida alguma, a confirmação dos ideais de fraternidade que presidiram a instalação da “Escola dentro do Hospital” no ano de 1965.
-E, essa realização de tão elevado alcance social, ampliando as possibilidades para a educação em Uberaba proporcionando garantia de funcionamento da Escola, se deve especialmente, ao trabalho humanitário do Exm° Sr. Prefeito Municipal, Dr. Wagner do Nascimento e do Exm° Sr. Secretário de Educação e Cultura, Dr. José Thomaz da Silva Sobrinho.
+E, essa realização de tão elevado alcance social, ampliando as possibilidades para a educação em Uberaba proporcionando garantia de funcionamento da Escola, se deve especialmente, ao trabalho humanitário do Exmº Sr. Prefeito Municipal, Dr. Wagner do Nascimento e do Exmº Sr. Secretário de Educação e Cultura, Dr. José Thomaz da Silva Sobrinho.
 
 ---
 
-## 16 — Oração  do Caminho
+## 15
 
-Senhor Jesus,
-Ampara-nos na jornada que empreendemos.
-Não nos permitas interromper a caminhada ante as serpes do caminho.
-Que acima da estrada em sombra possamos vencer as pedras e eliminar os espinhos.
-Em nome do teu amor, não nos concedas, Senhor, o luxo do repouso desnecessário, e sim, deixa-nos subir com a nossa cruz ao Calvário, pelo trabalho incessante, nas lutas de cada instante.
-Queremos seguir contigo em teu longo itinerário, para alcançarmos um dia, sob a perfeita alegria, o teu reinado de amor.
+1 A Terra esbanja beleza, Na cúpula dos países, Fulguram povos felizes, Riquezas em profusão… A Natureza soberba, Guarda tesouros na selva, Flores enfeitam a relva, Veludo que adorna o chão.
+2 Das cidades opulentas, Voam naves poderosas, Surgem torres luminosas, Brasões, legendas, troféus… A inteligência se alteia, Abrindo escolas e estradas, Há mansões dependuradas, Na luz dos arranha-céus!…
+3 Mas à frente do esplendor Em que o ouro se descobre Surge o mundo amargo e pobre, Dos que vivem de esperar… Tristes mães rogam auxílio Em dolorosas andanças, Para mirradas crianças Que se agitam sem lugar!…
+4 Irmãos despontam na praça, Sob o fascínio do furto, Avançam em passo curto De empórios retiram pães; Moços fortes ao prendê-los Prometem pancadaria, Há tumulto e gritaria Em meio ao choro das mães.
+5 Registro vozes diversas… De quem são? Ouço gemidos, É a multidão dos vencidos Que mal conhece onde vai… Junto a um posto de assistência, Formando enorme fileira… Aguarda-se a noite inteira, O raro apoio que sai…
+6 O progresso exalta o mundo… E no porão da grandeza, Há pranto, angústia, tristeza, Embates de chaga e dor!… Só Jesus, vencendo as sombras, Ergue a luz da Caridade, Conduzindo a Humanidade Para a vitória do Amor.
 
 ---
 
-## 16 — Particularização dos fatos
+## 16
 
 Vejamos, em continuação, os outros fatos que revelam a história de todo o complexo da Instituição.
 Isso porque, a vida extraordinária de Aparecida Conceição Ferreira é a própria vida do Lar da Caridade, pela fusão do seu “ser” com a obra resultante da sua dedicação exclusiva a essa grande família que se reuniu pela bênção de Jesus, naturalmente em cumprimento à Lei Divina do aperfeiçoamento do espírito.
@@ -723,59 +404,17 @@ Preferimos assim, para melhor entendimento, apresentar os fatos por assuntos, pa
 
 ---
 
-## 17 — Companheiro
+## 16
 
-Queixas-te, às vezes, da vida
-No sonho em que te demoras
-No itinerário das horas,
-Chorando de inquietação.
-Por mais luzes arrecades
-O mundo lembra-te exílio,
-Dores, tristezas, saudades
-Quando surgem no caminho,
-Cortando-te o coração.
-Recusas sofrer na estrada
-Feita de dor e alegria,
-Sangrando o teu dia a dia.
-E estás na Terra afinal…
-Fugindo ao dever, porém,
-Vives mais no Grande Além,
-Buscando o Amor Imortal.
-Mas não nasceste na Terra
-Para a inércia que te abraça,
-Vieste à luta que passa
-Para venceres a dor.
-Fita o cimo das montanhas
-Vasculha os vales floridos
-E escutarás os zumbidos
-Da abelha beijando a flor.
-Ergue-te! A Terra te chama
-À grandeza do trabalho
-É a bigorna sob o malho,
-O arado ferindo o chão.
-E os homens desorientados
-Surgem por todos os lados
-Pedindo renovação.
-Não esperes! Segue à frente.
-As criaturas da Terra,
-Cansadas de prova e guerra,
-Virão buscar-te o calor
-Do verbo que as esclareça,
-De quem serve e quem ensina
-A estrada da luz divina
-Que as conduza ao Pai de Amor.
-Sai de ti mesmo e semeia
-A paz, o bem, a esperança.
-Embora ferido avança
-Em tua meta de luz.
-Não temas! Segue adiante.
-Alguém estará lá contigo:
-Esse excelso e Doce Amigo,
-É Jesus, sempre Jesus!…
+1 Senhor Jesus, Ampara-nos na jornada que empreendemos.
+2 Não nos permitas interromper a caminhada ante as serpes do caminho.
+3 Que acima da estrada em sombra possamos vencer as pedras e eliminar os espinhos.
+4 Em nome do teu amor, não nos concedas, Senhor, o luxo do repouso desnecessário, e sim, deixa-nos subir com a nossa cruz ao Calvário, pelo trabalho incessante, nas lutas de cada instante.
+5 Queremos seguir contigo em teu longo itinerário, para alcançarmos um dia, sob a perfeita alegria, o teu reinado de amor.
 
 ---
 
-## 17 — Impossibilitada de promover campanhas
+## 17
 
 A Instituição tinha por finalidade especificamente, o tratamento dos doentes de Pênfigo Foliáceo. Como esse tratamento exige longa permanência no Hospital, consequentemente estava implícita uma ampliação assistencial além dos medicamentos, incluindo também alimentação, vestuário e material escolar.
 Para isso, Aparecida trabalhava constantemente, como trabalha até hoje, para a manutenção dos assistidos.
@@ -784,22 +423,17 @@ Passaram-se dias de angústias e apreensões dúvidas e tristezas, que não fora
 
 ---
 
-## 18 — Rogando  tolerância
+## 17
 
-Senhor Jesus!…
-Lembrando-te as palavras em que nos recomendas amar aos inimigos,
-nós te pedimos a força precisa para exercitar a tolerância.
-Aceita, Senhor, com os teus acréscimos de misericórdia, as imperfeições de que ainda não nos desvencilhamos, no entanto, sabemos que o teu Infinito Amor nos acolhe a pequenina migalha de boa vontade com que aproximamos de teus ensinos.
-Estamos muito longe do posicionamento dos anjos, mas já floresce em nossas almas o desejo de comparecermos diante de ti, na condição de pessoas dignas e corretas.
-Não possuímos o amor inexcedível para doar aos nossos semelhantes, entretanto, reconhecemos o imperativo da solidariedade e do trabalho que nos caracterizam o relacionamento.
-Ainda não retemos a luz da fé sem qualquer vacilação, contudo, com o teu auxílio, já repontam algumas sementes da confiança em tua infinita bondade, com que vamos seguindo adiante nas trilhas da evolução.
-Mestre, acrescenta-nos a diminuta nascente da tolerância, a fim de que tenhamos no coração a fonte do amor por nossos adversários; ensina-nos que são eles nossos irmãos tão necessitados de proteção e socorro quanto nós mesmos; dá-nos a conhecer os meios e alcançar-lhes o íntimo, de modo a que nos acolham na posição de companheiros na jornada em que marchamos; e faze-nos entender que somente irmanando-nos uns aos outros, através do amor que nos legaste é que atingiremos o caminho da ascensão espiritual, no rumo da Felicidade e da Paz que aspiramos a possuir.
-Amado Jesus, que possamos tolerar as nossas próprias dificuldades e conviver com os defeitos que ainda trazemos, mas trabalhando sempre, servindo com sinceridade e abnegação, é o que te rogamos nesta noite de esperanças e bênçãos.
-Assim seja,
+1 Queixas-te, às vezes, da vida No sonho em que te demoras No itinerário das horas, Chorando de inquietação. Por mais luzes arrecades O mundo lembra-te exílio, Dores, tristezas, saudades Quando surgem no caminho, Cortando-te o coração.
+2 Recusas sofrer na estrada Feita de dor e alegria, Sangrando o teu dia a dia. E estás na Terra afinal… Fugindo ao dever, porém, Vives mais no Grande Além, Buscando o Amor Imortal. Mas não nasceste na Terra Para a inércia que te abraça, Vieste à luta que passa Para venceres a dor.
+3 Fita o cimo das montanhas Vasculha os vales floridos E escutarás os zumbidos Da abelha beijando a flor. Ergue-te! A Terra te chama À grandeza do trabalho É a bigorna sob o malho, O arado ferindo o chão. E os homens desorientados Surgem por todos os lados Pedindo renovação.
+4 Não esperes! Segue à frente. As criaturas da Terra, Cansadas de prova e guerra, Virão buscar-te o calor Do verbo que as esclareça, De quem serve e quem ensina A estrada da luz divina Que as conduza ao Pai de Amor.
+5 Sai de ti mesmo e semeia A paz, o bem, a esperança. Embora ferido avança Em tua meta de luz. Não temas! Segue adiante. Alguém estará lá contigo: Esse excelso e Doce Amigo, É Jesus, sempre Jesus!…
 
 ---
 
-## 18 — Abrindo novos caminhos
+## 18
 
 Mas, como nunca ficamos desamparados da proteção de Deus, no ano seguinte, uma reunião da Assembleia Geral veio restabelecer a normalidade da vida hospitalar. Foi eleita e empossada a nova diretoria da Associação Hospital do Pênfigo Foliáceo de Uberaba, que iniciou logo as suas atividades.
 A primeira resolução da diretoria foi de constituir uma procuração de amplos poderes à Aparecida Conceição Ferreira, levando em consideração a sua vivência permanente junto aos doentes, e enfim, a sua responsabilidade de fato pelo funcionamento do Hospital.
@@ -807,44 +441,19 @@ Trabalhava toda a diretoria harmoniosamente, com o firme propósito de melhor as
 
 ---
 
-## 19 — Reencarnação
+## 18
 
-Antes do berço terrestre,
-Junto a mentores queridos,
-Fazemos vários pedidos,
-Quanto a lutar e sofrer.
-Queremos saldar no mundo
-Nossas contas em atraso.
-Ninguém chora por acaso
-Se encontra fel no dever.
-Renascemos carregando
-O peso do compromisso,
-Doenças, mágoas, serviço,
-Menosprezo e solidão…
-Eis alguns dos instrumentos,
-Que nos procuram em fila,
-Com que a Terra nos burila
-As forças do coração.
-Pessoas que nos atraem,
-Buscando-nos a ternura,
-Nelas vemos a ventura
-Com que andamos a sonhar!…
-Depois, é que se descobre
-Que não são joias, nem flores,
-Mas simplesmente credores
-E ajustes por acertar.
-Se te vês em grandes provas,
-Se alguém te fere ou maltrata,
-Em acessos de alma ingrata,
-Perdoa, fazendo o bem.
-Estás na escola da Terra,
-Aprende a servir e amar,
-Permanece em teu lugar,
-Não abandones ninguém.
+1 Senhor Jesus!… Lembrando-te as palavras em que nos recomendas amar aos inimigos, ( † ) nós te pedimos a força precisa para exercitar a tolerância.
+2 Aceita, Senhor, com os teus acréscimos de misericórdia, as imperfeições de que ainda não nos desvencilhamos, no entanto, sabemos que o teu Infinito Amor nos acolhe a pequenina migalha de boa vontade com que aproximamos de teus ensinos.
+3 Estamos muito longe do posicionamento dos anjos, mas já floresce em nossas almas o desejo de comparecermos diante de ti, na condição de pessoas dignas e corretas.
+4 Não possuímos o amor inexcedível para doar aos nossos semelhantes, entretanto, reconhecemos o imperativo da solidariedade e do trabalho que nos caracterizam o relacionamento.
+5 Ainda não retemos a luz da fé sem qualquer vacilação, contudo, com o teu auxílio, já repontam algumas sementes da confiança em tua infinita bondade, com que vamos seguindo adiante nas trilhas da evolução.
+6 Mestre, acrescenta-nos a diminuta nascente da tolerância, a fim de que tenhamos no coração a fonte do amor por nossos adversários; ensina-nos que são eles nossos irmãos tão necessitados de proteção e socorro quanto nós mesmos; dá-nos a conhecer os meios e alcançar-lhes o íntimo, de modo a que nos acolham na posição de companheiros na jornada em que marchamos; e faze-nos entender que somente irmanando-nos uns aos outros, através do amor que nos legaste é que atingiremos o caminho da ascensão espiritual, no rumo da Felicidade e da Paz que aspiramos a possuir.
+7 Amado Jesus, que possamos tolerar as nossas próprias dificuldades e conviver com os defeitos que ainda trazemos, mas trabalhando sempre, servindo com sinceridade e abnegação, é o que te rogamos nesta noite de esperanças e bênçãos. Assim seja,
 
 ---
 
-## 19 — A visita do repórter Saulo Gomes
+## 19
 
 O prédio e suas instalações muito precárias, não satisfaziam de forma alguma, as necessidades de atendimento aos enfermos.
 A construção da nova sede, por falta de recursos, fora interrompida, causando grandes preocupações à Aparecida, devido ao número sempre crescente de doentes que lhe batiam às portas.
@@ -859,30 +468,16 @@ Que Deus abençoe a todos por esse gesto de caridade cristã!
 
 ---
 
-## 20 — Irmã  Coragem
+## 19
 
-
-Deus te abençoe a fé por onde fores,
-Adornando-a de luzes renascentes,
-Nos sonhos e esperanças que acalentes,
-A suprimir pesares e amargores.
-
-Deus te engrandeça em tudo quanto intentes
-Embora suportando as próprias dores,
-No intuito de amparar os sofredores,
-Os cansados, os tristes e os doentes.
-
-Irmã Coragem, alma de alegria,
-Sempre servindo e amando, dia a dia,
-Enaltecendo as provas benfazejas!…
-
-Sê grata à vida e à luta, chora e canta,
-Jesus te inspira a estrada clara e santa
-Mensageira do amor, bendita sejas!…
+1 Antes do berço terrestre, Junto a mentores queridos, Fazemos vários pedidos, Quanto a lutar e sofrer. Queremos saldar no mundo Nossas contas em atraso. Ninguém chora por acaso Se encontra fel no dever.
+2 Renascemos carregando O peso do compromisso, Doenças, mágoas, serviço, Menosprezo e solidão… Eis alguns dos instrumentos, Que nos procuram em fila, Com que a Terra nos burila As forças do coração.
+3 Pessoas que nos atraem, Buscando-nos a ternura, Nelas vemos a ventura Com que andamos a sonhar!… Depois, é que se descobre Que não são joias, nem flores, Mas simplesmente credores E ajustes por acertar.
+4 Se te vês em grandes provas, Se alguém te fere ou maltrata, Em acessos de alma ingrata, Perdoa, fazendo o bem. Estás na escola da Terra, Aprende a servir e amar, Permanece em teu lugar, Não abandones ninguém.
 
 ---
 
-## 20 — A Construção da creche
+## 20
 
 Como dissemos, a Entidade assiste também os familiares dos enfermos. E, para complementar esse trabalho, foi necessário a construção de uma creche com internamento, para os filhos dos assistidos.
 As crianças recebendo a devida assistência, criava-se um ambiente de confiança e paz no espírito dos pais enfermos, vendo os seus filhos amparados.
@@ -890,75 +485,40 @@ Isso vale dizer, que sempre houve na Instituição um empreendimento a realizar 
 
 ---
 
-## 21 — Lembranças  de amigos
+## 20
 
-
-Amor em prol dos doentes
-Que vivem de rumo incerto
-Parece bênção de orvalho
-Sobre os cactos do deserto.
-
-Mão que auxilia aos leprosos?
-Conservo a impressão ao vê-la,
-Que estou fitando uma luz
-Que toma a forma de estrela.
-
-Era rei mau e opulento,
-Mas deu-lhe a lepra em ação,
-Um império de sofrimento
-E um trono de solidão.
-
-Em lágrimas e temores
-Das provas em que me pus
-Em meio de minhas trevas,
-A lepra foi minha luz.
-Muito segredo há na vida,
-Mas o maior realmente
-É ver a lepra escondida
-No orgulho de tanta gente.
-
-Mãos dos irmãos cireneus
-Que amparam irmãos na dor,
-São duas harpas de Deus
-Em melodias de amor.
+1 Deus te abençoe a fé por onde fores, Adornando-a de luzes renascentes, Nos sonhos e esperanças que acalentes, A suprimir pesares e amargores.
+2 Deus te engrandeça em tudo quanto intentes Embora suportando as próprias dores, No intuito de amparar os sofredores, Os cansados, os tristes e os doentes.
+3 Irmã Coragem, alma de alegria, Sempre servindo e amando, dia a dia, Enaltecendo as provas benfazejas!…
+4 Sê grata à vida e à luta, chora e canta, Jesus te inspira a estrada clara e santa Mensageira do amor, bendita sejas!…
 
 ---
 
-## 21 — Mudança de nome da entidade
+## 21
 
 Havia muitos adultos e crianças que tiveram a sua cura atestada pela clínica médica, mas continuavam residindo no Hospital do Pênfigo. O preconceito social era um impedimento para que aquelas pessoas, mesmo livres da enfermidade, pudessem normalizar a sua vida em sociedade.
 Muitos doentes também, durante o seu tratamento, perdiam o contato com a sua família, por motivos que não podemos e nem devemos julgar, e quando já estavam recuperados, continuavam obrigatoriamente, dependentes da Instituição.
 A comunidade do Hospital do Pênfigo era constituída dos doentes em tratamento e seus filhos menores, dos recuperados e ainda de muitas outras crianças carentes, assistidas por solicitação do MM. Juiz de Menores de Uberaba.
 Assim sendo, notava-se a urgência de uma reformulação estatutária, inclusive a mudança de nome da entidade. Isso porque, pelos seus Estatutos, somente poderiam permanecer na Instituição os doentes de pênfigo foliáceo para o tratamento específico da moléstia, sem abertura para abrigar os necessitados em geral. Daí a resolução da Assembleia Geral, em reunião do dia 29/05/1971 aprovando os novos Estatutos com a mudança de nome da entidade para “Lar da Caridade”.
-Os Estatutos foram registrados no Cartório do 1° Ofício sob o n° 341, em 24 de agosto de 1971, Livro “A” n° 2 — Registro de Pessoas Jurídicas.
-É considerado de Utilidade Pública: Municipal Leis números 1328/65 e 3152/81; Estadual — Lei n° 5998/72; Federal — Decreto n° 71.038/72; Entidade Filantrópica Processo n° 230.073/74, Certificado expedido pelo Conselho Nacional de Serviço Social em 02/08/1974; Secretaria de Estado do Trabalho, Ação Social e Desportos — Registro n° 290.
-Do Capítulo I dos seus Estatutos — Art. 1°, consta a mudança de nome da Associação Hospital do Pênfigo Foliáceo para “Lar da Caridade”, e no Art. 2° — De suas finalidades — item “a”: “prestar dentro de suas possibilidades
-, de ambos os sexos, independentes de cor, credo ou nacionalidade.” (O grifo é nosso.)
+Os Estatutos foram registrados no Cartório do 1º Ofício sob o nº 341, em 24 de agosto de 1971, Livro “A” nº 2 — Registro de Pessoas Jurídicas.
+É considerado de Utilidade Pública: Municipal Leis números 1328/65 e 3152/81; Estadual — Lei nº 5998/72; Federal — Decreto nº 71.038/72; Entidade Filantrópica Processo nº 230.073/74, Certificado expedido pelo Conselho Nacional de Serviço Social em 02/08/1974; Secretaria de Estado do Trabalho, Ação Social e Desportos — Registro nº 290.
+Do Capítulo I dos seus Estatutos — Art. 1º, consta a mudança de nome da Associação Hospital do Pênfigo Foliáceo para “Lar da Caridade”, e no Art. 2º — De suas finalidades — item “a”: “prestar dentro de suas possibilidades assistência a desamparados em geral, de ambos os sexos, independentes de cor, credo ou nacionalidade.” (O grifo é nosso.)
 Dessa forma, estava legalmente amparada a situação de todos os irmãos necessitados que residiam na Instituição e ainda para aqueles desamparados em geral que viessem a ser assistidos futuramente.
 
 ---
 
-## 22 — Lembranças  da Lepra
+## 21
 
-
-Em meu longo itinerário,
-Concluí nos dias meus
-Que a vida no leprosário
-É santa escola de Deus.
-
-Dos grandes males e culpas
-Do meu passado infeliz,
-De meus vários tratamentos
-Na lepra é que me refiz.
-
-Depois de muitas caídas
-A lepra, em duras esperas,
-É a luz que sana as feridas
-Que trazemos de outras eras.
+1 Amor em prol dos doentes Que vivem de rumo incerto Parece bênção de orvalho Sobre os cactos do deserto.
+2 Mão que auxilia aos leprosos? Conservo a impressão ao vê-la, Que estou fitando uma luz Que toma a forma de estrela.
+3 Era rei mau e opulento, Mas deu-lhe a lepra em ação, Um império de sofrimento E um trono de solidão.
+4 Em lágrimas e temores Das provas em que me pus Em meio de minhas trevas, A lepra foi minha luz.
+5 Muito segredo há na vida, Mas o maior realmente É ver a lepra escondida No orgulho de tanta gente.
+6 Mãos dos irmãos cireneus Que amparam irmãos na dor, São duas harpas de Deus Em melodias de amor.
 
 ---
 
-## 22 — O Trabalho, a grande preocupação
+## 22
 
 Aparecida Conceição Ferreira sempre trabalhou desde criança. Considera o Trabalho fazendo parte da Educação, em primeiro plano. Por isso, a sua preocupação maior para os seus tutelados se dirige especialmente, nessas linhas de ação: Trabalho e Educação.
 O trabalho na sua obra assistencial tem dupla utilização: como recurso de terapia para os doentes e sua respectiva formação profissional.
@@ -969,26 +529,19 @@ Pensando na salutar vantagem do trabalho para os assistidos, nos ocorre lembrar 
 Sabendo que o trabalho constitui a lei natural da vida e cujos hábitos devem ser formados desde cedo, Aparecida foi devagar, adquirindo e instalando oficinas para aprendizagem visando um ensino profissionalizante para os menores que fazem parte dessa grande família. Existem no Lar da Caridade as seguintes oficinas de aprendizagem: bordados, confecção de roupas, corte e costura, datilografia, marcenaria, panificação, reciclagem e industrialização do plástico, sapataria, serralheria, torno.
 A Instituição possui uma propriedade “Fazenda Badajós”, terras de cultura e cerrado, onde os assistidos se dedicam às atividades agropecuárias, para aprendizagem e formação profissional.
 As oportunidades de trabalho são diversas: horticultura, formação de pastagens, plantio de arroz, milho, mandioca, frutas, plantas de arborização e reflorestamento, criação de bovinos, peixes e suínos.
-Na “Fazenda Badajós” funciona também, uma Escola de 1° Grau, 1ª a 4ª série, mantida pela Prefeitura Municipal de Uberaba, destinada às crianças da própria fazenda, matriculando-se ainda os filhos dos proprietários vizinhos.
+Na “Fazenda Badajós” funciona também, uma Escola de 1º Grau, 1ª a 4ª série, mantida pela Prefeitura Municipal de Uberaba, destinada às crianças da própria fazenda, matriculando-se ainda os filhos dos proprietários vizinhos.
 
 ---
 
-## 23 — Canções da Lepra
+## 22
 
-
-A lepra pode ser cofre
-De uma fortuna perfeita,
-Não nasce do que se sofre
-E sim do que se aproveita.
-
-Irmã linda, irmã do amor
-Jamais te chamei em vão,
-Recebi teu cobertor,
-Em forma de coração.
+1 Em meu longo itinerário, Concluí nos dias meus Que a vida no leprosário É santa escola de Deus.
+2 Dos grandes males e culpas Do meu passado infeliz, De meus vários tratamentos Na lepra é que me refiz.
+3 Depois de muitas caídas A lepra, em duras esperas, É a luz que sana as feridas Que trazemos de outras eras.
 
 ---
 
-## 23 — A industrialização do plástico
+## 23
 
 Desde 1979, foi iniciada no Lar da Caridade por Aparecida, a industrialização do plástico — o aproveitamento do plástico usado e sem serventia, para reciclagem transformando-o pela recuperação, em matéria prima.
 Todo o plástico usado (saquinhos de leite, sacos de adubo, copos descartáveis, frascos, garrafas de água etc.) é reaproveitado passando pelas seguintes etapas, desde o seu recolhimento até a fase final da picotagem em granulados:
@@ -1005,22 +558,14 @@ Atualmente, o Lar da Caridade já possui a sua própria indústria com fabricaç
 
 ---
 
-## 24 — Gratidão
+## 23
 
-
-Por tudo quanto nos destes,
-Pelo pão, pelo agasalho,
-Pelo amor, pelo trabalho
-De benditos cireneus,
-
-Pedimos na gratidão
-De nossa fé comovida,
-Que o Céu vos resguarde a vida,
-Na Bênção da Luz de Deus.
+1 A lepra pode ser cofre De uma fortuna perfeita, Não nasce do que se sofre E sim do que se aproveita.
+2 Irmã linda, irmã do amor Jamais te chamei em vão, Recebi teu cobertor, Em forma de coração.
 
 ---
 
-## 24 — Manutenção da Casa Assistencial
+## 24
 
 Aparecida Conceição Ferreira foi sempre a responsável pela manutenção do Lar da Caridade desde o seu início, quando ainda era denominado Hospital do Pênfigo Foliáceo.
 Sempre conseguiu recursos através de doações, especialmente dos nossos irmãos de São Paulo, e complementados ultimamente, com a industrialização do plástico, confecção de roupas e de outras oficinas que funcionam na própria Instituição, já referidas anteriormente.
@@ -1029,52 +574,14 @@ Mas, o que sabemos de fato, é que a sua responsabilidade para com a Instituiç�
 
 ---
 
-## 25 — Escola  santa
+## 24
 
-
-É meu desejo afirmar-vos
-Devedor que tenho sido
-Que a lepra não vem a nós
-Sem ter um justo sentido.
-
-Segundo as lições da Terra
-Que a verdade nos aponta,
-A nossa vida até hoje,
-É de existências sem conta.
-
-Muitas vezes renascendo,
-Quis ser alto, chefe ou rei,
-Exterminei multidões,
-Rasgando normas de lei.
-
-Por séculos fui assim,
-Orgulho vão que se expande,
-Domínio da crueldade
-Na mania de ser grande.
-
-Até que um dia cansado
-De ser déspota violento,
-Pedi a Deus me prendesse,
-Na cela do sofrimento…
-
-Dos céus chegou-me a resposta:
-Teria eu doce cruz…
-Renascendo, minha mãe
-Quis chamar-me por Jesus.
-
-Para esquecer o passado
-E elevar o coração,
-Tive um reino de feridas
-E um trono, de solidão.
-
-Sofri e chorei, entretanto,
-Ante o Mestre Nazareno
-Tenho agora a Santa Lepra
-Que me ensina a ser pequeno.
+1 Por tudo quanto nos destes, Pelo pão, pelo agasalho, Pelo amor, pelo trabalho De benditos cireneus,
+2 Pedimos na gratidão De nossa fé comovida, Que o Céu vos resguarde a vida, Na Bênção da Luz de Deus.
 
 ---
 
-## 25 — Promoção humana
+## 25
 
 As experiências realizadas no Lar da Caridade através do “Trabalho” e da “Escola dentro da Instituição”, promoveram a integração dessa grande família em todos os setores da atividade humana.
 A expressão desse nosso pensamento é confirmada pelos profissionais que integram a nossa sociedade, no campo do magistério, medicina, advocacia, enfermagem, contabilidade, agricultura e outras profissões, e que estiveram sob a responsabilidade da Instituição, na infância e na juventude.
@@ -1085,57 +592,20 @@ O Lar da Caridade, pelo seu caráter formativo, sempre se empenhou na ASSISTÊNC
 
 ---
 
-## 26 — Informações  do Além
+## 25
 
-
-Os habitantes do Além
-Sabem de fonte segura
-Que certos males da vida
-Somente a lepra é que cura.
-
-Nesta ideia clara e simples
-Desde muito me concentro:
-A lepra mostra por fora
-Aquilo que está por dentro.
-
-Depois da morte é que vejo
-Tomada de enorme espanto
-Que para os males do mundo
-A lepra é um remédio santo.
-
-Certos tiranos dos povos
-Que criam o horror da guerra,
-Rogam a lepra no corpo
-Em várias vidas na Terra.
-
-Para o Espírito culpado
-Que se mostra arrependido
-A lepra é uma doação
-Que o céu concede a pedido.
-
-Para curar se do orgulho
-A irmã Selenita Rosa,
-Pediu remédio a Jesus,
-Depois renasceu leprosa.
-
-O delinquente agressivo
-A fim de ser justo e são
-Pede apoio à lepra amiga
-Na lei da reencarnação.
-
-Por mim não me esquecerei
-Do déspota Augusto Mário
-Que em seguida a muitos erros,
-Ressurgiu num leprosário.
-
-Para o acerto em nossas faltas
-Eis que a lepra nos ensina…
-Bendito seja o trabalho
-De nossa mestra divina.
+1 É meu desejo afirmar-vos, Devedor que tenho sido, Que a lepra não vem a nós Sem ter um justo sentido.
+2 Segundo as lições da Terra Que a verdade nos aponta, A nossa vida até hoje, É de existências sem conta.
+3 Muitas vezes renascendo, Quis ser alto, chefe ou rei, Exterminei multidões, Rasgando normas de lei.
+4 Por séculos fui assim, Orgulho vão que se expande, Domínio da crueldade Na mania de ser grande.
+5 Até que um dia cansado De ser déspota violento, Pedi a Deus me prendesse, Na cela do sofrimento…
+6 Dos céus chegou-me a resposta: Teria eu doce cruz… Renascendo, minha mãe Quis chamar-me por Jesus.
+7 Para esquecer o passado E elevar o coração, Tive um reino de feridas E um trono, de solidão.
+8 Sofri e chorei, entretanto, Ante o Mestre Nazareno Tenho agora a Santa Lepra Que me ensina a ser pequeno.
 
 ---
 
-## 26 — Conhecimento de Aparecida com Chico Xavier
+## 26
 
 Aparecida não conhecia Francisco Cândido Xavier, antes da sua mudança de Pedro Leopoldo para Uberaba.
 Os fatos que relacionamos aconteceram naturalmente, e fazem parte da História do Lar da Caridade, sempre com a presença de Chico Xavier, apoiando a Casa Assistencial com as manifestações sinceras de sua amizade fraterna.
@@ -1146,9 +616,7 @@ E, como a doente estava muito inquieta e impaciente, Aparecida foi-se embora ime
 No dia seguinte, Aparecida recebeu de Chico Xavier, dois conjuntos de roupas para cada doente: lençóis, fronhas, pijamas, toalhas de rosto e de banho. É preciso dizer, que só havia um conjunto de roupas para cada doente; depois do banho, era preciso deixá-los nus em suas camas, até lavar e passar as roupas para serem usadas novamente.
 Chico Xavier ainda mandou três vestidos e um par de sapatos para seu uso pessoal. Aparecida estava com falta de roupas e andando descalço, porque não tinha sapatos.
 O presente recebido muito lhe preocupou, porque não tendo revelado a ninguém a sua situação, e ainda a sua permanência tão rápida na reunião do dia anterior, como Chico Xavier poderia saber que ela não tinha roupas para vestir e nem calçados, se nada falou com ele, e não o viu naquela sessão espírita?
-Poucos dias depois, Aparecida estava em discussão com a firma “Produto Ceres” de Uberaba, por motivo de um débito de Cr$ 12,00 (doze cruzeiros)
-n
-, referente a uma compra de óleo de cozinha, que estava devendo. Não tinha mesmo de onde tirar aquela importância, e a casa estava totalmente desprevenida de víveres para a subsistência dos enfermos.
+Poucos dias depois, Aparecida estava em discussão com a firma “Produto Ceres” de Uberaba, por motivo de um débito de Cr$ 12,00 (doze cruzeiros), n referente a uma compra de óleo de cozinha, que estava devendo. Não tinha mesmo de onde tirar aquela importância, e a casa estava totalmente desprevenida de víveres para a subsistência dos enfermos.
 Naquela manhã de tanta amargura para o seu espírito, pela grande preocupação com a dívida e a sobrevivência dos doentes, eis que aparece Chico Xavier sozinho naquele momento, trazendo-lhe um envelope contendo Cr$ 300,00 (trezentos cruzeiros), o que lhe permitiu saldar a dívida, e ainda fazer um bom sortimento para a sua despensa.
 Aparecida se impressionava cada vez mais, pois, sempre que estava em dificuldade, Chico Xavier aparecia trazendo o recurso necessário.
 É preciso salientar que naquela época, Aparecida não acreditava no Espiritismo.
@@ -1157,7 +625,7 @@ O presidente da Instituição naquela época, conhecendo as suas intenções, of
 Considerando a vontade de construir o prédio próprio, Aparecida não hesitou, e os doentes saíram às ruas da cidade, e até mesmo na porta do cemitério local, no dia de Finados, e angariaram os trezentos mil cruzeiros, entregando-os ao referido Presidente para o devido pagamento.
 Tranquila, Aparecida tomou posse do terreno, tirando algumas árvores e abrindo uma cisterna, providências primeiras para o início da futura construção.
 Passaram-se alguns meses sem outras ocorrências, mas, Aparecida sempre pensando e idealizando o prédio próprio para o Hospital do Pênfigo.
-Na esperança de conseguir verbas para a manutenção do Hospital, Aparecida faz um convite ao Exm° Sr. Governador de Minas Gerais, Magalhães Pinto, para visitar a obra assistencial.
+Na esperança de conseguir verbas para a manutenção do Hospital, Aparecida faz um convite ao Exmº Sr. Governador de Minas Gerais, Magalhães Pinto, para visitar a obra assistencial.
 Sendo a visita marcada para o dia seguinte, Aparecida participa ao Senhor Presidente para as providências da recepção. Nervoso, ele lhe responde que não estaria presente, pois, eram seus inimigos pessoais e políticos.
 Muitas pessoas lhe aconselharam a ter cuidado, porque ele e seus companheiros afins, “eram perigosos”.
 Cumprindo a sua palavra, não compareceu à recepção.
@@ -1191,85 +659,50 @@ Os seus conselhos nunca haveremos de esquecer, pela ponderação de suas palavra
 
 ---
 
-## 27 — Confissão  de amigo
+## 26
 
-
-Era um homem violento,
-Ligado às trevas do mal,
-Espalhando o sofrimento
-Em seu caminho triunfal.
-
-Dispunha de muitas vidas,
-Trazendo chicote à mão,
-Era o retrato do crime,
-No quadro da ingratidão.
-
-Trazia os olhos em fúria,
-Mostrando o orgulho na face,
-Decretava a própria morte
-A quem o desagradasse.
-
-Revelando-se entre os homens
-O adversário do bem,
-Depois de desencarnado
-Era um déspota do Além.
-
-Se amigos lhe conseguiam
-Um berço novo no mundo,
-Voltava, de novo, a ser
-O ódio mordente e profundo.
-
-De nada valia a fé
-A induzi-lo para o amor,
-Era o fidalgo cruel,
-Terrível, dominador…
-
-Um dia, porém, chegou
-Em que veio a se cansar
-De suscitar tanto pranto,
-Tanta ferida a sangrar…
-
-Humilhou-se em oração,
-Rogou aos Céus vida nova,
-Desejava renovar-se
-A fogo de angústia e prova.
-
-Jesus escutou-lhe a prece
-Viu-lhe a mágoa desmedida
-E deu-lhe a benção da lepra
-A fim de amparar-lhe a vida.
-
-Ninguém suponha na história
-Outro alguém que conheceu,
-Devo dizer claramente
-Que esse leproso sou eu.
+1 Os habitantes do Além Sabem de fonte segura Que certos males da vida Somente a lepra é que cura.
+2 Nesta ideia clara e simples Desde muito me concentro: A lepra mostra por fora Aquilo que está por dentro.
+3 Depois da morte é que vejo Tomada de enorme espanto Que para os males do mundo A lepra é um remédio santo.
+4 Certos tiranos dos povos Que criam o horror da guerra, Rogam a lepra no corpo Em várias vidas na Terra.
+5 Para o Espírito culpado Que se mostra arrependido, A lepra é uma doação Que o céu concede a pedido.
+6 Para curar se do orgulho A irmã Selenita Rosa, Pediu remédio a Jesus, Depois renasceu leprosa.
+7 O delinquente agressivo A fim de ser justo e são, Pede apoio à lepra amiga Na lei da reencarnação.
+8 Por mim não me esquecerei Do déspota Augusto Mário Que em seguida a muitos erros, Ressurgiu num leprosário.
+9 Para o acerto em nossas faltas Eis que a lepra nos ensina… Bendito seja o trabalho De nossa mestra divina.
 
 ---
 
-## 27 — São Paulo, exemplo vivo de fraternidade cristã
+## 27
 
 As demonstrações fraternas que o Hospital do Pênfigo, atual Lar da Caridade, tem recebido de São Paulo ao longo de sua existência, representam sem dúvida alguma, o mais excelente cumprimento da lei de amor.
 A população em geral, permanece constantemente sensibilizada para todas as campanhas em benefício da grande família reunida no Lar da Caridade.
-Basta dizer que em 1961, Aparecida lutando com grandes dificuldades em São Paulo, pela falta de um local na cidade, para referências e centralização do seu movimento assistencial, foram doados os direitos da sala com o respectivo telefone, situada na Rua Senador Feijó, n° 29, s/ 312, onde está instalado desde aquela época, o escritório da Instituição.
+Basta dizer que em 1961, Aparecida lutando com grandes dificuldades em São Paulo, pela falta de um local na cidade, para referências e centralização do seu movimento assistencial, foram doados os direitos da sala com o respectivo telefone, situada na Rua Senador Feijó, nº 29, s/ 312, onde está instalado desde aquela época, o escritório da Instituição.
 O Lar da Caridade ainda possui uma casa na Vila Penteado, Jardim Elísio, para a permanência da turma encarregada de angariar e recolher em toda a cidade, o plástico usado para a indústria de sua recuperação, e ainda receber outros donativos.
 Afirmamos por conhecimento próprio, que são doados pelos irmãos de São Paulo, os recursos maiores que fundamentalmente, garantem a sustentação da obra beneficente.
 Outros Estados da Federação acompanham esse exemplo vivo de fraternidade cristã, e quando são procurados para qualquer campanha, atendem a solicitação com o elevado sentimento de amor e caridade.
 
 ---
 
-## 28 — Grandeza
+## 27
 
-Grandes homens tenho visto
-Em santos, sábios e ateus,
-Mas somente em Jesus-Cristo
-Vejo a grandeza de Deus.
+1 Era um homem violento, Ligado às trevas do mal, Espalhando o sofrimento Em seu caminho triunfal.
+2 Dispunha de muitas vidas, Trazendo chicote à mão, Era o retrato do crime, No quadro da ingratidão.
+3 Trazia os olhos em fúria, Mostrando o orgulho na face, Decretava a própria morte A quem o desagradasse.
+4 Revelando-se entre os homens O adversário do bem, Depois de desencarnado Era um déspota do Além.
+5 Se amigos lhe conseguiam Um berço novo no mundo, Voltava, de novo, a ser O ódio mordente e profundo.
+6 De nada valia a fé A induzi-lo para o amor, Era o fidalgo cruel, Terrível, dominador…
+7 Um dia, porém, chegou Em que veio a se cansar De suscitar tanto pranto, Tanta ferida a sangrar…
+8 Humilhou-se em oração, Rogou aos Céus vida nova, Desejava renovar-se A fogo de angústia e prova.
+9 Jesus escutou-lhe a prece Viu-lhe a mágoa desmedida E deu-lhe a benção da lepra A fim de amparar-lhe a vida.
+10 Ninguém suponha na história Outro alguém que conheceu, Devo dizer claramente Que esse leproso sou eu.
 
 ---
 
-## 28 — Conversão ao Espiritismo — Novas revelações
+## 28
 
 Em 1964, Aparecida fazia a Campanha do Tijolo em São Paulo. Percorrendo todos os Centros Espíritas da Capital, solicitava o auxílio para a construção do prédio do Hospital do Pênfigo.
-Ela, Lauro e duas meninas, dirigiram-se a um Centro Espírita, situado na Rua Joaquim Nabuco, n° 30, no Bairro do Brás. Logo que entraram, a porta foi fechada para o início dos trabalhos. Não havia pessoas conhecidas na reunião, e também os irmãos presentes não a conheciam.
+Ela, Lauro e duas meninas, dirigiram-se a um Centro Espírita, situado na Rua Joaquim Nabuco, nº 30, no Bairro do Brás. Logo que entraram, a porta foi fechada para o início dos trabalhos. Não havia pessoas conhecidas na reunião, e também os irmãos presentes não a conheciam.
 Ao iniciar os trabalhos, o presidente da sessão chamou a pessoa do Hospital do Fogo Selvagem que estava presente. Transmitia ele, que o Mentor Espiritual da Casa convidava a dirigente do Hospital do Fogo Selvagem, para aplicar um passe na Presidente do Centro que estava enferma. Dona Mafalda não podia andar, porque estava paralítica.
 Como Aparecida nunca havia aplicado passes, estranhou aquele pedido e não se apresentou para o atendimento.
 Porém, no término da reunião, o presidente torna a transmitir a orientação do Mentor Espiritual.
@@ -1287,16 +720,13 @@ Quando terminamos, a doente abriu os olhos e estando melhor, foi conduzida ao le
 
 ---
 
-## 29 — Troféus
+## 28
 
-De tudo o que anoto, a fundo,
-Nos troféus da Humanidade,
-A luz maior que há no mundo,
-Vem do Sol da Caridade.
+Grandes homens tenho visto Em santos, sábios e ateus, Mas somente em Jesus-Cristo Vejo a grandeza de Deus.
 
 ---
 
-## 29 — Os trabalhos espíritas no Lar da Caridade
+## 29
 
 Desde o ano de 1968, são realizados no Lar da Caridade, os trabalhos de passes, estudo e explanação dos textos de “O Evangelho Segundo o Espiritismo”, “O Livro dos Espíritos” e “O Livro dos Médiuns”.
 Havia muitas irmãs assistidas pela Instituição, que eram dotadas de faculdades mediúnicas. Muitas vezes, à noite, quando terminavam as aulas, presenciávamos diversas manifestações mediúnicas nos seus quartos, quando reuníamos em preces para receber o auxílio espiritual.
@@ -1305,48 +735,21 @@ Seguindo a orientação, estudamos “O Livro dos Médiuns” durante dois anos,
 
 ---
 
-## 30 — O Centro Espírita “Deus e Caridade”
+## 29
 
-Durante sete anos os trabalhos espíritas foram realizados no próprio Lar da Caridade. Porém, no ano de 1975, foi construído o Centro Espírita “Deus e Caridade” situado na Rua Patos, n° 250, em frente à Creche e à Escola.
+De tudo o que anoto, a fundo, Nos troféus da Humanidade, A luz maior que há no mundo, Vem do Sol da Caridade.
+
+---
+
+## 30
+
+Durante sete anos os trabalhos espíritas foram realizados no próprio Lar da Caridade. Porém, no ano de 1975, foi construído o Centro Espírita “Deus e Caridade” situado na Rua Patos, nº 250, em frente à Creche e à Escola.
 O Centro Espírita “Deus e Caridade” foi criado no dia 18/04/1975. Com o prédio ainda em construção, o nosso irmão Chico Xavier visitando a Casa Assistencial, na própria sala do Centro Espírita, em reunião de preces, recebeu a mensagem “Prece a Jesus”, ditada pelo Espírito de Auta de Souza, na noite de 01/09/1975.
 A referida mensagem, tão expressiva de esclarecimento e bom ânimo, nos revela a excelência e a força da Caridade na edificante composição dos versos:
-
-
-Abençoa, Senhor, a casa que nos deste,
-No campo de trabalho e anseio que bendigo…
-Neste pouso de paz, temos o doce abrigo
-Que nos revela o Amor por Luz do Lar Celeste.
-A Caridade aqui é a força que nos veste
-De júbilo ao saber que marchamos contigo…
-Dá-nos, Senhor, o dom de ver-te o braço amigo
-Onde o brilho do Bem aqui se manifeste.
-Conserva-nos a porta aberta a quem procura
-Conforto à solidão, socorro à desventura,
-Resposta, auxílio e fé, padecendo ao buscar-te!…
-Que a nossa casa em Ti, no amor que não se cansa,
-Seja um lar consagrado à bondade e à esperança
-Que te louve a Presença e o Nome, em toda parte.
-No dia 06/10/1975 foi inaugurado o Centro Espírita “Deus e Caridade”, com a presença de Chico Xavier e de uma grande assistência de irmãos de Minas Gerais e São Paulo, que vieram participar da alegria dessa grande comunidade.
-Lembramos nesta oportunidade, da feliz expressão do irmão Martins Peralva, da União Espírita Mineira, convidado à explanação evangélica naquela reunião e referindo-se ao nome do Centro Espírita, disse:
-“Deus e Caridade: Feliz lembrança — o nome do Senhor e o caminho que a Ele conduz!”
-Há três reuniões semanais de estudo e explanação do Evangelho e dos outros livros da Codificação Kardequiana. Ainda há trabalhos de passes, Evangelização da infância e reuniões com a Mocidade Espírita.
-Todos os anos, na comemoração do aniversário do Centro Espírita “Deus e Caridade”, o nosso irmão Chico Xavier comparece à reunião recebendo mensagens dos Amigos da Vida Maior onde o tema escolhido está sempre focalizado na Caridade.
-Quase todas as mensagens recebidas no Centro Espírita “Deus e Caridade” e ainda outras psicografadas em reuniões íntimas, pelo médium Francisco Cândido Xavier foram publicadas no livro “ESTRADAS E DESTINOS”, edição 1987, na Editora Cultura Espírita União.
-Na Segunda Parte deste livro estão incluídas as mensagens acima citadas, com a devida aquiescência dos Direitos Autorais da referida Editora e, ainda outras, psicografadas posteriormente, sendo duas mensagens consoladoras endereçadas aos pais e familiares que aqui ficaram, trazendo para todos a comprovação da imortalidade da alma com a certeza da continuidade da vida.
-Abençoa, Senhor, a casa que nos deste,
-No campo de trabalho e anseio que bendigo…
-Neste pouso de paz, temos o doce abrigo
-Que nos revela o Amor por Luz do Lar Celeste.
-A Caridade aqui é a força que nos veste
-De júbilo ao saber que marchamos contigo…
-Dá-nos, Senhor, o dom de ver-te o braço amigo
-Onde o brilho do Bem aqui se manifeste.
-Conserva-nos a porta aberta a quem procura
-Conforto à solidão, socorro à desventura,
-Resposta, auxílio e fé, padecendo ao buscar-te!…
-Que a nossa casa em Ti, no amor que não se cansa,
-Seja um lar consagrado à bondade e à esperança
-Que te louve a Presença e o Nome, em toda parte.
+1 Abençoa, Senhor, a casa que nos deste, No campo de trabalho e anseio que bendigo… Neste pouso de paz, temos o doce abrigo Que nos revela o Amor por Luz do Lar Celeste.
+2 A Caridade aqui é a força que nos veste De júbilo ao saber que marchamos contigo… Dá-nos, Senhor, o dom de ver-te o braço amigo Onde o brilho do Bem aqui se manifeste.
+3 Conserva-nos a porta aberta a quem procura Conforto à solidão, socorro à desventura, Resposta, auxílio e fé, padecendo ao buscar-te!…
+4 Que a nossa casa em Ti, no amor que não se cansa, Seja um lar consagrado à bondade e à esperança Que te louve a Presença e o Nome, em toda parte.
 No dia 06/10/1975 foi inaugurado o Centro Espírita “Deus e Caridade”, com a presença de Chico Xavier e de uma grande assistência de irmãos de Minas Gerais e São Paulo, que vieram participar da alegria dessa grande comunidade.
 Lembramos nesta oportunidade, da feliz expressão do irmão Martins Peralva, da União Espírita Mineira, convidado à explanação evangélica naquela reunião e referindo-se ao nome do Centro Espírita, disse:
 “Deus e Caridade: Feliz lembrança — o nome do Senhor e o caminho que a Ele conduz!”
@@ -1357,51 +760,21 @@ Na Segunda Parte deste livro estão incluídas as mensagens acima citadas, com a
 
 ---
 
-## 30 — Mensagem  aos servidores da assistência aos hansenianos
+## 30
 
-Queridos amigos Neocele, Plácido, Lair e outros devotados servidores da assistência aos nossos irmãos hansenianos.
-Sigamos juntos, com alegria, ao encontro dos companheiros que a hanseníase, tantas vezes, mergulha em ansiedade.
-Cada gesto de amor fraterno para com eles é uma bênção que o Céu ilumina de paz em nosso próprio benefício.
-Cada palavra de esperança a eles dirigida é um fragmento do nosso diálogo com Jesus que os assiste.
-O caminho para semelhante realização, nem sempre surge marcado de flores, entretanto, os espinhos que porventura repontem da estrada, estarão floridos de amor, desse mesmo amor de que o Divino Mestre nos fez depositários felizes.
-Todos os sofredores nos merecem atenção, no entanto, pelas provas que experimentam os hansenianos constituem a família que o Eterno Benfeitor nos confiou.
-Conservai o vosso bom-ânimo, na certeza de que não estamos sós.
-Diante de nós outros, caminha o Amigo Excelso a convidar-nos para o banquete da luz, indicando-nos os credores de nossa dedicação e esperança.
-Jesus segue diante de nós. Sigamo-Lo, com as nossas melhores forças, para o auxílio aos nossos irmãos, tantas vezes segregados em amargas inquietações e que Deus nos ampare e abençoe.
-
----
-
-## 31 — Mensagem  familiar de Luciano Fábio Perutich
-
-> (Mensagem recebida pelo médium Francisco Cândido Xavier, em reunião de preces, na noite de 21/04/1988, ditada pelo Espírito de Luciano Fábio Perutich).
-
-Querida mãezinha Martha, peço a Jesus nos abençoe, sem me esquecer do querido pai ausente, no momento, da nossa reunião de preces.
-Mãe, às vezes, parecemos desmemoriados, na condição de habitantes da Vida Espiritual, mas não é assim, continuamos atentos, seguindo a família com os nossos melhores sentimentos e formulando votos pela paz de todos os que se encontram vinculados aos nossos corações.
-Acontece que nos compete agir com disciplina ditada por mentores que conhecem os nossos caminhos com mais segurança do que nós mesmos e no curso natural dos acontecimentos de cada dia, solicitam eles para que não interfiramos nas experiências dos entes amados, exceção feita às ocorrências mais difíceis, quando se nos faz permitido orar e vigiar com os entes amados, no sentido de auxiliá-los a transpor as dificuldades e provas da estrada comum.
-Exemplo: quando o vovô Jacob esteve muito doente, fui agraciado com o ensejo de acentuar-lhe as forças de resistência e a solicitar o apoio em vários setores de nossa confiança, a fim de que as nossas preces de conjunto se reunissem num só impulso de auxílio ao querido avô, a quem tanto devemos;
-
-outro problema que me inquietou o coração de filho, foi o período do tratamento do papai com as instruções médicas concentradas no sistema cardíaco.
-Ver o querido avô e o querido pai conquistando novas energias que os habilitem a prosseguir na jornada terrestre, trabalhando e auxiliando sempre, representou para mim enorme felicidade, de vez que acompanho os movimentos de nossa vida doméstica e reconheço a presença deles por abrigo de nossas tarefas, verdadeiros fatores de calma e coragem para cada um de nós.
-E digo “nós”, com muita propriedade, porquanto não estou com tempo integral em nossa casa, mas prossigo de coração unido aos pais queridos e a todos os nossos.
-Estendo-me na elucidação para destacar a imortalidade do amor que nos resguarda uns com os outros. Quanto a mim próprio, além do concurso afetuoso e naturalmente devido ao nosso reduto familiar, tenho procurado ser útil à madrinha e tia Therezinha e colaborar na tranquilidade de nosso pessoal que é nossa equipe do coração.
-A vovó Anna tem se empenhado a permanecer sempre, ou quase sempre, junto de seu coração e para mim, observá-la infatigável é um exemplo que me inspira e fortalece.
-A existência na Terra é passageira mas, ocasiões aparecem nas quais as lutas e os contratempos se agarram uns aos outros e precisamos de muita compreensão e paciência para evitar as aflições desnecessárias, porque as aflições constituem uma taxa inútil com que sobrecarregamos os tributos legítimos que nos cabe cumprir ou resgatar.
-E a vovó é uma especialista em serenidade ativa, operando e cooperando aqui e ali para que nossa gente não se transvie no desespero vazio.
-Creia, mãezinha Martha, que a nossa dívida é grande para com essa alma de eleição que nos tem doado tantos testemunhos de auxílio e amor.
-Agora, depois das refregas experimentadas, pedimos a sua atenção para consigo mesma, porque toda luta atravessada significa desgaste e não pode:mos esquecer as suas tarefas de amparo ao próximo que se desdobram em diversas direções. Continuemos.
-A sua maravilhosa vida é para seu filho um livro precioso de lições, especialmente no que se refere ao tempo que a mamãe sabe empregar com beleza e precisão. Graças a Deus, trouxe de seus braços a luz com que vou caminhando para a frente e isso é muito importante para mim.
-Peço-lhe dizer ao papai Pablo para que não despenda esforço demasiado em suas atribuições. Após a utilização da safena, é indispensável ter em mente que é preciso defende-la e preservá-la no desempenho de suas funções.
-Estou muito grato às nossas irmãs que lhe acompanham nesta jornada de preces com serviços de elevação. Valho-me da oportunidade para afirmar-lhe que lhe desejo um Dia das Mães plenamente feliz.
-Como sucedeu de outra vez em nosso intercâmbio, desejo configurar os meus sonhos de filho agradecido e feliz.
-Para comemorar seu Belo Dia, o segundo domingo de Maio próximo, peço licença a Jesus para apresentar a essência dos meus votos por sua paz e felicidade. Para isso,
-Mãezinha querida, rogo a Jesus lhe abrilhantar a vida com as bênçãos que fluem do Mais Alto.
-Não desejo terminar esta carta sem lhe dizer que tenho feito o que se me faz possível pela iluminação espiritual e alegria de espírito da nossa estimada Cibele que conservo no coração por brilhante da Casa de Deus.
-Minhas saudações e agradecimentos às nossas irmãs que nos compartilham das preces e pensamentos.
-O tio Ítalo e o tio Antônio deixam para o seu querido coração e para o querido papai, um abraço de coração a coração e, de minha parte, como sempre, reafirmo-lhe o meu carinho imenso, com as muitas saudades do seu filho, sempre o seu
+1 Queridos amigos Neocele, Plácido, Lair e outros devotados servidores da assistência aos nossos irmãos hansenianos.
+2 Sigamos juntos, com alegria, ao encontro dos companheiros que a hanseníase, tantas vezes, mergulha em ansiedade.
+3 Cada gesto de amor fraterno para com eles é uma bênção que o Céu ilumina de paz em nosso próprio benefício.
+4 Cada palavra de esperança a eles dirigida é um fragmento do nosso diálogo com Jesus que os assiste.
+5 O caminho para semelhante realização, nem sempre surge marcado de flores, entretanto, os espinhos que porventura repontem da estrada, estarão floridos de amor, desse mesmo amor de que o Divino Mestre nos fez depositários felizes.
+6 Todos os sofredores nos merecem atenção, no entanto, pelas provas que experimentam os hansenianos constituem a família que o Eterno Benfeitor nos confiou.
+7 Conservai o vosso bom-ânimo, na certeza de que não estamos sós.
+8 Diante de nós outros, caminha o Amigo Excelso a convidar-nos para o banquete da luz, indicando-nos os credores de nossa dedicação e esperança.
+9 Jesus segue diante de nós. Sigamo-Lo, com as nossas melhores forças, para o auxílio aos nossos irmãos, tantas vezes segregados em amargas inquietações e que Deus nos ampare e abençoe.
 
 ---
 
-## 31 — Caminhos de Luz
+## 31
 
 Os caminhos percorridos pelos irmãos dessa grande família do Lar da Caridade, são iluminados pela centelha divina do amor, que direciona os seus destinos permitindo a segurança dos seus passos, edificada pela Assistência e pelo Trabalho, e sustentada pela Fé e pela Esperança que irradiam do coração generoso de Aparecida, no luminar roteiro da Caridade.
 Enfim, escrever e falar sobre Aparecida Conceição Ferreira é tarefa difícil. Embora estando em contato direto na sua Administração durante dezoito anos, conforme fizemos referência, há certas nuances e particularidades, gestos e atitudes, que não se revelam pela sua modéstia e simplicidade, traços marcantes de sua personalidade.
@@ -1409,27 +782,57 @@ Na singeleza de nossas palavras, procuramos muito despretensiosamente, traçar o
 
 ---
 
-## 32 — Mensagem  familiar de José Esmelcerei Bernardo
+## 31
+
+> (Mensagem recebida pelo médium Francisco Cândido Xavier, em reunião de preces, na noite de 21/04/1988, ditada pelo Espírito de Luciano Fábio Perutich).
+
+1 Querida mãezinha Martha, peço a Jesus nos abençoe, sem me esquecer do querido pai ausente, no momento, da nossa reunião de preces.
+2 Mãe, às vezes, parecemos desmemoriados, na condição de habitantes da Vida Espiritual, mas não é assim, continuamos atentos, seguindo a família com os nossos melhores sentimentos e formulando votos pela paz de todos os que se encontram vinculados aos nossos corações.
+3 Acontece que nos compete agir com disciplina ditada por mentores que conhecem os nossos caminhos com mais segurança do que nós mesmos e no curso natural dos acontecimentos de cada dia, solicitam eles para que não interfiramos nas experiências dos entes amados, exceção feita às ocorrências mais difíceis, quando se nos faz permitido orar e vigiar com os entes amados, no sentido de auxiliá-los a transpor as dificuldades e provas da estrada comum.
+4 Exemplo: quando o vovô Jacob esteve muito doente, fui agraciado com o ensejo de acentuar-lhe as forças de resistência e a solicitar o apoio em vários setores de nossa confiança, a fim de que as nossas preces de conjunto se reunissem num só impulso de auxílio ao querido avô, a quem tanto devemos; 5 outro problema que me inquietou o coração de filho, foi o período do tratamento do papai com as instruções médicas concentradas no sistema cardíaco. 6 Ver o querido avô e o querido pai conquistando novas energias que os habilitem a prosseguir na jornada terrestre, trabalhando e auxiliando sempre, representou para mim enorme felicidade, de vez que acompanho os movimentos de nossa vida doméstica e reconheço a presença deles por abrigo de nossas tarefas, verdadeiros fatores de calma e coragem para cada um de nós. 7 E digo “nós”, com muita propriedade, porquanto não estou com tempo integral em nossa casa, mas prossigo de coração unido aos pais queridos e a todos os nossos.
+8 Estendo-me na elucidação para destacar a imortalidade do amor que nos resguarda uns com os outros. Quanto a mim próprio, além do concurso afetuoso e naturalmente devido ao nosso reduto familiar, tenho procurado ser útil à madrinha e tia Therezinha e colaborar na tranquilidade de nosso pessoal que é nossa equipe do coração. 9 A vovó Anna tem se empenhado a permanecer sempre, ou quase sempre, junto de seu coração e para mim, observá-la infatigável é um exemplo que me inspira e fortalece.
+10 A existência na Terra é passageira mas, ocasiões aparecem nas quais as lutas e os contratempos se agarram uns aos outros e precisamos de muita compreensão e paciência para evitar as aflições desnecessárias, porque as aflições constituem uma taxa inútil com que sobrecarregamos os tributos legítimos que nos cabe cumprir ou resgatar. 11 E a vovó é uma especialista em serenidade ativa, operando e cooperando aqui e ali para que nossa gente não se transvie no desespero vazio.
+12 Creia, mãezinha Martha, que a nossa dívida é grande para com essa alma de eleição que nos tem doado tantos testemunhos de auxílio e amor.
+13 Agora, depois das refregas experimentadas, pedimos a sua atenção para consigo mesma, porque toda luta atravessada significa desgaste e não pode:mos esquecer as suas tarefas de amparo ao próximo que se desdobram em diversas direções. Continuemos. 14 A sua maravilhosa vida é para seu filho um livro precioso de lições, especialmente no que se refere ao tempo que a mamãe sabe empregar com beleza e precisão. Graças a Deus, trouxe de seus braços a luz com que vou caminhando para a frente e isso é muito importante para mim.
+15 Peço-lhe dizer ao papai Pablo para que não despenda esforço demasiado em suas atribuições. Após a utilização da safena, é indispensável ter em mente que é preciso defende-la e preservá-la no desempenho de suas funções.
+16 Estou muito grato às nossas irmãs que lhe acompanham nesta jornada de preces com serviços de elevação. Valho-me da oportunidade para afirmar-lhe que lhe desejo um Dia das Mães plenamente feliz.
+17 Como sucedeu de outra vez em nosso intercâmbio, desejo configurar os meus sonhos de filho agradecido e feliz.
+18 Para comemorar seu Belo Dia, o segundo domingo de Maio próximo, peço licença a Jesus para apresentar a essência dos meus votos por sua paz e felicidade. Para isso,
+Do luar quero o plenilúnio,
+da noite o colar das estrelas;
+da brisa a ternura com que acaricia as crianças e os doentes;
+da fonte a água mais pura,
+do jardim a rosa mais linda,
+das árvores a seiva de que se nutrem;
+do trabalho, a alegria de servir,
+da fé a oração que se eleva para os Céus;
+dos insetos, a orquestra de carinho;
+das aves o cântico de louvor a Deus,
+do alvorecer a música de novo dia;
+da terra o rio remansoso da paz que protege e guarda a consciência tranquila.
+19 Mãezinha querida, rogo a Jesus lhe abrilhantar a vida com as bênçãos que fluem do Mais Alto.
+20 Não desejo terminar esta carta sem lhe dizer que tenho feito o que se me faz possível pela iluminação espiritual e alegria de espírito da nossa estimada Cibele que conservo no coração por brilhante da Casa de Deus.
+21 Minhas saudações e agradecimentos às nossas irmãs que nos compartilham das preces e pensamentos.
+22 O tio Ítalo e o tio Antônio deixam para o seu querido coração e para o querido papai, um abraço de coração a coração e, de minha parte, como sempre, reafirmo-lhe o meu carinho imenso, com as muitas saudades do seu filho, sempre o seu
+
+---
+
+## 32
 
 > (Mensagem recebida pelo médium Francisco Cândido Xavier, em reunião pública, na noite de 20/04/1982, no Centro Espírita “Deus e Caridade”, do Lar da Caridade (Ex-Hospital do Pênfigo) de Uberaba, Minas).
 
-Querida mãezinha Aparecida, reúno-a com meu pai nas alegrias desta hora, de maneira a solicitar-lhe para que me abençoem.
-Os dias correm na esteira do tempo. O amor, entretanto, é uma luz que não se altera na intimidade do coração.
-Às vezes, pode parecer que nós, os afetos trazidos à Vida Espiritual, estamos indiferentes à vida dos entes queridos que ficaram no Plano Físico, mas não é assim.
-Prosseguimos detidos na luz da afeição imperecível, porque justamente para aprendermos o amor uns pelos outros é que nos reunimos no santuário da família, onde as alegrias e as dificuldades, as dores e as pequenas conquistas de cada dia nos identificam reciprocamente, fortalecendo cada vez mais, os laços que nos ligam de coração a coração. De Itanhaém a Tremembé, não poderia seu filho desaparecer.
-A liberação do corpo físico é unicamente aquela mudança de envoltório, que nos compete realizar para efeito de adaptação à existência diferente a que somos chamados.
-No íntimo, entretanto, não há transformações imediatas, porque o amor não nos desligaria da felicidade de continuar partilhando dos encargos que jazem nos ombros daqueles que amamos e que vivem no centro de nossa memória, a impedir-nos de qualquer ideia de ascensão ou distância dos companheiros que se nos fazem desdobramentos da própria alma.
-Mãe querida, desejo que a nossa querida Terezinha compreenda o que digo, porquanto lhe vejo o coração apresado ao sofrimento de nossa suposta separação! Querida irmã! Talvez julgasse que os meus sentimentos se restringissem às saudades da noiva que os Desígnios do Alto não permitiram desposar.
-Entretanto, Valquíria e ela, a irmã inesquecível, moram com meus pais abençoados no mesmo apartamento de esperança, em que vou transfigurando a carência afetiva naquela fé viva que trazemos da infância, sem conservá-la nos dias da juventude, quando nosso espírito se reabre às recapitulações do passado para a aquisição de nossas experiências.
-Felizmente, querida mamãe, vou atravessando as horas com aquele mesmo carinho que a sua bondade nos ensinou a cultivar. E peço-lhe seja dito à irmã e à noiva, ambas queridas, que hoje me empenho no trabalho de auto-melhoria, a fim de merecer-lhes a confiança.
-E sinto-me feliz no reencontro desta noite de seu querido aniversário, na qual nos observamos em contato com a família maior.
-Aqui, sob este abençoado teto, iluminado de amor, traduzindo solidariedade humana, aprendemos que os nossos entes amados repontam de toda parte, ofertando-nos a oportunidade de clarear os próprios raciocínios, com respeito ao círculo de dimensões crescentes em que cabemos todos no aprendizado com Jesus.
-Estou feliz, conquanto as saudades juntas, mas, não tenho tido horas vazias. Vencendo a mim mesmo, sigo adiante edificando caminhos de renovação para que o futuro se nos faça melhor.
-Agradeço a abnegação e a ternura com que me ouviu os apelos, em nossos encontros espirituais na prece e no serviço do bem, porquanto acompanho-lhe as atividades na beneficência, refletindo nas necessidades alheias, além das necessidades de nossa própria casa.
-Trabalhemos nessa causa bendita, na qual todo ato de fraternidade, por mínimo que seja, está sempre revestido do clarão da paz que o Cristo de Deus nos legou.
-Mãezinha Aparecida, a peça pequenina que possamos entretecer no silêncio doméstico, em favor da criancinha que vai nascer é irmã do socorro maior que a espera, quando venha a surgir entre os homens.
-Toda a realização do bem é importante e por isso, espero que o seu entusiasmo de ser útil continue crescendo sempre para que os nossos investimentos no Bem Eterno sejam depósitos sagrados que nos assegurem a felicidade porvindoura.
-Agradeço às nossas irmãs Yolanda e Martha que lhe fazem companhia, incentivando-lhe o devotamento às tarefas que abraçamos. Temos todos ligações vivas na corrente de amor que nos enlaça para que nos adestremos no melhor a fazer. E nesse sentido envio à Terezinha, à Valquíria, ao papai, à nossa estimada Maria Júlia e a todos os nossos o meu afeto de sempre, transformando com votos de paz e felicidade real no hoje e no amanhã de nossas vidas.
-Noto que estou em nossa festa de trabalho e de esperança e rogo também a Deus abençoe esta casa de paz e serviço, para que continue sendo para nós a oficina venerável de nosso próprio ajustamento às lições que Jesus nos ditou.
-Mãezinha Aparecida, muito grato por toda a sua generosidade, ao mesmo tempo, que lhe transmito extensivamente a todos os nossos as saudações de amor e paz da Vovó Júlia e do meu avô Bernardo. Reunindo-a com o Papai em coração e endereçando o afetuoso abraço de todos os dias, às nossas queridas Terezinha e Valquíria, com todo o afeto que sou capaz de sentir, sou o filho reconhecido que lhe beija as mãos e que se confessa cada vez mais feliz em pertencer-lhe com a permissão de Deus.
-Sempre seu filho reconhecido,
+1 Querida mãezinha Aparecida, reúno-a com meu pai nas alegrias desta hora, de maneira a solicitar-lhe para que me abençoem.
+2 Os dias correm na esteira do tempo. O amor, entretanto, é uma luz que não se altera na intimidade do coração. 3 Às vezes, pode parecer que nós, os afetos trazidos à Vida Espiritual, estamos indiferentes à vida dos entes queridos que ficaram no Plano Físico, mas não é assim.
+4 Prosseguimos detidos na luz da afeição imperecível, porque justamente para aprendermos o amor uns pelos outros é que nos reunimos no santuário da família, onde as alegrias e as dificuldades, as dores e as pequenas conquistas de cada dia nos identificam reciprocamente, fortalecendo cada vez mais, os laços que nos ligam de coração a coração. De Itanhaém a Tremembé, não poderia seu filho desaparecer. 5 A liberação do corpo físico é unicamente aquela mudança de envoltório, que nos compete realizar para efeito de adaptação à existência diferente a que somos chamados.
+6 No íntimo, entretanto, não há transformações imediatas, porque o amor não nos desligaria da felicidade de continuar partilhando dos encargos que jazem nos ombros daqueles que amamos e que vivem no centro de nossa memória, a impedir-nos de qualquer ideia de ascensão ou distância dos companheiros que se nos fazem desdobramentos da própria alma.
+7 Mãe querida, desejo que a nossa querida Terezinha compreenda o que digo, porquanto lhe vejo o coração apresado ao sofrimento de nossa suposta separação! Querida irmã! Talvez julgasse que os meus sentimentos se restringissem às saudades da noiva que os Desígnios do Alto não permitiram desposar. 8 Entretanto, Valquíria e ela, a irmã inesquecível, moram com meus pais abençoados no mesmo apartamento de esperança, em que vou transfigurando a carência afetiva naquela fé viva que trazemos da infância, sem conservá-la nos dias da juventude, quando nosso espírito se reabre às recapitulações do passado para a aquisição de nossas experiências.
+9 Felizmente, querida mamãe, vou atravessando as horas com aquele mesmo carinho que a sua bondade nos ensinou a cultivar. E peço-lhe seja dito à irmã e à noiva, ambas queridas, que hoje me empenho no trabalho de auto-melhoria, a fim de merecer-lhes a confiança.
+10 E sinto-me feliz no reencontro desta noite de seu querido aniversário, na qual nos observamos em contato com a família maior.
+11 Aqui, sob este abençoado teto, iluminado de amor, traduzindo solidariedade humana, aprendemos que os nossos entes amados repontam de toda parte, ofertando-nos a oportunidade de clarear os próprios raciocínios, com respeito ao círculo de dimensões crescentes em que cabemos todos no aprendizado com Jesus. 12 Estou feliz, conquanto as saudades juntas, mas, não tenho tido horas vazias. Vencendo a mim mesmo, sigo adiante edificando caminhos de renovação para que o futuro se nos faça melhor.
+13 Agradeço a abnegação e a ternura com que me ouviu os apelos, em nossos encontros espirituais na prece e no serviço do bem, porquanto acompanho-lhe as atividades na beneficência, refletindo nas necessidades alheias, além das necessidades de nossa própria casa.
+14 Trabalhemos nessa causa bendita, na qual todo ato de fraternidade, por mínimo que seja, está sempre revestido do clarão da paz que o Cristo de Deus nos legou.
+15 Mãezinha Aparecida, a peça pequenina que possamos entretecer no silêncio doméstico, em favor da criancinha que vai nascer é irmã do socorro maior que a espera, quando venha a surgir entre os homens. 16 Toda a realização do bem é importante e por isso, espero que o seu entusiasmo de ser útil continue crescendo sempre para que os nossos investimentos no Bem Eterno sejam depósitos sagrados que nos assegurem a felicidade porvindoura.
+17 Agradeço às nossas irmãs Yolanda e Martha que lhe fazem companhia, incentivando-lhe o devotamento às tarefas que abraçamos. Temos todos ligações vivas na corrente de amor que nos enlaça para que nos adestremos no melhor a fazer. E nesse sentido envio à Terezinha, à Valquíria, ao papai, à nossa estimada Maria Júlia e a todos os nossos o meu afeto de sempre, transformando com votos de paz e felicidade real no hoje e no amanhã de nossas vidas.
+18 Noto que estou em nossa festa de trabalho e de esperança e rogo também a Deus abençoe esta casa de paz e serviço, para que continue sendo para nós a oficina venerável de nosso próprio ajustamento às lições que Jesus nos ditou.
+19 Mãezinha Aparecida, muito grato por toda a sua generosidade, ao mesmo tempo, que lhe transmito extensivamente a todos os nossos as saudações de amor e paz da Vovó Júlia e do meu avô Bernardo. Reunindo-a com o Papai em coração e endereçando o afetuoso abraço de todos os dias, às nossas queridas Terezinha e Valquíria, com todo o afeto que sou capaz de sentir, sou o filho reconhecido que lhe beija as mãos e que se confessa cada vez mais feliz em pertencer-lhe com a permissão de Deus.
+20 Sempre seu filho reconhecido,

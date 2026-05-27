@@ -6,34 +6,22 @@
 
 ---
 
-##  — Bibliografia
+## 
 
 
 
 ---
 
-##  — Prefácio de Luz
+## 
 
-
-
-
-
-
-
-
-
----
-
-##  — Esclarecimento
-
-O livro se inicia com a primeira mensagem do espírito de Inês de Castro, recebida pelo Chico no início de 1977. O querido amigo e benfeitor entregou-me, em março daquele ano, o longo texto que reproduzo a seguir.
+O livro se inicia com a primeira mensagem do Espírito de Inês de Castro, recebida pelo Chico no início de 1977. O querido amigo e benfeitor entregou-me, em março daquele ano, o longo texto que reproduzo a seguir.
 Trata-se de impressionante depoimento, dos mais belos que conheci, inspirado no amor e escrito com as fibras vivas do coração.
 Por respeito a pessoas encarnadas e seus familiares, o conteúdo das mensagens não foi colocado integralmente.
 Desdobra-se, nas páginas seguintes, a saga de amor através dos séculos, que descrevo mesclando, numa sequência lógica e o quanto possível harmoniosa, o texto de minha autoria e os depoimentos de Inês transmitidos pelo Chico.
 
 ---
 
-##  — O Chico que conheci
+## 
 
 O tempo passa, as vidas se sucedem e com elas os reencontros.
 Apesar de tê-lo conhecido nos idos de 1959 e de densa convivência nas décadas de 1960 e 1970, nosso reencontro efetivo se deu em meados de dezembro de 1976, quando Chico convalescia de um distúrbio cardíaco.
@@ -72,22 +60,19 @@ Algumas vezes, ao voltar para São Paulo, o Chico vinha junto comigo. Nas longas
 Desde aquela noite de domingo, de março de 1977 até o fim do ano, por telefone, conversávamos diariamente cerca de hora e meia, sempre após a meia-noite, à exceção das sextas e sábados, devido às reuniões públicas com sua presença em Uberaba.
 A cada telefonema, ele me lia uma mensagem de Inês de Castro, reunindo os textos, para que eu os pegasse a cada retorno à sua casa. E assim foi durante todo 1977…
 É claro que, a partir de 1978, os contatos continuaram, mas com frequência menor, porque sabiamente o saudoso amigo percebeu que, a continuar naquele ritmo, eu não daria conta dos afazeres, na época numerosos. Conversávamos numa de suas salas de trabalho, ao som de música suave. Algumas vezes, nas noites estreladas, dirigíamo-nos ao jardim de sua casa, permanecendo próximos a uma gardênia solitária.
-Nesses colóquios, o tempo deslizava com conselhos, ponderações, narrativas e relatos comoventes, que denotavam sua veneração por Isabel de Aragão,
-a Rainha Santa.
+Nesses colóquios, o tempo deslizava com conselhos, ponderações, narrativas e relatos comoventes, que denotavam sua veneração por Isabel de Aragão, ( † ) a Rainha Santa.
 Assim fui conhecendo, por dentro, a luminosa alma que nos deu tudo de si, na sua vida de lutas acérrimas, sem nada exigir.
 Passaram-se trinta anos.
 Mais amadurecido, com o espírito asserenado, voltei a pensar naquele acervo que o Chico me entregara — embora nunca o tivesse esquecido.
 Lembro-me, com imensa saudade, de que o Chico, ao passar-me às mãos a primeira mensagem mediúnica de Inês de Castro, disse-me:
 — Caio, estas páginas lhe pertencem, como lhe pertencerão as futuras que Inês eventualmente escrever. Faça delas o uso que sua intuição no devido tempo sugerir.
-Muito interessante é o fato de constar em destaque, sempre no início de cada capítulo do texto recebido pelo Chico, o seguinte título: Livro
-.
-Em nossos encontros, o Chico falava com muito carinho sobre o tema central das mensagens, que mergulha na Idade Média de Portugal, especialmente no período da dinastia dos reis afonsinos.
+Muito interessante é o fato de constar em destaque, sempre no início de cada capítulo do texto recebido pelo Chico, o seguinte título: Livro Mensagens de Inês de Castro.
+Em nossos encontros, o Chico falava com muito carinho sobre o tema central das mensagens, que mergulha na Idade Média de Portugal, especialmente no período da dinastia dos reis afonsinos. ( † )
 A distribuição do texto, a rara beleza de seu conteúdo e o cuidado do nosso saudoso amigo em transmitir com a própria letra as informações espirituais comoveram-me muito.
 Parecia claro que o valioso acervo espiritual não me fora destinado por acaso.
 Algo me dizia que deveria transformá-lo em um livro que contasse a história de Inês, enriquecida com as informações do Plano Espiritual.
 E resolvi envolver-me na redação deste livro, caro leitor. Os fatos históricos, que descrevo, são reais e remontam ao século XIV na Península Ibérica, de modo especial em Portugal, e coloquei-os como simples moldura das cartas mediúnicas.
-E assim surgiu
-em setembro de 2006.
+E assim surgiu Mensagens de Inês de Castro em setembro de 2006.
 Devo tudo ao Chico: a bela história, o carinho com que nela me introduziu, com ensinamentos inesquecíveis.
 A ele, comovido, expresso minha gratidão nas simples palavras que dizem muito:
 — Chico, obrigado por tudo!
@@ -95,259 +80,201 @@ São Bernardo do Campo, maio de 2009.
 
 ---
 
-##  — Palavras do Coração
+## 
 
-A partir da 18ª edição,
-está com nova capa e acrescida de um novo capítulo sobre Chico Xavier, além de algumas fotos de locais muito caros a Inês e Pedro, personagens da inesquecível história de amor do século XIV.
-Esses recantos marcaram o início dos dez anos felizes que o casal viveu desde o retorno de Inês de Castro
-a Portugal, na primavera de 1346, após o exílio em Castela.
-Situam-se próximos a Moledo, na estremadura portuguesa.
-A capa fala por si, e o novo capítulo compõe uma trilogia referente a Isabel de Aragão (
-com início no 20º capítulo
-), trazendo na sequência: a biografia da rainha santa, a descrição de sua visita ao Chico em 1927 e o encontro, que ambos tiveram no Plano Espiritual, pouco antes da reencarnação de Francisco Cândido Xavier.
-, nesta nova edição, volta-se inteiramente ao amor medieval e às consequências espirituais do doloroso martírio de Inês de Castro.
+A partir da 18ª edição, Mensagens de Inês de Castro está com nova capa e acrescida de um novo capítulo sobre Chico Xavier, além de algumas fotos de locais muito caros a Inês e Pedro, personagens da inesquecível história de amor do século XIV.
+Esses recantos marcaram o início dos dez anos felizes que o casal viveu desde o retorno de Inês de Castro a Portugal, ( † ) na primavera de 1346, após o exílio em Castela. ( † ) Situam-se próximos a Moledo, na estremadura portuguesa. ( † )
+A capa fala por si, e o novo capítulo compõe uma trilogia referente a Isabel de Aragão (com início na página 201), trazendo na sequência: a biografia da rainha santa, a descrição de sua visita ao Chico em 1927 e o encontro, que ambos tiveram no Plano Espiritual, pouco antes da reencarnação de Francisco Cândido Xavier.
+Mensagens de Inês de Castro, nesta nova edição, volta-se inteiramente ao amor medieval e às consequências espirituais do doloroso martírio de Inês de Castro.
 É impossível não nos emocionarmos, sabendo que Inês, horas antes de seu derradeiro infortúnio, ao despedir-se de Pedro, que partia para uma caçada nos primeiros albores da manhã fria de inverno, intuía no fundo da alma que se tratava de definitiva despedida.
 Nas cartas que o Chico me entregou, você, caro leitor, conviverá com fatos ocorridos em época tão distante.
-Trata-se de um período da Idade Média
-assolado por guerras, pestes, pelos rigores do frio, com suas longas noites escuras, pelo difícil cotidiano da vida sem expectativas, tudo isso apanágio do ser medieval.
-Temia-se a morte, que levaria ao Céu inabordável ou ao Inferno, mais duro e vingativo que o
-Tártaro
-das tradições mitológicas gregas.
-Vamos às mensagens de Inês de Castro.
+Trata-se de um período da Idade Média ( † ) assolado por guerras, pestes, pelos rigores do frio, com suas longas noites escuras, pelo difícil cotidiano da vida sem expectativas, tudo isso apanágio do ser medieval.
+Temia-se a morte, que levaria ao Céu inabordável ou ao Inferno, mais duro e vingativo que o Tártaro das tradições mitológicas gregas. Vamos às mensagens de Inês de Castro.
 São Bernardo do Campo, junho de 2011.
 
 ---
 
-## 1 — Carta de Inês de Castro ao Rei D. Pedro I
+## 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-n
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Coimbra
-
-— Cenário importante de nossa história. O leitor no capítulo “
-Fotos históricas
-”, [do livro impresso] encontrará outras fotos a respeito.
+E assim foi. Ainda brilhavam as estrelas quando os membros da comitiva real percorreram as léguas que faltavam até à alcáçova de Coimbra e logo pouco tempo depois desceram para Santa Clara.
+Abriam-se no céu os alvores do dia que faziam o espelho liso do Mondego brilhar como prata derretida, neste 7 de janeiro (…)
 
 ---
 
-## 2 — Cenário
+## 
 
-A Península Ibérica
-de meados do século XIV, palco dos fatos reais que descrevemos neste livro, era formada por Portugal
-e os seguintes reinos hispânicos, conforme observamos no
-Mapa de Burns
-(página 95):
-— Castela
-(o reino com maiores dimensões, já englobando Leão
-e a Galiza,
-região situada ao norte de Portugal),
-— Navarra,
-
-— Aragão
-e
-— Granada.
-Reinavam nos dois povos mais diretamente envolvidos na saga de Inês de Castro e D. Pedro:
-— Afonso IV
-(Portugal) e
-— Afonso Onzeno
-[Afonso XI] (Castela).
+1 No prefácio de luz, Quero dizer-lhe ao coração Todo feito no amor que nos conduz À paz e à elevação Que você, rei amado, Jamais está sozinho… Que estamos nós em seu caminho Para formar-lhe o séquito de amor…
+2 Lutas, preocupações, ânsias, muralhas, A sua mão poderosa há de vencê-las, E o seu cetro de paz, acima das batalhas Que tanta vez o mundo impõe à vida, Refletirá na Terra o fulgor das estrelas… Haja o que houver na estrada a percorrer, Brilho, pesar; dor ou prazer Não permita que sombra ou desalento Possam trazer-lhe mágoa ou sofrimento. Deus traçou seu caminho entre bênçãos e rosas Que se lhe fazem sempre mais formosas À medida em que avança O seu carro triunfal de bondade e esperança. Na Terra, a sua marcha é a de um gênio divino, Sempre atento e fiel ao seu próprio destino…
+3 Sigo-lhe, amado rei, a bela trajetória, Agradecendo a Deus os louros da vitória, Que lhe marcam a fé e os ideais… É por isso que, hoje, aqui lhe peço: Conserve o coração nas flamas da alegria, Em seu reino de amor e de progresso. Escute, amado soberano, Toda a maravilhosa melodia Que exalta o seu poder divino e humano…
+4 O castelo do lar iluminado De abençoadas alegrias, Uma princesa generosa e boa A proteger-lhe a vida E três príncipes lindos que lhe guardam A ternura e a nobreza. E tantos companheiros de valor, dos mais altos valores Atualmente como outrora, Que se esmeram, como sempre souberam se esmerar, A espelharem novamente agora Os seus feitos de luz Transformados em novos resplendores…
+5 E quanto a mim, querido soberano, Sou, como sempre fui, como sempre serei, A singela oração Ao seu lado escondida, Pedindo a Deus lhe guarde e exalte a vida E lhe guarde a ventura Sagrada para mim, como sempre será…
+6 Fique feliz, sempre feliz, Porque fico feliz, só de vê-lo feliz… Nesta singela carta, é tudo o que lhe diz Todo o meu coração, sempre seu coração, Porque constantemente sou como sempre serei Essa prece incessante, Que pede a Deus, instante a instante, Pela felicidade do meu rei.
 
 ---
 
-## 3 — A Decisão Real. Julgamento Sumário de Inês de Castro
+## 1
 
-> Como começar pelo início, se as coisas acontecem antes de acontecer?  (Clarice Lispector, 1925-1977)
+1 Nosso Senhor Jesus Cristo vos conceda a bênção da paz com todos aqueles que vos formam o reino de amor.
+2 Crede, amado senhor e rei meu, que muito me custa falar-vos, através deste documento do coração, em que tento transmitir-vos o inexprimível com palavras criadas pelos homens para definir pensamentos e formas tradicionais.
+3 Entretanto, há de valer-se quem necessita comunicar-se dos instrumentos de que disponha no espaço e no tempo dos reinos humanos, e outro recurso não me resta senão este para dizer-vos, com reverência e humildade, quanto me vai nas profundezas da alma, de respeitoso amor por vós, num momento em que furiosas tempestades de ideias e sentimentos se desenfreiam nos horizontes de nossa vida — vida de Espíritos imperecíveis atualmente compromissados na causa do Cristianismo Redivivo.
+4 Não vos escrevo, amado rei e senhor meu, sob o domínio das paixões e dos infortúnios em que se me perdia o espírito agoniado, depois da trágica manhã de 7 de janeiro de 1355, quando afrontosa sentença de morte me afastou violentamente de vossa dedicação e dos filhos que me destes.
+5 O tempo, que não trabalha em vão, propiciou-nos outras estâncias de atividade, nos séculos que se contam entre as sombras medievais e a nossa era de luz.
+6 E o tempo enxugou as nossas lágrimas e apagou as nódoas dos ressentimentos que, por muito tempo, remanesceram em nós ambos, ante aqueles que se ergueram no mundo, na condição de inimigos gratuitos de nossa felicidade.
+7 Dirijo-me a vós, amado soberano, para reafirmar quanto vos amo e amarei sempre.
+8 Sabereis compreender que não faço isso para torturar-vos com intentos impróprios à vossa dignidade, o que seria esquecimento evidente da veneração que vos devo. Além do mais, escrevo à vossa benemerência, da Vida Espiritual, com a vossa aprovação e conselho, antes que o berço terrestre de novo vos prendesse às teias e dificuldades construtivas da existência humana, para realizar o trabalho que julgastes o melhor para vós, neste século de tremendos conflitos espirituais.
+9 Reconhecereis, assim, amado soberano, que não vos escrevo para reacender as chamas contidas de amor que se não podem ser extintas pela perenidade das causas que as nutrem, devem ser guardadas no santuário da alma para serem libertas no tempo e no espaço que lhes serão próprios.
+10 Graças a Deus, a Providência Divina vos instalou num lar generoso e santo e entregou-vos à guarda de nobre dama, que vos merece o respeito e o carinho, com os filhos que tanto amamos.
+11 Meu intento, com o favor de Jesus Cristo e com a vossa real mercê, é o de declarar-vos que tenho cumprido o que vos prometi na vida Maior para a qual voltareis.
+12 Sei que, em outros encargos, estivemos nos séculos que medeiam as épocas de que vos falo e estas outras nas quais vos escrevo. Mas, por solicitação da veneranda Isabel de Aragão ( † ) (a Rainha Santa que foi na Terra a mãe venerável de vosso respeitado pai, Dom Afonso IV, ( † ) Rei de Portugal e Algarves), com ele ajustastes o regresso ao Plano Físico para a elevada missão de realizar a imunização espiritual possível dos povos de linguagem lusitana, contra a violência e a crueldade, numa bandeira mesmo limitada de obreiros do bem, que se consagrasse à sementeira ou replantio das ideias e dos princípios do Senhor Jesus, o Rei de Todos os Reinados da Terra a quem servimos.
+13 Se me for permitido, aspiro unicamente, no que me toca aos compromissos assumidos convosco, a dizer-vos que trabalhei nestes cinquenta anos de atividade constante de nosso querido amigo e benfeitor, Francisco Cândido Xavier, n trazendo a vossa imagem no coração.
+14 Vossa presença em mim com os nossos filhos, ainda pequeninos, D. João Álvaro, ( † ) D. Dinis ( † ) e D. Beatriz, ( † ) me foram lembranças vivas e inapagáveis, desde os primeiros dias da vossa atual existência.
+15 Procurei-vos, como quem busca tesouros ocultos somente conhecidos de quem os teve um dia nas mãos.
+16 Éreis vós e nossas amadas crianças uma constelação de estrelas humanas de que me reconhecia agora irremediavelmente distante.
+17 Seria fastidioso para nós recordar os pormenores do nosso reajuste à compreensão dos deveres que nos aguardavam.
+18 Desejo tão somente dizer-vos que, se somos chamados pela Providência Divina a trabalhar na governança externa de coletividades várias no mundo, tempos existem nos quais essa mesma Providência nos chama ao trabalho, em favor dessas mesmas comunidades, na governança e sustentação das ideias de renovação e progresso, a beneficio da extensa família humana.
+19 No império das ideias renovadoras, dentro do qual vosso amado pai, D. Afonso IV, com a proteção da Rainha Santa, se fez um respeitado soberano pela força do trabalho e pela lealdade ao dever que ele personifica, responsabilizando-se por imensas áreas de serviço espiritual, e compartilhando convosco a colaboração com ele, embora me encontre espacialmente distante, quero dizer-vos que sempre estivestes em mim, qual permaneceis até hoje, sem qualquer mudança em meu coração.
+20 Decerto, vossa generosidade me permitirá dizer que varei lutas enormes nestes anos que medeiam o vosso nascimento na atual existência e os dias atuais em que vos reencontrei.
+21 Se me permitis, amado rei e senhor meu, informo-vos que trabalho sempre pensando em vós, encontrando forças na esperança do reencontro.
+22 E digo-vos que, consoante vossos conselhos, na Espiritualidade transitei nos caminhos do século atual que nos distanciou — tempo longo para a saudade e estreito para o trabalho — aprendendo a amar o próximo, como desejáveis.
+23 Em cada irmão ou irmã de provas que me buscavam, encontrei o ensejo de sorrir ou auxiliar, segundo as minhas forças — sabendo que, assim agindo, eu vos agradaria se o soubésseis — e em cada criança desamparada que pude abraçar, algum traço encontrei dos filhos amados que tive de deixar.
+24 Lembrando a Rainha Santa que nos tomou sob maternal proteção, procurei fazer dos pães e das rosas, que ela tanto amou e tanto ama ainda, o sinal de que eu vos pertencia, já que ela, por amor, se nos fez tutora generosa e maternal.
+25 Quando vos reencontrei, ao lado de vosso nobre pai, regozijei-me no Senhor Jesus, porque estáveis amparado contra as intempéries de ordem espiritual deste século de renovação.
+26 Agradeci a Deus o haver-vos colocado num lar seguro e enobrecido por valorosa companheira, que vos asserenou as ânsias naturais do coração. Vossa paz era e é a nossa paz.
+27 Rejubilei-me com a vossa segurança e alegria no campo doméstico e prometi a mim mesma em nada afligir-vos com lembranças sem razão de ser, porque o passado pode ou deve ser visto, mas sem alterar o presente, para que o porvir seja mais belo.
+28 Bastava-me ver-vos feliz para ser feliz. Entretanto, agora, amado rei e senhor meu, tantas lutas assomaram no império de trabalho confiado ao vosso nobre pai, que não hesito em pedir-vos constância no amor e na cooperação para com ele.
+29 Grande parte da corte itinerante de D. Afonso IV, ( † ) o filho de El-Rei D. Dinis ( † ) e da Rainha Isabel, ( † ) está junto de nós outros em reencarnações de trabalho e de elevação.
+30 Homens quais Dom Diogo Lopes Pacheco, ( † ) Dom Pero Coelho, ( † ) Dom Álvaro Gonçalves, ( † ) D. Álvaro Pereira, ( † ) D. Pedro Fernandes de Castro ( † ) e muitos outros de Portugal e Castela ( † ) se encontram recorporificados na pequena mas corajosa legião de obreiros em que servimos.
+31 As lutas acentuam-se, amado rei e senhor meu, mas agora não são as pelejas medievais que tendes a vencer, e sim as discórdias e as nuvens que se interpõem incessantemente entre a luz e a treva, o bem e o mal.
+32 Vosso nobre pai, o mesmo Dom Afonso IV do século XIV, conquanto de consciência enobrecida e limpa, sofre o impacto de tremendas batalhas íntimas e, mais do que nunca, tem necessidade do vosso discernimento e do vosso amor. Perdoai, amado rei e senhor meu, como me ensinastes a esquecer os que se fizeram nossos perseguidores e, embora nunca me anime a rogar vos acovardeis diante do mal, auxiliai Dom Afonso a vencer no comando do império de ideias salvadoras e novas que ele abraçou, em auxílio aos filhos da antiga Lusitânia.
+33 Não posso pedir humildade a vós, de quem, há muitos anos, venho tentando aprender essa divina virtude, mas peço-vos permanecer no posto em que o Senhor Jesus, por vosso merecimento, vos colocou.
+34 Não tenho o direito de coartar-vos o acesso aos postos do destaque humano, em que sempre soubestes brilhar com louvor e honra, mas, se puderdes e quanto puderdes, ficai nas áreas do governo de Jesus Cristo em que, muitas vezes, comandar significa suportar longas dores em auxílio do próximo.
+35 Lembro-me de que ouvi de vossos lábios que o Rei dos Soberanos da Terra, estando no mundo, para governar os corações humanos, aceitou o trono da cruz e a auréola de espinhos.
+36 Sei que fareis quanto puderdes para permanecer na batalha em que nos achamos, amparando o vosso progenitor na sustentação do império que ele fundou e defende com a bravura de um jovem na primavera da vida.
+37 Sabeis que ele, instintivamente, desejou homenagear-me com uma cópia ou um belo fragmento da Quinta dos Canidelos, ( † ) que me destes, porque amávamos profundamente a amenidade daqueles sítios — um brinde de paternal coração que eu recebi em pensamento, sem poder habitar esse doce refúgio.
+38 Tamanha honraria vos é devida pelo amor que sempre me destes e pelas doutrinas de paz e fraternidade, luz e bênçãos que me transmitistes de vossa real sabedoria.
+39 Estimaria poder cooperar ainda mais na obra imensa que vosso nobre pai iniciou, sob a inspiração daquela que, ao tempo a que nos referimos, lhe foi veneranda mãe na Terra.
+40 Vosso lar é um sagrado refúgio, do qual nunca tive o mínimo propósito de afastar-vos, em favor de meu afeto, porque amando-vos, amo a tudo e a todos os que amais, e honro-me de notar-vos sempre mais nobilitado pela altura em que vos colocastes.
+41 Perdoai-me, amado rei e senhor meu, se esta carta vos comunica qualquer vibração de sofrimento que eu não desejaria sentísseis.
+42 Vede apenas o respeito e o amor neste longo texto que vos escrevo, amor e respeito que estarão em mim como sempre.
+43 E crede, amado rei e senhor meu, que, de qualquer modo, estou incessantemente convosco, rogando aos Céus por vossa felicidade e confiando em vossa real benemerência em meu favor.
+44 Deus, o Senhor da vida, nos guarde e nos abençoe hoje e para sempre.
+Coimbra ( † ) — Cenário importante de nossa história. O leitor no capítulo “Fotos históricas”, encontrará outras fotos a respeito, [no livro impresso.]
+
+---
+
+## 2
+
+A Península Ibérica ( † ) de meados do século XIV, palco dos fatos reais que descrevemos neste livro, era formada por Portugal ( † ) e os seguintes reinos hispânicos, conforme observamos no Mapa de Burns (página 95):
+— Castela ( † ) (o reino com maiores dimensões, já englobando Leão ( † ) e a Galiza, ( † ) região situada ao norte de Portugal), — Navarra, ( † ) — Aragão ( † ) e — Granada. ( † )
+Reinavam nos dois povos mais diretamente envolvidos na saga de Inês de Castro e D. Pedro: — Afonso IV ( † ) (Portugal) e — Afonso Onzeno (Castela) ( † ) [Afonso XI].
+
+---
+
+## 3
+
+> Como começar pelo início, se as coisas acontecem antes de acontecer?  (Clarice Lispector)
 
 Estamos nos primeiros dias de janeiro de 1355, em pleno inverno português.
-Na alcáçova
-do Castelo de Montemor-o-Velho,
-arredores de Coimbra, Afonso IV
-meditava, alongando o olhar pelos campos do Mondego,
-cujas águas frias embalavam plácidas e pacientes seu melancólico destino de perder-se no Atlântico.
+Na alcáçova ( † ) do Castelo de Montemor-o-Velho, ( † ) arredores de Coimbra, Afonso IV ( † ) meditava, alongando o olhar pelos campos do Mondego, ( † ) cujas águas frias embalavam plácidas e pacientes seu melancólico destino de perder-se no Atlântico.
 O último quartel de seu reinado não estava sendo fácil, pensava o rei, cofiando a barba em desalinho.
-Assumira o reino em 1325, com a morte de D. Dinis.
-As lutas contra a invasão moura prosseguiam após o decesso do pai, embora já mais distantes de Portugal, e teriam seu epílogo quinze anos depois de sua posse, com a Batalha do Salado
-ao sul da Península, praticamente cessando, então, o envolvimento árabe na região.
-Em 1328 casara sua filha dileta, Maria, a Formosa,
-com o rei da vizinha Castela, Afonso Onzeno,
-que a repudiaria dois anos depois por Leonor de Gusmão,
-não obstante dividisse sua alcova com ambas, tendo delas filhos reis que o sucederam.
-Ao longo da década de 1330, tivera outros problemas com Afonso Onzeno [Afonso XI].
-Logo no início, contratara D. Afonso IV o casamento de Constança Manoel
-— que o rei castelão havia repudiado no início de seu reinado — com seu filho Pedro,
-o herdeiro do trono. Mas, para conseguir trazê-la a Portugal, precisou encetar, em 1336, guerra de quase quatro anos contra Afonso Onzeno.
-Mesmo assim, o conflito não terminou por causa de Constança, e sim porque Castela enfrentava dificuldades em suas lutas próximas ao Estreito de Gibraltar, com os muçulmanos concentrados no sul da Península Ibérica, e não teve alternativa o rei castelão senão pedir socorro a Afonso IV.
-Constança, enfim, foi liberada para dirigir-se a Portugal. Sua união com Pedro consolidou-se com o matrimônio de agosto de 1340 na Sé de Lisboa,
-e, já nas horas seguintes às cerimônias nupciais, o Rei-Guerreiro pôde partir para as terras do sul, a fim de ajudar o soberano castelão, destacando-se como o herói da Batalha do Salado.
+Assumira o reino em 1325, com a morte de D. Dinis. ( † ) As lutas contra a invasão moura prosseguiam após o decesso do pai, embora já mais distantes de Portugal, e teriam seu epílogo quinze anos depois de sua posse, com a Batalha do Salado ( † ) ao sul da Península, praticamente cessando, então, o envolvimento árabe na região.
+Em 1328 casara sua filha dileta, Maria, a Formosa, ( † ) com o rei da vizinha Castela, Afonso Onzeno, ( † ) que a repudiaria dois anos depois para viver com Leonor de Gusmão, ( † ) não obstante dividisse sua alcova com ambas, tendo delas filhos reis que o sucederam.
+Ao longo da década de 1330, tivera Afonso IV outro problema com Afonso Onzeno, dessa vez ligado ao casamento contratado para o filho.
+Logo no início dos anos 30, acertara D. Afonso IV o matrimônio de Constança Manoel ( † ) — que o rei castelão havia repudiado no princípio de seu reinado — com seu filho Pedro, ( † ) o herdeiro do trono. Mas, para conseguir trazê-la a Portugal, precisou encetar, em 1336, guerra de quase quatro anos contra Afonso Onzeno.
+Mesmo assim, o conflito apenas terminou porque Castela enfrentava dificuldades em suas lutas com os muçulmanos concentrados próximo ao Estreito de Gibraltar, ao sul da Península Ibérica, e não teve alternativa o rei castelão senão socorrer-se de Afonso IV.
+Constança, enfim, foi liberada para dirigir-se a Portugal. Sua união com Pedro consolidou-se em agosto de 1340, na Sé de Lisboa, ( † ) e, pouco tempo depois das cerimônias nupciais, o Rei-Guerreiro pôde partir para as terras do sul, a fim de ajudar o soberano castelão, destacando-se como o herói da Batalha do Salado. ( † )
 Tudo isso, no entanto, era passado, e, apreensivo, naqueles momentos de reflexão, Afonso IV por vezes desviava o olhar perdido dos campos de Montemor-o-Velho para o interior do palácio, onde se realizaria, em poucos minutos, a reunião extraordinária com seus conselheiros. Mas as recordações do passado não o deixavam…
-Justamente quando imaginava poder dedicar-se às questões administrativas do reino, após o casamento do filho e o sucesso das refregas no sul, eis que surge um novo problema:
-Na Catedral de Lisboa, Pedro, em vez de envolver-se com as cerimônias ao lado da futura esposa, não conseguia despegar os olhos a Inês, dama de companhia de Constança.
-O insucesso do casamento de Pedro e sua inesperada paixão por Inês de Castro
-atormentavam-no muito, por razões de natureza política, sobretudo as alianças celebradas em decorrência do matrimônio contratado com a vizinha Castela.
-Nada separava Pedro de Inês, e o rei chegou, alguns anos depois, em 1344, a exilar a jovem galega em território castelão, no Solar dos Albuquerques.
-Sem resultado…
-Os contatos continuaram e, com a morte de Constança, em fins de 1345, decorrente do parto de Fernando,
-D. Pedro vai buscar Inês em Albuquerque, logo no início de 1346, e juntos passam a viver pelos dez anos seguintes, contrariando o príncipe os apelos do pai.
-O casal procura isolar-se da corte, próximo ao mar, a oeste da região central de Portugal, e posteriormente ao Norte, na Quinta de Canidelos, em Vila Nova de Gaia,
-na foz do Douro.
-Pedro, em 1354, deixa, porém, o estratégico anonimato e muda-se para Coimbra, vivendo com Inês e os filhos no Paço de Santa Clara,
-tornando-se o casal mais visível ao reino.
-Os irmãos de Inês ali se hospedavam com frequência, constituindo-se, assim, de certa forma, um simulacro de pequena corte estrangeira dentro de Portugal.
-Era demais para o rei, também às voltas com a recente Peste Negra,
-cujas consequências — os ingentes sofrimentos à população do reino — ainda enfrentava.
+Justamente quando imaginava poder dedicar-se às questões administrativas do reino, após o casamento do filho e o sucesso das refregas no sul, eis que surge uma nova dificuldade: na Catedral de Lisboa, Pedro, em vez de envolver-se com as cerimônias ao lado da futura esposa, não conseguia despegar os olhos a Inês, dama de companhia de Constança.
+O insucesso do casamento de Pedro e sua inesperada paixão por Inês de Castro ( † ) atormentavam-no muito, por razões de natureza política, sobretudo as alianças celebradas em decorrência do matrimônio contratado com a vizinha Castela.
+Nada separava Pedro de Inês, e o rei chegou, alguns anos depois, em 1344, a exilar a jovem galega em território castelão, no Solar dos Albuquerques. Sem resultado…
+Os contatos continuaram e, com a morte de Constança, em fins de 1345, decorrente do parto de Fernando, ( † ) D. Pedro vai buscar Inês em Albuquerque, logo no início de 1346, e juntos passam a viver pelos dez anos seguintes, contrariando o príncipe os apelos do pai.
+O casal procura isolar-se da corte, próximo ao mar, a oeste da região central de Portugal, e posteriormente ao Norte, na Quinta de Canidelo, em Vila Nova de Gaia, ( † ) na foz do Douro.
+Pedro, em 1354, deixa, porém, o estratégico anonimato e muda-se para Coimbra, vivendo com Inês e os filhos no Paço de Santa Clara, ( † ) tornando-se o casal mais visível ao reino.
+Álvaro, o irmão de Inês, e o primo João Afonso ali se hospedaram, constituindo-se, assim, de certa forma, no Paço da Rainha, um simulacro de pequena corte estrangeira em Portugal.
+Era demais para o rei, também às voltas com a recente Peste Negra, ( † ) cujas consequências — os ingentes sofrimentos à população do reino — ainda enfrentava.
 Excogitações políticas de toda natureza o preocupavam. Assombravam-no a proximidade afetiva de Pedro com Castela e o eventual risco de um dos filhos do infortunado casal se tornar, no futuro, rei de Portugal.
 Era preciso decidir sobre aquela união espúria, segundo os seus conceitos rígidos, que o futuro mostrou serem baldos de razão.
-Com a cabeça envolvida nesse mar de apreensões, inquieto, a passos lentos, o rei de estatura gigante e habituado a decisões firmes voltou à sala do Paço Real.
+Com a cabeça envolvida nesse mar de apreensões, inquieto, a passos lentos, o rei de estatura gigante e habituado a decisões firmes voltou à sala do Paço Real. ( † )
 Aguardavam-no para a reunião adrede convocada os membros de seu conselho real a fim de juntos definirem a sorte de Inês.
-O processo encerrou-se rapidamente. Não teve começo, meio ou fim. A ponderação e o sentimento não estavam efetivamente presentes ao soturno diálogo entre o rei e seus conselheiros. Três deles insistiram na condenação da jovem mãe: Diogo Lopes Pacheco,
-Álvaro Gonçalves
-e Pero Coelho.
-Determinou-se que Inês seria degolada, e com rapidez, pois o rei já sabia que o príncipe se ausentaria de Coimbra para caçar, como era do seu gosto, acompanhado do cunhado Álvaro Pires de Castro.
+O processo encerrou-se rapidamente. Não teve começo, meio ou fim. A ponderação e o sentimento não estavam efetivamente presentes ao soturno diálogo entre o rei e seus conselheiros. Três deles insistiram na condenação da jovem mãe: Diogo Lopes Pacheco, ( † ) Álvaro Gonçalves ( † ) e Pero Coelho. ( † )
+Determinou-se que Inês seria degolada, e com rapidez, pois o rei já sabia que o príncipe se ausentaria de Coimbra para caçar, como era do seu gosto, acompanhado do cunhado Álvaro Pires de Castro. ( † )
 Nas páginas seguintes, surgem, em toda a sua dor, a tragédia e seus desdobramentos.
 
 ---
 
-## 4 — A Dor
+## 4
 
 Após a triste manhã de 7 de janeiro de 1355, pairava sobre Portugal uma atmosfera carregada de nuvens ameaçadoras, antecipando décadas de incertezas. Não havia alegria, os dias se tornaram cinzentos, o sol se recolhera. A vida corria tensa, pesada…
-De fato, o ano se iniciara pleno de prenúncios nada animadores para o príncipe herdeiro
-e Inês de Castro.
-Naquele trágico 7 de janeiro de meados do século XIV, a Idade Média seguia seu rumo, já distante da noite medieval que assinalou o período de 400 a 800 d.C., trazendo em seu bojo a conquista da definição de algumas nacionalidades ocidentais, como ocorreu com a antiga Lusitânia.
-A dinastia dos Afonsos
-estava no seu apogeu. Alcançada a estabilidade político-administrativa do reino, sobretudo após a expulsão dos mouros, definida pela Batalha do Salado,
-Portugal caminhava com a mansa tranquilidade das águas do Mondego.
-Suas fronteiras internas já delineadas e as bandas ocidentais abrindo-se para o mundo desconhecido favoreciam a saga dos desbravadores marítimos, preparada com descortino por D. Dinis,
-com a semeadura dos pinhais da Leiria.
-Inês já não vivia, brutalmente decapitada que fora pela incompreensível decisão de Afonso IV,
-sustentada nas sempre frias e convenientes razões de Estado.
-O corpo inerte, carinhosamente recomposto e vestido por piedosa freira do Convento de Santa Clara,
-aguardava a prevista chegada de D. Pedro, o I de Portugal,
-retornando da então tradicional caçada nos arredores de Coimbra, a que se lançara com o cunhado e pequeno séquito.
-O infante, mesmo advertido por Inês dias antes e, nos últimos tempos, por sua mãe, a rainha Beatriz,
-e amigos próximos, a respeito do risco que a companheira corria, fora tranquilo à festiva caçada em Penacova
-e imaginava, pressuroso, voltar e rever Inês e os filhos.
-Inês, contudo, repousava no Plano Espiritual, diretamente socorrida por Isabel de Aragão, a Rainha Santa.
+De fato, o ano se iniciara pleno de prenúncios nada animadores para o príncipe herdeiro ( † ) e Inês de Castro. ( † )
+Naquele trágico 7 de janeiro de meados do século XIV, a Idade Média seguia seu rumo, já distante da noite medieval que assinalou o período de 400 a 800 d.C., trazendo em seu bojo a conquista da definição de algumas nacionalidades ocidentais, como ocorreu com a antiga Lusitânia. ( † )
+A dinastia dos Afonsos ( † ) estava no seu apogeu. Alcançada a estabilidade político-administrativa do reino, sobretudo após a expulsão dos mouros, definida pela Batalha do Salado, ( † ) Portugal caminhava com a mansa tranquilidade das águas do Mondego. ( † ) Suas fronteiras internas já delineadas e as bandas ocidentais abrindo-se para o mundo desconhecido favoreciam a saga dos desbravadores marítimos, preparada com descortino por D. Dinis, ( † ) com a semeadura dos pinhais da Leiria. ( † )
+Inês já não vivia, brutalmente decapitada que fora pela incompreensível decisão de Afonso IV, ( † ) sustentada nas sempre frias e convenientes razões de Estado.
+O corpo inerte, carinhosamente recomposto e vestido por piedosa freira do Convento de Santa Clara, ( † ) aguardava a prevista chegada de D. Pedro, o I de Portugal, ( † ) retornando da então tradicional caçada nos arredores de Coimbra, a que se lançara com o cunhado e pequeno séquito.
+O infante, mesmo advertido por Inês dias antes e, nos últimos tempos, por sua mãe, a rainha Beatriz, ( † ) e amigos próximos, a respeito do risco que a companheira corria, fora tranquilo à festiva caçada em Penacova ( † ) e imaginava, pressuroso, voltar e rever Inês e os filhos.
+Inês, contudo, repousava no Plano Espiritual, diretamente socorrida por Isabel de Aragão, a Rainha Santa. ( † )
 Aos motivos que embasaram o cerne da determinação amarga de D. Afonso IV voltaremos a nos referir mais tarde.
 São o corolário das paixões humanas, do poder e das arcanas razões de Estado que deságuam em decisões inapagáveis na consciência de quem as perpetrou.
 Vamos à descrição do triste acontecimento segundo o relato da história e as informações espirituais.
 
 ---
 
-## 5 — Ainda a dor
+## 5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 O Natal de 1354 fora festivo no Paço de Santa Clara, ( † ) em Coimbra.
+2 Álvaro Pires de Castro, ( † ) irmão de Inês, viera com os amigos, alguns deles, ao lar do Infante D. Pedro, ( † ) onde a noite de entretenimentos familiares fora linda.
+3 As castanhas, os doces regionais, os pastéis natalinos e os vinhos antigos enriqueciam as mesas. Falava-se da política de Portugal e de Castela com anedotários de intimidade.
+4 O futuro rei de Portugal ouvia interessado as informações do irmão de sua companheira. E, por fim, ambos não hesitavam em concordar que Tereza Lourenço ( † ) — jovem nascida na Galiza e sobrinha de D. Aldonça Lourenço, que fora mãe de Inês de Castro ( † ) com o fidalgo Pedro Fernandes de Castro, ( † ) que não lhe era o marido — era menina de rara beleza que nem D. Pedro e nem D. Álvaro, mesmo na condição de parente, deixavam de admirar.
+5 Tereza Lourenço viera a Coimbra muito de ligeiro e voltara aos familiares, deixando uma onda de indisfarçável simpatia. O assunto não passou despercebido a Inês de Castro, cuja mente se turvava com os problemas que se lhe multiplicavam na vida.
+6 O Ano Novo chegara igualmente em clarões de alegria, mas, a quatro de janeiro de 1355, D. Pedro e D. Álvaro concordaram em que promoveriam as primeiras caçadas no dia seguinte.
+7 O tempo convidava. As manhãs ensolaradas sucediam-se umas às outras. Preparavam-se matilhas de cães, prateavam-se os estribos para as montarias.
+8 Cavaleiros auxiliares adestravam cavalos, e as aias iam e vinham, improvisando os pratos que serviriam por bases de merenda à real caravana.
+9 À noite, D. Pedro recolheu-se à câmara do casal, mais cedo que de costume, pois via nos olhos da companheira uma tristeza vaga, que ele não conseguira compreender.
+10 Interpelando-a, Inês explicou-se:
+— Pedro, disse medrosamente, não sei o que se passa. Tenho o coração mergulhado em amargos pressentimentos.
+11 Os fidalgos, de modo geral, me odeiam a presença, conquanto mostrem a você mascarados sorrisos.
+12 A sua ausência, mesmo por dias curtos, me apavora. Em Coimbra, temos espiões diversos de Pero Coelho, ( † ) hoje guindado à posição de conselheiro de El-Rei D. Afonso, ( † ) que me observam todos os passos.
+13 Respeitarão o futuro rei de Portugal, que é você, mas não respeitarão a mim, não obstante saberem que sou mãe de seus filhos. Incapaz de obter o que desejava de mim, desde os tempos de D. Constança, ( † ) Pero Coelho não vacilará em vingar-se…
+14 As tramas dos inimigos, as complicações de Estado, a aversão da realeza em meu desfavor, o futuro de nossos filhos, as incertezas que me apavoram, ah! Pedro, tudo isso…
+15 E porque a companheira chorasse copiosamente, D. Pedro reanimou-a:
+— Inês, estará você doente, porventura? Tantas lágrimas por dois a três dias de caça em companhia de seu próprio irmão?
+Ninguém se atreverá a incomodá-la… Pero Coelho não terá coragem de endereçar a você qualquer gracejo. Ele pagaria um preço caro demais por isso…
+16 — Mas outros receios me invadem murmurou a companheira — temo igualmente por você…
+— Por mim?
+17 — Pela primeira vez, depois de nossa união, vi seus olhos brilharem com carinho por outra mulher…
+— Quem seria ela, se somente você está em meu pensamento, dia e noite? — perguntou o infante, surpreendido.
+— Tereza Lourenço, ( † ) a sobrinha de minha verdadeira mãe, que me impôs a condição de bastarda — informou Inês, chorosa.
+18 D. Pedro coçou a cabeça e explicou:
+— Juro que isso teria sido alguma coincidência. Vi alguma cousa de seus traços nessa jovem galega, que nasceu sob o mesmo céu que amparou seu berço. Nada mais que isso.
+19 E, franzindo o cenho para demonstrar a sua austeridade de atitudes, D. Pedro acrescentou:
+— Inês, eu sou um homem como tantos outros e, em quaisquer circunstâncias difíceis, não negaria a minha condição, mas, embora não tendo nenhum propósito de separar-me de seu caminho, creia que, se um dia a morte se interpuser entre nós, nada nem ninguém poderá retirar você de minh’alma.
+20 E se, na condição de homem isolado, buscar o convívio com essa ou aquela mulher, isso seria o meu desespero em procurar inutilmente algum fragmento de sua própria imagem.
+Inês, não consigo arredá-la do pensamento, você é tudo para mim…
+21 Em seguida, abraçou-a, carinhosamente, acentuando:
+— Amo a você cada vez mais.
+— Oxalá seja assim! — falou Inês entre lágrimas.
+22 No dia imediato, na manhã de sol, D. Pedro e D. Álvaro Pires de Castro, com grande séquito, seguiam para a caça.
+23 Inês, junto dos filhos e em companhia de Ana, fixou os dois cavaleiros que chefiavam a excursão até que desaparecessem ao longe, mas, em seguida, caminhou com dificuldade da varanda de pedra — em cujo balcão se debruçara — para dentro de casa, com a tristeza da véspera transformada em nuvem a lhe pesar no coração.
+24 Íntima intuição lhe prenunciava penosas ocorrências. Mal sabia que se achava na antevéspera de sua própria morte.
+25 Executada a machado, no cepo especialmente levado pelos executores da sentença, no pátio extenso do Paço de Santa Clara, pertencente à própria Quinta das Lágrimas, inutilmente rogou D. Inês para despedir-se dos filhos.
+26 Fixada a cabeça no cepo improvisado, ante às últimas estrelas que ainda luziam no lusco-fusco da manhã, Inês foi violentamente degolada.
+27 Por muitos dias, a perturbação alucinou-lhe a mente desencarnada, mas depois o ressentimento e a mágoa lhe tomaram o coração. Por mais que fosse insistentemente chamada pelas vozes do Mais Alto ao perdão das ofensas, Inês de Castro uniu-se a D. Pedro nos dias de revolta e de vingança.
+28 Quando a sedição do filho contra o poder paterno chegou às vizinhanças da cidade do Porto, é que a influência da Rainha Santa, desencarnada anos antes, atingiu-lhe o coração.
+29 Primeiro Isabel ( † ) induziu a nora, a rainha D. Beatriz, ( † ) a fazer a paz entre pai e filho, nas bases da abnegação e da humildade.
+30 E somente quando viu Pedro ( † ) render-se ao amor materno, em Marco de Canaveses, ( † ) sob a proteção e inspiração da grande Isabel, é que Inês, consciente de sua própria desencarnação, caiu também vencida pela humildade de Isabel, concordando em retirar-se da presença de D. Pedro — para que ele seguisse em seus novos empreendimentos — acolhendo-se nos braços maternais da Rainha Santa, saindo da paisagem portuguesa, orando e soluçando.
 
 ---
 
-## 6 — A Triste Realidade
+## 6
 
 Retornemos aos fatos recentes.
-Caçava o príncipe tranquilamente pelas bandas de Penacova,
-arredores de Coimbra, distante cerca de vinte quilômetros do Paço de Santa Clara.
-Na tarde de 7 de janeiro, D. Pedro
-servia-se da caça com os convidados, quando se ouviu ruidoso tropel.
+Caçava o príncipe pelas bandas de Penacova, ( † ) arredores de Coimbra, distante cerca de vinte quilômetros do Paço de Santa Clara. ( † ) Algo, no entanto, o incomodava interiormente.
+Na tarde de 7 de janeiro, D. Pedro ( † ) servia-se da caça com os convidados, quando se ouviu ruidoso tropel.
 Um cavaleiro recém-chegado, talvez a pedido de Ana, em desespero, insistiu em falar-lhe, a despeito dos amigos buscarem afastar o exausto desconhecido.
 Suado, agitado, o homem tanto implorou que o levaram à presença do infante.
 — O que quereis? — perguntou Pedro impaciente.
 — Senhor, desculpai-me, mas tenho algo muito grave a comunicar-vos.
 — Falai, então!
-— A Senhora D. Inês
-foi presa por decisão do rei, arrancada ao leito com muita violência. Parece que querem matá-la…
+— A Senhora D. Inês ( † ) foi presa por decisão do rei, arrancada ao leito com muita violência. Parece que querem matá-la…
 — Como? O que quereis dizer-me?
 O bom homem saíra tão apressado de Coimbra, que possivelmente ainda ignorasse o trágico desfecho.
 — Talvez haja tempo de Vossa Alteza salvá-la…
@@ -357,80 +284,49 @@ Um turbilhão de lembranças conturba sua mente, e o olhar fixo persegue um pont
 Atormentam-no as recentes preocupações de Inês — às quais não deu crédito — e as sábias admoestações maternas:
 — Cuidado, meu filho, as coisas não vão bem, tua companheira corre risco…
 — Por que não dei ouvidos às advertências de minha mãe? — verbera, escandindo as palavras, como se desejasse que todo o mundo ouvisse seu arrependimento.
-Também as ponderações do amigo Álvaro Pereira,
-na última vez em que se encontraram, insistiam em acompanhá-lo naqueles momentos:
+Também as ponderações do amigo Álvaro Pereira, ( † ) na última vez em que se encontraram, insistiam em acompanhá-lo naqueles momentos:
 — Pedro, fica atento às decisões que a Corte pode tomar. O rei anda muito preocupado: tuas ligações com Inês o assustam…
 Já consumada a decapitação de Inês, eis que vemos Pedro — ainda desconhecendo a extensão do ocorrido — retornar a Coimbra sem os troféus da desafortunada caçada.
 Envolvido pela avalanche de ideias que não consegue sufocar e extenuado pela longa cavalgada, chega ao palácio real nas primeiras horas da noite.
-Aguarda o infante o corpo já frio de Inês, ataviado pela irmã do Convento de Santa Clara
-— a mesma religiosa que se tornaria amiga inseparável da jovem nos séculos vindouros.
 O desespero incontido o faz gritar por Inês, enquanto percorre as dependências do palácio, caminhando a passos vacilantes.
-Ao adentrar na alcova, encontra Ana, a fiel aia de Inês, com os cabelos grisalhos desbaratados e a alma cortada pela dor, e, junto dela, as crianças: Beatriz,
-a mais nova, no colo, e, agarrados à gentil senhora, João
-e Dinis
-— os três muito pequenos ainda para compreenderem o ocorrido.
-Ana, que tudo fizera para dissuadir Pero Coelho
-de executar a cruel sentença, quedava-se com os olhos parados a contemplar o futuro rei.
-Foi tão comovente o que se passou após Pedro constatar a dimensão da tragédia ocorrida que, a seguir, pela sua aguda sensibilidade, vamos reproduzir,
-, o difícil diálogo entre Pedro e Ana, segundo Mário Domingues:
-Nascia um outro D. Pedro, mergulhado na ideia de vingança, o que era tradição e constava das leis consuetudinárias da época com o nome de
-, herança dos visigodos.
+Ao adentrar na alcova, encontra Ana, a fiel aia de Inês, com os cabelos grisalhos desbaratados e a alma cortada pela dor, e, junto dela, as crianças: Beatriz, ( † ) a mais nova, no colo, e, agarrados à gentil senhora, João ( † ) e Dinis ( † ) — os três muito pequenos ainda para compreenderem o ocorrido. Ana, que tudo fizera para dissuadir Pero Coelho ( † ) de executar a cruel sentença, quedava-se com os olhos parados a contemplar o futuro rei. Informou-o, sem delongas, em lágrimas, que Inês estava na igreja do convento.
+Aguarda o infante o corpo já frio de Inês, ataviado pela irmã do Convento de Santa Clara ( † ) — a mesma religiosa que se tornaria amiga inseparável da jovem nos séculos vindouros.
+Foi tão comovente o que se passou após Pedro constatar a dimensão da tragédia ocorrida que, a seguir, pela sua aguda sensibilidade, vamos reproduzir, ipsis litteris, o difícil diálogo entre Pedro e Ana, segundo Mário Domingues:
+— É verdade? — Interrogou ele, num grito de desespero.
+Ana limitou-se a confirmar, com um movimento vagaroso e triste da cabeça encanecida. Lançou-se, então, pelos corredores, cujas abóbadas ressoavam em medonhos ecos, a urrar como fera mal ferida:
+— Vingança!… Vingança!…
+E de chofre caiu no lajedo, a contorcer-se horrivelmente, olhos alucinados, mãos crispadas, dentes cerrados e lábios brancos de escuma. A febre apossara-se dele. Durante muitos dias, perdera a noção das coisas deste mundo. Quando despertou, só uma ideia lhe enchia a mente: vingar-se.
+Nascia um outro D. Pedro, mergulhado na ânsia de vingança, o que era tradição e constava das leis consuetudinárias da época com o nome de direito de revindita, herança dos visigodos.
 A legislação aceita permitia a vingança em grau muito maior, como compensação da dor sofrida.
 Era tão forte, sobretudo na Península Ibérica, essa figura de ódio constante do Direito Consuetudinário da Europa, que se falava a respeito: mais que direito, a vingança era um dever.
-Entretanto, apesar de ser um homem da época, obrigatoriamente afeito às regras do comportamento medieval, algo mais profundo começava a agitar-se em seu espírito: a influência da Rainha Santa,
-que recolhera Inês no Plano Espiritual e assistia o neto nas trevas em que se encontrava, buscando asserenar-lhes o coração.
-Mais adiante, descreveremos a insânia que tomou conta do reino de Portugal, até há pouco vivendo invejável estabilidade sob o comando firme e sereno de Afonso IV,
-que, porém, provocou, com seu ato violento, o desencadeamento de uma guerra civil com saques, mortes e sofrimento.
+Entretanto, apesar de ser um homem da época, obrigatoriamente afeito às regras do comportamento medieval, algo mais profundo começava a agitar-se em seu espírito: a influência da Rainha Santa, ( † ) que recolhera Inês no Plano Espiritual e assistia o neto nas trevas em que se encontrava, buscando asserenar-lhes o coração.
+Mais adiante, descreveremos a insânia que tomou conta do reino de Portugal, até há pouco vivendo invejável estabilidade sob o comando firme e sereno de Afonso IV, ( † ) que, porém, provocou, com seu ato violento, o desencadeamento de uma guerra civil com saques, mortes e sofrimento.
 Somente a intervenção de Isabel de Aragão, do Plano Espiritual, pôde modificar o quadro.
-Trabalhou diuturnamente para que, alguns meses depois, a cinco de agosto de 1355, fossem assinadas, na vizinhança do Porto, as Pazes de Canaveses,
-ato jurídico que reaproximaria pai e filho, salvando Portugal de um conflito de imensas proporções.
+Trabalhou diuturnamente para que, alguns meses depois, a cinco de agosto de 1355, fossem assinadas, na vizinhança do Porto, as Pazes de Canaveses, ( † ) ato jurídico que reaproximaria pai e filho, salvando Portugal de um conflito de imensas proporções.
 
 ---
 
-## 7 — As Razões de Estado para a Morte de Inês de Castro
+## 7
 
-Quais as aparentes razões que levaram D. Afonso IV
-a intervir na vida afetiva do filho de modo tão violento, desconcertando, de início, até Diogo Lopes Pacheco,
-conselheiro real e um dos partidários da tese de que Inês deveria ser eliminada?
+Quais as aparentes razões que levaram D. Afonso IV ( † ) a intervir na vida afetiva do filho de modo tão violento, desconcertando, de início, até Diogo Lopes Pacheco, ( † ) conselheiro real e um dos partidários da tese de que Inês deveria ser eliminada?
 Como já foi ponderado, são efetivamente razões de Estado.
-Sabemos que Pedro não era casado com Inês de Castro.
-Unira-se a ela depois do falecimento de sua esposa, Constança Manoel.
+Sabemos que Pedro não era casado com Inês de Castro. ( † ) Unira-se a ela depois do falecimento de sua esposa, Constança Manoel. ( † )
 Em outro capítulo, falaremos mais desta nobre senhora, que afrontou em vida os amores do marido, sem exprobar-lhe o comportamento.
-No momento, é importante lembrar que da união entre Pedro e Constança nascera o futuro delfim: Fernando,
-filho varão do príncipe herdeiro.
-Pois bem, havia a preocupação com o fato de D. Pedro
-e Inês terem filhos, e de o mais velho, João,
-poder ser guindado à condição de herdeiro em detrimento de Fernando, cujo assassínio imaginavam alguns conselheiros de Afonso IV ser até possível, hipótese que o tempo mostrou não ter sentido algum.
+No momento, é importante lembrar que da união entre Pedro e Constança nascera o futuro delfim: Fernando, ( † ) filho varão do príncipe herdeiro.
+Pois bem, havia a preocupação com o fato de D. Pedro ( † ) e Inês terem filhos, e de o mais velho, João, ( † ) poder ser guindado à condição de herdeiro em detrimento de Fernando, cujo assassínio imaginavam alguns conselheiros de Afonso IV ser até possível, hipótese que o tempo mostrou não ter sentido algum.
 A partir de 1357, assumindo o poder real, Pedro jamais contestou a sua natural substituição por Fernando, que ademais era também seu filho.
-Voltando às razões alegadas para a morte de Inês, em decorrência de sua origem galega, eram sim mais consistentes as preocupações com os liames entre Pedro e Castela,
-povo vizinho de língua castelhana.
-Temia D. Afonso IV que o príncipe herdeiro jogasse por terra a independência conquistada com tantas lutas, desde os tempos de Pelágio
-e mantida com coerência pelos bravos herdeiros de Afonso Henriques,
-o fundador da dinastia afonsina no século XII.
-No entanto, os princípios da realeza e as regras que definiam a substituição do rei eram respaldados na longa experiência das dinastias merovíngea
-e carolíngea
-na França e consolidados na hierarquia dos capetos.
-Dificultavam qualquer contestação quanto à natural sucessão do trono.
+Voltando às razões alegadas para a morte de Inês, em decorrência de sua origem galega, eram sim mais consistentes as preocupações com os liames entre Pedro e Castela, ( † ) povo vizinho de língua castelhana.
+Temia D. Afonso IV que o príncipe herdeiro jogasse por terra a independência conquistada com tantas lutas, desde os tempos de Pelágio ( † ) e mantida com coerência pelos bravos herdeiros de Afonso Henriques, ( † ) o fundador da dinastia afonsina no século XII.
+No entanto, os princípios da realeza e as regras que definiam a substituição do rei eram respaldados na longa experiência das dinastias merovíngea ( † ) e carolíngea ( † ) na França e consolidados na hierarquia dos capetos. ( † ) Dificultavam qualquer contestação quanto à natural sucessão do trono.
 Esses princípios e regras faziam parte da estrutura de poder que definiu nos povos de então, mormente na Europa Ocidental, as bases do seu nacionalismo e seus limites geográficos.
 Além da já descrita preocupação de Afonso IV com a vida do neto, Fernando, vamos arrolar outras razões consideradas:
-Afonso IV temia que, no futuro, D. Fernando Ruiz de Castro
-e D. Álvaro Pires de Castro,
-amigos do filho, ocupassem algum posto de relevância na administração real, o que poderia comprometer, na sua visão, a independência de Portugal.
+Afonso IV temia que, no futuro, D. Fernando Ruiz de Castro ( † ) e D. Álvaro Pires de Castro, ( † ) amigos do filho, ocupassem algum posto de relevância na administração real, o que poderia comprometer, na sua visão, a independência de Portugal.
 Realmente a solidariedade dos difíceis momentos que envolveram a morte de Inês levou D. Pedro a prestigiar os cunhados em seu reinado, de modo especial Álvaro Pires de Castro, posto que o irmão tenha se dedicado às questões castelãs até o fim de seus dias.
-Aliás, Álvaro, anos mais tarde, seria designado 1° condestável do reino
-(
-Ver nota no final do capítulo.
-) por Fernando
-— filho e sucessor de D. Pedro,
-sem que nada pudesse fazer D. Afonso IV, já há muito falecido…
-Estudiosos observam que teria irritado o rei português a suposta adesão de Pedro,
-em 1354, ao projeto de assumir o trono castelão em substituição ao sobrinho, também de nome Pedro,
-neto de Afonso IV, que enfrentava difícil crise de governo. Cogita-se que o príncipe apoiaria a ideia defendida por um grupo de nobres de ambos os reinos.
-Seu intento improvável de reivindicar Castela acabaria sepultado, entre outras razões, pela firme posição do pai e pela morte do primo João Afonso de Albuquerque,
-um dos líderes da revolta, envenenado no mesmo ano (1354), portanto antes da execução de Inês.
+Aliás, Álvaro, anos mais tarde, seria designado 1º condestável do reino n por Fernando ( † ) — filho e sucessor de D. Pedro, ( † ) sem que nada pudesse fazer D. Afonso IV, já há muito falecido…
+Estudiosos observam que teria irritado o rei português a suposta adesão de Pedro, ( † ) em 1354, ao projeto de assumir o trono castelão em substituição ao sobrinho, também de nome Pedro, ( † ) neto de Afonso IV, que enfrentava difícil crise de governo. Cogita-se que o príncipe apoiaria a ideia defendida por um grupo de nobres de ambos os reinos.
+Seu intento improvável de reivindicar Castela acabaria sepultado, entre outras razões, pela firme posição do pai e pela morte do primo João Afonso de Albuquerque, ( † ) um dos líderes da revolta, envenenado no mesmo ano (1354), portanto antes da execução de Inês.
 Por que então matar a bela galega, que vivia para os filhos queridos ainda tão pequenos, se a amotinação supostamente endossada por Pedro fracassara?
-Argumenta-se, sem respaldo histórico, que o infeliz casamento, celebrado entre Pedro de Castela
-e a irmã de Inês, Joana de Castro, em 1354, seria mais um complicador na política da Península Ibérica. Aumentaria a influência dos Castro em Portugal.
+Argumenta-se, sem respaldo histórico, que o infeliz casamento, celebrado entre Pedro de Castela ( † ) e a irmã de Inês, Joana de Castro, em 1354, seria mais um complicador na política da Península Ibérica. Aumentaria a influência dos Castro em Portugal.
 O enlace pouco durou.
 Teria alguma consistência, como fator de contribuição à tragédia medieval, a posição de alguns conselheiros do rei, que temiam, com a ascensão de Pedro e a influência dos irmãos de Inês de Castro em seu governo, a perda das posições e dos títulos que conquistaram à sombra de Afonso IV.
 Pedro, reservado, pouco comunicativo, não inspirava confiança ao pai, a despeito de sua longa preparação para substituí-lo quando o determinasse a Providência Divina — dava-se na época particular atenção à formação dos príncipes, em especial dos herdeiros, já que deveriam estar aptos desde jovens para a sucessão real.
@@ -439,343 +335,177 @@ Mas não podemos deixar de considerar possíveis razões de natureza espiritual,
 Inês imolou-se pelo seu espírito missionário, voltado à causa de Jesus, ou por algum compromisso do passado?
 Penso que por missão redentora para auxiliar, com sua renúncia, almas ainda envolvidas em difíceis compromissos cármicos.
 Inês, em verdade, trazia no espírito a certeza do que ocorreria, como relata em sugestiva mensagem que consta do livro, na qual evidencia graves apreensões sobre seu futuro em Portugal.
-A intuitiva preocupação de Afonso IV, com relação ao filho, não aconteceu, mas ocorreria bem mais tarde, no fim do reinado do neto, D. Fernando,
-como o leitor pode observar no
-capítulo
-que se inicia na página 96.
+A intuitiva preocupação de Afonso IV, com relação ao filho, não aconteceu, mas ocorreria bem mais tarde, no fim do reinado do neto, D. Fernando, ( † ) como o leitor pode observar no capítulo que se inicia na página 96.
 O curto governo de Pedro surpreendeu e dissipou todas as dúvidas improcedentes que levaram Afonso IV a ordenar a decapitação da bela Inês.
 Ao tomar essa infeliz decisão, acendeu D. Afonso IV a caldeira da revolta que enlutou por meses o já extenuado povo português.
-A nação vinha desgastada pela peste,
-pelos conflitos bélicos, então rotineiros, e pelo rigor da recente guerra aos mouros, particularmente marcada pela Batalha do Salado,
-em que o gênio guerreiro de Afonso IV
-socorreu Afonso Onzeno
-de Castela, derrotando os sarracenos e expulsando-os da Península.
+A nação vinha desgastada pela peste, ( † ) pelos conflitos bélicos, então rotineiros, e pelo rigor da recente guerra aos mouros, particularmente marcada pela Batalha do Salado, ( † ) em que o gênio guerreiro de Afonso IV ( † ) socorreu Afonso Onzeno ( † ) de Castela, derrotando os sarracenos e expulsando-os da Península.
 
 ---
 
-## 8 — As Pazes de Canaveses
+## 8
 
 Bem, voltemos a Coimbra.
-Inês já fora sepultada no Convento de Santa Clara,
-Ana, a prestimosa aia, cuidava das crianças, e a vida voltava à normalidade na bucólica cidade sacudida pela inusitada violência: a morte da jovem, arrancada covardemente, antes do amanhecer, do leito em que repousava e aos filhos que amava.
+Inês já fora sepultada no Convento de Santa Clara, ( † ) Ana, a prestimosa aia, cuidava das crianças, e a vida voltava à normalidade na bucólica cidade sacudida pela inusitada violência: a morte da jovem, arrancada covardemente, antes do amanhecer, do leito em que repousava e aos filhos que amava.
 E os outros personagens diretamente envolvidos?
 Estamos em março de 1355, dois meses após a morte de Inês.
-D. Afonso
-não conseguia assimilar a tragédia que determinara
-[uso da força armada] contra a nora desprotegida.
+D. Afonso ( † ) não conseguia assimilar a tragédia que determinara manu militari contra a nora desprotegida.
 Já velho, cabelos enevoados, passando dos 60 anos, extenuado e sentindo o fim aproximar-se, não estava à vontade. Meditava…
-
-O remorso, caçador de feras
-, na sábia definição de Guerra Junqueiro, tomava corpo em sua consciência.
-Pedro,
-na pequena e informal corte improvisada em Coimbra, transido de ódio, aparentava-se, contudo, mais conformado, mais sereno.
-Recebia os amigos mais próximos, em especial os cunhados Fernando
-e Álvaro,
-que não tinham abandonado o casal desde sua chegada a Coimbra, em 1354, alguns anos após Inês
-retornar a Portugal do exílio no
-Castelo dos Albuquerques
-, em Castela, na região conhecida por Estremadura espanhola.
+O remorso, caçador de feras, na sábia definição de Guerra Junqueiro, tomava corpo em sua consciência.
+Pedro, ( † ) na pequena e informal corte improvisada em Coimbra, transido de ódio, aparentava-se, contudo, mais conformado, mais sereno.
+Recebia os amigos mais próximos, em especial o cunhado Álvaro, ( † ) Sempre os mesmos que não abandonaram o casal desde sua chegada a Coimbra, em 1354, alguns anos após Inês ( † ) retornar a Portugal do exílio no Castelo dos Albuquerques, em Castela, na região conhecida por Estremadura espanhola.
 Estabeleceu-se um vácuo de relacionamento entre o rei e o filho, ensejando intrigas e conchavos de bastidor, que muito contribuíram para a explosão da violência implacável, urdida nas sombras.
 Como já dissemos, Pedro decidiu usar o direito de revindita, apoiando sua consciência no Direito Consuetudinário Europeu para vingar a morte da companheira.
 Associaram-se-lhe os irmãos Castro e outros nobres portugueses, ansiosos de poder. Consideravam estes, em suas meditações oportunistas, que o reinado de Afonso IV caminhava para o fim, devido à idade do soberano, que realmente veio a falecer pouco depois, no início de 1357, aos 66 anos.
-Pior ainda, hordas de malfeitores contumazes aproveitadores do saque e da chacina, interessados no seu espólio — adensavam progressivamente as fileiras que se dirigiam ao Porto, a partir de Coimbra.
+Pior ainda, hordas de malfeitores — contumazes aproveitadores do saque e da chacina, interessados no seu espólio — adensavam progressivamente as fileiras que se dirigiam ao Porto, a partir de Coimbra.
 Nesse percurso, bandos de irresponsáveis, belicosos, muitos ainda ligados à tradição bárbara dos visigodos, incorporavam-se à triste caravana.
-De modo particular, foram saqueadas e destruídas as terras dos três conselheiros de Afonso IV [Diogo Lopes Pacheco,
-Álvaro Gonçalves
-e Pero Coelho.
-], coniventes com a execução de Inês.
+De modo particular, foram saqueadas e destruídas as terras dos três conselheiros de Afonso IV, n coniventes com a execução de Inês.
 Até o Porto, a população simples das regiões percorridas foi esmagada, submetida a padecimentos desnecessários, não por desejo do infante revoltado, e sim pela impossibilidade de controlar-se a turba que se aproveitara da decisão infeliz de Pedro.
 E o lado espiritual trabalhava…
-Jesus permitiu a Isabel de Aragão
-que diretamente interviesse, tranquilizando Inês, em princípio solidária às ideias de vingança de Pedro. Paulatinamente, sempre mais ligada à Rainha Santa, a jovem procurou envolver o coração do companheiro, retirando-o, assim, da violenta revolta e atenuando-lhe o ódio.
+Jesus permitiu a Isabel de Aragão ( † ) que diretamente interviesse, tranquilizando Inês, em princípio solidária às ideias de vingança de Pedro. Paulatinamente, sempre mais ligada à Rainha Santa, a jovem procurou envolver o coração do companheiro, retirando-o, assim, da violenta revolta e atenuando-lhe o ódio.
 Isabel agiu com tanta inspiração que Pedro chegava ao Porto, em junho de 1355, já bastante modificado, passados quatro meses da peregrinação destruidora. Estava diferente…
 Por vezes, nos raros momentos de repouso, quando descansava da faina a que se dedicava, vinha-lhe à mente a lembrança da avó, dos saudosos diálogos em sua juventude, quando Isabel o aconselhava muito sobre as responsabilidades de reinar.
 Falava-lhe a Rainha Santa da necessidade de amalgamar à administração real o amor a Deus e de sua consequência mais direta: o respeito à população que serviria quando D. Afonso deixasse a Terra.
-Certa noite, já muito próximo do Porto,
-protegido pelas barricadas levantadas precavidamente por Álvaro Pereira,
-o poderoso prior dos hospitalários (ordem religiosa com vocação militar), a presença de Isabel junto ao neto se fez mais marcante.
+Certa noite, já muito próximo do Porto, ( † ) protegido pelas barricadas levantadas precavidamente por Álvaro Pereira, ( † ) o poderoso prior dos hospitalários (ordem religiosa com vocação militar), a presença de Isabel junto ao neto se fez mais marcante.
 Isolara-se dos amigos, e, naqueles momentos de solidão, um leve torpor o envolveu. A lembrança da avó tão querida o fez adormecer.
 Sentiu-se transportado a um local desconhecido — talvez algum pouso celestial, de sutil beleza, onde a paisagem se revestia de colorido suave — e reviu a avó, que o abraçou demoradamente.
 Despertou convencido de que Isabel lhe dissera, entre outras palavras de alento e esperança:
 — Pedro, meu neto, reconcilia-te com teu pai. Ele sofre tanto! Se pudesse devolver-te-ia Inês e a paz que perdeste…
 Emocionado pela sensação da presença da avó a seu lado, Pedro lembrou-se dos momentos ainda tranquilos que vivera com Inês.
-E, no Plano Espiritual, ao lado de Isabel, vendo D. Pedro mais equilibrado, Inês recordou-se, palavra por palavra, de longa conversa que tivera com o infante naqueles saudosos instantes de muita expectativa, quando a paixão entre ambos começava a tornar-se realidade, malgrado sua posição de dama de companhia de D. Constança.
+E, no Plano Espiritual, ao lado de Isabel, vendo D. Pedro mais equilibrado, Inês recordou-se, palavra por palavra, de longa conversa que tivera com o infante naqueles saudosos instantes de muita expectativa, quando a paixão entre ambos começava a tornar-se realidade, malgrado sua posição de dama de companhia de D. Constança. ( † )
 Era um fim de tarde, e o sol se acomodava no poente. Pedro e Inês retornavam a casa um pouco adiante dos outros participantes do pequeno séquito.
 Assim se recorda Inês daquele diálogo:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 A marcha de volta a palácio se fez vagarosa. D. Pedro queria ouvir Inês, com respeito às ideias da avó Rainha Santa, para as quais não achava receptividade em outros entes queridos. E o poente parecia demorado, ensejando mais longo entendimento.
+2 — Inês, disse ele, você admite que minha avó Isabel ouvisse as vozes dos santos ou as vozes de outro mundo?
+— Admito. O próprio Cristo não falou com os apóstolos depois de ressuscitado?
+3 — Mas você, — falou D. Pedro, quase timidamente — você mesma já ouviu alguma cousa da parte daqueles que já se foram?
+— Não dos que já se foram, mas tenho tido ocorrências que me fazem pensar…
+4 — Pode, falar disso?
+— Muitas vezes, sonhei que o vi, muito antes de conhecê-lo, senhor! Sonhei que o encontrava e que o senhor me reconhecia.
+5 Às vezes, no sonho, eu fugia de sua presença, receando incomodá-lo, pois o via casado, embora, em despertando, não tivesse qualquer ideia de seu nome e do local de sua existência…
+6 Inês fez longa pausa, como quem não desejava exteriorizar tudo o que sentia, mas pareceu tomada de súbita deliberação e acentuou:
+— Posso falar o resto, senhor Infante? — Claro, disse D. Pedro, curioso.
+7 — Num dos sonhos últimos, antes de vir até Portugal, acompanhando a futura rainha, sua esposa, sonhei que eu não resistira… que me fizera sua mulher, mesmo sabendo que não estávamos agindo de acordo com as leis e com a Igreja… no sonho, eu me vi com os nossos filhos.
+8 E Inês ruborizou-se, enquanto o Infante sorria complacente.
+— Mas depois… depois… o sonho se transformou num pesadelo em que via homens me arrastando para o cepo… Ao ver-me de joelhos, ante o cutelo que se elevava para abater-se sobre mim, acordei num grito, em alta voz…
+9 D. Pedro riu-se e falou, claro:
+— No sonho a verdade está presente, mas no pesadelo a fantasia é indispensável. Se você, Inês, chegar a ter filhos, esses filhos serão meus, mas eu farei de você rainha, a meu lado, haja o que houver.
+10 — Senhor Infante, Inês retrucou, sorrindo, não estaremos sonhando acordados?
+— De modo nenhum. Minha avó D. Isabel plantou em meu coração, de tal modo, a ideia da justiça, que tudo penso raciocinando, antes de sentir quando falo. Minha ideia de lógica é uma espécie de medida em minha cabeça. Você não pertencerá a outro homem que não seja eu e, por isso, você será o que eu for.
+11 — Senhor Infante, aduziu Inês, não sei o que se passa… Às vezes, temo o futuro…
+— Nada tema, acrescentou o Infante, resoluto. Se os santos conversavam com minha avó e lhe diziam que devia preparar-me para executar a justiça, confesso a você, Inês, que ainda não me casei segundo a justiça.
+12 Casaram-me as razões de Estado, não as razões do meu coração. Minha vida de homem é solitária a dissipar-se em questões que não me falam à vida íntima. Estou sempre na multidão, cada vez mais sozinho.
+13 Meu relacionamento decorre de um dever, e o dever sem amor apenas agrava a solidão. Não acredita você que haja um casamento feito pelo coração?
+14 Se o matrimônio envolve em si a doação de nosso próprio corpo, onde está a justiça se entregamos, por imposição de outros, a pessoas que não queremos aquilo que nós somos?
+15 Se amo a você para fazê-la a esposa que eu quero, a futura rainha de Portugal será a Esposa do Estado, e você será a minha esposa mesmo, mãe de meus filhos, que nascerão livres das cadeias que sempre me prenderam o coração.
+16 E se nasci para ser justo, chegará o momento em que farei de você uma rainha autêntica, porque novas leis surgirão para que você, com justiça, me compartilhe a existência.
+17 Escutando-lhe as palavras que ardiam de sinceridade, Inês chorou, comovidamente, aparteando:
+— Senhor Infante, a sua palavra está iluminada por ideais muito altos, que os nossos compatriotas, seja de Galiza ( † ) ou de Portugal, ( † ) estão muito longe de compreender…
+— Serei justo, acentuou D. Pedro.
+18 — Mas, quando o povo não compreende o que seja a justiça, os reis e príncipes justos passam a ser considerados ditadores ou tiranos… Se o Senhor Infante quiser me transformar em sua esposa, por força de lei que o povo não entenda, é bem possível que a segunda parte do meu sonho se faça verdade… O pesadelo deixará de ser pesadelo para converter-se em realidade…
+19 D. Pedro sorriu e falou com graciosa ironia:
+— Então, nesse caso, você morreria por minha causa…
+— Por que não? Se devo morrer pela honra de seu nome, falou Inês, em tom profético, isso para mim não será morte, será simplesmente uma forma de demonstrar-lhe o amor com que o amo…
+— Isso nunca — atalhou o príncipe, isso nunca sucederá.
+20 E como se estivesse enxergando muito longe, num futuro que ele mesmo não saberia precisar, anotou com expressão de superioridade e de dor:
+— Se isso porventura acontecesse algum dia, eu a faria soberana de Portugal, mesmo depois de morta e, se alguém se atrevesse a lavrar qualquer sentença contra sua vida, levaria minha justiça até a vingança…
+21 Inês teve apenas tempo para dizer-lhe: — Pedro, amo a você cada vez mais… Os excursionistas estavam chegando de regresso ao paço.
+22 Mas D. Pedro, sem explicar a si mesmo porque o sonho de Inês com a ideia da morte o impressionara, solicitou de D. Ana, a camarista, lhe preparasse um aposento particular para uma entrevista, a sós com Inês, daí a uma hora, e, decorrido esse tempo, avisada pela servidora amiga, Inês se dirigiu para o local indicado, algo intrigada.
+23 O Infante compareceu transcorridos alguns minutos, trancou a porta, certificou-se de que ambos se encontravam desligados de todos e, tomando-a nos braços fortes, sussurou-lhe aos ouvidos:
+24 — Inês, você é minha esposa, minha esposa para sempre. viva ou morta, feliz ou infeliz, bastarda ou fidalga legítima, doente ou sã, eu quero você para mim, para mim somente.
+25 Você é minha alma… não me conte sonhos infelizes. Nunca, nunca mais. De qualquer forma, como você seja ou esteja, você é minha e será minha para sempre.
+26 Inês não conseguiu resistir à doce pressão daqueles braços que a retinham para o amado, para ele somente, e, enquanto D. Pedro a beijava, reiteradamente, embora trêmula de emoção, Inês reconheceu que, daquele momento em diante, os dois, ele e ela, estavam ligados um ao outro para sempre.
 E, inspirada pelos diálogos dos tempos felizes, acima transcritos, Inês se propôs a trabalhar, ao lado de Isabel, para apagar em Pedro as ideias de vingança.
-Já em julho, poucos meses após a perda da companheira, D. Pedro, os nobres que o acompanhavam, vindos de Coimbra,
-com o exército mal organizado, porém numeroso, e os cunhados, Fernando
-e Álvaro,
-descendo da Galiza,
-sitiaram o Porto.
+Já em julho, poucos meses após a perda da companheira, D. Pedro, os nobres que o acompanhavam, vindos de Coimbra, ( † ) com o exército mal organizado, porém numeroso, e os cunhados, Fernando ( † ) e Álvaro, ( † ) descendo da Galiza, ( † ) sitiaram o Porto. ( † )
 Segundo se depreende das crônicas da época, se conquistassem a cidade, estariam em posição bélica vantajosa com relação ao exército do rei. O futuro seria de difícil previsão, mas certamente a destruição e as mortes abateriam profundamente a gente lusitana.
-O guardião do Porto, como já se falou, era Álvaro Pereira,
-apoiado pelos seus frades soldados. Digno e querido por todos, dedicava a D. Pedro amizade antiga e fraternal. Um de seus filhos, Nuno Álvares Pereira,
-seria, para orgulho do reino, o herói da Batalha de Aljubarrota
-em 1385, consolidando o início da dinastia joanina.
+O guardião do Porto, como já se falou, era Álvaro Pereira, ( † ) apoiado pelos seus frades soldados. Digno e querido por todos, dedicava a D. Pedro amizade antiga e fraternal. Um de seus filhos, Nuno Álvares Pereira, ( † ) seria, para orgulho do reino, o herói da Batalha de Aljubarrota ( † ) em 1385, consolidando o início da dinastia joanina.
 Dizem os escritos que, para despertar no príncipe revoltado os sentimentos mais nobres, Álvaro Pereira colocou vários Pavilhões Nacionais, retirados às embarcações costeiras, sobre desprotegidas barricadas, que mandara levantar em defesa da cidade do Porto, no intuito de sensibilizar o amor pátrio do amigo invasor.
 As reiteradas intervenções espirituais da Rainha Santa e também a constante presença de Inês — agora distante dos impulsos de revolta que a envolveram meses antes — haviam transformado Pedro. Caminhando para os 36 anos, já o vemos mais calmo e amadurecido, cada dia menos envolvido com os propósitos desesperados de confrontar o pai.
-A atuação de sua mãe, D. Beatriz,
-até então aparentemente apagada no que se refere ao episódio, buscando sensibilizar o filho; as ponderações de Álvaro Pereira e as constantes lembranças dos tempos que passara com Inês na Quinta dos Canidelos,
-que insistentemente não lhe saíam da memória, levaram D. Pedro a entrevistar-se com D. Afonso,
-também ansioso pela paz.
-Com surpresa para seus seguidores, que desejavam o conflito, foram lavradas as Pazes de Canaveses,
-juridicamente respaldadas na legislação da época, a cinco de agosto de 1355, na presença de respeitáveis testemunhas.
+A atuação de sua mãe, D. Beatriz, ( † ) até então aparentemente apagada no que se refere ao episódio, buscando sensibilizar o filho; as ponderações de Álvaro Pereira e as constantes lembranças dos tempos que passara com Inês na Quinta dos Canidelos, ( † ) que insistentemente não lhe saíam da memória, levaram D. Pedro a entrevistar-se com D. Afonso, ( † ) também ansioso pela paz.
+Com surpresa para seus seguidores, que desejavam o conflito, foram lavradas as Pazes de Canaveses, ( † ) juridicamente respaldadas na legislação da época, a cinco de agosto de 1355, na presença de respeitáveis testemunhas.
 O documento continha recíproca concessão de ambas as partes e sepultou um melancólico capítulo da história de Portugal.
-Foram perdoados os agressores de Inês de Castro (será?), prevaleceu o respeito à autoridade real, e a Justiça do reino passou às mãos de D. Pedro.
-Aliás, não lhe falara Isabel sobre justiça, mesclando aos interesses da Nação os valores espirituais?
+Foram perdoados os agressores de Inês de Castro (será?), prevaleceu o respeito à autoridade real, e a Justiça do reino passou às mãos de D. Pedro. ( † ) Aliás, não lhe falara Isabel sobre justiça, mesclando aos interesses da Nação os valores espirituais?
 Ressalte-se que a aplicação da justiça em seu reinado de dez anos, ainda que com excessos e arbitrariedades, foi sua maior preocupação, ao lado da paz, o que levou o cronista Fernão Lopes a dizer, a respeito, que tempos como tais nunca houvera em Portugal.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## 9 — Um pouco de História
+## 9
 
-A profunda dor que se abateu sobre Inês de Castro
-e Pedro
-e seus previsíveis desdobramentos definiram nova realidade para Portugal.
-Assinada a paz em Canaveses,
-formalizando-se a antecipação de poderes na importante área da justiça real, passou o infante a dividir as tarefas do reino com Afonso IV.
+A profunda dor que se abateu sobre Inês de Castro ( † ) e Pedro ( † ) e seus previsíveis desdobramentos definiram nova realidade para Portugal.
+Assinada a paz em Canaveses, ( † ) formalizando-se a antecipação de poderes na importante área da justiça real, passou o infante a dividir as tarefas do reino com Afonso IV. ( † )
 E vemos as dramáticas cores da tragédia esbaterem-se ao longo dos meses e também desfalecer parcialmente em Pedro o ímpeto de revindita.
-Voltaremos a falar sobre a saga que tanto comoveu a Pátria, sendo objeto mesmo de estudos, biografias, poemas de autores respeitáveis e da admiração do povo, que incorporou Inês, ao lado da Rainha Santa,
-qual símbolo do profundo amor, apanágio da gente portuguesa.
-Amor que é cantado em verso por Júlio Dantas,
-em sua belíssima peça,
-A Ceia dos Cardeais - Google Books
-, no depoimento do Cardeal Gonzaga, respondendo ao colega Rufo:
+Voltaremos a falar sobre a saga que tanto comoveu a Pátria, sendo objeto mesmo de estudos, biografias, poemas de autores respeitáveis e da admiração do povo, que incorporou Inês, ao lado da Rainha Santa, ( † ) qual símbolo do profundo amor, apanágio da gente portuguesa.
+Amor que é cantado em verso por Júlio Dantas, ( † ) em sua belíssima peça, A Ceia dos Cardeais, no depoimento do Cardeal Gonzaga, respondendo ao colega Rufo:
 — Em que pensa, cardeal?
-— Em como é diferente o amor em Portugal! Nem a frase subtil, nem o duelo sangrento… É o amor coração, é o amor sentimento.
-Uma lágrima… Um beijo… Uns sinos a tocar… Um parzinho que ajoelha e que se vai casar. Tão simples tudo! Amor, que de rosas se enflora: Em sendo triste canta, em sendo alegre chora! O amor simplicidade, o amor delicadeza…
-Ai, como sabe amar a gente portuguesa!
+— Em como é diferente o amor em Portugal! Nem a frase subtil, nem o duelo sangrento… É o amor coração, é o amor sentimento. Uma lágrima… Um beijo… Uns sinos a tocar… Um parzinho que ajoelha e que se vai casar. Tão simples tudo! Amor, que de rosas se enflora: Em sendo triste canta, em sendo alegre chora! O amor simplicidade, o amor delicadeza… Ai, como sabe amar a gente portuguesa!
 Nesse comenos, recordemos um pouco de história, o que nos servirá de moldura para a ênfase deste estudo, inspirado na triste sina do amor de Inês dos tempos finais da Idade Média.
 Apresentaremos apenas um rápido escorço, pois não é nosso objetivo tratar da História de Portugal.
-Para consulta mais detalhada, fazem parte da “
-Bibliografia
-” alguns livros esclarecedores sobre o período histórico de Portugal em que se desenrolou o episódio, descrito nas páginas iniciais desta obra com as tintas vivas da crua realidade.
+Para consulta mais detalhada, fazem parte da “Bibliografia” alguns livros esclarecedores sobre o período histórico de Portugal em que se desenrolou o episódio, descrito nas páginas iniciais desta obra com as tintas vivas da crua realidade.
 Os textos mais antigos que falam da formação de Portugal datam do século VI antes de nossa era, mas os fatos são bem anteriores.
 Indígenas autóctones habitavam a região havia cerca de cem mil anos.
-Posteriormente, três mil anos antes de Cristo, já no fim do período neolítico, praticamente coincidindo com o início das civilizações históricas, chegavam os iberos,
-que provavelmente vieram do Norte da África e deram o nome à Península.
-Mais adiante, sem nos esquecermos da influência cartaginesa e grega, aportavam à Península, em torno de 600 a.C., os celtas,
-povo asiático de grande estatura, pele clara e cabelos loiros, vindos através das Gálias.
-Miscigenaram-se com os iberos, surgindo assim os celtiberos,
-que alcançaram o início da era cristã já constituindo uma civilização mais desenvolvida na Península Ibérica, com universalização da comunicação, dado que os celtas falavam língua indo-europeia.
-Nascia a Lusitânia,
-palco posterior de invasões que deságuam no jugo romano, sob
-Augusto
-, pouco antes do nascimento de Jesus.
-Com a queda de Roma, as invasões bárbaras, ainda incipientes, se acentuaram, e os visigodos
-passaram a dominar a Península até a chegada dos sarracenos
-em 709 de nossa era.
-A dominação árabe, subjugando os visigodos, rechaçou-os para o norte da Lusitânia e gerou o início da chamada Reconquista,
-que viria a ser essencialmente alcançada a 30 de outubro de 1340, às margens do Rio Salado.
-Já afastados de toda a Península devido a sucessivas derrotas e então acantonados apenas em Granada,
-os árabes foram praticamente expulsos para o norte da África.
-A expulsão ocorreu, apesar da importante ajuda do rei do Marrocos [Abul-Hassan, rei de Fez e de Marrocos] ao soberano sarraceno de Granada, graças, sobretudo, à heroica participação de Afonso IV de Portugal.
-Ainda que derrotados na Batalha do Salado,
-os árabes mantiveram o poder sobre o reino de Granada, que passou a ser governado por monarquias militarmente fracas e mais flexíveis aos interesses de Castela.
-A Reconquista se concluiu definitivamente mais tarde, em 1492, com a intervenção dos reis católicos, Fernando e Isabel, que destituíram o monarca árabe de Granada, incorporando-a aos reinos de Aragão
-e Castela.
-Pouco adiante, no início do século XVI, delineou-se, com a conquista de Navarra,
-o reino de Espanha, reunindo todos os reinos da Península Ibérica à exceção de Portugal. Voltando ao período da dominação sarracena, vemos o tempo passar com acentuadas mudanças na região da Lusitânia, desde a invasão de 709 até o início do século XII.
-O reino de Leão,
-que surgira durante a Reconquista, no século IX, estendia-se, no final do século XI, do noroeste da Península Ibérica até a região habitada pelos lusitanos, por meio de sua província, a Galiza,
-que ocupava extensa área, englobando o Condado Portucalense
-(situado entre o Minho e o Tejo).
-Por essa época, cerca de 1095, chegam à região dois primos franceses de linhagem respeitável, os condes Raimundo
-e Henrique,
-nobres da família de Borgonha, ligados à Igreja por meio da importante Ordem de Cluny.
-Casam-se com as filhas de Afonso VI,
-rei de Leão: Raimundo com a filha legítima Hurraca, e Henrique com a bastarda Tereza.
-Com o enlace das filhas, o rei divide a Província da Galiza em duas:
-— ao norte o Condado da Galiza e
-— ao sul o Condado Portucalense, entregando-os como dote respectivamente a Raimundo e Henrique.
+Posteriormente, três mil anos antes de Cristo, já no fim do período neolítico, praticamente coincidindo com o início das civilizações históricas, chegavam os iberos, ( † ) que provavelmente vieram do Norte da África e deram o nome à Península. ( † )
+Mais adiante, sem nos esquecermos da influência cartaginesa e grega, aportavam à Península, em torno de 600 a.C., os celtas, ( † ) povo asiático de grande estatura, pele clara e cabelos loiros, vindos através das Gálias. ( † )
+Miscigenaram-se com os iberos, surgindo assim os celtiberos, ( † ) que alcançaram o início da era cristã já constituindo uma civilização mais desenvolvida na Península Ibérica, com universalização da comunicação, dado que os celtas falavam língua indo-europeia.
+Nascia a Lusitânia, ( † ) palco posterior de invasões que deságuam no jugo romano, sob Augusto, pouco antes do nascimento de Jesus.
+Com a queda de Roma, as invasões bárbaras, ainda incipientes, se acentuaram, e os visigodos ( † ) passaram a dominar a Península até a chegada dos sarracenos ( † ) em 709 de nossa era.
+A dominação árabe, subjugando os visigodos, rechaçou-os para o norte da Lusitânia e gerou o início da chamada Reconquista, ( † ) que viria a ser essencialmente alcançada a 30 de outubro de 1340, às margens do Rio Salado. ( † )
+Já afastados de toda a Península devido a sucessivas derrotas e então acantonados apenas em Granada, ( † ) os árabes foram praticamente expulsos para o norte da África.
+A expulsão ocorreu, apesar da importante ajuda do rei do Marrocos ( † ) ao soberano sarraceno de Granada, graças, sobretudo, à heroica participação de Afonso IV de Portugal.
+Ainda que derrotados na Batalha do Salado, ( † ) os árabes mantiveram o poder sobre o reino de Granada, que passou a ser governado por monarquias militarmente fracas e mais flexíveis aos interesses de Castela.
+A Reconquista se concluiu definitivamente mais tarde, em 1492, com a intervenção dos reis católicos, Fernando e Isabel, que destituíram o monarca árabe de Granada, incorporando-a aos reinos de Aragão ( † ) e Castela. ( † )
+Pouco adiante, no início do século XVI, delineou-se, com a conquista de Navarra, ( † ) o reino de Espanha, reunindo todos os reinos da Península Ibérica à exceção de Portugal. Voltando ao período da dominação sarracena, vemos o tempo passar com acentuadas mudanças na região da Lusitânia, desde a invasão de 709 até o início do século XII.
+O reino de Leão, ( † ) que surgira durante a Reconquista, no século IX, estendia-se, no final do século XI, do noroeste da Península Ibérica até a região habitada pelos lusitanos, por meio de sua província, a Galiza, ( † ) que ocupava extensa área, englobando o Condado Portucalense ( † ) (situado entre o Minho e o Tejo).
+Por essa época, cerca de 1095, chegam à região dois primos franceses de linhagem respeitável, os condes Raimundo ( † ) e Henrique, ( † ) nobres da família de Borgonha, ligados à Igreja por meio da importante Ordem de Cluny. ( † )
+Casam-se com as filhas de Afonso VI, ( † ) rei de Leão: Raimundo com a filha legítima Hurraca, e Henrique com a bastarda Tereza.
+Com o enlace das filhas, o rei divide a Província da Galiza em duas: — ao norte o Condado da Galiza e — ao sul o Condado Portucalense, entregando-os como dote respectivamente a Raimundo e Henrique.
 O Conde D. Henrique lutou incansavelmente pela manutenção da autonomia do Condado Portucalense até seu falecimento, logo no início do século XII.
-O filho, Afonso Henriques,
-completou-lhe a tarefa, enfrentando duros embates nos confrontos regionais com Leão e Galiza e também com o invasor árabe.
-Herói das batalhas de São Mamede
-e de Ourique,
-finalmente, em 1139, declara a independência de Portugal, inaugurando a dinastia afonsina.
-Com a conquista do Algarve
-aos mouros, em meados do século XIII, por Afonso III,
-quinto rei da dinastia afonsina, Portugal passa a apresentar configuração geográfica continental próxima à que observamos nos dias atuais.
-À época em que se desenvolvem os fatos ligados à história de Inês de Castro, cerca de 1350, vemos a Península Ibérica
-assim constituída:
-— ao sudoeste: Portugal,
-abrindo-se para o Atlântico;
-— ao noroeste e centro: com avantajada extensão geográfica rumo do nordeste e sul da Península, o reino de Castela
-(ao qual desde 1230 achava-se incorporado o reino de Leão
-com a Galiza
-);
-— ao norte: Navarra;
-— ao norte e nordeste: Aragão,
-associado ao condado da Catalunha,
-banhado pelas águas do Mediterrâneo;
-— ao sul: separado do norte da África pelo Mediterrâneo, próximo ao Estreito de Gibraltar,
-vigiado pelas Colunas de Hércules,
-o reino de Granada,
-na região hoje ocupada pela Andaluzia.
-Em resumo, a Península Ibérica era dividida entre portugueses e espanhóis, estes agrupados nos reinos supracitados, conforme observamos no
-Mapa de Burns
-, na página seguinte.
-— Em que pensa, cardeal?
-— Em como é diferente o amor em Portugal! Nem a frase subtil, nem o duelo sangrento… É o amor coração, é o amor sentimento.
-Uma lágrima… Um beijo… Uns sinos a tocar… Um parzinho que ajoelha e que se vai casar. Tão simples tudo! Amor, que de rosas se enflora: Em sendo triste canta, em sendo alegre chora! O amor simplicidade, o amor delicadeza…
-Ai, como sabe amar a gente portuguesa!
+O filho, Afonso Henriques, ( † ) completou-lhe a tarefa, enfrentando duros embates nos confrontos regionais com Leão e Galiza e também com o invasor árabe.
+Herói das batalhas de São Mamede ( † ) e de Ourique, ( † ) finalmente, em 1139, declara a independência de Portugal, inaugurando a dinastia afonsina.
+Com a conquista do Algarve ( † ) aos mouros, em meados do século XIII, por Afonso III, ( † ) quinto rei da dinastia afonsina, Portugal passa a apresentar configuração geográfica continental próxima à que observamos nos dias atuais.
+À época em que se desenvolvem os fatos ligados à história de Inês de Castro, cerca de 1350, vemos a Península Ibérica ( † ) assim constituída: — ao sudoeste: Portugal, ( † ) abrindo-se para o Atlântico; — ao noroeste e centro: com avantajada extensão geográfica rumo do nordeste e sul da Península, o reino de Castela ( † ) (ao qual desde 1230 achava-se incorporado o reino de Leão ( † ) com a Galiza); ( † ) — ao norte: Navarra; ( † ) — ao norte e nordeste: Aragão, ( † ) associado ao condado da Catalunha, ( † ) banhado pelas águas do Mediterrâneo; — ao sul: separado do norte da África pelo Mediterrâneo, próximo ao Estreito de Gibraltar, ( † ) vigiado pelas Colunas de Hércules,( † ) o reino de Granada, ( † ) na região hoje ocupada pela Andaluzia. ( † )
+Em resumo, a Península Ibérica era dividida entre portugueses e espanhóis, estes agrupados nos reinos supracitados, conforme observamos no Mapa de Burns, na página seguinte.
 
 ---
 
-## 10 — Os Reis Afonsinos do Século XIV. A Regência de 1383 — 1385
+## 10
 
-Os reis afonsinos do século XIV, a partir de D. Dinis, envolveram-se direta ou indiretamente no “episódio Inês de Castro”.
-Foram eles:
-— D. Dinis (1279 a 1325),
-o Rei-Poeta, esposo de Isabel de Aragão,
-nossa Rainha Santa;
-— D. Afonso IV (1325 a 1357),
-filho de D. Dinis e da rainha Isabel;
-— D. Pedro I (1357 a 1367),
-filho de D. Afonso IV e de D. Beatriz;
-— D. Fernando I (1367 a 1383),
-filho de D. Pedro I e de D. Constança Manoel.
-De 1383 a 1385…
-Aqui cabe breve relato.
-Trata-se de um período de conturbada transição, sob a regência de Leonor Teles,
-viúva de D. Fernando I.
-Em dramática decisão para o futuro de Portugal, D. Fernando assinou em 1383 o Tratado de Salvaterra de Magos,
-ratificado pelas Cortes de Santarém,
-que, em linhas gerais, determinava o seguinte:
-Quando ele falecesse, o que ocorreria poucos meses depois, em outubro daquele ano, Leonor
-seria regente do trono, e, pela ausência de filho varão, as coroas de Portugal e Castela seriam cingidas por D. João I de Castela
-e D. Beatriz,
-filha de D. Fernando e Leonor, que se casariam logo depois da assinatura do Tratado, conforme acordo nele estabelecido.
+Os reis afonsinos do século XIV, a partir de D. Dinis, envolveram-se direta ou indiretamente no “episódio Inês de Castro”. ( † )
+Foram eles: — D. Dinis (1279 a 1325), ( † ) o Rei-Poeta, esposo de Isabel de Aragão, ( † ) nossa Rainha Santa; — D. Afonso IV (1325 a 1357), ( † ) filho de D. Dinis e da rainha Isabel; — D. Pedro I (1357 a 1367), ( † ) filho de D. Afonso IV e de D. Beatriz; ( † ) — D. Fernando I (1367 a 1383), ( † ) filho de D. Pedro I e de D. Constança Manoel. ( † ) De 1383 a 1385… Aqui cabe breve relato.
+Trata-se de um período de conturbada transição, sob a regência de Leonor Teles, ( † ) viúva de D. Fernando I.
+Em dramática decisão para o futuro de Portugal, D. Fernando assinou em 1383 o Tratado de Salvaterra de Magos, ( † ) ratificado pelas Cortes de Santarém, ( † ) que, em linhas gerais, determinava o seguinte:
+Quando ele falecesse, o que ocorreria poucos meses depois, em outubro daquele ano, Leonor ( † ) seria regente do trono, e, pela ausência de filho varão, as coroas de Portugal e Castela seriam cingidas por D. João I de Castela ( † ) e D. Beatriz, ( † ) filha de D. Fernando e Leonor, que se casariam logo depois da assinatura do Tratado, conforme acordo nele estabelecido.
 Após a morte de João e Beatriz, as coroas dos reinos passariam aos filhos do casal, e, na sua eventual ausência, a sucessão ficaria a cargo da linhagem de descendentes apenas de Castela, subordinando-se, assim, Portugal ao reino vizinho.
 Aproveitaram-se os mentores do Tratado de Salvaterra da grave enfermidade de D. Fernando, pois o acordo determinava a união das coroas de ambos os reinos, com evidente privilégio para Castela.
-Parece-me que aí ocorreu clara oposição ao espírito da antiga lei sálica
-de Clóvis,
-escrita no início da Idade Média, que, entre outros objetivos, buscava privilegiar os varões nos direitos sucessórios.
-Protegia-se, desse modo, Beatriz, a sucessora natural, buscando-se inviabilizar a substituição de D. Fernando pelos herdeiros de D. Pedro I, fosse por um dos dois filhos de Inês de Castro ou pelo Mestre de Avis,
-detentores de títulos hierárquicos que os credenciavam a postular a sucessão.
-Todavia, as evidentes pretensões do rei de Castela em adjudicar a coroa portuguesa se esbateram na união da nobreza e do povo, empenhados na manutenção das conquistas sedimentadas, desde os tempos do Conde D. Henrique,
-para a efetiva criação do Estado português.
-O Mestre de Avis e seu condestável, D. Nuno Álvares Pereira,
-impuseram a D. João de Castela,
-apoiado por Leonor Teles
-e parte da nobreza lusitana, durante os conflitos que eclodiram entre 1383 e 1385, sucessivas derrotas.
-O clímax dos embates
-ocorreu na pequena localidade de Aljubarrota,
-próxima de Alcobaça,
-com a rendição e expulsão do território português das forças castelãs em 14 de agosto de 1385.
-Inicia-se a dinastia de Avis
-ou joanina, com o próspero reinado do Mestre de Avis, D. João I,
-filho bastardo de Pedro I.
-Longa e profícua, a dinastia joanina se caracterizou pelas incursões marítimas de Portugal, com o consequente descobrimento do Brasil.
-Voltando a D. Fernando, a bem da verdade, deve-se-lhe creditar, a despeito do malfadado Tratado de Salvaterra,
-os méritos de importantes realizações em seu reinado, como veremos no capítulo a ele destinado.
+Parece-me que aí ocorreu clara oposição ao espírito da antiga lei sálica ( † ) de Clóvis, ( † ) escrita no início da Idade Média, que, entre outros objetivos, buscava privilegiar os varões nos direitos sucessórios.
+Protegia-se, desse modo, Beatriz, a sucessora natural, buscando-se inviabilizar a substituição de D. Fernando pelos herdeiros de D. Pedro I, fosse por um dos dois filhos de Inês de Castro ou pelo Mestre de Avis, ( † ) detentores de títulos hierárquicos que os credenciavam a postular a sucessão.
+Todavia, as evidentes pretensões do rei de Castela em adjudicar a coroa portuguesa se esbateram na união da nobreza e do povo, empenhados na manutenção das conquistas sedimentadas, desde os tempos do Conde D. Henrique, ( † ) para a efetiva criação do Estado português.
+O Mestre de Avis e seu condestável, D. Nuno Álvares Pereira, ( † ) impuseram a D. João de Castela, ( † ) apoiado por Leonor Teles ( † ) e parte da nobreza lusitana, durante os conflitos que eclodiram entre 1383 e 1385, sucessivas derrotas.
+O clímax dos embates ( † ) ocorreu na pequena localidade de Aljubarrota, ( † ) próxima de Alcobaça, ( † ) com a rendição e expulsão do território português das forças castelãs em 14 de agosto de 1385.
+Inicia-se a dinastia de Avis ( † ) ou joanina, com o próspero reinado do Mestre de Avis, D. João I, ( † ) filho bastardo de Pedro I. ( † ) Longa e profícua, a dinastia joanina se caracterizou pelas incursões marítimas de Portugal, com o consequente descobrimento do Brasil.
+Voltando a D. Fernando, a bem da verdade, deve-se-lhe creditar, a despeito do malfadado Tratado de Salvaterra, ( † ) os méritos de importantes realizações em seu reinado, como veremos no capítulo a ele destinado.
 
 ---
 
-## 11 — A Vida na Idade Média
+## 11
 
-Embora à época em que nos detemos, em torno de 1350, século XIV, estivéssemos caminhando para a Renascença,
-os fortes liames entre o obscuro primeiro período medieval e o início do segundo, com a organização das monarquias pós-carolíngeas, não ofereciam risonhas perspectivas à vida social.
+Embora à época em que nos detemos, em torno de 1350, século XIV, estivéssemos caminhando para a Renascença, ( † ) os fortes liames entre o obscuro primeiro período medieval e o início do segundo, com a organização das monarquias pós-carolíngeas, não ofereciam risonhas perspectivas à vida social.
 Para que o leitor compreenda o que significaram os tempos medievais, no que tange à vida em si das pessoas, faço uma breve síntese:
-A Idade Média
-tradicionalmente divide-se em dois períodos. A primeira parte, que vai de 400 a 800 d.C., é considerada por muitos uma noite de nossa história.
-Essa fase inicial do período medieval permanece mais esquecida, porque a estruturação político-administrativa, que deu grande impulso à futura definição das diversas nacionalidades, surgiu apenas em seu último século, o oitavo de nossa era, com a dinastia carolíngia,
-fundada por Carlos Martel
-e cujo mais destacado representante foi o imperador Carlos Magno.
-Nesse período lúgubre, fermentaram as ideias maniqueístas
-de Céu e Inferno, que se perpetuaram até a Renascença, nos séculos XV e XVI, e avançaram pelos séculos posteriores, com as profundas marcas religiosas da Reforma
-e da Contrarreforma.
-Como nos assevera Mário Domingues:
+A Idade Média ( † ) tradicionalmente divide-se em dois períodos. A primeira parte, que vai de 400 a 800 d.C., é considerada por muitos uma noite de nossa história.
+Essa fase inicial do período medieval permanece mais esquecida, porque a estruturação político-administrativa, que deu grande impulso à futura definição das diversas nacionalidades, surgiu apenas em seu último século, o oitavo de nossa era, com a dinastia carolíngia, ( † ) fundada por Carlos Martel ( † ) e cujo mais destacado representante foi o imperador Carlos Magno. ( † )
+Nesse período lúgubre, fermentaram as ideias maniqueístas ( † ) de Céu e Inferno, que se perpetuaram até a Renascença, nos séculos XV e XVI, e avançaram pelos séculos posteriores, com as profundas marcas religiosas da Reforma ( † ) e da Contrarreforma. ( † ) Como nos assevera Mário Domingues:
 (…) nunca chegaremos a conhecer o Homem medieval sem nos integrarmos mentalmente na época em que ele viveu, sem respirarmos, por um esforço prodigioso de vontade, a atmosfera em que ele se criou, toda povoada de anjos e demônios, de visões luminosas do Paraíso e aparições tenebrosas do Inferno.
-Destaca-se, no fim desse período medieval, de modo especial na França, o surgimento e crescimento progressivo do feudalismo,
-que fortaleceu o poder dos nobres. Estes, encastelados em seus feudos, arrostavam a autoridade real.
-De 800 até 1453 d.C. — ano da tomada de Constantinopla
-pelos turcos e queda do Império Bizantino
-— temos o segundo período da Idade Média.
-A partir do ano 1000, o feudalismo começou a enfraquecer-se com o fortalecimento das monarquias nacionais e consequente aumento do poder real, que atingiu seu ápice com o absolutismo francês de
-Luís XIV
-, o Rei Sol, no século XVII — absolutismo, aliás, contestado e revisto pela burguesia por meio da Revolução Francesa em 1789.
-É preciso ressaltar que, no pequeno pedaço de terra, Portugal, onde ocorreu a triste história de Inês de Castro,
-o poder feudal não alcançou os extremos que observamos na França.
+Destaca-se, no fim desse período medieval, de modo especial na França, o surgimento e crescimento progressivo do feudalismo, ( † ) que fortaleceu o poder dos nobres. Estes, encastelados em seus feudos, arrostavam a autoridade real.
+De 800 até 1453 d.C. — ano da tomada de Constantinopla ( † ) pelos turcos e queda do Império Bizantino ( † ) — temos o segundo período da Idade Média.
+A partir do ano 1000, o feudalismo começou a enfraquecer-se com o fortalecimento das monarquias nacionais e consequente aumento do poder real, que atingiu seu ápice com o absolutismo francês de Luís XIV, o Rei Sol, no século XVII — absolutismo, aliás, contestado e revisto pela burguesia por meio da Revolução Francesa em 1789.
+É preciso ressaltar que, no pequeno pedaço de terra, Portugal, onde ocorreu a triste história de Inês de Castro, ( † ) o poder feudal não alcançou os extremos de preservação da terra e da autoridade que observamos na França.
 Chegamos a 1350, epicentro de nosso livro, com as classes sociais divididas em nobreza, clero e povo. Essas classes formavam os três Estados, que participavam das Cortes, denominação das assembleias periódicas, que se realizavam com a presença real.
-No clero não me deterei, porquanto há numerosos estudos históricos e religiosos a respeito. Ressalto que, na vida de Inês e D. Pedro,
-há a participação de membros da Igreja que, com seu respeito à dor, escreveram belas e comoventes páginas de amor e solidariedade.
-Haja vista, naqueles momentos de agudo sofrimento, a nobre presença da freira do Convento de Santa Clara,
-ataviando o corpo de Inês deformado pelo cepo, e a do Bispo da Guarda, D. Gil [Gil Cabral de Viana], que coonestou, já durante o reinado, em 1360, o casamento de Pedro e Inês, realizado antes do falecimento da bela galega bastarda.
-Vale lembrar que o clero atuava, do ponto de vista político e militar, em Portugal, por meio de ordens armadas: as Ordens dos Hospitalários,
-de Avis,
-de Santiago
-(esta com raízes em Castela) e a Ordem do Cristo,
-fundada por D. Dinis.
-Todas com importante participação na vida do reino, não obstante seu natural declínio com a expulsão dos sarracenos
-e o fim das Cruzadas.
+No clero não me deterei, porquanto há numerosos estudos históricos e religiosos a respeito. Ressalto que, na vida de Inês e D. Pedro, ( † ) há a participação de membros da Igreja que, com seu respeito à dor, escreveram belas e comoventes páginas de amor e solidariedade.
+Haja vista, naqueles momentos de agudo sofrimento, a nobre presença da freira do Convento de Santa Clara, ( † ) ataviando o corpo de Inês deformado pelo cepo, e a do Bispo da Guarda, D. Gil, ( † ) que coonestou em 1360 — já durante o reinado de D. Pedro — o casamento do então príncipe herdeiro com Inês, realizado antes do falecimento da bela galega bastarda.
+Vale lembrar que o clero atuava, do ponto de vista político e militar, em Portugal, por meio de ordens armadas: as Ordens dos Hospitalários, ( † ) de Avis, ( † ) de Santiago ( † ) (esta com raízes em Castela) e a Ordem do Cristo, ( † ) fundada por D. Dinis.
+Todas com importante participação na vida do reino, não obstante seu natural declínio com a expulsão dos sarracenos ( † ) e o fim das Cruzadas.
 Falando da nobreza e da realeza, recordemo-nos dos castelos de pedra frios, escuros, úmidos, sem conforto. As condições de higiene e as agruras da vida ascética limitavam a idade útil das gentes, com os sofrimentos físicos e morais e as mortes prematuras.
-Os filhos dos nobres muito precocemente participavam de exercícios militares incompatíveis com sua idade. Pela ausência de perspectivas, atingiam o fim da juventude limitados pelos poucos ideais inerentes à nobreza:
-— a defesa de suas terras, a inaudita violência na pilhagem do vizinho ou de caravanas descuidadas que passavam em seus domínios e as guerras forjadas com outros nobres mais fracos para de seus bens se apropriar;
-— as guerras maiores, ora com o inimigo de outros reinos, como em Portugal ocorria com respeito aos reinos hispânicos da Península, sobretudo Castela, ora com o inimigo maior com que toda a Península convivia desde 709: a invasão sarracena;
-— a cobrança de impostos e taxas humilhantes, cerceando a vida aos pobres camponeses e pequenos artesãos (algumas dessas taxas feudais somente foram abolidas na França alguns séculos mais tarde, a partir de 1789);
-— a importante presença da nobreza na Cavalaria, com seu respeitável código de ética.
+Os filhos dos nobres muito precocemente participavam de exercícios militares incompatíveis com sua idade. Pela ausência de perspectivas, atingiam o fim da juventude limitados pelos poucos ideais inerentes à nobreza: — a defesa de suas terras, a inaudita violência na pilhagem do vizinho ou de caravanas descuidadas que passavam em seus domínios e as guerras forjadas com outros nobres mais fracos para de seus bens se apropriar; — as guerras maiores, ora com o inimigo de outros reinos, como em Portugal ocorria com respeito aos reinos hispânicos da Península, sobretudo Castela, ora com o inimigo maior com que toda a Península convivia desde 709: a invasão sarracena; — a cobrança de impostos e taxas humilhantes, cerceando a vida aos pobres camponeses e pequenos artesãos. Algumas dessas taxas feudais somente foram abolidas na França séculos mais tarde, a partir de 1789; — a presença da nobreza na Cavalaria, com seu respeitável código de ética, em que a dignidade e a decência eram fundamentais.
 À exceção de suas atividades bélicas e da cavalaria, os nobres não estimulavam os filhos ao exercício de profissões, não cultivavam o comércio e muitas vezes se viam constrangidos a empenhar as filhas em casamento com agiotas de que se socorriam.
-Essa visão distorcida, entre outros aspectos, fez com que a nobreza perdesse terreno à crescente influência da burguesia, composta de artesãos, pequenos proprietários, comerciantes e profissionais especializados, como médicos e juristas, oriundos de universidades criadas na época, sob a influência dos reis, como a Universidade de Coimbra,
-fundada por D. Dinis.
+Essa visão distorcida, entre outros aspectos, fez com que a nobreza perdesse terreno à crescente influência da burguesia, composta de artesãos, pequenos proprietários, comerciantes e profissionais especializados, como médicos e juristas, oriundos de universidades criadas na época, sob a influência dos reis, como a Universidade de Coimbra, ( † ) fundada por D. Dinis.
 Os monarcas pretendiam provocar, com sua ação no campo da cultura, também o enfraquecimento do poder dos nobres e do clero.
 A burguesia foi, assim, sedimentando-se com maior vigor, fortalecendo o Terceiro Estado e aumentando-lhe o poder nas já citadas Cortes.
 Com sua composição heterogênea, essa classe social emergente era mais aliada dos reis, na época que destacamos, do que a própria nobreza, perdida em sua acanhada meta de preservar o estômago, o relativo conforto e as suas terras.
@@ -785,544 +515,321 @@ Moravam mal, sem o mínimo conforto, passavam frio e fome e eram os primeiros a 
 As crianças deixavam de sê-lo em tenra idade, trabalhando escravizadas por superiores que não eram necessariamente nobres.
 Os jovens continuavam a saga de seus pais sem estudo ou outras perspectivas além das suas atribuições rotineiras e desgastantes.
 Entre os pequenos artesãos, comerciantes e camponeses, aqueles que conseguiam destacar-se sofriam tais agruras em menor intensidade, mais assemelhados à nobreza.
-Na Idade Média, a vida era difícil para todos, independendo da classe social a que pertenciam. Sobreviver aos 40 anos já era privilégio, até porque as guerras e as pestes faziam parte das desilusões cotidianas. Sob a luz mortiça dos candeeiros, contabilizavam-se as perdas inelutáveis, e se excogitava sobre os efeitos das frequentes pestes.
-Mesmo dentro do período central deste livro, entre 1347 e 1352, a Europa prestou contas à Peste Negra,
-provavelmente trazida da longínqua Crimeia
-por navegantes genoveses.
+Na Idade Média, a vida era difícil para todos, independendo da classe social a que pertenciam.
+Sobreviver aos 40 anos já era privilégio, até porque as guerras e as pestes faziam parte das desilusões cotidianas. Sob a luz mortiça dos candeeiros, contabilizavam-se as perdas inelutáveis, e se excogitava sobre os efeitos das frequentes pestes.
+Nos anos que antecederam a dolorosa tragédia que envolveu Inês de Castro, entre 1347 e 1352, a Europa prestou contas à Peste Negra, ( † ) provavelmente trazida da longínqua Crimeia ( † ) por navegantes genoveses.
 A Grande Peste atingiu em peso a Europa Ocidental, com incursões pela Sicília, França, Inglaterra, Península Ibérica e Europa Central, avançando até a Escandinávia e confins da Polônia e Rússia. Ceifou 25 milhões de vítimas, número correspondente a 1/3 da então população da Europa Ocidental.
 Em Portugal, agravando os efeitos da peste, terrível seca assolou o país dois anos antes da morte de D. Afonso IV, creditando o povo tal flagelo à decapitação de Inês de Castro.
 Não era fácil viver na Idade Média, com a privação de tudo e até dos anseios afetivos…
 
 ---
 
-## 12 — Casamento de Pedro e Constança — O Início…
+## 12
 
-Em agosto de 1340, sob o reinado de Afonso IV,
-celebram-se em Lisboa as cerimônias de casamento entre o infante D. Pedro
-e D. Constança Manoel,
-do vizinho reino de Castela.
+Em agosto de 1340, sob o reinado de Afonso IV, ( † ) celebram-se em Lisboa as cerimônias de casamento entre o infante D. Pedro ( † ) e D. Constança Manoel, ( † ) do vizinho reino de Castela.
 A união foi sacramentada segundo as razões de Estado, e não do coração, envolvendo interesses recíprocos de Portugal e Castela.
 O esponsalício nada trouxe de novo em suas feições pragmáticas.
-Estavam presentes o rei e sua consorte D. Beatriz,
-a nobreza que abarrotava a catedral e os noivos atônitos, perplexos diante de tanta pompa e pouco amor.
-Pelo inusitado desses fatos, mais tarde voltaremos a eles. Se não para justificar o amor extemporâneo que já se manifestava entre D. Pedro e Inês de Castro
-(filha ilegítima de influente nobre da corte de Castela e dama de companhia de D. Constança, a esposa escolhida), ao menos para mostrar como eram tratados os assuntos do sentimento no período medieval, em que se tolhia a liberdade ao homem e à mulher, fosse na corte e na nobreza ou entre a população humilde.
+Estavam presentes o rei e sua consorte D. Beatriz, ( † ) a nobreza que abarrotava a catedral e os noivos atônitos, perplexos diante de tanta pompa e pouco amor.
+Pelo inusitado desses fatos, mais tarde voltaremos a eles. Se não para justificar o amor extemporâneo que já se manifestava entre D. Pedro e Inês de Castro ( † ) (filha ilegítima de influente nobre da corte de Castela e dama de companhia de D. Constança, a esposa escolhida), ao menos para mostrar como eram tratados os assuntos do sentimento no período medieval, em que se tolhia a liberdade ao homem e à mulher, fosse na corte e na nobreza ou entre a população humilde.
 Vejamos a descrição do casamento de Pedro e Constança, feita, do Plano Espiritual, pela testemunha ocular de então, Inês de Castro, que, chocada, apercebeu-se de que quem se casava com D. Constança Manoel era alguém cuja presença lhe magnetizara as fibras recônditas do coração:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 Minha memória voltou no tempo a fim de rever-vos pela primeira vez, na Sé de Lisboa, quando se vos confirmou a união com a Rainha Dona Constança Manoel.
+2 Lembrei-me de que todos os aparatos da solenidade, com que El-Rei D. Afonso IV e a sua Real Esposa, a Rainha Dona Beatriz, quiseram marcar com grandeza inesquecível o grande acontecimento, desapareceram de minhas impressões.
+3 Via apenas a Vós, amado rei, a Vós, que me povoáveis todos os sonhos, herói e soberano, que eu supunha existir exclusivamente no mundo iluminado de minhas esperanças.
+4 De espírito surpreso, qual se vos visse, como num sonho, após sairdes de mim mesma, para se me revelar ali, no seio da multidão, compreendi, de súbito, que éreis a corporificação de todo o Amor a que eu aspirava, mas o êxtase não me anulou a noção da realidade.
+5 A jovem bastarda dos Castro deveria sufocar o enlevo nos recessos do coração, da mesma forma com que aferrolhava o sonho nas profundezas da alma.
+6 E chorei, dando a ideia de que as emoções da festividade me dominavam, quando, no íntimo, me reconhecia em lágrimas, à frente das muralhas invisíveis das leis humanas, que ainda hoje separam as criaturas com mais impenetrabilidade que a dos muros de pedra.
+7 Via-vos sem a possibilidade de tocar-vos, extasiava-me com a vossa presença, sem a mínima esperança de respirar-vos a convivência.
+8 Debalde, procurei afastar-me de vossa real presença, receando trair-me ou ferir a benfeitora que me situara no séquito em que se fazia representar.
+9 Todas as circunstâncias, amado rei, me contrariaram os propósitos, e as obrigações da função me colocavam diante de vós, sentindo-me na condição da criatura que, de certo modo, vos enodoava a real aparição, com o amor oculto que vos devotava.
+10 Ignoro, amado soberano, se vos recordais do dia em que dissestes amar-me, dia em que caí no leito, como se um raio me houvesse traspassado o coração. As vossas palavras eram tudo o que eu queria ouvir, mas também tudo o que não me seria permitido escutar.
+11 Uma febre desconhecida me queimou as entranhas, e em delírio chamei por vós, como sendo meu anjo guardião e meu salvador.
+12 Amigas prudentes foram suficientemente leais para se compadecerem de mim, sem me comentarem as alucinações, e, desde então, começou para mim a vida nova, na qual se entrechocavam o meu reconhecimento pela Senhora que me colocara em serviço e a paixão por vós, que me governou a vida e o coração para sempre.
+13 Refiro-me a isso, amado soberano, para reafirmar que não vos esqueço, que gravitarei sempre em torno de vós, com a força do destino que caracteriza a movimentação de um satélite caudatário de um astro.
+14 Amado rei, não tenho outra vida que não seja a vossa própria vida em mim. E amo-vos não só a beleza angélica, mas igualmente a vossa formação espiritual e a vossa justiça, a vossa integridade de caráter e grandeza de coração. Amado rei e senhor meu, sede bendito por toda a felicidade que me trouxestes. Confio em vossa firmeza de ânimo e estou em preces a Deus para que todos os vossos deveres para com os vossos entes queridos, que são igualmente amados meus, se façam valorosamente cumpridos.
+15 Amado rei e senhor meu, estais em meu pensamento dia e noite. Penso, muitas vezes, que sou um fragmento de vossa grandeza ou uma pequenina parcela de vosso coração magnânimo e sei que sou um singelo feixe de vossos reflexos.
+16 Amado rei, eu vos amo!
+17 Somente a vós, unicamente a vós e tão somente por vós, atravessei longos caminhos, às vezes, encharcados de lágrimas, para encontrar-vos. Nunca vos esqueço, nunca vos esquecerei. Como deixar-vos sendo eu vós mesmo dentro de mim?
+18 Se estiverdes tranquilo, a paz estará igualmente em mim, vossa alegria é a minha alegria, e um pingo de vossa tristeza, quando essa tristeza aparece, tem o tamanho de uma nuvem no meu coração.
+19 Amado Soberano, Deus vos abençoe e vos guarde, assim como vos rogo proteger e lembrar sempre quem vive de vós e por vós.
+20 Sempre convosco para sempre.
 
 ---
 
-## 13 — Inês, Constança e Pedro
+## 13
 
 Como o leitor provavelmente já observou, eram comuns, nas famílias reais e entre os nobres, a repetição de nomes e os vínculos de parentesco.
-Inês,
-Constança
-e Pedro,
-personagens chave do nosso enredo afetivo, por serem descendentes de D. Fernando III,
-o Santo, rei de Castela, eram primos.
-Inês, pelo seu pai, Pedro Fernandes de Castro;
-Constança, também pelo pai, João Manoel;
-e Pedro, pela ascendência da mãe, a rainha D. Beatriz de Portugal,
-e pelo lado paterno, pois era bisneto de Beatriz de Guillen,
-mãe de D. Dinis.
-(Ver
-árvore genealógica
-, página 301)
-Nasceu na Galiza,
-ao norte de Portugal, em Monforte de Lemos,
-província de Lugo, em 1325.
+Inês, ( † ) Constança ( † ) e Pedro, ( † ) personagens chave do nosso enredo afetivo, por serem descendentes de D. Fernando III, ( † ) o Santo, rei de Castela, eram primos.
+Inês, pelo seu pai, Pedro Fernandes de Castro; ( † ) Constança, também pelo pai, João Manoel; ( † ) e Pedro, pela ascendência da mãe, a rainha D. Beatriz de Portugal, ( † ) e pelo lado paterno, pois era bisneto de Beatriz de Guillen, ( † ) mãe de D. Dinis. ( † )
+(Ver árvore genealógica, página 301)
+Nasceu na Galiza, ( † ) ao norte de Portugal, em Monforte de Lemos, ( † ) província de Lugo, em 1325.
 Inicio as referências a Inês com as palavras inspiradas da escritora espanhola:
 Inês nasceu em terras galegas, lá onde a névoa confunde os contornos das coisas, o verde transforma os prados em esmeraldas e o rumor contínuo da chuva converte a inquietude em suave melancolia.
 Do mar ali próximo aproveitou o azul dos olhos, dos morros arredondados, que rodeavam as suas terras, a harmonia da figura e dos cuidados, que auspiciaram o seu nascimento, um certo magnetismo a que não escapava ninguém que a contemplasse.
-Criada como foi em Castela, dos trigais dourados recebeu a cor da abundante cabeleira e, da desolação da paisagem, uma certa austeridade de maneiras que a tornavam, se assim se pode dizer, ainda mais sedutora… (
-)
-A Galiza, região que usufruíra de autonomia relativa com relação ao reino de Leão,
-chegando mesmo à condição de um reinado precário, de curta duração, nos tempos remotos da emancipação do Condado Portucalense,
-já havia sido, com Leão, incorporada a Castela
-à época do nascimento de Inês.
-Era filha bastarda do influente Pedro Fernandes de Castro,
-importante par na corte castelã, e da dama portuguesa Aldonça Soares de Valadares.
+Criada como foi em Castela, dos trigais dourados recebeu a cor da abundante cabeleira e, da desolação da paisagem, uma certa austeridade de maneiras que a tornavam, se assim se pode dizer, ainda mais sedutora… (Maria Pilar Queralt Del Hierro) ( † )
+A Galiza, região que usufruíra de autonomia relativa com relação ao reino de Leão, ( † ) chegando mesmo à condição de um reinado precário, de curta duração, nos tempos remotos da emancipação do Condado Portucalense, ( † ) já havia sido, com Leão, incorporada a Castela ( † ) à época do nascimento de Inês.
+Era filha bastarda do influente Pedro Fernandes de Castro, ( † ) importante par na corte castelã, e da dama portuguesa Aldonça Soares de Valadares. ( † )
 O pai retirou-a muito cedo do convívio materno, entregando-a aos cuidados da tia Tereza no Solar dos Albuquerques, em Castela, como lembra Inês na mensagem espiritual ditada ao Chico e que colocamos no próximo capítulo.
 Era desejo de Pedro Fernandes de Castro dar às filhas requintada educação; assim, separou Inês da mãe para grande desgosto de D. Aldonça, que não resistiu à sua ausência.
 Educada por professores galegos e portugueses desde quando foi morar com a tia, preparou-se para os desafios da época, sedimentando notável cultura.
-Parece ter complementado sua formação em Penafiel,
-também no reino de Castela, na casa do nobre João Manoel
-e da filha Constança,
-de quem seria mais tarde dama de companhia, quando de sua viagem a Portugal para as núpcias com D. Pedro.
+Parece ter complementado sua formação em Peñafiel, ( † ) também no reino de Castela, na casa do nobre João Manoel ( † ) e da filha Constança, ( † ) de quem seria mais tarde dama de companhia, quando de sua viagem a Portugal para as núpcias com D. Pedro. ( † )
 João Manoel, de quem ainda falaremos, era respeitado intelectual da Península Ibérica.
 Além de seu preparo, tinha Inês a bondade que a fazia conviver com todos os segmentos da estrutura social de sua época, deixando, indistintamente, o luminoso exemplo de sua alma formosa, madura e dedicada.
 Engana-se profundamente quem procura diferenciar os filhos bastardos, como era Inês, dos legítimos, pela métrica da cultura e pelos predicados que lhes definem o caráter.
-Em que podemos, por exemplo, diferenciar os dois filhos de Afonso Onzeno
-de Castela, Pedro,
-o legítimo, de seu consórcio com Maria de Portugal,
-a filha de Afonso IV,
-e Henrique de Trastâmara,
-o ilegítimo, nascido de Leonor de Gusmão?
+Em que podemos, por exemplo, diferenciar os dois filhos de Afonso Onzeno ( † ) de Castela, Pedro, ( † ) o legítimo, de seu consórcio com Maria de Portugal, ( † ) a filha de Afonso IV, ( † ) e Henrique de Trastâmara, ( † ) o ilegítimo, nascido de Leonor de Gusmão? ( † )
 Ambos foram reis, e entendo que, na análise de seus governos, o fiel da balança se desloca a favor de Henrique, não obstante os odiosos excessos que cometeu contra os judeus.
 Em Inês de Castro vemos a bela galega, que, trazendo consigo o sangue nobre mesclado ao do povo, soube sublimar as virtudes e experiências de ambas as classes sociais, mercê de sua elevada condição espiritual.
-Inês chegou a Portugal em 1340, como dama de companhia de D. Constança Manoel,
-cujo casamento com D. Pedro fora acertado com Afonso Onzeno, rei de Castela, seu ex-esposo, que a desprezara.
+Inês chegou a Portugal em 1340, como dama de companhia de D. Constança Manoel, ( † ) cujo casamento com D. Pedro fora acertado com Afonso Onzeno, rei de Castela, seu ex-esposo, que a desprezara.
 Destacavam-se em Inês seus dotes espirituais.
 De rara beleza, segundo os unânimes relatos, com os penetrantes e suaves olhos glaucos e os longos cabelos louros caindo-lhe pelo colo de alabastro, desde sua chegada a Portugal, acompanhando Constança Manoel, cativava a todos pela gentileza e simplicidade.
-Buscou de todas as formas represar as ânsias do amor por D. Pedro, considerando mesmo a hipótese de ingressar no Convento de Santa Clara.
+Buscou de todas as formas represar as ânsias do amor por D. Pedro, considerando mesmo a hipótese de ingressar no Convento de Santa Clara. ( † )
 Respeitou-lhe o casamento e somente teria cedido às investidas afetivas do infante quando da morte da infortunada esposa, em decorrência do parto de Fernando.
-Viúvo, o infante vai buscá-la em seu exílio, decretado por Afonso IV, no
-Castelo dos Albuquerques
-.
-As cartas espirituais que se sucedem no desdobrar do livro, as manifestações de carinho e respeito que Isabel de Aragão
-lhe dedicava, e o perdão irrestrito ao rei Afonso IV,
-inspirando Pedro a fazê-lo também, levam-nos a compreender que Inês possivelmente passou pelo acerbo sofrimento da manhã de 7 de janeiro de 1355, não por resgate reencarnatório, mas sim pela sua vocação missionária.
-Missão de renúncia e dor que iluminaria os novos caminhos a serem trilhados pela nação portuguesa e, de modo especial, pelos espíritos endividados de Pedro e seu pai, certamente a Inês ligados por fortes vínculos do passado.
-O historiador F. Dinis,
-em seu estudo sobre Portugal, a ela se refere com singular respeito, assim descrevendo-a em linguagem que adaptamos aos nossos dias:
+Viúvo, o infante vai buscá-la em seu exílio, decretado por Afonso IV, no Castelo dos Albuquerques.
+As cartas espirituais que se sucedem no desdobrar do livro, as manifestações de carinho e respeito que Isabel de Aragão ( † ) lhe dedicava, e o perdão irrestrito ao rei Afonso IV, ( † ) inspirando Pedro a fazê-lo também, levam-nos a compreender que Inês possivelmente passou pelo acerbo sofrimento da manhã de 7 de janeiro de 1355, não por resgate reencarnatório, mas sim pela sua vocação missionária.
+Missão de renúncia e dor que iluminaria os novos caminhos a serem trilhados pela nação portuguesa e, de modo especial, pelos Espíritos endividados de Pedro e seu pai, certamente a Inês ligados por fortes vínculos do passado.
+O historiador F. Dinis, ( † ) em seu estudo sobre Portugal, a ela se refere com singular respeito, assim descrevendo-a em linguagem que adaptamos aos nossos dias:
 O que nela mais fascinava era o esplendor suave e sereno da própria gentileza. A formosura de Inês era uma destas formosuras suaves que involuntariamente inspiram amor.
 A gentileza de Inês de Castro era como que o reflexo de sua alma cândida; os seus contemporâneos denominaram-na colo de garça, tão airosas eram as ondulações do seu pescoço gentil, sustentando a formosa cabeça moldurada profusamente de tranças loiras.
 Mas o que tinha principalmente, o que nela mais cativava, era o indefinível encanto, o feitiço etéreo, como que intangível, que os franceses chamam graça, mais bela ainda que a beleza.
-Com sua aguda visão feminina, também a escritora espanhola Maria Pilar
-trata da beleza de Inês de Castro, apresentando-a com singular inspiração:
+Com sua aguda visão feminina, também a escritora espanhola Maria Pilar ( † ) trata da beleza de Inês de Castro, apresentando-a com singular inspiração:
 Alta, esbelta e ágil de movimentos, Inês possuía um frescor especial que não necessitava de artifícios. Conservava os caracóis dourados de seus tempos de criança e evitava os toucados que os pudessem esconder.
 Perspicaz, costumava vestir-se de tons de azul, sabendo que essa cor fazia ressaltar as profundidades dos olhos esverdeados.
 No poema de Inês, endereçado a Pedro, pelas mãos de Francisco Cândido Xavier, que apresentamos a seguir, podemos aquilatar-lhe a fascinante criatividade, a sensibilidade e o preparo intelectual, sublimados no correr dos séculos, após sua vivência medieval:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Com a união definida pelas cortes, e não pelos noivos, vemos assim Constança Manoel
-em Lisboa.
-Afonso Onzeno
-acertou o matrimônio com Afonso IV,
-pelas razões que caminhavam usualmente, naqueles tempos, ao largo da afeição.
-O principal motivo para o soberano castelão era agradar, como veremos a seguir, o nobre João Manoel,
-pai da infeliz dama e figura ainda importante na corte. E por quê?
-Era Afonso Onzeno filho herdeiro de Fernando IV
-de Castela e da rainha também chamada Constança,
-dama portuguesa, irmã de D. Afonso IV, rei de Portugal.
+1 Um dia No Castelo de Lemos, Onde fora nascida, Por símbolos que nós desconhecemos, Tive, quando em criança, Um sonho que, até hoje, a memória me alcança, Por ser dos mais estranhos.
+2 Eu não era pessoa nesse sonho, Via-me como sendo uma enorme planície Entre filas de montes… Faixa extensa de Terra sinuosa…
+3 Ah! Nunca conseguiria levantar-me Para fitar campinas e horizontes. Entretanto, Do baixo nível em que estava, Via e ouvia homens da montanha Que falavam tramando intriga e guerra E muitos me apontavam exclamando, Em clamoroso alarme:
+4 — Aquela Terra Tão baixa e tão estranha Tem pedras preciosas Sob os montes de areia, lodo e lama Que as chuvas lhe acarretam…
+5 Em qualquer discussão Um deles mais ousado Dizia claramente sem razão: — Aquela terra é minha, É um charco muito grande e inexplorado Das glebas que comprei…
+6 Tudo ouvia em silêncio, mas com medo, Porque guardava em mim um divino segredo: O Gênio Celestial que me fizera, Tendo vindo ao terrestre, sorvedouro, Tinha guardado em mim seu imenso tesouro…
+7 Sendo eu criação dele somente, Escondera, na lama que eu trazia, Imensidades de pepitas de ouro, Brilhantes de beleza singular, Esmeraldas em 1uz de formação sem par, Ametistas, opalas e rubis.
+8 Tantas riquezas juntas… Para vê-las Só se alguém manejasse Notando a realidade, face a face, Grandes lentes de flores e de estrelas…
+9 Mas escutando, quase dia a dia, Homens gritando na montanha. — Ninguém pise essa terra que ela é minha… E outro a dizer com terrível dureza: — É antigo pantanal da fazenda que eu tinha…
+10 Então pedi a Deus que me enviasse O Gênio Criador que me fizera… E esse Gênio Celeste, que é meu dono, Por eterna escritura, Desceu da imensa altura Num carro todo em luz que parecia Uma visão de paz e alegria De imortal primavera…
+11 Entretanto, ao tocar no chão escuro e frio, O Gênio Celestial transformou-se num rio Que me cobriu toda a extensão E me guardou de todo… Não fez caso da lama, nem do lodo Que aguaceiros me impunham Nas ocorrências da erosão.
+12 O rio me tomara simplesmente Como sendo o seu próprio coração. E ninguém mais me viu e ninguém mais falou Em servir-se e tomar O tesouro sem fim que me cabe guardar.
+13 Homens viram apenas O rio que até hoje ainda se expande, Caudaloso, perfeito, belo e grande, Levantando o progresso e alimentando vidas. Mas tão somente ele, o rio, Sabe onde está, pode ver, guardar, e mais ninguém, O tesouro que fez e o mundo que ele tem, Nessas riquezas escondidas.
+14 O rio sabe a fundo Que e1e veio cobrir, defender e buscar O próprio coração que deixara no mundo Para seguir com ele a caminho do Mar…
+15 Depois disso acordei de alma encantada E cantei de alegria, ante a manhã dourada, Imitando a cigarra em pleno estio, Ansiando sonhar outra vez e outra vez: — Bendito seja Deus que fez o rio, Bendito seja o rio que me fez.
+Com a união definida pelas cortes, e não pelos noivos, vemos assim Constança Manoel ( † ) em Lisboa.
+Afonso Onzeno ( † ) acertou o matrimônio com Afonso IV, ( † ) pelas razões que caminhavam usualmente, naqueles tempos, ao largo da afeição.
+O principal motivo para o soberano castelão era agradar, como veremos a seguir, o nobre João Manoel, ( † ) pai da infeliz dama e figura ainda importante na corte. E por quê?
+Era Afonso Onzeno filho herdeiro de Fernando IV ( † ) de Castela e da rainha também chamada Constança, ( † ) dama portuguesa, irmã de D. Afonso IV, rei de Portugal.
 A morte prematura de Fernando IV precipitou-lhe a sucessão, sendo o príncipe herdeiro, Afonso Onzeno, ainda criança.
 Um de seus regentes foi João Manoel, dos mais prestigiosos fidalgos de Castela, contudo sua regência foi interrompida por Afonso Onzeno, que, ao completar 15 anos, assumiu o poder, expulsando-o da casa real.
-O tão temido e respeitado Senhor de Penafiel, em represália, buscou depô-lo pela força das armas.
+O tão temido e respeitado Senhor de Peñafiel, em represália, buscou depô-lo pela força das armas.
 O rei adolescente, sem estrutura militar, com pouca retaguarda da nobreza, vendo-se prestes a perder a coroa, convocou o ex-regente, propondo-lhe um acordo do qual resultou o casamento do jovem monarca com sua filha, que se tornaria assim rainha de Castela.
-Afonso Onzeno, todavia, não cumpriu o prometido, repudiando a jovem, que ainda não havia chegado à adolescência, conservando-a prisioneira na cidade de Toro
-por quatro anos e usando-a como refém contra qualquer investida do pai. E não parou por aí.
-Perdurando a situação incômoda, que magoava o poderoso João Manoel, para agradá-lo e também para aproximar-se mais de Portugal, Afonso Onzeno contratou com Afonso IV o casamento entre sua ex-esposa Constança Manoel e Pedro,
-o príncipe herdeiro.
+Afonso Onzeno, todavia, não cumpriu o prometido, repudiando a jovem, que ainda não havia chegado à adolescência, conservando-a prisioneira por muitos anos na cidade de Toro ( † ) usando-a como refém contra qualquer investida do pai. E não parou por aí.
+Perdurando a situação incômoda, que magoava o poderoso João Manoel, para agradá-lo e também para aproximar-se mais de Portugal, Afonso Onzeno contratou com Afonso IV o casamento entre sua ex-esposa Constança Manoel e Pedro, ( † ) o príncipe herdeiro.
 O acordo matrimonial, aliás, fora articulado pelo próprio João Manoel, que, desgostoso com a situação da filha, propôs o seu enlace com Pedro a Afonso IV. O rei anuiu.
-Afinal, pensou Afonso IV, poderia romper a união de Pedro com a infeliz enferma, Branca de Castela,
-e oferecer ao filho um promissor enlace, dada a grande relevância de João Manoel no cenário político da Península. Além disso, Constança era culta e preparada para as responsabilidades que competiam a uma rainha.
+Afinal, pensou Afonso IV, poderia romper a união de Pedro com a infeliz enferma, Branca de Castela, ( † ) e oferecer ao filho um promissor enlace, dada a grande relevância de João Manoel no cenário político da Península. Além disso, Constança era culta e preparada para as responsabilidades que competiam a uma rainha.
 Assim, Constança voltaria a ser soberana, agora de Portugal, quando Pedro assumisse o trono. Quis, contudo, o destino que, mais uma vez, a jovem não fosse coroada.
 Afonso Onzeno demorou a permitir a ida de Constança a Portugal, conservando-a qual presa útil aos seus projetos com relação a João Manoel. Somente o fez após D. Afonso IV, para resgatá-la, declarar guerra a Castela em 1336 e, ainda assim, depois de quase quatro anos de conflitos.
 Mesmo com a guerra em andamento, a verdadeira razão da liberação de Constança foi, acima dos embates com Portugal, a premência em obter o apoio de Afonso IV às duras batalhas que Onzeno mantinha, então, com os muçulmanos de Granada, aliados ao rei do Marrocos.
-Após uma década de sofrimentos impostos pelo rei castelão, enfim, chega Constança a Portugal, em 1340, para celebrar as cerimônias de casamento na Sé de Lisboa.
+Após uma década de sofrimentos impostos pelo rei castelão, enfim, chega Constança a Portugal, em 1340, para celebrar as cerimônias de casamento na Sé de Lisboa. ( † )
 Seu coração seria, porém, novamente golpeado, como já o fora em Castela, pelas temíveis razões de Estado que nos levam a vê-los juntos, Pedro e Constança, conhecendo-se na catedral…
 Ela, que já passara por grande humilhação na corte de Afonso Onzeno, enfrentaria outros dissabores em Portugal.
 Como podemos constatar, assim eram as uniões entre os jovens príncipes da época. O que se poderia esperar delas quando sua perpetuação dependia mais de fatores políticos, ambições e conveniências do que propriamente de afeição?
-Constança, ao perceber a ligação de Pedro com sua dama de companhia, Inês,
-portou-se dignamente: calou-se diante da realidade.
-Tentou, é verdade, convidando-a para madrinha do primeiro filho, dificultar-lhe a aproximação com Pedro, pois tratava-se de vínculo que a Igreja considerava fator de impedimento às uniões conjugais.
-Não teve êxito.
+Constança, ao perceber a ligação de Pedro com sua dama de companhia, Inês, ( † ) portou-se dignamente: calou-se diante da realidade.
+Tentou, é verdade, convidando-a para madrinha do primeiro filho, dificultar-lhe a aproximação com Pedro, pois tratava-se de vínculo que a Igreja considerava fator de impedimento às uniões conjugais. Não teve êxito.
 Esposa exemplar, sofreu no silêncio da sabedoria e da renúncia durante os cinco anos em que permaneceram juntos.
-D. Pedro I
-nasceu em Coimbra, a oito de abril de 1320. Como todos os reis afonsinos, era descendente do Conde D. Henrique,
-francês da família de Borgonha, que semeou reis e nobres ao longo dos séculos pela Europa Ocidental.
-Filho de D. Afonso IV e Beatriz de Castela,
-era, por falecimento dos irmãos mais velhos, o primogênito homem e, portanto, herdeiro da coroa.
-Já aos oito anos, em função dos acertos palacianos, recebeu em casamento uma criança de sete, Branca de Castela,
-cujo desequilíbrio mental levou à dissolução do compromisso.
-Sua estirpe era notável: filho de um grande rei, Afonso IV,
-o Rei-Guerreiro, e neto de D. Dinis,
-o Rei-Poeta. Conviveu Pedro com a avó Isabel de Aragão
-até os 16 anos, recolhendo à Rainha Santa ensinamentos e exemplos que muito o ajudaram na triste sina que o acompanhou após o martírio de Inês de Castro, ocorrido por razões políticas, que, uma a uma, o tempo fez desacreditar.
+D. Pedro I ( † ) nasceu em Coimbra, a oito de abril de 1320. Como todos os reis afonsinos, era descendente do Conde D. Henrique, ( † ) francês da família de Borgonha, que semeou reis e nobres ao longo dos séculos pela Europa Ocidental.
+Filho de D. Afonso IV e Beatriz de Castela, ( † ) era, por falecimento dos irmãos mais velhos, o primogênito homem e, portanto, herdeiro da coroa.
+Já aos oito anos, em função dos acertos palacianos, recebeu em casamento uma criança de sete, Branca de Castela, ( † ) cujo desequilíbrio mental levou à dissolução do compromisso.
+Sua estirpe era notável: filho de um grande rei, Afonso IV, ( † ) o Rei-Guerreiro, e neto de D. Dinis, ( † ) o Rei-Poeta. Conviveu Pedro com a avó Isabel de Aragão ( † ) até os 16 anos, recolhendo à Rainha Santa ensinamentos e exemplos que muito o ajudaram na triste sina que o acompanhou após o martírio de Inês de Castro, ocorrido por razões políticas, que, uma a uma, o tempo fez desacreditar.
 Para tanta dor, se houve motivos cármicos, certamente imperscrutáveis, estavam eles no passado, em existências anteriores.
 O calvário por que passaram permitiu a Inês, ao longo do tempo, alçar voos espirituais elevados sob a proteção da Rainha Santa.
-Todavia, Pedro continuou preso às amarras da Terra ainda pelos séculos vindouros, caminhando espiritualmente mais distante de Inês.
-A chegada de D. Constança
-para as cerimônias de casamento na Sé de Lisboa
-trouxe oculta toda a tragédia que eclodiu em pouco tempo. Olhares furtivos entre Pedro e Inês já na catedral, posteriores contatos e a cruel realidade, que não fugiu aos olhos da nobre castelã, desdobraram-se nos fatos que nem a férrea autoridade de Afonso IV conseguiu deter.
+Todavia, Pedro continuou preso às amarras da Terra ainda pelos séculos vindouros, caminhando, na ótica espiritual, bem mais lentamente que Inês.
+A chegada de D. Constança ( † ) para as cerimônias de casamento na Sé de Lisboa ( † ) trouxe oculta toda a tragédia que eclodiu em pouco tempo. Olhares furtivos entre Pedro e Inês já na catedral, posteriores contatos e a cruel realidade, que não fugiu aos olhos da nobre castelã, desdobraram-se nos fatos que nem a férrea autoridade real conseguiu deter.
 Os esforços da corte para afastar Pedro de Inês foram infrutíferos.
-Chegou o rei a degredá-la no
-Solar dos Albuquerques
-, em Castela, apesar das amargas lembranças que o local trazia a Afonso IV, porquanto o imponente castelo fora habitado por seu irmão bastardo, Afonso Sanches,
-com quem sempre tivera sérias desavenças.
+Chegou Afonso IV a degredá-la no Solar dos Albuquerques, em Castela, apesar das amargas lembranças que o local trazia, porquanto o imponente castelo fora habitado por seu irmão bastardo, Afonso Sanches, ( † ) com quem sempre tivera sérias desavenças.
 Ali ainda residia a viúva de Afonso Sanches — naturalmente hostil a Afonso IV — a tia de Inês de Castro, D. Tereza Albuquerque, que passou a cuidar da jovem durante o exílio, a despeito do qual se sucediam os contatos entre Pedro e Inês.
-Em novembro de 1345, D. Constança foi liberada de seus sofrimentos morais pelas leis divinas. Faleceu em decorrência do parto de Fernando,
-que viria a ser o sucessor do pai, na sequência da dinastia afonsina da qual foi o último rei.
-A infeliz senhora, que sofrera em Castela o desprezo do rei Afonso Onzeno
-esperançosa de reviver a paz e aplacar os ímpetos do coração em Portugal — também aí não foi afortunada, desde o momento em que transpôs a soleira da Catedral de Lisboa…
+Em novembro de 1345, D. Constança foi liberada de seus sofrimentos morais pelas leis divinas. Faleceu em decorrência do parto de Fernando, ( † ) que viria a ser o sucessor do pai, na sequência da dinastia afonsina da qual foi o último rei.
+A infeliz senhora, que sofrera em Castela o desprezo do rei Afonso Onzeno ( † ) — esperançosa de reviver a paz e aplacar os ímpetos do coração em Portugal — também aí não foi afortunada, desde o momento em que transpôs a soleira da Catedral de Lisboa…
 Pedro e Constança tiveram três filhos: Luís, que pouco durou, Maria e Fernando.
-Com o falecimento da esposa, Pedro vai buscar Inês de Castro no Solar dos Albuquerques à revelia paterna, trazendo-a para o seu convívio direto nas proximidades de Peniche,
-ali usufruindo o casal os saudosos bons tempos em que nasceram os filhos e que foram os raros momentos felizes de sua atribulada união.
+Com o falecimento da esposa, Pedro vai buscar Inês de Castro no Solar dos Albuquerques à revelia paterna, trazendo-a para o seu convívio direto nas proximidades de Peniche, ( † ) ali usufruindo o casal os saudosos bons tempos em que nasceram os filhos e que foram os raros momentos felizes de sua atribulada união.
 A eles não estava destinada a felicidade na Terra.
-Posteriormente, fixam-se em Coimbra,
-onde nos encontramos no início deste livro.
+Posteriormente, fixam-se em Coimbra, ( † ) onde nos encontramos no início deste livro.
 Da união de Pedro e Inês nasceram quatro filhos, sobre os quais teceremos rápidas considerações a seguir.
-A morte da mãe em 1355, quando eram ainda muito crianças, e a do pai em 1367, no momento em que João,
-o mais velho, mal saía da adolescência, trouxeram pesadas dificuldades para os filhos de Inês e Pedro, sacudidos na infância pela tragédia que lhes destruiu o lar.
-João e Dinis
-tiveram vida muito atribulada, eivada de sofrimentos e incertezas, dando continuidade à triste saga vivida pelos pais.
-Beatriz,
-somente quando passou a viver em Castela, deixando a querida Quinta dos Canidelos,
-de tão afetuosas recordações, pôde atenuar as angústias que acompanharam os irmãos até o fim de seus dias.
-Falemos um pouco deles:
-— Afonso (1349), que morre no mesmo ano.
-— João
-(1350), que Inês, em suas cartas mediúnicas, insiste em chamar João Álvaro. Teria, segundo alguns textos, presenciado a decapitação da mãe, ainda na primeira infância, agarrado à aia. António Cândido Franco, em candente descrição, lembra o desespero do filho mais velho de Inês:
+A morte da mãe em 1355, quando eram ainda muito crianças, e a do pai em 1367, no momento em que João, ( † ) o mais velho, mal saía da adolescência, trouxeram pesadas dificuldades para os filhos de Inês e Pedro, sacudidos na infância pela tragédia que lhes destruiu o lar.
+João e Dinis ( † ) tiveram vida muito atribulada, eivada de sofrimentos e incertezas, dando continuidade à triste saga vivida pelos pais.
+Beatriz, ( † ) somente quando passou a viver em Castela, deixando a querida Quinta dos Canidelos, ( † ) de tão afetuosas recordações, pôde atenuar as angústias que acompanharam os irmãos até o fim de seus dias.
+Falemos um pouco deles: — Afonso (1349), que morre no mesmo ano. — João ( † ) (1350), que Inês, em suas cartas mediúnicas, insiste em chamar João Álvaro.
+Teria, segundo alguns textos, presenciado a decapitação da mãe, ainda na primeira infância, agarrado à aia. António Cândido Franco, em candente descrição, lembra o desespero do filho mais velho de Inês:
 Pobre criança, que viste, aos sete anos, a tua mãe assassinada no chão, num charco de sangue, a cara decomposta e os olhos brancos (…)
-Tornou-se muito popular durante o reinado de Fernando I,
-credenciando-se como possível sucessor do trono, pois, como sabemos, o monarca faleceu sem herdeiro varão, e a rigorosa interpretação da lei sálica
-poderia dificultar a ascensão de sua herdeira, Beatriz.
-O prestígio e as nobres virtudes de João não agradavam a Leonor Teles,
-que, vendo-o casado com a irmã, Maria, passou a considera-lo com mais reservas. Temia que a própria irmã se tornasse rainha com a morte de Fernando, dificultando-lhe a presença na corte.
-Fala-se também que Leonor tentara cooptá-lo, oferecendo-lhe a mão da filha, Beatriz,
-herdeira do trono português, com a condição do rompimento de seus liames com Maria Teles.
-Tese provável, pois, João, o filho mais velho de Pedro e Inês, infante também pela oficialização da união entre os pais na Declaração de Cantanhede,
-reiterada em Coimbra, em 1360, poderia como rei consorte dar estabilidade à sucessão de D. Fernando.
+Tornou-se muito popular durante o reinado de Fernando I, ( † ) credenciando-se como possível sucessor do trono, pois, como sabemos, o monarca faleceu sem herdeiro varão, e a rigorosa interpretação da lei sálica ( † ) poderia dificultar a ascensão de sua herdeira, Beatriz.
+O prestígio e as nobres virtudes de João não agradavam a Leonor Teles, ( † ) que, vendo-o casado com a irmã, Maria, passou a considera-lo com mais reservas. Temia que a própria irmã se tornasse rainha com a morte de Fernando, dificultando-lhe a presença na corte.
+Fala-se também que Leonor tentara cooptá-lo, oferecendo-lhe a mão da filha, Beatriz, ( † ) herdeira do trono português, com a condição do rompimento de seus liames com Maria Teles.
+Tese provável, pois, João, o filho mais velho de Pedro e Inês, infante também pela oficialização da união entre os pais na Declaração de Cantanhede, ( † ) reiterada em Coimbra, em 1360, poderia como rei consorte dar estabilidade à sucessão de D. Fernando.
 Com tal objetivo, Leonor teria articulado para que o infante se separasse de Maria Teles, forjando encontro da irmã com um nobre conhecido, o que a incriminaria por grave ato de traição.
 Os acontecimentos fugiram ao controle, pois, ao vê-los juntos, João desferiu golpe de espada contra o suposto amante da esposa, que se jogou entre os dois, sendo ferida de morte.
 O infortúnio inviabilizou as pretensões do infante ao trono. Surpreendeu o rei e Leonor Teles, que acreditava na simples anulação do casamento, sem a perda da irmã.
-Desesperado, sem a companheira, viu-se João constrangido a emigrar para Castela, onde veio a casar-se com Constança [de Castela], filha bastarda do rei Henrique II,
-cujo filho e sucessor, também de nome João,
-mais tarde o prenderia, por razões políticas, isolando, assim, da sucessão portuguesa o mais forte candidato pelos títulos que possuía.
-João teria falecido na prisão de Salamanca ou, segundo outras fontes, permanecido ali detido apenas durante a revolução de 1383-1385,
-que suprimiu a regência de Leonor Teles.
+Desesperado, sem a companheira, viu-se João constrangido a emigrar para Castela, onde veio a casar-se com Constança, ( † ) filha bastarda do rei Henrique II, ( † ) cujo filho e sucessor, também de nome João, ( † ) mais tarde o prenderia, por razões políticas, isolando, assim, da sucessão portuguesa o mais forte candidato pelos títulos que possuía.
+João teria falecido na prisão de Salamanca ou, segundo outras fontes, permanecido ali detido apenas durante a revolução de 1383-1385, ( † ) que suprimiu a regência de Leonor Teles.
 Terminaria os seus amargos dias orando e jejuando, ante tantos sofrimentos que lhe marcaram a vida, bem como a dos irmãos, Beatriz e Dinis, depois da morte da saudosa mãe.
-No período de transição de dois anos, de 1383 a 1385, entre a morte de D. Fernando e a ascensão do novo rei, as forças nacionalistas portuguesas, em confronto com Leonor Teles e o rei de Castela, apoiaram o outro João,
-o Mestre de Avis, também filho de D. Pedro, nascido de Tereza Lourenço
-dois anos após a morte de Inês.
+No período de transição de dois anos, de 1383 a 1385, entre a morte de D. Fernando e a ascensão do novo rei, as forças nacionalistas portuguesas, em confronto com Leonor Teles e o rei de Castela, apoiaram o outro João, ( † ) o Mestre de Avis, também filho de D. Pedro, nascido de Tereza Lourenço ( † ) dois anos após a morte de Inês.
 Aliás, é oportuno mencionar que a respeito dos filhos de nome João, um, nascido de sua união com Inês de Castro, e o outro, o bastardo que sucedeu a D. Fernando, há uma vivência espiritual de Pedro muito interessante:
-Em conversa com os amigos mais próximos, dizia o rei haver sonhado que um de seus filhos de nome João seria rei. O curioso do fato é que ambos os filhos de mesmo nome não eram, dentro da sequência normal da transmissão do poder, detentores de direitos sucessórios segundo os cânones da época.
+Em conversa com os amigos mais próximos, dizia o soberano haver sonhado que um de seus filhos de nome João seria rei. O curioso do fato é que ambos os filhos de mesmo nome não eram, dentro da sequência normal da transmissão do poder, detentores de direitos sucessórios segundo os cânones da época.
 O sonho se realizaria mais tarde, em decorrência do período turbulento que se seguiu à morte de Fernando, com a ascensão ao trono de um deles, o seu filho bastardo. Tivera D. Pedro, a esse respeito, clara premonição.
-— Dinis (1351),
-que se refugiou em Castela devido a singular ocorrência, descrita por Joaquim Ferreira em seu tratado sobre Portugal, e que passamos a relatar:
-Os filhos de Inês de Castro frequentavam a corte de D. Fernando.
+— Dinis (1351), ( † ) que se refugiou em Castela devido a singular ocorrência, descrita por Joaquim Ferreira em seu tratado sobre Portugal, e que passamos a relatar:
+Os filhos de Inês de Castro frequentavam a corte de D. Fernando. ( † )
 Ao casamento do rei com Leonor seguiu-se a cerimônia do beija-mão da rainha.
 O infante D. Dinis, segundo filho de Inês, recusou-se a fazê-lo, dizendo que ela, sim, deveria beijar-lhe a mão. Fernando, puxando da adaga, avançou sobre Dinis, sendo contido a tempo.
 O infante, ante a nova realidade, radicou-se em Castela.
-Sua vida foi muito atribulada: buscou retornar mais tarde a Portugal, não sendo bem recebido pelo então soberano, seu meio-irmão, o Mestre de Avis,
-que, para afastá-lo da Corte, enviou-o à Inglaterra em missão diplomática. Aí detido, conseguiu a fuga para Castela.
-Casou-se, como o irmão, com uma filha bastarda de Henrique II, de nome Joana [de Castela].
-— Beatriz (1354),
-ligada à corte de seu outro meio-irmão, D. Fernando. Era dele muito próxima. Bela, exuberante, preparada, suas relações com Leonor Teles
-foram complicadas.
-Fator certamente preponderante da animosidade entre ambas foi o fato da mãe, Inês, não ter sido rainha, em vida, pela sua violenta morte, com Beatriz e os irmãos ainda muito pequenos. Dos filhos de Inês de Castro, foi a que mais usufruiu a Quinta de Canidelos,
-próxima da cidade do Porto.
-Sem ambiente na Corte, por desentendimentos com a rainha, migrou para Castela, casando-se, em 1377, com D. Sancho,
-o Conde de Albuquerque, irmão do rei Henrique II.
-Ali viveu até o fim de seus dias, e deixou filhos e descendentes ilustres. Sua neta, Leonor de Aragão,
-foi esposa do rei D. Duarte
-de Portugal, filho e sucessor do Mestre de Avis. Muito próxima dos irmãos, teria usado sua influência de cunhada do rei para obter-lhes casamento com duas de suas filhas.
-O período correspondente à morte de Constança Manoel,
-ao exílio de Inês de Castro
-e ao estreitamento de sua convivência com Pedro,
-de que falamos neste capítulo, é testemunhado pela mensagem de Inês, transmitida pelo Chico.
+Sua vida foi muito atribulada: buscou retornar mais tarde a Portugal, não sendo bem recebido pelo então soberano, seu meio-irmão, o Mestre de Avis, ( † ) que, para afastá-lo da Corte, enviou-o à Inglaterra em missão diplomática. Aí detido, conseguiu a fuga para Castela.
+Casou-se, como o irmão, com uma filha bastarda de Henrique II, de nome Joana. ( † )
+— Beatriz (1353), ( † ) ligada à corte de seu outro meio-irmão, D. Fernando. Era dele muito próxima. Bela, exuberante, preparada, suas relações com Leonor Teles ( † ) foram complicadas.
+Fator certamente preponderante da animosidade entre ambas foi o fato da mãe, Inês, não ter sido rainha, em vida, pela sua violenta morte, com Beatriz e os irmãos ainda muito pequenos. Dos filhos de Inês de Castro, foi a que mais usufruiu a Quinta de Canidelo, ( † ) próxima da cidade do Porto.
+Sem ambiente na Corte, por desentendimentos com a rainha, migrou para Castela, casando-se, em 1377, com D. Sancho, ( † ) o Conde de Albuquerque, irmão do rei Henrique II.
+Ali viveu até o fim de seus dias, e deixou filhos e descendentes ilustres. Sua neta, Leonor de Aragão, ( † ) foi esposa do rei D. Duarte ( † ) de Portugal, filho e sucessor do Mestre de Avis. Muito próxima dos irmãos, teria usado sua influência de cunhada do rei para obter-lhes casamento com duas de suas filhas.
+O período correspondente à morte de Constança Manoel, ( † ) ao exílio de Inês de Castro ( † ) e ao estreitamento de sua convivência com Pedro, ( † ) de que falamos neste capítulo, é testemunhado pela mensagem de Inês, transmitida pelo Chico.
 São palavras candentes de quem participou daqueles difíceis momentos:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Inês nasceu em terras galegas, lá onde a névoa confunde os contornos das coisas, o verde transforma os prados em esmeraldas e o rumor contínuo da chuva converte a inquietude em suave melancolia.
-Do mar ali próximo aproveitou o azul dos olhos, dos morros arredondados, que rodeavam as suas terras, a harmonia da figura e dos cuidados, que auspiciaram o seu nascimento, um certo magnetismo a que não escapava ninguém que a contemplasse.
-Criada como foi em Castela, dos trigais dourados recebeu a cor da abundante cabeleira e, da desolação da paisagem, uma certa austeridade de maneiras que a tornavam, se assim se pode dizer, ainda mais sedutora… (
-)
-O que nela mais fascinava era o esplendor suave e sereno da própria gentileza. A formosura de Inês era uma destas formosuras suaves que involuntariamente inspiram amor.
-A gentileza de Inês de Castro era como que o reflexo de sua alma cândida; os seus contemporâneos denominaram-na colo de garça, tão airosas eram as ondulações do seu pescoço gentil, sustentando a formosa cabeça moldurada profusamente de tranças loiras.
-Mas o que tinha principalmente, o que nela mais cativava, era o indefinível encanto, o feitiço etéreo, como que intangível, que os franceses chamam graça, mais bela ainda que a beleza.
-Alta, esbelta e ágil de movimentos, Inês possuía um frescor especial que não necessitava de artifícios. Conservava os caracóis dourados de seus tempos de criança e evitava os toucados que os pudessem esconder.
-Perspicaz, costumava vestir-se de tons de azul, sabendo que essa cor fazia ressaltar as profundidades dos olhos esverdeados.
-Pobre criança, que viste, aos sete anos, a tua mãe assassinada no chão, num charco de sangue, a cara decomposta e os olhos brancos (…)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 Amado rei e senhor meu, digne-se Nosso Pai de Infinita Bondade abençoar-vos e engrandecer-vos sempre.
+2 Tão grande é a similitude das situações desta vossa servidora, que, um dia, desejastes arrancar ao anonimato e à bastardia, para compartilhar a vossa real presença, entre o passado e o presente, que vos peço perdão se recordo a ocasião em que me destacastes em vosso afeto.
+3 Desfrutáveis a liberdade para algo dizer-me de vosso amor, entretanto de que modo conseguiria expressar-vos a imensa ternura que me inspiráveis, em minha condição de fraca mulher chamada a servir em vossa real moradia?
+4 Sabeis que caí sob o domínio da febre maligna quando me dissestes, pela primeira vez, que eu estava em vossa alma, que me debati entre a vida e a morte, chamando-vos para junto de mim… de tudo isso sabeis.
+5 Protegestes a minha convalescença, restituindo-me a saúde, mas, quando voltastes a me falar de vosso amor, no Paço de Lisboa, porque eu chorasse, incapaz de responder, afirmastes magoado:
+— Já sei. Amais a outro e não a mim.
+— Isto nunca aconteceu, respondi entre lágrimas.
+— Então, por que a recusa?
+6 Ante a vossa indagação, esclareci que era minha intenção professar na Ordem de Santa Clara, que, decerto, bastarda como eu era, não poderia, de minha parte, fazer a felicidade de ninguém.
+7 Fixastes-me com imensa tristeza e acrescentastes:
+— Compreendo, Inês… Sei que não me quereis diante da minha dificuldade de expressar-me… Creio que não sei falar quanto vos amo… Em família e na Corte, todos me acreditam calado, impenetrável… Certamente, qual ocorre aos outros, tendes medo de mim…
+8 — Quem vos disse tamanha inverdade? Apenas compreendo a distância que nos separa. Deus sabe quanto vos admiro e respeito…
+— Só isso? — Acentuastes em tom amargo. — Inês, eu sofro muito…
+9 Incapaz de sopitar os sentimentos que me turbilhonavam no coração, expliquei francamente:
+— Eu vos amo com todas as forças de minh’alma, eu vos amo desvairadamente, senhor! Acaso não vedes que as minhas lágrimas falam mais que as palavras?
+10 — Então, salvai-me deste sofrimento — dissestes.
+— E quem me salvará, senhor? — Repliquei no pranto convulsivo em que me desfiz totalmente.
+11 — Eu vos salvarei — respondestes. — Então, no aposento isolado, me tomastes nos braços fortes, como querendo guardar a minha fragilidade na fortaleza de vosso peito leal e magnânimo e me beijastes tão profundamente e tantas vezes, qual se quisésseis marcar-me com o vosso amor para sempre.
+12 Desde esse instante, confirmei a mim mesma que eu nascera propriamente vossa. Para mim não importavam mais o sofrimento ou a morte. Sentia-me vossa, sem condições. Qualquer argumento do mundo contra semelhante verdade teria a força de minúsculo galho de arvoredo que se propusesse a sustar a correnteza de um grande rio.
+13 Entreguei-vos, amado soberano, o que eu chamava como sendo minha vida, como já vos pertenciam o meu coração com todos os meus pensamentos.
+14 Isso acontecia em mim, não porque fôsseis o príncipe e futuro rei, porque, se estivésseis na estamenha de um carvoeiro, seria vossa propriedade sem qualquer condição.
+15 Sabeis que a intriga palaciana, a injúria dos conselheiros, a perseguição das autoridades do reino e as tramas dos áulicos sem piedade conseguiram deslocar-me de vossos braços e me fizeram marchar para o exílio. Sabeis quanto nos doeu a separação.
+16 Não era a terra florida e acolhedora do vosso País que eu deixava, com o banimento a que me votaram, mas sim deixava a própria vida em vossas mãos. 17 O que foram aqueles tempos de saudade e de dor que somente as vossas letras amenizavam, sabe-o Deus.
+18 A morte da Rainha Dona Constança Manoel, que todos lamentamos de coração, logo após o nascimento de vosso filho, o rei Dom Fernando, induziu-nos a renovar as nossas vivências.
+19 As emoções de nossa viagem recente me trouxeram à memória as resoluções que adotastes.
+20 Chegastes ao Solar dos Albuquerques, em que meu exílio se fixara, e decidistes trazer-me de qualquer modo.
+21 Não havia como alterar-vos as decisões e, embora soubesse, com os parentes e amigos, que a minha volta ao vosso País desafiaria a autoridade de vosso amado pai, o amor foi mais forte que o receio, e acompanhei-vos sem titubear.
+22 Instalastes-me em vossa companhia no Paço Real da Serra de El-Rei, nas vizinhanças de Peniche, após laboriosa viagem em que tudo fizestes para me evitar as preocupações.
+23 Nesse ninho erguido entre o verde e as flores da região, nasceu-nos o primeiro filho, a quem chamastes Dom Afonso, em 1349, e palavras humanas não descreveriam o júbilo e a esperança de que nos sentíamos tomados, ante aquela vida abençoada que desabrochava das nossas.
+24 Dom Afonso, porém, pareceu-nos uma flor por demais sensível ao clima espiritual dos conflitos que se multiplicavam em derredor de nós e voltou para os Céus, deixando-nos imensa dor.
+25 Perseguidos de novo por intrigas que vos vinham às mãos de vários pontos, estivesse a Corte em Lisboa ou em Évora, em Santarém ou em Coimbra, a vossa real benemerência conduziu-me em nova viagem, para as cercanias de Bragança, de onde poderíamos, a qualquer momento, retomar o caminho para a Galiza… Nossa felicidade nunca se alterou.
+26 Nosso segundo filho, Dom João Álvaro, veio ao mundo enlaçar-nos ainda mais… E depois os outros dois, D. Dinis e D. Beatriz.
+27 Perdoai-me se vos falo tanto em saudade, mas crede, amado soberano, que sois, hoje como ontem, agora como sempre, a minha própria vida e a minha luz.
+28 Deus vos guarde e abençoe com todos os corações que se fizeram estrelas de nosso amor.
 
 ---
 
-## 14 — Desdobramentos do encontro na Sé de Lisboa. Notícias de Isabel de Aragão
-
-No
-capítulo
-que trata do casamento de Pedro com D. Constança, Inês de Castro nos descreve as sensações difíceis dos primeiros momentos, quando reconheceu que Pedro era sua alma afim, todavia casado com a amiga e benfeitora. O choque inesperado prendeu-a ao leito, enferma, por muitos dias.
-A seguir, para entendermos melhor o drama vivido por Inês
-após o encontro na Sé de Lisboa, apresentamos outro depoimento seu com a forte presença de Isabel de Aragão:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 14
+
+No capítulo que trata do casamento de Pedro com D. Constança, Inês de Castro nos descreve as sensações difíceis dos primeiros momentos, quando reconheceu que Pedro era sua alma afim, todavia casado com a amiga e benfeitora. O choque inesperado prendeu-a ao leito, enferma, por muitos dias.
+A seguir, para entendermos melhor o drama vivido por Inês ( † ) após o encontro na Sé de Lisboa, apresentamos outro depoimento seu com a forte presença de Isabel de Aragão: ( † )
+1 Depois da longa enfermidade, que a retivera no leito por diversos dias, Inês havia saído para o campo, pelas portas de Santo Antão, acompanhada de Ana, a mesma companheira que se lhe fizera camarista desde o solar de D. Tereza de Albuquerque, na Galiza, e de um fiel escudeiro da Casa Real.
+2 Aquela era uma excursão campestre recomendada pelo médico, tocada de função terapêutica, que se realizaria a noroeste de Lisboa, e a aia da rainha fazia o passeio pela segunda vez.
+3 Montados em animais mansos, os três viajantes viram o Infante D. Pedro surgir da vereda próxima e incorporar-se, de imediato, à pequena caravana. O escudeiro e Ana tomaram retaguarda discreta, e o Infante, solícito, encarregou-se de guardar a companheira.
+4 A tarde era bela, e o sol do poente incidia sobre o verde das quintas bem cuidadas, imprimindo novo realce às rosas e jasmineiros, aos gerânios e rosmaninhos que embalsamavam a atmosfera de suave perfume.
+5 D. Pedro falou à companheira da beleza dos céus muito azuis, e Inês salientou que, nos céus, a impressionava a presença do sol, que lhe parecia um tesouro de forças repartidas por Deus, sobre todas as criaturas, em partes iguais.
+6 Ali estavam eles à frente de uma paisagem retratando a verdade do que afirmava. O homem no lar, o pássaro no ninho, o coelho em sua luta, a árvore sobre as raízes e a flor no caule recebiam do céu a mesma parcela de luz e calor, evidenciando a justiça que governa todos os seres e todas as coisas.
+7 D. Pedro escutava os conceitos que ouvia, tomado de profundo interesse, e o diálogo entre os dois começou, profundamente expressivo e humano, não obstante os olhares de ardente amor que permutavam entre si.
+— Inês — disse o infante — as suas palavras me fazem lembrar antigas conversações no regaço de minha avó, a Rainha Isabel. ( † )
+8 Era eu muito criança, cercado de professores que me preparavam para os tempos do futuro, quando, tudo indica, devo eu substituir meu pai no trabalho de governar, quando minha avó me falava de assuntos dos quais os meus mestres nunca se lembravam…
+— Como assim? — Disse a moça convalescente.
+9 — Minha avó não se detinha tanto, como era de pensar, nas realizações de meu avô D. Dinis, ( † ) que adorava as artes, notadamente a de escrever, a par dos serviços que desenvolvia intensamente no reino, a fim de acordar o povo para o cultivo do solo. Minha avó vivia mais pela alma. Muitas vezes me disse que esperava de mim, quando eu crescesse, uma diretriz humana que não prejudicasse os plebeus em favor dos fidalgos.
+10 Não sei por que confiava tanto num menino como eu, de tão tenra idade… Era muito versada no latim e traduziu para meu conhecimento ensinos de Jesus que me ficaram na memória.
+11 D. Pedro, notando que a companheira cismava, continuou:
+— Você não pode esquecer da luta imensa que houve entre meu pai e D. Afonso Sanches, ( † ) de quem sua tia Tereza é a viúva… Pois minha avó conseguiu colocar a paz, em nome de Cristo, entre eles!
+12 A Rainha Isabel, muitas vezes, quando era um menino, me dizia ouvir as vozes de Santo Agostinho ( † ) e de Santo Antão, ( † ) quando estava no oratório, e me dizia que esses santos pediam a ela que pusesse, no meu coração, as ideias da justiça igual para todos, mas recomendava que eu não falasse disso a ninguém, para que os fidalgos não a considerassem louca.
+13 Um dia, chamou D. Afonso Sanches, o filho bastardo do próprio marido, a fim de pedir-lhe perdão pelos ultrajes que sofria. Vi seu tio indireto ajoelhar-se-lhe aos pés e pedir-lhe para que o abençoasse. Ela ergueu-o delicadamente e autorizou-o a chamá-la por mãe, pois não o considerava bastardo, e sim filho dela própria.
+14 — Meu Deus! — Exclamou a companheira emocionada — sua avó devia ser uma santa. Eu, que sou bastarda, sei quanto me dói o menosprezo que me atiram…
+— Não para mim — disse o Infante — para mim você é a mais pura realeza…
+15 Talvez para não esquecerem os ensinamentos da Esposa de D. Dinis, Inês falou comovidamente:
+— Tantas ideias de justiça na rainha que veio de Aragão me assombram em tempos como os nossos…
+16 D. Pedro acentuou, evocativo:
+— Ela suplicava ao meu avô não olvidasse os humildes e os pequeninos, que repartisse terras, lembrando que não somente os nobres careciam delas. No inverno, determinava que as aias lhe trouxessem todas as roupas e agasalhos que estivessem de sobra no palácio e os distribuía, ela própria, nos lares em penúria…
+17 E o Infante prosseguiu:
+— Um dia pedi a ela para falar a meu pai daquilo que os santos lhe diziam no oratório, para que a justiça não demorasse a chegar… Ela respondeu que os tempos eram de muito ódio e de muita ambição entre os nobres e que o barulho da guerra não permitiria que o filho a ouvisse…
+18 Inês espraiou o olhar pelo campo e comentou:
+— Daria tudo para ter tido contato com a rainha D. Isabel. Ela deveria ter muitas lições para nos dar, muito consolo a repartir… Imagine. Uma rainha a falar de justiça e fraternidade, capaz de deixar o palácio para visitar as choupanas, capaz de abençoar um filho do rei, seu marido, com outra mulher…
+19 — Em verdade, minha avó era assim, aduziu o príncipe.
+— E se um dia, permitindo Deus, se a coroa do reino brilhar em sua cabeça, fará você a justiça que ela sempre desejou?
+— Inês — ajuntou D. Pedro — ainda que eu morra serei justo. Se um dia for rei, os fidalgos não usurparão os infelizes, colocarei a justiça no reino.
+20 Muita gente afirma que a minha avó não ouvia as vozes dos santos, que ela apenas sofria algum desequilíbrio, mas eu estou convencido de que a rainha minha avó falava a verdade. Ela colocou em meu coração um amor tão grande a Jesus que, às vezes, ao ver um mendigo, penso que é o próprio Cristo a me estender as mãos…
+21 Se, um dia, quiser o Todo Poderoso que eu seja rei, farei a justiça reinar para todos. Você não será bastarda porque será rainha…
+— Senhor, que me diz? — Aventou a moça, assustada.
+22 D. Pedro envolveu-a num olhar de imensa ternura e considerou:
+— Inês, sou um homem moço, mas tenho sofrido muito… A princípio, casaram-me com D. Branca de Castela, ( † ) pobre menina doente de sete anos, guando eu contava apenas oito de idade…
+23 Verificando-se que D. Branca era uma pequena enferma, desfez-se o enlace, e, mais tarde, casaram-me com D. Constança Manoel… ( † ) Você compreende? Casaram-me…
+24 E se eu… e se eu quisesse agora casar-me com você?
+A interpelada ruborizou-se e protestou:
+— D. Constança é a futura rainha, sua esposa. Não me sinto com forças para destituí-la da posição que ocupa ao seu lado.
+25 Não posso trair quem me beneficiou tanto, trazendo-me à sua presença… Mas também não estou em condições de negar-lhe o que me peça… Senhor, que desígnios são esses que me trazem a Portugal?
+26 Minha mãe morreu cedo, quando passou pelo desgosto de me ver arrancada aos seus braços, porque eu nasci mulher, e meu pai apenas deixava com minha mãe os bastardos que fossem homens.
+27 Ele queria que eu tivesse uma educação semelhante à de minha irmã D. Joana, filha legítima de sua esposa, a infanta D. Isabel, ( † ) e me entregou à minha tia Tereza, viúva de D. Afonso Sanches, ( † ) que não tinha muito tempo senão para tramar com os mouros movimentos que hostilizassem seu pai, El-Rei D. Afonso.
+28 Vivi entre professores galegos e portugueses. Considerei um prêmio aos meus sofrimentos ser convidada por D. Constança Manoel — de quem sou também prima bastarda — para acompanhá-la, na condição de aia do seu séquito. Não posso trair a minha benfeitora, motivando a separação do casal ao qual devo tanto…
+29 Apesar disso, senhor, quero dizer-lhe que o amarei até a morte e até para além da morte… Se não posso enganar a infanta, não posso enganar meu próprio coração.
+30 Como recusar-lhe o meu amor se lhe pertenço… Faça de mim o que o senhor Infante quiser… Ordene, e seguirei o que me ditar…
+31 Não posso trair D. Constança porque também amo a Jesus e não posso trair minh’alma porque minh’alma lhe pertence…
+32 Fale, senhor, o que me cabe fazer, e farei… Poderei, um dia, pertencer-lhe, trabalhando pela justiça e pela fraternidade, conforme as ideias da rainha que lhe foi mentora e avó angélica.
+33 E, chorando, Inês acrescentou:
+— Dizem que a rainha D. Isabel chegou a transformar pães em rosas…
+34 Quem sabe, um dia, pertencendo eu ao senhor infante, poderei distribuir pães e rosas em seu nome? Não será também dar-lhe a minha vida, que é sua, ensinando a justiça e a fraternidade em seu reino?
+35 Senhor — e a voz de Inês se fez mais lacrimosa — não duvide de quanto o amo. Não desejo separá-lo da Infanta D. Constança, mas pertenço-lhe… Se um dia surgir no caminho em que eu deva morrer pelo amor que lhe tenho, esteja certo de que morrerei para amá-lo cada vez mais…
+36 D. Pedro contemplou-a com os olhos molhados e abraçou-a, mas o escudeiro falou no horário de volta.
+37 O palácio esperava. Era preciso guiar os animais em sentido contrário e partir.
 
 ---
 
-## 15 — O Reinado de D. Pedro
+## 15
 
 O suceder implacável dos fatos históricos volve mais uma etapa, impulsionando o povo português a novas vivências no longo percurso da afirmação de sua nacionalidade, em seu contexto mais amplo, com a sedimentação das conquistas político-administrativas, dos valores culturais e dos costumes.
-No início de 1357, morre D. Afonso IV
-aos 66 anos. O velho guerreiro, afeito aos rigores das campanhas, nos últimos meses de sua vida, já mostrava sinais de desalento.
-Dividira parte das funções reais com o filho, por meio do acordo definido nas Pazes de Canaveses,
-entretanto, continuava reinando.
-Alquebrado, seus pensamentos se detinham insistentemente no triste 7 de janeiro de 1355, quando determinou a morte de Inês de Castro.
-Não pairam dúvidas à nossa visão espírita da existência terrena, interligada intensamente com a vida além da sepultura, que o filho de Isabel de Aragão
-estava sendo preparado pela mãe para as mudanças interiores que lhe impressionariam os refolhos da alma nos séculos vindouros.
-Fala-se que chegara a perdoar a Inês, revogando-lhe a sentença de morte, sensibilizado pelos rogos da infeliz mãe, agarrada aos filhinhos, no paroxismo da dor. Os conselheiros o teriam demovido do gesto generoso.
-Não se sabe…
+No início de 1357, morre D. Afonso IV ( † ) aos 66 anos. O velho guerreiro, afeito aos rigores das campanhas, nos últimos meses de sua vida, já mostrava sinais de desalento.
+Dividira parte das funções reais com o filho, por meio do acordo definido nas Pazes de Canaveses, ( † ) entretanto, continuava reinando.
+Alquebrado, seus pensamentos se detinham insistentemente no triste 7 de janeiro de 1355, quando determinou a morte de Inês de Castro. ( † )
+Não pairam dúvidas à nossa visão espírita da existência terrena, interligada intensamente com a vida além da sepultura, que o filho de Isabel de Aragão ( † ) estava sendo preparado pela mãe para as mudanças interiores que lhe impressionariam os refolhos da alma nos séculos vindouros.
+Fala-se que chegara a perdoar a Inês, revogando-lhe a sentença de morte, sensibilizado pelos rogos da infeliz mãe, agarrada aos filhinhos, no paroxismo da dor. Os conselheiros o teriam demovido do gesto generoso. Não se sabe…
 Seria real a versão ou a imaginação popular acrescentara uma pitada de amor ao coração de D. Afonso, atenuando-lhe no espírito a força das razões de Estado que o levaram ao ato devastador?
 A dura realidade para D. Afonso é que um hóspede indesejável lhe visitava a alma, espreitando seus pensamentos mais entranhados e turbando suas elucubrações: o remorso.
-De fato, por que seria Inês um perigo para o reino, se aceita como futura rainha com o falecimento de D. Constança?
-Não o foram sua mãe, Isabel, voltada às conversas com os santos e aos gestos de caridade, socorrendo a população sofrida, nem a esposa, D. Beatriz,
-de quem temos pouca notícia nos relatos históricos.
+De fato, por que seria Inês um perigo para o reino, se aceita como futura rainha com o falecimento de D. Constança? ( † )
+Não o foram sua mãe, Isabel, voltada às conversas com os santos e aos gestos de caridade, socorrendo a população sofrida, nem a esposa, D. Beatriz, ( † ) de quem temos pouca notícia nos relatos históricos.
 Inspirada pela Rainha Santa, que, no Plano Espiritual, agia intensamente para a concretização da paz, Beatriz buscou o filho, exortando-o a cessar a brutal revolta contra o pai, conseguindo dele a renúncia aos projetos de ódio.
-Mais tarde, sim, décadas depois, vamos encontrar em Leonor Teles,
-como já expus anteriormente, o exemplo de participação da mulher nos escaninhos das decisões políticas.
-Urdiu Leonor intensamente com respeito à sucessão do finado rei D. Fernando,
-denotando simpatia por maior influência do reino de Castela na corte portuguesa.
+Mais tarde, sim, décadas depois, vamos encontrar em Leonor Teles, ( † ) como já expus anteriormente, o exemplo de participação da mulher nos escaninhos das decisões políticas.
+Urdiu Leonor intensamente com respeito à sucessão do finado rei D. Fernando, ( † ) denotando simpatia por maior influência do reino de Castela na corte portuguesa.
 Inês, mãe extremosa, companheira fiel, estava muito mais próxima do lar e das ideias de amor e caridade da avó de D. Pedro, distante das obscuras confabulações do poder temporal, o que não escapou à percuciência de D. Afonso IV, que levou para o túmulo essas impressões.
 Antes, já no leito da morte, conhecendo bem o filho, buscou salvar a pele a seus conselheiros, envolvidos na decisão de janeiro de 1355, aconselhando-os a fugir de Portugal, a despeito da proteção que lhes dava o ato jurídico assinado em Canaveses.
-Pedro assumiu o trono aos 37 anos. Joaquim Ferreira, em sua
-História de Portugal - Google Books
-, observa que:
+Pedro assumiu o trono aos 37 anos. Joaquim Ferreira, em sua História de Portugal, observa que:
 A experiência da vida e o conhecimento das coisas públicas davam-lhe aptidões particulares para o desempenho do governo.
-Os exemplos do pai, somados à longa tradição de sabedoria provinda especialmente de D. Dinis,
-constituíam uma escola de virtudes cívicas — uma lição eloquentíssima de firmeza na condução do Estado e de lisura nos domínios da justiça.
+Os exemplos do pai, somados à longa tradição de sabedoria provinda especialmente de D. Dinis, ( † ) constituíam uma escola de virtudes cívicas — uma lição eloquentíssima de firmeza na condução do Estado e de lisura nos domínios da justiça.
 Trazia no espírito as ideias de justiça e paz, nascidas dos longos colóquios da juventude com a avó Isabel. Acompanhava-o, porém, acentuada turbulência interior, haurida nos tempos implacáveis da destruição de seu lar.
 Cremos que essas duas vertentes marcaram-lhe o universo íntimo, sendo as responsáveis por seus acertos e desacertos na condução do reino.
-Assim, ao mesmo tempo em que procurou renovar relações com a vizinha Castela, cujo soberano, Afonso Onzeno,
-à época de Afonso IV, criara frequentes desavenças com Portugal, encetou tortuosa e lamentável caminhada para repatriar os conselheiros de seu pai e, enfim, vingar-se da morte de Inês.
-Acertou com o sucessor de D. Afonso Onzeno, também de nome Pedro,
-chamado o Cruel, a troca de exilados, devolvendo ao rude rei de Castela desafetos que se haviam refugiado em solo português.
-Dos três conselheiros de D. Afonso, desterrados em Sevilha, pôde deter dois. O terceiro,
-alertado por um mendigo a quem dava esmolas, conseguiu fugir ao cerco que visava à sua extradição.
-Diz o folclore português, com endosso de alguns estudiosos, haver Pedro mandado retirar sadicamente a Pero Coelho
-e ao meirinho-mor de D. Afonso, Álvaro Gonçalves,
-o coração ainda pulsante — a um pelas costas e ao outro, do próprio peito.
+Assim, ao mesmo tempo em que procurou renovar relações com a vizinha Castela, cujo soberano, Afonso Onzeno, ( † ) à época de Afonso IV, criara frequentes desavenças com Portugal, encetou tortuosa e lamentável caminhada para repatriar os conselheiros de seu pai e, enfim, vingar-se da morte de Inês.
+Acertou com o sucessor de D. Afonso Onzeno, também de nome Pedro, ( † ) chamado o Cruel, a troca de exilados, devolvendo ao rude rei de Castela desafetos que se haviam refugiado em solo português.
+Dos três conselheiros de D. Afonso, desterrados em Sevilha, pôde deter dois. O terceiro, ( † ) alertado por um mendigo a quem dava esmolas, conseguiu fugir ao cerco que visava à sua extradição.
+Diz o folclore português, com endosso de alguns estudiosos, haver Pedro mandado retirar sadicamente a Pero Coelho ( † ) e ao meirinho-mor de D. Afonso, Álvaro Gonçalves, ( † ) o coração ainda pulsante — a um pelas costas e ao outro, do próprio peito.
 Há contestações a essas barbaridades, perpetradas na época medieval e respaldadas pelo direito de vingança. Porém, eram efetivamente possíveis. Ocorre que os soberanos portugueses e, em especial, Pedro, marcado pela forte influência de D. Dinis, executavam a justiça — por mais rude fosse a represália — por meio de responsáveis nomeados e conforme os procedimentos legais.
-O outro conselheiro, Diogo Lopes Pacheco,
-que fugira a tempo de Castela, avisado pelo mendigo, mais tarde retornou a Portugal e foi perdoado nos instantes finais da vida de D. Pedro, recebendo em devolução os bens confiscados, já das mãos de D. Fernando.
+O outro conselheiro, Diogo Lopes Pacheco, ( † ) que fugira a tempo de Castela, avisado pelo mendigo, mais tarde retornou a Portugal e foi perdoado nos instantes finais da vida de D. Pedro, recebendo em devolução os bens confiscados, já das mãos de D. Fernando. ( † )
 Do curto reinado de dez anos de D. Pedro, prefiro falar de modo mais coloquial, desdobrando as realizações significativas do conturbado rei.
-Uma de suas lúcidas decisões foi a adoção do Beneplácito Régio.
-Até D. Pedro, a influência da Igreja em Portugal, na Reconquista,
-era excessiva, de molde a limitar o poder real com as bulas papais e a atuação dos bispos. A edição do Beneplácito Régio proibiu a publicação e a execução das bulas papais sem a chancela real.
-Nas Cortes de Elvas,
-em 1361, o clero, revoltado, reclamou pela sua abolição, ao que D. Pedro respondeu que nunca permitiria a publicação das letras pontifícias sem que as tivesse examinado previamente e com elas concordado. O ato corajoso de D. Pedro constituiu-se em avanço significativo na emancipação do poder civil. Era o princípio da afirmação da soberania do Estado, até então subordinado aos ditames da Igreja.
+Uma de suas lúcidas decisões foi a adoção do Beneplácito Régio. ( † )
+Até D. Pedro, a influência da Igreja em Portugal, na Reconquista, ( † ) era excessiva, de molde a limitar o poder real com as bulas papais e a atuação dos bispos. A edição do Beneplácito Régio proibiu a publicação e a execução das bulas papais sem a chancela real.
+Nas Cortes de Elvas, ( † ) em 1361, o clero, revoltado, reclamou pela sua abolição, ao que D. Pedro respondeu que nunca permitiria a publicação das letras pontifícias sem que as tivesse examinado previamente e com elas concordado. O ato corajoso de D. Pedro constituiu-se em avanço significativo na emancipação do poder civil. Era o princípio da afirmação da soberania do Estado, até então subordinado aos ditames da Igreja.
 Na administração fazendária, o seu governo cuidou da moeda com probidade e determinação, tornando o reino rico e abastado, posto em grande abundância, no dizer de Fernão Lopes.
-Ao morrer, deixou Portugal em situação confortável, guardando as sobras do orçamento, moedas e barras de ouro, em caixas-fortes do Estado, espalhadas pelo país, preparando o caminho para o reinado de D. Fernando I.
-Sua marca, contudo, se faz mais evidente na aplicação da justiça, que exercia com mão de ferro, já desde o último ano do reinado do pai. Muito se fala de decisões esdrúxulas, violentas, mas indubitavelmente buscou o rigor na aplicação das leis, visando à tranquilidade do povo, de que foi indefesso protetor.
+Ao morrer, deixou Portugal em situação confortável, guardando as sobras do orçamento, moedas e barras de ouro, em caixas-fortes do Estado, espalhadas pelo país, preparando o caminho para o reinado de D. Fernando I. ( † )
+Sua marca, contudo, se faz mais evidente na aplicação da justiça, que exercia com mão de ferro, já desde os dois últimos anos do reinado do pai. Muito se fala de decisões esdrúxulas, violentas, mas indubitavelmente, Pedro buscou o rigor na aplicação das leis, visando à tranquilidade do povo, de que foi indefesso protetor.
 Curioso o rigor que o rei determinara no cumprimento dos prazos legais para agilizá-los. Entre outras medidas, os despachos tinham de ser dados no dia da entrega das petições, sob pena de demissão dos responsáveis.
 Com poucas surtidas na relação com os vizinhos, em sua época, Portugal viveu dez anos de paz.
-Voltamos às palavras de Joaquim Ferreira, lembrando Fernão Lopes, quando conclui seu breve estudo sobre a gestão de D. Pedro I:
+Voltamos às palavras de Joaquim Ferreira, lembrando Fernão Lopes, quando conclui seu breve estudo sobre a gestão de D. Pedro I: ( † )
 O mais remoto depoimento sobre D. Pedro veio-nos do seu cronista. E quanto nos informa deste reinado esmalta de tons vívidos e severos a índole do rei.
 Os súditos choraram-lhe a morte com lágrimas de gratidão. Mereceu bem essa homenagem.
 A sua administração foi equilibrada. Valorizou a moeda, multiplicou o bem-estar do povo.
 José Mattoso, quando estuda a monarquia feudal em seu imponente trabalho sobre a história lusitana, lembra que “o governo de D. Pedro foi o único do século XIV em que Portugal não conheceu guerras”.
-A experiência da vida e o conhecimento das coisas públicas davam-lhe aptidões particulares para o desempenho do governo.
-Os exemplos do pai, somados à longa tradição de sabedoria provinda especialmente de D. Dinis,
-constituíam uma escola de virtudes cívicas — uma lição eloquentíssima de firmeza na condução do Estado e de lisura nos domínios da justiça.
-O mais remoto depoimento sobre D. Pedro veio-nos do seu cronista. E quanto nos informa deste reinado esmalta de tons vívidos e severos a índole do rei.
-Os súditos choraram-lhe a morte com lágrimas de gratidão. Mereceu bem essa homenagem.
-A sua administração foi equilibrada. Valorizou a moeda, multiplicou o bem-estar do povo.
 
 ---
 
-## 16 — Inês de Castro no Reinado de D. Pedro
+## 16
 
-Provavelmente você, leitor amigo, a respeito da síntese biográfica de D. Pedro I,
-observaria:
-— Tão pouco? — referindo-se às realizações do rei.
+Provavelmente você, leitor amigo, a respeito da síntese biográfica de D. Pedro I, ( † ) observaria:
+— Tão pouco? — Referindo-se às realizações do rei.
 Respondo, lembrando que o objetivo deste livro é destacar o amor de Inês e Pedro e seus desdobramentos. Os tratados de história enfocam com mais riqueza e profundidade os atos formais dos soberanos.
-No curto reinado de dez anos, já se manifestam em Pedro as consequências da influência da Rainha Santa
-em sua vida, desde os tempos em que conviveram à época de D. Afonso IV.
-E acrescentamos também, no próprio período de seu reinado, a atuação espiritual da avó, com a participação de Inês de Castro.
+No curto reinado de dez anos, já se manifestam em Pedro as consequências da influência da Rainha Santa ( † ) em sua vida, desde os tempos em que conviveram à época de D. Afonso IV. ( † )
+E acrescentamos também, no próprio período de seu reinado, a atuação espiritual da avó, com a participação de Inês de Castro. ( † )
 Houve excessos? É claro. Mas o povo conheceu a paz duradoura, as benesses de uma política voltada à gente humilde, que se beneficiou da justiça e da prosperidade.
 É imperioso ressaltar que Pedro não se livrou das marcas mais profundas dos ferimentos que as agruras da vida lhe impuseram, com severos danos à saúde.
 Fez de seu governo o mais itinerante do período afonsino, em constante peregrinação pelo reino — não se assentando mais que um mês em cada lugar — o que lhe revelava a grave inquietação interior.
@@ -1330,26 +837,18 @@ Morreu cedo, atormentado. Sua vida se destroçara com a perda de Inês, ainda qu
 A presença da companheira é evidente em seu mandato real.
 No fim da primavera de 1360, já se comentava pelo reino a notícia de que D. Pedro havia se casado oficialmente com Inês de Castro.
 Sirvo-me aqui do que Domingues escreve a respeito, adaptando e sintetizando seu relato. Exponho também minha opinião, assentada em outros autores e em convicção pessoal.
-A notícia, veiculada a partir do palácio real, carregava em seu bojo mais detalhes.
-Vamos aos fatos.
+A notícia, veiculada a partir do palácio real, carregava em seu bojo mais detalhes. Vamos aos fatos.
 D. Pedro mantivera a união em segredo, por temor às represálias paternas.
 Eis a descrição formal do casamento, cuja realidade é discutida por alguns estudiosos.
-No início do quarto ano de seu reinado, em junho de 1360, Pedro assumiu publicamente Inês como esposa em Cantanhede.
-Com ele estavam D. João Afonso Telo de Menezes,
-Vasco Martins de Souza,
-chanceler-mor, e ainda o mestre Afonso das Leis, pessoas de sua confiança.
+No início do quarto ano de seu reinado, em junho de 1360, Pedro assumiu publicamente Inês como esposa em Cantanhede. ( † )
+Com ele estavam D. João Afonso Telo de Menezes, ( † ) Vasco Martins de Souza, ( † ) chanceler-mor, e ainda o mestre Afonso das Leis, pessoas de sua confiança.
 O ato foi oficializado em Coimbra, com a presença de duas testemunhas, que declararam saber do casamento de Pedro com Inês de Castro: D. Gil, que era então bispo da Guarda, e Estevão Lobato, criado do rei.
-Confirmou o bispo, na condição de deão da Guarda — município da tradicional Província de Beira Alta
-— que cerca de sete anos antes, o infante e D. Inês passaram pela Vila de Bragança e que Pedro o mandara chamar um dia à sua casa, na presença de Inês, dizendo-lhe que a queria receber por mulher. E apondo ambos suas mãos sobre as do bispo, foram por este declarados oficialmente casados, assim permanecendo até a morte de Inês.
-Estevão Lobato, que fora criado de D. Afonso e passara posteriormente a exercer as mesmas funções junto a D. Pedro, fez declarações idênticas às do bispo da Guarda, acrescentando que D. Pedro e D. Inês tinham casado num dia de Ano Bom, 1° de janeiro de 1354, e ido residir em Coimbra.
-Era, assim, Inês de Castro rainha, ainda que apenas reconhecida após sua morte. Entendo que a tão discutida Declaração de Cantanhede,
-que traz a público o casamento de Pedro com Inês, antes de sua morte, tenha realmente ocorrido em Bragança, ou, quem sabe, em Alcobaça.
+Confirmou o bispo, na condição de deão da Guarda — município da tradicional Província de Beira Alta ( † ) — que cerca de sete anos antes, o infante e D. Inês passaram pela Vila de Bragança e que Pedro o mandara chamar um dia à sua casa, na presença de Inês, dizendo-lhe que a queria receber por mulher. E apondo ambos suas mãos sobre as do bispo, foram por este declarados oficialmente casados, assim permanecendo até a morte de Inês.
+Estevão Lobato, que fora criado de D. Afonso e passara posteriormente a exercer as mesmas funções junto a D. Pedro, fez declarações idênticas às do bispo da Guarda, acrescentando que D. Pedro e D. Inês tinham casado num dia de Ano Bom, 1º de janeiro de 1354, e ido residir em Coimbra. ( † )
+Era, assim, Inês de Castro rainha, ainda que apenas reconhecida após sua morte. Entendo que a tão discutida Declaração de Cantanhede, ( † ) que traz a público o casamento de Pedro com Inês, antes de sua morte, tenha realmente ocorrido em Bragança, ou, quem sabe, em Alcobaça. ( † )
 Sabemos que os monges cistercienses daquele mosteiro sempre foram ligados a D. Pedro, já desde os tempos de Afonso IV, com quem mantiveram severas desavenças.
-Seria o Mosteiro de Alcobaça,
-e assim pensa Antônio Cândido, o local mais adequado à cerimônia, mantida estrategicamente em segredo [
-. Túmulos de D. Pedro I e de Inês de Castro no Mosteiro de Alcobaça].
-Pouco depois da oficialização do casamento em Coimbra, ocorreria em Santarém a execução de Álvaro Gonçalves
-e Pero Coelho.
+Seria o Mosteiro de Alcobaça, ( † ) e assim pensa Antônio Cândido, o local mais adequado à cerimônia, mantida estrategicamente em segredo n
+Pouco depois da oficialização do casamento em Coimbra, ocorreria em Santarém a execução de Álvaro Gonçalves ( † ) e Pero Coelho. ( † )
 Levar Inês para Alcobaça era outro sonho acalentado por Pedro.
 Ali mandara construir os túmulos para ambos e moldar a estátua jacente de Inês, ostentando a coroa de rainha.
 Para Pedro, precocemente envelhecido, enfermo, com crises frequentes de dores terríveis que o prostravam, o tão sonhado empreendimento significava perpetuar o amor que vivera, prestando à companheira querida a definitiva homenagem.
@@ -1358,13 +857,11 @@ São comuns as divergências de datas com respeito aos fatos medievais, pela nat
 Domingues e Antônio Cândido dão-nos em seus relatos a noção clara do que foi a empreitada de D. Pedro para transferir os restos mortais de Inês à distante catedral. De modo sucinto, exponho a inédita e memorável cerimônia, certamente a mais expressiva da longa noite medieval.
 A cena é imponente, mesmo despojada dos véus fantásticos da lenda, que dela se apoderou.
 Nessa solenidade, evidencia-se o empenho quase que compulsivo de Pedro, para prestar a Inês honras de soberana.
-No convento de Santa Clara,
-onde jazia, a urna é colocada num carro puxado a mulas e envolvida em rosas brancas, a cor do luto daqueles tempos.
+No convento de Santa Clara, ( † ) onde jazia, a urna é colocada num carro puxado a mulas e envolvida em rosas brancas, a cor do luto daqueles tempos.
 O féretro deixa Coimbra a 24 de abril em direção a Alcobaça — no mais impressionante cortejo visto em Portugal — percorrendo as estradas iluminadas por clarões de tochas.
 Durante o longo percurso, camponeses e presos libertados por ordem expressa do rei perfilam-se de ambos os lados da estrada, engalanada por círios e archotes. Com humildade e reverência, ajoelham-se no pó do caminho.
 Seguem o singular cortejo o povo de Coimbra, habitantes das regiões percorridas que se lhe associam, dignitários do clero, como o bispo da Guarda e cônegos, e a fidalguia, em que se destacam D. João Afonso Telo de Menezes e muitos cavaleiros.
-Já na madrugada, a caravana impõe-se breve descanso, quando a procissão noturna chega a Leiria.
-Pedro contempla o céu de primavera e olha entristecido para o caixão de Inês, tomado pela lembrança dos tempos felizes. Os mais próximos ouvem-no balbuciar, como se falasse para si mesmo:
+Já na madrugada, a caravana impõe-se breve descanso, quando a procissão noturna chega a Leiria. ( † ) Pedro contempla o céu de primavera e olha entristecido para o caixão de Inês, tomado pela lembrança dos tempos felizes. Os mais próximos ouvem-no balbuciar, como se falasse para si mesmo:
 — Por que, meu Deus, perdi minha companheira? Era um anjo de bondade, não magoava ninguém…
 Contudo, uma intuitiva sensação de paz o envolve e tranquiliza. A querida avó Isabel o abraça com muito afeto, dizendo-lhe:
 — Continua tua caminhada, não te detenhas, meu neto querido. Leva Inês ao eterno pouso de rainha que lhe construíste em Alcobaça com desmedido amor…
@@ -1375,26 +872,21 @@ Uma coroa de ouro adorna a cabeça de Inês, cuidadosamente colocada junto ao co
 Os rudes homens, suas mulheres e filhos vindos das areias do litoral e o povo humilde dos campos veem passar o rei e, já nos arredores de Alcobaça, contemplam o corpo de Inês, ajoelhando-se, como a gente simples o fizera ao longo do trajeto.
 Procuram chegar mais perto do carro funerário no anseio de ver o rei amigo e aquela bela mulher, cuja morte tão violenta não conseguem compreender.
 O féretro chegou a Alcobaça — anunciado por arautos em seus cavalos — na tarde de 25 de abril de 1361, com cerca de um dia de viagem.
-O sol a pino espraiava, em homenagem a Pedro e Inês, por entre as árvores revigoradas pela primavera, seus raios plenos de calor e de vida. Na praça de Alcobaça recamada de pétalas de flores, aos sons da tradicional charamela,
-era anunciado o cortejo real.
+O sol a pino espraiava, em homenagem a Pedro e Inês, por entre as árvores revigoradas pela primavera, seus raios plenos de calor e de vida. Na praça de Alcobaça recamada de pétalas de flores, aos sons da tradicional charamela, ( † ) era anunciado o cortejo real.
 D. Pedro desceu de seu cavalo e seguiu a urna até a nave do templo. Caminhava como se não estivesse tocando as duras lajes do solo, mas sim qualquer coisa de macio, de imaterial, como se percorresse ignotos caminhos.
 Extenuado, não acompanhou o resto das exéquias, nem a coroação póstuma, nem o beija-mão, nem o longo desfile perante o maravilhoso túmulo, esculpido pelos mestres da escola coimbrã.
 A comoção e o cansaço prostraram-no. Quase inanimado, os filhos o levaram a local mais distante do murmurinho da cerimônia.
 Lá fora, os sinos dobravam sem cessar, e seu canto monocórdico buscava alcançar os páramos celestiais, de onde Inês talvez contemplasse a homenagem que lhe prestava o rei…
 D. Pedro tranquilizou-se com as solenidades de Alcobaça.
 Alguma serenidade o acompanhava, talvez também porque conseguira fazer de Inês rainha, como lhe prometera nos tempos em que nuvens carregadas ameaçavam-lhes a sonhada paz que não chegaram a alcançar.
-A candente promessa é relatada por Inês do Plano Espiritual, em longo diálogo, que colocamos no
-capítulo
-“As Pazes de Canaveses”.
+A candente promessa é relatada por Inês do Plano Espiritual, em longo diálogo, que colocamos no capítulo “As Pazes de Canaveses”.
 Ainda reinou em torno de um lustro depois da trasladação dos restos mortais de Inês para Alcobaça. Vergava-o uma velhice precoce.
 Aparentava idade bem mais avançada que seus 41 anos à época do traslado.
 As crises de dores atrozes não o deixavam. Motivos não faltaram para que sua saúde fosse definitivamente combalida.
 Primeiro o golpe vibrado pelo pai ao expulsar Inês para Castela, a seguir a ansiedade dos meses de separação e, por fim, a atroz cena da cabeça decepada no período mais feliz de sua vida.
 Com bastos motivos para ser um louco, revelou-se um dos reis mais ajuizados da dinastia afonsina. Nos últimos anos de sua vida, apesar de bastante cansado, não cessava de percorrer o reino.
-Causticado pela dor e pelas injúrias do destino, contra o qual reagiu galhardamente, nas vascas da morte perdoou ao único dos algozes de Inês que sobrevivera: Diogo Lopes Pacheco.
-Seus derradeiros dias, viveu-os em Estremoz,
-talvez com a presença do prior dos hospitalários, D. Álvaro Pereira,
-já nosso conhecido. O amigo teve importante participação na vida de D. Pedro desde os tempos de juventude do infante.
+Causticado pela dor e pelas injúrias do destino, contra o qual reagiu galhardamente, nas vascas da morte perdoou ao único dos algozes de Inês que sobrevivera: Diogo Lopes Pacheco. ( † )
+Seus derradeiros dias, viveu-os em Estremoz, ( † ) talvez com a presença do prior dos hospitalários, D. Álvaro Pereira, ( † ) já nosso conhecido. O amigo teve importante participação na vida de D. Pedro desde os tempos de juventude do infante.
 Alguns anos mais velho, visitava-o regularmente, ensinou-lhe as artes da cavalaria, foi seu interlocutor junto ao pai em várias situações e interveio com prudência para obter a cessação da guerra civil que se seguiu à morte de Inês.
 Deve-se também creditar ao prior sua memorável participação nas guerras que culminaram com a expulsão dos árabes da Península.
 Pedro faleceu às primeiras claridades do sol nascente, na madrugada de 18 de janeiro de 1367, antes de completar quarenta e sete anos.
@@ -1402,621 +894,390 @@ E diziam as gentes — confessa Fernão Lopes — que tais dez anos nunca houver
 Foi essa gente anônima, talvez inspirada em seu longo calvário, em que sorveu o cálice da dor e da saudade, que o cognominou de justiceiro.
 Imagino que, nos estertores da vida, tenha recordado minuto a minuto os tempos felizes em que viveu com Inês e os filhos, distante das tramas palacianas, escondido da perseverança paterna em dissolver-lhes a união feliz e simples, como são os enlaces de almas que se amam.
 E onde transcorreram esses tempos tão fugazes, como a floração de nossos ipês? Vejamos:
-Após a morte de Constança,
-Pedro foi visitar Inês no
-Castelo dos Albuquerques
-.
+Após a morte de Constança, ( † ) Pedro foi visitar Inês no Castelo dos Albuquerques.
 E ali, certa feita, mais distante da anfitriã, sua tia Tereza, em entendimento reservado com Inês, nos primeiros dias da primavera de 1346, de chofre o infante lhe diz:
 — Inês, vamos voltar a Portugal!
-No
-capítulo
-“Retorno de Inês de Castro a Portugal”, na sequência do livro, detalhamos os diálogos estabelecidos entre o casal, ante a decisão irrevogável do infante, tão difícil de Inês aceitar, não obstante seu intento de não mais se afastar do companheiro.
-Apesar das preocupações quanto ao risco sempre iminente de D. Afonso IV
-separá-los, ainda que fosse necessário o uso da violência, a sofrida dama decidiu acompanhar Pedro.
-Após os preparativos de praxe, partiram. Serviçais de confiança da tia e do primo João Afonso
-os acompanharam até a fronteira de Castela
-com Portugal.
-Atravessaram a Serra de São Mamede,
-passaram por Portalegre,
-já em terras lusitanas, e percorreram pouco mais de 200 km rumo de Santarém.
+No capítulo “Retorno de Inês de Castro a Portugal”, na sequência do livro, detalhamos o incontido desespero de Inês, aflitíssima ante a decisão irrevogável do infante, tão difícil de aceitar, não obstante seu intento de não mais se afastar do companheiro.
+Apesar das preocupações quanto ao risco sempre iminente de D. Afonso IV ( † ) separá-los, ainda que fosse necessário o uso da violência, a sofrida dama decidiu acompanhar Pedro.
+Após os preparativos de praxe, partiram. Serviçais de confiança da tia e do primo João Afonso ( † ) os acompanharam até a fronteira de Castela ( † ) com Portugal. ( † )
+Atravessaram a Serra de São Mamede, ( † ) passaram por Portalegre, ( † ) já em terras lusitanas, e percorreram pouco mais de 200 km rumo de Santarém. ( † )
 Prosseguiram viagem até os arredores de Peniche, na época ainda uma ilha, mais tarde incorporada ao continente pela ação caprichosa da natureza.
-Ali fixaram-se, vivendo os tempos mais felizes de seus dez anos conjugais, que se encerrariam tragicamente em Coimbra a 7 de janeiro de 1355.
-Inicialmente, instalaram-se no Paço da Serra,
-entre Atouguia
-e Serra d’El-Rei,
-cerca de 60 km ao sul de Alcobaça,
-e posteriormente em Moledo,
-uma légua mais ao sul.
-Nessa região mágica de Portugal, nasceram-lhes os três primeiros filhos: Afonso, que logo faleceu, João e Dinis.
-Em 1352, deslocaram-se para o norte e na foz do Douro,
-em Vila Nova de Gaia,
-próxima ao Porto,
-acomodaram-se na Quinta de Canidelos, em que o anseio de paz materializou-se por cerca de dois anos.
-Pedro presenteou Inês com a Quinta, que mais tarde seria herdada pelos filhos do casal e habitada, de modo especial, por Beatriz
-até a sua compulsória saída de Portugal para Castela.
-Indiscutivelmente, nas terras da Lourinhã
-e em Canidelo,
-passaram momentos inesquecíveis de sua atribulada vida de fugas e incertezas.
+Ali fixaram-se, usufruindo dos tempos mais felizes de seus dez anos de vida conjugal, que se encerrariam tragicamente em Coimbra na fria manhã de 7 de janeiro de 1355.
+Inicialmente, Pedro e Inês se recolheram no Paço da Serra, ( † ) em Serra d’El-Rei, ( † ) freguesia do concelho de Peniche, ( † ) situada a sessenta quilômetros ao sul de Alcobaça. ( † ) Posteriormente, passaram a fazer uso também do Paço Real de Moledo, ( † ) ( † ) uma légua mais ao sul.
+Nessa região mágica de Portugal, vizinha ao mar, nasceram-lhes os três primeiros filhos: Afonso, que logo faleceu, João e Dinis.
+Em 1352, deslocaram-se para o norte e, na foz do Douro, ( † ) em Vila Nova de Gaia, ( † ) acomodaram-se na Quinta de Canidelo, ( † ) onde o anseio de paz se materializou por cerca de dois anos.
+Pedro presenteou Inês com a Quinta, que mais tarde seria herdada pelos filhos do casal e habitada, de modo especial, por Beatriz ( † ) até a sua compulsória saída de Portugal para Castela.
+Indiscutivelmente, nas terras da Lourinhã ( † ) e em Canidelo, ( † ) passaram momentos inesquecíveis de sua atribulada vida de fugas e incertezas.
 Os diálogos nessas plagas eram simples, como singela era a vida:
 — Pedro, traze algo do mar para as crianças comerem.
 — Não te descures dos cuidados da caça.
-— Não cavalgues tanto, volta logo: as crianças te aguardam.
+— Não cavalgues tanto, volta logo, por favor; as crianças te aguardam.
 — Põe atenção aos perigosos touros em Atouguia.
 — Tem cuidado com João, ainda é muito pequeno.
 — Dinis não está bem. Este ano o inverno promete rigor, e os ventos úmidos do outono não nos deram sossego. Precisamos batizá-lo em Alcobaça. Deves procurar os frades amigos que lá tens…
-A todas essas inocentes recomendações Pedro anuía, com um sorriso tranquilizador. Havia, contudo, diálogos mais tristes e
-que traziam de volta todo o desespero da realidade que viviam: o futuro rei não podia escolher a companheira. Era prerrogativa do Estado.
-Na doce solidão dos aprazíveis locais em que viviam juntos, tais colóquios sobre o repúdio real à união eram os únicos obstáculos à sua tranquilidade.
-Depois do agradável período em Canidelo, o casal parte para curta permanência em Bragança,
-ainda no norte e, em 1354, desce para Coimbra, onde provavelmente nasceu Beatriz.
-Foi sua derradeira fuga do olhar severo e perseguidor de Afonso IV. No início do ano seguinte, o idílio impossível teve seu fatal desfecho…
+A todas essas inocentes recomendações Pedro anuía, com um sorriso tranquilizador. Havia, contudo, diálogos mais tristes e que traziam de volta todo o desespero da realidade que viviam: o futuro rei não podia escolher a companheira. Era prerrogativa do Estado.
+Na doce solidão daqueles aprazíveis recantos, tais colóquios sobre o repúdio real à união eram os únicos obstáculos à paz que tanto procuravam.
+Durante o agradável período em Canidelo, o casal dirige-se, em curta permanência a Bragança, ( † ) ainda no norte e, em 1354, desce para Coimbra. Foi sua derradeira fuga do olhar severo e perseguidor de Afonso IV. No início do ano seguinte, o idílio impossível teve seu fatal desfecho…
 Nos últimos minutos de vida, no leito da morte, as cenas dessas lembranças passaram uma a uma pela memória de Pedro.
 Misturavam-se com palavras apenas por vezes compreensíveis, que murmurava desesperado, como os nomes de Inês e das crianças.
-As raras pessoas piedosas que o acompanhavam naqueles momentos finais mal conseguiam disfarçar a emoção provocada pelo sofrimento do infeliz soberano que deixava o mundo.
-Chovera a bátegas na véspera, e, na noite de sua agonia, um domingo, no céu claro e estrelado, pontificavam as constelações típicas do inverno português. Talvez em homenagem ao rei doente e alquebrado, que, nas noites claras de Estremoz,
-quedava-se a contemplar as estrelas cintilantes do firmamento.
+As raras pessoas piedosas que o acompanhavam naqueles momentos derradeiros, mal conseguiam disfarçar a emoção provocada pelo sofrimento do infeliz soberano que deixava o mundo.
+Chovera a bátegas na véspera, e, na noite de sua agonia, um domingo, no céu claro e estrelado, pontificavam as constelações típicas do inverno português. Talvez em homenagem ao rei doente e alquebrado, que, nas noites claras de Estremoz, ( † ) quedava-se a contemplar as estrelas cintilantes do firmamento.
 Em seu leito de dor, pressentiu a morte e tomou as suas disposições finais. Destacamos entre outras:
-— A Quinta de Canidelos, na foz do Douro, que oferecera a Inês, para os filhos do casal, contemplados também com ricos dotes. — Seu sepultamento em Alcobaça, junto de Inês.
+— A Quinta de Canidelo, na foz do Douro, que oferecera a Inês, para os filhos do casal, contemplados também com ricos dotes. — Seu sepultamento em Alcobaça, junto de Inês.
 Aos filhos não impôs casamento…
 Quem sabe, nas horas últimas, recordasse aquele sonho em que vira um de seus filhos de nome João ascender ao trono. Não chegou a saber qual deles seria.
-E assim morre o rei. Vira-se uma página da História, outras começam a ser escritas… Valeu a pena o seu reinado? É difícil a análise de uma vida e de um governo.
+E assim morre o rei. Vira-se uma página da História, outras começam a ser escritas… Valeu a pena o seu reinado? É muito difícil a análise de uma vida e de um governo.
 Nos eventuais desacertos e nos excessos que teria cometido, segundo alguns cronistas, no exercício da férrea justiça real, observamos o travo de amargura que a morte de Inês o fizera carregar pelos doze anos que viveu após a tragédia de Coimbra.
-Justiça se lhe faça, em seu reinado observamos o soberano correto e incansável, preso aos compromissos e responsabilidades e sempre preocupado com Portugal e sua gente.
-Amou os filhos que teve.
-Nas Cortes de Elvas,
-impôs o reconhecimento de infante aos filhos de Inês, oficializando-lhes o ingresso à Casa Real.
-Ao outro João, o filho de Tereza Lourenço,
-entregou a importante Casa de Avis, preparando-lhe o caminho para que viesse a reinar, em 1385, sucedendo Fernando,
-com equilíbrio e descortino.
-Creio que o longo olhar de despedida que o rei trocou, então, com o filho bastardo de apenas cinco anos, que partia para Avis,
-onde se submeteria aos rigores da Ordem, já lhe dizia intimamente que um dia aquela criança seria rei. Colocou a formação cívica e a educação dos filhos nas mãos privilegiadas de Nuno Freire, membro da Ordem do Cristo.
-Seu pai, Afonso IV, no Plano Espiritual, ao receber-lhe o Espírito, com Inês e a Rainha Santa,
-deve ter pensado:
+Justiça se lhe faça, em seu reinado observamos o soberano correto e incansável, preso aos compromissos e responsabilidades e sempre preocupado com Portugal e sua gente. Amou os filhos que teve.
+Nas Cortes de Elvas, ( † ) impôs o reconhecimento de infante aos filhos de Inês, oficializando-lhes o ingresso à Casa Real.
+Ao outro João, o filho de Tereza Lourenço, ( † ) entregou a importante Casa de Avis, preparando-lhe o caminho para que viesse a reinar, em 1385, sucedendo Fernando I, ( † ) com equilíbrio e descortino.
+Creio que o longo olhar de despedida que o rei trocou, então, com o filho bastardo de apenas cinco anos, que partia para Avis, ( † ) onde se submeteria aos rigores da Ordem, já lhe dizia intimamente que um dia aquela criança seria rei. Colocou a formação cívica e a educação dos filhos nas mãos privilegiadas do amigo Nuno Freire, membro da Ordem do Cristo. ( † )
+Seu pai, Afonso IV, no Plano Espiritual, ao receber-lhe o Espírito, com Inês e a Rainha Santa, ( † ) deve ter pensado:
 — Que engano cometi ao punir Inês e Pedro, não obstante meu empenho na defesa do reino. Era um simples caso de amor, distante das querelas do poder…
-Não intuiu que o problema maior que temia, a influência de Castela no reino, surgiria mais tarde, no fim do reinado de Fernando, seu neto, fruto da união legítima de D. Pedro com D. Constança.
-Pedro, inspirado por Isabel de Aragão,
-procurou dar paz ao povo que tanto amou. A paz que não teve em sua infeliz vida, solitária e tumultuada pelos sonhos terríveis de dor e saudade, suas inseparáveis companheiras.
+Não intuiu que o problema maior que temia, a influência de Castela em Portugal, surgiria mais tarde, no fim do reinado de Fernando, seu neto, fruto da união legítima de D. Pedro com D. Constança.
+Pedro, inspirado por Isabel de Aragão ( † ) e também por Inês de Castro, procurou dar paz ao povo que tanto amou. A paz que não teve em sua infeliz vida, solitária e tumultuada pelos sonhos terríveis de dor e saudade, suas inseparáveis companheiras.
 
 ---
 
-## 17 — E Dom Afonso IV?
+## 17
 
-Neste ponto em que nos encontramos da triste saga medieval que me chegou às mãos, impõe-se a pergunta: e Dom Afonso IV?
-Não é justo que o monarca lusitano, chamado o Bravo pelas suas enérgicas decisões e pela imponente coragem com que se destacava nos campos de batalha, seja lembrado apenas como o algoz impiedoso de Inês de Castro.
+Neste ponto em que nos encontramos da triste saga medieval que me chegou às mãos, impõe-se a pergunta: e Dom Afonso IV? ( † )
+Não é justo que o monarca lusitano, chamado o Bravo pelas suas enérgicas decisões e pela imponente coragem com que se destacava nos campos de batalha, seja lembrado apenas como o algoz impiedoso de Inês de Castro. ( † )
 Anteriormente, já vimos o quanto lhe marcou o espírito a eliminação da companheira de seu filho. Foi para ele um profundo golpe de que não se libertaria até o fim do reinado.
-No encontro com o filho, nas formalidades das Pazes de Canaveses,
-vemo-lo alquebrado, envelhecido, evidenciando quanto o fizera sofrer a infausta decisão.
+No encontro com o filho, nas formalidades das Pazes de Canaveses, ( † ) vemo-lo alquebrado, envelhecido, evidenciando quanto o fizera sofrer a infausta decisão.
 Não era, efetivamente, o mesmo. Seus pensamentos mergulhavam longe no tempo, recordando os terríveis dias da morte de Inês.
 Era homem sujeito às disciplinas da época, aos rigores medievais, que obrigavam os soberanos — ainda distantes das futuras monarquias em que reis e nobreza se locupletavam no luxo e na ociosidade, como observamos nos séculos vindouros — a viver sem conforto, sofrendo com as intempéries numerosas que lhes reduziam drasticamente a expectativa de vida e a saúde.
-Foi um desbravador, como o foram os reis das monarquias carolíngeas
-e os soberanos dos períodos posteriores, como os capetos
-e seus coevos da Península Ibérica,
-de modo especial, os descendentes do conde D. Henrique.
+Foi um desbravador, como o foram os reis das monarquias carolíngeas ( † ) e os soberanos dos períodos posteriores, como os capetos ( † ) e seus coevos da Península Ibérica, ( † ) de modo especial, os descendentes do conde D. Henrique. ( † )
 Não foram santos esses monarcas. Violentos, rancorosos, sedentos de poder, lutavam muito.
 É importante destacar, entretanto, que à dedicação e ao trabalho incansável desses pioneiros, muito deve a organização política e geográfica de países ocidentais, como França, Espanha e Portugal, que apresentam, nos dias atuais, o traçado territorial semelhante ao que já se entrevia nos tempos medievais.
-Há quem credite a Afonso IV o descobrimento das Ilhas Canárias
-com a expedição marítima de 1336, que seria vista como um marco das surtidas portuguesas além-mar.
-Na ocasião do descobrimento dessas ilhas espanholas, não pôde o rei ali assentar-se pelas lutas que travava com Castela.
-Mais tarde, a 12 de fevereiro de 1345, reivindicou sua posse, não concretizada, por meio de carta ao papa.
-Foi assim D. Afonso IV, como D. Dinis
-com os pinhais da Leiria,
-autêntico precursor das glórias marítimas de Portugal, levadas ao extremo, no século seguinte, pelo infante D. Henrique,
-o grande desbravador.
+Há quem credite a Afonso IV o descobrimento das Ilhas Canárias ( † ) com a expedição marítima de 1336, que seria vista como um marco das surtidas portuguesas além-mar.
+Na ocasião do descobrimento dessas ilhas espanholas, não pôde o rei ali assentar-se pelas lutas que travava com Castela. ( † ) Mais tarde, a 12 de fevereiro de 1345, reivindicou sua posse, não concretizada, por meio de carta ao papa.
+Foi assim D. Afonso IV, como D. Dinis ( † ) com os pinhais da Leiria, ( † ) autêntico precursor das glórias marítimas de Portugal, levadas ao extremo, no século seguinte, pelo infante D. Henrique, ( † ) o grande desbravador.
 Como homem de seu tempo, D. Afonso IV, impelido pelas convicções rígidas que considerava indispensáveis a um rei responsável, fez o que lhe pareceu melhor.
 Mas, a sua formação moral e ética, os sentimentos, os exemplos de sua santa mãe, a dor, tudo enfim corroeu a estrutura férrea de sua personalidade de Rei-Guerreiro, e finalmente, na agonia da morte, cedeu…
 Amparado por sua mãe, propôs-se a apagar o passado triste que construíra.
 E, nos séculos vindouros, os três, Afonso IV, Pedro e Inês, estiveram juntos sob a proteção da Rainha Santa, circulando pelas cortes da Europa ou vivendo longe da nobreza, inspirados pelos anseios de renovação.
-A respeito de D. Afonso IV e em sua homenagem, reproduzimos, nas linhas seguintes, sugestivo encontro de Inês de Castro com Isabel de Aragão,
-na Vida Espiritual, em que a Rainha Santa pondera sobre encarnação anterior do filho, ainda em Portugal, e sobre a última, no século passado, no Brasil.
+A respeito de D. Afonso IV e em sua homenagem, reproduzimos, nas linhas seguintes, sugestivo encontro de Inês de Castro com Isabel de Aragão, ( † ) na Vida Espiritual, em que a Rainha Santa pondera sobre encarnação anterior do filho, ainda em Portugal, e sobre a última, no século passado, no Brasil.
 O texto é da própria Inês:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 Vi-me no sítio no qual a Rainha Isabel me recebeu com o mesmo carinho de vez anterior, quando falávamos sobre a reencarnação de D. Pedro e Dom Afonso IV. Depois dos votos de paz e das saudações endereçadas a mim e aos que me acompanhavam, na condição de zeladores, ela falou bondosamente:
+2 — Creio que nos referíamos a Afonso em nosso encontro dos dias últimos. Na Terra, se envergamos o envoltório físico, muitas vezes nos supomos sozinhos e abandonados, quando isso jamais acontece.
+3 O Espírito, inteligência imortal, não perde os vínculos com o Plano Físico e nem os laços com os entes queridos com facilidade. Uma tarefa começada, ou razoavelmente adiantada, não se interrompe de todo com a morte física.
+4 Essa tarefa é revisionada ou reexaminada no Mais Além, às vezes durante muito tempo e, quando surge a oportunidade, é retomada pelo espírito que a iniciou ou que a deixou inacabada.
+5 Afonso não descansou ao rever-se ao meu lado e abraçou comigo, na vida Espiritual, a obra de assistência e socorro aos filhos da raça lusitana.
+6 Ainda assim, como era natural, não se desfez, de imediato, dos impulsos à violência que o caracterizavam. Enquanto aqui, em nossa companhia, entesourou valores morais de alta expressão, como sejam a beneficência com o trabalho e a coragem com a fé em Deus.
+7 Mas, quando retornou reencarnado aos trabalhos da Corte Portuguesa, sobrelevaram-se nele as tendências antigas.
+8 Regressou com muita autoridade nas mãos, com o objetivo de espalhar a bênção da paz no reino humano; entretanto, Portugal tomava os primeiros contatos com as raças africanas. 9 A História não registra os fatos como realmente ocorreram. As relações terrenas se baseiam no que parece, mas os apontamentos espirituais repousam naquilo que é.
+10 A pretexto de proteger as necessidades que sobrecaíam nos ombros congoleses, Afonso, noutra situação, explorava os irmãos africanos indefesos, mormente no tocante às questões de família, escravizando ou doando por escravas a outros fidalgos as mulheres mais jovens, cujos filhos eram expostos à dificuldade e à provação com que não contavam, fosse no reino ou nas colônias, cuja vida começava a florescer sob o bafejo de Portugal.
+11 Voltou ao Mais Além, no meu regaço, mas profundamente onerado nas dívidas contraídas…
+12 A história de Afonso, nos últimos seis séculos, é uma história de imensas dores e de profundas alegrias, de muitas esperanças e de fracassos espirituais não menores.
+13 A Rainha fez uma grande pausa e chorou como eu mesma ou como qualquer mulher.
+14 Vendo que eu não conseguia sopitar o pranto que me caía dos olhos, considerou:
+— O amor chorará sempre, mesmo quando iluminado pela fé, porque aqueles que amam querem, antes de tudo, a felicidade dos entes queridos.
+15 Tenho amado meu filho Afonso na grandeza e na falência, nas vitórias e nas derrotas, nos acertos e nos erros, na humildade e na rebeldia…
+— Senhora — tentei falar alguma cousa para concordar, embora as palavras me esmorecessem na garganta. Ainda assim, tartamudeei:
+— Senhora, amamos os outros como eles são, sem pedir se façam como talvez desejemos que eles sejam…
+16 Ela apertou minhas pobres mãos entre as dela, notando que a emoção não me permitia continuar e prosseguiu:
+— Antes do retorno à vida física, na presente reencarnação, meu filho muito me comoveu.
+17 Ele pediu, em preces reiteradas a Jesus, para que lhe fosse concedida uma existência em que a fortuna material não o favorecesse e nem a cultura intelectual o laureasse com essa ou aquela titulação.
+18 Mas rogou que não o deixasse sem apoio dos espíritos afins, para que ele não sofresse demasiado pela carência de amor, já que, chegado à madureza física, desejava consagrar-se à divulgação dos princípios libertadores do Cristianismo Redivivo.
+19 Compreendi que ele aspirava a desfazer-se da impulsividade menos construtiva, que algumas vezes o impulsionou a compromissos de certa gravidade…
+20 Atualmente, em plena luta terrestre, Afonso suporta duros combates na vida interior. Estimaria pedir para ele apoio e compreensão…
+21 Sabe você que nossos Planos de vida se intercambiam… Os amigos de lá, da Terra materializada, solicitam certas medidas aqui, relativamente a providências que supõem necessárias, e nós de cá pedimos auxílio em apoio dos que mais amamos e que lá se encontram…
+22 — Senhora, quanto a mim, posso tão pouco… — disse eu apreensiva.
+— Trabalharemos em conjunto, explicou a excelsa benfeitora. Quanto possas fazer e quanto possas transmitir a Pedro essas noticias para que ele indiretamente nos auxilie, sei que o farás…
+23 Mas uma onda de forças me turvou a mente. Não sei se a complexidade dos assuntos me alarmava, se minha fraqueza vergava ao peso das emoções daquela hora…
+24 Sei que me perdi num fenômeno de repentina amnésia, mas logo voltei às sublimes realidades que me competia sustentar…
 
 ---
 
-## 18 — D. Fernando I
+## 18
 
-Nono e último rei da dinastia afonsina,
-filho, como já vimos, de D. Pedro I,
-assumiu a coroa em janeiro de 1367, com a morte do pai, e governou até 1383.
+Nono e último rei da dinastia afonsina, ( † ) filho, como já vimos, de D. Pedro I e Constança Manoel, ( † ) assumiu a coroa em janeiro de 1367, com a morte do pai, e governou até 1383.
 Recebera de D. Pedro um reino tranquilo, sem guerras e bem administrado, com elevada poupança em barras de ouro e prata e sólidos rendimentos para a Coroa.
-Em 1372 casou-se com Leonor Teles,
-por amor, sinal de que o exemplo paterno o marcara. Contudo, para unir-se a Leonor, repudiou promessas matrimoniais anteriores com Aragão
-e Castela.
-Com esse último reino, envolveu-se em três guerras, em pouco mais de quinze anos de governo, por direitos sucessórios discutíveis, que trouxeram grandes dificuldades a Portugal pelos embates em si e pelas alianças pagas a peso de ouro. A terceira guerra concluiu-se em agosto de 1382, mas a paz, ainda que de curta duração, entre Portugal e Castela, apenas foi alcançada, com o rei gravemente enfermo, na primavera de 1383, nos termos do melancólico Tratado de Salvaterra.
-Já comentamos esse tratado em capítulo anterior, observando as graves consequências que traria à independência portuguesa, caso não houvesse eclodido a rebelião chefiada pelo Mestre de Avis,
-seu meio-irmão, bastardo de Pedro I. Meses depois, a tuberculose o levaria, fechando-se com sua morte o rico reposteiro da dinastia afonsina.
-Se não foram exitosas as suas surtidas bélicas, deve-se ressaltar que, nos outros segmentos da administração real, D. Fernando
-se houve muito bem.
+Em 1372 casou-se, por amor, com Leonor Teles, ( † ) sinal de que o exemplo paterno o marcara. Contudo, para unir-se a Leonor, repudiou promessas matrimoniais anteriores com Aragão ( † ) e Castela. ( † )
+Com o reino de Castela, envolveu-se em três guerras, em pouco mais de quinze anos de governo, por direitos sucessórios questionáveis, o que trouxe grandes dificuldades a Portugal pelos embates em si e pelas alianças pagas a peso de ouro. A terceira guerra concluiu-se em agosto de 1382, mas a paz, ainda que de curta duração, entre Portugal e Castela, apenas foi alcançada, com o rei gravemente enfermo, na primavera de 1383, nos termos do melancólico Tratado de Salvaterra. ( † )
+Já comentamos esse tratado em capítulo anterior, observando as graves consequências que traria à independência portuguesa, caso não houvesse eclodido a rebelião chefiada pelo Mestre de Avis, ( † ) seu meio-irmão, bastardo de Pedro I. Meses depois, a tuberculose o levaria, fechando-se com sua morte o rico reposteiro da dinastia afonsina.
+Se não foram exitosas as suas surtidas bélicas, deve-se ressaltar que, nos outros segmentos da administração real, D. Fernando ( † ) se houve muito bem.
 Estimulou o tráfico mercantil, limitando a atuação nessa área da nobreza e do clero. O consequente prestígio aos comerciantes valorizou a movimentação nos portos e a circulação de riquezas, levando ao crescimento do comércio exterior e interior e à multiplicação das culturas agrícolas.
 Destacam-se, como medidas fundamentais de seu governo:
-— A Lei das Sesmarias,
-que obrigava o cultivo da terra aos seus proprietários, sob pena de cedê-las a arrendatários, pois as terras não podiam ficar sem amanho.
-— As Bolsas Marítimas,
-espécie de seguro de proteção às grandes embarcações, o que fez com que os navegantes se lançassem ao mar com mais segurança, levando suas mercadorias aos portos da região.
+— A Lei das Sesmarias, ( † ) que obrigava o cultivo da terra aos seus proprietários, sob pena de cedê-las a arrendatários, pois as terras não podiam ficar sem amanho.
+— As Bolsas Marítimas, ( † ) espécie de seguro de proteção às grandes embarcações, o que fez com que os navegantes se lançassem ao mar com mais segurança, levando suas mercadorias aos portos da região.
 Embora haja infelicitado o reino com as guerras e suas consequências e não tenha evitado, certamente pela grave enfermidade, a capitulação a Castela, materializada no Tratado de Salvaterra, credite-se-lhe a honra de ter sido um dos legisladores mais sensatos da história medieval.
-Somos induzidos a crer que Fernando não ficou imune à tragédia de Inês de Castro,
-carregando sempre as marcas do episódio que atormentou o pai até a morte e envolveu todos os filhos de D. Pedro, à exceção do Mestre de Avis.
+Somos induzidos a crer que Fernando não ficou imune à tragédia de Inês de Castro, ( † ) carregando sempre as marcas do episódio que atormentou o pai até a morte e envolveu todos os filhos de D. Pedro, à exceção do Mestre de Avis, nascido após o falecimento de Inês.
 A propósito de seus irmãos, os filhos de Inês, estes frequentavam regularmente a corte de Fernando, até que começaram a surgir as dificuldades com Leonor Teles, como já vimos.
 Faleceu em Lisboa a 22 de outubro de 1383.
-— A Lei das Sesmarias,
-que obrigava o cultivo da terra aos seus proprietários, sob pena de cedê-las a arrendatários, pois as terras não podiam ficar sem amanho.
-— As Bolsas Marítimas,
-espécie de seguro de proteção às grandes embarcações, o que fez com que os navegantes se lançassem ao mar com mais segurança, levando suas mercadorias aos portos da região.
 
 ---
 
-## 19 — Dom Dinis
+## 19
 
-Neste período medieval em que nos encontramos, caro leitor, vamos retornar algumas décadas, do fim do reinado de D. Fernando,
-em 1383, ao início do século XIV.
-Estamos no fulgor da dinastia afonsina,
-com o governo de D. Dinis
-e sua esposa Isabel, a Rainha Santa.
+Neste período medieval em que nos encontramos, caro leitor, vamos retornar algumas décadas, do fim do reinado de D. Fernando, ( † ) em 1383, ao início do século XIV.
+Estamos no fulgor da dinastia afonsina, ( † ) com o governo de D. Dinis ( † ) e sua esposa Isabel, a Rainha Santa. ( † )
 São personagens fundamentais da nossa história. É necessário que sobre eles nos detenhamos um pouco:
 O rei, por ter lançado, com sua sabedoria e inspiração, as bases da expansão além-mar e a consequente descoberta do Brasil, Pátria do Cruzeiro, além de plantar em Portugal as venturosas bênçãos da paz e da cultura.
-A rainha, por ter exemplificado ao povo peninsular as lições de Jesus e, no episódio de Inês,
-por proporcionar-lhe e aos demais envolvidos, em sua tocante dor, a perspectiva da redenção espiritual e do perdão.
-Dom Dinis foi o sexto monarca da dinastia dos Afonsos. Sucedeu a seu pai, Afonso III, reinando de 1279 a 1325, quando faleceu em Santarém, deixando em seu lugar o filho legítimo Afonso IV.
+A rainha, por ter exemplificado ao povo peninsular as lições de Jesus e, no episódio de Inês, ( † ) por proporcionar-lhe e aos demais envolvidos, em sua tocante dor, a perspectiva da redenção espiritual e do perdão.
+Dom Dinis foi o sexto monarca da dinastia dos Afonsos. Sucedeu a seu pai, Afonso III, ( † ) reinando de 1279 a 1325, quando faleceu em Santarém, deixando em seu lugar o filho legítimo Afonso IV. ( † )
 Assumiu D. Dinis o trono aos 18 anos, denotando, de início, rara visão administrativa, enriquecida pela precoce participação junto ao pai nos negócios da nação.
 Sua formação intelectual foi sólida, mercê da acurada colaboração de mestres franceses e patrícios, que o introduziram no conhecimento dos assuntos medievais e nas letras.
-Em 1282, casa-se com Isabel de Aragão, a rainha que viria a ser consagrada santa. Atenua as desavenças, aliás crônicas, com a vizinha Castela,
-aproximando mais tarde as duas casas reais com a união de seus filhos Constança
-e Afonso IV,
-respectivamente com Fernando IV
-e sua irmã, Beatriz de Castela.
-A partir de 1309, também com o clero conflitante estabelece relações mais tranquilas. Homem sensível às artes, criou a Universidade de Coimbra
-em 1290, instalando-a no início do século seguinte.
-Contemporizador, não agiu em Portugal como procedeu Felipe,
-o Belo, na França, que se apossou do espólio dos Templários,
-ordem extinta em 1312 pelo papa Clemente V.
+Em 1282, casa-se com Isabel de Aragão, a rainha que viria a ser consagrada santa. Atenua as desavenças, aliás crônicas, com a vizinha Castela, ( † ) aproximando mais tarde as duas casas reais com a união de seus filhos Constança ( † ) e Afonso IV, ( † ) respectivamente com Fernando IV ( † ) e sua irmã, Beatriz de Castela. ( † )
+A partir de 1309, também com o clero conflitante estabelece relações mais tranquilas. Homem sensível às artes, criou a Universidade de Coimbra ( † ) em 1290, instalando-a no início do século seguinte.
+Contemporizador, não agiu em Portugal como procedeu Felipe, ( † ) o Belo, na França, que se apossou do espólio dos Templários, ( † ) ordem extinta em 1312 pelo papa Clemente V. ( † )
 A Ordem dos Cavaleiros do Templo, os Templários, e as outras ordens de caráter religioso-militar prestaram importantes serviços aos reis e à Igreja, embora, à época de D. Dinis, já estivessem em declínio.
-Em Portugal, D. Dinis destinou à adrede criada Ordem do Cristo
-os bens dos Templários, cujos objetivos militares se haviam arrefecido no tempo.
+Em Portugal, D. Dinis destinou à adrede criada Ordem do Cristo ( † ) os bens dos Templários, cujos objetivos militares se haviam arrefecido no tempo.
 Podemos assim resumir os atributos de D. Dinis na administração pública:
-Inteligência na defesa do Estado.
-Preocupação com a economia, os incentivos agrícolas e o estímulo ao comércio, à marinha e, de modo especial, à cultura.
+— Inteligência na defesa do Estado.
+— Preocupação com a economia, os incentivos agrícolas e o estímulo ao comércio, à marinha e, de modo especial, à cultura.
 Suas deslocações pelo país, por meio das chamadas cortes itinerantes, permitiam-lhe tomar decisões mais eficazes em benefício das populações que visitava.
 Fixou no campo grande número de famílias, prestigiou os fidalgos ocupados na lavoura e entregou terras recuperáveis ao cultivo das populações mais simples.
-Semeou o pinhal de Leiria
-— imensas colinas e planuras vizinhas ao mar, recobertas de pinheiros — com o objetivo de impedir o avanço das dunas sobre o interior e preparar o insumo para as construções navais dos futuros desbravamentos marítimos.
+Semeou o pinhal de Leiria ( † ) — imensas colinas e planuras vizinhas ao mar, recobertas de pinheiros — com o objetivo de impedir o avanço das dunas sobre o interior e preparar o insumo para as construções navais dos futuros desbravamentos marítimos.
 Desenvolveu o comércio interno e o externo, estimulando o tráfego com os portos mais próximos do Atlântico.
-E, para ensinar navegação aos portugueses, contratou o genovês Pezagno,
-o almirante Peçanha, que foi fundamental na formação de marinheiros que haveriam de sensibilizar a Europa com as descobertas do infante D. Henrique
-— filho do Mestre de Avis
-e fundador da célebre Escola de Sagres, em princípios do século XV.
-Foi D. Dinis um predecessor das façanhas náuticas glorificadas por Camões.
-Reconstruiu castelos destruídos, muralhas carcomidas pelo tempo e drenou pântanos nas vizinhanças de Leiria,
-distribuindo as várzeas saneadas a famílias de colonos pobres.
+E, para ensinar navegação aos portugueses, contratou o genovês Pezagno, ( † ) o almirante Peçanha, que foi fundamental na formação de marinheiros que haveriam de sensibilizar a Europa com as descobertas do infante D. Henrique ( † ) — filho do Mestre de Avis ( † ) e fundador da célebre Escola de Sagres, em princípios do século XV.
+Foi D. Dinis um predecessor das façanhas náuticas glorificadas por Camões. ( † ) Reconstruiu castelos destruídos, muralhas carcomidas pelo tempo e drenou pântanos nas vizinhanças de Leiria, ( † ) distribuindo as várzeas saneadas a famílias de colonos pobres.
 Na literatura, é considerado um dos maiores líricos entre os coevos da Península e o mais inspirado de Portugal no período trovadoresco, daí ser chamado o Rei-Poeta.
-Ordenou que os textos tabeliônicos se escrevessem no idioma comum do país, eliminando a prática tradicional de serem anotados em latim.
-n
-Inspirou a tradução de importantes obras literárias para o português.
+Ordenou que os textos tabeliônicos se escrevessem no idioma comum do país, eliminando a prática tradicional de serem anotados em latim. n Inspirou a tradução de importantes obras literárias para o português.
 D. Dinis faleceu em Santarém, a 7 de janeiro de 1325, com 64 anos incompletos, reinando por quase meio século.
 Devem-lhe muito os reinados seguintes da dinastia afonsina, bem como das dinastias que se lhe sucederam, posto que seu lúcido discernimento político-administrativo definiu, de modo claro e seguro, os caminhos futuros a serem percorridos por Portugal.
-Inteligência na defesa do Estado.
-Preocupação com a economia, os incentivos agrícolas e o estímulo ao comércio, à marinha e, de modo especial, à cultura.
 
 ---
 
-## 20 — Isabel de Aragão
+## 20
 
-Isabel, a Rainha Santa,
-é personagem essencial neste livro. Vemo-la e a sentimos em todo o desdobramento dos fatos históricos e de suas consequências.
-Recolhe Inês de Castro
-na Vida Maior, após a tragédia de 7 de janeiro de 1355 e ampara-a no Plano Espiritual, do mesmo modo que socorre o neto no Plano físico.
-Inspira o filho D. Afonso IV
-e sua esposa, D. Beatriz de Castela,
-a compreenderem a necessidade do entendimento com D. Pedro,
-o que leva ao acordo sedimentado nas Pazes de Canaveses.
-Diz a história, bem como o próprio espírito de Inês de Castro, em uma de suas mensagens, que a Rainha Santa adotou Afonso Sanches
-(filho de D. Dinis
-e de D. Aldonça Rodrigues Telha) qual filho do coração, rogando-lhe perdão ao irmão, Afonso IV, que o hostilizava, enciumado da especial afeição que lhe devotava o rei.
+Isabel, a Rainha Santa, ( † ) é personagem essencial neste livro. Vemo-la e a sentimos em todo o desdobramento dos fatos históricos e de suas consequências.
+Recolhe Inês de Castro ( † ) na Vida Maior, após a tragédia de 7 de janeiro de 1355, amparando-a no Plano Espiritual, do mesmo modo que socorre o neto no Plano físico.
+Inspira o filho D. Afonso IV ( † ) e sua esposa, D. Beatriz de Castela, ( † ) a compreenderem a necessidade do entendimento com D. Pedro, ( † ) o que leva ao acordo sedimentado nas Pazes de Canaveses. ( † )
+Diz a história, bem como o próprio espírito de Inês de Castro, em uma de suas mensagens, que a Rainha Santa adotou Afonso Sanches ( † ) (filho de D. Dinis ( † ) e de D. Aldonça Rodrigues Telha) qual filho do coração, rogando-lhe que perdoasse ao irmão, Afonso IV, que o hostilizava, enciumado da especial afeição que lhe devotava o rei.
 Por causa desse irmão, D. Afonso IV envolveu-se em disputas com o progenitor, o que provocou cinco anos de guerra civil.
 A rainha sempre tratou bem os filhos do marido, assim como as respectivas mães. Conhecedor do caráter da esposa, antes de falecer, D. Dinis a nomeou testamenteira de seus filhos ilegítimos.
 Foi companheira de D. Dinis durante o longo reinado de quase meio século e sobreviveu a ele por onze anos.
 Um dos mais conhecidos episódios ocorridos com a Rainha Santa no reinado de D. Dinis é o reproduzido no quadro cujas cópias se popularizaram em Portugal e no Brasil:
-A
-célebre pintura
-eterniza a transformação dos pães — que distribuía às gentes humildes — em rosas, quando, certa feita, D. Dinis, voltando a palácio, a surpreende em contato com a população sofrida.
+A célebre pintura eterniza a transformação dos pães — que distribuía às gentes humildes — em rosas, quando, certa feita, D. Dinis, voltando a palácio, a surpreende em contato com a população sofrida.
 Guardo uma edição desse quadro em minha sala de trabalho, com imenso carinho, presente de Chico Xavier, que sempre frisou seu respeito e admiração por Isabel de Aragão.
 Colhi, a propósito, a uma culta senhora portuguesa, residente no Brasil, muito afeita às tradições de sua terra, o relato tal qual ela o ouvira em sua distante infância, nos arredores de Coimbra.
 Conta-se em Portugal que a rainha Isabel ajudava os pobres nos fundos do palácio e trazia os pães amontoados no avental, quando chegou o rei, retornando de uma caçada, acompanhado de seus cavaleiros.
 D. Dinis, afeito aos gestos caridosos da esposa, indaga-lhe:
-— O que trazes aí, Senhora?
-— São rosas, Senhor!
-— Rosas em janeiro? Isso é um milagre. Deixa-me ver.
-Isabel abre o avental, e rosas se espalham pelo chão…
-E o povo todo se ajoelhou diante da nobre senhora.
-Isabel reconstruiu, nos idos de 1317, com muita dificuldade, o Mosteiro de Santa Clara-a-Velha,
-em Coimbra, e, a respeito, Mário Domingues nos fala de outro milagre, cultivado pelo imaginário popular:
+— O que trazes aí, Senhora? — São rosas, Senhor! — Rosas em janeiro? Isso é um milagre. Deixa-me ver. Isabel abre o avental, e rosas se espalham pelo chão… E o povo todo se ajoelhou diante da nobre senhora.
+Isabel reconstruiu, nos idos de 1317, com muita dificuldade, o Mosteiro de Santa Clara-a-Velha, ( † ) em Coimbra, e, a respeito, Mário Domingues nos fala de outro milagre, cultivado pelo imaginário popular:
 A sua dedicação cria lendas, como a que se conta de certa vez que, não tendo dinheiro com que pagar a féria aos cantoneiros, lhes pediu que se contentassem em aceitar cada um, como sinal de boa vontade em pagar, uma simples flor. E quando eles voltaram aos seus lares, viram que a flor se transformara num dobrão de ouro.
 Dignificou sua condição de rainha, seguindo os ditames do coração e da fé. Enquanto D. Dinis administrava sabiamente o reino, Isabel se dedicava aos pobres, ao socorro de mães e crianças, semeando na alma do povo o amor que, desde aqueles tempos, enaltece a gente portuguesa.
-Eduardo de Matos, em
-, chama-lhe Anjo da Caridade, descrevendo situações que enfatizam sua condição de Missionária de Jesus na Terra.
+Eduardo de Matos, em O Anjo de Portugal, chama-lhe Anjo da Caridade, descrevendo situações que enfatizam sua condição de Missionária de Jesus na Terra.
 Entre outros relatos, lembra que, aos pobres que a visitavam com frequência no palácio real, recebia-os a todos e dava ordens aos seus mordomos para que nunca deixassem sem assistência pessoa alguma que a procurasse.
 Visitava os enfermos em seus lares e nos hospitais, pensava-lhes as feridas e fazia, pessoalmente, os curativos e serviços mais humildes.
 A referência à cura que coloco a seguir com pequena simplificação de texto é de José Joaquim Nunes e foi-nos gentilmente relatada por Maria José Cunha, de Portugal, docente de História e estudiosa de Isabel de Aragão:
-No dia da Ceia do Senhor, todos os anos, a Rainha lavava os pés a certas mulheres. Numa das vezes, quando ainda D. Dinis era vivo, atendeu uma das mulheres que tinha um pé com gangrena e os dedos quase se desprendendo, mas a mulher queria apenas colocar na bacia o outro pé saudável, ao que a Rainha disse:
-— Amiga, ponde o outro pé na bacia.
-E a pobre respondeu:
-— Senhora, não é para lavar.
+No dia da Ceia do Senhor, todos os anos, a Rainha lavava os pés a certas mulheres. Numa das vezes, quando ainda D. Dinis era vivo, atendeu uma das mulheres que tinha um pé com gangrena e os dedos quase se desprendendo, mas a mulher queria apenas colocar na bacia o outro pé saudável, ao que a Rainha disse: — Amiga, ponde o outro pé na bacia. E a pobre respondeu: — Senhora, não é para lavar.
 A Rainha ordenou que fosse colocado o pé doente da mulher na bacia. Quando o fez, as presentes assustaram-se com o aspecto do mesmo e recuaram, mas a Rainha lavou-o, sem hesitar, limpou com a toalha e o beijou. A mulher, sentindo-se sã e curada do pé, retirou-se, comentando que desde o beijo da rainha deixara de sentir dor.
-Fundou em Coimbra o Hospital Santa Isabel de Hungria,
-sua tia avó, em que pessoalmente assistia os enfermos.
+Fundou em Coimbra o Hospital Santa Isabel de Hungria, ( † ) sua tia avó, em que pessoalmente assistia os enfermos.
 Respeitada também como Anjo da Paz, Isabel não apenas promoveu a harmonia entre o marido, D. Dinis, e o filho e sucessor Afonso IV, como buscou de todas as formas o entendimento entre Afonso IV e seu irmão bastardo, Afonso Sanches, e procurou selar alianças de paz entre os reinos da Península Ibérica (Portugal, Castela e Aragão), governados por familiares seus.
 Procurou incutir no coração do neto, D. Pedro, o amor à paz, à justiça e aos deserdados da fortuna.
-Nasceu Isabel em Saragoça,
-reino de Aragão,
-em 1271 e faleceu em Portugal,
-já durante o reinado do filho, em 1336, na cidade de Estremoz,
-a mesma em que morreria mais tarde o neto D. Pedro.
-Filha do rei Pedro III de Aragão
-e de Constança,
-rainha da Sicília, dois de seus cinco irmãos foram reis aragoneses e um, soberano da Sicília.
-Casou-se com D. Dinis
-em 1282 e, com o falecimento do marido, aproximou-se ainda mais do convento de Santa Clara-a-Velha, em Coimbra, que, graças a Isabel, pôde ser erigido para albergar a Ordem das Clarissas,
-por ela introduzida em Portugal.
+Nasceu Isabel em Saragoça, ( † ) reino de Aragão, ( † ) em 1271 e faleceu em Portugal, ( † ) já durante o reinado do filho, em 1336, na cidade de Estremoz, ( † ) a mesma em que morreria mais tarde o neto D. Pedro.
+Filha do rei Pedro III de Aragão ( † ) e de Constança, ( † ) rainha da Sicília, dois de seus cinco irmãos foram reis aragoneses e um, soberano da Sicília.
+Casou-se com D. Dinis ( † ) em 1282 e, com o falecimento do marido, aproximou-se ainda mais do convento de Santa Clara-a-Velha, em Coimbra, que, graças a Isabel, pôde ser erigido para albergar a Ordem das Clarissas, ( † ) por ela introduzida em Portugal.
 Beatificada em 1516, foi declarada santa em 1625.
 De seus milagres, de suas curas e de sua santificação falam com exuberância os conceituados hagiológios.
 Ao longo dos séculos que sucedem aos episódios narrados neste livro, do Plano Espiritual, a par de suas elevadas funções, acompanha a trajetória do filho, do neto e de Inês de Castro, que se tornou sua dedicada companheira na implantação da mensagem de Nosso Senhor Jesus Cristo na Terra.
-— O que trazes aí, Senhora?
-— São rosas, Senhor!
-— Rosas em janeiro? Isso é um milagre. Deixa-me ver.
-Isabel abre o avental, e rosas se espalham pelo chão…
-E o povo todo se ajoelhou diante da nobre senhora.
-A sua dedicação cria lendas, como a que se conta de certa vez que, não tendo dinheiro com que pagar a féria aos cantoneiros, lhes pediu que se contentassem em aceitar cada um, como sinal de boa vontade em pagar, uma simples flor. E quando eles voltaram aos seus lares, viram que a flor se transformara num dobrão de ouro.
-No dia da Ceia do Senhor, todos os anos, a Rainha lavava os pés a certas mulheres. Numa das vezes, quando ainda D. Dinis era vivo, atendeu uma das mulheres que tinha um pé com gangrena e os dedos quase se desprendendo, mas a mulher queria apenas colocar na bacia o outro pé saudável, ao que a Rainha disse:
-— Amiga, ponde o outro pé na bacia.
-E a pobre respondeu:
-— Senhora, não é para lavar.
-A Rainha ordenou que fosse colocado o pé doente da mulher na bacia. Quando o fez, as presentes assustaram-se com o aspecto do mesmo e recuaram, mas a Rainha lavou-o, sem hesitar, limpou com a toalha e o beijou. A mulher, sentindo-se sã e curada do pé, retirou-se, comentando que desde o beijo da rainha deixara de sentir dor.
 
 ---
 
-## 21 — Isabel de Aragão e Chico Xavier
+## 21
 
-Nos idos de 1977, Chico Xavier contou-me pessoalmente do surpreendente encontro que tivera em 1927 com Isabel de Aragão,
-que passo a relatar.
-Na noite de 10 de julho, dois dias depois de sua primeira mensagem psicografada a 8 de julho de 1927,
-n
-quando fazia as orações da noite, viu Chico iluminar-se o seu quarto. As paredes refletiam luz de um lilás prateado.
+Nos idos de 1977, Chico Xavier contou-me pessoalmente do surpreendente encontro que tivera em 1927 com Isabel de Aragão, ( † ) que passo a relatar.
+Na noite de 10 de julho, dois dias depois de sua primeira mensagem psicografada a 8 de julho de 1927, n quando fazia as orações da noite, viu Chico iluminar-se o seu quarto. As paredes refletiam luz de um lilás prateado.
 Ajoelhado, conforme seus hábitos católicos, abriu os olhos e divisou, perto de si, uma senhora de admirável presença, que irradiava suave luminosidade a espraiar-se pelo aposento.
 Tentou levantar-se para demonstrar-lhe respeito e cortesia, mas não conseguiu permanecer de pé e dobrou, involuntariamente, os joelhos diante dela.
-A dama iluminada fitou uma imagem de Nossa Senhora do Pilar
-que Chico mantinha em seu quarto e falou em castelhano, língua que o saudoso médium desconhecia, não obstante tê-la compreendido com naturalidade.
+A dama iluminada fitou uma imagem de Nossa Senhora do Pilar ( † ) que Chico mantinha em seu quarto e falou em castelhano, língua que o saudoso médium desconhecia, não obstante tê-la compreendido com naturalidade.
 — Francisco, disse Isabel pausadamente, em nome de Nosso Senhor Jesus Cristo, venho solicitar o seu auxílio em favor dos pobres, nossos irmãos.
-A emoção possuía minha alma toda, entretanto pude perguntar-lhe, embora as lágrimas cobrissem o meu rosto:
-— Senhora, quem sois vós?
-— Você não se lembra agora de mim, no entanto sou Isabel de Aragão.
+A emoção possuía minha alma toda, entretanto pude perguntar-lhe, embora as lágrimas cobrissem o meu rosto: — Senhora, quem sois vós? — Você não se lembra agora de mim, no entanto sou Isabel de Aragão.
 Eu não conhecia senhora alguma que tivesse esse nome e estranhei o que ela dizia.
 — Entretanto, uma força interior me continha, e calei qualquer comentário em torno de minha ignorância. Mas o diálogo estava iniciado, e indaguei:
 — Senhora, sou pobre e nada tenho a dar. Que auxílio poderei prestar aos mais pobres do que eu mesmo?
-Ela disse:
-— Você auxiliará a repartir pães com os necessitados.
+Ela disse: — Você auxiliará a repartir pães com os necessitados.
 Clamei com pesar:
 — Senhora, quase sempre não tenho pão para mim. Como poderei repartir pães com os outros?
-A dama sorriu e esclareceu-me:
-— Chegará o tempo em que você disporá de recursos.
+A dama sorriu e esclareceu-me: — Chegará o tempo em que você disporá de recursos.
 Você vai escrever para as nossas gentes peninsulares e, trabalhando por Jesus, não poderá receber vantagem material alguma pelas páginas que produzir.
 Por isso vamos providenciar para que os Mensageiros do Bem lhe tragam recursos para iniciar a tarefa. Confiemos na bondade do Senhor!
 Em seguida a dama afastou-se, deixando meu quarto em plena escuridão. Chorei de emoção, para mim inexplicável, até o amanhecer do dia seguinte.
 Cerca de quinze dias depois, estava eu nas preces da noite, quando me apareceu um senhor vestido em roupa branca; por intuição, notei ser um sacerdote.
 Saudei-o com muito respeito, e ele me respondeu com bondade, explicando-se:
-— Chico, fui no século XIV um dos confessores da Rainha Santa, D. Isabel de Aragão, que se fez esposa do rei de Portugal, D. Dinis.
+— Chico, fui no século XIV um dos confessores da Rainha Santa, D. Isabel de Aragão, que se fez esposa do rei de Portugal, D. Dinis. ( † )
 Ela desenvolveu elevadas iniciativas de beneficência e instrução nos dois reinos que formam a conhecida Península na Europa e voltou ao mundo espiritual em 4 de julho de 1336. Desde então protege todas as obras de caridade e educação na Espanha e Portugal. Foi ela quem o visitou há alguns dias, nas preces da noite e prometeu-lhe assistência.
-Isabel me recomenda dizer que não lhe faltarão recursos para a distribuição de pães aos necessitados. Meu nome, em 1336, era Fernão Mendes.
-Confiemos em Jesus e trabalhemos na sementeira do bem.
-Chico lembrou que ficara calado porque tinha um nó na garganta…
-E acrescentou:
-— No primeiro sábado que se seguiu às ocorrências que descrevo, fui com minha irmã Luíza até
-uma ponte muito pobre
-, ainda hoje existente e reformada, na cidade de Pedro Leopoldo, Minas, conduzindo um pequeno cesto de oito pães…
+Isabel me recomenda dizer que não lhe faltarão recursos para a distribuição de pães aos necessitados. Meu nome, em 1336, era Fernão Mendes. Confiemos em Jesus e trabalhemos na sementeira do bem. Chico lembrou que ficara calado porque tinha um nó na garganta…
+E acrescentou: — No primeiro sábado que se seguiu às ocorrências que descrevo, fui com minha irmã Luíza até uma ponte muito pobre, ainda hoje existente e reformada, na cidade de Pedro Leopoldo, Minas, conduzindo um pequeno cesto de oito pães…
 Até deixar-nos em 30 de junho de 2002, Chico manteve a distribuição semanal de pães a crianças, famílias e idosos carentes de Pedro Leopoldo e Uberaba, cidades onde desenvolveu seu apostolado.
 
 ---
 
-## 22 — Isabel de Aragão, Chico Xavier e os Idos de 1910
+## 22
 
 Estamos em meados de 2011 e o centenário de nascimento de Chico Xavier aos poucos vai-se distanciando, ficando conosco os seus revérberos de luz, os Ecos do Centenário, que nos remetem sempre à saudade dos bons tempos de convivência.
 Este capítulo é novo e retrata uma das conversas com o Chico, nos idos de 1977, referendada por longo texto que me enviou.
 Era noite e falávamos com o agradável testemunho das estrelas do firmamento, no silêncio enigmático da madrugada, e o saudoso amigo contou-me um pouco dos preparativos de sua última reencarnação, ocorrida, como sabemos, a 2 de abril de 1910.
-A beleza de suas palavras, a sublime narrativa são comoventes. Nelas sentimos o amor de Chico Xavier por sua mãe,
-Maria de João de Deus
-, e a profunda afinidade do médium com Isabel de Aragão.
-Aliás, no capítulo anterior,
-, já podemos ter ideia das ligações de Chico com a rainha santa, quando Isabel o visita, a 10 de julho de 1927, e lhe fala de sua missão de divulgar a doutrina para os povos de língua portuguesa.
-Neste capítulo, que recorda o nascimento de Francisco Cândido Xavier, reitero minha gratidão ao amigo, que tanto me sensibilizou com seus relatos sobre Inês de Castro
-e Isabel de Aragão.
+A beleza de suas palavras, a sublime narrativa são comoventes. Nelas sentimos o amor de Chico Xavier por sua mãe, Maria de João de Deus, e a profunda afinidade do médium com Isabel de Aragão. ( † )
+Aliás, no capítulo anterior, Isabel de Aragão e Chico Xavier, já podemos ter ideia das ligações de Chico com a rainha santa, quando Isabel o visita, a 10 de julho de 1927, e lhe fala de sua missão de divulgar a doutrina para os povos de língua portuguesa.
+Neste capítulo, que recorda o nascimento de Francisco Cândido Xavier, reitero minha gratidão ao amigo, que tanto me sensibilizou com seus relatos sobre Inês de Castro ( † ) e Isabel de Aragão.
 Contou-me Chico que, próximo ao seu nascimento, ocorreu no Plano Espiritual importante reunião com Isabel de Aragão e outros elevados Espíritos, a fim de estabelecer seu retorno à Terra.
 E, durante os preparativos para sua reencarnação, Chico, com alguns Benfeitores, visitou o lar que o abrigaria, assim descrevendo a emoção do reencontro com a futura mãe:
-
-
-n
-linhas da via férrea
+— De minha parte, pela primeira vez, enxergava a paisagem de Pedro Leopoldo. ( † )
+Era bem um vale úmido a vila modesta que pisávamos.
+Uma cachoeira de águas claras n parecia cantar no terreno recentemente desbravado, e as linhas da via férrea se me figuravam antenas horizontais do progresso que penetrava pelo verde adentro.
+O ribeiro separava o povoado em duas regiões distintas. Do lado norte, de que vínhamos, estava a indústria nascente dos tecidos de algodão, e, para cá do ribeiro, no lado sul, o casario escasso parecia um conjunto de grandes pombais caiados de branco.
+A oeste, o sol entrava no poente.
+Entrei, com Benfeitores Amigos, numa rua que se abria, como até hoje, à frente da igreja, singela mas já construída em louvor da Mãe de Jesus.
+Estacamos à porta de entrada da casa que seria o meu lar. Aguardamos alguns minutos de expectação, quando jovem senhora, em companhia de outras, se destacou para entrar na residência humilde.
+Era morena, de baixa estatura, vestindo roupa simples e de sorriso amigo, evidenciando resignação e simplicidade. Os cabelos trançados se lhe enrodilhavam de modo gracioso na cabeça. Despediu-se das companheiras que seguiram à frente e passou por nós sem ver-nos.
+Um dos Benfeitores explicou:
+— Esta é a nossa irmã tutelada de João de Deus. Em várias existências, brilhou na cultura do mundo e, por várias vezes, se consagrou à religião em casas de fé.
+No entanto, em fins do século passado, pediu a maternidade por tarefa primordial, rogando ambiente de extrema carência material, para burilar-se na própria alma.
+Tem agora a idade de vinte e seis anos na experiência física, um marido operário, junto de quem é humilde tecelona numa fábrica de tecidos, e já foi mãe de oito filhos, tendo perdido uma filhinha desencarnada em idade tenra e mantendo ainda sete que estão em crescimento.
 Chico continuou:
-
-
-n
-linhas da via férrea
+— Uma simpatia profunda me ligou imediatamente àquela mulher humilde e tranquila. Parecia-me rever em roupagem diferente uma irmã querida de quem me afastara sem precisar por quanto tempo. Incapaz de explicar a emoção que me dominava, caí em pranto em que a dor se misturava com a alegria, pois reencontrava uma criatura afetuosa e amiga.
+Lembro-me de que não me pude conter e caminhei para ela, envolvendo-a num grande abraço. A senhora sentiu profunda comoção e começou também a chorar, ignorando como explicar a si própria o motivo de tantas lágrimas.
+Decorridos instantes, entrou o marido, um homem claro, magro e alto, usando colete antigo sob o paletó comum e, após retirar um boné que trazia na cabeça pintalgada de algodão, perguntou:
+— Maria, o que houve, porque chora?
+— João — respondeu ela — eu mesma não sei. Estou assim como quem se recorda de alguém que a gente ama e que a morte não mais nos deixa ver…
+— Você andou lendo algum romance, falou aquele que iria ser meu pai.
+— Não, nada li… É apenas um estado estranho em que entrei…
+O dono da casa buscou o interior da moradia, de onde vinham vozes e gritos de crianças, e Maria de João de Deus sentou-se e orou, ali mesmo, na sala estreita, pedindo a Jesus a paz de quem ali estivesse, na condição de alma em saudade e sofrimento.
+Penetrei nos recantos da casa, na qual deveria em breve habitar. A pobreza e a simplicidade de tudo faziam-me chorar.
+Retornamos à Vida Espiritual e, pouco tempo mais tarde, voltei para que me ligasse a Maria de João de Deus em definitivo.
+Foi em 1910, quando tive a obrigação de obedecer a severas disciplinas, para que tudo ocorresse segundo a Vida Maior e não conforme os meus ideais, egoísticos talvez, de felicidade e de amor.
 
 ---
 
-## 23 — Novas reencarnações
+## 23
 
-Cessada a tumultuada existência nos tempos medievais, D. Afonso IV,
-D. Pedro I
-e Inês de Castro
-retornaram à Terra, no continente europeu, ajustando as vivências do passado de que foi vítima a desafortunada jovem.
-Nesses ajustes reencarnatórios, vemo-los, por vezes, à frente dos reinos da Península Ibérica.
+Cessada a tumultuada existência nos tempos medievais, D. Afonso IV, ( † ) D. Pedro I ( † ) e Inês de Castro ( † ) retornaram à Terra, no continente europeu, ajustando as vivências do passado de que foi vítima a desafortunada jovem.
+Nesses ajustes reencarnatórios, vemo-los, por vezes, à frente dos reinos da Península Ibérica. ( † )
 Mas, não reencarnaram apenas nos ambientes de poder. Outras existências houve em que assumiram compromissos distantes do mundo ilusório da vida palaciana.
 Foram poucas as novas experiências que viveram no período de quinhentos anos, até o século XIX. Destacamos, resumidamente, a presença de Inês e Pedro na Espanha, entre o último quartel do século XV e meados do século XVI.
-Ela, conhecida por Joana, a Louca,
-infeliz aposto que não corresponde à realidade. Ele, como Felipe I,
-da Casa dos Habsburgos.
-Joana era filha dos conhecidos Reis Católicos, Fernando de Aragão
-e Isabel de Castela,
-que uniram suas coroas, lançando as bases da unificação dos reinos ibéricos da Idade Média, à exceção de Portugal. Assim, eliminaram na Península Ibérica os últimos traços da presença árabe, remanescente em Granada,
-ao sul, além de conquistar Navarra
-ao norte.
-Dessa unificação nasceria o reino de Espanha.
+Ela, conhecida por Joana, a Louca, ( † ) infeliz aposto que não corresponde à realidade. Ele, como Felipe I, ( † ) da Casa dos Habsburgos. ( † )
+Joana era filha dos conhecidos Reis Católicos, Fernando de Aragão ( † ) e Isabel de Castela, ( † ) que uniram suas coroas, lançando as bases da unificação dos reinos ibéricos da Idade Média, à exceção de Portugal. Assim, eliminaram na Península Ibérica os últimos traços da presença árabe, remanescente em Granada, ( † ) ao sul, além de conquistar Navarra ( † ) ao norte.
+Dessa unificação nasceria o reino de Espanha. ( † )
 Os reis católicos tiveram cinco filhos: Isabel, João, Joana, Maria e Catarina, infantes que tiveram casamentos reais.
-Em 1496, Joana casa-se com Felipe I, o Belo, filho de Maximiliano I,
-soberano da dinastia dos Habsburgos da Áustria. Herdou o trono de Castela
-por singular combinação de fatalidades: a morte da mãe, dos irmãos João e Isabel e também do sobrinho Miguel, filho da irmã Isabel
-com o rei Manuel de Portugal.
-Sua vida foi rica de espiritualidade, com o amor acendrado pelo marido, a mediunidade, o sofrimento e a prisão. A perda do companheiro, que faleceu com apenas 28 anos, em 1506, deixando-a grávida, a teria enlouquecido. Por determinação paterna, posteriormente reiterada pelo filho Carlos V,
-permaneceu reclusa no palácio contíguo ao mosteiro de Santa Clara, em Tordesilhas,
-de 1509 até a morte em 1555, aos 76 anos. Viveu afastada dos seus seis filhos a maior parte de sua vida.
+Em 1496, Joana casa-se com Felipe I, o Belo, filho de Maximiliano I, ( † ) soberano da dinastia dos Habsburgos da Áustria. Herdou o trono de Castela ( † ) por singular combinação de fatalidades: a morte da mãe, dos irmãos João e Isabel e também do sobrinho Miguel, filho da irmã Isabel ( † ) com o rei Manuel de Portugal. ( † )
+Sua vida foi rica de espiritualidade, com o amor acendrado pelo marido, a mediunidade, o sofrimento e a prisão. A perda do companheiro, que faleceu com apenas 28 anos, em 1506, deixando-a grávida, a teria enlouquecido. Por determinação paterna, posteriormente reiterada pelo filho Carlos V, ( † ) permaneceu reclusa no palácio contíguo ao mosteiro de Santa Clara, em Tordesilhas, ( † ) de 1509 até a morte em 1555, aos 76 anos. Viveu afastada dos seus seis filhos a maior parte de sua vida.
 A considerada loucura, que a mantinha presa, isolada, nada mais era do que a manifestação de sua mediunidade, em que se destacava a vidência, acentuada com a morte do marido, cuja urna funerária mantinha consigo, carregando-a, num coche fúnebre, pelas cidades e vilas da meseta setentrional da Espanha.
-Numa dessas frequentes peregrinações com o corpo do marido, em 1507, deu à luz a filha póstuma, Catarina.
-Seu extraordinário biógrafo, Manuel Fernández Álvarez, a considera desventurada e não louca, ressaltando a coerência que demonstrava em suas conversas nas raras visitas que recebia, em sua desumana e extrema solidão.
+Numa dessas frequentes peregrinações com o corpo do marido, em 1507, deu à luz a filha póstuma, Catarina. ( † )
+Seu extraordinário biógrafo, ( † ) Manuel Fernández Álvarez, ( † ) a considera desventurada e não louca, ressaltando a coerência que demonstrava em suas conversas nas raras visitas que recebia, em sua desumana e extrema solidão.
 Como veremos a seguir, o período de meio século, em que Joana ficou detida, serviu de preparação para suas atividades mediúnicas à época de Kardec.
-Mais tarde, na França do século XIX, esteve Inês envolvida com as tarefas relativas à nascente Doutrina Espírita, codificada por Allan Kardec, na roupagem física de Caroline Baudin, filha de Émile-Charles e Clémantine Baudin. Caroline participava, com a irmã Julie, da constelação de médiuns que trabalhou com Kardec na elaboração de
-.
+Mais tarde, na França do século XIX, esteve Inês envolvida com as tarefas relativas à nascente Doutrina Espírita, codificada por Allan Kardec, na roupagem física de Caroline Baudin, filha de Émile-Charles e Clémantine Baudin. Caroline participava, com a irmã Julie, da constelação de médiuns que trabalhou com Kardec na elaboração de O Livro dos Espíritos.
 Kardec as estimava muito, dedicando especial carinho e afeição a Caroline, dois anos mais velha que Julie. Aos 18 anos, quando do lançamento da primeira obra da codificação, a 18 de abril de 1857, já denotava Caroline rara evolução e maturidade precoce em sua alegre e angelical postura.
 Concluída a tarefa que lhe reservara o Plano Espiritual, Caroline casou-se, em outubro do mesmo ano, com o companheiro do episódio medieval referente a Inês de Castro.
-O casal foi residir, com os familiares dela, em Reunião
-— departamento francês no Oceano Índico, constituído por ilhas e arquipélagos — onde o Sr. Émile-Charles Baudin possuía propriedades de cultivo agrícola.
-A seguir descreveremos os diálogos na Espiritualidade, entre Isabel de Aragão,
-D. Afonso IV e D. Pedro, em presença de Inês, com o objetivo de preparar-se a próxima encarnação de pai e filho no século XX.
+O casal foi residir, com os familiares dela, em Reunião ( † ) — departamento francês no Oceano Índico, constituído por ilhas e arquipélagos — onde o Sr. Émile-Charles Baudin possuía propriedades de cultivo agrícola.
+A seguir descreveremos os diálogos na Espiritualidade, entre Isabel de Aragão, ( † ) D. Afonso IV e D. Pedro, em presença de Inês, com o objetivo de preparar-se a próxima encarnação de pai e filho no século XX.
 
 ---
 
-## 24 — Preparando reencarnações
+## 24
 
-Como já falamos, Isabel de Aragão
-e Inês
-— almas que souberam servir-se do burel da dor e da renúncia para ascender a invejável condição espiritual — participaram dos preparativos da última encarnação de D. Afonso IV
-e Pedro.
+Como já falamos, Isabel de Aragão ( † ) e Inês ( † ) — almas que souberam servir-se do burel da dor e da renúncia para ascender a invejável condição espiritual — participaram dos preparativos da última encarnação de D. Afonso IV ( † ) e Pedro. ( † )
 Inês, pela mediunidade do Chico, descreve, a propósito, um dos encontros com Isabel, ocorridos no Plano Espiritual, com tal objetivo:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 Amado rei e senhor meu. Digne-se o Todo-Misericordioso abençoar-vos e engrandecer-vos cada vez mais.
+2 Prometi que vos escreveria, amado senhor, conjugando as recordações possíveis que entrelaçassem memórias dos dois Planos nos quais, e entre os quais, se nos decorre a vida.
+3 Creio que vos devo falar de um encontro expressivo e sublime — antes da sua presente reencarnação — quando este século amanhecia.
+4 Não desconheceis que a Rainha Isabel de Aragão, a santa soberana, de quem fostes neto muito amado e mãe de D. Afonso IV de Portugal, ainda hoje protege o filho querido, encaminhando-lhe o coração para Jesus.
+5 Nos primeiros seis janeiros do século nosso, aquela que soube ser humilde na grandeza do mundo veio de sua elevada moradia nos Planos Superiores aos parlatórios em que nós, grande grupo de Espíritos a ela vinculados, nos encontrávamos, para traçar conosco, grupo em grupo, os planos da existência atual que vão sendo executados.
+6 Do que houve entre ela e o filho D. Afonso IV, com alguns companheiros dele, nada posso saber.
+7 Mas lembro-me de que nós ambos comparecemos para o diálogo com aquela angélica benfeitora, em companhia de um sábio que julgo (sem ter absoluta certeza) seja aquele que veneramos com intenso amor, como sendo o mentor, cujo nome foi escolhido por vosso amado pai, a fim de ser a legenda da equipe por ele formada para a Seara do Bem.
+8 Esperamos os três, com absoluta reverência, a presença daquela que conquistara, a preço de sacrifício e trabalho, a sublimação espiritual.
+9 Ela veio, assessorada por vários mensageiros de paz e luz, e nos abençoou amorosamente.
+10 Depois dos votos de felicidade e elevação no Senhor, lembro-me — mas recordo hoje a cena inesquecível com palavras minhas, mas tão fiéis ao que se passou quanto isso se me faz possível — que ela disse:
+11 — Voltareis ao mundo lusitano, num dos períodos mais agitados da História do Mundo. Este século está marcado para o embate de tremendas lutas espirituais.
+12 Os tronos perdidos se transformarão em posições de comando e trabalho intensivo, e as auréolas da nobreza ser-vos-ão responsabilidades esfogueantes, muitas vezes, a vos vergarem as cabeças.
+13 Permitirá o Senhor que vos façais servidores de outros reinos, o reino da verdade e do amor, cujos domínios estão vivos nos corações humanos, na conquista dos quais é preciso sofrer para compreender e, muitas vezes, perder para ganhar.
+14 Porque a excelsa protetora vos beijasse maternalmente, algo perguntastes sobre o futuro que vos aguardava.
+— Certamente que, nos últimos cinco séculos, tivestes outros compromissos na vida peninsular.
+15 As responsabilidades de Portugal e da Espanha estiveram, várias vezes, em vossas mãos, no entanto, agora se trata de trabalho específico, em que estareis, no presente século, ligado a nós, no propósito de imunizar o mundo lusitano, tanto quanto possível, da criminalidade e da violência.
+16 Servireis aos corações, de preferência preservando as almas de conflitos e crueldade que lhes seriam fatais.
+17 Rogastes a missão de curar os corpos doentes, lembrando aqueles que, por nós, aceitaram as batalhas sanguinolentas, suportando, muitas vezes, ásperas provações e dores físicas por nossa causa, em conjunto com os vossos encargos na seara da luz.
+18 Divulgareis a fé em Deus e na imortalidade da alma, ensinando e curando, aliviando e auxiliando. Tudo isso, amado Pedro, vos será concedido.
+19 Lembro-me de que me designastes com o olhar, como quem quisesse a certeza de que seguiríamos juntos, e dissestes:
+— Se devemos estar unicamente associados às nossas experiências do século XIV, sem tocar em outros arquivos, dizei-me, veneranda benfeitora, o que será feito de Inês?
+20 — Não podereis seguir juntos, quanto desejais — esclareceu ela.
+— Não conseguiríeis desatar os laços humanos de carinho e suprema compreensão que vos jungem um ao outro e sairdes desse refúgio de afeto para trabalhar por nossos irmãos em Humanidade, esclareceu Isabel.
 E, após outras considerações da Veneranda Missionária, incitando-o a trabalhar pelos irmãos em Humanidade, Pedro compreendeu que suas tarefas estavam muito aquém das elevadas responsabilidades que Inês assumira junto à Rainha Santa, ao longo dos séculos que se seguiram à triste sina que lhes reservara o destino.
-Credenciava-se Inês de Castro a conquistar, no Plano Espiritual, ao lado de Isabel de Aragão, também a condição de rainha devotada à causa de Nosso Senhor Jesus Cristo, o que nos faz recordar o verso de Camões:
-n
+Credenciava-se Inês de Castro a conquistar, no Plano Espiritual, ao lado de Isabel de Aragão, também a condição de rainha devotada à causa de Nosso Senhor Jesus Cristo, o que nos faz recordar o verso de Camões: n
+A que depois de ser morta foi rainha.
 Não apenas a rainha por homenagem póstuma, aos tempos de D. Pedro I, mas a sofrida dama medieval que se elevou à condição de soberana nas árduas lutas em socorro aos deserdados da Terra, buscando transformar, qual Isabel de Aragão, rosas em pães.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## 25 — Socorro espiritual a D. Pedro e D. Afonso
+## 25
 
-O estudo do amplo material, que o Chico me entregou, trouxe-me a sensação de que as mensagens de Inês de Castro
-foram escritas, ao longo de 1977, à medida que ela, na Vida Espiritual, captava a reação de Pedro [que na presente encarnação foi o organizador desse livro] a respeito das cartas que lhe enviava.
-Sentindo-o confuso a princípio, contudo mais sereno com o passar do tempo, pôde Inês, da Vida Maior, descrever diálogos profundos entre ambos — arquivados há mais de seis séculos em sua memória — muitos deles com a participação de Isabel de Aragão.
+O estudo do amplo material, que o Chico me entregou, trouxe-me a sensação de que as mensagens de Inês de Castro ( † ) foram escritas, ao longo de 1977, à medida que ela, na Vida Espiritual, captava a reação de Pedro [que na presente encarnação foi o organizador desse livro] a respeito das cartas que lhe enviava.
+Sentindo-o confuso a princípio, contudo mais sereno com o passar do tempo, pôde Inês, da Vida Maior, descrever diálogos profundos entre ambos — arquivados há mais de seis séculos em sua memória — muitos deles com a participação de Isabel de Aragão. ( † )
 Nos últimos tempos de sua presença mais próxima junto a Pedro, por meio do Chico, Inês continuou a enviar cartas espirituais — que retratam a mágica história do amor medieval com repercussões perante o futuro — somente explicadas pela reencarnação.
-E remete também a Pedro mensagens como a que segue e que retratam as preocupações de Inês e da Rainha Santa
-com a reencarnação de pai e filho [Rolando e Caio] em terras brasileiras, no século XX.
+E remete também a Pedro mensagens como a que segue e que retratam as preocupações de Inês e da Rainha Santa ( † ) com a reencarnação de pai e filho [Rolando e Caio] em terras brasileiras, no século XX.
 No sítio espiritual em que Isabel de Aragão recebeu Inês, ambas comentam o comportamento dos antigos reis medievais em sua nova existência:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 A paisagem era assinalada por grande beleza, mas não sabia como chegara até ali.
+2 Dois mentores benevolentes e sábios tomavam a posição de condutores da nossa jornada, mas, à medida que me aproximava do sítio que devia visitar no Plano Maior, o coração se me oprimia no peito.
+3 Informara-me, não a meu pedido, mas por determinação superior — a que não deveria fugir — que a Rainha Isabel de Aragão me esperava para um ligeiro entendimento. Creio que ela terá diminuído em muito o teor da própria grandeza para receber-me.
+4 A mansão era bela no exterior, conquanto de linhas singelas. Muitas flores, especialmente rosas multicores e cravos vermelhos, compunham em predominância os jardins extensos. Companheiras muitas constituíam-lhe o séquito, entretanto ela não se fazia representar.
+5 Ela mesma recebeu-nos na extensa varanda, que os perfumes invadiam numa síntese de aromas a caracterizar-se por suavidade indefinível.
+6 Fiz diante de tão augusta mulher espiritual a reverência que lhe devo, mas, ao chama-la “Santa Isabel”, informou-me sorrindo:
+— Isabel somente. Os homens criam titulações que eles mesmos destroem, quando o tempo lhes acentua a maturidade. Sou mulher humana e luto ainda…
+7 Conhecemos, Inês, os caminhos que tens transitado e sabemos a extensão das dificuldades a transpor.
+8 A sementeira do Reino de Deus é feita à custa de suor e de lágrimas, embora esse suor se converta em bálsamo curativo do espírito e essas lágrimas se façam alegrias sublimes.
+9 Não existem caminhos de Jesus sem calvários por subir…
+10 Os patrimônios de Cristo devem ser preservados pelos seguidores de Cristo. É preciso servir trabalhando e amando sempre…
+11 Perguntei por D. Pedro, ao que respondeu:
+— Pedro sofre a pressão de enormes problemas no centro dos quais, muitas vezes, se considera uma ilha de dor.
+12 Recolhe-se numa forte couraça, na qual os seus sentimentos mais puros e mais belos se refugiam no isolamento, à maneira de tesouros ocultos em cidadela quase inacessível.
+13 Entendo-lhe a luta, mas se posso algo pedir-te, não te desinteresseis do trabalho de meu filho Afonso, detido em dificuldades e óbices por um lado, conquanto surja liberto e vitorioso por outro.
+14 Uma tarefa específica entre os homens, nos setores do bem, equivale a longa e difícil batalha…
+15 E os homens buscam ganhar as guerras, e nós, em nome do Cristo e Senhor, aspiramos ao ganho da paz…
+16 No meu espírito pobre, as perguntas se enovelavam. Queria falar de considerações outras, ouvir advertências, receber instruções e recolher avisos… Minha mente turvou-se.
+17 A grande Isabel compreendeu que eu caíra numa crise de pranto. Abraçou-me maternalmente e despediu-se, entregando-me aos mentores.
 Inês, preocupada em socorrer o companheiro, que — como Isabel de Aragão observa — estava enclausurado no isolamento e no egoísmo, atravessando fase mais difícil em sua existência atual, envia-lhe a mensagem que encerra este capítulo.
 Nas seguintes palavras de Inês, evidenciam-se-lhe as preocupações em reafirmar ao infante medieval reencarnado o amor que os une, com os augúrios de uma vida enriquecida de bênçãos.
 Assim escreveu Inês:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1 Amado rei e senhor meu, guarde o Todo Amoroso Pai a vossa saúde e a vossa alegria, a vossa tranquilidade e bom ânimo, com todos aqueles que amamos.
+2 Venho rogar à vossa benignidade me perdoe se tangi cordas profundas de vosso magnânimo coração.
+3 Peço-vos, com toda a veneração com que vos amo, não sofrais por palavras minhas. Compreendo a altura de vossa posição e as responsabilidades que carregamos em nome de Nosso Senhor Jesus Cristo e de sua Augusta Causa.
+4 Não nos iludamos quanto a seis séculos que passaram. Um milênio na vida do Espírito é comparável à duração de um dia, e a Corte do nosso admirável D. Afonso IV, do ponto de vista espiritual, poucas diferenças demonstra.
+5 Digo isso não para examinar consciências alheias, mas por mim própria, que tão pouco modifiquei por dentro de mim.
+6 Se algo houver de bom ou se algum traço do belo apareceu ou possa aparecer nesta alma, que é um reflexo de sua própria alma, isso é plantação de sua real bondade ou resultado de seu próprio trabalho.
+7 Do Plano Espiritual, vejo tão somente a sua querida imagem e ouço a sua voz, porque em sua formosa vida, sou a harpa do artista que a construiu e cujas peças somente ele conhece para executar as melodias nascidas do seu gênio criador.
+8 Desse modo, eu o saúdo com amor e reverência, pedindo a Deus para que a sua vida esteja sempre e cada vez mais enriquecida de bênçãos, bênçãos que a sua magnanimidade distribui a favor de nós todos.
+9 Serão para você todos os poemas que eu possa compor, todos os sonhos de ternura que a minha imaginação seja capaz de improvisar.
+10 Amo e amarei a você, amado rei, com tudo e com todos os que você ame. E verei com imensa alegria quantos o conheçam em sua grandeza e o amem com o carinho que lhe possam doar.
+11 Nossos livros serão ilustrados com a beleza do arco-íris, porque a tinta do so1 será usada por nós em sinal de respeito a Deus.
+12 Aguardarei, com ânsia e serenidade, na paz da fé e na aflição do amor, o tempo em que Deus me restitua ao vosso carinho e à vossa proteção para sempre.
+13 Em seu amado coração, receba o rio dos beijos de meu carinho e reconhecimento, com a alma toda sua sempre e cada vez mais sua.
 
 ---
 
-## 26 — Retorno de Inês de Castro a Portugal — Recordações de dias difíceis
+## 26
 
 Os primeiros meses de 1346 fluíam mais tranquilos para o príncipe.
 Viúvo, aos 25 anos, buscava reorganizar sua vida afetiva.
-Não obstante o respeito e consideração pela esposa Constança,
-falecida em fins de 1345, Inês de Castro
-não lhe saía da cabeça. Era ela seus sonhos, o ar que respirava, suas saudades.
-A Rainha Beatriz,
-mãe de D. Pedro,
-assumira de boamente o encargo de criar-lhe o filho Fernando,
-recém-nascido, como já o fazia com Maria,
-ambos de seu enlace de cinco anos com Constança.
+Não obstante o respeito e consideração pela esposa Constança, ( † ) falecida em fins de 1345, Inês de Castro ( † ) não lhe saía da cabeça. Era ela seus sonhos, o ar que respirava, suas saudades.
+A Rainha Beatriz, ( † ) mãe de D. Pedro, ( † ) assumira de boamente o encargo de criar-lhe o filho Fernando, ( † ) recém-nascido, como já o fazia com Maria, ( † ) ambos de seu enlace de cinco anos com Constança.
 Pedro, mais acomodado com o socorro materno aos filhos, resolveu arrostar os obstáculos que o separavam de Inês, de quem vivia afastado há meses, em razão do compulsório exílio imposto por seu pai à jovem galega.
-Março de 1346.
-As primeiras folhas da primavera já enfeitavam os plátanos, pintavam os choupais e carvalhos e coloriam os álamos.
+Março de 1346. As primeiras folhas da primavera já enfeitavam os plátanos, pintavam os choupais e carvalhos e coloriam os álamos.
 Também a vibrante natureza se manifestava no coração de Pedro, despontando aqui e acolá virentes brotos de vida renovada, rejuvenescendo-o de alguma forma.
 As lutas que enfrentava desde que conheceu Inês, alguns anos antes, o envelheceram, sulcando-lhe a face e marcando os cabelos e a barba já longa e mal cuidada.
-Ansioso, partiu no fim do mês para a fronteira castelã, à busca de Inês, que vivia a solidão e a saudade no Castelo da tia Tereza em Albuquerque,
-fortaleza inexpugnável, reforçada em suas muralhas e torres pelo tio Afonso Sanches
-e pelo primo João Afonso.
-Esse castelo tem expressivo significado histórico para os reinos vizinhos da Península. Em Portugal fora, nos tempos de D. Dinis,
-motivo de sérios desentendimentos.
-Um deles ocorreu quando o Rei-Lavrador prestigiou o seu dileto filho bastardo, Afonso Sanches, doando-lhe parte do castelo, em evidente detrimento de Martin Gil, o segundo Conde de Barcelos.
-Em Castela,
-foi palco da árdua disputa entre o rei castelão e João Afonso, então adversários, apesar de João Afonso ter-lhe sido importante auxiliar, exercendo as funções de mordomo-mor do reino.
-O violento soberano não ousou, nos tempos de 1354, invadir a fortaleza, optando por envenenar João Afonso.
-Pedro, em Albuquerque, após a travessia da fronteira protegida pelos contrafortes da Serra de São Mamede,
-foi recebido com honras dignas de um futuro monarca. Surpreendeu-o a resignada beleza de Inês.
+Ansioso, partiu no início do mês para a fronteira castelã, à busca de Inês, que vivia a solidão e a saudade no Castelo da tia Tereza em Albuquerque, ( † ) fortaleza inexpugnável, reforçada em suas muralhas e torres pelo tio Afonso Sanches ( † ) e pelo primo João Afonso. ( † )
+Esse castelo tem expressivo significado histórico para os reinos vizinhos da Península. Em Portugal fora, nos tempos de D. Dinis, ( † ) motivo de sérios desentendimentos.
+Um deles ocorreu quando o Rei-Lavrador prestigiou o seu dileto filho bastardo, Afonso Sanches, doando-lhe parte do castelo, em evidente detrimento de Martin Gil, o segundo Conde de Barcelos. seu genro. ( † )
+Em Castela, ( † ) o solar foi palco da árdua disputa entre o rei castelão, Pedro, o Cruel, e João Afonso, então adversários, apesar deste ter-lhe sido importante auxiliar, exercendo as funções de mordomo-mor do reino.
+O violento soberano não ousou, nos idos de 1354, invadir a fortaleza, optando por envenenar João Afonso.
+Pedro, em Albuquerque, após a travessia da fronteira protegida pelos contrafortes da Serra de São Mamede, ( † ) foi recebido com honras dignas de um futuro monarca. Surpreendeu-o a resignada beleza de Inês.
 Seus cabelos dourados ainda lhe davam ao semblante a mesma harmonia de tempos atrás, mas a companheira amada mostrava-se abatida, trazendo nos olhos — que refletiam o verde encantador da vegetação que atapetava os vales e outeiros de sua terra natal — o reflexo da dor da separação e das incertezas do futuro, que a acompanhavam no sono sempre agitado por terríveis pesadelos.
 Não faltava também a Inês, em seus pensares, a triste realidade de que não conseguia fugir e que a perseguia com a irreversível fatalidade das tragédias gregas: entre ela e Pedro se interpunha a rígida postura do rei português que não suportava aquela união, no seu entender fatídica ao reino.
 Após os momentos de alegria pelo reencontro, depois do natural descanso da longa viagem, Pedro a chamou ansioso para conversa mais reservada que se desdobrou em várias outras, dada a gravidade do assunto, e disse-lhe com dificuldade, determinado e aflito:
-— Inês, vamos voltar a Portugal!
-Vim buscar-te. Vamos construir o nosso ninho de molde a impedir que as grandes tormentas geradas pela incompreensão de meu pai nos atinjam.
+— Inês, vamos voltar a Portugal! Vim buscar-te. Vamos construir o nosso ninho de molde a impedir que as grandes tormentas geradas pela incompreensão de meu pai nos atinjam.
 Viveremos juntos, nascerão nossos filhos e, quando eu for chamado ao compromisso real, serás a minha rainha.
 Segurando-lhe as mãos, Inês o contemplou, complacente, denotando imensa tristeza no semblante. Os misteriosos olhos pareciam buscar no céu azul da primavera nascente o socorro de que necessitava ante a firme decisão de sua alma querida.
 Seu porte encantava pela intrigante beleza, impossível de descrever.
 Um pouco mais alta que o comum das mulheres de seu tempo, os longos cabelos de um loiro dourado, tecido em cachos discretos, roçavam-lhe o colo, e algumas madeixas lhe cobriam, por vezes, o busto, que, apesar dos rigores quase clericais das vestes da época, destacava-se com a cor suave de uma escultura de alabastro.
-Ao receber o príncipe no solar da tia, mais à vontade, desataviada, podia-se entrever o desenho dos seios que lhe acompanhavam o arfar preocupado de quem ouvira quase que a confirmação de uma sentença de morte, ao ser compelida a voltar a Portugal pela firme determinação de sua criatura amada.
-O rosto de traços marcantes, contudo suaves, o contorno discreto dos lábios, a pele alva e o brilho dos olhos transmitiam algo de mágico capaz de hipnotizar, de encantar, de escravizar…
-Naquele fim de tarde, quando recebeu a notícia de Pedro, quase que a intimando a retornar a Portugal, Inês emudeceu. E chorou abraçada ao companheiro.
-— Quanto tempo duraria a união que Pedro tanto insistia em perpetuar?
-Seus pressentimentos a intranquilizavam, e mesmo as lembranças da Rainha Santa,
-a santa Isabel, que conhecera apenas pelos olhos de Pedro, não lhe devolviam a paz de espírito.
-Intimamente perguntava-se o que teria feito a D. Afonso IV
-para merecer do rei tanta hostilidade.
+O rosto de traços marcantes, contudo suaves, o contorno discreto dos lábios, a pele alva e o brilho dos olhos transmitiam algo de mágico, capaz de hipnotizar, de encantar, de escravizar…
+Ao recepcionar o príncipe no solar da tia, à vontade, desataviada, mais amadurecida, apesar de seus vinte anos, não conseguia esconder Inês o arfar do peito, entendendo ter ouvido quase que a confirmação de uma sentença de morte, ao ser compelida a voltar a Portugal pela firme determinação de sua criatura amada.
+Naquele fim de tarde, quando recebeu a notícia de Pedro, quase que a intimando a retornar a Portugal, Inês emudeceu. E chorou abraçada ao companheiro, meditando:
+— Quanto tempo durará a união que Pedro tanto insiste em perpetuar?
+Seus pressentimentos a intranquilizavam, e mesmo as lembranças da Rainha Santa, ( † ) a santa Isabel, que conhecera apenas pelos olhos de Pedro, não lhe devolviam a paz de espírito.
+Intimamente perguntava-se o que teria feito a D. Afonso IV ( † ) para merecer do rei tanta hostilidade.
 Procurara não interferir na vida conjugal de Pedro com Constança, aceitara o exílio, jamais se intrometera em assuntos de política do reino e seu sonho era, se Deus permitisse, construir o lar com Pedro e os filhos que tivessem.
-Nunca prestigiara os intentos de seus irmãos, Fernão
-e Álvaro,
-e do primo João Afonso,
-ansiosos por ocupar espaços no poder, tanto em Portugal
-quanto em Castela.
+Nunca prestigiara os intentos de seus irmãos, Fernão ( † ) e Álvaro, ( † ) e do primo João Afonso, ( † ) ansiosos por ocupar espaços no poder, tanto em Portugal ( † ) quanto em Castela. ( † )
 Mesmo sem que desse motivos, sentia que seu destino estava irremediavelmente traçado.
 Expôs as preocupações quanto ao futuro, mas o infante permanecia inamovível em sua decisão.
 Esse reencontro marcou o coração de ambos, oscilando entre o encanto de estarem juntos, após sofrida e perversa separação, e a possibilidade de forças irredutíveis lhes impedirem a união duradoura que tanto buscavam.
@@ -2025,349 +1286,206 @@ Chegou a cogitar em abdicar do reino. Seu filho já estava sendo criado com todo
 Mas, tal decisão era complicada. A santa avó, que venerava, falecida dez anos antes, lhe falara muitas vezes de suas responsabilidades quando assumisse o trono.
 Substituir o pai parecia-lhe uma fatalidade, coisa do destino, que nem mesmo as forças imperscrutáveis do mistério da vida poderiam mudar.
 Inês demorou a ceder e os diálogos se repetiram, exaltando-se Pedro ante as ponderações da mulher sensata que Deus lhe permitira amar, mas que o pai, travestido do poder divino na Terra, insistia em impedir. Nada demoveu o infante.
-Alguns diálogos foram candentes:
-— Não posso voltar a Portugal, Pedro. Tem paciência, deixa o tempo atenuar as iras de teu pai. Quem sabe Dona Beatriz o convença a aceitar nosso amor.
-— Confia em mim, Inês, nada te acontecerá. Meu pai não ousará interromper nossa união. Enquanto eu estava casado, exilou-te e agora há de aceitar tua presença no reino.
-— Pedro, cuidado…
-— Por favor, vem comigo, Inês. Eu estarei sempre contigo e com nossos filhos, que levarei à condição de infantes, como o são Fernando e Maria. Nem tu, nem eles serão considerados bastardos. Não o permitirei.
-Ante a impossibilidade de convencer o companheiro, a quem amava com todas as forças, algo enfraquecida, Inês não resistiu.
 E, numa manhã do início de abril, partiram juntos.
 Nasceram-lhes os filhos durante as fugas da proximidade do poder real, que estava em todo lugar…
-Assim eram os rudes reis afonsinos
-: itinerantes, sempre presentes, ora no Porto,
-em Guimarães,
-em Braga
-ou Bragança
-ao norte, ora em Coimbra,
-Alenquer,
-Leiria
-e Lisboa
-descendo para o centro. Não descuravam também do Alentejo,
-com as frequentes visitas a Évora,
-Estremoz
-e alcançavam atentos o Algarve
-mais ao sul, renteando Gibraltar.
+Assim eram os rudes reis afonsinos: ( † ) itinerantes, sempre presentes, ora no Porto, ( † ) em Guimarães, ( † ) em Braga ( † ) ou Bragança ( † ) ao norte, ora em Coimbra, ( † ) Alenquer, ( † ) Leiria ( † ) e Lisboa ( † ) descendo para o centro. Não descuravam também do Alentejo, ( † ) com as frequentes visitas a Évora, ( † ) Estremoz ( † ) e alcançavam atentos o Algarve ( † ) mais ao sul, renteando Gibraltar. ( † )
 O romance durou 10 anos. No inverno de 1355, a 7 de janeiro, Inês morreria.
-Entre a revolta materializada na guerra civil, que as pazes de Canavezes,
-inspiradas dos Céus pela Rainha Santa,
-fizeram cessar, e o remorso de não ter dado ouvidos à mãe e ao amigo Álvaro Pereira,
-Pedro foi caminhando atordoado até assumir o reino dois anos depois.
-Em suas noites mal dormidas, o herdeiro despertava aos gritos, falando-se a si mesmo:
+Entre a revolta materializada na guerra civil, que as pazes de Canavezes, ( † ) inspiradas dos Céus pela Rainha Santa, ( † ) fizeram cessar, e o remorso de não ter dado ouvidos à mãe e ao amigo Álvaro Pereira, ( † ) Pedro foi caminhando atordoado até assumir o reino dois anos depois.
+Em suas noites mal dormidas, o herdeiro despertava aos gritos, falando si mesmo:
 — Meu Deus, por que não dei ouvidos à minha mãe? Por quê? Por quê?
-A rainha,
-depois que o casal se instalou em Coimbra, um ano antes da morte de Inês, realmente insistia com o filho:
+A rainha, ( † ) depois que o casal se instalou em Coimbra, um ano antes da morte de Inês, realmente insistia com o filho:
 — Fica atento, Pedro, não deixes Inês sozinha. Teu pai vive espreitando… E aconteceu.
 Inês foi covardemente degolada.
-O escudo afetivo dos filhos — João Álvaro
-e Dinis,
-com os olhos arregalados, e Beatriz,
-ainda de colo — não demoveu Afonso IV,
-avô de fato dessas pobres e inocentes crianças, mas que não admitia ser sogro de Inês.
-Bem que Dinis, com a ingenuidade de seus cinco anos, inocentemente comoveu o avô, balbuciando:
-— Vo-vô, vo-vô…
+O escudo afetivo dos filhos — João Álvaro ( † ) e Dinis, ( † ) com os olhos arregalados, e Beatriz, ( † ) ainda de colo — não demoveu Afonso IV, ( † ) avô de fato dessas pobres e inocentes crianças, mas que não admitia ser sogro de Inês.
+Bem que Dinis, com a ingenuidade de seus cinco anos, inocentemente comoveu o avô, balbuciando: — Vo-vô, vo-vô…
 O velho rei ficou lívido ao ouvir as palavras de Dinis e ao contemplar os outros dois netinhos, João Álvaro, que chorava agarrado à mãe, e Beatriz, que já denotava, a despeito de tão pequena ainda, claros sinais da beleza e da obstinação materna.
 Afinal as pobres crianças tinham o seu sangue também.
 Contudo, sua decisão estava tomada.
 Alguma coisa Pedro pôde fazer, além de lamentar ter deixado a companheira desprotegida em Coimbra.
-Fez dos filhos infantes com consequentes direitos sucessórios, que, aliás, não se realizaram. Transformou Inês em rainha póstuma e lhe deu sepultura real em Alcobaça.
-Dizem as tradições que, em suas meditações no Penedo da Saudade,
-ouvia-se com nitidez o eco de sua voz, reverberando mais além, na outra margem do Mondego, no choupal,
-no mosteiro da Rainha Santa
-e na Quinta das Lágrimas,
-assustando até mesmo os ariscos rouxinóis, silentes em reverência à dor:
+Fez dos filhos infantes com consequentes direitos sucessórios, que, aliás, não se realizaram. Transformou Inês em rainha póstuma e lhe deu sepultura real em Alcobaça. ( † )
+Diz a tradição que, em suas meditações no Penedo da Saudade, ( † ) ouvia-se com nitidez o eco de sua voz, reverberando mais além, na outra margem do Mondego, no choupal, ( † ) no mosteiro da Rainha Santa ( † ) e na Quinta das Lágrimas, ( † ) assustando até mesmo os ariscos rouxinóis, silentes em reverência à dor:
 — Por que, meu Deus, não acreditei em Inês e em minha mãe? Por quê? Por quê?
 Nessas ocasiões de doloroso lamento, tudo silenciava: homens, mulheres, crianças, a criação, a natureza enfim, e mesmo os tordos, os pintassilgos e os rouxinóis, que não ousavam ensaiar seus gorjeios em louvor à vida. A Quinta das Lágrimas assumia ares de soturno sepulcro.
-Fala-se também que D. Pedro enlouqueceu. Seu reinado foi curto e sofrido. Afastou-se das guerras e sua administração foi sensata e equilibrada.
-Nunca esqueceu Inês.
+Fala-se também que D. Pedro enlouqueceu.
+Seu reinado foi curto e sofrido; sua administração sensata e equilibrada. Afastou-se das guerras.Nunca esqueceu Inês.
 
 ---
 
-## 27 — O Penedo da Saudade. Reencontro de D. Pedro com Inês na Vida Espiritual
+## 27
 
-Durante toda a elaboração do livro, meditei bastante sobre a história de dor, saudade e renúncia que envolveu o luminoso espírito de Inês de Castro.
+Durante toda a elaboração do livro, meditei bastante sobre a história de dor, saudade e renúncia que envolveu o luminoso Espírito de Inês de Castro. ( † )
 E, para a conclusão dessa tarefa a mim delegada pelo querido Chico, busquei mergulhar de corpo e alma no drama medieval, até para compreender melhor as razões de tão insólito sofrimento.
-Viajei, assim, desprendendo-me do envoltório físico, nas asas livres da imaginação, até Coimbra,
-aportando inicialmente no Penedo da Saudade,
-assim denominado, segundo a lenda, por D. Pedro,
-que, rezam também as tradições, ali se refugiava para chorar a morte de Inês.
+Viajei, assim, em pleno verão europeu, desprendendo-me do envoltório físico, nas asas livres da imaginação, até Coimbra, ( † ) aportando inicialmente no Penedo da Saudade, ( † ) assim denominado, segundo a lenda, por D. Pedro, ( † ) que, rezam também as tradições, ali se refugiava para chorar a morte de Inês.
 Do Penedo busquei sentir de perto os mistérios da cidade.
 Era noite no hemisfério boreal, e as claridades do céu português, recamado de estrelas, convidavam à meditação.
-Extasiado, contemplei o grande triângulo de verão, formado por Vega,
-Altair
-e Deneb,
-estrelas alfa de Lira, Águia e Cisne.
-Insinuava-se, também, no céu, com seu inconfundível traçado, Escorpião,
-constelação familiar aos brasileiros, ostentando, incrustada em seu coração, Antares,
-a vetusta estrela vermelha.
-No horizonte norte, destacava-se a magnitude de Capela
-no contorno pentagonal de Auriga.
-E, ainda pelas bandas do norte, surgia imponente a Estrela Polar,
-que guiou os navegantes lusitanos ao tempo das conquistas marítimas.
-Desviando o olhar do espaço sideral, contemplei as águas mansas do Mondego
-e o choupal baloiçado pelo vento.
-À margem esquerda do rio, lado oposto ao núcleo histórico da cidade, com o casario se esparramando pela colina, divisei, enfim, envolvidos em mistérios indecifráveis, a Quinta das Lágrimas
-— com a Fonte a jorrar água de matiz avermelhado — o velho mosteiro e o Paço de Santa Clara.
+Extasiado, contemplei o grande triângulo de verão, formado por Vega, ( † ) Altair ( † ) e Deneb, ( † ) estrelas alfa de Lira, Águia e Cisne.
+Insinuava-se, também, no céu, com seu inconfundível traçado, Escorpião, ( † ) constelação familiar aos brasileiros, ostentando, incrustada em seu coração, Antares, ( † ) a vetusta estrela vermelha.
+No horizonte norte, destacava-se a magnitude de Capela ( † ) no contorno pentagonal de Auriga. ( † ) E, ainda pelas bandas do norte, surgia imponente a Estrela Polar, ( † ) que guiou os navegantes lusitanos ao tempo das conquistas marítimas.
+Desviando o olhar do espaço sideral, contemplei as águas mansas do Mondego ( † ) e o choupal baloiçado pelo vento.
+À margem esquerda do rio, lado oposto ao núcleo histórico da cidade, com o casario se esparramando pela colina, divisei, enfim, envolvidos em mistérios indecifráveis, a Quinta das Lágrimas ( † ) — com a Fonte a jorrar água de matiz avermelhado — o velho mosteiro e o Paço de Santa Clara. ( † )
 Suponho ter chegado ao local onde a jovem fora decapitada pela lâmina afiada do infeliz Brás, humilde serviçal do reino, e penso ter visto, naqueles mágicos momentos, a piedosa freira do convento recompondo o corpo da mulher, arrancada ao convívio dos filhos tão pequeninos. E, envolvido pela beleza lúgubre do ambiente em que as crianças atônitas se agarravam à bondosa Ana, lembrei-me das palavras que o Chico, mediunizado, escreveu:
-Pedro faleceu em Estremoz.
-Imediatamente após sua morte física, conforme relato espiritual, nos estertores da madrugada de 18 de janeiro de 1367, acamado, foi transportado por Benfeitores até o pátio do Paço de Santa Clara,
-em Coimbra,
-cidade que muito amava: lá nascera e vivera com Inês e as crianças.
+E somente quando viu D. Pedro render-se ao amor materno, em Marco de Canaveses, ( † ) sob a proteção e inspiração da grande Isabel, é que Inês, consciente de sua própria desencarnação, caiu também vencida pela humildade de Isabel, concordando em retirar-se da presença de D. Pedro — para que ele seguisse em seus novos empreendimentos — acolhendo-se nos braços maternais da Rainha Santa, ( † ) saindo da paisagem portuguesa, orando e soluçando…
+Pedro faleceu em Estremoz. ( † ) Imediatamente após sua morte física, conforme relato espiritual, nos estertores da madrugada de 18 de janeiro de 1367, acamado, foi transportado por Benfeitores até o pátio do Paço de Santa Clara, ( † ) em Coimbra, ( † ) cidade que muito amava: lá nascera e vivera com Inês e as crianças.
 Preciso relatar ao leitor algo inédito que aconteceu comigo, durante a minha inesquecível viagem a Coimbra, que se iniciara no Penedo e que, no princípio deste capítulo, descrevo com detalhes.
-Meus olhos contemplavam fixos, imantados, a Fonte das Lágrimas,
-poeticamente considerada o local do suplício de Inês…
+Meus olhos contemplavam fixos, imantados, a Fonte das Lágrimas, ( † ) poeticamente considerada o local do suplício de Inês…
 As horas passavam sem que me apercebesse de que o tempo fluía, e, perplexo, fui envolvido pelos primeiros albores da manhã. Embora vacilantes, os raios de sol ousavam passar pela ramaria das árvores, clareando o pátio do antigo palácio real.
 Uma força misteriosa que jamais sentira fixou-me o olhar no ponto onde, a 7 de janeiro de 1355, Inês fora decapitada.
-Seis séculos e meio antes!
-Uma voz falou carinhosamente, como que sussurrando em meu ouvido: veja, veja…
+Seis séculos e meio antes! Uma voz falou carinhosamente, como que sussurrando em meu ouvido: veja, veja…
 Afirmo, caro leitor, que foi a mais impressionante cena que presenciei em toda a minha existência de mais de seis décadas. Tudo se passou como se eu tivera efetivamente sido transportado aos tempos medievais.
 Acomodado naquele espaço do pátio, em um leito simples e muito alvo, dorme profundamente um homem de semblante cansado. Barbas brancas descuidadas, rosto lívido, lembra os enfermos que, exaustos, desistem de lutar pela vida, entregando-se a pouco e pouco aos braços da morte.
-Transcorridos alguns minutos que me pareceram uma eternidade, o homem, muito abatido, abre os olhos, contempla vagamente o ambiente e, enfim, fixa o olhar à esquerda, qual identificando alguém a seu lado. Visivelmente emocionado, perplexo, grita:
-— Inês, Inês, tu voltaste?
-E fala com dificuldade algumas palavras:
-— Quanto tempo eu te esperei. Tu morreste, como estás aqui ao meu lado?
-Estás tão bela, teus cabelos voltaram a ser louros e longos, e teu colo irradia a mesma beleza de antes. Meu Deus, não foi assim que te vi, quando teu corpo foi recomposto para que pudesse levar-te a Alcobaça!
+Transcorridos alguns minutos que me pareceram uma eternidade, o homem, muito abatido, abre os olhos, contempla vagamente o ambiente e, enfim, fixa o olhar no lado do coração, qual identificando alguém muito querido. Visivelmente emocionado, perplexo, grita: — Inês, Inês, tu voltaste?
+E fala com dificuldade algumas palavras: — Quanto tempo eu te esperei. Tu morreste, como estás aqui ao meu lado? Estás tão bela, teus cabelos voltaram a ser louros e longos, e teu colo irradia a mesma beleza de antes. Meu Deus, não foi assim que te vi, quando teu corpo foi recomposto para que pudesse levar-te a Alcobaça! ( † )
 Não consegue continuar. Seus olhos parecem fitar um mundo que não mais existe, impiedosamente destruído há doze anos…
-Vendo que Pedro chora convulsivamente, com as lágrimas lhe escorrendo pelo rosto sofrido, Inês pondera:
-— Calma, Pedro, eu estou aqui, voltei para não mais nos separarmos. Não chores mais.
-— Como? retrucou Pedro. Voltaste para mim? E o machado que te decepou a vida? Foi tudo um sonho? Ajuda-me, Inês, estou confuso, minha cabeça gira, e não compreendo nada…
-Levando-lhe carinhosamente uma chávena de água efluviada à boca, a esposa lhe diz:
-— Pedro, estás muito cansado, toma um pouco desta água, por favor.
-Pedro sorveu alguns goles com dificuldade e acalmando-se pôde ouvir as palavras da querida companheira:
-— Teus sofrimentos cessaram, Pedro.
-Nosso Senhor Jesus Cristo permitiu-me vir buscar-te.
+Vendo que Pedro chora convulsivamente, com as lágrimas lhe escorrendo pelo rosto sofrido, Inês pondera: — Calma, Pedro, eu estou aqui, voltei para não mais nos separarmos. Não chores mais. — Como? Retrucou Pedro. Voltaste para mim? E o machado que te decepou a vida? Foi tudo um sonho? Ajuda-me, Inês, estou confuso, minha cabeça gira, e não compreendo nada…
+Levando-lhe carinhosamente uma chávena de água efluviada à boca, a esposa lhe diz: — Pedro, estás muito cansado, toma um pouco desta água, por favor.
+Pedro sorveu alguns goles com muito esforço e acalmando-se pôde ouvir as palavras da querida companheira: — Teus sofrimentos cessaram, Pedro. Nosso Senhor Jesus Cristo permitiu-me vir buscar-te.
 — Como assim, Inês, estou ficando louco? Tu não foste para o Céu, junto dos anjos e de minha avó?
 — Não, alma querida de minha vida. Nós não morremos. Apenas deixamos o corpo cansado na Terra e partimos para outra vida. Não te surpreendas com o que afirmo, pois tua santa avó sempre pensou assim. Acalma-te, por favor, pois preciso falar-te.
-Esquece os conceitos tradicionais de Céu e Inferno destes tempos nossos. A realidade é outra, Pedro. Depois, explico-te com mais calma.
-— Não compreendo, Inês. O raciocínio foge-me, sinto-me atordoado…
-— Ouve, pelo amor que me dedicas…
-A presença de Inês e o efeito do bálsamo foram acalmando o rei, não obstante as lágrimas insistissem em cair-lhe dos olhos, penetrando-lhe a barba hirsuta. E Inês continuou:
-— Acabas de deixar o mundo para viver comigo em outras paragens, onde as Leis Divinas prevalecem sobre o ódio.
-Vem, Pedro, esquece o corpo enfermo, gasto e torturado pelas lembranças de nossos tempos felizes.
-Pedro não consegue contestar as palavras de Inês, pois suave sonolência o envolve. Mas, com dificuldade fala, sussurando:
-— Onde estão os nossos filhos, Inês? Preocupo-me muito com eles.
-O nosso João
-e o Dinis,
-ainda adolescentes, e Beatriz,
-tão criança… Já ficaram sem tua presença e agora…
-Inês interveio.
-— Calma, meu rei e senhor, nós lhes demos muito amor e nada a eles faltará. Ao transformar-me em rainha depois de morta, deste-lhes as condições para que crescessem como nobres, amparados pela Corte. E muito mais do que tudo, tu os amaste profundamente.
-— Mas, tão pequenos, como viverão sem mim, já que tu não pudeste educá-los e amá-los como sempre sonhamos?
-Fiz, Inês, o que pude. Transformei-te em rainha, como és a Rainha de meu coração. Cuidei deles como se tu estivesses presente, mas, agora, imobilizado como estou, sem poder sequer movimentar-me no leito em que me encontro, como serão para os queridos filhos as noites longas, sem nossa presença?
+Esquece os conceitos tradicionais de Céu e Inferno destes tempos nossos. A realidade é outra, Pedro. Depois, explico-te com mais calma. — Não compreendo, Inês. O raciocínio foge-me, sinto-me atordoado… — Ouve, pelo amor que me dedicas…
+A presença de Inês e o efeito do bálsamo foram acalmando o rei, não obstante as lágrimas insistissem em cair-lhe dos olhos, penetrando-lhe a barba hirsuta.
+E Inês continuou: — Acabas de deixar o mundo para viver comigo em outras paragens, onde as Leis Divinas prevalecem sobre o ódio. Vem, Pedro, esquece o corpo enfermo, gasto e torturado pelas lembranças de nossos tempos felizes.
+Pedro não conseguiu contestar as palavras de Inês, pois suave sonolência o envolveu. Mas, com dificuldade falou, sussurando: — Onde estão os nossos filhos, Inês? Preocupo-me muito com eles. O nosso João ( † ) e o Dinis, ( † ) ainda adolescentes, e Beatriz, ( † ) tão criança… Já ficaram sem tua presença e agora…
+Inês interveio. — Calma, meu rei e senhor, nós lhes demos muito amor e nada a eles faltará. Ao transformar-me em rainha depois de morta, deste-lhes as condições para que crescessem como nobres, amparados pela Corte. E muito mais do que tudo, tu os amaste profundamente.
+— Mas, tão pequenos, como viverão sem mim, já que tu não pudeste educá-los e amá-los como sempre sonhamos? Fiz, Inês, o que pude. Transformei-te em rainha, como és a Rainha de meu coração. Cuidei deles como se tu estivesses presente, mas, agora, imobilizado como estou, sem poder sequer movimentar-me no leito em que me encontro, como serão para os queridos filhos as noites longas, sem nossa presença?
 — Estaremos sempre com eles, pois Deus está conosco. Agora descansa, Pedro, precisas recuperar as energias tão desgastadas…
-E o ambiente começou a asserenar-se. Pedro, quase que dormindo, divisou, envolta em singular luminosidade, a avó querida, que, flutuando no espaço, acercou-se dele e lhe impôs a mão sobre a cabeça, dizendo:
-— Dorme, meu neto querido…
-Ao lado da Rainha Santa,
-estava Beatriz,
-mãe do atribulado monarca, rainha boa e sincera, cujas virtudes a história não destacou. E, um pouco mais afastado, Pedro ainda contemplou a figura imponente do pai, D. Afonso IV.
-O bravo rei trazia, em seu olhar, um misto de ternura e melancolia. Emocionado, apenas pôde dizer:
-— Meu filho, meu filho…
+E o ambiente começou a asserenar-se. Pedro, quase que dormindo, divisou, envolta em singular luminosidade, a avó querida, que, flutuando no espaço, acercou-se dele e lhe impôs a mão sobre a cabeça, dizendo: — Dorme, meu neto querido…
+Ao lado da Rainha Santa, ( † ) estava Beatriz, ( † ) mãe do atribulado monarca, rainha boa e sincera, cujas virtudes a história não destacou. E, um pouco mais afastado, Pedro ainda contemplou a figura imponente do pai, D. Afonso IV. ( † )
+O bravo rei trazia, em seu olhar, um misto de ternura e melancolia. Emocionado, apenas pôde dizer: — Meu filho, meu filho…
 Pedro, amparado por Inês e pela avó, foi recolhi do ao Plano Espiritual.
-A manhã já se afirmara no Paço Real,
-aquecida pelos raios de sol, deixando para trás a fria madrugada de inverno. Os movimentos da vida se faziam lentamente presentes.
+A manhã já se afirmara no Paço Real, ( † ) aquecida pelos raios de sol, deixando para trás a fria madrugada de inverno. Os movimentos da vida se faziam lentamente presentes.
 Poucos mas ousados estorninhos se desgarravam das árvores, mergulhando no céu límpido, em graciosas arremetidas. Ouviam-se vozes de escassos transeuntes, e algumas vergônteas, muito raras em verdade, já se arriscavam a desabrochar nos ramos secos do arvoredo, insistindo em prenunciar a ainda distante primavera…
 
 ---
 
-## 28 — Saudade
+## 28
 
-Os contatos com Inês
-cessaram no fim de 1977. Posteriormente, com mais raridade, um que outro recado, uma palavra de alento surgiam, sempre pelo Chico.
-Nas suas derradeiras manifestações, Inês ditou a Francisco Cândido Xavier, entre poemas inesquecíveis, os intitulados “
-Alfabeto de Estrelas
-” e “
-Cântico de Amor
-” e, por fim, transmitiu em prosa o texto que denominamos “
-Reflexões na Espiritualidade
-”.
+Os contatos com Inês ( † ) cessaram no fim de 1977. Posteriormente, com mais raridade, um que outro recado, uma palavra de alento surgiam, sempre pelo Chico.
+Nas suas derradeiras manifestações, Inês ditou a Francisco Cândido Xavier, entre poemas inesquecíveis, os intitulados “Alfabeto de Estrelas” e “Cântico de Amor” e, por fim, transmitiu em prosa o texto que denominamos “Reflexões na Espiritualidade”.
 
 ---
 
-## 29 — Alfabeto de Estrelas
+## 29
 
-
-
-
-
-
-
-
-
-
-
----
-
-## 30 — Cântico de Amor
-
-
-
-
-
-
-
-
-
-
-
-
+1 Amado rei. Um dia, Fosse pela verdade ou pela fantasia, Procurei sobre a terra Onde haveria de encontrar O poema de amor, o mais terno e o mais lindo, O poema de Luz que me pudesse dar A notícia de Deus na grandeza da vida.
+2 Procurei a açucena por ser flor De aroma estranho e raro, E ela disse não ter para ofertar Semelhante poema De grandeza suprema Porque, na essência, unicamente era Um enfeite gentil da primavera.
+3 Pedi ao sol esse tesouro, Mas jorrando os fotônios que produz, Disse o sol balançando os cachos de ouro Que somente podia oferecer Poemas de calor, de alegria e de luz.
+4 Roguei à fonte que me desse Algum desses poemas imortais, Mas a fonte me disse que podia Afastar-me da sede e nada mais.
+5 Pedi à brisa me envolvesse o anseio Nesse poema assim profundo, E a brisa respondeu, alígera e singela, Que Deus unicamente dera a ela O poder de acalmar o calor do verão, Quando o verão quisesse incendiar o mundo.
+6 Então sob a fadiga da procura Na longa caminhada Dormi na própria estrada E cheguei a sonhar Que vinhas do mais Alto, De longe, muito longe, Da imensidão celeste.
+7 E me trouxeste, oh! Soberano Amado, O excelso poema inexplicado. Nada disseste pelo verbo humano, Mas me entregaste, amado soberano, O poema divino em versos dos mais sábios, Na esplendente mudez dos próprios lábios.
+8 Então senti, precipitadamente, Que o poema esperado Estava todo escrito em vibrações sublimes, Em altas vibrações, E eu para entendê-las Fazia inesperadamente em mim Um alfabeto de estrelas.
+9 E compreendi, amado rei, Que o poema aguardado Era feito de luz, vida e canção E que somente existe para mim, Por força eterna da Divina Lei, Na luz do vosso amado coração.
 
 ---
 
-## 31 — Reflexões na Espiritualidade
+## 30
 
-
-
-
-
-
-
-
----
-
-## 32 — Fotos históricas
-
-Nas páginas seguintes [268/300 no livro impresso], apresentamos algumas fotos dos locais em que os fatos reais aconteceram.
-n
-Incluímos, também, esboço da região da foz do Rio Douro
-e do
-Mapa de Portugal
-, nele situando, entre outras cidades, os locais mais significativos da vida de Inês e Pedro.
-O leitor também encontrará, ao final deste capítulo, um raro documento medieval: o “
-fac-simile
-” da Declaração de Cantanhede, datado de 1360, obtido por Graça Nascimento nos arquivos da Torre do Tombo, em Portugal. Por esse ato oficial, D. Pedro I
-reconhece seu casa­mento com Inês de Castro,
-antes de sua decapitação, determinada por Afonso IV.
-A propósito, remeto o leitor ao capítulo Inês de Castro no Reinado de D. Pedro.
-.
-Documento datado de junho de 1360, em que o rei D. Pedro I confirma seu matrimônio com Inês de Castro em Bragança,
-norte de Portugal. No detalhe o leitor pode observar o texto final do juramento de Pedro:
-
-n
-
-n
+1 Surgiu certo momento em que compus Um cântico de amor, de vida e luz Para louvor do rei que em sonhos eu revia. E foi tal minha alegria A erguer-me o coração, precípite e suspenso, Perante o soberano a quem pertenço Que lembrei um poema De beleza imortal Que me brilhava na lembrança:
+2 O rei me resguardava Como se eu fosse uma criança E, através de seu hálito divino, Punha em meu coração humilde e pequenino Um mundo tão formoso e tão perfeito Que tive a ideia da felicidade Ser a força do rei, palpitando em meu peito.
+3 Tendo lido o poema Ao soberano amado, Dono de minha vida, Senti o coração triste e partido…
+4 Teria, acaso, cometido Uma falta ante o rei? Seria desrespeito Falar-lhe de um poema, Em que havia sentido a grandeza suprema De sua majestade, Doando-me o endereço, Ponto, número e rumo da felicidade?
+5 Tanta veneração guardo comigo Pelo meu soberano, terno e amigo, Que sofri ao pensar tê-lo afastado E orei rogando proteção…
+6 Foi quando doce voz disse ao meu lado, Uma voz de mentor, sábio e profundo: — Sendo para o teu rei, só para ele, Escreve os teus poemas…
 
 ---
 
-## 33 — Árvore Genealógica Simplificada
+## 31
 
-Apresentamos a seguir
-árvore genealógica
-bem simplificada dos principais personagens do livro.
-n
-Foi estruturada em função dos dados históricos e das informações espirituais, recolhidas às mensagens de Inês de Castro,
-e seu objetivo é oferecer aos interessados informações sucintas, compatíveis com o espaço possível permitido pelo livro.
+1 A mensagem era realmente do Rei… ( † )
+2 As palavras do pergaminho estão impregnadas de suas emoções originais.
+3 A rainha morta, ( † ) singularmente viva no País da Neblina, recordou a sua longa viagem… As laboriosas preparações nos caminhos do milênio, as dificuldades superadas, os precipícios da provação e da experiência, as marcas de dor colhidas na jornada…
+4 Lembrou e lembrou… Para tranquilizar-se na caminhada, seria justo esperar pela intervenção do soberano, em cujo clima cultural se entregara à tarefa de interpretar os supostos mortos que lhe falavam o idioma, testemunhando a imortalidade?
+5 Pensou e pensou, acabando por reconhecer que ambos haviam jurado fidelidade a Outro Rei, aquele que subiu a um trono de sofrimento, coroado de espinhos…
+6 E, feliz com as suas próprias esperanças, a pobre bastarda, elevada à realeza pelo devotamento do Soberano generoso, compreendeu que as flores de sua Quinta ( † ) voltarão a brilhar e que os sinos de Santa Clara ( † ) lhe celebrarão o regresso à vida, quando as providências do Supremo Senhor lhe descerrarem os olhos em novo e belo alvorecer.
+
+---
+
+## 32
+
+Nas páginas seguintes, n apresentamos algumas fotos dos locais em que os fatos reais aconteceram.
+Incluímos, também, esboço da região da foz do Rio Douro ( † ) e do Mapa de Portugal, nele situando, entre outras cidades, os locais mais significativos da vida de Inês e Pedro.
+O leitor também encontrará, ao final deste capítulo, um raro documento medieval: o “fac-simile” da Declaração de Cantanhede, n datado de 1360, obtido por Graça Nascimento nos arquivos da Torre do Tombo, em Portugal. Por esse ato oficial, D. Pedro I ( † ) reconhece seu casa­mento com Inês de Castro, ( † ) antes de sua decapitação, determinada por Afonso IV. ( † ) A propósito, remeto o leitor ao capítulo Inês de Castro no Reinado de D. Pedro.
+
+---
+
+## 33
+
+Apresentamos a seguir árvore genealógica bem simplificada dos principais personagens do livro. n
+Foi estruturada em função dos dados históricos e das informações espirituais, recolhidas às mensagens de Inês de Castro, ( † ) e seu objetivo é oferecer aos interessados informações sucintas, compatíveis com o espaço possível permitido pelo livro.
 Há evidentemente quadros genealógicos mais completos, alguns com pequenas e naturais diferenças de informação histórica.
-Sugerimos, em complementação, o apresentado por Antônio Cândido Franco, em seu livro
-A Rainha Morta e o Rei Saudade - Google Books
-, que cita como Fonte Bibliográfica o Vol. I da História de Portugal, de A. H. de Oliveira Marques.
+Sugerimos, em complementação, o apresentado por Antônio Cândido Franco, em seu livro A Rainha Morta e o Rei Saudade, que cita como Fonte Bibliográfica o Vol. I da História de Portugal, de A. H. de Oliveira Marques.
 
 ---
 
-## 34 — Cronologia
+## 34
 
-Apresentamos a seguir a cronologia dos fatos mais importantes do período correspondente à vida de Inês de Castro. Por ser sintética, contempla apenas as citações essenciais feitas no livro, alusivas aos personagens de maior ênfase: Inês de Castro
-e D. Pedro I.
-Para a sua elaboração, entre as cronologias de autores conceituados, as mais utilizadas foram as de Antônio Cândido Franco, em seu livro
-A Rainha Morta e o Rei Saudade - Google Books
-, e de José Pereira da Costa, em seu importante trabalho:
-Inês de Castro, (1320?-1325) Musa de tantas paixões - Google Books
-.
+Apresentamos a seguir a cronologia dos fatos mais importantes do período correspondente à vida de Inês de Castro. Por ser sintética, contempla apenas as citações essenciais feitas no livro, alusivas aos personagens de maior ênfase: Inês de Castro ( † ) e D. Pedro I. ( † )
+Para a sua elaboração, entre as cronologias de autores conceituados, as mais utilizadas foram as de Antônio Cândido Franco, em seu livro A Rainha Morta e o Rei Saudade, e de José Pereira da Costa, em seu importante trabalho: Inês de Castro, (1320?-1325) Musa de tantas paixões.
 Acrescentamos aos textos informações adicionais, de nossa responsabilidade, que fogem ao habitual das cronologias, a fim de facilitar a compreensão do leitor eventualmente não familiarizado com as referências históricas.
-Nascimento de Constança Manuel,
-filha de João Manuel
-e Constança de Aragão (1300-1327), futura esposa de D. Pedro, falecida antes que o infante se tornasse rei de Portugal.
-Nascimento em Coimbra do infante D. Pedro,
-filho dos reis de Portugal, D. Afonso IV
-e D. Beatriz,
-e neto de D. Dinis
-e Isabel de Aragão, a Rainha Santa.
-Nascimento de Inês de Castro
-na Galiza, reino de Castela, provavelmente em Monforte.
+1314
+Nascimento de Constança Manuel, ( † ) filha de João Manuel ( † ) e Constança de Aragão, futura esposa de D. Pedro, falecida antes que o infante se tornasse rei de Portugal.
+1320
+Nascimento em Coimbra do infante D. Pedro, ( † ) filho dos reis de Portugal, D. Afonso IV ( † ) e D. Beatriz, ( † ) e neto de D. Dinis ( † ) e Isabel de Aragão, a Rainha Santa. ( † )
+1325
+Nascimento de Inês de Castro ( † ) na Galiza, reino de Castela, provavelmente em Monforte.
 Morte do Rei D. Dinis, avô de D. Pedro, esposo da Rainha Santa, Isabel de Aragão, reverenciada como o Anjo da Paz e da Caridade na Península Ibérica.
-Casamento não consumado do rei Afonso XI
-(onzeno) de Castela com Constança Manuel, a filha do nobre João Manuel.
-Casamento de D. Pedro com Branca de Castela.
-Primeiro casamento do infante. Não foi consumado, sendo o acordo matrimonial cancelado em 1336.
-Casamento da infanta D. Maria
-com Afonso XI de Castela. Era filha de D. Afonso IV,
-rei de Portugal, e irmã de D. Pedro.
-Nascimento de D. Pedro I,
-o Cruel, de Castela, filho de Afonso XI e de Maria de Portugal
-e sobrinho de D. Pedro I
-de Portugal. Ambos os “Pedros” reinaram em épocas coincidentes.
-Segundo casamento do infante D. Pedro, agora com Constança Manuel,
-oficializado por procuração de D. Constança, proibida por Afonso XI
-de deixar Castela. O casamento foi concretizado somente em 1340.
-Morte de Isabel
-de Aragão em Estremoz. A Rainha Santa selou, em Portugal, a paz entre marido e filho, D. Dinis
-e D. Afonso IV,
-encerrando longa guerra civil.
-Chegada a Portugal de Constança Manuel, acompanhada de Inês de Castro,
-sua amiga e dama de honra.
+Casamento não consumado do rei Afonso XI ( † ) (onzeno) de Castela com Constança Manuel, a filha do nobre João Manuel.
+1328
+Casamento de D. Pedro com Branca de Castela. ( † ) Primeiro casamento do infante. Não foi consumado, sendo o acordo matrimonial cancelado em 1336.
+Casamento da infanta D. Maria ( † ) com Afonso XI de Castela. Era filha de D. Afonso IV, ( † ) rei de Portugal, e irmã de D. Pedro.
+1333
+Nascimento de D. Pedro I, ( † ) o Cruel, de Castela, filho de Afonso XI e de Maria de Portugal ( † ) e sobrinho de D. Pedro I ( † ) de Portugal. Ambos os “Pedros” reinaram em épocas coincidentes.
+1336
+Segundo casamento do infante D. Pedro, agora com Constança Manuel, ( † ) oficializado por procuração de D. Constança, proibida por Afonso XI ( † ) de deixar Castela. O casamento foi concretizado somente em 1340.
+Morte de Isabel ( † ) de Aragão em Estremoz. A Rainha Santa selou, em Portugal, a paz entre marido e filho, D. Dinis ( † ) e D. Afonso IV, ( † ) encerrando longa guerra civil.
+1340
+Chegada a Portugal de Constança Manuel, acompanhada de Inês de Castro, ( † ) sua amiga e dama de honra.
 Em agosto, celebração do matrimônio de D. Pedro e D. Constança na Sé de Lisboa.
-Em fins de outubro, D. Afonso IV combate os mouros na Batalha do Salado.
+Em fins de outubro, D. Afonso IV combate os mouros na Batalha do Salado. ( † )
+1343
 Nascimento e morte de Luís, primeiro filho de Pedro e Constança. Inês de Castro, a contragosto de Pedro, foi a madrinha, o que, segundo os cânones da Igreja Católica da época, impediria futuro casamento de D Pedro com Inês, fato que já preocupava a corte…
-Nascimento da infanta Maria,
-filha de D. Pedro e D. Constança.
-Desterro de Inês de Castro, por ordem de D. Afonso IV, para o
-Castelo dos Albuquerques
-, em Castela, com passagem pela Galiza.
+1344
+Nascimento da infanta Maria, ( † ) filha de D. Pedro e D. Constança.
+Desterro de Inês de Castro, por ordem de D. Afonso IV, para o Castelo dos Albuquerques, em Castela, com passagem pela Galiza.
 Terremoto em Lisboa.
-Nascimento do 3° filho de D. Pedro e D. Constança, o futuro rei de Portugal, D. Fernando I.
+1345
+Nascimento do 3º filho de D. Pedro e D. Constança, o futuro rei de Portugal, D. Fernando I. ( † )
 Morte de D. Constança Manuel, em decorrência do parto de D. Fernando.
-Retorno de Inês de Castro
-a Portugal, após o exílio em Castela.
-Surto de peste negra
-em Portugal.
+1346
+Retorno de Inês de Castro ( † ) a Portugal, após o exílio em Castela.
+1348
+Surto de peste negra ( † ) em Portugal.
+1349
 Nascimento de D. Afonso, primeiro filho de Inês e Pedro, em Moledo, nas terras da Lourinhã, próximo a Peniche e ao Paço Real de Serra D’El-Rei. O primogênito pouco viveu.
-Nascimento em Moledo de D. João,
-segundo filho de Inês e D. Pedro. Os tempos vividos em Moledo e região e, mais tarde no norte, foram os anos felizes do casal.
-Nascimento em Moledo de D. Dinis,
-3° filho de Inês e D. Pedro.
-D. Pedro e Inês partem para o norte, residindo na Quinta de Canidelo, em Santo André de Canidelo,
-próximo a Vila Nova de Gaia, na região da cidade do Porto.
+1350
+Nascimento em Moledo de D. João, ( † ) segundo filho de Inês e D. Pedro. Os tempos vividos em Moledo e região e, mais tarde no norte, foram os anos felizes do casal.
+1351
+Nascimento em Moledo de D. Dinis, ( † ) 3º filho de Inês e D. Pedro.
+1352
+D. Pedro e Inês partem para o norte, residindo na Quinta de Canidelo, em Santo André de Canidelo, ( † ) próximo a Vila Nova de Gaia, na região da cidade do Porto.
+1353
+Nascimento de D. Beatriz, ( † ) filha de Inês e D. Pedro.
+1354
 Casamento secreto em Bragança do infante D. Pedro com Inês de Castro, perante D. Gil, o Bispo da Guarda.
 D. Pedro e Inês mudam-se para Coimbra e fixam residência no Paço de Santa Clara.
-Nascimento de D. Beatriz,
-filha de Inês e D. Pedro, provavelmente em Coimbra.
-Inês é decapitada a 7 de janeiro, por determinação do rei D. Afonso IV, no Paço Real de Coimbra, próximo à Quinta das Lágrimas
-e ao Mosteiro de Santa Clara.
+1355 - I
+Inês é decapitada a 7 de janeiro, por determinação do rei D. Afonso IV, no Paço Real de Coimbra, próximo à Quinta das Lágrimas ( † ) e ao Mosteiro de Santa Clara. ( † )
+1355 - II
 Revolta do Infante D. Pedro contra o pai, D. Afonso IV, logo após a morte de Inês.
-Em agosto, acordo de paz entre o infante D. Pedro e o pai, D. Afonso IV, em Marco de Canaveses,
-por inspiração de Beatriz, mãe de D. Pedro, com a colaboração do Prior dos Hospitalários, D. Álvaro Pereira.
-Em cumprimento ao acordo, a justiça do reino passou a ser exercida pelo infante.
-Em maio, morte de D. Afonso IV.
-D. Pedro I torna-se rei de Portugal.
-Nascimento de João, o Mestre de Avis,
-futuro rei D. João I, filho bastardo de D. Pedro I. Morte da rainha de Castela, D. Maria,
-a Formosa, viúva do rei D. Afonso XI e irmã de D. Pedro I.
-Em Évora, morre D. Beatriz,
-mãe do rei D. Pedro I. Rainha boníssima e caridosa, amiga e admiradora da sogra, Isabel de Aragão.
+Em agosto, acordo de paz entre o infante D. Pedro e o pai, D. Afonso IV, em Marco de Canaveses, ( † ) por inspiração de Beatriz, mãe de D. Pedro, com a colaboração do Prior dos Hospitalários, D. Álvaro Pereira. ( † ) Em cumprimento ao acordo, a justiça do reino passou a ser exercida pelo infante.
+1357
+Em maio, morte de D. Afonso IV. ( † ) D. Pedro I torna-se rei de Portugal.
+Nascimento de João, o Mestre de Avis, ( † ) futuro rei D. João I, filho bastardo de D. Pedro I. Morte da rainha de Castela, D. Maria, ( † ) a Formosa, viúva do rei D. Afonso XI e irmã de D. Pedro I.
+1359
+Em Évora, morre D. Beatriz, ( † ) mãe do rei D. Pedro I. Rainha boníssima e caridosa, amiga e admiradora da sogra, Isabel de Aragão. ( † )
 1360
-Declaração de Cantanhede:
-D. Pedro I declara ter casado com Inês em 1354, na cidade de Bragança, quando ainda era infante. A Declaração de Cantanhede foi confirmada a seguir em Coimbra, e ratificada nas Cortes de Elvas, em 1361.
-n
-Execução em Santarém, com brutal crueldade, dos culpados pela morte de Inês de Castro: Álvaro Gonçalves
-e Pero Coelho.
-, que estavam refugiados em Castela. Com a ajuda de um mendigo, o outro culpado, Diogo Lopes Pacheco,
-não foi capturado e sobreviveu.
-Traslado de Inês de Castro do Mosteiro de Santa Clara,
-em Coimbra, para a Igreja do Mosteiro de Alcobaça.
-Dois autores divergem na data do traslado: 24 de abril de 1361 ou 2 de abril de 1362.
-n
-Cortes de Elvas,
-em que foram reiterados infantes os filhos de Inês de Castro e D. Pedro I, com a oficialização do casamento entre os pais, ocorrido em Bragança, em 1354. Nas Cortes, D. Pedro manteve, a despeito de forte oposição do clero, a aplicação do Beneplácito Régio.
-Henrique II,
-filho bastardo de Afonso XI,
-é aclamado rei de Castela em Sevilha, destronando o meio-irmão D. Pedro I,
-o Cruel, filho legítimo e sucessor de Afonso XI. Seu efetivo reinado iniciou-se apenas em 1369 com o homicídio de D. Pedro I.
-A partir da década de 1370, os filhos de Inês de Castro e D. Pedro I viveram os derradeiros anos de suas vidas em Castela, longe de Portugal, casados com descendentes de Henrique II: Beatriz com o irmão do rei; João e Dinis com suas filhas bastardas.
-Morre D. Pedro I
-em Estremoz, na madrugada de 18 de janeiro.
-
----
-
-##  — Posfácio
-
-Seomara da Veiga Ferreira, ao descrever os derradeiros momentos que precederam a decapitação de Inês a 7 de janeiro de 1355. (
-Inês de Castro - A Estalagem dos Assombros - Google Books
-)
+Declaração de Cantanhede: ( † ) D. Pedro I declara ter casado com Inês em 1354, na cidade de Bragança, quando ainda era infante. A Declaração de Cantanhede foi confirmada a seguir em Coimbra, e ratificada nas Cortes de Elvas, em 1361. n
+Execução em Santarém, com brutal crueldade, dos culpados pela morte de Inês de Castro: Álvaro Gonçalves ( † ) e Pero Coelho. ( † ), que estavam refugiados em Castela. Com a ajuda de um mendigo, o outro culpado, Diogo Lopes Pacheco, ( † ) não foi capturado e sobreviveu.
+1361
+Traslado de Inês de Castro do Mosteiro de Santa Clara, ( † ) em Coimbra, para a Igreja do Mosteiro de Alcobaça. ( † ) Dois autores divergem na data do traslado: 24 de abril de 1361 ou 2 de abril de 1362. n
+Cortes de Elvas, ( † ) em que foram reiterados infantes os filhos de Inês de Castro e D. Pedro I, com a oficialização do casamento entre os pais, ocorrido em Bragança, em 1354. Nas Cortes, D. Pedro manteve, a despeito de forte oposição do clero, a aplicação do Beneplácito Régio. ( † )
+1366
+Henrique II, ( † ) filho bastardo de Afonso XI, ( † ) é aclamado rei de Castela em Sevilha, destronando o meio-irmão D. Pedro I, o Cruel, ( † ) filho legítimo e sucessor de Afonso XI. Seu efetivo reinado iniciou-se apenas em 1369 com o homicídio de D. Pedro I, [de Castela.]
+A partir da década de 1370, os filhos de Inês de Castro e D. Pedro I [de Portugal] viveram os derradeiros anos de suas vidas em Castela, longe de Portugal, casados com descendentes de Henrique II: Beatriz com o irmão do rei; João e Dinis com suas filhas bastardas.
+1367
+Morre D. Pedro I [de Portugal] ( † ) em Estremoz, na madrugada de 18 de janeiro.

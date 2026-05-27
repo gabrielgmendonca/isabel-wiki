@@ -6,496 +6,356 @@
 
 ---
 
-##  — Recados do Além
+## 
 
-Prezado leitor:
-Entre os verdadeiros amigos, muitas vezes, as respostas aparecem antes das perguntas claramente formuladas e os avisos cordiais antecedem os problemas inevitáveis, nas experiências de cada um.
-Este livro é uma parte do nosso diálogo.
-Em matéria de escolha e diretriz, a meditação, entre nós, fará o resto.
+Prezado leitor: Entre os verdadeiros amigos, muitas vezes, as respostas aparecem antes das perguntas claramente formuladas e os avisos cordiais antecedem os problemas inevitáveis, nas experiências de cada um. Este livro é uma parte do nosso diálogo. Em matéria de escolha e diretriz, a meditação, entre nós, fará o resto.
 Uberaba, 21 de fevereiro de 1978.
 
 ---
 
-## 1 — Esquema da vida
+## 1
 
-Compreender constantemente.
-Trabalhar sempre.
-Descansar, quando se mostre necessária a pausa de refazimento.
-Parar nunca.
+Compreender constantemente. Trabalhar sempre. Descansar, quando se mostre necessária a pausa de refazimento. Parar nunca.
 
 ---
 
-## 2 — Não desistas
+## 2
 
-Escolheste a senda do bem?
-Não te detenhas.
-Não contes as pedras da estrada.
-Soma as bênçãos que já recebeste.
-Nunca desistas.
+Escolheste a senda do bem? Não te detenhas. Não contes as pedras da estrada. Soma as bênçãos que já recebeste. Nunca desistas.
 
 ---
 
-## 3 — Prestação de auxílio
+## 3
 
 Pelo bem do próximo, qualquer tempo é hora de ajudar; e, em qualquer parte, podes doar aos outros a prestação do auxílio de que o Senhor nos incumbiu.
 
 ---
 
-## 4 — Deus vigia
+## 4
 
-
-Nas grandes provações, não te afastes da fé.
-
-Nos pequenos contratempos, cultiva a paciência.
-
-Agradece à Divina Bondade a bênção de cada dia.
-
-Trabalha sempre.
-
-Serve, desinteressadamente, aos outros, quanto puderes.
-
-Esquece injúrias e ofensas.
-
-Não lastimes o passado.
-
-Não censures a ninguém.
-
-Segue sempre para diante e não temas.
-
-Deus vigia.
+1 Nas grandes provações, não te afastes da fé. 2 Nos pequenos contratempos, cultiva a paciência. 3 Agradece à Divina Bondade a bênção de cada dia. 4 Trabalha sempre. 5 Serve, desinteressadamente, aos outros, quanto puderes. 6 Esquece injúrias e ofensas. 7 Não lastimes o passado. 8 Não censures a ninguém. 9 Segue sempre para diante e não temas. 10 Deus vigia.
 
 ---
 
-## 5 — Serve e segue
+## 5
 
-Sofres porque talvez hajas perdido valores que consideravas essenciais.
-Tiveste prejuízos de vulto;
-
-varaste acidentes que te feriram;
-
-alguém te arrebatou as oportunidades de promoção e melhoria;
-
-foste alvo de críticas indébitas;
-
-suportas acusações que nada fizeste por merecer;
-
-conheceste, sem esperar, a ingratidão ou o menosprezo de pessoas queridas…
-Entretanto, ergue a fronte, esquece as provações do caminho e segue adiante, no trabalho que Deus te deu, agindo para o bem e servindo sempre, porque a Divina Providência jamais nos abandona e amanhã será outro dia.
+1 Sofres porque talvez hajas perdido valores que consideravas essenciais.
+2 Tiveste prejuízos de vulto; 3 varaste acidentes que te feriram; 4 alguém te arrebatou as oportunidades de promoção e melhoria; 5 foste alvo de críticas indébitas; 6 suportas acusações que nada fizeste por merecer; 7 conheceste, sem esperar, a ingratidão ou o menosprezo de pessoas queridas…
+8 Entretanto, ergue a fronte, esquece as provações do caminho e segue adiante, no trabalho que Deus te deu, agindo para o bem e servindo sempre, porque a Divina Providência jamais nos abandona e amanhã será outro dia.
 
 ---
 
-## 6 — Ocorrências
+## 6
 
-Recordemos.
-Qualquer ocorrência tem muito mais importância pelo que acontece dentro de nós do que pelo que sucede fora de nós.
-
----
-
-## 7 — Ação de tratamento
-
-Tristeza vazia?
-O trabalho te alegrará.
-Depressões?
-Serviço aos semelhantes te livrará da angústia.
-Afeições que abandonam?
-Segue adiante agindo no bem ao próximo e acharás corações outros que te compartilhem os ideais.
-Mágoas?
-Fácil olvidá-las na atividade em que nos esqueçamos em benefício dos outros.
-Inquietações?
-Sejamos pontuais no melhor que possamos fazer e a vida, em nome de Deus, resolverá os problemas que nos cercam, muitas vezes, sem nossa interferência.
-Erros alheios?
-Reflitamos nos nossos e a paz nos abençoará o caminho.
+Recordemos. Qualquer ocorrência tem muito mais importância pelo que acontece dentro de nós do que pelo que sucede fora de nós.
 
 ---
 
-## 8 — Prece do discípulo
+## 7
 
-Jesus!
-Reconheço que a tua vontade é sempre o melhor para cada um de nós; mas se me permites algo pedir-te, rogo me auxilies a ser uma bênção para os outros.
-
----
-
-## 9 — Olvida e segue
-
-
-Não percas tempo, lamentando:
-
-o afeto que desertou;
-
-o parente que te desconhece;
-
-o dinheiro que perdeste;
-
-a incompreensão do ambiente;
-
-a injúria sofrida ou a mágoa de ontem.
-
-Age, serve e caminha para a frente.
-
-O dia de hoje é uma nova criação de Deus.
+1 Tristeza vazia? O trabalho te alegrará.
+2 Depressões? Serviço aos semelhantes te livrará da angústia.
+3 Afeições que te abandonam? Segue adiante agindo no bem ao próximo e acharás corações outros que te compartilhem os ideais.
+4 Mágoas? Fácil olvidá-las na atividade em que nos esqueçamos em benefício dos outros.
+5 Inquietações? Sejamos pontuais no melhor que possamos fazer e a vida, em nome de Deus, resolverá os problemas que nos cercam, muitas vezes, sem nossa interferência.
+6 Erros alheios? Reflitamos nos nossos e a paz nos abençoará o caminho.
 
 ---
 
-## 10 — Amor e atração
+## 8
 
-Dentro da noite fria, o discípulo inquiriu:
-— Instrutor, como entender a atração do amor? Por que se destroem tantas criaturas, em nome do afeto?
-O sábio pensou, pensou…
-Depois, inclinando a chama da candeia que clareava o recinto, cercada por grande número de mariposas, dentre as quais muitas delas caiam mortas, esclareceu:
-— Muitos se anulam, em nome do amor, por lhe ignorarem os princípios divinos. Observa as mariposas e a chama. Elas são atraídas pela luz e pelo calor, mas porque não se contentam em se aquecerem para seguir no caminho claro que a luz lhes descortina, tentam absorver toda a chama que, por fim, as consome dentro da própria grandeza.
+Jesus! Reconheço que a tua vontade é sempre o melhor para cada um de nós; mas se me permites algo pedir-te, rogo me auxilies a ser uma bênção para os outros.
 
 ---
 
-## 11 — Rogativa
+## 9
 
-Senhor!
-Não nos deixes de punhos cerrados, como quem se prepara a fim de espancar alguém!…
-Ensina-nos a abrir as mãos para doar aos outros o benefício que se nos faça possível.
+1 Não percas tempo, lamentando: 2 o afeto que desertou; 3 o parente que te desconhece; 4 o dinheiro que perdeste; 5 a incompreensão do ambiente; 6 a injúria sofrida ou a mágoa de ontem.
+7 Age, serve e caminha para a frente. 8 O dia de hoje é uma nova criação de Deus.
 
 ---
 
-## 12 — O melhor remédio
+## 10
+
+1 Dentro da noite fria, o discípulo inquiriu: — Instrutor, como entender a atração do amor? Por que se destroem tantas criaturas, em nome do afeto?
+2 O sábio pensou, pensou… Depois, inclinando a chama da candeia que clareava o recinto, cercada por grande número de mariposas, dentre as quais muitas delas caiam mortas, esclareceu: — Muitos se anulam, em nome do amor, por lhe ignorarem os princípios divinos. Observa as mariposas e a chama. Elas são atraídas pela luz e pelo calor, mas porque não se contentam em se aquecerem para seguir no caminho claro que a luz lhes descortina, tentam absorver toda a chama que, por fim, as consome dentro da própria grandeza.
+
+---
+
+## 11
+
+Senhor! Não nos deixes de punhos cerrados, como quem se prepara a fim de espancar alguém!… Ensina-nos a abrir as mãos para doar aos outros o benefício que se nos faça possível.
+
+---
+
+## 12
 
 O melhor remédio para que te cures do cansaço será sempre renovar a maneira de servir, trabalhando mais.
 
 ---
 
-## 13 — Ante o desconhecido
+## 13
 
 Sempre que possível, faze uma oração, ainda que ligeira, quando encontres alguma cousa ou quando te vejas perante algum acontecimento que ainda não conheças.
 
 ---
 
-## 14 — Auxiliar
+## 14
 
 Para quem deseja realmente auxiliar a Divina Providência revela os meios de fazê-lo, com base na consciência tranquila.
 
 ---
 
-## 15 — Aperfeiçoamento
+## 15
 
-Quando Joaquim, filho de Jonatan, perguntou a Jesus por que sofrem tanto os corações generosos da Terra, o Eterno Amigo simplesmente replicou:
-— Nenhum artista, por mais culto consegue esculpir na madeira que o caruncho domina.
-
----
-
-## 16 — Encontros
-
-Auxilia aos outros, tanto quanto puderes.
-Cada pessoa que hoje te encontra talvez seja amanhã a chave de que necessitas para a solução de numerosos problemas.
+Quando Joaquim, filho de Jonatan, perguntou a Jesus por que sofrem tanto os corações generosos da Terra, o Eterno Amigo simplesmente replicou: — Nenhum artista, por mais culto consegue esculpir na madeira que o caruncho domina.
 
 ---
 
-## 17 — Repouso demais
+## 16
+
+Auxilia aos outros, tanto quanto puderes. Cada pessoa que hoje te encontra talvez seja amanhã a chave de que necessitas para a solução de numerosos problemas.
+
+---
+
+## 17
 
 Quase sempre aqueles que insistem contigo para que repouses, além do necessário, desejam simplesmente instalar-te na inutilidade, onde se inicia o processo da morte.
 
 ---
 
-## 18 — Interpretação
+## 18
 
-O discípulo acercou-se do Divino Mestre e inquiriu:
-— Mestre, como devo interpretar os adversários?
-
-O Eterno Benfeitor sorriu e considerou:
-— Filho, os inimigos são filhos de Deus, tanto quanto nós, mas geralmente são pessoas que não pensam por nossa cabeça.
+1 O discípulo acercou-se do Divino Mestre e inquiriu: — Mestre, como devo interpretar os adversários?
+2 O Eterno Benfeitor sorriu e considerou: — Filho, os inimigos são filhos de Deus, tanto quanto nós, mas geralmente são pessoas que não pensam por nossa cabeça.
 
 ---
 
-## 19 — O pirilampo
+## 19
 
-Nunca te afirmes imprestável.
-Num aldeamento de colonização, surgiu um químico dedicado à fabricação de remédios pesquisando as qualidade de certo arbusto que existia unicamente em cavernas.
-Detendo informes de antigos habitantes da região, muniu-se de lâmpada elétrica, vela e fósforos para descer aos escaninhos de grande furna.
-O homem começou a distanciar-se da luz do sol e porque a sombra se condensasse, acendeu a lâmpada desdobrando uma corda que, na volta, lhe orientasse o caminho.
-A breves instantes, porém, as pilhas se esgotaram. Recorreu aos fósforos e inflamou a vela, entretanto, a vela se derreteu e os fósforos foram gastos inteiramente, sem que ele atingisse o que desejava.
-Dispunha-se ao regresso, quando viu em pequeno recôncavo do espaço estreito e escuro o brilho intermitente de um pirilampo.
-Aproximou-se curioso e, à frente dessa luz, achou a planta que buscava, com enorme proveito na tarefa a que se propunha.
-Anotemos a conclusão.
-Quem não pode ser a luz solar, terá possivelmente o clarão da lâmpada. Quem não consegue ser a lâmpada terá consigo o valor de uma vela acesa ou de um fósforo chamejante. E quem não disponha de meios a fim de substituir a vela ou o fósforo, trará sem dúvida, o brilho de um pirilampo.
-
----
-
-## 20 — Discernimento
-
-É preciso discernir o momento em que o conselho dever ser substituído por um pedaço de pão.
+1 Nunca te afirmes imprestável.
+2 Num aldeamento de colonização, surgiu um químico dedicado à fabricação de remédios pesquisando as qualidade de certo arbusto que existia unicamente em cavernas.
+3 Detendo informes de antigos habitantes da região, muniu-se de lâmpada elétrica, vela e fósforos para descer aos escaninhos de grande furna.
+4 O homem começou a distanciar-se da luz do sol e porque a sombra se condensasse, acendeu a lâmpada desdobrando uma corda que, na volta, lhe orientasse o caminho.
+5 A breves instantes, porém, as pilhas se esgotaram. Recorreu aos fósforos e inflamou a vela, entretanto, a vela se derreteu e os fósforos foram gastos inteiramente, sem que ele atingisse o que desejava.
+6 Dispunha-se ao regresso, quando viu em pequeno recôncavo do espaço estreito e escuro o brilho intermitente de um pirilampo.
+7 Aproximou-se curioso e, à frente dessa luz, achou a planta que buscava, com enorme proveito na tarefa a que se propunha.
+8 Anotemos a conclusão. Quem não pode ser a luz solar, terá possivelmente o clarão da lâmpada. Quem não consegue ser a lâmpada terá consigo o valor de uma vela acesa ou de um fósforo chamejante. E quem não disponha de meios a fim de substituir a vela ou o fósforo, trará sem dúvida, o brilho de um pirilampo.
 
 ---
 
-## 21 — Paciência adiante
+## 20
 
-Não te desligues da paciência.
-Para que obtenhas a simpatia e o amparo da maioria das pessoas, basta te disponhas a ouvi-las.
-
----
-
-## 22 — Vibrações
-
-Um homem sisudo entrou numa sala onde várias pessoas conversavam cordialmente.
-O recém-chegado sentou-se sem dizer palavra.
-Destacou-se para logo uma estranha ocorrência.
-Os circunstantes calaram-se e, em seguida, afastaram-se, um por um.
-O dono da casa veio ao encontro do último dos retirantes e perguntou:
-— Que terá sucedido, se o meu novo hóspede nada chegou a dizer?
-O interpelado, no entanto, respondeu, hesitante.
-Não consigo explicar, mas tenho a impressão de que o silêncio dele faz barulho demais.
+É preciso discernir o momento em que o conselho deve ser substituído por um pedaço de pão.
 
 ---
 
-## 23 — Férias
+## 21
 
-Lembra-te.
-Às vezes, quem não exige férias é quem descansa mais.
-
----
-
-## 24 — Oração no trânsito
-
-Senhor!
-Compadece-te no mundo de quantos se utilizam das máquinas na própria condução.
-Faze-lhes sentir que se é preciso prudência e serenidade para que a mente possa conservar-se em harmonia com o corpo físico que lhe serve de habitação, de mais serenidade e prudência necessitará a criatura humana, a fim de se manter em equilíbrio sobre essa ou aquela engrenagem terrestre, nas quais o homem realmente permanece no controle de um corpo suplementado é muito maior.
+Não te desligues da paciência. Para que obtenhas a simpatia e o amparo da maioria das pessoas, basta te disponhas a ouvi-las.
 
 ---
 
-## 25 — Em qualquer circunstância
+## 22
 
-Nem sempre conseguirás o brilho pessoal a que aspiras.
-Raramente chegarás a realizar todos os ideais superiores que te animam.
-Muitas vezes, a harmonia em família parecer-te-á muito longe.
-Não te sustentarás sem problemas.
-Quase impraticável andar na Terra sem que esse ou aquele companheiro se nos erija em teste de paciência e humildade.
-Mas, em qualquer circunstância, podes esquecer o mal e fazer o bem.
-
----
-
-## 26 — Possível e impossível
-
-
-Acalma-te e serve.
-
-Não fizeste o sol que te ilumina.
-
-Não fabricaste o ar que respiras.
-
-Não criaste o solo em que te apoias.
-
-Não teceste a vestimenta das flores que te rodeiam.
-
-Não pares de trabalhar.
-
-A vida te pede o bem que se te faça possível.
-
-O impossível virá de Deus.
+1 Um homem sisudo entrou numa sala onde várias pessoas conversavam cordialmente.
+2 O recém-chegado sentou-se sem dizer palavra.
+3 Destacou-se para logo uma estranha ocorrência.
+4 Os circunstantes calaram-se e, em seguida, afastaram-se, um por um.
+5 O dono da casa veio ao encontro do último dos retirantes e perguntou: — Que terá sucedido, se o meu novo hóspede nada chegou a dizer?
+6 O interpelado, no entanto, respondeu, hesitante. Não consigo explicar, mas tenho a impressão de que o silêncio dele faz barulho demais.
 
 ---
 
-## 27 — O pastor
+## 23
 
-O pastor aproximou-se do Divino Mestre e perguntou:
-— Senhor, deste-me o rebanho para guardar… Que farei da ovelha doente, quando não possa seguir-nos?
-— Carregarás a ovelha doente, junto de teu próprio coração, poupando-lhe esforço.
-— E se a ovelha foge? Como proceder, quando vejo alguma a transviar-se, correndo para os matagais, como se nos detestasse o caminho? Devo deixar o rebanho, a fim de buscá-la?
-— Não te aflijas, respondeu-lhe o Senhor; confia na Divina Providência. Se alguma ovelha fugir, não abandones o rebanho no intuito de procurá-la. Segue com paciência para diante, porque Deus já te concedeu o servidor que a trará de volta.
-— Quem, Senhor? quem fará isto por mim?
-O Mestre endereçou a todo o rebanho um sorriso de bênção e rematou:
-— Não te esqueças de agradecer a tarefa que Deus reservou ao teu cão.
+Lembra-te. Às vezes, quem não exige férias é quem descansa mais.
 
 ---
 
-## 28 — Imortalidade
+## 24
 
-Quando o suicida acordou no Mais Além, trazendo a chaga em sangue que abrira em si mesmo, gritou espantado para os Céus:
-— Meu Deus, meu Deus, onde a morte em que entrei?
-
-Uma voz, porém, lhe respondeu aos ouvidos da consciência profunda:
-— Meu filho, sairás da morte, tantas vezes quantas forem necessárias, mas da vida jamais.
+Senhor! Compadece-te no mundo de quantos se utilizam das máquinas na própria condução. Faze-lhes sentir que se é preciso prudência e serenidade para que a mente possa conservar-se em harmonia com o corpo físico que lhe serve de habitação, de mais serenidade e prudência necessitará a criatura humana, a fim de se manter em equilíbrio sobre essa ou aquela engrenagem terrestre, nas quais o homem realmente permanece no controle de um corpo suplementado e muito maior.
 
 ---
 
-## 29 — Tempo alheio
+## 25
 
-Pensa no valor do tempo.
-Quando não sejas a pessoa chamada a essa ou àquela confidência, se não podes comunicar a alguém o que tens a dizer, no máximo de dez minutos, é aconselhável te sentes para escrever a esse alguém uma carta para ser lida em momento oportuno.
-
----
-
-## 30 — Ama e vive
-
-E abeirando-se do mentor, o aprendiz indagou:
-— E a morte, instrutor? que me diz da extinção do corpo?
-O interpelado respondeu:
-— Filho, a morte não existe. A vida é um criação imortal de Deus.
-— Mas então não existe a morte?
-O instrutor ouviu a pergunta reiterada, pensou longamente e rematou:
-— Sim, a morte existe num certo sentido que nos cabe aceitar. A criatura que deixa de amar, em verdade começa logo a morrer…
+1 Nem sempre conseguirás o brilho pessoal a que aspiras.
+2 Raramente chegarás a realizar todos os ideais superiores que te animam.
+3 Muitas vezes, a harmonia em família parecer-te-á muito longe.
+4 Não te sustentarás sem problemas.
+5 Quase impraticável andar na Terra sem que esse ou aquele companheiro se nos erija em teste de paciência e humildade.
+6 Mas, em qualquer circunstância, podes esquecer o mal e fazer o bem.
 
 ---
 
-## 31 — Receita
+## 26
+
+1 Acalma-te e serve. 2 Não fizeste o sol que te ilumina. 3 Não fabricaste o ar que respiras. 4 Não criaste o solo em que te apoias. 5 Não teceste a vestimenta das flores que te rodeiam. 6 Não pares de trabalhar. 7 A vida te pede o bem que se te faça possível. 8 O impossível virá de Deus.
+
+---
+
+## 27
+
+1 O pastor aproximou-se do Divino Mestre e perguntou: — Senhor, deste-me o rebanho para guardar… Que farei da ovelha doente, quando não possa seguir-nos? — Carregarás a ovelha doente, junto de teu próprio coração, poupando-lhe esforço.
+2 — E se a ovelha foge? Como proceder, quando vejo alguma a transviar-se, correndo para os matagais, como se nos detestasse o caminho? Devo deixar o rebanho, a fim de buscá-la? — Não te aflijas, respondeu-lhe o Senhor; confia na Divina Providência. Se alguma ovelha fugir, não abandones o rebanho no intuito de procurá-la. Segue com paciência para diante, porque Deus já te concedeu o servidor que a trará de volta. — Quem, Senhor? Quem fará isto por mim?
+3 O Mestre endereçou a todo o rebanho um sorriso de bênção e rematou: — Não te esqueças de agradecer a tarefa que Deus reservou ao teu cão.
+
+---
+
+## 28
+
+1 Quando o suicida acordou no Mais Além, trazendo a chaga em sangue que abrira em si mesmo, gritou espantado para os Céus: — Meu Deus, meu Deus, onde a morte em que entrei?
+2 Uma voz, porém, lhe respondeu aos ouvidos da consciência profunda: — Meu filho, sairás da morte, tantas vezes quantas forem necessárias, mas da vida jamais.
+
+---
+
+## 29
+
+Pensa no valor do tempo. Quando não sejas a pessoa chamada a essa ou àquela confidência, se não podes comunicar a alguém o que tens a dizer, no máximo de dez minutos, é aconselhável te sentes para escrever a esse alguém uma carta para ser lida em momento oportuno.
+
+---
+
+## 30
+
+1 E abeirando-se do mentor, o aprendiz indagou: — E a morte, instrutor? que me diz da extinção do corpo?
+2 O interpelado respondeu: — Filho, a morte não existe. A vida é uma criação imortal de Deus. — Mas então não existe a morte?
+3 O instrutor ouviu a pergunta reiterada, pensou longamente e rematou: — Sim, a morte existe num certo sentido que nos cabe aceitar. A criatura que deixa de amar, em verdade começa logo a morrer…
+
+---
+
+## 31
 
 Experimenta substituir os instantes de queixa por momentos de serviço ao próximo e observa os resultados.
 
 ---
 
-## 32 — A escora infalível
+## 32
 
-Quando estiveres sob o eclipse total da esperança, não te deixes vencer pela sombra.
-Segue adiante, fazendo o bem que possas.
-É possível que pedras e espinhos te firam na estrada, quando estejas tateando na escuridão.
-Conserva, porém, a serenidade e a coragem, porque os agentes contrários à tua marcha são elementos que te analisam as conquistas de humildade e paciência.
-Sofre, mas serve e segue.
-Se te falharam todos os recursos de proteção do mundo, não te esqueças de que tens contigo a escora infalível de Deus.
+1 Quando estiveres sob o eclipse total da esperança, não te deixes vencer pela sombra.
+2 Segue adiante, fazendo o bem que possas.
+3 É possível que pedras e espinhos te firam na estrada, quando estejas tateando na escuridão.
+4 Conserva, porém, a serenidade e a coragem, porque os agentes contrários à tua marcha são elementos que te analisam as conquistas de humildade e paciência.
+5 Sofre, mas serve e segue.
+6 Se te falharam todos os recursos de proteção do mundo, não te esqueças de que tens contigo a escora infalível de Deus.
 
 ---
 
-## 33 — Iniciativa
+## 33
 
 Seria ingenuidade supor que Deus, o Doador de Tudo a Todos fosse obrigado a providenciar para nós aquilo que podemos providenciar por nós mesmos.
 
 ---
 
-## 34 — Sinal de progresso
+## 34
 
 Grande sinal de progresso da alma: receber com serenidade e paciência as ocorrências inesperadas.
 
 ---
 
-## 35 — Recomeço
+## 35
 
-Não gastes a riqueza do tempo com lamentações improfícuas, nem destruas o valor das horas no fogo da agitação. Cala-te e pensa.
-Sofreste talvez prejuízos enormes.
-Provavelmente caíste em erro.
-Padeces desenganos que jamais esperaste.
-Encontraste problemas que te parecem insolúveis.
-Fracassaste naquilo que entendias como sendo o melhor em teu favor.
-Entretanto, queixas e aflições vazias não te amparam de modo algum.
-Reflete em teu arsenal interior de recursos e bênçãos e surpreenderás um tesouro de energias em ti mesmo, cujo acesso descobrirás, meditando simplesmente nestas duas palavras:
-— Posso recomeçar.
+1 Não gastes a riqueza do tempo com lamentações improfícuas, nem destruas o valor das horas no fogo da agitação. Cala-te e pensa. 2 Sofreste talvez prejuízos enormes. 3 Provavelmente caíste em erro. 4 Padeces desenganos que jamais esperaste. 5 Encontraste problemas que te parecem insolúveis. 6 Fracassaste naquilo que entendias como sendo o melhor em teu favor. 7 Entretanto, queixas e aflições vazias não te amparam de modo algum.
+8 Reflete em teu arsenal interior de recursos e bênçãos e surpreenderás um tesouro de energias em ti mesmo, cujo acesso descobrirás, meditando simplesmente nestas duas palavras: — Posso recomeçar.
 
 ---
 
-## 36 — Explicação
+## 36
 
-
-O aprendiz indagou do Mestre:
-— Senhor, sofro muito… A solidão me aniquila.
-Que fazer de mim, se minha vida é um terrível deserto?
-
-O Divino Instrutor, porém, respondeu:
-— Filho, a flor aparece onde for plantada.
+1 O aprendiz indagou do Mestre: — Senhor, sofro muito… A solidão me aniquila. Que fazer de mim, se minha vida é um terrível deserto?
+2 O Divino Instrutor, porém, respondeu: — Filho, a flor aparece onde for plantada.
 
 ---
 
-## 37 — Rumo claro
+## 37
 
 Quando todos os recursos estiverem falhando na solução de qualquer problema da alma, experimenta fazer o que Jesus nos ensinou.
 
 ---
 
-## 38 — Se fosses
+## 38
 
-Quem de nós não terá errado algum dia? quantas vezes teremos pedido desculpas àqueles a quem ofendemos, rogando ao mesmo tempo, o amparo da Misericórdia Divina?
-Talvez estejas sofrendo com a deserção de um companheiro; com os desequilíbrios de um filho ou de uma filha profundamente amados; com os golpes de um amigo repentinamente transformado em agressor; ou com o delito perpetrado por alguém contra as criaturas que amas…
-Entretanto, não sabemos ainda medir o poder das forças negativas enxertadas na mente dos nossos irmãos que se marginalizam nas sombras.
-Imagina-te no lugar dos companheiros errados; pensa em ti como se fosses a pessoa contra a qual se te volta o ressentimento e aprenderás quanto valem a tolerância e o perdão.
+1 Quem de nós não terá errado algum dia? Quantas vezes teremos pedido desculpas àqueles a quem ofendemos, rogando ao mesmo tempo, o amparo da Misericórdia Divina?
+2 Talvez estejas sofrendo com a deserção de um companheiro; com os desequilíbrios de um filho ou de uma filha profundamente amados; com os golpes de um amigo repentinamente transformado em agressor; ou com o delito perpetrado por alguém contra as criaturas que amas…
+3 Entretanto, não sabemos ainda medir o poder das forças negativas enxertadas na mente dos nossos irmãos que se marginalizam nas sombras.
+4 Imagina-te no lugar dos companheiros errados; pensa em ti como se fosses a pessoa contra a qual se te volta o ressentimento e aprenderás quanto valem a tolerância e o perdão.
 
 ---
 
-## 39 — Repouso
+## 39
 
 O dever cumprido é a melhor maneira de fazer da própria consciência o mais alto lugar de repouso.
 
 ---
 
-## 40 — Adversários
+## 40
 
-Não vale a pena cultivar aversões.
-Deus que é Nosso Pai é igualmente o Pai de nossos inimigos e terá meios de auxiliá-los, tanto quanto a nós.
-
----
-
-## 41 — Fazer o melhor
-
-Em qualquer situação desagradável, o problema não será condenar e sim compreender.
-Não basta, entretanto, unicamente compreender. É preciso aceitar a realidade e fazer o melhor.
+Não vale a pena cultivar aversões. Deus que é Nosso Pai é igualmente o Pai de nossos inimigos e terá meios de auxiliá-los, tanto quanto a nós.
 
 ---
 
-## 42 — Sobre o dinheiro
+## 41
 
-Certo aprendiz acercou-se do instrutor cristão e perguntou:
-— Professor amigo, para a Sabedoria Divina o que vem a ser o dinheiro?
-O interpelado considerou:
-— O dinheiro é sempre um talento de Deus, nas mãos do homem, e cada criatura responde por aquilo que faça de semelhante bênção.
-— Mas, professor — tornou o discípulo — por que existem tantos pregadores da verdade e do bem que amaldiçoam a fortuna? por que tantas pessoas reprovam a moeda, asperamente?
-O instrutor, no entanto, esclareceu:
-— Filho, podes anotar: sempre que ouças alguém censurando a moeda, esse alguém estará condenando o dinheiro dos outros.
+1 Em qualquer situação desagradável, o problema não será condenar e sim compreender. 2 Não basta, entretanto, unicamente compreender. É preciso aceitar a realidade e fazer o melhor.
 
 ---
 
-## 43 — Silêncio e ouro
+## 42
 
-O silêncio é de ouro.
-É lamentável, porém, vender as lições da verdade pelo ouro do silêncio.
+1 Certo aprendiz acercou-se do instrutor cristão e perguntou: — Professor amigo, para a Sabedoria Divina o que vem a ser o dinheiro?
+2 O interpelado considerou: — O dinheiro é sempre um talento de Deus, nas mãos do homem, e cada criatura responde por aquilo que faça de semelhante bênção.
+3 — Mas, professor — tornou o discípulo — por que existem tantos pregadores da verdade e do bem que amaldiçoam a fortuna? Por que tantas pessoas reprovam a moeda, asperamente?
+4 O instrutor, no entanto, esclareceu: — Filho, podes anotar: sempre que ouças alguém censurando a moeda, esse alguém estará condenando o dinheiro dos outros.
 
 ---
 
-## 44 — Beneficência
+## 43
+
+O silêncio é de ouro. É lamentável, porém, vender as lições da verdade pelo ouro do silêncio.
+
+---
+
+## 44
 
 Uma das mais belas formas da beneficência é saber viver e ser útil, compreendendo e servindo no mundo íntimo do próximo, segundo as necessidades dos outros.
 
 ---
 
-## 45 — Revelação
+## 45
 
 A maior revelação de teu amor aparece brilhando quando permites que o Cristo em ti e contigo possa amar e servir aos outros sem procurar saber quem são e como são.
 
 ---
 
-## 46 — Doação e alegria
+## 46
 
-Diz o Evangelho: “há mais alegria em dar do que em receber”.
-
-
-Guarda, porém, a certeza de que se te matriculares na escola da caridade, mesmo reclamando, acabarás por descobrir a alegria de auxiliar aos outros, sem pensar em receber.
+1 Diz o Evangelho: “há mais alegria em dar do que em receber”. ( † ) 2 Guarda, porém, a certeza de que se te matriculares na escola da caridade, mesmo reclamando, acabarás por descobrir a alegria de auxiliar aos outros, sem pensar em receber.
 
 ---
 
-## 47 — Liberdade
+## 47
 
-O discípulo procurou o instrutor cristão e pediu-lhe um parecer sobre a liberdade.
-
-O nobre amigo, de coração marcado pelas experiências do mundo, pensou por longos momentos e respondeu:
-— Se ainda não conheces os ensinamentos do Cristo, estás livre para fazer o que gostas, mas se já aceitaste as lições de Jesus, estás livre para fazer o que deves.
+1 O discípulo procurou o instrutor cristão e pediu-lhe um parecer sobre a liberdade.
+2 O nobre amigo, de coração marcado pelas experiências do mundo, pensou por longos momentos e respondeu: — Se ainda não conheces os ensinamentos do Cristo, estás livre para fazer o que gostas, mas se já aceitaste as lições de Jesus, estás livre para fazer o que deves.
 
 ---
 
-## 48 — Anotação do amor
+## 48
 
 Aqueles que se dispõem a minorar a dor dos infelizes não encontram ensejo para estar a sós.
 
 ---
 
-## 49 — O auxílio virá
+## 49
 
-O problema que te preocupa talvez te pareça excessivamente amargo ao coração. E tão amargo que talvez não possas comentá-lo, de pronto.
-Às vezes, a sombra interior é tamanha que tens a ideia de haver perdido o próprio rumo.
-Entretanto, não esmoreças. Abraça o dever que a vida te assinala. Serve e ora.
-A prece te renovará energias.
-O trabalho te auxiliará.
-Deus não nos abandona.
-Faze silêncio e não te queixes.
-Alegra-te e espera, porque o Céu te socorrerá. Por meios que desconheces Deus permanece agindo.
+1 O problema que te preocupa talvez te pareça excessivamente amargo ao coração. E tão amargo que talvez não possas comentá-lo, de pronto.
+2 Às vezes, a sombra interior é tamanha que tens a ideia de haver perdido o próprio rumo.
+3 Entretanto, não esmoreças. Abraça o dever que a vida te assinala. Serve e ora. 4 A prece te renovará energias. 5 O trabalho te auxiliará. 6 Deus não nos abandona. 7 Faze silêncio e não te queixes. 8 Alegra-te e espera, porque o Céu te socorrerá. Por meios que desconheces Deus permanece agindo.
 
 ---
 
-## 50 — Não esmoreças
+## 50
 
-Quando o desânimo te ameace, porque os teus melhores planos pareçam desfeitos;
-
-quando a sombra da tristeza te invada o coração dolorido, à vista dos desenganos que nunca esperaste;
-
-se recursos te faltam para o imediato recomeço de tarefas que aspiras a restaurar,
-
-e se os próprios amigos desaparecem, não esmoreças e nem percas a esperança.
-Trabalha como e onde puderes, servindo sempre, na certeza de que trazes, contigo, a força do companheiro fiel que jamais te abandona, porque tens Deus.
+1 Quando o desânimo te ameace, porque os teus melhores planos pareçam desfeitos; 2 quando a sombra da tristeza te invada o coração dolorido, à vista dos desenganos que nunca esperaste; 3 se recursos te faltam para o imediato recomeço de tarefas que aspiras a restaurar, 4 e se os próprios amigos desaparecem, não esmoreças e nem percas a esperança.
+5 Trabalha como e onde puderes, servindo sempre, na certeza de que trazes, contigo, a força do companheiro fiel que jamais te abandona, porque tens Deus.

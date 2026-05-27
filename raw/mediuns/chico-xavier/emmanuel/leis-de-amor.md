@@ -2,55 +2,76 @@
 
 **Autor espiritual:** Emmanuel  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Lda/Lda08.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Lda/Lda01.htm
 
 ---
 
-## VIII — Redenção
+## I
 
-> 1.  Quando redimirás espiritualmente a ti mesmo?
-> — n
+> 1.  O que estrutura espiritualmente o corpo de carne?
 
-Redimirás a ti mesmos, quando compreenderes, conscientemente, ao preço do próprio raciocínio, que todos os sofrimentos decorrem das leis de amor que governam a vida. Para isso, é indispensável compreendas que todos estamos subordinados ao princípio inelutável da reencarnação e que nos reencarnaremos, na Terra ou em outros mundos, tantas vezes quantas se fizerem necessárias, para que se nos edifique o aperfeiçoamento espiritual, seja diante dos imperativos da evolução, que nos traçam inevitáveis labores educativos ou à frente dos encargos expiatórios que nos apontam graves tarefas de recapitulação e corrigenda, para o expurgo da consciência culpada.
-Tens o coração aberto em feridas profundas, mas isso não basta; é preciso transubstanciar as próprias dores em esperanças e ensinamentos.
-Trazes o semblante lavado de lágrimas, no entanto, o desespero e a inconformação desmancham-se igualmente em pranto amargo; para expurgar o mundo íntimo é mister valer-se da provação como recurso de trabalho, para converter a tribulação em alegria e a dificuldade em lição.
-Golpeiam-te a alma e bendizes as mãos que te ferem. Imperioso, porém, te dediques a fazer algo a fim de que se renovem para o entendimento e a prática do bem, sob a inspiração de teus bons exemplos.
-Dizes a verdade e riem de ti; muitas vezes, só porque isso aconteça, julgas-te dispensado de trabalhar pela expansão de novas luzes, quando a verdade reclama continuísmo de abnegação para que triunfe a benefício de todos.
-Recolheste pedras de ingratidão por pétalas de carinho e isso acontece a muitos. Multidões respiram nesse câmbio estranho de padecimentos morais, preferindo acomodar-se à hipnose da queixa. A ingratidão é sempre resultado da ignorância e para que a ingratidão alheia produza bênçãos redentoras, em nós, é necessário prosseguir plantando entendimento e fraternidade na terra seca da incompreensão, de que muitos outros já desertaram.
-Exigem-te o máximo na construção da felicidade dos outros, sem que te seja concedido o mínimo na preservação da própria segurança. Não alegues fraqueza em tais circunstâncias, porque, em apoio de nosso burilamento, urge sustentar atividades e encargos de sacrifício.
-Caluniaram-te, no entanto, só pelo fato de seres apontado pelo dedo da injúria, isso não adianta ao aperfeiçoamento espiritual. Impreterível usar compaixão e bondade, à frente daqueles que nos perseguem.
-Toleras no lar o cárcere dos próprios sonhos, entretanto, é útil recordar que vastas fileiras de criaturas se encontram na mesma situação, agravando padecimentos e lutas pelo abandono das responsabilidades que lhes competem. A regeneração pela qual ansiamos espera por nossa fidelidade aos compromissos assumidos, com a nossa disposição de arquivar planos de ventura para quando a sabedoria nos proclame a libertação.
-Vergas-te sob o fardo de inquietações opressivas, contudo, para que essas inquietações nos sirvam ao reajuste da alma, cabe-nos a obrigação de transformá-las em testemunhos de fé e serviço ao próximo.
-Acresce notar que o reconhecimento dos próprios erros, perpetrados nesse ou naquele setor da existência, é o primeiro passo da reabilitação, mas esse começo é empreendimento nulo, se não resolvemos corrigir-nos com humildade e paciência, na execução dos deveres que a vida nos recomenda.
-Sim, vezes inúmeras, costumas refletir nas grandes façanhas dos Espíritos valorosos que transformaram a Terra… Acolheram-se à filosofia e criaram novas formas de pensamento; abraçaram a ciência e exalçaram o progresso; elevaram-se na cultura e engrandeceram a arte; agigantaram-se no trabalho e aperfeiçoaram a vida; entretanto, reencarnaram-se entre os homens, lavrando o solo, mecanizando atividades, burilando palavras, renovando costumes, aprimorando leis, desbravando caminhos… Todos eles, cada qual a seu modo, entregaram-te as chaves da evolução, melhorando a vida por fora. No íntimo, porém, seja nas horas tranquilas da existência ou nas crises de aflição que nos supliciam a alma, é forçoso te lembres que a redenção verdadeira nasce dentro de ti.
-
----
-
-## VII — O tratamento das doenças e o Espiritismo
-
-> 1  O Espiritismo pode contribuir para o tratamento das doenças?
-
-A Doutrina Espírita, expressando o Cristianismo Redivivo, não apenas descortina os panoramas radiantes da imortalidade, ante o grande futuro, mas é igualmente luz para o homem, a clarear-lhe o caminho; desse modo, desempenha função específica no tratamento das doenças que fustigam a Humanidade, por ensinar a medicina da alma, em bases no amor construtivo e reedificante.
-Nas trilhas da experiência terrestre, realmente, a cada trecho, surpreendemos desequilíbrios, a se exprimirem por enfermidades individuais e coletivas.
-Mágoas, ressentimentos, desesperos, atritos e irritações entretecem crises do pensamento, estabelecendo lesões mentais que culminam em processos patológicos, no corpo e na alma, quando não se convertem, de pronto, em pábulo da loucura ou em sombra da morte.
-Isso acontece porque milhões de criaturas, repostas no lar, recapitulam amargosas e graves experiências, junto daqueles que atormentaram outrora ou que outrora lhes foram implacáveis verdugos; metamorfoseados em companheiros que, às vezes, trazem o nome de pais e figuram-se adversários intransigentes; respondem por filhos e mais se assemelham a duros algozes dos corações afetuosos que lhes deram o tesouro do berço; carregam a certidão de esposos e parecem forçados, em algema dupla na pedreira do sofrimento; fazem-se conhecidos por titulares da parentela e exibem-se, à feição de carrascos tranquilos.
-Do ponto de vista mental, os adversários do pretérito, reencarnados no presente, expandem entre si tamanha carga vibratória de crueldade e rebeldia, que transfiguram o ninho familiar em furna minada por miríades de raios destrutivos de azedume e aversão.
-Diante desses conflitos, surgem os princípios espíritas por medicação providencial.
-Evidenciando a reencarnação, destacam o impositivo da tolerância mútua, por terapêutica espiritual imediata, a fim de que os pontos nevrálgicos do indivíduo ou do grupo sejam definitivamente sanados.
-Proclamando o entendimento fraterno por medida inalienável, perante os ajustes precisos, catalogam os irmãos transviados na ficha dos enfermos carecentes de compaixão e socorro.
-Despertando a mente para a necessidade do trabalho e do estudo espontâneo, preparam a criatura, em qualquer situação, para a obra do aperfeiçoamento próprio e desvelando a continuidade da vida, para lá da morte, patenteiam ao raciocínio de cada um que a individualidade não encontrará, além-túmulo, qualquer prerrogativa e sim a felicidade ou o infortúnio que construiu para si mesma, através daquilo que fez aos semelhantes.
-Fácil verificar, assim, que a Doutrina Espírita encerra a filosofia do pensamento reto, por agente preservativo da saúde moral, e consubstancia a religião natural do bem, cujas manifestações definem a caridade por terapêutica de alívio e correção de todos os males que afligem a existência.
-Com os ensinamentos espíritas aprendemos que os atos de bondade, ainda os mais apagados e pequeninos, são plantações de alegrias eternas e que o perdão incondicional das ofensas é a fórmula santificante para supressão da dor e renovação do destino.
-Nas atividades espíritas,
-
-n
-do magnetismo sublimado benefícios imediatos, seja no clima do passe, sob o influxo da oração, ou no culto sistemático do Evangelho no lar, por intermédio dos quais, benfeitores e amigos desencarnados te reequilibram as forças, através da inspiração elevada, apaziguando-nos os pensamentos, ou se valem de recursos mediúnicos esparsos no ambiente, a fim de nos propiciarem socorro à alma aflita ou às energias exaustas.
-Se abraçaste, pois, a Doutrina Espírita, perlustra-lhes os ensinos e compreenderás que a humildade e a benevolência, o serviço e a abnegação a paciência e a esperança, a solidariedade e o otimismo são medicamentos do Espírito, transformando lutas em lições e dificuldades em bênçãos, porque no mundo de cada esclarecimento e de cada mensagem consoladora, que efluem da inspiração, ouvirás a palavra do Cristo: “Amai-vos uns aos outros como eu vos amei.”
-
+O corpo espiritual ou perispírito é o corpo básico, constituído de matéria sutil, sobre o qual se organiza o corpo de carne.
+A grande maioria das doenças tem a sua causa profunda na estrutura semimaterial do corpo espiritual. Havendo o Espírito agido erradamente, nesse ou naquele setor da experiência evolutiva, vinca o corpo espiritual com desequilíbrios ou distonias, que o predispõem à instalação de determinadas enfermidades, conforme o órgão atingido.
+A justiça na Terra pune simplesmente a crueldade manifesta, cujas consequências transitam nas áreas do interesse público, dilapidando a vida e induzindo à criminalidade; entretanto, esse é apenas o seu aspecto exterior, porque a justiça é sempre manifestação constante da Lei Divina, nos processos da evolução e nas atividades da consciência.
+No curso das enfermidades, é imperioso venhamos a examinar a Justiça, funcionando com todo o seu poder regenerativo, para sanar os males que acalentamos.
+Antes da reencarnação, nós mesmos, em plenitude de responsabilidade, analisamos os pontos vulneráveis da própria alma, advogando em nosso próprio favor a concessão dos impedimentos físicos que, em tempo certo, nos imunizem, ante a possibilidade de reincidência nos erros em que estamos incursos.
+Artífices do pensamento, que malversamos os patrimônios do espírito, rogamos empeços cerebrais, que se façam por algum tempo alavancas coercitivas, contra as nossas tendências ao desequilíbrio intelectual.
+Artistas, que intoxicamos a sensibilidade alheia com os abusos da representação viciosa, imploramos moléstias ou mutilações, que nos incapacitem para a queda em novas culpas.
+Tarefeiros da palavra, que nos prevalecemos dela para caluniar ou para ferir, solicitamos as deficiências dos aparelhos vocais e auditivos, que nos garantam a segregação providencial.
+Criaturas dotadas de harmonia orgânica, que arremessamos os valores do sexo ao terreno das paixões aviltantes, enlouquecendo corações e fomentando tragédias, suplicamos as doenças e as inibições genésicas que em nos humilhando, servem por válvulas de contenção dos nossos impulsos inferiores.
+Mas, nem sempre requisitamos deliberadamente semelhantes suplícios temporários, de vez que, em muitas circunstâncias, quais aquelas que se verificam no suicídio ou na delinquência, caímos, de imediato, na desagregação ou na insanidade das próprias forças, lesando o corpo espiritual, o que nos constrange a renascer no berço físico, exibindo defeitos e moléstias congênitas, em aflitivos quadros expiatórios.
+Encontramos numerosos casos de doenças compulsórias, impostas pela Lei Divina, na maioria das criaturas que trazem as provações da idiotia ou da loucura, da cegueira ou da paralisia irreversíveis, ou ainda, nas crianças-problemas, cujos corpos irremediavelmente frustrados, durante todo o curso da reencarnação, se mostram na condição de celas regenerativas, para a internação compulsória daqueles que fizeram jus a semelhantes recursos drásticos da Lei. Justo acrescentar que todos esses companheiros, em transitórias mas duras dificuldades, renascem na companhia daqueles mesmos amigos e familiares de outro tempo que, um dia, se acumpliciaram com eles na prática das ações reprováveis em que delinquiram.
+A mente é mais poderosa para instalar doenças e desarmonias do que todas as bactérias e vírus conhecidos. Necessário, pois considerar igualmente que desequilíbrios e moléstias surgem também da imprudência e do desmazelo, da revolta e da preguiça. Pessoas que se embriagam a ponto de arruinar a saúde; que esquecem a higiene até se tornarem presas de parasitos destruidores; que se encolerizam pelas menores razões, destrambelhando os próprios nervos; ou que passam todas as horas em redes e leitos, poltronas e janelas, sem coragem de vencer a ociosidade e o desânimo pela movimentação do trabalho, prejudicando a função dos órgãos do corpo físico, em razão da própria imobilidade, são criaturas que geram doenças para si mesmas, nas atitudes de hoje mesmo, sem qualquer ligação com causas anteriores de existências passadas.
+Assinalando as causas distantes e próximas das doenças de agora, destacamos o motivo por que os ensinamentos da Doutrina Espírita nos fazem considerar, com mais senso de gravidade, a advertência do Mestre: — “Orai e vigiai para não cairdes em tentação”. ( † )
 
 ---
 
-## IV — Divórcio — Suicídio — Aborto
+## II
+
+> 1.  A morte arquiva os serviços inacabados das criaturas humanas?
+
+No mundo, a morte parece uma estação de problemas insolvíveis, arquivando serviços inacabados. Entretanto, isso é apenas aparência.
+Dramas passionais, crimes que não foram investigados pelos juízes humanos, tragédias íntimas e assaltos na sombra cujos protagonistas sabemos identificar por vítimas e carrascos, não desaparecem no silencio do túmulo, porque a vida prossegue, além da morte, desdobrando causas e consequências.
+O princípio de causa e efeito tanto funciona na existência humana, quanto além dos implementos físicos perecíveis.
+Porque nós outros, seres humanos encarnados e desencarnados, somos ainda discípulos imperfeitos e inexperientes da vida, a morte não nos impele, em definitivo, às Esferas superiores e nem nos rebaixa, indefinidamente, a Círculos degradantes.
+Considera-nos a Lei Divina por inteligências juvenis, sob o patrocínio da escola, concedendo-nos, na vida terrestre o mais alto campo edificante e reeducativo.
+Nos elos da consanguinidade reavemos o convívio de todos aqueles que se nos associaram ao destino, pelos vínculos do bem ou do mal, através das portas benditas da reencarnação.
+Unge-te de paciência, amor, compreensão, devotamento, bom ânimo e humildade, a fim de aprender e vencer, na luta doméstica. No mundo, o lar é a primeira escola da reabilitação e do reajuste.
+Quase sempre, os pais despóticos de hoje são aqueles filhos do passado, em cuja mente inoculamos o egoísmo e a intolerância.
+O filho rebelde e vicioso é o irmão que arrojamos, um dia, à intemperança e à delinquência
+A filha detida nos desregramentos do coração é a jovem que, noutro tempo, induzimos ao desequilíbrio e à crueldade.
+O marido ingrato e desleal, em muitas circunstâncias, é o mesmo esposo do pretérito, que precipitamos na deserção, com os próprios exemplos menos felizes.
+A companheira desorientada, que nos amarga o sentimento, é a mulher que menosprezamos, em outra época, obrigando-a a resvalar no poço da loucura.
+Os parentes abnegados, em que nos escoramos, são os amigos de outras eras, com os quais já construímos os sólidos alicerces da amizade e do entendimento, propiciando-nos o reconforto da segurança recíproca.
+Cada elo de simpatia ou cada sombra de desafeto, que surpreendemos na família ou na atividade profissional, são forças do passado a nos pedirem mais amplas afirmações de trabalho na vitória do bem.
+Eis porque, perante os parentes e companheiros de jornada, urge consagrar-te à felicidade de todos e fazer o melhor que possas, a benefício de cada um.
+Se a presença de alguém nos é penosa ou difícil ao coração, anulemos os impulsos negativos que nos surjam na alma e convertamos as nossas relações com esse alguém numa sementeira constante de paz e luz.
+Ninguém possui sem razão esse ou aquele laço de parentesco, de vez que o acaso não existe nas obras da Criação.
+
+---
+
+## III
+
+> 1.  Podemos avaliar as nossas existências passadas, somente através de lutas e provações?
+
+Não te fala o pretérito exclusivamente através das provas que te aguilhoam a vida.
+Observa as oportunidades de reajuste e aperfeiçoamento, que o mundo te concede na esfera da profissão. A criatura renasce, gravitando para o campo de serviço em que se lhe afinam disposições e tendências.
+Cada inteligência é situada no lugar em que possa produzir mais e melhor.
+Certamente que a situação da personalidade em determinada carreira não obedece à fatalidade. Livre arbítrio no mundo interior comanda sentimentos e ideias, palavras e atos do Espírito, constantemente.
+Todo dia é tempo de renovar o destino.
+Na esfera dos deveres comuns, o Espírito granjeia, através de abnegação e serviço espontâneo, valiosos recursos de ação, de modo a refundir, facilmente, os próprios caminhos.
+Somos defrontados nas atividades profissionais de hoje com antigos devedores da Lei, chamados a funcionar no trabalho ou nas obras em que eles próprios faliram ontem, com dilatadas possibilidades de obtenção do próprio resgate; quase sempre aqueles mesmos junto dos quais se verificaram nossos próprios delitos ou deserções em existências passadas. Em nosso benefício, a Lei nos faculta empreendimentos e obrigações junto deles, a fim de que possamos pagar débitos ou vencer antipatias e inibições, respirando-lhes o clima e renteando-lhes a presença.
+Pensadores que antigamente corrompiam a mente popular com as depravações de espírito já em vias de autoburilamento, formam agora entre professores laboriosos, aprendendo a ministrar disciplinas, à custa do próprio exemplo.
+Tiranos que não vacilaram em forjar a miséria física e moral dos semelhantes, na exaltação dos princípios subalternos em que se envileciam, voltam, depois das medidas iniciais da própria corrigenda, na condição de administradores capacitados à distribuição de valores e tarefas edificantes.
+Políticos que dilapidaram a confiança do povo, quando já situados nas linhas do reajuste, retornam, no comércio ou na agricultura, com valiosa oportunidade de transpirar no auxílio àquelas mesmas comunidades que deprimiram.
+Guerreiros e soldados que se valiam das armas para assegurarem imunidades aos instintos destruidores, quando internados na regeneração começante, transfiguram-se em mecânicos e operários modeladores, dignificando o metal e a madeira que eles próprios perverteram em outras épocas.
+Verdugos rurais, agiotas desnaturados, defraudadores da economia pública e mordomos do solo, convertidos em agentes do furto, modificados ao toque do bem, volvem na posição de servidores limitados da gleba, suando de sol a sol, no pagamento das dívidas, a que se empenharam, imprevidentes.
+Mulheres distintas que se ocuparam da maledicência e da intriga, prejudicando a liberdade e o progresso, após reconhecerem os próprios erros, tornam, em regime de transitório cativeiro, ao recinto doméstico, aprisionadas em singelas obrigações, junto de caçarolas e tanques de lavar.
+Reflete na profissão que desempenhas e encontrarás dentro dela os sinais do teu próprio passado e usando-a, não apenas emteu próprio favor, mas em favor de todos aqueles que se aproximarem de ti, reconhecerás, no trabalho que a Terra te deu, iluminada porta libertadora para o grande futuro.
+
+---
+
+## IV
 
 > 1.  Compreendendo-se que muitos casamentos resultam em uniões infelizes e, às vezes, até mesmo profundamente antipáticas, induzindo os cônjuges ao divórcio, como interpretar a fase de atração recíproca, repleta de alegria e esperança, que caracterizou o namoro e o noivado?
 
@@ -84,92 +105,35 @@ O suicídio agrava todos os sofrimentos.
 
 ---
 
-## II — Parentesco e filiação
+## V
 
-> 1.  A morte arquiva os serviços inacabados das criaturas humanas?
+> 1.  Existe relação entre obsessão e correntes mentais?
 
-No mundo, a morte parece uma estação de problemas insolvíveis, arquivando serviços inacabados. Entretanto, isso é apenas aparência.
-Dramas passionais, crimes que não foram investigados pelos juízes humanos, tragédias íntimas e assaltos na sombra cujos protagonistas sabemos identificar por vítimas e carrascos, não desaparecem no silencio do túmulo, porque a vida prossegue, além da morte, desdobrando causas e consequências.
-O princípio de causa e efeito tanto funciona na existência humana, quanto além dos implementos físicos perecíveis.
-Porque nós outros, seres humanos encarnados e desencarnados, somos ainda discípulos imperfeitos e inexperientes da vida, a morte não nos impele, em definitivo, às Esferas superiores e nem nos rebaixa, indefinidamente, a Círculos degradantes.
-Considera-nos a Lei Divina por inteligências juvenis, sob o patrocínio da escola, concedendo-nos, na vida terrestre o mais alto campo edificante e reeducativo.
-Nos elos da consanguinidade reavemos o convívio de todos aqueles que se nos associaram ao destino, pelos vínculos do bem ou do mal, através das portas benditas da reencarnação.
-Unge-te de paciência, amor, compreensão, devotamento, bom ânimo e humildade, a fim de aprender e vencer, na luta doméstica. No mundo, o lar é a primeira escola da reabilitação e do reajuste.
-Quase sempre, os pais despóticos de hoje são aqueles filhos do passado, em cuja mente inoculamos o egoísmo e a intolerância.
-O filho rebelde e vicioso é o irmão que arrojamos, um dia, à intemperança e à delinquência
-A filha detida nos desregramentos do coração é a jovem que, noutro tempo, induzimos ao desequilíbrio e à crueldade.
-O marido ingrato e desleal, em muitas circunstâncias, é o mesmo esposo do pretérito, que precipitamos na deserção, com os próprios exemplos menos felizes.
-A companheira desorientada, que nos amarga o sentimento, é a mulher que menosprezamos, em outra época, obrigando-a a resvalar no poço da loucura.
-Os parentes abnegados, em que nos escoramos, são os amigos de outras eras, com os quais já construímos os sólidos alicerces da amizade e do entendimento, propiciando-nos o reconforto da segurança recíproca.
-Cada elo de simpatia ou cada sombra de desafeto, que surpreendemos na família ou na atividade profissional, são forças do passado a nos pedirem mais amplas afirmações de trabalho na vitória do bem.
-Eis porque, perante os parentes e companheiros de jornada, urge consagrar-te à felicidade de todos e fazer o melhor que possas, a benefício de cada um.
-Se a presença de alguém nos é penosa ou difícil ao coração, anulemos os impulsos negativos que nos surjam na alma e convertamos as nossas relações com esse alguém numa sementeira constante de paz e luz.
-Ninguém possui sem razão esse ou aquele laço de parentesco, de vez que o acaso não existe nas obras da Criação.
-
----
-
-## III — Escolha social e profissional
-
-> 1.  Podemos avaliar as nossas existências passadas, somente através de lutas e provações?
-
-Não te fala o pretérito exclusivamente através das provas que te aguilhoam a vida.
-Observa as oportunidades de reajuste e aperfeiçoamento, que o mundo te concede na esfera da profissão. A criatura renasce, gravitando para o campo de serviço em que se lhe afinam disposições e tendências.
-Cada inteligência é situada no lugar em que possa produzir mais e melhor.
-Certamente que a situação da personalidade em determinada carreira não obedece à fatalidade. Livre arbítrio no mundo interior comanda sentimentos e ideias, palavras e atos do Espírito, constantemente.
-Todo dia é tempo de renovar o destino.
-Na esfera dos deveres comuns, o Espírito granjeia, através de abnegação e serviço espontâneo, valiosos recursos de ação, de modo a refundir, facilmente, os próprios caminhos.
-Somos defrontados nas atividades profissionais de hoje com antigos devedores da Lei, chamados a funcionar no trabalho ou nas obras em que eles próprios faliram ontem, com dilatadas possibilidades de obtenção do próprio resgate; quase sempre aqueles mesmos junto dos quais se verificaram nossos próprios delitos ou deserções em existências passadas. Em nosso benefício, a Lei nos faculta empreendimentos e obrigações junto deles, a fim de que possamos pagar débitos ou vencer antipatias e inibições, respirando-lhes o clima e renteando-lhes a presença.
-Pensadores que antigamente corrompiam a mente popular com as depravações de espírito já em vias de autoburilamento, formam agora entre professores laboriosos, aprendendo a ministrar disciplinas, à custa do próprio exemplo.
-Tiranos que não vacilaram em forjar a miséria física e moral dos semelhantes, na exaltação dos princípios subalternos em que se envileciam, voltam, depois das medidas iniciais da própria corrigenda, na condição de administradores capacitados à distribuição de valores e tarefas edificantes.
-Políticos que dilapidaram a confiança do povo, quando já situados nas linhas do reajuste, retornam, no comércio ou na agricultura, com valiosa oportunidade de transpirar no auxílio àquelas mesmas comunidades que deprimiram.
-Guerreiros e soldados que se valiam das armas para assegurarem imunidades aos instintos destruidores, quando internados na regeneração começante, transfiguram-se em mecânicos e operários modeladores, dignificando o metal e a madeira que eles próprios perverteram em outras épocas.
-Verdugos rurais, agiotas desnaturados, defraudadores da economia pública e mordomos do solo, convertidos em agentes do furto, modificados ao toque do bem, volvem na posição de servidores limitados da gleba, suando de sol a sol, no pagamento das dívidas, a que se empenharam, imprevidentes.
-Mulheres distintas que se ocuparam da maledicência e da intriga, prejudicando a liberdade e o progresso, após reconhecerem os próprios erros, tornam, em regime de transitório cativeiro, ao recinto doméstico, aprisionadas em singelas obrigações, junto de caçarolas e tanques de lavar.
-Reflete na profissão que desempenhas e encontrarás dentro dela os sinais do teu próprio passado e usando-a, não apenas emteu próprio favor, mas em favor de todos aqueles que se aproximarem de ti, reconhecerás, no trabalho que a Terra te deu, iluminada porta libertadora para o grande futuro.
+Quem se refere à obsessão há de reportar-se, necessariamente, às correntes mentais. O pensamento é a base de tudo.
+Inegável que todos carreamos ainda, do pretérito ao presente, enorme carga de desafetos.
+Quando desencarnados, em condições relativamente felizes, guardadas as justas exceções, somos equiparados a devedores em refazimento, habilitando-nos, pelo trabalho e pelo estudo, ao prosseguimento do resgate dos compromissos de retaguarda.
+É compreensível que seja na Esfera física que mais direta e frequentemente nos abordem aqueles mesmos Espíritos a quem ferimos ou com quem nos acumpliciamos na delinquência.
+São eles as testemunhas de nosso aperfeiçoamento, experimentando-nos as energias morais, quando não lhes suportamos o permanente convívio, por força das provas regenerativas que trazemos ao renascer. Acompanham-nos por instrumentos do progresso a que aspiramos, vigiam-nos as realizações e policiam-nos os impulsos.
+Um dia, chegaremos a agradecer-lhes a colaboração, imitando o aluno que, incomodado na escola, se rejubila, mais tarde, por haver passado sob as atenções do professor exigente.
+Nos processos da obsessão, urge reconhecer que os nossos opositores ou adversários se transformam para o bem, à medida que, de nossa parte, nos transformamos para melhor.
+Toda recomendação verbal e todo entendimento pela palavra, através das sessões de desobsessão, se reveste de profundo valor, mas somente quando autenticados pelo nosso esforço de reabilitação íntima, sem a qual todas as frases enternecedoras passarão, infrutíferas, qual música emocionante sobre a vasa do charco.
+Salientando-se que o pensamento é alavanca de ligação, para o bem ou para o mal, é muito fácil perceber que os fenômenos deprimentes da obsessão podem atingir-nos, em qualquer condição e em qualquer tempo.
+As correntes mentais são tão evidentes quanto as correntes elétricas, expressando potenciais de energias para realizações que nos exprimem direção, propósito ou vontade, seja para o mal ou para o bem.
+Cada um de nós é um acumulador por si, retendo as forças construtivas ou destrutivas que geramos. Desejo, palavra, atitude e ação representam eletroímãs, através dos quais atraímos forças iguais àquelas que exteriorizamos, no rumo dos semelhantes.
+Deter-nos, em qualquer aspecto do mal, é aumentar-lhe a influência, sobre nós e sobre os outros.
+Todas as manifestações de sentimento aviltado, quais sejam a calúnia e a maledicência, a cólera e o ciúme, a censura e o sarcasmo, a intemperança e a licenciosidade, estabelecem a comunicação espontânea com os poderes que os representam, nos Círculos inferiores da natureza, criando distonias e enfermidades, em que se levantam fobias e fixações, desequilíbrios e psicoses, a evoluírem para a alienação mental declarada.
+Emitindo um pensamento, colocamos um agente energético em circulação, no organismo da vida, — agente esse que retornará fatalmente a nós, acrescido do bem ou do mal de que o revestimos.
+Compreendendo-se que cada um de nós possui pontos vulneráveis, no estado evolutivo deficitário em que ainda nos encontramos, toda vez que o mal se nos associe a essa ou àquela ideia, teremos o mal de volta a nós mesmos, agravando-se doenças e fraquezas, obsessões e paixões.
+Assimilamos dos outros o que damos de nós.
+A mente pode ser comparada a espelho vivo, que reflete as imagens que procura.
+A obsessão, em qualquer tipo pelo qual se expresse, está fundamente vinculada aos processos mentais em que se baseiam os interesses da criatura.
+Assevera o Cristo: — “Busca e acharás”. ( † )
+Encontraremos, sim, os companheiros que buscamos.
+Consagremo-nos à construção do bem de todos, cada dia e cada hora, porquanto caminhar entre Espíritos nobres ou desequilibrados sejam eles encarnados ou desencarnados, será sempre questão de escolha e sintonia.
 
 ---
 
-## I — Causas espirituais das doenças
-
-> 1.  O que estrutura espiritualmente o corpo de carne?
-
-O corpo espiritual ou perispírito é o corpo básico, constituído de matéria sutil, sobre o qual se organiza o corpo de carne.
-A grande maioria das doenças tem a sua causa profunda na estrutura semimaterial do corpo espiritual. Havendo o Espírito agido erradamente, nesse ou naquele setor da experiência evolutiva, vinca o corpo espiritual com desequilíbrios ou distonias, que o predispõem à instalação de determinadas enfermidades, conforme o órgão atingido.
-A justiça na Terra pune simplesmente a crueldade manifesta, cujas consequências transitam nas áreas do interesse público, dilapidando a vida e induzindo à criminalidade; entretanto, esse é apenas o seu aspecto exterior, porque a justiça é sempre manifestação constante da Lei Divina, nos processos da evolução e nas atividades da consciência.
-No curso das enfermidades, é imperioso venhamos a examinar a Justiça, funcionando com todo o seu poder regenerativo, para sanar os males que acalentamos.
-Antes da reencarnação, nós mesmos, em plenitude de responsabilidade, analisamos os pontos vulneráveis da própria alma, advogando em nosso próprio favor a concessão dos impedimentos físicos que, em tempo certo, nos imunizem, ante a possibilidade de reincidência nos erros em que estamos incursos.
-Artífices do pensamento, que malversamos os patrimônios do espírito, rogamos empeços cerebrais, que se façam por algum tempo alavancas coercitivas, contra as nossas tendências ao desequilíbrio intelectual.
-Artistas, que intoxicamos a sensibilidade alheia com os abusos da representação viciosa, imploramos moléstias ou mutilações, que nos incapacitem para a queda em novas culpas.
-Tarefeiros da palavra, que nos prevalecemos dela para caluniar ou para ferir, solicitamos as deficiências dos aparelhos vocais e auditivos, que nos garantam a segregação providencial.
-Criaturas dotadas de harmonia orgânica, que arremessamos os valores do sexo ao terreno das paixões aviltantes, enlouquecendo corações e fomentando tragédias, suplicamos as doenças e as inibições genésicas que em nos humilhando, servem por válvulas de contenção dos nossos impulsos inferiores.
-Mas, nem sempre requisitamos deliberadamente semelhantes suplícios temporários, de vez que, em muitas circunstâncias, quais aquelas que se verificam no suicídio ou na delinquência, caímos, de imediato, na desagregação ou na insanidade das próprias forças, lesando o corpo espiritual, o que nos constrange a renascer no berço físico, exibindo defeitos e moléstias congênitas, em aflitivos quadros expiatórios.
-Encontramos numerosos casos de doenças compulsórias, impostas pela Lei Divina, na maioria das criaturas que trazem as provações da idiotia ou da loucura, da cegueira ou da paralisia irreversíveis, ou ainda, nas crianças-problemas, cujos corpos irremediavelmente frustrados, durante todo o curso da reencarnação, se mostram na condição de celas regenerativas, para a internação compulsória daqueles que fizeram jus a semelhantes recursos drásticos da Lei. Justo acrescentar que todos esses companheiros, em transitórias mas duras dificuldades, renascem na companhia daqueles mesmos amigos e familiares de outro tempo que, um dia, se acumpliciaram com eles na prática das ações reprováveis em que delinquiram.
-A mente é mais poderosa para instalar doenças e desarmonias do que todas as bactérias e vírus conhecidos. Necessário, pois considerar igualmente que desequilíbrios e moléstias surgem também da imprudência e do desmazelo, da revolta e da preguiça. Pessoas que se embriagam a ponto de arruinar a saúde; que esquecem a higiene até se tornarem presas de parasitos destruidores; que se encolerizam pelas menores razões, destrambelhando os próprios nervos; ou que passam todas as horas em redes e leitos, poltronas e janelas, sem coragem de vencer a ociosidade e o desânimo pela movimentação do trabalho, prejudicando a função dos órgãos do corpo físico, em razão da própria imobilidade, são criaturas que geram doenças para si mesmas, nas atitudes de hoje mesmo, sem qualquer ligação com causas anteriores de existências passadas.
-Assinalando as causas distantes e próximas das doenças de agora, destacamos o motivo por que os ensinamentos da Doutrina Espírita nos fazem considerar, com mais senso de gravidade, a advertência do Mestre: — “Orai e vigiai para não cairdes em tentação”.
-
----
-
-##  — Leis de amor
-
-Quanto mais se agiganta a civilização na Terra, mais amplamente predomina o estudo na extensão do progresso geral.
-Cientistas e pesquisadores analisam, infatigavelmente, não apenas as realizações alusivas ao domínio das forças da natureza, mas também os poderes da alma, a escarificarem todos os fenômenos do binômio mente-corpo, consagrando a era do pensamento racional.
-Para isso, multiplicam-se escolas e cursos técnicos, estabelecimentos culturais e anfiteatros de ensino, em que perguntas e respostas sedimentam a renovação do mundo.
-Natural, transportemos igualmente a questão da dor para os recintos de aula, por disciplina a examinar em regime de urgência.
-Pensadores existem que pretendem desconhecê-la, enquanto outros fazem dela paixão acariciada com volúpia, caindo no desequilíbrio de quem ignorasse a função da água no solo, formando o deserto por arredá-la deliberadamente do caminho ou gerando o pântano, por recolhê-la toda ao pé de si.
-Surgem ainda aqueles que apelam para as religiões seculares, no sentido de lhe dirimirem a existência, no entanto, quase todos os sistemas de fé apreciam-na do êxtase místico menoscabando a coerência ou transformando o reconforto moral numa hipnose doentia, atitudes essas que relegam todo esclarecimento a lamentável procrastinação.
-Daí, o nosso propósito de oferecer estas páginas humildes, à guisa de opúsculo didático,
-n
-aos companheiros que nos propuseram os oito temas, abordados neste livro, em torno do sofrimento perante a Doutrina Espírita,
-n
-com o objetivo de fundamentar a paciência e a consolação, a esperança e o aperfeiçoamento íntimo, na lógica da reencarnação.
-Articulamos nosso esforço modesto à base de questionários e explicações, tão simples e tão reduzidos quanto possível, relacionando sugestões para entendimento mais amplo entre os estudantes da fé raciocinada, que Allan Kardec nos preceitua, ao revivescer o Evangelho do Cristo.
-Obviamente, desse modo, entregamos aos leitores amigos pálidas sementes do trabalho metódico, que nos cumpre efetuar, no estudo crescente da Doutrina Espírita, para solucionar o problema da dor nas leis do destino, no âmago do qual surpreenderemos invariavelmente o Divino Amor, extinguindo as deficiências humanas.
-Deixando, pois aqui o nosso obscuro ensaio para a instituição de cursos rápidos ou minuciosos, destinados à elucidação espírita, entre os homens, agora e no futuro, rogamos ao Senhor nos abençoe a intenção de cooperar no acendimento da nova luz, sempre na certeza de que outros seareiros, desencarnados e encarnados, virão às lides da verdade para fazer mais e melhor.
-Uberaba, 17 de janeiro de 1963.
-
----
-
-## VI — Consequências do passado
+## VI
 
 > 1  Como podemos compreender os resultados de nossas existências anteriores?
 
@@ -201,29 +165,56 @@ Todos estamos no presente, com o ensejo de construir o futuro, mas envolvidos na
 
 ---
 
-## V — Obsessão
+## VII
 
-> 1.  Existe relação entre obsessão e correntes mentais?
+> 1  O Espiritismo pode contribuir para o tratamento das doenças?
 
-Quem se refere à obsessão há de reportar-se, necessariamente, às correntes mentais. O pensamento é a base de tudo.
-Inegável que todos carreamos ainda, do pretérito ao presente, enorme carga de desafetos.
-Quando desencarnados, em condições relativamente felizes, guardadas as justas exceções, somos equiparados a devedores em refazimento, habilitando-nos, pelo trabalho e pelo estudo, ao prosseguimento do resgate dos compromissos de retaguarda.
-É compreensível que seja na Esfera física que mais direta e frequentemente nos abordem aqueles mesmos Espíritos a quem ferimos ou com quem nos acumpliciamos na delinquência.
-São eles as testemunhas de nosso aperfeiçoamento, experimentando-nos as energias morais, quando não lhes suportamos o permanente convívio, por força das provas regenerativas que trazemos ao renascer. Acompanham-nos por instrumentos do progresso a que aspiramos, vigiam-nos as realizações e policiam-nos os impulsos.
-Um dia, chegaremos a agradecer-lhes a colaboração, imitando o aluno que, incomodado na escola, se rejubila, mais tarde, por haver passado sob as atenções do professor exigente.
-Nos processos da obsessão, urge reconhecer que os nossos opositores ou adversários se transformam para o bem, à medida que, de nossa parte, nos transformamos para melhor.
-Toda recomendação verbal e todo entendimento pela palavra, através das sessões de desobsessão, se reveste de profundo valor, mas somente quando autenticados pelo nosso esforço de reabilitação íntima, sem a qual todas as frases enternecedoras passarão, infrutíferas, qual música emocionante sobre a vasa do charco.
-Salientando-se que o pensamento é alavanca de ligação, para o bem ou para o mal, é muito fácil perceber que os fenômenos deprimentes da obsessão podem atingir-nos, em qualquer condição e em qualquer tempo.
-As correntes mentais são tão evidentes quanto as correntes elétricas, expressando potenciais de energias para realizações que nos exprimem direção, propósito ou vontade, seja para o mal ou para o bem.
-Cada um de nós é um acumulador por si, retendo as forças construtivas ou destrutivas que geramos. Desejo, palavra, atitude e ação representam eletroímãs, através dos quais atraímos forças iguais àquelas que exteriorizamos, no rumo dos semelhantes.
-Deter-nos, em qualquer aspecto do mal, é aumentar-lhe a influência, sobre nós e sobre os outros.
-Todas as manifestações de sentimento aviltado, quais sejam a calúnia e a maledicência, a cólera e o ciúme, a censura e o sarcasmo, a intemperança e a licenciosidade, estabelecem a comunicação espontânea com os poderes que os representam, nos Círculos inferiores da natureza, criando distonias e enfermidades, em que se levantam fobias e fixações, desequilíbrios e psicoses, a evoluírem para a alienação mental declarada.
-Emitindo um pensamento, colocamos um agente energético em circulação, no organismo da vida, — agente esse que retornará fatalmente a nós, acrescido do bem ou do mal de que o revestimos.
-Compreendendo-se que cada um de nós possui pontos vulneráveis, no estado evolutivo deficitário em que ainda nos encontramos, toda vez que o mal se nos associe a essa ou àquela ideia, teremos o mal de volta a nós mesmos, agravando-se doenças e fraquezas, obsessões e paixões.
-Assimilamos dos outros o que damos de nós.
-A mente pode ser comparada a espelho vivo, que reflete as imagens que procura.
-A obsessão, em qualquer tipo pelo qual se expresse, está fundamente vinculada aos processos mentais em que se baseiam os interesses da criatura.
-Assevera o Cristo: — “Busca e acharás”.
+A Doutrina Espírita, expressando o Cristianismo Redivivo, não apenas descortina os panoramas radiantes da imortalidade, ante o grande futuro, mas é igualmente luz para o homem, a clarear-lhe o caminho; desse modo, desempenha função específica no tratamento das doenças que fustigam a Humanidade, por ensinar a medicina da alma, em bases no amor construtivo e reedificante.
+Nas trilhas da experiência terrestre, realmente, a cada trecho, surpreendemos desequilíbrios, a se exprimirem por enfermidades individuais e coletivas.
+Mágoas, ressentimentos, desesperos, atritos e irritações entretecem crises do pensamento, estabelecendo lesões mentais que culminam em processos patológicos, no corpo e na alma, quando não se convertem, de pronto, em pábulo da loucura ou em sombra da morte.
+Isso acontece porque milhões de criaturas, repostas no lar, recapitulam amargosas e graves experiências, junto daqueles que atormentaram outrora ou que outrora lhes foram implacáveis verdugos; metamorfoseados em companheiros que, às vezes, trazem o nome de pais e figuram-se adversários intransigentes; respondem por filhos e mais se assemelham a duros algozes dos corações afetuosos que lhes deram o tesouro do berço; carregam a certidão de esposos e parecem forçados, em algema dupla na pedreira do sofrimento; fazem-se conhecidos por titulares da parentela e exibem-se, à feição de carrascos tranquilos.
+Do ponto de vista mental, os adversários do pretérito, reencarnados no presente, expandem entre si tamanha carga vibratória de crueldade e rebeldia, que transfiguram o ninho familiar em furna minada por miríades de raios destrutivos de azedume e aversão.
+Diante desses conflitos, surgem os princípios espíritas por medicação providencial.
+Evidenciando a reencarnação, destacam o impositivo da tolerância mútua, por terapêutica espiritual imediata, a fim de que os pontos nevrálgicos do indivíduo ou do grupo sejam definitivamente sanados.
+Proclamando o entendimento fraterno por medida inalienável, perante os ajustes precisos, catalogam os irmãos transviados na ficha dos enfermos carecentes de compaixão e socorro.
+Despertando a mente para a necessidade do trabalho e do estudo espontâneo, preparam a criatura, em qualquer situação, para a obra do aperfeiçoamento próprio e desvelando a continuidade da vida, para lá da morte, patenteiam ao raciocínio de cada um que a individualidade não encontrará, além-túmulo, qualquer prerrogativa e sim a felicidade ou o infortúnio que construiu para si mesma, através daquilo que fez aos semelhantes.
+Fácil verificar, assim, que a Doutrina Espírita encerra a filosofia do pensamento reto, por agente preservativo da saúde moral, e consubstancia a religião natural do bem, cujas manifestações definem a caridade por terapêutica de alívio e correção de todos os males que afligem a existência.
+Com os ensinamentos espíritas aprendemos que os atos de bondade, ainda os mais apagados e pequeninos, são plantações de alegrias eternas e que o perdão incondicional das ofensas é a fórmula santificante para supressão da dor e renovação do destino.
+Nas atividades espíritas, colherás n do magnetismo sublimado benefícios imediatos, seja no clima do passe, sob o influxo da oração, ou no culto sistemático do Evangelho no lar, por intermédio dos quais, benfeitores e amigos desencarnados te reequilibram as forças, através da inspiração elevada, apaziguando-nos os pensamentos, ou se valem de recursos mediúnicos esparsos no ambiente, a fim de nos propiciarem socorro à alma aflita ou às energias exaustas.
+Se abraçaste, pois, a Doutrina Espírita, perlustra-lhes os ensinos e compreenderás que a humildade e a benevolência, o serviço e a abnegação a paciência e a esperança, a solidariedade e o otimismo são medicamentos do Espírito, transformando lutas em lições e dificuldades em bênçãos, porque no mundo de cada esclarecimento e de cada mensagem consoladora, que efluem da inspiração, ouvirás a palavra do Cristo: “Amai-vos uns aos outros como eu vos amei.” ( † )
 
-Encontraremos, sim, os companheiros que buscamos.
-Consagremo-nos à construção do bem de todos, cada dia e cada hora, porquanto caminhar entre Espíritos nobres ou desequilibrados sejam eles encarnados ou desencarnados, será sempre questão de escolha e sintonia.
+---
+
+## VIII
+
+> 1.  Quando redimirás espiritualmente a ti mesmo?
+> — n
+
+Redimirás a ti mesmos, quando compreenderes, conscientemente, ao preço do próprio raciocínio, que todos os sofrimentos decorrem das leis de amor que governam a vida. Para isso, é indispensável compreendas que todos estamos subordinados ao princípio inelutável da reencarnação e que nos reencarnaremos, na Terra ou em outros mundos, tantas vezes quantas se fizerem necessárias, para que se nos edifique o aperfeiçoamento espiritual, seja diante dos imperativos da evolução, que nos traçam inevitáveis labores educativos ou à frente dos encargos expiatórios que nos apontam graves tarefas de recapitulação e corrigenda, para o expurgo da consciência culpada.
+Tens o coração aberto em feridas profundas, mas isso não basta; é preciso transubstanciar as próprias dores em esperanças e ensinamentos.
+Trazes o semblante lavado de lágrimas, no entanto, o desespero e a inconformação desmancham-se igualmente em pranto amargo; para expurgar o mundo íntimo é mister valer-se da provação como recurso de trabalho, para converter a tribulação em alegria e a dificuldade em lição.
+Golpeiam-te a alma e bendizes as mãos que te ferem. Imperioso, porém, te dediques a fazer algo a fim de que se renovem para o entendimento e a prática do bem, sob a inspiração de teus bons exemplos.
+Dizes a verdade e riem de ti; muitas vezes, só porque isso aconteça, julgas-te dispensado de trabalhar pela expansão de novas luzes, quando a verdade reclama continuísmo de abnegação para que triunfe a benefício de todos.
+Recolheste pedras de ingratidão por pétalas de carinho e isso acontece a muitos. Multidões respiram nesse câmbio estranho de padecimentos morais, preferindo acomodar-se à hipnose da queixa. A ingratidão é sempre resultado da ignorância e para que a ingratidão alheia produza bênçãos redentoras, em nós, é necessário prosseguir plantando entendimento e fraternidade na terra seca da incompreensão, de que muitos outros já desertaram.
+Exigem-te o máximo na construção da felicidade dos outros, sem que te seja concedido o mínimo na preservação da própria segurança. Não alegues fraqueza em tais circunstâncias, porque, em apoio de nosso burilamento, urge sustentar atividades e encargos de sacrifício.
+Caluniaram-te, no entanto, só pelo fato de seres apontado pelo dedo da injúria, isso não adianta ao aperfeiçoamento espiritual. Impreterível usar compaixão e bondade, à frente daqueles que nos perseguem.
+Toleras no lar o cárcere dos próprios sonhos, entretanto, é útil recordar que vastas fileiras de criaturas se encontram na mesma situação, agravando padecimentos e lutas pelo abandono das responsabilidades que lhes competem. A regeneração pela qual ansiamos espera por nossa fidelidade aos compromissos assumidos, com a nossa disposição de arquivar planos de ventura para quando a sabedoria nos proclame a libertação.
+Vergas-te sob o fardo de inquietações opressivas, contudo, para que essas inquietações nos sirvam ao reajuste da alma, cabe-nos a obrigação de transformá-las em testemunhos de fé e serviço ao próximo.
+Acresce notar que o reconhecimento dos próprios erros, perpetrados nesse ou naquele setor da existência, é o primeiro passo da reabilitação, mas esse começo é empreendimento nulo, se não resolvemos corrigir-nos com humildade e paciência, na execução dos deveres que a vida nos recomenda.
+Sim, vezes inúmeras, costumas refletir nas grandes façanhas dos Espíritos valorosos que transformaram a Terra… Acolheram-se à filosofia e criaram novas formas de pensamento; abraçaram a ciência e exalçaram o progresso; elevaram-se na cultura e engrandeceram a arte; agigantaram-se no trabalho e aperfeiçoaram a vida; entretanto, reencarnaram-se entre os homens, lavrando o solo, mecanizando atividades, burilando palavras, renovando costumes, aprimorando leis, desbravando caminhos… Todos eles, cada qual a seu modo, entregaram-te as chaves da evolução, melhorando a vida por fora. No íntimo, porém, seja nas horas tranquilas da existência ou nas crises de aflição que nos supliciam a alma, é forçoso te lembres que a redenção verdadeira nasce dentro de ti.
+
+---
+
+## 
+
+1 Quanto mais se agiganta a civilização na Terra, mais amplamente predomina o estudo na extensão do progresso geral.
+2 Cientistas e pesquisadores analisam, infatigavelmente, não apenas as realizações alusivas ao domínio das forças da natureza, mas também os poderes da alma, a escarificarem todos os fenômenos do binômio mente-corpo, consagrando a era do pensamento racional.
+3 Para isso, multiplicam-se escolas e cursos técnicos, estabelecimentos culturais e anfiteatros de ensino, em que perguntas e respostas sedimentam a renovação do mundo.
+4 Natural, transportemos igualmente a questão da dor para os recintos de aula, por disciplina a examinar em regime de urgência.
+5 Pensadores existem que pretendem desconhecê-la, enquanto outros fazem dela paixão acariciada com volúpia, caindo no desequilíbrio de quem ignorasse a função da água no solo, formando o deserto por arredá-la deliberadamente do caminho ou gerando o pântano, por recolhê-la toda ao pé de si.
+6 Surgem ainda aqueles que apelam para as religiões seculares, no sentido de lhe dirimirem a existência, no entanto, quase todos os sistemas de fé apreciam-na do êxtase místico menoscabando a coerência ou transformando o reconforto moral numa hipnose doentia, atitudes essas que relegam todo esclarecimento a lamentável procrastinação.
+7 Daí, o nosso propósito de oferecer estas páginas humildes, à guisa de opúsculo didático, n aos companheiros que nos propuseram os oito temas, abordados neste livro, em torno do sofrimento perante a Doutrina Espírita, n com o objetivo de fundamentar a paciência e a consolação, a esperança e o aperfeiçoamento íntimo, na lógica da reencarnação.
+8 Articulamos nosso esforço modesto à base de questionários e explicações, tão simples e tão reduzidos quanto possível, relacionando sugestões para entendimento mais amplo entre os estudantes da fé raciocinada, que Allan Kardec nos preceitua, ao revivescer o Evangelho do Cristo.
+9 Obviamente, desse modo, entregamos aos leitores amigos pálidas sementes do trabalho metódico, que nos cumpre efetuar, no estudo crescente da Doutrina Espírita, para solucionar o problema da dor nas leis do destino, no âmago do qual surpreenderemos invariavelmente o Divino Amor, extinguindo as deficiências humanas.
+10 Deixando, pois aqui o nosso obscuro ensaio para a instituição de cursos rápidos ou minuciosos, destinados à elucidação espírita, entre os homens, agora e no futuro, rogamos ao Senhor nos abençoe a intenção de cooperar no acendimento da nova luz, sempre na certeza de que outros seareiros, desencarnados e encarnados, virão às lides da verdade para fazer mais e melhor.
+Uberaba, 17 de janeiro de 1963.

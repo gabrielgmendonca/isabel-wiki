@@ -6,323 +6,160 @@
 
 ---
 
-## Prefácio — Trovas da vida
+## 
 
-Desejava ter comigo
-Uma joia, de alto preço
-Não tendo, porém, o ouro
-Esse propósito, esqueço…
-Mas tendo fé em mim mesmo
-Lembro-me, com razão
-De ofertar-lhes este livro,
-Que me expressa a gratidão.
-Uberaba, 3 de janeiro de 1998.
+Desejava ter comigo Uma joia, de alto preço, Não tendo, porém, o ouro, Esse propósito, esqueço… Mas tendo fé em mim mesmo Lembro-me, com razão, De ofertar-lhes este livro, Que me expressa a gratidão.
 
 ---
 
-## 1 — Doença
+## 1
 
-
-Muitas vezes, a doença,
-Por mais que aborreça e doa,
-É socorro necessário
-Para guardar a pessoa.
-Uma lição clara e simples
-A que a verdade nos chama:
-— Por força de obediência
-Realmente ninguém ama.
+1 Muitas vezes, a doença, Por mais que aborreça e doa, É socorro necessário Para guardar a pessoa.
+2 Uma lição clara e simples A que a verdade nos chama: — Por força de obediência Realmente ninguém ama.
 
 ---
 
-## 2 — Prudência
+## 2
 
-
-Fala pouco. Não critiques.
-Deixa os outros tais quais são.
-Há quem passe a noite em festa
-E amanheça em provação.
-Já que o mal nasce de nós
-Como vem e quando vem,
-Bendita seja a pessoa
-Que apoia a força do bem.
+1 Fala pouco. Não critiques. Deixa os outros tais quais são. Há quem passe a noite em festa E amanheça em provação.
+2 Já que o mal nasce de nós Como vem e quando vem, Bendita seja a pessoa Que apoia a força do bem.
 
 ---
 
-## 3 — Liberdade
+## 3
 
-
-Virtude alta e sublime
-Ninguém quer viver sem ela:
-É a liberdade, no entanto,
-Que exige muita cautela.
-Joel gritava xingando,
-Na Fazenda Terra Oca;
-O tio deu-lhe um remédio:
-O xarope “calaboca”.
+1 Virtude alta e sublime, Ninguém quer viver sem ela: É a liberdade, no entanto, Que exige muita cautela.
+2 Joel gritava xingando, Na Fazenda Terra Oca; O tio deu-lhe um remédio: O xarope “calaboca”.
 
 ---
 
-## 4 — Realidade
+## 4
 
-
-“O homem deixou milhões”
-Falei ao sábio Jomar:
-Disse-me o sábio: “Deixou
-Porque não pode levar.”
-Ao morrer, disse Romário:
-“Volto já…”, falando a custo.
-Após seis meses, voltou…
-A esposa caiu de susto.
+1 “O homem deixou milhões”, Falei ao sábio Jomar: Disse-me o sábio: “Deixou, Porque não pode levar.”
+2 Ao morrer, disse Romário: — “Volto já…” — falando a custo. Após seis meses, voltou… A esposa caiu de susto.
 
 ---
 
-## 5 — Desilusão
+## 5
 
-
-Silvino era apaixonado
-Pela jovem Maristela;
-Numa festa da Laranja,
-Silvino ficou sem ela.
-Registro esta nota sábia
-Do Doutor Joaquim de Malta:
-“Riqueza não traz ventura,
-Mas o dinheiro faz falta.”
+1 Silvino era apaixonado Pela jovem Maristela; Numa festa da Laranja, Silvino ficou sem ela.
+2 Registro esta nota sábia Do Doutor Joaquim de Malta: “Riqueza não traz ventura, Mas o dinheiro faz falta.”
 
 ---
 
-## 6 — Indisciplina
+## 6
 
-
-Há muita morte no mundo
-Fora do tempo preciso,
-Não por falta de assistência,
-Sim, por falta de juízo.
-Há mulheres arruinadas
-Na luta em que se consomem.
-Não por fraqueza ou maldade,
-Mas por desprezo do homem.
+1 Há muita morte no mundo Fora do tempo preciso, Não por falta de assistência, Sim, por falta de juízo.
+2 Há mulheres arruinadas Na luta em que se consomem. Não por fraqueza ou maldade, Mas por desprezo do homem.
 
 ---
 
-## 7 — Guerra
+## 7
 
-
-A guerra surge por vezes
-De nação para nação,
-Mas é constante
-Nos casos de opinião.
-Avistando a força bruta
-Ferindo ou pisando alguém,
-Age em silêncio e auxilia
-À nobre força do Bem.
+1 A guerra surge por vezes De nação para nação, Mas é constante Nos casos de opinião.
+2 Avistando a força bruta Ferindo ou pisando alguém, Age em silêncio e auxilia À nobre força do Bem.
 
 ---
 
-## 8 — Ambição
+## 8
 
-
-Conserva a simplicidade,
-Observa onde te pões,
-A ambição domina os homens
-Em todas as direções.
-Aprimora os teus assuntos
-Nas falas a que te levas;
-Conversas maliciosas
-Lembram tecidos de trevas.
+1 Conserva a simplicidade, Observa onde te pões, A ambição domina os homens Em todas as direções.
+2 Aprimora os teus assuntos Nas falas a que te levas; Conversas maliciosas Lembram tecidos de trevas.
 
 ---
 
-## 9 — Serviço ao próximo
+## 9
 
-
-Sigamos servindo aos outros
-E escutai, amigos meus:
-Quem trabalha para o bem
-Colhe o salário de Deus.
-Salário pobre e pequeno
-Não consigo ser ingrato.
-Se tenho montes de arroz,
-Ao comer, só tenho um prato.
+1 Sigamos servindo aos outros E escutai, amigos meus: Quem trabalha para o bem Colhe o salário de Deus.
+2 Salário pobre e pequeno Não consigo ser ingrato. Se tenho montes de arroz, Ao comer, só tenho um prato.
 
 ---
 
-## 10 — Amor
+## 10
 
-
-Amor puro é qual diamante
-De beleza singular,
-Mas se é vendido ou tem preço,
-Qualquer um pode comprar.
-Serviço pago é dinheiro
-Entre nobres e plebeus;
-Serviço-abnegação
-Tem o salário de Deus.
+1 Amor puro é qual diamante De beleza singular, Mas se é vendido ou tem preço, Qualquer um pode comprar.
+2 Serviço pago é dinheiro Entre nobres e plebeus; Serviço-abnegação Tem o salário de Deus.
 
 ---
 
-## 11 — Benção de mãe
+## 11
 
-
-Depois da cruz, Jesus viu
-Que o Bom Ladrão o seguia…
-E o outro? Também foi salvo;
-Pela bênção de Maria.
-Nossa Senhora chorava,
-Lembrando o Filho… Horas mudas…
-Alguém soluçou à porta,
-Foi ver. Era a mãe de Judas.
+1 Depois da cruz, Jesus viu Que o Bom Ladrão o seguia… E o outro? Também foi salvo; Pela bênção de Maria.
+2 Nossa Senhora chorava, Lembrando o Filho… Horas mudas… Alguém soluçou à porta, Foi ver. Era a mãe de Judas.
 
 ---
 
-## 12 — No Além
+## 12
 
-
-Em nosso estado no Além,
-Seja em luz, penumbra ou treva,
-O que importa é a consciência
-Da vida que a gente leva.
-Em qualquer grupo racista
-De sábios crentes e ateus,
-Perguntemos seriamente,
-De que forma é a cor de Deus.
+1 Em nosso estado no Além, Seja em luz, penumbra ou treva, O que importa é a consciência Da vida que a gente leva.
+2 Em qualquer grupo racista De sábios crentes e ateus, Perguntemos seriamente, De que forma é a cor de Deus.
 
 ---
 
-## 13 — Anotação
+## 13
 
-
-Jesus deu valor ao pouco:
-“Pão nosso de cada dia.”
-
-Se tiveres mais e mais,
-O “muito” te arruinaria.
-Ele ajuntou prata e ouro,
-Porém, não achou transporte,
-Quando buscou pensativo,
-A grande agência da morte.
+1 Jesus deu valor ao pouco: “Pão nosso de cada dia.” ( † ) Se tiveres mais e mais, O “muito” te arruinaria.
+2 Ele ajuntou prata e ouro, Porém, não achou transporte, Quando buscou pensativo, A grande agência da morte.
 
 ---
 
-## 14 — Clonagem
+## 14
 
-
-Clonagem é um feito antigo;
-Fala a Bíblia com razão.
-Nosso pai criou Mãe Eva
-Numa costela de Adão.
-Extraterrestre? Existem.
-Não são notícia sem fundo;
-Elias saiu da Terra
-Numa nave de outro mundo.
+1 Clonagem é um feito antigo; Fala a Bíblia com razão. Nosso pai criou Mãe Eva Numa costela de Adão.
+2 Extraterrestre? Existem. Não são notícia sem fundo; Elias saiu da Terra Numa nave de outro mundo.
 
 ---
 
-## 15 — Fé viva
+## 15
 
-
-Foi exemplo de fé viva
-A jovem mãe de Belém;
-Chorou com o filho humilhado,
-Sem pedir nada a ninguém.
-A maior dama do mundo,
-Mostrando humildade e fé,
-Usava este nome simples:
-Maria de Nazaré.
+1 Foi exemplo de fé viva A jovem mãe de Belém; Chorou com o filho humilhado, Sem pedir nada a ninguém.
+2 A maior dama do mundo, Mostrando humildade e fé, Usava este nome simples: Maria de Nazaré.
 
 ---
 
-## 16 — Recado fraterno
+## 16
 
-
-Se caíste em provação
-Por falha de outra pessoa,
-Em favor da própria paz,
-Trabalha, ora e perdoa.
-Casais ricos e felizes
-Vivem de festa e rumor,
-No entanto, a felicidade
-Conhece apenas o amor.
+1 Se caíste em provação Por falha de outra pessoa, Em favor da própria paz, Trabalha, ora e perdoa.
+2 Casais ricos e felizes Vivem de festa e rumor, No entanto, a felicidade Conhece apenas o amor.
 
 ---
 
-## 17 — Programa
+## 17
 
-
-Quem quiser ter vida longa
-Pelos caminhos terrenos,
-No curso do dia a dia
-Coma pouco e fale menos.
-O dono de muitas capas
-Da mais rica às mais singelas
-Nas horas de frio ou chuva
-Veste somente uma delas.
+1 Quem quiser ter vida longa Pelos caminhos terrenos, No curso do dia a dia Coma pouco e fale menos.
+2 O dono de muitas capas Da mais rica às mais singelas Nas horas de frio ou chuva Veste somente uma delas.
 
 ---
 
-## 18 — Mãos nobres
+## 18
 
-
-Branca, amarela ou morena
-Nos sofrimentos da estrada
-Se é mão que dá socorro
-Será sempre abençoada.
-No Evangelho de Jesus,
-Há uma estrela que nos guia
-Que de nós nunca se afasta,
-Tem o nome de Maria.
+1 Branca, amarela ou morena Nos sofrimentos da estrada Se é mão que dá socorro Será sempre abençoada.
+2 No Evangelho de Jesus, Há uma estrela que nos guia Que de nós nunca se afasta, Tem o nome de Maria.
 
 ---
 
-## 19 — Barulho
+## 19
 
-
-Para quem pensa e trabalha
-Em benefícios reais
-Qualquer barulho atrapalha,
-Silêncio nunca é demais.
-Deixou milhões para os órfãos
-O avarento João Lasmar,
-Deixou para a caridade
-Porque não pode levar.
+1 Para quem pensa e trabalha Em benefícios reais Qualquer barulho atrapalha, Silêncio nunca é demais.
+2 Deixou milhões para os órfãos O avarento João Lasmar, Deixou para a caridade Porque não pode levar.
 
 ---
 
-## 20 — Tudo passa
+## 20
 
-
-O tempo corre apressado
-No campo, na rua, em casa
-Tudo passa velozmente
-Se a pessoa não se atrasa.
-O amor é uma luz do Céu,
-Dizia o mestre Joaquim,
-Sem a praga do ciúme,
-Tem duração do “sem-fim”.
+1 O tempo corre apressado No campo, na rua, em casa Tudo passa velozmente Se a pessoa não se atrasa.
+2 O amor é uma luz do Céu, Dizia o mestre Joaquim, Sem a praga do ciúme, Tem duração do “sem-fim”.
 
 ---
 
-## 21 — Uma só palavra
+## 21
 
-
-Às vezes, uma palavra
-No modo de se compor
-Esconde a imensa beleza
-Que se derrama do amor.
-Se queres cooperação
-Para qualquer obra do Bem,
-Não afastes a esperança
-Do coração de ninguém.
+1 Às vezes, uma palavra No modo de se compor Esconde a imensa beleza Que se derrama do amor.
+2 Se queres cooperação Para qualquer obra do Bem, Não afastes a esperança Do coração de ninguém.
 
 ---
 
-## 22 — Amor no Além
+## 22
 
-
-De alma para outra alma
-O amor é um laço tão forte
-Que vejo muitos casais
-Unidos depois da morte.
-O homem é sempre poder,
-Faz tudo quanto ele quer.
-No entanto, não nos esqueçamos:
-Somos filhos de mulher.
+1 De alma para outra alma O amor é um laço tão forte Que vejo muitos casais Unidos depois da morte.
+2 O homem é sempre poder, Faz tudo quanto ele quer. No entanto, não nos esqueçamos: Somos filhos de mulher.

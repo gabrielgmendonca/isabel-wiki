@@ -6,33 +6,27 @@
 
 ---
 
-##  — Por quê?
+## 
 
 Por que um livro relacionando informações do médium Francisco Cândido Xavier, se ele já foi instrumento dos Bons Espíritos para o lançamento de quase uma centena de volumes diversos, em quarenta anos consecutivos de mediunidade?
 Semelhante pergunta, decerto, repontará aqui e além, diante do nosso trabalho, entretanto, responderemos com uma série de contra-perguntas, convidando o leitor amigo à reflexão e ao estudo em torno dos problemas da imortalidade.
-Rezam as tradições que Moisés peregrinou durante
-, através do deserto, orientando o povo israelita para a libertação do cativeiro do Egito.
+Rezam as tradições que Moisés peregrinou durante quarenta anos, através do deserto, orientando o povo israelita para a libertação do cativeiro do Egito.
 Admiramo-nos dessa pertinácia e muitos estudiosos existem que relegam o feito para o domínio das narrativas lendárias.
-Com Xavier, porém, temos uma criatura que há precisamente
-iniciou longa excursão no terreno do intercâmbio com o Mundo Espiritual. Não será isso o fato digno de menção? Como terá vivido, nesses
-de trabalho ininterrupto? Que terá sentido, visto, ouvido? que experiências acumulou? que opiniões formula hoje do seu longo contato com a Espiritualidade? que notícias nos dá de suas próprias impressões na psicografia dos livros que são lidos por milhares e milhares de pessoas espíritas e não espíritas? como se comportou diante das incompreensões dos caminhos percorridos? como se sente no avançado marco de tempo, na sua viagem medianímica? que diz para os iniciantes da mesma estrada? se apenas alcançou nesta encarnação os rudimentos da escola primária, recebeu dos amigos desencarnados instruções subsequentes, à feição de cursos supletivos?
+Com Xavier, porém, temos uma criatura que há precisamente oito lustros iniciou longa excursão no terreno do intercâmbio com o Mundo Espiritual. Não será isso o fato digno de menção? Como terá vivido, nesses quatro decênios de trabalho ininterrupto? Que terá sentido, visto, ouvido? que experiências acumulou? que opiniões formula hoje do seu longo contato com a Espiritualidade? que notícias nos dá de suas próprias impressões na psicografia dos livros que são lidos por milhares e milhares de pessoas espíritas e não espíritas? como se comportou diante das incompreensões dos caminhos percorridos? como se sente no avançado marco de tempo, na sua viagem medianímica? que diz para os iniciantes da mesma estrada? se apenas alcançou nesta encarnação os rudimentos da escola primária, recebeu dos amigos desencarnados instruções subsequentes, à feição de cursos supletivos?
 Não somos daqueles que encontram nos médiuns pessoas diferentes da Humanidade, portadores de milagres e carismas e conquanto estimemos em Chico Xavier um excelente amigo, sabemo-lo alma humana, com as qualidades felizes ou menos felizes que nos caracterizam a todos, os filhos da Terra. Mas justamente por aceitá-lo assim, qual se mostra na simplicidade e sinceridade de suas próprias declarações, é que voltamos ao nosso inquérito. Por que outras criaturas, com as mesmas características de humanidade, entre as lutas e as vicissitudes inerentes à nossa vida planetária não fazem o mesmo, recolhendo-se à mediunidade para servir e auxiliar os irmãos do caminho?
-E se Chico Xavier fosse alguém com virtudes particulares e excepcionais — conquanto lhe respeitemos as qualidades de amigo, para quem se volta a nossa estima sincera, — que vantagem haveria em servir de instrumento dos Espíritos Benfeitores, em meio de nós outros, homens igualmente carregados pelos empeços morais, que nos assinalam as experiências terrestres? por que todos os médiuns que se iniciam no trabalho espiritual não persistem através do tempo, reconhecido o fato de que muitos esmorecem no ardor doutrinário, quando as responsabilidades da obra começam a lhes pesar mais intensivamente nos ombros? Se o próprio Xavier não se afirma obreiro de virtudes especiais, por que se mantém leal à Espiritualidade, há
-sucessivos, de vez que também não se sente credor de auxílios especiais? Há quem diga que Chico possui cultura vastíssima, entretanto, sabemos que ele se empregou aos onze anos de idade em 1921 e trabalhou sem pausa, no setor profissional, até 1961, quando se aposentou, na condição de Escriturário ao Ministério da Agricultura; não ignoramos ainda que Xavier é portador de grave moléstia ocular que perdura há mais de trinta anos; com o trabalho intenso da vida material e com os cuidados incessantes na preservação da possível saúde orgânica, não tem tido tempo e recursos físicos nos últimos quarenta anos para ser um devorador de livros; mas, concedendo-se-lhe, ainda, elevada posição entre os autodidatas, uma pergunta nos surge imperiosa, espontânea… Se foi o estudo o responsável por mais de noventa volumes, todos eles respeitáveis, na vida de Xavier, por que razão, nós outros, os que estamos premiados pelos títulos acadêmicos, e que, por força da profissão, estamos intimados ao convívio incessante com os livros, não produzimos bagagem literária do mesmo teor? Se as obras trazidas ao mundo pelas mãos de Xavier são fruto de osmose imaginária da cultura com a inteligência, como não exigir das pessoas cultas que façam o mesmo? Por outro lado, dispondo de elementos tão vastos para senhorear o campo das letras, com inequívocas possibilidades de extrair dele os mais ricos filões da fortuna material, por que permaneceria Xavier na mesma vida simples, sem aceitar quaisquer proventos dos livros de que é, aliás, co-autor, na condição de médium, quando poderia faturar milhares de cruzeiros, anualmente, por direitos autorais?
-Estas são as perguntas das muitas que o caso Chico Xavier nos suscita ao raciocínio, mas fiquemos por aqui e entreguemos nosso despretensioso volume aos leitores interessados na vida eterna de nossos Espíritos eternos. Eles como nós, sabem que Xavier é médium da Doutrina Espírita e que em lhe colecionando
-que lhe foram endereçadas, tentamos agradecer-lhe a dedicação à Causa do Cristo e da Humanidade, no Espiritismo, dispondo-os, todos nós — ele conosco e nós outros com ele, — a estudar, sentir, aprender, trabalhar e viver com a Doutrina Espírita, em nossas vidas, agora, sempre e cada vez mais.
+E se Chico Xavier fosse alguém com virtudes particulares e excepcionais — conquanto lhe respeitemos as qualidades de amigo, para quem se volta a nossa estima sincera, — que vantagem haveria em servir de instrumento dos Espíritos Benfeitores, em meio de nós outros, homens igualmente carregados pelos empeços morais, que nos assinalam as experiências terrestres? por que todos os médiuns que se iniciam no trabalho espiritual não persistem através do tempo, reconhecido o fato de que muitos esmorecem no ardor doutrinário, quando as responsabilidades da obra começam a lhes pesar mais intensivamente nos ombros? Se o próprio Xavier não se afirma obreiro de virtudes especiais, por que se mantém leal à Espiritualidade, há quarenta anos sucessivos, de vez que também não se sente credor de auxílios especiais? Há quem diga que Chico possui cultura vastíssima, entretanto, sabemos que ele se empregou aos onze anos de idade em 1921 e trabalhou sem pausa, no setor profissional, até 1961, quando se aposentou, na condição de Escriturário ao Ministério da Agricultura; não ignoramos ainda que Xavier é portador de grave moléstia ocular que perdura há mais de trinta anos; com o trabalho intenso da vida material e com os cuidados incessantes na preservação da possível saúde orgânica, não tem tido tempo e recursos físicos nos últimos quarenta anos para ser um devorador de livros; mas, concedendo-se-lhe, ainda, elevada posição entre os autodidatas, uma pergunta nos surge imperiosa, espontânea… Se foi o estudo o responsável por mais de noventa volumes, todos eles respeitáveis, na vida de Xavier, por que razão, nós outros, os que estamos premiados pelos títulos acadêmicos, e que, por força da profissão, estamos intimados ao convívio incessante com os livros, não produzimos bagagem literária do mesmo teor? Se as obras trazidas ao mundo pelas mãos de Xavier são fruto de osmose imaginária da cultura com a inteligência, como não exigir das pessoas cultas que façam o mesmo? Por outro lado, dispondo de elementos tão vastos para senhorear o campo das letras, com inequívocas possibilidades de extrair dele os mais ricos filões da fortuna material, por que permaneceria Xavier na mesma vida simples, sem aceitar quaisquer proventos dos livros de que é, aliás, co-autor, na condição de médium, quando poderia faturar milhares de cruzeiros, anualmente, por direitos autorais?
+Estas são as perguntas das muitas que o caso Chico Xavier nos suscita ao raciocínio, mas fiquemos por aqui e entreguemos nosso despretensioso volume aos leitores interessados na vida eterna de nossos Espíritos eternos. Eles como nós, sabem que Xavier é médium da Doutrina Espírita e que em lhe colecionando nestas páginas mais de trezentas questões que lhe foram endereçadas, tentamos agradecer-lhe a dedicação à Causa do Cristo e da Humanidade, no Espiritismo, dispondo-os, todos nós — ele conosco e nós outros com ele, — a estudar, sentir, aprender, trabalhar e viver com a Doutrina Espírita, em nossas vidas, agora, sempre e cada vez mais.
 Uberaba, 3 de outubro de 1967.
 (Quadragésimo ano das atividades mediúnicas de Chico Xavier).
 
 ---
 
-## 1 — Chico Xavier — Psicografia de 1927 a 1931
+## 1
 
 > 1
 
 De quando a quando, líamos aqui e ali, anotações de escritores e jornalistas desfavoráveis ao Espiritismo, apresentando o nosso amigo e médium Francisco Cândido Xavier à feição de pastichador, simplesmente porque a imprensa do Brasil e de Portugal lhe lançara o nome — F. Xavier — ao mundo das letras, em algumas páginas de prosa e poesia, entre 1929 e 1931, quando o médium de Emmanuel mal chegava aos vinte de idade.
-Perguntávamos a nós mesmos a razão de semelhantes acusações quando Chico Xavier, desde a publicação de “
-”, em 1932, nunca mais compareceu nos jornais e revistas da língua portuguesa, na condição de autor de qualquer trabalho literário. Entendendo-se que a produção extensa e preciosa que lhe assinala a bagagem mediúnica, perdura, ininterrupta, no largo tempo de sete lustros consecutivos, não seria justo considerar as páginas de sua primeira juventude como ensaios dos próprios poetas desencarnados a lhe exercitarem as faculdades, através da inspiração? Por que as diatribes dos inimigos do Espiritismo contra o médium, nesse sentido, se trinta e cinco anos de ação medianímica, segura e construtiva, pesam sobre apenas dois anos de experimentos?
+Perguntávamos a nós mesmos a razão de semelhantes acusações quando Chico Xavier, desde a publicação de “Parnaso de Além-Túmulo”, em 1932, nunca mais compareceu nos jornais e revistas da língua portuguesa, na condição de autor de qualquer trabalho literário. Entendendo-se que a produção extensa e preciosa que lhe assinala a bagagem mediúnica, perdura, ininterrupta, no largo tempo de sete lustros consecutivos, não seria justo considerar as páginas de sua primeira juventude como ensaios dos próprios poetas desencarnados a lhe exercitarem as faculdades, através da inspiração? Por que as diatribes dos inimigos do Espiritismo contra o médium, nesse sentido, se trinta e cinco anos de ação medianímica, segura e construtiva, pesam sobre apenas dois anos de experimentos?
 Tais perguntas vagavam em nossa mente, quando “Reformador” de julho de 1967 nos ofereceu o notável artigo do Professor Ismael Gomes Braga — “Chico Xavier em 40 anos” —, explicando como se verificou a publicação das páginas primitivas da psicografia de Chico Xavier. Entusiasmado com os esclarecimentos trazidos à luz e honrando-nos hoje com a amizade e a confiança do médium que reside, ao nosso lado, em Uberaba, e de cujas faculdades mediúnicas temos tido provas exuberantes, resolvemos ouvi-lo sobre aquele recuado período de suas atividades. De nossa conversação, que clareia ainda mais os informes do nosso caro Professor Ismael Gomes Braga, surgiu a presente entrevista que tomamos a liberdade de oferecer aos leitores amigos e confrades espíritas, isso com vistas não só a observações valiosas do presente como também aos estudos que o futuro nos exija realizar, em torno do trabalho genuíno de nossos instrutores espirituais, através das obras medianímicas de nosso companheiro, a quem justamente felicitamos pelos seus quarenta anos de mediunidade bem vivida, no Espiritismo com Jesus.
 Passemos, pois, ao nosso inquérito afetivo, cujas respostas recolhemos corretamente, atentos que estamos ao seu alto valor.
 — Sim. O nosso querido confrade Ismael Gomes Braga está muito bem informado. Tivemos nós ambos muitos contatos pessoais, quando me achava ainda em Pedro Leopoldo e tive a oportunidade de narrar a ele muitos fatos curiosos do tempo em que me via com a mediunidade começante sob os princípios espíritas cristãos.
@@ -57,7 +51,7 @@ Consultamos o relógio e concordamos. Vinte minutos depois de zero hora. Despedi
 
 ---
 
-## 2 — Chico Xavier em 47 respostas
+## 2
 
 > 1
 > — que assistiu e qual foi essa atividade?
@@ -116,7 +110,7 @@ Passamos, pois, às nossas perguntas e às respostas respectivas, sem preâmbulo
 
 ---
 
-## 3 — Chico Xavier no mundo dos escritores
+## 3
 
 > 1
 
@@ -202,7 +196,7 @@ O horário, porém, não mais comportava a palestra e, de minha parte, sentia a 
 
 ---
 
-## 4 — Literatos que voltaram
+## 4
 
 > 1
 
@@ -211,41 +205,30 @@ Para isso, enfileiramos algumas perguntas às quais, através da palestra natura
 E, dessa forma, surgiu a presente entrevista, de que saltam as informações do médium, com a naturalidade que lhe conhecemos na palavra sincera e que oferecemos aos nossos leitores dentro da fidelidade de que somos capazes, atentos ao nosso interesse comum na pesquisa das realidades que nos aguardam, além da morte.
 R — Lembro-me de alguns.
 R — Maria Lacerda de Moura e Romeu do Amaral Camargo, por exemplo.
-R — Conheci pessoalmente Dona Maria Lacerda de Moura em 1937. Nesse tempo, ela estudava com imenso interesse os fenômenos mediúnicos, num grupo consagrado a diversos orientadores desencarnados do mundo indiano. As reuniões obedeciam às instruções deles e apresentavam resultados admiráveis do ponto de vista medianímico. Ela convidou-nos, ao Dr. Rômulo Joviano, que era então meu chefe no serviço, e a mim, para assistirmos a algumas reuniões. Com a permissão de Emmanuel, compareci, por algumas vezes, às tarefas do grupo mencionado, e pude ver, através da clarividência, as entidades que operavam, todas elas dignas do maior respeito, pelo sentido altamente religioso que davam às próprias manifestações. Dona Maria Lacerda de Moura, com quem troquei impressões sobre o intercâmbio em andamento, declarou-me estar convencida, quanto à sobrevivência da alma, depois da morte. E, por várias vezes, me disse que se partisse para o Mundo Espiritual, antes de mim, viria, se pudesse, ao meu encontro para escrever o que lhe fosse possível. Desencarnada em 1945, voltou a ver-me em Espírito e grafou, por minhas mãos, a mensagem que consta do livro “
-Falando à Terra
-”.
-n
+R — Conheci pessoalmente Dona Maria Lacerda de Moura em 1937. Nesse tempo, ela estudava com imenso interesse os fenômenos mediúnicos, num grupo consagrado a diversos orientadores desencarnados do mundo indiano. As reuniões obedeciam às instruções deles e apresentavam resultados admiráveis do ponto de vista medianímico. Ela convidou-nos, ao Dr. Rômulo Joviano, que era então meu chefe no serviço, e a mim, para assistirmos a algumas reuniões. Com a permissão de Emmanuel, compareci, por algumas vezes, às tarefas do grupo mencionado, e pude ver, através da clarividência, as entidades que operavam, todas elas dignas do maior respeito, pelo sentido altamente religioso que davam às próprias manifestações. Dona Maria Lacerda de Moura, com quem troquei impressões sobre o intercâmbio em andamento, declarou-me estar convencida, quanto à sobrevivência da alma, depois da morte. E, por várias vezes, me disse que se partisse para o Mundo Espiritual, antes de mim, viria, se pudesse, ao meu encontro para escrever o que lhe fosse possível. Desencarnada em 1945, voltou a ver-me em Espírito e grafou, por minhas mãos, a mensagem que consta do livro “Falando à Terra”. n
 R — Sim.
 R — Dona Maria que teve uma fase de livros combativos, em sua existência de escritora e mentora da mocidade, me disse que o azedume não constrói e que eu pedisse à Providência Divina para que inteligências desencarnadas com a vocação da censura violenta não viessem escrever por meu intermédio, criando problemas na seara de amor que o Espiritismo Cristão a todos nos oferece. Nesse sentido, falou comigo que eu desse graças a Deus por me achar sob as orientações do Espírito de Emmanuel que se impusera a si próprio rígidas disciplinas, a fim de servir ao Evangelho de Jesus.
 R — Muito raramente.
 R — Não. Dona Maria informou-me que prosseguia, no Mundo Espiritual, ao lado de vários amigos indus, estudando mentalismo, com vistas aos planos de trabalho espiritual que formulara para o futuro.
 R — Não me deu detalhes, mas deduzi, pelo que ela me disse, que se trata de tarefas muito importantes sobre renovação espiritual.
-R — Nosso amigo escrevia-me, às vezes, e numa das cartas últimas que me dirigiu para Pedro Leopoldo, afirmava com bondade e otimismo que, se lhe fosse possível, escreveria, por mim, na hipótese de anteceder-me na desencarnação. Pouco tempo depois de deixar-nos, cumpriu a promessa e deu-nos as páginas que se encontram igualmente no livro “
-Falando à Terra
-”, já mencionado.
-n
+R — Nosso amigo escrevia-me, às vezes, e numa das cartas últimas que me dirigiu para Pedro Leopoldo, afirmava com bondade e otimismo que, se lhe fosse possível, escreveria, por mim, na hipótese de anteceder-me na desencarnação. Pouco tempo depois de deixar-nos, cumpriu a promessa e deu-nos as páginas que se encontram igualmente no livro “Falando à Terra”, já mencionado. n
 R — Afirmou-me que prosseguia trabalhando ativamente em organizações espíritas-cristãs do Plano Superior e que, nós, os espíritas, carregamos enormes responsabilidades nos ombros, porque recebemos o conhecimento libertador de que as leis de Deus funcionam na consciência de cada um. Acrescentou que somos tão beneficiados no Plano físico pelos princípios espíritas evangélicos e por isso mesmo tão agraciados pela Misericórdia de Deus que, até à época em que conversara comigo, pela primeira vez, não havia visto, dentre os companheiros já desencarnados com os quais convivia, um só que não se queixasse de condições deficitárias para com a Doutrina Espírita. Tão grandes eram as bênçãos recolhidas, que todos admitiam terem saído da experiência física reconhecendo-se endividados para com o Espiritismo Cristão, pelo qual, segundo a opinião deles mesmos, deviam ter trabalhado mais.
 R — Algumas vezes.
 R — De imediato, recordo-me de quatro amigos muito queridos, Honório Armond, Cornélio Pires, Maria Dolores e Jésus Gonçalves.
 R — Ao que sei, não era ele espírita, mas um grande poeta e um grande homem, pela cultura e pela bondade. Encontrei-me com ele, algumas vezes, em grande cidade mineira, para onde me deslocava, a serviço de exposições pecuárias. Fui apresentado a ele pelo Dr. Durval Nascimento, grande professor barbacenense e, logo depois das primeiras palavras, disse-me haver lido o “Parnaso de Além-Túmulo”, comentando com respeito e simpatia os poemas psicografados. Desde então, quando nos víamos declarava-me, mais por bom humor do que por outra cousa, que se desencarnasse antes de mim, voltaria a escrever por meus dedos. E voltou mesmo. Ao lado daquilo que compõe, por nosso intermédio, costuma dizer-me que vem se adaptando à Vida Maior e que não dispõe de palavras para escrever o que sente agora, perante o Universo.
 Das páginas que Xavier psicografou de Honório Armond, destacamos este soneto que fala significativamente de suas novas inspirações no Plano Espiritual.
-
-
-Alcoólatra vampiro alça a boca debalde,
+1 Alcoólatra vampiro alça a boca debalde,
 Ébrio desencarnado, a hedionda sede aguça.
 Híspidos lábios lambe e escancara a dentuça
 Tateia o vidro, em vão, do frasco verde e jalde.
-
-Rápido, caça alguém no remoto arrabalde.
+2 Rápido, caça alguém no remoto arrabalde.
 Alcoólatra encarnado encontra e lhe refuça
 A goela que se inflama, enrubesce e empapuça,
 Como a sacar de si mais sede que a rescalde.
-
-Agarra-se o vampiro ao bêbado por entre
+3 Agarra-se o vampiro ao bêbado por entre
 As vértebras do peito e as vísceras do ventre,
 Toma-lhe o braço e o corpo… Estala a língua bronca!
-
-A dupla bebe, bebe… E, às tontas na calçada
+4 A dupla bebe, bebe… E, às tontas na calçada
 Cai de borco no chão, estira-se largada,
 Delira, geme, dorme, espolinha-se e ronca…
 R — O grande poeta humorista visitou-nos em diversas ocasiões, em Pedro Leopoldo, e habitualmente profetizava que me daria notícias depois da morte. Quando o vi, pela derradeira vez, neste mundo, em 1945, estava abatido, fatigado… Informou-me que não se sentia longe da desencarnação e que eu lhe aguardasse o Espírito… Depois de desencarnado, lembrava-me habitualmente dele, em minhas orações. Anos passaram. Em 1956, quando me achava numa reunião pública de Espiritismo, na cidade de Sacramento, no Lar de Eurípedes, ele surgiu diante de mim e escreveu o primeiro dos seus sonetos mediúnicos por meu intermédio. Desde então, tornou-se um excelente amigo de nossas atividades mediúnicas na Comunhão Espírita Cristã de Uberaba, onde aparece, frequentemente, trazendo-nos enorme alegria e reconforto com as suas páginas.
@@ -258,11 +241,9 @@ Inspiração não se atrasa,
 Quero falar do sertão,
 Não saia agora de casa,
 Preciso de sua mão.
-Achei muito curiosos os versos que eu ouvia dele e anotei-os para não esquecer. O resultado é que não me ausentei do lar e ele, à noite, escreveu algumas páginas que desejava grafar. Como vemos, nosso amigo desencarnado deve ter um programa determinado de serviço que, de imediato, não sabemos qual seja.
-n
+Achei muito curiosos os versos que eu ouvia dele e anotei-os para não esquecer. O resultado é que não me ausentei do lar e ele, à noite, escreveu algumas páginas que desejava grafar. Como vemos, nosso amigo desencarnado deve ter um programa determinado de serviço que, de imediato, não sabemos qual seja. n
 R — Era ela uma poetisa notável e obreira dedicada do Espiritismo no Brasil. Nasceu na Bahia e militou na seara espírita em Salvador. Foi, algumas vezes, a Pedro Leopoldo, e não só cultivávamos confortadora amizade que foi sempre uma honra para mim, como também mantivemos correspondência por vários anos. Maria Dolores às vezes, com a bondade que lhe marcava o trato fraterno, dizia que, se lhe fosse possível, tomaria minha mão para escrever, quando não mais estivesse no Plano físico. Ríamo-nos ambos, quando o assunto vinha de novo, à baila, em nossas conversações. Por mais reafirmasse a promessa, nunca admiti que isso viesse a acontecer, porquanto, era ela, entre nós, uma senhora relativamente moça, desfrutando boa saúde. Entretanto, os vaticínios da estimada amiga se realizaram. Ela partiu para a Vida Espiritual, em 1959, e decorridos alguns anos, apareceu-me em Espírito, bem disposta e otimista, tendo escrito, até agora, por minhas mãos, vários poemas que realmente muito me reconfortam pelas ideias e sentimentos sublimes que encerram.
 R — Informou-me que prossegue interessada no serviço às crianças menos felizes, pelas quais já havia trabalhado carinhosamente na Terra e que atualmente se empenha a essa tarefa, de alma e coração, enquanto aguarda alguns dos seres queridos que deixou no mundo e dos quais deseja estar mais próxima. Acrescentou que, servindo às crianças necessitadas, pode manter-se nas vizinhanças dos corações que mais ama e aos quais se propôs servir com toda a dedicação de que é capaz.
-
 Tristeza oculta no peito
 Tem a mania do cupim
 Que, quando surge na casa,
@@ -309,10 +290,7 @@ Ele, porém, continuou:
 A custo, perguntei a ele, ainda mentalmente, o que pretendia escrever, querendo, de minha parte, falar alguma cousa porque eu ignorava que ele houvesse desencarnado e não conseguia esconder o meu jubiloso espanto.
 Ele abraçou-me. Em seguida, colocando-se no meio da pequena sala, recitou um poema que eu ouvia, mas não guardava na memória… Ao terminar, pareceu-me mais belo, mais brilhante…
 Notando que o Sr. Francisco de Paula Cardoso e Dr. Raul Soares começavam a se preocupar com o pranto que eu não podia conter, rompi a expectativa, perguntando a Dr. Raul se ele tivera conhecimento da desencarnação do amigo que ali se nos apresentava. Ele e o Sr. Cardoso responderam negativamente. E como eu dissesse que ele, Jésus Gonçalves, queria escrever, Dr. Raul Soares ponderou que seria justo eu tomar o lápis e obedecer, prometendo que ele seguiria com o Sr. Cardoso, de Pedro Leopoldo, para Pirapitingui, a fim de averiguar o que havia de autêntico no assunto, mesmo porque o grande poeta estava muito espiritualizado pelas provações de que se via acometido e talvez se achasse ali conosco fora do corpo físico, num fenômeno natural de desdobramento.
-Segui o parecer muito justo de Dr. Raul Soares e tomei o lápis… Jésus Gonçalves debruçou-se sobre o meu braço e escreveu em lágrimas os versos que ele recitara para mim, momentos antes, em voz alta, os dois primeiros sonetos que recebi dele e que constam do seu livro póstumo, intitulado “Flores de Outono”,
-n
-versos esses que peço licença para ler, de modo a que fiquem, como de inolvidável recordação do nosso amado amigo, hoje na Vida Espiritual.
-
+Segui o parecer muito justo de Dr. Raul Soares e tomei o lápis… Jésus Gonçalves debruçou-se sobre o meu braço e escreveu em lágrimas os versos que ele recitara para mim, momentos antes, em voz alta, os dois primeiros sonetos que recebi dele e que constam do seu livro póstumo, intitulado “Flores de Outono”, n versos esses que peço licença para ler, de modo a que fiquem, como de inolvidável recordação do nosso amado amigo, hoje na Vida Espiritual.
 Irmãos, cheguei contente ao Novo Dia
 E ainda em pleno assombro de estrangeiro,
 Jubiloso, saltei de meu veleiro
@@ -344,91 +322,9 @@ Nas venturosas lágrimas que choro…
 Quando a pequena reunião terminou, a emoção não me permitiu a leitura. Dr. Raul Soares, vivamente sensibilizado, leu os versos e, no dia seguinte, seguiu com o Sr. Paula Cardoso, levando a mensagem para a cidade de Pirapitingui, de onde me escreveu, imediatamente, comunicando que Jésus havia desencarnado, alguns dias antes de nossas preces.
 Notei que Chico se comovera demasiado ao rememorar a sessão descrita e, como já registrara notas suficientes para refletir nos escritores que haviam regressado da Vida Maior, conforme eles próprios haviam anunciado, encerrei a nossa conversação.
 
-Alcoólatra vampiro alça a boca debalde,
-Ébrio desencarnado, a hedionda sede aguça.
-Híspidos lábios lambe e escancara a dentuça
-Tateia o vidro, em vão, do frasco verde e jalde.
-
-Rápido, caça alguém no remoto arrabalde.
-Alcoólatra encarnado encontra e lhe refuça
-A goela que se inflama, enrubesce e empapuça,
-Como a sacar de si mais sede que a rescalde.
-
-Agarra-se o vampiro ao bêbado por entre
-As vértebras do peito e as vísceras do ventre,
-Toma-lhe o braço e o corpo… Estala a língua bronca!
-
-A dupla bebe, bebe… E, às tontas na calçada
-Cai de borco no chão, estira-se largada,
-Delira, geme, dorme, espolinha-se e ronca…
-Tristeza oculta no peito
-Tem a mania do cupim
-Que, quando surge na casa,
-O telhado está no fim.
-Ciúme (Deus me perdoe)
-Parece em qualquer feição,
-Com jararaca enroscada
-Por dentro do coração.
-Orgulho lembra o coqueiro
-Que mais alto põe o cacho,
-Um dia, o raio aparece
-E o coqueiro vem abaixo.
-Vaidade recorda a rã
-Que não vê a própria face,
-E pensa que o mundo inteiro
-É a lagoa onde ela nasce.
-Mentira é igual ao macaco
-Que come no pé de amora,
-Corpo escondido na rama,
-Deitando a cauda de fora.
-Melindre parece a larva
-Que cresce sem reboliço
-E acaba matando a rosa,
-Sem que a rosa dê por isso.
-Maledicência relembra
-Um papagaio invulgar,
-Que vive tanto mais preso
-Quanto mais sabe falar.
-Apego desenfreado
-É igual à hera em ação
-Que, aos poucos, abraça o muro
-E atira o muro no chão.
-Cobiça, se bem comparo,
-É assim como poço fundo
-Que cabe, de ponta a ponta,
-Toda a miséria do mundo.
-Irmãos, cheguei contente ao Novo Dia
-E ainda em pleno assombro de estrangeiro,
-Jubiloso, saltei de meu veleiro
-No porto da Verdade e da Harmonia.
-Bendizei, com Jesus, a dor sombria,
-Na romagem de pranto e cativeiro,
-Nele achareis o Doce Companheiro
-Para as rudes tormentas da agonia…
-Não desdenheis a chaga que depura,
-Nossas horas de amarga desventura
-São dádivas da Lei que nos governa!…
-As escuras feridas torturantes
-São adornos nas vestes deslumbrantes
-Que envergamos ao sol da Vida Eterna!
-Ave, maravilhosa madrugada
-Que desdobras a luz no céu aberto
-Além das trevas, longe do deserto
-Onde a esperança geme incontentada!
-Salve, resplandecente e excelsa estrada
-Sobre o mundo brumoso, estranho e incerto,
-Que acolhe, em paz, o espírito liberto
-Na vastidão da abóbada estrelada!
-Oh! meu Jesus, que fiz na noite densa,
-Por merecer tamanha recompensa
-Se confundido e fraco me demoro?!
-Recebe, ante a visão do Espaço Eleito,
-A alegria que vasa de meu peito
-Nas venturosas lágrimas que choro…
-
 ---
 
-## 5 — Encontro com Chico Xavier
+## 5
 
 > 1
 
@@ -460,7 +356,7 @@ Aventuramo-nos a fazer-lhe essas e outras interrogações e com as respostas ori
 
 ---
 
-## 6 — Diálogo com Chico Xavier
+## 6
 
 > 1
 
@@ -476,8 +372,7 @@ Depois destes informes, tomei o lápis e
 2.080 semanas a 3 reuniões cada uma — 6.240 reuniões.
 Imaginemos, em cálculo tomado abaixo da realidade dos serviços mediúnicos em Uberaba, que Chico Xavier tivesse estado com apenas 160 pessoas, em cada reunião, examinando o total de umas pelas outras, e devemos admitir que o médium de “Parnaso”, além da tarefa dos livros e das páginas de orientações individuais, dadas pelos Bons Espíritos, às centenas por semana, propriamente considerada, terá tido mais de 1.000.000 de contatos pessoais, nos últimos quarenta anos.
 Ampliando os nossos cálculos, e observando a quota integral do tempo de serviço, na média de cinco horas de atenção e ação mediúnicas por dia, devemos atribuir ao médium Xavier (a nosso ver no mínimo), um montante de 73.000 horas de trabalho doutrinário de 8 de julho de 1927 a 8 de julho de 1967. Esse tempo equivale a 8 anos, 12 dias e 10 horas de tempo integral, contados dia e noite sem pausa.
-Sem relacionar as orientações pessoais, as tarefas de colaboração em serviços curativos, os serviços de desobsessão e as mensagens mediúnicas de caráter particular (incluindo as mensagens em línguas estrangeiras), de que Chico se responsabiliza semanalmente, temos 92 livros, dos quais 75 de sua exclusiva lavra mediúnica e 17 de parceria com o médium Waldo Vieira, com o total de 17.119 páginas. Nesse total estão incluídos 21.772 versos.
-n
+Sem relacionar as orientações pessoais, as tarefas de colaboração em serviços curativos, os serviços de desobsessão e as mensagens mediúnicas de caráter particular (incluindo as mensagens em línguas estrangeiras), de que Chico se responsabiliza semanalmente, temos 92 livros, dos quais 75 de sua exclusiva lavra mediúnica e 17 de parceria com o médium Waldo Vieira, com o total de 17.119 páginas. Nesse total estão incluídos 21.772 versos. n
 Desses livros temos 5 traduzidos em Esperanto, 9 em Castelhano e uma em inglês, afora as numerosas mensagens isoladas traduzidas para o Esperanto, Castelhano, Grego, Inglês, Árabe e Japonês.
 Organizamos esses cálculos à pressa e voltamos à entrevista:
 — Quatro.
@@ -490,13 +385,10 @@ Organizamos esses cálculos à pressa e voltamos à entrevista:
 Concluímos a palestra, ponderando:
 Nosso tempo de conversação terminara e, talvez por isso, chegados que fomos a esse ponto, Chico Xavier rematou, antes de despedir-se:
 — Bem, se você julga que isso é assim, eu, como besta, dou graças a Deus.
-Depois destes informes, tomei o lápis e
-40 anos — 2.080 semanas de reuniões,
-2.080 semanas a 3 reuniões cada uma — 6.240 reuniões.
 
 ---
 
-## 7 — Chico Xavier em vários temas
+## 7
 
 > 1
 
@@ -537,26 +429,22 @@ R — Nosso amigo espiritual é de opinião que precisamos guardar calma e paci�
 — Observamos a sua enfermidade como sendo um abençoado apoio que o Senhor concedeu caridosamente a você para que venhamos a caminhar com menos riscos e perigos, em sua atual romagem na Terra. Confie no Senhor, pois sua doença é arrimo que ele enviou em seu auxílio…
 Ao ouvir estas últimas palavras, indaguei alegremente:
 — Então Jesus vai curar-me?
-Emmanuel me fitou com bondade e mandou que eu abrisse “O Evangelho segundo o Espiritismo” no capitulo VI, intitulado “
-O Cristo Consolador
-” e recomendou que eu começasse a leitura do texto. Então comecei a ler em voz alta, as palavras do Cristo: “Vinde a mim todos vós que estais aflitos e sobrecarregados, que eu vos aliviarei…” Quando atingi a palavra “aliviarei”, nosso Amigo Espiritual sustou a leitura e disse-me: Compreendeu bem? Jesus não nos promete curar-nos, isto é, retirar-nos da bênção das obrigações que nos cabe cumprir, perante as leis de Deus, mas sim promete aliviar-nos e auxiliar-nos. Confiemos no Mestre Divino e trabalhemos.”
+Emmanuel me fitou com bondade e mandou que eu abrisse “O Evangelho segundo o Espiritismo” no capitulo VI, intitulado “O Cristo Consolador” e recomendou que eu começasse a leitura do texto. Então comecei a ler em voz alta, as palavras do Cristo: “Vinde a mim todos vós que estais aflitos e sobrecarregados, que eu vos aliviarei…” Quando atingi a palavra “aliviarei”, nosso Amigo Espiritual sustou a leitura e disse-me: Compreendeu bem? Jesus não nos promete curar-nos, isto é, retirar-nos da bênção das obrigações que nos cabe cumprir, perante as leis de Deus, mas sim promete aliviar-nos e auxiliar-nos. Confiemos no Mestre Divino e trabalhemos.”
 Entendi a lição que me era dada e resignei-me.
 Hoje, depois de transcorridos trinta e seis anos sobre este diálogo, agradeço ao Senhor a bendita doença que carrego nos olhos, sempre tratada por médicos amigos e por amigos espirituais, pois, ela tem sido em todo esse tempo um agente providencial, induzindo-me à reflexão e ensinando-me a respeitar o sofrimento dos outros.
 A nossa conversação se mantinha em elevado nível de interesse e entusiasmo, entretanto, o horário tanto chamava Chico Xavier quanto eu mesmo a deveres inadiáveis e, à vista disto, resolvemos terminar.
 
 ---
 
-## 8 — Seis questões com Chico Xavier
+## 8
 
 > 1
 
 Palavras de Chico a Isidoro Duarte Santos, sobre assuntos de maledicência, em torno da mediunidade:
 — Estávamos, certa vez, sob chuvas de observações e eu pedi ao Espírito de Emmanuel: “que fazer! dizem tanto mal…” e ele respondeu: “Olha, a boca do mal na Terra é como a boca da noite. Ninguém consegue fechá-la. Vamos trabalhar, trabalhar…”
-Pergunta de J. Martins Peralva a Chico Xavier:
-n
+Pergunta de J. Martins Peralva a Chico Xavier: n
 Resposta: Tivemos em Manoel Quintão, o nosso inesquecível amigo da Federação Espírita Brasileira, o apoio decisivo para o lançamento de “Parnaso de Além-Túmulo”, o primeiro livro de nossas modestas faculdades mediúnicas, em 1932. Desde o início de nossas atividades na seara espírita, encontrei nele um orientador, cuja dedicação não posso esquecer. De uma bondade infatigável e de uma paciência sem limites para comigo, Manoel Quintão foi para mim, desde o nosso primeiro contato, um mentor amigo e um guia paternal, que vive constantemente em meu culto pessoal de carinho e gratidão.
-Quatro perguntas do Autor:
-n
+Quatro perguntas do Autor: n
 — Entrei para os serviços do Ministério da Agricultura, precisamente em 1933, conquanto trabalhasse nas horas que me sobravam do expediente na repartição, no armazém do Sr. José Felizardo Sobrinho, com quem servi na condição de caixeiro. Acontece que em 1932, ele fora acometido de uma trombose cerebral, que o deixou praticamente incapaz de atender às atividades comerciais. O armazém dele era muito pequeno e eu era o empregado único. Doente, não conseguiu o Sr. Felizardo Sobrinho movimentar os negócios que lhe diziam respeito e, em 1933, não mais pôde pagar-me os salários a que eu tinha direito e que eram, então, de sessenta mil réis por mês (seis centavos na moeda brasileira de hoje) e, em vista disso, conhecendo a minha situação, um generoso amigo, Fausto Joviano, conseguiu um lugar de serviço, em meu favor na ex Inspetoria Regional do Serviço de Fomento da Produção Animal, em Pedro Leopoldo. Quando a reportagem de “O Globo” esteve por algum tempo, em Pedro Leopoldo, em 1935, reportagem essa da qual nasceu o livro “Palavras do Infinito”, eu recebia o Sr. Clementino de Alencar, representante do grande vespertino carioca, no armazém do Sr. José Felizardo Sobrinho, a quem continuei prestando serviço gratuitamente nas horas vagas. O armazém teve as suas atividades encerradas, a 30 de junho de 1935, pela impossibilidade em que se via o proprietário de pagar os impostos do segundo semestre daquele ano, motivo pelo qual somente a 1º de junho de 1935, me fixei de maneira definitiva nos serviços da repartição que mencionei.
 — Não me recordo a data precisa. Lembro-me de que foi numa tarde de domingo, em 1931, durante uma pequena reunião de preces, ao ar livre, que eu costumava fazer, em companhia de duas senhoras, irmãs da seara espírita, D. Joaninha Gomes e D. Ornélia Gomes de Paula, num local de nome “Açude”, ao lado da linha da Estrada de Ferro Central do Brasil, em Pedro Leopoldo.
 — Sempre encontrei entusiasmo e apoio na obra do livro mediúnico, em todas as autoridades da Casa de Ismael e dos Presidentes da Federação Espírita Brasileira, posso dizer que me relacionei profundamente com o Dr. Guillon Ribeira e Manoel Quintão, tendo conhecido igualmente Leopoldo Cirne, com quem mantive confortadora correspondência. Dos Presidentes da FEB, porém, com quem tenho tido maior, mais intenso e mais prolongado intercâmbio é o nosso caro Dr. Antônio Wantuil de Freitas, em cujo dinamismo e abnegação reconheço haver encontrado um verdadeiro apóstolo na Causa do Livro Espírita, não apenas desde 1943, quando foi eleito para a Presidência da FEB, mas desde 1932, quando nos conhecemos, através de correspondência. Lembro-me de que foi ele, Dr. Wantuil de Freitas que em 1932, depois do lançamento de “Parnaso de Além-Túmulo”, me escreveu, em nome de Vovó Virgínia, nobre entidade que o auxiliava em seu jornal “A Verdade”, que então era por ele editado no Rio, oferecendo-me dez livros espíritas que foram para mim um tesouro de conhecimentos novos, de vez que em 1932, a aquisição de livros, pelo menos para mim, era muito difícil e, às vezes, quase impossível ante as dificuldades da vida material.
@@ -564,7 +452,7 @@ n
 
 ---
 
-## 9 — Entrevista de Chico Xavier em “Anuário Espírita 1967”
+## 9
 
 > 1
 
@@ -617,8 +505,7 @@ R — Estou convencido de que todos os políticos, sejam eles quais forem, merec
 R — Roguemos a Jesus nos conceda governantes sempre progressistas e leais ao bem de todos.
 R — Sim, pela riqueza do trabalho honesto que devemos cultivar indistintamente.
 R — Em matéria de reformas, os benfeitores espirituais me ensinam que não devo esquecer primeiramente a que se refere à melhoria de mim mesmo.
-R — A revolução em que acredito é aquela ensinada por Nosso Senhor Jesus-Cristo que começa pela corrigenda de cada um, na base do “façamos aos outros aquilo que desejamos que os outros nos façam”.
-
+R — A revolução em que acredito é aquela ensinada por Nosso Senhor Jesus-Cristo que começa pela corrigenda de cada um, na base do “façamos aos outros aquilo que desejamos que os outros nos façam”. ( † )
 R — Todos somos irmãos perante Deus, guardadas as posições que o merecimento real em serviço e cultura conferem a cada um.
 R — Creio nos benefícios da fraternidade sentida, admitida e praticada que Jesus nos ensinou e exemplificou.
 R — Todos somos operários da vida e creio que a Bondade de Deus faz diariamente a promoção do trabalho para quem o procura, coroando de bênçãos o esforço honesto de toda pessoa, sem distinção de credos ou de atribuições, quem busque realmente servir.
@@ -669,7 +556,7 @@ R — Graças a Deus que todos temos neste mundo a felicidade de sonhar. Creio q
 
 ---
 
-## 10 — Chico Xavier e o Dr. Jarbas Leone Varanda
+## 10
 
 > 1
 
@@ -699,7 +586,7 @@ Do Dr. Jarbas Leone Varanda, respeitado causídico no Foro de Uberaba e denodado
 
 ---
 
-## 11 — Chico Xavier e o Professor Wallace Leal V. Rodrigues
+## 11
 
 > 1
 
@@ -729,7 +616,7 @@ Neste ensejo abraçamos o querido irmão e companheiro, por cujas mãos nosso in
 
 ---
 
-## 12 — Chico Xavier e o Dr. Luiz Carlos Pásqua
+## 12
 
 > 1
 
@@ -754,7 +641,7 @@ Agradecemos aos distintos amigos e confrades de “O Caminho” a honrosa oportu
 
 ---
 
-## 13 — Chico Xavier e o Dr. José Thomaz da Silva Sobrinho
+## 13
 
 > 1
 
@@ -769,12 +656,11 @@ Tratando-se de documentário alusivo aos oito lustros da mediunidade de Chico Xa
 — Sim. Acredito que isso acontece não só na pratica mediúnica, mas em todo lugar da Terra onde aparece a luz de Nosso Senhor Jesus-Cristo. Basta que o Evangelho surja aqui ou ali, derramando as suas claridades eternas, para que a sombra do mal se destaque em desafio. Compete a nós todos confiar em Jesus e trabalhar sempre em Sua Seara de amor e de redenção.
 — Perfeitamente. A Comunhão Espírita Cristã é um lar de corações acolhedores e abnegados, ante os quais tenho assumido os maiores débitos de amizade e gratidão.
 — Sem dúvida, a transferência do nosso caro amigo Waldo Vieira para o Rio, nos impôs a falta de um companheiro eficiente e admirável no serviço espiritual, entretanto, mudou-se nosso amigo, atendendo a motivos tão respeitáveis, como seja a necessidade de progresso na Medicina, que estamos tentando honrar-lhe a confiança na ausência, cumprindo os nossos deveres mediúnicos na Comunhão Espírita Cristã e na obra dos livros de nossos Amigos Espirituais, tarefas essas nas quais o nosso caro Waldo foi e com o amparo do Senhor será sempre um padrão de nobreza e trabalho constantes.
-— De todos os gestos de solidariedade cristã a que assistimos diariamente em Uberaba, um deles está para sempre guardado em meu coração. Explicar-me-ei em poucas palavras. Em 1965, uma senhora enferma veio pela manhã ao Ambulatório da Comunhão Espírita Cristã, trazendo a carta de um médico em serviço na zona rural, endereçada a distinto cardiologista da cidade, pedindo-lhe amparo em favor dela. A doente, porém, mal informada, veio às portas de nossa instituição, acreditando-se no endereço seguro. Acontece, no entanto, que atingindo a entrada de nosso templo, foi acometida de súbito mal-estar. O coração pulsava descompassado, a palidez cobria-lhe o rosto. Neste justo momento, o médico da casa saíra a socorrer um doente grave. Procurei reanimar a enferma, uma velhinha simpática, e assim que melhorou, convidei-a a seguir-me até o consultório do cardiologista indicado, compreendendo que o socorro médico era assunto de urgência máxima. Caminhamos, vagarosamente, de nossa casa até a Avenida Belo Horizonte em procura de um telefone, à busca de um táxi, no entanto, chegados que fomos ao asfalto, ela entrou novamente em crise agravada de vômitos. Nisso, estacou perto de nós um carro elegante com duas senhoras primorosamente trajadas. Indagaram de mim o que acontecia e contei o que se passava. Ficaríamos felizes se elas nos mandassem um táxi, entretanto, as duas desceram, oferecendo-se para ajudar-nos. Não consideraram as peças valiosas que lhes forravam o automóvel e nem a roupa de alto preço na qual se vestiam. Carregaram comigo a velhinha, cujo estado físico se fizera então lastimável, e instalaram-na, ao meu lado, na poltrona, como se estivessem tratando de uma parenta querida. Logo após, uma delas acionou o motor e o carro avançou devagar… Paramos em telefone próximo e a companheira daquela que se fizera condutora paciente e amiga, conversou pelo fio com o cardiologista citado que optou pela internação imediata da enferma no Hospital das Clínicas. Em poucos minutos, a doente achara o leito e o repouso de que tanto necessitava. Comovidamente, disse às damas: “Rogo perdão às senhoras pelo incômodo que lhes dei”. Ambas sorriram e uma delas falou com bondade: “Não diga isso. Todos somos irmãos perante Jesus.” Até hoje não sei como se chamam e ignoro a que facção religiosa possam pertencer. Sei apenas que elas foram para nós — para a doente e para mim —, duas emissárias do Evangelho, fazendo-me lembrar o samaritano da parábola.
-E quando, na rua, as vejo de novo, no carro que ficou para mim inesquecível, meu pensamento de respeito e gratidão se volta para essas mensageiras de caridade e de ternura humana, rogando a Deus que as abençoe.
+— De todos os gestos de solidariedade cristã a que assistimos diariamente em Uberaba, um deles está para sempre guardado em meu coração. Explicar-me-ei em poucas palavras. Em 1965, uma senhora enferma veio pela manhã ao Ambulatório da Comunhão Espírita Cristã, trazendo a carta de um médico em serviço na zona rural, endereçada a distinto cardiologista da cidade, pedindo-lhe amparo em favor dela. A doente, porém, mal informada, veio às portas de nossa instituição, acreditando-se no endereço seguro. Acontece, no entanto, que atingindo a entrada de nosso templo, foi acometida de súbito mal-estar. O coração pulsava descompassado, a palidez cobria-lhe o rosto. Neste justo momento, o médico da casa saíra a socorrer um doente grave. Procurei reanimar a enferma, uma velhinha simpática, e assim que melhorou, convidei-a a seguir-me até o consultório do cardiologista indicado, compreendendo que o socorro médico era assunto de urgência máxima. Caminhamos, vagarosamente, de nossa casa até a Avenida Belo Horizonte em procura de um telefone, à busca de um táxi, no entanto, chegados que fomos ao asfalto, ela entrou novamente em crise agravada de vômitos. Nisso, estacou perto de nós um carro elegante com duas senhoras primorosamente trajadas. Indagaram de mim o que acontecia e contei o que se passava. Ficaríamos felizes se elas nos mandassem um táxi, entretanto, as duas desceram, oferecendo-se para ajudar-nos. Não consideraram as peças valiosas que lhes forravam o automóvel e nem a roupa de alto preço na qual se vestiam. Carregaram comigo a velhinha, cujo estado físico se fizera então lastimável, e instalaram-na, ao meu lado, na poltrona, como se estivessem tratando de uma parenta querida. Logo após, uma delas acionou o motor e o carro avançou devagar… Paramos em telefone próximo e a companheira daquela que se fizera condutora paciente e amiga, conversou pelo fio com o cardiologista citado que optou pela internação imediata da enferma no Hospital das Clínicas. Em poucos minutos, a doente achara o leito e o repouso de que tanto necessitava. Comovidamente, disse às damas: “Rogo perdão às senhoras pelo incômodo que lhes dei”. Ambas sorriram e uma delas falou com bondade: “Não diga isso. Todos somos irmãos perante Jesus.” Até hoje não sei como se chamam e ignoro a que facção religiosa possam pertencer. Sei apenas que elas foram para nós — para a doente e para mim —, duas emissárias do Evangelho, fazendo-me lembrar o samaritano da parábola. ( † ) E quando, na rua, as vejo de novo, no carro que ficou para mim inesquecível, meu pensamento de respeito e gratidão se volta para essas mensageiras de caridade e de ternura humana, rogando a Deus que as abençoe.
 
 ---
 
-## 14 — Chico Xavier e o Cronista Valentim Lorenzetti
+## 14
 
 > 1
 
@@ -786,8 +672,7 @@ R — Todos os direitos autorais dos livros por mim recebidos de nossos benfeito
 R — Nunca recebi cousa alguma pela venda das livros de nossos Amigos Espirituais, por intermédio de minhas faculdades mediúnicas, de vez que esses livros são de autoria deles, cabendo-me tão somente a alegria de cooperar com eles, os amigos da Vida Maior, na função de intermediário, durante as horas de cada dia, que posso dar ao serviço mediúnico.
 R — Uma das experiências que mais me comoveram nos Estados Unidos foi a que colhemos, em nosso primeiro contato com o movimento espiritualista da grande nação amiga. Tendo chegado pela primeira vez a Washington, na tarde de 22 de maio de 1965, um sábado, resolvemos visitar um templo de nossa fé, no dia imediato, para começar as nossas tarefas, entre os nossos irmãos norte-americanos, com uma prece de silencioso agradecimento ao Plano Espiritual que com tanta generosidade nos facultara a viagem. Para isso, sem qualquer aviso prévio, fomos nós, um grupo de quatro brasileiros, senhorita Maria Aparecida Pimentel Gonçalves (hoje Mrs. Ventton Harrison, residente na capital norte-americana), Dr. Waldo Vieira; Dr. Irineu Alves e eu, ao “Templo Espiritualista dos Dois Mundos” (The Church of Two Worlds), sediado em 3038 Q Street, N.W. Georgetown, Washington D. C., templo esse dirigido pelo médium Ministro Gordon Burroughs. Quinze horas de domingo, 23 de maio de 1965. O “service” começava. Sentamo-nos os quatro, em lugares do último banco, à retaguarda. Ninguém ali nos conhecia. Acompanhávamos as preces, cânticos e comentários de doutrina, com as nossas orações de reconhecimento a Jesus.
 Na parte final da reunião, uma senhora, a médium encarregada de transmitir mensagens ao público, em se dirigindo da tribuna do templo às pessoas presentes, de modo particular, indicou nós quatro à assembleia ali reunida e comunicou, em voz alta, que, nós, os irmãos de outro País, ali presentes, levávamos aos Estados Unidos uma tarefa de renovação espiritual e de aproximação fraterna, acrescentando que o trabalho iniciado reclamava tempo e sacrifício, entretanto, cabia-nos prosseguir, porquanto não nos faltaria o amparo de Jesus e de seus enviados.
-Logo após, a médium, em transe, anunciou a presença junto de nós, no recinto, de um professor e de um médico (
-) que para logo identificamos. Eram nossos benfeitores desencarnados Emmanuel e André Luiz, cuja presença conosco, no momento, o médium Waldo Vieira e eu já havíamos registrado, benfeitores esses geralmente conhecidos em nossas atividades espíritas no Brasil.
+Logo após, a médium, em transe, anunciou a presença junto de nós, no recinto, de um professor e de um médico (a teacher and a doctor) que para logo identificamos. Eram nossos benfeitores desencarnados Emmanuel e André Luiz, cuja presença conosco, no momento, o médium Waldo Vieira e eu já havíamos registrado, benfeitores esses geralmente conhecidos em nossas atividades espíritas no Brasil.
 Essa mensagem, assim, de público, pelo caráter de espontaneidade com que foi transmitida, nos trouxe imenso estímulo ao trabalho e profundo reconforto aos corações.
 Profundamente sensibilizados, ao término da reunião, recebemos o abraço do Ministro Burroughs. Na emoção que me tomara de assalto, quis guardar algum traço daquele inolvidável momento em minha lembrança. Instintivamente contemplei as belas gladíolas róseas que enfeitavam a sala. Perguntei à senhora encarregada da livraria do templo de onde tinham chegado aquelas flores tão lindas. A dama simpática não compreendeu o Inglês paupérrimo de que eu dispunha e julgou que eu perguntava de quem eram as flores e me respondeu que as bonitas gladíolas eram oferecidas às orações daquele dia por Mrs. Fannye M. Wright, em memória de sua mãe Mrs. Ella Debane Johnson.
 Tomei nota desses dois nomes e cito-os aqui, não só em homenagem de gratidão aos nossos amigos norte-americanos, mas também como elementos comprobatórios que me autentiquem as informações.
@@ -796,12 +681,11 @@ R — O Espiritismo evangélico, tal qual conhecemos e praticamos no Brasil, est
 R — Por influência de nossos Amigos Espirituais, notadamente através dos nossos companheiros Dr. Waldo Vieira, hoje médico no Rio, e Dr. Irineu Alves, de São Paulo, ficou fundado, em Washington, o “Christian Spirit Center”, que mantém os serviços iniciais de difusão da Doutrina Espírita, como é vista e praticada no Brasil. Além disso, vão sendo regularmente distribuídos, na grande nação do norte, impressos com mensagens de nossos Benfeitores Espirituais, tendo sido lançado em 17 de maio de 1966, o primeiro deles, por nosso intermédio, o “The World of the Spirit”, pela Philosophical Library, de New York.
 R — A minha experiência mediúnica nada apresenta, em regime de exceção, comparativamente às observações de outros companheiros da mediunidade. De tudo o que eu poderia dizer, nesse sentido, é que o mundo espiritual próximo de nós reflete o Plano físico em que vivemos, impondo-nos, depois da experiência carnal, os resultados de nossas próprias ações.
 R — Os Espíritos Amigos nos advertem que todas as religiões são respeitáveis pelo conteúdo de verdade que encerram. Todas elas são caminhos que conduzem a Deus e ao aprimoramento da alma. Acentuam, porém, que encontramos na Doutrina Espírita, o Consolador prometido por Nosso Senhor Jesus-Cristo à Humanidade, explicando-nos o verdadeiro e claro sentido de seus ensinamentos no Evangelho, de modo a sabermos que não há morte, que a vida continua para lá do túmulo, que a Justiça Eterna funciona na consciência de cada um de nós e que receberemos neste mundo ou nas outras estâncias da Vida Espiritual, os resultados de nossos próprios atos.
-A maior diferença entre o Espiritismo e as outras religiões, a nosso ver, é que o Espiritismo nos faculta indagar e conhecer o que devemos aprender e saber, com respeito aos nossos Espíritos eternos, sem que a fé nos imponha barreiras nesse sentido, de vez que no campo espírita a fé precisa ser raciocinada. Temos no Espiritismo o cumprimento da promessa do Cristo: “conhecereis a Verdade e a Verdade vos fará livres”,
-ao que o nosso abnegado Emmanuel acrescenta: “e a Verdade nos fará livres para sermos servos felizes de nossas obrigações e para sermos mais responsáveis perante Deus”.
+A maior diferença entre o Espiritismo e as outras religiões, a nosso ver, é que o Espiritismo nos faculta indagar e conhecer o que devemos aprender e saber, com respeito aos nossos Espíritos eternos, sem que a fé nos imponha barreiras nesse sentido, de vez que no campo espírita a fé precisa ser raciocinada. Temos no Espiritismo o cumprimento da promessa do Cristo: “conhecereis a Verdade e a Verdade vos fará livres”, ( † ) ao que o nosso abnegado Emmanuel acrescenta: “e a Verdade nos fará livres para sermos servos felizes de nossas obrigações e para sermos mais responsáveis perante Deus”.
 
 ---
 
-## 15 — Chico Xavier e o Escritor Jorge Azevedo
+## 15
 
 > 1
 
@@ -813,13 +697,11 @@ Chico — Do que nos foi facultado conhecer nos países da Europa que visitamos,
 Chico — Há muita coisa de excepcional em nossas observações do mundo europeu, principalmente no que condiz com a História e Desenvolvimento Cultural da Humanidade. Difícil especificar as nossas impressões sob vários aspectos, mas sob o ponto de vista espírita com que se realizou a nossa viagem, as nossas impressões se inclinam mais profundamente para o lado espiritual dos povos que visitamos, e comentá-las seria alterar o sentido informativo desta entrevista.
 Chico — Dentre os médiuns distintos que ficamos conhecendo, podemos citar os nomes de Brookes, Burroughs, em Washington; Argo e Trusler, em Nova York; Ridav, em Ephrata; do casal Maurice Barbanell, em Londres; Madame Gisela Klecka, em Paris; senhora Maria Bacelar, em Lisboa, e Oliva, em algum lugar da Espanha.
 Chico — Cremos que a penetração da obra de Allan Kardec nos países de língua inglesa é serviço que ainda não passou do começo, mas podemos asseverar que a doutrina da reencarnação, conquanto possua adversários, encontra aí inúmeros cultores, tanto nos Estados Unidos quanto na Europa.
-Chico — Como é do conhecimento público, tivemos o conforto de receber diversas páginas em inglês, da parte de nossos benfeitores Espirituais, interessados em divulgar o ideal e a vivência aos princípios espíritas evangélicos no Brasil, junto aos outros povos. Nos Estados Unidos, sob a inspiração deles, ficou instituído o “Christian Spirit Center”, atualmente em processo de adaptação e consolidação. E ainda lá, em Nova York, junto, à “Philosophical Library”, uma das mais respeitáveis editoras da cultura norte-americana, será lançado o livro mediúnico de nossos benfeitores espirituais, o “Ideal Espírita”, em primeira tradução de Wallace Leal e Russel Baldwin, o primeiro, distinto professor brasileiro, e o segundo, competente tradutor norte-americano, residente em Washington. Devemos acrescentar que o livro, cujas provas tipográficas já se encontram em revisão para lançamento em dezembro próximo,
-n
-será publicado sob o título de “The World of the Spirit”, mais adequado à psicologia do povo norte-americano, segundo a apreciação de nossos amigos de Nova York. Outros assuntos decorrentes de nossas atividades mediúnicas serão examinados oportunamente, de vez que, se Deus quiser, atenderemos ao compromisso de lá voltar, possivelmente, em fins do mês de abril do próximo ano de 1966.
+Chico — Como é do conhecimento público, tivemos o conforto de receber diversas páginas em inglês, da parte de nossos benfeitores Espirituais, interessados em divulgar o ideal e a vivência aos princípios espíritas evangélicos no Brasil, junto aos outros povos. Nos Estados Unidos, sob a inspiração deles, ficou instituído o “Christian Spirit Center”, atualmente em processo de adaptação e consolidação. E ainda lá, em Nova York, junto, à “Philosophical Library”, uma das mais respeitáveis editoras da cultura norte-americana, será lançado o livro mediúnico de nossos benfeitores espirituais, o “Ideal Espírita”, em primeira tradução de Wallace Leal e Russel Baldwin, o primeiro, distinto professor brasileiro, e o segundo, competente tradutor norte-americano, residente em Washington. Devemos acrescentar que o livro, cujas provas tipográficas já se encontram em revisão para lançamento em dezembro próximo, n será publicado sob o título de “The World of the Spirit”, mais adequado à psicologia do povo norte-americano, segundo a apreciação de nossos amigos de Nova York. Outros assuntos decorrentes de nossas atividades mediúnicas serão examinados oportunamente, de vez que, se Deus quiser, atenderemos ao compromisso de lá voltar, possivelmente, em fins do mês de abril do próximo ano de 1966.
 
 ---
 
-## 16 — Chico Xavier e o Radialista Romeu Sérgio
+## 16
 
 > 1
 
@@ -830,44 +712,14 @@ Justamente por ocasião do seu aniversário em mediunidade, em 1967, Xavier foi 
 — Na condição de espírita, conquanto a minha indigência de tudo, confio plenamente no futuro de nosso País, invariavelmente consagrado ao trabalho e ao direito, ao progresso e à paz. Peçamos a Deus nos conserve leais à fraternidade que Jesus nos ensinou, de vez que, na vivência do Evangelho, ser-nos-á possível cooperar na edificação do Brasil espiritual, destinado a ser, conforme as lições de nossos mentores da Vida Maior, o celeiro de luz e concórdia, justiça e aperfeiçoamento para a Humanidade inteira.
 — Creio que se o caro entrevistador está interessado, em conhecer, de mais perto, as nossas tarefas espíritas-cristãs, tomaria a liberdade de propor-lhe a realização de enquetes e encontros fraternais com os nossos companheiros espíritas de Ribeirão Preto, em cuja dedicação à nossa Causa, reconhecemos daqui de Uberaba os mais elevados padrões de cultura e bondade, experiência e prestígio moral. Acreditamos que de semelhantes contatos sobrevirão esclarecimentos e bênçãos da mais alta importância para reconforto e orientação de nosso povo. Com essa lembrança, queremos reafirmar à simpática Rádio Cultura de Ribeirão Preto os nossos melhores agradecimentos, rogando a Nosso Senhor Jesus-Cristo para que a todos nos inspire e nos abençoe.
 — Romeu, agradecendo o seu convite, peço permissão para ler aqui a página “Ouve, Coração”, do Espírito de Maria Dolores, primorosa poetisa baiana, desencarnada em Salvador, poesia essa que foi por nós psicografada na reunião pública da Comunhão Espírita Cristã, realizada na noite de 20 de Novembro de 1965 e cuja leitura ofereço aos nossos companheiros espíritas de Ribeirão Preto, com o nosso abraço fraternal.
-
-
-Perguntas, coração,
-Como sanar as dores sem medida,
-De que modo enxugar a lágrima incontida
-Sob nuvens de fel e de pesar!…
-Recordemos o chão…
-Quando o lodo ameaça uma estrada indefesa,
-Em cada canto roga a Natureza:
-Trabalhar, trabalhar.
-Fita o aguaceiro que se fez tormenta.
-Ao granizo que estala, o vento insulta;
-Seio de mágoas que se desoculta,
-A terra, em torno, geme a desvairar…
-Mas, finda a longa crise turbulenta,
-Sobre teto quebrado, pedra e lama.
-Renasce a paz do céu que vibra e chama:
-Trabalhar, trabalhar.
-Ressurge, inalterado, o sol risonho,
-Não pergunta se o mal ganhou no mundo,
-A tudo abraça em seu amor profundo,
-A criar e a brilhar!
-Recebe cada flor um novo sonho,
-Cada tronco uma bênção, cada ninho
-Canta para quem passa no caminho:
-Trabalhar, trabalhar.
-Assim também, nas horas de amargura,
-Enquanto a sombra ruge ou desgoverna,
-Pensa na glória da Bondade Eterna,
-Acende a luz da prece tutelar!
-E vencerás tristeza e desventura,
-Obedecendo à voz de Deus na vida
-Que te pede em silêncio, à alma ferida:
-Trabalhar, trabalhar.
+1 Perguntas, coração, Como sanar as dores sem medida, De que modo enxugar a lágrima incontida Sob nuvens de fel e de pesar!… Recordemos o chão… Quando o lodo ameaça uma estrada indefesa, Em cada canto roga a Natureza: Trabalhar, trabalhar.
+2 Fita o aguaceiro que se fez tormenta. Ao granizo que estala, o vento insulta; Seio de mágoas que se desoculta, A terra, em torno, geme a desvairar… Mas, finda a longa crise turbulenta, Sobre teto quebrado, pedra e lama. Renasce a paz do céu que vibra e chama: Trabalhar, trabalhar.
+3 Ressurge, inalterado, o sol risonho, Não pergunta se o mal ganhou no mundo, A tudo abraça em seu amor profundo, A criar e a brilhar! Recebe cada flor um novo sonho, Cada tronco uma bênção, cada ninho Canta para quem passa no caminho: Trabalhar, trabalhar.
+4 Assim também, nas horas de amargura, Enquanto a sombra ruge ou desgoverna, Pensa na glória da Bondade Eterna, Acende a luz da prece tutelar! E vencerás tristeza e desventura, Obedecendo à voz de Deus na vida Que te pede em silêncio, à alma ferida: Trabalhar, trabalhar.
 
 ---
 
-## 17 — Chico Xavier e o Programa “Ondas de Luz”
+## 17
 
 > Jarbas Varanda  Caro Chico, o microfone é seu para os seus cumprimentos e considerações iniciais.
 
@@ -876,15 +728,11 @@ Como todos irmãos sabem, nossos confrades e médiuns Chico Xavier e Waldo Vieir
 Chico Xavier — Inicialmente, pedimos permissão para saudar a todos os nossos companheiros e ouvintes de “Ondas de Luz”, a todos desejando paz e alegria.
 — Do ponto de vista espírita, nossas impressões foram as melhores. Sabemos que a edificação dos princípios kardequianos entre os nossos irmãos norte-americanos é obra ainda começante, embora reconheçamos que a mente popular dos Estados Unidos permanece arejada e aberta ao estudo de todas as grandes questões da Humanidade. Tivemos a satisfação de acompanhar o lançamento do primeiro livro psicográfico de nossos benfeitores espirituais, traduzido para o Inglês, pela “Philosophical Library”, em Nova Iorque e verificar o desenvolvimento promissor do “Christian Spirit Center”, fundado naquele país sob a inspiração de Emmanuel e André Luiz, no ano passado, cujo núcleo mais importante agora está sediado no Estado da Carolina do Norte, em Elon College. Indiscutivelmente esses dois acontecimentos foram para nós dois fatos culminantes da nossa viagem deste ano, ao encontro de nossos amigos do norte, mas não será justo esquecer os contatos edificantes que tivemos ambos com os nossos irmãos espíritas do México, dos quais destaco os companheiros kardecistas da Central Espírita Mexicana, os professores João e Pedro Gasca e a nossa irmã professora Amparita Morgado; e ainda o conforto que recebemos com a honrosa reportagem que a revista “Cosmic Star”, de Hollywood, publicou em torno das nossas atividades na Comunhão Espírita Cristã, aqui em Uberaba. De minha parte, não posso deixar de me referir também à alegria com que acompanhei a fundação de dois cultos de Evangelho, em bases espíritas-cristãs, em Nova Iorque, por nosso caro amigo e distinto médico uberabense, Dr. Eurípedes Vieira, atualmente em especialização no “Memorial Hospital of Cancer and Allied Diseases”, daquela grande cidade.
 — Detivemo-nos muito especialmente na obra de desenvolvimento e consolidação do “Christian Spirit Center” que se define como sendo uma das mais valiosas esperanças do Espiritismo Evangélico do Brasil nos Estados Unidos. Para esse fim, foram realizadas diversas reuniões e publicadas várias mensagens de nossos Amigos Espirituais, psicografadas diretamente em Inglês.
-— A esse respeito, cremos que o artigo do nosso digno companheiro Haddad, sob o título “Por que Estados Unidos?”, publicado pela Federação Espírita Brasileira, em “Reformador” de agosto deste ano (1966), responde perfeitamente ao problema [Vide o
-artigo citado
-no final do capítulo]. A seara da Doutrina Espírita, qual é sentida, vista e praticada no Brasil, é um serviço de suma importância moral e está naturalmente aberta a quantos se proponham a colaborar na divulgação de nossos princípios, seja nos Estados Unidos, nos países irmãos da América Latina ou em outras nações do Mundo.
+— A esse respeito, cremos que o artigo do nosso digno companheiro Haddad, sob o título “Por que Estados Unidos?”, publicado pela Federação Espírita Brasileira, em “Reformador” de agosto deste ano (1966), responde perfeitamente ao problema [Vide o artigo citado no final do capítulo]. A seara da Doutrina Espírita, qual é sentida, vista e praticada no Brasil, é um serviço de suma importância moral e está naturalmente aberta a quantos se proponham a colaborar na divulgação de nossos princípios, seja nos Estados Unidos, nos países irmãos da América Latina ou em outras nações do Mundo.
 — Guardo a certeza de que precisamos da divulgação do Espiritismo Evangélico do Brasil tanto em Esperanto, quanto em outras línguas da Humanidade. Certamente que, considerando o presente e o futuro; o Esperanto é o idioma ideal, mas em se tratando dos problemas aflitivos do presente, em toda parte, o socorro espírita-cristão do Brasil é tão importante como água no incêndio… Simbolizemos o Esperanto como sendo o serviço de assistência legal. Por ele, será possível apagar-se o fogo mental da angústia que domina coletividades inteiras, mas até que ele chegue à eficiência total, é justo que se espalhe o socorro através de outras línguas… Penso que a imagem define o nosso respeito e carinho pelo Esperanto, sem desconsiderar o trabalho da divulgação dos princípios espíritas-evangélicos em outros idiomas, nos múltiplos setores da Humanidade Terrestre.
 — Dentre os médiuns distintos que conhecemos, posso destacar Gordon Burroughs e Brooks, que atuam no “Templo Espírita dos Dois Mundos” e no “Templo Espírita de Cristo”, respectivamente, em Washington; Mrs. Argos e Mrs. Trussler, em New York; Mr. Maurice Barbanell e esposa Mrs. Sílvia Barbanell, em Londres; madame Gisele Klecka, em Paris, Dona Maria Bacelar, em Lisboa, em nos referindo às nossas tarefas espíritas-cristãs fora do Brasil, em 1965. Em matéria de mediunidade, porém, guardo no coração, como sendo ponto mais alto para mim, em nossa visita aos Estados Unidos, este ano de 1966 o contato mais íntimo, em várias reuniões semanais com as notáveis faculdades de Mrs. Phyllis Haddad, abnegada médium do “Christian Spirit Center”, em Elon College, através de quem tive provas inequívocas da presença de minha mãe Maria João de Deus, que me falou através dela, sobre os meus problemas íntimos e tarefas espíritas no Brasil, sendo de salientar também as várias vezes em que o Espírito de Meimei, devotada amiga espiritual, se dirigiu a mim, por intermédio dela, com inesquecíveis mensagens de carinho e reconforto. Das atividades espíritas propriamente consideradas, várias foram as ocorrências marcantes que me trouxeram profunda alegria, nos países que visitamos em 1965, mas devo mencionar, por marcos indeléveis em minha vida mediúnica, acontecimentos inolvidáveis como sejam nossa primeira visita ao “Templo Espírita dos Dois Mundos”, em Washington, na tarde do penúltimo domingo de maio de 1965, quando um amigo espiritual, por médium que nos ficou inteiramente desconhecido, nos falou em Inglês da responsabilidade e significação da tarefa espírita-cristã que nos levava aos Estados Unidos, estimulando-nos a cumpri-la; a fundação do “Christian Spirit Center”, destinado a divulgar o Espiritismo Evangélico do Brasil, cuja primeira reunião se verificou igualmente em Washington; o contato com os devotados médiuns ingleses Mr. Maurice Barbanell e sua digna Esposa, que nos trataram com inesquecível generosidade em sua residência de Londres; os encontros com vários grupos de companheiros espíritas, no Père Lachaise, junto do túmulo de Allan Kardec, em Paris, nas várias visitas que efetuamos a esse monumento; as visitas que realizamos à “Casa dos Espíritos” e à “Sociedade de Estudos Psíquicos Gabriel Delanne”, igualmente em Paris; o entendimento com os nossos amigos espíritas de Portugal, comandante Isidoro Duarte Santos e sua Esposa Dona Maria Raquel e o casal Sr. Mário e D. Maria Bacelar, em Lisboa; em 1966, saliento por fatos inesquecíveis para mim, o lançamento do primeiro livro de nossos Benfeitores Espirituais do Brasil, em Inglês, “The World of the Spirit”, no dia 17 de maio deste ano em New York; e o encontro com a mediunidade consoladora de Mrs. Phyllis Haddad, em Elon College, no Estado da Carolina do Norte.
 — Vi a mudança do nosso caro Waldo para o Rio com o pesar de todos os companheiros e amigos de Uberaba, principalmente os da “Comunhão Espírita Cristã” que sempre encontramos nele um apoio e um exemplo, inspirando-nos e sustentando-nos em serviço. Waldo não é tão somente o médico abnegado e o médium espírita que conhecemos e admiramos, mas igualmente o amigo e o condutor de quem não estimaríamos separar. Acontece, porém, que em se especializando no Japão, desejou ele ampliar horizontes e estudos no Rio e, de nossa parte, não podíamos transformar afeição e agradecimento em egoísmo e cativeiro. Conquanto sentindo imensamente a falta dele, vimo-lo partir reconfortados, todos nós, por vê-lo feliz, seguindo ao encontro de novas conquistas e experiências. Estamos, porém, convencidos de que ele continuará sendo o missionário da luz e do bem, tanto no Rio ou em outras cidades do Brasil ou do Mundo, como tem sido junto de nós em Uberaba, e desejamos reafirmar que ele prossegue, em qualquer parte, na condição de credor de nossa veneração, reconhecimento, apreço e carinho, para quem rogamos diariamente as bênçãos de Deus.
-A propósito do assunto, [
-Questão 3
-] transcrevemos o texto do mencionado artigo de S. J. Haddad, nosso digno confrade residente em Elon College, Estado da Carolina do Norte, nos Estados Unidos, para que nos compenetremos quanto à importância da divulgação do Espiritismo, como é praticado no Brasil, nos demais países do mundo:
+A propósito do assunto, [Questão 3] transcrevemos o texto do mencionado artigo de S. J. Haddad, nosso digno confrade residente em Elon College, Estado da Carolina do Norte, nos Estados Unidos, para que nos compenetremos quanto à importância da divulgação do Espiritismo, como é praticado no Brasil, nos demais países do mundo:
 “A História nos tem demonstrado que os grandes movimentos, que tinham por finalidade abrir novos horizontes do pensamento e do sentimento, ultrapassaram sempre as fronteiras dos países onde tiveram seu berço.
 A isso não poderia escapar a Doutrina Espírita.
 O caro leitor sem dúvida concordará conosco que a Doutrina dos Espíritos, no seu desdobramento evangélico, está indiscutivelmente enquadrada na categoria dos grandes movimentos da Terra. Em tempo algum da vida no Planeta existiu doutrina tão admiravelmente racional, simples e acessível e que, no dizer de distinto confrade, “tem uma resposta para todas as perguntas”.
@@ -904,7 +752,7 @@ Ellon College, 6 de julho de 1966.”
 
 ---
 
-## 18 — Chico Xavier, J. Martins Peralva e Dona Carmen Pena Perácio
+## 18
 
 > 1
 

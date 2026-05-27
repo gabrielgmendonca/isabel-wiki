@@ -41,7 +41,8 @@ def author_slug(author: str) -> str:
     (Volume IV, Livro II, ...) cai em 'diversos' — mesma convenção dos
     diretórios já existentes (chico-xavier/emmanuel, chico-xavier/diversos)."""
     a = (author or "").strip()
-    if not a or "/" in a or a.lower() in _COLETIVO_EXATO or _COLETIVO.search(a):
+    a_norm = a.replace(".", "").lower().strip()
+    if not a or "/" in a or a_norm in _COLETIVO_EXATO or _COLETIVO.search(a):
         return "diversos"
     return slugify(a)
 

@@ -6,7 +6,7 @@
 
 ---
 
-##  — Chico Xavier / Emmanuel
+## 
 
 > NOTAS DA INTRODUÇÃO:
 > — 1
@@ -19,51 +19,24 @@ Deixamos que o tempo corresse, e nunca mais nos referimos ao assunto com o médi
 Houve permissão para o cometimento, desde que o volume fosse apresentado como tarefa mediúnica, e eis agora o livro pronto, absolutamente pronto para estudo é contentamento de todos nós, os leitores.
 O índice de nomes e assuntos, ao final do volume, (não incluído na versão eletrônica) guarda a finalidade de orientar os estudiosos da Doutrina Espírita, facilitando consulta rápida, sobre os mais variados assuntos abordados com rara felicidade.
 As notas de rodapé, sucintas ao máximo, foram colocadas com vistas à documentação das peças que compõem o volume, fixando principalmente, as fontes de publicação e os nomes dos entrevistadores.
-FRANCISCO CÂNDIDO XAVIER, que desde 1932, após o lançamento do “Parnaso de Além-Túmulo”, vem sendo manchete de jornais e revistas brasileiros, e de muitas publicações estrangeiras, nasceu em Pedro Leopoldo, Minas Gerais, a 2 de Abril de 1910. EMMANUEL, ao tempo de Jesus, se chamou Públio Lentulus e ao que se sabe, foi a única autoridade que efetuou perfeita descrição dele, o Cristo, através de célebre carta,
-n
-publicada em numerosas línguas, autêntica obra-prima no gênero; pessoalmente encontrou-o, solicitando-lhe auxílio na cura de uma filha enferma;
-n
-desencarnou em Pompeia, no ano de 79, vítima das lavas do Vesúvio, e anos depois, reencarnou na Judeia, desenvolvendo-se-lhe grande parte da vida, em Éfeso, já não mais sob a toga de orgulhoso senador romano e sim na estamenha do modesto escravo Nestório, que, na idade madura, participava das reuniões secretas dos cristãos nas Catacumbas de Roma.
-n
-Estamos informados de que foi ele próprio, EMMANUEL, o mentor espiritual que todos respeitamos, que, em 18 de Outubro de 1517, em Sanfins, Entre-Douro-e-Minho, Portugal, renasceu com o nome de MANOEL DA NÓBREGA,
-n
-filho do desembargador Baltazar da Nóbrega e sobrinho de um Chanceler do País, quando reinava D. Manoel I, o “Venturoso”, para cumprir a excelsa missão de preparar com outros missionários religiosos daquele tempo a fundação cristã do Brasil.
+FRANCISCO CÂNDIDO XAVIER, que desde 1932, após o lançamento do “Parnaso de Além-Túmulo”, vem sendo manchete de jornais e revistas brasileiros, e de muitas publicações estrangeiras, nasceu em Pedro Leopoldo, Minas Gerais, a 2 de Abril de 1910. EMMANUEL, ao tempo de Jesus, se chamou Públio Lentulus e ao que se sabe, foi a única autoridade que efetuou perfeita descrição dele, o Cristo, através de célebre carta, n publicada em numerosas línguas, autêntica obra-prima no gênero; pessoalmente encontrou-o, solicitando-lhe auxílio na cura de uma filha enferma; n desencarnou em Pompeia, no ano de 79, vítima das lavas do Vesúvio, e anos depois, reencarnou na Judeia, desenvolvendo-se-lhe grande parte da vida, em Éfeso, já não mais sob a toga de orgulhoso senador romano e sim na estamenha do modesto escravo Nestório, que, na idade madura, participava das reuniões secretas dos cristãos nas Catacumbas de Roma. n
+Estamos informados de que foi ele próprio, EMMANUEL, o mentor espiritual que todos respeitamos, que, em 18 de Outubro de 1517, em Sanfins, Entre-Douro-e-Minho, Portugal, renasceu com o nome de MANOEL DA NÓBREGA, n filho do desembargador Baltazar da Nóbrega e sobrinho de um Chanceler do País, quando reinava D. Manoel I, o “Venturoso”, para cumprir a excelsa missão de preparar com outros missionários religiosos daquele tempo a fundação cristã do Brasil.
 Inteligência privilegiada, ingressou na Universidade de Salamanca, Espanha, aos dezessete de idade, e com vinte e um, inscreve-se na Faculdade de Cânones da Universidade de Coimbra, frequentando as aulas de direito canônico e de filosofia; a 14 de Junho de 1541, em plena mocidade, recebe a láurea doutoral, sendo, então considerado “doutíssimo Padre Manoel da Nóbrega” pelo Doutor Martim Azpilcueta Navarro.
-E tão importante se torna a tarefa do primeiro escritor brasileiro, no dizer de Antônio Soares Amora,
-n
-em plagas brasileiras, que José Mariz de Moraes chega a afirmar: “D. João III, Tomé de Souza e Nóbrega são os primeiros fundadores do Brasil: um deu a lei, o outro o braço e o outro a fé, à Pátria menina e a menina de seus olhos”.
-n
-Com efeito, segundo o Padre Antônio Fernandes, S. J., “o Padre Manoel da Nóbrega é o principal fundador de São Paulo. Foi ele quem estudou e escolheu o local, quem se entendeu com João Ramalho, Tibiriçá e Caiubi, quem inaugurou ali a catequese e a aldeia nova; quem nomeou o pessoal dirigente e docente do Colégio e lhe designou o dia da abertura”.
-n
+E tão importante se torna a tarefa do primeiro escritor brasileiro, no dizer de Antônio Soares Amora, n em plagas brasileiras, que José Mariz de Moraes chega a afirmar: “D. João III, Tomé de Souza e Nóbrega são os primeiros fundadores do Brasil: um deu a lei, o outro o braço e o outro a fé, à Pátria menina e a menina de seus olhos”. n Com efeito, segundo o Padre Antônio Fernandes, S. J., “o Padre Manoel da Nóbrega é o principal fundador de São Paulo. Foi ele quem estudou e escolheu o local, quem se entendeu com João Ramalho, Tibiriçá e Caiubi, quem inaugurou ali a catequese e a aldeia nova; quem nomeou o pessoal dirigente e docente do Colégio e lhe designou o dia da abertura”. n
 Como sabemos, a fundação da Metrópole Nobreguense se deu a 25 de Janeiro de 1554. A propósito, pergunta o ilustre historiador paulista Tito Lívio Ferreira “Por que teria Padre Manoel da Nóbrega escolhido esse dia para fundar a cidade de São Paulo dentro de uma Escola, fato ímpar na História do Mundo? Porque 25 de janeiro é o dia da Conversão do Apóstolo São Paulo. Nesse caso, é um ato deliberado de sua vontade. É a homenagem prestada pelo discípulo ao mestre — ao mestre cuja palavra, cujo entusiasmo, cuja ação, servem de modelo, norma e guia ao discípulo. É a homenagem do universitário Manoel da Nóbrega ao universitário Paulo de Tarso, numa sala de aula, dentro de uma Capela. E por isso mesmo sintetizei, neste final de soneto por mim escrito, esse momento glorioso da fundação da Metrópole Nobreguense:
 E assim Manuel da Nóbrega fundaste,
 Sob o sinal de Cristo e numa Escola,
-esta
-SÃO PAULO DE PIRATININGA
-.”
-n
-Para concluir nossas observações em torno do fundador de São Paulo, o grande Estado que hoje mais lhe divulga as páginas enviadas do Além, pedimos vênia para transcrever as palavras com que o historiador paulista a cuja autoridade recorremos nestes apontamentos, encerra a obra citada: “Padre Manoel da Nóbrega fundara o Colégio do Rio de Janeiro. Dirige-o com o entusiasmo de sempre. A 16 de outubro de 1570, visita amigos e principais moradores. Despede-se de todos, porque está, informa, de partida para a sua Pátria. Os amigos estranham-lhe os gestos. Perguntam-lhe para onde vai. Ele aponta para o Céu. No dia seguinte, já não se levanta. Recebe a Extrema Unção. Na manhã de 18 de outubro de 1570, no próprio dia de seu aniversário, quando completava 53 anos, com 21 anos ininterruptos de serviços ao Brasil, cujos alicerces construiu; morre o fundador de São Paulo. E as últimas palavras de Manoel da Nóbrega são: “Eu vos dou graças, meu Deus, Fortaleza minha, Refúgio meu, que marcastes de antemão este dia para a minha morte, e me destes a perseverança na minha religião até esta hora”. E morreu sem saber que havia sido nomeado, pela segunda vez, Provincial da Companhia de Jesus no Brasil, a terra de sua vida, paixão e morte.”
-n
-Sobre Chico Xavier, conquanto já existam várias obras a respeito de sua vida e obra mediúnica, queremos apenas acrescentar o seguinte: depois de quarenta e cinco anos de contínua atividade mediúnica, Chico Xavier é o mesmo dos primeiros dias, no que tange à fidelidade a Jesus e a Allan Kardec; não obstante venha recebendo mil e uma homenagens,
-n
-principalmente após o lançamento da centésima obra psicografada, de inúmeras comunidades brasileiras, ele permanece o mesmo Chico Xavier dos tempos bicudos de perseguição aberta — humilde, dentro de sua autenticidade de que sempre deu mostras, desde a mais tenra idade física, no atual período reencarnatório; Chico Xavier, ele mesmo, inconfundível, profundamente humano, apesar de viver na condição de ponte entre a Terra e a Espiritualidade Superior; entusiasta do progresso tecnológico e das reivindicações sadias da juventude, apaixonado pelas realizações da Ciência, defensor de todas as correntes religiosas e ardoroso batalhador da Doutrina Espírita, constituindo-se em exemplo vivo do Espírita evangélico por excelência, homem interexistente, no dizer de J. Herculano Pires.
-n
-Se o leitor conseguir alcançar os resultados positivos que atingimos com o manusear dos originais da presente obra, damo-nos, editores e nós, por satisfeitos com a nossa tarefa, rogando-lhe, porém, desculpas pelo senões que decerto venham a existir ao longo de todo o livro, ao mesmo tempo que auguramos feliz viagem através do território fértil das
-que ora lhe colocamos nas mãos.
+esta SÃO PAULO DE PIRATININGA.” n
+Para concluir nossas observações em torno do fundador de São Paulo, o grande Estado que hoje mais lhe divulga as páginas enviadas do Além, pedimos vênia para transcrever as palavras com que o historiador paulista a cuja autoridade recorremos nestes apontamentos, encerra a obra citada: “Padre Manoel da Nóbrega fundara o Colégio do Rio de Janeiro. Dirige-o com o entusiasmo de sempre. A 16 de outubro de 1570, visita amigos e principais moradores. Despede-se de todos, porque está, informa, de partida para a sua Pátria. Os amigos estranham-lhe os gestos. Perguntam-lhe para onde vai. Ele aponta para o Céu. No dia seguinte, já não se levanta. Recebe a Extrema Unção. Na manhã de 18 de outubro de 1570, no próprio dia de seu aniversário, quando completava 53 anos, com 21 anos ininterruptos de serviços ao Brasil, cujos alicerces construiu; morre o fundador de São Paulo. E as últimas palavras de Manoel da Nóbrega são: “Eu vos dou graças, meu Deus, Fortaleza minha, Refúgio meu, que marcastes de antemão este dia para a minha morte, e me destes a perseverança na minha religião até esta hora”. E morreu sem saber que havia sido nomeado, pela segunda vez, Provincial da Companhia de Jesus no Brasil, a terra de sua vida, paixão e morte.” n
+Sobre Chico Xavier, conquanto já existam várias obras a respeito de sua vida e obra mediúnica, queremos apenas acrescentar o seguinte: depois de quarenta e cinco anos de contínua atividade mediúnica, Chico Xavier é o mesmo dos primeiros dias, no que tange à fidelidade a Jesus e a Allan Kardec; não obstante venha recebendo mil e uma homenagens, n principalmente após o lançamento da centésima obra psicografada, de inúmeras comunidades brasileiras, ele permanece o mesmo Chico Xavier dos tempos bicudos de perseguição aberta — humilde, dentro de sua autenticidade de que sempre deu mostras, desde a mais tenra idade física, no atual período reencarnatório; Chico Xavier, ele mesmo, inconfundível, profundamente humano, apesar de viver na condição de ponte entre a Terra e a Espiritualidade Superior; entusiasta do progresso tecnológico e das reivindicações sadias da juventude, apaixonado pelas realizações da Ciência, defensor de todas as correntes religiosas e ardoroso batalhador da Doutrina Espírita, constituindo-se em exemplo vivo do Espírita evangélico por excelência, homem interexistente, no dizer de J. Herculano Pires. n
+Se o leitor conseguir alcançar os resultados positivos que atingimos com o manusear dos originais da presente obra, damo-nos, editores e nós, por satisfeitos com a nossa tarefa, rogando-lhe, porém, desculpas pelo senões que decerto venham a existir ao longo de todo o livro, ao mesmo tempo que auguramos feliz viagem através do território fértil das Entrevistas que ora lhe colocamos nas mãos.
 Uberaba, 5 de Dezembro de 1971.
-E assim Manuel da Nóbrega fundaste,
-Sob o sinal de Cristo e numa Escola,
-esta
-SÃO PAULO DE PIRATININGA
-.”
-n
 
 ---
 
-## 1 — Assuntos humanos
+## 1
 
 > P  Mestre Chico Xavier, como é que os Espíritos consideram o Espiritismo? Como uma Ciência experimental ou uma religião?
-
 
 R — De início queremos agradecer aos nossos amigos da TV Tupi, canal 4, de São Paulo, na pessoa de nosso caro entrevistador, Saulo Gomes, a atenção que nos dispensa, proporcionando-nos a alegria da presente visita à nossa Comunhão Espírita Cristã, aqui em Uberaba. Desejamos, também, com a permissão dos amigos, saudar e agradecer a atenção dos amigos telespectadores. Pedimos licença, ainda, para falarmos do entusiasmo com que nosso entrevistador a nós se referiu. Conhecemos nossa total desvalia e sabemos que as palavras do nosso caro Saulo Gomes nascem da sua generosidade, por méritos que não possuímos.
 Feita essa ressalva, confessamo-nos ante um inquérito afetivo muito sério, que nos chama a grande responsabilidade, pois, entendemos estarmos diante de ouvintes que procuram a verdade.
@@ -153,11 +126,10 @@ Da Inglaterra, aproveitando a oportunidade, pois estávamos em uma equipe de tr�
 
 ---
 
-## 2 — Procurando a Verdade
+## 2
 
 > P  Que opinião deram os amigos espirituais sobre a causa da morte de nosso João Boiadeiro, o primeiro doente que recebeu transplante de coração no Brasil?
 > — Lucas, XIX: 1 a 10
-
 
 R — A esse respeito ouvi particularmente dois amigos, médicos desencarnados, o Dr. Adolfo Bezerra de Menezes e nosso amigo André Luiz, que foi médico muito distinto no Rio de Janeiro. Os dois guardam a mesma opinião geral, informando que o problema é de rejeição. Portanto, um ponto coincidente com aquele assinalado por todos os grandes mestres, como Zerbini, especialmente, nosso médico brasileiro.
 R — Esses dois amigos nossos, nos disseram que, por enquanto, é impossível que a Ciência determine a causa destas dificuldades — não vamos dizer fracassos — porque a causa de tudo isso remonta ao corpo espiritual, e não podemos exigir que a Ciência abrace afirmativas nossas, sem experimentação positiva. Mas a Ciência vencerá o problema.
@@ -211,8 +183,7 @@ Quando entramos pela delinquência, quando caminhamos pelas vias da criminalidad
 Toda a vez que ofendemos a alguém estamos dilapidando a nós mesmos, porque estamos conturbando o mundo harmonioso em que se processa a nossa vida; assim é que muitos Espíritos, muitas pessoas amigas desencarnadas que tenho visto em sofrimento no mundo espiritual, ao reencarnar-se, o faz em condições mentais precárias, encontram-se em muitos graus de alienação mental, em muitos graus de enfermidade.
 André Luiz me diz que a nossa mente na vida natural libera substâncias químicas necessárias à preservação da nossa paz, no cumprimento dos nossos deveres na Terra. Porém, quando nós conturbamos o binômio alma — corpo, caímos em problemas espirituais muito difíceis.
 Assim é que muitos fenômenos da loucura e da obsessão, diz André Luiz, são atribuíveis à liberação anormal das catecolaminas, da medular da supra-renal, tanto quanto dos seus depósitos outros no organismo e, assim consequentemente, de seus produtos de metabolização, como sejam, a adrenolutina e o adrenocromo, cuja ação específica, interferindo na distribuição da glicose no cérebro, determina alterações sensoriais muito grandes, alterações estas que serão estudadas, com segurança pela medicina psicossomática do futuro.
-Emmanuel, que entra como um grande evangelizador, diz que, por isso mesmo, Jesus afirmou: “o reino de Deus está dentro de vós”.
-Mas assim como o reino de Deus está dentro de nós, o reinado temporário do mal, ou das trevas, está também dentro de nós, quando nos afeiçoamos às trevas. E, acrescenta, às relações de André Luiz, que “a Ciência e a Religião são as duas forças propulsoras e mantenedoras do equilíbrio na Terra.
+Emmanuel, que entra como um grande evangelizador, diz que, por isso mesmo, Jesus afirmou: “o reino de Deus está dentro de vós”. ( † ) Mas assim como o reino de Deus está dentro de nós, o reinado temporário do mal, ou das trevas, está também dentro de nós, quando nos afeiçoamos às trevas. E, acrescenta, às relações de André Luiz, que “a Ciência e a Religião são as duas forças propulsoras e mantenedoras do equilíbrio na Terra.
 Sem a Ciência o mundo se converteria numa selva primitivista, sob o domínio da animalidade; mas sem a Religião, converteríamos a Terra num hospício de largas dimensões em que a irresponsabilidade caminharia em todas as direções.
 Então, nós — os religiosos — e os cientistas vamos caminhando lado a lado, pois com base na própria Ciência e segundo os ensinamentos religiosos de todas as raças, é do equilíbrio das nossas emoções que resulta a saúde perfeita, o corpo sadio.
 Uma pessoa, por exemplo, está no mundo espiritual em posição precária quanto à sua vida mental, e se reencarna em condições difíceis. Logo na primeira meninice aparece a esquizofrenia. Temos aí um caso que pode ser curável, conforme o merecimento espiritual da criatura. Curável porque o problema da emoção conturbada já desencadeou determinados distúrbios mentais que desregularizaram as fontes de distribuição das substâncias químicas do nosso organismo.
@@ -245,25 +216,23 @@ Assim, minha primeira ideia foi obtida no seio da Igreja Católica.
 R — Tenho aqui uma mensagem que foi recebida na manhã do dia 18 de junho, com alguns amigos de S. Paulo. Vieram aqui e estávamos falando sobre a vitória do Dr. Zerbini e sua equipe de médicos em S. Paulo, em matéria de transplante. Depois disso fomos orar, aqui mesmo, nesta sala da Comunhão Espírita Cristã.
 Como é natural, abrimos o Evangelho e a lição do dia caiu naquela parte em que Jesus encontra com Zaqueu, o rico daquele grande ensinamento da Boa Nova. Foi com grande alegria para nós, que o Dr. Bezerra de Menezes, que tem conversado muito conosco a respeito do assunto transplante, deu uma mensagem que gostaria de pedir à nossa Dalva.
 O assunto era transplante e eu pedi a ela para trazer.
-Deter-nos-emos, em nossa ligeira reunião, tão somente no assunto de vossos comentários, em nossa intimidade familiar.
-Por que permitiria o Senhor que a Ciência na Terra se decida, com tanto empenho, no estudo e na execução do transplante de órgãos e membros do corpo humano?
-Notemos que a iniciativa se fundamenta em motivos respeitáveis. Isso vem lembrar a cada um de vós outros o tesouro do envoltório físico que não menosprezamos sem dano grave.
+1 Deter-nos-emos, em nossa ligeira reunião, tão somente no assunto de vossos comentários, em nossa intimidade familiar.
+2 Por que permitiria o Senhor que a Ciência na Terra se decida, com tanto empenho, no estudo e na execução do transplante de órgãos e membros do corpo humano?
+3 Notemos que a iniciativa se fundamenta em motivos respeitáveis. Isso vem lembrar a cada um de vós outros o tesouro do envoltório físico que não menosprezamos sem dano grave.
 Senão vejamos.
-Tendes hoje máquinas avançadas para a confecção dos mais singelos serviços, no entanto, quem se lembraria de vender um braço, a pretexto de possuir engenhos para a solução de necessidades essenciais?
-Dispondes de carros velozes para o trânsito perfeito em terra, mar e ar, contudo, por guardardes semelhantes utilidades não colocaríeis um pé no mercado de oferta e procura.
-Vossos aparelhos de observação alcançam o firmamento e vasculham as mais obscuras paisagens do microcosmo, entretanto, isso não é razão para tabelardes o preço de um dos olhos para quem aspire a comprá-lo.
-Conseguistes laboratórios eficientes, nos quais a perquirição atinge verdadeiros prodígios, todavia, por essa razão, não cederíeis por dinheiro um dos vossos rins, os admiráveis laboratórios de filtragem que vos garantem a saúde.
-Vêde, pois, filhos, que todos sois Zaqueus, diante da vida, todos sois milionários da oportunidade e do serviço, no abençoado corpo que vos permite sentir, pensar, agir, trabalhar, construir e sublimar na Causa do Bem Eterno.
-Basta aceiteis o impositivo da ação edificante e adquirireis empréstimos sempre maiores na Organização Universal dos Créditos Divinos.
-De todos os recursos, porém, que vos são confiados, o corpo físico é o mais importante deles, por definir-se como sendo o refúgio em que obtemos no mundo o valioso ensejo de progredir e aperfeiçoar a nós mesmos, na esfera da experiência.
-Zaqueus da Terra, todos ricos de tempo e de instrumentos do bem, para a evolução e melhoria constantes, aprendamos a servir para merecer e merecer para servir cada vez mais.
+4 Tendes hoje máquinas avançadas para a confecção dos mais singelos serviços, no entanto, quem se lembraria de vender um braço, a pretexto de possuir engenhos para a solução de necessidades essenciais?
+5 Dispondes de carros velozes para o trânsito perfeito em terra, mar e ar, contudo, por guardardes semelhantes utilidades não colocaríeis um pé no mercado de oferta e procura.
+6 Vossos aparelhos de observação alcançam o firmamento e vasculham as mais obscuras paisagens do microcosmo, entretanto, isso não é razão para tabelardes o preço de um dos olhos para quem aspire a comprá-lo.
+7 Conseguistes laboratórios eficientes, nos quais a perquirição atinge verdadeiros prodígios, todavia, por essa razão, não cederíeis por dinheiro um dos vossos rins, os admiráveis laboratórios de filtragem que vos garantem a saúde.
+8 Vêde, pois, filhos, que todos sois Zaqueus, diante da vida, todos sois milionários da oportunidade e do serviço, no abençoado corpo que vos permite sentir, pensar, agir, trabalhar, construir e sublimar na Causa do Bem Eterno.
+9 Basta aceiteis o impositivo da ação edificante e adquirireis empréstimos sempre maiores na Organização Universal dos Créditos Divinos. 10 De todos os recursos, porém, que vos são confiados, o corpo físico é o mais importante deles, por definir-se como sendo o refúgio em que obtemos no mundo o valioso ensejo de progredir e aperfeiçoar a nós mesmos, na esfera da experiência.
+11 Zaqueus da Terra, todos ricos de tempo e de instrumentos do bem, para a evolução e melhoria constantes, aprendamos a servir para merecer e merecer para servir cada vez mais.
 
 ---
 
-## 3 — Realidades da alma
+## 3
 
 > P  Um assunto que está despertando grande interesse na opinião pública mundial. Trata-se do ser humano que dentro em breve estará entre nós, cremos, produto de um tubo de ensaio. O conhecimento profundo, em matéria espiritual, de Chico Xavier, nos parece, é muito importante. Que ele emita o seu pensamento e da própria doutrina espírita em relação a isso. Que acha Chico Xavier e o mundo espírita da criança que o homem começa agora a gerar num tubo de ensaio?
-
 
 Inegavelmente, um dos pontos altos do programa “Cidade Contra Cidade”, de Silvio Santos, no Canal 4, TV-Tupi, de São Paulo, realizado na noite de 6 de março de 1970, foi a presença, na delegação uberabense, do mundialmente famoso médium psicógrafo Francisco Cândido Xavier. Pela primeira vez, Chico Xavier comparecia a uma Televisão de um grande centro do país para ser entrevistado, justamente quando se faz o lançamento do seu centésimo livro. O repórter Saulo Gomes e o criador do programa, Silvio Santos, fizeram interessantes perguntas a Chico Xavier, das quais destacamos pela oportunidade no momento atual, duas perguntas formuladas por Saulo Gomes, que seguem com as respectivas respostas :
 R — Tenho ouvido por diversas vezes o Espírito de Emmanuel a respeito disso.
@@ -276,19 +245,15 @@ Não nos referimos aqui, segundo os Bons Espíritos, ao uso de implementos físi
 
 ---
 
-## 4 — Encontro fraterno
+## 4
 
 > P  Que acha você, Chico Xavier, da edição do nosso querido “Anuário Espírita”, em Espanhol?
-
 
 Ante o lançamento do Anuário Espírita em Castelhano, planejamos um encontro com o médium Chico Xavier, a fim de entretermos alguma troca de ideias, com respeito ao assunto. Nesse propósito, dirigimo-nos para a sua residência, na Vila Silva Campos em Uberaba, onde fomos recebidos com simpatia e a amizade de sempre.
 Conversa vai, conversa vem, o entendimento fraterno se transformou, para logo, numa entrevista, que passamos a considerar como sendo de alta significação doutrinária, pelos temas e apontamentos emitidos.
 R — Admirável iniciativa.
 R — Entendo que o “Anuário Espírita” em Castelhano será instrumento abençoado de aproximação entre nós todos, os espíritas do Brasil e aqueles que vivem noutros climas do Continente.
-R — Temos aprendido com os Benfeitores da Vida Maior que todos os três aspectos do Espiritismo são essencialmente importantes, entretanto, o religioso é o mais expressivo por atribuir-nos mais amplas responsabilidades de ordem moral, no trato com a vida. [
-. A resposta a essa mesma pergunta é mais completa no
-item 97
-desse mesmo livro]
+R — Temos aprendido com os Benfeitores da Vida Maior que todos os três aspectos do Espiritismo são essencialmente importantes, entretanto, o religioso é o mais expressivo por atribuir-nos mais amplas responsabilidades de ordem moral, no trato com a vida. [Obs. A resposta a essa mesma pergunta é mais completa no item 97 desse mesmo livro]
 R — Acerca das várias traduções de nossos Amigos Espirituais para o Castelhano tenho recebido frequentemente cartas de companheiros latino-americanos, notadamente da Argentina, expressando satisfação e simpatia.
 Parece-nos que o livro “Nosso Lar”, de André Luiz, lançado pela Editora Kier, em Buenos Aires, em excelente tradução do Professor Guerrero Ovalle, vem recebendo particular atenção dos nossos amigos de fala Espanhola.
 R — Emmanuel costuma afirmar-nos que, sem religião, seríamos na Terra, viajores sem bússola, incapazes de orientar-nos no rumo da elevação real.
@@ -307,15 +272,13 @@ R — Os amigos Espirituais asseveram que todos estamos — os Espíritos atualm
 R — Segundo os mensageiros da Espiritualidade Maior, nós, as criaturas terrestres de todas as idades, superaremos as crises atuais e dizem que as transformações aflitivas do Mundo moderno se verificam para o bem geral.
 R — Loucura e doenças incuráveis, à luz do Espiritismo, estão arraigadas às nossas necessidades de aprendizado e evolução, resgate e aperfeiçoamento, nos campos da reencarnação, e os Instrutores da Espiritualidade acrescentam que a Ciência e a Religião operam no planeta, sob a inspiração da Providência Divina, para amenizar, diminuir, sustar ou extinguir as provações dos homens, conforme a necessidade e o merecimento de cada um.
 R — Cremos seja a ocorrência devida a reflexões superficiais, em torno do assunto, mas, na essência, a reencarnação é como Verdade que brilha para todos, despertando as consciências, uma por uma, na medida do amadurecimento que venham a apresentar.
-
 R — Das experiências de nossa tarefa mediúnica, citaremos uma delas, para nós inesquecível.
 Nos arredores de Pedro Leopoldo, há anos passados, certa viúva viu o corpo de um filho assassinado, chegando, repentinamente à casa.
 Desde então, chorava sem consolo.
 O irmão homicida fugira, logo após o delito, e a sofredora senhora ignorava até mesmo porque o rapaz perdera tão desastradamente a vida.
 Agravando-se-lhe os padecimentos morais, uma nossa amiga, já desencarnada, D. Joaninha Gomes, convidou-nos a ir em sua companhia partilhar um ligeiro culto do Evangelho, com a viúva enlutada.
 A desditosa mãe acolheu-nos com bondade e, logo após, em círculo de cinco pessoas, entregamo-nos à oração.
-Aberto em seguida “O Evangelho segundo o Espiritismo”, ao acaso, caiu-nos sob os olhos o item 14 do Capítulo X, intitulado “Perdão das Ofensas”.
-
+Aberto em seguida “O Evangelho segundo o Espiritismo”, ao acaso, caiu-nos sob os olhos o item 14 do Capítulo X, intitulado “Perdão das Ofensas”. ( † )
 Ia, de minha parte, começar a leitura, quando alguém bateu à porta.
 Pausamos na atividade espiritual, enquanto a dona da casa foi atender.
 Tratava-se de um viajante maltrapilho, positivamente, um mendigo, alegando fome e cansaço.
@@ -336,10 +299,9 @@ No dia imediato, Joaninha Gomes e eu voltamos ao lar da generosa senhora e ela n
 
 ---
 
-## 5 — Entre irmãos
+## 5
 
 > P  Quantos livros o Sr. tem editado em Português e em outras línguas?
-
 
 A Fundação Educandário Pestalozzi, em comemoração ao seu 26º aniversário, recebeu anteontem a visita do médium Francisco Xavier, numa concorrida Tarde de Autógrafos. Na ocasião, a reportagem ouviu o psicógrafo que observou: “Nós estamos repetindo uma emoção que nos é sumamente agradável, com mais uma visita à cidade de Franca, onde recebemos este abençoado calor do coração francano. Estamos pedindo a Deus que conceda a esta terra abençoada, cada vez mais progresso, felicidade e alegria.”
 Daí passamos a uma breve entrevista com ele em forma de perguntas e respostas:
@@ -370,18 +332,15 @@ Se eu pratiquei um crime, se lesei alguém, é natural que não tendo pago a min
 
 ---
 
-## 6 — Perguntas e respostas
+## 6
 
 > P  Nosso caríssimo Chico Xavier diz no prefácio do livro “Parnaso de Além-Túmulo” que você e sua família eram católicos até 1927. Se voltaram para a doutrina espírita com a cura de uma das suas irmãs que sofrera um processo obsessivo; podemos saber qual delas e que notícias nos dá a seu respeito?
-
 
 R — Trata-se de nossa irmã Maria da Conceição Xavier que é hoje mãe de numerosa família e reside na cidade mineira de Sabará, nas vizinhanças de Belo Horizonte.
 R — Sim. Sempre que frequentava os ofícios religiosos chegava a identificar a presença de entidades espirituais e dava disso conhecimento aos sacerdotes amigos que me ouviam na confissão, que naquele tempo era largamente praticada e que nós todos observávamos com muita fidelidade à fé cristã. Isso para eles não era novidade porquanto muitas vezes me perquiriam a palavra e o raciocínio, indagando se eu dizia a verdade ou se estava sendo vítima de alucinação, o que hoje considero muito natural.
 R — Ele nos visitou de maneira franca e visível em dezembro de 1931.
 Desde lá até agora, precisamente há 40 anos, ele tem sido o instrutor e o mentor de nossas tarefas espirituais; ele afirma que, indiscutivelmente voltará à reencarnação mas não diz exatamente o momento preciso em que isso se verificará.
-Entretanto, pelas palavras dele, admitimos que ele estará regressando ao nosso meio de Espíritos encarnados, no fim do presente século, provavelmente, na última década. [Obs.
-Vide nota sobre a reencarnação de Emmanuel
-]
+Entretanto, pelas palavras dele, admitimos que ele estará regressando ao nosso meio de Espíritos encarnados, no fim do presente século, provavelmente, na última década. [Obs. Vide nota sobre a reencarnação de Emmanuel]
 R — Sem dúvida. Certa feita um amigo convidou a minha atenção para a biografia de Helen Keller, a nossa grande cidadã mundial, atualmente desencarnada, que era muda, surda e cega e, segundo a biografia dela própria, era ela uma criatura que, por falta de comunicação com o próximo, se tornara talvez muito agressiva.
 Desde, porém, a ocasião em que tomou os serviços da professora que a educou, tornou-se uma pessoa diferente.
 Considero que até 1931 a minha capacidade de comunicação com o próximo seria muito difícil, mas durante quarenta anos o espírito de Emmanuel tem tido muita caridade e misericórdia para comigo, e transformando-me de algum modo; ainda não me converti, do animal desconhecido que sempre fui numa criatura mais ou menos humana, mas confesso que o nosso grande benfeitor vem conseguindo melhorar o meu padrão espiritual. Por isso mesmo, devo declarar, de público, que devo a Deus e a ele, o esforço que vou fazendo, através do tempo, a fim de humanizar-me.
@@ -444,10 +403,9 @@ Quanto à outra juventude, vamos dizer, a outros grupos jovens do Brasil e do Mu
 
 ---
 
-## 7 — Pesquisa afetuosa
+## 7
 
 > P  Bem, Chico, depois do programa Pinga-Fogo queria que o senhor nos dissesse se já avaliou a repercussão que ele alcançou?
-
 
 R — Nós estamos muito honrados com a visita de vocês, do Colégio Estadual de Uberaba, e agradecemos as palavras de nosso amigo José Carlos.
 Quanto ao Pinga-Fogo, sinceramente, minha surpresa é enorme, porque nunca pensei que esse programa, realizado pelo Canal 4 em S. Paulo, pudesse alcançar a área de opinião que vem alcançando. De modo que a surpresa também é minha.
@@ -485,88 +443,68 @@ Eu acredito que se há jovens transviados, há também muitos de nós outros, os
 Compreendo que estamos, diante mesmo de uma juventude maravilhosa em que a grandeza de espírito é força de realização. E nós podemos confiar pedindo a Deus que a abençoe sempre.
 Não estamos sentindo nenhum cansaço com a entrevista. A entrevista está admirável e gostaríamos de ir muito mais longe. Nós é que não queremos estar bancando, aqui, uma pessoa de autoridade, pois não temos autoridade nenhuma. Estamos, aqui, nesta conversação informal e fraterna como uma pessoa beneficiada pela generosidade de vocês.
 Mas, já que nosso Domingos nos falou em mensagem para finalizar o nosso encontro, eu peço licença para ler determinada mensagem recebida por nós há algum tempo:
-
-
-Escuta, meu irmão, agora é o dia
+1 Escuta, meu irmão, agora é o dia
 Em que a Bênção Celeste nos coroa
 Convidando à tarefa clara e boa
 De espalhar a alegria.
-
-Desce do altar caseiro a que te elevas
+2 Desce do altar caseiro a que te elevas
 E acende sobre a noite de quem chora
 Uma réstia de aurora,
 Adelgaçando as trevas…
-
-Assinala, mais perto,
+3 Assinala, mais perto,
 De coração fiel, amigo e atento,
 O dorido lamento
 Dos que passam clamando no deserto.
-
-É a miséria sem lar vagando além,
+4 É a miséria sem lar vagando além,
 A ignorância, torva e envilecida,
 A criança perdida
 E o doente cansado sem ninguém…
-
-Desce do pedestal nobre e sublime
+5 Desce do pedestal nobre e sublime
 Em que a glória da fé te ilustra o nome,
 Trazendo o pão onde se estenda a fome
 E a luz de Deus onde corveje o crime.
-
-Sobre o abismo das lágrimas debruça
+6 Sobre o abismo das lágrimas debruça
 O coração tranquilo e consolado
 E encontrarás Jesus crucificado
 Em cada peito humano que soluça…
-
-Em ti que trazes, rútilo e fecundo,
+7 Em ti que trazes, rútilo e fecundo,
 O brasão do Evangelho na alma ardente
 Recai o privilégio onipresente
 De revelar o Cristo sobre o mundo!
-
-Escuta, meu irmão, agora é o dia
+8 Escuta, meu irmão, agora é o dia
 Em que a Bênção Celeste nos coroa,
 Convidando à tarefa clara e boa
 De espalhar a alegria…
-Esta mensagem, é do nosso amigo espiritual José de Atagiba, que foi juiz no Estado do Espírito Santo. [No livro
-Correio fraterno
-o nome do autor aparece como José Tatagiba]. Oferecemo-la aos nossos amigos da juventude, aos nossos amigos que estão criando o futuro melhor para eles e para nós todos.
+Esta mensagem, é do nosso amigo espiritual José de Atagiba, que foi juiz no Estado do Espírito Santo. [ no livro Correio fraterno o nome do autor aparece como José Tatagiba]. Oferecemo-la aos nossos amigos da juventude, aos nossos amigos que estão criando o futuro melhor para eles e para nós todos.
 Compreendo que o Cristo é o tronco da nossa felicidade, da nossa segurança da civilização do Ocidente. E acho muito interessante a afirmativa do benfeitor espiritual, quando ele diz:
-“
-
-
-
-”
+“Em ti que trazes rútilo e fecundo,
+O brasão do Evangelho na alma ardente
+Recai o privilégio onipresente,
+De revelar o Cristo sobre o mundo.”
 A juventude de hoje quer um mundo melhor, e um mundo melhor para ser melhor há de se inspirar no Cristo, porque o Cristo é a Verdade e é o Amor.
 Nós acreditamos que a mocidade dos tempos modernos está procurando adaptação da vida humana às leis que regem a verdade e que regem o amor, para que a felicidade seja dividida com todos.
 Portanto, oferecemos esta mensagem, porque é uma página profundamente despida de sectarismo e serve a nós todos em qualquer posição religiosa que estejamos, convencidos como estamos, na posição de espíritas evangélicos, de que só com Jesus encontraremos o caminho real para a redenção humana, e para a construção de um mundo melhor.
 R — José Carlos, muito obrigado ao Colégio Estadual de Uberaba, especialmente a você.
 Não continuo porque não vou desatar a fonte das lágrimas. Tenho uma amiga estimadíssima, que é D. Dora Vilela. Ela me ensinou a não chorar em público, mas o coração chora por dentro, chora de alegria vendo tanta gente boa representada pela turma do Colégio Estadual de Uberaba.
 Abraçando a você creio que estou abraçando toda essa mocidade maravilhosa, que é a mocidade da terra uberabense, que nós respeitamos e amamos tanto com todo o coração.
-“
-
-
-
-”
 
 ---
 
-## 8 — Troca de ideias
+## 8
 
 > P  Como situarmos, querido Chico, Espiritismo no panorama atual?
-
 
 R — Sem dúvida que nós pessoalmente considerando, não temos qualquer autoridade para responder a uma pergunta deste gabarito, mas, em nossa condição de pequenino companheiro da causa espírita, compreendemos que o Espiritismo no panorama atual do mundo, é realmente aquele Consolador Prometido por Jesus à Humanidade, porque quantos dele se aproximam com sinceridade e com devotamento à verdade, encontram recursos para a resistência íntima contra qualquer perturbação; nós estamos vivendo no mundo uma época muito difícil, um período inçado de muitos obstáculos na vida espiritual de todos, porque a renovação está chegando para todos na Terra, à maneira de explosão: explosão de sentimentos, de pensamentos, de palavras, de ações; e sem a explicação do Espiritismo evangélico, que coloca em nosso coração e em nosso pensamento os termos do destino e do sofrimento no lugar justo, sinceramente nós teríamos muita dificuldade para harmonizar o nosso próprio mundo íntimo. Por isto mesmo nós consideramos que o Espiritismo no panorama atual da Humanidade é uma providência da Divina Misericórdia do Senhor a nosso benefício, a fim de que cada um de nós esteja no lugar certo, com as obrigações certas e desempenhando os nossos deveres tão bem quanto nos seja possível.
 R — Consideramos o assunto naquela base que o nosso benfeitor espiritual Dr. Bezerra de Menezes fixou numa de suas páginas, por nosso intermédio, aqui na Comunhão Espírita Cristã de Uberaba, quando nosso amigo espiritual afirmou que a Unificação do Espiritismo no Brasil é serviço urgente mas não apressado. Isso no momento nos pareceu paradoxo, mas sem dúvida que essa confraternização dos tarefeiros espirituais é trabalho urgente, porque nós precisamos cogitar da nossa confraternização de ordem geral, no campo da Doutrina, todavia esse trabalho não pode ser feito com muita pressa porque os ingredientes para a realização dele são todos de ordem espiritual e nós não podemos agir com violência. Por isso mesmo nós acreditamos que as reuniões e confraternizações de Mocidades Espíritas — que a nosso ver deveriam ser também acompanhadas de reuniões e confraternizações de adultos espíritas, é trabalho de muito valor, trabalho que nós não podemos desprezar e que devemos incentivar por todos os meios justos ao nosso alcance, para que, através do intercâmbio e da nossa comunicação mútua, possamos estabelecer bases para que a unificação real em cada grupo tenha sua aparência específica, assim como cada personalidade espírita tem a sua vida própria e seu trabalho individual dentro de nosso movimento. De modo que essas confraternizações, de mocidades espíritas ou da madureza espírita, são um movimento sério que nós devemos acatar e estimular com todas as energias ao nosso alcance.
 R — Pelo interesse que nossos amigos espirituais manifestam em favor dessas realizações, compreendemos que muitas das nossas confraternizações que se realizam — sem querer mecanizar ou automatizar os nossos irmãos encarnados — resultam de inspiração de benfeitores espirituais que se empenham fazendo a nossa união uns com os outros, através da palavra, da troca de experiências para que nós possamos localizar a nossa tarefa dentro do movimento espírita. Isso é muito importante. Os nossos amigos espirituais dão extraordinário relevo a esses movimentos e esperam que nós todos, os companheiros do Espiritismo, venhamos a encorajá-los por todos os modos que surjam dentro das nossas possibilidades, de vez que é pela reciprocidade, na permuta de nossas experiências, que chegaremos a conclusões e à realizações do mais alto interesse para o movimento espírita agora e no futuro.
-R — Os nossos amigos espirituais sempre nos ensinaram a considerar os Centros Espíritas como a Escola mais importante da nossa alma, porque é no Templo Espírita que nós recebemos de outros e podemos doar de nós mesmos os valores que servirão a cada um de nós para a vida eterna. De modo que, nós damos tanta importância ao Estudo da Matemática, ou ao estudo da Química, que realmente são importantes, não podemos menosprezar as lições em torno da paciência, em torno da tolerância, que são atitudes da alma que nós não teremos sem estudar, sem raciocinar. Portanto, um Templo Espírita é uma Universidade de formação espiritual para as criaturas humanas, e por isso o Espírito de Emmanuel, que nos orienta as atividades desde 1931, empresta a maior importância ao Templo Espírita, porque o Templo Espírita revive as casas do Cristianismo simples e primitivo em que os nossos corações se reúnem em torno dos ensinamentos do Cristo, para a melhoria da nossa vida interior. Por exemplo, numa Faculdade de ensino superior que nos merece o máximo acatamento, nós aprendemos Ciências que vão aperfeiçoar os nossos recursos intelectuais. Mas, no Centro Espírita, orientado segundo os preceitos do Evangelho, nós vamos encontrar os estudos e os raciocínios adequados à nossa necessidade de vivência em paz no mundo com a vivência igualmente do Amor uns para com os outros, segundo o ensinamento de Jesus; que nós não podemos esquecer: “Amai uns aos outros, como eu vos amei…”
-
+R — Os nossos amigos espirituais sempre nos ensinaram a considerar os Centros Espíritas como a Escola mais importante da nossa alma, porque é no Templo Espírita que nós recebemos de outros e podemos doar de nós mesmos os valores que servirão a cada um de nós para a vida eterna. De modo que, nós damos tanta importância ao Estudo da Matemática, ou ao estudo da Química, que realmente são importantes, não podemos menosprezar as lições em torno da paciência, em torno da tolerância, que são atitudes da alma que nós não teremos sem estudar, sem raciocinar. Portanto, um Templo Espírita é uma Universidade de formação espiritual para as criaturas humanas, e por isso o Espírito de Emmanuel, que nos orienta as atividades desde 1931, empresta a maior importância ao Templo Espírita, porque o Templo Espírita revive as casas do Cristianismo simples e primitivo em que os nossos corações se reúnem em torno dos ensinamentos do Cristo, para a melhoria da nossa vida interior. Por exemplo, numa Faculdade de ensino superior que nos merece o máximo acatamento, nós aprendemos Ciências que vão aperfeiçoar os nossos recursos intelectuais. Mas, no Centro Espírita, orientado segundo os preceitos do Evangelho, nós vamos encontrar os estudos e os raciocínios adequados à nossa necessidade de vivência em paz no mundo com a vivência igualmente do Amor uns para com os outros, segundo o ensinamento de Jesus; que nós não podemos esquecer: “Amai uns aos outros, como eu vos amei…” ( † )
 R — Sem dúvida — acreditamos, que para Frutal, tanto quanto para outras cidades brasileiras, isso é naturalmente um privilégio, porque hospedará corações e inteligências interessados no estudo de nossa vida eterna, interessados em explicar as tramas do destino humano sobre a Terra; interessados em esclarecer o problema da dor, para que a dor possa ser aceita como mestra de nossa alma, e não um fantasma capaz de nos precipitar na delinquência; interessados em iluminar as nossas consciências para que a nossa vida se faça melhor, para que nós compreendamos a importância da vida e para edificarmos em nós e em torno de nós a alegria de viver — porque o Evangelho é a alegria de viver, de compreender. Então, Frutal, a nosso ver, desfrutará verdadeira bênção porque de lá a mocidade poderá irradiar um grande movimento de vibrações iluminativas e confortadoras, não só para os habitantes da cidade, como também para toda a Região onde Frutal se localiza e da região para todo o Brasil e do Brasil para o mundo inteiro. Porque os Espíritos nos ensinam que a nossa ação por pequenina que seja, como também nossa palavra, mais obscura, vai influenciar para o Bem ou para o Mal, segundo a determinação que impusemos ao nosso verbo ou à nossa atividade. Portanto, nós esperamos que Frutal, que é uma cidade muitíssimo admirada por nós, se transforme então nos dias da VIII Confraternização de Mocidades Espíritas do Triângulo Mineiro, como verdadeiro foco de luzes espirituais para todos nós. E pedimos a Deus e aos nossos benfeitores espirituais que abençoem todos os corações e todas as inteligências que se unem nesse grande empreendimento, que desejamos seja aureolado do mais amplo êxito para a difusão da Verdade e para irradiação da Luz, com Allan Kardec, que nós todos consideramos, com a bênção de Jesus, que será sempre nosso Divino Mestre e Senhor (Esse conclave foi realizado com grande êxito, de 30 de outubro a 1º de novembro de 1971).
 
 ---
 
-## 9 — Entendimento amigo
+## 9
 
 > P  Que dizem os Amigos Espirituais sobre a Homeopatia, na atualidade terrestre?
-
 
 R — Nossos Amigos Espirituais consideram a Homeopatia um processo seguro de tratamento, principalmente para as pessoas de vida simples, com hábitos tão simples quanto possível.
 R — Sim, os Benfeitores Espirituais nos observam que isso acontece sempre.
@@ -596,10 +534,9 @@ R — Mais tarde, em outros contatos, apelaremos para as nossas lembranças ness
 
 ---
 
-## 10 — Indagações oportunas
+## 10
 
 > P  Como é que os Espíritos consideram a Doutrina Espírita, perante as outras religiões?
-
 
 R — Os nossos Benfeitores Espirituais nos esclarecem, frequentemente, que a Doutrina Espírita formula explicações mais lógicas, mais simples em torno dos ensinamentos de Nosso Senhor Jesus-Cristo, explicações essas, que nós encontramos com muita riqueza de minudências nas obras codificadas por Allan Kardec. Mas, explicam também, que todas as religiões são respeitáveis e que nossa atitude, diante de todas elas, deve ser de extremada veneração, pelo bem que elas trazem às criaturas humanas e por serem igualmente sustentáculos do bem na comunidade em nome de Deus.
 R — Uma vida sublimada seria, naturalmente, o padrão ideal de vivência para qualquer médium, mas nós não podemos ignorar que estamos na Terra, que somos criaturas humanas, e que se esperarmos uma perfeição absoluta para o médium, a fim de que ele trabalhe a benefício dos semelhantes — comenta muitas vezes o Espírito do nosso Benfeitor Emmanuel —, essa criatura só teria trabalho quando chegasse ao Céu. Por isso mesmo, o médium é uma criatura que está se esforçando na sua própria melhoria, no seu autoaprimoramento, sem ser ainda, comumente, uma criatura altamente educada, conquanto todos devamos trabalhar pela nossa própria sublimação.
@@ -613,8 +550,7 @@ Adquirindo culpas intensas e profundas, é muito natural que a criatura renasça
 R— Os Espíritos Amigos dizem, comumente, a nós outros, que precisamos de uma reformulação na Terra, dos nossos assuntos de ordem familiar. Não devemos constranger nossos filhos a sofrerem processos de violência, de nossa parte, tanto quanto os nossos filhos não devem criar semelhantes problemas para nós outros, quando assumimos os compromissos de pais na Terra.
 O impositivo de proteção à infância, no período mais tenro da reencarnação, é assunto de importância fundamental para a educação do espírito que se reencarna na Terra: Não podemos desprezar a infância, em tempo algum, porque a infância levará para a frente o retrato de nossa própria conduta para com ela. E se abandonamos a criança exigindo, de futuro, que em plena mocidade, obedeça à força, o assunto se faz muito difícil.
 Necessário que os pais conversem mais cordialmente com os seus filhos no clima da harmonia doméstica, dentro da própria casa e nunca adiar essas conversações para tempos de desastre sentimental. Frequentemente, os pais não se sentam com os filhos para um entendimento afável, para uma conversação mais doce, para que o intercâmbio da amizade se processe, para que o amor realize a sua Obra Divina nos corações, e bastas vezes, assumem atitudes atormentadas, quando os filhos ou as filhas mais jovens adquirem dificuldades ou problemas íntimos para a solução dos quais eles, os pais, não os preparam. Precisamos agora, mormente na atualidade quando se opera vasta revisão de valores domésticos, familiares e sociais, da prática de um amor sem limites, de uma tolerância imensa — de nós todos, de uns para com os outros —, para que atinjamos um acordo geral de rearmonização e, então, iniciar uma era nova, em que a criança receba realmente aquele amparo de que necessite e a que tem direito, para que nunca venhamos a condenar indebitamente, os mais jovens.
-R — Nós, os espíritas, conhecemos com Allan Kardec, em “O Livro dos Espíritos”
-, que não se deve opor obstáculos ao trabalho da Natureza, porque isso seria contrariar as leis gerais. Observemos, porém, com muito respeito a todos aqueles companheiros nossos, dentro do Espiritismo, ou fora do Espiritismo Evangélico, que não possam se harmonizar com a nossa opinião, que é formulada não por nós, mas de acordo com as instruções dos Benfeitores Espirituais: se nos decidimos a praticar o aborto criminoso, se estamos interessados em disputar medidas legais para que o aborto seja aprovado por leis, como já acontece em várias regiões do mundo, é muito mais razoável que os anticoncepcionais sejam usados para controle da família. Não nos é lícito opor obstáculos à natureza, mas imaginemos, por exemplo, um rio caudaloso, dilapidando as suas próprias margens e atingindo determinada região com cidade populosa assim ameaçada em seu conjunto residencial. Se o rio se faz perigoso, ameaçando o patrimônio aí instalado pelo Homem para benefício e progresso da comunidade, não será justo modificar-lhe o curso? Não estamos contra a Natureza, porque a natureza humana precisa se beneficiar dos recursos da natureza física, sejam eles quais forem. Não podemos apoiar o uso imoderado dos anticoncepcionais, não podemos, como criaturas religiosas, como cristãos que nós todos somos diante de Nosso Senhor Jesus-Cristo, imaginar irresponsabilidade campeando, à base do anticoncepcional usado desequilibradamente. Entretanto, respeitamos também a chegada dos anticoncepcionais ao Mundo por medida preventiva contra o aborto delituoso, porque o aborto delituoso é praticado em regime de impunidade e a vítima não tem voz para se defender. Se nos mostramos dispostos a cometer essa espécie de falta, que depõe profundamente contra a nossa Civilização, é preferível conservar os anticoncepcionais, e, do ponto de vista cristão, pedir o amparo das Leis e o controle das autoridades que o Senhor nos concedeu para a sustentação da saúde e da ordem. Muito justo, a nosso ver, solicitar aos nossos governantes e aos nossos orientadores em matéria de ciência e em matéria de religião, para que nos ajudem todos no controle dos anticoncepcionais, a fim de que não venhamos a cair em desordem coletiva, a pretexto de limitar a natalidade. Precisamos, porém, compreender que os anticoncepcionais serão talvez um mal, quem sabe?!
+R — Nós, os espíritas, conhecemos com Allan Kardec, em “O Livro dos Espíritos” ( † ) , que não se deve opor obstáculos ao trabalho da Natureza, porque isso seria contrariar as leis gerais. Observemos, porém, com muito respeito a todos aqueles companheiros nossos, dentro do Espiritismo, ou fora do Espiritismo Evangélico, que não possam se harmonizar com a nossa opinião, que é formulada não por nós, mas de acordo com as instruções dos Benfeitores Espirituais: se nos decidimos a praticar o aborto criminoso, se estamos interessados em disputar medidas legais para que o aborto seja aprovado por leis, como já acontece em várias regiões do mundo, é muito mais razoável que os anticoncepcionais sejam usados para controle da família. Não nos é lícito opor obstáculos à natureza, mas imaginemos, por exemplo, um rio caudaloso, dilapidando as suas próprias margens e atingindo determinada região com cidade populosa assim ameaçada em seu conjunto residencial. Se o rio se faz perigoso, ameaçando o patrimônio aí instalado pelo Homem para benefício e progresso da comunidade, não será justo modificar-lhe o curso? Não estamos contra a Natureza, porque a natureza humana precisa se beneficiar dos recursos da natureza física, sejam eles quais forem. Não podemos apoiar o uso imoderado dos anticoncepcionais, não podemos, como criaturas religiosas, como cristãos que nós todos somos diante de Nosso Senhor Jesus-Cristo, imaginar irresponsabilidade campeando, à base do anticoncepcional usado desequilibradamente. Entretanto, respeitamos também a chegada dos anticoncepcionais ao Mundo por medida preventiva contra o aborto delituoso, porque o aborto delituoso é praticado em regime de impunidade e a vítima não tem voz para se defender. Se nos mostramos dispostos a cometer essa espécie de falta, que depõe profundamente contra a nossa Civilização, é preferível conservar os anticoncepcionais, e, do ponto de vista cristão, pedir o amparo das Leis e o controle das autoridades que o Senhor nos concedeu para a sustentação da saúde e da ordem. Muito justo, a nosso ver, solicitar aos nossos governantes e aos nossos orientadores em matéria de ciência e em matéria de religião, para que nos ajudem todos no controle dos anticoncepcionais, a fim de que não venhamos a cair em desordem coletiva, a pretexto de limitar a natalidade. Precisamos, porém, compreender que os anticoncepcionais serão talvez um mal, quem sabe?!
 Eles estão começando no mundo!… Não sabemos, ainda, avaliar toda a influência deles sobre o organismo humano, especialmente da mulher, que nasceu para ser mãe ou que pode ser mãe. Efetuar-se-á semelhante avaliação em futuro próximo, ou talvez um pouco remoto, mas se o uso dos anticoncepcionais redunda em mal menor para evitar-se a criminalidade de abortos sem propósito, com esgotos repletos de crianças assassinadas antes do nascimento, quadro esse sempre muito triste, devemos aceitá-lo, naturalmente, sob o controle de orientação científica.
 R — Seria o menor, se tivermos o amparo das autoridades e o conselho correto da ciência, de vez que com esse duplo auxílio, estamos certos de que os anticoncepcionais terão uma função benéfica no mundo, amparando a solução dos problemas sociológicos, até mesmo nos setores da economia. Precisamos pensar nisso, mas não comprando o material referido em farmácia, à vontade, ou gastá-lo como se fizéssemos disso uma brincadeira.
 R — Respondeu o mentor, pelo mesmo Xavier, agora em Dezembro de 1971, que o panorama da Civilização Ocidental se alterou fundamentalmente nos últimos três lustros; que, em tese, a coletividade humana continua ainda não habilitada espiritualmente a controlar o renascimento na Terra; entretanto, a prática quase que generalizada do aborto delituoso, na maioria dos Países Ocidentais, culminando, em certas comunidades, com a aprovação de textos legais, complica ainda muito mais “o desenvolvimento da lei de provas purificadoras”, no Plano Físico. E já que o aborto irracional é delito incontestável nas Leis Divinas ante o controle da natalidade que significa procrastinação ou abstenção, o uso de anticoncepcionais, cujos efeitos ainda se acham em estudo, na Terra, é prática tolerável e compreensível, quando não seja a mais justa, de modo a que imenso número de criaturas reencarnadas no Plano Físico, não agravem as próprias culpas nos débitos com que já se acham oneradas nas fichas cármicas que lhes dizem respeito.
@@ -646,22 +582,17 @@ A parte mais séria da ocorrência é que, na terceira sexta-feira, a ferida est
 R — Não posso dizer se consigo, mas vamos tentar!… Se pudéssemos ter um pouquinho de música, gostaria.
 Prezados telespectadores do Canal 2, rogamos mais alguns minutos de sua preciosa atenção, para que possamos, se os Céus o permitirem, assistir ao exercício da mediunidade psicográfica, frente às câmaras, pelo nosso caro Chico Xavier.
 (Ligada a música. Enquanto isso, Chico, em lágrimas, escrevia celeremente, sem interrupção e nem retoques. Ao terminar, enxugou, do rosto, suor e lágrimas).
-
-
-Contemplo-te, Goyaz, na fé que te abençoa!…
+1 Contemplo-te, Goyaz, na fé que te abençoa!…
 Lembro Manoel Correia, o império dos Goyazes,
 Os dois Bartholomeus nos prodígios que fazes,
 O arraial de Sant’Anna, erguendo a Vila Boa!…
-
-Cresce a vida a brilhar no tempo que se escoa…
+2 Cresce a vida a brilhar no tempo que se escoa…
 Descortinas, por fim, as riquezas que trazes,
 E a civilização com teus filhos audazes,
 Conquista nova altura em que se aperfeiçoa!…
-
-Venho sorver-te a paz, na vastidão florida,
+3 Venho sorver-te a paz, na vastidão florida,
 Bendizer-te, Goyaz, terra de minha vida,
 No amor com que te exalço o trabalho fecundo!…
-
-No planalto feliz, onde a luz se te expande,
+4 No planalto feliz, onde a luz se te expande,
 Guardas o coração do Brasil nobre e grande,
 A Nação do Evangelho e Coração do Mundo!…

@@ -6,7 +6,7 @@
 
 ---
 
-## ANEXO A — “Parnaso de Além-túmulo.”
+## ANEXO A
 
 > | 1º de agosto de 1932.
 
@@ -17,308 +17,156 @@ Ao nosso querido Xavier, um fraternal amplexo.
 
 ---
 
+## Apresentação
+
+Chico Xavier era ainda um jovem iniciante na Doutrina dos Espíritos quando escreve e ou psicografou as páginas aqui colecionadas, enviadas por ele mesmo para publicação no jornal Aurora, do Rio de Janeiro, então dirigido por Inácio Bittencourt, o notável açoreano que, emigrado para o Brasil, tornara-se dedicado servidor das lides espiritistas cariocas como médium, orador, jornalista e fundador de diversas de suas instituições espíritas.
+O jornal Aurora fora por ele fundado em 1º de maio de 1912-13, permanecendo na sua direção por 30 anos, até 1942. Chico Xavier tornara-se-lhe um ativo colaborador doutrinário, não somente enviando-lhe suas magníficas produções mediúnicas, mas também acrescentando seus próprios comentários evangélico-doutrinários, ou ainda as próprias produções de sua lúcida lavra poética entre os idos de 1928 e 1933. Dentre estas últimas destaca-se a que inserimos aqui como prefácio, no original da letra de Chico Xavier, que o médium mineiro dedicou a Inácio Bittencourt quando lhe pereceu o filho, a qual recebeu o expressivo título “Bendita a dor!”. n
+É de notar-se a maturidade intelecto-moral do jovem Francisco de Paula Cândido, ou simplesmente “F. Xavier”, como costumava assinar as produções, a prenunciar a vigorosa personalidade que se faria nos anos vindouros em luminosa ponte mental unindo, de forma inconteste, os Planos físico e espiritual, materializando por seu intermédio a grande obra da complementação basilar da codificação espírita cristã no século XX de nossa era.
+Não foi sem razão que o extraordinário médium de Belo Horizonte, Paschoal Comanducci, ao orientar o casal José Hermínio e Carmen Perácio a se mudar para Pedro Leopoldo, para secundar e apoiar a obra que se iniciava em torno de Chico Xavier, afirmara em tom profético e com assombroso acerto: “Chico Xavier possui recursos mediúnicos múltiplos. Está cercado de falanges tão poderosas como as que assistiam Jesus. Esse menino assombrará o mundo. Escreverá mediunicamente centenas de livros e será intransigente defensor e divulgador do Espiritismo, codificado por Allan Kardec. Viverá muito. Desencarnado, não terá substitutos. Da mesma forma que Jesus, Chico é único no planeta. Só ele, em encarnação posterior, poderá retomar o leme e dar continuidade à obra específica que lhe foi confiada pelo Altíssimo.” n
+Retomando a linha da história, em 29 de março de 1930 Chico Xavier recebe em Pedro Leopoldo uma carta de Manuel Quintão, diretor da Federação Espírita Brasileira (FEB), na qual o ilustre pioneiro expressa-se surpreso: “Tenho lido e apreciado as suas produções poéticas no Aurora e o concito a prosseguir assim, com independência e desassombro, para firmar a sua individualidade literária.”
+Pouco mais de um ano depois, em 21 de abril de 1931, Quintão escreve novamente: “Tenho lido sempre com satisfação as suas produções poéticas e aproveito o ensejo para pedir-lhe alguma coisa para o nosso Reformador.” Mais adiante, em 22 de setembro de 1931, já mudando de enfoque, Manuel Quintão, entusiasmado, afirma: “O que eu não creio é que tais versos sejam originariamente seus.” (…) “Sugestão? Sim, tudo é sugestão, mas bem entendido, sugestão mediúnica!”
+Em seguida, vem convidá-lo a separar produções para o projeto de um futuro livro, segundo Quintão “destinado a correr não só como expoente da arte, como de prova robusta da sobrevivência dos artistas”.
+Em 17 de outubro do mesmo ano, Quintão volta a escrever a Chico Xavier, dizendo-lhe haver mostrado as poesias aos confrades Leôncio Correa, Leal de Buzal, Guillion Ribeiro e a Antônio Lima, este último fervoroso cultor dos poetas portugueses, para, enfim, concluir: “Todos estamos de acordo sobre a sua origem mediúnica e perfeita identidade. (…) Para mim não há resquício de dúvida sobre a legitimidade do fenômeno (mediúnico) e a identidade dos autores” (espirituais).
+Exatamente em 2 de abril de 1932, quando o jovem Chico completava apenas 22 anos na nova existência, Manuel Quintão lhe escrevia do Rio de Janeiro trazendo conclusivas notícias acerca da primeira publicação de um livro de sua mediunidade, que viria a ser o Parnaso de além-túmulo, cuja primeira edição foi assentada em 2.000 exemplares e viria a circular no mês de junho de 1932, através da FEB.
+Esse, prezado leitor, é o ambiente de simplicidade e esforço, de fé e esperança, de dúvidas e certezas, de amizades e estímulos santos a sedimentar na alma cândida e operosa de Chico Xavier o fenômeno espetacular da aurora de sua mediunidade entre os Céus e a Terra. Esse o ambiente mental e emotivo em que o jovem Chico vivia ao produzir os poemas e textos aqui apresentados. Desde então uma ponte de luz se pavimentou em definitivo para a história da humanidade e por ela passariam, em quase oito décadas seguintes, grandes luminares da vida espiritual, muitas vezes protegidos no anonimato dos pseudônimos.
+Agradecemos ao jornalista João Marcos Weguelin o excelente trabalho de garimpagem do ouro puro dessas produções espirituais, em sua grande maioria ainda inéditas do ponto de vista editorial.
+Mais uma vez a Vinha de Luz Editora, da Casa de Chico Xavier de Pedro Leopoldo, é o veículo escolhido pela Espiritualidade Maior para materializar essas verdadeiras joias esquecidas pela poeira dos anos incessantes, mostrando-nos que mesmo depois de 10 anos de sua desencarnação, a ser lembrada na próxima data de 30 de junho deste 2012, Chico Xavier continua trabalhando, semeando livros, instruindo e esclarecendo os homens em nome do Consolador prometido pelo Cristo de Deus.
+A Cidália Xavier de Carvalho, a única irmã de sangue de Chico Xavier ainda encarnada entre nós em Pedro Leopoldo, e a Caio Ramacciotti, do Grupo Espírita Emmanuel (GEEM) de São Bernardo do Campo, São Paulo, aos quais devemos tanta bondade, nossa gratidão por permitir-nos a edição deste livro.
+A Chico Xavier dedicamos este seu 465º livro publicado, e ousando parafrasear o penúltimo parágrafo dos Prolegômenos de O Livro dos Espíritos de Allan Kardec, a comunidade espírita de sua cidade natal exclama com alma e vida, satisfeita e feliz por tê-lo como filho ilustre do coração das Minas Gerais, no coração do Brasil, a pátria do Evangelho de Jesus na face da Terra dos homens: “Com perseverança chegaste a colher os frutos de teus trabalhos”. Imaginamos o prazer que experimentas hoje, vendo a Doutrina Espírita propagar-se em multimídia, e sendo bem compreendida pelo coração do povo que tanto amaste e acolheste com tua renúncia, humildade e amor. Esta talvez seja a real recompensa que bem mereces desfrutar e cujo valor integral somente tu, Chico Xavier, podes conhecer no tempo futuro, que se fez eterno presente de Deus. Os espinhos e as pedras que os incrédulos e maus semearam em teu caminho passaram com a rapidez de teu silêncio e a sabedoria de tua tolerância, porque não te inquietaste em vão. Chegaste ao fim da jornada humana na companhia daquela que nunca te faltou — a confiança no Pai — e por ela merecerás ser sempre ajudado, pois, contrariando todas as apostas estorvantes, provaste que Deus pôde servir-Se de tua lucidez para fazer com que nós, os homens terrenos, compreendêssemos a luz que emana por de sob o véu da verdade que ajudaste a levantar para sempre!
+Querido amigo Chico, alma cândida e bela, luz de nossas vidas, Deus te pague e abençoe, assim agora como para todo o sempre!
+Assim seja!
+
+---
+
 ## Bibliografia
 
-AURORA. Rio de Janeiro: julho / agosto / outubro / novembro / dezembro de 1928.
-AURORA. Rio de Janeiro: janeiro / fevereiro / abril / maio / julho / agosto / setembro / outubro / novembro / dezembro de 1929.
-AURORA. Rio de Janeiro: janeiro a dezembro de 1930.
-AURORA. Rio de Janeiro: janeiro a dezembro de 1931.
-AURORA. Rio de Janeiro: janeiro / fevereiro / março / maio / julho / dezembro de 1932.
-AURORA. Rio de Janeiro: janeiro / fevereiro de 1933.
-MAIOR, Marcel Souto.
-. 2ª ed. São Paulo: Planeta, 2003.
-MATTOS, Divaldinho.
-. Votuporanga: Didier Editora. 2007. 177 p.
-RIVAIL, Hippolyte Denizard. [Allan Kardec]
-. 68ª ed. Rio de Janeiro: FEB, 1987, p. 50.
-XAVIER, Francisco Cândido; GONÇALVES, Sérgio Luiz Ferreira; NETO, Geraldo Lemos (Organizadores).
-. Ditado por Espíritos diversos. Belo Horizonte: Vinha de Luz, 2010. 168 p.
-LEÃO, Geraldo; NETO, Geraldo Lemos.
-— 1910/1959. 49 anos da presença do maior médium de todos os tempos. Belo Horizonte: Vinha de Luz, 2011. 328 p.
+AURORA. Rio de Janeiro: julho / agosto / outubro / novembro / dezembro de 1928. AURORA. Rio de Janeiro: janeiro / fevereiro / abril / maio / julho / agosto / setembro / outubro / novembro / dezembro de 1929. AURORA. Rio de Janeiro: janeiro a dezembro de 1930. AURORA. Rio de Janeiro: janeiro a dezembro de 1931. AURORA. Rio de Janeiro: janeiro / fevereiro / março / maio / julho / dezembro de 1932. AURORA. Rio de Janeiro: janeiro / fevereiro de 1933. MAIOR, Marcel Souto. As vidas de Chico Xavier. 2ª ed. São Paulo: Planeta, 2003. MATTOS, Divaldinho. Chico Xavier em Pedro Leopoldo. Votuporanga: Didier Editora. 2007. 177 p. RIVAIL, Hippolyte Denizard. [Allan Kardec] O Livro dos Espíritos. 68ª ed. Rio de Janeiro: FEB, 1987, p. 50. XAVIER, Francisco Cândido; GONÇALVES, Sérgio Luiz Ferreira; NETO, Geraldo Lemos (Organizadores). Chico Xavier — O primeiro livro. Ditado por Espíritos diversos. Belo Horizonte: Vinha de Luz, 2010. 168 p. LEÃO, Geraldo; NETO, Geraldo Lemos. Pedro Leopoldo vista por Chico Xavier — 1910/1959. 49 anos da presença do maior médium de todos os tempos. Belo Horizonte: Vinha de Luz, 2011. 328 p.
+
+---
+
+## Dedicatória
+
+Em profundo agradecimento e respeito por suas vidas luminosas, que nos legaram tantas páginas edificantes de paz, de luz, de consolação e de ensinamento.
+
+---
+
+## Homenagem
+
+
 
 ---
 
 ## Introdução
 
 Para compreender a importância desta obra é preciso, antes de tudo, resgatá-la dentro de seu contexto histórico.
-As mensagens aqui apresentadas foram psicografadas por Francisco Cândido Xavier, nosso querido Chico Xavier, e publicadas no jornal espírita
-, entre julho de 1928 e abril de 1933. Nesses primeiros anos, Chico Xavier era praticamente desconhecido fora das terras mineiras, onde começava a exercer a sua mediunidade. Vejamos a seguir o contexto histórico em que essas matérias foram produzidas.
-Um ano antes, em 1927, Chico Xavier conheceu a Doutrina Espírita. Em junho daquele ano, fundou o Centro Espírita Luiz Gonzaga, em Pedro Leopoldo, Minas Gerais, e em julho iniciou-se na psicografia. Nove meses depois de começar a psicografar, era publicado, em abril de 1928, a mensagem “Exultemos”, a primeira de mais de uma centena de mensagens que Chico Xavier publicou no jornal
-.
-Há registros de que foi por volta dessa época que outros jornais como
-, do Rio de Janeiro, e o
-, de Portugal, começaram a publicar mensagens do médium mineiro, como ocorreu no jornal
-.
-Ao longo desse período, em que foram publicadas as matérias no jornal
-, Chico Xavier publicou apenas os seus dois primeiros livros:
-, editado pela Federação Espírita Brasileira (FEB) em 1932, e
-, lançado pela Livraria Allan Kardec Editora (LAKE), no mesmo ano.
-Alguns livros contam como foi o processo para que essas mensagens viessem a ser publicadas no jornal
-, esse baluarte do Espiritismo, que à época em que as matérias de Chico Xavier foram publicadas tinha uma tiragem quinzenal de quarenta mil exemplares, tendo sido um dos maiores divulgadores do Espiritismo de seu tempo.
-O jornalista Marcel Souto Maior conta que muitas poesias de Chico Xavier não tinham dono, e o médium mineiro negava que elas fossem de sua autoria.
-n
-Os companheiros do centro espírita desejavam publicar as poesias, mas havia a questão de quem as assinaria. Foi então que decidiram pedir conselhos a Inácio Bittencourt, diretor do jornal
-, que decidiu que os poemas seriam publicados e que a identificação “F. XAVIER” seria colocada como assinatura, com o consentimento dos autores espirituais.
-Essa questão é bem significativa para este livro. Pois se ao longo de toda a sua vasta obra Chico Xavier sempre creditava as mensagens e poesias a um Espírito, nesta obra ocorre algo inédito, com algumas delas nitidamente indicando que foi ele mesmo quem as produziu. Nesse sentido, destaca-se a belíssima mensagem “
-Salve, Imortalidade!
-”, produzida por ocasião da desencarnação de Cidália, sua mãe adotiva, em que o médium, de inúmeras faculdades mediúnicas, descreve tudo que ele vê no momento derradeiro de Cidália nas paragens terrenas. Há também poesias que ele dedica a seus amigos, que certamente devem ser dele também. É o caso de “
-Surge et ambula!
-”, que ele dedica ao amigo José Hermínio Perácio, quem o introduziu na Doutrina Espírita; “
-Bendita a dor!
-”, que ele dedica a Inácio Bittencourt, que acabara de perder um filho; “
-Amar!
-”, que ele oferece a Vinícius (pseudônimo de Pedro de Camargo), outro colaborador do jornal
-, entre muitas outras, que eram mensagens afetivas, provavelmente de sua própria lavra. Havia também sonetos por ocasião do aniversário do
-, que também deviam ser seus. A maior parte das mensagens publicadas nesta obra é composta de poesias em forma de sonetos, quase sempre publicadas na primeira página do jornal. Mas há também material em prosa, os temas os mais pertinentes, como nas mensagens “
-A caridade
-”, “
-A harmonia
-”, “
-O caminho
-” e “
-Perdoar
-”. Na segunda parte da obra [1931-1933], os textos em prosa aparecem com maior frequência. Destacamos uma série de matérias sobre religião, como “
-Questão religiosa
-”, “
-Apascentar ovelhas
-”, “
-Igreja pequena
-” e “
-Jesus e o Catolicismo
-”. Há também matérias sobre diversos assuntos, como “
-Liberdade de consciência
-”, “
-O Espiritismo na atualidade
-”, “
-Época transitória
-”, “
-A lei da reencarnação
-”, entre outras. Os textos desta obra oferecem preciosas lições de vida, ora nos ensinando a aceitar e a bendizer o sofrimento e as dolorosas provas diárias, ora nos ensinando a levar uma vida verdadeiramente cristã e espírita, ora nos mostrando, por fim, a imortalidade da alma e quão breve é a nossa existência terrena perante a eternidade do tempo. Nela encontramos valiosos ensinamentos que nos impelem a uma vida edificante, certos de que a cada dia construímos a senda da nossa vida e que o nosso futuro dependerá das escolhas que fizermos no nosso dia a dia.
+As mensagens aqui apresentadas foram psicografadas por Francisco Cândido Xavier, nosso querido Chico Xavier, e publicadas no jornal espírita Aurora, entre julho de 1928 e abril de 1933. Nesses primeiros anos, Chico Xavier era praticamente desconhecido fora das terras mineiras, onde começava a exercer a sua mediunidade. Vejamos a seguir o contexto histórico em que essas matérias foram produzidas.
+Um ano antes, em 1927, Chico Xavier conheceu a Doutrina Espírita. Em junho daquele ano, fundou o Centro Espírita Luiz Gonzaga, em Pedro Leopoldo, Minas Gerais, e em julho iniciou-se na psicografia. Nove meses depois de começar a psicografar, era publicado, em abril de 1928, a mensagem “Exultemos”, a primeira de mais de uma centena de mensagens que Chico Xavier publicou no jornal Aurora.
+Há registros de que foi por volta dessa época que outros jornais como O Jornal, do Rio de Janeiro, e o Almanaque de Notícias, de Portugal, começaram a publicar mensagens do médium mineiro, como ocorreu no jornal Aurora.
+Ao longo desse período, em que foram publicadas as matérias no jornal Aurora, Chico Xavier publicou apenas os seus dois primeiros livros: Parnaso de além-túmulo, editado pela Federação Espírita Brasileira (FEB) em 1932, e Cartas de uma morta, lançado pela Livraria Allan Kardec Editora (LAKE), no mesmo ano.
+Alguns livros contam como foi o processo para que essas mensagens viessem a ser publicadas no jornal Aurora, esse baluarte do Espiritismo, que à época em que as matérias de Chico Xavier foram publicadas tinha uma tiragem quinzenal de quarenta mil exemplares, tendo sido um dos maiores divulgadores do Espiritismo de seu tempo.
+O jornalista Marcel Souto Maior conta que muitas poesias de Chico Xavier não tinham dono, e o médium mineiro negava que elas fossem de sua autoria. n Os companheiros do centro espírita desejavam publicar as poesias, mas havia a questão de quem as assinaria. Foi então que decidiram pedir conselhos a Inácio Bittencourt, diretor do jornal Aurora, que decidiu que os poemas seriam publicados e que a identificação “F. XAVIER” seria colocada como assinatura, com o consentimento dos autores espirituais.
+Essa questão é bem significativa para este livro. Pois se ao longo de toda a sua vasta obra Chico Xavier sempre creditava as mensagens e poesias a um Espírito, nesta obra ocorre algo inédito, com algumas delas nitidamente indicando que foi ele mesmo quem as produziu. Nesse sentido, destaca-se a belíssima mensagem “Salve, Imortalidade!”, produzida por ocasião da desencarnação de Cidália, sua mãe adotiva, em que o médium, de inúmeras faculdades mediúnicas, descreve tudo que ele vê no momento derradeiro de Cidália nas paragens terrenas. Há também poesias que ele dedica a seus amigos, que certamente devem ser dele também. É o caso de “Surge et ambula!”, que ele dedica ao amigo José Hermínio Perácio, quem o introduziu na Doutrina Espírita; “Bendita a dor!”, que ele dedica a Inácio Bittencourt, que acabara de perder um filho; “Amar!”, que ele oferece a Vinícius (pseudônimo de Pedro de Camargo), outro colaborador do jornal Aurora, entre muitas outras, que eram mensagens afetivas, provavelmente de sua própria lavra. Havia também sonetos por ocasião do aniversário do Aurora, que também deviam ser seus. A maior parte das mensagens publicadas nesta obra é composta de poesias em forma de sonetos, quase sempre publicadas na primeira página do jornal. Mas há também material em prosa, os temas os mais pertinentes, como nas mensagens “A caridade”, “A harmonia”, “O caminho” e “Perdoar”. Na segunda parte da obra [1931-1933], os textos em prosa aparecem com maior frequência. Destacamos uma série de matérias sobre religião, como “Questão religiosa”, “Apascentar ovelhas”, “Igreja pequena” e “Jesus e o Catolicismo”. Há também matérias sobre diversos assuntos, como “Liberdade de consciência”, “O Espiritismo na atualidade”, “Época transitória”, “A lei da reencarnação”, entre outras. Os textos desta obra oferecem preciosas lições de vida, ora nos ensinando a aceitar e a bendizer o sofrimento e as dolorosas provas diárias, ora nos ensinando a levar uma vida verdadeiramente cristã e espírita, ora nos mostrando, por fim, a imortalidade da alma e quão breve é a nossa existência terrena perante a eternidade do tempo. Nela encontramos valiosos ensinamentos que nos impelem a uma vida edificante, certos de que a cada dia construímos a senda da nossa vida e que o nosso futuro dependerá das escolhas que fizermos no nosso dia a dia.
 
 ---
 
-## Homenagem — Nos 10 anos da desencarnação de Francisco Cândido Xavier
-
-
-
----
-
-## Apresentação
-
-Chico Xavier era ainda um jovem iniciante na Doutrina dos Espíritos quando escreve e ou psicografou as páginas aqui colecionadas, enviadas por ele mesmo para publicação no jornal
-, do Rio de Janeiro, então dirigido por Inácio Bittencourt, o notável açoreano que, emigrado para o Brasil, tornara-se dedicado servidor das lides espiritistas cariocas como médium, orador, jornalista e fundador de diversas de suas instituições espíritas.
-O jornal
-fora por ele fundado em 1° de maio de 1912-13, permanecendo na sua direção por 30 anos, até 1942. Chico Xavier tornara-se-lhe um ativo colaborador doutrinário, não somente enviando-lhe suas magníficas produções mediúnicas, mas também acrescentando seus próprios comentários evangélico-doutrinários, ou ainda as próprias produções de sua lúcida lavra poética entre os idos de 1928 e 1933. Dentre estas últimas destaca-se a que inserimos aqui como prefácio, no original da letra de Chico Xavier, que o médium mineiro dedicou a Inácio Bittencourt quando lhe pereceu o filho, a qual recebeu o expressivo título “
-Bendita a dor!
-”.
-n
-É de notar-se a maturidade intelecto-moral do jovem Francisco de Paula Cândido, ou simplesmente “F. Xavier”, como costumava assinar as produções, a prenunciar a vigorosa personalidade que se faria nos anos vindouros em luminosa ponte mental unindo, de forma inconteste, os Planos físico e espiritual, materializando por seu intermédio a grande obra da complementação basilar da codificação espírita cristã no século XX de nossa era.
-Não foi sem razão que o extraordinário médium de Belo Horizonte, Paschoal Comanducci, ao orientar o casal José Hermínio e Carmen Perácio a se mudar para Pedro Leopoldo, para secundar e apoiar a obra que se iniciava em torno de Chico Xavier, afirmara em tom profético e com assombroso acerto: “Chico Xavier possui recursos mediúnicos múltiplos. Está cercado de falanges tão poderosas como as que assistiam Jesus. Esse menino assombrará o mundo. Escreverá mediunicamente centenas de livros e será intransigente defensor e divulgador do Espiritismo, codificado por Allan Kardec. Viverá muito. Desencarnado, não terá substitutos. Da mesma forma que Jesus, Chico é único no planeta. Só ele, em encarnação posterior, poderá retomar o leme e dar continuidade à obra específica que lhe foi confiada pelo Altíssimo.”
-n
-Retomando a linha da história, em 29 de março de 1930 Chico Xavier recebe em Pedro Leopoldo uma carta de Manuel Quintão, diretor da Federação Espírita Brasileira (FEB), na qual o ilustre pioneiro expressa-se surpreso: “Tenho lido e apreciado as suas produções poéticas no
-e o concito a prosseguir assim, com independência e desassombro, para firmar a sua individualidade literária.”
-Pouco mais de um ano depois, em 21 de abril de 1931, Quintão escreve novamente: “Tenho lido sempre com satisfação as suas produções poéticas e aproveito o ensejo para pedir-lhe alguma coisa para o nosso
-.” Mais adiante, em 22 de setembro de 1931, já mudando de enfoque, Manuel Quintão, entusiasmado, afirma: “O que eu não creio é que tais versos sejam originariamente seus.” (…) “Sugestão? Sim, tudo é sugestão, mas bem entendido, sugestão mediúnica!”
-Em seguida, vem convidá-lo a separar produções para o projeto de um futuro livro, segundo Quintão “destinado a correr não só como expoente da arte, como de prova robusta da sobrevivência dos artistas”.
-Em 17 de outubro do mesmo ano, Quintão volta a escrever a Chico Xavier, dizendo-lhe haver mostrado as poesias aos confrades Leôncio Correa, Leal de Buzal, Guillion Ribeiro e a Antônio Lima, este último fervoroso cultor dos poetas portugueses, para, enfim, concluir: “Todos estamos de acordo sobre a sua origem mediúnica e perfeita identidade. (…) Para mim não há resquício de dúvida sobre a legitimidade do fenômeno (mediúnico) e a identidade dos autores” (espirituais).
-Exatamente em 2 de abril de 1932, quando o jovem Chico completava apenas 22 anos na nova existência, Manuel Quintão lhe escrevia do Rio de Janeiro trazendo conclusivas notícias acerca da primeira publicação de um livro de sua mediunidade, que viria a ser o
-, cuja primeira edição foi assentada em 2.000 exemplares e viria a circular no mês de junho de 1932, através da FEB.
-Esse, prezado leitor, é o ambiente de simplicidade e esforço, de fé e esperança, de dúvidas e certezas, de amizades e estímulos santos a sedimentar na alma cândida e operosa de Chico Xavier o fenômeno espetacular da aurora de sua mediunidade entre os Céus e a Terra. Esse o ambiente mental e emotivo em que o jovem Chico vivia ao produzir os poemas e textos aqui apresentados. Desde então uma ponte de luz se pavimentou em definitivo para a história da humanidade e por ela passariam, em quase oito décadas seguintes, grandes luminares da vida espiritual, muitas vezes protegidos no anonimato dos pseudônimos.
-Agradecemos ao jornalista João Marcos Weguelin o excelente trabalho de garimpagem do ouro puro dessas produções espirituais, em sua grande maioria ainda inéditas do ponto de vista editorial.
-Mais uma vez a Vinha de Luz Editora, da Casa de Chico Xavier de Pedro Leopoldo, é o veículo escolhido pela Espiritualidade Maior para materializar essas verdadeiras joias esquecidas pela poeira dos anos incessantes, mostrando-nos que mesmo depois de 10 anos de sua desencarnação, a ser lembrada na próxima data de 30 de junho deste 2012, Chico Xavier continua trabalhando, semeando livros, instruindo e esclarecendo os homens em nome do Consolador prometido pelo Cristo de Deus.
-A Cidália Xavier de Carvalho, a única irmã de sangue de Chico Xavier ainda encarnada entre nós em Pedro Leopoldo, e a Caio Ramacciotti, do Grupo Espírita Emmanuel (GEEM) de São Bernardo do Campo, São Paulo, aos quais devemos tanta bondade, nossa gratidão por permitir-nos a edição deste livro.
-A Chico Xavier dedicamos este seu 465° livro publicado, e ousando parafrasear o
-penúltimo parágrafo
-dos
-de
-de Allan Kardec, a comunidade espírita de sua cidade natal exclama com alma e vida, satisfeita e feliz por tê-lo como filho ilustre do coração das Minas Gerais, no coração do Brasil, a pátria do Evangelho de Jesus na face da Terra dos homens: “Com perseverança chegaste a colher os frutos de teus trabalhos”. Imaginamos o prazer que experimentas hoje, vendo a Doutrina Espírita propagar-se em multimídia, e sendo bem compreendida pelo coração do povo que tanto amaste e acolheste com tua renúncia, humildade e amor. Esta talvez seja a real recompensa que bem mereces desfrutar e cujo valor integral somente tu, Chico Xavier, podes conhecer no tempo futuro, que se fez eterno presente de Deus. Os espinhos e as pedras que os incrédulos e maus semearam em teu caminho passaram com a rapidez de teu silêncio e a sabedoria de tua tolerância, porque não te inquietaste em vão. Chegaste ao fim da jornada humana na companhia daquela que nunca te faltou — a confiança no Pai — e por ela merecerás ser sempre ajudado, pois, contrariando todas as apostas estorvantes, provaste que Deus pôde servir-Se de tua lucidez para fazer com que nós, os homens terrenos, compreendêssemos a luz que emana por de sob o véu da verdade que ajudaste a levantar para sempre!
-Querido amigo Chico, alma cândida e bela, luz de nossas vidas, Deus te pague e abençoe, assim agora como para todo o sempre!
-Assim seja!
-
----
-
-## Dedicatória — A Francisco Cândido Xavier e Inácio Bittencourt
-
-Em profundo agradecimento e respeito por suas vidas luminosas, que nos legaram tantas páginas edificantes de paz, de luz, de consolação e de ensinamento.
-
----
-
-## 1 — Exultemos
+## 1
 
 > | 16 de julho de 1928.
 
-A qualquer hora ou a qualquer dia da nossa existência, em que sentirmos cravado no nosso peito, lacerando-o, arrebatando-nos todas as alegrias, o punhal aguçado da dor — a cultivadora de almas —, exultemos de contentamento e prazer!
-Regozijemo-nos, pois é nesse instante solene que soa para os nossos Espíritos desterrados a alvorada do progresso — manhã de luz e de amor!
-É nessa hora sublime que as nossas almas ascendem ao trono do Senhor do Universo, escalando o Infinito, buscando a verdadeira pátria, num grito angustiado que os nossos corações são impotentes para sufocar.
-E, então, na nossa mente, como se desfizessem cerradas brumas ao calor do sol vivificante, recordamos, nós, os exilados da Terra, que devemos obediência ao Pai de Infinita Misericórdia, de imensa justiça e incomensurável amor, que é Deus!
-Irmãos, recebamos a dor com a resignação dos mártires, pois ela é o orvalho bendito que, rociando os Espíritos, torna-os quais flores viçosas e perfumadas.
-Ela é a mensageira da luz! Aceitemo-la, pois, genuflexos, com os olhos fitos no céu e o coração cheio de fé.
-Recebamo-la tranquilos, exultando de alegria, porque ela é a escada luminosa que o Soberano do Amor estende aos nossos pobres Espíritos náufragos da Terra — para que subamos às moradas felizes, onde só impera o amor!
-Recebamo-la cônscios de que ela é a chuva de bênçãos dulcificantes do Senhor do Universo. Exultemos, pois!
+1 A qualquer hora ou a qualquer dia da nossa existência, em que sentirmos cravado no nosso peito, lacerando-o, arrebatando-nos todas as alegrias, o punhal aguçado da dor — a cultivadora de almas —, exultemos de contentamento e prazer! 2 Regozijemo-nos, pois é nesse instante solene que soa para os nossos Espíritos desterrados a alvorada do progresso — manhã de luz e de amor! 3 É nessa hora sublime que as nossas almas ascendem ao trono do Senhor do Universo, escalando o Infinito, buscando a verdadeira pátria, num grito angustiado que os nossos corações são impotentes para sufocar. 4 E, então, na nossa mente, como se desfizessem cerradas brumas ao calor do sol vivificante, recordamos, nós, os exilados da Terra, que devemos obediência ao Pai de Infinita Misericórdia, de imensa justiça e incomensurável amor, que é Deus!
+5 Irmãos, recebamos a dor com a resignação dos mártires, pois ela é o orvalho bendito que, rociando os Espíritos, torna-os quais flores viçosas e perfumadas. 6 Ela é a mensageira da luz! Aceitemo-la, pois, genuflexos, com os olhos fitos no céu e o coração cheio de fé. 7 Recebamo-la tranquilos, exultando de alegria, porque ela é a escada luminosa que o Soberano do Amor estende aos nossos pobres Espíritos náufragos da Terra — para que subamos às moradas felizes, onde só impera o amor! 8 Recebamo-la cônscios de que ela é a chuva de bênçãos dulcificantes do Senhor do Universo. Exultemos, pois!
 
 ---
 
-## 2 — Avante!
+## 2
 
 > | 16 de agosto de 1928.
 
-Ó vós, os que buscais o extenso mar da vida
-O porto do descanso — um pouco de ventura,
-Ó não vos importeis com uma ilusão perdida
-E nem deveis chorar a gélida amargura!
-Chorar? Para que chorar se a vida é uma corrida,
-Um momento fugaz e que tão pouco dura?
-Para que lamentar se a nossa grande lida
-É o cadinho febril que torna a alma pura?
-Para que desmanchar em prantos dolorosos
-Os nossos ideais e os dias tão formosos,
-Nos quais sonhamos em esperança e luz?
-Ó, não, não acabeis com a vossa vida bela,
-Pois cada uma alma tem uma brilhante estrela,
-Que a fortalece e anima, ampara e conduz.
+1 Ó vós, os que buscais o extenso mar da vida O porto do descanso — um pouco de ventura, Ó não vos importeis com uma ilusão perdida E nem deveis chorar a gélida amargura!
+2 Chorar? Para que chorar se a vida é uma corrida, Um momento fugaz e que tão pouco dura? Para que lamentar se a nossa grande lida É o cadinho febril que torna a alma pura?
+3 Para que desmanchar em prantos dolorosos Os nossos ideais e os dias tão formosos, Nos quais sonhamos em esperança e luz?
+4 Ó, não, não acabeis com a vossa vida bela, Pois cada uma alma tem uma brilhante estrela, Que a fortalece e anima, ampara e conduz.
 
 ---
 
-## 3 — Renascer…
+## 3
 
 > | 3 de outubro de 1928.
 
-Renascer… Eis a vida, o progresso incessante,
-O eterno evoluir, eis a lei do Criador!
-Eis o Mestre — Jesus — como luz rutilante,
-O ensino imortal do Evangelho do amor!
-Renascer… Eis a lei, imutável, constante,
-Pela qual o nosso “eu”, no cadinho da dor,
-Em sublime ascensão pela luz deslumbrante
-Subirá para Deus, nosso Pai e Senhor!
-Renascer… Eis a luz, eis as almas reunidas
-No contínuo evoluir, nessas múltiplas vidas,
-Que o Senhor nos concede — amoroso perdão!
-Renascer… Eis o sol, sempre claro e bendito
-Dessa aurora a raiar na amplidão do Infinito,
-Apontando, a brilhar, essa luz — perfeição!
+1 Renascer… Eis a vida, o progresso incessante, O eterno evoluir, eis a lei do Criador! Eis o Mestre — Jesus — como luz rutilante, O ensino imortal do Evangelho do amor!
+2 Renascer… Eis a lei, imutável, constante, Pela qual o nosso “eu”, no cadinho da dor, Em sublime ascensão pela luz deslumbrante Subirá para Deus, nosso Pai e Senhor!
+3 Renascer… Eis a luz, eis as almas reunidas No contínuo evoluir, nessas múltiplas vidas, Que o Senhor nos concede — amoroso perdão!
+4 Renascer… Eis o sol, sempre claro e bendito Dessa aurora a raiar na amplidão do Infinito, Apontando, a brilhar, essa luz — perfeição!
 
 ---
 
-## 4 — Divagando
+## 4
 
 > | 16 de novembro de 1928.
 
-Prece! Doce alívio das almas sofredoras!
-Oásis divino, onde os Espíritos, sofregamente, procuram o repouso.
-Fonte inexaurível, onde se bebe a linfa cristalina e pura que fortalece os corações para resistirem, vitoriosos, aos embates furiosos do mar tempestuoso de uma vida de expiação!
-Prece! Estrela radiosa que fulge no coração da alma crente, tu és o traço sublime que une a Terra ao Céu, a criatura ao seu Criador!
-És a música celestial e divina que se eleva, puríssima, ao Todo-Poderoso! És a flor de luz, cujo perfume embriagador ascende ao espaço infinito, aromatizando os caminhos que conduzem a Jesus!
-Prece! Tu és a mais excelsa expressão do pensamento humano — és a centelha divina que ilumina o recôndito dos corações repletos do verdadeiro amor!
+1 Prece! Doce alívio das almas sofredoras! 2 Oásis divino, onde os Espíritos, sofregamente, procuram o repouso. 3 Fonte inexaurível, onde se bebe a linfa cristalina e pura que fortalece os corações para resistirem, vitoriosos, aos embates furiosos do mar tempestuoso de uma vida de expiação!
+4 Prece! Estrela radiosa que fulge no coração da alma crente, tu és o traço sublime que une a Terra ao Céu, a criatura ao seu Criador!
+5 És a música celestial e divina que se eleva, puríssima, ao Todo-Poderoso! És a flor de luz, cujo perfume embriagador ascende ao espaço infinito, aromatizando os caminhos que conduzem a Jesus!
+6 Prece! Tu és a mais excelsa expressão do pensamento humano — és a centelha divina que ilumina o recôndito dos corações repletos do verdadeiro amor!
 
 ---
 
-## 5 — “Surge et ambula!”
+## 5
 
 > | 1º de dezembro de 1928.
 
-Desperta, humanidade! Acorda do negror
-Que o véu da ignorância a luz te enegrecia!
-Desperta para a vida, acorda para o amor,
-Vem contemplar também a luz do eterno dia!
-Despedaça o grilhão que te retém na dor!
-Caminha para a luz que tanto te inebria
-E verás de Jesus, em magno esplendor,
-O reinado do amor, da bondade e alegria!
-Eis que o Consolador — mensageiro sublime,
-Com a bênção de amor te depura e redime,
-Inundando-te o ser com o dulçor do perdão!
-Desperta do teu sono, ó louca humanidade,
-E caminha, afinal, à luz da Eternidade
-Nessa aurora eternal da tua redenção!
+1 Desperta, humanidade! Acorda do negror Que o véu da ignorância a luz te enegrecia! Desperta para a vida, acorda para o amor, Vem contemplar também a luz do eterno dia!
+2 Despedaça o grilhão que te retém na dor! Caminha para a luz que tanto te inebria E verás de Jesus, em magno esplendor, O reinado do amor, da bondade e alegria!
+3 Eis que o Consolador — mensageiro sublime, Com a bênção de amor te depura e redime, Inundando-te o ser com o dulçor do perdão!
+4 Desperta do teu sono, ó louca humanidade, E caminha, afinal, à luz da Eternidade Nessa aurora eternal da tua redenção!
 
 ---
 
-## 6 — Prece
+## 6
 
 > | 16 de dezembro de 1928.
 
-Jesus! Tu és o lírio esplendoroso,
-Flor de pureza e luz imaculada!
-Perante ti minh’alma prosternada
-Enche de luz o seu viver trevoso.
-Ao teu amor- rocio milagroso
-Purifica-se a alma enodoada!
-Dá-me, pois, que na minha triste estrada
-Vislumbre o teu amor maravilhoso!
-Do tenebroso abismo do pecado
-Arranca-me, ó Jesus, ó Mestre amado,
-E guia-me ao teu seio pela dor!
-Ampara-me na luta desta vida
-Para depois, minh’alma redimida,
-Repousar docemente em teu amor!
+1 Jesus! Tu és o lírio esplendoroso, Flor de pureza e luz imaculada! Perante ti minh’alma prosternada Enche de luz o seu viver trevoso.
+2 Ao teu amor- rocio milagroso Purifica-se a alma enodoada! Dá-me, pois, que na minha triste estrada Vislumbre o teu amor maravilhoso!
+3 Do tenebroso abismo do pecado Arranca-me, ó Jesus, ó Mestre amado, E guia-me ao teu seio pela dor!
+4 Ampara-me na luta desta vida Para depois, minh’alma redimida, Repousar docemente em teu amor!
 
 ---
 
-## 7 — Bendita a dor!
+## 7
 
 > | 16 de janeiro de 1929.
 
-Bendita seja a vida — este clarão potente,
-Que irrompe em nosso ser em ânsia esplendorosa!
-E bendita a esperança — a aurora refulgente —,
-Que faz a nossa vida imensidade em rosa!
-Bendita seja a flor, o sol onipotente,
-A seara feliz, a estrela luminosa,
-O mar, o ninho, o lar, o arbusto sorridente,
-A beleza da vida, encantada e formosa!
-Mais bendita, afinal, seja a dor — luz eterna!
-Dessa aurora a fulgir, majestosa e suprema,
-Mensageira de amor, que ao bom Deus nos conduz!
-Bendita seja a dor, o pranto, as amarguras,
-A lágrima, o sacrifício, as grandes desventuras,
-Pois foram neste mundo as flores de Jesus!
+1 Bendita seja a vida — este clarão potente, Que irrompe em nosso ser em ânsia esplendorosa! E bendita a esperança — a aurora refulgente —, Que faz a nossa vida imensidade em rosa!
+2 Bendita seja a flor, o sol onipotente, A seara feliz, a estrela luminosa, O mar, o ninho, o lar, o arbusto sorridente, A beleza da vida, encantada e formosa!
+3 Mais bendita, afinal, seja a dor — luz eterna! Dessa aurora a fulgir, majestosa e suprema, Mensageira de amor, que ao bom Deus nos conduz!
+4 Bendita seja a dor, o pranto, as amarguras, A lágrima, o sacrifício, as grandes desventuras, Pois foram neste mundo as flores de Jesus!
 
 ---
 
-## 8 — Amar!
+## 8
 
 > | 16 de fevereiro de 1929.
 
-Amar é repartir a alma em bocadinhos,
-Amar é ter na vida um mundo de doçura,
-É encher o coração de ardores, de carinhos,
-É ter dentro do peito as flores da ternura!
-Amar é não sentir as pedras dos caminhos,
-Amar é transformar as dores em ventura,
-É evitar para outra alma os ásperos espinhos
-Desta horrenda caudal da vida de amargura!
-Amar é bendizer as dores do viver,
-Perdoar o ofensor, minorar o sofrer
-Daquele que entrevê das dores o rigor!
-Amar é ser no mundo a rosa perfumada,
-Sobretudo ser bom, ser alma abnegada,
-Pois é no sacrifício o verdadeiro amor!
+1 Amar é repartir a alma em bocadinhos, Amar é ter na vida um mundo de doçura, É encher o coração de ardores, de carinhos, É ter dentro do peito as flores da ternura!
+2 Amar é não sentir as pedras dos caminhos, Amar é transformar as dores em ventura, É evitar para outra alma os ásperos espinhos Desta horrenda caudal da vida de amargura!
+3 Amar é bendizer as dores do viver, Perdoar o ofensor, minorar o sofrer Daquele que entrevê das dores o rigor!
+4 Amar é ser no mundo a rosa perfumada, Sobretudo ser bom, ser alma abnegada, Pois é no sacrifício o verdadeiro amor!
 
 ---
 
-## 9 — Progredir
+## 9
 
 > | 16 de abril de 1929.
 
-Sobre a arena da vida, em ânsias de amarguras,
-Nos prélios colossais da dor e do prazer,
-Podemos observar as míseras criaturas
-Entre os risos em flor e as mágoas do sofrer!
-Em lágrimas de dor, em risos de doçuras,
-Na batalha feroz das ânsias de viver,
-A humanidade luta em busca de venturas,
-Amando e desprezando a vida até morrer!
-E depois de entregar à terra benfazeja
-O corpo material, a alma só deseja
-Novamente lutar pelo bem do porvir!
-Trabalhar e sofrer — em mil lutas, mil dores,
-Eis que nisso consiste os sorrisos e as flores,
-E a beleza triunfal desta lei: progredir!
+1 Sobre a arena da vida, em ânsias de amarguras, Nos prélios colossais da dor e do prazer, Podemos observar as míseras criaturas Entre os risos em flor e as mágoas do sofrer!
+2 Em lágrimas de dor, em risos de doçuras, Na batalha feroz das ânsias de viver, A humanidade luta em busca de venturas, Amando e desprezando a vida até morrer!
+3 E depois de entregar à terra benfazeja O corpo material, a alma só deseja Novamente lutar pelo bem do porvir!
+4 Trabalhar e sofrer — em mil lutas, mil dores, Eis que nisso consiste os sorrisos e as flores, E a beleza triunfal desta lei: progredir!
 
 ---
 
-## 10 — A humildade
+## 10
 
 > | 1º de maio de 1929.
 
@@ -326,1494 +174,888 @@ Não é sem trabalho que podemos aclimatar em nosso Espírito esta flor maravilh
 
 ---
 
-## 11 — Bem-aventurados!
+## 11
 
 > | 16 de maio de 1929.
 
-Ó vós, que conheceis da vida o travo rude,
-Que na boca ostentais os risos vaporosos,
-Trazendo o coração em prantos dolorosos,
-Eu vos amo e bendigo, ó filhos da virtude!
-Ó vós, que suportais a dor sem que não mude
-Vossa fé divinal nos surtos majestosos,
-Que mudais o sofrer em dias bonançosos,
-Que fazeis do amargor os cantos do alaúde,
-Eu vos bendigo, pois, ó filhos da humildade,
-Que transbordais amor nas rosas da bondade,
-Que trescalais perfumes em flores do sofrer,
-Sois no mundo os fanais das luzes redentoras,
-Sois os grandes heróis das lutas salvadoras,
-Que na vida triunfais das dores do dever!
+1 Ó vós, que conheceis da vida o travo rude, Que na boca ostentais os risos vaporosos, Trazendo o coração em prantos dolorosos, Eu vos amo e bendigo, ó filhos da virtude!
+2 Ó vós, que suportais a dor sem que não mude Vossa fé divinal nos surtos majestosos, Que mudais o sofrer em dias bonançosos, Que fazeis do amargor os cantos do alaúde,
+3 Eu vos bendigo, pois, ó filhos da humildade, Que transbordais amor nas rosas da bondade, Que trescalais perfumes em flores do sofrer,
+4 Sois no mundo os fanais das luzes redentoras, Sois os grandes heróis das lutas salvadoras, Que na vida triunfais das dores do dever!
 
 ---
 
-## 12 — A paz
+## 12
 
 > | 16 de maio de 1929.
 
-Esforçarmo-nos com a maior persistência pela paz deve ser um dos anelos mais sãos do coração humano!
-Muitas vezes um pequenino conselho moldado dentro dos ensinamentos de Jesus exerce tanta influência benéfica que se torna um mensageiro de paz a dezenas de criaturas que se achavam submergidas nas nuvens negras das tempestades morais.
-Sempre, em torno do meio em que vivemos, devemos insuflar ideias sãs e bons pensamentos, pois será da tranquilidade dos lares que nascerá a nova era de paz para a humanidade.
+1 Esforçarmo-nos com a maior persistência pela paz deve ser um dos anelos mais sãos do coração humano! 2 Muitas vezes um pequenino conselho moldado dentro dos ensinamentos de Jesus exerce tanta influência benéfica que se torna um mensageiro de paz a dezenas de criaturas que se achavam submergidas nas nuvens negras das tempestades morais.
+3 Sempre, em torno do meio em que vivemos, devemos insuflar ideias sãs e bons pensamentos, pois será da tranquilidade dos lares que nascerá a nova era de paz para a humanidade.
 
 ---
 
-## 13 — Cegos d’alma
+## 13
 
 > | 1º de julho de 1929.
 
-Ó vós, que tendes n’alma as trevas da cegueira,
-Cegos d’alma sem luz — corações sem calor,
-Que na Terra passais nesta vida ligeira
-A trazer dentro da alma o acicate da dor!
-Impiedosos ateus — multidão verdadeira
-De descrentes da vida a negar o Criador,
-Rejeitais da Criação, nessa ideia altaneira,
-A existência de Deus — sumo artista do amor!
-Orgulhosos que sois, corifeus da descrença,
-Que no peito trazeis uma dor mais intensa
-Do que a dor de nascer com a cegueira nos olhos,
-Vivereis sem amor sem luz, sem guarida,
-Pois sem Deus vós sereis tristes cegos da vida,
-Sempre e sempre a encontrar pontiagudos abrolhos!
+1 Ó vós, que tendes n’alma as trevas da cegueira, Cegos d’alma sem luz — corações sem calor, Que na Terra passais nesta vida ligeira A trazer dentro da alma o acicate da dor!
+2 Impiedosos ateus — multidão verdadeira De descrentes da vida a negar o Criador, Rejeitais da Criação, nessa ideia altaneira, A existência de Deus — sumo artista do amor!
+3 Orgulhosos que sois, corifeus da descrença, Que no peito trazeis uma dor mais intensa Do que a dor de nascer com a cegueira nos olhos,
+4 Vivereis sem amor sem luz, sem guarida, Pois sem Deus vós sereis tristes cegos da vida, Sempre e sempre a encontrar pontiagudos abrolhos!
 
 ---
 
-## 14 — A caridade
+## 14
 
 > | 1º de julho de 1929.
 
-A caridade é o amor divino nas suas mais excelsas manifestações. É a seara magnificente das bênçãos dulcificantes de Deus.
-“Fora da caridade não há salvação”
-— eis o augusto frontispício desta grandiosa doutrina que é o Espiritismo e que será futuramente a filosofia universal. E o será, porque a sua base indestrutível apoia-se sobre essa virtude deificada, a maior de todas as virtudes! Será a mais sublime das religiões, porque é fundada sobre os ensinamentos do Cristo, interpretados fielmente pelos mensageiros da verdade, que são os espíritos do Senhor!
+1 A caridade é o amor divino nas suas mais excelsas manifestações. É a seara magnificente das bênçãos dulcificantes de Deus.
+“Fora da caridade não há salvação” ( † ) — eis o augusto frontispício desta grandiosa doutrina que é o Espiritismo e que será futuramente a filosofia universal. E o será, porque a sua base indestrutível apoia-se sobre essa virtude deificada, a maior de todas as virtudes! Será a mais sublime das religiões, porque é fundada sobre os ensinamentos do Cristo, interpretados fielmente pelos mensageiros da verdade, que são os espíritos do Senhor!
 A caridade é a luz fulgurante que se aninha no âmago dos corações daqueles que são os verdadeiros discípulos do Mestre! Somente pela caridade poderemos redimir as nossas almas ergastuladas na Terra; só essa virtude sacrossanta — anjo puríssimo do amor — será o nosso guia verdadeiro, iluminando a estrada do bem que devemos trilhar; só ela nos fará sentir a felicidade sem mescla, prodigalizando-nos os seus eflúvios dulcíssimos, que suavizarão as dores da nossa alma, preparando-nos para a excelsa ventura de uma vida melhor, onde os anelos frequentes dos nossos Espíritos fortificados pela esperança serão realizados para a completa beleza do nosso ideal insatisfeito na Terra!
 
 ---
 
-## 15 — Ser bom
+## 15
 
 > | 16 de julho de 1929.
 
-A glória de ser bom é a glória do Universo.
-É a conquista do amor, em surtos peregrinos!
-Ser bom é ser a luz que, em fachos purpurinos,
-Aclara o coração nas trevas, submerso!
-Ser bom é se elevar aos páramos divinos,
-Onde o nosso viver tem curso bem diverso,
-Onde o amor do bom Deus é fúlgido, disperso,
-Quebrantando o amargor dos lúridos destinos!
-Ser bom é ultrapassar as raias da ventura,
-Sobrepor-se, afinal, à humana criatura
-A trazer para sempre a alma redimida.
-A glória de ser bom é a verdadeira glória!
-É atingir o ideal, alcançando a vitória,
-A vitória da luz na conquista da vida.
+1 A glória de ser bom é a glória do Universo. É a conquista do amor, em surtos peregrinos! Ser bom é ser a luz que, em fachos purpurinos, Aclara o coração nas trevas, submerso!
+2 Ser bom é se elevar aos páramos divinos, Onde o nosso viver tem curso bem diverso, Onde o amor do bom Deus é fúlgido, disperso, Quebrantando o amargor dos lúridos destinos!
+3 Ser bom é ultrapassar as raias da ventura, Sobrepor-se, afinal, à humana criatura A trazer para sempre a alma redimida.
+4 A glória de ser bom é a verdadeira glória! É atingir o ideal, alcançando a vitória, A vitória da luz na conquista da vida.
 
 ---
 
-## 16 — A felicidade
+## 16
 
 > | 1º de agosto de 1929.
 
-A ventura consiste, nesta vida,
-Não nos gozos falazes da matéria,
-Nem nos risos terrenos que é a miséria,
-Ironia da carne apodrecida.
-Mas na alma luzente, enflorecida,
-Consciência sem mancha deletéria,
-Nesta estância da dor — fria Sibéria —,
-Onde a alma trabalha, ensandecida.
-A ventura sem mescla não consiste
-Na alegria da Terra, ainda mais triste
-Do que as noites sem luz, em seu trevor.
-Só seremos, de fato, venturosos
-Quando formos Espíritos bondosos,
-Verdadeiros adeptos do amor.
+1 A ventura consiste, nesta vida, Não nos gozos falazes da matéria, Nem nos risos terrenos que é a miséria, Ironia da carne apodrecida.
+2 Mas na alma luzente, enflorecida, Consciência sem mancha deletéria, Nesta estância da dor — fria Sibéria —, Onde a alma trabalha, ensandecida.
+3 A ventura sem mescla não consiste Na alegria da Terra, ainda mais triste Do que as noites sem luz, em seu trevor.
+4 Só seremos, de fato, venturosos Quando formos Espíritos bondosos, Verdadeiros adeptos do amor.
 
 ---
 
-## 17 — A harmonia
+## 17
 
 > | 1º de agosto de 1929.
 
-A harmonia é o amor quase que indefinível que se apodera dos nossos Espíritos maravilhados ao compreenderem o Infinito!
-
-A nossa alma, não afeita a emoções dessa natureza, sente então, no âmago do ser, essa vibração ignota e desconhecida, que nos predispõe a um amor por todas as coisas que nos rodeiam e contemplamos extasiados, cheios de profunda admiração, do microscópico grão de areia ao incomensurável oceano, obras perfeitas de Deus, obras-primas da vida, que a ideia rudimentar do homem jamais seria capaz de idealizar!
-
-Nesses instantes, de inefável felicidade para nós, quando esquecemos momentaneamente as preocupações terrenas que nos absorvem, mergulhamos o nosso Espírito nessas dúlcidas vibrações, em que as nossas almas participam da alegria maravilhosa, que anda esparsa na natureza, alegria essa que o Excelso Artista do Cosmos depositou em cada átomo de vida e que se infiltra em nosso “eu” como a água purificadora de fonte inexaurível!
-
-Os nossos corações pulsam de vida nova e a nossa alma encarcerada na Terra parece alar às regiões eterizadas do Azul, procurando o Criador nestas ânsias sublimes que agitam os seres e os mundos!
-
-A harmonia é o equilíbrio perfeito do amor divino, disseminado em todos os viventes que palpitam de vida, em toda a extensão dos sentimentos mais puros!
-
-Harmonia! Eis o ritmo maravilhoso do Universo, o contato bendito da criatura com o seu Criador!
+1 A harmonia é o amor quase que indefinível que se apodera dos nossos Espíritos maravilhados ao compreenderem o Infinito!
+2 A nossa alma, não afeita a emoções dessa natureza, sente então, no âmago do ser, essa vibração ignota e desconhecida, que nos predispõe a um amor por todas as coisas que nos rodeiam e contemplamos extasiados, cheios de profunda admiração, do microscópico grão de areia ao incomensurável oceano, obras perfeitas de Deus, obras-primas da vida, que a ideia rudimentar do homem jamais seria capaz de idealizar!
+3 Nesses instantes, de inefável felicidade para nós, quando esquecemos momentaneamente as preocupações terrenas que nos absorvem, mergulhamos o nosso Espírito nessas dúlcidas vibrações, em que as nossas almas participam da alegria maravilhosa, que anda esparsa na natureza, alegria essa que o Excelso Artista do Cosmos depositou em cada átomo de vida e que se infiltra em nosso “eu” como a água purificadora de fonte inexaurível!
+4 Os nossos corações pulsam de vida nova e a nossa alma encarcerada na Terra parece alar às regiões eterizadas do Azul, procurando o Criador nestas ânsias sublimes que agitam os seres e os mundos!
+5 A harmonia é o equilíbrio perfeito do amor divino, disseminado em todos os viventes que palpitam de vida, em toda a extensão dos sentimentos mais puros!
+6 Harmonia! Eis o ritmo maravilhoso do Universo, o contato bendito da criatura com o seu Criador!
 
 ---
 
-## 18 — Aos invisíveis
+## 18
 
 > | 16 de agosto de 1929.
 
-Ei-los — astros da Luz, arautos da Verdade,
-Mensageiros do Amor, da rútila Esperança,
-A falange do bem que, intemerata, avança
-Pelo mundo da dor, do mal, da iniquidade!
-Emissários de Deus que vêm sem tardança
-Infundir-nos no peito eflúvios da piedade
-E o aroma sutil do amor, da caridade
-A beleza maior nos mundos de provança.
-Ó mentores do Além, ó mestres consagrados,
-Deus que seja convosco, amigos bem-amados,
-Alvos lírios de luz das plagas siderais,
-Ajudai-nos na luta, a fim de que a vençamos,
-E que assim, desse modo, amarmo-nos possamos
-Na cadeia feliz dos laços fraternais!
+1 Ei-los — astros da Luz, arautos da Verdade, Mensageiros do Amor, da rútila Esperança, A falange do bem que, intemerata, avança Pelo mundo da dor, do mal, da iniquidade!
+2 Emissários de Deus que vêm sem tardança Infundir-nos no peito eflúvios da piedade E o aroma sutil do amor, da caridade A beleza maior nos mundos de provança.
+3 Ó mentores do Além, ó mestres consagrados, Deus que seja convosco, amigos bem-amados, Alvos lírios de luz das plagas siderais,
+4 Ajudai-nos na luta, a fim de que a vençamos, E que assim, desse modo, amarmo-nos possamos Na cadeia feliz dos laços fraternais!
 
 ---
 
-## 19 — A dor
+## 19
 
 > | 16 de setembro de 1929.
 
-Do palácio triunfal, onde não se empana
-A alegria terreal que ali passa veloz,
-Ao tugúrio sem pão, à mísera choupana,
-Onde se há derramado o pranto mais atroz,
-Como um anjo de luz assim veremos nós
-A operar o progresso, em sua luta insana,
-Essa obreira de Deus, a cuja humilde voz
-Humilhada se curva a alma que se engana!
-Mensageira do Pai, grande obreira da vida!
-Proletária da Luz, que não és compreendida,
-Quando ofertas à alma a celeste oblação,
-És, ó dor, a alvorada sublime
-Dessa paz, desse amor, que a nossa alma redime,
-Que consiste de Deus no grandioso perdão!
+1 Do palácio triunfal, onde não se empana A alegria terreal que ali passa veloz, Ao tugúrio sem pão, à mísera choupana, Onde se há derramado o pranto mais atroz,
+2 Como um anjo de luz assim veremos nós A operar o progresso, em sua luta insana, Essa obreira de Deus, a cuja humilde voz Humilhada se curva a alma que se engana!
+3 Mensageira do Pai, grande obreira da vida! Proletária da Luz, que não és compreendida, Quando ofertas à alma a celeste oblação,
+4 És, ó dor, a alvorada sublime Dessa paz, desse amor, que a nossa alma redime, Que consiste de Deus no grandioso perdão!
 
 ---
 
-## 20 — Ponderações
+## 20
 
 > | 16 de setembro de 1929.
 
-Antes de imergirmos o nosso Espírito nas tristes lamentações dos nossos infortúnios e misérias, lembremos que residimos, temporariamente, num dos mundos de expiação e de provas!
-Antes de pronunciarmos as ásperas palavras ou darmos guarida a sentimentos desoladores, que nos transformarão em pobres blasfemos, recordemos que se permanecemos na Terra, onde a dor sobrepuja a todas as sensações experimentadas pela humanidade, é porque o nosso Espírito necessita de uma transformação radical, é porque os cancros roedores da imperfeição, que se aninham em nosso coração, necessitam ser arrancados pelos sublimes instrumentos da dor para que nele possam brotar os puríssimos mananciais da caridade e do amor!
-Assim, pois, tornemos a nossa existência leve e suave, empregando as nossas horas terrenas nas alegrias sãs do trabalho, que é a lei da vida, procurando amenizar os sofrimentos alheios, sentindo as dores do nosso próximo, adoçando-as, acrisolando, desse modo, as nossas próprias almas, no sentimento divinizado do amor, suportando as nossas decepções e sofrimentos com o riso no coração, procurando baixar os nossos olhares onde as lutas são mais atrozes, onde as mágoas sulcam profundo, deixando os mais indeléveis vestígios, e onde poderemos empregar o tempo, que passamos a lastimar, como mensageiros da paz e consolação!
-Seremos, pois, felizes e nos consideraremos venturosos quando compreendermos que nos achamos ligados, todos os seres, pelos mais inquebrantáveis laços de Fraternidade!
+1 Antes de imergirmos o nosso Espírito nas tristes lamentações dos nossos infortúnios e misérias, lembremos que residimos, temporariamente, num dos mundos de expiação e de provas! 2 Antes de pronunciarmos as ásperas palavras ou darmos guarida a sentimentos desoladores, que nos transformarão em pobres blasfemos, recordemos que se permanecemos na Terra, onde a dor sobrepuja a todas as sensações experimentadas pela humanidade, é porque o nosso Espírito necessita de uma transformação radical, é porque os cancros roedores da imperfeição, que se aninham em nosso coração, necessitam ser arrancados pelos sublimes instrumentos da dor para que nele possam brotar os puríssimos mananciais da caridade e do amor! 3 Assim, pois, tornemos a nossa existência leve e suave, empregando as nossas horas terrenas nas alegrias sãs do trabalho, que é a lei da vida, procurando amenizar os sofrimentos alheios, sentindo as dores do nosso próximo, adoçando-as, acrisolando, desse modo, as nossas próprias almas, no sentimento divinizado do amor, suportando as nossas decepções e sofrimentos com o riso no coração, procurando baixar os nossos olhares onde as lutas são mais atrozes, onde as mágoas sulcam profundo, deixando os mais indeléveis vestígios, e onde poderemos empregar o tempo, que passamos a lastimar, como mensageiros da paz e consolação!
+4 Seremos, pois, felizes e nos consideraremos venturosos quando compreendermos que nos achamos ligados, todos os seres, pelos mais inquebrantáveis laços de Fraternidade!
 
 ---
 
-## 21 — Allan Kardec
+## 21
 
 > | 3 de outubro de 1929.
 
-Kardec, foste aqui o grande iluminado
-E do amor de Jesus o excelso mensageiro,
-Da verdade e da luz o fúlgido luzeiro,
-Da cruzada do bem o mestre abnegado!
-Em grandiosa missão, tu deste ao caminheiro
-Do terreno viver tristonho e desolado
-Um clarão todo em flor — archote alcandorado —
-Norteando-lhe ao bem, supremo e verdadeiro!
-A tua alma sublime, iluminada e pura,
-Espargiu neste mundo os raios da ventura
-Entre nós, afinal, os rudes fariseus.
-Mestre amado da Luz, tu foste, na existência,
-O luzente fanal do amor e da ciência
-Na marcha ascensional das almas para Deus!
+1 Kardec, foste aqui o grande iluminado E do amor de Jesus o excelso mensageiro, Da verdade e da luz o fúlgido luzeiro, Da cruzada do bem o mestre abnegado!
+2 Em grandiosa missão, tu deste ao caminheiro Do terreno viver tristonho e desolado Um clarão todo em flor — archote alcandorado — Norteando-lhe ao bem, supremo e verdadeiro!
+3 A tua alma sublime, iluminada e pura, Espargiu neste mundo os raios da ventura Entre nós, afinal, os rudes fariseus.
+4 Mestre amado da Luz, tu foste, na existência, O luzente fanal do amor e da ciência Na marcha ascensional das almas para Deus!
 
 ---
 
-## 22 — O Caminho
+## 22
 
 > | 16 de outubro de 1929.
 
-Aquele que sofre e necessita é sempre um caminho que o Pai nos oferece para que até Ele possamos nos elevar.
-É a Terra, pois, um vastíssimo campo de ação para todas as almas, dependendo o seu êxito de bem compreenderem o seu dever, empregando os seus esforços em empresas úteis, que se lhes oferecem em todos os momentos da sua peregrinação planetária.
-Só o bem é luz! Baseado nessa estupenda verdade, o homem, em vez de buscar pequeninas bagatelas que o tornam um estacionário na grandiosa estrada do progresso, e muitas vezes dolorosos acicates que comprimirão a sua consciência no futuro, buscaria, intrepidamente, na constante prática do bem, a necessária luz que iluminaria os pontos escuros da sua existência!
-O verdadeiro caminho está, pois, amplamente descoberto para todos os Espíritos; cada um traz consigo os elementos precisos para a vitória esplêndida dos prélios que deseja empreender.
-Em todos os dias, basta que a sua vontade seja firme, perseverante, e encontrará meios de enveredar pelas maravilhosas sendas que a Deus conduz!
-O imprescindível é que se procure desligar do marasmo em que se mergulha, criminosamente, em todos os instantes.
-Alguém sofre? Aliviemo-lo em seus pesares. Ainda que não lhe possamos prodigalizar auxílios materiais, ofertemos-lhe os nossos mais puros afetos, como irmão nosso que é, solidários na sua dor, procurando minorá-la, ainda que para isso nos custe os maiores e mais dolorosos esforços, pois é no sacrifício que se encontra o verdadeiro mérito.
-Nunca neguemos aquilo que de bom poderia partir de nós.
-Escutemos sempre aquela voz misteriosa que ressoa em nosso íntimo, concitando-nos à prática do bem, à divulgação da verdade, ao florescer das virtudes, e a nossa existência tornar-se-á em perene caudal de alegrias puras.
-Neste grande campo de trabalho, que é a Terra, feliz daquele que busca intensificar o seu raio de ação, ofertando aos seus semelhantes os frutos sazonados do bem, pois que será abençoado por Aquele que disse: “Quem der de comer ao faminto e quem vestir o nu é a mim que o fará”.
+1 Aquele que sofre e necessita é sempre um caminho que o Pai nos oferece para que até Ele possamos nos elevar. 2 É a Terra, pois, um vastíssimo campo de ação para todas as almas, dependendo o seu êxito de bem compreenderem o seu dever, empregando os seus esforços em empresas úteis, que se lhes oferecem em todos os momentos da sua peregrinação planetária.
+3 Só o bem é luz! Baseado nessa estupenda verdade, o homem, em vez de buscar pequeninas bagatelas que o tornam um estacionário na grandiosa estrada do progresso, e muitas vezes dolorosos acicates que comprimirão a sua consciência no futuro, buscaria, intrepidamente, na constante prática do bem, a necessária luz que iluminaria os pontos escuros da sua existência!
+4 O verdadeiro caminho está, pois, amplamente descoberto para todos os Espíritos; cada um traz consigo os elementos precisos para a vitória esplêndida dos prélios que deseja empreender. 5 Em todos os dias, basta que a sua vontade seja firme, perseverante, e encontrará meios de enveredar pelas maravilhosas sendas que a Deus conduz!
+6 O imprescindível é que se procure desligar do marasmo em que se mergulha, criminosamente, em todos os instantes. 7 Alguém sofre? Aliviemo-lo em seus pesares. Ainda que não lhe possamos prodigalizar auxílios materiais, ofertemos-lhe os nossos mais puros afetos, como irmão nosso que é, solidários na sua dor, procurando minorá-la, ainda que para isso nos custe os maiores e mais dolorosos esforços, pois é no sacrifício que se encontra o verdadeiro mérito. 8 Nunca neguemos aquilo que de bom poderia partir de nós. 9 Escutemos sempre aquela voz misteriosa que ressoa em nosso íntimo, concitando-nos à prática do bem, à divulgação da verdade, ao florescer das virtudes, e a nossa existência tornar-se-á em perene caudal de alegrias puras. 10 Neste grande campo de trabalho, que é a Terra, feliz daquele que busca intensificar o seu raio de ação, ofertando aos seus semelhantes os frutos sazonados do bem, pois que será abençoado por Aquele que disse: “Quem der de comer ao faminto e quem vestir o nu é a mim que o fará”. ( † )
 
 ---
 
-## 23 — Dois de novembro
+## 23
 
 > | 1º de novembro de 1929.
 
-Vós que hoje buscais as frias sepulturas,
-A levardes do afeto as flores perfumadas,
-Ao volverdes à terra as vistas enevoadas
-Vossas almas volvei às siderais alturas!
-Porque mortos não são aquelas criaturas
-Que partiram daqui, das sendas desoladas,
-A buscar pelo Além as fúlgidas estradas
-Que conduzem a Deus, em ânsias as mais puras.
-Vossas preces de luz, quais ímãs poderosos,
-Buscarão no Infinito os entes afetuosos
-Que vos amam de lá com amor indestrutível!
-Cultivai esse amor em dúlcidas lembranças,
-Pois o irmão que partiu vos enche de esperanças,
-Vos assiste da Luz, dos mundos do Invisível.
+1 Vós que hoje buscais as frias sepulturas, A levardes do afeto as flores perfumadas, Ao volverdes à terra as vistas enevoadas Vossas almas volvei às siderais alturas!
+2 Porque mortos não são aquelas criaturas Que partiram daqui, das sendas desoladas, A buscar pelo Além as fúlgidas estradas Que conduzem a Deus, em ânsias as mais puras.
+3 Vossas preces de luz, quais ímãs poderosos, Buscarão no Infinito os entes afetuosos Que vos amam de lá com amor indestrutível!
+4 Cultivai esse amor em dúlcidas lembranças, Pois o irmão que partiu vos enche de esperanças, Vos assiste da Luz, dos mundos do Invisível.
 
 ---
 
-## 24 — Súplica
+## 24
 
 > | 16 de novembro de 1929.
 
-Ó queridos irmãos, que conheceis na vida
-A alegria feliz cantando em vossos tetos,
-Que cercados viveis dos mais santos afetos
-A gozardes na Terra a calma apetecida,
-Esquecei um minuto os faustos mais seletos,
-Procurando enxugar a lágrima dorida
-Dos aflitos na Terra — a plaga entristecida —,
-Pois que são de Jesus os filhos prediletos!
-Esquecei um momento as flores da ventura,
-Consolando e lenindo as dores da amargura
-Dos que vivem no mundo em noites dolorosas.
-E ao partirdes daqui, em lúcida miragem,
-Deixareis cá, na Terra, à fúlgida passagem,
-Os clarões aurorais de esteiras luminosas!
+1 Ó queridos irmãos, que conheceis na vida A alegria feliz cantando em vossos tetos, Que cercados viveis dos mais santos afetos A gozardes na Terra a calma apetecida,
+2 Esquecei um minuto os faustos mais seletos, Procurando enxugar a lágrima dorida Dos aflitos na Terra — a plaga entristecida —, Pois que são de Jesus os filhos prediletos!
+3 Esquecei um momento as flores da ventura, Consolando e lenindo as dores da amargura Dos que vivem no mundo em noites dolorosas.
+4 E ao partirdes daqui, em lúcida miragem, Deixareis cá, na Terra, à fúlgida passagem, Os clarões aurorais de esteiras luminosas!
 
 ---
 
-## 25 — Alma de artista
+## 25
 
 > | 1º de dezembro de 1929.
 
-Tu que sofres na Terra em ânsias da beleza,
-Nos anseios de luz, de artes esplendorosas,
-Deixa, pois, que a tua alma, extática e formosa,
-Seja forte na dor nesta ideal grandeza!
-Abre a asa de luz e desta plaga humbrosa,
-Onde se encontra o fel, a rústica aspereza,
-Em demanda do Azul, em busca da pureza,
-Parte sempre a sorrir, ó alma dolorosa!
-Teu anseio de amor, teu ideal perfeito,
-Que te traz sempre triste — eterno insatisfeito —
-É visível, real, palpável, acessível!
-Ele existe no Além, acima da miséria
-Desse mundo de dor, de efêmera matéria,
-Num clarão auroral de luz imperecível!
+1 Tu que sofres na Terra em ânsias da beleza, Nos anseios de luz, de artes esplendorosas, Deixa, pois, que a tua alma, extática e formosa, Seja forte na dor nesta ideal grandeza!
+2 Abre a asa de luz e desta plaga humbrosa, Onde se encontra o fel, a rústica aspereza, Em demanda do Azul, em busca da pureza, Parte sempre a sorrir, ó alma dolorosa!
+3 Teu anseio de amor, teu ideal perfeito, Que te traz sempre triste — eterno insatisfeito — É visível, real, palpável, acessível!
+4 Ele existe no Além, acima da miséria Desse mundo de dor, de efêmera matéria, Num clarão auroral de luz imperecível!
 
 ---
 
-## 26 — Perdoar
+## 26
 
 > | 1º de dezembro de 1929.
 
-“Perdoai não sete vezes, mas setenta vezes sete vezes”,
-disse o Mestre. E na Terra, onde se misturam todos os sentimentos, a maioria dos homens jamais buscou compenetrar-se dessa grandiosa verdade.
-Perdoar! Quem poderá, mergulhado no mar revolto das imperfeições terrenas, compreender, em toda a sua plenitude, a grandeza dessa palavra? Ela encerra o que há de mais luminoso e sublime dentro dos corações!
-Se a compreendêssemos, de fato, a nossa existência na Terra, que tantas vezes maldizemos em nossos desânimos, seria uma vida decorrida com mais serenidade, percorreríamos os nossos caminhos tortuosos e ásperos como se fossem transformados em estradas ridentes, onde encontraríamos os maiores encantos!
-Aquele que a compreendesse em sua justa e verdadeira acepção assemelhar-se-ia, palidamente embora, ao mais sublime instrutor da humanidade — Jesus!
-Aquele que perdoa é humilde e quem é humilde é feliz.
-Muitas vezes acontece que se receba uma dor nascida da irreflexão ou da ignorância de alguém; o ofendido displicentemente diz: “Eu o perdoo”, mas o seu perdão se conserva nos lábios.
-Aquele que o ofendeu é considerado o mais imperfeito dos seres; distancia-se dele, guardando a seu respeito os mais escabrosos pensamentos. E será isso perdoar?
-Nunca! Perdoar é a maior manifestação da lei de amor, é derramar sobre a alma ulcerada pelas dores inenarráveis do remorso as flores maravilhosas do bem, cuja essência puríssima fará desaparecer as nuvens trevosas que empanam o sol da tranquilidade moral.
-Perdoar verdadeiramente é permitir que se infiltre em nossas almas a suave compreensão deste estatuto universal, pelo qual um dia se regerão todos os Espíritos: O Evangelho de Jesus!
-Aquele que nos ofende devemos abençoar, pois que foi ele o instrumento do nosso progresso.
-É o nosso dever procurar apegar-nos a ele pelos mais fortes laços de fraternidade, tentando, constantemente, proporcionar-lhe, em todas as horas, as mais convincentes provas de amizade pura, desinteresse e abnegação!
-As vibrações dos nossos pensamentos, se de fato eles obedecem à lei do amor, atingirão o Espírito daquele a quem nunca devemos qualificar de inimigo, devolvendo-lhe à alma a desejada paz, predispondo-a, simultaneamente, à compreensão de maiores e mais elevados ideais, que não se limitem aos pequeninos e mesquinhos nadas deste planeta de provações.
-Ainda que se levantem em nosso íntimo todas as fibras do coração traduzindo revolta, em virtude das nossas imperfeições e fraquezas, devemos abafar esses gritos pavorosos que tornam pavorosa a nossa alma, e, num supremo esforço, procurarmos dilatar os bons sentimentos que ainda nos restem.
-Se assim praticarmos em todos os dias, os mais duradouros e santos afetos brotarão, espontaneamente, dos nossos íntimos, sentiremos em toda a sua pureza e extensão as vibrações dulcíssimas que nos prodigalizam o amor,
-pois através de todos os tempos o bem sobrepujará sempre o mal e a luz constantemente triunfará da treva!
-Saibamos, pois, perdoar, atraindo o nosso irmão infeliz com doces palavras, pensamentos sadios e bons atos, como se ele fosse o mais dileto dos nossos amigos, fazendo com que o nosso afeto por ele brote do mais profundo do ser. Só assim teremos compreendido o perdão.
-Perdoar é amar. E amar significa caminhar para Deus!
+1 “Perdoai não sete vezes, mas setenta vezes sete vezes”, ( † ) disse o Mestre. E na Terra, onde se misturam todos os sentimentos, a maioria dos homens jamais buscou compenetrar-se dessa grandiosa verdade.
+2 Perdoar! Quem poderá, mergulhado no mar revolto das imperfeições terrenas, compreender, em toda a sua plenitude, a grandeza dessa palavra? Ela encerra o que há de mais luminoso e sublime dentro dos corações! 3 Se a compreendêssemos, de fato, a nossa existência na Terra, que tantas vezes maldizemos em nossos desânimos, seria uma vida decorrida com mais serenidade, percorreríamos os nossos caminhos tortuosos e ásperos como se fossem transformados em estradas ridentes, onde encontraríamos os maiores encantos! 4 Aquele que a compreendesse em sua justa e verdadeira acepção assemelhar-se-ia, palidamente embora, ao mais sublime instrutor da humanidade — Jesus!
+5 Aquele que perdoa é humilde e quem é humilde é feliz. 6 Muitas vezes acontece que se receba uma dor nascida da irreflexão ou da ignorância de alguém; o ofendido displicentemente diz: “Eu o perdoo”, mas o seu perdão se conserva nos lábios. 7 Aquele que o ofendeu é considerado o mais imperfeito dos seres; distancia-se dele, guardando a seu respeito os mais escabrosos pensamentos. E será isso perdoar?
+8 Nunca! Perdoar é a maior manifestação da lei de amor, é derramar sobre a alma ulcerada pelas dores inenarráveis do remorso as flores maravilhosas do bem, cuja essência puríssima fará desaparecer as nuvens trevosas que empanam o sol da tranquilidade moral. 9 Perdoar verdadeiramente é permitir que se infiltre em nossas almas a suave compreensão deste estatuto universal, pelo qual um dia se regerão todos os Espíritos: O Evangelho de Jesus!
+10 Aquele que nos ofende devemos abençoar, pois que foi ele o instrumento do nosso progresso. 11 É o nosso dever procurar apegar-nos a ele pelos mais fortes laços de fraternidade, tentando, constantemente, proporcionar-lhe, em todas as horas, as mais convincentes provas de amizade pura, desinteresse e abnegação! 12 As vibrações dos nossos pensamentos, se de fato eles obedecem à lei do amor, atingirão o Espírito daquele a quem nunca devemos qualificar de inimigo, devolvendo-lhe à alma a desejada paz, predispondo-a, simultaneamente, à compreensão de maiores e mais elevados ideais, que não se limitem aos pequeninos e mesquinhos nadas deste planeta de provações.
+13 Ainda que se levantem em nosso íntimo todas as fibras do coração traduzindo revolta, em virtude das nossas imperfeições e fraquezas, devemos abafar esses gritos pavorosos que tornam pavorosa a nossa alma, e, num supremo esforço, procurarmos dilatar os bons sentimentos que ainda nos restem. 14 Se assim praticarmos em todos os dias, os mais duradouros e santos afetos brotarão, espontaneamente, dos nossos íntimos, sentiremos em toda a sua pureza e extensão as vibrações dulcíssimas que nos prodigalizam o amor, 15 pois através de todos os tempos o bem sobrepujará sempre o mal e a luz constantemente triunfará da treva!
+16 Saibamos, pois, perdoar, atraindo o nosso irmão infeliz com doces palavras, pensamentos sadios e bons atos, como se ele fosse o mais dileto dos nossos amigos, fazendo com que o nosso afeto por ele brote do mais profundo do ser. Só assim teremos compreendido o perdão.
+17 Perdoar é amar. E amar significa caminhar para Deus!
 
 ---
 
-## 27 — Natal de Jesus
+## 27
 
 > | 16 de dezembro de 1929.
 
-Natal do Redentor! A Terra, em resplendores,
-A vibrar de prazer num canto de harmonias,
-Num ambiente de paz, de amor e de alegrias
-Lembra um dia feliz, de rútilos fulgores.
-Natal! De cada alma, em lindas sinfonias,
-Uma prece se eleva ao Pai dos pecadores
-E no espaço infinito as preces, como flores,
-Tornam em ninhos de luz as plagas mais sombrias!
-A humanidade inteira evoca e rememora
-O nascer de outro sol - clarão de nova aurora
-Num infante a sorrir num berço feito em luz!
-E do alvor eternal das fúlgidas alturas
-Sua bênção de amor envia às criaturas
-O enviado de Deus, o salvador — Jesus!
+1 Natal do Redentor! A Terra, em resplendores, A vibrar de prazer num canto de harmonias, Num ambiente de paz, de amor e de alegrias Lembra um dia feliz, de rútilos fulgores.
+2 Natal! De cada alma, em lindas sinfonias, Uma prece se eleva ao Pai dos pecadores E no espaço infinito as preces, como flores, Tornam em ninhos de luz as plagas mais sombrias!
+3 A humanidade inteira evoca e rememora O nascer de outro sol - clarão de nova aurora Num infante a sorrir num berço feito em luz!
+4 E do alvor eternal das fúlgidas alturas Sua bênção de amor envia às criaturas O enviado de Deus, o salvador — Jesus!
 
 ---
 
-## 28 — Ano Bom
+## 28
 
 > | 1º de janeiro de 1930.
 > — Aurora
 
-Ao transpor esta etapa pequenina
-Da existência na Terra, onde a criatura,
-Pelos prélios da dor, luta e depura
-A sua alma que é luz — chama divina —
-Implorando-lhe paz, firme e segura,
-A minh’alma, com fé, ao Céu se inclina.
-E a luz do progresso, que é ventura,
-Pois da alegria os bálsamos propina
-Para todos os homens, companheiros,
-Da minh’alma nos grandes nevoeiros,
-Dos véus negros da triste imperfeição,
-Que no ano que agora se inicia
-Nós possamos marchar, em harmonia,
-Pela senda feliz da evolução!
+1 Ao transpor esta etapa pequenina Da existência na Terra, onde a criatura, Pelos prélios da dor, luta e depura A sua alma que é luz — chama divina —
+2 Implorando-lhe paz, firme e segura, A minh’alma, com fé, ao Céu se inclina. E a luz do progresso, que é ventura, Pois da alegria os bálsamos propina
+3 Para todos os homens, companheiros, Da minh’alma nos grandes nevoeiros, Dos véus negros da triste imperfeição,
+4 Que no ano que agora se inicia Nós possamos marchar, em harmonia, Pela senda feliz da evolução!
 
 ---
 
-## 30 — Amemo-nos
+## 30
 
 > | 16 de janeiro de 1930.
 
-Disse um dia Jesus, em seus ensinamentos,
-No seu verbo de amor, de luzes eternais:
-“Em verdade vos digo, ó filhos meus, se amais
-Vós sereis cá, na Terra, os fúlgidos portentos!”
-Amemo-nos então, irmãos que me cercais,
-Já que somos na Terra Espíritos chaguentos;
-Somos párias da dor, dos rudes sofrimentos,
-E acharemos no amor os gozos imortais!
-Sentimento maior, esplêndida grandeza,
-Expoente da luz, da máxima pureza,
-O amor sintetiza a nossa evolução.
-Amemo-nos no prazer, nas lágrimas, nos prantos
-E veremos da vida os dúlcidos encantos,
-Os primores sem par das flores da afeição.
+1 Disse um dia Jesus, em seus ensinamentos, No seu verbo de amor, de luzes eternais: “Em verdade vos digo, ó filhos meus, se amais Vós sereis cá, na Terra, os fúlgidos portentos!”
+2 Amemo-nos então, irmãos que me cercais, Já que somos na Terra Espíritos chaguentos; Somos párias da dor, dos rudes sofrimentos, E acharemos no amor os gozos imortais!
+3 Sentimento maior, esplêndida grandeza, Expoente da luz, da máxima pureza, O amor sintetiza a nossa evolução.
+4 Amemo-nos no prazer, nas lágrimas, nos prantos E veremos da vida os dúlcidos encantos, Os primores sem par das flores da afeição.
 
 ---
 
-## 31 — Imortalidade
-
-> | 16 de fevereiro de 1930.
-
-A certeza suprema, absoluta,
-É a certeza da vida na outra vida,
-É a sublime esperança engrandecida
-Para a lama tristonha, irresoluta!
-Jamais finda o viver. É eterna a luta;
-E ao deixar a matéria dolorida
-A alma busca a mansão enflorescida
-Nessa ânsia de amor, ânsia impoluta!
-É morrer, compreender a Eternidade,
-E buscar toda a fonte da verdade
-Nessas luzes sublimes e eternais.
-Ó certeza suprema da consciência
-A de nunca findar a nossa existência
-E de sermos os seres imortais!
-
----
-
-## 31 — Flores d’alma
+## 31
 
 > | 1º de fevereiro de 1930.
 
-As flores que a nossa alma enfeitam todo dia
-São formadas de luz, nascidas da virtude
-— A bondade e o amor em sua excelsitude —,
-A humildade e a fé, que exprimem harmonia!
-São as flores do bem, em sua magnitude,
-Cujo aroma sutil enleva e inebria
-A fazer-nos viver num reino de alegria,
-Esquecendo o travor da vida ingrata e rude.
-Bem-ditosa e feliz a alma que as possui,
-Que ao contato cruel do mal não se polui,
-Conservando eternais as flores candorosas!
-São os lírios de alvor, que, belos, florescendo,
-Vão fazendo surgir, num mágico crescendo,
-As cascatas de luz nas sendas temerosas!
+1 As flores que a nossa alma enfeitam todo dia São formadas de luz, nascidas da virtude — A bondade e o amor em sua excelsitude —, A humildade e a fé, que exprimem harmonia!
+2 São as flores do bem, em sua magnitude, Cujo aroma sutil enleva e inebria A fazer-nos viver num reino de alegria, Esquecendo o travor da vida ingrata e rude.
+3 Bem-ditosa e feliz a alma que as possui, Que ao contato cruel do mal não se polui, Conservando eternais as flores candorosas!
+4 São os lírios de alvor, que, belos, florescendo, Vão fazendo surgir, num mágico crescendo, As cascatas de luz nas sendas temerosas!
 
 ---
 
-## 32 — Paz e amor
+## 31
+
+> | 16 de fevereiro de 1930.
+
+1 A certeza suprema, absoluta, É a certeza da vida na outra vida, É a sublime esperança engrandecida Para a lama tristonha, irresoluta!
+2 Jamais finda o viver. É eterna a luta; E ao deixar a matéria dolorida A alma busca a mansão enflorescida Nessa ânsia de amor, ânsia impoluta!
+3 É morrer, compreender a Eternidade, E buscar toda a fonte da verdade Nessas luzes sublimes e eternais.
+4 Ó certeza suprema da consciência A de nunca findar a nossa existência E de sermos os seres imortais!
+
+---
+
+## 32
 
 > | 1º de março de 1930.
 
-Fazer do nosso lar um templo abençoado,
-Onde o amor e a paz imperem docemente,
-Onde a vida deslize, assim, suavemente,
-Vendo sempre o porvir, em luzes, destacado,
-Fazer do coração um ninho refulgente,
-O sacrário de luz do afeto acrisolado,
-A tornar o viver num hino deificado
-Nos caminhos do amor, buscando o Onipotente,
-Eis a única senda, a única maneira,
-De buscar a ventura, excelsa e verdadeira,
-Pela estrada da dor, que à Perfeição conduz!
-Amar e assim vibrar, nas ânsias afetuosas,
-E da paz espargir as flores perfumosas
-É marchar ascendendo aos píncaros da Luz!
+1 Fazer do nosso lar um templo abençoado, Onde o amor e a paz imperem docemente, Onde a vida deslize, assim, suavemente, Vendo sempre o porvir, em luzes, destacado,
+2 Fazer do coração um ninho refulgente, O sacrário de luz do afeto acrisolado, A tornar o viver num hino deificado Nos caminhos do amor, buscando o Onipotente,
+3 Eis a única senda, a única maneira, De buscar a ventura, excelsa e verdadeira, Pela estrada da dor, que à Perfeição conduz!
+4 Amar e assim vibrar, nas ânsias afetuosas, E da paz espargir as flores perfumosas É marchar ascendendo aos píncaros da Luz!
 
 ---
 
-## 33 — Amor das almas
+## 33
 
 > | 16 de março de 1930.
 
-O amor que as almas une é puro e sacrossanto,
-É tecido na luz dos grandes sentimentos,
-Misteriosa atração, fusão dos pensamentos,
-Feliz combinação do mais fulgente encanto!
-Esse amor nos afasta a dor e os sofrimentos,
-Não nos deixa sorver o cálice do pranto;
-É um tesouro de paz, o afeto puro e santo,
-Que nos mostra o bom Deus, em mil deslumbramentos!
-Nunca se extingue o amor. O corpo desolado
-Tomba à terra, senil, sem vida, destroçado,
-Mas a alma se eleva às puras regiões
-Ansiosa, a buscar afetos de outras eras,
-Que lhes torna o viver em lindas primaveras,
-Em sacrários de luz seus belos corações!
+1 O amor que as almas une é puro e sacrossanto, É tecido na luz dos grandes sentimentos, Misteriosa atração, fusão dos pensamentos, Feliz combinação do mais fulgente encanto!
+2 Esse amor nos afasta a dor e os sofrimentos, Não nos deixa sorver o cálice do pranto; É um tesouro de paz, o afeto puro e santo, Que nos mostra o bom Deus, em mil deslumbramentos!
+3 Nunca se extingue o amor. O corpo desolado Tomba à terra, senil, sem vida, destroçado, Mas a alma se eleva às puras regiões
+4 Ansiosa, a buscar afetos de outras eras, Que lhes torna o viver em lindas primaveras, Em sacrários de luz seus belos corações!
 
 ---
 
-## 34 — Ideia de Deus
+## 34
 
 > | 1º de abril de 1930.
 
-Quando os olhos abri para esta vida,
-E senti todo o anseio dos humanos,
-Procurei desvendar os mil arcanos
-Que obumbravam minh’alma embrutecida.
-E através do concurso de alguns anos,
-Em resposta à minha ânsia dolorida,
-Uma voz respondeu-me, esclarecida,
-Toda isenta de túrbidos enganos:
-“Lembra sempre, ó imortal, que além do mundo,
-Onde o teu sofrimento é tão profundo,
-Onde o gozo vem da própria dor,
-Deus existe na luz do Ilimitado,
-Soberano, Insondável, Incriado,
-Na grandeza sem par do Seu amor!”
+1 Quando os olhos abri para esta vida, E senti todo o anseio dos humanos, Procurei desvendar os mil arcanos Que obumbravam minh’alma embrutecida.
+2 E através do concurso de alguns anos, Em resposta à minha ânsia dolorida, Uma voz respondeu-me, esclarecida, Toda isenta de túrbidos enganos:
+3 “Lembra sempre, ó imortal, que além do mundo, Onde o teu sofrimento é tão profundo, Onde o gozo vem da própria dor,
+4 Deus existe na luz do Ilimitado, Soberano, Insondável, Incriado, Na grandeza sem par do Seu amor!”
 
 ---
 
-## 35 — Paixão de Cristo
+## 35
 
 > | 16 de abril de 1930.
 
-Inda lhe vejo a fronte excelsa e pura,
-Aureolada de espinhos acerados,
-E a amargura dos prantos derramados
-Sob o guante da dor que o tortura.
-Seus olhares de amor, iluminados,
-Dirigidos à humana criatura
-Pela estrada trevosa, estranha e dura
-Que trilharam seus pés ensanguentados!
-Mas que importa a Jesus o sofrimento
-Se o Calvário da dor e do tormento
-Foi o auge da luz, da eterna glória?
-Seu amor, em reflexos divinos,
-Ficaria imortal em seus ensinos,
-No transcurso dos tempos, pela História!
+1 Inda lhe vejo a fronte excelsa e pura, Aureolada de espinhos acerados, E a amargura dos prantos derramados Sob o guante da dor que o tortura.
+2 Seus olhares de amor, iluminados, Dirigidos à humana criatura Pela estrada trevosa, estranha e dura Que trilharam seus pés ensanguentados!
+3 Mas que importa a Jesus o sofrimento Se o Calvário da dor e do tormento Foi o auge da luz, da eterna glória?
+4 Seu amor, em reflexos divinos, Ficaria imortal em seus ensinos, No transcurso dos tempos, pela História!
 
 ---
 
-## 36 — “Aurora” do bem
+## 36
 
 > | 1º de maio de 1930.
 > — Aurora
 
-Dissipando-se a treva condensada
-Nos espessos noturnos nevoeiros,
-Desce à Terra, entre fúlgidos luzeiros,
-A beleza sublime da alvorada!
-Assim, pois, qual brilhante madrugada,
-Na grandeza de ensinos verdadeiros,
-Porta-voz dos humildes mensageiros,
-Eis a “Aurora” de luz, iluminada.
-Refulgente amanhã da Nova Era,
-Flor sublime de eterna primavera,
-Linda “Aurora do bem”, que afasta o mal;
-Pioneira do amor e da verdade,
-Serás sempre, entre a pobre humanidade,
-Mensageira da luz espiritual!
+1 Dissipando-se a treva condensada Nos espessos noturnos nevoeiros, Desce à Terra, entre fúlgidos luzeiros, A beleza sublime da alvorada!
+2 Assim, pois, qual brilhante madrugada, Na grandeza de ensinos verdadeiros, Porta-voz dos humildes mensageiros, Eis a “Aurora” de luz, iluminada.
+3 Refulgente amanhã da Nova Era, Flor sublime de eterna primavera, Linda “Aurora do bem”, que afasta o mal;
+4 Pioneira do amor e da verdade, Serás sempre, entre a pobre humanidade, Mensageira da luz espiritual!
 
 ---
 
-## 37 — As crianças
+## 37
 
 > | 1º de junho de 1930.
 
-As crianças são flores delicadas
-Que requerem cuidados e desvelos.
-Anjos puros de amor, risonhos, belos,
-Açucenas de luz dessas estradas.
-São os lírios de pétalas nevadas
-E na vida devemos bendizê-los.
-Desviá-los do bem ou pervertê-los
-É tornar nossas mãos amaldiçoadas.
-São emblemas de amor, de castidade,
-De inocência, pureza e piedade,
-São escrínios de encantos e de luz!
-São diamantes do céu a lapidar
-E na Terra devemo-los guiar
-Pelas sendas que levam a Jesus!
+1 As crianças são flores delicadas Que requerem cuidados e desvelos. Anjos puros de amor, risonhos, belos, Açucenas de luz dessas estradas.
+2 São os lírios de pétalas nevadas E na vida devemos bendizê-los. Desviá-los do bem ou pervertê-los É tornar nossas mãos amaldiçoadas.
+3 São emblemas de amor, de castidade, De inocência, pureza e piedade, São escrínios de encantos e de luz!
+4 São diamantes do céu a lapidar E na Terra devemo-los guiar Pelas sendas que levam a Jesus!
 
 ---
 
-## 38 — Ventura suprema
+## 38
 
 > | 16 de julho de 1930.
 
-Uma alma que andava pela vida
-Submersa nos prantos dolorosos,
-Cujos dias tristonhos, procelosos,
-Foram bem uma história dolorida,
-Viu chegar o momento da partida
-Amparada por seres luminosos,
-Vislumbrando caminhos portentosos
-Na paisagem da luz engrandecida.
-Nessa hora suprema, derradeira,
-Ela viu que a ventura verdadeira
-É nascida da dor depuradora.
-E abençoando as lágrimas choradas
-Venturosa buscou essas estradas
-Resplendentes de luz da eterna aurora!
+1 Uma alma que andava pela vida Submersa nos prantos dolorosos, Cujos dias tristonhos, procelosos, Foram bem uma história dolorida,
+2 Viu chegar o momento da partida Amparada por seres luminosos, Vislumbrando caminhos portentosos Na paisagem da luz engrandecida.
+3 Nessa hora suprema, derradeira, Ela viu que a ventura verdadeira É nascida da dor depuradora.
+4 E abençoando as lágrimas choradas Venturosa buscou essas estradas Resplendentes de luz da eterna aurora!
 
 ---
 
-## 39 — Visão da luz
+## 39
 
 > | 1º de agosto de 1930.
 
-Nos meus dias terrenos, vendo o abismo
-Pelo homem cavado em seus misteres,
-Todo ébrio de efêmeros prazeres,
-Repassado de túrbido egoísmo,
-Deixo, às vezes, o mundo, os afazeres,
-Afastado do triste pessimismo
-E tomado de súbito otimismo
-Meu olhar busca os íntimos dos seres!
-E vejo sempre a ti, Jesus amado,
-Sempre puro, qual lírio imaculado,
-Enviado do amor do Onipotente!
-Desse modo aprendi a bendizer
-Meus momentos de dor e de sofrer,
-Aprendendo amar-te eternamente!
+1 Nos meus dias terrenos, vendo o abismo Pelo homem cavado em seus misteres, Todo ébrio de efêmeros prazeres, Repassado de túrbido egoísmo,
+2 Deixo, às vezes, o mundo, os afazeres, Afastado do triste pessimismo E tomado de súbito otimismo Meu olhar busca os íntimos dos seres!
+4 E vejo sempre a ti, Jesus amado, Sempre puro, qual lírio imaculado, Enviado do amor do Onipotente!
+4 Desse modo aprendi a bendizer Meus momentos de dor e de sofrer, Aprendendo amar-te eternamente!
 
 ---
 
-## 40 — Sagrada comunhão
+## 40
 
 > | 16 de agosto de 1930.
 
-Desde aquele momento, ó Cristo amado,
-Que minh’ama, numa ânsia indefinível,
-Teve sede da luz imperecível
-Que ofertaste a este mundo de pecado
-Que o meu ser miserando e desprezível
-Fortemente sentiu-se a ti ligado,
-E ao sentir-te, senti-me iluminado,
-Escutando-te a voz indescritível:
-“Ó discípulo meu, se queres luz,
-Sem queixumes, sem prantos, toma a cruz,
-Percorrendo a tua senda dolorida!
-Põe teus olhos em mim, busca os meus passos
-E jamais sentirás dor ou cansaços,
-Pois terás dentro de ti a eterna vida!”
+1 Desde aquele momento, ó Cristo amado, Que minh’ama, numa ânsia indefinível, Teve sede da luz imperecível Que ofertaste a este mundo de pecado
+2 Que o meu ser miserando e desprezível Fortemente sentiu-se a ti ligado, E ao sentir-te, senti-me iluminado, Escutando-te a voz indescritível:
+3 “Ó discípulo meu, se queres luz, Sem queixumes, sem prantos, toma a cruz, Percorrendo a tua senda dolorida!
+4 Põe teus olhos em mim, busca os meus passos E jamais sentirás dor ou cansaços, Pois terás dentro de ti a eterna vida!”
 
 ---
 
-## 41 — O filho pródigo
+## 41
 
 > | 1º de setembro de 1930.
 
-“Pequei, meu Pai! Meu triste coração
-Transgrediu, é verdade, a lei do bem
-A gastar todo um tempo inútil, vão,
-Buscando gozo e a treva me retém.
-O absurdo, a insânia, a pretensão
-Habitavam minh’alma. Hoje, porém,
-Não desejo o prazer fátuo e malsão,
-Mas a ventura que da paz nos vem!”
-E vendo o Pai o filho pecador
-Implorando-lhe paz, perdão e amor,
-A exultar lhe responde: “Ó filho meu,
-Vem a mim, serás meu eternamente,
-Trabalha, espera e a luz resplandecente
-Fulgirá nas belezas do teu Céu!”
+1 “Pequei, meu Pai! Meu triste coração Transgrediu, é verdade, a lei do bem A gastar todo um tempo inútil, vão, Buscando gozo e a treva me retém.
+2 O absurdo, a insânia, a pretensão Habitavam minh’alma. Hoje, porém, Não desejo o prazer fátuo e malsão, Mas a ventura que da paz nos vem!”
+4 E vendo o Pai o filho pecador Implorando-lhe paz, perdão e amor, A exultar lhe responde: “Ó filho meu,
+4 Vem a mim, serás meu eternamente, Trabalha, espera e a luz resplandecente Fulgirá nas belezas do teu Céu!”
 
 ---
 
-## 42 — A Kardec
+## 42
 
 > | 3 de outubro de 1930.
 
-Kardec, multiplicam-se, indefinidamente, as vibrações sublimes emitidas pelo seu Espírito lúcido ao influxo de santas inspirações, em legando à humanidade o inapreciável tesouro espiritual sintetizado na Doutrina de perfeição que compilaste.
-Legionário do amor, das falanges divinas, a tua memória será perenemente aureolada de glória imarcescível entre os maiores luminares que marcharam na vanguarda do progresso universal pelo clarão luminoso de esperança que fizestes surgir nos horizontes da Terra.
-Missionário da luz, conduziste a paz a este mundo, unindo no mesmo abraço fraterno a ciência e a religião, o sentimento e a sabedoria, a luz e o amor, o cérebro e o coração.
-Alma de mestre, onde quer que permaneças, recebe a gratidão de todos os beneficiados pela tua missão regeneradora, que conduz o homem das plagas do erro e da ignorância aos portos benditos da Perfeição!
+1 Kardec, multiplicam-se, indefinidamente, as vibrações sublimes emitidas pelo seu Espírito lúcido ao influxo de santas inspirações, em legando à humanidade o inapreciável tesouro espiritual sintetizado na Doutrina de perfeição que compilaste.
+2 Legionário do amor, das falanges divinas, a tua memória será perenemente aureolada de glória imarcescível entre os maiores luminares que marcharam na vanguarda do progresso universal pelo clarão luminoso de esperança que fizestes surgir nos horizontes da Terra.
+3 Missionário da luz, conduziste a paz a este mundo, unindo no mesmo abraço fraterno a ciência e a religião, o sentimento e a sabedoria, a luz e o amor, o cérebro e o coração.
+4 Alma de mestre, onde quer que permaneças, recebe a gratidão de todos os beneficiados pela tua missão regeneradora, que conduz o homem das plagas do erro e da ignorância aos portos benditos da Perfeição!
 
 ---
 
-## 43 — “Themis divina”
+## 43
 
 > | 16 de outubro de 1930.
 
-A consciência é a voz que determina
-Nosso estágio na Terra, entre amargores,
-É a justiça dos seres transgressores,
-Da lei de amor que o Cosmos ilumina.
-O Criador não condena, não malsina
-A falange dos pobres pecadores.
-A consciência é que, em prantos remissores,
-Torna as trevas em luz —
-!
-Cedo ou tarde, essa voz clara e potente,
-O gendarme de Deus em nossa mente,
-Faz-se ouvir no mais íntimo do ser
-E em sentenças a arestos abençoados
-Abroquela os Espíritos culpados
-Pelos prélios da dor e do dever!
+1 A consciência é a voz que determina Nosso estágio na Terra, entre amargores, É a justiça dos seres transgressores, Da lei de amor que o Cosmos ilumina.
+2 O Criador não condena, não malsina A falange dos pobres pecadores. A consciência é que, em prantos remissores, Torna as trevas em luz — Themis divina!
+3 Cedo ou tarde, essa voz clara e potente, O gendarme de Deus em nossa mente, Faz-se ouvir no mais íntimo do ser
+4 E em sentenças a arestos abençoados Abroquela os Espíritos culpados Pelos prélios da dor e do dever!
 
 ---
 
-## 44 — A caridade
+## 44
 
 > | 16 de novembro de 1930.
 
-Ela passa, muita vez, obscura,
-Entre as turbas risonhas, venturosas,
-Ofertando aos escravos da amargura,
-Da ventura e da paz as lindas rosas.
-Ela é sempre modesta e sempre pura,
-Luz sublime entre as luzes mais formosas,
-É a visão da piedade e da ternura,
-Doce arrimo das almas desditosas!
-Ela busca os prostíbulos do mundo,
-Antros da dor e fúlgidos solares,
-Com doce afeto e amor profundo.
-Ela é sempre o ideal superior
-Que eleva a Deus os rútilos altares
-Feitos de paz e luz, perdão e amor!
+1 Ela passa, muita vez, obscura, Entre as turbas risonhas, venturosas, Ofertando aos escravos da amargura, Da ventura e da paz as lindas rosas.
+2 Ela é sempre modesta e sempre pura, Luz sublime entre as luzes mais formosas, É a visão da piedade e da ternura, Doce arrimo das almas desditosas!
+3 Ela busca os prostíbulos do mundo, Antros da dor e fúlgidos solares, Com doce afeto e amor profundo.
+4 Ela é sempre o ideal superior Que eleva a Deus os rútilos altares Feitos de paz e luz, perdão e amor!
 
 ---
 
-## 45 — Gotas
+## 45
 
 > | 1º de dezembro de 1930.
 
-Cultiva sempre a árvore da paz
-E um palácio de luz construirás.
-Sê bom. Jamais te afastes da bondade.
-Possuirás maior felicidade.
-Resignado, em dias de amargura,
-Não te excedas nas horas de ventura.
-Não procures a morte, nem a temas.
-Busca sentir aspirações supremas.
-No evoluir, a luta continua.
-Além da morte, a vida tumultua.
-Concebe um ideal radioso e belo,
-Criando a perfeição como modelo.
-Ama a verdade, o amor, o bem, a luz
-E darás testemunho de Jesus!
+1 Cultiva sempre a árvore da paz E um palácio de luz construirás. Sê bom. Jamais te afastes da bondade. Possuirás maior felicidade.
+2 Resignado, em dias de amargura, Não te excedas nas horas de ventura. Não procures a morte, nem a temas. Busca sentir aspirações supremas.
+3 No evoluir, a luta continua. Além da morte, a vida tumultua. Concebe um ideal radioso e belo,
+4 Criando a perfeição como modelo. Ama a verdade, o amor, o bem, a luz E darás testemunho de Jesus!
 
 ---
 
-## 46 — Eleva-te
+## 46
 
 > | 1º de dezembro de 1930.
 
-Por que hás de agrilhoar os teus pensamentos às imperfeições e nonadas da Terra? Por que te prendes em demasia ao recanto das sombras, o que as mais das vezes te envilece e amesquinha, quando te é possível ascender às luminosidades excelsas do Ilimitado, onde haurirás luz e vida?
-Imita o lírio, que se apoiando no lodo da terra deixa que de suas pétalas se exale, ao Infinito, o seu perfume puríssimo.
-Teus pensamentos são de uma natureza divina. Nunca notaste que eles são os fatores do progresso, os receptores das vibrações maravilhosas, de ciência, beleza e amor, emitidas das Alturas pelos semáforos dos mensageiros divinos e que são os portadores da evolução?
-Aproveita-os, pois! Eleva-os ao Alto, de onde dimanam inspirações grandiosas, lições sublimes, ensinamentos fecundos e radiosidades portentosas!
-Nunca deves transformá-los em porções da Terra, porém, em raios de luz, em gotas de amor divinizado, em diamantes espiritualizados, fragmentos do Céu, como verdadeiramente o são pela sua origem divina.
-Não os conspurques com a lama terrena. Esforça-te por torná-los como reflexos do sol da mais elevada espiritualidade.
+1 Por que hás de agrilhoar os teus pensamentos às imperfeições e nonadas da Terra? Por que te prendes em demasia ao recanto das sombras, o que as mais das vezes te envilece e amesquinha, quando te é possível ascender às luminosidades excelsas do Ilimitado, onde haurirás luz e vida?
+2 Imita o lírio, que se apoiando no lodo da terra deixa que de suas pétalas se exale, ao Infinito, o seu perfume puríssimo.
+3 Teus pensamentos são de uma natureza divina. Nunca notaste que eles são os fatores do progresso, os receptores das vibrações maravilhosas, de ciência, beleza e amor, emitidas das Alturas pelos semáforos dos mensageiros divinos e que são os portadores da evolução?
+4 Aproveita-os, pois! Eleva-os ao Alto, de onde dimanam inspirações grandiosas, lições sublimes, ensinamentos fecundos e radiosidades portentosas! 5 Nunca deves transformá-los em porções da Terra, porém, em raios de luz, em gotas de amor divinizado, em diamantes espiritualizados, fragmentos do Céu, como verdadeiramente o são pela sua origem divina. 6 Não os conspurques com a lama terrena. Esforça-te por torná-los como reflexos do sol da mais elevada espiritualidade.
 
 ---
 
-## 47 — Novo Natal
+## 47
 
 > | 16 de dezembro de 1930.
 
-Novo natal na Terra se anuncia,
-Clarão de luz nas épocas futuras,
-Quando a paz, portadora da alegria,
-Reinar perenemente entre as criaturas.
-Quando o mundo, vibrando em harmonia,
-Buscar o bem, a fonte das venturas,
-E acordando de amarga letargia
-Encaminhar-se lúcido às Alturas,
-Quando o amor, em auroras promissoras,
-Iluminar as almas sofredoras,
-Desviando-as da dor, da imperfeição,
-Veremos nós, então, entre fulgores,
-O natal de perenes esplendores
-— Cristo nascendo em cada coração!
+1 Novo natal na Terra se anuncia, Clarão de luz nas épocas futuras, Quando a paz, portadora da alegria, Reinar perenemente entre as criaturas.
+1 Quando o mundo, vibrando em harmonia, Buscar o bem, a fonte das venturas, E acordando de amarga letargia Encaminhar-se lúcido às Alturas,
+1 Quando o amor, em auroras promissoras, Iluminar as almas sofredoras, Desviando-as da dor, da imperfeição,
+1 Veremos nós, então, entre fulgores, O natal de perenes esplendores — Cristo nascendo em cada coração!
 
 ---
 
-## 48 — Cristo-Luz
+## 48
 
 > | 1º de janeiro de 1931.
 
-Cristo-Luz, de doçura e de piedade,
-Tu que ao mundo ofertaste na existência
-O grandioso tesouro da humildade,
-A mais bela e a mais fúlgida ciência,
-Cristo-Luz, de bondade e onipotência,
-Da grandeza sublime da verdade,
-Tu que fostes do amor a suma essência
-Neste vale de dor e iniquidade,
-Tu que destes aos terrenos caminheiros
-Os tesouros fulgentes, verdadeiros,
-A trilhar uma estrada toda espinhos,
-Tu serás, através da Eternidade,
-Na vanguarda da pobre humanidade,
-Cristo-Luz entre a noite dos caminhos!
+1 Cristo-Luz, de doçura e de piedade, Tu que ao mundo ofertaste na existência O grandioso tesouro da humildade, A mais bela e a mais fúlgida ciência,
+2 Cristo-Luz, de bondade e onipotência, Da grandeza sublime da verdade, Tu que fostes do amor a suma essência Neste vale de dor e iniquidade,
+3 Tu que destes aos terrenos caminheiros Os tesouros fulgentes, verdadeiros, A trilhar uma estrada toda espinhos,
+4 Tu serás, através da Eternidade, Na vanguarda da pobre humanidade, Cristo-Luz entre a noite dos caminhos!
 
 ---
 
-## 49 — Fonte divina
+## 49
 
 > | 1º de janeiro de 1931.
 
-Não és pequeno e incapaz.
-Teu coração é uma fonte inesgotável de imperecíveis venturas. Rasga impavidamente os véus espessos de materialidade que o envolvem e encontrarás tesouros incomparáveis!
-Que são essas preciosidades? São fragmentos de amor e de piedade.
-Abre as portas do tabernáculo de tua alma e deixa que de lá se evole a essência puríssima derramada pelo Senhor em teu íntimo. A ti te compete descobri-la, quando então te sentirás na posse do gozo supremo.
-Encontrando essas riquezas de amor, oferece-as ao mundo, prodigamente. É um manancial inexaurível que possuirás. À medida que fores espargindo as suas excelsitudes, mais esplendores dele virão à luz meridiana. Conquistarás a felicidade sem mescla.
-Será, pois, do teu coração amoroso que farás o teu templo de ventura, erigido com as mais deslumbrantes pérolas espirituais — de um fulgor tão sublime que suplantam às dos estojos de Golconda,
-de um jaez tão puro e incomparável que ofuscariam todas as joias raras contidas nos fabulosos erários de Salomão.
+1 Não és pequeno e incapaz. 2 Teu coração é uma fonte inesgotável de imperecíveis venturas. Rasga impavidamente os véus espessos de materialidade que o envolvem e encontrarás tesouros incomparáveis! 3 Que são essas preciosidades? São fragmentos de amor e de piedade. 4 Abre as portas do tabernáculo de tua alma e deixa que de lá se evole a essência puríssima derramada pelo Senhor em teu íntimo. A ti te compete descobri-la, quando então te sentirás na posse do gozo supremo.
+5 Encontrando essas riquezas de amor, oferece-as ao mundo, prodigamente. É um manancial inexaurível que possuirás. À medida que fores espargindo as suas excelsitudes, mais esplendores dele virão à luz meridiana. Conquistarás a felicidade sem mescla.
+6 Será, pois, do teu coração amoroso que farás o teu templo de ventura, erigido com as mais deslumbrantes pérolas espirituais — de um fulgor tão sublime que suplantam às dos estojos de Golconda, (†) de um jaez tão puro e incomparável que ofuscariam todas as joias raras contidas nos fabulosos erários de Salomão.
 
 ---
 
-## 50 — Ciência e religião
+## 50
 
 > | 16 de janeiro de 1931.
 
-Ciência, é a tua mão potente e austera
-Que, removendo os óbices da estrada,
-Impõe-se à nossa vida continuada,
-Que tão profundamente te venera.
-Religião, é tua luz que regenera
-É o sol da nossa vida deslumbrada;
-Luz que conforta a alma torturada,
-Mergulhando-a em celeste primavera.
-Ciência e religião, fraternalmente,
-Numa eterna aliança inquebrantável,
-Formando uma só luz resplandecente,
-Haveis de, com firmeza, conduzir
-O humano ser ao sol incomparável,
-Nas grandezas eternas do porvir.
+1 Ciência, é a tua mão potente e austera Que, removendo os óbices da estrada, Impõe-se à nossa vida continuada, Que tão profundamente te venera.
+2 Religião, é tua luz que regenera É o sol da nossa vida deslumbrada; Luz que conforta a alma torturada, Mergulhando-a em celeste primavera.
+3 Ciência e religião, fraternalmente, Numa eterna aliança inquebrantável, Formando uma só luz resplandecente,
+4 Haveis de, com firmeza, conduzir O humano ser ao sol incomparável, Nas grandezas eternas do porvir.
 
 ---
 
-## 51 — Beleza íntima
+## 51
 
 > | 16 de janeiro de 1931.
 
-A nobreza de alma, a elevação de sentimentos, o caráter adamantino conceder-te-ão a beleza íntima, que te conduzirá ao celeste tabor da transfiguração.
-Ama a bondade. Ela será em ti qual uma alvorada espadanando jorros de intensa luz! Ela realçará a radiosidade do teu Espírito, santificará teus pensamentos, divinizará teus afetos, iluminará teus sorrisos, impedirá irradiações desconhecidas em teu olhar, fixando em ti a beleza íntima, na sua mais lúcida expressão.
-Jamais deturpes os tons harmoniosos dessa excelsitude sublime que fulgirá, então, no recesso do teu ser.
-
-A cólera, a inveja, o ciúme, o despeito e todos os inimigos da tranquilidade moral hão de alvejar-te impiedosamente. Todavia, concentra a tua coragem e repele os seus insidiosos ataques. Cobre-te, totalmente, com a couraça do amor e tornar-te-ás constantemente invulnerável às suas insólitas investidas.
-Acende essa luz interior, que será o teu magno tesouro, e verás como a beleza íntima irradiar-se-á das tuas palavras e ações, e todas as obras do teu Espírito no campo físico e moral serão fragmentos maravilhosos da beleza eterna, inconfundivelmente expressa na obra sublime do Criador.
+1 A nobreza de alma, a elevação de sentimentos, o caráter adamantino conceder-te-ão a beleza íntima, que te conduzirá ao celeste tabor da transfiguração. ( † )
+2 Ama a bondade. Ela será em ti qual uma alvorada espadanando jorros de intensa luz! Ela realçará a radiosidade do teu Espírito, santificará teus pensamentos, divinizará teus afetos, iluminará teus sorrisos, impedirá irradiações desconhecidas em teu olhar, fixando em ti a beleza íntima, na sua mais lúcida expressão. Jamais deturpes os tons harmoniosos dessa excelsitude sublime que fulgirá, então, no recesso do teu ser.
+3 A cólera, a inveja, o ciúme, o despeito e todos os inimigos da tranquilidade moral hão de alvejar-te impiedosamente. Todavia, concentra a tua coragem e repele os seus insidiosos ataques. Cobre-te, totalmente, com a couraça do amor e tornar-te-ás constantemente invulnerável às suas insólitas investidas.
+4 Acende essa luz interior, que será o teu magno tesouro, e verás como a beleza íntima irradiar-se-á das tuas palavras e ações, e todas as obras do teu Espírito no campo físico e moral serão fragmentos maravilhosos da beleza eterna, inconfundivelmente expressa na obra sublime do Criador.
 
 ---
 
-## 52 — Questão religiosa
+## 52
 
 > | 16 de fevereiro de 1931.
 
-Sempre compreendi que o neo-espiritualismo, sem dogmatismos inconsequentes, será o ponto único para onde convergirão todas as religiões, irmanando-as, unindo-as pelos mais inquebrantáveis laços de fraternidade, fazendo desaparecer de entre elas os dissídios ocasionados pelo fanatismo sectário, esclarecendo a elas todas com esta radiosa verdade: Deus é amor!
-Daí procede o meu respeito por todas as organizações doutrinárias e sistemas filosóficos, acatando as suas veneráveis instituições, preferindo buscar na documentação da sua vida somente o belo, o puro e o bom nas excelsas realizações da verdade, abstendo-me de ver na sua história os fragmentos de treva ali impressos pela insânia, pois que errar é da humanidade e somente o desenrolar dos séculos, no transcurso intérmino dos tempos, conduzirá o homem à culminância do progresso.
-Porém, quando em meio do acervo de todas as ideias religiosas, uma se levanta, solerte e arrogante, inflada de orgulho e soberba, acicatada pela ambição de dominar e manietar o pensamento alheio, proclamando uma superioridade que não se lhe reconhece e ainda estribando-se na humildade de Jesus para dar amplitude aos seus sentimentos inconfessáveis.
-É lícito que todos os Espíritos amantes da luz e da liberdade protestem solenemente para que a emancipação do pensamento religioso não seja um mito, para que a vida não recue a um passado de atrocidades inumeráveis.
-Refiro-me às pretensões da Igreja Romana, arregimentando os seus adeptos para alcançar um decreto que obrigue o ensino da sua grei nos estabelecimentos de educação no Brasil, e, quem sabe, talvez a oficialização do seu credo em nossa pátria.
-Nunca é demais reafirmar que não lhe assiste esse direito. Condenam-na os seus próprios atos: Roma prega a renúncia ao mundo quando o seu apego às coisas terrestres é inultrapassável; aconselha a pobreza voluntária quando a sua opulência deslumbra o mundo, quando os seus palácios episcopais e presbitérios são oásis encantados, onde o luxo se revela nas mínimas particularidades; ensina a prática da caridade quando os seus ministros são negadores dessa virtude, que Paulo classificava como a maior de todas; exorta à humildade quando o seu orgulho inaudito revolta os corações bem-formados; aconselha a fraternidade quando a intolerância é um dos seus maiores característicos; manda perdoar, instalando tribunais de condenação e insinuando a criação da pena de morte.
-Uma digressão na História comprova-nos o quanto a Igreja Romana tem entravado o progresso da humanidade.
-Ainda hoje, essa organização religiosa sustenta as mesmas peias dogmáticas que sustentaram muitos do romanismo, indignos do nome de sucessores de São Pedro. Enumerá-los e dizer algo da sua passagem pela Terra é tarefa que o pudor ordena silenciar, tal a extensão das suas faltas e misérias incontáveis. E, no entanto, Pio IX,
-em pleno século XIX, proclamou o dogma da infalibilidade do papa,
-homem cheio de fraquezas e imperfeições, inerentes à natureza humana.
-Nos arraiais dessa mesma Igreja vicejaram almas puríssimas, que consubstanciavam em si todas as virtudes, verdadeiros enviados de Deus, cujas pegadas não foram seguidas. A veneranda e luminosa figura de Francisco de Assis
-resplendeu no século XIII, o que não obstou a fundação da Inquisição,
-que ensanguentou, durante séculos, as páginas da história universal, deixando um cortejo de lúgubres recordações. A mais esclarecida argumentação será paupérrima para discorrer sobre esse abantesma atrofiador da evolução dos povos.
-Que digam os inquisidores gerais, as pobres vítimas dos cárceres sombrios do Santo Ofício
-e todos aqueles que se aproveitaram do nome sagrado de Deus para as suas tremendas vinditas!
-O romanismo sempre temeu a luz e, por esse motivo, nunca amou o progresso, nem marchou na vanguarda da evolução dos povos. Como que cioso da perda da sua autoridade espiritual, ocasionada pelos seus próprios exemplos, ele procura afoitamente centuplicar os seus esforços para armar-se e novamente bradar: “Crê ou morre!”
-Mas a verdade, emergindo radiosa do livro da história da Terra, há de apontar-lhe a sua trajetória, não permitindo que ela venha tolher os surtos do progresso, que maniete o pensamento alheio, que roube a luz da liberdade, que reacenda nas praças públicas as suas fogueiras sanguinárias.
-Não será permitido que domine sobre a mentalidade atual, que tripudie sobre o Evangelho do Cristo. Quem aproveita situações fáceis para humilhar coletividades inteiras, quem tem por arma a intriga, quem mais ama o interesse que a verdade, quem, finalmente, dizendo-se da parte de Deus não dá a Deus o que de Deus é.
+1 Sempre compreendi que o neo-espiritualismo, sem dogmatismos inconsequentes, será o ponto único para onde convergirão todas as religiões, irmanando-as, unindo-as pelos mais inquebrantáveis laços de fraternidade, fazendo desaparecer de entre elas os dissídios ocasionados pelo fanatismo sectário, esclarecendo a elas todas com esta radiosa verdade: Deus é amor!
+2 Daí procede o meu respeito por todas as organizações doutrinárias e sistemas filosóficos, acatando as suas veneráveis instituições, preferindo buscar na documentação da sua vida somente o belo, o puro e o bom nas excelsas realizações da verdade, abstendo-me de ver na sua história os fragmentos de treva ali impressos pela insânia, pois que errar é da humanidade e somente o desenrolar dos séculos, no transcurso intérmino dos tempos, conduzirá o homem à culminância do progresso. 3 Porém, quando em meio do acervo de todas as ideias religiosas, uma se levanta, solerte e arrogante, inflada de orgulho e soberba, acicatada pela ambição de dominar e manietar o pensamento alheio, proclamando uma superioridade que não se lhe reconhece e ainda estribando-se na humildade de Jesus para dar amplitude aos seus sentimentos inconfessáveis. 4 É lícito que todos os Espíritos amantes da luz e da liberdade protestem solenemente para que a emancipação do pensamento religioso não seja um mito, para que a vida não recue a um passado de atrocidades inumeráveis.
+5 Refiro-me às pretensões da Igreja Romana, arregimentando os seus adeptos para alcançar um decreto que obrigue o ensino da sua grei nos estabelecimentos de educação no Brasil, e, quem sabe, talvez a oficialização do seu credo em nossa pátria. 6 Nunca é demais reafirmar que não lhe assiste esse direito. Condenam-na os seus próprios atos: Roma prega a renúncia ao mundo quando o seu apego às coisas terrestres é inultrapassável; aconselha a pobreza voluntária quando a sua opulência deslumbra o mundo, quando os seus palácios episcopais e presbitérios são oásis encantados, onde o luxo se revela nas mínimas particularidades; ensina a prática da caridade quando os seus ministros são negadores dessa virtude, que Paulo classificava como a maior de todas; exorta à humildade quando o seu orgulho inaudito revolta os corações bem-formados; aconselha a fraternidade quando a intolerância é um dos seus maiores característicos; manda perdoar, instalando tribunais de condenação e insinuando a criação da pena de morte.
+7 Uma digressão na História comprova-nos o quanto a Igreja Romana tem entravado o progresso da humanidade.
+8 Ainda hoje, essa organização religiosa sustenta as mesmas peias dogmáticas que sustentaram muitos do romanismo, indignos do nome de sucessores de São Pedro. Enumerá-los e dizer algo da sua passagem pela Terra é tarefa que o pudor ordena silenciar, tal a extensão das suas faltas e misérias incontáveis. E, no entanto, Pio IX, ( † ) em pleno século XIX, proclamou o dogma da infalibilidade do papa, ( † ) homem cheio de fraquezas e imperfeições, inerentes à natureza humana.
+9 Nos arraiais dessa mesma Igreja vicejaram almas puríssimas, que consubstanciavam em si todas as virtudes, verdadeiros enviados de Deus, cujas pegadas não foram seguidas. A veneranda e luminosa figura de Francisco de Assis ( † ) resplendeu no século XIII, o que não obstou a fundação da Inquisição, ( † ) que ensanguentou, durante séculos, as páginas da história universal, deixando um cortejo de lúgubres recordações. A mais esclarecida argumentação será paupérrima para discorrer sobre esse abantesma atrofiador da evolução dos povos.
+10 Que digam os inquisidores gerais, as pobres vítimas dos cárceres sombrios do Santo Ofício ( † ) e todos aqueles que se aproveitaram do nome sagrado de Deus para as suas tremendas vinditas!
+11 O romanismo sempre temeu a luz e, por esse motivo, nunca amou o progresso, nem marchou na vanguarda da evolução dos povos. Como que cioso da perda da sua autoridade espiritual, ocasionada pelos seus próprios exemplos, ele procura afoitamente centuplicar os seus esforços para armar-se e novamente bradar: “Crê ou morre!”
+12 Mas a verdade, emergindo radiosa do livro da história da Terra, há de apontar-lhe a sua trajetória, não permitindo que ela venha tolher os surtos do progresso, que maniete o pensamento alheio, que roube a luz da liberdade, que reacenda nas praças públicas as suas fogueiras sanguinárias.
+13 Não será permitido que domine sobre a mentalidade atual, que tripudie sobre o Evangelho do Cristo. Quem aproveita situações fáceis para humilhar coletividades inteiras, quem tem por arma a intriga, quem mais ama o interesse que a verdade, quem, finalmente, dizendo-se da parte de Deus não dá a Deus o que de Deus é.
 
 ---
 
-## 53 — Apascentar ovelhas
+## 53
 
 > | 16 de março de 1931.
 
-Baseada nesta apóstrofe de Jesus ao apóstolo — “Pedro, apascenta as minhas ovelhas” —,
-irroga-se a Igreja Romana no direito de ser a única mentora das almas em todo o orbe terráqueo.
-E o seu exclusivismo vai ao limite de anatematizar o próprio bem quando nasce entre aqueles que não se acham de acordo com os seus dogmas e artigos de fé.
-Desconhece, as mais das vezes, que o verdadeiro discípulo de Cristo é como o samaritano da sua parábola,
-que não pertence a nenhuma casta religiosa.
-Afinal, o que é apascentar ovelhas, tarefa essa que o Pastor divino frisou com a máxima relevância? Seria saciar-lhes com o pão simbólico da eucaristia que a Igreja afirma conter o corpo e o sangue de Jesus Cristo transubstanciados? Nunca! Apascentar ovelhas é prodigalizar-lhes o alimento da alma e dessedentar-lhes com a água viva dos bons exemplos, dos melhores exemplos!
-Nada vale a prédica sem a demonstração prática do método a seguir. Que valor possui o mais ornamentado sermão de Vieira
-e toda a eloquência de um Mont’Alverne
-para uma alma que padece de todos os sofrimentos sem conhecer caridosos cireneus para auxiliar-lhe a suportar o peso da cruz das provações remissoras?
-Portanto, apascentar ovelhas é ofertar-lhes o amor em gestos inesquecíveis. O pastor de almas é obrigado a mostrar-lhes a própria luz em si se não quer que suas ovelhas tresmalhadas se despenhem sobre abismos inestricáveis.
-Vejamos a Igreja, instituição venerável, que santificada com o sangue dos mártires do Cristianismo foi humanizada pelos homens.
-Por que é que Martinho Lutero
-fundou a Reforma?
-É que como membro da Igreja de Roma sonhara-a como seguidora irrepreensível da humildade de Jesus e ao reconhecer as suntuosidades de que vivia rodeado o maior representante de Cristo na Terra, e lançando um olhar retrospectivo ao passado do Nazareno, viu bem que ali se encontrava a antítese do filho de Maria.
-Por que se divorciaram da Igreja a maioria dos idealistas e filósofos, dos cultores das ciências e das artes? É porque ela não suporta a análise. Presa à opinião dos seus teólogos, não aceita as deduções científicas e as sugestões dos pensadores mais profundos.
-As torres das suas catedrais maravilhosas rasgam as nuvens. O seu interior deslumbra-nos com a magnificência de suas disposições. Lá dentro, porém, não se recebem os mendigos, os andrajosos, os cegos, os leprosos, os orfãozinhos e toda a classe de sofredores que formam o fundo do quadro incomparável da vida de Jesus. Ali acorrem os que possuem o terror do inferno e os que não têm a devida coragem moral para romper com as convenções sociais.
-A Igreja, portanto, desviou-se dos seus deveres. Não tem apascentado as ovelhas do sumo Pastor. Antes, submergiu-as num acervo de ritualismos e exterioridades, pouco se lhe dando que sejam iluminadas de vida interior. E daí a desilusão dos que refletem verdadeiramente, amando a verdade.
-Ela não satisfaz aos sinceros, sedentos de luz, porque não tem para dar o pão que alimenta a alma, a água que sacia o Espírito. Enervada pelas vanglórias do mundo, embriagada pelo desejo de domínio, a Igreja separou-se do Reino do Céu, fundando o seu no mundo da carne, e não se congraçará à “terra prometida”
-que Jesus fazia vislumbrar aos que o rodeavam enquanto não se convencer de que as palavras sem a verdadeira exemplificação são sementes tão áridas que se convertem em fontes inesgotáveis do mais entranhado dos ateísmos.
+1 Baseada nesta apóstrofe de Jesus ao apóstolo — “Pedro, apascenta as minhas ovelhas” —, ( † ) irroga-se a Igreja Romana no direito de ser a única mentora das almas em todo o orbe terráqueo. 2 E o seu exclusivismo vai ao limite de anatematizar o próprio bem quando nasce entre aqueles que não se acham de acordo com os seus dogmas e artigos de fé. 3 Desconhece, as mais das vezes, que o verdadeiro discípulo de Cristo é como o samaritano da sua parábola, ( † ) que não pertence a nenhuma casta religiosa.
+4 Afinal, o que é apascentar ovelhas, tarefa essa que o Pastor divino frisou com a máxima relevância? Seria saciar-lhes com o pão simbólico da eucaristia que a Igreja afirma conter o corpo e o sangue de Jesus Cristo transubstanciados? Nunca! Apascentar ovelhas é prodigalizar-lhes o alimento da alma e dessedentar-lhes com a água viva dos bons exemplos, dos melhores exemplos!
+5 Nada vale a prédica sem a demonstração prática do método a seguir. Que valor possui o mais ornamentado sermão de Vieira ( † ) e toda a eloquência de um Mont’Alverne ( † ) para uma alma que padece de todos os sofrimentos sem conhecer caridosos cireneus para auxiliar-lhe a suportar o peso da cruz das provações remissoras?
+6 Portanto, apascentar ovelhas é ofertar-lhes o amor em gestos inesquecíveis. O pastor de almas é obrigado a mostrar-lhes a própria luz em si se não quer que suas ovelhas tresmalhadas se despenhem sobre abismos inestricáveis.
+7 Vejamos a Igreja, instituição venerável, que santificada com o sangue dos mártires do Cristianismo foi humanizada pelos homens.
+8 Por que é que Martinho Lutero ( † ) fundou a Reforma? ( † ) É que como membro da Igreja de Roma sonhara-a como seguidora irrepreensível da humildade de Jesus e ao reconhecer as suntuosidades de que vivia rodeado o maior representante de Cristo na Terra, e lançando um olhar retrospectivo ao passado do Nazareno, viu bem que ali se encontrava a antítese do filho de Maria.
+9 Por que se divorciaram da Igreja a maioria dos idealistas e filósofos, dos cultores das ciências e das artes? É porque ela não suporta a análise. Presa à opinião dos seus teólogos, não aceita as deduções científicas e as sugestões dos pensadores mais profundos.
+10 As torres das suas catedrais maravilhosas rasgam as nuvens. O seu interior deslumbra-nos com a magnificência de suas disposições. Lá dentro, porém, não se recebem os mendigos, os andrajosos, os cegos, os leprosos, os orfãozinhos e toda a classe de sofredores que formam o fundo do quadro incomparável da vida de Jesus. Ali acorrem os que possuem o terror do inferno e os que não têm a devida coragem moral para romper com as convenções sociais.
+11 A Igreja, portanto, desviou-se dos seus deveres. Não tem apascentado as ovelhas do sumo Pastor. Antes, submergiu-as num acervo de ritualismos e exterioridades, pouco se lhe dando que sejam iluminadas de vida interior. E daí a desilusão dos que refletem verdadeiramente, amando a verdade.
+12 Ela não satisfaz aos sinceros, sedentos de luz, porque não tem para dar o pão que alimenta a alma, a água que sacia o Espírito. Enervada pelas vanglórias do mundo, embriagada pelo desejo de domínio, a Igreja separou-se do Reino do Céu, fundando o seu no mundo da carne, e não se congraçará à “terra prometida” ( † ) que Jesus fazia vislumbrar aos que o rodeavam enquanto não se convencer de que as palavras sem a verdadeira exemplificação são sementes tão áridas que se convertem em fontes inesgotáveis do mais entranhado dos ateísmos.
 
 ---
 
-## 54 — Liberdade de consciência
+## 54
 
 > | 1º de abril de 1931.
 
-Entrevistado pela imprensa sobre palpitantes assuntos de máximo interesse, no momento, para a nacionalidade brasileira, assim se exprimiu a inteligência lúcida e profunda do eminente estadista Sr. Borges de Medeiros, quanto à liberdade de consciência:
-“À Segunda República cabe manter, em toda a sua plenitude, a liberdade de consciência por todos os meios que ela possui para exprimir-se. O regime monárquico já consagrara no liberalismo de suas leis essa prerrogativa do povo, que é um direito decorrente da própria dignidade humana. A República, no código magnífico de leis que era a Constituição de 24 de fevereiro, consolidou essa conquista. A revolução só poderá respeitá-la e ampliá-la, a fim de corresponder aos ideais dos que a estimularam e fizeram. Sem liberdade de consciência, um povo não é digno de si mesmo e nem estará chamado a desempenhar no planeta um papel que marque o seu lugar na civilização contemporânea. Com a liberdade de consciência, teremos que assegurar todas as liberdades espirituais que a Constituição de 1891 já consagrara, em admirável amplitude”.
-Essa liberdade de consciência deve ser, especialmente, mais que nunca, uma prerrogativa do povo, no tocante às suas crenças.
-A pretendida questão religiosa é inexistente no Brasil; ela seria um fato incontestável se as inteligências evoluídas, que se constituíram em mentoras e governadoras do país, concedessem privilégios a esta ou àquela ideia religiosa, o que é contraproducente.
-O novo regime, que foi construído para a republicanização da República, cuja maior finalidade é o engrandecimento da pátria, para que o seu fulgor seja mais intenso no concerto das nações cultas e civilizadas, que possui como um dos seus máximos objetivos a morte das oligarquias, compadrios e escandalosas proteções, é inadmissível que viesse adotar essa medida incompatível com os seus ideais elevados e nobres. Adotá-lo seria embrutecer as consciências e a mentalidade atual já não comporta absurdos.
-Tal acontecimento é que seria o germe da questão religiosa, já que existem no Brasil adeptos de todas as crenças.
-Positivistas, católicos, protestantes, espíritas, teosofistas, partidários, afinal, de todas as doutrinas formam a coletividade brasileira, e seria justo que se privilegiassem uns, desabonando os outros?
-O critério das maiorias é inteiramente falho e somente a liberdade de crer e pensar como aprouver à mentalidade do homem vem resolver o problema. De outra forma, seria complicar e dificultar a sua solução.
-A liberdade de consciência, no domínio sagrado das crenças, deve ser inviolável.
-A liberdade do crer é um direito incorruptível do foro íntimo de cada um.
-Não se pode deter as caudais do progresso. A evolução tem que marchar vitoriosa e ininterruptamente através dos tempos.
-A esclarecida e luminosa mentalidade administrativa da nação, que garanta ao povo os seus amplos direitos, no que concerne à liberdade de consciência no terreno da crença, receberá de Deus as bênçãos frutisficadoras ao seu labor fecundo. É o que dela esperam todos aqueles que sonham com um liberalismo puro dentro de um Brasil engrandecido e feliz.
+1 Entrevistado pela imprensa sobre palpitantes assuntos de máximo interesse, no momento, para a nacionalidade brasileira, assim se exprimiu a inteligência lúcida e profunda do eminente estadista Sr. Borges de Medeiros, quanto à liberdade de consciência: 2 “À Segunda República cabe manter, em toda a sua plenitude, a liberdade de consciência por todos os meios que ela possui para exprimir-se. O regime monárquico já consagrara no liberalismo de suas leis essa prerrogativa do povo, que é um direito decorrente da própria dignidade humana. A República, no código magnífico de leis que era a Constituição de 24 de fevereiro, consolidou essa conquista. A revolução só poderá respeitá-la e ampliá-la, a fim de corresponder aos ideais dos que a estimularam e fizeram. Sem liberdade de consciência, um povo não é digno de si mesmo e nem estará chamado a desempenhar no planeta um papel que marque o seu lugar na civilização contemporânea. Com a liberdade de consciência, teremos que assegurar todas as liberdades espirituais que a Constituição de 1891 já consagrara, em admirável amplitude”.
+3 Essa liberdade de consciência deve ser, especialmente, mais que nunca, uma prerrogativa do povo, no tocante às suas crenças.
+4 A pretendida questão religiosa é inexistente no Brasil; ela seria um fato incontestável se as inteligências evoluídas, que se constituíram em mentoras e governadoras do país, concedessem privilégios a esta ou àquela ideia religiosa, o que é contraproducente. 5 O novo regime, que foi construído para a republicanização da República, cuja maior finalidade é o engrandecimento da pátria, para que o seu fulgor seja mais intenso no concerto das nações cultas e civilizadas, que possui como um dos seus máximos objetivos a morte das oligarquias, compadrios e escandalosas proteções, é inadmissível que viesse adotar essa medida incompatível com os seus ideais elevados e nobres. Adotá-lo seria embrutecer as consciências e a mentalidade atual já não comporta absurdos. 6 Tal acontecimento é que seria o germe da questão religiosa, já que existem no Brasil adeptos de todas as crenças.
+7 Positivistas, católicos, protestantes, espíritas, teosofistas, partidários, afinal, de todas as doutrinas formam a coletividade brasileira, e seria justo que se privilegiassem uns, desabonando os outros?
+8 O critério das maiorias é inteiramente falho e somente a liberdade de crer e pensar como aprouver à mentalidade do homem vem resolver o problema. De outra forma, seria complicar e dificultar a sua solução.
+9 A liberdade de consciência, no domínio sagrado das crenças, deve ser inviolável. 10 A liberdade do crer é um direito incorruptível do foro íntimo de cada um. 11 Não se pode deter as caudais do progresso. A evolução tem que marchar vitoriosa e ininterruptamente através dos tempos.
+12 A esclarecida e luminosa mentalidade administrativa da nação, que garanta ao povo os seus amplos direitos, no que concerne à liberdade de consciência no terreno da crença, receberá de Deus as bênçãos frutisficadoras ao seu labor fecundo. É o que dela esperam todos aqueles que sonham com um liberalismo puro dentro de um Brasil engrandecido e feliz.
 
 ---
 
-## 55 — O Espiritismo na atualidade
+## 55
 
 > | 16 de abril de 1931.
 
-Seguir Jesus é conduzir, intemerata e dignamente, ao calvário da redenção, a cruz que se acha sobre os ombros de todo aquele que se encontra em estágio na face da Terra, escola de acrisolamento e regeneração. Suportá-la é desempenhar todos os deveres cristãos para com Deus e para com o próximo.
-É a grandeza da humildade, a magnitude do amor, a excelsitude da caridade, o desinteresse do sacrifício, a sublimidade, a abnegação, a fortaleza da fé, o consolo do perdão, o afastamento do orgulho, a extinção do egoísmo, é, enfim, a renúncia total de tudo o que se faça em detrimento do Espírito imorredouro para o proveito falaz do corpo putrescível, eivado de instintos malsãos, com os quais tem o Espírito de combater para adquirir os galardões imperecíveis da luz.
-Foi, talvez, desconhecendo essa renúncia que as seitas militantes, no transcurso dos tempos, nas sendas da humanidade, pouco fizeram de bem no campo imenso da espiritualidade. Falaram de Deus, mas isolando-O do coração humano para colocá-Lo nos recintos faustosos dos seus templos de pedra. Entesouraram na Terra o que deveriam depositar nos Planos luminosos da Imortalidade. Tal imagem ainda apresenta o característico de quase todos aqueles que alcançaram de Deus a alta investidura de guiar almas neste mundo.
-Trocaram a luz pela sombra. Fizeram da religião, que deveria ser o estandarte da paz e do amor do Pai, para todas as criaturas, um motivo de criar sectarismos em todos os modos por que se manifestam as atividades na vida planetária.
-Antes de Deus colocaram o interesse mundano como o objetivo máximo de suas preocupações.
-Amordaçaram durante muito tempo o progresso, perseguindo os seus cultores.
-Renegaram a paz, incitando as guerras.
-Afastaram-se da humildade, humilhando os seus semelhantes.
-Esqueceram a lei do amor, que é a igualdade, distinguindo os pobres dos ricos e ainda oferecendo a estes títulos nobiliárquicos.
-Por tais abusos, a alma humana já quase não possui a força que vitaliza a luz da lâmpada que a ilumina — a fé. Daí os descalabros morais, a crise moral que domina homens, coletividades e povos.
-É nesse ambiente de falência da fé, com a ausência da crença, que brilha nos horizontes da Terra a Terceira Revelação, como a clamar no deserto: “Deus existe! A alma é imortal!”
-Ela vem como o cumprimento de consoladora e suave promessa a todos aqueles que esperam o sol do Evangelho na face do mundo. E como vem para restabelecer a verdade, para afastar a ignorância, para proclamar o amor, para a ressurreição da fé, para o renascimento do puro Cristianismo na Terra, recebem-na com maus olhos aqueles que buscam atrofiar a evolução do povo, embotando a sua mentalidade.
-Desejam-na destruída, porque ela lhes fere o interesse e o orgulho, proclamando o desinteresse e a fraternidade. Porém, ela não será destruída, porque não é concepção do homem imperfeito e enceguecido. Uma vontade superior, que é divina, preside os seus surtos de progresso, os seus alevantados voos em ascensão direta para a perfectibilidade. Malgrado a inópia de uns e a persistência de outros em conservar-se na treva, ela caminhará guiada pela mão de Deus, disseminando a paz, espargindo luzes, unificando as almas no mesmo ideal de perfeição.
-A mão do homem poderá tocá-la, todavia, ela ficará incólume e imperecível como tudo o que é divino.
-Não obstante a ciência negativista, a religião do interesse e a política sectária, a Terceira Revelação marchará desassombrada e do estado caótico em que jaz a humanidade terrena, sem crença e sem fé, ela formará a nova Terra, o novo horizonte, onde o amor de Deus será a luz imortal no coração humano, que então conhecerá a conquista da felicidade indestrutível.
+1 Seguir Jesus é conduzir, intemerata e dignamente, ao calvário da redenção, a cruz que se acha sobre os ombros de todo aquele que se encontra em estágio na face da Terra, escola de acrisolamento e regeneração. Suportá-la é desempenhar todos os deveres cristãos para com Deus e para com o próximo.
+2 É a grandeza da humildade, a magnitude do amor, a excelsitude da caridade, o desinteresse do sacrifício, a sublimidade, a abnegação, a fortaleza da fé, o consolo do perdão, o afastamento do orgulho, a extinção do egoísmo, é, enfim, a renúncia total de tudo o que se faça em detrimento do Espírito imorredouro para o proveito falaz do corpo putrescível, eivado de instintos malsãos, com os quais tem o Espírito de combater para adquirir os galardões imperecíveis da luz.
+3 Foi, talvez, desconhecendo essa renúncia que as seitas militantes, no transcurso dos tempos, nas sendas da humanidade, pouco fizeram de bem no campo imenso da espiritualidade. Falaram de Deus, mas isolando-O do coração humano para colocá-Lo nos recintos faustosos dos seus templos de pedra. Entesouraram na Terra o que deveriam depositar nos Planos luminosos da Imortalidade. Tal imagem ainda apresenta o característico de quase todos aqueles que alcançaram de Deus a alta investidura de guiar almas neste mundo.
+4 Trocaram a luz pela sombra. Fizeram da religião, que deveria ser o estandarte da paz e do amor do Pai, para todas as criaturas, um motivo de criar sectarismos em todos os modos por que se manifestam as atividades na vida planetária. 5 Antes de Deus colocaram o interesse mundano como o objetivo máximo de suas preocupações. 6 Amordaçaram durante muito tempo o progresso, perseguindo os seus cultores. 7 Renegaram a paz, incitando as guerras. 8 Afastaram-se da humildade, humilhando os seus semelhantes. 9 Esqueceram a lei do amor, que é a igualdade, distinguindo os pobres dos ricos e ainda oferecendo a estes títulos nobiliárquicos.
+10 Por tais abusos, a alma humana já quase não possui a força que vitaliza a luz da lâmpada que a ilumina — a fé. Daí os descalabros morais, a crise moral que domina homens, coletividades e povos. 11 É nesse ambiente de falência da fé, com a ausência da crença, que brilha nos horizontes da Terra a Terceira Revelação, como a clamar no deserto: “Deus existe! A alma é imortal!”
+12 Ela vem como o cumprimento de consoladora e suave promessa a todos aqueles que esperam o sol do Evangelho na face do mundo. E como vem para restabelecer a verdade, para afastar a ignorância, para proclamar o amor, para a ressurreição da fé, para o renascimento do puro Cristianismo na Terra, recebem-na com maus olhos aqueles que buscam atrofiar a evolução do povo, embotando a sua mentalidade.
+13 Desejam-na destruída, porque ela lhes fere o interesse e o orgulho, proclamando o desinteresse e a fraternidade. Porém, ela não será destruída, porque não é concepção do homem imperfeito e enceguecido. Uma vontade superior, que é divina, preside os seus surtos de progresso, os seus alevantados voos em ascensão direta para a perfectibilidade. Malgrado a inópia de uns e a persistência de outros em conservar-se na treva, ela caminhará guiada pela mão de Deus, disseminando a paz, espargindo luzes, unificando as almas no mesmo ideal de perfeição.
+14 A mão do homem poderá tocá-la, todavia, ela ficará incólume e imperecível como tudo o que é divino.
+15 Não obstante a ciência negativista, a religião do interesse e a política sectária, a Terceira Revelação marchará desassombrada e do estado caótico em que jaz a humanidade terrena, sem crença e sem fé, ela formará a nova Terra, o novo horizonte, onde o amor de Deus será a luz imortal no coração humano, que então conhecerá a conquista da felicidade indestrutível.
 
 ---
 
-## 56 — Ao “Aurora”
+## 56
 
 > | 1º de maio de 1931.
 
-
-, em tuas páginas de luz
-Refulge o sol esplêndido do amor,
-Reflexos das auras do Senhor
-— Os ensinos sublimes de Jesus.
-És um eco da voz do bom Pastor,
-Que, no tempo atual, se reproduz.
-Serena e meiga voz que conduz
-A uma existência excelsa e superior.
-
-, és bem um sol da alma cristã,
-Iluminando essa eternal manhã,
-Que na Terra começa a resplender!
-Mensageiro do bem, da luz, da paz,
-Com as armas do amor tu vencerás
-Nos austeros combates do dever!
+1 Aurora, em tuas páginas de luz Refulge o sol esplêndido do amor, Reflexos das auras do Senhor — Os ensinos sublimes de Jesus.
+2 És um eco da voz do bom Pastor, Que, no tempo atual, se reproduz. Serena e meiga voz que conduz A uma existência excelsa e superior.
+3 Aurora, és bem um sol da alma cristã, Iluminando essa eternal manhã, Que na Terra começa a resplender!
+4 Mensageiro do bem, da luz, da paz, Com as armas do amor tu vencerás Nos austeros combates do dever!
 
 ---
 
-## 57 — Salve imortalidade!
+## 57
 
 > | 1º de maio de 1931.
 
-Cerram-se teus olhos materiais para as aparências deste mundo de ilusões e abriu-se tua iluminada visão espiritual ao maravilhoso sol da Espiritualidade.
-Seria demasiado e inqualificável egoísmo lamentarmos o teu regresso à ditosa pátria dos Espíritos. Não, nós não choramos; uma indefinível alegria íntima inunda-nos o ser em te vermos feliz em demanda dos Planos superiores da vida.
-Tua alma nobilíssima, coroada de virtudes, soube erguer o castelo da ventura indestrutível nas regiões da Luz! Saúda, pois, essa imortalidade brilhante que te circunda!
-A nobreza e a elevação do teu Espírito formoso atraíram-te a falange radiosa de desvelados protetores, que te trouxeram as boas-vindas na tua volta às paragens do amor.
-Vi-os dulcificando as dores que dilaceravam o teu corpo, prodigalizando luz à tua alma generosa; abreviaram-te atrozes sofrimentos, desligando, caridosamente, os últimos liames que te agrilhoavam à carne putrescível.
-Vi-os, ainda, sorridentes e compassivos, a ampararem o teu ser em seus braços tutelares, encorajando-te com ternas e carinhosas palavras de conforto e consolação quando teus olhos verteram lágrimas ardentes por aqueles que deixavas nos cárceres da Terra!
-Escutei ainda que suas vozes angelicais uniam-se num cântico sublime de amor em agradecimento a Deus, hino intraduzível na nossa linguagem empobrecida que entoavam, louvando ao Pai misericordioso, que lhes permita, magnanimamente, auxiliar mais uma alma a libertar-se da existência planetária, tão fértil de amarguras.
-Vi que te achavas banhada de luz, como se te envolvessem em um manto de névoas resplandecentes, e reconheci que eras agraciada pelo sumo Árbitro do Universo com o selo divino que se denomina a Exaltação dos Humildes!
-Uma felicidade imorredoura circunda o teu eu imortal.
-Que mais queremos? O pranto seria egoísmo e conservando-te para sempre em nossa memória esperamos que nos auxilies a conduzirmos nesta vida o madeiro das provações remissoras.
-Alma aureolada por todas as virtudes, coração enobrecido pelos mais puros sentimentos, Espírito radioso de humildade e de amor, alça o teu pensamento, eleva-te mais ao alto, até ao coração lúcido das Esferas da perfeição!
-E que nós, sepultados nos túmulos da carne, do nosso triste exílio de sombras, possamos, resignados e venturosos, exclamar contigo: “Salve, Imortalidade!”
+1 Cerram-se teus olhos materiais para as aparências deste mundo de ilusões e abriu-se tua iluminada visão espiritual ao maravilhoso sol da Espiritualidade.
+2 Seria demasiado e inqualificável egoísmo lamentarmos o teu regresso à ditosa pátria dos Espíritos. Não, nós não choramos; uma indefinível alegria íntima inunda-nos o ser em te vermos feliz em demanda dos Planos superiores da vida. 3 Tua alma nobilíssima, coroada de virtudes, soube erguer o castelo da ventura indestrutível nas regiões da Luz! Saúda, pois, essa imortalidade brilhante que te circunda!
+4 A nobreza e a elevação do teu Espírito formoso atraíram-te a falange radiosa de desvelados protetores, que te trouxeram as boas-vindas na tua volta às paragens do amor.
+5 Vi-os dulcificando as dores que dilaceravam o teu corpo, prodigalizando luz à tua alma generosa; abreviaram-te atrozes sofrimentos, desligando, caridosamente, os últimos liames que te agrilhoavam à carne putrescível.
+6 Vi-os, ainda, sorridentes e compassivos, a ampararem o teu ser em seus braços tutelares, encorajando-te com ternas e carinhosas palavras de conforto e consolação quando teus olhos verteram lágrimas ardentes por aqueles que deixavas nos cárceres da Terra! 7 Escutei ainda que suas vozes angelicais uniam-se num cântico sublime de amor em agradecimento a Deus, hino intraduzível na nossa linguagem empobrecida que entoavam, louvando ao Pai misericordioso, que lhes permita, magnanimamente, auxiliar mais uma alma a libertar-se da existência planetária, tão fértil de amarguras. 8 Vi que te achavas banhada de luz, como se te envolvessem em um manto de névoas resplandecentes, e reconheci que eras agraciada pelo sumo Árbitro do Universo com o selo divino que se denomina a Exaltação dos Humildes!
+9 Uma felicidade imorredoura circunda o teu eu imortal. 10 Que mais queremos? O pranto seria egoísmo e conservando-te para sempre em nossa memória esperamos que nos auxilies a conduzirmos nesta vida o madeiro das provações remissoras.
+11 Alma aureolada por todas as virtudes, coração enobrecido pelos mais puros sentimentos, Espírito radioso de humildade e de amor, alça o teu pensamento, eleva-te mais ao alto, até ao coração lúcido das Esferas da perfeição!
+12 E que nós, sepultados nos túmulos da carne, do nosso triste exílio de sombras, possamos, resignados e venturosos, exclamar contigo: “Salve, Imortalidade!”
 
 ---
 
-## 58 — “Ide e pregai”
+## 58
 
 > | 16 de maio de 1931.
 
-Ide serenamente, apóstolos da luz,
-Nas sendas do viver, cheios de unção, pregai
-A piedade e o amor às almas ofertai.
-Nada temas. O bem é o sol que a Deus conduz.
-Trabalhadores, ide! Ao homem ensinai
-Que a caridade é a voz que à luta nos induz,
-Explicando, em verdade, o ensino de Jesus,
-Mensageiro de luz do excelso amor do Pai!
-E se um dia na lide, em meio de aflição,
-Receberdes o anátema, o apodo e a maldição
-Dos que evitam a luz, os novos fariseus,
-Ofertai-lhes em troca os bálsamos do amor,
-Lembrando-vos com fé, nas horas de amargor,
-Que acima deles impera o amor de Deus!
+1 Ide serenamente, apóstolos da luz, Nas sendas do viver, cheios de unção, pregai A piedade e o amor às almas ofertai. Nada temas. O bem é o sol que a Deus conduz.
+2 Trabalhadores, ide! Ao homem ensinai Que a caridade é a voz que à luta nos induz, Explicando, em verdade, o ensino de Jesus, Mensageiro de luz do excelso amor do Pai!
+3 E se um dia na lide, em meio de aflição, Receberdes o anátema, o apodo e a maldição Dos que evitam a luz, os novos fariseus,
+4 Ofertai-lhes em troca os bálsamos do amor, Lembrando-vos com fé, nas horas de amargor, Que acima deles impera o amor de Deus!
 
 ---
 
-## 59 — Época transitória
+## 59
 
 > | 1º de junho de 1931.
 
-Para o espírito observador, que busca estudar incessantemente as questões da vida, não passam desapercebidos os surpreendentes acontecimentos dos tempos atuais.
-Uma onda de agitação infrene e incoercível palpita no coração do homem e no seio das coletividades.
-A ciência humana devassou todos os campos que a matéria oferecia às suas perspectivas; contemplou as maravilhas do firmamento e conheceu as atividades do microcosmo; conheceu a estrutura íntima do organismo humano e trouxe à luz os segredos da biologia; descobriu a eletricidade e o magnetismo, com todas as suas inúmeras propriedades; transmitiu o som através das distâncias e descobriu a televisão; dominou os ares e a maior parte dos elementos da natureza; enfim, é quase indefinível a grandiosa e admirável obra que a ciência terrena tem realizado eficazmente.
-Todavia, o coração do homem deseja algo que a Terra não lhe prodigaliza, do que deriva o desmantelo das sociedades, mergulhadas nas correntes do ateísmo e do preconceito.
-As religiões, cujo objetivo seria colocar os homens sob o sublime estandarte do bem, desunem os homens, propagando a intolerância, divinizando o humano e humanizando Deus, excitando-os ao egoísmo, com a promessa de salvação por meio de ritualismos e exterioridades, apagando-lhes a fé com os seus exemplos diametralmente opostos aos seus ensinamentos.
-Falta, pois, a fé, que é a luz da crença, à sociedade hodierna.
-Sem esse sol que irradia da consciência, força vitalizadora da alma, o homem é nau sem palinuro, abandonado às borrascas tenebrosas que desabam sobre o oceano de encapeladas marés, que é a vida planetária.
-Ele não possui o conhecimento do seu destino; nada conhece da alma e da vida do Espírito.
-O materialismo obseca o seu íntimo, crestando a flor da sua esperança e ele se entrega a toda a classe de gozos mundanos.
-Degenera a luz da sua inteligência, misturando-a à lama das paixões malsãs, rebaixando a ciência, empregando-a como arma de destruição nas lutas fratricidas.
-Pouco se preocupa com os problemas da vida e da morte; é o homem atual quase destituído de fé, de amor, de crença e de luz.
-E é nesta época de desmantelo e confusão que à Doutrina consoladora dos mensageiros divinos, codificada pelo insigne mestre Allan Kardec, cabe uma finalidade extraordinária.
-O Espiritismo cristão é o remanescente do grandioso ideal dos apóstolos de Jesus, no início do desenvolvimento das doutrinas excelsas, emanadas do Cristo de Deus.
-Ele vem restabelecer a lei em seus devidos termos, ressuscitando o Evangelho do Mestre divino, fazendo com que a humanidade reconheça o Deus de amor, de bondade, de misericórdia, de justiça, de caridade, de luz e perdão.
-Ele vem como o Consolador prometido, na hora certa, em que a alma humana se debate nas bordas do abismo, arrancando-a da sua inércia criminosa e apontando-lhe o luminoso destino que lhe compete atingir.
-Portanto, é o Espiritismo nos dias atuais a ânfora abençoada que contém a água cristalina da vida com que o Criador dessedenta as Suas criaturas da Terra, ávidas de luz.
-É ele o campo vastíssimo, onde o sol espiritual resplandece para todos indistintamente; a alma sofredora nele encontra os inesgotáveis mananciais, onde haure doces consolações; onde o pensador encontra grandiosidades incomparáveis para as suas lucubrações; onde o ateu encontra a fé sólida e a crença imorredoura.
-Ao Espiritismo, pois, cabe um papel proeminente na civilização contemporânea. Fazendo ressurgir o Evangelho de Jesus em toda a sua pureza primitiva, fundindo a fé e a ciência numa mesma elevada e santa aspiração, ele fraternizará os homens, os lares e os povos, unindo-os nos mesmos desejos sãos e altruísticos para a excelsa conquista do perfeito, na divina ascensão para Deus.
+1 Para o espírito observador, que busca estudar incessantemente as questões da vida, não passam desapercebidos os surpreendentes acontecimentos dos tempos atuais.
+2 Uma onda de agitação infrene e incoercível palpita no coração do homem e no seio das coletividades.
+3 A ciência humana devassou todos os campos que a matéria oferecia às suas perspectivas; contemplou as maravilhas do firmamento e conheceu as atividades do microcosmo; conheceu a estrutura íntima do organismo humano e trouxe à luz os segredos da biologia; descobriu a eletricidade e o magnetismo, com todas as suas inúmeras propriedades; transmitiu o som através das distâncias e descobriu a televisão; dominou os ares e a maior parte dos elementos da natureza; enfim, é quase indefinível a grandiosa e admirável obra que a ciência terrena tem realizado eficazmente. 4 Todavia, o coração do homem deseja algo que a Terra não lhe prodigaliza, do que deriva o desmantelo das sociedades, mergulhadas nas correntes do ateísmo e do preconceito.
+5 As religiões, cujo objetivo seria colocar os homens sob o sublime estandarte do bem, desunem os homens, propagando a intolerância, divinizando o humano e humanizando Deus, excitando-os ao egoísmo, com a promessa de salvação por meio de ritualismos e exterioridades, apagando-lhes a fé com os seus exemplos diametralmente opostos aos seus ensinamentos.
+6 Falta, pois, a fé, que é a luz da crença, à sociedade hodierna. 7 Sem esse sol que irradia da consciência, força vitalizadora da alma, o homem é nau sem palinuro, abandonado às borrascas tenebrosas que desabam sobre o oceano de encapeladas marés, que é a vida planetária. 8 Ele não possui o conhecimento do seu destino; nada conhece da alma e da vida do Espírito. 9 O materialismo obseca o seu íntimo, crestando a flor da sua esperança e ele se entrega a toda a classe de gozos mundanos.
+10 Degenera a luz da sua inteligência, misturando-a à lama das paixões malsãs, rebaixando a ciência, empregando-a como arma de destruição nas lutas fratricidas. 11 Pouco se preocupa com os problemas da vida e da morte; é o homem atual quase destituído de fé, de amor, de crença e de luz. 12 E é nesta época de desmantelo e confusão que à Doutrina consoladora dos mensageiros divinos, codificada pelo insigne mestre Allan Kardec, cabe uma finalidade extraordinária.
+13 O Espiritismo cristão é o remanescente do grandioso ideal dos apóstolos de Jesus, no início do desenvolvimento das doutrinas excelsas, emanadas do Cristo de Deus. 14 Ele vem restabelecer a lei em seus devidos termos, ressuscitando o Evangelho do Mestre divino, fazendo com que a humanidade reconheça o Deus de amor, de bondade, de misericórdia, de justiça, de caridade, de luz e perdão. 15 Ele vem como o Consolador prometido, na hora certa, em que a alma humana se debate nas bordas do abismo, arrancando-a da sua inércia criminosa e apontando-lhe o luminoso destino que lhe compete atingir.
+16 Portanto, é o Espiritismo nos dias atuais a ânfora abençoada que contém a água cristalina da vida com que o Criador dessedenta as Suas criaturas da Terra, ávidas de luz. 17 É ele o campo vastíssimo, onde o sol espiritual resplandece para todos indistintamente; a alma sofredora nele encontra os inesgotáveis mananciais, onde haure doces consolações; onde o pensador encontra grandiosidades incomparáveis para as suas lucubrações; onde o ateu encontra a fé sólida e a crença imorredoura.
+18 Ao Espiritismo, pois, cabe um papel proeminente na civilização contemporânea. Fazendo ressurgir o Evangelho de Jesus em toda a sua pureza primitiva, fundindo a fé e a ciência numa mesma elevada e santa aspiração, ele fraternizará os homens, os lares e os povos, unindo-os nos mesmos desejos sãos e altruísticos para a excelsa conquista do perfeito, na divina ascensão para Deus.
 
 ---
 
-## 60 — Dentro da vida
+## 60
 
 > | 16 de junho de 1931.
 
-Pela vida, nas sendas pedregosas,
-Há tanto pão e há tantos esfaimados,
-Há sol e há muitas sendas tenebrosas,
-Existe o amor e há tantos desprezados.
-Há prazeres e há mágoas dolorosas,
-Há bonança e existem flagelados,
-Há virtudes radiantes como as rosas
-E o negrume da treva dos pecados.
-Há afeto e há tantos órfãos sem carinhos,
-Há paz e existe a guerra fratricida,
-Há fé e existem míseros ateus!
-Mas, sobretudo, em todos os caminhos,
-Eu vejo a sublime essência desta vida,
-Suma essência da luz do amor de Deus!
+1 Pela vida, nas sendas pedregosas, Há tanto pão e há tantos esfaimados, Há sol e há muitas sendas tenebrosas, Existe o amor e há tantos desprezados.
+2 Há prazeres e há mágoas dolorosas, Há bonança e existem flagelados, Há virtudes radiantes como as rosas E o negrume da treva dos pecados.
+3 Há afeto e há tantos órfãos sem carinhos, Há paz e existe a guerra fratricida, Há fé e existem míseros ateus!
+4 Mas, sobretudo, em todos os caminhos, Eu vejo a sublime essência desta vida, Suma essência da luz do amor de Deus!
 
 ---
 
-## 61 — Serão salvos
+## 61
 
 > | 1º de julho de 1931.
 
-Por que dissera o Cristo: “Aqueles que perseverarem até o fim serão salvos”?
-As suas palavras abrangiam todos os tempos e mormente os tempos atuais, em que a alma humana começa a divisar uma transformação insólita em todos os cenários da vida.
-Ora, nenhuma transformação se opera sem abalos, e daí as convulsões que agitam o seio das coletividades e dos povos.
-Muitas dores pairarão sobre a humanidade até que cada ovelha retome o caminho do aprisco.
-
-Felizes os que palmilharem essas sendas estreitas e pedregosas com os olhos fitos na misericórdia do Senhor; demasiados já foram os desgarres do passado e a hora é de submissão aos desígnios do Alto, de obediência às vozes abençoadas do Pastor.
-Erguemos excessivamente alta a Babel do nosso orgulho e é necessário que a dor, desempenhando uma nobilitante missão, venha confundir os nossos falsos sentimentos, destruindo os momentos instáveis da ambição humana para erigir no orbe terráqueo os verdadeiros templos do amor divino.
-Sofre o homem isoladamente e sofrem sociedades inteiras.
-E a humanidade exclama: “Deus não existe, a alma é uma utopia; tudo na vida é lei cega que nos impele às maiores calamidades!”
-Porém, alguns Espíritos existem que marcham cheios de coragem e de fé Naquele que prometeu que suas palavras não passariam.
-São estes que assim procedem os que perseveram e os que serão salvos.
-Estes que, apesar de contemplarem a maioria dos seus semelhantes mergulhados no ateísmo e na descrença, confiam no Pai, cujo amor é infinito, que embora vendo os seus irmãos destruindo-se reciprocamente não se abalançam às lutas fraticidas;
-estes que se conservam como sóis de espiritualidade, como exemplos fiéis de amor, de caridade, de fé, de abnegação. Estes serão salvos.
-São as luzes do presente e do porvir. Em meio de todas as calamidades, de todas as provações e angústias, suas almas voejarão muito acima do pantanal de misérias, porque possuem, a iluminar-lhes o íntimo, a luz imortal do amor divino, que lhes é o sol dentro das trevas, a consolação nas amarguras, a coragem nas vacilações, a verdadeira saúde do Espírito.
-Que lhes importam os sacrifícios em prol do amor e da verdade? Bem reconhecem que após a vida planetária, plena de vicissitudes, abre-se o horizonte ilimitado da existência da alma, circundada de luz numa eternidade de glórias.
-Sentem em seu próprio coração as pulsações do coração do Salvador.
-Avançam intemeratos nas páginas do dever, conservando eternal em suas almas nobilíssimas o amor exemplificado pelos instrutores abnegados da humanidade.
-Desembaraçam-se de todos os obstáculos, porque esse amor é a bússola que os guia no mar tempestuoso das lutas materiais.
-Espíritas, sejamos soldados humildes no exército daqueles que assim perseveram! Avante em demanda da perfeição!
-Jesus é o divino modelo. Sigamo-lo sem fraquezas, sem tergiversações, e o nosso futuro será aureolado de eterna luz!
+1 Por que dissera o Cristo: “Aqueles que perseverarem até o fim serão salvos”? ( † )
+2 As suas palavras abrangiam todos os tempos e mormente os tempos atuais, em que a alma humana começa a divisar uma transformação insólita em todos os cenários da vida.
+3 Ora, nenhuma transformação se opera sem abalos, e daí as convulsões que agitam o seio das coletividades e dos povos. 4 Muitas dores pairarão sobre a humanidade até que cada ovelha retome o caminho do aprisco. 5 Felizes os que palmilharem essas sendas estreitas e pedregosas com os olhos fitos na misericórdia do Senhor; demasiados já foram os desgarres do passado e a hora é de submissão aos desígnios do Alto, de obediência às vozes abençoadas do Pastor.
+6 Erguemos excessivamente alta a Babel do nosso orgulho e é necessário que a dor, desempenhando uma nobilitante missão, venha confundir os nossos falsos sentimentos, destruindo os momentos instáveis da ambição humana para erigir no orbe terráqueo os verdadeiros templos do amor divino.
+7 Sofre o homem isoladamente e sofrem sociedades inteiras. 8 E a humanidade exclama: “Deus não existe, a alma é uma utopia; tudo na vida é lei cega que nos impele às maiores calamidades!” 9 Porém, alguns Espíritos existem que marcham cheios de coragem e de fé Naquele que prometeu que suas palavras não passariam. ( † ) São estes que assim procedem os que perseveram e os que serão salvos. 10 Estes que, apesar de contemplarem a maioria dos seus semelhantes mergulhados no ateísmo e na descrença, confiam no Pai, cujo amor é infinito, que embora vendo os seus irmãos destruindo-se reciprocamente não se abalançam às lutas fraticidas; 11 estes que se conservam como sóis de espiritualidade, como exemplos fiéis de amor, de caridade, de fé, de abnegação. Estes serão salvos. 12 São as luzes do presente e do porvir. Em meio de todas as calamidades, de todas as provações e angústias, suas almas voejarão muito acima do pantanal de misérias, porque possuem, a iluminar-lhes o íntimo, a luz imortal do amor divino, que lhes é o sol dentro das trevas, a consolação nas amarguras, a coragem nas vacilações, a verdadeira saúde do Espírito.
+13 Que lhes importam os sacrifícios em prol do amor e da verdade? Bem reconhecem que após a vida planetária, plena de vicissitudes, abre-se o horizonte ilimitado da existência da alma, circundada de luz numa eternidade de glórias. 14 Sentem em seu próprio coração as pulsações do coração do Salvador. 15 Avançam intemeratos nas páginas do dever, conservando eternal em suas almas nobilíssimas o amor exemplificado pelos instrutores abnegados da humanidade. 16 Desembaraçam-se de todos os obstáculos, porque esse amor é a bússola que os guia no mar tempestuoso das lutas materiais.
+17 Espíritas, sejamos soldados humildes no exército daqueles que assim perseveram! Avante em demanda da perfeição! 18 Jesus é o divino modelo. Sigamo-lo sem fraquezas, sem tergiversações, e o nosso futuro será aureolado de eterna luz!
 
 ---
 
-## 62 — Igreja pequena
+## 62
 
 > | 16 de julho de 1931.
 
-A Igreja Romana começa a sentir, na atualidade, os efeitos da tempestade oriunda das nuvens de obscuridades e trevas que ela própria amontoou sobre a sua cabeça.
-De há muito que ela é reconhecida como uma das maiores potências políticas do mundo, sendo mais que manifesta a sua separação do Reino de Deus.
-Somente agora, porém, vão as coletividades reconhecendo que as suas palavras sobre as coisas sagradas são mantos dourados cobrindo a hediondez de interesses inferiores.
-A missão do século XX é sublime e deixará na história do planeta uma esteira de luz. É o século em que a verdade, desfraldando os seus pavilhões radiosos, mostrará à humanidade a magnitude do seu destino.
-A Igreja Romana, há tantos séculos desviada da simplicidade que lhe haviam imprimido os primeiros apóstolos do Cristianismo, é uma das instituições onde o alvião colossal do progresso trabalhará eficazmente; em seu seio, travar-se-ão os maiores combates de ideias, assim o creio.
-Os interessados em conservar a ignorância humana, para o gáudio de sentimentos malsãos, redobram os seus esforços; todavia, a luz suplanta a treva, em todos os tempos.
-Assim é que vemos a Igreja, que abandonou as pegadas de Jesus. No momento atual, quando procura levantar altivamente a cabeça, tentando restaurar na Terra o seu domínio absoluto e despótico, o sopro da razão, em rajadas fortes e violentas, faz tremer a sua pretensa infalibilidade.
-Os últimos acontecimentos nas capitais dos dois países onde mais predomina a moral essencialmente católica, Roma e Madri, nos provam a falência dessa antiga instituição religiosa.
-Em Roma, é a mocidade revoltada que invade a “Civilitá Cattolica”,
-gritando: “Abaixo o papa! Morra o traidor!” São inúmeras as associações católicas lacradas em toda a Itália.
-Em Madri, vários conventos, entre os muitos mosteiros, verdadeiros parasitas da nacionalidade espanhola, são incendiados pela população revoltada, acontecendo igualmente os mesmos fatos em muitas das grandes cidades da Espanha!
-E é essa Igreja, tão velha no Velho Mundo, onde dominou sempre, nele sofrendo, hoje, essas derrotas por parte daqueles a quem vem pregando a sua moral durante séculos, que deseja inocular a sua nefasta influência na vida moral e livre do Brasil! Que irrisão!
-Os tempos hodiernos não suportam tal absurdo. Não se escraviza o pensamento.
-Os seus triunfos aparentes, explorando a política em nossa terra, são, talvez, motivos evidentes da sua queda próxima no conceito da mentalidade brasileira.
-A luz apressa-se em fazer-se sentir no cérebro do mundo.
-E essa Igreja, divorciada da humildade dos seus fundadores, que tem lançado o anátema sobre o progresso, que tem perseguido a luz, que abençoa armas para lutas fraticidas, que canta louvores aos poderosos da Terra que oprimem a humildade sofredora, que detém egoisticamente as riquezas iníquas, prosternar-se-á humilde e arrependida antes os reverberos da nova luz, que é o Cristianismo puro na face da Terra.
-Trabalhemos, homens de boa vontade, para o seu advento, trabalhemos para que as virtudes cristãs, em toda a sua excelsitude, possam desabrochar no coração humano. Trabalhemos com amor e tenacidade, porque os dias da Igreja pequena estão contados.
+1 A Igreja Romana começa a sentir, na atualidade, os efeitos da tempestade oriunda das nuvens de obscuridades e trevas que ela própria amontoou sobre a sua cabeça.
+2 De há muito que ela é reconhecida como uma das maiores potências políticas do mundo, sendo mais que manifesta a sua separação do Reino de Deus.
+3 Somente agora, porém, vão as coletividades reconhecendo que as suas palavras sobre as coisas sagradas são mantos dourados cobrindo a hediondez de interesses inferiores.
+4 A missão do século XX é sublime e deixará na história do planeta uma esteira de luz. É o século em que a verdade, desfraldando os seus pavilhões radiosos, mostrará à humanidade a magnitude do seu destino.
+5 A Igreja Romana, há tantos séculos desviada da simplicidade que lhe haviam imprimido os primeiros apóstolos do Cristianismo, é uma das instituições onde o alvião colossal do progresso trabalhará eficazmente; em seu seio, travar-se-ão os maiores combates de ideias, assim o creio.
+6 Os interessados em conservar a ignorância humana, para o gáudio de sentimentos malsãos, redobram os seus esforços; todavia, a luz suplanta a treva, em todos os tempos.
+7 Assim é que vemos a Igreja, que abandonou as pegadas de Jesus. No momento atual, quando procura levantar altivamente a cabeça, tentando restaurar na Terra o seu domínio absoluto e despótico, o sopro da razão, em rajadas fortes e violentas, faz tremer a sua pretensa infalibilidade.
+8 Os últimos acontecimentos nas capitais dos dois países onde mais predomina a moral essencialmente católica, Roma e Madri, nos provam a falência dessa antiga instituição religiosa. 9 Em Roma, é a mocidade revoltada que invade a “Civilitá Cattolica”, ( † ) gritando: “Abaixo o papa! Morra o traidor!” São inúmeras as associações católicas lacradas em toda a Itália. 10 Em Madri, vários conventos, entre os muitos mosteiros, verdadeiros parasitas da nacionalidade espanhola, são incendiados pela população revoltada, acontecendo igualmente os mesmos fatos em muitas das grandes cidades da Espanha!
+11 E é essa Igreja, tão velha no Velho Mundo, onde dominou sempre, nele sofrendo, hoje, essas derrotas por parte daqueles a quem vem pregando a sua moral durante séculos, que deseja inocular a sua nefasta influência na vida moral e livre do Brasil! Que irrisão! 12 Os tempos hodiernos não suportam tal absurdo. Não se escraviza o pensamento. 13 Os seus triunfos aparentes, explorando a política em nossa terra, são, talvez, motivos evidentes da sua queda próxima no conceito da mentalidade brasileira.
+14 A luz apressa-se em fazer-se sentir no cérebro do mundo. 15 E essa Igreja, divorciada da humildade dos seus fundadores, que tem lançado o anátema sobre o progresso, que tem perseguido a luz, que abençoa armas para lutas fraticidas, que canta louvores aos poderosos da Terra que oprimem a humildade sofredora, que detém egoisticamente as riquezas iníquas, prosternar-se-á humilde e arrependida antes os reverberos da nova luz, que é o Cristianismo puro na face da Terra.
+16 Trabalhemos, homens de boa vontade, para o seu advento, trabalhemos para que as virtudes cristãs, em toda a sua excelsitude, possam desabrochar no coração humano. Trabalhemos com amor e tenacidade, porque os dias da Igreja pequena estão contados.
 
 ---
 
-## 63 — Jesus e o Catolicismo
+## 63
 
 > | 16 de agosto de 1931.
 
-Basta estabelecer alguns paralelos para que se veja a incomensurável distância entre o Catolicismo e Jesus. O meigo Nazareno não possuía uma pedra onde repousar a cabeça; o Catolicismo é, no orbe terráqueo, o maior detentor das riquezas iníquas assinaladas no Evangelho.
-Ensinava o Mestre que se deve dar de graça, norteando-se por uma caridade sem limites; o Catolicismo vende as suas preces, os seus sacramentos, transformando o templo em balcão, conforme já o asseverou Victor Hugo.
-Advertia Jesus que se deve perdoar setenta vezes sete vezes; o Catolicismo, não se referindo aos infames tribunais da Inquisição, conserva até hoje, na cidade do Vaticano, um tribunal a aplicar castigos e penas, em nome do mesmo Jesus.
-Dizia o Cristo que o Pai não deseja que se percam as ovelhas; o Catolicismo criou, criminosamente, o inferno, com as suas dores eternas.
-Asseverava o Mestre: “Bem-aventurados os pobres, os humildes, os pacíficos, porque deles é o Reino dos Céus”;
-o Catolicismo endeusa os ricos da Terra, lisonjeia-lhes, cumulando-lhes de títulos brasonados, esquecendo os sofredores que põem suas esperanças em Deus.
-Cristo personificava a tolerância; o Catolicismo cultiva a intolerância, com o mais odioso espírito de seita.
-Jesus, com a sua incomparável abnegação, inflamava as almas de fé; o Catolicismo rouba e mata a fé de todos os corações, com os seus exemplos em oposição aos seus ensinos.
-O Mestre era a caridade personificada; o Catolicismo, acima do próprio Pai de Misericórdia Infinita, coloca os interesses temporais e monetários.
-Cristo exclamava: “Amai-vos uns aos outros!”;
-o Catolicismo fomenta guerras e dissídios, abençoando ainda os instrumentos de destruição nas lutas fratricidas.
-Jesus foi ao extremo de sacrificar-se na morte nos braços da cruz e em meio aos seus martírios perdoava os seus algozes; o Catolicismo tem os seus castelos encantados, onde se submerge nos gozos efêmeros, como o Palácio do Vaticano, onde habita o sumo pontífice, coberto de diademas reais, mergulhado num egoísmo todo humano, rodeado de tesouros que as traças roem.
-Finalmente, esses minúsculos paralelos bem nos mostram a necessidade da conversão do Catolicismo ao puro Cristianismo do Mestre divino, quando, então, a Igreja papal deixará de ser um dos maiores instrumentos de provações para a humanidade terrena.
+1 Basta estabelecer alguns paralelos para que se veja a incomensurável distância entre o Catolicismo e Jesus. O meigo Nazareno não possuía uma pedra onde repousar a cabeça; o Catolicismo é, no orbe terráqueo, o maior detentor das riquezas iníquas assinaladas no Evangelho.
+2 Ensinava o Mestre que se deve dar de graça, norteando-se por uma caridade sem limites; o Catolicismo vende as suas preces, os seus sacramentos, transformando o templo em balcão, conforme já o asseverou Victor Hugo.
+3 Advertia Jesus que se deve perdoar setenta vezes sete vezes; o Catolicismo, não se referindo aos infames tribunais da Inquisição, conserva até hoje, na cidade do Vaticano, um tribunal a aplicar castigos e penas, em nome do mesmo Jesus.
+4 Dizia o Cristo que o Pai não deseja que se percam as ovelhas; o Catolicismo criou, criminosamente, o inferno, com as suas dores eternas.
+5 Asseverava o Mestre: “Bem-aventurados os pobres, os humildes, os pacíficos, porque deles é o Reino dos Céus”; ( † ) o Catolicismo endeusa os ricos da Terra, lisonjeia-lhes, cumulando-lhes de títulos brasonados, esquecendo os sofredores que põem suas esperanças em Deus.
+6 Cristo personificava a tolerância; o Catolicismo cultiva a intolerância, com o mais odioso espírito de seita.
+7 Jesus, com a sua incomparável abnegação, inflamava as almas de fé; o Catolicismo rouba e mata a fé de todos os corações, com os seus exemplos em oposição aos seus ensinos.
+8 O Mestre era a caridade personificada; o Catolicismo, acima do próprio Pai de Misericórdia Infinita, coloca os interesses temporais e monetários.
+9 Cristo exclamava: “Amai-vos uns aos outros!”; ( † ) o Catolicismo fomenta guerras e dissídios, abençoando ainda os instrumentos de destruição nas lutas fratricidas.
+10 Jesus foi ao extremo de sacrificar-se na morte nos braços da cruz e em meio aos seus martírios perdoava os seus algozes; o Catolicismo tem os seus castelos encantados, onde se submerge nos gozos efêmeros, como o Palácio do Vaticano, onde habita o sumo pontífice, coberto de diademas reais, mergulhado num egoísmo todo humano, rodeado de tesouros que as traças roem.
+11 Finalmente, esses minúsculos paralelos bem nos mostram a necessidade da conversão do Catolicismo ao puro Cristianismo do Mestre divino, quando, então, a Igreja papal deixará de ser um dos maiores instrumentos de provações para a humanidade terrena.
 
 ---
 
-## 64 — A Igreja de Jesus
+## 64
 
 > | 1º de setembro de 1931.
 
-Quando virmos o mal que nos oprime
-Ser das almas humanas afastado,
-Quando virmos o amor ilimitado
-Reinar na Terra, esplêndido e sublime,
-Quando virmos o mundo de pecado
-Saturar-se do bem que nos redime,
-Do bem que vence o mal e vence o crime,
-Que torna o coração dulcificado,
-Quando a religião da caridade
-For o ideal de toda a humanidade,
-Que há de buscar o amor, a paz e a luz,
-Nós teremos, em vez dos amargores,
-Os fulgentes e excelsos esplendores
-Da luminosa igreja de Jesus.
+1 Quando virmos o mal que nos oprime Ser das almas humanas afastado, Quando virmos o amor ilimitado Reinar na Terra, esplêndido e sublime,
+2 Quando virmos o mundo de pecado Saturar-se do bem que nos redime, Do bem que vence o mal e vence o crime, Que torna o coração dulcificado,
+3 Quando a religião da caridade For o ideal de toda a humanidade, Que há de buscar o amor, a paz e a luz,
+4 Nós teremos, em vez dos amargores, Os fulgentes e excelsos esplendores Da luminosa igreja de Jesus.
 
 ---
 
-## 65 — A fé
+## 65
 
 > | 1º de setembro de 1931.
 
-A fé deve ser iluminada pela razão. Esse asserto parecerá estranho à Igreja Romana, que impõe a fé aos seus profitentes sob a impenetrabilidade do dogma e do mistério.
-Seus crentes temem o Deus antropomorfo, eivado de todos os maus sentimentos do coração humano, subornável em extremo, que é cheio de prodigalidade para com os poderosos da Terra e implacável para aqueles que não possuem um pão.
-Tal ideia religiosa é impotente para alimentar a fé daqueles que têm sede de amor divino.
-Como depositar uma esperança num Deus, cujos sentimentos são símiles do próprio homem terreno, sempre mergulhado nas fraquezas e nas imperfeições?
-Como pedir a luz e o esclarecimento a quem proíbe o exame livre e a liberdade de consciência?
-Como confiar em quem nos exige uma obediência passiva e absoluta, e que para chegar aos fins não observa os meios?
-Para pertencer ao romanismo temos que abdicar de todos os sentimentos da nossa alma, temos que desprezar os revérberos da luz da verdade.
-Não. Não é nesse suicídio moral que encontraremos a fé pura que se eleva para o Pai, cheia de confiança.
-O nosso dever é reconhecermos o Criador nas Suas Obras, reconhecendo a Sua misericórdia infinita, que se estende a todo o Universo, e O amarmos.
-Desse amor sagrado nascerá o afeto que devemos dedicar à humanidade sofredora, aos nossos irmãos pela dor.
-É dessa operação de reconhecimento e gratidão ao Criador e de amor ao próximo, é desse sagrado conúbio que nasce a fé removedora de montanhas de que falava Jesus.
-É essa fé, que se encontra na prática do Evangelho de Jesus, e é pela observância desse estatuto universal que a Doutrina dos Espíritos se esbate.
-É pela extinção do egoísmo e da treva que o Espiritismo, atualmente, deve terçar as armas da humildade e do amor.
-O romanismo, deturpando os evangelhos dos apóstolos, substituindo-os com as decisões dos seus celebérrimos concílios, onde, geralmente, acorrem almas cheias de fatuidade e presunção, desvirtuou os ensinos luminosos do Mestre.
-É esse o motivo pelo qual, há muito, vemos o insopitável anseio da humanidade, que deseja cristianizar-se sem romanizar-se.
-E é assim que num futuro não longínquo veremos constituída a nova fé de que se nutrirá a alma humana.
-Será a fé maravilhosa que confia, espera e crê.
-Deus não será adorado nos ídolos de pedra. Será amado no santuário dos corações.
+1 A fé deve ser iluminada pela razão. Esse asserto parecerá estranho à Igreja Romana, que impõe a fé aos seus profitentes sob a impenetrabilidade do dogma e do mistério. 2 Seus crentes temem o Deus antropomorfo, eivado de todos os maus sentimentos do coração humano, subornável em extremo, que é cheio de prodigalidade para com os poderosos da Terra e implacável para aqueles que não possuem um pão. 3 Tal ideia religiosa é impotente para alimentar a fé daqueles que têm sede de amor divino.
+4 Como depositar uma esperança num Deus, cujos sentimentos são símiles do próprio homem terreno, sempre mergulhado nas fraquezas e nas imperfeições? 5 Como pedir a luz e o esclarecimento a quem proíbe o exame livre e a liberdade de consciência? 6 Como confiar em quem nos exige uma obediência passiva e absoluta, e que para chegar aos fins não observa os meios? 7 Para pertencer ao romanismo temos que abdicar de todos os sentimentos da nossa alma, temos que desprezar os revérberos da luz da verdade.
+8 Não. Não é nesse suicídio moral que encontraremos a fé pura que se eleva para o Pai, cheia de confiança. 9 O nosso dever é reconhecermos o Criador nas Suas Obras, reconhecendo a Sua misericórdia infinita, que se estende a todo o Universo, e O amarmos. 10 Desse amor sagrado nascerá o afeto que devemos dedicar à humanidade sofredora, aos nossos irmãos pela dor. 11 É dessa operação de reconhecimento e gratidão ao Criador e de amor ao próximo, é desse sagrado conúbio que nasce a fé removedora de montanhas de que falava Jesus. ( † )
+12 É essa fé, que se encontra na prática do Evangelho de Jesus, e é pela observância desse estatuto universal que a Doutrina dos Espíritos se esbate.13 É pela extinção do egoísmo e da treva que o Espiritismo, atualmente, deve terçar as armas da humildade e do amor.
+14 O romanismo, deturpando os evangelhos dos apóstolos, substituindo-os com as decisões dos seus celebérrimos concílios, onde, geralmente, acorrem almas cheias de fatuidade e presunção, desvirtuou os ensinos luminosos do Mestre.
+15 É esse o motivo pelo qual, há muito, vemos o insopitável anseio da humanidade, que deseja cristianizar-se sem romanizar-se. 16 E é assim que num futuro não longínquo veremos constituída a nova fé de que se nutrirá a alma humana.
+17 Será a fé maravilhosa que confia, espera e crê.
+18 Deus não será adorado nos ídolos de pedra. Será amado no santuário dos corações.
 
 ---
 
-## 66 — A lei da reencarnação
+## 66
 
 > | 16 de setembro de 1931.
 
-Tarefa inglória a dos detratores das doutrinas reencarnacionistas. Todos os recursos da dialética e da hermenêutica na tessitura dos seus argumentos, com o propósito de alvejar esse soberbo monumento de sã filosofia, são esforços infrutíferos.
-É necessário penetrar mais intimamente no âmago das coisas e dos acontecimentos nos tempos hodiernos; e somente as vidas sucessivas desvendam-nos essa multiplicidade de porquês que nos rodeia na vida planetária.
-Sem a reencarnação, como se explicaria o problema da dor?
-Como se aquilatariam as desigualdades sociais?
-Que poderíamos compreender dos diferentes graus da inteligência humana?
-Como se descobriria o fenômeno de regressão da memória, uma das propriedades do subconsciente, tantas vezes invocado pelos que receiam a verdade para afastar a hipótese espírita?
-Teríamos de nos cingir a São Tomás de Aquino,
-que, para conciliar com o bom senso o dogma do pecado original, que a Igreja Romana julga afastar com o batismo pela água, “ensinava ser a alma humana criada por Deus no momento da concepção material”. Apesar de toda a erudição do doutor angélico, a sua teoria coloca a Justiça Divina abaixo da humana.
-Por que esta pune somente os culpados, quando aquela, que é a Suma Essência de todo o amor, há de condenar os inocentes?
-Por que é que existem os privilegiados que desfrutam de um gozo aparente na Terra, junto às multidões de seres acicatados pelo sofrimento, mergulhados na dor e na miséria, desde o berço ao túmulo, tudo isso sob as vistas amoráveis de Deus, o Pai de todas as criaturas?
-Somente a reencarnação resolve tão magno problema. Desde as mais remotas eras que a doutrina reencarnacionista é uma ideia latente no cérebro do homem.
-Já nas antigas civilizações egípcias, as coletividades possuíam uma vaga intuição dessa lei imutável, reguladora dos destinos, acreditando na Metempsicose, isto é, que o Espírito culpado, após a morte, em longos e indeterminados estágios, permaneceria encarnado em corpos de animais, como o maior dos castigos.
-O estudioso, sem ideias preconcebidas, encontrará nessa teoria embrionária a luz ainda confusa que já se fazia sentir na alma da humanidade, em sua infância espiritual, quanto à reencarnação, como meio de aperfeiçoamento e expiação de culpas.
-Também o gênio céltico deixou uma esteira luminosa através dos tempos, com a sua crença nas múltiplas existências da alma.
-Muitos filósofos da Antiguidade foram apologistas da reencarnação, se bem que inimigos acérrimos das suas doutrinas impedissem a marcha ascendente das suas ideias excessivamente elevadas para aquele tempo.
-De bem longe vem a grande lei reencarnacionista, ocupando o pensamento da humanidade. Sempre foi atacada por todos aqueles cujo grau de evolução não permite uma visão mais larga das lutas da perfectibilidade humana.
-Ainda nos tempos modernos há quem a increpe de símile do inferno, proclamado pela quase totalidade dos teólogos católicos, acusando ainda a lei de causa e efeito de mergulhar o homem num eterno círculo vicioso;
-todavia, está mais que taxativamente provado que é o próprio homem quem tece os fios do seu destino,
-que é o seu livre-arbítrio que escolhe entre o bem e o mal, entre a luz e a treva, entre a felicidade e a desventura,
-e que a reencarnação é a grande lei que rege a vida das almas. É através dessa lei que os Espíritos se depuram, se engrandecem, se elevam e se redimem;
-é através dela que saímos da nossa infância espiritual, que saímos dos lamaçais do crime para aprendermos a preferir os luminosos jardins da virtude;
-é com ela que entramos na posse da herança do Pai, que é o amor e a sabedoria.
-Nunca devemos esquecer, porém, que o bem cobre multidão de misérias
-e liberta-nos da nefasta ação do mal. Será o bem que, praticado na face da Terra, em toda a sua amplitude, arrancará a alma humana do poder do sofrimento, da dor; só ele é capaz de, quando fielmente interpretado, libertar o Espírito das adversidades do destino.
-Tecemos hoje o nosso amanhã. Adornemo-lo, pois, de luz, amando o bem e praticando-o em todos os momentos.
-Ser bom é tocar do pântano das misérias da Terra a luminosidade esplendente dos Céus.
+1 Tarefa inglória a dos detratores das doutrinas reencarnacionistas. Todos os recursos da dialética e da hermenêutica na tessitura dos seus argumentos, com o propósito de alvejar esse soberbo monumento de sã filosofia, são esforços infrutíferos. 2 É necessário penetrar mais intimamente no âmago das coisas e dos acontecimentos nos tempos hodiernos; e somente as vidas sucessivas desvendam-nos essa multiplicidade de porquês que nos rodeia na vida planetária.
+3 Sem a reencarnação, como se explicaria o problema da dor?
+4 Como se aquilatariam as desigualdades sociais?
+5 Que poderíamos compreender dos diferentes graus da inteligência humana?
+6 Como se descobriria o fenômeno de regressão da memória, uma das propriedades do subconsciente, tantas vezes invocado pelos que receiam a verdade para afastar a hipótese espírita?
+7 Teríamos de nos cingir a São Tomás de Aquino, ( † ) que, para conciliar com o bom senso o dogma do pecado original, que a Igreja Romana julga afastar com o batismo pela água, “ensinava ser a alma humana criada por Deus no momento da concepção material”. Apesar de toda a erudição do doutor angélico, a sua teoria coloca a Justiça Divina abaixo da humana.
+8 Por que esta pune somente os culpados, quando aquela, que é a Suma Essência de todo o amor, há de condenar os inocentes?
+9 Por que é que existem os privilegiados que desfrutam de um gozo aparente na Terra, junto às multidões de seres acicatados pelo sofrimento, mergulhados na dor e na miséria, desde o berço ao túmulo, tudo isso sob as vistas amoráveis de Deus, o Pai de todas as criaturas?
+10 Somente a reencarnação resolve tão magno problema. Desde as mais remotas eras que a doutrina reencarnacionista é uma ideia latente no cérebro do homem.
+11 Já nas antigas civilizações egípcias, as coletividades possuíam uma vaga intuição dessa lei imutável, reguladora dos destinos, acreditando na Metempsicose, isto é, que o Espírito culpado, após a morte, em longos e indeterminados estágios, permaneceria encarnado em corpos de animais, como o maior dos castigos. 12 O estudioso, sem ideias preconcebidas, encontrará nessa teoria embrionária a luz ainda confusa que já se fazia sentir na alma da humanidade, em sua infância espiritual, quanto à reencarnação, como meio de aperfeiçoamento e expiação de culpas.
+13 Também o gênio céltico deixou uma esteira luminosa através dos tempos, com a sua crença nas múltiplas existências da alma. 14 Muitos filósofos da Antiguidade foram apologistas da reencarnação, se bem que inimigos acérrimos das suas doutrinas impedissem a marcha ascendente das suas ideias excessivamente elevadas para aquele tempo.
+15 De bem longe vem a grande lei reencarnacionista, ocupando o pensamento da humanidade. Sempre foi atacada por todos aqueles cujo grau de evolução não permite uma visão mais larga das lutas da perfectibilidade humana.
+16 Ainda nos tempos modernos há quem a increpe de símile do inferno, proclamado pela quase totalidade dos teólogos católicos, acusando ainda a lei de causa e efeito de mergulhar o homem num eterno círculo vicioso; 17 todavia, está mais que taxativamente provado que é o próprio homem quem tece os fios do seu destino, 18 que é o seu livre-arbítrio que escolhe entre o bem e o mal, entre a luz e a treva, entre a felicidade e a desventura, 19 e que a reencarnação é a grande lei que rege a vida das almas. É através dessa lei que os Espíritos se depuram, se engrandecem, se elevam e se redimem; 20 é através dela que saímos da nossa infância espiritual, que saímos dos lamaçais do crime para aprendermos a preferir os luminosos jardins da virtude; 21 é com ela que entramos na posse da herança do Pai, que é o amor e a sabedoria.
+22 Nunca devemos esquecer, porém, que o bem cobre multidão de misérias ( † ) e liberta-nos da nefasta ação do mal. Será o bem que, praticado na face da Terra, em toda a sua amplitude, arrancará a alma humana do poder do sofrimento, da dor; só ele é capaz de, quando fielmente interpretado, libertar o Espírito das adversidades do destino.
+23 Tecemos hoje o nosso amanhã. Adornemo-lo, pois, de luz, amando o bem e praticando-o em todos os momentos. 24 Ser bom é tocar do pântano das misérias da Terra a luminosidade esplendente dos Céus.
 
 ---
 
-## 67 — Saudando o Mestre
+## 67
 
 > | 3 de outubro de 1931.
 
-Kardec, mestre amado,
-A verdade que nos deste
-É um patrimônio celeste,
-Monumento de luz divinizado.
-Que a bondade infinita do Senhor
-Seja com a tua alma pura,
-Inundando-a de ventura,
-De paz, de luz e de amor!
+1 Kardec, mestre amado, A verdade que nos deste É um patrimônio celeste, Monumento de luz divinizado.
+2 Que a bondade infinita do Senhor Seja com a tua alma pura, Inundando-a de ventura, De paz, de luz e de amor!
 
 ---
 
-## 68 — Trabalhemos
+## 68
 
 > | 3 de outubro de 1931.
 
-Ao ingressarmos no conhecimento da Doutrina Espírita, após recebermos os seus luminosos ensinamentos, quando nos sentimos na completa posse desse tesouro espiritual, um pensamento nos domina: o de trabalharmos para que os nossos semelhantes venham partilhar das nossas alegrias espirituais.
-Condena-se o ostracismo, malsina-se o materialismo dissolvente, o fogo purificador da verdade abrasa o coração do novo crente, que deseja, com ardor, inflamar de fé toda a humanidade sofredora.
-Um misto de profunda alegria e excelsa luminosidade enche a alma humana quando, deslumbrada, busca fitar a grandeza do Consolador.
-É desse êxtase, no encontro da radiante luz, que nasce aquele estado de alma que, dulcificada pela crença imorredoura, anela desdobrar-se para espalhar as radiosidades sublimes da verdade plena que a ilumina.
-Todavia, quão poucos, passadas as horas de deslumbramento, sabem conservar a fé e o firme propósito de trabalhar.
-A maioria transforma os seus maiores entusiasmos e arrebatamentos em fogos fátuos. Desanima-se com o labor de um dia, estaciona-se ante o menor obstáculo, desespera-se na primeira dificuldade e torna-se abatida, repousando criminosamente.
-A rotina apresenta-se-lhe como barreira intransponível, o interesse cega-lhe os olhos e o preconceito afigura-se-lhe como um colosso inabalável.
-Confessa-se impotente para a luta. Possui a fé e isso lhe basta. Porém, que pode valer a fé sem as obras?
-
-Como se pode qualificar a moral sem a exemplificação? Todo ideal não concretizado é um ideal morto.
-E como realizar o nosso, que é a luz, a verdade e o bem se não dispensarmos o mínimo esforço?
-É preciso trabalhar, pois, trabalhar incessantemente, não reparando nos sacrifícios. Necessitamos conservar a nossa fé vívida e pura, exteriorizando-a em obras aproveitáveis em prol do progresso coletivo.
-Trabalhemos! Multipliquemos as nossas atividades no desempenho dos nossos deveres e não fitemos nunca os fantasmas apavorantes do interesse e da conveniência.
-Sejamos condutores da luz e jamais esqueçamos que devemos amar a verdade e o bem acima de todas as bagatelas e frivolidades terrenas.
-Trabalhemos, confiantemente, com tenacidade e amor na seara de Jesus, para que nos tornemos dignos da felicidade imortal que Deus nos reserva.
+1 Ao ingressarmos no conhecimento da Doutrina Espírita, após recebermos os seus luminosos ensinamentos, quando nos sentimos na completa posse desse tesouro espiritual, um pensamento nos domina: o de trabalharmos para que os nossos semelhantes venham partilhar das nossas alegrias espirituais.
+2 Condena-se o ostracismo, malsina-se o materialismo dissolvente, o fogo purificador da verdade abrasa o coração do novo crente, que deseja, com ardor, inflamar de fé toda a humanidade sofredora.
+3 Um misto de profunda alegria e excelsa luminosidade enche a alma humana quando, deslumbrada, busca fitar a grandeza do Consolador. 4 É desse êxtase, no encontro da radiante luz, que nasce aquele estado de alma que, dulcificada pela crença imorredoura, anela desdobrar-se para espalhar as radiosidades sublimes da verdade plena que a ilumina. 5 Todavia, quão poucos, passadas as horas de deslumbramento, sabem conservar a fé e o firme propósito de trabalhar.
+6 A maioria transforma os seus maiores entusiasmos e arrebatamentos em fogos fátuos. Desanima-se com o labor de um dia, estaciona-se ante o menor obstáculo, desespera-se na primeira dificuldade e torna-se abatida, repousando criminosamente. 7 A rotina apresenta-se-lhe como barreira intransponível, o interesse cega-lhe os olhos e o preconceito afigura-se-lhe como um colosso inabalável. 8 Confessa-se impotente para a luta. Possui a fé e isso lhe basta. Porém, que pode valer a fé sem as obras? ( † ) 9 Como se pode qualificar a moral sem a exemplificação? Todo ideal não concretizado é um ideal morto. 10 E como realizar o nosso, que é a luz, a verdade e o bem se não dispensarmos o mínimo esforço?
+11 É preciso trabalhar, pois, trabalhar incessantemente, não reparando nos sacrifícios. Necessitamos conservar a nossa fé vívida e pura, exteriorizando-a em obras aproveitáveis em prol do progresso coletivo.
+12 Trabalhemos! Multipliquemos as nossas atividades no desempenho dos nossos deveres e não fitemos nunca os fantasmas apavorantes do interesse e da conveniência.
+13 Sejamos condutores da luz e jamais esqueçamos que devemos amar a verdade e o bem acima de todas as bagatelas e frivolidades terrenas.
+14 Trabalhemos, confiantemente, com tenacidade e amor na seara de Jesus, para que nos tornemos dignos da felicidade imortal que Deus nos reserva.
 
 ---
 
-## 69 — Deus é bom
+## 69
 
 > | 3 de outubro de 1931.
 
-Deus é bom, criança!
-A sua profunda piedade estende-se ao Universo inteiro.
-Acostuma-te a amá-Lo, com todo o teu coração.
-Procura compreender a essência sagrada do Seu amor infinito.
-Já notaste a grande alegria que te enche a alma quando a tua mãe te beija ou quando o teu pai te aperta em seus braços? Essas ternuras são carinhos do amor de Deus.
-De manhã, quando o sol ilumina e aquece tudo, sentes o teu corpo com nova energia; tudo é sol, alegria, perfume e trabalho. As dores da véspera são esquecidas; a alma é um novo clarão de esperança e promessa.
-Trabalha-se, lutando, e após o trabalho vem a noite povoada de sonhos, convidando-nos para o repouso.
-Vê como Deus é bom, dando-nos a saúde para o corpo e para o Espírito.
-Busca estender mais os teus olhos para veres a bondade imensa de Deus.
-O céu azul, o ar puro, a água, a saúde para a luta, o pão, a árvore bondosa que nos proporciona todos os benefícios, a luz da inteligência e o amor terníssimo dos nossos pais, tudo é irradiação da Sua bondade inesgotável.
-Por isso podemos senti-Lo em toda parte, pela harmonia cariciosa da Sua eterna piedade, que se manifesta em todos os recantos do mundo.
-Amemo-Lo, pois, com todo o vigor da nossa alma.
-E, sobretudo, busquemos viver dentro da Sua lei, que é a do amor, para que estejamos sempre com Ele, transformando o nosso coração numa fonte de sentimento divino.
-Deus é bom! Amemo-Lo, pois, intensamente, e jamais esqueçamos que devemos buscá-Lo pelo trabalho e pela prática do bem.
+1 Deus é bom, criança! 2 A sua profunda piedade estende-se ao Universo inteiro. 3 Acostuma-te a amá-Lo, com todo o teu coração. 4 Procura compreender a essência sagrada do Seu amor infinito. 5 Já notaste a grande alegria que te enche a alma quando a tua mãe te beija ou quando o teu pai te aperta em seus braços? Essas ternuras são carinhos do amor de Deus.
+6 De manhã, quando o sol ilumina e aquece tudo, sentes o teu corpo com nova energia; tudo é sol, alegria, perfume e trabalho. As dores da véspera são esquecidas; a alma é um novo clarão de esperança e promessa.
+7 Trabalha-se, lutando, e após o trabalho vem a noite povoada de sonhos, convidando-nos para o repouso.
+8 Vê como Deus é bom, dando-nos a saúde para o corpo e para o Espírito.
+9 Busca estender mais os teus olhos para veres a bondade imensa de Deus.
+10 O céu azul, o ar puro, a água, a saúde para a luta, o pão, a árvore bondosa que nos proporciona todos os benefícios, a luz da inteligência e o amor terníssimo dos nossos pais, tudo é irradiação da Sua bondade inesgotável. 11 Por isso podemos senti-Lo em toda parte, pela harmonia cariciosa da Sua eterna piedade, que se manifesta em todos os recantos do mundo.
+12 Amemo-Lo, pois, com todo o vigor da nossa alma. 13 E, sobretudo, busquemos viver dentro da Sua lei, que é a do amor, para que estejamos sempre com Ele, transformando o nosso coração numa fonte de sentimento divino.
+14 Deus é bom! Amemo-Lo, pois, intensamente, e jamais esqueçamos que devemos buscá-Lo pelo trabalho e pela prática do bem.
 
 ---
 
-## 70 — Avante, pois!
+## 70
 
 > | 16 de outubro de 1931.
 
-No sublime apostolado do bem, que é a difusão dos elevados ideais da Doutrina Espírita, encontram-se, como aliás em todos os movimentos tendentes a conduzir o homem para a luz, as grandes dificuldades que, muitas vezes, se afiguram como insuperáveis.
-E é lícito que o propagandista devotado, inflamado pela sua ideia nobilíssima, venha a temer os ataques da treva, eclipsando-se covardemente?
-Nunca. Compete-nos lutar serenos e destemerosos, sem misticismo e sem intolerância.
-Tudo nos impele a combater com o coração nas mãos, com a fé na alma, com a pureza nos pensamentos, com a lealdade nas intenções, com o bem nas obras, com o espírito totalmente saturado do Evangelho de Jesus, que deve ser o único farol a guiar-nos na dificultosa travessia da existência planetária.
-Como qualificar o nosso desânimo se sabemos que tudo o que se passa, com o tempo, nada vale?
-Por que nos aguilhoarmos aos interesses mesquinhos se eles são fragmentos da lama da Terra?
-O nosso dever é marchar, impavidamente, com os olhos e os pensamentos no Alto, onde esplendem as auroras fulgurantes da luz, do amor, da vida e da beleza.
-Inundemos o nosso ser nas causas brilhantes da nossa fé e combatamos com o espírito de absoluta humildade os apologistas da ignorância e do obscurantismo.
-Temer o sofrimento pela causa da verdade é rematada loucura!
-Sabemos que possuímos a luz, e onde se acham os perseguidores da luz, de todos os tempos?
-Como já foi dito alhures,
-deles não falam a História.
-Os torquemadas do passado repousam nas cinzas do olvido, onde bem poucos ousam chegar, para não amedrontar a humanidade com a lembrança daquelas almas torvas e sedentas de sangue.
-E as suas vítimas? Estas, decorridos tantos séculos, ainda pairam como vultos resplendentes sobre toda a humanidade sofredora, encorajando-a nas suas fraquezas, consolando-a na adversidade, como exemplos imperecíveis, sintetizando todos os heroísmos e todas as virtudes — os grandes e os exaltados no pó do esquecimento, os humilhados e os pequeninos, vivendo eternamente na memória de todos os Espíritos, irradiando luzes através de todas as idades.
-Batalhemos, pois, certos da nossa vitória espiritual, que se avizinha. Empreguemos a nossa energia nessa faina bendita de conduzir o Evangelho pela palavra e pelo exemplo.
-Eis a tarefa mais dignificante, o trabalho mais nobre que poderemos empreender.
-Cumprir os nossos deveres é concretizar toda a sublimidade das nossas aspirações.
+1 No sublime apostolado do bem, que é a difusão dos elevados ideais da Doutrina Espírita, encontram-se, como aliás em todos os movimentos tendentes a conduzir o homem para a luz, as grandes dificuldades que, muitas vezes, se afiguram como insuperáveis. 2 E é lícito que o propagandista devotado, inflamado pela sua ideia nobilíssima, venha a temer os ataques da treva, eclipsando-se covardemente?
+3 Nunca. Compete-nos lutar serenos e destemerosos, sem misticismo e sem intolerância. 4 Tudo nos impele a combater com o coração nas mãos, com a fé na alma, com a pureza nos pensamentos, com a lealdade nas intenções, com o bem nas obras, com o espírito totalmente saturado do Evangelho de Jesus, que deve ser o único farol a guiar-nos na dificultosa travessia da existência planetária.
+5 Como qualificar o nosso desânimo se sabemos que tudo o que se passa, com o tempo, nada vale?
+6 Por que nos aguilhoarmos aos interesses mesquinhos se eles são fragmentos da lama da Terra?
+7 O nosso dever é marchar, impavidamente, com os olhos e os pensamentos no Alto, onde esplendem as auroras fulgurantes da luz, do amor, da vida e da beleza.
+8 Inundemos o nosso ser nas causas brilhantes da nossa fé e combatamos com o espírito de absoluta humildade os apologistas da ignorância e do obscurantismo.
+9 Temer o sofrimento pela causa da verdade é rematada loucura! 10 Sabemos que possuímos a luz, e onde se acham os perseguidores da luz, de todos os tempos?
+11 Como já foi dito alhures, ( † ) deles não falam a História. 12 Os torquemadas do passado repousam nas cinzas do olvido, onde bem poucos ousam chegar, para não amedrontar a humanidade com a lembrança daquelas almas torvas e sedentas de sangue. 13 E as suas vítimas? Estas, decorridos tantos séculos, ainda pairam como vultos resplendentes sobre toda a humanidade sofredora, encorajando-a nas suas fraquezas, consolando-a na adversidade, como exemplos imperecíveis, sintetizando todos os heroísmos e todas as virtudes — os grandes e os exaltados no pó do esquecimento, os humilhados e os pequeninos, vivendo eternamente na memória de todos os Espíritos, irradiando luzes através de todas as idades.
+14 Batalhemos, pois, certos da nossa vitória espiritual, que se avizinha. Empreguemos a nossa energia nessa faina bendita de conduzir o Evangelho pela palavra e pelo exemplo.
+15 Eis a tarefa mais dignificante, o trabalho mais nobre que poderemos empreender.
+16 Cumprir os nossos deveres é concretizar toda a sublimidade das nossas aspirações.
 Avante, pois!
 
 ---
 
-## 71 — Colaboração
+## 71
 
 > | 16 de outubro de 1931.
 
-— Minha mãe, quem foi Jesus?
-— Foi o emissário dos Céus,
-O mensageiro da luz,
-Da paz e do amor de Deus.
-— E o que nos veio ensinar?
-— Veio ensinar, com ternura,
-Que os homens devem se amar
-Na alegria ou na dor.
-Veio ensinar-nos também
-Que somente a caridade,
-Na doce faina do bem,
-Pode dar felicidade.
-Com sacrifício e bondade,
-Mostrou que o nosso dever,
-Pela causa da verdade,
-É tudo dar ou sofrer.
-— E onde está, minha mãe,
-Esse anjo do amor divino?
-— Nos Céus, das luzes do Além,
-Velando o nosso destino.
+1 — Minha mãe, quem foi Jesus? — Foi o emissário dos Céus, O mensageiro da luz, Da paz e do amor de Deus.
+2 — E o que nos veio ensinar? — Veio ensinar, com ternura, Que os homens devem se amar Na alegria ou na dor.
+3 Veio ensinar-nos também Que somente a caridade, Na doce faina do bem, Pode dar felicidade.
+4 Com sacrifício e bondade, Mostrou que o nosso dever, Pela causa da verdade, É tudo dar ou sofrer.
+5 — E onde está, minha mãe, Esse anjo do amor divino? — Nos Céus, das luzes do Além, Velando o nosso destino.
 
 ---
 
-## 72 — Jesus
+## 72
 
 > | 16 de novembro de 1931.
 
-Pequeno leitor, por certo que já conheces muito da história do menino que nasceu na Judeia, na maior pobreza, e ante o qual se curvaram reis e pastores — esse menino pobrezinho e formoso que em todos os anos ainda enche as crianças de alegria no Natal.
-Era Jesus que entrava no mundo pela porta da mais absoluta singeleza, ensinando-nos a amar a humildade.
-Era ele que chegava à Terra como a radiosa esperança da humanidade, como a linda realização das mais antigas promessas dos inspirados de Deus.
-Jesus foi, pois, o mensageiro do amor sacrossanto do nosso Pai de Bondade Infinita.
-A sua vida foi cheia dos mais belos exemplos de caridade, de fé e de amor.
-Curava os cegos, os leprosos, buscava os infelizes para consolar e ofertar-lhes a fé em Deus e, sobretudo, perdoava aqueles que o maltratavam.
-Foi pobre e, dentro da sua pobreza, foi maior que todos os reis da Terra.
-A sua palavra amorosa e doce fez mais pelo progresso humano que as espadas de todos os generais.
-Porém, os homens maus são sempre em maior número neste mundo e assim é que as almas cheias de maus sentimentos daquela época resolveram aniquilar aquele homem sereno e bom que pregava a fraternidade e o amor, ensinando: “Amai-vos uns aos outros”.
-E para dar-nos o último exemplo de sacrifício e renúncia Jesus deixou que o prendessem, que o martirizassem e o crucificassem numa cruz, entre dois ladrões.
-O Enviado do Céu partiu para as regiões de luz, perdoando os seus algozes.
-Jesus foi o anjo da bondade entre nós. Aqui amou-nos com toda a sua alma puríssima e ainda nos ama das Alturas, onde espera os bons para recompensá-los com o prêmio do seu amor.
-Jesus foi o Espírito mais perfeito que já brilhou nas sombras do nosso planeta e por isso devemos admirá-lo, amando-o intensamente.
-O seu maior desejo é que sigamos as suas lições luminosas, que ficaram registradas nos seus Evangelhos.
-Busquemos, pois, aproximarmo-nos dele, procurando imitá-lo, servindo, de boa vontade, aos nossos semelhantes.
-Esqueçamos o egoísmo, a preguiça, o orgulho, e procuremos seguir os passos do Mensageiro da paz e do amor.
-Nunca olvidemos que estar com Jesus é caminhar para a felicidade e para a perfeição.
+1 Pequeno leitor, por certo que já conheces muito da história do menino que nasceu na Judeia, na maior pobreza, e ante o qual se curvaram reis e pastores — esse menino pobrezinho e formoso que em todos os anos ainda enche as crianças de alegria no Natal.
+2 Era Jesus que entrava no mundo pela porta da mais absoluta singeleza, ensinando-nos a amar a humildade. 3 Era ele que chegava à Terra como a radiosa esperança da humanidade, como a linda realização das mais antigas promessas dos inspirados de Deus.
+4 Jesus foi, pois, o mensageiro do amor sacrossanto do nosso Pai de Bondade Infinita.
+5 A sua vida foi cheia dos mais belos exemplos de caridade, de fé e de amor. 6 Curava os cegos, os leprosos, buscava os infelizes para consolar e ofertar-lhes a fé em Deus e, sobretudo, perdoava aqueles que o maltratavam.
+7 Foi pobre e, dentro da sua pobreza, foi maior que todos os reis da Terra. 8 A sua palavra amorosa e doce fez mais pelo progresso humano que as espadas de todos os generais.
+9 Porém, os homens maus são sempre em maior número neste mundo e assim é que as almas cheias de maus sentimentos daquela época resolveram aniquilar aquele homem sereno e bom que pregava a fraternidade e o amor, ensinando: “Amai-vos uns aos outros”. ( † )
+10 E para dar-nos o último exemplo de sacrifício e renúncia Jesus deixou que o prendessem, que o martirizassem e o crucificassem numa cruz, entre dois ladrões.
+11 O Enviado do Céu partiu para as regiões de luz, perdoando os seus algozes.
+12 Jesus foi o anjo da bondade entre nós. Aqui amou-nos com toda a sua alma puríssima e ainda nos ama das Alturas, onde espera os bons para recompensá-los com o prêmio do seu amor.
+13 Jesus foi o Espírito mais perfeito que já brilhou nas sombras do nosso planeta e por isso devemos admirá-lo, amando-o intensamente. 14 O seu maior desejo é que sigamos as suas lições luminosas, que ficaram registradas nos seus Evangelhos.
+15 Busquemos, pois, aproximarmo-nos dele, procurando imitá-lo, servindo, de boa vontade, aos nossos semelhantes. 16 Esqueçamos o egoísmo, a preguiça, o orgulho, e procuremos seguir os passos do Mensageiro da paz e do amor. 17 Nunca olvidemos que estar com Jesus é caminhar para a felicidade e para a perfeição.
 
 ---
 
-## 73 — Mãe e filhos
+## 73
 
 > | 16 de dezembro de 1931.
 
-— Mãezinha, o que é a ventura?
-— A ventura, minha filha,
-É uma luz que sempre brilha
-No coração da criatura.
-— E onde existe, mãezinha,
-Esse tesouro sagrado?
-— Ela reside, filhinha,
-Sempre bela e portentosa,
-Na prática esplendorosa
-Da Doutrina luminosa
-Do nosso Jesus amado!
+1 — Mãezinha, o que é a ventura? — A ventura, minha filha, É uma luz que sempre brilha No coração da criatura.
+2 — E onde existe, mãezinha, Esse tesouro sagrado?
+3 — Ela reside, filhinha, Sempre bela e portentosa, Na prática esplendorosa Da Doutrina luminosa Do nosso Jesus amado!
 
 ---
 
-## 74 — O ideal espírita
+## 74
 
 > | 1º de janeiro de 1932.
 
-O ideal espírita é, incontestavelmente, na atualidade, uma das mais elevadas concepções, conduzindo a humanidade para a perfeição.
-Luz divina, como realmente é, representando entre nós o Consolador prometido pelo Mestre,
-é farol maravilhoso, iluminando as sendas da evolução da alma humana, em demanda dos mais portentosos Planos espirituais.
-Sob o seu tríplice aspecto — científico, filosófico e religioso —, esclarece-nos quanto a esta verdade única: Deus existe e a alma é imortal.
-Mas onde a influência altamente benéfica da Doutrina mais se faz sentir é no coração dilacerado da humanidade sofredora, prodigalizando-lhe tesouros de santas consolações e dilatando assombrosamente os horizontes das suas esperanças.
-A dor é encarada, então, como um elemento necessário ao nosso progresso, como a própria bússola que norteia o nosso ser para a posse da verdade nas regiões da luz.
-A existência terrena, pontilhada de sofrimentos, já se nos afigura qual uma noite tempestuosa, precedendo uma alvorada sublime de séculos de claridades esplendorosas.
-E dentro dessa noite, com a nossa fé esclarecida, marchamos corajosamente, olhos fitos no Céu e o pensamento fixo em Deus, porque a razão soberana nos explica que a morte não existe, que a vida palpita em toda parte, que é a dor a chave das portas da felicidade imorredoura, que a treva é apenas a ausência da luz e que só esta é imperecível.
-É o ideal espírita, nos tempos de hoje, pleno de maravilhas e excelsitudes, o manancial inesgotável do amor divino, onde haurimos coragem para a luta, entusiasmo às lides do bem, aspiração para amar os nossos semelhantes, desejo ardente de abandonar os caminhos tortuosos do mal, consagrando-nos ao aprimoramento do nosso Espírito.
-É ele a revelação dos Céus pela voz dos mensageiros divinos, que vem restabelecer a lei do amor do Evangelho de Jesus,
-e será ele o estandarte radioso da paz para a humanidade terrena, o farol resplandecente que guiará o homem dos prantos para a alegria, da escuridão para a luz, da ignorância para a verdade, dos erros para a perfeição.
+1 O ideal espírita é, incontestavelmente, na atualidade, uma das mais elevadas concepções, conduzindo a humanidade para a perfeição.
+2 Luz divina, como realmente é, representando entre nós o Consolador prometido pelo Mestre, ( † ) é farol maravilhoso, iluminando as sendas da evolução da alma humana, em demanda dos mais portentosos Planos espirituais.
+3 Sob o seu tríplice aspecto — científico, filosófico e religioso —, esclarece-nos quanto a esta verdade única: Deus existe e a alma é imortal.
+4 Mas onde a influência altamente benéfica da Doutrina mais se faz sentir é no coração dilacerado da humanidade sofredora, prodigalizando-lhe tesouros de santas consolações e dilatando assombrosamente os horizontes das suas esperanças. 5 A dor é encarada, então, como um elemento necessário ao nosso progresso, como a própria bússola que norteia o nosso ser para a posse da verdade nas regiões da luz.
+6 A existência terrena, pontilhada de sofrimentos, já se nos afigura qual uma noite tempestuosa, precedendo uma alvorada sublime de séculos de claridades esplendorosas. 7 E dentro dessa noite, com a nossa fé esclarecida, marchamos corajosamente, olhos fitos no Céu e o pensamento fixo em Deus, porque a razão soberana nos explica que a morte não existe, que a vida palpita em toda parte, que é a dor a chave das portas da felicidade imorredoura, que a treva é apenas a ausência da luz e que só esta é imperecível.
+8 É o ideal espírita, nos tempos de hoje, pleno de maravilhas e excelsitudes, o manancial inesgotável do amor divino, onde haurimos coragem para a luta, entusiasmo às lides do bem, aspiração para amar os nossos semelhantes, desejo ardente de abandonar os caminhos tortuosos do mal, consagrando-nos ao aprimoramento do nosso Espírito. 9 É ele a revelação dos Céus pela voz dos mensageiros divinos, que vem restabelecer a lei do amor do Evangelho de Jesus, 10 e será ele o estandarte radioso da paz para a humanidade terrena, o farol resplandecente que guiará o homem dos prantos para a alegria, da escuridão para a luz, da ignorância para a verdade, dos erros para a perfeição.
 
 ---
 
-## 75 — Sigamos Jesus
+## 75
 
 > | 1º de janeiro de 1932.
 
-O nosso dever neste mundo é seguir Jesus, buscando compreender os seus luminosos ensinos e pô-los em prática.
-É amar os nossos semelhantes, desejando para eles aquilo que almejamos para nós mesmos.
-Por que haveríamos de trazer o egoísmo no coração se perante Deus somos todos irmãos, que se devem amar reciprocamente?
-O egoísmo e o orgulho são os maiores inimigos da ventura da nossa alma. São portadores de infelicidade.
-Por esse motivo é que Jesus sempre exemplificava a humildade, o bem e o perdão para que víssemos que somente nos jardins da virtude poderemos colher as flores radiosas da alegria perfeita.
-Aquele que se norteia pela prática do bem, numa existência repleta de atos de bondade, de desinteresse e amor, é aquele que amontoa os seus tesouros longe das traças e dos ladrões.
-
-O divino Mestre recolhe todas as suas boas ações nesta vida, formando com elas as joias de luz que hão de realizar no Além as riquezas daquele que buscou espalhar as sementes do bem e do amor na Terra.
-Os bons, os que buscam acompanhar os passos radiosos de Jesus, é que serão felizes, porque possuirão, além da vida perecível, a ventura imortal.
+1 O nosso dever neste mundo é seguir Jesus, buscando compreender os seus luminosos ensinos e pô-los em prática. 2 É amar os nossos semelhantes, desejando para eles aquilo que almejamos para nós mesmos. ( † )
+3 Por que haveríamos de trazer o egoísmo no coração se perante Deus somos todos irmãos, que se devem amar reciprocamente?
+4 O egoísmo e o orgulho são os maiores inimigos da ventura da nossa alma. São portadores de infelicidade. 5 Por esse motivo é que Jesus sempre exemplificava a humildade, o bem e o perdão para que víssemos que somente nos jardins da virtude poderemos colher as flores radiosas da alegria perfeita. 6 Aquele que se norteia pela prática do bem, numa existência repleta de atos de bondade, de desinteresse e amor, é aquele que amontoa os seus tesouros longe das traças e dos ladrões. ( † ) 7 O divino Mestre recolhe todas as suas boas ações nesta vida, formando com elas as joias de luz que hão de realizar no Além as riquezas daquele que buscou espalhar as sementes do bem e do amor na Terra.
+8 Os bons, os que buscam acompanhar os passos radiosos de Jesus, é que serão felizes, porque possuirão, além da vida perecível, a ventura imortal.
 
 ---
 
-## 76 — A voz íntima
+## 76
 
 > | 16 de janeiro de 1932.
 
-Para a alma triste, a meditação no silêncio da natureza é conforto sublime, é um farol a iluminar a treva dos dias que se escoam na Terra.
-A alma, ao procurar desprender-se das cenas banais da existência carnal, vislumbra o ponto máximo onde ela coloca a sua alegria e que se denomina os Céus.
-Luzes suavíssimas acendem-se em seu íntimo e descortina panoramas inéditos dentro da vida, ouvindo vozes estranhas que, sem ser articuladas, chegam nitidamente aos seus ouvidos.
-Parecem emitidas pelos seres radiosos que presidem o desenvolvimento e o progresso do mundo aos sábios desígnios do Incriado.
-Se todo homem as escutasse, não haveria na Terra a iniquidade que ocasiona o sofrimento, pois ao interrogar, no silêncio do seu interior, essa força desconhecida e invisível aos nossos olhos perecíveis, sobre o problema do destino, escutaria, maravilhado:
-“Alma, não és mais que um átomo da vida dentro do Universo e Aquele que te criou concedeu-te o poder de um deus.
-Possuis a liberdade mais ampla e conquistarás os troféus aos quais te dedicaste alcançar.
-“O Criador criou a justiça tão incorrupta que se te propuseres a buscar a luz tê-la-ás em tuas mãos e o mesmo acontecerá se te consagrares às obscuridades das trevas.
-O teu pensamento domina todos os elementos da natureza e julgas-te, muita vez, o senhor absoluto da Criação e apenas a dor te faz conhecer a tua situação de hóspede no mundo.
-Quanto mais o orgulho te faz elevar altivamente a cabeça mais o sofrimento se te faz dobrar, a fim de que reconheças a tua pequenez.
-“Persegues a felicidade mundana doidamente e te esqueces de que a ventura não é a satisfação falaz dos sentidos.
-És quase sempre infeliz como resultado às tuas irreflexões e, no entanto, podes ser o herdeiro direto do Pai dos Céus se te dedicares ao que é puro e perfeito, ao que eleva e dignifica.
-Poderás construir castelos indestrutíveis de luz se o amor divino for a bússola que te guie através da vida planetária.
-“Homem, sê bom, procurando a grandeza na humildade, a resignação no sofrimento, a luz na própria dor e a alegria ainda que seja nos prantos.
-Que a tua existência seja toda voltada ao bem e tecerás com tuas mãos a coroa de glória que há de aureolar-te nos Planos luminosos, onde a vida é imperecível!”
+1 Para a alma triste, a meditação no silêncio da natureza é conforto sublime, é um farol a iluminar a treva dos dias que se escoam na Terra.
+2 A alma, ao procurar desprender-se das cenas banais da existência carnal, vislumbra o ponto máximo onde ela coloca a sua alegria e que se denomina os Céus. 3 Luzes suavíssimas acendem-se em seu íntimo e descortina panoramas inéditos dentro da vida, ouvindo vozes estranhas que, sem ser articuladas, chegam nitidamente aos seus ouvidos. 4 Parecem emitidas pelos seres radiosos que presidem o desenvolvimento e o progresso do mundo aos sábios desígnios do Incriado. 5 Se todo homem as escutasse, não haveria na Terra a iniquidade que ocasiona o sofrimento, pois ao interrogar, no silêncio do seu interior, essa força desconhecida e invisível aos nossos olhos perecíveis, sobre o problema do destino, escutaria, maravilhado:
+6 “Alma, não és mais que um átomo da vida dentro do Universo e Aquele que te criou concedeu-te o poder de um deus. 7 Possuis a liberdade mais ampla e conquistarás os troféus aos quais te dedicaste alcançar.
+8 “O Criador criou a justiça tão incorrupta que se te propuseres a buscar a luz tê-la-ás em tuas mãos e o mesmo acontecerá se te consagrares às obscuridades das trevas. 9 O teu pensamento domina todos os elementos da natureza e julgas-te, muita vez, o senhor absoluto da Criação e apenas a dor te faz conhecer a tua situação de hóspede no mundo. 10 Quanto mais o orgulho te faz elevar altivamente a cabeça mais o sofrimento se te faz dobrar, a fim de que reconheças a tua pequenez.
+11 “Persegues a felicidade mundana doidamente e te esqueces de que a ventura não é a satisfação falaz dos sentidos. 12 És quase sempre infeliz como resultado às tuas irreflexões e, no entanto, podes ser o herdeiro direto do Pai dos Céus se te dedicares ao que é puro e perfeito, ao que eleva e dignifica. 13 Poderás construir castelos indestrutíveis de luz se o amor divino for a bússola que te guie através da vida planetária.
+14 “Homem, sê bom, procurando a grandeza na humildade, a resignação no sofrimento, a luz na própria dor e a alegria ainda que seja nos prantos. 15 Que a tua existência seja toda voltada ao bem e tecerás com tuas mãos a coroa de glória que há de aureolar-te nos Planos luminosos, onde a vida é imperecível!”
 
 ---
 
-## 77 — A cruz
+## 77
 
 > | 1º de fevereiro de 1932.
 
-— Minha mãe, por que Jesus,
-Que era de Deus o Enviado,
-Veio a ser crucificado
-Nos duros braços da cruz?
-— Foi para mostrar que a dor
-É a portadora da luz,
-Que somente ela conduz
-A criatura ao Criador.
-Para que pudéssemos ver
-Como se sofre na vida,
-Com paciência, fronte erguida,
-Cumprindo o nosso dever.
-Mostrou, com abnegação,
-Que a luta que sustentamos
-É a cruz que precisamos
-Conduzir à redenção.
+1 — Minha mãe, por que Jesus, Que era de Deus o Enviado, Veio a ser crucificado Nos duros braços da cruz?
+2 — Foi para mostrar que a dor É a portadora da luz, Que somente ela conduz A criatura ao Criador.
+3 Para que pudéssemos ver Como se sofre na vida, Com paciência, fronte erguida, Cumprindo o nosso dever.
+4 Mostrou, com abnegação, Que a luta que sustentamos É a cruz que precisamos Conduzir à redenção.
 
 ---
 
-## 78 — Pobrezinhos
+## 78
 
 > | 1º de março de 1932.
 
-Ei-los que seguem, de longada,
-Nas asperezas dos caminhos,
-Sem ter abrigo e nem pousada!
-Oh, pobrezinhos, pobrezinhos!
-Mas quem me dera os alvos linhos,
-Aonde haveis de descansar,
-Que o Pai de Amor, todo carinhos,
-Inda algum dia vos há de dar.
-Oh! Como vão na noite escura
-Sentindo o frio a tiritar!
-Que eterna mágoa os tortura,
-Não ter pão, nem luz, nem lar.
-Mas quem me dera a luz formosa,
-As manhãs rútilas de amor,
-Da vossa vida esplendorosa
-Nas puras mansões do Senhor!
+1 Ei-los que seguem, de longada, Nas asperezas dos caminhos, Sem ter abrigo e nem pousada! Oh, pobrezinhos, pobrezinhos!
+2 Mas quem me dera os alvos linhos, Aonde haveis de descansar, Que o Pai de Amor, todo carinhos, Inda algum dia vos há de dar.
+3 Oh! Como vão na noite escura Sentindo o frio a tiritar! Que eterna mágoa os tortura, Não ter pão, nem luz, nem lar.
+4 Mas quem me dera a luz formosa, As manhãs rútilas de amor, Da vossa vida esplendorosa Nas puras mansões do Senhor!
 
 ---
 
-## 79 — Exortação
+## 79
 
 > | 1º de maio de 1932.
 
-Semeador, repara o teu trabalho
-Para ires à Luz sempre implantando,
-Porque o homem mais dela se afastando
-Da impiedade procura o negro atalho.
-Trilha a senda da vida e sempre amando
-Sê o pão, sê o guia, o agasalho,
-Sem o que o teu labor seja bem falho,
-Bem mesquinho, apoucado e miserando!
-Seja o bem teu fanal em todo o instante,
-A humildade a tua arma poderosa
-E a paz a grandeza de tua ideia!
-E ao buscares a estrada deslumbrante
-Vislumbrarás a altura esplendorosa
-Entre a luz de uma sublimada epopeia.
+1 Semeador, repara o teu trabalho Para ires à Luz sempre implantando, Porque o homem mais dela se afastando Da impiedade procura o negro atalho.
+2 Trilha a senda da vida e sempre amando Sê o pão, sê o guia, o agasalho, Sem o que o teu labor seja bem falho, Bem mesquinho, apoucado e miserando!
+3 Seja o bem teu fanal em todo o instante, A humildade a tua arma poderosa E a paz a grandeza de tua ideia!
+4 E ao buscares a estrada deslumbrante Vislumbrarás a altura esplendorosa Entre a luz de uma sublimada epopeia.
 
 ---
 
-## 80 — A sede de Jesus
+## 80
 
 > | 16 de julho de 1932.
 
-“Tenho sede!” — exclamava o Mestre amado,
-Sob a dor amaríssima na cruz.
-Mas que sede, inflamando o bom Jesus,
-Abrasava o seu peito torturado?
-Ele, o meigo Pastor que nos conduz
-Através das misérias do pecado,
-Ao recinto da paz, divinizado,
-Onde tudo é ventura, amor e luz,
-Sentia sede, a sede estranha e pura
-De redimir a humana criatura
-De mais amar os crentes e os ateus.
-Sede do amor da ingrata humanidade,
-Sede de oferecer-nos mais piedade,
-Elevando a nossa alma para Deus!
+1 “Tenho sede!” — exclamava o Mestre amado, Sob a dor amaríssima na cruz. Mas que sede, inflamando o bom Jesus, Abrasava o seu peito torturado?
+2 Ele, o meigo Pastor que nos conduz Através das misérias do pecado, Ao recinto da paz, divinizado, Onde tudo é ventura, amor e luz,
+3 Sentia sede, a sede estranha e pura De redimir a humana criatura De mais amar os crentes e os ateus.
+4 Sede do amor da ingrata humanidade, Sede de oferecer-nos mais piedade, Elevando a nossa alma para Deus!
 
 ---
 
-## 81 — Divagando
+## 81
 
 > | 16 de novembro de 1928.
 
-Prece! Doce alívio das almas sofredoras!
-Oásis divino, onde os Espíritos, sofregamente, procuram o repouso.
-Fonte inexaurível, onde se bebe a linfa cristalina e pura que fortalece os corações para resistirem, vitoriosos, aos embates furiosos do mar tempestuoso de uma vida de expiação!
-Prece! Estrela radiosa que fulge no coração da alma crente, tu és o traço sublime que une a Terra ao Céu, a criatura ao seu Criador!
-És a música celestial e divina que se eleva, puríssima, ao Todo-Poderoso! És a flor de luz, cujo perfume embriagador ascende ao espaço infinito, aromatizando os caminhos que conduzem a Jesus!
-Prece! Tu és a mais excelsa expressão do pensamento humano — és a centelha divina que ilumina o recôndito dos corações repletos do verdadeiro amor!
+1 Prece! Doce alívio das almas sofredoras! 2 Oásis divino, onde os Espíritos, sofregamente, procuram o repouso. 3 Fonte inexaurível, onde se bebe a linfa cristalina e pura que fortalece os corações para resistirem, vitoriosos, aos embates furiosos do mar tempestuoso de uma vida de expiação!
+4 Prece! Estrela radiosa que fulge no coração da alma crente, tu és o traço sublime que une a Terra ao Céu, a criatura ao seu Criador!
+5 És a música celestial e divina que se eleva, puríssima, ao Todo-Poderoso! És a flor de luz, cujo perfume embriagador ascende ao espaço infinito, aromatizando os caminhos que conduzem a Jesus!
+6 Prece! Tu és a mais excelsa expressão do pensamento humano — és a centelha divina que ilumina o recôndito dos corações repletos do verdadeiro amor!
 
 ---
 
-## 82 — Mãe!
+## 82
 
 > | 16 de janeiro de 1933.
 
-Mãe! O teu coração é qual estrela que empalidecesse no firmamento para que o seu brilho fosse iluminar outras fulgurantes estrelas na tela azul do Infinito!
-A tua [estrela] é qual a flor que se tornasse fenecida para que o seu suave aroma fosse alimentar outras flores deslumbrantes, que hão de perfumar o jardim da vida!
-Tu não vives em ti! Existes nos olhares ternos, nos cabelos louros ou nos bracinhos nus dos teus filhinhos, que acaricias com os teus ósculos puros, tão puros quais os beijos do sol ao tocar de leve nas flores!
-Vives ao lado do berço, onde afagas com amor as tuas mais consoladoras e risonhas esperanças.
-Vives na doce carícia que ofertas aos teus anjinhos de encontro ao peito e existes nas lágrimas sacrossantas ao lado do berço vazio quando a férrea mão do destino desferiu sobre ti o seu golpe estranho, arrebatando-te toda a excelsa ventura de um luminoso sonho!
-Não vives para o mundo. Permaneces no mundo pequenino e santo da tua alma, envolta num turbilhão de ilusões fagueiras e dolorosos sofrimentos!
-O teu coração é um jardim, e só para ele existes, pois que os teus filhos, reflexos puros da tua alma, são as flores meigas que cultivas com enlevo, com arrebatamento e com amor!
-Quem poderia aquilatar a ternura infinita, o afeto imáculo, a magnanimidade soberba de tua alma? Ninguém!
-A psicologia humana é incapaz de definir-te, porque tu, ó Mãe, és na Terra o mais acrisolado reflexo do amor de Deus!
+1 Mãe! O teu coração é qual estrela que empalidecesse no firmamento para que o seu brilho fosse iluminar outras fulgurantes estrelas na tela azul do Infinito! 2 A tua [estrela] é qual a flor que se tornasse fenecida para que o seu suave aroma fosse alimentar outras flores deslumbrantes, que hão de perfumar o jardim da vida! 3 Tu não vives em ti! Existes nos olhares ternos, nos cabelos louros ou nos bracinhos nus dos teus filhinhos, que acaricias com os teus ósculos puros, tão puros quais os beijos do sol ao tocar de leve nas flores! 4 Vives ao lado do berço, onde afagas com amor as tuas mais consoladoras e risonhas esperanças. 5 Vives na doce carícia que ofertas aos teus anjinhos de encontro ao peito e existes nas lágrimas sacrossantas ao lado do berço vazio quando a férrea mão do destino desferiu sobre ti o seu golpe estranho, arrebatando-te toda a excelsa ventura de um luminoso sonho! 6 Não vives para o mundo. Permaneces no mundo pequenino e santo da tua alma, envolta num turbilhão de ilusões fagueiras e dolorosos sofrimentos! 7 O teu coração é um jardim, e só para ele existes, pois que os teus filhos, reflexos puros da tua alma, são as flores meigas que cultivas com enlevo, com arrebatamento e com amor! 8 Quem poderia aquilatar a ternura infinita, o afeto imáculo, a magnanimidade soberba de tua alma? Ninguém! 9 A psicologia humana é incapaz de definir-te, porque tu, ó Mãe, és na Terra o mais acrisolado reflexo do amor de Deus!
 
 ---
 
-## 83 — Vigiemos
+## 83
 
 > | 1º de fevereiro de 1933.
 
-Chocam-se, na atualidade, todos os elementos que se empenham em lutas gigantescas. Sofrem as almas sob as provações mais dolorosas.
-Grandes hecatombes arruínam a vida do indivíduo e da sociedade, e nos templos de pedra sente-se um frio que sufoca os entusiasmos da fé e os anseios da esperança.
-A paz é uma mentira em toda parte e por todos os recantos ouve-se o grito coletivo das multidões: “Nós sofremos!”
-Pesa uma ansiedade sobre os corações e a dor continua apertando o cerco, revigorando a crise ameaçadora que se apresenta debaixo de todos os aspectos no vasto campo da atividade humana.
-E em meio aos desastres e aos fracassos o Espiritismo é luz da razão e do Evangelho de Cristo.
-É a mensagem da esperança, dilatando os horizontes da vida e esclarecendo as anomalias que, impropriamente, costumamos atribuir ao destino.
-É uma luz que percorre o caminho cheio de sombras. E para aqueles que a conduzem há uma pedra e uma tentação a cada passo, um desconhecido sempre repleto de ciladas e de perigos, aos quais, muitas vezes, não se resiste.
-Tudo em nosso mundo é relativo e limitado. As nossas forças não escapam a essas leis.
-É assim que, inúmeras vezes, caímos, olvidando as nossas obrigações e deveres, porém a verdade é sempre a verdade e para que triunfe prescinde do concurso das nossas fraquezas.
-Todavia, os mensageiros divinos esquecem os nossos defeitos, alargando, carinhosamente, as nossas possibilidades para o bem, e perdoando, generosamente, os nossos erros e desvios, prosseguem como arautos da nova era de redenção que se anuncia, dignando-se a perdoar a insuficiência e a imperfeição dos seus pobres colaboradores na difusão da verdade.
-Porém nós, a quem está confiada a tarefa de veicular as sublimes realidades da época de renovação, precisamos vigiar, na hora que passa, para que venhamos a cair menos vezes na estrada do nosso progresso comum.
-Por mais desinteressados e bem-intencionados que sejamos, as tentações se nos apresentam como terríveis surpresas e após o sono que dormimos criminosamente entre os seus tentáculos o despertar é sempre horrível e doloroso.
-Quase todos nós conhecemos essas experiências amargas!
-Vigiemos, portanto, em nossos pedregosos caminhos e confiemos em Jesus, nas fainas abençoadas do Espiritismo evangélico, que é para a humanidade, nestes dias de amargura, a mensagem da esperança e da consolação.
+1 Chocam-se, na atualidade, todos os elementos que se empenham em lutas gigantescas. Sofrem as almas sob as provações mais dolorosas. 2 Grandes hecatombes arruínam a vida do indivíduo e da sociedade, e nos templos de pedra sente-se um frio que sufoca os entusiasmos da fé e os anseios da esperança. 3 A paz é uma mentira em toda parte e por todos os recantos ouve-se o grito coletivo das multidões: “Nós sofremos!”
+4 Pesa uma ansiedade sobre os corações e a dor continua apertando o cerco, revigorando a crise ameaçadora que se apresenta debaixo de todos os aspectos no vasto campo da atividade humana. 5 E em meio aos desastres e aos fracassos o Espiritismo é luz da razão e do Evangelho de Cristo. 6 É a mensagem da esperança, dilatando os horizontes da vida e esclarecendo as anomalias que, impropriamente, costumamos atribuir ao destino. 7 É uma luz que percorre o caminho cheio de sombras. E para aqueles que a conduzem há uma pedra e uma tentação a cada passo, um desconhecido sempre repleto de ciladas e de perigos, aos quais, muitas vezes, não se resiste.
+8 Tudo em nosso mundo é relativo e limitado. As nossas forças não escapam a essas leis. 9 É assim que, inúmeras vezes, caímos, olvidando as nossas obrigações e deveres, porém a verdade é sempre a verdade e para que triunfe prescinde do concurso das nossas fraquezas. 10 Todavia, os mensageiros divinos esquecem os nossos defeitos, alargando, carinhosamente, as nossas possibilidades para o bem, e perdoando, generosamente, os nossos erros e desvios, prosseguem como arautos da nova era de redenção que se anuncia, dignando-se a perdoar a insuficiência e a imperfeição dos seus pobres colaboradores na difusão da verdade. 11 Porém nós, a quem está confiada a tarefa de veicular as sublimes realidades da época de renovação, precisamos vigiar, na hora que passa, para que venhamos a cair menos vezes na estrada do nosso progresso comum. 12 Por mais desinteressados e bem-intencionados que sejamos, as tentações se nos apresentam como terríveis surpresas e após o sono que dormimos criminosamente entre os seus tentáculos o despertar é sempre horrível e doloroso. 13 Quase todos nós conhecemos essas experiências amargas!
+14 Vigiemos, portanto, em nossos pedregosos caminhos e confiemos em Jesus, nas fainas abençoadas do Espiritismo evangélico, que é para a humanidade, nestes dias de amargura, a mensagem da esperança e da consolação.

@@ -6,14 +6,19 @@
 
 ---
 
-## A VISÃO CELESTE — Prefácio
+## A VISÃO CELESTE
 
-
+Homenagem falada de Francisco Cândido Xavier, a Nossa Senhora da Abadia, no dia 15.08.1998, em reunião pública no Grupo Espírita da Prece em Uberaba - MG.
 Amigos! — Falou a Mensageira.
 E agora já que estou na minha hora de atuar, peço a vossa permissão para fazer uma saudação a “uma personalidade” mais eminente do Evangelho, conhecida em nossa cidade querida, Uberaba, por Nossa Senhora da Abadia.
 Saudação, por mais que se ouve, assim peço licença para orar:
-
-
+“Ave Maria,
+Mãe de Jesus,
+Nossa Senhora,
+Bendito seja o Filho Divino, que possivelmente nos trouxe, JESUS,
+Rogai a Deus por nós os pecadores,
+Agora e na hora de nossa morte, e sempre.
+Assim seja!”
 Com Jesus e por Jesus…
 Aqui fica a nossa saudação pelo dia de hoje em Uberaba.
 Convidando a todos irmãos Espíritas Cristãos, a lembrarmos nossa Mãe Santíssima, despeço em nossa divina Benfeitora, trazendo-nos JESUS.
@@ -23,133 +28,68 @@ Uberaba, ano de 2004.
 * * *
 [Data da última mensagem contida nesse livro, 15 de maio de 2001]
 
+---
 
+## 1
 
+1 EURÍPEDES REIS é soldado Ante a eterna luz do bem, Tanto ajuda a paz na Terra, Como auxilia ao Além.
+2 TIO PEDRO sempre sereno, É força, amor e clemência, Focado para filmagem, Saiu, retratando a paciência.
+3 Temos conosco uma irmã, Tão humilde, quanto humana, Seu nome tem várias letras, É dona SEBASTIANA.
+4 Conosco existe um casal, Que é sempre feliz sem breques, Ela é dona MARILENE, Ele o amigo ALAN KARDEC.
+5 Destaco um amigo brilhante, Nos estudos tem diploma, Nos triunfos tem a tocha, É ele Dr. RAMOS ROCHA.
+6 Não tem pai, tem mãe ainda, Vive a alegria e a saudade, É o companheiro de sempre O DAVIDSON DE ANDRADE.
+7 Serva de Deus, serve sempre, Até pelo telefone É senhora da bondade, Para nós a dona IVONE.
+8 Temos nós um par de amigos, Quase galãs de cinema, Ele é o irmão AGNELO E a querida dona GEMA.
+9 Certa irmã serve em silêncio Não se lhe vê mesmo o rastro, Devemos assinalá-la Dona CONCEIÇÃO DE CASTRO.
+10 Brilha conosco uma jovem; Tão ativa quanto bela, É a jovem SANDRA OTTAIANO Queria casar com ela.
+11 Converso sem pretensão, Sei a mudança de nível, Queria casar com SANDRA Isto é, sendo possível.
+12 Outra jovem corre, corre, Para tudo que se precisa Seu nome todos já sabem, É a nossa jovem NARCISA.
+13 Não falo fazendo festas, E sim saudando o povo, Fui aí CORNÉLIO PIRES, Sempre amigo do ANO NOVO.
+14 Sentindo a doce magia, Da nossa reunião; Penso que paz e alegria, São também religião.
+15 Assunto de caridade, Que eu também aprove e fale, Um pão é bênção do Céu, E um sorriso também vale.
+16 Da gente de nosso Grupo, Não posso esquecer na lista, A nossa irmã prestimosa ZILDA DA COSTA BATISTA.
+17 O Ano Novo já segue, Muito foguete no ar, Nosso lema continua, Procuremos trabalhar.
+18 Temos um técnico amigo, Que tem coração aberto, Auxilia a muita gente, O nosso CARLOS ALBERTO.
+19 Promotor de boas obras, É irmão em qualquer caminho, Une se faz apoio e benção O nosso caro NETINHO.
+20 Agora aqui me despeço, Deste ambiente de Luz, Viva este Grupo da Prece Para servir JESUS.
 
 ---
 
-## 1 — Retrato falado do Grupo Espírita da Prece
+## 2
 
-EURÍPEDES REIS é soldado
-Ante a eterna luz do bem,
-Tanto ajuda a paz na Terra,
-Como auxilia ao Além.
-TIO PEDRO sempre sereno,
-É força, amor e clemência,
-Focado para filmagem,
-Saiu, retratando a paciência.
-Temos conosco uma irmã,
-Tão humilde, quanto humana,
-Seu nome tem várias letras,
-É dona SEBASTIANA.
-Conosco existe um casal,
-Que é sempre feliz sem breques,
-Ela é dona MARILENE,
-Ele o amigo ALAN KARDEC.
-Destaco um amigo brilhante,
-Nos estudos tem diploma,
-Nos triunfos tem a tocha,
-É ele Dr. RAMOS ROCHA.
-Não tem pai, tem mãe ainda,
-Vive a alegria e a saudade,
-É o companheiro de sempre
-O DAVIDSON DE ANDRADE.
-Serva de Deus, serve sempre,
-Até pelo telefone
-É senhora da bondade,
-Para nós a dona IVONE.
-Temos nós um par de amigos,
-Quase galãs de cinema,
-Ele é o irmão AGNELO
-E a querida dona GEMA.
-Certa irmã serve em silêncio
-Não se lhe vê mesmo o rastro,
-Devemos assinalá-la
-Dona CONCEIÇÃO DE CASTRO.
-Brilha conosco uma jovem;
-Tão ativa quanto bela,
-É a jovem SANDRA OTTAIANO
-Queria casar com ela.
-Converso sem pretensão,
-Sei a mudança de nível,
-Queria casar com SANDRA
-Isto é, sendo possível.
-Outra jovem corre, corre,
-Para tudo que se precisa
-Seu nome todos já sabem,
-É a nossa jovem NARCISA.
-Não falo fazendo festas,
-E sim saudando o povo,
-Fui aí CORNÉLIO PIRES,
-Sempre amigo do ANO NOVO.
-Sentindo a doce magia,
-Da nossa reunião;
-Penso que paz e alegria,
-.
-Assunto de caridade,
-Que eu também aprove e fale,
-,
-.
-Da gente de nosso Grupo,
-Não posso esquecer na lista,
-A nossa irmã prestimosa
-ZILDA DA COSTA BATISTA.
-O Ano Novo já segue,
-Muito foguete no ar,
-Nosso lema continua,
-Procuremos trabalhar.
-Temos um técnico amigo,
-Que tem coração aberto,
-Auxilia a muita gente,
-O nosso CARLOS ALBERTO.
-Promotor de boas obras,
-É irmão em qualquer caminho,
-Une se faz apoio e benção
-O nosso caro NETINHO.
-Agora aqui me despeço,
-Deste ambiente de Luz,
-Viva este Grupo da Prece
-Para servir JESUS.
+1 Hoje o nosso tema não é poesia, Que fica para outro dia, Temos, porém, assunto muito sério para tratar, Assunto que está no ar E que poucos se dispõem a comentar…
+2 Lembremos! A época é de guerras, 3 Guerras nos costumes, 4 Guerras nas bolsas de finanças, 5 Guerra dos aflitos sem maiores esperanças, 6 Guerra do desemprego, que envolve tantos lares em desemprego, 7 Guerra nos esportes, que nos motivam n dor e morte, 8 Guerra nos hábitos mais singelos, 9 Guerra nos ajustes afetivos, que deixam tantos irmãos feridos, semivivos pelo desalento, que trazem tanto sofrimento em toda a parte!…
+10 Certa guerra, porém, nos ameaça, que talvez, se realizada, nos faltará até a graça de viver.
+11 Queremos dizer que estamos ameaçados pela guerra dos gases frios, supra frios, Na qual se dará luta enorme, que, por enquanto, não nos deixa nem pensar?!
+12 Guerra das noites frias e supra frias, sem imediata solução.
+13 O Divino Mestre nos prometeu: Estarei convosco todos os dias! ( † )
+14 E para as noites, quem nos socorrerá? No entanto, nunca sejamos pessimistas, O Senhor não nos deixará…
+15 Ele também nos disse: Pedi e obtereis, ( † ) Iluminando as nossas vidas e nossas leis.
+16 E assim, como nunca nos esquece, Deu-nos a luz da prece, Para tudo encaminhar e renovar!…
+17 Assim, para afastar o sono das noites geladas, que talvez virão, ( † ) Concedeu-nos esta sublime certidão, Que todos devemos cultivar, Especialmente em nossas bênçãos da vida, que todos possuímos, no refúgio do lar;
+18 E vos convidamos, irmãos, a cultivá-la, Seja a sós ou com vossos entes mais queridos, Para conseguir tranquilidade, defesa, coragem, força e paz.
+19 E repitamos sempre, seja dia ou noite:
+“Pai nosso que estais no Céu,
+Santificado seja o Vosso Nome,
+Glória seja dada a Vosso Reino,
+Seja feita a Vossa Vontade,
+Assim na Terra como no Céu!
+O pão nosso de cada dia, dai-nos hoje, Senhor,
+Perdoai as nossas dívidas como perdoamos aos nossos devedores,
+E não nos deixeis cair em tentação,
+Mas livrai-nos, Senhor, de todo mal, de todos os males.
+Assim seja, sempre Jesus!”
+20 Assim, pela prece estamos protegidos contra os males que virão!… Assim prometemos a nós mesmos, Que, pela oração que Ele mesmo nos deixou, Guardar-nos-emos todos unidos, Nós, os que nos dizemos cristãos; Unindo nossas mãos Em serviço, paz e amor e luz, E nos resguardaremos com Jesus!…
 
 ---
 
-## 2 — Atualidade
+## 3
 
-Hoje o nosso tema não é poesia, que fica para outro dia, temos, porém, assunto muito sério para tratar, assunto que está no ar e que poucos se dispõem a comentar…
-Lembremos! A época é de guerras:
-
-Guerras nos costumes,
-
-Guerras nas bolsas de finanças,
-
-Guerra dos aflitos sem maiores esperanças,
-
-Guerras dos desempregos, que envolve tantos lares em desemprego.
-
-Guerra nos esportes que nos leva à dor e morte,
-
-Guerra nos hábitos mais singelos,
-
-Guerra nos ajustes afetivos, que deixam tantos irmãos feridos semivivos pelo desalento que trazem tanto sofrimento em toda a parte!…
-Certa guerra, porém nos ameaça, que talvez, se realizada, nos faltem até a graça de viver.
-Assim para afastar o sono das noites geladas que talvez virão,
-concedeu-nos esta sublime certidão, que todos devemos cultivar, especialmente em nossas bênçãos da vida que todos possuímos no refúgio do lar; e vos convidamos irmãos cultivá-la, seja a sós ou com entes mais queridos, para conseguir tranquilidade, defesa, coragem, força e paz.
-E repetimos sempre, seja dia ou noite:
-”
-Assim, pela prece estamos protegidos contra os males que virão.
-Assim prometemos a nós mesmos, que pela oração que ELE mesmo nos deixou, guardaremos todos unidos, nós, os que nos fizermos cristãos, unindo nossas mãos em SERVIÇO, PAZ, AMOR E LUZ.
-”
-
----
-
-## 3 — Entre irmãos
-
-O Senhor nos disse com recomendação especial para rogarmos ao Pai, em oração “não nos deixeis cair em tentação, e livrai-nos do mal.”
-
-Ele, porém, o Senhor, nos sabia livres, através de decreto dos Céus, concedendo-nos o livre arbítrio para agir, pensar, providenciar, fazer e determinar, entretanto nos recomenda rogar aos Poderes do Alto proteção, de certo, porque nos tinha em conta, por criaturas suscetíveis de queda e fraqueza, não transmissíveis, mas influenciáveis.
-No entanto, quais sejam as tentações em que viermos a cair possivelmente. Quais seriam essas tentações? Ou são todas do íntimo de nós mesmos.
-Sem pretensões de superioridade, porque o tempo e a experiência não nos conferem infalibilidade, peço-vos permissão para enumerar algumas dessas tentações por dentro de nós.
-Senão vejamos:
+1 O Senhor nos disse com recomendação especial para rogarmos ao Pai, em oração “não nos deixeis cair em tentação, e livrai-nos do mal.” ( † )
+2 Ele, porém, o Senhor, nos sabia livres, através de decreto dos Céus, concedendo-nos o livre arbítrio para agir, pensar, providenciar, fazer e determinar, entretanto nos recomenda rogar aos Poderes do Alto proteção, de certo, porque nos tinha em conta, por criaturas suscetíveis de queda e fraqueza, não transmissíveis, mas influenciáveis.
+3 No entanto, quais sejam as tentações em que viermos a cair possivelmente. Quais seriam essas tentações? Ou são todas do íntimo de nós mesmos.
+4 Sem pretensões de superioridade, porque o tempo e a experiência não nos conferem infalibilidade, peço-vos permissão para enumerar algumas dessas tentações por dentro de nós.
+5 Senão vejamos:
 Maldade.
 Crueldade.
 Violência.
@@ -173,270 +113,185 @@ Deslealdade.
 Indisciplina.
 Exploração dos assuntos sagrados.
 A gula.
-A Teologia Cristã afirma que são sete os pecados mortais, mas as quedas por dentro são faltas que conduzem à morte prematura, são mais e muito mais.
-Em vista disso o Senhor nos induz na ORAÇÃO DOMINICAL
-a rogar proteção em nós mesmos a fim de não cair em tentação.
-Irmãos, pensemos nisso pra nos valermos do tempo de que dispomos na benção do corpo físico, de modo a nos melhorarmos por dentro de nós mesmos.
-Este é o depoimento de vosso amigo, igualmente falível, entretanto sempre vosso irmão que vos visita hoje e tantas vezes, o vosso pequenino servidor.
-Caros irmãos, também venho pedir-vos:
+6 A Teologia Cristã afirma que são sete os pecados mortais, mas as quedas por dentro são faltas que conduzem à morte prematura, são mais e muito mais.
+7 Em vista disso o Senhor nos induz na ORAÇÃO DOMINICAL ( † ) a rogar proteção em nós mesmos a fim de não cair em tentação.
+8 Irmãos, pensemos nisso pra nos valermos do tempo de que dispomos na benção do corpo físico, de modo a nos melhorarmos por dentro de nós mesmos.
+9 Este é o depoimento de vosso amigo, igualmente falível, entretanto sempre vosso irmão que vos visita hoje e tantas vezes, o vosso pequenino servidor.
+10 Caros irmãos, também venho pedir-vos:
 Nada façamos contra a fé que nos conduz,
 Porque somente assim poderemos viver e viveremos
 Na sagrada presença de JESUS.
 
 ---
 
-## 4 — Ide e pregai
+## 4
 
-Mestre, se formos obrigados a deixar-vos para onde iremos?
-
-Perguntou Simão Pedro ao Senhor em uma reunião.
-E o Senhor respondeu: — Amigo, veremos…
-E continuou a dizer:
-— Por enquanto, não nos separaremos…
-Mas quando eu partir, comunicarei a todos:
-Ide e Pregai aos Povos e Nações.
-Então estaremos juntos
-Pela força de nossos corações.
-Divulguemos irmãos, os ensinos da Luz…
-E estaremos sempre perto de Jesus!
+1 Mestre, se formos obrigados a deixar-vos para onde iremos? ( † ) Perguntou Simão Pedro ao Senhor em uma reunião. 2 E o Senhor respondeu: — Amigo, veremos… E continuou a dizer: — Por enquanto, não nos separaremos… 3 Mas quando eu partir, comunicarei a todos: Ide e Pregai aos Povos e Nações. 4 Então estaremos juntos Pela força de nossos corações.
+5 Divulguemos irmãos, os ensinos da Luz… E estaremos sempre perto de Jesus!
 
 ---
 
-## 5 — Sociedade desconhecida
+## 5
 
-Amigos, antes de tudo peço-lhes permissão para dizer que o nosso respeito às sociedades dignas do mundo, vinculadas a qualquer ideia religiosa ou a outras matizes da opinião pública, é sempre para nós imensurável, mas desejo apresentar-lhes a sociedade desconhecida que um companheiro me levou a registrar, a pedido dele, em praça de uma de nossas grandes cidades.
-Não me permitiu qualquer descrição inconveniente, apenas descreverei o quadro que me foi concedido presenciar.
-
-
-
-
-
-
-
-
-
-
-
-
+1 Amigos, antes de tudo peço-lhes permissão para dizer que o nosso respeito às sociedades dignas do mundo, vinculadas a qualquer ideia religiosa ou a outras matizes da opinião pública, é sempre para nós imensurável, mas desejo apresentar-lhes a sociedade desconhecida que um companheiro me levou a registrar, a pedido dele, em praça de uma de nossas grandes cidades.
+2 Não me permitiu qualquer descrição inconveniente, apenas descreverei o quadro que me foi concedido presenciar.
+3 Vi senhora de alta classe
+Em beleza e reconforto,
+Gemendo, a mostrar em pranto,
+A foto de um filho morto.
+4 Um homem com duas pastas
+E papéis voando ao ar,
+Falou que vinha de um banco
+Com imensa dívida a pagar.
+5 Um jovem na cor de cera,
+Perdido a cair sem nome,
+Fui ouvi-lo, era sem lar,
+Sofrendo de sede e fome.
+6 Um industrial — carro grande,
+Guardado em vidraça espessa,
+Notei ao vê-lo depressa
+Que trazia tumor na cabeça.
+7 Jovem formosa e infeliz,
+Tanto linda quanto nua,
+Para socorro à família
+Dançava samba na rua.
+8 Certa moça na farmácia,
+Interpelava o gerente,
+Para remédio gratuito,
+Em favor do pai doente.
+9 Dama nobre e bem vestida,
+Passou vendendo jasmins,
+Ela buscava dinheiro
+Para operar-se dos rins.
+10 Dois homens embriagados
+Saíam do bar da praça,
+Cambaleavam com risco,
+Inalando cachaça.
+11 Um caminhão passou rente
+Com meninos nus ao sol,
+Alguém me informou às pressas,
+É um treino de futebol.
+12 Uma jovem num balcão,
+Parecendo agir por mal
+Buscava agora o sustento
+De dois tios no hospital.
+13 Lembrei-me de Jesus Cristo,
+Que fez do amor, Lei das leis,
+E imaginei escutá-lo repetindo,
+Meus amigos, não julgueis. ( † )
 
 ---
 
-## 6 — Em favor da criança
+## 6
 
-Provas aparecem, outubro avança,
-Trazendo-nos o Dia da Criança
-Que devemos venerar.
-Oremos pelos nossos meninos
-Que partilham nossos destinos:
-Guiemos nossa crianças para a Luz,
-E assim, no tempo que se desdobra,
-Teremos defensores para JESUS.
+1 Provas aparecem, outubro avança, Trazendo-nos o Dia da Criança Que devemos venerar. Oremos pelos nossos meninos Que partilham nossos destinos:
+3 Guiemos nossa crianças para a Luz, E assim, no tempo que se desdobra, Teremos defensores para JESUS.
 
 ---
 
-## 7 — Trabalhadores
+## 7
 
 > 6
 > — como no mar
 
-O tema para nós, nesta noite é TRABALHO. Falemos, pois, dos trabalhadores que formam a classe mais densa, e numericamente a mais respeitável que há no mundo. Todas as atividades originais ao trabalho, precisam deles.
-A ciência não os dispensa, a religião os requisita, a educação lhes exige a presença. Os lares lhes pede colaboração incessante. A arte pede-lhes cursos, a sociedade se lhe fundamenta na base e por toda parte encontramos trabalhadores, corporificando as ideias dos Homens.
-Quase sempre são esquecidos e, por isso é justo consagrar-lhes atenção e dedicar-lhes a necessária estima.
-Em todas as ocasiões, a presença dos trabalhadores é indispensável. Em razão do que expomos, diante de um tema aparentemente comum, julgamos imperioso assinalar-lhes a importância.
-Em razão do que expomos, solicitamos, hoje, em nossa reunião, o dever de homenagear-lhes a utilidade e a grandeza, formulando em louvor deles, a nossa oração tradicional:
-Sejamos todos nós trabalhadores
+1 O tema para nós, nesta noite é TRABALHO. Falemos, pois, dos trabalhadores que formam a classe mais densa, e numericamente a mais respeitável que há no mundo. Todas as atividades originais ao trabalho, precisam deles.
+2 A ciência não os dispensa, a religião os requisita, a educação lhes exige a presença. Os lares lhes pede colaboração incessante. A arte pede-lhes cursos, a sociedade se lhe fundamenta na base e por toda parte encontramos trabalhadores, corporificando as ideias dos Homens.
+3 Quase sempre são esquecidos e, por isso é justo consagrar-lhes atenção e dedicar-lhes a necessária estima.
+4 Em todas as ocasiões, a presença dos trabalhadores é indispensável. Em razão do que expomos, diante de um tema aparentemente comum, julgamos imperioso assinalar-lhes a importância.
+5 Em razão do que expomos, solicitamos, hoje, em nossa reunião, o dever de homenagear-lhes a utilidade e a grandeza, formulando em louvor deles, a nossa oração tradicional:
+7 Sejamos todos nós trabalhadores
 Na expansão da verdade, amor e luz.
 E assim entenderemos e seguiremos
 A doutrina bendita de Jesus.
 
 ---
 
-## 8 — Louvor à Mulher
+## 8
 
-A propósito da presente semana, consagrada à Mulher, lembremos o encontro das mulheres com o Senhor, no intuito de reconfortá-lo sob a cruz, Dele ouviram as palavras inesquecíveis:
-“ — Filhas de Jerusalém, não choreis por mim, mas sim chorai por vós mesmas e por vossos filhos, porque tempo virá de grandes dores.”
-
-As mulheres porém, não esperaram esses tempos e sim lançaram mãos à obra. E choraram e sofreram nestes dois mil anos, embora atados sempre a duros preconceitos.
-Atiraram-se ao trabalho de renovação e de progresso e venceram dificuldades de todos os feitios.
-Romperam-se com os grilhões que as aprisionaram e avançaram no tempo, emparelhando-se com os homens nos mais elevados postos.
-Suportam calamidades e provações inumeráveis em guerras e dissensões que poderiam induzi-las ao desespero.
-Longe disso, construíram a civilização e preservaram a família, levantando poderes de benemerência e de cultura que são hoje troféus de progresso e benção.
-Toleraram os sacrifícios maiores, estranhos nas invasões e nos mal entendidos dos homens.
-Aguentaram agressões incontáveis e ergueram fortalezas de cultura e beneficência.
-Fundaram escolas e organizações que engrandeceram e no curso destes vinte séculos, conquanto suportando surpresas dolorosas, chegam hoje à culminância sempre movimentadas por obrigações e cativeis, são agora professoras, advogadas, médicas, jornalistas, juízas, escritoras, ao lado dos serviços eminentes que prestam a todas as criaturas.
-Da subjugação que sofreram, através das eras, basta lembrar que até agora em nenhuma nação, a Mãe tem férias.
-É nosso dever portanto, reverenciar-lhes a presença, conferindo-lhes o nosso amor, respeito e carinho, amparo em sua ascendência crescente, junto dos homens que elas enaltecem com a sua cooperação e privilegiado entendimento.
-Enfim, honremos a Mulher, nossa mentora e irmã, recordando sempre quanto devemos à nossa Mãe, cuja memória nos conduz para engrandecimento a Cristandade, agindo com JESUS e por JESUS.
-
----
-
-## 9 — Finados, não!…
-
-Estamos na antevéspera
-Dia dos Vivos e Redivivos,
-Que o mundo considera por Finados,
-Os nossos irmãos recuperados,
-Tão super-conscientes quanto ativos.
-Ei-los que chegam à nossa reunião,
-Trazendo-nos o amor que nos aquece,
-Merecem, um a um, a nossa prece
-Que nos saia do próprio coração…
-Eles são os leais trabalhadores
-Que nos fornecem coragem, paz e luz.
-Merecem por isso as nossas flores,
-Por serem os Mensageiros de JESUS!
+1 A propósito da presente semana, consagrada à Mulher, lembremos o encontro das mulheres com o Senhor, no intuito de reconfortá-lo sob a cruz, Dele ouviram as palavras inesquecíveis:
+2 “ — Filhas de Jerusalém, não choreis por mim, mas sim chorai por vós mesmas e por vossos filhos, porque tempo virá de grandes dores.” ( † )
+3 As mulheres porém, não esperaram esses tempos e sim lançaram mãos à obra. E choraram e sofreram nestes dois mil anos, embora atados sempre a duros preconceitos.
+4 Atiraram-se ao trabalho de renovação e de progresso e venceram dificuldades de todos os feitios.
+5 Romperam-se com os grilhões que as aprisionaram e avançaram no tempo, emparelhando-se com os homens nos mais elevados postos.
+6 Suportam calamidades e provações inumeráveis em guerras e dissensões que poderiam induzi-las ao desespero.
+7 Longe disso, construíram a civilização e preservaram a família, levantando poderes de benemerência e de cultura que são hoje troféus de progresso e benção.
+8 Toleraram os sacrifícios maiores, estranhos nas invasões e nos mal entendidos dos homens.
+9 Aguentaram agressões incontáveis e ergueram fortalezas de cultura e beneficência.
+10 Fundaram escolas e organizações que engrandeceram e no curso destes vinte séculos, conquanto suportando surpresas dolorosas, chegam hoje à culminância sempre movimentadas por obrigações e cativeis, são agora professoras, advogadas, médicas, jornalistas, juízas, escritoras, ao lado dos serviços eminentes que prestam a todas as criaturas.
+11 Da subjugação que sofreram, através das eras, basta lembrar que até agora em nenhuma nação, a Mãe tem férias.
+12 É nosso dever portanto, reverenciar-lhes a presença, conferindo-lhes o nosso amor, respeito e carinho, amparo em sua ascendência crescente, junto dos homens que elas enaltecem com a sua cooperação e privilegiado entendimento.
+13 Enfim, honremos a Mulher, nossa mentora e irmã, recordando sempre quanto devemos à nossa Mãe, cuja memória nos conduz para engrandecimento a Cristandade, agindo com JESUS e por JESUS.
 
 ---
 
-## 10 — Perdão
+## 9
 
-Dos ensinos de Jesus
-O que vimos mais à mão,
-Para usar em qualquer hora
-Tem o nome de perdão.
-A justiça vem de Cima,
-Mas vive em todos os lados,
-Vemo-la em nossos juízes
-E em nossos advogados.
-Mas a justiça é mais ampla,
-Em ação que não se atrasa,
-Muito fácil percebe-la
-Por dentro da própria casa.
-A panela muito quente
-Que alterou o teu feijão,
-Esqueceu, fazendo parte boa,
-Um tutu com pimentão.
-Se alguém grita em vozes altas
-Reclamando algum capricho,
-Substitua o tropeço,
-Falando, porém, mais baixo.
-Se teu esposo é sozinho,
-Cheio de estudos e esquemas,
-Tolera com paciência,
-Todo homem tem problemas.
-Se há brigas em teus vizinhos,
-Por amor ou por serviço,
-Não interfiras, nem fales,
-Pois não tens nada com isso.
-Se teu filho se desvia,
-Não repreenda o ingrato,
-Tornando-se frio, espera,
-Um filho é nosso retrato.
-Se o cão do vizinho
-Vive a latir e gemer,
-Perdoe o pobre animal
-E dá-lhe o que comer.
-Jesus nutre os meliantes
-Pois ama sem a punição
-Dizem que Nossa Senhora
-Socorreu o outro ladrão.
-Nossa Mãe Celestial
-Praticou gesto perfeito
-Os males estão crescendo
-E a punição não dá jeito.
-Xingamento nada vale,
-Nem chiste ou gritaria
-O mundo pede alegria,
-Bondade, paz e perdão.
-Perdão em toda parte
-A Humanidade que chora
-Compreensão para todos
-E virá grande melhora.
-Eu mesmo estranho o meu jeito
-Por estar falando assim,
-Em meio destas palavras
-Peço perdão para mim.
-Explico, pois, aos irmãos,
-Aos solteiros e aos casais,
-Perdoem sempre e sempre
-Que o perdão nunca é demais.
-Sem dúvida tudo passa,
-Aprendi isso de cor,
-Amando-nos uns aos outros
-O caminho será melhor.
+1 Estamos na antevéspera Dia dos Vivos e Redivivos, Que o mundo considera por Finados, Os nossos irmãos recuperados, Tão super-conscientes quanto ativos.
+2 Ei-los que chegam à nossa reunião, Trazendo-nos o amor que nos aquece, Merecem, um a um, a nossa prece Que nos saia do próprio coração…
+4 Eles são os leais trabalhadores Que nos fornecem coragem, paz e luz. Merecem por isso as nossas flores, Por serem os Mensageiros de JESUS!
 
 ---
 
-## 11 — Em prece
+## 10
+
+1 Dos ensinos de Jesus O que vimos mais à mão, Para usar em qualquer hora Tem o nome de perdão.
+2 A justiça vem de Cima, Mas vive em todos os lados, Vemo-la em nossos juízes E em nossos advogados.
+3 Mas a justiça é mais ampla, Em ação que não se atrasa, Muito fácil percebe-la Por dentro da própria casa.
+4 A panela muito quente Que alterou o teu feijão, Esqueceu, fazendo parte boa, Um tutu com pimentão.
+5 Se alguém grita em vozes altas Reclamando algum capricho, Substitua o tropeço, Falando, porém, mais baixo.
+6 Se teu esposo é sozinho, Cheio de estudos e esquemas, Tolera com paciência, Todo homem tem problemas.
+7 Se há brigas em teus vizinhos, Por amor ou por serviço, Não interfiras, nem fales, Pois não tens nada com isso.
+8 Se teu filho se desvia, Não repreenda o ingrato, Tornando-se frio, espera, Um filho é nosso retrato.
+9 Se o cão do vizinho Vive a latir e gemer, Perdoe o pobre animal E dá-lhe o que comer.
+10 Jesus nutre os meliantes Pois ama sem a punição Dizem que Nossa Senhora Socorreu o outro ladrão.
+11 Nossa Mãe Celestial Praticou gesto perfeito Os males estão crescendo E a punição não dá jeito.
+12 Xingamento nada vale, Nem chiste ou gritaria O mundo pede alegria, Bondade, paz e perdão.
+13 Perdão em toda parte A Humanidade que chora Compreensão para todos E virá grande melhora.
+14 Eu mesmo estranho o meu jeito Por estar falando assim, Em meio destas palavras Peço perdão para mim.
+15 Explico, pois, aos irmãos, Aos solteiros e aos casais, Perdoem sempre e sempre Que o perdão nunca é demais.
+16 Sem dúvida tudo passa, Aprendi isso de cor, Amando-nos uns aos outros O caminho será melhor.
+
+---
+
+## 11
 
 > 3
 > — como no mar
 
-Estamos na comoção nacional
-Que atinge todos os Estados Brasileiros,
-Assim, pedimos aos queridos companheiros,
-Unir os nossos corações,
-Em nossas sinceras orações
-Pela felicidade do País.
-Assim, vamos orar nossas preces tradicionais:
-O Senhor abençoe as nossas orações
-Pela tranquilidade de nossas legiões.
-Assim seja!…
-Que os nossos dirigentes nos mantenham,
-O pão e a paz, o amor e a luz,
-E assim trabalharemos e serviremos
-Na abençoada Doutrina de Jesus!…
+1 Estamos na comoção nacional Que atinge todos os Estados Brasileiros, Assim, pedimos aos queridos companheiros, Unir os nossos corações, Em nossas sinceras orações Pela felicidade do País.
+2 Assim, vamos orar nossas preces tradicionais:
+5 O Senhor abençoe as nossas orações Pela tranquilidade de nossas legiões. Assim seja!…
+6 Que os nossos dirigentes nos mantenham, O pão e a paz, o amor e a luz, E assim trabalharemos e serviremos Na abençoada Doutrina de Jesus!…
 
 ---
 
-## 12 — Nossa reunião
+## 12
 
-
-
----
-
-## 13 — Dinheiro
-
-
+Nossa reunião
+É uma festa de luz
+Em que nos preparamos
+Para encontrar a Jesus.
 
 ---
 
-## 14 — Amor a Deus
+## 13
 
-Deus construiu a Terra, à feição de torre muito alta.
-Que não se inclina e nem tomba,
-Sem medidas e sem estudos prévios,
-Sem picareta e sem bomba.
-Vendo em torno as águas imensas, agitadas,
-Quais gigantes em luta,
-Reuniu-as num todo,
-A dividi-las nas cavidades do mundo.
-E fez os belos mares de leito profundo,
-Com água especializada
-Para que houvesse privilégios
-E tivéssemos todos facilmente
-A benção da água salgada…
-Em seguida abriu valetas
-Como se nada fosse,
-Para termos sem tropeços,
-O amparo da água doce…
-Prevendo o futuro com povoados, cidades e nações,
-Espalhou por toda parte
-Valiosas plantações,
-A fim de que tivéssemos a bendita alegria
-Do pão de cada dia…
-Ouvindo música nos caminhos
-Deu apoio aos passarinhos,
-Acomodando a todos
-Em seus próprios ninhos.
-Mais tarde deu liberdades plenas
-Aos homens e mulheres,
-Sejam do mundo verde ou do deserto,
-Mas com a lei da consciência agindo perto.
-Para enfeitar a nossa vida
-E consolar as nossas dores,
-Semeou em toda a Terra
-Centenas de espécies de flores.
-Lembrando tudo isso
-Servimos e amemos uns aos outros,
-Irmãos, queridos meus,
-Sabendo que tudo temos e usamos,
-Pertence à Luz de Deus.
-Saibamos, meus amigos,
-Para ter vida segura,
-Com Deus precisamos aprender e praticar
-Silêncio, trabalho e brandura.
-Hoje estamos nós em festa,
-De união, amor, carinho e luz,
-Pois hoje recordamos, contentes,
-A Ressurreição de Jesus.
+Dinheiro é sempre necessário
+Para sustentar o pão e a luz
+Mas é preciso evitar os excessos
+Para não misturá-lo com Jesus.
+
+---
+
+## 14
+
+1 Deus construiu a Terra, à feição de torre muito alta. Que não se inclina e nem tomba, Sem medidas e sem estudos prévios, Sem picareta e sem bomba.
+2 Vendo em torno as águas imensas, agitadas, Quais gigantes em luta, Reuniu-as num todo, A dividi-las nas cavidades do mundo. E fez os belos mares de leito profundo, Com água especializada Para que houvesse privilégios E tivéssemos todos facilmente A benção da água salgada…
+3 Em seguida abriu valetas Como se nada fosse, Para termos sem tropeços, O amparo da água doce…
+4 Prevendo o futuro com povoados, cidades e nações, Espalhou por toda parte Valiosas plantações, A fim de que tivéssemos a bendita alegria Do pão de cada dia…
+5 Ouvindo música nos caminhos Deu apoio aos passarinhos, Acomodando a todos Em seus próprios ninhos.
+6 Mais tarde deu liberdades plenas Aos homens e mulheres, Sejam do mundo verde ou do deserto, Mas com a lei da consciência agindo perto.
+7 Para enfeitar a nossa vida E consolar as nossas dores, Semeou em toda a Terra Centenas de espécies de flores.
+8 Lembrando tudo isso Servimos e amemos uns aos outros, Irmãos, queridos meus, Sabendo que tudo temos e usamos, Pertence à Luz de Deus.
+9 Saibamos, meus amigos, Para ter vida segura, Com Deus precisamos aprender e praticar Silêncio, trabalho e brandura.
+10 Hoje estamos nós em festa, De união, amor, carinho e luz, Pois hoje recordamos, contentes, A Ressurreição de Jesus.

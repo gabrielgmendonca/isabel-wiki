@@ -6,66 +6,33 @@
 
 ---
 
-##  — Novo mundo
+## 
 
-Leitor amigo:
-De início, notificamos que este livro é formado por nós, com a mediunidade de Francisco Cândido Xavier, e se destinando aos nossos estudos e pesquisas mútuas.
-Se alguém dirigir uma indagação sobre o Novo Mundo de hoje, que poderíamos responder?
-Dizemos isso em consideração a cada viajor do caminho evolutivo, que fará a resposta com o que sabe e silenciará ou discutirá quanto ao que não aprendeu.
-Que diremos das minudências da intercomunicação entre as almas e os mundos;
-
-das conexões magnéticas entre eles;
-
-das agregações e desagregações atômicas;
-
-da saúde física e moral dos monopólios celulares;
-
-dos ensinamentos iniciantes da tecnologia;
-
-do fenômeno das guerras;
-
-das nossas dificuldades de relacionamento;
-
-dos desafios da Natureza;
-
-das revelações da matéria cósmica;
-
-dos poderes da luz;
-
-da ciência do bem e dos desequilíbrios do mal;
-
-da perenidade do tempo?
-Estaremos respondendo razoavelmente, anotando o que sabemos e respeitaremos a todos os companheiros que se contentem com a ótica de que se servem para a contemplação da Vida Universal.
-Amigo, este livro nada tem a ver com as nossas presunções particulares. Não é nosso. É um reflexo da nossa sede de conhecimento; sede que nos atinge a todos na Terra na viagem para a nossa integração com Jesus, o nosso Divino Mestre, na Vida Espiritual.
+1 Leitor amigo: De início, notificamos que este livro é formado por nós, com a mediunidade de Francisco Cândido Xavier, e se destinando aos nossos estudos e pesquisas mútuas.
+2 Se alguém dirigir uma indagação sobre o Novo Mundo de hoje, que poderíamos responder?
+3 Dizemos isso em consideração a cada viajor do caminho evolutivo, que fará a resposta com o que sabe e silenciará ou discutirá quanto ao que não aprendeu.
+4 Que diremos das minudências da intercomunicação entre as almas e os mundos; 5 das conexões magnéticas entre eles; 6 das agregações e desagregações atômicas; 7 da saúde física e moral dos monopólios celulares; 8 dos ensinamentos iniciantes da tecnologia; 9 do fenômeno das guerras; 10 das nossas dificuldades de relacionamento; 11 dos desafios da Natureza; 12 das revelações da matéria cósmica; 13 dos poderes da luz; 14 da ciência do bem e dos desequilíbrios do mal; 15 da perenidade do tempo?
+16 Estaremos respondendo razoavelmente, anotando o que sabemos e respeitaremos a todos os companheiros que se contentem com a ótica de que se servem para a contemplação da Vida Universal.
+17 Amigo, este livro nada tem a ver com as nossas presunções particulares. Não é nosso. É um reflexo da nossa sede de conhecimento; sede que nos atinge a todos na Terra na viagem para a nossa integração com Jesus, o nosso Divino Mestre, na Vida Espiritual.
 Uberaba, 20 de abril de 1991.
 
 ---
 
-## 1 — Perguntas e respostas de Chico Xavier
+## 1
 
 > 1
 
-Indagado sobre as mortes repentinas e inesperadas, Chico explica:
-— Os Espíritos se esmeram para que tenhamos na Terra o máximo de vida no corpo.
-Nos casos de doenças prolongadas, há uma preparação do nosso espírito para uma Vida Maior.
-As mortes súbitas são provações e, às vezes, ocorrências inevitáveis no mapa de trabalho trazido pelo espírito ao reencarnar.
+Indagado sobre as mortes repentinas e inesperadas, Chico explica: — Os Espíritos se esmeram para que tenhamos na Terra o máximo de vida no corpo. Nos casos de doenças prolongadas, há uma preparação do nosso Espírito para uma Vida Maior. As mortes súbitas são provações e, às vezes, ocorrências inevitáveis no mapa de trabalho trazido pelo Espírito ao reencarnar.
 Emmanuel costuma afirmar-nos que, sem religião, seríamos na Terra viajores sem bússola, incapazes de orientarmo-nos no rumo da elevação real.
-“Quando nos adaptarmos em definitivo ao espírito da Doutrina para vivência cristã, em nossas relações mútuas, toda insatisfação desaparecerá porque, estabelecida a paz em nossa consciência com nosso dever cumprido, as próprias doenças recuarão, pois muitas delas são consequências de nossos desajustes espirituais, em decorrência de nosso afastamento de Cristo, como Luz Divina para os nossos corações.”
-“Nós perdemos o contato com Cristo que é a Luz Divina para nossa consciência e, de imediato, criamos tomadas para o domínio das sombras. Aí a obsessão pode surgir. Surgir como traumas psicológicos, doenças mentais, etc.”
-“— Por que é que uns nascem sofrendo em condições muito mais difíceis que os outros?
-“Não se pode admitir a injustiça Divina. Deus é a Justiça Suprema. Portanto, nós devemos a nós mesmos a consequência de nossos desajustes.
-“Se eu pratiquei um crime, se lesei alguém, é natural que não tendo pago a minha dívida moral durante o espaço curto de uma existência, é justo que eu faça esse resgate em outras existências porque, de outro modo, compreenderíamos Deus como um ditador, distribuindo medalhas para uns e chagas para outros, o que é inadmissível.”
-“A mediunidade é peculiar a toda criatura humana. Todas as pessoas são portadoras de valores mediúnicos que podem ser cultivados ao máximo, desde que a criatura se dedique a esse gênero de trabalho espiritual.
-“De um modo geral, a pessoa só se diz médium quando se sente vinculada a um processo obsessivo: quando sente arrepios, muita perturbação, muito assédio.
-“Esse é um médium doente.
-“A pessoa só pode perfeitamente estudar sua mediunidade e ver qual o caminho que suas faculdades mediúnicas podem tomar.
-“Uma criatura que desenvolva sua própria mediunidade, desenvolve-a educando-se, procurando aprimorar sua capacidade cultural, os seus valores, o seu dom de servir.
-“O médium é um ser humano com as fraquezas e imperfeições potenciais de toda criatura terrestre.”
+“Quando nos adaptarmos em definitivo ao espírito da Doutrina para vivência cristã, em nossas relações mútuas, toda insatisfação desaparecerá porque, estabelecida a paz em nossa consciência com nosso dever cumprido, as próprias doenças recuarão, pois muitas delas são consequências de nossos desajustes espirituais, em decorrência de nosso afastamento do Cristo, n como Luz Divina para os nossos corações.”
+“Nós perdemos o contato com Cristo que é a Luz Divina para nossa consciência e, de imediato, criamos tomadas para o domínio das sombras. “Aí a obsessão pode surgir. “Surgir como traumas psicológicos, doenças mentais, etc.”
+Chico Xavier responde a esta pergunta com outra: “— Por que é que uns nascem sofrendo em condições muito mais difíceis que os outros? “Não se pode admitir a injustiça Divina. “Deus é a Justiça Suprema. “Portanto, nós devemos a nós mesmos a consequência de nossos desajustes. “Se eu pratiquei um crime, se lesei alguém, é natural que não tendo pago a minha dívida moral durante o espaço curto de uma existência, é justo que eu faça esse resgate em outras existências porque, de outro modo, compreenderíamos Deus como um ditador, distribuindo medalhas para uns e chagas para outros, o que é inadmissível.”
+“A mediunidade é peculiar a toda criatura humana. “Todas as pessoas são portadoras de valores mediúnicos que podem ser cultivados ao máximo, desde que a criatura se dedique a esse gênero de trabalho espiritual. “De um modo geral, a pessoa só se diz médium quando se sente vinculada a um processo obsessivo: quando sente arrepios, muita perturbação, muito assédio. “Esse é um médium doente. “A pessoa só pode perfeitamente estudar sua mediunidade e ver qual o caminho que suas faculdades mediúnicas podem tomar. “Uma criatura que desenvolva sua própria mediunidade, desenvolve-a educando-se, procurando aprimorar sua capacidade cultural, os seus valores, o seu dom de servir. “O médium é um ser humano com as fraquezas e imperfeições potenciais de toda criatura terrestre.”
 Chico entende que as criaturas incrédulas na vida após a morte, ao desencarnarem, têm dificuldade de aceitar a realidade da Vida Maior.
 
 ---
 
-## 2 — Entrevista ao jornal “O Espírita Mineiro”
+## 2
 
 > 1
 
@@ -84,60 +51,56 @@ Observando-se o assunto, nas implicações remotas que ele envolve, as amas de g
 
 ---
 
-## 3 — Chico Xavier e o ano internacional da criança
+## 3
 
 > 1
 
-“— Acreditamos que esta legenda é um convite mais acentuado a nós todos que estamos encarnados no Planeta Terrestre, a que abramos os olhos para compreender a condição do Espírito que reinicia ou que inicia os seus passos na viagem da existência física.
-“Acreditamos que vamos, nós todos, com esta legenda — Ano Internacional da Criança — acordar o coração para o dever que nos cabe junto aos nossos pequeninos, especialmente quanto às mulheres, às quais foi confiada a chave da vida.
-“Então, o espírito da maternidade, tão sublimado quanto possível, não do ponto de vista da santificação compulsória, mas de compromissos aos deveres assumidos, imaginemos, por exemplo, determinada mãe, muito jovem, com possibilidades de criar seu filho, com a robustez necessária, que peça os serviços de uma ama para acalentar ou nutrir a criança, subtraindo-se da presença da criança e fugindo ao diálogo com ela.
-“Não estamos julgando ninguém, mas acreditamos que nós todos, aqueles que nascemos de mães extremamente pobres no mundo material, tivemos o suficiente amor para crescer bendizendo o nome de Deus, e para não perdermos o nosso sentido de fé numa vida melhor, embora estejamos carregando, como sempre, muitas imperfeições.
-“Então, nossas irmãs de hoje, enriquecidas pela civilização, por patrimônios materiais, se pudessem fazer isto (não temos a menor ideia de desprestigiá-las), achamos que teríamos grandes vantagens em nos ajustar ao espírito de proteção à criança de que nós todos estamos necessitados, para não perder um futuro melhor. Porque Deus determina e cria, mas o homem e a mulher são cooperadores de Deus.”
-“— Acreditamos que o compromisso sexual entre duas pessoas deve ser profundamente respeitado. Uma terceira pessoa em qualquer compromisso sexual é uma dificuldade a superar, porque não podemos esquecer que a lesão sentimental é, talvez, mais importante que uma lesão física. E alguém que prometeu amor a alguém deve se desincumbir deste compromisso com grandeza de pensamento e sem qualquer insegurança. Não compreendemos a promiscuidade. Mas entendemos perfeitamente o relacionamento de alma para alma, com o respeito que nós todos devemos uns aos outros.”
-“— Não entendemos o vício como sendo um problema de criminalidade, mas como um problema de desequilíbrio nosso, diante das leis da vida.
-“E isto não apenas no terreno em que o vício é mais claramente examinado.
-“Por exemplo: se falamos demasiadamente, estamos viciados no verbalismo excessivo e infrutífero.
-“Se bebemos café excessivamente, estamos destruindo também as possibilidades do nosso corpo nos servir.
-“Quando falamos a palavra vício habitualmente logo nos recordamos do sexo.
-“Mas do sexo herdamos nossa mãe, nosso pai, lar, irmãos, a bênção da família. Tudo isto recebemos através do sexo. No entanto, quando falamos em vício, lembramo-nos logo do sexo e do tóxico…
-“Mas tóxico é outro problema para nossos irmãos que se enfraqueceram diante da vida, que procuram uma fuga.
-“Não são criminosos. São criaturas carentes de mais proteção, de mais amor.
-“Porque, se os nossos companheiros enveredam pelo caminho do tóxico, eles procuram esquecer algo.
-“E esse algo são eles mesmos.
-“Então, precisávamos, talvez, reformular nossas concepções sobre vício.
-“Há pouco tempo perguntamos ao Espírito de Emmanuel como é que ele definia um criminoso.
-“Ele nos disse: — O criminoso é sempre um doente, mas se ele for culpado, só deve receber esse nome depois de examinado por três médicos e três juízes.”
-“— Pensamos com aquela assertiva do nosso André Luiz, que é um Mentor que todos nós respeitamos: Se cada um de nós consertar por dentro tudo aquilo que está desajustado, tudo por fora estará certo.”
-n
+— Acreditamos que esta legenda é um convite mais acentuado a nós todos que estamos encarnados no Planeta Terrestre, a que abramos os olhos para compreender a condição do Espírito que reinicia ou que inicia os seus passos na viagem da existência física.
+Acreditamos que vamos, nós todos, com esta legenda — Ano Internacional da Criança — acordar o coração para o dever que nos cabe junto aos nossos pequeninos, especialmente quanto às mulheres, às quais foi confiada a chave da vida.
+Então, o espírito da maternidade, tão sublimado quanto possível, não do ponto de vista da santificação compulsória, mas de compromissos aos deveres assumidos, imaginemos, por exemplo, determinada mãe, muito jovem, com possibilidades de criar seu filho, com a robustez necessária, que peça os serviços de uma ama para acalentar ou nutrir a criança, subtraindo-se da presença da criança e fugindo ao diálogo com ela.
+Não estamos julgando ninguém, mas acreditamos que nós todos, aqueles que nascemos de mães extremamente pobres no mundo material, tivemos o suficiente amor para crescer bendizendo o nome de Deus, e para não perdermos o nosso sentido de fé numa vida melhor, embora estejamos carregando, como sempre, muitas imperfeições.
+Então, nossas irmãs de hoje, enriquecidas pela civilização, por patrimônios materiais, se pudessem fazer isto (não temos a menor ideia de desprestigiá-las), achamos que teríamos grandes vantagens em nos ajustar ao espírito de proteção à criança de que nós todos estamos necessitados, para não perder um futuro melhor. Porque Deus determina e cria, mas o homem e a mulher são cooperadores de Deus.
+— Acreditamos que o compromisso sexual entre duas pessoas deve ser profundamente respeitado. Uma terceira pessoa em qualquer compromisso sexual é uma dificuldade a superar, porque não podemos esquecer que a lesão sentimental é, talvez, mais importante que uma lesão física. E alguém que prometeu amor a alguém deve se desincumbir deste compromisso com grandeza de pensamento e sem qualquer insegurança. Não compreendemos a promiscuidade. Mas entendemos perfeitamente o relacionamento de alma para alma, com o respeito que nós todos devemos uns aos outros.
+— Não entendemos o vício como sendo um problema de criminalidade, mas como um problema de desequilíbrio nosso, diante das leis da vida.
+E isto não apenas no terreno em que o vício é mais claramente examinado.
+Por exemplo: se falamos demasiadamente, estamos viciados no verbalismo excessivo e infrutífero.
+Se bebemos café excessivamente, estamos destruindo também as possibilidades do nosso corpo nos servir.
+Quando falamos a palavra vício habitualmente logo nos recordamos do sexo.
+Mas do sexo herdamos nossa mãe, nosso pai, lar, irmãos, a bênção da família. Tudo isto recebemos através do sexo. No entanto, quando falamos em vício, lembramo-nos logo do sexo e do tóxico…
+Mas tóxico é outro problema para nossos irmãos que se enfraqueceram diante da vida, que procuram uma fuga.
+Não são criminosos. São criaturas carentes de mais proteção, de mais amor.
+Porque, se os nossos companheiros enveredam pelo caminho do tóxico, eles procuram esquecer algo.
+E esse algo são eles mesmos.
+Então, precisávamos, talvez, reformular nossas concepções sobre vício.
+Há pouco tempo perguntamos ao Espírito de Emmanuel como é que ele definia um criminoso.
+Ele nos disse: — “O criminoso é sempre um doente, mas se ele for culpado, só deve receber esse nome depois de examinado por três médicos e três juízes.”
+— Pensamos com aquela assertiva do nosso André Luiz, que é um Mentor que todos nós respeitamos: Se cada um de nós consertar por dentro tudo aquilo que está desajustado, tudo por fora estará certo.
 
 ---
 
-## 4 — Na tarefa mediúnica
+## 4
 
-> No seu primeiro encontro com Emmanuel, ele enfatizou muito a disciplina. Teria falado algo mais depois?
+> No seu primeiro encontro com Emmanuel, ele enfatizou muito a disciplina.
 
-:
-“Depois de haver salientado a disciplina como elemento indispensável a uma boa tarefa mediúnica, ele me disse: “Temos algo a realizar.” Repliquei de minha parte qual seria esse algo e o benfeitor esclareceu: “Trinta livros para começar!”
-Considerei, então: como avaliar esta informação se somos uma família sem maiores recursos, além do nosso próprio trabalho diário, e a publicação de um livro demanda tanto dinheiro!…
-Já que meu pai lidava com bilhetes de loteria, eu acrescentei: “Será que meu pai vai tirar a sorte grande?” Emmanuel respondeu: “Nada, nada disso. A maior sorte grande é a do trabalho com a fé viva na providência de Deus. Os livros chegarão através de caminhos inesperados!”
-Algum tempo depois, enviando as poesias de
-para um dos diretores da Federação Espírita Brasileira, tive a grata surpresa de ver o livro aceito e publicado em 1932.
-A este livro seguiram-se outros e em 1947 atingimos a marca de 30 livros.
-Ficamos muito contentes e perguntei ao amigo espiritual se a tarefa estava terminada. Ele, então, considerou, sorrindo: “Agora começaremos uma nova série de trinta volumes.”
-Em 1958, indaguei-lhe novamente se o trabalho finalizara. Os 60 livros estavam publicados e eu me encontrava quase de mudança para a cidade de Uberaba, onde cheguei a 5 de janeiro de 1959.
-O grande benfeitor explicou-me, com paciência: “Você perguntou, em Pedro Leopoldo, se a nossa tarefa estava completa e quero informar a você que os mentores da Vida Maior, perante os quais devo também estar disciplinado, me advertiram que nos cabe chegar ao limite de 100 livros.”
-Fiquei muito admirado e as tarefas prosseguiram. Quando alcançamos o número de 100 volumes publicados, voltei a consultá-lo sobre o termo de nossos compromissos.
-Ele esclareceu, com boa vontade: “Você não deve pensar em agir e trabalhar com tanta pressa.
-Agora, estou na obrigação de dizer a você que os mentores da Vida Superior, que nos orientam, expediram certa instrução que determina seja a sua atual reencarnação desapropriada, em benefício da divulgação dos princípios espíritas-cristãos, permanecendo a sua existência, do ponto de vista físico, à disposição das entidades espirituais que possam colaborar na execução das mensagens e livros, enquanto o seu corpo se mostre apto para as nossas atividades.”
-Muito desapontado, perguntei: “Então devo trabalhar na recepção de mensagens e livros do mundo espiritual até o fim da minha vida atual?” Emmanuel acentuou: “Sim, não temos outra alternativa!”
-Naturalmente, impressionado com o que ele dizia, voltei a interrogar: “E se eu não quiser, já que a Doutrina Espírita ensina que somos portadores do livre-arbítrio para decidir sobre os nossos próprios caminhos?”
-Emmanuel, então, deu um sorriso de benevolência paternal e me cientificou: “A instrução a que me refiro é semelhante a um decreto de desapropriação, quando lançado por autoridade da Terra. Se você recusar o serviço a que me reporto, segundo creio, os orientadores dessa obra de nos dedicarmos ao Cristianismo Redivivo, de certo que eles terão autoridade bastante para retirar você de seu atual corpo físico!”
-Quando eu ouvi sua declaração, silenciei para pensar na gravidade do assunto, e continuo trabalhando, sem a menor expectativa de interromper ou dificultar o que passei a chamar de “desígnios de Cima”.
-n
+1 — Depois de haver salientado a disciplina como elemento indispensável a uma boa tarefa mediúnica, ele me disse: — Temos algo a realizar. Repliquei de minha parte qual seria esse algo e o Benfeitor esclareceu: — Trinta livros para começar.
+2 Considerei, então de minha parte: — Como avaliar esta informação se somos uma família sem maiores recursos, além do nosso próprio trabalho diário, e a publicação de um livro demanda muito dinheiro!…
+3 Já que meu pai lidava com bilhetes de loteria, eu acrescentei: — Será que meu pai vai ganhar a sorte grande? Emmanuel respondeu: — Nada, nada disso, a maior sorte grande é a do trabalho com a fé viva na Providência Divina. Os livros chegarão através de caminhos inesperados.
+4 Algum tempo depois, enviando as poesias do “Parnaso de Além-túmulo” para um dos diretores da Federação Espírita Brasileira, tive a grande surpresa de ver o livro aceito e publicado em 1932.
+5 A este livro seguiram-se outros e em 1947 atingimos os trinta livros.
+6 Ficamos muito contentes e perguntei ao Amigo Espiritual se a tarefa estava terminada. Ele, então, considerou, sorrindo: Agora começaremos uma nova série de trinta volumes.
+7 Em 1958, indaguei-lhe novamente se o trabalho finalizara. Os sessenta livros estavam publicados e eu me encontrava quase de mudança para a cidade de Uberaba, onde cheguei a 5 de janeiro de 1959.
+8 O grande benfeitor explicou-me, com paciência: — Você perguntou, em Pedro Leopoldo, se a nossa tarefa estava completa e quero informar-lhe que os Mentores da Vida Maior, perante os quais devo também estar disciplinado, advertiram-me que nos cabe chegar ao limite de cem livros.
+9 Fiquei muito admirado e as tarefas prosseguiram. Quando alcançamos o número de cem volumes publicados, voltei a consultá-lo sobre o termo de nossos compromissos.
+10 Ele esclareceu, com bondade: — Você não deve pensar em agir e trabalhar com tanta pressa.
+11 Agora, estou na obrigação de dizer-lhe que os mentores da Vida Superior, que nos orientam, expediram certa instrução que determina seja a sua atual reencarnação desapropriada, em benefício da divulgação dos princípios espíritas-cristãos, permanecendo a sua existência, no ponto de vista físico, à disposição das Entidades Espirituais que possam colaborar na execução das mensagens e livros, enquanto o seu corpo se mostre apto para as nossas atividades.
+12 Muito desapontado, perguntei: Então devo trabalhar na recepção de mensagens e livros do Mundo Espiritual até o fim da minha vida atual? Emmanuel acentuou: Sim, não temos outra alternativa.
+13 Naturalmente, impressionado com o que ele dizia, voltei a interrogar: E se eu não quiser, já que a Doutrina Espírita ensina que somos portadores do livre-arbítrio para decidir sobre os nossos próprios caminhos?
+14 Emmanuel fez então um sorriso de benevolência paternal e me cientificou: A instrução a que me refiro é semelhante a um decreto de desapropriação, quando lançado por autoridade da Terra. Se você recusar o serviço a que me reporto, segundo creio, os Orientadores dessa obra, de nos dedicarmos ao Cristianismo Redivivo, de certo que eles,os Orientadores, terão autoridade bastante para retirar você de seu atual corpo físico.
+15 Quando eu ouvi esta declaração dele silenciei para pensar na gravidade do assunto, e continuo trabalhando, sem a menor expectativa de interromper ou dificultar o que passei a chamar por “Desígnios de Cima.”
 
 ---
 
-## 5 — A figura de comunicação de Francisco Cândido Xavier
+## 5
 
 Independente de qualquer posição pessoal, crença ou convicção, a figura de comunicação de Francisco Cândido Xavier percorre décadas da vida brasileira operando um fenômeno (refiro-me à comunicação terrena mesmo) de validade única, peculiar, originalíssima. Não vou, portanto, por falta de autoridade para tal, analisá-lo do ângulo religioso e, sim, as relações de sua figura de comunicação com o público.
 Com todos os significantes necessários a já ter desaparecido ou ter-se isolado como um fenômeno passageiro, a figura de comunicação de Francisco Cândido Xavier, no entanto, ganha um significado profundo, duradouro, acima e além de paixões religiosas, doutrinas científicas ou interpretações metafísicas.
@@ -151,7 +114,8 @@ Nem mesmo a mais decidida modéstia e humildade pessoal de vários papas são su
 Até nas religiões orientais, menos pomposas, as figuras líderes são cercadas da visão carismática do líder.
 Francisco Cândido Xavier, porém, representa uma espécie de antítese vitoriosa da figura carismática.
 Não tem, do ponto de vista externo ou visual, nenhum elemento característico.
-Até ao contrário. Pessoalmente, é o anticarisma.
+Até ao contrário.
+Pessoalmente, é o anticarisma.
 Funciona como símbolo de negação de qualquer pompa ou formalidade, um retorno talvez à pureza primitiva dos movimentos religiosos.
 E, no entanto, emerge da figura dele uma das mais poderosas forças de identificação da vida brasileira.
 Ele é uma espécie de líder desvalido dos desvalidos, dos carentes, dos sofredores, dos não onipotentes, dos despretensiosos, dos modestos, dos dispostos a perder para ganhar.
@@ -163,20 +127,12 @@ Para tal contribui, além do aspecto misterioso da psicografia e da relação co
 Além da aura de paz e pacificação que parte dele, há um outro elemento poderoso a explicar o fascínio e a durabilidade da impressionante figura de comunicação de Francisco Cândido Xavier: a grande seriedade pessoal do médium, a dedicação integral de sua vida aos que sofrem e o desinteresse material absoluto.
 A canalização de todo o dinheiro levantado em direitos autorais para as variadíssimas atividades assistenciais espíritas dão a Chico Xavier uma autoridade moral — tanto maior porque não reivindicada por ele — que o coloca entre os grandes líderes religiosos do nosso tempo.
 Quem se aproximar da atividade real de assistência material e espiritual da comunidade espiritualista brasileira, verificará que ela é íntegra e heroica, tal e qual o que há e sempre houve de melhor em assistência de religiões como a Católica e a Protestante (entre nós), prodígios de dedicação, silêncio e humildade que justificam as vidas dos que dela participam.
-A integridade pessoal;
-a íntima relação entre a pregação e a própria vida;
-a honestidade de seus seguidores;
-a ausência completa de significantes externos; o contato com o mistério;
-a ausência de qualquer forma de violência em sua figura e pregação;
-a nenhuma subordinação a hierarquias aprisionantes;
-a discrição pessoal;
-a nenhuma procura de poder político, temporal ou econômico para o desempenho da própria missão;
-as forças originais de organização interna do seu movimento, sem personalismos ou autoritarismos tudo isso gera uma figura de comunicação de alta força, mistério, empatia e grandeza moral, principalmente se considerarmos que enfrentou e ultrapassou tempos diferentes do atual (no qual o ecumenismo felizmente impôs-se).
+A integridade pessoal; a íntima relação entre a pregação e a própria vida; a honestidade de seus seguidores; a ausência completa de significantes externos; o contato com o mistério; a ausência de qualquer forma de violência em sua figura e pregação; a nenhuma subordinação a hierarquias aprisionantes; a discrição pessoal; a nenhuma procura de poder político, temporal ou econômico para o desempenho da própria missão; as forças originais de organização interna do seu movimento, sem personalismos ou autoritarismos tudo isso gera uma figura de comunicação de alta força, mistério, empatia e grandeza moral, principalmente se considerarmos que enfrentou e ultrapassou tempos diferentes do atual (no qual o ecumenismo felizmente impôs-se).
 Antes, manifestações como as dele eram removidas como bruxaria ou perigosas, ou bárbaras ou alucinantes quaisquer manifestações místico-religiosas diferentes ou discrepantes da religião da classe dominante.
 
 ---
 
-## 6 — Chico Xavier, uma lição de amor
+## 6
 
 Enquanto a moderna civilização alcança o apogeu no campo da Ciência e da Tecnologia, o homem vive tempos sombrios.
 Na procura obstinada de um universo fecundo e valores emocionais, éticos e morais tenta, avidamente, encontrar sua âncora-símbolo da esperança.
@@ -184,7 +140,8 @@ Nesse momento crucial, o perfil dos verdadeiros iluminados e profetas se destaca
 O exemplo de suas vidas irreprocháveis é um raio fulgurante, cuja centelha penetra o âmago dos corações e desperta consciências, mantendo ardente a chama das virtudes teologais — fé, esperança e caridade — inerentes a todos os grandes espíritos ecumênicos.
 Transcendendo sua obra densa e fértil, Francisco Cândido Xavier é, sem sombra de dúvida, uma destas insuperáveis lições de humanidade.
 Desde o início, sua trajetória no Planeta Terra foi marcada por acontecimentos, na maioria adversos e, ainda assim, aceitos com humilde devoção — Chico Xavier foi “escolhido” como o mensageiro do amor.
-Cumpre sua missão com rigorosa e total dedicação. Sobre sua imensa alma simples fluem, das mãos do Criador, a mais pura fragrância, a luz mais brilhante, a melodia de cânticos celestiais que, em magistral orquestração, estruturam e definem sua força, tão possante quanto harmônica, aparentemente difícil de caber em seu frágil corpo físico, através do qual, se consuma a Vontade Suprema do Construtor do Universo.
+Cumpre sua missão com rigorosa e total dedicação.
+Sobre sua imensa alma simples fluem, das mãos do Criador, a mais pura fragrância, a luz mais brilhante, a melodia de cânticos celestiais que, em magistral orquestração, estruturam e definem sua força, tão possante quanto harmônica, aparentemente difícil de caber em seu frágil corpo físico, através do qual, se consuma a Vontade Suprema do Construtor do Universo.
 Chico Xavier une, no tempo e no espaço, a espécie humana e proporciona essa sutil comunicação com nossos irmãos e irmãs, com nossos ancestrais.
 Devemos compreender como ele é, não como gostaríamos que fosse — para ele, o óbvio é, muitas vezes, falso enquanto que o inesperado é, muitas vezes, verdadeiro.
 Nenhum sistema religioso, filosófico ou político possui todas as respostas que justifiquem a existência, aqui ou além.
@@ -194,16 +151,16 @@ Em eras remotas, discutia-se o fato de que a mulher, tal como o homem, também p
 Perguntado sobre o assunto, Chico respondeu:
 “— Homem nenhum na Terra, até agora, impediu que a mulher fosse detentora do privilégio e da glória de ser mãe e que, através dela, se gerasse a vida.
 “Conhecemos santos, heróis, homens de grande inteligência, cujos nomes se projetaram na História. Mas nenhum deles existiria se não fosse a mulher — é tão importante essa sublime tarefa feminina que, quando a Divina Providência, em seus Desígnios insondáveis e profundos, enviou Seu Filho à Terra, para resgatar a humanidade, não escolheu Tibério, Augusto ou outros Césares, nem os grandes filósofos gregos, ou os grandes conquistadores.
-“Escolheu uma jovem virtuosa, chamada Maria de Nazaré, em cuja personalidade todos nós reverenciamos aquela que foi Mãe de Jesus, que se transformou no símbolo da Mãe da Humanidade, para todos que se consideram cristãos, que abrangem milhões de criaturas. Como poderia isso acontecer se todos os seres humanos, sem exceção, independente de sexo, raça ou religião, são iguais perante Deus, que os fez à Sua Imagem e Semelhança?
-“Naturalmente, homens e mulheres abrigam em seus corpos aquele sopro Divino que denominamos
-.”
+“Escolheu uma jovem virtuosa, chamada Maria de Nazaré, em cuja personalidade todos nós reverenciamos aquela que foi Mãe de Jesus, que se transformou no símbolo da Mãe da Humanidade, para todos que se consideram cristãos, que abrangem milhões de criaturas — como poderia isso acontecer se todos os seres humanos, sem exceção, independente de sexo, raça ou religião, são iguais perante Deus, que os fez à Sua Imagem e Semelhança?
+“Naturalmente, homens e mulheres abrigam em seus corpos aquele sopro Divino que denominamos “alma”.”
 “Em algum lugar, entre a imensidão e a eternidade está o nosso lar — a Terra é um lugar, mas de maneira nenhuma o único lugar. Intelectualmente, permanecemos numa ilhota dentro de um oceano ilimitado de inexplicabilidades.” (T. S. Huxley, 1887)
-“Por ventura compreendemos a expansão da Terra? Onde é o caminho da Morada de Luz, E onde é o local da escuridão?” (O Livro de Jó)
+“Porventura compreendemos a extensão da Terra? n Onde é o caminho da Morada de Luz, E onde é o local da escuridão?” (O Livro de Jó)
 As barreiras da mente são grossas muralhas, construídas pela razão e pela lógica objetiva, que funcionam como forças antagônicas, que se opõem à germinação e ao desenvolvimento das percepções extrasensoriais. Mas, através de Chico Xavier, exemplo clamoroso da fenomenologia paranormal, emerge um mar desconhecido feito de energias e vibrações, espesso, subjetivo e poderoso, que pressiona e chega à tona, rompendo as barreiras da mente.
 Mesmo para pessoas de crenças diferentes da sua, Chico Xavier não é um mortal comum — irradia luz e paz sem falar em seus incontestáveis dons de clarividência, telepatia e psicografia.
 Talvez seja difícil separar o homem Chico, do médium vivo mais famoso do Brasil, que pode apresentar à posteridade uma obra rara — até outubro de 1982 produziu duzentos e vinte e um livros psicografados, já editados, num total de onze milhões de exemplares vendidos.
 Seus livros compreendem gêneros literários os mais diversos e foram traduzidos para várias línguas entre as quais, Espanhol, Esperanto, Francês, Inglês, Grego e Checo.
-Existem algumas obras publicadas em Braile. Entretanto, a vultosa renda proveniente de direitos autorais, mais donativos e heranças que recebe, são integralmente doados a numerosas instituições de caridade, hospitais beneficentes ou centros de assistência social, no Brasil e no Exterior.
+Existem algumas obras publicadas em Braile.
+Entretanto, a vultosa renda proveniente de direitos autorais, mais donativos e heranças que recebe, são integralmente doados a numerosas instituições de caridade, hospitais beneficentes ou centros de assistência social, no Brasil e no Exterior.
 Chico Xavier vive, exclusivamente, de sua magra aposentadoria, referente a seu cargo de funcionário público do Ministério da Agricultura.
 A cidade mineira de Uberaba, onde vive atualmente, tornou-se o maior centro de peregrinação espírita do Brasil.
 Nas famosas noites de sexta-feira há seção de atendimento ao público, demonstrando um interesse permanente por seus semelhantes.
@@ -216,94 +173,29 @@ Dimensionar a obra de Chico, através de sua longa jornada, seria pretender expl
 A natureza, sinônimo da manifestação de Deus, não revela seus segredos de uma só vez.
 A fama em nada mudou sua personalidade simples, nem alterou a magnitude de seus dons — Chico é a própria integração do homem na universalidade Cósmica e vive, simultaneamente, em duas dimensões — poderíamos dizer que Chico Xavier é um “oceano de pura consciência” e situa-se além do espaço e do tempo.
 “Enquanto este planeta gira, de acordo com a lei imutável da gravidade, de um começo tão simples, for mas infindáveis, as mais belas e perfeitas, evoluíram e ainda estão evoluindo.” (Charles Darwin)
-“Quanto mais vivermos, com mais experiência partimos”. (Chico Xavier)
+“Quanto mais vivermos, com mais experiência partimos.” (Chico Xavier)
 
 ---
 
-## 7 — A verdadeira história de Chico Xavier
+## 7
 
-Era esta a vez primeira
-Que a Chico aparecia
-Emmanuel, grande Espírito,
-Que tanta luz irradia,
-E que continua sendo
-Desse grande médium, guia.
-Ele é um homem que viveu
-Numa época atrasada;
-Vendo que sua missão
-Não estava terminada,
-Voltou assim para a Terra,
-Prosseguir sua jornada.
-Esse grandioso Espírito
-A luz a Chico outorgou
-E o primeiro trabalho
-O médium psicografou:
-Parnaso de Além-Túmulo —
-Foi como o intitulou.
-Nesse livro se encontram
-Grandes nomes registrados,
-Obras de muitos poetas
-Que estão desencarnados
-Trovas, sonetos, poemas,
-Que nos deixam deslumbrados!
-Lá desfilam grandes vultos,
-De fama até mundial:
-Alberico Lobo, Abel Gomes
-E Amadeu Amaral,
-José de Alencar e outros —
-Uma obra colossal!
-Hoje Chico é o maior
-No setor da mediunidade
-Vive lá em Uberaba,
-Aquela grande cidade,
-Com uma obra grandiosa
-Praticando a caridade.
-Assim, vai realizando
-A sua grande missão:
-Lá, oitocentas crianças
-E adultos também vão,
-Receber seus alimentos
-Nos fundos de um galpão.
-Pelo bom doutor Weaker
-Ele é assessorado,
-E por dona Dalva Borges,
-Que vive sempre ao seu lado
-Assim, um trabalho insano
-Vai sendo realizado!
-E, se acaso uma pergunta
-A Francisco é formulada,
-Concernente às suas obras,
-Responde com voz pausada:
-— Eles são que fazem tudo —
-Eu é que não faço nada!
-Seus livros realizados
-Um grande progresso têm,
-A ponte já foi formada
-Entre este mundo e o Além
-E Francisco Xavier,
-É quem sustentando-a vem.
-Vai irradiando luz
-Para toda humanidade
-E, na cidade onde vive,
-É sempre a mesma bondade,
-Vivendo modestamente
-Tranquilo e na humildade.
-Com sua voz sempre calma
-E seu grande coração,
-Ele vem trazendo a todos,
-Com calma e dedicação,
-O que falta a este mundo:
-A paz e a compreensão.
-Enfrentamos muitas lutas
-Na nossa vida de aquém —
-É bom que as vençamos todas,
-Implorando sempre o bem!
-Aquele que assim procede
-Será feliz no Além!
+Era esta a vez primeira Que a Chico aparecia Emmanuel, grande Espírito, Que tanta luz irradia, E que continua sendo Desse grande médium, guia.
+Ele é um homem que viveu Numa época atrasada; Vendo que sua missão Não estava terminada, Voltou assim para a Terra, Prosseguir sua jornada.
+Esse grandioso Espírito A luz a Chico outorgou E o primeiro trabalho O médium psicografou: Parnaso de Além-Túmulo — Foi como o intitulou.
+Nesse livro se encontram Grandes nomes registrados, Obras de muitos poetas Que estão desencarnados — Trovas, sonetos, poemas, Que nos deixam deslumbrados!
+Lá desfilam grandes vultos, De fama até mundial: Alberico Lobo, Abel Gomes E Amadeu Amaral, José de Alencar e outros — Uma obra colossal!
+Hoje Chico é o maior No setor da mediunidade Vive lá em Uberaba, Aquela grande cidade, Com uma obra grandiosa Praticando a caridade.
+Assim, vai realizando A sua grande missão: Lá, oitocentas crianças E adultos também vão, Receber seus alimentos Nos fundos de um galpão.
+Pelo bom doutor Weaker Ele é assessorado, E por dona Dalva Borges, Que vive sempre ao seu lado — Assim, um trabalho insano Vai sendo realizado!
+E, se acaso uma pergunta A Francisco é formulada, Concernente às suas obras, Responde com voz pausada: — Eles são que fazem tudo — Eu é que não faço nada!
+Seus livros realizados Um grande progresso têm, A ponte já foi formada Entre este mundo e o Além — E Francisco Xavier, É quem sustentando-a vem.
+Vai irradiando luz Para toda humanidade E, na cidade onde vive, É sempre a mesma bondade, Vivendo modestamente Tranquilo e na humildade.
+Com sua voz sempre calma E seu grande coração, Ele vem trazendo a todos, Com calma e dedicação, O que falta a este mundo: A paz e a compreensão.
+Enfrentamos muitas lutas Na nossa vida de aquém — É bom que as vençamos todas, Implorando sempre o bem! Aquele que assim procede Será feliz no Além!
 
 ---
 
-## 8 — Chico fala dos seus sessenta anos de mediunidade
+## 8
 
 > 1
 
@@ -352,7 +244,9 @@ Depois de um mês, a mesma jovem voltou às nossas preces, plenamente revigorada
 Perdera o abatimento.
 Trazia a face rosada.
 Fui impelido a perguntar-lhe se havia obtido os recursos que nem ela nem eu possuíamos, trinta dias antes.
-Sorrindo, ela me disse: “— Chico, o Dr. Bezerra me aconselhou a usar as instruções dele por trinta dias. Não tendo dinheiro, cortei o papel da orientação em trinta pedacinhos e, cada manhã, eu fazia uma prece, pedindo o amparo de Jesus, e engolia um dos pedacinhos com água de nossa casa. Ao fim de trinta dias, bebi a receita do Dr. Bezerra, e o próprio médico que me tratou, a princípio, já declarou que estou perfeitamente restabelecida…”
+Sorrindo, ela me disse: “— Chico, o Dr. Bezerra me aconselhou a usar as instruções dele por trinta dias.
+“Não tendo dinheiro, cortei o papel da orientação em trinta pedacinhos e, cada manhã, eu fazia uma prece, pedindo o amparo de Jesus, e engolia um dos pedacinhos com água de nossa casa.
+“Ao fim de trinta dias, bebi a receita do Dr. Bezerra, e o próprio médico que me tratou, a princípio, já declarou que estou perfeitamente restabelecida…”
 — Creio que devemos efetuar campanhas de silêncio contra as chamadas “fofocas”, cultivando orações e pensamentos caridosos e otimistas, em favor da nossa união e da nossa paz geral.
 Esta minha lembrança simples pode parecer ingênua, mas, sempre que me abstive do cultivo de “fofocas” e sempre que recorri à prece, consegui paz e entendimento para o meu coração.
 — Sinto-me profundamente feliz por todas as bênçãos que Jesus e os Amigos Espirituais me concedem, mas sentir-me realizado, segundo acredito, é um projeto para daqui a milênios!
@@ -367,10 +261,11 @@ Muito sério, mas benevolente, ele me respondeu: — Disciplina, disciplina e di
 
 ---
 
-## 9 — Chico Xavier no Colégio Militar
+## 9
 
 Em sua peregrinação de luz, espalhando as verdades da Doutrina Espírita, Chico já esteve, praticamente, em todos os Estados do Brasil. Como Allan Kardec, em suas célebres “Viagens espíritas”, Chico Xavier, quando a saúde lhe era favorável, viajava, levando, com a sua presença, a mensagem viva do Evangelho.
-Realmente, depois do Codificador, ninguém tem feito mais e melhor pela Causa Espírita do que ele! No dia 28 de julho de 1972, Chico foi convidado pelos alunos do Colégio Militar do Estado da Guanabara para uma entrevista de que participaram altas patentes do Exército, assim evidenciando o prestígio do médium e do Espiritismo junto a todas as camadas sociais.
+Realmente, depois do Codificador, ninguém tem feito mais e melhor pela Causa Espírita do que ele!
+No dia 28 de julho de 1972, Chico foi convidado pelos alunos do Colégio Militar do Estado da Guanabara para uma entrevista de que participaram altas patentes do Exército, assim evidenciando o prestígio do médium e do Espiritismo junto a todas as camadas sociais.
 A seguir, reproduzimos apenas uma síntese da aludida entrevista, já que não nos foi possível consegui-la integralmente.
 Durante cerca de duas horas, Francisco Cândido Xavier respondeu, no auditório do CMRJ, às perguntas feitas pelos alunos, tendo ainda tomado assento a seu lado, no palco, os Coronéis Walter Scheafer e Ary Kremer, ambos professores do estabelecimento e membros da Cruzada dos Militares Espíritas do Brasil, inegavelmente magníficas figuras humanas, cujo trabalho para levar a mensagem da Doutrina Espírita aos quartéis, dentro do ecumenismo desejado pelo próprio Governo da Revolução, é digno dos maiores louvores.
 Chico Xavier, entre outros pontos, focalizou os seguintes, respondendo aos quesitos apresentados:
@@ -399,36 +294,35 @@ Sempre, porém, deve pensar no prolongamento da vida.
 
 ---
 
-## 10 — Chico Xavier em entrevista
+## 10
 
 > 1
-> — Hebreus, 9. 27
+> — Hebreus, Capítulo 9, Versículo 27.
 
 Verificando os nossos arquivos, encontramos uma entrevista concedida pelo nosso Chico ao repórter Nadir Roberto, publicada no “Jornal de Piracicaba”, em 7 de dezembro de 1971.
 Cremos que, para a maioria dos nossos confrades, esta entrevista permanece inédita, daí o nosso interesse em divulgá-la nas páginas de “A Flama Espírita”.
 Sem dúvida, enriquecerá os nossos conhecimentos com as palavras sempre esclarecedoras daquele que se tem mostrado, ao longo do tempo, um incansável servidor de Jesus nas bênçãos do Espiritismo.
-CHICO XAVIER — Através da Rádio Difusora e do “Jornal de Piracicaba”, nós estamos enviando um abraço fraternal a todos os nossos companheiros da região, pedindo a Deus que nos abençoe e nos dê a todos amparo e recursos suficientes para que as nossas forças estejam ao nível de nossas tarefas.
+Francisco Cândido Xavier — Através da Rádio Difusora e do “Jornal de Piracicaba”, nós estamos enviando um abraço fraternal a todos os nossos companheiros da região, pedindo a Deus que nos abençoe e nos dê a todos amparo e recursos suficientes para que as nossas forças estejam ao nível de nossas tarefas.
 Sem dúvida, eu não tenho o dom da oratória, como quer o nosso amigo entrevistador, mas deixamos consignado aqui o nosso abraço de fraternidade a todos os amigos ouvintes e leitores.
-CHICO XAVIER — Cremos que o Divino Mestre deu importância fundamental à Vida Eterna. Cada existência nossa é naturalmente um passo para a conquista da imortalidade sublimada.
+Francisco Cândido Xavier — Cremos que o Divino Mestre deu importância fundamental à Vida Eterna. Cada existência nossa é naturalmente um passo para a conquista da imortalidade sublimada.
 Imortais somos todos, filhos de Deus, mas a sublimação é naturalmente aquele coroamento necessário que tão só ao nosso burilamento espiritual se pode atribuir.
 Muitas vezes, autoridades religiosas atribuem outra interpretação às palavras do Senhor, quando Ele disse a Nicodemos:
-— “Necessário vos é nascer de novo”.
-
+— “Necessário vos é nascer de novo”. ( † )
 Sim, nascer de novo todos os dias, nascer de novo todas as semanas, de ano para ano, de etapa para etapa, mas também de vida em vida, de berço em berço.
-CHICO XAVIER — Temos interpelado, com a devida reverência, a Benfeitores Espirituais sobre esta passagem da Epístola de Paulo aos Hebreus.
+Francisco Cândido Xavier — Temos interpelado, com a devida reverência, a Benfeitores Espirituais sobre esta passagem da Epístola de Paulo aos Hebreus.
 Eles afirmam que o Apóstolo se refere à morte da nossa personalidade inferior.
 Nós todos temos conosco um conteúdo psicológico, que representa aquela sedimentação de qualidade primitiva de que nos desfaremos, um dia, através das reencarnações.
 Então, realmente, morremos uma só vez, vamos deixar para sempre aquele homem velho a que se referem os nossos filósofos, querendo nos dizer que todos nós precisamos de renovação permanente para alcançar a sublimação na Vida Eterna.
-CHICO XAVIER — Sinceramente, com muito respeito ao pastor Cyrus Dawsey e ao estimado Bispo, Dom Aniger Francisco de Maria Melilo, devemos dizer que a nossa veneração por eles é total, porque se encontram na direção de rebanhos de Nosso Senhor Jesus-Cristo, e tão somente a nós competem o respeito e o acatamento à autoridade que o Senhor conferiu a eles, diante da comunidade cristã.
+Francisco Cândido Xavier — Sinceramente, com muito respeito ao pastor Cyrus Dawsey e ao estimado Bispo, Dom Aniger Francisco de Maria Melilo, devemos dizer que a nossa veneração por eles é total, porque se encontram na direção de rebanhos de Nosso Senhor Jesus-Cristo, e tão somente a nós competem o respeito e o acatamento à autoridade que o Senhor conferiu a eles, diante da comunidade cristã.
 Não temos pergunta alguma, porque seria, de nossa parte, naturalmente, quase que um desrespeito, um desconhecimento da autoridade com que devemos reverenciar, tanto nos Pastores da Comunidade Evangélica, quanto nos Bispos e Arcebispos da Igreja Católica, que consideramos como sendo mãe da civilização do Ocidente.
 Cabe a nós ouvi-los, respeitá-los, informar o que nos é possível, dentro da nossa pequenez, em se referindo a mim, que me reconheço demasiadamente insignificante para tratar destes assuntos.
 Nossos respeitos ao Pastor e ao Bispo, pedindo a ambos, se lhes for possível, me auxiliarem com as bênçãos das suas orações, em meu favor.
 É só o que eu posso pedir.
-CHICO XAVIER — São assuntos de Ciência que nós acatamos e que, naturalmente, terão resposta quando tivermos evoluído suficientemente para nos encontrar nas grandes definições da Vida Eterna, tanto a Ciência quanto a Religião.
+Francisco Cândido Xavier — São assuntos de Ciência que nós acatamos e que, naturalmente, terão resposta quando tivermos evoluído suficientemente para nos encontrar nas grandes definições da Vida Eterna, tanto a Ciência quanto a Religião.
 Cada criatura, cada coletividade tem um fragmento da Verdade, uns mais, outros menos…
 Um dia, chegaremos todos à meta, que é o nosso encontro com a Verdade Integral.
-CHICO XAVIER — Não posso saber, porque não me sinto digno de consideração alguma e respeito Arigó como sendo um grande medianeiro da Espiritualidade.
-CHICO XAVIER — Não creio que a loucura leve alguém ao Espiritismo, nem que o Espiritismo leve alguém à loucura.
+Francisco Cândido Xavier — Não posso saber, porque não me sinto digno de consideração alguma e respeito Arigó como sendo um grande medianeiro da Espiritualidade.
+Francisco Cândido Xavier — Não creio que a loucura leve alguém ao Espiritismo, nem que o Espiritismo leve alguém à loucura.
 O desequilíbrio mental pode surgir em qualquer pessoa ou em qualquer grupo social.
 Cremos que, em vista de a Psiquiatria ser uma Ciência nova, integrada no quadro da Medicina, que é uma Ciência antiga, naturalmente que os psiquiatras encontraram os espíritas muito interessados em auxiliar aos seus irmãos portadores de processos obsessivos.
 Mas, graças a Deus, temos hoje, em todos os países, grandes médicos psiquiatras que podem perfeitamente definir as fronteiras entre obsessão e enfermidade mental.
@@ -436,22 +330,22 @@ Esse serviço de regeneração da saúde humana e os cristãos, como quaisquer c
 
 ---
 
-## 11 — Entrevista ao jornal “O Triângulo Espírita”
+## 11
 
-> 1
+> Pergunta 388  Nos trabalhos mediúnicos temos de considerar, igualmente, os imperativos da especialização?
 
+(Uberaba, 20-09-1974)
 Chico Xavier entrou numa nova fase de sua existência: a vida pública, isto é, o maior contato com as massas, através do Rádio, da Televisão, da Imprensa, lançamento de livros, etc.
 De algum tempo a esta parte, não tem sido outra a tônica da vida do nosso companheiro e médium Chico Xavier.
 Dessa forma, se hoje ele recebe títulos de cidadão de várias cidades brasileiras, se comparece a Tardes de Autógrafos fazendo lançamento de novos livros mediúnicos, se concede entrevistas à imprensa, se participa de programas de Televisão, tudo isso, ele o faz com vistas à maior difusão do Espiritismo, da mensagem dos Espíritos.
 Sabemos que o Espiritismo não visa a massificação, todavia, o contato com o povo e, sobretudo, numa época em que a confusão é geral, as dores são imensas, constitui uma necessidade imperiosa.
 Não se compreende um médium psicógrafo, principalmente, sem o contato com o povo atendendo-o em suas necessidades espirituais.
-É claro que isto deve acontecer naturalmente. Tudo deve ser natural, espontâneo, a fim de que os Desígnios da Providência se manifestem conforme as necessidades do momento.
+É claro que isto deve acontecer naturalmente.
+Tudo deve ser natural, espontâneo, a fim de que os Desígnios da Providência se manifestem conforme as necessidades do momento.
 Nesse sentido, o nosso Chico, desde o seu primeiro programa de Televisão, sempre foi procurado para conceder entrevistas naturalmente, nada acontecendo por solicitação sua, ou da Entidade aonde trabalha.
 E sempre com um objetivo: esclarecer o povo, amenizando suas dores pelo consolo, através da difusão do Espiritismo libertador.
-É por isso que “O Triângulo Espírita” destaca, nesta oportunidade, trechos de algumas entrevistas concedidas à nossa imprensa espírita e não espírita: “Diário do Povo”, de Campinas, do dia 29 de julho; “Folha Espírita”, de agosto, e “D N Cultura”, de agosto, todos deste ano.
-Na presente entrevista, nosso irmão médium Chico Xavier, mais uma vez, volta a falar sobre a necessidade da especialização mediúnica como base de melhor rendimento doutrinário. E o faz, sem dúvida alguma, com base nos ensinos de seu Guia Espiritual Emmanuel que, em “O Consolador” — FEB, assim aborda o assunto:
-
-Pergunta 388 — Nos trabalhos mediúnicos temos de considerar, igualmente, os imperativos da especialização?
+É por isso que “O TRIÂNGULO ESPÍRITA” destaca, nesta oportunidade, trechos de algumas ENTREVISTAS concedidas à nossa imprensa espírita e não espírita: “Diário do Povo”, de Campinas, do dia 29 de julho; “Folha Espírita”, de agosto, e “DN Cultura”, de agosto, todos deste ano.
+Na presente entrevista, nosso irmão médium Chico Xavier, mais uma vez, volta a falar sobre a necessidade da especialização mediúnica como base de melhor rendimento doutrinário. E o faz, sem dúvida alguma, com base nos ensinos de seu Guia Espiritual Emmanuel que, em “O CONSOLADOR” — FEB, assim aborda o assunto: ( † )
 — “O homem enciclopédico, em faculdade, ainda não apareceu, senão em gérmen nas organizações geniais que raramente surgem na Terra, e temos de considerar que a mediunidade somente agora começa a aparecer no conjunto de atributos do homem transcendente. A especialização na tarefa mediúnica é mais que necessária e somente de sua compreensão poderá nascer a harmonia na grande obra de divulgação da verdade a realizar.”
 Esta é a resposta de Emmanuel.
 Todavia, alguém poderia argumentar que o próprio Chico possui várias faculdades mediúnicas.
@@ -468,14 +362,15 @@ Não podemos julgar os nossos irmãos, de outros setores de atividades mediúnic
 Muitas vezes, um companheiro doente, simplesmente doente, é um médium que se encontra psiquicamente enfermo, sem possibilidades de entendimento da sua própria situação.
 Nós entendemos, também, que, na Vida Espiritual imediata, temos milhares de criaturas que, tanto quanto nós, não conseguem se alterar de um dia para outro.
 Por isso mesmo, continuam com a vida espiritual que possuem aqui no Mundo Físico, diante de horizontes infinitos que se abrem para nós todos, no sentido de trabalhar pelo nosso próprio aperfeiçoamento.
-Não compreendo, lugar algum, em religião alguma, que haja planos mais baixos ou mais altos. Entendo que todos nós somos irmãos em humanidade, porque todos somos filhos de Deus, devendo ser respeitados nas ideias que tenhamos a respeito de Deus.
+Não compreendo, lugar algum, em religião alguma, que haja planos mais baixos ou mais altos.
+Entendo que todos nós somos irmãos em humanidade, porque todos somos filhos de Deus, devendo ser respeitados nas ideias que tenhamos a respeito de Deus.
 Se um irmão nosso adora determinada pedra como sendo um objeto divino, devo, pelo menos de minha parte, em meu setor pessoal de comportamento, respeitar este companheiro, porque ele está realizando, dentro dele mesmo a respeito de Deus, o que possui de melhor.
 Mas isso não impede que tenhamos na Doutrina codificada por Allan Kardec um campo imenso de iluminação espiritual que está aberto a nós todos e que nos convida à libertação espiritual através do cumprimento dos nossos deveres.
 Ela ensina que a nossa liberdade, tem o tamanho do nosso dever cumprido de uns para com os outros, sempre sob a luz dos ensinamentos de Jesus Cristo e dos Evangelhos que Ele nos legou.
 — Benfeitores Espirituais comumente nos asseveram que a Psicanálise é uma Ciência das mais respeitáveis na orientação do comportamento humano, esperando-se, no entanto, que venha a se enriquecer de valores espirituais sempre mais altos para o estabelecimento de motivações nobilitantes para a vida, em favor de quantos lhe recorrem à intervenção e aos ensinos.
 Afirmam, ainda, que aguardam isso, porque não será justo despir a nossa alma de todos os recursos do mundo externo, dos quais nos valemos para angariar os patrimônios da Vida Imortal do espírito.
 Cremos que o espírito, analisado para deixar todas as crenças ou ideais que haja esposado, mesmo em caráter transitório na existência terrestre, precisa substituir esses mesmos ingredientes de que se vê despojado, por outros que lhe garantam a alegria e o interesse de viver.
-Portanto, acreditamos que um tratamento de saúde, qualquer que seja, deve visar a nossa própria melhoria, no capítulo do bom ânimo e da autoconfiança, a fim de que nossa vida alcance o máximo no rendimento do bem de todos. (Neste ponto ele relê em voz alta o que anotara, faz-me uma pergunta e em seguida acrescenta: — “A vida também precisa de ilusão. Se a tiramos de alguém, então temos que encontrar um substituto”).
+Portanto, acreditamos que um tratamento de saúde, qualquer que seja, deve visar a nossa própria melhoria, no capítulo do bom ânimo e da autoconfiança, a fim de que nossa vida alcance o máximo no rendimento do bem de todos. (Neste ponto ele relê em voz alta o que anotara, faz-me uma pergunta e em seguida acrescenta: — “A vida também precisa de ilusão. Se a tiramos de alguém, então temos que encontrar um substituto.”)
 — Estamos convencidos, com os ensinamentos dos Instrutores Espirituais, que o sofrimento mental, decorrendo habitualmente do complexo culposo, remanesce de causas morais mantidas por nós mesmos na intimidade do próprio ser.
 O Universo é regido por forças morais inderrogáveis. Não posso decepar o meu próprio braço num momento de insânia sem sofrer as consequências de minha própria irreflexão.
 Causas morais e sofrimentos mentais, criando provações no campo físico se interligam naturalmente em todos os fenômenos da vida, sem que possamos eleger esse assunto à conta de irresponsabilidade ou indiferença, o que seria subverter a ordem que preside a Vida Universal.
@@ -488,7 +383,8 @@ Reproduzo a seguir, de memória, o que o inigualável médium afirmou com segura
 Se as palavras de que se valeu não foram exatamente estas, o sentido do que disse é absolutamente fiel, isto é, sem distorções.
 Depois de indagar do repórter se eu era médico, (duas vezes Chico Xavier me endereçou a mesma pergunta) e diante de minha negativa, ele prossegue:
 — O sexo foi criado por Deus para ser, além do ato procriativo, motivo de prazer e de alegria para os seres humanos.
-Nada há nele de vergonhoso ou menos nobre. …Sabemos o que aconteceu: durante séculos as manifestações sexuais estiveram refreadas dentro de um círculo muito restrito, por alguns que tinham interesse na repressão de suas expressões e anseios. Isto foi possível até certo tempo; passado este, deu-se a grande explosão.
+Nada há nele de vergonhoso ou menos nobre.
+… Sabemos o que aconteceu: durante séculos as manifestações sexuais estiveram refreadas dentro de um círculo muito restrito, por alguns que tinham interesse na repressão de suas expressões e anseios. Isto foi possível até certo tempo; passado este, deu-se a grande explosão.
 Súbito, as antigas barreiras foram derrubadas, muitos tabus e proibições afundaram na avalanche e, então, o diâmetro do círculo aumentou largamente. (Neste ponto, Chico Xavier toma um lápis e desenha dois círculos: um com dois centímetros de diâmetro e outro, por fora deste, com seis centímetros de diâmetro).
 Que aconteceu depois?
 Séculos de repressão psicológica muito rígida redundaram numa libertação que ultrapassou os limites mesmo deste círculo mais amplo (Chico Xavier risca linhas paralelas que transpõem os limites do círculo maior) e atingiu o terreno dos extremismos sempre perigosos e potencialmente causadores de grandes males no futuro.
@@ -500,8 +396,7 @@ Ela passou a disputar com o homem o lugar deste em quase todas as profissões.
 Conseguiu impor-se em igualdade de condições porque a mulher em nada é inferior ao seu companheiro masculino.
 Muitas vezes, tem logrado mesmo sobrepujar a este.
 Mas qual foi o resultado disto?
-Regressando à noite para casa, o homem que trabalha encontra não a esposa que o acolhe e reconforta das canseiras, obstáculos e asperezas do dia mas, sim,
-, em nada disposto a integrar-se no papel de esposa e rainha do lar.
+Regressando à noite para casa, o homem que trabalha encontra não a esposa que o acolhe e reconforta das canseiras, obstáculos e asperezas do dia mas, sim, UM COMPANHEIRO CANSADO (o grifo é nosso), em nada disposto a integrar-se no papel de esposa e rainha do lar.
 Então, o esposo, dependendo de suas inclinações ou receptividades, pode passar horas e horas bebericando num bar, ou procurando fora de casa o afeto e acolhimento que não encontra junto à companheira que Deus lhe deu.
 Outras vezes, por obediência a princípios morais rígidos, recusa-se a buscar lenitivo na bebida ou em outras mulheres, mesmo porque em relações extraconjugais podem resultar agressões ao marido enganado, depois gastos com advogados, etc.
 Vamos dizer que lá pelas tantas ele se depara com outro esposo com idêntico problema dentro do lar e se tornam amigos.
@@ -531,47 +426,47 @@ São questões que o futuro nos mostrará em sua amplitude, com as chaves necess
 
 ---
 
-## 12 — Chico Xavier e Barbara Ivanova
+## 12
 
-No último dia 1° de setembro, Uberaba espírita viveu uma noite inesquecível!
+No último dia 1º de setembro, Uberaba espírita viveu uma noite inesquecível!
 Juntos, na sede do Centro Espírita Uberabense, estiveram Chico Xavier e Barbara Mikhailovna Ivanova, a notável parapsicóloga soviética.
 Durante mais de duas horas, concluindo a programação da VI Semana da Mediunidade, promovida pela Aliança Municipal Espírita, que em 20 de agosto completou trinta anos de existência, ouvimos, emocionados, Barbara Ivanova, uma simpática senhora de setenta e três anos de idade, falar sobre os diversos temas da Parapsicologia e os seus pontos de contato com o Espiritismo.
 Superando as suas atuais limitações de saúde, Chico acompanhou com vivo interesse as palavras de Ivanova, a qual não cabia em si de alegria por estar ao lado de “um dos maiores sensitivos de todos os tempos”.
 Comentando com ele o seu esforço para comparecer à reunião, dando-nos, uma vez mais, uma lição de grandeza espiritual, Chico respondeu-nos:
-“— Meu filho, ela percorreu uma distância imensa!… Veio da Rússia ao Brasil, dizendo que, dentro de sua programação, gostaria de conhecer Chico Xavier. Ora, eu não poderia ficar em casa, esperando pela visita dela! Isto seria atribuir a mim uma importância que, na verdade, eu nunca tive!…”
+“— Meu filho, ela percorreu uma distância imensa!…
+“Veio da Rússia ao Brasil, dizendo que, dentro de sua programação, gostaria de conhecer Chico Xavier.
+“Ora, eu não poderia ficar em casa, esperando pela visita dela!
+“Isto seria atribuir a mim uma importância que, na verdade, eu nunca tive!…”
 Dentro dos temas abordados pela nossa visitante, destacamos a reencarnação e, segundo ela, o que mais a impressionou no Brasil: o trabalho mediúnico de desobsessão, a que pôde assistir em São Paulo.
 Famosa médium de cura (Ivanova não se diz espírita, explicando que Espiritismo não existe na Rússia), afirmou que não mais realizava esse tipo de atendimento, considerando “ser muito mais importante curar a alma do que o corpo”.
 Entretanto, ao término de nossa reunião, pediu para ficar a sós com Chico Xavier e, durante aproximadamente 40 minutos, “transmitiu-lhe energia”.
 Em sua última encarnação, Ivanova diz ter sido um mulato brasileiro, daí a sua facilidade com o Português, língua que aprendeu em apenas quatro meses!
-Desembaraçada e falando com razoável sotaque russo, ela respondeu a diversas perguntas da plateia, contando que, em Moscou, mora num aparta mento de 25 m.
-e que há muito tempo não sabe mais a cor da tinta de suas paredes, de tantos são os livros que possui, empilhando uns sobre os outros.
+Desembaraçada e falando com razoável sotaque russo, ela respondeu a diversas perguntas da plateia, contando que, em Moscou, mora num aparta mento de 25 m2 e que há muito tempo não sabe mais a cor da tinta de suas paredes, de tantos são os livros que possui, empilhando uns sobre os outros.
 Disse que a Perestroika do Presidente Gorbatchev lhe tem permitido as viagens que faz pelo mundo, divulgando as suas experiências no campo da Parapsicologia — o que antes era praticamente impossível.
 Humilde, Barbara Ivanova esclareceu que tudo o que pudesse dizer-nos já conhecíamos através de Allan Kardec e Chico Xavier, mas que, na Rússia, ela precisava falar de forma bastante simples para ser entendida.
 Contou que, no Exterior, o Brasil é considerado um país místico e que os cientistas sabem, desde Zé Arigó, das forças espirituais que aqui se concentram.
 Perguntada sobre a Atlântida, respondeu que não somente crê, como tem certeza de que esse Continente tenha existido, porque isto é confirmado pela História.
 Sobre os seres “extraterrestres”, além de confessar-se convicta de que existem, apenas não sabendo dizer se vêm de outros planetas ou se do próprio interior da Terra, explicou que um de seus sobrinhos tem se contatado com eles.
-Com a Dra. Marlene Rossi Severino Nobre e seu irmão, Paulo Rossi Severino, que lançaram em Uberaba o livro “A Vida Triunfa” (Uma pesquisa científica sobre as mensagens psicografadas por Chico Xavier), Barbara igualmente lançou o seu excelente “O Cálice Dourado”, uma coletânea de artigos seus compilados por Maria Mir (pseudônimo) e Larissa Vilenskaya, traduzido e publicado em apenas três meses pela Editora Aquariana (Rua Luís Coelho, 320 5° andar — 01309 — São Paulo, SP).
+Com a Dra. Marlene Rossi Severino Nobre e seu irmão, Paulo Rossi Severino, que lançaram em Uberaba o livro “A Vida Triunfa” (Uma pesquisa científica sobre as mensagens psicografadas por Chico Xavier), Barbara igualmente lançou o seu excelente “O Cálice Dourado”, uma coletânea de artigos seus compilados por Maria Mir (pseudônimo) e Larissa Vilenskaya, traduzido e publicado em apenas três meses pela Editora Aquariana (Rua Luís Coelho, 320 - 5º andar - 01309 - São Paulo, SP).
 Apresentando a edição brasileira, escreveu o Dr. Ney Prieto Peres:
-“Barbara reúne muitos títulos culturais, como conhecedora e diplomada em idiomas, falando, além do Russo e do Português, o Espanhol, o Italiano, o Alemão e o Inglês. É membro da Sociedade de Geografia e da Sociedade de Filosofia que pertencem à Academia de Ciências da União Soviética. Recentemente, recebeu o título de membro do Conselho Consultivo da Universidade Internacional Holística de Brasília. Foi também laureada pela Fundação Suíça de Parapsicologia, pelas suas pesquisas.”
+“Barbara reúne muitos títulos culturais, como conhecedora e diplomada em idiomas, falando, além do Russo e do Português, o Espanhol, o Italiano, o Alemão e o Inglês.
+“É membro da Sociedade de Geografia e da Sociedade de Filosofia que pertencem à Academia de Ciências da União Soviética.
+“Recentemente, recebeu o título de membro do Conselho Consultivo da Universidade Internacional Holística de Brasília.
+“Foi também laureada pela Fundação Suíça de Parapsicologia, pelas suas pesquisas.”
 Quando aconteceu um rápido intervalo na entrevista com a parapsicóloga, Chico Xavier, solicitando material para escrever, recebeu, homenageando-a, pequeno e belo poema de Maria Dolores, que transcrevemos a seguir:
-Na Terra — nosso refúgio,
-Onde a vida nos renova,
-A alegria se comprova,
-Mostrando júbilos mil…
-Por isso todos trazemos,
-Ante a fé que nos aprova,
-Para Barbara Ivanova
-A gratidão do Brasil!
+Na Terra — nosso refúgio, Onde a vida nos renova, A alegria se comprova, Mostrando júbilos mil…
+Por isso todos trazemos, Ante a fé que nos aprova, Para Barbara Ivanova A gratidão do Brasil!
 Admirável Barbara Ivanova!
 Enquanto muitos parapsicólogos, que se dizem espiritualistas, principalmente ligados à Igreja Católica, tentam explicar o fenômeno, através exclusivamente das forças anímicas, negando, inclusive, os “milagres” dos santos, ela, oriunda de um país até ontem oficialmente materialista, onde, segundo Joseph Banks Rhine, imperava a “Parapsicologia sem alma,” corre o mundo, anunciando o advento da Nova Era, tentando recuperar o tempo em que, por força das circunstâncias, tivera que silenciar…
 Ouvindo-a naquele sábado memorável, fortaleceu-se ainda mais em nós a certeza de que “os tempos são chegados” e que nada conseguirá calar a Voz da Verdade, que já se faz ouvir em toda parte…
 
 ---
 
-## 13 — Fumo, perispírito e mediunidade
+## 13
 
 > 1
 
+(Entrevista com Fernando Worm.)
 — O problema da dependência continua até que a impregnação dos agentes tóxicos nos tecidos sutis do corpo espiritual ceda lugar à normalidade do perispírito, o que, na maioria das vezes, tem a duração do tempo correspondente ao tempo em que o hábito perdurou na existência física do fumante.
 Quando a vontade do interessado não está suficientemente desenvolvida para arredar de si o costume inconveniente, o tratamento dele, no Mundo Espiritual, ainda exige cotas diárias de sucedâneos dos cigarros comuns, com ingredientes análogos aos dos cigarros terrestres, cuja administração ao paciente diminui gradativamente, até que ele consiga viver sem qualquer dependência do fumo.
 — Justo esclarecer que não apenas quanto ao fumo, mas igualmente quanto a outros hábitos prejudiciais, somos compelidos na Espiritualidade a esquecê-los, se nos propomos seguir para diante, no capítulo da própria sublimação.
@@ -583,7 +478,7 @@ Será um prejuízo que o fumante causa a si mesmo, sem a intenção de se destru
 
 ---
 
-## 14 — A palavra de Chico Xavier
+## 14
 
 > 1
 
@@ -602,16 +497,18 @@ Semelhante projeção, em se exteriorizando em forma de pensamentos materializad
 Entendendo que a tentação nasce de nós, recordemos que um pacote de ouro não tenta um coelho, induzindo, muitas vezes, um homem às piores sugestões, enquanto que um pé de couve deixa um homem impassível, levando um coelho ao impulso da aproximação indébita.
 De modo geral, a reencarnação objetiva a extirpação do ódio e da inveja, do ressentimento e do ciúme, dos impulsos à discórdia e à delinquência, que nos implantaram na alma, depois de lastimáveis desastres morais.
 Semelhantes causas de sofrimento persistiriam conosco, por longo tempo, não fosse o olvido terapêutico que nos é administrado durante a reencarnação.
-Nesse sentido, observemos o fato de que, a ablação de um tumor no corpo físico, reclama a anestesia. O esquecimento temporário na reencarnação é o processo de socorro pelo qual a Misericórdia Divina se digna determinar a sedação das feridas mentais de que porventura sejamos portadores, para o tratamento e a extinção delas.
+Nesse sentido, observemos o fato de que, a ablação de um tumor no corpo físico, reclama a anestesia.
+O esquecimento temporário na reencarnação é o processo de socorro pelo qual a Misericórdia Divina se digna determinar a sedação das feridas mentais de que porventura sejamos portadores, para o tratamento e a extinção delas.
 — O egoísmo que se fantasia de vaidade e orgulho, quando o medianeiro procura irrefletidamente antepor-se aos Mentores Espirituais que se valem dele. Ou o mesmo egoísmo, quando se veste de ociosidade ou de escrúpulo negativo, para fugir à prestação de serviço ao próximo.
-— Quando se trata de mediunidade em ação na cultura ou no progresso espiritual, a bagagem de recursos do medianeiro emerge das suas próprias aquisições de espírito, efetuadas em existências pretéritas, outorgando-lhe a possibilidade de colaborar com mais eficiência ao lado de quantos pugnam, no Além, pelo aperfeiçoamento e felicidade da comunidade humana.
+— Quando se trata de mediunidade em ação na cultura ou no progresso espiritual, a bagagem de recursos do medianeiro emerge das suas próprias aquisições de Espírito, efetuadas em existências pretéritas, outorgando-lhe a possibilidade de colaborar com mais eficiência ao lado de quantos pugnam, no Além, pelo aperfeiçoamento e felicidade da comunidade humana.
 — Tanto os mais jovens quanto os mais amadurecidos na experiência humana, que procuram hoje soluções construtivas para os problemas terrestres, encontrarão caminho para isso, por mais que a sombra da ignorância ou da resistência negativa lhes tentem obstruir a passagem.
 — Ninguém resgata por alguém essa ou aquela culpa diante da lei de causa e efeito.
-Ouvimos de muitos companheiros no mundo a afirmação de que os descendentes pagam pelos erros dos antepassados. Isso, porém, não corresponde à realidade. E, em muitos casos, os descendentes são os próprios antepassados em nova encarnação, no mesmo tronco genealógico, para resgate de faltas em que se debitaram no pretérito.
-— Os fenômenos medianímicos existiram em todos os tempos. E em todos os distritos da atividade humana, continuam a existir.
+Ouvimos de muitos companheiros no mundo a afirmação de que os descendentes pagam pelos erros dos antepassados.
+Isso, porém, não corresponde à realidade.
+E, em muitos casos, os descendentes são os próprios antepassados em nova encarnação, no mesmo tronco genealógico, para resgate de faltas em que se debitaram no pretérito.
+— Os fenômenos medianímicos existiram em todos os tempos.
+E em todos os distritos da atividade humana, continuam a existir.
 A Doutrina Espírita é o Cristianismo Redivivo esclarecendo mediunidade e médiuns, para que as ocorrências mediúnicas edifiquem elevação e proveito em auxílio da Humanidade.
-— A regra áurea, há séculos, nos traça o roteiro: “Faze aos outros o que deseja que te façam.”
-
-E o Cristo lança mais luz sobre a diretriz de todos os tempos: “Amai-vos uns aos outros como eu vos amei.”
-
+— A regra áurea, há séculos, nos traça o roteiro: “Faze aos outros o que deseja que te façam.” ( † )
+E o Cristo lança mais luz sobre a diretriz de todos os tempos: “Amai-vos uns aos outros como eu vos amei.” ( † )
 — A Parapsicologia, sempre que age desapaixonadamente, é um instrumento respeitável da Ciência na investigação da Verdade.

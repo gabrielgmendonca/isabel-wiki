@@ -2,58 +2,35 @@
 
 **Autor espiritual:** Entrevistas  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Cg/CgAnexo2.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Cg/CgAgrad.htm
 
 ---
 
-##  — Palavras buriladas com lágrimas
+## RETORNO
 
-> Apresentamos a seguir mensagem do Ex-Deputado à Assembleia Legislativa do Estado de Goiás, Dr. Lúcio Lincoln de Paiva, falecido em acidente automobilístico em Goiânia, no Natal de 1974. Rica de elementos de identificação, a mensagem é dirigida à sua esposa, Sra. Edinê Almeida Silva de Paiva, e foi recebida em Uberaba por Francisco Cândido Xavier, em janeiro de 1976, pouco mais de um ano após a desencarnação do querido deputado goiano.
+> Após responder as perguntas formuladas, instado a psicografar alguma mensagem do Plano Espiritual, na Casa de Leis do Estado de Goiás, Chico Xavier dirigiu-se, ainda uma vez, a todos os presentes, após o que recebeu os sonetos de três poetas goianos, Félix de Bulhões, Joaquim Bonifácio de Siqueira e Antônio Americano do Brasil.
 
-Querida Edinê, minha querida e valorosa companheira.
-Ao Poder Supremo, as nossas preces, rogando forças para o desempenho de nossos deveres ante o Sábio e Misericordioso Arquiteto do Universo.
-Não pense que escrevo facilmente. Minha mão desliza sob as mãos de nosso caro Doutor Bezerra e de outros amigos que me auxiliam a compor esta carta.
-Fosse eu apenas quem a escrevesse e, decerto, o lápis não seria assim tão célere. Todas as palavras para você seriam buriladas com lágrimas, com esse orvalho bendito que sobe do coração para os olhos e em que saudade e amor, alegria e sofrimento, paz e inquietação se misturam, fazendo a explosão de imagens que o verbo humano não traduz.
-O essencial, no entanto, querida, é que vim para dizer que ouvi tudo o que o seu carinho me falou, diante do retrato que a sua dedicação transformou em altar de nosso encontro quase permanente.
-Estou aqui, mas seu Lúcio tem as mãos incapazes de construir a nossa felicidade tal qual era a nossa felicidade no mundo, mas posso afirmar que reuni todas as minhas forças e estou edificando a nossa felicidade no plano de amor sem despedidas.
-Reanime-se, meu bem. É preciso. Nunca esperei que a sua fortaleza atingisse culminâncias tão altas, porque você cimentou a nossa segurança com os seus sacrifícios. Sua mocidade corpórea não empanou a sua maturidade espiritual. Tive a convicção de que você não falharia e beijo as suas mãos pela resistência com que se conduz. Ainda assim, rogo ânimo novo às suas energias.
-Estamos juntos, juntos sempre, ao lado de nossos filhos e de nossos companheiros da vida familiar. Ouço-lhe as palavras, diariamente.
-Não sei explicar ainda em que bases se nos mantém a ligação incessante, mas essa ligação é algo que se instala no domínio das certezas que hoje vou encontrando para levantar os caminhos novos.
-Entendo as nossas dificuldades. A sua fadiga no heroísmo doméstico, os esforços para sustentar o nosso Lincoln, cedo chamado ao trabalho áspero, a abnegação com que você ilumina as palavras para consolar os nossos, quando você mesma se vê às portas da aflição, e essa saudade que nos fere a ambos, pior que todos os martírios que fôssemos chamados a padecer.
-Mesmo assim, a nossa esperança deve pairar acima de qualquer sombra que nos tente nublar os pensamentos. Tudo vai passando com os ímpetos do tempo.
-Deus é amor infinito também, no íntimo das horas, anestesiando as nossas dores e cicatrizando as chagas que nós mesmos, segundo as Leis da Vida, tenhamos aberto nos corações.
-Quero você restaurada na alegria, tanto quanto a vejo forte na fé.
-Superamos o nosso Natal de pranto com a bênção de nossa confiança erguida aos céus. Saberemos o porquê da provação, quando a nossa memória consiga ampliar-se, mas, por enquanto, sabemos que nenhuma tribulação conseguiu separar-nos.
-Lembro-me de todos os episódios que nos marcaram o adeus. Quando saí de casa, até mesmo sem o nosso abraço, porque me supunha numa ausência de minutos, tinha em mente conduzir a nossa alegria ao lar do compadre Geraldo… Só isso.
-Aquele desejo bom dos amigos que se reúnem nos melhores momentos para reasseverar o encantamento da paz e da amizade, e, por isso mesmo, tremi quando o Volks bateu no Corcel, atirando-me fora, em movimento da queda irremediável.
-Ouvi as palavras do nosso Wanderley tentando socorrer-me, entretanto, passei por um sono rápido, e, mais auxiliado por amigos da Vida Maior, do que seria lícito esperar num instante daqueles, vi-me fora do corpo, quando me conduziram para o hospital.
-Creia que não senti dor alguma, embora a preocupação por você e pela família fosse em mim um quadro de aflição maior do que qualquer sofrimento físico que devesse experimentar.
-Ainda assim, não conseguia mover-me.
-Estava apático, inabilitado a esforço que me levasse a menor manifestação, mas os conhecimentos adquiridos me velaram na hora. Com eles, mantive o pensamento em oração, rogando, mas rogando ardentemente para que Deus me concedesse o privilégio de não dormir sem encontrá-la.
-As ocorrências de que me vi objeto ainda são muito estranhas para mim, a fim de que eu possa entrar em detalhes, no entanto, abracei você logo que me foi possível semelhante alívio… Estava ao seu lado nas horas difíceis do salão da Adoniram, mas aquelas suas preces me confortavam. Ouvia a sua voz e sentia as suas lágrimas em mim mesmo, qual se a minha força viesse da sua vitalidade.
-Ouvi os nossos queridos amigos enquanto expressavam tanta nobreza de coração sem que seu velho merecesse aquele calor de homenagens; entretanto, peço a você agradecer a todos, especialmente aos companheiros de Maçonaria, seja na Adoniram ou seja no abençoado Núcleo do Templo Independência de Anápolis, por todo o bem que nos fizeram.
-Não seria justo esquecer nestas páginas de gratidão a bondade dos companheiros da Assembleia. Fiquei ciente de todas as medidas que abraçaram, em nosso auxílio, e manifesto aqui o meu reconhecimento a todos, pedindo permissão para representar os amigos em nossos caros companheiros e benfeitores, referindo-me aqui especialmente ao nosso Enio, ao nosso Luiz Soyer e ao nosso Clarismar.
-Enternecido, lembro-me dos nossos devotados amigos, Dr. Jorge Jungmann, do nosso Quintiliano e do nosso prezado amigo Dr. Benedito, cujos esforços em nosso benefício me calaram fundo no coração.
-Aqui venho com outros amigos, tantos são eles… Nosso caro Alvicto, irmão de Araguari, me faz companhia hoje, tanto quanto recebe você o apoio de nossa irmã Dona Lélia.
-Segredos de Deus que não deciframos. Não podia imaginar que este encontro estaria destinado principalmente a nós quatro.
-Muitos companheiros de Anápolis, de Ceres, de Rubiataba, de Joviânia e de Goiânia, com familiares de Araguari, me ampararam, desde as primeiras horas, mas, peço dizer à nossa mãe Olívia que o pessoal de Goiás tem sido para mim aquele refúgio de generosa hospitalidade que não sei descrever.
-A nossa inesquecível Madre Otávia ainda é mãe espiritual de muitos, e também tutelou-me.
-Não fosse você e os meninos, nossos pais queridos e irmãos, assim agora separados pelo muro das impressões, e estaria feliz.
-Mas, é preciso lutar, trabalhar, aprender e superar-nos.
-Diga ao Lincoln para não esmorecer. A escola do trabalho é uma escola de luz. Ele e Edilene, Luciene, Ediluce, André Luiz e nossa Loreni estão constantemente em meu carinho.
-Mas… querida Edinê, devo encerrar esta carta que pedi a Deus me permitisse escrever. Antes do terminar, rogo a você e aos irmãos não concordarem com qualquer versão estranha do acidente que me esperava na República do Líbano. Não houve intenção culposa em ninguém. Desejo, meu bem, que isso se faça muito claro para nós todos. Compreendo que o meu temperamento em legislação sempre foi ardente, diante do amor às realidades que presumia conhecer . Mas legislação é processo de exposição e diálogo, implantação dos recursos de lei e devoção ao bem público.
-Sempre fui o que fui, entretanto, vim para cá, para a Vida Maior, sem qualquer inimigo, e desejo que nossos filhos cresçam confiando em Deus e na paz, no amor e na boa vontade, que todos devemos cultivar.
-Nosso caro amigo Alvicto abraça Dona Lélia.
-Eu desejaria que um ramo de rosas me viesse às mãos para colocar nas suas, em sinal de meu carinhoso reconhecimento. Imagino que isso esteja sucedendo e deponho em seu coração as flores de minha ternura imensa.
-Continue ajudando ao companheiro que precisa de você.
-Perdoe-me se deixei você com tantas complicações de ordem material, mas estejamos certos de que da Contabilidade Divina receberemos todos os recursos de que carecemos para conduzir a família sadia e feliz para a frente.
-Agradeço aos manos e aos meus pais e agradeço a todos os nossos.
-O esforço foi longo. Devo terminar. Espero que os amigos da reunião me desculpem.
-E você, querida Edinê, conserve a certeza de que, ao seu lado, hoje como ontem e agora como será sempre, está o coração palpitante e sempre mais seu,
+Peço permissão, se possível, já que tive a honra de agradecer às autoridades presentes, para estender o meu profundo reconhecimento aos amigos que nos acompanham de cidades várias, que estão aqui conosco, valorizando-nos o encontro, peço ainda licença ao nosso muito digno Presidente da Assembleia Legislativa do Estado de Goiás, nosso caro Deputado Dr. Enio Paschoal, para agradecer aos nossos grandes jornais de Goiânia: o “Cinco de Março”, “O Popular” e “Folha de Goiás”; aos nossos 2 canais de Televisão em Goiânia: o canal 4 Goiânia e o canal 2 a TV Anhanguera; às nossas rádio-difusoras: Anhanguera, Brasil Central, Rádio Clube, Rádio Riviera, Rádio Independência, Rádio Jornal de Goiás, Rádio Universitária e Rádio Difusora; estendo também a minha profunda gratidão, o meu imenso respeito aos companheiros de Doutrina Espírita, à luz dos Evangelhos de Nosso Senhor Jesus-Cristo, militantes na cidade de Goiânia, por haverem favorecido, com tanta bondade, o meu encontro com a comunidade de Goiânia e de Goiás, nesta noite.
+Não posso pronunciar os nomes de todos os companheiros, mas peço o vosso consentimento para dizer, pelo menos os nomes de alguns deles, como sejam o nosso caro amigo, Dr. Humberto Ferreira, o Sr. Romeu Pelá, D. Maria Antonieta Alessandri o Prof. Múcio de Melo Álvares e sua digna esposa, D. Elba Melo Álvares e tantos companheiros outros, como sejam nosso amigo Paulo Dautro, José Delmino Galvão, Aristonides José da Silveira, Edvard Correa, José Felix de Souza, Mário Andrade Filho e ao nosso muito digno companheiro Cássio Ribeiro Ramos, que tenho a honra de conhecer de longa data, e a quem admiramos imensamente.
+A todos os companheiros, o nosso profundo agradecimento, e se for possível, se nossos amigos aqui permitirem, peço alguns momentos de música — já que vamos fazer uma prece para tentar receber algo da Vida Maior.
+Aos companheiros que puderem orar, colaborando conosco, ficaremos agradecidos. O Espírito de Emmanuel, nosso amigo, pede para esclarecer que não desejamos abusar da augusta Casa de Leis, do Poder Legislativo do Estado de Goiás, para efetuar qualquer ação propagandística.
+Estamos aqui reunidos, em nome de Nosso Senhor Jesus-Cristo, e tão somente em nome de Jesus achamo-nos aqui, cumprindo um dever, sem nenhuma ideia de proselitismo e sem nenhum desrespeito à Casa que governa, com o Poder Executivo, o nosso grande e venerável Estado de Goiás.
+Fito nos céus, em faixas multicores, Constelações longínquas, sóis em bando… O Universo palpita cintilando, Entre explosões de júbilos e flores…
+Atravessando os reinos interiores, Nos édens de beleza em que me expando, Ouço vozes angélicas cantando Na moldura de excelsos resplendores!…
+Mas impérios e láureas, tudo esqueço… Quero tornar ao ninho que estremeço: Terra goiana, o lar que me extasia!…
+E, ante a luz que a memória me descerra, Beijo, feliz, o pó de minha terra, Em transportes de amor e de alegria!…
+Goianos não me desgarro… Em minha lyra caturra, A paixão é o que me empurra Ao nosso encontro bizarro…
+Da vida nova, em que esbarro, Ando preso à nossa turra… É a teimosia casmurra Da saudade a que me agarro…
+Embora de vida forra, Estou sempre na gangorra Desta afeição que me emperra!…
+Ser goiano — é a minha birra. Goiás, no amor que me acirra, É a bênção maior da Terra!…
+Vejo-te o berço em luz sob o céu de saphiras, A taba do Goiá é o pouso do Anhanguera… Bartholomeu, o heróe, não mais se desespera, Fita em palhetas de ouro a grandeza que inspiras.
+Cresces, erguendo a Deus a vida em primavera!… Villa Boa, Pilar, Meia-Ponte, Trahiras, São fúlgidos brazões da riqueza que estiras, Preparando no tempo o fulgor que te espera!…
+Subindo sem grilhões a conquistas supremas, Descerram-se-te as mãos em prodígios de gemas, Trabalhas illustrando o planalto fecundo!…
+Desde a foz do Aporé ao Tocantins distante, Deus te abençoe, Goyaz, os louros de gigante, Apoiando o Brasil na vanguarda do mundo!…
 
 ---
 
-##  — Poetas goianos no Além
+## 
 
 > Por oportuna e profunda, apresentamos nas páginas seguintes a crítica literária do imortal Bernardo Elis aos sonetos psicografados por Chico Xavier na Assembleia Legislativa Goiana. Consagrado escritor, poeta e crítico goiano, Bernardo Elis recentemente conquistou uma cadeira na Academia Brasileira de Letras.
 
@@ -76,24 +53,73 @@ Como se disse, os dois sonetos só diferem na chave.
 No soneto mediúnico, as rimas são ricas e os versos são bem ao estilo de Americano do Brasil — duros, pouco poéticos, nos quais a emoção cede à informação, isto é, há predomínio do racional sobre o emocional. Americano é sempre professoral, oratório, erudito, usando versos longos de doze sílabas para espraiar sua verborreia.
 Mesmo no Além, Americano do Brasil continua tão mau poeta quanto o foi em vida terrena. Mas espero que ele não se ofenda com essa minha franqueza, pois ainda há muito tempo para progredir.
 Félix de Bulhões já está lá há quase noventa anos, Americano faz apenas 40, metade do tempo. E diante da eternidade, que são quarenta anos!
-“Senhores, não sou de barro,
-e muito menos de ferro!
-Sou homem, por isso eu erro
-e muitas vezes me desgarro”.
 
 ---
 
-##  — Palavras finais
+## 
 
-No encerramento da nossa reunião, peço licença para homenagear, nesta semana que precede o Dia das Mães, todas as mães goianas e brasileiras que consagraram a própria existência, seja na organização da família ou no levantamento de obras espirituais que prestigiam a nossa vida comunitária, em benefício de nós todos.
-E rogo licença à muito digna Assembleia Legislativa do Estado de Goiás para reverenciar todas elas, na memória de D. Damiana da Cunha, a heroína de Goiás, que de Tanapuã a São José de Mossâmedes se fez precursora da assistência social em nosso País.
-A respeitada descendente dos caiapós, muito jovem ainda, despertou para a conscientização do Cristianismo e confiou-se à vivência dos princípios de Nosso Senhor Jesus-Cristo, amparando, instruindo, beneficiando e socorrendo todos os seus irmãos no Estado de Goiás e no Brasil, fosse na catequese de nossos antepassados ou no socorro aos companheiros que vinham de longe ofertar os braços valorosos à construção de nosso progresso.
-D. Damiana da Cunha ofertou sempre, desisteressadamente, a sua cooperação, ensinando e auxiliando, trabalhando e servindo, em favor e em louvor de nós todos. A ela, que consideramos como sendo símbolo da maternidade espiritual no Brasil Cristão e anjo maternal de todos os brasileiros, o nosso imenso respeito e o nosso imenso amor, rogando — neste momento de despedida e de agradecimento a todos os amigos e benfeitores do Estado de Goiás aqui reunidos — rogando a Jesus que a ilumine cada vez mais na Vida Maior, para que ela nos inspire e nos auxilie como sempre, ao mesmo tempo que peço ao Senhor para que nos proteja e nos abençoe.
-Que Deus abençoe Goiás e a nós todos no Brasil, hoje e sempre.
+> Apresentamos a seguir mensagem do Ex-Deputado à Assembleia Legislativa do Estado de Goiás, Dr. Lúcio Lincoln de Paiva, falecido em acidente automobilístico em Goiânia, no Natal de 1974. Rica de elementos de identificação, a mensagem é dirigida à sua esposa, Sra. Edinê Almeida Silva de Paiva, e foi recebida em Uberaba por Francisco Cândido Xavier, em janeiro de 1976, pouco mais de um ano após a desencarnação do querido deputado goiano.
+
+1 Querida Edinê, minha querida e valorosa companheira.
+2 Ao Poder Supremo, as nossas preces, rogando forças para o desempenho de nossos deveres ante o Sábio e Misericordioso Arquiteto do Universo.
+3 Não pense que escrevo facilmente. Minha mão desliza sob as mãos de nosso caro Doutor Bezerra e de outros amigos que me auxiliam a compor esta carta.
+4 Fosse eu apenas quem a escrevesse e, decerto, o lápis não seria assim tão célere. Todas as palavras para você seriam buriladas com lágrimas, com esse orvalho bendito que sobe do coração para os olhos e em que saudade e amor, alegria e sofrimento, paz e inquietação se misturam, fazendo a explosão de imagens que o verbo humano não traduz.
+5 O essencial, no entanto, querida, é que vim para dizer que ouvi tudo o que o seu carinho me falou, diante do retrato que a sua dedicação transformou em altar de nosso encontro quase permanente.
+6 Estou aqui, mas seu Lúcio tem as mãos incapazes de construir a nossa felicidade tal qual era a nossa felicidade no mundo, mas posso afirmar que reuni todas as minhas forças e estou edificando a nossa felicidade no Plano de amor sem despedidas.
+7 Reanime-se, meu bem. É preciso. Nunca esperei que a sua fortaleza atingisse culminâncias tão altas, porque você cimentou a nossa segurança com os seus sacrifícios. Sua mocidade corpórea não empanou a sua maturidade espiritual. Tive a convicção de que você não falharia e beijo as suas mãos pela resistência com que se conduz. Ainda assim, rogo ânimo novo às suas energias.
+8 Estamos juntos, juntos sempre, ao lado de nossos filhos e de nossos companheiros da vida familiar. Ouço-lhe as palavras, diariamente.
+9 Não sei explicar ainda em que bases se nos mantém a ligação incessante, mas essa ligação é algo que se instala no domínio das certezas que hoje vou encontrando para levantar os caminhos novos.
+10 Entendo as nossas dificuldades. A sua fadiga no heroísmo doméstico, os esforços para sustentar o nosso Lincoln, cedo chamado ao trabalho áspero, a abnegação com que você ilumina as palavras para consolar os nossos, quando você mesma se vê às portas da aflição, e essa saudade que nos fere a ambos, pior que todos os martírios que fôssemos chamados a padecer. 11 Mesmo assim, a nossa esperança deve pairar acima de qualquer sombra que nos tente nublar os pensamentos. Tudo vai passando com os ímpetos do tempo.
+12 Deus é amor infinito também, no íntimo das horas, anestesiando as nossas dores e cicatrizando as chagas que nós mesmos, segundo as Leis da Vida, tenhamos aberto nos corações.
+13 Quero você restaurada na alegria, tanto quanto a vejo forte na fé.
+14 Superamos o nosso Natal de pranto com a bênção de nossa confiança erguida aos Céus. Saberemos o porquê da provação, quando a nossa memória consiga ampliar-se, mas, por enquanto, sabemos que nenhuma tribulação conseguiu separar-nos.
+15 Lembro-me de todos os episódios que nos marcaram o adeus. Quando saí de casa, até mesmo sem o nosso abraço, porque me supunha numa ausência de minutos, tinha em mente conduzir a nossa alegria ao lar do compadre Geraldo… Só isso.
+16 Aquele desejo bom dos amigos que se reúnem nos melhores momentos para reasseverar o encantamento da paz e da amizade, e, por isso mesmo, tremi quando o Volks bateu no Corcel, atirando-me fora, em movimento da queda irremediável.
+17 Ouvi as palavras do nosso Wanderley tentando socorrer-me, entretanto, passei por um sono rápido, e, mais auxiliado por amigos da Vida Maior, do que seria lícito esperar num instante daqueles, vi-me fora do corpo, quando me conduziram para o hospital.
+18 Creia que não senti dor alguma, embora a preocupação por você e pela família fosse em mim um quadro de aflição maior do que qualquer sofrimento físico que devesse experimentar.
+19 Ainda assim, não conseguia mover-me.
+20 Estava apático, inabilitado a esforço que me levasse a menor manifestação, mas os conhecimentos adquiridos me velaram na hora. Com eles, mantive o pensamento em oração, rogando, mas rogando ardentemente para que Deus me concedesse o privilégio de não dormir sem encontrá-la.
+21 As ocorrências de que me vi objeto ainda são muito estranhas para mim, a fim de que eu possa entrar em detalhes, no entanto, abracei você logo que me foi possível semelhante alívio… Estava ao seu lado nas horas difíceis do salão da Adoniram, mas aquelas suas preces me confortavam. Ouvia a sua voz e sentia as suas lágrimas em mim mesmo, qual se a minha força viesse da sua vitalidade.
+22 Ouvi os nossos queridos amigos enquanto expressavam tanta nobreza de coração sem que seu velho merecesse aquele calor de homenagens; entretanto, peço a você agradecer a todos, especialmente aos companheiros de Maçonaria, seja na Adoniram ou seja no abençoado Núcleo do Templo Independência de Anápolis, por todo o bem que nos fizeram.
+23 Não seria justo esquecer nestas páginas de gratidão a bondade dos companheiros da Assembleia. Fiquei ciente de todas as medidas que abraçaram, em nosso auxílio, e manifesto aqui o meu reconhecimento a todos, pedindo permissão para representar os amigos em nossos caros companheiros e benfeitores, referindo-me aqui especialmente ao nosso Enio, ao nosso Luiz Soyer e ao nosso Clarismar.
+24 Enternecido, lembro-me dos nossos devotados amigos, Dr. Jorge Jungmann, do nosso Quintiliano e do nosso prezado amigo Dr. Benedito, cujos esforços em nosso benefício me calaram fundo no coração.
+25 Aqui venho com outros amigos, tantos são eles… Nosso caro Alvicto, irmão de Araguari, me faz companhia hoje, tanto quanto recebe você o apoio de nossa irmã Dona Lélia.
+26 Segredos de Deus que não deciframos. Não podia imaginar que este encontro estaria destinado principalmente a nós quatro.
+27 Muitos companheiros de Anápolis, de Ceres, de Rubiataba, de Joviânia e de Goiânia, com familiares de Araguari, me ampararam, desde as primeiras horas, mas, peço dizer à nossa mãe Olívia que o pessoal de Goiás tem sido para mim aquele refúgio de generosa hospitalidade que não sei descrever.
+28 A nossa inesquecível Madre Otávia ainda é mãe espiritual de muitos, e também tutelou-me.
+29 Não fosse você e os meninos, nossos pais queridos e irmãos, assim agora separados pelo muro das impressões, e estaria feliz.
+30 Mas, é preciso lutar, trabalhar, aprender e superar-nos.
+31 Diga ao Lincoln para não esmorecer. A escola do trabalho é uma escola de luz. Ele e Edilene, Luciene, Ediluce, André Luiz e nossa Loreni estão constantemente em meu carinho.
+32 Mas… querida Edinê, devo encerrar esta carta que pedi a Deus me permitisse escrever. Antes do terminar, rogo a você e aos irmãos não concordarem com qualquer versão estranha do acidente que me esperava na República do Líbano. Não houve intenção culposa em ninguém. Desejo, meu bem, que isso se faça muito claro para nós todos. Compreendo que o meu temperamento em legislação sempre foi ardente, diante do amor às realidades que presumia conhecer . Mas legislação é processo de exposição e diálogo, implantação dos recursos de lei e devoção ao bem público.
+33 Sempre fui o que fui, entretanto, vim para cá, para a Vida Maior, sem qualquer inimigo, e desejo que nossos filhos cresçam confiando em Deus e na paz, no amor e na boa vontade, que todos devemos cultivar.
+34 Nosso caro amigo Alvicto abraça Dona Lélia.
+35 Eu desejaria que um ramo de rosas me viesse às mãos para colocar nas suas, em sinal de meu carinhoso reconhecimento. Imagino que isso esteja sucedendo e deponho em seu coração as flores de minha ternura imensa.
+36 Continue ajudando ao companheiro que precisa de você.
+37 Perdoe-me se deixei você com tantas complicações de ordem material, mas estejamos certos de que da Contabilidade Divina receberemos todos os recursos de que carecemos para conduzir a família sadia e feliz para a frente.
+38 Agradeço aos manos e aos meus pais e agradeço a todos os nossos.
+39 O esforço foi longo. Devo terminar. Espero que os amigos da reunião me desculpem.
+40 E você, querida Edinê, conserve a certeza de que, ao seu lado, hoje como ontem e agora como será sempre, está o coração palpitante e sempre mais seu,
 
 ---
 
-## Fala inicial — Chico Xavier em Goiânia
+## 
+
+A Sessão Solene da Assembleia Legislativa do Estado de Goiás na noite de 7 de maio de 1974 revestiu-se de singular significação e invulgar brilho, com a presença de Francisco Cândido Xavier.
+Convidado pelos deputados goianos, Chico Xavier durante algumas horas abordou o tema “Cristo e a Atualidade”, na dialética clara com que sempre expõe seus pensamentos e na limpidez com que fixa as ideias dos mentores espirituais de quem é invariavelmente intérprete fiel e respeitável.
+À conferência dissertativa e convencional, Chico preferiu responder a perguntas formuladas pelos presentes: autoridades representativas dos Poderes Públicos, convidados de outros Estados e o povo goiano que lotava o Plenário da Assembleia Legislativa.
+Assim, Chico Xavier falou desde os ascendentes espirituais da comunidade goiana, reverenciando vultos respeitáveis do passado; até os mais palpitantes temas da atualidade, vinculados evidentemente à presença de Jesus em nossas vidas. Casamento, divórcio, sexo, família, superpopulação, planejamento familiar, foram alguns dos assuntos propostos.
+Ao término da reunião, Francisco Cândido Xavier psicografou três sonetos de autores goianos, em estilos totalmente diferentes, páginas que mereceram a análise literária do escritor Bernardo Élis, da Academia Brasileira de Letras, estudo que apresentamos neste livro, extraído de publicação do jornal “Cinco de Março”, em sua edição de 8 de maio de 1974.
+Entendemos justo e oportuno consignar que a participação de Francisco Cândido Xavier na Assembleia Legislativa Goiana, inclusive referendada pela psicografia dos três sonetos, foi a primeira presença efetiva de um médium em solenidade de cunho oficial, promovida por nossas autoridades constituídas.
+Além da entrevista, na íntegra, e das páginas psicografadas, enriquecidas com a crítica literária do festejado autor de “O Tronco”, em CHICO XAVIER EM GOIÂNIA, encontramos, também, uma mensagem recebida por Chico Xavier em Uberaba e de autoria de Lúcio Lincoln de Paiva.
+O leitor interrogará certamente o porquê da mensagem de Lúcio Lincoln de Paiva estar inserida neste livro que documenta a participação do querido médium na Sessão Solene da Assembleia Legislativa do Estado de Goiás. Ocorre que o articulador da conferência de Francisco Cândido Xavier em Goiânia, na memorável noite de 7 de maio de 1974, foi justamente Lúcio Lincoln de Paiva, então deputado estadual, e que viria a falecer no Natal do mesmo ano, em Goiânia.
+Com a publicação da mensagem, psicografada pouco mais de um ano após a sua desencarnação, reverenciamos a memória do dedicado Homem Público, agora no Plano Espiritual, em reconhecimento à carinhosa recepção que ofereceu a Chico Xavier. Assim, entendemos estar homenageando a todos os goianos.
+Finalmente, ao médium, anotamos nosso mais profundo reconhecimento pela honra de editarmos esta obra no ano de seu cinquentenário mediúnico.
+Em seus 50 anos de mediunidade e de apostolado em nome de Nosso Senhor Jesus Cristo, Francisco Cândido Xavier conquistou o carinho de toda a comunidade brasileira, pela sua palpável contribuição à divulgação e à implantação dos princípios evangélicos em nossos corações.
+O ano de 1977 muito significa para nós que nos achamos envolvidos na magnitude das tarefas de Chico Xavier, como muito representa também para todos quantos guardam o anseio de um Mundo de paz e alegria, mister a que Francisco Cândido Xavier tem-se dedicado incansavelmente.
+
+---
+
+## Fala inicial
 
 Exmo. Sr. Dr. Enio Paschoal, muito digno Presidente da Assembleia Legislativa do Estado de Goiás;
 Exmo. Sr. Dr. Paulo Gomide Leite, muito digno representante do Exmo. Sr. Governador do Estado de Goiás;
@@ -114,8 +140,7 @@ A eles, os companheiros que ficaram distantes, o meu pensamento de saudade e gra
 O tema escolhido para esta noite é Cristo e a Atualidade.
 Comuniquei ao nosso caro amigo, Dr. Lúcio Lincoln de Paiva, que não tenho qualidades para pronunciar uma conferência — não possuo nem mesmo voz adequada para a oratória. Entretanto, aceitaria uma conversação informal — um encontro amistoso com o coração de Goiás, porque tão somente pelos nobres sentimentos da comunidade goiana posso ser tolerado em minha ineficiência.
 Aqui estou.
-O tema é “Jesus e a Atualidade”, e, ainda agora, antes de vir ao vosso encontro, compulsei o Novo Testamento, que estudamos à luz dos ensinamentos de Allan Kardec, e encontrei no capítulo VI do Evangelho de São João os versículos de 59 a 68 que relacionam determinado desentendimento entre o Nosso Senhor Jesus Cristo e aqueles que o acompanhavam. Registrando dificuldades para assimilar as instruções do Divino Mestre, alguns aprendizes se mantinham desarvorados e Jesus, diante deles, indagou com bondade: — Porventura quereis também retirar-vos? Ao que Simão Pedro, o apóstolo, respondeu: — Senhor, se Te deixarmos para onde iremos? Tens contigo as palavras de vida eterna.
-
+O tema é “Jesus e a Atualidade”, e, ainda agora, antes de vir ao vosso encontro, compulsei o Novo Testamento, que estudamos à luz dos ensinamentos de Allan Kardec, e encontrei no capítulo VI do Evangelho de São João os versículos de 59 a 68 que relacionam determinado desentendimento entre o Nosso Senhor Jesus Cristo e aqueles que o acompanhavam. Registrando dificuldades para assimilar as instruções do Divino Mestre, alguns aprendizes se mantinham desarvorados e Jesus, diante deles, indagou com bondade: — Porventura quereis também retirar-vos? Ao que Simão Pedro, o apóstolo, respondeu: — Senhor, se Te deixarmos para onde iremos? Tens contigo as palavras de vida eterna. ( † )
 Justamente na hora presente do Mundo em que multidões imensas procuram Nosso Senhor Jesus Cristo, muitos representantes da nossa cultura alegam que Jesus está sendo abandonado; à frente de semelhante conflito desejamos dizer que ansiamos por Jesus Cristo cada vez mais em nossa vida e guardo a certeza de que todos nós, os que nos reunimos aqui, sentimos uma profunda saudade de Jesus, sempre, mais intimamente ligado aos nossos destinos, corações e pensamentos.
 Em verdade, coletivamente fomos à Lua, redescobrindo caminhos que efetivamente já existiam, mas, quantas vezes sem Jesus, teríamos e teremos imensas dificuldades para o entendimento uns com os outros, em nossa viagem cotidiana de alma para alma e de coração para coração!…
 Coletivamente, na Civilização Ocidental estamos ricos; entretanto, nunca houve tanta solidão, ou inexplicável necessidade de calor humano, entre as criaturas e, por isso mesmo, nesta honrada Assembleia Legislativa do Estado de Goiás, peço permissão para afirmar-vos: nós queremos Jesus cada vez mais, precisamos do Cristo, não podemos dispensar Jesus e não podemos afastar-nos de Jesus, se buscamos o caminho da própria felicidade.
@@ -123,37 +148,28 @@ E a Ele, nosso Amado e Eterno Senhor, rogamos para que as palavras, que saiam de
 
 ---
 
-##  — Apresentação
+## 
 
-A Sessão Solene da Assembleia Legislativa do Estado de Goiás na noite de 7 de maio de 1974 revestiu-se de singular significação e invulgar brilho, com a presença de Francisco Cândido Xavier.
-Convidado pelos deputados goianos, Chico Xavier durante algumas horas abordou o tema “Cristo e a Atualidade”, na dialética clara com que sempre expõe seus pensamentos e na limpidez com que fixa as ideias dos mentores espirituais de quem é invariavelmente intérprete fiel e respeitável.
-À conferência dissertativa e convencional, Chico preferiu responder a perguntas formuladas pelos presentes: autoridades representativas dos Poderes Públicos, convidados de outros Estados e o povo goiano que lotava o Plenário da Assembleia Legislativa.
-Assim, Chico Xavier falou desde os ascendentes espirituais da comunidade goiana, reverenciando vultos respeitáveis do passado; até os mais palpitantes temas da atualidade, vinculados evidentemente à presença de Jesus em nossas vidas. Casamento, divórcio, sexo, família, superpopulação, planejamento familiar, foram alguns dos assuntos propostos.
-Ao término da reunião, Francisco Cândido Xavier psicografou três sonetos de autores goianos, em estilos totalmente diferentes, páginas que mereceram a análise literária do escritor Bernardo Élis, da Academia Brasileira de Letras, estudo que apresentamos neste livro, extraído de publicação do jornal “Cinco de Março”, em sua edição de 8 de maio de 1974.
-Entendemos justo e oportuno consignar que a participação de Francisco Cândido Xavier na Assembleia Legislativa Goiana, inclusive referendada pela psicografia dos três sonetos, foi a primeira presença efetiva de um médium em solenidade de cunho oficial, promovida por nossas autoridades constituídas.
-Além da entrevista, na íntegra, e das páginas psicografadas, enriquecidas com a crítica literária do festejado autor de “O Tronco”, em CHICO XAVIER EM GOIÂNIA, encontramos, também, uma mensagem recebida por Chico Xavier em Uberaba e de autoria de Lúcio Lincoln de Paiva.
-O leitor interrogará certamente o porquê da mensagem de Lúcio Lincoln de Paiva estar inserida neste livro que documenta a participação do querido médium na Sessão Solene da Assembleia Legislativa do Estado de Goiás. Ocorre que o articulador da conferência de Francisco Cândido Xavier em Goiânia, na memorável noite de 7 de maio de 1974, foi justamente Lúcio Lincoln de Paiva, então deputado estadual, e que viria a falecer no Natal do mesmo ano, em Goiânia.
-Com a publicação da mensagem, psicografada pouco mais de um ano após a sua desencarnação, reverenciamos a memória do dedicado Homem Público, agora no Plano Espiritual, em reconhecimento à carinhosa recepção que ofereceu a Chico Xavier. Assim, entendemos estar homenageando a todos os goianos.
-Finalmente, ao médium, anotamos nosso mais profundo reconhecimento pela honra de editarmos esta obra no ano de seu cinquentenário mediúnico.
-Em seus 50 anos de mediunidade e de apostolado em nome de Nosso Senhor Jesus Cristo, Francisco Cândido Xavier conquistou o carinho de toda a comunidade brasileira, pela sua palpável contribuição à divulgação e à implantação dos princípios evangélicos em nossos corações.
-O ano de 1977 muito significa para nós que nos achamos envolvidos na magnitude das tarefas de Chico Xavier, como muito representa também para todos quantos guardam o anseio de um Mundo de paz e alegria, mister a que Francisco Cândido Xavier tem-se dedicado incansavelmente.
+No encerramento da nossa reunião, peço licença para homenagear, nesta semana que precede o Dia das Mães, todas as mães goianas e brasileiras que consagraram a própria existência, seja na organização da família ou no levantamento de obras espirituais que prestigiam a nossa vida comunitária, em benefício de nós todos.
+E rogo licença à muito digna Assembleia Legislativa do Estado de Goiás para reverenciar todas elas, na memória de D. Damiana da Cunha, a heroína de Goiás, que de Tanapuã a São José de Mossâmedes se fez precursora da assistência social em nosso País.
+A respeitada descendente dos caiapós, muito jovem ainda, despertou para a conscientização do Cristianismo e confiou-se à vivência dos princípios de Nosso Senhor Jesus-Cristo, amparando, instruindo, beneficiando e socorrendo todos os seus irmãos no Estado de Goiás e no Brasil, fosse na catequese de nossos antepassados ou no socorro aos companheiros que vinham de longe ofertar os braços valorosos à construção de nosso progresso.
+D. Damiana da Cunha ofertou sempre, desisteressadamente, a sua cooperação, ensinando e auxiliando, trabalhando e servindo, em favor e em louvor de nós todos. A ela, que consideramos como sendo símbolo da maternidade espiritual no Brasil Cristão e anjo maternal de todos os brasileiros, o nosso imenso respeito e o nosso imenso amor, rogando — neste momento de despedida e de agradecimento a todos os amigos e benfeitores do Estado de Goiás aqui reunidos — rogando a Jesus que a ilumine cada vez mais na Vida Maior, para que ela nos inspire e nos auxilie como sempre, ao mesmo tempo que peço ao Senhor para que nos proteja e nos abençoe.
+Que Deus abençoe Goiás e a nós todos no Brasil, hoje e sempre.
 
 ---
 
-##  — Encontro em Goiânia
+## 
 
-Leitor amigo.
-Aceitando o convite de amigos, ligados à cultura e ao progresso do Estado de Goiás, comparecemos com o médium Xavier à reunião da Assembleia Legislativa daquele Estado, na noite de 7 de maio de 1974, para o diálogo sobre assuntos diversos, centralizados no tema “Cristo e a Atualidade”.
-Desse contato fraterno nasceu este livro que oferecemos ao seu conhecimento e reflexão.
-Ora deixando ao médium plena liberdade de expressão, especialmente nos comentários afetivos, estivemos sempre a responsabilizar-nos, pessoalmente, pela emissão de conceitos doutrinários propriamente ditos, utilizando-nos para isso do microfone mediúnico, dentro da naturalidade possível, sem qualquer nota de alarme fenomênico; suscetível de criar qualquer espetaculosidade, tendente a transferir a atenção dos amigos ouvintes para a curiosidade menos construtiva.
-Ao término de nosso rápido entendimento, insistimos, por nossa vez, com alguns dos poetas goianos desencarnados para que se manifestassem, colaborando conosco e saudando a nobre comunidade, ali representada.
-E aqui se encontra o livro enfeixando o temário havido. E não nos será licito esquecer que o volume está complementado pelas palavras do nosso prezado amigo Lúcio Lincoln de Paiva, generoso patrono da referida reunião que, desde dezembro de 1974, passou a integrar a nossa legião de obreiros da Vida Espiritual, empenhados à edificação do Mundo Melhor.
-Entregando-lhe, desse modo, as notícias do nosso encontro em Goiânia, formulamos votos para que prossigamos no estudo dos ensinamentos do Cristo, ante a luz do Cristianismo Redivivo na Doutrina Espírita, rogando ao Senhor a todos nos esclareça e abençoe.
+1 Leitor amigo. Aceitando o convite de amigos, ligados à cultura e ao progresso do Estado de Goiás, comparecemos com o médium Xavier à reunião da Assembleia Legislativa daquele Estado, na noite de 7 de maio de 1974, para o diálogo sobre assuntos diversos, centralizados no tema “Cristo e a Atualidade”. Desse contato fraterno nasceu este livro que oferecemos ao seu conhecimento e reflexão.
+2 Ora deixando ao médium plena liberdade de expressão, especialmente nos comentários afetivos, estivemos sempre a responsabilizar-nos, pessoalmente, pela emissão de conceitos doutrinários propriamente ditos, utilizando-nos para isso do microfone mediúnico, dentro da naturalidade possível, sem qualquer nota de alarme fenomênico; suscetível de criar qualquer espetaculosidade, tendente a transferir a atenção dos amigos ouvintes para a curiosidade menos construtiva.
+3 Ao término de nosso rápido entendimento, insistimos, por nossa vez, com alguns dos poetas goianos desencarnados para que se manifestassem, colaborando conosco e saudando a nobre comunidade, ali representada.
+4 E aqui se encontra o livro enfeixando o temário havido. E não nos será licito esquecer que o volume está complementado pelas palavras do nosso prezado amigo Lúcio Lincoln de Paiva, generoso patrono da referida reunião que, desde dezembro de 1974, passou a integrar a nossa legião de obreiros da Vida Espiritual, empenhados à edificação do Mundo Melhor.
+5 Entregando-lhe, desse modo, as notícias do nosso encontro em Goiânia, formulamos votos para que prossigamos no estudo dos ensinamentos do Cristo, ante a luz do Cristianismo Redivivo na Doutrina Espírita, rogando ao Senhor a todos nos esclareça e abençoe.
 Uberaba, 9 de julho de 1977.
 
 ---
 
-## 1 — Chico Xavier em Goiânia
+## 1
 
 > 1.  A que se atribui na atualidade o evidente acréscimo das doenças mentais?
 
@@ -177,15 +193,14 @@ Se armamos o braço contra alguém e destruímos a vida de alguém, conscienteme
 
 ---
 
-## 2 — Chico Xavier em Goiânia
+## 2
 
 > 6.  Se determinadas enfermidades são provas para a regeneração dos Espíritos reencarnados, por que permitem os Mensageiros da Vida Superior o aparecimento de agentes medicamentosos que suprimem a dor?
 
 Os Espíritos Amigos asseveram sempre que a dor não é filha da Lei Divina. A dor, dizem eles, é uma criação nossa. Explicam que toda a Ciência Médica procede da misericórdia de Deus, em favor de nós outros, neste mundo, quando infernizamos a própria consciência.
 Criamos o processo culposo, atingimos o Mais Além, encontramo-nos doentes, à feição de criaturas que transportam em si o purgatório, ou aquilo que podemos considerar como sendo o lado infernal da vida e Deus nos concede a Medicina para que, na Terra, possamos aliviar o sofrimento ou curá-lo conforme o mérito ou o esforço que vamos adquirindo.
 Por isso mesmo, a anestesia é uma conquista da Ciência Médica em favor da Humanidade, demonstrando que o Senhor de Justiça e Misericórdia não nos quer sofredores, conquanto não possa exonerar-nos da autorredenção.
-Allan Kardec, no capítulo XXII de O Evangelho Segundo o Espiritismo,
-assevera que o divórcio é uma lei humana que vem consagrar determinada situação já existente entre os cônjuges.
+Allan Kardec, no capítulo XXII de O Evangelho Segundo o Espiritismo, ( † ) assevera que o divórcio é uma lei humana que vem consagrar determinada situação já existente entre os cônjuges.
 Do ponto de vista humano, seria crueldade fugirmos à possibilidade do divórcio em algumas situações lamentáveis da vida, quando estamos certos de que as próprias organizações bancárias do mundo nos concedem reformas e nos proporcionam determinados prazos para o resgate de certas dívidas.
 Necessitamos, porém, conscientizar-nos quanto ao assunto no Brasil, de vez que somos um povo demasiado jovem e precisamos habilitar a consciência coletiva para uma conquista de tamanha expressão na vida da criatura e na vida comunitária.
 Esse sistema de harmonia se baseia no amor que se transforma em crescente compreensão e respeito cada vez maior de um cônjuge para o outro, entendendo-se que, em efetuando o casamento, a pessoa não está criando uma união de anjos e sim um ajuste respeitável de criaturas humanas, pelo qual um e outro parceiro entremostram determinadas nuances de incompreensão, às vezes, a se traduzirem por grandes dificuldades que reclamam paciência e aceitação de uma parte para outra, no campo das relações recíprocas.
@@ -197,7 +212,7 @@ Cremos que este problema será perfeitamente solucionado quando esquecermos a af
 
 ---
 
-## 3 — Chico Xavier em Goiânia
+## 3
 
 > 11.  As diretrizes do feminismo na atualidade são as melhores para a mulher?
 
@@ -213,11 +228,10 @@ Atualmente ser-nos-á obrigação salientá-las na Assistência Social, na Cultu
 Referimo-nos a D. Leodegária de Jesus, a D. Araci Guimarães Monteiro, a Madre Tomásia Rosa, a grande professora que foi D. Pacífica de Castro, a abnegada mestre Gnola que preparou a inteligência de tantos goianos e brasileiros ilustres para a vida nacional.
 Recordamos D. Neli Alves de Almeida, D. Maria Antonieta Alessandri, D. Gercina Teixeira, D. Ofélia Sócrates Nascimento Monteiro, D. Violeta Metran Fleury Curado e tantas outras magnânimas figuras do progresso goiano, na evolução do Brasil de todos os tempos, razão pela qual nos sentimos a vontade para declarar que a mulher goiana não precisa buscar padrões no Exterior para criar os seus figurinos de comportamento na defesa do lar e do grupo social, segundo os preceitos de Jesus Cristo.
 Vemo-nos diante de um tema que interliga ciência e vida familiar na consciência de cada um. Esperemos que o tempo nos faça observar realmente as vantagens dos anticoncepcionais, compreendendo-se, em princípio, porém, que os anticoncepcionais, de certo, não estarão invadindo a Terra sem finalidade justa.
-Temos, com toda certeza, lideranças as mais respeitáveis e por elas nos orientamos no mundo para a sustentação da ordem, da segurança, do trabalho e do proveito em favor de todos, mas a liderança genuína, segundo Nosso Senhor Jesus-Cristo, é sempre aquela que Ele define no próprio Evangelho: “e àquele que desejar ser o maior, que se faça o servidor de todos”.
-
+Temos, com toda certeza, lideranças as mais respeitáveis e por elas nos orientamos no mundo para a sustentação da ordem, da segurança, do trabalho e do proveito em favor de todos, mas a liderança genuína, segundo Nosso Senhor Jesus-Cristo, é sempre aquela que Ele define no próprio Evangelho: “e àquele que desejar ser o maior, que se faça o servidor de todos”. ( † )
 Os Espíritos amigos sempre nos disseram, notadamente em Pedro Leopoldo, há muito tempo, que o Estado de Goiás é o campo do equilíbrio e da ordem para a garantia do progresso no País.
 E, por isso, as determinações de caráter místico, que se manifestaram no mundo para que ambas essas mudanças se realizassem, obedeceram a processos decorrentes da própria decisão do Mundo Espiritual, com alusão aos destinos de Goiás.
-Com o nosso respeito ao Estado de Goiás e a quaisquer setores da nossa Administração, lembramo-nos de que o 16° Governador da Província de Goiás, no Segundo Império, Dr. Couto Magalhães, já assinalava em 1863, que a diminuição da capacidade aurífera dos territórios da capital primogênita do Estado de Goiás sugeriam provavelmente a mudança da capital do Estado.
+Com o nosso respeito ao Estado de Goiás e a quaisquer setores da nossa Administração, lembramo-nos de que o 16º Governador da Província de Goiás, no Segundo Império, Dr. Couto Magalhães, já assinalava em 1863, que a diminuição da capacidade aurífera dos territórios da capital primogênita do Estado de Goiás sugeriam provavelmente a mudança da capital do Estado.
 De 1863 a 1933, o tempo naturalmente rolou e o mundo espiritual patrocinou a vinda de grandes missionários da vida goiana, a maioria deles renascidos nas margens do histórico Rio Vermelho, para que se abraçassem e se harmonizassem, promovendo a mudança da Capital, porquanto a mudança da Capital se impunha por necessidade básica na garantia da própria vida nacional do Brasil, como povo cristão indicado a grandes tarefas na civilização do futuro.
 A mudança se destacava compreensível e imperiosa para que o País pudesse trazer o seu próprio coração palpitante ao planalto goiano e daí cogitar do zelo e da administração de vastas faixas territoriais do País, à frente do porvir.
 Posso afirmar, e afirmo isto com muita veneração, que na noite de 4 de julho de 1942 — ao mesmo tempo que rogo permissão para me tolerardes se assim me expresso, diante de todos aqueles que não podem crer, como eu creio nos avisos que recebemos — na noite de 4 de julho de 1942, repito, o Dr. Antônio Americano do Brasil, comunicando-se em Pedro Leopoldo, solicitava preces e trazia consigo muitos amigos de Goiás, domiciliados na Vida Maior, dentre eles, aquele que foi o bispo Dom Paulo Ponce de Leon, a benfeitora iluminada que trazia o nome de Madre Otávia e outros de cujos nomes não me recordo agora, conquanto me lembre claramente de uma senhora, D. Augusta Sócrates, que partilhava da nobre comissão espiritual. Pedia o Dr. Antônio Americano do Brasil preces, porque dizia ele, naquela noite se processava, no Estado de Goiás, um grande acontecimento para o dia seguinte: a proclamação do Exmo. Sr. Governador do Estado de Goiás, naquele dia e naquele ano, instalando a nova Capital, realização que precisaria efetuar-se num ambiente de paz e amor, de ordem e segurança.
@@ -228,7 +242,7 @@ Acreditamos com os Bons Espíritos, que se comunicam, que a interferência não 
 
 ---
 
-## 4 — Chico Xavier em Goiânia
+## 4
 
 > 16.  A indiscutível diminuição da influência religiosa tradicional na vida comum trará prejuízo à vida comunitária?
 
@@ -247,7 +261,7 @@ A melhor maneira do enfermo cooperar em favor do próprio grupo doméstico em qu
 
 ---
 
-## 5 — Chico Xavier em Goiânia
+## 5
 
 > 21.  Existirá na opinião dos Amigos Espirituais alguma correlação entre disritmia cerebral e mediunidade?
 
@@ -263,7 +277,7 @@ Se tantos de nós, tantas vezes, nos sacrificamos, de modo quase absoluto, em gr
 
 ---
 
-## 6 — Chico Xavier em Goiânia
+## 6
 
 > 27.  Como interpretam os Espíritos amigos a função do sexo?
 
@@ -273,8 +287,7 @@ Compete-nos honrar os compromissos de natureza sexual com todas as forças da al
 Basta nos devotemos a transmutar a força sexual em nossas ligações afetivas, convertendo-as em dedicação e entendimento, trabalho recíproco, admiração e carinho, sem o contato sexual, propriamente considerado, para encontrar no amor de qualquer condição o maior estímulo à satisfação de servir e à alegria de viver.
 Transmutando a energia sexual em abnegação, atividade, trabalho, organização, realização e sublimação, surpreenderemos sempre no amor, com base mesmo no sexo não vivido, a força espiritual mais profunda da existência, garantindo-nos a euforia orgânica e mental sobre a Terra.
 Assim sucede porque o amor é lei da vida.
-Diz Allan Kardec, em “O Livro dos Espíritos”,
-que o homem deve corrigir tudo aquilo que possa ser contrariedade para a natureza. Hoje, os campos se dividem em diversas opiniões; mas, à frente da problemática da civilização atual com severos impositivos de educação e de assistência à família, pessoalmente acreditamos que o casal tem direito de pedir a Deus inspiração para que não venha a cair em compromissos nos quais eles, os cônjuges, permaneçam frustrados.
+Diz Allan Kardec, em “O Livro dos Espíritos”, ( † ) que o homem deve corrigir tudo aquilo que possa ser contrariedade para a natureza. Hoje, os campos se dividem em diversas opiniões; mas, à frente da problemática da civilização atual com severos impositivos de educação e de assistência à família, pessoalmente acreditamos que o casal tem direito de pedir a Deus inspiração para que não venha a cair em compromissos nos quais eles, os cônjuges, permaneçam frustrados.
 Muitos de nós nos declaramos filhos de famílias numerosas — pessoalmente partilho de uma equipe familiar, constituída de 15 irmãos — mas, de 20 anos para cá, a vida no planeta tem sofrido profundas alterações e temos a obrigação de examinar este assunto com muito respeito à vida e, consequentemente, a Deus, em nossos deveres de uns para com os outros, para não cairmos em qualquer calamidade de omissão ou de deserção de encargos assumidos.
 Eles dizem que os nossos administradores em diversos países do mundo se incumbirão, com a assistência do Mais Alto, de resolver este problema e as suas conotações com a vida em comunidade.
 Esperemos o futuro, quando as nossas autoridades na orientação da vida pública venham a tomar providências que dirão respeito ao tema em exame.
@@ -282,9 +295,10 @@ Sim, eles sempre disseram isso. Não tenho qualquer afirmativa a acrescentar por
 
 ---
 
-## 7 — Chico Xavier em Goiânia
+## 7
 
 > 31.  Como interpretar o conceito de oposição no trabalho representativo dos interesses públicos?
+> — Sou dos que acreditam todavia em todas as religiões, desde que se consagrem ao bem e objetivem ao supremo Criador
 
 Observamos que o assunto tem duplo sentido, porque, quando a oposição de uma criatura está reconhecidamente no campo do desequilíbrio com prejuízo da comunidade, a oposição é criticável dentro da própria comunidade.
 Mas quando a criatura está dedicada ao bem de todos, à ordem pública, à segurança geral e ao progresso comum, se essa criatura está conquistando influência, ao passo que nos achamos apoiando caprichosamente as sugestões da oposição, fica logicamente demonstrada a nossa obrigação de fazer mais e melhor do que aqueles que estejam trabalhando na construção do bem estar de todos.
@@ -317,102 +331,3 @@ Quanto à criação de um inferno e de um purgatório por dentro de nós, isso �
 Somos nós mesmos os autores do purgatório ou do inferno por dentro de nós. Sem dúvida, não existem outros; mas, por isso mesmo, quando partimos deste mundo com o problema da culpa, retornaremos a ele, evidenciando as consequências dessa mesma culpa.
 Plasmamos neste mundo e no outro, com as repercussões dos nossos próprios atos, o estado espiritual que estabelecerá em nós o Céu, o purgatório ou o inferno, sendo de notar que purgatório e inferno serão transitórios, porque a Misericórdia Divina cobre a Divina Justiça.
 E sempre haverá para o Espírito eterno, filho de Deus, a possibilidade de conciliação com Deus nas Leis Divinas, através da pacificação da própria consciência.
-
----
-
-## RETORNO — Agradecimentos
-
-> Após responder as perguntas formuladas, instado a psicografar alguma mensagem do Plano Espiritual, na Casa de Leis do Estado de Goiás, Chico Xavier dirigiu-se, ainda uma vez, a todos os presentes, após o que recebeu os sonetos de três poetas goianos, Félix de Bulhões, Joaquim Bonifácio de Siqueira e Antônio Americano do Brasil.
-
-Peço permissão, se possível, já que tive a honra de agradecer às autoridades presentes, para estender o meu profundo reconhecimento aos amigos que nos acompanham de cidades várias, que estão aqui conosco, valorizando-nos o encontro, peço ainda licença ao nosso muito digno Presidente da Assembleia Legislativa do Estado de Goiás, nosso caro Deputado Dr. Enio Paschoal, para agradecer aos nossos grandes jornais de Goiânia: o “Cinco de Março”, “O Popular” e “Folha de Goiás”; aos nossos 2 canais de Televisão em Goiânia: o canal 4 Goiânia e o canal 2 a TV Anhanguera; às nossas rádio-difusoras: Anhanguera, Brasil Central, Rádio Clube, Rádio Riviera, Rádio Independência, Rádio Jornal de Goiás, Rádio Universitária e Rádio Difusora; estendo também a minha profunda gratidão, o meu imenso respeito aos companheiros de Doutrina Espírita, à luz dos Evangelhos de Nosso Senhor Jesus-Cristo, militantes na cidade de Goiânia, por haverem favorecido, com tanta bondade, o meu encontro com a comunidade de Goiânia e de Goiás, nesta noite.
-Não posso pronunciar os nomes de todos os companheiros, mas peço o vosso consentimento para dizer, pelo menos os nomes de alguns deles, como sejam o nosso caro amigo, Dr. Humberto Ferreira, o Sr. Romeu Pelá, D. Maria Antonieta Alessandri o Prof. Múcio de Melo Álvares e sua digna esposa, D. Elba Melo Álvares e tantos companheiros outros, como sejam nosso amigo Paulo Dautro, José Delmino Galvão, Aristonides José da Silveira, Edvard Correa, José Felix de Souza, Mário Andrade Filho e ao nosso muito digno companheiro Cássio Ribeiro Ramos, que tenho a honra de conhecer de longa data, e a quem admiramos imensamente.
-A todos os companheiros, o nosso profundo agradecimento, e se for possível, se nossos amigos aqui permitirem, peço alguns momentos de música — já que vamos fazer uma prece para tentar receber algo da Vida Maior.
-Aos companheiros que puderem orar, colaborando conosco, ficaremos agradecidos. O espírito de Emmanuel, nosso amigo, pede para esclarecer que não desejamos abusar da augusta Casa de Leis, do Poder Legislativo do Estado de Goiás, para efetuar qualquer ação propagandística.
-Estamos aqui reunidos, em nome de Nosso Senhor Jesus-Cristo, e tão somente em nome de Jesus achamo-nos aqui, cumprindo um dever, sem nenhuma ideia de proselitismo e sem nenhum desrespeito à Casa que governa, com o Poder Executivo, o nosso grande e venerável Estado de Goiás.
-
-Fito nos céus, em faixas multicores,
-Constelações longínquas, sóis em bando…
-O Universo palpita cintilando,
-Entre explosões de júbilos e flores…
-Atravessando os reinos interiores,
-Nos édens de beleza em que me expando,
-Ouço vozes angélicas cantando
-Na moldura de excelsos resplendores!…
-Mas impérios e láureas, tudo esqueço…
-Quero tornar ao ninho que estremeço:
-Terra goiana, o lar que me extasia!…
-E, ante a luz que a memória me descerra,
-Beijo, feliz, o pó de minha terra,
-Em transportes de amor e de alegria!…
-
-Goianos não me desgarro…
-Em minha lyra caturra,
-A paixão é o que me empurra
-Ao nosso encontro bizarro…
-Da vida nova, em que esbarro,
-Ando preso à nossa turra…
-É a teimosia casmurra
-Da saudade a que me agarro…
-Embora de vida forra,
-Estou sempre na gangorra
-Desta afeição que me emperra!…
-Ser goiano — é a minha birra.
-Goiás, no amor que me acirra,
-É a bênção maior da Terra!…
-
-Vejo-te o berço em luz sob o céu de saphiras,
-A taba do Goiá é o pouso do Anhanguera…
-Bartholomeu, o heróe, não mais se desespera,
-Fita em palhetas de ouro a grandeza que inspiras.
-Cresce.s, erguendo a Deus a vida em primavera!…
-Villa Boa, Pilar, Meia-Ponte, Trahiras,
-São fúlgidos brazões da riqueza que estiras,
-Prenarando no tempo o fulgor que te espera!…
-Subindo sem grilhões a conquistas supremas,
-Descerram-se-te as mãos em prodígios de gemas,
-Trabalhas illustrando o planalto fecundo!…
-Desde a foz do Aporé ao Tocantins distante,
-Deus te abençoe, Goyaz, os louros de gigante,
-Apoiando o Brasil na vanguarda do mundo!…
-Fito nos céus, em faixas multicores,
-Constelações longínquas, sóis em bando…
-O Universo palpita cintilando,
-Entre explosões de júbilos e flores…
-Atravessando os reinos interiores,
-Nos édens de beleza em que me expando,
-Ouço vozes angélicas cantando
-Na moldura de excelsos resplendores!…
-Mas impérios e láureas, tudo esqueço…
-Quero tornar ao ninho que estremeço:
-Terra goiana, o lar que me extasia!…
-E, ante a luz que a memória me descerra,
-Beijo, feliz, o pó de minha terra,
-Em transportes de amor e de alegria!…
-Goianos não me desgarro…
-Em minha lyra caturra,
-A paixão é o que me empurra
-Ao nosso encontro bizarro…
-Da vida nova, em que esbarro,
-Ando preso à nossa turra…
-É a teimosia casmurra
-Da saudade a que me agarro…
-Embora de vida forra,
-Estou sempre na gangorra
-Desta afeição que me emperra!…
-Ser goiano — é a minha birra.
-Goiás, no amor que me acirra,
-É a bênção maior da Terra!…
-Vejo-te o berço em luz sob o céu de saphiras,
-A taba do Goiá é o pouso do Anhanguera…
-Bartholomeu, o heróe, não mais se desespera,
-Fita em palhetas de ouro a grandeza que inspiras.
-Cresce.s, erguendo a Deus a vida em primavera!…
-Villa Boa, Pilar, Meia-Ponte, Trahiras,
-São fúlgidos brazões da riqueza que estiras,
-Prenarando no tempo o fulgor que te espera!…
-Subindo sem grilhões a conquistas supremas,
-Descerram-se-te as mãos em prodígios de gemas,
-Trabalhas illustrando o planalto fecundo!…
-Desde a foz do Aporé ao Tocantins distante,
-Deus te abençoe, Goyaz, os louros de gigante,
-Apoiando o Brasil na vanguarda do mundo!…

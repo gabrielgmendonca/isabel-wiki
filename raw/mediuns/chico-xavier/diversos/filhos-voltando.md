@@ -2,48 +2,15 @@
 
 **Autor espiritual:** Mensagens familiares de J. R. P. da Silva e J. R. P. Cassiano  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Fiv/FivElucid.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Fiv/Fiv01.htm
 
 ---
 
-##  — Elucidação
-
-Sexto livro da COLEÇÃO JOVENS NO ALÉM, FILHOS VOLTANDO é um tanto diferente dos outros volumes que a compõem.
-E a diferença consiste justamente na principal característica desta obra: a sequência dos recados dos dois Betos, ora extensos e plenos de revelações, ora mais curtos, à feição de bilhetes, traduz um contato do filho desencarnado com os pais, estabelecido ao longo de oito e seis anos, respectivamente para José Roberto Pereira da Silva e José Roberto Pereira Cassiano.
-E, em virtude desse dilatado tempo, através de numerosas mensagens, podemos observar que o relacionamento entre pais e filhos, por via mediúnica, se estabelece, à maneira de frequente correspondência epistolar que se vai tornando, com o passar do tempo, menos cerimoniosa, mais descontraída e alegre.
-
----
-
-##  — Apresentação
-
-Natal de 1981.
-Entardecer.
-Em tranquila estância do interior paulista, acompanhávamos os derradeiros momentos do dia que findava, contemplando através da ramaria de pequeno bosque de pinheiros, as cambiantes do poente, enquanto Vênus — a estrela Vésper — enviava-nos sua plácida claridade, qual pegureiro de luz a ensinar-nos o caminho dos Céus…
-E com as atenções voltadas para este livro, na época em fase final de estruturação, deixamos o pensamento volitar em torno da quietude daquela tarde serena, povoando-nos instintivamente a memória a lembrança de companheiros que já partiram para a Vida Maior, quais os Betos, autores espirituais deste livro, com quem mantivemos, então, longos diálogos, apenas testemunhados pelo vento suave que acariciava a tarde, envolvendo o casario que se aboletava por entre as fraldas das colinas da pequena cidade.
-Ao recordar os valorosos rapazes, que conhecemos através de seus pais e das mensagens que você, leitor amigo, acompanhará nas páginas que se seguem, melhor pudemos compreender a grandeza da Vida e da Misericórdia de Jesus, claramente manifestas nas palavras de nossos queridos jovens, José Roberto Pereira da Silva e José Roberto Pereira Cassiano — os Betos — tão fielmente anotadas pela pena mediúnica de Chico Xavier.
-“Mamãe, a saudade não é uma provação, é um convite de Deus para trabalharmos com mais dedicação pelos que suportam dificuldades maiores que as nossas…” Ou então: “Deus existe e a alma é imortal! A morte é alteração da forma, alteração apenas e nós todos estamos reunidos em Deus, conquanto a separação aparente…”, são frases esparsas que retiramos ao texto psicografado, para que o leitor compreenda a dimensão espiritual e o carinho do recado dos Betos aos pais.
-Por isso mesmo, pais saudosos da perda de filhos diletos, temos plena convicção de que este livro os envolverá na mesma atmosfera de júbilo e bênçãos espirituais que nos cercou e também cremos sinceramente que lhes trará ao Espírito a certeza de que os filhos amados que partiram para o Mundo Espiritual se encontram tão próximos de vocês, como se encontravam quando ainda na Terra.
-Enxuguem as abençoadas lágrimas da saudade, pois Jesus fará o resto. Dar-lhes-á a paz por que tanto anseiam e falar-lhes-á ao coração que os filhos queridos não morreram e sim renasceram para a Vida Imperecível.
-São Bernardo do Campo, 28 de fevereiro de 1982.
-
----
-
-##  — Filhos voltando
-
-Prezado leitor,
-As páginas deste livro acendem a luz da consolação e da alegria nas sombras da saudade de quantos reencontram entes queridos, depois de ausência que se supunha definitiva.
-É que, neste volume despretensioso, surgem as notícias de filhos queridos, voltando ao lar, após a separação pela morte, entretecendo poemas de ternura e reconhecimento, junto aos pais saudosos que os recolhem nos braços, em espírito, e, em seguida, permitem que o reconforto e a esperança, por eles haurido nestas mensagens de paz e amor, se estendam a corações outros que a morte envolveu no sofrimento.
-Filhos voltando!…
-Que eles possam falar-te, igualmente, leitor amigo, da bondade infinita do Senhor e da imortalidade da alma, ampliando-te o júbilo de servir e a compreensão da importância de viver, são os nossos votos.
-Uberaba, 28 de fevereiro de 1982.
-
----
-
-## RIMEIRA PARTE — José Roberto Pereira da Silva (O Beto)
+## PRIMEIRA PARTE
 
 > A respeito da mensagem que acabamos de ler, as notas de rodapé esclarecem nomes e fatos, contudo, alguma coisa mais há que dizer-se:
 
-José Roberto Pereira da Silva nasceu em São Paulo-SP, no dia 6 de agosto de 1953. Filho de Nery Pereira da Silva e Lucy Ianez da Silva, cursava o 1.° ano de Medicina em Mogi das Cruzes, cidade próxima da capital paulista, quando faleceu no acidente envolvendo o trem que, rumo de Mogi, conduzia sobretudo universitários, na manhã de 8 de junho de 1972. Contava, ao desencarnar, 19 anos.
+José Roberto Pereira da Silva nasceu em São Paulo - SP., no dia 6 de agosto de 1953. Filho de Nery Pereira da Silva e Lucy Ianez da Silva, cursava o 1.º ano de Medicina em Mogi das Cruzes, cidade próxima da capital paulista, quando faleceu no acidente envolvendo o trem que, rumo de Mogi, conduzia sobretudo universitários, na manhã de 8 de junho de 1972. Contava, ao desencarnar, 19 anos.
 A primeira mensagem do Beto, como era chamado, foi recebida por Francisco Cândido Xavier, pouco mais de um ano depois, no dia 29 de setembro de 1973.
 Perguntamos a seus pais, Nery e D. Lucy, a respeito do modo pelo qual receberam o recado do filho, através do Chico, do significado da primeira e das demais mensagens psicografadas pelo querido médium.
 Literalmente, assim se expressou D. Lucy:
@@ -54,263 +21,192 @@ Ao voltar de Uberaba, com a mensagem que para mim representava um tesouro, de pr
 Então, nossa vida começou a mudar. A noite do desespero e do sofrimento, difíceis de descrever, começava a dar espaço às primeiras claridades da manhã.
 Evidentemente as viagens a Uberaba agora se intensificavam; o contato com Chico e os recados do Beto davam-nos sempre mais forças, coragem e ânimo para viver.
 Hoje, entendemos que nosso filho nos foi emprestado por Jesus pelo prazo de 19 anos, mas continuamos juntos espiritualmente, mais juntos mesmo do que antes, embora de outra forma. Deus não se afasta de nós, a vida continua e seguiremos para a grande alegria de nosso reencontro.”
-Querida mamãe, peço a sua bênção comigo.
-Dizer o que sinto agora, querida mamãe, é impossível. Quem conseguirá descrever o que se sente entre duas vidas?
-Eu não sei o que fazer nesta hora em que nos revemos assim, através das letras que seu filho vai escrevendo com o coração nos dedos, amparado pelas mãos de amigos e benfeitores que nos protegem.
-O papel aqui me parece um espelho em que meu pensamento se reflete… Entretanto, mãezinha, o papel não retrata as lágrimas. As lágrimas de alegria e de gratidão que elevo a Jesus, agradecendo estes minutos de escrita.
-Receba, porém, todos os melhores sentimentos de seu filho, nestas frases que vou transmitindo às páginas, sem cogitar de saber com exatidão, como vou registrando o que sinto…
-Não chore mais, mãezinha, e peça ao querido papai me auxilie com a fortaleza que ele vai reconstruindo pouco a pouco…
-Desde aquela manhã final de 8 de junho,
-n
-a saudade ficou mesmo entre nós, mas o amor cresceu e cresce cada vez mais. E é no amor que vivemos, porque o amor é a presença de Deus.
-Ajudem-me. Não lastimem mais a partida inesperada do filho que desejaria ter ficado… Entretanto, a lei de Deus sabe mais que os nossos desejos.
-Se pudesse, teria permanecido, permanecido sempre, até que pudéssemos avançar todos juntos no tempo, sem separação e sem morte.
-Não creiam que o sofrimento do adeus não está igualmente aqui… Estamos vivos e quase felizes, mas é preciso lembrar que este quase é a lâmina que a saudade significa em nosso coração firme na fé.
-Estamos contentes e renovados, mas a despedida dói mais, porque o pranto dos que amamos é chuva de aflições sobre nós.
-Lembro, mãezinha querida, o papai trabalhando para entesourar os recursos diante do futuro.
-Lembro-me de que ele me pedia dar toda a atenção aos estudos, enquanto ele sonhava com um hospital em que a Medicina me aguardasse, para cumprir encargos de amor ao pé dos doentes…
-Rogo a ele que não desanime, nem se canse… Além de nossa querida Sandra,
-temos outros corações para auxiliar. Os companheiros que ficaram, que lutam, que estudam e que esperam dias melhores do Amanhã da Vida, contam igualmente conosco.
-Rogo ao papai não esmorecer, porque precisamos continuar… Continuar para valorizar o tempo e os recursos que o Alto nos concedeu…
-Tenho sofrido bastante com as inquietações dos familiares queridos. Não fosse isso, mãezinha, e tudo estaria melhor.
-Não pensem — mas não pensem mesmo — em mim à maneira de alguém que fosse esmagado pelo acidente.
-O que se perdeu foi um retrato — um retrato que um dia, em verdade, deveria desaparecer.
-Eu mesmo estou forte, reanimado, a pedir-lhes para que vivam e lutem pelo bem de nós todos.
-Papai, escute o meu grito. Não morri, não!
-Trabalhe, meu pai, guarde o seu ânimo de homem de bem.
-Não queira morrer para reencontrar-me, porque eu prossigo vivendo para reencontrá-lo, a cada dia, mais encorajado para a luta em favor do bem.
-Não me procure chorando e clamando por mim, no recanto de terra, onde meu retrato ficou arquivado!
-Agradeço o seu carinho, meu querido pai, suas preces e suas manifestações de amor, e peço a Deus lhe recompense a abnegação, mas não procure por seu filho a pedir com tanta dor para que a nossa dor necessária não exista.
-O tempo com a bênção de Deus nos ajudará. Rogo-lhe viver e viver criando felicidade e progresso para nós todos.
-O trem de Mogi, no dia 8 de junho do ano passado, não trouxe para cá os rapazes todos.
-O senhor queria que eu ficasse aí para realizar os seus ideais, no entanto, eu não estou morto, meu pai! Estou vivo! E trabalharei com as suas mãos.
-Recordo as suas palavras, lembrando os dias de sua infância. Você queria seu filho num hospital para atender às crianças necessitadas e auxiliar aos enfermos desvalidos, sem maiores recursos… E quem diz que não vou servir?
-Agora, conheço mais profundamente a nossa Gruta de Maquiné das conversações e até o Padre João de Santo Antônio,
-que nossa família sempre honrou com abençoada devoção, me veio ver e abraçar em nome do carinho de meus antepassados, aqueles mesmos, papai, que puseram no seu peito de missionário do bem o coração generoso que o senhor traz na alma.
-Vovô Ianez
-me acolheu logo que me vi necessitado de apoio.
-Digo assim, porque depois de cair como se houvesse sorvido um tranquilizante violento para dormir, apenas dormi pesadamente…
-Sonhava a me ver no vagão, brincando com os amigos e comentando as alegrias que projetávamos para as férias próximas… Como que prosseguia, a dormir, na viagem que parecia não terminar, até que as minhas impressões se transformaram num pesadelo, do qual acordei num leito de tranquila enfermaria, com uma faixa a me resguardar a cabeça.
-Despertei, sentindo a dor, e imaginei que fora acidentado, sem a certeza disso.
-Remédios vieram de mãos amigas e dormi de novo para depois acordar com mais calma…
-Entretanto, aí, foi a nossa casa a se revelar por dentro de mim.
-O senhor e a mamãe, chorando e clamando, sem que eu nada pudesse responder…
-Parentes nossos vieram de modo surpreendente em meu favor, e vou indo, pouco a pouco, retomando a vida.
-O que sucedeu realmente ainda não sei por detalhes. Estou à feição de alguém que houvesse sofrido longo processo de anestesia, sem memória muito segura para recordar minudências.
-
-Mas vovô Ianez e o vovô Leite,
-irmãs de caridade cristã que foram e são amigas de minha avó desde os dias da devoção a Santo Antônio, me auxiliaram com carinho e bênção, dando-me novas forças.
-Rogo ao senhor, papai — a você meu pai e meu amigo — fortalecer mamãe e Sandrinha, com o seu esforço e com a sua coragem.
-Deus não se afasta de nós, a vida continua e estamos juntos, embora de outra forma.
-Lembre-se com mamãe de que desde os primeiros dias da escola, a ideia de um trem de ferro estava comigo e de que a preocupação com o tempo me obrigava a estar marcando datas e mais datas.
-Algo em mim falava que os dias para mim seriam curtos na Terra e que um comboio estava me aguardando para a viagem final, mas final de linha, meu querido papai, porque os trilhos continuam…
-Para mim é como se o trem de Mogi tivesse entrado num túnel… De um lado ficaram vocês, os meus entes amados e de outro estou eu, continuando em nova forma… Peço-lhes mais uma vez para que me ajudem.
-A saudade deve ser para nós uma prece de esperança e com essa prece, trabalhando no bem aos nossos irmãos do caminho, seguimos para a luz do reencontro…
-Mãezinha, não chore mais. Ampare-me com a sua fé.
-Rogo aos meus queridos avós para me auxiliarem. Ano passado foi terrível para mim, o seis de agosto!
-Se puderem, no próximo aniversário, façamos a festa de nossa comunhão espiritual, ofertando um bolo às crianças reunidas em lar de Jesus, sem o lar terrestre que não puderam ter. Estarei com vocês e vamos encontrar muita alegria.
-Não deixem que a nossa casa se transforme em recanto de sombras e lágrimas.
-A vida é tesouro de Deus e todos estamos ricos de trabalho e esperança, fé e conhecimento.
-Agora, é o ponto final que me pedem. Não posso escrever mais. Minhas forças não estão muito seguras. Estou como quem cumpriu uma prova difícil — a de escrever quase sem possibilidade para fazer isto.
-Querido papai, querida mãezinha, querida Sandrinha, meus queridos avós e meus companheiros queridos, aqui, com toda a minha confiança, aquele abraço de meu coração reconhecido.
-Querida mãezinha, Deus abençoe a nós todos.
-Estamos bem. Lutando por aprender de modo a podermos realizar o melhor.
-Não se aflija, o clima de trabalho se desdobra. As tarefas são imensas.
-É como se a gente obtivesse um diploma, a fim de encontrar o mundo pela frente. Habituarmo-nos a servir agora é uma necessidade a que não se consegue fugir.
-Ajude a seu filho, com a sua paz confiante.
-Compreendemos. A fome de notícias entre nós é semelhante àquela sede de cartas e palavras, quando, aí na Terra, nos achamos distantes uns dos outros.
-Mas, creia, mãezinha, pelos pensamentos, o nosso diálogo está sempre mais ativo e mais profundo.
-Acalme os nossos entes queridos e estejamos tranquilos.
-Nossos amigos Toledo e Fernando
-estão aqui conosco e agradecem o amor das queridas mãezinhas aqui presentes. Nosso caro Toledo roga ao pai o auxilie a sustentar a querida mãezinha sempre firme e sempre forte na fé.
-Por hoje é unicamente este bilhete simples o que posso escrever.
-Receba, querida mãezinha, com todos os nossos corações queridos, todo amor e todo reconhecimento de seu filho, sempre mais seu,
-Querida mamãe, como sempre, seu filho pede a sua bênção.
-Mãezinha, nós sabemos. A saudade é um tormento, uma doença, mas precisamos suportá-la, transformando-a em serviço e esperança.
-Não se aflija, se nossa palavra demora. Palavra é som e o pensamento é luz. E a luz chega sempre antes. Pelos pensamentos estamos mais unidos do que nunca.
-Às vezes, queremos escrever, mas precisamos coibir esses desejos para não ferir companheiros que tanto desejariam expressar-se e que ainda não dispõem de meios.
-Fique tranquila. Estou bem.
-O túnel para Mogi me trouxe para outra faculdade e estou estudando com muita atenção. Quero aprender a curar os corpos e as almas doentes.
-Auxilie a seu filho com a sua coragem. Estou igualmente cooperando pela paz dos nossos, especialmente pela tranquilidade da irmãzinha.
-A família continua e o amor nunca morre. Esteja certa de que ouço todos os seus pedidos.
-Seu Beto é pobre ainda, mas vai trabalhar muito para merecer ajudar ao seu coração e ao coração de meu pai e de todos os nossos.
-Desejo ao seu carinho um Céu de estrelas sem nuvens a esconder-lhes a luz e receba o abraço de muito amor e de muita gratidão do seu filho.
-Querida mãezinha, peço a sua bênção.
-É só um bilhete. Agradeço o carinho destes dias, como sempre.
-Estou aqui, ao seu lado, confirmando presença e amor. A nossa união é inalterável.
-Peço-lhe, não fique triste, nem desanimada em momento algum.
-Seu filho está agindo e estudando. Criando forças novas. Trabalharei. Quero dar muita alegria ao seu coração e a todos os corações que amamos.
-Mamãe, a vida é uma herança de Deus. Herança eterna. Confiemos. Não há morte. Repetiremos isso até que todos se conscientizem das realidades do espírito.
-Prossigamos para a frente, buscando Jesus, embora sentindo Jesus em nós, pelas lições do Senhor que nos iluminam a estrada.
-Mãe querida, em seu carinho, o reconhecimento com todo o amor de seu filho,
-Mãe querida, peço a sua bênção. Ao mesmo tempo, rogo a Deus nos proteja a todos.
-Estou muito grato aos Mentores Espirituais pela concessão: escrever aos pais queridos e comentar os ensinamentos novos, todos eles bordados de saudade.
-Falo de saudade, mãezinha, mas essa é uma inquilina permanente do coração, convertendo-nos em Espíritos transformados para sempre em filhos conscientes de Deus.
-Não nos imaginem distantes — nós os filhos que precederam pais bem-amados na mudança para a Vida Maior. Estamos unidos, associados na mesma esperança e no mesmo ideal de vencer.
-Compreendo, tantos somos, que mais vale afastar de uma só vez a ideia de que seja outro que fala.
-Sou eu mesmo, Beto, o companheiro do túnel que varou, às pressas, as fronteiras que nos separam uma vida da outra vida. E venho, mamãe, pedir-lhe calma e bom-ânimo.
-As nossas notícias reconfortam, mas suscitam em casa novas perspectivas de notícias outras.
-Parece que, entre dois mundos, cada mensagem ou frase de intercâmbio entre nós lembra uma sede não extinta. Começamos a sorver a água pura da certeza de nossa sobrevivência e de nosso amor, entretanto, a impermanência das impressões de natureza física nos deixa a ideia de que o líquido não chegou a retirar a febre da saudade de nosso campo íntimo.
-Ainda assim, mamãe, não temos outro caminho para sustentar-nos, ante a fome do reencontro.
-Aqui nos ensinam que a Bondade de Deus nos concede essa insatisfação para que, ao buscar-nos uns aos outros, estejamos seguindo à frente, conduzindo outros que sem essa ou aquela migalha de amor, de nossa parte, talvez desfalecessem.
-Aqui também nós somos impelidos por essa força à contenção de nossos impulsos inferiores para maior devotamento ao trabalho e, consequentemente, ao progresso.
-Somos lembrados no mundo por entre nuvens de lágrimas e recordamos os nossos entes amados com a neblina do pranto a lavar-nos os corações.
-Isso significa que nos cabe enorme esforço para a reintegração total no amor-presença que se define por fator máximo de alegria em nossas vidas.
-Venho rogar igualmente ao papai amigo e devotado para que se reconstitua plenamente na fé.
-Ouço nos recessos da alma o que ele me diz sem articular palavras e o que ele me escreve em tudo aquilo que não fica escrito; no entanto, peço a ele para nos encorajarmos à procura da felicidade a que aspiramos.
-
-Às vezes, mãezinha, vejo-o a mentalizar aquela viagem final de seu filho, quando no Plano Físico, e noto a perfeição de detalhes com que ele procura reconstruir mentalmente o túnel que me assinalou um ponto importante na Vida Espiritual.
-No entanto, agora penso, mamãe, que há sempre um túnel para quem vive na Terra. É preciso nos decidamos a encontrar os que estão varando os túneis da tristeza e do desânimo, da angústia e da provação, muito mais escuros e mais dolorosos que o túnel da estrada de Mogi.
-Mãezinha, nós, os que regressamos, não somos apenas portadores de notícias que poderiam ser retardadas. Somos braços que acenam a novos caminhos, mãos que esculpem novos mapas de trabalho, vozes de esperança e cartas de renovação.
-Outra vida nos pede preparação, alvoradas novas anunciam novos dias. Todos os que se acham em túneis de abandono e de infortúnio, quantos se instalaram no comboio das provas, sonhando diplomações de cultura e felicidade no Reino Espiritual, são lembrados para essa festa de paz e amor.
-Deus existe e a alma é imortal!
-A morte é alteração da forma, alteração apenas e nós todos estamos reunidos em Deus, conquanto a separação aparente em que as nossas conceituações tradicionais da vida no mundo nos obrigam a adotar provisoriamente.
-Ainda mesmo quando falemos em saudade e lágrimas, expressando-nos da Vida Nova, estamos pedindo coragem e fortaleza àqueles que amamos.
-A sensibilidade nossa pode estar ferida ou as nossas forças dilapidadas, mas, na essência, estamos edificando uma vida melhor, em que a ausência com a certeza do reencontro nos impele a renovar-nos para Deus, trabalhando e servindo cada vez mais.
-Agradeço os pensamentos de paz e amor da nossa querida Sandra. Estamos entrosados na mesma construção.
-Em verdade, não conseguimos suprimir os obstáculos da estrada em que seguimos, lado a lado, suportando cada qual o abençoado fardo de nossas necessidades e aspirações.
-E, nessa bendita comunhão, dar-nos-emos todos as mãos para que a subida se faça menos difícil.
-Digo assim porque toda senda para o Alto é sempre íngreme, prenunciando cansaço e empeços naturais diante da marcha.
-Ao escrever nesta noite, desejo expressar os nossos votos de paz e alegria a todos os corações amigos que nos partilham as orações.
-Nosso real desejo seria o de que todos os pais e mães presentes algo recebessem dos filhos queridos ou de outras criaturas abençoadas, dentre os que se domiciliam aqui; porém, estamos restritos a certas quotas de força.
-Mesmo nessas limitações, temos a satisfação de transmitir algumas notícias dos amigos e companheiros presentes aos amados, aqui conosco.
-Nosso amigo José Roberto Pereira Cassiano, o nosso querido Shabi, abraça os pais: em companhia da irmã Dosolina que beija a nossa querida irmã D. Maura.
-Nosso irmão Alfredo Pessoa, com o nosso amigo Tato, recomenda seja dito à sua filha, nossa irmã D. Dirce, que ele e outros amigos estão colaborando em auxílio aos irmãos Severino e Olavo.
-A jovem Mafalda beija as mãos da sua querida mãezinha, nossa irmã Marinetti,
-agradecendo-lhe a conformação e o valor com que soube aceitar a prova da separação violenta que as distanciou uma da outra entre o campo terrestre e a Vida Espiritual.
-Nosso irmão, de nome Ério,
-abraça os pais queridos e notifica que prossegue em tratamento espiritual adequado.
-Entre os nossos queridos Toledos, Carlos, o irmão de nossas faixas de trabalho, não só beija a fronte dos amigos queridos que lhes foram pai e mãe no mundo, mas abraça também aos irmãos Marília e Antônio Carlos, informando ao nosso amigo Carlos Eduardo, o querido pai e companheiro de sempre, que o seu amigo Dr. Carlos Mesquita está sob atenciosos cuidados de benfeitores da Espiritualidade Maior e comunica, ainda, aos pais queridos, nossos irmãos Toledo e D. Olga, que não se despreocupará do auxílio solicitado em benefício do nosso amigo Flávio Mindlin e da querida irmã Heloísa.
-Nossa irmã Pia Maciel
-volve ao convívio das filhas queridas e pede ao genro-filho paciência e fortaleza, na certeza de que as lutas presentes passarão, deixando precioso saldo de paz.
-Nosso amigo Durval Tricta beija a filha querida, nossa irmã Dinah, e pede seja dito à esposa dele que, em companhia de médicos amigos, está cogitando de auxiliar-lhe a saúde no lar de Sorocaba.
-E outros e mais outros dedicam lembranças afetuosas a todos os presentes.
-Por fim, quero dizer que o nosso estimado Augusto Cezar está conosco, auxiliando-me a grafar esta carta, ao mesmo tempo que envolve nossa querida irmã Yolanda,
-que ele considera seu anjo protetor, nas mais puras vibrações de reconhecimento e carinho.
-Mãezinha Lucy, não se deixe dominar por tristeza alguma. As lutas são exames de habilitação para cada um de nós e, com paciência, transformaremos todas as dores em alegrias na química da vida.
-Os dias se desdobram apressados, sofrimentos são unicamente pequenas pedras que o tempo nos auxilia a transformar em joias de alto preço, nos tesouros da Eternidade.
-
-Estamos aqui estudando e trabalhando, a fim de honrar os nossos pais queridos.
-Aí se fala em muitos votos à memória dos mortos que não morreram, pois aqui, igualmente, renovamos compromissos de trabalho e aperfeiçoamento, a fim de aguardar o reencontro nosso com os valores diferentes que possamos acumular em nós para recebê-los um dia, com o respeito e a gratidão que lhes devemos.
-Mãezinha, abrace por mim aos nossos — a todos os nossos, especialmente aqueles que dividem conosco as inquietações e alegrias diárias.
-Peça ao papai por mim, para não desanimar em momento algum e que será melhor recordar trabalhando que recordar sofrendo.
-A ele e à nossa Sandra, com os nossos corações queridos, a minha ternura iluminada de preces nas quais peço a Deus nos abençoe e nos fortaleça, ao mesmo tempo que rogo ao seu carinho de mãe receber um beijo de muito amor e de muita saudade, com tudo o que seu filho possa ser e sentir de melhor.
-Sempre seu filho em seu coração, sempre seu
-Meu pai, querida mãezinha, peço-lhes a bênção.
-Estamos reconhecidos com a festa. Um bolo de aniversário, baseado nas alegrias da prece!
-Não sei o que dizer. A palavra parou na garganta e as melhores letras que eu desejava escrever parecem encerradas dentro do lápis. Trago-lhes, desse modo, pais queridos, todo o meu coração.
-A nossa solenidade do natalício foi um acontecimento espiritual de muita significação. Uma comemoração para as comemorações do futuro. As alegrias do lar trazidas para outros lares, especialmente aqueles lares em que outros filhos e outros pais estão lutando pela sobrevivência.
-Do lado terrestre, os amigos queridos, com tantos companheiros abençoados e tantos corações maternos, a se desfazerem na felicidade de fazer os outros felizes.
-De nosso lado, é natural lhes diga que o nosso amigo Augusto foi maestro da orquestração de paz e de esperança que nos iluminou os corações. Wady, Carlos Toledo, o Jair Presente, o Ério, a Volquimar, as irmãs Maria Helena e Maria Célia, o Nasser, o Shabi, o Henrique Gregóris,
-e tantos outros da união com Jesus nos rejubilávamos pela oportunidade de estarmos todos juntos.
-E pedi a professores, especialmente meus, em Medicina, cooperassem conosco, trazendo aos nossos irmãos visitados, recursos magnéticos de saúde, nos quais, com as fatias do bolo, transmitissem saúde e forças novas aos nossos irmãos doentes, notadamente as crianças.
-E eu, pobre rapaz do natal feliz com a irmãzinha Sandra em meu coração, pedi a Deus os recompense a todos. E agradeci por tudo, porquanto, nestas horas da Terra em que os noticiários falam de guerras e ódios, de calamidade e lutas, nós, debaixo daquele céu azul, louvávamos a Deus, cantando a esperança num mundo melhor.
-Agradeço por todas as crianças e por todas as mães, por todos os pais e por todos os irmãos que a festa beneficiou e peço a Jesus coloque nas mãos de nossos benfeitores de São Paulo e de Santa Isabel, como também de outros recantos ali presentes, novos tesouros de amor para a exaltação do bem, nas estrelas invisíveis da caridade.
-Papai e mãezinha querida, muito grato à lembrança. Meus avós Francisco e Ianez
-estavam conosco e ali todos éramos corações unidos em Jesus, sem qualquer separação, entre os mais jovens e os mais altamente amadurecidos na experiência.
-Desejava escrever um poema em que lhes agradecesse tanto carinho e tanto amor, mas escrevo no coração a prece de agradecimento, na qual peço a Deus os faça felizes.
-Creiam. Quando atravessarem o túnel da existência humana, farei o possível para exprimir-lhes a todos a minha gratidão.
-Papai e mamãe querida, com os nossos amigos e com as nossas irmãs transformados hoje em nossa família maior, recebam o abraço em forma de coração do filho e amigo muito reconhecido.
-Mãezinha Lucy, Deus nos proteja e abençoe.
-Um cartão no papel. Só isto. Mas o coração está em cada letra, desejando-lhe um aniversário muito feliz — um aniversário de estrela maternal ao nascer no céu de nossas vidas e outro aniversário de união feliz com o papai.
-Felicito a ambos.
-Agradeço as dádivas de seu amor às crianças, recordando seu filho. Isso me fala profundamente ao coração. Deus a recompense. Peça por mim à nossa querida Sandra muita paciência e serenidade.
-Tudo encontra a paz, quando esperamos por Deus. Nosso amigo Shabi transmite um beijo de muito carinho aos pais e não posso omitir uma solicitação. O jovem César Araújo Maffra nos solicita registrar aqui um abraço aos queridos pais presentes.
-Está em nossa reunião, mas ainda não se sente bastante forte para escrever sem lágrimas — lágrimas de alegria e reconhecimento aos pais a quem ama tanto.
-Mãezinha Lucy, receba mais um abraço. Um abraço do tamanho do amor de seu filho que lhe beija carinhosamente as mãos.
-Sempre seu
-Querido papai Nery, minha querida mamãe, querida Sandra, estou aqui, recordando a bênção de casa e pedindo a Deus que nos proteja e abençoe a todos, sem me esquecer dos familiares distantes.
-Estou emocionado com esse carinho com que me rememoram os vinte e cinco anos de ligação com a vida nova.
-Recolhendo tanto amor, posso dizer-lhes que o meu reconhecimento está sendo escrito com letras em forma de lágrimas. Lágrimas de felicidade, porque Deus nos facultou o reencontro.
-
-A morte do corpo não conseguiu deslustrar-nos a fé. As dificuldades para o relacionamento constante, aliás, nos acalentaram a esperança de modo diferente.
-Se provações aparecem, estamos em dia com as orações de confiança em Deus, sabendo que terminarão em tempo breve;
-se obstáculos repontam do caminho, lembramo-nos para logo de que prosseguimos juntos, trabalhando uns pelos outros;
-nas horas de insegurança, recorremos à inspiração para resolver os mais intrincados problemas com as sugestões do Mais Alto;
-e, sobretudo, quando surpresas dolorosas se destacam no cotidiano, a certeza de que não nos separamos nos dá forças novas, auxiliando-nos a suportar com paciência, qualquer tipo de violência que se nos faça.
-Creiam que sou mais feliz agora em que o amor é uma luz permanente a clarear-nos os corações por dentro, para sabermos que Jesus não nos abandona.
-Mãezinha, agradeço ao seu carinho, à bondade de nossa irmã Dona Maura e de todos os outros corações amigos que ofereceram hoje tanto carinho e tantas bênçãos em meu nome. Aquele bolo da fraternidade, numa festa sob os céus da tarde, parecia-me o meu próprio coração repartido com as crianças que são hoje mais nossas. Tantas dádivas recebi.
-E assim me expresso, porque em cada sorriso de nossos pequeninos e de nossos irmãos em provas, se me afigurava estar recebendo alimento espiritual que me nutria e me nutre o sentimento para a aquisição de nova fé na vida.
-Muito grato, papai, por suas cartas, por suas felicitações escritas em pranto, no recanto íntimo de nossas meditações.
-Sandra, agradeço ao seu coração de irmã o entendimento com que aderiu às nossas lembranças. Irmãs e benfeitoras queridas que auxiliaram minha mãe a realizar estes votos pelo filho que a morte não aniquilou, muito obrigado! Deus as recompensará com bênçãos renovadas de paz e alegria, luz e amor.
-E aqui, diante de todos os amigos, quero dizer que não mereci tanto brilho de ternura e tanto testemunho de abnegação, transferindo a todos os irmãos e a todas as irmãs aqui reunidos, as doações de generosidade que me foram feitas.
-Elas pertencem a vocês todos, os que acreditam nas promessas de Jesus, ao anunciar-nos que a vida seria amor e proteção de Deus para sempre. Pertencem a todos os corações que se congregam aqui nesta noite, na certeza de que Deus não nos separaria uns dos outros e que o amor vence a morte, para ser perdão e entendimento, paz e luz.
-Mãezinha Lucy e meu caro papai, estou reconhecido. Conosco se encontram amigos queridos outros que, de nossa Vida Nova, acorrem a participar de nossas preces de gratidão e de esperança.
-Shabi, o amigo maravilhoso nos trouxe poemas de amizade e carinho, cujas vibrações se derramam em nosso favor em todo o ambiente; Rubens Lázaro e o irmão José de Assis Toledo estão em nossa companhia, abraçando a nossa querida companheira Dona Zininha;
-o irmão Luiz Pitti abraça a nossa irmã Dona Neuza;
-o Nasser afaga o coração da mãezinha Dona Shirley
-e pede para que não estranhe a sua ausência de cartas que não significa ausência de amor, e amigos diversos se reúnem conosco neste mesmo ágape de felicidade espiritual.
-No conjunto daqueles irmãos que ainda não conhecia pessoalmente, destaco a jovem Elionete que, em companhia do seu pai Edvaldo França, nos solicita sejam transmitidas carinhosas lembranças à sua mãezinha Damiana
-e cito esta ocorrência para dizer, querida mamãe, que não temos aqui apenas os nossos amigos íntimos e sim companheiros muitos que agradecem a Deus estes minutos de paz que desfrutamos.
-Querida Sandra, creia, seu irmão não a esquece. Tenho ouvido suas lembranças e petições. Deus concederá a você a felicidade que o seu generoso coração merece.
-Não se entristeça por dificuldades de compreensão no campo dos seus ideais de menina e moça. Esperemos. O tempo exato das nossas realizações, aquele tempo em que os nossos sonhos se realizam naturalmente, é o tempo de Deus. Aguardemos a vontade de Deus, trabalhando, estudando, servindo e melhorando-nos sempre.
-Tenho o coração como que a se desfazer na emotividade com que escrevo. Pais queridos, querida irmã, amados de meu coração, irmãs e irmãos que me doaram tanto amor, peçam a Deus para que eu possa valorizar esses tesouros que me confiam e, beijando-lhes as mãos, sou o filho, irmão, amigo, companheiro e servidor sempre reconhecido que pede a Jesus nos conserve a todos nas bênçãos de seu amor e de sua paz.
-Querida mãezinha Lucy, peço a Deus nos abençoe. O seu pensamento é um ímã e não posso esquivar-me.
-Sei que a senhora tem estado doente e um tanto mais fatigada. Mas não se sinta sozinha no tratamento quase silencioso. Amigos espirituais estão agindo em seu favor e seu Beto, embora ainda tão pobre de recursos, já consegue auxiliar um tanto. Deus abençoará esse tanto que é tão pouco, a fim de que a migalha de minha singela cooperação se transforme em concurso substancial de verdade.
-Felizmente, mãezinha, o seu cansaço é de trabalho e cansaço dessa natureza facilmente se converte em renovação de forças. Não julguem a senhora e meu pai Nery que eu esteja ausente das letras voluntariamente.
-Acontece que assumimos o compromisso de colaborar com outros comunicantes, para que se matriculem por dentro de nosso intercâmbio, a fim de que não sejamos nós os únicos favorecidos e o nosso grupo vai esperando vez…
-Estou sempre por perto… Esse por perto é o fio da oração no poste da saudade. Basta um toque de campainha da prece sem palavras e o fio vibra transmitindo a mensagem.
-Peço dizer à nossa querida Ângela que não a esqueço e formulo votos para que ela prossiga esperando o melhor que exista no mundo e na vida… Namoro é aproximação e aproximação é vida permutada. Se não fiquei aí para casar, estou aqui para ser útil e amar sempre.
-Nossa querida Sandra vai muito bem e rogo a ela continue sendo a irmã sempre dedicada que ficou em lugar duplo, o dela e o meu, junto dos queridos pais e dos avós sempre queridos.
-Mãezinha Lucy, o nosso amigo Shabi está presente e se faz lembrado aos genitores cada vez mais queridos.
-O Nasser igualmente está conosco e trabalhando ativamente em auxílio aos familiares.
-Peço ao seu carinho de mãe e a meu pai Nery não permitirem que a amargura das lembranças tristes fique em nosso campo de pensamentos por nuvens de frio, congelando esperanças e frustrando-nos a alegria de pertencermos uns aos outros.
-Tudo segue bem, porque temos Deus em nossos corações a guiar-nos para dias melhores.
-Desejando querida mãezinha Lucy, que a sua saúde esteja em pleno refazimento, abraça o papai e deixa-lhe um beijo de filho sempre reconhecido o seu, sempre seu
-Querida mãezinha Lucy, receba com meu pai a minha solicitação de bênção. Tenho os dois, unidos à nossa querida Sandra e aos nossos familiares queridos, em minhas recordações mais íntimas.
-Oito de junho! Oh! as saudades do filho que não desaparecem, os castelos que se transferiram de lugar e as novas esperanças no coração! É assim que me apresento para celebrar com os pais queridos e com tantos amigos dedicados o sétimo ano de transformação.
-Mãezinha querida, com as nossas amigas D. Maura e Dona Shirley e junto de outras afeições, acompanhei as suas emoções, rememorando a minha partida involuntária.
-Sei que o seu coração de mãe adotou o melhor processo de festejar. Compreendo que esse festejar é lembrar sofrendo, mas Jesus nos deu outras estradas para acompanhá-lo.
-A senhora, mamãe, com meu pai quiseram brindar-me com o amor, no amor que distribuíram e estão distribuindo com aqueles irmãos nossos do caminho terrestre…
-Quanto vale a roupa que subtrai a nudez de uma criança ou o cobertor que agasalha um doente desvalido, qual o preço de um bolo aos que sonham com a mesa farta e qual a importância em que se taxa uma dádiva em benefício de um amigo ao desamparo, sinceramente não sei… Mas para mim que recebi tudo isso, na pessoa dos que foram beneficiados, esses tesouros não encontram avaliação…
-É por isso que as lágrimas de alegria hoje me sobem do coração para os olhos no objetivo de agradecer.
-Fui eu, mamãe, quem na realidade recolheu tudo o que doaram em memória destes nossos sete anos de modificação.
-O comboio de Mogi não me afastou de casa. Continuamos sempre mais unidos e a prova disso é a nossa comemoração íntima de hoje.
-Aqui se encontram em nossa companhia os irmãos que Deus me concedeu nos tempos últimos.
-Nosso querido Shabi me reanima, indicando-me as realizações da frente, o nosso Nasser me abraça, o nosso Sidney
-
-n
-me dirige palavras de paz e esperança, além de outros muitos companheiros que nos visitam e eu, em meio de tudo isso, me sinto cada vez mais rico de amor, na pobreza que me caracteriza, mas sempre a enriquecer-me do carinho que meus pais queridos, a querida irmã e os avós queridos me ofertam, qual se eu fosse um privilegiado de Deus.
-Nesse sentido, me sinto realmente assim; porque acolho todos esses talentos de luz por empréstimos do Céu que me induzem a trabalhar e aprender a servir sempre mais. Estou feliz e agradeço a todos; Deus, em sua Bondade Infinita, retribuirá com estrelas de felicidade essas bênçãos com que me iluminam os passos.
-Responderei, sob o amparo de Jesus, com trabalho. O Senhor me concederá essa felicidade de agir para o bem, a única forma de que disponho para assinalar a minha gratidão.
-Nosso amigo Carlos Alberto de Toledo faz questão de mostrar-me o seu afeto e tento uni-lo à corrente de meus pensamentos de alegria e gratidão.
-Jesus acoberte a todos os amigos queridos em sua proteção, estruturada de paz e amor.
-Querida mãezinha Lucy, a felicidade mora em lugar desconhecido em que não encontra meios de expressão, porque debalde a procuro para falar por mim ao seu carinho, mas, bem no íntimo de seu maternal coração, a sua ternura saberá quanto seu filho está contente.
-A todos, todos os nossos afetos, os meus agradecimentos e para você, querida mamãe, juntamente do papai e de nossa Sandra Maria, todo o carinho iluminado de preces pela felicidade de todos, do seu filho, sempre o seu companheiro de todas as horas, sempre o seu,
-Queridos pais, abençoem-me. Deus nos proteja a todos.
-Mãezinha Lucy, meu pai Nery e querida Sandra, estou muito grato pela festa do aniversário que celebraram, recordando a minha presença singela.
-Estou feliz e reconhecido. As roupas com que vestiram nossos companheiros necessitados, especialmente as nossas queridas crianças, são trajes para mim mesmo pelo conforto que me ofertam e o bolo precioso dedicado aos nossos pequeninos é um tesouro de bênçãos que me alimenta de novas energias para a vida espiritual.
-Agradeço comovido aos pais queridos e à querida irmãzinha, extensivamente a todos os nossos amigos que nos compartilharam da alegria de hoje, antecipando a nossa segunda-feira próxima e peço a Jesus a todos recompense e a todos nos abençoe.
-Muito carinho do filho sempre grato e irmão reconhecido.
-Querida mãezinha Lucy, peço-lhe me abençoe, mamãe.
-A página é para desejar-lhe um feliz Dia das Mães, ao lado de meu pai, da Sandra, da vovó e de todos os nossos. Com essas felicitações, venho rogar-lhe revigorar-se com a medicação adequada.
-Noto-a um tanto fatigada e precisamos restaurar-lhe as energias. A vovó, igualmente, vem sendo objeto de nossa melhor atenção no sentido de que se lhe recuperem as forças orgânicas.
-Peço dizer ao papai Nery que venho acompanhando as notas e observações que ele está alinhando para destacar o nosso encontro e a minha própria sobrevivência.
-Tudo bem. Façamos o melhor ao nosso alcance, compreendendo que semear a verdade é plantar alegria e confiança nos caminhos difíceis que as criaturas humanas estão atravessando em nossos tempos.
-Envio a ele e à nossa querida Sandra, à vovó
-e a todos os nossos amigos, minha palavra humilde de paz e de esperança. Para o seu querido coração, mãezinha Lucy, deixo neste papel todo o carinho e todo o reconhecimento de seu filho.
-Querida Mãezinha Lucy, abençoe-me.
-Estou ouvindo os seus pensamentos a me falarem alto pelas ondas do amor materno. “É um bilhete só, meu filho” diz você sem palavras.
-Compreendo. As saudades são conjuntos de sombras a vagarem por dentro de nós, tangidas por forças que ainda não compreendemos e que nos envolvem todo o ser.
-Não me supunha indiferente a essa carência afetiva a que fomos arrojados em nossa casa.
-Foi com dificuldade que prossegui meus estudos na Vida Espiritual e que continuo a sustentá-lo no sentido de me fazer mais útil aos benfeitores que se dedicam à cura dos doentes, nossos irmãos.
-Compreendo, porém, que será trabalhando que conseguirei abrir caminhos para a construção do nosso próprio futuro e, desse modo, prossigo em minha demanda: continuar vinculado à família querida na Terra e empenhar-me às tarefas da Espiritualidade, entre as quais vivo sempre transitando e, ao mesmo tempo, partilhando as alegrias e as dificuldades, as realizações e as bênçãos de nosso grupo sempre querido.
-Amigos nossos estão auxiliando ao papai Nery na organização do livro que ele vem formando e estamos satisfeitos.
-Envio muito carinho a nossa querida Sandra. E agradeço ao seu amor, mãezinha Lucy, pelas roupas agasalhantes que faz com os seus próprios esforços para vestir as crianças menos afortunadas, em meu nome. Muito grato.
-Vou terminar, porque o relógio comanda aí e aqui. Toda a gratidão aos familiares e aos amigos, pedindo-lhes receber com o papai Nery um beijo de muita saudade e de muita esperança da filho reconhecido.
-Querida Mãezinha Lucy, abençoe-me.
-Compreendo que estamos quitados na contabilidade das notícias, porque pelas páginas do papai Nery e por nossos entendimentos gerais, sabem ambos que a nossa união prossegue indissolúvel.
-Ainda assim, querida mãezinha Lucy, estou registrando os seus desejos de obter algumas palavras de seu filho, quanto ao casamento de nossa querida Sandra e solicitei permissão para endereçar ao seu carinho a presente mensagem de carinhosa gratidão.
-Estou muito reconhecido por todo o seu ideal e disposição de memorizar-me o 6 de agosto. Fiquei satisfeito com o bolo e não tenha dúvida de que também usufruí a minha parte no lar de nossos irmãos necessitados ou mais necessitados que nós mesmos, para onde a sua bondade nos dirigiu.
-Agora, aguardemos o setembro vindouro, no qual desejo aos nossos queridos Sandra e Fábio
-muitas felicidades. Um lar é sempre uma bênção de Deus e espero que a nossa Sandrinha saberá imitar-lhe os exemplos de esposa e mãe, sempre com a luz do sacrifício por nós, iluminando-nos os caminhos.
-Felicitações aos irmãos queridos no empreendimento a que se confiam e sigamos a nossa viagem nos continentes da experiência humana, procurando constantemente o melhor para cada um de nós, dentro dos critérios cristãos que nos inspiram e governam a vida.
-Querida mãezinha Lucy, esteja certa de que muito me sensibilizei ao notar-lhe a ideia de vir até aqui, na firme confiança de encontrar-nos, reencontrando-nos.
-Deus a recompense pelo amor que nos dedica e receba com o papai Nery e todos os entes que amamos sob o teto abençoado em que a Bondade de Deus nos colocou, o coração em forma de abraço do filho agradecido.
+1 Querida mamãe, peço a sua bênção comigo.
+2 Dizer o que sinto agora, querida mamãe, é impossível. Quem conseguirá descrever o que se sente entre duas vidas?
+3 Eu não sei o que fazer nesta hora em que nos revemos assim, através das letras que seu filho vai escrevendo com o coração nos dedos, amparado pelas mãos de amigos e benfeitores que nos protegem.
+4 O papel aqui me parece um espelho em que meu pensamento se reflete… Entretanto, mãezinha, o papel não retrata as lágrimas. As lágrimas de alegria e de gratidão que elevo a Jesus, agradecendo estes minutos de escrita.
+5 Receba, porém, todos os melhores sentimentos de seu filho, nestas frases que vou transmitindo às páginas, sem cogitar de saber com exatidão, como vou registrando o que sinto…
+6 Não chore mais, mãezinha, e peça ao querido papai me auxilie com a fortaleza que ele vai reconstruindo pouco a pouco…
+7 Desde aquela manhã final de 8 de junho, n a saudade ficou mesmo entre nós, mas o amor cresceu e cresce cada vez mais. E é no amor que vivemos, porque o amor é a presença de Deus.
+8 Ajudem-me. Não lastimem mais a partida inesperada do filho que desejaria ter ficado… Entretanto, a lei de Deus sabe mais que os nossos desejos. 9 Se pudesse, teria permanecido, permanecido sempre, até que pudéssemos avançar todos juntos no tempo, sem separação e sem morte.
+10 Não creiam que o sofrimento do adeus não está igualmente aqui… Estamos vivos e quase felizes, mas é preciso lembrar que este quase é a lâmina que a saudade significa em nosso coração firme na fé.
+11 Estamos contentes e renovados, mas a despedida dói mais, porque o pranto dos que amamos é chuva de aflições sobre nós.
+12 Lembro, mãezinha querida, o papai trabalhando para entesourar os recursos diante do futuro.
+13 Lembro-me de que ele me pedia dar toda a atenção aos estudos, enquanto ele sonhava com um hospital em que a Medicina me aguardasse, para cumprir encargos de amor ao pé dos doentes…
+14 Rogo a ele que não desanime, nem se canse… Além de nossa querida Sandra, n temos outros corações para auxiliar. Os companheiros que ficaram, que lutam, que estudam e que esperam dias melhores do Amanhã da Vida, contam igualmente conosco.
+15 Rogo ao papai não esmorecer, porque precisamos continuar… Continuar para valorizar o tempo e os recursos que o Alto nos concedeu…
+16 Tenho sofrido bastante com as inquietações dos familiares queridos. Não fosse isso, mãezinha, e tudo estaria melhor.
+17 Não pensem — mas não pensem mesmo — em mim à maneira de alguém que fosse esmagado pelo acidente. 18 O que se perdeu foi um retrato — um retrato que um dia, em verdade, deveria desaparecer. 19 Eu mesmo estou forte, reanimado, a pedir-lhes para que vivam e lutem pelo bem de nós todos.
+20 Papai, escute o meu grito. Não morri, não!
+21 Trabalhe, meu pai, guarde o seu ânimo de homem de bem. 22 Não queira morrer para reencontrar-me, porque eu prossigo vivendo para reencontrá-lo, a cada dia, mais encorajado para a luta em favor do bem.
+23 Não me procure chorando e clamando por mim, no recanto de terra, onde meu retrato ficou arquivado!
+24 Agradeço o seu carinho, meu querido pai, suas preces e suas manifestações de amor, e peço a Deus lhe recompense a abnegação, mas não procure por seu filho a pedir com tanta dor para que a nossa dor necessária não exista.
+25 O tempo com a bênção de Deus nos ajudará. Rogo-lhe viver e viver criando felicidade e progresso para nós todos.
+26 O trem de Mogi, no dia 8 de junho do ano passado, não trouxe para cá os rapazes todos.
+27 O senhor queria que eu ficasse aí para realizar os seus ideais, no entanto, eu não estou morto, meu pai! Estou vivo! E trabalharei com as suas mãos.
+28 Recordo as suas palavras, lembrando os dias de sua infância. Você queria seu filho num hospital para atender às crianças necessitadas e auxiliar aos enfermos desvalidos, sem maiores recursos… E quem diz que não vou servir?
+29 Agora, conheço mais profundamente a nossa Gruta de Maquiné das conversações e até o Padre João de Santo Antônio, n que nossa família sempre honrou com abençoada devoção, me veio ver e abraçar em nome do carinho de meus antepassados, aqueles mesmos, papai, que puseram no seu peito de missionário do bem o coração generoso que o senhor traz na alma.
+30 Vovô Ianez n me acolheu logo que me vi necessitado de apoio. 31 Digo assim, porque depois de cair como se houvesse sorvido um tranquilizante violento para dormir, apenas dormi pesadamente… 32 Sonhava a me ver no vagão, brincando com os amigos e comentando as alegrias que projetávamos para as férias próximas… Como que prosseguia, a dormir, na viagem que parecia não terminar, até que as minhas impressões se transformaram num pesadelo, do qual acordei num leito de tranquila enfermaria, com uma faixa a me resguardar a cabeça.
+33 Despertei, sentindo a dor, e imaginei que fora acidentado, sem a certeza disso. 34 Remédios vieram de mãos amigas e dormi de novo para depois acordar com mais calma…
+35 Entretanto, aí, foi a nossa casa a se revelar por dentro de mim.
+36 O senhor e a mamãe, chorando e clamando, sem que eu nada pudesse responder…
+37 Parentes nossos vieram de modo surpreendente em meu favor, e vou indo, pouco a pouco, retomando a vida.
+38 O que sucedeu realmente ainda não sei por detalhes. Estou à feição de alguém que houvesse sofrido longo processo de anestesia, sem memória muito segura para recordar minudências. 39 Mas vovô Ianez e o vovô Leite, n irmãs de caridade cristã que foram e são amigas de minha avó desde os dias da devoção a Santo Antônio, me auxiliaram com carinho e bênção, dando-me novas forças.
+40 Rogo ao senhor, papai — a você meu pai e meu amigo — fortalecer mamãe e Sandrinha, com o seu esforço e com a sua coragem.
+41 Deus não se afasta de nós, a vida continua e estamos juntos, embora de outra forma.
+42 Lembre-se com mamãe de que desde os primeiros dias da escola, a ideia de um trem de ferro estava comigo e de que a preocupação com o tempo me obrigava a estar marcando datas e mais datas. 43 Algo em mim falava que os dias para mim seriam curtos na Terra e que um comboio estava me aguardando para a viagem final, mas final de linha, meu querido papai, porque os trilhos continuam…
+44 Para mim é como se o trem de Mogi tivesse entrado num túnel… De um lado ficaram vocês, os meus entes amados e de outro estou eu, continuando em nova forma… Peço-lhes mais uma vez para que me ajudem.
+45 A saudade deve ser para nós uma prece de esperança e com essa prece, trabalhando no bem aos nossos irmãos do caminho, seguimos para a luz do reencontro…
+46 Mãezinha, não chore mais. Ampare-me com a sua fé.
+47 Rogo aos meus queridos avós para me auxiliarem. Ano passado foi terrível para mim, o seis de agosto! n
+48 Se puderem, no próximo aniversário, façamos a festa de nossa comunhão espiritual, ofertando um bolo às crianças reunidas em lar de Jesus, sem o lar terrestre que não puderam ter. Estarei com vocês e vamos encontrar muita alegria.
+49 Não deixem que a nossa casa se transforme em recanto de sombras e lágrimas.
+50 A vida é tesouro de Deus e todos estamos ricos de trabalho e esperança, fé e conhecimento.
+51 Agora, é o ponto final que me pedem. Não posso escrever mais. Minhas forças não estão muito seguras. Estou como quem cumpriu uma prova difícil — a de escrever quase sem possibilidade para fazer isto.
+52 Querido papai, querida mãezinha, querida Sandrinha, meus queridos avós e meus companheiros queridos, aqui, com toda a minha confiança, aquele abraço de meu coração reconhecido.
+1 Querida mãezinha, Deus abençoe a nós todos.
+2 Estamos bem. Lutando por aprender de modo a podermos realizar o melhor.
+3 Não se aflija, o clima de trabalho se desdobra. As tarefas são imensas.
+4 É como se a gente obtivesse um diploma, a fim de encontrar o mundo pela frente. Habituarmo-nos a servir agora é uma necessidade a que não se consegue fugir.
+5 Ajude a seu filho, com a sua paz confiante.
+6 Compreendemos. A fome de notícias entre nós é semelhante àquela sede de cartas e palavras, quando, aí na Terra, nos achamos distantes uns dos outros. 7 Mas, creia, mãezinha, pelos pensamentos, o nosso diálogo está sempre mais ativo e mais profundo.
+8 Acalme os nossos entes queridos e estejamos tranquilos.
+9 Nossos amigos Toledo e Fernando n estão aqui conosco e agradecem o amor das queridas mãezinhas aqui presentes. Nosso caro Toledo roga ao pai o auxilie a sustentar a querida mãezinha sempre firme e sempre forte na fé.
+10 Por hoje é unicamente este bilhete simples o que posso escrever.
+11 Receba, querida mãezinha, com todos os nossos corações queridos, todo amor e todo reconhecimento de seu filho, sempre mais seu,
+1 Querida mamãe, como sempre, seu filho pede a sua bênção.
+2 Mãezinha, nós sabemos. A saudade é um tormento, uma doença, mas precisamos suportá-la, transformando-a em serviço e esperança.
+3 Não se aflija, se nossa palavra demora. Palavra é som e o pensamento é luz. E a luz chega sempre antes. Pelos pensamentos estamos mais unidos do que nunca.
+4 Às vezes, queremos escrever, mas precisamos coibir esses desejos para não ferir companheiros que tanto desejariam expressar-se e que ainda não dispõem de meios.
+5 Fique tranquila. Estou bem.
+6 O túnel para Mogi me trouxe para outra faculdade e estou estudando com muita atenção. Quero aprender a curar os corpos e as almas doentes.
+7 Auxilie a seu filho com a sua coragem. Estou igualmente cooperando pela paz dos nossos, especialmente pela tranquilidade da irmãzinha.
+8 A família continua e o amor nunca morre. Esteja certa de que ouço todos os seus pedidos.
+9 Seu Beto é pobre ainda, mas vai trabalhar muito para merecer ajudar ao seu coração e ao coração de meu pai e de todos os nossos.
+10 Desejo ao seu carinho um Céu de estrelas sem nuvens a esconder-lhes a luz e receba o abraço de muito amor e de muita gratidão do seu filho.
+1 Querida mãezinha, peço a sua bênção.
+2 É só um bilhete. Agradeço o carinho destes dias, como sempre.
+3 Estou aqui, ao seu lado, confirmando presença e amor. A nossa união é inalterável.
+4 Peço-lhe, não fique triste, nem desanimada em momento algum.
+5 Seu filho está agindo e estudando. Criando forças novas. Trabalharei. Quero dar muita alegria ao seu coração e a todos os corações que amamos.
+6 Mamãe, a vida é uma herança de Deus. Herança eterna. Confiemos. Não há morte. Repetiremos isso até que todos se conscientizem das realidades do espírito.
+7 Prossigamos para a frente, buscando Jesus, embora sentindo Jesus em nós, pelas lições do Senhor que nos iluminam a estrada.
+8 Mãe querida, em seu carinho, o reconhecimento com todo o amor de seu filho,
+1 Mãe querida, peço a sua bênção. Ao mesmo tempo, rogo a Deus nos proteja a todos.
+2 Estou muito grato aos Mentores Espirituais pela concessão: escrever aos pais queridos e comentar os ensinamentos novos, todos eles bordados de saudade.
+3 Falo de saudade, mãezinha, mas essa é uma inquilina permanente do coração, convertendo-nos em Espíritos transformados para sempre em filhos conscientes de Deus.
+4 Não nos imaginem distantes — nós os filhos que precederam pais bem-amados na mudança para a Vida Maior. Estamos unidos, associados na mesma esperança e no mesmo ideal de vencer.
+5 Compreendo, tantos somos, que mais vale afastar de uma só vez a ideia de que seja outro que fala. 6 Sou eu mesmo, Beto, o companheiro do túnel que varou, às pressas, as fronteiras que nos separam uma vida da outra vida. E venho, mamãe, pedir-lhe calma e bom-ânimo.
+7 As nossas notícias reconfortam, mas suscitam em casa novas perspectivas de notícias outras. 8 Parece que, entre dois mundos, cada mensagem ou frase de intercâmbio entre nós lembra uma sede não extinta. Começamos a sorver a água pura da certeza de nossa sobrevivência e de nosso amor, entretanto, a impermanência das impressões de natureza física nos deixa a ideia de que o líquido não chegou a retirar a febre da saudade de nosso campo íntimo.
+9 Ainda assim, mamãe, não temos outro caminho para sustentar-nos, ante a fome do reencontro. 10 Aqui nos ensinam que a Bondade de Deus nos concede essa insatisfação para que, ao buscar-nos uns aos outros, estejamos seguindo à frente, conduzindo outros que sem essa ou aquela migalha de amor, de nossa parte, talvez desfalecessem.
+11 Aqui também nós somos impelidos por essa força à contenção de nossos impulsos inferiores para maior devotamento ao trabalho e, consequentemente, ao progresso. 12 Somos lembrados no mundo por entre nuvens de lágrimas e recordamos os nossos entes amados com a neblina do pranto a lavar-nos os corações. 13 Isso significa que nos cabe enorme esforço para a reintegração total no amor-presença que se define por fator máximo de alegria em nossas vidas.
+14 Venho rogar igualmente ao papai amigo e devotado para que se reconstitua plenamente na fé.
+15 Ouço nos recessos da alma o que ele me diz sem articular palavras e o que ele me escreve em tudo aquilo que não fica escrito; no entanto, peço a ele para nos encorajarmos à procura da felicidade a que aspiramos. 16 Às vezes, mãezinha, vejo-o a mentalizar aquela viagem final de seu filho, quando no Plano Físico, e noto a perfeição de detalhes com que ele procura reconstruir mentalmente o túnel que me assinalou um ponto importante na Vida Espiritual.
+17 No entanto, agora penso, mamãe, que há sempre um túnel para quem vive na Terra. É preciso nos decidamos a encontrar os que estão varando os túneis da tristeza e do desânimo, da angústia e da provação, muito mais escuros e mais dolorosos que o túnel da estrada de Mogi.
+18 Mãezinha, nós, os que regressamos, não somos apenas portadores de notícias que poderiam ser retardadas. Somos braços que acenam a novos caminhos, mãos que esculpem novos mapas de trabalho, vozes de esperança e cartas de renovação. 19 Outra vida nos pede preparação, alvoradas novas anunciam novos dias. Todos os que se acham em túneis de abandono e de infortúnio, quantos se instalaram no comboio das provas, sonhando diplomações de cultura e felicidade no Reino Espiritual, são lembrados para essa festa de paz e amor.
+20 Deus existe e a alma é imortal! 21 A morte é alteração da forma, alteração apenas e nós todos estamos reunidos em Deus, conquanto a separação aparente em que as nossas conceituações tradicionais da vida no mundo nos obrigam a adotar provisoriamente.
+22 Ainda mesmo quando falemos em saudade e lágrimas, expressando-nos da Vida Nova, estamos pedindo coragem e fortaleza àqueles que amamos. 23 A sensibilidade nossa pode estar ferida ou as nossas forças dilapidadas, mas, na essência, estamos edificando uma vida melhor, em que a ausência com a certeza do reencontro nos impele a renovar-nos para Deus, trabalhando e servindo cada vez mais.
+24 Agradeço os pensamentos de paz e amor da nossa querida Sandra. Estamos entrosados na mesma construção. 25 Em verdade, não conseguimos suprimir os obstáculos da estrada em que seguimos, lado a lado, suportando cada qual o abençoado fardo de nossas necessidades e aspirações. 26 E, nessa bendita comunhão, dar-nos-emos todos as mãos para que a subida se faça menos difícil. 27 Digo assim porque toda senda para o Alto é sempre íngreme, prenunciando cansaço e empeços naturais diante da marcha.
+28 Ao escrever nesta noite, desejo expressar os nossos votos de paz e alegria a todos os corações amigos que nos partilham as orações. 29 Nosso real desejo seria o de que todos os pais e mães presentes algo recebessem dos filhos queridos ou de outras criaturas abençoadas, dentre os que se domiciliam aqui; porém, estamos restritos a certas quotas de força.
+30 Mesmo nessas limitações, temos a satisfação de transmitir algumas notícias dos amigos e companheiros presentes aos amados, aqui conosco.
+31 Nosso amigo José Roberto Pereira Cassiano, o nosso querido Shabi, abraça os pais: em companhia da irmã Dosolina que beija a nossa querida irmã D. Maura. n Nosso irmão Alfredo Pessoa, com o nosso amigo Tato, recomenda seja dito à sua filha, nossa irmã D. Dirce, que ele e outros amigos estão colaborando em auxílio aos irmãos Severino e Olavo. n
+32 A jovem Mafalda beija as mãos da sua querida mãezinha, nossa irmã Marinetti, n agradecendo-lhe a conformação e o valor com que soube aceitar a prova da separação violenta que as distanciou uma da outra entre o campo terrestre e a Vida Espiritual.
+33 Nosso irmão, de nome Ério, n abraça os pais queridos e notifica que prossegue em tratamento espiritual adequado.
+34 Entre os nossos queridos Toledos, Carlos, o irmão de nossas faixas de trabalho, não só beija a fronte dos amigos queridos que lhes foram pai e mãe no mundo, mas abraça também aos irmãos Marília e Antônio Carlos, informando ao nosso amigo Carlos Eduardo, o querido pai e companheiro de sempre, que o seu amigo Dr. Carlos Mesquita está sob atenciosos cuidados de benfeitores da Espiritualidade Maior e comunica, ainda, aos pais queridos, nossos irmãos Toledo e D. Olga, que não se despreocupará do auxílio solicitado em benefício do nosso amigo Flávio Mindlin e da querida irmã Heloísa. n
+35 Nossa irmã Pia Maciel n volve ao convívio das filhas queridas e pede ao genro-filho paciência e fortaleza, na certeza de que as lutas presentes passarão, deixando precioso saldo de paz.
+36 Nosso amigo Durval Tricta beija a filha querida, nossa irmã Dinah, e pede seja dito à esposa dele que, em companhia de médicos amigos, está cogitando de auxiliar-lhe a saúde no lar de Sorocaba. n
+37 E outros e mais outros dedicam lembranças afetuosas a todos os presentes.
+38 Por fim, quero dizer que o nosso estimado Augusto Cezar está conosco, auxiliando-me a grafar esta carta, ao mesmo tempo que envolve nossa querida irmã Yolanda, n que ele considera seu anjo protetor, nas mais puras vibrações de reconhecimento e carinho.
+39 Mãezinha Lucy, não se deixe dominar por tristeza alguma. As lutas são exames de habilitação para cada um de nós e, com paciência, transformaremos todas as dores em alegrias na química da vida. 40 Os dias se desdobram apressados, sofrimentos são unicamente pequenas pedras que o tempo nos auxilia a transformar em joias de alto preço, nos tesouros da Eternidade. 41 Estamos aqui estudando e trabalhando, a fim de honrar os nossos pais queridos.
+42 Aí se fala em muitos votos à memória dos mortos que não morreram, pois aqui, igualmente, renovamos compromissos de trabalho e aperfeiçoamento, a fim de aguardar o reencontro nosso com os valores diferentes que possamos acumular em nós para recebê-los um dia, com o respeito e a gratidão que lhes devemos.
+43 Mãezinha, abrace por mim aos nossos — a todos os nossos, especialmente aqueles que dividem conosco as inquietações e alegrias diárias. 44 Peça ao papai por mim, para não desanimar em momento algum e que será melhor recordar trabalhando que recordar sofrendo.
+45 A ele e à nossa Sandra, com os nossos corações queridos, a minha ternura iluminada de preces nas quais peço a Deus nos abençoe e nos fortaleça, ao mesmo tempo que rogo ao seu carinho de mãe receber um beijo de muito amor e de muita saudade, com tudo o que seu filho possa ser e sentir de melhor.
+46 Sempre seu filho em seu coração, sempre seu
+1 Meu pai, querida mãezinha, peço-lhes a bênção.
+2 Estamos reconhecidos com a festa. Um bolo de aniversário, baseado nas alegrias da prece! n Não sei o que dizer. A palavra parou na garganta e as melhores letras que eu desejava escrever parecem encerradas dentro do lápis. Trago-lhes, desse modo, pais queridos, todo o meu coração.
+3 A nossa solenidade do natalício foi um acontecimento espiritual de muita significação. Uma comemoração para as comemorações do futuro. As alegrias do lar trazidas para outros lares, especialmente aqueles lares em que outros filhos e outros pais estão lutando pela sobrevivência.
+4 Do lado terrestre, os amigos queridos, com tantos companheiros abençoados e tantos corações maternos, a se desfazerem na felicidade de fazer os outros felizes.
+5 De nosso lado, é natural lhes diga que o nosso amigo Augusto foi maestro da orquestração de paz e de esperança que nos iluminou os corações. Wady, Carlos Toledo, o Jair Presente, o Ério, a Volquimar, as irmãs Maria Helena e Maria Célia, o Nasser, o Shabi, o Henrique Gregóris, n e tantos outros da união com Jesus nos rejubilávamos pela oportunidade de estarmos todos juntos.
+6 E pedi a professores, especialmente meus, em Medicina, cooperassem conosco, trazendo aos nossos irmãos visitados, recursos magnéticos de saúde, nos quais, com as fatias do bolo, transmitissem saúde e forças novas aos nossos irmãos doentes, notadamente as crianças. 7 E eu, pobre rapaz do natal feliz com a irmãzinha Sandra em meu coração, pedi a Deus os recompense a todos. E agradeci por tudo, porquanto, nestas horas da Terra em que os noticiários falam de guerras e ódios, de calamidade e lutas, nós, debaixo daquele céu azul, louvávamos a Deus, cantando a esperança num mundo melhor.
+8 Agradeço por todas as crianças e por todas as mães, por todos os pais e por todos os irmãos que a festa beneficiou e peço a Jesus coloque nas mãos de nossos benfeitores de São Paulo e de Santa Isabel, como também de outros recantos ali presentes, novos tesouros de amor para a exaltação do bem, nas estrelas invisíveis da caridade.
+9 Papai e mãezinha querida, muito grato à lembrança. Meus avós Francisco e Ianez n estavam conosco e ali todos éramos corações unidos em Jesus, sem qualquer separação, entre os mais jovens e os mais altamente amadurecidos na experiência. 10 Desejava escrever um poema em que lhes agradecesse tanto carinho e tanto amor, mas escrevo no coração a prece de agradecimento, na qual peço a Deus os faça felizes.
+11 Creiam. Quando atravessarem o túnel da existência humana, farei o possível para exprimir-lhes a todos a minha gratidão.
+12 Papai e mamãe querida, com os nossos amigos e com as nossas irmãs transformados hoje em nossa família maior, recebam o abraço em forma de coração do filho e amigo muito reconhecido.
+1 Mãezinha Lucy, Deus nos proteja e abençoe.
+2 Um cartão no papel. Só isto. Mas o coração está em cada letra, desejando-lhe um aniversário muito feliz — um aniversário de estrela maternal ao nascer no céu de nossas vidas e outro aniversário de união feliz com o papai. n Felicito a ambos. 3 Agradeço as dádivas de seu amor às crianças, recordando seu filho. Isso me fala profundamente ao coração. Deus a recompense. Peça por mim à nossa querida Sandra muita paciência e serenidade.
+4 Tudo encontra a paz, quando esperamos por Deus. Nosso amigo Shabi transmite um beijo de muito carinho aos pais e não posso omitir uma solicitação. O jovem César Araújo Maffra nos solicita registrar aqui um abraço aos queridos pais presentes. n Está em nossa reunião, mas ainda não se sente bastante forte para escrever sem lágrimas — lágrimas de alegria e reconhecimento aos pais a quem ama tanto.
+5 Mãezinha Lucy, receba mais um abraço. Um abraço do tamanho do amor de seu filho que lhe beija carinhosamente as mãos. Sempre seu
+1 Querido papai Nery, minha querida mamãe, querida Sandra, estou aqui, recordando a bênção de casa e pedindo a Deus que nos proteja e abençoe a todos, sem me esquecer dos familiares distantes.
+2 Estou emocionado com esse carinho com que me rememoram os vinte e cinco anos de ligação com a vida nova. n Recolhendo tanto amor, posso dizer-lhes que o meu reconhecimento está sendo escrito com letras em forma de lágrimas. Lágrimas de felicidade, porque Deus nos facultou o reencontro. 3 A morte do corpo não conseguiu deslustrar-nos a fé. As dificuldades para o relacionamento constante, aliás, nos acalentaram a esperança de modo diferente.
+4 Se provações aparecem, estamos em dia com as orações de confiança em Deus, sabendo que terminarão em tempo breve; 5 se obstáculos repontam do caminho, lembramo-nos para logo de que prosseguimos juntos, trabalhando uns pelos outros; 6 nas horas de insegurança, recorremos à inspiração para resolver os mais intrincados problemas com as sugestões do Mais Alto; 7 e, sobretudo, quando surpresas dolorosas se destacam no cotidiano, a certeza de que não nos separamos nos dá forças novas, auxiliando-nos a suportar com paciência, qualquer tipo de violência que se nos faça.
+8 Creiam que sou mais feliz agora em que o amor é uma luz permanente a clarear-nos os corações por dentro, para sabermos que Jesus não nos abandona.
+9 Mãezinha, agradeço ao seu carinho, à bondade de nossa irmã Dona Maura e de todos os outros corações amigos que ofereceram hoje tanto carinho e tantas bênçãos em meu nome. Aquele bolo da fraternidade, numa festa sob os céus da tarde, parecia-me o meu próprio coração repartido com as crianças que são hoje mais nossas. Tantas dádivas recebi.
+10 E assim me expresso, porque em cada sorriso de nossos pequeninos e de nossos irmãos em provas, se me afigurava estar recebendo alimento espiritual que me nutria e me nutre o sentimento para a aquisição de nova fé na vida.
+11 Muito grato, papai, por suas cartas, por suas felicitações escritas em pranto, no recanto íntimo de nossas meditações.
+12 Sandra, agradeço ao seu coração de irmã o entendimento com que aderiu às nossas lembranças. Irmãs e benfeitoras queridas que auxiliaram minha mãe a realizar estes votos pelo filho que a morte não aniquilou, muito obrigado! Deus as recompensará com bênçãos renovadas de paz e alegria, luz e amor.
+13 E aqui, diante de todos os amigos, quero dizer que não mereci tanto brilho de ternura e tanto testemunho de abnegação, transferindo a todos os irmãos e a todas as irmãs aqui reunidos, as doações de generosidade que me foram feitas.
+14 Elas pertencem a vocês todos, os que acreditam nas promessas de Jesus, ao anunciar-nos que a vida seria amor e proteção de Deus para sempre. Pertencem a todos os corações que se congregam aqui nesta noite, na certeza de que Deus não nos separaria uns dos outros e que o amor vence a morte, para ser perdão e entendimento, paz e luz.
+15 Mãezinha Lucy e meu caro papai, estou reconhecido. Conosco se encontram amigos queridos outros que, de nossa Vida Nova, acorrem a participar de nossas preces de gratidão e de esperança.
+16 Shabi, o amigo maravilhoso nos trouxe poemas de amizade e carinho, cujas vibrações se derramam em nosso favor em todo o ambiente; Rubens Lázaro e o irmão José de Assis Toledo estão em nossa companhia, abraçando a nossa querida companheira Dona Zininha; n o irmão Luiz Pitti abraça a nossa irmã Dona Neuza; n o Nasser afaga o coração da mãezinha Dona Shirley n e pede para que não estranhe a sua ausência de cartas que não significa ausência de amor, e amigos diversos se reúnem conosco neste mesmo ágape de felicidade espiritual.
+17 No conjunto daqueles irmãos que ainda não conhecia pessoalmente, destaco a jovem Elionete que, em companhia do seu pai Edvaldo França, nos solicita sejam transmitidas carinhosas lembranças à sua mãezinha Damiana n e cito esta ocorrência para dizer, querida mamãe, que não temos aqui apenas os nossos amigos íntimos e sim companheiros muitos que agradecem a Deus estes minutos de paz que desfrutamos.
+18 Querida Sandra, creia, seu irmão não a esquece. Tenho ouvido suas lembranças e petições. Deus concederá a você a felicidade que o seu generoso coração merece.
+19 Não se entristeça por dificuldades de compreensão no campo dos seus ideais de menina e moça. Esperemos. O tempo exato das nossas realizações, aquele tempo em que os nossos sonhos se realizam naturalmente, é o tempo de Deus. Aguardemos a vontade de Deus, trabalhando, estudando, servindo e melhorando-nos sempre.
+20 Tenho o coração como que a se desfazer na emotividade com que escrevo. Pais queridos, querida irmã, amados de meu coração, irmãs e irmãos que me doaram tanto amor, peçam a Deus para que eu possa valorizar esses tesouros que me confiam e, beijando-lhes as mãos, sou o filho, irmão, amigo, companheiro e servidor sempre reconhecido que pede a Jesus nos conserve a todos nas bênçãos de seu amor e de sua paz.
+1 Querida mãezinha Lucy, peço a Deus nos abençoe. O seu pensamento é um ímã e não posso esquivar-me.
+2 Sei que a senhora tem estado doente e um tanto mais fatigada. Mas não se sinta sozinha no tratamento quase silencioso. Amigos espirituais estão agindo em seu favor e seu Beto, embora ainda tão pobre de recursos, já consegue auxiliar um tanto. Deus abençoará esse tanto que é tão pouco, a fim de que a migalha de minha singela cooperação se transforme em concurso substancial de verdade.
+3 Felizmente, mãezinha, o seu cansaço é de trabalho e cansaço dessa natureza facilmente se converte em renovação de forças. Não julguem a senhora e meu pai Nery que eu esteja ausente das letras voluntariamente.
+4 Acontece que assumimos o compromisso de colaborar com outros comunicantes, para que se matriculem por dentro de nosso intercâmbio, a fim de que não sejamos nós os únicos favorecidos e o nosso grupo vai esperando vez…
+5 Estou sempre por perto… Esse por perto é o fio da oração no poste da saudade. Basta um toque de campainha da prece sem palavras e o fio vibra transmitindo a mensagem.
+6 Peço dizer à nossa querida Ângela que não a esqueço e formulo votos para que ela prossiga esperando o melhor que exista no mundo e na vida… Namoro é aproximação e aproximação é vida permutada. Se não fiquei aí para casar, estou aqui para ser útil e amar sempre. n
+7 Nossa querida Sandra vai muito bem e rogo a ela continue sendo a irmã sempre dedicada que ficou em lugar duplo, o dela e o meu, junto dos queridos pais e dos avós sempre queridos.
+8 Mãezinha Lucy, o nosso amigo Shabi está presente e se faz lembrado aos genitores cada vez mais queridos.
+9 O Nasser igualmente está conosco e trabalhando ativamente em auxílio aos familiares.
+10 Peço ao seu carinho de mãe e a meu pai Nery não permitirem que a amargura das lembranças tristes fique em nosso campo de pensamentos por nuvens de frio, congelando esperanças e frustrando-nos a alegria de pertencermos uns aos outros.
+13 Tudo segue bem, porque temos Deus em nossos corações a guiar-nos para dias melhores.
+14 Desejando querida mãezinha Lucy, que a sua saúde esteja em pleno refazimento, abraça o papai e deixa-lhe um beijo de filho sempre reconhecido o seu, sempre seu
+1 Querida mãezinha Lucy, receba com meu pai a minha solicitação de bênção. Tenho os dois, unidos à nossa querida Sandra e aos nossos familiares queridos, em minhas recordações mais íntimas.
+2 Oito de junho! Oh! as saudades do filho que não desaparecem, os castelos que se transferiram de lugar e as novas esperanças no coração! É assim que me apresento para celebrar com os pais queridos e com tantos amigos dedicados o sétimo ano de transformação.
+3 Mãezinha querida, com as nossas amigas D. Maura e Dona Shirley e junto de outras afeições, acompanhei as suas emoções, rememorando a minha partida involuntária.
+4 Sei que o seu coração de mãe adotou o melhor processo de festejar. Compreendo que esse festejar é lembrar sofrendo, mas Jesus nos deu outras estradas para acompanhá-lo. 5 A senhora, mamãe, com meu pai quiseram brindar-me com o amor, no amor que distribuíram e estão distribuindo com aqueles irmãos nossos do caminho terrestre…
+6 Quanto vale a roupa que subtrai a nudez de uma criança ou o cobertor que agasalha um doente desvalido, qual o preço de um bolo aos que sonham com a mesa farta e qual a importância em que se taxa uma dádiva em benefício de um amigo ao desamparo, sinceramente não sei… Mas para mim que recebi tudo isso, na pessoa dos que foram beneficiados, esses tesouros não encontram avaliação…
+7 É por isso que as lágrimas de alegria hoje me sobem do coração para os olhos no objetivo de agradecer.
+8 Fui eu, mamãe, quem na realidade recolheu tudo o que doaram em memória destes nossos sete anos de modificação. 9 O comboio de Mogi não me afastou de casa. Continuamos sempre mais unidos e a prova disso é a nossa comemoração íntima de hoje.
+10 Aqui se encontram em nossa companhia os irmãos que Deus me concedeu nos tempos últimos.
+11 Nosso querido Shabi me reanima, indicando-me as realizações da frente, o nosso Nasser me abraça, o nosso Sidney n me dirige palavras de paz e esperança, além de outros muitos companheiros que nos visitam e eu, em meio de tudo isso, me sinto cada vez mais rico de amor, na pobreza que me caracteriza, mas sempre a enriquecer-me do carinho que meus pais queridos, a querida irmã e os avós queridos me ofertam, qual se eu fosse um privilegiado de Deus.
+12 Nesse sentido, me sinto realmente assim; porque acolho todos esses talentos de luz por empréstimos do Céu que me induzem a trabalhar e aprender a servir sempre mais. Estou feliz e agradeço a todos; Deus, em sua Bondade Infinita, retribuirá com estrelas de felicidade essas bênçãos com que me iluminam os passos.
+13 Responderei, sob o amparo de Jesus, com trabalho. O Senhor me concederá essa felicidade de agir para o bem, a única forma de que disponho para assinalar a minha gratidão.
+14 Nosso amigo Carlos Alberto de Toledo faz questão de mostrar-me o seu afeto e tento uni-lo à corrente de meus pensamentos de alegria e gratidão.
+15 Jesus acoberte a todos os amigos queridos em sua proteção, estruturada de paz e amor.
+16 Querida mãezinha Lucy, a felicidade mora em lugar desconhecido em que não encontra meios de expressão, porque debalde a procuro para falar por mim ao seu carinho, mas, bem no íntimo de seu maternal coração, a sua ternura saberá quanto seu filho está contente.
+17 A todos, todos os nossos afetos, os meus agradecimentos e para você, querida mamãe, juntamente do papai e de nossa Sandra Maria, todo o carinho iluminado de preces pela felicidade de todos, do seu filho, sempre o seu companheiro de todas as horas, sempre o seu,
+1 Queridos pais, abençoem-me. Deus nos proteja a todos.
+2 Mãezinha Lucy, meu pai Nery e querida Sandra, estou muito grato pela festa do aniversário que celebraram, recordando a minha presença singela.
+3 Estou feliz e reconhecido. As roupas com que vestiram nossos companheiros necessitados, especialmente as nossas queridas crianças, são trajes para mim mesmo pelo conforto que me ofertam e o bolo precioso dedicado aos nossos pequeninos é um tesouro de bênçãos que me alimenta de novas energias para a vida espiritual.
+4 Agradeço comovido aos pais queridos e à querida irmãzinha, extensivamente a todos os nossos amigos que nos compartilharam da alegria de hoje, antecipando a nossa segunda-feira próxima e peço a Jesus a todos recompense e a todos nos abençoe.
+5 Muito carinho do filho sempre grato e irmão reconhecido.
+1 Querida mãezinha Lucy, peço-lhe me abençoe, mamãe.
+2 A página é para desejar-lhe um feliz Dia das Mães, ao lado de meu pai, da Sandra, da vovó e de todos os nossos. Com essas felicitações, venho rogar-lhe revigorar-se com a medicação adequada. 3 Noto-a um tanto fatigada e precisamos restaurar-lhe as energias. A vovó, igualmente, vem sendo objeto de nossa melhor atenção no sentido de que se lhe recuperem as forças orgânicas. 4 Peço dizer ao papai Nery que venho acompanhando as notas e observações que ele está alinhando para destacar o nosso encontro e a minha própria sobrevivência. n
+5 Tudo bem. Façamos o melhor ao nosso alcance, compreendendo que semear a verdade é plantar alegria e confiança nos caminhos difíceis que as criaturas humanas estão atravessando em nossos tempos.
+6 Envio a ele e à nossa querida Sandra, à vovó n e a todos os nossos amigos, minha palavra humilde de paz e de esperança. Para o seu querido coração, mãezinha Lucy, deixo neste papel todo o carinho e todo o reconhecimento de seu filho.
+1 Querida Mãezinha Lucy, abençoe-me.
+2 Estou ouvindo os seus pensamentos a me falarem alto pelas ondas do amor materno. “É um bilhete só, meu filho” diz você sem palavras.
+3 Compreendo. As saudades são conjuntos de sombras a vagarem por dentro de nós, tangidas por forças que ainda não compreendemos e que nos envolvem todo o ser. 4 Não me supunha indiferente a essa carência afetiva a que fomos arrojados em nossa casa. 5 Foi com dificuldade que prossegui meus estudos na Vida Espiritual e que continuo a sustentá-lo no sentido de me fazer mais útil aos benfeitores que se dedicam à cura dos doentes, nossos irmãos.
+6 Compreendo, porém, que será trabalhando que conseguirei abrir caminhos para a construção do nosso próprio futuro e, desse modo, prossigo em minha demanda: continuar vinculado à família querida na Terra e empenhar-me às tarefas da Espiritualidade, entre as quais vivo sempre transitando e, ao mesmo tempo, partilhando as alegrias e as dificuldades, as realizações e as bênçãos de nosso grupo sempre querido.
+7 Amigos nossos estão auxiliando ao papai Nery na organização do livro que ele vem formando e estamos satisfeitos. n
+8 Envio muito carinho a nossa querida Sandra. E agradeço ao seu amor, mãezinha Lucy, pelas roupas agasalhantes que faz com os seus próprios esforços para vestir as crianças menos afortunadas, em meu nome. Muito grato.
+9 Vou terminar, porque o relógio comanda aí e aqui. Toda a gratidão aos familiares e aos amigos, pedindo-lhes receber com o papai Nery um beijo de muita saudade e de muita esperança da filho reconhecido.
+1 Querida Mãezinha Lucy, abençoe-me.
+2 Compreendo que estamos quitados na contabilidade das notícias, porque pelas páginas do papai Nery e por nossos entendimentos gerais, sabem ambos que a nossa união prossegue indissolúvel.
+3 Ainda assim, querida mãezinha Lucy, estou registrando os seus desejos de obter algumas palavras de seu filho, quanto ao casamento de nossa querida Sandra e solicitei permissão para endereçar ao seu carinho a presente mensagem de carinhosa gratidão.
+4 Estou muito reconhecido por todo o seu ideal e disposição de memorizar-me o 6 de agosto. Fiquei satisfeito com o bolo e não tenha dúvida de que também usufruí a minha parte no lar de nossos irmãos necessitados ou mais necessitados que nós mesmos, para onde a sua bondade nos dirigiu.
+5 Agora, aguardemos o setembro vindouro, no qual desejo aos nossos queridos Sandra e Fábio n muitas felicidades. Um lar é sempre uma bênção de Deus e espero que a nossa Sandrinha saberá imitar-lhe os exemplos de esposa e mãe, sempre com a luz do sacrifício por nós, iluminando-nos os caminhos.
+6 Felicitações aos irmãos queridos no empreendimento a que se confiam e sigamos a nossa viagem nos continentes da experiência humana, procurando constantemente o melhor para cada um de nós, dentro dos critérios cristãos que nos inspiram e governam a vida.
+7 Querida mãezinha Lucy, esteja certa de que muito me sensibilizei ao notar-lhe a ideia de vir até aqui, na firme confiança de encontrar-nos, reencontrando-nos.
+8 Deus a recompense pelo amor que nos dedica e receba com o papai Nery e todos os entes que amamos sob o teto abençoado em que a Bondade de Deus nos colocou, o coração em forma de abraço do filho agradecido.
 
 ---
 
-## EGUNDA PARTE — O OUTRO BETO — José Roberto Pereira Cassiano (O Shabi)
+## EGUNDA PARTE — O OUTRO BETO
 
 > Os fatos são de desconcertante precisão, envolvendo detalhes e citações totalmente alheias ao conhecimento de Chico Xavier, como, aliás; sempre acontece em suas participações mediúnicas.
 
@@ -323,312 +219,256 @@ O depoimento que se segue, recolhemo-lo ao Sr. Cassiano e D. Maura, cujas palavr
 “Até então, a situação era de total desespero. Minha saúde a cada vez mais se agravava”, lembra o Sr. Cassiano. “As noites eram indormidas e quando chovia nosso desespero aumentava, pois temíamos que nosso Shabi, sepultado, recolhesse os rigores da chuva a encharcar a terra fria.” Os pais saudosos encontravam arrimo somente nos tranquilizantes que lhes aquietavam as forças.
 E prosseguiu o Sr. Abigail com a palavra:
 “A mensagem representou-nos um bálsamo para a alma e para o corpo. A saúde melhorou e eu passei, com minha esposa, a sentir o filho presente em tudo o que era dele e que guardávamos com carinho. Compreendemos, então, que o reencontro com ele somente poderia ser um reencontro espiritual. O sono começou a voltar e passamos a ir mais vezes a Uberaba, na esperança de receber novos recados ou, como nós entendíamos, mais uma carta do filho querido.
-Hoje, vivemos mais felizes, oramos pelo Shabi e constantemente sentimo-lo conosco em espírito.
-Pelas palavras de nosso filho compreendemos que a morte não existe.”
-Querida mãezinha, meu querido pai, é tudo tão novo para mim, em nosso reencontro, que tenho dificuldade para registrar um assunto antigo: — pedir a bênção de Deus para nós. Mas peço esse auxílio da Divina Providência e conto com esse amparo em nosso favor.
-Se pudesse, não escreveria e sim tomaria lápis e cores, tintas ou pincéis, para transmitir os meus pensamentos de agora num quadro em que lhes pudesse dar a ideia de toda a beleza e de toda a luz que nos rodeiam.
-Entretanto, é preciso resignar-me às linhas cravadas no papel, tentando exprimir o que sinto. E tenho lágrimas dentro de minha alegria. E noto a alegria, dissipando-me o sofrimento em que se nos convertem as lembranças aqui nesta abertura entre duas vidas.
-De qualquer modo, resumo as emoções novas em duas palavras que, de certa maneira, me quadram as expressões: estou bem. Isto, queridos pais, é tão pouco e, no entanto, diz tudo porque, na essência, quero explicar que todas as aflições passaram.
-Aquele nove de março
-n
-foi realmente um dia de duras provas.
-Quando deixei a Beth em casa, voltei no mesmo veículo para tomar condução de volta. Conhecia o Expresso e não podia supor que seria surpreendido pela hora do adeus de que não cogitávamos.
-A viagem seguia o compasso da Anchieta, entre paradas de trânsito e marchas rápidas para ganho de tempo, quando, ao movimentar-me, caí num impacto de forças que não sei descrever.
-Quis reagir, gritar por socorro, mas tive a impressão de que um suave anestésico me entorpecia as forças mentais.
-O pensamento escorria do cérebro, como se fora sangue a derramar-se de outros campos do corpo…
-Sensação estranha de esvaziamento, compelindo-me a desfalecer, sem recursos de resistência.
-E dormi. Pelo menos, foi esta a convicção que me ficou na memória ao despertar…
-Conflitos e providências, toques e chamamentos, em torno de mim, pareciam pesadelo no qual mergulhava, cada vez mais, até que entrei num nível de inconsciência profunda.
-Acordei, queridos pais, numa sala de apresentação muito difícil com as palavras de que conseguiria dispor.
-Era eu e não era eu quem se achava ali numa dualidade que não podia reconhecer.
-Ouvi conversações e apontamentos que me espantavam. No entanto, médicos e enfermeiros me administravam agentes sedativos que me impuseram mais descanso.
-Em meio daquela penumbra da mente, em que todas as formas se expressavam desfiguradas ao meu olhar, acreditei-me acidentado e, por isso mesmo, doente.
-Com muito esforço pronunciava os nomes de vocês dois, rogando para que me buscassem, até que um amigo, o Irmão Cassiano,
-amorável benfeitor, à feição de um pai a tutelar-me, explicou que representava a nossa família, a recomendar-me tranquilidade e confiança. A presença de semelhante protetor me acalmava…
-A situação prosseguia, quando o Irmão Cassiano me avisou que traria meus pais para um reencontro.
-Daí a instantes, notei-lhes a presença quase rente a mim. Mãezinha e você, papai, pediam notícias minhas.
-Só então entendi que me achava em São Bernardo, não longe do quilômetro em que havia sofrido a queda.
-Compreendi mais. Aquele não era um recinto de hospital, mas um refúgio de paz e silêncio, reservado aos que já haviam atravessado as fronteiras, das quais me vejo agora muito aquém…
-Fiz tudo para fazer-me sentir, a fim de tranquilizá-los. Mas o amigo fiel que me assistia e ainda me protege, em todos os passos da Vida Nova, me sossegou o espírito atribulado, afirmando que estavam dados os primeiros passos para que recebessem minhas notícias.
-A ideia da despedida, então, tomou corpo em mim e só aí, querida mamãe compreendi que seu filho havia deixado a veste física, à feição de alguém que se transfere de estrada ou de carro, a fim de tomar caminhos diferentes.
-Confesso, meu pai, que a lágrimas me subiram do coração para os olhos, porque não me sentia preparado, quanto agora, para o exame do assunto. Era muito sonho e muita esperança a tombarem do alto de nossas aspirações e projetos.
-Lembrei-me, porém, da energia de mamãe no trato da vida e da compreensão de meu pai nas dificuldades do mundo e, refletindo nos exemplos de amor e fé viva com que ambos sempre me facultaram o entendimento mais elevado e mais correto, busquei asserenar-me…
-Ainda assim, a pesquisa que efetuavam, as perguntas que ouvi, sem que me fosse possível qualquer manifestação para esclarecê-los, me feriam o coração.
-Observei que me procuravam com aflições iguais às minhas e percebi que a incerteza era o clima de nossos pensamentos e indagações.
-Sofri ao vê-los na retirada com as mesmas dúvidas que me pairavam na alma e caí em crise de lágrimas como não podia deixar de ser.
-Novamente, o benfeitor incansável promoveu os meios de socorro dos quais necessitava e um sono maior abençoou a minha cabeça cansada…
-Depois, quando voltei de novo a mim, achava-me em outro lugar e em outra instituição. Um hospital-escola, ou melhor, um educandário de recuperação espiritual me abrira as portas e, desse recanto de paz e amor, consegui sair devidamente acompanhado para visitar papai na Beneficência Portuguesa. Desde então, melhorei, porque era preciso consolidar minha fé para ser-lhes útil.
-Necessário esquecer-me para sustentar, quanto possível, o querido enfermo que abracei, contente, no dia em que o vimos de alta, em nossa casa da Alameda.
-E vou compreendendo que todas as nossas dificuldades vieram, mãezinha, do passado em que o seu Shabi contraiu dívidas a pagar.
-Sei que você, minha mãe e minha luz, tem sofrido um calvário em que a subida é feita de pranto a encharcar o caminho de angústia. Mas peço a ambos para que a alegria nos retome os corações.
-Mamãe, você foi sempre, é e será em nossa vida, a nossa fortaleza e o nosso carinho, a nossa confiança e a nossa paz. Continue, fervorosa na certeza de que Deus não nos abandona.
-Realmente, não desejo lembrar as ocorrências estranhas que seu filho atravessou naquele março distante.
-Mãezinha, agora, temos papai por nosso maior amor, por filho mesmo a quem precisamos doar toda a nossa ternura. Estejamos unidos em nossa esperança.
-Sei tudo quanto empreendem em meu benefício e tudo agradeço. E creiam que a parte melhor do nosso culto de saudade, é a bênção de reconforto que estendem aos que necessitam de apoio, em dificuldades e provações maiores do que as nossas.
-Ouço o que me falam em casa, quando as nossas recordações se completam na mesma faixa de saudade e de indagação; entretanto, rogo para que me tratem, como antes, desenhando ou fotografando, estudando a vida ou construindo mentalmente o futuro.
-Peço a meu pai coragem e alegria. Medicar-se, sim, e sempre, mas situar a fé em Deus sobre os recursos humanos. E você, mãezinha, conserve aquela felicidade tão nossa, quando suas mãos queridas me guiavam nos estudos, abençoando-me as lições. Não deixe a alegria de lado quando me fite os retratos. Recorde-me, sorrindo.
-Lembro todos os poemas de amor de seu amor para mim, suas expressões de ternura, suas páginas de carinho e seus bilhetes que sempre me alcançam e me alcançaram o coração por estrelas de felicidade e de paz.
-Estamos todos mais juntos. E trabalharemos para o nosso reencontro, um dia, com as bênçãos de Deus, no Plano Maior.
-Lembre-se, querida mamãe, de seus doces avisos quando os obstáculos surgiam: — meu filho, tudo está melhorando e amanhã nossa vida será sempre mais linda. Baseado em suas disposições, sempre venci e creia que estou vencendo…
-Pois até as barreiras da morte consigo atravessar, conquanto sob auxílio, a fim de lhes enviar as notícias de agora.
-Penso, queridos pais, que não devo criar sugestões no ânimo das afeições que deixei. Todos estamos na bênção de Deus e hoje reconheço que Deus a nós todos conduzirá para o que nos seja mais aconselhável e mais justo. Mas envio, em silêncio, a todos os corações queridos, a mensagem de meu agradecimento e de meu afeto. Entrego-lhes, pais queridos, todo o meu coração nesta carta.
-Companheiros queridos hoje me compartilham das novas experiências. Os colegas de ontem estão aqui de outra forma, porque tenho novos irmãos de trabalho e de ideal para valorizar os tesouros do tempo, enquanto melhoro a mim mesmo, a fim de auxiliá-los.
-Querida mãezinha e querido papai, aqui o horário pede o ponto final.
-E desejo reafirmar que a morte não é ponto final em cousa alguma do que pertence à vida. Que seria a morte? Sorriam comigo e imaginemos nela um ponto e vírgula. Aquele sinal que indica estação de pausa, sem ser fim no que se escreve.
-Recebam meus melhores pensamentos, nos quais volto à prece, rogando a Deus por nossa felicidade.
-Papai querido e querida mãezinha com vocês dois aquele abraço de três juntos.
-E conservem a certeza de que este beijo que deposito aqui nesta folha simples, é o beijo de muito carinho e de muita saudade, de muito amor e de muita esperança do filho sempre mais de vocês dois, sempre mais reconhecido e sempre mais filho do coração.
-Mãezinha do coração, pai amado.
-Shabi. Sou eu, meus amores.
-O fone está funcionando pelos fios da alma.
-Quero falar de saudade e o amor toma a vanguarda. O carinho quer dizer que é maior.
-Noto a luta entre os meus próprios sentimentos. Faço a soma de todas as parcelas de vida que me compõem o ser e a média geral é amor sempre. Amor, saudade e gratidão.
-Os assuntos são tantos! Mas, acima de tudo, querida mãezinha, quero informá-la de que estou lendo todas as páginas que você me escreve pelo correio da prece. O silêncio é o carteiro.
-Agradeço por tudo e respondo:
-— Sim, me lembro…
-— Amo-a cada vez mais…
-— Papai está em meu coração…
-— A falta hoje é muito maior que a de ontem…
-— Sim, mãezinha, as estrelas brilharão outra vez para nós.
-— Seu filho está bem…
-— Por que? Porque as leis de DEUS queriam que assim fosse…
-— Mamãe, a saudade não é uma provação, é um convite de DEUS para trabalharmos com mais dedicação pelos que suportam dificuldades maiores que as nossas…
-— A Primavera chegou, mas seu filho não está ausente…
-— Trago flores para você e meu pai, flores perfumadas de carinho incessante…
-— Nossos quadros são hoje mais belos…
-— Mãe, as tintas do pensamento são muito mais lindas que as da paleta terrestre…
-— E os nossos ideais estão sempre mais vivos…
-— Só o bem, meditemos unicamente no bem, porque o bem triunfará…
-Querida mãezinha, aqui estão algumas de minhas respostas às suas páginas de ternura.
-“Fale conosco desta vez, meu filho…” Escutei o seu pedido que para seu filho é sempre uma lembrança querida e nunca uma solicitação, e estou aqui para dizer-lhes que estou melhorando.
-Papai, você está melhor de saúde e precisa melhorar cada vez mais… Rogo ao seu espírito valoroso sobrepor-se aos estados negativos da tristeza sem significação. Estamos, presentemente, mais juntos.
-Aqui, vivemos segundo o que pensamos e pensamos conforme a substância de nossa personalidade, nas faixas espirituais da vida.
-Creiam, pais queridos, que estou trabalhando, ativamente, na preparação do futuro. Procuro renovar-me por dentro de mim mesmo, a fim de criar elevação por fora de mim.
-Agradeço igualmente o esforço que fazem na colaboração comigo. Embora, por vezes, muito longe, espacialmente falando, recebo de imediato as ideias que me transmitem e com essas ideias as ações que elas produzem.
-Recursos que se transformam em alegria, amparo que se faz bênção, doações que se convertem na felicidade dos corações que as recebem e moedas que acabam parecendo luzes acesas nas sombras da necessidade.
-“Em memória”, “pela saudade de nosso Shabi”, “pela felicidade de nosso filhinho”, “pela reafirmação de nosso imenso amor” — tudo isso me vem aos ouvidos, com as preces que trocamos, pedindo a Deus, uns pelos outros.
-Querida mãezinha e meu querido pai, não sei fotografar o meu reconhecimento com as palavras; se pudesse desenharia um coração amparado em duas estrelas, simbolizando eu mesmo, apoiado em ambos, amados meus.
-A vida para mim, nos domínios diferentes da Espiritualidade, vai decorrendo em paz, não obstante as inquietações injustificáveis, mas compreensíveis da ausência. Digo “injustificáveis”, porque aprendi com meus pais queridos que os Planos da Bondade Divina se efetuam sobre os nossos próprios desígnios.
-Meu avô José Henrique Pereira e a querida vó Dosolina são para mim benfeitores e guardiães.
-Outros protetores do campo familiar me reanimam e me auxiliam.
-Estou deslanchando do cais de nossa profunda ligação para o mar alto da compreensão maior. Isso não significa mais extensão na distância e nem qualquer perda no tesouro de nosso afeto. Desejo apenas configurar que estou seguindo adiante, já que o tempo é uma força de Deus que não se pode interromper. Sigamos.
-Para complementar os meus exercícios de ação espiritual, venho oferecendo a cooperação possível ao nosso irmão Carlos Alberto Fernandes, no Santa Rita, ante o pedido de nossa irmã Lucy,
-e podem acreditar que, apesar do longo processo quase comatoso, ele encontrou sempre, e está encontrando de nossa parte, o concurso que se nos faz possível. E as almas queridas agradecem o carinho e a assistência que o cercam.
-Mãezinha, o amor é um mistério. Por mistério designamos o inexplicável. Começa em nós, de nós para alguém e depois somos três: pai, mãe e filho ou mais filhos a estendermos essa bênção do Céu, de uns para com os outros.
-Depois mamãe, o coração assemelha-se a uma concha de luz que se multiparte. E iniciamos um novo curso de entendimento. Esse curso bendito, em que vocês dois me instalaram, é a beneficência.
-Eu que amava tanto as artes todas, principio hoje por penetrar na maior de todas — a do amor ao próximo, seja o próximo quem seja.
-Mamãe, esses meninos descalços, que você me ensinou a ver melhor, poderiam estar conosco, em nossa casa e esses doentes todos que abraçamos, poderiam ser nossos parentes, amados por você e por meu pai, como vocês me amaram e me amam.
-Mãe, é tão bela a claridade da gratidão nos que sofrem e é tão soberanamente lindo o reflexo estelar das mães que carregam os filhinhos nos próprios braços que, por vezes, seu filho imagina que Deus não teria outro lugar para colocar o império dos astros senão no regaço da noite, porque é no sofrimento humano que a Divina Providência traçou o caminho de luz para a felicidade.
-Trabalhemos sim, esperando e amando-nos naqueles que nos estendem os braços sequiosos de paz e compreensão.
-As recordações de São Bernardo desapareceram.
-Lembro-me do apóstolo de Jesus que se dedicava a salvar os que jaziam relegados à neve e ao desamparo e penso que ele também ter-nos-á estendido as mãos socorredoras, enviando recursos para que nos reencontrássemos na saudade e na oração, que hoje se renovam para nós, em forças abençoadas de esperança e serviço.
-Agora são as áreas enormes de realização que nos esperam, a cada dia, para que nós, dia por dia, venhamos a construir a estrada de nosso reencontro.
-Creiam-me presente. Não há separação entre os que se amam.
-O pensamento é uma tomada de poder divino ante os recursos prodigiosos da Criação.
-Basta a ideia, e a imagem voa ao nosso encontro com a velocidade sem acesso, por agora, ao conhecimento dos homens.
-Chamem-me, sim. Estou disponível. Nossos mentores daqui me afirmam que posso cooperar de algum modo e que as ligações nossas se erigem por intercâmbio de ação sempre mais construtiva.
-Sei que sou ainda tão pequeno, a fim de ajudar e preciso fazer esta ressalva; no entanto, é um privilégio ser lembrado por pais tão queridos e tão devotados ao bem, quanto os meus, para que eu aprenda a realizar algo de bom ou de mais útil.
-Estou feliz com as lágrimas de alegria que esta carta me faculta verter. Quando o coração quer falar de amor e não encontra as frases próprias, encontra em si mesmo as pérolas do pranto de júbilo e de gratidão pela possibilidade de expressá-lo. As letras explicam e as lágrimas contam.
-Mãezinha e meu pai, dou-lhes, de novo, todo o meu afeto com toda a minha alma, centralizada nesta mensagem. Muito grato por tudo, tento, quase diariamente, repetir-lhes estas palavras com os beijos que lhes entrego, no silêncio.
-E, quando ambos conseguem algum repouso, no veludo da noite, muitas vezes, lembro-me de quando me embalavam em criança e peço a Deus, em oração, para que os conserve valorosos e felizes. Não consigo devolver as melodias com que me acalmavam no adormecer, mas posso transformar a prece que faço num hino sem palavras em que Deus sabe que a minha gratidão fala muito alto.
-Fiquem fortes e contentes, é o que lhes desejo.
-E, agradecendo o carinho de todos os nossos e a especial atenção dos amigos que nos compartilham da alegria deste reencontro, entrego-lhes o coração reconhecido, o filho e companheiro de trabalho e de esperança, hoje quanto ontem, agora quanto será sempre.
-Mãezinha querida e papai sempre lembrado, abençoem-me.
-A falta de escrita não é falta de saudade.
-Nasser, Sidney e outros amigos, estamos aqui a desejar-lhes um Feliz Natal.
-Um amigo nos solicita seja transmitido à Irmã Dona Célia uma rogativa — a rogativa para que ele se console e se fortaleça onde se encontra. É o nosso irmão Célio Onida Araújo,
-que veio para cá, de improviso, num processo de aneurisma que ele mesmo desconhecia. O rapaz chora e pede à mãezinha para que não se lamente, a fim de que ele possa reconfortar-se.
-Não me esqueço, mãezinha, dos parentes e amigos. Vovó Cecília e a irmã Déa
-ainda estão com a prioridade em meus cuidados — depois dos cuidados com que sigo papai e você mesma.
-Agora, faça seu filho sorrir e fique feliz. Com um beijo repartido entre ambos — você e papai — sou o seu filho enamorado de seu carinho e cada vez mais agradecido ao seu amor.
-Sempre seu
-Querida mãezinha, querido papai. Abençoem-me.
-O aniversário está em minha lembrança.
-Luzes foram acesas nas preces e votos de felicidades que me ofertaram.
-Flores de esperança em nossa festa da alma enriquecem-me a nova vida.
-Mãezinha, seria difícil, ontem para mim, fazer-me lembrado, de vez que a nossa comemoração a três com Jesus estava sendo levada a efeito. Não que seu filho menospreze a doce recordação de família e sim porque tenho visto o sofrimento sob novas modalidades.
-A dor nas mães, aqui reunidas ontem, não me permitia manifestações de regozijo fremente. E a deixar de faze-lo com a espontaneidade e a extroversão que são minhas, julguei mais acertado votar a favor dos propósitos de nosso irmão Eurico Tadeu que precisava podar as angústias da senhora Mirthes que, entre nós, mostrava um coração agoniado e profundamente deprimido.
-Hoje, ao que me parece, posso falar em nossa festa e agradecer, rogando ao papai fortalecer-se e viver tranquilo.
-Alegria é saúde.
-Reconforto é remédio.
-Carinho é tranquilizante.
-Amor é vida.
-Entendimento é renovação.
-Peço a Deus para que em minha condição de filho tenha posto o ponto nos iiiis do caminho.
-Agradeço por tanta ternura, tesouro que me faz infinitamente feliz.
-E agradeço ainda o bem que espalharam em favor dos nossos doentes e das crianças, pensando em mim.
-Sou dos filhos mais ricos da Terra, porque os tenho no coração.
-À vista disso entrego-lhes, com toda a minhalma, o coração do filho e companheiro reconhecido de todos os instantes,
-Mãezinha querida, querido pai. Deus na bênção com que me fortalecem.
-Estimaria escrever com pinceladas de luz estas frases de agradecimento e de amor. Enunciar o meu reconhecimento pelas flores deste mês de Maio que me ofereceram. Contar-lhes muito mais com carinho do que com palavras o júbilo, por vezes, orvalhado de lágrimas com que lhes recebo no coração as lembranças queridas.
-Entretanto, nas grandes emoções, os vocábulos do mundo assemelham-se a pedras, naturalmente buriláveis para a execução de obras-primas, sempre frias, à maneira de tijolos preciosos e inertes, incapazes de exprimir a linguagem do coração.
-Curvo-me, portanto, aqui, neste lápis amigo para restringir-me à convenção do “muito obrigado”.
-Muito obrigado pela ternura com que me recordam, pelo devotamento com que me escrevem as mais belas páginas da alma, pelo apoio incessante com que me acompanham em plena vida espiritual, pela cobertura de abnegação com que me enviam tantas estrelas de bondade, através do caminho e da presença de tantas crianças e de tantos jovens, em cujo contato me rememoram a vida.
-Querida mãezinha, acolho em espírito as memórias sublimes que a sua generosidade me endereça pela face de todos aqueles pequeninos e de todos os companheiros de juventude, em sorrisos e bênçãos de compreensão e de amor. Sei que a sua maravilhosa vida é um castelo encantado nas tarefas de educação a que se consagrou e através das suas lágrimas de saudade e esperança, ausculto a própria Humanidade.
-Sempre ouvi dizer que o ouvido terrestre escuta, na concha, o idioma do mar, e um filho registra na dedicação maternal todas as forças que sustentam o mundo. Continue sim, abençoando e auxiliando…
-Ao lado de meu pai, o companheiro incansável de nossa caminhada nas trilhas do Tempo, prossigamos doando à vida o que tenhamos de melhor.
-Não lhes firam os espinhos da marcha no chão da Terra. Ainda que as sementes do bem e da esperança venham a cair em glebas aparentemente estéreis, esses valores nunca desaparecem.
-Chuvas de provações e canículas de angústia surgem nos climas da existência, erosões inesperadas convertem altos montes em vales e planícies, tempestades arrasadoras explodem, por vezes, e transformam as paisagens…
-Rochedos se deslocam, desertos se fazem verdes, abismos alcançam alturas, fontes desabrocham de penhas esquecidas e as sementes de Deus erigem prodigiosos jardins…
-Flores despontam por toda parte e perfumes inesperados buscam os céus.
-Tudo isso vemos daqui, deste “Mais Além”, que é continuidade da própria Terra.
-A morte pode trazer as sombras da noite, entretanto, a vida reinará sempre e ninguém lhe barra as fulgurações do alvorecer.
-Nós, os que voltamos do mundo, somos unicamente viajores de retorno ao lar.
-A saudade é a sentinela que nos guarda nos dois Planos. Aí nos faz chorar na sede de presença e aqui nos aflige no desajuste da distância… Mas, é da lei do Senhor, seguirmos sempre ao encontro do Bem Eterno e da Eterna Beleza, para a comunhão integral no Amor Divino.
-Creiam, pais queridos, que não divago.
-Por vezes, a expectativa humana aguarda de nossas manifestações uma cornucópia de revelações, a derramar-se em valores indiscutíveis de identificação da verdade, no entanto, nem sempre a simbologia dos nomes e dos números usada na Terra consegue acender a luz que desejamos, porquanto, em muitos casos, é imprescindível que a revelação espere pela maturidade, a fim de ser útil.
-Compreenderão quanto digo, à face dos problemas de nossas vivências no mundo. Quantas vezes anelamos falar de cimos resplendentes a corações queridos que em vão nos assinalam os conceitos, habituados que se acham à sombra respeitável em que se encontram, realizando o melhor que se lhes faz possível.
-Não desejo dizer que estejamos num intercâmbio de ordem superior àquele que se verifica entre os entes amados. Não é bem isso. O problema é de amor que sabe compreender para saber esperar.
-Onde exista uma fagulha de amor, aí está a presença de Deus, e Deus é a própria paciência convertida em esperança no trabalho incessante do Bem a tudo e a todos.
-Venho agradecer-lhes. Se posso atingir o objetivo a que me proponho, estou satisfeito. Entendemo-nos e isso vale mais que quaisquer argumentos tendentes à discórdia, porque a discórdia será sempre desequilíbrio e o desequilíbrio é sempre perda de tempo. Amemo-nos sempre mais e sirvamos quanto se nos faça possível.
-Em nossa companhia temos o Irmão Cassiano que a identificação nos arquivos humanos não consegue a ficha talvez desejável.
-
-De onde vem o sol que nos ilumina, detido no Espaço, a fim de sustentar-nos a vida?
-
-Que nome doaremos ao firmamento, quando sem nuvens?
-Como exumar a memória dos anjos que esculpiram na Terra as flores primeiras?
-Quem saberá a procedência dos gênios tutelares que combinaram os agentes químicos no nascimento do mundo para a fabricação dos perfumes conhecidos do homem?
-Assim também, aqui, vezes e vezes, defrontamo-nos com aqueles que nos embalaram nas noites do tempo, amparando-nos e amando-nos, muito antes que os conhecêssemos.
-Irmão Cassiano será um ser assim celestial e terrestre que inspirou a existência de meu avô Cassiano, a união dele com a vó Cecília,
-para que meu pai aparecesse e me entregasse aos seus braços.
-Mãezinha querida… Ele será o amor indefinível, o mensageiro que fala com o silêncio e que nos ama com a bênção do apoio oculto e incessante, para mim semelhante ao dos anjos.
-Dessa atmosfera de alegria e de entendimento em que esse mesmo sublime benfeitor me recebeu é que tenho escrito, na ânsia de pintar com palavras os quadros de minha nova vida.
-As cores, porém, não são figuras geometrizáveis e muitas vezes troco impressões com os pais queridos no domínio inabordável das ideias mais puras, com as quais operamos no caminho das horas em que seguimos juntos e separados, visíveis e invisíveis, felizes e aflitos, qual se nos mantivéssemos numa corrente sutil de sorrisos e lágrimas, de esperanças e desconsolos, de tristezas e alegrias…
-Mas este é o acesso a vencer e não temos outro, porque as Leis de Deus determinam que nos ausentemos, por vezes, uns dos outros para amar-nos muito mais, aprendendo, ao mesmo tempo, a compreender e amar aqueles que ainda não amávamos e nem compreendíamos.
-Agradeço por tudo o que nos deram neste mês de aniversários coloridos de imorredouras lembranças,
-tempo de mães e filhos, horas sagradas de lar e momentos de reaconchego nos ninhos de ternura em que evoluímos pela dor e pelo trabalho para o Amor Sempre Maior.
-Agradeço à irmã Nury Dolores
-e aos seus filhos queridos pelos diálogos de fé renovadora e pelas bênçãos de cooperação em nossas tarefas; à irmã Lucy pela entrega dos brindes de paz e carinho em benefício dos corações maternos, tantas vezes desalentados e sofridos no mundo; à irmã Olga Duprat
-pelas preces de confiança em nossa colaboração, pedindo resistência nas provas redentoras; agradecemos, tantos amigos juntos e eu mesmo, por tudo o que fizeram e fazem por amenizar o sofrimento, onde encontram esse buril de Deus, esculturando o progresso espiritual.
-Pai amigo, muito obrigado, querida mãezinha, muito obrigado. Minhas letras refletem saudade, mas essa saudade é um Sete-Estrelo
-de amor e esperança em meu coração.
-Estou renascido e feliz por pertencer-lhes, reconhecendo que nós três pertencemos a Deus.
-Sigamos juntos para diante. Hoje é o calendário humano a desfolhar os dias com números e siglas convencionais, no entanto, amanhã será a imortalidade vitoriosa e o reencontro sem adeus.
-Muito amor com todo o coração e todos os sonhos do filho que os reúne no mesmo beijo envolvente de confiança e carinho na união em Deus, luminosa e sem fim.
-Sempre o filho reconhecido.
-Mãezinha querida, querido papai Abigail. Unidos, peçamos a Deus nos abençoe.
-Tempo vai, tempo vem… Correm as dificuldades no trânsito das horas. As provas seguem voando, embora, por vezes, com asas de chumbo…
-A renovação se processa. A mudança age com força inexorável.
-Entretanto, o amor é a presença de DEUS. Luz envolvente e imperecível. Por isso mesmo, a saudade deixa de ser um caminho de sombra para ser a chama da esperança, nas vias do reencontro.
-Estas reflexões me ocorrem à frente do Natal, quando Jesus nos reúne a todos no mesmo ideal de solidariedade. Uma compreensão nova desponta por dentro de nós e inclinamo-nos, de uns para os outros, entendendo-nos por irmãos autênticos, viajores da mesma estrada e filhos do mesmo pai.
-Mãezinha, embora as dificuldades de intercâmbio, estou feliz. Permutamos, diariamente, as nossas impressões e, momento a momento, endereço à Eterna Bondade a minha gratidão por haver encontrado nos pais amados, que me acolheram, os melhores companheiros do mundo.
-Associo-me ao júbilo de nossa casa nas recordações de Jesus e compartilho do trabalho bendito em que surpreendo tantos irmãos nossos, nos mais variados setores da experiência na vida.
-Muito grato, mãezinha, por matricular-me na escola bendita da beneficência em que as revelações da Bondade Divina se nos fazem mais acessíveis aos corações.
-Penso na alegria dos amigos que recolhem, sob a neblina da provação, as notícias do Divino Benfeitor, com o anseio baldado de expressá-la em quadros de luz que nos dessem as dimensões do amor infinito do Cristo de Deus, vencendo as eras e dominando as circunstâncias do mundo, conquistando almas e comunidades, iluminando vidas e reajustando corações, cada vez mais.
-Mãezinha, a sua bondade é o meu cartão de Boas Festas, que encaminho a quantos conheço, porquanto, em todos os votos que formulo, estão as sementes vivas dos seus exemplos de abnegação e carinho.
-Que o Natal e o Ano Novo lhes ofereça — a ambos — pais queridos, tudo aquilo que a vida contenha de melhor.
-De coração ligado à ternura com que se dedicam aos companheiros da retaguarda, levantando-lhes o ânimo, para que se ergam para Deus e se façam felizes, tanto quanto já nos sentimos esperançados de encontrar a alegria perfeita, com a vitória sobre nós mesmos, peço a DEUS nos conserve plenamente integrados na união fraternal, uns com os outros, a fim de aprendermos a servir com o Divino Servidor.
-E estendendo os meus votos de paz e felicidades a todos os corações amigos que nos oferecem base e estrutura às tarefas em que nos comprometemos na Seara do Bem, entrega-lhes o coração reconhecido e feliz, o filho e companheiro que lhes segue os passos na jornada de elevação, reafirmando-lhes que sou e serei sempre o filho que os ama infinitamente e lhes deve cada vez mais,
-Querida mãezinha e meu querido papai Abigail. Abençoem-me.
-A noite recorda a outra de cinco anos de retaguarda. Depois do ofício religioso em que nos vimos consternados pelo sofrimento da separação, o recolhimento em casa, depois de tantos cerimoniais, para o silêncio.
-Tudo recapitulado, temos hoje, a dor transformada em alegria. As notas do cântico de angústia são, neste momento, melodias de júbilo em nossos corações que o tempo transfigurou em relicários de esperança.
-Lembro-me de todas as minudências e, nesta hora, associo a nossa querida Beth em minhas recordações, de vez que naquela alma de menina e moça os acontecimentos haviam assumido a face do horror.
-Graças a Deus estamos longe daqueles dias, que medearam entre o 9 e o 16 de março, comprimindo-nos os sentimentos, qual se estivéssemos prensados numa estreita câmara de fogo.
-Quando pude abraçar o papai, em pleno tratamento intensivo, no hospital, num encontro, aparentemente, de sonho, já me encontrava, então, liberto de todos os laços negativos que me algemavam àquela sede de reencontro.
-Agradeço a Deus e aos nossos mentores quanto aprendemos, em dias tão poucos, assimilando ensinamentos que apenas se recolhem no educandário de angústia.
-Mãezinha querida, a vida continua… Os nossos diálogos dentro da vida são os mesmos. O amor jamais desaparece.
-A vida é luz perene. A morte será sempre a grande ilusão. Tudo vibra. Da estrela ao verme e do abismo ao espaço celeste, as marcas sublimes da Presença de Deus se destacam, indicando-nos os cimos que nos cabem atingir.
-Ainda hoje, sei o preço que os pais queridos resgatam em saudade e pranto, no que se refere à minha suposta ausência; entretanto, reconforto-me ao pensar que celebramos o meu renascimento na Vida Triunfante, onde todo gemido humano se converte num hino de esperança e onde as maiores tribulações se dissolvem na alegria perfeita, à maneira da nuvem que desaparece à frente do sol.
-Agradeço aos pais queridos quanto fizeram e fazem a meu favor, creditando-me a felicidade, que sabem esculpir para os outros, em nome do filho que tanto lhes deve e peço ao Senhor da Vida enriquece-los de bênçãos sempre maiores.
-Estamos aqui, alguns amigos, o Beto e eu, expressando o nosso reconhecimento a Deus pelos genitores que nos concedeu para a travessia da Terra. E o vovô José Henrique com a vovó Dosolina compartilham aqui de nosso contentamento.
-Permitirá Jesus, venhamos a exteriorizar esta nossa felicidade, estendendo-a a todos os nossos corações queridos que, em se nos vinculando à família, são credores de nosso amor.
-Mãezinha querida, muito grato pelas doces evocações de nossos registros mais íntimos.
-Estou feliz por vê-los felizes e quanto possa, trabalharei para que esse pão bendito de paz e alegria não nos falte à mesa do coração em quantidade suficiente para que possamos torná-lo extensivo aos outros, especialmente os que trilham a mesma estrada de experiência, suportando as aflições e as lágrimas que lhes marcam a vida.
-À nossa estimada irmã Lucy, os nossos corações agradecidos. Somos todos uma família só. Por isso mesmo, as palavras de gratidão e carinho a cada coração do nosso núcleo afetivo se faz mensagem de agradecimento a todos.
-Prosseguimos trabalhando e nisso consiste a nossa realização maior. Sinto-me profundamente integrado nesse luminoso complexo de paz e amor e rendo graças ao Senhor por isso.
-Mãezinha Maura, receba com o papai Abigail um painel de saudades, emoldurado em flores de esperança, dessa esperança que vibra imortal no coração de seu filho que lhes deseja o Céu na Terra, com todas as maravilhas de Deus a lhes brilharem no caminho de construtores do Bem.
-Para ambos, a vida toda e todo o carinho do filho cada vez mais reconhecido.
-Querida mãezinha Maura, com o papai Abigail, receba os meus votos ao Senhor da Vida pela paz e bom ânimo em nossas tarefas.
-Mãezinha, em seu querido aniversário, se eu pudesse materializar uma rosa, seria ela a mensageira de meu reconhecimento, a envolvê-la no perfume dos mais lindos sentimentos que a sua dedicação me deu a guardar.
-
-n
-Se possuísse uma estrela, oferecê-la-ia ao seu querido coração, para que significasse meu próprio anseio de ser tudo aquilo que o seu amor sonhou para seu filho e que ainda não consegui efetivar.
-Se conseguisse deter as bênçãos de uma fonte, decerto que solicitaria à corrente cantar para a sua alma os mais belos versos de ternura e gratidão que me fosse possível.
-Se conseguisse um pedaço de céu azul, escreveria nele um poema em que se gravassem todas as minhas saudades e esperanças, tentando patentear quanto devo à sua presença constante em meu espírito.
-Entretanto, mãezinha, já que seu filho não dispõe de semelhantes possibilidades e riquezas, ofereço-lhe o meu coração pobre, mas sempre seu, com as minhas súplicas ao Senhor para que a paz e a felicidade lhes iluminem todos os passos, ao lado de meu querido pai Abigail e no clima de todos os nossos.
-Indiscutivelmente, cabe-me limitar as felicitações que lhes trago, tão só às luzes da alegria e às esperanças que nos abençoam a caminhada. No entanto, querida mãezinha, sei que o seu amor nos adivinha os cuidados da hora presente.
-Com as suas mãos e com as mãos de nossos amigos, achamo-nos todos, os companheiros do nosso amigo Nasser, compartilhando-lhe o trabalho, no auxílio aos familiares.
-Perdoe-me, se lhe digo que os nossos pensamentos destes dias estão encharcados com as lágrimas de nossa irmã Shirley, de nosso amigo Miguel, do companheiro Gugu, da nossa benfeitora Angelina, da Bebel e das irmãzinhas e com o zelo ativo, mas tisnado de inquietações do nosso Nasser, empenhado com outros familiares no socorro aos corações queridos.
-Estamos trabalhando. Seu filho que passou por ocorrência tão difícil à frente de máquinas, se comove diante do quadro doméstico de nossos amigos em prova, associando-se às preces pela tranquilidade de todos.
-Peçamos aos Mensageiros do Mais Alto, possam balsamizar os sofrimentos de nossos queridos companheiros. Isso faz parte da nossa festa, porque o seu carinho me ensinou esse dever de lealdade aos amigos que se nos fazem parcelas da própria alma.
-Continuaremos agindo no tentame de fazer o melhor pelos queridos irmãos, reunidos na tribulação redentora.
-Agradeço ao papai Abigail o carinho de sempre e colocando os pais queridos em meus próprios braços, imitando-lhes os gestos de proteção com que me afagavam em criança, entrega-lhes todo o coração, o filho reconhecido que prossegue pedindo a Deus por nossa paz e felicidade.
-Querida mãezinha, abençoe-me.
-Sem palavras para configurar todo o nosso amor numa longa carta, o amigo José Roberto
-e eu deixamos às queridas mãezinhas o nosso coração reconhecido com a certeza de que estamos bem, conquanto em serviço ativo no apoio aos nossos amigos que se transferiram para cá recentemente, em nos reportando ao irmão Miguel e ao companheiro.
-Se poucas palavras podem dizer muito, queremos afirmar que o nosso carinho é cada vez maior, e que estamos a postos, a fim de nos reunirmos todos como sempre, na fé viva em Deus e no exercício do Bem:
-Carinhosamente, o filho reconhecido.
-Querida mãezinha Maura, receba com meu pai Abigail as minhas saudações de carinho no pedido de bênção com que me sinto o seu menino de sempre.
-Dia das mães à vista! Achamo-nos todos na condição de viajores que retornaram do Exterior, avistando as primeiras paisagens da terra em que nasceram. É um grito de júbilo, esse que tantos de nós aqui desferimos, rogando aos Céus pela felicidade dos anjos maternos que nos refizeram a vida no Plano Terrestre.
-Mãezinha, comigo está outra mãezinha — a sua pérola que lhe recebeu as irradiações de amor no poema que a sua ternura lhe endereçou. A querida vovó faz questão de nos partilhar a companhia, não só para festejar esta formosa antevéspera do Abençoado Dia, mas igualmente para me complementar a solicitação de paz que lhe fortaleça e revigore o coração.
-Ela, a nossa doce benfeitora do lar, recorda a sua presença e a presença dos outros filhos queridos — tio Ivo, tio Oswaldo, tia Iracema, tia Ilda e tia Aurora, entrando em prece na qual recomenda todas as suas queridas crianças a Deus, porque especialmente para o carinho materno, os filhos não crescem. São sempre personagens de sonho que não se marginalizam nas sendas do amor puro.
-Pois é, querida mãezinha Maura, vovó e eu vimos pedir-lhe alegria e tranquilidade, aliás, merecidas por seu espírito de devotamento e renúncia em auxílio a nós todos.
-A nossa mensagem mais expressiva para a sua sensibilidade, mensagem quase cifrada pelas forças de nosso amor em família, se condensa numa simples frase — o seu não foi abençoado. A sua palavra criteriosa visou a defender amigos queridos que precisam de segurança para facear o futuro.
-A sua compreensão elevada com o apoio de muitos amigos nossos, procurou preservar um abençoado ninho no qual aves ainda implumes — os primos queridos — necessitam preparar as energias próprias ante o grande porvir. A sua paz não pode ser quebrada por haver atendido a um dever que todos consideramos respeitável e justo.
-E, nesse esquema, ficou uma questão: A ideia de que a nossa abençoada empresa doméstica, com o auxílio da Divina Providência permanecerá neste princípio: “O não é o limite”.
-Efetuada a defensiva de nossas crianças, no sentido de lhes assegurar ambiente para o amanhã próximo, deixemos os assuntos correlatos entregues a Deus, através da responsabilidade das criaturas.
-O caminho é longo para o aperfeiçoamento que demandamos e não precisamos apontar esse ou aquele espinho na trilha das pessoas amadas, porque já possuímos espinhos em quantidade suficiente para nos afastarem de qualquer repouso inadequado.
-Mantenhamos o “não” que é “sim” para o bem do nosso grupo de corações queridos e sigamos para diante, na certeza de que o Senhor é o nosso Pastor e nada nos faltará,
-recordando as belas palavras do salmo de Davi. O tempo é o grande instrutor de todos, de todos nós que estamos matriculados no educandário da vida.
-Descanse com o papai Abigail e permaneça contente com a sua inspiração que solucionou antecipadamente um problema grave que certamente mais tarde apareceria.
-Peço dizer ao tio Ivo e à tia Doroti que a bondade de Deus nunca falha e que não temos motivos para aflições. Trabalhemos e pelo filtro do serviço a Providência de Deus de tudo nos cercará, a fim de que nos vejamos na abastança precisa.
-Rogo ainda seja dito à tia Aurora que acompanhamos a festa do nosso caro companheiro José Eduardo e que desejamos a ele, junto da companheirinha, todas as alegrias e bênçãos que a vida possa lhes proporcionar no clima da proteção do Mais Alto.
-Aqui em nossa companhia está o nosso Beto e o caro Nasser que nos partilham a mensagem de filhos reconhecidos, desejando felicidade e saúde, paz e bom ânimo às mãezinhas queridas, nossa irmã Lucy e nossa irmã Shirley.
-A ora, mãezinha Maura, é o momento de me recolher à câmara da saudade. Creia, porém, que a saudade de seu filho é sempre uma esperança crescendo no coração.
-Estamos juntos como nunca estivemos.
-Papai, mãezinha, o seu coração e eu mesmo, somos um trio de fé viva em Deus na atividade incessante do bem, na qual vamos acumulando experiências das melhores.
-Beijando-lhes as mãos reunidas nas minhas mãos enternecidas no reconhecimento por tudo o que lhes devo em carinho e proteção, segurança e bênção, sou o filho que permanece, sempre em casa e sempre no coração, na alegria de ser a criança para a qual os meus pais queridos construíram o caminho da felicidade e um mundo melhor.
-Sempre o filho reconhecido.
+“Hoje, vivemos mais felizes, oramos pelo Shabi e constantemente sentimo-lo conosco em espírito.
+“Pelas palavras de nosso filho compreendemos que a morte não existe.”
+1 Querida mãezinha, meu querido pai, é tudo tão novo para mim, em nosso reencontro, que tenho dificuldade para registrar um assunto antigo: — pedir a bênção de Deus para nós. Mas peço esse auxílio da Divina Providência e conto com esse amparo em nosso favor.
+2 Se pudesse, não escreveria e sim tomaria lápis e cores, tintas ou pincéis, para transmitir os meus pensamentos de agora num quadro em que lhes pudesse dar a ideia de toda a beleza e de toda a luz que nos rodeiam.
+3 Entretanto, é preciso resignar-me às linhas cravadas no papel, tentando exprimir o que sinto. E tenho lágrimas dentro de minha alegria. E noto a alegria, dissipando-me o sofrimento em que se nos convertem as lembranças aqui nesta abertura entre duas vidas.
+4 De qualquer modo, resumo as emoções novas em duas palavras que, de certa maneira, me quadram as expressões: estou bem. Isto, queridos pais, é tão pouco e, no entanto, diz tudo porque, na essência, quero explicar que todas as aflições passaram.
+5 Aquele nove de março n foi realmente um dia de duras provas.
+6 Quando deixei a Beth em casa, voltei no mesmo veículo para tomar condução de volta. Conhecia o Expresso e não podia supor que seria surpreendido pela hora do adeus de que não cogitávamos.
+7 A viagem seguia o compasso da Anchieta, entre paradas de trânsito e marchas rápidas para ganho de tempo, quando, ao movimentar-me, caí num impacto de forças que não sei descrever.
+8 Quis reagir, gritar por socorro, mas tive a impressão de que um suave anestésico me entorpecia as forças mentais. 9 O pensamento escorria do cérebro, como se fora sangue a derramar-se de outros campos do corpo…
+10 Sensação estranha de esvaziamento, compelindo-me a desfalecer, sem recursos de resistência. 11 E dormi. Pelo menos, foi esta a convicção que me ficou na memória ao despertar…
+12 Conflitos e providências, toques e chamamentos, em torno de mim, pareciam pesadelo no qual mergulhava, cada vez mais, até que entrei num nível de inconsciência profunda.
+13 Acordei, queridos pais, numa sala de apresentação muito difícil com as palavras de que conseguiria dispor.
+14 Era eu e não era eu quem se achava ali numa dualidade que não podia reconhecer.
+15 Ouvi conversações e apontamentos que me espantavam. No entanto, médicos e enfermeiros me administravam agentes sedativos que me impuseram mais descanso.
+16 Em meio daquela penumbra da mente, em que todas as formas se expressavam desfiguradas ao meu olhar, acreditei-me acidentado e, por isso mesmo, doente.
+17 Com muito esforço pronunciava os nomes de vocês dois, rogando para que me buscassem, até que um amigo, o Irmão Cassiano, n amorável benfeitor, à feição de um pai a tutelar-me, explicou que representava a nossa família, a recomendar-me tranquilidade e confiança. A presença de semelhante protetor me acalmava…
+18 A situação prosseguia, quando o Irmão Cassiano me avisou que traria meus pais para um reencontro.
+19 Daí a instantes, notei-lhes a presença quase rente a mim. Mãezinha e você, papai, pediam notícias minhas.
+20 Só então entendi que me achava em São Bernardo, não longe do quilômetro em que havia sofrido a queda.
+21 Compreendi mais. Aquele não era um recinto de hospital, mas um refúgio de paz e silêncio, reservado aos que já haviam atravessado as fronteiras, das quais me vejo agora muito aquém…
+22 Fiz tudo para fazer-me sentir, a fim de tranquilizá-los. Mas o amigo fiel que me assistia e ainda me protege, em todos os passos da Vida Nova, me sossegou o espírito atribulado, afirmando que estavam dados os primeiros passos para que recebessem minhas notícias.
+23 A ideia da despedida, então, tomou corpo em mim e só aí, querida mamãe compreendi que seu filho havia deixado a veste física, à feição de alguém que se transfere de estrada ou de carro, a fim de tomar caminhos diferentes.
+24 Confesso, meu pai, que a lágrimas me subiram do coração para os olhos, porque não me sentia preparado, quanto agora, para o exame do assunto. Era muito sonho e muita esperança a tombarem do alto de nossas aspirações e projetos.
+25 Lembrei-me, porém, da energia de mamãe no trato da vida e da compreensão de meu pai nas dificuldades do mundo e, refletindo nos exemplos de amor e fé viva com que ambos sempre me facultaram o entendimento mais elevado e mais correto, busquei asserenar-me…
+26 Ainda assim, a pesquisa que efetuavam, as perguntas que ouvi, sem que me fosse possível qualquer manifestação para esclarecê-los, me feriam o coração.
+27 Observei que me procuravam com aflições iguais às minhas e percebi que a incerteza era o clima de nossos pensamentos e indagações.
+28 Sofri ao vê-los na retirada com as mesmas dúvidas que me pairavam na alma e caí em crise de lágrimas como não podia deixar de ser.
+29 Novamente, o benfeitor incansável promoveu os meios de socorro dos quais necessitava e um sono maior abençoou a minha cabeça cansada…
+30 Depois, quando voltei de novo a mim, achava-me em outro lugar e em outra instituição. Um hospital-escola, ou melhor, um educandário de recuperação espiritual me abrira as portas e, desse recanto de paz e amor, consegui sair devidamente acompanhado para visitar papai na Beneficência Portuguesa. Desde então, melhorei, porque era preciso consolidar minha fé para ser-lhes útil.
+31 Necessário esquecer-me para sustentar, quanto possível, o querido enfermo que abracei, contente, no dia em que o vimos de alta, em nossa casa da Alameda. 32 E vou compreendendo que todas as nossas dificuldades vieram, mãezinha, do passado em que o seu Shabi contraiu dívidas a pagar.
+33 Sei que você, minha mãe e minha luz, tem sofrido um calvário em que a subida é feita de pranto a encharcar o caminho de angústia. Mas peço a ambos para que a alegria nos retome os corações.
+34 Mamãe, você foi sempre, é e será em nossa vida, a nossa fortaleza e o nosso carinho, a nossa confiança e a nossa paz. Continue, fervorosa na certeza de que Deus não nos abandona.
+35 Realmente, não desejo lembrar as ocorrências estranhas que seu filho atravessou naquele março distante.
+36 Mãezinha, agora, temos papai por nosso maior amor, por filho mesmo a quem precisamos doar toda a nossa ternura. Estejamos unidos em nossa esperança.
+37 Sei tudo quanto empreendem em meu benefício e tudo agradeço. E creiam que a parte melhor do nosso culto de saudade, é a bênção de reconforto que estendem aos que necessitam de apoio, em dificuldades e provações maiores do que as nossas.
+38 Ouço o que me falam em casa, quando as nossas recordações se completam na mesma faixa de saudade e de indagação; entretanto, rogo para que me tratem, como antes, desenhando ou fotografando, estudando a vida ou construindo mentalmente o futuro.
+39 Peço a meu pai coragem e alegria. Medicar-se, sim, e sempre, mas situar a fé em Deus sobre os recursos humanos. E você, mãezinha, conserve aquela felicidade tão nossa, quando suas mãos queridas me guiavam nos estudos, abençoando-me as lições. Não deixe a alegria de lado quando me fite os retratos. Recorde-me, sorrindo.
+40 Lembro todos os poemas de amor de seu amor para mim, suas expressões de ternura, suas páginas de carinho e seus bilhetes que sempre me alcançam e me alcançaram o coração por estrelas de felicidade e de paz.
+41 Estamos todos mais juntos. E trabalharemos para o nosso reencontro, um dia, com as bênçãos de Deus, no Plano Maior.
+42 Lembre-se, querida mamãe, de seus doces avisos quando os obstáculos surgiam: — Meu filho, tudo está melhorando e amanhã nossa vida será sempre mais linda. Baseado em suas disposições, sempre venci e creia que estou vencendo… 43 Pois até as barreiras da morte consigo atravessar, conquanto sob auxílio, a fim de lhes enviar as notícias de agora.
+44 Penso, queridos pais, que não devo criar sugestões no ânimo das afeições que deixei. Todos estamos na bênção de Deus e hoje reconheço que Deus a nós todos conduzirá para o que nos seja mais aconselhável e mais justo. Mas envio, em silêncio, a todos os corações queridos, a mensagem de meu agradecimento e de meu afeto. Entrego-lhes, pais queridos, todo o meu coração nesta carta.
+45 Companheiros queridos hoje me compartilham das novas experiências. Os colegas de ontem estão aqui de outra forma, porque tenho novos irmãos de trabalho e de ideal para valorizar os tesouros do tempo, enquanto melhoro a mim mesmo, a fim de auxiliá-los.
+46 Querida mãezinha e querido papai, aqui o horário pede o ponto final.
+47 E desejo reafirmar que a morte não é ponto final em cousa alguma do que pertence à vida. Que seria a morte? Sorriam comigo e imaginemos nela um ponto e vírgula. Aquele sinal que indica estação de pausa, sem ser fim no que se escreve.
+48 Recebam meus melhores pensamentos, nos quais volto à prece, rogando a Deus por nossa felicidade.
+49 Papai querido e querida mãezinha com vocês dois aquele abraço de três juntos.
+50 E conservem a certeza de que este beijo que deposito aqui nesta folha simples, é o beijo de muito carinho e de muita saudade, de muito amor e de muita esperança do filho sempre mais de vocês dois, sempre mais reconhecido e sempre mais filho do coração.
+1 Mãezinha do coração, pai amado.
+2 Shabi. Sou eu, meus amores.
+3 O fone está funcionando pelos fios da alma.
+4 Quero falar de saudade e o amor toma a vanguarda. O carinho quer dizer que é maior. 5 Noto a luta entre os meus próprios sentimentos. Faço a soma de todas as parcelas de vida que me compõem o ser e a média geral é amor sempre. Amor, saudade e gratidão.
+6 Os assuntos são tantos! Mas, acima de tudo, querida mãezinha, quero informá-la de que estou lendo todas as páginas que você me escreve pelo correio da prece. O silêncio é o carteiro.
+7 Agradeço por tudo e respondo:
+— Sim, me lembro…— Amo-a cada vez mais…— Papai está em meu coração…— A falta hoje é muito maior que a de ontem…— Sim, mãezinha, as estrelas brilharão outra vez para nós.— Seu filho está bem…— Por que? Porque as leis de DEUS queriam que assim fosse…— Mamãe, a saudade não é uma provação, é um convite de DEUS para trabalharmos com mais dedicação pelos que suportam dificuldades maiores que as nossas…— A Primavera chegou, mas seu filho não está ausente…— Trago flores para você e meu pai, flores perfumadas de carinho incessante…— Nossos quadros são hoje mais belos…— Mãe, as tintas do pensamento são muito mais lindas que as da paleta terrestre…— E os nossos ideais estão sempre mais vivos…— Só o bem, meditemos unicamente no bem, porque o bem triunfará…
+8 Querida mãezinha, aqui estão algumas de minhas respostas às suas páginas de ternura.
+9 “Fale conosco desta vez, meu filho…” Escutei o seu pedido que para seu filho é sempre uma lembrança querida e nunca uma solicitação, e estou aqui para dizer-lhes que estou melhorando.
+10 Papai, você está melhor de saúde e precisa melhorar cada vez mais… Rogo ao seu espírito valoroso sobrepor-se aos estados negativos da tristeza sem significação. Estamos, presentemente, mais juntos.
+11 Aqui, vivemos segundo o que pensamos e pensamos conforme a substância de nossa personalidade, nas faixas espirituais da vida.
+12 Creiam, pais queridos, que estou trabalhando, ativamente, na preparação do futuro. Procuro renovar-me por dentro de mim mesmo, a fim de criar elevação por fora de mim.
+13 Agradeço igualmente o esforço que fazem na colaboração comigo. Embora, por vezes, muito longe, espacialmente falando, recebo de imediato as ideias que me transmitem e com essas ideias as ações que elas produzem. 14 Recursos que se transformam em alegria, amparo que se faz bênção, doações que se convertem na felicidade dos corações que as recebem e moedas que acabam parecendo luzes acesas nas sombras da necessidade.
+15 “Em memória”, “pela saudade de nosso Shabi”, “pela felicidade de nosso filhinho”, “pela reafirmação de nosso imenso amor” — tudo isso me vem aos ouvidos, com as preces que trocamos, pedindo a Deus, uns pelos outros. n
+16 Querida mãezinha e meu querido pai, não sei fotografar o meu reconhecimento com as palavras; se pudesse desenharia um coração amparado em duas estrelas, simbolizando eu mesmo, apoiado em ambos, amados meus.
+17 A vida para mim, nos domínios diferentes da Espiritualidade, vai decorrendo em paz, não obstante as inquietações injustificáveis, mas compreensíveis da ausência. Digo “injustificáveis”, porque aprendi com meus pais queridos que os Planos da Bondade Divina se efetuam sobre os nossos próprios desígnios.
+18 Meu avô José Henrique Pereira e a querida vó Dosolina são para mim benfeitores e guardiães. n Outros protetores do campo familiar me reanimam e me auxiliam.
+19 Estou deslanchando do cais de nossa profunda ligação para o mar alto da compreensão maior. Isso não significa mais extensão na distância e nem qualquer perda no tesouro de nosso afeto. Desejo apenas configurar que estou seguindo adiante, já que o tempo é uma força de Deus que não se pode interromper. Sigamos.
+20 Para complementar os meus exercícios de ação espiritual, venho oferecendo a cooperação possível ao nosso irmão Carlos Alberto Fernandes, no Santa Rita, ante o pedido de nossa irmã Lucy, n e podem acreditar que, apesar do longo processo quase comatoso, ele encontrou sempre, e está encontrando de nossa parte, o concurso que se nos faz possível. E as almas queridas agradecem o carinho e a assistência que o cercam.
+21 Mãezinha, o amor é um mistério. Por mistério designamos o inexplicável. Começa em nós, de nós para alguém e depois somos três: pai, mãe e filho ou mais filhos a estendermos essa bênção do Céu, de uns para com os outros. 22 Depois mamãe, o coração assemelha-se a uma concha de luz que se multiparte. E iniciamos um novo curso de entendimento. Esse curso bendito, em que vocês dois me instalaram, é a beneficência.
+23 Eu que amava tanto as artes todas, principio hoje por penetrar na maior de todas — a do amor ao próximo, seja o próximo quem seja.
+24 Mamãe, esses meninos descalços, que você me ensinou a ver melhor, poderiam estar conosco, em nossa casa e esses doentes todos que abraçamos, poderiam ser nossos parentes, amados por você e por meu pai, como vocês me amaram e me amam.
+25 Mãe, é tão bela a claridade da gratidão nos que sofrem e é tão soberanamente lindo o reflexo estelar das mães que carregam os filhinhos nos próprios braços que, por vezes, seu filho imagina que Deus não teria outro lugar para colocar o império dos astros senão no regaço da noite, porque é no sofrimento humano que a Divina Providência traçou o caminho de luz para a felicidade.
+26 Trabalhemos sim, esperando e amando-nos naqueles que nos estendem os braços sequiosos de paz e compreensão.
+27 As recordações de São Bernardo desapareceram. n Lembro-me do apóstolo de Jesus que se dedicava a salvar os que jaziam relegados à neve e ao desamparo e penso que ele também ter-nos-á estendido as mãos socorredoras, enviando recursos para que nos reencontrássemos na saudade e na oração, que hoje se renovam para nós, em forças abençoadas de esperança e serviço.
+28 Agora são as áreas enormes de realização que nos esperam, a cada dia, para que nós, dia por dia, venhamos a construir a estrada de nosso reencontro.
+29 Creiam-me presente. Não há separação entre os que se amam. 30 O pensamento é uma tomada de poder divino ante os recursos prodigiosos da Criação. 31 Basta a ideia, e a imagem voa ao nosso encontro com a velocidade sem acesso, por agora, ao conhecimento dos homens.
+32 Chamem-me, sim. Estou disponível. Nossos mentores daqui me afirmam que posso cooperar de algum modo e que as ligações nossas se erigem por intercâmbio de ação sempre mais construtiva.
+33 Sei que sou ainda tão pequeno, a fim de ajudar e preciso fazer esta ressalva; no entanto, é um privilégio ser lembrado por pais tão queridos e tão devotados ao bem, quanto os meus, para que eu aprenda a realizar algo de bom ou de mais útil.
+34 Estou feliz com as lágrimas de alegria que esta carta me faculta verter. Quando o coração quer falar de amor e não encontra as frases próprias, encontra em si mesmo as pérolas do pranto de júbilo e de gratidão pela possibilidade de expressá-lo. As letras explicam e as lágrimas contam.
+35 Mãezinha e meu pai, dou-lhes, de novo, todo o meu afeto com toda a minha alma, centralizada nesta mensagem. Muito grato por tudo, tento, quase diariamente, repetir-lhes estas palavras com os beijos que lhes entrego, no silêncio.
+36 E, quando ambos conseguem algum repouso, no veludo da noite, muitas vezes, lembro-me de quando me embalavam em criança e peço a Deus, em oração, para que os conserve valorosos e felizes. Não consigo devolver as melodias com que me acalmavam no adormecer, mas posso transformar a prece que faço num hino sem palavras em que Deus sabe que a minha gratidão fala muito alto.
+37 Fiquem fortes e contentes, é o que lhes desejo.
+38 E, agradecendo o carinho de todos os nossos e a especial atenção dos amigos que nos compartilham da alegria deste reencontro, entrego-lhes o coração reconhecido, o filho e companheiro de trabalho e de esperança, hoje quanto ontem, agora quanto será sempre.
+1 Mãezinha querida e papai sempre lembrado, abençoem-me.
+2 A falta de escrita não é falta de saudade. n
+3 Nasser, Sidney e outros amigos, estamos aqui a desejar-lhes um Feliz Natal. n
+4 Um amigo nos solicita seja transmitido à Irmã Dona Célia uma rogativa — a rogativa para que ele se console e se fortaleça onde se encontra. É o nosso irmão Célio Onida Araújo, n que veio para cá, de improviso, num processo de aneurisma que ele mesmo desconhecia. O rapaz chora e pede à mãezinha para que não se lamente, a fim de que ele possa reconfortar-se.
+5 Não me esqueço, mãezinha, dos parentes e amigos. Vovó Cecília e a irmã Déa n ainda estão com a prioridade em meus cuidados — depois dos cuidados com que sigo papai e você mesma.
+6 Agora, faça seu filho sorrir e fique feliz. Com um beijo repartido entre ambos — você e papai — sou o seu filho enamorado de seu carinho e cada vez mais agradecido ao seu amor. Sempre seu
+1 Querida mãezinha, querido papai. Abençoem-me.
+2 O aniversário está em minha lembrança. n Luzes foram acesas nas preces e votos de felicidades que me ofertaram.
+3 Flores de esperança em nossa festa da alma enriquecem-me a nova vida.
+4 Mãezinha, seria difícil, ontem para mim, fazer-me lembrado, de vez que a nossa comemoração a três com Jesus estava sendo levada a efeito. Não que seu filho menospreze a doce recordação de família e sim porque tenho visto o sofrimento sob novas modalidades.
+5 A dor nas mães, aqui reunidas ontem, não me permitia manifestações de regozijo fremente. E a deixar de faze-lo com a espontaneidade e a extroversão que são minhas, julguei mais acertado votar a favor dos propósitos de nosso irmão Eurico Tadeu que precisava podar as angústias da senhora Mirthes que, entre nós, mostrava um coração agoniado e profundamente deprimido. n
+6 Hoje, ao que me parece, posso falar em nossa festa e agradecer, rogando ao papai fortalecer-se e viver tranquilo. 7 Alegria é saúde. 8 Reconforto é remédio. 9 Carinho é tranquilizante. 10 Amor é vida. 11 Entendimento é renovação.
+12 Peço a Deus para que em minha condição de filho tenha posto o ponto nos iiiis do caminho.
+13 Agradeço por tanta ternura, tesouro que me faz infinitamente feliz. 14 E agradeço ainda o bem que espalharam em favor dos nossos doentes e das crianças, pensando em mim.
+15 Sou dos filhos mais ricos da Terra, porque os tenho no coração.
+16 À vista disso entrego-lhes, com toda a minhalma, o coração do filho e companheiro reconhecido de todos os instantes,
+1 Mãezinha querida, querido pai. Deus na bênção com que me fortalecem.
+2 Estimaria escrever com pinceladas de luz estas frases de agradecimento e de amor. Enunciar o meu reconhecimento pelas flores deste mês de Maio que me ofereceram. Contar-lhes muito mais com carinho do que com palavras o júbilo, por vezes, orvalhado de lágrimas com que lhes recebo no coração as lembranças queridas.
+3 Entretanto, nas grandes emoções, os vocábulos do mundo assemelham-se a pedras, naturalmente buriláveis para a execução de obras-primas, sempre frias, à maneira de tijolos preciosos e inertes, incapazes de exprimir a linguagem do coração.
+4 Curvo-me, portanto, aqui, neste lápis amigo para restringir-me à convenção do “muito obrigado”.
+5 Muito obrigado pela ternura com que me recordam, pelo devotamento com que me escrevem as mais belas páginas da alma, pelo apoio incessante com que me acompanham em plena vida espiritual, pela cobertura de abnegação com que me enviam tantas estrelas de bondade, através do caminho e da presença de tantas crianças e de tantos jovens, em cujo contato me rememoram a vida.
+6 Querida mãezinha, acolho em espírito as memórias sublimes que a sua generosidade me endereça pela face de todos aqueles pequeninos e de todos os companheiros de juventude, em sorrisos e bênçãos de compreensão e de amor. Sei que a sua maravilhosa vida é um castelo encantado nas tarefas de educação a que se consagrou e através das suas lágrimas de saudade e esperança, ausculto a própria Humanidade.
+7 Sempre ouvi dizer que o ouvido terrestre escuta, na concha, o idioma do mar, e um filho registra na dedicação maternal todas as forças que sustentam o mundo. Continue sim, abençoando e auxiliando…
+8 Ao lado de meu pai, o companheiro incansável de nossa caminhada nas trilhas do Tempo, prossigamos doando à vida o que tenhamos de melhor. 9 Não lhes firam os espinhos da marcha no chão da Terra. Ainda que as sementes do bem e da esperança venham a cair em glebas aparentemente estéreis, esses valores nunca desaparecem.
+10 Chuvas de provações e canículas de angústia surgem nos climas da existência, erosões inesperadas convertem altos montes em vales e planícies, tempestades arrasadoras explodem, por vezes, e transformam as paisagens…
+11 Rochedos se deslocam, desertos se fazem verdes, abismos alcançam alturas, fontes desabrocham de penhas esquecidas e as sementes de Deus erigem prodigiosos jardins…
+12 Flores despontam por toda parte e perfumes inesperados buscam os céus.
+13 Tudo isso vemos daqui, deste “Mais Além”, que é continuidade da própria Terra. 14 A morte pode trazer as sombras da noite, entretanto, a vida reinará sempre e ninguém lhe barra as fulgurações do alvorecer.
+15 Nós, os que voltamos do mundo, somos unicamente viajores de retorno ao lar.
+16 A saudade é a sentinela que nos guarda nos dois Planos. Aí nos faz chorar na sede de presença e aqui nos aflige no desajuste da distância… Mas, é da lei do Senhor, seguirmos sempre ao encontro do Bem Eterno e da Eterna Beleza, para a comunhão integral no Amor Divino.
+17 Creiam, pais queridos, que não divago. 18 Por vezes, a expectativa humana aguarda de nossas manifestações uma cornucópia de revelações, a derramar-se em valores indiscutíveis de identificação da verdade, no entanto, nem sempre a simbologia dos nomes e dos números usada na Terra consegue acender a luz que desejamos, porquanto, em muitos casos, é imprescindível que a revelação espere pela maturidade, a fim de ser útil.
+19 Compreenderão quanto digo, à face dos problemas de nossas vivências no mundo. Quantas vezes anelamos falar de cimos resplendentes a corações queridos que em vão nos assinalam os conceitos, habituados que se acham à sombra respeitável em que se encontram, realizando o melhor que se lhes faz possível.
+20 Não desejo dizer que estejamos num intercâmbio de ordem superior àquele que se verifica entre os entes amados. Não é bem isso. O problema é de amor que sabe compreender para saber esperar. 21 Onde exista uma fagulha de amor, aí está a presença de Deus, e Deus é a própria paciência convertida em esperança no trabalho incessante do Bem a tudo e a todos.
+22 Venho agradecer-lhes. Se posso atingir o objetivo a que me proponho, estou satisfeito. Entendemo-nos e isso vale mais que quaisquer argumentos tendentes à discórdia, porque a discórdia será sempre desequilíbrio e o desequilíbrio é sempre perda de tempo. Amemo-nos sempre mais e sirvamos quanto se nos faça possível.
+23 Em nossa companhia temos o Irmão Cassiano que a identificação nos arquivos humanos não consegue a ficha talvez desejável. 24 De onde vem o sol que nos ilumina, detido no Espaço, a fim de sustentar-nos a vida? 25 Que nome doaremos ao firmamento, quando sem nuvens?
+26 Como exumar a memória dos anjos que esculpiram na Terra as flores primeiras?
+27 Quem saberá a procedência dos gênios tutelares que combinaram os agentes químicos no nascimento do mundo para a fabricação dos perfumes conhecidos do homem?
+28 Assim também, aqui, vezes e vezes, defrontamo-nos com aqueles que nos embalaram nas noites do tempo, amparando-nos e amando-nos, muito antes que os conhecêssemos.
+29 Irmão Cassiano será um ser assim celestial e terrestre que inspirou a existência de meu avô Cassiano, a união dele com a vó Cecília, n para que meu pai aparecesse e me entregasse aos seus braços.
+30 Mãezinha querida… Ele será o amor indefinível, o mensageiro que fala com o silêncio e que nos ama com a bênção do apoio oculto e incessante, para mim semelhante ao dos anjos.
+31 Dessa atmosfera de alegria e de entendimento em que esse mesmo sublime benfeitor me recebeu é que tenho escrito, na ânsia de pintar com palavras os quadros de minha nova vida.
+32 As cores, porém, não são figuras geometrizáveis e muitas vezes troco impressões com os pais queridos no domínio inabordável das ideias mais puras, com as quais operamos no caminho das horas em que seguimos juntos e separados, visíveis e invisíveis, felizes e aflitos, qual se nos mantivéssemos numa corrente sutil de sorrisos e lágrimas, de esperanças e desconsolos, de tristezas e alegrias…
+33 Mas este é o acesso a vencer e não temos outro, porque as Leis de Deus determinam que nos ausentemos, por vezes, uns dos outros para amar-nos muito mais, aprendendo, ao mesmo tempo, a compreender e amar aqueles que ainda não amávamos e nem compreendíamos.
+34 Agradeço por tudo o que nos deram neste mês de aniversários coloridos de imorredouras lembranças, n tempo de mães e filhos, horas sagradas de lar e momentos de reaconchego nos ninhos de ternura em que evoluímos pela dor e pelo trabalho para o Amor Sempre Maior.
+35 Agradeço à irmã Nury Dolores n e aos seus filhos queridos pelos diálogos de fé renovadora e pelas bênçãos de cooperação em nossas tarefas; à irmã Lucy pela entrega dos brindes de paz e carinho em benefício dos corações maternos, tantas vezes desalentados e sofridos no mundo; à irmã Olga Duprat n pelas preces de confiança em nossa colaboração, pedindo resistência nas provas redentoras; agradecemos, tantos amigos juntos e eu mesmo, por tudo o que fizeram e fazem por amenizar o sofrimento, onde encontram esse buril de Deus, esculturando o progresso espiritual.
+36 Pai amigo, muito obrigado, querida mãezinha, muito obrigado. Minhas letras refletem saudade, mas essa saudade é um Sete-Estrelo † de amor e esperança em meu coração.
+37 Estou renascido e feliz por pertencer-lhes, reconhecendo que nós três pertencemos a Deus.
+38 Sigamos juntos para diante. Hoje é o calendário humano a desfolhar os dias com números e siglas convencionais, no entanto, amanhã será a imortalidade vitoriosa e o reencontro sem adeus.
+39 Muito amor com todo o coração e todos os sonhos do filho que os reúne no mesmo beijo envolvente de confiança e carinho na união em Deus, luminosa e sem fim.
+40 Sempre o filho reconhecido.
+1 Mãezinha querida, querido papai Abigail. Unidos, peçamos a Deus nos abençoe.
+2 Tempo vai, tempo vem… Correm as dificuldades no trânsito das horas. As provas seguem voando, embora, por vezes, com asas de chumbo… 3 A renovação se processa. A mudança age com força inexorável. 4 Entretanto, o amor é a presença de DEUS. Luz envolvente e imperecível. Por isso mesmo, a saudade deixa de ser um caminho de sombra para ser a chama da esperança, nas vias do reencontro.
+5 Estas reflexões me ocorrem à frente do Natal, quando Jesus nos reúne a todos no mesmo ideal de solidariedade. Uma compreensão nova desponta por dentro de nós e inclinamo-nos, de uns para os outros, entendendo-nos por irmãos autênticos, viajores da mesma estrada e filhos do mesmo pai.
+6 Mãezinha, embora as dificuldades de intercâmbio, estou feliz. Permutamos, diariamente, as nossas impressões e, momento a momento, endereço à Eterna Bondade a minha gratidão por haver encontrado nos pais amados, que me acolheram, os melhores companheiros do mundo.
+7 Associo-me ao júbilo de nossa casa nas recordações de Jesus e compartilho do trabalho bendito em que surpreendo tantos irmãos nossos, nos mais variados setores da experiência na vida.
+8 Muito grato, mãezinha, por matricular-me na escola bendita da beneficência em que as revelações da Bondade Divina se nos fazem mais acessíveis aos corações.
+9 Penso na alegria dos amigos que recolhem, sob a neblina da provação, as notícias do Divino Benfeitor, com o anseio baldado de expressá-la em quadros de luz que nos dessem as dimensões do amor infinito do Cristo de Deus, vencendo as eras e dominando as circunstâncias do mundo, conquistando almas e comunidades, iluminando vidas e reajustando corações, cada vez mais.
+10 Mãezinha, a sua bondade é o meu cartão de Boas Festas, que encaminho a quantos conheço, porquanto, em todos os votos que formulo, estão as sementes vivas dos seus exemplos de abnegação e carinho.
+11 Que o Natal e o Ano Novo lhes ofereça — a ambos — pais queridos, tudo aquilo que a vida contenha de melhor.
+12 De coração ligado à ternura com que se dedicam aos companheiros da retaguarda, levantando-lhes o ânimo, para que se ergam para Deus e se façam felizes, tanto quanto já nos sentimos esperançados de encontrar a alegria perfeita, com a vitória sobre nós mesmos, peço a DEUS nos conserve plenamente integrados na união fraternal, uns com os outros, a fim de aprendermos a servir com o Divino Servidor.
+13 E estendendo os meus votos de paz e felicidades a todos os corações amigos que nos oferecem base e estrutura às tarefas em que nos comprometemos na Seara do Bem, entrega-lhes o coração reconhecido e feliz, o filho e companheiro que lhes segue os passos na jornada de elevação, reafirmando-lhes que sou e serei sempre o filho que os ama infinitamente e lhes deve cada vez mais,
+1 Querida mãezinha e meu querido papai Abigail. Abençoem-me.
+2 A noite recorda a outra de cinco anos de retaguarda. Depois do ofício religioso em que nos vimos consternados pelo sofrimento da separação, o recolhimento em casa, depois de tantos cerimoniais, para o silêncio.
+3 Tudo recapitulado, temos hoje, a dor transformada em alegria. As notas do cântico de angústia são, neste momento, melodias de júbilo em nossos corações que o tempo transfigurou em relicários de esperança.
+4 Lembro-me de todas as minudências e, nesta hora, associo a nossa querida Beth em minhas recordações, de vez que naquela alma de menina e moça os acontecimentos haviam assumido a face do horror.
+5 Graças a Deus estamos longe daqueles dias, que medearam entre o 9 e o 16 de março, comprimindo-nos os sentimentos, qual se estivéssemos prensados numa estreita câmara de fogo. 6 Quando pude abraçar o papai, em pleno tratamento intensivo, no hospital, num encontro, aparentemente, de sonho, já me encontrava, então, liberto de todos os laços negativos que me algemavam àquela sede de reencontro.
+7 Agradeço a Deus e aos nossos mentores quanto aprendemos, em dias tão poucos, assimilando ensinamentos que apenas se recolhem no educandário de angústia.
+8 Mãezinha querida, a vida continua… Os nossos diálogos dentro da vida são os mesmos. O amor jamais desaparece. 9 A vida é luz perene. A morte será sempre a grande ilusão. Tudo vibra. Da estrela ao verme e do abismo ao espaço celeste, as marcas sublimes da Presença de Deus se destacam, indicando-nos os cimos que nos cabem atingir.
+10 Ainda hoje, sei o preço que os pais queridos resgatam em saudade e pranto, no que se refere à minha suposta ausência; entretanto, reconforto-me ao pensar que celebramos o meu renascimento na Vida Triunfante, onde todo gemido humano se converte num hino de esperança e onde as maiores tribulações se dissolvem na alegria perfeita, à maneira da nuvem que desaparece à frente do sol.
+11 Agradeço aos pais queridos quanto fizeram e fazem a meu favor, creditando-me a felicidade, que sabem esculpir para os outros, em nome do filho que tanto lhes deve e peço ao Senhor da Vida enriquece-los de bênçãos sempre maiores.
+12 Estamos aqui, alguns amigos, o Beto e eu, expressando o nosso reconhecimento a Deus pelos genitores que nos concedeu para a travessia da Terra. E o vovô José Henrique com a vovó Dosolina compartilham aqui de nosso contentamento.
+13 Permitirá Jesus, venhamos a exteriorizar esta nossa felicidade, estendendo-a a todos os nossos corações queridos que, em se nos vinculando à família, são credores de nosso amor.
+14 Mãezinha querida, muito grato pelas doces evocações de nossos registros mais íntimos.
+15 Estou feliz por vê-los felizes e quanto possa, trabalharei para que esse pão bendito de paz e alegria não nos falte à mesa do coração em quantidade suficiente para que possamos torná-lo extensivo aos outros, especialmente os que trilham a mesma estrada de experiência, suportando as aflições e as lágrimas que lhes marcam a vida.
+16 À nossa estimada irmã Lucy, os nossos corações agradecidos. Somos todos uma família só. Por isso mesmo, as palavras de gratidão e carinho a cada coração do nosso núcleo afetivo se faz mensagem de agradecimento a todos.
+17 Prosseguimos trabalhando e nisso consiste a nossa realização maior. Sinto-me profundamente integrado nesse luminoso complexo de paz e amor e rendo graças ao Senhor por isso.
+18 Mãezinha Maura, receba com o papai Abigail um painel de saudades, emoldurado em flores de esperança, dessa esperança que vibra imortal no coração de seu filho que lhes deseja o Céu na Terra, com todas as maravilhas de Deus a lhes brilharem no caminho de construtores do Bem.
+19 Para ambos, a vida toda e todo o carinho do filho cada vez mais reconhecido.
+1 Querida mãezinha Maura, com o papai Abigail, receba os meus votos ao Senhor da Vida pela paz e bom ânimo em nossas tarefas.
+2 Mãezinha, em seu querido aniversário, se eu pudesse materializar uma rosa, seria ela a mensageira de meu reconhecimento, a envolvê-la no perfume dos mais lindos sentimentos que a sua dedicação me deu a guardar. n
+3 Se possuísse uma estrela, oferecê-la-ia ao seu querido coração, para que significasse meu próprio anseio de ser tudo aquilo que o seu amor sonhou para seu filho e que ainda não consegui efetivar.
+4 Se conseguisse deter as bênçãos de uma fonte, decerto que solicitaria à corrente cantar para a sua alma os mais belos versos de ternura e gratidão que me fosse possível.
+5 Se conseguisse um pedaço de céu azul, escreveria nele um poema em que se gravassem todas as minhas saudades e esperanças, tentando patentear quanto devo à sua presença constante em meu espírito.
+6 Entretanto, mãezinha, já que seu filho não dispõe de semelhantes possibilidades e riquezas, ofereço-lhe o meu coração pobre, mas sempre seu, com as minhas súplicas ao Senhor para que a paz e a felicidade lhes iluminem todos os passos, ao lado de meu querido pai Abigail e no clima de todos os nossos.
+7 Indiscutivelmente, cabe-me limitar as felicitações que lhes trago, tão só às luzes da alegria e às esperanças que nos abençoam a caminhada. No entanto, querida mãezinha, sei que o seu amor nos adivinha os cuidados da hora presente.
+8 Com as suas mãos e com as mãos de nossos amigos, achamo-nos todos, os companheiros do nosso amigo Nasser, compartilhando-lhe o trabalho, no auxílio aos familiares.
+9 Perdoe-me, se lhe digo que os nossos pensamentos destes dias estão encharcados com as lágrimas de nossa irmã Shirley, de nosso amigo Miguel, do companheiro Gugu, da nossa benfeitora Angelina, da Bebel e das irmãzinhas e com o zelo ativo, mas tisnado de inquietações do nosso Nasser, empenhado com outros familiares no socorro aos corações queridos. n
+10 Estamos trabalhando. Seu filho que passou por ocorrência tão difícil à frente de máquinas, se comove diante do quadro doméstico de nossos amigos em prova, associando-se às preces pela tranquilidade de todos.
+11 Peçamos aos Mensageiros do Mais Alto, possam balsamizar os sofrimentos de nossos queridos companheiros. Isso faz parte da nossa festa, porque o seu carinho me ensinou esse dever de lealdade aos amigos que se nos fazem parcelas da própria alma.
+12 Continuaremos agindo no tentame de fazer o melhor pelos queridos irmãos, reunidos na tribulação redentora.
+13 Agradeço ao papai Abigail o carinho de sempre e colocando os pais queridos em meus próprios braços, imitando-lhes os gestos de proteção com que me afagavam em criança, entrega-lhes todo o coração, o filho reconhecido que prossegue pedindo a Deus por nossa paz e felicidade.
+1 Querida mãezinha, abençoe-me.
+2 Sem palavras para configurar todo o nosso amor numa longa carta, o amigo José Roberto n e eu deixamos às queridas mãezinhas o nosso coração reconhecido com a certeza de que estamos bem, conquanto em serviço ativo no apoio aos nossos amigos que se transferiram para cá recentemente, em nos reportando ao irmão Miguel e ao companheiro. n
+3 Se poucas palavras podem dizer muito, queremos afirmar que o nosso carinho é cada vez maior, e que estamos a postos, a fim de nos reunirmos todos como sempre, na fé viva em Deus e no exercício do Bem:
+4 Carinhosamente, o filho reconhecido.
+1 Querida mãezinha Maura, receba com meu pai Abigail as minhas saudações de carinho no pedido de bênção com que me sinto o seu menino de sempre.
+2 Dia das mães à vista! Achamo-nos todos na condição de viajores que retornaram do Exterior, avistando as primeiras paisagens da terra em que nasceram. É um grito de júbilo, esse que tantos de nós aqui desferimos, rogando aos Céus pela felicidade dos anjos maternos que nos refizeram a vida no Plano Terrestre.
+3 Mãezinha, comigo está outra mãezinha — a sua pérola que lhe recebeu as irradiações de amor no poema que a sua ternura lhe endereçou. A querida vovó faz questão de nos partilhar a companhia, não só para festejar esta formosa antevéspera do Abençoado Dia, mas igualmente para me complementar a solicitação de paz que lhe fortaleça e revigore o coração.
+4 Ela, a nossa doce benfeitora do lar, recorda a sua presença e a presença dos outros filhos queridos — tio Ivo, tio Oswaldo, tia Iracema, tia Ilda e tia Aurora, entrando em prece na qual recomenda todas as suas queridas crianças a Deus, porque especialmente para o carinho materno, os filhos não crescem. São sempre personagens de sonho que não se marginalizam nas sendas do amor puro.
+5 Pois é, querida mãezinha Maura, vovó e eu vimos pedir-lhe alegria e tranquilidade, aliás, merecidas por seu espírito de devotamento e renúncia em auxílio a nós todos.
+6 A nossa mensagem mais expressiva para a sua sensibilidade, mensagem quase cifrada pelas forças de nosso amor em família, se condensa numa simples frase — o seu não foi abençoado. A sua palavra criteriosa visou a defender amigos queridos que precisam de segurança para facear o futuro.
+7 A sua compreensão elevada com o apoio de muitos amigos nossos, procurou preservar um abençoado ninho no qual aves ainda implumes — os primos queridos — necessitam preparar as energias próprias ante o grande porvir. A sua paz não pode ser quebrada por haver atendido a um dever que todos consideramos respeitável e justo.
+8 E, nesse esquema, ficou uma questão: A ideia de que a nossa abençoada empresa doméstica, com o auxílio da Divina Providência permanecerá neste princípio: “O não é o limite”.
+9 Efetuada a defensiva de nossas crianças, no sentido de lhes assegurar ambiente para o amanhã próximo, deixemos os assuntos correlatos entregues a Deus, através da responsabilidade das criaturas.
+10 O caminho é longo para o aperfeiçoamento que demandamos e não precisamos apontar esse ou aquele espinho na trilha das pessoas amadas, porque já possuímos espinhos em quantidade suficiente para nos afastarem de qualquer repouso inadequado.
+11 Mantenhamos o “não” que é “sim” para o bem do nosso grupo de corações queridos e sigamos para diante, na certeza de que o Senhor é o nosso Pastor e nada nos faltará, ( † ) recordando as belas palavras do salmo de Davi. O tempo é o grande instrutor de todos, de todos nós que estamos matriculados no educandário da vida.
+12 Descanse com o papai Abigail e permaneça contente com a sua inspiração que solucionou antecipadamente um problema grave que certamente mais tarde apareceria.
+13 Peço dizer ao tio Ivo e à tia Doroti que a bondade de Deus nunca falha e que não temos motivos para aflições. Trabalhemos e pelo filtro do serviço a Providência de Deus de tudo nos cercará, a fim de que nos vejamos na abastança precisa.
+14 Rogo ainda seja dito à tia Aurora que acompanhamos a festa do nosso caro companheiro José Eduardo e que desejamos a ele, junto da companheirinha, todas as alegrias e bênçãos que a vida possa lhes proporcionar no clima da proteção do Mais Alto.
+15 Aqui em nossa companhia está o nosso Beto e o caro Nasser que nos partilham a mensagem de filhos reconhecidos, desejando felicidade e saúde, paz e bom ânimo às mãezinhas queridas, nossa irmã Lucy e nossa irmã Shirley.
+16 Agora, mãezinha Maura, é o momento de me recolher à câmara da saudade. Creia, porém, que a saudade de seu filho é sempre uma esperança crescendo no coração.
+17 Estamos juntos como nunca estivemos. 18 Papai, mãezinha, o seu coração e eu mesmo, somos um trio de fé viva em Deus na atividade incessante do bem, na qual vamos acumulando experiências das melhores.
+19 Beijando-lhes as mãos reunidas nas minhas mãos enternecidas no reconhecimento por tudo o que lhes devo em carinho e proteção, segurança e bênção, sou o filho que permanece, sempre em casa e sempre no coração, na alegria de ser a criança para a qual os meus pais queridos construíram o caminho da felicidade e um mundo melhor.
+20 Sempre o filho reconhecido.
 O texto anterior tem cunho estritamente familiar, conversando Shabi com os pais, a propósito de ocorrências que, na época, os preocupavam, agora felizmente superadas.
 Podemos, ainda uma vez, compreender a intensidade da participação dos filhos desencarnados na vida dos pais e familiares, buscando cooperar para a solução dos problemas que preocupam os entes amados.
 Oportuno lembrar que, toda dor, tristeza ou desespero dos familiares se refletem diretamente nos entes queridos que partiram para a Vida Maior, causando-lhes sofrimento muito grande. Daí ser comum, nas mensagens psicografadas, a petição dos filhos rogando aos pais que procurem não chorar mais, vivendo tanto quanto possível mais felizes, pois a alegria e a felicidade deles são fundamentais para a sua readaptação no Além, após a morte física.
 Os nomes citados são de familiares de D. Maura, além de menção ao outro Beto, ao Nasser, já nossos conhecidos, e a suas mãezinhas, Lucy e Shirley.
-Querido papai Abigail e querida mãezinha Maura.
-A noite avança e o tempo aqui é um condomínio de que os Mensageiros do Mais Alto são os síndicos.
-Não posso alongar-me. Estou, no entanto, na companhia do vovô Evaristo,
-trazendo ao papai a nossa mensagem de gratidão e de alegria, formada por nossas preces a Jesus, a fim de vê-lo refeito e plenamente integrado em suas faculdades orgânicas.
-A tempestade passou. Agora, apenas rogamos ao querido benfeitor paternal conduza o carro físico na consciência de que fomos agraciados com muitas bênçãos. Estou contente, marcando esse ponto de restauração que nos faz a todos mais felizes para a continuidade de nossas tarefas.
-Mãezinha, tenho comigo todos os seus poemas e cartas, petições e votos. Respondi a tudo no silêncio de nossas meditações, resumindo muitas das minhas laudas imensas de amor com estas palavras: — Pais queridos, recebam o meu amor invariável! Sejam sempre felizes! É o pensamento incessante do filho que pede às tintas do sonho se agregarem para o mais lindo quadro de alegria, no qual eu lhes ofereça, como sempre, todo o coração do
-Querida mãezinha Maura e querido papai Abigail, agradeço a festa de aniversário que ambos enriqueceram de flores mil.
-Aqui me encontro, à feição de um menino feliz que conquistou o que mais quis — uma árvore perene de Natal que se repete em todos os dias, com as mais lindas alegrias.
-Realmente o amor é muito mais forte do que o tempo e vence a própria morte que deixa de existir, quando nos afastamos do presente no encalço do porvir…
-Por tudo em que me rejubilo, sempre mais animado e mais tranquilo, à frente da ternura na qual ambos me trazem tudo aquilo de que vivi na difícil procura: amor, encantamento, regozijo e beleza, luz, vida e esplendor que em tudo vemos superar a riqueza soberana da própria natureza…
-Sim, tenho tudo o que sonhei nos trechos de esperança, quanto a felicidade, e na plenitude de paz e de alegria que me envolve e me invade, peço a Deus os proteja sempre mais, na união benfazeja que deve iluminar os passos e caminhos dos melhores dos pais.
-Mãezinha Maura, é verdade que vejo tudo quanto se faz por meu desejo. Vejo a Grécia querida por matriz de cultura e exaltação da vida, noto
-Sócrates
-e
-Platão
-,
-Tucídides
-e Terêncio,
-nas imagens felizes em que se nos conservam as raízes…
-Vejo Roma e as Sabinas,
-Rômulo e Remo
-e os juízes, formando o povo eleito que nos faria sobre a Terra a força do direito…
-Vejo, ainda, a história linda e os lances de terror, quando os imperadores se mantinham por inimigos dos cristãos e fito de novo
-Constantino
-, alterando o destino de povos e nações…
-Mas ouça, mãe querida… Tudo isso que contemplo está nas telas que visito, as formas sempre belas do que já foi, porquanto, na verdade, os senhores da História já sofreram bastante e partiram no rumo do Melhor e do Mais Alto…
-Posso dizer-lhe ainda que não vou às estrelas, mas, posso surpreendê-las na formosura nova em que tudo o que somos se renova; entretanto, muito mais do que tudo isto, agora o que mais sinto, pela necessidade ou pelo instinto, é o desafio da Vida Espiritual a que me alteie e me refaça.
-Acima de tudo isto — volto a dizer quero notar-me em Cristo, a fim de ser o filho agradecido que lhes deve o dom de ser sem parecer o coração que os ama, incendido na chama do amor em luz sem fim…
-Agora para mim, só o amor é essencial e esse amor encontrei nos pais que Deus me deu para que eu descubra mais amor nos mais altos caminhos…
-Agradeço aos amigos que vieram à nossa festa de saudade e alegria. José Roberto, o amigo e irmão, com muitos outros, saúda os pais amados a quem nós três somos reconhecidos.
-Queria transmitir tudo o que tento expor numa tela de amor em que o rosa fosse a tônica do sonho… mas não tenho tinta alguma, nem qualquer palavra que, por fim, me resuma o coração que trago.
-Recebam, pois de minhas mãos vazias a gratidão de todos os meus dias e essa ternura sem fronteiras, sem sombra e sem limites em que me reconheço unicamente a criança que os segue e não alcança. E, por mim Jesus dirá, nas estradas da vida, tudo quanto quero falar e não consigo…
-Guardem, assim, esse pouco de mim, no afeto sem tamanho em que sou e serei para os dois, hoje, agora e depois, meus tesouros de amor, o filho sonhador e o companheiro de todos os instantes ante os queridos pais — o menino feliz que os ama sempre mais.
-(Este
-, psicografado na data do natalício de Shabi, responde, uma a uma, a indagações formuladas pela genitora — sem que o médium o soubesse — momentos antes de sua recepção.)
-— Sim, me lembro…
-— Amo-a cada vez mais…
-— Papai está em meu coração…
-— A falta hoje é muito maior que a de ontem…
-— Sim, mãezinha, as estrelas brilharão outra vez para nós.
-— Seu filho está bem…
-— Por que? Porque as leis de DEUS queriam que assim fosse…
-— Mamãe, a saudade não é uma provação, é um convite de DEUS para trabalharmos com mais dedicação pelos que suportam dificuldades maiores que as nossas…
-— A Primavera chegou, mas seu filho não está ausente…
-— Trago flores para você e meu pai, flores perfumadas de carinho incessante…
-— Nossos quadros são hoje mais belos…
-— Mãe, as tintas do pensamento são muito mais lindas que as da paleta terrestre…
-— E os nossos ideais estão sempre mais vivos…
-— Só o bem, meditemos unicamente no bem, porque o bem triunfará…
+1 Querido papai Abigail e querida mãezinha Maura.
+2 A noite avança e o tempo aqui é um condomínio de que os Mensageiros do Mais Alto são os síndicos.
+3 Não posso alongar-me. Estou, no entanto, na companhia do vovô Evaristo, n trazendo ao papai a nossa mensagem de gratidão e de alegria, formada por nossas preces a Jesus, a fim de vê-lo refeito e plenamente integrado em suas faculdades orgânicas.
+4 A tempestade passou. Agora, apenas rogamos ao querido benfeitor paternal conduza o carro físico na consciência de que fomos agraciados com muitas bênçãos. Estou contente, marcando esse ponto de restauração que nos faz a todos mais felizes para a continuidade de nossas tarefas. n
+5 Mãezinha, tenho comigo todos os seus poemas e cartas, petições e votos. Respondi a tudo no silêncio de nossas meditações, resumindo muitas das minhas laudas imensas de amor com estas palavras: — Pais queridos, recebam o meu amor invariável! Sejam sempre felizes! É o pensamento incessante do filho que pede às tintas do sonho se agregarem para o mais lindo quadro de alegria, no qual eu lhes ofereça, como sempre, todo o coração do
+1 Querida mãezinha Maura e querido papai Abigail, agradeço a festa de aniversário que ambos enriqueceram de flores mil.
+2 Aqui me encontro, à feição de um menino feliz que conquistou o que mais quis — uma árvore perene de Natal que se repete em todos os dias, com as mais lindas alegrias.
+3 Realmente o amor é muito mais forte do que o tempo e vence a própria morte que deixa de existir, quando nos afastamos do presente no encalço do porvir…
+4 Por tudo em que me rejubilo, sempre mais animado e mais tranquilo, à frente da ternura na qual ambos me trazem tudo aquilo de que vivi na difícil procura: amor, encantamento, regozijo e beleza, luz, vida e esplendor que em tudo vemos superar a riqueza soberana da própria natureza…
+5 Sim, tenho tudo o que sonhei nos trechos de esperança, quanto a felicidade, e na plenitude de paz e de alegria que me envolve e me invade, peço a Deus os proteja sempre mais, na união benfazeja que deve iluminar os passos e caminhos dos melhores dos pais.
+6 Mãezinha Maura, é verdade que vejo tudo quanto se faz por meu desejo. Vejo a Grécia querida por matriz de cultura e exaltação da vida, noto Sócrates e Platão, Tucídides e Terêncio, † nas imagens felizes em que se nos conservam as raízes…
+7 Vejo Roma e as Sabinas, † Rômulo e Remo † e os juízes, formando o povo eleito que nos faria sobre a Terra a força do direito…
+8 Vejo, ainda, a história linda e os lances de terror, quando os imperadores se mantinham por inimigos dos cristãos e fito de novo Constantino, alterando o destino de povos e nações…
+9 Mas ouça, mãe querida… Tudo isso que contemplo está nas telas que visito, as formas sempre belas do que já foi, porquanto, na verdade, os senhores da História já sofreram bastante e partiram no rumo do Melhor e do Mais Alto…
+10 Posso dizer-lhe ainda que não vou às estrelas, mas, posso surpreendê-las na formosura nova em que tudo o que somos se renova; entretanto, muito mais do que tudo isto, agora o que mais sinto, pela necessidade ou pelo instinto, é o desafio da Vida Espiritual a que me alteie e me refaça.
+11 Acima de tudo isto — volto a dizer quero notar-me em Cristo, a fim de ser o filho agradecido que lhes deve o dom de ser sem parecer o coração que os ama, incendido na chama do amor em luz sem fim…
+12 Agora para mim, só o amor é essencial e esse amor encontrei nos pais que Deus me deu para que eu descubra mais amor nos mais altos caminhos…
+13 Agradeço aos amigos que vieram à nossa festa de saudade e alegria. José Roberto, o amigo e irmão, com muitos outros, saúda os pais amados a quem nós três somos reconhecidos.
+14 Queria transmitir tudo o que tento expor numa tela de amor em que o rosa fosse a tônica do sonho… mas não tenho tinta alguma, nem qualquer palavra que, por fim, me resuma o coração que trago.
+15 Recebam, pois de minhas mãos vazias a gratidão de todos os meus dias e essa ternura sem fronteiras, sem sombra e sem limites em que me reconheço unicamente a criança que os segue e não alcança. E, por mim Jesus dirá, nas estradas da vida, tudo quanto quero falar e não consigo…
+16 Guardem, assim, esse pouco de mim, no afeto sem tamanho em que sou e serei para os dois, hoje, agora e depois, meus tesouros de amor, o filho sonhador e o companheiro de todos os instantes ante os queridos pais — o menino feliz que os ama sempre mais.
+(Este poema de amor, psicografado na data do natalício de Shabi, responde, uma a uma, a indagações formuladas pela genitora — sem que o médium o soubesse — momentos antes de sua recepção.)
+
+---
+
+## 
+
+Natal de 1981. Entardecer.
+Em tranquila estância do interior paulista, acompanhávamos os derradeiros momentos do dia que findava, contemplando através da ramaria de pequeno bosque de pinheiros, as cambiantes do poente, enquanto Vênus — a estrela Vésper — enviava-nos sua plácida claridade, qual pegureiro de luz a ensinar-nos o caminho dos Céus…
+E com as atenções voltadas para este livro, na época em fase final de estruturação, deixamos o pensamento volitar em torno da quietude daquela tarde serena, povoando-nos instintivamente a memória a lembrança de companheiros que já partiram para a Vida Maior, quais os Betos, autores espirituais deste livro, com quem mantivemos, então, longos diálogos, apenas testemunhados pelo vento suave que acariciava a tarde, envolvendo o casario que se aboletava por entre as fraldas das colinas da pequena cidade.
+Ao recordar os valorosos rapazes, que conhecemos através de seus pais e das mensagens que você, leitor amigo, acompanhará nas páginas que se seguem, melhor pudemos compreender a grandeza da Vida e da Misericórdia de Jesus, claramente manifestas nas palavras de nossos queridos jovens, José Roberto Pereira da Silva e José Roberto Pereira Cassiano — os Betos — tão fielmente anotadas pela pena mediúnica de Chico Xavier.
+“Mamãe, a saudade não é uma provação, é um convite de Deus para trabalharmos com mais dedicação pelos que suportam dificuldades maiores que as nossas…” Ou então: “Deus existe e a alma é imortal! A morte é alteração da forma, alteração apenas e nós todos estamos reunidos em Deus, conquanto a separação aparente…”, são frases esparsas que retiramos ao texto psicografado, para que o leitor compreenda a dimensão espiritual e o carinho do recado dos Betos aos pais.
+Por isso mesmo, pais saudosos da perda de filhos diletos, temos plena convicção de que este livro os envolverá na mesma atmosfera de júbilo e bênçãos espirituais que nos cercou e também cremos sinceramente que lhes trará ao Espírito a certeza de que os filhos amados que partiram para o Mundo Espiritual se encontram tão próximos de vocês, como se encontravam quando ainda na Terra.
+Enxuguem as abençoadas lágrimas da saudade, pois Jesus fará o resto. Dar-lhes-á a paz por que tanto anseiam e falar-lhes-á ao coração que os filhos queridos não morreram e sim renasceram para a Vida Imperecível.
+São Bernardo do Campo, 28 de fevereiro de 1982.
+
+---
+
+## 
+
+Sexto livro da COLEÇÃO JOVENS NO ALÉM, FILHOS VOLTANDO é um tanto diferente dos outros volumes que a compõem.
+E a diferença consiste justamente na principal característica desta obra: a sequência dos recados dos dois Betos, ora extensos e plenos de revelações, ora mais curtos, à feição de bilhetes, traduz um contato do filho desencarnado com os pais, estabelecido ao longo de oito e seis anos, respectivamente para José Roberto Pereira da Silva e José Roberto Pereira Cassiano.
+E, em virtude desse dilatado tempo, através de numerosas mensagens, podemos observar que o relacionamento entre pais e filhos, por via mediúnica, se estabelece, à maneira de frequente correspondência epistolar que se vai tornando, com o passar do tempo, menos cerimoniosa, mais descontraída e alegre.
+
+---
+
+## 
+
+1 Prezado leitor, As páginas deste livro acendem a luz da consolação e da alegria nas sombras da saudade de quantos reencontram entes queridos, depois de ausência que se supunha definitiva.
+2 É que, neste volume despretensioso, surgem as notícias de filhos queridos, voltando ao lar, após a separação pela morte, entretecendo poemas de ternura e reconhecimento, junto aos pais saudosos que os recolhem nos braços, em espírito, e, em seguida, permitem que o reconforto e a esperança, por eles haurido nestas mensagens de paz e amor, se estendam a corações outros que a morte envolveu no sofrimento.
+3 Filhos voltando!…
+4 Que eles possam falar-te, igualmente, leitor amigo, da bondade infinita do Senhor e da imortalidade da alma, ampliando-te o júbilo de servir e a compreensão da importância de viver, são os nossos votos.
+Uberaba, 28 de fevereiro de 1982.

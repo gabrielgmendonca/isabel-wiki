@@ -6,18 +6,19 @@
 
 ---
 
-##  — No livro de Meimei
+## 
 
-
-
-
-
+1 Meimei não é somente valorosa missionária do bem e da luz, em nosso Círculo de ação, mas também devotada orientadora de crianças e que se desvela, no mundo espiritual, pela formação da mente infantil à claridade do Evangelho Redentor.
+2 Colocando a sensibilidade a serviço da inteligência, em seu formoso ideal de servir, tomou a prece dominical e, com ela, compôs o delicado poema de comentários e contos, lendas e observações que vamos ler, recordando as lições inesquecíveis do nosso Divino Mestre.
+3 Para todas as situações difíceis e para todos os problemas da luta humana encontrou na oração do Senhor um ensino e uma solução, um apontamento e uma bênção, oferecendo-os às crianças, nestas páginas que constituem fragmentos luminosos do seu coração, em forma de letras.
+4 Que Deus lhe multiplique as energias, na plantação do bem, e que os raios de amor da sua abençoada maternidade espiritual se irradiem, com crescentes fulgurações, por toda a parte, em favor dos pequeninos, são os nossos votos.
+Pedro Leopoldo, 12 de junho de 1952.
 
 ---
 
-## 1 — Pai nosso, que estás nos Céus
+## 1
 
-Quando Jesus começou a prece dominical, satisfazendo ao pedido dos companheiros que desejavam aprender a orar, iniciou a rogativa, dizendo assim:
+1. Quando Jesus começou a prece dominical, satisfazendo ao pedido dos companheiros que desejavam aprender a orar, iniciou a rogativa, dizendo assim:
 — Pai Nosso, que estás nos Céus…
 O Mestre queria dizer-nos que Deus, acima de tudo, é nosso Pai.
 Criador dos homens, das estrelas e das flores.
@@ -27,7 +28,6 @@ Com essa afirmativa, Jesus igualmente nos explicou que somos no mundo uma só fa
 Ele próprio, a fim de instruir-nos, viveu a fraternidade pura, auxiliando os homens felizes e infelizes, os necessitados e doentes, mostrando-nos o verdadeiro caminho da perfeição e da paz.
 Na condição de aprendizes do nosso Divino Mestre, devemos seguir-lhe o exemplo.
 Se sentirmos Deus como Nosso Pai, reconheceremos que os nossos irmãos se encontram em toda parte e estaremos dispostos a ajudá-los, a fim de sermos ajudados, mais cedo ou mais tarde. A vida só será realmente bela e gloriosa, na Terra, quando pudermos aceitar por nossa grande família a Humanidade inteira.
-
 Conta-se que um velho árabe analfabeto orava com tanto fervor e com tanto carinho, cada noite, que, certa vez, o rico chefe de grande caravana chamou-o à sua presença e lhe perguntou:
 — Por que oras com tanta fé? Como sabes que Deus existe, quando nem ao menos sabes ler?
 O crente fiel respondeu:
@@ -44,7 +44,6 @@ O empregado sorriu e acrescentou:
 Então, o velho crente convidou-o para fora da barraca e, mostrando-lhe o céu, onde a Lua brilhava, cercada por multidões de estrelas, exclamou, respeitoso:
 — Senhor, aqueles sinais, lá em cima, não podem ser dos homens!
 Nesse momento, o orgulhoso caravaneiro, de olhos lacrimosos, ajoelhou-se na areia e começou a orar também.
-
 Um homem, ignorante ainda das Leis de Deus, caminhava ao longo de enorme pomar, conduzindo um pequeno de seis anos.
 Eram Antoninho e seu tio, em passeio na vizinhança da casa em que residiam.
 Contemplavam, com água na boca, as laranjas maduras, e respiravam, a bom respirar, o ar leve e puro da manhã.
@@ -60,11 +59,9 @@ O menino, contudo, muito admirado, apontou com um dos pequenos dedos para o céu
 Muito espantado, o velho empalideceu e voltou a recolocar os frutos na caixa, de onde os havia retirado, murmurando:
 — Obrigado, meu Deus, por haveres despertado a minha consciência, pelos lábios de uma criança.
 E, desde esse momento, o tio de Antoninho passou a ser realmente outro homem.
-
 Quando acordamos para a razão, descobrimos os traços vivos da Bondade de Deus, por toda parte.
 Seu imenso carinho para conosco está no Sol que nos aquece, dando sustento e alegria a todos os seres e a todas as coisas; nas nuvens que fazem a chuva para o contentamento da Natureza; nas águas dos rios e das fontes, que deslizam para o benefício das cidades, dos campos e dos rebanhos; no pão que nos alimenta; na doçura do vento que refresca; na bondade das árvores que nos estendem os galhos dadivosos, em forma de braços ricos de bênçãos; na flor que espalha perfume na atmosfera; na ternura e na segurança de nosso lar; na assistência dos nossos pais, dos nossos irmãos e dos nossos amigos que nos ajudam a vencer as dificuldades do mundo e da vida, e na providência silenciosa, que nos garante a conservação da saúde e da paz espiritual.
 Muitos homens de ciência pretendem definir Deus para nós, mas, quando reparamos na proteção do Todo-Poderoso, dispensada aos nossos caminhos e aos nossos trabalhos na Terra, em todos os instantes da vida, somos obrigados a reconhecer que o mais belo nome que podemos dar ao Supremo Senhor é justamente aquele que Jesus nos ensinou em sua divina oração: — “Nosso Pai”.
-
 Deus é nosso Pai.
 Somos irmãos uns dos outros.
 Jesus é o Divino Mestre que Deus nos enviou.
@@ -74,24 +71,22 @@ A presença de Deus pode ser facilmente observada na bondade permanente e na int
 Devemos amar-nos uns aos outros.
 A voz divina pode ser reconhecida nos bons conselhos.
 Sempre que ajudarmos, seremos ajudados.
-
-Em nossa terna Mãezinha,
+6. Em nossa terna Mãezinha,
 Cheia de santa afeição,
 Sentimos que Deus nos fala
 No fundo do coração.
 
 ---
 
-## 2 — Santificado seja o teu nome
+## 2
 
-O apostolado de Jesus foi uma constante santificação do nome de Deus.
+1. O apostolado de Jesus foi uma constante santificação do nome de Deus.
 Por isso, o Mestre não se limitou a dizer “Santificado seja o teu nome”, na oração dominical.
 Procurou, ele mesmo, louvar o Pai Celeste, distribuindo o contentamento e a paz, com todos.
 Se ele quisesse, poderia ter permanecido isolado, em algum lugar de sua predileção, para viver em pensamentos sublimes, glorificando o Todo-Poderoso com as suas meditações e com as suas preces, mas o Benfeitor Divino sabia que a mais elevada maneira de santificar a Eterna Bondade é auxiliar os outros, para que os outros também compreendam que Nosso Pai do Céu vive interessado em nossa elevação e em nossa felicidade.
 Assim entendendo, Jesus amparou os velhos e as crianças, os necessitados e os doentes, os fracos e os sofredores, amando e ajudando sempre.
 Santificando as suas relações com Deus, espalhou a esperança e a caridade na Terra, enriquecendo os homens de fraternidade e alegria.
 Tudo o que temos, tudo o que vemos, tudo o que recebemos e sentimos pertence a Deus, Nosso Pai, que tudo engrandece e aperfeiçoa, em nosso benefício. Por essa razão, devemos lembrar que estaremos santificando o nome de Deus sempre que estivermos realizando o melhor que possamos fazer.
-
 O professor contou, em aula, que, no princípio da vida na Terra, quando os minerais, as plantas e os animais souberam que era necessário santificar o nome de Deus, houve da parte de quase todos um grande movimento de atenção.
 Certas pedras começaram a produzir diamantes e outras revelaram ouro e gemas preciosas.
 As árvores mais nobres começaram a dar frutos.
@@ -109,7 +104,6 @@ O orientador da escola pensou um pouco e respondeu:
 — Nem todos os homens aprendem rapidamente as lições da vida, mas aqueles que procuram a verdade sabem que a nossa inteligência deve glorificar a Eterna Sabedoria, cultivando o bem e fugindo ao mal. As pessoas que se consagram às tarefas da fraternidade, compreendendo os semelhantes e auxiliando a todos, são as almas acordadas para a luz e que louvam realmente o nome de nosso Pai Celeste.
 E, concluindo, afirmou:
 — O Senhor deseja a felicidade de todos e, por isso, todos aqueles que colaboram pelo bem-estar dos outros são os que santificam na Terra a sua Divina Bondade.
-
 Quando a vida começava no mundo, os pássaros sofriam bastante.
 Pousavam nas árvores e sabiam voar, mas como haviam de criar os filhotinhos? Isso era muito difícil.
 Obrigados a deixar os ovos no chão, viam-se, quase sempre, perseguidos e humilhados.
@@ -122,7 +116,6 @@ Os filhotinhos começaram a nascer sem aborrecimentos, e, quando as tempestades 
 Reconhecendo que o Pai Celeste havia respondido às suas orações, as aves combinaram entre si cantar todos os dias, em louvor do Santo Nome de Deus.
 Por essa razão, há passarinhos que se fazem ouvir pela manhã, outros durante o dia e outros, ainda, no transcurso da noite.
 Quando encontrarmos uma ave cantando, lembremo-nos, pois, de que do seu coraçãozinho, coberto de penas, está saindo o eterno agradecimento que Deus está ouvindo nos Céus.
-
 O velho André era um escravo resignado e sofredor.
 Certo dia, ele soube que Jesus nos ensinara a santificar o nome de Deus e prometeu a si mesmo jamais praticar o mal.
 Se o feitor da fazenda o perseguia, André perdoava e dizia de todo o coração: — Louvado seja Deus.
@@ -136,7 +129,6 @@ Em poucos instantes, um anjo erguia-se à frente dele.
 Acanhado e aflito, quis falar alguma coisa, mas não pôde. O anjo, porém, sorrindo, abraçou-o e exclamou:
 — André, o nome de Nosso Pai Celestial foi exaltado por seu coração e vim buscar você para que a sua voz possa louvá-lo agora no Céu.
 No dia seguinte, o corpo do velho escravo apareceu morto na choupana, mas, sobre o teto rústico as aves pousavam, cantando, e muita gente afirmou que os passarinhos pareciam repetir: — Louvado seja Deus!
-
 O mundo em que vivemos é propriedade de Deus.
 Devemos agradecer as bênçãos de Nosso Pai Celestial, todos os dias.
 O coração agradecido ao Senhor espalha a bondade e a alegria em seu nome.
@@ -146,17 +138,16 @@ Quem ajuda às plantas e aos animais revela respeito e carinho na Criação de N
 Devo ser bom para com todos, porque Deus tem sido infinitamente bom para comigo, em todas as ocasiões.
 Quem trabalha com alegria mostra reconhecimento ao Céu.
 Cooperando de boa vontade com os outros, estaremos servindo a Deus.
-
-No canto dos passarinhos,
+6. No canto dos passarinhos,
 No campo, no mar, na flor,
 A vida está repetindo:
 — Louvado seja o Senhor!…
 
 ---
 
-## 3 — Venha a nós o teu Reino
+## 3
 
-“Venha a nós o teu reino…” — assim rogou Jesus ao Pai Celestial, sabendo que só o Plano de Deus pode conceder-nos a verdadeira felicidade. Mas, o Mestre não se limitou a pedir; ele trabalhou e se esforçou para que o Reino do Céu encontrasse as bases necessárias na Terra.
+1. “Venha a nós o teu reino…” — assim rogou Jesus ao Pai Celestial, sabendo que só o Plano de Deus pode conceder-nos a verdadeira felicidade. Mas, o Mestre não se limitou a pedir; ele trabalhou e se esforçou para que o Reino do Céu encontrasse as bases necessárias na Terra.
 Espalhou, com as próprias mãos, as bênçãos da paz e da alegria, a fim de que os homens se fizessem melhores.
 Uma locomotiva não corre sem trilhos adequados.
 Um automóvel não avança sem a estrada que lhe é própria.
@@ -166,7 +157,6 @@ Sem a bondade em nós, não poderemos sentir a bondade de Deus ou entender a bon
 Quando é noite e reclamamos: — “Venha a nós a luz”, é necessário ofereçamos a lâmpada ou a candeia, para que a luz resplandeça entre nós.
 Se rogamos a Graça Divina, preparemos o sentimento para entendê-la e manifestá-la, a fim de que a felicidade e a harmonia vivam conosco.
 Jesus trabalhou pela vinda da Glória do Céu ao mundo, auxiliando a todos e ajudando-nos até à cruz do sacrifício, dando-nos a entender que o Reino de Deus é Amor e só pelo Amor brilhará entre os homens para sempre.
-
 Quando Jesus entrou vitoriosamente em Jerusalém, montado num burrico, eis que o povo, alvoroçado, vinha vê-lo e saudá-lo na praça pública.
 Muitos supunham que o Mestre seria um dominador igual aos outros e bradavam:
 — Glória ao Rei de Israel!…
@@ -184,7 +174,6 @@ O Cristo fixou nela os olhos cheios de luz e indagou:
 — Oh! sim… — disse a moça, feliz.
 — Então, — pediu-lhe o Mestre, — ajuda-me a proteger o burrico que me serve, trazendo-lhe um pouco de capim e água fresca.
 A jovem atendeu prontamente e começou a compreender que, na edificação do Reino Divino, Jesus espera de nós, acima de tudo, a bondade sincera e fiel do coração.
-
 Um crente sincero na Bondade do Céu, desejando aprender como colaborar na construção do Reino de Deus, pediu, certo dia, ao Senhor a graça de compreender os Propósitos Divinos e saiu para o campo.
 De início, encontrou com o Vento que cantava e o Vento lhe disse:
 — Deus mandou que eu ajudasse as sementeiras e varresse os caminhos, mas eu gosto também de cantar, embalando os doentes e as criancinhas.
@@ -198,7 +187,6 @@ O devoto compreendeu o ensinamento e seguiu adiante, atingindo uma grande cerâm
 Acariciou o Barro que estava sobre a mesa e o Barro lhe disse:
 — Meu trabalho é o de garantir o solo firme, mas obedeço ao oleiro e procuro ajudar na residência do homem, dando forma a tijolos, telhas e vasos.
 Então, o devoto regressou ao lar e compreendeu que para servir na edificação do Reino de Deus é preciso ajudar aos outros, sempre mais, e realizar, cada dia, algo mais do que seja justo fazer.
-
 Três rapazes suspiravam por encontrar o Senhor, a fim de fazer-lhe rogativas.
 Depois de muitas orações, eis que, certa vez, no campo em que trabalhavam, apareceu-lhes o carro do Senhor, guiado pelos anjos.
 Radiante de luz, o Divino Amigo desceu da carruagem e pôs-se a ouvi-los.
@@ -212,7 +200,6 @@ Depois de algum tempo, chegou ao coração do bloco endurecido e encontrou aí u
 Vivia feliz, cuidando de seu trabalho, quando, um dia, dois enfermos bateram à porta. Não teve dificuldade em reconhecê-los. Eram os dois antigos colegas de oração, que se haviam enganado com o ouro e com a beleza, adquirindo apenas doença e cansaço, miséria e desilusão.
 Abraçaram-se, chorando de alegria e, nesse instante, o Divino Mestre apareceu entre eles e falou:
 — Bem-aventurados todos aqueles que sabem aproveitar as pedras da vida, porque a fé e a perseverança no bem são os dois grandes alicerces do Reino de Deus.
-
 Meu filho, se procuras a bênção da felicidade, não te esqueças de que o Reino do Céu começa em nosso próprio coração e de que o primeiro lugar onde devemos trabalhar por ele é na própria casa onde vivemos.
 A alegria verdadeira nem sempre é daqueles que dominam, mas nunca se aparta das almas generosas que aprendem a espalhar o bem.
 Se queres que a tranquilidade te acompanhe, busca ser útil.
@@ -233,15 +220,14 @@ Do Reino Celestial.
 
 ---
 
-## 4 — Seja feita a tua vontade, assim na Terra como no Céu
+## 4
 
-Na construção de uma casa sólida e confortável, há sempre um plano do arquiteto para ser obedecido.
+1. Na construção de uma casa sólida e confortável, há sempre um plano do arquiteto para ser obedecido.
 Os operários precisam consultar as linhas demarcadas para não irem além de suas funções e a fim de não cometerem impropriedades que prejudicariam a obra.
 O carpinteiro não deverá perturbar o pintor e o pintor deverá respeitar o vidraceiro.
 Assim também, nos serviços de elevação espiritual do homem e do mundo, é necessário procurarmos a Vontade do Senhor para que os Desígnios Divinos sejam devidamente executados.
 Sabemos que o bem para todos é o projeto da Eterna Sabedoria para as criaturas e, por isso mesmo, se nos prezamos da condição de trabalhadores educados para a justa prestação de serviço, é indispensável saibamos realizar a nossa parte, na concretização do projeto divino, sem perturbar os nossos irmãos.
 Estejamos convictos de que se cada um de nós cumprir a obrigação que lhe compete, no plano do Eterno Bem, oferecendo a cada dia o melhor que pudermos; estaremos indiscutivelmente atendendo às determinações do Nosso Pai Celestial.
-
 Um velho oleiro, muito dedicado ao trabalho, certa feita adoeceu gravemente e entrou a passar enormes dificuldades.
 Os parentes, aos quais ele mais servira, moravam em regiões distantes e pareciam haver perdido a memória…
 Sem ninguém que o auxiliasse, passou a viver da caridade pública, mas, quando esmolava, caiu na via pública e quebrou uma das pernas, sendo obrigado a recolher-se à cama, por longo tempo.
@@ -255,7 +241,6 @@ O oleiro, orgulhoso de sua obra, informou:
 — Nunca! — Respondeu o velho, certo do que afirmava.
 — Assim também, — esclareceu o anjo, bondoso, — o sofrimento e a luta são as chamas invisíveis que Nosso Pai Celestial criou para o embelezamento de nossas almas que, um dia, serão vasos sublimes e perfeitos para o serviço do Céu.
 Nesse instante, o doente acordou, compreendeu a Vontade Divina e rendeu graças a Deus.
-
 Um moço de boas maneiras, incapaz de ofender os que lhe buscavam o concurso amigo, sempre meditava na Vontade de Deus, disposto a cumpri-la.
 Certa vez, muito preocupado com o horário, aproximou-se de um pequeno ônibus, com a intenção de aproveitá-lo para a travessia de extenso trecho da cidade em que morava, mas, no momento exato em que ia fazê-lo, surgiu-lhe à frente um vizinho, que lhe prendeu a atenção para longa conversa.
 O rapaz consultava o relógio, de segundo a segundo, deixando perceber a pressa que o levava a movimentar-se rápido, mas o amigo, segurando-lhe o braço, parecia desvelar-se em transmitir-lhe todas as minudências de um caso absolutamente sem importância.
@@ -264,7 +249,6 @@ Daí a alguns minutos, porém, correu inquietante notícia.
 A máquina estava sendo guiada por um condutor embriagado e precipitara-se num despenhadeiro, espatifando-se.
 Ouvindo com paciência uma palestra incômoda, o moço fora salvo de triste desastre.
 O jovem refletiu sobre a ocorrência e chegou à conclusão de que, muitas vezes, a Vontade Divina se manifesta, em nosso favor, nas pequenas contrariedades do caminho, ajudando-nos a cumprir nossos mais simples deveres, e passou a considerar, com mais respeito e atenção, as circunstâncias inesperadas que nos surgem à frente, na esfera dos nossos deveres de cada dia.
-
 Quando Jesus estava entre nós, recebeu certo dia a visita do apóstolo João, muito jovem ainda, que lhe disse estar incumbido, por seu pai Zebedeu, de fazer uma viagem a povoado próximo.
 Era, porém, um dia de passeio ao monte e o moço achava-se muito triste.
 O Divino Amigo, contudo, exortou-o a cumprir o dever.
@@ -281,7 +265,6 @@ Jesus, entretanto, acentuou, sorrindo calmo:
 — Então, ainda falta um dever a cumprir — o dever de permaneceres alegre por haveres correspondido à confiança do Céu.
 O companheiro da Boa Nova meditou sobre a lição e fez-se contente.
 A tranquilidade voltou ao coração e à fisionomia do velho Zebedeu e João compreendeu que, no cumprimento dá Vontade de Deus, não podemos e nem devemos entristecer ninguém.
-
 Podemos discernir a Vontade de Deus, em todas as situações:
 No sofrimento, é a Paciência.
 Na perturbação, é a Serenidade.
@@ -298,17 +281,16 @@ Junto à discórdia, é a Harmonia.
 No ruído da maledicência, é o Silêncio.
 Na ofensa, é o Perdão Completo.
 Na vida comum, é a Bondade em favor de todos.
-
-Quem ajuda sem cessar,
+6. Quem ajuda sem cessar,
 Cada hora, todo o dia,
 Está cumprindo a Vontade
 Da Eterna Sabedoria.
 
 ---
 
-## 5 — O pão nosso de cada dia dá-nos hoje
+## 5
 
-O pão nosso de cada dia não é somente o almoço e o jantar, o café e a merenda.
+1. O pão nosso de cada dia não é somente o almoço e o jantar, o café e a merenda.
 É também a ideia e o sentimento, a palavra e a ação.
 Para que reine a saúde com alegria, em torno de nós, precisamos de nossas refeições, mas necessitamos também de paz e esperança, de fé e valor moral.
 Com os nossos modos de agir, operamos sobre os outros.
@@ -319,9 +301,8 @@ Se estimamos as conversações deprimentes, se buscamos a leitura de natureza in
 As nossas companhias falam claramente de nós.
 Nossas leituras revelam nosso íntimo.
 Procuremos, desse modo, o pão espiritual que nos garanta a harmonia interior, que conserve o nosso caráter firme sobre os alicerces do bem, que nos guarde contra a maldade e que nos ajude a ser exemplos de compreensão e fraternidade.
-Em Jesus temos o pão que desceu do Céu.
+Em Jesus temos o pão que desceu do Céu. ( † )
 E, ainda hoje, o Mestre continua alimentando o pensamento da Humanidade, por intermédio de um Livro, — o Evangelho Divino, — em que ele nos ensina, através da bondade e do amor, o caminho de nossa felicidade para sempre.
-
 Conta-se que, no princípio da vida terrestre, o alimento das criaturas era encontrado como oferta da Divina Providência, em toda parte.
 Em troca de tanta bondade, o Pai Celeste rogava aos corações mais esforço no aperfeiçoamento da vida.
 O povo, no entanto, observando que tudo lhe vinha de graça, começou a menosprezar o serviço.
@@ -333,7 +314,6 @@ Vendo que ninguém queria corresponder à confiança divina, o Pai Celestial man
 Desde esse tempo, o ar e a água, o Sol e as flores, a claridade das estrelas e o luar continuaram gratuitos para o povo, mas o trabalho forçado da alimentação passou a vigorar como sendo uma lei para todos, porque, lutando para sustentar-se, o homem melhora a terra, limpa a habitação, aprende a ser sábio e garante o progresso.
 Deus dá tudo.
 O solo, a chuva, o calor, o vento, o adubo e a orientação constituem dádivas d’Ele à Terra que povoamos e que devemos aprimorar, mas o preparo do pão de cada dia, através do nosso próprio suor e da nossa própria diligência, é obrigação comum a todos nós, a fim de que não olvidemos o nosso divino dever de servir, incessantemente, em busca da Perfeição.
-
 Dizem que quando a primeira árvore apareceu na Terra, trazia do Pai Celestial a recomendação de alimentar o homem e auxiliá-lo, em nome do Céu, por todos os meios que lhe fosse possível.
 Resolvida a cumprir a ordenação do Senhor, certo dia foi visitada por um ladrão, perseguido pela Justiça.
 Ele sentia fome e, por isso, furtou-lhe vários frutos.
@@ -344,9 +324,7 @@ Imediatamente, à maneira de um menino, o infeliz escalou o tronco e escondeu-se
 Os guardas vieram e, desistindo de encontrá-lo em razão da busca infrutífera, retiraram-se para lugarejo distante.
 Foi então que o desventurado desceu para o solo, impressionado e comovido, reparando que se achava à frente de humilde mensageira do Céu.
 Roubara-lhe os frutos e mutilara-lhe as frondes; entretanto, oferecera-lhe, ainda, seguro abrigo.
-O homem infeliz começou a meditar no exemplo da árvore venerável, incumbida por Deus de cooperar na distribuição do alimento de cada dia na Terra, e, nela reconhecendo verdadeira emissária do Céu, que lhe saciara a fome e lhe dispensara maternal proteção, abandonou o mal em que se havia mergulhado e passou a ser outro homem.
-n
-
+O homem infeliz começou a meditar no exemplo da árvore venerável, incumbida por Deus de cooperar na distribuição do alimento de cada dia na Terra, e, nela reconhecendo verdadeira emissária do Céu, que lhe saciara a fome e lhe dispensara maternal proteção, abandonou o mal em que se havia mergulhado e passou a ser outro homem. n
 O professor lutava na escola com um grande problema.
 Os alunos começaram a ler muitas histórias de homens maus, de roubos e de crimes e passaram a viver em plena insubordinação.
 Queriam imitar aventureiros e malfeitores e, em razão disso, na escola e em casa apresentavam péssimo comportamento.
@@ -360,7 +338,6 @@ Os meninos revoltados gritavam contra o que viam, mas o velho educador pediu sil
 Com essa preleção, a hora da merenda foi encerrada.
 Os alunos retiraram-se cabisbaixos.
 E, pouco a pouco, a vida dos meninos foi sendo retificada, modificando-se para melhor.
-
 Há saúde do corpo e saúde da alma. Ambas devem estar juntas.
 Deus concede-nos recursos mil, cada dia, para alimentar-nos o espírito com as melhores emoções.
 Absorvemos os pensamentos uns dos outros.
@@ -370,17 +347,16 @@ Atendendo a Deus, a Terra gasta milhões de vidas, cada dia, a fim de sustentar-
 Falar mal dos outros, ao invés de ajudá-los, é o mesmo que envolver nossos sentimentos em lama invisível, ao invés de fazê-los brilhar.
 Os frutos que te deliciam são os resultados do esforço daqueles que passaram no mundo, antes de ti. Prepara a sementeira de agora para os que virão no futuro.
 Planta uma árvore amiga e ajudarás aos que te ajudam.
-
-Quem lança a boa palavra
+6. Quem lança a boa palavra
 De amor e consolação,
 Espalha por toda a Terra
 Os dons do Divino Pão.
 
 ---
 
-## 6 — Perdoa as nossas dívidas, assim como perdoamos aos nossos devedores
+## 6
 
-Quando pronunciamos as palavras “perdoa as nossas dívidas, assim como perdoamos aos nossos devedores”, não apenas estamos à espera do benefício para o nosso coração e para a nossa consciência, mas estamos igualmente assumindo o compromisso de desculpar os que nos ofendem.
+1. Quando pronunciamos as palavras “perdoa as nossas dívidas, assim como perdoamos aos nossos devedores”, não apenas estamos à espera do benefício para o nosso coração e para a nossa consciência, mas estamos igualmente assumindo o compromisso de desculpar os que nos ofendem.
 Todos possuímos a tendência de observar com evasivas os grandes defeitos que existem em nós, reprovando, entretanto, sem exame, pequeninas faltas alheias.
 Por isso mesmo Jesus, em nos ensinando a orar, recomendou-nos esquecer qualquer mágoa que alguém nos tenha causado.
 Se não oferecemos repouso à mente do próximo, como poderemos aguardar o descanso para os nossos pensamentos?
@@ -389,7 +365,6 @@ A paz é também alimento da alma, e, se desejamos tranquilidade para nós, não
 Quando pedirmos a tolerância do Pai Celeste em nosso favor, lembremo-nos também de ajudar aos outros com a nossa tolerância.
 Auxiliemos sempre.
 Se o Senhor pode suportar-nos e perdoar-nos, concedendo-nos constantemente novas e abençoadas oportunidades de retificação, aprendamos, igualmente, a espalhar a compreensão e o amor, em benefício dos que nos cercam.
-
 Em certa cidade europeia, um homem ignorante, considerado malfeitor, foi condenado à morte na forca.
 O juiz fora severo no julgamento.
 Afirmava que o infeliz era grande criminoso e que só a pena última podia solucionar-lhe a situação.
@@ -399,7 +374,6 @@ Banhado em sangue, foi socorrido pelo juiz e pelos circunstantes e, porque a pal
 O juiz notou a profunda sinceridade da rogativa e, em silêncio, passou a reparar que o condenado era portador de nobre coração e de inexprimível bondade.
 No dia imediato, promoveu medidas para a revisão do processo que lhe dizia respeito e, em pouco tempo, a pena de morte era comutada para somente alguns meses de prisão.
 Perdoando ao rapaz que o ferira, o prisioneiro encontrou o perdão justo para as suas faltas, conseguindo, desse modo, recomeçar a vida, em bases mais sólidas de paz, confiança, trabalho e alegria.
-
 Um velho judeu, de alma torturada por pesados remorsos, chegou, certo dia, aos pés de Jesus, e confessou-lhe estranhos pecados.
 Valendo-se da autoridade que detinha no passado, havia despojado vários amigos de suas terras e bens, arremessando-os à ruína total e reduzindo-lhes as famílias a doloroso cativeiro. Com maldade premeditada, semeara em muitos corações o desespero, a aflição e a morte.
 Achava-se, desse modo, enfermo, aflito e perturbado… Médicos não lhe solucionavam os problemas, cujas raízes se perdiam nos profundos labirintos da consciência dilacerada.
@@ -417,7 +391,6 @@ O velho judeu, agora muito pálido, pôs as mãos sobre o peito e bradou para o 
 Mas, Jesus apenas respondeu, muito triste:
 — Isso, meu irmão, é o ódio e a cólera que outra vez chamaste ao próprio coração.
 E, ainda hoje, isso acontece a muitos que, por falta de paciência e de amor, adquirem amargura, perturbação e enfermidade.
-
 Quando o Pai Celestial precisou colocar na Terra as primeiras criancinhas, chegou à conclusão de que devia chamar alguém que soubesse perdoar infinitamente.
 De alguém que não enxergasse o mal.
 Que quisesse ajudar sem exigir pagamento.
@@ -451,9 +424,9 @@ Conduzindo a nossa vida
 
 ---
 
-## 7 — Não nos deixes cair em tentação
+## 7
 
-A Bondade Infinita de Deus não permitirá que venhamos a cair sob as tentações, mas, para isso, é necessário que nos esforcemos, colaborando, de algum modo, com o auxílio incessante de Nosso Pai.
+1. A Bondade Infinita de Deus não permitirá que venhamos a cair sob as tentações, mas, para isso, é necessário que nos esforcemos, colaborando, de algum modo, com o auxílio incessante de Nosso Pai.
 Há leis organizadas para benefício de todos, mas, se não as respeitarmos, como poderemos contar com a proteção delas, em nosso favor?
 Sabemos que o fogo destrói. Por isso mesmo, não devemos abusar dele.
 Não podemos rogar o socorro divino para a imprudência que se repete todos os dias.
@@ -464,7 +437,6 @@ Não ignoramos que o Pai Celestial está sempre conosco, mas, muitas vezes; somo
 Para que não venhamos a sucumbir sob os golpes das tentações, é indispensável saibamos procurar o bem, cultivando-o sem cessar.
 Não há colheita sem plantação.
 Certamente, devemos esperar que Deus nos conceda o “muito” de seu amor, mas não olvidemos que é preciso dar “alguma coisa” do nosso esforço.
-
 O educador, em aula, tentava explicar aos meninos que o móvel das tentações reside em nós mesmos; contudo, como os aprendizes mostravam muita dificuldade para compreender, ele se fez acompanhar pelos alunos até ao grande pátio do colégio.
 Aí chegando, mandou trazer uma bela espiga de milho e perguntou aos rapazes:
 — Qual de vocês desejaria devorar esta espiga tal como está?
@@ -476,7 +448,6 @@ O professor benevolente e amigo esclareceu, então, bondosamente, ante os alunos
 — A tentação nos procura, segundo os sentimentos que trazemos no campo íntimo. Quando cedemos a alguma fascinação indigna, é que a nossa vontade permanece fraca, diante dos nossos desejos inferiores. As forças que nos tentam correspondem aos nossos próprios impulsos. Não podemos imaginar ou querer aquilo que desconhecemos. Por esse motivo, necessitamos vigiar o cérebro e o coração, a fim de selecionarmos as sugestões que nos visitam o pensamento.
 E, terminando, afirmou:
 — As situações boas ou más, fora de nós, são iguais aos propósitos bons ou maus que trazemos conosco.
-
 No tempo em que não existia a locomoção fácil na Terra, um grande rei simpatizou com fogoso cavalo de cores claras, da criação de sua casa; mas, ao desejá-lo para os serviços do palácio, foi assim informado pelo chefe das cavalariças:
 — Majestade, este animal é vítima de muitas tentações. Basta que se movimente, de leve, para assustar-se e ocasionar desastres. Uma simples folha seca na estrada é razão para inúmeros coices.
 O rei ouviu, atencioso, e afirmou que remediaria a situação.
@@ -486,7 +457,6 @@ A princípio, o animal se rebelava, escouceando o ar e relinchando fortemente; e
 Assim acontece conosco, na vida.
 Destinados ao trabalho da Vontade de Deus, se vivemos entregues às tentações do mal, desobedientes e egoístas, determina o Senhor que sejamos confiados à luta e à provação, à dificuldade e ao sofrimento, os quais, pouco a pouco, nos ensinam a humildade e o respeito, a diligência e a doçura.
 Depois de passarmos pelos variados processos de educação indispensável ao nosso burilamento, seremos então aproveitados, com êxito e segurança, nos serviços gerais da Bondade de Deus, junto de nossos irmãos.
-
 Num campo de lavoura, grande quantidade de vermes desejava destruir um velho arado de madeira, muito trabalhador, que lhes perturbava os planos e, em razão disso, certa ocasião se reuniram ao redor dele e começaram a dizer:
 — Por que não cuidas de ti? Estás doente e cansado…
 — Afinal, todos nós precisamos de algum repouso…
@@ -503,7 +473,6 @@ Quando o prestimoso amigo voltou para utilizá-lo, era simplesmente um traste in
 A história do arado é um aviso para nós todos.
 A tentação do repouso é das mais perigosas, porque, depois da ignorância, a preguiça é a fonte escura de todos os males.
 Jamais olvidemos que o trabalho é o dom divino que Deus nos confiou para a defesa de nossa alegria e para a conservação de nossa própria saúde.
-
 É pela bênção do trabalho que podemos esquecer os pensamentos que nos perturbam, olvidar os assuntos amargos, servindo ao próximo, no enriquecimento de nós mesmos.
 Com o trabalho, melhoramos nossa casa e engrandecemos o trecho de terra onde a Providência Divina nos situou.
 Ocupando a mente, o coração e os braços nas tarefas do bem, exemplificamos a verdadeira fraternidade, e adquirimos o tesouro da simpatia, com o qual angariaremos o respeito e a cooperação dos outros.
@@ -516,9 +485,9 @@ Trabalho de cada dia
 
 ---
 
-## 8 — E livra-nos do mal, porque teu é o reino, o poder e a glória para sempre. Assim seja.
+## 8
 
-O Senhor livrar-nos-á do mal; entretanto, é preciso que desejemos não errar.
+1. O Senhor livrar-nos-á do mal; entretanto, é preciso que desejemos não errar.
 Que dizer de um homem que pedisse socorro contra o incêndio, lançando gasolina à fogueira?
 O reino da vida, com todas as suas notas de grandeza, pertence a Deus.
 Todo o poder e toda a glória do Universo, todos os recursos e todas as possibilidades da existência são da Providência Divina, mas, em nosso círculo de ação, a vontade é nossa.
@@ -528,7 +497,6 @@ Deus permitiu que a vontade seja um patrimônio propriamente nosso, a fim de que
 Por isso, se somos escravos das nossas criações que, por vezes, gastamos muito tempo a retificar, continuamos sempre livres para desejar e imaginar.
 E sabemos que qualquer serviço ou realização começa em nossos sentimentos e pensamentos.
 Saibamos, desse modo, conservar a nossa vontade à luz da consciência reta, porque, rogando a Deus nos liberte do mal, é preciso, por nossa vez, procurar o caminho do bem.
-
 Um estudante da sabedoria, rogando ao seu instrutor lhe explicasse qual a melhor maneira de livrar-se do mal, foi por ele conduzido a uma fonte que deslizava, calma e cristalina, e, seguindo-lhe o curso, observou:
 — Veja o exemplo da fonte, que auxilia a todos, sem perguntar, e que nunca se detém até alcançar a grande comunhão com o oceano. Junto dela crescem as plantas de toda a sorte, e em suas águas dessedentam-se animais de todos os tipos e feitios.
 Enquanto caminhavam, um pequeno atirou duas pedras à corrente e as águas as engoliram em silêncio, prosseguindo para diante.
@@ -540,7 +508,6 @@ Adiante ainda, notaram que, enquanto andorinhas se banhavam, lépidas, feios sap
 As águas amparavam a todos sem a mínima queixa.
 O bondoso mentor indicou o lindo quadro ao discípulo e terminou:
 — Assinalemos o exemplo da fonte e aprenderemos a libertar-nos de qualquer cativeiro, porque, em verdade, só aqueles que marcham para diante, com o trabalho que Deus lhes confia, sem se ligarem às sugestões do mal, conseguem vencer dignamente na vida, garantindo, em favor de todos, as alegrias do Bem Eterno.
-
 O mundo vivia em grandes perturbações.
 As criaturas andavam empenhadas em conflitos constantes, assemelhando-se aos animais ferozes, quando em luta violenta.
 Os ensinamentos dos homens bons, prudentes e sábios eram rapidamente esquecidos, porque, depois da morte deles, ninguém mais lhes lembrava a palavra orientadora e conselheira.
@@ -551,7 +518,6 @@ Esse tesouro é o livro. Com ele, apareceu a escola, com a escola, a educação 
 Muitos homens de cérebro transviado escrevem maus livros, inclinando a alma do mundo ao desespero e à ironia, ao desânimo e à crueldade, mas, as páginas dessa natureza são apressadamente esquecidas, porque o livro é realmente uma dádiva de Deus à Humanidade para que os grandes instrutores possam clarear o nosso caminho, conversando conosco, acima dos séculos e das civilizações.
 É pelo livro que recebemos o ensinamento e a orientação, o reajuste mental e a renovação interior.
 Dificilmente poderíamos conquistar a felicidade sem a boa leitura. O próprio Jesus, a fim de permanecer conosco, legou-nos o Evangelho do Amor, que é, sem dúvida, o Livro Divino em cujas lições podemos encontrar a libertação de todo o mal.
-
 Num país europeu, certa tarde, muito chuvosa, um maquinista, cheio de fé em Deus, começando a acionar a locomotiva com o trem repleto de passageiros para longa viagem, fixou o céu escuro e repetiu, com muito sentimento, a oração dominical.
 O comboio percorreu léguas e léguas, dentro das trevas densas, quando, alta noite, ele viu, à luz do farol aceso, alguns sinais que lhe pareceram feitos pela sombra de dois braços angustiados a lhe pedirem atenção e socorro.
 Emocionado, fez o trem parar, de repente, e, seguido de muitos viajantes, correu pelos trilhos de ferro, tentando verificar se estavam ameaçados de algum perigo.
@@ -561,7 +527,6 @@ Tomados de infinita alegria, o maquinista e os viajores procuraram a pessoa que 
 — Pai Nosso, que estás no Céu, santificado seja o teu nome, venha a nós o teu Reino, seja feita a tua vontade, assim na Terra como no Céu; o pão nosso de cada dia dá-nos hoje, perdoa as nossas dívidas, assim como perdoamos aos nossos devedores, não nos deixes cair em tentação e livra-nos do mal, porque teu é o Reino, o poder e a glória para sempre. Assim seja.
 Quando acabou de orar, grande quietude reinava na paisagem.
 Todos os passageiros, crentes e descrentes, estavam também ajoelhados, repetindo a prece com amoroso respeito. Alguns choravam de emoção e reconhecimento, agradecendo ao Pai Celestial, que lhes salvara a vida, por intermédio de um animal que infunde tanto pavor às criaturas humanas. E até a chuva parara de cair, como se o céu silencioso estivesse igualmente acompanhando a sublime oração.
-
 Senhor, ensina-nos a oferecer-te o coração puro e o pensamento elevado na oração.
 Ajuda-nos a pedir, em Teu Nome, para que a força de nossos desejos não perturbe a execução de teus desígnios.
 Ampara-nos, a fim de que o nosso sentimento se harmonize com a tua vontade e que possamos, cada dia, ser instrumentos vivos e operosos da paz e do amor, do aperfeiçoamento e da alegria, de acordo com a tua Lei.

@@ -45,6 +45,11 @@ def main() -> None:
         action="store_true",
         help="Mostra o que seria criado/pulado sem escrever nada.",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Sobrescreve arquivos já existentes no destino. Não afeta a checagem de slug duplicado em outra pasta de raw/.",
+    )
     args = parser.parse_args()
 
     data = json.loads(resolve_json_path().read_text(encoding="utf-8"))
@@ -70,10 +75,10 @@ def main() -> None:
         slug = slugify(title)
         out_path = out_dir / f"{slug}.md"
 
-        if out_path.exists():
+        if out_path.exists() and not args.force:
             skipped_target += 1
             continue
-        if slug in raw_slugs:
+        if slug in raw_slugs and not out_path.exists():
             print(f"Pulado (já existe em raw/ com slug '{slug}'): {title}")
             skipped_elsewhere += 1
             continue

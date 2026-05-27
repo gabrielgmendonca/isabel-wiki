@@ -2,44 +2,43 @@
 
 **Autor espiritual:** Mensagens familiares de Tiaminho  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Rea/ReaPref.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Rea/ReaAgrad.htm
 
 ---
 
-##  — Resgate e amor
+## 
 
-Leitor amigo:
-Em certas ocasiões, almas nobres no mundo cometem essa ou aquela falta.
-De retorno, entretanto, ao Mais Além, reconhecem a extensão do erro cometido.
-Recebem generoso acolhimento de quantos se lhes fazem credores de carinho, mas, em meio das alegrias que experimentam, carregam consigo o ponto íntimo do remorso, ante a culpa adquirida.
-Surge nessas criaturas um doloroso destaque: quanto mais se lhes exaltam as qualidades, mais se lhes salienta, na própria presença, o débito de que são portadoras.
-É, então, que rogam aos Mensageiros da Justiça Divina para que lhes seja concedido o ensejo de reparação, ainda mesmo que se vejam obrigados a esperar muito tempo.
-Querem sofrer a mesma dor que impuseram a outrem, atravessar o mesmo suplício com que torturaram corações sensíveis que, às vezes, lhes doaram as maiores demonstrações de afeto.
-Este livro estampa um desses capítulos da lei de causa e efeito.
-Um amigo, erguido à posição de alto comandante de homens, apoiando-se numa calúnia caprichosamente tramada, determina a morte, através do Hara-kiri, para o seu mais devotado auxiliar.
-De nada valem protestos e justificações. A sentença é executada.
-Um dia, no entanto, de volta ao Grande Além, esse mesmo comandante, embora homenageado por vários companheiros, pelas conquistas espirituais que efetuara sente o espinho do arrependimento a se lhe aprofundar no coração, ao notar que fora vítima de cruel engano.
-Medita no sofrimento do companheiro sacrificado pela autoridade de que dispunha e, conquanto agradecido a magnanimidade dos amigos, que o acolhem, pede-lhes auxílio, a fim de voltar ao Plano Físico, de maneira a impor sobre si mesmo a pena do resgate, junto do companheiro injustiçado.
-Decorrido o tempo de espera compreensível, o supliciado do pretérito está novamente no mundo, desincumbindo-se de novos encargos.
-O rigoroso comandante de outra época aproxima-se dele, enternece-se no ambiente familiar em que observa a digna tranquilidade do homem que lhe fora vítima e, com o amparo dos Benfeitores Espirituais, aos quais se liga por afeição imorredoura, nasce na condição de filho do companheiro que ele próprio sacrificara.
-Entretém o carinho renascente nos pais queridos que o amam com inexcedível ternura e, quando a existência terrestre se lhe consolida, sofre, num acidente doloroso, a mesma provação do amigo de outro tempo, agora transformado no pai amoroso que o acompanha no transe amargo.
-O golpe no acidente que lhe causa a desencarnação tem a forma do Hara-kiri do passado…
-Este é o estudo da reencarnação que lhe oferecemos ao exame.
-E o resto, leitor amigo, tu concluirás por ti mesmo.
-n
+> Aos pais do Tiaminho, Dr. Hélio Ituo Daikuara e D. Sayoko Daikuara, agradecemos a compreensão, o zelo e o descortino claramente demonstrados ao longo da elaboração deste livro que, enobrecidos, incluímos na relação de mais de cinquenta títulos de Francisco Cândido Xavier por nós editados.  GRUPO ESPÍRITA EMMANUEL Sociedade Civil Editora.
+
+Somos gratos ao grande médium Francisco Candido Xavier pelo conforto que nos trouxe através de suas palavras de amor e mensagens que nos conduziram à certeza da sobrevivência do Espírito.
+Agradecemos também a Dona Yolanda Cezar pela sincera companhia que sempre nos auxiliou no caminho de nossa Espiritualização.
+
+---
+
+## 
+
+1 Leitor amigo: Em certas ocasiões, almas nobres no mundo cometem essa ou aquela falta.
+2 De retorno, entretanto, ao Mais Além, reconhecem a extensão do erro cometido.
+3 Recebem generoso acolhimento de quantos se lhes fazem credores de carinho, mas, em meio das alegrias que experimentam, carregam consigo o ponto íntimo do remorso, ante a culpa adquirida.
+4 Surge nessas criaturas um doloroso destaque: quanto mais se lhes exaltam as qualidades, mais se lhes salienta, na própria presença, o débito de que são portadoras.
+5 É, então, que rogam aos Mensageiros da Justiça Divina para que lhes seja concedido o ensejo de reparação, ainda mesmo que se vejam obrigados a esperar muito tempo.
+6 Querem sofrer a mesma dor que impuseram a outrem, atravessar o mesmo suplício com que torturaram corações sensíveis que, às vezes, lhes doaram as maiores demonstrações de afeto.
+7 Este livro estampa um desses capítulos da lei de causa e efeito.
+8 Um amigo, erguido à posição de alto comandante de homens, apoiando-se numa calúnia caprichosamente tramada, determina a morte, através do Hara-kiri, para o seu mais devotado auxiliar.
+9 De nada valem protestos e justificações. A sentença é executada.
+10 Um dia, no entanto, de volta ao Grande Além, esse mesmo comandante, embora homenageado por vários companheiros, pelas conquistas espirituais que efetuara sente o espinho do arrependimento a se lhe aprofundar no coração, ao notar que fora vítima de cruel engano.
+11 Medita no sofrimento do companheiro sacrificado pela autoridade de que dispunha e, conquanto agradecido a magnanimidade dos amigos, que o acolhem, pede-lhes auxílio, a fim de voltar ao Plano Físico, de maneira a impor sobre si mesmo a pena do resgate, junto do companheiro injustiçado.
+12 Decorrido o tempo de espera compreensível, o supliciado do pretérito está novamente no mundo, desincumbindo-se de novos encargos.
+13 O rigoroso comandante de outra época aproxima-se dele, enternece-se no ambiente familiar em que observa a digna tranquilidade do homem que lhe fora vítima e, com o amparo dos Benfeitores Espirituais, aos quais se liga por afeição imorredoura, nasce na condição de filho do companheiro que ele próprio sacrificara.
+14 Entretém o carinho renascente nos pais queridos que o amam com inexcedível ternura e, quando a existência terrestre se lhe consolida, sofre, num acidente doloroso, a mesma provação do amigo de outro tempo, agora transformado no pai amoroso que o acompanha no transe amargo.
+15 O golpe no acidente que lhe causa a desencarnação tem a forma do Hara-kiri do passado…
+16 Este é o estudo da reencarnação que lhe oferecemos ao exame.
+17 E o resto, leitor amigo, tu concluirás por ti mesmo. n
 Uberaba, 16 de maio de 1986.
-Um amigo, erguido à posição de alto comandante de homens, apoiando-se numa calúnia caprichosamente tramada, determina a morte, através do Hara-kiri, para o seu mais devotado auxiliar.
-De nada valem protestos e justificações. A sentença é executada.
-Um dia, no entanto, de volta ao Grande Além, esse mesmo comandante, embora homenageado por vários companheiros, pelas conquistas espirituais que efetuara sente o espinho do arrependimento a se lhe aprofundar no coração, ao notar que fora vítima de cruel engano.
-Medita no sofrimento do companheiro sacrificado pela autoridade de que dispunha e, conquanto agradecido a magnanimidade dos amigos, que o acolhem, pede-lhes auxílio, a fim de voltar ao Plano Físico, de maneira a impor sobre si mesmo a pena do resgate, junto do companheiro injustiçado.
-Decorrido o tempo de espera compreensível, o supliciado do pretérito está novamente no mundo, desincumbindo-se de novos encargos.
-O rigoroso comandante de outra época aproxima-se dele, enternece-se no ambiente familiar em que observa a digna tranquilidade do homem que lhe fora vítima e, com o amparo dos Benfeitores Espirituais, aos quais se liga por afeição imorredoura, nasce na condição de filho do companheiro que ele próprio sacrificara.
-Entretém o carinho renascente nos pais queridos que o amam com inexcedível ternura e, quando a existência terrestre se lhe consolida, sofre, num acidente doloroso, a mesma provação do amigo de outro tempo, agora transformado no pai amoroso que o acompanha no transe amargo.
-O golpe no acidente que lhe causa a desencarnação tem a forma do Hara-kiri do passado…
 
 ---
 
-## 1 — Tiaminho
+## 1
 
 Hélio Ossamu Daikuara, o Tiaminho, nasceu na capital paulista no dia 23 de janeiro de 1975.
 Filho de Hélio Ituo Daikuara e de D. Sayoko Daikuara completam-lhe a família as irmãs Cidilea Mayumi e Tatiana Tiyomi.
@@ -57,18 +56,15 @@ Ao leitor amigo, desejamos que encontre nestas páginas do pequeno-grande Tiamin
 
 ---
 
-## 2 — Pergunta a Chico Xavier
+## 2
 
-: Chico, ao estudarmos as cartas do pequeno Tiaminho endereçadas aos pais, ocorreu-nos a seguinte pergunta:
-O menino, que desencarnou aos 5 anos, dá mostras de agilidade intelectual superior, em alguns parágrafos de suas mensagens à idade que teria, se encarnado. De que modo você encara tal observação? Será que na Vida Espiritual as coisas se passam de modo diferente do que na Terra? Lá o amadurecimento do Espírito se processaria com maior rapidez?
+P: Chico, ao estudarmos as cartas do pequeno Tiaminho endereçadas aos pais, ocorreu-nos a seguinte pergunta: O menino, que desencarnou aos 5 anos, dá mostras de agilidade intelectual superior, em alguns parágrafos de suas mensagens à idade que teria, se encarnado. De que modo você encara tal observação? Será que na Vida Espiritual as coisas se passam de modo diferente do que na Terra? Lá o amadurecimento do Espírito se processaria com maior rapidez?
 Chico Xavier nos esclareceu o seguinte:
-: Os Benfeitores Espirituais habitualmente nos esclarecem que a criança desencarnada, no Mais Além, recobra parcialmente os valores da memória quando, na condição de Espírito, tenha já entesourado alta soma de conhecimentos superiores, com pouco tempo depois da desencarnação, conseguindo, por isso, formular conceitos e anotações de acordo com a maturidade intelectual, adquirida com laborioso esforço.
-O mesmo não acontece com o Espírito que ainda não adquiriu patrimônios de experiência mais dilatados seja por estar nos primeiros degraus da evolução humana ou por ausência de aplicação pessoal ao estudo e à observação dos acontecimentos.
-Para o Espírito, nesse estágio, o desenvolvimento na Vida Espiritual é semelhante ao que se verifica no Plano Físico em que o ser humano é compelido a aprender vagarosamente as lições da existência e adiantar-se, gradativamente, conforme as exigências do tempo.
+R: Os Benfeitores Espirituais habitualmente nos esclarecem que a criança desencarnada, no Mais Além, recobra parcialmente os valores da memória quando, na condição de Espírito, tenha já entesourado alta soma de conhecimentos superiores, com pouco tempo depois da desencarnação, conseguindo, por isso, formular conceitos e anotações de acordo com a maturidade intelectual, adquirida com laborioso esforço. O mesmo não acontece com o Espírito que ainda não adquiriu patrimônios de experiência mais dilatados seja por estar nos primeiros degraus da evolução humana ou por ausência de aplicação pessoal ao estudo e à observação dos acontecimentos. Para o Espírito, nesse estágio, o desenvolvimento na Vida Espiritual é semelhante ao que se verifica no Plano Físico em que o ser humano é compelido a aprender vagarosamente as lições da existência e adiantar-se, gradativamente, conforme as exigências do tempo.
 
 ---
 
-## 3 — Meu querido filho Tiaminho
+## 3
 
 Qual um raio de sol que ilumina e traz calor à Terra, dando vida e alegria aos corações, assim foi você, Tiaminho!
 Deus nos deu você por um curto espaço de tempo, para que você nos ensinasse, a nós que somos adultos e que julgamos saber tudo, lições grandiosas e maravilhosas que nenhuma escola ou universidade poderia ministrar numa vida toda.
@@ -94,60 +90,49 @@ Obrigado por tudo isso, meu filho…
 
 ---
 
-## 4 — Nosso primeiro consolo
+## 4
 
-Filhos, Jesus nos abençoe.
-Mediante as requisições afetivas do nosso irmão Hélio, desejamos informá-lo que o pequeno Hélio Ossamu, em verdade, o visita, extensivamente à mãezinha e às queridas irmãs, bastas vezes, em companhia de representantes do missionário Sinnett,
-benfeitor e instrutor da imensa família Budista,
-n
-a cuja proteção a criança foi entregue em seu reajuste de forças espirituais.
-Entretanto, o filhinho de nossos amigos ainda é uma flor humana, conquanto a maturidade potencial que traz consigo e que está desabrochando gradativamente.
-Os amigos budistas de nosso irmão Hélio lhe solicitam paciência e, ao mesmo tempo, lhe rogam esquecer, quanto possível a um coração paterno, os pormenores do acidente havido na desencarnação do filho querido, porque essas recordações muito ativas e revividas lhe retardam o processo de desvinculação do assunto, já que a criança, compreensivelmente, diante da angústia paterna, experimenta o natural anseio de confortá-lo e de livrá-lo de quaisquer ideias negativas, considerando que o jovenzinho partiu na época que se lhe determinara.
-Sentindo-nos no reconforto de lhe haver prestado os informes necessários somos o servidor reconhecido de sempre.
+1 Filhos, Jesus nos abençoe.
+2 Mediante as requisições afetivas do nosso irmão Hélio, desejamos informá-lo que o pequeno Hélio Ossamu, em verdade, o visita, extensivamente à mãezinha e às queridas irmãs, bastas vezes, em companhia de representantes do missionário Sinnett, † benfeitor e instrutor da imensa família Budista, n a cuja proteção a criança foi entregue em seu reajuste de forças espirituais.
+3 Entretanto, o filhinho de nossos amigos ainda é uma flor humana, conquanto a maturidade potencial que traz consigo e que está desabrochando gradativamente.
+4 Os amigos budistas de nosso irmão Hélio lhe solicitam paciência e, ao mesmo tempo, lhe rogam esquecer, quanto possível a um coração paterno, os pormenores do acidente havido na desencarnação do filho querido, porque essas recordações muito ativas e revividas lhe retardam o processo de desvinculação do assunto, já que a criança, compreensivelmente, diante da angústia paterna, experimenta o natural anseio de confortá-lo e de livrá-lo de quaisquer ideias negativas, considerando que o jovenzinho partiu na época que se lhe determinara.
+5 Sentindo-nos no reconforto de lhe haver prestado os informes necessários somos o servidor reconhecido de sempre.
 
 ---
 
-## 5 — Nosso segundo consolo
+## 5
 
-Filhos, Jesus nos abençoe.
-Respondendo ao apelo ardente e sincero de nossos irmãos Sayoko e Daikuara, presentes às nossas preces, informamos que o filhinho de ambos, Hélio Ossamu, está sob a proteção do Reverendo Sinnett,
-grande missionário do bem, na revelação Budista.
-Por agora, não dispõe de meios para se comunicar, entretanto, pede aos pais queridos não se lembrarem dele, como se o filho querido tivesse partido da Terra, fora do tempo justo.
-E solicita-lhes, ainda, para que não conservem o terno pequenino por vítima de invigilância qualquer, de vez que o pequeno Hélio trazia tempo ligeiro e certo para retornar ao Mais Além.
-Filhos que Deus nos ampare e nos abençoe, hoje e sempre.
+1 Filhos, Jesus nos abençoe.
+2 Respondendo ao apelo ardente e sincero de nossos irmãos Sayoko e Daikuara, presentes às nossas preces, informamos que o filhinho de ambos, Hélio Ossamu, está sob a proteção do Reverendo Sinnett, † grande missionário do bem, na revelação Budista.
+3 Por agora, não dispõe de meios para se comunicar, entretanto, pede aos pais queridos não se lembrarem dele, como se o filho querido tivesse partido da Terra, fora do tempo justo.
+4 E solicita-lhes, ainda, para que não conservem o terno pequenino por vítima de invigilância qualquer, de vez que o pequeno Hélio trazia tempo ligeiro e certo para retornar ao Mais Além.
+5 Filhos que Deus nos ampare e nos abençoe, hoje e sempre.
 
 ---
 
-## 6 — Primeira mensagem
+## 6
 
 > 1: Referência ao avô paterno, Torao Daikuara, falecido a 19 de agosto de 1955, em Santa Cecília, município de São Jerônimo, Estado do Paraná.
 > — Tia Saito
 
-Querido papai Hélio e querida mamãe Sayoko, estou escrevendo com o auxílio do avô Daikuara
-n
-e da tia Saito, para falar que vou indo muito bem.
-Estou contente, porque estamos todos com outras ideias.
-Pai, venho pedir a sua paz. Nada aconteceu de mal. Eu queria ajudar um pouco na ilusão de que já dispunha de força para movimentar o carro.
-n
-Escorreguei e não vi mais nada, porque dormi. Depois, soube que o senhor e minha mãe estavam muito tristes.
-Um amigo de coração generoso me conduziu a um lindo parque de repouso. No primeiro dia, estava tão consciente
-de que estávamos todos juntos, que julguei estar em Bertioga
-n
-ou em outro local parecido, a fim de esperá-los.
-Encontrei muitos amigos que me ensinaram a chamá-los por parentes. Por eles, fui levado à nossa casa e vi que estavam chorando. Não consegui consolá-los, mas pedi aos que me protegiam apoio e socorro para os queridos pais, para Mimi e para Tati.
-Papai, estou muito agradecido. Sei tudo o que o senhor e mamãe conversam comigo especialmente quando estão diante do oratório com o meu retrato.
-Papai, não creia que poderíamos ter evitado o acidente que nos obrigou a tomar caminho de Guarujá como soube depois,
-onde dormi. O vovô me esclarece que o meu tempo teria de ser muito curto.
-Ele diz que somos companheiros da vida e que, muitas vezes, um companheiro vem ficar no mundo apenas durante o tempo necessário para fazer um ponto de ligação entre duas certezas — a certeza do amor e a certeza da vida que nunca desaparece.
-Podem acreditar que sinto muitas saudades de casa, mas estou muito protegido e reconfortado.
-Estou alegre porque o senhor papai, e mãezinha estão me vendo em outras crianças. Eu sei que os meninos sem abrigo e sem amor de alguém são também meus irmãos. Deus é o nosso Pai e nos socorre a todos.
-Não sei e nem posso escrever mais. Mas estou muito feliz porque, depois de um ano, consegui aprender a ser auxiliado a lhes escrever.
-Muito carinho às meninas e, para os dois, muitas saudades e muitos sorrisos de alegria e de esperança do filho que lhes pertence.
-Sempre o Tiaminho
+1 Querido papai Hélio e querida mamãe Sayoko, estou escrevendo com o auxílio do avô Daikuara n e da tia Saito, para falar que vou indo muito bem.
+2 Estou contente, porque estamos todos com outras ideias.
+3 Pai, venho pedir a sua paz. Nada aconteceu de mal. Eu queria ajudar um pouco na ilusão de que já dispunha de força para movimentar o carro. n
+4 Escorreguei e não vi mais nada, porque dormi. Depois, soube que o senhor e minha mãe estavam muito tristes.
+5 Um amigo de coração generoso me conduziu a um lindo parque de repouso. No primeiro dia, estava tão consciente n de que estávamos todos juntos, que julguei estar em Bertioga n ou em outro local parecido, a fim de esperá-los.
+6 Encontrei muitos amigos que me ensinaram a chamá-los por parentes. Por eles, fui levado à nossa casa e vi que estavam chorando. Não consegui consolá-los, mas pedi aos que me protegiam apoio e socorro para os queridos pais, para Mimi e para Tati.
+7 Papai, estou muito agradecido. Sei tudo o que o senhor e mamãe conversam comigo especialmente quando estão diante do oratório com o meu retrato. n
+8 Papai, não creia que poderíamos ter evitado o acidente que nos obrigou a tomar caminho de Guarujá como soube depois, n onde dormi. O vovô me esclarece que o meu tempo teria de ser muito curto.
+9 Ele diz que somos companheiros da vida e que, muitas vezes, um companheiro vem ficar no mundo apenas durante o tempo necessário para fazer um ponto de ligação entre duas certezas — a certeza do amor e a certeza da vida que nunca desaparece.
+10 Podem acreditar que sinto muitas saudades de casa, mas estou muito protegido e reconfortado.
+11 Estou alegre porque o senhor papai, e mãezinha estão me vendo em outras crianças. Eu sei que os meninos sem abrigo e sem amor de alguém são também meus irmãos. Deus é o nosso Pai e nos socorre a todos.
+12 Não sei e nem posso escrever mais. Mas estou muito feliz porque, depois de um ano, consegui aprender a ser auxiliado a lhes escrever.
+13 Muito carinho às meninas e, para os dois, muitas saudades e muitos sorrisos de alegria e de esperança do filho que lhes pertence.
+14 Sempre o Tiaminho
 
 ---
 
-## 7 — Meu “Tiamo”
+## 7
 
 Exatamente 91 dias após a partida de Tiamo para o Plano Espiritual, numa noite, encontrei-me tão desesperada, com tanta saudade, tão preocupada pensando nele, julgando que talvez meu filho estivesse pedindo por mim ou com saudade do lar.
 Estava sozinha, pois as meninas tinham ido até a casa da tia, o Hélio ainda não havia retornado do trabalho e as serviçais já estavam recolhidas em seus quartos.
@@ -164,94 +149,80 @@ Quando o Hélio voltou, foi difícil explicar-lhe tudo o que ocorreu, mas a vela
 
 ---
 
-## 8 — Segunda mensagem
+## 8
 
-Querido papai Hélio e querida mãezinha Sayoko, estou presente, retornando a mim próprio a fim de ser o filho ativo e útil que lhes possa prestar o auxílio possível.
-Agradeço a meu pai o trabalho imenso que desenvolve no sentido de assimilar as realidades de minha sobrevivência e as razões de nosso encontro e de nossa separação transitória.
-Pai querido, não se aflija demasiado. Todos nos reconhecemos na condição de elos vivos na corrente do amor que nos convida ou nos arrasta uns para os outros.
-Gradativamente, entraremos na posse de todos os conhecimentos dos quais nos reconhecemos necessitados para caminhar adiante com a segurança precisa.
-A sua existência é preciosa demais não só para a querida mãezinha e para nós, seus filhos, mas também para muitos companheiros outros, que encontram abençoadas atividades entrosadas com as suas e, por isso, precisamos sabê-lo fortalecido em si mesmo.
-As explicações de fatos obscuros virão depois, depois que os nossos encargos presentes forem preenchidos.
-Tenho pedido aos nossos benfeitores daqui que nos auxiliem a tê-lo bem disposto e invariavelmente animado para as lutas que precisamos sustentar em auxílio a todos aqueles que se agregam a nós e conto com esse amparo, a fim de que permaneçamos tranquilos.
-Querido papai e querida mamãe, é tudo quanto lhes posso dizer por agora, deixando-lhes nos corações queridos muitos beijos do filho que sempre lhes pertencerá.
-
----
-
-## 9 — Terceira mensagem
-
-Querido papai Hélio e querida mãezinha Sayoko, estou aqui, tanto quanto sempre, partilhando-lhes o benemérito trabalho na proteção aos companheiros em provações talvez mais difíceis que as nossas.
-Desejo-lhes, junto às irmãzinhas e a todos os nossos muita felicidade e paz, saúde e bênçãos nestes dias de Festas.
-Querido papai Hélio, já fui esclarecido sobre a desencarnação que atravessei com as bênçãos da Eterna Providência e oportunamente falarei ao seu querido coração sobre isso.
-Querido papai Hélio e querida mãezinha Sayoko trago-lhes as flores da gratidão e do amor constante do filho que lhes oferece a própria vida em sinal de afeto e reconhecimento.
+1 Querido papai Hélio e querida mãezinha Sayoko, estou presente, retornando a mim próprio a fim de ser o filho ativo e útil que lhes possa prestar o auxílio possível.
+2 Agradeço a meu pai o trabalho imenso que desenvolve no sentido de assimilar as realidades de minha sobrevivência e as razões de nosso encontro e de nossa separação transitória.
+3 Pai querido, não se aflija demasiado. Todos nos reconhecemos na condição de elos vivos na corrente do amor que nos convida ou nos arrasta uns para os outros.
+4 Gradativamente, entraremos na posse de todos os conhecimentos dos quais nos reconhecemos necessitados para caminhar adiante com a segurança precisa.
+5 A sua existência é preciosa demais não só para a querida mãezinha e para nós, seus filhos, mas também para muitos companheiros outros, que encontram abençoadas atividades entrosadas com as suas e, por isso, precisamos sabê-lo fortalecido em si mesmo.
+6 As explicações de fatos obscuros virão depois, depois que os nossos encargos presentes forem preenchidos.
+7 Tenho pedido aos nossos benfeitores daqui que nos auxiliem a tê-lo bem disposto e invariavelmente animado para as lutas que precisamos sustentar em auxílio a todos aqueles que se agregam a nós e conto com esse amparo, a fim de que permaneçamos tranquilos.
+8 Querido papai e querida mamãe, é tudo quanto lhes posso dizer por agora, deixando-lhes nos corações queridos muitos beijos do filho que sempre lhes pertencerá.
 
 ---
 
-## 10 — Quarta mensagem
+## 9
+
+1 Querido papai Hélio e querida mãezinha Sayoko, estou aqui, tanto quanto sempre, partilhando-lhes o benemérito trabalho na proteção aos companheiros em provações talvez mais difíceis que as nossas.
+2 Desejo-lhes, junto às irmãzinhas e a todos os nossos muita felicidade e paz, saúde e bênçãos nestes dias de Festas.
+3 Querido papai Hélio, já fui esclarecido sobre a desencarnação que atravessei com as bênçãos da Eterna Providência e oportunamente falarei ao seu querido coração sobre isso.
+4 Querido papai Hélio e querida mãezinha Sayoko trago-lhes as flores da gratidão e do amor constante do filho que lhes oferece a própria vida em sinal de afeto e reconhecimento.
+
+---
+
+## 10
 
 > 1: Neste depoimento, o nobre Espírito do Tiaminho nos fala de seus compromissos cármicos que, qual podemos observar, permanecem conosco a exigir-nos reparação, afim de que nossa consciência se tranquilize.
 > — Com o amor dos pais queridos que me receberam na Vida Física com abençoada ternura, pude resgatar a dívida que intimamente me requeimava
 
-Querido papai e querida mamãe Sayoko, peço ao Eterno Pai nos proteja e abençoe.
-Querido papai Hélio, o que eu necessitava esclarecer é que não precisamos manter qualquer preocupação, sobre a minha volta ao Plano Espiritual.
-Já informei que fui amparado por irmãos budistas que me auxiliaram a retomar a memória da vida passada mais recente.
-Depois de alguns meses em que o meu envoltório espiritual foi convenientemente tratado pude memorizar a projeção da causa pela qual retornei da Terra à Vida Verdadeira.
-Vi-me, na posição de um comandante rigoroso na disciplina, forçando um amigo querido que cometera certo erro a praticar o Hara-kiri diante de mim. Honrei a disciplina cultuada por nossos antepassados, mas não honrei a minha própria consciência.
-Abatido com a dor do companheiro que poderia haver socorrido e liberado de tamanho rigor, pouco tempo me separou da morte física e abordei o Mundo Maior, naturalmente recebido com o respeito e o acolhimento de nosso Grupo, mas carregando a ferida do remorso no coração.
-Demorei-me no Mais Além a me habilitar para a prova que me propunha a experimentar e, graças a Deus, com o amor dos pais queridos que me receberam na Vida Física com abençoada ternura, pude resgatar a dívida que intimamente me requeimava.
-n
-Agora, sou feliz, o feliz Tiaminho que recuperou o senso do amor aos amigos e do respeito aos adversários, sem pensamentos de pesar a me vergarem a cabeça. Espero que os meus pais muito amados compreendam e me abençoem.
-Como sempre, todo o meu carinho à nossa família e agora, que nos achamos renovados trabalhemos no auxílio aos outros porque é nesse câmbio de solidariedade que atingiremos a alegria da Paz Maior.
-Recebam, com este comunicado muitos beijos do filho que os adora.
+1 Querido papai e querida mamãe Sayoko, peço ao Eterno Pai nos proteja e abençoe.
+2 Querido papai Hélio, o que eu necessitava esclarecer é que não precisamos manter qualquer preocupação, sobre a minha volta ao Plano Espiritual.
+3 Já informei que fui amparado por irmãos budistas que me auxiliaram a retomar a memória da vida passada mais recente.
+4 Depois de alguns meses em que o meu envoltório espiritual foi convenientemente tratado pude memorizar a projeção da causa pela qual retornei da Terra à Vida Verdadeira.
+5 Vi-me, na posição de um comandante rigoroso na disciplina, forçando um amigo querido que cometera certo erro a praticar o Hara-kiri diante de mim. Honrei a disciplina cultuada por nossos antepassados, mas não honrei a minha própria consciência.
+6 Abatido com a dor do companheiro que poderia haver socorrido e liberado de tamanho rigor, pouco tempo me separou da morte física e abordei o Mundo Maior, naturalmente recebido com o respeito e o acolhimento de nosso Grupo, mas carregando a ferida do remorso no coração.
+7 Demorei-me no Mais Além a me habilitar para a prova que me propunha a experimentar e, graças a Deus, com o amor dos pais queridos que me receberam na Vida Física com abençoada ternura, pude resgatar a dívida que intimamente me requeimava. n
+8 Agora, sou feliz, o feliz Tiaminho que recuperou o senso do amor aos amigos e do respeito aos adversários, sem pensamentos de pesar a me vergarem a cabeça. Espero que os meus pais muito amados compreendam e me abençoem.
+9 Como sempre, todo o meu carinho à nossa família e agora, que nos achamos renovados trabalhemos no auxílio aos outros porque é nesse câmbio de solidariedade que atingiremos a alegria da Paz Maior.
+10 Recebam, com este comunicado muitos beijos do filho que os adora.
 
 ---
 
-## 11 — Quinta mensagem
+## 11
 
-Querido papai Hélio e querida mãezinha Sayoko, estamos aqui, mais juntos e compreensivelmente mais ajustados uns com os outros, pela redescoberta de mim mesmo.
-Sei que os entraves do presente merecem nossos comentários, pela situação difícil que as condições de trabalho estabelecem para quantos se dedicam ao trabalho, sob a legenda da ordem, mas é preciso me volte na direção do passado para clarear os nossos problemas que, de começo, pareciam insolúveis.
-Nestes últimos meses, tenho adquirido crescimento mais amplo. Não digo isso, com referência a tamanho, mas sim com relação ao domínio de minhas lembranças de vidas anteriores, nas quais estivemos unidos.
-Papai Hélio, o avô Torao tem me auxiliado sempre, desde a minha chegada ou regresso à Vida Espiritual. E agora o meu avô Kinjiro nos compartilha dos estudos e lições.
-n
-Nada tão belo como rememorar os nossos tempos felizes em nossas ilhas fabulosas. Aqueles mares inesquecíveis coalhados de pequenos continentes, cobertos de flores, não me saem das reminiscências.
-Atualmente, em companhia de meus avós, tenho voltado vezes frequentes, a todos aqueles santuários da Natureza, reverenciando os nossos antepassados e arquitetando planos de trabalho que nos façam um futuro sempre melhor.
-Dói-me recordar que, um dia, fui obrigado em outra veste física a determinar que o senhor praticasse o Hara-kiri, depois de um processo rude em que a verdade não apareceu no tempo devido.
-Sucede que um desfalque de proporções enormes havia surgido em nossos negócios que abrangiam filiais em várias cidades.
-Desinformado pela insegurança de quantos agiam tentando a nossa separação, não vacilei em aplicar-lhe pena assim tão amarga, mas creia que pela amizade fiel que nos entrelaçava os corações, depois de vê-lo desaparecer em tão lamentável acontecimento, passei, de minha parte, a ser um chefe igualmente morto, conquanto ainda vivesse para morrer vagarosamente, nas garras do remorso, mormente, quando vim a saber que o endereçara a sofrimentos injustos, porque o suposto desfalque atribuído ao seu nobre caráter fora praticado por um irmão, companheiro de minha própria consanguinidade, que soubera se ocultar de tal modo que o meu gesto, contra o seu caminho irrepreensível de homem de bem, se tornou a causa de minha própria desencarnação, desprestigiado que me sentia, por minha própria consciência, pouco tempo depois da sua volta a Vida Espiritual.
-Envergonhado fui socorrido por seus próprios braços de amigo, ao me desvencilhar do corpo vencido por pesados desgostos e eu que nunca havia chorado na existência de que provinha, aprendi a derramar aquele pranto de remorso que se assemelha a gotas de vida, a nos desfazerem a própria alma.
-Pedir-lhe perdão pela minha atitude agressiva e imperdoável, foi tudo o que pude fazer em nosso reencontro, mas, ali mesmo, ante os céus de Kioto,
-n
-implorei aos nossos antepassados me doassem, um dia, a mesma sentença ao seu lado, de modo a me sentir exonerado do arrependimento que me feria todas as fibras do Espírito.
-O seu amor de amigo recolheu-me com carinho as manifestações de sofrimento e passamos a trabalhar de forma inversa. Eu que lhe dirigia as atividades, passei à subalternidade, acatando-lhe as instruções.
-O tempo se desdobrou sobre o tempo, os dias se desfizeram no parcelamento das horas, até que vi muitos de nossos amigos criando, com a futura mãezinha Sayoko o seu reingresso na experiência física.
-Acompanhei-lhe o retorno, segui os seus passos vacilantes de pequenino que recomeçava a lutar para consolidar-se no campo terrestre e, quando se deu o reencontro do papai Hélio e da mãezinha Sayoko, na Terra, reconheci que a minha oportunidade havia chegado.
-Com o auxílio dos que nos amam, renasci para amá-los cada vez mais, na condição de filho, e nessa mesma figuração, com a aprovação de nossos avós, sofri a pena igual a que lhe impusera.
-Desde o instante em que me vi liberto do corpo material, uma alegria imensa se apoderou de mim e aqui estou, depois desta digressão, para dizer-lhes que a nossa vida obedece a leis que se cumprem para a nossa felicidade real.
-Decretara a morte de um amigo que muito amava, enganado por um irmão que, decerto, foi entregue ao mesmo império da lei, no entanto, passei pela mesma prova com o amor do companheiro transformado em pai amoroso e sensível, sob o carinho da mãezinha Sayoko que hoje tenta compreender a solução do nosso problema que passou aos arquivos do tempo.
-Agora, papai Hélio, os horizontes se me abriram e estamos entrosados um com o outro na mesma continuidade do trabalho que retomamos sob o céus do Brasil.
-Louvada seja a Providência do Senhor que nos perdoa, permitindo-nos resgatar as contas da vida com o amor e fé nos princípios que nos governam.
-É por isso que hoje não estou escrevendo sob o aspecto do Tiaminho que se reconscientizou na Espiritualidade.
-O amor cobre os erros humanos
-e a prova disso é que me encontro aqui, agradecendo o ensejo que me foi concedido para esta confissão clara e certa.
-Que minhas queridas irmãs se desenvolvam cada vez mais para cumprirem na Terra as mais belas tarefas de que se façam capazes, são os meus votos e ambos, meus pais queridos, recebam a alma toda, com todo o jubiloso reconhecimento do filho, sempre muito feliz e muito grato.
+1 Querido papai Hélio e querida mãezinha Sayoko, estamos aqui, mais juntos e compreensivelmente mais ajustados uns com os outros, pela redescoberta de mim mesmo.
+2 Sei que os entraves do presente merecem nossos comentários, pela situação difícil que as condições de trabalho estabelecem para quantos se dedicam ao trabalho, sob a legenda da ordem, mas é preciso me volte na direção do passado para clarear os nossos problemas que, de começo, pareciam insolúveis.
+3 Nestes últimos meses, tenho adquirido crescimento mais amplo. Não digo isso, com referência a tamanho, mas sim com relação ao domínio de minhas lembranças de vidas anteriores, nas quais estivemos unidos.
+4 Papai Hélio, o avô Torao tem me auxiliado sempre, desde a minha chegada ou regresso à Vida Espiritual. E agora o meu avô Kinjiro nos compartilha dos estudos e lições. n
+5 Nada tão belo como rememorar os nossos tempos felizes em nossas ilhas fabulosas. Aqueles mares inesquecíveis coalhados de pequenos continentes, cobertos de flores, não me saem das reminiscências.
+6 Atualmente, em companhia de meus avós, tenho voltado vezes frequentes, a todos aqueles santuários da Natureza, reverenciando os nossos antepassados e arquitetando planos de trabalho que nos façam um futuro sempre melhor.
+7 Dói-me recordar que, um dia, fui obrigado em outra veste física a determinar que o senhor praticasse o Hara-kiri, depois de um processo rude em que a verdade não apareceu no tempo devido.
+8 Sucede que um desfalque de proporções enormes havia surgido em nossos negócios que abrangiam filiais em várias cidades.
+9 Desinformado pela insegurança de quantos agiam tentando a nossa separação, não vacilei em aplicar-lhe pena assim tão amarga, mas creia que pela amizade fiel que nos entrelaçava os corações, depois de vê-lo desaparecer em tão lamentável acontecimento, passei, de minha parte, a ser um chefe igualmente morto, conquanto ainda vivesse para morrer vagarosamente, nas garras do remorso, mormente, quando vim a saber que o endereçara a sofrimentos injustos, porque o suposto desfalque atribuído ao seu nobre caráter fora praticado por um irmão, companheiro de minha própria consanguinidade, que soubera se ocultar de tal modo que o meu gesto, contra o seu caminho irrepreensível de homem de bem, se tornou a causa de minha própria desencarnação, desprestigiado que me sentia, por minha própria consciência, pouco tempo depois da sua volta a Vida Espiritual.
+10 Envergonhado fui socorrido por seus próprios braços de amigo, ao me desvencilhar do corpo vencido por pesados desgostos e eu que nunca havia chorado na existência de que provinha, aprendi a derramar aquele pranto de remorso que se assemelha a gotas de vida, a nos desfazerem a própria alma.
+11 Pedir-lhe perdão pela minha atitude agressiva e imperdoável, foi tudo o que pude fazer em nosso reencontro, mas, ali mesmo, ante os céus de Kioto, n implorei aos nossos antepassados me doassem, um dia, a mesma sentença ao seu lado, de modo a me sentir exonerado do arrependimento que me feria todas as fibras do Espírito.
+12 O seu amor de amigo recolheu-me com carinho as manifestações de sofrimento e passamos a trabalhar de forma inversa. Eu que lhe dirigia as atividades, passei à subalternidade, acatando-lhe as instruções.
+13 O tempo se desdobrou sobre o tempo, os dias se desfizeram no parcelamento das horas, até que vi muitos de nossos amigos criando, com a futura mãezinha Sayoko o seu reingresso na experiência física.
+14 Acompanhei-lhe o retorno, segui os seus passos vacilantes de pequenino que recomeçava a lutar para consolidar-se no campo terrestre e, quando se deu o reencontro do papai Hélio e da mãezinha Sayoko, na Terra, reconheci que a minha oportunidade havia chegado.
+15 Com o auxílio dos que nos amam, renasci para amá-los cada vez mais, na condição de filho, e nessa mesma figuração, com a aprovação de nossos avós, sofri a pena igual a que lhe impusera.
+16 Desde o instante em que me vi liberto do corpo material, uma alegria imensa se apoderou de mim e aqui estou, depois desta digressão, para dizer-lhes que a nossa vida obedece a leis que se cumprem para a nossa felicidade real.
+17 Decretara a morte de um amigo que muito amava, enganado por um irmão que, decerto, foi entregue ao mesmo império da lei, no entanto, passei pela mesma prova com o amor do companheiro transformado em pai amoroso e sensível, sob o carinho da mãezinha Sayoko que hoje tenta compreender a solução do nosso problema que passou aos arquivos do tempo.
+18 Agora, papai Hélio, os horizontes se me abriram e estamos entrosados um com o outro na mesma continuidade do trabalho que retomamos sob o céus do Brasil.
+19 Louvada seja a Providência do Senhor que nos perdoa, permitindo-nos resgatar as contas da vida com o amor e fé nos princípios que nos governam.
+20 É por isso que hoje não estou escrevendo sob o aspecto do Tiaminho que se reconscientizou na Espiritualidade. 21 O amor cobre os erros humanos ( † ) e a prova disso é que me encontro aqui, agradecendo o ensejo que me foi concedido para esta confissão clara e certa.
+22 Que minhas queridas irmãs se desenvolvam cada vez mais para cumprirem na Terra as mais belas tarefas de que se façam capazes, são os meus votos e ambos, meus pais queridos, recebam a alma toda, com todo o jubiloso reconhecimento do filho, sempre muito feliz e muito grato.
 27 abril 1983.
 
 ---
 
-## 12 — Ouvindo Chico Xavier
+## 12
 
 > 1  Tiaminho nos fala que após a desencarnação foi conduzido a um “lindo parque de repouso”.
 
 As páginas do Tiaminho despertaram-nos especial interesse, sobretudo, por retratarem o depoimento de uma criança que nos deixou com apenas cinco anos.
 Assim, com o objetivo de trazer ao leitor maiores esclarecimentos, desdobrando tema tão palpitante, perguntamos a Chico Xavier:
-: Há, Chico, no Plano Espiritual, parques ou locais adequados para onde são conduzidas as crianças, após sua desencarnação?
-: — Os Espíritos Amigos se referem a parques-escolas parques-cidades, colônias-cidades e parques-instituições, os mais diversos, nos quais numerosas entidades se demoram por tempo determinado, seja atendendo à própria recuperação da memória de que se fazem portadores ou satisfazendo a aprendizados de caráter primário dos quais necessitam para benefício da evolução que lhes é própria.
-: De que modo Tiaminho teve acesso a informações tão ricas e a minudências tão claras? Haverá arquivos na Vida Maior que registram nossas vidas passadas?
-: — Não podemos esquecer que Tiaminho foi inicialmente recolhido por mentores budistas, altamente especializados em auxiliar aos seus tutelados na possível regressão da memória, decerto para efeito de segurança e eficiência no trabalho que o próprio Tiaminho seria chamado a desenvolver.
-
----
-
-##  — Agradecimento
-
-Agradecimento dos pais a Chico Xavier.
-Somos gratos ao grande médium Francisco Candido Xavier pelo conforto que nos trouxe através de suas palavras de amor e mensagens que nos conduziram à certeza da sobrevivência do Espírito.
-Agradecemos também a Dona Yolanda Cezar pela sincera companhia que sempre nos auxiliou no caminho de nossa Espiritualização.
+P: Há, Chico, no Plano Espiritual, parques ou locais adequados para onde são conduzidas as crianças, após sua desencarnação?
+R: — Os Espíritos Amigos se referem a parques-escolas parques-cidades, colônias-cidades e parques-instituições, os mais diversos, nos quais numerosas entidades se demoram por tempo determinado, seja atendendo à própria recuperação da memória de que se fazem portadores ou satisfazendo a aprendizados de caráter primário dos quais necessitam para benefício da evolução que lhes é própria.
+P: De que modo Tiaminho teve acesso a informações tão ricas e a minudências tão claras? Haverá arquivos na Vida Maior que registram nossas vidas passadas?
+R: — Não podemos esquecer que Tiaminho foi inicialmente recolhido por mentores budistas, altamente especializados em auxiliar aos seus tutelados na possível regressão da memória, decerto para efeito de segurança e eficiência no trabalho que o próprio Tiaminho seria chamado a desenvolver.

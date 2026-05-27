@@ -6,67 +6,55 @@
 
 ---
 
-##  — Anotação
+## 
 
 Um pensamento apresentado hoje com o mínimo de palavras, em muitas ocasiões, pode nos favorecer com o máximo de auxílio no trabalho de amanhã.
 Uberaba, 21 de junho de 1976.
 
 ---
 
-## 1 — Oração e luz
+## 1
 
 A tentação é comparável ao assalto da treva.
 A oração, porém, é a luz com que se pode extingui-la.
 
 ---
 
-## 2 — Ação
+## 2
 
-
-Ante o bem a fazer
+1 Ante o bem a fazer
 Não digas: “impossível”.
-
-No amparo aos semelhantes,
+2 No amparo aos semelhantes,
 Não fales: “nada sou”.
-
-Estende as mãos e serve,
+3 Estende as mãos e serve,
 O Céu te escuta e vê.
-
-Lembra a tomada humilde
+4 Lembra a tomada humilde
 Comunicando a luz.
-
-Faze o melhor que possas
+5 Faze o melhor que possas
 E o melhor surgirá.
-
-Deus é auxílio em ti.
+6 Deus é auxílio em ti.
 Age e funcionarás.
 
 ---
 
-## 3 — Reflete
+## 3
 
-
-Ante as provas difíceis,
+1 Ante as provas difíceis,
 Jamais te desesperes.
-
-A tempestade agora
+2 A tempestade agora
 É o ar limpo depois.
-
-A pedra é pedra bruta,
+3 A pedra é pedra bruta,
 Sem o buril que a fere.
-
-Silencia, trabalha
+4 Silencia, trabalha
 E o melhor chegará.
-
-Se dispões de uma vela
+5 Se dispões de uma vela
 Podes banir a sombra.
-
-Não há mal que te alcance,
+6 Não há mal que te alcance,
 Se confias em Deus.
 
 ---
 
-## 4 — Em paz
+## 4
 
 Deus determinou seja o céu decorado de azul aos nossos olhos para que a tranquilidade nos abençoe.
 Guarda-te em paz.
@@ -74,195 +62,153 @@ Deus está contigo.
 
 ---
 
-## 5 — Podes
+## 5
 
-
-Só Deus é a Providência,
+1 Só Deus é a Providência,
 Mas podes ser o auxílio.
-
-Só Deus é a Luz,
+2 Só Deus é a Luz,
 Mas podes ser a lâmpada.
-
-Só Deus é o Amor Integral,
+3 Só Deus é o Amor Integral,
 Mas podes ser a bênção.
-
-Só Deus é a Alegria Perfeita,
+4 Só Deus é a Alegria Perfeita,
 Mas podes ser o sorriso.
-
-Só Deus é a Sabedoria,
+5 Só Deus é a Sabedoria,
 Mas podes ser a boa palavra.
-
-Só Deus é Tudo no Bem,
+6 Só Deus é Tudo no Bem,
 Mas podes ser a migalha.
 
 ---
 
-## 6 — Rendimento
+## 6
 
-
-Leve auxílio que estendas:
+1 Leve auxílio que estendas:
 Mais apoio a servir-te.
-
-A esperança que espalhes
+2 A esperança que espalhes
 É uma estrela a esperar-te.
-
-Dor que tires dos outros,
+3 Dor que tires dos outros,
 Prova de que te afastas.
-
-Doar felicidade
+4 Doar felicidade
 É retratá-la em nós.
-
-Olha a semente humilde
+5 Olha a semente humilde
 E a colheita dos frutos.
-
-Todo bem rende o bem
+6 Todo bem rende o bem
 Pelas contas de Deus.
 
 ---
 
-## 7 — Proteção
+## 7
 
-
-O trabalho que tens
+1 O trabalho que tens
 Veio do amor de Deus.
-
-A tentação que sofres
+2 A tentação que sofres
 É a prova que te apura.
-
-O parente difícil
+3 O parente difícil
 É um teste para o bem.
-
-Doença que te aflija
+4 Doença que te aflija
 Reajusta-te o ser.
-
-Recorda a tempestade
+5 Recorda a tempestade
 Regenerando a vida.
-
-Por trás de todo mal
+6 Por trás de todo mal
 Brilha a bênção de Deus.
 
 ---
 
-## 8 — Confiemos
+## 8
 
 Deus se compadeça de quem perdeu a fé.
 
 ---
 
-## 9 — Serve com Deus
+## 9
 
-
-Nos caminhos da vida,
+1 Nos caminhos da vida,
 Não te esqueças de Deus.
-
-Se o tempo é tranquilo,
+2 Se o tempo é tranquilo,
 Serve e agradece a Deus.
-
-Ante as crises que surjam,
+3 Ante as crises que surjam,
 Serve e confia em Deus.
-
-Quando alguém te abandone,
+4 Quando alguém te abandone,
 Serve, apoiando-te em Deus.
-
-Ante ofensas e golpes,
+5 Ante ofensas e golpes,
 Cala-te e serve, pensando em Deus.
-
-Atende ao dever que te cabe
+6 Atende ao dever que te cabe
 E Deus fará o resto.
 
 ---
 
-## 10 — Defesa
+## 10
 
-
-Se a provação te busca,
+1 Se a provação te busca,
 Não desanimes. Segue…
-
-O dever a cumprir
+2 O dever a cumprir
 É refúgio a guardar-te.
-
-No calor do serviço
+3 No calor do serviço
 A sombra se desfaz.
-
-O buril contra a pedra
+4 O buril contra a pedra
 É a força que a promove.
-
-A dor aproveitada
+5 A dor aproveitada
 É sempre amparo oculto.
-
-Sofre com paciência,
+6 Sofre com paciência,
 Deus te oferta o melhor.
 
 ---
 
-## 11 — Descanso
+## 11
 
-
-Tempo de provação
+1 Tempo de provação
 Recorda sombra espessa.
-
-Entretanto, não temas,
+2 Entretanto, não temas,
 Pensa em Deus e confia.
-
-Trovões ameaçadores
+3 Trovões ameaçadores
 Podem rugir à noite.
-
-Forças da tempestade
+4 Forças da tempestade
 Atritarão nos Céus…
-
-Mas Deus vela e te guarda,
+5 Mas Deus vela e te guarda,
 Descansa na oração.
-
-O fim de cada noite
+6 O fim de cada noite
 É sempre o amanhecer.
 
 ---
 
-## 12 — A Prece da Roseira
+## 12
 
 O homem que deixara a construção do bem, por sentir-se imperfeito, voltou ao trabalho, quando ouviu a prece da roseira:
 Agradeço-te, oh! meu Deus, porque apesar dos espinhos que carrego, deste-me a força precisa para oferecer-te a alegria e o perfume das rosas.
 
 ---
 
-## 13 — Socorro
+## 13
 
-
-Nas horas serenas,
+1 Nas horas serenas,
 Agradecer a Deus.
-
-Nos momentos de crise,
+2 Nos momentos de crise,
 Confiar em Deus.
-
-Nos instantes de indecisão,
+3 Nos instantes de indecisão,
 Esperar por Deus.
-
-Nos problemas da vida
+4 Nos problemas da vida
 Soluções em Deus.
-
-Ante injúrias e golpes,
+5 Ante injúrias e golpes,
 Silêncio e fé em Deus.
-
-Nos erros e nas falhas
+6 Nos erros e nas falhas
 Recomeçar com Deus.
 
 ---
 
-## 14 — Renovação
+## 14
 
 A árvore aceitou os desígnios da vida que lhe pediam serviço.
 Mas, quando se acreditou definitivamente despojada, notou que a Divina Providência a revestiu de folhas e flores novas, ao toque da primavera.
 
 ---
 
-## 15 — Tempo e conta
+## 15
 
 Deus nos concede, a cada dia, uma página de vida nova no livro do tempo.
 Aquilo que colocarmos nela corre por nossa conta.
 
 ---
 
-## 16 — Buscando o alvo
+## 16
 
 Segue adiante, trabalhando e servindo.
 Não retenhas senão os recursos de que tenhas necessidade.
@@ -270,101 +216,81 @@ Considera os companheiros do caminho: quanto mais bagagem, mais inquietação.
 
 ---
 
-## 17 — Visão
+## 17
 
 Se nos situarmos no ângulo da verdade e do amor, enxergaremos as pessoas, não conforme os nossos pontos de vista, e sim na forma em que o Senhor as vê.
 Roguemos ao Doador de Todas as Bênçãos nos ilumine o olhar e o pensamento, a fim de que possamos ver e compreender e compreender para servir.
 
 ---
 
-## 18 — Confia e segue
+## 18
 
-
-Segue fazendo o bem.
+1 Segue fazendo o bem.
 Deus te guarda e te inspira.
-
-Quem mais caminha à frente
+2 Quem mais caminha à frente
 É sempre quem mais serve.
-
-Pedra, lama, espinheiro?
+3 Pedra, lama, espinheiro?
 Quem trabalha prossegue.
-
-Alguém busca entravar-te?
+4 Alguém busca entravar-te?
 Continua servindo.
-
-Haja o que houver à noite,
+5 Haja o que houver à noite,
 Ninguém prende a alvorada.
-
-A luz dissolve as trevas.
+6 A luz dissolve as trevas.
 Segue e confia em Deus.
 
 ---
 
-## 19 — Ergue-te
+## 19
 
-
-Caíste em depressão?
+1 Caíste em depressão?
 Ergue-te no trabalho.
-
-O tempo disponível
+2 O tempo disponível
 É riqueza em teus braços.
-
-Não permitas que o tédio
+3 Não permitas que o tédio
 Faça treva em teus dias.
-
-Trabalha e ajuda a alguém
+4 Trabalha e ajuda a alguém
 Que sofra mais que nós.
-
-Pensa no Sol que ampara
+5 Pensa no Sol que ampara
 Do verme aos grandes mundos.
-
-Se desejas servir
+6 Se desejas servir
 Já tens vaga com Deus.
 
 ---
 
-## 20 — Perda e lucro
+## 20
 
 Com Deus, as supostas perdas são sempre grandes lucros.
 Uma bomba foi cruelmente atirada sobre os habitantes de uma região quase estéril, mas, ao invés de aniquilá-los, abriu largo poço na terra, do qual passou a jorrar a água pura.
 
 ---
 
-## 21 — Momentos de luz
+## 21
 
-
-Alguém te ofendeu?
+1 Alguém te ofendeu?
 Esse é o ensejo de desculpar.
-
-Alguém não te entende a dedicação?
+2 Alguém não te entende a dedicação?
 Essa é a oportunidade de amar e servir ainda mais.
 
 ---
 
-## 22 — Suprimento
+## 22
 
-
-Crê, trabalha e não temas,
+1 Crê, trabalha e não temas,
 Deus te apoia e te guarda.
-
-Tentações a vencer?
+2 Tentações a vencer?
 Deus te dá resistência
-
-Mais trabalho na vida?
+3 Mais trabalho na vida?
 Deus te acrescenta a força.
-
-Nos problemas difíceis
+4 Nos problemas difíceis
 Deus te iluminará.
-
-Se desejas servir
+5 Se desejas servir
 Deus te concede os meios.
-
-Por mais lutas à frente,
+6 Por mais lutas à frente,
 Segue e confia em Deus.
 
 ---
 
-## 23 — Cada hora
+## 23
 
 Cada hora é ocasião de prestar algum serviço ou de pronunciar as melhores palavras.
 Felicidade é a soma das alegrias que distribuirmos com os outros.

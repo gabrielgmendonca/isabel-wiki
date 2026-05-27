@@ -6,27 +6,26 @@
 
 ---
 
-## Prefácio — Aparte de Amigo
+## Prefácio
 
-Caro leitor:
-Não temos aqui o livro de um autor único ou uma exposição de ideias pessoais.
-Solicitamos vênia para dizer que este volume é um diálogo em si. Um ponto de encontro entre nós e a Doutrina Espírita.
-Em muitos tópicos surpreenderemos as nossas indagações e perplexidades, ante os obstáculos e provas da experiência humana a se expressarem nas inquietações e perguntas de muitos daqueles que suscitaram a formação destas páginas.
-Alguém desejará saber porque a nossa participação nos assuntos de ordem terrena.
+1 Caro leitor: Não temos aqui o livro de um autor único ou uma exposição de ideias pessoais.
+2 Solicitamos vênia para dizer que este volume é um diálogo em si. Um ponto de encontro entre nós e a Doutrina Espírita.
+3 Em muitos tópicos surpreenderemos as nossas indagações e perplexidades, ante os obstáculos e provas da experiência humana a se expressarem nas inquietações e perguntas de muitos daqueles que suscitaram a formação destas páginas.
+4 Alguém desejará saber porque a nossa participação nos assuntos de ordem terrena.
 Acaso não existirá mundo melhor que a Terra para os Espíritos desencarnados, sedentos de beleza e revelação? E será o orbe terrestre assim tão importante para que tantos amigos, além da morte, continuem gravitando em torno dele?
-Responderemos afirmativamente.
+5 Responderemos afirmativamente.
 Existem mundos cuja sublimidade e grandeza por enquanto nos escapam a qualquer definição, ao mesmo tempo que o campo humano, materialmente considerado, é sumamente significativo para quantos se desenfaixam dele. Isso ocorre porque o estágio do Espírito no corpo denso é demasiado curto para a aquisição dos valores de que carecemos todos, a fim de seguir adiante.
-Os chamados vivos da Terra, nos eventos de hoje, serão os habitantes do Mais Além, nas ocorrências do amanhã, e a maioria dos chamados mortos do presente revestirão a roupagem carnal no futuro, retomando uns e outros o trabalho evolutivo nos dois planos da Vida, até que a sublimação lhes autorize a promoção, no rumo da Vida Superior.
-Compreensível que as construções espirituais dos homens nos interessem a todos, de vez que somos interdependentes na romagem para o Mais Alto.
-Do impositivo de estudos recíprocos este livro nasceu, evidenciando-nos o anseio comum na procura da verdade e a Doutrina Espírita, consubstanciando a Verdade em si mesma, aqui nos responde às inquirições de ordem geral.
-Diligenciamos por isto relacionar os nossos contatos e conclusões neste livro, seja nos comentários inspirados do nosso companheiro — o Professor Herculano Pires — corporificado no Plano Físico presentemente, guardando responsabilidades na orientação e na divulgação dos princípios kardequianos, por encargo dos mais expressivos em sua atual reencarnação, seja nos trechos despretensiosos em que nos manifestamos, com relação aos temas propostos através de encontros públicos.
-Ante a Era do Espírito e em plena viagem espiritual para o Mundo Novo, achamo-nos, assim, neste volume, na condição de amigos unidos em praça aberta, buscar do diálogo e entendimento.
+6 Os chamados vivos da Terra, nos eventos de hoje, serão os habitantes do Mais Além, nas ocorrências do amanhã, e a maioria dos chamados mortos do presente revestirão a roupagem carnal no futuro, retomando uns e outros o trabalho evolutivo nos dois planos da Vida, até que a sublimação lhes autorize a promoção, no rumo da Vida Superior.
+7 Compreensível que as construções espirituais dos homens nos interessem a todos, de vez que somos interdependentes na romagem para o Mais Alto.
+8 Do impositivo de estudos recíprocos este livro nasceu, evidenciando-nos o anseio comum na procura da verdade e a Doutrina Espírita, consubstanciando a Verdade em si mesma, aqui nos responde às inquirições de ordem geral.
+9 Diligenciamos por isto relacionar os nossos contatos e conclusões neste livro, seja nos comentários inspirados do nosso companheiro — o Professor Herculano Pires — corporificado no Plano Físico presentemente, guardando responsabilidades na orientação e na divulgação dos princípios kardequianos, por encargo dos mais expressivos em sua atual reencarnação, seja nos trechos despretensiosos em que nos manifestamos, com relação aos temas propostos através de encontros públicos.
+10 Ante a Era do Espírito e em plena viagem espiritual para o Mundo Novo, achamo-nos, assim, neste volume, na condição de amigos unidos em praça aberta, buscar do diálogo e entendimento.
 Que o Senhor nos abençoe e ilumine, a fim de que venhamos a atingir os nossos objetivos em amparo a nós mesmos, são, hoje e sempre, os nossos votos.
-Uberaba, 1.° de Junho de 1972.
+Uberaba, 1.º de Junho de 1972.
 
 ---
 
-##  — Os apartes do Além
+## 
 
 Muita gente pergunta a razão de tantas mensagens mediúnicas de Chico Xavier, ao invés de Livros de ensaio e estudo ou mesmo de relatos espirituais em forma de romances. Este livro responde a essas perguntas. O leitor pode ver nas suas páginas que essas mensagens são, na verdade, apartes do Além nos diálogos da Terra. Estamos vivendo um período de transição da vida terrena e os diálogos dos homens se multiplicam, angustiados e ansiosos, por toda parte. Milhares de pessoas levam esses diálogos às reuniões de Uberaba, onde Chico Xavier recebe e atende, em sessões públicas, a todos os visitantes.
 A técnica dessas reuniões é precisamente a do diálogo, e isso muito antes que a expressão se generalizasse em nosso tempo. Os visitantes, procedentes de todo o País e às vezes mesmo do exterior, lotam a sala de reuniões. Em torno à mesa central agrupam-se as pessoas escolhidas para falar sobre o tema da noite, que resulta da abertura ao acaso de “O Evangelho Segundo o Espiritismo” ou de “O Livro dos Espíritos”, ambos de Allan Kardec. O tema recai sempre no assunto principal que está sendo discutido por grupos de visitantes.
@@ -48,21 +47,20 @@ Nesta hora e,m que as pesquisas parapsicológicas e até mesmo as pesquisas fís
 
 ---
 
-## 1 — No momento de julgar
+## 1
 
-No momento de julgar alguém, como poderás julgar esse alguém, de todo, se não conheces tudo?
-Terá sucedido um crime, estarrecendo a multidão.
+1 No momento de julgar alguém, como poderás julgar esse alguém, de todo, se não conheces tudo?
+2 Terá sucedido um crime, estarrecendo a multidão.
 Suponhamos que um homem desequilibrado haja posto uma bomba em certa casa, no intuito de destruir-lhe os moradores. Entretanto, por trás dele estão aqueles que fabricaram o engenho mortífero; os que o conservaram para utilização em momento oportuno; os outros que lhe identificaram o perigo, aprovando-lhe a existência; e aqueles outros ainda que, indiferentes, lhe acompanharam o fogo no estopim, sem a mínima disposição de apagá-lo.
-De que maneira medirias o remorso do Espírito de um homem assassinado, na hipótese desse mesmo assassinado haver provocado o seu contendor até que o antagonista lhe furtasse o corpo, num instante de insanidade?
-E como observarias o pesar do semelhante, às vezes, ilhado no fundo de uma penitenciária, na posição de um vivo-morto, quando o imaginado morto permanece vivo? E com que metro verificarias o sofrimento de um e outro?
-Com que pancadas ou palavras agressivas conseguirias punir, durante algumas horas, a criatura menos feliz que já carrega em si o tormento da culpa, à feição de suplício que lhe atenaza o coração, noite e dia?
-Ante a queda moral de alguém, é mais razoável entrarmos para logo no assunto, na condição de partícipes dela, antes que nos alcemos à indébita função de censores.
-Não precisaríamos tanto de justiça, se não praticássemos a injustiça e nem tanto de medicina se não tivéssemos doença.
-Necessitaríamos, porventura, na Terra, de tantas e tão multiplicadas lições, em torno do bem, se o mal não nos armasse riscos, quase que em todas as direções do Planeta?
-E onde estão aqueles que estejam usufruindo a glória da instalação segura no bem, sem o prejuízo de algum mal, ou aqueles outros que atravessam os espinheiros do mal, sem a vantagem de algum bem?
-No momento de julgar, peçamos a Inspiração da Providência Divina para os magistrados que as circunstâncias vestiram com a toga, a fim de que acertem, nas suas decisões, em louvor do equilíbrio geral, porquanto é tão delicado o encargo do juiz chamado a interferir no corpo da ordem social, quão difícil é a tarefa do cirurgião convocado a interferir no corpo físico.
-E quanto a nós outros, os que não somos trazidos a sentenças de lei, já que não nos achamos compromissados para isso, usemos a sobriedade e a compaixão em todos os nossos processos de vivência pessoal no cotidiano, conscientes, quanto devemos estar, de que os justos são as âncoras dos injustos e de que os bons constituem a esperança para todos aqueles que a maldade ensandece.
-No momento de julgar, ainda que te coloquem no último banco, entre os últimos réus, e mesmo que se te negue o direito de defender a própria consciência edificada e tranquila, a ninguém condenes, nem mesmo àqueles que, porventura, te condenem.
+3 De que maneira medirias o remorso do Espírito de um homem assassinado, na hipótese desse mesmo assassinado haver provocado o seu contendor até que o antagonista lhe furtasse o corpo, num instante de insanidade? 4 E como observarias o pesar do semelhante, às vezes, ilhado no fundo de uma penitenciária, na posição de um vivo-morto, quando o imaginado morto permanece vivo? E com que metro verificarias o sofrimento de um e outro?
+5 Com que pancadas ou palavras agressivas conseguirias punir, durante algumas horas, a criatura menos feliz que já carrega em si o tormento da culpa, à feição de suplício que lhe atenaza o coração, noite e dia?
+6 Ante a queda moral de alguém, é mais razoável entrarmos para logo no assunto, na condição de partícipes dela, antes que nos alcemos à indébita função de censores.
+7 Não precisaríamos tanto de justiça, se não praticássemos a injustiça e nem tanto de medicina se não tivéssemos doença.
+8 Necessitaríamos, porventura, na Terra, de tantas e tão multiplicadas lições, em torno do bem, se o mal não nos armasse riscos, quase que em todas as direções do Planeta?
+9 E onde estão aqueles que estejam usufruindo a glória da instalação segura no bem, sem o prejuízo de algum mal, ou aqueles outros que atravessam os espinheiros do mal, sem a vantagem de algum bem?
+10 No momento de julgar, peçamos a Inspiração da Providência Divina para os magistrados que as circunstâncias vestiram com a toga, a fim de que acertem, nas suas decisões, em louvor do equilíbrio geral, porquanto é tão delicado o encargo do juiz chamado a interferir no corpo da ordem social, quão difícil é a tarefa do cirurgião convocado a interferir no corpo físico.
+11 E quanto a nós outros, os que não somos trazidos a sentenças de lei, já que não nos achamos compromissados para isso, usemos a sobriedade e a compaixão em todos os nossos processos de vivência pessoal no cotidiano, conscientes, quanto devemos estar, de que os justos são as âncoras dos injustos e de que os bons constituem a esperança para todos aqueles que a maldade ensandece.
+12 No momento de julgar, ainda que te coloquem no último banco, entre os últimos réus, e mesmo que se te negue o direito de defender a própria consciência edificada e tranquila, a ninguém condenes, nem mesmo àqueles que, porventura, te condenem.
 Usa sempre a misericórdia e acertarás.
 Na hora em que a descoberta da antimatéria pela Física levanta a hipótese dos universos duplos, cientificamente elaborada, a imagem do túnel mediúnico reveste-se de maior expressão. Essa imagem é também uma elaboração científica, e por sinal do eminente físico inglês Sir Oliver Lodge que sustentou o seguinte : Vivemos num mundo só, num verdadeiro Universo, mas que deve ser compreendido como Universo, dividido em duas partes. De um lado fica a planície dos Homens e do outro o planalto dos Espíritos. Dividindo as duas regiões ergue-se a montanha desconhecida.
 A curiosidade humana é imensa e desde todos os tempos os homens vêm cavando e perfurando a base da montanha, no anseio de ver o que existe do outro lado. Pouco a pouco um túnel foi sendo aberto. E de súbito os homens começaram a ouvir pancadas surdas que vinham ao seu encontro. São os moradores do planalto que, impelidos pela mesma curiosidade, perfuram também o seu túnel. Dia a dia as pancadas se tornam mais audíveis de lado a lado. As duas equipes se aproximam e chegamos no momento em que a abertura do túnel se torna iminente.
@@ -72,27 +70,26 @@ Nesse irrefreável e surdo processo, que se desenvolve nas profundezas do própr
 
 ---
 
-## 2 — Até Breve, São Paulo
+## 2
 
 
 
 ---
 
-## 3 — Verdade e Amor
+## 3
 
-Efetivamente, todos nos dirigimos para a verdade suprema que é luz viva, mas, até lá, de quantas lições careceremos para nos desvencilharmos da sombra?
-E, a fim de aprendermos o caminho certo para as realidades eternas, só o amor pode tutelar-nos com segurança.
-Todos somos na Terra — os Espíritos encarnados e os desencarnados que ainda nos vinculamos a ela — uma família só, a caminho da imortalidade; entretanto, na longa excursão evolutiva, quantos de nós teremos tido necessidade ou ainda estaremos necessitados de apoio?
-Esse acreditou que o afeto exigia violência para confirmar-se e caiu na criminalidade, mutilando-se ao pretender mutilar.
-Aquele se admitiu suficientemente forte para oprimir os destinos alheios e estirou-se nos excessos do poder, destrambelhando o cérebro e gastando tempo vasto em moléstia e restauração.
-Outro assumiu débito enorme, escravizando-se a situações complexas das quais despenderá laborioso esforço para sair.
-Outro ainda se iludiu com relação a repouso e alegria, sem bases na responsabilidade, e perdeu temporariamente a faculdade de discernir, transviando-se em labirintos de cegueira espiritual.
-Realmente, devem todos esses nossos irmãos ser reajustados e curados, a fim de prosseguirem jornada acima; entretanto, para isso, não bastaria sacudi-los com afirmativas condenatórias, acerca das ruínas e lutas em que se encontram.
+1 Efetivamente, todos nos dirigimos para a verdade suprema que é luz viva, mas, até lá, de quantas lições careceremos para nos desvencilharmos da sombra?
+2 E, a fim de aprendermos o caminho certo para as realidades eternas, só o amor pode tutelar-nos com segurança.
+3 Todos somos na Terra — os Espíritos encarnados e os desencarnados que ainda nos vinculamos a ela — uma família só, a caminho da imortalidade; entretanto, na longa excursão evolutiva, quantos de nós teremos tido necessidade ou ainda estaremos necessitados de apoio?
+4 Esse acreditou que o afeto exigia violência para confirmar-se e caiu na criminalidade, mutilando-se ao pretender mutilar.
+5 Aquele se admitiu suficientemente forte para oprimir os destinos alheios e estirou-se nos excessos do poder, destrambelhando o cérebro e gastando tempo vasto em moléstia e restauração.
+6 Outro assumiu débito enorme, escravizando-se a situações complexas das quais despenderá laborioso esforço para sair.
+7 Outro ainda se iludiu com relação a repouso e alegria, sem bases na responsabilidade, e perdeu temporariamente a faculdade de discernir, transviando-se em labirintos de cegueira espiritual.
+8 Realmente, devem todos esses nossos irmãos ser reajustados e curados, a fim de prosseguirem jornada acima; entretanto, para isso, não bastaria sacudi-los com afirmativas condenatórias, acerca das ruínas e lutas em que se encontram.
 Urge administrar-lhes cuidado, assistência, remédio, compreensão.
-Assemelhamo-nos, de modo geral, no planeta terrestre, até agora, a alunos no educandário ou doentes no sanatório.
+9 Assemelhamo-nos, de modo geral, no planeta terrestre, até agora, a alunos no educandário ou doentes no sanatório.
 Sem que nos entendamos e nos auxiliemos mutuamente, ser-nos-á talvez impossível adquirir reajuste e esclarecimento.
-Com toda a certeza, brilharão mundos na imensidade cósmica, nos quais as criaturas já se transformaram em luz, confundindo-se com o esplendor dos sóis em que se conjugam as realidades excelsas da vida, mas na Terra, por enquanto, e provavelmente por muitos séculos ainda, embora a nossa obrigação de render culto incessante à Verdade, fora do amor o nosso problema de equilíbrio e de reequilíbrio não terá solução.
-n
+10 Com toda a certeza, brilharão mundos na imensidade cósmica, nos quais as criaturas já se transformaram em luz, confundindo-se com o esplendor dos sóis em que se conjugam as realidades excelsas da vida, mas na Terra, por enquanto, e provavelmente por muitos séculos ainda, embora a nossa obrigação de render culto incessante à Verdade, fora do amor o nosso problema de equilíbrio e de reequilíbrio não terá solução.
 A mensagem que Chico Xavier nos oferece nessas reflexões de Emmanuel exige atenção para ser realmente compreendida. Não nos iludamos com a sua aparente simplicidade e clareza. Seu tema central é a busca da verdade à luz do amor. Não basta buscar a verdade. É preciso buscá-la com amor, estabelecendo o equilíbrio entre raciocínio e afetividade. Nossa tendência à análise levou-nos até agora a estabelecer divisões arbitrárias no processo do conhecimento. Exigimos a frieza do raciocínio em oposição ao calor da afetividade. Com isso conseguimos grande evolução científica e técnica. Mas, por outro lado, vimos as mais legítimas aspirações do Humanismo desaparecerem asfixiadas no utilitarismo do século e estamos ameaçados de uma catástrofe moral.
 As realidades eternas podem ser percebidas pela mente, pelo raciocínio, mas só podem ser atingidas e vividas com o auxílio do amor. A pesquisa racional, por si só, é árida e fragmentária. Quisemos escapar aos exageros de misticismo e caímos no extremismo da razão. A luz do amor, que devia fazer da Terra um paraíso, converteu-se na sombra do sensorial, da animalidade, da qual não conseguimos desvencilhar-nos. Lembremo-nos do mito da caverna em Platão. Transformamo-nos em escravos acorrentados na sombra, no fundo escuro da caverna, vivendo de ilusões. Daí os equívocos a que se refere a segunda parte da mensagem, semeando desequilíbrios e conflitos aparentemente insanáveis que exigem medidas de reajuste, reclamam remédio e compreensão.
 A situação dos homens na Terra assemelha-se à dos alunos no educandário, submetidos às exigências didáticas, a provas e exames exaustivos. Mas talvez se assemelhe ainda mais à dos doentes no sanatório, submetidos a tratamentos dolorosos, a choques elétricos ou de medicamentos. Como sairmos dessa situação? Como encontrar a solução dos homens, equacionando todos esses conflitos para uma operação eficiente? A única saída é a do entendimento e do auxílio mútuo. Não adianta a luta em termos de violência, a condenação dos que consideramos errados, a crítica amarga e a argumentação contundente. O reajuste e o esclarecimento só virão quando aprendermos a amar os nossos semelhantes, a encará-los com ternura fraterna e não com ódio e repulsa.
@@ -100,45 +97,40 @@ A teoria da pluralidade dos mundos habitados acena-nos com a promessa dos mundos
 
 ---
 
-## 4 — Ante o campo da vida
+## 4
 
-O semeador saiu a semear.
-
+1 O semeador saiu a semear. ( † )
 A palavra do Cristo é demasiado clara.
-O semeador não aguardou requisições. Saiu da própria comodidade ao encontro da terra. Ainda assim, não estabeleceu condições para doar-lhe as sementes que trazia, entregando-as sem cogitar-lhe das possibilidades e recursos. E amparou não somente o solo fértil e as aves famintas, mas também socorreu terrenos outros que espinheiros e pedras desfiguravam.
-A notícia evangélica não diz que as sementes caídas entre calhaus e sarças fossem destruídas. Explica que foram simplesmente abafadas, o que não lhes invalida a potencialidade para a germinação em momento oportuno.
-Assim igualmente é o amparo espiritual a quantos dele necessitem no mundo.
-Os corações humanos assemelham-se a glebas de plantio.
-Muitos estão habilitados à recepção da verdade, à maneira do solo tratorizado pelas experiências da vida; outros, porém, se nos revelam por vales aprazíveis, mas incultos, inçados de escalracho e pedregulho contundente.
-Todos, no entanto, carecem de auxílio, apoio, entendimento, atenção.
-O ensinamento do Cristo não mostra qualquer traço de impaciência ou de irritação na imagem do semeador que saiu a semear. Ele auxiliou a terra, prestigiando-a com semente válida, sem se deter para censurar-lhe as deficiências. E naturalmente entregou o próprio trabalho à força do tempo, ou melhor, às leis de Deus que nos governam a vida.
-Reflitamos na lição e distribuamos, em benefício do próximo, a esperança e a fé, o conhecimento e a compreensão de que já sejamos detentores e instrumentos. Sem pretensão e sem exigência. Sem desalento e sem pressa. Sem anotar os defeitos alheios e sem reclamar resultados imediatos.
-Imaginemos o tempo que todos gastamos para acolher os escassos raios da verdade que atualmente nos clareiam a estrada, na direção do progresso, para a aquisição de mais luz. E aprendamos que não apenas nós, mas igualmente os outros — todos os outros filhos da Terra — se encontram abençoados e sustentados pelo amor onipresente de Deus.
+2 O semeador não aguardou requisições. Saiu da própria comodidade ao encontro da terra. Ainda assim, não estabeleceu condições para doar-lhe as sementes que trazia, entregando-as sem cogitar-lhe das possibilidades e recursos. E amparou não somente o solo fértil e as aves famintas, mas também socorreu terrenos outros que espinheiros e pedras desfiguravam.
+3 A notícia evangélica não diz que as sementes caídas entre calhaus e sarças fossem destruídas. Explica que foram simplesmente abafadas, o que não lhes invalida a potencialidade para a germinação em momento oportuno.
+4 Assim igualmente é o amparo espiritual a quantos dele necessitem no mundo.
+5 Os corações humanos assemelham-se a glebas de plantio.
+6 Muitos estão habilitados à recepção da verdade, à maneira do solo tratorizado pelas experiências da vida; outros, porém, se nos revelam por vales aprazíveis, mas incultos, inçados de escalracho e pedregulho contundente.
+7 Todos, no entanto, carecem de auxílio, apoio, entendimento, atenção.
+8 O ensinamento do Cristo não mostra qualquer traço de impaciência ou de irritação na imagem do semeador que saiu a semear. Ele auxiliou a terra, prestigiando-a com semente válida, sem se deter para censurar-lhe as deficiências. E naturalmente entregou o próprio trabalho à força do tempo, ou melhor, às leis de Deus que nos governam a vida.
+9 Reflitamos na lição e distribuamos, em benefício do próximo, a esperança e a fé, o conhecimento e a compreensão de que já sejamos detentores e instrumentos. Sem pretensão e sem exigência. Sem desalento e sem pressa. Sem anotar os defeitos alheios e sem reclamar resultados imediatos.
+10 Imaginemos o tempo que todos gastamos para acolher os escassos raios da verdade que atualmente nos clareiam a estrada, na direção do progresso, para a aquisição de mais luz. E aprendamos que não apenas nós, mas igualmente os outros — todos os outros filhos da Terra — se encontram abençoados e sustentados pelo amor onipresente de Deus.
 Do Além nos chega a notícia de que Emmanuel, o guia espiritual do médium Chico Xavier, é o antigo e orgulhoso senador romano Publius Lentulus. Mas que ligação teria ele com o Brasil? A informação acrescenta que o senador, numa de suas encarnações posteriores, esteve em nosso País e desenvolveu importante missão, que toca particularmente o coração dos paulistas : foi o Padre Manuel da Nóbrega. Explica-se, assim, a sua ligação com o movimento atual de espiritualização do nosso povo, o seu interesse missionário pela evangelização do Brasil, agora em termos de esclarecimento racional dos problemas do homem, do espírito e dos objetivos da vida.
 Quem desejar informar-se melhor a respeito deverá ler os livros “Há dois mil anos…” e “Cinquenta anos depois”, ambos do próprio Emmanuel, psicografados por Chico Xavier. Isso no tocante ao senador romano. No que se refere a Nóbrega, a leitura aconselhada é a das obras “Trinta Anos com Chico Xavier” e “Amor e Sabedoria de Emmanuel”, do Prof. Clóvis Tavares, lançadas em São Paulo pela Editora Calvário. Vemos na sucessão dessas obras o encadeamento das reencarnações de um Espírito intelectualmente elevado, mas cujo aprimoramento moral se processa à maneira da lapidação de uma pedra preciosa.
 Para as pessoas que consideram o princípio da reencarnação como simples crença ou superstição, lembraremos a presença em São Paulo, do parapsicólogo indiano Prof. Dr. Hamendras Nat Barnejee, professor da Universidade de Jaipur (Rajastan — Índia), conhecido como “o cientista da reencarnação”. Lembraremos ainda a edição brasileira do livro do Prof. Dr. Ian Stevenson, diretor do Departamento de Neuropsiquiatria da Universidade de Virgínia, Estados Unidos, intitulado “20 Casos Sugestivos de Reencarnação”. Esses dois cientistas se conjugam cem o Prof. Dr. Wladimir Raikov, da Universidade de Moscou, também empenhado nas mesmas pesquisas. Isso mostra que o problema da reencarnação pertence hoje à área científica. É um dos últimos problemas religiosos absorvidos pelas Ciências.
 Compreendemos assim o interesse predominante de Emmanuel pelas questões morais e espirituais. Suas mensagens insistem nesse campo, não por uma preferência pessoal, mas em virtude das próprias experiências vividas pelo espírito que sentiu, na sucessão de suas encarnações, “a força do tempo, ou melhor, das leis de Deus que nos governam a vida”. Estamos acostumados a pensar nas leis de Deus em termos de religião, lembrando-nos do Decálogo ou dos ensinos do Evangelho, mas o Espiritismo sustenta que as leis de Deus são as próprias leis naturais, que tanto governam a sementeira na terra, quanto dirigem a sementeira do espírito no “campo da vida”.
-Vários leitores perguntam-nos se a resposta de Chico Xavier, no “
-Pinga Fogo
-” do Canal 4, sobre a possibilidade de terem sido médiuns os filósofos citados pelo Prof. João de Scantimburgo, é válida.
-Basta lembrar, no caso, a mediunidade conhecida de Sócrates que se confessava amparado pelo seu “daemon” ou Espírito, ao qual sempre consultava. Seu discípulo Platão era médium vidente e oferece-nos, na “República”, o mito espírita da Caverna. Na “Revista Espírita”, de Kardec, há importantes mensagens psicográficas de Platão.
-n
+Vários leitores perguntam-nos se a resposta de Chico Xavier, no “Pinga Fogo” do Canal 4, sobre a possibilidade de terem sido médiuns os filósofos citados pelo Prof. João de Scantimburgo, é válida.
+Basta lembrar, no caso, a mediunidade conhecida de Sócrates que se confessava amparado pelo seu “daemon” ou Espírito, ao qual sempre consultava. Seu discípulo Platão era médium vidente e oferece-nos, na “República”, o mito espírita da Caverna. Na “Revista Espírita”, de Kardec, há importantes mensagens psicográficas de Platão. n
 Modernamente temos o caso de René Descartes e dos seus famosos sonhos, através dos quais recebeu do Espírito da Verdade a orientação filosófica que o tornou o pai do pensamento moderno. Chico Xavier não recebeu mensagens de grandes filósofos porque a sua missão é no plano evangélico, mas basta ler o seu livro “Emmanuel” para se encontrarem respostas filosóficas e científicas a problemas que foram propostos ao médium. Na Itália, através da tiptologia, foi recebido, há alguns anos, todo um livro de Schopenhauer.
 
 ---
 
-## 5 — Casais menos felizes
+## 5
 
-Se encontraste a felicidade no lar tranquilo, no instante de julgar os companheiros em conflito no casamento, guarda-te em silêncio, se não podes louvá-los em algum ângulo da experiência que atravessam.
-Já que conseguiste preservar a essência do amor nos fixadores da amizade e da ternura sem mescla, compadece-te daqueles que, de um momento para outro, se reconheceram defrontados por incompatibilidade e perturbação.
-Efetivamente, anotaste-lhes os erros prováveis e lhes viste as atitudes aparentemente impensadas ou inseguras; no entanto, não lhes enxergastes os obstáculos e lágrimas, ansiedades e angústias, na gênese do drama doméstico em que se lhes arrasam as forças e do qual agora talvez consigas observar somente o fim.
-Quantos de nós carregamos pesados grilhões de culpas adquiridos em existências passadas? Quantos compromissos teremos relegado para trás, reclamando-nos atenção e pagamento?
-Entretanto, quando colocados uns à frente dos outros, nos bastidores caseiros da Terra, por impositivos da reencarnação, comumente fugimos de solucionar os problemas e ressarcir os débitos que nós mesmos criamos.
-Que o dever é dever não padece dúvidas, todavia, em muitas ocasiões não dispomos da força necessária para cumpri-lo.
-E, se no mundo encontramos, por vezes, credores humanos e generosos que nos aguardam com paciência, que dizer do Senhor, cuja justiça se erige em bases de infinita misericórdia?
-Se te observas feliz nos laços conjugais, é razoável que não aplaudas aquilo que te pareça desequilíbrio, embora nem sempre o seja, mas não censures os companheiros que a provação vergasta e o desajuste domina.
-Em lugar disso, ora por eles e abençoa-os, sem recusar-lhes o apoio e a simpatia de que se mostrem necessitados.
-Tanto nós, quanto eles, estamos entregues à Bondade de Deus e, em matéria de ajustamento aos imperativos do amor, nenhum de nós, na Terra, por enquanto, consegue saber com certeza se ainda hoje será para nós o dia de receber auxílio ao invés de auxiliar.
+1 Se encontraste a felicidade no lar tranquilo, no instante de julgar os companheiros em conflito no casamento, guarda-te em silêncio, se não podes louvá-los em algum ângulo da experiência que atravessam.
+2 Já que conseguiste preservar a essência do amor nos fixadores da amizade e da ternura sem mescla, compadece-te daqueles que, de um momento para outro, se reconheceram defrontados por incompatibilidade e perturbação.
+3 Efetivamente, anotaste-lhes os erros prováveis e lhes viste as atitudes aparentemente impensadas ou inseguras; no entanto, não lhes enxergastes os obstáculos e lágrimas, ansiedades e angústias, na gênese do drama doméstico em que se lhes arrasam as forças e do qual agora talvez consigas observar somente o fim.
+4 Quantos de nós carregamos pesados grilhões de culpas adquiridos em existências passadas? Quantos compromissos teremos relegado para trás, reclamando-nos atenção e pagamento?
+5 Entretanto, quando colocados uns à frente dos outros, nos bastidores caseiros da Terra, por impositivos da reencarnação, comumente fugimos de solucionar os problemas e ressarcir os débitos que nós mesmos criamos.
+6 Que o dever é dever não padece dúvidas, todavia, em muitas ocasiões não dispomos da força necessária para cumpri-lo.
+7 E, se no mundo encontramos, por vezes, credores humanos e generosos que nos aguardam com paciência, que dizer do Senhor, cuja justiça se erige em bases de infinita misericórdia?
+8 Se te observas feliz nos laços conjugais, é razoável que não aplaudas aquilo que te pareça desequilíbrio, embora nem sempre o seja, mas não censures os companheiros que a provação vergasta e o desajuste domina.
+9 Em lugar disso, ora por eles e abençoa-os, sem recusar-lhes o apoio e a simpatia de que se mostrem necessitados. 10 Tanto nós, quanto eles, estamos entregues à Bondade de Deus e, em matéria de ajustamento aos imperativos do amor, nenhum de nós, na Terra, por enquanto, consegue saber com certeza se ainda hoje será para nós o dia de receber auxílio ao invés de auxiliar.
 Se não aceitarmos a reencarnação poderemos admitir logicamente a justiça de Deus? Ou preferimos rejeitar o próprio Deus, ignorar-lhe ou negar-lhe a existência? A tese da reencarnação é um desafio para os povos do Ocidente, onde prevalece, através de longa tradição religiosa, a ideia da unicidade da existência. Hoje, porém, cientistas empenhados na solução dos problemas psicológicos, que atormentam cada vez maior número de pessoas, dedicam-se a investigações nesse campo.
 Seria possível obtermos a prova científica da reencarnação, dentro das rígidas exigências metodológicas da Ciência? Ian Stevenson, diretor do Departamento de Neuropsiquiatria da Universidade de Virgínia, nos Estados Unidos que não é espírita nem reencarnacionista — já examinou mais de 500 casos de possíveis reencarnações, chegando a algumas conclusões curiosas. Em seu livro “20 Casos Sugestivos de Reencarnação” aparecem dois casos de reencarnação observados no Brasil.
 Na própria Rússia os cientistas se interessam pelo assunto. O Prof. Wladimir Raikov, da Universidade de Moscou, é um dos expoentes da pesquisa sobre “memória extra-cerebral”. O Prof. Barnejee, que esteve entre nós, é o mais conhecido dos pesquisadores indianos. Essa abertura científica, de âmbito mundial, no campo da reencarnação, revela que o problema já deixou de ser apenas religioso. E a própria existência das pesquisas no plano universitário responde
@@ -146,54 +138,43 @@ Na própria Rússia os cientistas se interessam pelo assunto. O Prof. Wladimir R
 A crise da família, que é apenas uma parte da crise geral do mundo contemporâneo, encontra explicação satisfatória à luz do princípio da reencarnação. Desentendimentos entre casais, rebeldia dos filhos, descontrole de outros elementos familiais podem ter sua origem nas vidas anteriores. Por sinal, foi esse o motivo que levou Ian Stevenson, segundo suas próprias declarações, a iniciar as investigações sobre a reencarnação. Não encontrando explicação possível, nem qualquer teoria aceitável para explicar anomalias estranhas no lar de vários de seus clientes, o conhecido neuropsiquiatra norte-americano resolveu corajosamente aceitar a teoria da reencarnação como hipótese de trabalho. A insistência das mensagens psicográficas no tocante à reencarnação e suas consequências não é, portanto, absurda. A mensagem de Emmanuel, ora considerada, encontra apoio no interesse atual dos cientistas pela reencarnação.
 Chico Xavier escreve-nos contando que no primeiro “Pinga Fogo”, de que participou no Canal 4, Emmanuel esteve sempre ao seu lado:
 “Emmanuel conseguiu controlar-me para, ele mesmo, unido a mim, numa simbiose em que eu estava semiconsciente, responder ou fazer-me responder às perguntas que iam surgindo. Ainda não sei bem como se desenrolou tudo aquilo que, de modo completo, só consegui ver na reprise aqui em Uberaba.”
-“Claramente por mim — ou melhor — conscientemente só estive, eu mesmo, no Pinga Fogo, no instante em que o nosso caro Emmanuel se afastou alguns momentos, para que eu contasse
-o caso do avião
-. E, no fim do programa, quando finda a mensagem do poeta Cyro Costa, ele, Emmanuel, me permitiu entrar em contato com minha mãe desencarnada. Então, por mais que eu reagisse, não pude reprimir as lágrimas.” [Vide:
-Essa emoção, essas Lágrimas…
-] (No ano de 1971 Chico Xavier participou de dois memoráveis “Pinga Fogo” da Televisão Tupi, Canal 4 São Paulo, em julho [v. Pinga Fogo] e dezembro [v. Plantão de respostas])
+“Claramente por mim — ou melhor — conscientemente só estive, eu mesmo, no Pinga Fogo, no instante em que o nosso caro Emmanuel se afastou alguns momentos, para que eu contasse o caso do avião. E, no fim do programa, quando finda a mensagem do poeta Cyro Costa, ele, Emmanuel, me permitiu entrar em contato com minha mãe desencarnada. Então, por mais que eu reagisse, não pude reprimir as lágrimas.” [Vide: Essa emoção, essas Lágrimas…] (No ano de 1971 Chico Xavier participou de dois memoráveis “Pinga Fogo” da Televisão Tupi, Canal 4 São Paulo, em julho [v. Pinga Fogo] e dezembro [v. Plantão de respostas])
 
 ---
 
-## 6 — Delito e reencarnação
+## 6
 
 
 
 ---
 
-## 7 — Agradecer para servir
+## 7
 
-
-Agradece, alma querida e boa,
+1 Agradece, alma querida e boa,
 Ao Doador das Luzes e dos Bens
 Os dotes naturais que te amparam a vida
 E as concessões que tens.
-
-Observa a palavra
+2 Observa a palavra
 Em que a força do verbo se te fez,
 Quando existe no mundo tanta gente
 Em penosa mudez.
-
-Contempla as próprias mãos que podem trabalhar
+3 Contempla as próprias mãos que podem trabalhar
 Em toda atividade nobre e amiga,
 Quando se enxerga, em toda parte,
 Tanta mão que mendiga.
-
-Reflete nos teus olhos,
+4 Reflete nos teus olhos,
 Dos quais a luz é a doce companheira,
 Quando tantos irmãos vemos na Terra
 Suportando a cegueira.
-
-Toca o cérebro claro
+5 Toca o cérebro claro
 Em que o discernimento se te apura
 E lembra a multidão dos companheiros
 Nos desvãos da loucura.
-
-Certamente, alma boa,
+6 Certamente, alma boa,
 Deus, o Dispensador dos Recursos Supremos,
 Não tem culpa do pranto que há na estrada
 Que nós mesmos fazemos.
-
-Saibamos, entretanto, agradecer
+7 Saibamos, entretanto, agradecer
 Os tesouros e dons de que nos faz dispor,
 A fim de que saibamos levantar
 A grandeza da Vida e a redenção do Amor.
@@ -202,29 +183,22 @@ Os homens burilam a forma, aprimoram a expressão, renovam as posições estéti
 Ante a revolta comum do ser existencial, sempre insatisfeito com as condições e limitações do seu viver diário. Maria Dolores levanta o problema da gratidão do ser transcendente ao “Doador das Luzes e dos Bens” que todos recebemos e usufruímos na existência. Há em nós, como explica “O Livro dos Espíritos”, o ser do corpo e o ser da alma. Aquele vive e este último existe. Viver é condicionar-se à forma biológica terrena, existir é transcender, como o demonstram os modernos princípios existenciais. Para ativar a transcendência, Maria Dolores estabelece o confronto das situações de desajuste com as situações normais, apelando ao nosso entendimento e convocando-nos “à grandeza da Vida e à redenção do Amor”.
 Os “tesouros de dons” que possuímos, que nos foram concedidos pelo Doador, e que utilizamos com displicência, senão com desprezo, devem despertar-nos para a compreensão da “grandeza da Vida”. As deficiências que afetam milhões de criaturas (nossos semelhantes) ao nosso redor e no mundo, e das quais fomos preservados, devem acordar em nós os sentimentos de humildade e levar-nos “à redenção do Amor”. Essa redenção não é apenas uma figura poética, uma simples forma de expressão. É a libertação do egoísmo (do amor fechado em nós e por nós, com exclusivismo) que nos redimirá da ingratidão para com o Doador e nos iniciará na transcendência horizontal do amor ao próximo da qual facilmente nos ergueremos à transcendência vertical do amor a Deus. Essa a técnica do “mais viver”, do viver acima da vida comum, que o seu poema nos oferece na forma de uma canção.
 Um verso do soneto de Cyro Costa, recebido por Chico Xavier no “Pinga Fogo” do Canal 4, correu mundo completamente desfigurado. Jornais e revistas de todo o Brasil o reproduziram e continuam a reproduzir de maneira defeituosa. Até mesmo os órgãos oficiais, da Câmara Federal, da Assembleia Estadual e das Câmaras Municipais, em cujas tribunas o soneto foi lido, não escaparam a esse erro.
-O verso é o terceiro do primeiro quarteto do alexandrino intitulado “
-Segundo Milênio
-”. No original psicografado por Chico Xavier ele aparece com a perfeição que caracteriza as produções do poeta : “Guerra e sonhos de paz estadeiam conflito”. Mas a divulgação foi feita de duas maneiras errôneas: 1º) “Guerra e sonhos de paz estardeia conflito”; 2º) “Guerra e sonhos de paz estardeiam em conflito”. Na primeira dessas formas há o erro gráfico de um “r” acrescentado à forma verbal “estadeiam” e o erro de concordância do verbo no singular; na segunda forma há também dois erros: o acréscimo indevido do “r” e o acréscimo do “em”, este resultando na quebra da métrica. Cyro Costa não errou. Ele sabia que não existe o verbo estardear, mas apenas o verbo estadear (sem “r” no meio) e que significa: alardear um estado, ostentar uma posição.
+O verso é o terceiro do primeiro quarteto do alexandrino intitulado “Segundo Milênio”. No original psicografado por Chico Xavier ele aparece com a perfeição que caracteriza as produções do poeta : “Guerra e sonhos de paz estadeiam conflito”. Mas a divulgação foi feita de duas maneiras errôneas: 1º) “Guerra e sonhos de paz estardeia conflito”; 2º) “Guerra e sonhos de paz estardeiam em conflito”. Na primeira dessas formas há o erro gráfico de um “r” acrescentado à forma verbal “estadeiam” e o erro de concordância do verbo no singular; na segunda forma há também dois erros: o acréscimo indevido do “r” e o acréscimo do “em”, este resultando na quebra da métrica. Cyro Costa não errou. Ele sabia que não existe o verbo estardear, mas apenas o verbo estadear (sem “r” no meio) e que significa: alardear um estado, ostentar uma posição.
 
 ---
 
-## 8 — Uniões
+## 8
 
-Ligeira ponderação acerca de sucesso em casamento, ligação, companheirismo e sociedade nos induz a reconhecer que as criaturas, para serem felizes, em se aproximando umas das outras, não buscam apenas o contato de agentes físicos, mas acima de tudo os recursos da alma.
-Quando na Terra, estamos sempre à caça de valores espirituais intangíveis, através de objetos visíveis, como sejam:
-
-paga-se o automóvel, não para nos apossarmos de um monte de peças inteligentemente encadeadas, e sim para desfrutarmos a alegria de ganhar tempo;
-
-adquire-se o livro, não para retermos um tijolo de papel e tinta e sim, para colhermos nele, a informação ou a cultura de que se faça mensageiro;
-
-obtém-se a lâmpada, não para que venhamos a guardá-la por mimo técnico, à feição de relíquia, e sim para que ela nos transmita a luz de que carecemos;
-
-consegue-se um par de óculos, não para nos enfeitarmos com as lentes que o compõem e sim para assegurarmos o necessário auxílio aos olhos, no setor da visão;
-
-compra-se o cobertor, não para adornarmos o leito com os primores da indústria e sim para que tenhamos, por ele, o calor suficiente que nos resguarde contra os golpes do frio.
-Assim também nas uniões afetivas para a consagração dos interesses mútuos de qualquer natureza.
-Procura-se na esposa ou no esposo, no parceiro ou na parceira, no amigo ou no sócio, não a pessoa física em si, mas a criatura que nos forneça compreensão e tranquilidade, estímulo e bênção, a fim de que tenhamos paz na execução das tarefas a que fomos chamados no currículo de lições da existência.
-Compreendamos que para nos prevenirmos contra divórcio e separação, desajuste ou distância, convém doar aos corações que nos compartilham a experiência, em sentido direto, todo o amor de que sejamos capazes, porquanto só o amor garante as uniões serenas e duradouras e somente aqueles que amam — mas só aqueles que amam realmente — encontram em si próprios a energia precisa para se renovarem, acima de quaisquer circunstâncias adversas, e a força necessária para contar com Deus no desempenho do trabalho que a Lei de Deus lhe traçou para a vida.
+1 Ligeira ponderação acerca de sucesso em casamento, ligação, companheirismo e sociedade nos induz a reconhecer que as criaturas, para serem felizes, em se aproximando umas das outras, não buscam apenas o contato de agentes físicos, mas acima de tudo os recursos da alma.
+2 Quando na Terra, estamos sempre à caça de valores espirituais intangíveis, através de objetos visíveis, como sejam:
+3 paga-se o automóvel, não para nos apossarmos de um monte de peças inteligentemente encadeadas, e sim para desfrutarmos a alegria de ganhar tempo;
+4 adquire-se o livro, não para retermos um tijolo de papel e tinta e sim, para colhermos nele, a informação ou a cultura de que se faça mensageiro;
+5 obtém-se a lâmpada, não para que venhamos a guardá-la por mimo técnico, à feição de relíquia, e sim para que ela nos transmita a luz de que carecemos;
+6 consegue-se um par de óculos, não para nos enfeitarmos com as lentes que o compõem e sim para assegurarmos o necessário auxílio aos olhos, no setor da visão;
+7 compra-se o cobertor, não para adornarmos o leito com os primores da indústria e sim para que tenhamos, por ele, o calor suficiente que nos resguarde contra os golpes do frio.
+8 Assim também nas uniões afetivas para a consagração dos interesses mútuos de qualquer natureza.
+9 Procura-se na esposa ou no esposo, no parceiro ou na parceira, no amigo ou no sócio, não a pessoa física em si, mas a criatura que nos forneça compreensão e tranquilidade, estímulo e bênção, a fim de que tenhamos paz na execução das tarefas a que fomos chamados no currículo de lições da existência.
+10 Compreendamos que para nos prevenirmos contra divórcio e separação, desajuste ou distância, convém doar aos corações que nos compartilham a experiência, em sentido direto, todo o amor de que sejamos capazes, porquanto só o amor garante as uniões serenas e duradouras e somente aqueles que amam — mas só aqueles que amam realmente — encontram em si próprios a energia precisa para se renovarem, acima de quaisquer circunstâncias adversas, e a força necessária para contar com Deus no desempenho do trabalho que a Lei de Deus lhe traçou para a vida.
 Os problemas da vida terrena podem ser resumidos numa questão de valores. Quando Emmanuel nos explica, através da psicografia de Chico Xavier, que estamos na Terra “sempre à caça de valores espirituais”, não está apenas jogando com palavras nem simplesmente advertindo-nos quanto a problemas morais. As mensagens de Emmanuel, em geral, colocam-nos em face de questões filosóficas. Em “Uniões” temos uma colocação prática — e por isso mesmo didática — do problema dos valores, que à semelhança do problema do Ser, vem provocando debates e controvérsias desde os gregos até os nossos dias.
 Emmanuel não pergunta pela natureza do valor. Mas nos leva naturalmente a compreender a sua essência, e isso através de exemplos corriqueiros da vida cotidiana. Todas as coisas “valem”, para nós, na medida da sua capacidade de transcendência. Basta isso para nos provar, melhor do que longos discursos, que toda a nossa vida na Terra é um esforço contínuo de transcendência. Esse esforço é inconsciente na maioria das vezes, e só se torna consciente na proporção em que despertamos para a compreensão de nós mesmos, como o Oráculo de Delfos ensinou a Sócrates.
 “Através de objetos visíveis”, levados pelo fascínio exterior das coisas, buscamos os valores intangíveis do espírito. Mas quando o nosso apego à ilusão sensorial ainda nos prende, nos amarra ao tangível, a posse do objeto desejado nos causa conflito. Namoramos a jovem encantadora ou o jovem elegante e inteligente, noivamos e casamos. Depois, no convívio do matrimônio, percebemos que o encanto espiritual se desfaz na rudeza dos atritos sensoriais. Procurávamos no companheiro ou na companheira “não a pessoa física em si”, mas não entendíamos isso, e o que temos na vida comum é aquilo que não procurávamos. As desilusões que então enfrentamos nascem da nossa falta de compreensão dos problemas do espírito.
@@ -234,48 +208,38 @@ No livro de Ian Stevenson, “20 Casos Sugestivos de Reencarnação”, os leito
 
 ---
 
-## 9 — Nos dias difíceis
+## 9
 
-Nos dias difíceis, reflete nos outros dias difíceis que já se foram.
-Depois de atravessados transes e lutas que supunhas insuperáveis, não soubeste explicar a ti mesmo de que modo os venceste e de que fontes hauriste as forças necessárias para te sustentares e refazeres, durante e depois das refregas sofridas.
-Viste a doença no ente amado assumir gravidade estranha e, sem que lograsses penetrar o fenômeno em todos os detalhes,
-a medicação
-a providência ideais que o arrebataram da morte.
-Experimentaste a visitação do desânimo, à frente dos obstáculos que te gravaram a vida, mas, sem que te desses conta do amparo recebido, largaste o desalento das trevas e regressaste à luz da esperança.
-Crises do sentimento que se te afiguravam invencíveis, pelo teor de angústia com que te alcançaram o imo da alma, desapareceram como por encanto sem que conseguisses definir a intervenção libertadora que te restituiu à tranquilidade.
-Sofreste a ausência de seres imensamente queridos, chamados pela desencarnação para tarefas inadiáveis,
-outras faixas de experiência. No entanto, sem que despendesses qualquer esforço, outras almas abençoadas apareceram, passando a nutrir-te o coração com edificante apoio afetivo.
-Tudo isso, entretanto, sucedeu porque persististe na fé aguardando e confiando, trabalhando e servindo, sem te entregares à deserção ou à derrota, ofertando ensejo à Bondade de Deus para agir em teu benefício.
-Nas dificuldades em andamento, considera as dificuldades que já venceste e compreenderás que Deus, cujo infinito amor te sustentou ontem, sustentar-te-á também hoje.
-Para isso, porém, é imperioso permanecermos fiéis ao cumprimento de nossas obrigações, de vez que a paciência, no centro delas, é o dom de esperar por Deus, cooperando com Deus, sem atrapalhar.
+1 Nos dias difíceis, reflete nos outros dias difíceis que já se foram.
+2 Depois de atravessados transes e lutas que supunhas insuperáveis, não soubeste explicar a ti mesmo de que modo os venceste e de que fontes hauriste as forças necessárias para te sustentares e refazeres, durante e depois das refregas sofridas.
+3 Viste a doença no ente amado assumir gravidade estranha e, sem que lograsses penetrar o fenômeno em todos os detalhes, surgiram a medicação e a providência ideais que o arrebataram da morte.
+4 Experimentaste a visitação do desânimo, à frente dos obstáculos que te gravaram a vida, mas, sem que te desses conta do amparo recebido, largaste o desalento das trevas e regressaste à luz da esperança.
+5 Crises do sentimento que se te afiguravam invencíveis, pelo teor de angústia com que te alcançaram o imo da alma, desapareceram como por encanto sem que conseguisses definir a intervenção libertadora que te restituiu à tranquilidade.
+6 Sofreste a ausência de seres imensamente queridos, chamados pela desencarnação para tarefas inadiáveis em outras faixas de experiência; no entanto, sem que despendesses qualquer esforço, outras almas abençoadas apareceram, passando a nutrir-te o coração com edificante apoio afetivo.
+7 Tudo isso, entretanto, sucedeu porque persististe na fé aguardando e confiando, trabalhando e servindo, sem te entregares à deserção ou à derrota, ofertando ensejo à Bondade de Deus para agir em teu benefício.
+8 Nas dificuldades em andamento, considera as dificuldades que já venceste e compreenderás que Deus, cujo infinito amor te sustentou ontem, sustentar-te-á também hoje.
+9 Para isso, porém, é imperioso permanecermos fiéis ao cumprimento de nossas obrigações, de vez que a paciência, no centro delas, é o dom de esperar por Deus, cooperando com Deus, sem atrapalhar.
 Se o náufrago não se desesperar, suportando a violência das ondas para dar ensejo ao barco salvador, poderá ser salvo. Mas, se logo entregar-se ao desespero e cair do bote ou perder o salva-vidas, é claro que será tragado pelas águas. Nas dificuldades da vida quase sempre nos desesperamos e não damos ensejo à, Providência Divina para que nos socorra. Falta-nos o apoio essencial, a força íntima da fé que nos dá serenidade para termos a confiança necessária nos poderes superiores.
-Em outras palavras: nos dias difíceis precisamos dar ensejo a Deus. Claro que é Ele o supremo poder, a inteligência que nos criou e a força que nos sustém. Mas Ele é também liberdade e não só nos deu a liberdade de ser e de agir, como respeita a liberdade concedida para que possamos desenvolvê-la, adquirindo mais força e poder nas bases da responsabilidade. O amor de Deus vela por nós em todas as circunstâncias, mas não é o amor tirano 4ue cria complexos e traumas, e sim o amor libertação que nos deixa o direito de aprender — o que só conseguimos na experiência.
+Em outras palavras: nos dias difíceis precisamos dar ensejo a Deus. Claro que é Ele o supremo poder, a inteligência que nos criou e a força que nos sustém. Mas Ele é também liberdade e não só nos deu a liberdade de ser e de agir, como respeita a liberdade concedida para que possamos desenvolvê-la, adquirindo mais força e poder nas bases da responsabilidade. O amor de Deus vela por nós em todas as circunstâncias, mas não é o amor tirano que cria complexos e traumas, e sim o amor libertação que nos deixa o direito de aprender — o que só conseguimos na experiência.
 O mundo é, para o homem, um campo de experiências livres. O homem, única brecha de liberdade na espessura do mundo, como assinalou Sartre, pode pôr e dispor no campo das suas decisões. Porque ele — o homem — é o momento em que a Criação toma consciência de si mesma, começa a refletir em si a inteligência e o poder criador de Deus. Por isso é preciso que a sua liberdade seja respeitada, e podemos dizer que Deus se respeita a si próprio ao respeitar a liberdade humana. O essencial na experiência do homem é a aquisição da fé, mas a fé só pode ser adquirida a partir da confiança em si mesmo. Essa a razão por que a intervenção de Deus depende de nós mesmos.
 Assim como Kant foi o crítico da Razão, Kardec foi o crítico da Fé. Não fez uma obra filosófica sistemática sobre a fé, mas examinou-a em termos compreensíveis, mostrando que só podemos ter fé naquilo que conhecemos. Existe, ensinou ele, a fé humana e a fé divina. Para termos fé em Deus precisamos saber o que é Ele, conhecê-Lo e n’Ele confiar. Mas para chegar até esse ponto precisamos desenvolver a fé humana em nós mesmos, descobrir a nossa natureza divina, os poderes ocultos que trazemos em nossa aparente fragilidade. E basta lembrar, então, que o simples fato de existirmos é uma prova do poder de Deus, para n’Ele confiar.
-Os familiares do poeta Cyro Costa foram surpreendidos pelo aparecimento de um soneto de sua autoria no encerramento do “Pinga Fogo” do Canal 4. Alguns deles estavam assistindo ao programa e ficaram surpresos ao ver que Chico Xavier, ao encerrá-lo, psicografou o soneto “
-Segundo Milênio
-”, um alexandrino de inegável improviso, porque resumindo o tema central das perguntas feitas ao médium. O estilo inconfundível de Cyro Costa foi a ficha de identidade que emocionou os seus familiares.
+Os familiares do poeta Cyro Costa foram surpreendidos pelo aparecimento de um soneto de sua autoria no encerramento do “Pinga Fogo” do Canal 4. Alguns deles estavam assistindo ao programa e ficaram surpresos ao ver que Chico Xavier, ao encerrá-lo, psicografou o soneto “Segundo Milênio”, um alexandrino de inegável improviso, porque resumindo o tema central das perguntas feitas ao médium. O estilo inconfundível de Cyro Costa foi a ficha de identidade que emocionou os seus familiares.
 Dias depois, duas filhas do poeta fizeram uma visita ao Grupo Espírita Emmanuel, em São Bernardo do Campo, e levaram de presente alguns volumes de “Terra Prometida”, o livro de poemas de Cyro Costa que a Livraria José Olímpio Editora lançou em 1938. Nesse livro figura o famoso soneto “Pai João” que é o mais conhecido, e o soneto “Mãe Preta” de que foram tirados os versos gravados no Monumento à Mãe Preta do Largo do Paissandu, em S. Paulo. Como se vê, o “Pinga Fogo” com Chico Xavier continua a produzir resultados imprevistos.
 
 ---
 
-## 10 — Dinheiro amigo
+## 10
 
-Letras de câmbio! Alterações de câmbio!…
-Em toda parte, vemos o problema da troca na vida monetária por base de sustentação a mercados diversos.
-Tanto quanto possível, no entanto, pensa no câmbio da caridade!…
-Sempre que
-a atenção no dinheiro, reflitamos nas aflições que ele pode suprimir.
-Medita em teu saldo financeiro, ainda que mínimo, transformado no socorro ao enfermo ou na alegria de uma criança.
-Frequentemente, a quantia que julgas modesta e sem qualquer significação, se aplicada
-benefício de outrem, pode ser transubstanciada no reconforto e na bênção de muitos.
-É inegável que inúmeros de nossos irmãos da Humanidade não compreendem ainda a missão benemérita da riqueza material, dissipando-a sem elevação nem grandeza, tanto quanto existem outros muitos que desconhecem o valor do corpo, dilapidando-lhe as energias sem entendimento ou proveito. Gradativamente, porém, as criaturas observarão a importância do dinheiro, à margem das próprias necessidades, por instrumento potencial de trabalho e educação, progresso e beneficência, à espera de nossas resoluções para construir e servir.
-Bendita seja sempre a moeda que remunera o suor do pai de família, que realiza os sonhos respeitáveis da juventude, que se faz socorro aos irmãos desfalecentes na estrada ou que se converte em escora e recuperação dos pequeninos que vagam sem apoio e sem direção!
-Coloca-te no lugar daqueles companheiros nossos do mundo que se oneram de débitos e compromissos de solução urgente, que varam humilhação e penúria, que sofrem
-com abandono ou que se estiram nas trilhas de provação, sem ânimo e sem teto. E reconhecerás que a moeda empregada a serviço do bem pode ser comparada a um raio de luz do Céu que verte de Mais Alto, ao encontro da lágrima na Terra, a fim de transformá-la em bênção de esperança e de amor, na edificação de um mundo mais feliz.
-O que avilta o dinheiro não é a queda do câmbio. É a mesquinhez de espírito. Quando usamos a expressão vil metal, revela.mos não compreender o valor espiritual da moeda. Encontramos no Evangelho muitas passagens em que o dinheiro é considerado no seu valor celeste, mas nenhuma é mais bela do que a
-parábola da dracma perdida
-, em que o Senhor compara a moeda com a alma. Sim, porque as almas são as moedas do Tesouro de Deus. Bastaria isto para nos lembrar que as moedas da Terra — ao contrário do que sempre se afirmou — podem comprar os bens do Céu.
+1 Letras de câmbio! Alterações de câmbio!…
+2 Em toda parte, vemos o problema da troca na vida monetária por base de sustentação a mercados diversos.
+3 Tanto quanto possível, no entanto, pensa no câmbio da caridade!…
+4 Sempre que se nos fixe a atenção no dinheiro, reflitamos nas aflições que ele pode suprimir.
+5 Medita em teu saldo financeiro, ainda que mínimo, transformado no socorro ao enfermo ou na alegria de uma criança.
+6 Frequentemente, a quantia que julgas modesta e sem qualquer significação, se aplicada a benefício de outrem, pode ser transubstanciada no reconforto e na bênção de muitos.
+7 É inegável que inúmeros de nossos irmãos da Humanidade não compreendem ainda a missão benemérita da riqueza material, dissipando-a sem elevação nem grandeza, tanto quanto existem outros muitos que desconhecem o valor do corpo, dilapidando-lhe as energias sem entendimento ou proveito. 8 Gradativamente, porém, as criaturas observarão a importância do dinheiro, à margem das próprias necessidades, por instrumento potencial de trabalho e educação, progresso e beneficência, à espera de nossas resoluções para construir e servir.
+9 Bendita seja sempre a moeda que remunera o suor do pai de família, que realiza os sonhos respeitáveis da juventude, que se faz socorro aos irmãos desfalecentes na estrada ou que se converte em escora e recuperação dos pequeninos que vagam sem apoio e sem direção!
+10 Coloca-te no lugar daqueles companheiros nossos do mundo que se oneram de débitos e compromissos de solução urgente, que varam humilhação e penúria, que sofrem doença com abandono ou que se estiram nas trilhas de provação, sem ânimo e sem teto, e reconhecerás que a moeda empregada a serviço do bem pode ser comparada a um raio de luz do Céu que verte de Mais Alto, ao encontro da lágrima na Terra, a fim de transformá-la em bênção de esperança e de amor, na edificação de um mundo mais feliz.
+O que avilta o dinheiro não é a queda do câmbio. É a mesquinhez de espírito. Quando usamos a expressão vil metal, revela.mos não compreender o valor espiritual da moeda. Encontramos no Evangelho muitas passagens em que o dinheiro é considerado no seu valor celeste, mas nenhuma é mais bela do que a parábola da dracma perdida, em que o Senhor compara a moeda com a alma. Sim, porque as almas são as moedas do Tesouro de Deus. Bastaria isto para nos lembrar que as moedas da Terra — ao contrário do que sempre se afirmou — podem comprar os bens do Céu.
 É verdade que ainda hoje é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus. Mas isso corre por conta do rico e não da riqueza. O dinheiro pode ser cambiado no mundo, mas pode também ser cambiado por moedas celestes. Existe a mesa de câmbio da caridade, da fraternidade, da compreensão humana, onde uma pequena moeda terrena, como no caso evangélico do óbolo da viúva, pode render mais juros no Céu do que todos os juros e correções monetárias da Terra.
 Emmanuel reabilita o dinheiro em nosso precário conceito humano. Chama-nos a atenção para a finalidade maior da moeda que geralmente esquecemos. E estabelece ao mesmo tempo a ligação entre o dinheiro e o corpo, ao mostrar que, por falta de entendimento, tanto dilapidamos as energias de um quanto os valores do outro: A moeda atirada na roleta ou consumida no vício, esbanjada nos desvarios do egoísmo, é semelhante ao corpo desgastado nas loucuras da embriaguez e da sensualidade. Mas a moeda aplicada no serviço das criaturas, na Terra, é semelhante à alma que se entrega ao serviço do amor, socorrendo os que necessitam e estimulando os que trabalham.
 A mesa de câmbio da caridade não se constitui apenas do serviço primário da esmola. O câmbio da caridade é mais generoso nos grandes investimentos do estímulo ao trabalho, ao estudo, à pesquisa, que abrem oportunidades ao progresso geral, beneficiando direta e indiretamente milhões de criaturas. Quando Jesus disse ao moço rico que ele devia desfazer-se dos seus bens, distribuindo-os aos pobres, não pretendeu empobrecê-lo, mas levá-lo a movimentar a sua riqueza em favor do mundo.
@@ -291,75 +255,62 @@ Nem sempre as comunicações sã,o possíveis. E não devemos, de maneira alguma
 
 ---
 
-## 12 — Na senda diária
+## 12
 
-Pensa, pelo menos de quando em quando, nos irmãos que se congelaram em pessimismo e nas grandes tarefas interrompidas, à míngua de amparo, lembrando terras fecundas largadas à esterilidade e ao abandono, por falta de amor.
-Ao redor de ti, enxameiam corações sequiosos de entendimento e colaboração, a esperarem quase que unicamente pelo toque mágico de uma palavra boa, a fim de se inflamarem nos dons do serviço.
-Não admitas a presença do desânimo à tua mesa de fraternidade e harmonia.
-Oferece a quantos te busquem alento e convívio o pão substancioso do entusiasmo que te alimenta as realizações.
-Semeia esperança e coragem no solo do espírito. Recorda a chuva criadora e o orvalho nutriente com que a natureza levanta as energias da Terra e oferece aos outros o melhor de ti mesmo.
-O próximo é a nossa ponte para o mundo. Mostra-te agindo e servindo para a vitória do bem e a tua mensagem será irradiada por todos aqueles que te assinalem o trabalho ou te escutam a voz.
-Em toda parte, sentimo-nos à frente da comunidade, à maneira de quem se vê defrontado pela própria família expectante.
-Fornece simpatia e admiração, bondade e otimismo.
-Beneficência não é tão só o dispensário de solução aos problemas de ordem material; é também, e muito mais, o pronto socorro à penúria de espírito.
-Detém-te a refletir nos companheiros cansados, tristes, desiludidos, desencorajados, [abatidos] ou exaustos que te cruzam a estrada e distribui com eles a paz e a renovação.
-Qual acontece com os outros, tens igualmente a tua obra a realizar e a porta do auxílio abre-se de dentro para fora.
-Se alguém precisa de ti, também precisas de alguém. Dar será sempre o melhor processo de receber.
+1 Pensa, pelo menos de quando em quando, nos irmãos que se congelaram em pessimismo e nas grandes tarefas interrompidas, à míngua de amparo, lembrando terras fecundas largadas à esterilidade e ao abandono, por falta de amor.
+2 Ao redor de ti, enxameiam corações sequiosos de entendimento e colaboração, a esperarem quase que unicamente pelo toque mágico de uma palavra boa, a fim de se inflamarem nos dons do serviço.
+3 Não admitas a presença do desânimo à tua mesa de fraternidade e harmonia.
+4 Oferece a quantos te busquem alento e convívio o pão substancioso do entusiasmo que te alimenta as realizações.
+5 Semeia esperança e coragem no solo do espírito. Recorda a chuva criadora e o orvalho nutriente com que a natureza levanta as energias da Terra e oferece aos outros o melhor de ti mesmo.
+6 O próximo é a nossa ponte para o mundo. Mostra-te agindo e servindo para a vitória do bem e a tua mensagem será irradiada por todos aqueles que te assinalem o trabalho ou te escutam a voz.
+7 Em toda parte, sentimo-nos à frente da comunidade, à maneira de quem se vê defrontado pela própria família expectante.
+8 Fornece simpatia e admiração, bondade e otimismo.
+9 Beneficência não é tão só o dispensário de solução aos problemas de ordem material; é também, e muito mais, o pronto socorro à penúria de espírito.
+10 Detém-te a refletir nos companheiros cansados, tristes, desiludidos, desencorajados, [abatidos] ou exaustos que te cruzam a estrada e distribui com eles a paz e a renovação.
+11 Qual acontece com os outros, tens igualmente a tua obra a realizar e a porta do auxílio abre-se de dentro para fora.
+12 Se alguém precisa de ti, também precisas de alguém. Dar será sempre o melhor processo de receber.
 O homem fechado em si mesmo é um animal egoísta. Não enxerga um palmo além do nariz, como ensina o ditado popular. Só pensa nele mesmo, só cuida dos seus interesses. Não vive como gente, vegeta como um rato no seu buraco. É contra esse perigo de ensimesmamento, essa terrível saturação do egoísmo, que Emmanuel nos adverte em sua mensagem. E, indicando o remédio, nos diz: O próximo é a nossa ponte para o mundo.
-Quando Descartes pôs em dúvida todo o conhecimento do seu tempo, descobriu a ideia de Deus no mais profundo de si mesmo. Essa ideia lhe serviu como ponte para religá-lo ao mundo de que ele se havia isolado. Emmanuel nos mostra que a ponte é o nosso próprio semelhante. E isso concorda com o ensino evangélico de que amar ao próximo é o mesmo que amar a Deus. A ponte para o mundo se constitui, portanto, do mandamento: Amar a Deus sobre todas as coisas e ao próximo como a si mesmo.
-
-Os egoístas consideram tudo isso como simples lorota. Mas a vida social se incumbe, por si mesma, de provar-lhes a realidade desses ensinos. Porque ninguém pode viver sozinho, isolado, fechado na sua casca. Todos precisam de todos. Há duas formas de transcendência, ensina o psicólogo Karl Jaspers:
-. O homem só pode elevar-se, transcender os limites estreitos do seu ego e da sua animalidade, ligando-se aos outros no plano das relações sociais (horizontal) ou elevando-se a Deus através do sentimento religioso (vertical) . Quem se eleva através da
-acaba também se elevando através da vertical e vice-versa.
+Quando Descartes pôs em dúvida todo o conhecimento do seu tempo, descobriu a ideia de Deus no mais profundo de si mesmo. Essa ideia lhe serviu como ponte para religá-lo ao mundo de que ele se havia isolado. Emmanuel nos mostra que a ponte é o nosso próprio semelhante. E isso concorda com o ensino evangélico de que amar ao próximo é o mesmo que amar a Deus. A ponte para o mundo se constitui, portanto, do mandamento: Amar a Deus sobre todas as coisas e ao próximo como a si mesmo. ( † )
+Os egoístas consideram tudo isso como simples lorota. Mas a vida social se incumbe, por si mesma, de provar-lhes a realidade desses ensinos. Porque ninguém pode viver sozinho, isolado, fechado na sua casca. Todos precisam de todos. Há duas formas de transcendência, ensina o psicólogo Karl Jaspers: a transcendência horizontal e a transcendência vertical. O homem só pode elevar-se, transcender os limites estreitos do seu ego e da sua animalidade, ligando-se aos outros no plano das relações sociais (horizontal) ou elevando-se a Deus através do sentimento religioso (vertical). Quem se eleva através da transcendência horizontal acaba também se elevando através da vertical e vice-versa.
 É fácil e cômodo considerar os outros como outros, como estranhos a nós. O comum dos homens procede assim. Mas os homens que superam o comum, que possuem mente mais arejada que o vulgo, sabem que os outros são o nosso próximo e que as dores dos outros são nossas também. Daí o ensino de Emmanuel: Se alguém precisa de ti, também precisas de alguém. A sociabilidade perfeita consiste na compreensão desse princípio.
 
 ---
 
-## 13 — Conflitos domésticos
+## 13
 
-Não nos reportamos ao divórcio para te dizer que essa medida é impraticável.
-Existem problemas tão profundos, nas resoluções de caráter extremamente particular, que só o entendimento entre a criatura e o Criador, através da reflexão e da prece, consegue resolver.
-Todavia, se conflitos caseiros te atormentam a vida, faze o possível por salvar a nave doméstica de soçobro e perturbação.
-Talvez a companheira te haja desconsiderado ou ferido…
-Provável que o companheiro te haja imposto agravo ou desapreço.
-Tudo terá começado num pequeno gesto de intolerância.
-A migalha de amargura imitou a bola de neve, convertendo-se em muralha de fel.
-Antes, porém, que a réstia de sombra se transforme em nevoeiro, compadece-te e procura compreender o outro coração que se te associa no lar.
-Quem sabe se a intransigência, a infidelidade, a irritação ou a secura com que te defrontas serão frutos de tua própria frieza, menosprezo, violência ou ingratidão?
-Pára e pensa.
-Medita na ternura e no apoio que esperas receber em casa, a fim de que te não faltem forças na execução dos próprios deveres, no dia a dia.
-Perceberás que indulgência e bondade criam bondade e indulgência, onde surjam.
-Mudemos a nós mesmos para melhor e aqueles que nos compartilham a estrada não se deterão insensíveis.
-Planta de novo a alegria e o bem, para que obtenhas o bem e a alegria novamente.
-Dá e receberás.
-Ninguém se agrega com alguém, nas tarefas de burilamento e de amor, sem motivos justos.
-E nós que aprendemos a salvar o trigo e a batata, os campos e as fontes, saibamos preservar a nossa união também.
-Nesse sentido, entretanto, não exija dos outros a iniciativa para as realizações da harmonia e da segurança. Dá o primeiro passo e os outros te seguirão.
+1 Não nos reportamos ao divórcio para te dizer que essa medida é impraticável.
+2 Existem problemas tão profundos, nas resoluções de caráter extremamente particular, que só o entendimento entre a criatura e o Criador, através da reflexão e da prece, consegue resolver.
+3 Todavia, se conflitos caseiros te atormentam a vida, faze o possível por salvar a nave doméstica de soçobro e perturbação.
+4 Talvez a companheira te haja desconsiderado ou ferido… 5 Provável que o companheiro te haja imposto agravo ou desapreço. 6 Tudo terá começado num pequeno gesto de intolerância. 7 A migalha de amargura imitou a bola de neve, convertendo-se em muralha de fel. 8 Antes, porém, que a réstia de sombra se transforme em nevoeiro, compadece-te e procura compreender o outro coração que se te associa no lar.
+9 Quem sabe se a intransigência, a infidelidade, a irritação ou a secura com que te defrontas serão frutos de tua própria frieza, menosprezo, violência ou ingratidão?
+10 Pára e pensa.
+11 Medita na ternura e no apoio que esperas receber em casa, a fim de que te não faltem forças na execução dos próprios deveres, no dia a dia. 12 Perceberás que indulgência e bondade criam bondade e indulgência, onde surjam.
+13 Mudemos a nós mesmos para melhor e aqueles que nos compartilham a estrada não se deterão insensíveis.
+14 Planta de novo a alegria e o bem, para que obtenhas o bem e a alegria novamente.
+15 Dá e receberás.
+16 Ninguém se agrega com alguém, nas tarefas de burilamento e de amor, sem motivos justos. 17 E nós que aprendemos a salvar o trigo e a batata, os campos e as fontes, saibamos preservar a nossa união também. 18 Nesse sentido, entretanto, não exija dos outros a iniciativa para as realizações da harmonia e da segurança. Dá o primeiro passo e os outros te seguirão.
 A revista Realidade, de São Paulo, em longa reportagem, considerou anormal o cérebro de Chico Xavier. Na crônica e nas notas abaixo temos as respostas de Irmão Saulo, dadas na ocasião, através do “Diário de S. Paulo”.
 Considerar anormal o cérebro de Chico Xavier é simplesmente ignorar quarenta anos de pesquisas e descobertas nas Ciências Psicológicas. Desde 1930 as investigações parapsicológicas vêm revelando condições desconhecidas do cérebro humano, particularmente no campo das funções até então consideradas como anormais. O velho conceito de anormalidade foi profundamente modificado, assim como o conceito das relações entre o cérebro e a mente. Pesquisas intensivas foram realizadas nas grandes universidades da América, da Europa e da Ásia, resultando na aceitação científica da classificação de paranormal para condições cerebrais, situações mentais e funções antes consideradas como anormais, patológicas ou sobrenaturais.
 A utilização do eletroencefalograma para a verificação das mudanças ocorridas no cérebro durante o transe hipnótico ou mediúnico deu resultados surpreendentes. Serviu para, mostrar que a percepção extra-sensorial, a captação de pensamentos, a manifestação de Espíritos através de médiuns exigem condições cerebrais e corticais que parecem anormais por não se enquadrarem no processo habitual da nossa vida de vigília. Mas a falta de correspondência entre essas modificações cerebrais e o comportamento do sujeito (a falta de sintomatologia patológica) mostraram a diferença entre anormal e paranormal. Charles Richet, bem antes, já havia observado que seria conveniente substituir as expressões normal e anormal por habitual e inabitual.
 Mesmo nos casos evidentemente patológicos verificou-se que o afastamento da causa paranormal (o afastamento do obsessor) era suficiente para restabelecer a normalidade cerebral. Claro, pois, que um eletroencefalograma de médium em transe terá de acusar perturbações diversas, segundo o tipo de manifestação mediúnica em processo. Essa é mesmo uma das provas objetivas da legitimidade da comunicação. Francisco Cândido Xavier não tem um cérebro anormal, não é um doente mental. Pelo contrário, é um homem normal, que não sofre acessos epiléticos, como ele mesmo disse, que vive uma vida regular e produtiva, auxiliando milhares de criaturas a se reajustarem no mundo. (Veja-se, por exemplo, a mensagem “Conflitos Domésticos”.)
 O que ele tem — graças a Deus — é um cérebro paranormal, o cérebro do futuro, porque é o cérebro dos gênios e dos santos.
 A materialização de Espíritos seria impossível, segundo os cálculos feitos pelo Prof. Carlos Chohfi, do Departamento de Física da Universidade Mackenzie. Para materializar uma pessoa de 70 quilos seria necessária a energia produzida em 293 anos pela hidrelétrica de Jupiá. Apesar disso, materializa-se…
-É o caso de Galileu:
-. Os cálculos do Prof. Chohfi foram feitos por causa de materializações ocorridas com Chico Xavier. Acontece, porém, que a materialização de Espíritos, apesar da força da expressão, não é a formação de um organismo humano. É simplesmente a utilização do ectoplasma para dar ao corpo espiritual a aparência humana. Um problema, não de Física habitual, mas daquilo que o Prof. Friedrich Zollner chamou Física Transcendental, e que hoje poderíamos chamar de Parafísica. Segundo a Metapsíquica, esse problema é de ordem fisiológica. As materializações eram chamadas por Kardec de aparições tangíveis. Como se vê, o ilustre físico opinou como físico sem conhecer a natureza extra-física do problema.
+É o caso de Galileu: Eppur si muove. Os cálculos do Prof. Chohfi foram feitos por causa de materializações ocorridas com Chico Xavier. Acontece, porém, que a materialização de Espíritos, apesar da força da expressão, não é a formação de um organismo humano. É simplesmente a utilização do ectoplasma para dar ao corpo espiritual a aparência humana. Um problema, não de Física habitual, mas daquilo que o Prof. Friedrich Zollner chamou Física Transcendental, e que hoje poderíamos chamar de Parafísica. Segundo a Metapsíquica, esse problema é de ordem fisiológica. As materializações eram chamadas por Kardec de aparições tangíveis. Como se vê, o ilustre físico opinou como físico sem conhecer a natureza extra-física do problema.
 O repórter Hamilton Ribeiro pediu aos Espíritos uma receita para pessoa e endereço inexistentes. Chico Xavier psicografou: “Junto dos amigos espirituais que lhe prestam auxílio, buscaremos cooperar espiritualmente em seu favor. Jesus nos abençoe”.
 Hamilton encerra a sua reportagem perguntando: “O que pensar disso?” Mas está evidente: o recado era para ele mesmo. A regra é essa. Chico já a explicou muitas vezes. Se o nome do consulente é falso, os Espíritos respondem para o “solicitante”.
 
 ---
 
-## 14 — Atualidade e nós
+## 14
 
-Contemplarás o mundo, sob o impacto do progresso, observando que no bojo da tempestade surge a presença do trabalho renovador.
-Enquanto a ventania da transformação
-furiosamente sobre a nave terrestre, alterando-lhe os rumos, guardarás lealdade à fé no Supremo Poder que lhe assinala os destinos.
-Muitos viajores — nossos irmãos —, amedrontados diante da tormenta, perguntam por Deus, ao passo que outros se rendem à descrença, tentando aniquilar o tempo na embriaguez dos sentidos, como se o tempo pudesse acabar. Outros se recolhem à tristeza e ao desânimo, desistindo da luta construtiva a que foram chamados. E outros [muitos] ainda derivam para a fuga, acelerando os próprios passos, na direção da morte, qual se a morte não fosse a própria vida em si.
-A nenhum deles reprovarás.
-Cada um de nós vive nas dimensões do entendimento em que se nos caracteriza o modo de ser. E, na altura da visão espiritual a que a luz da verdade já te guindou, podes ser a compreensão de todos e o apoio fraternal para cada um.
-Reconhecerás que a Universidade habilita o raciocínio para as glórias do cérebro, mas tão somente a escola da vida prepara o sentimento para as conquistas do coração.
-Por isso mesmo, honorificarás a Ciência, sem menosprezo à consciência; estimarás a liberdade sem descurar da disciplina; entesourarás conhecimento, cultivando bondade; e situar-te-ás nas frentes da cultura, socorrendo, porém, quanto possível, as retaguardas do sofrimento.
-Serás, enfim, o companheiro fiel do Cristo, a quem aceitamos por Mestre. E, na certeza de que Ele, o Senhor, está conosco hoje tanto quanto esteve ontem e tanto quanto está agora e estará para sempre, marcharemos juntos, a ouvir-Lhe, em qualquer circunstância, o apelo inesquecível: “Amai-vos uns aos outros como eu vos amei”.
-
+1 Contemplarás o mundo, sob o impacto do progresso, observando que no bojo da tempestade surge a presença do trabalho renovador.
+2 Enquanto a ventania da transformação assopra furiosamente sobre a nave terrestre, alterando-lhe os rumos, guardarás lealdade à fé no Supremo Poder que lhe assinala os destinos.
+3 Muitos viajores, — nossos irmãos, — amedrontados diante da tormenta, perguntam por Deus, ao passo que outros se rendem à descrença, tentando aniquilar o tempo na embriaguez dos sentidos, como se o tempo pudesse acabar; 4 outros se recolhem à tristeza e ao desânimo, desistindo da luta construtiva a que foram chamados e outros muitos ainda derivam para a fuga, acelerando os próprios passos, na direção da morte, qual se a morte não fosse a própria vida em si.
+5 A nenhum deles reprovarás.
+6 Cada um de nós vive nas dimensões do entendimento em que se nos caracteriza o modo de ser e, na altura da visão espiritual a que a luz da verdade já te guindou, podes ser a compreensão de todos e o apoio fraternal para cada um.
+7 Reconhecerás que a universidade habilita o raciocínio para as glórias do cérebro, mas tão somente a escola da vida prepara o sentimento para as conquistas do coração.
+8 Por isso mesmo, honorificarás a ciência, sem menosprezo à consciência; 9 estimarás a liberdade sem descurar da disciplina; 10 entesourarás conhecimento, cultivando bondade; 11 e situar-te-ás nas frentes da cultura, socorrendo, porém, quanto possível, as retaguardas do sofrimento.
+12 Serás, enfim, o companheiro fiel do Cristo, a quem aceitamos por Mestre, e, na certeza de que Ele, o Senhor, está conosco hoje tanto quanto esteve ontem e tanto quanto está agora e estará para sempre, marcharemos juntos, a ouvir-lhe, em qualquer circunstância, o apelo inesquecível: “Amai-vos uns aos outros como eu vos amei”. ( † )
 A Pontifícia Universidade Católica de São Paulo conta com numerosos alunos espíritas, protestantes e de outros campos religiosos. Há muito que ela se enquadra na atualidade ecumênica. Mas, no processo em andamento de reforma universitária, os seus esforços vão se dirigindo, ultimamente, para uma abertura mais ampla. Prova disso é o curso sobre “Grupos religiosos e sua posição em face do homem brasileiro”, que a Cadeira de Problemas Filosóficos e Teológicos do Homem Contemporâneo está realizando. Dirige a cátedra o Padre Mauro Batista que conta com a colaboração do Padre Marcos Masetto e outros colegas, todos professores universitários.
 O referido curso é dado ao Ciclo Básico da PUC. Esse ciclo se constitui dos alunos do primeiro ano de todas as seções, em número de três mil. Para falar sobre cada grupo religioso é escolhida, por indicação dos próprios grupos, uma pessoa bem integrada neles, tanto pelo conhecimento como pela vivência. Por indicação da Federação Espírita do Estado de São Paulo, o Prof. Herculano Pires incumbiu-se das seis aulas sobre Espiritismo que foram dadas nos dias 17 e 18 de novembro de 1971 nos períodos da manhã, da tarde e da noite. Cada aula destinava-se a quinhentos alunos e foi seguida de diálogo com o auditório. Duração média de duas horas, sempre acrescida de conversa pessoal do professor com os alunos cujas perguntas não puderam ser respondidas dentro do horário.
 Expondo inicialmente a Doutrina Espírita, o Professor historiou o aparecimento e desenvolvimento do Espiritismo no Brasil, focalizou o conceito espírita do homem, sua historicidade e transcendência, tratando ainda das repercussões da atividade espírita no plano social e cultural do País. Entre as numerosas perguntas que os alunos formularam por escrito, destacaram-se as referentes à mediunidade, à reencarnação e às relações de Espiritismo e Parapsicologia. No tocante à mediunidade foi grande o interesse pelo caso Chico Xavier em seus vários aspectos.
@@ -367,18 +318,14 @@ A mensagem de Emmanuel, que Chico Xavier nos enviou, refere-se à função da Un
 
 ---
 
-## 15 — Pais e filhos em conflito
+## 15
 
-Pais e filhos em conflito. É possível contes com eles na equipe familiar.
-Sofres por vê-los em contradição com as tuas ideias ou enlaçando experiências inquietantes e negativas. Entretanto, é imperioso te ilumines de paz e compreensão, a fim de entendê-los.
-Dá-lhes a palavra emoldurada de paciência e de amor, para que a tua voz se faça ouvida, e abençoa-os ainda mesmo quando te não aceitem o modo de pensar ou de ser.
-Quase sempre, na Terra, os sentimentos que nos agridem, naqueles que se nos associam à existência física, são a colheita das plantações de ordem moral que levamos a efeito nas leiras afetivas do pretérito, a nos pedirem reajuste e renovação.
-E as chamadas complicações edipianas outra cousa não representam senão os laços obscuros que entretecemos, ao enlear almas quer?das no nosso carro sentimental — laços esses que passam a reclamar-nos o preciso desfazimento, para que a mútua libertação nos felicite.
-O filho excessivamente vinculado ao coração materno, com manifesta dificuldade para ser ele próprio, na maioria das ocasiões é aquele mesmo companheiro que a genitora jungiu à própria senda, em épocas recuadas, a suplicar-lhe agora o apoio necessário, a fim de exonerar-se das algemas psicológicas que o prendem à insegurança.
-E a filha imensamente ligada ao espírito paternal, em sérios obstáculos para se lhe desvencilhar da autoridade, habitualmente é a mesma companheira que ele acorrentou ao próprio destino em experiências transatas, a implorar-lhe hoje o auxílio indispensável, a fim de se desembaraçar do egoísmo com que se lhe enviscou à influência, em nome do amor.
-Quantos choques e quantos atritos, até que se estabeleçam as concessões recíprocas, através de vários ajustes cármicos em que uns e outros se vejam emancipados das condições obsessivas em que se interligaram!
-Se trazes contigo esse ou aquele filho em conflito ou se te encontras à frente de pais difíceis, nunca te irrites nem condenes.
-Ama-os quais se mostram e ora por eles, louvando-lhes a presença e respeitando-lhes as decisões, na certeza de que Deus, cuja infinita bondade tem zelado por nós, cuidará também deles. E de que nem eles nem nós fomos criados para o cativeiro afetivo, mas sim para sermos responsáveis e livres, de modo a trabalharmos conscientemente no aprimoramento da vida, ante a sublimação do amor imortal.
+1 Pais e filhos em conflito. É possível contes com eles na equipe familiar. 2 Sofres por vê-los em contradição com as tuas ideias ou enlaçando experiências inquietantes e negativas. Entretanto, é imperioso te ilumines de paz e compreensão, a fim de entendê-los. 3 Dá-lhes a palavra emoldurada de paciência e de amor, para que a tua voz se faça ouvida, e abençoa-os ainda mesmo quando te não aceitem o modo de pensar ou de ser.
+4 Quase sempre, na Terra, os sentimentos que nos agridem, naqueles que se nos associam à existência física, são a colheita das plantações de ordem moral que levamos a efeito nas leiras afetivas do pretérito, a nos pedirem reajuste e renovação. 5 E as chamadas complicações edipianas outra cousa não representam senão os laços obscuros que entretecemos, ao enlear almas quer?das no nosso carro sentimental — laços esses que passam a reclamar-nos o preciso desfazimento, para que a mútua libertação nos felicite.
+6 O filho excessivamente vinculado ao coração materno, com manifesta dificuldade para ser ele próprio, na maioria das ocasiões é aquele mesmo companheiro que a genitora jungiu à própria senda, em épocas recuadas, a suplicar-lhe agora o apoio necessário, a fim de exonerar-se das algemas psicológicas que o prendem à insegurança. 7 E a filha imensamente ligada ao espírito paternal, em sérios obstáculos para se lhe desvencilhar da autoridade, habitualmente é a mesma companheira que ele acorrentou ao próprio destino em experiências transatas, a implorar-lhe hoje o auxílio indispensável, a fim de se desembaraçar do egoísmo com que se lhe enviscou à influência, em nome do amor.
+8 Quantos choques e quantos atritos, até que se estabeleçam as concessões recíprocas, através de vários ajustes cármicos em que uns e outros se vejam emancipados das condições obsessivas em que se interligaram!
+9 Se trazes contigo esse ou aquele filho em conflito ou se te encontras à frente de pais difíceis, nunca te irrites nem condenes.
+10 Ama-os quais se mostram e ora por eles, louvando-lhes a presença e respeitando-lhes as decisões, na certeza de que Deus, cuja infinita bondade tem zelado por nós, cuidará também deles. E de que nem eles nem nós fomos criados para o cativeiro afetivo, mas sim para sermos responsáveis e livres, de modo a trabalharmos conscientemente no aprimoramento da vida, ante a sublimação do amor imortal.
 A descoberta do inconsciente levou Freud e seus discípulos a aprofundarem o problema dos complexos. Entre estes, o que mais se popularizou, por seu caráter dramático, foi o Complexo de Édipo, seguido do Complexo de Electra. Duas formas de conjuntos ídeo-afetivos que caracterizam os conflitos familiais. Muito antes da descoberta de Freud já o Espiritismo acentuava a importância do inconsciente encarando as manifestações anímicas no campo da mediunidade. Em abril de 1857 “O Livro dos Espíritos” colocava o problema do inconsciente e Freud nascera um ano antes. Isso não afeta em nada o valor e a significação dos trabalhos de Freud e seus sucessores. Mas é um dado histórico que coloca o Espiritismo em posição muito cômoda no trato dos problemas psicológicos.
 Na mensagem de Emmanuel temos a colocação do problema dos complexos em termos espíritas. Emmanuel acentua a importância da teoria da reencarnação para uma compreensão melhor e mais humana — sobretudo mais humana — dos chamados “complexos parentais”. Diz ele : “… as chamadas complicações edipianas outra coisa não representam senão os laços obscuros que entretecemos, ao enlear almas queridas no nosso carro sentimental…”. A interpretação de Jung, ligando complexos e arquétipos, justifica esta maneira de ver a questão. A criança já traria consigo o arquétipo da mãe, a ideia da “mãe eterna ou divina” que é apenas despertada pela mãe concreta da atual existência.
 O Espiritismo devolve ao .arquétipo de Jung a sua natureza humana. Não se trata da ideia da “mãe divina” (espécie de reminiscência platônica), mas da mãe real, concreta, de carne e osso, de uma existência anterior.
@@ -387,20 +334,16 @@ Como veem os leitores, as mensagens psicográficas de Chico Xavier não têm ape
 
 ---
 
-## 16 — Filhos doentes
+## 16
 
-Sem dúvida estimarias encontrar em todos os teus filhos criaturas ideais a corporificarem as tuas mais belas esperanças.
-Entretanto, surpreendes aqueles que surgem doentes, muito em particular os enfermos da alma, a te pedirem compreensão e paciência, abnegação e consolo.
-Nunca te inclines a considerá-los transviados ou delinquentes.
-São amigos de existências passadas e que trouxeste ao presente pelos prodígios do amor, a fim de que se renovem.
-Muitos deles se faziam teus associados de luta noutras reencarnações, e em muitas outras reencarnações se perderam em espinheiros de angústia ou se internaram em túneis de sombra, direta ou indiretamente por tua causa.
-Dementados nos pesadelos e nas lágrimas da culpa, fora do Plano físico, suplicavam asilo — o asilo que lhes ofereceste no lar, onde jazem hospitalizados em teu carinho.
-Auxilia-os com o amparo da Ciência do mundo, porque a Ciência do mundo verte originariamente da Providência Divina em favor de todas as criaturas.
-Mas não olvides aplicar em auxílio deles a terapêutica do amor, esquematizada em tolerância e bondade, ternura e compreensão — a única suscetível de sanar o desequilíbrio espiritual, onde o desequilíbrio espiritual apareça.
-É possível que se erijam para teu coração, por algum tempo, na Terra, em graves desafios ao devotamento, seja criando-te incompreensões transitórias ou abatendo-se na tua sensibilidade por fardos de aflição.
-Ainda assim, lembra-te das concessões que os Poderes da Espiritualidade Maior te fizeram, confiando em tua capacidade de abençoá-los e transformá-los para a vitória do Bem.
-Os filhos são sempre professores de elevação e espiritualidade que a vida te concede, para que te clareiem os domínios da alma.
-No entanto, os filhos doentes são mensageiros de amor que Deus te envia, para que o amor se desentranhe de qualquer forma do egoísmo enquistante e se inflame de luz, na luz da sublimação.
+1 Sem dúvida estimarias encontrar em todos os teus filhos criaturas ideais a corporificarem as tuas mais belas esperanças.
+2 Entretanto, surpreendes aqueles que surgem doentes, muito em particular os enfermos da alma, a te pedirem compreensão e paciência, abnegação e consolo.
+3 Nunca te inclines a considerá-los transviados ou delinquentes.
+4 São amigos de existências passadas e que trouxeste ao presente pelos prodígios do amor, a fim de que se renovem. 5 Muitos deles se faziam teus associados de luta noutras reencarnações, e em muitas outras reencarnações se perderam em espinheiros de angústia ou se internaram em túneis de sombra, direta ou indiretamente por tua causa.
+6 Dementados nos pesadelos e nas lágrimas da culpa, fora do Plano físico, suplicavam asilo — o asilo que lhes ofereceste no lar, onde jazem hospitalizados em teu carinho.
+7 Auxilia-os com o amparo da Ciência do mundo, porque a Ciência do mundo verte originariamente da Providência Divina em favor de todas as criaturas. 8 Mas não olvides aplicar em auxílio deles a terapêutica do amor, esquematizada em tolerância e bondade, ternura e compreensão — a única suscetível de sanar o desequilíbrio espiritual, onde o desequilíbrio espiritual apareça.
+9 É possível que se erijam para teu coração, por algum tempo, na Terra, em graves desafios ao devotamento, seja criando-te incompreensões transitórias ou abatendo-se na tua sensibilidade por fardos de aflição. 10 Ainda assim, lembra-te das concessões que os Poderes da Espiritualidade Maior te fizeram, confiando em tua capacidade de abençoá-los e transformá-los para a vitória do Bem.
+11 Os filhos são sempre professores de elevação e espiritualidade que a vida te concede, para que te clareiem os domínios da alma. 12 No entanto, os filhos doentes são mensageiros de amor que Deus te envia, para que o amor se desentranhe de qualquer forma do egoísmo enquistante e se inflame de luz, na luz da sublimação.
 Todos nós carregamos as marcas do carma. A palavra carma não pertence ao Espiritismo, mas o seu uso se generalizou entre nós. Trata-se de um termo budista, de origem sânscrita. O seu uso é bastante prático, reduzindo a apenas cinco letras expressões como estas: consequências de vida anterior ou reações de atos praticados em vidas passadas. Esse o motivo principal de sua vulgarização no meio espírita. As marcas do carma podem ser elementos valiosos de identificação, nos casos de pesquisas científicas sobre a reencarnação.
 Na mensagem de Emmanuel em questão, o problema central é o carma, mas a lição fundamental é o amor. Tratando dos filhos doentes, Emmanuel adverte: “Nunca te inclines a considerá-los transviados ou delinquentes”. Isso porque, em geral, consideramos as marcas do carma como castigos divinos. O Espiritismo nos revela que não se trata disso, mas de consequências naturais do processo evolutivo do espírito.
 O filho retardado ou possuidor de um defeito físico não está sendo punido por Deus, mas pela sua própria consciência. O mau ato que praticou provoca-lhe um desequilíbrio energético na estrutura psíquica, e esse desequilíbrio reflete-se no organismo físico. São acidentes da evolução, semelhantes aos acidentes do trabalho em nossas atividades terrenas.
@@ -412,16 +355,15 @@ Os fenômenos de escrita direta e as gravações do “inaudível”, feitas aos
 
 ---
 
-## 17 — Provas e bênçãos
+## 17
 
-Esforçando-te por superar dificuldades e contratempos, nas áreas da reencarnação, recorda o patrimônio das bênçãos de que dispões, a fim de que os dissabores e empeços educativos da existência não te sufoquem as possibilidades de trabalhar e de auxiliar.
-Atravessas incompreensões e tribulações em família, entretanto possuis saúde relativa e recursos ainda que mínimos para vencê-las construtivamente até que se extingam de todo.
-Sofres com os entraves do parente difícil, todavia guardas contigo a luz da compreensão de modo a ajudá-lo a solver os conflitos e inibições de que se sente objeto.
-Trabalhas afanosamente na proteção econômica indispensável a vários entes queridos, mas não te escasseiam energias e oportunidades de serviço, a fim de ampará-los até que te possam dispensar o concurso mais intenso.
-Respondes por determinadas tarefas de socorro material e espiritual, a benefício de muitos, e em muitas circunstâncias sentes a presença da exaustão; no entanto, aparecem providencialmente criaturas e acontecimentos que te refazem as forças para que a obra continue.
-Assumiste pesadas obrigações que te compelem a enormes prejuízos a favor de outrem, e, por vezes, te supões na total impossibilidade de satisfazer aos compromissos próprios; contudo, novo alento te visita o espírito e pouco a pouco atinges a liquidação de todos os débitos que te oneram a responsabilidade.
-Em todas as provas que te assaltem os dias, considera a quota das bênçãos que te rodeiam, e, escorando-te na fé e na paciência, reconhecerás que a Divina Providência está agindo contigo e por teu intermédio, sustentando-te, em meio dos problemas que te marcam a estrada, para doar-lhes a solução.
-n
+1 Esforçando-te por superar dificuldades e contratempos, nas áreas da reencarnação, recorda o patrimônio das bênçãos de que dispões, a fim de que os dissabores e empeços educativos da existência não te sufoquem as possibilidades de trabalhar e de auxiliar.
+2 Atravessas incompreensões e tribulações em família, entretanto possuis saúde relativa e recursos ainda que mínimos para vencê-las construtivamente até que se extingam de todo.
+3 Sofres com os entraves do parente difícil, todavia guardas contigo a luz da compreensão de modo a ajudá-lo a solver os conflitos e inibições de que se sente objeto.
+4 Trabalhas afanosamente na proteção econômica indispensável a vários entes queridos, mas não te escasseiam energias e oportunidades de serviço, a fim de ampará-los até que te possam dispensar o concurso mais intenso.
+5 Respondes por determinadas tarefas de socorro material e espiritual, a benefício de muitos, e em muitas circunstâncias sentes a presença da exaustão; no entanto, aparecem providencialmente criaturas e acontecimentos que te refazem as forças para que a obra continue.
+6 Assumiste pesadas obrigações que te compelem a enormes prejuízos a favor de outrem, e, por vezes, te supões na total impossibilidade de satisfazer aos compromissos próprios; contudo, novo alento te visita o espírito e pouco a pouco atinges a liquidação de todos os débitos que te oneram a responsabilidade.
+7 Em todas as provas que te assaltem os dias, considera a quota das bênçãos que te rodeiam, e, escorando-te na fé e na paciência, reconhecerás que a Divina Providência está agindo contigo e por teu intermédio, sustentando-te, em meio dos problemas que te marcam a estrada, para doar-lhes a solução.
 A reencarnação é uma espécie de empreendimento a que o espírito se abalança no mundo. Ao deixar o plano espiritual para voltar à Terra, ele já tem em mente o seu programa. Sua permanência fora do corpo permitiu-lhe fazer o balanço completo de seus misteres e possibilidades. Apurou o deve e o haver na contabilidade da vida e planejou o seu reequilíbrio financeiro. Vem para a Terra com certos recursos para os investimentos necessários. Dispõe das moedas da compreensão, da esperança, da resignação, do discernimento, da coragem, da fé e da paciência. São os recursos da experiência anterior amealhados no Banco da Consciência.
 Mas nem sempre, na voragem das transações humanas, os recursos próprios são suficientes. Há momentos em que parece impossível cambiar as moedas espirituais pelas moedas terrenas. Os desajustes e as incompreensões no lar, os desacertos na profissão, a incompreensão dos amigos e a ganância dos companheiros, a ambição e a frieza dos corações, superam de muito a resistência do espírito. É então que ele precisa recorrer ao Banco da Consciência, escudado na fé e na paciência, para obter financiamento espiritual.
 Emmanuel coloca esse problema na mensagem em estudo, advertindo-nos de que tudo depende de nós mesmos. Nossos próprios recursos, embora mínimos, respondem pelo crédito de que necessitamos. Basta recorrer aos depósitos de fé e paciência que trazemos em nós, para que tudo se solucione. Não há necessidade de endossantes terrenos. A economia divina funciona acionada pelos mecanismos internos do espírito. Por isso mesmo, não há o perigo da recusa por parte de banqueiros da Terra. E, assim sendo, não pode haver desespero por parte do Espírito necessitado.
@@ -429,169 +371,134 @@ A fé e a paciência são as grandes molas que nos sustentam e nos impulsionam n
 
 ---
 
-## 18 — Trabalho e evolução
+## 18
 
-Sempre que tentados a desertar de servir, alegando falhas e imperfeições, convém observar as lições lógicas da Natureza que encontra no trabalho o seu próprio caminho de evolução e aprimoramento.
-
-Se a semente desistisse de germinar, à face do claustro de barro que a constrange, não forneceria o fruto que alimenta o homem e, tanto melhor produz, mais atenção recebe do pomicultor.
-
-Se a roseira deliberasse reter as próprias flores em virtude dos espinhos que se lhe encravaram no corpo, não daria as rosas que embelezam a vida e, tanto melhor produz, mais amplo cuidado recebe do jardineiro.
-
-Se a fonte recusasse beneficiar o solo, porque seja obrigada a transitar sobre o leito de pedra e lama…
-
-Se o metal resolvesse frustrar a sua própria utilidade para não suportar o cadinho fervente…
-
-Se o animal teimasse indefinidamente em recusar a própria domesticação, alegando a extrema agressividade em que ainda se vê…
-E assim por diante, todos nós os espíritos encarnados e desencarnados, em desenvolvimento na Terra, nos achamos, por agora, muito longe da condição de angelitude, enquanto que os elementos outros da natureza se encontram ainda infinitamente distantes da condição humana.
-Sem dúvida, por dispormos da razão, temos o dever de melhorar-nos constantemente, mas não nos será lícito alegar defeitos e insipiência para fugir à colaboração no levantamento do bem de todos, de vez que é justamente pelo proveito de nossa vida que somos observados ou valorizados na Vida Superior.
-Amemos, assim, em nosso próprio trabalho, o dissolvente de toda sombra que ainda se nos agregue aos domínios da alma.
-E estejamos convencidos de que, em todos os distritos do Universo, a perfeição é a finalidade para todas as criaturas e para todas as coisas. Entretanto, para a necessária consecução disso, o trabalho é o processo imprescindível.
-O trabalho é o propulsor da evolução. Tudo trabalha, diz Emmanuel. Em “
-O Livro dos Espíritos
-” encontramos a lei do trabalho que mereceu um capítulo especial, e a tese é a mesma dessa sua mensagem. Em correlação com a Doutrina Espírita podemos encontrar várias teorias filosóficas. Lembremo-nos de Bergson e a teoria do elã vital. A vida infiltrando-se na matéria, dominando-a e criando as coisas e os seres. Mas lembremo-nos, também, de Dewey e a sua teoria da experiência universal. Tudo é experiência, pois há um princípio vital em todas as coisas da Natureza. A própria dialética de Hegel e sua derivação materialista correspondem à teoria espírita do trabalho universal.
-Quando Emmanuel estabelece relações entre a semente, a roseira, a fonte, o metal e o animal, não está fazendo apenas comparações ou figuras, mas ilustrando com os exemplos naturais o princípio espírita da evolução. Na
-pergunta 540
-de “O Livro dos Espíritos” encontramos, na resposta dada pelos Espíritos, esta afirmação eloquente: “Tudo se encadeia na Natureza, desde o átomo até o arcanjo, que também já foi átomo”. E Léon Denis ensinou: “A alma dorme na pedra, sonha no vegetal, agita-se no animal e acorda no homem”.
+1 Sempre que tentados a desertar de servir, alegando falhas e imperfeições, convém observar as lições lógicas da Natureza que encontra no trabalho o seu próprio caminho de evolução e aprimoramento.
+2 Se a semente desistisse de germinar, à face do claustro de barro que a constrange, não forneceria o fruto que alimenta o homem e, tanto melhor produz, mais atenção recebe do pomicultor.
+3 Se a roseira deliberasse reter as próprias flores em virtude dos espinhos que se lhe encravaram no corpo, não daria as rosas que embelezam a vida e, tanto melhor produz, mais amplo cuidado recebe do jardineiro.
+4 Se a fonte recusasse beneficiar o solo, porque seja obrigada a transitar sobre o leito de pedra e lama…
+5 Se o metal resolvesse frustrar a sua própria utilidade para não suportar o cadinho fervente…
+6 Se o animal teimasse indefinidamente em recusar a própria domesticação, alegando a extrema agressividade em que ainda se vê…
+7 E assim por diante, todos nós os espíritos encarnados e desencarnados, em desenvolvimento na Terra, nos achamos, por agora, muito longe da condição de angelitude, enquanto que os elementos outros da natureza se encontram ainda infinitamente distantes da condição humana.
+8 Sem dúvida, por dispormos da razão, temos o dever de melhorar-nos constantemente, mas não nos será lícito alegar defeitos e insipiência para fugir à colaboração no levantamento do bem de todos, de vez que é justamente pelo proveito de nossa vida que somos observados ou valorizados na Vida Superior.
+9 Amemos, assim, em nosso próprio trabalho, o dissolvente de toda sombra que ainda se nos agregue aos domínios da alma. 10 E estejamos convencidos de que, em todos os distritos do Universo, a perfeição é a finalidade para todas as criaturas e para todas as coisas. Entretanto, para a necessária consecução disso, o trabalho é o processo imprescindível.
+O trabalho é o propulsor da evolução. Tudo trabalha, diz Emmanuel. Em “O Livro dos Espíritos” encontramos a lei do trabalho que mereceu um capítulo especial, e a tese é a mesma dessa sua mensagem. Em correlação com a Doutrina Espírita podemos encontrar várias teorias filosóficas. Lembremo-nos de Bergson e a teoria do elã vital. A vida infiltrando-se na matéria, dominando-a e criando as coisas e os seres. Mas lembremo-nos, também, de Dewey e a sua teoria da experiência universal. Tudo é experiência, pois há um princípio vital em todas as coisas da Natureza. A própria dialética de Hegel e sua derivação materialista correspondem à teoria espírita do trabalho universal.
+Quando Emmanuel estabelece relações entre a semente, a roseira, a fonte, o metal e o animal, não está fazendo apenas comparações ou figuras, mas ilustrando com os exemplos naturais o princípio espírita da evolução. Na pergunta 540 de “O Livro dos Espíritos” encontramos, na resposta dada pelos Espíritos, esta afirmação eloquente: “Tudo se encadeia na Natureza, desde o átomo até o arcanjo, que também já foi átomo”. E Léon Denis ensinou: “A alma dorme na pedra, sonha no vegetal, agita-se no animal e acorda no homem”.
 Alguns espíritas não aceitam o conceito de evolução em toda a sua amplitude e procuram por várias formas modificá-lo. Emmanuel nos traz, porém, constantemente, através de suas mensagens, oportunos esclarecimentos a respeito. Somos ainda muito pequeninos para abarcar em nossa visão mental toda a concepção espírita do Universo.
 Note-se o tópico da mensagem em questão no qual ele nos coloca em ascensão da condição humana para a angelitude, mas não se esquece de advertir que “os outros elementos da Natureza se encontram, ainda, infinitamente distantes da condição humana”. E é precisamente por causa dessa relação constante das coisas e dos seres que podemos comparar a luta do homem para a transcendência com a luta da semente para germinar.
 É tão legítima essa comparação, e ao mesmo tempo tão elucidativa, que o próprio Cristo a usou na pregação da Boa-nova, como vemos na Parábola do Semeador. Somos sementes espirituais, sem dúvida. E como as sementes materiais, temos de trabalhar no seio da matéria para que o plano divino, encerrado em nós, se atualize na germinação e desenvolvimento do nosso Espírito.
 
 ---
 
-## 19 — Desencarnações coletivas
+## 19
 
 > Sendo Deus a Bondade Infinita, por que permite a morte aflitiva de tantas pessoas enclausuradas e indefesas, como nos casos dos grandes incêndios? [
 > — v, Tragédia no circo
 
-Realmente reconhecemos em Deus o Perfeito Amor aliado à Justiça Perfeita. E o Homem, filho de Deus, crescendo em amor, traz consigo a Justiça imanente, convertendo-se, em razão disso, em qualquer situação, no mais severo julgador de si próprio.
-Quando retornamos da Terra para o Mundo Espiritual, conscientizados nas responsabilidades próprias, operamos o levantamento dos nossos débitos passados e rogamos os meios precisos a fim de resgatá-los devidamente.
-É assim que, muitas vezes, renascemos no Planeta em grupos compromissados para a redenção múltipla.
-Invasores ilaqueados pela própria ambição, que esmagávamos coletividades na volúpia do saque, tornamos à Terra com encargos diferentes, mas em regime de encontro marcado para a desencarnação conjunta em acidentes públicos.
-Exploradores da comunidade, quando lhe exauríamos as forças em proveito pessoal, pedimos a volta ao corpo denso para facearmos unidos o ápice de epidemias arrasadoras.
-Promotores de guerras manejadas para assalto e crueldade pela megalomania do ouro e do poder, em nos fortalecendo para a regeneração, pleiteamos o Plano Físico a fim de sofrermos a morte de partilha, aparentemente imerecida, em acontecimentos de sangue e lágrimas.
-Corsários que ateávamos fogo a embarcações e cidades na conquista de presas fáceis, em nos observando no Além com os problemas da culpa, solicitamos o retorno à Terra para a desencarnação coletiva em dolorosos incêndios, inexplicáveis sem a reencarnação.
-Criamos a culpa e nós mesmos engenhamos os processos destinados a extinguir-lhe as consequências.
-E a Sabedoria Divina se vale dos nossos esforços e tarefas de resgate e reajuste a fim de induzir-nos a estudos e progressos sempre mais amplos no que diga respeito à nossa própria segurança.
-É por este motivo que, de todas as calamidades terrestres, o Homem se retira com mais experiência e mais luz no cérebro e no coração, para defender-se e valorizar a vida.
-Lamentemos sem desespero quantos se fizeram vítimas de desastres que nos confrangem a alma. A dor de todos eles é a nossa dor. Os problemas com que se defrontaram são igualmente nossos.
-Não nos esqueçamos, porém, de que nunca estamos sem a presença de Misericórdia Divina junto às ocorrências da Divina Justiça, que o sofrimento é invariavelmente reduzido ao mínimo para cada um de nós, que tudo se renova para o bem de todos e que Deus nos concede sempre o melhor.
-A resposta de Emmanuel vem do plano espiritual e acentua o aspecto terreno da autopunição dos encarnados, em virtude de um fator psicológico: o das leis da consciência. Obedecendo a essas leis, as vítimas .de mortes coletivas aparecem como
-. São almas que se punem a si próprias em virtude de haverem
-. Se no passado erraram, agora surgem como heroínas do amor no sacrifício reparador.
+1 Realmente reconhecemos em Deus o Perfeito Amor aliado à Justiça Perfeita. E o Homem, filho de Deus, crescendo em amor, traz consigo a Justiça imanente, convertendo-se, em razão disso, em qualquer situação, no mais severo julgador de si próprio.
+2 Quando retornamos da Terra para o Mundo Espiritual, conscientizados nas responsabilidades próprias, operamos o levantamento dos nossos débitos passados e rogamos os meios precisos a fim de resgatá-los devidamente.
+3 É assim que, muitas vezes, renascemos no Planeta em grupos compromissados para a redenção múltipla.
+4 Invasores ilaqueados pela própria ambição, que esmagávamos coletividades na volúpia do saque, tornamos à Terra com encargos diferentes, mas em regime de encontro marcado para a desencarnação conjunta em acidentes públicos.
+5 Exploradores da comunidade, quando lhe exauríamos as forças em proveito pessoal, pedimos a volta ao corpo denso para facearmos unidos o ápice de epidemias arrasadoras.
+6 Promotores de guerras manejadas para assalto e crueldade pela megalomania do ouro e do poder, em nos fortalecendo para a regeneração, pleiteamos o Plano Físico a fim de sofrermos a morte de partilha, aparentemente imerecida, em acontecimentos de sangue e lágrimas.
+7 Corsários que ateávamos fogo a embarcações e cidades na conquista de presas fáceis, em nos observando no Além com os problemas da culpa, solicitamos o retorno à Terra para a desencarnação coletiva em dolorosos incêndios, inexplicáveis sem a reencarnação.
+8 Criamos a culpa e nós mesmos engenhamos os processos destinados a extinguir-lhe as consequências. 9 E a Sabedoria Divina se vale dos nossos esforços e tarefas de resgate e reajuste a fim de induzir-nos a estudos e progressos sempre mais amplos no que diga respeito à nossa própria segurança. 10 É por este motivo que, de todas as calamidades terrestres, o Homem se retira com mais experiência e mais luz no cérebro e no coração, para defender-se e valorizar a vida.
+11 Lamentemos sem desespero quantos se fizeram vítimas de desastres que nos confrangem a alma. A dor de todos eles é a nossa dor. Os problemas com que se defrontaram são igualmente nossos.
+12 Não nos esqueçamos, porém, de que nunca estamos sem a presença de Misericórdia Divina junto às ocorrências da Divina Justiça, que o sofrimento é invariavelmente reduzido ao mínimo para cada um de nós, que tudo se renova para o bem de todos e que Deus nos concede sempre o melhor.
+A resposta de Emmanuel vem do plano espiritual e acentua o aspecto terreno da autopunição dos encarnados, em virtude de um fator psicológico: o das leis da consciência. Obedecendo a essas leis, as vítimas .de mortes coletivas aparecem como as mais severas julgadoras de si mesmas. São almas que se punem a si próprias em virtude de haverem crescido em amor e trazerem consigo a justiça imanente. Se no passado erraram, agora surgem como heroínas do amor no sacrifício reparador.
 As leis da Justiça Divina estão escritas na consciência humana. Caim matou Abel por inveja e a sua própria consciência o acusou do crime. Ele não teve a coragem heroica de pedir a reparação equivalente, mas Deus o marcou e puniu. Faltava-lhe crescer em amor para punir-se a si mesmo. O símbolo bíblico nos revela a mecânica da autopunição cumprindo-se compulsoriamente. Mas, nas almas evoluídas, a compulsão é substituída pela compaixão.
-O suicídio de Judas é o exemplo da autopunição determinada por uma consciência evoluída. O que ocorreu com Judas em vida, ocorre com as almas desencarnadas que enfrentam os erros do passado na vida espiritual. Para encontrar o alívio da consciência elas sentem a necessidade (determinada pela compaixão) de passar pelo sacrifício que impuseram aos outros. Mas o que é esse sacrifício passageiro, diante da eternidade do Espírito? A misericórdia divina se manifesta na reabilitação da alma após o sacrifício para que possa atingir a felicidade suprema na qualidade de herdeira de Deus e co-herdeira de Cristo, segundo a expressão do apóstolo Paulo.
-
+O suicídio de Judas é o exemplo da autopunição determinada por uma consciência evoluída. O que ocorreu com Judas em vida, ocorre com as almas desencarnadas que enfrentam os erros do passado na vida espiritual. Para encontrar o alívio da consciência elas sentem a necessidade (determinada pela compaixão) de passar pelo sacrifício que impuseram aos outros. Mas o que é esse sacrifício passageiro, diante da eternidade do Espírito? A misericórdia divina se manifesta na reabilitação da alma após o sacrifício para que possa atingir a felicidade suprema na qualidade de herdeira de Deus e co-herdeira de Cristo, segundo a expressão do apóstolo Paulo. ( † )
 Encarando a vida sem a compreensão das leis da consciência e do processo da reencarnação não poderemos explicar a Justiça de Deus — principalmente nos casos brutais de mortes coletivas Os que assim perecem estão sofrendo a autopunição de que suas próprias consciências sentiram necessidade na vida espiritual. A diferença entre essas casos e o de Judas é que essas vítimas não são suicidas, mas criaturas submetidas à lei de ação e reação.
 Judas apressou o efeito da lei ao invés de enfrentar o remorso na vida terrena. Tornou-se um suicida e aumentou assim a sua própria culpa, rebelando-se contra a Justiça Divina e tentando escapar a ela.
 Para a boa compreensão desse problema precisamos de uma visão clara do processo evolutivo do homem. Como selvagem ele ainda se sujeita mais aos instintos do que à consciência. Por isso não é inteiramente responsável pelos seus atos. Como civilizado ele se investe do livre arbítrio que o torna responsável. Mas o amor ainda não o ilumina com a devida intensidade. As civilizações antigas (como o demonstra a própria Bíblia) são cenários de apavorantes crimes coletivos, porque o homem amava mais a si mesmo do que aos semelhantes e a Deus. Nas civilizações modernas, tocadas pela luz do Cristianismo, os processos de autopunição se intensificam.
 
 ---
 
-## 20 — Brasil
+## 20
 
 O poema de Castro Alves que encerrou o “Pinga Fogo” do Canal 4, na noite de 20 de dezembro de 1971, com o médium Francisco Cândido Xavier, oferece todos os elementos de identificação do poeta.
 Composto em estrofes de dez versos setissílabos, tem a forma poética de “O Livro e a América” e o mesmo estilo épico, a mesma garra condoreira, o mesmo ímpeto místico-telúrico daquele poema. O que mais devia impressionar aos que desejarem analisá-lo é a conotação de contemporaneidade entre eles. Em “O Livro e a América” o poeta coloca o Novo Mundo em face do Velho Mundo como um prolongamento deste, mas também como um passo evolutivo no desenvolvimento do Planeta. Na segunda estrofe faz os Andes — como braços levantados — apontarem para a amplidão. No poema “Brasil”, faz o Cristo apontar ao mundo, em desespero, a vastidão brasileira.
 O tema é quase o mesmo. Num, a América é a esperança de paz e cultura que surge diante do materialismo guerreiro da Europa. Noutro, é o Brasil que rasga uma perspectiva espiritual para os insanáveis conflitos de sangue e fogo em que se perdem as velhas nações da Terra.
 As metáforas condoreiras se assemelham e se equivalem, apenas atenuadas no poema de agora pela ternura evangélica. Há felizes conotações de imagens, como a que se nota, por exemplo, entre as figuras de Briaréu, no primeiro poema, e a de Sansão no segundo. É ainda mais expressiva a conotação entre os braços dos Andes apontando a amplidão e montanhas altaneiras, dentro das próprias fronteiras, alongando-se como braços para assinalar novo rumo à evolução.
-Outra consideração de importância fundamental a fazer-se é a de que o poema “
-Brasil
-” representou uma síntese poética dos momentos culminantes do “Pinga Fogo”, quando foram postos em foco os problemas da atualidade brasileira. O poema brotou espontâneo, escrito a jato, na velocidade característica da psicografia, revelando a presença espiritual e emocional do poeta nos diálogos que se travaram. Impossível negar, diante desse conjunto de elementos favoráveis e de um pouco de conhecimento dos problemas espíritas, a legitimidade dessa mensagem mediúnica.
+Outra consideração de importância fundamental a fazer-se é a de que o poema “Brasil” representou uma síntese poética dos momentos culminantes do “Pinga Fogo”, quando foram postos em foco os problemas da atualidade brasileira. O poema brotou espontâneo, escrito a jato, na velocidade característica da psicografia, revelando a presença espiritual e emocional do poeta nos diálogos que se travaram. Impossível negar, diante desse conjunto de elementos favoráveis e de um pouco de conhecimento dos problemas espíritas, a legitimidade dessa mensagem mediúnica.
 
 ---
 
-## 21 — Oração ao Céu do Brasil
+## 21
 
 
 
 ---
 
-## 22 — Na língua dos homens
+## 22
 
-— Na vida terrestre temos sempre um programa de trabalho e de autoeducação a ser realizado, mas esse programa prossegue além desta vida, conforme as nossas necessidades. Porque todos estamos subordinados à misericórdia de Deus, dentro da justiça que nos rege os destinos. Muitas vezes nascemos na Terra, ou renascemos na Terra com determinado programa de serviços a realizar, mas realizamos esse programa de modo imperfeito. A Justiça seria, naturalmente, que fosse cassado o nosso direito de continuidade de trabalho. Mas a misericórdia de Deus impera no Universo inteiro. Portanto, há continuidade de trabalho para nós todos e continuidade de estudo na outra vida, graças a Deus. [Vide a pergunta feita ao Chico no 1º cap. do livro:
-Pinga-fogo
-]
-— Essas cidades não são sonhos da Ciência. Essas cidades, naturalmente com muito sacrifício da Humanidade Terrestre, podem ser feitas. E provavelmente vai-se obter azoto e oxigênio em usinas de alumínio, e formações de vidro e matéria plástica na própria Lua, para a construção desses redutos da Ciência terrestre. E provavelmente a água será fornecida pelo próprio solo lunar. Então teremos, quem sabe, a possibilidade de entrar em contato com outras comunidades da nossa Galáxia. [Vide a pergunta e a resposta completa do Chico no cap. 15 do livro:
-Pinga-fogo
-]
-— Alguns cientistas disseram que a mente não tem existência sem a organização física. Mas estamos absolutamente certos de que, sem a mente, não temos a existência da organização física, e que a mente não depende da organização física para se manifestar em seu pleno equilíbrio. Porque, cessadas certas possibilidades do cérebro, é natural que a mente esteja na condição do artista que encontrou um violino desafinado ou sem cordas, ou apenas com algumas cordas na execução de uma partitura em determinado concerto. [Vide a pergunta e a resposta completa do Chico no cap. 8 do livro:
-Chico Xavier, dos hippies aos problemas do mundo
-]
-— O problema dos transplantes deve merecer o nosso respeito. E vamos pedir para que a nossa Ciência Médica continue para a frente, conquanto não deva desprezar os órgãos chamados plásticos, tanto quanto possível, na substituição de órgãos no veículo físico. [Vide a pergunta e a resposta completa do Chico no cap. 17 do livro:
-Chico Xavier, dos hippies aos problemas do mundo
-]
+RESPOSTA A HELE ALVES — Na vida terrestre temos sempre um programa de trabalho e de autoeducação a ser realizado, mas esse programa prossegue além desta vida, conforme as nossas necessidades. Porque todos estamos subordinados à misericórdia de Deus, dentro da justiça que nos rege os destinos. Muitas vezes nascemos na Terra, ou renascemos na Terra com determinado programa de serviços a realizar, mas realizamos esse programa de modo imperfeito. A Justiça seria, naturalmente, que fosse cassado o nosso direito de continuidade de trabalho. Mas a misericórdia de Deus impera no Universo inteiro. Portanto, há continuidade de trabalho para nós todos e continuidade de estudo na outra vida, graças a Deus. [Vide a pergunta feita ao Chico no 1º cap. do livro: Pinga-fogo]
+RESPOSTA A LUIZ LOPES — Essas cidades não são sonhos da Ciência. Essas cidades, naturalmente com muito sacrifício da Humanidade Terrestre, podem ser feitas. E provavelmente vai-se obter azoto e oxigênio em usinas de alumínio, e formações de vidro e matéria plástica na própria Lua, para a construção desses redutos da Ciência terrestre. E provavelmente a água será fornecida pelo próprio solo lunar. Então teremos, quem sabe, a possibilidade de entrar em contato com outras comunidades da nossa Galáxia. [Vide a pergunta e a resposta completa do Chico no cap. 15 do livro: Pinga-fogo]
+RESPOSTA A HERNANI GUIMARÃES ANDRADE — Alguns cientistas disseram que a mente não tem existência sem a organização física. Mas estamos absolutamente certos de que, sem a mente, não temos a existência da organização física, e que a mente não depende da organização física para se manifestar em seu pleno equilíbrio. Porque, cessadas certas possibilidades do cérebro, é natural que a mente esteja na condição do artista que encontrou um violino desafinado ou sem cordas, ou apenas com algumas cordas na execução de uma partitura em determinado concerto. [Vide a pergunta e a resposta completa do Chico no cap. 8 do livro: Chico Xavier, dos hippies aos problemas do mundo]
+RESPOSTA A DURVAL MONTEIRO — O problema dos transplantes deve merecer o nosso respeito. E vamos pedir para que a nossa Ciência Médica continue para a frente, conquanto não deva desprezar os órgãos chamados plásticos, tanto quanto possível, na substituição de órgãos no veículo físico. [Vide a pergunta e a resposta completa do Chico no cap. 17 do livro: Chico Xavier, dos hippies aos problemas do mundo]
 Oferecemos uma pequena amostra da Linguagem empolada, povoada de metáforas óbvias e gastas, que Chico Xavier teria usado nos dois “Pinga Fogo” do Canal 4, segundo afirmou a revista “Veja”, em duas de suas edições. O que vemos nesses textos é Chico Xavier, na sua simplicidade humana, usando a língua dos homens para falar aos homens. É natural que se tenha servido de algumas imagens, como no caso das relações da mente com o cérebro, para que as pessoas pouco afeitas aos problemas espirituais não encontrassem dificuldade na compreensão das respostas. Só podem discordar do uso dessas imagens os que não conhecem os problemas da comunicação.
 A agressão a Chico Xavier, pela referida revista, exige pelo menos este desagravo objetivo. Não fazemos uma contestação, oferecemos amostras para o julgamento daquelas pessoas que não tiveram a oportunidade de ouvir os programas. Se essa linguagem é empolada e óbvia, não sabemos a que recursos o médium devia recorrer para a expressão do pensamento dos espíritos e do seu próprio. Por outro lado, não se deve esquecer que Chico Xavier falava em tom de conversa, procurando esclarecer problemas que, em geral, exigiriam longas explanações.
 Pelo que se depreende da crítica agressiva e desrespeitosa — à figura de um homem que consagrou toda a sua vida ao serviço dos semelhantes, sem auferir disso o menor lucro em qualquer sentido — o redator de “Veja” não foi capaz de ver o que se passava. Esperava de Chico Xavier uma linguagem sobrenatural, talvez na língua dos anjos. Mas Chico nunca pretendeu pertencer a outra espécie que não fosse a humana. Respondeu, como sempre, na língua dos homens, embora num tom de humildade e compreensão que muitos homens não podem alcançar.
 
 ---
 
-## 23 — Mediunidade e experiência
+## 23
 
-Se as fábricas de automóveis contassem exclusivamente com as autoridades que lhes desenham as máquinas, calculando resistência ou imaginando primores de forma, decerto que não passariam de berçários para a conservação de modelos.
-Se os laboratórios dispusessem unicamente das inteligências que lhes compõem as fórmulas de que resultam exatas conjugações de agentes químicos, o medicamento jamais chegaria aos enfermos.
-Se a música possuísse tão somente compositores eméritos a lhe gravarem a beleza, em pauta adequada, nunca se retiraria do silêncio para o campo do som, em auxílio aos seres humanos.
-Assim também na mediunidade.
-Se as ocorrências mediúnicas devessem apenas contar com a presença dos estudiosos e analistas que lhes investigam as manifestações e lhes colocam as afirmativas à prova, o intercâmbio espiritual feneceria por inexistente.
-Sem dúvida precisamos de especialistas e técnicos em todos os campos da teoria, mas não podemos desprezar a prática dos ensinamentos que se refiram a progresso e aperfeiçoamento e nem desprestigiar aqueles que a ela se dedicam empregando o máximo de si próprios em favor dos semelhantes.
-Sem mecânicos e motoristas, que muitas vezes arriscam a vida em louvor do próximo, o mundo não disporia do automóvel ganhando tempo.
-Sem operários e distribuidores a despenderem grande esforço, o remédio não alcançaria os doentes.
-Sem executores que lhe ofereçam atenção integral, a música não sairia das notas escritas.
-E sem instrumentos que se disponham a suportar obstáculos e problemas, dificuldades e provações em benefício da causa do Amor e da Verdade, entre as criaturas, efetivamente a mediunidade não serviria para ninguém.
+1 Se as fábricas de automóveis contassem exclusivamente com as autoridades que lhes desenham as máquinas, calculando resistência ou imaginando primores de forma, decerto que não passariam de berçários para a conservação de modelos.
+2 Se os laboratórios dispusessem unicamente das inteligências que lhes compõem as fórmulas de que resultam exatas conjugações de agentes químicos, o medicamento jamais chegaria aos enfermos.
+3 Se a música possuísse tão somente compositores eméritos a lhe gravarem a beleza, em pauta adequada, nunca se retiraria do silêncio para o campo do som, em auxílio aos seres humanos.
+4 Assim também na mediunidade.
+5 Se as ocorrências mediúnicas devessem apenas contar com a presença dos estudiosos e analistas que lhes investigam as manifestações e lhes colocam as afirmativas à prova, o intercâmbio espiritual feneceria por inexistente.
+6 Sem dúvida precisamos de especialistas e técnicos em todos os campos da teoria, mas não podemos desprezar a prática dos ensinamentos que se refiram a progresso e aperfeiçoamento e nem desprestigiar aqueles que a ela se dedicam empregando o máximo de si próprios em favor dos semelhantes.
+7 Sem mecânicos e motoristas, que muitas vezes arriscam a vida em louvor do próximo, o mundo não disporia do automóvel ganhando tempo.
+8 Sem operários e distribuidores a despenderem grande esforço, o remédio não alcançaria os doentes.
+9 Sem executores que lhe ofereçam atenção integral, a música não sairia das notas escritas.
+10 E sem instrumentos que se disponham a suportar obstáculos e problemas, dificuldades e provações em benefício da causa do Amor e da Verdade, entre as criaturas, efetivamente a mediunidade não serviria para ninguém.
 A mensagem mediúnica, na forma de “Mediunidade e Experiência”, de Emmanuel; é geralmente considerada inócua por certos estudiosos do Espiritismo. E isso por duas razões principais: 1ª) pela construção figurada, em linguagem redundante com aparente desperdício de tempo e espaço; 2ª) pela falta de elementos que provem a sua procedência espiritual e não apenas anímica. Mas o próprio texto dessa mensagem traz a sua justificativa. A comunicação mediúnica é antes de tudo um processo de comunicação, ou seja, não deve destinar-se exclusivamente a estudos e pesquisas no campo teórico. Sua finalidade prática é a sua própria razão de ser.
 A forma da mensagem acima citada não agrada aos intelectuais, mas corresponde às exigências da comunicação popular numa grande área demográfica. Sua estrutura é didática e sua linguagem formalizada atende a um tipo médio de sensibilidade popular, facilitando a comunicação. Não importa o problema de identificação espirítica. O que importa é levar ao povo um ensinamento de maneira ao mesmo tempo racional e emocional. Os que reclamam contra o formalismo das comunicações mediúnicas de Emmanuel não compreendem a importância prática do diálogo que ele estabeleceu e mantém há quatro décadas com vastas áreas da nossa população, preparando-as pacientemente para uma visão mais elevada da vida.
 Alega-se que esse método afugenta as pessoas intelectualmente mais aptas. Mas a vasta produção mediúnica de Chico Xavier abrange numerosos livros que, por sua vez, são acessíveis apenas aos intelectuais. Esses volumes dirigem-se especialmente aos teóricos, aos pesquisadores. E seria absurdo que se restringissem — o médium e os Espíritos comunicantes — a essa área de elite. A mensagem espírita deve atingir todas as faixas da população, levando a cada qual a forma e a linguagem apropriadas. Mas os próprios intelectuais, quando são capazes de colocar-se ao nível do povo, deixando de lado as suas pretensões e os seus preconceitos, têm muito a aprender com essas mensagens populares.
 
 ---
 
-## 24 — Árias do amor
+## 24
 
-
-O amor na essência recorda
+1 O amor na essência recorda
 Um rio claro e profundo
 Que vence a lama e transborda
 Em benefício do mundo.
-
-Viver para o bem dos outros
+2 Viver para o bem dos outros
 Por mais que nos desagrade,
 Em qualquer clima e cultura,
 É a lei da felicidade.
-
-O amor — a luz sem medida
+3 O amor — a luz sem medida
 Dos sóis aos vermes do chão
 É Deus que se entrega à vida
 Em forma de coração.
-
-O amor atado em dois seres
+4 O amor atado em dois seres
 Sem dar-se às lutas do bem:
 Uma festa do egoísmo
 Que não ajuda a ninguém.
-
-Lições de amor para os homens,
+5 Lições de amor para os homens,
 De todas só uma sei:
 Na bênção da caridade
 O amor é a força da lei.
-
-Amor, que a mim se descobre,
+6 Amor, que a mim se descobre,
 É a companheira querida
 Sem a qual o Céu é pobre
 E a Terra é um campo sem vida.
-
-Amor dá tudo por nada,
+7 Amor dá tudo por nada,
 Nem nada pede, a rigor.
 Quem tenta a pessoa amada
 Tem manhas, não tem amor.
-
-O amor que vi de mais brilho
+8 O amor que vi de mais brilho
 Foi na beleza mais pura:
 Um beijo de mãe num filho
 À beira da sepultura.
-
-Amor!… Rememora a luz
+9 Amor!… Rememora a luz
 Que do Cristo se descerra…
 Um berço, um barco, uma cruz
 E o Bem redimindo a Terra…
-
-Quem souber o que é o amor,
+10 Quem souber o que é o amor,
 Da origem aos apogeus,
 Terá sabido explicar
 A onipresença de Deus.
@@ -603,149 +510,124 @@ Há trovadores celestes
 Cantando ao nosso redor,
 Para nos darem a senha
 De ingresso à Vida Maior.
-Há trovadores celestes
-Cantando ao nosso redor,
-Para nos darem a senha
-De ingresso à Vida Maior.
 
 ---
 
-## 25 — Deus sempre
+## 25
 
-Deixa que teu coração repouse no entendimento, a fim de que a Vida Maior te use por filtro da paz em auxílio dos outros.
-Frequentemente, hoje, nos reportamos todos à Terra conturbada.
-Muitos companheiros se fazem pontas-de-lança na expansão do desespero e transformam-se outros muitos em pregoeiros da agitação.
-Sê, porém, o pouso da tranquilidade operosa, a nave sólida em que os náufragos da inquietação encontrem apoio.
-Recorda: o mundo já viveu outras épocas de crise e a todas sobreviveu para exaltar-se em mais elevado gabarito de evolução.
-Por maior a tormenta, guia o teu barco no oceano das lutas renovadoras, harmonizando o leme da própria vida com a fé em Deus. Escora-te na Sabedoria Divina — sustentáculo do Universo — e prossegue com serenidade e coragem ante o roteiro do dia a dia.
-Lembra-te.
+1 Deixa que teu coração repouse no entendimento, a fim de que a Vida Maior te use por filtro da paz em auxílio dos outros.
+2 Frequentemente, hoje, nos reportamos todos à Terra conturbada.
+3 Muitos companheiros se fazem pontas-de-lança na expansão do desespero e transformam-se outros muitos em pregoeiros da agitação.
+4 Sê, porém, o pouso da tranquilidade operosa, a nave sólida em que os náufragos da inquietação encontrem apoio.
+5 Recorda: o mundo já viveu outras épocas de crise e a todas sobreviveu para exaltar-se em mais elevado gabarito de evolução.
+6 Por maior a tormenta, guia o teu barco no oceano das lutas renovadoras, harmonizando o leme da própria vida com a fé em Deus. Escora-te na Sabedoria Divina — sustentáculo do Universo — e prossegue com serenidade e coragem ante o roteiro do dia a dia.
+7 Lembra-te.
 Guerras de extermínio arrasaram continentes e nações; mas Deus restaurou os mecanismos da Civilização e outros povos apareceram com assinalados destinos na execução do progresso.
-Convulsões geológicas destruíram comunidades inteiras; Deus, no entanto, reinstalou-as, através da reencarnação, em faixas diferentes do Orbe, delas fazendo instrumento valioso no preparo de tempos novos.
-Diversos agrupamentos humanos enlouqueceram, mergulhando em atitudes e atividades suicidas; Deus, porém, lhes conferiu outros rumos, doando-lhes oportunidades mais amplas de serviço para se recuperarem com segurança em existências de redenção.
-Epidemias varreram cidades inúmeras; mas Deus amparou a Ciência e as vítimas foram compensadas com ensejo precioso de aprendizado e trabalho na Terra mesmo, em planos mais nobres.
-Não importa o tipo de tempestade que te requisite a receios indébitos.
-Ruja a ventania da destruição ou vocifere a ameaça da morte, guarda-te em Deus.
-Os homens podem aumentar o poder das trevas; Deus, entretanto, é a luz que as dissolve.
-Por isso mesmo, onde surja a discórdia, sê a paz, e onde grite a maldição, sê tu a bênção.
-Escrevendo-nos dia 22 de janeiro de 1972, Chico Xavier nos informou o seguinte: “Em nossa reunião pública de ontem era realmente muito grande o número de irmãos nossos preocupados com a situação atual da Terra. E o nosso abnegado Emmanuel, nos comentários sobre a página intitulada
-Missão dos Espíritas,
-de “O Evangelho Segundo o Espiritismo”, escreveu a mensagem “Deus Sempre” que envio às suas mãos”.
-Transcrevemos esse trecho da carta para que os leitores possam ver, não apenas a mensagem, más por trás dela a preocupação das numerosas pessoas presentes à reunião em que Chico Xavier a psicografou. Emmanuel foi o porta-voz da Espiritualidade para transmitir aos homens, e particularmente aos espíritas — seguidores do Cristo em espírito e verdade — o estímulo e a advertência necessários a esta hora de transição que estamos enfrentando.
-Nessa mesma ocasião, como informou o noticiário internacional, a Igreja Católica colocou em funcionamento o seu novo órgão denominado
-, com a finalidade de criar uma rede mundial de solidariedade humana, formada por católicos e não-católicos, para atender às eventualidades da situação mundial e orientar as populações. Por isso mesmo soou destoante a fala de D. Vicente Scherer, cardeal-arcebispo de Porto Alegre, em seu programa radiofônico “A Voz do Pastor”, formulando críticas agressivas a Chico Xavier e à TV brasileira, insistindo nas acusações à memória de Arigó e tentando apontar o médium de Uberaba como simples farsante.
+8 Convulsões geológicas destruíram comunidades inteiras; Deus, no entanto, reinstalou-as, através da reencarnação, em faixas diferentes do Orbe, delas fazendo instrumento valioso no preparo de tempos novos.
+9 Diversos agrupamentos humanos enlouqueceram, mergulhando em atitudes e atividades suicidas; Deus, porém, lhes conferiu outros rumos, doando-lhes oportunidades mais amplas de serviço para se recuperarem com segurança em existências de redenção.
+10 Epidemias varreram cidades inúmeras; mas Deus amparou a Ciência e as vítimas foram compensadas com ensejo precioso de aprendizado e trabalho na Terra mesmo, em planos mais nobres.
+11 Não importa o tipo de tempestade que te requisite a receios indébitos.
+12 Ruja a ventania da destruição ou vocifere a ameaça da morte, guarda-te em Deus.
+13 Os homens podem aumentar o poder das trevas; Deus, entretanto, é a luz que as dissolve.
+14 Por isso mesmo, onde surja a discórdia, sê a paz, e onde grite a maldição, sê tu a bênção.
+Escrevendo-nos dia 22 de janeiro de 1972, Chico Xavier nos informou o seguinte: “Em nossa reunião pública de ontem era realmente muito grande o número de irmãos nossos preocupados com a situação atual da Terra. E o nosso abnegado Emmanuel, nos comentários sobre a página intitulada Missão dos Espíritas, de “O Evangelho Segundo o Espiritismo”, escreveu a mensagem “Deus Sempre” que envio às suas mãos”.
+Transcrevemos esse trecho da carta para que os leitores possam ver, não apenas a mensagem, mas por trás dela a preocupação das numerosas pessoas presentes à reunião em que Chico Xavier a psicografou. Emmanuel foi o porta-voz da Espiritualidade para transmitir aos homens, e particularmente aos espíritas — seguidores do Cristo em espírito e verdade — o estímulo e a advertência necessários a esta hora de transição que estamos enfrentando.
+Nessa mesma ocasião, como informou o noticiário internacional, a Igreja Católica colocou em funcionamento o seu novo órgão denominado Cor Unum, com a finalidade de criar uma rede mundial de solidariedade humana, formada por católicos e não-católicos, para atender às eventualidades da situação mundial e orientar as populações. Por isso mesmo soou destoante a fala de D. Vicente Scherer, cardeal-arcebispo de Porto Alegre, em seu programa radiofônico “A Voz do Pastor”, formulando críticas agressivas a Chico Xavier e à TV brasileira, insistindo nas acusações à memória de Arigó e tentando apontar o médium de Uberaba como simples farsante.
 A mediunidade de Chico Xavier é hoje mundialmente reconhecida, hoje que o problema mediúnico é de ordem científica e não apenas religiosa. As mensagens em inglês recebidas pelo médium nos Estados Unidos e aí amplamente divulgadas, assim como no Brasil e no mundo, levaram cientistas norte-americanos a quererem retê-lo em Universidades de lá para estudos e obtenção de mais comunicações. O Christian Spirit Center, fundado em Elon College, é hoje o divulgador das mensagens do médium em todo o País.
 A referência de D. Scherer ao médium Amaury Pena, sobrinho de Chico Xavier, que faleceu prematuramente, vítima de moléstia mental — mas cuja produção mediúnica, do tempo de saúde, é incontestavelmente legítima — foi simplesmente um pecado do cardeal contra a lei evangélica da caridade. Mas também esse episódio e a manifestação da Conferência Nacional dos Bispos do Brasil contra a publicidade das atividades mediúnicas reforçam a oportunidade da mensagem de Emmanuel. Ouçamos a voz do pastor invisível: “Os homens podem aumentar o poder das trevas; Deus, entretanto, é a luz que as dissolve. Por isso mesmo, onde surja a discórdia, sê a paz; e onde grite a maldição, sê tu a bênção”.
 
 ---
 
-## 26 — Eles não sabem
+## 26
 
 
 
 ---
 
-## 27 — Casa em reforma
+## 27
 
-Calamidades, flagelos, conflitos, lutas, provas!…
+1 Calamidades, flagelos, conflitos, lutas, provas!…
 Os quadros do mundo moderno, porém, não expressam retorno ao primitivismo ou exaltação da animalidade.
 Achamo-nos em plena via de burilamento e progresso.
-A Terra assemelha-se hoje a casa em reforma.
+2 A Terra assemelha-se hoje a casa em reforma.
 Tudo ou quase tudo aparentemente desajustado para a justa rearmonização.
-Na altura atual dos conhecimentos humanos não será recomendável uma revisão de valores por parte do homem, considerando-se o homem na sua condição de Espírito imperecível?
-Conceitos enunciados pela civilização cristã, em quase vinte séculos, são agora testados, acordando as criaturas para a responsabilidade de viver nos padrões da imortalidade que nos é própria.
-Desnível espiritual na família, criando perturbações, compelem aqueles que a integram para a conscientização da regra de ouro. Abre-se mais amplamente a escola da experiência, a fim de que aprendamos a respeitar os entes queridos, tanto quanto anelamos ser respeitados.
-Desentendimentos aqui e além requisitam a presença de construtores da segurança geral. Matriculemo-nos na concorrência ao título de pacificadores.
-Incompreensões se alongam em todos os caminhos, com acusações recíprocas entre grupos e pessoas. Salienta-se o ensejo de mecanizarmos o perdão, imunizando-nos contra revide ou ressentimento.
-A felicidade e a paz nos processos de vivência comum reclamam a abnegação de quantos se declaram a favor do mundo melhor. Surpreendemos nisso expressivo concurso de valores pessoais, lançado aos cultivadores do bem, na base da legenda evangélica: “Quem deseja ser o maior que se faça o servidor de todos”.
-(Lc)
-Ergamo-nos para a vida sustentando a luz da esperança. Evidentemente não temos a moradia planetária sob sentença de extermínio.
-Continuamos todos resguardados pelo equilíbrio das leis universais. O que existe presentemente na Terra é o chamamento cada vez mais vivo ao testemunho individual de compreensão e aperfeiçoamento, com multiplicadas oportunidades de trabalho em louvor de nossa própria renovação.
-Ao enviar-nos a mensagem “Casa em Reforma”, de Emmanuel, Chico Xavier nos conta o seguinte: “Foi recebida em nossa reunião pública. Em conjunto, estudávamos a
-questão 737 de “O Livro dos Espíritos”
-. O salão estava repleto de nossos irmãos procedentes de outras cidades. Antes da prece inicial o assunto dominante era a situação presente da Terra, com tantas crises e desarmonias a conturbá-la. Aberto o livro de Allan Kardec os comentários estenderam-se e o nosso Amigo da Espiritualidade escreveu a página de fé e otimismo que lhe envio às mãos”.
+3 Na altura atual dos conhecimentos humanos não será recomendável uma revisão de valores por parte do homem, considerando-se o homem na sua condição de Espírito imperecível?
+4 Conceitos enunciados pela civilização cristã, em quase vinte séculos, são agora testados, acordando as criaturas para a responsabilidade de viver nos padrões da imortalidade que nos é própria.
+5 Desnível espiritual na família, criando perturbações, compelem aqueles que a integram para a conscientização da regra de ouro. Abre-se mais amplamente a escola da experiência, a fim de que aprendamos a respeitar os entes queridos, tanto quanto anelamos ser respeitados.
+6 Desentendimentos aqui e além requisitam a presença de construtores da segurança geral. Matriculemo-nos na concorrência ao título de pacificadores.
+7 Incompreensões se alongam em todos os caminhos, com acusações recíprocas entre grupos e pessoas. Salienta-se o ensejo de mecanizarmos o perdão, imunizando-nos contra revide ou ressentimento.
+8 A felicidade e a paz nos processos de vivência comum reclamam a abnegação de quantos se declaram a favor do mundo melhor. Surpreendemos nisso expressivo concurso de valores pessoais, lançado aos cultivadores do bem, na base da legenda evangélica: “Quem deseja ser o maior que se faça o servidor de todos”. (Lc)
+9 Ergamo-nos para a vida sustentando a luz da esperança. Evidentemente não temos a moradia planetária sob sentença de extermínio.
+10 Continuamos todos resguardados pelo equilíbrio das leis universais. O que existe presentemente na Terra é o chamamento cada vez mais vivo ao testemunho individual de compreensão e aperfeiçoamento, com multiplicadas oportunidades de trabalho em louvor de nossa própria renovação.
+Ao enviar-nos a mensagem “Casa em Reforma”, de Emmanuel, Chico Xavier nos conta o seguinte: “Foi recebida em nossa reunião pública. Em conjunto, estudávamos a questão 737 de “O Livro dos Espíritos”. O salão estava repleto de nossos irmãos procedentes de outras cidades. Antes da prece inicial o assunto dominante era a situação presente da Terra, com tantas crises e desarmonias a conturbá-la. Aberto o livro de Allan Kardec os comentários estenderam-se e o nosso Amigo da Espiritualidade escreveu a página de fé e otimismo que lhe envio às mãos”.
 A questão 737 de “O Livro dos Espíritos”, colocada por Kardec, é esta: “Com que objetivo Deus castiga a Humanidade com calamidades destruidoras?” E a resposta dos Espíritos começa assim: “Para que ela avance mais rápido”. A seguir os Espíritos explicam o problema da evolução humana. Somos criaturas espirituais em desenvolvimento. Nascemos do princípio inteligente que é uma substância fundamental do Universa, e, à maneira da semente que germina na terra, germinamos e crescemos na carne. Esse processo de desenvolvimento — que é o processo de criação explicado na Bíblia: Deus fez o homem do limbo da terra submete-nos a dificuldades e dores individuais e coletivas.
 O homem, como adverte o cientista espírita inglês Sir Oliver Lodge, não é um ser acabado, mas ainda em formação. A nossa. Humanidade Terrena é uma parcela mínima da Humanidade Cósmica. A Terra assemelha-se agora a uma casa que era habitada por uma família de cinco pessoas: pai, mãe e três filhos. Mas acontece que os filhos casaram e tiveram filhos, e que estes também cresceram e se multiplicaram. Para acomodar a todos é necessário reformar a casa, ampliá-la, melhorá-la. A população atual da Terra ultrapassa em número a soma de todas as populações anteriores que conhecemos. A família cresceu e os problemas aumentaram.
 Mas tudo isso acontece porque o nosso Planeta está passando do plano inferior em que ainda se acha para um plano mais elevado. É a lei de evolução que se cumpre e não devemos dar ouvidos aos pregoeiros da destruição e da desgraça. É natural que nos inquietemos, mas não é justo que esqueçamos o Poder Supremo que nos dirige. Confiemos em Deus e nos seus desígnios.
 
 ---
 
-## 28 — Doentes da alma
+## 28
 
-Existem doentes da alma, quanto existem enfermos do corpo.
-Quando encontrares companheiros envolvidos na sombra do materialismo destruidor, ao invés de invectivá-los, compadece-te.
-Cercados pela vida triunfante, do sol aos vermes e do lodo às estrelas, quantos se acham aparentemente desligados da ideia de Deus e trazem o coração em transitório desequilíbrio.
-Se te hostilizam, silencia.
-Se te provocam, abençoa.
-Não lhes atires fel ao vinagre em que se lhes represa a existência.
-Pensa nas dificuldades e lágrimas que os fizeram assim. Considera, sobretudo, que não são indiferentes à fé porque o desejem.
-Surpreendemos os que foram orientados na rebeldia, desde a primeira infância e não dispõem de facilidades imediatas para renovarem convicções;
-
-os que se viram mentalmente espancados por desenganos e perderam a confiança em si próprios;
-
-os que se supunham superiores à Sabedoria Divina e quiseram subjugar os seus irmãos, caindo em amargas experiências que os constrangeram ao reconhecimento da própria pequenez que ainda não conseguem admitir;
-
-os que tiveram a casa visitada pela morte e se revoltaram contra as leis da Vida que lhes favoreceram os entes amados com a libertação, antes que se lhes arrochassem as cadeias de sofrimento;
-
-os que estimariam poder transformar inconsideradamente os princípios do Universo e se fazem adversários de Deus por não lhes ser possível o controle absoluto da Natureza e da Humanidade;
-
-e aqueles outros que se enredaram em laços de angústia e pranto, pretendendo a fuga dos recursos expiatórios que criaram para si mesmos, na liberação das próprias culpas.
-Diante dos irmãos que a descrença domina, jamais acuses. Sejam eles quem forem, abençoa-os e espera.
-Não são passíveis de condenação ou censura. São enfermos da alma, portadores de estranha paranoia de que a misericórdia de Deus os retirará.
-Ao enviar-nos mensagem recebida em reunião pública em Uberaba, escreveu-nos Chico Xavier: “Os temas e comentários da noite giraram em torno da
-questão nº 147 de “O Livro dos Espíritos”
-. As opiniões eram as mais diversas com respeito aos nossos irmãos materialistas, mas no término das tarefas o nosso abnegado Emmanuel escreveu, por nosso intermédio, a página, que intitulou “Doentes da Alma”, de que lhe envio cópia”.
+1 Existem doentes da alma, quanto existem enfermos do corpo.
+2 Quando encontrares companheiros envolvidos na sombra do materialismo destruidor, ao invés de invectivá-los, compadece-te.
+3 Cercados pela vida triunfante, do sol aos vermes e do lodo às estrelas, quantos se acham aparentemente desligados da ideia de Deus e trazem o coração em transitório desequilíbrio.
+4 Se te hostilizam, silencia.
+5 Se te provocam, abençoa.
+6 Não lhes atires fel ao vinagre em que se lhes represa a existência.
+7 Pensa nas dificuldades e lágrimas que os fizeram assim. Considera, sobretudo, que não são indiferentes à fé porque o desejem.
+8 Surpreendemos os que foram orientados na rebeldia, desde a primeira infância e não dispõem de facilidades imediatas para renovarem convicções;
+9 os que se viram mentalmente espancados por desenganos e perderam a confiança em si próprios;
+10 os que se supunham superiores à Sabedoria Divina e quiseram subjugar os seus irmãos, caindo em amargas experiências que os constrangeram ao reconhecimento da própria pequenez que ainda não conseguem admitir;
+11 os que tiveram a casa visitada pela morte e se revoltaram contra as leis da Vida que lhes favoreceram os entes amados com a libertação, antes que se lhes arrochassem as cadeias de sofrimento;
+12 os que estimariam poder transformar inconsideradamente os princípios do Universo e se fazem adversários de Deus por não lhes ser possível o controle absoluto da Natureza e da Humanidade;
+13 e aqueles outros que se enredaram em laços de angústia e pranto, pretendendo a fuga dos recursos expiatórios que criaram para si mesmos, na liberação das próprias culpas.
+14 Diante dos irmãos que a descrença domina, jamais acuses. Sejam eles quem forem, abençoa-os e espera.
+15 Não são passíveis de condenação ou censura. São enfermos da alma, portadores de estranha paranoia de que a misericórdia de Deus os retirará.
+Ao enviar-nos mensagem recebida em reunião pública em Uberaba, escreveu-nos Chico Xavier: “Os temas e comentários da noite giraram em torno da questão nº 147 de “O Livro dos Espíritos”. As opiniões eram as mais diversas com respeito aos nossos irmãos materialistas, mas no término das tarefas o nosso abnegado Emmanuel escreveu, por nosso intermédio, a página, que intitulou “Doentes da Alma”, de que lhe envio cópia”.
 A questão 147 refere-se ao problema do materialismo entre os especialistas em ciências médicas e estudos superiores em geral. Na pergunta seguinte o assunto é desenvolvido e os Espíritos respondem que não são os estudos que produzem o materialismo, mas a vaidade humana. E no final da resposta Kardec acentua: Por uma aberração da inteligência há pessoas que só veem nos seres orgânicos a ação da matéria e a ela atribuem os nossos atos. Só viram no corpo humano a máquina elétrica.
 Essa expressão de Kardec, ainda hoje criticada, é agora plenamente confirmada pelo diagnóstico de Emmanuel: os materialistas são enfermos da alma, portadores de estranha paranoia. Aberração da inteligência ou enfermidade da alma são expressões que se equivalem. Mas por que esse rigor na apreciação do problema? Classificando-os assim, não menosprezamos e ofendemos os materialistas? Não se trata de uma coisa nem de outra, mas apenas de exame objetivo da situação. O Materialismo é considerado pelo Espiritismo como verdadeira ameaça à criatura humana, porque deforma a visão natural do homem e o precipita na cegueira espiritual.
 O Materialismo nega a própria natureza humana que é espiritual e não material. Partindo dessa premissa falsa conduz o homem a uma atitude errônea diante da vida e do mundo. Bastaria isto para mostrar a sua origem patológica. É uma distorção da realidade. Hoje sabemos, pelas pesquisas antropológicas, etnológicas e sociológicas, que nunca houve na Terra um só povo ateu. O homem é naturalmente religioso, pois, como afirmou Descartes, traz a ideia de Deus em si mesmo. O Espiritismo nos mostra a existência da lei de adoração, lei natural que caracteriza a natureza humana. O materialismo nega essa lei e gera o desespero e a irresponsabilidade.
 
 ---
 
-## 29 — Ribeirão Preto
+## 29
 
 
 
 ---
 
-## 30 — Lema da Vida
+## 30
 
 
 
 ---
 
-## 31 — Ante o aborto
+## 31
 
-Por mais pretenda basear-se em leis humanas de impunidade, o aborto sem apoio no impositivo de salvação da vida materna será sempre um erro deplorável, a seguir-se de consequências inquietantes e imprevisíveis.
-Na problemática do aborto imagina-te ansiando pelo ingresso em determinada oficina, de cujo salário e experiência necessitas para efeito de aperfeiçoamento e promoção.
-Alcançando-a pelo concurso de mãos amigas, alimentas a melhor esperança. Em tudo, votos de paz e renovação aguardando o futuro.
-Entretanto, ainda nesta hipótese, observas-te em profundo abatimento, incapaz de comandar a própria situação.
-Assemelhas-te ao enfermo exausto, sem recursos para te garantires e sem palavra que te exprima, suplicando em silêncio a compaixão e a bondade daqueles aos quais a Sabedoria da Vida te confiou a necessidade por algum tempo e a quem prometes reconhecimento e veneração.
-Mentalizado semelhante painel, reflete no desapontamento e na dor que te tomariam de assalto se te visses inesperadamente debaixo de fria e descaridosa expulsão, a pancadas de instrumentos cortantes ou a jatos de venenosos agentes químicos.
-Nessas circunstâncias, que sentimentos te caracterizariam a reação?
-Nesta imagem simples colocamos, do Lado Espiritual da Vida, a posição da criatura rejeitada a golpes e injúrias na passagem para o renascimento no Plano Físico.
-Onde estiveres, na execução dos encargos que o mundo te deu, organiza os temas de sexo que te digam respeito, conscientizando as próprias responsabilidades no relacionamento com o próximo, segundo os princípios de compromisso, equilíbrio, controle e educação, nos vários graus de burilamento em que se nos orienta a vida afetiva, até que possamos penetrar com segurança nos domínios da sublimação.
-E conservemos a certeza de que também no sexo funciona a lei de causa e efeito, pela qual sempre recolhemos de volta aquilo que dermos ou impusermos aos outros.
-Ainda assim, se um ser humano se te incorpora à existência humana, não o condenes à morte. Compadece-te do companheiro que se encontra contigo ou que se te vincula ao coração, por enquanto sem voz para defender-se.
-Além disso, é lícito considerar que se a criatura hoje ao teu lado te pede a bênção para nascer, transformando-se em motivo de preocupação ou desgosto, é possível que essa mesma criatura se te converta amanhã em base de sustentação e de alegria no caminho do amor, para a obtenção de mais luz.
+1 Por mais pretenda basear-se em leis humanas de impunidade, o aborto sem apoio no impositivo de salvação da vida materna será sempre um erro deplorável, a seguir-se de consequências inquietantes e imprevisíveis.
+2 Na problemática do aborto imagina-te ansiando pelo ingresso em determinada oficina, de cujo salário e experiência necessitas para efeito de aperfeiçoamento e promoção.
+3 Alcançando-a pelo concurso de mãos amigas, alimentas a melhor esperança. Em tudo, votos de paz e renovação aguardando o futuro.
+4 Entretanto, ainda nesta hipótese, observas-te em profundo abatimento, incapaz de comandar a própria situação. 5 Assemelhas-te ao enfermo exausto, sem recursos para te garantires e sem palavra que te exprima, suplicando em silêncio a compaixão e a bondade daqueles aos quais a Sabedoria da Vida te confiou a necessidade por algum tempo e a quem prometes reconhecimento e veneração.
+6 Mentalizado semelhante painel, reflete no desapontamento e na dor que te tomariam de assalto se te visses inesperadamente debaixo de fria e descaridosa expulsão, a pancadas de instrumentos cortantes ou a jatos de venenosos agentes químicos.
+7 Nessas circunstâncias, que sentimentos te caracterizariam a reação?
+8 Nesta imagem simples colocamos, do Lado Espiritual da Vida, a posição da criatura rejeitada a golpes e injúrias na passagem para o renascimento no Plano Físico.
+9 Onde estiveres, na execução dos encargos que o mundo te deu, organiza os temas de sexo que te digam respeito, conscientizando as próprias responsabilidades no relacionamento com o próximo, segundo os princípios de compromisso, equilíbrio, controle e educação, nos vários graus de burilamento em que se nos orienta a vida afetiva, até que possamos penetrar com segurança nos domínios da sublimação. 10 E conservemos a certeza de que também no sexo funciona a lei de causa e efeito, pela qual sempre recolhemos de volta aquilo que dermos ou impusermos aos outros.
+11 Ainda assim, se um ser humano se te incorpora à existência humana, não o condenes à morte. Compadece-te do companheiro que se encontra contigo ou que se te vincula ao coração, por enquanto sem voz para defender-se. 12 Além disso, é lícito considerar que se a criatura hoje ao teu lado te pede a bênção para nascer, transformando-se em motivo de preocupação ou desgosto, é possível que essa mesma criatura se te converta amanhã em base de sustentação e de alegria no caminho do amor, para a obtenção de mais luz.
 Chico Xavier conta-nos como foi recebida essa mensagem na reunião pública de 7 de março de 1972, em Uberaba. Eis as informações textuais que nos enviou :
-“Duas senhoras se manifestaram desejosas de conhecer que opinião seria a dos amigos espirituais de sempre acerca do aborto. E falaram com bastante conhecimento de causa sobre o que vai ocorrendo em outros países que se regem por leis diferentes das nossas. Outros temas sobre maternidade, filhos, familiares e vida doméstica afastaram o assunto inicial. Mas, no desenrolar das tarefas da noite, a pergunta que nos veio em “
-O Livro dos Espíritos
-”, para estudo foi a que tem o número 358, e o problema do aborto voltou ao exame de todos os presentes. Ao término da reunião, Emmanuel escreveu a página que lhe entrego com estas notícias.”
+“Duas senhoras se manifestaram desejosas de conhecer que opinião seria a dos amigos espirituais de sempre acerca do aborto. E falaram com bastante conhecimento de causa sobre o que vai ocorrendo em outros países que se regem por leis diferentes das nossas. Outros temas sobre maternidade, filhos, familiares e vida doméstica afastaram o assunto inicial. Mas, no desenrolar das tarefas da noite, a pergunta que nos veio em “O Livro dos Espíritos”, para estudo foi a que tem o número 358, e o problema do aborto voltou ao exame de todos os presentes. Ao término da reunião, Emmanuel escreveu a página que lhe entrego com estas notícias.”
 Respondendo a pergunta 358, os Espíritos afirmam, no livro citado, que o aborto é um crime, mas na pergunta seguinte fazem uma ressalva quando se trata de salvar a vida da mãe. Na mensagem de Emmanuel verificamos que o problema é colocado nesses mesmos termos. O sacrifício da criança que vai nascer só pode ter uma justificativa, a preservação da vida materna, naturalmente em casos extremos. Não há necessidade de argumentos metafísicos para se compreender isso. Um ser que nasce é um destino que se inicia na Terra. Seja glorioso ou não, segundo o juízo humano, esse destino, por mais obscuro, corresponde sempre a uma necessidade vital, a uma exigência da evolução.
-Conta-nos o evangelista Mateus o episódio da
-matança dos inocentes em Belém
-, por ordem de Herodes, com o fim de aniquilar o mais glorioso destino que já se desenrolou na Terra. Foi uma tentativa de aborto após nascimento, pois, não tendo podido ordenar o aborto fisiológico, Herodes tentou o aborto histórico do destino do Cristo. Os inocentes sacrificados em Belém dão-nos a imagem brutal das consequências de cada crime dessa espécie para a humanidade Centenas de destinos que se ligavam ao do nascituro são afetados pelas mãos assassinas que o imolam.
+Conta-nos o evangelista Mateus o episódio da matança dos inocentes em Belém, por ordem de Herodes, com o fim de aniquilar o mais glorioso destino que já se desenrolou na Terra. Foi uma tentativa de aborto após nascimento, pois, não tendo podido ordenar o aborto fisiológico, Herodes tentou o aborto histórico do destino do Cristo. Os inocentes sacrificados em Belém dão-nos a imagem brutal das consequências de cada crime dessa espécie para a humanidade Centenas de destinos que se ligavam ao do nascituro são afetados pelas mãos assassinas que o imolam.
 Não faltaram nesse episódio evangélico os traços marcantes de cada crime de aborto praticado na Terra. Uma luz no céu anuncia o nascimento de Jesus. Os Reis Magos a seguem jubilosos através do deserto para verem a criança esperada, e levam a notícia a Herodes que devia também alegrar-se com ela. Um anjo avisa José e o manda fugir com Maria e a criança para o Egito. Herodes finge alegrar-se, mas ordena a matança. Cada nascimento na Terra é precedido sempre de uma luz no céu (que é o desígnio espiritual determinando a ocorrência), do júbilo dos que o aguardam — mesmo à distância, no deserto das provas e expiações do destino — da notícia levada aos que devem alegrar-se com ela e da presença do anjo que vela pelo inocente.
 Mas, quando o crime do aborto é tentado ou se consuma, seus antecedentes são sempre os do fingimento e da astúcia, originados pelo egoísmo e o comodismo de Herodes. O anjo nunca deixa de avisar os pais, tocando-lhes a consciência e o coração, ordenando-lhes a fuga, em defesa da criança, para longe das mãos assassinas que se aprestam para sacrificá-la. Alguns estudiosos do Evangelho desprezam essa alegoria de Mateus. Mas o ensino espiritual que ela encerra bastaria para mostrar às consciências cristãs e espirituais do mundo — independente da veracidade histórica do episódio — que as advertências divinas nunca faltam na Terra aos que se deixam fascinar pelo canto da sereia das conveniências materiais.
 
 ---
 
-## 32 — Renovações
+## 32
 
 > MUDANÇAS COMPULSÓRIAS NA VIDA  Enviando-nos a mensagem psicográfica de Maria Dolores, abaixo publicada, Chico Xavier informa-nos o seguinte:
 > — item 13 do capítulo V
 
-
-Quando a dor te procura, alma querida e boa,
+1 Quando a dor te procura, alma querida e boa,
 A torturar-te o sonho e a exigir-te mudança,
 Qual forja incandescente a que o mundo te lança
 Por burilar-te o ser,
@@ -753,8 +635,7 @@ Não te irrites, não temas nem reclames.
 Tudo o que vem à Terra, a fim de aprimorar-se,
 Sofre transformações, sem recurso a disfarce,
 Para servir, brilhar, elevar-se, crescer…
-
-Contempla a Natureza… A fonte quando surge,
+2 Contempla a Natureza… A fonte quando surge,
 Por mais refulja ao sol, figura-se, no entanto,
 O coração da gleba a desfazer-se em pranto
 Para não se afastar do seio em que é nascida.
@@ -762,8 +643,7 @@ Depois, a contragosto, ela própria se aparta,
 Serve e canta, esquecendo as próprias mágoas,
 Para juntar-se, além, à vida de outras águas
 E encontrar, mais além, as vastidões da vida.
-
-Lembra o tronco que viste a erguer-se forte.
+3 Lembra o tronco que viste a erguer-se forte.
 Tombou gemendo a cortes destruidores,
 Suspirando talvez por guardar-se entre as flores
 Do bosque verde e belo em que te recompões.
@@ -771,8 +651,7 @@ De maneira imprevista, um dia, transformou-se
 Em violino nas mãos de artista sublimado
 E olvidando, de todo, os golpes do machado
 Hoje é música e prece elevando emoções.
-
-Olha o minério preso e conduzido ao fogo.
+4 Olha o minério preso e conduzido ao fogo.
 Parece tenso e rubro, a serpente em vigia,
 Talvez queira voltar à rocha em que vivia
 No propósito vão de somente cismar…
@@ -780,8 +659,7 @@ Depois não mais recorda, onde ajuda e trabalha,
 O forno a que se deu em suplicio fecundo,
 A fim de ser honrado entre as forças do mundo
 Como viga que apoia as carícias do lar.
-
-Se a vida traz, à senda em que te encontras,
+5 Se a vida traz, à senda em que te encontras,
 Mortes, retaliações, angústias, provas,
 Lutas e alterações, sob as quais te renovas,
 Do teu sonho mais alto aos sonhos mais plebeus,
@@ -795,161 +673,140 @@ Essa lógica espírita exaspera os pregoeiros do desespero, viciados no ópio da
 
 ---
 
-## 33 — Civilização com Jesus
+## 33
 
 > A RESPOSTA DE EMMANUEL  Vários assuntos foram debatidos numa das reuniões públicas de Uberaba. Aberto “
 > — O Livro dos Espíritos
 
-Comumente surpreendemos muitos companheiros que falam de renovação do trabalho solicitando reformas violentas, como se todos os seus contemporâneos estivessem no grau de cultura intelectual em que já se encontram. Entretanto, se fossem recenseados entre aqueles irmãos da Humanidade que apenas guardam consigo, por enquanto, leves traços de alfabetização imperfeita, decerto que não se alegrariam em se vendo arrastados pelo vento da transformação para facearem sem preparo justo determinadas empresas de realização e serviço.
-Muitos se referem aos problemas sociais exigindo medidas drásticas que consagrem novos tipos de relacionamento humano. Todavia, caso se vissem no lugar daqueles que foram mantidos desde a meninice nas sombras da ignorância, não se agradariam ao se reconhecerem impulsionados à força para experiências complexas e arriscadas, até agora inacessíveis ao entendimento geral.
-Reportam-se outros muitos a diferentes condutas de economia, qual se a administração dos interesses de milhões de pessoas devesse alterar-se de um instante para outro. No entanto, se fossem contados entre aqueles que muito pouco sabem, ainda, acerca de produção e disciplina, receita e despesa, em nada lhes adiantaria entrar em metamorfoses precipitadas, que talvez unicamente os induzisse a leviandade e perturbação.
-Demoram-se muitos no exame da liberdade, rogando a independência imediata e sem freios para todas as criaturas, qual se a liberdade verdadeira não se baseasse no dever retamente cumprido. Mas, se vivessem nos obstáculos em que estacionam os Espíritos inexperientes e inseguros, é possível que essa espécie de liberdade tão somente os levasse a sofrimento e loucura.
-Se quisermos um mundo melhor, saibamos construí-lo.
+1 Comumente surpreendemos muitos companheiros que falam de renovação do trabalho solicitando reformas violentas, como se todos os seus contemporâneos estivessem no grau de cultura intelectual em que já se encontram. Entretanto, se fossem recenseados entre aqueles irmãos da Humanidade que apenas guardam consigo, por enquanto, leves traços de alfabetização imperfeita, decerto que não se alegrariam em se vendo arrastados pelo vento da transformação para facearem sem preparo justo determinadas empresas de realização e serviço.
+2 Muitos se referem aos problemas sociais exigindo medidas drásticas que consagrem novos tipos de relacionamento humano. Todavia, caso se vissem no lugar daqueles que foram mantidos desde a meninice nas sombras da ignorância, não se agradariam ao se reconhecerem impulsionados à força para experiências complexas e arriscadas, até agora inacessíveis ao entendimento geral.
+3 Reportam-se outros muitos a diferentes condutas de economia, qual se a administração dos interesses de milhões de pessoas devesse alterar-se de um instante para outro. No entanto, se fossem contados entre aqueles que muito pouco sabem, ainda, acerca de produção e disciplina, receita e despesa, em nada lhes adiantaria entrar em metamorfoses precipitadas, que talvez unicamente os induzisse a leviandade e perturbação.
+4 Demoram-se muitos no exame da liberdade, rogando a independência imediata e sem freios para todas as criaturas, qual se a liberdade verdadeira não se baseasse no dever retamente cumprido. Mas, se vivessem nos obstáculos em que estacionam os Espíritos inexperientes e inseguros, é possível que essa espécie de liberdade tão somente os levasse a sofrimento e loucura.
+5 Se quisermos um mundo melhor, saibamos construí-lo.
 Progresso espiritual não vem por osmose.
-Não vale a melhoria de alguns sobre o estrangulamento de milhões.
+6 Não vale a melhoria de alguns sobre o estrangulamento de milhões.
 Amemo-nos para instruir-nos reciprocamente, começando pelo respeito de uns aos outros.
-A civilização com Jesus, por mais ampla na conceituação em que se defina, resumir-se-á sempre em quatro itens:
-Evolução sim;
+7 A civilização com Jesus, por mais ampla na conceituação em que se defina, resumir-se-á sempre em quatro itens:
+8 Evolução sim;
 violência não;
 solidariedade primeiro;
 educação sempre.
 O processo civilizador é um esforço contínuo de aperfeiçoamento e adaptação. Os homens aperfeiçoam sua cultura pelas conquistas dos mais aptos e esclarecidos, mas ao mesmo tempo, procuram adaptar a maioria menos apta às novas condições de vida que vão surgindo. O ímpeto dos vanguardeiros é contido pela inércia da massa. Quando se quer romper essa inércia e realizar mudanças violentas, surge a necessidade da coação e da subjugação. Cai-se inevitavelmente na contradição de suprimir os direitos da maioria a pretexto de libertá-la.
 Civilizar é, sobretudo, humanizar. As maiorias menos capazes devem ser elevadas ao nível das minorias avançadas. Mas, se não levarmos em conta o fator tempo, a adaptação da maioria implicará largos períodos de desrespeito à sua condição e aos seus direitos, advindo injustiças e sofrimentos coletivos incalculáveis. Os esforços civilizadores entram no torvelinho do círculo vicioso, com a repetição dos erros que se pretendia eliminar. A História está repleta de exemplos desses retrocessos perigosos.
-O processo civilizador do Cristianismo é espiritual e não material, porque o homem é espírito e não matéria. Seu objetivo não é a quantidade, mas a qualidade. Seu método não é massivo, mas coletivo, não opera em termos de massa, mas de coletividades. A adaptação deve decorrer de estímulos e não de pressões. O respeito pelos outros, tão pouco praticado até agora, é o cimento da construção do novo mundo. Daí a conclusão de Emmanuel: “a evolução estimulada pela solidariedade humana e pela educação, com exclusão da violência que pertence à barbárie, é o caminho único da Civilização com Jesus”. É o que lemos no item 790 de “
-O Livro dos Espíritos
-”: “O homem não passa subitamente da infância à maturidade”
-Evolução sim;
-violência não;
-solidariedade primeiro;
-educação sempre.
+O processo civilizador do Cristianismo é espiritual e não material, porque o homem é espírito e não matéria. Seu objetivo não é a quantidade, mas a qualidade. Seu método não é massivo, mas coletivo, não opera em termos de massa, mas de coletividades. A adaptação deve decorrer de estímulos e não de pressões. O respeito pelos outros, tão pouco praticado até agora, é o cimento da construção do novo mundo. Daí a conclusão de Emmanuel: “a evolução estimulada pela solidariedade humana e pela educação, com exclusão da violência que pertence à barbárie, é o caminho único da Civilização com Jesus”. É o que lemos no item 790 de “O Livro dos Espíritos”: “O homem não passa subitamente da infância à maturidade”
 
 ---
 
-## 34 — Deus e nós
+## 34
 
 > SOMOS AUTÔMATOS OU LIVRES?  Reunião de estudos em Uberaba. Grupos de visitantes de diversas cidades participavam do trabalho e a preocupação geral era a ideia de Deus. Muitas indagações, inclusive esta: “O homem é livre ou é um autômato perante Deus?” Aberto “
 > — O Livro dos Espíritos
 
-Deus nos garante a vida.
+1 Deus nos garante a vida.
 Cabe a nós outros aperfeiçoá-la e engrandecê-la.
-Deus nos provê de inteligência.
+2 Deus nos provê de inteligência.
 Respondemos pela formação da cultura.
-Deus nos ilumina com a razão.
+3 Deus nos ilumina com a razão.
 O discernimento corre por nossa conta.
-Deus nos alimenta através do amor.
+4 Deus nos alimenta através do amor.
 Obteremos sempre do amor o que fizermos com ele.
-Deus suscita as circunstâncias.
+5 Deus suscita as circunstâncias.
 De nós depende a escolha da ação para utilizá-las.
-Deus cria a possibilidade.
+6 Deus cria a possibilidade.
 O trabalho é obra nossa.
-Deus concede o dom de falar.
+7 Deus concede o dom de falar.
 A palavra nos diz respeito.
-Deus espalha recursos.
+8 Deus espalha recursos.
 Somos chamados a valorizá-los e desenvolvê-los.
-Deus sugere o bem.
+9 Deus sugere o bem.
 Está em nós o senso de concordância.
-Deus cria a semente.
+10 Deus cria a semente.
 Temos o privilégio da plantação no cultivo do solo.
-Deus nos envia o melhor que somos capazes de receber.
+11 Deus nos envia o melhor que somos capazes de receber.
 Aceitação ou rebeldia vertem de nós com os resultados atribuíveis a cada uma.
-Deus estabelece o pensamento livre.
+12 Deus estabelece o pensamento livre.
 Detemos o poder de manejá-lo na pauta dos princípios de causa e efeito.
-Em todos os lugares encontraremos a criatura associada ao Criador nas ocorrências da Criação.
-A Divina Providência e a Humana Cooperação surgem sempre juntas em todas as realizações da vida, isso porque de Deus vem a dádiva e do Homem dimana a aplicação.
-E já que a Justiça Perfeita nos acompanha e observa em todos os passos da jornada evolutiva, a lei da responsabilidade funciona em todos os climas, determinando méritos ou necessidades de toda pessoa em particular e reduzindo todas as teorias de recompensa e punição ao sábio preceito evangélico: “A cada um segundo as suas obras”.
-
+13 Em todos os lugares encontraremos a criatura associada ao Criador nas ocorrências da Criação.
+14 A Divina Providência e a Humana Cooperação surgem sempre juntas em todas as realizações da vida, isso porque de Deus vem a dádiva e do Homem dimana a aplicação. 15 E já que a Justiça Perfeita nos acompanha e observa em todos os passos da jornada evolutiva, a lei da responsabilidade funciona em todos os climas, determinando méritos ou necessidades de toda pessoa em particular e reduzindo todas as teorias de recompensa e punição ao sábio preceito evangélico: “A cada um segundo as suas obras”. ( † )
 O princípio inteligente é a matéria-prima de que somos feitos. Esse princípio está presente e faz parte de todas as coisas e de todos os seres. Agindo no íntimo da matéria ele a transforma nos reinos sucessivos da Natureza. É o poder criador de Deus em ação incessante. No espírito esse poder se atualiza — passa de potência a ato — e no reino hominal (no homem) frutifica em razão e discernimento. Antes do reino hominal o espírito se desenvolve nos reinos inferiores, mas só no homem recebe a luz da razão.
 No ventre materno e na primeira infância a criança não tem liberdade. É presa das leis naturais, dominada pelos instintos, controla,da pelos adultos. Mas, quando acorda para a realidade de si mesma e do mundo, revela vontade própria e começa a investir-se da sua liberdade individual. Assim é o homem. Deus o cria do barro da terra, segundo a bela expressão bíblica, arranca-o das entranhas da matéria. Até que ele adquira a luz da razão, o seu crescimento é determinado pelas leis naturais. Mas, ao adquirir a individualidade, ele é o Adão que come o fruto da árvore da sabedoria. Nesse momento se desliga de Deus e passa a agir por si mesmo. Sua volta a Deus será agora um religar que depende dele mesmo, uma volta consciente através das suas obras.
 Deus não cria autômatos, não cria robôs. Cria espíritos para a liberdade e a responsabilidade. Mas essas duas coisas devem ser conquistas do próprio Espírito. É na vida de relação, no processo social, no mundo material e no mundo espiritual, que as obras do homem determinam a sua evolução, o seu crescimento. O plano imediatamente superior ao humano é o da angelitude, o dos espíritos superiores que as religiões chamam de santos e anjos. Ao atingir esse plano os espíritos se fazem ministros de Deus, inteligências livres e ativas, responsáveis, colaborando na obra divina. Mas o homem, antes de atingir esse plano, emprega a sua liberdade nas obras que realiza — pensando e agindo, criando e produzindo — “na pauta dos princípios de causa e efeito”, como esclarece Emmanuel.
 
 ---
 
-## 35 — Atualidade terrestre
+## 35
 
 > Batuíra (Antônia Gonçalves da Silva), pioneiro da imprensa espírita em São Paulo, patrono do Clube dos Jornalistas Espíritas e do Grupo Espírita Emmanuel, figura de destaque na história do Espiritismo no Brasil. A Rua Espírita, do Lavapés, tem esse nome em virtude de ter sido aberta por Batuíra, que nela viveu e instalou as oficinas e a redação do jornal “Verdade e Luz”.
 
-Meus amigos.
-O texto escolhido por nossos instrutores da Vida Maior
-recaiu na advertência do Senhor: — “quando derdes um festim, convidai os pobres e os estropiados…”
-
-Vemos nisso, em nível mais alto de deduções, a penúria espiritual do mundo e as mutilações de ordem moral que enxameiam na Terra, solicitando-nos a provisão necessária de amor e luz.
-Sentimos hoje, talvez como nunca, o impositivo da distribuição dos recursos imprescindíveis da alma.
+1 Meus amigos.
+O texto escolhido por nossos instrutores da Vida Maior ( † ) recaiu na advertência do Senhor: — “quando derdes um festim, convidai os pobres e os estropiados…” ( † )
+2 Vemos nisso, em nível mais alto de deduções, a penúria espiritual do mundo e as mutilações de ordem moral que enxameiam na Terra, solicitando-nos a provisão necessária de amor e luz.
+3 Sentimos hoje, talvez como nunca, o impositivo da distribuição dos recursos imprescindíveis da alma.
 Em toda parte estamos cercados por um mundo sedento de socorro e esperança.
-Nos decênios últimos, milhões de companheiros da Humanidade, que gravitavam em torno da comunidade planetária, voltaram ao Plano Físico impondo ao Orbe novas perspectivas de libertação e progresso.
-Esmagadora percentagem dos recém-chegados, através das portas da reencarnação, no fundo não se constitui de seres mais adiantados espiritualmente e sim de legiões imensas que aguardavam oportunidade para o retorno à experiência no lado mais denso da vida.
-Isso vem criando os desníveis que conhecemos e os desequilíbrios que transparecem atualmente de quase todos os setores da atividade humana.
-Estamos na residência física do planeta assim como grande família que recebeu apressadamente e sem a devida preparação largo acréscimo de parentes que há muito tempo viviam distantes, a exigir-nos agora providências múltiplas para que consigamos todos viver, conviver e sobreviver.
-É, decerto, a hora do festim da inteligência em que somos todos induzidos a cooperar com os nossos irmãos para que disponham de possibilidades básicas na existência, de modo a alcançarem os objetivos de segurança e evolução a que demandam.
-Aprendemos a repartir o pão.
-Atingimos o momento de estender a paciência e a tolerância.
-Temos doado apoio afetivo aos entes mais caros. Chegou o instante de exteriorizarmos o coração em forma de entendimento e de amor.
-Divulgação dos nossos princípios espíritas-evangélicos, não só de maneira determinada, mas por todas as formas que se nos façam possíveis.
-Iluminar os caminhos e suportar os que transitam por eles carregando desespero ou desânimo, angústia ou perturbação.
-Dar as mãos aos companheiros da estrada e ouvir-lhes os doestos e injúrias, as blasfêmias e lamentações com espírito de socorro e de paz.
-Trabalhemos, sim, trabalhemos sempre mais, esparzindo os conhecimentos que nos honorificam a vida pelo acréscimo da Misericórdia Divina.
-Antes de tudo, tanto quanto pudermos, solicitemos a todos, ou melhor, a cada um de nós, serenidade e serviço junto daqueles amados nossos, na órbita do lar, para que a tranquilidade e a bênção nos vivifiquem no desempenho dos deveres que o Senhor nos atribui.
-Os pais difíceis, o filho problema, o esposo complexo, a esposa em desequilíbrio, o companheiro enigma e todos aqueles que se nos vinculam à experiência pessoal, transformados para nós em desafios inquietantes à nossa capacidade de entender e de amar — todos eles, os que se nos apresentam na moldura da provação — se erigem como sendo os necessitados a que nos cabe servir no festim da compreensão.
-Pedimos determinadas concessões a Jesus e Jesus nos solicita determinados tipos de trabalho em Sua Seara de Infinito Amor. E essa seara começa de nossa própria casa.
-Amemo-nos como Jesus nos amou.
-
-Esta será talvez para nós todos, agora, na atualidade do Mundo, a maior mensagem.
+4 Nos decênios últimos, milhões de companheiros da Humanidade, que gravitavam em torno da comunidade planetária, voltaram ao Plano Físico impondo ao Orbe novas perspectivas de libertação e progresso.
+5 Esmagadora percentagem dos recém-chegados, através das portas da reencarnação, no fundo não se constitui de seres mais adiantados espiritualmente e sim de legiões imensas que aguardavam oportunidade para o retorno à experiência no lado mais denso da vida.
+6 Isso vem criando os desníveis que conhecemos e os desequilíbrios que transparecem atualmente de quase todos os setores da atividade humana.
+7 Estamos na residência física do planeta assim como grande família que recebeu apressadamente e sem a devida preparação largo acréscimo de parentes que há muito tempo viviam distantes, a exigir-nos agora providências múltiplas para que consigamos todos viver, conviver e sobreviver.
+8 É, decerto, a hora do festim da inteligência em que somos todos induzidos a cooperar com os nossos irmãos para que disponham de possibilidades básicas na existência, de modo a alcançarem os objetivos de segurança e evolução a que demandam.
+9 Aprendemos a repartir o pão.
+10 Atingimos o momento de estender a paciência e a tolerância.
+11 Temos doado apoio afetivo aos entes mais caros. Chegou o instante de exteriorizarmos o coração em forma de entendimento e de amor.
+12 Divulgação dos nossos princípios espíritas-evangélicos, não só de maneira determinada, mas por todas as formas que se nos façam possíveis.
+13 Iluminar os caminhos e suportar os que transitam por eles carregando desespero ou desânimo, angústia ou perturbação.
+14 Dar as mãos aos companheiros da estrada e ouvir-lhes os doestos e injúrias, as blasfêmias e lamentações com espírito de socorro e de paz.
+15 Trabalhemos, sim, trabalhemos sempre mais, esparzindo os conhecimentos que nos honorificam a vida pelo acréscimo da Misericórdia Divina.
+16 Antes de tudo, tanto quanto pudermos, solicitemos a todos, ou melhor, a cada um de nós, serenidade e serviço junto daqueles amados nossos, na órbita do lar, para que a tranquilidade e a bênção nos vivifiquem no desempenho dos deveres que o Senhor nos atribui.
+17 Os pais difíceis, o filho problema, o esposo complexo, a esposa em desequilíbrio, o companheiro enigma e todos aqueles que se nos vinculam à experiência pessoal, transformados para nós em desafios inquietantes à nossa capacidade de entender e de amar — todos eles, os que se nos apresentam na moldura da provação — se erigem como sendo os necessitados a que nos cabe servir no festim da compreensão.
+18 Pedimos determinadas concessões a Jesus e Jesus nos solicita determinados tipos de trabalho em Sua Seara de Infinito Amor. E essa seara começa de nossa própria casa.
+19 Amemo-nos como Jesus nos amou. ( † )
+20 Esta será talvez para nós todos, agora, na atualidade do Mundo, a maior mensagem.
 Que somos todos irmãos perante Deus, nosso Pai, é ponto pacífico desde o advento do Cristianismo. Mas para figurar a grande família humana temos de admitir os graus de parentesco. Nossos irmãos que se extraviaram nos caminhos da reencarnação, perdendo-se nos descampados da zona etérea que circunda o planeta, são os nossos parentes que agora estão voltando ao convívio terreno. Enquistaram-se no espaço em núcleos estagnados, revivendo por séculos experiências há muito superadas, no abuso do seu livre arbítrio. Agora, nesta fase de transição da evolução planetária, são obrigados a retornar e temos de recebê-los, dividindo com eles o pão de nossas novas experiências.
 A mensagem de Batuíra confirma outras muitas mensagens recebidas no meio espírita, desde o tempo de Kardec, sobre o crescimento da população terrena. Mas Batuíra nos oferece algumas informações novas: são milhões os que voltaram nos últimos decênios; essa volta em massa nos obriga a apressar a acomodação de todos e a preparar acomodações para outros que virão; entre os recém-chegados, a maioria esmagadora é de espíritos necessitados de esclarecimentos; mas há naturalmente espíritos adiantados que vêm auxiliar-nos a acomodá-los; de tudo isso resulta a abertura de novas perspectivas de libertação e progresso para a vida terrena.
 Estamos no “festim da inteligência” porque os pobres e estropiados que vêm agora sentar-se à nossa mesa são inteligências que anseiam por participar das conquistas que fizemos durante a sua ausência. Essas conquistas da nossa inteligência são partidas como o pão na mesa do banquete espiritual que estamos vivendo na Terra. A divulgação do Espiritismo — a mais alta conquista efetuada no Planeta deve acelerar-se e intensificar-se por todos os meios possíveis, para que não falte a nenhum dos novos comensais a parcela de luz de que necessita.
 
 ---
 
-## 36 — Amor, casamento e divórcio
+## 36
 
 > Leitores nossos escreveram diretamente a Francisco Cândido Xavier, solicitando a opinião dos Espíritos sobre os temas: Amor, casamento e divórcio. O médium esperava receber uma resposta de Emmanuel, mas a mesma foi dada, para sua surpresa, através das quadras abaixo. Chico nos escreve: “Com surpresa para nós, as respostas vieram de trovadores desencarnados, cada uma contendo um ponto de vista”. Chico Xavier lembra, porém, que, nas Esferas espirituais mais próximas da crosta terrestre, os Espíritos conservam seus pontos de vista pessoais em face dos problemas humanos.
 
-
-O amor a tudo resiste:
+1 O amor a tudo resiste:
 Treva, espinho, pedra e lama.
 O divórcio não existe
 No coração de quem ama.
-
-Felicidade no amor?
+2 Felicidade no amor?
 Não me perguntes qual é.
 Quando fiel a si mesmo
 Todo amor merece fé.
-
-Casamento é um céu a dois
+3 Casamento é um céu a dois
 Por entre sombras contrárias.
 Laços, que venham depois,
 São provações voluntárias.
-
-Bendita a mão que escreveu
+4 Bendita a mão que escreveu
 Essa sentença que dou:
 “Quem amou nunca esqueceu,
 Quem esqueceu nunca amou”.
-
-O amor aos outros, no fundo,
+5 O amor aos outros, no fundo,
 É a luz que encontro por fim,
 Com que me livre no mundo
 Da sombra que trago em mim.
-
-Divórcio não tem censura,
+6 Divórcio não tem censura,
 Mas se o fazes… Desde agora,
 Atrasas conta madura
 Pagando juros de mora.
-
-Casamento, muitas vezes,
+7 Casamento, muitas vezes,
 É um rol de penas sofridas
 Em que os cônjuges se pagam
 Por débitos de outras vidas.
-
-O divórcio nunca erra
+8 O divórcio nunca erra
 No par em distância inglória,
 Certas dívidas na Terra
 Precisam de moratória.
-
-Amor que vive no lar
+9 Amor que vive no lar
 Nunca lida ou sofre em vão.
 Todo amor de sacrifício
 É luz de sublimação.
-
-Caridade lembra um mar,
+10 Caridade lembra um mar,
 Imenso, renovador,
 Que acolhe sem transbordar
 Todas as fontes do amor.
@@ -960,21 +817,21 @@ O balanço das opiniões nos mostra um saldo positivo e favorável: o amor é a 
 
 ---
 
-## 37 — Não suportaram
+## 37
 
 > AS QUEDAS MORAIS  Ao enviar-nos a mensagem abaixo, informa-nos Chico Xavier que ela foi psicografada em reunião de estudos em Uberaba, da qual participavam numerosos visitantes de outras cidades. E esclarece:
-> — questão n.° 171
+> — questão n.º 171
 
-Mal, será sempre engano, erro, desequilíbrio, desajuste. E para recuperar-lhe convenientemente as vítimas, a primeira atitude é a do entendimento que nasce da compaixão.
-Assim sucede porque a queda moral, no fundo, significa extravasamento da carga de emoções e ideias negativas que criamos em nós.
-Quando anotes a presença de companheiros caídos em perturbação, reflete, sobretudo, no esforço imenso que despenderam para suportar a pressão dos próprios conflitos na intimidade da cela carnal em que provisoriamente residem.
-Este reencarnou para resgatar antigos débitos perante inimigos de outras épocas, cuja convivência lhe cabia tolerar por alguns poucos decênios. Entretanto, por algum tempo, aguentou em si próprio o impacto das vibrações contrárias que o contato difícil lhe causava e, embora sem razão, volveu ao campo da ofensa, reincidindo na culpa.
-Aquele tornou à Terra a fim de reajustar-se em ambiente de penúria material, de modo a corrigir tendências à dissipação e ao desmando. Todavia, carregou o fardo de obstáculos em certo trecho do caminho, até que, sem motivo justo para rebeldia, derivou para a deserção e remorsos consequentes.
-Outro veio de novo ao Plano Físico a fim de operar a própria desvinculação de hábitos infelizes, após solicitar situações regenerativas em auxílio de si mesmo. No entanto, depois de algum trabalho em autorreeducação, admitiu-se portador de imaginário cansaço e retornou aos costumes lastimáveis de outros tempos, adquirindo arrependimentos de longo prazo.
-Outros ainda pediram graves provas na Terra para se afastarem das induções ao suicídio, em cujas sombras se demoraram em estâncias do pretérito. Mas, finda certa quota de aflições, impacientam-se com o peso dos problemas com que s° oprimem e destroem o próprio corpo inutilmente, retomando trevas e lágrimas de que muito dificilmente lograrão se desvencilhar.
-Quando observes o mal, compadece-te daqueles que lhe aguentam as investidas. Entretanto, compadece-te mais ainda de todos aqueles que o praticam.
-Os que sofrem de consciência tranquila estão ampliando o campo da alegria e da bênção nos domínios da própria alma.
-Os que estendem o mal, porém, não suportaram a si mesmos. E, como que fazendo explodir os conflitos que acumularam por dentro deles próprios, aniquilam benditas possibilidades da vida para cujo reajustamento serão necessariamente compelidos a lutar e recomeçar.
+1 Mal, será sempre engano, erro, desequilíbrio, desajuste. E para recuperar-lhe convenientemente as vítimas, a primeira atitude é a do entendimento que nasce da compaixão.
+2 Assim sucede porque a queda moral, no fundo, significa extravasamento da carga de emoções e ideias negativas que criamos em nós.
+3 Quando anotes a presença de companheiros caídos em perturbação, reflete, sobretudo, no esforço imenso que despenderam para suportar a pressão dos próprios conflitos na intimidade da cela carnal em que provisoriamente residem.
+4 Este reencarnou para resgatar antigos débitos perante inimigos de outras épocas, cuja convivência lhe cabia tolerar por alguns poucos decênios. Entretanto, por algum tempo, aguentou em si próprio o impacto das vibrações contrárias que o contato difícil lhe causava e, embora sem razão, volveu ao campo da ofensa, reincidindo na culpa.
+5 Aquele tornou à Terra a fim de reajustar-se em ambiente de penúria material, de modo a corrigir tendências à dissipação e ao desmando. Todavia, carregou o fardo de obstáculos em certo trecho do caminho, até que, sem motivo justo para rebeldia, derivou para a deserção e remorsos consequentes.
+6 Outro veio de novo ao Plano Físico a fim de operar a própria desvinculação de hábitos infelizes, após solicitar situações regenerativas em auxílio de si mesmo. No entanto, depois de algum trabalho em autorreeducação, admitiu-se portador de imaginário cansaço e retornou aos costumes lastimáveis de outros tempos, adquirindo arrependimentos de longo prazo.
+7 Outros ainda pediram graves provas na Terra para se afastarem das induções ao suicídio, em cujas sombras se demoraram em estâncias do pretérito. Mas, finda certa quota de aflições, impacientam-se com o peso dos problemas com que sº oprimem e destroem o próprio corpo inutilmente, retomando trevas e lágrimas de que muito dificilmente lograrão se desvencilhar.
+8 Quando observes o mal, compadece-te daqueles que lhe aguentam as investidas. Entretanto, compadece-te mais ainda de todos aqueles que o praticam.
+9 Os que sofrem de consciência tranquila estão ampliando o campo da alegria e da bênção nos domínios da própria alma.
+10 Os que estendem o mal, porém, não suportaram a si mesmos. E, como que fazendo explodir os conflitos que acumularam por dentro deles próprios, aniquilam benditas possibilidades da vida para cujo reajustamento serão necessariamente compelidos a lutar e recomeçar.
 Note-se a estrutura didática dessa mensagem. Primeiro, a colocação do problema do mal e de como devemos encará-lo. Depois, a definição da responsabilidade dos culpados e a advertência de que eles caíram sob a explosão da caldeira interna dos conflitos psíquicos, vencidos na batalha moral para sufocá-los, merecendo portanto a nossa compaixão e a nossa ajuda. A seguir, os exemplos concretos que nos ajudam a melhor compreender o problema. E, por fim, a lembrança de que devemos compadecer-nos dos que praticam o mal, pois são as vítimas de si mesmos, destruidores das oportunidades que a vida lhes oferece em cada existência.
 Se acrescentássemos às escolas de Psicoterapia dos nossos dias a dimensão espírita — como já o estão fazendo alguns especialistas eminentes — a causa dos desequilíbrios mentais e passionais tornar-se-ia mais acessível aos métodos de cura. O conceito espírita do corpo carnal como verdadeira cela em que o espírito se acha encerrado, segundo vemos nesta mensagem, implica naturalmente o conceito da reencarnação. Mas a limitação existencial das escolas psicológicas, agravada pelos preconceitos e pela vaidade profissional, impede essa penetração nas profundidades do espírito.
 Os traumas e os recalques da alma, presentes e atuantes até mesmo nas pessoas aparentemente mais equilibradas, são comprimidos no interior da cela do corpo que se transforma numa caldeira perigosamente explosiva. Se não colocarmos nessa caldeira a válvula da humildade, para que ela possa aliviar a sua pressão através de uma visão mais ampla da vida, a explosão ocorrerá, fatalmente, mais cedo ou mais tarde. O intelectualismo vaidoso é uma espécie de resíduo que entope a válvula natural da intuição espiritual e apressa o momento fatal. Nossos instintos animais, nossas ambições desmedidas, nosso orgulho ferido, nossas pretensões de supremacia aceleram dia a dia o ritmo da pressão interna.
@@ -982,18 +839,17 @@ E quando caímos ante a explosão que devíamos evitar, não somos nada mais do 
 
 ---
 
-## 38 — Trova
+## 38
 
 
 
 ---
 
-## 39 — Um aparte da Vida
+## 39
 
 > CORAÇÃO DE MÃE  Uma página de “Il Cuore”,
 
-
-Escuta, alma querida,
+1 Escuta, alma querida,
 Se alguém te menospreza o coração
 Ou te amarfanha a vida
 A pancadas de injúria e de aflição…
@@ -1001,8 +857,7 @@ Acaso, se a pessoa
 A quem o teu amor mais profundo se eleva,
 É aquela, que te espanca ou te atraiçoa,
 Procurando envolver-te em lufadas de treva…
-
-Se o laço mais querido, porventura,
+2 Se o laço mais querido, porventura,
 Contra o teu próprio peito às súbitas se lança,
 A constringir-te em garras de amargura,
 Buscando aniquilar-te a mais bela esperança
@@ -1010,8 +865,7 @@ Não nutras no caminho a mágoa por escolta,
 Recobre a própria chaga entre bênçãos e preces,
 Não retenhas em farpas de revolta
 O mal que não mereces.
-
-Aquele, que te humilha,
+3 Aquele, que te humilha,
 Desconhece, ainda mesmo que o perdoes,
 Que articula no tempo trágica armadilha
 Que o colherá depois.
@@ -1019,8 +873,7 @@ Coração que te ofende, ignora, no fundo,
 Por mais nobre se diga e por nobre se acate,
 Que mais problemas soma a si mesmo no mundo,
 Ante as leis do resgate.
-
-Raciocinando, assim, sob a verdade pura,
+4 Raciocinando, assim, sob a verdade pura,
 Não troques fel por fel nem reproves em vão
 Quem, na Terra, ao invés de reproche ou censura,
 Precisa muito mais de olvido e compaixão.
@@ -1028,32 +881,25 @@ Lembra-te de Jesus… Ama, serve e auxilia,
 Não ajuntes contigo espinhos onde estás,
 E onde a vida te leve, hás de ser, dia a dia,
 Uma fonte de amor e uma bênção de paz.
-Este aparte do Além nos diálogos da Terra, como bem o classificou Maria Dolores, é um aparte da Vida. Os versos da poetisa nada mais fazem do que oferecer palavras de consolação à mãe aflita que, no Dia das Mães, chora a sua
-dracma perdida
-, o filho que se deixou transviar nos caminhos do mundo. O episódio relatado na carta de Chico Xavier é um aparte de angústia nos diálogos felizes do dia em que os filhos presenteiam as mães. É um fato social que se destaca entre os outros como um objeto, segundo a definição de Durkheim, ferindo a nossa sensibilidade como uma verdadeira cutilada.
-É por isso que a
-de Amicis, em sua fabulação poética, transforma-se em história na vivência de uma família brasileira. Esse coração de mãe, que abençoa o filho ingrato, mesmo depois de arrancado do peito, já não é um símbolo, mas um órgão vivo que pulsa em carne e sangue. A mãezinha sofredora, que buscou a consolação espiritual, com as mãos vazias dos bens terrenos, contando seu drama ao médium, foi atendida pela poetisa do Além. E esta soube indicar-lhe os rumos do comportamento certo, aprovando-lhe a conduta materna de perdão e amor.
-Note-se que a tonalidade poética da resposta é atenuada pelo esforço de consolar. Os recursos poéticos de Maria Dolores não brilham nesse poema, através das imagens habituais, porque a objetividade do fato social esmagou a sensibilidade e a imaginação da poetisa. Temos no caso um típico
-, um instante de terror kierkegardiano em que as Musas se calam diante da realidade existencial implacável. A poetisa emudece para que fale a compaixão.
+Este aparte do Além nos diálogos da Terra, como bem o classificou Maria Dolores, é um aparte da Vida. Os versos da poetisa nada mais fazem do que oferecer palavras de consolação à mãe aflita que, no Dia das Mães, chora a sua dracma perdida, o filho que se deixou transviar nos caminhos do mundo. O episódio relatado na carta de Chico Xavier é um aparte de angústia nos diálogos felizes do dia em que os filhos presenteiam as mães. É um fato social que se destaca entre os outros como um objeto, segundo a definição de Durkheim, ferindo a nossa sensibilidade como uma verdadeira cutilada.
+É por isso que a estória de Amicis, em sua fabulação poética, transforma-se em história na vivência de uma família brasileira. Esse coração de mãe, que abençoa o filho ingrato, mesmo depois de arrancado do peito, já não é um símbolo, mas um órgão vivo que pulsa em carne e sangue. A mãezinha sofredora, que buscou a consolação espiritual, com as mãos vazias dos bens terrenos, contando seu drama ao médium, foi atendida pela poetisa do Além. E esta soube indicar-lhe os rumos do comportamento certo, aprovando-lhe a conduta materna de perdão e amor.
+Note-se que a tonalidade poética da resposta é atenuada pelo esforço de consolar. Os recursos poéticos de Maria Dolores não brilham nesse poema, através das imagens habituais, porque a objetividade do fato social esmagou a sensibilidade e a imaginação da poetisa. Temos no caso um típico momento de angústia, um instante de terror kierkegardiano em que as Musas se calam diante da realidade existencial implacável. A poetisa emudece para que fale a compaixão.
 
 ---
 
-## 40 — Pais de família
+## 40
 
 > Chico Xavier conta-nos como foi recebida a mensagem abaixo: “Antes das tarefas programadas, muitos dos visitantes, notadamente dos mais jovens na vida física, solteiros e casados, faziam perquirições sobre as diretrizes dos bons espíritos às pessoas que tivessem pais ou mães de trato difícil vários companheiros destacando os obstáculos de que se sentem objeto. Os estudos realizados reportaram-se à
-> — questão n° 203
+> — questão nº 203
 
-Na Terra, habitualmente, esperamos encontrar, em nossos filhos, gênios de grandeza moral. De igual modo, quando na condição de filhos, desejamos possuir nos pais modelos intocáveis de virtude.
-Mais longamente internados na escola física vamos reconhecendo, a pouco e pouco, seja qual seja a posição que nos cabe no mundo, que somos o que somos, criaturas ainda incompletas a caminho da perfeição, unidas transitoriamente umas às outras, entre as paredes do lar ou nos compromissos domésticos para fins de resgate ou burilamento.
-Reflete nisso. E se a vida te entregou a pais ou mães difíceis, que não puderam ou não te podem apresentar, por agora, dia por dia, inalteravelmente uma certidão de irrepreensibilidade, não deixes de amá-los e respeitá-los mesmo assim.
-Há quem diga que não pediu aos genitores para nascer, entretanto, essa mesma criatura em rebeldia talvez seja aquela que, antes do berço, se lhes erigia em obsessor afetivo, a esmolar-lhes repetidamente uma nova existência na Terra, até que lhe cedessem aos anseios, integrando-se um com o outro, para que esse filho ou filha, hoje revoltados, atingissem o Plano físico tentando novas aquisições de progresso.
-Se sofres conflitos e ouves alguém a debitá-los na conta de traumas nascidos de aversão, desprezo, inveja, ódio, vinculação afetiva ou superproteção por parte dos pais difíceis que talvez tiveste ou que provavelmente ainda agora te acompanham, recorda que semelhantes estudos poderão expressar a verdade do ponto de vista terrestre, mas não te esqueças de que as leis da reencarnação estão funcionando.
-E que na posição de pais ou filhos somos seres em aperfeiçoamento, demandando a imortalidade, e que unicamente à custa de compreensão e respeito recíproco lograremos sanar os próprios desequilíbrios e desajustes.
-Ante pais ou mães complexos, auxilia-os, sem jamais reprová-los. Eles te pedem entendimento e apoio, a fim de acertarem com os próprios rumos, tanto quanto recebeste deles apoio e entendimento para alcançar a escola humana.
-Todos nós, os espíritos em evolução na Terra, por enquanto, nos achamos ainda muito longe das qualidades angélicas. E todos nós, sem exceção, precisamos de amor e do amparo do amor para viver, conviver e sobreviver.
-A
-pergunta 203
-de “O Livro dos Espíritos” refere-se aos elementos que os pais transmitem aos filhos. A resposta dos espíritos é esta: “Dão-lhes apenas a vida animal, pois a alma é indivisível. Um pai obtuso pode ter filhos inteligentes e vice-versa”. Acreditava-se que os pais transmitiam aos filhos alguma coisa de suas próprias almas. Os Espíritos refutaram essa tese.
+1 Na Terra, habitualmente, esperamos encontrar, em nossos filhos, gênios de grandeza moral. De igual modo, quando na condição de filhos, desejamos possuir nos pais modelos intocáveis de virtude.
+2 Mais longamente internados na escola física vamos reconhecendo, a pouco e pouco, seja qual seja a posição que nos cabe no mundo, que somos o que somos, criaturas ainda incompletas a caminho da perfeição, unidas transitoriamente umas às outras, entre as paredes do lar ou nos compromissos domésticos para fins de resgate ou burilamento.
+3 Reflete nisso. E se a vida te entregou a pais ou mães difíceis, que não puderam ou não te podem apresentar, por agora, dia por dia, inalteravelmente uma certidão de irrepreensibilidade, não deixes de amá-los e respeitá-los mesmo assim.
+4 Há quem diga que não pediu aos genitores para nascer, entretanto, essa mesma criatura em rebeldia talvez seja aquela que, antes do berço, se lhes erigia em obsessor afetivo, a esmolar-lhes repetidamente uma nova existência na Terra, até que lhe cedessem aos anseios, integrando-se um com o outro, para que esse filho ou filha, hoje revoltados, atingissem o Plano físico tentando novas aquisições de progresso.
+5 Se sofres conflitos e ouves alguém a debitá-los na conta de traumas nascidos de aversão, desprezo, inveja, ódio, vinculação afetiva ou superproteção por parte dos pais difíceis que talvez tiveste ou que provavelmente ainda agora te acompanham, recorda que semelhantes estudos poderão expressar a verdade do ponto de vista terrestre, mas não te esqueças de que as leis da reencarnação estão funcionando. 6 E que na posição de pais ou filhos somos seres em aperfeiçoamento, demandando a imortalidade, e que unicamente à custa de compreensão e respeito recíproco lograremos sanar os próprios desequilíbrios e desajustes.
+7 Ante pais ou mães complexos, auxilia-os, sem jamais reprová-los. Eles te pedem entendimento e apoio, a fim de acertarem com os próprios rumos, tanto quanto recebeste deles apoio e entendimento para alcançar a escola humana.
+8 Todos nós, os espíritos em evolução na Terra, por enquanto, nos achamos ainda muito longe das qualidades angélicas. E todos nós, sem exceção, precisamos de amor e do amparo do amor para viver, conviver e sobreviver.
+A pergunta 203 de “O Livro dos Espíritos” refere-se aos elementos que os pais transmitem aos filhos. A resposta dos espíritos é esta: “Dão-lhes apenas a vida animal, pois a alma é indivisível. Um pai obtuso pode ter filhos inteligentes e vice-versa”. Acreditava-se que os pais transmitiam aos filhos alguma coisa de suas próprias almas. Os Espíritos refutaram essa tese.
 As semelhanças de temperamento e tendências nas famílias não são explicadas no Espiritismo pela hereditariedade física, mas pela afinidade espiritual. Na reencarnação os Espíritos são atraídos aos pais em virtude de ligações do passado. As ligações positivas se reconhecem pela afinidade, as negativas pela repulsão. Pais e filhos que se ajustam são Espíritos afins, os que se repelem são credores e devedores que se reencontram.
 O espírito suficientemente evoluído para ter consciência de suas deficiências, logo que vence o prazo destinado à sua permanência na vida espiritual, pede para reencarnar. Liga-se, então, por afeto ou por remorso, a pessoas de seu convívio na vida anterior (ligações positivas ou negativas) pedindo-lhes que os aceitem como filhos. Cada nascimento na Terra implica decisões tomadas no mundo espiritual. Há os que pedem e os que imploram para nascer. Os que imploram são geralmente os que mais reclamam nesta vida, os que mais se desajustam em família, os mais rebeldes — porque mais necessitados.
 O conceito humano de que ninguém pediu para nascer é um erro produzido pela cegueira espiritual dos homens. Como esquecemos os antecedentes espirituais do nascimento — precisamente para podermos viver uma vida nova, sem lembranças perturbadoras — temos a impressão de que fomos enviados ao mundo à revelia do nosso desejo. E muitos acusam os pais de responsáveis pelo seu nascimento, como se os pais tivessem o poder de gerar quando querem e de escolher os Espíritos que devem nascer como seus filhos.

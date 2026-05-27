@@ -6,42 +6,47 @@
 
 ---
 
-##  — Informação
+## 
 
-Caro leitor.
-De começo estamos aqui materializando uma ideia que há muito trazíamos em formação.
-Ideia de fácil concepção mas de execução difícil.
-Sua importância não nos deixava tranquilos. Por vezes ensaiamos. Por vezes tentamos arregaçar as mangas e pô-la em prática. Mas como? quando? e em que ocasião?
-O ensejo chegou, Graças a Deus.
+Caro leitor. De começo estamos aqui materializando uma ideia que há muito trazíamos em formação. Ideia de fácil concepção mas de execução difícil. Sua importância não nos deixava tranquilos.
+Por vezes ensaiamos. Por vezes tentamos arregaçar as mangas e pô-la em prática. Mas como? Quando? E em que ocasião? O ensejo chegou, Graças a Deus.
 Estamos aí com cinquenta anos de amor e trabalho, mostrando que se pode amar, exemplificar e trabalhar.
 Este livro, na sua heterogeneidade, compele o leitor a analisar, interpretando os fatos, que companheiros e companheiras trouxeram, na demonstração do perfil de cada depoente.
 Atos e fatos ressaltados que deixaram as marcas de sofrimentos e alegrias na recuperação do saldo dos nossos débitos.
-Desbravando a selva das nossas imperfeições, os 150 livros trazidos nestes cinquenta anos, [até julho de 1977] como se fossem lâmpadas acesas a indicar-nos o caminho.
-Francisco Cândido Xavier, interpretou nesse tempo todo, os ensinamentos que hoje possuímos na estrada de nossa vida. Mostrou-nos a trilha do bom senso, transformando as rodovias das nossas obrigações, suaves é bem sinalizadas, estruturando em nossa consciência a segurança de chegarmos ao destino sãos e salvos.
+Desbravando a selva das nossas imperfeições, os 150 livros trazidos nestes cinquenta anos, [até julho de 1977,] como se fossem lâmpadas acesas a indicar-nos o caminho.
+Francisco Cândido Xavier, interpretou nesse tempo todo, os ensinamentos que hoje possuímos na estrada de nossa vida. Mostrou-nos a trilha do bom senso, transformando as rodovias das nossas obrigações, suaves e bem sinalizadas, estruturando em nossa consciência a segurança de chegarmos ao destino sãos e salvos.
 O melhor sabor deste livro, decorre da circunstância de podermos demonstrar a beleza contida num coração que ama Deus acima de tudo, que caminha com Jesus e no professorado da espiritualidade traz o BÊ-Á-BÁ para quem ensaia os primeiros passos em nossa Doutrina de Amor e Renovação.
 Por isso saímos à luta, fomos em busca de depoimentos, oferecendo aos seus autores a mais completa e absoluta liberdade. As revisões foram meramente gráficas e mesmo assim, antes que os originais fossem encaminhados para o IDEAL, Instituto Divulgação Editora André Luiz, solicitamos a cada depoente, sua rubrica com a devida firma reconhecida e na oportunidade a doação dos direitos autorais.
 Desta informação, resulta o propósito de demonstrar que este livro é autêntico e espontâneo quando apresenta ocorrências e pessoas.
 Acreditamos, com este volume em suas mãos, quase termos chegado a concretizar a célebre frase: Missão Cumprida.
 O nosso trabalho aí está, cabe a você caro leitor julgar-nos com o seu discernimento.
 Em última instância, esperamos merecer lhe a benevolência da aprovação.
-São Paulo, 8 de julho de 1977.
 
 ---
 
-## 1 — Yolanda Cezar
+## 1
 
-> “Ensinamentos que não adquirimos em cursos…”
-> — “Ensinamentos que não adquirimos em cursos…”
+1 Se tens sede de Deus, Renova-te e caminha.
+2 Cria e recria o bem, Não busques destruir.
+3 Procura abençoar E nunca maldizer.
+4 Empenha-te a servir, Nunca a menosprezar.
+5 Toda senda ao Mais Alto É calvário a subir.
+6 Sofre, mas serve e ama. E acharás Deus em ti.
 
-Com a passagem de meu único filho homem,
-n
-numa circunstância dolorosa, transtornada, fui assistida por uma médium do Lar do Amor Cristão, entidade que trabalha em prol da criança e dos necessitados, aqui mesmo em São Paulo.
+---
+
+## 1
+
+> “… ensinamentos que não adquirimos em cursos…”
+> — “… ensinamentos que não adquirimos em cursos…”
+
+Com a passagem de meu único filho homem, numa circunstância dolorosa, transtornada, fui assistida por uma médium do Lar do Amor Cristão, entidade que trabalha em prol da criança e dos necessitados, aqui mesmo em São Paulo.
 Maria Acácia Maciel Cassanha veio dar-me assistência através de passes, reconfortou-me bastante e recomendou-me que buscasse Chico Xavier, pois lá encontraria sustentação maior para amenizar meu sofrimento. Deu-me muita orientação e explicações, mas eu estava muito confusa.
 Era católica e não entendia nada de Espiritismo. Pedi-lhe que me desse uma carta de apresentação ao Chico e explicasse a minha dor. Guardei essa carta para viajar na primeira oportunidade.
 Sofria cada vez mais e, numa sexta-feira cedo, desesperada, pedi ao meu marido que me levasse ao Chico Xavier. Que fôssemos naquele instante mesmo. E assim fizemos.
 De Uberaba, só sabíamos que ficava em Minas Gerais; assim, acabamos viajando pela Fernão Dias e fomos ter em Belo Horizonte. Lá ficamos sabendo a localização certa. Mas nada importava. Queria chegar em Uberaba.
 Chegamos no sábado pela manhã. Realizava-se uma reunião que Chico costumava fazer nesse horário. Não conhecia ninguém, inclusive o Chico. Perguntei a uma pessoa que preparava café, quem era Chico Xavier. Fui até ele com a carta que Acácia me havia dado. Mesmo sem ler, disse.
-“— Minha filha, ainda é muito cedo para aquilo que você procura. Mas volte aqui às 7:00 horas da noite que conversaremos”.
+— “Minha filha, ainda é muito cedo para aquilo que você procura. Mas volte aqui às 7:00 horas da noite que conversaremos.”
 Estava tão revoltada que não sai do carro até anoitecer. Não tinha fé, não conhecia o Espiritismo e, na minha grande dor, achava que todas as pessoas que ali estavam, tinham obrigação de conhecer meu sofrimento. As palavras trocadas com ele, não chegaram a me comover.
 Na hora marcada entrei no Centro. Não tive a humildade que todos demonstravam, esperando pacientemente, em fila, para conversar com ele.
 Sentei e aguardei. Percebia que Chico olhava muito para o meu lado, enquanto atendia humildemente as pessoas. Eu pensava: “Será que ele está olhando para mim?”
@@ -84,33 +89,21 @@ Isso é trabalho, é amor, é carinho. É Francisco Cândido Xavier.
 
 ---
 
-## 1 — Encontro
+## 2
 
-
-Se tens sede de Deus,
-Renova-te e caminha.
-
-Cria e recria o bem,
-Não busques destruir.
-
-Procura abençoar
-E nunca maldizer.
-
-Empenha-te a servir,
-Nunca a menosprezar.
-
-Toda senda ao Mais Alto
-É calvário a subir.
-
-Sofre, mas serve e ama.
-E acharás Deus em ti.
+1 Abraça no dever O caminho mais alto.
+2 És livre na medida Dos encargos que cumpras.
+3 Fazer o que se deve É o programa do bem.
+4 Sem prisão que o retenha O vapor nada move.
+5 O próprio Sol nos Céus Transita sob leis.
+6 Queres viver com Deus? Disciplina é o lugar.
 
 ---
 
-## 2 — Wady Abrahão
+## 2
 
-> “Por onde eu passar quero agradecer…”
-> — “Por onde eu passar quero agradecer…”
+> “… Por onde eu passar quero agradecer…”
+> — “… Por onde eu passar quero agradecer…”
 
 Em meados de setembro de 1973, Chico, em noite de autógrafos no Centro Espírita Perseverança, chegou no momento que mais necessitávamos de conforto.
 Pessoa muito amiga e, conhecedora do nosso problema, sugeriu a Áxima, minha filha, que procurássemos Chico Xavier. Ouvia muita coisa boa e bonita a seu respeito. Ela, temerosa, não sabia como nos falar, pois católicos que éramos e sem conhecermos nada de Espiritismo, achou que não aceitaríamos a sugestão. Ao contrário, Jandira, minha esposa, numa ansiedade atroz, queria a todo custo encontrar algo que nos tirasse daquele sofrimento. Havíamos até combinado em por termo à nossa existência. Dentro do meu descontrole, cheguei a dormir dentro do jazigo com meu filho.
@@ -118,12 +111,12 @@ Pessoa muito amiga e, conhecedora do nosso problema, sugeriu a Áxima, minha fil
 No meu sofrimento não admitia e não aceitava nada. Além de que não tinha interesse em dialogar com ninguém. Devido à insistência dos meus familiares, cedi ao convite e fui ao referido centro.
 Com a experiência adquirida na minha juventude e no transcorrer de minha vida, em vista de minha mãe ter estado doente por mais de 13 anos, vi-me obrigado a percorrer e procurar tudo que fosse possível para restabelecê-la. Fui a lugares inimagináveis. Coisas absurdas me apareceram.
 Frequentei ano e meio o Círculo Esotérico, na comunhão de pensamentos. Fui congregado mariano, por demais devotado, e acima de tudo tenho um espírito muito observador. Quando na presença de Chico, vi naquela criatura a inocência de um ser puro. Tanto é que a impressão de Jandira, era de estar na presença de uma joia muito singela e rara para os nossos dias. Cumprimentou-nos, autografou seu livro e ofereceu um botão de rosa para minha esposa.
-Não tivemos tempo para conversar. Compreendi que todos tinham os mesmos desejos de estar em sua presença. Passado algum tempo, nossa vizinha Sra. Esmeralda Cerboncini, em comentários com minha filha, mostrou-lhe a mensagem de seu filho Charles, psicografada por Chico Xavier e publicada no livro
-Entre Duas Vidas
-, edição CEC.
+Não tivemos tempo para conversar. Compreendi que todos tinham os mesmos desejos de estar em sua presença. Passado algum tempo, nossa vizinha Sra. Esmeralda Cerboncini, em comentários com minha filha, mostrou-lhe a mensagem de seu filho Charles, psicografada por Chico Xavier e publicada no livro Entre Duas Vidas, edição CEC.
 Orientou-nos. Caso fôssemos procurá-lo, não nos preocupássemos em querer notícias no mesmo dia, pois recebeu sua mensagem após inúmeras viagens.
 Áxima trouxe-nos a mensagem e despertou-me o desejo de ir a Uberaba em busca de Francisco Cândido Xavier. Fomos em 23.11.1973, leigos totalmente do que se passava, ignorávamos como proceder.
-Estranhamos sua maneira de psicografar, nunca havíamos visto. Nesse dia quando fomos ao encerramento dos trabalhos, Chico chamou pelo nome : Áxima, Áxima… Jandira adiantou-se a todos, respondeu: “Sr. Francisco, Áxima é minha filha. Viemos aqui porque perdi meu filho”. Carinhosamente Chico retrucou: — Não, a senhora não perdeu o filho. Seu filho é um apóstolo de Jesus.
+Estranhamos sua maneira de psicografar, nunca havíamos visto. Nesse dia quando fomos ao encerramento dos trabalhos, Chico chamou pelo nome: Áxima, Áxima…
+Jandira adiantou-se a todos, respondeu: — “Sr. Francisco, Áxima é minha filha. Viemos aqui porque perdi meu filho.”
+Carinhosamente Chico retrucou: — Não, a senhora não perdeu o filho. Seu filho é um apóstolo de Jesus.
 Mesmo assim, fiquei no firme propósito que nenhum de nós falasse ou comentasse algum ponto sobre o desencarne de Wadizinho, com qualquer pessoa. Muito menos com Chico. Meus familiares, fiz questão de que ficassem junto a mim, para que pudesse fiscalizá-los. No hotel, coloquei o telefone perto da minha cama, sem que percebessem meu intento, pois achava que poderiam telefonar para alguém. Tomei todas as providências para que não houvesse o mínimo contato.
 No dia seguinte lá estávamos novamente. Sentamos e aguardamos. Comentava-se o Evangelho. Chico psicografou. Quando terminou e leu a mensagem ficamos muito surpresos. Wadizinho trazia sua mensagem. Seu conteúdo era todo esperança, dissipava a saudade, mostrava-nos a realidade.
 Pedia que transmitíssemos seus agradecimentos aos colegas do Colégio e do grupo da Comunidade Unida a Cristo, na qual era coordenador.
@@ -134,34 +127,16 @@ Por onde eu passar quero agradecer sempre ao mestre Jesus e o seu enviado ao Pla
 
 ---
 
-## 2 — Disciplina
+## 3
 
 
-
-Abraça no dever
-O caminho mais alto.
-
-És livre na medida
-Dos encargos que cumpras.
-
-Fazer o que se deve
-É o programa do bem.
-
-Sem prisão que o retenha
-O vapor nada move.
-
-O próprio Sol nos Céus
-Transita sob leis.
-
-Queres viver com Deus?
-Disciplina é o lugar.
 
 ---
 
-## 3 — José Henrique da Veiga Jardim
+## 3
 
-> “Um elemento impar…”
-> — “Um elemento impar…”
+> “… um elemento ímpar…”
+> — “… um elemento ímpar…”
 
 Com muitos problemas familiares, fomos atraídos a procurar o Espiritismo, para ver se podíamos minorizar as nossas dificuldades.
 Tempos depois dessa adesão, tivemos o desejo de procurar o Chico.
@@ -186,9 +161,9 @@ Disse-lhe que não; ele era do tempo dos meus pais. Tinha conhecimento de alguma
 Esta mensagem causou grande espécie, por ter sido psicografada na ortografia antiga.
 Outro ponto que causou espécie, o povo que se encontrava no local não sabia de quem se tratava, admirando-se, visto que a única pessoa que a conhecia era eu mesmo.
 Depois terminou o trabalho, ficando marcada uma nova data entre Chico e Consuelo.
-Em 08.06.1975 chegou a Goiânia, em seguida foi à minha residência, à Rua 24 n.° 15 — Centro.
+Em 08.06.1975 chegou a Goiânia, em seguida foi à minha residência, à Rua 24 n.º 15 - Centro.
 Sabendo desse dia, perguntei ao Chico se poderia convidar alguns amigos para recebê-lo, no que fui autorizado. Às 8 horas da noite encontravam-se em minha casa cerca de vinte senhores. Apresentei-os sem dizer quem eram, omitindo os seus cargos na vida pública e profissional.
-Alguns deles estava acompanhados de suas respectivas esposas. À exceção de três pessoas, quase todos formados em direito, dentre eles Desembargadores, Procuradores de Estado, etc.
+Alguns deles estavam acompanhados de suas respectivas esposas. À exceção de três pessoas, quase todos formados em direito, dentre eles Desembargadores, Procuradores de Estado, etc.
 Chamava todos pelos nomes e respectivos títulos. Realmente, não havia trocado qualquer palavra com Chico.
 Conversou com todas essas pessoas, sofrendo verdadeira chuva de perguntas. Nesse meio havia espíritas, católicos e até um casal que se dizia descrente, ateu.
 Assim que terminou a palestra, estávamos acima das 22 horas, quando perguntei da possibilidade de se fazer uma pequena reunião, obtendo imediatamente resposta afirmativa. Fizemos os preparativos, sentou-se à cabeceira da mesa e foi convidando um por um para tomar parte do trabalho.
@@ -197,8 +172,7 @@ O trabalho foi iniciado com prece feita pela Sra. Maria Antonieta, do Centro Esp
 Notei que o desembargador não desviava seu olhar um instante sequer daquela máquina espiritual. Terminada a psicografia deu-se a leitura.
 A mensagem era do Coronel Eugênio Rodrigues Jardim, que foi Governador do Estado de Goiás, nascido em Goiás no dia 06.10.1856 e desencarnado em 27.07.1926, quando Senador da República, vitimado por um desastre no Rio de Janeiro.
 O comunicante era sobrinho de D. Joaquina Porphira Rodrigues Jardim.
-Quando nos preparávamos para as despedidas, aproximou-se o desembargador Maximiano e disse:
-— “Zé, como é que eu fico agora?”
+Quando nos preparávamos para as despedidas, aproximou-se o desembargador Maximiano e disse: — “Zé, como é que eu fico agora?”
 Tornou-se um grande adepto da Doutrina.
 No dia seguinte, às 9 horas, fomos a Goiás. Antes, porém, na minha casa, falou-me que iríamos para uma outra missão.
 Nessa data havia desencarnado o Dr. Lincoln Caiado de Castro, primo de Consuelo. Fomos à casa da viúva, Sra. Comary Caiado de Castro. Lá Chico observou várias entidades desencarnadas há anos, que levavam seu preito naquele momento. Acompanhamos o enterro e voltamos a Goiânia. Foi quando percebi qual era a outra missão.
@@ -207,31 +181,37 @@ Depois dessa terceira mensagem, programei ir a Goiás com minha senhora, mas alg
 No hotel disse à Lucy: você vai receber uma mensagem de seu pai, trazia dentro de mim uma certeza muito grande. Mas Lucy respondeu negativamente, achando que não merecia essa dádiva.
 Já descansados da viagem, fomos à reunião no Grupo Espírita da Prece, isto na manhã do sábado, 13.12.1975.
 Chegou-nos, felizmente, a mensagem de meu sogro, trazendo pontos que só eu e Lucy conhecíamos.
-Após todos esse contatos, passamos a levar uma vida completamente diferente.
+Após todos esses contatos, passamos a levar uma vida completamente diferente.
 Estamos hoje empenhados para levar avante a Instituição “LAR DA FRATERNIDADE”, aliás, lembrança do Chico Xavier e, graças a Deus, já registramos o Estatuto, tendo a obra sido reconhecida pelo executivo desta cidade como Entidade de Utilidade Pública. Pretendemos muito em breve iniciar as atividades lá.
 Dentro de tudo que acabamos de levar aos leitores amigos e pacientes, tivemos ainda vários encontros e manutenção de correspondência onde cada vez mais nos afinam os sentimentos.
-Com tudo isso, podemos perceber que o Chico para nós representa, dentro da semeadura do trabalho cristão, um elemento impar a nos impulsionar na exemplificação do Evangelho de Jesus.
+Com tudo isso, podemos perceber que o Chico para nós representa, dentro da semeadura do trabalho cristão, um elemento ímpar a nos impulsionar na exemplificação do Evangelho de Jesus.
 Tenho-o como um grande amigo e respeitoso no meu ambiente familiar, presenteando-nos seu coração em matéria e espírito.
 
 ---
 
-## 3 — Oferenda
+## 4
 
-
+1 Guarda contigo a paz. Deus permanece em nós.
+2 Se sofres, não te queixes. Deus não nos abandona.
+3 Se alguém te desprezou, Deus não te desampara.
+4 Daquilo que precises Deus fará suprimento.
+5 Entretanto, não pares, Nem deixes de servir.
+6 Age em favor de alguém. Deus zelará por ti.
 
 ---
 
-## 4 — Lélia de Amorim Nogueira
+## 4
 
-> “Mediunidade sem dedicação, sem amor e trabalho, não levará a nada…”
-> — “Mediunidade sem dedicação, sem amor e trabalho, não levará a nada…”
+> “… Mediunidade sem amor e trabalho não levará a nada…”
+> — “… Mediunidade sem amor e trabalho não levará a nada…”
 
 Há uns trinta anos mais ou menos, Nayá Siqueira Amorim, minha mãe, já visitava o Chico em Pedro Leopoldo. Trazia lindos casos e ensinamentos que nos alegravam muito.
 Gostava muito de ouvir mamãe pela sua peculiaridade em nos transmitir, entusiasmada, os acontecimentos quando de suas viagens a Pedro Leopoldo.
 Apaixonava-me por tudo aquilo, apesar de trazer em meu coração a orientação católica que buscava nas missas e catecismos.
 Devido à alegria contagiante de mamãe, comecei a ler os livros de Chico e, a cada um que lia, encantava-me cada vez mais.
 Nos caminhos de nossa vida, estamos presos aos débitos do passado, trazendo-nos as promissórias para serem cobradas no vencimento. O dia da cobrança chegou com o inevitável acidente que ocasionou o desencarne do meu marido e mais dois companheiros que estavam conosco.
-Curiosamente, dois dias após o acidente, mamãe recebeu uma carta de Chico que em determinado trecho dizia o seguinte: — Dona Nayá, a Sra. Esmeralda esteve aqui e confiou-me o seguinte recado: — “Diga à dona Nayá que os passeios para chupar jabuticabas nunca deram certo. Dona Nayá sabe porque estou dizendo isso”. Chico, sem entender, perguntou: — “Este recado faz sentido?”
+Curiosamente, dois dias após o acidente, mamãe recebeu uma carta de Chico que em determinado trecho dizia o seguinte: — Dona Nayá, a Sra. Esmeralda esteve aqui e confiou-me o seguinte recado: “Diga à dona Nayá que os passeios para chupar jabuticabas nunca deram certo. Dona Nayá sabe porque estou dizendo isso.”
+Chico, sem entender, perguntou: — “Este recado faz sentido?”
 Tanto fazia, que o acidente ocorrera exatamente quando estávamos a caminho de um sítio, como costumeiramente fazíamos, para ir chupar jabuticabas.
 Apenas para esclarecimento dos amáveis leitores, a Sra. Esmeralda Bittencourt era amiga de mamãe, hoje encontra-se no Plano espiritual.
 Do acidente, fiquei quase um ano em cadeiras de rodas. O médico, achando que não haveria mais condições para eu andar, resolveu dar-me alta. Em vista disso, resolvi ir ao Rio de Janeiro fazer um tratamento de recuperação na BBR. Assim fui melhorando.
@@ -245,48 +225,39 @@ Em outras vezes, comecei a ver pontos luminosos que subiam e desciam em torno do
 Perdoem-me os leitores a interrupção na sequência do nosso assunto, mas, continuando aqueles momentos felizes na presença do Chico, este convidou-nos para a prece no dia seguinte cedo. Era com um número menor de pessoas e não havia receituário, a menos que houvesse necessidade.
 Nessa manhã tivemos uma grande alegria, pois nos chegou a primeira mensagem de papai. Mamãe reanimou-se. Atravessava uma situação muito séria, com problemas de minha irmã que há trinta anos era freira e se via obrigada a deixar sua missão, por motivos alheios à sua vontade. Isso magoou-a muito, pois essa tarefa ia de encontro com seus sentimentos. Hoje, graças a Deus, reintegrou-se na vida normal. Papai reanimava-a.
 Para mamãe foi uma prova real de que quem estava ali escrevendo era papai. E não foi só isso. Outros assuntos nos esclarecia. Informava que meu marido melhorava dia a dia.
-A satisfação era muito grande, pois precisávamos daquele conforto. Aqueles momentos pareciam inacabados, afastando-nos todo o sofrimento. Percebi que papai
-e Alvicto,
-meu esposo, estavam sob proteção total dos amigos espirituais. Conscientizei-me de que deveria trabalhar muito para ajudar cada vez mais meu marido, pois sabia perfeitamente que após sua recuperação estaria trabalhando em meu auxílio e dos meus.
+A satisfação era muito grande, pois precisávamos daquele conforto. Aqueles momentos pareciam inacabados, afastando-nos todo o sofrimento. Percebi que papai e Alvicto, meu esposo, estavam sob proteção total dos amigos espirituais. Conscientizei-me de que deveria trabalhar muito para ajudar cada vez mais meu marido, pois sabia perfeitamente que após sua recuperação estaria trabalhando em meu auxílio e dos meus.
 Graças a Deus hoje sinto-me feliz, com o coração cheio de alegria, sei que Alvicto está conosco na cooperação do bem comum.
 A nossa alegria é constante, pois, quando sentimos saudades, recorremos às mensagens e nos reanimamos com as palavras que nos dão forças para o trabalho. Não que nos faltem outras fontes de sustentação, mas ali estão representadas as presenças de suas imagens. Nesses momentos, mamãe recorda os tempos de Pedro Leopoldo e nos conta alguns casos como o que se segue:
 “Certa feita, estava no hotel em Pedro Leopoldo e como os trabalhos terminaram altas horas da noite, aproveitou um pouco mais o dia seguinte para descansar. Escutou bater à porta e não se importou, concluindo que não era com ela, pois ninguém a conhecia na cidade, a não ser o Chico. Continuou deitada, pensando, inclusive, que fosse no quarto ao lado. Tornaram a bater e a chamaram pelo nome. Levantou-se rapidamente, e verificou tratar-se de Chico Xavier.
 — “Preciso da senhora, dona Nayá. Tem um senhor aqui no hotel passando mal. Veio do Rio de Janeiro e está com problemas muito sérios. Ajude-me a levá-lo para casa. Não quero que lhe aconteça mal maior. Veio de muito longe para visitar-me e preciso cuidar dele.”
 Colocaram o homem num carro e foram à sua casa. Trabalharam com preces e passes até que ele melhorasse. Voltaram ao hotel.
 Tempos depois, mamãe havia esquecido do ocorrido mas, na presença do Chico, lembrou-se e perguntou-lhe: — “Como vai aquele senhor do Rio?
-— Voltou para casa bem melhor”.
+— Voltou para casa bem melhor.”
 Há pouco tempo em visita a Goiânia, Chico passou rapidamente em casa. Mamãe perguntou-lhe novamente por aquele senhor, e feliz, soube que ele está gozando boa saúde.
 Pois é, meus amigos, com tudo o que nos aconteceu pudemos observar que a mediunidade sem dedicação, sem amor e trabalho, não levará a nada. E Chico aí está para estimular-nos com seu exemplo de amor e disciplina no seguimento desta Doutrina que emana de Deus, onde encontramos as chances do trabalho redentor que nos levará aos caminhos certos na pureza do sentimento, envolvendo-nos de amor ao Evangelho de Jesus.
 
 ---
 
-## 4 — Permuta
+## 5
 
-Guarda contigo a paz.
-Deus permanece em nós.
-Se sofres, não te queixes.
-Deus não nos abandona.
-Se alguém te desprezou,
-Deus não te desampara.
-Daquilo que precises
-Deus fará suprimento.
-Entretanto, não pares,
-Nem deixes de servir.
-Age em favor de alguém.
-Deus zelará por ti.
+1 Muitos talvez se foram De teu próprio caminho.
+2 Viste muitos partir Procurando outros rumos.
+3 Criaturas amadas Relegaram-te a sós.
+4 Segues dificilmente No barco em que te encontras.
+5 Entretanto, não fujas Do teu ponto de ação.
+6 Mantém a fé, não temas, Serve e fica com Deus.
 
 ---
 
-## 5 — Pedro Biondi
+## 5
 
-> “O entendimento que nos alerta…”
-> — “O entendimento que nos alerta…”
+> “… o entendimento que nos alerta…”
+> — “… o entendimento que nos alerta…”
 
 Em Tarde de Autógrafos realizada pelo GRUPO ESPÍRITA EMMANUEL, em São Bernardo do Campo, tomei conhecimento através de noticiários, que Francisco Cândido Xavier estaria autografando seus livros.
 Apesar de frequentar esporadicamente algumas reuniões em Centros Espíritas, nunca tive a oportunidade de vê-lo e falar-lhe.
 Suscitou-me, então, vontade de conhecê-lo e dirigi-me ao local de autógrafos. Em vista da grande afluência de pessoas, as tarefas adentravam à madrugada. Quando pude cumprimentar Chico Xavier, impressionei-me. Aquele homem tinha o poder de transmitir aos presentes muita serenidade e muito amor. O que presenciava preenchia meu coração de alegria. Fiquei até o final, que se prolongou até às seis horas do dia seguinte.
-Depois disso, interessei-me e procurava saber, dentro do meio espírita, onde Chico Xavier daria novas tardes de autógrafos. Algum tempo depois, quando passávamos nossas férias em Santos, minha filha Flávia Canzi Biondi,
-subitamente, desencarnara em consequência de pneumonia. Ficamos numa situação dolorosa.
+Depois disso, interessei-me e procurava saber, dentro do meio espírita, onde Chico Xavier daria novas tardes de autógrafos. Algum tempo depois, quando passávamos nossas férias em Santos, minha filha Flávia Canzi Biondi, subitamente, desencarnara em consequência de pneumonia. Ficamos numa situação dolorosa.
 Minha esposa, inconformada, sofria muito. Aflito, procurei por todos os meios encontrar algum lenitivo que amenizasse a sua dor.
 Uma amiga, a senhora Irene Buzon, convidou Margarida, minha esposa, a tomar alguns passes no Centro Espírita Irmã Clara, onde pôde conhecer alguns momentos de paz. Passamos a frequentar essa casa de oração e, estreitando amizade com o dirigente da mesma, senhor Túlio Agnelli, recebemos seu amável convite para visitar Chico Xavier, pois Túlio mantinha com o médium profundas relações de amizade.
 Desse momento em diante, posso dizer, meu íntimo começou a cobrar-me. Margarida, um pouco mais refeita e serena, incentivou-me bastante. Assim, acabamos viajando para Uberaba.
@@ -301,16 +272,17 @@ Chico percebeu, olhou-me com muita ternura e enviou um recado confortador no ver
 Ao receber a foto com o bilhete, chorava e sorria de felicidade.
 Aconteceram outras viagens e, numa delas houve um fato interessante. Um senhor, para minha surpresa, me agradecia pela execução do trabalho de mensagens de seu filho. Chamava-me de Rubens e continuava agradecendo. Estranhei tudo aquilo. Quando terminou, disse-lhe que não era a pessoa que ele pensava. Desculpou-se e voltou para junto de seu pessoal.
 Mais tarde tornamos a nos encontrar, mas desta vez, num abraço de felicidade, pois seu filho, ao transmitir sua mensagem, trazia um recado de Flavinha.
-Intrigado e curioso, o senhor Wady Abrahão, este é o seu nome, não entendia como podia ter havido aquela confusão conosco. Pediu ao Chico que nos esclarecesse. Este respondeu: “Wadyzinho estava ao seu lado, juntamente com a filha do Pedro e, quando ele passava, ela vendo-o, foi ao encontro do pai. Seu filho a acompanhou, levando-o consigo”
+Intrigado e curioso, o senhor Wady Abrahão, este é o seu nome, não entendia como podia ter havido aquela confusão conosco. Pediu ao Chico que nos esclarecesse.
+Este respondeu: — “Wadyzinho estava ao seu lado, juntamente com a filha do Pedro e, quando ele passava, ela vendo-o, foi ao encontro do pai. Seu filho a acompanhou, levando-o consigo.”
 Me perdoem, prezados leitores, mas abaixo transcrevo o bilhete de minha filha, que está inserido no contexto do livro “Somos Seis” da Editora GEEM.
-“Temos aqui uma companheirinha que nos recomenda transmitir muito carinho e saudade ao papai, nosso irmão Pedro Biondi. É a nossa Flavinha cuja solicitação devo satisfazer, embora sejam muitos os nossos amigos daqui desejosos de se fazerem notados”
-Fizemos mais viagens e com a graça de Deus, em 19-09-1975, Flavinha trouxe-me sua mensagem.
+“Temos aqui uma companheirinha que nos recomenda transmitir muito carinho e saudade ao papai, nosso irmão Pedro Biondi. É a nossa Flavinha cuja solicitação devo satisfazer, embora sejam muitos os nossos amigos daqui desejosos de se fazerem notados.”
+Fizemos mais viagens e com a graça de Deus, em 19.9.1975, Flavinha trouxe-me sua mensagem.
 Estava conversando com alguns amigos, quando Chico voltava do receituário para a continuidade dos trabalhos. Naquele momento, meu coração calçado na esperança e choroso na saudade, revigorava-se e forçava-me nas preces rogar a Deus a mensagem de minha filha.
 Margarida, nos seus afazeres do lar, não pôde acompanhar-me. Viajei com o Sr. José Gonçalves. Todos os que acompanham o trabalho maravilhoso da Casa Transitória de São Paulo, sabem de quem falamos.
 Dando continuidade às tarefas, Chico psicografava. Quando acabou, o Sr. Weaker Batista, que acompanha os trabalhos com Chico, chamou-me para que ouvisse a mensagem. Nesse momento, corria em minhas faces as lágrimas de um pai, que exteriorizava todo o carinho contido no coração inundado de saudade.
 Lembrava-me de Margarida. Imaginava a sua felicidade quando lhe chegassem aquelas notas sonoras que vinham aos meus ouvidos como hinos de amor e paz.
 Estava perplexo. Flavinha discorria na apresentação de cada familiar, como se estivessem ali, desfilando em passarela. Eram seus avós, suas irmãs, minha mãe que desencarnara em 1950 e amigos outros.
-Não sabia como agradecer ao Chico. Abraçava-o num transporte de júbilo imenso. Em vista disso, Margarida fortaleceu-se ainda mais, e eu, por minha vez, compreendi: Minha filha está conosco e com mamãe que a amparou no seu desencarne”.
+Não sabia como agradecer ao Chico. Abraçava-o num transporte de júbilo imenso. Em vista disso, Margarida fortaleceu-se ainda mais, e eu, por minha vez, compreendi: Minha filha está conosco e com mamãe que a amparou no seu desencarne.”
 Hoje, a certeza faz-me levar conforto a outros irmãos que sofrem o que já sofremos.
 Sentimos saudade, é lógico. Lembramos os momentos felizes passados juntos e sua imagem está gravada em nossos corações.
 Mas acima de tudo, agradecemos a Deus pela dádiva que nos concedeu pelas mãos de Francisco Xavier.
@@ -320,45 +292,29 @@ Esse homem, podemos dizer assim, pois hoje o conhecemos e sabemos de sua modést
 
 ---
 
-## 5 — Fica com Deus
+## 6
 
-
-Muitos talvez se foram
-De teu próprio caminho.
-
-Viste muitos partir
-Procurando outros rumos.
-
-Criaturas amadas
-Relegaram-te a sós.
-
-Segues dificilmente
-No barco em que te encontras.
-
-Entretanto, não fujas
-Do teu ponto de ação.
-
-Mantém a fé, não temas,
-Serve e fica com Deus.
+1 A fortuna somente Pouco dirá de ti.
+2 Tão-só a inteligência Não te revelará.
+3 O poder que desfrutas Raras vezes te expõe.
+4 A palavra que dizes Não te mostra de todo.
+5 Tudo o que tens, no entanto, Vale no bem que faças.
+6 O próximo a quem serves Fala de ti a Deus.
 
 ---
 
-## 6 — Maria Luiza Vieira
+## 6
 
-> “O farol que me iluminou…”
-> — “O farol que me iluminou…”
+> “… o farol que me iluminou…”
+> — “… o farol que me iluminou…”
 
 Cesar meu filho mais velho, voltando de Goiânia onde fora passar algumas semanas na fazenda de seu pai, trouxera um revólver.
-Chegando a São Paulo, guardou a arma no guarda-roupa de sua avó. Em 30.11.1976, Cesar, como estagiário da Marinha, procurava seu fardamento. Não encontrando seus sapatos, Carlinhos
-n
-dispôs-se a ajudá-lo na procura. Dirigiu-se ao quarto de sua avó, e ao abrir o armário, viu o par de sapatos e o revólver que Cesar guardara.
+Chegando a São Paulo, guardou a arma no guarda-roupa de sua avó. Em 30.11.1976, Cesar, como estagiário da Marinha, procurava seu fardamento. Não encontrando seus sapatos, Carlinhos dispôs-se a ajudá-lo na procura. Dirigiu-se ao quarto de sua avó, e ao abrir o armário, viu o par de sapatos e o revólver que Cesar guardara.
 Pediu ao irmão se podia mostrá-lo a algumas colegas que ali estavam revisando pontos escolares.
 Cesar concordou. Retirou as balas e entregou-lhe. Nesse meio tempo foi barbear-se.
 Carlinhos, mostrando a arma para as moças, carregou-a para ver como ficavam as balas no tambor. Feito isso, retirou-as novamente. Infelizmente não percebera que uma delas havia ficado. Começou a brincar.
-Apontando o revólver para sua cabeça, pediu à colega para puxar o gatilho, que não tinha perigo. A menina assustou-se com a brincadeira, dizendo-lhe:
-— Não, Carlinhos, nunca peguei em uma arma, não brinque assim que é perigoso.
-Em seguida, sorrindo, tornou a colocar o revólver na cabeça e voltou a dizer:
-— Quer ver como não há perigo, está sem balas, e acionou o gatilho. Lamentavelmente a bala ali se encontrava. Cesar ouvindo o tiro, apressadamente tentou socorrê-lo. Colocou-o no sofá, apanhou uma Bíblia que estava perto e pediu ao irmão que rezasse. Carlinhos abriu os olhos, sorriu e tornou a fechá-los.
+Apontando o revólver para sua cabeça, pediu à colega para puxar o gatilho, que não tinha perigo. A menina assustou-se com a brincadeira, dizendo-lhe: — Não, Carlinhos, nunca peguei em uma arma, não brinque assim que é perigoso.
+Em seguida, sorrindo, tornou a colocar o revólver na cabeça e voltou a dizer: — Quer ver como não há perigo, está sem balas, e acionou o gatilho. Lamentavelmente a bala ali se encontrava. Cesar ouvindo o tiro, apressadamente tentou socorrê-lo. Colocou-o no sofá, apanhou uma Bíblia que estava perto e pediu ao irmão que rezasse. Carlinhos abriu os olhos, sorriu e tornou a fechá-los.
 Cesar ficou transtornado. Traumatizado, não dormia mais. Culpava-se pelo acidente, precisando ser hospitalizado com muitos cuidados. Precisei também entrar em tratamento médico-hospitalar.
 Sem saber como passava meu filho Cesar, internado em outro hospital, roguei ao médico algum esclarecimento sobre seu estado e, por telefone mesmo, a resposta foi: se acreditasse em Deus, que orasse muito.
 Com todos esses acontecimentos e a orientação recebida, rezei muito, fazendo novenas, trezenas, etc. Minha sogra, dizendo ter feito melhor, escreveu a Francisco Cândido Xavier.
@@ -381,33 +337,21 @@ Nossa responsabilidade no falar está intrinsecamente relacionada com a responsa
 
 ---
 
-## 6 — Notícia
+## 7
 
-
-A fortuna somente
-Pouco dirá de ti.
-
-Tão-só a inteligência
-Não te revelará.
-
-O poder que desfrutas
-Raras vezes te expõe.
-
-A palavra que dizes
-Não te mostra de todo.
-
-Tudo o que tens, no entanto,
-Vale no bem que faças.
-
-O próximo a quem serves
-Fala de ti a Deus.
+1 Não procures repouso Em momentos vazios.
+2 Inércia simplesmente É começo de angústia.
+3 Provação superada Faz-se bênção de luz.
+4 Sofre mas permanece Construindo no amor.
+5 Se queres elevar-te, Não há outro caminho.
+6 Na forja do serviço, Deus te renovará.
 
 ---
 
-## 7 — Aristóclides Martins Freitas
+## 7
 
-> “O amigo de todos…”
-> — “O amigo de todos…”
+> “… o amigo de todos…”
+> — “… o amigo de todos…”
 
 Em 1940 conheci Chico Xavier através dos noticiários de jornais, de livros e de algumas revistas. Passei a interessar-me por tudo que se relaciona com ele. A Doutrina despertou-me nesse tempo. Lia muito o Reformador, editado pela Federação Espírita Brasileira, onde publicavam muita coisa do Chico.
 No vai e vem da vida, em 1947, achei-me doente e, de passagem por Ribeirão Preto, encontrei-me com um amigo muito chegado, Juventino de Paula. Percebendo meu estado de saúde, impressionou-se e recomendou-me que escrevesse ao Chico, enviando somente nome, endereço e idade.
@@ -419,7 +363,9 @@ Aplicando o passe, Sheila dialogava com as pessoas, uma por uma, que a consultav
 Chegou a minha vez e, dada a emoção, fiquei sem expressão e não tive condição de pedir nada. Depois que Sheila passou, pude então perceber que havia perdido uma grande oportunidade; poderia ao menos pedir para minha companheira e filhos que estavam distantes. Terminado o passe, Sheila voltou-se a mim e disse: “Irmão Aristóclides, seu pedido foi atendido. Sua companheira e filhos estão tranquilos e aqui se acha presente o Espírito de Maria Presença, que diz ser sua avó e muito lhe tem ajudado na sua missão. Minha avó desencarnou em 13.09.1930, quando eu tinha 14 anos.
 Minha impressão ao ver o Chico pela primeira vez, não sei se devido à amizade ou por Ter presenciado o que acima expus, foi de grande emoção. Ao regressar em casa, comentei tudo aquilo que havia presenciado e como eram as coisas em Pedro Leopoldo. Minha esposa disse-me que estava compreendendo o que havia acontecido. Às 9 horas do domingo, quando fazia as crianças dormir, percebeu um barulho e um clarão que lhe chamou a atenção. Ficou muito impressionada. Como eu estava viajando, acreditou que tinha sido aviso de algum problema.
 Em Uberaba, no Hospital do Pênfigo, em outra oportunidade fomos fazer uma visita aos doentes dessa casa de saúde. Chico nos acompanhou. Reunidos, o ambiente perfumou-se todo. Notamos então a presença de Sheila. Observamos algumas crianças que entraram em formação como se fosse um coral. Recitaram uma poesia de Auta de Souza. A que estava mais doentinha adiantou-se um pouco, e recitando, fazia a primeira voz.
-Ao nos despedirmos, minha esposa ficou em lágrimas com a atitude do Chico. Dizia ele às crianças: “Vocês, vendo uma roseira muito carregada de rosas bem bonitas, de flores findas, qual a que vocês pegariam?” Elas responderam: A mais bonita de todas.
+Ao nos despedirmos, minha esposa ficou em lágrimas com a atitude do Chico.
+Dizia ele às crianças: — “Vocês, vendo uma roseira muito carregada de rosas bem bonitas, de flores findas, qual a que vocês pegariam?”
+Elas responderam: — A mais bonita de todas.
 Despedindo-se, ele falou: — “Vou beijar a Marly porque ela é a rosa mais bonita, no meio de todas essas flores lindas.”
 Beijou-lhe o rosto e saímos.
 Fizemos ainda muitas viagens; a última foi em 05.03.1977. Com muitas saudades, resolvemos visitá-lo. Quando chegamos em Uberaba, às 14:30 mais ou menos, fui à sua casa. Uma senhora convidou-me a entrar, dizendo que Chico nos esperava. Ele não sabia dessa minha viagem. Entrei, cumprimentei-o e esclareci que estava de passagem rápida. Somente para visitá-lo. Mesmo assim, convidou-me para os trabalhos da noite.
@@ -431,28 +377,21 @@ Representa, dentro do seu esforço pessoal e no seu modo de vida, o Evangelho qu
 
 ---
 
-## 7 — Renovação
+## 8
 
-
-Não procures repouso
-Em momentos vazios.
-Inércia simplesmente
-É começo de angústia.
-Provação superada
-Faz-se bênção de luz.
-Sofre mas permanece
-Construindo no amor.
-Se queres elevar-te,
-Não há outro caminho.
-Na forja do serviço,
-Deus te renovará.
+1 Ante as crises da vida, Não te revoltes. Serve.
+2 Irritação na essência É caldeira que explode.
+3 Se alguém errou, desculpa. Se alguém te fere, olvida.
+4 Serenidade em ti, É respeito nos outros.
+5 Se algum mal aparece, Não te afastes do bem.
+6 Paciência em serviço É remédio de Deus.
 
 ---
 
-## 8 — Adélia Machado Figueiredo
+## 8
 
-> “A mão que consola…”
-> — “A mão que consola…”
+> “… a mão que consola…”
+> — “… a mão que consola…”
 
 Meu pai era Encarregado Geral da Companhia Industrial de Belo Horizonte e, por motivos profissionais foi como gerente para a fábrica em Pedro Leopoldo, onde veio a falecer, quando já havia cumprido seu compromisso. Acompanhou-o meu irmão José Flaviano Machado, para ajudá-lo. Com isso, conheceram bem de perto Francisco Cândido Xavier. José esteve ao lado de Chico trinta e cinco anos, deixando-o pelo seu desencarne.
 Lembro-me como se fosse hoje, quando vi Chico pela primeira vez. Foi em casa de papai. Ainda meninote, cantarolava, acompanhado na viola por seu pai João Cândido Xavier. Aquela cena agradou-me bastante. Fiquei muito feliz.
@@ -463,13 +402,10 @@ As primeiras reuniões que assisti em Pedro Leopoldo, eram em casa da viúva de 
 Naquela época, o mundo não conhecia o valor de Chico Xavier. Poucos sabiam de sua existência.
 No Centro, as reuniões eram presididas pelo Dr. Rômulo Joviano, que foi o primeiro diretor da Fazenda Modelo, onde Chico trabalhou muitos anos. Às vezes, nessas reuniões, nem havia número suficiente de pessoas para formar a mesa. Frequentava as reuniões das segundas-feiras. Estava muito feliz.
 Como não podemos fugir do nosso carma, entrei num período de grandes provações. Meu esposo me animava muito, com muitos problemas a surgirem, comecei a desesperar-me e, em 1934, recebi pela primeira vez uma mensagem de um Espírito familiar. Tratava-se de uma tia, que me trouxe palavras de renovação, animando-me, demonstrando a necessidade do cultivo da humildade e alicerçando minha fé.
-Em Belo Horizonte, eu frequentava as reuniões em casa do Sr. Hermínio Perácio e casualmente, vindo de Pedro Leopoldo, Chico participou da reunião, durante a qual transmitiu-me este recado:
-“Adélia, há um Espírito que está transmitindo a você esta mensagem.”
-Respondi-lhe: — Não estou percebendo nada. Por favor, receba-a para mim.
-— “Adélia, quero ler contigo, minha querida irmã, o livro da paciência e resignação.”
+Em Belo Horizonte, eu frequentava as reuniões em casa do Sr. Hermínio Perácio e casualmente, vindo de Pedro Leopoldo, Chico participou da reunião, durante a qual transmitiu-me este recado: “Adélia, há um Espírito que está transmitindo a você esta mensagem.”
+Respondi-lhe: — Não estou percebendo nada. Por favor, receba-a para mim. — “Adélia, quero ler contigo, minha querida irmã, o livro da paciência e resignação.”
 O conforto veio nas linhas trazidas pela sua psicografia. Na assinatura, pude saber tratar-se do Espírito de titia Margarida, a quem amava muito desde os tempos de minha infância. Outras mensagens recebi de titia.
-Procurava viver da melhor maneira possível, trabalhando, até que veio a dor maior, o desencarne do meu filho, em 25 de setembro de 1941. O meu filho William
-adoecera em consequência de um calo infeccionado, quando pretendia tirar sua carteira de reservista na companhia Quadros. Com o choque fui para a casa de papai em Pedro Leopoldo.
+Procurava viver da melhor maneira possível, trabalhando, até que veio a dor maior, o desencarne do meu filho, em 25 de setembro de 1941. O meu filho William adoecera em consequência de um calo infeccionado, quando pretendia tirar sua carteira de reservista na companhia Quadros. Com o choque fui para a casa de papai em Pedro Leopoldo.
 Apesar de toda a minha fé, estava completamente abatida, como se o mundo tivesse acabado. Como Deus é Suprema Bondade e não esquece de seus filhos, entra papai em meu quarto. Pergunta-me se adivinharia quem estava me visitando.
 Sem muito interesse, respondi-lhe: — Quem?
 E ele fez entrar Chico Xavier.
@@ -477,115 +413,86 @@ Pediu-me que lhe arranjasse papel e lápis.
 Depois de trocarmos algumas palavras, concentramo-nos em preces. Começou a psicografar.
 Em dado momento, parou como se estivesse uma pessoa dirigindo sua mão como no princípio do aprendizado da escrita. Terminou.
 Não deixei que falasse. Tinha certeza que se tratava de William. Era dois de novembro de 1942.
-Essa mensagem trouxe um alívio muito grande; devolveu-me a vontade de viver. Fiquei muito feliz. Quando em determinado trecho ele dizia:
-— “Com que prazer grafo estas palavras em seu caderninho. Creia, mamãe, a vida é muito mais bela do que podemos idealizar…”, reviveu-me sua imagem, marcou demais.
+Essa mensagem trouxe um alívio muito grande; devolveu-me a vontade de viver. Fiquei muito feliz. Quando em determinado trecho ele dizia: — “Com que prazer grafo estas palavras em seu caderninho. Creia, mamãe, a vida é muito mais bela do que podemos idealizar…”, reviveu-me sua imagem, marcou demais.
 O caderno a que se referia, havia sido presente de meu marido para que registrasse todas as mensagens de tia Margarida. E certo dia, necessitando de um caderno para o colégio, quis levá-lo e não deixei, fornecendo-lhe o dinheiro para a aquisição de outro.
 São tantas as coisas lindas que Chico nos trouxe que não dá para enumerá-las.
 Apenas dois casos bem pequenos que foram importantes e acho que vale a pena contar.
 “Estava em uma das dependências de minha casa, quando senti-me muito mal. Perdi todos os movimentos psicomotores do corpo.
 Lúcida e com todos os sentidos, achava que aquilo era o meu fim no corpo. Pensava: “Meus Deus, se isto é a morte, que bom a gente morrer.” Repetia isso muitas vezes. Minha filha, assustada, saiu à procura de um médico.
 Depois de algum tempo, voltei. Fiquei triste. Estava achando tudo aquilo muito bom. Isto aconteceu comigo num fim de semana.
-Na segunda-feira, fui à reunião do Centro. Muito surpresa ouvi de Chico estas palavras:
-“Adélia, o que aconteceu?
+Na segunda-feira, fui à reunião do Centro. Muito surpresa ouvi de Chico estas palavras: “Adélia, o que aconteceu?
 William veio me falar que passou um grande aperto; você desprendeu-se do corpo, e não queria voltar de forma alguma, tendo que lutar muito pelo seu retorno.”
 Uma outra vez, estava aflita pelo desaparecimento de um dos meus filhos.
 Reuníamo-nos às quintas-feiras na casa de uma companheira. Durante o trabalho, perguntei ao guia espiritual se poderia dar-me alguma informação de meu filho.
 Em resposta à minha pergunta, pediu que não me afligisse, pois teria notícias dele mais rápido que pudesse imaginar.
 Dirigindo-me a Pedro Leopoldo como de costume, encontrei Chico que visitava seus familiares, saindo de casa com seus amigos de São Paulo.
-Depois das apresentações disse:
-— “Adélia, sabe quem esteve comigo em Uberaba? Seu filho.”
-Muito surpreendida, respondi: — “Deveras, Chico, como você o viu?”.
-— “Com o temperamento alegre que ele tem. Apresentei-o aos amigos e todos gostaram muito dele”. No dia seguinte, meu filho chegou em casa.
+Depois das apresentações disse: — “Adélia, sabe quem esteve comigo em Uberaba? Seu filho.”
+Muito surpreendida, respondi: — “Deveras, Chico, como você o viu?” — “Com o temperamento alegre que ele tem. Apresentei-o aos amigos e todos gostaram muito dele”. No dia seguinte, meu filho chegou em casa.
 Para mim, Chico Xavier é o missionário da Terceira Revelação, trazendo-nos ensinamentos profundos através das mensagens e livros ditados pelos Irmãos Maiores.
-Como disse Jesus: “Não vim trazer a paz, mas a divisão” — capítulo XXIII de
-O Evangelho Segundo o Espiritismo
-.
+Como disse Jesus: “Não vim trazer a paz, mas a divisão” — capítulo XXIII de O Evangelho Segundo o Espiritismo.
 No meu entender, observamos daí que em toda família nem sempre podemos querer que todos tenham a mesma formação religiosa.
 Aí está o ensinamento de Jesus, demonstrando-nos que devemos seguir dentro das nossas afinidades e encontrar a paz por nós mesmos. Por isso, apraz-me dizer, Francisco Cândido Xavier é o exemplo traduzido em nossa união de respeito ao seu trabalho e pessoa.
 Aliando por estas linhas o meu testemunho informal a outros de semelhantes aspectos na dor e na alegria, na tristeza e na felicidade, com a permissão dos caros leitores, gostaria de juntar a este volume que marcará o ano de 1977, como o do cinquentenário da mediunidade de Francisco Cândido Xavier, a presença de uma das mensagens de meu filho William, onde poderemos perceber que a mão que a trouxe, através dos anos de trabalho e amor, nos mostrará sempre a verdade que consola os corações aflitos, hoje, amanhã e sempre.
 Deus te abençoe, Francisco Cândido Xavier.
-Mamãe, peço a senhora que me abençoe com o grande amor de todos os dias.
-Um ano passou sobre nossa separação. A senhora e eu choramos tanto.
-Este céu de chuva dá ideia do pranto que nós dois temos vertido, mas repito, ao seu carinho a solicitação de coragem.
-Neste primeiro ano de nossa batalha de saudade, a senhora ainda tem sido minha enfermeira santa, porém, os papeis ficaram trocados.
-Naqueles dias de sofrimento físico, sua palavra me animava, me encorajava, me refazia, depois, quando eu vim para cá, a senhora ficou tão triste, tão desalentada e eu, embora doente de espírito, fui obrigado a tomar o papel de quem consola e reconforta.
-Muitos poderão passar desapercebidos de nossa dor.
-É tão fácil passar ao lado de um túmulo que nos seja indiferente!
-Mas nós, mamãe, entendemo-nos mutuamente. Entendemo-nos e isto basta.
-Há situações onde a palavra falada ou escrita é inexpressiva e incapaz.
-Entretanto, sou o primeiro a reconhecer que precisamos renovar atitudes no caminho de redenção.
-Ajude-me com seu espírito valoroso e fiel. Auxilie-me a secar também a fonte das lágrimas e sepulte no mais íntimo do coração as lembranças amargas.
-Aqui os Espíritos benfeitores me recomendam incessantemente lhe fale que a morte é ilusão e que a vida é a única realidade.
-Pense, medite que estou pleno de vigor. Idealize-me a seu lado, sem doença, sem cansaço, sem desânimo. Isto me auxiliará imensamente.
-Estou amparado, tenho as minhas necessidades atendidas. Há quem cuide de mim que me entende mãos fraternas.
-Tenho estado quase feliz. Mas eu mesmo, aí na Terra, não sabia que amava tanto. Depois é que descobri este manancial, que andava oculto em minh’alma.
-E o amor é o nosso tesouro. Com que prazer grafo estas palavras em seu caderninho!…
-Creia, mamãe, que a vida é muito mais bela do que possamos imaginar, que a esperança deve subir além da morte, para lá das próprias estrelas!
-Tudo é vida e quando a fé nos revela Deus, como tudo se modifica!
-Não, não se mantenha num círculo de amargura. Quando alegrar-se lembre-se de que está contentando a seu filhinho.
-Estarei com a senhora em todos os minutos de paz e contentamento.
-Sua fortaleza ainda é meu remédio. A senhora não teria coragem de me negar qualquer sacrifício para alívio de meu coração. Não desanime pois.
-A transição da morte é mudança de cena, mas o ambiente da vida é o mesmo.
-Quando ora, medita, aproximo-me sempre ansioso de faze-la sentir meu restabelecimento, minha vontade de cooperar na sua paz.
-Às vezes, contudo, sua mente lembra-me nos dias de enfermidade, de dor, de expectativa dolorosa e continuo sentir inquietações novas que tentam voltar.
-Recorde o seu William dos 15 anos, seu William quase soldado que se passou a outra vida e aproveitará a nova fase para saber defendê-la melhor.
-Os inimigos existem e quem não os terá? O próprio Jesus ainda trabalha para que os adversários de sua luz não lhe avassalem as Obras Divinas.
-Seríamos nós, falidos de outras eras, devedores de Deus e dos homens que passaríamos incólumes? Não. Consolemo-nos, certos de que o Pai nunca nos negou sua bênção de infinita bondade.
-Até eu mesmo, nos primeiros dias, andava indeciso ignorando como explicar a mim mesmo o porquê do desprendimento doloroso.
-Mais tarde mostraram-me um quadro expressivo em que eu e a senhora depois de menosprezar o ideal sublime de um irmão, afastando-o das lutas humanas, inculpamos a outros do gesto delituoso que nos ensombrava a consciência.
-Ai! A culpa! A culpa! E hoje, sem sermos culpados de sofrimentos que beneficiam, a senhora e eu temos andado com essas ideias de culpa, sem razão de ser.
-É que essa dor vem de mais longe, mas, Deus que é tão bom permitiu que eu lhe trouxesse à alma carinhosa essas afirmativas de consolação. Isso significa débito liquidado.
-Jesus não esquece o martírio das mães, porque Ele também contemplou a Dele do alto da Cruz, entre a aflição e o padecimento.
-Acaso não bastará à senhora o resgate pesado de cada dia no lar que tantas auréolas de espinho lhe traz ao coração?
-Não bastará esta luta tremenda, mamãe, em que a senhora se levanta com a incerteza para dormir com a súplica? Pense nisso e esqueça a ideia de culpa.
-A fé anestesia o coração cansado. Entregue-se a ela totalmente para nos encontrarmos aqui, embora continue a senhora no posto de amor e renúncia ao lado do papai e dos irmãos.
-Tudo passa da Terra e eu estou vivo, esperando-a. Foi melhor que eu viesse, porque deste modo estarei auxiliando-a diariamente, na medida de minhas forças.
-As reuniões evangélicas lá em casa tem sido muito úteis. Ajudam-nos a todos e nelas tenho encontrado caricioso bálsamo ao coração.
-E agora que lembramos o primeiro ano de minha vinda, creia que seu filho está muito esperançoso.
-Não tema as nuvens. Quando caírem hão de ser transformadas em chuva benéfica.
-Atravesse espinhos, pedras, sorva os tragos de fel indispensáveis à experiência, não receie a mágoa, a necessidade, o sofrimento.
-Aqui é que vemos o valor dessas cousas e observamos na luta um tesouro de possibilidades sem fim.
-Seu filho está presente. Quando estiver cansada serei seu
-e Jesus será o bastão de nós dois. [Há um livro de co-autoria de William de nome “
-Bastão de arrimo
-”]
-Minhas lembranças para os meninos e papai.
-E rogando a Deus conceda a senhora as luzes do Céu para nunca desanimar na nossa subida para a redenção, beija as suas mãos com muito carinho e com muito e muito amor, o seu
+1 Mamãe, peço a senhora que me abençoe com o grande amor de todos os dias.
+2 Um ano passou sobre nossa separação. A senhora e eu choramos tanto.
+3 Este céu de chuva dá ideia do pranto que nós dois temos vertido, mas repito, ao seu carinho a solicitação de coragem.
+4 Neste primeiro ano de nossa batalha de saudade, a senhora ainda tem sido minha enfermeira santa, porém, os papeis ficaram trocados.
+5 Naqueles dias de sofrimento físico, sua palavra me animava, me encorajava, me refazia, depois, quando eu vim para cá, a senhora ficou tão triste, tão desalentada e eu, embora doente de espírito, fui obrigado a tomar o papel de quem consola e reconforta.
+6 Muitos poderão passar desapercebidos de nossa dor.
+7 É tão fácil passar ao lado de um túmulo que nos seja indiferente!
+8 Mas nós, mamãe, entendemo-nos mutuamente. Entendemo-nos e isto basta.
+9 Há situações onde a palavra falada ou escrita é inexpressiva e incapaz.
+10 Entretanto, sou o primeiro a reconhecer que precisamos renovar atitudes no caminho de redenção.
+11 Ajude-me com seu espírito valoroso e fiel. Auxilie-me a secar também a fonte das lágrimas e sepulte no mais íntimo do coração as lembranças amargas.
+12 Aqui os Espíritos benfeitores me recomendam incessantemente lhe fale que a morte é ilusão e que a vida é a única realidade.
+13 Pense, medite que estou pleno de vigor. Idealize-me a seu lado, sem doença, sem cansaço, sem desânimo. Isto me auxiliará imensamente.
+14 Estou amparado, tenho as minhas necessidades atendidas. Há quem cuide de mim que me estende mãos fraternas.
+15 Tenho estado quase feliz. Mas eu mesmo, aí na Terra, não sabia que amava tanto. Depois é que descobri este manancial, que andava oculto em minh’alma.
+16 E o amor é o nosso tesouro. Com que prazer grafo estas palavras em seu caderninho!…
+17 Creia, mamãe, que a vida é muito mais bela do que possamos imaginar, que a esperança deve subir além da morte, para lá das próprias estrelas!
+18 Tudo é vida e quando a fé nos revela Deus, como tudo se modifica!
+19 Não, não se mantenha num círculo de amargura. Quando alegrar-se lembre-se de que está contentando a seu filhinho.
+20 Estarei com a senhora em todos os minutos de paz e contentamento. 21 Sua fortaleza ainda é meu remédio. A senhora não teria coragem de me negar qualquer sacrifício para alívio de meu coração. Não desanime pois. 22 A transição da morte é mudança de cena, mas o ambiente da vida é o mesmo.
+23 Quando ora, medita, aproximo-me sempre ansioso de faze-la sentir meu restabelecimento, minha vontade de cooperar na sua paz.
+24 Às vezes, contudo, sua mente lembra-me nos dias de enfermidade, de dor, de expectativa dolorosa e continuo sentir inquietações novas que tentam voltar.
+25 Recorde o seu William dos 15 anos, seu William quase soldado que se passou a outra vida e aproveitará a nova fase para saber defendê-la melhor.
+26 Os inimigos existem e quem não os terá? O próprio Jesus ainda trabalha para que os adversários de sua luz não lhe avassalem as Obras Divinas. 27 Seríamos nós, falidos de outras eras, devedores de Deus e dos homens que passaríamos incólumes? Não. Consolemo-nos, certos de que o Pai nunca nos negou sua bênção de infinita bondade.
+28 Até eu mesmo, nos primeiros dias, andava indeciso ignorando como explicar a mim mesmo o porquê do desprendimento doloroso. 29 Mais tarde mostraram-me um quadro expressivo em que eu e a senhora depois de menosprezar o ideal sublime de um irmão, afastando-o das lutas humanas, inculpamos a outros do gesto delituoso que nos ensombrava a consciência. 30 Ai! A culpa! A culpa! E hoje, sem sermos culpados de sofrimentos que beneficiam, a senhora e eu temos andado com essas ideias de culpa, sem razão de ser.
+31 É que essa dor vem de mais longe, mas, Deus que é tão bom permitiu que eu lhe trouxesse à alma carinhosa essas afirmativas de consolação. Isso significa débito liquidado.
+32 Jesus não esquece o martírio das mães, porque Ele também contemplou a Dele do alto da Cruz, entre a aflição e o padecimento.
+33 Acaso não bastará à senhora o resgate pesado de cada dia no lar que tantas auréolas de espinho lhe traz ao coração?
+34 Não bastará esta luta tremenda, mamãe, em que a senhora se levanta com a incerteza para dormir com a súplica? Pense nisso e esqueça a ideia de culpa.
+35 A fé anestesia o coração cansado. Entregue-se a ela totalmente para nos encontrarmos aqui, embora continue a senhora no posto de amor e renúncia ao lado do papai e dos irmãos.
+36 Tudo passa da Terra e eu estou vivo, esperando-a. Foi melhor que eu viesse, porque deste modo estarei auxiliando-a diariamente, na medida de minhas forças.
+37 As reuniões evangélicas lá em casa tem sido muito úteis. Ajudam-nos a todos e nelas tenho encontrado caricioso bálsamo ao coração.
+38 E agora que lembramos o primeiro ano de minha vinda, creia que seu filho está muito esperançoso.
+39 Não tema as nuvens. Quando caírem hão de ser transformadas em chuva benéfica.
+40 Atravesse espinhos, pedras, sorva os tragos de fel indispensáveis à experiência, não receie a mágoa, a necessidade, o sofrimento.
+41 Aqui é que vemos o valor dessas cousas e observamos na luta um tesouro de possibilidades sem fim.
+42 Seu filho está presente. Quando estiver cansada serei seu bastão de arrimo e Jesus será o bastão de nós dois. [Há um livro de co-autoria de William de nome “Bastão de arrimo”]
+43 Minhas lembranças para os meninos e papai.
+44 E rogando a Deus conceda a senhora as luzes do Céu para nunca desanimar na nossa subida para a redenção, beija as suas mãos com muito carinho e com muito e muito amor, o seu
 
 ---
 
-## 8 — Remédio
+## 9
 
-
-
-Ante as crises da vida,
-Não te revoltes. Serve.
-
-Irritação na essência
-É caldeira que explode.
-
-Se alguém errou, desculpa.
-Se alguém te fere, olvida.
-
-Serenidade em ti,
-E respeito nos outros.
-
-Se algum mal aparece,
-Não te afastes do bem.
-
-Paciência em serviço
-É remédio de Deus.
+1 O caminho a seguir Está brilhando à frente.
+2 Paz no dever cumprido É luz verde a guardar-te.
+3 Se proteges a estrada, A estrada te protege.
+4 Deixa alegria e amor Nos corações que encontres.
+5 Onde estejas passando, Voltarás, algum dia.
+6 Deus prossegue contigo, Segue também com Deus.
 
 ---
 
-## 9 — Alice Tereza Decenço
+## 9
 
-> “Estímulo do trabalho constante…”
-> — “Estímulo do trabalho constante…”
+> “… o estímulo do trabalho constante…”
+> — “… o estímulo do trabalho constante…”
 
-Uma pessoa amiga, no momento de minha dor com o desencarne de meu filho Sérgio,
-n
-emprestou-me um livro espírita “Perda de Entes Queridos,” de Zilda Giunchetti Rosin, e o seu conteúdo trouxe-me um pouco de paz.
+Uma pessoa amiga, no momento de minha dor com o desencarne de meu filho Sérgio, emprestou-me um livro espírita “Perda de Entes Queridos,” de Zilda Giunchetti Rosin, e o seu conteúdo trouxe-me um pouco de paz.
 No conforto da leitura e das pessoas amigas que me traziam a consolação daqueles momentos de tristeza, comentava-se alguma coisa sobre Francisco Cândido Xavier. Constrangida como estava, sofrida, num desequilíbrio total, onde o calmante é o senhor dos nossos movimentos, fui embora em busca de Chico Xavier, confiante que receberia palavras que me confortariam. Esta viagem a Uberaba foi um presente de meu marido pela passagem de meu aniversário. Estava felicíssima.
 Não sabia como fazer, não tinha nenhum conhecimento da Doutrina Espírita, de sua essência. Professava outra religião. Já no Centro e dentro das disciplinas em que se processam as tarefas no atendimento às pessoas, pacientemente aguardei na fila. Nessa viagem foi em nossa companhia a Sra. Brasilina Morello Damasceno, cujo filho desencarnara no mesmo acidente automobilístico. Estavam juntos.
 Enquanto esperava, observava o trato que ele dispensava a todos que ali estavam. Percebia que realmente receberia aquilo que fui buscar, as palavras que me confortariam. Ao nos encontrarmos, dispunha de pouco tempo para relatar o que se passara comigo. O número de pessoas para serem atendidas era muito grande. Falei rapidamente. Pediu-me que colocasse o nome de Sérgio e a data do seu desencarne num papel. Depois de algum tempo, chegou um bilhete do Dr. Bezerra de Menezes. Dizia, assim que fosse possível, seria dada a notícia desejada. Fomos embora na sexta-feira mesmo. Um pouco mais consolada, mas desejosa de uma notícia.
@@ -598,56 +505,43 @@ Eu nada dissera ao Chico do que acontecera, pediu-me que contasse à dona Zilda 
 Realmente, essa mensagem impressionou-me bastante, pois pouca coisa dissera ao Chico sobre meu filho. Tudo ele veio a saber pelo próprio relato de Sérgio.
 Depois que o conheci, passei a frequentar em Jaboticabal, o Centro Espírita Dr. João Fernandes. Foi aí que tomei conhecimento dos princípios básicos da Doutrina de Kardec. Posteriormente com minhas viagens a Uberaba, passei a conhecer melhor as dificuldades das pessoas que, como eu, buscavam o lenitivo para seus problemas. Isso ajudou-me a compreender melhor as minhas dificuldades e necessidades. Comecei a encontrar muito conforto. A mensagem solidificou minha crença. Transportou meu filho como se estivesse sempre ao meu lado.
 Dentro do meu sentimento, considero que meu filho não morreu, está dando continuidade a trabalhos de maior importância no Plano espiritual que ele mesmo mostrou-me. Estaria estudando e trabalhando cada vez mais para seu aprimoramento e evolução.
-Portanto, quando me perguntam quantos filhos tenho, respondo tranquilamente: “Dois, uma filha comigo na Terra e um filho na Escola Divina”.
+Portanto, quando me perguntam quantos filhos tenho, respondo tranquilamente: — “Dois, uma filha comigo na Terra e um filho na Escola Divina.”
 Deus está conosco e nossos filhos também.
 Passei a observar o Chico como pessoa humana que é, mas ressalvando que dentro do meu tempo de vida nunca vi uma criatura que nos desse tanto carinho, atenção, considerando a época que atravessamos, cheia de dificuldades, conflitos e desencontros.
 Chico representa o estímulo do trabalho constante, incentivando-nos cada vez mais a colocar em prática os ensinamentos por ele recebidos através dos Irmãos Maiores que representam os emissários de Jesus, concitando-nos a cultivar a humildade, a paciência, a renúncia e o amor ao próximo. Nós espíritas e demais familiares, em grande número católicos, agradecemos muito o conforto que recebemos, guardando grande respeito pelo seu trabalho e simpatia por sua pessoa.
 
 ---
 
-## 9 — Caminho
+## 10
 
-
-
-O caminho a seguir
-Está brilhando à frente.
-
-Paz no dever cumprido
-É luz verde a guardar-te.
-
-Se proteges a estrada,
-A estrada te protege.
-
-Deixa alegria e amor
-Nos corações que encontres.
-
-Onde estejas passando,
-Voltarás, algum dia.
-
-Deus prossegue contigo,
-Segue também com Deus.
+1 Não desanimes. Segue… Vives na luz de Deus.
+2 A Terra que te abriga, É um jardim ante o Sol.
+3 Contempla a vida, em torno… Tudo é cor e beleza.
+4 O fruto que consomes, É flor que amadurece.
+5 A própria dor que sofras, É impulso para os cimos.
+6 Deus te conduz aos Céus, De esplendor a esplendor.
 
 ---
 
-## 10 — Edinê Almeida Silva de Paiva
+## 10
 
-> “Deixe-o conosco…”
-> — “Deixe-o conosco…”
+> “… deixe-o conosco…”
+> — “… deixe-o conosco…”
 
 Se é que posso considerar-me espírita, desde os quinze anos tive algum conhecimento do assunto, dadas as circunstâncias que envolveram-me.
 Tinha uma amiga e namorada de meu irmão que, naquela época, também contava quinze anos e que por razões sentimentais foi levada ao suicídio.
 Em nosso convívio tínhamos afinidades recíprocas muito grande e, naquela mentalidade de criança, fizemos um pacto: aquela que morresse primeiro, viria buscar a outra.
 Traumatizada com o seu passamento e devido ao acordo, fiquei atemorizada esperando a morte a qualquer momento. Passado certo tempo, sonhei que ela viera buscar-me. Nessa ocasião namoriscava um rapaz que era espírita. Recebia vários convites de seus pais para que fosse ao Centro Espírita que frequentavam. Algumas vezes acedi ao convite. Isso passou-se três anos após o seu desencarne.
-O sonho foi assim:
-— “Via-me subindo uma rua, quando percebi que minha amiga descia em minha direção. Delicada, graciosa, muito jeitosa, exatamente como era quando encarnada. Usava a mesma roupa do dia de sua partida.
-Frente a frente, perguntou-me pelo meu irmão. Respondi-lhe que ele estava no consultório de outro irmão. Na realidade ele estava em companhia de sua atual esposa.
-— “Você está mentindo. Ele está com outra.” Foram as suas palavras. Voltou-se uns dez passos e num gesto apontou-me e continuou: — “Não vim à procura de seu irmão, vim buscá-la. Não se lembra do nosso pacto? Está na hora, vamos!”
-Eu tremia sem saber o que fazer, apavoradíssima. Nesse momento chegaram a mãe e a irmã do rapaz que eu namorava. A senhora percebeu o que se passava. Sua filha perguntou-lhe porque ela não via a moça e nós sim. A mãe carinhosamente, esclareceu-a:
-— Minha filha, isto se dá com pessoas que tem mediunidade da vidência, portanto, quem não têm, não vê. Dirigiu-se depois à minha amiga e explicou-lhe que ali não era seu lugar e sim no alpendre da sua casa. Ela aceitou e começou ir embora, mas, antes queria que eu lhe desse um abraço. Mais calma, aceitei. Quando dirigia-me para abraçá-la, pediu-me que não fizesse, dizendo-me: “Não Ediné, não me abrace, eu sou morta!”. Nisso a senhora levou-me para casa e quando cheguei à porta, via-a acenando para mim.”
+O sonho foi assim: — “Via-me subindo uma rua, quando percebi que minha amiga descia em minha direção. Delicada, graciosa, muito jeitosa, exatamente como era quando encarnada. Usava a mesma roupa do dia de sua partida.
+“Frente a frente, perguntou-me pelo meu irmão. Respondi-lhe que ele estava no consultório de outro irmão. Na realidade ele estava em companhia de sua atual esposa. — “Você está mentindo. Ele está com outra.”
+“Foram as suas palavras. Voltou-se uns dez passos e num gesto apontou-me e continuou: — “Não vim à procura de seu irmão, vim buscá-la. Não se lembra do nosso pacto? Está na hora, vamos!”
+“Eu tremia sem saber o que fazer, apavoradíssima. Nesse momento chegaram a mãe e a irmã do rapaz que eu namorava. A senhora percebeu o que se passava. Sua filha perguntou-lhe porque ela não via a moça e nós sim.
+“A mãe carinhosamente, esclareceu-a: — “Minha filha, isto se dá com pessoas que tem mediunidade da vidência, portanto, quem não têm, não vê. Dirigiu-se depois à minha amiga e explicou-lhe que ali não era seu lugar e sim no alpendre da sua casa. Ela aceitou e começou ir embora, mas, antes queria que eu lhe desse um abraço.”
+“ Mais calma, aceitei.
+“Quando dirigia-me para abraçá-la, pediu-me que não fizesse, dizendo-me: — “Não Ediné, não me abrace, eu sou morta!”
+“Nisso a senhora levou-me para casa e quando cheguei à porta, via-a acenando para mim.”
 Esse sonho preocupou-me muito.
-Algum tempo depois, frequentando os trabalhos da Doutrina Espírita, desenvolvi a mediunidade da vidência. Este relato foi apenas para mostrar aos caros leitores como me encontrei na Doutrina. Passado muito tempo, conheci Francisco Cândido Xavier, quando Lúcio Lincoln de Paiva,
-n
-meu marido, fez-lhe um convite para participar de uma conferência em nossa Assembleia Goiana.
+Algum tempo depois, frequentando os trabalhos da Doutrina Espírita, desenvolvi a mediunidade da vidência. Este relato foi apenas para mostrar aos caros leitores como me encontrei na Doutrina. Passado muito tempo, conheci Francisco Cândido Xavier, quando Lúcio Lincoln de Paiva, meu marido, fez-lhe um convite para participar de uma conferência em nossa Assembleia Goiana.
 Na oportunidade, numa rápida passagem por nossa casa e para meu registro, exalou um perfume tão suave, acompanhado de éter, que perfumou todo o ambiente de meu lar.
 Quando da morte de Lúcio, apesar de ser espírita, desesperei-me chegando mesmo a pensar seriamente em suicídio. Não entendia o porque daquela provação. Achava injusta a passagem de Lúcio.
 O tempo passava e eu cada vez mais desesperada. Meu marido era demais apegado à vida. Fiquei imaginando como ele estaria do Outro Lado. Sentia vontade de procurar Chico Xavier, pois tinha certeza de que em sua presença receberia uma mensagem reconfortante.
@@ -661,72 +555,37 @@ Outras impressões mais, como nomes de pessoas, foram tantas que é impossível 
 Depois disso, senti-me completamente reabilitada, conformada.
 Tive a convicção de que Lúcio estava bem. Criei novas forças. Sei que estamos lutando juntos novamente. No dia da recepção da mensagem, recebi um passe do Chico. No momento da concentração, senti novamente aquele perfume suave, que reanimou-me mais ainda, física e espiritualmente.
 Em vista de todos esses acontecimentos, já admirava o Chico pela sua humildade, pela paciência que sempre teve com todos os que o procuram e, essa admiração cresceu para mim, pelo muito que ele me proporcionou.
-Para o Chico, devemos simplesmente rogar a Deus: “Deixe-o conosco”.
+Para o Chico, devemos simplesmente rogar a Deus: “Deixe-o conosco.”
 Após o recebimento da mensagem, meus familiares, apesar de não serem espíritas, nutrem pelo Chico grande respeito pois tiveram a oportunidade de presenciar coisas que não entendiam.
-Para finalizar: “Muito obrigado Chico, pelos 50 anos de amor, trabalho e carinho”.
+Para finalizar: “Muito obrigado Chico, pelos 50 anos de amor, trabalho e carinho.”
 
 ---
 
-## 10 — Esplendor
+## 11
 
-
-
-Não desanimes. Segue…
-Vives na luz de Deus.
-
-A Terra que te abriga,
-É um jardim ante o Sol.
-
-Contempla a vida, em torno…
-Tudo é cor e beleza.
-
-O fruto que consomes,
-É flor que amadurece.
-
-A própria dor que sofras,
-É impulso para os cimos.
-
-Deus te conduz aos Céus,
-De esplendor a esplendor.
-
-Não desanimes. Segue…
-Vives na luz de Deus.
-
-A Terra que te abriga,
-É um jardim ante o Sol.
-
-Contempla a vida, em torno…
-Tudo é cor e beleza.
-
-O fruto que consomes,
-É flor que amadurece.
-
-A própria dor que sofras,
-É impulso para os cimos.
-
-Deus te conduz aos Céus,
-De esplendor a esplendor.
+1 Compadece-te sempre De qualquer agressor.
+2 Esse dispõe da força, Mas não sabe que é fraco.
+3 Aquele humilha os outros Sem pensar no amanhã.
+4 Quem fere a vida alheia Está cortando em si.
+5 Esquece qualquer golpe, Serve e prossegue à frente.
+6 Todos somos fichados Na justiça de Deus.
 
 ---
 
-## 11 — Augusta Soares Gregoris
+## 11
 
-> “Deus lhe pague…”
-> — “Deus lhe pague…”
+> “… Deus lhe pague…”
+> — “… Deus lhe pague…”
 
-Quando criança, ouvia falar em Chico Xavier. Meu pai conhecia-o desde 1935. Papai desencarnou em 1937, no dia 19 de janeiro, em Sacramento — Minas Gerais.
+Quando criança, ouvia falar em Chico Xavier. Meu pai conhecia-o desde 1935. Papai desencarnou em 1937, no dia 19 de janeiro, em Sacramento - Minas Gerais.
 A mensagem de papai foi a mais diferente de todas que tenho recebido até hoje. Cinco meses depois de sua desencarnação, chegou pelo Correio uma carta endereçada ao meu irmão Labieno, o filho mais velho. Era enviada pelo Chico Xavier. Ninguém em minha casa conhecia o Chico. Só o papai que esteve com ele em várias visitas, em Pedro Leopoldo. Em 1954 tive a felicidade de visitar o Chico em Pedro Leopoldo. Nesse dia, em companhia de meu marido, tive grande emoção quando o vi pela primeira vez. Minha impressão foi como se já estivera com ele. Não me era estranho.
-O tempo foi passando e esporadicamente fazia minhas viagens para visitá-lo. Em 28-08-1964, meu marido veio a desencarnar, vitimado por afogamento, no Rio Meia Ponte, em Goiânia. Hoje, mais assíduas em virtude do desencarne do Gastão
-n
-meu marido e meu filho Henrique Emanuel Gregoris.
-n
+O tempo foi passando e esporadicamente fazia minhas viagens para visitá-lo. Em 28.8.1964, meu marido veio a desencarnar, vitimado por afogamento, no Rio Meia Ponte, em Goiânia. Hoje, mais assíduas em virtude do desencarne do Gastão meu marido e meu filho Henrique Emanuel Gregoris.
 Na véspera do falecimento do Henrique, algo importante aconteceu. Fiquei com 2 netos em casa de minha filha, enquanto ela e o marido passeavam no Rio de Janeiro. Henrique e Eduardo, meus filhos, ficaram a sós em nosso apartamento, estávamos separados há 18 dias.
-No dia 9 de fevereiro, o Henrique me telefonou. Fazia isso todas as noites, para saber como estávamos. Notei que ele parecia satisfeito. E me disse:
-— Veia, acabei de assistir um capítulo de “A Viagem” e fiquei todo arrepiado. Achei graça e perguntei por quê. (Claro que eu sabia, pois também a assisti).
-Mãe! A Dinah morreu e acordou toda confusa num lugar estranho e não sabia que era o Além. Escuta, Veia, você me garante que lá é daquele jeito mesmo?
+No dia 9 de fevereiro, o Henrique me telefonou. Fazia isso todas as noites, para saber como estávamos. Notei que ele parecia satisfeito. E me disse: — Veia, acabei de assistir um capítulo de “A Viagem” e fiquei todo arrepiado. Achei graça e perguntei por quê. (Claro que eu sabia, pois também a assisti).
+Mãe! A Dinah morreu e acordou toda confusa num lugar estranho e não sabia que era o Além. Escuta, Veia, você me garante que Lá é daquele jeito mesmo?
 Não! É muito mais interessante e bonito.
 Puxa, que novela bacana, vou assisti-la inteira, podes crer.
-— No dia seguinte foi ele quem partiu para a Espiritualidade. Tenho um sentimento de muita gratidão pelo autor, atores e pelo nosso querido Chico, que na verdade é o patrono de todas as nossas alegrias espirituais em nome do Cristo.
+No dia seguinte foi ele quem partiu para a Espiritualidade. Tenho um sentimento de muita gratidão pelo autor, atores e pelo nosso querido Chico, que na verdade é o patrono de todas as nossas alegrias espirituais em nome do Cristo.
 Eu orientava Henrique para sempre que visse um acidentado o socorresse imediatamente, sem pensar em problemas posteriores. Ele me dizia:
 Veia, essa de Samaritano ainda vai me levar para a cadeia. Quem vai acreditar que não fui eu o causador do acidente. E socorreu vários casos, graças a Deus.
 Quando ele foi o acidentado, dois hospitais o rejeitaram e morreu à porta do terceiro que o socorria. São os espinhos do nosso caminho que, sem a ajuda de Deus, como aceitar?
@@ -739,71 +598,36 @@ Henrique adorava a garotinha.
 Todas as noites faço muitas preces em meu quarto, junto ao retrato do meu filho. Uma noite notei, surpresa, que os olhos do meu filho (no retrato) estavam marejados. E durante alguns dias o fenômeno se repetiu.
 Um sábado visitei uma grande amiga, Sra. Nayá Siqueira Amorim, e comentávamos fatos de nossa vida ocorrido com o querido amigo Chico.
 Pouco mais tarde, ouvimos a campainha da porta. Certamente alguma visita. Ficamos surpreendidas olhando o recém-chegado. Era Chico Xavier.
-Cumprimentou a todos e quando me viu, sorriu e disse: Augustinha, você aqui?
-— Olha, e tirou um envelope azul do bolso do paletó. Era meu nome e endereço.
-— Sabe por que os olhos do Henrique estão marejados?
+Cumprimentou a todos e quando me viu, sorriu e disse: — Augustinha, você aqui? — Olha, e tirou um envelope azul do bolso do paletó. Era meu nome e endereço. — Sabe por que os olhos do Henrique estão marejados?
 (Há dois dias atrás eu assinara (pra valer) a Apelação, no processo de sua morte).
-Numa das últimas vezes que estive com o Chico, estávamos juntos na peregrinação (reparte de donativos aos menos felizes, que é feita nos sábados à tarde). Ele chamou-me para ficar junto dele e o ajudasse na distribuição para aqueles irmãos. Fiquei ao seu lado e distribui o dinheiro em notas de um cruzeiro. Do outro lado, uma senhora de São Paulo (não me lembro o seu nome), distribuía as notas de dez cruzeiros, que eram dadas às senhoras mais idosas e às gestantes. O Chico, muito feliz, disse-me:
-— Augustinha, aquela nossa amiga é o Banco do Brasil e você é o INPS; achei muita graça nesta brincadeira do Chico.
+Numa das últimas vezes que estive com o Chico, estávamos juntos na peregrinação (reparte de donativos aos menos felizes, que é feita nos sábados à tarde). Ele chamou-me para ficar junto dele e o ajudasse na distribuição para aqueles irmãos. Fiquei ao seu lado e distribui o dinheiro em notas de um cruzeiro. Do outro lado, uma senhora de São Paulo (não me lembro o seu nome), distribuía as notas de dez cruzeiros, que eram dadas às senhoras mais idosas e às gestantes. O Chico, muito feliz, disse-me: — Augustinha, aquela nossa amiga é o Banco do Brasil e você é o INPS; achei muita graça nesta brincadeira do Chico.
 Em outra oportunidade, contou-nos também que nas reuniões doutrinárias, às vezes, menos atento, chegava a cochilar e levava suas chamadinhas dos Benfeitores Espirituais.
-Ele se desculpava, dizendo que era cansaço, mal-estar. E o Benfeitor: E você cochila quando vai comer? — Geralmente não. Então não durma na pregação que é o alimento Espiritual que você está precisando e muito.
+Ele se desculpava, dizendo que era cansaço, mal-estar.
+E o Benfeitor: — E você cochila quando vai comer? — Geralmente não. — Então não durma na pregação que é o alimento Espiritual que você está precisando e muito.
 É, meus queridos leitores, recebi três mensagens de meu filho e uma de meu marido; são 4 joias que estão guardadas no cofre do meu coração, protegendo-me com os seus valores inestimáveis.
 O Chico representa para nós o HOMEM DO FUTURO, onde já podemos ir imitando alguma coisa. Ele em nossa família é o Anjo Bom, de uma existência em tristes resgates.
 Sem Chico Xavier em meu caminho, em nosso caminho, seria uma via-crucis, sem cireneu. Um dia, com a graça de Deus, chegaremos lá.
-A nossa rogativa por tudo que nos foi dado por misericórdia de Deus, no trabalho e amor de Chico, no desprendimento de sempre servir e ver seu semelhante feliz, só existe uma: “Deus lhe pague e o proteja para toda a eternidade”.
+A nossa rogativa por tudo que nos foi dado por misericórdia de Deus, no trabalho e amor de Chico, no desprendimento de sempre servir e ver seu semelhante feliz, só existe uma: “Deus lhe pague e o proteja para toda a eternidade.”
 
 ---
 
-## 11 — Compaixão
+## 12
 
-
-
-Compadece-te sempre
-De qualquer agressor.
-
-Esse dispõe da força,
-Mas não sabe que é fraco.
-
-Aquele humilha os outros
-Sem pensar no amanhã.
-
-Quem fere a vida alheia
-Está cortando em si.
-
-Esquece qualquer golpe,
-Serve e prossegue à frente.
-
-Todos somos fichados
-Na justiça de Deus.
-
-Compadece-te sempre
-De qualquer agressor.
-
-Esse dispõe da força,
-Mas não sabe que é fraco.
-
-Aquele humilha os outros
-Sem pensar no amanhã.
-
-Quem fere a vida alheia
-Está cortando em si.
-
-Esquece qualquer golpe,
-Serve e prossegue à frente.
-
-Todos somos fichados
-Na justiça de Deus.
+1 Não te preocupes tanto Se outros te esqueceram.
+2 O sol aquece a vida Em divino silêncio.
+3 Toda raiz se esconde Para ofertar te as flores.
+4 A fonte que te ampara Não pergunta quem és.
+5 Servir é um privilégio Que o Céu te concedeu.
+6 Quando devas surgir, Deus te revelará.
 
 ---
 
-## 12 — Lucy Yanez Silva
+## 12
 
-> “A família espírita lhe deve muito…”
-> — “A família espírita lhe deve muito…”
+> “… a família espírita…”
+> — “… a família espírita…”
 
-Buscando algum consolo pelo desencarne de meu filho José Roberto — o Beto
-n
-— e, tendo em várias oportunidades ouvido falar da mediunidade de Francisco Cândido Xavier, na época, duvidosa, angustiada e ferida na minha dor, achei que poderia encontrar algum conforto em suas palavras, apesar de católica fervorosa.
+Buscando algum consolo pelo desencarne de meu filho José Roberto — o Beto — e, tendo em várias oportunidades ouvido falar da mediunidade de Francisco Cândido Xavier, na época, duvidosa, angustiada e ferida na minha dor, achei que poderia encontrar algum conforto em suas palavras, apesar de católica fervorosa.
 Não tinha conhecimento algum da Doutrina Espírita, visto que não nos interessava praticar e professar outra religião.
 Os comentários que ouvia sobre Espiritismo não eram muito felizes, o que nos afastava ainda mais dessa Doutrina. Hoje, felizmente, temos um conceito certo sobre o assunto.
 Um dia, passou-me pelas mãos uma mensagem psicografada pelo Chico Xavier, do Augusto Cezar, filho da Sra. Yolanda Cezar, senhora que conheci através de apresentação de uma amiga.
@@ -832,63 +656,20 @@ Nery, por favor, continue.
 Como Lucy explicou no início deste testemunho, professávamos outra religião com certo fervor. Antes da perda de meu filho, ouvira falar de Chico, mas não despertava-me qualquer interesse.
 Quando cheguei em São Paulo vindo de Abaíra, minha terra natal, no interior da Bahia, ainda moço, trazia comigo um sentimento triste, havia presenciado muito sofrimento e miséria.
 Crianças morriam por falta de recursos médicos e, quando Beto em tempo escolar, deixava transparecer certas tendências para a medicina, por várias vezes conversamos, dizia-lhe que gostaria muito quando fosse um médico, se possível construirmos uma casa de saúde para os doentes sem recursos. Acalentava este desejo. Quando da mensagem de José Roberto, deixou-me muito surpreso e mostrou-me sua autenticidade, me fez recuar no tempo em que dialogávamos.
-Qual não foi a minha surpresa, quando Beto, na mensagem assim se expressa: “…lembro-me que ele me pediu dar toda a atenção aos estudos, enquanto ele sonhava com um hospital em que a medicina me aguardasse para cumprir encargos de amor aos pés dos doentes”.
+Qual não foi a minha surpresa, quando Beto, na mensagem assim se expressa: “…lembro-me que ele me pediu dar toda a atenção aos estudos, enquanto ele sonhava com um hospital em que a medicina me aguardasse para cumprir encargos de amor aos pés dos doentes.”
 Continuando com outra expressão: “…O senhor queria que eu ficasse aí para realizar os seus ideais; no entanto, eu não estou morto, meu pai! Estou vivo! E trabalharei com suas mãos. Recordo as suas palavras, lembrando os dias de sua infância. Você queria seu filho num hospital para atender as crianças necessitadas e satisfazer as necessidades dos enfermos sem maiores recursos…”
 Outro pormenor que acho importante: no final do trabalho, o Chico chamou minha esposa e perguntou-lhe quem eram os senhores Afonso Leite e José Leite, dizendo que o Beto estava ali mencionando seus nomes.
-Peço à Lucy que continue descrevendo:
-— Aquilo me surpreendeu.
+Peço à Lucy que continue descrevendo: — Aquilo me surpreendeu.
 De modo algum estava pensando em meus parentes. Estava tão emocionada que o Beto não saía do meu pensamento.
 Disse ao Chico que um deles eu desconhecia, mas o outro, o Afonso Leite, fora o meu tio-avô. Regressando de Uberaba e consultando minha mãe, quis saber quem era José Leite. Informou-me tratar-se de um seu primo.
-Posso, com a tranquilidade, a segurança e o equilíbrio que a Doutrina está nos trazendo, fotografar a imagem de Chico, alojando-a em nossos corações na mensagem de trabalho, humildade e na união de todos os seus seguidores e, num gesto muito simples, dizer: “A família espírita lhe deve muito Francisco Cândido Xavier”.
+Posso, com a tranquilidade, a segurança e o equilíbrio que a Doutrina está nos trazendo, fotografar a imagem de Chico, alojando-a em nossos corações na mensagem de trabalho, humildade e na união de todos os seus seguidores e, num gesto muito simples, dizer: “A família espírita lhe deve muito Francisco Cândido Xavier.”
 
 ---
 
-## 12 — Servir
+## 13
 
-
-
-Não te preocupes tanto
-Se outros te esqueceram.
-
-O sol aquece a vida
-Em divino silêncio.
-
-Toda raiz se esconde
-Para ofertar te as flores.
-
-A fonte que te ampara
-Não pergunta quem és.
-
-Servir é um privilégio
-Que o Céu te concedeu.
-
-Quando devas surgir,
-Deus te revelará.
-
-Não te preocupes tanto
-Se outros te esqueceram.
-
-O sol aquece a vida
-Em divino silêncio.
-
-Toda raiz se esconde
-Para ofertar te as flores.
-
-A fonte que te ampara
-Não pergunta quem és.
-
-Servir é um privilégio
-Que o Céu te concedeu.
-
-Quando devas surgir,
-Deus te revelará.
-
----
-
-## 13 — Maria Acácia Maciel Cassanha
-
-> “Novos horizontes no estudo…”
-> — “Novos horizontes no estudo…”
+> “… novos horizontes no estudo…”
+> — “… novos horizontes no estudo…”
 
 Quando mais jovem tomei conhecimento do trabalho de Francisco Cândido Xavier, através das suas primeiras obras. Aproximadamente por volta de 1957.
 Papai, seguidor da Doutrina Espírita e, em contato com Chico, levava para casa os volumes de seus livros que me encantavam sobremaneira, deixando sobressair um desejo enorme de conhecê-lo pessoalmente.
@@ -906,17 +687,17 @@ Após esse encontro, passei a frequentar Uberaba uma vez por ano, não indo mais
 Ao longo dos anos, as tarefas foram se desenvolvendo e conheci a Sra. Yolanda Cezar. Com a partida de seu filho Augusto Cezar Netto, começou a visitar Chico Xavier e, as vezes que viajava para Uberaba, convidava-me, permitindo-me assim, vê-lo mais amiúde.
 Mamãe desencarnou e nos dez meses que se seguiram, nunca deixei de pedir notícias dela. Sempre recebia recados do Dr. Bezerra de Menezes, dizendo que ela estava bem, se refazendo, se integrando no trabalho. Eram notícias muito confortadoras.
 Em 23 de maio de 1976, tivemos a felicidade de receber sua mensagem. Foram surpresas e alegrias do começo ao fim. Com isso, achei que não devia mais incomodar o Plano espiritual.
-Interessante que na mensagem ela fazia referência à Nina. Chico chamou-me e disse: — “Você sabe quem é Nina?”— No começo não consegui lembrar-me. Depois, procurando ligar os fatos, recordei-me de tia Ângela que desencarnara um ano antes e, entre os familiares, era chamada por Nina. Voltei ao Chico e esclareci tratar-se da irmã de mamãe. Isso tudo calou-me muito fundo.
-Mamãe teve sua vida muito dedicada à Doutrina Espírita. Cerca de quarenta anos trabalhou sem medir sacrifícios, com espírito de renúncia, sempre transmitindo muita paz e serenidade.Às vezes, nós a achávamos passiva demais. Mas com a mensagem, fomos perceber quanto estávamos erradas. Aquela serenidade lhe permitira uma situação espiritual privilegiada e, com isso, hoje tomamos mais cuidado em nossos atos, na forma de nos dirigirmos e tratarmos com os semelhantes.
-O conteúdo desta mensagem modificou completamente a estrutura do meu lar e até mesmo do meu trabalho espiritual. Esta mudança é constatada quando observamos fatos que acontecem e dos quais, às vezes, fazemos parte, como os que se seguem:
-“Um senhor recebeu pelo Chico uma mensagem do filho. Sua mãe presente, humilde, abatida e com luto fechado que mais realçava sua tristeza. Estava acamada há quase dois anos e, durante esse tempo, havia recorrido a todos os recursos médicos e religiosos para sair daquela situação. Quando Chico iniciou a leitura da mensagem, a senhora quase desmaiou. Foi socorrida e levada para junto do Chico. O rapaz explicava ao Chico que fora levado ao suicídio, hipnotizado por Espíritos ligados a ele por compromissos do passado. Assim, suicidara-se involuntariamente. Falava de todos os familiares, inclusive de um cunhado japonês, presente, citando seu nome por completo. Também a um seu irmão, que se encontrava em companhia da esposa, pedia-lhe que procurasse melhorar, que abandonasse a ideia de suicídio. O moço, emocionado, dizia que iria modificar-se e transformar-se.
-“Em outra ocasião, coincidentemente, esta família estava lá e o rapaz trouxe outra mensagem. Nesse dia, soubemos que a mãezinha já não estava de cama, sentindo-se mais tranquila e segura. O rapaz, seu irmão, voltando-se para mim disse: — “A senhora sabe que naquela sexta-feira estava com tudo preparado para, na segunda-feira, suicidar-me? A mensagem de meu irmão salvou-me”.
+Interessante que na mensagem ela fazia referência à Nina. Chico chamou-me e disse: — “Você sabe quem é Nina?”
+No começo não consegui lembrar-me. Depois, procurando ligar os fatos, recordei-me de tia Ângela que desencarnara um ano antes e, entre os familiares, era chamada por Nina. Voltei ao Chico e esclareci tratar-se da irmã de mamãe. Isso tudo calou-me muito fundo.
+Mamãe teve sua vida muito dedicada à Doutrina Espírita. Cerca de quarenta anos trabalhou sem medir sacrifícios, com espírito de renúncia, sempre transmitindo muita paz e serenidade. Às vezes, nós a achávamos passiva demais. Mas com a mensagem, fomos perceber quanto estávamos erradas. Aquela serenidade lhe permitira uma situação espiritual privilegiada e, com isso, hoje tomamos mais cuidado em nossos atos, na forma de nos dirigirmos e tratarmos com os semelhantes.
+O conteúdo desta mensagem modificou completamente a estrutura do meu lar e até mesmo do meu trabalho espiritual. Esta mudança é constatada quando observamos fatos que acontecem e dos quais, às vezes, fazemos parte, como os que se seguem: “Um senhor recebeu pelo Chico uma mensagem do filho. Sua mãe presente, humilde, abatida e com luto fechado que mais realçava sua tristeza. Estava acamada há quase dois anos e, durante esse tempo, havia recorrido a todos os recursos médicos e religiosos para sair daquela situação. Quando Chico iniciou a leitura da mensagem, a senhora quase desmaiou. Foi socorrida e levada para junto do Chico. O rapaz explicava ao Chico que fora levado ao suicídio, hipnotizado por Espíritos ligados a ele por compromissos do passado. Assim, suicidara-se involuntariamente. Falava de todos os familiares, inclusive de um cunhado japonês, presente, citando seu nome por completo. Também a um seu irmão, que se encontrava em companhia da esposa, pedia-lhe que procurasse melhorar, que abandonasse a ideia de suicídio. O moço, emocionado, dizia que iria modificar-se e transformar-se.
+“Em outra ocasião, coincidentemente, esta família estava lá e o rapaz trouxe outra mensagem. Nesse dia, soubemos que a mãezinha já não estava de cama, sentindo-se mais tranquila e segura. O rapaz, seu irmão, voltando-se para mim disse: — “A senhora sabe que naquela sexta-feira estava com tudo preparado para, na segunda-feira, suicidar-me? A mensagem de meu irmão salvou-me.”
 “Em outra vez, uma senhora, moça ainda, chegando-se a mim, chorando muito, queria um contato com Chico. Estávamos sentadas fora do salão. Começou a contar que o marido suicidara-se em circunstâncias tais, deixando a impressão de que ela o matara. A família havia aberto inquérito. Casada há pouco tempo, desesperada, rogava que precisava falar com Chico. Pedi a ela que tivesse paciência e aguardasse na fila. Era grande o número de pessoas. Não deu tempo dela ser atendida. Chico entrou para o receituário. Mas, no fim do trabalho, voltou a psicografar. O Espírito comunicante era o marido dela. Contava a forma como desencarnara esclarecendo que ela não tivera culpa alguma. Vejam a autenticidade da comunicação. A moça só conversara comigo. Tenho até uma foto dela quando da leitura da mensagem. Chorava muito.”
 Aqui em São Paulo, nosso companheiro de diretoria do Lar do Amor Cristão, o Luciano, sentia uma vontade enorme de conhecer Chico. Na época em que o médium viajou para os Estados Unidos, Luciano morava perto do Aeroporto e achou por bem despedir-se. Querendo ter a certeza do que ouvia a respeito do Chico era verdade, no caminho pensava: — “Apesar de acreditar nele, se fosse chamado pelo nome como dizem que ele faz, seria uma forte confirmação”. Colocou-se na fila e quando estava chegando perto para os cumprimentos, Chico olhou para ele e cumprimentou-o: “Boa noite Luciano”. Ele, totalmente desconcertado, chorou de emoção.
 As fases do trabalho de Chico sempre foram bem acentuadas e marcantes. Tomemos como exemplo o primeiro “Pinga-Fogo”, onde a repercussão de seu trabalho mediúnico alcançou horizontes até o infinito.
 Eufórica, na época escrevi-lhe que “O Brasil amanheceu de roupa nova”, tamanha a penetração de suas palavras.
 Esse dia marcou não somente para os que não o conheciam, mas também a nós que o acompanhamos de perto.
-Ante e o seu exemplo, vamos sentindo a transformação, a responsabilidade cada vez maior, colocando-nos a prova do amor-cristão.
+Ante o seu exemplo, n vamos sentindo a transformação, a responsabilidade cada vez maior, colocando-nos a prova do amor-cristão.
 Em assuntos do cotidiano, ao depararmos com qualquer empecilho, pensamos logo como Chico agiria. Nunca nos lembramos de tê-lo visto revidar ante qualquer atitude indelicada ou agressiva de pessoas menos felizes que o cercam e que feriria a suscetibilidade de qualquer um. E àquela ofensa responde com amor e carinho.
 Agora, cedo a vez para que minha irmã Lucy Maciel registre o seu parecer.
 Quando estamos em Uberaba, procuramos sentir a vivência do Chico no seu trabalho mediúnico. Percebemos que é um Espírito altamente preparado, trazendo esse preparo de longa data. Uma criatura completamente liberta de muitas necessidades. Chico não é um místico. É um médium, uma pessoa extraordinária.
@@ -927,20 +708,16 @@ Parecer do Sr. Benedito Pedro dos Santos, esposo da Lucy Maciel dos Santos.
 Endossando as palavras de Acácia, quero dizer, ainda, que Chico sempre foi para mim o algo mais. Foi conhecer o respeito, a preciosidade, o amor e o equilíbrio maior. E demonstra, através do exemplo, que podemos ampliar estas qualidades dentro de nós.
 Conheço Espiritismo desde os 17 anos, mas com Chico aprendi algo que não conhecia.
 E agora, o aparte do Sr. Celso Cassanha, esposo da Sra. Acácia Maciel Cassanha.
-Em nossa família ele marca presença sobre dois aspectos:
-— primeiro, como espíritas praticantes que somos, sempre que se fala em Doutrina, não omitimos o nome de Francisco Cândido Xavier como médium, pelo seu exemplo e pelo seu respeito;
-— segundo, como homem é aquele amigo certo para as horas difíceis. Aquele que chamamos de amigo e dizemos tudo.
+Em nossa família ele marca presença sobre dois aspectos: — Primeiro, como espíritas praticantes que somos, sempre que se fala em Doutrina, não omitimos o nome de Francisco Cândido Xavier como médium, pelo seu exemplo e pelo seu respeito. — Segundo, como homem é aquele amigo certo para as horas difíceis. Aquele que chamamos de amigo e dizemos tudo.
 
 ---
 
-## 14 — Maria Perrone
+## 14
 
-> “Se todos pudessem…”
-> — “Se todos pudessem…”
+> “… se todos pudessem viver…”
+> — “… se todos pudessem viver…”
 
-Perdoem-me a maneira de iniciar estas linhas, mas meu filho Walter Perrone,
-n
-uma semana antes de desencarnar, presenteou-me com um livro espírita “Entre Duas Vidas”, sabendo, inclusive, que eu talvez não o lesse, por não mostrar nenhum interesse pela Doutrina Espírita. Nessa semana falou muito em Francisco Cândido Xavier, mostrando grande interesse em conhecê-lo. Agiu como se me estivesse mostrando que iríamos, dias após, ficar mesmo entre duas vidas.
+Perdoem-me a maneira de iniciar estas linhas, mas meu filho Walter Perrone, uma semana antes de desencarnar, presenteou-me com um livro espírita “Entre Duas Vidas”, sabendo, inclusive, que eu talvez não o lesse, por não mostrar nenhum interesse pela Doutrina Espírita. Nessa semana falou muito em Francisco Cândido Xavier, mostrando grande interesse em conhecê-lo. Agiu como se me estivesse mostrando que iríamos, dias após, ficar mesmo entre duas vidas.
 Três meses passados de sua partida, necessitei ser internada, em consequência do meu descontrole emocional. Fui encaminhada para uma casa de saúde. No Hospital Santa Helena. Certa feita quando voltávamos de Campinas, paramos um pouco no Restaurante Lago Azul. Casualmente, Francisco Cândido Xavier estava lá. Meu filho Carlos avistando-o disse-me: “Mamãe, olhe quem está ali, o Chico Xavier.”
 Imediatamente, fui ao seu encontro. Não tive oportunidade de contar nada do que se passava comigo. Foi um contato muito rápido. Ele já estava de saída. Entrou no carro e partiu.
 Nunca tinha visto Chico Xavier pessoalmente. Conheci-o através do Programa “Pinga-Fogo”, que, aliás, achei muito interessante. Suas palavras naquela noite tocaram-me profundamente. Achei-o demais ponderado e equilibrado.
@@ -951,8 +728,11 @@ Em Uberaba, sozinhas, indaguei onde ficava o Centro de Chico Xavier e fomos para
 Não conhecia e nem sabia da existência da psicografia. Via as pessoas anotarem seus nomes. Estranhava tudo aquilo.
 Falava comigo mesma: “Hoje em dia tudo se paga. Certamente terei que pagar.” Perguntei a uma pessoa sentada ao meu lado, se teria que pagar alguma coisa. A moça estranhou, respondendo que não. Estávamos num trabalho espiritual. Nesse tempo, Chico voltou e iniciou a psicografia.
 Estava sentada quase à sua frente, convicta de que ele iria dar-me sua palavra. Via-o escrever, mas não imaginava o que era aquilo. Falei a um rapaz que estava perto de mim e ele esclareceu-me. Chico iniciou a leitura da mensagem.
-Fiquei atenta e quando foi lido “Querida mãezinha”, arrepiei-me toda e algo me dizia que era o Walter. Cresceu-me a certeza. Não me contive e comentei com a moça ao lado: “Tenho certeza que é de meu filho.” Era mesmo. Era verdade.
-Foi o meu primeiro sorriso desde a sua morte. Entre lágrimas falei à minha amiga: “Aconteça o que acontecer, sei que Walter não se esqueceu de mim.” Desse momento em diante, comecei a aceitar a Doutrina Espírita.
+Fiquei atenta e quando foi lido “Querida mãezinha”, arrepiei-me toda e algo me dizia que era o Walter. Cresceu-me a certeza.
+Não me contive e comentei com a moça ao lado: — “Tenho certeza que é de meu filho.” Era mesmo. Era verdade.
+Foi o meu primeiro sorriso desde a sua morte.
+Entre lágrimas falei à minha amiga: — “Aconteça o que acontecer, sei que Walter não se esqueceu de mim.”
+Desse momento em diante, comecei a aceitar a Doutrina Espírita.
 No segundo encontro, em casa, senti a presença do Walter. Desta vez, com algum conhecimento pela experiência da primeira reunião, convidei minha filha Soninha, para que me acompanhasse a Uberaba. Recebi outra mensagem, muito bonita e bem extensa, que permitiu inclusive uma identificação com o Espírito de Walter, pela revelação de dados desconhecidos pelo Chico.
 O Hospital Santa Helena, por exemplo, onde ele diz “…foi o primeiro socorro para tirar a mãezinha daquele estado depressivo…” a menção da Mariazinha, mãe de um seu colega, meu sogro, irmão, irmã, filho, esposa e a referência aos médicos da família.
 Fiquei perguntando a mim mesma, como era possível tudo aquilo, porque na hora da reunião não tinha outros pensamentos a não ser para o Walter. Admirava-me cada vez mais, pois não conhecia ninguém em Uberaba, não havia trocado palavras com qualquer pessoa.
@@ -966,17 +746,15 @@ Acho que se todos pudessem viver um pouco do que vive e exemplifica Francisco C�
 
 ---
 
-## 15 — Laura Moreira de Abreu
+## 15
 
-> “Que Deus o conserve…”
-> — “Que Deus o conserve…”
+> “… que Deus o conserve…”
+> — “… que Deus o conserve…”
 
 Apesar de conhecer Chico pela Televisão, fui levada a Uberaba pela Sra. Yolanda Cezar, a quem fui apresentada. Lá chegando, com a maior facilidade falei ao Chico do meu desespero e minha dor.
 Isso foi numa 5ª feira e, no sábado, por intermédio do Dr. Bezerra de Menezes, veio um recado que me satisfez e tive certeza, pelas referências a meus filhos Júnior e Sílvia Maria.
 O tratamento de Sílvia Maria só era dado pelo meu marido e os demais da família a chamavam de Sílvia. Voltei algumas vezes mais, porém, procurava não tomar muito tempo do Chico. Conversava pouco, dando oportunidade a outras pessoas, na ocasião mais necessitadas.
-Um ano depois, recebo as palavras de meu marido,
-n
-através da psicografia do Chico.
+Um ano depois, recebo as palavras de meu marido, através da psicografia do Chico.
 Logo nas primeiras linhas identificou-se, pois meu marido, português, e no andamento de nossa vida, ao dirigir-me a palavra tratava-me por “tu”, naquele modo bem português mesmo. Chico não conhecia e nada sabia.
 Uma particularidade, o nome da minha filha Nilda na mensagem estava escrito “Nilza”, mas não comentei com ninguém. Na despedida, isso na madrugada de domingo, o nosso Chico me disse: “Estive com o Sr. Abreu à tarde e ele falou-me: Chico, escrevi o nome da minha filha errado e você nem me ajudou”; então, pediu-me que fizesse a gentileza de corrigir o original. Isto me comoveu muito, mas não fugi ao equilíbrio.
 No dia em que recebi esse presente do Céu, estava com meu filho. Chorava e ria ao mesmo tempo. Minha alegria transbordava, não sabendo se minhas lágrimas eram de saudade ou de felicidade.
@@ -996,15 +774,13 @@ Chico, que Deus o conserve em nosso convívio o maior tempo que puder dispô-lo 
 
 ---
 
-## 16 — Alberto Ferrante Filho
+## 16
 
-> “Do gênio violento que eu tinha, passei a compreender melhor as coisas…”
-> — “Do gênio violento que eu tinha, passei a compreender melhor as coisas…”
+> “… do gênio violento…”
+> — “… do gênio violento…”
 
 Neste começo, perdoem-me os leitores, explicarei em rápidas pinceladas como encontrei Francisco Cândido Xavier.
-Papai
-n
-era pintor sacro. Uma criatura por demais apegada aos filhos.
+Papai era pintor sacro. Uma criatura por demais apegada aos filhos.
 Recebia vários convites para pintar em igrejas fora de nossa cidade. Quando isso acontecia, sofria muito vendo-se longe da família. Certa feita, combinou com mamãe que não pintaria mais fora de Franca. Cumpriria somente o último compromisso. Quando voltasse, que mamãe escolhesse um bom presente e seria atendida. — “O maior presente que você poderá me dar quando voltar é levar-me para conhecer Francisco Cândido Xavier”, foi a resposta. Assim ficou combinado. Papai saiu, cumpriu seu compromisso e voltou.
 Passaram-se uns dias e acertaram a viagem a Pedro Leopoldo.
 Aconteceu, porém, que um ou dois dias antes da viagem, apareceram em casa alguns dos seus alunos, pois papai era professor de pintura, e o convidaram para pintar algumas paisagens no campo. Gostando muito desse tipo de pintura e devotado aos alunos, aceitou o convite.
@@ -1028,9 +804,8 @@ Chegamos ao Centro. Iniciadas as tarefas fomos convidados a fazer parte junto da
 Terminado o receituário, fomos brindados com a mensagem de Emmanuel. Em seguida, percebi a fisionomia de Chico alterar-se completamente e grossas lágrimas correrem-lhe pela face. A emoção tomou conta de todos e percebemos que naquelas linhas chegava alguma mensagem comovedora. Terminada a psicografia, encerrou-se o trabalho. Chico pediu licença à mamãe se poderia ler aquela carta a nós dirigida. Achava-a linda e emotiva, gostaria que os presentes conhecessem o seu conteúdo.
 Acompanhamos com muita emoção a leitura. Trazia no seu texto o nome de todos os filhos, genros e outros assuntos de nosso conhecimento. Entregou-me logo após os originais e foi para a livraria atender as solicitações de autógrafos em alguns dos seus livros.
 Notei na mensagem a ausência do nome de minha irmã Lourdes. Acreditei ter havido alguma razão para tal. Minha irmã Edera aproximou-se e em particular, pediu-me que colocasse o nome da irmã. Também notara sua falta. Recusei, dizendo-lhe que aguardássemos. Continuou insistindo e, resoluto, respondi-lhe uma vez mais que esperasse.
-Nesse momento, uma das pessoas presentes chama-me: “O Chico quer falar consigo”.
-Atendi-o prontamente. Chico com todo carinho pediu-me a mensagem de volta dizendo:
-— “Seu paizinho, ainda presente, disse que na hora da psicografia, muito emocionado, deixou de colocar o nome de sua filhinha Lourdes.”
+Nesse momento, uma das pessoas presentes chama-me: — “O Chico quer falar consigo.”
+Atendi-o prontamente. Chico com todo carinho pediu-me a mensagem de volta dizendo: — “Seu paizinho, ainda presente, disse que na hora da psicografia, muito emocionado, deixou de colocar o nome de sua filhinha Lourdes.”
 Perguntou-me também se conhecia os Senhores Arnulfo de Lima e Dr. Ulisses Paiva. O Sr. Arnulfo havia conhecido e o Dr. Ulisses só de nome. Mas mamãe, em seguida, confirmava tê-lo conhecido. Esclareceu-nos que no momento que papai escrevia, estava sendo auxiliado por esses dois abnegados companheiros, que seguravam sua mão para que pudesse marcar sua presença.
 Convidou-me para a peregrinação do dia seguinte. Foi daí que nasceu a ideia de iniciar em Franca aquele tipo de assistência, mantido até hoje, graças a Deus. Em homenagem a papai, esse trabalho recebeu o seu nome.
 Dessa data em diante passei a frequentar mais assiduamente Pedro Leopoldo, viajando a cada dois meses. Com esses encontros fui sedimentando cada vez mais meu conhecimento na Doutrina e aplicando-o na estrutura do trabalho assistencial em Franca, com todo amor e carinho. Hoje contamos com assistência médica, dentária, alimentar e moradias para viúvas que são visitadas todos os sábados.
@@ -1041,14 +816,12 @@ Amigos, depois que conheci Chico, minha vida transformou-se por completo. Do gê
 
 ---
 
-## 17 — Salette Richette Parisi
+## 17
 
-> “A centelha que aquece…”
-> — “A centelha que aquece…”
+> “ … a centelha que aquece…”
+> — “ … a centelha que aquece…”
 
-Mamãe, com a morte de Tadeu,
-n
-meu irmão, não tinha a mínima condição na restauração do seu equilíbrio.
+Mamãe, com a morte de Tadeu, meu irmão, não tinha a mínima condição na restauração do seu equilíbrio.
 Passava o tempo todo desesperada, chorando muito. Estava adoecendo, revoltando-se com tudo e com todos. Não acreditava em nada que pudesse aliviar a sua dor.
 Nessa época o Chico estava para vir à Televisão Tupi, no Programa Pinga-Fogo.
 Amigos achavam que mamãe deveria procurá-lo. Mas, católicos praticantes, ficamos preocupados, pois mamãe não acreditava em Espiritismo.
@@ -1057,8 +830,7 @@ Não conhecia ninguém, nem mesmo Chico.
 Uma senhora, percebendo a sua aflição, penalizada, acompanhou-a até o Chico.
 Soube, depois, tratar-se da Sra. Zilda Giunchetti Rosin.
 Conseguiu trocar rápidas palavras com o Chico e voltou para casa.
-Porém,esse rápido encontro de nada adiantou. Continuou chorando e cada vez mais revoltada. Dizia que o Chico recomendara-lhe calma. Mas ela não entendia.
-— “Como recomendar-me calma? O filho é meu. Por que? Ele vai devolver o meu filho?” — Estas eram as suas palavras.
+Porém,esse rápido encontro de nada adiantou. Continuou chorando e cada vez mais revoltada. Dizia que o Chico recomendara-lhe calma. Mas ela não entendia. — “Como recomendar-me calma? O filho é meu. Por que? Ele vai devolver o meu filho?” — Estas eram as suas palavras.
 As reclamações se sucederam por muito tempo. Depois de sete meses do desencarne de Tadeu, tive uma intuição.
 Pedi à mamãe que se preparasse, pois iríamos a Uberaba no dia seguinte.
 Ela não acreditou, mas insisti. Algo dava-me muita confiança e, naquele impacto, consegui seu assentimento. Nem mesmo meu marido sabia que iríamos.
@@ -1071,8 +843,7 @@ No dia seguinte fomos à reunião, mas não pudemos falar com o Chico. Havia mui
 O trabalho começou.
 Colocamos os nossos nomes para o receituário acreditando que mais tarde nos chegaria uma receita com alguma medicação.
 Veio um recado do Dr. Bezerra de Menezes que dizia: “Nosso Ricardo está sob os cuidados de abnegados irmãos espirituais.”
-No final da reunião, por volta das três horas da madrugada, Chico nos chamou e disse se tínhamos necessidade de voltar para São Paulo, ainda naquele dia. Gostaria que participássemos da peregrinação que se realizaria na tarde daquele sábado que se iniciava.
-Aceitamos.
+No final da reunião, por volta das três horas da madrugada, Chico nos chamou e disse se tínhamos necessidade de voltar para São Paulo, ainda naquele dia. Gostaria que participássemos da peregrinação que se realizaria na tarde daquele sábado que se iniciava. Aceitamos.
 Na volta da peregrinação mamãe estava ansiosa para falar-lhe. Mas estávamos mais afastadas. Um casal sugeriu à mamãe que falasse de onde estava mesmo. Constrangida, não falou.
 Pedi-lhe que fossemos para trás, pois se tivesse que receber alguma coisa, receberíamos.
 Chegando ao Centro, sentamo-nos e aguardamos quietas.
@@ -1095,22 +866,19 @@ Na última mensagem, soubemos que Chico estivera acamado e fomos visitá-lo. Já
 Com todas essas dores e alegrias, passei a dedicar-me ao estudo da Doutrina Espírita de corpo e alma. Interessei-me demais.
 Muito extrovertida, agressiva e nervosa, no seu aprendizado encontrei esclarecimento para muita coisa e, graças a Deus, tudo melhorou para mim.
 Chico, para mamãe e para nossos familiares, é a centelha que aquece quando a frieza das dificuldades nos atinge.
-Assim, posso dizer:
-Quero conhecer cada vez mais essa Doutrina maravilhosa, para poder colaborar sempre com os que mais necessitam.
+Assim, posso dizer: Quero conhecer cada vez mais essa Doutrina maravilhosa, para poder colaborar sempre com os que mais necessitam.
 Perdoem-me a pretensão, mas hoje sou seguidora assídua do Espiritismo.
 Graças a Deus, a mediunidade de Francisco Cândido Xavier abriu-nos o caminho para a luta contra as situações desesperadoras.
 
 ---
 
-## 18 — Thereza Malafronto
+## 18
 
-> “Chico Xavier no amanhã luminoso…”
-> — “Chico Xavier no amanhã luminoso…”
+> “… Chico Xavier no amanhã luminoso…”
+> — “… Chico Xavier no amanhã luminoso…”
 
 Conhecia Chico Xavier por meio da televisão. Nutria muita vontade de conhecê-lo, mas nunca tive oportunidade. Independente de alguns convites feitos pela Srta. Maria Canceli, quando da visita do Chico ao Centro Espírita Paz, Amor e Caridade, mesmo assim não tive esse prazer.
-Devido ao acontecimento com o meu filho,
-n
-vitimado por aneurisma cerebral, meu marido, após quinze dias do seu desencarne, muito desorientado, acabou lamentavelmente deixando o lar, tomando rumo que ainda ignoro. Com esses desacertos, fiquei muito enferma; aliviava-me sob o poder dos calmantes. As receitas se acumulavam nas farmácias e meu problema não se resolvia. Continuava presa ao sofrimento.
+Devido ao acontecimento com o meu filho, vitimado por aneurisma cerebral, meu marido, após quinze dias do seu desencarne, muito desorientado, acabou lamentavelmente deixando o lar, tomando rumo que ainda ignoro. Com esses desacertos, fiquei muito enferma; aliviava-me sob o poder dos calmantes. As receitas se acumulavam nas farmácias e meu problema não se resolvia. Continuava presa ao sofrimento.
 Durante um mês e meio tomei 150 injeções.
 Os farmacêuticos e os Doutores pelos quais passei, admiravam-se da quantidade de comprimidos que ingeria, chegando mesmo um deles dizer: “Com apenas um comprimido eu dormiria 24 horas e a senhora tomando três por vez não surte nenhum efeito. É de admirar!”
 Para os caros leitores terem uma ideia do que estou falando, fiquei aproximadamente um ano sem saber o que era dormir. Apenas cochiladas de poucos minutos. As noites e dias desfilavam aos meus olhos.
@@ -1120,7 +888,7 @@ Na sexta-feira fui ao Grupo Espírita da Prece. Ansiosa cheguei muito cedo e fiq
 Quando Chico chegou, parecia-me estar revivendo cenas de quando Jesus caminhava no meio dos menos felizes. Com muita fé e em sua presença, rogava a Deus que me curasse.
 Minha alegria era transbordante, não tinha condições sequer de desviar meu olhar daquela figura que seria o remédio para os meus dissabores.
 Fui a terceira pessoa a conversar com ele e na sua presença, sem dar qualquer valor ao pensamento estético e de boas maneiras, não me importando com o que pudessem pensar ou falar, atirei-me em seus braços.
-Com a foto do meu filho nas mãos, mostrei-lhe. Delicadamente apanhou-a e mostrou ao pessoal presente; dizia comovido: — “Que belo rapaz Jesus levou para junto de si”.
+Com a foto do meu filho nas mãos, mostrei-lhe. Delicadamente apanhou-a e mostrou ao pessoal presente; dizia comovido: — “Que belo rapaz Jesus levou para junto de si.”
 Devolveu-me a foto sem falar mais nada.
 Fui sentar-me. Levava vários nomes de amigos e parentes; no meu desespero esqueci de entregá-los ao Chico. Pedi, então, a uma pessoa que colocasse esses papéis na mesa que eram solicitações de preces e receitas.
 Não sei porque, devolveram-me e pediram que eu mesma entregasse ao Chico, coisa que costumeiramente não se faz, isto é, são entregues ao Sr. Weaker Baptista e às senhoras que lá frequentam e trabalham.
@@ -1137,161 +905,78 @@ Com muita surpresa, na segunda-feira, recebo a visita da Dra. Marlene Rossi Seve
 Dizia que haviam procurado por todos os hotéis de Uberaba e não conseguiram encontrar-me; estava como portadora, atendendo gentilmente o pedido de Chico Xavier. Meu filho comunicara.
 Mostrei-lhe minha satisfação.
 Em seguida passei a ler a mensagem que tanto aguardara. Em sua leitura vim compreender um fato que havia se passado:
-Quando Ronaldo ainda em casa, no caixão, não entendia porque, corriam-lhe pelas faces grossos fios de lágrimas. Intrigada com aquilo, perguntei aos presentes se viam também. Todos confirmaram. Na mensagem meu filho cita o porquê das lágrimas quando diz:
+Quando Ronaldo ainda em casa, no caixão, não entendia porque, corriam-lhe pelas faces grossos fios de lágrimas. Intrigada com aquilo, perguntei aos presentes se viam também. Todos confirmaram. Na mensagem meu filho cita o porquê das lágrimas quando diz: “Aquilo tudo com aquela impressão de fim de existência me fez chorar por dentro, mas as lágrimas eram iguais às vozes que se mantinham presas comigo. Minhas pálpebras também estavam cerradas e aquele orvalho de dor que nascia no coração ficou estancado… Por isso, mãezinha, é que a senhora e os nossos tiveram a impressão de que eu chorava no corpo imóvel. Ver, eu não vi, mas as suas perguntas nesse sentido eram muitas e minha bisavó Philomena que me tomou por outra mãe explicou-me o que se passara. Quando me retiraram da forma física extenuada as comportas se abriram e as lágrimas que eram em mim preces a Deus, rogando forças em vão para dizer alguma coisa, rolaram pelas faces…”
 Vários familiares desencarnados foram citados. O nome Angeloantonio veio escrito exatamente igual ao da família na citação de vovô, e outras coisas mais.
 Graças a Deus, e à mediunidade de Chico que deu condições para os Espíritos amigos nos ajudarem, hoje sou outra, não soube mais o que é um comprimido calmante.
-Minha felicidade voltou e após essa mensagem, recebida no dia 09.04.1976, no mês seguinte Ronaldo aniversariava. Fiz uma festa, convidei todas as crianças vizinhas como Ronaldo gostava, cantamos o parabéns. Essa foi a primeira alegria após três anos de sofrimento.
-Ronaldo, desencarnou com 23 anos e, para o caro leitor avaliar, em nossa vida, ainda quando encarnado, por problemas familiares, tentei por diversas vezes o suicídio. Intoxiquei-me com drogas sem ter a consciência do que fazia. Ronaldo, quinze dias antes do seu desencarne, chamou-me e comovidamente fez-me jurar que nunca mais tentasse contra minha vida, dizendo-me: “— Só Jesus pode ditar nossa partida e quando ela chegar ele nos chama.” — Na sua súplica, via em seus olhos o amor que existia em seu coração para com a mãe que muito o magoara.
+Minha felicidade voltou e após essa mensagem, recebida no dia 9.4.1976, no mês seguinte Ronaldo aniversariava. Fiz uma festa, convidei todas as crianças vizinhas como Ronaldo gostava, cantamos o parabéns. Essa foi a primeira alegria após três anos de sofrimento.
+Ronaldo, desencarnou com 23 anos e, para o caro leitor avaliar, em nossa vida, ainda quando encarnado, por problemas familiares, tentei por diversas vezes o suicídio. Intoxiquei-me com drogas sem ter a consciência do que fazia. Ronaldo, quinze dias antes do seu desencarne, chamou-me e comovidamente fez-me jurar que nunca mais tentasse contra minha vida, dizendo-me: — “Só Jesus pode ditar nossa partida e quando ela chegar ele nos chama.”
+Na sua súplica, via em seus olhos o amor que existia em seu coração para com a mãe que muito o magoara.
 Hoje, como na mensagem, ainda recordo suas palavras que, como dínamo, refazem minhas forças e condições de seguir e lutar.
 Por tudo isso, agradeço e peço a Deus que transfira os méritos da minha felicidade ao Chico, esse coração que nestes 50 anos só soube amar e tranquilizar os desesperados como eu.
-Após um ano da minha estada em Uberaba, isto é em 09.04.1976, por dádiva de Deus, a lacuna deixada por meu filho no coração dos familiares, foi preenchida por meu sobrinho Ronaldinho, nascido exatamente em 09.04.1977. Encaro-o como se fosse meu filho. Meu irmão colocou seu nome em honra, carinho e afeto que tinha pelo seu sobrinho, meu filho Ronaldo.
+Após um ano da minha estada em Uberaba, isto é em 9.4.1976, por dádiva de Deus, a lacuna deixada por meu filho no coração dos familiares, foi preenchida por meu sobrinho Ronaldinho, nascido exatamente em 9.4.1977. Encaro-o como se fosse meu filho. Meu irmão colocou seu nome em honra, carinho e afeto que tinha pelo seu sobrinho, meu filho Ronaldo.
 Chico Xavier, no amanhã luminoso do nosso entendimento ficará marcado para sempre. Foi o interruptor que ligou e clareou os caminhos que hoje trilhamos no campo do equilíbrio cristão.
 Deu-nos o verdadeiro sentido, o amor seja na sua palavra ou na palavra de meu filho, é e será para todo o sempre o melhor calmante que não arrasa o nosso equilíbrio físico e espiritual e dá-nos forças para novas tentativas de trabalho no aprendizado de Jesus.
-Perdoem-me os leitores, minha felicidade precisa ser exposta no agradecimento aos companheiros do IDEAL,
-nstituto de
-ivulgação
-ditora
-ndré
-uiz, que sem saber chegaram até nós para este testemunho, exatamente no dia em que Ronaldo aniversaria. Meu irmão Roberto Angeloantonio, que me surpreendeu com a reunião de vários casais amigos de meu filho em sua casa, para relembrarem esta data. A Deus pela oportunidade. Aos amigos leitores pela atenção e aos que necessitam, possam encontrar nestas minhas palavras algum conforto.
+Perdoem-me os leitores, minha felicidade precisa ser exposta no agradecimento aos companheiros do IDEAL, Instituto de Divulgação Editora André Luiz, que sem saber chegaram até nós para este testemunho, exatamente no dia em que Ronaldo aniversaria. Meu irmão Roberto Angeloantonio, que me surpreendeu com a reunião de vários casais amigos de meu filho em sua casa, para relembrarem esta data. A Deus pela oportunidade. Aos amigos leitores pela atenção e aos que necessitam, possam encontrar nestas minhas palavras algum conforto.
 
 ---
 
-## 19 — José Gonçalves Pereira
+## 19
 
-Meu primeiro encontro com Francisco Cândido Xavier, foi em 17-08-1951, quando fui a Pedro Leopoldo em companhia de Pietro Ubaldi, Dr. Clovis Tavares e Antônio Batista Lino, tendo sido apresentado antes pela Sra. Zaira Junqueira Pitt, pessoa muito querida do Chico.
-Nessa ocasião, Jesus ofertou-me a oportunidade de co-participar de uma reunião na Fazenda Modelo, com a presença do Dr. Rômulo Joviano, quando nosso querido Chico recebeu uma mensagem de Francisco de Assis, endereçada a Pietro Ubaldi, impressa no livro Conferências no Brasil, Editora O Pensamento.
+Meu primeiro encontro com Francisco Cândido Xavier, foi em 17.8.1951, quando fui a Pedro Leopoldo em companhia de Pietro Ubaldi, Dr. Clovis Tavares e Antônio Batista Lino, tendo sido apresentado antes pela Sra. Zaira Junqueira Pitt, pessoa muito querida do Chico.
+Nessa ocasião, Jesus ofertou-me a oportunidade de coparticipar de uma reunião na Fazenda Modelo, com a presença do Dr. Rômulo Joviano, quando nosso querido Chico recebeu uma mensagem de Francisco de Assis, endereçada a Pietro Ubaldi, impressa no livro Conferências no Brasil, Editora O Pensamento.
 No advento dessa mensagem, Pietro Ubaldi também recebia a sua, Vós, o seu guia Espiritual o presenteava com sua presença. Muito admirados e emocionados, percebíamos o ambiente se tornar aos poucos todo iluminado. Sentíamos a grande elevação espiritual que aqueles momentos possuíam.
 O interessante é que os participantes, em número de doze, vieram de vários estados brasileiros e maravilhados com o acontecimento não cansavam de comentá-lo entre si.
 Pietro Ubaldi, emocionadíssimo, não só com o conteúdo dessa riquíssima mensagem, como também e especialmente pela maneira profunda da identificação com as suas necessidades e, em vista disso, muito a comentou durante o nosso período de regresso.
 Posteriormente, mantivemos novos encontros, dentre eles, recebemos em 1952 uma mensagem de minha mãe (Alvina Rodrigues Gonçalves Pereira). Nessa mensagem trouxe-nos novas provas de grande valia, com identificações relacionadas com os familiares. Deu-nos bases para confirmar o valor da mediunidade de Francisco Cândido Xavier.
-Destacando como um dos valores acima mencionados, os nomes dos meus irmãos e de meu pai Horácio Gonçalves Pereira,
-n
-que não tinham sido mencionados ao Chico, mas pensava neles no momento.
+Destacando como um dos valores acima mencionados, os nomes dos meus irmãos e de meu pai Horácio Gonçalves Pereira, que não tinham sido mencionados ao Chico, mas pensava neles no momento.
 A questão da filha mais velha não aceitar o Espiritismo, foi comprovada, pois, em tempo oportuno, ela se tornou espírita, assumindo responsabilidades e tarefas na evangelização da infância e juventude. Assim suas irmãs Jeny e Eny.
 Para que os leitores possam ter a ideia do que mencionamos, à seguir transcreveremos a mensagem.
 Pedro Leopoldo, 7 de Junho de 1952.
-Filho do meu coração, Deus abençoe todos os seus passos, amparando sempre as suas realizações.
-Se o coração pudesse falar com letras o que lhe
-por dentro, por certo, as lágrimas de alegria que eu choro estariam neste papel como notas de luz do amor que nos une para sempre.
-Quisera ter aqui, ao meu lado, igualmente, a nossa Luiza e as minhas queridas netas para envolvê-las no mesmo cântico de júbilo e reconhecimento. Entretanto, seu lar é para nós um santuário e, sempre que me é possível, lá me encontro, rogando ao Senhor nos conceda a felicidade de viver invariavelmente unidos em nosso ideal de renovação.
-Meu filho, tantos
-passaram, mas o amor não se modifica.
-O tempo é como uma veste do nosso Espírito — a roupa se altera, mas nossa alma permanece acima de todas as transformações e de todos os reajustes.
-Do passado até agora, muita mudança poderíamos registrar… Graças a Deus, porém, e digo-o com santa vaidade no coração, a maior de todas foi o seu crescimento e a sua fidelidade ao bem.
-Lembro-me dos dias em que conservando você tenro e pequenino, junto do peito, pedia a Deus fizesse de seu destino uma linda história de auxílio e
-para a nossa casa.
-Via Horácio lutando e pensava — “hoje será difícil, mas os meninos serão homens e tudo melhorará”.
-Agora encontro em nosso caminho as bênçãos de seu esforço. Quando chego à sua casa, meu filho, tenho a
-de que as
-do seu suor se transformaram em flores de luz.
-Na bondade de sua companheira que considero filha de minhalma e no carinho das pequenas, encontro tudo
-que eu sonhei para o futuro.
-Louvado seja Deus que ouviu nossas preces e santificou a nossa boa vontade.
-Você pergunta por seu
-e devo dizer lhe que
-
-passando bem, enriquecendo-se para a vanguarda do serviço que o espera no porvir.
-Você sabe que nada existe sem preço e as conquistas espirituais reclamam muito esforço. Horácio tem realizado muito e já
-até mesmo em sua missão de amor. Lucinda tem
-lutado bastante. Amélia, a nossa Amélia querida, conta outras tarefas que não me é
-relacionar agora e o nosso
-continua merecendo a nossa carinhosa
-.
-Sei que você tem feito por nós quanto pode fazer, em sacrifício e ternura, um filho e um irmão, dedicado ao nosso bem, contudo, peço ainda a você e à nossa Luiza não se desanimarem com as lutas.
-Há corações que se ligam aos nossos, obedecendo ao pretérito
-e escuro e que devemos amparar, de longe ou de perto, sem desalento.
-As mães, meu filho, não adormecem. Nosso amor é como uma raiz viva e persistente no fundo da terra — ainda que a foice nos decepe os ramos renascentes, continuamos invisíveis embora, na profundeza do solo dos sentimentos, buscando meios de voltar para redimir, auxiliando e sustentando sempre.
-Em casa, a nossa Alvina tem recebido toda a nossa dedicação.
-é uma herdeira afortunada de grande cultura da
-e se tem ainda certas
-para
-o Espiritismo, em sua feição integral, tempo virá em que esposará nossos princípios de hoje com todos os primorosos recursos de seu cérebro e de seu coração para o desempenho das lindas tarefas que trouxe ao renascer. Esperemos e confiemos.
-Desnecessário será dizer a você que contamos sempre com o seu devotamento e com a sua
-.
-Filho querido, a única identidade que nos torna reconhecidos, além da morte, é
-que procede das boas obras. A caridade é a nossa luz para o grande caminho que o futuro nos descortina. Não se canse de espalhar lhe as bênçãos. E não olvidemos que
-para auxiliar é sempre o maior privilégio para o coração ligado a Jesus.
-Que Deus nos abençoe e nos
-. E reunindo você, Luiza e as netinhas no meu abraço, cheio de carinho e de reconhecimento, sou, com todo o coração, a mãezinha muito amiga que não os esquece.
-Continuando ainda em novos encontros em Pedro Leopoldo com Chico Xavier, tivemos oportunidades de aprender o valor da Doutrina Espírita, assimilando mais as obras de Allan Kardec, através da leitura dos livros de Emmanuel, André Luiz, Humberto de Campos, Batuíra, Meimei, Auta de Souza e mensagens de Scheilla, permitindo-nos ainda receber do médium Chico Xavier exemplos edificantes de trabalho, perseverança, humildade, renúncia, amor e fidelidade à Doutrina que nos permitiram desenvolver as nossas atividades nas Obras Assistenciais da Federação Espírita do Estado de São Paulo, mostrando, conforme mensagem recebida na mesma data da recebida de mamãe Alvina. Seu título, MEU AMIGO, MUITA PAZ. Junho de 1952. Seu conteúdo veio traçar um roteiro de luz e amor para as obras assistenciais espíritas, despertando-nos para as responsabilidades de vivência do Evangelho na prática da caridade, que é o Amor em ação. (conforme nos diz André Luiz). Vamos à leitura dessa beleza de mensagem.
-
-Meu amigo, muita paz!
-A assistência social é a fraternidade em ação.
-Sem ela, indiscutivelmente, os nossos mais preciosos arrazoados verbalísticos não passariam de belos mostruários sonoros.
-É necessário teorizar com o exemplo se desejamos argumentar com eficiência e segurança, no campo de nossas realizações.
-Se é verdade que as obras sem ideal são primorosas esculturas da arte humana, sem o calor da vida, a fé sem obras, segundo já nos asseverava a palavra apostólica, há quase dois mil anos,
-não passa de um cadáver bem adornado.
-A escola, a maternidade, a creche,
-o hospital, o refúgio de esperança aos viajantes da amargura, o albergue, o posto de socorro,
-a visitação fraterna aos doentes e aos necessitados, a palestra amiga e confortadora,
-a casa de desobsessão,
-o auxílio de emergência aos companheiros de angústia, o amparo aos irmãos presidiários,
-a cooperação metódica nos centros especializados de tratamento, quais sejam os sanatórios, os hospitais e os leprozários,
-a contribuição desinteressada, enfim, a dor de todos matizes e de todas as procedências, desafiam a nossa capacidade de imaginar, organizar e fazer, afim de que possamos momentalizar a nossa Doutrina de Amor e Luz no mundo vivo dos corações.
-Trabalhemos, auxiliando-nos uns aos outros. Somos associados de uma só empresa de redenção, usando o sentimento, o raciocínio, as mãos, a palavra, a tribuna, a imprensa e o livro para o mesmo glorioso desiderato.
-Conscientes, pois, de nossas responsabilidades, marchemos para diante, sob a inspiração do Cristo, Nosso Senhor e Mestre, entrelaçando braços e corações na mesma vibração de otimismo e esperança, serviço e sublimação.
-Hoje é o nosso dia. Agora é o momento.
-A luta é a nossa oportunidade.
-Ajudar é a honra que nos compete.
-Sigamos assim, destemerosos e firmes na certeza de que o Senhor permanece conosco e, indubitavelmente, alcançaremos amanhã a alegria e a paz do mundo melhor.
-Em outras oportunidades, estávamos certa madrugada entre os pés dos eucaliptos, quando um grupo de estudo de astronomia estava examinando as estrelas e a lua. Alguns companheiros começaram a comentar que somente a Terra era um plano habitado. Adentrávamos a madrugada com esse comentário, quando compareceu o Espírito de André Luiz e através de Chico Xavier comentou: — “Observando seus comentários que somente a Terra tem condições de ser habitada, achei conveniente mencionar aos nossos irmãos, que essas opiniões poderão ser esclarecidas e, para isto, imaginemos o oceano Pacífico, como o é, o maior da Terra e, joguemos uma laranja em seu meio, comparando, como se a laranja fosse do tamanho da Terra, e o oceano o Infinito, e nós seus habitantes: Pergunto, como ficaria o resto?” Consideramos portanto o ensinamento de Jesus quando nos disse: “Há muitas moradas na casa de meu Pai”
-.
+1 Filho do meu coração, Deus abençoe todos os seus passos, amparando sempre as suas realizações.
+2 Se o coração pudesse falar com letras o que lhe vae por dentro, por certo, as lágrimas de alegria que eu choro estariam neste papel como notas de luz do amor que nos une para sempre. 3 Quisera ter aqui, ao meu lado, igualmente, a nossa Luiza e as minhas queridas netas para envolvê-las no mesmo cântico de júbilo e reconhecimento. Entretanto, seu lar é para nós um santuário e, sempre que me é possível, lá me encontro, rogando ao Senhor nos conceda a felicidade de viver invariavelmente unidos em nosso ideal de renovação.
+4 Meu filho, tantos annos passaram, mas o amor não se modifica. 5 O tempo é como uma veste do nosso Espírito — a roupa se altera, mas nossa alma permanece acima de todas as transformações e de todos os reajustes.
+6 Do passado até agora, muita mudança poderíamos registrar… Graças a Deus, porém, e digo-o com santa vaidade no coração, a maior de todas foi o seu crescimento e a sua fidelidade ao bem. 7 Lembro-me dos dias em que conservando você tenro e pequenino, junto do peito, pedia a Deus fizesse de seu destino uma linda história de auxílio e triumpho para a nossa casa. 8 Via Horácio lutando e pensava — “hoje será difícil, mas os meninos serão homens e tudo melhorará”. 9 Agora encontro em nosso caminho as bênçãos de seu esforço. Quando chego à sua casa, meu filho, tenho a ideia de que as gottas do seu suor se transformaram em flores de luz. 10 Na bondade de sua companheira que considero filha de minhalma e no carinho das pequenas, encontro tudo aquillo que eu sonhei para o futuro.
+11 Louvado seja Deus que ouviu nossas preces e santificou a nossa boa vontade.
+12 Você pergunta por seu pae e devo dizer lhe que elle vae passando bem, enriquecendo-se para a vanguarda do serviço que o espera no porvir. 13 Você sabe que nada existe sem preço e as conquistas espirituais reclamam muito esforço. Horácio tem realizado muito e já collabora até mesmo em sua missão de amor. Lucinda tem actualmente lutado bastante. Amélia, a nossa Amélia querida, conta outras tarefas que não me é permittido relacionar agora e o nosso Benedicto continua merecendo a nossa carinhosa attenção. 14 Sei que você tem feito por nós quanto pode fazer, em sacrifício e ternura, um filho e um irmão, dedicado ao nosso bem, contudo, peço ainda a você e à nossa Luiza não se desanimarem com as lutas. 15 Há corações que se ligam aos nossos, obedecendo ao pretérito afflictivo e escuro e que devemos amparar, de longe ou de perto, sem desalento.
+16 As mães, meu filho, não adormecem. Nosso amor é como uma raiz viva e persistente no fundo da terra — ainda que a foice nos decepe os ramos renascentes, continuamos invisíveis embora, na profundeza do solo dos sentimentos, buscando meios de voltar para redimir, auxiliando e sustentando sempre.
+17 Em casa, a nossa Alvina tem recebido toda a nossa dedicação. Ella é uma herdeira afortunada de grande cultura da intelligência e se tem ainda certas difficuldades para acceitar o Espiritismo, em sua feição integral, tempo virá em que esposará nossos princípios de hoje com todos os primorosos recursos de seu cérebro e de seu coração para o desempenho das lindas tarefas que trouxe ao renascer. Esperemos e confiemos.
+18 Desnecessário será dizer a você que contamos sempre com o seu devotamento e com a sua comprehensão.
+19 Filho querido, a única identidade que nos torna reconhecidos, além da morte, é aquella que procede das boas obras. A caridade é a nossa luz para o grande caminho que o futuro nos descortina. Não se canse de espalhar lhe as bênçãos. E não olvidemos que soffrer para auxiliar é sempre o maior privilégio para o coração ligado a Jesus.
+20 Que Deus nos abençoe e nos illumine. E reunindo você, Luiza e as netinhas no meu abraço, cheio de carinho e de reconhecimento, sou, com todo o coração, a mãezinha muito amiga que não os esquece.
+Continuando ainda em novos encontros em Pedro Leopoldo com Chico Xavier, tivemos oportunidades de aprender o valor da Doutrina Espírita, assimilando mais as obras de Allan Kardec, através da leitura dos livros de Emmanuel, André Luiz, Humberto de Campos, Batuíra, Meimei, Auta de Souza e mensagens de Scheilla, permitindo-nos ainda receber do médium Chico Xavier exemplos edificantes de trabalho, perseverança, humildade, renúncia, amor e fidelidade à Doutrina que nos permitiram desenvolver as nossas atividades nas Obras Assistenciais da Federação Espírita do Estado de São Paulo, mostrando, conforme mensagem recebida na mesma data da recebida de mamãe Alvina. Seu título, MEU AMIGO, MUITA PAZ. n Junho de 1952. Seu conteúdo veio traçar um roteiro de luz e amor para as obras assistenciais espíritas, despertando-nos para as responsabilidades de vivência do Evangelho na prática da caridade, que é o Amor em ação. (conforme nos diz André Luiz). Vamos à leitura dessa beleza de mensagem.
+1 Meu amigo, muita paz!
+2 A assistência social é a fraternidade em ação. 3 Sem ela, indiscutivelmente, os nossos mais preciosos arrazoados verbalísticos não passariam de belos mostruários sonoros.
+4 É necessário teorizar com o exemplo se desejamos argumentar com eficiência e segurança, no campo de nossas realizações.
+5 Se é verdade que as obras sem ideal são primorosas esculturas da arte humana, sem o calor da vida, a fé sem obras, segundo já nos asseverava a palavra apostólica, há quase dois mil anos, ( † ) não passa de um cadáver bem adornado.
+6 A escola, a maternidade, a creche, 7 o hospital, o refúgio de esperança aos viajantes da amargura, o albergue, o posto de socorro, 8 a visitação fraterna aos doentes e aos necessitados, a palestra amiga e confortadora, 9 a casa de desobsessão, 10 o auxílio de emergência aos companheiros de angústia, o amparo aos irmãos presidiários, 11 a cooperação metódica nos centros especializados de tratamento, quais sejam os sanatórios, os hospitais e os leprozários, 12 a contribuição desinteressada, enfim, a dor de todos matizes e de todas as procedências, desafiam a nossa capacidade de imaginar, organizar e fazer, afim de que possamos momentalizar a nossa Doutrina de Amor e Luz no mundo vivo dos corações.
+13 Trabalhemos, auxiliando-nos uns aos outros. Somos associados de uma só empresa de redenção, usando o sentimento, o raciocínio, as mãos, a palavra, a tribuna, a imprensa e o livro para o mesmo glorioso desiderato.
+14 Conscientes, pois, de nossas responsabilidades, marchemos para diante, sob a inspiração do Cristo, Nosso Senhor e Mestre, entrelaçando braços e corações na mesma vibração de otimismo e esperança, serviço e sublimação.
+15 Hoje é o nosso dia. Agora é o momento.
+16 A luta é a nossa oportunidade.
+17 Ajudar é a honra que nos compete.
+18 Sigamos assim, destemerosos e firmes na certeza de que o Senhor permanece conosco e, indubitavelmente, alcançaremos amanhã a alegria e a paz do mundo melhor.
+Em outras oportunidades, estávamos certa madrugada entre os pés dos eucaliptos, quando um grupo de estudo de astronomia estava examinando as estrelas e a lua. Alguns companheiros começaram a comentar que somente a Terra era um plano habitado. Adentrávamos a madrugada com esse comentário, quando compareceu o Espírito de André Luiz e através de Chico Xavier comentou: — “Observando seus comentários que somente a Terra tem condições de ser habitada, achei conveniente mencionar aos nossos irmãos, que essas opiniões poderão ser esclarecidas e, para isto, imaginemos o oceano Pacífico, como o é, o maior da Terra e, joguemos uma laranja em seu meio, comparando, como se a laranja fosse do tamanho da Terra, e o oceano o Infinito, e nós seus habitantes: Pergunto, como ficaria o resto?”
+Consideramos portanto o ensinamento de Jesus quando nos disse: “Há muitas moradas na casa de meu Pai”. ( † )
 Nos contatos subsequentes com Chico, o acompanhamos em muitas tarefas de Assistência Social, aos carecedores de auxílio, quando realizávamos juntos, visitas diurnas e noturnas nos lares mais humildes nos arrabaldes da cidade. O Lar dos Velhinhos “Lindolfo Ferreira”, demonstrava-nos mais uma atividade como vivência do Evangelho. Finalizando a fase em Pedro Leopoldo, ainda, em reuniões da Doutrina na cidade de Matozinhos, chegou-nos uma mensagem através de sua psicografia, de Irene S. Pinto, quando mencionava a sua presença e nos confirmava assunto de meu conhecimento no encaminhamento de uma irmã a ser atendida em São Paulo. Para que testemunhássemos a autenticidade e a veracidade de seus dizeres, colocou-nos em mãos, número, rua e local onde jazia seu túmulo. Para nós, confiantes em sua mensagem, deixamos de verificar, mas, com o passar dos tempos, recebemos através do Dr. Walter Gonçalves, que na oportunidade exercia a função de Engenheiro Supervisor dos Cemitérios na Capital de São Paulo, sabendo de nossa ligação e conhecedor da mensagem de Irene, gentilmente enviou-nos a foto do seu túmulo, onde constava todos os detalhes mencionados em sua mensagem.
 Motivado por todo este aprendizado e exemplos de amor e dedicação de Chico Xavier e, através das mensagens recebidas dos nossos Benfeitores Espirituais, trouxe-nos a necessidade de ampliarmos nosso programa da Federação Espírita do Estado de São Paulo, levando-nos à criação da Casa Transitória, baseada nas obras mediúnicas de André Luiz, nos volumes do Nosso Lar e Obreiros da Vida Eterna, quando recebemos a mensagem de Batuíra, que nos trouxe orientação e incentivo mencionando a necessidade urgente na construção desta obra.
 Novembro de 1954.
-…Nesse sentido, a Casa Transitória, com os serviços assistenciais que nos dizem respeito, surge, sempre mais imperiosa, mais urgente.
-Não desconhecemos o acervo dos problemas que a edificação e consolidação da obra exige em si, mas contamos igualmente com a infinita bondade do Senhor que não nos olvidará em Sua ilimitada misericórdia.
-Cremos realmente que situar a instituição, na parte central de nossa cidade seria de momento uma iniciativa impraticável, entretanto, o meio-termo para a localização da obra será indiscutivelmente a solução ideal do problema.
-Nem o agravo de responsabilidades materiais no centro urbano, nem as dificuldades da distância excessiva nas regiões que lhe sejam vizinhas.
-Daí, o motivo pelo qual consideramos de grande oportunidade o teu entendimento com os irmãos da Assistência, tanto quanto com as autoridades que nos dirigem o instituto venerável, a fim de que o assunto possa ser estudado em alicerces tão sólidos quanto possíveis.
-Guarda, contigo, a certeza de que não estarás sozinho no trato da questão… Durante o período de implantação, em nossas horas difíceis, recebemos incentivo, orientação, amparo e sustentação do mundo espiritual.
-Devemos agradecer a Jesus que nos permitiu conhecer o médium Francisco Cândido Xavier e que no andamento dessa obra, proporcionou a oportunidade de auxiliar milhares de irmãos nas suas necessidades, exercitando na prática a vivência da Doutrina Consoladora que, como ensinou Allan Kardec “Fora da caridade não há salvação”.
+1 … Nesse sentido, a Casa Transitória, com os serviços assistenciais que nos dizem respeito, surge, sempre mais imperiosa, mais urgente.
+2 Não desconhecemos o acervo dos problemas que a edificação e consolidação da obra exige em si, mas contamos igualmente com a infinita bondade do Senhor que não nos olvidará em Sua ilimitada misericórdia. 3 Cremos realmente que situar a instituição, na parte central de nossa cidade seria de momento uma iniciativa impraticável, entretanto, o meio-termo para a localização da obra será indiscutivelmente a solução ideal do problema. 4 Nem o agravo de responsabilidades materiais no centro urbano, nem as dificuldades da distância excessiva nas regiões que lhe sejam vizinhas.
+5 Daí, o motivo pelo qual consideramos de grande oportunidade o teu entendimento com os irmãos da Assistência, tanto quanto com as autoridades que nos dirigem o instituto venerável, a fim de que o assunto possa ser estudado em alicerces tão sólidos quanto possíveis.
+6 Guarda, contigo, a certeza de que não estarás sozinho no trato da questão…
+Durante o período de implantação, em nossas horas difíceis, recebemos incentivo, orientação, amparo e sustentação do mundo espiritual.
+Devemos agradecer a Jesus que nos permitiu conhecer o médium Francisco Cândido Xavier e que no andamento dessa obra, proporcionou a oportunidade de auxiliar milhares de irmãos nas suas necessidades, exercitando na prática a vivência da Doutrina Consoladora que, como ensinou Allan Kardec “Fora da caridade não há salvação.”
 De uma maneira mais ampla, devemos assinalar ou destacar o exercício da mediunidade de Francisco Cândido Xavier, da Luz e do Amor, não só pelas comunicações dos Espíritos Benfeitores que nos trouxeram esclarecimentos do Evangelho do Senhor, como também nos exemplos que Chico Xavier nos ofereceu em todos os instantes, quer nos trazendo o amparo através dos órgãos noticiosos como jornais, revistas e televisões, como por exemplo, o programa Pinga-Fogo, e junto as Autoridades Públicas, onde recebeu título de Cidadão em várias cidades e capitais no Brasil e, com toda humildade transferiu os valores desses títulos à Doutrina Espírita.
-Mostrou-nos com isso, a renúncia e o devido valor dos nossos Benfeitores Espirituais, demonstrando mais uma vez, que o amor ao trabalho edificante só nos trará a consciência de que a caridade em prol do nosso semelhante, é e será sempre reconhecida por aqueles que compreendem, respeitam e reconhecem o valor da mediunidade a serviço de Cristo.
-Traz-nos a alegria, paz e a certeza, que no amanhã estaremos nos reunindo na Pátria Espiritual, onde iremos reconhecer que o aprendizado trazido e aceito, colocou-nos na condição de reconhecidos e devedores a esse médium querido, Francisco Cândido Xavier.
-Nosso reconhecimento ainda se estende num pedido a Deus: que lhe dê as forças necessárias e, que Francisco Cândido Xavier não fique só nos 150 livros, [até julho de 1977] que continue no seu trabalho mediúnico, a nos dar a palavra desses irmãos que incansavelmente trazem-nos à luz, o Amor de Deus.
-Meu amigo, muita paz!
-A assistência social é a fraternidade em ação.
-Sem ela, indiscutivelmente, os nossos mais preciosos arrazoados verbalísticos não passariam de belos mostruários sonoros.
-É necessário teorizar com o exemplo se desejamos argumentar com eficiência e segurança, no campo de nossas realizações.
-Se é verdade que as obras sem ideal são primorosas esculturas da arte humana, sem o calor da vida, a fé sem obras, segundo já nos asseverava a palavra apostólica, há quase dois mil anos,
-não passa de um cadáver bem adornado.
-A escola, a maternidade, a creche,
-o hospital, o refúgio de esperança aos viajantes da amargura, o albergue, o posto de socorro,
-a visitação fraterna aos doentes e aos necessitados, a palestra amiga e confortadora,
-a casa de desobsessão,
-o auxílio de emergência aos companheiros de angústia, o amparo aos irmãos presidiários,
-a cooperação metódica nos centros especializados de tratamento, quais sejam os sanatórios, os hospitais e os leprozários,
-a contribuição desinteressada, enfim, a dor de todos matizes e de todas as procedências, desafiam a nossa capacidade de imaginar, organizar e fazer, afim de que possamos momentalizar a nossa Doutrina de Amor e Luz no mundo vivo dos corações.
-Trabalhemos, auxiliando-nos uns aos outros. Somos associados de uma só empresa de redenção, usando o sentimento, o raciocínio, as mãos, a palavra, a tribuna, a imprensa e o livro para o mesmo glorioso desiderato.
-Conscientes, pois, de nossas responsabilidades, marchemos para diante, sob a inspiração do Cristo, Nosso Senhor e Mestre, entrelaçando braços e corações na mesma vibração de otimismo e esperança, serviço e sublimação.
-Hoje é o nosso dia. Agora é o momento.
-A luta é a nossa oportunidade.
-Ajudar é a honra que nos compete.
-Sigamos assim, destemerosos e firmes na certeza de que o Senhor permanece conosco e, indubitavelmente, alcançaremos amanhã a alegria e a paz do mundo melhor.
-Em outras oportunidades, estávamos certa madrugada entre os pés dos eucaliptos, quando um grupo de estudo de astronomia estava examinando as estrelas e a lua. Alguns companheiros começaram a comentar que somente a Terra era um plano habitado. Adentrávamos a madrugada com esse comentário, quando compareceu o Espírito de André Luiz e através de Chico Xavier comentou: — “Observando seus comentários que somente a Terra tem condições de ser habitada, achei conveniente mencionar aos nossos irmãos, que essas opiniões poderão ser esclarecidas e, para isto, imaginemos o oceano Pacífico, como o é, o maior da Terra e, joguemos uma laranja em seu meio, comparando, como se a laranja fosse do tamanho da Terra, e o oceano o Infinito, e nós seus habitantes: Pergunto, como ficaria o resto?” Consideramos portanto o ensinamento de Jesus quando nos disse: “Há muitas moradas na casa de meu Pai”
-.
-Nos contatos subsequentes com Chico, o acompanhamos em muitas tarefas de Assistência Social, aos carecedores de auxílio, quando realizávamos juntos, visitas diurnas e noturnas nos lares mais humildes nos arrabaldes da cidade. O Lar dos Velhinhos “Lindolfo Ferreira”, demonstrava-nos mais uma atividade como vivência do Evangelho. Finalizando a fase em Pedro Leopoldo, ainda, em reuniões da Doutrina na cidade de Matozinhos, chegou-nos uma mensagem através de sua psicografia, de Irene S. Pinto, quando mencionava a sua presença e nos confirmava assunto de meu conhecimento no encaminhamento de uma irmã a ser atendida em São Paulo. Para que testemunhássemos a autenticidade e a veracidade de seus dizeres, colocou-nos em mãos, número, rua e local onde jazia seu túmulo. Para nós, confiantes em sua mensagem, deixamos de verificar, mas, com o passar dos tempos, recebemos através do Dr. Walter Gonçalves, que na oportunidade exercia a função de Engenheiro Supervisor dos Cemitérios na Capital de São Paulo, sabendo de nossa ligação e conhecedor da mensagem de Irene, gentilmente enviou-nos a foto do seu túmulo, onde constava todos os detalhes mencionados em sua mensagem.
-Motivado por todo este aprendizado e exemplos de amor e dedicação de Chico Xavier e, através das mensagens recebidas dos nossos Benfeitores Espirituais, trouxe-nos a necessidade de ampliarmos nosso programa da Federação Espírita do Estado de São Paulo, levando-nos à criação da Casa Transitória, baseada nas obras mediúnicas de André Luiz, nos volumes do Nosso Lar e Obreiros da Vida Eterna, quando recebemos a mensagem de Batuíra, que nos trouxe orientação e incentivo mencionando a necessidade urgente na construção desta obra.
-Novembro de 1954.
-…Nesse sentido, a Casa Transitória, com os serviços assistenciais que nos dizem respeito, surge, sempre mais imperiosa, mais urgente.
-Não desconhecemos o acervo dos problemas que a edificação e consolidação da obra exige em si, mas contamos igualmente com a infinita bondade do Senhor que não nos olvidará em Sua ilimitada misericórdia.
-Cremos realmente que situar a instituição, na parte central de nossa cidade seria de momento uma iniciativa impraticável, entretanto, o meio-termo para a localização da obra será indiscutivelmente a solução ideal do problema.
-Nem o agravo de responsabilidades materiais no centro urbano, nem as dificuldades da distância excessiva nas regiões que lhe sejam vizinhas.
-Daí, o motivo pelo qual consideramos de grande oportunidade o teu entendimento com os irmãos da Assistência, tanto quanto com as autoridades que nos dirigem o instituto venerável, a fim de que o assunto possa ser estudado em alicerces tão sólidos quanto possíveis.
-Guarda, contigo, a certeza de que não estarás sozinho no trato da questão… Durante o período de implantação, em nossas horas difíceis, recebemos incentivo, orientação, amparo e sustentação do mundo espiritual.
-Devemos agradecer a Jesus que nos permitiu conhecer o médium Francisco Cândido Xavier e que no andamento dessa obra, proporcionou a oportunidade de auxiliar milhares de irmãos nas suas necessidades, exercitando na prática a vivência da Doutrina Consoladora que, como ensinou Allan Kardec “Fora da caridade não há salvação”.
-De uma maneira mais ampla, devemos assinalar ou destacar o exercício da mediunidade de Francisco Cândido Xavier, da Luz e do Amor, não só pelas comunicações dos Espíritos Benfeitores que nos trouxeram esclarecimentos do Evangelho do Senhor, como também nos exemplos que Chico Xavier nos ofereceu em todos os instantes, quer nos trazendo o amparo através dos órgãos noticiosos como jornais, revistas e televisões, como por exemplo, o programa Pinga-Fogo, e junto as Autoridades Públicas, onde recebeu título de Cidadão em várias cidades e capitais no Brasil e, com toda humildade transferiu os valores desses títulos à Doutrina Espírita.
-Mostrou-nos com isso, a renúncia e o devido valor dos nossos Benfeitores Espirituais, demonstrando mais uma vez, que o amor ao trabalho edificante só nos trará a consciência de que a caridade em prol do nosso semelhante, é e será sempre reconhecida por aqueles que compreendem, respeitam e reconhecem o valor da mediunidade a serviço de Cristo.
+Mostrou-nos com isso, a renúncia e o devido valor dos nossos Benfeitores Espirituais, demonstrando mais uma vez, que o amor ao trabalho edificante só nos trará a consciência de que a caridade em prol do nosso semelhante, é e será sempre reconhecida por aqueles que compreendem, respeitam e reconhecem o valor da mediunidade a serviço do Cristo. n
 Traz-nos a alegria, paz e a certeza, que no amanhã estaremos nos reunindo na Pátria Espiritual, onde iremos reconhecer que o aprendizado trazido e aceito, colocou-nos na condição de reconhecidos e devedores a esse médium querido, Francisco Cândido Xavier.
 Nosso reconhecimento ainda se estende num pedido a Deus: que lhe dê as forças necessárias e, que Francisco Cândido Xavier não fique só nos 150 livros, [até julho de 1977] que continue no seu trabalho mediúnico, a nos dar a palavra desses irmãos que incansavelmente trazem-nos à luz, o Amor de Deus.
 
 ---
 
-## 20 — Jorge Manoel Gaio
+## 20
 
-> “Com os conhecimentos adquiridos…”
-> — “Com os conhecimentos adquiridos…”
+> “… com os conhecimentos adquiridos…”
+> — “… com os conhecimentos adquiridos…”
 
 Ao nascer fui uma criatura que precisei de muito cuidado. Minha situação de saúde preocupou demais meus pais.
 Meu pai diante do problema, resolveu me mandar a Portugal para rigoroso tratamento.
@@ -1303,9 +988,7 @@ Em meados de 1941, desejoso de viajar a Pedro Leopoldo e, com tudo acertado para
 Dentre os motivos que o levaram a mudar-se para Uberaba e que tínhamos conhecimento, passamos a visitá-lo normalmente, como fazíamos em Pedro Leopoldo.
 Acompanhamos de perto sua ambientação e o início de novas tarefas.
 Em determinada ocasião, em conversa com Chico, comentou-nos que em Uberaba conquistava sua alforria junto aos Benfeitores Espirituais, para a nova fase de seu trabalho, conseguindo na sua amplitude, encaixar suas viagens à serviço da Doutrina e visitas aos Grupos Seareiros.
-No seu roteiro, prazerosamente e graças a Deus, foi incluída nossa FUNDAÇÃO MARIETTA GAIO. Percebíamos que Chico quando visitava o Rio de Janeiro, com muito amor, não deixava de nos alegrar com a sua presença, como se retribuísse as nossas visitas. Em março de 1964 minha mãe
-n
-vem a desencarnar.
+No seu roteiro, prazerosamente e graças a Deus, foi incluída nossa FUNDAÇÃO MARIETTA GAIO. Percebíamos que Chico quando visitava o Rio de Janeiro, com muito amor, não deixava de nos alegrar com a sua presença, como se retribuísse as nossas visitas. Em março de 1964 minha mãe vem a desencarnar.
 Meu pai nessa época já desencarnara. Mesmo sem ter a mediunidade desenvolvida, todas as vezes, seja onde for, com a aproximação de minha mãe, as lágrimas vertem. No dia em que visitávamos Chico em Uberaba, senti sua presença e, logo mais, enviava sua mensagem para nossa alegria.
 Por temperamento, me sinto um pouco rígido na apreciação de qualquer coisa ou assunto, mas minha mãe nessa mensagem, trouxe-me ao conhecimento, o amparo que prestava a seu neto, meu filho Luiz Jorge em decorrência do seu desencarne. Tranquilizou-me muito quanto ao seu encaminhamento espiritual. E, outros esclarecimentos para o conforto de todos os seus familiares.
 De meu pai, também fui agraciado com a Bondade Divina, em permitir seu contato conosco através das mãos benditas de Chico. Em sua mensagem, existe uma particularidade que considero de muita importância para nós, e nos mostra, como prova autêntica, a indiscutível mediunidade de Francisco Cândido Xavier. Meu pai, na comunicação escrita, primava na apresentação de sua letra, levava-a ao papel, toda desenhada no estilo gótico. E quando de sua mensagem, Chico a trouxe no estilo, inclusive a sua assinatura.
@@ -1313,60 +996,19 @@ A mediunidade de Chico, muito nos tem ajudado nos trabalhos da Fundação, pois,
 Com sua mensagem e seus recados, conscientizou-nos ainda mais, que a nossa responsabilidade para com a obra, se fez patente e, ao mesmo tempo, deixou-nos muito felizes em saber que minha mãe galgara oportunidades de trabalho no Plano espiritual.
 Considerando todo o carinho que minha mãe devotava ao Chico, pois o considerava como seu filho, minha vivência dentro da Doutrina Espírita e, com os conhecimentos adquiridos nos trabalhos desenvolvidos pelo meu pai, a presença de Chico em nosso meio, veio sedimentar esses ensinamentos e colocar-nos no campo do entendimento do Evangelho de Jesus, que nos trouxe novas luzes na sua aplicação e nos seus exemplos.
 Com a anuência dos amáveis leitores, publicaremos nesta Edição Comemorativa, a segunda mensagem de minha mãe, recebida em 17.08.1974 em Uberaba — Minas Gerais.
-Queridos filhos Jorge e Nair.
-Glória a Deus nas Alturas e paz na Terra aos corações de boa vontade.
-
-Aqui estamos, tantas mães procurando os filhos, tanto quanto tantos filhos buscando as mães.
-Entendo as mensagens ardentes que se expressam no recinto! Preces de saudade e aflição, de carinho e sofrimento…
-Ainda assim, prevaleço-me, conquanto sem mérito, do ensejo que os nossos Benfeitores me oferecem para escrever-vos!
-Sou, entretanto, também mãe e reconheço as orações de lágrimas que se derramam de tantas bênçãos maternas aqui reunidas! Perdão rogo a todas as nossas irmãs se tomo o lugar de alguém.
-No entanto, o nosso Dr. Bezerra nos informou de que os jovens e amigos aqui de nosso lado, igualmente em prece, não conseguiriam a comunicação desejada, ante as dificuldades do momento para isso.
-Atrevi-me deste modo a me valer da porta que o nosso venerável Benfeitor me descerra ao espírito, a fim de expressarmos o nosso agradecimento a todos os presentes e ao mesmo tempo endereçar-vos algumas palavras de carinho e gratidão, paz e esperança.
-Afinal, filhos queridos, quando nossos pensamentos se permutam no clima do Evangelho, as frases servem por noticiário da alma, em favor de todos. Isso me consola, de vez que, em verdade, solicitava, no íntimo, a ocasião que se nos oferece.
-Filhos queridos, sabemos quanto nos custa a jornada no território de nossas realizações.
-O amparo do Senhor é comparável ao Sol que não nos falta, reabastecendo-nos e sustentando-nos as forças, constantemente, mas devemos pisar o chão terrestre para colaborar na Seara d’Ele, o Divino Mestre que, pela caridade, nos concede a todos o privilégio de compartilhar-Lhe o apostolado de amor, trazendo ao nosso próprio coração o coração dos companheiros que se agitam e sofrem mais do que nós mesmos.
-Sigamos, assim, confiantes, colhendo as rosas do bem, no espinheiro dos problemas, a fim de converter-lhes o perfume em bálsamo que reconforte os aflitos e socorro aos que esmorecem.
-Falamos de espinheiros, entretanto, em vista dos tesouros de amor com que Jesus nos enriquece, obstáculos, na essência, não existem.
-Referimo-nos, porém, com a imagem dos espinhos aos pequenos empeços que em muitos lances da estrada a percorrer, nos parecem grandes entraves quando nos encontramos ainda resguardados no corpo terrestre.
-Continuemos amando para servir mais, trabalhando sempre na extensão do bem para que o bem, ao espalhar-se, igualmente nos alcance, restaurando-nos as energias e sustentando-nos as possibilidades de mais agir para mais servir.
-Nossas tarefas, em nossa querida Instituição, se levantam no dia a dia por nossas bênçãos. Embarcação de paz e vida, socorro e trabalho, a nossa Casa vai singrando no mar da esperança, confiando em Jesus e em Seus Mensageiros.
-Não encontramos outra imagem mais adequada para significar a nossa Fundação, porque diariamente, ali, se alteram as ondas da necessidade humana, oferecendo-nos a ideia de um oceano vasto — a cidade — e uma nave em evolução contínua — a nossa Casa de amor.
-Guardemos a certeza de que os nossos irmãos em lutas e dificuldades maiores do que as nossas são, em verdade, os esteios que nos asseguram a estabilidade e a harmonia.
-Dando, recebemos e auxiliando seremos auxiliados. Lições imensas se encerram nestas sentenças pequeninas.
-Cada oração que nos recebe a fatia de fraternidade se faz mensageiro daqueles outros corações que nos auxiliam da Vida Superior.
-Os ricos de Jesus, sempre apresentados no Evangelho pelos nossos irmãos das retaguardas de sofrimento no mundo, são realmente os ricos de Céu na Terra. Todos eles trazem por si apoio e assistência, colaboração e amparo dos Planos Maiores.
-Cada migalha de auxílio que possamos oferecer é uma semente bendita lançada no solo dos sentimentos humanos, neste mundo e nos outros mundos, produzindo auxílio a mil por uma em favor de nós mesmos.
-A legenda “Caridade” talvez por muito repetida passou quase a ser ignorada.
-Entretanto, a caridade é o sistema de intercâmbio nas faixas de trabalho em que mais extensamente se exprime a presença de Deus. Câmbio Divino, transforma dores em bênçãos e bênçãos em alegrias, trocando sempre ação por redenção, dificuldade por ensinamento, ansiedade em segurança.
-Tudo se troca nos processos da vida. A força da natureza se transubstancia em recursos elétricos, o trigo plantado se converte em pão que abençoa a mesa e a caridade é o ponto mais alto da vida, em que nos será possível transfigurar as nossas próprias fraquezas em apoio celeste.
-Caridade, meu Deus! Se soubéssemos no mundo o que significam estas oito letras reunidas!
-Caridade é o esquecimento de nós para que a lembrança da Humanidade nos dissipe as sombras da angústia na Terra, seja essa angústia nascida da provação ou da insegurança da enfermidade ou do sofrimento moral!
-Aprendamos, filhos queridos, nesta bendita Faculdade de Elevação e nunca nos desorientaremos por falta de rumo.
-Assim é, porque na caridade encontramos Deus e o Próximo, na realização de nós mesmos.
-Agradeçamos as mãos que nos procuram buscando apoio, porque, apoiando-as de algum modo, teremos conosco o apoio d’Aquele que é o Tudo em Todos.
-Nunca nos cansemos, nunca desanimemos.
-Deus não falha. A caridade, luz de Deus, não pode falhar.
-Agradecemos em vós, filhos queridos, a todos aqueles corações que militam conosco em nosso refúgio de paz e serviço.
-A todos, sem distinção, todo o carinho enternecido de mãe que não sei, de minha parte, expressar.
-Deus vos abençoe a todos e a todos nos conceda a felicidade de trabalhar na extensão do bem, para que o bem nos acolha e nos proteja onde estivermos.
-Agora, algumas palavras do coração materno reconhecido: nosso Luiz Jorge está em nossa companhia, renovando-se e crescendo para a vida melhor. Nossa Maria tem visitado as filhas queridas e todos os corações que se lhe fizeram filhos do coração. E promete, à nossa querida Nair, que estará com ela no apostolado em favor das crianças. Desenvolver-se-á na Espiritualidade, através da realização mais ampla a que aspira, em si mesma, no trabalho de proteção aos pequeninos. Várias vezes já tem estado conosco junto de vós outros e dos familiares outros que lhe veneram a memória na Terra.
-À nossa querida Mariazinha, queremos levar a certeza de que não se encontra só. Rogamos à querida filhinha para que enxugue as lágrimas. Estamos recebendo o melhor que as mãos de Jesus, por Seus Mensageiros Divinos, nos podem oferecer. Nosso caro Cepeda está sob o amparo de muitos amigos. E estamos unidos todos para que a segurança e a paz permaneçam conosco. Escuto as preces e apelos da filha querida, enternecidamente, sem saber como reconfortá-la, mas sei que o Senhor não nos abandona e no Senhor esperaremos a solução de nossos problemas e de nossas necessidades.
-Quanto a vossa saúde rogamos para que continueis no tratamento em curso, sem dispêndio desnecessário de energias.
-O equilíbrio entre o trabalho e o repouso, é por si o ponto certo em que os medicamentos encontram a eficácia precisa. Estejamos nesse nível de harmonia entre o “servir e o refazer se”, para que as nossas forças se restaurem sempre que preciso, com o auxílio dos Nossos Benfeitores do Mais Alto e, com Eles, receberemos o amparo de que necessitamos. Louvado seja Deus.
-Filhos queridos, agora é o abraço de mãe com que esta carta deve terminar. Jesus recompense a todos, a todos que me sustentastes nestes minutos de intercâmbio mais direto, através do lápis e das letras. Nosso Gaio envia-vos constantes mensagens de confiança e carinho, e unindo-vos em meu coração, deixa a vós ambos todo o coração reconhecido, a mãezinha e companheira de sempre, sempre carinhosamente convosco em nossa caminhada para Deus.
+1 Queridos filhos Jorge e Nair.
+2 Glória a Deus nas Alturas e paz na Terra aos corações de boa vontade. ( † )
+3 Aqui estamos, tantas mães procurando os filhos, tanto quanto tantos filhos buscando as mães.
+4 Entendo as mensagens ardentes que se expressam no recinto! Preces de saudade e aflição, de carinho e sofrimento… 5 Ainda assim, prevaleço-me, conquanto sem mérito, do ensejo que os nossos Benfeitores me oferecem para escrever-vos! 6 Sou, entretanto, também mãe e reconheço as orações de lágrimas que se derramam de tantas bênçãos maternas aqui reunidas! Perdão rogo a todas as nossas irmãs se tomo o lugar de alguém. 7 No entanto, o nosso Dr. Bezerra nos informou de que os jovens e amigos aqui de nosso lado, igualmente em prece, não conseguiriam a comunicação desejada, ante as dificuldades do momento para isso. 8 Atrevi-me deste modo a me valer da porta que o nosso venerável Benfeitor me descerra ao espírito, a fim de expressarmos o nosso agradecimento a todos os presentes e ao mesmo tempo endereçar-vos algumas palavras de carinho e gratidão, paz e esperança.
+9 Afinal, filhos queridos, quando nossos pensamentos se permutam no clima do Evangelho, as frases servem por noticiário da alma, em favor de todos. Isso me consola, de vez que, em verdade, solicitava, no íntimo, a ocasião que se nos oferece.
+10 Filhos queridos, sabemos quanto nos custa a jornada no território de nossas realizações. 11 O amparo do Senhor é comparável ao Sol que não nos falta, reabastecendo-nos e sustentando-nos as forças, constantemente, mas devemos pisar o chão terrestre para colaborar na Seara d’Ele, o Divino Mestre que, pela caridade, nos concede a todos o privilégio de compartilhar-Lhe o apostolado de amor, trazendo ao nosso próprio coração o coração dos companheiros que se agitam e sofrem mais do que nós mesmos. 12 Sigamos, assim, confiantes, colhendo as rosas do bem, no espinheiro dos problemas, a fim de converter-lhes o perfume em bálsamo que reconforte os aflitos e socorro aos que esmorecem. 13 Falamos de espinheiros, entretanto, em vista dos tesouros de amor com que Jesus nos enriquece, obstáculos, na essência, não existem. 14 Referimo-nos, porém, com a imagem dos espinhos aos pequenos empeços que em muitos lances da estrada a percorrer, nos parecem grandes entraves quando nos encontramos ainda resguardados no corpo terrestre.
+15 Continuemos amando para servir mais, trabalhando sempre na extensão do bem para que o bem, ao espalhar-se, igualmente nos alcance, restaurando-nos as energias e sustentando-nos as possibilidades de mais agir para mais servir.
+16 Nossas tarefas, em nossa querida Instituição, se levantam no dia a dia por nossas bênçãos. Embarcação de paz e vida, socorro e trabalho, a nossa Casa vai singrando no mar da esperança, confiando em Jesus e em Seus Mensageiros. 17 Não encontramos outra imagem mais adequada para significar a nossa Fundação, porque diariamente, ali, se alteram as ondas da necessidade humana, oferecendo-nos a ideia de um oceano vasto — a cidade — e uma nave em evolução contínua — a nossa Casa de amor. 18 Guardemos a certeza de que os nossos irmãos em lutas e dificuldades maiores do que as nossas são, em verdade, os esteios que nos asseguram a estabilidade e a harmonia. 19 Dando, recebemos e auxiliando seremos auxiliados. Lições imensas se encerram nestas sentenças pequeninas. 20 Cada oração que nos recebe a fatia de fraternidade se faz mensageiro daqueles outros corações que nos auxiliam da Vida Superior. 21 Os ricos de Jesus, sempre apresentados no Evangelho pelos nossos irmãos das retaguardas de sofrimento no mundo, são realmente os ricos de Céu na Terra. Todos eles trazem por si apoio e assistência, colaboração e amparo dos Planos Maiores. 22 Cada migalha de auxílio que possamos oferecer é uma semente bendita lançada no solo dos sentimentos humanos, neste mundo e nos outros mundos, produzindo auxílio a mil por uma em favor de nós mesmos.
+23 A legenda “Caridade” talvez por muito repetida passou quase a ser ignorada. 24 Entretanto, a caridade é o sistema de intercâmbio nas faixas de trabalho em que mais extensamente se exprime a presença de Deus. Câmbio Divino, transforma dores em bênçãos e bênçãos em alegrias, trocando sempre ação por redenção, dificuldade por ensinamento, ansiedade em segurança. 25 Tudo se troca nos processos da vida. A força da natureza se transubstancia em recursos elétricos, o trigo plantado se converte em pão que abençoa a mesa e a caridade é o ponto mais alto da vida, em que nos será possível transfigurar as nossas próprias fraquezas em apoio celeste. 26 Caridade, meu Deus! Se soubéssemos no mundo o que significam estas oito letras reunidas! 27 Caridade é o esquecimento de nós para que a lembrança da Humanidade nos dissipe as sombras da angústia na Terra, seja essa angústia nascida da provação ou da insegurança da enfermidade ou do sofrimento moral!
+28 Aprendamos, filhos queridos, nesta bendita Faculdade de Elevação e nunca nos desorientaremos por falta de rumo. 29 Assim é, porque na caridade encontramos Deus e o Próximo, na realização de nós mesmos. 30 Agradeçamos as mãos que nos procuram buscando apoio, porque, apoiando-as de algum modo, teremos conosco o apoio d’Aquele que é o Tudo em Todos. 31 Nunca nos cansemos, nunca desanimemos. 32 Deus não falha. A caridade, luz de Deus, não pode falhar.
+33 Agradecemos em vós, filhos queridos, a todos aqueles corações que militam conosco em nosso refúgio de paz e serviço. 34 A todos, sem distinção, todo o carinho enternecido de mãe que não sei, de minha parte, expressar. 35 Deus vos abençoe a todos e a todos nos conceda a felicidade de trabalhar na extensão do bem, para que o bem nos acolha e nos proteja onde estivermos.
+36 Agora, algumas palavras do coração materno reconhecido: nosso Luiz Jorge está em nossa companhia, renovando-se e crescendo para a vida melhor. Nossa Maria tem visitado as filhas queridas e todos os corações que se lhe fizeram filhos do coração. E promete, à nossa querida Nair, que estará com ela no apostolado em favor das crianças. Desenvolver-se-á na Espiritualidade, através da realização mais ampla a que aspira, em si mesma, no trabalho de proteção aos pequeninos. Várias vezes já tem estado conosco junto de vós outros e dos familiares outros que lhe veneram a memória na Terra.
+37 À nossa querida Mariazinha, queremos levar a certeza de que não se encontra só. Rogamos à querida filhinha para que enxugue as lágrimas. Estamos recebendo o melhor que as mãos de Jesus, por Seus Mensageiros Divinos, nos podem oferecer. Nosso caro Cepeda está sob o amparo de muitos amigos. E estamos unidos todos para que a segurança e a paz permaneçam conosco. Escuto as preces e apelos da filha querida, enternecidamente, sem saber como reconfortá-la, mas sei que o Senhor não nos abandona e no Senhor esperaremos a solução de nossos problemas e de nossas necessidades.
+38 Quanto a vossa saúde rogamos para que continueis no tratamento em curso, sem dispêndio desnecessário de energias. 39 O equilíbrio entre o trabalho e o repouso, é por si o ponto certo em que os medicamentos encontram a eficácia precisa. Estejamos nesse nível de harmonia entre o “servir e o refazer se”, para que as nossas forças se restaurem sempre que preciso, [com o auxílio dos] Nossos Benfeitores do Mais Alto e, com Eles, receberemos o amparo de que necessitamos. Louvado seja Deus.
+40 Filhos queridos, agora é o abraço de mãe com que esta carta deve terminar. Jesus recompense a todos, a todos que me sustentastes nestes minutos de intercâmbio mais direto, através do lápis e das letras. Nosso Gaio envia-vos constantes mensagens de confiança e carinho, e unindo-vos em meu coração, deixa a vós ambos todo o coração reconhecido, a mãezinha e companheira de sempre, sempre carinhosamente convosco em nossa caminhada para Deus.
 Beijos e agradecimentos da mãezinha
-
----
-
-## FRANCISCO CÂNDIDO XAVIER 50 ANOS — Apontamento
-
-O sentido de criar, conhecer e descobrir tem nos levado dentro de uma periodicidade compreensível, a ocupar nosso tempo em pesquisas, estudos, fazendo-nos voltar aos primeiros movimentos na estrutura da roda viva.
-Deslizamos na estrada dos acontecimentos, com o carro do nosso corpo carregado dos problemas e dificuldades, que fundem o entendimento do mais simples ao mais exigente mortal.
-O IDEAL, Instituto Divulgação Editora André Luiz, prazerosamente apresenta-se no pensamento solidário de seus constituintes, e através deste volume, mostrar o trabalho de um médium que se dedicou aos que têm sede de justiça; aos que carregam pesados conflitos no coração; aos aflitos e aos misericordiosos, oferecendo-lhes incessante descortino aos olhos da alma.
-Com este volume desejamos reconhecer na pessoa de Francisco Cândido Xavier, o amigo simples, o leal companheiro que sempre nos trouxe a palavra reconfortante, e as diretrizes dos nossos Irmãos da Espiritualidade Maior.
-Com o espírito de justiça neste ano de 1977, que nos revela os 50 anos de trabalho e amor do mencionado companheiro, o IDEAL traz nesta obra o seu testemunho de solidariedade; a verdade em forma de respeito; o trabalho em forma de carinho; a justiça em forma de paz; o coração em forma de homenagem a meio século de trabalho, dedicação e amor aos semelhantes.
-IDEAL, Instituto Divulgação Editora André Luiz, externa a todos os colaboradores, que de alguma forma vieram juntar se nesta Edição Comemorativa dos 50 anos de mediunidade de Francisco Cândido Xavier, o seu reconhecimento.
-Os anos de 1927 a 1977, marcam toda uma época a nos orientar para os decênios futuros, nas páginas trazidas do Mais Além, sempre coloridas de paz e de esperança.
-Meio século de tempo festivo, orvalhado nas bênçãos do esclarecimento, que nos leva a refletir nesses anos dourados, como sendo dez lustros de êxito espiritual a exprimir-se na mensagem dos nossos Mentores Sábios e Generosos que residem em Planos Superiores.
-Nestas páginas sentimos o Amor de Deus, traduzido em Boa Vontade, Trabalho e Dedicação, que pode ser cultivado por nós todos com o amparo de Jesus.
-São Paulo, 8 de julho de 1977.

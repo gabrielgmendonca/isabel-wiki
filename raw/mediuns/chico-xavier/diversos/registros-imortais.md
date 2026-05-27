@@ -2,112 +2,27 @@
 
 **Autor espiritual:** F. C. Xavier e outros médiuns do Grupo Meimei  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Ri/RiRefBiblio.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Ri/RiAgr.htm
 
 ---
 
-##  — Referências bibliográficas
+## 
 
-ANDRÉ LUIZ. In:
-http://gabiparavoce.blogspot.com.br/2012/02/cirurgias-espirituais-nas-casas.html
-. Acesso em: 11 set. 2013.
-ANTÔNIO AMERICANO DO BRASIL. In:
-http://www.programaraizes.net/posts/serie-rememorias-antonio-americano-do-brasil-por-bento-fleury
-. Acesso em: 11 set. 2013.
-CARLOSJULIANOTORRESPASTORINO.In:
-http://www.autoresespiritasclassicos.com/Pastorinho/TorresPastorino.htm
-. Acesso em: 11 set. 2013.
-CARVALHO, Mary Rose. Acervo pessoal. Pedro Leopoldo: 2013, Rua N. S. da Saúde, 70. CENTRO ESPÍRITA MEIMEI. Acervo fotográfico. Pedro Leopoldo: 2013, Rua Benedito Valadares, 61.
-CHICO XAVIER INÉDITO — De Pedro Leopoldo a Uberaba. Direção: Oceano Vieira de Melo; Lauro Michielin; César Burnier; Fernando Portela. Produção: Caio Alcântara; Luigi Picchi. São Paulo: Versátil Vídeo Spirite — Brasil 2007. 1 DVD (300 min.), widescreen letterbox 1.66:1, p&b-color, português.
-ESMERALDA BITTENCOURT. In:
-http://www.autoresespiritasclassicos.com/Chico Xavier/
-. Acesso em: 11 set. 2013.
-GONÇALVES, Ademir. Acervo pessoal. Pedro Leopoldo: 2013, Rua Padre Sinfrônio Torres de Freitas, 452.
-GUSTAVO ERNESTO COELHO. In:
-http://santuarionsn.blogspot.com.br/p/galeria-de-padres.html
-.Acesso em: 11 set. 2013.
-INSTRUÇÕES PSICOFÔNICAS & VOZES DO GRANDE ALÉM — Direção: Oceano Vieira de Melo. São Paulo: Versátil Vídeo Spirite — Brasil 2012. 1 DVD (S46 min.), widescreen anamórfico 1.85:1, p&b-color, português.
-ISMAEL GOMES BRAGA. In:
-http://aron-um-espirita.blogspot.com.br/2013/08/ideias-novas.html
-. Acesso em: 11 set. 2013.
-JOSÉ GONÇALVES PEREIRA. In:
-http://www.ame.org.br/wordpress/disseminadores/
-. Acesso em: 11 set. 2013.
-JÚNIOR, Frederico Pereira Silva. Prece. Ditado por Allan Kardec. 47. ed. Rio de Janeiro: FEB, 1944.
-HARLEY, Jhon. O voo da garça — Chico Xavier em Pedro Leopoldo | 1910-1959. 2. ed. Belo Horizonte: Vinha de Luz, 2010.
-LEÃO, Geraldo; NETO, Geraldo Lemos (Orgs.). Pedro Leopoldo vista por Chico Xavier 1910-1959 — 49 anos da presença do maior médium de todos os tempos. Belo Horizonte: Vinha de Luz, 2011.
-LIMA, Maria Laura Nogueira. Acervo pessoal. Belo Horizonte: 2013, Av. Cardeal Stepnac, 380.
-LUCCIOLA, Dalva Rocha. Acervo pessoal. Belo Horizonte: 2013, Av. Artur Bernardez, 1300.
-MARTINS, Hélio Paulo. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dr. Rocha, 1085. Q36
-NÉLIO CERQUEIRA. In:
-http://www.georgezarur.com.br/opiniao/118/saudades-do-brasil-perdido-1-jk
-. Acesso em: 11 set. 2013.
-NETO, Geraldo Lemos. Acervo fotográfico da Casa de Chico Xavier. Pedro Leopoldo: 2010, Rua Pedro José da Silva, 67.
-NETO, Geraldo Lemos (Org.). Mandato de amor. Belo Horizonte: UEM, 1992. PEREIRA, Yvonne do Amaral. Dramas da obsessão. Ditado por Bezerra de Menezes. 4. ed. Rio de Janeiro: FEB, 1963.
-PIMENTA, Diva Guimarães. Acervo pessoal. Itamarandiba: 2013, Rua Amélia Fernandez, 168.
-REFORMADOR. Rio de Janeiro: FEB, set. 2011. p. 12.
-SANTOS, Aline. Acervo pessoal. Pedro Leopoldo: 2013, Praça Rui de Azevedo Carvalho, 99.
-SANTOS, Manoel Pacheco dos. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dirceu Lopes, 451.
-SANTOS, Eugênio Eustáquio dos. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dirceu Lopes, 451.
-SILVA, Maria do Carmo Malaquias. Acervo pessoal. Pedro Leopoldo: Rua Primeiro de Setembro, 69.
-SILVA, Rodney Reis. Arquivo Geraldo Leão. Pedro Leopoldo: Rua São Sebastião, 137. SILVA, Wagner. Acervo pessoal. Pedro Leopoldo: 2013, Rua Roberto Belizário Viana, 279. TÓFANI, Moyra Macedo. Acervo pessoal. Belo Horizonte: 2013, Rua Montes Claros, 305. VIANNA DE CARVALHO. In:
-http://tribunaespiritadesalvador.blogspot.com.br/20130101archive.html
-. Acesso em: 11 set. 2013.
-WALDO VIEIRA. In:
-http://www.ocultismodesoculto.com/201103 01archive.html
-. Acesso em: 11 set. 2013.
-WEGUELIN, João Marcos. Acervo pessoal. Rio de Janeiro: 2013, Rua Marquês de Abrantes, 88.
-XAVIER, Myrian Flávia. Acervo pessoal. Pedro Leopoldo, 2013. Rua São Sebastião, 70. XAVIER, Francisco Cândido; ROCHA, Arnaldo (Org.). Instruções psicofônicas. Ditado por Espíritos diversos. Belo Horizonte: FEB, 1955.
-XAVIER, Francisco Cândido. Seara dos médiuns. Pelo Espírito Emmanuel. Rio de Janeiro: FEB, 1960.
-XAVIER, Francisco Cândido; ROCHA, Arnaldo (Org.). Vozes do grande além. Ditado por Espíritos diversos. Belo Horizonte: FEB, 1957.
-WONNE DO AMARAL PEREIRA. In:
-http://jesusconsoladorprometido.blogspot.com.br/2012/02/yvonne-do-amaral-pereira.html
-. Acesso em: 11 set. 2013.
+Ao Grupo Meimei pela instrução, legado e exemplos de amor aos irmãos desencarnados, especialmente a Francisco Cândido Xavier e aos que, juntamente a ele, sustentaram essa tarefa: Arnaldo Rocha, Francisco Teixeira de Carvalho, Geraldo Benício Rocha e Waldemar Silva. A Cidália Xavier de Carvalho, por nos permitir ingressar no Meimei e depositar toda a sua confiança em nosso grupo, que leva o nome de seu esposo, Chiquinho Carvalho. Aos irmãos do Grupo Espírita Chiquinho Carvalho, pela confiança e aprendizado oferecidos ao longo desse tempo de convivência e amizade, especialmente a Nélia, minha querida irmã, e a Maria Teresa, companheira de todas as horas, que me sustentaram em momentos de grandes dificuldades, e a Henrique Kemper Borges Junior, sócio benemérito do Grupo, pelo seu apoio e orientação tão necessários no início de nossas atividades. Aos companheiros de todas as casas filiadas à Aliança Municipal Espírita, especialmente ao Jhon Harley, um de seus idealizadores, pelos anos de união, fraternidade e compartilhamento da vivência espírita em nossa comunidade. Ao amigo Geraldo Lemos Neto, que com tanto esmero e fidelidade vem divulgando a vida e a obra de Chico Xavier, e por sua participação tão efetiva no movimento espírita nacional e internacional. A Geraldo Leão, pelo esforço em preservar a memória de Pedro Leopoldo, Minas Gerais, e pelo resgate da trajetória de Chico Xavier em sua cidade natal. Aos meus pais, Manoel e Neném, pelos 62 anos de união, amor, exemplos e dedicação à família que tanto amamos. Na pessoa de Adriano, agradeço a todos os amigos que compartilham conosco a alegria de viver.
 
 ---
 
-##  — Minhas palavras
-
-Este relato, amigo leitor, tem o objetivo de apresentar a nossa instituição e justificar nossa participação como organizador desta obra, sem nenhum intuito de buscar projeção pessoal.
-Nasci em Pedro Leopoldo no ano de 1958, num local histórico chamado “Quadro”, onde existem as primeiras casas da cidade, pertencentes à Companhia Industrial Belo Horizonte, onde tenho grandes amigos.
-Sou solteiro, analista de sistemas, contador, filho de Manoel Pacheco dos Santos, que se aposentou como operário da Fábrica de Tecidos, e de Maria da Saúde dos Santos, que trabalhou também como tecelã — depois de casada dedicou-se exclusivamente à família composta de mais quatro filhos, Nélia, Nilo, Márcio e Mery, hoje com netos e bisnetos, dentre eles Denilson e Aline, ambos colaboradores do Meimei e da Aliança Municipal Espírita, e que através do Grupo Libertas vêm, com muito empenho, divulgando a música espírita em nosso Estado.
-Atualmente, sou presidente da Aliança Municipal Espírita de Pedro Leopoldo e de Matozinhos, presidente do Centro Espírita Meimei, vice-presidente do Grupo Espírita Chiquinho Carvalho, vice-presidente do Lar Espírita Chiquinho Carvalho e conselheiro da Fundação Cultural Chico Xavier.
-O interesse pela Doutrina começou junto de amigos na juventude, no ano de 1981, no grupo intitulado “Jovens Cáritas”, nome motivado pela beleza da
-Prece de Cáritas
-.
-Começamos por estudar
-em nossa residência, no culto do Evangelho no lar. Embora católicos, meus pais permitiram o estudo do Evangelho em nossa casa. Com os esclarecimentos advindos sobre a necessidade da prática da caridade, iniciamos uma “Campanha do Quilo” junto aos vizinhos para atender a famílias em um bairro carente de nossa comunidade. Começamos, assim, a sentir a necessidade do estudo da mediunidade, iniciado então com
-, posteriormente com o livro
-, obra de André Luiz pela psicografia de Chico Xavier (FEB, 1955).
-Estávamos, em 1983, com um grupo de trabalho formado. Precisávamos de um local adequado para continuar as tarefas. Diante dessa necessidade, juntamente de Margarida Mesquita e Ionísio Moreira Silva, amigos e colaboradores, procuramos Cidália Xavier de Carvalho, irmã de Chico Xavier, então frequentadora do Centro Espírita Meimei, e solicitamos a admissão do nosso grupo de trabalho naquela casa, fundada em 31 de julho de 1952 por Chico Xavier e pelo marido de Meimei, Arnaldo Rocha.
-Ingressar no Meimei, oficina de estudo e trabalho, de ajuda aos encarnados e desencarnados, fundamentada nas suas memoráveis reuniões de intercâmbio espiritual, foi um grande aprendizado. Ali fundamos o Grupo Espírita Chiquinho Carvalho, em homenagem ao cunhado de Chico Xavier e dirigente das reuniões do Meimei, com o intuito de ampliar as nossas atividades em ações assistenciais, reuniões públicas, evangelização infantil, atividades que não existiam ali até então. Agregamos também mais duas reuniões mediúnicas ao Grupo Chiquinho Carvalho, às sextas-feiras e sábados, fortalecendo os objetivos primeiros da casa — reuniões que, graças a Jesus, estão em plena atividade.
-Em 1986, participamos da fundação da Aliança Municipal Espírita, juntamente aos amigos das outras casas espíritas de Pedro Leopoldo.
-Em 1995, o Grupo Chiquinho Carvalho fundou o Lar Espírita Chiquinho Carvalho, em regime de creche, para levar assistência às crianças e aos seus familiares através de seu Departamento de Assistência Social. Hoje, o lar funciona no prédio que abrigou o Asilo Lindolfo José Ferreira por 45 anos, cujo nome foi dado em homenagem àquele que foi o marido de Luiza Xavier, instituição que Chico visitava na passagem do ano novo, oportunidade em que todos da região podiam estar em contato com o médium.
-Acredito que a presença de Chico em Pedro Leopoldo foi uma bênção de luz para todos em nossa cidade, não só para os espíritas, mas todos que tiveram a felicidade de conviver com essa alma boa, presenciar os seus feitos e se beneficiar da sua companhia. Porque Chico, enquanto aqui viveu, foi amigo de todos - no centro espírita, nos lares, nas ruas, em todos os recantos, sem exceção. Quando o seu trabalho se propagou, as pessoas começaram a vir para nossa cidade buscando esse contato com o Chico, o que perdurou até a sua transferência para Uberaba, em janeiro de 1959. Chico se foi, contudo deixou a cidade amparada, organizando as casas que deveriam permanecer e continuar o trabalho da Doutrina. Foram elas: o Centro Espírita Luiz Gonzaga, destinado às reuniões públicas de psicografia e receituário, ficando sob a responsabilidade de Manuel Diniz; o Centro Espírita Meimei, com reunião íntima para assistência aos desencarnados, sob responsabilidade de Arnaldo Rocha; o Centro Espírita Scheilla, fundado por José Flaviano Machado, que, sob a orientação de Chico, popularizou o Espiritismo em nossa cidade; o Centro Espírita Dr. Bezerra de Menezes, no qual José de Paula Virgílio, orientado por Chico, ficou encarregado do trabalho de assistência social. Dessa forma, as casas perseveraram na tarefa, surgindo desses grupos novas casas, em lugares estratégicos, permanecendo em seus postulados até os dias de hoje.
-Não poderia, neste relato, deixar de falar de um casal que faz parte da nossa vida desde o nascimento: Dália — Cidália Xavier —, e seu esposo, o querido Chiquinho Carvalho, já desencarnado, colegas de trabalho de meus pais na Fábrica de Tecidos Cachoeira Grande e nossos vizinhos lá no bairro “Quadro”.
-Lembro-me, na infância, das notícias do irmão ilustre de Cidália Xavier de Carvalho, que sempre ia visitar a irmã, provocando um acontecimento festivo. Chico, com aquele sorriso aberto para a criançada da rua, procurava saber como tinha sido a festa do dia das mães, do Natal, entre outras. Nessa época, não tínhamos contato ainda com a Doutrina Espírita, mas já amávamos estas pessoas — Cidália, uma senhora alegre, Chiquinho, um senhor discreto, ambos muito amigos de todos.
-No contato com a Doutrina, descobrimos o verdadeiro trabalho espiritual desse casal. Chiquinho Carvalho, quando começou a namorar Cidália, era católico fervoroso, mas no contato com Chico Xavier absorveu os conceitos doutrinários do Espiritismo e com a mesma fidelidade católica se tornou espírita, colaborando nas reuniões do Luiz Gonzaga, do Meimei, e nos trabalhos de distribuição e peregrinação em nossa comunidade junto de Chico Xavier. Cidália chegou um pouco depois aos trabalhos de desobsessão do Grupo Meimei. É médium dedicada e discreta, e permanece fiel ao trabalho até os dias de hoje dentro do que as suas condições físicas permitem. Para nós, além de uma grande honra, é uma grande oportunidade de aprendizado conviver com essas almas tão queridas, às quais acrescento os nomes do Sr. Geraldo Benício Rocha, irmão de Arnaldo Rocha, portanto, cunhado de Meimei, que muito nos auxiliou no entendimento e experiência nos trabalhos de desobsessão, e de D. Josefa Soares, amiga que nos acolheu naquele ambiente, amparando a todos nós como fez e faz até os dias atuais, zelando pela nossa casa de oração a pedido do próprio Chico Xavier e de Chiquinho Carvalho.
-Envolvidos nessas recordações, sob o influxo do exemplo das grandes almas, possamos agradecer a Jesus pela bênção de luz que é a Doutrina Espírita, pela presença constante dos benfeitores espirituais que nos assistem, pelos amigos que compartilham conosco a caminhada e pelas oportunidades de trabalho que nos são oferecidas, lutando para perseverar até o fim.
-
----
-
-## Anexo A — História do Grupo Meimei
+## Anexo A
 
 > PRESIDENTES DO CENTRO ESPÍRITA MEIMEI
 
-A história do Centro Espírita Meimei é muito bem contada por Arnaldo Rocha no livro
-Instruções psicofônicas
-, de onde transcrevo o que segue (XAVIER, 1955, p. 12-15):
+A história do Centro Espírita Meimei é muito bem contada por Arnaldo Rocha no livro Instruções psicofônicas, de onde transcrevo o que segue (XAVIER, 1955, p. 12-15):
 “O Chico, por várias vezes, falou-nos do desejo expresso pelos mentores espirituais no sentido de se criar um grupo de irmãos conscientes e responsáveis para a assistência especializada aos problemas difíceis. Em meados de 1952, aderimos, finalmente. Convidamos alguns irmãos conscientes da gravidade que o assunto envolve em si e na noite de 31 de julho do ano mencionado realizamos nossa primeira reunião. (…) A princípio, reuníamo-nos na antiga dependência que o Centro Espírita Luiz Gonzaga ocupou de 1927 a 1950, mas em 1954 (…) transferimo-nos para nossa sede própria e definitiva que, embora singela, se levanta acolhedora à Rua Benedito Valadares, nesta cidade.(…) É preciso dizer que o médium Chico Xavier sempre as recebeu (mensagens contidas no citado livro) psicofonicamente, no último quarto de hora das nossas reuniões, muita vez depois de exaustivo labor na recepção de entidades perturbadas, em socorro de obsessos e doentes, serviço esse no qual coopera, igualmente, junto aos demais médiuns de nossa agremiação.”
-A seguir, transcrevo a história do Meimei constante de
-— Chico Xavier em Pedro Leopoldo | 1910-1959 (HARLEY, (2010, p. 193-200):
-(…) Curiosamente, ao reunir informações sobre o Grupo Meimei, sob a forma de documentos, recursos iconográficos e depoimentos dos que participaram das primeiras e memoráveis reuniões, nos deparamos com a escassez de dados e observamos que o próprio movimento espírita nacional, em se tratando de Pedro Leopoldo, pouco se refere ao Grupo Meimei.
-n
+A seguir, transcrevo a história do Meimei constante de O voo da garça — Chico Xavier em Pedro Leopoldo | 1910-1959 (HARLEY, (2010, p. 193-200):
+(…) Curiosamente, ao reunir informações sobre o Grupo Meimei, sob a forma de documentos, recursos iconográficos e depoimentos dos que participaram das primeiras e memoráveis reuniões, nos deparamos com a escassez de dados e observamos que o próprio movimento espírita nacional, em se tratando de Pedro Leopoldo, pouco se refere ao Grupo Meimei. n
 Podemos entender que em razão do número limitado de pessoas que participavam dessas reuniões e do seu caráter privativo, o Grupo Meimei permaneceu quase que tão somente na memória daqueles participantes que puderam colaborar na assistência aos desencarnados e desfrutar da presença de benfeitores espirituais por meio da psicofonia de Chico Xavier e de outros companheiros de ideal.
-Segundo Arnaldo Rocha, no prefácio do livro
-,
-“Corria o ano de 1951 e frequentes se faziam nossas excursões de Belo Horizonte, onde residimos, a Pedro Leopoldo, hoje região suburbana da capital mineira. Em conversações fraternas e amigas com o nosso companheiro de ideal Francisco Cândido Xavier, muitas vezes observávamos o volume crescente dos casos de obsessão que procuravam incessantemente as reuniões públicas do Centro Espírita Luiz Gonzaga, nas noites de segundas e sextas-feiras” (XAVIER, 1955, p. 12).
-n
+Segundo Arnaldo Rocha, no prefácio do livro Instruções psicofônicas,
+“Corria o ano de 1951 e frequentes se faziam nossas excursões de Belo Horizonte, onde residimos, a Pedro Leopoldo, hoje região suburbana da capital mineira. Em conversações fraternas e amigas com o nosso companheiro de ideal Francisco Cândido Xavier, muitas vezes observávamos o volume crescente dos casos de obsessão que procuravam incessantemente as reuniões públicas do Centro Espírita Luiz Gonzaga, nas noites de segundas e sextas-feiras” (XAVIER, 1955, p. 12). n
 Em um depoimento dado à Dra. Marlene Nobre em 1977, o companheiro José de Paulo Virgílio, um dos fundadores do Centro Espírita Beneficente Bezerra de Menezes em Pedro Leopoldo, descreve como chegou a participar do início da construção do Grupo Meimei. Segundo ele, depois de ter acidentado o pé, e correndo o risco de amputá-lo, Chico Xavier, orientado pelo médico espiritual Dr. Bezerra de Menezes, realizou um tratamento com sucesso. Chico o procurou dias depois em sua residência e falou claramente:
 “— Escute aqui, meu filho, nós estamos construindo o Centro Espírita Meimei, no que é que você pode nos ajudar?
 Eu sou bombeiro eletricista e pensei comigo: “Estou doente e esse homem vem falar de serviço!”
@@ -120,118 +35,118 @@ Chico passava por lá e dizia:
 — Que beleza! Já esta ficando quase tudo pronto!
 Faltavam quatro dias para a inauguração quando o serviço já estava quase pronto” (FOLHA ESPÍRITA, 1977, p. 34).
 Em 31 de julho de 1952, foi fundada por Chico Xavier e alguns amigos a segunda instituição espírita da cidade: o Grupo Meimei (portanto, a terceira instituição espírita de Pedro Leopoldo). Quem era o responsável por conduzir as reuniões de assistência aos desencarnados no Centro Espírita Luiz Gonzaga era o irmão de Chico Xavier, José Cândido Xavier. A partir de 1939, com a sua desencarnação, as atividades foram interrompidas e somente treze anos depois recomeçaria o trabalho de desobsessão ou assistência aos desencarnados com a fundação desse novo grupo.
-Vale aqui destacar a importância de José Cândido Xavier na vida pessoal e mediúnica de Chico, pois além de permanecer ao seu lado desde o início da sua tarefa assumiu papéis de pai, amigo, orientador e conselheiro.
-n
-Em “
-Chico Xavier — O primeiro livro
-”, encontramos, à página 37, um poema escrito por José Xavier em 14 de março de 1929, portanto, quando ele tinha apenas 23 anos:
-
-
-
-Neste vale de lágrimas e dores,
-Onde há o crime; o remorso e pecado,
-Existe alguém que leva vida de horrores,
-É criminoso ignorante e celerado.
-É imperfeito, vil, degenerado,
-Indigno até mesmo de viver;
-E vive só, no mundo abandonado,
-Cumprindo provas para depois morrer.
-Pergunta, às vezes, ao nosso Criador
-Qual a razão de tanto sofrimento:
-– Estás na Terra, por isso és sofredor!
-É o que responde a voz do pensamento.
-E agradece aquilo que ele passa.
-Bendiz a dor sagrada que sofreu.
-E esse alguém na Terra tem sua raça,
-Pois esse alguém, meu amigo, sou eu.
+Vale aqui destacar a importância de José Cândido Xavier na vida pessoal e mediúnica de Chico, pois além de permanecer ao seu lado desde o início da sua tarefa assumiu papéis de pai, amigo, orientador e conselheiro. n
+Em “Chico Xavier — O primeiro livro”, encontramos, à página 37, um poema escrito por José Xavier em 14 de março de 1929, portanto, quando ele tinha apenas 23 anos:
+Neste vale de lágrimas e dores, Onde há o crime; o remorso e pecado, Existe alguém que leva vida de horrores, É criminoso ignorante e celerado.
+É imperfeito, vil, degenerado, Indigno até mesmo de viver; E vive só, no mundo abandonado, Cumprindo provas para depois morrer.
+Pergunta, às vezes, ao nosso Criador Qual a razão de tanto sofrimento: – Estás na Terra, por isso és sofredor! É o que responde a voz do pensamento.
+E agradece aquilo que ele passa. Bendiz a dor sagrada que sofreu. E esse alguém na Terra tem sua raça, Pois esse alguém, meu amigo, sou eu.
 O nome Grupo Meimei, segundo Arnaldo Rocha, foi sugerido pelo Chico com a concordância de um grupo de amigos que trabalhou na organização dessa instituição em seus primeiros passos, como forma de homenagear sua primeira esposa, a companheira Irma de Castro Rocha, mais conhecida como Meimei, desencarnada em 1946.
 Segundo depoimento de Arnaldo Rocha a Geraldo Lemos Neto, a instituição deveria se chamar “Casa dos Espíritos”, nome aprovado também por Clóvis Tavares, da cidade de Campos, RJ, o que não teria sido aceito pelo Chico, pois tal denominação poderia criar algum problema com a comunidade católica pedroleopoldense. Arnaldo também sugeriu outro nome: Centro Espírita Allan Kardec, que também não foi aprovado pelos companheiros.
-Inicialmente, as reuniões mediúnicas do Grupo Meimei aconteceram na Rua de São Sebastião, na residência da viúva de José Cândido Xavier, Geni Pena Xavier, a quinta sede do Centro Espírita Luiz Gonzaga. Dois anos depois as atividades foram transferidas para a sua sede definitiva, à Rua Benedito Valadares, n° 61 - A.
+Inicialmente, as reuniões mediúnicas do Grupo Meimei aconteceram na Rua de São Sebastião, na residência da viúva de José Cândido Xavier, Geni Pena Xavier, a quinta sede do Centro Espírita Luiz Gonzaga. Dois anos depois as atividades foram transferidas para a sua sede definitiva, à Rua Benedito Valadares, nº 61 - A.
 Em depoimento de Chico Xavier na década de 1980, a construção da sede ficou projetada para o fundo do lote intencionalmente adquirido como estratégia para não chamar as atenções dos moradores com as comunicações dos Espíritos sofredores. Na época, as crendices e superstições em relação às práticas mediúnicas espíritas na pequena Pedro Leopoldo eram muito maiores do que hoje.
 Como as reuniões do Centro Espírita Luiz Gonzaga aconteciam às segundas e sextas-feiras, o trabalho de desobsessão do Grupo Meimei passou a acontecer todas as quintas, permanecendo até hoje no mesmo dia e horário estabelecidos pelos primeiros trabalhadores.
-Ainda segundo Arnaldo Rocha, na noite de 11 de março de 1954, através da generosidade de Carlos Torres Pastorino, da cidade do Rio de Janeiro, o Grupo Meimei foi presenteado com um gravador de fita de rolo, utilizado desde então para registrar os momentos inesquecíveis com Francisco Cândido Xavier, como consta nos livros
-e
-, ambos publicados pela Federação Espírita Brasileira.
-Até 1988, segundo Eugênio Eustáquio dos Santos, atual presidente do Grupo Meimei, hoje Centro Espírita Meimei, não havia nenhum registro oficial do grupo.
-n
-Esse fato foi observado quando ele e um grupo de amigos resolveram fundar e registrar o Grupo Espírita Chiquinho Carvalho, outra instituição que também utiliza as mesmas dependências físicas do Meimei.
-n
+Ainda segundo Arnaldo Rocha, na noite de 11 de março de 1954, através da generosidade de Carlos Torres Pastorino, da cidade do Rio de Janeiro, o Grupo Meimei foi presenteado com um gravador de fita de rolo, utilizado desde então para registrar os momentos inesquecíveis com Francisco Cândido Xavier, como consta nos livros Instruções psicofônicas e Vozes do Grande Além, ambos publicados pela Federação Espírita Brasileira.
+Até 1988, segundo Eugênio Eustáquio dos Santos, atual presidente do Grupo Meimei, hoje Centro Espírita Meimei, não havia nenhum registro oficial do grupo. n Esse fato foi observado quando ele e um grupo de amigos resolveram fundar e registrar o Grupo Espírita Chiquinho Carvalho, outra instituição que também utiliza as mesmas dependências físicas do Meimei. n
 Para regularizar o Grupo Espírita Chiquinho Carvalho, foi necessário regularizar o Grupo Meimei, por meio de uma convocação da Assembleia Geral, ocorrida no dia 28 de março de 1988. Foi nessa mesma reunião que o nome passou de Grupo Meimei para Centro Espírita Meimei e na qual foi prestada uma homenagem a todos os companheiros fundadores da instituição.
 Entre os antigos trabalhadores do então Grupo Meimei, gostaria de destacar duas pessoas que tive o privilégio de conhecer: a irmã de Chico Xavier, Cidália Xavier de Carvalho, que permanece, até hoje, colaborando no grupo como médium psicofônica, com exemplos diários de fé em Deus e vontade de viver sempre com esperança e alegria, e a companheira Josefa Soares dos Santos, há aproximadamente 52 anos exercendo com amor e humildade a função de “guardiã” e zeladora da instituição.
 Vale também ressaltar que o Meimei também ofereceu as suas dependências para o funcionamento do Grupo Espírita Scheilla, fundado por José Flaviano Machado (Zeca Machado) em 3 de agosto de 1954, no qual funcionou (e ainda funciona, mesmo com sede própria) todas as terças-feiras. Tal fato nos leva a concluir que o movimento espírita de Pedro Leopoldo também tem uma gratidão histórica para com a instituição, pois num mesmo espaço existiram e ainda existem três casas espíritas ocupando as mesmas dependências físicas, o que representa um ideal de fraternidade e união das casas espíritas em nossa cidade. (…)”
-“O Chico, por várias vezes, falou-nos do desejo expresso pelos mentores espirituais no sentido de se criar um grupo de irmãos conscientes e responsáveis para a assistência especializada aos problemas difíceis. Em meados de 1952, aderimos, finalmente. Convidamos alguns irmãos conscientes da gravidade que o assunto envolve em si e na noite de 31 de julho do ano mencionado realizamos nossa primeira reunião. (…) A princípio, reuníamo-nos na antiga dependência que o Centro Espírita Luiz Gonzaga ocupou de 1927 a 1950, mas em 1954 (…) transferimo-nos para nossa sede própria e definitiva que, embora singela, se levanta acolhedora à Rua Benedito Valadares, nesta cidade.(…) É preciso dizer que o médium Chico Xavier sempre as recebeu (mensagens contidas no citado livro) psicofonicamente, no último quarto de hora das nossas reuniões, muita vez depois de exaustivo labor na recepção de entidades perturbadas, em socorro de obsessos e doentes, serviço esse no qual coopera, igualmente, junto aos demais médiuns de nossa agremiação.”
-“Corria o ano de 1951 e frequentes se faziam nossas excursões de Belo Horizonte, onde residimos, a Pedro Leopoldo, hoje região suburbana da capital mineira. Em conversações fraternas e amigas com o nosso companheiro de ideal Francisco Cândido Xavier, muitas vezes observávamos o volume crescente dos casos de obsessão que procuravam incessantemente as reuniões públicas do Centro Espírita Luiz Gonzaga, nas noites de segundas e sextas-feiras” (XAVIER, 1955, p. 12).
-n
-“— Escute aqui, meu filho, nós estamos construindo o Centro Espírita Meimei, no que é que você pode nos ajudar?
-Eu sou bombeiro eletricista e pensei comigo: “Estou doente e esse homem vem falar de serviço!”
-Ele leu meu pensamento:
-— Olha, meu filho, você só vai explicar como se faz o serviço, não precisa fazer nada. Fiquei impressionado com a resposta, eu não tinha dito nada. Aí resolvi:
-— Eu vou amanhã.
-E no dia seguinte peguei a muleta e fui. Eles estavam fazendo um salão grande, um banheiro e um alpendre, instruí o serviço. Mas o servente de pedreiro não entendia nada de eletricidade e eu fui fazendo devagarzinho, conforme minhas forças.
-Nos intervalos, bebia da água que ficava sobre a mesa, sem saber que era água fluida. Acabava de almoçar depressa para voltar à tarefa.
-Chico passava por lá e dizia:
-— Que beleza! Já esta ficando quase tudo pronto!
-Faltavam quatro dias para a inauguração quando o serviço já estava quase pronto” (FOLHA ESPÍRITA, 1977, p. 34).
-Neste vale de lágrimas e dores,
-Onde há o crime; o remorso e pecado,
-Existe alguém que leva vida de horrores,
-É criminoso ignorante e celerado.
-É imperfeito, vil, degenerado,
-Indigno até mesmo de viver;
-E vive só, no mundo abandonado,
-Cumprindo provas para depois morrer.
-Pergunta, às vezes, ao nosso Criador
-Qual a razão de tanto sofrimento:
-– Estás na Terra, por isso és sofredor!
-É o que responde a voz do pensamento.
-E agradece aquilo que ele passa.
-Bendiz a dor sagrada que sofreu.
-E esse alguém na Terra tem sua raça,
-Pois esse alguém, meu amigo, sou eu.
 
 ---
 
-##  — Prefácio espiritual
+## 
 
-, não pense que não estou feliz por ter encontrado a obra-prima de nossas reuniões. Pelo contrário! Mesmo com o nosso gênio de bravo, devo confessar que a felicidade é grande por ter sido encontrado por você. Vejo em você um trabalhador dedicado e com capacidade para representar toda a nossa equipe de quinta-feira, que agora se reúne noutro plano. Me emociono por tantos reencontros! Tivemos erros e acertos, mas a dedicação a esta casa é muito grande. Tinha que ser mesmo dedicado à oportunidade da descoberta desta joia rara que sempre procurei. Siga as suas intuições, pois você encontrará resposta para tudo. Esta alegria passamos para você e todos que estão colaborando. Estou mais ameno? Não. Sou o mesmo turrão de sempre. Aqui é diferente, estou me adaptando. Que Jesus abençoe, e temos certeza de que a obra muito ajudará a todos no campo mediúnico.
-Abraço de todos,
-
----
-
-##  — Dedicatória
-
-Este livro é dedicado à mentora do Grupo Meimei,
-— Meimei, ou ainda, Blandina —, identificada por André Luiz no livro
-pela inspiração, sensibilização e sustentação da tarefa de evangelização da criança, e a todos que, assim como nós do Lar Espírita Chiquinho Carvalho, fundaram uma instituição de apoio, instrução e amparo à infância e juventude.
+Este livro é dedicado à mentora do Grupo Meimei, Irma de Castro Rocha — Meimei, ou ainda, Blandina, — identificada por André Luiz no livro Entre a Terra e o Céu pela inspiração, sensibilização e sustentação da tarefa de evangelização da criança, e a todos que, assim como nós do Lar Espírita Chiquinho Carvalho, fundaram uma instituição de apoio, instrução e amparo à infância e juventude.
 
 ---
 
-##  — Palavras iniciais
+## 
 
-O Grupo Meimei foi apresentado por Arnaldo Rocha no livro
-no ano de 1955, dado o caráter das reuniões e a participação de Chico Xavier e demais médiuns no socorro aos desencarnados por meio de esclarecimento e consolo, visando o benefício das entidades conturbadas e sofredoras, ficando os minutos finais das reuniões dedicados à palavra direta dos instrutores e dos benfeitores espirituais pela psicofonia, apresentando lições edificantes de amigos, relatos comoventes de irmãos recuperados e elucidações de caráter científico, filosófico e religioso. Foi um dos trabalhos mais íntimos em que o querido médium participou numa casa espírita.
-Como não poderia deixar de ser, o Grupo Meimei tornou-se uma escola de grandes ensinamentos e reflexões, que estavam ficando somente na memória de seus frequentadores. A necessidade de registrar as reuniões realizadas, sem tirar delas o caráter íntimo, se tornou evidente, o que foi possível por meio do gravador doado pelo professor Carlos Torres Pastorino, do Rio de Janeiro, no qual foram gravadas essas valiosas comunicações. As mensagens eram transcritas por datilografia, pelas mãos de Waldemar Silva, confrade do Grupo Meimei conhecido por Pachequinho, cunhado de Chico Xavier. Sob a orientação de Emmanuel, tais comunicações se transformaram em dois livros: o
-, editado em 1955, e o
-, editado em 1957, ambos com a chancela da Federação Espírita Brasileira (FEB).
+Este relato, amigo leitor, tem o objetivo de apresentar a nossa instituição e justificar nossa participação como organizador desta obra, sem nenhum intuito de buscar projeção pessoal.
+Nasci em Pedro Leopoldo no ano de 1958, num local histórico chamado “Quadro”, onde existem as primeiras casas da cidade, pertencentes à Companhia Industrial Belo Horizonte, onde tenho grandes amigos.
+Sou solteiro, analista de sistemas, contador, filho de Manoel Pacheco dos Santos, que se aposentou como operário da Fábrica de Tecidos, e de Maria da Saúde dos Santos, que trabalhou também como tecelã — depois de casada dedicou-se exclusivamente à família composta de mais quatro filhos, Nélia, Nilo, Márcio e Mery, hoje com netos e bisnetos, dentre eles Denilson e Aline, ambos colaboradores do Meimei e da Aliança Municipal Espírita, e que através do Grupo Libertas vêm, com muito empenho, divulgando a música espírita em nosso Estado.
+Atualmente, sou presidente da Aliança Municipal Espírita de Pedro Leopoldo e de Matozinhos, presidente do Centro Espírita Meimei, vice-presidente do Grupo Espírita Chiquinho Carvalho, vice-presidente do Lar Espírita Chiquinho Carvalho e conselheiro da Fundação Cultural Chico Xavier.
+O interesse pela Doutrina começou junto de amigos na juventude, no ano de 1981, no grupo intitulado “Jovens Cáritas”, nome motivado pela beleza da Prece de Cáritas.
+Começamos por estudar O Evangelho Segundo o Espiritismo em nossa residência, no culto do Evangelho no lar. Embora católicos, meus pais permitiram o estudo do Evangelho em nossa casa. Com os esclarecimentos advindos sobre a necessidade da prática da caridade, iniciamos uma “Campanha do Quilo” junto aos vizinhos para atender a famílias em um bairro carente de nossa comunidade. Começamos, assim, a sentir a necessidade do estudo da mediunidade, iniciado então com O Livro dos Médiuns, posteriormente com o livro Nos domínios da mediunidade, obra de André Luiz pela psicografia de Chico Xavier (FEB, 1955).
+Estávamos, em 1983, com um grupo de trabalho formado. Precisávamos de um local adequado para continuar as tarefas. Diante dessa necessidade, juntamente de Margarida Mesquita e Ionísio Moreira Silva, amigos e colaboradores, procuramos Cidália Xavier de Carvalho, irmã de Chico Xavier, então frequentadora do Centro Espírita Meimei, e solicitamos a admissão do nosso grupo de trabalho naquela casa, fundada em 31 de julho de 1952 por Chico Xavier e pelo marido de Meimei, Arnaldo Rocha.
+Ingressar no Meimei, oficina de estudo e trabalho, de ajuda aos encarnados e desencarnados, fundamentada nas suas memoráveis reuniões de intercâmbio espiritual, foi um grande aprendizado. Ali fundamos o Grupo Espírita Chiquinho Carvalho, em homenagem ao cunhado de Chico Xavier e dirigente das reuniões do Meimei, com o intuito de ampliar as nossas atividades em ações assistenciais, reuniões públicas, evangelização infantil, atividades que não existiam ali até então. Agregamos também mais duas reuniões mediúnicas ao Grupo Chiquinho Carvalho, às sextas-feiras e sábados, fortalecendo os objetivos primeiros da casa — reuniões que, graças a Jesus, estão em plena atividade.
+Em 1986, participamos da fundação da Aliança Municipal Espírita, juntamente aos amigos das outras casas espíritas de Pedro Leopoldo.
+Em 1995, o Grupo Chiquinho Carvalho fundou o Lar Espírita Chiquinho Carvalho, em regime de creche, para levar assistência às crianças e aos seus familiares através de seu Departamento de Assistência Social. Hoje, o lar funciona no prédio que abrigou o Asilo Lindolfo José Ferreira por 45 anos, cujo nome foi dado em homenagem àquele que foi o marido de Luiza Xavier, instituição que Chico visitava na passagem do ano novo, oportunidade em que todos da região podiam estar em contato com o médium.
+Acredito que a presença de Chico em Pedro Leopoldo foi uma bênção de luz para todos em nossa cidade, não só para os espíritas, mas todos que tiveram a felicidade de conviver com essa alma boa, presenciar os seus feitos e se beneficiar da sua companhia. Porque Chico, enquanto aqui viveu, foi amigo de todos - no centro espírita, nos lares, nas ruas, em todos os recantos, sem exceção. Quando o seu trabalho se propagou, as pessoas começaram a vir para nossa cidade buscando esse contato com o Chico, o que perdurou até a sua transferência para Uberaba, em janeiro de 1959. Chico se foi, contudo deixou a cidade amparada, organizando as casas que deveriam permanecer e continuar o trabalho da Doutrina. Foram elas: o Centro Espírita Luiz Gonzaga, destinado às reuniões públicas de psicografia e receituário, ficando sob a responsabilidade de Manuel Diniz; o Centro Espírita Meimei, com reunião íntima para assistência aos desencarnados, sob responsabilidade de Arnaldo Rocha; o Centro Espírita Scheilla, fundado por José Flaviano Machado, que, sob a orientação de Chico, popularizou o Espiritismo em nossa cidade; o Centro Espírita Dr. Bezerra de Menezes, no qual José de Paula Virgílio, orientado por Chico, ficou encarregado do trabalho de assistência social. Dessa forma, as casas perseveraram na tarefa, surgindo desses grupos novas casas, em lugares estratégicos, permanecendo em seus postulados até os dias de hoje.
+Não poderia, neste relato, deixar de falar de um casal que faz parte da nossa vida desde o nascimento: Dália — Cidália Xavier —, e seu esposo, o querido Chiquinho Carvalho, já desencarnado, colegas de trabalho de meus pais na Fábrica de Tecidos Cachoeira Grande e nossos vizinhos lá no bairro “Quadro”.
+Lembro-me, na infância, das notícias do irmão ilustre de Cidália Xavier de Carvalho, que sempre ia visitar a irmã, provocando um acontecimento festivo. Chico, com aquele sorriso aberto para a criançada da rua, procurava saber como tinha sido a festa do dia das mães, do Natal, entre outras. Nessa época, não tínhamos contato ainda com a Doutrina Espírita, mas já amávamos estas pessoas — Cidália, uma senhora alegre, Chiquinho, um senhor discreto, ambos muito amigos de todos.
+No contato com a Doutrina, descobrimos o verdadeiro trabalho espiritual desse casal. Chiquinho Carvalho, quando começou a namorar Cidália, era católico fervoroso, mas no contato com Chico Xavier absorveu os conceitos doutrinários do Espiritismo e com a mesma fidelidade católica se tornou espírita, colaborando nas reuniões do Luiz Gonzaga, do Meimei, e nos trabalhos de distribuição e peregrinação em nossa comunidade junto de Chico Xavier. Cidália chegou um pouco depois aos trabalhos de desobsessão do Grupo Meimei. É médium dedicada e discreta, e permanece fiel ao trabalho até os dias de hoje dentro do que as suas condições físicas permitem. Para nós, além de uma grande honra, é uma grande oportunidade de aprendizado conviver com essas almas tão queridas, às quais acrescento os nomes do Sr. Geraldo Benício Rocha, irmão de Arnaldo Rocha, portanto, cunhado de Meimei, que muito nos auxiliou no entendimento e experiência nos trabalhos de desobsessão, e de D. Josefa Soares, amiga que nos acolheu naquele ambiente, amparando a todos nós como fez e faz até os dias atuais, zelando pela nossa casa de oração a pedido do próprio Chico Xavier e de Chiquinho Carvalho.
+Envolvidos nessas recordações, sob o influxo do exemplo das grandes almas, possamos agradecer a Jesus pela bênção de luz que é a Doutrina Espírita, pela presença constante dos benfeitores espirituais que nos assistem, pelos amigos que compartilham conosco a caminhada e pelas oportunidades de trabalho que nos são oferecidas, lutando para perseverar até o fim.
+
+---
+
+## 
+
+O Grupo Meimei foi apresentado por Arnaldo Rocha no livro Instruções psicofônicas no ano de 1955, dado o caráter das reuniões e a participação de Chico Xavier e demais médiuns no socorro aos desencarnados por meio de esclarecimento e consolo, visando o benefício das entidades conturbadas e sofredoras, ficando os minutos finais das reuniões dedicados à palavra direta dos instrutores e dos benfeitores espirituais pela psicofonia, apresentando lições edificantes de amigos, relatos comoventes de irmãos recuperados e elucidações de caráter científico, filosófico e religioso. Foi um dos trabalhos mais íntimos em que o querido médium participou numa casa espírita.
+Como não poderia deixar de ser, o Grupo Meimei tornou-se uma escola de grandes ensinamentos e reflexões, que estavam ficando somente na memória de seus frequentadores. A necessidade de registrar as reuniões realizadas, sem tirar delas o caráter íntimo, se tornou evidente, o que foi possível por meio do gravador doado pelo professor Carlos Torres Pastorino, do Rio de Janeiro, no qual foram gravadas essas valiosas comunicações. As mensagens eram transcritas por datilografia, pelas mãos de Waldemar Silva, confrade do Grupo Meimei conhecido por Pachequinho, cunhado de Chico Xavier. Sob a orientação de Emmanuel, tais comunicações se transformaram em dois livros: o Instruções psicofônicas, editado em 1955, e o Vozes do Grande Além, editado em 1957, ambos com a chancela da Federação Espírita Brasileira (FEB).
 O Grupo Meimei continua ativo com as bênçãos de Jesus e a presença dos instrutores e benfeitores espirituais. Transformou-se no Centro Espírita Meimei, com a ampliação de suas atividades, mas mantendo o objetivo primeiro da casa, que é o atendimento aos sofredores nas reuniões de desobsessão.
 No dia 31 de julho de 2012, o Centro Espírita Meimei completou 60 anos de trabalhos ininterruptos. Para comemorar a data, nós, os atuais trabalhadores da casa, planejamos registrar essa passagem tão significativa em nossa comunidade por meio de reuniões públicas, da arte espírita e ainda do lançamento de um registro histórico: DVD’s contendo o áudio de algumas mensagens publicadas nos livros já citados e organizados por Arnaldo Rocha, material inédito com a voz dos Espíritos reproduzida pela psicofonia de Chico Xavier, e recuperado pela Versátil Vídeo. Para o grande dia, intencionávamos expor na sede do Meimei o gravador utilizado nas gravações dessas mensagens memoráveis, aparelho que se encontra sob a guarda do memorialista Geraldo Leão, de Pedro Leopoldo, Minas Gerais.
 Solicitamos, então, ao referido arquivista o empréstimo do equipamento para exposição no Meimei, o que nos foi terminantemente negado, dado o fato do aparelho ser muito velho, passível de danos durante o transporte até à casa espírita. Contudo, o desejo de levar o gravador até a nossa casa após 60 anos, e reproduzir pela primeira vez para o público algumas dessas mensagens obtidas nas memoráveis reuniões de desobsessão, nas quais Chico trabalhou, até sua transferência para Uberaba, persistiu em nossas mentes. Tempos depois decidimos procurar por Geraldo Leão novamente, para sensibilizá-lo da importância do evento e solicitar-lhe, uma vez mais, o empréstimo do famoso gravador. No máximo receberíamos dele um não como resposta, e a alcunha de insistentes nessa nova tentativa. Pois bem: qual não foi a nossa surpresa quando ele demonstrou um grande interesse em nos ajudar nas comemorações, com todo e qualquer material de que necessitássemos, autorizando a transferência do aparelho para o Meimei durante todo o mês de julho de 2012, com a condição de ele próprio levar e buscar o equipamento ao final das comemorações. Pode imaginar a nossa alegria? Nesse momento percebemos que atendíamos a uma indicação da Espiritualidade pelas vias da intuição.
 Mas o melhor ainda estava por vir. Disse-nos Geraldo Leão, na oportunidade, que possuía as mensagens originais datilografadas dos livros já publicados, capturadas das fitas. Informei a ele que certamente estaria enganado, pois esse material pertencia à FEB. que os editou. Então ele foi aos seus arquivos, buscou; e me entregou uma pasta amarelecida pelo tempo. de um modelo que não se encontra mais. Pude ver um material muito bem conservado, no qual se via o registro das reuniões do Meimei contendo data da reunião, nome dos participantes, a mensagem recebida na noite, o nome do médium e o nome do Espírito comunicante. Fiquei surpreso e muito emocionado ao me deparar com aquele material! Acreditei, de imediato, tratar-se de algo inédito. Perguntei ao Sr. Geraldo se poderia analisar o material em minha residência, mais detidamente, pois desejava verificá-lo junto às mensagens já publicadas, no que, gentilmente, ele permitiu.
-Procedendo a conferência, pude constatar que as mensagens daquela pasta eram realmente inéditas, pois datavam de 4 de outubro de 1956 a 17 de julho de 1958, sendo a data da última mensagem publicada no livro
-a do dia 27 de setembro de 1956. Foi um júbilo para mim concluir que as mensagens da pasta que me foi entregue pertenciam às reuniões subsequentes às contidas nos referidos livros já publicados. Comuniquei o achado imediatamente ao amigo Geraldo Lemos Neto e ele, se ligando à nossa emoção, foi portador da seguinte assertiva: “Este é um presente de Chico para o Meimei!”
+Procedendo a conferência, pude constatar que as mensagens daquela pasta eram realmente inéditas, pois datavam de 4 de outubro de 1956 a 17 de julho de 1958, sendo a data da última mensagem publicada no livro Vozes do Grande Além a do dia 27 de setembro de 1956. Foi um júbilo para mim concluir que as mensagens da pasta que me foi entregue pertenciam às reuniões subsequentes às contidas nos referidos livros já publicados. Comuniquei o achado imediatamente ao amigo Geraldo Lemos Neto e ele, se ligando à nossa emoção, foi portador da seguinte assertiva: “Este é um presente de Chico para o Meimei!”
 Na comemoração das bodas de diamante do Meimei, não poderíamos ter recebido joia maior! Curioso é que conversando com a irmã de Chico, Cidália Xavier de Carvalho, frequentadora das inesquecíveis reuniões no Centro Espírita Meimei, junto de seu marido, Chiquinho Carvalho, ela disse algo com o mesmo sentido: “Isso é o Chico se fazendo presente entre nós!”
 Em depoimento a Oceano Vieira de Melo, registrado no Meimei para o referido DVD lançado pela Versátil Vídeo, Arnaldo Rocha se refere a essas mensagens que ele nunca mais localizou, exprimindo a esperança de que um dia elas viessem a lume. Vamos ainda encontrar em Reformador uma entrevista do próprio Arnaldo sobre o livro Instruções psicofônicas, publicada em setembro de 2011, na qual ele confirma a existência dessas mensagens:
 “(…) Reformador: Surgiram outros livros?
-Arnaldo: Organizamos depois o
-, lançado em 1957. Houve até um diálogo interessante entre mim e o médium para chegarmos a um ponto comum com relação ao título. Logo depois que Chico se mudou para Uberaba, entreguei a ele parte dos originais para um eventual novo livro, obtido das gravações das psicofonias. A cada visita, lembrávamos a Chico e este sempre respondia: “É mesmo, precisamos publicá-lo…” Depois mudei-me para Brasília passei a visitá-lo esporadicamente, o tempo passou e o terceiro livro não foi publicado (…)” (REFORMADOR, 2011, p. 12).
+Arnaldo: Organizamos depois o Vozes do Grande Além, lançado em 1957. Houve até um diálogo interessante entre mim e o médium para chegarmos a um ponto comum com relação ao título. Logo depois que Chico se mudou para Uberaba, entreguei a ele parte dos originais para um eventual novo livro, obtido das gravações das psicofonias. A cada visita, lembrávamos a Chico e este sempre respondia: “É mesmo, precisamos publicá-lo…” Depois mudei-me para Brasília passei a visitá-lo esporadicamente, o tempo passou e o terceiro livro não foi publicado (…)” (REFORMADOR, 2011, p. 12).
 A proposta desta obra era tão somente publicar as mensagens encontradas após estes anos todos. Entretanto, como sabemos, o nosso planejamento é sempre ampliado pela Espiritualidade e assim sendo, durante a organização do conteúdo, conseguimos reunir fotografias e documentos importantes relativos ao Centro Espírita Meimei, seus médiuns e visitantes da época, quase todos já desencarnados, pois na atualidade contamos apenas com a presença física de Cidália Xavier de Carvalho, irmã de Chico Xavier, e de Maria Laura Nogueira Lima, amigas do coração.
 Podemos ver retratadas nestes registros a amizade entre as pessoas, a realização de seus sonhos, a constituição de suas famílias, a união entre os casais para o trabalho mediúnico — situação cada vez mais rara nos dias de hoje. Acredito, inclusive, que foi com o trabalho no Grupo Meimei que Chico Xavier contou efetivamente com a colaboração de seus familiares.
 Em nossa pesquisa, conseguimos também identificar algumas personalidades brasileiras de renome no movimento espírita, católico, evangélico, na área acadêmica, política e militar, dentre outras, trazendo-nos mensagens enriquecedoras.
-Dessa forma, caro leitor, além das mensagens de alto valor espiritual para nós todos, resgatamos também um pouco da história do Grupo Meimei para dividir com você este presente que chega às nossas mãos através de Chico Xavier, Arnaldo Rocha, Chiquinho Carvalho, Geraldo Benício Rocha (Major), Pachequinho e demais companheiros que brilham no Além, nos auxiliando a materializar estes
-, a contribuir para o nosso entendimento e nossa sensibilização junto à tarefa mediúnica e da caridade.
-“(…) Reformador: Surgiram outros livros?
-Arnaldo: Organizamos depois o
-, lançado em 1957. Houve até um diálogo interessante entre mim e o médium para chegarmos a um ponto comum com relação ao título. Logo depois que Chico se mudou para Uberaba, entreguei a ele parte dos originais para um eventual novo livro, obtido das gravações das psicofonias. A cada visita, lembrávamos a Chico e este sempre respondia: “É mesmo, precisamos publicá-lo…” Depois mudei-me para Brasília passei a visitá-lo esporadicamente, o tempo passou e o terceiro livro não foi publicado (…)” (REFORMADOR, 2011, p. 12).
+Dessa forma, caro leitor, além das mensagens de alto valor espiritual para nós todos, resgatamos também um pouco da história do Grupo Meimei para dividir com você este presente que chega às nossas mãos através de Chico Xavier, Arnaldo Rocha, Chiquinho Carvalho, Geraldo Benício Rocha (Major), Pachequinho e demais companheiros que brilham no Além, nos auxiliando a materializar estes registros imortais, a contribuir para o nosso entendimento e nossa sensibilização junto à tarefa mediúnica e da caridade.
+
+---
+
+## 
+
+Bambino, não pense que não estou feliz por ter encontrado a obra-prima de nossas reuniões. Pelo contrário! Mesmo com o nosso gênio de bravo, devo confessar que a felicidade é grande por ter sido encontrado por você. Vejo em você um trabalhador dedicado e com capacidade para representar toda a nossa equipe de quinta-feira, que agora se reúne noutro plano. Me emociono por tantos reencontros! Tivemos erros e acertos, mas a dedicação a esta casa é muito grande. Tinha que ser mesmo dedicado à oportunidade da descoberta desta joia rara que sempre procurei. Siga as suas intuições, pois você encontrará resposta para tudo. Esta alegria passamos para você e todos que estão colaborando. Estou mais ameno? Não. Sou o mesmo turrão de sempre. Aqui é diferente, estou me adaptando. Que Jesus abençoe, e temos certeza de que a obra muito ajudará a todos no campo mediúnico.
+Abraço de todos,
+
+---
+
+## 
+
+ANDRÉ LUIZ. In: http://gabiparavoce.blogspot.com.br/2012/02/cirurgias-espirituais-nas-casas.html. Acesso em: 11 set. 2013.
+ANTÔNIO AMERICANO DO BRASIL. In: http://www.programaraizes.net/posts/serie-rememorias-antonio-americano-do-brasil-por-bento-fleury. Acesso em: 11 set. 2013.
+CARLOSJULIANOTORRESPASTORINO.In: http://www.autoresespiritasclassicos.com/Pastorinho/TorresPastorino.htm. Acesso em: 11 set. 2013.
+CARVALHO, Mary Rose. Acervo pessoal. Pedro Leopoldo: 2013, Rua N. S. da Saúde, 70.
+CENTRO ESPÍRITA MEIMEI. Acervo fotográfico. Pedro Leopoldo: 2013, Rua Benedito Valadares, 61.
+CHICO XAVIER INÉDITO — De Pedro Leopoldo a Uberaba. Direção: Oceano Vieira de Melo; Lauro Michielin; César Burnier; Fernando Portela. Produção: Caio Alcântara; Luigi Picchi. São Paulo: Versátil Vídeo Spirite — Brasil 2007. 1 DVD (300 min.), widescreen letterbox 1.66:1, p&b-color, português.
+ESMERALDA BITTENCOURT. In: http://www.autoresespiritasclassicos.com/Chico Xavier/. Acesso em: 11 set. 2013.
+GONÇALVES, Ademir. Acervo pessoal. Pedro Leopoldo: 2013, Rua Padre Sinfrônio Torres de Freitas, 452.
+GUSTAVO ERNESTO COELHO. In: http://santuarionsn.blogspot.com.br/p/galeria-de-padres.html. Acesso em: 11 set. 2013.
+INSTRUÇÕES PSICOFÔNICAS & VOZES DO GRANDE ALÉM — Direção: Oceano Vieira de Melo. São Paulo: Versátil Vídeo Spirite — Brasil 2012. 1 DVD (S46 min.), widescreen anamórfico 1.85:1, p&b-color, português.
+ISMAEL GOMES BRAGA. In: http://aron-um-espirita.blogspot.com.br/2013/08/ideias-novas.html. Acesso em: 11 set. 2013.
+JOSÉ GONÇALVES PEREIRA. In: http://www.ame.org.br/wordpress/disseminadores/. Acesso em: 11 set. 2013.
+JÚNIOR, Frederico Pereira Silva. Prece. Ditado por Allan Kardec. 47. ed. Rio de Janeiro: FEB, 1944.
+HARLEY, Jhon. O voo da garça — Chico Xavier em Pedro Leopoldo | 1910-1959. 2. ed. Belo Horizonte: Vinha de Luz, 2010.
+LEÃO, Geraldo; NETO, Geraldo Lemos (Orgs.). Pedro Leopoldo vista por Chico Xavier | 1910-1959 — 49 anos da presença do maior médium de todos os tempos. Belo Horizonte: Vinha de Luz, 2011.
+LIMA, Maria Laura Nogueira. Acervo pessoal. Belo Horizonte: 2013, Av. Cardeal Stepnac, 380.
+LUCCIOLA, Dalva Rocha. Acervo pessoal. Belo Horizonte: 2013, Av. Artur Bernardez, 1300.
+MARTINS, Hélio Paulo. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dr. Rocha, 1085. Q36
+NÉLIO CERQUEIRA. In: http://www.georgezarur.com.br/opiniao/118/saudades-do-brasil-perdido-1-jk. Acesso em: 11 set. 2013.
+NETO, Geraldo Lemos. Acervo fotográfico da Casa de Chico Xavier. Pedro Leopoldo: 2010, Rua Pedro José da Silva, 67.
+NETO, Geraldo Lemos (Org.). Mandato de amor. Belo Horizonte: UEM, 1992.
+PEREIRA, Yvonne do Amaral. Dramas da obsessão. Ditado por Bezerra de Menezes. 4. ed. Rio de Janeiro: FEB, 1963.
+PIMENTA, Diva Guimarães. Acervo pessoal. Itamarandiba: 2013, Rua Amélia Fernandez, 168.
+REFORMADOR. Rio de Janeiro: FEB, set. 2011. p. 12.
+SANTOS, Aline. Acervo pessoal. Pedro Leopoldo: 2013, Praça Rui de Azevedo Carvalho, 99.
+SANTOS, Manoel Pacheco dos. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dirceu Lopes, 451.
+SANTOS, Eugênio Eustáquio dos. Acervo pessoal. Pedro Leopoldo: 2013, Rua Dirceu Lopes, 451.
+SILVA, Maria do Carmo Malaquias. Acervo pessoal. Pedro Leopoldo: Rua Primeiro de Setembro, 69.
+SILVA, Rodney Reis. Arquivo Geraldo Leão. Pedro Leopoldo: Rua São Sebastião, 137.
+SILVA, Wagner. Acervo pessoal. Pedro Leopoldo: 2013, Rua Roberto Belizário Viana, 279. TÓFANI, Moyra Macedo. Acervo pessoal. Belo Horizonte: 2013, Rua Montes Claros, 305.
+VIANNA DE CARVALHO. In: http://tribunaespiritadesalvador.blogspot.com.br/20130101archive.html. Acesso em: 11 set. 2013.
+WALDO VIEIRA. In: http://www.ocultismodesoculto.com/201103 01archive.html. Acesso em: 11 set. 2013.
+WEGUELIN, João Marcos. Acervo pessoal. Rio de Janeiro: 2013, Rua Marquês de Abrantes, 88.
+WONNE DO AMARAL PEREIRA. In: http://jesusconsoladorprometido.blogspot.com.br/2012/02/yvonne-do-amaral-pereira.html. Acesso em: 11 set. 2013.
+XAVIER, Myrian Flávia. Acervo pessoal. Pedro Leopoldo, 2013. Rua São Sebastião, 70.
+XAVIER, Francisco Cândido; ROCHA, Arnaldo (Org.). Instruções psicofônicas. Ditado por Espíritos diversos. Belo Horizonte: FEB, 1955.
+XAVIER, Francisco Cândido. Seara dos médiuns. Pelo Espírito Emmanuel. Rio de Janeiro: FEB, 1960.
+XAVIER, Francisco Cândido; ROCHA, Arnaldo (Org.). Vozes do grande além. Ditado por Espíritos diversos. Belo Horizonte: FEB, 1957.
 
 ---
 
@@ -239,259 +154,100 @@ Arnaldo: Organizamos depois o
 
 > Mensagem: Da sua história de poder até se tornar um trabalhador da casa. Mentor espiritual do médium Geraldo Benício Rocha, em várias oportunidades apresentou orientações para o andamento das atividades da casa.
 
-1ª reunião: 4 de outubro de 1956 |
-Renovação
-2ª reunião: 11 de outubro de 1956 |
-Disciplina educativa
-3ª reunião: 18 de outubro de 1956 |
-Em louvor ao Evangelho
-4ª reunião: 25 de outubro de 1956 |
-Dolorosa confissão
-5ª reunião: 1º de novembro de 1956 |
-No campo do bem
-
-6ª reunião: 8 de novembro de 1956 |
-Remorso
-
-7ª reunião: 15 de novembro de 1956 |
-Prece
-
-8ª reunião: 22 de novembro de 1956 |
-Dolorosa advertência
-
-9ª reunião: 29 de novembro de 1956 |
-Em rogativa
-
-10ª reunião: 6 de dezembro de 1956 |
-Rei dos reis
-
-11ª reunião: 13 de dezembro de 1956 |
-Sacerdote ante a manjedoura
-12ª reunião
-: 10 de janeiro de 1957 |
-Convite ao amor
-
-13ª reunião: 17 de Janeiro de 1957 |
-Mensagem fraterna
-
-14ª reunião: 24 de janeiro de 1957 |
-Bendita seja a prece
-
-15ª reunião: 31 de janeiro de 1957 |
-Página de gratidão
-
-16ª reunião: 7 de fevereiro de 1957 |
-Gratidão
-
-17ª reunião: 14 de fevereiro de 1957 |
-Página fraterna
-18ª reunião: 21 de fevereiro de 1957 |
-Oração
-
-19ª reunião: 28 de fevereiro de 1957 |
-Palavras de irmão
-20ª reunião
-: 7 de março de 1957 |
-Mediunidade e Espiritismo
-
-21ª reunião: 14 de março de 1957 |
-Mediunidade e aperfeiçoamento
-22ª reunião: 21 de março de 1957 |
-Ante a Doutrina Espírita
-
-23ª reunião: 28 de março de 1957 |
-Na rota de luz
-
-24ª reunião: 4 de abril de 1957 |
-Falando a sacerdotes desencarnados
-25ª reunião: 11 de abril de 1957 |
-Reajuste
-
-26ª reunião
-: 25 de abril de 1957 |
-Falando a companheiras desencarnadas
-27ª reunião: 2 de maio de 1957 |
-Arrependimento
-28ª reunião: 9 de maio de 1957 |
-Página de bom ânimo
-
-29ª reunião: 16 de maio de 1957 |
-Palavras de gratidão
-
-30ª reunião: 23 de maio de 1957 |
-Remorso de mulher
-
-31ª reunião: 30 de maio de 1957 |
-Em louvor à oração
-
-32ª reunião: 6 de junho de 1957 |
-Mensagem de irmã
-
-33ª reunião: 13 de junho de 1957 |
-Bendizendo
-34ª reunião: 20 de junho de 1957 |
-Amor e oração
-35ª reunião: 27 de junho de 1957 |
-Paz
-
-36ª reunião: 4 de julho de 1957 |
-Alma em súplica
-37ª reunião: 11 de julho de 1957 |
-Contra a ignorância
-
-38ª reunião: 18 de julho de 1957 |
-Na luz da prece
-
-39ª reunião: 25 de julho de 1957 |
-Agradecendo
-40ª reunião: 1º de agosto de 1957 |
-Bolo de aniversário
-
-41ª reunião
-: 8 de agosto de 1957 |
-Lembra-te
-(A. Americano do Brasil) |
-Mensagem
-(Sabino)
-42ª reunião: 15 de agosto de 1957 |
-Tema vivo
-43ª reunião: 22 de agosto de 1957 |
-Palavra e exemplo
-
-44ª reunião
-: 29 de agosto de 1957 |
-Em prece com os sofredores
-
-45ª reunião: 5 de setembro de 1957 |
-Dissertação
-
-46ª reunião: 12 de setembro de 1957 |
-Um adeus agradecido
-47ª reunião: 19 de setembro de 1957 |
-Companheiro de volta
-
-48ª reunião: 26 de setembro de 1957 |
-Reajuste
-
-49ª reunião: 3 de outubro de 1957 |
-Ensinamento
-50ª reunião: 10 de outubro de1957 |
-Amoroso aviso
-
-51ª reunião: 17 de outubro de 1957 |
-Amor
-
-52ª reunião: 24 de outubro de 1957 |
-Tema espírita
-
-53ª reunião: 31 de outubro de 1957 |
-Na trilha do amor
-54ª reunião: 7 de novembro de 1957 |
-Em plena nova era
-
-55ª reunião: 14 de novembro de 1957 |
-Jovem desencarnado
-56ª reunião: 21 de novembro de 1957 |
-Oração
-
-57ª reunião: 28 de novembro de 1957 |
-Paz
-
-58ª reunião: 5 de dezembro de 1957 |
-Pagamento
-
-59ª reunião: 12 de dezembro de 1957 |
-Em louvor à humildade
-
-60ª reunião
-n
-
-: 9 de janeiro de 1958 |
-Um sofredor
-61ª reunião: 16 de janeiro de 1958 |
-Em louvor à Natureza
-
-62ª reunião: 23 de janeiro de 1958 |
-Amigo de regresso
-
-63ª reunião: 30 de janeiro 1958 |
-Penitência
-
-64ª reunião: 6 de fevereiro de 1958 |
-Sacerdote amigo
-
-65ª reunião: 13 de fevereiro de 1958 |
-Recomeço
-
-66ª reunião: 20 de fevereiro de 1958 |
-Esperança, paciência e oração
-67ª reunião: 27 de fevereiro de 1958 |
-Preleção educativa
-
-68ª reunião: 6 de março de 1958 |
-Palavras de reconforto
-
-69ª reunião: 13 de março de 1958 |
-Lutar
-
-70ª reunião: 20 de março de 1958 |
-Estudemos e trabalhemos
-
-71ª reunião: 27 de março de 1958 |
-Amizade e união
-
-72ª reunião: 3 de abril de 1958 |
-Irmão que volta
-
-73ª reunião: 10 de abril de 1958 |
-Visita e prece
-
-74ª reunião: 17 de abril de 1958 |
-Agradecimento
-
-75ª reunião: 24 de abril de 1958 |
-Visita de um amigo
-
-76ª reunião: 1º de maio de 1958 |
-No templo da prece
-
-77ª reunião: 8 de maio de 1958 |
-Palavras de estímulo
-
-78ª reunião: 15 de maio de 1958 |
-Na seara do Espírito
-
-79ª reunião: 22 de maio de 1958 |
-Amor
-
-80ª reunião: 29 de maio de 1958 |
-Na seara do bem
-
-81ª reunião: 5 de junho de 1958 |
-Amizade e lição
-
-82ª reunião: 12 de junho de 1958 |
-Lição
-
-83ª reunião: 19 de junho de 1958 |
-Visita edificante
-
-84ª reunião: 26 de junho de 1958 |
-Inferninho
-
-85ª reunião: 3 de julho de 1958 |
-Deveres da caridade
-86ª reunião: 10 de julho de 1958 |
-Amizade e lição
-
-87ª reunião: 17 de julho de 1958 |
-Ser cristão
+1ª reunião: 4 de outubro de 1956 | Renovação
+2ª reunião: 11 de outubro de 1956 | Disciplina educativa
+3ª reunião: 18 de outubro de 1956 | Em louvor ao Evangelho
+4ª reunião: 25 de outubro de 1956 | Dolorosa confissão
+5ª reunião: 1º de novembro de 1956 | No campo do bem
+6ª reunião: 8 de novembro de 1956 | Remorso
+7ª reunião: 15 de novembro de 1956 | Prece
+8ª reunião: 22 de novembro de 1956 | Dolorosa advertência
+9ª reunião: 29 de novembro de 1956 | Em rogativa
+10ª reunião: 6 de dezembro de 1956 | Rei dos reis
+11ª reunião: 13 de dezembro de 1956 | Sacerdote ante a manjedoura
+12ª reunião: n 10 de janeiro de 1957 | Convite ao amor
+13ª reunião: 17 de Janeiro de 1957 | Mensagem fraterna
+14ª reunião: 24 de janeiro de 1957 | Bendita seja a prece
+15ª reunião: 31 de janeiro de 1957 | Página de gratidão
+16ª reunião: 7 de fevereiro de 1957 | Gratidão
+17ª reunião: 14 de fevereiro de 1957 | Página fraterna
+18ª reunião: 21 de fevereiro de 1957 | Oração
+19ª reunião: 28 de fevereiro de 1957 | Palavras de irmão
+20ª reunião: n 7 de março de 1957 | Mediunidade e Espiritismo
+21ª reunião: 14 de março de 1957 | Mediunidade e aperfeiçoamento
+22ª reunião: 21 de março de 1957 | Ante a Doutrina Espírita
+23ª reunião: 28 de março de 1957 | Na rota de luz
+24ª reunião: 4 de abril de 1957 | Falando a sacerdotes desencarnados
+25ª reunião: 11 de abril de 1957 | Reajuste
+26ª reunião: n 25 de abril de 1957 | Falando a companheiras desencarnadas
+27ª reunião: 2 de maio de 1957 | Arrependimento
+28ª reunião: 9 de maio de 1957 | Página de bom ânimo
+29ª reunião: 16 de maio de 1957 | Palavras de gratidão
+30ª reunião: 23 de maio de 1957 | Remorso de mulher
+31ª reunião: 30 de maio de 1957 | Em louvor à oração
+32ª reunião: 6 de junho de 1957 | Mensagem de irmã
+33ª reunião: 13 de junho de 1957 | Bendizendo
+34ª reunião: 20 de junho de 1957 | Amor e oração
+35ª reunião: 27 de junho de 1957 | Paz
+36ª reunião: 4 de julho de 1957 | Alma em súplica
+37ª reunião: 11 de julho de 1957 | Contra a ignorância
+38ª reunião: 18 de julho de 1957 | Na luz da prece
+39ª reunião: 25 de julho de 1957 | Agradecendo
+40ª reunião: 1º de agosto de 1957 | Bolo de aniversário
+41ª reunião: n 8 de agosto de 1957 | Lembra-te (A. Americano do Brasil) | Mensagem (Sabino)
+42ª reunião: 15 de agosto de 1957 | Tema vivo
+43ª reunião: 22 de agosto de 1957 | Palavra e exemplo
+44ª reunião: n 29 de agosto de 1957 | Em prece com os sofredores
+45ª reunião: 5 de setembro de 1957 | Dissertação
+46ª reunião: 12 de setembro de 1957 | Um adeus agradecido
+47ª reunião: 19 de setembro de 1957 | Companheiro de volta
+48ª reunião: 26 de setembro de 1957 | Reajuste
+49ª reunião: 3 de outubro de 1957 | Ensinamento
+50ª reunião: 10 de outubro de1957 | Amoroso aviso
+51ª reunião: 17 de outubro de 1957 | Amor n
+52ª reunião: 24 de outubro de 1957 | Tema espírita
+53ª reunião: 31 de outubro de 1957 | Na trilha do amor
+54ª reunião: 7 de novembro de 1957 | Em plena nova era
+55ª reunião: 14 de novembro de 1957 | Jovem desencarnado
+56ª reunião: 21 de novembro de 1957 | Oração
+57ª reunião: 28 de novembro de 1957 | Paz
+58ª reunião: 5 de dezembro de 1957 | Pagamento
+59ª reunião: 12 de dezembro de 1957 | Em louvor à humildade
+61ª reunião: n 9 de janeiro de 1958 | Um sofredor
+62ª reunião: 16 de janeiro de 1958 | Em louvor à Natureza
+63ª reunião: 23 de janeiro de 1958 | Amigo de regresso
+64ª reunião: 30 de janeiro 1958 | Penitência
+65ª reunião: 6 de fevereiro de 1958 | Sacerdote amigo
+66ª reunião: 13 de fevereiro de 1958 | Recomeço
+67ª reunião: 20 de fevereiro de 1958 | Esperança, paciência e oração
+68ª reunião: 27 de fevereiro de 1958 | Preleção educativa
+69ª reunião: 6 de março de 1958 | Palavras de reconforto
+70ª reunião: 13 de março de 1958 | Lutar
+71ª reunião: 20 de março de 1958 | Estudemos e trabalhemos
+72ª reunião: 27 de março de 1958 | Amizade e união
+73ª reunião: 3 de abril de 1958 | Irmão que volta
+74ª reunião: 10 de abril de 1958 | Visita e prece
+75ª reunião: 17 de abril de 1958 | Agradecimento
+76ª reunião: 24 de abril de 1958 | Visita de um amigo
+77ª reunião: 1º de maio de 1958 | No templo da prece
+78ª reunião: 8 de maio de 1958 | Palavras de estímulo
+79ª reunião: 15 de maio de 1958 | Na seara do Espírito
+80ª reunião: 22 de maio de 1958 | Amor
+81ª reunião: 29 de maio de 1958 | Na seara do bem
+82ª reunião: 5 de junho de 1958 | Amizade e lição
+83ª reunião: 12 de junho de 1958 | Lição
+84ª reunião: 19 de junho de 1958 | Visita edificante
+85ª reunião: 26 de junho de 1958 | Inferninho
+86ª reunião: 3 de julho de 1958 | Deveres da caridade
+87ª reunião: 10 de julho de 1958 | Amizade e lição
+88ª reunião: 17 de julho de 1958 | Ser cristão
 
 ---
 
-## 1 — Renovação
+## 1
 
-> 1ª reunião | 4 de outubro de 1956
+> 1ª reunião | 4 de outubro de 1956.
+> — Arnaldo Rocha, Francisco Teixeira de Carvalho, Elza Vieira, Francisco Gonçalves,
 
 “Louvado seja nosso Senhor Jesus Cristo”: foi assim que o negro André começou na seara do bem, louvando ao Santíssimo Nome. Posso hoje expressar-me em linguagem comum, acompanhando-vos o passo nos benefícios da civilização. As graças que o Senhor me concedeu no convívio amoroso daqueles que dirigem os trabalhos de evangelização, de há muito, me burilam a alma, a fim de que eu também alcance as luzes do Evangelho de Jesus, nosso Senhor.
 A base da regeneração de minha alma, alma tão negra como a cor que me coloria a epiderme, foi crer que a Imaculada Mãe de Jesus era igualmente minha mãe, mãe de todos os desgraçados, qual sejam os velhos cativos, vendidos nos mercados do mundo como mercadoria de parco valor. E da excelsitude divina, onde seu coração misericordioso ampara todas as criaturas, desceu o orvalho misericordioso para socorrer aquele que se havia perdido nas estradas da vida, nos cipoais da treva, do orgulho, da vaidade e do poder.
@@ -502,49 +258,46 @@ Desculpai, dessa forma, ao preto velho. Ele se despede, louvando ao nosso Senhor
 
 ---
 
-## 2 — Disciplina educativa
+## 2
 
-> 2ª reunião | 11 de outubro de 1956
+> 2ª reunião | 11 de outubro de 1956.
+> — Arnaldo Rocha, Francisco Teixeira de Carvalho, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Geraldo Benício Rocha, Ovídio, Edmundo Fontenele,
 
 Louvado seja nosso Senhor Jesus Cristo! Também eu, nesta noite, trago a minha colaboração, modesta, embora, mas em nome do Senhor.
 Como “velho mestre-escola” conclamo aos companheiros médiuns para a disciplina educativa, que necessitamos aprimorar a cada passo, a fim de cumprirmos, fielmente, o mandato que o Senhor nos confia.
-O “Ajuda-te que o céu te ajudará”
-não é figura literária contida no Evangelho, mas sim advertência salutar, pela qual devemos pautar os nossos atos, a fim de conquistarmos melhor posição espiritual em face dos nossos compromissos assumidos, tendo-se em vista que de nós próprios e de nossos esforços depende o aprimoramento das possibilidades de servirmos bem ao Senhor.
-A disciplina emotiva deve regular os nossos pensamentos para os mais nobres e elevados sentimentos, pautando-se pela regra áurea do “Perdoa a teu irmão setenta vezes sete vezes”.
-
-A disciplina da palavra leva-nos a lembrar que antes de julgar os atos de nossos semelhantes devemos lembrar-nos do “argueiro no olho”.
-
+O “Ajuda-te que o céu te ajudará” ( † ) não é figura literária contida no Evangelho, mas sim advertência salutar, pela qual devemos pautar os nossos atos, a fim de conquistarmos melhor posição espiritual em face dos nossos compromissos assumidos, tendo-se em vista que de nós próprios e de nossos esforços depende o aprimoramento das possibilidades de servirmos bem ao Senhor.
+A disciplina emotiva deve regular os nossos pensamentos para os mais nobres e elevados sentimentos, pautando-se pela regra áurea do “Perdoa a teu irmão setenta vezes sete vezes”. ( † )
+A disciplina da palavra leva-nos a lembrar que antes de julgar os atos de nossos semelhantes devemos lembrar-nos do “argueiro no olho”. ( † )
 A disciplina do proceder, em toda parte, deve nos levar à exemplificação a todas as horas e a todos os dias que somos médiuns e que só seremos mediadores das coisas divinas se o nosso proceder for harmonioso com as normas evangélicas.
 Que o Senhor, com sua longanimidade eterna, nos ampare e abençoe, fortificando-nos em nossos esforços de aprimoramento para servi-lo.
 A todos a minha saudação, em nome de nosso Senhor Jesus Cristo.
 
 ---
 
-## 3 — Em louvor ao Evangelho
+## 3
 
-> 3ª reunião | 18 de outubro de 1956
+> 3ª reunião | 18 de outubro de 1956.
+> — Arnaldo Rocha, Francisco Teixeira de Carvalho, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier,
 
 Jesus seja louvado, meus filhos. Que a sua misericórdia se faça sobre nós nesta noite em que vamos falar de tal modo que a nossa palavra seja gravada.
 Lembramo-nos, assim, de trazer-vos a nossa experiência na luta para buscarmos, todos juntos, a graça do Senhor.
 No seu Evangelho temos aprendido tanto que nos encorajamos hoje a recordar nos companheiros mais moços que ele não somente é um livro que se deva ler por espírito de religiosidade ou de temor a Deus, mas sim como código seguro, que nos conduz às estradas aplainadas do Sumo Bem, preparando-nos para a compreensão maior. Infelizmente, não são apenas os neófitos, mas também os iniciados nos mais altos estudos que não lhe entendem o supremo valor. Ainda assim a palavra do divino Mestre nele está como advertência sublime, alertando-nos para o amor — que é a vida de nossas almas.
 Amor, meu filhos! É o que nos falta nos dias tumultuosos em que vivemos todos, encarnados e desencarnados, porque as angústias que nos ferem, as incompreensões, a ausência de fé, as dores de todos os recantos nascem nas sombras do egoísmo crescente. Lembremo-nos, assim, da necessidade do Evangelho nos lares, oficinas, no trabalho e em toda parte, a fim de que os nossos objetivos sejam alcançados.
 Reconhecemos que mesmo os iniciados na Doutrina de Jesus usam o Evangelho apenas por obrigação. Não puderam ainda apreender-lhe a luz magnífica, e nem puderam apreender-lhe as consolações e as esperanças sublimes. Busquemos, irmãos e companheiros queridos, a cada dia reproduzir, de qualquer modo que a nossa mente for capaz, a figura misericordiosa de Jesus, nosso Senhor, nas suas expressões repassadas de amor e sabedoria, atendendo-lhe às exortações que ressoam, divinas, através dos séculos. Pelo Evangelho, conquistaremos vossas almas. Essa deve ser nossa constante preocupação — vivo roteiro dos nossos dias —, principalmente quando nos empenharmos em aprimorar os nossos sentimentos, em alijar das nossas almas os maus hábitos, melhoramo-nos, a fim de aprimorarmo-nos no Senhor.
-As gerações do passado sucederam-se entre decepções e lágrimas por buscarem a felicidade sem Cristo, mas nós outros, que lhe ouvimos a palavra, sentimos o hálito divino animando-nos à justa renovação. A sua mão misericordiosa levantou-nos das cinzas do pretérito. A poeira das civilizações caídas no erro não se amontoou sobre os nossos ouvidos porque lhe escutamos ainda o apelo consolador: “Vinde a mim vós que sofreis e que vos achais sobrecarregados, que eu vos aliviarei!”
-
+As gerações do passado sucederam-se entre decepções e lágrimas por buscarem a felicidade sem Cristo, mas nós outros, que lhe ouvimos a palavra, sentimos o hálito divino animando-nos à justa renovação. A sua mão misericordiosa levantou-nos das cinzas do pretérito. A poeira das civilizações caídas no erro não se amontoou sobre os nossos ouvidos porque lhe escutamos ainda o apelo consolador: “Vinde a mim vós que sofreis e que vos achais sobrecarregados, que eu vos aliviarei!” ( † )
 Fomos a ele e sentimos que o seu amor infinito desceu sobre nós. Saibamos, pois, conservar-lhe a graça divina.
 E, terminando, saudamos a todos os companheiros em nome de sua paz, rogando a Deus nos abençoe para sempre.
 
 ---
 
-## 4 — Dolorosa confissão
+## 4
 
-> 4ª reunião | 25 de outubro de 1956
+> 4ª reunião | 25 de outubro de 1956.
+> — Arnaldo Rocha, Francisco Teixeira de Carvalho, Elza Vieira, Antônio Cordeiro Albuquerque, Francisco Gonçalves, Geni Pena Xavier,
 
 Louvado seja Deus, que permite seja minha voz ouvida numa escola de companheiros do Evangelho!
-Há mais de meio século, nas terras de Minas Gerais, arvorei o pendão de João Batista,
-trazendo no coração muita fé e muita alegria, mas também muito orgulho e muita vaidade.
-Ao invés de alicerçar-lhe a casa na divisa que fiz inscrever “fora da caridade não há salvação”,
-pautando, orientando, dirigindo os nossos atos naquela humildade característica do padroeiro que erigíramos para a nossa casa, fizemos espoucar fogos, ouvir bandas de música, envergamos cartolas e atendemos a todas as exigências de uma vida fictícia de uma sociedade vazia de sentimento e balda de amor.
+Há mais de meio século, nas terras de Minas Gerais, arvorei o pendão de João Batista, ( † ) trazendo no coração muita fé e muita alegria, mas também muito orgulho e muita vaidade.
+Ao invés de alicerçar-lhe a casa na divisa que fiz inscrever “fora da caridade não há salvação”, ( † ) pautando, orientando, dirigindo os nossos atos naquela humildade característica do padroeiro que erigíramos para a nossa casa, fizemos espoucar fogos, ouvir bandas de música, envergamos cartolas e atendemos a todas as exigências de uma vida fictícia de uma sociedade vazia de sentimento e balda de amor.
 Longe de crescer no coração das criaturas, que, ávidas, procuravam naquela casa as semente do consolo e da evangelização, crescia nela o orgulho, a desilusão e a obsessão. Levamos a nossa cruz cheia de flores, cheia de luzes fátuas, mas vazia de sentimento, escura das luzes do amor, sem a florescência da fraternidade e do perdão.
 O estigma enraizou-se profundamente, vibrando fortes golpes nas leis de harmonia e de fraternidade, e desencadeou-se guerra surda contra nós, contra a casa, contra a instituição que deveria crescer, deveria florescer e amparar a todos aqueles que esperavam por nosso concurso nas terras de Minas.
 O orgulho e a vaidade ensandeceram-nos, através de elogios e honrarias mentirosas. Levamos as explanações espiríticas para todos os lugares onde a alta sociedade dominava, mas esquecemos de conduzi-la aos lugares onde a dor campeava. E carreávamos a nossa palavra para todas as tribunas floridas e deixávamos de enxugar as lágrimas dos órfãos desamparados, dos velhos sofredores e das mães aflitas e famintas.
@@ -563,9 +316,10 @@ Vosso companheiro,
 
 ---
 
-## 5 — No campo do bem
+## 5
 
-> 5ª reunião | 1º de novembro de 1956
+> 5ª reunião | 1º de novembro de 1956.
+> — Arnaldo Rocha, Enio Santos, Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Antônio Inácio de Melo, Aderbal Nogueira Lima,
 
 Muita paz, meus amigos.
 Peçamos, antes de tudo, a nosso Senhor Jesus Cristo nos ampare e proteja, porque sem a sua bênção estaremos órfãos.
@@ -573,15 +327,15 @@ Por acréscimo de sua misericórdia temos mais esta casa para o trabalho constru
 De corações e espíritos entrelaçados no mesmo anseio de paz e de trabalho, busquemos o pão do Espírito e a água viva do amor que, pura e cristalina, dessedentará as nossas almas, exangues nas longas caminhadas com quedas consecutivas.
 Usemos nossos recursos dentro do bem, para o bem e pelo bem. Que os nossos pés não se movimentem senão em prol dos nossos irmãos de peregrinação, sejam estes necessitados ou não, porque, embora paradoxal nos pareça, todos necessitamos imensamente uns dos outros e os mais ricos, os aparentemente mais favorecidos da sorte, são geralmente os mais fracos e mais sujeitos à provação e ao desequilíbrio.
 Não nos disse o apóstolo dos gentios que o Pai ama todo aquele que dá com alegria? E então, meus amigos? Qual é o dever precípuo de todo bom cristão? É dar e dar muito, com sincera alegria. Que as nossas bocas jamais se abram para ferir, insultar ou humilhar a quem quer que seja. E que os nossos olhos vejam apenas as boas qualidades do nosso próximo.
-Os menores gestos de amor e caridade nos são contados em acréscimo e gravados no grande livro da vida eterna. Temos notado, e com muito mais intensidade do lado de cá, que a maior esmola não é a do dinheiro que nos sobra, mas a do coração, porquanto se amarmos ardentemente aos nossos irmãos de romagem planetária, o filtro de caridade não deixará passar o reflexo de seus possíveis defeitos, para que lhes vejamos tão somente as virtudes. Nessa diretriz, chegaremos à certeza de que não há criaturas verdadeiramente devotadas ao mal e sim pobres vítimas de dolorosas enfermidades que nos compete combater e curar. Além disso, meus irmãos, ofertando a todos o nosso amor e a nossa caridade, estaremos lembrando a sublime assertiva do Mestre: “Muito se pedirá a quem muito se houver dado”.
-E na verdade nós somos daqueles que muito recebem. Ajudemos, pois, com alegria, rendendo graças a Deus pela oportunidade de trabalhar. Que o serviço do bem seja o nosso clima constante.
+Os menores gestos de amor e caridade nos são contados em acréscimo e gravados no grande livro da vida eterna. Temos notado, e com muito mais intensidade do lado de cá, que a maior esmola não é a do dinheiro que nos sobra, mas a do coração, porquanto se amarmos ardentemente aos nossos irmãos de romagem planetária, o filtro de caridade não deixará passar o reflexo de seus possíveis defeitos, para que lhes vejamos tão somente as virtudes. Nessa diretriz, chegaremos à certeza de que não há criaturas verdadeiramente devotadas ao mal e sim pobres vítimas de dolorosas enfermidades que nos compete combater e curar. Além disso, meus irmãos, ofertando a todos o nosso amor e a nossa caridade, estaremos lembrando a sublime assertiva do Mestre: “Muito se pedirá a quem muito se houver dado”. ( † ) E na verdade nós somos daqueles que muito recebem. Ajudemos, pois, com alegria, rendendo graças a Deus pela oportunidade de trabalhar. Que o serviço do bem seja o nosso clima constante.
 Estimaria prolongar a nossa tertúlia por mais algum tempo. No entanto, outros deveres reclamam-nos acolá. É por isso que me despeço, deixando-lhes um grande abraço de companheiro e velho amigo.
 
 ---
 
-## 6 — Remorso
+## 6
 
-> 6ª reunião | 8 de novembro de 1956
+> 6ª reunião | 8 de novembro de 1956.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Nélio Cerqueira, Edmundo Fontenele, Aderbal Nogueira Lima,
 
 Vim aqui num misto de tristeza e resignação, de coragem e timidez. É que tantos outros são portadores de grandes méritos e eu, um magistrado, a única valia que trago é a de servir de escarmento para os infelizes que me ouvem do lado de cá e para vocês que aí estão na Terra.
 A lição é bem dura e cruel para quem, como eu, sempre se julgou tão importante. Fui juiz e não soube manter-me na altura e na dignidade exigidas ao homem de bem. Eu, que representava a lei, andava fora dessa mesma lei.
@@ -596,24 +350,25 @@ Obrigado, meus amigos! Obrigado!
 
 ---
 
-## 7 — Prece
+## 7
 
-> 7ª reunião | 15 de novembro de 1956
+> 7ª reunião | 15 de novembro de 1956.
+> — Arnaldo Rocha, Ênio Santos, Joaquim Alves, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 Maria, desvelada Mãe, o que poderemos mais te pedir se tudo já temos?
 Apesar do nosso demérito e de sermos prisioneiros dos nosso próprios erros milenários, o teu divino Filho e nosso Mestre amado nos tem cumulado de tantas bênçãos e nos tem dado todo o seu carinho, através das alegrias do amor, das carícias de uma criança, do conforto da fé, do poder da oração e da ternura de uma mãe!…
 Temos todo o seu carinho através da bênção que nos dá, refletida no calor do sol, na claridade da luz, na riqueza da saúde, no socorro da fonte e na felicidade do lar!…
 O que mais precisamos então?
 Agora, Mãe querida, que reconhecemos a suprema bondade do teu divino Filho, nosso Mestre, nada mais poderemos pedir para nós mesmos, entretanto, lembramo-nos, com ternura e respeito, dos irmãozinhos nossos, menos felizes, que aumentando estão as suas dívidas, não como oprimidos, mas como algozes, espalhando por toda parte o infortúnio, a incompreensão e a crueldade.
-É para eles, Mãe querida, que te imploramos misericórdia! Para que eles sejam detidos no caminho do mal e que possam receber no escrínio de suas almas uma gota de luz da tua maternidade, para que entendam, enfim, mãe, que “fora da caridade não há salvação!”
-
+É para eles, Mãe querida, que te imploramos misericórdia! Para que eles sejam detidos no caminho do mal e que possam receber no escrínio de suas almas uma gota de luz da tua maternidade, para que entendam, enfim, mãe, que “fora da caridade não há salvação!” ( † )
 Abençoe-nos, ó lírio celeste, com o teu amor de Mãe!
 
 ---
 
-## 8 — Dolorosa advertência
+## 8
 
-> 8ª reunião | 22 de novembro de 1956
+> 8ª reunião | 22 de novembro de 1956.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Joaquim Alves,
 
 Trazida aqui por desveladas mãos, venho contar a vocês o quanto sofre, depois do túmulo, uma criatura fraca, leviana e ingrata. Por mais fértil nos seja a imaginação, ninguém poderá calcular a minha dor, o meu sofrimento e o abandono a que fui relegada. Meu coração sangra ainda com a repercussão dos dolorosos fatos que culminaram com a minha morte.
 Sabia que havia morrido, pois acompanhei o meu próprio enterro, mas apesar de tudo isso, não sei o porquê, continuava viva e a minha agonia me parecia eterna.
@@ -631,9 +386,9 @@ Piedade! Piedade! É a bênção que suplico na bênção da prece que rogo a to
 
 ---
 
-## 9 — Em rogativa
+## 9
 
-> 9ª reunião | 29 de novembro de 1956
+> 9ª reunião | 29 de novembro de 1956.
 
 Senhor Jesus, aqui estamos numa confraternização de Espíritos e corações, agradecendo-te as oportunidades redentoras que nos tens dado com a bênção do tempo e com as lutas edificantes, dois elementos básicos para a nossa felicidade, sem os quais, jamais, poderemos progredir!
 Entretanto, quantas vezes, por fraqueza nossa, temos deturpado esses fatores do nosso progresso espiritual com os sentimentos do orgulho e da vaidade?
@@ -645,77 +400,50 @@ Meus filhos, que a paz de Jesus, o seu amor e a sua luz desçam sobre os nossos 
 
 ---
 
-## 10 — Rei dos reis
+## 10
 
-> 10ª reunião | 6 de dezembro de 1956
+> 10ª reunião | 6 de dezembro de 1956.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Antônio Inácio de Melo, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Antes dele muitos reis haviam passado. Ramsés II,
-ostentando a coroa do Egito, subjugou a Fenícia e a Síria, e dominou os vales do Tigre e do Eufrates, percorrendo, vitorioso, a Bactriana
-e a Média,
-e regressou à sua pátria, acompanhado de largas multidões de cativos, em suor e lágrimas, para descer, no fim de seus dias, aos tormentos da cegueira e às trevas do suicídio.
-Nabucodonosor,
-guardando o cetro dos assírios, tomou Jerusalém, bateu o Egito e, manobrando a intriga e o perjúrio, a rapina e a crueldade, consolidou a grandeza da Babilônia para arrojar-se, misérrimo, ao poço da loucura e ao nevoeiro da morte, depois de longo reinado a desbordar-se em vaidade e magnificência.
-Ciro,
-exibindo a coroa dos persas, arrasou a Lídia
-e a Mesopotâmia,
-tripudiando sobre os cadáveres ainda quentes dos adversários e dos vencidos. Mas quando pretendia submeter os citas
-eis que a
-rainha Tômires
-mandou cortar-lhe a cabeça e mergulhando-a numa grande bacia transbordante de sangue humano exclamou, com infinito sarcasmo: “Mata a sede neste sangue de que te mostravas tão ávido!”
-Alexandre, o Grande,
-conservando a coroa dos macedônios, assalariou milhares e milhares de combatentes, governou os gregos e massacrou os persas, conquistou vários povos e alterou a feição política do mundo, mas a febre em Babilônia consumiu-lhe o corpo ainda jovem, quando intentava desdobrar novos planos de guerra e devastação.
-Júlio César,
-mostrando os emblemas do poderio de Roma, passeou, através das Gálias,
-o seu carro de triunfo sanguinolento, surdo ao clamor das viúvas e dos órfãos que lhe suplicavam comiseração e bondade, para tombar, no fastígio de sua autoridade, sob o golpe certeiro do punhal de Bruto.
-Todos passaram dilacerando e usurpando, frustrando e destruindo…
-Ele, porém, veio ter com os homens através de estrebaria singela.
-Não teve exércitos que não fossem as legiões de almas simples que o receberam confiantes na palavra divina.
-Não manejou outra espada que não fosse a do próprio coração inflamado de amor.
-Não viveu outra aristocracia que não fosse aquela do serviço infatigável aos semelhantes.
-Não empunhou outro cetro que não aquele da cana de escárnio que lhe puseram nas mãos na hora da angústia.
-Não guardou outra tiara de realeza que não fosse a coroa de espinhos.
-E não teve outro sólio de governança que não aquele do lenho da ignomínia, em que testemunhou o sacrifício supremo.
-Mas desde que o Rei dos reis veio ao encontro dos corações humanos, através da manjedoura da humildade, retirando-se do mundo através dos braços da cruz da flagelação, o seu império cresce com os dias e o seu nome é a glória das nações.
-E é por isso que, ainda hoje, todos nós, os cristãos do século XX, encarnados e desencarnados, ajoelhamo-nos em espírito diante do esplendor da estrela de Belém, para reverenciá-lo, jubilosos e comovidos: “Ave, Cristo! Os que aspiram viver contigo para sempre te glorificam e te saúdam!”
+1 Antes dele muitos reis haviam passado. Ramsés II, † ostentando a coroa do Egito, subjugou a Fenícia e a Síria, e dominou os vales do Tigre e do Eufrates, percorrendo, vitorioso, a Bactriana † e a Média, † e regressou à sua pátria, acompanhado de largas multidões de cativos, em suor e lágrimas, para descer, no fim de seus dias, aos tormentos da cegueira e às trevas do suicídio.
+2 Nabucodonosor, † guardando o cetro dos assírios, tomou Jerusalém, bateu o Egito e, manobrando a intriga e o perjúrio, a rapina e a crueldade, consolidou a grandeza da Babilônia para arrojar-se, misérrimo, ao poço da loucura e ao nevoeiro da morte, depois de longo reinado a desbordar-se em vaidade e magnificência.
+3 Ciro, † exibindo a coroa dos persas, arrasou a Lídia † e a Mesopotâmia, † tripudiando sobre os cadáveres ainda quentes dos adversários e dos vencidos. Mas quando pretendia submeter os citas † eis que a rainha Tômires mandou cortar-lhe a cabeça e mergulhando-a numa grande bacia transbordante de sangue humano exclamou, com infinito sarcasmo: “Mata a sede neste sangue de que te mostravas tão ávido!”
+4 Alexandre, o Grande, † conservando a coroa dos macedônios, assalariou milhares e milhares de combatentes, governou os gregos e massacrou os persas, conquistou vários povos e alterou a feição política do mundo, mas a febre em Babilônia consumiu-lhe o corpo ainda jovem, quando intentava desdobrar novos planos de guerra e devastação.
+5 Júlio César, † mostrando os emblemas do poderio de Roma, passeou, através das Gálias, † o seu carro de triunfo sanguinolento, surdo ao clamor das viúvas e dos órfãos que lhe suplicavam comiseração e bondade, para tombar, no fastígio de sua autoridade, sob o golpe certeiro do punhal de Bruto. †
+6 Todos passaram dilacerando e usurpando, frustrando e destruindo…
+7 Ele, porém, veio ter com os homens através de estrebaria singela. 8 Não teve exércitos que não fossem as legiões de almas simples que o receberam confiantes na palavra divina. 9 Não manejou outra espada que não fosse a do próprio coração inflamado de amor. 10 Não viveu outra aristocracia que não fosse aquela do serviço infatigável aos semelhantes. 11 Não empunhou outro cetro que não aquele da cana de escárnio que lhe puseram nas mãos na hora da angústia. 12 Não guardou outra tiara de realeza que não fosse a coroa de espinhos. 13 E não teve outro sólio de governança que não aquele do lenho da ignomínia, em que testemunhou o sacrifício supremo. 14 Mas desde que o Rei dos reis veio ao encontro dos corações humanos, através da manjedoura da humildade, retirando-se do mundo através dos braços da cruz da flagelação, o seu império cresce com os dias e o seu nome é a glória das nações. 15 E é por isso que, ainda hoje, todos nós, os cristãos do século XX, encarnados e desencarnados, ajoelhamo-nos em espírito diante do esplendor da estrela de Belém, para reverenciá-lo, jubilosos e comovidos: “Ave, Cristo! Os que aspiram viver contigo para sempre te glorificam e te saúdam!”
 
 ---
 
-## 11 — Sacerdote ante a manjedoura
+## 11
 
-> 11ª reunião | 13 de dezembro de 1956
+> 11ª reunião | 13 de dezembro de 1956.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edite Malaquias Xavier, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Doce Jesus, deixa que o sacerdote de ontem, hoje despido de todo ornato humano, te fale de alma desnuda diante da manjedoura em que preferiste ser pobre para ser livre!
-Sabes, Senhor, que de nós pediu o mundo aquilo que não podíamos dar. A nós, homens frágeis e imperfeitos, rogou-se a pureza inatacável. De nós, consciências endividadas e infiéis, exigiu-se a santidade de improviso.
-Não ignoras, porém, a tragédia pungente e oculta dos padres honestos que movem a Terra sobre o lodo das tentações, constrangidos a indicar o caminho das estrelas, embora enredados à lama da própria carne.
-Entretanto, ó Cristo, nós somos também aqueles que te prometeram o próprio sangue.
-Recebemos de ti, mais do que os outros, a sublime advertência do “Ide e pregai”
-e o mundo esperou-nos como tochas ardentes quando não passávamos de morrões bruxuleantes.
-Releva, desse modo, a fraqueza de tantos como nós, que te não corresponderam a confiança e desertaram do ministério.
-Divino Pastor, reagrupa, ao aconchego do teu cajado, as ovelhas que dispersaram!
-Construtor excelso, retifica o teu santuário de amor e de luz que nós tanto convertemos em momentos faustosos de orgulho frio!
-Anjo revelador da fé, reaquece a tua palavra transformadora e singela que nós soterramos na sombra das humanas conveniências!
-Divino Libertador, proclama de novo o teu Evangelho de redenção que mumificamos nas catedrais geladas e imponentes, em que pretendemos exaltar-te a memória!
-Perdoa-nos os crimes da suntuosidade ao pé dos famintos que alimentavas, os delitos da usura junto aos pobres que recolhias, as paixões enlouquecedoras e insensatas com que perturbamos as almas confiantes às quais desvelavas o roteiro das alturas, e os atos de crueldade que cometemos contra todos os corações sequiosos de verdade e emancipação espiritual, que endereçavas, com a força da tua palavra e com a chama do teu exemplo, à glória flamejante dos cimos!..
-Reconduze as igrejas que falam e operam em teu nome à simplicidade do teu berço divino! E ensina-nos, Senhor, a humildade pura e espontânea com que havemos de esquecer a nós mesmos e seguir-te os passos na edificação do reino de Deus para sempre.
+1 Doce Jesus, deixa que o sacerdote de ontem, hoje despido de todo ornato humano, te fale de alma desnuda diante da manjedoura em que preferiste ser pobre para ser livre!
+2 Sabes, Senhor, que de nós pediu o mundo aquilo que não podíamos dar. A nós, homens frágeis e imperfeitos, rogou-se a pureza inatacável. De nós, consciências endividadas e infiéis, exigiu-se a santidade de improviso.
+3 Não ignoras, porém, a tragédia pungente e oculta dos padres honestos que movem a Terra sobre o lodo das tentações, constrangidos a indicar o caminho das estrelas, embora enredados à lama da própria carne. 4 Entretanto, ó Cristo, nós somos também aqueles que te prometeram o próprio sangue. 5 Recebemos de ti, mais do que os outros, a sublime advertência do “Ide e pregai” ( † ) e o mundo esperou-nos como tochas ardentes quando não passávamos de morrões bruxuleantes. 6 Releva, desse modo, a fraqueza de tantos como nós, que te não corresponderam a confiança e desertaram do ministério.
+7 Divino Pastor, reagrupa, ao aconchego do teu cajado, as ovelhas que dispersaram! 8 Construtor excelso, retifica o teu santuário de amor e de luz que nós tanto convertemos em momentos faustosos de orgulho frio! 9 Anjo revelador da fé, reaquece a tua palavra transformadora e singela que nós soterramos na sombra das humanas conveniências! 10 Divino Libertador, proclama de novo o teu Evangelho de redenção que mumificamos nas catedrais geladas e imponentes, em que pretendemos exaltar-te a memória! 11 Perdoa-nos os crimes da suntuosidade ao pé dos famintos que alimentavas, os delitos da usura junto aos pobres que recolhias, as paixões enlouquecedoras e insensatas com que perturbamos as almas confiantes às quais desvelavas o roteiro das alturas, e os atos de crueldade que cometemos contra todos os corações sequiosos de verdade e emancipação espiritual, que endereçavas, com a força da tua palavra e com a chama do teu exemplo, à glória flamejante dos cimos!.. 12 Reconduze as igrejas que falam e operam em teu nome à simplicidade do teu berço divino! E ensina-nos, Senhor, a humildade pura e espontânea com que havemos de esquecer a nós mesmos e seguir-te os passos na edificação do reino de Deus para sempre.
 
 ---
 
-## 12 — Convite ao amor
+## 12
 
-> 12ª reunião | 10 de janeiro de 1957
+> 12ª reunião | 10 de janeiro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Geraldo Benício Rocha, Antônio Inácio de Melo, Eunice Cerqueira, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 Jesus esteja sempre conosco, meus queridos irmãos!
 Sinto-me emocionado, profundamente comovido nesta hora de prece, em que devo comunicar-vos minha própria palavra. É que sou ainda simples companheiro vosso, trabalhando para combater e solver meus débitos do passado.
 Graças, porém, ao nosso Mestre Jesus, estou igualmente com a mesma boa vontade, qual vos acontece na ação do meu próprio resgate.
 É por isso que apenas vos posso oferecer meu convite de amor… Amor para com todos e para com nosso trabalho. E animo-me a formular semelhante apelo porque vos vejo com as medalhas luminosas do conhecimento superior, cujas irradiações atraem os Espíritos benevolentes e sábios que nos trazem mais amplas parcelas de amor de Jesus, com as quais, pouco a pouco, aprendemos a amar, sabendo amar.
-Meus queridos irmãos, é assim que vos rogo estejamos sempre na dedicação e serviço ao próximo, no caminho e na boa vontade uns para com os outros, a fim de que permaneçamos no caminho do Senhor, que nos legou esta lição sublime: “Amai-vos uns aos outros como eu vos amei”.
-
+Meus queridos irmãos, é assim que vos rogo estejamos sempre na dedicação e serviço ao próximo, no caminho e na boa vontade uns para com os outros, a fim de que permaneçamos no caminho do Senhor, que nos legou esta lição sublime: “Amai-vos uns aos outros como eu vos amei”. ( † )
 
 ---
 
-## 13 — Mensagem fraterna
+## 13
 
-> 13ª reunião | 17 de janeiro de 1957
+> 13ª reunião | 17 de janeiro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Antônio Inácio de Melo, Aderbal Nogueira Lima,
 
 Grande é a beleza que reluz em nosso santuário do Evangelho, porque a oração desperta alegrias que se assemelham a cânticos de sinos festivos entre as flores da natureza.
 Era meu desejo dizer-vos algo mais com respeito à felicidade de amar e é por essa razão que Jesus correspondeu aos anseios de meu Espírito, como atende a todos os corações que a ele recorrem, permitindo, ainda hoje, a palavra neste recinto de paz.
@@ -723,9 +451,10 @@ Resumirei, porém, todas as mensagens da minha alma, concitando-vos ao amor de C
 
 ---
 
-## 14 — Bendita seja a prece
+## 14
 
-> 14ª reunião | 24 de janeiro de 1957
+> 14ª reunião | 24 de janeiro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 Valho-me das preces desta noite para dizer-vos minha página de sofrimento. O sofrimento de quem despertou na lousa fria…
 A angústia de quem se viu sozinho em plena noite, guardando consigo o espanto e a mágoa…
@@ -737,18 +466,20 @@ Oh, meus irmãos, que um dia conhecereis também a grande passagem, habituai-vos
 
 ---
 
-## 15 — Página de gratidão
+## 15
 
-> 15ª reunião | 31 de janeiro de 1957
+> 15ª reunião | 31 de janeiro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Meus amigos, que a paz divina nos proteja.
 Manifesto-me para dizer-vos “muito obrigado”, porquanto sou um daqueles que se beneficiaram infinitamente neste lar. Minhas lutas na Terra foram enormes, porque muito grandes foram meus erros e, por isso, imensas eram as sombras em minh’alma. A luz de vossa casa, porém, clareou-me o caminho, ensinando-me a ver que todos os sofrimentos são também recursos com que a Misericórdia Divina nos favorece. É por essa razão que, comovidamente, rogo a Deus ampare este lar, sustentando-o por muitos e ditosos anos! Não devo prosseguir por faltar-me capacidade de maior expressão. Recebei, contudo, todos vós, com minha boa vontade, a minha alegria e a minha gratidão!
 
 ---
 
-## 16 — Gratidão
+## 16
 
-> 16ª reunião | 7 de fevereiro de 1957
+> 16ª reunião | 7 de fevereiro de 1957.
+> — Arnaldo Rocha, Ênio Santos,
 
 Que a paz do divino Mestre esteja em nossos corações. Aqui estou para agradecer todos os bens que tenho recebido: a compreensão e o alimento da alma, a consolação e a luz! Sei que estou beneficiado não por merecimento, mas por misericórdia. E que Jesus me dê forças para vencer todos os tropeços de que fui o semeador.
 Assim, pois, meus amigos, rogo ainda para que vocês me auxiliem através da oração, para que eu não fraqueje mais.
@@ -756,9 +487,10 @@ Jesus nos abençoe!
 
 ---
 
-## 17 — Página fraterna
+## 17
 
-> 17ª reunião | 14 de fevereiro de 1957
+> 17ª reunião | 14 de fevereiro de 1957.
+> — Arnaldo Rocha, Ênio Santos,
 
 Meus irmãos, que a paz do Senhor seja com todos.
 Graças a Deus, estou transmitindo o meu pensamento à nossa Elza com mais facilidade. É com muita alegria que digo isso, porque é preciso enriquecer nossa casa com maiores recursos de intercâmbio. Na terça-feira última, quando em oração, tentei utilizar-me de suas faculdades, mas nossa amiga ponderou, mentalmente, que hoje seria mais justo e, assim, agradeço agora a docilidade com que me corresponde aos desejos.
@@ -767,17 +499,19 @@ Meus votos de paz a todos e que Jesus nos ampare sempre.
 
 ---
 
-## 18 — Oração
+## 18
 
-> 18ª reunião | 21 de fevereiro de 195:
+> 18ª reunião | 21 de fevereiro de 1957.
+> — Arnaldo Rocha, Ênio Santos,
 
 Jesus, mestre amado, receba-me a súplica e o reconhecimento! Venho depositar aos teus pés o meu pranto de gratidão e as flores do meu carinho. Sê louvado, Senhor, por tudo o que me deste pela bênção e pelo encorajamento, pela corrigenda e pela lição. Agora, Mestre, dá-me forças! Perdoa-me a falta e releva-me as fraquezas. Eu sei, Jesus, como é grande a tua misericórdia! Dá-me, assim, por acréscimo de compaixão, a nova oportunidade de trabalho e luta em que eu possa recomeçar a servir, no cumprimento de meu dever!
 
 ---
 
-## 19 — Palavras de irmão
+## 19
 
-> 19ª reunião | 28 de fevereiro de 1957
+> 19ª reunião | 28 de fevereiro de 1957.
+> — Arnaldo Rocha, Ênio Santos,
 
 Meus amigos, aqui estou para transmitir-lhes o meu abraço, reconhecido por todas as bênçãos que tenho recebido nesta casa, por todo o amparo que vocês todos têm dispensado em meu favor. Rendo mesmo graças a Deus por estes momentos de palavra discreta, que poderiam ser mais amplos, contudo, as dificuldades para exprimir-me são ainda grandes, embora insista em falar-lhes assim mesmo. Peço que digam à Elza que é preciso mostrar mais confiança, porque na inquietação mediúnica em que se coloca muito dificulta o esforço dos amigos que lhe buscam as faculdades. Estou auxiliando-a quanto posso — sempre estou!
 Arnaldo, rogo para que você nos auxilie. Perdoe-me a solicitação, mas é que não consigo transmitir o que desejo.
@@ -785,141 +519,80 @@ Jesus nos proteja a todos. Deixo-lhes aqui o meu abraço de humilde cooperador.
 
 ---
 
-## 20 — Mediunidade e Espiritismo
+## 20
 
-> 20ª reunião | 7 de março de 1957
+> 20ª reunião | 7 de março de 1957.
+> — Arnaldo Rocha, Ênio Santos Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malaquias Xavier, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Meus amigos, a paz do Senhor Jesus seja conosco.
-Para os espíritas desencarnados, a mediunidade é problema dos mais aflitivos no santuário de princípios a que empenhamos a nossa fé. Sabemos que mediunidade não é Espiritismo.
-Ela surge dentro da Nova Revelação assim como em medicina dispomos do veículo para o remédio.
-O álcool, a água, o xarope não constituem a entidade curativa em si, contudo, são instrumentos valiosos que lhe fixam os valores.
-Imaginemos a ignorância como sendo a moléstia do mundo. Ignorância que aumenta a animalidade, que garante a desarmonia e a loucura.
-Mentalizemos o Espiritismo como sendo a luz medicamentosa e a mediunidade desempenhando a função do canal que lhe dissemina a virtude.
-Quanta realização proveitosa se as criaturas trazidas aos misteres medianímicos encarassem as suas responsabilidades com mais ampla musculatura moral!
-Para nós, batalhadores humildes, exonerados da carne com o propósito de acentuar observações em prol do trabalho sadio nos arraiais de nossa luta, a análise aparece como serviço dos mais preciosos.
-Formulamos indagações justas… Consultamos arquivos… E ficamos sabendo que há precisamente um século a Esfera Superior tem providenciado o renascimento de múltiplas comissões de batalhadores, constituídas, todas elas, por Espíritos missionários, que se oferecem como colaboradores voluntários de bandeira libertadora de nossa Doutrina, por almas endividadas que pedem provações nos alicerces do Cristianismo redivivo ou por criaturas que se lançam à conquista de méritos indispensáveis à mais ampla ascensão no mundo espiritual.
-Entretanto, quão raros são aqueles que no conflito entre a sombra e a luz não caem às primeiras investidas da treva!
-Exclamou o Senhor, certa vez, para os seus discípulos: “Eis que vos envio como ovelhas aos círculos dos lobos”.
-O Mestre, no entanto, não faria mensageiros desarmados moralmente em si próprios. As ovelhas que endereçava ao combate eram Espíritos enriquecidos de conhecimento superior, capazes de exemplos dignos para a renovação mental dos lobos humanos reencarnados na Terra.
-Assim também os tarefeiros da mediunidade não chegam ao berço terreno sem a necessária preparação.
-Contudo, vemo-los, quase sempre, enfraquecidos e inermes ante as sugestões de forças primitivistas que se acastelam há milênios na carne, procurando desmoralizar os princípios emanantes do Céu.
-Aqui são criaturas que, aos primeiros convites do prazer, se acamaradam com vampiros que lhes aniquilam a resistência…
-Adiante encontramos companheiros que, na fome doentia de conforto material, se rendem a gênios substancialmente perversos que lhes exploram as energias, anulando-as para o serviço edificante do Senhor.
-Mais além encontramos aqueles que, nos primeiros embates do ministério, preferem a covardia da poltrona morna, a qualquer preço, para que se não vejam aborrecidos por qualquer ideia de renunciação individual.
-E concorrendo com semelhantes calamidades vemos a praga da dúvida, a velha cortina de fumo de que se prevalecem os inimigos da luz para que os soldados do bem sejam neutralizados em sua capacidade de combater.
-Se essa vacilação se referisse à influência do mal, ela seria, talvez, justificável, entretanto, por mais complexo se nos faça o raciocínio reporta-se inteiramente ao bem que nos pede amor e consagração.
-Raramente encontramos algum companheiro que, em cometendo essa ou aquela falta, não esteja convicto quanto ao império dos inimigos desencarnados que lhes flagelam a vida.
-Esse ou aquele delito é justificado com a presença do obsessor.
-Essa ou aquela omissão no dever a cumprir é imputada à atuação de Espíritos infelizes, mas em se tratando do sacrifício que devemos à causa do bem, a favor do próximo, quase todos os colaboradores do trabalho mediúnico costumam asseverar: “É possível que isso seja meu.
-Tenho receio de mistificar…
-Estou em dúvida e por isso devo guardar abstenção…
-Tenho medo de mentir à minha própria consciência…
-Não tenho certeza se me cabe agir dessa ou daquela maneira, porque não vejo bem as entidades desencarnadas…
-Não ouvi com clareza o Espírito protetor e por isso mesmo senti-me na obrigação de evitar a mensagem…”
-Essas e outras frases explodem a cada passo, aqui e ali, como se nós, em nossa clara posição de inferioridade, estivéssemos realmente habilitados à pratica do bem e como se esse bem não fluísse da Esfera Superior, procurando os nossos singelos recursos de interpretação.
-Não podemos hesitar no culto à fraternidade.
-Todos estamos armados com o discernimento preciso para saber que essa ou aquela palavra, e que essa ou aquela providência são destinadas à melhoria, ao consolo, ao socorro e ao amparo daqueles que nos cercam.
-Basta que façamos silêncio, guardando a coragem de emudecer nosso personalismo delinquente para que o auxílio divino se estabeleça através de nossas possibilidades, na garantia da felicidade dos outros.
-Quanta lágrima enxugada, quanto reconforto administrado, quanta riqueza emotiva fixada em corações sofredores, quanta luz nas almas obscurecidas pelas trevas se tivermos o desassombro de entregar o coração, o cérebro, a voz e os braços à glória do bem para que o amor se estenda puro!
-É imprescindível acordar os companheiros da mediunidade para a obra do bem incondicional, a fim de que não estejamos imobilizando a ação dos instrutores do Alto, abnegados e vigilantes na renúncia e na caridade, em benefício do mundo. Mediunidade e Espiritismo!
-Espiritismo é a lição divina de Jesus, como o sol brilhando para todas as criaturas, indistintamente! Mediunidade é instrumentação humana para a dosagem dessa luz na redenção das consciências encarnadas e desencarnadas. Ajudemos àqueles corações incumbidos de desdobrá-la para que raciocinem a tempo, a fim de que o tempo de permanência na carne lhes seja realmente favorável, porque todos nos achamos em marcha para a verdade suprema.
-Mediunidade e Espiritismo! Espiritismo é bênção do Criador. Mediunidade é trabalho da criatura.
-Mal caminharemos, porém, se os médiuns, longe do estudo e longe da prestação de serviço desinteressado, se acomodarem com as trevas disfarçadas em aplauso do mundo e exclusivismo doméstico.
-Não podemos esquecer a obrigação de prosseguir no sulco dos pioneiros da nossa fé, a começar pelo exemplo daquele pioneiro maior que foi o apóstolo da Codificação, Allan Kardec!
-É preciso não olvidar que todos nós encontramos no Espiritismo a possibilidade da grande iniciação para a Vida Maior, iniciação que pode ser sintetizada com o primeiro mandamento da lei, “Amarás o Senhor teu Deus de todo o teu coração e de todo o teu entendimento”,
-a desdobrar-se no ensinamento vivido de nosso Senhor Jesus Cristo: “Amai-vos uns aos outros como eu vos amei”.
-
+1 Meus amigos, a paz do Senhor Jesus seja conosco.
+2 Para os espíritas desencarnados, a mediunidade é problema dos mais aflitivos no santuário de princípios a que empenhamos a nossa fé. Sabemos que mediunidade não é Espiritismo. 3 Ela surge dentro da Nova Revelação assim como em medicina dispomos do veículo para o remédio. 4 O álcool, a água, o xarope não constituem a entidade curativa em si, contudo, são instrumentos valiosos que lhe fixam os valores.
+5 Imaginemos a ignorância como sendo a moléstia do mundo. Ignorância que aumenta a animalidade, que garante a desarmonia e a loucura. 6 Mentalizemos o Espiritismo como sendo a luz medicamentosa e a mediunidade desempenhando a função do canal que lhe dissemina a virtude. 7 Quanta realização proveitosa se as criaturas trazidas aos misteres medianímicos encarassem as suas responsabilidades com mais ampla musculatura moral! 8 Para nós, batalhadores humildes, exonerados da carne com o propósito de acentuar observações em prol do trabalho sadio nos arraiais de nossa luta, a análise aparece como serviço dos mais preciosos. 9 Formulamos indagações justas… Consultamos arquivos… E ficamos sabendo que há precisamente um século a Esfera Superior tem providenciado o renascimento de múltiplas comissões de batalhadores, constituídas, todas elas, por Espíritos missionários, que se oferecem como colaboradores voluntários de bandeira libertadora de nossa Doutrina, por almas endividadas que pedem provações nos alicerces do Cristianismo redivivo ou por criaturas que se lançam à conquista de méritos indispensáveis à mais ampla ascensão no mundo espiritual. 10 Entretanto, quão raros são aqueles que no conflito entre a sombra e a luz não caem às primeiras investidas da treva!
+11 Exclamou o Senhor, certa vez, para os seus discípulos: “Eis que vos envio como ovelhas aos círculos dos lobos”. ( † ) O Mestre, no entanto, não faria mensageiros desarmados moralmente em si próprios. As ovelhas que endereçava ao combate eram Espíritos enriquecidos de conhecimento superior, capazes de exemplos dignos para a renovação mental dos lobos humanos reencarnados na Terra. 12 Assim também os tarefeiros da mediunidade não chegam ao berço terreno sem a necessária preparação. 13 Contudo, vemo-los, quase sempre, enfraquecidos e inermes ante as sugestões de forças primitivistas que se acastelam há milênios na carne, procurando desmoralizar os princípios emanantes do Céu. 14 Aqui são criaturas que, aos primeiros convites do prazer, se acamaradam com vampiros que lhes aniquilam a resistência… 15 Adiante encontramos companheiros que, na fome doentia de conforto material, se rendem a gênios substancialmente perversos que lhes exploram as energias, anulando-as para o serviço edificante do Senhor. 16 Mais além encontramos aqueles que, nos primeiros embates do ministério, preferem a covardia da poltrona morna, a qualquer preço, para que se não vejam aborrecidos por qualquer ideia de renunciação individual. 17 E concorrendo com semelhantes calamidades vemos a praga da dúvida, a velha cortina de fumo de que se prevalecem os inimigos da luz para que os soldados do bem sejam neutralizados em sua capacidade de combater.
+18 Se essa vacilação se referisse à influência do mal, ela seria, talvez, justificável, entretanto, por mais complexo se nos faça o raciocínio reporta-se inteiramente ao bem que nos pede amor e consagração. 19 Raramente encontramos algum companheiro que, em cometendo essa ou aquela falta, não esteja convicto quanto ao império dos inimigos desencarnados que lhes flagelam a vida. 20 Esse ou aquele delito é justificado com a presença do obsessor. 21 Essa ou aquela omissão no dever a cumprir é imputada à atuação de Espíritos infelizes, mas em se tratando do sacrifício que devemos à causa do bem, a favor do próximo, quase todos os colaboradores do trabalho mediúnico costumam asseverar: “É possível que isso seja meu. 22 Tenho receio de mistificar… 23 Estou em dúvida e por isso devo guardar abstenção… 24 Tenho medo de mentir à minha própria consciência… 25 Não tenho certeza se me cabe agir dessa ou daquela maneira, porque não vejo bem as entidades desencarnadas… 26 Não ouvi com clareza o Espírito protetor e por isso mesmo senti-me na obrigação de evitar a mensagem…” 27 Essas e outras frases explodem a cada passo, aqui e ali, como se nós, em nossa clara posição de inferioridade, estivéssemos realmente habilitados à pratica do bem e como se esse bem não fluísse da Esfera Superior, procurando os nossos singelos recursos de interpretação.
+28 Não podemos hesitar no culto à fraternidade. 29 Todos estamos armados com o discernimento preciso para saber que essa ou aquela palavra, e que essa ou aquela providência são destinadas à melhoria, ao consolo, ao socorro e ao amparo daqueles que nos cercam. 30 Basta que façamos silêncio, guardando a coragem de emudecer nosso personalismo delinquente para que o auxílio divino se estabeleça através de nossas possibilidades, na garantia da felicidade dos outros. 31 Quanta lágrima enxugada, quanto reconforto administrado, quanta riqueza emotiva fixada em corações sofredores, quanta luz nas almas obscurecidas pelas trevas se tivermos o desassombro de entregar o coração, o cérebro, a voz e os braços à glória do bem para que o amor se estenda puro!
+32 É imprescindível acordar os companheiros da mediunidade para a obra do bem incondicional, a fim de que não estejamos imobilizando a ação dos instrutores do Alto, abnegados e vigilantes na renúncia e na caridade, em benefício do mundo. Mediunidade e Espiritismo!
+33 Espiritismo é a lição divina de Jesus, como o sol brilhando para todas as criaturas, indistintamente! Mediunidade é instrumentação humana para a dosagem dessa luz na redenção das consciências encarnadas e desencarnadas. Ajudemos àqueles corações incumbidos de desdobrá-la para que raciocinem a tempo, a fim de que o tempo de permanência na carne lhes seja realmente favorável, porque todos nos achamos em marcha para a verdade suprema.
+34 Mediunidade e Espiritismo! Espiritismo é bênção do Criador. Mediunidade é trabalho da criatura. 35 Mal caminharemos, porém, se os médiuns, longe do estudo e longe da prestação de serviço desinteressado, se acomodarem com as trevas disfarçadas em aplauso do mundo e exclusivismo doméstico. 36 Não podemos esquecer a obrigação de prosseguir no sulco dos pioneiros da nossa fé, a começar pelo exemplo daquele pioneiro maior que foi o apóstolo da Codificação, Allan Kardec!
+37 É preciso não olvidar que todos nós encontramos no Espiritismo a possibilidade da grande iniciação para a Vida Maior, iniciação que pode ser sintetizada com o primeiro mandamento da lei, “Amarás o Senhor teu Deus de todo o teu coração e de todo o teu entendimento”, ( † ) a desdobrar-se no ensinamento vivido de nosso Senhor Jesus Cristo: “Amai-vos uns aos outros como eu vos amei.” ( † )
 
 ---
 
-## 21 — Mediunidade e aperfeiçoamento
+## 21
 
-> 21ª reunião | 14 de março de 1957
+> 21ª reunião | 14 de março de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Meus amigos, que a paz de Jesus seja conosco.
-Alongando os nossos conceitos despretensiosos da reunião anterior, julgamos necessário alinhar algumas anotações acerca de mediunidade e auto aperfeiçoamento, a fim de que os tarefeiros de intercâmbio se capacitem quanto ao impositivo de nossa própria elevação.
-Não basta desenvolver a energia psíquica. Antes de tudo, é preciso saber conduzi-la e aproveitá-la, aprimorando-lhe as manifestações e os impulsos.
-O avião cortará o firmamento, irmanando povos, mas requer adequado campo de pouso para não destruir-se.
-A locomotiva carreará o progresso em continentes inteiros, entretanto, reclama trilhos que lhe disciplinem a marcha.
-O cooperador de escritório exibirá inexcedível habilidade datilográfica, contudo, se não sabe reger a língua que utiliza, em vão grafará um texto.
-O homem que realiza uma viagem caminhará com facilidade, no entanto, se desconhece o próprio rumo, desperdiçará movimento.
-Assim também na mediunidade. Não vale, simplesmente, o enriquecimento e a explosão das forças psíquicas para a multiplicidade indiscriminada de fenômenos que, de certo, não conseguirão ferir o senso moral das criaturas.
-A alma encarnada reside temporariamente num soberbo agregado de fenômenos, sem que lhes assinale a grandeza e a extensão.
-Tenhamos em vista o fenômeno da mentalização das ideias… O fenômeno da visão… O fenômeno da audição… O fenômeno das células gustativas… O fenômeno da composição epidérmica… O fenômeno do equilíbrio…
-Tantos fenômenos não impedem o desregramento da alma, que se distancia do serviço que lhe compete realizar.
-Inferimos dar o imperativo do esforço incessante nos companheiros convocados à comunicação entre os dois planos para que o tempo terrestre lhes seja favorável à solução dos problemas que lhes dizem respeito.
-Comparemos a força mediúnica ao violino precioso entregue aos cuidados da consciência do médium.
-Há quem se vale do instrumento para a cooperação em leviandade festiva.
-Há quem o aproveita nos espetáculos pagos de feiras públicas e há quem o mobiliza na obtenção de vantagens inferiores. Em todos esses misteres, agregam-se ao responsável pelo apetrecho valioso Espíritos desencarnados que se demoram em prazeres inúteis, em mercado ruinoso ou em propósitos destrutivos…
-Todavia, o médium acordado para a sublimação que a experiência lhe perpetua conserva o instrumento primorosamente afinado, à espera dos artistas divinos, capazes de desferirem as melodias do aperfeiçoamento e da elevação, da paz e do reconforto, da educação e da ascensão das almas aos planos superiores.
-Nesse sentido, pois, é necessário — reconhecendo semelhante impositivo para todos nós, operários da evolução — que os médiuns se consagrem ao pensamento nobre, cultivando na própria vida os valores da responsabilidade, da caridade e do estudo.
-Responsabilidade que seja dever irrepreensivelmente cumprido.
-Caridade que seja fraternidade incessante. Estudo que seja progresso.
-Responsabilidade que inspire respeito.
-Caridade que traga simpatia.
-Progresso que realize renovação.
-Para isso é imperioso que o pensamento mediúnico se demore na escolha do melhor que a vida nos oferece, que se resigne à disciplina moral, que se ambiente com a solidariedade espontânea, para que as possibilidades de interpretação permaneçam manejadas pelas inteligências superiores na formação do reino de Deus.
-Lembremo-nos, dessa forma, que é de toda importância a disseminação dos círculos de estudo, com devotamento ao serviço salutar, para que todos estejamos compenetrados nos arraiais de nossa redentora Doutrina quanto ao trabalho construtivo a que fomos chamados por nosso divino Mestre e Senhor.
-Trabalho que alivie, que cure, que fortaleça, que limpe, que socorra, que eduque, que ilumine, que ajude e que enobreça, a começar do íntimo do coração para o reduto doméstico e a transbordar no campo social em que fomos chamados a viver na condição de almas desencarnadas ou encarnadas, porque todos nos achamos em círculos de expressão dinâmica, nos quais o pensamento do Cristo deve ser refletido a benefício de todos, porque o benefício de todos é o nosso benefício particular.
-O grande codificador de nossos princípios carreou para a Terra este código abençoado que denominamos Doutrina Espírita para que Jesus fosse realmente revelado à humanidade terrestre.
-Chamados, pois, a cooperar, desde os planos mais simples aos mais complexos na exaltação do bem, guardemos consciência de nossas responsabilidades, glorificando no Espiritismo a doutrina de amor e de luz que opere no mundo a nossa consagração a Deus.
+1 Meus amigos, que a paz de Jesus seja conosco.
+2 Alongando os nossos conceitos despretensiosos da reunião anterior, julgamos necessário alinhar algumas anotações acerca de mediunidade e auto aperfeiçoamento, a fim de que os tarefeiros de intercâmbio se capacitem quanto ao impositivo de nossa própria elevação.
+3 Não basta desenvolver a energia psíquica. Antes de tudo, é preciso saber conduzi-la e aproveitá-la, aprimorando-lhe as manifestações e os impulsos. 4 O avião cortará o firmamento, irmanando povos, mas requer adequado campo de pouso para não destruir-se. 5 A locomotiva carreará o progresso em continentes inteiros, entretanto, reclama trilhos que lhe disciplinem a marcha.
+6 O cooperador de escritório exibirá inexcedível habilidade datilográfica, contudo, se não sabe reger a língua que utiliza, em vão grafará um texto. 7 O homem que realiza uma viagem caminhará com facilidade, no entanto, se desconhece o próprio rumo, desperdiçará movimento. 8 Assim também na mediunidade. Não vale, simplesmente, o enriquecimento e a explosão das forças psíquicas para a multiplicidade indiscriminada de fenômenos que, de certo, não conseguirão ferir o senso moral das criaturas. 9 A alma encarnada reside temporariamente num soberbo agregado de fenômenos, sem que lhes assinale a grandeza e a extensão.
+10 Tenhamos em vista o fenômeno da mentalização das ideias… O fenômeno da visão… O fenômeno da audição… O fenômeno das células gustativas… O fenômeno da composição epidérmica… O fenômeno do equilíbrio… 11 Tantos fenômenos não impedem o desregramento da alma, que se distancia do serviço que lhe compete realizar. 12 Inferimos dar o imperativo do esforço incessante nos companheiros convocados à comunicação entre os dois planos para que o tempo terrestre lhes seja favorável à solução dos problemas que lhes dizem respeito.
+13 Comparemos a força mediúnica ao violino precioso entregue aos cuidados da consciência do médium. 14 Há quem se vale do instrumento para a cooperação em leviandade festiva. 15 Há quem o aproveita nos espetáculos pagos de feiras públicas e há quem o mobiliza na obtenção de vantagens inferiores. Em todos esses misteres, agregam-se ao responsável pelo apetrecho valioso Espíritos desencarnados que se demoram em prazeres inúteis, em mercado ruinoso ou em propósitos destrutivos… 16 Todavia, o médium acordado para a sublimação que a experiência lhe perpetua conserva o instrumento primorosamente afinado, à espera dos artistas divinos, capazes de desferirem as melodias do aperfeiçoamento e da elevação, da paz e do reconforto, da educação e da ascensão das almas aos planos superiores. 17 Nesse sentido, pois, é necessário — reconhecendo semelhante impositivo para todos nós, operários da evolução — que os médiuns se consagrem ao pensamento nobre, cultivando na própria vida os valores da responsabilidade, da caridade e do estudo. 18 Responsabilidade que seja dever irrepreensivelmente cumprido. 19 Caridade que seja fraternidade incessante. Estudo que seja progresso. 20 Responsabilidade que inspire respeito. 21 Caridade que traga simpatia. 22 Progresso que realize renovação.
+23 Para isso é imperioso que o pensamento mediúnico se demore na escolha do melhor que a vida nos oferece, que se resigne à disciplina moral, que se ambiente com a solidariedade espontânea, para que as possibilidades de interpretação permaneçam manejadas pelas inteligências superiores na formação do reino de Deus.
+24 Lembremo-nos, dessa forma, que é de toda importância a disseminação dos círculos de estudo, com devotamento ao serviço salutar, para que todos estejamos compenetrados nos arraiais de nossa redentora Doutrina quanto ao trabalho construtivo a que fomos chamados por nosso divino Mestre e Senhor. 25 Trabalho que alivie, que cure, que fortaleça, que limpe, que socorra, que eduque, que ilumine, que ajude e que enobreça, a começar do íntimo do coração para o reduto doméstico e a transbordar no campo social em que fomos chamados a viver na condição de almas desencarnadas ou encarnadas, porque todos nos achamos em círculos de expressão dinâmica, nos quais o pensamento do Cristo deve ser refletido a benefício de todos, porque o benefício de todos é o nosso benefício particular.
+26 O grande codificador de nossos princípios carreou para a Terra este código abençoado que denominamos Doutrina Espírita para que Jesus fosse realmente revelado à humanidade terrestre.
+27 Chamados, pois, a cooperar, desde os planos mais simples aos mais complexos na exaltação do bem, guardemos consciência de nossas responsabilidades, glorificando no Espiritismo a doutrina de amor e de luz que opere no mundo a nossa consagração a Deus.
 
 ---
 
-## 22 — Ante a Doutrina Espírita
+## 22
 
 > 22ª reunião | 21 de março de 1957
+> — Francisco Cândido Xavier, n
 
-Quase sempre as escolas religiosas do passado e do presente tomaram a idolatria como base das tarefas sagradas para o religamento do Espírito humano à glória de Deus.
-Os filhos da Índia védica encravavam-se no retiro silencioso para meditação.
-Os egípcios adoravam esfinges e animais.
-Os persas introduziram nos elevados ensinamentos de Zoroastro as cerimônias estranhas e as abluções esdrúxulas.
-Os gregos, apaixonados pelos valores artísticos, desvairavam-se nas manifestações do politeísmo que lhes fascinava a fé.
-Os romanos entronizavam a efígie dos próprios antepassados.
-Os druidas conservavam, com extrema afetividade, velhos carvalhos da floresta para os serviços de oração.
-Com Jesus, no entanto, o problema da revelação divina adquire novo aspecto.
-O Instrutor da Terra, em nome do Pai Altíssimo, não instituiu no mundo uma seita religiosa propriamente considerada, porque ele próprio, em si mesmo, é o mais alto expoente da religião cósmica do trabalho e do progresso, do amor e da sabedoria, através da qual todas as consciências evoluirão para Deus.
-Nem santuários de pedra, nem altares, nem símbolos. Nem vasos de incenso, nem cântaros de perfume. Nem gazofilácio para ofertórios públicos, nem fórmulas mágicas, nem atitudes especiais. Seu templo é a natureza — trono da sabedoria divina — e seus ofícios religiosos se constituem do serviço infatigável aos semelhantes.
-Durante séculos a idolatria procurou empanar-lhe a simplicidade e o brilho puro, mas, na atualidade, o Evangelho renasce no santuário vivo da Doutrina Espírita, que volve ao continuísmo da religião universal apoiada na ciência que realiza e na filosofia que esclarece, definindo trabalho que constrói, estudo que ilumina e solidariedade que santifica.
-Detemos, desse modo, nas casas de nossa fé a herança dos princípios sagrados do Cristo, congregando as almas segundo os degraus evolutivos em que se encontram para a substancialização do Reino de Deus.
-Por isso mesmo um templo espírita é, ao mesmo tempo, um lar de oração e um campo de ação, conjugando as realizações sublimes da alma. E é por isso que as assembleias espíritas constituem a renascença das assembleias apostólicas, em que todos somos chamados à linguagem da exemplificação no bem incessante.
-Agora, pois, que nos rejubilamos nas comemorações do primeiro centenário da codificação do Espiritismo, exaltando a missão apostolar de Allan Kardec, todos devemos reconsiderar as próprias obrigações à frente da luz que vem efetuando a nossa libertação para a vida eterna.
-A nós outros, espíritas encarnados e desencarnados do século XX, cabe uma tarefa gloriosa: a tarefa de manter a pureza e a simplicidade da lição kardequiana, através da edificação de nossa própria consciência para o divino Mestre e Senhor.
-Estejamos, assim, convictos quanto ao imperativo da sublimação individual diante da Doutrina que nos felicita, para que possamos servir ao progresso da humanidade e para que a humanidade de amanhã possa abençoar o nosso trabalho de hoje, como hoje estamos agradecendo e exalçando o serviço inolvidável do grande apóstolo de ontem, sempre vivo em nossos corações.
+1 Quase sempre as escolas religiosas do passado e do presente tomaram a idolatria como base das tarefas sagradas para o religamento do Espírito humano à glória de Deus.
+2 Os filhos da Índia védica encravavam-se no retiro silencioso para meditação. 3 Os egípcios adoravam esfinges e animais. 4 Os persas introduziram nos elevados ensinamentos de Zoroastro as cerimônias estranhas e as abluções esdrúxulas. 5 Os gregos, apaixonados pelos valores artísticos, desvairavam-se nas manifestações do politeísmo que lhes fascinava a fé. 6 Os romanos entronizavam a efígie dos próprios antepassados. 7 Os druidas conservavam, com extrema afetividade, velhos carvalhos da floresta para os serviços de oração. 8 Com Jesus, no entanto, o problema da revelação divina adquire novo aspecto. 9 O Instrutor da Terra, em nome do Pai Altíssimo, não instituiu no mundo uma seita religiosa propriamente considerada, porque ele próprio, em si mesmo, é o mais alto expoente da religião cósmica do trabalho e do progresso, do amor e da sabedoria, através da qual todas as consciências evoluirão para Deus. 10 Nem santuários de pedra, nem altares, nem símbolos. Nem vasos de incenso, nem cântaros de perfume. Nem gazofilácio para ofertórios públicos, nem fórmulas mágicas, nem atitudes especiais. Seu templo é a natureza — trono da sabedoria divina — e seus ofícios religiosos se constituem do serviço infatigável aos semelhantes.
+11 Durante séculos a idolatria procurou empanar-lhe a simplicidade e o brilho puro, mas, na atualidade, o Evangelho renasce no santuário vivo da Doutrina Espírita, que volve ao continuísmo da religião universal apoiada na ciência que realiza e na filosofia que esclarece, definindo trabalho que constrói, estudo que ilumina e solidariedade que santifica. 12 Detemos, desse modo, nas casas de nossa fé a herança dos princípios sagrados do Cristo, congregando as almas segundo os degraus evolutivos em que se encontram para a substancialização do Reino de Deus. 13 Por isso mesmo um templo espírita é, ao mesmo tempo, um lar de oração e um campo de ação, conjugando as realizações sublimes da alma. E é por isso que as assembleias espíritas constituem a renascença das assembleias apostólicas, em que todos somos chamados à linguagem da exemplificação no bem incessante.
+14 Agora, pois, que nos rejubilamos nas comemorações do primeiro centenário da codificação do Espiritismo, exaltando a missão apostolar de Allan Kardec, todos devemos reconsiderar as próprias obrigações à frente da luz que vem efetuando a nossa libertação para a vida eterna. 15 A nós outros, espíritas encarnados e desencarnados do século XX, cabe uma tarefa gloriosa: a tarefa de manter a pureza e a simplicidade da lição kardequiana, através da edificação de nossa própria consciência para o divino Mestre e Senhor.
+16 Estejamos, assim, convictos quanto ao imperativo da sublimação individual diante da Doutrina que nos felicita, para que possamos servir ao progresso da humanidade e para que a humanidade de amanhã possa abençoar o nosso trabalho de hoje, como hoje estamos agradecendo e exalçando o serviço inolvidável do grande apóstolo de ontem, sempre vivo em nossos corações.
 
 ---
 
-## 23 — Na rota de luz
+## 23
 
-> 23ª reunião | 28 de março de 1957
+> 23ª reunião | 28 de março de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Francisco Teixeira de Carvalho, Geni Pena Xavier, Geraldo Benício Rocha, Edmundo Fontenele, Olga Leal Peduto, Aderbal Nogueira Lima, Edite Malaquias Xavier, Zínia Orsine Pereira,
 
-Meus amigos, retenhamos em nós a paz do Senhor.
-Completando as nossas modestas anotações em torno da Doutrina Espírita e da mediunidade, como lembrança singela nas comemorações do primeiro centenário da codificação kardequiana, lembremo-nos de que o Espírito é também a luz do Céu para as trevas que ainda assenhoreiam o mundo.
-Trevas que se estendem a toda parte…
-Trevas na infância e na senectude, na mocidade e na madureza, na fortuna e na carência, na administração e na subalternidade, na alegria e na dor, nos tribunais e nos templos, nas escolas e nos lares…
-Treva de egoísmo, de ignorância e de crueldade, estabelecendo o trauma do ódio, o esgar da miséria e o golpe do crime.
-Por isso mesmo estamos todos investidos de uma tarefa gigantesca para a execução da qual renascemos na carne muitas e muitas vezes. A sombra é estagnação, mas a luz é atividade incessante, queimando combustível ou consumindo energia.
-É por esse motivo que a nossa Doutrina não é uma concepção de fácil, porquanto somos todos constrangidos à responsabilidade da edificação do Céu em nós mesmos para que haja na Terra suficiente material para o Reino de Deus.
-A nossa Doutrina não é um arsenal de armas psicológicas para as conquistas da magia aviltante, de vez que todos somos compelidos a buscar a inspiração das Esferas Superiores, capaz de assegurar-nos a sublimação do caráter nos padrões de nosso Senhor Jesus Cristo.
-A nossa Doutrina não é um santuário simplesmente para o êxtase da adoração, porque somos todos convocados a duro trabalho de extinção das nossas próprias dívidas perante o passado, erguendo no imo da própria vida o recinto sagrado para a comunhão com Deus.
-A nossa Doutrina não é, em suma, um círculo religioso como tantos outros, elegendo, na segregação e na discórdia, a sua capacidade de sobreviver, porquanto o Espiritismo nos acorda para abraçar a humanidade inteira, estendendo os dons do Senhor a todas as criaturas, de maneira a entrosar-nos com a Justiça Divina, que manda conferir a cada um de nós segundo as próprias obras, e a familiarizar-nos com o amor como sistema de vida em nossas relações uns com os outros.
-Porque só o amor é suficientemente grande para revelar-nos cada criatura no degrau evolutivo que lhe é próprio, ajudando-nos, a fim de que nossa fé não se converta para os outros em exigência asfixiante.
-Achamo-nos, pois, de posse da luz espiritual que nos descerra a Criação infinita. E não podemos nos esquecer da nossa função de depositários dessa luz, para que as sombras gradativamente se extingam no campo da luta humana, anulando, por fim, nosso antigo comércio com as linhas inferiores da evolução e soerguendo-nos a alma dos vales da morte para as alturas da vida.
-Não podemos olvidar que são, simplesmente, de ontem a escravidão dos homens livres entre os povos mais cultos, a pilhagem legalizada no mar, os processos inquisitoriais em religião e o duelo consagrado entre os homens, e que são de hoje a destruição em massa, o saque, a violência e o menosprezo à honra individual na guerra moderna, os problemas raciais, a pena de morte e o lenocínio…
-Basta a lembrança de semelhantes flagelos para entendermos a nossa tarefa de semeadores e seareiros da luz divina, começando pelo exemplo que educa o coração, a fim de que se nos valorize a palavra que instrui a inteligência.
-Cremos que por isso o insigne codificador de nossos princípios, Allan Kardec, estabeleceu a nossa Doutrina por inspiração de Jesus sobre os fundamentos da religião, da filosofia e da ciência, tomando por lema a sua abençoada trilogia: trabalho, solidariedade e tolerância.
-Trabalho que proceda da ciência corretamente interpretada como sistema de respeitáveis realizações do Espírito, solidariedade que provenha da filosofia como estudo racional da verdade, e tolerância como sendo a religião do amor em si mesma, do amor que é substância da própria vida, orientando-nos para a suprema integração com o Pai Supremo, Vida de nossa vida e Ser do nosso ser.
-Sejamos, pois, fiéis aos nossos compromissos na causa que nos irmana, e que Deus nos abençoe!
+1 Meus amigos, retenhamos em nós a paz do Senhor.
+2 Completando as nossas modestas anotações em torno da Doutrina Espírita e da mediunidade, como lembrança singela nas comemorações do primeiro centenário da codificação kardequiana, lembremo-nos de que o Espírito é também a luz do Céu para as trevas que ainda assenhoreiam o mundo. 3 Trevas que se estendem a toda parte… 4 Trevas na infância e na senectude, na mocidade e na madureza, na fortuna e na carência, na administração e na subalternidade, na alegria e na dor, nos tribunais e nos templos, nas escolas e nos lares… 5 Treva de egoísmo, de ignorância e de crueldade, estabelecendo o trauma do ódio, o esgar da miséria e o golpe do crime.
+6 Por isso mesmo estamos todos investidos de uma tarefa gigantesca para a execução da qual renascemos na carne muitas e muitas vezes. A sombra é estagnação, mas a luz é atividade incessante, queimando combustível ou consumindo energia.
+7 É por esse motivo que a nossa Doutrina não é uma concepção de fácil, porquanto somos todos constrangidos à responsabilidade da edificação do Céu em nós mesmos para que haja na Terra suficiente material para o Reino de Deus.
+8 A nossa Doutrina não é um arsenal de armas psicológicas para as conquistas da magia aviltante, de vez que todos somos compelidos a buscar a inspiração das Esferas Superiores, capaz de assegurar-nos a sublimação do caráter nos padrões de nosso Senhor Jesus Cristo. 9 A nossa Doutrina não é um santuário simplesmente para o êxtase da adoração, porque somos todos convocados a duro trabalho de extinção das nossas próprias dívidas perante o passado, erguendo no imo da própria vida o recinto sagrado para a comunhão com Deus. 10 A nossa Doutrina não é, em suma, um círculo religioso como tantos outros, elegendo, na segregação e na discórdia, a sua capacidade de sobreviver, porquanto o Espiritismo nos acorda para abraçar a humanidade inteira, estendendo os dons do Senhor a todas as criaturas, de maneira a entrosar-nos com a Justiça Divina, que manda conferir a cada um de nós segundo as próprias obras, e a familiarizar-nos com o amor como sistema de vida em nossas relações uns com os outros. 11 Porque só o amor é suficientemente grande para revelar-nos cada criatura no degrau evolutivo que lhe é próprio, ajudando-nos, a fim de que nossa fé não se converta para os outros em exigência asfixiante.
+12 Achamo-nos, pois, de posse da luz espiritual que nos descerra a Criação infinita. E não podemos nos esquecer da nossa função de depositários dessa luz, para que as sombras gradativamente se extingam no campo da luta humana, anulando, por fim, nosso antigo comércio com as linhas inferiores da evolução e soerguendo-nos a alma dos vales da morte para as alturas da vida.
+13 Não podemos olvidar que são, simplesmente, de ontem a escravidão dos homens livres entre os povos mais cultos, a pilhagem legalizada no mar, os processos inquisitoriais em religião e o duelo consagrado entre os homens, e que são de hoje a destruição em massa, o saque, a violência e o menosprezo à honra individual na guerra moderna, os problemas raciais, a pena de morte e o lenocínio…
+14 Basta a lembrança de semelhantes flagelos para entendermos a nossa tarefa de semeadores e seareiros da luz divina, começando pelo exemplo que educa o coração, a fim de que se nos valorize a palavra que instrui a inteligência.
+15 Cremos que por isso o insigne codificador de nossos princípios, Allan Kardec, estabeleceu a nossa Doutrina por inspiração de Jesus sobre os fundamentos da religião, da filosofia e da ciência, tomando por lema a sua abençoada trilogia: trabalho, solidariedade e tolerância. 16 Trabalho que proceda da ciência corretamente interpretada como sistema de respeitáveis realizações do Espírito, solidariedade que provenha da filosofia como estudo racional da verdade, e tolerância como sendo a religião do amor em si mesma, do amor que é substância da própria vida, orientando-nos para a suprema integração com o Pai Supremo, Vida de nossa vida e Ser do nosso ser.
+17 Sejamos, pois, fiéis aos nossos compromissos na causa que nos irmana, e que Deus nos abençoe!
 
 ---
 
-## 24 — Falando a sacerdotes desencarnados
+## 24
 
-> 24ª reunião | 4 de abril de 1957
+> 24ª reunião | 4 de abril de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Antônio Inácio de Melo, Geni Pena Xavier, Francisco Teixeira de Carvalho,
 
 Louvemos a Jesus, nosso Senhor!
-Meus irmãos, em verdade, o Senhor disse: “Eu não vim trazer a paz, mas a divisão”.
-E a sua espada desembainhou-se e os seus discípulos desembainharam-nas também. Fomos todos chamados e desembainhamos também a nossa espada e nos esforçamos pelo bom combate, mas esquecemos de verificar os companheiros que tinham a marca do Cordeiro. Trouxemos outra marca e por ela nos embrenhamos e nos destruímos. E aquela palavra sábia e orientadora, que através dos séculos e das gerações clama por nosso entendimento, ainda hoje nos encontra desagregados e desorientados, de espada na mão, sem trabalharmos pelo bom combate.
+Meus irmãos, em verdade, o Senhor disse: “Eu não vim trazer a paz, mas a divisão”. ( † ) E a sua espada desembainhou-se e os seus discípulos desembainharam-nas também. Fomos todos chamados e desembainhamos também a nossa espada e nos esforçamos pelo bom combate, mas esquecemos de verificar os companheiros que tinham a marca do Cordeiro. Trouxemos outra marca e por ela nos embrenhamos e nos destruímos. E aquela palavra sábia e orientadora, que através dos séculos e das gerações clama por nosso entendimento, ainda hoje nos encontra desagregados e desorientados, de espada na mão, sem trabalharmos pelo bom combate.
 Separamos corações, separamos interpretações, separamos religiões e não combatemos os erros, a intolerância, o interesse monetário, o sectarismo e os desentendimentos na nossa própria casta. A espada que o Senhor desembainhou é a palavra de paz, de harmonia e de entendimento, o símbolo divino por ele adotado. O Cordeiro de Deus não veio até nós para que se dividissem os homens em nome do Evangelho, mas como símbolo de sacrifício para que até à própria imolação sejamos levados para exemplificar com amor, com virtude e com dignidade a nossa missão de apóstolos da hora nona.
 O nosso coração lastima profundamente a ilusão que ainda nutris, apesar de despidos dos despojos materiais. É nesta hora, em que se aproxima a semana da paixão daquele que por nós derramou seu sangue para nos redimir, para nos elevar, para nos congregar, para nos enaltecer e consolar, salvar, iluminar as nossas almas, que eu venho como companheiro de outrora, como companheiro que perambula pelas mesmas estradas da vossa vida, que é nossa vida, dirigir-vos a minha palavra de meditação e de esperança, a fim de que possamos unificar os nossos sentimentos, orientar melhor a nossa força para uma igreja maior, para uma igreja mais alta, para uma interpretação mais consoladora, para uma iluminação pura, diferente do sectarismo que nos tem animado.
 Em toda parte, onde as lágrimas das mães correm nas aflições da formação dos caracteres dos seus filhos, aí está a igreja de nosso Senhor Jesus Cristo. Na beira da forja, onde o carvão, estilhaçando, queima o rosto do homem que funde o ferro, amoldando-o, dentro da arte, aí está a igreja santa do Senhor Jesus. Nos golpes da enxada na terra ressequida ou úmida, no suor que irriga essa mesma terra, na espiga cheia de grãos aloirados, na colheita abundante está a igreja divina do Senhor Jesus. Em toda parte, onde os homens e as mulheres lutem, trabalhem, criem e aperfeiçoem, chorem ou dignifiquem qualquer labor está a igreja divina do Senhor.
@@ -931,51 +604,49 @@ O vosso servo humilde,
 
 ---
 
-## 25 — Reajuste
+## 25
 
-> 25ª reunião | 11 de abril de 1957
+> 25ª reunião | 11 de abril de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Antônio Inácio de Melo, Geni Pena Xavier, Francisco Teixeira de Carvalho,
 
 Falo-vos não porque deseje exibir-me ou fazer-me notado, mas como soldado que fui de nossa causa, como subordinado diante daqueles que são, realmente, superiores.
-Louvemos ao Senhor nas comemorações que se aproximam!
-n
+Louvemos ao Senhor nas comemorações que se aproximam! n
 Infelizmente, para mim, outrora em épocas semelhantes, no congraçamento de confrades ilustres, a minha palavra se destacava com ênfase, rebuscando nos arquivos dos meus conhecimentos a expressão burilada dentro da gramática, perfumada de retórica e enobrecida de elegante ornamentação, fazendo com que todos me supusessem um homem de coração evangelizado.
 No transcurso das palestras, inflamava-se-me a dialética. Movimentava os sinônimos com galhardia. Buscava figurações de estilo na serenidade das águas, na beleza das flores, na comparação da música e da arte, associando a natureza ao Evangelho, ao Espiritismo e à mediunidade.
 No fundo, porém, não passava de um falsário. Iludia a mim mesmo. Eu era apenas soldado desertor da conduta reta, sacerdote que não sentia no coração a verdade que eu apregoava, cego que tropeçava nas próprias imagens criadas pela minha inteligência, criminoso que destruía com o meu proceder a concepção de uma vida nova que formava com a minha palavra ilustrada e cheia de retórica!…
-Mas a espada de Dâmocles
-pendia sobre a minha cabeça. E a morte veio e ceifou-me. Desde então venho sofrendo os resultados do meu perjúrio, da minha traição ao Evangelho, da pusilanimidade do meu Espírito, entre os fantasmas de quantos me pedem conta do que eu lhes havia prometido, cobrando-me as grandezas que eu lhes havia mostrado, suplicando que eu lhes dê a água cristalina das minhas promessas ou exigindo-me a bênção das páginas evangelizadoras, a me descerrarem a alma repleta de frio pelas desilusões de minha palavra. E tenho pago minha culpa qual desesperado à procura de consolação.
+Mas a espada de Dâmocles † pendia sobre a minha cabeça. E a morte veio e ceifou-me. Desde então venho sofrendo os resultados do meu perjúrio, da minha traição ao Evangelho, da pusilanimidade do meu Espírito, entre os fantasmas de quantos me pedem conta do que eu lhes havia prometido, cobrando-me as grandezas que eu lhes havia mostrado, suplicando que eu lhes dê a água cristalina das minhas promessas ou exigindo-me a bênção das páginas evangelizadoras, a me descerrarem a alma repleta de frio pelas desilusões de minha palavra. E tenho pago minha culpa qual desesperado à procura de consolação.
 Ouço agora as trombetas que anunciam no espaço uma festa auspiciosa! Por onde passo, vejo crianças felizes, preparando cânticos de glória ao codificador. Então a minha alma, como a lesma em pesadelo nas trevas, despertou. A peçonha que me enrodilhava, babacenta, nauseabunda, caiu. Acordei e ouvi que em toda parte se fala de Allan Kardec. Allan Kardec, o codificador!…
 Transportei-me àqueles dias de fausto e de entusiasmo em que as assembleias me recebiam com honras que eu acreditava devidas ao meu título e ao meu cargo, já que os corações sofredores aguardavam reconforto pela minha palavra farta de sinônimos e bela de expressão, mas vazia de sentimentos. E foi tão grande a misericórdia do Senhor, que eu aqui me encontro! A vossa prece e o vosso carinho como que esfolou as escamas da sombra que ainda trago, ressuscitando o homem mentiroso que fui e que comparece diante de vós à feição de um mendigo-fantasma, a implorar uma esmola de amor, que me destes, enchendo-me a alma e o coração.
-Bebi da água pura de vossas orações e reencontrei-me. Quanto tempo vaguei na obscuridade de minha dor não sei dizer… Perdera a noção de mim próprio como quem desce a tremendo pesadelo de aflições para somente acordar ao brilho da comemoração kardequiana! Despertei e sofri mais intensamente até que a vossa prece me balsamizasse. Eu, que era um falsário das minhas próprias ideias, eu, que traía o próprio nome — pois que assinava “da Paz” —, sendo portador da guerra da sombra, hoje aqui me encontro rendendo graças a Deus! A verdade reaparece para minha alma! A esperança e o arrependimento retornam ao meu Espírito! Encontrei a paz e venho, nesta noite, à guisa de colaborar na comemoração kardequiana, não agradecer, mas suplicar-vos a continuação desta ajuda com que me transferistes da posição de réprobo à de colaborador? Não… De servidor? Também não… Graças a Deus, porém, destes-me a posição de socorrido e nessa posição lembro-vos a extensão de nossa responsabilidade empunhando o Evangelho para falar em nome do Senhor.
+Bebi da água pura de vossas orações e reencontrei-me. Quanto tempo vaguei na obscuridade de minha dor não sei dizer… Perdera a noção de mim próprio como quem desce a tremendo pesadelo de aflições para somente acordar ao brilho da comemoração kardequiana! Despertei e sofri mais intensamente até que a vossa prece me balsamizasse. Eu, que era um falsário das minhas próprias ideias, eu, que traía o próprio nome — pois que assinava “da Paz”, — sendo portador da guerra da sombra, hoje aqui me encontro rendendo graças a Deus! A verdade reaparece para minha alma! A esperança e o arrependimento retornam ao meu Espírito! Encontrei a paz e venho, nesta noite, à guisa de colaborar na comemoração kardequiana, não agradecer, mas suplicar-vos a continuação desta ajuda com que me transferistes da posição de réprobo à de colaborador? Não… De servidor? Também não… Graças a Deus, porém, destes-me a posição de socorrido e nessa posição lembro-vos a extensão de nossa responsabilidade empunhando o Evangelho para falar em nome do Senhor.
 Fala-se aquilo de que o coração está cheio, se não me foge a citação. Mas se o coração está cheio de pureza e de amor, de pureza e de amor inundamos o nosso caminho. Se o coração está cheio de lealdade, plantamos a lealdade e a lealdade encontramos. Mas se possuímos apenas retórica e mentira, nosso verbo, com o tempo, é semelhante ao cabo elétrico de alta tensão partindo sobre nós mesmos, impondo-nos perturbação e morte.
 Hoje posso falar-vos da paz, porque estou aprendendo a buscá-la. Posso falar-vos da humildade e do amor, porque estou buscando construí-los em mim. Não estou ferindo a lei. Estou transmitindo aquilo que o meu coração agora sente. Que o exemplo e que a experiência que me fustigam nos sirvam de advertência, é a súplica que, neste instante, endereço a Deus.
 Que o Senhor nos abençoe.
 
 ---
 
-## 26 — Falando a companheiras desencarnadas
+## 26
 
-> 26ª reunião | 25 de abril de 1957
+> 26ª reunião | 25 de abril de 1957.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho,
 
 Chamada a dirigir a todos quantos se encontram nesse campo de vibrações antagônicas e de sofrimentos, na saudade cruciante do lar distante, na dor pungente a dilacerar a alma, a saudade, enfim, daqueles que constituíram na Terra a razão mesma de viver, nós vimos neste momento buscar no Evangelho, nos livros sagrados, as expressões capazes de fortalecer vosso ânimo, de modificar a vossa mente e iluminar os vossos caminhos, curando as chagas dos vossos corações para que, numa jornada mais ou menos próxima, possais formar o vosso lar com aquelas estrias luminosas de fé, de esperança e de consolação.
-O Senhor, por um de seus enviados, conhecidos como profetas, disse: “Se Deus estiver conosco, quem contra nós poderá estar?”
-
+O Senhor, por um de seus enviados, conhecidos como profetas, disse: “Se Deus estiver conosco, quem contra nós poderá estar?” ( † )
 Não sei como constituístes os vossos lares, sei apenas que fostes mulheres. Como se fôsseis apenas flores, destes perfume, mas de um perfume que se exalava, espargia do externo, sem que do íntimo d’alma, dos recessos da feminilidade, que é ser mãe educadora, exemplo de ternura e de amor, de paciência e de fé, existisse realmente o frasco divino, onde a essência do amor pudesse purificar o ambiente para o qual fostes chamadas a moldar, construir, formar caracteres delicados, sensíveis, amoráveis, obedientes, dóceis aos ensinos do Senhor e que se guiassem pelos vossos próprios ensinos. Nada disso foi feito, infelizmente, e assim é na generalidade de quase todos os lares na Terra em que vivemos, em que vivestes, em que viveremos ainda!
-O culto externo preocupa-nos. A formação de um altar doméstico, de um altar no íntimo d’alma, onde os nossos filhos vêm oscular no exemplo construtivo de uma personalidade cheia de pensamentos elevados, positivos ao ponto de auxiliá-los nas lutas da vida, não é tido em mente e nem entra na meta quando nos entregamos aos nossos devaneios femininos. Vem a morte, traga-nos a vida física. Somos surpreendidas na imensidão do mundo, que continua a nos exigir os patrimônios que o Senhor nos legou. Então, aquela expressão do Senhor — “Eu vim para que pudésseis ter vida abundante”
-— surge em nossa mente como que numa rememoração do compromisso assumido e o desespero então apodera-se da nossa alma conturbada, desesperada, e lembramo-nos de que seguimos apenas a vaidade e de que as expressões que nos embalaram os melhores propósitos foram traídos ao reencarnarmos.
+O culto externo preocupa-nos. A formação de um altar doméstico, de um altar no íntimo d’alma, onde os nossos filhos vêm oscular no exemplo construtivo de uma personalidade cheia de pensamentos elevados, positivos ao ponto de auxiliá-los nas lutas da vida, não é tido em mente e nem entra na meta quando nos entregamos aos nossos devaneios femininos. Vem a morte, traga-nos a vida física. Somos surpreendidas na imensidão do mundo, que continua a nos exigir os patrimônios que o Senhor nos legou. Então, aquela expressão do Senhor — “Eu vim para que pudésseis ter vida abundante” ( † ) — surge em nossa mente como que numa rememoração do compromisso assumido e o desespero então apodera-se da nossa alma conturbada, desesperada, e lembramo-nos de que seguimos apenas a vaidade e de que as expressões que nos embalaram os melhores propósitos foram traídos ao reencarnarmos.
 “Eu vim para que tivésseis vida abundante…” — a palavra do Senhor, porém, não foi o lema da nossa existência, porque não tivemos a vida abundante de fé nem de bons exemplos, nem de confiança, nem de arrependimento dos nossos erros pretéritos.
 Tivemo-la, sim, cheia de vaidade, cheia de preocupações sociais, de projeções na vida da sociedade, que é efêmera, como é efêmero o perfume das flores com que nos adornamos. Eis, pois, a desilusão que vos congrega agora, as lágrimas que rolam das vossas faces, como que caldeando uma nova mentalidade, como que espargindo em vossos Espíritos a dor da culpabilidade de terdes sido mulheres e não mães, mulheres e não esposas, mulheres e não educadoras, dentro dos princípios divinos, pelos quais deveríamos aceitar a dignidade de um corpo feminino.
 Agora, pois, resta-nos uma consolação.
-“O Senhor é nosso pastor e nada nos faltará”,
-disse-nos ainda outro grande profeta. Voltemos para ele os nossos olhos e as nossas esperanças, que as nossas dores sejam balsamizadas pela consoladora certeza de que o pastor não permite que o seu rebanho tenha fome, tenha sede, fique exposto aos raios candentes do sol, não permite que o lobo faminto dizime o seu rebanho.
+“O Senhor é nosso pastor e nada nos faltará”, ( † ) disse-nos ainda outro grande profeta. Voltemos para ele os nossos olhos e as nossas esperanças, que as nossas dores sejam balsamizadas pela consoladora certeza de que o pastor não permite que o seu rebanho tenha fome, tenha sede, fique exposto aos raios candentes do sol, não permite que o lobo faminto dizime o seu rebanho.
 Voltemos confiantes para o Senhor, que é o nosso pastor. Busquemos a sua experiência para que nos conduza a campos verdejantes e a fonte de águas vivas vos dessedente. Essas expressões traduzem o desejo de acordar na vossa alma, com o símbolo de que o Senhor é o nosso pastor, a certeza de que Jesus é o pastor supremo e divino que vos conduzirá a novo lar, a nova experiência, onde o vosso seio seja rasgado e o divino leite materno crie com amor, dentro dos princípios salutares e sacrossantos da evangelização, novas mentalidades, aquelas mesmas que foram causa dos vossos desvios. E que a concepção da vida futilíssima, da vida adornada de perfumes e de flores, mas vazia de sentimentos, não mais seja a vossa preocupação. Só assim, só nessa expectativa, só nessa confiança perante o Senhor, no desejo mesmo da reforma do vosso Espírito, podereis aliviar as vossas dores. A nossa prece — a prece dos irmãos que formam esta corrente divina, que vos trazem até aqui como se fôsseis apanhados por uma poderosa rede eletrônica —, é tão suave e tão sutil que apenas representará perfume indelével no vosso Espírito, um bálsamo salutar nas vossas almas doloridas.
 Não tem ela, no entanto, o poder de modificar o vosso estado atual, porque de nós depende a nossa própria felicidade. Do vosso coração depende a vossa tranquilidade no futuro. Da vossa mente depende a escada luminosa pela qual devemos subir e iluminar com os nossos próprios exemplos, com os nossos próprios atos, a formação do novo lar, que é sempre o cadinho a formar, burilar as nossas almas e as daqueles em que em nosso seio e em nossa vida devam erigir nova vida, elevando os seus melhores pensamentos a Jesus, nosso Senhor, e à sua divina, à nossa divina Imaculada Mãe e misericordiosa Senhora.
 Quanto, pois, podia, neste momento, transmitir aos vossos corações de mães aflitas, desajustadas e desconsoladas o fiz na certeza de que a Senhora soberana muito mais poderá fazer se, com fé, disserdes como todos nós agora: “Ó Maria, mãe de infinito amor e misericórdia, por nós rogai agora e em todos os momentos de nossas angústias!” Que assim seja.
 
 ---
 
-## 27 — Arrependimento
+## 27
 
-> 27ª reunião | 2 de maio de 1957
+> 27ª reunião | 2 de maio de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 Sabemos hoje que a humanidade passa por fase terrível, em que a honestidade e os bons costumes não têm mais lugar. Os filhos não querem obedecer aos pais e estes não sabem mais como dirigir os filhos. A mulher, revoltada, pensando em se libertar do jugo da escravidão, perdeu a calma, tornou-se altiva demais e se entrega a excessos e prazeres, os mais nefastos. Não obedecendo à lei da maternidade, foge também às suas mais comezinhas obrigações. Ela obtém a fama e o triunfo pela nudez da forma física. E o homem, inconsequente, bate-lhe palmas, no mesmo desequilíbrio. A vaidade penetra-lhe o coração e ela, desorientada, menosprezando a sua dignidade e as leis mais sagradas, cai, como eu mesma, na triste escuridão de uma vida desregrada.
 O homem não tem noção mais das suas responsabilidades e anda somente à cata dos prazeres imediatistas. A criança não tem uma direção segura, porque o adulto também está sem rumo, sem fé e sem Deus no coração.
@@ -986,33 +657,31 @@ Arrependida e ansiosa de reabilitação à frente do futuro. rogo-lhes o amparo 
 
 ---
 
-## 28 — Página de bom ânimo
+## 28
 
-> 28ª reunião | 9 de maio de 1957
+> 28ª reunião | 9 de maio de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Áurea Gonçalves,
 
 Amigos, muita paz!
-Ante o livro da natureza, que sempre recapitula os seus ensinamentos em nosso favor, para que aprendamos nas suas páginas a lei do amor, da renúncia e do sacrifício, cumpre-nos o dever de repetir, às vezes, as lições aqui aprendidas, em nosso benefício e de acordo com as necessidades dos nossos irmãos que nos visitam. E é por isso que os nossos apelos fraternais hoje são, com maior particularidade, destinados aos irmãozinhos desencarnados que aqui se reúnem. Eles vêm estudar conosco e adquirir a certeza de que somente com o trabalho construtivo na prática do devotamento e da abnegação alcançaremos a nossa paz espiritual, que mesmo sofrendo estamos amparados pelo amor que cobre a multidão de pecados
-e que por esse mesmo amor jamais seremos condenados a penas eternas e que por ele, ainda, é que nos foi revelada a grande lei da reencarnacão, base sublime de excelsa misericórdia do Pai.
+Ante o livro da natureza, que sempre recapitula os seus ensinamentos em nosso favor, para que aprendamos nas suas páginas a lei do amor, da renúncia e do sacrifício, cumpre-nos o dever de repetir, às vezes, as lições aqui aprendidas, em nosso benefício e de acordo com as necessidades dos nossos irmãos que nos visitam. E é por isso que os nossos apelos fraternais hoje são, com maior particularidade, destinados aos irmãozinhos desencarnados que aqui se reúnem. Eles vêm estudar conosco e adquirir a certeza de que somente com o trabalho construtivo na prática do devotamento e da abnegação alcançaremos a nossa paz espiritual, que mesmo sofrendo estamos amparados pelo amor que cobre a multidão de pecados ( † ) e que por esse mesmo amor jamais seremos condenados a penas eternas e que por ele, ainda, é que nos foi revelada a grande lei da reencarnacão, base sublime de excelsa misericórdia do Pai.
 Em razão disso, jamais nos poderemos revoltar contra as nossas provas, mas, antes, agradecer as oportunidades que, pelos Céus, nos são dadas.
 Pergunte ao homem que sofre aonde está Deus que não lhe atenua o sofrimento. Para o seu coração atordoado pelas tempestades da vida, só há duas possibilidades: a de ser feliz, acreditando num Deus bom, ou sofrer duvidando da existência do Pai.
-Ouvimos sempre criaturas rebeldes que afirmam que Deus criou a humanidade e relegou-a ao sofrimento e à dor, no entanto, aqui estamos, por mercê de Deus, para trazer o sol da esperança aos corações feridos e aparentemente abandonados. As nossas dores, resignadamente suportadas, são luzes acesas em nossos caminhos e, por isso, disse o Mestre: “Bem-aventurados os que sofrem, porque serão consolados”.
-
+Ouvimos sempre criaturas rebeldes que afirmam que Deus criou a humanidade e relegou-a ao sofrimento e à dor, no entanto, aqui estamos, por mercê de Deus, para trazer o sol da esperança aos corações feridos e aparentemente abandonados. As nossas dores, resignadamente suportadas, são luzes acesas em nossos caminhos e, por isso, disse o Mestre: “Bem-aventurados os que sofrem, porque serão consolados”. ( † )
 Sim, meus amigos, eu, que nada havia feito aí na vida terrena, recebi dos homens morte idêntica à daquele que é o Caminho, a Verdade e a Vida. Ao expirar numa cruz, eu rendia graças ao Pai por merecer aquela prova, achando-me indigno de seguir pela mesma trilha por que passou, um dia, o Amor dos amores no calvário. E não supunha eu que aquele gênero de morte expungia uma grande mancha que turvara a minha alma em outra vida, afogada na ilusão do poderio humano. E não supunha ainda que os homens que me torturavam eram instrumentos sagrados para a minha própria elevação.
 Hoje, agradeço ao Pai, como todos os dias o faço, suplicando-Lhe possibilidades de ajudar àqueles que faliram como eu ante a glória do amor e da humildade. É o que sói acontecer na vida espiritual. Desejamos e pedimos sempre para auxiliar àqueles que caem vitimados pelas mesmas enfermidades morais que nos fizeram sucumbir.
 Coragem, pois, amigos! A fé é o nosso baluarte. Deus é nosso pai. E Jesus é o doador da paz, abençoando-nos com o seu grande e infinito amor. Paz!
 
 ---
 
-## 29 — Palavras de gratidão
+## 29
 
-> 29ª reunião | 16 de maio de 1957
+> 29ª reunião | 16 de maio de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 As tragédias e os sofrimentos se sucedem tanto aí quanto aqui. E o casos tristes, iguais ao meu, se repetem quase todos os dias.
 No lugar onde tenho estado é bem pior do que aí na Terra, porque aqui todos sofrem e muitos sem esperanças de melhores dias. No meio deles estou, mas agora com um pouco de calma e mais compreensão, graças a Deus!
 Eu quero agradecer a todos que neste pronto-socorro me receberam carinhosamente. Fui trazida até aqui tão desesperada e tão aflita!… Saciaram-me a sede com a água milagrosa da prece de que vocês aqui dispõem, e me entregaram a uma companheira que tem sido, para mim, mais do que amiga — uma verdadeira mãe, dedicada e boa. Nem sei como mereci tanto amparo! E agora procurarei estar sempre digna desse mesmo alívio.
-A minha benfeitora tomou-me pela mão e, pacientemente, me fez reconhecer o meu erro e a minha rebeldia. É que eu não queria deixar o meu marido, com receio de que outra me ocupasse o lugar, absorvendo-lhe o carinho. Imaginem vocês, eu, com dezenove anos, inteiramente feliz, e arrancada, impiedosamente, do meu lar por parto prematuro!… O desespero dominou-me o coração e, cega, passei a odiar a todos e a prejudicar aquele que na vida era tudo para mim.
-n
-Revoltava-me a ideia de Deus ter-nos separado para sempre e eu perguntava: por quê? Para quê? Que injustiça era aquela?
+A minha benfeitora tomou-me pela mão e, pacientemente, me fez reconhecer o meu erro e a minha rebeldia. É que eu não queria deixar o meu marido, com receio de que outra me ocupasse o lugar, absorvendo-lhe o carinho. Imaginem vocês, eu, com dezenove anos, inteiramente feliz, e arrancada, impiedosamente, do meu lar por parto prematuro!… O desespero dominou-me o coração e, cega, passei a odiar a todos e a prejudicar aquele que na vida era tudo para mim. n Revoltava-me a ideia de Deus ter-nos separado para sempre e eu perguntava: por quê? Para quê? Que injustiça era aquela?
 Foi nesse estado que fui trazida aqui, mas tive a sorte de me deparar com um coração nobre de mulher, que se condoeu da minha incompreensão e tem procurado me corrigir e ensinar. Disse-me ela que é cedendo que a gente ganha e que só com a humildade e o trabalho podemos conseguir o que mais sonhamos. Disse-me que me trouxe até aqui por ser este pronto-socorro instituído para medicar os enfermos. E acrescento, por minha vez, que este aqui é para as enfermidades da alma, que são muito mais profundas e dolorosas!…
 Tranquilizou-me, afirmando que possuímos, neste santuário, verdadeiros sacerdotes do dever da caridade e do amor, sustentando-nos o Espírito. Eu tinha horas de calma, dias de revolta e de rancor, mas, aos poucos, fui vencendo e agora sei que ninguém sofre sem merecer. Deus é infinitamente bom e vivemos várias vidas! A minha amiga vai conduzir-me a ensinamentos em outras escolas e disse-me que só poderei voltar aqui quando estiver completamente desprendida dos laços carnais, quando puder auxiliar a todos, indistintamente, e puder fazer o bem àqueles aos quais já fiz sofrer. Afirmou-me a bondosa protetora, a querida Meimei, que esta é a lei divina e que só quem a cumpre integralmente poderá ser feliz. E que somente o nosso coração é aliviado do fel que dele transborda com a prática do sacrifício, da renúncia, da humildade e do perdão.
 Seguirei com ela. Irei aonde for preciso.
@@ -1021,9 +690,10 @@ E eu repito: Deus lhes pague!
 
 ---
 
-## 30 — Remorso de mulher
+## 30
 
-> 30ª reunião | 23 de maio de 1957
+> 30ª reunião | 23 de maio de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malaquias Xavier, Lucília Xavier Silva, Aderbal Nogueira Lima,
 
 Quando eu vivia aí na Terra não me misturava com os infelizes nem com os pobres. Evitava tudo que pudesse me afligir ou preocupar. A minha vida era muito feliz e muito calma. Mas não sei por que, nem como, certo dia fui despertada no meio de tanta gente sofredora, onde todos gritavam e ninguém se entendia. Fiquei atordoada também. O que teria acontecido? Não tinha notícias do meu lar e sabia que estava no meio só de estranhos! Quando procurava saber o que me tinha acontecido, gargalhadas estridentes e respostas irônicas atassalhavam-me o coração. Pensei então: teria morrido? Estaria jogada no purgatório? Mas a vida era tão passageira assim?… Que seria a morte? Mas aturdida, sem saber como agir, atormentada pelo desassossego, por uma noite que parecia não ter fim, cansada de chorar e de sofrer, insultada por todos os que me cercavam, fui, aos poucos, chegando à triste conclusão da realidade em que me achava. Tinha sido uma mulher egoísta, dura, indiferente ao sofrimento alheio e vivia encastelada na minha própria felicidade. Isolei-me de todos os sofrimentos, agora estava cruelmente abandonada no meu sofrer. Por meu mal, e para maior perturbação do meu Espírito, eu havia morrido repentinamente, sem o toque da dor que me poderia alertar, sem o bafejo da enfermidade que devia despertar meu coração da letargia em que me achava.
 Para quem apelar agora? Como fazer?
@@ -1035,9 +705,10 @@ Que o Senhor nos ajude sempre.
 
 ---
 
-## 31 — Em louvor à oração
+## 31
 
-> 31ª reunião | 30 de maio de 1957
+> 31ª reunião | 30 de maio de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geraldo Benício Rocha, Geni Pena Xavier, Edmundo Fontenele, Aderbal Nogueira Lima, Zínia Orsine Pereira, Waldo Vieira,
 
 Depois que o Espírito atravessa as fronteiras da morte poderá compreender, com mais intensidade, o grande valor e os suaves benefícios de uma prece brotada do coração.
 A criatura que ora com sinceridade e fé representa uma fonte de luz a se derramar sobre todos os que sofrem, iluminando os aflitos, enxugando as lágrimas dos que choram e curando as chagas dos que padecem.
@@ -1047,44 +718,33 @@ Quando alguém se curva, submisso, ao peso de uma grande dor moral ou física, o
 Haverá maior prece do que a daquele que agasalha em seus braços e no seu lar a frágil criancinha órfã e desamparada?
 Tudo isso é prece que aclara a nossa estrada, suaviza as nossas angústias, ilumina os nossos Espíritos!
 Busquemos esclarecimento às nossas incertezas, o bálsamo às nossas dores e o alimento para as nossas almas na fonte luminosa da oração.
-O Mestre disse que onde duas ou mais pessoas se achassem reunidas em seu nome estaria no meio delas.
-A promessa é sublime, a tocar-se de esplendor!
+O Mestre disse que onde duas ou mais pessoas se achassem reunidas em seu nome estaria no meio delas. ( † ) A promessa é sublime, a tocar-se de esplendor!
 Que os nossos atos de caridade, os nossos exemplos de paz, de tolerância e de união, que os nossos pensamentos de amor e fraternidade sejam preces contínuas, para que a nossa sementeira de luz corresponda aos anseios e à esperança daqueles que, amorosamente, nos dirigem!
 Oremos, pois, meus amigos, em todos os instantes da nossa vida. Oremos com os pensamentos, com as nossas palavras e obras, porque assim encontraremos a grande luz que nos conduzirá os corações àquele que é o pastor de todas as ovelhas, o nosso amado e divino Mestre!
 
 ---
 
-## 32 — Mensagem de irmã
+## 32
 
-> 32ª reunião | 6 de junho de 1957
+> 32ª reunião | 6 de junho de 1957.
+> — Francisco Teixeira de Carvalho, Ênio Santos, Elza Vieira,
 
-Meus amigos, que a paz de nosso Senhor Jesus Cristo reine em nossos corações!
-Fala-vos humilde companheira, que militou em Cachoeiro do Itapemirim, de cuja experiência pode dar notícia o nosso Ênio. Não me comunico, porém, com qualquer propósito pessoal em minha visitação. Trago-vos apenas minha própria alma a derramar-se-me nas palavras singelas com o júbilo daquelas afeições que se reencontram sob a permissão do Senhor. Outros doutrinarão, nós conversaremos. Lembrar-nos-emos de alguns traços esquecidos de nosso movimento, como sejam, a construção do nosso caráter espírita para o dia de amanhã.
-Recordaremos, assim, nossos deveres mais simples, aquela caridade da mão direita que se oferece sem que a esquerda o saiba.
-Caridade que não se resume à doação do supérfluo de nossa mesa, mas sim aquela que entrega a própria alma em função desse amor que nós fomos chamados a cultivar com o Mestre da Cruz.
-Desculpar em silêncio, sem nunca mais nos referirmos à ofensa. Cumprir os nossos deveres com alegria.
-Tolerarmo-nos, mutuamente, dentro do lar, naquela harmonia, por vezes, tão difícil de construir.
-Ajudar sem exigir o entendimento daqueles que as nossas mãos auxiliam.
-Olvidar, de maneira definitiva e sem qualquer condição, as pequeninas alfinetadas que recebemos, em nosso próprio benefício, no círculo daqueles a quem mais amamos.
-Cultuar cada dia a humildade, o serviço, a oração. Ser, realmente, bons uns para com os outros.
-Por vezes, nós, os espíritas que precedemos nossos companheiros na grande viagem, percebemos, em quase toda parte, intensivo interesse na salvação obrigatória dos outros.
-Tanto tempo gasto em conversação sem proveito!… Tantas horas que despendemos, julgando àqueles cuja conduta não nos diz respeito à edificação espiritual!…
-Estamos, habitualmente, preocupados no exame dos outros, observando a consciência dos outros, a inclinação dos outros, a economia dos outros, a atitude dos outros e os passos dos outros, quando em matéria de nossas relações recíprocas fomos chamados a ajudar — ajudar a todos —, começando de nossa própria casa, plasmando o Espiritismo naqueles que nos acompanham de perto.
-Por isso mesmo a nossa cartilha de pregação há de principiar com aqueles a quem Deus nos confia: nossa esposa, nosso esposo, nossos filhos, nossos pais, nossos irmãos, nossos parentes, nossos amigos…
-Caminharmos entre eles com a obrigação de elevá-los com o nosso próprio exemplo, através da assimilação da Doutrina abençoada que veio florir, em bênçãos, no campo de nossas almas.
-No mundo, como o de agora, em que há corridas quase que intermináveis e quase todos os dias para determinados interesses materiais, acreditamos que nós, os espíritas, precisamos, algumas vezes, parar, de algum modo, para pensar.
-A grande obra, a obra fundamental de nosso movimento, é a da própria restauração de nós mesmos para nosso Senhor Jesus Cristo.
-Tudo na vida pertence a Deus, sob a jurisdição de nosso divino Mestre. Nada possuímos senão a oportunidade que a Misericórdia Celestial nos confere, a fim de que possamos burilar nosso Espírito para a comunhão com a divina Luz.
-É por esse motivo que, em nos comunicando, temos lágrimas nos olhos. Pranto de alegria, de confiança!… É uma velha amiga que volta.
-É um coração de mulher que sente na Doutrina Espírita um regaço de mãe… Mãe que nos perdoa, que nos afaga, que nos acolhe, perante a qual tantos deveres nos honram a fé, a esperança e o caminho…
-Interpretamos Jesus em nossa casa, ponto nevrálgico de nossa redenção, tanto quanto nos círculos de nossos trabalhos e afetos, templo primeiro em que somos convidados a testemunhar a nossa aplicação de conhecimento superior. Sirvamos, aprendamos e eduquemo-nos.
-E aqui todos nós, os companheiros que vos precederam os passos, vos esperam para continuarmos a abençoada luta, como quem sabe que a evolução nos pede tempo, que o aperfeiçoamento definitivo reclama muitas experiências e que todos nós voltaremos outra vez à grande casa terrestre para refazer os nossos próprios trilhos, clareando-os, em definitivo, com a luz do Senhor, cuja glória pressente os que temos tanta dificuldade para realmente compreender.
+1 Meus amigos, que a paz de nosso Senhor Jesus Cristo reine em nossos corações!
+2 Fala-vos humilde companheira, que militou em Cachoeiro do Itapemirim, de cuja experiência pode dar notícia o nosso Ênio. Não me comunico, porém, com qualquer propósito pessoal em minha visitação. Trago-vos apenas minha própria alma a derramar-se-me nas palavras singelas com o júbilo daquelas afeições que se reencontram sob a permissão do Senhor. Outros doutrinarão, nós conversaremos. Lembrar-nos-emos de alguns traços esquecidos de nosso movimento, como sejam, a construção do nosso caráter espírita para o dia de amanhã.
+3 Recordaremos, assim, nossos deveres mais simples, aquela caridade da mão direita que se oferece sem que a esquerda o saiba. ( † ) Caridade que não se resume à doação do supérfluo de nossa mesa, mas sim aquela que entrega a própria alma em função desse amor que nós fomos chamados a cultivar com o Mestre da Cruz. 4 Desculpar em silêncio, sem nunca mais nos referirmos à ofensa. Cumprir os nossos deveres com alegria. 5 Tolerarmo-nos, mutuamente, dentro do lar, naquela harmonia, por vezes, tão difícil de construir. 6 Ajudar sem exigir o entendimento daqueles que as nossas mãos auxiliam. 7 Olvidar, de maneira definitiva e sem qualquer condição, as pequeninas alfinetadas que recebemos, em nosso próprio benefício, no círculo daqueles a quem mais amamos. 8 Cultuar cada dia a humildade, o serviço, a oração. Ser, realmente, bons uns para com os outros.
+9 Por vezes, nós, os espíritas que precedemos nossos companheiros na grande viagem, percebemos, em quase toda parte, intensivo interesse na salvação obrigatória dos outros. 10 Tanto tempo gasto em conversação sem proveito!… Tantas horas que despendemos, julgando àqueles cuja conduta não nos diz respeito à edificação espiritual!… 11 Estamos, habitualmente, preocupados no exame dos outros, observando a consciência dos outros, a inclinação dos outros, a economia dos outros, a atitude dos outros e os passos dos outros, quando em matéria de nossas relações recíprocas fomos chamados a ajudar — ajudar a todos —, começando de nossa própria casa, plasmando o Espiritismo naqueles que nos acompanham de perto.
+12 Por isso mesmo a nossa cartilha de pregação há de principiar com aqueles a quem Deus nos confia: nossa esposa, nosso esposo, nossos filhos, nossos pais, nossos irmãos, nossos parentes, nossos amigos… 13 Caminharmos entre eles com a obrigação de elevá-los com o nosso próprio exemplo, através da assimilação da Doutrina abençoada que veio florir, em bênçãos, no campo de nossas almas.
+14 No mundo, como o de agora, em que há corridas quase que intermináveis e quase todos os dias para determinados interesses materiais, acreditamos que nós, os espíritas, precisamos, algumas vezes, parar, de algum modo, para pensar. 15 A grande obra, a obra fundamental de nosso movimento, é a da própria restauração de nós mesmos para nosso Senhor Jesus Cristo.
+16 Tudo na vida pertence a Deus, sob a jurisdição de nosso divino Mestre. Nada possuímos senão a oportunidade que a Misericórdia Celestial nos confere, a fim de que possamos burilar nosso Espírito para a comunhão com a divina Luz. 17 É por esse motivo que, em nos comunicando, temos lágrimas nos olhos. Pranto de alegria, de confiança!… É uma velha amiga que volta. 18 É um coração de mulher que sente na Doutrina Espírita um regaço de mãe… Mãe que nos perdoa, que nos afaga, que nos acolhe, perante a qual tantos deveres nos honram a fé, a esperança e o caminho…
+19 Interpretamos Jesus em nossa casa, ponto nevrálgico de nossa redenção, tanto quanto nos círculos de nossos trabalhos e afetos, templo primeiro em que somos convidados a testemunhar a nossa aplicação de conhecimento superior. Sirvamos, aprendamos e eduquemo-nos.
+20 E aqui todos nós, os companheiros que vos precederam os passos, vos esperam para continuarmos a abençoada luta, como quem sabe que a evolução nos pede tempo, que o aperfeiçoamento definitivo reclama muitas experiências e que todos nós voltaremos outra vez à grande casa terrestre para refazer os nossos próprios trilhos, clareando-os, em definitivo, com a luz do Senhor, cuja glória pressente os que temos tanta dificuldade para realmente compreender.
 
 ---
 
-## 33 — Bendizendo
+## 33
 
-> 33ª reunião | 13 de junho de 1957
+> 33ª reunião | 13 de junho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 A paz do nosso divino Mestre esteja sempre conosco, meus irmãos! Venho, por mais uma vez, dirigir-lhes minhas palavras simples, reconhecendo, com todo o meu coração, que é meu dever louvar ao Senhor nesta casa de amor, em que o Mestre Jesus nos restabelece a coragem e o bom ânimo, de modo a sustentarmos o nosso esforço de redenção.
 Devo repetir-vos semelhantes afirmações porque sou um simples aprendiz, mas esse aprendiz que sou, com a bênção de Deus, vem se restaurando na escola do bem para saber amar.
@@ -1093,9 +753,10 @@ Bendigo, pois, as forças que estou adquirindo e rogo-lhes não me esqueçam, co
 
 ---
 
-## 34 — Amor e oração
+## 34
 
-> 34ª reunião | 20 de junho de 1957
+> 34ª reunião | 20 de junho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Meus queridos irmãos, venho dar de meu próprio Espírito uma singela página pela vontade de amar.
 Amar é realmente orar, porque amando com amor puro sentimos Deus em nossa alma estabelecendo em nós a sublimação pessoal.
@@ -1103,25 +764,20 @@ Imaginem vocês que por muitas vezes orava na Terra, mas sem o sentimento divino
 
 ---
 
-## 35 — Paz
+## 35
 
-> 35ª reunião | 27 de junho de 1957
+> 35ª reunião | 27 de junho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
-Paz é o símbolo da perfeição,
-Estrada excelsa de redenção.
-Cultivando-a no caminho
-Eis que Jesus, com carinho,
-Guarda-nos sempre no coração.
-Bendigo a todos os que me ouvem
-Com tolerância fraternal.
-Desejo, em prece a cada um,
-A paz da vida universal.
+Paz é o símbolo da perfeição, Estrada excelsa de redenção. Cultivando-a no caminho Eis que Jesus, com carinho, Guarda-nos sempre no coração.
+Bendigo a todos os que me ouvem Com tolerância fraternal. Desejo, em prece a cada um, A paz da vida universal.
 
 ---
 
-## 36 — Alma em súplica
+## 36
 
-> 36ª reunião | 4 de julho de 1957
+> 36ª reunião | 4 de julho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Lucília Xavier Silva, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
 Amado e divino Mestre, que eu possa, Senhor, suplicar as suas bênçãos de tolerância e misericórdia para com esta criatura que eu sou, necessitada e penitente, que não soube, Senhor, bendizer as sublimes oportunidades que recebeu na Terra!…
 Jesus, perdão, eu lhe peço! E rogo-lhe forças para que eu possa prosseguir na caminhada redentora.
@@ -1129,9 +785,10 @@ Que eu possa, Senhor, restituir a paz de todos os lares que me sofreram a influ�
 
 ---
 
-## 37 — Contra a ignorância
+## 37
 
-> 37ª reunião | 11 de julho de 1957
+> 37ª reunião | 11 de julho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima, Elza Vieira, Waldemar Silva, Cecília Pinheiro Dias, Henrique Fragoso Pinheiro Dias
 
 Meus amigos, que Jesus nos dê a paz de que todos necessitamos. Vim aqui trazido por aqueles que desejam ajudar e que me recomendaram algo lhes diga de minha pobre alma.
 Não que eu possa entusiasmá-los, alegrando-lhes o Espírito. Até pelo contrário, é muito triste a minha história. Mesmo assim determinam eles que eu lhes fale, e buscarei acatar-lhes a confiança.
@@ -1142,9 +799,10 @@ Rogo-lhes a bênção da prece para que o porvir me favoreça, e que Jesus nos p
 
 ---
 
-## 38 — Na luz da prece
+## 38
 
-> 38ª reunião | 18 de julho de 1957
+> 38ª reunião | 18 de julho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Cecília Pinheiro Dias, Aderbal Nogueira Lima, Elza Vieira, Waldemar Silva e Henrique Fragoso Pinheiro Dias
 
 Amigos meus, que Jesus nos ampare e ilumine!
 Venho hoje orar com vocês, suplicando a misericórdia do Pai Celestial para as nossas dores, a fim de que possamos, dignamente, suportá-las. Assim, eu hoje, com a permissão divina, venho reunir-me a vocês para rogar a proteção do Senhor e assim o faço:
@@ -1153,9 +811,10 @@ Agradeço-lhes, irmãos queridos, a cooperação que me proporcionaram e que Jes
 
 ---
 
-## 39 — Agradecendo
+## 39
 
-> 39ª reunião | 25 de julho de 1957
+> 39ª reunião | 25 de julho de 1957.
+> — Arnaldo Rocha, Ênio Santos, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Cecília Pinheiro Dias, Aderbal Nogueira Lima, Elza Vieira, Waldemar Silva e Henrique Fragoso Pinheiro Dias
 
 Amigos meus, que Jesus nos abençoe!
 Trago-vos hoje o meu agradecimento comovido, pedindo a Jesus proteção para todos nós, pois nesta casa muito tenho recebido para o meu encorajamento, a fim de que eu possa prosseguir a minha caminhada.
@@ -1164,202 +823,113 @@ Assim eu sou a irmã reconhecida a todos vós, implorando a Jesus nos ampare e n
 
 ---
 
-## 40 — Bolo de aniversário
+## 40
 
-> 40ª reunião | 1º de agosto de 1957
+> 40ª reunião | 1º de agosto de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Eunice Cerqueira, Zínia Orsine Pereira,
 
-Nosso grupo, há cinco anos,
-Deitou a sua raiz.
-Que o Céu abençoe o nosso
-Aniversário feliz!
-Todos nós, alegremente,
-No conjunto da oração,
-Comungamos, com vocês,
-A grande celebração!
-A nossa equipe, em sorriso,
-Com a nossa Meimei à testa,
-Deposita sobre a mesa
-O bolo de nossa festa.
-Todo o manjar se reveste
-No claro e cheiroso caldo,
-Que nasce da segurança
-Do nosso valente Arnaldo.
-A forma do prato raro,
-Que revela mão de gênio,
-Estrutura-se, correta,
-Na calma do nosso Ênio!
-A massa gostosa e fina,
-Em que o doce desabrocha,
-É feita na fé robusta
-Do nosso Geraldo Rocha.
-E esse bolo tem de tudo
-No primor de seu trabalho:
-Desde a ternura da Zínia
-À prece de “Seu” Carvalho!
-Guarda a atenção do Pacheco,
-Que nunca abandona a linha,
-Tem a nobreza da Elza
-E a bondade da Laurinha!
-Do nosso Chico Gonçalves,
-Tem o carinho integral,
-Tem a frequência da Edite
-E a firmeza do Aderbal!
-Da Lucília, tem a graça,
-De Geni, tem o cuidado,
-Do Professor Fontenele,
-Tem o zelo aprimorado.
-Da nossa estimada Eunice,
-Tem a serena constância,
-Do prezado Coronel
-Tem a presença a distância.
-A bandeja do manjar,
-Que para nosso tanto é,
-Está repleta das flores
-Do jardim do nosso André.
-Ante essa joia de amor
-De nossa felicidade,
-Renovemos nosso votos
-Da ação na fraternidade.
-E terminando roguemos
-Ao nosso amado Jesus
-Acender, em nosso bolo,
-A sua bênção de luz.
+1 Nosso grupo, há cinco anos, Deitou a sua raiz. Que o Céu abençoe o nosso Aniversário feliz!
+2 Todos nós, alegremente, No conjunto da oração, Comungamos, com vocês, A grande celebração!
+3 A nossa equipe, em sorriso, Com a nossa Meimei à testa, Deposita sobre a mesa O bolo de nossa festa.
+4 Todo o manjar se reveste No claro e cheiroso caldo, Que nasce da segurança Do nosso valente Arnaldo.
+5 A forma do prato raro, Que revela mão de gênio, Estrutura-se, correta, Na calma do nosso Ênio!
+6 A massa gostosa e fina, Em que o doce desabrocha, É feita na fé robusta Do nosso Geraldo Rocha.
+7 E esse bolo tem de tudo No primor de seu trabalho: Desde a ternura da Zínia À prece de “Seu” Carvalho!
+8 Guarda a atenção do Pacheco, Que nunca abandona a linha, Tem a nobreza da Elza E a bondade da Laurinha!
+9 Do nosso Chico Gonçalves, Tem o carinho integral, Tem a frequência da Edite E a firmeza do Aderbal!
+10 Da Lucília, tem a graça, De Geni, tem o cuidado, Do Professor Fontenele, Tem o zelo aprimorado.
+11 Da nossa estimada Eunice, Tem a serena constância, Do prezado Coronel Tem a presença a distância.
+12 A bandeja do manjar, Que para nosso tanto é, Está repleta das flores Do jardim do nosso André.
+13 Ante essa joia de amor De nossa felicidade, Renovemos nosso votos Da ação na fraternidade.
+14 E terminando roguemos Ao nosso amado Jesus Acender, em nosso bolo, A sua bênção de luz.
 Um abraço a todos do irmão
 
 ---
 
-## 41b — Mensagem
+## 41a
 
-> 41ª reunião | 8 de agosto de 1957
+> 41ª reunião | 8 de agosto de 1957.
+> — Arnaldo Rocha, Elza Vieira, Francisco Gonçalves, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malquias Xavier, Geni Pena Xavier, Antônio Inácio de Melo, Zínia Orsine Pereira,
 
-Meus amigos, nosso Senhor Jesus Cristo seja louvado!
-Por favor daqueles companheiros bem-aventurados que orientam esta casa de fraternidade e oração, tomo-vos o tempo por alguns minutos para saudar, com o meu coração, minha filha Horizontina, esposa de nosso irmão José, que se acham presentes.
-Sabemos que, em Espiritismo, a nossa família é a humanidade. Nós todos somos irmãos uns dos outros, com a bênção de nosso Pai Celestial, entretanto, sabemos também que no caminho de nossa purificação tantas vezes somos pais, tantas vezes somos filhos.
-É por isso que minha prece foi revelada e atendida, para que eu possa, por momentos rápidos, embora, rogar à minha querida Zonta coragem e paciência no caminho que lhe foi marcado pela Providência Divina. Nós todos, minha filha, recebemos do Alto o roteiro que nos cabe observar e obedecer naquela cota de tempo que deve assinalar a nossa permanência no mundo.
-Nunca se sinta abandonada, sozinha! Nossas antigas conversações estão ainda vivas! O amor nunca poderia desaparecer no túmulo. Tudo continua além da vida terrestre, mas, para que a felicidade seja nossa, é preciso que estejamos vigilantes, construindo a felicidade dos outros. Ajude, como sempre, o nosso José na sua caminhada, caminhada difícil, por vezes, porque a mediunidade nele ainda não encontrou aquele cultivo necessário.
-Mesmo você, tão bondosa, coração tão sensível e tão grande, ainda não conseguiu despertar, como será preciso, para que a felicidade e a paz estejam convosco. Você pode fazer tanto, minha Zonta!… Nosso José pode realizar tanto!… Durante os dias últimos, as nossas preocupações foram também as de vocês.
-Velhas aversões do passado costumam se reaproximar de nós, infundindo-nos medo, perturbações e irascibilidade, mas com a prece e com a fraternidade que sombras não serão dissolvidas? Graças a Deus, graças ao nosso divino Jesus, o nosso José está libertado! Esperamos, porém, que vocês prossigam na execução dos compromissos abençoados para com a nossa Doutrina e para com a mediunidade, que é a enxada da luz colocada por nosso Senhor em nossas mãos, para que saibamos plantar a ventura eterna no chão do mundo terreno.
-Não disponho de muito tempo, apenas de alguns minutos para repetir a você, com lágrimas de emoção e de alegria, que seu pai está a seu lado nas horas difíceis e nas horas alegres, na luz ou na sombra, na paz ou no trabalho! Seu pai está com todos, mas muito particularmente com você, filha querida, cuja voz está ressoando em meu coração.
-Suas perguntas de menina estão em minha cabeça. Não me esqueço de nossas preces e de nossos entendimentos! É por isso que eu pedi aos nossos velhos amigos que se encontram aqui nesta hora bendita, nosso Mariano, de Santa Maria, nosso Adelino de Carvalho, nosso Eurípedes, nosso Urzedo, para que me ajudem a falar… Quanta felicidade saber que vocês compreendem que a morte não existe, que nós seguiremos para diante!… Outro amigo que está com seu pai, nesta hora, é o nosso Americano do Brasil, velho companheiro de Goiás! Ele, sim, falará a todos.
-Ele tomará a palavra para deixar a este grupo abençoado a lembrança da noite [
-mensagem anterior
-]. Deus abençoe você, minha filha! Deus abençoe a você, meu filho, filho de meu coração! Deus abençoe a nós todos, é a prece do companheiro
+1 Lembra-te, enquanto é cedo: a carne é cinza e bruma. Na forma que se expressa ensina, serve e passa. Ao seu doce calor, que volta ao verme e à traça, Todas as ilusões fenecem uma a uma.
+2 És alma, luz que brilha, essência que perfuma, Esperança e beleza, inteligência e graça, Atravessando, em sombra, o limo que te enlaça Onda da vida eterna em lodacenta espuma.
+3 Despe as fascinações do pélago profundo!… Vence o ouro e o prazer que te amarram no mundo Embora nos grilhões da chaga transitória.
+4 E sobranceiro ao mal, renitente escarninho Plasmarás sobre a terra o fúlgido caminho Para a ascensão celeste em suprema vitória
 
 ---
 
-## 41a — Lembra-te
+## 41b
 
-> 41ª reunião | 8 de agosto de 1957
+> [Essa mensagem foi recebida na 41ª reunião | 8 de agosto de 1957.]
+> — Francisco Cândido Xavier
 
-Lembra-te, enquanto é cedo: a carne é cinza e bruma.
-Na forma que se expressa ensina, serve e passa.
-Ao seu doce calor, que volta ao verme e à traça,
-Todas as ilusões fenecem uma a uma.
-És alma, luz que brilha, essência que perfuma,
-Esperança e beleza, inteligência e graça,
-Atravessando, em sombra, o limo que te enlaça
-Onda da vida eterna em lodacenta espuma.
-Despe as fascinações do pélago profundo!…
-Vence o ouro e o prazer que te amarram no mundo
-Embora nos grilhões da chaga transitória.
-E sobranceiro ao mal, renitente escarninho
-Plasmarás sobre a terra o fúlgido caminho
-Para a ascensão celeste em suprema vitória
+1 Meus amigos, nosso Senhor Jesus Cristo seja louvado!
+2 Por favor daqueles companheiros bem-aventurados que orientam esta casa de fraternidade e oração, tomo-vos o tempo por alguns minutos para saudar, com o meu coração, minha filha Horizontina, esposa de nosso irmão José, que se acham presentes.
+3 Sabemos que, em Espiritismo, a nossa família é a humanidade. Nós todos somos irmãos uns dos outros, com a bênção de nosso Pai Celestial, entretanto, sabemos também que no caminho de nossa purificação tantas vezes somos pais, tantas vezes somos filhos.
+4 É por isso que minha prece foi revelada e atendida, para que eu possa, por momentos rápidos, embora, rogar à minha querida Zonta coragem e paciência no caminho que lhe foi marcado pela Providência Divina. Nós todos, minha filha, recebemos do Alto o roteiro que nos cabe observar e obedecer naquela cota de tempo que deve assinalar a nossa permanência no mundo. 5 Nunca se sinta abandonada, sozinha! Nossas antigas conversações estão ainda vivas! O amor nunca poderia desaparecer no túmulo. Tudo continua além da vida terrestre, mas, para que a felicidade seja nossa, é preciso que estejamos vigilantes, construindo a felicidade dos outros. Ajude, como sempre, o nosso José na sua caminhada, caminhada difícil, por vezes, porque a mediunidade nele ainda não encontrou aquele cultivo necessário. 6 Mesmo você, tão bondosa, coração tão sensível e tão grande, ainda não conseguiu despertar, como será preciso, para que a felicidade e a paz estejam convosco. Você pode fazer tanto, minha Zonta!… Nosso José pode realizar tanto!… Durante os dias últimos, as nossas preocupações foram também as de vocês. 7 Velhas aversões do passado costumam se reaproximar de nós, infundindo-nos medo, perturbações e irascibilidade, mas com a prece e com a fraternidade que sombras não serão dissolvidas? Graças a Deus, graças ao nosso divino Jesus, o nosso José está libertado! Esperamos, porém, que vocês prossigam na execução dos compromissos abençoados para com a nossa Doutrina e para com a mediunidade, que é a enxada da luz colocada por nosso Senhor em nossas mãos, para que saibamos plantar a ventura eterna no chão do mundo terreno. 8 Não disponho de muito tempo, apenas de alguns minutos para repetir a você, com lágrimas de emoção e de alegria, que seu pai está a seu lado nas horas difíceis e nas horas alegres, na luz ou na sombra, na paz ou no trabalho! Seu pai está com todos, mas muito particularmente com você, filha querida, cuja voz está ressoando em meu coração. 9 Suas perguntas de menina estão em minha cabeça. Não me esqueço de nossas preces e de nossos entendimentos! É por isso que eu pedi aos nossos velhos amigos que se encontram aqui nesta hora bendita, nosso Mariano, de Santa Maria, nosso Adelino de Carvalho, nosso Eurípedes, nosso Urzedo, para que me ajudem a falar… Quanta felicidade saber que vocês compreendem que a morte não existe, que nós seguiremos para diante!… Outro amigo que está com seu pai, nesta hora, é o nosso Americano do Brasil, velho companheiro de Goiás! Ele, sim, falará a todos. 10 Ele tomará a palavra para deixar a este grupo abençoado a lembrança da noite [mensagem anterior]. Deus abençoe você, minha filha! Deus abençoe a você, meu filho, filho de meu coração! Deus abençoe a nós todos, é a prece do companheiro
 
 ---
 
-## 42 — Tema vivo
+## 42
 
-> 42ª reunião | 15 de agosto de 1957
+> 42ª reunião | 15 de agosto de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Lucília Xavier Silva, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edmundo Fontenele, Antônio Inácio de Melo, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Meus amigos, todos os temas doutrinários são importantes. Todos eles, à luz do Evangelho de nosso Senhor Jesus Cristo, através do filtro admirável da codificação kardequiana, são palpitantes de interesse em nosso roteiro evolutivo.
-A reencarnação é chave preciosa para a solução do labirintoso problema das desigualdades sociais.
-A sobrevivência individual depois do túmulo é a tese da grande consolação.
-O intercâmbio é fator de esperança no esclarecimento religioso.
-A experimentação descerra novos horizontes ao labor científico.
-A desobsessão é o remédio substancial no alívio às condições deprimentes da humanidade.
-Examinaremos, no entanto, num ângulo vulgaríssimo de nossas atividades, qual seja o do impositivo da verdadeira cooperação dos espíritas para com o Espiritismo.
-Apelemos uns para os outros, a fim de que venhamos a despersonalizar as nossas atitudes perante a Doutrina que nos felicita, magnânima de amor e de luz, para que as nossas casas de fé consigam desempenhar o expressivo papel que lhes é atribuído na atualidade do mundo.
-Um centro espírita é, sobretudo, um templo de manifestação dos pensamentos da Esfera Superior, na condução dos problemas humanos à sua equação necessária e justa.
-Em semelhante santuário, os nossos testemunhos de impessoalização devem ser incessantes se quisermos oferecer o fruto de nossa instrumentalidade para que o estandarte do Cristianismo renascente domine as consciências, libertando-as para a Vida Maior.
-É indispensável esquecermo-nos, abolindo todas as questiúnculas a se represarem no campo de nosso idealismo e de nossas realizações, por faixas de sombra, interrompendo a marcha da luz.
-É necessário que o lema do codificador, expresso em sua trilogia — trabalho, solidariedade e tolerância —, seja fundamentalmente vivido por nossas manifestações, com abstenção integral da crítica contundente, em torno da alheia conduta.
-“Não reprovar, mas ajudar” — deve ser a senha da nossa tarefa para que estejamos funcionando por máquina harmoniosa nas mãos do vexilários da redenção humana, cuja mensagem flui de cima, em benefício do trabalho iluminativo da região de trabalho em que ainda estagiamos.
-Não entravar o progresso de quem quer que seja, não fixar a nossa mente no excesso de compromissos familiares dos irmãos empenhados em provações e dívidas que nada possuem de comum com o nosso modo de proceder e de ser, não reparar o lado obscuro das personalidades mediúnicas, trazidas ao âmbito do nosso serviço para que possamos acordar nossos tarefeiros da obra espírita o estímulo à justa ascensão à luz, não nos determos na fiscalização em derredor dos nossos amigos chamados à doutrinação, fortalecendo em todos eles, ao invés disso, o amor à causa, o devotamento à verdade e pela consagração ao bem!
-Tanto serviço se desdobra diante de nossos olhos espirituais! Tanto conhecimento a desperdiçar-se através da conversação sem proveito ou da atividade incompatível com os votos por nós mesmos esposados, quando, na oração de cada dia, prometemos fidelidade ao Senhor e auxílio aos homens, nossos irmãos!…
-É indispensável estejamos despertos para a colaboração fraterna, para a ajuda recíproca, para a mútua compreensão e para a desculpa incessante, a fim de que o bem triunfe acima de todas as investidas do mal — do mal que consubstancia as nossas aplicações impróprias de tempo nos recursos que nos foram emprestados pela Providência Divina, desde o pretérito próximo ou remoto.
-Assim sendo, sem desejar rugir ao tom despretensioso de nosso convite, encerramos a pequena e desgraciosa palestra desta noite, conclamando nossos amigos a essa diretriz de amparo constante a todos os que se levantam do ontem para os compromissos de hoje no rumo do amanhã que todos desejamos pleno de vitória para a nossa bandeira espiritual.
-Reunamo-nos, em espírito e verdade, ao redor do Espírito Divino de nosso Senhor Jesus Cristo, que jamais desesperou de nossas fraquezas, que nunca cerrou as portas da tolerância e que nunca exibiu mãos vazias de amor para os nossos Espíritos endividados, de modo a manter-nos todos nesta bendita entrosagem de esforço na verdadeira confraternização, marchando para o triunfo real com o Evangelho à luz do Espiritismo e com o Espiritismo à luz do Evangelho, agora, hoje, amanhã, aqui e em qualquer parte.
+1 Meus amigos, todos os temas doutrinários são importantes. Todos eles, à luz do Evangelho de nosso Senhor Jesus Cristo, através do filtro admirável da codificação kardequiana, são palpitantes de interesse em nosso roteiro evolutivo. 2 A reencarnação é chave preciosa para a solução do labirintoso problema das desigualdades sociais. 3 A sobrevivência individual depois do túmulo é a tese da grande consolação. 4 O intercâmbio é fator de esperança no esclarecimento religioso. 5 A experimentação descerra novos horizontes ao labor científico. 6 A desobsessão é o remédio substancial no alívio às condições deprimentes da humanidade. 7 Examinaremos, no entanto, num ângulo vulgaríssimo de nossas atividades, qual seja o do impositivo da verdadeira cooperação dos espíritas para com o Espiritismo. 8 Apelemos uns para os outros, a fim de que venhamos a despersonalizar as nossas atitudes perante a Doutrina que nos felicita, magnânima de amor e de luz, para que as nossas casas de fé consigam desempenhar o expressivo papel que lhes é atribuído na atualidade do mundo.
+9 Um centro espírita é, sobretudo, um templo de manifestação dos pensamentos da Esfera Superior, na condução dos problemas humanos à sua equação necessária e justa. 10 Em semelhante santuário, os nossos testemunhos de impessoalização devem ser incessantes se quisermos oferecer o fruto de nossa instrumentalidade para que o estandarte do Cristianismo renascente domine as consciências, libertando-as para a Vida Maior. 11 É indispensável esquecermo-nos, abolindo todas as questiúnculas a se represarem no campo de nosso idealismo e de nossas realizações, por faixas de sombra, interrompendo a marcha da luz. 12 É necessário que o lema do codificador, expresso em sua trilogia — trabalho, solidariedade e tolerância, — seja fundamentalmente vivido por nossas manifestações, com abstenção integral da crítica contundente, em torno da alheia conduta.
+13 “Não reprovar, mas ajudar” — deve ser a senha da nossa tarefa para que estejamos funcionando por máquina harmoniosa nas mãos do vexilários da redenção humana, cuja mensagem flui de cima, em benefício do trabalho iluminativo da região de trabalho em que ainda estagiamos.
+14 Não entravar o progresso de quem quer que seja, não fixar a nossa mente no excesso de compromissos familiares dos irmãos empenhados em provações e dívidas que nada possuem de comum com o nosso modo de proceder e de ser, não reparar o lado obscuro das personalidades mediúnicas, trazidas ao âmbito do nosso serviço para que possamos acordar nossos tarefeiros da obra espírita o estímulo à justa ascensão à luz, não nos determos na fiscalização em derredor dos nossos amigos chamados à doutrinação, fortalecendo em todos eles, ao invés disso, o amor à causa, o devotamento à verdade e pela consagração ao bem!
+15 Tanto serviço se desdobra diante de nossos olhos espirituais! Tanto conhecimento a desperdiçar-se através da conversação sem proveito ou da atividade incompatível com os votos por nós mesmos esposados, quando, na oração de cada dia, prometemos fidelidade ao Senhor e auxílio aos homens, nossos irmãos!…
+16 É indispensável estejamos despertos para a colaboração fraterna, para a ajuda recíproca, para a mútua compreensão e para a desculpa incessante, a fim de que o bem triunfe acima de todas as investidas do mal — do mal que consubstancia as nossas aplicações impróprias de tempo nos recursos que nos foram emprestados pela Providência Divina, desde o pretérito próximo ou remoto. 17 Assim sendo, sem desejar rugir ao tom despretensioso de nosso convite, encerramos a pequena e desgraciosa palestra desta noite, conclamando nossos amigos a essa diretriz de amparo constante a todos os que se levantam do ontem para os compromissos de hoje no rumo do amanhã que todos desejamos pleno de vitória para a nossa bandeira espiritual.
+18 Reunamo-nos, em espírito e verdade, ao redor do Espírito Divino de nosso Senhor Jesus Cristo, que jamais desesperou de nossas fraquezas, que nunca cerrou as portas da tolerância e que nunca exibiu mãos vazias de amor para os nossos Espíritos endividados, de modo a manter-nos todos nesta bendita entrosagem de esforço na verdadeira confraternização, marchando para o triunfo real com o Evangelho à luz do Espiritismo e com o Espiritismo à luz do Evangelho, agora, hoje, amanhã, aqui e em qualquer parte.
 
 ---
 
-## 43 — Palavra e exemplo
+## 43
 
-> 43ª reunião | 22 de agosto de 1957
+> 43ª reunião | 22 de agosto de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Geraldo Benício Rocha, Edmundo Fontenele, Zínia Orsine Pereira,
 
-Meus amigos, Jesus os abençoe!
-A palavra propõe. O exemplo dispõe.
-A palavra é informação. O exemplo é roteiro.
-A palavra semeia. O exemplo colhe.
-A palavra inicia. O exemplo completa.
-A palavra é promessa. O exemplo é realização.
-A palavra induz. O exemplo conduz.
-A palavra esclarece. O exemplo arrasta.
-A palavra tange. O exemplo transforma.
-A palavra mentaliza. O exemplo modela.
-A palavra estuda. O exemplo faz.
-A palavra é sugestão. O exemplo é força.
-A palavra inclina. O exemplo determina.
-A palavra acena. O exemplo contagia.
-A palavra é plano de ação. O exemplo é a obra em sim mesma.
-“No princípio era a palavra”,
-diz a Sagrada Escritura. Entretanto, cremos poder acrescentar que no fim é o exemplo criando a alegria ou a dor, a luz ou a treva, o céu ou o inferno em nós mesmos.
-Saibamos, pois, ensinar com a bênção do Cristo em nós, porque todos os Espíritos desencarnados ou encarnados que nos rodeiam ouvem-nos a voz e acompanham-nos o passo.
-Louvado seja Jesus!
-A palavra propõe. O exemplo dispõe.
-A palavra é informação. O exemplo é roteiro.
-A palavra semeia. O exemplo colhe.
-A palavra inicia. O exemplo completa.
-A palavra é promessa. O exemplo é realização.
-A palavra induz. O exemplo conduz.
-A palavra esclarece. O exemplo arrasta.
-A palavra tange. O exemplo transforma.
-A palavra mentaliza. O exemplo modela.
-A palavra estuda. O exemplo faz.
-A palavra é sugestão. O exemplo é força.
-A palavra inclina. O exemplo determina.
-A palavra acena. O exemplo contagia.
-A palavra é plano de ação. O exemplo é a obra em sim mesma.
+1 Meus amigos, Jesus os abençoe!
+2 A palavra propõe. O exemplo dispõe.
+3 A palavra é informação. O exemplo é roteiro.
+4 A palavra semeia. O exemplo colhe.
+5 A palavra inicia. O exemplo completa.
+6 A palavra é promessa. O exemplo é realização.
+7 A palavra induz. O exemplo conduz.
+8 A palavra esclarece. O exemplo arrasta.
+9A palavra tange. O exemplo transforma.
+10A palavra mentaliza. O exemplo modela.
+11A palavra estuda. O exemplo faz.
+12A palavra é sugestão. O exemplo é força.
+13A palavra inclina. O exemplo determina.
+14A palavra acena. O exemplo contagia.
+15A palavra é plano de ação. O exemplo é a obra em sim mesma.
+16“No princípio era a palavra”, ( † ) diz a Sagrada Escritura. Entretanto, cremos poder acrescentar que no fim é o exemplo criando a alegria ou a dor, a luz ou a treva, o céu ou o inferno em nós mesmos.
+17Saibamos, pois, ensinar com a bênção do Cristo em nós, porque todos os Espíritos desencarnados ou encarnados que nos rodeiam ouvem-nos a voz e acompanham-nos o passo. Louvado seja Jesus!
 
 ---
 
-## 44 — Em prece com os sofredores
+## 44
 
-> 44ª reunião | 29 de agosto de 1957
+> 44ª reunião | 29 de agosto de 1957.
+> — Ênio Santos, Elza Vieira, Geni Pena Xavier, Geraldo Benício Rocha, Edmundo Fontenele, Edite Malaquias Xavier, Zínia Orsine Pereira, Francisco Teixeira de Carvalho,
 
-Senhor Jesus, junto daqueles que te louvam a bondade com alegria, estamos nós, os que te suplicamos compaixão com o sofrimento!
-Ao pé dos Espíritos redivivos que te recordam, ajoelhamo-nos nós, os mortos vivos que te esqueceram…
-Isso, Senhor, porque nós sabemos que te desvencilhaste dos cânticos celestiais em te glorificavam na manjedoura, colocando-te ao encontro das almas cadaverizadas na enfermidade e no crime.
-Tu, Mestre divino, que dissipaste a sombra do cego de Jericó, que devolveste o movimento ao paralítico do tanque de Betesda, e que ressuscitaste o Lázaro sepulto, compadece-te também de nossas almas empedernidas e soterradas nas ruínas dos próprios sonhos!
-Somos muitos, Senhor, os que nesta noite te rogamos a esmola de socorro e comiseração, somos muitos os que ostentamos, por nossa infelicidade, o cárcere talhado por nós mesmos!…
-Todos, Senhor, trazemos a grilheta de nossas próprias culpas!
-Os que assassinaram trazem consigo correntes de sangue, os que espalharam a desolação trazem correntes de lágrimas, os que furtaram estão aprisionados a correntes de outro e os que mergulharam no vício trazem consigo dolorosas correntes de lama, as que lhes entenebrecem as consciências!…
-Oh, Senhor, tantos te rogam ascensão ao Céu! Nós te imploramos o recomeço na carne!
-Tantos te pedem a saúde!… Nós te suplicamos a doença!
-Tantos te solicitam o convívio dos laços domésticos no templo familiar!… Nós te rogamos o banimento e a solidão!…
-Tantos te pedem o equilíbrio e a beleza!… Nós te suplicamos a mutilação e a chaga redentora!
-Entretanto, Senhor, com a cruz que nós mesmos talhamos, suspiramos por tua bênção para a regeneração de que carecemos!…
-Cristo, que abriste os braços no berço de palha aos pastores humildes, que abriste os braços aos doutores de Jerusalém e aos enfermos da via pública, que abriste os braços a todos os sofredores, preferiste morrer de braços abertos, braços abertos aos quais nós todos recorremos!…
-Senhor, concede-nos um novo dia de trabalho e de reajustamento na Terra!
-Disseste, ó Cristo inolvidável: “Bem-aventurados os aflitos…”
-Que nós, Senhor, pela misericórdia de tua justiça, possamos recolher em nós mesmos a aflição curativa, a fim de que possamos encontrar, contigo, a aflição como preço de nossa ascensão à tua luz.
-Louvado sejas para sempre, Senhor!
+1 Senhor Jesus, junto daqueles que te louvam a bondade com alegria, estamos nós, os que te suplicamos compaixão com o sofrimento!
+2 Ao pé dos Espíritos redivivos que te recordam, ajoelhamo-nos nós, os mortos vivos que te esqueceram…
+3 Isso, Senhor, porque nós sabemos que te desvencilhaste dos cânticos celestiais em te glorificavam na manjedoura, colocando-te ao encontro das almas cadaverizadas na enfermidade e no crime. 4 Tu, Mestre divino, que dissipaste a sombra do cego de Jericó, que devolveste o movimento ao paralítico do tanque de Betesda, e que ressuscitaste o Lázaro sepulto, compadece-te também de nossas almas empedernidas e soterradas nas ruínas dos próprios sonhos! 5 Somos muitos, Senhor, os que nesta noite te rogamos a esmola de socorro e comiseração, somos muitos os que ostentamos, por nossa infelicidade, o cárcere talhado por nós mesmos!…
+6 Todos, Senhor, trazemos a grilheta de nossas próprias culpas! 7 Os que assassinaram trazem consigo correntes de sangue, os que espalharam a desolação trazem correntes de lágrimas, os que furtaram estão aprisionados a correntes de outro e os que mergulharam no vício trazem consigo dolorosas correntes de lama, as que lhes entenebrecem as consciências!…
+8 Oh, Senhor, tantos te rogam ascensão ao Céu! Nós te imploramos o recomeço na carne! 9 Tantos te pedem a saúde!… Nós te suplicamos a doença! 10 Tantos te solicitam o convívio dos laços domésticos no templo familiar!… Nós te rogamos o banimento e a solidão!… 11 Tantos te pedem o equilíbrio e a beleza!… Nós te suplicamos a mutilação e a chaga redentora! 12 Entretanto, Senhor, com a cruz que nós mesmos talhamos, suspiramos por tua bênção para a regeneração de que carecemos!…
+13 Cristo, que abriste os braços no berço de palha aos pastores humildes, que abriste os braços aos doutores de Jerusalém e aos enfermos da via pública, que abriste os braços a todos os sofredores, preferiste morrer de braços abertos, braços abertos aos quais nós todos recorremos!…
+14 Senhor, concede-nos um novo dia de trabalho e de reajustamento na Terra!
+15 Disseste, ó Cristo inolvidável: “Bem-aventurados os aflitos…” ( † ) Que nós, Senhor, pela misericórdia de tua justiça, possamos recolher em nós mesmos a aflição curativa, a fim de que possamos encontrar, contigo, a aflição como preço de nossa ascensão à tua luz. Louvado sejas para sempre, Senhor!
 
 ---
 
-## 45 — Dissertação
+## 45
 
-> 45ª reunião | 5 de setembro de 1957
+> 45ª reunião | 5 de setembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Meus irmãos, louvemos ao nosso Senhor Jesus!
 Padre católico, e envergando ainda a veste sacerdotal, e agradecendo a Deus, Senhor, por me ter concedido a graça, venho trazer a todos que, com bondade, me ouvem a minha saudação, a minha solicitação e o meu agradecimento.
@@ -1367,23 +937,20 @@ Jamais, do púlpito, fui capaz de tecer frases consideradas literárias, ou serm
 A minha alma sentia que através do genuflexo, ou do genuflexório dos altares, acima das hóstias consagradas havia um sol muito brilhante, uma luz eterna, imorredoura, que se espargia em bênçãos para todas as criaturas de boa vontade, porque no Evangelho o Senhor nos prometia um consolador eterno a viver conosco para sempre.
 Vivendo em cidade onde o preconceito arraigava-se de tal modo que até o nosso pensamento se encurralava dentro da estreiteza do entendimento, no muito pouco nos era permitido elevar o pensamento em temas, em poemas de tanta filosofia, de tanto engrandecimento, de tanta consolação ou esperança! Mas a nossa alma sentia, e sentia com a certeza da nota que sentiu a vibração harmônica — que a alma se comunicaria eternamente, evoluiria sempre e cresceria na medida de suas conquistas morais e intelectuais! Então começamos, no acanhamento do ambiente em que vivíamos, de quando em vez, ouvir vozes que nos animavam. O silêncio já não era para nós um ambiente de desagrado, mas, sim, o de vozes acalentadoras, promissoras, um porvir mais brilhante se fazia ouvir.
 Nós, cheios de esperança, caminhávamos, caminhávamos esperançosos de que portas maiores se descerrassem para o nosso entendimento.
-Desencarnado, vagamos como um sacerdote que — Deus seja louvado! —, de certo modo soube cumprir os seus deveres e não se envergonhou diante do Senhor. Até que coração a nós ligado e a vós também nos trouxe para participar deste
-Pentecostes
-que aqui se comemora de há muito. Então a nossa alma se banhou nas águas deste batismo. O nosso Espírito se dilatou em entendimento e o nosso coração entoou hosanas ao Senhor! Nós nos sentimos engrandecer dentro da pequenez de nosso ser! Os nossos olhos enxergaram o futuro infinito. E nós vibramos de contentamento na ciência maravilhosa que flui de todos e para todos, na cura, na consolação, na instrução, na esperança e na fé! De joelhos, então, buscamos a consoladora Doutrina dos aflitos que nos fizeste dignos de permanecer em tão extraordinário, em tão encantador recanto de paz e de trabalho, de solidariedade e de compreensão! E fomos considerados, mercê de Deus, não pelos nossos merecimentos, um dos obreiros dos tutelados desta casa.
+Desencarnado, vagamos como um sacerdote que — Deus seja louvado! —, de certo modo soube cumprir os seus deveres e não se envergonhou diante do Senhor. Até que coração a nós ligado e a vós também nos trouxe para participar deste Pentecostes que aqui se comemora de há muito. Então a nossa alma se banhou nas águas deste batismo. O nosso Espírito se dilatou em entendimento e o nosso coração entoou hosanas ao Senhor! Nós nos sentimos engrandecer dentro da pequenez de nosso ser! Os nossos olhos enxergaram o futuro infinito. E nós vibramos de contentamento na ciência maravilhosa que flui de todos e para todos, na cura, na consolação, na instrução, na esperança e na fé! De joelhos, então, buscamos a consoladora Doutrina dos aflitos que nos fizeste dignos de permanecer em tão extraordinário, em tão encantador recanto de paz e de trabalho, de solidariedade e de compreensão! E fomos considerados, mercê de Deus, não pelos nossos merecimentos, um dos obreiros dos tutelados desta casa.
 Anos já se passaram, nunca tivemos ensejo de manifestar a nossa palavra, porque somos bastante humildes e nada fizemos que pudéssemos merecer essa dignidade, essa consideração…
 No entanto, se avolumaram de tal modo os sofredores dos arraiais católicos onde militamos, de tal modo nosso coração se confrangeu ao sentir que os nossos irmãos, discípulos na Doutrina dos Espíritos, nas terras de São João Del Rei, distanciam-se, por infelicidade, da possibilidade de melhor orientação, que fomos obrigados a manifestar, materializando a nossa palavra numa solicitação de uma súplica de que nos ajudeis a consolar, a orientar, a evangelizar companheiros que se debatem em sofrimentos, em agonias e em dores.
-Assim nos associamos nos empreendimentos de socorro a corações que nos são muito caros e materializamos a nossa voz — um velho padre que nada mais soube fazer que algumas mezinhas [remédios caseiros], alguns chazinhos que curavam bronquites, coqueluches, dores de barriga e coisas de somenos importância — no entanto, sempre certos de que o Senhor era o
-Rei dos reis
-e deveria nos amparar, como de fato nos amparou.
+Assim nos associamos nos empreendimentos de socorro a corações que nos são muito caros e materializamos a nossa voz — um velho padre que nada mais soube fazer que algumas mezinhas [remédios caseiros], alguns chazinhos que curavam bronquites, coqueluches, dores de barriga e coisas de somenos importância — no entanto, sempre certos de que o Senhor era o Rei dos reis e deveria nos amparar, como de fato nos amparou.
 O que mais poderia eu apresentar aos meus irmãos como justificativa para que o vosso coração cristão me receba?
 O que mais poderei eu solicitar de vós que sentis nos vossos Espíritos as clarinadas da vida eterna e as clarinadas da evangelização? Apenas o vosso auxílio, a esmola da vossa ajuda. Bendizendo a Deus e ao Senhor, que nos permitiram esta graça, louvemos aos Seus santíssimos nomes, suplicando que amparem a todos os necessitados que ouvem a nossa palavra e que, como nós, necessitam do Seu amparo.
 Deus, em Sua bondade, nos faça dignos de continuar a merecer a Sua ajuda.
 
 ---
 
-## 46 — Um adeus agradecido
+## 46
 
-> 46ª reunião | 12 de setembro de 1957
+> 46ª reunião | 12 de setembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Como a noiva que em despedida de lar paterno percorresse todos os recantos onde cresceu e animou os seus sonhos de juventude e de construção de um lar, venho aqui, esta noite, despedir-me do meu lar espiritual.
 Não sei quando fui, sei apenas que era a imperfeição em corpo de mulher. Sei que buscava, em todos os meneios do meu corpo, com todas as seduções do meu sexo, com toda a imperfeição da minha alma e com toda a maldade que nela era insuflada, sugar, atrair, desnortear, prejudicar, vampirizar homens, mulheres e moças.
@@ -1395,23 +962,24 @@ Deus vos ampare! Deus vos ajude e que não vos esqueçais da vossa irmã!
 
 ---
 
-## 47 — Companheiro de volta
+## 47
 
-> 47ª reunião | 19 de setembro de 1957
+> 47ª reunião | 19 de setembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Tu, que tiveste, Senhor, o cireneu que te ajudou a conduzir o madeiro em que nossa impiedade te crucificou, dai-me, Senhor, o cireneu para que eu possa conduzir a cruz da minha redenção!
 É de muita alegria o momento, e de grande contentamento para a minha alma externar-me, no meio de irmãos e de amigos, na glorificação da vida eterna, da continuidade da sobrevivência, reavivando nas almas e nos corações a esperança de uma eternidade que a cada passo se burila, se aperfeiçoa e se aproxima da santidade, não obstante a distância dos séculos.
 Companheiro que fui, outrora, arrostando as dificuldades de uma cegueira material, tive sempre o coração e o espírito voltados para o excelso Mestre, na certeza de que o cireneu não me faltaria no caminho da redenção, no caminho da preparação para uma vida mais útil aos homens, meus irmãos, principalmente àqueles que tivessem a mesma necessidade. Depois de anos de cura, depois de anos de instrução, de armazenamento de forças psíquicas e forças morais, eis-me jubiloso, de pé na estrada da reencarnação, trazendo as mesmas características da raça desprezada, mas o coração cheio de fé e de certeza que hei de, com o auxílio das almas que vibram, uníssonas, harmoniosas nos princípios que são a evangelização de amor, trazer para o seio, para o rebanho do divino Pastor, aqueles que bebem nas estradas da incompreensão, aqueles que bebem no cipoal do vício, aqueles que se destroem no malbaratamento do tempo e das possibilidades mediúnicas.
 É também de agradecimento aos meus amigos. Vibrações muito amorosas, muito delicadas, muito meigas chegaram ao meu coração! Várias vezes, pude sentir o calor das vossas preces, pude palpitar de alegria, vendo que se elevava cada vez mais o conceito da Doutrina dos espíritas e dos Espíritos.
 Eu falaria por muito tempo, porque fui sempre muito arengueiro, mas a concessão foi pequena. Foi para solicitar, suplicar a companheiros de outrora, a irmãos da Eternidade, que me cerquem com o carinho da prece, que me amparem com a solidariedade do consolo e da esperança, através da projeção de fluidos vitais. Muito em breve, a prosopopeia desaparecerá num corpo de um criolinho barrigudo e eu virei novamente perlustrar as estradas da vida.
-Permita o Senhor não me falhe a visão e que eu tenha a mente bem elevada e o coração sempre mais puro! Companheiros, amigos e irmãos, louvemos ao Senhor na sua grandeza infinita, na sua misericórdia incomensurável! Enchamos o coração de esperança e de fé, e partamos confiantes de que havemos, de mãos dadas, glorificar o nosso Senhor e Salvador!
-Boa noite, do velho amigo,
+Permita o Senhor não me falhe a visão e que eu tenha a mente bem elevada e o coração sempre mais puro! Companheiros, amigos e irmãos, louvemos ao Senhor na sua grandeza infinita, na sua misericórdia incomensurável! Enchamos o coração de esperança e de fé, e partamos confiantes de que havemos, de mãos dadas, glorificar o nosso Senhor e Salvador! Boa noite, do velho amigo,
 
 ---
 
-## 48 — Reajuste
+## 48
 
-> 48ª reunião | 26 de setembro de 1957
+> 48ª reunião | 26 de setembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Lucília Xavier Silva, Francisco Gonçalves, Francisco Teixeira de Carvalho,
 
 Senhores, meus irmãos, boa noite!
 Há dois anos e pouco a graça do Senhor me permitiu vir ter convosco para que as luzes da sua misericórdia se fizessem sobre a minha alma.
@@ -1427,9 +995,10 @@ Meu boa noite, os meus agradecimentos e meu grande desejo de continuar como apre
 
 ---
 
-## 49 — Ensinamento
+## 49
 
-> 49ª reunião | 3 de outubro de 1957
+> 49ª reunião | 3 de outubro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Francisco Gonçalves, Laura Nogueira Lima, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Antônio Inácio de Melo, Lucília Xavier Silva, Aderbal Nogueira Lima,
 
 O médico que visa, antes de tudo, o seu bem-estar, as vantagens monetárias e a sua posição social é apenas um médico, mas se ele, compenetrado da sua missão divina, busca no enfermo as raízes do seu mal, amparando-o, orientando-o, ele é um médico e, mais ainda, um missionário.
 O que direi eu agora, beneficiado como fui pelos dirigentes desta casa, que me acolheram, curaram as minhas chagas, secaram-me as lágrimas e guiaram os meus primeiros passos para o caminho do bem?
@@ -1442,9 +1011,10 @@ Estou aqui com vocês e o meu desabafo é o sinal do meu profundo arrependimento
 
 ---
 
-## 50 — Amoroso aviso
+## 50
 
-> 50ª reunião | 10 de outubro de 1957
+> 50ª reunião | 10 de outubro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Nélio Cerqueira Gonçalves, Antônio Inácio de Melo, Aderbal Nogueira Lima,
 
 Nossos pés, muitas vezes, nos conduzem a lugares impróprios, inundados pelo lodo das paixões destruidoras. Podem, também, ser o veículo do auxílio e do socorro para os que lá sofrem, sem forças para se levantar.
 Se o nosso coração pulsa por um amor menos digno, capaz de levar o desequilíbrio e a intranquilidade ao próximo, poderá também, se melhor dirigido, levantar os que erram e choram, mergulhados na lama dos sentimentos embrutecedores.
@@ -1456,111 +1026,71 @@ Silencie, pois, aquele que não pode ainda compreender a ciência do verbo para 
 
 ---
 
-## 51 — Amor
+## 51
 
-> 51ª reunião | 17 de outubro de 1957
+> 51ª reunião | 17 de outubro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Delacir de Oliveira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, José Gonçalves Pereira, Laura Nogueira Lima, Edite Malaquias Xavier, Aderbal Nogueira Lima, Corina Novelino,
 
-
-O amor é a Lei de Deus em toda parte…
-Repara, acima, o sol que se derrama
-Em torrentes de luz a sustentar-te,
-Tanto quanto apascenta o verme e a lama.
-
-Desce os teus olhos sobre a gleba imensa
-E encontrarás cantando, humilde e boa,
-A fonte que se dá sem recompensa,
-Por sorriso da Terra que abençoa.
-
-A árvore, além, é a compaixão perfeita
-Sem queixar-se da luta que a consome,
-Oferecendo a flor com que te enfeita
-E dando o fruto que te atende à fome.
-
-Escuta ao pé do berço a melodia
-Do sonho maternal que afaga a vela
-E segue a rota, plena de alegria,
-Da caridade generosa e bela…
-
-Tudo é bondade pura no caminho,
-Tudo vibra no anseio de ajudar…
-A montanha, a floresta, o campo, o ninho,
-O vale, o vento, a escola, o templo e o lar…
-
-Em tudo, o amor sublime anda disperso
-Da estrela excelsa, à larva sob o chão.
-O amor é mão de Deus sobre o Universo,
-Construindo a grandeza e a perfeição.
-
-Assim pois, serve e crê, marchando à frente,
-Arrimando-te à fé que não descai
-E guardarás o coração contente
-Na harmonia da Lei do Nosso Pai.
+1 O amor é a Lei de Deus em toda parte… Repara, acima, o sol que se derrama Em torrentes de luz a sustentar-te, Tanto quanto apascenta o verme e a lama.
+2 Desce os teus olhos sobre a gleba imensa E encontrarás cantando, humilde e boa, A fonte que se dá sem recompensa, Por sorriso da Terra que abençoa.
+3 A árvore, além, é a compaixão perfeita Sem queixar-se da luta que a consome, Oferecendo a flor com que te enfeita E dando o fruto que te atende à fome.
+4 Escuta ao pé do berço a melodia Do sonho maternal que afaga a vela E segue a rota, plena de alegria, Da caridade generosa e bela…
+5 Tudo é bondade pura no caminho, Tudo vibra no anseio de ajudar… A montanha, a floresta, o campo, o ninho, O vale, o vento, a escola, o templo e o lar…
+6 Em tudo, o amor sublime anda disperso Da estrela excelsa, à larva sob o chão. O amor é mão de Deus sobre o Universo, Construindo a grandeza e a perfeição.
+7 Assim pois, serve e crê, marchando à frente, Arrimando-te à fé que não descai E guardarás o coração contente Na harmonia da Lei do Nosso Pai.
 
 ---
 
-## 52 — Tema espírita
+## 52
 
-> 52ª reunião | 24 de outubro de 1957
+> 52ª reunião | 24 de outubro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Antônio Inácio de Melo, Áurea Gonçalves, Eunice Cerqueira,
 
-Meus amigos, louvado seja nosso Senhor Jesus Cristo!
-De quando em vez, um toque de alerta faz sempre bem na defesa de nosso bem.
-Religião, em sinonímia legítima, define o culto dos nossos deveres para com Deus, religando as criaturas ao Criador. Por isso seitas religiosas, a rigor, são criações humanas, renováveis e perecíveis, como tudo aquilo que sai da experiência terrestre.
-Os egípcios, os gregos e os romanos estabeleceram agrupamentos dessa natureza, levantando santuários diferentes para a consagração de seus numes domésticos.
-Com Jesus Cristo, nosso Senhor, porém, não encontramos qualquer traço de fé sectarista. Visita-nos ele procurando nosso Pai celestial nas criaturas irmãs e conduzindo as criaturas irmãs à comunhão com o nosso Pai celestial.
-O templo do Mestre, em cuja intimidade oficiava, sublime, era o próprio coração humano, despertando as almas para a glória divina.
-Da manjedoura até a cruz, vemo-lo curando os enfermos, ensinando o caminho da purificação espiritual, reerguendo os caídos, consolando os tristes e aliviando a carga dos sofredores.
-Não se pode dizer que o Pastor excelso haja criado mais uma seita religiosa para ser adicionada às existentes, porque no seu exemplo estava a própria religião em si, como luz da vida eterna, religando a Terra ao Céu, a alma à sua divina origem. Aliás, foi ele mesmo quem asseverou que Deus é Espírito e importa que O adoremos em espírito e verdade.
-
-O Espiritismo, operando a renascença do pensamento do Cristo, não é também uma seita religiosa para ser incorporada às outras.
-Temos nele uma doutrina de consequências morais, apoiando-se sobre três bases distintas, que se constituem da religião, da filosofia e da ciência.
-Em seus círculos de trabalho, a filosofia indaga, a ciência experimenta e a religião ilumina.
-Possuímos em seus princípios o trabalho dos instrutores da humanidade, sob a bênção do nosso Senhor Jesus Cristo, tanto quanto nosso Senhor Jesus Cristo se encontrava sob a bênção do Pai, empreendendo a renovação das almas para Deus.
-Por essa razão
-é a chave de nossa libertação moral. Em suas páginas, como que por inspiração da Infinita Sabedoria, surgem as perguntas da inteligência humana com o pronunciamento da Espiritualidade Superior por intermédio de respostas adequadas ao anseio das criaturas.
-Não lidamos, portanto, com uma bandeira de proselitismo, mas sim com as responsabilidades de transportar conosco o pensamento de Jesus, configurado na interpretação de Allan Kardec, regenerando as nossas próprias almas diante das almas que nos assistem.
-Indispensável, desse modo, estejamos despertos para o Espiritismo vivido dentro de nós, antes de pregado por nossa boca, alertados para o impositivo da qualidade sem a insistência do número.
-Não ignoramos que, na Terra, todos os seres existem, mas somente o Espírito humano já chegou à razão sazonada com a obrigação de sobreviver segundo os ditames da consciência reta.
-Daí o ensinamento de nosso Senhor com a interpretação de Allan Kardec e todo o acervo de lições das Esferas sublimes, convocando-nos para o necessário ajustamento à lei divina, a fim de que o amor e a sabedoria se manifestem através de nós todos, encarnados e desencarnados, em favor da redenção terrestre.
-Estejamos, pois, no fiel desempenho de nossas funções, iluminando-nos para que possamos iluminar, porque apenas através da caridade de nosso dever bem cumprido é que estaremos em dia para a execução da verdadeira caridade.
+1 Meus amigos, louvado seja nosso Senhor Jesus Cristo!
+2 De quando em vez, um toque de alerta faz sempre bem na defesa de nosso bem.
+3 Religião, em sinonímia legítima, define o culto dos nossos deveres para com Deus, religando as criaturas ao Criador. Por isso seitas religiosas, a rigor, são criações humanas, renováveis e perecíveis, como tudo aquilo que sai da experiência terrestre.
+4 Os egípcios, os gregos e os romanos estabeleceram agrupamentos dessa natureza, levantando santuários diferentes para a consagração de seus numes domésticos. 5 Com Jesus Cristo, nosso Senhor, porém, não encontramos qualquer traço de fé sectarista. Visita-nos ele procurando nosso Pai celestial nas criaturas irmãs e conduzindo as criaturas irmãs à comunhão com o nosso Pai celestial.
+6 O templo do Mestre, em cuja intimidade oficiava, sublime, era o próprio coração humano, despertando as almas para a glória divina. 7 Da manjedoura até a cruz, vemo-lo curando os enfermos, ensinando o caminho da purificação espiritual, reerguendo os caídos, consolando os tristes e aliviando a carga dos sofredores.
+8 Não se pode dizer que o Pastor excelso haja criado mais uma seita religiosa para ser adicionada às existentes, porque no seu exemplo estava a própria religião em si, como luz da vida eterna, religando a Terra ao Céu, a alma à sua divina origem. Aliás, foi ele mesmo quem asseverou que Deus é Espírito e importa que O adoremos em espírito e verdade. ( † )
+9 O Espiritismo, operando a renascença do pensamento do Cristo, não é também uma seita religiosa para ser incorporada às outras. 10 Temos nele uma doutrina de consequências morais, apoiando-se sobre três bases distintas, que se constituem da religião, da filosofia e da ciência. 11 Em seus círculos de trabalho, a filosofia indaga, a ciência experimenta e a religião ilumina.
+12 Possuímos em seus princípios o trabalho dos instrutores da humanidade, sob a bênção do nosso Senhor Jesus Cristo, tanto quanto nosso Senhor Jesus Cristo se encontrava sob a bênção do Pai, empreendendo a renovação das almas para Deus. 13 Por essa razão O Livro dos Espíritos é a chave de nossa libertação moral. Em suas páginas, como que por inspiração da Infinita Sabedoria, surgem as perguntas da inteligência humana com o pronunciamento da Espiritualidade Superior por intermédio de respostas adequadas ao anseio das criaturas.
+14 Não lidamos, portanto, com uma bandeira de proselitismo, mas sim com as responsabilidades de transportar conosco o pensamento de Jesus, configurado na interpretação de Allan Kardec, regenerando as nossas próprias almas diante das almas que nos assistem. 15 Indispensável, desse modo, estejamos despertos para o Espiritismo vivido dentro de nós, antes de pregado por nossa boca, alertados para o impositivo da qualidade sem a insistência do número.
+16 Não ignoramos que, na Terra, todos os seres existem, mas somente o Espírito humano já chegou à razão sazonada com a obrigação de sobreviver segundo os ditames da consciência reta. 17 Daí o ensinamento de nosso Senhor com a interpretação de Allan Kardec e todo o acervo de lições das Esferas sublimes, convocando-nos para o necessário ajustamento à lei divina, a fim de que o amor e a sabedoria se manifestem através de nós todos, encarnados e desencarnados, em favor da redenção terrestre.
+18 Estejamos, pois, no fiel desempenho de nossas funções, iluminando-nos para que possamos iluminar, porque apenas através da caridade de nosso dever bem cumprido é que estaremos em dia para a execução da verdadeira caridade.
 
 ---
 
-## 53 — Na trilha do amor
+## 53
 
-> 53ª reunião | 31 de outubro de 1957
+> 53ª reunião | 31 de outubro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier Lucília Xavier Silva, Antônio Inácio de Melo, Edite Malaquias Xavier, Laura Nogueira Lima, Aderbal Nogueira Lima, Francisco Gonçalves, Waldemar Silva e João Cândido Xavier
 
 Paz e carinho — eis a forma do verdadeiro auxílio espiritual! É por isso que, muitas vezes, para buscá-la, estou junto de vocês, procurando a minha parcela de socorro às necessidades do coração. E enquanto isso meu Espírito se rejubila com os nossos banquetes de fraternidade todas as quintas-feiras!
 O amor, em verdade, é o símbolo da perfeição. O amor é o clima ideal da paz e do carinho a que nos reportamos, oferecendo a temperatura sentimental para o auxílio de que necessitamos para a viagem no rumo da Luz Universal.
-Agradeço-lhes, pois, o amparo de sempre e na felicidade de quem se vê sob a proteção divina ofereço-lhes, ainda, o ensinamento que ele, o Mestre sublime, nos legou: “Amai-vos uns aos outros como eu vos amei”.
-É nessa lição que está encerrada a vitória do amor, segundo o Evangelho. Agradeço-lhes, assim, mais uma vez, esperando possamos marchar para a frente, na certeza de que com o amor em Jesus teremos cada dia, no dever puro e sagrado, a vida sempre nova.
+Agradeço-lhes, pois, o amparo de sempre e na felicidade de quem se vê sob a proteção divina ofereço-lhes, ainda, o ensinamento que ele, o Mestre sublime, nos legou: “Amai-vos uns aos outros como eu vos amei”. ( † ) É nessa lição que está encerrada a vitória do amor, segundo o Evangelho. Agradeço-lhes, assim, mais uma vez, esperando possamos marchar para a frente, na certeza de que com o amor em Jesus teremos cada dia, no dever puro e sagrado, a vida sempre nova.
 
 ---
 
-## 54 — Em plena era nova
+## 54
 
-> 54ª reunião | 7 de novembro de 1957
+> 54ª reunião | 7 de novembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edite Malaquias Xavier, Aderbal Nogueira Lima,
 
-Meus amigos, busquemos, acima de tudo, a bênção do Senhor Jesus!
-De fato, a Terra vê-se à frente de uma era nova. Sacudida pelo alvião científico, sente-se a mente do mundo abalada nos alicerces. É o progresso em todas as direções, conclamando os homens ao despertamento espiritual para a vastidão soberana da vida.
-A navegação aérea atendeu ao problema dos transportes, conjugando o fantasma da fome por desterrá-lo do seio das nações. A radiofonia patrocina a expansão do pensamento rápido. A televisão modifica a face do mundo.
-À maneira dos últimos remanescentes do feudalismo, que foram abatidos no século passado pelos golpes da república, todo regionalismo está sendo, necessariamente, massacrado pelo impositivo da comunhão social mais profunda.
-Não precisamos acrescentar qualquer anotação tendente a criar novo anseio à expectação geral em torno dos últimos eventos que impressionaram a humanidade.
-O domínio do combustível, a evolução da física nuclear e a penetração no reino atômico estão conferindo ao homem novos poderes que, analisados no conjunto, compelem a reflexões muito graves, porque se o propósito da hegemonia política não foi devidamente controlado, criando-se, espontaneamente, mais ampla união da vida continental no planeta, o homem poderá, efetivamente, interferir no movimento pendular da Terra, determinando alterações de consequências imprevisíveis nas calotas polares.
-Entretanto, não devemos conduzir a imaginação para qualquer faixa obscura e pessimista. Entendamos na presente renovação do mundo mais alto apelo da Esfera Superior para que o campo da evolução terrestre se incorpore à vida cósmica.
-A humanidade está sendo chamada a raciocinar em termos de infinito no espaço e no tempo, e, nesta hora, sem dúvida, o Espiritismo é a força capaz de auxiliar as criaturas, a fim de que se desfaçam as cristalizações dogmáticas do caminho religioso, para que o pensamento do mundo, liberto de todos os cárceres e de todas fantasias, possa acompanhar a ciência em suas arrojadas iniciativas e a filosofia em suas imensas realizações sociológicas.
-Claro que necessitamos da máxima cautela no trato com semelhante assunto, porquanto, se o homem de hoje aspira o contato com habitantes de outros planetas, não podemos olvidar que seres de outros mundos são também todos os desencarnados, que, há mais de um século, estão convidando a atenção da Terra para a glória da vida na vida universal.
-Integrados, assim, no conhecimento e na prática de nossas responsabilidades, atendamos aos nossos deveres na condição de obreiros humildes do mundo novo, colaborando cada um de nós no círculo de ação que nos é peculiar para que a nossa Doutrina, com a bênção de Deus e ao sopro renovador do Evangelho de nosso Senhor Jesus Cristo, possa, com as balizas de Allan Kardec, amparar, tanto quanto possível, a mente surpreendida e desarvorada da multidão.
-Todos nos achamos à face de uma época destinada a modificações profundas, mas saudando-a com otimismo e formulando votos para que todos nos arregimentemos na obra de preservação mútua e de redenção recíproca nas linhas multifárias em que se nos desenvolve a existência, recordemos, para a nossa edificação, a palavra do Senhor Jesus — “Amai-vos uns aos outros como eu vos amei”
-—, para que o espírito de transformação não nos surpreenda acastelados no orgulho da raça e na vaidade regionalista.
-E lembremos, ainda, o ensinamento monumental de Allan Kardec — “Nascer, viver, morrer, renascer de novo e progredir sempre, tal é a lei”
-n
-—, para que o progresso inelutável nos encontre na posição de trabalhadores decididos e resolutos na construção do mundo melhor.
+1 Meus amigos, busquemos, acima de tudo, a bênção do Senhor Jesus!
+2 De fato, a Terra vê-se à frente de uma era nova. Sacudida pelo alvião científico, sente-se a mente do mundo abalada nos alicerces. É o progresso em todas as direções, conclamando os homens ao despertamento espiritual para a vastidão soberana da vida. 3 A navegação aérea atendeu ao problema dos transportes, conjugando o fantasma da fome por desterrá-lo do seio das nações. A radiofonia patrocina a expansão do pensamento rápido. A televisão modifica a face do mundo. 4 À maneira dos últimos remanescentes do feudalismo, que foram abatidos no século passado pelos golpes da república, todo regionalismo está sendo, necessariamente, massacrado pelo impositivo da comunhão social mais profunda.
+5 Não precisamos acrescentar qualquer anotação tendente a criar novo anseio à expectação geral em torno dos últimos eventos que impressionaram a humanidade. 6 O domínio do combustível, a evolução da física nuclear e a penetração no reino atômico estão conferindo ao homem novos poderes que, analisados no conjunto, compelem a reflexões muito graves, porque se o propósito da hegemonia política não foi devidamente controlado, criando-se, espontaneamente, mais ampla união da vida continental no planeta, o homem poderá, efetivamente, interferir no movimento pendular da Terra, determinando alterações de consequências imprevisíveis nas calotas polares.
+7 Entretanto, não devemos conduzir a imaginação para qualquer faixa obscura e pessimista. Entendamos na presente renovação do mundo mais alto apelo da Esfera Superior para que o campo da evolução terrestre se incorpore à vida cósmica.
+8 A humanidade está sendo chamada a raciocinar em termos de infinito no espaço e no tempo, e, nesta hora, sem dúvida, o Espiritismo é a força capaz de auxiliar as criaturas, a fim de que se desfaçam as cristalizações dogmáticas do caminho religioso, para que o pensamento do mundo, liberto de todos os cárceres e de todas fantasias, possa acompanhar a ciência em suas arrojadas iniciativas e a filosofia em suas imensas realizações sociológicas.
+9 Claro que necessitamos da máxima cautela no trato com semelhante assunto, porquanto, se o homem de hoje aspira o contato com habitantes de outros planetas, não podemos olvidar que seres de outros mundos são também todos os desencarnados, que, há mais de um século, estão convidando a atenção da Terra para a glória da vida na vida universal.
+10 Integrados, assim, no conhecimento e na prática de nossas responsabilidades, atendamos aos nossos deveres na condição de obreiros humildes do mundo novo, colaborando cada um de nós no círculo de ação que nos é peculiar para que a nossa Doutrina, com a bênção de Deus e ao sopro renovador do Evangelho de nosso Senhor Jesus Cristo, possa, com as balizas de Allan Kardec, amparar, tanto quanto possível, a mente surpreendida e desarvorada da multidão.
+11 Todos nos achamos à face de uma época destinada a modificações profundas, mas saudando-a com otimismo e formulando votos para que todos nos arregimentemos na obra de preservação mútua e de redenção recíproca nas linhas multifárias em que se nos desenvolve a existência, recordemos, para a nossa edificação, a palavra do Senhor Jesus — “Amai-vos uns aos outros como eu vos amei”, ( † ) — para que o espírito de transformação não nos surpreenda acastelados no orgulho da raça e na vaidade regionalista. 12 E lembremos, ainda, o ensinamento monumental de Allan Kardec — “Nascer, viver, morrer, renascer de novo e progredir sempre, tal é a lei”, n — para que o progresso inelutável nos encontre na posição de trabalhadores decididos e resolutos na construção do mundo melhor.
 
 ---
 
-## 55 — Jovem desencarnado
+## 55
 
-> 55ª reunião | 14 de novembro de 1957
+> 55ª reunião | 14 de novembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier,
 
 Boa noite, meus queridos irmãos!
 Venho, pela Misericórdia Divina, trazer-vos o meu coração. Era ainda bastante jovem quando Jesus me chamou ao ajuste da morte. E como acontece a milhares de criaturas juvenis, a melhor parte da vida não era o caminho de meu ideal.
@@ -1571,17 +1101,19 @@ Jesus nos proteja com a paz. É o meu desejo.
 
 ---
 
-## 56 — Oração
+## 56
 
-> 56ª reunião | 21 de novembro de 1957
+> 56ª reunião | 21 de novembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Áurea Gonçalves, Aderbal Nogueira Lima,
 
 Pai de amor e de sabedoria, dai-nos o amor que ainda não sentimos dentro do nosso coração. Pai, conduze-nos à oficina do bem, dando-nos a força de que necessitamos para auxiliar aos que sofrem mais do que nós mesmos. Pai, dai-nos o conforto de que carecemos contra o desânimo. Pai, dai-nos ainda a verdadeira capacidade de amar. Sabemos que todos os dias temos novas lições no mundo para nosso aproveitamento, mas ainda somos Espíritos em sombra, sem a precisa disposição de aprender. Por isso, Pai de amor, dai-nos aquilo de que necessitamos, segundo a Tua vontade, em favor de nossa paz, a fim de que estejamos armados por Tua proteção infinita na luta contra nós mesmos! Faço esta prece, Senhor, rogando a libertação para nós todos, Tuas criaturas e Teus filhos, para que estejamos no aprendizado do verdadeiro amor com Tua bênção!
 
 ---
 
-## 57 — Paz
+## 57
 
-> 57ª reunião | 28 de novembro de 1957
+> 57ª reunião | 28 de novembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Lucília Xavier Silva,
 
 Paz é a bendita prece que Jesus nos ensina, todos os dias, inspirando-nos ao dever retamente cumprido!
 Paz é a mão invisível de Deus a revelar-se no contínuo aprimoramento da natureza!
@@ -1591,72 +1123,43 @@ Que Jesus nos abençoe.
 
 ---
 
-## 58 — Pagamento
+## 58
 
-> 58ª reunião | 5 de dezembro de 1957
-> — n
+> 58ª reunião | 5 de dezembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edite Malaquias Xavier, Álvaro de tal…, n
 
-Infelizes todos aqueles que trazem, cravado no coração, o espinho da culpa!
-Por mais procurem entorpecer a consciência no ruído das festividades mundanas mais se lhes afunda no peito o grilhão do remorso, e por mais se elevem às culminâncias da galeria social mais se sentem amesquinhados no íntimo de si mesmos!
-Riqueza e consideração pública não lhes sanam as chagas imanifestas. Proteção e favor não lhes atenuam a insegurança. Para eles, a luz do sol é uma acusação permanente e a sombra noturna é um grito inarticulado de dor, que lhes agrava a solidão. Sorriem por fora, suportando por dentro amarguras inomináveis. Muitas vezes, exibem nas mãos títulos dourados que a sociedade reverencia, mas no imo da própria alma carregam consigo um inferno de maldição!
-Sou um Espírito assim, desditoso e atribulado, que, trazido ao vosso recinto por veneráveis benfeitores, se vos abre aos ouvidos à maneira do enfermo diante do médico generoso, ou à feição do crente perante o sacerdote.
-Era eu jovem médico, atormentado pela vaidade e pela ambição. O ouro fácil dominava-me o pensamento. Enriquecer-me a qualquer preço era o meu objetivo fundamental. Por morte da minha mãe, a herança de nossa casa era realmente vultosa e por que meu pai não se compadecesse com a ausência dela, seguindo-lhe os passos na direção do sepulcro, só me restou para compartilhar a fortuna minha pobre irmã, Amália Maria, que, em seus vinte e três anos primaveris, era noiva de um rapaz futuroso e correto.
-Não me resignei, todavia, com a ideia da divisão dos nossos haveres, demasiadamente expressivos em joias, dinheiro amoedado e vasta propriedade imobiliária. Imaginei a melhor maneira de desfazer-me da adorável criatura, que confiava em mim como a única pessoa capaz de garantir-lhe a felicidade.
-Prevaleci-me de leve surto gripal para começar minha obra nefasta, administrando-lhe, pouco a pouco, os anestésicos que lhe abalariam para sempre a saúde física. Gradativamente, tisnei-lhe a lucidez mental. Dia a dia, confundi-lhe o cérebro, tentando afastar o interesse do moço que lhe disputava a mão de mulher nobre e digna.
-Perdoai-me o luxo de minudências em minha confissão, entretanto, o criminoso precisa vasculhar todos os escaninhos da memória para desvencilhar-se do excesso de horror a si mesmo.
-Quando minha irmã passou a revelar a condição de uma alienada mental perfeita, conduzi-a a exame de velho amigo, professor distinto, cuja cooperação indireta eu desejava no acabamento de minha obra funesta. Através de entendimento particular, falei-lhe de convulsões epileptoides inexistentes, referindo-me a sintomas que apenas surgiam no quadro de minha imaginação perversa.
-Meu professor e colega entregou-se a detido exame da paciente e concordamos em que apreciávamos juntos um traumatismo encéfalo-craniano de alto calibre. Afastada minha irmã de nossa conversação, fiz-me solene, aventando a suspeita de uma hemorragia epidural.
-O amigo eminente meneou a cabeça, considerando que o meu diagnóstico era demasiado precoce, contudo, aquiesceu à minha insistência, no sentido de promovermos a ablação do cérebro para pesquisas naturais. Por minha própria iniciativa, minha irmã, sem enfermidade alguma, foi conduzida ao serviço cirúrgico, submetendo-se, inerme, à trepanação de sondagem. A craniotomia, entretanto, nada indicou de grave, porque a região avascular não demonstrava irregularidade alguma e o percurso da aca não sofria qualquer alteração.
-Consciente de suas responsabilidades, o distinto operador interrompeu o trabalho e pediu-me tempo para uma conclusão satisfatória. Entregue, porém, aos meus cuidados no hospital, tomei a meu cargo a alimentação da enferma em convalencência para suprimir todos os recursos vitalizantes que lhe pudessem devolver o equilíbrio. E prevalecendo-me de sua fraqueza progressiva apliquei-lhe entorpecentes de significativa expressão, que, ao fim de quarenta dias, lhe impuseram a morte.
-Agora não havia qualquer entrave à realização de meus desejos. Afastada minha irmã do cenário físico, eu, que era materialista confesso, senhoreei a fortuna de nossa casa, esbanjando-a a meu modo, não obstante conservar significativo patrimônio para o futuro casamento que eu pretendia realizar. Entretanto, a sombra de minha irmã acompanhava-me os passos. Via-lhe o rosto em cada cliente que se valia de minha cooperação. Ideava-lhe o corpo em cada enfermo prostrado no gabinete de cirurgia.
-Se gastava alguma soma importante, lembrava-me dela, que devia partilhar comigo o dinheiro de nosso nome e assim, com o tempo, senti-me, igualmente, conturbado, até que em certa noite, justamente ao abeirar-me do matrimônio, sequioso de renovação e de alívio, quando conduzia meu carro, a sós, senti falhar-me a atenção, sofrendo um desastre de largas consequências. Esbarrando violentamente num poste, entrei, de imediato, em choque comatoso, sendo transportado para o mesmo hospital onde minha irmãzinha fora indevidamente internada para sofrer.
-Chamado o mesmo professor, de cuja confiança me utilizara para a consumação do meu crime, determinou ele, sem intenção, fosse eu conduzido para o mesmo aposento e para o mesmo leito em que Amália Maria encontrara a morte. Submetido a exame, verificou meu amigo, junto de outros colegas, que eu era vítima de hemorragia progressiva causada pela rotura de pequenos seios venosos que acompanham as artérias meníngeas, exigindo trepanação imediata para a sondagem precisa.
-Em verdade, fui operado com extremoso carinho. Em verdade, agora apenas a vida vegetativa ocupava-me o corpo, todavia, minh’alma respirava, desperta… Meu cérebro espiritual enlaçava-se-me ao cérebro físico, que não mais podia pensar e, através dele, ouvia a voz de minha irmã a perguntar-me pelo amor que eu lhe protestava cada dia, pela afeição de nossa meninice, pelo carinho de nossa infância, pela confiança de nossos pais… As lágrimas dela, como orvalho morno, caíam sobre mim, enquanto meus amigos, a se revezarem, circunspectos, aguardavam-me, em vão, o despertar.
-Foi assim que eu também, entorpecido sem usar entorpecentes, durante quarenta dias consecutivos, experimentei a mesma flagelação que impusera à minha vítima, para desencarnar nas mesmas circunstâncias e encontrar os meus débitos, como havia deixado antes do berço, com agravantes dolorosos, porquanto minha irmã esperava-me os braços para tornar à Terra e refazer-se.
-Entre nós, porém, temos hoje o meu remorso tardio e a considerável perda de tempo, que tudo faço para sanar, amenizando as dívidas que me oneram o Espírito desditoso. É por isso que em me comunicando convosco trago-vos o fel da minha lição, solicitando a vossa prece em meu benefício e rematando as minhas palavras com um apelo a todos aqueles que se sentem fascinados pelo demônio do ouro, para que recuem no caminho da delinquência, para que não se atrevam à apropriação indébita, porque a vida continua como vida, além da morte, de nada valendo para nós a fuga dos tribunais humanos, de vez que todos caímos, quando culpados, nas engrenagens da Justiça Perfeita, que nos cobra, em favor de nossa própria felicidade, o pagamento de nossas dívidas, palmo a palmo e vintém a vintém.
+1 Infelizes todos aqueles que trazem, cravado no coração, o espinho da culpa!
+2 Por mais procurem entorpecer a consciência no ruído das festividades mundanas mais se lhes afunda no peito o grilhão do remorso, e por mais se elevem às culminâncias da galeria social mais se sentem amesquinhados no íntimo de si mesmos!
+3 Riqueza e consideração pública não lhes sanam as chagas imanifestas. Proteção e favor não lhes atenuam a insegurança. Para eles, a luz do sol é uma acusação permanente e a sombra noturna é um grito inarticulado de dor, que lhes agrava a solidão. Sorriem por fora, suportando por dentro amarguras inomináveis. Muitas vezes, exibem nas mãos títulos dourados que a sociedade reverencia, mas no imo da própria alma carregam consigo um inferno de maldição!
+4 Sou um Espírito assim, desditoso e atribulado, que, trazido ao vosso recinto por veneráveis benfeitores, se vos abre aos ouvidos à maneira do enfermo diante do médico generoso, ou à feição do crente perante o sacerdote.
+5 Era eu jovem médico, atormentado pela vaidade e pela ambição. O ouro fácil dominava-me o pensamento. Enriquecer-me a qualquer preço era o meu objetivo fundamental. Por morte da minha mãe, a herança de nossa casa era realmente vultosa e por que meu pai não se compadecesse com a ausência dela, seguindo-lhe os passos na direção do sepulcro, só me restou para compartilhar a fortuna minha pobre irmã, Amália Maria, que, em seus vinte e três anos primaveris, era noiva de um rapaz futuroso e correto.
+6 Não me resignei, todavia, com a ideia da divisão dos nossos haveres, demasiadamente expressivos em joias, dinheiro amoedado e vasta propriedade imobiliária. Imaginei a melhor maneira de desfazer-me da adorável criatura, que confiava em mim como a única pessoa capaz de garantir-lhe a felicidade.
+7 Prevaleci-me de leve surto gripal para começar minha obra nefasta, administrando-lhe, pouco a pouco, os anestésicos que lhe abalariam para sempre a saúde física. Gradativamente, tisnei-lhe a lucidez mental. Dia a dia, confundi-lhe o cérebro, tentando afastar o interesse do moço que lhe disputava a mão de mulher nobre e digna.
+8 Perdoai-me o luxo de minudências em minha confissão, entretanto, o criminoso precisa vasculhar todos os escaninhos da memória para desvencilhar-se do excesso de horror a si mesmo.
+9 Quando minha irmã passou a revelar a condição de uma alienada mental perfeita, conduzi-a a exame de velho amigo, professor distinto, cuja cooperação indireta eu desejava no acabamento de minha obra funesta. Através de entendimento particular, falei-lhe de convulsões epileptoides inexistentes, referindo-me a sintomas que apenas surgiam no quadro de minha imaginação perversa.
+10 Meu professor e colega entregou-se a detido exame da paciente e concordamos em que apreciávamos juntos um traumatismo encéfalo-craniano de alto calibre. Afastada minha irmã de nossa conversação, fiz-me solene, aventando a suspeita de uma hemorragia epidural. 11 O amigo eminente meneou a cabeça, considerando que o meu diagnóstico era demasiado precoce, contudo, aquiesceu à minha insistência, no sentido de promovermos a ablação do cérebro para pesquisas naturais. Por minha própria iniciativa, minha irmã, sem enfermidade alguma, foi conduzida ao serviço cirúrgico, submetendo-se, inerme, à trepanação de sondagem. A craniotomia, entretanto, nada indicou de grave, porque a região avascular não demonstrava irregularidade alguma e o percurso da aca não sofria qualquer alteração.
+12 Consciente de suas responsabilidades, o distinto operador interrompeu o trabalho e pediu-me tempo para uma conclusão satisfatória. Entregue, porém, aos meus cuidados no hospital, tomei a meu cargo a alimentação da enferma em convalencência para suprimir todos os recursos vitalizantes que lhe pudessem devolver o equilíbrio. E prevalecendo-me de sua fraqueza progressiva apliquei-lhe entorpecentes de significativa expressão, que, ao fim de quarenta dias, lhe impuseram a morte.
+13 Agora não havia qualquer entrave à realização de meus desejos. Afastada minha irmã do cenário físico, eu, que era materialista confesso, senhoreei a fortuna de nossa casa, esbanjando-a a meu modo, não obstante conservar significativo patrimônio para o futuro casamento que eu pretendia realizar. Entretanto, a sombra de minha irmã acompanhava-me os passos. Via-lhe o rosto em cada cliente que se valia de minha cooperação. Ideava-lhe o corpo em cada enfermo prostrado no gabinete de cirurgia. 14 Se gastava alguma soma importante, lembrava-me dela, que devia partilhar comigo o dinheiro de nosso nome e assim, com o tempo, senti-me, igualmente, conturbado, até que em certa noite, justamente ao abeirar-me do matrimônio, sequioso de renovação e de alívio, quando conduzia meu carro, a sós, senti falhar-me a atenção, sofrendo um desastre de largas consequências. Esbarrando violentamente num poste, entrei, de imediato, em choque comatoso, sendo transportado para o mesmo hospital onde minha irmãzinha fora indevidamente internada para sofrer.
+15 Chamado o mesmo professor, de cuja confiança me utilizara para a consumação do meu crime, determinou ele, sem intenção, fosse eu conduzido para o mesmo aposento e para o mesmo leito em que Amália Maria encontrara a morte. Submetido a exame, verificou meu amigo, junto de outros colegas, que eu era vítima de hemorragia progressiva causada pela rotura de pequenos seios venosos que acompanham as artérias meníngeas, exigindo trepanação imediata para a sondagem precisa.
+16 Em verdade, fui operado com extremoso carinho. Em verdade, agora apenas a vida vegetativa ocupava-me o corpo, todavia, minh’alma respirava, desperta… Meu cérebro espiritual enlaçava-se-me ao cérebro físico, que não mais podia pensar e, através dele, ouvia a voz de minha irmã a perguntar-me pelo amor que eu lhe protestava cada dia, pela afeição de nossa meninice, pelo carinho de nossa infância, pela confiança de nossos pais… As lágrimas dela, como orvalho morno, caíam sobre mim, enquanto meus amigos, a se revezarem, circunspectos, aguardavam-me, em vão, o despertar.
+17 Foi assim que eu também, entorpecido sem usar entorpecentes, durante quarenta dias consecutivos, experimentei a mesma flagelação que impusera à minha vítima, para desencarnar nas mesmas circunstâncias e encontrar os meus débitos, como havia deixado antes do berço, com agravantes dolorosos, porquanto minha irmã esperava-me os braços para tornar à Terra e refazer-se.
+18 Entre nós, porém, temos hoje o meu remorso tardio e a considerável perda de tempo, que tudo faço para sanar, amenizando as dívidas que me oneram o Espírito desditoso. É por isso que em me comunicando convosco trago-vos o fel da minha lição, solicitando a vossa prece em meu benefício e rematando as minhas palavras com um apelo a todos aqueles que se sentem fascinados pelo demônio do ouro, para que recuem no caminho da delinquência, para que não se atrevam à apropriação indébita, porque a vida continua como vida, além da morte, de nada valendo para nós a fuga dos tribunais humanos, de vez que todos caímos, quando culpados, nas engrenagens da Justiça Perfeita, que nos cobra, em favor de nossa própria felicidade, o pagamento de nossas dívidas, palmo a palmo e vintém a vintém.
 
 ---
 
-## 59 — Em louvor à humildade
+## 59
 
-> 59ª reunião | 12 de dezembro de 1957
+> 59ª reunião | 12 de dezembro de 1957.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edite Malaquias Xavier, Aderbal Nogueira Lima, Zínia Orsine Pereira,
 
-Recordando o Natal,
-Enriqueça de paz e de contentamento
-O lar em que te encontras.
-Toda a alegria honesta é sempre bela e pura.
-Alonga as mãos fraternas
-No presente de amor às afeições queridas.
-A amizade sem sombra é um tesouro sublime.
-Cede as sobras da mesa aos filhos do infortúnio
-Espalhando consolo,
-Que toda caridade é sempre grande e santa.
-Rende louvor ao Céu,
-Canta, abençoa e vive
-Orando, alegremente!
-A fé, por toda parte, é milagroso pão.
-Não olvides, porém, que Jesus, o Senhor,
-Antes do regozijo,
-Nas bodas de Caná,
-Antes do afeto extremo
-Aos amigos do Lago,
-Antes do auxílio justo
-Aos doentes e aos tristes,
-E antes mesmo da prece,
-Em momentos supremos,
-Buscando a manjedoura, por refúgio divino,
-Ensinou que a humildade
-É a base da esperança,
-A força do trabalho
-E o selo da vitória
-Na ascensão para a Luz.
+1 Recordando o Natal, Enriqueça de paz e de contentamento O lar em que te encontras. Toda a alegria honesta é sempre bela e pura. 2 Alonga as mãos fraternas No presente de amor às afeições queridas. A amizade sem sombra é um tesouro sublime. 3 Cede as sobras da mesa aos filhos do infortúnio Espalhando consolo, Que toda caridade é sempre grande e santa. 4 Rende louvor ao Céu, Canta, abençoa e vive Orando, alegremente! A fé, por toda parte, é milagroso pão. 5 Não olvides, porém, que Jesus, o Senhor, Antes do regozijo, Nas bodas de Caná, Antes do afeto extremo Aos amigos do Lago, Antes do auxílio justo Aos doentes e aos tristes, E antes mesmo da prece, Em momentos supremos, Buscando a manjedoura, por refúgio divino, Ensinou que a humildade É a base da esperança, A força do trabalho E o selo da vitória Na ascensão para a Luz.
 
 ---
 
-## 60 — Um sofredor
+## 61
 
-> 60ª reunião
-> — n
+> 61ª reunião
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Geraldo Benício Rocha, Antônio Inácio de Melo, Edite Malaquias Xavier, Aderbal Nogueira Lima,, n
 
 Vocês não podem fazer ideia do que seja um Espírito mergulhado em escuridão enorme, sem saber, ao certo, se se não enxerga é por que está escuro ou por que está mesmo cego.
 Sentir-se mergulhado numa atmosfera de remorso e de intranquilidade, sabendo que é culpado, reviver dia a dia, minuto a minuto o seu crime, sentindo a extinção das suas forças sem saber se o seu martírio durará eternamente é tão duro e cruel que estremeço só ao me recordar dessa tortura que me alimentou por mais de 69 anos.
@@ -1669,10 +1172,10 @@ Só peço agora, e espero que Deus me dê outra encarnação para que eu possa e
 
 ---
 
-## 61 — Em louvor à Natureza
+## 62
 
-> 61ª reunião | 16 de janeiro de 1958
-> — n
+> 62ª reunião | 16 de janeiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Laura Nogueira Lima, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, António Inácio de Melo, Ursulina de tal,, n
 
 Meus amigos, estudioso como fui sempre das ciências naturais, passo aqui hoje, não como mestre, mas como amigo, procurando incentivar naqueles cujos Espíritos estão ainda aferrados ao sentimento da vaidade e do orgulho a necessidade que temos de estudar e compreender Deus através da natureza, neste livro sagrado que Ele nos legou para nosso próprio reconforto.
 Quando aí na Terra, sempre que o desalento me batia às portas do coração, eu volvia o meu pensamento para a tranquilidade, a lição e o equilíbrio que o homem pode encontrar dentro de si mesmo, na função fisiológica do seu próprio organismo e fora de si, através da natureza. Era ela para a minha alma um livro aberto e eu a admirava na sua simplicidade sem par.
@@ -1684,9 +1187,10 @@ Um amigo,
 
 ---
 
-## 62 — Amigo de regresso
+## 63
 
-> 62ª reunião | 25 de janeiro de 1958
+> 63ª reunião | 25 de janeiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Edite Malaquias Xavier, Neuza Rocha, Aderbal Nogueira Lima,
 
 Meus novos amigos, se assim me externo é devido a uma grande surpresa que encontrei em vocês e nesta casa, na minha penúltima visita. Essa surpresa é a da amizade desinteressada, coisa em que jamais acreditei.
 Nas duas primeiras vezes em que por aqui passei, julguei vocês todos meus adversários. Só via traição por onde passava e voltei mais rebelado ainda, mas agora compreendo que errei e errei muito. Vocês só visavam a minha tranquilidade. Acontece que quando temos uma ideia fixa dentro do coração, ela nos invade todo o ser e se cristaliza de tal forma que passamos a ver inimigos naqueles que pensam diferente de nós.
@@ -1697,9 +1201,10 @@ Que Deus me ampare e me torne um paralítico, um cego e um mudo, para que a revo
 
 ---
 
-## 63 — Penitência
+## 64
 
-> 63ª reunião | 30 de janeiro de 1958
+> 64ª reunião | 30 de janeiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Laura Nogueira Lima, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Edite Malaquias Xavier, Maria da Cruz, Neuza Rocha, Aderbal Nogueira Lima,
 
 Deveria usar outra saudação, mas é tão profunda a emoção, a consternação que me envolve neste momento é tamanha, que não tenho coragem de usar as expressões usuais próprias, que há algum tempo, também como espírita, usei.
 Dizia-me espírita através de dezenas, de centenas, de milênios mesmo. Tenho lutado pela aceitação do Evangelho e a bondade do Senhor me concedeu na última jornada o quanto lhe pedi para que pudesse, no seu santo nome, resgatar com amor, com carinho, com dedicação de profissional da medicina quanto de sofrimento eu havia infringido por sua causa àqueles que aceitavam a sua doutrina, a consolação da sua palavra, a exortação de sua fé.
@@ -1718,9 +1223,10 @@ Eu sou o Waldemar de Freitas. Deus conosco!
 
 ---
 
-## 64 — Sacerdote amigo
+## 65
 
-> 64ª reunião | 6 de fevereiro de 1958
+> 65ª reunião | 6 de fevereiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Gil de Lima, Laura Nogueira Lima, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Edite Malaquias Xavier, Eunice Cerqueira, Neuza Rocha, Aderbal Nogueira Lima,
 
 Eu ia para Santa Rosa a meditar na morte e tinha medo, tinha muito medo mesmo! Eu cria que havia de morrer, que eu havia de ficar debaixo da terra, então eu via lá aquela laje muito grande que todos os padres ali do convento tinham que ficar debaixo dela.
 Eu ficava nervoso, rezava, rezava, rezava, e não tinha um momento de alegria mais! Eu fiquei como doido e morri mesmo, e quando acordei, no meio de tanto caixão, de tanto esqueleto, de tanto homem que me chamava “Padre!… Padre!… Padre!…”, meditei: eu estou doido, pois estou ouvindo, não morri! E fiquei apavorado! Acordei gritando, lá na outra casa, quase há cinco anos. Eu estava doido!…
@@ -1735,9 +1241,10 @@ O Evangelho de nosso Senhor Jesus Cristo é fraternidade, hospitalidade, que re�
 
 ---
 
-## 65 — Recomeço
+## 66
 
-> 65ª reunião | 13 de fevereiro de 1958
+> 66ª reunião | 13 de fevereiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Laura Nogueira Lima, Gil de Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Edite Malaquias Xavier, Neuza Rocha, Aderbal Nogueira Lima,
 
 Meus amigos, cheio de fé e de alegria, que a minha voz se erga em uníssono na vossa para louvarmos a Jesus pelo entendimento nascido em vosso coração, pelo vosso esforço em conjunto de há muito, apesar das épocas diferentes, para interpretarmos o seu Evangelho, para contribuirmos, de algum modo, na sementeira da evangelização aos nossos irmãos na Terra e no Espaço.
 Militante, como vós, fui no Espiritismo, entretanto, sem ser uma alma infeliz, e sem ser também um luminar do Espaço, venho, através de muitos anos, lutando, trabalhando para corrigir as falhas do meu proceder na última vida. Mas louvo ao Senhor, porque o entendimento não me falhou! O seu conselho me guiou em todas as horas e eu pude, de coração aos seus pés e de joelhos, muita vez, diante dos meus inimigos, diante daqueles que eu ofendi, diante daqueles que eu soube desrespeitar, soube ofender e apezinhar noutras épocas, pude, desta vez, de joelhos, lhes suplicar perdão e muitas vezes, graças ao entendimento que o Senhor nos concede, pude encaminhá-los e vós muito me valestes nesse particular.
@@ -1754,26 +1261,26 @@ A todos, muita paz, muita bênção e muita luz do Senhor!
 
 ---
 
-## 66 — Esperança, paciência e oração
+## 67
 
-> 66ª reunião | 20 de fevereiro de 1958
+> 67ª reunião | 20 de fevereiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Santinônimo Vieira, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho, Nélio Cerqueira, Antônio Inácio de Melo, Aderbal Nogueira Lima,
 
-Meus amigos, louvado seja nosso Senhor Jesus Cristo! Descerrando as páginas do Livro da Vida, encontraremos na epístola do apóstolo
-Paulo aos romanos
-, no capítulo número 12, versículo número 12, a sábia advertência: “Alegrai-vos na esperança, sede pacientes na dor e perseverai na oração”.
-Todos no mundo esperam algo, mas sem alegria na esperança muitos se transviam. Todos sofrem algo, mas sem paciência na dor muitos se desesperam. Todos desejam algo, mas sem persistência na oração muitos se desanimam.
-Abatimento moral, desespero do coração, intemperança na alma — três flagelos que tentam as criaturas humanas cada dia em sua peregrinação para a eternidade.
-Todos nós, encarnados e desencarnados, fora dos liames do indumento físico, ou jungidos ainda a ele, necessitamos da esperança, da paciência e da prece à feição de alimento invisível que nos garanta a limpidez de consciência, a tranquilidade mental e o estímulo ao trabalho, como quem sabe que todos os patrimônios da vida pertencem a Deus, nosso Pai Celestial.
-E não vos enganeis quanto à necessidade de conservardes no campo da carne semelhante depósito, se não desejais o assalto de surpresa daquelas forças que nós próprios atraímos com os débitos de nosso passado multimilenário, forças que nos ensombram o caminho, porque tecidas na treva de nossos próprios erros, que nos identificam onde quer que estejamos, porque se enraízam no solo mesmo da nossa própria mente denegrida por gravames que ainda não podemos inventariar e que nos buscam como buscamos, outrora, os próprios motivos de nossas culpas.
-Esperança contente, paciência incansável, coração persistente!… Remédio ao alcance de todas as consciências, medicamentos fornecidos gratuitamente pela farmacopeia celestial, recursos que a medicina da eternidade espalha, a mãos cheias, em benefício de todos nós!…
-Entretanto, para esperar com alegria, para guardarmos o tesouro da paciência e para orarmos quando a tempestade se faz devastadora, é necessário que o nosso Espírito esteja vigilante, usando o leme da própria vontade, a fim de que não venhamos a perder os nossos próprios valores ante as forças sombrias que nós mesmos desencadeamos sobre nós.
-Meus amigos, não há maior mensagem para a noite de hoje! Não há palavras mais sábias, aviso mais sublime, carta mais confortadora! É por isso que nos despedimos rogando ao nosso Senhor Jesus Cristo nos conserve em sua bendita paz!
+1 Meus amigos, louvado seja nosso Senhor Jesus Cristo! Descerrando as páginas do Livro da Vida, encontraremos na epístola do apóstolo Paulo aos romanos, no capítulo número 12, versículo número 12, a sábia advertência: “Alegrai-vos na esperança, sede pacientes na dor e perseverai na oração”.
+2 Todos no mundo esperam algo, mas sem alegria na esperança muitos se transviam. Todos sofrem algo, mas sem paciência na dor muitos se desesperam. Todos desejam algo, mas sem persistência na oração muitos se desanimam.
+3 Abatimento moral, desespero do coração, intemperança na alma — três flagelos que tentam as criaturas humanas cada dia em sua peregrinação para a eternidade.
+4 Todos nós, encarnados e desencarnados, fora dos liames do indumento físico, ou jungidos ainda a ele, necessitamos da esperança, da paciência e da prece à feição de alimento invisível que nos garanta a limpidez de consciência, a tranquilidade mental e o estímulo ao trabalho, como quem sabe que todos os patrimônios da vida pertencem a Deus, nosso Pai Celestial.
+5 E não vos enganeis quanto à necessidade de conservardes no campo da carne semelhante depósito, se não desejais o assalto de surpresa daquelas forças que nós próprios atraímos com os débitos de nosso passado multimilenário, forças que nos ensombram o caminho, porque tecidas na treva de nossos próprios erros, que nos identificam onde quer que estejamos, porque se enraízam no solo mesmo da nossa própria mente denegrida por gravames que ainda não podemos inventariar e que nos buscam como buscamos, outrora, os próprios motivos de nossas culpas.
+6 Esperança contente, paciência incansável, coração persistente!… Remédio ao alcance de todas as consciências, medicamentos fornecidos gratuitamente pela farmacopeia celestial, recursos que a medicina da eternidade espalha, a mãos cheias, em benefício de todos nós!…
+7 Entretanto, para esperar com alegria, para guardarmos o tesouro da paciência e para orarmos quando a tempestade se faz devastadora, é necessário que o nosso Espírito esteja vigilante, usando o leme da própria vontade, a fim de que não venhamos a perder os nossos próprios valores ante as forças sombrias que nós mesmos desencadeamos sobre nós.
+8 Meus amigos, não há maior mensagem para a noite de hoje! Não há palavras mais sábias, aviso mais sublime, carta mais confortadora! É por isso que nos despedimos rogando ao nosso Senhor Jesus Cristo nos conserve em sua bendita paz!
 
 ---
 
-## 67 — Preleção educativa
+## 68
 
-> 67ª reunião | 27 de fevereiro de 1958
+> 68ª reunião | 27 de fevereiro de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Louvado seja nosso Senhor Jesus Cristo!
 A morte surpreendeu-me em minha terra natal, não obstante não ser moço, mas ainda cheio de anelos.
@@ -1782,17 +1289,14 @@ Confundia-me essas manifestações, porque não compreendia que houvesse morrido
 Sentia dores, chorava, sentia que choravam por mim; me dirigia a todos e ninguém me reconhecia, ninguém me falava, então meu corpo enregelado desceu para a terra.
 Enlouqueci e saí como um doente, gritando por socorro, misericórdia, Senhor, e caí de joelhos no velho adro da Matriz.
 Orei com as forças e a fé de um cristão.
-As portas se abriram novamente, de par em par, e cantei um
-
-pomposo, com músicas, com orquestra dirigida por velhos músicos que me receberam, e alguém me sussurrou que eu estava no Céu.
+As portas se abriram novamente, de par em par, e cantei um Te Deum † pomposo, com músicas, com orquestra dirigida por velhos músicos que me receberam, e alguém me sussurrou que eu estava no Céu.
 O ambiente festivo, sagrado, o respeito por aquela religião que eu embalara a alma durante toda a vida tranquilizou-me um pouco e permanecemos, assim, vários dias. No entanto, o coração da esposa e dos filhos, as lágrimas, a voz dos amigos por intermédio de preces pedindo que o Senhor me conservasse no Céu, me perturbavam como vento sacudindo a árvore no meio do campo. E pude fugir àquelas cerimônias, apesar de respeitáveis, mas extremamente pomposas, que não satisfaziam a minha alma inquieta, porque eu desejava consolação, eu desejava entendimento na minha situação como homem, como morto, como criatura, e não podia ver, sobretudo, a minha escola, os meus alunos dispersos, e nessa preocupação orei novamente.
 Então um magneto poderoso atraiu-me a cidades desconhecidas. Passei novamente a ver discípulos que não mais me preocupava com eles.
 Fui levado a uma assembleia semelhante a esta e vi, então, que a nova geração tinha conhecimentos que eu nunca supus. A alma não estava condenada aos Céus, ao Inferno, ao Purgatório. Havia uma sequência maravilhosa de vida exuberante de inteligência, de amor, de progresso, de entusiasmo em torno de tudo e de todas as coisas! E com alegria eu vi que eu fazia parte dos seres vivos e inteligentes da vida! Eu não era o fantoche, a alma inanimada, metamorfoseada no meio de uma igreja secular. Bela, respeitável embora, mas que não sentia as dores mesmo daqueles que eram fibra do meu próprio coração, daqueles que eram o sangue do meu sangue, daqueles que vibravam entrelaçados e harmoniosamente com a minha alma!…
 Espantou-me, surpreendeu-me, que nessas assembleias respeitáveis clérigos nelas tomassem parte: D. Joaquim, D. Silvério, padre Caldeira e vários e respeitáveis amigos, juízes, militares, advogados, médicos, religiosas e velhos mestres de escola!
 Aquela força continuava como que balouçando, ninando a minha alma, e os conhecimentos vinham, pouco a pouco, como alguém cansado que galgasse uma montanha e com o sopro da brisa fosse assenhorando-se de si mesmo.
 Meu coração encontrou tranquilamente aquela paz, aquela harmonia de discernir, alegria de viver, o contentamento de saber que eu poderia ainda produzir, aprender, ensinar, chorar, rir e aconselhar.
-Procurei os meus filhos, o ceticismo inquietante dominava-lhes a alma. Por maior entusiasmo que lhes falasse sobre a minha descoberta da nova ciência de viver, eles mantinham-se ignorantes, incrédulos da situação. Então veio-me à memória: “Quem é o meu pai? Quem é a minha mãe? E quem são os meus irmãos? Vós os conheceis?”
-— palavras da Sagrada Escritura. E vi então nos velhos discípulos que eu ainda tinha-lhes um carinho como de meninos; criaturas cujas mentes desenvolveram-se grande e brilhantemente no setor das ciências psíquicas, e a nova filosofia empolgou-me a alma.
+Procurei os meus filhos, o ceticismo inquietante dominava-lhes a alma. Por maior entusiasmo que lhes falasse sobre a minha descoberta da nova ciência de viver, eles mantinham-se ignorantes, incrédulos da situação. Então veio-me à memória: “Quem é o meu pai? Quem é a minha mãe? E quem são os meus irmãos? Vós os conheceis?” ( † ) — palavras da Sagrada Escritura. E vi então nos velhos discípulos que eu ainda tinha-lhes um carinho como de meninos; criaturas cujas mentes desenvolveram-se grande e brilhantemente no setor das ciências psíquicas, e a nova filosofia empolgou-me a alma.
 Louvado seja o Senhor! Os méritos não tive, mas a misericórdia de Deus premiou-me o esforço de bem servir à juventude da minha terra que a mim havia sido confiada. E as preces, as lembranças carinhosas, eram como que gotas de orvalho que iluminavam, acalentavam a minha alma cheia de dissabores.
 Passei a ver então na assembleia a mão divina que me orientava para uma compreensão maior, para um mundo melhor, para um mundo diferente, de utilidade, de compreensão e de progresso para todas as criaturas humanas. Passei a fazer parte dessa assembleia — ela se interligava a outras assembleias na sucessão dos conhecimentos, na dilatação do meu Espírito, da minha visão e do meu entendimento.
 E eis que aqui vim, ligado que estou a muitos desta casa. E é a primeira vez que vos falo como Espírito, não obstante ser membro integrante dos Espíritos do Senhor. E a minha alma se engrandece na grandeza do Senhor por louvar-lhe a misericórdia, a bondade e as bênçãos que nos concede.
@@ -1800,9 +1304,10 @@ Saúdo, pois, aos filhos de Deus, aos amigos que se congregam nessas assembleias
 
 ---
 
-## 68 — Palavras de reconforto
+## 69
 
-> 68ª reunião | 6 de março de 1958
+> 69ª reunião | 6 de março de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Que a paz divina esteja convosco, meus irmãos!
 A hora é chegada para a nossa libertação e por isso devo a mim mesmo algumas palavras nesse sentido.
@@ -1815,9 +1320,10 @@ Jesus nos abençoe.
 
 ---
 
-## 69 — Lutar
+## 70
 
-> 69ª reunião | 13 de março de 1958
+> 70ª reunião | 13 de março de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Meus amigos, deu-nos Jesus tudo aquilo de melhor para a solução de nossas necessidades.
 Deu-nos a força, a inteligência, com a luz da boa vontade que devemos cultivar uns para com os outros.
@@ -1827,9 +1333,10 @@ Lutemos, pois, sempre, para ajudar sem exigir ajuda daquele ou desse irmão, sab
 
 ---
 
-## 70 — Estudemos e trabalhemos
+## 71
 
-> 70ª reunião | 20 de março de 1958
+> 71ª reunião | 20 de março de 1958.
+> — Francisco Teixeira de Carvalho, Ênio Santos, Elza Vieira,
 
 Meus amigos, Jesus nos abençoe!
 A vida tem sido para mim um caminho longo, demasiadamente longo, por falta de direção que me fizesse aproveitar o tempo. Somente agora compreendo, com o amor de Jesus, a nossa obrigação de preparar o futuro. Devo essa bênção à Doutrina que nos irmana, cujo calor divino me elevou à temperatura da fé sob novo ideal.
@@ -1842,9 +1349,10 @@ Que Jesus, meus irmãos, nos proteja e nos abençoe!
 
 ---
 
-## 71 — Amizade e união
+## 72
 
-> 71ª reunião | 27 de março de 1958
+> 72ª reunião | 27 de março de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Que a paz divina esteja convosco como sempre, meus queridos irmãos!
 Imanados em um só caminho para a verdade no campo imenso da vida, apoiemo-nos em Jesus, no trabalho de cada dia, buscando-lhe a divina inspiração, de modo a fundir as sombras do passado na luz do futuro, porquanto a nossa união no trabalho construtivo é necessidade premente para a vitória.
@@ -1855,9 +1363,10 @@ A paz de Jesus seja com todos!
 
 ---
 
-## 72 — Irmão que volta
+## 73
 
-> 72ª reunião | 3 de abril de 1958
+> 73ª reunião | 3 de abril de 1958.
+> — Arnaldo Rocha, Francisco Teixeira de Carvalho, Ênio Santos, Laura Nogueira Lima, Geni Pena Xavier, Geraldo Benício Rocha, Antônio Inácio de Melo, Gil de Lima, Aderbal Nogueira Lima, Elza Vieira, Waldemar Silva e Hélio Coscarelli
 
 Meus amigos, Jesus nos abençoe!
 Permitiram nossos benfeitores que eu viesse até aqui nesta noite, pois desejava agradecer a Deus e a Jesus o amparo que alcancei nesta casa. Graças a Deus, nova compreensão me clareia o caminho. Amigos, o caminho da vida é assim mesmo. Todos lutamos, dentro dele, buscando melhorar-nos sempre mais. O progresso vai devagar para alguns e mais rápido para outros, conforme o entendimento de cada um. Peço-vos para que continueis ajudando-me, porque desde que passei pelo ambiente de vossas preces sinto-me mais forte, com o desejo firme de seguir para frente e para o alto, sem olhar para trás, porque a lamentação não resolve problemas. É isso que tenho a dizer-vos, com os meus rogos ao divino Mestre para que, um dia, eu possa dar o meu testemunho de fé e fraternidade, errando menos. É só, meus amigos, o que tenho hoje para ofertar-vos. Estou feliz, pois a extensão do meu conhecimento só Deus sabe!
@@ -1865,9 +1374,10 @@ Minha gratidão a todos vós, e que Jesus nos abençoe.
 
 ---
 
-## 73 — Visita e prece
+## 74
 
-> 73ª reunião | 10 de abril de 1958
+> 74ª reunião | 10 de abril de 1958.
+> — Arnaldo Rocha, Ênio Santos,
 
 Amigos, que Jesus, na sua bondade infinita, nos abençoe. Obtive permissão para vir até aqui rogar ao Senhor Jesus, convosco, forças novas para a minha caminhada. E desse modo que aqui estou. E pedindo-vos desculpas pelas minhas fraquezas, rogo também me ajudem com a bênção da prece, a fim de que eu possa crescer para Jesus, com menos pessimismo no coração, sem vacilar no cumprimento de meus deveres.
 E assim, Jesus divino, junto de meus irmãos e amigos, rogo-vos seja concedido à minh’alma um novo corpo na Terra, a fim de que eu possa resgatar meu passado em testemunho de redenção!
@@ -1875,9 +1385,10 @@ Perdoem-me, amigos meus! Ainda me encontro muito perturbado, mas se Deus quiser,
 
 ---
 
-## 74 — Agradecimento
+## 75
 
-> 74ª reunião | 17 de abril de 1958
+> 75ª reunião | 17 de abril de 1958.
+> — Arnaldo Rocha, Ênio Santos, Francisco Gonçalves,
 
 Meus amigos, Jesus nos abençoe hoje e sempre!
 Hoje, com a permissão de Deus, trago-lhes o meu agradecimento e a minha alegria. Agradecimento de quem se renovou com as bênçãos desta casa e alegria por haver encontrado o verdadeiro caminho.
@@ -1887,18 +1398,20 @@ Louvado seja nosso Pai!
 
 ---
 
-## 75 — Visita de um amigo
+## 76
 
-> 75ª reunião | 24 de abril de 1958
+> 76ª reunião | 24 de abril de 1958.
+> — Arnaldo Rocha, Ênio Santos,
 
 Queridos companheiros de luta, que Jesus nos abençoe. Estou designado pelos nossos irmãos maiores para que lhes diga alguma coisa, entretanto, que tenho eu para dizer? Assim procedo por sentir-me ainda em dificuldade para expressar-lhes a minha experiência. Rogo a Deus que me dê, que me conceda resignação e paciência para a justa vitória sobre mim! Perdoem-me, pois, meu amigos, perdoem-me a fraqueza, pois me sinto mesmo envergonhado diante de vocês, diante do que tenho recebido, lamentando, desse modo, não saber dar de mim mesmo!… Deus, porém, há de ajudar-me para que eu possa, mais tarde, transmitir-lhes minha experiência, que é rude lição de dor para os que caminham na Terra. Esperemos que o tempo nos ajude.
 Agradeço-lhes a paciência comigo, rogando a Jesus para que a tolerância lhes seja, na alma, um bendito galardão. E despedindo-me suplico a Deus nos ampare e nos abençoe.
 
 ---
 
-## 76 — No templo da prece
+## 77
 
-> 76ª reunião | 1º de maio de 1958
+> 77ª reunião | 1º de maio de 1958.
+> — Ênio Santos, Francisco Teixeira de Carvalho, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Antônio Inácio de Melo, Nélio Cerqueira, Geraldo Benício Rocha, Edmundo Fontenele, Eunice Cerqueira, Aderbal Nogueira Lima, Zínia Orsine Pereira, Gil de Lima e Waldemar Silva
 
 Divino Senhor Jesus, tudo quanto desejássemos externar, para dizer-vos da nossa gratidão, nós, comovidos, agradecemos pela generosa solicitude de vossos piedosos e abnegados mensageiros, não seria suficiente, divino Cordeiro de Deus, para que toda nossa gratidão, todo nosso reconhecimento ficasse plenamente manifestado. Entretanto, reconhecemos, divino Mestre e Senhor nosso, que as palavras muito pouco podem transmitir a emoção que vive nos corações agradecidos ao vosso coração cheio de amor, de compassividade. E que vós, divino e Senhor Jesus, ao invés de palavras que demonstrem gratidão e reconhecimento, preferis, divino e Senhor Jesus, que o trabalho na lavoura dos corações seja a expressão de reconhecimento, passo de amor e de entendimento dos vossos divinos ensinamentos.
 Abençoa-nos, divino Senhor, os humildes e singelos esforços desta noite, e faz com que nos sintamos cada vez mais encorajados na realização da tarefa que vosso coração amoroso e compassivo entregou aos pobres Espíritos endividados.
@@ -1906,17 +1419,19 @@ Que a vossa paz, Senhor Jesus, seja sempre conosco, agora, hoje e até o sem fim
 
 ---
 
-## 77 — Palavras de estímulo
+## 78
 
-> 77ª reunião | 8 de maio de 1958
+> 78ª reunião | 8 de maio de 1958.
+> — Francisco Teixeira de Carvalho, Ênio Santos, Elza Vieira,
 
 Meus caros amigos, compareço, na qualidade de necessitado, convencido de que somente no trabalho, em benefício daqueles mais necessitados do que nós próprios, é que encontramos a oportunidade de aprender, a dilatar as nossas possibilidades de amizade, de simpatia e de realização no próprio coração, daquele amor que cobre a multidão de pecados. Aqui estamos para lhes dizer da nossa grande alegria em participar deste ágape admirável, desta mesa tão rica de alimento espiritual, cujo sublime condimento é ainda o amor! Quando as nossas singelas realizações são movimentadas no sentido de tornar mais rica a nossa existência, dessa riqueza tão desejada, opulentada pelos talentos do amor, os nossos esforços ganham mais vigor, somam maior expressão e sentimos em nós mesmos aquela ânsia de viver, de viver sempre, porém trabalhando, servindo, abençoando a todos.
 
 ---
 
-## 78 — Na seara do Espírito
+## 79
 
-> 78ª reunião | 15 de maio de 1958
+> 79ª reunião | 15 de maio de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira,
 
 Queridos amigos, nunca nos cansaremos de mencionar a necessidade do nosso coração se familiarizar com o sentimento da simpatia, da amizade, de cordialidade, de amor, na vida de relação.
 Uma das grandes, senão maiores, necessidades da sociedade de nossos dias, é exatamente a de esvaziarmos o vaso da vida da vaidade, do orgulho e do egoísmo, para nele somente vibrar os sentimentos enobrecedores da vida moral.
@@ -1926,9 +1441,10 @@ Entretanto, urge considerar que os obstáculos são necessários em nossos camin
 
 ---
 
-## 79 — Amor
+## 80
 
-> 79ª reunião | 22 de maio de 1958
+> 80ª reunião | 22 de maio de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Francisco Teixeira de Carvalho,
 
 Como é agradável amar!
 O amor não é apenas o mais belo e suave dos sentimentos, é também a mais luminosa de todas as virtudes!
@@ -1943,9 +1459,10 @@ O amor não é apenas o mais belo e suave dos sentimentos, é também a mais lum
 
 ---
 
-## 80 — Na seara do bem
+## 81
 
-> 80ª reunião | 29 de maio de 1958
+> 81ª reunião | 29 de maio de 1958.
+> — Presentes
 
 Meus caros amigos, todos desejamos a felicidade própria pelos meios que nos parecem razoáveis e justos. É natural que não pensemos senão em atravessar os caminhos do mundo sem angústias e sem pesares. Entretanto, devemos considerar que as dificuldades, os embaraços, as próprias dores físicas e os desgostos morais são estímulos de que carecemos para que possamos valorizar a luta, através da qual atingiremos, mais tarde, se soubermos, através dessas mesmas dificuldades, enriquecer o cofre do coração com os talentos da luz, da paciência, da resignação e da tolerância.
 É extremamente agradável usufruirmos na Terra momentos de alegria, de satisfação íntima, ao lado dos amigos, dos parentes, de quantos de nós se aproximem. Entretanto, precisamos compreender que a verdadeira felicidade consiste não apenas em nos reunirmos em hostes agradáveis, com os queridos do coração, mas de levarmos parcela da nossa alegria, da alegria que desejamos ou da alegria que realmente existe em nós, àquelas criaturas, àqueles irmãos queridos que não a conhecem, que igualmente a aspiram como nós a aspiramos, e são tão dignos dessa felicidade como nós próprios nos julgamos ser.
@@ -1954,9 +1471,10 @@ Muita paz para nós e para todos vós.
 
 ---
 
-## 81 — Amizade e lição
+## 82
 
-> 81ª reunião | 5 de junho de 1958
+> 82ª reunião | 5 de junho de 1958.
+> — Ênio Santos, Francisco Teixeira de Carvalho, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Lucília Xavier Silva, Nélio Cerqueira,
 
 Meus irmãos, paz nos nossos corações.
 Lutamos para senhorearmo-nos da palavra materializada e fazer o nosso pensamento claro e elucidativo, desejosos que nos encontramos de que a nossa experiência no passado e no presente, sem nenhuma pretensão, possa iluminar a senda de júbilos que abraçais e que abraçamos.
@@ -1968,8 +1486,7 @@ Malbaratávamos o tempo e aquele pobre irmão, que vinha buscar o lenitivo da pa
 Não nos apercebíamos dessa situação. Não tínhamos o Evangelho na alma. Tínhamos a Doutrina na cabeça. O Evangelho não tinha encontrado agasalho, abrigo no nosso sentimento, mas a filosofia dos Espíritos havia empolgado a nossa inteligência. E a nossa palavra continuava bonita, harmoniosa, empolgante, o Espírito cheio de pretensão, de sabedoria, mas a alma era como um alforje vazio.
 Os anos se passaram. Na nossa respeitável posição de orientador, nos achamos dignos de uma recepção, cá neste mundo onde nos encontramos, de entidades que houvessem sido guiadas pela nossa palavra. Efetivamente, fomos recebidos por um grande número de amigos, mas a desilusão foi grande. Reclamavam os conhecimentos evangélicos que não lhes ministramos. Reclamavam a consolação que não lhes soubemos dar. Mostravam a sequência de desesperação que lhes movia em outras épocas, a que ponto havia chegado, porque a nossa palavra não lhes havia incutido o amor, porque a nossa palavra não havia levado às suas almas a humildade, ao respeito à divina lei, ao amor ao próximo.
 Nós sentíamos que era desespero, desilusão, descontentamento, dores e aflições em toda parte.
-Todos nos rodeavam como que a lembrar a passagem bíblica: “Caim, Caim, que fizeste de teu irmão?”
-
+Todos nos rodeavam como que a lembrar a passagem bíblica: “Caim, Caim, que fizeste de teu irmão?” ( † )
 Um torvelinho de dor, de arrependimento, de inconsequência da nossa própria personalidade se apoderou de nós e não sabemos há quanto tempo, e em que espaço, e em que época, e onde nos encontrávamos!…
 Fomos arremessados como pena insignificante num tremendo vendaval! As vozes se multiplicavam. Ouvíamos a nossa voz cristalina, pura, bonita, fraseologia bem formada, sentenças que tangiam como se fossem bronze harmonioso, mas não eram acompanhadas da sequência do amor e da caridade.
 Perdemo-nos nesse torvelinho de dor e de sofrimento por muito tempo. A desesperação feria-nos a alma. A impiedade aplicada para os outros chicotava-nos até não termos expressão própria para caracterizar.
@@ -1977,15 +1494,15 @@ Foi quando ouvindo uma voz, uma prece que evolava desta casa, subir tênue como 
 Venho agora numa preparação para uma nova jornada, na derradeira solicitação, enquanto o Espírito pode vislumbrar um pouco do passado e algo do presente, porque o futuro só Deus sabe o que está reservado.
 Bem sei que, no entanto, a misericórdia de acréscimo do Senhor será como manto ao peregrino na jornada eterna. Será quente e a sua voz me norteará em todos os setores da vida. A sua palavra se fará profundamente no meu coração para que eu, novamente, volte a novos caminhos e a novas jornadas. Não com a mesma facilidade de expressão, mas possa exemplificar o seu amor, o seu Evangelho e sentir o seu apostolado no coração.
 Não deixem de vibrar em meu favor. Não se esqueçam de projetar a beleza dessa humildade e a grandeza dessa pequenez, exemplificando a cada momento.
-Não quero repetir, não pretendo trazer aos meus irmãos a minha palavra como exemplo ou como lição. Mas o Senhor disse: “Eu sou o caminho, a verdade e a vida”.
-Ele caminhou entre os humildes. A sua palavra foi de consolação, a sua presença foi de vida, de alegria e de paz. O seu Evangelho é a sua própria personificação e a sua própria palavra é sua mensagem eterna, diária e constante.
+Não quero repetir, não pretendo trazer aos meus irmãos a minha palavra como exemplo ou como lição. Mas o Senhor disse: “Eu sou o caminho, a verdade e a vida”. ( † ) Ele caminhou entre os humildes. A sua palavra foi de consolação, a sua presença foi de vida, de alegria e de paz. O seu Evangelho é a sua própria personificação e a sua própria palavra é sua mensagem eterna, diária e constante.
 Sigamos dignos dela.
 
 ---
 
-## 82 — Lição
+## 83
 
-> 82ª reunião | 12 de junho de 1958
+> 83ª reunião | 12 de junho de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Laura Nogueira Lima, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Meus caros irmãos, venho usar a palavra hoje numa nova modalidade de experimentação. E aqui têm passado aqueles com a sua experiência, sua sabedoria, e suas luzes têm esparzido, por todos os modos e para toda a parte os elevados conceitos de paz, de concepção de uma vida maior e melhor, de aperfeiçoamento, de elucidação e de instrução, enfim.
 Outros também têm passado trazendo o relato das suas experiências, das suas dores, das suas amarguras. Creio, no entanto, ser eu o único que venho valer-me da palavra como um novo aprendizado para a execução de responsabilidades e deveres, e novas possibilidades em outras vidas.
@@ -2002,8 +1519,7 @@ Nestas cidades da eternidade, que conheceis através de narrativas brilhantes, e
 O que sucedeu no transcurso de tal peregrinação seria abuso da hospitalidade caridosa se desejasse explicar, narrar. Sei apenas que nisso sofri muito, chorei…
 E o que valeria contar para os meus irmãos da sequência dessas dores se eu destruí as possibilidades que tinha?
 Repito: fundi, moldei, coordenei, construí todas as possibilidades que a alma possui quando encarnada — e que se se dedicasse, como eu dizia me dedicar, ao serviço do Evangelho, poderia praticar o bem que poderia ter praticado.
-Destruindo, fui forçado a reconstruir. Perdendo, tive que procurá-lo onde a palavra de consolação era falada, porque a mensagem do Senhor permanece nas abóbadas do mundo, como se ele as tivesse materializado, e por processos extraordinariamente grandiosos a sua voz se repercute diariamente, constantemente, através dos milênios: “Vinde a mim vós que sofreis e se achais sobrecarregados, e eu vos aliviarei!”
-
+Destruindo, fui forçado a reconstruir. Perdendo, tive que procurá-lo onde a palavra de consolação era falada, porque a mensagem do Senhor permanece nas abóbadas do mundo, como se ele as tivesse materializado, e por processos extraordinariamente grandiosos a sua voz se repercute diariamente, constantemente, através dos milênios: “Vinde a mim vós que sofreis e se achais sobrecarregados, e eu vos aliviarei!” ( † )
 Lá nas cidades onde me referi ninguém as ouvia, como não ouvis as ondas hertezianas que cruzam os espaços, se não tiverdes fonógrafos, rádios ou aparelho que as captem.
 Então fui eu um dos elementos a materializar a sua palavra, já que não tinha tido a lealdade, a coragem de usá-la aqui mesmo, nas luzes da civilização e do entendimento. Foi lá, onde expressões como fraternidade, esperança, consolação soavam como palavras em línguas mortas.
 Irmãos, estou me perdendo nas divagações. É a alegria de ouvir-me, de sentir o calor da vossa fé, sentir-me numa organização evangélica, ver, em toda parte, papiros luminosos pirogravando, materializando as consoladoras e soerguidoras expressões do magnânimo e sábio Senhor!
@@ -2017,9 +1533,10 @@ Saúda-vos o companheiro,
 
 ---
 
-## 83 — Visita edificante
+## 84
 
-> 83ª reunião | 19 de junho de 1958
+> 84ª reunião | 19 de junho de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Lucília Xavier Silva, Francisco Teixeira de Carvalho,
 
 Irmãos, saudações, em nome do Senhor!
 Esta noite excede de muito à nossa expectativa e as nossas possibilidades que imaginamos encontrar no mundo dos Espíritos, em face dos conhecimentos, dos merecimentos, das aquisições que supomos transportar conosco para esta vida.
@@ -2040,32 +1557,31 @@ Deus dê a todos essa divina compreensão. Meu abraço amigo por esta recepção
 
 ---
 
-## 84 — Inferninho
+## 85
 
-> 84ª reunião | 26 de junho de 1958
+> 85ª reunião | 26 de junho de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Laura Nogueira Lima, Geni Pena Xavier, Francisco Teixeira de Carvalho, Antônio Cordeiro de Albuquerque, Antônio Inácio de Melo, Edite Malaquias Xavier, Gil de Lima, Aderbal Nogueira Lima, Zínia Orsine Pereira, Hélio Coscarelli,
 
-Meus amigos, nós, em Jesus para que Jesus esteja em nós!
-Figuremos nossa alma como sendo uma casa. A casa que o Senhor nos concede no mundo contra a intempérie. Observando o recinto doméstico, reconheceremos o caráter inalienável da limpeza e da segurança para que tudo esteja em ordem.
-Um recinto de janela aberta à corrente de ar frio faculta o choque orgânico de graves consequências.
-Alguns segundos de porta invigilante sugere latrocínio ao amigo transviado que ainda não dispõe das oportunidades de educação que nos felicitam.
-Um pequeno engano de condimento intoxica a assembleia familiar.
-A ausência da água cria atentados contra a higiene.
-Alguns instantes de olhos concentrados na parte menos feliz da personalidade alheia precipitam-nos, por vezes, em longa descida à sombra.
-Alguns instantes de ouvidos descerrados à maledicência conduzem-nos à calúnia e à discórdia.
-Uma simples palavra imprópria envenena as disposições mentais de quem nos ouve.
-A deserção da humildade pode comprometer-nos o equilíbrio da própria vida.
-Evitemos, assim, as tristes fecundações da treva. A grande erosão começa de um golpe na terra frágil. A leve faísca pode gerar o incêndio destruidor.
-Auxiliemos, com discrição e caridade a ignorância dos outros, como nos seja possível, e silenciemos sempre onde e quando não nos seja possível auxiliar. Diante do pior praticado por nosso companheiro, recordemos o melhor que ele desejaria ter feito. Ante a deficiência do próximo, mentalizemos a condição superior que ele aspire.
-Todos somos necessitados… Uns mais, outros menos…
-O próprio Cristo de Deus — o anjo sem mácula — precisou da manjedoura para abordar a Terra e precisou da cruz para morrer, a fim de fazer-se compreendido. Foi ele mesmo quem afirmou certa feita: “Quando duas ou mais pessoas estiverem reunidas em meu nome, estarei eu no meio delas”.
-Isso é uma sugestão para a sementeira de luz na oração e na ação.
-Atendamos ao apelo do nosso divino Mestre, porque em região diferente da Boa Nova a sociedade moderna costuma hoje igualmente afirmar que onde duas ou mais pessoas se reúnem para comentar as infelicidades alheias aí se constrói um inferninho, e de inferninho a inferninho todos poderemos atingir o inferno maior.
+1 Meus amigos, nós, em Jesus para que Jesus esteja em nós!
+2 Figuremos nossa alma como sendo uma casa. A casa que o Senhor nos concede no mundo contra a intempérie. Observando o recinto doméstico, reconheceremos o caráter inalienável da limpeza e da segurança para que tudo esteja em ordem.
+3 Um recinto de janela aberta à corrente de ar frio faculta o choque orgânico de graves consequências. 4 Alguns segundos de porta invigilante sugere latrocínio ao amigo transviado que ainda não dispõe das oportunidades de educação que nos felicitam.
+5 Um pequeno engano de condimento intoxica a assembleia familiar.
+6 A ausência da água cria atentados contra a higiene.
+7 Alguns instantes de olhos concentrados na parte menos feliz da personalidade alheia precipitam-nos, por vezes, em longa descida à sombra.
+8 Alguns instantes de ouvidos descerrados à maledicência conduzem-nos à calúnia e à discórdia.
+9 Uma simples palavra imprópria envenena as disposições mentais de quem nos ouve.
+10 A deserção da humildade pode comprometer-nos o equilíbrio da própria vida.
+11 Evitemos, assim, as tristes fecundações da treva. A grande erosão começa de um golpe na terra frágil. A leve faísca pode gerar o incêndio destruidor.
+12 Auxiliemos, com discrição e caridade a ignorância dos outros, como nos seja possível, e silenciemos sempre onde e quando não nos seja possível auxiliar. Diante do pior praticado por nosso companheiro, recordemos o melhor que ele desejaria ter feito. Ante a deficiência do próximo, mentalizemos a condição superior que ele aspire.
+13 Todos somos necessitados… Uns mais, outros menos…
+14 O próprio Cristo de Deus — o anjo sem mácula — precisou da manjedoura para abordar a Terra e precisou da cruz para morrer, a fim de fazer-se compreendido. Foi ele mesmo quem afirmou certa feita: “Quando duas ou mais pessoas estiverem reunidas em meu nome, estarei eu no meio delas”. ( † ) Isso é uma sugestão para a sementeira de luz na oração e na ação. 15 Atendamos ao apelo do nosso divino Mestre, porque em região diferente da Boa Nova a sociedade moderna costuma hoje igualmente afirmar que onde duas ou mais pessoas se reúnem para comentar as infelicidades alheias aí se constrói um inferninho, e de inferninho a inferninho todos poderemos atingir o inferno maior.
 
 ---
 
-## 85 — Deveres da caridade
+## 86
 
-> 85ª reunião | 3 de julho de 1958
+> 86ª reunião | 3 de julho de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Francisco Gonçalves, Geni Pena Xavier, Áurea Gonçalves, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Antônio Inácio de Melo, Gil de Lima, Hélio Coscarelli,
 
 Meus amigos, Jesus nos abençoe.
 As atribuições que aí na Terra executamos, tão ao saber nosso, visam quase sempre o bem-estar do nosso corpo e são bem diversas à frente das necessidades do Espírito. Defrontamo-nos aqui com as nossas mais pequeninas faltas e o que nos parecia insignificante cresce aos olhos da alma e nos faz, às vezes, chorar de arrependimento e de vergonha.
@@ -2073,15 +1589,15 @@ As atribuições que aí na Terra executamos, tão ao saber nosso, visam quase s
 Entretanto, meus caros irmãos, se temos lutas acerbas a enfrentar, deparamo-nos também com entretenimentos, horas de lazer, de verdadeiro reconforto espiritual. Temos nossas palestras com os amigos daí e daqui, o que muito nos encanta e nos alegra.
 Contou-me, há dias passados, um amigo vindo da Terra bem antes de mim, um fato que, com a sua permissão, vos relato agora, apenas para lembrete daqueles que se dizem espíritas.
 Frequentava o nosso irmão um lar amigo, onde era recebido sempre com as mais exuberantes provas de carinho e confiança. A certa altura, porém, premido por influências menos sãs, intoxicado por excesso de amor próprio, que, tardiamente, reconheceu, melindrou-se, pôs em dúvida aquela amizade tão santa, emitiu conceito desabonador ao chefe daquele lar e afastou-se, ressentido. Reclamações, desculpas, mas com um pouco de tolerância e boa vontade tudo em breve foi esquecido, porém menos para ele que, ao desencarnar algum tempo depois, reconheceu o seu erro e sentiu-se ligado ao peso do remorso. Sem forças para se libertar, e sem meios para poder fazer compreender o seu arrependimento, permaneceu em luta até que, por mercê de Deus, lhe foi dada uma oportunidade de se penitenciar, desatando, assim, a algema que ele mesmo forjara com excesso de personalismo. O meu amigo sorriu tristemente e acrescentou: “Bem vê, Cícero, que esse fato parece banal para muita gente, porém, menos para mim, que duas vezes na semana dirigia uma sessão espírita, onde eu lia e comentava o Evangelho de Nosso Senhor Jesus Cristo”.
-E daí por diante tenho tido o máximo cuidado em não julgar o meu próximo, e compreendi a grandeza daquela afirmativa: “Orai e vigiai para não cairdes em tentação”.
-
+E daí por diante tenho tido o máximo cuidado em não julgar o meu próximo, e compreendi a grandeza daquela afirmativa: “Orai e vigiai para não cairdes em tentação”. ( † )
 Calou-se o meu amigo e eu continuei a meditar sobre a grande responsabilidade que o conhecimento do Evangelho nos traz. Por hoje, meus amigos, eu me despeço deixando-vos aqui, como sempre, agradecido, o meu coração sincero e fraterno.
 
 ---
 
-## 86 — Amizade e lição
+## 87
 
-> 86ª reunião | 10 de julho de 1958
+> 87ª reunião | 10 de julho de 1958.
+> — Arnaldo Rocha, Ênio Santos, Elza Vieira, Geni Pena Xavier, Francisco Teixeira de Carvalho, Geraldo Benício Rocha, Hélio Coscarelli, Eunice Cerqueira, Gil de Lima, Zínia Orsine Pereira e Waldemar Silva
 
 A minha vida aqui, depois de tão prolongados e profundos padecimentos, eu considero como uma verdadeira bênção divina. Todavia, por causa de minha grande perturbação, nada posso dizer de novo, a não ser a dura experiência que adquiri à custa de muitas lágrimas.
 Fui mulher e muito orgulhosa, como quase todo ente humano, vaidosa e convencida, e mais ainda por ter sido favorecida pela beleza física, pela posição social invejável e por meus pais, que toleravam, pacientemente, todos os meus caprichos, por mais desmedidos que fossem.
@@ -2094,26 +1610,3 @@ Nem sei ao certo quantos anos, ou quantos séculos, vivi esse sofrimento — tal
 Sentindo a minha resistência se esgotar, lembrei-me de Deus, a quem eu havia desprezado na minha felicidade e, soluçando, pedi-Lhe que me matasse de verdade, pois eu ainda continuava viva e sofrendo muito.
 Assim fui trazida aqui e fiquei aliviada daqueles vermes que me devoravam. Vocês me informaram que eu havia matado meu corpo, mas que minha alma estava viva. E eu estou sem rumo agora, não sei o que fazer. Receosa do meu futuro, arrependida, quero ser escrava daqueles de quem eu fui rainha. Eu peço proteção, e que todos me auxiliem para que eu não volte mais para aquela cova tão escura e tão estreita!
 Tenham dó de mim, desta infeliz!
-
----
-
-## 87 — Ser cristão
-
-> 87ª reunião | 17 de julho de 1958
-
-Meus amigos, ser cristão é ser bom, humilde, caridoso, abnegado e compreensivo.
-É calar-se diante das ofensas, ter paciência com os que erram, força nas provações, resignação nas grandes dores.
-É amar aquele que ainda não sabe amar, tolerar com carinho aquele que só sabe detestar, ofender e criticar.
-É ver apenas um irmão naquele que erra, que fere, que calunia e que mata.
-É deixar de atirar pedras naqueles que permanecem no erro, lembrando-se de que o desequilíbrio e a maldade já foram seus companheiros por anos e anos a fio.
-É demonstrar ao Pai o seu reconhecimento pela fé, pelo trabalho construtivo, pela alegria do amor ao próximo.
-Eis aí, meus irmãos, a meta para a qual devam convergir todos os nossos esforços, porque os nossos Espíritos já estão muito experimentados na forja da dor e dos sofrimentos.
-Procuremos falar menos e amar mais ao nosso próximo.
-Se formos caridosos e bons, se realmente formos cristãos, teremos dentro de nós mesmos a chave da porta estreita, onde encontraremos a verdadeira felicidade espiritual.
-Louvemos ao nosso Senhor Jesus Cristo agora e sempre!
-
----
-
-##  — Agradecimentos
-
-Ao Grupo Meimei pela instrução, legado e exemplos de amor aos irmãos desencarnados, especialmente a Francisco Cândido Xavier e aos que, juntamente a ele, sustentaram essa tarefa: Arnaldo Rocha, Francisco Teixeira de Carvalho, Geraldo Benício Rocha e Waldemar Silva. A Cidália Xavier de Carvalho, por nos permitir ingressar no Meimei e depositar toda a sua confiança em nosso grupo, que leva o nome de seu esposo, Chiquinho Carvalho. Aos irmãos do Grupo Espírita Chiquinho Carvalho, pela confiança e aprendizado oferecidos ao longo desse tempo de convivência e amizade, especialmente a Nélia, minha querida irmã, e a Maria Teresa, companheira de todas as horas, que me sustentaram em momentos de grandes dificuldades, e a Henrique Kemper Borges Junior, sócio benemérito do Grupo, pelo seu apoio e orientação tão necessários no início de nossas atividades. Aos companheiros de todas as casas filiadas à Aliança Municipal Espírita, especialmente ao Jhon Harley, um de seus idealizadores, pelos anos de união, fraternidade e compartilhamento da vivência espírita em nossa comunidade. Ao amigo Geraldo Lemos Neto, que com tanto esmero e fidelidade vem divulgando a vida e a obra de Chico Xavier, e por sua participação tão efetiva no movimento espírita nacional e internacional. A Geraldo Leão, pelo esforço em preservar a memória de Pedro Leopoldo, Minas Gerais, e pelo resgate da trajetória de Chico Xavier em sua cidade natal. Aos meus pais, Manoel e Neném, pelos 62 anos de união, amor, exemplos e dedicação à família que tanto amamos. Na pessoa de Adriano, agradeço a todos os amigos que compartilham conosco a alegria de viver.

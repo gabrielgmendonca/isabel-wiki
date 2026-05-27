@@ -2,23 +2,11 @@
 
 **Autor espiritual:** F. C. Xavier / Divaldo P. Franco  
 **Médium:** Chico Xavier  
-**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Eac/EacPref2.htm
+**Fonte:** https://bibliadocaminho.com/ocaminho/TX/Eac/EacEsclar.htm
 
 ---
 
-##  — …E o amor continua
-
-Caro leitor:
-Trazemos novos depoimentos de pessoas queridas que a morte arrebatou, porém, não consumiu.
-Filhos, mãe e tia saudosos não tergiversaram em vencer as barreiras vibratórias para demonstrar que a vida é um todo contínuo, na qual nascimento e morte são apenas etapas do fenômeno biológico, não significando começo nem fim.
-Utilizando-se de dois intérpretes mediúnicos, trazem notícias e informações, oferecem comentários e dão referencial que confirmam a sobrevivência da individualidade e da personalidade humana, comprovando que o amor continua e é a força motriz que equilibra o Universo.
-Examinemos com atenção as suas palavras e insculpamos na mente quanto nos sentimentos as páginas que eles nos ensejam, a fim de nos prepararmos para o crescimento espiritual que nos cumpre acelerar.
-Esperando que estas cartas de amor alcancem os objetivos para os quais foram ditadas e agora se apresentam reunidas neste livro, suplicamos ao Senhor de todos nós que nos abençoes,
-Página-prefácio recebida pelo médium Divaldo P. Franco em 15/4/1983, no Grupo Espírita da Prece, Uberaba-MG.
-
----
-
-##  — Esclarecimento
+## 
 
 A mediunidade iluminada pelo conhecimento espírita e colocada a serviço de Jesus é instrumento nobre de que se utilizam os desencarnados para confirmar o prosseguimento da vida após o fenômeno biológico da morte.
 Amigos queridos que partiram no veículo da desencarnação retornam, felizes, reafirmando aos familiares e afetos diversos que o amor continua além do túmulo, sem interrupção de qualquer natureza.
@@ -32,428 +20,241 @@ Salvador, 18 de abril de 1983.
 
 ---
 
-##  — Anotação
+## 
 
-Leitor amigo.
-Este livro é o ponto de junção de dois tarefeiros da mediunidade, expressando o sentimento e a palavra dos comunicantes amigos, hoje domiciliados na Espiritualidade.
-Páginas de amor e reconforto aqui se reúnem, identificando-se os autores por dois instrumentos diversos, mas afinados um com o outro para a execução das melodias de consolo e paz, encorajamento e esperança que nos elevam os pensamentos à Vida Superior.
-Que o Senhor Jesus nos permita continuar nas mesmas faixas de união e trabalho, de modo a que todos possamos ofertar a nossa parcela de serviço na edificação do Mundo melhor de amanhã são os nossos votos.
+1 Leitor amigo. Este livro é o ponto de junção de dois tarefeiros da mediunidade, expressando o sentimento e a palavra dos comunicantes amigos, hoje domiciliados na Espiritualidade.
+2 Páginas de amor e reconforto aqui se reúnem, identificando-se os autores por dois instrumentos diversos, mas afinados um com o outro para a execução das melodias de consolo e paz, encorajamento e esperança que nos elevam os pensamentos à Vida Superior.
+3 Que o Senhor Jesus nos permita continuar nas mesmas faixas de união e trabalho, de modo a que todos possamos ofertar a nossa parcela de serviço na edificação do Mundo melhor de amanhã são os nossos votos.
 Uberaba, 14 de Abril de 1983.
 
 ---
 
-## 1 — Maria da Conceição Corrêa
+## 
+
+1 Caro leitor: Trazemos novos depoimentos de pessoas queridas que a morte arrebatou, porém, não consumiu.
+2 Filhos, mãe e tia saudosos não tergiversaram em vencer as barreiras vibratórias para demonstrar que a vida é um todo contínuo, na qual nascimento e morte são apenas etapas do fenômeno biológico, não significando começo nem fim.
+3 Utilizando-se de dois intérpretes mediúnicos, trazem notícias e informações, oferecem comentários e dão referencial que confirmam a sobrevivência da individualidade e da personalidade humana, comprovando que o amor continua e é a força motriz que equilibra o Universo.
+4 Examinemos com atenção as suas palavras e insculpamos na mente quanto nos sentimentos as páginas que eles nos ensejam, a fim de nos prepararmos para o crescimento espiritual que nos cumpre acelerar.
+5 Esperando que estas cartas de amor alcancem os objetivos para os quais foram ditadas e agora se apresentam reunidas neste livro, suplicamos ao Senhor de todos nós que nos abençoes,
+Página-prefácio recebida pelo médium Divaldo P. Franco em 15/4/1983, no Grupo Espírita da Prece, Uberaba-MG.
+
+---
+
+## 1
 
 > D. Maria da Conceição Corrêa, que firma a presente mensagem, tia da destinatária, não foi por esta conhecida, em razão de haver desencarnado antes que D. Ginette nascesse.
 > — Do Carmo
 
-Queridas sobrinhas do coração,
-Deus nos proteja. Estamos ligadas a vocês, com a nossa Do Carmo
-n
-e com a nossa Sebastiana,
-n
-no mesmo ideal.
-Comove-nos reconhecer a fidelidade de todas vocês aos nossos compromissos de fé, abraçados na esperança de nossas realizações que prosseguem no ritmo desejável.
-Sentimos e pensamos, notando que as vibrações do nosso sentimento percorrem o coração das sobrinhas queridas, com a matemática da telepatia com que as leis de Deus selaram o amor.
-Muitas vezes mentalizamos esse ou aquele detalhe de serviço, iniciando pelo contato com a nossa Ginette
-n
-e logo, em seguida, observamos a nossa Odete, animada pelo mesmo fluxo de ideias, alcançando, logo após, Maria Lúcia, Maria Tereza e Catarina,
-n
-para que os nossos planos de serviço tomem a força precisa, na estrada indispensável à esperada concretização.
-Não quero alhear os nossos sobrinhos de nossa união, entretanto, Higino
-n
-e os outros são chamados por certas designações de luta construtiva a setores de trabalho tão diferentes dos nossos que, no caso, me limito a envolvê-los na bênção de nossas preces, aguardando o tempo em que consigam compartilhar de nossas atividades e obrigações.
-Querida Ginette, compreendemos, seu pai, a mamãe e eu, as suas observações prudentes no transcurso de todos os movimentos e novidades que se relacionam com o nosso recanto de tarefas e espero que você com as irmãs prossigam irradiando esse cuidado que se deve nutrir para com uma instituição dedicada a Jesus
-n
-que, à maneira de planta rara e preciosa, reclama defesa e segurança no desenvolvimento que lhe diz respeito.
-Filhas queridas, atendendo-se às obrigações profissionais que lhes pautam o tempo é mais que justo e sim absolutamente necessário que o levantamento de nossa edificação se processe com o vagar preciso.
-A pressa estragaria a nossa construção de paz em família e semelhante construção é imprescindível à garantia de nossas tarefas esquematizadas para o futuro. Esperemos mais tempo, a fim de alterar o nosso ritmo de ação.
-Por agora não nos será lícito esquecer as obrigações do dia a dia, nas quais não seria compreensível tivéssemos privilégios sobre o caminho natural dos outros, dos nossos irmãos que igualmente lutam e se esfalfam no desempenho dos encargos que abraçam esperando a ocasião em que se lhes faça possível a doação do tempo e, às vezes, até da própria vida às obras do bem, com cujo erguimento vivem sonhando.
-Admitimos a necessidade do concurso alheio na formação dos alicerces do porvir a que aspiramos juntas e, por isso, dentro dos preceitos legais e da boa consciência quaisquer recursos que nos venham às mãos são bênçãos dos Mensageiros do Senhor, amparando-nos com os tijolos de hoje para a sustentação das paredes de amanhã.
-Vocês saberão, com o amparo de Jesus, receber o apoio do Alto e aplicá-lo para o bem, como sucede até agora e não devemos recusar o amparo que se nos estenda em nome de Deus, como seria impossível coibir-se alguém de recolher o alimento do Sol com que a Divina Providência nos brinda, gratuitamente, no estágio da Terra.
-n
-Entre exigir e abusar, pedir e receber, existem diferenças profundas que o discernimento natural da fé cristã nos ajuda a perceber.
-
-Doemos, de nós, o melhor que pudermos, em favor da organização em que desejamos tão sinceramente servir e conservemos a certeza de que nos serviços de Deus existe um câmbio oculto, através do qual o Senhor não se esquece de nenhum trabalhador que se propõe a agir e a construir em Seu Nome.
-A função cármica da Lei da causa e efeito funciona com exatidão; tanto para o mal quanto para o bem.
-Se causamos sofrimento a outrem a reparação ser-nos-á exigida em tempo hábil, entretanto, qualquer migalha de amor ao próximo que ofereçamos em nome de Jesus, tem o seu correspondente acrescido de bênçãos para quem se consagra a estender amparo e socorro aos semelhantes.
-O dinheiro, em si, é uma força neutra. A condução dele é que gera as consequências que não se nos fazem evitáveis, nessa ou naquela faixa da vida. Prossigamos preparando os recursos e caminhos para que o nosso ideal de auxílio à criança se faça com segurança, na marcha adiante.
-Nesse sentido, dialogaremos em outra oportunidade. O ensejo é de agora expressar o nosso propósito de liquidar vacilações e dúvidas que, por vezes, interferem com as nossas tarefas conjugadas, impelindo-nos a despender mais tempo do que o necessário no exame das questões que aparecem.
-Rogo a Deus nos conserve unidas e cada vez mais felizes pela possibilidade de acalentarmos os nossos sonhos de trabalho, em plena consonância de acordos entre nós.
-Filhas queridas, com o abraço do papai e da mamãe presentes, peço a vocês recebam o carinho imenso com a gratidão incessante da tia, irmã e servidora, sempre amiga.
-Ginette,
-n
-minha filha, Jesus nos abençoe os esforços na aquisição da paz.
-No calendário terrestre passaram-se doze anos após a nossa transitória separação, mediante o abandono do invólucro material na intimidade do túmulo…
-Esse tempo, no entanto, nada significou no relógio que controla os sentimentos profundos do nosso amor, desde que jamais estivemos distantes do lar amado, onde a felicidade foi entronizada no altar do trabalho graças à bênção relevante da fé que nos norteou e conduz os passos na direção de Deus…
-O tempo somente significa sofrimento, quando a inconformação ante a realidade veste a saudade de revolta e sombreia o sol da nossa esperança, fazendo-nos transitar em trevas e dificuldades.
-Para aqueles que, não obstante os sentimentos de separação mantêm os vínculos da ternura, na certeza do reencontro final, a alegria se musica de sinfonia formosa, fazendo que o passar dos anos nos aproxime da hora ditosa do reencontro sem dor, nem separação, nem morte…
-Ao falar-lhe desta forma, não desejo negar o que me vai nalma durante este período, como desconforto por haver retornado e felicidade por haver volvido, continuando o ministério que abraçamos em nome do Pai Criador.
-Nesse sentido, o trabalho tem-nos constituído o pão nutriente de todo dia, sustentando a nossa irrestrita confiança no que tange ao nosso futuro ditoso.
-Falando-lhe assim, digo-o, também, querida filha, aos demais filhos da nossa sempre amada família, à nossa Catarina, à nossa Maria Tereza, à nossa Odette, à nossa Maria Lúcia,
-n
-sem esquecer-me dos filhos queridos, os nossos sempre rapazes José Hermínio, Higino e Luiz Gonzaga,
-n
-que nos constituem tesouros de inapreciável valor, que procuro reunir como pérolas de alto brilho com que um dia colocaremos num diadema de amor para coroar o Divino Amigo de todos nós, em nome da gratidão que nos domina por inteiro a atual circunstância e a vida ora livre da injunção orgânica.
-Participando destes júbilos, as mamães Maria Messias e Sebastiana
-n
-se associam à minha emoção para dizer-lhes a todos, filhos queridos, da necessidade de prosseguirmos juntos, joeirando a terra dos corações para a sementeira de luz e amor com vistas a um mundo melhor e a uma humanidade mais ditosa no porvir.
-O nosso Monsenhor Vinhetas
-n
-prossegue sendo o amigo das nossas atividades em nosso. Lar de crianças,
-n
-onde vocês têm sabido transformar espinhos em flores e dificuldades em realizações, sem permitirem que o desânimo lhes impeça o prosseguimento das obras.
-Filha querida e amados filhos, a dificuldade é desafio que nos cumpre enfrentar para vencer e problema é convite ao esforço para a sua decifração. Não se deixem abater em circunstância nenhuma.
-Estamos juntos nesta luta do bem contra o mal que ainda reside em nós e já podemos antever o dia feliz do futuro. Todavia, não descansemos sobre os primeiros louros alcançados, porquanto há muito por fazer, que devemos realizar, mantendo a certeza de que não nos encontramos a sós nesta batalha nossa, que também pertence ao Senhor de nossas vidas, que não cessa de operar com misericórdia e abnegação.
-É verdade que se vivem na Terra dias e momentos muito graves, sem embargo, são estes os nossos solo e oportunidade para semear o bem com que a Vida nos honra, devendo prosseguir intimoratos e intemeratos na luta incessante, cujos resultados serão do Pai Celeste.
-Em qualquer circunstância guardemos serenidade e fé, recolhendo-nos à oração, quando os problemas se nos apresentarem mais graves, desafiadores e rudes.
-Jesus está a postos, no comando da Obra que Deus Lhe confiou e, na condição de servidores Seus, não podemos fracassar, agasalhando melindres ou relacionando problemas e queixas… A luz brilha e cumpre-nos aproveitar o momento feliz que se apresenta convidativo à realização.
-Nunca se creiam a sós! Aqueles que amamos sempre estamos juntos.
-Para que a noite não se fizesse temerosa e apavorante o Senhor salpicou-a de estrelas luminíferas e para que o campo verde perdesse a monotonia, a mão do Criador fez que surgissem miríades de multicoloridas flores silvestres…
-Sempre haverá estrelas brilhando em nosso Céu e flores recendendo aroma e colocando cor em nosso campo de esperança…
-Desejo agradecer-lhes o carinho e as lembranças no passado “Dia das Mães”.
-n
-Uma antiga história hebreia conta que um certo filho tanto amava a sua mãe que, certo dia, viu-a tropeçar numa esteira, escapando-lhe do pé direito a sandália.
+1 Queridas sobrinhas do coração,
+2 Deus nos proteja. Estamos ligadas a vocês, com a nossa Do Carmo n e com a nossa Sebastiana, n no mesmo ideal.
+3 Comove-nos reconhecer a fidelidade de todas vocês aos nossos compromissos de fé, abraçados na esperança de nossas realizações que prosseguem no ritmo desejável.
+4 Sentimos e pensamos, notando que as vibrações do nosso sentimento percorrem o coração das sobrinhas queridas, com a matemática da telepatia com que as leis de Deus selaram o amor. 5 Muitas vezes mentalizamos esse ou aquele detalhe de serviço, iniciando pelo contato com a nossa Ginette n e logo, em seguida, observamos a nossa Odete, animada pelo mesmo fluxo de ideias, alcançando, logo após, Maria Lúcia, Maria Tereza e Catarina, n para que os nossos planos de serviço tomem a força precisa, na estrada indispensável à esperada concretização. 6 Não quero alhear os nossos sobrinhos de nossa união, entretanto, Higino n e os outros são chamados por certas designações de luta construtiva a setores de trabalho tão diferentes dos nossos que, no caso, me limito a envolvê-los na bênção de nossas preces, aguardando o tempo em que consigam compartilhar de nossas atividades e obrigações.
+7 Querida Ginette, compreendemos, seu pai, a mamãe e eu, as suas observações prudentes no transcurso de todos os movimentos e novidades que se relacionam com o nosso recanto de tarefas e espero que você com as irmãs prossigam irradiando esse cuidado que se deve nutrir para com uma instituição dedicada a Jesus n que, à maneira de planta rara e preciosa, reclama defesa e segurança no desenvolvimento que lhe diz respeito. 8 Filhas queridas, atendendo-se às obrigações profissionais que lhes pautam o tempo é mais que justo e sim absolutamente necessário que o levantamento de nossa edificação se processe com o vagar preciso. 9 A pressa estragaria a nossa construção de paz em família e semelhante construção é imprescindível à garantia de nossas tarefas esquematizadas para o futuro. Esperemos mais tempo, a fim de alterar o nosso ritmo de ação.
+10 Por agora não nos será lícito esquecer as obrigações do dia a dia, nas quais não seria compreensível tivéssemos privilégios sobre o caminho natural dos outros, dos nossos irmãos que igualmente lutam e se esfalfam no desempenho dos encargos que abraçam esperando a ocasião em que se lhes faça possível a doação do tempo e, às vezes, até da própria vida às obras do bem, com cujo erguimento vivem sonhando. 11 Admitimos a necessidade do concurso alheio na formação dos alicerces do porvir a que aspiramos juntas e, por isso, dentro dos preceitos legais e da boa consciência quaisquer recursos que nos venham às mãos são bênçãos dos Mensageiros do Senhor, amparando-nos com os tijolos de hoje para a sustentação das paredes de amanhã. 12 Vocês saberão, com o amparo de Jesus, receber o apoio do Alto e aplicá-lo para o bem, como sucede até agora e não devemos recusar o amparo que se nos estenda em nome de Deus, como seria impossível coibir-se alguém de recolher o alimento do Sol com que a Divina Providência nos brinda, gratuitamente, no estágio da Terra. n
+13 Entre exigir e abusar, pedir e receber, existem diferenças profundas que o discernimento natural da fé cristã nos ajuda a perceber. 14 Doemos, de nós, o melhor que pudermos, em favor da organização em que desejamos tão sinceramente servir e conservemos a certeza de que nos serviços de Deus existe um câmbio oculto, através do qual o Senhor não se esquece de nenhum trabalhador que se propõe a agir e a construir em Seu Nome.
+15 A função cármica da Lei da causa e efeito funciona com exatidão; tanto para o mal quanto para o bem.
+16 Se causamos sofrimento a outrem a reparação ser-nos-á exigida em tempo hábil, entretanto, qualquer migalha de amor ao próximo que ofereçamos em nome de Jesus, tem o seu correspondente acrescido de bênçãos para quem se consagra a estender amparo e socorro aos semelhantes. 17 O dinheiro, em si, é uma força neutra. A condução dele é que gera as consequências que não se nos fazem evitáveis, nessa ou naquela faixa da vida. Prossigamos preparando os recursos e caminhos para que o nosso ideal de auxílio à criança se faça com segurança, na marcha adiante.
+18 Nesse sentido, dialogaremos em outra oportunidade. O ensejo é de agora expressar o nosso propósito de liquidar vacilações e dúvidas que, por vezes, interferem com as nossas tarefas conjugadas, impelindo-nos a despender mais tempo do que o necessário no exame das questões que aparecem.
+19 Rogo a Deus nos conserve unidas e cada vez mais felizes pela possibilidade de acalentarmos os nossos sonhos de trabalho, em plena consonância de acordos entre nós.
+20 Filhas queridas, com o abraço do papai e da mamãe presentes, peço a vocês recebam o carinho imenso com a gratidão incessante da tia, irmã e servidora, sempre amiga.
+1 Ginette, n minha filha, Jesus nos abençoe os esforços na aquisição da paz.
+2 No calendário terrestre passaram-se doze anos após a nossa transitória separação, mediante o abandono do invólucro material na intimidade do túmulo…
+3 Esse tempo, no entanto, nada significou no relógio que controla os sentimentos profundos do nosso amor, desde que jamais estivemos distantes do lar amado, onde a felicidade foi entronizada no altar do trabalho graças à bênção relevante da fé que nos norteou e conduz os passos na direção de Deus…
+4 O tempo somente significa sofrimento, quando a inconformação ante a realidade veste a saudade de revolta e sombreia o sol da nossa esperança, fazendo-nos transitar em trevas e dificuldades. 5 Para aqueles que, não obstante os sentimentos de separação mantêm os vínculos da ternura, na certeza do reencontro final, a alegria se musica de sinfonia formosa, fazendo que o passar dos anos nos aproxime da hora ditosa do reencontro sem dor, nem separação, nem morte…
+6 Ao falar-lhe desta forma, não desejo negar o que me vai nalma durante este período, como desconforto por haver retornado e felicidade por haver volvido, continuando o ministério que abraçamos em nome do Pai Criador.
+7 Nesse sentido, o trabalho tem-nos constituído o pão nutriente de todo dia, sustentando a nossa irrestrita confiança no que tange ao nosso futuro ditoso.
+8 Falando-lhe assim, digo-o, também, querida filha, aos demais filhos da nossa sempre amada família, à nossa Catarina, à nossa Maria Tereza, à nossa Odette, à nossa Maria Lúcia, n sem esquecer-me dos filhos queridos, os nossos sempre rapazes José Hermínio, Higino e Luiz Gonzaga, n que nos constituem tesouros de inapreciável valor, que procuro reunir como pérolas de alto brilho com que um dia colocaremos num diadema de amor para coroar o Divino Amigo de todos nós, em nome da gratidão que nos domina por inteiro a atual circunstância e a vida ora livre da injunção orgânica.
+9 Participando destes júbilos, as mamães Maria Messias e Sebastiana n se associam à minha emoção para dizer-lhes a todos, filhos queridos, da necessidade de prosseguirmos juntos, joeirando a terra dos corações para a sementeira de luz e amor com vistas a um mundo melhor e a uma humanidade mais ditosa no porvir.
+10 O nosso Monsenhor Vinhetas n prossegue sendo o amigo das nossas atividades em nosso. Lar de crianças, n onde vocês têm sabido transformar espinhos em flores e dificuldades em realizações, sem permitirem que o desânimo lhes impeça o prosseguimento das obras.
+11 Filha querida e amados filhos, a dificuldade é desafio que nos cumpre enfrentar para vencer e problema é convite ao esforço para a sua decifração. Não se deixem abater em circunstância nenhuma.
+12 Estamos juntos nesta luta do bem contra o mal que ainda reside em nós e já podemos antever o dia feliz do futuro. Todavia, não descansemos sobre os primeiros louros alcançados, porquanto há muito por fazer, que devemos realizar, mantendo a certeza de que não nos encontramos a sós nesta batalha nossa, que também pertence ao Senhor de nossas vidas, que não cessa de operar com misericórdia e abnegação.
+13 É verdade que se vivem na Terra dias e momentos muito graves, sem embargo, são estes os nossos solo e oportunidade para semear o bem com que a Vida nos honra, devendo prosseguir intimoratos e intemeratos na luta incessante, cujos resultados serão do Pai Celeste.
+14 Em qualquer circunstância guardemos serenidade e fé, recolhendo-nos à oração, quando os problemas se nos apresentarem mais graves, desafiadores e rudes.
+15 Jesus está a postos, no comando da Obra que Deus Lhe confiou e, na condição de servidores Seus, não podemos fracassar, agasalhando melindres ou relacionando problemas e queixas… A luz brilha e cumpre-nos aproveitar o momento feliz que se apresenta convidativo à realização.
+16 Nunca se creiam a sós! Aqueles que amamos sempre estamos juntos.
+17 Para que a noite não se fizesse temerosa e apavorante o Senhor salpicou-a de estrelas luminíferas e para que o campo verde perdesse a monotonia, a mão do Criador fez que surgissem miríades de multicoloridas flores silvestres…
+18 Sempre haverá estrelas brilhando em nosso Céu e flores recendendo aroma e colocando cor em nosso campo de esperança…
+19 Desejo agradecer-lhes o carinho e as lembranças no passado “Dia das Mães”. n
+20 Uma antiga história hebreia conta que um certo filho tanto amava a sua mãe que, certo dia, viu-a tropeçar numa esteira, escapando-lhe do pé direito a sandália.
 Para que a genitora não pisasse o chão, o filho correu com as mãos em concha e recebeu-lhe a pisada, diminuindo a rudeza do passo.
 Emocionada e reconhecida, a mãezinha exclamou: — Filho, você me honra em demasia!
 Igualmente sensibilizado, o jovem redarguiu: Não há amor, no mundo, que seja demasiado quando ofertado por alguém à sua mãe…
-Vocês me honram a memória em demasia e cercam-me de ternura excessiva.
-Sua pobre mãe, apenas procurou e busca prosseguir tentando cumprir com o dever de atendê-los, na honra infinita de os haver recebido.
-Nesta carta que já se alonga, peço-lhes licença, queridos filhos, para reunir as flores puras do seu afeto em delicado ramalhete para ofertá-lo à Mãe Santíssima, a Rainha dos Céus, nossa Mãe e Benfeitora de sempre.
-Ginette, Catarina, Maria Tereza, Odette, Maria Lúcia, José Hermínio, Higino e Luiz Gonzaga, filhos da alma, prossigamos com Jesus até o cessar das forças físicas quando, então, se abrirão, de par em par, as portas da Espiritualidade, em cujo Lar me encontro, procurando preparar condições para recebê-los com um hino de inefável ventura.
-Abraçando-os com encantamento e gratidão, roga a Jesus que a todos nos abençoe e guarde, a mãezinha dedicada de sempre, sempre afetuosa.
+21 Vocês me honram a memória em demasia e cercam-me de ternura excessiva.
+22 Sua pobre mãe, apenas procurou e busca prosseguir tentando cumprir com o dever de atendê-los, na honra infinita de os haver recebido.
+23 Nesta carta que já se alonga, peço-lhes licença, queridos filhos, para reunir as flores puras do seu afeto em delicado ramalhete para ofertá-lo à Mãe Santíssima, a Rainha dos Céus, nossa Mãe e Benfeitora de sempre.
+24 Ginette, Catarina, Maria Tereza, Odette, Maria Lúcia, José Hermínio, Higino e Luiz Gonzaga, filhos da alma, prossigamos com Jesus até o cessar das forças físicas quando, então, se abrirão, de par em par, as portas da Espiritualidade, em cujo Lar me encontro, procurando preparar condições para recebê-los com um hino de inefável ventura.
+25 Abraçando-os com encantamento e gratidão, roga a Jesus que a todos nos abençoe e guarde, a mãezinha dedicada de sempre, sempre afetuosa.
 
 ---
 
-## 2 — Sílvio Romero de Oliveira Júnior
+## 2
 
 > Sílvio Romero de Oliveira Júnior (Gato), nasceu em 24.06.1953 e desencarnou em acidente automobilístico, na cidade de Dois Córregos, em São Paulo, no dia 30.09.1979.
 > — Pai Sílvio
 
-Querida mamãe Teresinha, peço ao seu carinho e a meu pai Sílvio
-n
-para que me abençoem.
-A saudade compele. Não posso, assim, iniciar este relato de filho saudoso senão pelas saudações pelo “Dia das Mães”, desejando ao seu coração materno tudo o que a vida consegue refletir de Deus, no que conhecemos de bom e belo.
-Já sei, mamãe, que isso a contenta. Acompanho a sua confiança em Deus e na própria existência, que é nossa em qualquer parte. Por isso pretendo deter-me na conversa com o pai amigo e bom, de quem conservo saudades iguais àquelas que ele registra a meu respeito.
-Entendo, querido papai, a sua luta interior, as razões para crer e descrer, as dificuldades para me aceitar agora tal qual sou, em minhas modificações, e as inclinações para o contrário, já que o seu raciocínio reconhece a impossibilidade de admitir o nada depois de tanta vida e de tanto amor.
-Eu sei que a sua bondade vem me esperando. Surgem dias em que o vejo curtindo até mesmo um certo ressentimento quanto à demora neste correio que não nos pertence.
-Creia que se pudesse já teria rompido a barreira há muito tempo. No entanto, era preciso consertar-me. Afinal não entrei naquele monte de cana movente, com alegria. Aquilo tudo foi uma surpresa, cuja tragédia para mim se fazia inacreditável.
-Não compreendo porque ataquei aquele pedaço morto de canavial, como se estivesse penetrando numa garagem. O susto foi qualquer coisa de indescritível. Além do choque, me reconheci, de imediato, envergonhado diante de mim próprio, de vez que, a meu ver, aquilo não podia e nem devia acontecer. Não tive porém qualquer faixa de tempo para me entregar a reflexões.
-Por dentro da cabeça foi aquela moleza que não esperava. Ainda mesmo que desejasse movimentar-me ou falar, não era possível porque o desmaio me envolveu e nada mais consegui marcar, no ponto de minhas próprias observações.
-Quando acordei, foi aquele tumulto. Exigi providências, gritei e me transformei numa fera de agressividade, porquanto acreditava que me haviam internado em alguma casa de Dois Córregos, para tratamento, e porque não o visse e nem percebesse a presença de mamãe, foi aquela agitação de que o pessoal da enfermagem não tomou conhecimento.
-Ensaiei alguns palavrões mas ninguém me deu bola. Comecei a crer que fora vítima de alguma alucinação, depois do acidente, cujo impacto inicial não poderia desconhecer.
-Quando me acalmei desapontado, uma senhora veio a mim, conversando com a paciência que eu estimaria ter encontrado em mim mesmo, na estranha situação em que fora conduzido. Só então vim a saber que me achava diante de uma pessoa que considerava morta, a vovó Francisca,
-n
-da parte de mamãe Teresinha.
-A princípio, não sabia quem era mais perturbado, se ela ou eu, porquanto a ideia da desencarnação não me vinha ao pensamento, nem de leve. Recebia com demonstrações de reserva o quanto escutava, quando notei que chegava alguém, cuja identidade não poderia ignorar. Era o vovô Alberto Ferreira,
-n
-que me apagou todas as dúvidas.
-Estava realmente em outra faixa da vida. A gente, de imediato, em casos semelhantes ao meu, não pensa que está voltando ao lar verdadeiro
-e, por isso, até que o íntimo nos assevere a aceitação da verdade, somos obrigados a varar muitos graus de transformações. Desespero, amargura, insatisfação, angústia e muitas lágrimas nos criam o alicerce espiritual da conformação.
-Em meio de todas as minhas emoções, via o seu rosto e fixava o seu olhar por dentro de mim, como a indagar o que havia acontecido. Às vezes, ignorando o processo dessas transmissões, enxergava-o, procurando a solidão para conversar comigo, que ouvia a sua voz através de registros que não sei definir.
-Não tenho qualquer dúvida mas, por mais que respondesse por esse esquisito sem fio do pensamento, observava que a sua ternura e a sua dor de pai não me reconheciam. O vovô Alberto, quem me tomou aos próprios cuidados, explicou-me que o seu discernimento gastaria tempo a fim de construir a fé na sobrevivência depois da morte.
-Certo dia ele chegou a me dizer, bem humorado: “O nosso Sílvio um dia compreenderá que a fé é algo semelhante à roupa com que se deve comparecer num Banco,
-n
-solicitando emprego. Se o candidato aparece desvalido de boa apresentação, não adianta a solicitação ou o empenho da melhor procedência. Então o candidato passa à demanda do trabalho com roupa emprestada de algum amigo. Com semelhante vestuário o pretendente ao serviço ingressa nas atividades nas quais precisa se encaixar e, somente depois, com o esforço próprio é que disporá do uniforme social, indispensável para manter a própria vida funcional.”
-O vovô Alberto, com certeza, desejava referir-se ao assunto, recordando algum episódio que o interessasse porque, ainda agora, enquanto escrevo, ele próprio me recomenda falar nisso para que o seu coração de pai amigo descubra a simbologia da fé num acontecimento simples da vida.
-Posso dizer-lhe que as minhas saudades são muitas. Papai, rogo-lhe coragem e confiança no Poder Superior que nos governa a vida. Não se deixe entregue ao desespero ou ao desânimo. Recorde os irmãos que esperam por sua proteção e pela assistência constante de mamãe Teresinha.
-Minhas turras com o João Alberto
-n
-estão terminadas. Desejo ao querido irmão paz e sucesso em todos os empreendimentos a que se dedique.
-Estimaria estar de memória acesa para recordar aqui o nome de todos. O Carlos Eduardo, o Roberto, o Ronaldo, a Raquel, a Renata e mais quem?
-n
-Sinto que preciso completar a lista. De qualquer modo não me esqueço do Márcio e peço a ele para que não queira brigar com Deus. A verdade é que não desapareci. Estou íntegro como sempre. Só a moldura é que se fez nova e essa moldura é o jeito novo de viver.
-Diz meu avô Alberto que basta. Não preciso me enfiar em qualquer enciclopédia de família para mostrar que sou eu quem escreve. Por isso vou terminar aqui. Novidades são muitas, no entanto, palavras de explicar, pelo menos para mim, são ainda muito poucas.
-Lembranças a todo o nosso pessoal. Se conseguir, voltarei breve ao lápis. Desta janela, cercada de mães, retornarei. Se isso não acontecer é porque precisarei aguardar oportunidade.
+1 Querida mamãe Teresinha, peço ao seu carinho e a meu pai Sílvio n para que me abençoem.
+2 A saudade compele. Não posso, assim, iniciar este relato de filho saudoso senão pelas saudações pelo “Dia das Mães”, desejando ao seu coração materno tudo o que a vida consegue refletir de Deus, no que conhecemos de bom e belo.
+3 Já sei, mamãe, que isso a contenta. Acompanho a sua confiança em Deus e na própria existência, que é nossa em qualquer parte. Por isso pretendo deter-me na conversa com o pai amigo e bom, de quem conservo saudades iguais àquelas que ele registra a meu respeito.
+4 Entendo, querido papai, a sua luta interior, as razões para crer e descrer, as dificuldades para me aceitar agora tal qual sou, em minhas modificações, e as inclinações para o contrário, já que o seu raciocínio reconhece a impossibilidade de admitir o nada depois de tanta vida e de tanto amor.
+5 Eu sei que a sua bondade vem me esperando. Surgem dias em que o vejo curtindo até mesmo um certo ressentimento quanto à demora neste correio que não nos pertence.
+6 Creia que se pudesse já teria rompido a barreira há muito tempo. No entanto, era preciso consertar-me. Afinal não entrei naquele monte de cana movente, com alegria. Aquilo tudo foi uma surpresa, cuja tragédia para mim se fazia inacreditável. 7 Não compreendo porque ataquei aquele pedaço morto de canavial, como se estivesse penetrando numa garagem. O susto foi qualquer coisa de indescritível. Além do choque, me reconheci, de imediato, envergonhado diante de mim próprio, de vez que, a meu ver, aquilo não podia e nem devia acontecer. Não tive porém qualquer faixa de tempo para me entregar a reflexões.
+8 Por dentro da cabeça foi aquela moleza que não esperava. Ainda mesmo que desejasse movimentar-me ou falar, não era possível porque o desmaio me envolveu e nada mais consegui marcar, no ponto de minhas próprias observações.
+9 Quando acordei, foi aquele tumulto. Exigi providências, gritei e me transformei numa fera de agressividade, porquanto acreditava que me haviam internado em alguma casa de Dois Córregos, para tratamento, e porque não o visse e nem percebesse a presença de mamãe, foi aquela agitação de que o pessoal da enfermagem não tomou conhecimento. 10 Ensaiei alguns palavrões mas ninguém me deu bola. Comecei a crer que fora vítima de alguma alucinação, depois do acidente, cujo impacto inicial não poderia desconhecer.
+11 Quando me acalmei desapontado, uma senhora veio a mim, conversando com a paciência que eu estimaria ter encontrado em mim mesmo, na estranha situação em que fora conduzido. Só então vim a saber que me achava diante de uma pessoa que considerava morta, a vovó Francisca, n da parte de mamãe Teresinha. 12 A princípio, não sabia quem era mais perturbado, se ela ou eu, porquanto a ideia da desencarnação não me vinha ao pensamento, nem de leve. Recebia com demonstrações de reserva o quanto escutava, quando notei que chegava alguém, cuja identidade não poderia ignorar. Era o vovô Alberto Ferreira, n que me apagou todas as dúvidas.
+13 Estava realmente em outra faixa da vida. A gente, de imediato, em casos semelhantes ao meu, não pensa que está voltando ao lar verdadeiro 14 e, por isso, até que o íntimo nos assevere a aceitação da verdade, somos obrigados a varar muitos graus de transformações. Desespero, amargura, insatisfação, angústia e muitas lágrimas nos criam o alicerce espiritual da conformação.
+15 Em meio de todas as minhas emoções, via o seu rosto e fixava o seu olhar por dentro de mim, como a indagar o que havia acontecido. Às vezes, ignorando o processo dessas transmissões, enxergava-o, procurando a solidão para conversar comigo, que ouvia a sua voz através de registros que não sei definir. 16 Não tenho qualquer dúvida mas, por mais que respondesse por esse esquisito sem fio do pensamento, observava que a sua ternura e a sua dor de pai não me reconheciam. O vovô Alberto, quem me tomou aos próprios cuidados, explicou-me que o seu discernimento gastaria tempo a fim de construir a fé na sobrevivência depois da morte.
+17 Certo dia ele chegou a me dizer, bem humorado: “O nosso Sílvio um dia compreenderá que a fé é algo semelhante à roupa com que se deve comparecer num Banco, n solicitando emprego. Se o candidato aparece desvalido de boa apresentação, não adianta a solicitação ou o empenho da melhor procedência. Então o candidato passa à demanda do trabalho com roupa emprestada de algum amigo. Com semelhante vestuário o pretendente ao serviço ingressa nas atividades nas quais precisa se encaixar e, somente depois, com o esforço próprio é que disporá do uniforme social, indispensável para manter a própria vida funcional.”
+18 O vovô Alberto, com certeza, desejava referir-se ao assunto, recordando algum episódio que o interessasse porque, ainda agora, enquanto escrevo, ele próprio me recomenda falar nisso para que o seu coração de pai amigo descubra a simbologia da fé num acontecimento simples da vida.
+19 Posso dizer-lhe que as minhas saudades são muitas. Papai, rogo-lhe coragem e confiança no Poder Superior que nos governa a vida. Não se deixe entregue ao desespero ou ao desânimo. Recorde os irmãos que esperam por sua proteção e pela assistência constante de mamãe Teresinha.
+20 Minhas turras com o João Alberto n estão terminadas. Desejo ao querido irmão paz e sucesso em todos os empreendimentos a que se dedique.
+21 Estimaria estar de memória acesa para recordar aqui o nome de todos. O Carlos Eduardo, o Roberto, o Ronaldo, a Raquel, a Renata e mais quem? n
+22 Sinto que preciso completar a lista. De qualquer modo não me esqueço do Márcio e peço a ele para que não queira brigar com Deus. A verdade é que não desapareci. Estou íntegro como sempre. Só a moldura é que se fez nova e essa moldura é o jeito novo de viver.
+23 Diz meu avô Alberto que basta. Não preciso me enfiar em qualquer enciclopédia de família para mostrar que sou eu quem escreve. Por isso vou terminar aqui. Novidades são muitas, no entanto, palavras de explicar, pelo menos para mim, são ainda muito poucas.
+24 Lembranças a todo o nosso pessoal. Se conseguir, voltarei breve ao lápis. Desta janela, cercada de mães, retornarei. Se isso não acontecer é porque precisarei aguardar oportunidade.
 Querido papai Sílvio, com a nossa querida mamãe Teresinha, receba o coração repleto de saudade e de muito amor do seu
-Querida mãezinha Teresinha,
-n
-a sua saudade e as suas ansiedades trouxeram-me de volta à ternura que somente você me pôde oferecer na atribulada e breve existência de que o acidente me liberou.
-Repasso pelo cinemascópio das recordações todas as cenas da nossa vida e do nosso lar e você, mãezinha, se avulta diligente e ativa, abnegada e estoica, sabendo exigir e compreender, impor-se e perdoar.
-Um ano transcorreu após a minha primeira carta, na “Estância Nova” e você aguardou, ansiosa, que o seu filho, que lhe propiciou tanto trabalho no mundo, voltasse a conversar com você e com o papai Sílvio.
-Eu lhe prometera retornar, é certo, caso as circunstâncias assim o permitissem. Como você não ignora, as Leis Soberanas da Vida são aqui mais graves e, diante da legião dos mais aflitos do que nós, devia aguardar a oportunidade, que agora me surge, a fim de tranquilizar e enviar notícias ao papai Sílvio, bem como à família, agora muito mais querida.
-Tenho-a acompanhado e, tentado falar-lhe pelos fios invisíveis da inspiração. Vezes há em que você me ouve, me sente e se acalma por um pouco, para tudo recomeçar logo depois. Estamos nessa longa viagem de experiências, no corpo ou fora dele. A morte não nos exonera dos deveres nem das necessidades de crescimento.
-Cada um aqui desperta conforme é, não consoante gostaria que fosse. Somos o somatório das nossas ações e estas não me ajudaram muito, quanto ambos sabemos. Não obstante, o Senhor é todo misericórdia e a oportunidade de evolução está colocada à disposição de quantos desejam liberar-se do ontem para conquistar o amanhã.
-É o que tenho procurado fazer. Esquecer o que deve ser olvidado, para recordar-me do que necessito realizar em benefício próprio e, de certo modo, de todos nós.
-A vovó Francisca
-n
-tem-me sido um anjo maternal. Sua doce e calma voz alerta-me, quando a ansiedade me visita e as lembranças negativas tentam empanar-me o céu das aspirações nobres.
-Tenho visitado nosso lar com a frequência que os deveres me permitem, acompanhando as suas e as preocupações do papai. Toda família grande, nestes como nos dias do passado, constitui um laboratório de amor, funcionando em campo experimental.
-Nem sempre saem as realizações e ocorrem os fatos conforme gostaríamos mas, o amor vigilante e a oração intercessória logram produzir o que outros recursos não conseguem.
-Assim, mãezinha, não se aflija em demasia. Confie no tempo, que resolve amanhã o que não pode solucionar hoje. Tudo acontece sempre para o nosso bem, mesmo quando nas aparentes ocorrências infelizes.
-A visão total, que só o Pai possui, a respeito dos nossos destinos, supre as falhas do momento, mediante concessões que nos escapam, propelindo-nos para o avanço, para a felicidade, que é o nosso fanal último e inevitável.
-Acompanho os manos, com visão diferente, envolvendo em ternura as sempre queridas irmãs, que crescem para futuras responsabilidades e oro pelos irmãos, certo de que eles seguirão a trilha do bem, correspondendo às suas e às expectativas do papai, nem sempre; porém, como seria do desejo de vocês, todavia, de acordo com as suas próprias necessidades de evolução.
-Continue auxiliando os que sofrem e consolando os que choram. Prossiga no serviço de amparo aos necessitados da nossa jamais esquecida Jaú,
-n
-porque são felizes, muito mais ditosos, os que dão, os que fazem, os que servem ao Bem pelo amor do próprio Bem.
-Espero que o seu coração se renove e o seu entusiasmo aumente após estas mal traçadas linhas do seu filho.
-Não pude escrever-lhe no “Dia das Mães”, todavia, como sempre é dia das nossas mães, envolvo-a e ao papai Sílvio nas melhores expressões do meu sentimento renovado, igualmente abraçando nossos João Alberto, Carlos Eduardo, Márcio, Ronaldo, Roberto, Raquel — êta família grande! — Paulo e Renata
-n
-com uma expressão de amor que somente a atual realidade me pôde propiciar.
-Suplicando que você, querida mãezinha, e o papai Sílvio me abençoem como nos longínquos dias da infância, sou o filho reconhecido, sempre devotado, reconhecido e amoroso.
+1 Querida mãezinha Teresinha, n a sua saudade e as suas ansiedades trouxeram-me de volta à ternura que somente você me pôde oferecer na atribulada e breve existência de que o acidente me liberou.
+2 Repasso pelo cinemascópio das recordações todas as cenas da nossa vida e do nosso lar e você, mãezinha, se avulta diligente e ativa, abnegada e estoica, sabendo exigir e compreender, impor-se e perdoar.
+3 Um ano transcorreu após a minha primeira carta, na “Estância Nova” e você aguardou, ansiosa, que o seu filho, que lhe propiciou tanto trabalho no mundo, voltasse a conversar com você e com o papai Sílvio.
+4 Eu lhe prometera retornar, é certo, caso as circunstâncias assim o permitissem. Como você não ignora, as Leis Soberanas da Vida são aqui mais graves e, diante da legião dos mais aflitos do que nós, devia aguardar a oportunidade, que agora me surge, a fim de tranquilizar e enviar notícias ao papai Sílvio, bem como à família, agora muito mais querida.
+5 Tenho-a acompanhado e, tentado falar-lhe pelos fios invisíveis da inspiração. Vezes há em que você me ouve, me sente e se acalma por um pouco, para tudo recomeçar logo depois. Estamos nessa longa viagem de experiências, no corpo ou fora dele. A morte não nos exonera dos deveres nem das necessidades de crescimento.
+6 Cada um aqui desperta conforme é, não consoante gostaria que fosse. Somos o somatório das nossas ações e estas não me ajudaram muito, quanto ambos sabemos. Não obstante, o Senhor é todo misericórdia e a oportunidade de evolução está colocada à disposição de quantos desejam liberar-se do ontem para conquistar o amanhã.
+7 É o que tenho procurado fazer. Esquecer o que deve ser olvidado, para recordar-me do que necessito realizar em benefício próprio e, de certo modo, de todos nós.
+8 A vovó Francisca n tem-me sido um anjo maternal. Sua doce e calma voz alerta-me, quando a ansiedade me visita e as lembranças negativas tentam empanar-me o céu das aspirações nobres.
+9 Tenho visitado nosso lar com a frequência que os deveres me permitem, acompanhando as suas e as preocupações do papai. Toda família grande, nestes como nos dias do passado, constitui um laboratório de amor, funcionando em campo experimental. 10 Nem sempre saem as realizações e ocorrem os fatos conforme gostaríamos mas, o amor vigilante e a oração intercessória logram produzir o que outros recursos não conseguem.
+11 Assim, mãezinha, não se aflija em demasia. Confie no tempo, que resolve amanhã o que não pode solucionar hoje. Tudo acontece sempre para o nosso bem, mesmo quando nas aparentes ocorrências infelizes.
+12 A visão total, que só o Pai possui, a respeito dos nossos destinos, supre as falhas do momento, mediante concessões que nos escapam, propelindo-nos para o avanço, para a felicidade, que é o nosso fanal último e inevitável.
+13 Acompanho os manos, com visão diferente, envolvendo em ternura as sempre queridas irmãs, que crescem para futuras responsabilidades e oro pelos irmãos, certo de que eles seguirão a trilha do bem, correspondendo às suas e às expectativas do papai, nem sempre; porém, como seria do desejo de vocês, todavia, de acordo com as suas próprias necessidades de evolução.
+14 Continue auxiliando os que sofrem e consolando os que choram. Prossiga no serviço de amparo aos necessitados da nossa jamais esquecida Jaú, n porque são felizes, muito mais ditosos, os que dão, os que fazem, os que servem ao Bem pelo amor do próprio Bem.
+15 Espero que o seu coração se renove e o seu entusiasmo aumente após estas mal traçadas linhas do seu filho.
+16 Não pude escrever-lhe no “Dia das Mães”, todavia, como sempre é dia das nossas mães, envolvo-a e ao papai Sílvio nas melhores expressões do meu sentimento renovado, igualmente abraçando nossos João Alberto, Carlos Eduardo, Márcio, Ronaldo, Roberto, Raquel — êta família grande! — Paulo e Renata n com uma expressão de amor que somente a atual realidade me pôde propiciar.
+17 Suplicando que você, querida mãezinha, e o papai Sílvio me abençoem como nos longínquos dias da infância, sou o filho reconhecido, sempre devotado, reconhecido e amoroso.
 
 ---
 
-## 3 — Cláudio Luiz de Oliveira
+## 3
 
 > Cláudio Luiz de Oliveira era filho do Sr. Manoel José de Oliveira e de D. Celeste Terezinha de Oliveira, havendo nascido em Uberaba-M.G., no dia 17.05.1958 e desencarnou na cidade de S. Paulo, no dia 09.09.1979, vitimado por acidente de automóvel.
 > — Mamãe Terezinha, D. Maria do Carmo Corrêa
 
-Querida mamãe Terezinha,
-n
-peço ao seu coração continue me abençoando.
-Associando-a com o papai neste comunicado breve, estou a me lembrar de que havia prometido a mim próprio que, se viesse primeiro para a vida Espiritual, lhe daria minhas notícias com o apoio do nosso amigo Doutor Bezerra e hoje cumpro este voto e mãe querida, esse nosso benfeitor me embalou nos braços, assim que despertei do sono pesado do qual fui acometido no acidente.
-Na hora grave, não tive muita noção do que sucedia. Estava assustado demais para dar conta do acontecimento. O barulho enorme e o choque generalizado me abateram de uma vez.
-n
-Sei apenas que caí e nada mais.
-Quando despertei no hospital a que me conduziram, julguei que o corpo unicamente recebera alguns estragos e escoriações mas, pouco a pouco, vim a compreender com o auxílio do Doutor Bezerra e de meu avô Luiz
-n
-que o corpo danificado em caminho é que era a roupa servida de que me cabia esquecer.
-Ao senti-la chorando por minha causa, muito grande foi o meu desajuste pois verifiquei que estávamos ligados um ao outro por um fio, cuja existência eu sentia por dentro de mim, ignorando como demonstrá-lo.
-Apesar de minha inexperiência, orei muito e continuo nessa prática, a fim de desejar a sua paz e a tranquilidade do papai Manoel e do José Luiz.
-n
-Mamãe, vou contar ao seu coração o que aconteceu. Não fique triste com seu filho.
-Eu estava correndo mais do que devia. Pensava em conquistar estrada e engolir a paisagem, e fui vítima de minha própria desatenção, que o resultado todos sabem.
-Creia que amigo algum desempenhou o papel de companheiro da onça, em meu prejuízo.
-
-Soube aqui que alguém num carro me seguia, percebi, mas isso não era novidade. Notar competidores na retaguarda era um hábito. Fiquei a imaginar que algum amigo quisesse atravessar fechando os meus avanços e quase decolei.
-Ninguém julgue que eu estivesse no domínio das bolas.
-n
-Isso não. Havia apenas sorvido um gole pequeno de um aperitivo inocente, no entanto desconheço como é que aquilo me encorajou tanto para a inconveniência em que me vi, desprezando o freio.
-O ponto de parada era naquele em que o veículo percebeu os sinais primeiro do que eu.
-Agora, vamos pensar em renovação. Com a sua serenidade e a sua coragem, estarei melhor e mais forte.
-Perdoe-me se não andei no caprichado. Se tenho um pesar é só esse, o de imaginar os pais queridos conflitados por minha causa, entretanto, querida mãezinha, conto com a sua compreensão e tolerância.
-Nosso caro José Luiz ficou a reclamar-nos cuidado e carinho e sei que o irmão fará em casa a felicidade que não consegui realizar.
-Mas vou aprender a ser útil e fique na certeza de que saberei auxiliá-la e ser o seu companheiro de sempre, embora me encontre na dimensão diferente em que me reconheço.
-Querida mãezinha Celeste, abençoe-me como sempre e creia que o meu novo dia está clareando com o seu carinho e com o seu entendimento.
-Ao meu pai e ao irmão, com todos da família, as minhas lembranças e, com a sua dedicação fica hoje, como sempre, o imenso amor com todo o reconhecimento de seu filho, sempre o seu,
-Querida mamãe Terezinha,
-n
-envolva-me na doçura das suas vibrações, no poema de preces que o seu coração sabe elevar a Jesus.
-Tenho ouvido o seu pensamento e acompanhado as suas saudades. Já não são as lágrimas ardentes, que nascem nas fontes vulcânicas do desespero, mas a linfa refrescante que, em forma de ternura, me alcança, falando-me da grandeza de todo o seu ser.
-Faltando apenas 46 dias para completar o segundo aniversário da minha viagem para cá,
-n
-roguei permissão aos Amigos Espirituais para enviar-lhe esta outra carta diminuindo a distância no tempo entre nós, em forma de notícias e o nosso amado Doutor Bezerra de Menezes concedeu-me a dádiva, que reconheço não merecer, de retornar ao seu regaço diminuindo, de alguma forma, a dor da separação física, pois que jamais estaremos separados.
-As mães são sempre os anjos estelares do firmamento dos filhos, enquanto o coração paterno é a bússola de segurança a apontar o rumo feliz…
-Não a esqueço, mamãe querida. Os filhos, é certo, enquanto estão no corpo, não sabem valorizar necessariamente a grandeza do amor materno e somente dão-se conta quando o veem passar.
-Quando os homens melhor entenderem o significado da família, a bênção de um pai e de uma mãe, ao lado de irmãos, estruturando a pequena sociedade doméstica, mudar-se-ão os mecanismos da comunidade e o amor governará os destinos levando-os, sem delongas, a Deus.
-Hoje, quando as dores diminuíram, posso avaliar o que foram aqueles dias que se iniciaram no inesquecível 9 de setembro de 1979, após o acidente…
-n
-Revejo, pela tela da memória, o seu desespero, a agonia silenciosa do papai Manoel José, a angústia do José Luiz
-n
-e rogo-lhes, mais uma vez, que me perdoem todas as aflições que lhes causei, sem o desejar…
-Fosse-me possível recuar no tempo e refazer o caminho, tenho a certeza de que daria tudo para poupá-los de tão rude provação…
-Compreendo, porém, que tudo está certo e que nas soberanas Leis de Deus tudo acontece conforme é de melhor para nós, cabendo-nos o dever de retirar o proveito mais próprio para o nosso progresso imortal.
-O bivô Luiz
-n
-prossegue o anjo de sempre, sustentando-me e orientando-me na adaptação às circunstâncias e conjunturas novas.
-Sob o caridoso e compassivo auxílio do amado Doutor Bezerra, que é mestre e pai abnegado, prossigo nas tentativas de reajuste, iniciando pequenas tarefas no campo do auxílio fraternal com que me preparo para o futuro e reparo a precipitação dos anos juvenis…
-Quando estamos no corpo, aos 21 anos,
-n
-como foi o meu caso, acreditamo-nos detentores de toda a sabedoria e credores de todas as concessões da vida.
-Porque os reflexos são jovens, supomos que não nos falham, quando necessitamos, sem nos recordarmos de que a máquina é imprevisível e a própria vida é estabelecida em critérios que nos escapam.
-Os pais são tidos como quadrados, porque prudentes, quando não são taxados de superados, porque vigilantes.
-A vida, porém, ensina e sempre é tempo de aprender-se mais em critério de crescimento.
-Esta carta não tem como objetivo qualquer recordação menos feliz. O meu desejo é agradecer-lhe, Mamãe Terezinha, e rogar que continue auxiliando o nosso José Luiz no seu crescimento para o bem, laborando ao lado do estoico papai Manoel, a fim de que a minha ausência no lar não seja nota de tristeza, mas motivo de trabalho em favor de filhos que não têm pais, na Terra, carentes de amor e amparo, pão e socorro.
-Prossiga amando e repletando as suas horas de assistência aos necessitados — que são nossa porta de serviço redentor. Quanto possível coloque a esperança nas almas e conforte os que se debatem no desespero, auxiliando-os a crer na vitória da vida sobre as vicissitudes mais dolorosas.
-Tive a oportunidade de encontrar aqui o nosso venerando Pe. Sebastião Carmelita
-n
-sempre amado por nossa querida Uberaba e cuja vida de abnegação e fé constitui um eloquente exemplo, cujos frutos ora recolhe na Vida Verdadeira.
-Mamãe Celeste, avancemos para o futuro com passos firmes na estrada do bem, convertendo nossas dores em promessas de felicidade futura. Seu filho tenta crescer e recuperar o tempo, aguardando-a e ao papai Manoel José, ao querido mano José Luiz quando se encerre a jornada de vitórias que vocês estão realizando.
-Não se entristeça, nunca! Cultive as recordações felizes, vendo-me na condição do menino traquinas que sempre fui.
-Chega o momento de encerrar esta carta, agradecendo-lhe o carinho do dia 17 de maio passado,
-n
-que me chegou como alento e dádiva de Deus para o encaminhamento das minhas aspirações no processo de redenção.
-Abraço o querido irmão José Luiz, suplicando ao querido papai que me abençoe com a nobreza de sempre e a você, mamãe querida, com todo o amor, feito de gratidão e devotamento, suplica a sua bênção santificante, o filho sempre devotado, que é o seu menino emocionado,
+1 Querida mamãe Terezinha, n peço ao seu coração continue me abençoando.
+2 Associando-a com o papai neste comunicado breve, estou a me lembrar de que havia prometido a mim próprio que, se viesse primeiro para a vida Espiritual, lhe daria minhas notícias com o apoio do nosso amigo Doutor Bezerra e hoje cumpro este voto e mãe querida, esse nosso benfeitor me embalou nos braços, assim que despertei do sono pesado do qual fui acometido no acidente.
+3 Na hora grave, não tive muita noção do que sucedia. Estava assustado demais para dar conta do acontecimento. O barulho enorme e o choque generalizado me abateram de uma vez. n
+4 Sei apenas que caí e nada mais. Quando despertei no hospital a que me conduziram, julguei que o corpo unicamente recebera alguns estragos e escoriações mas, pouco a pouco, vim a compreender com o auxílio do Doutor Bezerra e de meu avô Luiz n que o corpo danificado em caminho é que era a roupa servida de que me cabia esquecer.
+5 Ao senti-la chorando por minha causa, muito grande foi o meu desajuste pois verifiquei que estávamos ligados um ao outro por um fio, cuja existência eu sentia por dentro de mim, ignorando como demonstrá-lo. 6 Apesar de minha inexperiência, orei muito e continuo nessa prática, a fim de desejar a sua paz e a tranquilidade do papai Manoel e do José Luiz. n Mamãe, vou contar ao seu coração o que aconteceu. Não fique triste com seu filho.
+7 Eu estava correndo mais do que devia. Pensava em conquistar estrada e engolir a paisagem, e fui vítima de minha própria desatenção, que o resultado todos sabem. 8 Creia que amigo algum desempenhou o papel de companheiro da onça, em meu prejuízo. 9 Soube aqui que alguém num carro me seguia, percebi, mas isso não era novidade. Notar competidores na retaguarda era um hábito. Fiquei a imaginar que algum amigo quisesse atravessar fechando os meus avanços e quase decolei.
+10 Ninguém julgue que eu estivesse no domínio das bolas. n Isso não. Havia apenas sorvido um gole pequeno de um aperitivo inocente, no entanto desconheço como é que aquilo me encorajou tanto para a inconveniência em que me vi, desprezando o freio.
+11 O ponto de parada era naquele em que o veículo percebeu os sinais primeiro do que eu.
+12 Agora, vamos pensar em renovação. Com a sua serenidade e a sua coragem, estarei melhor e mais forte. 13 Perdoe-me se não andei no caprichado. Se tenho um pesar é só esse, o de imaginar os pais queridos conflitados por minha causa, entretanto, querida mãezinha, conto com a sua compreensão e tolerância. 14 Nosso caro José Luiz ficou a reclamar-nos cuidado e carinho e sei que o irmão fará em casa a felicidade que não consegui realizar. 15 Mas vou aprender a ser útil e fique na certeza de que saberei auxiliá-la e ser o seu companheiro de sempre, embora me encontre na dimensão diferente em que me reconheço.
+16 Querida mãezinha Celeste, abençoe-me como sempre e creia que o meu novo dia está clareando com o seu carinho e com o seu entendimento. 17 Ao meu pai e ao irmão, com todos da família, as minhas lembranças e, com a sua dedicação fica hoje, como sempre, o imenso amor com todo o reconhecimento de seu filho, sempre o seu,
+1 Querida mamãe Terezinha, n envolva-me na doçura das suas vibrações, no poema de preces que o seu coração sabe elevar a Jesus.
+2 Tenho ouvido o seu pensamento e acompanhado as suas saudades. Já não são as lágrimas ardentes, que nascem nas fontes vulcânicas do desespero, mas a linfa refrescante que, em forma de ternura, me alcança, falando-me da grandeza de todo o seu ser.
+3 Faltando apenas 46 dias para completar o segundo aniversário da minha viagem para cá, n roguei permissão aos Amigos Espirituais para enviar-lhe esta outra carta diminuindo a distância no tempo entre nós, em forma de notícias e o nosso amado Doutor Bezerra de Menezes concedeu-me a dádiva, que reconheço não merecer, de retornar ao seu regaço diminuindo, de alguma forma, a dor da separação física, pois que jamais estaremos separados.
+4 As mães são sempre os anjos estelares do firmamento dos filhos, enquanto o coração paterno é a bússola de segurança a apontar o rumo feliz…
+5 Não a esqueço, mamãe querida. Os filhos, é certo, enquanto estão no corpo, não sabem valorizar necessariamente a grandeza do amor materno e somente dão-se conta quando o veem passar.
+6 Quando os homens melhor entenderem o significado da família, a bênção de um pai e de uma mãe, ao lado de irmãos, estruturando a pequena sociedade doméstica, mudar-se-ão os mecanismos da comunidade e o amor governará os destinos levando-os, sem delongas, a Deus.
+7 Hoje, quando as dores diminuíram, posso avaliar o que foram aqueles dias que se iniciaram no inesquecível 9 de setembro de 1979, após o acidente… n
+8 Revejo, pela tela da memória, o seu desespero, a agonia silenciosa do papai Manoel José, a angústia do José Luiz n e rogo-lhes, mais uma vez, que me perdoem todas as aflições que lhes causei, sem o desejar…
+9 Fosse-me possível recuar no tempo e refazer o caminho, tenho a certeza de que daria tudo para poupá-los de tão rude provação…
+10 Compreendo, porém, que tudo está certo e que nas soberanas Leis de Deus tudo acontece conforme é de melhor para nós, cabendo-nos o dever de retirar o proveito mais próprio para o nosso progresso imortal.
+11 O bivô Luiz n prossegue o anjo de sempre, sustentando-me e orientando-me na adaptação às circunstâncias e conjunturas novas.
+12 Sob o caridoso e compassivo auxílio do amado Doutor Bezerra, que é mestre e pai abnegado, prossigo nas tentativas de reajuste, iniciando pequenas tarefas no campo do auxílio fraternal com que me preparo para o futuro e reparo a precipitação dos anos juvenis…
+13 Quando estamos no corpo, aos 21 anos, n como foi o meu caso, acreditamo-nos detentores de toda a sabedoria e credores de todas as concessões da vida. 14 Porque os reflexos são jovens, supomos que não nos falham, quando necessitamos, sem nos recordarmos de que a máquina é imprevisível e a própria vida é estabelecida em critérios que nos escapam. 15 Os pais são tidos como quadrados, porque prudentes, quando não são taxados de superados, porque vigilantes. 16 A vida, porém, ensina e sempre é tempo de aprender-se mais em critério de crescimento.
+17 Esta carta não tem como objetivo qualquer recordação menos feliz. O meu desejo é agradecer-lhe, Mamãe Terezinha, e rogar que continue auxiliando o nosso José Luiz no seu crescimento para o bem, laborando ao lado do estoico papai Manoel, a fim de que a minha ausência no lar não seja nota de tristeza, mas motivo de trabalho em favor de filhos que não têm pais, na Terra, carentes de amor e amparo, pão e socorro.
+18 Prossiga amando e repletando as suas horas de assistência aos necessitados — que são nossa porta de serviço redentor. Quanto possível coloque a esperança nas almas e conforte os que se debatem no desespero, auxiliando-os a crer na vitória da vida sobre as vicissitudes mais dolorosas.
+19 Tive a oportunidade de encontrar aqui o nosso venerando Pe. Sebastião Carmelita n sempre amado por nossa querida Uberaba e cuja vida de abnegação e fé constitui um eloquente exemplo, cujos frutos ora recolhe na Vida Verdadeira.
+20 Mamãe Celeste, avancemos para o futuro com passos firmes na estrada do bem, convertendo nossas dores em promessas de felicidade futura. Seu filho tenta crescer e recuperar o tempo, aguardando-a e ao papai Manoel José, ao querido mano José Luiz quando se encerre a jornada de vitórias que vocês estão realizando.
+21 Não se entristeça, nunca! Cultive as recordações felizes, vendo-me na condição do menino traquinas que sempre fui.
+22 Chega o momento de encerrar esta carta, agradecendo-lhe o carinho do dia 17 de maio passado, n que me chegou como alento e dádiva de Deus para o encaminhamento das minhas aspirações no processo de redenção.
+23 Abraço o querido irmão José Luiz, suplicando ao querido papai que me abençoe com a nobreza de sempre e a você, mamãe querida, com todo o amor, feito de gratidão e devotamento, suplica a sua bênção santificante, o filho sempre devotado, que é o seu menino emocionado,
 
 ---
 
-## 4 — Jayme Costa dos Santos Filho
+## 4
 
 > Jayme Costa dos Santos Filho, era filho do Dr. Jayme Costa dos Santos e D. Sael Oliveira dos Santos, tendo nascido na cidade de Curitiba, PR, no dia 02.12.1955 e desencarnou, na mesma cidade, no dia 27.02.1977.
 > — Mãezinha Sael
 
-Querida mãezinha Sael,
-n
-a sua bênção para o seu filho que não a esquece.
-Tenho o coração estourando no peito, se posso definir desse modo a emoção que me assalta.
-Mãezinha, nas medidas do tempo, a minha saudade tem o tamanho de dois anos e três meses menos dois dias.
-n
-Parece-me certa a contagem. Tenho estado na condição dos detentos na cela dessa saudade que é tão nossa. Você compreende e perdoa.
-Desde aquele momento em que o choque de veículos
-n
-me apagou a memória, principiou vida nova para mim.
-Dormir foi o resultado daquele choque de que não conseguiria me desvencilhar. Um sono profundo, que assumia a forma de insensibilidade após uma carga violenta de sedativos.
-Nada mais vi, depois daqueles minutos estranhos, até que o despertar veio a mim, à feição de sol da manhã num rosto de criança.
-Descrever o que senti é realmente impraticável. No começo a ideia de um tratamento eficaz me veio à lembrança. Algum médico, decerto, me haveria arrancado àquela imobilidade total, entretanto, depois de fitar as enfermeiras silenciosas que se esgueiravam em torno de mim, o espanto me tomou todas as fibras ao ver que a vovó Fredolinda
-n
-estava em meu quarto.
-“Você voltou à nossa casa, Jayminho…” Aquela voz me abalava por dentro…
-Então, era a separação do lar que ficava na retaguarda, então era a morte numa versão que nunca esperara! Apesar da alegria de encontrar minha avó, chorei qual menino que se visse furtado aos pais. Vovó Fredolinda me afagou, como se fosse a senhora mesma, e deixou que meu pranto rolasse enquanto a crise exercia sobre mim vigoroso domínio…
-Depois, querida mamãe, foi a retomada de mim mesmo, pouco a pouco, lembrança a lembrança, nervo a nervo… Reintegrado em mim próprio passei a ouvi-la, a escutar as ponderações de meu pai e os lamentos de nossa querida Jô.
-n
-Não sabia se nossa casa estava em mim ou se estava eu, incompreensivelmente para mim, em nossa casa…
-Suas preces me colhiam à maneira de bálsamo tranquilizante e fiquei como que parado nessas emoções até que pudesse encontrar um meio de falar-lhe ao coração.
-Agora, enquanto escrevo, tenho a ideia de liberar as minhas próprias ansiedades nas letras que vou gravando no papel… Uma força benéfica me descansa. Falo ao seu carinho e isso para mim expressa repouso.
-Mãezinha querida, perdoe-me se lhe causei tantas lágrimas. Suponho que você e meu pai sabem que não tive culpa. O carro pesado me atravessou à frente e reconheci, de súbito, que não teria condições de evitar a ocorrência. O resto é o sofrimento que a esponja do tempo vai absorvendo gradativamente, habilitando-nos aceitação dos desígnios da Vida Superior.
-Peço-lhe dizer à querida Josane
-n
-que desejo vê-la descontraída e feliz: Sei que a irmãzinha ainda sofre e formulo votos para que a vejamos liberta de quaisquer recordações destrutivas. Tudo passou. Agora é tempo de esperança.
-Agradeço o carinho de sua persistência, aguardando-me a palavra que somente hoje consigo de algum modo articular. Agradeço a meu pai os pensamentos de paz e amor que me envia e desejo dizer que o meu bisavô Santos
-n
-tem sido igualmente para mim um precioso amigo.
-Mãezinha querida, conquanto o meu propósito de ampliar-me em carta afetuosa e longa, não devo abusar do tempo que me foi concedido. Pude transmitir à sua dedicação algo de meu jubiloso reconhecimento e um tanto de minhas saudades imensas e isso me reconforta.
-Desejava ser útil ao amigo Cezar Augusto,
-n
-no entanto, estou ainda muito pobre de recursos na dimensão nova da existência a que fui conduzido.
-Mãezinha, saiba que continuamos sempre juntos como nos dias que não se foram, porque as horas de nossa união são inalteráveis. Sou sempre seu filho pelo coração, companheiro e amigo de todos os instantes.
-A senhora se lembra de que enquanto meu pai Jayme
-n
-velava por nós, sempre atento à solução dos nossos problemas, éramos nós, com a nossa querida Jô, os planejadores da alegria e da felicidade em casa. Pois essa comunhão prossegue sem mudança. Seu coração formou o que trago no peito e, por isso mesmo, sou como que o próprio eco de seus pensamentos.
-Vovó Fredolinda aqui comigo lhe abençoa o carinho e reafirma-me que somos e seremos nós assim sempre.
-Querida mãezinha, muito grato por todo o seu trabalho, deixando nosso céu de Curitiba
-n
-para reencontrar-nos através das palavras escritas. Meu reconhecimento ao papai, com grande abraço à querida Josane. E para você, querida mãezinha, todo o amor, todo o jubiloso amor de seu filho, coração de seu coração,
-Querida mãezinha Sael,
-n
-estou rogando a Jesus conceder-nos suas bênçãos, a fim de que a nossa estrada prossiga clareada pelas estrelas da esperança, diminuindo as sombras da separação, que a morte não conseguiu tornar possível.
-Utilizo-me do correio da mediunidade, para colocar a ponte de comunicação com que passaremos as barreiras da saudade, minimizando as tristezas que, não raro, tentam assomar à tela da nossa afetividade, na tentativa de fazer-nos sofrer.
-Não conseguimos esquecer-nos, não obstante as circunstâncias em que nos encontramos. A Vida não foi devorada pela volúpia da Morte e o choque dos veículos não pôde apagar, com a destruição do corpo, toda a sinfonia das lembranças, que permanecem em musicalidade divina na pauta dos nossos corações afetuosos…
-Faltando apenas 3 dias para que complete 3 anos e 9 meses de separação física, na contabilidade terrestre que nos distancia do próximo dia 2 de dezembro, quando eu completaria 25 anos de idade física,
-n
-roguei a Jesus me permitisse trazer-lhes as notícias da nossa perene comunhão, auxiliando-a a manter alto o seu nível de otimismo e do papai Jayme, bem assim da nossa Jô
-n
-e do nosso Francisco
-n
-que se nos associou à família, você que transformou as saudades pungentes e dolorosas em claridades para os que ainda se demoram nas sombras da amargura lamentando a perda das pessoas amadas que transpuseram a aduana da Imortalidade.
-Você soube converter a tragédia em bênção, infortúnio em felicidade, acalentando a hora em que voltaremos a estar juntos, servindo à vitória do Mundo Melhor, onde não mais experimentaremos prova, dor ou saudade…
-Antes da minha
-todos experimentávamos as saudades da vovó Fredolinda,
-n
-no entanto, hoje, ela é um Sol em nossas vidas, ensinando-nos, como no passado, a gravitar em volta da sua figura veneranda.
-Tudo passa, mãezinha, entre expectativas e sonhos… Mesmo a dor é um sonho que, não sabendo como valorizar, muitos transformam em pesadelo. Felizes aqueles que da vida física sabem retirar os valores imperecíveis, que sobrevivem a quaisquer circunstâncias no trânsito carnal.
-Tenho aprendido que a maior glória da existência humana é a perfeita conjugação do verbo servir, mediante o qual se pode construir a vida no coração, sem que calamidade alguma possa diminuir a grandeza da realidade perene.
-Desejo dizer-lhe, mãezinha querida, que a nossa Tia Quita,
-n
-hoje lúcida, vem agradecer-lhe e a todos o carinho com que a sustentaram na jornada de que ela se liberou a penates, no demorado processo de desencarnação sob o jugo da enfermidade impiedosa, todavia, que se lhe fez uma estrada luminosa para a total liberação das penas a que se encontrava jugulada por impositivo das dívidas de outras reencarnações…
-Nesta tarde de alegria e de recordações, desejo abraçar o anjo benfeitor que tem sido em nossa vida, a querida Titia,
-n
-em cuja alma abnegada e sentimentos superiores todos encontramos apoio e amparo, sustentação e lições vivas de grandeza, que caracterizam os eleitos do Senhor que se engrandeceram pela renúncia e pela abnegação.
-Nesta carta de amor que nada consegue diminuir, desejo dizer a todos aqui presentes, que anelam por notícias dos seres amados, ora residentes nesta outra dimensão da Vida, que nos fazemos intermediários deles mesmos, trazendo para os que se encontram encarcerados nas jaulas do corpo físico, que não se lamentem nem se desesperem porque eles prosseguem unidos, lutando, lado a lado, vinculados pelos liames fortes do afeto, aguardando o momento próprio em que o intercâmbio mente a mente se faça consolador e abençoado, apagando com luz as teimosas sombras da duradoura saudade.
-Morte não é separação, não é aniquilamento. Quando o homem compreender que a vida é indestrutível e que o berço é somente um pórtico por onde se adentra no corpo e que a morte é uma porta pela qual se sai da matéria, mudarão as paisagens da angústia que, teimosamente, domina larga faixa da Humanidade.
-Assim esclarecido, o homem se preparará para a realidade transcendente da Vida e não somente para o curto período “berço e túmulo” que, por mais demorado, é sempre breve na ampulheta do tempo ilimitado…
-Mãezinha, continuemos unidos em Jesus, abraçados ao querido papai nesta fase em que ele se encontra mais renovado, após o impacto do passado, quando eu fui recambiado para cá e continue consolando os que lhe chegam ao coração afetuoso e amigo.
-Derrame as pérolas do Evangelho por onde passe o seu verbo embasado no exemplo e faça-se catapulta para erguer e impulsionar os caídos, no rumo da esperança e da ventura plena.
-Neste próximo Natal, demo-nos as mãos fazendo uma corrente de amor que beneficie o maior número possível dos sofredores, a fim de que a data aniversária de Jesus se demore por todos os dias futuros deles, desse modo tornando-se também um perene Natal em nossas Vidas.
-Abraçamos em espírito de união todas as mãezinhas aqui saudosas, todos os paizinhos abnegados e silenciosos com as saudades enjauladas nas celas dos sentimentos doridos, embalando a esperança de alegrias próximas na certeza, sem insegurança, de paz.
-Soa o momento de encerrar esta carta, onde as palavras como melodias do coração transformado em harpa dedilhada pelo anjo da gratidão, convertem-se em traços que o lápis vai marcando no papel.
-Desejo abraçar você, mãezinha inesquecível, o papai generoso e nobre, a Jô e o Francisco num mesmo sentimento, transmitindo o carinho da vovó Fredolinda, do Bivô Santos,
-n
-da Tia Quita e todos que ora aqui nos encontramos, ao tempo em que osculando a Titia, suplico à Mãe Santíssima da Humanidade, a Mãe sublime de Jesus, que nos abençoe e sustente sempre.
-Até breve, mãezinha querida. Todo o carinho do filho que lhe deseja poupar as recordações tristes e que sem querer vê-la verter tanto pranto, sempre e sempre devotado,
+1 Querida mãezinha Sael, n a sua bênção para o seu filho que não a esquece.
+2 Tenho o coração estourando no peito, se posso definir desse modo a emoção que me assalta.
+3 Mãezinha, nas medidas do tempo, a minha saudade tem o tamanho de dois anos e três meses menos dois dias. n Parece-me certa a contagem. Tenho estado na condição dos detentos na cela dessa saudade que é tão nossa. Você compreende e perdoa.
+4 Desde aquele momento em que o choque de veículos n me apagou a memória, principiou vida nova para mim. 5 Dormir foi o resultado daquele choque de que não conseguiria me desvencilhar. Um sono profundo, que assumia a forma de insensibilidade após uma carga violenta de sedativos.
+6 Nada mais vi, depois daqueles minutos estranhos, até que o despertar veio a mim, à feição de sol da manhã num rosto de criança.
+7 Descrever o que senti é realmente impraticável. No começo a ideia de um tratamento eficaz me veio à lembrança. Algum médico, decerto, me haveria arrancado àquela imobilidade total, entretanto, depois de fitar as enfermeiras silenciosas que se esgueiravam em torno de mim, o espanto me tomou todas as fibras ao ver que a vovó Fredolinda n estava em meu quarto.
+8 “Você voltou à nossa casa, Jayminho…” Aquela voz me abalava por dentro…
+9 Então, era a separação do lar que ficava na retaguarda, então era a morte numa versão que nunca esperara! Apesar da alegria de encontrar minha avó, chorei qual menino que se visse furtado aos pais. Vovó Fredolinda me afagou, como se fosse a senhora mesma, e deixou que meu pranto rolasse enquanto a crise exercia sobre mim vigoroso domínio…
+10 Depois, querida mamãe, foi a retomada de mim mesmo, pouco a pouco, lembrança a lembrança, nervo a nervo… Reintegrado em mim próprio passei a ouvi-la, a escutar as ponderações de meu pai e os lamentos de nossa querida Jô. n
+11 Não sabia se nossa casa estava em mim ou se estava eu, incompreensivelmente para mim, em nossa casa… 12 Suas preces me colhiam à maneira de bálsamo tranquilizante e fiquei como que parado nessas emoções até que pudesse encontrar um meio de falar-lhe ao coração. 13 Agora, enquanto escrevo, tenho a ideia de liberar as minhas próprias ansiedades nas letras que vou gravando no papel… Uma força benéfica me descansa. Falo ao seu carinho e isso para mim expressa repouso.
+14 Mãezinha querida, perdoe-me se lhe causei tantas lágrimas. Suponho que você e meu pai sabem que não tive culpa. O carro pesado me atravessou à frente e reconheci, de súbito, que não teria condições de evitar a ocorrência. O resto é o sofrimento que a esponja do tempo vai absorvendo gradativamente, habilitando-nos aceitação dos desígnios da Vida Superior.
+15 Peço-lhe dizer à querida Josane n que desejo vê-la descontraída e feliz: Sei que a irmãzinha ainda sofre e formulo votos para que a vejamos liberta de quaisquer recordações destrutivas. Tudo passou. Agora é tempo de esperança.
+16 Agradeço o carinho de sua persistência, aguardando-me a palavra que somente hoje consigo de algum modo articular. Agradeço a meu pai os pensamentos de paz e amor que me envia e desejo dizer que o meu bisavô Santos n tem sido igualmente para mim um precioso amigo.
+17 Mãezinha querida, conquanto o meu propósito de ampliar-me em carta afetuosa e longa, não devo abusar do tempo que me foi concedido. Pude transmitir à sua dedicação algo de meu jubiloso reconhecimento e um tanto de minhas saudades imensas e isso me reconforta.
+18 Desejava ser útil ao amigo Cezar Augusto, n no entanto, estou ainda muito pobre de recursos na dimensão nova da existência a que fui conduzido.
+19 Mãezinha, saiba que continuamos sempre juntos como nos dias que não se foram, porque as horas de nossa união são inalteráveis. Sou sempre seu filho pelo coração, companheiro e amigo de todos os instantes.
+20 A senhora se lembra de que enquanto meu pai Jayme n velava por nós, sempre atento à solução dos nossos problemas, éramos nós, com a nossa querida Jô, os planejadores da alegria e da felicidade em casa. Pois essa comunhão prossegue sem mudança. Seu coração formou o que trago no peito e, por isso mesmo, sou como que o próprio eco de seus pensamentos.
+21 Vovó Fredolinda aqui comigo lhe abençoa o carinho e reafirma-me que somos e seremos nós assim sempre.
+22 Querida mãezinha, muito grato por todo o seu trabalho, deixando nosso céu de Curitiba n para reencontrar-nos através das palavras escritas. Meu reconhecimento ao papai, com grande abraço à querida Josane. E para você, querida mãezinha, todo o amor, todo o jubiloso amor de seu filho, coração de seu coração,
+1 Querida mãezinha Sael, n estou rogando a Jesus conceder-nos suas bênçãos, a fim de que a nossa estrada prossiga clareada pelas estrelas da esperança, diminuindo as sombras da separação, que a morte não conseguiu tornar possível.
+2 Utilizo-me do correio da mediunidade, para colocar a ponte de comunicação com que passaremos as barreiras da saudade, minimizando as tristezas que, não raro, tentam assomar à tela da nossa afetividade, na tentativa de fazer-nos sofrer.
+3 Não conseguimos esquecer-nos, não obstante as circunstâncias em que nos encontramos. A Vida não foi devorada pela volúpia da Morte e o choque dos veículos não pôde apagar, com a destruição do corpo, toda a sinfonia das lembranças, que permanecem em musicalidade divina na pauta dos nossos corações afetuosos…
+4 Faltando apenas 3 dias para que complete 3 anos e 9 meses de separação física, na contabilidade terrestre que nos distancia do próximo dia 2 de dezembro, quando eu completaria 25 anos de idade física, n roguei a Jesus me permitisse trazer-lhes as notícias da nossa perene comunhão, auxiliando-a a manter alto o seu nível de otimismo e do papai Jayme, bem assim da nossa Jô n e do nosso Francisco n que se nos associou à família, você que transformou as saudades pungentes e dolorosas em claridades para os que ainda se demoram nas sombras da amargura lamentando a perda das pessoas amadas que transpuseram a aduana da Imortalidade.
+5 Você soube converter a tragédia em bênção, infortúnio em felicidade, acalentando a hora em que voltaremos a estar juntos, servindo à vitória do Mundo Melhor, onde não mais experimentaremos prova, dor ou saudade…
+6 Antes da minha viagem para cá todos experimentávamos as saudades da vovó Fredolinda, n no entanto, hoje, ela é um Sol em nossas vidas, ensinando-nos, como no passado, a gravitar em volta da sua figura veneranda.
+7 Tudo passa, mãezinha, entre expectativas e sonhos… Mesmo a dor é um sonho que, não sabendo como valorizar, muitos transformam em pesadelo. Felizes aqueles que da vida física sabem retirar os valores imperecíveis, que sobrevivem a quaisquer circunstâncias no trânsito carnal.
+8 Tenho aprendido que a maior glória da existência humana é a perfeita conjugação do verbo servir, mediante o qual se pode construir a vida no coração, sem que calamidade alguma possa diminuir a grandeza da realidade perene.
+9 Desejo dizer-lhe, mãezinha querida, que a nossa Tia Quita, n hoje lúcida, vem agradecer-lhe e a todos o carinho com que a sustentaram na jornada de que ela se liberou a penates, no demorado processo de desencarnação sob o jugo da enfermidade impiedosa, todavia, que se lhe fez uma estrada luminosa para a total liberação das penas a que se encontrava jugulada por impositivo das dívidas de outras reencarnações…
+10 Nesta tarde de alegria e de recordações, desejo abraçar o anjo benfeitor que tem sido em nossa vida, a querida Titia, n em cuja alma abnegada e sentimentos superiores todos encontramos apoio e amparo, sustentação e lições vivas de grandeza, que caracterizam os eleitos do Senhor que se engrandeceram pela renúncia e pela abnegação.
+11 Nesta carta de amor que nada consegue diminuir, desejo dizer a todos aqui presentes, que anelam por notícias dos seres amados, ora residentes nesta outra dimensão da Vida, que nos fazemos intermediários deles mesmos, trazendo para os que se encontram encarcerados nas jaulas do corpo físico, que não se lamentem nem se desesperem porque eles prosseguem unidos, lutando, lado a lado, vinculados pelos liames fortes do afeto, aguardando o momento próprio em que o intercâmbio mente a mente se faça consolador e abençoado, apagando com luz as teimosas sombras da duradoura saudade.
+12 Morte não é separação, não é aniquilamento. Quando o homem compreender que a vida é indestrutível e que o berço é somente um pórtico por onde se adentra no corpo e que a morte é uma porta pela qual se sai da matéria, mudarão as paisagens da angústia que, teimosamente, domina larga faixa da Humanidade. 13 Assim esclarecido, o homem se preparará para a realidade transcendente da Vida e não somente para o curto período “berço e túmulo” que, por mais demorado, é sempre breve na ampulheta do tempo ilimitado…
+14 Mãezinha, continuemos unidos em Jesus, abraçados ao querido papai nesta fase em que ele se encontra mais renovado, após o impacto do passado, quando eu fui recambiado para cá e continue consolando os que lhe chegam ao coração afetuoso e amigo.
+15 Derrame as pérolas do Evangelho por onde passe o seu verbo embasado no exemplo e faça-se catapulta para erguer e impulsionar os caídos, no rumo da esperança e da ventura plena.
+16 Neste próximo Natal, demo-nos as mãos fazendo uma corrente de amor que beneficie o maior número possível dos sofredores, a fim de que a data aniversária de Jesus se demore por todos os dias futuros deles, desse modo tornando-se também um perene Natal em nossas Vidas.
+17 Abraçamos em espírito de união todas as mãezinhas aqui saudosas, todos os paizinhos abnegados e silenciosos com as saudades enjauladas nas celas dos sentimentos doridos, embalando a esperança de alegrias próximas na certeza, sem insegurança, de paz.
+18 Soa o momento de encerrar esta carta, onde as palavras como melodias do coração transformado em harpa dedilhada pelo anjo da gratidão, convertem-se em traços que o lápis vai marcando no papel. 19 Desejo abraçar você, mãezinha inesquecível, o papai generoso e nobre, a Jô e o Francisco num mesmo sentimento, transmitindo o carinho da vovó Fredolinda, do Bivô Santos, n da Tia Quita e todos que ora aqui nos encontramos, ao tempo em que osculando a Titia, suplico à Mãe Santíssima da Humanidade, a Mãe sublime de Jesus, que nos abençoe e sustente sempre.
+20 Até breve, mãezinha querida. Todo o carinho do filho que lhe deseja poupar as recordações tristes e que sem querer vê-la verter tanto pranto, sempre e sempre devotado,
 
 ---
 
-## 5 — Jane Furtado Koerich
+## 5
 
 > Jane Furtado Koerich, filha do Sr. Antônio Koerich e D. Ony Furtado Koerich, nasceu no dia 06.05.1960, em Florianópolis (SC) e desencarnou, em acidente aéreo, nas proximidades dessa mesma cidade, no dia 12.04.1980.
 > — Ony e Antônio
 
-Querida mãezinha Ony e querido papai Antônio.
-n
-Estou ainda aturdida, mas pedi para trazer-lhes alguma resposta à ansiedade que é dividida entre nós.
-Estou com o auxílio de meu avô Engelberto
-n
-e da irmã Erna,
-n
-uma generosa criatura que nos acolheu aqui, e sinto-me garantida pelo apoio deles para traçar estas notícias.
-Tudo foi tão de improviso que sinceramente, estamos na condição de pessoas que um choque indefinível traumatizou.
-Havíamos saído da cidade com a certeza de que chegaríamos a Florianópolis com tempo bastante para usufruir um domingo de paz e de muita alegria.
-Não sei porque escolhemos o horário do embarque, porque dispúnhamos de outras chances. Pois foi justamente no avião designado por forças que nos levaram em nome da Sabedoria Divina, aquele em que nos instalamos para a despedida inesperada.
-A nossa Rosemary
-n
-viajava com a preocupação de quem não contava com muito tempo, a fim de se entreter fora de casa, embora fosse conosco para a nossa casa do coração, onde vocês nos aguardavam. A Sônia
-n
-conversava alegremente. Não me lembro mais de que passeio tratávamos por antecipação quando aconteceu o indescritível.
-Creio que ninguém se entregou, senão àquele pesado silêncio no qual entramos, compreendendo que estávamos sendo chamadas para o desconhecido.
-Acreditem que não senti dor alguma, a não ser aquele choque talvez destinado a cobrir o nosso sofrimento, com a impressão de que havíamos chegado aos derradeiros limites da existência.
-De mim mesma enviei, um pensamento a Deus e nele me escorei como quem agarra um fio de linha muito leve, à frente de um abismo para não cair nele e, depois soube que Rosemary e Sônia fizeram o mesmo, resguardando-se na prece rápida. O resto é aquilo que a palavra não escreve.
-O assombro foi grande, de tal modo, que suprimiu em nós qualquer ideia de queda e de aflição.
-A fuga do corpo — pois somente assim consigo definir a liberação do veículo físico que nos retinha — foi imperceptível para nós.
-Creio hoje que há dias positivos da Bondade Infinita de Deus, nas próprias criaturas que somos nós, a fim de que a morte violenta não seja registrada por aqueles que lhe sofrem o impacto irresistível.
-A ideia de aniquilamento integral esteve comigo por instante e arrojei-me num torpor que superou, a meu ver, todas as imagens que eu fazia a respeito de ausências e desmaios, quando a mente se vê desorientada por fatores que se perdem na própria inconsciência.
-Acordei, juntamente das companheiras de viagem num aposento simples e confortável no qual uma senhora de semblante carinhoso e belo nos sorria. Creio que foi Rosemary a primeira a despertar, porquanto conseguia vê-la rente a mim, de olhos vigilantes. A Sônia acordava momentos depois.
-Perguntei à nossa amiga desconhecida quem era ela e em que lugar nos achávamos para alguma comunicação pronta com os nossos. Ela sorriu, como que desejosa de acentuar a própria bondade no silêncio que mantinha…
-Em seguida, pediu para que nos libertássemos de qualquer ideia de medo e esclareceu-nos que ela nos seguira no próprio voo interrompido e que se chamava Bisa Custódia.
-n
-Então nos lembramos da vovó Maria Goulart
-n
-e entendemos, espantadas, o que estava acontecendo.
-Mãezinha Ony, o seu coração compreende o que se passou. Quantas lágrimas nos escorreram dos olhos para a face, não saberíamos contar…
-De imediato pusemo-nos em ligação involuntária com a nossa casa e vimos, por dentro de nós, através de processos que não entendo ainda, quanto sofriam com o acontecido.
-Rose a repartir-se entre Florianópolis e São Paulo chorou muito, ocorrendo o mesmo com a nossa querida Soninha. Entretanto, forças que ignoramos nos sustentavam e aqui estou para dizer-lhes, como também ao nosso caro Sidnei,
-n
-que estamos vivas, conquanto em outra ordem de recursos, que nos alimentam a existência.
-Ainda não me sinto no autocontrole, mas agradeço aos pais queridos a coragem e a serenidade que deram provas, endereçando-nos pensamentos de paz e resignação, sob a luz da fé viva em Deus que nos mantém a tranquilidade possível.
-Rose e Sônia me fazem intérprete do carinho delas aos que ficaram e juntamente do avô Engelberto, que também nos apareceu providencialmente, representando o papai.
-Aqui estou a lhes agradecer quanto fizeram e fazem por nós, fortalecendo-nos para aceitar as posições a que fomos arrebatadas, com o possível otimismo. Não nos acreditem massacradas ou infelizes.
-
-Estamos íntegras, embora houvesse dor para nós nos primeiros dias que se sucederam à dolorosa ocorrência.
-O nosso corpo é o mesmo, qual se somente houvesse trocado de vestimenta.
-Ainda não temos intercâmbio com amigos da viagem, mas esperamos por melhoras juntas, a fim de ampliarmos o nosso campo de impressões e de relacionamento.
-Querido papai, receba com a mãezinha Ony todos os nossos pensamentos de muita gratidão e de muito amor. Não consigo escrever mais.
-A querida bisa ou mãe Custódia me aguarda reunindo a vovó Maria com todos os nossos no abraço em que procuro transmitir-lhes todo o carinho de minhas grandes saudades, sou a filha muito grata que os conserva com todo amor, por dentro do próprio coração.
-Querida mãezinha Ony, meu querido papai Antônio.
-n
-Daquele sábado, dia doze de abril, há dois anos atrás,
-n
-não nos restam resíduos de dor ou mágoa.
-O algodão do tempo vem se encarregando de enxugar o suor das aflições que porejaram demoradamente nas faces das nossas angústias. Restou-nos a saudade que, ao inverso de ser um abismo separando-nos, constitui-nos a ponte abençoada das nossas lembranças, em contínuas viagens de carinho e ternura.
-A saudade entretecida de amor, é a presença do ausente cantando recordações, na pauta sinfônica da música do sempre querer. Significa que o tempo, na sua vilegiatura intérmina, não logrou extinguir tudo aquilo que representava carinho e era vida pulsando em plenitude nos atos da nossa união feliz.
-Ainda hoje sou a missivista que retorna em nome da nossa família de cá, a conduzir notícias pelo correio da mediunidade, a fim de que os estímulos da comunicação nos emulem ao prosseguimento das tarefas que abraçamos em ambas esferas da vida.
-A nossa querida Rosemary
-n
-continua no seu afã, junto ao nosso Sidnei,
-n
-sustentando-lhe as forças jovens e, ao mesmo tempo, transubstanciando o amor de esposa em carinho de mãe.
-A situação em que nos encontramos revela-nos a visão real da vida e modifica-nos o conceito dos valores humanos, numa ética de transcendente beleza, superando os padrões da posse e do egoísmo, ao tempo em que se trabalham aspirações e conquistas, com os olhos postos no futuro imortal.
-Vem a nossa sempre querida Rose,
-n
-devotando-se ao companheiro que ficou na retaguarda terrestre, sem esquecer a nossa família extremosamente querida.
-Aquele sábado que se dourava de sonhos e aspirações para nós três, aqui incluindo a sempre querida Soninha,
-n
-abriu-nos, de repente, horizontes infinitos de beleza e amor, quando o corpo deixou de vibrar e libertou; nos destroços do avião, o Espírito ansioso e rico de aspirações e anseios.
-Nestes dois anos que se passaram, temos a ideia de um longo e penoso tempo, quando, em realidade, foi apenas um breve tempo em que a nossa família, parecendo perder dois membros, ampliou-se na direção da humanidade.
-Agora somos uma imensa lista de afetos que papai sempre cultivou em nossas Empresas, seguindo o exemplo do vovô Eugênio
-n
-que, por sua vez, haurira sabedoria e honestidade nas mãos generosas e ricas de dignidade do bivô Engelberto
-n
-… Aqui conosco, ambos traduzem através do lápis que empunho por momentos, a alegria de reencontrá-los felizes ou quase, ante a compreensão da vida estuante que pesa nos seus corações e vibra nos seus dias.
-Ocorre que, à noite da morte dolorosa sucedeu a madrugada ridente da ressurreição, na qual iniciamos dia de felicidade sem limite que se concretizará no futuro.
-A querida bisa Custódia,
-n
-representando a maternidade em triunfo, em nossa casa, ao lado da vovó Maria Goulart
-n
-acena-nos um reencontro no país da ventura plena, onde se consomem, em lampejos de júbilos, todas as lágrimas com que a angústia perola os corações saudosos, que na Terra interrogam as estrelas nas noites silenciosas a respeito dos seus amores que viajam para cá.
-Ninhos de bênçãos nelas permanecem tremulando em prateada luz e respondem em silêncio que, o amor é elixir de longa vida das almas a fazê-las reencontrar-se e unir-se numa festa permanente, quando forem superadas as vicissitudes.
-Aguardemos assim, esses dias porvindouros, sem pressa nem agonia, aproveitando o milagre das horas para construir o palácio ditoso onde nos reuniremos sem outras separações.
-Mãezinha Ony, ainda encontro-a no meu quarto olhando o meu retrato e perguntando-se mil indagações como somente as mães sabem elaborar.
-n
-Não poucas vezes envolvo-a em ternura e falo-lhe ao coração, utilizando-me do microfone da intuição, a fim de que a sua alma não se altere e permaneça a sua irrestrita confiança em Deus.
-Sua filhinha prossegue encantada com as conquistas novas. Na cidade-jardim a que me reportei anteriormente,
-n
-onde fomos admitidas graças aos títulos de enobrecimento do bivô Engelberto, temos progredido no conhecimento e nas experiências, através do estudo e da ação.
-Aqui valemos o que produzimos e cada qual alarga o campo de crescimento mediante as tarefas que realizar, pois somente servindo é que se aprende a dirigir e agindo que se vive a experiência do aprendizado.
-Há poucos dias, tivemos oportunidade de receber a visita, em nosso departamento de trabalhos e estudos, do amável Padre Reus,
-n
-tão querido em nossa Santa Catarina pelas suas realizações de amor ao lado dos sofredores da Terra. Ouvimo-lo com emoção e respeito, recordando-nos do que nos era familiar desde a infância em torno da sua vida de taumaturgo. Não posso negar que as lágrimas de emoção e júbilo escorriam-me, evocando na tela da memória os clichês da religião onde haurimos as noções de Deus e as diretrizes da fé.
-Papai Antônio, eu sei que não é fácil para você, tanto quanto para a nossa família compreender e aceitar sem interrogações tudo quanto nos sucedeu e nos vêm ocorrendo em beleza, esperança e informações dantes jamais imaginadas…
-A vida, porém, são as suas surpresas, os seus sucessos que a todos nos colhem a cada instante sob variadas impressões. Prossiga justo e bom, gentil e amigo, amparando os sofredores e socorrendo a todos, especialmente aqueles que contribuem pelo trabalho para a preservação do pão de cada dia.
-No último Natal acompanhei-os, a você e à mãezinha, e recebemos, suas filhas, toda a guirlanda feita com flores de amor e caridade com que vocês atenderam aos que partilham de nossa família ampliada.
-n
-Desejo consignar, na carta de hoje, a presença de vários benfeitores da Comunidade Espírita da nossa querida Florianópolis, que participam das nossas alegrias e das nossas atuais disposições. Refiro-me ao venerável Sr. Osvaldo Melo, aos abnegados Nelito e Abreu,
-n
-que tanto se deram pelo serviço social junto aos sofredores e às crianças sob a meridiana luz da caridade cristã. Amigos novos que vamos conquistando, são-nos tesouros de bondade com que nos enriquecemos na área de serviços em que nos localizamos.
-A bisa Custódia, sorridente, adverte-nos sobre o tempo e fala-me da necessidade de finalizar a presente carta, terminando uma mensagem, que não termina qual uma sinfonia inacabada, que logo mais prosseguirá com melodia nova e acordes felizes embalando as nossas aspirações.
-Traduzindo o carinho dos nossos daqui, para os nossos daí, abraço-os com infinito amor, quanto vocês não possam imaginar, tornando-os no céu das nossas saudades, da Rose e minhas, o Sol e a Lua dos nossos dias, a fim de que não haja sombra em hora alguma sob a potência de Jesus, nossa estrela de Primeira Grandeza.
-Querida mãezinha Ony e querido papai Antônio, beijando-os com toda unção e reconhecimento, a filha de sempre, sempre devotada e que buscará crescer para melhor os amar,
+1 Querida mãezinha Ony e querido papai Antônio. n
+2 Estou ainda aturdida, mas pedi para trazer-lhes alguma resposta à ansiedade que é dividida entre nós.
+3 Estou com o auxílio de meu avô Engelberto n e da irmã Erna, n uma generosa criatura que nos acolheu aqui, e sinto-me garantida pelo apoio deles para traçar estas notícias.
+4 Tudo foi tão de improviso que sinceramente, estamos na condição de pessoas que um choque indefinível traumatizou. 5 Havíamos saído da cidade com a certeza de que chegaríamos a Florianópolis com tempo bastante para usufruir um domingo de paz e de muita alegria. 6 Não sei porque escolhemos o horário do embarque, porque dispúnhamos de outras chances. Pois foi justamente no avião designado por forças que nos levaram em nome da Sabedoria Divina, aquele em que nos instalamos para a despedida inesperada.
+7 A nossa Rosemary n viajava com a preocupação de quem não contava com muito tempo, a fim de se entreter fora de casa, embora fosse conosco para a nossa casa do coração, onde vocês nos aguardavam. A Sônia n conversava alegremente. Não me lembro mais de que passeio tratávamos por antecipação quando aconteceu o indescritível.
+8 Creio que ninguém se entregou, senão àquele pesado silêncio no qual entramos, compreendendo que estávamos sendo chamadas para o desconhecido.
+9 Acreditem que não senti dor alguma, a não ser aquele choque talvez destinado a cobrir o nosso sofrimento, com a impressão de que havíamos chegado aos derradeiros limites da existência. 10 De mim mesma enviei, um pensamento a Deus e nele me escorei como quem agarra um fio de linha muito leve, à frente de um abismo para não cair nele e, depois soube que Rosemary e Sônia fizeram o mesmo, resguardando-se na prece rápida. O resto é aquilo que a palavra não escreve.
+11 O assombro foi grande, de tal modo, que suprimiu em nós qualquer ideia de queda e de aflição. 12 A fuga do corpo — pois somente assim consigo definir a liberação do veículo físico que nos retinha — foi imperceptível para nós.
+13 Creio hoje que há dias positivos da Bondade Infinita de Deus, nas próprias criaturas que somos nós, a fim de que a morte violenta não seja registrada por aqueles que lhe sofrem o impacto irresistível. 14 A ideia de aniquilamento integral esteve comigo por instante e arrojei-me num torpor que superou, a meu ver, todas as imagens que eu fazia a respeito de ausências e desmaios, quando a mente se vê desorientada por fatores que se perdem na própria inconsciência.
+15 Acordei, juntamente das companheiras de viagem num aposento simples e confortável no qual uma senhora de semblante carinhoso e belo nos sorria. Creio que foi Rosemary a primeira a despertar, porquanto conseguia vê-la rente a mim, de olhos vigilantes. A Sônia acordava momentos depois. 16 Perguntei à nossa amiga desconhecida quem era ela e em que lugar nos achávamos para alguma comunicação pronta com os nossos. Ela sorriu, como que desejosa de acentuar a própria bondade no silêncio que mantinha… 17 Em seguida, pediu para que nos libertássemos de qualquer ideia de medo e esclareceu-nos que ela nos seguira no próprio voo interrompido e que se chamava Bisa Custódia. n Então nos lembramos da vovó Maria Goulart n e entendemos, espantadas, o que estava acontecendo.
+18 Mãezinha Ony, o seu coração compreende o que se passou. Quantas lágrimas nos escorreram dos olhos para a face, não saberíamos contar…
+19 De imediato pusemo-nos em ligação involuntária com a nossa casa e vimos, por dentro de nós, através de processos que não entendo ainda, quanto sofriam com o acontecido.
+20 Rose a repartir-se entre Florianópolis e São Paulo chorou muito, ocorrendo o mesmo com a nossa querida Soninha. Entretanto, forças que ignoramos nos sustentavam e aqui estou para dizer-lhes, como também ao nosso caro Sidnei, n que estamos vivas, conquanto em outra ordem de recursos, que nos alimentam a existência.
+21 Ainda não me sinto no autocontrole, mas agradeço aos pais queridos a coragem e a serenidade que deram provas, endereçando-nos pensamentos de paz e resignação, sob a luz da fé viva em Deus que nos mantém a tranquilidade possível.
+22 Rose e Sônia me fazem intérprete do carinho delas aos que ficaram e juntamente do avô Engelberto, que também nos apareceu providencialmente, representando o papai.
+23 Aqui estou a lhes agradecer quanto fizeram e fazem por nós, fortalecendo-nos para aceitar as posições a que fomos arrebatadas, com o possível otimismo. Não nos acreditem massacradas ou infelizes. 24 Estamos íntegras, embora houvesse dor para nós nos primeiros dias que se sucederam à dolorosa ocorrência. 25 O nosso corpo é o mesmo, qual se somente houvesse trocado de vestimenta.
+26 Ainda não temos intercâmbio com amigos da viagem, mas esperamos por melhoras juntas, a fim de ampliarmos o nosso campo de impressões e de relacionamento.
+27 Querido papai, receba com a mãezinha Ony todos os nossos pensamentos de muita gratidão e de muito amor. Não consigo escrever mais.
+28 A querida bisa ou mãe Custódia me aguarda reunindo a vovó Maria com todos os nossos no abraço em que procuro transmitir-lhes todo o carinho de minhas grandes saudades, sou a filha muito grata que os conserva com todo amor, por dentro do próprio coração.
+1 Querida mãezinha Ony, meu querido papai Antônio. n
+2 Daquele sábado, dia doze de abril, há dois anos atrás, n não nos restam resíduos de dor ou mágoa.
+3 O algodão do tempo vem se encarregando de enxugar o suor das aflições que porejaram demoradamente nas faces das nossas angústias. Restou-nos a saudade que, ao inverso de ser um abismo separando-nos, constitui-nos a ponte abençoada das nossas lembranças, em contínuas viagens de carinho e ternura.
+4 A saudade entretecida de amor, é a presença do ausente cantando recordações, na pauta sinfônica da música do sempre querer. Significa que o tempo, na sua vilegiatura intérmina, não logrou extinguir tudo aquilo que representava carinho e era vida pulsando em plenitude nos atos da nossa união feliz. 5 Ainda hoje sou a missivista que retorna em nome da nossa família de cá, a conduzir notícias pelo correio da mediunidade, a fim de que os estímulos da comunicação nos emulem ao prosseguimento das tarefas que abraçamos em ambas esferas da vida.
+6 A nossa querida Rosemary n continua no seu afã, junto ao nosso Sidnei, n sustentando-lhe as forças jovens e, ao mesmo tempo, transubstanciando o amor de esposa em carinho de mãe. 7 A situação em que nos encontramos revela-nos a visão real da vida e modifica-nos o conceito dos valores humanos, numa ética de transcendente beleza, superando os padrões da posse e do egoísmo, ao tempo em que se trabalham aspirações e conquistas, com os olhos postos no futuro imortal.
+8 Vem a nossa sempre querida Rose, n devotando-se ao companheiro que ficou na retaguarda terrestre, sem esquecer a nossa família extremosamente querida.
+9 Aquele sábado que se dourava de sonhos e aspirações para nós três, aqui incluindo a sempre querida Soninha, n abriu-nos, de repente, horizontes infinitos de beleza e amor, quando o corpo deixou de vibrar e libertou; nos destroços do avião, o Espírito ansioso e rico de aspirações e anseios.
+10 Nestes dois anos que se passaram, temos a ideia de um longo e penoso tempo, quando, em realidade, foi apenas um breve tempo em que a nossa família, parecendo perder dois membros, ampliou-se na direção da humanidade.
+11 Agora somos uma imensa lista de afetos que papai sempre cultivou em nossas Empresas, seguindo o exemplo do vovô Eugênio n que, por sua vez, haurira sabedoria e honestidade nas mãos generosas e ricas de dignidade do bivô Engelberto n… Aqui conosco, ambos traduzem através do lápis que empunho por momentos, a alegria de reencontrá-los felizes ou quase, ante a compreensão da vida estuante que pesa nos seus corações e vibra nos seus dias. 12 Ocorre que, à noite da morte dolorosa sucedeu a madrugada ridente da ressurreição, na qual iniciamos dia de felicidade sem limite que se concretizará no futuro.
+13 A querida bisa Custódia, n representando a maternidade em triunfo, em nossa casa, ao lado da vovó Maria Goulart n acena-nos um reencontro no país da ventura plena, onde se consomem, em lampejos de júbilos, todas as lágrimas com que a angústia perola os corações saudosos, que na Terra interrogam as estrelas nas noites silenciosas a respeito dos seus amores que viajam para cá. 14 Ninhos de bênçãos nelas permanecem tremulando em prateada luz e respondem em silêncio que, o amor é elixir de longa vida das almas a fazê-las reencontrar-se e unir-se numa festa permanente, quando forem superadas as vicissitudes.
+15 Aguardemos assim, esses dias porvindouros, sem pressa nem agonia, aproveitando o milagre das horas para construir o palácio ditoso onde nos reuniremos sem outras separações.
+16 Mãezinha Ony, ainda encontro-a no meu quarto olhando o meu retrato e perguntando-se mil indagações como somente as mães sabem elaborar. n Não poucas vezes envolvo-a em ternura e falo-lhe ao coração, utilizando-me do microfone da intuição, a fim de que a sua alma não se altere e permaneça a sua irrestrita confiança em Deus.
+17 Sua filhinha prossegue encantada com as conquistas novas. Na cidade-jardim a que me reportei anteriormente, n onde fomos admitidas graças aos títulos de enobrecimento do bivô Engelberto, temos progredido no conhecimento e nas experiências, através do estudo e da ação. 18 Aqui valemos o que produzimos e cada qual alarga o campo de crescimento mediante as tarefas que realizar, pois somente servindo é que se aprende a dirigir e agindo que se vive a experiência do aprendizado.
+19 Há poucos dias, tivemos oportunidade de receber a visita, em nosso departamento de trabalhos e estudos, do amável Padre Reus, n tão querido em nossa Santa Catarina pelas suas realizações de amor ao lado dos sofredores da Terra. Ouvimo-lo com emoção e respeito, recordando-nos do que nos era familiar desde a infância em torno da sua vida de taumaturgo. Não posso negar que as lágrimas de emoção e júbilo escorriam-me, evocando na tela da memória os clichês da religião onde haurimos as noções de Deus e as diretrizes da fé.
+20 Papai Antônio, eu sei que não é fácil para você, tanto quanto para a nossa família compreender e aceitar sem interrogações tudo quanto nos sucedeu e nos vêm ocorrendo em beleza, esperança e informações dantes jamais imaginadas…
+21 A vida, porém, são as suas surpresas, os seus sucessos que a todos nos colhem a cada instante sob variadas impressões. Prossiga justo e bom, gentil e amigo, amparando os sofredores e socorrendo a todos, especialmente aqueles que contribuem pelo trabalho para a preservação do pão de cada dia.
+22 No último Natal acompanhei-os, a você e à mãezinha, e recebemos, suas filhas, toda a guirlanda feita com flores de amor e caridade com que vocês atenderam aos que partilham de nossa família ampliada. n
+23 Desejo consignar, na carta de hoje, a presença de vários benfeitores da Comunidade Espírita da nossa querida Florianópolis, que participam das nossas alegrias e das nossas atuais disposições. Refiro-me ao venerável Sr. Osvaldo Melo, aos abnegados Nelito e Abreu, n que tanto se deram pelo serviço social junto aos sofredores e às crianças sob a meridiana luz da caridade cristã. Amigos novos que vamos conquistando, são-nos tesouros de bondade com que nos enriquecemos na área de serviços em que nos localizamos.
+24 A bisa Custódia, sorridente, adverte-nos sobre o tempo e fala-me da necessidade de finalizar a presente carta, terminando uma mensagem, que não termina qual uma sinfonia inacabada, que logo mais prosseguirá com melodia nova e acordes felizes embalando as nossas aspirações. 25 Traduzindo o carinho dos nossos daqui, para os nossos daí, abraço-os com infinito amor, quanto vocês não possam imaginar, tornando-os no céu das nossas saudades, da Rose e minhas, o Sol e a Lua dos nossos dias, a fim de que não haja sombra em hora alguma sob a potência de Jesus, nossa estrela de Primeira Grandeza.
+26 Querida mãezinha Ony e querido papai Antônio, beijando-os com toda unção e reconhecimento, a filha de sempre, sempre devotada e que buscará crescer para melhor os amar,
