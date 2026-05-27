@@ -1,0 +1,3 @@
+Fonte: https://www.youtube.com/watch?v=b9qyGMGg-Do
+
+Transcript: Rogativas Zeferino Brazil Implora do Senhor o modo de encontrar A lavoura do bem, no pouso da esperança, O distrito de amor, onde o sonho descansa Nas doces emoções da ventura no lar… Ora e suplica ao Céu não te deixe guardar Pedradas, aflições ou mágoas na lembrança, Roga, confiantemente, a paz em que se alcança Alegria, consolo, apoio, bem-estar! Exora segurança, amparo, bênçãos, luzes, Na santa exaltação da estrada a que te induzes, Trabalhando e servindo em louvor do Dever; Mas pede a Deus te dê na fé que te elucida A luz do entendimento, ante as provas da vida, A coragem da fé e a força de vencer!…

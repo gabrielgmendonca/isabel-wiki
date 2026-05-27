@@ -1,0 +1,3 @@
+Fonte: https://www.youtube.com/watch?v=uqQM9M-CmUw
+
+Transcript: DEPOIS DO TEMPORAL Maria Dolores Cansado coração, ouve, lá fora, O turbilhão do temporal violento, Cai o granizo, ruge a voz do vento… É a Natureza que se desarvora. O firmamento é anônima cratera, Quando o raio estraçalha a noite escura, E choras, ante o caos e a desventura, A prova que te ensombra e dilacera. Ao furacão que passa, caem ninhos, Tombam troncos, a ímpetos medonhos, E recordas as pedradas dos caminhos, Que varaste perdendo os próprios sonhos!… Espera e crê!… O temporal vai longe!… Amanhã seguirás em nova estrada E, ao teu olhar, a luz será mais linda, Quando o Sol acender a madrugada…
