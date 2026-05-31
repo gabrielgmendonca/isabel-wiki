@@ -22,7 +22,7 @@ tags:
   - autor/andre-luiz
   - autor/chico-xavier
   - autor/emmanuel
-atualizado_em: 2026-05-26
+atualizado_em: 2026-05-31
 status: rascunho
 ---
 
@@ -321,6 +321,10 @@ Material curado para ilustrar cada eixo. Critério de uso: sempre abrir pelo LE/
 > Abrir cada eixo pelo Pentateuco (LE/ESE/C&I) e só então trazer o complementar como ilustração. Quando citar André Luiz ou Emmanuel, indicar explicitamente "André Luiz/Chico Xavier" ou "Emmanuel/Chico Xavier" e a obra — conforme §3 do CLAUDE.md.
 
 ---
+
+## Estudos contemporâneos
+
+- "Filhos diferentes" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/filhos-diferentes-estudo-do-evangelho-a-luz-da-doutrina-espirita]]. Aplica a escolha pré-encarnatória das provas à pergunta pastoral "por que filhos de uma mesma família nascem tão diferentes?": nem todos os espíritos reunidos num lar têm laços simpáticos do passado — alguns são adversários reencarnados juntos para reajuste —, e os vínculos verdadeiros são de afinidade espiritual, não de consanguinidade (Mt 12:46–50).
 
 ## Conceitos relacionados
 

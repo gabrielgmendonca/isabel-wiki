@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE, André Luiz/Chico Xavier]
 tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/prece-caridade]
-atualizado_em: 2026-05-23
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -113,6 +113,10 @@ A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André
 - **Material** — uma página doutrinária qualquer (de Kardec ou de complementar coerente) e o Novo Testamento. Não há liturgia.
 - **Disposição** — quem ora "deve, antes de tudo, sentir o que diz" (ESE, cap. XXVII, item 8). Verbalismo decora; sentimento sustenta.
 - **Tolerância à resistência interna** — não excluir membros não-sintônicos; o culto se sustenta na diretriz dos que aderem e age por irradiação sobre os demais.
+
+## Estudos contemporâneos
+
+- "Evangelho no Lar" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/evangelho-no-lar-estudo-do-evangelho-a-luz-da-doutrina-espirita]]. Fundamenta a prática em "onde dois ou três estiverem reunidos em meu nome" (Mt 18:20) e em [[wiki/obras/jesus-no-lar]] (Neio Lúcio / Chico Xavier), apresentando-a não como ritual espírita novo, mas como resgate de um hábito do próprio Jesus — antídoto ao distanciamento familiar contemporâneo.
 
 ## Páginas relacionadas
 

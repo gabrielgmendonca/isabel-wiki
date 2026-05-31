@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [bem-aventurancas, sermao-da-montanha, aflicao, consolacao, jesus, obra/ese, obra/le, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -78,6 +78,10 @@ Eco direto de Rm 8:18, com a chave hermenêutica adicional: **invisível eterno 
 ## Aplicação prática
 
 Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e injustiças na casa espírita. Não se consola negando a dor, nem prometendo milagre imediato: consola-se explicando a dor à luz da justiça divina e da pluralidade das existências. Praticar a bem-aventurança é, do lado de quem sofre, manter a prece e a resignação ativa (não a passividade); do lado de quem acompanha, oferecer presença, esclarecimento e silêncio — jamais chavões.
+
+## Estudos contemporâneos
+
+- "Felizes os aflitos" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/felizes-os-aflitos-eelde]]. Apresenta as aflições como provas de causa justa, decorrentes do uso indevido do livre-arbítrio em vidas pretéritas, e sustenta que só a reencarnação explica a desigualdade do sofrimento — sem a certeza das compensações futuras, a máxima evangélica seria "um engano".
 
 ## Páginas relacionadas
 

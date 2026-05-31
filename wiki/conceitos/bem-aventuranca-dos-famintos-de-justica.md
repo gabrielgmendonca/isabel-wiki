@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [bem-aventurancas, sermao-da-montanha, justica, fome-e-sede-de-justica, jesus, obra/ese, autor/kardec, grau/intermediario, lei/igualdade, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -50,6 +50,10 @@ A saciedade coletiva depende do afastamento dos maus do nosso planeta, tema que 
 ## Aplicação prática
 
 A bem-aventurança impede a acomodação. Quem se cala diante da iniquidade familiar, institucional ou social para não se incomodar não tem fome de justiça — por isso, tampouco terá a saciedade prometida. Ao mesmo tempo, a sede é evangélica, não revolucionária no sentido violento: o espírita combate a injustiça pela palavra, pelo exemplo, pela caridade ativa, pela educação — nunca pelo método do adversário. Ter fome de justiça, em casa espírita, começa por não fechar os olhos ao sofrimento que passa diante de nós.
+
+## Estudos contemporâneos
+
+- "Felizes os que têm fome e sede de justiça" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/felizes-os-que-tem-fome-eelde]]. Identifica amor e justiça como inseparáveis e enquadra a justiça divina como lei de compensação cósmica — "a cada um segundo suas obras" — que opera na pluralidade das existências, apoiando-se em Amélia Rodrigues (*Luz do Mundo*) sobre a vigilância das nascentes íntimas dos sentimentos.
 
 ## Páginas relacionadas
 

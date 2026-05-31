@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [bem-aventurancas, sermao-da-montanha, brandura, mansidao, jesus, obra/ese, autor/kardec, grau/intermediario, lei/igualdade, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -55,6 +55,10 @@ Brandos são os que não precisam desforrar-se porque confiam que Deus ajusta as
 ## Aplicação prática
 
 A prática da bem-aventurança começa no controle da palavra: silenciar a resposta áspera, recusar o ataque pessoal, não devolver injúria com injúria. Prossegue no controle do pensamento: vigiar os julgamentos internos que antecedem a violência. Em casa espírita, é a brandura nas reuniões, no trato com o consulente irritado, com o companheiro de grupo divergente. Onde houver palavra ferina, já não há brandura, por mais educada que seja a aparência.
+
+## Estudos contemporâneos
+
+- "Felizes os mansos" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/felizes-os-mansos-estudo-do-evangelho-a-luz-da-doutrina-espirita]]. Lê a mansidão como traço do espírito regenerado e resolve a aparente contradição entre o desapego pregado por Jesus e a promessa da posse da terra: pela lei do progresso, o pacífico deixará de ser esmagado pelo forte quando a humanidade se submeter à lei de amor e caridade.
 
 ## Páginas relacionadas
 

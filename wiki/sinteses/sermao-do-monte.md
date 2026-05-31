@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [ESE, "S. Mateus", "S. Lucas"]
 tags: [sermao-do-monte, sermao-da-montanha, jesus, evangelho, moral, bem-aventurancas, reino-dos-ceus, obra/ese, autor/kardec, grau/avancado, tema/jesus, tema/moral]
-atualizado_em: 2026-05-12
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -115,6 +115,10 @@ Três eixos atravessam o Sermão e o conectam aos pilares da codificação:
 3. **Prática como prova.** O Sermão fecha em duas imagens: a árvore pelos frutos (Mt 7:16–20) e a casa sobre a rocha (Mt 7:24–27). Ambas dizem o mesmo: a fé sem obras é morta (cf. [[wiki/conceitos/parabola-da-figueira-seca]], cap. XIX do ESE). É a leitura espírita da máxima: "Os bons espíritas se reconhecem pela transformação moral e pelos esforços que envidam para domar suas más inclinações" (ESE, cap. XVII, item 4).
 
 ---
+
+## Estudos contemporâneos
+
+- "O Sermão da Montanha" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/sermao-da-montanha-estudo-do-evangelho-a-luz-da-doutrina-espirita]]. Palestra de abertura da série EELDE: leitura panorâmica do Sermão como síntese da lei do amor dirigida aos discípulos, com o simbolismo da montanha como imagem da ascensão evolutiva — subir é vencer obstáculos, descer é amparar quem ficou.
 
 ## Páginas referenciadas
 
