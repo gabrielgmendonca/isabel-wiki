@@ -40,6 +40,12 @@ for bin in uv qmd; do
   }
 done
 
+# git hook: gate pré-commit que bloqueia commits com wikilinks quebrados
+# (.githooks/pre-commit, versionado). core.hooksPath é config LOCAL, não vai no
+# git — por isso reativa aqui, em cada clone. Idempotente.
+echo "==> git hooks: core.hooksPath -> .githooks (gate pré-commit broken_links)"
+git -C "$REPO_ROOT" config core.hooksPath .githooks
+
 # pillow (via torchvision) costuma não ter wheel quando o Python pinado é muito
 # novo: o uv compila do fonte e o build precisa do libjpeg. No macOS o jpeg do
 # Homebrew é keg-only — exporta as flags para o build do pillow achá-lo (no-op

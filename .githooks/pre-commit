@@ -1,0 +1,70 @@
+#!/usr/bin/env bash
+# pre-commit — gate de wikilinks quebrados.
+#
+# Bloqueia o commit quando há mudanças staged em wiki/ ou raw/ que deixem
+# wikilinks apontando para arquivos inexistentes (check `broken_links` do
+# lint determinístico). Pega antes do push o modo de falha clássico: uma
+# regeneração de corpus relocaliza arquivos em raw/ por autor/slug e os
+# links da wiki ficam órfãos — exatamente o que travou o deploy em 550c031.
+#
+# Dispara só quando o commit toca wiki/ ou raw/ (únicas entradas do check),
+# então commits em scripts/, .claude/ etc. nunca são bloqueados por links
+# pré-existentes que não foram introduzidos por eles.
+#
+# Fail-open por tooling (uv/python3 ausente => avisa e libera); fail-closed
+# por link quebrado de verdade. Bypass de emergência: git commit --no-verify
+#
+# Ativação (one-time, por clone — config local não versionada):
+#   git config core.hooksPath .githooks
+
+set -uo pipefail
+
+root="$(git rev-parse --show-toplevel)" || exit 0
+
+# Só roda se a mudança puder afetar broken_links (páginas wiki ou alvos raw).
+git diff --cached --name-only --diff-filter=ACMRD | grep -qE '^(wiki|raw)/' || exit 0
+
+cd "$root" || exit 0
+
+# Convenção do projeto: uv run python. python3 como fallback (ex.: ambiente
+# sem uv). Sem nenhum dos dois, não travar o commit por falha de tooling.
+if command -v uv >/dev/null 2>&1; then
+  run() { uv run python "$@"; }
+elif command -v python3 >/dev/null 2>&1; then
+  run() { python3 "$@"; }
+else
+  echo "pre-commit: uv/python3 ausentes — gate broken_links pulado." >&2
+  exit 0
+fi
+
+out="$(run .claude/skills/lint/scripts/lint_wiki.py --check broken_links 2>/dev/null)"
+rc=$?
+
+# Saída sem o bloco esperado => o checker não rodou de fato; liberar (tooling).
+case "$out" in
+  *'"broken_links"'*) ;;
+  *) echo "pre-commit: lint_wiki.py não produziu resultado — gate pulado." >&2; exit 0 ;;
+esac
+
+# lint_wiki.py sai 1 sse broken_links (severidade error) tem count > 0.
+if [ "$rc" -ne 0 ]; then
+  echo "" >&2
+  echo "✗ Commit bloqueado: wikilink(s) quebrado(s)." >&2
+  # python imprime no stdout; `>&2` roteia ao stderr do hook (visível ao user),
+  # `2>/dev/null` descarta ruído do uv. Ordem importa: dup do fd2 antes de mudá-lo.
+  # Só aspas duplas e concatenação (sem aspas simples — o script vai entre aspas
+  # simples do bash; sem f-string com subscrito — quebra em Python < 3.12).
+  printf '%s' "$out" | run -c '
+import sys, json
+d = json.load(sys.stdin)["checks"]["broken_links"]
+print("  " + str(d["count"]) + " link(s) apontando para arquivo inexistente:")
+for i in d["items"]:
+    print("    - " + i["source"] + ":" + str(i.get("line", "?")) + " -> " + i["target"])
+' >&2 2>/dev/null
+  echo "" >&2
+  echo "Repointe os links (ex.: após relocação de raw/ por regeneração de corpus)" >&2
+  echo "ou corrija os alvos. Bypass de emergência: git commit --no-verify" >&2
+  exit 1
+fi
+
+exit 0
