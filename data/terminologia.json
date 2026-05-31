@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "descricao": "Registro de vocabulários canônicos da Doutrina Espírita codificada por Kardec. Generaliza a checagem de 'mundos habitados' (hoje hardcoded em check_mundos_habitados_naming) para qualquer terminologia doutrinária, data-driven: adicionar um vocabulário é uma entrada JSON, sem código novo. Consumido pelo eixo 3 (editorial) do workflow /critica; candidato a alimentar um check_terminologia genérico no lint (follow-on).",
+    "schema": {
+      "auto_fix": "true = o mapa `evitar` é substituição segura e exata (forma drift -> forma canônica bare), auto-aplicável pelo /critica via replace_text targetado. false = 'errado' é drift de uso/escopo, não string fixa; o agente avalia contra a fonte e SINALIZA/DIFERE (correção pode mudar sentido doutrinário).",
+      "fonte": "locus canônico (citação Kardec) — o agente DEVE verificar a enumeração literal via `scripts/cite.py` / qmd, nunca confiar só nesta lista.",
+      "termos[].evitar": "mapa { 'forma a evitar': 'forma canônica' } — só preenchido quando a substituição é literal e segura.",
+      "aplica_quando": "heurística de relevância (tema/* ou fontes) para o Stage 1 injetar só os vocabulários pertinentes à página."
+    }
+  },
+  "vocabularios": {
+    "mundos-habitados": {
+      "titulo": "Mundos habitados — escala de cinco categorias",
+      "fonte": "ESE cap. III, item 4",
+      "rule": ".claude/rules/convencoes-mundos-habitados.md",
+      "pagina_panoramica": "wiki/conceitos/pluralidade-dos-mundos-habitados",
+      "auto_fix": true,
+      "aplica_quando": "tema/encarnacao, tema/vida-futura, tema/espiritos; fontes ESE ou Gênese; prosa sobre pluralidade dos mundos, progressão planetária, posição da Terra.",
+      "termos": [
+        {"canonical": "mundos primitivos", "slug": "wiki/conceitos/mundos-primitivos", "variantes_ok": [], "evitar": {}},
+        {"canonical": "mundos de expiação e provas", "slug": "wiki/conceitos/mundos-de-expiacao-e-provas", "variantes_ok": ["mundos expiatórios"], "evitar": {"mundo de provas": "mundo de expiação e provas", "mundo de prova": "mundo de expiação e provas", "mundos de provas e expiações": "mundos de expiação e provas", "mundo de provas e expiações": "mundo de expiação e provas"}},
+        {"canonical": "mundos regeneradores", "slug": "wiki/conceitos/mundos-regeneradores", "variantes_ok": ["mundos de regeneração"], "evitar": {"mundo regenerado": "mundo regenerador", "mundos regenerados": "mundos regeneradores"}},
+        {"canonical": "mundos felizes", "slug": "wiki/conceitos/mundos-felizes", "variantes_ok": ["mundos venturosos", "mundos ditosos"], "evitar": {}},
+        {"canonical": "mundos celestes ou divinos", "slug": "wiki/conceitos/mundos-celestes-ou-divinos", "variantes_ok": ["mundos celestes", "mundos divinos"], "evitar": {}}
+      ],
+      "nota_verificacao": "Termos 'mundos inferiores'/'mundos superiores' (ESE cap. III, item 8) são descritores RELATIVOS, não categorias da escala — não sinalizar nem linkar."
+    },
+    "escala-espirita": {
+      "titulo": "Escala espírita — ordens e classes dos Espíritos",
+      "fonte": "LE, q. 100 e seguintes (Escala Espírita, antes da q. 101)",
+      "pagina_panoramica": "wiki/conceitos/escala-espirita",
+      "auto_fix": false,
+      "aplica_quando": "tema/espiritos; fontes LE; prosa sobre hierarquia espiritual, ordens, classes, pureza dos Espíritos.",
+      "termos": [
+        {"canonical": "primeira ordem — Espíritos Puros", "variantes_ok": ["Espíritos Puros"], "descricao": "Topo da escala: ausência de influência da matéria, superioridade absoluta."},
+        {"canonical": "segunda ordem — Bons Espíritos", "variantes_ok": ["Espíritos Bons", "Bons Espíritos"], "descricao": "Predomínio do espírito sobre a matéria, desejo do bem."},
+        {"canonical": "terceira ordem — Espíritos Imperfeitos", "variantes_ok": ["Espíritos Imperfeitos"], "descricao": "Predomínio da matéria, ignorância, más paixões."}
+      ],
+      "nota_verificacao": "A enumeração das 10 classes (Impuros, Levianos, Pseudo-sábios, Neutros, Batedores e Perturbadores; Benévolos, Sábios, Prudentes, Superiores) deve ser conferida LITERALMENTE em `uv run python scripts/cite.py LE 'q. 100'` antes de sinalizar drift — não confiar nesta lista resumida. Não confundir 'ordem' (3) com 'classe' (10)."
+    },
+    "fenomenos-mediunicos": {
+      "titulo": "Fenômenos e tipos mediúnicos",
+      "fonte": "LM, 2ª parte (caps. sobre as manifestações e os médiuns)",
+      "auto_fix": false,
+      "aplica_quando": "tema/mediunidade; fontes LM; prosa sobre tipos de médium, manifestações, efeitos físicos/inteligentes.",
+      "termos": [
+        {"canonical": "psicografia", "variantes_ok": ["mediunidade escrevente"], "descricao": "Comunicação por escrita (médiuns escreventes ou psicógrafos)."},
+        {"canonical": "psicofonia", "variantes_ok": ["mediunidade falante"], "descricao": "Comunicação pela fala (médiuns falantes)."},
+        {"canonical": "tiptologia", "variantes_ok": ["pancadas", "efeitos físicos sonoros"], "descricao": "Comunicação por pancadas/tiptologia (médiuns de efeitos físicos)."},
+        {"canonical": "vidência", "variantes_ok": ["mediunidade vidente"], "descricao": "Percepção dos Espíritos (médiuns videntes)."},
+        {"canonical": "efeitos físicos", "variantes_ok": ["manifestações físicas"], "descricao": "Médiuns de efeitos físicos — fenômenos materiais."},
+        {"canonical": "intuição", "variantes_ok": ["mediunidade intuitiva"], "descricao": "Médiuns intuitivos — recebem o pensamento, não as palavras."}
+      ],
+      "nota_verificacao": "Verificar a tipologia exata em LM 2ª parte via qmd (coleção raw, livro-dos-mediuns). Termos modernos como 'aparelho' ou 'incorporação' são de registro umbandista, não kardecista — sinalizar mas DIFERIR (pode ser citação de fonte de nível 4)."
+    },
+    "fluidos": {
+      "titulo": "Fluidos e princípios — cosmologia fluídica",
+      "fonte": "Gênese cap. XIV (Os fluidos); LE Parte 1 (princípio vital, perispírito)",
+      "auto_fix": false,
+      "aplica_quando": "tema/espiritos, tema/encarnacao; fontes Gênese ou LE; prosa sobre perispírito, fluido vital, magnetismo, criação fluídica.",
+      "termos": [
+        {"canonical": "fluido cósmico universal", "slug": "wiki/conceitos/fluido-cosmico-universal", "variantes_ok": ["matéria cósmica primitiva", "fluido universal"], "descricao": "Elemento primitivo único; matéria elementar do universo (Gênese cap. XIV)."},
+        {"canonical": "fluido vital", "slug": "wiki/conceitos/fluido-vital", "variantes_ok": [], "descricao": "Princípio que dá a vitalidade aos seres organizados; modificação do fluido universal."},
+        {"canonical": "princípio vital", "slug": "wiki/conceitos/principio-vital", "variantes_ok": [], "descricao": "LE q. 60-70: distinto do princípio inteligente; não confundir com a alma."},
+        {"canonical": "perispírito", "slug": "wiki/conceitos/perispirito", "variantes_ok": [], "descricao": "Envoltório fluídico/semimaterial do Espírito; intermediário entre Espírito e corpo."}
+      ],
+      "nota_verificacao": "Não colapsar 'princípio vital' (vitalidade) em 'alma'/'Espírito' (princípio inteligente) — distinção central de LE q. 60-72. Conferir via cite.py LE."
+    },
+    "parabolas": {
+      "titulo": "Parábolas do Evangelho citadas na ESE",
+      "fonte": "ESE (capítulos temáticos) e Evangelhos canônicos",
+      "auto_fix": false,
+      "aplica_quando": "tema/jesus, tema/moral; fontes ESE ou Evangelhos; prosa que nomeia ou comenta uma parábola.",
+      "termos": [
+        {"canonical": "parábola do bom samaritano", "variantes_ok": [], "descricao": "Lc 10 — caridade ao próximo sem distinção."},
+        {"canonical": "parábola do filho pródigo", "variantes_ok": ["parábola do filho perdido"], "descricao": "Lc 15 — misericórdia, arrependimento, retorno."},
+        {"canonical": "parábola do semeador", "variantes_ok": [], "descricao": "Mt 13 — recepção da palavra conforme o terreno moral."},
+        {"canonical": "parábola dos talentos", "variantes_ok": [], "descricao": "Mt 25 — responsabilidade pelo uso dos dons recebidos."}
+      ],
+      "nota_verificacao": "Lista NÃO exaustiva — confirmar o título e o capítulo da ESE onde Kardec comenta cada parábola via qmd antes de sinalizar nome 'não-canônico'. O nome popular varia (pródigo/perdido); preferir a forma usada na ESE."
+    },
+    "bem-aventurancas": {
+      "titulo": "Bem-aventuranças do Sermão da Montanha",
+      "fonte": "ESE cap. V (Bem-aventurados os aflitos); Mt 5:3-12",
+      "auto_fix": false,
+      "aplica_quando": "tema/jesus, tema/moral, tema/sofrimento; fontes ESE ou Evangelhos; prosa sobre o Sermão da Montanha.",
+      "termos": [
+        {"canonical": "bem-aventurados os pobres de espírito", "variantes_ok": [], "descricao": "Mt 5:3 — humildade; 'pobres de espírito' = humildes, não néscios (ver comentário de Kardec na ESE)."},
+        {"canonical": "bem-aventurados os que choram", "variantes_ok": ["bem-aventurados os aflitos"], "descricao": "Mt 5:4 — consolação dos aflitos (eixo da ESE cap. V)."},
+        {"canonical": "bem-aventurados os mansos", "variantes_ok": ["bem-aventurados os brandos"], "descricao": "Mt 5:5 — herança da terra."},
+        {"canonical": "bem-aventurados os misericordiosos", "variantes_ok": [], "descricao": "Mt 5:7 — reciprocidade da misericórdia."}
+      ],
+      "nota_verificacao": "Preferir o fraseado da tradução usada na ESE (Guillon Ribeiro/FEB). Conferir o texto literal via cite.py ESE 'cap. V' e a página bíblica wiki/biblia/mateus/5. Não inventar 'bem-aventurança' fora das oito canônicas."
+    }
+  }
+}

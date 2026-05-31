@@ -1,6 +1,6 @@
 # Log
 
-Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo> | <título>`, onde `<tipo>` ∈ {`setup`, `ingest`, `estudo`, `lint`, `refactor`, `glossario`}.
+Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo> | <título>`, onde `<tipo>` ∈ {`setup`, `ingest`, `estudo`, `lint`, `critica`, `refactor`, `glossario`}.
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 

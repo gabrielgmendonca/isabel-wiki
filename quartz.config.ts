@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "pt-BR",
     baseUrl: "gabrielgmendonca.github.io/isabel-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian", "raw"],
+    ignorePatterns: ["private", "templates", ".obsidian", "raw", "reports"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

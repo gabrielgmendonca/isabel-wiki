@@ -27,3 +27,6 @@ __pycache__/
 
 # Office lock files
 ~$*
+
+# Sentinela efêmero de dry-run do /critica (criado/removido pelo SKILL)
+.claude/skills/critica/state/.dryrun
