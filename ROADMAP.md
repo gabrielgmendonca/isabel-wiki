@@ -221,3 +221,78 @@ Validação de deploy (§5); auditoria de LLM (§8 — cresce com o tempo); tril
 - **§8 Governança** — política de fair-use ✓; nenhuma obra protegida sem `direitos:` ✓; aviso ao leitor em todas as obras nível 3 ✓. Resta `revisao_humana:` (§8.5).
 
 Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
+
+---
+
+## 10. Varredura de backlog (2026-05-31)
+
+Descobertas concretas do `/stats` + `/lint` que apontam **páginas a escrever** (não-ingest). Cruza com eixos §1, §3 e §4 — esta seção é o instantâneo operacional; a estratégia segue lá.
+
+### 10.1 Cobertura doutrinária — blocos do LE sub-cobertos
+
+Medição 2026-05-26 (LE 385/1019 = 37.8%). Atualização vs. medição 2026-05-07 — blocos sub-cobertos diferentes; q.301–400 caiu de 8% (jan/26) para 16%, mas continua o pior:
+
+| Bloco | Cobertura | Prioridade |
+|-------|-----------|------------|
+| 301–400 | 16% | 🔴 alta — intervenção dos espíritos, influência oculta |
+| 501–600 | 20% | 🔴 alta — retorno à vida corporal, união alma/corpo |
+| 401–500 | 21% | 🟡 média — retorno à vida espiritual, sensações pós-morte |
+| 201–300 | 29% | 🟡 média — emancipação da alma, sonho/sonambulismo |
+| 1–100 | 35% | 🟢 baixa — primeiros princípios (já citados, faltam Q&A próprias) |
+
+Sub-cobertura no LM (28/33 caps. 2ª parte citados) e Gênese (15/18). Identificar quais 5 caps. de LM e 3 de Gênese ficaram fora.
+
+- [ ] **Extrair 5 questões-chave do LE 301–400** em `wiki/questoes/`.
+- [ ] **Extrair 5 questões-chave do LE 501–600** em `wiki/questoes/`.
+- [ ] **Extrair 3 questões-chave do LE 401–500** em `wiki/questoes/`.
+- [ ] **Levantar caps. LM/Gênese sem ancoragem** (script ad-hoc cruzando regex de citação com `kardec-mapping.json`).
+
+### 10.2 Páginas-índice bíblicas — stubs órfãs
+
+Decisão de publicar NT em `wiki/biblia/<livro>/<capitulo>.md` foi executada (§4 — bible mapping 2026-05-22). Os 27 `wiki/biblia/<livro>/index.md` (`tipo: livro-biblico`) foram criados mas seguem como stub de 15 palavras, todos órfãos no grafo. Esquema mínimo em `convencoes-frontmatter.md` (livro-biblico): H1, nota breve (autor tradicional, ocasião, contexto histórico), lista de capítulos como wikilinks, cross-link para `wiki/obras/<evangelho/epístola>`.
+
+- [ ] **Expandir 4 índices de Evangelhos** (`joao`, `lucas`, `marcos`, `mateus`) — mais alta prioridade pelo peso doutrinário.
+- [ ] **Expandir índice de Atos e Apocalipse**.
+- [ ] **Expandir 13 índices de epístolas paulinas + Hebreus** (`romanos`, `1/2-corintios`, `galatas`, `efesios`, `filipenses`, `colossenses`, `1/2-tessalonicenses`, `1/2-timoteo`, `tito`, `filemom`, `hebreus`).
+- [ ] **Expandir 7 índices de epístolas católicas** (`tiago`, `1/2-pedro`, `1/2/3-joao`, `judas`).
+
+Cada índice destrava backlink dos capítulos correspondentes (resolve em parte os 28 órfãos da varredura).
+
+### 10.3 Rascunhos > 14 dias — promoção a `ativo`
+
+52 páginas com `status: rascunho` e `atualizado_em` > 14 dias. Prioridade pelos ≥ 28 dias parados (15 páginas):
+
+- **Aprofundamento**: `por-que-mediuns-falham`.
+- **Conceitos (7)**: `calunia`, `cartas-vivas-de-jesus`, `centros-vitais`, `colonia-espiritual`, `mercantilizacao-da-mediunidade`, `passe`.
+- **Obras (3)**: `missionarios-da-luz`, `obreiros-da-vida-eterna`, `os-mensageiros`.
+- **Personalidades (5)**: `alexandre`, `aniceto`, `clarencio`, `jeronimo-assistente`, `lisias`.
+
+Não é escrita "nova" — é revisão + completar Fontes + flipar `status: ativo`. Cabe em batch por categoria.
+
+### 10.4 Aprofundamentos sugeridos por massa de vocabulário
+
+Cruzando top-50 termos do vocabulário com `wiki/aprofundamentos/` (13 páginas hoje, cadência ingest:aprofundamento ainda desproporcional):
+
+- [ ] **`wiki/aprofundamentos/atributos-de-deus`** — `deus` é #1 (3855 ocs). Base: LE Parte 1 + ESE cap. I-III.
+- [ ] **`wiki/aprofundamentos/lugar-do-homem-na-criacao`** — `homem` (1574), `mundo` (1116), `terra` (1100). Base: LE q. 132–144, Gênese cap. XI.
+- [ ] **`wiki/aprofundamentos/morte-corporal-e-passagem`** — `morte` (1223). Base: LE q. 154–165, C&I 1ª parte cap. III.
+
+### 10.5 Sínteses panorâmicas faltantes
+
+- [ ] **`wiki/sinteses/cristo-na-doutrina`** — `cristo` (1697) top-10 sem síntese-âncora. Articular Jesus enquanto Guia, Modelo e Governador da Terra cruzando ESE, Gênese cap. XV e C&I.
+- [ ] **`wiki/sinteses/serie-andre-luiz`** — bigrama #1 (`andré luiz`, 496 ocs). Arco-narrativo dos 16 livros, leitura recomendada, lar canônico (Nosso Lar) como porta de entrada.
+
+### 10.6 Órfãs prioritárias a integrar
+
+Backlink + revisão (não páginas novas, mas cabe na frente de escrita):
+
+- [ ] **`wiki/personalidades/arthur-conan-doyle`** — órfã + drift de nomenclatura ("Conan Doyle", "Sir Arthur Conan Doyle" em `catalogo.md`).
+- [ ] **`wiki/conceitos/sonhos`** — órfã apesar de atravessar emancipação da alma (LE q. 400–418).
+- [ ] **`wiki/aprofundamentos/silencio-interior-o-ser-consciente`** — órfã.
+
+### Priorização sugerida
+
+1. **§10.1 (questões LE 301–400)** — fecha o pior gap doutrinário, alimenta `/slides` e palestras.
+2. **§10.2 evangelhos (4 índices)** — desbloqueia 4 evangelhos no grafo com custo baixo por página.
+3. **§10.3 rascunhos ≥ 28 dias** — limpa débito visível no `/lint`.
+4. **§10.4 + §10.5** — geram alavancagem (PageRank + temas dominantes do vocabulário).
