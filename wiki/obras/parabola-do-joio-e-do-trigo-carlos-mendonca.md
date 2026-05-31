@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [parabola, joio-e-trigo, evangelho, tolerancia, mundos-de-expiacao-e-provas, eelde, obra/ese, autor/kardec, tema/jesus, tema/moral]
+tags: [parabola, joio-e-trigo, evangelho, tolerancia, mundos-de-expiacao-e-provas, eelde, obra/ese, autor/kardec, tema/jesus, tema/moral, lei/justica-amor-caridade]
 url: https://www.youtube.com/watch?v=D4qalFYK-qc
 direitos:
   detentor: desconhecido

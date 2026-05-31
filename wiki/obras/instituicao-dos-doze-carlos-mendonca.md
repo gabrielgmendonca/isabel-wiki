@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE]
-tags: [apostolos, doze, novo-israel, missao-apostolica, eelde, obra/ese, autor/kardec, autor/emmanuel, autor/chico-xavier, autor/humberto-de-campos, tema/jesus, tema/historia-doutrina]
+tags: [apostolos, doze, novo-israel, missao-apostolica, eelde, obra/ese, autor/kardec, autor/emmanuel, autor/chico-xavier, autor/humberto-de-campos, tema/jesus, tema/historia-doutrina, lei/liberdade]
 url: https://www.youtube.com/watch?v=2hUPdfohsQQ
 direitos:
   detentor: desconhecido

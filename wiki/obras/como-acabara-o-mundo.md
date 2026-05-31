@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, Gênese]
-tags: [flammarion, como-acabara-o-mundo, pluralidade-dos-mundos, fim-do-mundo, transicao-planetaria, marte, jupiter, astronomia, fluidos, universo-invisivel, progresso-eterno, romance-espirita, obra/le, obra/ese, obra/genese, autor/kardec, tema/historia-doutrina, tema/vida-futura, tema/espiritos]
+tags: [flammarion, como-acabara-o-mundo, pluralidade-dos-mundos, fim-do-mundo, transicao-planetaria, marte, jupiter, astronomia, fluidos, universo-invisivel, progresso-eterno, romance-espirita, obra/le, obra/ese, obra/genese, autor/kardec, tema/historia-doutrina, tema/vida-futura, tema/espiritos, lei/progresso]
 aliases:
   - "Comment finira le monde"
   - "Como Acabará o Mundo?"

@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [familia, lar, casamento, monogamia, lacos-de-familia, autor/kardec, obra/le, obra/ese, tema/sociedade, tema/moral, tema/encarnacao, lei/sociedade, lei/reproducao, grau/intermediario]
+tags: [familia, lar, casamento, monogamia, lacos-de-familia, autor/kardec, obra/le, obra/ese, tema/sociedade, tema/moral, tema/encarnacao, lei/sociedade, lei/reproducao, grau/intermediario, lei/trabalho]
 atualizado_em: 2026-05-26
 status: ativo
 ---

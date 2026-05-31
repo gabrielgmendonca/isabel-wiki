@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, LM]
-tags: [familia, lar, monogamia, conjugalidade, joanna-de-angelis, divaldo-franco, evangelho-no-lar, educacao-sexual, sesquicentenario-revista-espirita, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, obra/lm, tema/sociedade, tema/moral, tema/encarnacao, lei/sociedade, lei/reproducao, autor/kardec]
+tags: [familia, lar, monogamia, conjugalidade, joanna-de-angelis, divaldo-franco, evangelho-no-lar, educacao-sexual, sesquicentenario-revista-espirita, autor/joanna-de-angelis, autor/divaldo-franco, obra/le, obra/ese, obra/lm, tema/sociedade, tema/moral, tema/encarnacao, lei/sociedade, lei/reproducao, autor/kardec, lei/justica-amor-caridade, lei/liberdade]
 direitos:
   detentor: LEAL
   url_aquisicao: https://www.livrarialeal.com.br/livros-por-espirito/joanna-de-angelis/constelacao-familiar.html

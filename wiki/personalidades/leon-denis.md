@@ -61,6 +61,18 @@ Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com
 
 Segundo a autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] (em [[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), foi Léon Denis quem, já desencarnado, **refez doutrinariamente** *Memórias de um Suicida* — recebido por ela de Camilo Castelo Branco em 1926, mas que "Camilo, o seu autor espiritual, não o completara devidamente, não lhe dera aquela feição doutrinária necessária". Apresentando-se à médium, Denis declarou: "Vamos refazer o livro sobre o suicídio. Ele está incompleto, não poderá ser publicado como está." Só após essa revisão a obra foi aceita pela FEB e publicada (1956). Datum biográfico que ilustra a continuidade de seu trabalho doutrinário no plano espiritual; ver [[wiki/conceitos/suicidio]].
 
+## Recepção contemporânea — 180 anos (1846–2026)
+
+O sesquicentenário-e-meio do nascimento de Denis foi marcado pela **28ª Conferência Estadual Espírita do Paraná** (Curitiba, Teatro Positivo, mar/2026), com conferências dedicadas à articulação entre a obra de Denis e os desafios do movimento espírita atual. Entre os palestrantes, [[wiki/personalidades/alessandro-viana|Alessandro Viana]] reconstituiu o **encontro Denis × Kardec em Tours (1867)** — Denis aos 21 anos, em noite estrelada num jardim de amigo espírita, ouvindo Kardec discursar a 200–300 pessoas sobre obsessão, e no dia seguinte vendo o codificador em cena doméstica colhendo cerejas e jogando-as para a esposa, imagem que marcou a vocação missionária do jovem.
+
+A tese de Viana — desenvolvida em [[wiki/personalidades/alessandro-viana]] — articula três pontos sobre Denis:
+
+1. **O "problema do ser"** identificado por Denis — *"o espírito humano imobilizado"* em *"inércia e rotinas seculares"* (introdução de *O Problema do Ser*) — permanece atual: padrões morais equivocados, neuroses, medos e agressividades trazidos de encarnação a encarnação.
+2. **Contraste com Freud** (*O Mal-Estar na Civilização*, 1930): onde Freud diagnostica pulsões semelhantes mas conclui pela impossibilidade da felicidade e pela função meramente anestésica da arte/religião/autoconhecimento, Denis e a Doutrina Espírita lêem essas mesmas atividades como vias reais de **sublimação e cristianização**, não mecanismos de adaptação trágica.
+3. **A "grande psicoterapia do Cristo"** — eixo terapêutico de Denis ("melhor viver, melhor agir e melhor morrer") como resposta integral às demandas da alma, em chave de "vida em abundância" (Jo 10:10).
+
+A homenagem da 28ª Conferência foi lida por Viana como **convite institucional ao realinhamento doutrinário**: recuperar o estudo sistemático e recolocar Kardec no centro da formação espírita, sem negar a importância das demandas de saúde mental.
+
 ## Páginas relacionadas
 
 - [[wiki/personalidades/allan-kardec]] — codificador cuja obra Denis continuou

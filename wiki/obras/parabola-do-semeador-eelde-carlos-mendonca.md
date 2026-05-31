@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [ESE, LE]
-tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseverança, lei-do-progresso, eelde, obra/ese, obra/le, autor/kardec, tema/jesus, tema/moral]
+tags: [parabola, semeador, evangelho, pedagogia-de-jesus, perseverança, lei-do-progresso, eelde, obra/ese, obra/le, autor/kardec, tema/jesus, tema/moral, lei/justica-amor-caridade, lei/progresso]
 url: https://www.youtube.com/watch?v=H-t0pCDYQH4
 direitos:
   detentor: desconhecido

@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: []
-tags: [espirito-mentor, autor-espiritual, complementar, joanna-de-angelis, autor/joanna-de-angelis, tema/espiritos, grau/intermediario, lei/justica-amor-caridade]
+tags: [espirito-mentor, autor-espiritual, complementar, joanna-de-angelis, autor/joanna-de-angelis, tema/espiritos, grau/intermediario, lei/justica-amor-caridade, lei/reproducao, lei/sociedade]
 aliases:
   - "Joanna de Angelis"
 atualizado_em: 2026-05-07
@@ -62,6 +62,7 @@ Em ordem cronológica:
 
 - [[wiki/sinteses/serie-psicologica-joanna-de-angelis]] — **síntese panorâmica** dos 16 volumes da Série Psicológica (1989-2011), com cinco eixos transversais
 - [[wiki/aprofundamentos/sexualidade-em-joanna-de-angelis]] — sistematização da doutrina joanniana sobre sexualidade (oito eixos, 1989–2011)
+- [[wiki/aprofundamentos/sofrimento-em-joanna-de-angelis]] — doutrina joanniana sobre o sofrimento (sete eixos, 1989–2011): linguagem simbólica da alma, complexos como heranças perispiríticas, resignação dinâmica × acomodação, sombra, culpa × responsabilidade, autoamor como autoeducação, "cabeça dura" como sofrimento estéril
 - [[wiki/personalidades/divaldo-franco]] — médium psicógrafo
 - [[wiki/conceitos/jesus-psicoterapeuta]] — eixo articulado em *Jesus e Atualidade* e *O Ser Consciente*
 - [[wiki/conceitos/psicologia-transpessoal]] — eixo da série psicológica de Joanna

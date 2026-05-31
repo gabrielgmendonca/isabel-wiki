@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Haroldo Dutra Dias]
-tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, demiurgo, platao, haroldo-dutra-dias, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/intermediario, tema/vida-futura]
+tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, demiurgo, platao, haroldo-dutra-dias, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/intermediario, tema/vida-futura, lei/justica-amor-caridade]
 atualizado_em: 2026-05-26
 status: ativo
 ---
@@ -111,8 +111,34 @@ Em *A Caminho da Luz* (caps. 24–25), Emmanuel descreve a transição planetár
 
 Ver [[wiki/obras/a-caminho-da-luz]] e [[raw/palestras/espiritualidade-e-vida/a-transicao-planetaria-nao-e-o-fim-e-um-novo-comeco]].
 
+## Diagnóstico contemporâneo dos obstáculos à transição (Alessandro Viana)
+
+Em palestra na web TV [[wiki/personalidades/mansao-do-caminho|Mansão do Caminho]] (~2025), [[wiki/personalidades/alessandro-viana]] organiza um **diagnóstico do presente** a partir de uma frase de Manuel Filomeno de Miranda (em *No Rumo do Mundo de Regeneração*, psicografia de Divaldo): *"Para onde caminha a sociedade nessa volúpia massificadora e desordenada?"* A leitura é feita em chave alegórica do **Sermão Profético de Jesus**, lido em Amélia Rodrigues / Divaldo Franco (*Quando Voltar a Primavera*) — Jesus contempla o templo de Jerusalém antes da crucificação e, projetando-se no tempo, identifica quatro obstáculos contemporâneos à marcha ascensional:
+
+1. **Tecnologia sem alma — sem ética.** Média de 6h diárias de uso de telas; algoritmos das redes sociais deliberadamente desenhados para capturar atenção, roubando tempo que poderia ser dedicado ao estudo e à espiritualização.
+2. **Ciência sem Deus.** Materialismo ainda predominante que nega a imortalidade e fomenta culto ao corpo — criogenia, endeusamento da aparência física — numa reedição do que a *Revista Espírita* chamaria de "paganismo moderno".
+3. **Religiões desfiguradas pela ausência do amor.** Comunidades que criam guetos de salvação exclusiva, distanciando-se da proposta crística de "um só rebanho, um só pastor" (Jo 10:16), e que substituem a prosperidade espiritual pela material (teologia da prosperidade).
+4. **Filosofias esdrúxulas** disseminadas nas redes por terapeutas sem compromisso ético, com frases como *"você merece ser feliz a qualquer custo"* — discursos que desvalorizam a família, pregam a poligamia como "natureza humana" e incentivam o abandono de tarefas legítimas em nome de um bem-estar estritamente material.
+
+As quatro forças operam em sinergia com a categoria de obsessão coletiva diagnosticada por Manuel Filomeno de Miranda: **normose** — o agir por imitação massificada, sem exame interior. Ver [[wiki/conceitos/obsessao]] para o quadro mais amplo.
+
+### Autoavaliação a partir do mundo regenerador
+
+Viana propõe que cada característica do [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] descrita por Kardec em ESE cap. III seja convertida em **pergunta pessoal**:
+
+- Ainda quero impor minha opinião? (orgulho)
+- Sinto incômodo quando outro prospera? (inveja)
+- Guardo desejos velados de que o mal alcance quem me feriu? (ódio)
+
+A *Revista Espírita* de março de 1868, no artigo "A Regeneração", sintetiza: no [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] *não haverá mais gritos, nem luto, nem trabalho no sentido de mera remuneração econômica — apenas ocupação útil compreendida como progresso*. A leitura de Viana converte essa promessa escatológica em **exercício de autoexame moral cotidiano** — convergente com a chave kardequiana de LE q. 919 ("Conhece-te a ti mesmo").
+
+Recuperando *Os Mensageiros* (Chico Xavier / André Luiz), Esmália descreve a humanidade atual como *"a Jerusalém de ontem, desdenhando a mensagem do Cristo e o crucificando todos os dias no madeiro da indiferença e do desdém"*. O paralelo com personagens da época da crucificação — a política dos Césares (interesse pessoal acima do bem comum), a justiça de [[wiki/personalidades/poncio-pilatos|Pilatos]] (omissão por lavagem de mãos), a fé dos fariseus (exterior e ritualística), os negócios de Anás e Caifás (manutenção do status e da aparência) — é usado para que cada ouvinte localize **em qual desses personagens ainda se reconhece**.
+
+A pergunta-síntese deslocada do título "Para onde caminha a humanidade?" para o eixo pessoal — *"para onde caminho eu?"* — é o aporte editorial central de Viana para o conceito de transição planetária: o deslocamento do diagnóstico macro-histórico para o exercício micro-existencial. Transcrição em [[raw/palestras/mansao-do-caminho/alessandro-viana-para-onde-caminha-a-humanidade]].
+
 ## Páginas relacionadas
 
+- [[wiki/personalidades/alessandro-viana]] — palestra de diagnóstico contemporâneo (~2025)
 - [[wiki/conceitos/geracao-nova]] — os Espíritos que protagonizam a renovação
 - [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]] — o mecanismo de troca de populações
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — a condição atual da Terra
