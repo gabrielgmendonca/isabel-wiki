@@ -238,4 +238,4 @@ Para a sistematização completa da doutrina joanniana sobre sexualidade (oito e
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 1:26–27.
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*, cap. 21 — "Homossexualidade". Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*, cap. 21 — "Homossexualidade". Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/emmanuel/vida-e-sexo]].

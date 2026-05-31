@@ -72,4 +72,4 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - XAVIER, Francisco Cândido (Emmanuel). *Vinha de Luz*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/emmanuel/vinha-de-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Fonte Viva*. Rio de Janeiro: FEB, 1956. Edição: [[raw/mediuns/chico-xavier/emmanuel/fonte-viva]].
 - XAVIER, Francisco Cândido (Emmanuel). *Palavras de Vida Eterna*. Rio de Janeiro: FEB, 1964. Edição: [[raw/mediuns/chico-xavier/emmanuel/palavras-de-vida-eterna]].
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. FEB, 1970. Edição: [[raw/mediuns/chico-xavier/emmanuel/vida-e-sexo]].

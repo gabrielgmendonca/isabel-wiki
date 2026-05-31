@@ -167,7 +167,7 @@ Joanna oferece a sistematização contemporânea — psicológica e neurobiológ
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 686–701. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XVII, item 11 (Espírito Georges) e cap. XXII. Trad. Guillon Ribeiro. FEB.
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Caps. 1, 5, 6, 23, 24, 26. Edição: [[raw/mediuns/chico-xavier/emmanuel/vida-e-sexo]].
 - XAVIER, Francisco Cândido (André Luiz). *Missionários da Luz*. Rio de Janeiro: FEB, 1945. Cap. 13 (sexo como qualidade cósmica). Edição: [[raw/mediuns/chico-xavier/andre-luiz/missionarios-da-luz]].
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 11 (preleção sobre sexo, diálogo com Freud/Adler/Jung, antecipação sobre identidade sexual e biotecnologia). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Parte I, caps. 2, 6, 18; parte II, caps. 13–14, 16. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].

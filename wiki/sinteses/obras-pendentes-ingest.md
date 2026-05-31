@@ -99,7 +99,7 @@ Cobertura completa em 2026-05-26. Sem pendentes.
 - [[raw/mediuns/chico-xavier/emmanuel/a-terra-e-o-semeador]]
 - [[raw/mediuns/chico-xavier/emmanuel/abrigo]]
 - [[raw/mediuns/chico-xavier/emmanuel/acao-e-caminho]]
-- [[raw/mediuns/chico-xavier/emmanuel/agenda-crista]]
+- [[raw/mediuns/chico-xavier/andre-luiz/agenda-crista]]
 - [[raw/mediuns/chico-xavier/emmanuel/agora-e-o-tempo]]
 - [[raw/mediuns/chico-xavier/emmanuel/algo-mais]]
 - [[raw/mediuns/chico-xavier/emmanuel/alma-e-coracao]]
@@ -251,7 +251,7 @@ Cobertura completa em 2026-05-26. Sem pendentes.
 ### Augusto Cezar / Augusto Cezar Netto
 - [[raw/mediuns/chico-xavier/augusto-cezar-netto/augusto-vive]]
 - [[raw/mediuns/chico-xavier/augusto-cezar-netto/falou-e-disse]]
-- [[raw/mediuns/chico-xavier/augusto-cezar-netto/presenca-de-luz]]
+- [[raw/mediuns/chico-xavier/augusto-cezar/presenca-de-luz]]
 - [[raw/mediuns/chico-xavier/augusto-cezar/fotos-da-vida]]
 
 ### Bezerra de Menezes
@@ -270,7 +270,7 @@ Cobertura completa em 2026-05-26. Sem pendentes.
 ### Médiuns/espíritos com 1 obra pendente
 - [[raw/mediuns/chico-xavier/batuira/mais-luz]]
 - [[raw/mediuns/chico-xavier/carlos-por-neio-lucio/mensagem-do-pequeno-morto]]
-- [[raw/mediuns/chico-xavier/claudia-p-galasse/escola-no-alem]]
+- [[raw/mediuns/chico-xavier/claudia-pinheiro-galasse/escola-no-alem]]
 - [[raw/mediuns/chico-xavier/f-c-xavier/antologia-dos-imortais]]
 - [[raw/mediuns/chico-xavier/francisco-v-lorenz/o-esperanto-como-revelacao]]
 - [[raw/mediuns/chico-xavier/irmao-jacob/voltei]]

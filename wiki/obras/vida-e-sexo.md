@@ -20,7 +20,7 @@ status: ativo
 - **Primeira edição:** 1970
 - **Editora:** FEB
 - **Gênero:** tratado pastoral sobre sexualidade, família e amor à luz da Doutrina Espírita
-- **Texto integral:** [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]]
+- **Texto integral:** [[raw/mediuns/chico-xavier/emmanuel/vida-e-sexo]]
 - **Fonte original:** [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Ves/VesPref.htm)
 
 ## Estrutura
@@ -117,5 +117,5 @@ Para a sistematização doutrinária por eixos, ver [[wiki/aprofundamentos/sexua
 
 ## Fontes
 
-- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/andre-luiz/vida-e-sexo]].
+- XAVIER, Francisco Cândido (Emmanuel). *Vida e Sexo*. Rio de Janeiro: FEB, 1970. Edição: [[raw/mediuns/chico-xavier/emmanuel/vida-e-sexo]].
 - Disponível em: <https://bibliadocaminho.com/ocaminho/TX/Ves/VesPref.htm>
