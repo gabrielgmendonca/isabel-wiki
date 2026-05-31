@@ -627,6 +627,10 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/esquecimento-do-passado]] — "ele é mais ele mesmo": o véu sobre o passado como condição de autenticidade do livre-arbítrio; substitutos operacionais da memória (intuição, voz da consciência, tendências instintivas) (LE, q. 392).
 - [[wiki/questoes/obediencia-e-resignacao]] — obediência como consentimento da razão e resignação como consentimento do coração; "forças ativas ambas" e não negação da vontade (ESE, cap. IX, item 8 — Lázaro, Paris, 1863).
 - [[wiki/questoes/ensaio-teorico-da-sensacao-dos-espiritos]] — ensaio expositivo de Kardec que define o perispírito como "quintessência da matéria" e agente das sensações; mecânica do sofrimento póstumo (caso do suicida) e conclusão tranquilizadora — o livre-arbítrio permite começar a libertação do jugo da matéria desde a vida atual (LE, q. 257).
+- [[wiki/questoes/a-infancia-e-o-veu-da-inocencia]] — a inocência infantil como véu providencial (não superioridade real); dupla função — proteger a criança do juízo precoce e garantir o amor dos pais; o "tamis da infância" que integra Espíritos vindos de mundos diversos (LE, q. 385).
+- [[wiki/questoes/prece-pelos-mortos-e-visita-ao-tumulo]] — vale o coração, não o lugar: "a prece é que santifica o ato da rememoração"; o túmulo como representação exterior do pensamento; o Dia de Finados sem virtude própria (LE, q. 323).
+- [[wiki/questoes/unicidade-do-espirito]] — um só Espírito anima cada homem: refutação dos "múltiplos Espíritos"; vontade única, individualidade e responsabilidade; "tomam o efeito pela causa" (LE, q. 366).
+- [[wiki/questoes/orgaos-nao-geram-as-faculdades]] — os órgãos não geram as faculdades, são estas que os desenvolvem; refutação da frenologia/materialismo (Vicente de Paulo × celerado) em defesa do livre-arbítrio (LE, q. 370).
 
 ## Sínteses
 
