@@ -6,7 +6,7 @@ url: https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO
 direitos:
   detentor: desconhecido
   observacao: "Palestra (EELDE); texto-base em DP (ESE/LM)"
-atualizado_em: 2026-04-07
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -17,9 +17,9 @@ status: ativo
 - **Palestrante:** [[wiki/personalidades/carlos-mendonca]]
 - **Canal:** EELDE (Estudo do Evangelho à Luz da Doutrina Espírita)
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
-- **Nível de autoridade:** 3 — complementar alinhado à codificação
+- **Nível de autoridade:** 4 — expositor contemporâneo
 - **Fonte original:** [YouTube](https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO)
-- **Texto integral:** [JESUS ENSINA EM CAFARNAHUM | EELDE](raw/palestras/JESUS%20ENSINA%20EM%20CAFARNAHUM%20%7C%20EELDE.md)
+- **Texto integral:** [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/jesus-ensina-em-cafarnahum-eelde]]
 
 ![](https://youtu.be/tEPfQSIP9Dw?si=dN5YJK2f_h6CdovO)
 

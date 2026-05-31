@@ -83,7 +83,7 @@ Material decisivo: o artigo de dez/1862 funciona como **aprofundamento *de facto
 
 O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsessão, cobrindo três das categorias kardequianas:
 
-1. **Desobsessão em Cafarnaum (Mc 1:21–28).** Na primeira pregação pública, Jesus enfrenta na sinagoga um homem com "espírito imundo" que o reconhece ("Bem sei quem és: o Santo de Deus"). Jesus ordena silêncio e a saída — "Cala-te, e sai dele" — e o Espírito convulsiona o obsidiado antes de partir. Modelo de **ensino-desobsessão integrados**: a palavra doutrinária mesma é o instrumento de libertação. Cf. palestra [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]].
+1. **Desobsessão em Cafarnaum (Mc 1:21–28).** Na primeira pregação pública, Jesus enfrenta na sinagoga um homem com "espírito imundo" que o reconhece ("Bem sei quem és: o Santo de Deus"). Jesus ordena silêncio e a saída — "Cala-te, e sai dele" — e o Espírito convulsiona o obsidiado antes de partir. Modelo de **ensino-desobsessão integrados**: a palavra doutrinária mesma é o instrumento de libertação. Cf. palestra [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]].
 
 2. **Legião — o gadareno (Mc 5:1–20).** Caso extremo de **subjugação** (LM, 2ª parte, cap. XXIII, item 240): o obsidiado habita os sepulcros, clama noite e dia, fere-se com pedras, rompe cadeias. Ao perguntar o nome, Jesus recebe: "Legião é o meu nome, porque somos muitos". É o caso paradigmático de **obsessão coletiva** — grupo de Espíritos inferiores atuando em simbiose sobre um único encarnado. Após a libertação, o homem fica "assentado, vestido e em perfeito juízo" (Mc 5:15): a restauração é total quando o obsessor é removido e a vítima recebe acolhimento doutrinário.
 
@@ -285,7 +285,7 @@ Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-
 - [[wiki/obras/plenitude]] — Joanna de Ângelis sobre terapia desobsessiva (cap. X), ancorada em LM cap. XXIII it. 249/252/254 com citação textual
 - [[wiki/obras/conflitos-existenciais]] — Joanna de Ângelis (LEAL, 2005) opera a obsessão como vetor transversal: vampirização energética por Espíritos ociosos no quadro da preguiça (cap. 2), drogadição/tabagismo/alcoolismo como **dependências químicas em chave obsessivo-velada** (caps. 12-14), e fobias com **etiologia obsessiva** quando antigas vítimas se aproveitam de gravames pretéritos (cap. 17)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
-- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
+- [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Zulmira–Odila, desobsessão envolvente

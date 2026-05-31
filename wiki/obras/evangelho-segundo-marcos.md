@@ -30,7 +30,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 
 ### Início do ministério (cap. 1)
 
-**Cap. 1 — João Batista, batismo, tentações, primeiras curas.** Abertura abrupta: João Batista como precursor (Mc 1:2–8), batismo de Jesus com descida do Espírito em forma de pomba (Mc 1:9–11), quarenta dias no deserto (Mc 1:12–13). Chamado dos primeiros discípulos à beira do mar (Mc 1:16–20). **Primeira pregação em Cafarnaum**: ensino "com autoridade" e desobsessão na sinagoga — "espírito imundo" é repreendido e expulso (Mc 1:21–28). Cura da sogra de Pedro, do leproso. Ver [[wiki/biblia/marcos/1]] e palestra [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]].
+**Cap. 1 — João Batista, batismo, tentações, primeiras curas.** Abertura abrupta: João Batista como precursor (Mc 1:2–8), batismo de Jesus com descida do Espírito em forma de pomba (Mc 1:9–11), quarenta dias no deserto (Mc 1:12–13). Chamado dos primeiros discípulos à beira do mar (Mc 1:16–20). **Primeira pregação em Cafarnaum**: ensino "com autoridade" e desobsessão na sinagoga — "espírito imundo" é repreendido e expulso (Mc 1:21–28). Cura da sogra de Pedro, do leproso. Ver [[wiki/biblia/marcos/1]] e palestra [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]].
 - **Conceito:** [[wiki/conceitos/obsessao]]
 
 ### Conflitos iniciais (caps. 2–3)

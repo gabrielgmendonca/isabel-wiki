@@ -52,7 +52,7 @@ Palestras transcritas de oradores consagrados, úteis como modelo de estrutura e
 ### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]]
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]]
-- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]]
+- [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]]
 
 ---
 

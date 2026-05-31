@@ -6,7 +6,7 @@ url: https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B
 direitos:
   detentor: desconhecido
   observacao: "Palestra (Carlos Mendonça); texto-base em DP (ESE)"
-atualizado_em: 2026-04-07
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -19,7 +19,7 @@ status: ativo
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 4 — expositor contemporâneo
 - **Fonte original:** [YouTube](https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B)
-- **Texto integral:** [[raw/palestras/carlos-mendonca/felizes-os-pobres-em-espiritos]]
+- **Texto integral:** [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/felizes-os-pobres-em-espiritos]]
 
 ![](https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B)
 

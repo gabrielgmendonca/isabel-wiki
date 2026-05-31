@@ -6,7 +6,7 @@ url: https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_
 direitos:
   detentor: desconhecido
   observacao: "Palestra (Carlos Mendonça); texto-base em DP (ESE)"
-atualizado_em: 2026-04-07
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -19,7 +19,7 @@ status: ativo
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
 - **Nível de autoridade:** 4 — expositor contemporâneo
 - **Fonte original:** [YouTube](https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_)
-- **Texto integral:** [[raw/palestras/carlos-mendonca/parabola-do-semeador]]
+- **Texto integral:** [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/parabola-do-semeador]]
 
 ![](https://youtu.be/LtCIof0FjLo?si=HwihQI0A-E8DwBJ_)
 

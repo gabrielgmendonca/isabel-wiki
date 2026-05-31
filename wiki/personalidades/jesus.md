@@ -163,7 +163,7 @@ A cura simultânea da filha leprosa Flávia opera não pelo merecimento do pai, 
 - [[wiki/obras/obras-postumas]] — estudo sobre a natureza do Cristo (9 seções).
 - [[wiki/obras/a-caminho-da-luz]] — governador espiritual da Terra, da gênese planetária à transição (Emmanuel/Chico Xavier).
 - [[wiki/obras/ha-dois-mil-anos]] — encontro com Públio Lêntulus em Cafarnaum; o "minuto glorioso" do livre-arbítrio na hora da Graça; cura de Flávia (Emmanuel/Chico Xavier).
-- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
+- [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]] — primeira pregação e desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28).
 - [[wiki/obras/evangelho-segundo-joao]] — discursos longos, declarações "Eu sou", promessa do Consolador, natureza do Cristo.
 - [[wiki/obras/evangelho-segundo-mateus]] — cinco grandes discursos pedagógicos; base da maior parte das citações evangélicas do ESE.
 - [[wiki/obras/epistola-aos-filipenses]] — hino cristológico (Fp 2:5–11) com a kenose como modelo de humildade voluntária; "para mim o viver é Cristo, e o morrer é ganho" (Fp 1:21).

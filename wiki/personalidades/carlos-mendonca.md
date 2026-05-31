@@ -31,7 +31,7 @@ Palestras presentes na wiki:
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — estudo de Marcos 4:1-25 (parábola do semeador). Tema: método pedagógico de Jesus, quatro solos como receptividades, persistência no bem.
 - [[wiki/obras/parabola-do-semeador-eelde-carlos-mendonca]] — estudo aprofundado em série EELDE de 4 partes do mesmo trecho. Tese distintiva: caridade na convivência com a diversidade evolutiva; gradação 30/60/100 ancorada em 1 Cor 3:8-9.
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — estudo de Mateus 5:3 (primeira bem-aventurança). Tema: pobreza espiritual como humildade, o Reino dos Céus como conquista íntima.
-- [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — estudo de Marcos 1:21-28 (Jesus na sinagoga de Cafarnaum). Tema: autoridade moral do ensino, expulsão de espírito obsessor analisada à luz de LM.
+- [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]] — estudo de Marcos 1:21-28 (Jesus na sinagoga de Cafarnaum). Tema: autoridade moral do ensino, expulsão de espírito obsessor analisada à luz de LM.
 - [[wiki/obras/final-dos-tempos-carlos-mendonca]] — Sermão Profético (Mt 24) + *A Gênese* caps. XVII-XVIII. Síntese cosmológica da transição planetária; "transição serena" vs. "transição traumática" das escrituras literais.
 - [[wiki/obras/instituicao-dos-doze-carlos-mendonca]] — Marcos 3:13-21 em 2 partes. Tese do "Novo Israel" universalizado; treze princípios da missão apostólica a partir de *Boa Nova* (Humberto de Campos / Chico Xavier).
 - [[wiki/obras/parabola-do-joio-e-do-trigo-carlos-mendonca]] — Mateus 13:24-30. Tolerância como tese pedagógica; convivência forçada bem/mal como escola de discernimento.
