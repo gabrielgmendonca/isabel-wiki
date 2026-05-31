@@ -1,0 +1,11 @@
+### O tema dos demônios no Evangelho e na Doutrina Espírita
+
+Carlos Alberto Mendonça conduz este estudo do Evangelho de Jesus à luz da Doutrina Espírita no Centro Espírita Bezerra de Menezes do Estácio, no Rio de Janeiro. A palestra tem como foco a figura dos demônios, analisada a partir do relato de Marcos sobre a tentação de Jesus no deserto por Satanás durante 40 dias, após o batismo por João Batista. O palestrante ressalta a necessidade de analisar a palavra "Satanás" com cuidado, evitando conotações teológicas difundidas pelas igrejas cristãs. Para fundamentar a abordagem, cita Allan Kardec em "Céu e Inferno": *"Em todos os tempos os demônios representaram papel de destaque nas diversas teogonias, embora bastante desacreditados no conceito geral, a importância que ainda hoje se lhes atribui confere certa gravidade à questão por tocar no próprio fundo das crenças religiosas."*
+
+### Etimologia e evolução do conceito
+
+No Antigo Testamento, os demônios aparecem sob nomes com significados distintos. "Sair" significa "cabeludo" e aponta para o demônio como símbolo do sátiro, figura associada a algo devastado; "shed" tem sentido incerto, embora relacionado a uma palavra assíria de semelhança sonora. Esses termos mostram que a figura demoníaca foi construída ao longo do tempo a partir de imagens culturais diversas. No Novo Testamento, a designação usual é "daemonium", diminutivo de "daimon". Nos escritos clássicos gregos, "daimon" era usado em sentido positivo para indicar um deus ou poder divino. No NT, porém, "daimon" e "daimonion" sempre se referem a seres espirituais hostis a Deus e aos homens, com Belzebu identificado como seu príncipe e os demônios como seus agentes.
+
+### A tentacao no deserto como símbolo espiritual
+
+A reflexão final conecta o tema ao percurso de qualquer pessoa que se dedica à semeadura do bem: toda ela é assediada pelo mal, e nem Jesus foi poupado. O deserto, local de solidão e aridez extrema, é lido como símbolo das dificuldades que acompanham quem busca a ascensão moral e o caminho reto. O palestrante conclui que essa dificuldade é reflexo notório da imperfeição moral e intelectual que ainda atinge a humanidade terrestre. A tentação de Jesus representa, na leitura espírita, a pressão universal sobre aqueles que buscam a vitória do bem.

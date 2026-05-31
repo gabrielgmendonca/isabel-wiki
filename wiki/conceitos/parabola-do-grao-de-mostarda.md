@@ -38,6 +38,7 @@ Desestimula o desânimo diante de esforços aparentemente pequenos. Uma prece si
 - [[wiki/conceitos/tres-revelacoes]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XVIII
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 13
+- [[wiki/obras/parabola-do-grao-de-mostarda-carlos-mendonca]] — estudo Mendonça/EELDE: fé como disposição ativa, cita Emmanuel/*Vinha de Luz* sobre os tarefeiros que recuam diante dos "pântanos desprezados"
 
 ## Fontes
 

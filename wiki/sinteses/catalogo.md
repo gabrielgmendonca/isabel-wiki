@@ -115,8 +115,14 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 
 #### Carlos Mendonça
 - [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — Carlos Mendonça, palestra. Parábola do semeador (Marcos 4), método pedagógico de Jesus e persistência no bem.
+- [[wiki/obras/parabola-do-semeador-eelde-carlos-mendonca]] — Carlos Mendonça, série EELDE em 4 partes. Estudo aprofundado dos quatro solos; caridade na convivência com a diversidade evolutiva.
 - [[wiki/obras/felizes-os-pobres-em-espirito-carlos-mendonca]] — Carlos Mendonça, palestra. Primeira bem-aventurança (Mateus 5:3), pobreza de espírito como humildade, conquista do Reino dos Céus.
 - [[wiki/obras/jesus-ensina-em-cafarnaum-eelde]] — Carlos Mendonça, palestra. Primeira pregação de Jesus em Cafarnaum (Marcos 1:21–28): ensino com autoridade e desobsessão na sinagoga.
+- [[wiki/obras/final-dos-tempos-carlos-mendonca]] — Carlos Mendonça, palestra. Sermão Profético (Mt 24) + *A Gênese* caps. XVII-XVIII; transição planetária como "transição serena" vs. literal traumática.
+- [[wiki/obras/instituicao-dos-doze-carlos-mendonca]] — Carlos Mendonça, série EELDE em 2 partes. "Novo Israel" universalizado (Marcos 3:13-21); treze princípios da missão apostólica (*Boa Nova* / Humberto de Campos).
+- [[wiki/obras/parabola-do-joio-e-do-trigo-carlos-mendonca]] — Carlos Mendonça, palestra. Mateus 13:24-30, tolerância como tese pedagógica e ceifeiros como Espíritos esclarecidos.
+- [[wiki/obras/parabola-do-grao-de-mostarda-carlos-mendonca]] — Carlos Mendonça, palestra. Mateus 13:31-32, fé como disposição ativa de estudo; cita Emmanuel/*Vinha de Luz*.
+- [[wiki/obras/parabola-do-fermento-carlos-mendonca]] — Carlos Mendonça, palestra. Mateus 13:33, conhecimento doutrinário precisa ser misturado à vida.
 
 #### Emmanuel / Chico Xavier
 - [[wiki/obras/a-caminho-da-luz]] — Emmanuel/Chico Xavier (1939). História da civilização terrestre sob a direção espiritual do Cristo: gênese planetária, exílio de Capela, panorama das civilizações, Kardec e transição planetária. 25 capítulos. **(rascunho)**

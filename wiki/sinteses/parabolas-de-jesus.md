@@ -181,8 +181,15 @@ Três eixos atravessam o conjunto das parábolas e as conectam aos pilares da co
 ### Síntese
 Todas as 29 páginas de `wiki/conceitos/parabola-*` listadas no corpo e na tabela acima.
 
-### Obra de estudo
-- [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — palestra de Carlos Mendonça sobre o semeador (Marcos 4), método pedagógico de Jesus.
+### Obras de estudo
+
+Palestras de Carlos Mendonça (CEBM-Estácio) sobre parábolas individuais:
+
+- [[wiki/obras/parabola-do-semeador-carlos-mendonca]] — semeador (Marcos 4), método pedagógico de Jesus (vídeo único).
+- [[wiki/obras/parabola-do-semeador-eelde-carlos-mendonca]] — semeador, estudo aprofundado em série EELDE de 4 partes; conviver com a diversidade evolutiva.
+- [[wiki/obras/parabola-do-joio-e-do-trigo-carlos-mendonca]] — joio e trigo (Mt 13:24-30), tolerância como tese pedagógica.
+- [[wiki/obras/parabola-do-grao-de-mostarda-carlos-mendonca]] — grão de mostarda (Mt 13:31-32), fé como disposição ativa.
+- [[wiki/obras/parabola-do-fermento-carlos-mendonca]] — fermento (Mt 13:33), conhecimento doutrinário que precisa ser misturado à vida.
 
 ### Obras e conceitos relacionados
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — o ESE é a leitura espírita autorizada das máximas e parábolas de Jesus.

@@ -17,7 +17,7 @@ status: ativo
 - **Palestrante:** Carlos Mendonça
 - **Instituição:** Centro Espírita Bezerra de Menezes de Estácio
 - **Tipo:** Palestra / estudo do Evangelho à luz da Doutrina Espírita
-- **Nível de autoridade:** 3 — complementar alinhado à codificação
+- **Nível de autoridade:** 4 — expositor contemporâneo
 - **Fonte original:** [YouTube](https://youtu.be/_cgR1MB2yDs?si=SlJ2gCeCfZhW2C6B)
 - **Texto integral:** [[raw/palestras/carlos-mendonca/felizes-os-pobres-em-espiritos]]
 

@@ -37,6 +37,7 @@ A parábola desaconselha o julgamento moral precipitado. Quem somos nós para de
 - [[wiki/conceitos/transicao-planetaria]] · [[wiki/conceitos/mundos-de-expiacao-e-provas]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XVIII
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 13
+- [[wiki/obras/parabola-do-joio-e-do-trigo-carlos-mendonca]] — estudo Mendonça/EELDE: tolerância como tese pedagógica, ceifeiros como Espíritos esclarecidos
 
 ## Fontes
 

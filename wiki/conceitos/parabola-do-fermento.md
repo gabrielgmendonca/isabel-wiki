@@ -36,6 +36,7 @@ Desestimula impaciência proselitista. Viver o Evangelho é o fermento; insistir
 - [[wiki/conceitos/progresso-espiritual]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. XVIII
 - [[wiki/obras/evangelho-segundo-mateus]] — cap. 13
+- [[wiki/obras/parabola-do-fermento-carlos-mendonca]] — estudo Mendonça/EELDE: fermento guardado na gaveta é capital morto; conhecimento doutrinário precisa ser misturado à vida
 
 ## Fontes
 
