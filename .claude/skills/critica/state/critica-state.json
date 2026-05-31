@@ -1,5 +1,86 @@
 {
   "version": 1,
-  "last_run": null,
-  "pages": {}
+  "last_run": "2026-05-31",
+  "pages": {
+    "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
+      "content_sha": "sha256:1542cda0e78b66707e5ed07b6bd8a4d3499482fa728b7049909eda99d0b16ecc",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 2
+    },
+    "wiki/divergencias/fogo-eterno-em-mateus-25.md": {
+      "content_sha": "sha256:f1dd6a1b98e5f6ef8d6d8575055bde310df86f9b6fa98e1262a435aab1a017a6",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-04-15",
+      "verdict": "requer revisão humana",
+      "findings_count": 8,
+      "deferred_count": 8
+    },
+    "wiki/divergencias/morte-de-ananias-e-safira.md": {
+      "content_sha": "sha256:e34fac2f4e56fc6ef45ee54382a1cabe7658989c15064be2c0c96b6b7fc2266d",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 7,
+      "deferred_count": 5
+    },
+    "wiki/divergencias/sinais-de-marcos-16.md": {
+      "content_sha": "sha256:9a29850644bf55076a169542f3dfe157cfc0a03476de70823702392041599f61",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-04-15",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/questoes/alma-dos-animais.md": {
+      "content_sha": "sha256:284d67f55f5de368b33afc8906e064e580d88451968b7583e22e761e31fed132",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/questoes/espiritos-e-as-leis-da-natureza.md": {
+      "content_sha": "sha256:7597cabfd62fd9d4faed66f4f53906a9dc22d19256af2012bd6313b404adf2e7",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/questoes/fora-da-caridade-nao-ha-salvacao.md": {
+      "content_sha": "sha256:63698c483e6313d0653e6fc1ce7179739f0b19545ea46440c8fc9a73d5390d2d",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/questoes/jesus-tipo-mais-perfeito.md": {
+      "content_sha": "sha256:ed986f005697c13ee3cc90474dd29ebe3007939c88f0b863691ab17986610090",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "auto-corrigido (limpo doutrinariamente)",
+      "findings_count": 1,
+      "deferred_count": 0
+    },
+    "wiki/questoes/o-que-e-deus.md": {
+      "content_sha": "sha256:a5d9f0b32af9670ab3f95fe06504048933ff07150be8f1bcf08ab528c857167e",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/questoes/pactos-com-satanas-como-alegoria.md": {
+      "content_sha": "sha256:ebe699301380c3b2ae7c5ceb16593b2a5aea9a1f389e02db840a790ad10611d4",
+      "last_critica_date": "2026-05-31",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 2
+    }
+  }
 }

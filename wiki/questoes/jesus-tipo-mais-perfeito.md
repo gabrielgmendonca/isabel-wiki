@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE, ESE]
 tags: [jesus, cristo, modelo-moral, revelacao, hierarquia-de-autoridade, obra/le, obra/ese, autor/kardec, grau/introdutorio, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-19
+atualizado_em: 2026-05-31
 status: ativo
 ---
 
@@ -50,7 +50,7 @@ A resposta não é apresentada como crença dogmática, mas como conclusão do e
 | Foi o **ser mais puro** entre os que apareceram na Terra | Que a perfeição de Jesus seja inalcançável por outros Espíritos |
 | O **espírito divino o animava** | Natureza metafísica precisa do Cristo (desenvolvida em OPE) |
 
-Kardec aprofunda essa distinção em *Obras Póstumas*, no "Estudo sobre a natureza do Cristo": Jesus é apresentado como "um só homem" (1Cor 15:28), "enviado", "servidor" — em posição subordinada ao Pai, sem consubstancialidade (OPE, "Estudo sobre a natureza do Cristo", §III, §VI, §VII). A superioridade de Jesus é de **ordem espiritual elevadíssima**, não de identidade divina.
+Kardec aprofunda essa distinção em *[[wiki/obras/obras-postumas|Obras Póstumas]]*, no "Estudo sobre a natureza do Cristo": Jesus é apresentado como "um só homem" (1Cor 15:28), "enviado", "servidor" — em posição subordinada ao Pai, sem consubstancialidade (OPE, "Estudo sobre a natureza do Cristo", §III, §VI, §VII). A superioridade de Jesus é de **ordem espiritual elevadíssima**, não de identidade divina.
 
 ### Relação com outras revelações
 

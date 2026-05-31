@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [C&I, LE, NT]
-tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le, autor/kardec, grau/avancado, tema/sofrimento]
-atualizado_em: 2026-04-15
+tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le, autor/kardec, grau/avancado, tema/sofrimento, tema/vida-futura]
+atualizado_em: 2026-05-31
 status: aberta
 ---
 
@@ -24,7 +24,7 @@ Lida à letra, a passagem apresenta:
 
 ## Posição de Kardec
 
-A justiça divina, na doutrina kardequiana, é **progressiva, reparadora e nunca sumária**:
+A justiça divina, na doutrina kardecista, é **progressiva, reparadora e nunca sumária**:
 
 1. **Penas temporárias e educativas.** "A duração da pena está sempre subordinada ao progresso do Espírito culpado [...]. Não há penas eternas" (LE, q. 1009–1016). "As penas não são arbitrárias; consequência lógica da falta, carregam em si mesmas o remédio" (C&I, 1ª parte, cap. VII).
 
@@ -61,7 +61,7 @@ A divergência é **real quanto à atribuição causal** (morte como castigo div
 
 ## Status
 
-**Aberta.** A divergência persiste na medida em que leituras tradicionais continuam apresentando At 5:1–11 como castigo sumário divino. A posição kardequiana: a justiça de Deus é progressiva, reparadora e jamais fulmina — falhas morais geram consequências naturais, remorso e necessidade de reparação em novas existências, não morte punitiva instantânea ordenada pela palavra apostólica.
+**Aberta.** A divergência persiste na medida em que leituras tradicionais continuam apresentando At 5:1–11 como castigo sumário divino. A posição de Kardec: a justiça de Deus é progressiva, reparadora e jamais fulmina — falhas morais geram consequências naturais, remorso e necessidade de reparação em novas existências, não morte punitiva instantânea ordenada pela palavra apostólica.
 
 ## Páginas relacionadas
 

@@ -1,9 +1,9 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [leis-naturais, influencia-dos-espiritos, milagres, providencia, superstição, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos]
-atualizado_em: 2026-04-19
-status: ativo
+tags: [leis-naturais, influencia-dos-espiritos, milagres, providencia, superstição, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos, tema/livre-arbitrio]
+atualizado_em: 2026-05-31
+status: rascunho
 ---
 
 # Os Espíritos podem violar as leis da natureza para cumprir um destino?

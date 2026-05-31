@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE]
 tags: [alma, animais, tres-reinos, individualidade, principio-inteligente, obra/le, autor/kardec, grau/introdutorio, lei/destruicao, tema/espiritos]
-atualizado_em: 2026-04-19
-status: ativo
+atualizado_em: 2026-05-31
+status: rascunho
 ---
 
 # A alma dos animais sobrevive ao corpo?
@@ -63,6 +63,9 @@ Os reinos se comunicam na economia geral da criação, mas não por trânsito di
 ### O estado latente e a hierarquia
 
 A expressão "a vida inteligente lhe permanece em estado latente" tem alcance doutrinário. Sugere uma **continuidade do princípio inteligente** que, atravessando a escala dos seres, eventualmente alcança o estado humano — não por migração direta, mas por um processo de elaboração cuja economia precisa só é conhecida aos Espíritos mais adiantados (LE, q. 540, q. 604; Gênese, cap. X, item 17).
+
+> [!warning] Divergência com Kardec
+> Kardec **não fixa** que o princípio inteligente animal ascenda ao estado humano. Em LE q. 613 ele expõe **dois sistemas concorrentes** e suspende o juízo ("Tudo isso são mistérios que seria inútil querer devassar"), inclinando-se ao que afasta o homem da fieira animal ("mais conforme à dignidade do homem") e afirmando "solução de continuidade" moral entre animal e homem. A tese da ascensão contínua é leitura de autores nível 3 (Léon Denis, André Luiz), não doutrina fixada por Kardec. Ver [[wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem]].
 
 Isso permite conciliar:
 - A unidade do princípio inteligente na criação (Gênese, cap. III).

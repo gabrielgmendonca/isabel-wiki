@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE]
 tags: [deus, causa-primaria, inteligencia-suprema, atributos-divinos, panteismo, obra/le, autor/kardec, grau/introdutorio, tema/deus]
-atualizado_em: 2026-04-19
-status: ativo
+atualizado_em: 2026-05-31
+status: rascunho
 ---
 
 # O que é Deus?
@@ -39,7 +39,7 @@ A definição em dez palavras condensa duas afirmações indissociáveis:
 
 Kardec fundamenta a primeira resposta na q. 4, onde a prova de Deus é o axioma científico **"não há efeito sem causa"**: "Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá" (LE, q. 4). Trata-se do mesmo argumento cosmológico retomado em Aquino e em toda a tradição espiritualista, mas aqui despido de ornamento escolástico.
 
-A ordem e a harmonia do universo revelam uma inteligência — "o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso" (LE, q. 8, nota). O argumento do design, em versão kardequiana, é sóbrio: observa-se a obra, infere-se o Autor. "Pela obra se reconhece o autor" (LE, q. 9).
+A ordem e a harmonia do universo revelam uma inteligência — "o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso" (LE, q. 8, nota). O argumento do design, em versão de Kardec, é sóbrio: observa-se a obra, infere-se o Autor. "Pela obra se reconhece o autor" (LE, q. 9).
 
 ### Por que "causa primária" e não "criador"
 

@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE]
 tags: [pactos, satanas, demonios, superstição, alegoria, gozos-materiais, obra/le, autor/kardec, grau/introdutorio, tema/espiritos]
-atualizado_em: 2026-04-19
-status: ativo
+atualizado_em: 2026-05-31
+status: rascunho
 ---
 
 # O que são, na doutrina espírita, os "pactos com Satanás"?
