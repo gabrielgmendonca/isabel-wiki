@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, ESE, "C&I", NT]
 tags: [divergencia, juizo-final, inferno, penas-futuras, mateus, lucas, obra/le, obra/ese, obra/ci, autor/kardec, grau/avancado, tema/vida-futura]
-atualizado_em: 2026-05-31
+atualizado_em: 2026-06-01
 status: aberta
 ---
 
@@ -60,6 +60,10 @@ Quanto a Lc 16:19–31, a parábola do mau rico figura como **epígrafe** (item 
 - [[wiki/obras/ceu-e-inferno]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. III, XVI
 - [[wiki/conceitos/parabola-do-mau-rico]]
+- [[wiki/conceitos/penas-eternas]]
+- [[wiki/conceitos/inferno]]
+- [[wiki/conceitos/codigo-penal-da-vida-futura]]
+- [[wiki/divergencias/morte-de-ananias-e-safira]] — divergência análoga sobre a justiça divina
 
 ## Fontes
 

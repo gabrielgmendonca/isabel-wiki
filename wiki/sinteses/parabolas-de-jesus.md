@@ -170,7 +170,7 @@ Três eixos atravessam o conjunto das parábolas e as conectam aos pilares da co
 
 1. **Pluralidade das existências** como chave interpretativa. Os "muitos chamados, poucos escolhidos" (Festim de bodas), os trabalhadores da última hora e o joio que convive com o trigo só ganham coerência plena à luz da reencarnação (ESE, cap. IV). Sem a pluralidade das existências, muitas parábolas caem em contradições de justiça divina — daí Kardec tê-las escolhido como provas bíblicas da doutrina.
 
-2. **Caridade efetiva, não retórica.** Dois filhos, casa sobre a rocha, figueira seca, dez virgens, trabalhadores da última hora — todas convergem no mesmo ponto: *fé sem obras é morta*. É a leitura espírita do "fora da caridade não há salvação" (ESE, cap. XV, item 5; ver [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]]).
+2. **Caridade efetiva, não retórica.** Dois filhos, casa sobre a rocha, figueira seca, dez virgens, trabalhadores da última hora — todas convergem no mesmo ponto: *fé sem obras é morta*. É a leitura espírita do "fora da caridade não há salvação" (ESE, cap. XV, item 5; ver [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]]).
 
 3. **Progresso como lei natural.** Semente que cresce por si, grão de mostarda, fermento, grão de trigo — o bem e a Doutrina se propagam silenciosamente, por crescimento orgânico, não por imposição. O progresso é a lei divina estruturante (LE, q. 776–800) e as parábolas dão a imagem pedagógica dessa lei.
 
@@ -197,7 +197,7 @@ Palestras de Carlos Mendonça (CEBM-Estácio) sobre parábolas individuais:
 - [[wiki/conceitos/caridade]] · [[wiki/conceitos/bem-aventurancas]] · [[wiki/conceitos/homem-de-bem]] · [[wiki/conceitos/desapego-dos-bens-terrenos]]
 - [[wiki/personalidades/jesus]] · [[wiki/personalidades/vinicius]]
 - [[wiki/sinteses/hierarquia-de-autoridade]] — o porquê de os Evangelhos serem sempre lidos à luz do Pentateuco.
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — síntese moral de todas as parábolas.
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — síntese moral de todas as parábolas.
 - [[wiki/trilhas/palestras]] — trilha de preparação de palestras; usa este índice como ponto de partida.
 
 ## Fontes

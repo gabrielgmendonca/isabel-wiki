@@ -1,8 +1,8 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [pactos, satanas, demonios, superstição, alegoria, gozos-materiais, obra/le, autor/kardec, grau/introdutorio, tema/espiritos]
-atualizado_em: 2026-05-31
+tags: [pactos, satanas, demonios, superstição, alegoria, gozos-materiais, obra/le, autor/kardec, grau/introdutorio, tema/espiritos, tema/mediunidade]
+atualizado_em: 2026-06-01
 status: rascunho
 ---
 
@@ -26,7 +26,7 @@ A questão anterior já havia preparado o terreno:
 
 ### A leitura das "fábulas": chave hermenêutica
 
-A primeira linha da resposta é metodológica e vale para toda a relação da doutrina com o folclore religioso: **"Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra."** É o mesmo princípio que, em *A Gênese* (caps. II–III) e em *O Evangelho Segundo o Espiritismo* (cap. XIV, item 7), distingue o símbolo alegórico (verdade moral em roupagem figurada) da narrativa literal (descrição factual).
+A primeira linha da resposta é metodológica e vale para toda a relação da doutrina com o folclore religioso: **"Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra."** É o mesmo princípio que, em *A Gênese* (cap. XII, "Gênese moisaica"), Kardec aplica à narrativa do Éden, da serpente e do tentador, lendo-as como alegoria — palavras que "podem ser tomadas em sentido material, moral, alegórico, em sentido próprio e figurado" (Gênese, cap. XII, item 16) — e não como descrição factual. O símbolo alegórico veste uma verdade moral em roupagem figurada; o erro está em confundi-lo com narrativa literal.
 
 A lenda do pacto com o diabo é símbolo. O que ela traduz é real, mas não nos termos do folclore.
 

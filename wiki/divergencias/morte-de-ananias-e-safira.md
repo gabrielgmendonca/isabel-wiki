@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
-fontes: [C&I, LE, NT]
-tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/ci, obra/le, autor/kardec, grau/avancado, tema/sofrimento, tema/vida-futura]
-atualizado_em: 2026-05-31
+fontes: [LE, C&I, ESE, Gênese, NT]
+tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/le, obra/ci, obra/ese, obra/genese, autor/kardec, grau/avancado, tema/sofrimento, tema/vida-futura]
+atualizado_em: 2026-06-01
 status: aberta
 ---
 
@@ -26,13 +26,13 @@ Lida à letra, a passagem apresenta:
 
 A justiça divina, na doutrina kardecista, é **progressiva, reparadora e nunca sumária**:
 
-1. **Penas temporárias e educativas.** "A duração da pena está sempre subordinada ao progresso do Espírito culpado [...]. Não há penas eternas" (LE, q. 1009–1016). "As penas não são arbitrárias; consequência lógica da falta, carregam em si mesmas o remédio" (C&I, 1ª parte, cap. VII).
+1. **Penas temporárias e educativas.** As penas futuras são proporcionais e corretivas, jamais eternas: "Estando a duração do castigo subordinada à melhoria, daí resulta que o Espírito culpado que jamais se melhorasse sofreria sempre" (C&I, 1ª parte, cap. VII, item 14.º). Elas "são ao mesmo tempo castigos e remédios que devem ajudar a curar as feridas do mal" (item 30.º), e não condenações arbitrárias: "toda imperfeição, e toda falta que dela decorre, traz consigo seu próprio castigo, por suas consequências naturais e inevitáveis, [...] sem que haja necessidade de uma condenação especial para cada falta e cada indivíduo" (item 33.º). A eternidade das penas, ensina Kardec, "é relativa e não absoluta" (LE, q. 1009).
 
-2. **Oportunidade permanente de reparação.** "Deus, em sua bondade, concede ao Espírito faltoso novas provas [...]. Jamais é fechada a via do arrependimento" (LE, q. 1001–1008). A morte como **ponto final punitivo imediato** pela mentira contraria esse princípio.
+2. **Oportunidade permanente de reparação.** "Deus não repudia nenhum de seus filhos; recebe-os no seu seio à medida que atingem a perfeição" (C&I, 1ª parte, cap. VII, item 4.º); ele "acolhe sempre o [[wiki/conceitos/arrependimento|arrependimento]], e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar" (LE, q. 1008). A morte como **ponto final punitivo imediato** pela mentira contraria esse princípio.
 
-3. **Recusa ao Deus vingativo.** Kardec distingue firmemente o Deus do Pentateuco — "ciumento e vingativo" na leitura literal — do Deus revelado por Jesus, que é **pai e amor** (ESE, caps. I, VI). "Atribuir a Deus a cólera, a vingança [...] é rebaixá-lo ao nível das paixões humanas" (LE, q. 963; ESE, cap. VI, item 6).
+3. **Recusa ao Deus vingativo.** Kardec distingue o Deus que "os antigos" imaginaram — "um Deus terrível, cioso e vingativo", a quem "atribuíam à divindade as paixões dos homens" — do "Deus dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas" (LE, q. 1009). Um Deus que fulminasse por uma mentira seria justamente a projeção das paixões humanas que a doutrina recusa.
 
-4. **Mentira é falta moral grave, mas não capital.** A mentira e a hipocrisia são condenadas (LE, q. 934; ESE, cap. X, item 20: "a caridade está na intenção"), mas punidas por **lei de causa e efeito**: remorso, reencarnações expiatórias, provas morais — nunca por morte instantânea decretada por voz apostólica.
+4. **Mentira é falta moral grave, mas não capital.** O Evangelho reconhece que "desmascarar a hipocrisia e a mentira pode constituir um dever" (ESE, cap. X, item 21) — são faltas reais, mas reparáveis pela **[[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]]**: "toda falta cometida, todo mal realizado, é uma dívida contraída que deve ser paga; se não o for numa existência, sê-lo-á na seguinte" (C&I, 1ª parte, cap. VII, item 9.º). Remorso, reencarnações [[wiki/conceitos/expiacao|expiatórias]] e provas morais — jamais morte instantânea decretada por voz apostólica.
 
 5. **Pedro não é juiz de morte.** Os apóstolos recebem "poder sobre os espíritos imundos" (Mt 10:1) e de cura, nunca poder de **fulminar** encarnados. Admitir tal poder seria aceitar uma magia punitiva incompatível com Gênese, cap. XIV (a ação mediúnica segue lei natural).
 
@@ -67,7 +67,7 @@ A divergência é **real quanto à atribuição causal** (morte como castigo div
 
 - [[wiki/obras/atos-dos-apostolos]] — cap. 5
 - [[wiki/obras/ceu-e-inferno]] — 1ª parte, caps. VI–VII (penas temporárias)
-- [[wiki/obras/livro-dos-espiritos]] — q. 1009–1016 (duração das penas)
+- [[wiki/obras/livro-dos-espiritos]] — q. 1008–1009 (duração das penas, eternidade relativa)
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. I, VI (Deus como Pai, não vingador)
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — divergência análoga sobre penas eternas
@@ -75,7 +75,7 @@ A divergência é **real quanto à atribuição causal** (morte como castigo div
 ## Fontes
 
 - *Bíblia Sagrada* (ACF). Atos dos Apóstolos, 5:1–11.
-- KARDEC, Allan. *O Céu e o Inferno*. 1ª parte, caps. VI–VII. Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *O Livro dos Espíritos*. Q. 963, 1001–1016. Trad. Guillon Ribeiro. FEB.
-- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Caps. I, VI, X. Trad. Guillon Ribeiro. FEB.
+- KARDEC, Allan. *O Céu e o Inferno*. 1ª parte, cap. VII (Código penal da vida futura, itens 4.º, 9.º, 14.º, 30.º, 33.º). Trad. Guillon Ribeiro. FEB.
+- KARDEC, Allan. *O Livro dos Espíritos*. Q. 1008–1009. Trad. Guillon Ribeiro. FEB.
+- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Cap. X, item 21. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *A Gênese*. Cap. XIV. Trad. Guillon Ribeiro. FEB.

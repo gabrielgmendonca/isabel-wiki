@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE]
 tags: [leis-naturais, influencia-dos-espiritos, milagres, providencia, superstição, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos, tema/livre-arbitrio]
-atualizado_em: 2026-05-31
+atualizado_em: 2026-06-01
 status: rascunho
 ---
 
@@ -39,13 +39,13 @@ O ponto-chave é que o "destino" não é executado por intervenção espetacular
 
 A questão 526 fecha três frentes de uma vez:
 
-1. **Contra o milagre-ruptura** — Kardec nega que os Espíritos (ou Deus, por meio deles) violem as leis que Ele mesmo estabeleceu. A *Gênese* retoma o princípio: "Os milagres, no sentido teológico do termo, […] constituiriam uma derrogação das leis da natureza, o que não pode ser" (Gênese, cap. XIII, item 1; cap. XV).
+1. **Contra o milagre-ruptura** — Kardec nega que os Espíritos (ou Deus, por meio deles) violem as leis que Ele mesmo estabeleceu. A *Gênese* registra a definição teológica do milagre — "no sentido teológico, é uma derrogação das leis da natureza, por meio da qual Deus manifesta o seu poder" (Gênese, cap. XIII, item 1) — apenas para recusá-la: as leis divinas são imutáveis, e o que se chama milagre ou é fenômeno natural ainda ignorado, ou é ação fluídica dos Espíritos dentro da própria ordem natural (Gênese, caps. XIII–XV).
 2. **Contra a superstição** — pactos, talismãs, "balas encantadas" (LE, q. 529) e feitiçarias são negados pela mesma razão: nenhum agente oculto torce a natureza (LE, q. 551–556).
 3. **Contra o fatalismo cego** — a morte do homem na escada não é "decretada" em detalhe por Deus: ele subiu por escolha, influenciada por inspiração, mas num mundo onde as escadas podres efetivamente quebram.
 
 ### Como conciliar com o "destino"
 
-O conceito de destino sobrevive à resposta, mas transformado. Na doutrina kardequiana:
+O conceito de destino sobrevive à resposta, mas transformado. Na doutrina de Kardec:
 
 - A morte tem seu momento fixado antes da encarnação (LE, q. 851–854) — não a forma.
 - A forma pode ser qualquer uma coerente com as leis naturais e com o livre-arbítrio do próprio Espírito e dos demais agentes (LE, q. 258–259, q. 528).
@@ -56,7 +56,7 @@ A imagem é de um roteirista que dispõe o cenário e sugere movimentos, mas nã
 ### Aplicação prática
 
 1. **Contra o apelo ao sobrenatural** — quando se busca explicação para um acontecimento, procurar primeiro a causa natural. Os Espíritos operaram *por trás* dela, não *em lugar* dela.
-2. **Prece e providência** — orar não é pedir a Deus que derrogue a física, mas sintonizar-se com a inspiração que orienta nossos passos em meio às leis do mundo (ESE, cap. XXVII, item 10).
+2. **[[wiki/conceitos/prece|Prece]] e providência** — orar não é pedir a Deus que derrogue a física, mas sintonizar-se com a inspiração que orienta nossos passos em meio às leis do mundo (ESE, cap. XXVII, item 10).
 3. **Acidentes e "acaso"** — não existe acaso puro (LE, q. 525, q. 872), mas também não existe intervenção mágica. O que há é a intersecção, num ponto determinado, de leis físicas em curso e de escolhas moralmente significativas.
 4. **Palestra e estudo** — este é um dos textos mais úteis contra a caricatura de Espiritismo como "religião dos milagres". A doutrina é uma física moral, não uma magia consoladora.
 
@@ -79,5 +79,5 @@ A imagem é de um roteirista que dispõe o cenário e sugere movimentos, mas nã
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Livro 2, cap. IX, seção "Influência dos Espíritos nos acontecimentos da vida", q. 525–535 (em especial q. 526 e q. 527). Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *A Gênese*. Caps. XIII ("Os fluidos") e XV ("Os milagres do Evangelho"). FEB.
+- Kardec, Allan. *A Gênese*. Caps. XIII ("Caracteres dos milagres"), XIV ("Os fluidos") e XV ("Os milagres do Evangelho"). FEB.
 - Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].

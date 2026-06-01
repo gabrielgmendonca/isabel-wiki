@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [Gênese, LM, NT]
 tags: [divergencia, mediunidade, fluidos, fenomenos, marcos, obra/genese, obra/lm, autor/kardec, grau/avancado, tema/mediunidade]
-atualizado_em: 2026-04-15
+atualizado_em: 2026-06-01
 status: aberta
 ---
 
@@ -20,9 +20,9 @@ Lida à letra, a passagem prometeria **imunidade sobrenatural** e transferência
 
 Kardec enquadra todos os fenômenos mediúnicos — curas, exorcismos, glossolalia — dentro da **lei natural dos fluidos**, não em suspensão miraculosa das leis divinas:
 
-1. **Não há milagre como quebra de lei.** "Os milagres, no sentido teológico da palavra [...] são impossíveis, porquanto as leis de Deus são eternas e imutáveis. Os fatos a que se dá o nome de milagres assentam em leis naturais ainda não conhecidas da maioria dos homens" (Gênese, cap. XIV, item 1; cap. XV).
+1. **Não há milagre como quebra de lei.** Kardec define o milagre teológico como "uma derrogação das leis da natureza, por meio da qual Deus manifesta o seu poder" (Gênese, cap. XIII, item 1), apenas para recusá-lo: "logo que um fenômeno se reproduz [...] é que está submetido a uma lei e, desde então, seja ou não seja conhecida a lei, já não pode haver milagres" (idem). O que se chama milagre, ou é fenômeno natural ainda ignorado, ou ação fluídica dentro das leis (Gênese, caps. XIII–XV).
 
-2. **Cura por imposição de mãos.** É fenômeno real, regido pela lei dos fluidos (Gênese, cap. XIV): o magnetismo espiritual transmite-se pelo perispírito e depende (i) da sintonia moral do curador, (ii) da receptividade do enfermo, (iii) do concurso dos bons Espíritos. **Não é proteção automática conferida pela fé nominal em Jesus.**
+2. **[[wiki/conceitos/mediunidade-de-cura|Cura por imposição de mãos]].** É fenômeno real, regido pela lei dos fluidos (Gênese, cap. XIV): o magnetismo espiritual transmite-se pelo perispírito e depende (i) da sintonia moral do curador, (ii) da receptividade do enfermo, (iii) do concurso dos bons Espíritos. **Não é proteção automática conferida pela fé nominal em Jesus.**
 
 3. **Expulsão de demônios = desobsessão.** Kardec substitui a demonologia medieval pela doutrina da obsessão: o "demônio" é Espírito inferior sofredor; a libertação depende da elevação moral do obsidiado e da ação fraternal do grupo, não de fórmulas rituais (LM, 2ª parte, cap. XXIII, itens 241–254). Jesus é o modelo porque é o Espírito mais elevado — mas a operação é natural, não mágica.
 
@@ -46,12 +46,12 @@ A divergência é **real quanto ao literalismo** (manipulação de serpentes, in
 
 ## Status
 
-**Aberta.** A divergência persiste enquanto houver grupos que fundamentam práticas literais em Mc 16:17–18. A posição kardequiana é firme: todo fenômeno mediúnico obedece à lei natural; não existe proteção automática nem suspensão milagrosa das leis físicas.
+**Aberta.** A divergência persiste enquanto houver grupos que fundamentam práticas literais em Mc 16:17–18. A posição de Kardec é firme: todo fenômeno mediúnico obedece à lei natural; não existe proteção automática nem suspensão milagrosa das leis físicas.
 
 ## Páginas relacionadas
 
 - [[wiki/obras/evangelho-segundo-marcos]] — cap. 16
-- [[wiki/obras/genese]] — caps. XIV–XV (milagres e fluidos)
+- [[wiki/obras/genese]] — caps. XIII–XV (milagres e fluidos)
 - [[wiki/obras/livro-dos-mediuns]] — cap. XIX (línguas), cap. XXIII (obsessão)
 - [[wiki/conceitos/obsessao]]
 - [[wiki/conceitos/fluidos]]
@@ -60,6 +60,6 @@ A divergência é **real quanto ao literalismo** (manipulação de serpentes, in
 ## Fontes
 
 - *Bíblia Sagrada* (ACF). S. Marcos, 16:17–18.
-- KARDEC, Allan. *A Gênese*, caps. XIV–XV. Trad. Guillon Ribeiro. FEB.
+- KARDEC, Allan. *A Gênese*, caps. XIII–XV. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Livro dos Médiuns*, caps. XIX, XXIII. Trad. Guillon Ribeiro. FEB.
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXIV. Trad. Guillon Ribeiro. FEB.

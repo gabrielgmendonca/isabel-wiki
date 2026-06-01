@@ -1,8 +1,8 @@
 ---
-tipo: questao
+tipo: aprofundamento
 fontes: [ESE, LE]
-tags: [caridade, salvacao, humildade, egoismo, maximas, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/introdutorio, tema/moral, tema/jesus]
-atualizado_em: 2026-05-31
+tags: [caridade, salvacao, humildade, egoismo, maximas, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/avancado, tema/moral, tema/jesus, tema/prece-caridade]
+atualizado_em: 2026-06-01
 status: ativo
 ---
 
@@ -10,11 +10,11 @@ status: ativo
 
 Máxima formulada por Kardec em *O Evangelho Segundo o Espiritismo*, cap. XV, item 5, como síntese absoluta da moral cristã à luz do Espiritismo. É uma das poucas divisas capitalizadas por Kardec no corpo do ESE e reaparece como "senha" universal dos espíritas em *Viagem Espírita em 1862*. Este verbete trata do item pontual onde a máxima é cunhada.
 
-## Pergunta
+## Contexto doutrinário
 
-Como o Espiritismo formula, em uma única máxima, a condição para a salvação segundo o ensino de Jesus?
+O capítulo XV do ESE responde, em uma única divisa, à pergunta central da moral cristã: qual a condição para a salvação segundo o ensino de Jesus? Kardec a cunha no item 5, fechando o raciocínio aberto no item 3 ("toda a moral de Jesus se resume na caridade e na humildade") e fundando-a na resposta de Jesus ao doutor da lei (item 4, Mateus 22:34-40). Este estudo percorre os itens 1–10 do capítulo, a Lei de Justiça, Amor e Caridade no LE (q. 873-919) e a extensão da divisa em *Viagem Espírita em 1862*.
 
-## Citação literal
+## A máxima — citação literal
 
 > "Caridade e humildade, tal a senda única da salvação. Egoísmo e orgulho, tal a da perdição. Este princípio se acha formulado nos seguintes precisos termos: 'Amarás a Deus de toda a tua alma e a teu próximo como a ti mesmo; toda a lei e os profetas se acham contidos nesses dois mandamentos.' E, para que não haja equívoco sobre a interpretação do amor de Deus e do próximo, acrescenta: 'E aqui está o segundo mandamento que é semelhante ao primeiro', isto é, que não se pode verdadeiramente amar a Deus sem amar o próximo, nem amar o próximo sem amar a Deus. Logo, tudo o que se faça contra o próximo o mesmo é que fazê-lo contra Deus. Não podendo amar a Deus sem praticar a caridade para com o próximo, todos os deveres do homem se resumem nesta máxima: FORA DA CARIDADE NÃO HÁ SALVAÇÃO." (ESE, cap. XV, item 5)
 
@@ -37,7 +37,7 @@ A máxima é selada pela comunicação do Espírito Paulo, que Kardec reproduz a
 
 Paulo adverte também que **a virtude negativa não basta**: "uma virtude negativa não basta: é necessária uma virtude ativa; para fazer-se o bem, mister sempre se torna a ação da vontade; para não se praticar o mal, bastam as mais das vezes a inércia e a despreocupação" (item 10). A caridade, portanto, exige ato — não simples abstenção do mal.
 
-## Análise
+## Análise por eixos
 
 ### A arquitetura moral da máxima
 
@@ -63,6 +63,12 @@ O item 1 do capítulo (Mateus 25:31-46, separação de ovelhas e bodes) é propo
 ### Por que não é moralismo vazio
 
 A objeção possível — "então basta fazer boa ação, sem crer em nada?" — é antecipada por Paulo no item 10: a caridade exige **ação da vontade**, e a vontade sustentada supõe um *porquê*. Na Doutrina Espírita, esse porquê é o amor a Deus, raiz do amor ao próximo (item 5: "não se pode verdadeiramente amar a Deus sem amar o próximo, nem amar o próximo sem amar a Deus"). A caridade cristã é *consequência* necessária de uma fé viva — não substituto da fé, mas seu fruto visível.
+
+## Síntese
+
+A divisa "fora da caridade não há salvação" condensa em fórmula a Lei de Justiça, Amor e Caridade (LE, q. 873-919): a caridade **praticada** é o critério único e universal da salvação, porque é o amor a Deus traduzido em ato para com o próximo (ESE, cap. XV, item 5). É superior às fórmulas excludentes — "fora da Igreja", "fora da verdade" — por ser inclusiva e ao alcance de todos (item 8); e exige virtude **ativa**, não a mera abstenção do mal (item 10). No juízo retratado em Mateus 25 (item 1), a sentença recai sobre as obras de caridade, não sobre a fé professada.
+
+## Aprofundamento
 
 ### Extensão em *Viagem Espírita em 1862*
 

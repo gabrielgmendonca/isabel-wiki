@@ -104,7 +104,7 @@ Desdobrado nas questões finais do capítulo como expressão mais primária da c
 ## Páginas relacionadas
 
 - [[wiki/conceitos/lei-natural]] · [[wiki/conceitos/leis-morais/lei-de-igualdade]] · [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/leis-morais/lei-de-adoracao]]
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec como síntese desta lei (ESE, cap. XV, item 5).
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec como síntese desta lei (ESE, cap. XV, item 5).
 
 ## Fontes
 

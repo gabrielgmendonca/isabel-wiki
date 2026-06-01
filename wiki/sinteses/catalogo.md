@@ -594,6 +594,7 @@ Páginas individuais (ordem da tabela do índice temático):
 Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
 
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — "Fora da caridade não há salvação": a divisa de Kardec percorrida pelos itens 1–10 do ESE cap. XV, ancorada na Lei de Justiça, Amor e Caridade (LE, q. 873–919) e prolongada em *Viagem Espírita em 1862*.
 - [[wiki/aprofundamentos/reencarnacao]] — Pluralidade das existências: 7 eixos doutrinários de LE Parte 2, caps. IV–V (q. 166–222).
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — Sexualidade em André Luiz: centro genésico, matrimônio, divórcio, aborto à luz de *Evolução em Dois Mundos* (1958).
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] — Sexualidade em Emmanuel: as quatro normas, energia sexual como circuito magnético, divórcio admissível, homossexualidade tratada com dignidade integral, abstinência como canalização, à luz de *Vida e Sexo* (1970).
@@ -621,9 +622,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/pactos-com-satanas-como-alegoria]] — lendas de pactos como símbolo da sintonia voluntária com Espíritos inferiores; sempre rompíveis pela vontade firme (LE, q. 549–550).
 - [[wiki/questoes/paternidade-como-missao]] — paternidade como missão espiritual e responsabilidade cósmica; janela providencial da infância (LE, q. 582–583).
 - [[wiki/questoes/alma-dos-animais]] — princípio inteligente dos animais: sobrevive ao corpo, conserva individualidade, sem livre-arbítrio nem consciência do eu (LE, q. 597–600).
-- [[wiki/questoes/transicao-do-principio-inteligente]] — onde se opera o salto princípio inteligente → Espírito: agência espiritual afirmada (LE, q. 600), mecânica do salto declarada "insolúvel" por Kardec (RE mar/1864).
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — a máxima cunhada por Kardec no ESE como síntese absoluta da moral cristã (ESE, cap. XV, item 5).
-- [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
+- [[wiki/questoes/transicao-do-principio-inteligente]] — onde se opera o salto princípio inteligente → Espírito: agência espiritual afirmada (LE, q. 600), mecânica do salto declarada "insolúvel" por Kardec (RE mar/1864).- [[wiki/questoes/o-que-devemos-pedir-na-prece]] — pedir paciência, resignação, fé e melhoria moral; não o desfecho material (ESE cap. XXVII, item 22 — instrução de V. Monod, Bordéus, 1862).
 - [[wiki/questoes/esquecimento-do-passado]] — "ele é mais ele mesmo": o véu sobre o passado como condição de autenticidade do livre-arbítrio; substitutos operacionais da memória (intuição, voz da consciência, tendências instintivas) (LE, q. 392).
 - [[wiki/questoes/obediencia-e-resignacao]] — obediência como consentimento da razão e resignação como consentimento do coração; "forças ativas ambas" e não negação da vontade (ESE, cap. IX, item 8 — Lázaro, Paris, 1863).
 - [[wiki/questoes/ensaio-teorico-da-sensacao-dos-espiritos]] — ensaio expositivo de Kardec que define o perispírito como "quintessência da matéria" e agente das sensações; mecânica do sofrimento póstumo (caso do suicida) e conclusão tranquilizadora — o livre-arbítrio permite começar a libertação do jugo da matéria desde a vida atual (LE, q. 257).
@@ -658,8 +657,9 @@ Pontos em que autores complementares divergem do Pentateuco.
 - [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — Léon Denis afirma almas criadas aos pares; Kardec nega "união particular e fatal" (LE, q. 298). Status: aberta.
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — "fogo eterno" (Mt 25:41, 46) lido à letra vs. penas temporárias e medicinais em *O Céu e o Inferno* (1ª parte, caps. IV–VII). Status: aberta.
 - [[wiki/divergencias/condenacao-dos-incredulos-em-marcos-16]] — "quem não crer será condenado" (Mc 16:16) vs. fé raciocinada (ESE, cap. XIX) e penas temporárias (C&I, 1ª parte). Status: aberta.
-- [[wiki/divergencias/sinais-de-marcos-16]] — "sinais" prometidos aos crentes (Mc 16:17–18) vs. lei natural dos fluidos (Gênese, caps. XIV–XV). Status: aberta.
-- [[wiki/divergencias/morte-de-ananias-e-safira]] — morte fulminante por mentira (At 5:1–11) vs. progressividade das penas (C&I, 1ª parte, caps. VI–VII; LE, q. 1009–1016). Status: aberta.
+- [[wiki/divergencias/sinais-de-marcos-16]] — "sinais" prometidos aos crentes (Mc 16:17–18) vs. lei natural dos fluidos (Gênese, caps. XIII–XV). Status: aberta.
+- [[wiki/divergencias/morte-de-ananias-e-safira]] — morte fulminante por mentira (At 5:1–11) vs. progressividade das penas (C&I, 1ª parte, cap. VII; LE, q. 1008–1009). Status: aberta.
+- [[wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem]] — autores nível 3 (Léon Denis, André Luiz) leem a ascensão contínua do princípio inteligente animal até o homem; Kardec deixa a questão em aberto (LE, q. 613). Status: aberta.
 - [[wiki/divergencias/pecado-original-em-romanos-5]] — culpa hereditária desde Adão (Rm 5:12–19) vs. responsabilidade individual e ausência de pecado original (LE, q. 621–625; Gênese, cap. XI). Status: aberta.
 - [[wiki/divergencias/predestinacao-em-romanos-8-9]] — eleição irrevogável antes do nascimento (Rm 8:29–30; 9:11–21) vs. livre-arbítrio como pilar da justiça divina (LE, q. 843–850). Status: aberta.
 - [[wiki/divergencias/celibato-como-ideal-paulino]] — celibato como estado superior (1 Co 7) vs. casamento como lei natural de reprodução (LE, q. 686–701). Status: aberta.

@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE]
 tags: [deus, causa-primaria, inteligencia-suprema, atributos-divinos, panteismo, obra/le, autor/kardec, grau/introdutorio, tema/deus]
-atualizado_em: 2026-05-31
+atualizado_em: 2026-06-01
 status: rascunho
 ---
 
@@ -51,7 +51,7 @@ A escolha do termo é técnica. "Causa primária" é categoria filosófica unive
 
 ### Desdobramento nos atributos da Divindade
 
-A resposta à q. 1 é a raiz da qual brotam os sete atributos clássicos listados na q. 13 — **eterno, imutável, imaterial, único, onipotente, soberanamente justo e bom** — e do atributo complementar da q. 2 (infinito em suas perfeições). Cada um é deduzido por via negativa: se Deus carecesse de qualquer perfeição, "já ele não seria superior a tudo, não seria, por conseguinte, Deus" (LE, q. 13).
+A resposta à q. 1 é a raiz da qual brotam os sete atributos clássicos listados na q. 13 — **eterno, imutável, imaterial, único, onipotente, soberanamente justo e bom** — completados pela nota de Kardec à q. 3, segundo a qual "Deus é infinito em suas perfeições, mas o infinito é uma abstração". Cada um é deduzido por via negativa: se Deus carecesse de qualquer perfeição, "já ele não seria superior a tudo, não seria, por conseguinte, Deus" (LE, q. 13).
 
 ### Valor para o estudo e a palestra
 

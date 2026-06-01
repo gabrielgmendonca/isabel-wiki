@@ -176,7 +176,7 @@ A cura simultânea da filha leprosa Flávia opera não pelo merecimento do pai, 
 - [[wiki/conceitos/kenose-de-cristo]] — esvaziamento voluntário (Fp 2:5–11) como modelo de humildade do Espírito superior em missão.
 - [[wiki/personalidades/emmanuel]] · [[wiki/conceitos/raca-adamica]] · [[wiki/conceitos/transicao-planetaria]]
 - [[wiki/questoes/jesus-tipo-mais-perfeito]] — Q&A direta sobre LE, q. 625.
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec a partir do mandamento maior (ESE, cap. XV, item 5).
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — máxima cunhada por Kardec a partir do mandamento maior (ESE, cap. XV, item 5).
 
 ## Fontes
 

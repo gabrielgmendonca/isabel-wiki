@@ -110,7 +110,7 @@ Três eixos atravessam o Sermão e o conectam aos pilares da codificação:
 
 1. **Continuidade com o Pentateuco.** Jesus não substitui Moisés; **completa** a Lei interiorizando-a (Mt 5:17–18). Esta é a base da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] da wiki: o Pentateuco mosaico é o piso, o Evangelho aprofunda no motivo, o Espiritismo dá a chave racional. Sem essa continuidade, a moral de Jesus vira sentimentalismo ou ruptura — duas leituras igualmente erradas.
 
-2. **Interioridade como critério.** O Sermão desloca, ponto a ponto, o critério moral da **ação** para a **intenção**. Pureza não é ritual; prece não é fórmula; jejum não é demonstração; caridade não é esmola pública; obediência não é discurso. A lei moral espírita ("[[wiki/questoes/fora-da-caridade-nao-ha-salvacao|fora da caridade não há salvação]]") só faz sentido nessa moldura — a caridade que salva é a do coração, não a do gesto.
+2. **Interioridade como critério.** O Sermão desloca, ponto a ponto, o critério moral da **ação** para a **intenção**. Pureza não é ritual; prece não é fórmula; jejum não é demonstração; caridade não é esmola pública; obediência não é discurso. A lei moral espírita ("[[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao|fora da caridade não há salvação]]") só faz sentido nessa moldura — a caridade que salva é a do coração, não a do gesto.
 
 3. **Prática como prova.** O Sermão fecha em duas imagens: a árvore pelos frutos (Mt 7:16–20) e a casa sobre a rocha (Mt 7:24–27). Ambas dizem o mesmo: a fé sem obras é morta (cf. [[wiki/conceitos/parabola-da-figueira-seca]], cap. XIX do ESE). É a leitura espírita da máxima: "Os bons espíritas se reconhecem pela transformação moral e pelos esforços que envidam para domar suas más inclinações" (ESE, cap. XVII, item 4).
 
@@ -141,7 +141,7 @@ Três eixos atravessam o Sermão e o conectam aos pilares da codificação:
 - [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — **leitura emanueliana** do mesmo discurso, recomposta a partir de 52 capítulos das cinco coletâneas evangélicas; complemento pastoral natural deste mapa kardequiano.
 - [[wiki/sinteses/parabolas-de-jesus]] — mapa-irmão: o Sermão é o discurso programático; as parábolas o ilustram em narrativa.
 - [[wiki/sinteses/hierarquia-de-autoridade]] — o Pentateuco como chave de leitura do Sermão.
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]] — síntese moral cuja matriz é o Sermão.
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — síntese moral cuja matriz é o Sermão.
 - [[wiki/trilhas/palestras]] — trilha para preparação de palestras; o Sermão é matéria-prima de primeira linha.
 
 ## Fontes

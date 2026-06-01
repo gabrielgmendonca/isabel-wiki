@@ -30,7 +30,7 @@ Cada capítulo do *Evangelho Segundo o Espiritismo* é uma palestra pronta: tema
 Para palestras curtas e expositivas, partir de uma questão específica funciona bem.
 
 - [[wiki/questoes/jesus-tipo-mais-perfeito]]
-- [[wiki/questoes/fora-da-caridade-nao-ha-salvacao]]
+- [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]]
 - [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]]
 - [[wiki/questoes/paternidade-como-missao]]
 
