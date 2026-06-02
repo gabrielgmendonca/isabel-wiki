@@ -44,15 +44,25 @@ TIPOS = ["conceitos", "obras", "personalidades", "questoes", "aprofundamentos", 
 
 
 def slugs(dirname: str) -> set[str]:
+    """Slugs top-level de um diretório (usado p/ pertinência Pentateuco/Evangelhos em obras/)."""
     d = WIKI / dirname
     if not d.exists():
         return set()
     return {p.stem for p in d.glob("*.md")}
 
 
+def count_md(dirname: str) -> int:
+    """Conta .md recursivamente — inclui subdirs curados (ex.: conceitos/leis-morais/)."""
+    d = WIKI / dirname
+    return sum(1 for _ in d.rglob("*.md")) if d.exists() else 0
+
+
 def main() -> int:
     obras = slugs("obras")
-    counts = {t: len(slugs(t)) for t in TIPOS}
+    # Páginas curadas = recursivo nos TIPOS (exclui por construção wiki/biblia/** — corpus
+    # bíblico — e wiki/index.md — landing page). Definição espelhada no check
+    # `check_status_projeto` de lint_wiki.py; manter as duas em sincronia.
+    counts = {t: count_md(t) for t in TIPOS}
     total = sum(counts.values())
 
     pent_presentes = obras & PENTATEUCO

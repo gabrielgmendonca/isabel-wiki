@@ -825,7 +825,15 @@ def check_status_projeto(pages: list[Path]) -> dict:
         1 for o in obras_pages
         if o.stem not in PENTATEUCO_SLUGS and o.stem not in EVANGELHOS_SLUGS
     )
-    total_paginas = len(pages)
+    # Páginas curadas = tudo sob wiki/ exceto o corpus bíblico (wiki/biblia/**) e a
+    # landing page wiki/index.md. Os index.md de seção (wiki/<dir>/index.md) CONTAM —
+    # só a landing page (parent == WIKI_DIR) sai. Mesma definição do gerador canônico
+    # update_status.py (skill stats) — manter as duas em sincronia.
+    total_paginas = sum(
+        1 for p in pages
+        if "biblia" not in p.parts
+        and not (p.name == "index.md" and p.parent == WIKI_DIR)
+    )
     text = INDEX_PATH.read_text(encoding="utf-8")
     items = []
 

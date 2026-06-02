@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [Manoel Philomeno de Miranda/Divaldo Franco]
-tags: [loucura-e-obsessao, obsessao, desobsessao, romance-doutrinario, manoel-philomeno-de-miranda, divaldo-franco, autor/divaldo-franco]
+tags: [loucura-e-obsessao, obsessao, desobsessao, romance-doutrinario, manoel-philomeno-de-miranda, divaldo-franco, autor/divaldo-franco, tema/mediunidade]
 aliases:
   - "Loucura e Obsessao"
 direitos:

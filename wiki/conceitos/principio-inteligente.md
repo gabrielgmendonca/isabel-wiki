@@ -74,7 +74,7 @@ A origem comum no princípio inteligente **não** consagra a metempsicose (LE, q
 
 ## Divergências
 
-A questão de **se o princípio inteligente ascende pelos reinos inferiores até o estado humano** (sistema 1) ou de **se o Espírito do homem sempre pertenceu à raça humana** (sistema 2) é deixada **em aberto** por Kardec em LE q. 613, que inclina ao segundo como "mais conforme à dignidade do homem". Autores de nível 3 (Léon Denis, André Luiz) desenvolvem o primeiro como leitura assentada — tensão registrada em [[wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem]] (status: aberta).
+A questão de **se o princípio inteligente ascende pelos reinos inferiores até o estado humano** (sistema 1) ou de **se o Espírito do homem sempre pertenceu à raça humana** (sistema 2) é deixada **em aberto** por Kardec em LE q. 613, que inclina ao segundo como "mais conforme à dignidade do homem". Autores de nível 3 (Léon Denis, André Luiz) desenvolvem o primeiro como leitura assentada — tensão registrada em [[wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem]] (status: aberta): Kardec não fixou tese, apenas expôs dois sistemas e reservou a questão.
 
 ## Páginas relacionadas
 
