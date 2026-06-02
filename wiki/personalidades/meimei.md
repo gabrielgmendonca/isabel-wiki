@@ -23,12 +23,13 @@ Espírito comunicante que se tornou símbolo do **amor conjugal que transcende a
 
 Acometida desde a infância por nefrite crônica, Meimei desencarnou aos 24 anos em decorrência de edema pulmonar agudo, deixando Arnaldo viúvo após pouco mais de quatro anos de casamento. Arnaldo, ateu, revoltou-se contra Deus. Algum tempo depois, **Chico Xavier** o abordou na Rua da Bahia em Belo Horizonte, dizendo que Meimei queria falar com ele. Em Pedro Leopoldo, Chico psicografou **30 páginas** de olhos fechados, sem erro de ortografia, com detalhes íntimos e referências a uma existência anterior compartilhada no Império Romano. A carta começava: "Querido Naldinho... eu disse: eu vou, mas eu voltarei. Voltarei porque nosso amor é de ontem, não é de hoje."
 
-A primeira mensagem psicografada por Chico atribuída a Meimei teria ocorrido cerca de 50 dias após a desencarnação, em reunião na casa de amigos espíritas. A partir daí, sob a inspiração dela, Chico recebeu obras como *Pai Nosso*, *Cartilha do Bem*, *Amizade*, *Palavras do Coração*, *Evangelho em Casa*, *Deus Aguarda* e *Mãe* — nenhuma delas ainda catalogada em [[wiki/sinteses/catalogo]].
+A primeira mensagem psicografada por Chico atribuída a Meimei teria ocorrido cerca de 50 dias após a desencarnação, em reunião na casa de amigos espíritas. A partir daí, sob a inspiração dela, Chico recebeu obras como *[[wiki/obras/pai-nosso|Pai Nosso]]*, *Cartilha do Bem*, *Amizade*, *Palavras do Coração*, *Evangelho em Casa*, *Deus Aguarda* e *Mãe* — destas, [[wiki/obras/pai-nosso|*Pai Nosso*]] já catalogada em [[wiki/sinteses/catalogo]]; as demais permanecem em `raw/` aguardando ingestão.
 
 O episódio é relatado por Divaldo Franco como exemplo da realidade da comunicação espírita e da sobrevivência dos laços afetivos após a morte (cf. LE, q. 291–293 — amizade e afeição dos Espíritos; LE, q. 386 — reencontro dos que se amaram). Na palestra, Divaldo afirma que a desencarnação ocorreu "um mês após o casamento"; as fontes biográficas consultadas (Wikipédia, União Espírita Mineira, FEB) registram, contudo, casamento em 10/06/1942 e desencarnação em 1º/10/1946 — pouco mais de quatro anos. A imprecisão é provavelmente liberdade oratória do narrador; a wiki adota a cronologia documentada.
 
 ## Obras associadas (na wiki)
 
+- [[wiki/obras/pai-nosso]] — Meimei / Chico Xavier (FEB, 1952). Livro de evangelização infantil: oito capítulos comentando, um a um, as petições da oração dominical, em estrita consonância com o comentário de Kardec ao Pai-Nosso (ESE, cap. XXVIII). Primeira obra de Meimei catalogada na wiki.
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — relato do episódio por Divaldo Franco
 
 ## Citações relevantes
@@ -48,6 +49,7 @@ A frase consolida o testemunho de que o vínculo afetivo persiste após a desenc
 
 ## Fontes
 
+- XAVIER, Francisco Cândido (Meimei). *Pai Nosso*. Rio de Janeiro: FEB, 1952. Edição: [[raw/mediuns/chico-xavier/meimei/pai-nosso]].
 - Franco, Divaldo Pereira. *Quando o Invisível se Torna Inevitável*. Palestra oral, web TV Mansão do Caminho, ~2023. Disponível em: <https://youtu.be/wD9HRrhGrac?si=u5tCpycblb4bJqSw>.
 - *Meimei*. Wikipédia, a enciclopédia livre. Disponível em: <https://pt.wikipedia.org/wiki/Meimei>. Acesso em: 29 abr. 2026.
 - *Irma de Castro Rocha (Meimei)*. União Espírita Mineira — Biografias. Disponível em: <https://uemmg.org.br/biografias/irma-de-castro-rocha-meimei/>. Acesso em: 29 abr. 2026.

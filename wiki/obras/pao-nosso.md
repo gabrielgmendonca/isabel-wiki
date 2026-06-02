@@ -27,7 +27,7 @@ status: ativo
 
 **180 capítulos curtos** (1–3 parágrafos cada) precedidos de um prólogo "No serviço cristão" (epígrafe de 2 Coríntios 5.10). Cada capítulo segue a forma do Pentateuco kardequiano (versículo + comentário): epígrafe **predominantemente paulina ou evangélica** seguida de meditação aplicada ao cotidiano do discípulo.
 
-O título toma a quarta petição do Pai-Nosso (Mateus 6.11 — *"o pão nosso de cada dia nos dá hoje"*) como organizador semântico: a obra foi composta como **alimento espiritual cotidiano**, leitura devocional de uma página por dia, em paralelo à função catequética que [[wiki/obras/o-consolador]] (1940) cumpria em Q&A e que [[wiki/obras/caminho-verdade-e-vida]] (1948) inaugurara em comentário pastoral.
+O título toma a quarta petição da [[wiki/conceitos/oracao-dominical|oração dominical]] (Mateus 6.11 — *"o pão nosso de cada dia nos dá hoje"*) como organizador semântico: a obra foi composta como **alimento espiritual cotidiano**, leitura devocional de uma página por dia, em paralelo à função catequética que [[wiki/obras/o-consolador]] (1940) cumpria em Q&A e que [[wiki/obras/caminho-verdade-e-vida]] (1948) inaugurara em comentário pastoral. Não confundir com [[wiki/obras/pai-nosso|*Pai Nosso*]] (Meimei/Chico, 1952), obra-irmã de título que comenta a oração dominical **inteira** em chave de evangelização infantil.
 
 É a **segunda de quatro coletâneas evangélicas** psicografadas por Chico nos moldes de comentário ao Evangelho:
 

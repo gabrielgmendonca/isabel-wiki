@@ -79,7 +79,7 @@ Eco direto de ESE cap. XXVII, item 7 ("Deus não pode mudar a ordem da Natureza 
 
 ## Desdobramentos
 
-A coletânea de preces do cap. XXVIII do ESE oferece modelos para diversas circunstâncias: preces gerais, por si mesmo, pelo próximo, pelos desencarnados e pelos enfermos. Kardec não impõe fórmulas, mas sugere orientações que cada um adapta ao coração.
+A coletânea de preces do cap. XXVIII do ESE oferece modelos para diversas circunstâncias: preces gerais, por si mesmo, pelo próximo, pelos desencarnados e pelos enfermos. Kardec não impõe fórmulas, mas sugere orientações que cada um adapta ao coração. Encabeçando a coletânea, em primeiro lugar de todas, está a **[[wiki/conceitos/oracao-dominical|oração dominical]]** (o Pai-Nosso) — que Kardec comenta petição a petição como síntese de todos os deveres do homem (ESE, cap. XXVIII, itens 2–3).
 
 ## Aplicação prática
 
@@ -125,6 +125,7 @@ Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 
 ## Páginas relacionadas
 
+- [[wiki/conceitos/oracao-dominical]] — o Pai-Nosso, modelo de toda prece, encabeça a coletânea do ESE cap. XXVIII
 - [[wiki/conceitos/leis-morais/lei-de-adoracao]] — a prece como forma de adoração
 - [[wiki/conceitos/fe-raciocinada]] — a prece consciente, não supersticiosa
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — caps. XXVII–XXVIII

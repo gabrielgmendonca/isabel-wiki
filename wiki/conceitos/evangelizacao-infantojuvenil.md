@@ -48,6 +48,10 @@ Na instrução X da *Viagem Espírita em 1862*, Kardec defende a admissão de jo
 
 A evangelização infantojuvenil é uma das atividades centrais das casas espíritas. Baseia-se no ensino das leis morais de forma adequada à faixa etária, com ênfase na vivência prática: histórias edificantes, parábolas evangélicas, atividades de solidariedade, diálogo sobre sentimentos e condutas. A presença dos familiares no estudo espírita reforça a coerência entre o que se ensina e o que se vive em casa.
 
+### Obras de apoio
+
+A literatura mediúnica dedicada à criança fornece material clássico para a evangelização. [[wiki/personalidades/meimei|Meimei]], pela psicografia de [[wiki/personalidades/chico-xavier|Chico Xavier]], compôs uma série voltada à formação infantil — *Cartilha do Bem*, *Mãe*, *Amizade* e, sobretudo, *[[wiki/obras/pai-nosso|Pai Nosso]]* (1952), que comenta as petições da [[wiki/conceitos/oracao-dominical|oração dominical]] uma a uma, em linguagem de criança, com contos, máximas e quadras. É modelo do método: doutrina kardequiana fiel (cada capítulo reproduz o comentário de Kardec ao Pai-Nosso, ESE cap. XXVIII), mediada por narrativa simples e memorizável.
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/geracao-nova]] — a nova geração de Espíritos que se educa
@@ -56,6 +60,8 @@ A evangelização infantojuvenil é uma das atividades centrais das casas espír
 - [[wiki/conceitos/verdadeiro-espirita]] — o perfil que a evangelização visa formar
 - [[wiki/conceitos/organizacao-de-grupos-espiritas]] — a inclusão de jovens nos grupos
 - [[wiki/obras/viagem-espirita-em-1862]] — observações de Kardec sobre educação espírita
+- [[wiki/obras/pai-nosso]] — obra-modelo de evangelização infantil (Meimei/Chico Xavier)
+- [[wiki/conceitos/oracao-dominical]] — o Pai-Nosso como texto-base da catequese infantil
 
 ## Fontes
 
