@@ -1,20 +1,20 @@
 ---
 tipo: aprofundamento
-fontes: [André Luiz/Chico Xavier, LM, ESE]
-tags: [mediunidade, fracasso-mediunico, responsabilidade-mediunica, missao, andre-luiz, os-mensageiros, obra/lm, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/reproducao, lei/trabalho, tema/mediunidade]
-atualizado_em: 2026-04-28
-status: rascunho
+fontes: [André Luiz/Chico Xavier, LE, LM, ESE]
+tags: [mediunidade, fracasso-mediunico, responsabilidade-mediunica, missao, andre-luiz, os-mensageiros, obra/le, obra/lm, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/reproducao, lei/trabalho, tema/mediunidade]
+atualizado_em: 2026-06-02
+status: ativo
 ---
 
 # Por que os médiuns falham — análise dos casos paradigmáticos de *Os Mensageiros*
 
 ## Contexto doutrinário
 
-*Os Mensageiros* (André Luiz / Chico Xavier, 1944) abre, nos caps. 5-13, a seção mais densa do livro do ponto de vista doutrinário-operacional: a **preleção de Telésforo** sobre as causas do fracasso massivo dos cooperadores enviados de Nosso Lar para o trabalho mediúnico na Crosta, seguida de quatro casos paradigmáticos detalhados (Otávio, Acelino, Belarmino, Monteiro). O recorte se encaixa na linha kardequiana sobre os **médiuns imperfeitos** (LM, 2ª parte, caps. XX e XXVIII), oferecendo a fenomenologia narrativa que Kardec mantém em prosa doutrinária.
+*Os Mensageiros* (André Luiz / Chico Xavier, 1944) abre, nos caps. 5-13, a seção mais densa do livro do ponto de vista doutrinário-operacional: a **preleção de Telésforo** sobre as causas do fracasso massivo dos cooperadores enviados de Nosso Lar para o trabalho mediúnico na Crosta, seguida de quatro casos paradigmáticos detalhados (Otávio, Acelino, Belarmino, Monteiro). O recorte se encaixa na linha de Kardec sobre os **médiuns imperfeitos** (LM, 2ª parte, cap. XX — *Da influência moral do médium*; cap. XXVIII — *Do charlatanismo e do embuste*, seção "Médiuns interesseiros"), oferecendo a fenomenologia narrativa que Kardec mantém em prosa doutrinária.
 
 A tese articulada nos nove capítulos é uma só: **mediunidade é missão e exige responsabilidade moral; sem isso, a faculdade volta-se contra o portador e os consulentes**. O recorte de Telésforo é dramático: "a maioria dos cooperadores enviados de Nosso Lar fracassa". A narrativa explora os mecanismos pelos quais isso acontece.
 
-A base kardequiana convergente está em (LM, 2ª parte, cap. XX, itens 220-228) sobre influência moral do médium, (LM, 2ª parte, cap. XXII) sobre mediunidade nos animais — argumento sobre a moralidade, (LM, 2ª parte, cap. XXVIII) sobre médiuns interesseiros, leves e mistificadores, e na *Viagem Espírita em 1862* (instruções sobre admissão de médiuns nos grupos). O (ESE, cap. XXIV, item 18) — "Não conhecer pelos efeitos" — fecha o conjunto: julgar pela árvore, não pelas folhas.
+A base de Kardec convergente está em (LM, 2ª parte, cap. XX, itens 226-230) sobre a influência moral do médium e em (LM, 2ª parte, cap. XXVIII, itens 304-315) — seção "Médiuns interesseiros" — sobre médiuns interesseiros e mistificadores, além das instruções aos grupos sobre admissão e dispensa de médiuns na *Viagem Espírita em 1862*. O (ESE, cap. XXI — *Haverá falsos cristos e falsos profetas*, item 2 e comentário XIII) — "É pelos frutos que se conhece a árvore" — fecha o conjunto: julgar pela árvore, não pelas folhas.
 
 ## A preleção de Telésforo (caps. 5-6)
 
@@ -42,7 +42,7 @@ A advertência é frontal:
 
 > "Quem não deseje servir, procure outros gêneros de tarefa. A Comunicação não comporta perda de tempo nem experimentação doentia, sem grave prejuízo dos cooperadores incautos." (cap. 5)
 
-Articula-se com (LM, 2ª parte, cap. XX, item 226): "Aquele Espírito de Verdade, em vão revestido de poderes, ainda em vão se valeria de tal médium" — a falta moral compromete a transmissão, transformando a faculdade em risco para o portador e para terceiros.
+Articula-se com (LM, 2ª parte, cap. XX, item 227): "Se o médium é vicioso, em torno dele se vêm grupar os Espíritos inferiores, sempre prontos a tomar o lugar dos bons Espíritos evocados" — a falta moral compromete a transmissão, transformando a faculdade em risco para o portador e para terceiros.
 
 ## A imagem-síntese: parábola da enxada
 
@@ -70,7 +70,7 @@ A parábola da enxada é citada em [[wiki/conceitos/cartas-vivas-de-jesus]]; aqu
 
 > "Realizei todos os meus condenáveis desejos, menos os desejos de Deus."
 
-**Eixo de fracasso**: descumprimento de um programa específico de disciplina sexual + recusa do encargo de tutela. Otávio não cobrava pela mediunidade; a faculdade simplesmente não pôde se manifestar porque o veículo se desorganizou. Articula-se com [[wiki/conceitos/suicidio]] (suicídio inconsciente por excessos: LE, q. 952 — categoria já tratada na wiki a partir de *Nosso Lar*) e com a Lei de Reprodução (LE, q. 695-697), sobre disciplina dos sentidos quando há programa específico.
+**Eixo de fracasso**: descumprimento de um programa específico de disciplina sexual + recusa do encargo de tutela. Otávio não cobrava pela mediunidade; a faculdade simplesmente não pôde se manifestar porque o veículo se desorganizou. Articula-se com [[wiki/conceitos/suicidio]] (o "suicídio moral" de quem abrevia a vida por excessos conscientes: LE, q. 952 — categoria já tratada na wiki a partir de *Nosso Lar*) e com o celibato exigido pelo seu programa: Kardec só admite o celibato voluntário como meritório quando é "um sacrifício praticado em prol da humanidade", nunca por egoísmo (LE, q. 698-699; cf. [[wiki/obras/vida-e-sexo]], cap. 23, sobre abstinência e celibato).
 
 ### Acelino (cap. 8) — mercantilização
 
@@ -82,7 +82,7 @@ A parábola da enxada é citada em [[wiki/conceitos/cartas-vivas-de-jesus]]; aqu
 
 > "Não fui homicida nem ladrão vulgar, não mantive o propósito íntimo de ferir ninguém, nem desrespeitei alheios lares, mas, indo aos Círculos carnais para servir às criaturas de Deus, nossos irmãos, auxiliando-os no crescimento espiritual com Jesus, **apenas fiz viciados da crença religiosa e delinquentes ocultos, mutilados da fé e aleijados do pensamento**."
 
-**Eixo de fracasso**: simonia + sintonia com consulentes inferiores. Tratado em página própria — ver [[wiki/conceitos/mercantilizacao-da-mediunidade]]. Articula-se diretamente com LM cap. XXVIII, itens 294-297 (proibição taxativa) e com o caso bíblico de Simão, o Mago (At 8:18-24).
+**Eixo de fracasso**: simonia + sintonia com consulentes inferiores. Tratado em página própria — ver [[wiki/conceitos/mercantilizacao-da-mediunidade]]. Articula-se diretamente com a seção "Médiuns interesseiros" do (LM, 2ª parte, cap. XXVIII, itens 304-315) e com o caso bíblico de Simão, o Mago (At 8:18-24).
 
 ### Belarmino e Monteiro (caps. 11-12) — vaidade intelectual e tirania doméstica
 
@@ -109,11 +109,11 @@ A análise narrativa cumpre função pedagógica explícita: Telésforo apresent
 
 ## Articulação com Kardec
 
-**LM, 2ª parte, cap. XX, item 226** — "A faculdade mediúnica não substitui as qualidades morais; basta a má índole para que se afastem os bons Espíritos." Os quatro casos confirmam: a faculdade preservada (Otávio, Acelino, Belarmino, Monteiro) sem moralidade não atrai bons Espíritos; atrai os afins.
+**LM, 2ª parte, cap. XX, itens 226 e 228** — a faculdade "se radica no organismo; independe do moral. O mesmo não se dá, porém, com o seu uso, que pode ser bom, ou mau, conforme as qualidades do médium" (item 226); e "todas as imperfeições morais são outras tantas portas abertas ao acesso dos maus Espíritos" (item 228). Os quatro casos confirmam: a faculdade preservada (Otávio, Acelino, Belarmino, Monteiro) sem moralidade não atrai bons Espíritos; atrai os afins.
 
-**LM, 2ª parte, cap. XXVIII (Médiuns imperfeitos)** — itens 290-300 catalogam tipos: interesseiros (Acelino), levianos, vaidosos (Belarmino), absorventes, tirânicos (Monteiro), fáceis e ilusionistas. André Luiz dá narrativa aos tipos.
+**LM, 2ª parte — médiuns imperfeitos do ponto de vista moral** — o cap. XX (itens 226-229) descreve o médium orgulhoso e o vicioso, cujas imperfeições afastam os bons Espíritos (Belarmino, Monteiro); o cap. XXVIII ("Médiuns interesseiros", itens 304-315) trata do médium que faz da faculdade indústria (Acelino). André Luiz dá narrativa aos tipos.
 
-**ESE, cap. XXIV, item 18 — "Não conhecer pelos efeitos"** — é pelos frutos que se conhece a árvore, não pelo brilho do fenômeno. Os quatro casos eram "brilhantes" enquanto exerciam; a árvore só revelou seus frutos no plano espiritual.
+**ESE, cap. XXI — "Haverá falsos cristos e falsos profetas" (item 2; comentário XIII)** — "É pelos frutos que se conhece a árvore": é pelos frutos, não pelo brilho do fenômeno. Os quatro casos eram "brilhantes" enquanto exerciam; a árvore só revelou seus frutos no plano espiritual.
 
 **Viagem Espírita em 1862** — instruções aos grupos sobre **admissão e dispensa de médiuns**. Kardec orienta: o médium interesseiro não deve ser admitido; o médium em desvio progressivo deve ser afastado. André Luiz mostra a outra face: o que acontece com o médium dispensado quando ninguém o detém.
 
@@ -155,7 +155,8 @@ Acrescente-se uma sexta, transversal: **continuidade de cultivo evangélico**. A
 ## Fontes
 
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 3, 5-13. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
-- Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XX (Influência moral do médium); cap. XXII (Mediunidade nos animais); cap. XXVIII (Médiuns imperfeitos). Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXIV (Não conhecer pelos efeitos). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Médiuns*, 2ª parte, cap. XX (Da influência moral do médium); cap. XXVIII (Do charlatanismo e do embuste — seção "Médiuns interesseiros"). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*, cap. XXI (Haverá falsos cristos e falsos profetas). Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *Viagem Espírita em 1862* — instruções aos grupos. Trad. Wallace Leal V. Rodrigues. FEB.
-- Kardec, Allan. *O Livro dos Espíritos*, q. 952 (suicídio moral). Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Espíritos*, q. 698-699 (o celibato como sacrifício em prol da humanidade); q. 952 (suicídio moral). Trad. Guillon Ribeiro. FEB.
+- *Vida e Sexo* (Emmanuel / Chico Xavier), cap. 23 (Abstinência e celibato). Ver [[wiki/obras/vida-e-sexo]].
