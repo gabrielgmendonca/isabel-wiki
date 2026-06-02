@@ -139,6 +139,12 @@ Kardec aprofunda a teoria do perispírito como princípio das manifestações (O
 
 Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que cada indivíduo possui um **fluido próprio** que o envolve como atmosfera. Essas atmosferas fluídicas "se entrecruzam e misturam, sem jamais se confundirem" — base das simpatias e antipatias. O pensamento "cria **imagens fluídicas**" no perispírito, como fotografias, permitindo que videntes e Espíritos leiam pensamentos alheios (OPE, "Fotografia e telegrafia do pensamento").
 
+## Arquivo da alma e "operação perispiritual" — Yvonne Pereira (*[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]*)
+
+O cap. 4 de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* ("Os arquivos da alma") fundamenta a memória reencarnatória no perispírito, que "arquiva em seus refolhos [...] todos os acontecimentos, todos os fatos, atos, sensações" — testemunho que [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] alinha a Kardec ("mesmo encarnado, adormecido o corpo, [...] o Espírito tem consciência de seus atos anteriores", ESE, cap. V, item 11) e a [[wiki/personalidades/leon-denis|Léon Denis]] (*Depois da Morte*, cap. 23: o perispírito "conserva, sob suas aparências presentes, os vestígios das vidas anteriores"). Daí as [[wiki/questoes/esquecimento-do-passado|reminiscências]] que afloram em transe ou choque.
+
+A obra acrescenta uma ilustração marcante da **correlação perispírito–corpo**: num transe de dois meses (1942), Yvonne relata ter sido submetida por médicos espirituais a uma "operação" no perispírito — a religadura de "fibras luminosas" rompidas à altura do coração, cujo dano se refletia como dor cardíaca sem causa orgânica detectável. O episódio dramatiza o princípio kardequiano de que o perispírito é o transmissor entre alma e corpo (LE, q. 135): a lesão no envoltório fluídico repercute no físico, e a restauração daquele alivia este. (Testemunho mediúnico nível 3, ilustrativo — não substitui a fundamentação em Gênese, cap. XIV.)
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o perispírito é condensação

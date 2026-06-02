@@ -24,7 +24,7 @@ url: https://www.febeditora.com.br/listaprodutos.asp?order=0&fil=293892&avancada
 - **Nível na hierarquia da wiki:** 3 — Complementar aprovado
 
 > [!note] Divergência de data de nascimento
-> A autobiografia que a própria médium redigiu para a FEB (1973, revista 1981; reproduzida em *À Luz do Consolador*) afirma nascimento em **24/12/1906**, em Valença/RJ. Registros secundários divergem (alguns indicam 1900, Vassouras). A wiki adota a fonte primária — o relato autobiográfico — registrando a divergência.
+> A autobiografia que a própria médium redigiu para a FEB (1973, revista 1981; reproduzida em *À Luz do Consolador*) afirma nascimento em **24/12/1906**, em Valença/RJ. Registros secundários divergem (alguns indicam 1900, Vassouras). O apêndice biográfico da edição FEB de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* (1968) também adota a data secundária (24/12/1900; desencarnação em 09/03/1984). A wiki adota a fonte primária — o relato autobiográfico (1906; desencarnação 19/03/1984) — registrando a divergência.
 
 ## Papel
 
@@ -46,7 +46,7 @@ Autoria espiritual conforme a autobiografia da médium (em *[[wiki/obras/a-luz-d
 - *Devassando o Invisível* — assistência de Charles, supervisão de Bezerra de Menezes
 - *A Tragédia de Santa Maria* — Bezerra de Menezes
 - *Dramas da Obsessão* — Bezerra de Menezes
-- *Recordações da Mediunidade* — supervisão de Bezerra de Menezes (autobiografia mediúnica)
+- [[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]] — supervisão de [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]]; autobiografia mediúnica (FEB, 1968)
 - *Ressurreição e Vida* — Léon Tolstoi
 - *A Família Espírita*, [[wiki/obras/evangelho-aos-simples|Evangelho aos Simples]], *A Lei de Deus*, [[wiki/obras/contos-amigos|Contos Amigos]], *O Livro de Eneida* — supervisão de Bezerra de Menezes, assistência de Charles e Léon Tolstoi
 - *O Drama da Bretanha*, *O Cavaleiro de Numiers* — Charles
@@ -63,6 +63,10 @@ Sobre o critério inegociável da Codificação (autobiografia, em *[[wiki/obras
 Sobre a mediunidade como resgate, não privilégio (*O grande compromisso*, em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*):
 
 > "Não se é médium escritor por se desejar ser, mas sim por precisar ser. O compromisso será antes um resgate, uma reparação de displicências pretéritas [...] do que mesmo missão."
+
+Sobre a própria vida como testemunho (Introdução de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]*):
+
+> "Consideramo-nos testemunho vivo do valor do Espiritismo na recuperação de uma alma para si mesma e para Deus."
 
 ## Páginas relacionadas
 

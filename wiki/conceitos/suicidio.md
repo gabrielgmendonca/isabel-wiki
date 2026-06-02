@@ -128,6 +128,12 @@ Em *O estranho mundo dos suicidas* ([[wiki/obras/a-luz-do-consolador|*À Luz do 
 2. **Consequência é efeito natural, não castigo** — os males "não decorrerão como castigo enviado por Deus ao infrator, mas como *efeito natural de uma causa desarmonizada com as leis da vida e da morte*". Articula-se com LE q. 957 (penas sempre proporcionais às causas) e com a fenomenologia perispiritual (traumatismo da morte violenta).
 3. **Misericórdia não é "especial"** — estende-se sobre todos os suicidas sem predileção, no concurso dos bons Espíritos e na possibilidade de reabilitação por reencarnações futuras. O conselho dos próprios suicidas que se comunicam: suportar todos os males terrenos, porque "ainda será preferível ao que de melhor se possa atingir pelos desvios do suicídio".
 
+### *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* — o trauma perispiritual carregado à reencarnação (Yvonne Pereira)
+
+A autobiografia de [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] oferece um testemunho de primeira pessoa do que Kardec descreve em terceira: a própria médium relata ter sido, em existência anterior, **suicida no rio Tejo** (Lisboa), e atribui a essa causa o trauma que a acompanhou desde o berço — a "morte aparente" aos 29 dias de nascida e as crises ao longo da vida. Reforça-se, com isso, a tese da **persistência do laço Espírito-corpo** (LE, q. 957) levada de uma existência à outra: "a primeira manifestação ostensiva certamente que se verificou no primeiro mês de minha presente existência". A obra evoca ainda o "vale dos suicidas" de *Memórias de um Suicida* como estado alucinatório obsessivo comum aos que carregam esse agravo.
+
+A obra acrescenta o **princípio da reciprocidade no socorro**: tendo sido socorrida como suicida no passado, a médium é chamada pela lei a socorrer outros suicidas (caso do suicida Guilherme, em Petrópolis) — "uma face de tais imperativos é a necessidade do socorro aos companheiros de infortúnio, até que a consciência se liberte do opróbrio que a macula". Coerente com o socorro como caridade-resgate, não anistia. Ver [[wiki/personalidades/yvonne-pereira]] e [[wiki/conceitos/perispirito]].
+
 ## Aplicação prática
 
 O tema é central em palestras espíritas sobre prevenção e acolhimento. A abordagem doutrinária combina firmeza (é uma falta) com compaixão (as consequências variam, Deus considera as circunstâncias). A certeza da vida futura e a possibilidade de comunicação com os desencarnados são apresentadas como consolação àqueles que sofrem perdas, desestimulando a ideia de "encurtar o caminho."
@@ -146,6 +152,7 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - [[wiki/conceitos/camaras-de-retificacao]] — instituição que trata suicidas conscientes e inconscientes nos volumes da série
 - [[wiki/personalidades/henrique-de-luna]] — médico que formula o diagnóstico no cap. 4
 - [[wiki/obras/no-mundo-maior]] — alienação mental como suicídio dissimulado (cap. 16)
+- [[wiki/obras/recordacoes-da-mediunidade]] — trauma perispiritual do suicídio carregado à reencarnação; socorro como resgate (Yvonne Pereira)
 - [[wiki/conceitos/casa-mental]] — modelo anatômico da descida moral
 - [[wiki/conceitos/morte-espiritual]] — paralelo doutrinário
 

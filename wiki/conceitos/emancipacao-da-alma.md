@@ -59,6 +59,10 @@ Na crônica *Sonhos...* de [[wiki/obras/a-luz-do-consolador|*À Luz do Consolado
 
 Yvonne acrescenta a contrapartida moral: durante a mesma emancipação pode-se "resvalar para ambientes sórdidos", da Terra ou do Invisível, conforme o estado mental e vibratório — daí o convite a "orar e vigiar" antes do repouso, leitura prática de LE, q. 402 ("o sono é o recreio depois do trabalho").
 
+## Catalepsia, letargia e morte aparente — testemunho de Yvonne Pereira (*[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]*)
+
+Os primeiros capítulos de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* desenvolvem a catalepsia e a letargia como **faculdades gêmeas** — não enfermidades —, ancorando-se em (LE, q. 423–424) e na lição que a médium atribui ao Espírito [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]]: bem orientadas, transformam-se em faculdades anímicas úteis; descuradas, podem degenerar em estado mórbido. A "morte aparente" é o grau agudo desse desprendimento, com risco real de sepultamento prematuro — Yvonne relata ter permanecido seis horas em rigidez cadavérica aos 29 dias de nascida, episódio que liga ao trauma perispiritual de um [[wiki/conceitos/suicidio|suicídio]] de existência anterior. Bezerra lê os casos evangélicos de Lázaro, da filha de Jairo e do filho da viúva de Naim como fenômenos dessa ordem (letargia/catalepsia agravada), em que o concurso dos liames magnéticos ainda aproveitáveis tornou possível o reanimamento.
+
 ## Aplicação prática
 
 A compreensão da emancipação da alma fundamenta a atitude espírita diante do sono (preparar-se moralmente para o repouso), da mediunidade sonambúlica e dos fenômenos de pressentimento e intuição. Explica também por que o sono restaura não apenas o corpo, mas o Espírito — que vai "retemperar-se na fonte do bem" (LE, q. 402).

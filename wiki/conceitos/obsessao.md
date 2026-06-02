@@ -263,6 +263,17 @@ Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-
 2. **O obsessor é irmão sofredor, não perverso.** "É erro supor que os obsessores sejam literalmente perversos; ao contrário, são, como nós, filhos de Deus" — grandes sofredores conquistáveis pelo amor e pela **prece** (inclusive a prece pelo próprio obsessor), na linha de ESE cap. XXVIII. Cita [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] em *Dramas da Obsessão*: "a obsessão nada mais é do que uma troca de vibrações afins".
 3. **O obsessor não "entra" no corpo.** Reafirma LE q. 473 (e LM, cap. XXIII): salvo o raro médium sonambúlico que empresta o aparelho, "o obsessor não entra no corpo do obsidiado" — envolve-o em vibrações nocivas, dominando-lhe a mente; e "quem se deixa assim obsidiar é cúmplice do próprio obsessor", por invigilância e baixa sintonia moral.
 
+### Yvonne Pereira: casuística de Lavras e dez condições para a cura (*[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]*)
+
+O cap. 10 de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* ("O complexo obsessão") é um pequeno tratado prático, ancorado em LE q. 473–474 e em LM, cap. XXIII. Aportes distintivos da casuística vivida no antigo Centro Espírita de Lavras (MG):
+
+1. **Tipologia por contraste.** Yvonne relata obsessões "violentas facilmente curáveis" e outras "aparentemente pacíficas, absolutamente incuráveis" — invertendo a intuição de que a agitação mede a gravidade. Casos: a obsessão de vingança de um ex-escravo sobre o reencarnante de seu antigo senhor (paralisia infantil, mutismo); "Marta", subjugada por sugestão hipnótica de antigo cônjuge ciumento; o Padre J., a quem o obsessor faz crer-se possuidor de "cavernas de ouro".
+2. **O obsessor silencioso é o mais intransigente.** "Aqueles que falam muito, ameaçam e insultam, ou choram e se lamentam, não são os piores […]. Mas não assim os que silenciam. Estes estão seguros do que fazem" — observação fina que complementa a fascinação de LM, cap. XXIII, item 239.
+3. **Há obsessores conquistáveis pela fraternidade.** Nem todos são maus: muitos, bem tratados, tornam-se amigos espirituais — coerente com a leitura de [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] ("troca de vibrações afins").
+4. **Dez condições para a cura de obsessões**, que a autora sintetiza ao fim do capítulo: ascendência e superioridade moral de médiuns e dirigentes; conhecimento sólido da causa e assistência espiritual segura; coragem da fé; humildade (a vitória é de Jesus); ambiente resguardado de tumulto; não doutrinar o obsessor pelo próprio obsidiado em crise (usar outro médium); vigilância moral diária dos trabalhadores; renovação moral do obsidiado como terapêutica principal; suspensão do labor mediúnico do médium dominado; afastamento dos mistificados/animistas. Tudo subordinado à recusa kardequiana de fórmulas e exorcismos.
+
+A obra traz ainda, ditada por Bezerra de Menezes, a distinção entre doenças mentais de substrato orgânico e as de fundo espiritual (remorso e trauma carregados de uma existência a outra; mediunidade em elaboração) — ver [[wiki/personalidades/bezerra-de-menezes]] e [[wiki/conceitos/emancipacao-da-alma]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/mediunidade]] — a obsessão é o principal perigo da prática mediúnica
@@ -285,6 +296,7 @@ Nas crônicas *Obsessão* e *Um estranho caso de obsessão* ([[wiki/obras/a-luz-
 - [[wiki/obras/plenitude]] — Joanna de Ângelis sobre terapia desobsessiva (cap. X), ancorada em LM cap. XXIII it. 249/252/254 com citação textual
 - [[wiki/obras/conflitos-existenciais]] — Joanna de Ângelis (LEAL, 2005) opera a obsessão como vetor transversal: vampirização energética por Espíritos ociosos no quadro da preguiça (cap. 2), drogadição/tabagismo/alcoolismo como **dependências químicas em chave obsessivo-velada** (caps. 12-14), e fobias com **etiologia obsessiva** quando antigas vítimas se aproveitam de gravames pretéritos (cap. 17)
 - [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]] — caso da prima Baby (obsessão por vingança afetiva)
+- [[wiki/obras/recordacoes-da-mediunidade]] — casuística de Lavras e dez condições para a cura (cap. 10)
 - [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]] — desobsessão na sinagoga de Cafarnaum (Marcos 1:21–28)
 - [[wiki/obras/evangelho-segundo-marcos]] — quatro casos canônicos de obsessão (Mc 1, 5, 7, 9)
 - [[wiki/obras/atos-dos-apostolos]] — pitonisa de Filipos (At 16), filhos de Ceva (At 19)
