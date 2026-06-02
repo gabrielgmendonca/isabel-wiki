@@ -95,7 +95,7 @@ Atribuição manual (não automatizada): o significado é semântico e errar em 
 
 ## `autor/` — linhagem autoral
 
-Conjunto fechado dos autores nível 2/3 mais citados. Para psicografias, marcar **ambos** espírito + médium (ex.: livro do Emmanuel/Chico Xavier → `autor/emmanuel, autor/chico-xavier`).
+Conjunto fechado dos autores mais citados — níveis 2/3, mais o caso editorial Waldo Vieira e a categoria **pesquisa psíquica** (Flammarion). Para psicografias, marcar **ambos** espírito + médium (ex.: livro do Emmanuel/Chico Xavier → `autor/emmanuel, autor/chico-xavier`).
 
 | Tag | Quando aplicar |
 |-----|---------------|
@@ -114,6 +114,8 @@ Conjunto fechado dos autores nível 2/3 mais citados. Para psicografias, marcar 
 | `autor/joao` | apóstolo (Evangelho de João, 1-3 João, Apocalipse) |
 | `autor/pedro` | apóstolo (1-2 Pedro) |
 | `autor/tiago` | apóstolo (Epístola de Tiago) |
+| `autor/waldo-vieira` | autor encarnado (obras curadas com Chico Xavier; ver CLAUDE.md §2) |
+| `autor/flammarion` | Camille Flammarion — categoria pesquisa psíquica (espiritismo científico) |
 
 O conjunto é extensível: novos autores nível 3/4 podem ser adicionados quando houver páginas que os exijam — atualizar esta tabela e o conjunto canônico no lint na mesma PR.
 

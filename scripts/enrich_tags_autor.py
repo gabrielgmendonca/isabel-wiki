@@ -61,6 +61,7 @@ FREE_TAG_TO_AUTOR: dict[str, str] = {
     "joao": "autor/joao",
     "pedro": "autor/pedro",
     "tiago": "autor/tiago",
+    "flammarion": "autor/flammarion",
 }
 
 TAGS_RE = re.compile(r"^(tags:\s*\[)(.*?)(\]\s*)$")
@@ -112,15 +113,32 @@ def extract_tags(lines: list[str]) -> list[str]:
 
 
 def derive_autor_tags(fontes: list[str], tags: list[str]) -> list[str]:
-    """Retorna a lista ordenada de tags autor/* derivadas, sem duplicar com as existentes."""
-    derived: set[str] = set()
+    """Retorna a lista ordenada de tags autor/* derivadas, sem duplicar com as existentes.
+
+    `fontes:` numa página de autor não-Kardec (obra de Flammarion, Léon Denis,
+    psicografia…) lista as obras de Kardec *citadas* como cross-reference, não a
+    autoria. Por isso, quando há autor próprio diferente de Kardec — via tag livre
+    canônica (ex.: `flammarion`), tag `autor/*` existente, ou fonte autoral
+    não-Kardec —, a derivação de `autor/kardec` a partir de `fontes:` é suprimida
+    (senão uma obra de Flammarion que cita LE/ESE reganharia `autor/kardec`).
+    """
+    fonte_derived: set[str] = set()
     for f in fontes:
         for autor in FONTE_TO_AUTORES.get(f, ()):
-            derived.add(autor)
+            fonte_derived.add(autor)
+    tag_derived: set[str] = set()
     for t in tags:
         if t in FREE_TAG_TO_AUTOR:
-            derived.add(FREE_TAG_TO_AUTOR[t])
+            tag_derived.add(FREE_TAG_TO_AUTOR[t])
     existing = {t for t in tags if t.startswith("autor/")}
+
+    own_non_kardec = {
+        a for a in (fonte_derived | tag_derived | existing) if a != "autor/kardec"
+    }
+    if own_non_kardec:
+        fonte_derived.discard("autor/kardec")
+
+    derived = fonte_derived | tag_derived
     return sorted(derived - existing)
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, LM, ESE, Gênese]
-tags: [flammarion, a-morte-e-o-seu-misterio, metapsiquica, sobrevivencia-da-alma, prova-experimental, metodo-experimental, controle-universal, telepatia, aparicoes, moribundos, escada-de-hipoteses, obra/le, obra/lm, obra/ese, obra/genese, autor/kardec, tema/vida-futura, tema/mediunidade, lei/liberdade]
+tags: [flammarion, a-morte-e-o-seu-misterio, metapsiquica, sobrevivencia-da-alma, prova-experimental, metodo-experimental, controle-universal, telepatia, aparicoes, moribundos, escada-de-hipoteses, obra/le, obra/lm, obra/ese, obra/genese, autor/flammarion, tema/vida-futura, tema/mediunidade, lei/liberdade]
 aliases:
   - "La Mort et son mystère"
   - "A Morte e o seu Mistério"
@@ -13,6 +13,9 @@ status: ativo
 ---
 
 # A Morte e o Seu Mistério
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 

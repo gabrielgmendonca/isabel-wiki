@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, Gênese]
-tags: [flammarion, o-fim-do-mundo, pluralidade-dos-mundos, marte, jupiter, reencarnacao, astronomia, telepatia, romance-espirita, oitavo-sentido-psiquico, cataclismo-cometario, progresso-eterno, kheops, obra/le, obra/ese, obra/genese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina, lei/destruicao, lei/progresso]
+tags: [flammarion, o-fim-do-mundo, pluralidade-dos-mundos, marte, jupiter, reencarnacao, astronomia, telepatia, romance-espirita, oitavo-sentido-psiquico, cataclismo-cometario, progresso-eterno, kheops, obra/le, obra/ese, obra/genese, autor/flammarion, tema/vida-futura, tema/espiritos, tema/historia-doutrina, lei/destruicao, lei/progresso]
 aliases:
   - "La Fin du Monde"
 direitos:
@@ -12,6 +12,9 @@ status: ativo
 ---
 
 # O Fim do Mundo
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 

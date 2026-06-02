@@ -15,8 +15,9 @@ Base de conhecimento pessoal sobre a Doutrina Espírita codificada por Allan Kar
 | **Primordial** | Ensinamentos morais de Jesus (Evangelhos canônicos), lidos à luz do Pentateuco |
 | **1 — Pentateuco** | LE, LM, ESE, C&I, Gênese |
 | **2 — Kardec complementar** | OPE, OQE, Revista Espírita, Viagem Espírita em 1862 |
-| **3 — Consagrados** | Chico Xavier, Divaldo, Léon Denis, Cairbar, Peralva, Eurípedes, Emmanuel, André Luiz, Joanna de Ângelis, Bezerra; apóstolos seletivamente citados por Kardec |
-| **4 — Secundários** | Hammed/Espírito Santo Neto, palestras isoladas — citar com consciência do tier |
+| **3 — Consagrados** | Chico Xavier, Divaldo, Léon Denis, Gabriel Delanne, Yvonne Pereira, Cairbar, Peralva, Eurípedes, Emmanuel, André Luiz, Joanna de Ângelis, Bezerra; apóstolos seletivamente citados por Kardec |
+| **4 — Secundários** | Hammed/Espírito Santo Neto, palestras isoladas — citar com consciência do nível |
+| **Pesquisa psíquica** | Camille Flammarion, Ernesto Bozzano e demais pesquisadores da fenomenologia — corroboração experimental dos fatos, **sem** autoridade doutrinária sobre o Pentateuco; ingerir com essa ressalva explícita |
 | **Fora de escopo** | Umbanda, Candomblé, Ramatís, teosofia, antroposofia, ocultismo, neoespiritismo que relativiza o Pentateuco — **não ingerir sem confirmação explícita** |
 
 Regra de ouro: quando nível 2/3/4 contradiz o nível 1, Kardec prevalece. A divergência é registrada, nunca apagada. Análise completa e tratamento de divergências evangélicas em [[wiki/sinteses/hierarquia-de-autoridade]] (e em `regra-divergencia.md` quando for editar `wiki/**`).

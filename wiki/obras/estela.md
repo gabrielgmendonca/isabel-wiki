@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [flammarion, estela, pluralidade-dos-mundos, marte, reencarnacao, almas-gemeas, perispirito, astronomia, religiao-do-futuro, lourdes, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/encarnacao, tema/jesus, lei/progresso]
+tags: [flammarion, estela, pluralidade-dos-mundos, marte, reencarnacao, almas-gemeas, perispirito, astronomia, religiao-do-futuro, lourdes, romance-espirita, obra/le, obra/ese, autor/flammarion, tema/vida-futura, tema/encarnacao, tema/jesus, lei/progresso]
 aliases:
   - "Stella"
 direitos:
@@ -13,6 +13,9 @@ status: ativo
 ---
 
 # Estela
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 

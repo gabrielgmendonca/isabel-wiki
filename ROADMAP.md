@@ -20,16 +20,25 @@ Completar a base doutrinária. Três frentes: **obras a ingerir** (gargalo princ
 **Nível 1 — Pentateuco**
 - [x] Pentateuco 5/5 (fechado com *O Livro dos Médiuns*).
 
-**Nível 2 — Kardec complementar** (3 de 6 pendentes)
-- [ ] **Ingerir 3 fontes restantes** em `raw/kardec/complementares/`: Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão. Já ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862.
+> **Reconciliação 2026-06-02**: `raw/` cresceu além do que esta seção rastreava. Estado real abaixo. Não é exaustiva quanto a `raw/mediuns/chico-xavier/**` (Emmanuel, Humberto de Campos, Irmão X, Neio Lúcio…) nem a `raw/mediuns/divaldo-franco/**` — uma auditoria completa raw×wiki segue como tarefa à parte.
+
+**Nível 2 — Kardec complementar**
+- [x] 6/6 completo (verificado 2026-06-02). Ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862, Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão.
 
 **Novo Testamento canônico**
 - [x] 27/27 completo (fechado 2026-05-18 com 2-João, 3-João, Judas). Tratamento inline de divergências culturais; cross-link a páginas estruturais já existentes.
 
 **Nível 3 — Consagrados** (cobertura parcial)
-- [ ] **Léon Denis** — 4 obras ingeridas. Levantar restante prioritário.
-- [x] **Chico Xavier** — *A Caminho da Luz*, *O Consolador* e âncora André Luiz *Nosso Lar* (1944, abre a série) ingeridas. Auditoria 2026-05-26 promoveu 3 conceitos (`ministerios-de-nosso-lar`, `camaras-de-retificacao`, `volitacao`) + 3 personalidades-âncora (Henrique de Luna, Tobias, Veneranda) que atravessam a série inteira. Resta levantar prioridades de continuação na série André Luiz (~10 títulos pendentes em raw).
-- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora. Definition of done exige ≥1 por autor. **Gargalo**: coletar raw para esses autores (não há fonte em `raw/` no momento; ingest depende de aquisição da fonte primeiro).
+- [x] **Léon Denis** — raw atual 4/4 ingerido (Depois da Morte, O Problema do Ser/Destino/Dor, Cristianismo e Espiritismo, O Grande Enigma). Ampliar exige adquirir fonte nova (ex.: *Joana d'Arc Médium*, *No Invisível*) — sem raw pendente.
+- [x] **Chico Xavier / série André Luiz** — *A Caminho da Luz*, *O Consolador* e a série André Luiz parcialmente ingeridas (**13/19** títulos de `raw/mediuns/chico-xavier/andre-luiz/`). Auditoria 2026-05-26 promoveu 3 conceitos (`ministerios-de-nosso-lar`, `camaras-de-retificacao`, `volitacao`) + 3 personalidades-âncora (Henrique de Luna, Tobias, Veneranda) que atravessam a série inteira.
+- [ ] **6 títulos André Luiz pendentes**: `agenda-crista`, `apostilas-da-vida`, `desobsessao`, `enderecos-da-paz`, `respostas-da-vida`, `sinal-verde`.
+- [ ] **Yvonne Pereira** (classificada nível 3 em 2026-06-02) — 2/14 ingeridas (*A Luz do Consolador*, *Recordações da Mediunidade*). **12 pendentes** em `raw/autores/yvonne-pereira/`: `a-familia-espirita`, `a-tragedia-de-santa-maria`, `amor-e-odio`, `as-tres-revelacoes`, `devassando-o-invisivel`, `dramas-da-obsessao`, `memorias-de-um-suicida`, `nas-voragens-do-pecado`, `o-cavaleiro-de-numiers`, `o-drama-da-bretanha`, `ressurreicao-e-vida`, `sublimacao`.
+- [ ] **Gabriel Delanne** (classificado nível 3 em 2026-06-02 — discípulo direto de Kardec) — 0 ingeridas; **7 títulos** em `raw/autores/gabriel-delanne/` (A Alma é Imortal, A Reencarnação, A Evolução Anímica, O Espiritismo perante a Ciência, O Fenômeno Espírita, A Mediunidade Mecânica, Automatismo da Escrita Psicográfica). Vários em `.doc` — converter antes do ingest.
+- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora. Definition of done exige ≥1 por autor. **Gargalo persiste**: pastas `raw/autores/{cairbar-schutel,euripedes-barsanulfo,martins-peralva}/` existem mas **vazias** — ingest depende de aquisição da fonte primeiro.
+
+**Pesquisa psíquica / espiritismo científico** (categoria criada no CLAUDE.md §2 em 2026-06-02 — corroboração experimental dos fatos, **sem** autoridade doutrinária sobre o Pentateuco; ingerir com a ressalva explícita)
+- [~] **Camille Flammarion** — 8/9 já ingeridas (Urânia, Estela, A Morte e o Seu Mistério, O Fim do Mundo, Narrações do Infinito, Deus na Natureza, As Casas Mal-Assombradas, Como Acabará o Mundo); falta `o-desconhecido-e-os-problemas-psiquicos`. ⚠️ As 8 páginas **precedem** a classificação — revisar para inserir a ressalva de "pesquisa psíquica" (sem autoridade doutrinária) onde couber.
+- [ ] **Ernesto Bozzano** — 0 ingeridas; ~22 títulos em `raw/autores/ernesto-bozzano/` (vários `.doc`/`.pdf`). Definir prioridade antes de qualquer ingest — fenomenologia metapsíquica, frequentemente neutra quanto à reencarnação.
 
 ### 1.2 Curadoria de páginas existentes
 

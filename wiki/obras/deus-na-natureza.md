@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, Gênese]
-tags: [flammarion, deus, materialismo, alma, forca-e-materia, plano-da-natureza, ciencia, pluralidade-dos-mundos, panteismo, ateismo, obra/le, obra/genese, autor/kardec, tema/deus, tema/historia-doutrina]
+tags: [flammarion, deus, materialismo, alma, forca-e-materia, plano-da-natureza, ciencia, pluralidade-dos-mundos, panteismo, ateismo, obra/le, obra/genese, autor/flammarion, tema/deus, tema/historia-doutrina]
 aliases:
   - "Dieu dans la nature"
 direitos:
@@ -12,6 +12,9 @@ status: ativo
 ---
 
 # Deus na Natureza
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 

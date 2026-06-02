@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE, Gênese]
-tags: [flammarion, como-acabara-o-mundo, pluralidade-dos-mundos, fim-do-mundo, transicao-planetaria, marte, jupiter, astronomia, fluidos, universo-invisivel, progresso-eterno, romance-espirita, obra/le, obra/ese, obra/genese, autor/kardec, tema/historia-doutrina, tema/vida-futura, tema/espiritos, lei/progresso]
+tags: [flammarion, como-acabara-o-mundo, pluralidade-dos-mundos, fim-do-mundo, transicao-planetaria, marte, jupiter, astronomia, fluidos, universo-invisivel, progresso-eterno, romance-espirita, obra/le, obra/ese, obra/genese, autor/flammarion, tema/historia-doutrina, tema/vida-futura, tema/espiritos, lei/progresso]
 aliases:
   - "Comment finira le monde"
   - "Como Acabará o Mundo?"
@@ -13,6 +13,9 @@ status: ativo
 ---
 
 # Como Acabará o Mundo
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 

@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [LE, ESE]
-tags: [flammarion, lumen, narracoes-do-infinito, pluralidade-dos-mundos, palingenesia, reencarnacao, astronomia, velocidade-da-luz, relatividade-do-tempo, romance-espirita, obra/le, obra/ese, autor/kardec, tema/vida-futura, tema/espiritos, tema/historia-doutrina]
+tags: [flammarion, lumen, narracoes-do-infinito, pluralidade-dos-mundos, palingenesia, reencarnacao, astronomia, velocidade-da-luz, relatividade-do-tempo, romance-espirita, obra/le, obra/ese, autor/flammarion, tema/vida-futura, tema/espiritos, tema/historia-doutrina]
 aliases:
   - "Récits de l'Infini"
 direitos:
@@ -12,6 +12,9 @@ status: ativo
 ---
 
 # Narrações do Infinito
+
+> [!note] Pesquisa psíquica / espiritismo científico
+> Camille Flammarion integra a categoria **pesquisa psíquica** da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] (CLAUDE.md §2): aborda os fenômenos por via experimental e científica, **sem autoridade doutrinária sobre o Pentateuco**. Onde a obra extrapola ou diverge de Kardec (ver a seção de divergências), o Pentateuco prevalece.
 
 ## Dados bibliográficos
 
