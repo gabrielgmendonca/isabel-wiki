@@ -8,7 +8,7 @@ status: rascunho
 
 # A alma dos animais sobrevive ao corpo?
 
-A questão 597 de *O Livro dos Espíritos* abre a discussão kardequiana sobre o **princípio inteligente nos animais** e suas diferenças com relação à alma humana. A resposta afirma que há nos animais um princípio independente da matéria que sobrevive ao corpo, mas **inferior** ao do homem em natureza — não apenas em grau. O tema é delicado porque articula ao mesmo tempo três princípios: a unidade da criação, a hierarquia dos reinos e a negação da metempsicose.
+A questão 597 de *O Livro dos Espíritos* abre a discussão de Kardec sobre o **[[wiki/conceitos/principio-inteligente|princípio inteligente]] nos animais** e suas diferenças com relação à alma humana. A resposta afirma que há nos animais um princípio independente da matéria que sobrevive ao corpo, mas **inferior** ao do homem em natureza — não apenas em grau. O tema é delicado porque articula ao mesmo tempo três princípios: a unidade da criação, a hierarquia dos reinos e a negação da metempsicose.
 
 ## Pergunta
 

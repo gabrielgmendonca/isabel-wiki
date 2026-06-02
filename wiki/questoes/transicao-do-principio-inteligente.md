@@ -68,6 +68,7 @@ A tese "no plano espiritual" não é, portanto, invenção pós-kardequiana — 
 
 ## Conceitos relacionados
 
+- [[wiki/conceitos/principio-inteligente]] — conceito central; elemento espiritual que se individualiza em Espírito.
 - [[wiki/conceitos/alma-dos-animais]] — panorama doutrinário do tema.
 - [[wiki/questoes/alma-dos-animais]] — questão-irmã, ancorada em LE q. 597 (sobrevivência do princípio inteligente).
 - [[wiki/conceitos/alma]] — três sentidos kardequianos da palavra alma (vital, intelectual, espírita).

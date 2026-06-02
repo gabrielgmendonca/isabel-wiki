@@ -90,6 +90,7 @@ Nenhuma com o Pentateuco. As dissertações de Charlet são corrigidas por Karde
 - [[wiki/personalidades/charlet]] — Espírito autor das dissertações de 1860.
 - [[wiki/conceitos/reencarnacao]] — princípio progressivo da reencarnação espírita; recusa da metempsicose retrogressiva.
 - [[wiki/conceitos/escala-espirita]] — gradação dos seres conscientes na escala da criação.
+- [[wiki/conceitos/principio-inteligente]] — o elemento espiritual do universo cujo grau animal esta página detalha.
 - [[wiki/conceitos/principio-vital]] — agente comum de toda vida; distinto do princípio inteligente.
 - [[wiki/conceitos/discernimento-dos-espiritos]] — modelo do "Exame crítico" como instância do controle universal.
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — referência aos animais superiores em mundos como Júpiter.

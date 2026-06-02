@@ -56,7 +56,8 @@ O conceito de princípio vital fundamenta a compreensão espírita da saúde e d
 
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe de que o princípio vital é modificação
 - [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos
-- [[wiki/conceitos/espirito]] — princípio inteligente, distinto do vital
+- [[wiki/conceitos/principio-inteligente]] — elemento espiritual do universo; o lado inteligente, distinto do vital
+- [[wiki/conceitos/espirito]] — princípio inteligente individualizado, distinto do vital
 - [[wiki/conceitos/perispirito]] — envoltório semimaterial, também ligado ao fluido universal
 - [[wiki/conceitos/alma]] — Espírito encarnado, que reúne princípio vital e inteligente
 - [[wiki/conceitos/morte]] — cessação do princípio vital

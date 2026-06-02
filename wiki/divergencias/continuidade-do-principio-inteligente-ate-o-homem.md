@@ -24,6 +24,12 @@ A página (e a posição nível 3, ex.: André Luiz, Evolução em Dois Mundos) 
 > [!note] Pendente de análise humana
 > Classificar: divergência real (estrutural), deslocamento de ênfase, aprofundamento legítimo ou má interpretação? Quando nível 2/3 contradiz o nível 1, Kardec prevalece — a divergência é registrada, nunca apagada.
 
+## Páginas relacionadas
+
+- [[wiki/conceitos/principio-inteligente]] — conceito sob disputa; em LE q. 613 Kardec deixa a ascensão até o homem em aberto entre dois sistemas.
+- [[wiki/questoes/alma-dos-animais]] — questão de origem desta divergência.
+- [[wiki/questoes/transicao-do-principio-inteligente]] — o salto princípio inteligente → Espírito e a reserva metodológica da RE mar/1864.
+
 ## Fontes
 
 - Kardec, Allan. (LE, q. 613).

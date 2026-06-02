@@ -227,6 +227,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/volitacao]] — André Luiz: locomoção espiritual por concentração mental; aplicação da velocidade do pensamento de LE q. 90–92.
 
 ### Princípio vital e fluidos
+- [[wiki/conceitos/principio-inteligente]] — elemento espiritual do universo; faculdade de pensar, distinta da matéria; individualizado, constitui o Espírito (LE, q. 23, q. 71–73, q. 597–613; Gênese, cap. XI).
 - [[wiki/conceitos/principio-vital]] — fluido vital, elo entre espírito e matéria (LE, q. 60–75; Gênese, cap. X).
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância primitiva única, matéria-mãe do universo (LE, q. 27–29; Gênese, cap. VI).
 - [[wiki/conceitos/fluidos]] — modificações do fluido cósmico: espirituais, vitais, magnéticos (Gênese, cap. XIV).
