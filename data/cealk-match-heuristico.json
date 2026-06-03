@@ -1,0 +1,978 @@
+[
+  {
+    "cealk_title": "O Livro dos Espíritos",
+    "cealk_slug": "o-livro-dos-espiritos",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-pentateuco",
+    "dest_dir": "raw/kardec/pentateuco",
+    "kind": "token-match",
+    "matches": [
+      [
+        "livro-dos-espiritos",
+        [
+          "raw/kardec/pentateuco/livro-dos-espiritos.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Evangelho Segundo O Espiritismo",
+    "cealk_slug": "o-evangelho-segundo-o-espiritismo",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-pentateuco",
+    "dest_dir": "raw/kardec/pentateuco",
+    "kind": "token-match",
+    "matches": [
+      [
+        "evangelho-segundo-o-espiritismo",
+        [
+          "raw/kardec/pentateuco/evangelho-segundo-o-espiritismo.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Livro dos Mediuns",
+    "cealk_slug": "o-livro-dos-mediuns",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-pentateuco",
+    "dest_dir": "raw/kardec/pentateuco",
+    "kind": "token-match",
+    "matches": [
+      [
+        "livro-dos-mediuns",
+        [
+          "raw/kardec/pentateuco/livro-dos-mediuns.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Gênese",
+    "cealk_slug": "a-genese",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-pentateuco",
+    "dest_dir": "raw/kardec/pentateuco",
+    "kind": "token-match",
+    "matches": [
+      [
+        "genese",
+        [
+          "raw/kardec/pentateuco/genese.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Céu e O Inferno",
+    "cealk_slug": "o-ceu-e-o-inferno",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-pentateuco",
+    "dest_dir": "raw/kardec/pentateuco",
+    "kind": "token-match",
+    "matches": [
+      [
+        "ceu-e-inferno",
+        [
+          "raw/kardec/pentateuco/ceu-e-inferno.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Obras Póstumas",
+    "cealk_slug": "obras-postumas",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-complementares",
+    "dest_dir": "raw/kardec/complementares",
+    "kind": "token-match",
+    "matches": [
+      [
+        "obras-postumas-feb",
+        [
+          "raw/kardec/complementares/obras-postumas-feb/",
+          "raw/kardec/complementares/obras-postumas-feb.pdf",
+          "raw/kardec/complementares/obras-postumas-feb/obras-postumas-feb.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Espiritismo em sua Mais Simples Expressão",
+    "cealk_slug": "o-espiritismo-em-sua-mais-simples-expressao",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-complementares",
+    "dest_dir": "raw/kardec/complementares",
+    "kind": "token-match",
+    "matches": [
+      [
+        "espiritismo-mais-simples-expressao",
+        [
+          "raw/kardec/complementares/espiritismo-mais-simples-expressao.md"
+        ]
+      ],
+      [
+        "o-que-e-o-espiritismo",
+        [
+          "raw/kardec/complementares/o-que-e-o-espiritismo.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Resumo das Leis dos Fenômenos Espíritas",
+    "cealk_slug": "resumo-das-leis-dos-fenomenos-espiritas",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-complementares",
+    "dest_dir": "raw/kardec/complementares",
+    "kind": "token-match",
+    "matches": [
+      [
+        "resumo-da-lei-dos-fenomenos-espiritas",
+        [
+          "raw/kardec/complementares/resumo-da-lei-dos-fenomenos-espiritas.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Instruções Práticas sobre As Manifestações Espíritas",
+    "cealk_slug": "instrucoes-praticas-sobre-as-manifestacoes-espiritas",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-complementares",
+    "dest_dir": "raw/kardec/complementares",
+    "kind": "token-match",
+    "matches": [
+      [
+        "instrucoes-praticas-manifestacoes-espiritas",
+        [
+          "raw/kardec/complementares/instrucoes-praticas-manifestacoes-espiritas.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "1858",
+    "cealk_slug": "1858",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1858/"
+    ]
+  },
+  {
+    "cealk_title": "1859",
+    "cealk_slug": "1859",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1859/"
+    ]
+  },
+  {
+    "cealk_title": "1860",
+    "cealk_slug": "1860",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1860/"
+    ]
+  },
+  {
+    "cealk_title": "1861",
+    "cealk_slug": "1861",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1861/"
+    ]
+  },
+  {
+    "cealk_title": "1862",
+    "cealk_slug": "1862",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1862/"
+    ]
+  },
+  {
+    "cealk_title": "1863",
+    "cealk_slug": "1863",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1863/"
+    ]
+  },
+  {
+    "cealk_title": "1864",
+    "cealk_slug": "1864",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1864/"
+    ]
+  },
+  {
+    "cealk_title": "1865",
+    "cealk_slug": "1865",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1865/"
+    ]
+  },
+  {
+    "cealk_title": "1866",
+    "cealk_slug": "1866",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1866/"
+    ]
+  },
+  {
+    "cealk_title": "1867",
+    "cealk_slug": "1867",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1867/"
+    ]
+  },
+  {
+    "cealk_title": "1868",
+    "cealk_slug": "1868",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1868/"
+    ]
+  },
+  {
+    "cealk_title": "1869",
+    "cealk_slug": "1869",
+    "autor_slug": "allan-kardec",
+    "scope": "kardec-revista",
+    "dest_dir": "raw/kardec/revista-espirita",
+    "kind": "exact",
+    "matches": [
+      "raw/kardec/revista-espirita/1869/"
+    ]
+  },
+  {
+    "cealk_title": "O Espiritismo perante a Ciência",
+    "cealk_slug": "o-espiritismo-perante-a-ciencia",
+    "autor_slug": "gabriel-delanne",
+    "scope": "autor",
+    "dest_dir": "raw/autores/gabriel-delanne",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/gabriel-delanne/o-espiritismo-perante-a-ciencia.doc"
+    ]
+  },
+  {
+    "cealk_title": "0 Fenômeno Espírita",
+    "cealk_slug": "0-fenomeno-espirita",
+    "autor_slug": "gabriel-delanne",
+    "scope": "autor",
+    "dest_dir": "raw/autores/gabriel-delanne",
+    "kind": "token-match",
+    "matches": [
+      [
+        "o-fenomeno-espirita",
+        [
+          "raw/autores/gabriel-delanne/o-fenomeno-espirita.doc"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Evolução Anímica",
+    "cealk_slug": "a-evolucao-animica",
+    "autor_slug": "gabriel-delanne",
+    "scope": "autor",
+    "dest_dir": "raw/autores/gabriel-delanne",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/gabriel-delanne/a-evolucao-animica.doc"
+    ]
+  },
+  {
+    "cealk_title": "A Alma é Imortal",
+    "cealk_slug": "a-alma-e-imortal",
+    "autor_slug": "gabriel-delanne",
+    "scope": "autor",
+    "dest_dir": "raw/autores/gabriel-delanne",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/gabriel-delanne/a-alma-e-imortal.doc"
+    ]
+  },
+  {
+    "cealk_title": "A Reencarnação",
+    "cealk_slug": "a-reencarnacao",
+    "autor_slug": "gabriel-delanne",
+    "scope": "autor",
+    "dest_dir": "raw/autores/gabriel-delanne",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/gabriel-delanne/a-reencarnacao.doc"
+    ]
+  },
+  {
+    "cealk_title": "Há 2000 anos",
+    "cealk_slug": "ha-2000-anos",
+    "autor_slug": "chico-xavier",
+    "scope": "medium:emmanuel",
+    "dest_dir": "raw/mediuns/chico-xavier/emmanuel",
+    "kind": "token-match",
+    "matches": [
+      [
+        "ha-dois-mil-anos",
+        [
+          "raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Paulo & Estevão",
+    "cealk_slug": "paulo-estevao",
+    "autor_slug": "chico-xavier",
+    "scope": "medium:emmanuel",
+    "dest_dir": "raw/mediuns/chico-xavier/emmanuel",
+    "kind": "token-match",
+    "matches": [
+      [
+        "paulo-e-estevao",
+        [
+          "raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Religião dos Espíritos",
+    "cealk_slug": "a-religiao-dos-espiritos",
+    "autor_slug": "chico-xavier",
+    "scope": "medium:emmanuel",
+    "dest_dir": "raw/mediuns/chico-xavier/emmanuel",
+    "kind": "token-match",
+    "matches": [
+      [
+        "religiao-dos-espiritos",
+        [
+          "raw/mediuns/chico-xavier/emmanuel/religiao-dos-espiritos.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Livro da Esperança",
+    "cealk_slug": "o-livro-da-esperanca",
+    "autor_slug": "chico-xavier",
+    "scope": "medium:emmanuel",
+    "dest_dir": "raw/mediuns/chico-xavier/emmanuel",
+    "kind": "token-match",
+    "matches": [
+      [
+        "livro-da-esperanca",
+        [
+          "raw/mediuns/chico-xavier/emmanuel/livro-da-esperanca.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Pátria do Evangelho",
+    "cealk_slug": "patria-do-evangelho",
+    "autor_slug": "chico-xavier",
+    "scope": "medium:humberto-de-campos",
+    "dest_dir": "raw/mediuns/chico-xavier/humberto-de-campos",
+    "kind": "token-match",
+    "matches": [
+      [
+        "brasil-coracao-do-mundo-patria-do-evangelho",
+        [
+          "raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Homem Integral",
+    "cealk_slug": "homem-integral",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-o-homem-integral",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-homem-integral.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-homem-integral/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-homem-integral/joanna-de-angelis-o-homem-integral.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Plenitude",
+    "cealk_slug": "plenitude",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-03-plenitude",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-03-plenitude/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-03-plenitude.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-03-plenitude/joanna-de-angelis-03-plenitude.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Momentos de Saúde",
+    "cealk_slug": "momentos-de-saude",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "momentos-de-saude-e-consciencia",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/momentos-de-saude-e-consciencia.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Momentos de Consciência",
+    "cealk_slug": "momentos-de-consciencia",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "momentos-de-saude-e-consciencia",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/momentos-de-saude-e-consciencia.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Ser Consciente",
+    "cealk_slug": "ser-consciente",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "o-ser-consciente",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/o-ser-consciente/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/o-ser-consciente.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/o-ser-consciente/o-ser-consciente.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Autodescobrimento: Uma Busca Interior",
+    "cealk_slug": "autodescobrimento-uma-busca-interior",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-autodescobrimento-uma-busca-interior",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/joanna-de-angelis-autodescobrimento-uma-busca-interior.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Desperte e Seja Feliz",
+    "cealk_slug": "desperte-e-seja-feliz",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "dpf-ja-08-desperte-e-seja-feliz",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-08-desperte-e-seja-feliz/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-08-desperte-e-seja-feliz.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-08-desperte-e-seja-feliz/dpf-ja-08-desperte-e-seja-feliz.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Vida: Desafios e Soluções",
+    "cealk_slug": "vida-desafios-e-solucoes",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/08-vida-desafios-e-solucoes-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Amor, Imbatível Amor",
+    "cealk_slug": "amor-imbativel-amor",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-amor-imbativel-amor",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-amor-imbativel-amor.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-amor-imbativel-amor/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-amor-imbativel-amor/joanna-de-angelis-amor-imbativel-amor.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Despertar do Espírito",
+    "cealk_slug": "o-despertar-do-espirito",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-o-despertar-do-espirito",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-despertar-do-espirito.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-despertar-do-espirito/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-o-despertar-do-espirito/joanna-de-angelis-o-despertar-do-espirito.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Jesus e o Evangelho à Luz da Psicologia Profunda",
+    "cealk_slug": "jesus-e-o-evangelho-a-luz-da-psicologia-profunda",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis/jesus-e-o-evangelho-a-luz-da-psicologia-profunda-divaldo-p-franco-joanna-de-angelis.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Triunfo Pessoal",
+    "cealk_slug": "triunfo-pessoal",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "dpf-ja-13-triunfo-pessoal",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/dpf-ja-13-triunfo-pessoal/dpf-ja-13-triunfo-pessoal.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Encontro com A Paz e A Saúde",
+    "cealk_slug": "encontro-com-a-paz-e-a-saude",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-encontro-com-a-paz-e-a-saude",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-encontro-com-a-paz-e-a-saude.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-encontro-com-a-paz-e-a-saude/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-encontro-com-a-paz-e-a-saude/joanna-de-angelis-encontro-com-a-paz-e-a-saude.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Em Busca da Verdade",
+    "cealk_slug": "em-busca-da-verdade",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "joanna-de-angelis-em-busca-da-verdade",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-em-busca-da-verdade/joanna-de-angelis-em-busca-da-verdade.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Psicologia da Gratidão",
+    "cealk_slug": "psicologia-da-gratidao",
+    "autor_slug": "divaldo-franco",
+    "scope": "medium:joanna-de-angelis",
+    "dest_dir": "raw/mediuns/divaldo-franco/joanna-de-angelis",
+    "kind": "token-match",
+    "matches": [
+      [
+        "psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis",
+        [
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis.pdf",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/",
+          "raw/mediuns/divaldo-franco/joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis/psicologia-da-gratidao-psicografia-divaldo-pereira-franco-espirito-joanna-de-angelis.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Deus na Natureza",
+    "cealk_slug": "deus-na-natureza",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/deus-na-natureza/",
+      "raw/autores/camille-flammarion/deus-na-natureza/deus-na-natureza.md",
+      "raw/autores/camille-flammarion/deus-na-natureza/deus-na-natureza.doc"
+    ]
+  },
+  {
+    "cealk_title": "Narrações do Infinito",
+    "cealk_slug": "narracoes-do-infinito",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/narracoes-do-infinito/",
+      "raw/autores/camille-flammarion/narracoes-do-infinito/narracoes-do-infinito.doc",
+      "raw/autores/camille-flammarion/narracoes-do-infinito/narracoes-do-infinito.md"
+    ]
+  },
+  {
+    "cealk_title": "O Fim do Mundo",
+    "cealk_slug": "o-fim-do-mundo",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/o-fim-do-mundo/",
+      "raw/autores/camille-flammarion/o-fim-do-mundo/o-fim-do-mundo.doc",
+      "raw/autores/camille-flammarion/o-fim-do-mundo/o-fim-do-mundo.md"
+    ]
+  },
+  {
+    "cealk_title": "Como Acabará o Mundo",
+    "cealk_slug": "como-acabara-o-mundo",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/como-acabara-o-mundo/",
+      "raw/autores/camille-flammarion/como-acabara-o-mundo/como-acabara-o-mundo.md",
+      "raw/autores/camille-flammarion/como-acabara-o-mundo/como-acabara-o-mundo.doc"
+    ]
+  },
+  {
+    "cealk_title": "Estela",
+    "cealk_slug": "estela",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/estela/",
+      "raw/autores/camille-flammarion/estela/estela.md",
+      "raw/autores/camille-flammarion/estela/estela.doc"
+    ]
+  },
+  {
+    "cealk_title": "A Urânia",
+    "cealk_slug": "a-urania",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "token-match",
+    "matches": [
+      [
+        "urania",
+        [
+          "raw/autores/camille-flammarion/urania/",
+          "raw/autores/camille-flammarion/urania/urania.doc",
+          "raw/autores/camille-flammarion/urania/urania.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Morte e o seu Mistério – Volume I",
+    "cealk_slug": "a-morte-e-o-seu-misterio-volume-i",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "token-match",
+    "matches": [
+      [
+        "a-morte-e-o-seu-misterio",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.doc",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.md"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-3",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.pdf"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-2",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.pdf"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Morte e o seu Mistério – Volume II",
+    "cealk_slug": "a-morte-e-o-seu-misterio-volume-ii",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "token-match",
+    "matches": [
+      [
+        "a-morte-e-o-seu-misterio",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.doc",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.md"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-3",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.pdf"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-2",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.pdf"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "A Morte e o seu Mistério – Volume III",
+    "cealk_slug": "a-morte-e-o-seu-misterio-volume-iii",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "token-match",
+    "matches": [
+      [
+        "a-morte-e-o-seu-misterio",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.doc",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio.md"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-3",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-3.pdf"
+        ]
+      ],
+      [
+        "a-morte-e-o-seu-misterio-vol-2",
+        [
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.md",
+          "raw/autores/camille-flammarion/a-morte-e-o-seu-misterio/a-morte-e-o-seu-misterio-vol-2.pdf"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "O Desconhecido",
+    "cealk_slug": "o-desconhecido",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "token-match",
+    "matches": [
+      [
+        "o-desconhecido-e-os-problemas-psiquicos",
+        [
+          "raw/autores/camille-flammarion/o-desconhecido-e-os-problemas-psiquicos/",
+          "raw/autores/camille-flammarion/o-desconhecido-e-os-problemas-psiquicos/o-desconhecido-e-os-problemas-psiquicos.md",
+          "raw/autores/camille-flammarion/o-desconhecido-e-os-problemas-psiquicos/o-desconhecido-e-os-problemas-psiquicos.doc"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "As Casas Mal Assombradas",
+    "cealk_slug": "as-casas-mal-assombradas",
+    "autor_slug": "camille-flammarion",
+    "scope": "autor",
+    "dest_dir": "raw/autores/camille-flammarion",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/camille-flammarion/as-casas-mal-assombradas/",
+      "raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas.md",
+      "raw/autores/camille-flammarion/as-casas-mal-assombradas/as-casas-mal-assombradas.doc"
+    ]
+  },
+  {
+    "cealk_title": "Animalismo ou Espiritismo?",
+    "cealk_slug": "animalismo-ou-espiritismo",
+    "autor_slug": "ernesto-bozzano",
+    "scope": "autor",
+    "dest_dir": "raw/autores/ernesto-bozzano",
+    "kind": "token-match",
+    "matches": [
+      [
+        "animismo-ou-espiritismo",
+        [
+          "raw/autores/ernesto-bozzano/animismo-ou-espiritismo.md",
+          "raw/autores/ernesto-bozzano/animismo-ou-espiritismo.pdf"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Enigmas da Psicometria",
+    "cealk_slug": "enigmas-da-psicometria",
+    "autor_slug": "ernesto-bozzano",
+    "scope": "autor",
+    "dest_dir": "raw/autores/ernesto-bozzano",
+    "kind": "token-match",
+    "matches": [
+      [
+        "os-enigmas-da-psicometria",
+        [
+          "raw/autores/ernesto-bozzano/os-enigmas-da-psicometria.pdf",
+          "raw/autores/ernesto-bozzano/os-enigmas-da-psicometria.md"
+        ]
+      ]
+    ]
+  },
+  {
+    "cealk_title": "Pensamento e Vontade",
+    "cealk_slug": "pensamento-e-vontade",
+    "autor_slug": "ernesto-bozzano",
+    "scope": "autor",
+    "dest_dir": "raw/autores/ernesto-bozzano",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/ernesto-bozzano/pensamento-e-vontade.doc"
+    ]
+  },
+  {
+    "cealk_title": "Visão Panorâmica ou Memória Sintética na Iminência da Morte",
+    "cealk_slug": "visao-panoramica-ou-memoria-sintetica-na-iminencia-da-morte",
+    "autor_slug": "ernesto-bozzano",
+    "scope": "autor",
+    "dest_dir": "raw/autores/ernesto-bozzano",
+    "kind": "exact",
+    "matches": [
+      "raw/autores/ernesto-bozzano/visao-panoramica-ou-memoria-sintetica-na-iminencia-da-morte.doc"
+    ]
+  },
+  {
+    "cealk_title": "Xenoglossia",
+    "cealk_slug": "xenoglossia",
+    "autor_slug": "ernesto-bozzano",
+    "scope": "autor",
+    "dest_dir": "raw/autores/ernesto-bozzano",
+    "kind": "token-match",
+    "matches": [
+      [
+        "xenoglossia-mediunidade-poliglota",
+        [
+          "raw/autores/ernesto-bozzano/xenoglossia-mediunidade-poliglota.doc"
+        ]
+      ]
+    ]
+  }
+]
