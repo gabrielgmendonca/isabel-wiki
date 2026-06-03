@@ -24,7 +24,7 @@ CLI:
 
 Saídas:
   data/feb-catalogo-autores.json  — dados estruturados (re-runs determinísticos)
-  OBRAS-PENDENTES-FEB.md          — tracker de download por autor (raiz do repo)
+  tracking/aquisicao-feb.md       — tracker de download por autor
 """
 
 from __future__ import annotations
@@ -244,7 +244,7 @@ def render_markdown(catalogo: list[dict], gerado_em: str) -> str:
         f"do build público). Regenerável a qualquer momento.",
         "",
         "Triagem de direitos autorais (o que tem fonte legal gratuita vs. "
-        "só compra): ver `OBRAS-PENDENTES-FEB-DIREITOS.md` — documento "
+        "só compra): ver `aquisicao-feb-direitos.md` — documento "
         "curado, **não** regenerado por este script.",
         "",
         f"**{total} obras** catalogadas em {len(catalogo)} autores · "
@@ -338,7 +338,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--json-out", type=Path,
                     default=ROOT / "data" / "feb-catalogo-autores.json")
     ap.add_argument("--md-out", type=Path,
-                    default=ROOT / "OBRAS-PENDENTES-FEB.md")
+                    default=ROOT / "tracking" / "aquisicao-feb.md")
     args = ap.parse_args(argv)
 
     if args.from_json:

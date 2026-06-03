@@ -46,7 +46,7 @@ Catálogo ativo na loja FEB Editora (scrape em 2026-05-15) — títulos sob o fi
 - *História de um sonho* — [FEB](https://www.febeditora.com.br/historia-de-um-sonho)
 - *Uma carta de Bezerra de Menezes* — [FEB](https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes)
 
-Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista de download em `OBRAS-PENDENTES-FEB.md` (raiz do repo).
+Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista de download em `tracking/aquisicao-feb.md`.
 
 ## Citações relevantes
 

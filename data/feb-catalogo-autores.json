@@ -48,7 +48,7 @@
           "sku": "71",
           "preco": "36.0",
           "url": "https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes",
-          "em_raw": false
+          "em_raw": true
         }
       ]
     },
@@ -74,7 +74,7 @@
           "sku": "389",
           "preco": "36.0",
           "url": "https://www.febeditora.com.br/a-nova-revelacao-42855471",
-          "em_raw": false
+          "em_raw": true
         }
       ]
     },
@@ -170,7 +170,7 @@
           "sku": "67",
           "preco": "49.5",
           "url": "https://www.febeditora.com.br/candeias-na-noite-escura",
-          "em_raw": false
+          "em_raw": true
         },
         {
           "titulo": "Diálogo com as sombras",
@@ -178,7 +178,7 @@
           "sku": "132",
           "preco": "54.0",
           "url": "https://www.febeditora.com.br/dialogo-com-as-sombras",
-          "em_raw": false
+          "em_raw": true
         },
         {
           "titulo": "Dialogue avec les ombres (Diálogo com as sombras - Francês)",
@@ -186,7 +186,7 @@
           "sku": "2760",
           "preco": "60.0",
           "url": "https://www.febeditora.com.br/dialogue-avec-les-ombres--dialogo-com-as-sombras---frances-",
-          "em_raw": false
+          "em_raw": true
         },
         {
           "titulo": "Estudos e crônicas de Hermínio Miranda",

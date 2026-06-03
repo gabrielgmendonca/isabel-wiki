@@ -40,7 +40,7 @@ import requests
 ROOT = Path(__file__).resolve().parents[1]
 UA = "isabel-wiki/download-cealk"
 
-# Mesma classificação usada na geração de OBRAS-PENDENTES-CEALK.md.
+# Mesma classificação usada na geração de tracking/aquisicao-cealk.md.
 TIER: dict[str, int] = {
     # tier 1 (Pentateuco)
     "allan-kardec/kardec-pentateuco": 1,

@@ -23,7 +23,7 @@ Comentarista e pedagogo do Evangelho na literatura espírita. Suas obras são re
 - *Nas pegadas do Mestre* — comentários evangélicos.
 - *Na seara do Mestre* — comentários evangélicos (catálogo FEB).
 
-Catálogo ativo na loja FEB Editora (scrape em 2026-05-15): *Em torno do mestre*, *Na seara do Mestre*, *Nas pegadas do mestre*, *O mestre na educação* — sem página própria em `wiki/obras/`. Lista de download em `OBRAS-PENDENTES-FEB.md` (raiz do repo).
+Catálogo ativo na loja FEB Editora (scrape em 2026-05-15): *Em torno do mestre*, *Na seara do Mestre*, *Nas pegadas do mestre*, *O mestre na educação* — sem página própria em `wiki/obras/`. Lista de download em `tracking/aquisicao-feb.md`.
 
 ## Citações relevantes
 

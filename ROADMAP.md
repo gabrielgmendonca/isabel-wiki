@@ -17,10 +17,14 @@ Completar a base doutrinária. Três frentes: **obras a ingerir** (gargalo princ
 
 ### 1.1 Obras a ingerir
 
+> **Onde vive a lista (2026-06-03)**: esta seção é **estratégia** — qual autor priorizar e por quê. O **estado factual** das duas filas do pipeline (`aquisição → raw/ → /ingest → wiki/`) vive fora daqui, para não envelhecer:
+> - **Fila de ingestão** (obra em `raw/` sem página em `wiki/obras/`) → `uv run python scripts/list_pending_ingest.py` (derivada, nunca mantida à mão; 564 pendentes na última medição, pós-CEAK).
+> - **Fila de aquisição** (obra ainda não em `raw/`) → `tracking/` (FEB, CEAK, triagem de direitos).
+>
+> As contagens por-autor abaixo podem estar defasadas em relação ao script — após a ingestão do catálogo CEAK (commit `c3c0d87`), vários "gargalos" mudaram (ex.: Cairbar/Peralva deixaram de ter pastas vazias). **Checar o script antes de assumir que um autor está descoberto.** Não é exaustiva quanto a `raw/mediuns/chico-xavier/**` nem `raw/mediuns/divaldo-franco/**`.
+
 **Nível 1 — Pentateuco**
 - [x] Pentateuco 5/5 (fechado com *O Livro dos Médiuns*).
-
-> **Reconciliação 2026-06-02**: `raw/` cresceu além do que esta seção rastreava. Estado real abaixo. Não é exaustiva quanto a `raw/mediuns/chico-xavier/**` (Emmanuel, Humberto de Campos, Irmão X, Neio Lúcio…) nem a `raw/mediuns/divaldo-franco/**` — uma auditoria completa raw×wiki segue como tarefa à parte.
 
 **Nível 2 — Kardec complementar**
 - [x] 6/6 completo (verificado 2026-06-02). Ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862, Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão.

@@ -2,13 +2,13 @@
 
 Gerado por `scripts/scrape_feb_catalogo.py` em 2026-05-15. Tracker operacional (não é página da wiki — sem frontmatter, fora do build público). Regenerável a qualquer momento.
 
-Triagem de direitos autorais (o que tem fonte legal gratuita vs. só compra): ver `OBRAS-PENDENTES-FEB-DIREITOS.md` — documento curado, **não** regenerado por este script.
+Triagem de direitos autorais (o que tem fonte legal gratuita vs. só compra): ver `aquisicao-feb-direitos.md` — documento curado, **não** regenerado por este script.
 
-**54 obras** catalogadas em 14 autores · **54 pendentes** de download para `raw/autores/<slug>/`.
+**54 obras** catalogadas em 14 autores · **49 pendentes** de download para `raw/autores/<slug>/`.
 
 Marcação `[x]` = já existe arquivo correspondente em `raw/autores/<slug>/` (match heurístico por slug — conferir antes de assumir como baixado).
 
-## Bezerra de Menezes (5 obras · 5 pendentes)
+## Bezerra de Menezes (5 obras · 4 pendentes)
 
 - Página: [[wiki/personalidades/bezerra-de-menezes]]
 - Catálogo FEB: <https://www.febeditora.com.br/listaprodutos.asp?fil=293768&avancada=true&tfil=Bezerra+de+Menezes>
@@ -17,15 +17,15 @@ Marcação `[x]` = já existe arquivo correspondente em `raw/autores/<slug>/` (m
 - [ ] *A pérola negra* — R$ 54.0 — [FEB](https://www.febeditora.com.br/a-perola-negra) (SKU 445)
 - [ ] *Evangelho do futuro* — R$ 75.0 — [FEB](https://www.febeditora.com.br/evangelho-do-futuro) (SKU 212)
 - [ ] *História de um sonho* — R$ 39.0 — [FEB](https://www.febeditora.com.br/historia-de-um-sonho) (SKU 280)
-- [ ] *Uma carta de Bezerra de Menezes* — R$ 36.0 — [FEB](https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes) (SKU 71)
+- [x] *Uma carta de Bezerra de Menezes* — R$ 36.0 — [FEB](https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes) (SKU 71)
 
-## Arthur Conan Doyle (2 obras · 2 pendentes)
+## Arthur Conan Doyle (2 obras · 1 pendentes)
 
 - Página: [[wiki/personalidades/arthur-conan-doyle]]
 - Catálogo FEB: <https://www.febeditora.com.br/listaprodutos.asp?fil=293784&avancada=true&tfil=Arthur+Conan+Doyle>
 
 - [ ] *A história do espiritualismo* — R$ 90.0 — [FEB](https://www.febeditora.com.br/a-historia-do-espiritualismo) (SKU 281)
-- [ ] *A nova revelação* — R$ 36.0 — [FEB](https://www.febeditora.com.br/a-nova-revelacao-42855471) (SKU 389)
+- [x] *A nova revelação* — R$ 36.0 — [FEB](https://www.febeditora.com.br/a-nova-revelacao-42855471) (SKU 389)
 
 ## Deolindo Amorim (1 obras · 1 pendentes)
 
@@ -51,14 +51,14 @@ Marcação `[x]` = já existe arquivo correspondente em `raw/autores/<slug>/` (m
 - [ ] *Vida: somos muitos, somos um - VOL. 1* — R$ 33.75 — [FEB](https://www.febeditora.com.br/vida--somos-muitos--somos-um---vol--1) (SKU 3717)
 - [ ] *Vida: somos muitos, somos um - VOL. 2* — R$ 33.75 — [FEB](https://www.febeditora.com.br/vida--somos-muitos--somos-um---vol--2) (SKU 3718)
 
-## Hermínio Corrêa de Miranda (5 obras · 5 pendentes)
+## Hermínio Corrêa de Miranda (5 obras · 2 pendentes)
 
 - Página: [[wiki/personalidades/herminio-correa-de-miranda]]
 - Catálogo FEB: <https://www.febeditora.com.br/listaprodutos.asp?fil=293830&avancada=true&tfil=Hermínio+Corrêa+de+Miranda>
 
-- [ ] *Candeias na noite escura* — R$ 49.5 — [FEB](https://www.febeditora.com.br/candeias-na-noite-escura) (SKU 67)
-- [ ] *Dialogue avec les ombres (Diálogo com as sombras - Francês)* — R$ 60.0 — [FEB](https://www.febeditora.com.br/dialogue-avec-les-ombres--dialogo-com-as-sombras---frances-) (SKU 2760)
-- [ ] *Diálogo com as sombras* — R$ 54.0 — [FEB](https://www.febeditora.com.br/dialogo-com-as-sombras) (SKU 132)
+- [x] *Candeias na noite escura* — R$ 49.5 — [FEB](https://www.febeditora.com.br/candeias-na-noite-escura) (SKU 67)
+- [x] *Dialogue avec les ombres (Diálogo com as sombras - Francês)* — R$ 60.0 — [FEB](https://www.febeditora.com.br/dialogue-avec-les-ombres--dialogo-com-as-sombras---frances-) (SKU 2760)
+- [x] *Diálogo com as sombras* — R$ 54.0 — [FEB](https://www.febeditora.com.br/dialogo-com-as-sombras) (SKU 132)
 - [ ] *Estudos e crônicas de Hermínio Miranda* — R$ 56.25 — [FEB](https://www.febeditora.com.br/estudos-e-cronicas-de-herminio-miranda) (SKU 207)
 - [ ] *Nas fronteiras do além* — R$ 51.0 — [FEB](https://www.febeditora.com.br/nas-fronteiras-do-alem) (SKU 257)
 

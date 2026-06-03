@@ -1,6 +1,6 @@
 # Triagem de direitos autorais — catálogo FEB Editora
 
-Companheiro **curado** de `OBRAS-PENDENTES-FEB.md`. Aquele tracker é regenerado por `scrape_feb_catalogo.py` (dados scrapeados da loja); **este aqui não** — é análise editorial/jurídica, escrita à mão, e não deve ser sobrescrita por re-scrape. Tracker operacional: sem frontmatter, fora do build público.
+Companheiro **curado** de `aquisicao-feb.md`. Aquele tracker é regenerado por `scrape_feb_catalogo.py` (dados scrapeados da loja); **este aqui não** — é análise editorial/jurídica, escrita à mão, e não deve ser sobrescrita por re-scrape. Tracker operacional: sem frontmatter, fora do build público.
 
 Pesquisa feita em 2026-05-15. Objetivo: separar o que tem **fonte legal gratuita** do que é **somente compra** — para nunca baixar PDF pirata de obra em catálogo comercial ativo.
 
