@@ -2,8 +2,8 @@
 tipo: aprofundamento
 fontes: [Gênese, LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier]
 tags: [criacao, cosmogonia, geologia, terra, fluido-cosmico, principio-vital, alma-da-terra, jesus, capela, obra/genese, obra/le, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/avancado, tema/deus]
-atualizado_em: 2026-05-04
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # A criação do planeta Terra (Gênese, caps. VI–X)

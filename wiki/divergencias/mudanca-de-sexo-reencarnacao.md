@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
-tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, andre-luiz, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao]
-atualizado_em: 2026-05-03
+tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, andre-luiz, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao, tema/moral]
+atualizado_em: 2026-06-03
 status: aberta
 ---
 

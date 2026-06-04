@@ -1,8 +1,8 @@
 ---
 tipo: aprofundamento
 fontes: [Joanna de Ângelis/Divaldo Franco, LE, ESE, LM]
-tags: [sexualidade, sexo, casamento, separacao, homossexualidade, amor-eros, anima-animus, self-assexuado, sublimacao, sexolatria, neurobiologia, joanna-de-angelis, divaldo-franco, lei/reproducao, obra/le, obra/ese, obra/lm, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, grau/avancado, lei/igualdade, lei/justica-amor-caridade, tema/sociedade, tema/moral, lei/destruicao]
-atualizado_em: 2026-05-31
+tags: [sexualidade, sexo, casamento, separacao, homossexualidade, amor-eros, anima-animus, self-assexuado, sublimacao, sexolatria, neurobiologia, joanna-de-angelis, divaldo-franco, lei/reproducao, obra/le, obra/ese, obra/lm, autor/joanna-de-angelis, autor/divaldo-franco, autor/kardec, grau/avancado, lei/igualdade, lei/justica-amor-caridade, tema/sociedade, tema/moral, lei/destruicao, tema/encarnacao]
+atualizado_em: 2026-06-03
 status: rascunho
 ---
 

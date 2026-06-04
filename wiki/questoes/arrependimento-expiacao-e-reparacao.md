@@ -1,9 +1,9 @@
 ---
 tipo: questao
 fontes: [C&I, NT]
-tags: [arrependimento, expiacao, reparacao, triade, justica-divina, penas-futuras, obra/ci, autor/kardec, grau/introdutorio, lei/justica-amor-caridade, tema/sofrimento]
-atualizado_em: 2026-04-28
-status: ativo
+tags: [arrependimento, expiacao, reparacao, triade, justica-divina, penas-futuras, obra/ci, autor/kardec, grau/introdutorio, lei/justica-amor-caridade, tema/sofrimento, tema/livre-arbitrio]
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Qual a diferença entre arrependimento, expiação e reparação?
@@ -40,7 +40,7 @@ Refuta-se assim a ideia de que o arrependimento sozinho — "algumas palavras e 
 
 ### Onde cada elemento se realiza
 
-- O **arrependimento** pode ocorrer em qualquer tempo e lugar — na vida corporal ou espiritual (LE, q. 990–994). Se tardio, apenas prolonga o sofrimento, mas nunca é tarde demais: "pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso" (LE, q. 993).
+- O **arrependimento** pode ocorrer em qualquer tempo e lugar — na vida corporal ou espiritual (LE, q. 990–994). Se tardio, apenas prolonga o sofrimento, mas nunca é tarde demais: "pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso" (LE, q. 1007).
 - A **expiação** pode dar-se em três esferas: nesta vida, na vida espiritual após a morte, ou numa nova existência corpórea. Dura "até que os traços da falta sejam completamente apagados" (C&I, 1ª parte, cap. VII, item 17), e cessa quando o mal não existe mais (C&I, 1ª parte, cap. VII, item 13).
 - A **reparação**, quando não feita nesta vida, implica reencontro reencarnatório: o Espírito reencontra, em existência ulterior, as mesmas pessoas que lhe tiveram queixas, em condições escolhidas por ele mesmo, para fazer-lhes tanto bem quanto lhes fez mal (C&I, 1ª parte, cap. VII, item 17).
 
@@ -54,14 +54,14 @@ A objeção recorrente — "basta pedir perdão para ser absolvido" — é respo
 
 ### O gancho neotestamentário: "o amor cobrirá a multidão de pecados" (1Pe 4:8)
 
-A formulação petrina de [[wiki/obras/primeira-epistola-de-pedro|1 Pedro]] 4:8 — "**tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados**" (citação livre de Pv 10:12 LXX, retomada também em Tg 5:20) — é o gancho neotestamentário mais limpo da tríade kardequiana arrependimento → expiação → reparação. O "cobrir" petrino **não é apagamento mágico**: é a constatação moral-psicológica de que o **amor ativo opera reparação efetiva**.
+A formulação petrina de [[wiki/obras/primeira-epistola-de-pedro|1 Pedro]] 4:8 — "**tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados**" (citação livre de Pv 10:12 LXX, retomada também em Tg 5:20) — é o gancho neotestamentário mais limpo da tríade de Kardec arrependimento → expiação → reparação. O "cobrir" petrino **não é apagamento mágico**: é a constatação moral-psicológica de que o **amor ativo opera reparação efetiva**.
 
 A articulação com a doutrina espírita é direta:
 
 - Quando a **reparação direta** é possível (o ofendido está vivo, a falta é localizável), Kardec a impõe como caminho preferencial — fazer bem àquele a quem se fez mal (C&I, 1ª parte, cap. VII, item 17).
 - Quando a reparação direta é **impossível** (o ofendido morreu, a falta foi coletiva e indeterminada, o tempo é irrecuperável, ou a falta atingiu apenas o próprio Espírito), abre-se o caminho da **reparação indireta pela virtude oposta** — "cumprindo os deveres negligenciados, sendo humilde se foi orgulhoso, caridoso se foi egoísta" (item 17, in fine). É exatamente esse caminho que 1Pe 4:8 nomeia em vocabulário apostólico: o **amor ativo** "cobre" os pecados porque os **trabalha** — neutraliza-os pela edificação do bem oposto.
 
-Para o estudante, é instrumento didático poderoso: a doutrina kardequiana da reabilitação **não está restrita ao Pentateuco** — tem âncora apostólica direta em Pedro, em Tiago (Tg 2:14–17 — "fé sem obras é morta") e em João (1 Jo 4:7–21 — "Deus é amor"). Os três apóstolos convergem **na mesma tese**: o amor ativo, não a confissão verbal nem o ritual, é o que reabilita.
+Para o estudante, é instrumento didático poderoso: a doutrina de Kardec da reabilitação **não está restrita ao Pentateuco** — tem âncora apostólica direta em Pedro, em [[wiki/obras/epistola-de-tiago|Tiago]] (Tg 2:14–17 — "fé sem obras é morta") e em [[wiki/obras/primeira-epistola-de-joao|João]] (1 Jo 4:7–21 — "Deus é amor"). Os três apóstolos convergem **na mesma tese**: o amor ativo, não a confissão verbal nem o ritual, é o que reabilita.
 
 ### Valor prático e social
 

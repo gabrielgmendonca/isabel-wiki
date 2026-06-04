@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [ESE, "S. Mateus", "S. Lucas"]
 tags: [sermao-do-monte, sermao-da-montanha, jesus, evangelho, moral, bem-aventurancas, reino-dos-ceus, obra/ese, autor/kardec, grau/avancado, tema/jesus, tema/moral]
-atualizado_em: 2026-05-31
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Sermão do Monte
@@ -138,7 +138,7 @@ Três eixos atravessam o Sermão e o conectam aos pilares da codificação:
 - [[wiki/conceitos/parabola-da-figueira-seca]] — fé sem obras é morta (cf. Mt 7:16–20).
 
 ### Sínteses relacionadas
-- [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — **leitura emanueliana** do mesmo discurso, recomposta a partir de 52 capítulos das cinco coletâneas evangélicas; complemento pastoral natural deste mapa kardequiano.
+- [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — **leitura emanueliana** do mesmo discurso, recomposta a partir de 52 capítulos das cinco coletâneas evangélicas; complemento pastoral natural deste mapa de Kardec.
 - [[wiki/sinteses/parabolas-de-jesus]] — mapa-irmão: o Sermão é o discurso programático; as parábolas o ilustram em narrativa.
 - [[wiki/sinteses/hierarquia-de-autoridade]] — o Pentateuco como chave de leitura do Sermão.
 - [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — síntese moral cuja matriz é o Sermão.

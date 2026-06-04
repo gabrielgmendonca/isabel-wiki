@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, "C&I", NT]
 tags: [divergencia, anjos, anjos-caidos, demonios, dualismo, vigilantes, enoque, pedro, judas, autor/pedro, autor/kardec, obra/le, obra/ci, grau/avancado, tema/espiritos, lei/justica-amor-caridade]
-atualizado_em: 2026-05-01
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -42,7 +42,7 @@ A refutação detalhada está em [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*
 
 3. **Se anjos rebelados são incriáveis e eternos**, são iguais a Deus em ontologia → **dualismo metafísico** que destrói o monoteísmo (LE q. 1, "Deus é único").
 
-4. **A inutilidade do arrependimento angélico** (Satanás e seus anjos não podem se arrepender, dizem) destrói o princípio evangélico universal do perdão e da regeneração: *"Em nome de Jesus Cristo, daquele que não pregou senão o amor, a caridade e o perdão, que se ensinam semelhantes doutrinas!"* (C&I 1ª parte cap. IX, item 19).
+4. **A inutilidade do arrependimento angélico** (Satanás e seus anjos não podem se arrepender, dizem) destrói o princípio evangélico universal do perdão e da regeneração: *"Em nome de Jesus Cristo, daquele que não pregou senão o amor, a caridade e o perdão, que se ensinam semelhantes doutrinas!"* (C&I 1ª parte cap. IX, item 15).
 
 5. **A criação dos seres inteligentes é una** (C&I 1ª parte cap. IX, itens 20–21):
 
@@ -61,7 +61,7 @@ Trata-se de **divergência real e estrutural**, não mera diferença de ênfase.
 - **Aprisionamento estático** ("cadeias da escuridão", "prisões") sem perspectiva de regeneração.
 - "**Reservados para o juízo**" como destino dramático único, não processo individual contínuo.
 
-Cada um destes pontos colide frontalmente com a doutrina kardequiana:
+Cada um destes pontos colide frontalmente com a doutrina de Kardec:
 
 | Tese da letra (2 Pe 2:4 + Jd 6) | Posição espírita |
 |---|---|
@@ -88,7 +88,7 @@ A releitura conserva o **valor moral da passagem** (advertência aos falsos dout
 
 ### Por que então é divergência aberta?
 
-Porque a **letra do texto**, lida sem a chave kardequiana, sustenta a doutrina tradicional com força considerável — Pedro/Judas falam de **anjos** especificamente, não de Espíritos em geral; falam de **queda** como evento, não de processo; falam de **cadeias** e **prisões**, não de estados; e a dependência clara de 1 Enoque (com seus Vigilantes mitológicos) confirma que os autores trabalham com um imaginário **literal-narrativo**, não simbólico-pedagógico. A leitura espírita exige **trabalho hermenêutico ativo** (releitura à luz do conjunto da revelação, contexto cultural do I século, regra de Kardec) — não brota espontaneamente do texto. Por isso a divergência fica **aberta**: registrada, com a chave de leitura proposta, mas sem pretender que a tensão se dissolva apenas pela leitura.
+Porque a **letra do texto**, lida sem a chave de Kardec, sustenta a doutrina tradicional com força considerável — Pedro/Judas falam de **anjos** especificamente, não de Espíritos em geral; falam de **queda** como evento, não de processo; falam de **cadeias** e **prisões**, não de estados; e a dependência clara de 1 Enoque (com seus Vigilantes mitológicos) confirma que os autores trabalham com um imaginário **literal-narrativo**, não simbólico-pedagógico. A leitura espírita exige **trabalho hermenêutico ativo** (releitura à luz do conjunto da revelação, contexto cultural do I século, regra de Kardec) — não brota espontaneamente do texto. Por isso a divergência fica **aberta**: registrada, com a chave de leitura proposta, mas sem pretender que a tensão se dissolva apenas pela leitura.
 
 ## Status
 

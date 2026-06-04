@@ -2,13 +2,13 @@
 tipo: questao
 fontes: [LE]
 tags: [espiritos, individualidade, unicidade, livre-arbitrio, responsabilidade, alma, obra/le, autor/kardec, grau/intermediario, tema/espiritos, tema/livre-arbitrio]
-atualizado_em: 2026-05-31
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Unicidade do Espírito
 
-Questão 366 do *Livro dos Espíritos*, na subseção "Faculdades morais e intelectuais do homem" do Cap. VII (Parte 2). Refuta uma tese que circulava no século XIX — e que reaparece sob outras roupagens: a de que as várias faculdades e aptidões do homem resultariam da encarnação simultânea de **vários Espíritos**, cada um com uma especialidade. A resposta dos Espíritos a declara "absurda" e fixa um princípio basilar: **um só Espírito anima cada homem**, e dessa unidade dependem a individualidade, a vontade única e a responsabilidade moral.
+Questão 366 do *Livro dos Espíritos*, na subseção "Faculdades morais e intelectuais do homem" do Cap. VII (Parte 2). Refuta uma tese que circulava no século XIX — e que reaparece sob outras roupagens: a de que as várias faculdades e aptidões do homem resultariam da encarnação simultânea de **vários Espíritos**, cada um com uma especialidade. A resposta dos Espíritos a declara "absurda" e fixa um princípio basilar: **um só Espírito anima cada homem**, e dessa unidade dependem a individualidade, a vontade única e a [[wiki/conceitos/responsabilidade|responsabilidade moral]].
 
 ## Pergunta
 

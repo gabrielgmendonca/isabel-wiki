@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, chico-xavier, evangelho, comentarios-evangelicos, coletanea-evangelica, fonte-viva, pao-nosso, vinha-de-luz, autor/emmanuel, autor/chico-xavier, tema/jesus, tema/moral, tema/historia-doutrina, grau/avancado]
-atualizado_em: 2026-05-05
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Coleção Fonte Viva — as cinco coletâneas evangélicas de Emmanuel
@@ -28,9 +28,9 @@ Internamente, a [[wiki/personalidades/emmanuel|wiki trata as quatro primeiras (1
 
 ### O que une as cinco obras
 
-#### 1. Forma do Pentateuco kardequiano
+#### 1. Forma do Pentateuco de Kardec
 
-Todas seguem rigorosamente o padrão epígrafe + comentário inaugurado por Kardec em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] e [[wiki/obras/livro-dos-espiritos|LE]]: **uma frase bíblica abre o capítulo, o comentário a desdobra em meditação aplicada**. A diferença em relação ao ESE é o registro: Emmanuel não comenta sistematicamente Kardec, comenta o Evangelho — mas o faz **dentro do quadro doutrinário kardequiano**, sem reabrir nenhum dos pontos já fixados. O proêmio de *Palavras de Vida Eterna* (Uberaba, 14/09/1964) torna a relação explícita:
+Todas seguem rigorosamente o padrão epígrafe + comentário inaugurado por Kardec em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] e [[wiki/obras/livro-dos-espiritos|LE]]: **uma frase bíblica abre o capítulo, o comentário a desdobra em meditação aplicada**. A diferença em relação ao ESE é o registro: Emmanuel não comenta sistematicamente Kardec, comenta o Evangelho — mas o faz **dentro do quadro doutrinário de Kardec**, sem reabrir nenhum dos pontos já fixados. O proêmio de *Palavras de Vida Eterna* (Uberaba, 14/09/1964) torna a relação explícita:
 
 > "Estamos agrupados nestas páginas (…) procurando o sentido de teus ensinamentos com as chaves da Doutrina Espírita, que nos legaste pelas mãos de Allan Kardec." (PVE, proêmio)
 
@@ -85,9 +85,9 @@ A leitura comparada revela **um movimento doutrinário interno** ao quinteto, n�
 
 ## Conclusão
 
-A "Coleção Fonte Viva" é o **corpo evangélico-pastoral mais sistemático do par Emmanuel/Chico Xavier** — 900 capítulos curtos que constituem, em conjunto, um comentário praticamente integral ao Novo Testamento à luz da Doutrina Espírita. As cinco obras compartilham forma (Pentateuco kardequiano), função (alimento devocional cotidiano), hermenêutica (primazia paulina) e quadro doutrinário (subordinação explícita a Kardec, sem nenhuma divergência identificada). Cada uma desloca o eixo das anteriores sem contradizê-las: trabalho-prece (CVV) → trabalho-serviço (PNV) → hermenêutica-vigilância (VL) → renovação interior (FV) → recomeço-reajuste (PVE), num arco de dezesseis anos que vai do programa de fundação ao tratamento explícito da reencarnação como matriz pastoral.
+A "Coleção Fonte Viva" é o **corpo evangélico-pastoral mais sistemático do par Emmanuel/Chico Xavier** — 900 capítulos curtos que constituem, em conjunto, um comentário praticamente integral ao Novo Testamento à luz da Doutrina Espírita. As cinco obras compartilham forma (Pentateuco de Kardec), função (alimento devocional cotidiano), hermenêutica (primazia paulina) e quadro doutrinário (subordinação explícita a Kardec, sem nenhuma divergência identificada). Cada uma desloca o eixo das anteriores sem contradizê-las: trabalho-prece (CVV) → trabalho-serviço (PNV) → hermenêutica-vigilância (VL) → renovação interior (FV) → recomeço-reajuste (PVE), num arco de dezesseis anos que vai do programa de fundação ao tratamento explícito da reencarnação como matriz pastoral.
 
-A função doutrinária do conjunto na hierarquia da wiki é nível 3 (consagrados) — leitura **complementar** ao Pentateuco kardequiano, jamais substitutiva. O valor próprio das cinco obras está em **traduzir a doutrina em prática diária**: o que LE/ESE/Gênese estabelecem como princípio, a Coleção Fonte Viva oferece como exercício devocional. Quem deseja sustentar vida cristã-espírita ao longo dos anos sem se ressecar nem na erudição nem no fenomenismo encontra aqui um cânon devocional sem equivalente na bibliografia espírita.
+A função doutrinária do conjunto na hierarquia da wiki é nível 3 (consagrados) — leitura **complementar** ao Pentateuco de Kardec, jamais substitutiva. O valor próprio das cinco obras está em **traduzir a doutrina em prática diária**: o que LE/ESE/Gênese estabelecem como princípio, a Coleção Fonte Viva oferece como exercício devocional. Quem deseja sustentar vida cristã-espírita ao longo dos anos sem se ressecar nem na erudição nem no fenomenismo encontra aqui um cânon devocional sem equivalente na bibliografia espírita.
 
 ## Páginas referenciadas
 

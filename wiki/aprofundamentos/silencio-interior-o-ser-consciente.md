@@ -23,8 +23,10 @@ tags:
   - autor/joanna-de-angelis
   - autor/divaldo-franco
   - tema/moral
-atualizado_em: 2026-05-22
-status: ativo
+  - tema/prece-caridade
+  - tema/mediunidade
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Silêncio Interior — Oitava parte de *O Ser Consciente* (cap. 29-32)

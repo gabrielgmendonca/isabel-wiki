@@ -2,8 +2,8 @@
 tipo: aprofundamento
 fontes: [ESE, LE]
 tags: [caridade, salvacao, humildade, egoismo, maximas, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/avancado, tema/moral, tema/jesus, tema/prece-caridade]
-atualizado_em: 2026-06-01
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Fora da caridade não há salvação

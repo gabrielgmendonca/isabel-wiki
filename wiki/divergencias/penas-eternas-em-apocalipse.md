@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: ["C&I", LE, NT]
 tags: [divergencia, penas-eternas, lago-de-fogo, segunda-morte, apocalipse, joao, autor/joao, autor/kardec, obra/ci, obra/le, grau/avancado, tema/vida-futura]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -48,7 +48,7 @@ A síntese kardequiana das características das penas futuras (C&I, 1ª parte, c
 | Natureza | **Medicinais**, não vingativas |
 | Lugar | **Estado moral**, não lugar físico ([[wiki/conceitos/inferno]]) |
 
-Kardec é explícito quanto à terminologia bíblica: a palavra grega *aiōnios* (traduzida por "eterno") significa, em muitas passagens, **duração longa e indeterminada**, não perpétua em sentido absoluto (ESE cap. III, item 6). A construção apocalíptica *"para todo o sempre"* (gr. *eis aiōnas aiōnōn*, "pelos séculos dos séculos") tem na linguagem judaico-cristã do I século o sentido de **duração extensa**, paralela ao "eternamente" hebraico (*'olam*) — não infinitude metafísica em sentido tomista posterior.
+Kardec é explícito quanto à terminologia bíblica: a palavra grega *aiōnios* (traduzida por "eterno") significa, em muitas passagens, **duração longa e indeterminada**, não perpétua em sentido absoluto (C&I, 1ª parte, cap. VII, item 15). A construção apocalíptica *"para todo o sempre"* (gr. *eis aiōnas aiōnōn*, "pelos séculos dos séculos") tem na linguagem judaico-cristã do I século o sentido de **duração extensa**, paralela ao "eternamente" hebraico (*'olam*) — não infinitude metafísica em sentido tomista posterior.
 
 ## Posição tradicional (leitura literal)
 

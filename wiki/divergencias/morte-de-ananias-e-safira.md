@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, C&I, ESE, Gênese, NT]
 tags: [divergencia, justica-divina, penas-temporarias, atos, ananias, obra/le, obra/ci, obra/ese, obra/genese, autor/kardec, grau/avancado, tema/sofrimento, tema/vida-futura]
-atualizado_em: 2026-06-01
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -54,7 +54,7 @@ Duas camadas:
 
 - **Doutrinária.** Mesmo aceitando o fato histórico, a **leitura espírita desnatura o quadro punitivo**:
   - A morte, se ocorreu, foi **consequência natural** (choque, remorso súbito materializado em colapso cardíaco), não sentença divina. Kardec admite que estados morais agudos afetam o corpo pela mediação do perispírito (Gênese, cap. XIV).
-  - A **responsabilidade moral dos envolvidos persiste depois da desencarnação**. Ananias e Safira continuam sua jornada no erraticidade, precisando reparar o orgulho, a mentira e o apego. A morte não liquida a falta — apenas abre novo capítulo (C&I, 2ª parte, *passim*).
+  - A **responsabilidade moral dos envolvidos persiste depois da desencarnação**. Ananias e Safira continuam sua jornada na [[wiki/conceitos/erraticidade|erraticidade]], precisando reparar o orgulho, a mentira e o apego. A morte não liquida a falta — apenas abre novo capítulo (C&I, 2ª parte, *passim*).
   - Pedro não matou; **denunciou**. O choque subsequente é da própria consciência, não ato taumatúrgico letal. A moldura narrativa de Lucas é que atribui a Deus o que é efeito natural agravado por grave culpa íntima.
 
 A divergência é **real quanto à atribuição causal** (morte como castigo divino direto) e **de reinterpretação quanto ao significado** (o episódio ensina, legitimamente, sobre a gravidade da hipocrisia na caridade — mas sem exigir Deus verdugo).

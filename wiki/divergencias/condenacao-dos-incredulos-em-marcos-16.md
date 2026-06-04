@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [ESE, "C&I", NT]
 tags: [divergencia, fe, incredulidade, penas-futuras, marcos, obra/ese, obra/ci, autor/kardec, grau/avancado, tema/jesus, tema/vida-futura]
-atualizado_em: 2026-05-31
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -34,12 +34,12 @@ A teologia católica medieval e a protestante pós-reforma sustentaram, com base
 
 ## Análise
 
-A divergência é **doutrinária**, não de crítica textual. Mesmo admitindo Mc 16:16 como palavra de Jesus, a leitura kardequiana é **alegórica e moral**: a condenação é a consequência natural da recusa em mudar, não decreto divino arbitrário. O "condenado" é o Espírito que, por obstinação, prolonga o próprio sofrimento (C&I, 1ª parte, cap. VII). O próprio *Livro dos Espíritos* trata as ameaças do Cristo como "palavras emblemáticas" — "tomadas ao pé da letra [...] absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado eternamente" (LE, q. 1009). Coerente com a recusa de Kardec ao inferno-lugar e ao castigo eterno.
+A divergência é **doutrinária**, não de crítica textual. Mesmo admitindo Mc 16:16 como palavra de Jesus, a leitura de Kardec é **alegórica e moral**: a condenação é a consequência natural da recusa em mudar, não decreto divino arbitrário. O "condenado" é o Espírito que, por obstinação, prolonga o próprio sofrimento (C&I, 1ª parte, cap. VII). O próprio *Livro dos Espíritos* trata as ameaças do Cristo como "palavras emblemáticas" — "tomadas ao pé da letra [...] absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado eternamente" (LE, q. 1009). Coerente com a recusa de Kardec ao inferno-lugar e ao [[wiki/conceitos/penas-eternas|castigo eterno]].
 
-Trata-se, portanto, de **divergência com a tradição dogmática literalista**, não com o Evangelho em si: o conflito é com a leitura que faz da incredulidade pecado capital e da pena um decreto eterno, não com o ensino moral de Jesus. A posição kardequiana mantém-se firme: a salvação é universal em potência, a fé é [[wiki/conceitos/fe-raciocinada|raciocinada]] e a pena é sempre medicinal.
+Trata-se, portanto, de **divergência com a tradição dogmática literalista**, não com o Evangelho em si: o conflito é com a leitura que faz da incredulidade pecado capital e da pena um decreto eterno, não com o ensino moral de Jesus. A posição de Kardec mantém-se firme: a salvação é universal em potência, a fé é [[wiki/conceitos/fe-raciocinada|raciocinada]] e a pena é sempre medicinal.
 
 > [!note] Nota textual
-> O final longo de Marcos (Mc 16:9–20) está ausente dos manuscritos mais antigos (Sinaítico, Vaticano) e é tido, pela crítica textual moderna, como **adição posterior** (aparato crítico de Nestle-Aland, 28. ed.; Metzger, *A Textual Commentary on the Greek New Testament*, ad Mc 16:9–20). A ACF, seguindo o *Textus Receptus*, inclui-o como canônico — por isso a passagem figura na wiki. O argumento não é de Kardec, e a refutação kardequiana **não depende dele**: vale mesmo admitindo a passagem como autêntica.
+> O final longo de Marcos (Mc 16:9–20) está ausente dos manuscritos mais antigos (Sinaítico, Vaticano) e é tido, pela crítica textual moderna, como **adição posterior** (aparato crítico de Nestle-Aland, 28. ed.; Metzger, *A Textual Commentary on the Greek New Testament*, ad Mc 16:9–20). A ACF, seguindo o *Textus Receptus*, inclui-o como canônico — por isso a passagem figura na wiki. O argumento não é de Kardec, e a refutação de Kardec **não depende dele**: vale mesmo admitindo a passagem como autêntica.
 
 ## Status
 

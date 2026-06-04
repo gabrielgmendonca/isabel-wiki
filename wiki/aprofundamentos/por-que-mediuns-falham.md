@@ -2,8 +2,8 @@
 tipo: aprofundamento
 fontes: [André Luiz/Chico Xavier, LE, LM, ESE]
 tags: [mediunidade, fracasso-mediunico, responsabilidade-mediunica, missao, andre-luiz, os-mensageiros, obra/le, obra/lm, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/avancado, lei/reproducao, lei/trabalho, tema/mediunidade]
-atualizado_em: 2026-06-02
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Por que os médiuns falham — análise dos casos paradigmáticos de *Os Mensageiros*

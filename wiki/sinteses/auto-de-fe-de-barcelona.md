@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [RE]
 tags: [auto-de-fe-barcelona, kardec, persegucao, igreja-catolica, propagacao, evento-historico, obra/re, autor/kardec, grau/avancado, tema/historia-doutrina]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-06-03
 status: ativo
 ---
 
@@ -108,11 +108,11 @@ O Auto-de-fé articula-se com vários pontos doutrinários do Pentateuco:
 
 ## Conclusão
 
-O Auto-de-fé de 09/10/1861 foi o **primeiro choque institucional externo** da codificação. Antes dele, as polêmicas com Figuier (1860), com Mirville e com a imprensa católica francesa eram debates editoriais; o Auto-de-fé é evento físico, público, ritual. A leitura kardequiana **não o trata como derrota**, mas como prova de que a doutrina atingiu massa crítica suficiente para gerar reação institucional, e como mecanismo de divulgação involuntária — *"quanto mais perseguições houver, tanto mais depressa esta sublime doutrina chegará ao apogeu"* (Dollet).
+O Auto-de-fé de 09/10/1861 foi o **primeiro choque institucional externo** da codificação. Antes dele, as polêmicas com Figuier (1860), com Mirville e com a imprensa católica francesa eram debates editoriais; o Auto-de-fé é evento físico, público, ritual. A leitura de Kardec **não o trata como derrota**, mas como prova de que a doutrina atingiu massa crítica suficiente para gerar reação institucional, e como mecanismo de divulgação involuntária — *"quanto mais perseguições houver, tanto mais depressa esta sublime doutrina chegará ao apogeu"* (Dollet).
 
 A previsão de Kardec se confirmou no curto prazo — o eco na imprensa espanhola, depois argentina, mexicana, catalã e brasileira fez muito mais pelo Espiritismo na América hispânica que qualquer campanha planejada poderia. Em 1862, durante a [[wiki/obras/viagem-espirita-em-1862|Viagem Espírita pela França]], Kardec relata explicitamente o **efeito multiplicador** do Auto-de-fé sobre a curiosidade pública. O Espiritismo na Espanha cresceria nas décadas seguintes apesar — ou por causa — do choque de 1861.
 
-A frase *"penhor de vosso próximo triunfo"* fixa o quadro de leitura kardequiano para todas as perseguições posteriores: a doutrina é robusta porque distribuída, descentralizada e fundada na ideia, não em organização institucional vulnerável. As fogueiras de Barcelona não destruíram nada que tenha consequência — Kardec havia organizado a Sociedade de Paris precisamente para que ela **não fosse indispensável** ao Espiritismo (RE dez/1861, "Organização do Espiritismo"), justamente prevendo cenários como esse.
+A frase *"penhor de vosso próximo triunfo"* fixa o quadro de leitura de Kardec para todas as perseguições posteriores: a doutrina é robusta porque distribuída, descentralizada e fundada na ideia, não em organização institucional vulnerável. As fogueiras de Barcelona não destruíram nada que tenha consequência — Kardec havia organizado a Sociedade de Paris precisamente para que ela **não fosse indispensável** ao Espiritismo (RE dez/1861, "Organização do Espiritismo"), justamente prevendo cenários como esse.
 
 ## Páginas referenciadas
 

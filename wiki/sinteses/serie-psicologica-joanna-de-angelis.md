@@ -31,8 +31,8 @@ tags:
   - obra/le
   - obra/lm
   - obra/ese
-atualizado_em: 2026-05-09
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Síntese — Série Psicológica de Joanna de Ângelis

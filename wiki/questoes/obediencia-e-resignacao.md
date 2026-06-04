@@ -1,9 +1,9 @@
 ---
 tipo: questao
 fontes: [ESE]
-tags: [obediencia, resignacao, virtudes, brandura, jesus, obra/ese, autor/kardec, grau/introdutorio, tema/moral, lei/liberdade, lei/progresso]
-atualizado_em: 2026-05-08
-status: ativo
+tags: [obediencia, resignacao, virtudes, brandura, jesus, obra/ese, autor/kardec, grau/introdutorio, tema/moral, lei/liberdade, lei/progresso, tema/jesus]
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Obediência e resignação

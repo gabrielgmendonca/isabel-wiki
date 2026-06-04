@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE]
 tags: [espiritos, cerebro, organismo, faculdades, frenologia, materialismo, livre-arbitrio, perispirito, obra/le, autor/kardec, grau/intermediario, tema/espiritos, tema/livre-arbitrio]
-atualizado_em: 2026-05-31
+atualizado_em: 2026-06-03
 status: ativo
 ---
 
@@ -36,7 +36,7 @@ Esse é exatamente o mesmo movimento lógico da [[wiki/questoes/unicidade-do-esp
 
 ### Influência sim, origem não
 
-A doutrina não é espiritualismo ingênuo que negue o corpo. A q. 370a corrige quem leria a resposta como se a matéria nada pesasse: o termo "unicamente" "não exprime com toda a exatidão". O Espírito é o princípio das faculdades, mas "cumpre se leve em conta a influência da matéria, que mais ou menos lhe cerceia o exercício". O corpo é filtro e resistência — "como vidro muito opaco" à luz (q. 367), ou "um charco lodoso" que tira a liberdade dos movimentos (q. 367, comentário). A matéria **modula** a manifestação; não a **gera**.
+A doutrina não é espiritualismo ingênuo que negue o corpo. A q. 370a corrige quem leria a resposta como se a matéria nada pesasse: o termo "unicamente" "não exprime com toda a exatidão". O Espírito é o princípio das faculdades, mas "cumpre se leve em conta a influência da matéria, que mais ou menos lhe cerceia o exercício". O corpo é filtro e resistência — "como vidro muito opaco" à luz (q. 368a), ou "um charco lodoso" que tira a liberdade dos movimentos (q. 368, comentário). A matéria **modula** a manifestação; não a **gera**.
 
 A subseção sobre idiotismo e loucura (q. 371–375) dá a essa distinção sua forma mais forte. A alma dos cretinos e idiotas não é inferior (q. 371): o Espírito está íntegro, mas "sofre da insuficiência dos meios de que dispõe para se comunicar". A imagem é decisiva: "Um músico excelente, com um instrumento defeituoso, não dará a ouvir boa música, o que não fará que deixe de ser bom músico" (q. 372a). Órgão avariado prejudica a execução, não a competência do executante — prova viva de que faculdade e órgão são coisas distintas.
 

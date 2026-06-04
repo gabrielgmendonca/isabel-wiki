@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE]
 tags: [encarnacao, expiacao, missao, progresso-espiritual, perfeicao-moral, obra-da-criacao, obra/le, autor/kardec, grau/introdutorio, tema/encarnacao, lei/progresso, lei/sociedade, lei/trabalho]
-atualizado_em: 2026-05-07
+atualizado_em: 2026-06-03
 status: ativo
 ---
 
@@ -55,12 +55,12 @@ O segundo parágrafo da resposta introduz uma tese que poucos comentários espí
 Três consequências:
 
 1. **A encarnação não é apenas remediativa.** O Espírito não vem ao corpo só porque "precisa" — vem também porque a obra da criação **precisa dele**. O universo não está pronto sem a participação de seres conscientes que o conduzam adiante.
-2. **O corpo é instrumento adequado a cada mundo.** "Em cada mundo, toma o Espírito um instrumento em harmonia com a matéria essencial desse mundo." Isso fundamenta a doutrina kardequiana da [[wiki/conceitos/pluralidade-dos-mundos-habitados|pluralidade dos mundos habitados]] e da gradação dos corpos: o corpo carnal terreno é apropriado ao estágio dos Espíritos da Terra; em [[wiki/conceitos/mundos-felizes|mundos felizes]] o corpo é menos grosseiro (cf. LE, q. 187, 223).
+2. **O corpo é instrumento adequado a cada mundo.** "Em cada mundo, toma o Espírito um instrumento em harmonia com a matéria essencial desse mundo." Isso fundamenta a doutrina de Kardec da [[wiki/conceitos/pluralidade-dos-mundos-habitados|pluralidade dos mundos habitados]] e da gradação dos corpos: o corpo carnal terreno é apropriado ao estágio dos Espíritos da Terra; em [[wiki/conceitos/mundos-felizes|mundos felizes]] o corpo é menos grosseiro (cf. LE, q. 187, 223).
 3. **Concorrer para a obra geral é o mecanismo do progresso.** "É assim que, concorrendo para a obra geral, ele próprio se adianta." O progresso individual não é caminho separado — é **subproduto** da participação na obra de Deus. Quem se recolhe pretendendo evoluir em isolamento, perde a engrenagem.
 
 ### O comentário de Kardec — solidariedade como lei da Providência
 
-O comentário, muitas vezes lido de passagem, contém uma das formulações mais condensadas da ética kardequiana do trabalho criador:
+O comentário, muitas vezes lido de passagem, contém uma das formulações mais condensadas da ética de Kardec do trabalho criador:
 
 > "A ação dos seres corpóreos é necessária à marcha do universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na natureza."
 
@@ -75,7 +75,7 @@ A frase "a parte que lhe toca na obra da criação" recebe um desdobramento de l
 1. **Co-criação em plano maior** — exercida pelas "Inteligências Divinas" agregadas ao Senhor Supremo (os Arcanjos da tradição cristã, os Devas da hindu), que extraem do fluido cósmico "os celeiros da energia com que constroem os sistemas da Imensidade" — galáxias, sóis, mundos. São "agentes orientadores da Criação Excelsa".
 2. **Co-criação em plano menor** — exercida pelas "Inteligências humanas que ombreiam conosco", que usam o mesmo fluido cósmico para "assimilar os corpúsculos da matéria com a energia espiritual", **formando o veículo fisiopsicossomático em que se exprimem ou cunhando as civilizações que abrangem no mundo a Humanidade Encarnada e a Humanidade Desencarnada**.
 
-O limite é explicitado sem ambiguidade — preserva a hierarquia kardequiana de Deus como causa primária absoluta (LE, q. 1):
+O limite é explicitado sem ambiguidade — preserva a hierarquia de Kardec de Deus como causa primária absoluta (LE, q. 1):
 
 > "O Espírito Criado pode formar ou co-criar, mas só Deus é o Criador de Toda a Eternidade." (André Luiz / Chico Xavier + Waldo Vieira, *Evolução em Dois Mundos*, parte I, cap. 1)
 

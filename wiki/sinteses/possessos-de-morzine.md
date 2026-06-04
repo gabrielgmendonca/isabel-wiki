@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [RE, LM]
 tags: [morzine, possessos, obsessao-coletiva, saboia, viagem-1862, patologia, exorcismo, demonomania, tema/mediunidade, tema/historia-doutrina, autor/kardec, grau/avancado, obra/re, obra/lm]
-atualizado_em: 2026-05-01
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Os possessos de Morzine — caso paradigmático de obsessão coletiva

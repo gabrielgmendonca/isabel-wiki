@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [ESE, NT]
 tags: [prece, decisao, melhoria-moral, paciencia, resignacao, fe, lei/adoracao, tema/prece-caridade, grau/introdutorio, obra/ese, autor/kardec, autor/tiago]
-atualizado_em: 2026-05-05
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # O que devemos pedir na prece?

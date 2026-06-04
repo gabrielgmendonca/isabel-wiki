@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, OPE, Gênese, NT]
 tags: [divergencia, cristologia, jesus, deus, paulo, filipenses, kenose, trindade, calcedonia, obra/le, obra/ope, obra/genese, autor/kardec, autor/paulo, grau/avancado, lei/adoracao, tema/jesus]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -75,7 +75,7 @@ A historiografia moderna confirma: a fórmula homoousios não está no NT, foi c
 
 > "Os milagres não provam a divindade. São fenômenos naturais explicáveis pelo magnetismo, fluidos e faculdades psíquicas — presentes em muitos indivíduos, inclusive 'heréticos e idólatras'. A própria Igreja, ao atribuir milagres ao demônio, retira deles o caráter exclusivamente divino." (OPE §II, paráfrase)
 
-[[wiki/obras/genese|*A Gênese*]] cap. XV ("Os fluidos") sistematiza: as curas, possessos, transfiguração e desaparecimento do corpo são **fenômenos fluídicos**, atribuíveis à elevadíssima ordem espiritual de Jesus, mas **explicáveis por leis naturais**, não por suspensão miraculosa delas. A "superioridade da natureza de Jesus" (cap. XV) é **superioridade de Espírito**, não consubstancialidade ontológica com Deus.
+[[wiki/obras/genese|*A Gênese*]] cap. XV ("Os milagres do Evangelho") sistematiza: as curas, possessos, transfiguração e desaparecimento do corpo são **fenômenos fluídicos**, atribuíveis à elevadíssima ordem espiritual de Jesus, mas **explicáveis por leis naturais**, não por suspensão miraculosa delas. A "superioridade da natureza de Jesus" (cap. XV) é **superioridade de Espírito**, não consubstancialidade ontológica com Deus.
 
 ### 7. Jesus governador espiritual da Terra (Emmanuel)
 

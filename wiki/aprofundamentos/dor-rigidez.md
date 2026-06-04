@@ -2,8 +2,8 @@
 tipo: aprofundamento
 fontes: [LE, ESE, C&I, NT, Hammed/Francisco do Espírito Santo Neto, André Luiz/Chico Xavier]
 tags: [rigidez, dores-da-alma, paixoes, teimosia, severidade, fanatismo, pena-de-morte, flexibilidade, espiritos-endurecidos, conversao-de-saulo, hammed, francisco-espirito-santo-neto, obra/le, obra/ese, obra/ci, lei/conservacao, lei/destruicao, lei/justica-amor-caridade, autor/kardec, autor/hammed, autor/paulo, autor/andre-luiz, autor/chico-xavier, grau/avancado, tema/moral, tema/sofrimento, tema/jesus]
-atualizado_em: 2026-05-10
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Dor: Rigidez

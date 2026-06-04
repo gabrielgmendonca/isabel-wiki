@@ -2,7 +2,7 @@
 tipo: aprofundamento
 fontes: [LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, RE]
 tags: [aborto, encarnacao, perispirito, planejamento-reencarnatorio, lei/reproducao, obra/le, obra/re, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, grau/avancado, tema/encarnacao, tema/sociedade, lei/destruicao]
-atualizado_em: 2026-05-07
+atualizado_em: 2026-06-03
 status: rascunho
 ---
 
@@ -58,7 +58,7 @@ Quatro pontos doutrinariamente decisivos:
 
 - **A consequência para o Espírito reencarnante é "existência nula".** Não há agravamento moral no Espírito que perde o corpo (ele é vítima, não réu); há prejuízo de oportunidade. As provas e a missão programadas ficam adiadas para nova reencarnação. Princípio coerente com q. 349 ("nem sempre é suprida imediatamente").
 - **A criminalidade independe do período da gestação.** "Em qualquer período" — o argumento que sustenta a permissão até a 12ª/14ª/22ª semana, conforme legislações modernas, não tem amparo na doutrina codificada. O laço fluídico existe desde a concepção (q. 344); a interrupção em qualquer momento da gestação rompe o pacto.
-- **A culpa recai sobre quem provoca, não sobre o Espírito.** A formulação "uma mãe, **ou quem quer que seja**" é importante: pais que pressionam, parceiros que abandonam, médicos que executam, Estados que coagem — todos os agentes da provocação compartilham responsabilidade. A redução jurídica moderna do crime ao corpo da gestante é estranha à formulação kardequiana.
+- **A culpa recai sobre quem provoca, não sobre o Espírito.** A formulação "uma mãe, **ou quem quer que seja**" é importante: pais que pressionam, parceiros que abandonam, médicos que executam, Estados que coagem — todos os agentes da provocação compartilham responsabilidade. A redução jurídica moderna do crime ao corpo da gestante é estranha à formulação de Kardec.
 - **O critério moral é "impedir uma alma de passar pelas provas".** Não é o "matar uma vida humana" no sentido católico (a "alma plena" só está completa ao nascer), nem o "remover um aglomerado celular" no sentido secular (o laço fluídico já está estabelecido). É uma terceira posição: **o aborto provocado é crime contra a economia reencarnatória** — interrompe um plano de provas pactuado entre o Espírito que reencarna e a Espiritualidade que o assiste.
 
 ### 4. O caso de risco à vida da mãe (q. 359)
@@ -138,7 +138,7 @@ Kardec não casuístiza, mas os princípios fixados em q. 344-360 e q. 750-751 p
 
 ## Síntese
 
-A doutrina kardequiana sobre o aborto se articula em **seis princípios**:
+A doutrina de Kardec sobre o aborto se articula em **seis princípios**:
 
 1. **A união alma-corpo começa na concepção** por laço fluídico, e só se completa com a respiração ao nascimento (LE q. 344).
 2. **O feto não tem alma plena, mas está ligado à alma que virá a possuir** — não é coisa, não é pessoa completa (LE q. 353).
@@ -156,7 +156,7 @@ A doutrina é **conservadora em substância** (não relativiza o crime, não aut
 - **Não converter silêncio doutrinário em condenação** — Kardec não tratou estupro, anencefalia, gestação ectópica. O estudante que apresenta esses temas como "Kardec ensinou que…" inventa doutrina. A leitura honesta é "Kardec fixou estes princípios; segue-se que…" — com a humildade de reconhecer onde a aplicação exige discernimento.
 - **q. 359 é parte do ensino, não exceção menor** — palestras que apresentam o aborto como "crime sempre, sem exceção" silenciam o próprio Kardec. Risco real à vida da mãe é caso autorizado, e o argumento ontológico ("ainda não existe / já existe") merece ser exposto.
 - **A cláusula evangélica de misericórdia é universal** — quem passou pelo ato não deve ser tratado como impuro permanente. André Luiz e Emmanuel são explícitos: a renovação do destino é diária, e a caridade cobre a multidão de males.
-- **O critério é a economia reencarnatória, não o vitalismo biológico** — distinção importante para o diálogo com posições católicas (que se ancoram na "alma desde a concepção" no sentido pleno) e seculares (que se ancoram em viabilidade neurológica). A posição kardequiana é uma terceira via: laço fluídico desde a concepção, encarnação plena ao nascer, crime quando a interrupção rompe o pacto reencarnatório.
+- **O critério é a economia reencarnatória, não o vitalismo biológico** — distinção importante para o diálogo com posições católicas (que se ancoram na "alma desde a concepção" no sentido pleno) e seculares (que se ancoram em viabilidade neurológica). A posição de Kardec é uma terceira via: laço fluídico desde a concepção, encarnação plena ao nascer, crime quando a interrupção rompe o pacto reencarnatório.
 - **Acolhimento prático** — gestantes em situação difícil que procuram a casa espírita precisam de orientação informada, não de juízo. Os autores nível 3 (Emmanuel especialmente) modelam o tom: clareza doutrinária sem condenação pessoal, "abstende-vos de censura e condenação" (Emmanuel, *Vida e Sexo*, cap. 26).
 
 **Comparações e desdobramentos futuros:**
@@ -167,11 +167,11 @@ A doutrina é **conservadora em substância** (não relativiza o crime, não aut
 
 ## Conceitos relacionados
 
-- [[wiki/conceitos/encarnacao]] — moldura kardequiana ampla (LE q. 344-345 como abertura)
+- [[wiki/conceitos/encarnacao]] — moldura de Kardec ampla (LE q. 344-345 como abertura)
 - [[wiki/conceitos/reencarnacao]] — pacto reencarnatório que o aborto interrompe
 - [[wiki/conceitos/perispirito]] — laço fluídico desde a concepção
 - [[wiki/conceitos/planejamento-reencarnatorio]] — fenomenologia detalhada (Missionários da Luz, caps. 13-15)
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686-701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura de Kardec (LE q. 686-701)
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — economia das sequelas
 - [[wiki/conceitos/expiacao-e-reparacao]] — porta evangélica da misericórdia
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — eixo fisiológico, *Evolução em Dois Mundos* parte II caps. 13-14

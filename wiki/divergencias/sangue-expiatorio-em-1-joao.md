@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
 tags: [divergencia, joao, expiacao, propiciacao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, obra/le, obra/ese, obra/ci, autor/joao, autor/kardec, grau/avancado, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -77,7 +77,7 @@ A própria categoria de "dívida infinita ofendida" pressupõe um Deus passível
 
 > "Em vez do sacrifício sangrento, abominável aos olhos do Senhor, ofereceis o sacrifício do coração e este lhe é agradável." (Espíritos comunicantes, em ESE cap. XXVII, item 14)
 
-Kardec é explícito em ESE cap. XXVII e em OPE: o "sacrifício de Cristo" tem valor **moral e pedagógico** — exemplo do amor levado às últimas consequências (cf. 1 Jo 3:16, "ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos"). Não tem valor jurídico-substitutivo. O "sangue" do Cristo é, na linguagem kardequiana, **alegoria** do exemplo de doação total — e o concurso espiritual de Jesus (como guia e diretor moral do planeta, ESE Introdução) auxilia o Espírito **no caminho próprio**, não no lugar dele.
+Kardec é explícito em ESE cap. XXVII e em OPE: o "sacrifício de Cristo" tem valor **moral e pedagógico** — exemplo do amor levado às últimas consequências (cf. 1 Jo 3:16, "ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos"). Não tem valor jurídico-substitutivo. O "sangue" do Cristo é, na linguagem de Kardec, **alegoria** do exemplo de doação total — e o concurso espiritual de Jesus (como guia e diretor moral do planeta, ESE Introdução) auxilia o Espírito **no caminho próprio**, não no lugar dele.
 
 ## Análise
 

@@ -2,7 +2,7 @@
 tipo: questao
 fontes: [LE]
 tags: [sensacao, perispirito, vida-futura, sofrimento, desencarnacao, livre-arbitrio, suicidio, reminiscencia, obra/le, autor/kardec, grau/intermediario, tema/vida-futura, tema/sofrimento, tema/encarnacao]
-atualizado_em: 2026-05-27
+atualizado_em: 2026-06-03
 status: ativo
 ---
 
@@ -22,7 +22,7 @@ O caso do suicida — único exemplo nominal do ensaio — testa a teoria contra
 
 > "Disse-nos, certa vez, um suicida: 'Não, não estou morto.' E acrescentava: No entanto, sinto os vermes a me roerem. Ora, indubitavelmente, os vermes não lhe roíam o perispírito e ainda menos o Espírito; roíam-lhe apenas o corpo. Como, porém, não era completa a separação do corpo e do perispírito, uma espécie de repercussão moral se produzia, transmitindo ao Espírito o que estava ocorrendo no corpo." (LE, q. 257)
 
-E o ensaio se fecha com a única exortação direta ao leitor que aparece em todo o capítulo III da Parte 2:
+E o ensaio se fecha com a única exortação direta ao leitor que aparece em todo o capítulo VI da Parte 2:
 
 > "Dome suas paixões animais; não alimente ódio, nem inveja, nem ciúme, nem orgulho; não se deixe dominar pelo egoísmo; purifique-se, nutrindo bons sentimentos; pratique o bem; não ligue às coisas deste mundo importância que não merecem; e, então, embora revestido do envoltório corporal, já estará depurado, já estará liberto do jugo da matéria e, quando deixar esse envoltório, não mais lhe sofrerá a influência." (LE, q. 257)
 
@@ -70,7 +70,7 @@ O exemplo do suicida ("sinto os vermes a me roerem") é o caso paradigmático do
 
 > "Assim, pois, não haveria no caso uma reminiscência, porquanto ele não fora, em vida, roído pelos vermes: havia o sentimento de um fato da atualidade." (LE, q. 257)
 
-O cuidado é importante: o sofrimento dos suicidas — uma das observações empíricas mais marcantes que o espiritismo nascente coletava à época — não é castigo arbitrário nem invenção pedagógica, mas **consequência mecânica** da forma como deixaram o corpo. O desligamento abrupto, antes do termo natural, mantém o perispírito amarrado por mais tempo, e durante esse tempo o Espírito experimenta, por repercussão, o que o corpo padece. A doutrina kardequiana do [[wiki/conceitos/suicidio|suicídio]] se ancora nessa mecânica, não em condenação moral.
+O cuidado é importante: o sofrimento dos suicidas — uma das observações empíricas mais marcantes que o espiritismo nascente coletava à época — não é castigo arbitrário nem invenção pedagógica, mas **consequência mecânica** da forma como deixaram o corpo. O desligamento abrupto, antes do termo natural, mantém o perispírito amarrado por mais tempo, e durante esse tempo o Espírito experimenta, por repercussão, o que o corpo padece. A doutrina de Kardec sobre o [[wiki/conceitos/suicidio|suicídio]] se ancora nessa mecânica, não em condenação moral.
 
 Kardec ressalva a palavra "repercussão" — "talvez não seja o termo próprio, porque pode induzir à suposição de um efeito muito material" — e sugere que se trata antes de **visão**: o perispírito ainda ligado **vê** o que se passa com o corpo, e o Espírito toma essa visão por sensação. Sutileza que importa: não é que o corpo "magnetize" dor ao Espírito; é que o Espírito, ainda preso ao corpo, percebe diretamente o que lhe acontece.
 
@@ -142,8 +142,8 @@ Três critérios de exame pessoal que o ensaio sustenta:
 
 ## Fontes
 
-- Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. III — "Retorno da vida corporal à vida espiritual", q. 257 ("Ensaio teórico da sensação dos Espíritos"). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
-- Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. III — q. 253–256 (sensações dos Espíritos: imediato antecedente da exposição teórica) e q. 258–273 ("Escolha de provas" — articulação consecutiva entre a mecânica das sensações e a doutrina da escolha de existências).
+- Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. VI — "Da vida espírita", q. 257 ("Ensaio teórico da sensação dos Espíritos"). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- Kardec, Allan. *O Livro dos Espíritos*. Parte 2, Cap. VI — q. 253–256 (sensações dos Espíritos: imediato antecedente da exposição teórica) e q. 258–273 ("Escolha de provas" — articulação consecutiva entre a mecânica das sensações e a doutrina da escolha de existências).
 - Kardec, Allan. *A Gênese, os Milagres e as Predições segundo o Espiritismo*. Cap. XIV — "Os fluidos", em especial item 7 ("Perispírito e fluido cósmico"). FEB. Edição: [[raw/kardec/pentateuco/genese]].
 - Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. I — função do perispírito nos fenômenos espíritas. Edição: [[raw/kardec/pentateuco/livro-dos-mediuns]].
 - [[wiki/obras/depois-da-morte|DENIS, Léon. *Depois da Morte*]] — desenvolvimento do mesmo eixo em chave doutrinária ampliada, particularmente o perispírito como invólucro permanente e a desmaterialização pela vontade e pelas virtudes.

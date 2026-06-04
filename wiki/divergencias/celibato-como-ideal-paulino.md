@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, NT]
 tags: [divergencia, celibato, casamento, paulo, lei-de-reproducao, obra/le, lei/reproducao, autor/kardec, autor/paulo, grau/avancado, lei/liberdade, tema/historia-doutrina]
-atualizado_em: 2026-04-20
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -59,7 +59,7 @@ A nuance é crucial: Kardec **distingue dois celibatos**.
 
 Em ambos os casos, o celibato **nunca é apresentado como estado superior ao casamento**. É sacrifício válido quando é efetivo sacrifício a favor do bem, não quando é recusa da responsabilidade conjugal e parental.
 
-A Lei de Reprodução (LE q. 686–701) é apresentada, portanto, como **favorável ao casamento**. Paulo inverte a hierarquia: no texto paulino, o casado tem tribulação na carne e se distrai do Senhor; no Pentateuco kardequiano, o casamento é o progresso e o celibato por desejo próprio (fora de sacrifício efetivo) é suspeito.
+A Lei de Reprodução (LE q. 686–701) é apresentada, portanto, como **favorável ao casamento**. Paulo inverte a hierarquia: no texto paulino, o casado tem tribulação na carne e se distrai do Senhor; no Pentateuco de Kardec, o casamento é o progresso e o celibato por desejo próprio (fora de sacrifício efetivo) é suspeito.
 
 ## Posição tradicional / literalista
 

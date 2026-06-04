@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, escravidao, igualdade, liberdade, paulo, efesios, lei-de-igualdade, lei-de-liberdade, obra/le, lei/igualdade, lei/liberdade, obra/ese, autor/kardec, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/historia-doutrina]
-atualizado_em: 2026-04-29
+tags: [divergencia, escravidao, igualdade, liberdade, paulo, efesios, lei-de-igualdade, lei-de-liberdade, obra/le, lei/igualdade, lei/liberdade, obra/ese, autor/kardec, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/historia-doutrina, tema/sociedade]
+atualizado_em: 2026-06-03
 status: aberta
 ---
 

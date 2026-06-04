@@ -2,7 +2,7 @@
 tipo: aprofundamento
 fontes: [Joanna de Ângelis/Divaldo Franco, ESE, LE, C&I]
 tags: [sofrimento, dor, sombra, complexo, resignacao-dinamica, acomodacao, autoamor, culpa, autopunicao, perfeccionismo, perispirito, joanna-de-angelis, divaldo-franco, obra/le, obra/ese, obra/ci, autor/kardec, autor/joanna-de-angelis, autor/divaldo-franco, grau/avancado, lei/liberdade, tema/sofrimento, tema/encarnacao, lei/justica-amor-caridade]
-atualizado_em: 2026-05-27
+atualizado_em: 2026-06-03
 status: rascunho
 ---
 
@@ -10,7 +10,7 @@ status: rascunho
 
 ## Contexto doutrinário
 
-O quadro kardequiano fixa três núcleos sobre o sofrimento:
+O quadro de Kardec fixa três núcleos sobre o sofrimento:
 
 - **LE q. 614** abre a Parte 3 (Leis Morais) com a definição: *"A lei natural é a lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer, e ele só é infeliz quando dela se afasta."* A infelicidade é diagnosticada como **índice de afastamento** da Lei, não como acidente.
 - **LE q. 919** dá a fórmula operacional pelo Espírito **Sócrates**: *"Conhece-te a ti mesmo"*. O exame diário de consciência sugerido por **Santo Agostinho** no comentário da mesma questão é apresentado como *"chave do progresso individual"* — o mesmo método que Joanna sustenta ser a única forma de o sofrimento cumprir sua função pedagógica em vez de retornar.
@@ -19,7 +19,7 @@ O quadro kardequiano fixa três núcleos sobre o sofrimento:
 Kardec não desenvolve **um tratado psicológico-clínico** do sofrimento. [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]], ao longo da Série Psicológica psicografada por [[wiki/personalidades/divaldo-franco|Divaldo Pereira Franco]] entre 1989 e 2011 (ver [[wiki/sinteses/serie-psicologica-joanna-de-angelis]]), ocupa esse lugar — articula nove obras-chave (*Plenitude*, *O Ser Consciente*, *Desperte e Seja Feliz*, *Amor, Imbatível Amor*, *O Despertar do Espírito*, *Conflitos Existenciais*, *Encontro com a Paz e a Saúde*, *Em Busca da Verdade*, *Psicologia da Gratidão*, com referências a *O Homem Integral*) numa doutrina coerente do sofrimento como **linguagem da alma**, em diálogo aberto com a Psicologia Profunda (Jung) e a Quarta Força (Wilber, Maslow, Assagioli).
 
 > [!note] Nota de método
-> Este aprofundamento sistematiza a doutrina joanniana sobre o sofrimento como **registro interno à Série Psicológica** (tier 3), não como veredicto pastoral. A leitura contemporânea desenvolvida pelo programa **A Cultura do Sofrimento Evitado** (web TV [[wiki/personalidades/mansao-do-caminho]], temporada 10, episódios 5–15, ~2025; apresentadora Cristiane Beira) é incorporada como **leitura contemporânea sobre essas obras**, não como fonte primária. Vocabulário junguiano (sombra, complexo, persona, anima/animus) é instrumental — não substitui a antropologia kardequiana, integra-a.
+> Este aprofundamento sistematiza a doutrina joanniana sobre o sofrimento como **registro interno à Série Psicológica** (tier 3), não como veredicto pastoral. A leitura contemporânea desenvolvida pelo programa **A Cultura do Sofrimento Evitado** (web TV [[wiki/personalidades/mansao-do-caminho]], temporada 10, episódios 5–15, ~2025; apresentadora Cristiane Beira) é incorporada como **leitura contemporânea sobre essas obras**, não como fonte primária. Vocabulário junguiano (sombra, complexo, persona, anima/animus) é instrumental — não substitui a antropologia de Kardec, integra-a.
 
 ## Análise por eixos
 
@@ -83,7 +83,7 @@ Integrar é o terceiro caminho: reconhecer a emoção, validar o sentimento, **d
 
 > *"O verdadeiro espírita se reconhece pelo esforço que emprega em domar as suas más inclinações, em se transformar, em evoluir."* (citado por Joanna a partir de [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]], cap. XVII, item 4)
 
-Risco específico — a **"sombra espiritualizada"**: o conteúdo reprimido recebe maquiagem de religiosidade. A persona do religioso é máscara, não entrega: foco em rituais, defesa rígida de dogmas, preocupação com imagem pública. Quanto mais rígida a persona, mais violento o colapso quando ela não se sustenta. *O Ser Consciente* catalogou **mais de 30 mecanismos de fuga** (compensação, deslocamento, repressão direta, racionalização) que articulam essa sombra com o vocabulário kardequiano.
+Risco específico — a **"sombra espiritualizada"**: o conteúdo reprimido recebe maquiagem de religiosidade. A persona do religioso é máscara, não entrega: foco em rituais, defesa rígida de dogmas, preocupação com imagem pública. Quanto mais rígida a persona, mais violento o colapso quando ela não se sustenta. *O Ser Consciente* catalogou **mais de 30 mecanismos de fuga** (compensação, deslocamento, repressão direta, racionalização) que articulam essa sombra com o vocabulário de Kardec.
 
 ### 5. Culpa × responsabilidade, autopunição, perfeccionismo
 

@@ -1,9 +1,9 @@
 ---
 tipo: questao
 fontes: [LE]
-tags: [anjos-guardiaes, espiritos-protetores, livre-arbitrio, progresso, responsabilidade, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos]
-atualizado_em: 2026-04-19
-status: ativo
+tags: [anjos-guardiaes, espiritos-protetores, livre-arbitrio, progresso, responsabilidade, obra/le, autor/kardec, grau/introdutorio, lei/liberdade, tema/espiritos, tema/livre-arbitrio]
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Por que é oculta a ação dos Espíritos sobre a nossa existência?

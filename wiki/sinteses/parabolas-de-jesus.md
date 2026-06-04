@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [ESE, "S. Mateus", "S. Marcos", "S. Lucas", "S. João"]
 tags: [parabolas, jesus, evangelho, moral, pedagogia, reino-dos-ceus, caridade, misericordia, obra/ese, autor/kardec, grau/avancado, lei/progresso, tema/jesus]
-atualizado_em: 2026-04-26
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Parábolas de Jesus — índice temático

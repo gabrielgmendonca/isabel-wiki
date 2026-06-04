@@ -25,8 +25,9 @@ tags:
   - grau/avancado
   - autor/kardec
   - tema/sofrimento
-atualizado_em: 2026-04-26
-status: ativo
+  - tema/livre-arbitrio
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Expiação e Arrependimento (LE, q. 990–1002)

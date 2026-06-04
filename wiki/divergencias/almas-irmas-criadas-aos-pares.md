@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, Emmanuel/Chico Xavier]
-tags: [reencarnacao, afinidade, almas-gemeas, leon-denis, emmanuel, chico-xavier, flammarion, obra/le, autor/kardec, autor/leon-denis, autor/emmanuel, autor/chico-xavier, grau/avancado, tema/historia-doutrina]
-atualizado_em: 2026-05-14
+tags: [reencarnacao, afinidade, almas-gemeas, leon-denis, emmanuel, chico-xavier, flammarion, obra/le, autor/kardec, autor/leon-denis, autor/emmanuel, autor/chico-xavier, grau/avancado, tema/historia-doutrina, tema/sociedade]
+atualizado_em: 2026-06-03
 status: concluída
 ---
 

@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [LE, LM, ESE, Gênese, RE]
 tags: [psicopatologia, transtornos-mentais, loucura-obsessiva, obsessao, depressao, suicidio, esquizofrenia, transtorno-obsessivo-compulsivo, sociopatia, fobia, drogadicao, alcoolismo, ansiedade, medo, culpa, mecanismos-da-mediunidade, serie-psicologica, joanna-de-angelis, divaldo-franco, andre-luiz, hammed, obra/le, obra/lm, obra/ese, obra/genese, obra/re, autor/kardec, autor/joanna-de-angelis, autor/divaldo-franco, autor/andre-luiz, autor/chico-xavier, autor/hammed, grau/avancado, tema/sofrimento, tema/moral, tema/mediunidade, lei/conservacao, lei/justica-amor-caridade]
-atualizado_em: 2026-05-09
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Psicopatologias na doutrina espírita

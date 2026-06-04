@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE, C&I, OQE, André Luiz/Chico Xavier, Léon Denis]
 tags: [esquecimento, reencarnacao, intuicao, voz-da-consciencia, livre-arbitrio, providencia, missionarios-da-luz, obra/le, obra/ci, obra/oqe, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/leon-denis, grau/introdutorio, tema/encarnacao]
-atualizado_em: 2026-05-26
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Esquecimento do passado
@@ -35,7 +35,7 @@ A objeção lógica que segue imediatamente é a mais forte que se pode levantar
 A resposta dos Espíritos opera em dois movimentos:
 
 1. **O mérito está no esforço sem apoio da memória.** "Onde o seu mérito se se lembrasse de todo o passado?" Se a memória plena substituísse o trabalho de discernir, o Espírito venceria por reconhecimento, não por escolha. O regime do esquecimento é o que torna a vitória sobre o mal *vitória*.
-2. **A consciência da vida pretérita é tomada na erraticidade, não na carne.** "Quando o Espírito volta à vida primitiva (a vida espírita), diante dos olhos se lhe estende toda a sua vida pretérita. Vê as faltas que cometeu e que deram causa ao seu sofrer [...]. Reconhece justa a situação em que se acha e busca então uma existência capaz de reparar a que vem de transcorrer." A justiça não é cega — é assumida. O Espírito, antes de descer, *escolhe a expiação que cumprirá esquecido*. Cf. [[wiki/conceitos/planejamento-reencarnatorio]].
+2. **A consciência da vida pretérita é tomada na [[wiki/conceitos/erraticidade|erraticidade]], não na carne.** "Quando o Espírito volta à vida primitiva (a vida espírita), diante dos olhos se lhe estende toda a sua vida pretérita. Vê as faltas que cometeu e que deram causa ao seu sofrer [...]. Reconhece justa a situação em que se acha e busca então uma existência capaz de reparar a que vem de transcorrer." A justiça não é cega — é assumida. O Espírito, antes de descer, *escolhe a expiação que cumprirá esquecido*. Cf. [[wiki/conceitos/planejamento-reencarnatorio]].
 
 ### Os três substitutos operacionais da memória
 
@@ -91,7 +91,7 @@ O esquecimento aqui não é privação — é o **espaço operacional** em que a
 
 ## Léon Denis — esquecimento não absoluto
 
-A leitura kardequiana é sintetizada por Léon Denis em [[wiki/obras/o-problema-do-ser-e-do-destino|*O Problema do Ser, do Destino e da Dor*]] em fórmula útil para o estudante:
+A leitura de Kardec é sintetizada por Léon Denis em [[wiki/obras/o-problema-do-ser-e-do-destino|*O Problema do Ser, do Destino e da Dor*]] em fórmula útil para o estudante:
 
 > "Em princípio, o esquecimento das existências anteriores é uma das consequências da reencarnação. Todavia, este esquecimento não é absoluto. Em muitas pessoas, o passado se acha sob a forma de impressões, senão de lembranças precisas. Às vezes, estas impressões influenciam nossos atos." (Léon Denis, *O Problema do Ser, do Destino e da Dor*)
 
@@ -113,7 +113,7 @@ Adelino não tem qualquer **enredo** disponível — não sabe quem é o homem d
 
 > "O Adelino não lembra da narrativa das vidas anteriores, ele não lembra do enredo, ele não lembra detalhes, mas todos os sentimentos estão presentes, as sensações, as emoções, as impressões estão todas aqui. [...] O que a gente esquece quando reencarna são as histórias, não as impressões. As impressões espirituais estão com a gente. Os sentimentos, as emoções estão com a gente." (Haroldo Dutra Dias, *O Momento do Recomeço — cap. 13 de Missionários da Luz*)
 
-O caso confirma todos os elementos da formulação kardequiana: a **voz da consciência** (Adelino oscila — tenta estender as mãos antes de fugir, num impulso fraternal que destoa do terror), a **tendência instintiva** (a desconfiança das costas, registro perispirítico do golpe sofrido), e o efeito **proporcional ao mundo de expiação** — Adelino é poupado do enredo justamente porque a memória plena tornaria a coabitação familiar inviável. Quando, na mesma noite, Alexandre opera por intermédio do filho Joãozinho ("Mamãe, por que papai está triste?"), abre-se a porta para o perdão sem que o enredo precise ser jamais revelado — exatamente o que a q. 394 prevê sobre os "três inconvenientes" da memória plena nas relações sociais.
+O caso confirma todos os elementos da formulação de Kardec: a **voz da consciência** (Adelino oscila — tenta estender as mãos antes de fugir, num impulso fraternal que destoa do terror), a **tendência instintiva** (a desconfiança das costas, registro perispirítico do golpe sofrido), e o efeito **proporcional ao mundo de expiação** — Adelino é poupado do enredo justamente porque a memória plena tornaria a coabitação familiar inviável. Quando, na mesma noite, Alexandre opera por intermédio do filho Joãozinho ("Mamãe, por que papai está triste?"), abre-se a porta para o perdão sem que o enredo precise ser jamais revelado — exatamente o que a q. 394 prevê sobre os "três inconvenientes" da memória plena nas relações sociais.
 
 Ver [[wiki/conceitos/planejamento-reencarnatorio]] para o desdobramento do caso e [[raw/palestras/espiritualidade-e-vida/o-momento-do-recomeco-cap13-missionarios-da-luz-haroldo-dutra-dias]] para a transcrição integral.
 

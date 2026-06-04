@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
-tags: [divergencia, hebreus, reencarnacao, pluralidade-existencias, juizo, sumo-sacerdote, paulo, obra/le, obra/ese, obra/ci, autor/kardec, autor/paulo, grau/avancado, tema/vida-futura]
-atualizado_em: 2026-04-21
+tags: [divergencia, hebreus, reencarnacao, pluralidade-existencias, juizo, sumo-sacerdote, paulo, obra/le, obra/ese, obra/ci, autor/kardec, autor/paulo, grau/avancado, tema/vida-futura, tema/encarnacao]
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -100,7 +100,7 @@ A divergência não é entre Paulo/Hebreus e Kardec — é entre **uma certa lei
 
 ### Relação com outras divergências
 
-- [[wiki/divergencias/pecado-original-em-romanos-5]] — mesma lógica: passagem paulina absolutizada pela tradição em desfavor da doutrina kardequiana da responsabilidade individual e do progresso por sucessivas existências.
+- [[wiki/divergencias/pecado-original-em-romanos-5]] — mesma lógica: passagem paulina absolutizada pela tradição em desfavor da doutrina de Kardec da responsabilidade individual e do progresso por sucessivas existências.
 - [[wiki/divergencias/fogo-eterno-em-mateus-25]] — companheira clássica de Hb 9:27 na fundamentação das penas eternas. Também refutada pela mesma chave de leitura espírita.
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]] — outra passagem de Hebreus (6:4–6; 10:26–27) mobilizada para negar o progresso indefinido. Mesma família de problemas.
 

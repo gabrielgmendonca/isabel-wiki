@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE]
 tags: [encarnacao, infancia, inocencia, educacao, pendores-instintivos, livre-arbitrio, paternidade, obra/le, autor/kardec, grau/introdutorio, tema/encarnacao, tema/sociedade]
-atualizado_em: 2026-05-31
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # A infância e o véu da inocência

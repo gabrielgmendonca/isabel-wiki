@@ -17,7 +17,7 @@ tags:
   - autor/andre-luiz
   - autor/chico-xavier
   - autor/emmanuel
-atualizado_em: 2026-05-16
+atualizado_em: 2026-06-03
 status: rascunho
 ---
 
@@ -194,7 +194,7 @@ A metáfora médica de [[wiki/aprofundamentos/expiacao-e-arrependimento|*Céu e 
 
 ## Eixo 4 — Sexo dos Espíritos
 
-Subtítulo: **Sexo nos Espíritos** (q. 200–202). Bloco curto e doutrinariamente densíssimo: três questões definem todo o tratamento kardequiano da diferença sexual.
+Subtítulo: **Sexo nos Espíritos** (q. 200–202). Bloco curto e doutrinariamente densíssimo: três questões definem todo o tratamento que Kardec dá à diferença sexual.
 
 ### O sexo é do organismo, não do Espírito (q. 200)
 
@@ -349,7 +349,7 @@ O fecho amarra os dois movimentos extremos: a doutrina é, ao mesmo tempo, racio
 
 ### Aprofundamento
 
-O Cap. V é, ele mesmo, **modelo metodológico** do raciocínio kardequiano: ancoragem inicial nos Espíritos (Cap. IV), argumentação racional autônoma (Cap. V), parábola pedagógica para fechar. A mesma estrutura reaparece em vários momentos do *Livro dos Espíritos* e do *Livro dos Médiuns*, com peso variável entre os três registros — mas sempre articulando experiência mediúnica, razão filosófica e analogia pedagógica.
+O Cap. V é, ele mesmo, **modelo metodológico** do raciocínio de Kardec: ancoragem inicial nos Espíritos (Cap. IV), argumentação racional autônoma (Cap. V), parábola pedagógica para fechar. A mesma estrutura reaparece em vários momentos do *Livro dos Espíritos* e do *Livro dos Médiuns*, com peso variável entre os três registros — mas sempre articulando experiência mediúnica, razão filosófica e analogia pedagógica.
 
 ---
 
@@ -387,7 +387,7 @@ A "transmigração progressiva" do Eixo 3 ganha tratamento fenomenológico detal
 
 ### 4. Continuidade da identidade e mudança de sexo
 
-O argumento da q. 218 (ideias inatas — o Espírito não recomeça do zero) e o da q. 202 (alternância pedagógica de sexos) compõem a tese kardequiana da identidade espírita: una através das vidas, plástica quanto ao sexo do corpo. A divergência com Denis sobre mudança de sexo (eixo 4) precisa ser lida sob essa unidade — não é divergência sobre identidade do Espírito, mas sobre a frequência da alternância. Ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]]. Eixos 4 e 6.
+O argumento da q. 218 (ideias inatas — o Espírito não recomeça do zero) e o da q. 202 (alternância pedagógica de sexos) compõem a tese de Kardec sobre a identidade espírita: una através das vidas, plástica quanto ao sexo do corpo. A divergência com Denis sobre mudança de sexo (eixo 4) precisa ser lida sob essa unidade — não é divergência sobre identidade do Espírito, mas sobre a frequência da alternância. Ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]]. Eixos 4 e 6.
 
 ### 5. Família como reencontro, não como predestinação
 

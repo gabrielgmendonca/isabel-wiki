@@ -2,8 +2,8 @@
 tipo: sintese
 fontes: [LM, LE]
 tags: [psicografia, identidade, comunicacoes, obsessao, escala-espirita, mediunidade, obra/lm, obra/le, autor/kardec, grau/avancado, tema/mediunidade]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Como avaliar a veracidade de mensagens psicografadas
@@ -113,7 +113,7 @@ A [[wiki/conceitos/escala-espirita]] ajuda a entender os três graus de influên
 
 | Grau | Mecanismo | Risco |
 |------|-----------|-------|
-| **Obsessão simples** | Espírito se impõe ao médium, impede comunicação com outros; o médium reconhece a felonia | Desagradável, raramente engana (LM, 2ª parte, cap. XXIII, item 238) |
+| **[[wiki/conceitos/obsessao|Obsessão simples]]** | Espírito se impõe ao médium, impede comunicação com outros; o médium reconhece a felonia | Desagradável, raramente engana (LM, 2ª parte, cap. XXIII, item 238) |
 | **Fascinação** | Espírito produz ilusão direta no pensamento do médium; paralisa-lhe o raciocínio; inspira confiança cega | Gravíssimo — "nem os homens de mais espírito estão isentos" (LM, 2ª parte, cap. XXIII, item 239) |
 | **Subjugação** | Constrangimento que pode ser moral ou corporal; domínio parcial ou total | Perda temporária de autonomia (LM, 2ª parte, cap. XXIII, item 240) |
 

@@ -2,8 +2,8 @@
 tipo: aprofundamento
 fontes: [ESE, LE, NT]
 tags: [decisao, prece, livre-arbitrio, providencia, intuicao, inspiracao, lei/adoracao, lei/liberdade, tema/livre-arbitrio, tema/prece-caridade, grau/avancado, obra/ese, obra/le, autor/kardec, autor/tiago, autor/paulo, autor/emmanuel, autor/chico-xavier, lei/conservacao, lei/reproducao, lei/sociedade, lei/trabalho]
-atualizado_em: 2026-05-06
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Decisões de vida e a ação da Providência
@@ -25,7 +25,7 @@ Tudo o mais decorre disso: o livre-arbítrio "em toda a sua plenitude" (LE q. 84
 
 O **item 7 do cap. XXVII** fixa o princípio operativo:
 
-> "O que Deus lhe concederá sempre, se ele o pedir com confiança, são a coragem, a paciência e a resignação. Também lhe concederá os meios de se tirar por si mesmo das dificuldades, mediante ideias que fará lhe sugiram os bons Espíritos, deixando-lhe dessa forma o mérito da ação. Ele assiste os que se ajudam a si mesmos, de conformidade com esta máxima: 'Ajuda-te, que o céu te ajudará'." (ESE, cap. XXVII, item 4)
+> "O que Deus lhe concederá sempre, se ele o pedir com confiança, são a coragem, a paciência e a resignação. Também lhe concederá os meios de se tirar por si mesmo das dificuldades, mediante ideias que fará lhe sugiram os bons Espíritos, deixando-lhe dessa forma o mérito da ação. Ele assiste os que se ajudam a si mesmos, de conformidade com esta máxima: 'Ajuda-te, que o céu te ajudará'." (ESE, cap. XXVII, item 7)
 
 A formulação é essencial: Deus **não decide pelo homem**. O socorro espiritual chega como **ideia**, não como ordem nem como fato consumado. Cabe ao homem reconhecer a ideia, deliberar, agir.
 
@@ -85,7 +85,7 @@ Atenção pastoral: este eixo **não é fatalismo**. Não diz "qualquer escolha 
 
 Sem o livre-arbítrio "em toda a sua plenitude" (LE q. 843), todo o resto desaba. Se a decisão fosse pré-determinada, o mérito da escolha desapareceria, e com ele a justiça da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. Por isso a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825-872) é a contrapartida indispensável da Lei de Causa e Efeito: só responde quem podia escolher.
 
-A consequência é exigente: **o homem é o autor de suas decisões**. Não pode transferir a decisão para "a vontade de Deus", para "o que o Espírito disser", para "o que estava no plano". Estas formulações — populares no neopentecostalismo brasileiro e em parte da literatura de autoajuda espiritual contemporânea — colidem com o ensino kardequiano. A Doutrina não admite que Deus tenha "um plano específico para cada vida" no sentido pré-determinista. O que admite é que cada Espírito **escolheu provas e missão antes de reencarnar** ([[wiki/conceitos/planejamento-reencarnatorio|planejamento reencarnatório]]) — mas a escolha foi do próprio Espírito, e a execução, no corpo, exige novas escolhas livres a cada decisão.
+A consequência é exigente: **o homem é o autor de suas decisões**. Não pode transferir a decisão para "a vontade de Deus", para "o que o Espírito disser", para "o que estava no plano". Estas formulações — populares no neopentecostalismo brasileiro e em parte da literatura de autoajuda espiritual contemporânea — colidem com o ensino de Kardec. A Doutrina não admite que Deus tenha "um plano específico para cada vida" no sentido pré-determinista. O que admite é que cada Espírito **escolheu provas e missão antes de reencarnar** ([[wiki/conceitos/planejamento-reencarnatorio|planejamento reencarnatório]]) — mas a escolha foi do próprio Espírito, e a execução, no corpo, exige novas escolhas livres a cada decisão.
 
 O horizonte longo entra como enquadramento, não como roteiro: a vida atual é uma escola dentro de uma série de existências. A decisão presente vale pelo que **forma o caráter**, não pelo que produz na conta corrente desta encarnação. Ver Léon Denis, *O Problema do Ser, do Destino e da Dor* (cap. XXIII) — a vida como "escola para a alma", crescimento moral como sentido último.
 

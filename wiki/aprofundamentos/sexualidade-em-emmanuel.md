@@ -1,16 +1,16 @@
 ---
 tipo: aprofundamento
 fontes: [Emmanuel/Chico Xavier, LE, ESE, LM]
-tags: [sexualidade, sexo, casamento, divorcio, aborto, homossexualidade, abstinencia, energia-sexual, emmanuel, lei/reproducao, obra/le, obra/ese, obra/lm, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado, lei/igualdade, tema/sociedade]
-atualizado_em: 2026-04-27
-status: ativo
+tags: [sexualidade, sexo, casamento, divorcio, aborto, homossexualidade, abstinencia, energia-sexual, emmanuel, lei/reproducao, obra/le, obra/ese, obra/lm, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado, lei/igualdade, tema/sociedade, tema/moral]
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Sexualidade em Emmanuel
 
 ## Contexto doutrinário
 
-A doutrina kardequiana fixa o quadro moral da sexualidade em três passagens-chave:
+A doutrina de Kardec fixa o quadro moral da sexualidade em três passagens-chave:
 
 - **LE q. 200–202** — Os Espíritos não têm sexo; este é atributo do organismo. Encarnam alternadamente como homens e mulheres ("isso pouco lhe importa") porque "cada sexo lhes proporciona provações e deveres especiais".
 - **LE q. 686–701** — A [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] regula o instinto sexual: a reprodução é natural; o casamento é "progresso da humanidade"; a poligamia é "sensualidade", não afeição; o celibato vale pelo motivo (egoísmo desagrada, sacrifício pelo bem eleva).
@@ -63,7 +63,7 @@ O cap. 11 narra a evolução natural do laço: da paixão ao "ouro vivo do amor 
 
 ### 5. Patologias do laço — divórcio, união infeliz, tédio, desajustes (caps. 8, 9, 12, 13)
 
-O **divórcio** (cap. 8) é tratado em chave estritamente kardequiana — abre com epígrafe ESE cap. XXII, item 5: "O divórcio é lei humana que tem por objeto separar legalmente o que já, de fato, está separado. Não é contrário à lei de Deus." Emmanuel não estimula, mas admite explicitamente:
+O **divórcio** (cap. 8) é tratado em chave estritamente de Kardec — abre com epígrafe ESE cap. XXII, item 5: "O divórcio é lei humana que tem por objeto separar legalmente o que já, de fato, está separado. Não é contrário à lei de Deus." Emmanuel não estimula, mas admite explicitamente:
 
 > "Compelidos, muita vez, às últimas fronteiras da resistência, é natural que o esposo ou a esposa, relegado a sofrimento indébito, se valha do divórcio por medida extrema contra o suicídio, o homicídio ou calamidades outras que lhes complicariam ainda mais o destino. Nesses lances da experiência, surge a separação à maneira de bênção necessária. (...) A escravidão não vem de Deus e ninguém possui o direito de torturar ninguém, à face das leis eternas." (cap. 8)
 
@@ -79,7 +79,7 @@ O cap. 17 ("Aborto") é severo, em linha com a posição de André Luiz em *Evol
 
 Aborto criminoso aparece como "um dos grandes fornecedores das moléstias de etiologia obscura e das obsessões catalogáveis na patologia da mente". A linguagem é de fuga ao dever, não de pecado intrínseco — a porta da regeneração permanece aberta.
 
-**Coerência com Kardec.** LE q. 358 (cap. 5 da Parte 2) trata do início da união alma-corpo: o perispírito liga-se gradualmente desde a concepção. A interrupção voluntária é, nessa lógica, interferência num processo de reencarnação já iniciado. Emmanuel aprofunda a leitura sem inovar doutrinariamente.
+**Coerência com Kardec.** LE q. 358 (cap. VII da Parte 2) trata do início da união alma-corpo: o perispírito liga-se gradualmente desde a concepção. A interrupção voluntária é, nessa lógica, interferência num processo de reencarnação já iniciado. Emmanuel aprofunda a leitura sem inovar doutrinariamente.
 
 ### 7. Vinculações e desvinculações (caps. 10, 14, 15, 16)
 
@@ -104,7 +104,7 @@ Emmanuel adiciona duas teses sobre a **escolha do sexo** na nova encarnação:
 1. **Reparativa.** "O homem que abusou das faculdades genésicas, arruinando a existência de outras pessoas com a destruição de uniões construtivas e lares diversos, em muitos casos é induzido a buscar nova posição, no renascimento físico, em corpo morfologicamente feminino, aprendendo, em regime de prisão, a reajustar os próprios sentimentos."
 2. **Missionária.** "Espíritos cultos e sensíveis, aspirando a realizar tarefas específicas na elevação de agrupamentos humanos (...) rogam dos Instrutores da Vida Maior que os assistem a própria internação no campo físico, em vestimenta carnal oposta à estrutura psicológica pela qual transitoriamente se definem."
 
-Estas duas teses **não contradizem** Kardec ("isso pouco lhe importa", LE q. 202) — são extensões pastorais que descrevem cenários particulares dentro do quadro mais geral kardequiano. A análise dessa relação está em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] (que registra a divergência principal — Léon Denis em *O Problema do Ser e do Destino* — e anota a posição de Emmanuel como **inversão pastoral** da estigmatização deniseana).
+Estas duas teses **não contradizem** Kardec ("isso pouco lhe importa", LE q. 202) — são extensões pastorais que descrevem cenários particulares dentro do quadro mais geral de Kardec. A análise dessa relação está em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]] (que registra a divergência principal — Léon Denis em *O Problema do Ser e do Destino* — e anota a posição de Emmanuel como **inversão pastoral** da estigmatização deniseana).
 
 **Nota crítica de vocabulário (1970).** O capítulo abre identificando a homossexualidade como "também hoje chamada transexualidade, em alguns círculos de ciência" — equiparação terminológica datada que confunde fenômenos hoje reconhecidos como distintos (orientação sexual × identidade de gênero). A leitura contemporânea precisa fazer a tradução: a substância pastoral do capítulo (dignidade, igualdade de respeito, recusa da patologização) permanece; o vocabulário precisa ser atualizado.
 
@@ -160,7 +160,7 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 - **[[wiki/personalidades/hammed|Hammed]] / Francisco do Espírito Santo Neto** — *Renovando Atitudes*, *Tudo Vale a Pena*: sublimação como caminho prático.
 - **[[wiki/personalidades/leon-denis|Léon Denis]]** — *O Problema do Ser e do Destino*, cap. 13: tratamento mais filosófico, com viés conservador francês — diametralmente oposto a Emmanuel sobre homossexualidade. Ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]].
 
-**Pontos para a casa espírita** (compatíveis com o tom kardequiano e com a cláusula final de Emmanuel — "abstende-vos de censura e condenação"):
+**Pontos para a casa espírita** (compatíveis com o tom de Kardec e com a cláusula final de Emmanuel — "abstende-vos de censura e condenação"):
 
 - A energia sexual é dom da Criação; o juízo moral incide sobre o **uso**, não sobre a presença.
 - O aborto criminoso tem peso moral grave em todos os autores espíritas, mas a cláusula evangélica de misericórdia é universal — casos individuais (risco de vida da gestante, gravidez por estupro, anencefalia) demandam discernimento, não juízo apressado.
@@ -171,7 +171,7 @@ Os dois autores são **complementares, não contraditórios**. Emmanuel oferece 
 ## Conceitos relacionados
 
 - [[wiki/conceitos/energia-sexual]] — eixo conceitual da obra
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura de Kardec (LE q. 686–701)
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"
 - [[wiki/conceitos/reencarnacao]] — laços cármicos no lar
 - [[wiki/conceitos/perispirito]] — substrato das cargas magnéticas

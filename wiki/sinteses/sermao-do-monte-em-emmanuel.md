@@ -2,15 +2,15 @@
 tipo: sintese
 fontes: [Emmanuel/Chico Xavier, "S. Mateus", "S. Lucas"]
 tags: [sermao-do-monte, sermao-da-montanha, emmanuel, chico-xavier, evangelho, coletanea-evangelica, fonte-viva, pao-nosso, vinha-de-luz, caminho-verdade-e-vida, palavras-de-vida-eterna, autor/emmanuel, autor/chico-xavier, tema/jesus, tema/moral, grau/avancado]
-atualizado_em: 2026-05-12
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # Sermão do Monte em Emmanuel
 
 ## Pergunta motivadora
 
-A wiki tem dois mapas que tocam de perto este tema: [[wiki/sinteses/sermao-do-monte]] mostra como Kardec distribui Mt 5–7 pelos capítulos do ESE, e [[wiki/sinteses/colecao-fonte-viva-emmanuel]] descreve as cinco coletâneas evangélicas (CVV, Pão Nosso, Vinha de Luz, Fonte Viva, Palavras de Vida Eterna) como o corpo evangélico-pastoral mais sistemático do par Emmanuel/Chico. Falta o cruzamento: **quando Emmanuel — em mais de cinquenta capítulos espalhados pelas 900 páginas curtas das cinco obras — toma uma epígrafe do Sermão, o que ele acrescenta à leitura kardequiana?** Este mapa recompõe o Sermão a partir dos capítulos dispersos das coletâneas e indica as ênfases pastorais que Emmanuel introduz sem contradizer Kardec.
+A wiki tem dois mapas que tocam de perto este tema: [[wiki/sinteses/sermao-do-monte]] mostra como Kardec distribui Mt 5–7 pelos capítulos do ESE, e [[wiki/sinteses/colecao-fonte-viva-emmanuel]] descreve as cinco coletâneas evangélicas (CVV, Pão Nosso, Vinha de Luz, Fonte Viva, Palavras de Vida Eterna) como o corpo evangélico-pastoral mais sistemático do par Emmanuel/Chico. Falta o cruzamento: **quando Emmanuel — em mais de cinquenta capítulos espalhados pelas 900 páginas curtas das cinco obras — toma uma epígrafe do Sermão, o que ele acrescenta à leitura de Kardec?** Este mapa recompõe o Sermão a partir dos capítulos dispersos das coletâneas e indica as ênfases pastorais que Emmanuel introduz sem contradizer Kardec.
 
 ---
 
@@ -189,7 +189,7 @@ Seis cláusulas que condensam a leitura emanueliana do Sermão, em ordem do text
 
 Em mais de cinquenta capítulos espalhados pelas cinco coletâneas, Emmanuel **glosa pastoralmente** o Sermão do Monte sem reabrir nenhum dos pontos doutrinários fixados em Kardec. O que ele acrescenta é cinco inflexões características: leitura em chave de trabalho-serviço, pastoral fina do adversário vs. delinquente (PVE 178), anti-intelectualismo evangélico endereçado ao próprio movimento espírita, frutos como antídoto da aparência, subida ao monte como crítica do uso de autoridade. CVV fecha seu primeiro volume com Mt 5.16 (CVV 180); FV inscreve o cenário do Sermão (Mt 5.1) em sua peça mais politicamente explícita (FV 104). O Sermão funciona, ao longo do quinteto, como **moldura inicial e selo final** da pastoral evangélica de Emmanuel.
 
-A função na hierarquia da wiki é nível 3 (consagrados) — leitura **complementar** ao Pentateuco e ao tratamento que Kardec dá ao Sermão no ESE, jamais substitutiva. O valor próprio está em traduzir as perícopes em **exercício devocional cotidiano**: o que ESE caps. V, VII–XIII, XVII, XXIV, XXVII, XXVIII estabelecem como princípio, as cinco coletâneas oferecem como prática diária de meditação aplicada. Quem prepara palestra sobre o Sermão encontra aqui o complemento pastoral natural do mapa kardequiano.
+A função na hierarquia da wiki é nível 3 (consagrados) — leitura **complementar** ao Pentateuco e ao tratamento que Kardec dá ao Sermão no ESE, jamais substitutiva. O valor próprio está em traduzir as perícopes em **exercício devocional cotidiano**: o que ESE caps. V, VII–XIII, XVII, XXIV, XXVII, XXVIII estabelecem como princípio, as cinco coletâneas oferecem como prática diária de meditação aplicada. Quem prepara palestra sobre o Sermão encontra aqui o complemento pastoral natural do mapa de Kardec.
 
 ---
 

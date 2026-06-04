@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
 fontes: [LE, ESE, NT]
-tags: [divergencia, casamento, igualdade, mulher, paulo, efesios, lei-de-igualdade, obra/le, lei/igualdade, obra/ese, autor/kardec, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/historia-doutrina]
-atualizado_em: 2026-04-29
+tags: [divergencia, casamento, igualdade, mulher, paulo, efesios, lei-de-igualdade, obra/le, lei/igualdade, obra/ese, autor/kardec, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/historia-doutrina, tema/sociedade]
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -111,7 +111,7 @@ A divergência irmã, registrada em [[wiki/divergencias/condicao-feminina-nas-pa
 - **Submissão mútua de 5:21** — chave hermenêutica que precede e governa as aplicações específicas.
 - **Amor sacrificial assimétrico do marido em 5:25–33** — exigência que dissolve qualquer leitura de dominação.
 - **Coerência intra-paulina com Gl 3:28** — igualdade batismal que funciona como princípio anterior.
-- **Critério da hierarquia de autoridade**: o Pentateuco kardequiano (LE q. 803–824 sobre Lei de Igualdade) prevalece sobre o nível 3 quando há conflito.
+- **Critério da hierarquia de autoridade**: o Pentateuco de Kardec (LE q. 803–824 sobre Lei de Igualdade) prevalece sobre o nível 3 quando há conflito.
 
 A leitura espírita do casamento é parceria de iguais em vocação progressiva, com amor recíproco sacrificial — preserva a ética paulina enquanto recusa a hierarquia ontológica derivada da analogia Cristo/igreja.
 

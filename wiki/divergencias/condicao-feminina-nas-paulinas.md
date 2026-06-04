@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, NT]
 tags: [divergencia, mulher, igualdade, paulo, igreja-primitiva, codigo-domestico, corintios, colossenses, obra/le, lei/igualdade, autor/kardec, autor/paulo, grau/avancado, tema/historia-doutrina]
-atualizado_em: 2026-05-01
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -66,7 +66,7 @@ Com comentário direto de Kardec:
 
 > "Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar **a igualdade dos direitos do homem e da mulher**." (LE q. 822, a)
 
-A doutrina kardequiana, portanto:
+A doutrina de Kardec, portanto:
 
 1. **Afirma a igualdade ontológica** — ambos criados com inteligência do bem/mal e faculdade de progredir.
 2. **Denuncia a subordinação histórica** como "predomínio injusto e cruel" — "o abuso da força sobre a fraqueza".
@@ -110,7 +110,7 @@ A leitura espírita da passagem articula várias camadas:
 
 Se for interpolação, a divergência se desloca: não com Paulo histórico, mas com a **tradição cristã que absolutizou interpolações misóginas** como palavra apostólica.
 
-**3. Contexto cultural de 1 Co 11.** O véu e a "cabeça" coberta eram códigos sociais greco-romanos de pudor feminino casado. Paulo pode estar respondendo a uma crise local (escândalo com mulheres cristãs orando sem véu, associadas pelos pagãos a prostitutas cultuais) e não prescrevendo norma universal. Mesmo assim, a fundamentação teológica que ele oferece (11:7–9 — "a mulher é a glória do homem", criada "por causa do homem") **não é contextual**: é ontológica. Essa fundamentação — não o costume do véu — é o que diverge de LE q. 817.
+**3. Contexto cultural de 1 Co 11.** O véu e a "cabeça" coberta eram códigos sociais greco-romanos de pudor feminino casado. Paulo pode estar respondendo a uma crise local (escândalo com mulheres cristãs orando sem véu, associadas pelos pagãos a prostitutas cultuais) e não prescrevendo norma universal. Mesmo assim, a fundamentação teológica que ele oferece (11:7–9 — "a mulher é a glória do homem", criada "por causa do homem") **não é contextual**: é ontológica. Essa fundamentação — não o costume do véu — é o que diverge de (LE, q. 817).
 
 **4. Pentecostes como critério contrário.** At 2:17 — "vossas filhas profetizarão" — é **direito neotestamentário fundacional** da voz feminina no culto. Qualquer leitura de 1 Co que anule esse direito deve ser recusada. A codificação espírita, que reconhece mediunidade em homens e mulheres sem hierarquia, está na linha de At 2:17 contra o literalismo de 1 Co 14:34.
 

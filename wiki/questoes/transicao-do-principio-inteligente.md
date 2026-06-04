@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE, RE, Gênese]
 tags: [alma-dos-animais, principio-inteligente, plano-espiritual, escala-dos-seres, erraticidade, obra/le, obra/re, obra/genese, autor/kardec, grau/intermediario, tema/encarnacao]
-atualizado_em: 2026-05-23
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # A transformação do princípio inteligente em Espírito se opera no plano físico ou no espiritual?
@@ -46,10 +46,10 @@ Ou seja: o **fato** da gestão espiritual (LE q. 600) é doutrina; a **mecânica
 
 ### A elaboração posterior na literatura mediúnica
 
-Autores nível 2/3 retomam o tema desenvolvendo a fenomenologia, sem contradizer o eixo kardequiano:
+Autores nível 2/3 retomam o tema desenvolvendo a fenomenologia, sem contradizer o eixo de Kardec:
 
 - **Léon Denis** (*Depois da Morte*, cap. X) discute o destino do princípio inteligente animal e sua "elaboração progressiva" — sem inovação substantiva sobre a localização do salto.
-- **André Luiz / Chico Xavier e Waldo Vieira** (*[[wiki/obras/evolucao-em-dois-mundos|Evolução em Dois Mundos]]*, 1958, Parte I caps. 1, 19) descreve a evolução do princípio inteligente do [[wiki/conceitos/fluido-cosmico-universal|fluido cósmico]] até o homem responsável, com "moldes mentais preexistentes" geridos por hierarquias espirituais. *Missionários da Luz* (cap. 19) trata da fenomenologia espiritual do mundo animal.
+- **André Luiz / Chico Xavier e Waldo Vieira** (*[[wiki/obras/evolucao-em-dois-mundos|Evolução em Dois Mundos]]*, 1958, Parte I caps. 1, 19) descreve a evolução do princípio inteligente do [[wiki/conceitos/fluido-cosmico-universal|fluido cósmico]] até o homem responsável, com "moldes mentais preexistentes" geridos por hierarquias espirituais. *[[wiki/obras/missionarios-da-luz|Missionários da Luz]]* (cap. 19) trata da fenomenologia espiritual do mundo animal.
 - **Joanna de Ângelis / Divaldo Franco** retoma a tese da hierarquia que "plasma as futuras formas vivas em todos os seres, no plano físico ou no espiritual" (*Dias Gloriosos*, "Desenvolvimento científico").
 
 Em todos os três casos, a localização da agência no plano espiritual aprofunda LE q. 600 — mas a *mecânica* da hominização permanece descritiva e não tem o caráter "controlado pela concordância" que Kardec exige (RE mar/1864). Para palestra ou estudo, citá-los **com consciência do nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]**: são desenvolvimentos coerentes, não fechamento dogmático da questão que Kardec deixou em aberto.
@@ -64,14 +64,14 @@ Para responder a alguém que pergunte "onde se dá essa transformação?":
 | **Pentateuco — reservado** | A mecânica e o "momento" do salto qualitativo princípio inteligente → Espírito com livre-arbítrio é declarado *insolúvel* por Kardec. | RE mar/1864 |
 | **Complementar (nível 3)** | André Luiz, Léon Denis e Joanna de Ângelis localizam a transição no plano extrafísico, sob direção de hierarquias — desenvolvimento coerente, mas não submetido ao controle universal. | *Evolução em Dois Mundos*; *Depois da Morte*; *Dias Gloriosos* |
 
-A tese "no plano espiritual" não é, portanto, invenção pós-kardequiana — encontra ancoragem em LE q. 600. Mas seu alcance é mais restrito do que costuma circular: o Pentateuco afirma a **agência espiritual**, não descreve a **mecânica do salto**.
+A tese "no plano espiritual" não é, portanto, invenção posterior a Kardec — encontra ancoragem em LE q. 600. Mas seu alcance é mais restrito do que costuma circular: o Pentateuco afirma a **agência espiritual**, não descreve a **mecânica do salto**.
 
 ## Conceitos relacionados
 
 - [[wiki/conceitos/principio-inteligente]] — conceito central; elemento espiritual que se individualiza em Espírito.
 - [[wiki/conceitos/alma-dos-animais]] — panorama doutrinário do tema.
 - [[wiki/questoes/alma-dos-animais]] — questão-irmã, ancorada em LE q. 597 (sobrevivência do princípio inteligente).
-- [[wiki/conceitos/alma]] — três sentidos kardequianos da palavra alma (vital, intelectual, espírita).
+- [[wiki/conceitos/alma]] — três sentidos de Kardec para a palavra alma (vital, intelectual, espírita).
 - [[wiki/conceitos/principio-vital]] — agente comum de toda vida, distinto do princípio inteligente.
 - [[wiki/conceitos/erraticidade]] — estado pós-morte; "espécie de erraticidade" do animal não é o mesmo do Espírito errante.
 - [[wiki/conceitos/livre-arbitrio]] — atributo cuja ausência define a "solução de continuidade" entre animal e homem.

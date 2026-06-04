@@ -2,8 +2,8 @@
 tipo: questao
 fontes: [LE]
 tags: [paternidade, familia, missao, responsabilidade, educacao, filhos, obra/le, autor/kardec, grau/introdutorio, lei/reproducao, lei/sociedade, lei/trabalho, tema/sociedade]
-atualizado_em: 2026-04-19
-status: ativo
+atualizado_em: 2026-06-03
+status: rascunho
 ---
 
 # A paternidade é uma missão?
@@ -88,7 +88,7 @@ A expressão "partilharão dos sofrimentos do filho na vida futura" aponta para 
 
 - *O Evangelho Segundo o Espiritismo*, cap. XIV — "Honrai vosso pai e vossa mãe": desenvolve a ligação recíproca, a piedade filial e a responsabilidade parental.
 - *O Livro dos Espíritos*, q. 379–385 — infância como período de plasticidade moral.
-- *O Livro dos Espíritos*, q. 685, q. 775 — família como escola de aperfeiçoamento; laços que transcendem a existência corporal.
+- *O Livro dos Espíritos*, q. 685, q. 775 — [[wiki/conceitos/familia|família]] como escola de aperfeiçoamento; laços que transcendem a existência corporal.
 - Léon Denis, *O Problema do Ser e do Destino*, cap. XXI — paternidade e hereditariedade moral.
 
 ## Conceitos relacionados

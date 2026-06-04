@@ -1,54 +1,54 @@
 {
   "version": 1,
-  "last_run": "2026-05-31",
+  "last_run": "2026-06-03",
   "pages": {
     "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
-      "content_sha": "sha256:1542cda0e78b66707e5ed07b6bd8a4d3499482fa728b7049909eda99d0b16ecc",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
+      "content_sha": "sha256:9da43e1593914e15762e86cbf5f47b1f426c8a0fdba0454eea7a68e48e17cae7",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
       "verdict": "requer revisão humana",
-      "findings_count": 6,
+      "findings_count": 4,
       "deferred_count": 2
     },
     "wiki/divergencias/fogo-eterno-em-mateus-25.md": {
-      "content_sha": "sha256:f1dd6a1b98e5f6ef8d6d8575055bde310df86f9b6fa98e1262a435aab1a017a6",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-04-15",
+      "content_sha": "sha256:fb77685d34073077e5af20e7d5389f156df74ca3e570f163dcc40c820e352762",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-01",
       "verdict": "requer revisão humana",
-      "findings_count": 8,
-      "deferred_count": 8
+      "findings_count": 1,
+      "deferred_count": 1
     },
     "wiki/divergencias/morte-de-ananias-e-safira.md": {
-      "content_sha": "sha256:e34fac2f4e56fc6ef45ee54382a1cabe7658989c15064be2c0c96b6b7fc2266d",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
-      "verdict": "requer revisão humana",
-      "findings_count": 7,
-      "deferred_count": 5
-    },
-    "wiki/divergencias/sinais-de-marcos-16.md": {
-      "content_sha": "sha256:9a29850644bf55076a169542f3dfe157cfc0a03476de70823702392041599f61",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-04-15",
-      "verdict": "requer revisão humana",
-      "findings_count": 3,
-      "deferred_count": 2
-    },
-    "wiki/questoes/alma-dos-animais.md": {
-      "content_sha": "sha256:284d67f55f5de368b33afc8906e064e580d88451968b7583e22e761e31fed132",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
-      "verdict": "requer revisão humana",
-      "findings_count": 3,
-      "deferred_count": 3
-    },
-    "wiki/questoes/espiritos-e-as-leis-da-natureza.md": {
-      "content_sha": "sha256:7597cabfd62fd9d4faed66f4f53906a9dc22d19256af2012bd6313b404adf2e7",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
+      "content_sha": "sha256:d395b2d72596c9b5b562ba5461f3b8622b6af099990bad03bed8acda95203de7",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
       "verdict": "requer revisão humana",
       "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/divergencias/sinais-de-marcos-16.md": {
+      "content_sha": "sha256:80d2d6166f594e43f6db7627eca1d0c6d71e89328209595abbf5285aa32c3886",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-01",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
       "deferred_count": 3
+    },
+    "wiki/questoes/alma-dos-animais.md": {
+      "content_sha": "sha256:80617ced163b39ed544a817590396742179f9e2f289eb083fc9a774f70bb40ed",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-01",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/questoes/espiritos-e-as-leis-da-natureza.md": {
+      "content_sha": "sha256:9351b91994b846b4ee26e64d49186a932ded14c6260c9879e4675d254eb8f1c0",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-01",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 2
     },
     "wiki/questoes/fora-da-caridade-nao-ha-salvacao.md": {
       "content_sha": "sha256:63698c483e6313d0653e6fc1ce7179739f0b19545ea46440c8fc9a73d5390d2d",
@@ -67,19 +67,483 @@
       "deferred_count": 0
     },
     "wiki/questoes/o-que-e-deus.md": {
-      "content_sha": "sha256:a5d9f0b32af9670ab3f95fe06504048933ff07150be8f1bcf08ab528c857167e",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
+      "content_sha": "sha256:8d3d26ca58571581dd99b59690fd379ceba986b3872da84b0b1a3f682cdbcec0",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-01",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/questoes/pactos-com-satanas-como-alegoria.md": {
+      "content_sha": "sha256:ac4c5c679b25aa218f98814e11d00bff1a925031000bdf9657ec12a35df0b033",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
       "verdict": "requer revisão humana",
       "findings_count": 2,
       "deferred_count": 1
     },
-    "wiki/questoes/pactos-com-satanas-como-alegoria.md": {
-      "content_sha": "sha256:ebe699301380c3b2ae7c5ceb16593b2a5aea9a1f389e02db840a790ad10611d4",
-      "last_critica_date": "2026-05-31",
-      "atualizado_em_at_critica": "2026-05-31",
+    "wiki/questoes/paternidade-como-missao.md": {
+      "content_sha": "sha256:4802bdd178680a8cb7b685b56b50d78d3f56c7137cf83b604a5ac9af11e7d4a0",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta.md": {
+      "content_sha": "sha256:aae9c0e3adfefbf200f691b92f7056f54b1be2c9e6d19aa4f1c94f0f12510a63",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 4
+    },
+    "wiki/divergencias/celibato-como-ideal-paulino.md": {
+      "content_sha": "sha256:692402b878630cc82927b2f626b2b9787f3b9ce119585fe9bc6aaf7326264453",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
       "verdict": "requer revisão humana",
       "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/divergencias/pecado-original-em-romanos-5.md": {
+      "content_sha": "sha256:823f28880b8fcd2e5f0c3bf7b64b8237f8a4bbbcda7c48d4109c979956c5cb13",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/recaida-sem-arrependimento-em-hebreus.md": {
+      "content_sha": "sha256:e8a47917ca0bcb1240a21869ec19abd4cf1feb776b65ae4c8acb83a7e8799f78",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/uma-morte-e-juizo-em-hebreus-9.md": {
+      "content_sha": "sha256:6aacffb04d7fb7c6db51457fb92e899f0b37caa75c8629f622ab3a29e5823742",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 2
+    },
+    "wiki/aprofundamentos/expiacao-e-arrependimento.md": {
+      "content_sha": "sha256:9bca18425650935d1a375136b3cb202a6a4159d088774ae7ac7c803944a1b8f4",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/aprofundamentos/missao-de-kardec.md": {
+      "content_sha": "sha256:497c004b7780c2ff56ae3116b9813c5060934f566d36f020fea31427524e288e",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/aprofundamentos/sexualidade-em-emmanuel.md": {
+      "content_sha": "sha256:6a4c90d723d1bb4c5830049346178bf7010e023c5c98f707dd0f4ab0523a8f5d",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 1
+    },
+    "wiki/divergencias/sangue-expiatorio-em-1-joao.md": {
+      "content_sha": "sha256:5ff4525e51489f4e1622bc332cf6cbd3137ef4427e501fd65f6097837db89b0d",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 5
+    },
+    "wiki/divergencias/sangue-expiatorio-em-1-pedro.md": {
+      "content_sha": "sha256:17e3f30147b8709162500eac2292258077e80aac2c7fc4b0b6128682767c7df0",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 3
+    },
+    "wiki/questoes/arrependimento-expiacao-e-reparacao.md": {
+      "content_sha": "sha256:cef80ab7fb928345f3a5ef1b0a6b2faeed9085abdfd116fc338c0a638384a11b",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 7,
+      "deferred_count": 1
+    },
+    "wiki/divergencias/escravidao-em-efesios-6.md": {
+      "content_sha": "sha256:0a9a0483269e91341438028db506346fd421dd0c8e85c958ecc9c9415166a6aa",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/predestinacao-em-romanos-8-9.md": {
+      "content_sha": "sha256:9d4fd32b67d6577eae18dddfd03d6061fc443d8a232fe1355c4d30eee27a2b92",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-04-29",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 4
+    },
+    "wiki/divergencias/sangue-expiatorio-em-galatas.md": {
+      "content_sha": "sha256:d1315076b52c888f6ec68b4ef45b80d1f6c3615ad740c2d163b717c1897ae134",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/sujeicao-conjugal-em-efesios-5.md": {
+      "content_sha": "sha256:d6cacfdcdfee7bf250c7898e50fa2674a918e0f4479229400e25e1f1a0a1a618",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/diabo-ontologico-em-apocalipse.md": {
+      "content_sha": "sha256:3c031cab04ebb19c26298eb929719beeb94cbc5e3089d0df27787420e09883cb",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-04-30",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 5
+    },
+    "wiki/divergencias/jesus-igual-a-deus-em-filipenses-2.md": {
+      "content_sha": "sha256:229481f34ad479d2044477a0ea1020feb83b09c52503efe7a1a0b829d6910218",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/divergencias/penas-eternas-em-apocalipse.md": {
+      "content_sha": "sha256:37054a3c1181b60a2510fef969abf6fd6de1ce866dc82a4752aecc17d4764afa",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/divergencias/anjos-rebeldes-em-2-pedro-2.md": {
+      "content_sha": "sha256:c9a059c7388192452dd4f9ca7054905d301f46afa89e2b32e8443bde945a814a",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 8,
+      "deferred_count": 5
+    },
+    "wiki/divergencias/condicao-feminina-nas-paulinas.md": {
+      "content_sha": "sha256:237a96c665c8135d81576d006a584962821d7774635f287668619134ccb6a384",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 2,
+      "deferred_count": 0
+    },
+    "wiki/divergencias/mudanca-de-sexo-reencarnacao.md": {
+      "content_sha": "sha256:645b5c64b364d593173c1e5391143332b2c0aea94b1ef0e68dacd53ca1ca2ee9",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/aprofundamentos/criacao-do-planeta-terra.md": {
+      "content_sha": "sha256:faf213df73351e4830313355a148616639d7b806c5bafec4525ce219aca88acc",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/sexualidade-em-andre-luiz.md": {
+      "content_sha": "sha256:94cf2640211afe66b89b1bfa5b558fcdcce841518c41d67a26ac8f3c76b1c6c2",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-05-04",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 4
+    },
+    "wiki/questoes/o-que-devemos-pedir-na-prece.md": {
+      "content_sha": "sha256:e88dfe048f201d3858a442f2282ce8967a7ce2f9b7f2fd7f06cb7ebc79356811",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/decisoes-de-vida-e-providencia.md": {
+      "content_sha": "sha256:e5cfee43a71eeba5866dff651767182735fc65734f68439d805321a106d52595",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/aborto.md": {
+      "content_sha": "sha256:fadd8f571f600ddddac0ae8801106b2db84f5497de0086cc4b80b64dbf17070f",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 7,
+      "deferred_count": 1
+    },
+    "wiki/questoes/objetivo-da-encarnacao.md": {
+      "content_sha": "sha256:4586d751e2830d63cdc74e866add2fe0c7dc7048dcc91c2227836c1c89eb7978",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 3,
+      "deferred_count": 0
+    },
+    "wiki/questoes/obediencia-e-resignacao.md": {
+      "content_sha": "sha256:b8701ece9421ac745b868a0e36b0acd876b73e77ef5a5362f98772598584f709",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/dor-rigidez.md": {
+      "content_sha": "sha256:87021be84383966125b40312671efb4b19da7bd17f0eb29ce884434f27b0b87d",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/divergencias/almas-irmas-criadas-aos-pares.md": {
+      "content_sha": "sha256:3328b19e1d7b07948c13f3cad1b1be420059b71843b09dd2091181ab44444eab",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/reencarnacao.md": {
+      "content_sha": "sha256:d8e520d3da617d80432e6d3dff376f3d55da2491a8250e86cb0d026b73a670e9",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 3,
+      "deferred_count": 0
+    },
+    "wiki/aprofundamentos/silencio-interior-o-ser-consciente.md": {
+      "content_sha": "sha256:f8055391ac2d60c5f227213296aa31c8c25e4dd27499a794e8ab0e6cd494c8db",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 6
+    },
+    "wiki/questoes/transicao-do-principio-inteligente.md": {
+      "content_sha": "sha256:47f88a4868a700d614babefb3a3177b64e4a9486ab689d9d44636709a761b56c",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 1
+    },
+    "wiki/questoes/esquecimento-do-passado.md": {
+      "content_sha": "sha256:765b895c491d41bc5c437a14e60b6ba95d358961deae0e8567f4ae420f086cbb",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 5,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/sofrimento-em-joanna-de-angelis.md": {
+      "content_sha": "sha256:cf0630e30a4751f93602f956c792b9e1d934fdb73f9d674fffdd3ee557cc6dcc",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 2
+    },
+    "wiki/questoes/ensaio-teorico-da-sensacao-dos-espiritos.md": {
+      "content_sha": "sha256:de9a82cb3798476c206778bcd5a9fea9d6a40e5b0827de2d2ec4477671a4719e",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 3,
+      "deferred_count": 0
+    },
+    "wiki/aprofundamentos/escolha-de-provas.md": {
+      "content_sha": "sha256:3742446216f2d269ec481c86a81d87962e33a3b0fd750d0d727038b246318815",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/aprofundamentos/sexualidade-em-joanna-de-angelis.md": {
+      "content_sha": "sha256:84c6b48701386ee4395f7be8053e1b7a1673c3993761900b42cd438ce116a739",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/questoes/a-infancia-e-o-veu-da-inocencia.md": {
+      "content_sha": "sha256:e1c8dae590a54d965099c5fc8fc3225dda8e2c0f14a0cfe93bae9073581a15d4",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/questoes/orgaos-nao-geram-as-faculdades.md": {
+      "content_sha": "sha256:eb1271bb22a259688ee25aadf638bcd333ef01663db24bd027cf10fb6db51bb5",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/questoes/prece-pelos-mortos-e-visita-ao-tumulo.md": {
+      "content_sha": "sha256:5fa67522ce9f955eda7136413d4aee97e1b69ed4cf506ef62059ccf1ba2bf9c4",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-05-31",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/questoes/unicidade-do-espirito.md": {
+      "content_sha": "sha256:40c46e56f62709d30429f85b6172703664c0c79f74abefbf4f767375e021b9ce",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao.md": {
+      "content_sha": "sha256:c967ab3c1071cf7df5ad5d4cbe3a19dd157067686110f8fe865cf7db272f4d58",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/aprofundamentos/por-que-mediuns-falham.md": {
+      "content_sha": "sha256:ec08731ab43b81015e84a817d2723b93f9c056a95b485b2118c9089e46df4b77",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem.md": {
+      "content_sha": "sha256:8187800bb997df3bdedf7493de5861e13ab8383e6ff1f33f5a8f6e6d83dfec3b",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-02",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/veracidade-das-mensagens-psicografadas.md": {
+      "content_sha": "sha256:06428402831a7b54703ea3745eef633c69876712fd4033f53b37a14efdfccdd6",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/sinteses/hierarquia-de-autoridade.md": {
+      "content_sha": "sha256:2c8056952886bf7ac6422878ec377f89a4a563363ee525ad73dc3c8d34e525cb",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/sinteses/parabolas-de-jesus.md": {
+      "content_sha": "sha256:c907ec14d6782072343bdae2edbe178b655f26f0d039df11b83332a79d2cb29c",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/sinteses/lar-como-fortaleza.md": {
+      "content_sha": "sha256:5bd487ce5afd944329ca1491f125b1bd422b727d1b71bf0be3c0719393d6c4b7",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/sinteses/auto-de-fe-de-barcelona.md": {
+      "content_sha": "sha256:fcea22dfbb60a4ff5b8d86396b65a982c46bfcc5e6a5d16729c2b0d70be53964",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "limpo",
+      "findings_count": 2,
+      "deferred_count": 0
+    },
+    "wiki/sinteses/possessos-de-morzine.md": {
+      "content_sha": "sha256:6379d8b181edd8b6237f7fadd2ea6480bbc3c0bc68293909482a0c7273e95bfb",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/colecao-fonte-viva-emmanuel.md": {
+      "content_sha": "sha256:df5aad55df932f549a680cd1c39f69771c6838f13a8f37a3f3c78c94f7850947",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 6,
+      "deferred_count": 2
+    },
+    "wiki/sinteses/psicopatologias-na-doutrina-espirita.md": {
+      "content_sha": "sha256:3adf0a1dc250f8a05bfb98837d6e1ea3d4464565d8d47735b654097e1c5615b5",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/serie-psicologica-joanna-de-angelis.md": {
+      "content_sha": "sha256:8c08859b45ab341eaece5d9c8f3347883482428c14e3c6a5e1056651983b3d5c",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/sermao-do-monte-em-emmanuel.md": {
+      "content_sha": "sha256:2e0d1fea46e917e0925f7697522f1bee9ed6d8d89e2485d0c70553545ca96feb",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/oracoes-do-canal-espiritualidade-e-vida.md": {
+      "content_sha": "sha256:ef55cdb67f2594a34b372e4ef4b807401cc5c8d110c9a5b7a0084f0a918eb233",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-05-26",
+      "verdict": "requer revisão humana",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/sinteses/sermao-do-monte.md": {
+      "content_sha": "sha256:bd5273399a4d312415547f5be24cb2fa42473e7370861a882d535aa58bb6f1f6",
+      "last_critica_date": "2026-06-03",
+      "atualizado_em_at_critica": "2026-06-03",
+      "verdict": "requer revisão humana",
+      "findings_count": 3,
       "deferred_count": 2
     }
   }

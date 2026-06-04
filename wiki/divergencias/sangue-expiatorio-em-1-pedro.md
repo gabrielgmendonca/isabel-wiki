@@ -2,7 +2,7 @@
 tipo: divergencia
 fontes: [LE, ESE, C&I, NT]
 tags: [divergencia, pedro, expiacao, propiciacao, sangue, salvacao, lei-de-causa-e-efeito, sacrificio-vicario, obra/le, obra/ese, obra/ci, autor/kardec, autor/pedro, grau/avancado, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-06-03
 status: aberta
 ---
 
@@ -36,7 +36,7 @@ Junto com Hb 9:11–14 (sumo sacerdote no Santo dos Santos com seu próprio sang
 
 ## Posição de Kardec
 
-A posição kardequiana é a mesma já desenvolvida em [[wiki/divergencias/sangue-expiatorio-em-1-joao|sangue expiatório em 1 João]] — não se repetem aqui as citações integrais. Os princípios estruturantes:
+A posição de Kardec é a mesma já desenvolvida em [[wiki/divergencias/sangue-expiatorio-em-1-joao|sangue expiatório em 1 João]] — não se repetem aqui as citações integrais. Os princípios estruturantes:
 
 ### 1. Cada Espírito é responsável pelos próprios atos
 
@@ -167,7 +167,7 @@ A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia e 
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — síntese da sequência kardequiana
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — síntese da sequência de Kardec
 - [[wiki/divergencias/sangue-expiatorio-em-1-joao]]
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]]
 - [[wiki/divergencias/uma-morte-e-juizo-em-hebreus-9]]
