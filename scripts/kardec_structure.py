@@ -53,10 +53,14 @@ NEXT_SIGLA_RE = re.compile(
 SIGLA_NORM = {"Gênese": "Genese"}
 
 # Range máximo de questão/item — fixado pelo cânon, não pelo raw.
-# LE: 1019 questões totais. As últimas 9 (q. 1011-1019) compõem a "Conclusão"
-# e no raw markdown vêm como **I**, **II**, ..., **IX** (não como "1011.",
-# por isso o `grep ^[0-9]+\.` indica máximo 1010). A literatura espírita
-# numera estas questões da Conclusão; mantemos 1019 como teto.
+# LE: a numeração de Kardec vai até 1019, mas ele SALTOU o nº 1011 (lapso
+# mantido nas 14 edições; ver "Nota dos Revisores" no raw após a q. 1012).
+# Logo há 1018 questões reais, numeradas 1..1010 e 1012..1019. As finais
+# (q. 1012–1019) vêm no raw em numeração dupla "<Kardec> [<sequencial>]."
+# (ex.: "1019 [1018].") — por isso `grep ^[0-9]+\.` parava em 1010; o
+# _ITEM_RE de cite.py reconhece esse formato e indexa pelo nº de Kardec.
+# A "Conclusão" (romanos I–IX) é prosa SEPARATE, depois da q. 1019.
+# Mantemos 1019 como teto; q. 1011 é inexistente por design.
 # LM: items numerados continuamente até 350 entre as duas partes.
 LE_MAX_QUESTAO = 1019
 LM_MAX_ITEM = 350

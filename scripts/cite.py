@@ -56,7 +56,11 @@ SIGLA_INPUT_NORM = {
 
 # Item dentro de capítulo / questão dentro do LE: linha começa com "N." (com
 # ou sem texto depois — algumas edições quebram a linha após o número).
-_ITEM_RE = re.compile(r"^(\d+)\.\s*")
+# As questões finais do LE (q. 1012–1019) vêm em numeração dupla
+# "<nº Kardec> [<nº sequencial>]." (ex.: "1019 [1018].") porque Kardec saltou
+# o nº 1011 (ver Nota dos Revisores no raw, após a q. 1012). Capturamos o
+# PRIMEIRO número — o de Kardec, que é o usado nas citações canônicas.
+_ITEM_RE = re.compile(r"^(\d+)(?:\s*\[\d+\])?\.\s*")
 
 # Subitem do LE: "a) –", tolera travessões variados ou ausência.
 _SUBITEM_RE = re.compile(r"^([a-z])\)\s*[–—-]?")
@@ -210,6 +214,12 @@ def extract_le(ref: str) -> tuple[str, str]:
                     return header, body
             return _err(f"subitem {subitem}) não encontrado em q. {n} (linhas {i + 1}-{end})")
 
+    if n == 1011:
+        return _err(
+            "q. 1011 não existe no LE: Kardec saltou esse número na numeração "
+            "(Nota dos Revisores, após a q. 1012). A sequência vai q. 1010 → q. 1012; "
+            "as questões finais usam numeração dupla 'Kardec [sequencial]' até q. 1019."
+        )
     return _err(f"q. {n} não encontrada em {_rel(md_path)}")
 
 

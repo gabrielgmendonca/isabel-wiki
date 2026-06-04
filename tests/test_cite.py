@@ -43,5 +43,28 @@ class CiteSmokeTests(unittest.TestCase):
         self.assertIn("sigla desconhecida", err)
 
 
+class CiteConclusaoNumeracaoDuplaTests(unittest.TestCase):
+    """q. 1012–1019 do LE usam numeração dupla 'Kardec [sequencial].' no raw
+    (ex.: '1015 [1014].') porque Kardec saltou o nº 1011. cite.py deve
+    resolvê-las pelo nº de Kardec e explicar a ausência da 1011."""
+
+    def test_q1015_resolve_pela_numeracao_de_kardec(self):
+        code, out, _ = _run(["LE", "q. 1015"])
+        self.assertEqual(code, 0)
+        self.assertIn("(LE, q. 1015)", out)
+        self.assertIn("alma a penar", out)
+
+    def test_q1019_resolve_reinado_do_bem(self):
+        code, out, _ = _run(["LE", "q. 1019"])
+        self.assertEqual(code, 0)
+        self.assertIn("(LE, q. 1019)", out)
+        self.assertIn("reinado do bem", out)
+
+    def test_q1011_inexistente_explica_o_salto(self):
+        code, _, err = _run(["LE", "q. 1011"])
+        self.assertNotEqual(code, 0)
+        self.assertIn("saltou", err)
+
+
 if __name__ == "__main__":
     unittest.main()
