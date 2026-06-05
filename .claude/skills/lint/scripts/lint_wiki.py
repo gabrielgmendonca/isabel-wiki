@@ -594,7 +594,11 @@ def check_citation_resolves(pages: list[Path]) -> dict:
                         "citation": m.group(0),
                         "reason": reason,
                     })
-    return {"severity": "warning", "count": len(items), "items": items}
+    # severity "error": locus do Pentateuco que não resolve é citação falsa de
+    # Kardec — bloqueia o deploy e reprova o PR (lint-pr.yml / deploy-wiki.yml),
+    # não só registra aviso. Captura typo de número, parte inexistente e cap.
+    # fora do range; NÃO captura deturpação semântica (ROADMAP §4).
+    return {"severity": "error", "count": len(items), "items": items}
 
 
 def find_urls(text: str) -> list[tuple[int, str]]:
