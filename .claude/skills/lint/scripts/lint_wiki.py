@@ -10,9 +10,11 @@ Sem dependências externas — apenas stdlib.
 """
 
 import argparse
+import difflib
 import json
 import re
 import sys
+import unicodedata
 from datetime import date, datetime
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -45,6 +47,7 @@ from kardec_structure import (  # noqa: E402
     resolve_locus,
 )
 from link_citations import KARDEC_RE  # noqa: E402
+from cite import literal_text  # noqa: E402
 
 STALE_DAYS = 14
 
@@ -599,6 +602,104 @@ def check_citation_resolves(pages: list[Path]) -> dict:
     # não só registra aviso. Captura typo de número, parte inexistente e cap.
     # fora do range; NÃO captura deturpação semântica (ROADMAP §4).
     return {"severity": "error", "count": len(items), "items": items}
+
+
+# ─── check_literal_quote_exists ────────────────────────────────────────────────
+# Aspa literal (reta "…" ou curva “…”) imediatamente seguida de uma citação Kardec.
+# Captura o conteúdo da aspa (grupo 1) e o parêntese candidato (grupo 2); o
+# parêntese é revalidado por KARDEC_RE para confirmar que é citação ao Pentateuco.
+_QUOTE_BEFORE_CITE_RE = re.compile(
+    r'["“]([^"”\n]{12,}?)["”]'      # aspa com ≥12 chars (pré-filtro bruto)
+    r'[\s,.:;…–—-]*'                # liga até a citação (só pontuação/espaço — sem letras)
+    r'(\([^)\n]*\))'                # parêntese seguinte (citação candidata)
+)
+
+# Marcadores de elisão dentro da aspa, colapsados antes do match: "...", "…",
+# "[...]", "[…]". (A cobertura fuzzy tolera a lacuna; não precisa fragmentar.)
+_ELISION_RE = re.compile(r'\[\s*(?:\.\.\.|…)\s*\]|\.\.\.|…')
+
+# Pisos contra ruído de aspas curtas/triviais.
+_MIN_WORDS = 5
+# Abaixo desta fração de palavras da aspa alinhadas (em ordem) ao locus, a aspa é
+# candidata a fabricação. Conservador: 0.5 = mais da metade da aspa ausente da
+# fonte. Substring exato (1.0) era frágil — variação de 1 palavra ("se descobre"
+# vs "descobre"), ortografia de época ou colchete editorial `[são]` derrubava.
+_COVERAGE_MIN = 0.5
+
+
+def _normalize_quote(s: str) -> str:
+    """Casefold + sem acento + só alfanumérico colapsado em espaço único.
+    Absorve diferenças de pontuação, caixa e diacrítico entre aspa e fonte."""
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
+def _word_coverage(quote: str, locus: str) -> float:
+    """Fração das palavras da aspa que se alinham, EM ORDEM, ao texto do locus
+    (`difflib` matching blocks a nível de palavra). 1.0 = aspa verbatim; baixo =
+    aspa cuja maioria das palavras não aparece na fonte (candidata a fabricação).
+    Tolera rewording leve, ortografia de época e elisão — robusto onde substring
+    exato quebrava."""
+    qw = _normalize_quote(_ELISION_RE.sub(" ", quote)).split()
+    lw = _normalize_quote(locus).split()
+    if not qw:
+        return 1.0
+    sm = difflib.SequenceMatcher(None, qw, lw, autojunk=False)
+    return sum(b.size for b in sm.get_matching_blocks()) / len(qw)
+
+
+def check_literal_quote_exists(pages: list[Path]) -> dict:
+    """Check (info) — aspa literal atribuída a Kardec que NÃO existe no locus citado.
+
+    Padrão alvo (ROADMAP §5 "aspas literais fabricadas"): `"frase" (LE, q. N)` onde
+    a frase, posta como citação literal, não aparece no texto da q. N. Reusa
+    `cite.py:literal_text` (verdade-fonte do Pentateuco) — checagem de EXISTÊNCIA da
+    aspa (mais fraca que "o trecho sustenta a afirmação", que segue bloqueada por
+    granularidade plena; ver "Versão estrita do check" no §5).
+
+    **Aid de auditoria humana, não gate** — entra como `info` e fica fora do hook
+    PostToolUse (SINGLE_FILE_CHECKS): a precisão é limitada pela extração de locus do
+    `cite.py`, que erra o bloco em capítulos de numeração irregular (ESE cap. XXVIII
+    — coletânea de preces; C&I 2ª parte — relatos nominais), gerando falso-positivo.
+    Os flags são CANDIDATOS para o levantamento manual do §5, não veredictos.
+
+    Conservador por design:
+    - só double-quotes adjacentes a uma citação Kardec **resolvível**;
+    - cobertura fuzzy de palavras (tolera acento/caixa/pontuação/rewording leve);
+      elisões (`[...]`, `…`) são colapsadas;
+    - piso de ≥5 palavras (aspa curta não é checada — evitaria casar "caridade");
+    - skip em blockquote/code (transcrição literal histórica, fora de escopo);
+    - locus inválido → skip (já coberto por `check_citation_resolves`).
+    """
+    items: list[dict] = []
+    for page in pages:
+        text = page.read_text(encoding="utf-8")
+        body = strip_inline_code(text)
+        body = _strip_blockquotes(body)
+        for i, line in enumerate(body.splitlines(), 1):
+            for m in _QUOTE_BEFORE_CITE_RE.finditer(line):
+                quote, citation = m.group(1), m.group(2)
+                km = KARDEC_RE.search(citation)
+                if not km:
+                    continue
+                locus = literal_text(km.group("sigla"), km.group("rest"))
+                if locus is None:
+                    continue  # locus inválido → responsabilidade do citation_resolves
+                if len(_normalize_quote(_ELISION_RE.sub(" ", quote)).split()) < _MIN_WORDS:
+                    continue  # aspa curta demais para afirmar fabricação
+                coverage = _word_coverage(quote, locus)
+                if coverage < _COVERAGE_MIN:
+                    items.append({
+                        "path": str(page),
+                        "line": i,
+                        "quote": quote if len(quote) <= 120 else quote[:117] + "...",
+                        "citation": citation,
+                        "coverage": round(coverage, 2),
+                    })
+    # severity "info": candidato a aspa fabricada exige conferência humana (a
+    # cobertura é tolerante e a extração de locus do cite.py é imperfeita em
+    # capítulos irregulares). Não promover a warning/error sem calibrar (§5).
+    return {"severity": "info", "count": len(items), "items": items}
 
 
 def find_urls(text: str) -> list[tuple[int, str]]:
@@ -1535,6 +1636,7 @@ CHECK_REGISTRY = {
     "fontes_missing": check_fontes_section,
     "citation_format": check_citation_format,
     "citation_resolves": check_citation_resolves,
+    "literal_quote_exists": check_literal_quote_exists,
     "low_citations": check_low_citations,
     "rascunho_stale": check_rascunho_stale,
     "divergencias_aberta": check_divergencias_aberta,

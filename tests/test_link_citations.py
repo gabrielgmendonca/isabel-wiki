@@ -340,5 +340,98 @@ class ResolveObraSlugTests(unittest.TestCase):
         self.assertIsNone(resolve_obra_slug("Obra Inexistente", self.index))
 
 
+def make_deep_mapping() -> dict:
+    """Mapping com question_urls (LE) e item_urls (demais) — exercita o deep-link
+    por questão/item, e o fallback ao capítulo quando a URL granular falta."""
+    base = "https://example.test"
+    return {
+        "_base": base,
+        "books": {
+            "LE": {
+                "chapters": {"3:VII": "/le/cap-3-vii", "1:I": "/le/cap-1-i"},
+                "questions": {"990": "3:VII", "150": "1:I"},
+                # q. 990 tem URL própria; q. 150 não (só resolve via capítulo).
+                "question_urls": {"990": "/le/q/990"},
+            },
+            "ESE": {
+                "chapters": {"XVII": "/ese/cap-xvii"},
+                "questions": {},
+                # item reinicia por capítulo → chave "cap:item".
+                "item_urls": {"XVII:4": "/ese/xvii/4"},
+            },
+            "LM": {
+                "chapters": {"2:XX": "/lm/parte-2-cap-xx"},
+                "questions": {},
+                # item contínuo global → chave flat.
+                "item_urls": {"230": "/lm/230"},
+            },
+            "Genese": {
+                "chapters": {"XI": "/genese/cap-xi"},
+                "questions": {},
+                "item_urls": {"XI:13": "/genese/xi/13"},
+            },
+            "C&I": {
+                "chapters": {"1:VI": "/cei/parte-1-cap-vi"},
+                "questions": {},
+                "item_urls": {"1:VI:3": "/cei/1/vi/3"},
+            },
+        },
+    }
+
+
+class DeepLinkTests(unittest.TestCase):
+    """Preferência por URL de questão/item (B do roadmap §4); fallback ao capítulo."""
+
+    def setUp(self) -> None:
+        self.mapping = make_deep_mapping()
+
+    def run_transform(self, text: str) -> str:
+        return transform(text, self.mapping, set(), None, None)
+
+    # ─── LE: questão ──────────────────────────────────────────────────────────
+
+    def test_le_question_prefers_question_url(self) -> None:
+        out = self.run_transform("Conforme (LE, q. 990).")
+        self.assertIn("[(LE, q. 990)](https://example.test/le/q/990)", out)
+
+    def test_le_question_falls_back_to_chapter(self) -> None:
+        # q. 150 não tem question_url → resolve via questions→chapters.
+        out = self.run_transform("Ver (LE, q. 150).")
+        self.assertIn("[(LE, q. 150)](https://example.test/le/cap-1-i)", out)
+
+    # ─── ESE/Gênese/C&I: item reinicia por capítulo (chave cap:item) ──────────
+
+    def test_ese_item_prefers_item_url(self) -> None:
+        out = self.run_transform("Ver (ESE, cap. XVII, item 4).")
+        self.assertIn("[(ESE, cap. XVII, item 4)](https://example.test/ese/xvii/4)", out)
+
+    def test_ese_item_missing_falls_back_to_chapter(self) -> None:
+        # item 9 não está em item_urls → cai no capítulo.
+        out = self.run_transform("Ver (ESE, cap. XVII, item 9).")
+        self.assertIn("[(ESE, cap. XVII, item 9)](https://example.test/ese/cap-xvii)", out)
+
+    def test_ese_chapter_only_unaffected(self) -> None:
+        out = self.run_transform("Ver (ESE, cap. XVII).")
+        self.assertIn("[(ESE, cap. XVII)](https://example.test/ese/cap-xvii)", out)
+
+    def test_genese_item_no_part(self) -> None:
+        out = self.run_transform("(Gênese, cap. XI, item 13)")
+        self.assertIn("[(Gênese, cap. XI, item 13)](https://example.test/genese/xi/13)", out)
+
+    def test_cei_item_with_part(self) -> None:
+        out = self.run_transform("(C&I, 1ª parte, cap. VI, item 3)")
+        self.assertIn("[(C&I, 1ª parte, cap. VI, item 3)](https://example.test/cei/1/vi/3)", out)
+
+    # ─── LM: item contínuo global (chave flat), com ou sem capítulo ───────────
+
+    def test_lm_item_with_chapter_uses_flat_key(self) -> None:
+        out = self.run_transform("(LM, 2ª parte, cap. XX, item 230)")
+        self.assertIn("[(LM, 2ª parte, cap. XX, item 230)](https://example.test/lm/230)", out)
+
+    def test_lm_item_without_chapter(self) -> None:
+        out = self.run_transform("(LM, item 230)")
+        self.assertIn("[(LM, item 230)](https://example.test/lm/230)", out)
+
+
 if __name__ == "__main__":
     unittest.main()

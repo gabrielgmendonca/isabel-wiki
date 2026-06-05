@@ -51,6 +51,7 @@ KARDEC_RE = re.compile(
 PART_NUM_RE = re.compile(r"(?P<n>[1-5])\s*[ªa°]?\s*parte", re.IGNORECASE)
 CAP_RE      = re.compile(r"cap\.\s*(?P<r>[ivxlcdm]+)\b", re.IGNORECASE)
 Q_RE        = re.compile(r"q\.\s*(?P<n>\d+)")
+ITEM_RE     = re.compile(r"item\s+(?P<n>\d+)", re.IGNORECASE)
 INTRO_RE    = re.compile(r"introdu[çc][ãa]o", re.IGNORECASE)
 INTRO_IT_RE = re.compile(r"introdu[çc][ãa]o[^,]*,\s*item\s+(?P<r>[ivxlcdm]+)", re.IGNORECASE)
 
@@ -203,13 +204,34 @@ def kardec_url(mapping: dict, sigla_raw: str, rest: str) -> str | None:
         cap = cap_m.group("r").upper()
         part_m = PART_NUM_RE.search(rest)
         key = f"{part_m.group('n')}:{cap}" if part_m else cap
+        # Item dentro do capítulo: (ESE, cap. XVII, item 4) → item_urls["XVII:4"]
+        # (ESE/C&I/Gênese reiniciam o nº por capítulo). LM cita item global junto do
+        # capítulo (LM, 2ª parte, cap. XX, item 230) → casa no fallback flat item_urls["230"].
+        item_m = ITEM_RE.search(rest)
+        if item_m:
+            items = book.get("item_urls", {})
+            ipath = items.get(f"{key}:{item_m.group('n')}") or items.get(item_m.group("n"))
+            if ipath:
+                return base + ipath
         path = book.get("chapters", {}).get(key)
         return base + path if path else None
 
+    # Item sem capítulo (LM contínuo): (LM, item 230) → item_urls["230"] (chave flat).
+    item_m = ITEM_RE.search(rest)
+    if item_m:
+        ipath = book.get("item_urls", {}).get(item_m.group("n"))
+        if ipath:
+            return base + ipath
+
     # Questão (LE): (LE, q. 990) | (LE, q. 149–164) — usa primeira do range.
+    # Prefere a URL da própria questão; cai para o capítulo se a questão faltar no mapa.
     q_m = Q_RE.search(rest)
     if q_m:
-        chap_key = book.get("questions", {}).get(q_m.group("n"))
+        n = q_m.group("n")
+        qpath = book.get("question_urls", {}).get(n)
+        if qpath:
+            return base + qpath
+        chap_key = book.get("questions", {}).get(n)
         if chap_key:
             path = book.get("chapters", {}).get(chap_key)
             return base + path if path else None

@@ -24,6 +24,7 @@ import argparse
 import json
 import re
 import sys
+from functools import lru_cache
 from pathlib import Path
 
 # Reuso integral do parsing — não duplicar regex.
@@ -93,8 +94,17 @@ _INDEX_LINE_RE = re.compile(
 _PART_PRETTY = {1: "Parte primeira", 2: "Parte segunda", 3: "Parte terceira", 4: "Parte quarta"}
 
 
+@lru_cache(maxsize=8)
+def _read_lines_cached(path_str: str) -> tuple[str, ...]:
+    """Leitura+split memoizados — obras do Pentateuco têm até ~12k linhas, e o
+    check de lint chama os extractors uma vez por citação na página."""
+    return tuple(Path(path_str).read_text(encoding="utf-8").splitlines())
+
+
 def _read_lines(path: Path) -> list[str]:
-    return path.read_text(encoding="utf-8").splitlines()
+    # Cópia fresca por chamada (os extractors só leem/fatiam, mas a cache guarda
+    # uma tupla imutável — copiar isola de mutação acidental futura).
+    return list(_read_lines_cached(str(path)))
 
 
 def _rel(path: Path) -> str:
@@ -315,6 +325,33 @@ def _is_ci_segunda_parte(line_start: int) -> bool:
     """Heurística: C&I 2ª parte começa por volta da linha ~1900 (de ~3500).
     Conferir em runtime lendo o .index.md seria mais robusto mas adiciona IO."""
     return line_start > 1800
+
+
+# Siglas aceitas pelo helper programático — formas que o KARDEC_RE do
+# link_citations captura ("Gênese"/"Genese"). C&I/LE/LM/ESE passam direto.
+_HELPER_SIGLA_NORM = {"GÊNESE": "Genese", "GENESE": "Genese"}
+
+
+def literal_text(sigla: str, ref: str) -> str | None:
+    """Texto literal de `(sigla, ref)` do Pentateuco, ou `None` se o locus não
+    resolver. Reuso programático dos extractors da CLI — sem print nem sys.exit.
+
+    Consumido por `check_literal_quote_exists` (lint) para validar a existência de
+    uma aspa literal de Kardec. `None` significa "locus inválido/não encontrado" —
+    o caller deve pular (o erro de locus já é coberto por check_citation_resolves)."""
+    sigla = _HELPER_SIGLA_NORM.get(sigla.upper(), sigla)
+    if sigla not in SIGLA_TO_SLUG:
+        return None
+    try:
+        if sigla == "LE":
+            _, body = extract_le(ref)
+        elif sigla == "LM":
+            _, body = extract_lm(ref)
+        else:
+            _, body = extract_capitulo(sigla, ref)
+    except SystemExit:
+        return None
+    return body
 
 
 def _err(msg: str) -> tuple[str, str]:

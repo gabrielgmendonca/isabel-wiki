@@ -88,8 +88,10 @@ def crawl_book(sigla: str, meta: dict) -> dict:
     pairs = book_links(meta["id"], meta["slug"])
     print(f"[{sigla}] {len(pairs)} links", file=sys.stderr)
 
-    chapters: dict[str, str] = {}     # "1:VII" or "VII" → URL
-    questions: dict[str, str] = {}    # "990" → "4:II" (LE) or "990" → "1:VII" (C&I, LM)
+    chapters: dict[str, str] = {}      # "1:VII" or "VII" → URL
+    questions: dict[str, str] = {}     # "990" → "4:II" (LE) or "990" → "1:VII" (C&I, LM)
+    question_urls: dict[str, str] = {} # "990" → URL da questão (LE; nº global, sem colisão)
+    item_urls: dict[str, str] = {}     # "XVII:4" / "1:VI:3" → URL do item (demais; nº por capítulo)
     intro_url: str | None = None
     intro_items: dict[str, str] = {}
 
@@ -137,12 +139,25 @@ def crawl_book(sigla: str, meta: dict) -> dict:
         last = rest[-1]
         if last.isdigit():
             questions[last] = key
+            question_urls[last] = path           # nº global (LE)
+            item_urls[f"{key}:{last}"] = path     # nº por capítulo (demais)
 
     entry: dict = {"chapters": chapters}
-    # Só LE é citado por questão isolada (`q. 990`); demais sempre incluem o capítulo.
-    # Para outros livros, "items" colidem entre capítulos (per-chapter, não globais).
+    # Só LE é citado por questão isolada (`q. 990`, nº global) → questions + question_urls (flat).
+    # Demais obras numeram item por capítulo (`cap. X, item Y`) → item_urls chaveado por
+    # "capítulo:item" (evita a colisão que um dict flat por número teria entre capítulos).
     if sigla == "LE" and questions:
         entry["questions"] = questions
+        if question_urls:
+            entry["question_urls"] = question_urls
+    elif item_urls:
+        if sigla == "LM":
+            # LM: item contínuo 1–350, citado como `item N` (sem capítulo) → chave flat.
+            # O nº é global (não repete entre capítulos), então não há colisão ao soltar o capítulo.
+            entry["item_urls"] = {k.rsplit(":", 1)[-1]: v for k, v in item_urls.items()}
+        else:
+            # ESE/C&I/Gênese: item reinicia por capítulo, citado como `cap. X, item Y` → chave "capítulo:item".
+            entry["item_urls"] = item_urls
     if intro_url:
         entry["intro"] = intro_url
     if intro_items:
