@@ -1303,18 +1303,62 @@ def _strip_wikilinks(body: str) -> str:
     return re.sub(r"\[\[[^\]]*\]\]", lambda m: " " * len(m.group(0)), body)
 
 
+_FONTES_HEADING_RE = re.compile(r"^#{1,2}\s+Fontes\b", re.IGNORECASE)
+_H1_H2_RE = re.compile(r"^#{1,2}\s")
+
+
+def _strip_fontes_section(body: str) -> str:
+    """Blanqueia a seção `## Fontes` (até a próxima H1/H2 ou EOF), preservando offsets.
+
+    Em `## Fontes` as referências bibliográficas citam o título da obra em itálico
+    como forma canônica de citação (acompanhado de `Ver [[wiki/obras/...]]` em
+    separado) e o nome do autor na forma bibliográfica (`SOBRENOME, Nome`). Esse
+    título/nome plano é convenção de citação, não prosa onde se esperaria wikilink.
+    O canonical-name check ignora esse trecho.
+    """
+    out = []
+    in_fontes = False
+    for line in body.splitlines(keepends=True):
+        if in_fontes:
+            if _H1_H2_RE.match(line) and not _FONTES_HEADING_RE.match(line):
+                in_fontes = False
+                out.append(line)
+            else:
+                out.append("".join(c if c == "\n" else " " for c in line))
+        elif _FONTES_HEADING_RE.match(line):
+            in_fontes = True
+            out.append("".join(c if c == "\n" else " " for c in line))
+        else:
+            out.append(line)
+    return "".join(out)
+
+
+# Páginas de Escritura — os nomes próprios pertencem ao texto sagrado (tradução
+# ACF) e não recebem wikilink inline; cross-references a personalidades se fazem
+# por página dedicada/seção, não no versículo.
+_SCRIPTURE_TIPOS = {"capitulo-biblico", "livro-biblico"}
+
+
 def check_canonical_names(pages: list[Path]) -> dict:
     """Check — uso de alias registrado fora de wikilink/blockquote/inline code.
 
     Constrói o mapa alias → canonical a partir do campo `aliases:` no frontmatter
     de páginas em `wiki/personalidades/` e `wiki/obras/`. Para cada página da
     wiki, varre o corpo (sem frontmatter, sem blockquotes, sem inline code, sem
-    wikilinks) e sinaliza ocorrências de alias como whole-word. Skip explícito:
+    wikilinks, sem a seção `## Fontes`) e sinaliza ocorrências de alias como
+    whole-word. Skip explícito:
 
     - Página canônica da própria entidade (ela introduz seus próprios aliases
       em "Identificação", "Dados bibliográficos", etc.).
     - Aliases com menos de 4 caracteres (regra editorial em
       `convencoes-aliases.md`) — defesa profunda contra cadastro errado.
+    - Páginas de Escritura (`tipo` em `_SCRIPTURE_TIPOS`): o nome próprio é texto
+      sagrado, não prosa editorial a linkar.
+    - Seção `## Fontes`: título/autor em forma bibliográfica é citação canônica
+      (ver `_strip_fontes_section`).
+    - Entidade já referenciada por wikilink em algum ponto da página: a cobertura
+      de cross-reference já existe; menções planas subsequentes (2ª ocorrência,
+      título original entre parênteses) são estilo correto, não omissão.
 
     Severity `info`: orienta passes incrementais; promover a `warning` após
     calibração contra falsos positivos.
@@ -1356,13 +1400,19 @@ def check_canonical_names(pages: list[Path]) -> dict:
     for page in pages:
         page_str = str(page)
         text = page.read_text(encoding="utf-8")
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") in _SCRIPTURE_TIPOS:
+            continue  # nome próprio em versículo é texto sagrado, não prosa a linkar
         body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
         body = strip_inline_code(body)
         body = _strip_blockquotes(body)
         body = _strip_wikilinks(body)
+        body = _strip_fontes_section(body)
         for alias, info in aliases_map.items():
             if info["canonical_path"] == page_str:
                 continue  # página canônica introduz seus próprios aliases
+            if f"[[{info['canonical_link']}" in text:
+                continue  # entidade já cross-referenciada por wikilink na página
             pat = alias_patterns[alias]
             for i, line in enumerate(body.splitlines(), 1):
                 if pat.search(line):

@@ -121,7 +121,7 @@ Releitura terapêutica de [[wiki/conceitos/planejamento-reencarnatorio]] e da es
 
 ### Personalidades históricas mencionadas (sem página na wiki)
 
-- **Casos evangélicos como tipologia do arrependimento** (cap. 9): Simão Pedro, Maria de Madalena, Zaqueu, Judas Iscariotes.
+- **Casos evangélicos como tipologia do arrependimento** (cap. 9): Simão Pedro, Maria de Madalena, Zaqueu, [[wiki/personalidades/judas-iscariotes|Judas Iscariotes]].
 - **Mártires e exemplos de fé**: Joana de Cusa (séc. I, cap. 26), Jan Huss, Joana D'Arc, Giordano Bruno.
 - **Exemplos de fé na história da ciência e cultura** (cap. 10): Ignaz Semmelweis, Thomas Edison, Cristóvão Colombo.
 - **Exemplos de "sucesso" mundano vs. interno** (cap. 15): Júlio César, Nero, Hitler (sucesso mundano); Gandhi, Pasteur (sucesso interno).

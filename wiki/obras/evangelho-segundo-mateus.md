@@ -195,7 +195,7 @@ Bloco central da moral cristã; núcleo doutrinário do ESE.
 - José — esposo de Maria (Mt 1–2).
 - Pedro — apóstolo, confessa a messianidade (Mt 16:16) e nega Jesus (Mt 26:69–75).
 - Mateus (Levi) — publicano chamado ao apostolado (Mt 9:9).
-- Judas Iscariotes — traidor (Mt 26:14–16, 47–50; 27:3–5).
+- [[wiki/personalidades/judas-iscariotes|Judas Iscariotes]] — traidor (Mt 26:14–16, 47–50; 27:3–5).
 - Maria Madalena e "a outra Maria" — testemunhas da ressurreição (Mt 28:1–10).
 
 ## Divergências registradas

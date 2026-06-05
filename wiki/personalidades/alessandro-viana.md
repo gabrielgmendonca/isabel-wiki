@@ -34,7 +34,7 @@ Conferência sobre [[wiki/conceitos/transicao-planetaria|transição planetária
 3. **Religiões desfiguradas pela ausência do amor** (guetos de salvação exclusiva; teologia da prosperidade);
 4. **Filosofias esdrúxulas** disseminadas nas redes ("você merece ser feliz a qualquer custo", desvalorização da família).
 
-Articula essas forças com a categoria **normose** (obsessão coletiva por imitação massificada) de Manuel Filomeno de Miranda (*No Rumo do Mundo de Regeneração*). Recupera *Os Mensageiros* (Esmália) para a leitura do presente como "Jerusalém de ontem, desdenhando a mensagem do Cristo e o crucificando todos os dias no madeiro da indiferença e do desdém", com convocação a cada espírita para se reconhecer em qual personagem do drama do Calvário (César, Pilatos, fariseus, Anás e Caifás) ainda permanece. Encerramento com a pergunta-exercício: *para onde caminho eu?*
+Articula essas forças com a categoria **normose** (obsessão coletiva por imitação massificada) de Manuel Filomeno de Miranda (*No Rumo do Mundo de Regeneração*). Recupera *Os Mensageiros* (Esmália) para a leitura do presente como "Jerusalém de ontem, desdenhando a mensagem do Cristo e o crucificando todos os dias no madeiro da indiferença e do desdém", com convocação a cada espírita para se reconhecer em qual personagem do drama do Calvário (César, [[wiki/personalidades/poncio-pilatos|Pilatos]], fariseus, Anás e Caifás) ainda permanece. Encerramento com a pergunta-exercício: *para onde caminho eu?*
 
 Aporte sistematizado em [[wiki/conceitos/transicao-planetaria]], seção "Diagnóstico contemporâneo dos obstáculos à transição (Alessandro Viana)". Transcrição: [[raw/palestras/mansao-do-caminho/alessandro-viana-para-onde-caminha-a-humanidade]].
 

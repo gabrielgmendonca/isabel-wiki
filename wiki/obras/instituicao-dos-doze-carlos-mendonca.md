@@ -51,7 +51,7 @@ Detalhamento das procedências:
 - **Tomé** — descendia de antigo pescador de Dalmanuta.
 - **Bartolomeu** — família trabalhadora de Caná da Galileia.
 - **Simão Zelota** — deixou Caná para a pesca.
-- **Judas Iscariotes** — destoava do grupo; ligara-se ao pequeno comércio de peixes em Cafarnaum.
+- **[[wiki/personalidades/judas-iscariotes|Judas Iscariotes]]** — destoava do grupo; ligara-se ao pequeno comércio de peixes em Cafarnaum.
 
 O grupo **não era coeso desde o início**. Pequenas discussões entre os apóstolos sobre "qual deles seria o maior no Reino" geravam separatividade; Levi ainda exercia a coleta de impostos e Judas mantinha seus negócios, enquanto os outros dez viviam quase constantemente com Jesus às margens do Lago de Tiberíades. Apenas no início dos trabalhos ativos é que o Mestre reuniu-os na casa de Pedro para as primeiras **instruções apostólicas**.
 

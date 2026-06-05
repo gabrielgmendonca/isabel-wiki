@@ -66,7 +66,7 @@ index: false
 - [[raw/autores/gabriel-delanne/a-mediunidade-mecanica]]
 - [[raw/autores/gabriel-delanne/automatismo-da-escrita-psicografica]]
 
-### Yvonne Pereira (só *A Luz do Consolador* ingerida)
+### Yvonne Pereira (só *[[wiki/obras/a-luz-do-consolador|A Luz do Consolador]]* ingerida)
 - [[raw/autores/yvonne-pereira/a-familia-espirita]]
 - [[raw/autores/yvonne-pereira/a-tragedia-de-santa-maria]]
 - [[raw/autores/yvonne-pereira/amor-e-odio]]

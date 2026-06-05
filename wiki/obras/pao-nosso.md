@@ -133,7 +133,7 @@ Além dos sete eixos acima, a obra trabalha de modo recorrente:
 - [[wiki/personalidades/emmanuel]] — autor espiritual
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - **João Batista** — cap. 90 (*O Trabalhador Divino*); a apresentação do Cristo como trabalhador da eira
-- **Judas Iscariotes** — cap. 91 (*Isso é contigo*); figura do abandono pelos cooperadores no mal
+- **[[wiki/personalidades/judas-iscariotes|Judas Iscariotes]]** — cap. 91 (*Isso é contigo*); figura do abandono pelos cooperadores no mal
 
 ## Divergências
 

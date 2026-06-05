@@ -154,7 +154,7 @@ Kardec cita Marcos sobretudo para: (i) confirmar a reencarnação — "Elias já
 - João Batista — precursor, identificado por Jesus como reencarnação de Elias (Mc 9:13).
 - Pedro — apóstolo cuja pregação oral, pela tradição (Papias), fundamenta o Evangelho; confessa a messianidade (Mc 8:29) e nega Jesus (Mc 14:66–72).
 - Tiago e João (filhos de Zebedeu) — pedido dos assentos de glória (Mc 10:35–40).
-- Judas Iscariotes — traidor (Mc 14:10–11, 43–46).
+- [[wiki/personalidades/judas-iscariotes|Judas Iscariotes]] — traidor (Mc 14:10–11, 43–46).
 - Jairo — principal da sinagoga, pai da menina ressuscitada (Mc 5:22).
 - Bartimeu, filho de Timeu — cego de Jericó, nomeado apenas por Marcos (Mc 10:46).
 - Maria Madalena, Maria mãe de Tiago, Salomé — testemunhas da crucificação e da ressurreição (Mc 15:40; 16:1).

@@ -114,7 +114,7 @@ Além dos seis eixos acima, a obra trabalha de modo recorrente:
 - [[wiki/personalidades/pedro-apostolo]] — protagonista dos caps. 5 (Bases), 15 (Conversão), 88 (Velar com Jesus), 89 (O fracasso de Pedro)
 - [[wiki/personalidades/joao-apostolo]] — fonte da maioria das epígrafes evangélicas
 - **Maria de Magdala** — cap. 92 (Madalena), sobre a primeira aparição do Cristo ressurreto
-- **Judas Iscariotes** — caps. 90 (Ensejo ao bem) e 91 (Campo de Sangue), sobre o ensejo ao bem oferecido até o fim e o destino simbólico das trinta moedas
+- **[[wiki/personalidades/judas-iscariotes|Judas Iscariotes]]** — caps. 90 (Ensejo ao bem) e 91 (Campo de Sangue), sobre o ensejo ao bem oferecido até o fim e o destino simbólico das trinta moedas
 
 ## Divergências
 

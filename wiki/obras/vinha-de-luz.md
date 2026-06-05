@@ -149,7 +149,7 @@ Além dos oito eixos acima, a obra trabalha de modo recorrente:
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - **Marta** — cap. 3 *O necessário* (Lc 10.42); recipiente da lição do "uma só coisa é necessária"
 - **[[wiki/personalidades/poncio-pilatos|Pilatos]]** — cap. 100 *Que fazemos do Mestre?*; figura da pergunta evasiva que termina em crucifixão por omissão
-- **Judas Iscariotes** — cap. 104 *Nos mesmos pratos* (Mt 26.23); figura do amigo transviado como infrator mais temível
+- **[[wiki/personalidades/judas-iscariotes|Judas Iscariotes]]** — cap. 104 *Nos mesmos pratos* (Mt 26.23); figura do amigo transviado como infrator mais temível
 - **Onesíforo** — cap. 95 *Procuremos* (2 Tm 1.17); figura do discípulo que busca o apóstolo "com muito cuidado"
 - **Jairo** e **esposa de Zebedeu** — cap. 100; figuras da fé condicional e da preocupação com posições
 - **Moisés** — cap. 173 *O pão divino* (Jo 6.32); figura do alimento espiritual provisório superado pelo verdadeiro pão do Céu
