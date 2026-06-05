@@ -39,8 +39,8 @@ Seus principais orientadores espirituais foram **Bezerra de Menezes**, **Charles
 Autoria espiritual conforme a autobiografia da médium (em *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]*); títulos sem página própria mantidos da compilação do catálogo FEB Editora. Apenas as linkadas têm página em `wiki/obras/`.
 
 - [[wiki/obras/a-luz-do-consolador|À Luz do Consolador]] — coletânea póstuma (FEB, 1997) de crônicas do *Reformador* sob o pseudônimo *Frederico Francisco*; inclui sua autobiografia mediúnica
-- *Memórias de um Suicida* — Espírito Camilo Castelo Branco, refeito por [[wiki/personalidades/leon-denis|Léon Denis]]; referência clássica sobre [[wiki/conceitos/suicidio|suicídio]]
-- [[wiki/obras/nas-telas-do-infinito|Nas Telas do Infinito]] — [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] e Camilo Castelo Branco
+- [[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]] — Espírito [[wiki/personalidades/camilo-castelo-branco|Camilo Castelo Branco]], refeito por [[wiki/personalidades/leon-denis|Léon Denis]]; referência clássica sobre [[wiki/conceitos/suicidio|suicídio]]
+- [[wiki/obras/nas-telas-do-infinito|Nas Telas do Infinito]] — [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] e [[wiki/personalidades/camilo-castelo-branco|Camilo Castelo Branco]]
 - *Amor e Ódio* — Charles
 - *Nas Voragens do Pecado* — Charles
 - *Devassando o Invisível* — assistência de Charles, supervisão de Bezerra de Menezes

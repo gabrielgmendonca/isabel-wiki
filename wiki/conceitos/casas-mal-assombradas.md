@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, RE]
-tags: [casas-mal-assombradas, poltergeist, manifestacoes-espontaneas, espiritos-perturbadores, espiritos-batedores, assombracao, flammarion, jeannet-trapeiro, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade, tema/espiritos, obra/re]
+tags: [casas-mal-assombradas, poltergeist, manifestacoes-espontaneas, espiritos-perturbadores, espiritos-batedores, assombracao, flammarion, jeannet-trapeiro, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade, tema/espiritos, obra/re, autor/flammarion]
 atualizado_em: 2026-05-18
 status: ativo
 ---

@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [André Luiz/Chico Xavier, LE, C&I]
 tags: [umbral, andre-luiz, nosso-lar, acao-e-reacao, sofredores, purgatorial, zonas-inferiores, esfera-vibratoria, mansao-paz, casa-transitoria, obra/le, obra/ci, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, lei/trabalho, tema/vida-futura]
-atualizado_em: 2026-05-02
-status: rascunho
+atualizado_em: 2026-06-05
+status: ativo
 ---
 
 # Umbral
@@ -78,6 +78,16 @@ A Mansão Paz complementa a Casa Transitória de Fabiano (instituição móvel) 
 
 Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
 
+### O "Vale dos Suicidas" (*Memórias de um Suicida*, Camilo Castelo Branco / Yvonne Pereira, 1955)
+
+Anterior à fixação do termo "Umbral" por André Luiz, *[[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]]* já descrevia uma **região umbralina específica do [[wiki/conceitos/suicidio|suicida]]**: o **Vale dos Suicidas**, labirinto de cavernas e lodaçais habitado por "mortos-vivos" ainda atados ao corpo em decomposição. O quadro confirma os mesmos traços doutrinários do Umbral kardequiano e andreluiziano:
+
+- **Construção mental e vibratória** — as cenas de horror são "criadas pelos nossos próprios pensamentos distanciados da Luz e do Amor de Deus", adensadas por obsessores que se fingem juízes infernais (a mesma tese de Druso, "erguido e cultivado pela mente humana").
+- **Não é eterno** — "o Vale Sinistro apenas representa um estágio temporário"; a permanência dura, em regra, "o tempo que ainda lhes restava para conclusão do compromisso da existência que prematuramente cortaram", até que o suicida se "desanimalize" dos fluidos vitais que o atam ao corpo.
+- **Socorro organizado** — a "Legião dos Servos de Maria" percorre o vale recolhendo, em macas, os que já atingiram condições vibratórias de transferência para o Hospital "Maria de Nazaré" — paralelo da Casa Transitória de Fabiano e da Mansão Paz para o caso específico do suicídio.
+
+A obra nomeia ainda esse limiar de "umbral do Além", "antecâmara" onde o recém-desencarnado se detém "até que seja naturalmente desanimalizado". Ver [[wiki/obras/memorias-de-um-suicida]] e [[wiki/conceitos/suicidio]].
+
 ## Aplicação prática
 
 - **Em palestra** — usar o Umbral para explicar concretamente, sem inferno eterno, o que ocorre com Espíritos atados à matéria após a morte. Sempre nomear que se trata de extensão descritiva (André Luiz / Chico Xavier), articulada com C&I, cap. IV–V de Kardec.
@@ -95,6 +105,8 @@ Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
 - [[wiki/obras/nosso-lar]] — fonte do termo na tradição espírita brasileira
 - [[wiki/obras/obreiros-da-vida-eterna]] — Casa Transitória de Fabiano como instituição-modelo do umbral; fogo etérico
 - [[wiki/obras/acao-e-reacao]] — Mansão Paz e definição do Umbral como construção mental coletiva
+- [[wiki/obras/memorias-de-um-suicida]] — o "Vale dos Suicidas" como região umbralina específica do suicida
+- [[wiki/conceitos/suicidio]] — o suicida e seu estágio umbralino
 
 ## Fontes
 
@@ -103,3 +115,4 @@ Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Caps. 1, 2, 9, 19. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
 - Kardec, Allan. *O Livro dos Espíritos*, q. 100–113, 149–165. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Céu e o Inferno*, 1ª parte, caps. III, VI, VII; 2ª parte, caps. IV–V. Trad. Manuel Quintão. FEB.
+- PEREIRA, Yvonne do Amaral (Camilo Castelo Branco / Léon Denis). *Memórias de um Suicida*. Rio de Janeiro: FEB, 1955 (o "Vale dos Suicidas"). Edição: [[raw/autores/yvonne-pereira/memorias-de-um-suicida]].

@@ -1,7 +1,7 @@
 ---
 tipo: divergencia
 fontes: [LE, RE]
-tags: [divergencia, grau/avancado, tema/espiritos, tema/encarnacao, obra/le, obra/re]
+tags: [divergencia, grau/avancado, tema/espiritos, tema/encarnacao, obra/le, obra/re, autor/kardec]
 atualizado_em: 2026-06-02
 status: aberta
 ---

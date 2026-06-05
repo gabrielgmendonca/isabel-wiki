@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, Gênese, OPE]
-tags: [telepatia, transmissao-do-pensamento, fluidos, pensamento, mediunidade, flammarion, obra/lm, obra/genese, obra/ope, autor/kardec, grau/intermediario, tema/mediunidade]
+tags: [telepatia, transmissao-do-pensamento, fluidos, pensamento, mediunidade, flammarion, obra/lm, obra/genese, obra/ope, autor/kardec, grau/intermediario, tema/mediunidade, autor/flammarion]
 atualizado_em: 2026-05-19
 status: ativo
 ---

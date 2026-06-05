@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, narracoes-do-infinito, lumen, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura]
+tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, narracoes-do-infinito, lumen, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura, autor/flammarion]
 atualizado_em: 2026-05-14
 status: ativo
 ---

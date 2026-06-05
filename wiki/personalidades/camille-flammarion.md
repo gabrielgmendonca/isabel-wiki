@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [OPE, RE]
-tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, como-acabara-o-mundo, estela, a-morte-e-o-seu-misterio, as-casas-mal-assombradas, metapsiquica, telepatia, aparicoes, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina]
+tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, como-acabara-o-mundo, estela, a-morte-e-o-seu-misterio, as-casas-mal-assombradas, metapsiquica, telepatia, aparicoes, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina, autor/flammarion]
 aliases:
   - "Nicolas Camille Flammarion"
 atualizado_em: 2026-05-26

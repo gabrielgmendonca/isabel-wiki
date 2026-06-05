@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM, ESE, Gênese]
-tags: [aparicoes, aparicao, manifestacoes, perispirito, fluidos, vista-espiritual, flammarion, obra/lm, obra/ese, obra/genese, autor/kardec, grau/intermediario, tema/mediunidade]
+tags: [aparicoes, aparicao, manifestacoes, perispirito, fluidos, vista-espiritual, flammarion, obra/lm, obra/ese, obra/genese, autor/kardec, grau/intermediario, tema/mediunidade, autor/flammarion]
 atualizado_em: 2026-05-19
 status: ativo
 ---

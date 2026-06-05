@@ -120,6 +120,17 @@ Os casos visitados no manicômio terrestre exemplificam: a velha "marquesa" trav
 
 Não há divergência com Kardec: o cap. 16 estende a casuística empírica de LE q. 952 e ESE cap. V para um quadro que Kardec não tratou clinicamente, mas para o qual a doutrina já estava preparada (LE q. 472 sobre alienação por causa moral). Ver [[wiki/obras/no-mundo-maior]].
 
+### *[[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]]* — o percurso completo do suicida (Camilo Castelo Branco / Yvonne Pereira, 1955)
+
+A referência clássica da literatura mediúnica brasileira sobre o tema. Recebida por [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] do Espírito [[wiki/personalidades/camilo-castelo-branco|Camilo Castelo Branco]] e **refeita doutrinariamente** pelo Espírito [[wiki/personalidades/leon-denis|Léon Denis]], a obra narra em primeira pessoa, do abismo à reabilitação, a trajetória de um suicida — o próprio Camilo, que se matou cego no século XIX. Não acrescenta doutrina nova: é **amplificação narrativa** das teses de LE q. 957, em quatro eixos:
+
+1. **O suicídio não liberta.** Camilo desperta lúcido, cego e atado ao corpo em decomposição — a "repercussão do estado do corpo no Espírito" de LE q. 957 dramatizada cena a cena: "Destruístes o corpo material […]. No entanto, nem desaparecestes, como desejáveis, nem vos libertastes dos dissabores que vos desesperavam. Viveis! Viveis ainda!".
+2. **O Vale dos Suicidas é estágio temporário, não inferno eterno.** Labirinto autocriado pelo pensamento e adensado por obsessores que fingem ser juízes infernais; sobre ele paira a misericórdia do "Pai que não quer a morte do pecador, mas que ele viva e se arrependa". A permanência dura, em regra, "o tempo que ainda lhes restava para conclusão do compromisso da existência que prematuramente cortaram" — leitura do "expiam… outros em nova existência" de LE q. 957. Ver [[wiki/conceitos/umbral]].
+3. **A reencarnação como retomada da prova.** Concluída a instrução, o suicida renasce para repassar "provações semelhantes ou absolutamente idênticas às que pretendera arredar", inclusive a tentação do mesmo suicídio — exatamente a tese de LE q. 957 ("submetido voluntariamente a novas provas, para tentarem suportá-las com mais resignação").
+4. **A causa pregressa (lei de causa e efeito).** No capítulo "A causa de minha cegueira no século XIX", Camilo descobre que a cegueira que o levou ao suicídio era ela mesma expiação de delitos de uma existência anterior (jesuíta inquisidor no século XVII) — e que o suicídio apenas multiplicou o débito. O capítulo "A cada um segundo suas obras" articula expressamente a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] (eco de Mateus 16,27).
+
+O socorro é **organizado e gradual** — Legião dos Servos de Maria, Hospital "Maria de Nazaré", Cidade Universitária —, reabilitação por trabalho, estudo e Evangelho de Jesus, nunca anistia: "um só bálsamo existe: a prece das almas caritativas". Ver [[wiki/obras/memorias-de-um-suicida]].
+
 ### *[[wiki/obras/a-luz-do-consolador|À Luz do Consolador]]* — não há "motivos nobres" para o suicídio (Yvonne Pereira)
 
 Em *O estranho mundo dos suicidas* ([[wiki/obras/a-luz-do-consolador|*À Luz do Consolador*]]), [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] responde, a partir de cinco décadas de atendimento mediúnico a suicidas, à pergunta de um missivista: "um suicida por *motivos nobres* sofre os mesmos tormentos? Não haverá para ele uma *misericórdia especial*?". Três pontos consolidam o ensino de Kardec sem dele divergir:
@@ -152,6 +163,7 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - [[wiki/conceitos/camaras-de-retificacao]] — instituição que trata suicidas conscientes e inconscientes nos volumes da série
 - [[wiki/personalidades/henrique-de-luna]] — médico que formula o diagnóstico no cap. 4
 - [[wiki/obras/no-mundo-maior]] — alienação mental como suicídio dissimulado (cap. 16)
+- [[wiki/obras/memorias-de-um-suicida]] — referência mediúnica clássica: o percurso completo do suicida (Camilo Castelo Branco / Yvonne Pereira)
 - [[wiki/obras/recordacoes-da-mediunidade]] — trauma perispiritual do suicídio carregado à reencarnação; socorro como resgate (Yvonne Pereira)
 - [[wiki/conceitos/casa-mental]] — modelo anatômico da descida moral
 - [[wiki/conceitos/morte-espiritual]] — paralelo doutrinário
@@ -163,4 +175,5 @@ O tema é central em palestras espíritas sobre prevenção e acolhimento. A abo
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. V — "Suicidas"; cap. IV — "Auguste Michel" e "Arrependimento de um dissoluto". FEB.
 - Xavier, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944. Caps. 1–4 (suicida inconsciente; diagnóstico perispiritual). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - Xavier, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 16 (alienação mental como suicídio dissimulado). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
+- PEREIRA, Yvonne do Amaral (Camilo Castelo Branco / Léon Denis). *Memórias de um Suicida*. Rio de Janeiro: FEB, 1955. Referência mediúnica clássica sobre o tema (Vale dos Suicidas; reencarnação como retomada da prova; causa pregressa). Ver [[wiki/obras/memorias-de-um-suicida]].
 - PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*O estranho mundo dos suicidas*; *Tormentos voluntários*). Ver [[wiki/obras/a-luz-do-consolador]].

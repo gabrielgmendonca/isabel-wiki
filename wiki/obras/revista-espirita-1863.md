@@ -1,7 +1,7 @@
 ---
 tipo: obra
 fontes: [RE]
-tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, volume-1863, morzine, possessao, periodos-do-espiritismo, flammarion, jean-reynaud, bispo-de-argel, marouzeau, tema/historia-doutrina, tema/mediunidade, tema/jesus, autor/kardec]
+tags: [kardec, revista-espirita, periodico, codificacao, complementar, nivel-2, obra/re, volume-1863, morzine, possessao, periodos-do-espiritismo, flammarion, jean-reynaud, bispo-de-argel, marouzeau, tema/historia-doutrina, tema/mediunidade, tema/jesus, autor/kardec, autor/flammarion]
 direitos:
   detentor: dominio-publico
 atualizado_em: 2026-05-01

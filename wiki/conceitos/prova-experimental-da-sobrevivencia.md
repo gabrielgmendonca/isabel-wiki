@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LE, LM, ESE, Gênese, OPE]
-tags: [prova-experimental, sobrevivencia-da-alma, metapsiquica, metodo-experimental, controle-universal, fe-raciocinada, flammarion, richet, obra/le, obra/lm, obra/ese, obra/genese, obra/ope, autor/kardec, grau/intermediario, tema/vida-futura, tema/historia-doutrina]
+tags: [prova-experimental, sobrevivencia-da-alma, metapsiquica, metodo-experimental, controle-universal, fe-raciocinada, flammarion, richet, obra/le, obra/lm, obra/ese, obra/genese, obra/ope, autor/kardec, grau/intermediario, tema/vida-futura, tema/historia-doutrina, autor/flammarion]
 atualizado_em: 2026-05-18
 status: ativo
 ---
