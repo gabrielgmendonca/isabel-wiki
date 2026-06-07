@@ -2,12 +2,8 @@
 
 > Melhorias de maior complexidade planejadas para a wiki.
 > Organizadas por eixo temático, não por ordem cronológica.
-
----
-
-## 0. Higiene das skills e documentação
-
-- [x] **Auditoria CLAUDE.md + 4 skills + rules + hook** (2026-04-26) — bugs factuais, lacunas de doc, DRY, UX e config resolvidos em bloco. Lint passa sem regressão.
+> Itens **concluídos** vivem condensados no apêndice [Concluído](#concluído) — o detalhe fica no git.
+> Última revisão: 2026-06-05.
 
 ---
 
@@ -17,79 +13,57 @@ Completar a base doutrinária. Três frentes: **obras a ingerir** (gargalo princ
 
 ### 1.1 Obras a ingerir
 
-> **Onde vive a lista (2026-06-03)**: esta seção é **estratégia** — qual autor priorizar e por quê. O **estado factual** das duas filas do pipeline (`aquisição → raw/ → /ingest → wiki/`) vive fora daqui, para não envelhecer:
-> - **Fila de ingestão** (obra em `raw/` sem página em `wiki/obras/`) → `uv run python scripts/list_pending_ingest.py` (derivada, nunca mantida à mão; 564 pendentes na última medição, pós-CEAK).
+> **Onde vive a lista**: esta seção é **estratégia** — qual autor priorizar e por quê. O **estado factual** das duas filas do pipeline (`aquisição → raw/ → /ingest → wiki/`) vive fora daqui, para não envelhecer:
+> - **Fila de ingestão** (obra em `raw/` sem página em `wiki/obras/`) → `uv run python scripts/list_pending_ingest.py` (derivada, nunca mantida à mão; ~563 pendentes na última medição, pós-CEAK).
 > - **Fila de aquisição** (obra ainda não em `raw/`) → `tracking/` (FEB, CEAK, triagem de direitos).
 >
-> As contagens por-autor abaixo podem estar defasadas em relação ao script — após a ingestão do catálogo CEAK (commit `c3c0d87`), vários "gargalos" mudaram (ex.: Cairbar/Peralva deixaram de ter pastas vazias). **Checar o script antes de assumir que um autor está descoberto.** Não é exaustiva quanto a `raw/mediuns/chico-xavier/**` nem `raw/mediuns/divaldo-franco/**`.
+> As contagens por-autor abaixo podem estar defasadas em relação ao script — após a ingestão do catálogo CEAK (commit `c3c0d87`) vários "gargalos" mudaram (Cairbar e Gabriel Delanne deixaram de ter pasta vazia; **Peralva e Eurípedes seguem vazios**). **Checar o script antes de assumir que um autor está descoberto.** Não é exaustiva quanto a `raw/mediuns/chico-xavier/**` nem `raw/mediuns/divaldo-franco/**`.
 
-**Nível 1 — Pentateuco**
-- [x] Pentateuco 5/5 (fechado com *O Livro dos Médiuns*).
-
-**Nível 2 — Kardec complementar**
-- [x] 6/6 completo (verificado 2026-06-02). Ingeridas: O Que é o Espiritismo, Obras Póstumas, Viagem Espírita em 1862, Instruções Práticas, Resumo da Lei dos Fenômenos Espíritas, Espiritismo em Sua Mais Simples Expressão.
-
-**Novo Testamento canônico**
-- [x] 27/27 completo (fechado 2026-05-18 com 2-João, 3-João, Judas). Tratamento inline de divergências culturais; cross-link a páginas estruturais já existentes.
+**Nível 1 — Pentateuco · Nível 2 — Kardec complementar · Novo Testamento canônico** — fechados (ver [Concluído](#concluído)).
 
 **Nível 3 — Consagrados** (cobertura parcial)
-- [x] **Léon Denis** — raw atual 4/4 ingerido (Depois da Morte, O Problema do Ser/Destino/Dor, Cristianismo e Espiritismo, O Grande Enigma). Ampliar exige adquirir fonte nova (ex.: *Joana d'Arc Médium*, *No Invisível*) — sem raw pendente.
-- [x] **Chico Xavier / série André Luiz** — *A Caminho da Luz*, *O Consolador* e a série André Luiz parcialmente ingeridas (**13/19** títulos de `raw/mediuns/chico-xavier/andre-luiz/`). Auditoria 2026-05-26 promoveu 3 conceitos (`ministerios-de-nosso-lar`, `camaras-de-retificacao`, `volitacao`) + 3 personalidades-âncora (Henrique de Luna, Tobias, Veneranda) que atravessam a série inteira.
-- [ ] **6 títulos André Luiz pendentes**: `agenda-crista`, `apostilas-da-vida`, `desobsessao`, `enderecos-da-paz`, `respostas-da-vida`, `sinal-verde`.
-- [ ] **Yvonne Pereira** (classificada nível 3 em 2026-06-02) — 2/14 ingeridas (*A Luz do Consolador*, *Recordações da Mediunidade*). **12 pendentes** em `raw/autores/yvonne-pereira/`: `a-familia-espirita`, `a-tragedia-de-santa-maria`, `amor-e-odio`, `as-tres-revelacoes`, `devassando-o-invisivel`, `dramas-da-obsessao`, `memorias-de-um-suicida`, `nas-voragens-do-pecado`, `o-cavaleiro-de-numiers`, `o-drama-da-bretanha`, `ressurreicao-e-vida`, `sublimacao`.
-- [ ] **Gabriel Delanne** (classificado nível 3 em 2026-06-02 — discípulo direto de Kardec) — 0 ingeridas; **7 títulos** em `raw/autores/gabriel-delanne/` (A Alma é Imortal, A Reencarnação, A Evolução Anímica, O Espiritismo perante a Ciência, O Fenômeno Espírita, A Mediunidade Mecânica, Automatismo da Escrita Psicográfica). Vários em `.doc` — converter antes do ingest.
-- [ ] **Cairbar Schutel, Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora. Definition of done exige ≥1 por autor. **Gargalo persiste**: pastas `raw/autores/{cairbar-schutel,euripedes-barsanulfo,martins-peralva}/` existem mas **vazias** — ingest depende de aquisição da fonte primeiro.
+- [ ] **6 títulos André Luiz pendentes**: `agenda-crista`, `apostilas-da-vida`, `desobsessao`, `enderecos-da-paz`, `respostas-da-vida`, `sinal-verde` (raw atual 13/19 ingerido).
+- [ ] **Yvonne Pereira** (nível 3) — **6 ingeridas** (A Luz do Consolador, Recordações da Mediunidade, Memórias de um Suicida, Contos e Apólogos, Evangelho aos Simples, Nas Telas do Infinito; o raw cresceu além das 14 originais via CEAK). Pendentes em `raw/autores/yvonne-pereira/`: `a-familia-espirita`, `a-tragedia-de-santa-maria`, `amor-e-odio`, `as-tres-revelacoes`, `devassando-o-invisivel`, `dramas-da-obsessao`, `nas-voragens-do-pecado`, `o-cavaleiro-de-numiers`, `o-drama-da-bretanha`, `ressurreicao-e-vida`, `sublimacao` (conferir contagem exata no script).
+- [ ] **Gabriel Delanne** (nível 3 — discípulo direto de Kardec) — 0 ingeridas; ~14 títulos em `raw/autores/gabriel-delanne/` (A Alma é Imortal, A Reencarnação, A Evolução Anímica, O Espiritismo perante a Ciência, O Fenômeno Espírita, A Mediunidade Mecânica, Automatismo da Escrita Psicográfica e outros via CEAK). Vários em `.doc` — converter antes do ingest.
+- [ ] **Cairbar Schutel** — **agora com raw** (18 títulos via CEAK em `raw/autores/cairbar-schutel/`); deixou de ser gargalo de aquisição → vira tarefa de *ingest* (definir obra-âncora ≥1).
+- [ ] **Martins Peralva, Eurípedes Barsanulfo** — sem obra-âncora e **pastas vazias** (`raw/autores/{martins-peralva,euripedes-barsanulfo}/`). Gargalo de **aquisição** persiste — ingest depende de adquirir a fonte primeiro. Definition of done: ≥1 obra-âncora por autor.
 
-**Pesquisa psíquica / espiritismo científico** (categoria criada no CLAUDE.md §2 em 2026-06-02 — corroboração experimental dos fatos, **sem** autoridade doutrinária sobre o Pentateuco; ingerir com a ressalva explícita)
-- [~] **Camille Flammarion** — 8/9 já ingeridas (Urânia, Estela, A Morte e o Seu Mistério, O Fim do Mundo, Narrações do Infinito, Deus na Natureza, As Casas Mal-Assombradas, Como Acabará o Mundo); falta `o-desconhecido-e-os-problemas-psiquicos`. ⚠️ As 8 páginas **precedem** a classificação — revisar para inserir a ressalva de "pesquisa psíquica" (sem autoridade doutrinária) onde couber.
-- [ ] **Ernesto Bozzano** — 0 ingeridas; ~22 títulos em `raw/autores/ernesto-bozzano/` (vários `.doc`/`.pdf`). Definir prioridade antes de qualquer ingest — fenomenologia metapsíquica, frequentemente neutra quanto à reencarnação.
+**Pesquisa psíquica / espiritismo científico** (categoria do CLAUDE.md §2 — corroboração experimental dos fatos, **sem** autoridade doutrinária sobre o Pentateuco; ingerir com a ressalva explícita)
+- [~] **Camille Flammarion** — 8/9 já ingeridas; falta `o-desconhecido-e-os-problemas-psiquicos`. ⚠️ As 8 páginas **precedem** a classificação — revisar para inserir a ressalva de "pesquisa psíquica" (sem autoridade doutrinária) onde couber.
+- [ ] **Ernesto Bozzano** — 0 ingeridas; ~54 títulos em `raw/autores/ernesto-bozzano/` (vários `.doc`/`.pdf`). Definir prioridade antes de qualquer ingest — fenomenologia metapsíquica, frequentemente neutra quanto à reencarnação.
 
 ### 1.2 Curadoria de páginas existentes
 
-- [x] Coautoria mediúnica em `wiki/obras/evolucao-em-dois-mundos.md` (André Luiz/Chico Xavier+Waldo Vieira).
-- [x] Personalidades-âncora expandidas: Chico Xavier, Espíritos Reveladores, Carlos Mendonça, Joseph Bré, Eric Stanislas (todas >700 palavras).
+Frente contínua (sem itens fixos em aberto). Itens nominais entregues — coautoria mediúnica em obras psicografadas e expansão de personalidades-âncora — em [Concluído](#concluído). Novos itens entram conforme `/lint`/`/critica` apontarem stub ou drift.
 
 ### 1.3 Pipeline e processos
 
-- [x] **Pre-flight check no `/ingest` Passo 0** (2026-05-04) — checagem de `raw/<caminho>` + estado da branch (sem `fetch`).
-- [x] **Endurecer pipeline pós-report de uso** (2026-05-18→05-20):
-  - [x] Hook PreToolUse de pre-flight de branch (`.claude/hooks/preflight-ingest.py`) — gate determinístico que substitui as duas checagens de branch do Passo 0.
-  - [x] `qmd get` com offset no Passo 1 do SKILL para fontes >1000 linhas.
-  - [x] Rule `.claude/rules/convencoes-shell.md` (bash 3.2, BSD vs GNU sed, antipadrão `for`+`sed`) + `SHELL_HAZARD_RE` em `inject-rules.py` que injeta a rule também antes de Bash com `sed -i`/`mapfile`/`readarray`.
-  - [ ] **Manifest de progresso em lotes longos** — JSON de itens concluídos, checado no início, para retomar conversão de catálogo / ingest multi-livro após limite de uso ou timeout.
-
-  Os quatro são pré-requisito de segurança do loop autônomo roadmap-driven (versão atenuada com gate humano do "self-driving ingest loop", análoga ao `/autolint` em §5).
-- [x] **Ergonomia da revisão humana no `/ingest`** (2026-05-19) — plano em 3 blocos (§0 ficha da fonte, §A decisões, §B execução); Passo 3 de checagem de lar canônico antes de cunhar slug de conceito; relatório de verificação por exceção. Ponto cego de fidelidade roteado para `check_citation_resolves` em §5 (solução determinística, não auto-auditoria LLM).
-- [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona mas é manual demais.
+- [ ] **Manifest de progresso em lotes longos** — JSON de itens concluídos, checado no início, para retomar conversão de catálogo / ingest multi-livro após limite de uso ou timeout. **Pré-requisito de segurança do loop autônomo roadmap-driven** (versão atenuada com gate humano, análoga ao `/autolint` em §5).
+- [ ] **Pipeline de palestras** — consolidar workflow YouTube → transcrição → summary → ingest; hoje funciona (`/yt`, `/yt-bulk`) mas a curadoria via `/ingest` é manual demais.
 
 ---
 
 ## 2. Experiência do leitor público
 
-- [x] **Página de boas-vindas e home orientada por affordances** — `index.md` como grid de cartões (Chegando agora, ESDE, Palestras, Leitura livre, Consulta rápida).
-- [~] **Trilhas de estudo guiadas** — stubs em `wiki/trilhas/` (primeiros-passos, esde, palestras, leitura-livre). Expandir cada com sequência comentada, leituras complementares e aferição de progresso ainda é TODO. Considerar também "As Leis Morais em ordem" e "Mediunidade: do básico ao avançado".
+- [~] **Trilhas de estudo guiadas** — stubs em `wiki/trilhas/` (primeiros-passos, esde, palestras, leitura-livre). Expandir cada com sequência comentada, leituras complementares e aferição de progresso é TODO. Considerar também "As Leis Morais em ordem" e "Mediunidade: do básico ao avançado".
 - [~] **Glossário navegável** — stub em `wiki/sinteses/glossario.md` com ~15 conceitos-raiz. Popular ~126 restantes, uma linha por termo, é TODO.
 - [ ] **Expandir affordances da home** — considerar 6ª/7ª entrada (ex.: Divergências, Personalidades) conforme crescer. Manter 5 hoje para não sobrecarregar.
-- [~] **Tags e filtragem** — 5 namespaces canônicos (`obra/*`, `lei/*`, `grau/*` 3 valores, `tema/*` 12 valores, `autor/*` 16 valores) documentados em `convencoes-tags.md`. Lint estendido (`check_tag_taxonomy`, `check_tag_coverage`). `enrich_tags_autor.py` e `enrich_tags_grau.py` idempotentes. **Faltando:** passada manual de `tema/*` nas 345 páginas listadas pelo `tag_coverage`.
-- [ ] **Revisar tags `tema/`** — auditar conjunto canônico de 12 valores; identificar temas sub-representados, sobrepostos ou ausentes; reavaliar granularidade (ex.: separar `mediunidade` de `obsessao`). Revisar páginas tagueadas em massa (commit `5629049`) para corrigir falsos positivos.
-- [x] **Breadcrumbs semânticos** (2026-05-05) — `Component.Breadcrumbs` com `rootName: "Início"`, `spacerSymbol: "›"`, `resolveFrontmatterTitle: true` + 9 `index.md` em pastas-raiz; cluster Leis Morais movido para `wiki/conceitos/leis-morais/`; ~481 wikilinks reescritos.
-- [x] **Canal de feedback do leitor** (2026-05-06) — "Sugerir correção" no `Component.Footer` + issue templates `errata.yml` e `duvida.yml` em YAML forms.
-- [ ] **Acessibilidade para leitores de tela** — VoiceOver/NVDA/JAWS leem linearmente na ordem do DOM. Quartz v4.4.0 emite `.left → .center → .right` como `<div>`s genéricas (sem `<nav>/<main>/<aside>`), então o leitor passa pelo Explorer inteiro antes do conteúdo. Sintoma reportado em 2026-05-22: leitura "presa no menu lateral".
-  - **Tentativa descartada (2026-05-22):** componente `SkipLink` custom em `quartz-overrides/` injetando `<a class="skip-link">` no topo do `<body>` + `role="main"/navigation/complementary` em `.center/.left/.right` via JS `beforeDOMLoaded` (evento `nav`). CSS/HTML/build OK, mas VoiceOver ficou repetindo "Pular para o conteúdo principal" sem mover foco para o `<main>` mesmo com `tabindex="-1"` + `e.preventDefault()` + `.focus()` programático. Hipóteses: rotor do VO retém current item independente do `.focus()`; `enableSPA: true` do Quartz pode interceptar hash links; landmark via JS pós-hidratação chega tarde demais para o índice do leitor. Mudanças revertidas via `git restore`, sem commit.
-  - **Caminho sugerido:** patch direto em `renderPage.tsx` do Quartz (copiado para `/tmp/quartz/` em build-time, mesmo padrão dos `quartz-overrides/components/`) trocando as 3 `<div class="left|center|right">` por `<nav>/<main>/<aside>` semânticos **no SSR**. Landmark real no HTML estático elimina toda a dança de JS+foco — leitor de tela passa a oferecer navegação por região nativamente, sem skip-link necessário. Custo: adicionar `renderPage.tsx` à lista de arquivos copiados em `.github/workflows/deploy-wiki.yml` e `scripts/serve-local.sh`, e manter o diff curto contra a versão upstream do Quartz. Validar com VoiceOver real antes de declarar fechado.
-  - **Itens correlatos** (auditoria 2026-05-22, podem ser tratados independentes do landmark): (a) alt text em embeds YouTube `![](url)` em `wiki/.../palestras/` + `check_alt_text` no `lint_wiki.py`; (b) callouts `> [!warning]`/`> [!note]` viram `<blockquote>` comum, sem `role="note"`/`alert` — exigiria transformer custom; (c) botões `A+`/`A−` em `quartz-overrides/components/FontSize.tsx` mudam `data-fontScale` sem `aria-live`, mudança não é anunciada; (d) `lang="pt"` no `<html>` já vem do `locale: "pt-BR"` (verificado em `renderPage.tsx:217`), ARIA em Darkmode/Search/FontSize já presentes — base do Quartz é decente, problema concentra-se nos landmarks.
+- [~] **Tags e filtragem** — 5 namespaces canônicos documentados em `convencoes-tags.md`; lint estendido (`check_tag_taxonomy`, `check_tag_coverage`); `enrich_tags_autor.py`/`enrich_tags_grau.py` idempotentes. **Faltando:** passada manual de `tema/*` nas ~345 páginas listadas pelo `tag_coverage`.
+- [ ] **Revisar tags `tema/`** — auditar o conjunto canônico de 12 valores; identificar temas sub-representados, sobrepostos ou ausentes; reavaliar granularidade (ex.: separar `mediunidade` de `obsessao`). Revisar páginas tagueadas em massa (commit `5629049`) para corrigir falsos positivos.
+- [ ] **Acessibilidade para leitores de tela** — VoiceOver/NVDA/JAWS leem na ordem do DOM. Quartz v4.4.0 emite `.left → .center → .right` como `<div>`s genéricas (sem `<nav>/<main>/<aside>`), então o leitor passa pelo Explorer inteiro antes do conteúdo ("leitura presa no menu lateral", reportado 2026-05-22).
+  - **Tentativa descartada (2026-05-22):** componente `SkipLink` custom injetando `<a class="skip-link">` + `role`s via JS `beforeDOMLoaded`. Build OK, mas VoiceOver não movia foco para `<main>` mesmo com `tabindex="-1"` + `.focus()`. Hipóteses: rotor do VO retém o item atual; `enableSPA` pode interceptar hash links; landmark via JS pós-hidratação chega tarde. Revertido sem commit.
+  - **Caminho sugerido:** patch direto em `renderPage.tsx` do Quartz (copiado em build-time, mesmo padrão de `quartz-overrides/`) trocando as 3 `<div class="left|center|right">` por `<nav>/<main>/<aside>` semânticos **no SSR**. Landmark real no HTML estático elimina a dança de JS+foco. Custo: adicionar `renderPage.tsx` à lista de arquivos copiados em `.github/workflows/deploy-wiki.yml` e `scripts/serve-local.sh`, manter o diff curto contra o upstream. Validar com VoiceOver real antes de fechar.
+  - **Itens correlatos** (independentes do landmark): (a) alt text em embeds YouTube `![](url)` + `check_alt_text` no `lint_wiki.py`; (b) callouts `> [!warning]`/`> [!note]` viram `<blockquote>` comum sem `role` — exigiria transformer custom; (c) botões `A+`/`A−` em `FontSize.tsx` mudam `data-fontScale` sem `aria-live`; (d) `lang="pt"` e ARIA em Darkmode/Search/FontSize já presentes — o problema concentra-se nos landmarks.
 
 ---
 
 ## 3. Conteúdo de síntese e estudo
 
-As categorias `questoes/` e `sinteses/` estão sub-representadas. São as mais valiosas para o leitor.
+As categorias `questoes/` e `sinteses/` estão sub-representadas. São as mais valiosas para o leitor. (Snapshot operacional com medições e páginas concretas a escrever está em §10.)
 
-- [ ] **Extrair questões-chave do Pentateuco** — selecionar as questões mais importantes de cada obra. **Priorizar blocos sub-cobertos do LE** (medição 2026-05-07 via `/stats`): q.201–300 (19%), q.301–400 (8%), q.401–500 (17%) — miolo metafísico (Deus, criação, princípio vital, alma, escolha das provas). Razão conceitos/questões em 17.2 (189:11); capitalizar Q&A ancorada em questão única antes de novas sínteses.
-- [x] **10 Leis Morais como página completa** (2026-04-30) — todas >600 palavras; numeração corrigida (Conservação 4ª, Progresso 7ª, Igualdade 8ª, Liberdade 9ª — dentro da Parte 3 do LE).
-- [ ] **Promover conceitos centrais a aprofundamentos sistemáticos** — `/stats` (2026-05-07): apenas 9 páginas em `wiki/aprofundamentos/` vs 189 conceitos; cadência ingest:aprofundamento 98:1. Top PageRank com massa crítica para estudo tipo palestra de 1h: `reencarnacao` (0.0247), `progresso-espiritual` (0.0227), `livre-arbitrio` (0.0165), `perispirito` (0.0147), `caridade` (0.0142).
-- [ ] **Sínteses temáticas** — comparativos entre obras sobre o mesmo tema (ex: "O que cada obra diz sobre obsessão"; "Reencarnação: de Kardec a Léon Denis").
-- [x] **`sexualidade-em-andre-luiz.md` com *Sexo e Destino*** (2026-05-04) — novo eixo 7 (1963): tese ativa, possessão partilhada, dignidade de homossexuais e intersexos.
+- [ ] **Extrair questões-chave do Pentateuco** — selecionar as mais importantes de cada obra. **Priorizar blocos sub-cobertos do LE** (ver §10.1). Capitalizar Q&A ancorada em questão única antes de novas sínteses.
+- [ ] **Promover conceitos centrais a aprofundamentos sistemáticos** — `/stats` mostra cadência ingest:aprofundamento desproporcional. Top PageRank com massa para estudo de 1h: `reencarnacao`, `progresso-espiritual`, `livre-arbitrio`, `perispirito`, `caridade`.
+- [ ] **Sínteses temáticas** — comparativos entre obras sobre o mesmo tema (ex.: "O que cada obra diz sobre obsessão"; "Reencarnação: de Kardec a Léon Denis").
 - [ ] **Quadros comparativos** — tabelas que cruzam conceitos entre obras ou autores.
 - [ ] **Perguntas frequentes** — FAQ baseada em dúvidas comuns de estudantes, com respostas fundamentadas e citadas.
 
@@ -102,13 +76,13 @@ A wiki tem links, mas pode ser mais densa em conexões.
 - [ ] **Parábolas ↔ conceitos** — cada parábola do ESE linka explicitamente os conceitos morais que ilustra, e vice-versa.
 - [ ] **Leis morais ↔ exemplos práticos** — conectar cada lei a parábolas, questões e casos concretos.
 - [ ] **Personalidades ↔ conceitos** — Espíritos citados em C&I linkam conceitos que suas histórias ilustram.
-- [ ] **Obras ↔ obras** — referências cruzadas quando uma obra cita ou complementa outra (ex: Gênese referencia LE em vários pontos).
-- [ ] **Grafo temático** — "hub pages" por tema agregando conceitos, personalidades, obras, questões (ex: hub de "Mediunidade").
-- [ ] **Tração inversa do cluster epistolar** — `/stats` (2026-05-07): epístolas dominam o top de grau de saída (1 Pedro 51, Tiago 50, Romanos 44, 2 Pedro 42, Gálatas 41, 2 Coríntios 40, Apocalipse 40) mas só Apocalipse aparece no top de tamanho e nenhuma figura no top de grau de entrada (PageRank dominado por reencarnação, ESE, progresso, livre-arbítrio). Auditar: para cada conceito tratado em uma epístola (caridade em 1 Cor 13, fé viva em Tiago 2), o conceito cita a obra epistolar?
+- [ ] **Obras ↔ obras** — referências cruzadas quando uma obra cita ou complementa outra (ex.: Gênese referencia LE em vários pontos).
+- [ ] **Grafo temático** — "hub pages" por tema agregando conceitos, personalidades, obras, questões (ex.: hub de "Mediunidade").
+- [ ] **Tração inversa do cluster epistolar** — epístolas dominam o grau de saída mas não aparecem no grau de entrada nem no PageRank. Auditar: para cada conceito tratado numa epístola (caridade em 1 Cor 13, fé viva em Tiago 2), o conceito cita a obra epistolar?
 
 ### Citações inline como links
 
-Após a fase 1 (auto-link Markdown→Kardecpedia em build time, capítulo — `scripts/link_citations.py`), aprofundar:
+Auto-link Markdown→Kardecpedia em build time já cobre capítulo **e** questão/item (deep-link, ver [Concluído](#concluído)). Aprofundar:
 
 - [x] **Fase 2 do híbrido — link interno preferencial** (2026-06-05) — **desvio deliberado da redação original**: em vez de editar `raw/kardec/pentateuco/*.md` in place e remover `raw` do `ignorePatterns` (o que (a) alteraria o texto do Kardec e (b) publicaria TODO o `raw/` — palestras, médiuns, obras integrais — com implicação de direitos), adotou-se o **padrão da Bíblia** (`publish_biblia_nt.py`): cópia derivada. `scripts/publish_pentateuco.py` gera `wiki/pentateuco/<obra>/<cap>.md` (130 páginas, tipo `capitulo-pentateuco` + 6 `obra-pentateuco`) com âncora `## q. N` / `## item N` por questão/item, reusando os extractors auditados do `cite.py`. `raw/` fica **intocado** (o publisher só lê; teste `RawUntouchedTests` prova) e `ignorePatterns` fica intacto. Manifest `data/pentateuco-anchors.json` (2524 âncoras: LE 1017, LM 306, ESE 382, C&I 164, Gênese 655). `link_citations.kardec_url`/`link_kardec` agora preferem `[[wiki/pentateuco/…#âncora|label]]` quando o locus tem âncora, com **fallback ao Kardecpedia** (Introdução-item, Conclusão, e capítulos irregulares — C&I 2ª parte nominal, ESE cap. XXVIII — caem no externo, cobertura idêntica à de hoje). **Garantia anti-perda determinística**: cada âncora só entra no manifest se o bloco sob ela for byte-a-byte igual ao `cite.literal_text` do raw (round-trip embutido no publisher + `RoundTripTests`). Lint: `wiki/pentateuco/**` tratado como corpus (set `_CORPUS_TIPOS`, espelhando a Bíblia) — fora de Fontes/órfãos/catálogo/tag-obra/citation-format/mundos-naming; capítulos verbatim ficam fora do `check_broken_links` porque trazem marcadores de nota de rodapé `[[1]](#_ftnref1)` do raw (alterá-los mexeria no texto). Testes: `tests/test_publish_pentateuco.py` (15). **Pré-requisito de direitos**: confirmado pelo usuário que o texto integral do Pentateuco (tradução PT-BR) pode ser publicado, como já feito com a Bíblia ACF. **Cosmético diferido**: os marcadores `[[1]](#_ftnref1)` renderizam como wikilink quebrado no site; manter verbatim (fidelidade > estética) ou limpar numa passada futura que NÃO altere o texto doutrinário. **Regenerar**: `uv run python scripts/publish_pentateuco.py` (idempotente; artefatos commitados como na Bíblia).
 - [ ] **Cobrir Kardec complementar no auto-link** — estender mapping para RE, OPE, OQE, Viagem Espírita em 1862.
@@ -121,56 +95,35 @@ Após a fase 1 (auto-link Markdown→Kardecpedia em build time, capítulo — `s
   - Substituir `[[raw/biblia-acf/<livro>/1]]` por `[[wiki/biblia/<livro>/1]]` nos 27 `wiki/obras/evangelho-segundo-*.md` / epístolas / Atos / Apocalipse.
   - Decidir se cada livro recebe `wiki/biblia/<livro>/index.md` (página-âncora com lista de capítulos) — ajuda navegação por breadcrumb mas adiciona +27 páginas.
 - [x] **Bible mapping em `link_citations.py`** (2026-05-22) — `data/biblia-livros.json` (66 livros + variantes Mt/Mateus, Gn/Gênesis, 1Co/1 Coríntios, S. Mateus); `build_biblia_mapping()`/`link_biblia()` no script, regex com alternação ordenada por tamanho desc para resolver longest-match (`1 Coríntios` antes de `1 Co`). NT → `[[wiki/biblia/<slug>/<cap>#<vers>|...]]` (anchor `#<N>` casa com heading `## <N>` do capítulo publicado — não `#v<N>` como esta linha grafava antes). AT → `bibliaonline.com.br/acf/<abbrev>/<cap>` no nível do capítulo (versículo via URL é instável). Range/lista de versos (`13:1-3`, `5:3,5,8`) linka primeiro verso e preserva label original; aceita en-dash além de ASCII hífen. Ambiguidade Jó/João resolvida exigindo diacrítico (`Jo` sem til não casa nem com um nem com outro). 14 testes em `tests/test_link_citations.py` (43 no total).
+- [ ] **Fase 2 do híbrido — link interno preferencial** — normalizar `raw/kardec/pentateuco/*.md` com headings granulares (`## q. 990`, `## cap. VII, item 16`), remover `raw` do `ignorePatterns` do Quartz e preferir link interno sobre Kardecpedia quando disponível. **Dependência:** destrava também a "versão estrita" do check de citação (§5).
+- [ ] **Cobrir Kardec complementar no auto-link** — estender o mapping para RE, OPE, OQE, Viagem Espírita em 1862.
 
 ---
 
 ## 5. Qualidade e automação
 
-- [x] **Lint em CI** — `lint_wiki.py` no GitHub Actions a cada push.
-- [x] **Métricas de cobertura** — `stats_wiki.py` gera % do Pentateuco citado por obra (LE 21%, ESE 28/28, Gênese 10/18, LM 24/33, C&I 18/18), cobertura LE por bloco de 100 questões, wikilinks quebrados ≥ 5, razão conceitos/questões e sugestões priorizadas.
-- [ ] **Validação de deploy** — checar se build do Quartz não quebrou links internos após deploy.
-- [x] **Lint evolutivo** — `low_citations`, `frequent_missing_concepts`, `naming_consistency` (case/diacrítico, plural/singular).
-- [x] **Higiene de `stats_wiki.py`** — meta-páginas excluídas; seções-template removidas antes de tokenizar (top bigramas agora refletem doutrina, não aparato bibliográfico).
-- [x] **Backup e portabilidade** (2026-05-16) — `docs/migracao.md` (Setup/Migração) + `.env.example` + `scripts/{preflight,bootstrap}.sh`; bump Python 3.12→3.14 (lock relock, lint+testes verdes); 10 memórias locais consolidadas em docs rastreados.
-- [x] **Testes de `link_citations.py`** (2026-05-01) — 25 casos em `tests/test_link_citations.py` (unittest puro), rodando em CI antes do build.
-- [x] **Check determinístico de resolução de citação — versão leve** (`check_citation_resolves`, 2026-05-21) — `scripts/kardec_structure.py` carrega a estrutura do Pentateuco dos 4 `.index.md` (+ gerado para C&I) e do `kardec-mapping.json` (LE, sem partes detectáveis no markdown); novo check em `lint_wiki.py` bate cada `(sigla, ref)` contra parts/chapters/intro_items/range de questão. Pega typo de número, sigla com parte inexistente, cap. fora de range. Suite de 20 testes em `tests/test_kardec_structure.py` (truncagem de citação encadeada, ponte `cf.`, q. de Conclusão q. 1011-1019). Achados pós-rollout: 2 itens, ambos true positives (cap. VI da LM 1ª parte → na verdade 2ª; epístola perdeu sigla C&I no encadeamento). Passo 7 do `/ingest` ajustado: relatório lista citações **inválidas**, não todas — atenção humana focada no que falhou. Hook PostToolUse roda automático por arquivo.
-- [ ] **Versão estrita do check** — verifica que o trecho citado **sustenta** a afirmação, não só que o locus existe. Bloqueado: depende da granularidade por questão/item em `raw/kardec/pentateuco/` (§4 "fase 2 do híbrido"). Sem isso, a checagem **determinística** da camada baixa cobre os erros de typo/sigla, mas alegação como "Kardec diz X em (LE, q. 460)" quando q. 460 trata de Y permanece editorial. **Atacado por via LLM** pelo `/critica` abaixo (eixo 2), que roda `cite.py` e compara o texto literal com a afirmação — caro, infrequente, com verificação adversarial; não substitui a versão estrita determinística (que continua o alvo quando houver granularidade). **Nota (2026-06-05)**: a checagem mais fraca de *existência* da aspa literal (não "sustenta a afirmação", só "a frase entre aspas existe no locus citado") foi **destravada** — não dependia dos headings no `raw/`, porque `cite.py` já extrai o texto exato de qualquer questão/item. Implementada como `check_literal_quote_exists` (ver item de aspas abaixo). A versão estrita ("o trecho sustenta a afirmação") segue bloqueada.
-- [x] **Workflow `/critica` — crítica doutrinária profunda** (2026-05-31) — camada semântica que o `/lint` (mecânico) não cobre. Multi-agente (`.claude/workflows/critica-profunda.js`): pipeline por página = crítica Opus (4 eixos: divergência não-registrada com Pentateuco, citação que não sustenta a afirmação, desvio editorial, tags/links) → verificação adversarial Sonnet dos achados high-stakes (mata falso-positivo). Reusa `cite.py` (verdade-fonte do Pentateuco), qmd `raw` (complementares), `lint_wiki.py --file`. **Caro → infrequente**: escopo só de páginas recém-editadas via `critica_scope.py` (estado de hash de corpo em `.claude/skills/critica/state/critica-state.json`, separado do `log.md`). Correções seguras auto-aplicadas (`critica_apply.py`: typo de locus confirmado por cite.py, terminologia canônica, tema/* faltando, wikilink a conceito existente); decisões doutrinárias → `status: rascunho` + stub `wiki/divergencias/` (`status: aberta`) + ROADMAP §11. Relatório HTML+MD em `reports/critica/<data>/` (`critica_report.py`, stdlib-only, fora do build). Vocabulários canônicos data-driven em `data/terminologia.json` (generaliza `check_mundos_habitados_naming` p/ escala espírita, fenômenos, fluidos, parábolas, bem-aventuranças).
-- [~] **Auditar aspas literais fabricadas em `wiki/**` (todos os tipos)** (anotado 2026-06-01, ampliado 2026-06-02; check construído 2026-06-05) — o passe do §11 confirmou um padrão recorrente: **frase apresentada entre aspas como citação literal de Kardec, mas inexistente na obra** (paráfrase vestida de citação, às vezes com locus de capítulo errado). Apareceu em 4 das 5 páginas de divergência auditadas pelo `/critica`; e o caso de `sinais-de-marcos-16` L23 (aspa atribuída a Gênese cap. XIV item 1, `grep`=0) **não foi pego pelo `/critica`** — só foi achado por estar no mesmo bloco de um item do §11. **Confirmação 2026-06-02 fora de `divergencias/`**: a revisão de `wiki/aprofundamentos/por-que-mediuns-falham.md` (rascunho ≥28d, §10.3) achou **duas aspas literais fabricadas** atribuídas ao mesmo item (LM cap. XX, item 226; ambas `grep`=0), mais capítulo/título/range errados (cap. XXVIII rotulado "Médiuns imperfeitos"; ESE "pelos frutos" atribuído a cap. XXIV em vez de cap. XXI). O padrão **não é exclusivo de `divergencias/`** — qualquer página que confronte Pentateuco com nível 3 está exposta. **Ação**: estender o levantamento a **todo `wiki/**`** (não só `divergencias/`) fora do histórico do `/critica` (`critica-state.json`) e, para cada aspa literal de Pentateuco, validar com `grep` literal no `raw/` + `cite.py`; converter as fabricadas em paráfrase ou citação real ancorada no texto. **Check determinístico construído (2026-06-05)**: `check_literal_quote_exists` em `lint_wiki.py` extrai a aspa adjacente a `(SIGLA, ...)`, resolve o locus via `cite.py:literal_text` (reuso — *não* dependia da granularidade da "Versão estrita", ao contrário do que esta linha supunha) e mede **cobertura fuzzy de palavras** (substring exato era frágil: 1 palavra de diferença, ortografia de época ou colchete editorial `[são]` derrubava). Entra como **`info`, fora do CI e do hook** (`SINGLE_FILE_CHECKS`): é **aid de auditoria, não gate** — a precisão é limitada pela extração de locus do `cite.py`, que erra o bloco em capítulos de numeração irregular (ESE cap. XXVIII — coletânea de preces; C&I 2ª parte), gerando falso-positivo. Primeira passada sobre `wiki/**`: **128 candidatos** (cobertura<0.5); spot-check confirmou true-positives reais (ex.: `potencias-da-alma.md` cita como literal de (LE, q. 459) uma frase que está noutra questão; `expiacao.md` idem em (LE, q. 132)) misturados a artefatos de extração. **Resta a passada humana** de triagem dos 128 — converter as fabricadas em paráfrase ou citação ancorada.
-- [x] **Aliases canônicos para personalidades e obras** (2026-05-04) — `convencoes-aliases.md` (canônico = H1; aliases ≥ 4 caracteres em `aliases:`) + backfill em 9 páginas-âncora + lint `check_canonical_names` (info-level) surfando 32 candidatos.
-- [x] **Uniformizar tipos de mundos habitados** (2026-05-05) — fonte canônica fixada em **ESE cap. III, item 4** (não Gênese cap. III como o ROADMAP grafava). Rule `convencoes-mundos-habitados.md` + 2 páginas-conceito novas (`mundos-primitivos`, `mundos-celestes-ou-divinos`) + lint `check_mundos_habitados_naming` + backfill em 10 arquivos.
-- [ ] **Varredura de "cosmologia / cosmológic*"** — termo técnico estranho ao registro doutrinário kardecista, identificado em revisão de `bonus-hora.md` (2026-05-22). Usuário relatou uso disseminado. Levantar ocorrências em `wiki/**`, avaliar caso a caso e substituir por formas mais próximas do registro espírita ("descrição da vida espiritual", "narrativa espiritual", "panorama"). Candidato a check `info`-level (`check_no_cosmologia`) se houver volume — análogo a `check_mundos_habitados_naming`.
-- [ ] **Baseline de performance do build** — registrar tempo do build do Quartz (~207 páginas) e do `link_citations.py` em CI; alertar se regredir além de threshold (ex.: +50%). Instalar velocímetro antes que doa.
-- [ ] **Lint do pipeline pós-transform** — `check_broken_links` audita só o source; transforms de CI (`link_citations.py`, `wrap_glossary_terms.py`, `inject_copyright.py`) podem injetar wikilink quebrado em `/tmp/quartz/content` sem o lint pegar. Caso concreto (2026-05-22): `link_citations.py` gerava `[[obras/<slug>|…]]` sem prefixo `wiki/`. Aplicar `link_citations.py --apply` em `/tmp/quartz/content` no CI e em seguida `lint_wiki.py` apontando para esse dir (ou modo `--include-pipeline` que invoca os transforms in-memory e relinta o resultado). Trava regressão do tipo "transformer gera link quebrado" para qualquer transform futuro.
-- [x] **`link_citations.py` não deve injetar wikilink em heading** (2026-05-22) — safe zone `^#+\s[^\n]*` no `SAFE_RE` (com `re.MULTILINE`) preserva heading inteiro; cobre tanto auto-link Kardec quanto wikilink complementar. Caso concreto que motivou: H3 de `wiki/conceitos/bonus-hora.md` que virava `### O sistema [[wiki/obras/nosso-lar|…]]`. Testes adicionados (`test_citation_in_heading_is_left_intact`, `test_complementar_in_heading_is_left_intact`, `test_heading_safe_zone_does_not_leak_to_next_line`). Pergunta editorial "citação em heading deveria migrar para a primeira linha do corpo?" segue em aberto — fora do escopo do fix automático.
-- [x] **Skill `/ship`** (2026-05-04) — empacota ciclo commit→land com inventário via `git status/diff/log`, mensagem PT-BR, stage seletivo, invocação de `land-to-main.sh`, protocolo de `convencoes-merge.md` em conflito, lint determinístico final.
-- [x] **Hook PostToolUse de lint leve por arquivo** (2026-05-04) — `lint_wiki.py --file <path>` + `.claude/hooks/lint-on-edit.py` em `Edit|Write|MultiEdit` para `wiki/**/*.md`; subset `SINGLE_FILE_CHECKS` cobre 11 checks; latência ~70ms.
-- [x] **Hook PostToolUse para mirror local `wiki/**` → `/tmp/quartz/content/wiki/**`** (2026-05-26) — `.claude/hooks/mirror-to-quartz.py` em `Edit|Write|MultiEdit` copia `wiki/**/*.md` (e `index.md` da raiz) editado para o mirror; Quartz hot-rebuilda. Trava de segurança `(MIRROR_ROOT/"wiki").is_dir()` torna noop silencioso em sessão sem `serve-local.sh` ativo. Pre-processadores (`link_citations.py`, `wrap_glossary_terms.py`, `inject_copyright.py`) **não** rodam no espelhado — preview de dev fica "raw" (sem auto-link Kardecpedia, sem `<abbr>`, sem callout de direitos). Aceitável para inspeção visual de estrutura, tipografia, Mermaid e wikilinks internos; CI aplica todos os transforms no deploy.
-- [x] **Rule `convencoes-merge.md`** (2026-05-04) — drivers `.gitattributes` (`merge=union`/`merge=ours`, `rerere.enabled=true`), protocolo de união cronológica em personalidades, lint antes de `git add`.
-- [ ] **`/autolint` com cap de iterações e gate humano** — slash command em loop `lint → categorizar → corrigir baixo risco (broken_links com target único, frontmatter mal-formatado) → re-lint`, até zero findings ou 3 iterações, **pausando** quando o finding exige julgamento. Versão atenuada do "self-healing lint loop" — fully-autonomous viola humano-no-circuito.
+- [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após deploy.
+- [ ] **Versão estrita do check de citação** — verifica que o trecho citado **sustenta** a afirmação, não só que o locus existe.
+  - **Destravado e construído (existência da aspa):** `check_literal_quote_exists` confirma que a frase entre aspas **existe** no locus citado (via `cite.py:literal_text` + cobertura fuzzy de palavras). Não dependia de granularidade no `raw/`. Entrou como **`info`, fora do CI e do hook** (aid de auditoria, não gate). Ver §12.
+  - **Ainda bloqueado (sustentação semântica):** "Kardec diz X em (LE, q. 460)" quando q. 460 trata de Y permanece editorial — depende da granularidade por questão/item (§4 Fase 2). Atacado por via LLM no `/critica` (eixo 2), que não substitui a versão determinística estrita.
+- [~] **Triagem das aspas literais fabricadas em `wiki/**`** — `check_literal_quote_exists` apontou **128 candidatos** (cobertura<0.5) na primeira passada wiki-wide; spot-check confirmou true-positives reais misturados a artefatos de extração (`cite.py` erra o bloco em capítulos de numeração irregular — ESE cap. XXVIII, C&I 2ª parte). **Resta a passada humana** de triagem dos 128 — converter as fabricadas em paráfrase ou citação ancorada. (Arquitetura completa em §12.)
+- [ ] **Varredura de "cosmologia / cosmológic*"** — termo estranho ao registro doutrinário kardecista. Levantar ocorrências em `wiki/**`, avaliar caso a caso e substituir por formas próximas do registro espírita. Candidato a check `info`-level (`check_no_cosmologia`) se houver volume — análogo a `check_mundos_habitados_naming`.
+- [ ] **Baseline de performance do build** — registrar tempo do build do Quartz e do `link_citations.py` em CI; alertar se regredir além de threshold (ex.: +50%).
+- [ ] **Lint do pipeline pós-transform** — `check_broken_links` audita só o source; transforms de CI (`link_citations.py`, `wrap_glossary_terms.py`, `inject_copyright.py`) podem injetar wikilink quebrado em `/tmp/quartz/content` sem o lint pegar. Aplicar os transforms numa cópia e relintar (modo `--include-pipeline`). Trava regressão "transformer gera link quebrado".
+- [ ] **`/autolint` com cap de iterações e gate humano** — slash command em loop `lint → categorizar → corrigir baixo risco → re-lint`, até zero findings ou 3 iterações, **pausando** quando o finding exige julgamento. Versão atenuada do "self-healing lint loop".
 
 ---
 
 ## 6. Busca e navegação avançada
 
-### Para o autor (local, Claude Code)
-
-- [x] **qmd como MCP server local** — [qmd](https://github.com/tobi/qmd) (BM25 + vetorial + re-ranking, SQLite + node-llama-cpp, on-device). Base de `/ingest` e queries.
-
-### Para o leitor público (estático, GitHub Pages)
-
-- [ ] **Pagefind** — substituir ou complementar o flexsearch do Quartz por [Pagefind](https://pagefind.app/); índice estático no build, browser sem backend.
-
-### Navegação
-
+- [ ] **Pagefind** — substituir ou complementar o flexsearch do Quartz por [Pagefind](https://pagefind.app/); índice estático no build, browser sem backend. (Busca local do autor via qmd já feita — ver [Concluído](#concluído).)
 - [ ] **Índice por conceito-raiz** — hierárquico, refletindo a estrutura conceitual da doutrina (Deus > Leis Divinas > Lei de Causa e Efeito > ...).
 
 ---
 
 ## 7. Ferramentas de estudo e difusão
 
-- [x] **Apresentações Marp** — skill `/slides` no padrão socrático Q&A (capa → perguntas/respostas com citação → parábola → síntese → fontes); build PPTX+PDF via npx; tema em `slides/themes/isabel.css`.
-- [~] **Mapas conceituais** — Mermaid validado como zero-plumbing (2026-05-17): Quartz v4.4.0 já renderiza ` ```mermaid ` nativo via OFM, tema-aware; `link_citations.py`/`wrap_glossary_terms.py` pulam blocos cercados. Convenção em `convencoes-mermaid.md`; smoke-test em `wiki/sinteses/hierarquia-de-autoridade.md`. **Faltando:** lint `check_mermaid_labels` (drift de nomenclatura em rótulo não é detectado); skill `/mapa` qmd-driven e/ou derivação automática do grafo networkx do `/stats`.
+- [~] **Mapas conceituais** — Mermaid validado como zero-plumbing (Quartz v4.4.0 renderiza ` ```mermaid ` nativo via OFM, tema-aware; transforms pulam blocos cercados). Convenção em `convencoes-mermaid.md`; smoke-test em `hierarquia-de-autoridade.md`. **Faltando:** lint `check_mermaid_labels` (drift de nomenclatura em rótulo); skill `/mapa` qmd-driven e/ou derivação automática do grafo networkx do `/stats`.
 - [ ] **Export temático** — PDF/EPUB de um conjunto de páginas sobre um tema, para estudo offline.
 - [ ] **Flashcards** — pares pergunta/resposta a partir de `questoes/` para revisão espaçada (Anki-compatível).
 
@@ -178,74 +131,25 @@ Após a fase 1 (auto-link Markdown→Kardecpedia em build time, capítulo — `s
 
 ## 8. Governança e direitos autorais
 
-Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavier, Emmanuel, André Luiz, Bezerra, Divaldo, Joanna, Hammed **não** estão.
+Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavier, Emmanuel, André Luiz, Bezerra, Divaldo, Joanna, Hammed **não** estão. Política de citação, aviso ao leitor, frontmatter `direitos:` e exclusão de `raw/` do build — todos entregues (ver [Concluído](#concluído)).
 
-- [x] **Política de citação para nível 3 protegido** (2026-04-27) — CLAUDE.md §3 (limites: 400 palavras / 25% / 3 questões consecutivas) + tabela de detentores em `convencoes-direitos.md` + lint `check_quote_proportion`.
-- [x] **Aviso ao leitor em obras protegidas** (2026-04-27) — `scripts/inject_copyright.py` injeta callout no topo durante o build (sobre `/tmp/quartz/content`) + nota perene em `index.md`.
-- [x] **Frontmatter `direitos:` em obras nível 3** (2026-04-27) — schema aninhado documentado em `convencoes-direitos.md`; backfill nas 32 obras (23 dominio-publico, 4 FEB, 1 Boa-Nova, 5 desconhecido); lint `check_direitos_obras`.
-- [x] **Status de `raw/` no Quartz** (2026-04-27) — excluído do build (`ignorePatterns`); decisão documentada em CLAUDE.md §4; lint `check_raw_excluded` (error) trava regressão.
 - [ ] **Auditoria de conteúdo gerado por LLM** — `/ingest`, `/slides` e `/stats` produzem texto que entra na wiki. Em 12-24 meses, se a base for citada por terceiros, distinguir "Kardec disse X" de "síntese gerada" importa. Opções: campo `revisao_humana:` (data), marcação em rodapé, ou `## Notas` em sínteses. **Adiada para fase 2** — `/ingest` já tem humano-no-circuito; ganho marginal hoje é baixo.
 
 ---
 
 ## 9. Eficiência de tokens no workflow
 
-Auditoria (2026-05-02) identificou três focos: leitura de `raw/` inteiros em `/ingest`, rules grandes injetadas em todo Edit, queries `qmd` sem limites.
-
-- [x] **Disciplina nas queries `qmd`** (2026-05-02) — defaults `limit: 5`, `minScore: 0.5`, `collections=["wiki"]` na prosa de `/ingest` (Passo 2) e `/slides` (Passo 3); `busca-qmd.md` com seção "Defaults de triagem" e "Abrir o documento depois" (preferir `mcp__qmd__get` com offset a `Read` integral).
-- [x] **Granularizar `convencoes-paginas.md`** (2026-05-02) — três rules: `convencoes-frontmatter.md` + `convencoes-tags.md` carregam em `wiki/**`; `convencoes-direitos.md` apenas em `wiki/obras/**`. Edições fora de `wiki/obras/` deixam de carregar ~2.6 KB por turno (12.524 vs 15.178 chars).
-- [x] **Fragmentar Revista Espírita em `raw/`** — partição mensal `<ano>/<mes>-<nome>.md` (340-2141 linhas, mediana ~900). Per-artigo descartado: marcadores ausentes + `qmd get` com offset já dá granularidade.
-- [x] **Haiku para triagem em `/lint` e `/glossario`** (2026-05-02) — subagente `model: "haiku"` (Explore para lint, general-purpose para glossário). Exceções documentadas; `/stats` continua 100% Python.
-- [x] **Pré-resumo de obras monolíticas** (2026-05-02) — três obras nível 1 (LM 11.9K linhas, Gênese 11.1K, ESE 5.5K) com `<obra>.index.md` (estrutural, gerado por `scripts/generate_obra_index.py`) + `<obra>.resumo.md` (~500 palavras, gerado uma vez por Haiku). 6 arquivos = 245 linhas representando 28K (~115× redução).
-
-Itens descartados: hábito de RTK (já intercepta), validação explícita de prompt caching (Claude Code já cacheia 5min), `references/` carregado sob demanda nas skills (SKILL.md 45-117 linhas — não é prioridade até passar de 200).
+Eixo essencialmente fechado (cinco frentes da auditoria de 2026-05-02 entregues — ver [Concluído](#concluído)). Itens descartados: hábito de RTK (já intercepta), validação explícita de prompt caching (Claude Code já cacheia 5min), `references/` carregado sob demanda nas skills (não é prioridade até SKILL.md passar de 200 linhas).
 
 ---
 
-## Priorização
+## 10. Varredura de backlog (snapshot operacional)
 
-### Em aberto, impacto alto
-
-- **Pipeline de palestras (§1.3)** — YouTube → transcrição → MD reduz fricção significativa.
-- **Manifest de progresso em lotes longos (§1.3)** — pré-requisito de segurança do loop autônomo roadmap-driven.
-- **Check determinístico de citação (§5)** — fecha ponto cego de fidelidade do `/ingest`. Bloqueado por granularidade questão/item.
-- **`/autolint` (§5)** — versão atenuada do self-healing loop; complementa o hook PostToolUse.
-
-### Médio prazo
-
-Validação de deploy (§5); auditoria de LLM (§8 — cresce com o tempo); trilhas e glossário (§2 — impacto no leitor, não no workflow); Pagefind; baseline de build.
-
----
-
-## Princípios
-
-- **Kardec prevalece** — toda melhoria respeita a hierarquia de autoridade (CLAUDE.md §2)
-- **Citação obrigatória** — nenhum conteúdo novo sem fundamentação (§3)
-- **Humano no circuito** — ingest e sínteses passam pelo usuário antes de publicar
-- **Incremental** — cada melhoria entrega valor isoladamente; sem dependência rígida entre eixos
-
----
-
-## Estado-alvo (definition of done por eixo)
-
-- **§1 Cobertura** — Pentateuco com cobertura conceitual ≥80% no `/stats`; cada autor de nível 3 com ≥1 obra-âncora; nenhuma personalidade-âncora citada em 5+ páginas como stub.
-- **§2 Leitor público** — 5 affordances da home com trilha completa (não stub); glossário ≥100 termos; canal de feedback ✓.
-- **§3 Síntese** — 10 leis morais ✓; ≥30 questões-chave do Pentateuco extraídas; ≥5 sínteses temáticas comparativas.
-- **§4 Cross-references** — todas as parábolas linkam conceitos morais (e vice-versa); nenhuma página em `wiki/divergencias/` órfã do conceito que diverge.
-- **§5 Automação** — lint em CI verde por 30 dias; baseline de build com alerta; testes do `link_citations.py` ✓.
-- **§8 Governança** — política de fair-use ✓; nenhuma obra protegida sem `direitos:` ✓; aviso ao leitor em todas as obras nível 3 ✓. Resta `revisao_humana:` (§8.5).
-
-Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
-
----
-
-## 10. Varredura de backlog (2026-05-31)
-
-Descobertas concretas do `/stats` + `/lint` que apontam **páginas a escrever** (não-ingest). Cruza com eixos §1, §3 e §4 — esta seção é o instantâneo operacional; a estratégia segue lá.
+Descobertas concretas do `/stats` + `/lint` que apontam **páginas a escrever** (não-ingest). Cruza com os eixos §1, §3 e §4 — esta seção é o instantâneo operacional; a estratégia segue lá.
 
 ### 10.1 Cobertura doutrinária — blocos do LE sub-cobertos
 
-Medição 2026-05-26 (LE 385/1019 = 37.8%). Atualização vs. medição 2026-05-07 — blocos sub-cobertos diferentes; q.301–400 caiu de 8% (jan/26) para 16%, mas continua o pior:
+Medição 2026-05-26 (LE 385/1019 = 37.8%):
 
 | Bloco | Cobertura | Prioridade |
 |-------|-----------|------------|
@@ -264,29 +168,26 @@ Sub-cobertura no LM (28/33 caps. 2ª parte citados) e Gênese (15/18). Identific
 
 ### 10.2 Páginas-índice bíblicas — stubs órfãs
 
-Decisão de publicar NT em `wiki/biblia/<livro>/<capitulo>.md` foi executada (§4 — bible mapping 2026-05-22). Os 27 `wiki/biblia/<livro>/index.md` (`tipo: livro-biblico`) foram criados mas seguem como stub de 15 palavras, todos órfãos no grafo. Esquema mínimo em `convencoes-frontmatter.md` (livro-biblico): H1, nota breve (autor tradicional, ocasião, contexto histórico), lista de capítulos como wikilinks, cross-link para `wiki/obras/<evangelho/epístola>`.
+Os 27 `wiki/biblia/<livro>/index.md` (`tipo: livro-biblico`) foram criados mas **seguem como stub de ~15 palavras**, todos órfãos no grafo. Esquema mínimo em `convencoes-frontmatter.md`: H1, nota breve (autor tradicional, ocasião, contexto histórico), lista de capítulos como wikilinks, cross-link para `wiki/obras/<evangelho/epístola>`.
 
 - [ ] **Expandir 4 índices de Evangelhos** (`joao`, `lucas`, `marcos`, `mateus`) — mais alta prioridade pelo peso doutrinário.
 - [ ] **Expandir índice de Atos e Apocalipse**.
-- [ ] **Expandir 13 índices de epístolas paulinas + Hebreus** (`romanos`, `1/2-corintios`, `galatas`, `efesios`, `filipenses`, `colossenses`, `1/2-tessalonicenses`, `1/2-timoteo`, `tito`, `filemom`, `hebreus`).
+- [ ] **Expandir 13 índices de epístolas paulinas + Hebreus**.
 - [ ] **Expandir 7 índices de epístolas católicas** (`tiago`, `1/2-pedro`, `1/2/3-joao`, `judas`).
 
-Cada índice destrava backlink dos capítulos correspondentes (resolve em parte os 28 órfãos da varredura).
+Cada índice destrava backlink dos capítulos correspondentes (resolve em parte os órfãos da varredura).
 
 ### 10.3 Rascunhos > 14 dias — promoção a `ativo`
 
-52 páginas com `status: rascunho` e `atualizado_em` > 14 dias. Prioridade pelos ≥ 28 dias parados (15 páginas):
+**115 páginas** com `status: rascunho` hoje (subiu de 52 na medição de 2026-05-31; inclui as 27 rebaixadas pelo `/critica` de 2026-06-03 e material recém-ingerido). Prioridade pelas paradas há mais tempo (≥ 28 dias):
 
-- **Aprofundamento**: ~~`por-que-mediuns-falham`~~ → **promovido a `ativo` em 2026-06-02** (revisão profunda: corrigidas 2 aspas fabricadas no LM cap. XX e os loci de cap. XXVIII/ESE cap. XXI; ver §5 "Auditar aspas literais fabricadas").
-- **Conceitos (7)**: `calunia`, `cartas-vivas-de-jesus`, `centros-vitais`, `colonia-espiritual`, `mercantilizacao-da-mediunidade`, `passe`.
-- **Obras (3)**: `missionarios-da-luz`, `obreiros-da-vida-eterna`, `os-mensageiros`.
-- **Personalidades (5)**: `alexandre`, `aniceto`, `clarencio`, `jeronimo-assistente`, `lisias`.
+- **Conceitos**: `calunia`, `cartas-vivas-de-jesus`, `centros-vitais`, `colonia-espiritual`, `mercantilizacao-da-mediunidade`, `passe`.
+- **Obras**: `missionarios-da-luz`, `obreiros-da-vida-eterna`, `os-mensageiros`.
+- **Personalidades**: `alexandre`, `aniceto`, `clarencio`, `jeronimo-assistente`, `lisias`.
 
-Não é escrita "nova" — é revisão + completar Fontes + flipar `status: ativo`. Cabe em batch por categoria.
+Não é escrita "nova" — é revisão + completar Fontes + flipar `status: ativo`. Cabe em batch por categoria. (As 27 rebaixadas pelo `/critica` cruzam com §11 — revisar lá antes de promover.)
 
 ### 10.4 Aprofundamentos sugeridos por massa de vocabulário
-
-Cruzando top-50 termos do vocabulário com `wiki/aprofundamentos/` (13 páginas hoje, cadência ingest:aprofundamento ainda desproporcional):
 
 - [ ] **`wiki/aprofundamentos/atributos-de-deus`** — `deus` é #1 (3855 ocs). Base: LE Parte 1 + ESE cap. I-III.
 - [ ] **`wiki/aprofundamentos/lugar-do-homem-na-criacao`** — `homem` (1574), `mundo` (1116), `terra` (1100). Base: LE q. 132–144, Gênese cap. XI.
@@ -299,138 +200,244 @@ Cruzando top-50 termos do vocabulário com `wiki/aprofundamentos/` (13 páginas 
 
 ### 10.6 Órfãs prioritárias a integrar
 
-Backlink + revisão (não páginas novas, mas cabe na frente de escrita):
-
-- [ ] **`wiki/personalidades/arthur-conan-doyle`** — órfã + drift de nomenclatura ("Conan Doyle", "Sir Arthur Conan Doyle" em `catalogo.md`).
+- [ ] **`wiki/personalidades/arthur-conan-doyle`** — órfã + drift de nomenclatura ("Conan Doyle", "Sir Arthur Conan Doyle").
 - [ ] **`wiki/conceitos/sonhos`** — órfã apesar de atravessar emancipação da alma (LE q. 400–418).
-- [ ] **`wiki/aprofundamentos/silencio-interior-o-ser-consciente`** — órfã.
+- [ ] **`wiki/aprofundamentos/silencio-interior-o-ser-consciente`** — órfã (também em §11).
 
-### Priorização sugerida
-
-1. **§10.1 (questões LE 301–400)** — fecha o pior gap doutrinário, alimenta `/slides` e palestras.
-2. **§10.2 evangelhos (4 índices)** — desbloqueia 4 evangelhos no grafo com custo baixo por página.
-3. **§10.3 rascunhos ≥ 28 dias** — limpa débito visível no `/lint`.
-4. **§10.4 + §10.5** — geram alavancagem (PageRank + temas dominantes do vocabulário).
+---
 
 ## 11. Crítica profunda — itens diferidos a decisão humana
 
-> Itens levantados por `/critica` que exigem julgamento doutrinário (não auto-corrigíveis). Formato: `- [ ] **<página>** (<eixo>, <data>) — <tensão> · evidência: <locus/cite> · relatório: <path>`
+> Itens levantados por `/critica` que exigem julgamento doutrinário (não auto-corrigíveis). **Relatório do lote 2026-06-03**: `reports/critica/2026-06-03-1903/`. Eixos: cit=citação · edit=editorial · tag=tags/links.
+>
+> **Nota 2026-06-04 — cluster "q. 1009/1015–1019" é falso-positivo de lacuna de corpus.** Vários itens acusavam citações a LE q. 1009 e q. 1015–1019 como "fabricadas/inexistentes". Diagnóstico corrigido: essas questões **existem** (são as finais do LE); o `raw` as traz em numeração dupla `<Kardec> [<sequencial>]` porque Kardec saltou o nº 1011 — e o `cite.py` não reconhecia o formato. **Raiz consertada** (`scripts/cite.py`, +3 testes; commit `5c28452`): q. 1012–1019 resolvem pelo nº de Kardec. **Os loci q. 1009 e q. 1015–1019 são legítimos — NÃO removê-los.** Resíduo real e menor (eixo editorial): em algumas páginas o texto rotulado "síntese/paráfrase" está formatado como blockquote com aspas (estilo que simula verbatim); polir. Ver memória `le-corpus-gap-q1011-1019`.
 
-> [!note] Atualização 2026-06-04 — cluster "q. 1015–1019" reavaliado (falso-positivo de lacuna de corpus)
-> Vários itens diferidos de 2026-06-03 acusavam citações a **LE q. 1015–1019** como "fabricadas/inexistentes" (sangue-expiatorio-em-1-joao/1-pedro/galatas, penas-eternas, predestinacao, recaida, jesus-igual-a-deus). **Diagnóstico corrigido:** essas questões **existem** (são as finais do LE); o `raw` as traz em numeração dupla `<Kardec> [<sequencial>].` (ex.: `1019 [1018].`) porque Kardec saltou o nº 1011 — e o `cite.py` não reconhecia esse formato, devolvendo "não encontrada". **Raiz consertada** (escolha do usuário): `_ITEM_RE` em `scripts/cite.py` agora resolve q. 1012–1019 pelo nº de Kardec, q. 1011 retorna mensagem explicativa, comentário de `kardec_structure.py` corrigido, +3 testes (`tests/test_cite.py`). **Os loci q. 1015–1019 são legítimos — NÃO removê-los.** Resíduo real e menor (eixo 3, opcional): em `recaida` L54 e `predestinacao` L67 o texto está rotulado "síntese"/"paráfrase" mas formatado como blockquote com aspas (estilo que parece citação literal); polir para não simular verbatim. Ver memória `le-corpus-gap-q1011-1019`.
+O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Concluído](#concluído).
 
-- [x] **wiki/divergencias/condenacao-dos-incredulos-em-marcos-16** (eixo 2/citação, alta, 2026-05-31) L25 — A frase entre aspas atribuída a Kardec — 'A justiça de Deus não castiga aquele que não pôde crer' — é apresentada como citação literal de (LE, q. 1009; C&I, 1ª parte, cap. VII, §VII), mas não apare… · evidência: (LE, q. 1009; C&I, 1ª parte, cap. VII; ESE, cap. XIX, item 7) vs Texto da própria página, linha 25 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: falsa citação literal (não consta em q. 1009 nem em C&I; `§VII` inválido) convertida em paráfrase ancorada no fragmento literal de LE q. 1009 ("uma infração de suas leis [...] praticada pelos que não as conheciam")
-- [x] **wiki/divergencias/condenacao-dos-incredulos-em-marcos-16** (eixo 3/editorial, baixa, 2026-05-31) L39 — A 'Análise' reenquadra a divergência como sendo 'com a tradição dogmática literalista, não com o Evangelho em si', e introduz argumento de crítica textual (final longo de Marcos como adição posteri… · evidência: linha 39 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: argumento crítico-textual rebaixado de "nível de divergência" co-igual para `> [!note]` contextual (explicitando que não é de Kardec e que a refutação não depende dele); eixo doutrinário reforçado com o fragmento literal "palavras emblemáticas" de LE q. 1009; reenquadramento "não com o Evangelho em si" mantido e qualificado (conflito com o literalismo, não com o ensino de Jesus); `status: aberta` preservado
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 2/citação, alta, 2026-05-31) L54 — A página afirma que Kardec comenta a parábola do mau rico e Lázaro (Lc 16:19–31) em 'ESE, cap. XVI, itens 7–8', tratando-a como alegórica (inversão de posições, abismo moral). · evidência: ESE, cap. V (epígrafe e itens sobre provas/expiações) vs ESE, cap. XVI, itens 7–8 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: diagnóstico do /critica parcialmente incorreto — a parábola está mesmo no cap. XVI (epígrafe item 5), não no cap. V, e os itens 7–8 existem (são comentário de Kardec). Erro real: itens 7–8 tratam da **riqueza como prova providencial**, não da escatologia alegórica do "abismo"/"chama". L54 reescrita: itens 7–8 atribuídos corretamente (inversão rico↔pobre como prova, com citação literal do item 8); leitura figurada de "chama"/"abismo" roteada a C&I caps. IV–VII + ESE cap. III (aiônios). Token (LE, q. 1009–1011) preservado para Item seguinte
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 2/citação, media, 2026-05-31) L54 — A página cita 'LE, q. 1009–1011' para o progresso nas existências sucessivas que permite transpor o 'abismo'. · evidência: LE, q. 1009–1010 vs LE, q. 1009–1011 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: q. 1011 **não existe** no LE — Kardec salteou o n.º 1011 (Nota dos Revisores, livro-dos-espiritos.md:3299; a questão seguinte é "1012 [1011]"). Range corrigido para q. 1009–1010 (1009 = penas temporárias/cedem ao arrependimento; 1010 = pluralidade das existências/reencarnação)
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 2/citação, alta, 2026-05-31) L29 — Atribui a C&I, 1ª parte, cap. VII, §IV a citação literal entre aspas: 'As penas são temporárias e proporcionais às faltas'. · evidência: C&I, 1ª parte, cap. VII, itens 12.º–14.º vs C&I, 1ª parte, cap. VII, §IV · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: aspa não-literal (fundia temporariedade do item 30.º + proporcionalidade do item 3.º) e `§IV` inválido (cap. usa itens 1.º–33.º). Bullet "Temporárias" agora cita texto **literal** do item 13.º ("A duração do castigo está subordinada ao aperfeiçoamento... Nenhuma condenação por um tempo determinado é pronunciada contra ele"); removida a duplicação com a claim 2 (Proporcionais)
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 2/citação, media, 2026-05-31) L31 — Atribui a C&I, 1ª parte, cap. VII a citação literal entre aspas: 'Deus tem por si a eternidade para aguardar o arrependimento do culpado'. · evidência: C&I, 1ª parte, cap. VII, itens 13.º/17.º/19.º vs C&I, 1ª parte, cap. VII · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: frase **inexistente** em todo o Pentateuco (grep literal = 0). Substituída por texto literal do item 30.º ("subordinadas ao arrependimento e à reparação, que dependem da livre vontade do homem"), que corresponde exatamente ao rótulo do bullet. NOTA: a mesma falsa citação aparece em condenacao-dos-incredulos-em-marcos-16 L27 (não estava no §11) — corrigir num passe futuro
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 2/citação, media, 2026-05-31) L34 — A página afirma que 'No ESE, cap. III (item 6), Kardec indica que a palavra grega aiônios... significa duração longa e indeterminada, não perpétua'. · evidência: LE, q. 1009; C&I, 1ª parte, cap. VII, item 15.º vs ESE, cap. III, item 6 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: erro duplo — ESE cap. III item 6 trata da população da Terra (não de aiônios); e "aiônios" não consta no Pentateuco (grep=0), logo a atribuição da tese grega a Kardec era falsa. Reescrito com os textos literais reais: C&I cap. VII item 15.º (nota "eterno/perpétuo = indeterminado") + LE q. 1009 ("eternidade das penas é relativa e não absoluta"). Menção ao grego *aiônios* removida (observação erudita correta, mas não é de Kardec)
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 3/editorial, media, 2026-05-31) L3 — O frontmatter 'fontes: [ESE, "C&I", NT]' omite LE, embora a página se apoie em LE q. 1009–1010 (a fonte mais direta da refutação da eternidade das penas) em três pontos (linhas 46 e 54). · evidência: linha 3 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: LE adicionado a `fontes:` (primeiro, tier-1) e tag `obra/le` incluída em paralelo (derivada de fontes)
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 3/editorial, baixa, 2026-05-31) L52 — A página usa 'kardequiana' (linha 52), enquanto o CLAUDE.md fixa 'kardecista'. · evidência: linha 52 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: "posição kardequiana" → "posição **de Kardec**" (regra do usuário: nunca "kardequiano/a"; usar "de Kardec"; NÃO usar "kardecista" aqui, que conota o movimento). Mesmo ajuste pendente em espiritos-e-as-leis-da-natureza L48 e sinais-de-marcos-16 L49
-- [x] **wiki/divergencias/fogo-eterno-em-mateus-25** (eixo 4/tags-links, baixa, 2026-05-31) L56 — A seção 'Páginas relacionadas' omite páginas-conceito existentes e diretamente centrais ao tema (penas eternas, inferno, código penal da vida futura). · evidência: linha 56 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: adicionados [[wiki/conceitos/penas-eternas]], [[wiki/conceitos/inferno]], [[wiki/conceitos/codigo-penal-da-vida-futura]] e backlink recíproco a [[wiki/divergencias/morte-de-ananias-e-safira]] (divergência análoga)
-- [x] **wiki/divergencias/morte-de-ananias-e-safira** (eixo 2/citação, alta, 2026-05-31) L31 — Claim 2 atribui a LE q. 1001-1008 a tese 'Deus concede ao Espírito faltoso novas provas [...] Jamais é fechada a via do arrependimento', em aspas. · evidência: LE, q. 1009 vs LE, q. 1001-1008 (como está na página) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: q. 1001-1008 errado (q. 1001 trata de legar bens em testamento). Aspa não-literal substituída por dois textos literais reais: C&I cap. VII item 4.º ("Deus não repudia nenhum de seus filhos") + LE q. 1008 ("acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar")
-- [x] **wiki/divergencias/morte-de-ananias-e-safira** (eixo 2/citação, alta, 2026-05-31) L33 — Claim 3 atribui a '(LE, q. 963; ESE, cap. VI, item 6)' a frase 'Atribuir a Deus a cólera, a vingança [...] é rebaixá-lo ao nível das paixões humanas'. · evidência: LE, q. 1009 vs LE, q. 963; ESE, cap. VI, item 6 (como está na página) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: q. 963 (Deus se ocupa de cada homem) e ESE cap. VI item 6 (consolar os pobres) não sustentam. Aspa parafraseada substituída pelo texto literal de LE q. 1009 ("um Deus terrível, cioso e vingativo... atribuíam à divindade as paixões dos homens. Esse, todavia, não é o Deus dos cristãos")
-- [x] **wiki/divergencias/morte-de-ananias-e-safira** (eixo 2/citação, alta, 2026-05-31) L35 — Claim 4 cita '(LE, q. 934; ESE, cap. X, item 20)' para 'A mentira e a hipocrisia são condenadas' e a frase 'a caridade está na intenção'. · evidência: ESE, cap. X, item 17 vs LE, q. 934; ESE, cap. X, item 20 (como está na página) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: q. 934 (luto) removido; ESE cap. X item 20 ("Tudo depende da intenção", sobre observar imperfeições alheias) não sustenta — e 'a caridade está na intenção' não é literal. Locus correto = ESE cap. X **item 21** (São Luís): "desmascarar a hipocrisia e a mentira pode constituir um dever". Lei de causa e efeito ancorada em C&I cap. VII item 9.º (texto literal)
-- [x] **wiki/divergencias/morte-de-ananias-e-safira** (eixo 2/citação, media, 2026-05-31) L29 — Claim 1 atribui a C&I 1ª parte cap. VII a frase em aspas 'As penas não são arbitrárias; consequência lógica da falta, carregam em si mesmas o remédio'. · evidência: C&I, 1ª parte, cap. VII (penas como consequência natural) vs C&I, 1ª parte, cap. VII (aspas literais na página) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: aspa não-literal substituída por três textos literais reais do "Código penal da vida futura": item 14.º (duração subordinada à melhoria), item 30.º ("castigos e remédios que devem ajudar a curar as feridas do mal") e item 33.º ("traz consigo seu próprio castigo, por suas consequências naturais e inevitáveis... sem... condenação especial")
-- [x] **wiki/divergencias/morte-de-ananias-e-safira** (eixo 4/tags-links, baixa, 2026-05-31) L35 — A prosa nomeia conceitos com página própria ('arrependimento', 'reparação/expiação') sem wikilink. · evidência: linha 35 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: wikilinks adicionados a [[wiki/conceitos/arrependimento]] (Claim 2), [[wiki/conceitos/expiacao]] e [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] (Claim 4). `reparacao` não tem página própria — coberto por expiacao
-- [x] **wiki/divergencias/sinais-de-marcos-16** (eixo 3/editorial, baixa, 2026-05-31) L49 — A linha 49 usa "A posição kardequiana é firme". · evidência: linha 49 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: "A posição kardequiana é firme" → "A posição de Kardec é firme"
-- [x] **wiki/divergencias/sinais-de-marcos-16** (eixo 4/tags-links, baixa, 2026-05-31) L25 — O item 2 (linha 25) trata extensamente da cura por imposição de mãos e do magnetismo espiritual, sem wikilink a uma página-conceito de mediunidade de cura. · evidência: linha 25 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: rótulo do item 2 agora linka [[wiki/conceitos/mediunidade-de-cura]]. **Achado bônus (não estava no §11)**: L23 atribuía a "Gênese, cap. XIV, item 1" uma aspa literal inexistente na obra (grep=0; cap. XIV é "Os fluidos", não trata da definição de milagre). Corrigido para texto literal real do cap. XIII item 1 ("derrogação das leis da natureza..."; "seja ou não seja conhecida a lei, já não pode haver milagres"); Fontes/relacionadas atualizadas para caps. XIII–XV
-- [x] **wiki/questoes/alma-dos-animais** (eixo 1/divergência, alta, 2026-05-31) L65 — A página afirma que o estado latente da vida inteligente animal 'sugere uma continuidade do princípio inteligente que, atravessando a escala dos seres, eventualmente alcança o estado humano — não p… · evidência: (LE, q. 613) vs wiki/questoes/alma-dos-animais.md, linha 65 (apoiada implicitamente em Léon Denis, Depois da Morte, cap. X, e André Luiz, Evolução em Dois Mu… · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-05-31**: criada `wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem` (status: aberta) e inserido `> [!warning]` + link na L65 da página-origem, registrando que LE q. 613 (conferida via cite.py) deixa o tema em aberto entre dois sistemas e inclina ao que afasta o homem da fieira animal. Pendente ainda: reenquadrar/substituir os loci de apoio (q. 540, q. 604, Gênese X,17 → q. 613) — ver item eixo 2 abaixo
-- [x] **wiki/questoes/alma-dos-animais** (eixo 2/citação, media, 2026-05-31) L65 — A afirmação de que o princípio inteligente 'atravessando a escala dos seres eventualmente alcança o estado humano' é ancorada em (LE, q. 540, q. 604; Gênese, cap. X, item 17). · evidência: (LE, q. 604), (LE, q. 540), (Gênese, cap. X, item 17) vs wiki/questoes/alma-dos-animais.md, linha 65 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: os três loci não sustentam a ascensão (q. 540 = Espíritos que presidem fenômenos da natureza; q. 604 = "animais só possuem a inteligência da vida material", reforça a distinção; Gênese X,17 = princípio **vital**, não inteligente). Removidos da frase; reancorada em LE q. 598 (fonte literal de "estado latente", já citada na página) + LE q. 613 (os dois sistemas em aberto), em harmonia com o `> [!warning]` do eixo-1. q. 540/q. 604 preservadas onde de fato sustentam (L73/L77)
-- [x] **wiki/questoes/alma-dos-animais** (eixo 4/tags-links, baixa, 2026-05-31) L11 — A prosa nomeia repetidamente 'princípio inteligente' como eixo central da página (parágrafo de abertura e várias seções), mas não há wikilink ao conceito. · evidência: linha 11 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01** (decisão do usuário: criar a página-conceito): criada `wiki/conceitos/principio-inteligente` (tipo: conceito, status: ativo) — todas as citações verificadas com `cite.py` (LE q. 23–24, q. 71–73, q. 597–600, q. 604–605, q. 611–613; Gênese cap. XI item 6). L11 agora linka [[wiki/conceitos/principio-inteligente]] (e "discussão **kardequiana**" → "discussão **de Kardec**", achado bônus). Backlinks recíprocos em principio-vital, conceito/questao/divergência irmãs; entrada em catalogo.md (Princípio vital e fluidos). Destrava o último item de §11 — agora **28/28**
-- [x] **wiki/questoes/espiritos-e-as-leis-da-natureza** (eixo 2/citação, media, 2026-05-31) L42 — A página apresenta como CITAÇÃO LITERAL de Kardec (aspas + reticências + locus 'Gênese, cap. XIII, item 1; cap. XV') a frase: 'Os milagres, no sentido teológico do termo, […] constituiriam uma derr… · evidência: (Gênese, cap. XIII, item 1) vs Linha 42 da página (blockquote inline com aspas) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: aspa fabricada (condicional "constituiriam" + "o que não pode ser" não existem na obra) substituída pelo texto literal real de Gênese cap. XIII item 1 ("no sentido teológico, é uma derrogação das leis da natureza, por meio da qual Deus manifesta o seu poder"), reenquadrada como a definição teológica que Kardec recusa. Corrigido de passagem o título do cap. XIII em Fontes ("Os fluidos" → "Caracteres dos milagres"; "Os fluidos" é o cap. XIV)
-- [x] **wiki/questoes/espiritos-e-as-leis-da-natureza** (eixo 3/editorial, baixa, 2026-05-31) L48 — Linha 48 usa 'doutrina kardequiana'. O projeto (CLAUDE.md) padroniza 'kardecista' e proíbe 'kardequista', mas não fixa explicitamente a forma do adjetivo derivado de Kardec ('kardequiano/a' é forma… · evidência: linha 48 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: "Na doutrina kardequiana:" → "Na doutrina de Kardec:" (regra do usuário: nunca "kardequiano/a"; usar "de Kardec")
-- [x] **wiki/questoes/espiritos-e-as-leis-da-natureza** (eixo 4/tags-links, baixa, 2026-05-31) L59 — Item 'Prece e providência' (linha 59) discute a prece e cita ESE cap. XXVII item 10, mas não há wikilink para a página-conceito existente wiki/conceitos/prece. · evidência: linha 59 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: rótulo do item agora linka [[wiki/conceitos/prece|Prece]]
-- [x] **wiki/questoes/fora-da-caridade-nao-ha-salvacao** (eixo 3/editorial, baixa, 2026-05-31) L2 — O tipo declarado é 'questao', cuja convenção pede ancoragem em UMA única questão/item pontual; mas a página atravessa os itens 1-10 do ESE cap. XV, mais LE q. 886 e Viagem Espírita em 1862 — escopo… · evidência: linha 2 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01** (decisão do usuário): reclassificada `questao` → **aprofundamento**. `grau/introdutorio` → `grau/avancado`; estrutura reorganizada (Contexto doutrinário · A máxima/citação literal · Comentário de Kardec · Instrução de Paulo · Análise por eixos · Síntese · Aprofundamento); arquivo movido `wiki/questoes/` → `wiki/aprofundamentos/` (git mv) com 7 wikilinks de entrada reescritos e entrada do `catalogo.md` repositionada de Questões → Aprofundamentos
-- [x] **wiki/questoes/fora-da-caridade-nao-ha-salvacao** (eixo 4/tags-links, baixa, 2026-05-31) L4 — tema/prece-caridade (eixo 'adoração, prece, caridade prática') também seria defensável, dado o foco em caridade ativa/praticada. · evidência: linha 4 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: adicionada tag `tema/prece-caridade` (agora 3 tema/*: moral + jesus + prece-caridade). Nova localização: `wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao`
-- [x] **wiki/questoes/o-que-e-deus** (eixo 2/citação, media, 2026-05-31) L54 — Linha 54: a página afirma que o atributo da q. 2 é 'infinito em suas perfeições' — 'e do atributo complementar da q. 2 (infinito em suas perfeições)'. · evidência: (LE, q. 2) e (LE, q. 3, nota de Kardec) vs wiki/questoes/o-que-e-deus.md, linha 54 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: q. 2 define "infinito" abstratamente ("o que não tem começo nem fim; o desconhecido"). A formulação "infinito em suas perfeições" é da **nota de Kardec à q. 3**. L54 reescrita: atributos completados "pela nota de Kardec à q. 3, segundo a qual 'Deus é infinito em suas perfeições, mas o infinito é uma abstração'" (texto literal)
-- [x] **wiki/questoes/pactos-com-satanas-como-alegoria** (eixo 2/citação, media, 2026-05-31) L29 — A página afirma que a distinção entre símbolo alegórico (verdade moral em roupagem figurada) e narrativa literal é estabelecida 'em A Gênese (caps. II–III) e em O Evangelho Segundo o Espiritismo (c… · evidência: (LE, q. 131); (LE, q. 550) vs (ESE, cap. XIV, item 7); (Gênese, caps. II–III) · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: Gênese caps. II–III ("Deus"/"O bem e o mal") e ESE cap. XIV item 7 (indiferença aparente de Jesus à mãe) não enunciam o princípio hermenêutico. Loci substituídos por Gênese **cap. XII** ("Gênese moisaica"), onde Kardec lê o Éden/serpente/tentador como alegoria, com o texto literal do item 16 ("podem ser tomadas em sentido material, moral, alegórico, em sentido próprio e figurado"); o princípio também está na própria q. 550 já citada
-- [x] **wiki/questoes/pactos-com-satanas-como-alegoria** (eixo 4/tags-links, baixa, 2026-05-31) L4 — A página tem uma seção substancial 'Conexão com obsessão' (LM, 2ª parte, cap. XXIII; LE q. 498) que atravessa o eixo da mediunidade/obsessão, mas só carrega tema/espiritos. · evidência: linha 4 · relatório: reports/critica/2026-05-31-1320 · **RESOLVIDO 2026-06-01**: adicionada tag `tema/mediunidade` (agora 2 tema/*, dentro do limite 1-3)
-- [ ] **wiki/questoes/paternidade-como-missao** (cit; 3 achado(s), 2026-06-03) — A página apresenta como citação literal de Kardec, atribuída ao ESE cap. XIV, a frase 'A semente mais fecunda é o exemplo.' · evidência: (ESE, cap. XIV, item 9) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta** (cit; 4 achado(s), 2026-06-03) — A página atribui a frase entre aspas 'o mérito está na luta' a LE q. 843. · evidência: (LE, q. 843) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/celibato-como-ideal-paulino** (cit; 1 achado(s), 2026-06-03) — A página invoca ESE cap. XXVII ("Pedi e obtereis") para sustentar que "a graça é proporcional ao chamado individual, não a modelos import… · evidência: (ESE, cap. XXVII, item 4) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/pecado-original-em-romanos-5** (cit; 3 achado(s), 2026-06-03) — A página atribui a 'LE, q. 612' um texto sobre afeições entre Espíritos ('Conservam os Espíritos, uns para com os outros, as afeições que… · evidência: LE q. 621 ('Onde está escrita a lei de Deus? — Na consciência.') e LE q. 642 ('responderá por todo mal que haja resultado de não haver praticado o bem') — ambas confirmadas por cite.py · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/recaida-sem-arrependimento-em-hebreus** (cit,edit; 3 achado(s), 2026-06-03) — A página cita LE q. 1015 (linha 54-55, em blockquote como texto literal) e LE q. 1009-1016 (linhas 55, 108, 125, 141) para o universalism… · evidência: LE q. 171 (verificada): "o bom pai deixa sempre aberta a seus filhos uma porta para o arrependimento... Todos os Espíritos tendem para a perfeição e Deus lhes faculta os meios de alcançá-la"; LE q. 1009 (comentário de PLATÃO/LAMENNAIS). · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/uma-morte-e-juizo-em-hebreus-9** (cit; 2 achado(s), 2026-06-03) — A página ancora três vezes em 'C&I 1ª parte cap. II' o argumento central de que o 'juízo' pós-morte é a retomada de consciência / autodia… · evidência: (C&I, 1ª parte, cap. II — 'Da apreensão diante da morte') · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/expiacao-e-arrependimento** (edit,tag; 2 achado(s), 2026-06-03) — Linha 96 atribui a 'A *Gênese*' uma citação que é de ESE. · evidência: Linha 96: "A *Gênese* confirma o princípio: 'Para nos melhorarmos, outorgou-nos … · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/missao-de-kardec** (cit; 3 achado(s), 2026-06-03) — A página cita textualmente, com aspas, a frase "A revelação espírita não foi feita só por intermédio de um homem, foi feita simultaneamen… · evidência: (ESE, Introdução, item II, §49) / (Gênese, cap. I, item 13) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/sexualidade-em-emmanuel** (cit; 1 achado(s), 2026-06-03) — A pagina afirma (L56) que a tese de Emmanuel de que pais e filhos sao "originariamente, consciencias livres, livres filhos de Deus" e "ec… · evidência: (LE, q. 622) vs. (LE, q. 843) / Lei de Liberdade (LE q. 825-872) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/sangue-expiatorio-em-1-joao** (cit; 5 achado(s), 2026-06-03) — O blockquote das linhas 37–38, apresentado como "Q. 636", traz uma pergunta ("Cada um pode fazer-se feliz, ou desgraçado?") e resposta ("… · evidência: (LE, q. 636) — raw/kardec/pentateuco/livro-dos-espiritos.md:2161-2162 · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/sangue-expiatorio-em-1-pedro** (cit,tag; 3 achado(s), 2026-06-03) — A página cita repetidamente (LE q. 1015-1019) como fonte do "universalismo do progresso" / "universalismo da perfeição final" — linhas 10… · evidência: LE — questões inexistentes citadas: q. 1015-1019 (cite.py: "não encontrada"; obra encerra Q&A em q. 1010) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/arrependimento-expiacao-e-reparacao** (cit; 1 achado(s), 2026-06-03) — Os blockquotes 'literais' de Kardec (linhas 19 e 21) divergem palavra a palavra da tradução FEB citada em Fontes. · evidência: (C&I, 1ª parte, cap. VII, itens 16-17), edição FEB — raw/kardec/pentateuco/ceu-e-inferno.md:1378-1387 · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/escravidao-em-efesios-6** (cit; 3 achado(s), 2026-06-03) — Blockquote de LE q. 825 (linha 56) e fabricado. · evidência: LE q. 825 · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/predestinacao-em-romanos-8-9** (cit,edit; 4 achado(s), 2026-06-03) — A pagina apresenta um blockquote rotulado "Q. 1009" com pergunta "A sorte do homem no mundo onde ele se encontra esta irrevogavelmente fi… · evidência: (LE, q. 1009) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/sangue-expiatorio-em-galatas** (cit; 3 achado(s), 2026-06-03) — A página cita o blockquote "Em vez do sacrifício sangrento, abominável aos olhos do Senhor, ofereceis o sacrifício do coração e este lhe … · evidência: (ESE, cap. XXVII, item 14) — citação atribuída, não confirmada · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/sujeicao-conjugal-em-efesios-5** (cit,edit; 3 achado(s), 2026-06-03) — A linha 46 apresenta o comentário de Kardec à q. 822 como blockquote (formato de citação literal) mas com texto alterado e palavra-chave … · evidência: (LE, q. 822) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/diabo-ontologico-em-apocalipse** (cit,edit; 5 achado(s), 2026-06-03) — A página apresenta um blockquote como citação LITERAL de LE q. 131, com a pergunta 'Existe o diabo?' e a resposta 'Se ele existisse, seri… · evidência: (LE, q. 131): '131. Há demônios, no sentido que se dá a esta palavra? — Se houvesse demônios, seriam obra de Deus. Mas, porventura, Deus seria justo e bom se houvera criado seres destinados eternamente ao mal e a permanecerem eternamente desgraçados? Se há demônios, eles se encontram no mundo inferior em que habitas e em outros semelhantes. São esses homens hipócritas...' · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/jesus-igual-a-deus-em-filipenses-2** (cit; 2 achado(s), 2026-06-03) — A página apresenta como comentário literal de Kardec à LE q. 625 o trecho: "Para o homem, Jesus constitui o tipo da perfeição moral... Po… · evidência: LE, q. 625 (comentário) — conforme citado na página · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/penas-eternas-em-apocalipse** (cit,edit; 2 achado(s), 2026-06-03) — A página cita '(q. 1015–1019)' do LE para 'universalidade do progresso' / 'todos os Espíritos progridem, ainda que com velocidades difere… · evidência: (LE, q. 100–113); (LE, q. 1009) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/anjos-rebeldes-em-2-pedro-2** (cit; 5 achado(s), 2026-06-03) — Blockquote atribuído a LE q. 131 cita literalmente: 'O diabo, como vulgarmente se entende, com forma e atributos hediondos, simplesmente … · evidência: LE, q. 131 · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/mudanca-de-sexo-reencarnacao** (edit; 2 achado(s), 2026-06-03) — A página usa 'kardequiano/a' repetidamente para qualificar a interpretação de Kardec ('hermenêutica kardequiana', 'tríade kardequiana', '… · evidência: Linha 103: 'se dissolvem pela mesma hermenêutica kardequiana'; linha 115: 'a mes… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/criacao-do-planeta-terra** (cit; 1 achado(s), 2026-06-03) — Blockquote apresentado como citação LITERAL de (Gênese, cap. X, item 17) sobre o princípio vital. · evidência: (Gênese, cap. X, item 17) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/sexualidade-em-andre-luiz** (cit,edit,tag; 4 achado(s), 2026-06-03) — A pagina usa 'doutrina kardequiana' (l.13), 'Em chave kardequiana' (l.31), 'Lei de Reproducao kardequiana' (l.73), 'posicao kardequiana' … · evidência: CLAUDE.md (regra dura): 'Usar sempre kardecista (nunca kardequista)'; MEMORY.md:… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/o-que-devemos-pedir-na-prece** (edit; 1 achado(s), 2026-06-03) — A prece honesta 'pode (e talvez deva) verbalizar o desejo concreto' material, porque entregá-lo a Deus já é parte do trabalho interior. · evidência: ESE cap. XXVII, item 22 (V. Monod): a fonte só diz 'Inútil, portanto, pedir ao S… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/decisoes-de-vida-e-providencia** (cit; 1 achado(s), 2026-06-03) — Linha 74: 'Cuidai, pois, em primeiro lugar, do reino de Deus e da sua justiça, e tudo o mais vos será dado por acréscimo.' (Mt 6:33, cita… · evidência: (ESE, cap. XXV) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/aborto** (edit; 1 achado(s), 2026-06-03) — Linha 170: após a correção, a frase 'moldura de Kardec ampla' ficou com ordem de palavras pouco fluida (o adjetivo 'ampla' agora segue 'd… · evidência: Texto resultante: '[[wiki/conceitos/encarnacao]] — moldura de Kardec ampla (LE q… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/obediencia-e-resignacao** (tag; 1 achado(s), 2026-06-03) — Candidato a um terceiro tema/* — tema/livre-arbitrio — dado o eixo recorrente de liberdade/escolha (Jesus obedece e se resigna 'livrement… · evidência: Linha 61 'Jesus obedece e se resigna **livremente** (LE q. 258, q. 851)'; linha … · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/dor-rigidez** (cit,edit; 3 achado(s), 2026-06-03) — A página cita, entre aspas e como autoexame literal de Kardec, "Que fiz do orgulho e da vaidade? Sacrifiquei-os?" atribuindo o trecho a (… · evidência: (ESE, cap. XVII, item 4) / (LE, Conclusão, item I) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/almas-irmas-criadas-aos-pares** (cit; 1 achado(s), 2026-06-03) — A linha 61 atribui a Kardec a expressão entre aspas "poesia que tem o seu encanto", citada como (LE q. 298, comentário), alegando que Kar… · evidência: (LE, q. 303a, comentário) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/silencio-interior-o-ser-consciente** (cit,edit; 6 achado(s), 2026-06-03) — A página atribui a Allan Kardec o comentário que se segue à q. 919 (“Conhecer-se a si mesmo é a chave do progresso individual”). · evidência: (LE, q. 919) — Santo Agostinho · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/transicao-do-principio-inteligente** (tag; 1 achado(s), 2026-06-03) — Autores nível 2/3 nomeados na prosa ('Léon Denis', linha 51; 'André Luiz', linha 52) têm páginas-personalidade existentes (wiki/personali… · evidência: Linhas 51-52: '**Léon Denis** (*Depois da Morte*, cap. X) discute...' e '**André… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/esquecimento-do-passado** (tag; 1 achado(s), 2026-06-03) — A prosa usa "registro perispirítico" (linha 116) sem linkar a página-conceito wiki/conceitos/perispirito.md (que existe). · evidência: Linha 116: "a desconfiança das costas, registro perispirítico do golpe sofrido".… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/sofrimento-em-joanna-de-angelis** (cit,edit; 2 achado(s), 2026-06-03) — A página afirma que a ancoragem da tese "agradecer pelas provas como maturidade saudável" está em Santo Agostinho via ESE cap. XIV, item … · evidência: (ESE, cap. V, item 19) Santo Agostinho, Paris 1863 — "Ditosos os que sofrem e choram!"; (ESE, cap. III, item 15) Santo Agostinho, Paris 1862. · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/escolha-de-provas** (cit; 2 achado(s), 2026-06-03) — A página apresenta como citação LITERAL (entre aspas) de (LE, q. 984–985): “As vicissitudes da vida são sempre a punição de faltas passad… · evidência: (LE, q. 984) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/sexualidade-em-joanna-de-angelis** (cit,edit; 3 achado(s), 2026-06-03) — A página afirma que a tese clínica de Camazão — 'a memória encarnacional não se apaga de uma vida para outra', exigindo 'adaptações profu… · evidência: (LE, q. 155) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/a-infancia-e-o-veu-da-inocencia** (edit; 1 achado(s), 2026-06-03) — A página atribui a ênfase do "sobretudo" (a inocência dada aos pais mais do que à própria criança) a Kardec: "Esta é a ênfase que Kardec … · evidência: Em LE q. 385 (raw/kardec/pentateuco/livro-dos-espiritos.md:1416-1424) a passagem… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/unicidade-do-espirito** (tag; 1 achado(s), 2026-06-03) — A página usa 'individualidade' como termo doutrinário central (linhas 11, 29, 39, 41, 47) sem wikilink, mas não há página-conceito 'indiv… · evidência: wiki/conceitos/individuacao.md, H1 '# Individuação': 'Em termos junguianos, indi… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao** (cit; 1 achado(s), 2026-06-03) — A pagina cita repetidamente '(LE, q. 873-919)' como o range da Lei de Justica, Amor e Caridade (linhas 15, 57, 69, 100). · evidência: LE, Parte 3, Cap. XI (q. 873-892) vs. Cap. XII (q. 893-919) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/aprofundamentos/por-que-mediuns-falham** (edit; 1 achado(s), 2026-06-03) — Na seção 'Conceitos relacionados' (linha 150), Otávio é rotulado como '(suicídio inconsciente)', enquanto o corpo da página (linhas 67, 7… · evidência: Linha 150: '[[wiki/conceitos/suicidio]] — Otávio como caso correlato (suicídio i… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/continuidade-do-principio-inteligente-ate-o-homem** (edit; 1 achado(s), 2026-06-03) — A seção Análise propõe a classificação 'não é divergência estrutural — é deslocamento de ênfase / adoção de um dos dois sistemas que Kard… · evidência: Linha 44: 'Classificação proposta: não é divergência estrutural — é a adoção de … · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/veracidade-das-mensagens-psicografadas** (cit,edit; 2 achado(s), 2026-06-03) — A página atribui o 'Controle Universal do Ensino dos Espíritos' (CUEE) — concordância de comunicações obtidas por médiuns diferentes, em … · evidência: ESE, Introdução, item II (Controle universal do ensino dos Espíritos): 'Uma só garantia séria existe para o ensino dos Espíritos: a concordância que haja entre as revelações...' · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/hierarquia-de-autoridade** (edit,tag; 3 achado(s), 2026-06-03) — A pagina usa a forma adjetival proibida 'kardequiana' ('principios da codificacao kardequiana', linha 230) e 'kardeciana' ('a interpretac… · evidência: L230: 'Suas obras demonstram fidelidade aos principios da codificacao kardequian… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/parabolas-de-jesus** (cit,edit; 3 achado(s), 2026-06-03) — A parábola do tesouro escondido e da pérola é apresentada como comentada por Kardec no ESE, cap. XVI ("Uso dos bens terrenos", e na tabel… · evidência: (ESE, cap. XVI, "Não se pode servir a Deus e a Mamon") · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/lar-como-fortaleza** (cit,tag; 2 achado(s), 2026-06-03) — A página (l. 34) atribui a ESE cap. XXVII, item 9, uma frase entre aspas: a oração coletiva 'tem efeito superior à individual, quando tod… · evidência: (ESE, cap. XXVIII, item 5) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/possessos-de-morzine** (cit; 1 achado(s), 2026-06-03) — No item 2c (linhas 37-39) a página apresenta os três graus como "Estabelecidos com clareza programática" pelo artigo de dez/1862 e dá def… · evidência: RE dez/1862, "Estudo sobre os possessos de Morzine"; LM cap. XXIII, item 237 · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/colecao-fonte-viva-emmanuel** (tag; 2 achado(s), 2026-06-03) — A prosa nomeia o conceito "reencarnação" como eixo distintivo de PVE ("recomeço e reencarnação como reajuste", linha 75; "reencarnação co… · evidência: Linha 75: "retoma o registro com novo eixo central: **recomeço e reencarnação co… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/psicopatologias-na-doutrina-espirita** (edit; 1 achado(s), 2026-06-03) — A página usa o adjetivo 'kardequiano/a' em 8 ocorrências (linhas 39 'estrutura kardequiana', 49 'tese kardequiana', 74 'tripartição karde… · evidência: Linha 39: 'A estrutura kardequiana fica assim fixada em três frentes'; linha 49:… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/serie-psicologica-joanna-de-angelis** (cit; 1 achado(s), 2026-06-03) — A página apresenta `(LE q. 540)` como o locus kardecista do "princípio inteligente", afirmando a equivalência funcional Self (Jung) ≈ "pr… · evidência: (LE, Parte 1, Cap. II, q. 17 ss.) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/sermao-do-monte-em-emmanuel** (edit; 1 achado(s), 2026-06-03) — A linha 'Tema amor aos inimigos' da tabela 'Como usar' diz 'Quatro capítulos a articular' mas em seguida lista SETE capítulos (VL 41, VL … · evidência: Linha 182: 'Tema "amor aos inimigos" | Quatro capítulos a articular: VL 41, VL 6… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/oracoes-do-canal-espiritualidade-e-vida** (edit; 1 achado(s), 2026-06-03) — A pagina afirma 'Catalogo (18 pecas)' (linha 25) e que 'A primeira entrada -- Vem Estudar Com a Gente -- e palestra discursiva, nao oraca… · evidência: Linha 25: '### Catalogo (18 pecas)'. Linha 27: 'A primeira entrada -- *Vem Estud… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/sinteses/sermao-do-monte** (cit; 2 achado(s), 2026-06-03) — Linha 98: "Kardec resume toda a moral de Jesus em duas virtudes: humildade e caridade (ESE, cap. XVII, item 3)". · evidência: ESE, cap. XV, item 3 (locus correto) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/condenacao-dos-incredulos-em-marcos-16** (cit,tag; 2 achado(s), 2026-06-03) — A prosa parafraseia LE q. 621 dizendo que a lei natural foi inscrita 'em todo coração'. · evidência: (LE, q. 621) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/fogo-eterno-em-mateus-25** (tag; 1 achado(s), 2026-06-03) — A página trata extensamente do ensino de Jesus (juízo das ovelhas/cabritos em Mt 25, parábola do mau rico em Lc 16) e sua leitura figurad… · evidência: Frontmatter linha 4: tags inclui tema/vida-futura e os tópicos mateus/lucas, mas… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/morte-de-ananias-e-safira** (edit,tag; 2 achado(s), 2026-06-03) — A seção 'Análise' introduz enquadramento crítico-textual (Formgeschichte / 'narrativa edificante redacional', autoria lucana décadas depo… · evidência: Linha 53: 'O episódio tem sabor de narrativa edificante redacional (Formgeschich… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/divergencias/sinais-de-marcos-16** (cit,tag; 3 achado(s), 2026-06-03) — A página atribui o fenômeno das 'novas línguas' (xenoglossia/glossolalia) ao Livro dos Médiuns, '2ª parte, cap. XIX — psicografia e comun… · evidência: LM, 2ª parte, cap. XVI (Dos médiuns especiais), item 189 (livro-dos-mediuns.md:5419) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/alma-dos-animais** (cit,tag; 2 achado(s), 2026-06-03) — A página afirma que 'a crueldade contra animais ofende Deus (LE, q. 750, q. 752)'. · evidência: (LE, q. 750); (LE, q. 752) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/espiritos-e-as-leis-da-natureza** (cit,edit; 2 achado(s), 2026-06-03) — A página afirma categoricamente: "A morte tem seu momento fixado antes da encarnação (LE, q. 851–854) — não a forma." Isso simplifica dem… · evidência: LE q. 853 (raw/kardec/pentateuco/livro-dos-espiritos.md:2770-2773): "Fatal, no v… · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/o-que-e-deus** (cit,tag; 3 achado(s), 2026-06-03) — A página afirma que a q. 1 e raiz dos 'sete atributos classicos listados na q. 13 — eterno, imutavel, imaterial, unico, onipotente, sober… · evidência: (LE, q. 13) · relatório: reports/critica/2026-06-03-1903
-- [ ] **wiki/questoes/pactos-com-satanas-como-alegoria** (tag; 1 achado(s), 2026-06-03) — A expressão "Negação das penas eternas" aparece na prosa (linha 58) sem wikilink, embora wiki/conceitos/penas-eternas exista e já conste … · evidência: Linha 58: "**Negação das penas eternas** — coerente com toda a doutrina (LE, q. … · relatório: reports/critica/2026-06-03-1903
+### aprofundamentos/
+- [ ] **expiacao-e-arrependimento** (edit,tag; 2) — L96 atribui a *Gênese* uma citação que é de ESE.
+- [ ] **missao-de-kardec** (cit; 3) — aspa "A revelação espírita não foi feita só por intermédio de um homem…" — conferir locus (ESE Introd. II §49 / Gênese I,13).
+- [ ] **sexualidade-em-emmanuel** (cit; 1) — tese "consciências livres" ancorada em LE q. 622 vs q. 843 / Lei de Liberdade.
+- [ ] **criacao-do-planeta-terra** (cit; 1) — blockquote "literal" de Gênese cap. X item 17 (princípio vital).
+- [ ] **sexualidade-em-andre-luiz** (cit,edit,tag; 4) — ancoragem + "kardequiano/a" em 4 pontos (cruza §13).
+- [ ] **aborto** (edit; 1) — L170 ordem de palavras truncada ("moldura de Kardec ampla").
+- [ ] **dor-rigidez** (cit,edit; 3) — autoexame "Que fiz do orgulho e da vaidade?" atribuído a ESE cap. XVII / LE Conclusão.
+- [ ] **silencio-interior-o-ser-consciente** (cit,edit; 6) — comentário à q. 919 atribuído a Kardec (é Santo Agostinho) + 5 achados.
+- [ ] **sofrimento-em-joanna-de-angelis** (cit,edit; 2) — "agradecer pelas provas" ancorado em ESE cap. XIV vs cap. V/III.
+- [ ] **escolha-de-provas** (cit; 2) — aspa "literal" de LE q. 984–985 não casa.
+- [ ] **sexualidade-em-joanna-de-angelis** (cit,edit; 3) — tese clínica de Camazão ancorada em LE q. 155.
+- [ ] **fora-da-caridade-nao-ha-salvacao** (cit; 1) — range "LE q. 873–919" cruza cap. XI e XII.
+- [ ] **por-que-mediuns-falham** (edit; 1) — L150 rótulo de Otávio "(suicídio inconsciente)" diverge do corpo.
+- [ ] **decisoes-de-vida-e-providencia** (cit; 1) — Mt 6:33 atribuída a ESE cap. XXV.
+
+### divergencias/
+- [ ] **celibato-como-ideal-paulino** (cit; 1) — ESE cap. XXVII item 4 sustenta "graça proporcional ao chamado individual"?
+- [ ] **pecado-original-em-romanos-5** (cit; 3) — LE q. 612 (afeições) vs q. 621/q. 642.
+- [ ] **recaida-sem-arrependimento-em-hebreus** (cit,edit; 3) — **FP q. 1009/1015–1016 (legítimas)**; resíduo: blockquote estilizado como literal + ancoragem q. 171.
+- [ ] **uma-morte-e-juizo-em-hebreus-9** (cit; 2) — "juízo" pós-morte ancorado 3× em C&I 1ª parte cap. II.
+- [ ] **sangue-expiatorio-em-1-joao** (cit; 5) — **FP q. 1015–1019 (legítimas)**; resíduo: blockquote "Q. 636" com pergunta/resposta não-literal + outros.
+- [ ] **sangue-expiatorio-em-1-pedro** (cit,tag; 3) — **FP q. 1015–1019 (legítimas)**; resíduo: tag.
+- [ ] **escravidao-em-efesios-6** (cit; 3) — blockquote de LE q. 825 fabricado.
+- [ ] **predestinacao-em-romanos-8-9** (cit,edit; 4) — **FP "Q. 1009" (legítima)**; resíduo: blockquote estilizado como literal.
+- [ ] **sangue-expiatorio-em-galatas** (cit; 3) — **FP cluster**; resíduo: blockquote ESE cap. XXVII item 14 não confirmado.
+- [ ] **sujeicao-conjugal-em-efesios-5** (cit,edit; 3) — comentário à q. 822 como blockquote com texto alterado.
+- [ ] **diabo-ontologico-em-apocalipse** (cit,edit; 5) — blockquote "literal" de LE q. 131 (pergunta/resposta divergem).
+- [ ] **jesus-igual-a-deus-em-filipenses-2** (cit; 2) — **FP cluster**; comentário "literal" à q. 625 — conferir.
+- [ ] **penas-eternas-em-apocalipse** (cit,edit; 2) — **FP q. 1015–1019 (legítimas)**; resíduo: range "universalidade do progresso".
+- [ ] **anjos-rebeldes-em-2-pedro-2** (cit; 5) — blockquote "literal" de LE q. 131.
+- [ ] **mudanca-de-sexo-reencarnacao** (edit; 2) — "kardequiano/a" repetido (cruza §13).
+- [ ] **continuidade-do-principio-inteligente-ate-o-homem** (edit; 1) — classificação "não é divergência estrutural, é adoção de um dos dois sistemas".
+- [ ] **condenacao-dos-incredulos-em-marcos-16** (cit,tag; 2) — paráfrase de LE q. 621 ("lei inscrita em todo coração").
+- [ ] **fogo-eterno-em-mateus-25** (tag; 1) — candidato a 3º `tema/*` (Jesus/vida-futura).
+- [ ] **morte-de-ananias-e-safira** (edit,tag; 2) — enquadramento crítico-textual (Formgeschichte) co-igual à divergência doutrinária.
+- [ ] **sinais-de-marcos-16** (cit,tag; 3) — "novas línguas" atribuída a LM cap. XIX vs cap. XVI item 189.
+
+### questoes/
+- [ ] **paternidade-como-missao** (cit; 3) — aspa "A semente mais fecunda é o exemplo" (ESE cap. XIV item 9).
+- [ ] **por-que-a-acao-dos-espiritos-e-oculta** (cit; 4) — aspa "o mérito está na luta" (LE q. 843).
+- [ ] **arrependimento-expiacao-e-reparacao** (cit; 1) — blockquotes "literais" divergem da tradução FEB citada em Fontes.
+- [ ] **o-que-devemos-pedir-na-prece** (edit; 1) — prece "pode verbalizar o desejo concreto" vs ESE cap. XXVII item 22.
+- [ ] **obediencia-e-resignacao** (tag; 1) — candidato a `tema/livre-arbitrio`.
+- [ ] **transicao-do-principio-inteligente** (tag; 1) — Léon Denis/André Luiz sem wikilink-personalidade.
+- [ ] **esquecimento-do-passado** (tag; 1) — "registro perispirítico" sem link a `perispirito`.
+- [ ] **a-infancia-e-o-veu-da-inocencia** (edit; 1) — ênfase "sobretudo" atribuída a Kardec (q. 385).
+- [ ] **unicidade-do-espirito** (tag; 1) — "individualidade" como termo central sem conceito (≠ `individuacao`).
+- [ ] **alma-dos-animais** (cit,tag; 2) — "crueldade contra animais ofende Deus" (LE q. 750, q. 752).
+- [ ] **espiritos-e-as-leis-da-natureza** (cit,edit; 2) — "morte tem momento fixado" simplifica demais q. 853.
+- [ ] **o-que-e-deus** (cit,tag; 3) — "sete atributos clássicos listados na q. 13".
+- [ ] **pactos-com-satanas-como-alegoria** (tag; 1) — "Negação das penas eternas" sem wikilink.
+
+### sinteses/
+- [ ] **veracidade-das-mensagens-psicografadas** (cit,edit; 2) — atribuição do "Controle Universal do Ensino dos Espíritos".
+- [ ] **hierarquia-de-autoridade** (edit,tag; 3) — formas proibidas "kardequiana"/"kardeciana" (cruza §13).
+- [ ] **parabolas-de-jesus** (cit,edit; 3) — tesouro escondido/pérola atribuída a ESE cap. XVI.
+- [ ] **lar-como-fortaleza** (cit,tag; 2) — aspa ESE cap. XXVII item 9 (vs cap. XXVIII item 5).
+- [ ] **possessos-de-morzine** (cit; 1) — três graus "estabelecidos com clareza programática" pelo artigo dez/1862.
+- [ ] **colecao-fonte-viva-emmanuel** (tag; 2) — "reencarnação" como eixo sem wikilink.
+- [ ] **psicopatologias-na-doutrina-espirita** (edit; 1) — "kardequiano/a" 8× (cruza §13).
+- [ ] **serie-psicologica-joanna-de-angelis** (cit; 1) — "(LE q. 540)" como locus do "princípio inteligente".
+- [ ] **sermao-do-monte-em-emmanuel** (edit; 1) — "Quatro capítulos a articular" mas lista sete.
+- [ ] **oracoes-do-canal-espiritualidade-e-vida** (edit; 1) — "Catálogo (18 peças)" mas 1ª entrada é palestra, não oração.
+- [ ] **sermao-do-monte** (cit; 2) — ESE cap. XVII item 3 vs cap. XV item 3.
+
+---
 
 ## 12. Verificação determinística de aspas do Pentateuco
 
-> Motivação: a `/critica` de 2026-06-03 revelou um padrão sistêmico e recorrente — **blockquotes apresentados como citação literal de Kardec que não existem na fonte** (ou apontam para o locus errado). Foi a maioria dos achados de severidade alta. Teste empírico confirmou que o problema é majoritariamente **determinístico**, não exige LLM: a wiki e o corpus `raw/kardec/pentateuco/` usam a mesma edição (Guillon Ribeiro/FEB), então aspa genuína bate **verbatim** com `cite.py` (ex.: LE q.323 ≈ 100%), enquanto aspa fabricada diverge muito (ex.: LE q.131 ≈ 40-55% — até a pergunta difere). A separação de sinal é grande o bastante para um threshold de fuzzy match.
+> Motivação: a `/critica` de 2026-06-03 revelou um padrão sistêmico — **blockquotes apresentados como citação literal de Kardec que não existem na fonte** (ou apontam para o locus errado), maioria dos achados de severidade alta. Teste empírico: a wiki e o corpus `raw/kardec/pentateuco/` usam a mesma edição (Guillon Ribeiro/FEB), então aspa genuína bate **verbatim** com `cite.py` (~100%), enquanto aspa fabricada diverge muito (~40–55%). A separação de sinal sustenta um threshold de fuzzy match.
 
-**O problema tem 3 sub-classes:**
-1. **Aspa fabricada** — texto "literal" inexistente na fonte. → 100% determinístico.
-2. **Locus errado** — a aspa existe, mas o `(SIGLA, ref)` aponta para outra questão. → determinístico (casa com outro locus).
-3. **Range largo / paráfrase mal-ancorada** — "itens 5–9" quando só o item 9 sustenta. → irredutivelmente LLM (sustentação semântica, não string).
+**3 sub-classes:** (1) **aspa fabricada** — texto "literal" inexistente → 100% determinístico; (2) **locus errado** — a aspa existe mas o `(SIGLA, ref)` aponta para outra questão → determinístico; (3) **range largo / paráfrase mal-ancorada** → irredutivelmente LLM. As classes 1 e 2 são as mais graves e automatizáveis; ficam fora da `/critica`, aliviando seu custo.
 
-Sub-classes 1 e 2 são as mais graves e as automatizáveis; ficam fora do escopo da `/critica`, aliviando seu custo em tokens.
+**Estado:** a **Fase 0/1 está parcialmente entregue** — `check_literal_quote_exists` existe (info, fora do CI/hook); primeira passada wiki-wide deu **128 candidatos**. Em paralelo, `check_citation_resolves` (locus que não resolve) foi **promovido a `error`/CI gate** (ver [Concluído](#concluído)). Abertos:
 
-**Arquitetura (detectar grátis + prevenir + resíduo-LLM):**
+- [ ] **Fase 1 — promover a check oficial.** Calibrar precisão/recall com os 128 candidatos como dataset; decidir thresholds (≥95% ok · <85% flag · `cite.py` erro → "locus inexistente"); **na dúvida, abster**. Priorizar blockquotes (`> "..."`) com `(SIGLA, ref)` adjacente; aspas inline só depois. Promover a `warning`/hook quando a precisão justificar.
+- [ ] **Fase 2 — prevenção (fechar a torneira).** Ação `critica_apply.py insert-quote --path --locus` que busca da fonte e escreve o blockquote — a aspa literal nunca é digitada de memória pela LLM. Canonizar na regra de citação (CLAUDE.md §3 / `verificacao-citacao.md`): aspa do Pentateuco só via `cite.py`.
+- [ ] **Fase 3 — cobertura.** Mapear formatos de ref que o `cite.py` resolve (ranges, itens de Introdução/Conclusão); onde não resolve, o check se abstém. Estender com cautela a aspas inline.
+- [ ] **Triagem humana dos 128 candidatos** (= item de §5; converter fabricadas em paráfrase ou citação ancorada).
 
-- [ ] **Fase 0 — Validação (1ª entrega).** Prototipar extrator de pares `(aspa literal, locus)` + matcher fuzzy contra `cite.py`; rodar sobre as **911 páginas** da wiki de uma vez (sem mutar nada). Saídas: (a) precisão/recall reais para calibrar thresholds com dados; (b) inventário COMPLETO de aspas suspeitas (não só as 66 do run). Decide se a precisão justifica promover a check oficial.
-- [ ] **Fase 1 — Check determinístico no `lint_wiki.py`.** Extração: blockquotes (`> "..."`) com `(SIGLA, ref)` adjacente (alta confiança) primeiro; aspas inline só depois. Resolução via `cite.py SIGLA "ref"`. Normalização (aspas tipográficas→retas, acentos, hífens/travessões, espaços, caixa). Alinhamento fuzzy (`rapidfuzz.partial_ratio` ou `difflib` stdlib): ≥95% ok · <85% flag "aspa não encontrada no locus" · `cite.py` erro → flag "locus inexistente". **Na dúvida, abster** (não falso-positivar). Roda **grátis, sem tokens**, no hook `PostToolUse` (`lint-on-edit.py`) — pega a fabricação no ato da escrita.
-- [ ] **Fase 2 — Prevenção (fechar a torneira).** Ação `critica_apply.py insert-quote --path --locus` que busca da fonte e escreve o blockquote — a aspa literal nunca é digitada de memória pela LLM. Canonizar na regra de citação (CLAUDE.md §3 / `verificacao-citacao.md`): aspa do Pentateuco só via `cite.py`. O check da Fase 1 vira o backstop obrigatório.
-- [ ] **Fase 3 — Cobertura.** Mapear formatos de ref que o `cite.py` resolve (ranges `q.1015–1019`, itens de Introdução/Conclusão); onde não resolve, o check se abstém. Estender com cautela a aspas inline.
+**Limites:** cobre só o **Pentateuco** (onde há `cite.py` + edição idêntica); aspas de autores complementares seguem dependentes da LLM (aceitável — as aspas mais sensíveis são as de Kardec). Aspa inline tem risco de falso-positivo — começar só por blockquote.
 
-**Limites assumidos:** cobre só o **Pentateuco** (onde há `cite.py` + edição idêntica); aspas de autores complementares (psicografados, Léon Denis — sem fonte literal garantida, só qmd) continuam dependentes da LLM, o que é aceitável porque a autoridade e as aspas mais sensíveis são as de Kardec. Aspa inline tem risco de falso-positivo (ênfase, scare quotes) — começar só por blockquote.
+---
 
 ## 13. Varredura wiki-wide de "kardequiano/a" → "de Kardec"
 
-> Deriva terminológica sistêmica detectada por grep determinístico em 2026-06-03 (durante a `/critica`): **670 ocorrências da forma "kardequiano/a" em 238 páginas**. Viola a regra do usuário (persistida em memória `feedback-kardequiano-vs-de-kardec`): nunca usar "kardequiano/a"; "kardecista" só para o movimento, não para Kardec. Não é dívida deste run — é acumulada em toda a wiki (índices bíblicos, obras, personalidades, conceitos, divergências).
+> Deriva terminológica sistêmica detectada por grep em 2026-06-03: **~654 ocorrências de "kardequiano/a" em ~238 páginas** (de 670 originais; só 3 corrigidas pontualmente pelo `/critica`). Viola a regra do usuário (memória `feedback-kardequiano-vs-de-kardec`): nunca "kardequiano/a"; "kardecista" só para o movimento, não para Kardec. Dívida acumulada em toda a wiki (índices bíblicos, obras, personalidades, conceitos, divergências). **0 progresso de fundo.**
 
-- [ ] **Detecção (determinística, grátis):** `grep -rln 'kardequian' wiki/` localiza todas as ocorrências. Candidato a virar check do `lint_wiki.py` (data-driven, alinhado à preferência do usuário por registro extensível — ver `feedback-checks-data-driven`).
-- [ ] **Correção (exige cuidado, não é substituição cega):** a forma adjetiva muda conforme o contexto — "leitura kardequiana" → "leitura de Kardec"; "Pentateuco kardequiano" → "Pentateuco de Kardec"; "em chave kardequiana" → "na chave de Kardec" / "à luz de Kardec"; "divisa/critério/eixo kardequiano" → reescrever. Algumas viram "de Kardec" direto; outras precisam de reformulação para não soar truncadas. Fazer em lote por padrão sintático, revisando os casos que não encaixam no molde "de Kardec".
-- [ ] **Escopo:** 238 páginas é grande demais para um passe manual — avaliar script de substituição assistida (mapa de padrões `kardequian* → forma`) + revisão dos resíduos, ou lote incremental por diretório (`biblia/`, `obras/`, `conceitos/`, `personalidades/`).
+- [ ] **Detecção (determinística, grátis):** `grep -rln 'kardequian' wiki/`. Candidato a check do `lint_wiki.py` (data-driven, alinhado a `feedback-checks-data-driven`). **Fazer primeiro** — é pré-requisito da correção em lote e mede o progresso.
+- [ ] **Correção (cuidadosa, não substituição cega):** a forma muda conforme o contexto — "leitura kardequiana" → "leitura de Kardec"; "Pentateuco kardequiano" → "Pentateuco de Kardec"; "em chave kardequiana" → "na chave de Kardec" / "à luz de Kardec"; "divisa/critério/eixo kardequiano" → reescrever. Fazer em lote por padrão sintático, revisando os casos que não encaixam no molde "de Kardec".
+- [ ] **Escopo:** ~238 páginas é grande demais para passe manual — avaliar script de substituição assistida (mapa de padrões) + revisão dos resíduos, ou lote incremental por diretório (`biblia/`, `obras/`, `conceitos/`, `personalidades/`).
+
+---
+
+## Priorização
+
+### Aberto, impacto alto — fidelidade doutrinária (núcleo do projeto)
+
+- **Triagem do §11** — 66 itens diferidos do `/critica` de 2026-06-03 (já descontados os falso-positivos q. 1009/1015–1019). Cruza com o débito de rascunhos rebaixados (§10.3).
+- **Triagem dos 128 candidatos do §12** — aspas literais fabricadas em `wiki/**`.
+- **§13 sweep "kardequiano/a" → "de Kardec"** — ~654 ocorrências; viola regra dura do usuário. Começar pela **detecção determinística** (check de lint) antes da correção em lote.
+- **§12 Fases 1–2** — promover a verificação de aspas a gate + prevenção (`insert-quote`) fecha a torneira da fabricação na origem.
+
+### Aberto, impacto alto — conteúdo / leitor
+
+- **§10.1 questões-chave do LE** (blocos 301–400 e 501–600) — fecha o pior gap doutrinário, alimenta `/slides` e palestras.
+- **§10.3 limpar rascunhos ≥ 28 dias** — débito visível no `/lint`.
+- **§10.2 índices de Evangelhos** (4) — desbloqueia 4 evangelhos no grafo com custo baixo.
+
+### Aberto, impacto alto — workflow
+
+- **§1.3 Pipeline de palestras** — reduz fricção significativa.
+- **§1.3 Manifest de progresso em lotes longos** — pré-requisito de segurança do loop autônomo roadmap-driven.
+- **§5 `/autolint`** — complementa o hook PostToolUse; versão atenuada do self-healing loop.
+
+### Médio prazo
+
+§5 validação de deploy e baseline de build; §8 auditoria de LLM (cresce com o tempo); §2 trilhas e glossário; §6 Pagefind; §10.4/§10.5 aprofundamentos e sínteses por massa de vocabulário; §4 cobrir Kardec complementar no auto-link.
+
+### Dependências
+
+- §5 "versão estrita do check" — a parte **"a aspa existe"** já foi destravada e construída; só a parte **"o trecho sustenta a afirmação"** segue bloqueada por §4 Fase 2 (headings granulares no `raw/`).
+- §4 "link interno preferencial" — depende dos mesmos headings granulares (§4 Fase 2).
+- §1.3 Manifest de progresso → pré-requisito do loop autônomo.
+- §13 correção em lote → depende da detecção (grep/check) primeiro.
+
+---
+
+## Princípios
+
+- **Kardec prevalece** — toda melhoria respeita a hierarquia de autoridade (CLAUDE.md §2).
+- **Citação obrigatória** — nenhum conteúdo novo sem fundamentação (§3).
+- **Humano no circuito** — ingest e sínteses passam pelo usuário antes de publicar.
+- **Incremental** — cada melhoria entrega valor isoladamente; sem dependência rígida entre eixos.
+
+---
+
+## Estado-alvo (definition of done por eixo)
+
+- **§1 Cobertura** — Pentateuco com cobertura conceitual ≥80% no `/stats`; cada autor de nível 3 com ≥1 obra-âncora; nenhuma personalidade-âncora citada em 5+ páginas como stub.
+- **§2 Leitor público** — 5 affordances da home com trilha completa (não stub); glossário ≥100 termos; canal de feedback ✓.
+- **§3 Síntese** — 10 leis morais ✓; ≥30 questões-chave do Pentateuco extraídas; ≥5 sínteses temáticas comparativas.
+- **§4 Cross-references** — todas as parábolas linkam conceitos morais (e vice-versa); nenhuma página em `wiki/divergencias/` órfã do conceito que diverge.
+- **§5 Automação** — lint em CI verde por 30 dias; baseline de build com alerta; testes do `link_citations.py` ✓.
+- **§8 Governança** — política de fair-use ✓; nenhuma obra protegida sem `direitos:` ✓; aviso ao leitor em todas as obras nível 3 ✓. Resta `revisao_humana:` (§8).
+- **§11/§12/§13 Fidelidade** — 0 aspas literais fabricadas de Kardec; 0 loci inexistentes (já é CI gate); 0 ocorrências de "kardequiano/a".
+
+Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
+
+---
+
+## Concluído
+
+> Registro condensado (um item por linha). O detalhe vive no histórico do git.
+
+**§0 — Higiene de skills e documentação**
+- Auditoria CLAUDE.md + 4 skills + rules + hook (2026-04-26).
+
+**§1 — Cobertura de fontes**
+- Pentateuco 5/5 (fechado com *O Livro dos Médiuns*).
+- Nível 2 Kardec complementar 6/6 (2026-06-02).
+- Novo Testamento canônico 27/27 (2026-05-18).
+- Léon Denis 4/4 do raw atual.
+- Chico Xavier / série André Luiz 13/19 ingeridos; auditoria 2026-05-26 promoveu conceitos e personalidades-âncora da série.
+- Ingest *Memórias de um Suicida* (Camilo Castelo Branco / Yvonne) (2026-06-05).
+- Coautoria mediúnica em `evolucao-em-dois-mundos.md` (André Luiz/Chico+Waldo Vieira).
+- Personalidades-âncora expandidas (>700 palavras): Chico Xavier, Espíritos Reveladores, Carlos Mendonça, Joseph Bré, Eric Stanislas.
+- Pre-flight check no `/ingest` Passo 0 (2026-05-04).
+- Endurecimento do pipeline pós-report (2026-05-18→20): hook PreToolUse de pre-flight de branch; `qmd get` com offset; rule `convencoes-shell.md` + `SHELL_HAZARD_RE`.
+- Ergonomia da revisão humana no `/ingest` (2026-05-19) — plano em 3 blocos; check de lar canônico; relatório por exceção.
+
+**§2 — Leitor público**
+- Home orientada por affordances (`index.md` como grid de cartões).
+- Breadcrumbs semânticos (2026-05-05) + 9 `index.md` em pastas-raiz; cluster Leis Morais movido para `wiki/conceitos/leis-morais/`.
+- Canal de feedback do leitor (2026-05-06) — "Sugerir correção" no Footer + issue templates `errata.yml`/`duvida.yml`.
+
+**§3 — Síntese e estudo**
+- 10 Leis Morais como página completa (2026-04-30).
+- `sexualidade-em-andre-luiz.md` com *Sexo e Destino* (2026-05-04).
+
+**§4 — Cross-references**
+- Granularidade por questão/item — deep-link externo (Kardecpedia) (2026-06-05): LE 996, LM 327, ESE 476, C&I 180, Gênese 391; `DeepLinkTests`.
+- Linkar referências bíblicas (2026-05-22) — NT interno, AT externo.
+- Decisão sobre `wiki/biblia/` (2026-05-22) — híbrido: NT publicado, AT externo.
+- Publicar NT em `wiki/biblia/<livro>/<cap>.md` (commit `7c1141a`) — 287 capítulos + 27 `index.md`; `publish_biblia_nt.py`.
+- Bible mapping em `link_citations.py` (2026-05-22) — `data/biblia-livros.json`; 14 testes.
+
+**§5 — Qualidade e automação**
+- Lint em CI (`lint_wiki.py` a cada push).
+- Métricas de cobertura (`stats_wiki.py`).
+- Lint evolutivo (`low_citations`, `frequent_missing_concepts`, `naming_consistency`).
+- Higiene de `stats_wiki.py` (meta-páginas excluídas; seções-template removidas).
+- Backup e portabilidade (2026-05-16) — `docs/migracao.md` + `.env.example` + scripts; bump Python 3.12→3.14.
+- Testes de `link_citations.py` (2026-05-01).
+- `check_citation_resolves` — versão leve (2026-05-21) + **promovido a `error`/CI gate** (2026-06-05, commit `39e2a33`): locus do Pentateuco que não resolve reprova o PR e bloqueia o deploy.
+- `check_literal_quote_exists` construído (2026-06-05) — info, fora do CI/hook (triagem dos 128 segue aberta, §12).
+- Workflow `/critica` — crítica doutrinária profunda (2026-05-31); vocabulários canônicos em `data/terminologia.json`.
+- Aliases canônicos para personalidades e obras (2026-05-04) — `convencoes-aliases.md` + `check_canonical_names`.
+- Uniformizar tipos de mundos habitados (2026-05-05) — `convencoes-mundos-habitados.md` + `check_mundos_habitados_naming`.
+- `link_citations.py` não injeta wikilink em heading (2026-05-22).
+- Skill `/ship` (2026-05-04).
+- Hook PostToolUse de lint leve por arquivo (2026-05-04).
+- Hook PostToolUse de mirror `wiki/**` → `/tmp/quartz/content` (2026-05-26).
+- Rule `convencoes-merge.md` (2026-05-04).
+
+**§6 — Busca**
+- qmd como MCP server local (BM25 + vetorial + re-ranking, on-device).
+
+**§7 — Ferramentas**
+- Apresentações Marp — skill `/slides` (padrão socrático Q&A; PPTX+PDF).
+
+**§8 — Governança**
+- Política de citação para nível 3 protegido (2026-04-27) — limites + `check_quote_proportion`.
+- Aviso ao leitor em obras protegidas (2026-04-27) — `inject_copyright.py`.
+- Frontmatter `direitos:` em obras nível 3 (2026-04-27) — `check_direitos_obras`.
+- Status de `raw/` no Quartz (2026-04-27) — excluído do build; `check_raw_excluded`.
+
+**§9 — Eficiência de tokens** (auditoria 2026-05-02)
+- Disciplina nas queries `qmd` (defaults `limit`/`minScore`/`collections`).
+- Granularizar `convencoes-paginas.md` em rules condicionais.
+- Fragmentar Revista Espírita em `raw/` (partição mensal).
+- Haiku para triagem em `/lint` e `/glossario`.
+- Pré-resumo de obras monolíticas (`.index.md` + `.resumo.md`).
+
+**§11 — Crítica profunda**
+- Lote 2026-05-31: 28/28 itens diferidos resolvidos (fechado 2026-06-02, commit `b18c351`) — inclui criação de `wiki/conceitos/principio-inteligente` e reclassificações.
