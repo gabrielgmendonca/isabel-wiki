@@ -13,3 +13,6 @@ jobs:
 
       - name: Lint wiki
         run: python3 .claude/skills/lint/scripts/lint_wiki.py
+
+      - name: Test scripts
+        run: python3 -m unittest discover -s tests -v
