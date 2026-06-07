@@ -78,6 +78,15 @@ def _collect_catalog_targets() -> set[str]:
 # Checks
 # ---------------------------------------------------------------------------
 
+# Corpus de fonte publicado verbatim (Bíblia NT + Pentateuco): o próprio texto é
+# a fonte, sem ## Fontes, sem tags tema/*, fora do catálogo curado, e não auditado
+# por links/órfãos como as páginas curadas. Espelha o tratamento da Bíblia.
+_CORPUS_TIPOS = {
+    "capitulo-biblico", "livro-biblico",
+    "capitulo-pentateuco", "obra-pentateuco",
+}
+
+
 def check_broken_links(pages: list[Path]) -> dict:
     """Check 4 — wikilinks apontando para arquivos inexistentes."""
     items = []
@@ -85,6 +94,12 @@ def check_broken_links(pages: list[Path]) -> dict:
     if INDEX_PATH.exists():
         sources.append(INDEX_PATH)
     for page in sources:
+        fm, _ = parse_frontmatter(page)
+        # Capítulos do Pentateuco são texto verbatim do raw, que traz marcadores
+        # de nota de rodapé `[[1]](#_ftnref1)` — wikilinks aparentes que não são
+        # cross-links curados. Não auditar (alterá-los mexeria no texto do Kardec).
+        if fm.get("tipo") == "capitulo-pentateuco":
+            continue
         text = page.read_text(encoding="utf-8")
         for lineno, target in find_wikilinks(text):
             resolved = resolve_wikilink(target)
@@ -108,7 +123,7 @@ def check_orphan_pages(pages: list[Path]) -> dict:
         fm, _ = parse_frontmatter(p)
         if str(fm.get("index", "")).lower() == "false":
             excluded_keys.add(page_key(p))
-        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+        if fm.get("tipo") in _CORPUS_TIPOS:
             excluded_keys.add(page_key(p))
 
     all_keys = {page_key(p) for p in pages} - excluded_keys
@@ -141,7 +156,7 @@ def check_fontes_section(pages: list[Path]) -> dict:
     items = []
     for page in pages:
         fm, _ = parse_frontmatter(page)
-        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+        if fm.get("tipo") in _CORPUS_TIPOS:
             continue
         text = page.read_text(encoding="utf-8")
         match = re.search(r"^## Fontes\s*$", text, re.MULTILINE)
@@ -179,7 +194,7 @@ def check_catalogo_missing(pages: list[Path]) -> dict:
         fm, _ = parse_frontmatter(p)
         if str(fm.get("index", "")).lower() == "false":
             continue
-        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+        if fm.get("tipo") in _CORPUS_TIPOS:
             continue
         disk_keys.add(page_key(p))
 
@@ -529,6 +544,11 @@ def check_citation_format(pages: list[Path]) -> dict:
     """
     items = []
     for page in pages:
+        fm, _ = parse_frontmatter(page)
+        # Texto verbatim do raw: citações bíblicas inline ("(Gênese, 1:28)") não
+        # são citações Kardec malformadas — são o próprio Kardec citando a Bíblia.
+        if fm.get("tipo") in _CORPUS_TIPOS:
+            continue
         text = strip_inline_code(page.read_text(encoding="utf-8"))
         for i, line in enumerate(text.splitlines(), 1):
             for m in _BOOK_SIGLAS.finditer(line):
@@ -777,7 +797,7 @@ FONTES_TO_OBRA = {
 }
 
 # Tipos de página que NÃO recebem grau/* (obras não têm grau próprio).
-GRAU_EXEMPT_TIPOS = {"obra", "capitulo-biblico", "livro-biblico"}
+GRAU_EXEMPT_TIPOS = {"obra", "capitulo-biblico", "livro-biblico", "capitulo-pentateuco", "obra-pentateuco"}
 
 
 def _is_trilha(page: Path, tags: list[str]) -> bool:
@@ -790,6 +810,10 @@ def check_tag_taxonomy(pages: list[Path]) -> dict:
     items = []
     for page in pages:
         fm, _ = parse_frontmatter(page)
+        # Corpus verbatim (Bíblia/Pentateuco): fontes: [LE] etc. é correto, mas
+        # não recebe tag obra/ (não é página curada) — não cobrar a correspondência.
+        if fm.get("tipo") in _CORPUS_TIPOS:
+            continue
         tags = fm.get("tags", [])
         if isinstance(tags, str):
             tags = [tags]
@@ -876,7 +900,7 @@ def check_tag_coverage(pages: list[Path]) -> dict:
             tags = [tags]
         if _is_trilha(page, tags) or _is_meta_tagged(fm):
             continue
-        if fm.get("tipo") in {"capitulo-biblico", "livro-biblico"}:
+        if fm.get("tipo") in _CORPUS_TIPOS:
             continue
         if not any(t.startswith("tema/") for t in tags):
             items.append({
@@ -937,6 +961,7 @@ def check_status_projeto(pages: list[Path]) -> dict:
     total_paginas = sum(
         1 for p in pages
         if "biblia" not in p.parts
+        and "pentateuco" not in p.parts
         and not (p.name == "index.md" and p.parent == WIKI_DIR)
     )
     text = INDEX_PATH.read_text(encoding="utf-8")
@@ -1437,7 +1462,7 @@ def _strip_fontes_section(body: str) -> str:
 # Páginas de Escritura — os nomes próprios pertencem ao texto sagrado (tradução
 # ACF) e não recebem wikilink inline; cross-references a personalidades se fazem
 # por página dedicada/seção, não no versículo.
-_SCRIPTURE_TIPOS = {"capitulo-biblico", "livro-biblico"}
+_SCRIPTURE_TIPOS = {"capitulo-biblico", "livro-biblico", "capitulo-pentateuco", "obra-pentateuco"}
 
 
 def check_canonical_names(pages: list[Path]) -> dict:
@@ -1569,6 +1594,9 @@ def check_mundos_habitados_naming(pages: list[Path]) -> dict:
         slug = page.stem
         if slug in _MUNDOS_HABITADOS_CANONICAL_SLUGS:
             continue
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") in _CORPUS_TIPOS:
+            continue  # texto verbatim — Kardec usa "mundos ditosos" etc., não normalizar
         text = page.read_text(encoding="utf-8")
         body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
         body = strip_inline_code(body)
@@ -1594,7 +1622,7 @@ def check_mundos_habitados_naming(pages: list[Path]) -> dict:
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
-    valid_tipos = {"conceito", "obra", "personalidade", "questao", "aprofundamento", "sintese", "divergencia", "capitulo-biblico", "livro-biblico"}
+    valid_tipos = {"conceito", "obra", "personalidade", "questao", "aprofundamento", "sintese", "divergencia", "capitulo-biblico", "livro-biblico", "capitulo-pentateuco", "obra-pentateuco"}
     valid_status = {"rascunho", "ativo", "revisar"}
     valid_status_divergencia = {"aberta", "concluída"}
     items = []

@@ -28,6 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MAPPING = ROOT / "data" / "kardec-mapping.json"
 DEFAULT_REVISTA = ROOT / "data" / "revista-espirita-mapping.json"
 DEFAULT_BIBLIA = ROOT / "data" / "biblia-livros.json"
+DEFAULT_PENTATEUCO = ROOT / "data" / "pentateuco-anchors.json"
 DEFAULT_OBRAS = ROOT / "wiki" / "obras"
 
 # ─── safe zones ───────────────────────────────────────────────────────────────
@@ -238,9 +239,54 @@ def kardec_url(mapping: dict, sigla_raw: str, rest: str) -> str | None:
     return None
 
 
-def link_kardec(mapping: dict) -> callable:
+def kardec_internal_path(anchors: dict, sigla_raw: str, rest: str) -> str | None:
+    """Caminho interno (`<obra>/<cap>#<âncora>`) para `(sigla, rest)` quando o
+    locus tem âncora publicada em wiki/pentateuco/ (manifest
+    data/pentateuco-anchors.json). `None` quando não há — o caller cai no link
+    externo (Kardecpedia). Espelha a precedência de `kardec_url`."""
+    sigla = SIGLA_NORM.get(sigla_raw, sigla_raw)
+    book = anchors.get(sigla)
+    if not book:
+        return None
+
+    # Questão (LE) — numeração global.
+    q_m = Q_RE.search(rest)
+    if q_m:
+        p = book.get("questions", {}).get(q_m.group("n"))
+        if p:
+            return p
+
+    # Item: dentro do capítulo (ESE/C&I/Gênese, chave "CAP:n" ou "PARTE:CAP:n")
+    # ou global contínuo (LM, chave flat "n").
+    item_m = ITEM_RE.search(rest)
+    if item_m:
+        items = book.get("items", {})
+        cap_m = CAP_RE.search(rest)
+        if cap_m:
+            cap = cap_m.group("r").upper()
+            part_m = PART_NUM_RE.search(rest)
+            key = f"{part_m.group('n')}:{cap}" if part_m else cap
+            p = items.get(f"{key}:{item_m.group('n')}")
+            if p:
+                return p
+        p = items.get(item_m.group("n"))  # LM contínuo
+        if p:
+            return p
+    return None
+
+
+def link_kardec(mapping: dict, anchors: dict | None = None) -> callable:
+    """Prefere link interno (wikilink p/ wiki/pentateuco/) quando o locus tem
+    âncora publicada; senão, link externo p/ Kardecpedia; senão, deixa intacto."""
+    prefix = (anchors or {}).get("_prefix", "wiki/pentateuco")
+
     def repl(m: re.Match) -> str:
         original = m.group(0)
+        if anchors:
+            ipath = kardec_internal_path(anchors, m.group("sigla"), m.group("rest"))
+            if ipath:
+                label = original.replace("|", r"\|")
+                return f"[[{prefix}/{ipath}|{label}]]"
         url = kardec_url(mapping, m.group("sigla"), m.group("rest"))
         return f"[{original}]({url})" if url else original
     return repl
@@ -294,8 +340,9 @@ def transform(
     obras_index: set[str],
     revista_mapping: dict | None = None,
     biblia_mapping: dict | None = None,
+    pentateuco_anchors: dict | None = None,
 ) -> str:
-    repl_kardec = link_kardec(mapping)
+    repl_kardec = link_kardec(mapping, pentateuco_anchors)
     repl_revista = link_revista(revista_mapping)
     repl_biblia = link_biblia(biblia_mapping)
     repl_compl = link_complementar(obras_index)
@@ -328,10 +375,12 @@ def process_path(
     apply: bool,
     revista_mapping: dict | None = None,
     biblia_mapping: dict | None = None,
+    pentateuco_anchors: dict | None = None,
 ) -> bool:
     """Returns True se houve mudança."""
     original = path.read_text(encoding="utf-8")
-    new = transform(original, mapping, obras_index, revista_mapping, biblia_mapping)
+    new = transform(original, mapping, obras_index, revista_mapping, biblia_mapping,
+                    pentateuco_anchors)
     if new == original:
         return False
     if apply:
@@ -365,6 +414,9 @@ def main(argv=None) -> int:
                     help="mapping da Revista Espírita (json gerado por download_revista_espirita.py)")
     ap.add_argument("--biblia-mapping", type=Path, default=DEFAULT_BIBLIA,
                     help="tabela dos 66 livros bíblicos (NT → link interno wiki/biblia/, AT → URL externa)")
+    ap.add_argument("--pentateuco-anchors", type=Path, default=DEFAULT_PENTATEUCO,
+                    help="manifest de âncoras do Pentateuco (gerado por publish_pentateuco.py); "
+                         "habilita link interno preferencial p/ wiki/pentateuco/")
     ap.add_argument("--obras-dir", type=Path, default=DEFAULT_OBRAS,
                     help="diretório com wiki/obras/*.md para indexar slugs")
     args = ap.parse_args(argv)
@@ -378,6 +430,10 @@ def main(argv=None) -> int:
         build_biblia_mapping(json.loads(args.biblia_mapping.read_text(encoding="utf-8")))
         if args.biblia_mapping.exists() else None
     )
+    pentateuco_anchors = (
+        json.loads(args.pentateuco_anchors.read_text(encoding="utf-8"))
+        if args.pentateuco_anchors.exists() else None
+    )
     # Quando --apply em /tmp/quartz/content, obras está em <content>/wiki/obras
     obras_dir = args.obras_dir
     if not obras_dir.is_dir() and (args.path / "wiki" / "obras").is_dir():
@@ -390,7 +446,8 @@ def main(argv=None) -> int:
         total += 1
         if process_path(p, mapping, obras_index, apply=args.apply,
                         revista_mapping=revista_mapping,
-                        biblia_mapping=biblia_mapping):
+                        biblia_mapping=biblia_mapping,
+                        pentateuco_anchors=pentateuco_anchors):
             changed += 1
 
     verb = "modificados" if args.apply else "com mudanças pendentes"

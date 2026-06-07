@@ -1,0 +1,189 @@
+---
+tipo: capitulo-pentateuco
+obra: O Céu e o Inferno
+sigla: C&I
+parte: 2
+capitulo: III
+fontes: [C&I]
+tags: []
+atualizado_em: 2026-06-05
+status: ativo
+---
+
+# O Céu e o Inferno — 2ª parte — Cap. III — Espíritos em uma condição média
+
+**Joseph Bré**
+Morto em 1840, evocado em Bordeaux em 1862 pela neta.
+O homem honesto segundo Deus ou segundo os homens.
+**1.** Querido avô, quereis dizer-me como estais entre os Espíritos, e dar-me alguns detalhes instrutivos para nosso avanço? – R. Tudo o que quiseres, minha querida filha. Estou expiando minha falta de fé; mas a bondade de Deus é grande: ele leva em conta as circunstâncias. Sofro, não como poderias entender, mas de arrependimento por não ter empregado bem meu tempo na terra.
+**2.** Como não o empregastes bem? Fostes sempre um homem honesto. – R. Sim, do ponto de vista dos homens; mas há um abismo entre o homem honesto perante os homens, e o homem honesto perante Deus. Tu queres instruir-te, querida filha; vou tentar fazer-te sentir a diferença. Entre vós, considera-se como homem honesto aquele que respeita as leis de seu país, respeito elástico para muitos; aquele que se não faz mal ao próximo tomando-lhe ostensivamente seus bens; mas toma frequentemente sem escrúpulo sua honra, sua felicidade, desde que a lei, ou a opinião pública, não possam alcançar o culpado hipócrita. Quando se pôde mandar gravar na sua lápide a série interminável de virtudes que são enaltecidas, acredita-se ter pago sua dívida para com a humanidade. Que engano! Para ser honesto perante Deus não basta não ter infringido as leis dos homens, é preciso antes de tudo não ter transgredido as leis divinas.
+O homem honesto perante Deus é aquele que, cheio de devoção e amor, dedica sua vida ao bem, ao progresso de seus semelhantes; aquele que, animado por um zelo inspirado no objetivo, é ativo na vida: ativo no cumprimento da tarefa material que lhe é imposta, pois deve ensinar a seus irmãos o amor ao trabalho; ativo nas boas obras, pois não deve esquecer que é apenas um servidor ao qual o senhor pedirá um dia contas do uso de seu tempo; ativo no objetivo, pois deve pregar pelo exemplo o amor ao Senhor e ao próximo. O homem honesto perante Deus deve evitar cuidadosamente essas palavras mordazes, veneno escondido sob flores, que destrói as reputações e muitas vezes mata o homem moral ao cobri-lo de ridículo.
+O homem honesto perante Deus deve ter sempre o coração fechado ao menor fermento de orgulho, de inveja, de ambição. Ele deve ser paciente e doce com os que o atacam; deve perdoar do fundo do coração, sem esforço e, sobretudo, sem ostentação, a todo aquele que o ofendeu; deve amar seu criador em todas as suas criaturas; deve, por fim, pôr em prática este resumo tão conciso e tão grande dos deveres do homem: amar a Deus acima de todas as coisas e seu próximo como a si mesmo.
+Eis, minha querida filha, aproximadamente o que deve ser o homem honesto perante Deus. Pois bem! Será que eu fiz tudo isso? Não; faltaram-me muitas dessas condições, confesso-o aqui sem enrubescer; não tive a atividade que o homem deve ter; o esquecimento do Senhor levou-me a outros esquecimentos que, mesmo não sendo passíveis de punição pela lei humana, não deixam de ser prevaricações pela lei de Deus. Sofri bastante por isso quando o senti; eis porque espero hoje, mas com a consoladora esperança na bondade de Deus que vê meu arrependimento. Diz isso, querida filha; repete-o àqueles que têm a consciência pesada: que eles cubram suas faltas à força de boas obras, e a misericórdia divina se deterá na superfície; seus olhos paternos contarão as expiações, e sua mão poderosa apagará as faltas.
+**Sra. Hélène Michel**
+Mulher de vinte e cinco anos, morta subitamente em alguns minutos, em sua casa, sem sofrimentos, e sem causa prévia conhecida. Era rica, um pouco frívola, e, em consequência da leviandade de seu caráter, ocupava-se mais das futilidades da vida do que das coisas sérias; apesar disso, seu coração era bom: ela era doce, benevolente e caridosa.
+Evocada três dias após a morte por pessoas que a tinham conhecido, exprimiu-se assim:
+“Não sei onde estou... que perturbação me rodeia!... Chamastes-me, e acorro... Não compreendo porque não estou em casa... choram minha ausência, e estou aqui, e não consigo fazer-me reconhecer por todos eles... Meu corpo não me pertence mais, e, no entanto, eu o sinto frio e gelado... Quero deixá-lo, e estou presa a ele; a ele volto sempre ...Sou duas pessoas...Oh! quando compreenderei o que me acontece?... É preciso ainda que eu vá lá... meu outro EU, o que ele se tornará, comigo ausente?... Adeus.”
+Observação: O sentimento da dualidade que ainda não está destruído por uma separação completa é aqui evidente. Caráter pouco sério, sua posição de fortuna, permitindo-lhe satisfazer seus caprichos, devia favorecer suas tendências à leviandade. Logo, não é espantoso que seu desprendimento tenha sido pouco rápido, e que, três dias após a morte, ela se sentisse ainda ligada a seu envoltório corporal. Mas, como não havia nela nenhum vício sério, e que o fundo era bom, essa situação não tinha nada de realmente penoso, e não durou por muito tempo. Evocada de novo alguns dias mais tarde, suas ideias já tinham mudado muito. Eis o que disse:
+“Obrigada por terdes orado por mim. Reconheço a bondade de Deus que me poupou os sofrimentos e a apreensão do momento da separação de meu corpo e de meu Espírito. Minha pobre mãe terá muita dificuldade para se resignar; mas será apoiada, e o que, a seus olhos, é uma terrível desgraça, era indispensável, a fim de que as coisas do céu se tornassem para ela o que devem ser: tudo. Estarei perto dela até o fim de sua prova terrestre, e ajudá-la-ei a suportá-la. Não sou infeliz, mas ainda tenho muito o que fazer para avançar rumo à morada bem-aventurada. Pedirei a Deus que me permita voltar a esta terra, pois tenho que reparar o tempo que aí perdi nesta existência. Que a fé vos sustente, meus amigos; tende confiança na eficácia da prece, quando ela parte verdadeiramente do coração. Deus é bom.”
+P. Levastes muito tempo para vos reconhecerdes? – R. Compreendi a morte no mesmo dia em que rezastes por mim.
+P. Esse estado de perturbação era sofrimento? – R. Não, eu não sofria; acreditava sonhar, e aguardava o despertar. Minha vida não foi isenta de dores, mas todo ser encarnado aqui embaixo deve sofrer; eu me resignei à vontade de Deus, e ele o levou em conta. Estou reconhecida a vós pelas preces que me ajudaram a reconhecer-me. Obrigada; voltarei sempre com prazer. Adeus.
+HÉLÈNE.
+**O Marquês de Saint-Paul.**
+Morto em 1860, evocado a pedido de sua irmã, membro da Sociedade de Paris, em 16 de maio de 1861.
+
+## item 1
+
+1. Evocação.
+— Aqui estou.
+
+## item 2
+
+2. — A senhora vossa irmã pediu-nos para vos evocar, embora ela seja médium, mas ainda não está suficientemente formada para estar bem segura de si mesma.
+— Tentarei responder o melhor que puder.
+
+## item 3
+
+3. — Ela deseja saber primeiramente se sois feliz.
+— Sou errante, e este estado transitório nunca traz nem a felicidade, nem o castigo absolutos.
+
+## item 4
+
+4. — Demorastes muito tempo para vos reconhecerdes?
+— Fiquei muito tempo no estado de perturbação, e não saí dele a não ser para bendizer a piedade daqueles que não me esqueciam e oravam por mim.
+— Podeis fazer uma apreciação da duração dessa perturbação?
+— Não.
+
+## item 5
+
+5. — Quais de vossos parentes reconhecestes primeiramente?
+— Reconheci minha mãe e meu pai, que, ambos, me receberam ao despertar; eles me iniciaram à vida nova.
+
+## item 6
+
+6. — Como explicar que no fim de vossa doença parecíeis conversar com aqueles que havíeis amado na terra?
+— Porque tive, antes de morrer, a revelação do mundo que ia habitar. Eu era vidente antes de morrer, e meus olhos se velaram na passagem da separação definitiva do corpo, porque os laços carnais ainda eram muito vigorosos.
+
+## item 7
+
+7. — Como explicar que vossas lembranças de infância pareciam voltar preferencialmente?
+— Porque o começo está mais próximo do objetivo do que o meio da vida.
+— Como o explicais?
+— Quer dizer que os moribundos se lembram e veem, como numa miragem de consolação, os jovens e puros anos.
+Observação: Provavelmente, é por um motivo providencial semelhante que os velhos, à medida que se aproximam do fim da vida, têm às vezes uma lembrança tão precisa dos mínimos detalhes de seus primeiros anos.
+
+## item 8
+
+8. — Por que, ao falar de vosso corpo, faláveis sempre na terceira pessoa?
+— Porque eu era vidente, como vos disse, e sentia nitidamente as diferenças que existem entre o físico e o moral; essas diferenças, ligadas entre si pelo fluido da vida, tornam-se muito nítidas aos olhos dos moribundos clarividentes.
+Observação: Essa foi uma particularidade que a morte desse senhor apresentou. Em seus últimos momentos, dizia sempre: “Ele tem sede, é preciso dar-lhe de beber; ele tem frio, é preciso aquecê-lo; ele sofre em tal lugar, etc.” E quando lhe diziam: “Mas sois vós que tendes sede”, ele respondia: “Não, é ele.” Aqui desenham-se perfeitamente as duas existências; o eu pensante está no Espírito e não no corpo; o Espírito, já desprendido em parte, considerava seu corpo como uma outra individualidade que não era dele propriamente falando; era portanto a seu corpo que era preciso dar de beber e não a ele, Espírito. Este fenômeno se observa também em certos sonâmbulos.
+
+## item 9
+
+9. — O que dissestes de vosso estado errante, e da duração de vossa perturbação, levaria a crer que não sois muito feliz, e, no entanto, vossas qualidades deveriam fazer supor o contrário. Há, aliás, Espíritos errantes que são felizes, como há os infelizes.
+— Estou num estado transitório; as virtudes humanas adquirem aqui seu verdadeiro preço. Sem dúvida, meu estado é mil vezes preferível ao da encarnação terrestre, mas sempre tive em mim as aspirações ao verdadeiro bem e ao verdadeiro belo, e minha alma não ficará saciada a não ser quando voar aos pés do seu Criador.
+**Sr. Cardon.**
+Médico, morto em setembro de 1862.
+(Sociedade de Paris. Médium: Sr. Leymarie.)
+O Sr. Cardon passara uma parte da vida na marinha mercante, na qualidade de médico de baleeiro, e extraíra daí hábitos e ideias um pouco materiais; aposentado no vilarejo de J..., exercia aí a modesta profissão de médico rural. Havia algum tempo, adquirira a certeza de que sofria de uma hipertrofia do coração, e, sabendo que essa doença é incurável, o pensamento da morte mergulhava-o numa sombria melancolia da qual nada o podia distrair. Aproximadamente dois meses antes, predisse seu fim num dia pré-determinado; quando se viu prestes a morrer, reuniu a família à sua volta para lhe dizer um último adeus. Sua mulher, sua mãe, seus três filhos e outros parentes estavam reunidos em volta de sua cama; no momento em que a mulher tentava erguê-lo, ele caiu bruscamente, tornou-se de um azul lívido, os olhos fecharam-se, e foi dado por morto; a mulher colocou-se diante dele para ocultar esse espetáculo aos filhos. Depois de alguns minutos ele reabriu os olhos; seu rosto, por assim dizer iluminado, tomou uma expressão de radiosa beatitude, e ele exclamou: Oh! meus filhos, como é belo! Como é sublime! Oh! a morte! Que ventura! Que doce coisa! Eu estava morto, e senti minha alma se elevar bem alto, bem alto; mas Deus me permitiu voltar para vos dizer: “Não temais a morte, é a libertação...” Se pudesse descrever-vos a magnificência do que vi e as impressões de que me senti penetrado! Mas não poderíeis compreender... Oh! meus filhos, conduzi-vos sempre de maneira a merecer essa inefável felicidade, reservada aos homens de bem; vivei segundo a caridade; se tiverdes algo, dai uma parte àqueles que carecem do necessário... Minha querida mulher, deixo-te numa posição que não é boa; devem-nos dinheiro, mas peço-te, não atormentes aqueles que nos devem; se eles estiverem em dificuldades, aguarda que possam quitar a dívida, e aqueles que não puderem, faz esse sacrifício por eles: Deus te recompensará. Tu, meu filho, trabalha para sustentar a tua mãe; sê sempre honesto e toma cuidado para não fazer nada que possa desonrar a nossa família. Toma esta cruz que era da minha mãe; não a abandones, e que ela te relembre sempre meus últimos conselhos... Meus filhos, ajudai-vos e apoiai-vos mutuamente; que a boa harmonia reine entre vós; não sejais vaidosos, nem orgulhosos; perdoai aos vossos inimigos, se quiserdes que Deus vos perdoe...” Depois, tendo mandado aproximarem-se os filhos, estendeu as mãos para eles, e acrescentou: “Meus filhos, eu vos bendigo.” E seus olhos se fecharam, desta vez para sempre; mas seu semblante conservou uma expressão tão imponente que, até o momento em que foi enterrado, uma multidão considerável veio contemplá-lo com admiração.
+Tendo estes interessantes detalhes nos sido transmitidos por um amigo da família, pensamos que esta evocação podia ser instrutiva para todos, ao mesmo tempo em que seria útil ao Espírito.
+
+## item 1
+
+1. Evocação.
+— Estou perto de vós.
+
+## item 2
+
+2. — Relataram-nos vossos últimos instantes que nos encheram de admiração. Teríeis a bondade de nos descrever, melhor do que fizestes, o que vistes durante o intervalo do que se poderia chamar vossas duas mortes.
+— O que eu vi, poderíeis compreendê-lo? Não sei, pois não poderia encontrar expressões capazes de tornar compreensível o que pude ver durante os poucos instantes em que me foi possível deixar meus restos mortais.
+
+## item 3
+
+3. — Vós vos dais conta de onde estivestes? Foi longe da terra, num outro planeta ou no espaço?
+— O Espírito não conhece o valor das distâncias tais como vós as considerais. Levado por não sei que agente maravilhoso, vi o esplendor de um céu como só nossos sonhos poderiam realizar. Essa corrida através do infinito ocorreu tão rapidamente que não posso precisar os instantes usados pelo meu Espírito.
+
+## item 4
+
+4. Atualmente, gozais da felicidade que entrevistes?
+— Não; gostaria de poder gozá-la, mas Deus não pode me recompensar assim. Revoltei-me demasiadas vezes contra os pensamentos benditos que meu coração ditava, e a morte me parecia uma injustiça. Médico incrédulo, eu extraíra da arte de curar uma aversão contra a segunda natureza que é nosso movimento inteligente, divino; a imortalidade da alma era uma ficção própria para seduzir as naturezas pouco elevadas; no entanto, o vazio me aterrorizava, pois maldisse muitas vezes esse agente misterioso que atinge sempre e sempre. A filosofia me desencaminhara, sem me fazer compreender toda a grandeza do Eterno que sabe repartir a dor e a alegria para o ensinamento da humanidade.
+
+## item 5
+
+5. — Quando de vossa morte verdadeira, reconheceste-vos imediatamente?
+— Não; reconheci-me durante a transição que meu Espírito suportou para percorrer os lugares etéreos; mas após a morte real, não; foram precisos alguns dias para meu despertar.
+Deus me concedera uma graça; vou dizer-vos a razão dela: Minha incredulidade inicial não existia mais; antes de minha morte, eu cria, pois após ter cientificamente sondado a matéria grave que me fazia perecer, eu não encontrara, esgotadas as razões terrestres, senão a razão divina; ela me inspirara, consolara, e minha coragem era mais forte do que a dor. Bendizia o que maldissera; o fim me parecia a libertação. O pensamento de
+Deus é grande como o mundo! Oh! Que supremo consolo na prece que dá enternecimentos inefáveis; ela é o elemento mais seguro de nossa natureza imaterial; por ela compreendi, acreditei firmemente, soberanamente, e é por isso que Deus, escutando minhas ações benditas, teve a bondade de me recompensar antes de acabar minha encarnação.
+
+## item 6
+
+6. Poder-se-ia dizer que na primeira vez estáveis morto?
+— Sim e não; tendo o Espírito deixado o corpo, naturalmente a carne se extinguia; mas ao retomar posse de minha morada terrestre, a vida voltou ao corpo que sofrera uma transição, um adormecimento.
+
+## item 7
+
+7. — Naquele momento sentíeis os laços que vos uniam a vosso corpo?
+— Sem dúvida; o Espírito tem um laço difícil de romper, ele precisa do último estremecimento da carne para voltar à sua vida natural.
+
+## item 8
+
+8. — Como explicar que, por ocasião de vossa morte aparente e durante alguns minutos, vosso Espírito tenha podido desprender-se instantaneamente e sem perturbação, ao passo que a morte real foi seguida por perturbação de vários dias? Parece que, no primeiro caso, subsistindo mais os laços entre a alma e o corpo do que no segundo, o desprendimento devia ser mais lento, e foi o contrário que aconteceu.
+— Vós fizestes com frequência a evocação de um Espírito encarnado, recebestes dele respostas reais; eu estava na posição desses Espíritos. Deus me chamava, e seus servidores me haviam dito: “Vem…”. Obedeci, e agradeço a Deus a graça especial que ele teve a bondade de me conceder; pude ver o infinito de sua grandeza e dar-me conta dela. Obrigado a vós que me permitistes, antes da morte real, ensinar aos meus para que eles sejam boas e justas encarnações.
+
+## item 9
+
+9. — De onde vos vinham as belas e boas palavras que, por ocasião de vossa volta à vida, dirigistes a vossa família?
+— Elas eram o reflexo do que eu vira e ouvira; os bons Espíritos inspiravam minha voz e animavam meu rosto.
+
+## item 10
+
+10. — Que impressão acreditais que vossa revelação tenha tido sobre os assistentes e sobre vossos filhos em particular?
+— Impressionante, profunda; a morte não é mentirosa; os filhos, por mais ingratos que possam ser, se inclinam diante da encarnação que parte. Se se pudesse escrutar o coração dos filhos, perto de um túmulo entreaberto, não se sentiriam bater senão sentimentos verdadeiros, tocados profundamente pela mão secreta dos Espíritos que dizem a todos os pensamentos: Temei se estais na dúvida; a morte é a reparação, a justiça de Deus, e asseguro-vos, apesar dos incrédulos, que meus amigos e minha família acreditarão nas palavras que minha voz pronunciou antes de morrer. Eu era o intérprete de um outro mundo.
+
+## item 11
+
+11. — Dissestes que não gozáveis da felicidade que entrevistes; sois desgraçado?
+— Não, visto que eu cria antes de morrer, e isso em minha alma e consciência. A dor aperta aqui embaixo, mas ela eleva para o futuro espírita. Notai que Deus levou em conta minhas preces e minha crença absoluta nele; estou no caminho da perfeição, e chegarei ao objetivo que ele me permitiu entrever. Orai, meus amigos, por esse mundo invisível que preside aos vossos destinos; essa troca fraterna é caridade; é uma alavanca poderosa que põe em comunhão os Espíritos de todos os mundos.
+
+## item 12
+
+12. — Gostaríeis de dirigir algumas palavras a vossa mulher e a vossos filhos?
+— Peço a todos os meus para crerem em Deus poderoso, justo, imutável; na prece que consola e alivia; na caridade que é o ato mais puro da encarnação humana; que eles se lembrem de que se pode dar pouco: o óbolo do pobre é o mais meritório diante de Deus, que sabe que um pobre dá muito ao dar pouco; é preciso que o rico dê grandemente e muitas vezes para merecer tanto quanto ele.
+O futuro é a caridade, a benevolência em todas as ações; é crer que todos os Espíritos são irmãos, nunca se prevalecendo de todas as pueris vaidades. Família bem-amada, terás rudes provas; mas enfrenta-as corajosamente, pensando que Deus as vê.
+Dizei frequentemente esta prece: Deus de amor e de bondade, que dá tudo e sempre, concede-nos essa força que não recua diante de nenhuma pena; torna-nos bons, doces e caridosos, pequenos pela fortuna, grandes pelo coração. Que nosso Espírito seja espírita na terra para melhor vos compreender e vos amar. Que o vosso nome, ó meu Deus, emblema de liberdade, seja o objetivo consolador de todos os oprimidos, de todos aqueles que precisam amar, perdoar e crer.
+Cardon.
+**Eric Stanislas**
+(Comunicação espontânea; sociedade de Paris; agosto de 1863.)
+Como as emoções sentidas vivamente por corações calorosos nos trazem felicidade! Ó doces pensamentos que vindes abrir uma via de salvação a tudo que vive, a tudo que respira material e espiritualmente, que vosso bálsamo salvador não cessa de espalhar abundantemente sobre vós e sobre nós! Que expressões escolher para traduzir a felicidade que sentem todos os vossos irmãos de além-túmulo na contemplação do puro amor que vos une a todos! Ah! Irmãos, quanto bem por toda a parte, quantos doces sentimentos elevados e simples como vós, como vossa doutrina, sois chamados a semear na longa estrada que ainda tendes de percorrer; mas também quanto tudo isso vos será devolvido antes mesmo do momento em que tiverdes esse direito!
+Assisti a toda esta reunião noturna; escutei, ouvi, compreendi, e vou poder também, por minha vez, cumprir meu dever e instruir a classe dos Espíritos imperfeitos.
+Escutai: eu estava longe de ser feliz; mergulhado na imensidão, no infinito, meus sofrimentos eram tanto mais agudos quanto eu não podia me dar conta exata deles. Deus seja louvado! Ele me permitiu vir a um santuário que os malvados não podem transpor impunemente. Amigos, quão reconhecido vos sou, quanta força absorvi entre vós! Oh! homens de bem, reuni-vos com frequência; instruí, pois não poderíeis imaginar quantos frutos trazem todas as reuniões sérias que fazeis entre vós; os Espíritos que têm ainda muitas coisas que aprender, os que permanecem voluntariamente inativos, preguiçosos e esquecidos de seus deveres podem se encontrar, seja por uma circunstância fortuita, seja de outro modo, entre vós; atingidos por um choque terrível, eles podem, e é o que ocorre muitas vezes, dobrar-se sobre si mesmos, reconhecer-se, entrever o objetivo a alcançar, e fortalecidos pelo exemplo que lhes dais, buscar os meios que podem fazê-los sair do estado penoso em que se encontram. Torno-me com muita alegria o intérprete das almas sofredoras, pois é a homens de coração que me dirijo e sei que não sou repelido.
+Aceitai, portanto, mais uma vez, ó homens generosos, receber a expressão de meu reconhecimento particular e a de todos os nossos amigos a quem fizestes, talvez sem o prever, tanto bem.
+ÉRIC STANISLAS.
+O guia do médium. – Meus filhos, é um Espírito que foi muito infeliz, porque esteve perdido por muito tempo. Agora compreendeu seus erros, arrependeu-se, e enfim voltou seu olhar para Deus que desconhecera; sua posição não é a felicidade, mas ele aspira a ela e não sofre mais. Deus lhe permitiu vir escutar, e depois ir a uma esfera inferior instruir e fazer avançar os Espíritos que, como ele, transgrediram as leis do Eterno; é a reparação que lhe é pedida. Doravante ele conquistará a felicidade, porque tem essa vontade.
+**Sra. Anna Belleville**
+Jovem mulher morta aos trinta e cinco anos, após uma longa e cruel doença. Viva, espirituosa, dotada de rara inteligência, de grande retidão de julgamento e de eminentes qualidades morais, esposa e mãe de família devotada, tinha, além disso, uma força de caráter pouco comum, e um espírito fecundo em recursos que nunca a deixava desprevenida nas circunstâncias mais críticas da vida. Sem rancor por aqueles dos quais mais tinha de queixar-se, estava sempre pronta a fazer-lhes favores. Intimamente ligado a ela há longos anos, pudemos seguir todas as fases de sua existência e todas as peripécias de seu fim. Um acidente trouxe a terrível doença que devia levá-la e que a reteve três anos no leito, vítima dos mais atrozes sofrimentos, que suportou até o último momento com heroica coragem, e durante os quais sua alegria natural não a abandonou. Ela acreditava firmemente na alma e na vida futura, mas preocupava-se muito pouco com isso; todos os seus pensamentos se voltavam para a vida presente à qual se apegava muito, sem, no entanto, ter medo da morte, e sem procurar os gozos materiais, pois sua vida era muito simples, e ela dispensava, sem dificuldade, o que não podia obter; mas apreciava instintivamente o bem e o belo, que sabia mostrar até nas menores coisas.
+Queria viver, menos para ela do que para os filhos, aos quais sentia que era necessária; por isso se agarrava à vida. Conhecia o Espiritismo sem tê-lo estudado a fundo; interessava-se por ele, no entanto ele não conseguiu fixar-lhe as ideias sobre o futuro; era para ela uma ideia verdadeira, mas que não deixava nenhuma impressão profunda no seu espírito. O bem que ela fazia era o resultado de um movimento natural, espontâneo, e não inspirado pelo pensamento de uma recompensa ou das penas futuras. Já há muito tempo seu estado era sem esperanças, e aguardava-se de um momento para o outro vê-la partir; ela mesma não se iludia. Num dia em que seu marido estava ausente, sentiu-se desfalecer, e compreendeu que sua hora chegara; sua vista estava velada, a perturbação a invadia, e sentia todas as angústias da separação. Entretanto, custava-lhe morrer antes da volta do marido. Fazendo sobre si mesma um supremo esforço, disse: “Não, não quero morrer!” Sentiu então a vida renascer nela, e recobrou o pleno uso de suas faculdades. Quando o marido voltou, ela lhe disse: “Eu ia morrer, mas quis esperar que estivesses perto de mim, pois ainda tinha várias recomendações a fazer-te.” A luta entre a vida e a morte prolongou-se assim durante três meses, que não foram senão uma longa e dolorosa agonia.
+Evocação, no dia seguinte à sua morte. – Meus bons amigos, obrigada por vos ocupardes de mim; aliás, fostes para mim como bons pais. Pois bem, regozijai-vos, sou feliz. Tranquilizai meu pobre marido e velai por meus filhos. Fui para junto deles imediatamente.
+P. Parece que a perturbação não foi demorada, visto que nos respondeis com lucidez.
+– R. Meus amigos, sofri tanto, e vós sabeis que sofria com resignação! Pois bem! minha prova terminou. Dizer-vos que estou completamente desprendida, não; mas não sofro mais, e é para mim um alívio tão grande! Desta vez, estou radicalmente curada, asseguro-vos, mas preciso que me ajudeis com o auxílio das preces, para vir em seguida trabalhar convosco.
+P. Qual foi a causa de vossos longos sofrimentos?
+– R. Passado terrível, meu amigo.
+P. Podeis dizer-nos qual foi esse passado?
+– R. Oh! deixai-me um pouco esquecê-lo; paguei-o tão caro!
+Um mês após sua morte.
+P. Agora que deveis estar completamente desprendida e que vos reconheceis melhor, ficaremos felizes de ter convosco uma conversa mais explícita. Poderíeis dizer-nos qual foi a causa de vossa longa agonia? pois ficastes durante três meses entre a vida e a morte.
+– R. Obrigada, meus bons amigos, por vossa lembrança e vossas boas preces! Quão salutares elas são para mim, e quanto contribuíram para meu desprendimento!
+Preciso ser apoiada ainda; continuai a orar por mim. Vós compreendeis a prece. Não são fórmulas banais que dizeis, como tantos outros que não se dão conta do efeito que produz uma boa prece. Sofri muito, mas meus sofrimentos são largamente levados em conta, e é me permitido estar frequentemente junto a meus queridos filhos que eu lamentava tanto deixar! Prolonguei eu mesma meus sofrimentos; meu ardente desejo de viver para meus filhos fazia com que me apegasse de algum modo à matéria, e, ao contrário dos outros, eu me obstinava e não queria abandonar este desgraçado corpo com o qual era preciso romper, e que, no entanto, era para mim o instrumento de tantas torturas. Eis a verdadeira causa de minha longa agonia. Minha doença, os sofrimentos que aguentei: expiação do passado, uma dívida a mais a pagar. Infelizmente, meus bons amigos, se vos tivesse escutado, que imensa mudança na minha vida presente! Que alívio teria sentido em meus últimos instantes, e quão mais fácil teria sido essa separação, se, em vez de contrariá-la, eu me tivesse deixado ir, com confiança na vontade de Deus, na corrente que me arrastava! Mas, em vez de dirigir meus olhares para o futuro que me esperava, eu não via senão o presente que ia deixar!
+Quando eu voltar à terra, serei espírita, asseguro-vos. Que ciência imensa! Assisto às vossas reuniões com frequência e às instruções que vos dão. Se pudesse ter compreendido quando estava na terra, meus sofrimentos teriam sido bem moderados; mas não chegara a hora. Hoje compreendo a bondade de Deus e sua justiça; mas ainda não estou suficientemente avançada para não me ocupar com as coisas da vida; meus filhos, sobretudo, me prendem ainda, não mais para mimá-los, mas para velar por eles e tentar que sigam a estrada que o Espiritismo traça neste momento. Sim, meus bons amigos, ainda tenho graves preocupações; uma sobretudo, pois o futuro de meus filhos depende dela.
+P. Podeis dar-nos algumas explicações sobre o passado que deplorais?
+- R. Sim, meus bons amigos, estou pronta a fazer-vos minha confissão. Eu desconhecera o sofrimento; vira minha mãe sofrer sem sentir compaixão; tratara-a de doente imaginária. Não a vendo nunca acamada, supunha que ela não sofria, e ria de seus sofrimentos. Eis como Deus pune. Seis meses após sua morte.
+P. Agora que decorreu um tempo suficientemente longo desde que deixastes vosso envoltório terrestre, quereis descrever-nos vossa situação e vossas ocupações no mundo dos Espíritos?
+- R. Durante minha vida terrestre, eu era o que se chama, de maneira geral, uma boa pessoa, mas antes de tudo amava meu bem-estar; compassiva por natureza, talvez não tivesse sido capaz de um sacrifício penoso para aliviar um infortúnio. Hoje tudo mudou; sou ainda eu, mas o eu de outrora sofreu modificações. Adquiri; vejo que não há outras posições nem condições senão o mérito pessoal no mundo dos invisíveis, onde um pobre caridoso e bom está acima do rico orgulhoso que o humilhava com sua esmola. Velo especialmente pela classe dos afligidos pelos tormentos de família, a perda de pais ou de fortuna; tenho a missão de consolá-los e encorajá-los, e estou feliz de fazê-lo.
+ANNA.
+Destaca-se uma importante questão dos fatos acima, que é esta: Pode uma pessoa, pelo esforço da sua vontade, retardar o momento da separação da alma e do corpo?
+Resposta do Espírito de São Luís. – Esta questão, resolvida de uma maneira afirmativa e sem restrição, poderia dar lugar a falsas consequências. Certamente um Espírito encarnado pode, em certas condições, prolongar a existência corpórea para terminar instruções indispensáveis ou que ele assim crê; isso pode ser-lhe permitido, como no caso de que se trata aqui, e como se têm vários exemplos. Este prolongamento da vida não poderia, em todos os casos, ser senão de curta duração, pois não pode ser dado ao homem inverter a ordem das leis da natureza, nem provocar uma volta real à vida, quando esta chegou a seu termo; não é senão um adiamento momentâneo. No entanto, da possibilidade do fato, não se deveria concluir que ele possa ser geral, nem crer que dependa de cada um prolongar assim sua existência. Como prova para o Espírito, ou no interesse de uma missão a terminar, os órgãos gastos podem receber um suplemento de fluido vital que lhes permita acrescentar alguns instantes à manifestação material do pensamento; os casos semelhantes são exceções e não a regra. Também não se deve ver nesse fato uma derrogação de Deus à imutabilidade de suas leis, mas uma consequência do livre-arbítrio da alma humana que, no último instante, tem consciência da missão da qual foi encarregada, e gostaria, apesar da morte, de cumprir o que não pôde acabar.
+Pode ser também, às vezes, uma espécie de punição infligida ao Espírito que duvida do futuro, conceder-lhe um prolongamento de vitalidade com o qual ele sofre necessariamente.
+SÃO LUÍS.
+Observação: Talvez também poderia espantar a rapidez do desprendimento deste Espírito considerando seu apego à vida corpórea; mas é preciso considerar que esse apego não tinha nada de sensual nem de material; tinha mesmo seu lado moral, visto que era motivado pelo interesse por seus filhos de tenra idade. Era, além disso, um Espírito avançado em inteligência e em moralidade: um grau a mais, e teria sido dos Espíritos muito felizes. Não havia, portanto, nos laços perispirituais, a tenacidade que resulta da identificação com a matéria; pode-se dizer que a vida, enfraquecida por uma longa doença, estava por alguns fios; eram esses fios que ele queria impedir que se rompessem. Entretanto, ele foi punido por sua resistência, com o prolongamento de seus sofrimentos, devidos à natureza da doença e não à dificuldade do desprendimento; é por isso que, após a libertação, a perturbação foi de curta duração.
+Um fato igualmente importante decorre dessa evocação, assim como da maioria daquelas que são feitas em diversas épocas mais ou menos distanciadas da morte, é a mudança que se realiza gradualmente nas ideias do Espírito, e cujo progresso se pode seguir; neste, ela se traduz, não por melhores sentimentos, mas por uma apreciação mais sã das coisas. O progresso da alma na vida espiritual é, portanto, um fato constatado pela experiência; a vida corporal é a colocação em prática desse progresso; é a prova de suas resoluções, o cadinho em que o Espírito se purifica.
+A partir do instante em que uma alma progride após a morte, seu destino não pode ser irrevogavelmente fixado, pois a fixação definitiva do destino é, como dissemos em outra parte, a negação do progresso. Não podendo as duas coisas existir simultaneamente, resta aquela que tem a sanção dos fatos e da razão.
