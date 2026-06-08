@@ -1619,6 +1619,80 @@ def check_mundos_habitados_naming(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items), "items": items}
 
 
+# ─── check_kardequiano ──────────────────────────────────────────────────────
+# Formas adjetivais proibidas derivadas de "Kardec" (§13 do ROADMAP). Lidas do
+# registro data-driven data/terminologia.json (vocabulário 'derivados-de-kardec'
+# → mapa 'evitar'), não hardcoded: adicionar/remover uma forma é edição de JSON.
+TERMINOLOGIA_PATH = Path(__file__).resolve().parents[4] / "data" / "terminologia.json"
+
+
+def _load_kardequiano_forms() -> dict[str, str]:
+    """{forma_proibida_lower: forma_canônica} do vocabulário 'derivados-de-kardec'.
+
+    Vazio se o arquivo sumir/quebrar — o check então se abstém (count 0).
+    """
+    try:
+        data = json.loads(TERMINOLOGIA_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    vocab = data.get("vocabularios", {}).get("derivados-de-kardec", {})
+    forms: dict[str, str] = {}
+    for termo in vocab.get("termos", []):
+        for bad, good in termo.get("evitar", {}).items():
+            forms[bad.lower()] = good
+    return forms
+
+
+_KARDEQUIANO_FORMS = _load_kardequiano_forms()
+_KARDEQUIANO_RE = (
+    re.compile(
+        r"\b(" + "|".join(re.escape(f) for f in sorted(_KARDEQUIANO_FORMS, key=len, reverse=True)) + r")\b",
+        re.IGNORECASE,
+    )
+    if _KARDEQUIANO_FORMS
+    else None
+)
+
+
+def check_kardequiano(pages: list[Path]) -> dict:
+    """Check — formas adjetivais proibidas derivadas de "Kardec" (§13 do ROADMAP).
+
+    Regra dura do usuário (memória `feedback-kardequiano-vs-de-kardec`): nunca
+    "kardequiano/a" (nem "kardeciano/a"); a forma correta é "de Kardec",
+    reescrita conforme o contexto. "kardecista" é VÁLIDO e reservado ao
+    movimento espírita — não sinalizado. As formas proibidas vêm do registro
+    data-driven `data/terminologia.json` ('derivados-de-kardec').
+
+    Skip: corpus verbatim (Bíblia/Pentateuco), frontmatter, blockquotes (citação
+    literal de fonte secundária — não reescrever aspas), inline code, wikilinks
+    (alias já correto). Severity `info`: mede o progresso da varredura sem travar
+    o CI; a correção é em lote e CONTEXTUAL (não substituição cega). Promover a
+    `warning`/CI gate quando a contagem zerar e a calibração justificar.
+    """
+    if _KARDEQUIANO_RE is None:
+        return {"severity": "info", "count": 0, "items": []}
+    items: list[dict] = []
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        if fm.get("tipo") in _CORPUS_TIPOS:
+            continue
+        text = page.read_text(encoding="utf-8")
+        body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
+        body = strip_inline_code(body)
+        body = _strip_blockquotes(body)
+        body = _strip_wikilinks(body)
+        for i, line in enumerate(body.splitlines(), 1):
+            for m in _KARDEQUIANO_RE.finditer(line):
+                forma = m.group(0)
+                items.append({
+                    "path": str(page),
+                    "line": i,
+                    "forma": forma,
+                    "sugestao": _KARDEQUIANO_FORMS.get(forma.lower(), "de Kardec"),
+                })
+    return {"severity": "info", "count": len(items), "items": items}
+
+
 def check_frontmatter(pages: list[Path]) -> dict:
     """Check extra — frontmatter com campos obrigatórios ausentes."""
     required = {"tipo", "fontes", "tags", "atualizado_em", "status"}
@@ -1678,6 +1752,7 @@ CHECK_REGISTRY = {
     "naming_consistency": check_naming_consistency,
     "canonical_names": check_canonical_names,
     "mundos_habitados_naming": check_mundos_habitados_naming,
+    "kardequiano": check_kardequiano,
     "skills_consistency": check_skills_consistency,
     "raw_excluded": check_raw_excluded,
     "raw_layout": check_raw_layout,
@@ -1706,6 +1781,7 @@ SINGLE_FILE_CHECKS = (
     "direitos_obras",
     "quote_proportion",
     "mundos_habitados_naming",
+    "kardequiano",
 )
 
 

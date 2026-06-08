@@ -303,7 +303,7 @@ O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Conclu�
 
 > Deriva terminológica sistêmica detectada por grep em 2026-06-03: **~654 ocorrências de "kardequiano/a" em ~238 páginas** (de 670 originais; só 3 corrigidas pontualmente pelo `/critica`). Viola a regra do usuário (memória `feedback-kardequiano-vs-de-kardec`): nunca "kardequiano/a"; "kardecista" só para o movimento, não para Kardec. Dívida acumulada em toda a wiki (índices bíblicos, obras, personalidades, conceitos, divergências). **0 progresso de fundo.**
 
-- [ ] **Detecção (determinística, grátis):** `grep -rln 'kardequian' wiki/`. Candidato a check do `lint_wiki.py` (data-driven, alinhado a `feedback-checks-data-driven`). **Fazer primeiro** — é pré-requisito da correção em lote e mede o progresso.
+- [x] **Detecção (determinística, grátis)** (2026-06-07) — `check_kardequiano` no `lint_wiki.py` (severity `info`, fora do CI gate; mede progresso). **Data-driven** (alinhado a `feedback-checks-data-driven`): as formas proibidas vêm de `data/terminologia.json` → vocabulário `derivados-de-kardec` (mapa `evitar`), não hardcoded — adicionar/remover forma é edição de JSON. Pula corpus verbatim (Bíblia/Pentateuco), frontmatter, blockquotes (citação literal de fonte), inline code e wikilinks; `kardecista` (movimento) **não** é sinalizado. Também em `SINGLE_FILE_CHECKS` → o hook PostToolUse flagga na edição. Testes: `tests/test_lint_kardequiano.py` (14). **Baseline: 628 ocorrências em 214 páginas** (grep bruto dava 687; a diferença são blockquotes/wikilinks/corpus corretamente ignorados). Promover a `warning`/CI gate quando a contagem zerar.
 - [ ] **Correção (cuidadosa, não substituição cega):** a forma muda conforme o contexto — "leitura kardequiana" → "leitura de Kardec"; "Pentateuco kardequiano" → "Pentateuco de Kardec"; "em chave kardequiana" → "na chave de Kardec" / "à luz de Kardec"; "divisa/critério/eixo kardequiano" → reescrever. Fazer em lote por padrão sintático, revisando os casos que não encaixam no molde "de Kardec".
 - [ ] **Escopo:** ~238 páginas é grande demais para passe manual — avaliar script de substituição assistida (mapa de padrões) + revisão dos resíduos, ou lote incremental por diretório (`biblia/`, `obras/`, `conceitos/`, `personalidades/`).
 
@@ -315,7 +315,7 @@ O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Conclu�
 
 - **Triagem do §11** — 66 itens diferidos do `/critica` de 2026-06-03 (já descontados os falso-positivos q. 1009/1015–1019). Cruza com o débito de rascunhos rebaixados (§10.3).
 - **Triagem dos 128 candidatos do §12** — aspas literais fabricadas em `wiki/**`.
-- **§13 sweep "kardequiano/a" → "de Kardec"** — ~654 ocorrências; viola regra dura do usuário. Começar pela **detecção determinística** (check de lint) antes da correção em lote.
+- **§13 sweep "kardequiano/a" → "de Kardec"** — detecção determinística **entregue** (`check_kardequiano`, 2026-06-07); baseline **628 ocorrências em 214 páginas**. Resta a **correção em lote, contextual** (não substituição cega) — viola regra dura do usuário.
 - **§12 Fases 1–2** — promover a verificação de aspas a gate + prevenção (`insert-quote`) fecha a torneira da fabricação na origem.
 
 ### Aberto, impacto alto — conteúdo / leitor

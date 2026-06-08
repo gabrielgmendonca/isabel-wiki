@@ -91,6 +91,17 @@
         {"canonical": "bem-aventurados os misericordiosos", "variantes_ok": [], "descricao": "Mt 5:7 — reciprocidade da misericórdia."}
       ],
       "nota_verificacao": "Preferir o fraseado da tradução usada na ESE (Guillon Ribeiro/FEB). Conferir o texto literal via cite.py ESE 'cap. V' e a página bíblica wiki/biblia/mateus/5. Não inventar 'bem-aventurança' fora das oito canônicas."
+    },
+    "derivados-de-kardec": {
+      "titulo": "Adjetivos derivados de 'Kardec' — forma proibida",
+      "fonte": "Regra editorial do usuário (memória feedback-kardequiano-vs-de-kardec); ROADMAP §13",
+      "rule": "CLAUDE.md (idioma e terminologia)",
+      "auto_fix": false,
+      "aplica_quando": "qualquer página — drift terminológico sistêmico em prosa (índices bíblicos, obras, conceitos, personalidades, divergências).",
+      "termos": [
+        {"canonical": "de Kardec", "variantes_ok": ["kardecista (somente para o movimento espírita, nunca para Kardec ou sua obra)"], "evitar": {"kardequiano": "de Kardec", "kardequiana": "de Kardec", "kardequianos": "de Kardec", "kardequianas": "de Kardec", "kardeciano": "de Kardec", "kardeciana": "de Kardec", "kardecianos": "de Kardec", "kardecianas": "de Kardec"}}
+      ],
+      "nota_verificacao": "Detecção determinística (formas fixas), mas correção CONTEXTUAL — por isso auto_fix=false. A forma canônica varia conforme o sintagma: 'leitura kardequiana' → 'leitura de Kardec'; 'em chave kardequiana' → 'na chave de Kardec' / 'à luz de Kardec'; 'Pentateuco kardequiano' → 'Pentateuco de Kardec'; 'critério/eixo kardequiano' → reescrever. NUNCA substituição cega de 'kardequiano' por 'de Kardec'. 'kardecista' é VÁLIDO e reservado ao movimento espírita — não sinalizar. Check determinístico: check_kardequiano no lint_wiki.py (data-driven: as formas proibidas vêm deste mapa 'evitar')."
     }
   }
 }
