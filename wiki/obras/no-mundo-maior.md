@@ -202,7 +202,7 @@ Personalidades históricas citadas: Ivan Pavlov (reflexos condicionados, caps. 8
 
 **Nenhuma identificada.** As elaborações originais — casa mental tripartite, reflexos condicionados aplicados ao perispírito, doutrina da loucura como suicídio dissimulado, tipologia sexual freudo-adlero-jungiana — são desdobramentos coerentes com:
 
-- **LE q. 459–471** (obsessão, subjugação, fascinação) — caso Antídio e o quadro de perseguição em Marcelo aplicam a doutrina kardequiana da subjugação fluídica.
+- **LE q. 459–471** (obsessão, subjugação, fascinação) — caso Antídio e o quadro de perseguição em Marcelo aplicam a doutrina de Kardec da subjugação fluídica.
 - **LE q. 200–201** (sexo como atributo da forma, não do Espírito) — base direta da tipologia "ativo/passivo" da preleção sobre sexo (cap. 11).
 - **LE q. 943–957** (suicídio) — a alienação mental como "suicídio habilmente dissimulado" (cap. 16) aplica a doutrina espírita do suicídio inconsciente, já presente em [[wiki/obras/nosso-lar]].
 - **ESE cap. V** (sofrimentos voluntários e impostos) — quadro narrativo de Pedro e Camilo (cap. 5).

@@ -170,7 +170,7 @@ Personalidades com página na wiki:
 - [[wiki/personalidades/pedro-richard]] — espírito cooperador da FEB (caps. 18 e 33)
 - [[wiki/personalidades/judas-iscariotes]] — entrevistado no cap. 5
 - [[wiki/personalidades/maria-lacerda-de-moura]] — destinatária da carta no cap. 19
-- [[wiki/personalidades/camille-flammarion]] — citado no cap. 16 (no cortejo de Richet) e no cap. 21 (linhagem pós-kardequiana)
+- [[wiki/personalidades/camille-flammarion]] — citado no cap. 16 (no cortejo de Richet) e no cap. 21 (linhagem pós-Kardec)
 - [[wiki/personalidades/leon-denis]] — citado no cap. 16 (no cortejo de Richet) e no cap. 21
 
 Personalidades históricas mencionadas (sem página na wiki):

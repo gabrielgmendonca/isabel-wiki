@@ -89,7 +89,7 @@ A wiki já sublinha em [[wiki/obras/parabola-do-semeador-eelde-carlos-mendonca|o
 
 ### Os treze princípios — manual de método apostólico
 
-A síntese tirada de *Boa Nova* converte o relato narrativo em **norma operacional** para trabalhadores do bem em qualquer época. Os princípios desenham um perfil específico: alguém que recusa facilidade e discussão estéril, age com simplicidade, respeita a recusa do interlocutor, confia em Deus e não teme a morte do corpo. O ponto 7 — não insistir quando a pregação é rejeitada — é particularmente espírita: ecoa a leitura kardequiana da liberdade alheia (LE q. 825-872), recusando proselitismo.
+A síntese tirada de *Boa Nova* converte o relato narrativo em **norma operacional** para trabalhadores do bem em qualquer época. Os princípios desenham um perfil específico: alguém que recusa facilidade e discussão estéril, age com simplicidade, respeita a recusa do interlocutor, confia em Deus e não teme a morte do corpo. O ponto 7 — não insistir quando a pregação é rejeitada — é particularmente espírita: ecoa a leitura de Kardec da liberdade alheia (LE q. 825-872), recusando proselitismo.
 
 ## Conceitos tratados
 

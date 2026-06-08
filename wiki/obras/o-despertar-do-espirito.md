@@ -29,15 +29,15 @@ status: ativo
 
 A obra diagnostica o descompasso entre o ***homo tecnologicus*** (envolto em globalização, mídia, automação) e o **ser espiritual** que habita o corpo. Para Joanna, os "milênios de cultura e de civilização que lhes alargaram os horizontes do entendimento não lhes solucionaram os grandes desafios da emoção" — e a psicologia espírita é convocada como "ponte entre os notáveis contributos dos estudos ancestrais dos eminentes psicólogos" e o reencarnacionismo, iluminando "os desvãos e os abismos do inconsciente individual e coletivo".
 
-O ponto de ancoragem kardequiano está na introdução, em formulação que merece citação literal: *"Uma visão porém, mais adequada para a sua análise, é a que decorre do ser tridimensional — Energia pensante, psicossoma e soma, ou mais legitimamente Espírito, perispírito e matéria, conforme estabeleceu o insigne Allan Kardec — porquanto transitam de um para outro campo vibratório de estrutura diferenciada as construções mentais, verbais e as ações."*
+O ponto de ancoragem de Kardec está na introdução, em formulação que merece citação literal: *"Uma visão porém, mais adequada para a sua análise, é a que decorre do ser tridimensional — Energia pensante, psicossoma e soma, ou mais legitimamente Espírito, perispírito e matéria, conforme estabeleceu o insigne Allan Kardec — porquanto transitam de um para outro campo vibratório de estrutura diferenciada as construções mentais, verbais e as ações."*
 
-A ferramenta operacional do volume é a **psicossíntese** de Roberto Assagioli — a integração entre o "eu pessoal" (centro da consciência, equivalente ao ego) e o "*Eu superior*" (Self, Espírito, Superconsciente). Joanna articula essa polaridade com a tripartição kardequiana e, em registro espírita explícito, complementa o quadro com o capítulo sobre **animismo e obsessão** que a psicologia acadêmica não alcança.
+A ferramenta operacional do volume é a **psicossíntese** de Roberto Assagioli — a integração entre o "eu pessoal" (centro da consciência, equivalente ao ego) e o "*Eu superior*" (Self, Espírito, Superconsciente). Joanna articula essa polaridade com a tripartição de Kardec e, em registro espírita explícito, complementa o quadro com o capítulo sobre **animismo e obsessão** que a psicologia acadêmica não alcança.
 
 ## Estrutura por capítulo
 
 ### Prefácio — *O Despertar do Espírito*
 
-Diagnóstico do *homo tecnologicus*: globalização, INTERNET, "robotização", "desumanização dos sentimentos". Crítica à "fé religiosa que oferece cerimônias complexas de cunho meramente social, objetivando a promoção do ego em detrimento do *Eu* profundo". Apresentação da **psicologia espírita** como ponte entre Quarta Força e tripartição kardequiana.
+Diagnóstico do *homo tecnologicus*: globalização, INTERNET, "robotização", "desumanização dos sentimentos". Crítica à "fé religiosa que oferece cerimônias complexas de cunho meramente social, objetivando a promoção do ego em detrimento do *Eu* profundo". Apresentação da **psicologia espírita** como ponte entre Quarta Força e tripartição de Kardec.
 
 ### 1 — A Busca
 
@@ -47,7 +47,7 @@ Diagnóstico do *homo tecnologicus*: globalização, INTERNET, "robotização", 
 
 *Subpersonalidades (O problema dos eus) · Necessidade da culpa · Encontro com a verdade.* Núcleo conceitual do livro. As **subpersonalidades** (Pierre Janet em *La Bicêtre* / Charcot, William James, Assagioli) são lidas em duas chaves complementares: (a) fragmentações egóicas (ressentimento, ciúme, inveja, ódio); (b) ocorrências obsessivas — "personalidades espirituais, que transitam no mundo fora da matéria, interferem no comportamento humano, submetendo, não poucas vezes, o *eu individual* a transtornos de natureza obsessiva, não detectados pela Psicologia acadêmica convencional". Joanna remete o leitor a *[[wiki/obras/amor-imbativel-amor|Amor, Imbatível Amor]]*, cap. "Vitória do amor (Amor-perdão)", em nota da própria autora espiritual.
 
-A distinção operacional **culpa terapêutica × culpa punitiva** estrutura o cap.: a culpa lúcida é "elemento positivo", "uma plena conscientização de conduta, com vistas à vigilância emocional e racional para os futuros cometimentos"; a culpa enfermiça "se mascara e adormece no inconsciente profundo" e produz "algoz interior". Joanna substitui o vocabulário de **pecado** pelo de **responsabilidade** — em consonância com a tradição kardequiana — e operacionaliza o **autoperdão** como "racionalização do ato" que "abre campo para o entendimento do fato menos feliz, sem punição, nem justificação doentia".
+A distinção operacional **culpa terapêutica × culpa punitiva** estrutura o cap.: a culpa lúcida é "elemento positivo", "uma plena conscientização de conduta, com vistas à vigilância emocional e racional para os futuros cometimentos"; a culpa enfermiça "se mascara e adormece no inconsciente profundo" e produz "algoz interior". Joanna substitui o vocabulário de **pecado** pelo de **responsabilidade** — em consonância com a tradição de Kardec — e operacionaliza o **autoperdão** como "racionalização do ato" que "abre campo para o entendimento do fato menos feliz, sem punição, nem justificação doentia".
 
 Encerra com Jesus como "Psicoterapeuta Incomum": *"Busca a verdade e a verdade te libertará"* (Jo 8:32, citação atribuída).
 
@@ -88,7 +88,7 @@ A obra encerra com a parábola hindu do **pote rachado** que, ao perder água pe
 ## Aportes específicos frente à série
 
 1. **Subpersonalidades em chave dupla** — fragmentação egóica + interferência obsessiva. *[[wiki/obras/amor-imbativel-amor|Amor, Imbatível Amor]]* já havia introduzido o vocabulário "subpersonalidades × superpersonalidades" (cap. 61, com Assagioli + Robin Kasarjian); aqui a leitura espírita é mais explícita ao integrar o **animismo** da Psicologia Espírita.
-2. **Distinção operacional culpa terapêutica × culpa punitiva** — sistematização inédita na série. Joanna substitui o eixo "pecado/perdão" pelo eixo "responsabilidade/autoperdão/reabilitação", em movimento alinhado com o tratamento kardequiano de [[wiki/conceitos/dores-da-alma]] e [[wiki/aprofundamentos/expiacao-e-arrependimento]].
+2. **Distinção operacional culpa terapêutica × culpa punitiva** — sistematização inédita na série. Joanna substitui o eixo "pecado/perdão" pelo eixo "responsabilidade/autoperdão/reabilitação", em movimento alinhado com o tratamento de Kardec de [[wiki/conceitos/dores-da-alma]] e [[wiki/aprofundamentos/expiacao-e-arrependimento]].
 3. **Disciplina da vontade como tríade** desejo + persistência + objetivo — formulação distinta da tríade **paciência, perseverança, autoconfiança** apresentada em *[[wiki/obras/vida-desafios-e-solucoes|Vida: Desafios e Soluções]]* (cap. 8). Os dois quadros são complementares, não substitutos.
 4. **Sublimação sexual em diálogo crítico com Reich/Lowen** — reconhece a contribuição da bioenergética sem aderir ao vitalismo libidinal, em registro mais polêmico do que o de *[[wiki/aprofundamentos/sexualidade-em-andre-luiz]]*.
 5. **Diagnóstico de problemas contemporâneos como sintoma do *homo tecnologicus*** — capítulo 3 catalogado em três flagelos (violência urbana, alcoolismo/toxicomania, sexolatria) lidos como manifestações de **vazio existencial**, não como patologias isoladas. O quadro converge com a tese central de *[[wiki/obras/o-ser-consciente]]* (Quarta Força como redescoberta científica) mas leva-a ao diagnóstico social.
@@ -123,7 +123,7 @@ A obra encerra com a parábola hindu do **pote rachado** que, ao perder água pe
 
 ## Divergências
 
-Nenhuma divergência estrutural com Kardec identificada. O vocabulário de psicologia (Self, individuação, "carma" em sentido implícito) opera como ferramenta integrada à tripartição kardequiana, em linha com o tratamento já aprovado em [[wiki/obras/o-ser-consciente]] e [[wiki/obras/autodescobrimento]]. O mito de Adão e Eva é tratado como **arquétipo/figura mitológica** — alinhado com a leitura kardequiana de C&I e Gênese (não-literal). A culpa do "pecado original" é apresentada criticamente, como "herança atávica" superável pelo conceito de responsabilidade.
+Nenhuma divergência estrutural com Kardec identificada. O vocabulário de psicologia (Self, individuação, "carma" em sentido implícito) opera como ferramenta integrada à tripartição de Kardec, em linha com o tratamento já aprovado em [[wiki/obras/o-ser-consciente]] e [[wiki/obras/autodescobrimento]]. O mito de Adão e Eva é tratado como **arquétipo/figura mitológica** — alinhado com a leitura de Kardec de C&I e Gênese (não-literal). A culpa do "pecado original" é apresentada criticamente, como "herança atávica" superável pelo conceito de responsabilidade.
 
 ## Fontes
 

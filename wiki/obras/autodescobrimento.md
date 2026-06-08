@@ -108,7 +108,7 @@ A *infância psicológica* é o sintoma central do adulto não amadurecido emoci
 
 A **conquista do Si** culmina na interrogação de Kardec aos mensageiros nobres (LE), respondida com a fórmula "Espírito bem-aventurado; puro Espírito". Joanna recorre ao Mahabharata (pândavas vs. kauravas) como alegoria do "campo de batalha da consciência: as virtudes (poucas) e os vícios (muitos), em sucessivas pelejas até o momento da vitória dos primeiros".
 
-A **libertação pessoal** é articulada via os **três olhos de São Boaventura** (Doutor Seráfico): da carne (mundo material), da razão (lógica filosófica), da contemplação (mundo oculto, intuição). Joanna acopla a tríade ao tripé kardequiano: "a carne entra em contato com o mundo físico, o perispírito registra o mundo mental, extrassensorial, e o Espírito sintoniza e se alimenta com a estrutura da realidade causal". Encerra: "Nasce então, nesse momento, o homem pleno, que ruma para o Infinito, *imagem e semelhança de Deus*."
+A **libertação pessoal** é articulada via os **três olhos de São Boaventura** (Doutor Seráfico): da carne (mundo material), da razão (lógica filosófica), da contemplação (mundo oculto, intuição). Joanna acopla a tríade ao tripé de Kardec: "a carne entra em contato com o mundo físico, o perispírito registra o mundo mental, extrassensorial, e o Espírito sintoniza e se alimenta com a estrutura da realidade causal". Encerra: "Nasce então, nesse momento, o homem pleno, que ruma para o Infinito, *imagem e semelhança de Deus*."
 
 ## Temas centrais
 

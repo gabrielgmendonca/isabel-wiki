@@ -111,7 +111,7 @@ Texto-matriz que entra **integralmente** no cap. I de [[wiki/obras/genese|Gênes
 
 O tratado mais técnico do volume (10 seções romanas) é texto-matriz do **cap. XIV de Gênese** ("Os fluidos"). É o **estudo cosmológico fundacional** que estabelece a base material da metafísica espírita.
 
-**I.** Propósito: organizar em corpo metódico o material disperso. Princípio kardequiano: *"Os Espíritos não nos vêm trazer esta ciência, como nenhuma outra, já pronta. Eles nos põem no caminho, fornecem-nos os materiais e a nós cabe estudá-los"*.
+**I.** Propósito: organizar em corpo metódico o material disperso. Princípio de Kardec: *"Os Espíritos não nos vêm trazer esta ciência, como nenhuma outra, já pronta. Eles nos põem no caminho, fornecem-nos os materiais e a nós cabe estudá-los"*.
 
 **II.** Unidade da matéria. A química mostra que todos os corpos da Natureza são compostos de elementos simples combinados em diferentes proporções. Apenas o homem reconstitui o mineral; a vida é prerrogativa de Deus.
 
@@ -161,7 +161,7 @@ Os dois artigos extensos sobre [[wiki/personalidades/maome|Maomé]] (RE ago/1866
 
 **Citação extensa do *Alcorão* (tradução de Savary).** Kardec cita 30+ versículos selecionados que mostram a profundidade da piedade muçulmana, máximas de caridade (*"Não façais violência aos homens por causa de sua fé"*; *"Os Cristãos serão julgados segundo o Evangelho"*) e a equivalência providencial com a tradição hebraico-cristã (*"Não duvides de encontrar no céu o guia dos israelitas"*).
 
-Marco histórico do volume: a hierarquia kardequiana de autoridade pode acomodar o Islamismo como **derivação cristã legítima**, sem comprometer o primado do Pentateuco.
+Marco histórico do volume: a hierarquia de Kardec de autoridade pode acomodar o Islamismo como **derivação cristã legítima**, sem comprometer o primado do Pentateuco.
 
 ### 6. ⭐⭐ Frente anti-dissidente — duas seitas refutadas em três artigos
 
@@ -324,7 +324,7 @@ No 9º ano social, a SPEE consolida a forma fixada em 1862:
 - **Recusa do projeto "Espiritismo independente"** (RE abr/1866): defesa da posição metodológica sem hierarquia oficial.
 - **Tratamento espírita do Islamismo** (RE ago + nov/1866): Maomé é reconhecido como **profeta autêntico** mas com **erros pessoais** (poligamia). Não é divergência doutrinária; é leitura espírita ampliada da hierarquia da revelação progressiva.
 - **Caso Thomas Martin** (RE dez/1866): Kardec recusa as hipóteses oficiais de loucura/alucinação (já descartadas pelo próprio Dr. Pinel) e de efeitos ópticos. É metodologia clínica espírita, não divergência.
-- **Recusa explícita da divisa "Fora do Espiritismo não há salvação"** em favor de **"Fora da caridade não há salvação"** (RE abr/1866 + out/1866): princípio de tolerância universal, característica fundacional do Espiritismo cristão kardequiano.
+- **Recusa explícita da divisa "Fora do Espiritismo não há salvação"** em favor de **"Fora da caridade não há salvação"** (RE abr/1866 + out/1866): princípio de tolerância universal, característica fundacional do Espiritismo cristão de Kardec.
 
 ## Fontes
 

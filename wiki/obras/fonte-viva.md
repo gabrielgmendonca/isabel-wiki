@@ -24,7 +24,7 @@ status: ativo
 
 ## Estrutura
 
-**180 capítulos curtos** (1–3 parágrafos cada) no padrão Pentateuco kardequiano de epígrafe + comentário: cada capítulo abre com versículo evangélico ou apostólico e desdobra meditação aplicada ao discípulo. O título evoca **Jo 4.14** (*"a água que eu te der será nele uma fonte de água viva, que salte para a vida eterna"*) e **Jo 7.38** (*"rios de água viva correrão do seu interior"*) — a fonte que Cristo abre no íntimo do aprendiz como princípio de renovação contínua.
+**180 capítulos curtos** (1–3 parágrafos cada) no padrão Pentateuco de Kardec de epígrafe + comentário: cada capítulo abre com versículo evangélico ou apostólico e desdobra meditação aplicada ao discípulo. O título evoca **Jo 4.14** (*"a água que eu te der será nele uma fonte de água viva, que salte para a vida eterna"*) e **Jo 7.38** (*"rios de água viva correrão do seu interior"*) — a fonte que Cristo abre no íntimo do aprendiz como princípio de renovação contínua.
 
 É a **quarta e última de quatro coletâneas evangélicas** psicografadas por Chico nos moldes de comentário ao Evangelho:
 
@@ -80,7 +80,7 @@ Caps. 42 *Por um pouco* (Hb 11.25 sobre Moisés) e 10 *Certamente* (Ap 22.20) co
 
 > "'Por um pouco', o administrador dirige os interesses do povo. 'Por um pouco', o servidor obedece na subalternidade. (…) Tudo favorece ou aflige a criatura terrestre, simplesmente por um pouco de tempo. Muita gente, contudo, vale-se dessa pequenina fração de horas para complicar-se por muitos anos." (cap. 42)
 
-A encarnação é "pequenina fração de horas" diante da eternidade do Espírito — leitura plenamente compatível com a doutrina kardequiana da reencarnação como ciclo de provas curtas (LE q. 166-222). O contraponto pastoral é o cap. 10: *"vale-te do tempo e não te faças tardio na preparação."*
+A encarnação é "pequenina fração de horas" diante da eternidade do Espírito — leitura plenamente compatível com a doutrina de Kardec da reencarnação como ciclo de provas curtas (LE q. 166-222). O contraponto pastoral é o cap. 10: *"vale-te do tempo e não te faças tardio na preparação."*
 
 ### 5. Tipologia do "morto vivo"
 
@@ -90,7 +90,7 @@ Caps. 51 *Sepulcros abertos*, 101 *A cortina do "eu"* (Fp 2.21) e 143 *Acorda e 
 
 > "A antiga lenda de Narciso permanece viva, em nossos mínimos gestos, em maior ou menor porção. Em tudo e em toda parte, apaixonamo-nos pela nossa própria imagem." (cap. 101)
 
-A leitura desloca o "morto" da categoria física para a categoria moral — o egoísmo é forma de morte espiritual em vida —, em paralelo com o tratamento de [[wiki/conceitos/homem-velho-homem-novo]] e com a recusa kardequiana do egoísmo como "praga da humanidade" ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XI]]).
+A leitura desloca o "morto" da categoria física para a categoria moral — o egoísmo é forma de morte espiritual em vida —, em paralelo com o tratamento de [[wiki/conceitos/homem-velho-homem-novo]] e com a recusa de Kardec do egoísmo como "praga da humanidade" ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XI]]).
 
 ### 6. Vigilância + oração
 
@@ -98,7 +98,7 @@ Caps. 110 *Vigiemos e oremos* (Mt 26.41), 149 *No culto à prece* (At 4.31), 150
 
 > "As mais terríveis tentações decorrem do fundo sombrio de nossa individualidade, assim como o lodo mais intenso, capaz de tisnar o lago, procede do seu próprio seio. (…) Não te proponhas, desse modo, atravessar o mundo, sem tentações. Elas nascem contigo, assomam de ti mesmo e alimentam-se de ti, quando não as combates." (cap. 110)
 
-Cap. 150 acrescenta a tese cosmológica de que **toda necessidade vital é forma de oração**: *"se o desejo do homem bom é uma prece, o propósito do homem mau ou desequilibrado é também uma rogativa"* — articulando-se com [[wiki/conceitos/prece]] e com o tratamento kardequiano da prece como força que *"chama a si os bons Espíritos"* ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XXVII]]).
+Cap. 150 acrescenta a tese cosmológica de que **toda necessidade vital é forma de oração**: *"se o desejo do homem bom é uma prece, o propósito do homem mau ou desequilibrado é também uma rogativa"* — articulando-se com [[wiki/conceitos/prece]] e com o tratamento de Kardec da prece como força que *"chama a si os bons Espíritos"* ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XXVII]]).
 
 ### 7. Crítica ao messianismo político — culto ao Pai como herdeiro
 
@@ -106,7 +106,7 @@ Cap. 148 *O herdeiro do Pai* (Hb 1.2) é o capítulo mais explicitamente crític
 
 > "Não convém concentrar em organizações mutáveis do Plano carnal todas as nossas esperanças e aspirações. (…) A política do pretérito deu lugar à política das lutas modernas. (…) Os homens de hoje, por mais veneráveis, são herdeiros dos homens de ontem, empenhados na luta gigantesca pela redenção de si mesmos. Poderão prometer maravilhosos reinados de abastança e paz, liberdade e harmonia, entretanto, não fugirão ao serviço de corrigenda dos erros que herdaram (…). Não existem, pois, razões que justifiquem os tormentos dos aprendizes do Cristo, angustiados pelas inquietudes políticas da hora que passa." (cap. 148)
 
-Plenamente alinhado a [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XII]] (*"Amai os vossos inimigos"*) e à recusa kardequiana do messianismo político e do sacerdócio profissional ([[wiki/obras/o-que-e-o-espiritismo]]). Mensagem dirigida ao discípulo que se deixa absorver pela paixão partidária — leitura que conserva atualidade para o cristão contemporâneo.
+Plenamente alinhado a [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XII]] (*"Amai os vossos inimigos"*) e à recusa de Kardec do messianismo político e do sacerdócio profissional ([[wiki/obras/o-que-e-o-espiritismo]]). Mensagem dirigida ao discípulo que se deixa absorver pela paixão partidária — leitura que conserva atualidade para o cristão contemporâneo.
 
 ### 8. Encerramento natalino — Lc 2.14
 
@@ -123,7 +123,7 @@ Além dos oito eixos acima, a obra trabalha de modo recorrente:
 - **Caridade discreta vs. caridade exibida** — caps. 9 *Estejamos contentes* (1 Tm 6.8), 11 *Glorifiquemos* (Fp 4.20), 178 *Reverência e piedade* (Hb 12.28): *"reverência para com o Senhor e piedade para com o próximo"*. *"A caridade não depende da bolsa. É fonte nascida no coração."*
 - **Galeria das conversões evangélicas** — cap. 109 *A exemplo do Cristo* (Jo 2.25): Zaqueu (sovinice → benemerência), Madalena (mal → amor puro), Nicodemos (vaidade intelectual → grandeza), Pedro (fraqueza → fortaleza), Tomé (dúvida sem desamparo), Judas (sombra com afeição preservada). Mapeamento pastoral do método de Jesus de não condenar pela inferioridade.
 - **Aprendiz ausente do dever** — cap. 100 *Ausentes* (Jo 20.24): Tomé como tipo do aluno matriculado sem assiduidade. *"Quem desejar a bênção divina, trabalhe pela merecer."*
-- **União fraternal sem imposição** — cap. 49 *União fraternal* (Ef 4.3): *"Une-te aos outros, sem exigir que os outros se unam a ti. (…) Não admitas que os outros estejam enxergando a vida através de teus olhos. A evolução é escada infinita."* Articula-se com a recusa kardequiana de qualquer pretensão hegemônica entre escolas religiosas.
+- **União fraternal sem imposição** — cap. 49 *União fraternal* (Ef 4.3): *"Une-te aos outros, sem exigir que os outros se unam a ti. (…) Não admitas que os outros estejam enxergando a vida através de teus olhos. A evolução é escada infinita."* Articula-se com a recusa de Kardec de qualquer pretensão hegemônica entre escolas religiosas.
 - **Embainha tua espada** — cap. 114 *Embainha tua espada* (Jo 18.11): a guerra exterior gera "destruidora tempestade de sentimentos" no íntimo. Recusa pacifista compatível com o ESE (cap. XII).
 - **Glorificação no fruto** — cap. 45 *Somente assim* (Jo 15.8): *"Somente é possível glorificar o Pai quando nos abrimos aos seus decretos de amor universal, produzindo para o bem eterno."*
 - **"Vinde a mim" — dificuldade de ir** — cap. 5 *Consegues ir?* (Mt 11.28): *"se é fácil ouvir e repetir o 'vinde a mim' do Senhor, quão difícil é 'ir para Ele'!"*
@@ -162,8 +162,8 @@ Além dos oito eixos acima, a obra trabalha de modo recorrente:
 
 **Nenhuma divergência identificada com o Pentateuco.** A obra mantém-se em registro pastoral plenamente compatível com ESE/Gênese/LE. Pontos potencialmente sensíveis foram avaliados:
 
-- **Cap. 145 *Guardai-vos dos cães*** (Fp 3.2) — Paulo não se refere a animais, mas a perseguidores ferozes do Evangelho; Emmanuel deixa explícito (*"Reportava-se aos cães selvagens, impulsivos e ferozes. No rebanho humano, encontraremos sempre criaturas que os personificam"*), respeitando a leitura kardequiana sobre adversários sistemáticos do bem.
-- **Cap. 148 *O herdeiro do Pai*** — recusa do messianismo político alinha-se ao [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XII]] (não absolutizar instituições humanas) e à recusa kardequiana do sacerdócio profissional.
+- **Cap. 145 *Guardai-vos dos cães*** (Fp 3.2) — Paulo não se refere a animais, mas a perseguidores ferozes do Evangelho; Emmanuel deixa explícito (*"Reportava-se aos cães selvagens, impulsivos e ferozes. No rebanho humano, encontraremos sempre criaturas que os personificam"*), respeitando a leitura de Kardec sobre adversários sistemáticos do bem.
+- **Cap. 148 *O herdeiro do Pai*** — recusa do messianismo político alinha-se ao [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XII]] (não absolutizar instituições humanas) e à recusa de Kardec do sacerdócio profissional.
 - **Cap. 41 *Na senda escabrosa*** — pastoral sobre obstáculos como instrumentos de progresso; plenamente convergente com a doutrina das provas (LE q. 258-273).
 
 A relação com [[wiki/obras/vinha-de-luz|Vinha de Luz]] (1952) é de **complementaridade**: deslocamento do eixo hermenêutica-vigilância para o eixo renovação-interior, sem mudança de quadro doutrinário.

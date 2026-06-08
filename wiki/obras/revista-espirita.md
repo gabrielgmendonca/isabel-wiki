@@ -67,7 +67,7 @@ A *Revista* é heterogênea por princípio editorial — Kardec a concebeu como 
 - **Editoriais doutrinários** — artigos longos em que Kardec desenvolve um tema (ex.: "Profissão de fé espírita raciocinada", "As cinco alternativas da Humanidade", depois recolhidos em [[wiki/obras/obras-postumas]]).
 - **Comunicações mediúnicas** — transcritas com identificação do médium e da sessão, frequentemente com comentário do codificador. Espíritos recorrentes incluem São Luís, Espírito de Verdade, Erasto, Lacordaire, espíritos sofredores e suicidas, parentes de leitores etc.
 - **Estudos morais e psicológicos** — análises de virtudes e vícios à luz da doutrina (egoísmo, orgulho, caridade, amor ao próximo).
-- **Casos de obsessão e desobsessão** — relatos detalhados, com a metodologia kardequiana de tratamento.
+- **Casos de obsessão e desobsessão** — relatos detalhados, com a metodologia de Kardec de tratamento.
 - **Necrologia espírita** — comentários sobre mortes de espíritas notáveis e comunicações pós-morte.
 - **Polêmicas e refutações** — respostas à imprensa católica, materialista, magnetista; defesa contra acusações de charlatanismo, satanismo, alucinação.
 - **Bibliografia** — resenhas de livros espíritas e correlatos.

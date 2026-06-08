@@ -58,7 +58,7 @@ A obra se organiza em treze partes desiguais. As partes 1–3 fundamentam o conc
 
 ### Eixo 2 — Hedonismo, vazio e busca de sentido (cap. 7–15)
 
-Os capítulos 7–15 percorrem a busca do prazer (poder, fuga da dor, afeições conflitivas), o **hedonismo** (cap. 12) como redução do existir ao gozo imediato, a **dualidade Bem/Mal** (cap. 14 — releitura do Decálogo + regra de ouro como "terapia do Bem"), e a **busca da realização** (cap. 15 — reedição da técnica de regressão psicológica em chave kardequiana, com Mt 18:3-4 nominalmente atribuído por Joanna como nota da própria autora espiritual).
+Os capítulos 7–15 percorrem a busca do prazer (poder, fuga da dor, afeições conflitivas), o **hedonismo** (cap. 12) como redução do existir ao gozo imediato, a **dualidade Bem/Mal** (cap. 14 — releitura do Decálogo + regra de ouro como "terapia do Bem"), e a **busca da realização** (cap. 15 — reedição da técnica de regressão psicológica à luz de Kardec, com Mt 18:3-4 nominalmente atribuído por Joanna como nota da própria autora espiritual).
 
 ### Eixo 3 — Mecanismos conflitivos e feridas da infância (cap. 16–25)
 

@@ -32,7 +32,7 @@ status: ativo
 
 Volume comemorativo dos **dois mil anos do nascimento de Jesus**. Joanna de Ângelis comenta um item específico de cada um dos primeiros 27 capítulos do *Evangelho Segundo o Espiritismo*, totalizando **35 capítulos breves** + prefácio. O método é declarado já no prefácio: *"Firmada nas excelentes colocações expostas por Allan Kardec em O Evangelho Segundo o Espiritismo, comenta um item de cada capítulo desse Livro extraordinário da Doutrina Espírita, conclamando o indivíduo à mudança de comportamento e de atitudes perante a vida."*
 
-A novidade dentro da Série Psicológica de Joanna não é o eixo Jesus-psicoterapeuta — já consolidado em [[wiki/obras/jesus-e-atualidade]] (1989) — mas a **chave hermenêutica explicitamente junguiana**: sombra coletiva e sombra individual, Self/Eu profundo vs. ego, anima/animus, arquétipos. Onde [[wiki/obras/o-ser-consciente]] e [[wiki/obras/o-despertar-do-espirito]] adotam o vocabulário da Quarta Força (Psicologia Transpessoal), aqui Joanna recua até a fonte junguiana e a aplica diretamente à leitura kardequiana do Evangelho.
+A novidade dentro da Série Psicológica de Joanna não é o eixo Jesus-psicoterapeuta — já consolidado em [[wiki/obras/jesus-e-atualidade]] (1989) — mas a **chave hermenêutica explicitamente junguiana**: sombra coletiva e sombra individual, Self/Eu profundo vs. ego, anima/animus, arquétipos. Onde [[wiki/obras/o-ser-consciente]] e [[wiki/obras/o-despertar-do-espirito]] adotam o vocabulário da Quarta Força (Psicologia Transpessoal), aqui Joanna recua até a fonte junguiana e a aplica diretamente à leitura de Kardec do Evangelho.
 
 ### Mapeamento ESE
 
@@ -134,7 +134,7 @@ Comenta ESE III, item 3 (Jo 14:2 — "Há muitas moradas na casa de meu Pai"). A
 5. Arquétipos com raiz reencarnacionista (releitura espírita de Jung)
 6. Cristologia antitrinitária — Jesus-Homem, não Jesus-Deus
 7. Reencarnação como psicoterapia divina; psicogênese de distúrbios no perispírito
-8. Universalismo histórico compatível com hierarquia kardequiana
+8. Universalismo histórico compatível com hierarquia de Kardec
 9. Prece como ponte vibratória entre a criatura e o Criador
 
 ## Conceitos tratados
@@ -174,7 +174,7 @@ Comenta ESE III, item 3 (Jo 14:2 — "Há muitas moradas na casa de meu Pai"). A
 
 ## Divergências
 
-**Nenhuma divergência estrutural com Kardec identificada.** A obra opera no registro de **aprofundamento psicológico** sobre leitura kardequiana do Evangelho. Pontos sensíveis investigados:
+**Nenhuma divergência estrutural com Kardec identificada.** A obra opera no registro de **aprofundamento psicológico** sobre leitura de Kardec do Evangelho. Pontos sensíveis investigados:
 
 - **Universalismo religioso** (cap. 4): consistente com ESE Introdução, item III — Kardec já reconhece superioridade moral de Jesus sem negar antecessores morais.
 - **"Selbst / imagem de Deus"** (cap. 16): Joanna não identifica Deus com o ego ou com qualquer estrutura psíquica humana; afirma "Jesus e Deus são independentes".

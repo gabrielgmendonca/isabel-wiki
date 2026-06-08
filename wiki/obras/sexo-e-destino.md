@@ -92,7 +92,7 @@ Pontos-chave da fala de Félix:
 ## Conceitos tratados
 
 - [[wiki/conceitos/possessao-partilhada]] — conceito cunhado nesta obra
-- [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus (LM cap. XXIII)
+- [[wiki/conceitos/obsessao]] — quadro de Kardec em três graus (LM cap. XXIII)
 - [[wiki/conceitos/vampirismo-espiritual]] — extração de vitalidade
 - [[wiki/conceitos/leis-morais/lei-de-reproducao]] — afeto como fundamento do casamento (LE q. 695, 701)
 - [[wiki/conceitos/reencarnacao]] — segundo tempo da partida; resgate familiar

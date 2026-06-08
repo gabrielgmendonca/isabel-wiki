@@ -65,7 +65,7 @@ E a tese pedagógica complementar:
 
 ## Finalidades práticas (p. 12-13)
 
-As **7 finalidades** elencadas pelo CFN sintetizam o ensino kardequiano da Lei de Sociedade aplicada ao domicílio:
+As **7 finalidades** elencadas pelo CFN sintetizam o ensino de Kardec da Lei de Sociedade aplicada ao domicílio:
 
 1. Estudar o Evangelho para aprimoramento moral.
 2. Criar hábito de reunião familiar — fraternidade.
@@ -148,7 +148,7 @@ De *S.O.S. Família* (LEAL, Salvador). Texto-síntese: *"Decida uma das sete noi
 ## Conceitos tratados
 
 - [[wiki/conceitos/culto-do-evangelho-no-lar]] — lar canônico do tema; este livreto é a segunda fonte institucional federativa
-- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — fundamento kardequiano da função regeneradora da família
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — fundamento de Kardec da função regeneradora da família
 - [[wiki/conceitos/leis-morais/lei-de-adoracao]] — culto íntimo e prece em comum
 - [[wiki/conceitos/reencarnacao]] — justificativa doutrinária do lar como reencontro espiritual
 - [[wiki/conceitos/caridade]] — caridade no recinto doméstico (André Luiz)

@@ -90,23 +90,23 @@ O tomo da **"ponte entre os dois mundos"**: a aparição telepática do moribund
 | XI | As manifestações de mortos nas experiências de Espiritismo — as provas de identidade |
 | — | **Conclusões dos três volumes** |
 
-A classificação por intervalo (poucos minutos → 1–24 h → 1 dia–1 semana → … → além do 4º ano) traduz uma observação central: *"as aparições e manifestações são relativamente freqüentes nas horas que seguem imediatamente a morte; seu número diminui à medida que dela se afasta"* — convergente com a doutrina kardequiana da perturbação e desprendimento gradual ([[wiki/conceitos/morte]]; LE q. 163–165).
+A classificação por intervalo (poucos minutos → 1–24 h → 1 dia–1 semana → … → além do 4º ano) traduz uma observação central: *"as aparições e manifestações são relativamente freqüentes nas horas que seguem imediatamente a morte; seu número diminui à medida que dela se afasta"* — convergente com a doutrina de Kardec da perturbação e desprendimento gradual ([[wiki/conceitos/morte]]; LE q. 163–165).
 
 ## Eixos doutrinários
 
-### 1. O método: a escada de hipóteses = controle universal kardequiano
+### 1. O método: a escada de hipóteses = controle universal de Kardec
 
 A obra é a aplicação mais extensa da **escada de hipóteses** de Flammarion: nenhum fato é atribuído à ação do morto antes de esgotadas, uma a uma, as explicações naturais — fraude, ilusão, coincidência fortuita (refutada pelo cálculo de probabilidades de Laplace), telepatia entre vivos, sugestão retardada de F. Myers, ação do moribundo ainda vivo. Só o resíduo irredutível autoriza a conclusão. Flammarion sublinha a duração da verificação como garantia: *"do ano de 1861 ao ano de 1922, há mais de 60 anos"*.
 
-É a aplicação fenomenológica do **controle universal** kardequiano: a garantia não é um médium nem um caso isolado, mas a concordância de observações independentes, em regiões e épocas diversas (Gênese, cap. I, item 54; ESE, Introdução, item II). Ver [[wiki/conceitos/prova-experimental-da-sobrevivencia]].
+É a aplicação fenomenológica do **controle universal** de Kardec: a garantia não é um médium nem um caso isolado, mas a concordância de observações independentes, em regiões e épocas diversas (Gênese, cap. I, item 54; ESE, Introdução, item II). Ver [[wiki/conceitos/prova-experimental-da-sobrevivencia]].
 
 ### 2. A alma existe e sobrevive — refutação experimental do materialismo
 
-O fio que costura os três tomos: o ser humano possui *"um elemento não incluído até hoje nas teorias científicas clássicas: uma alma pensadora, dotada de faculdades pessoais"*, que **não sofre a desagregação do corpo**. As faculdades supranormais do vol. 1 (telepatia, vista sem olhos, premonição) já provam a independência; as manifestações dos vols. 2–3 provam a persistência. Convergência direta com (LE q. 134–141) sobre a conservação da individualidade após a morte e com a recusa kardequiana do materialismo (Gênese, cap. I). A formulação anti-materialista — *"não se compreende um raciocínio que assimile o julgar e o concluir a uma combinação mecânica de moléculas"* — repõe em chave documental a tese de *Deus na Natureza*.
+O fio que costura os três tomos: o ser humano possui *"um elemento não incluído até hoje nas teorias científicas clássicas: uma alma pensadora, dotada de faculdades pessoais"*, que **não sofre a desagregação do corpo**. As faculdades supranormais do vol. 1 (telepatia, vista sem olhos, premonição) já provam a independência; as manifestações dos vols. 2–3 provam a persistência. Convergência direta com (LE q. 134–141) sobre a conservação da individualidade após a morte e com a recusa de Kardec do materialismo (Gênese, cap. I). A formulação anti-materialista — *"não se compreende um raciocínio que assimile o julgar e o concluir a uma combinação mecânica de moléculas"* — repõe em chave documental a tese de *Deus na Natureza*.
 
 ### 3. Telepatia como mecanismo unificador
 
-Flammarion notabiliza o termo **telepatia** (cunhado por Myers) e faz dele a chave explicativa de toda a obra: *"a telepatia é tão certa quanto a existência de Napoleão, do oxigênio e de Sírio"*, e *"essa transmissão telepática existe igualmente entre as almas dos defuntos e a dos vivos"*. A aparição do moribundo e a do morto são, no seu modelo, ação de espírito sobre espírito que se converte em imagem no cérebro receptor. Ancoragem kardequiana: a transmissão do pensamento por ondulações fluídicas (Gênese, cap. XIV, "Os fluidos"; LM, 2ª parte, caps. VI–VIII). Ver [[wiki/conceitos/telepatia]].
+Flammarion notabiliza o termo **telepatia** (cunhado por Myers) e faz dele a chave explicativa de toda a obra: *"a telepatia é tão certa quanto a existência de Napoleão, do oxigênio e de Sírio"*, e *"essa transmissão telepática existe igualmente entre as almas dos defuntos e a dos vivos"*. A aparição do moribundo e a do morto são, no seu modelo, ação de espírito sobre espírito que se converte em imagem no cérebro receptor. Ancoragem de Kardec: a transmissão do pensamento por ondulações fluídicas (Gênese, cap. XIV, "Os fluidos"; LM, 2ª parte, caps. VI–VIII). Ver [[wiki/conceitos/telepatia]].
 
 ### 4. Aparições e manifestações de mortos — as nove proposições das Conclusões
 
@@ -114,7 +114,7 @@ Das observações Flammarion deduz proposições gerais sobre os mortos: existem
 
 ### 5. Premonição, pressentimento e o problema do futuro (vol. 1)
 
-O vol. 1 dedica três capítulos (IV, VIII, IX) à premonição, ao pressentimento, à visão de acontecimentos futuros e ao confronto fatalismo × livre-arbítrio. Flammarion trata a previsão como faculdade real da alma, sem dela derivar fatalismo absoluto — posição compatível com a doutrina kardequiana da presciência relativa e da liberdade moral preservada (LE q. 851–869, sobre o conhecimento do futuro e o livre-arbítrio; [[wiki/conceitos/livre-arbitrio]]). Tratado aqui inline por entrelaçar-se com a questão da fatalidade já coberta na wiki — não constitui página-conceito autônoma.
+O vol. 1 dedica três capítulos (IV, VIII, IX) à premonição, ao pressentimento, à visão de acontecimentos futuros e ao confronto fatalismo × livre-arbítrio. Flammarion trata a previsão como faculdade real da alma, sem dela derivar fatalismo absoluto — posição compatível com a doutrina de Kardec da presciência relativa e da liberdade moral preservada (LE q. 851–869, sobre o conhecimento do futuro e o livre-arbítrio; [[wiki/conceitos/livre-arbitrio]]). Tratado aqui inline por entrelaçar-se com a questão da fatalidade já coberta na wiki — não constitui página-conceito autônoma.
 
 ### 6. Reencarnação como lei geral — em chave interplanetária
 
@@ -131,7 +131,7 @@ Três callouts inline, padrão das obras-irmãs ([[wiki/obras/urania]], [[wiki/o
 > A explicação **dominante** de Flammarion para as aparições é subjetivista-telepática: o espírito age a distância sobre o cérebro do percipiente, que forma uma imagem *"que lhe parece exterior como nos sonhos"* — e o autor é explícito: *"Não há roupa realmente, não há corpo tampouco, nem mesmo etéreo ou astral; só há uma impressão cerebral que se transforma em imagem"* (vol. 3, Conclusões). Kardec, ao contrário, ancora a manifestação visual na **modificação molecular do perispírito**, corpo fluídico real do Espírito, que se torna visível e por vezes tangível (LM, 2ª parte, cap. VI; [[wiki/conceitos/perispirito]]; [[wiki/conceitos/ageneres|agêneres]]). A divergência é parcial e não frontal: o próprio Flammarion **admite que há também aparições objetivas** (proposição 6 das Conclusões) e fenômenos que deixam sinais materiais (placas fotográficas, móveis) — apenas recusa generalizar o corpo fluídico para a classe subjetiva. Leitura kardequiana: as duas classes de Flammarion correspondem, em Kardec, à aparição fluídica (perispírito modificado) e à percepção pela vista espiritual do percipiente — não a um subjetivismo que dissolva o perispírito. Ver [[wiki/conceitos/aparicoes]].
 
 > [!warning] Relativização do ensino mediúnico sobre a reencarnação; vocabulário teosófico
-> Flammarion explica a divergência entre o espiritismo francês (reencarnacionista) e o americano (anti-reencarnacionista) atribuindo **ambos** à memória subconsciente dos médiuns — o francês teria lido Kardec, o americano teria ouvido a tese contrária nos seus centros. A explicação tensiona o **controle universal** kardequiano, para o qual a concordância de médiuns independentes em regiões diversas é justamente a garantia de veracidade (Gênese, cap. I, item 54; ver [[wiki/conceitos/animismo]] — hipótese anímica a esgotar). Some-se o uso frouxo de vocabulário heterodoxo: *"o carma dos teósofos é uma realidade"*, *"mônada psíquica"*, *"quarta dimensão / hiperespaço"*. **Não é negação da reencarnação** — Flammarion afirma-a como "lei geral" e princípio necessário (eixo 6) — nem adesão à teosofia, fora de escopo na wiki (CLAUDE.md §2): é apropriação de vocabulário, não de doutrina. Nomear o termo, ler "carma" como sinônimo livre da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] kardequiana, sem condenação do autor. Ver [[wiki/conceitos/reencarnacao]].
+> Flammarion explica a divergência entre o espiritismo francês (reencarnacionista) e o americano (anti-reencarnacionista) atribuindo **ambos** à memória subconsciente dos médiuns — o francês teria lido Kardec, o americano teria ouvido a tese contrária nos seus centros. A explicação tensiona o **controle universal** de Kardec, para o qual a concordância de médiuns independentes em regiões diversas é justamente a garantia de veracidade (Gênese, cap. I, item 54; ver [[wiki/conceitos/animismo]] — hipótese anímica a esgotar). Some-se o uso frouxo de vocabulário heterodoxo: *"o carma dos teósofos é uma realidade"*, *"mônada psíquica"*, *"quarta dimensão / hiperespaço"*. **Não é negação da reencarnação** — Flammarion afirma-a como "lei geral" e princípio necessário (eixo 6) — nem adesão à teosofia, fora de escopo na wiki (CLAUDE.md §2): é apropriação de vocabulário, não de doutrina. Nomear o termo, ler "carma" como sinônimo livre da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] kardequiana, sem condenação do autor. Ver [[wiki/conceitos/reencarnacao]].
 
 ## Conceitos tratados
 
@@ -139,7 +139,7 @@ Três callouts inline, padrão das obras-irmãs ([[wiki/obras/urania]], [[wiki/o
 - [[wiki/conceitos/aparicoes]] — eixo dos três tomos: aparições de vivos, de moribundos e de mortos.
 - [[wiki/conceitos/telepatia]] — mecanismo unificador proposto por Flammarion.
 - [[wiki/conceitos/alma]] — a tese central: a alma existe, independe do corpo e lhe sobrevive.
-- [[wiki/conceitos/manifestacoes-espiritas]] — quadro kardequiano em que as observações se inscrevem.
+- [[wiki/conceitos/manifestacoes-espiritas]] — quadro de Kardec em que as observações se inscrevem.
 - [[wiki/conceitos/perispirito]] — ponto da Divergência B.
 - [[wiki/conceitos/morte]] — perturbação e desprendimento gradual; classificação por tempo decorrido.
 - [[wiki/conceitos/reencarnacao]] — afirmada como lei geral (eixo 6; Divergência C).
@@ -151,7 +151,7 @@ Três callouts inline, padrão das obras-irmãs ([[wiki/obras/urania]], [[wiki/o
 - [[wiki/personalidades/camille-flammarion]] — autor.
 - [[wiki/personalidades/leon-denis]] — contraponto explícito nas Conclusões (Divergência A).
 - [[wiki/personalidades/charles-richet]] — par da linhagem metapsíquica; citado entre os observadores de valor.
-- [[wiki/personalidades/allan-kardec]] — não evocado como autoridade no método (Divergência A), mas a moldura (sobrevivência, perispírito, reencarnação, controle universal) é toda kardequiana; Flammarion recorda o início do estudo *"de parceria com Allan Kardec"* em 1861.
+- [[wiki/personalidades/allan-kardec]] — não evocado como autoridade no método (Divergência A), mas a moldura (sobrevivência, perispírito, reencarnação, controle universal) é toda de Kardec; Flammarion recorda o início do estudo *"de parceria com Allan Kardec"* em 1861.
 
 Personalidades **históricas tangenciais** (não geram página): Camille Saint-Saëns e Henri Regnault (caso de telepatia da Carta 4.565, guerra de 1871); Casimir-Périer e o Dr. Gallet (premonição da eleição presidencial, vol. 2); Crookes, Lodge, Myers, Aksakof, William James, Lombroso, De Rochas, d'Arsonval (linhagem de observadores citada no vol. 2); Pascal, Sócrates, Pitágoras, Victor Hugo (epígrafes dos volumes); Francis Bacon e Auguste Comte (exemplos de erro epistemológico nas Conclusões).
 
@@ -161,7 +161,7 @@ Personalidades **históricas tangenciais** (não geram página): Camille Saint-S
 - **Para estudo sobre a morte e o desprendimento:** o vol. 3 (classificação por tempo decorrido) ilustra concretamente a perturbação gradual de (LE q. 163–166) e [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]].
 - **Para introduzir telepatia e mediunidade do pensamento:** o vol. 1 (cap. VI) e o vol. 2 (aparições de moribundos no momento da morte) — citáveis ao lado de (Gênese, cap. XIV) e (LM, 2ª parte, caps. VI–VIII).
 - **Como leitura de Flammarion:** obra **densa e extensa** (1.310 páginas). Recomendar **depois** das narrativas (*Urânia*, *Estela*) e em paralelo a *As Casas Mal-Assombradas*, com a qual partilha método. O leitor não precisa percorrer a casuística inteira: o argumento está nos prefácios dos três tomos e nas Conclusões.
-- **Cuidado especial com:** (a) o recorte "ciência, não doutrina" — citar o método sem importar a exclusão da moral; (b) o subjetivismo das aparições — não tomar a negação do "corpo etéreo" como posição kardequiana sobre o perispírito; (c) o vocabulário "carma/mônada/quarta dimensão" — nomear como empréstimo, não doutrina.
+- **Cuidado especial com:** (a) o recorte "ciência, não doutrina" — citar o método sem importar a exclusão da moral; (b) o subjetivismo das aparições — não tomar a negação do "corpo etéreo" como posição de Kardec sobre o perispírito; (c) o vocabulário "carma/mônada/quarta dimensão" — nomear como empréstimo, não doutrina.
 
 ## Páginas relacionadas
 

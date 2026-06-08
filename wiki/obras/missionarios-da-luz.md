@@ -113,7 +113,7 @@ A obra introduz também a doutrina do **sexo como qualidade positiva ou passiva 
 
 O capítulo formula dois princípios pastorais complementares, recuperados em palestra por [[wiki/personalidades/haroldo-dutra-dias|Haroldo Dutra Dias]] (*O Momento do Recomeço — cap. 13 de Missionários da Luz*):
 
-- **Pedagogia espiritual em oposição ao julgamento.** Diante do desespero de Segismundo às vésperas do retorno, Alexandre o acolhe sem qualquer recriminação: *"Espíritos superiores não ficam julgando pessoas, não recriminam — educam, orientam, explicam, chamam a atenção, dão indicativas."* É a definição operacional da caridade kardequiana (ESE, cap. XV) aplicada à pedagogia interpessoal entre desencarnados. Tratamento completo da pedagogia em [[wiki/personalidades/alexandre]].
+- **Pedagogia espiritual em oposição ao julgamento.** Diante do desespero de Segismundo às vésperas do retorno, Alexandre o acolhe sem qualquer recriminação: *"Espíritos superiores não ficam julgando pessoas, não recriminam — educam, orientam, explicam, chamam a atenção, dão indicativas."* É a definição operacional da caridade de Kardec (ESE, cap. XV) aplicada à pedagogia interpessoal entre desencarnados. Tratamento completo da pedagogia em [[wiki/personalidades/alexandre]].
 - **A reencarnação apaga histórias, não impressões.** Adelino sofre pesadelos recorrentes com um agressor sem rosto identificável (Segismundo, seu antigo homicida) — sente todo o terror sem qualquer enredo disponível. *"O que a gente esquece quando reencarna são as histórias, não as impressões"* (Haroldo Dutra Dias, palestra). Princípio que confirma narrativamente a fórmula de Léon Denis (*O Problema do Ser*): o passado se acha "sob a forma de impressões, senão de lembranças precisas". Análise integral em [[wiki/questoes/esquecimento-do-passado]].
 
 ### O fracasso (cap. 15)
@@ -165,10 +165,10 @@ A obra encerra na anotação pedagógica do orientador: "Junto do instrutor, o a
 - **Vampirismo psíquico** (caps. 3–5) — primeira sistematização chicoxaveriana, antecede *Evolução em Dois Mundos* (1958). Larvas psíquicas como "bacilos da paixão"; vampirismo dos animais (alimentação carnívora) como contrapartida humana do parasitismo desencarnado.
 - **Oração como antídoto operacional** (cap. 6) — caso Cecília: a esposa que ora protege o lar mesmo durante o sono físico, pelo "acréscimo de misericórdia". Não substitui o esforço próprio.
 - **Anatomia da reencarnação** (caps. 13–14) — engenharia fluídica detalhada: mapas cromossômicos, redução perispiritual, fecundação assistida, "geografia dos genes", consolidação aos 7 anos. Aprofunda LE q. 344–345 sem contradizê-la.
-- **Sexo como qualidade positiva/passiva cósmica** (cap. 13) — desloca o conceito do plano fisiológico ao princípio universal de "união de qualidades". Articula-se com Lei de Reprodução kardequiana (LE q. 686–701).
+- **Sexo como qualidade positiva/passiva cósmica** (cap. 13) — desloca o conceito do plano fisiológico ao princípio universal de "união de qualidades". Articula-se com Lei de Reprodução de Kardec (LE q. 686–701).
 - **Doutrina da reconciliação prévia à fecundação** (cap. 13) — antes do ato físico, é necessária a reconciliação espiritual entre os Espíritos envolvidos, sob pena de o pensamento envenenado destruir a "substância da hereditariedade, intoxicando a cromatina dentro da própria bolsa seminal".
 - **Limite da assistência espiritual: regra dos 10 socorros** (cap. 19) — dez passes magnéticos plenos para o "rebelde caprichoso"; depois disso, a libertação cabe ao paciente. Aplicação prática da lei de causa e efeito ao trabalho de cura.
-- **Possessão como capitulação voluntária** (cap. 18) — diferencia possessa (que não reage) da obsidiada que coopera. Refina o quadro kardequiano (LM, 2ª parte, cap. XXIII).
+- **Possessão como capitulação voluntária** (cap. 18) — diferencia possessa (que não reage) da obsidiada que coopera. Refina o quadro de Kardec (LM, 2ª parte, cap. XXIII).
 - **Sono físico como porta vulnerável** (cap. 8) — desprendimento noturno expõe o aprendiz tanto a aulas espirituais quanto a sítios de prazer inferior. A "boa preparação espiritual" decide o destino dos minutos de sono.
 - **Recusa da idolatria do mestre** (cap. 20) — Alexandre se ausenta deliberadamente para que os aprendizes "experimentem o que aprenderam". Princípio coerente com a "ausência educadora" pedagógica.
 
@@ -180,7 +180,7 @@ A obra encerra na anotação pedagógica do orientador: "Junto do instrutor, o a
 - [[wiki/conceitos/prece]] — cap. 6 (caso Cecília); a oração como circuito magnético protetor
 - [[wiki/conceitos/centros-vitais]] — caps. 1–2; epífise como "glândula da vida espiritual"
 - [[wiki/conceitos/planejamento-reencarnatorio]] — caps. 13–14 (caso Segismundo); cap. 15 (caso Volpíni)
-- [[wiki/conceitos/reencarnacao]] — moldura kardequiana ampliada
+- [[wiki/conceitos/reencarnacao]] — moldura de Kardec ampliada
 - [[wiki/conceitos/energia-sexual]] — cap. 13: sexo como qualidade positiva/passiva cósmica
 - [[wiki/conceitos/emancipacao-da-alma]] — cap. 8 (sono físico como porta dupla)
 - [[wiki/conceitos/perispirito]] — redução perispiritual no encarne

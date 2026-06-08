@@ -25,7 +25,7 @@ status: ativo
 
 ## Estrutura
 
-A obra reúne 25 capítulos breves (5 a 8 parágrafos cada), antecedidos de um prefácio assinado em Uberaba (jun/1970). Cada capítulo abre com uma **epígrafe do Pentateuco** — LE, ESE, LM ou OQE — que ancora o tema na Codificação. Recurso editorial deliberado, alinhado à autodescrição da obra como "reformulação" dos ensinos kardequianos.
+A obra reúne 25 capítulos breves (5 a 8 parágrafos cada), antecedidos de um prefácio assinado em Uberaba (jun/1970). Cada capítulo abre com uma **epígrafe do Pentateuco** — LE, ESE, LM ou OQE — que ancora o tema na Codificação. Recurso editorial deliberado, alinhado à autodescrição da obra como "reformulação" dos ensinos de Kardec.
 
 | Cap. | Título | Tema central | Ancoragem |
 |------|--------|--------------|-----------|
@@ -94,7 +94,7 @@ Para a sistematização doutrinária por eixos, ver [[wiki/aprofundamentos/sexua
 ## Conceitos tratados
 
 - [[wiki/conceitos/energia-sexual]] — eixo da obra (caps. 1, 5, 6, 24)
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura de Kardec (LE q. 686–701)
 - [[wiki/conceitos/reencarnacao]] — sustentáculo dos vínculos cármicos
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"
 - [[wiki/conceitos/perispirito]] — substrato das cargas magnéticas

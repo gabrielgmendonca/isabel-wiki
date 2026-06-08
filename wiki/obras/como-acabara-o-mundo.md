@@ -83,7 +83,7 @@ Texto cosmológico-filosófico em prosa contínua. O narrador relata um sonho em
 
 ## Eixos doutrinários
 
-### 1. Morte natural do planeta — eco kardeciano da transição planetária
+### 1. Morte natural do planeta — eco de Kardec da transição planetária
 
 Eixo central do **ensaio 1**. Flammarion descarta o cataclismo súbito (cometa, choque solar) por cálculo de probabilidades e sustenta que o destino da Terra é a **exaustão natural em milhões de anos** — perda do calor solar, perda da água, nivelamento continental. Em (Gênese, cap. XVIII) Kardec sustenta que o "fim do mundo" das escrituras **não é cataclismo cósmico literal num intervalo curto**, mas **processo longo** de transição moral da Terra de [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] para [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] — leitura simbólica que se opõe expressamente à expectativa apocalíptica iminente.
 

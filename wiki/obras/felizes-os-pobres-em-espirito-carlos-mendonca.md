@@ -25,7 +25,7 @@ status: ativo
 
 ## Cabeçalho
 
-Estudo da primeira bem-aventurança do Sermão da Montanha — "Felizes os pobres em espírito, porque deles é o reino dos céus" (S. Mateus, 5:3) — à luz da Doutrina Espírita. A palestra analisa o contexto do Sermão da Montanha, a diferença entre Mateus e Lucas na abordagem da pobreza, e a interpretação kardeciana de "pobres em espírito" como humildes, não como desprovidos de inteligência.
+Estudo da primeira bem-aventurança do Sermão da Montanha — "Felizes os pobres em espírito, porque deles é o reino dos céus" (S. Mateus, 5:3) — à luz da Doutrina Espírita. A palestra analisa o contexto do Sermão da Montanha, a diferença entre Mateus e Lucas na abordagem da pobreza, e a interpretação de Kardec de "pobres em espírito" como humildes, não como desprovidos de inteligência.
 
 ## Estrutura
 

@@ -54,7 +54,7 @@ A gradação no quarto solo é ancorada em 1 Coríntios 3:8-9: *"o que planta e 
 
 ### Parte 3 — Os quatro solos (aprofundamento doutrinário)
 
-Aprofundamento das mesmas categorias com leitura propriamente kardequiana — os solos **não descrevem categorias fixas de pessoas, mas estágios da jornada evolutiva**. A Lei do Progresso (LE q. 776-800), que alcança todos os seres da criação, garante que cedo ou tarde todos os habitantes do planeta desenvolverão o aprendizado espiritual necessário. As reencarnações sucessivas e os estágios no plano espiritual oferecem oportunidades contínuas de crescimento.
+Aprofundamento das mesmas categorias com leitura propriamente de Kardec — os solos **não descrevem categorias fixas de pessoas, mas estágios da jornada evolutiva**. A Lei do Progresso (LE q. 776-800), que alcança todos os seres da criação, garante que cedo ou tarde todos os habitantes do planeta desenvolverão o aprendizado espiritual necessário. As reencarnações sucessivas e os estágios no plano espiritual oferecem oportunidades contínuas de crescimento.
 
 ### Parte 4 — Conviver com a diversidade evolutiva
 

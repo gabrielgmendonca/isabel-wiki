@@ -52,7 +52,7 @@ A obra reúne 11 capítulos densos. O agrupamento abaixo sintetiza os cinco eixo
 
 > "O impedimento familiar será superado a partir da consciência de amor, entendendo as circunstâncias do renascimento e administrando os conflitos mediante terapias especializadas e a convivência com grupos de auxílio e sustentação."
 
-A tríade **doença-saúde-obsessão** (subseções 1.3, 1.4) ancora a saúde como "estado ideal da vida" e a obsessão como "fixação indevida nos processos mentais e emocionais" — convergente com a doutrina kardequiana das obsessões (LM 2ª parte, cap. XXIII) e estendida pela neuroquímica ("metabolismo cerebral, propiciando a produção descompensada de enzimas").
+A tríade **doença-saúde-obsessão** (subseções 1.3, 1.4) ancora a saúde como "estado ideal da vida" e a obsessão como "fixação indevida nos processos mentais e emocionais" — convergente com a doutrina de Kardec das obsessões (LM 2ª parte, cap. XXIII) e estendida pela neuroquímica ("metabolismo cerebral, propiciando a produção descompensada de enzimas").
 
 **Cap. 3 — Fatores de insegurança.** Inclui a **fábula de Sísifo** como alegoria moral central da obra:
 
@@ -75,7 +75,7 @@ Estende a etiologia das fobias e psicoses depressivas: **claustrofobia** como re
 
 > "Concordando, em parte, com o eminente mestre, agregaríamos que muitos símbolos, que se apresentam como arquétipos, provêm de um outro tipo de herança primordial: a da experiência de cada Espírito pelo imenso oceano das reencarnações."
 
-A individuação é redefinida como "conquista do Si, a elevação do Espírito". Joanna oferece também uma releitura espírita de Lázaro (João 11:11) — não milagre, mas catalepsia identificada por Jesus: o perispírito ainda não havia rompido seus laços com o corpo. A leitura é convergente com a interpretação kardequiana de morte aparente (cf. LM, 2ª parte; OPE, "Manifestações dos Espíritos"; LE q. 73).
+A individuação é redefinida como "conquista do Si, a elevação do Espírito". Joanna oferece também uma releitura espírita de Lázaro (João 11:11) — não milagre, mas catalepsia identificada por Jesus: o perispírito ainda não havia rompido seus laços com o corpo. A leitura é convergente com a interpretação de Kardec de morte aparente (cf. LM, 2ª parte; OPE, "Manifestações dos Espíritos"; LE q. 73).
 
 ### Eixo 3 — Despertar do Si e disciplina da vontade (caps. 4, 5, 6, 8, 9)
 
@@ -109,19 +109,19 @@ A autorrealização é ancorada na conquista do Si — "psiconáutica", "imersã
 
 > "Importantes não serão a postura, as palavras mântricas, as melodias condicionadoras, mas os meios que sejam mais compatíveis com cada candidato e suas resistências psicológicas."
 
-Protocolo passo a passo: respiração ritmada (inspirar com boca cerrada, reter, expirar suavemente) → relaxamento progressivo do couro cabeludo aos pés → visualização de paisagem agradável (praia, bosque, jardim, regato, lago, montanha) → visualização para perdão (retirada de conflitos do inconsciente "desculpando o ofensor, distendendo-lhe o perdão") → visualização de luz coronária invadindo o organismo. Tempo: 30-60 min. **Meditação como terapia, destituída de compromissos religiosos ou vínculos sectaristas** — alinhada à postura kardequiana sobre prece (ESE cap. XXVII, "Pedi e obtereis"), não importa esoterismo.
+Protocolo passo a passo: respiração ritmada (inspirar com boca cerrada, reter, expirar suavemente) → relaxamento progressivo do couro cabeludo aos pés → visualização de paisagem agradável (praia, bosque, jardim, regato, lago, montanha) → visualização para perdão (retirada de conflitos do inconsciente "desculpando o ofensor, distendendo-lhe o perdão") → visualização de luz coronária invadindo o organismo. Tempo: 30-60 min. **Meditação como terapia, destituída de compromissos religiosos ou vínculos sectaristas** — alinhada à postura de Kardec sobre prece (ESE cap. XXVII, "Pedi e obtereis"), não importa esoterismo.
 
 **11.3 — O pensamento bem-direcionado.** Neurolinguística + Neurociência confirmam tese da onda mental:
 
 > "Não desejamos com isso afirmar que, com o simples fato de elaborar-se uma ideia, necessariamente, acontecerá como se quer ou como se planeja. No entanto, a onda mental emitida se transforma em fator propiciatório, que irá contribuir para tornar viável o desejo, que deve ser acompanhado do empenho, do esforço para torná-lo real."
 
-Convergência com André Luiz em [[wiki/conceitos/onda-mental]] — a tese kardequiana do pensamento como força viva e atuante (LE q. 459-462; LM 1ª parte, cap. VI) recebe revestimento neurocientífico explícito.
+Convergência com André Luiz em [[wiki/conceitos/onda-mental]] — a tese de Kardec do pensamento como força viva e atuante (LE q. 459-462; LM 1ª parte, cap. VI) recebe revestimento neurocientífico explícito.
 
 ## Conceitos tratados
 
 - [[wiki/conceitos/autoconhecimento]] — programa terapêutico ancorado em LE q. 919; eixo recorrente da série Joanna, aprofundado pelo manual de meditação do cap. 11.
 - [[wiki/conceitos/psicologia-transpessoal]] — Quarta Força em diálogo aberto com Maslow (cap. 10 — hierarquia + metanecessidades) e Jung (cap. 7).
-- [[wiki/conceitos/onda-mental]] — pensamento bem-direcionado (cap. 11.3) como confirmação neurocientífica da tese kardequiana e andreluziana do pensamento como força.
+- [[wiki/conceitos/onda-mental]] — pensamento bem-direcionado (cap. 11.3) como confirmação neurocientífica da tese de Kardec e andreluziana do pensamento como força.
 - [[wiki/conceitos/amorterapia]] — formalizada no Vol. 7; nesta obra, raízes terapêuticas no cap. 4 (hábitos mentais).
 - [[wiki/conceitos/dor]] — tipologia funcional-pedagógica retomada (Vol. 7 já consolidou); aqui ampliada para "impedimentos" como categoria diagnóstica (cap. 1).
 - [[wiki/conceitos/planejamento-reencarnatorio]] — moldura da releitura reencarnacionista de Édipo/Eletra (cap. 2): vínculos pretéritos retornam em configuração reparatória.
@@ -158,11 +158,11 @@ A obra tem aporte significativo em conceitos que ainda não têm página própri
 
 Nenhuma divergência estrutural identificada. Pontos sensíveis avaliados como **desdobramentos**, não divergências:
 
-- **Releitura reencarnacionista de Édipo/Eletra** (cap. 2) — extensão do princípio kardequiano de retorno em mesmos núcleos familiares (LE q. 202-203; ESE cap. XIV item 8). Não contradiz Freud, situa-o em moldura espírita; convergente com Emmanuel em [[wiki/obras/vida-e-sexo]] caps. 14-15.
-- **Discordância parcial de Jung** (cap. 7) — diálogo interdisciplinar dentro do quadro kardequiano. A tese — arquétipos como herança também reencarnacionista — é desdobramento natural da preexistência do Espírito (LE q. 78-79).
-- **Lázaro como catalepsia** (cap. 7) — convergente com a interpretação kardequiana de morte aparente (LM 2ª parte; OPE "Manifestações dos Espíritos"; LE q. 73, q. 154-155).
-- **Meditação não-sectária como terapia** (cap. 11) — alinhada à postura kardequiana sobre prece individual e ato pessoal (ESE cap. XXVII), sem importar esoterismo.
-- **Pensamento bem-direcionado com aporte de neurociência** (cap. 11.3) — extensão científica da tese kardequiana do pensamento como força (LE q. 459-462; LM 1ª parte, cap. VI).
+- **Releitura reencarnacionista de Édipo/Eletra** (cap. 2) — extensão do princípio de Kardec de retorno em mesmos núcleos familiares (LE q. 202-203; ESE cap. XIV item 8). Não contradiz Freud, situa-o em moldura espírita; convergente com Emmanuel em [[wiki/obras/vida-e-sexo]] caps. 14-15.
+- **Discordância parcial de Jung** (cap. 7) — diálogo interdisciplinar dentro do quadro de Kardec. A tese — arquétipos como herança também reencarnacionista — é desdobramento natural da preexistência do Espírito (LE q. 78-79).
+- **Lázaro como catalepsia** (cap. 7) — convergente com a interpretação de Kardec de morte aparente (LM 2ª parte; OPE "Manifestações dos Espíritos"; LE q. 73, q. 154-155).
+- **Meditação não-sectária como terapia** (cap. 11) — alinhada à postura de Kardec sobre prece individual e ato pessoal (ESE cap. XXVII), sem importar esoterismo.
+- **Pensamento bem-direcionado com aporte de neurociência** (cap. 11.3) — extensão científica da tese de Kardec do pensamento como força (LE q. 459-462; LM 1ª parte, cap. VI).
 
 ## Fontes
 

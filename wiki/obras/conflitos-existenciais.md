@@ -171,7 +171,7 @@ Posiciona a obra como homenagem aos 140 anos de [[wiki/obras/ceu-e-inferno|O Cé
 
 ## Divergências
 
-Nenhuma divergência doutrinária com Kardec identificada. A obra cita literalmente o ESE no cap. 20 e homenageia O Céu e o Inferno no prefácio. A crítica à Psicologia Negativa freudiana (cap. 5) é interna à psicologia, não doutrinária. A leitura de Pedro/Malco como exemplo de "falsa coragem" (cap. 18) é compatível com o tratamento que [[wiki/personalidades/pedro-apostolo|Pedro]] recebe nos Evangelhos (negação de Jesus, choro amargo) e não contradiz nenhuma posição kardequiana.
+Nenhuma divergência doutrinária com Kardec identificada. A obra cita literalmente o ESE no cap. 20 e homenageia O Céu e o Inferno no prefácio. A crítica à Psicologia Negativa freudiana (cap. 5) é interna à psicologia, não doutrinária. A leitura de Pedro/Malco como exemplo de "falsa coragem" (cap. 18) é compatível com o tratamento que [[wiki/personalidades/pedro-apostolo|Pedro]] recebe nos Evangelhos (negação de Jesus, choro amargo) e não contradiz nenhuma posição de Kardec.
 
 ## Fontes
 

@@ -12,7 +12,7 @@ status: ativo
 
 # O Livro dos Espíritos
 
-Primeira obra da codificação kardequiana e **marco fundador do Espiritismo**. Publicado em Paris em 18 de abril de 1857 por Allan Kardec, apresenta os princípios da Doutrina Espírita em forma de 1.019 perguntas feitas aos Espíritos, com respostas por eles ditadas e comentários do codificador.
+Primeira obra da codificação de Kardec e **marco fundador do Espiritismo**. Publicado em Paris em 18 de abril de 1857 por Allan Kardec, apresenta os princípios da Doutrina Espírita em forma de 1.019 perguntas feitas aos Espíritos, com respostas por eles ditadas e comentários do codificador.
 
 > "Os princípios da doutrina espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns." — subtítulo da obra.
 

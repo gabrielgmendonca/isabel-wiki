@@ -52,7 +52,7 @@ Pedro chega à reunião agastado com tio e primo que o haviam acusado e ameaçad
 
 > "As pessoas com as quais nascemos e vivemos na Terra são os primeiros e mais importantes instrumentos que recebemos do Pai, para a edificação do Reino do Céu em nós mesmos. [...] Os parentes próximos, na maioria das vezes, são o martelo ou o serrote que podemos utilizar a benefício da construção do templo vivo e sublime." (cap. 6)
 
-O ensino converge com [[wiki/conceitos/leis-morais/lei-de-sociedade|Lei de Sociedade]] (LE q. 766–775) e com a tese kardequiana das **afinidades familiares por reencarnação**: parentes ásperos não são obstáculos a contornar; são a ferramenta exata calibrada para o trabalho de cada Espírito. Pastoralmente, é texto de partida para o atendimento espírita de queixas familiares.
+O ensino converge com [[wiki/conceitos/leis-morais/lei-de-sociedade|Lei de Sociedade]] (LE q. 766–775) e com a tese de Kardec das **afinidades familiares por reencarnação**: parentes ásperos não são obstáculos a contornar; são a ferramenta exata calibrada para o trabalho de cada Espírito. Pastoralmente, é texto de partida para o atendimento espírita de queixas familiares.
 
 ### Fé sem obras — "O santo desiludido" (cap. 11)
 
@@ -60,7 +60,7 @@ Um "venerado devoto" retira-se a uma gruta isolada "a pretexto de servir a Deus"
 
 > "Se não fora homicida vulgar na Terra, era ali identificado como **matador da coragem e da esperança em centenas de irmãos em humanidade**. [...] Nunca nos esqueçamos de que o ato de desanimar os outros, nas santas aventuras do bem, é um dos maiores pecados diante do Poderoso e Compassivo Senhor." (cap. 11)
 
-A parábola é a versão narrativa de Tg 2:17 ("a fé sem obras é morta") e do critério kardequiano de ESE cap. XV ("fora da caridade não há salvação"). Ver [[wiki/conceitos/fe-raciocinada]] e [[wiki/conceitos/caridade]].
+A parábola é a versão narrativa de Tg 2:17 ("a fé sem obras é morta") e do critério de Kardec de ESE cap. XV ("fora da caridade não há salvação"). Ver [[wiki/conceitos/fe-raciocinada]] e [[wiki/conceitos/caridade]].
 
 ### Provas educadoras: Necessidade, Dinheiro, Poder, Cólera (cap. 12)
 
@@ -72,7 +72,7 @@ Um devoto pobre, escravo do lar, não pode dar esmola. Reconhece que pode **guer
 
 > "Distribuamos o pão e a cobertura, acendamos luz para a ignorância e intensifiquemos a fraternidade aniquilando a discórdia, mas não nos esqueçamos do combate metódico e sereno contra o mal, em esforço diário." (cap. 20)
 
-O capítulo amplia o conceito kardequiano de **caridade moral** (ESE cap. XIII, item 4): para além da beneficência material, há uma caridade silenciosa e cotidiana — recusar a maledicência, suportar a injúria, desfazer a calúnia — que **só Deus vê**. Eixo paralelo ao cap. 9 ("O mensageiro do amor"), em que o servidor anônimo do Pai *"se faz o último de todos"*, e ao cap. 29 ("A parábola relembrada"), que reaplica a parábola do bom samaritano destacando que **a caridade direta supera a caridade por procuração**: *"o bem que praticamos em sentido direto, dando de nós mesmos, é sempre o maior e o mais seguro de todos"*.
+O capítulo amplia o conceito de Kardec de **caridade moral** (ESE cap. XIII, item 4): para além da beneficência material, há uma caridade silenciosa e cotidiana — recusar a maledicência, suportar a injúria, desfazer a calúnia — que **só Deus vê**. Eixo paralelo ao cap. 9 ("O mensageiro do amor"), em que o servidor anônimo do Pai *"se faz o último de todos"*, e ao cap. 29 ("A parábola relembrada"), que reaplica a parábola do bom samaritano destacando que **a caridade direta supera a caridade por procuração**: *"o bem que praticamos em sentido direto, dando de nós mesmos, é sempre o maior e o mais seguro de todos"*.
 
 ### O talismã divino (cap. 22)
 
@@ -96,7 +96,7 @@ O Pai instala "uma família de cinco pessoas, pai, mãe e três filhos" em cidad
 
 > "És um homem, não um anjo… Não te envergonhas, pois, de falar tão insistentemente no Senhor, quando conheces, de perto, as próprias imperfeições? [...] Chora teus erros, faze penitência perante o Eterno! Clama tuas culpas, tuas culpas!" (cap. 40)
 
-O chefe se entristece, acredita-se "criminoso para sempre", recusa alimento e morre. A esposa e os filhos seguem o mesmo caminho em semanas. *"E assim o venenoso antagonista venceu os denodados colaboradores da crença e do amor, um a um, sem necessidade de outra arma que não fosse pequena sugestão de tristeza."* A advertência final é doutrinariamente significativa: **a tristeza-penitência mascarada de humildade é arma das trevas, não virtude cristã** — convergência implícita com ESE cap. V e com o ensino kardequiano da resignação **ativa**, jamais passiva.
+O chefe se entristece, acredita-se "criminoso para sempre", recusa alimento e morre. A esposa e os filhos seguem o mesmo caminho em semanas. *"E assim o venenoso antagonista venceu os denodados colaboradores da crença e do amor, um a um, sem necessidade de outra arma que não fosse pequena sugestão de tristeza."* A advertência final é doutrinariamente significativa: **a tristeza-penitência mascarada de humildade é arma das trevas, não virtude cristã** — convergência implícita com ESE cap. V e com o ensino de Kardec da resignação **ativa**, jamais passiva.
 
 ### A regra de ajudar — manual prático (cap. 30)
 

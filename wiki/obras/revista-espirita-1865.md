@@ -116,7 +116,7 @@ A crise opera **como filtro**: separa espíritas sinceros dos "adeptos de nome",
 
 ### 4. Alocução de reabertura da SPEE (6 de outubro de 1865) — virada testamentária
 
-O discurso de reabertura do **8º ano social** (publicado em RE nov/1865) é o **texto institucional mais importante do volume** e marca uma **virada de tom** decisiva no projeto kardequiano. Kardec retorna ao trabalho da SPEE após retiro de verão *"no meio das montanhas"* e profere discurso em três tempos:
+O discurso de reabertura do **8º ano social** (publicado em RE nov/1865) é o **texto institucional mais importante do volume** e marca uma **virada de tom** decisiva no projeto de Kardec. Kardec retorna ao trabalho da SPEE após retiro de verão *"no meio das montanhas"* e profere discurso em três tempos:
 
 **a) Apreciação da crise Davenport como golpe favorável.** *"Um fato evidente ressalta da polêmica travada por ocasião dos irmãos Davenport: É a absoluta ignorância dos críticos em relação ao Espiritismo. [...] É um golpe de gravata cujo alcance não tardará a se fazer sentir."*
 

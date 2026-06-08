@@ -26,7 +26,7 @@ status: ativo
 
 **180 capítulos curtos** (1–3 parágrafos cada), precedidos de um proêmio "Interpretação dos Textos Sagrados" que abre com 2 Pedro 1.20 — *"nenhuma profecia da Escritura é de particular interpretação"* — fixando o registro hermenêutico da obra: leitura comunitária e coerente, não interpretação privada.
 
-Cada capítulo segue a mesma forma do Pentateuco kardequiano (versículo + comentário): epígrafe **predominantemente do Evangelho ou de Paulo** seguida de meditação aplicada ao cotidiano do discípulo. O título tomado de João 14.6 (*"Eu sou o caminho, a verdade e a vida"*) sinaliza que o foco organizador é a vida prática **em Cristo** mais que a sistematização doutrinária — função que Emmanuel já cumprira em [[wiki/obras/o-consolador]] (1940), em formato Q&A.
+Cada capítulo segue a mesma forma do Pentateuco de Kardec (versículo + comentário): epígrafe **predominantemente do Evangelho ou de Paulo** seguida de meditação aplicada ao cotidiano do discípulo. O título tomado de João 14.6 (*"Eu sou o caminho, a verdade e a vida"*) sinaliza que o foco organizador é a vida prática **em Cristo** mais que a sistematização doutrinária — função que Emmanuel já cumprira em [[wiki/obras/o-consolador]] (1940), em formato Q&A.
 
 É a **primeira de quatro coletâneas evangélicas** psicografadas por Chico nos moldes de comentário ao Evangelho:
 

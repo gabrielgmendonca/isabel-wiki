@@ -58,7 +58,7 @@ A obra abre com uma preleção magistral do Ministro **Flácus** sobre a naturez
 
 > "O inferno, por isto mesmo, é um problema de direção espiritual. Satã é a inteligência perversa. O mal é o desperdício do tempo." (cap. 1)
 
-A definição **alinha-se a C&I 1ª parte caps. III–VI** (inferno desmaterializado, refutação das penas eternas, demônios como Espíritos imperfeitos) e **a LE q. 234** (esferas dos Espíritos imperfeitos), sem qualquer divergência. O que André Luiz acrescenta é a **dimensão narrativa**: descreve as colônias como cidades organizadas, com governo, hierarquia e tecnologia psíquica — um desenvolvimento literário do princípio kardequiano.
+A definição **alinha-se a C&I 1ª parte caps. III–VI** (inferno desmaterializado, refutação das penas eternas, demônios como Espíritos imperfeitos) e **a LE q. 234** (esferas dos Espíritos imperfeitos), sem qualquer divergência. O que André Luiz acrescenta é a **dimensão narrativa**: descreve as colônias como cidades organizadas, com governo, hierarquia e tecnologia psíquica — um desenvolvimento literário do princípio de Kardec.
 
 Gúbio então explica que a missão exigirá descida ao umbral e socorro a uma jovem obsidiada. O cap. 3 ("Entendimento") fixa o princípio operacional: socorro espiritual é trabalho de imparcialidade — "todos os casos de desarmonia espiritual na Terra movem... extensa rede de servidores que passam a tratá-los, sem inclinações pessoais, em bases do amor que Jesus exemplificou".
 
@@ -80,7 +80,7 @@ O cap. 16 ("Encantamento pernicioso") inverte o foco para a própria Isaura: ter
 
 > "Isaura, no fundo, era senhora do próprio destino e... dispunha do direito de errar para melhor aprender — o mais acertado caminho de defesa da própria felicidade." (cap. 16)
 
-A lição estende ao limite o princípio kardequiano do livre-arbítrio (LE q. 843): **mesmo o socorro espiritual não pode coagir**.
+A lição estende ao limite o princípio de Kardec do livre-arbítrio (LE q. 843): **mesmo o socorro espiritual não pode coagir**.
 
 ### Bloco IV — O reencontro (cap. 20)
 

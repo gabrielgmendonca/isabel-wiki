@@ -39,7 +39,7 @@ A galeria mistura nomes-marco da literatura lusófona com autores menores (provi
 
 ### O argumento de identidade pelo estilo
 
-Eixo programático da 1ª edição. O prefácio editorial fixa a tese: a prova da sobrevivência espiritual está na **manutenção do timbre literário** de cada comunicante. Romantismo, Condoreirismo, Parnasianismo e Simbolismo "se ostentam em louçanias de sons e de cores, para afirmar não mais subjetiva, mas **objetivamente, a sobrevivência dos seus intérpretes**". O médium, "quase adolescente sem lastro de cultura poética", recebe os poemas "de jato, e mais — quando de alguns autores não conhece uma estrofe". Aplicação direta do critério kardequiano da [[wiki/conceitos/identidade-dos-espiritos|identidade dos Espíritos]] (LM cap. XXIV) — não a um espírito isolado, mas a um corpus de 55 vozes simultâneas.
+Eixo programático da 1ª edição. O prefácio editorial fixa a tese: a prova da sobrevivência espiritual está na **manutenção do timbre literário** de cada comunicante. Romantismo, Condoreirismo, Parnasianismo e Simbolismo "se ostentam em louçanias de sons e de cores, para afirmar não mais subjetiva, mas **objetivamente, a sobrevivência dos seus intérpretes**". O médium, "quase adolescente sem lastro de cultura poética", recebe os poemas "de jato, e mais — quando de alguns autores não conhece uma estrofe". Aplicação direta do critério de Kardec da [[wiki/conceitos/identidade-dos-espiritos|identidade dos Espíritos]] (LM cap. XXIV) — não a um espírito isolado, mas a um corpus de 55 vozes simultâneas.
 
 Concretude do critério visível em casos como **Augusto dos Anjos** (cap. 15): o poema de abertura ("Eu, Voz do Infinito") preserva o vocabulário científico-orgânico do *Eu* — "expressões orgânicas das formas", "embrião inicial", "atavismo revivendo", "cerebralidade putrescível", "molécula sofrendo afastada do Todo Universal" — agora **redirecionado para a confissão da concepção panteística como erro** e a abertura para a doutrina espírita. O estilo é o mesmo; a teologia, corrigida.
 
@@ -77,7 +77,7 @@ Peça didática: reencarnação como **inversão de papéis para reaprendizagem 
 
 ## Temas centrais
 
-- Identidade dos Espíritos comprovada pela manutenção do estilo literário (aplicação coletiva do critério kardequiano de LM cap. XXIV)
+- Identidade dos Espíritos comprovada pela manutenção do estilo literário (aplicação coletiva do critério de Kardec de LM cap. XXIV)
 - Continuidade da consciência e das tendências individuais no Além
 - Determinismo sensorial por Esfera (alinhamento com a teoria perispiritual)
 - Cristo como centro convergente de todas as vozes desencarnadas

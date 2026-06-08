@@ -17,7 +17,7 @@ Comentário psicológico-doutrinário ao *O Livro dos Espíritos*, psicografado 
 
 - **Autor espiritual:** Hammed
 - **Médium:** Francisco do Espírito Santo Neto
-- **Primeira edição:** 1998 (Catanduva-SP; "Nas celebrações da publicação do primeiro livro da Codificação Kardequiana, quando a Seara Espírita completa 141 anos de iluminação")
+- **Primeira edição:** 1998 (Catanduva-SP; "Nas celebrações da publicação do primeiro livro da Codificação de Kardec, quando a Seara Espírita completa 141 anos de iluminação")
 - **Edição referenciada:** 8ª edição, agosto/2000
 - **Editora:** Boa Nova — Editora e Distribuidora de Livros Espíritas (Catanduva-SP)
 - **Gênero:** comentário psicológico ao LE; reflexões morais articuladas com a psicologia contemporânea

@@ -25,7 +25,7 @@ status: ativo
 
 ## Cabeçalho
 
-Estudo de Mateus 13:24-30 à luz da Doutrina Espírita: o homem que semeia boa semente no campo enquanto o inimigo, durante o sono, semeia joio. O proprietário ordena o **crescimento simultâneo** de joio e trigo até a colheita, quando os ceifeiros os separarão. A leitura kardequiana identifica cada elemento e responde por que **o mal coexiste com o bem no planeta** — condição pedagógica do estado evolutivo da Terra.
+Estudo de Mateus 13:24-30 à luz da Doutrina Espírita: o homem que semeia boa semente no campo enquanto o inimigo, durante o sono, semeia joio. O proprietário ordena o **crescimento simultâneo** de joio e trigo até a colheita, quando os ceifeiros os separarão. A leitura de Kardec identifica cada elemento e responde por que **o mal coexiste com o bem no planeta** — condição pedagógica do estado evolutivo da Terra.
 
 ## Estrutura
 
@@ -52,7 +52,7 @@ O eixo mais distintivo da leitura espírita está na justificativa do **crescime
 
 > "Quando Jesus recomendou o crescimento simultâneo do joio e do trigo, não quis senão demonstrar a sublime tolerância terrestre no quadro das experiências da vida." (síntese de Carlos Mendonça, *Parábola do Joio e do Trigo*, EELDE)
 
-Não se trata de indiferença ao mal — trata-se de reconhecer que **arrancar o joio antes da hora arrancaria o trigo junto**. Em chave kardequiana: julgamento e separação prematuros violam a Lei de Justiça (LE q. 873-919) e supõem onisciência que o juiz humano não possui.
+Não se trata de indiferença ao mal — trata-se de reconhecer que **arrancar o joio antes da hora arrancaria o trigo junto**. À luz de Kardec: julgamento e separação prematuros violam a Lei de Justiça (LE q. 873-919) e supõem onisciência que o juiz humano não possui.
 
 ### Por que o mal coexiste com o bem
 

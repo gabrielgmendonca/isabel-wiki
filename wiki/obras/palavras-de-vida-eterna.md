@@ -25,7 +25,7 @@ status: ativo
 
 ## Estrutura
 
-**180 capítulos curtos numerados** (1–3 parágrafos cada), precedidos do proêmio "Ante o Divino Mestre" (Uberaba, 14/09/1964). Cada capítulo segue a forma do Pentateuco kardequiano (versículo + comentário): epígrafe extraída majoritariamente do Evangelho ou de uma epístola — com **forte primazia paulina** (Romanos, 1–2 Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1–2 Tessalonicenses, 1–2 Timóteo, Tito, Hebreus) — seguida de meditação aplicada ao cotidiano do discípulo.
+**180 capítulos curtos numerados** (1–3 parágrafos cada), precedidos do proêmio "Ante o Divino Mestre" (Uberaba, 14/09/1964). Cada capítulo segue a forma do Pentateuco de Kardec (versículo + comentário): epígrafe extraída majoritariamente do Evangelho ou de uma epístola — com **forte primazia paulina** (Romanos, 1–2 Coríntios, Gálatas, Efésios, Filipenses, Colossenses, 1–2 Tessalonicenses, 1–2 Timóteo, Tito, Hebreus) — seguida de meditação aplicada ao cotidiano do discípulo.
 
 O título vem de João 6.68, na resposta de Pedro a Jesus diante da deserção da multidão de Cafarnaum: *"Senhor, a quem iremos? Tu tens as palavras de vida eterna."* O proêmio, datado e explicitamente kardecista, invoca o Pentecostes (Atos 2.4 e 2.6) e declara: *"Estamos agrupados nestas páginas (…) procurando o sentido de teus ensinamentos com as chaves da Doutrina Espírita, que nos legaste pelas mãos de Allan Kardec."* Não há subdivisão temática explícita — os 180 capítulos avançam por associação livre, mas a leitura cumulativa faz emergir seis eixos doutrinários recorrentes.
 
@@ -39,7 +39,7 @@ Eixo formado pelos caps. 1 ("Recomecemos", sobre Mt 9.16 — *"ninguém põe rem
 
 > "A questão intrincada que te apoquenta agora, quase sempre, é o problema que abandonaste sem solução, entre os amigos que, em outro tempo, se rendiam, confiantes, ao teu arbítrio. O parente complicado que julgas carregar, por espírito de heroísmo, via de regra, é a mesma criatura que, em outra época, arrojaste ao desespero e à perturbação. (…) 'Necessário vos é nascer de novo' — disse-nos Jesus. Bendizendo, pois, a reencarnação, empenhemo-nos a trabalhar e aprender, de novo." (cap. 177)
 
-Articula-se em linha direta com [[wiki/conceitos/reencarnacao]], com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. V]] (*"Bem-aventurados os aflitos"*, da expiação como justiça) e com a leitura kardequiana de Jo 3.3-7 em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. IV]].
+Articula-se em linha direta com [[wiki/conceitos/reencarnacao]], com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. V]] (*"Bem-aventurados os aflitos"*, da expiação como justiça) e com a leitura de Kardec de Jo 3.3-7 em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. IV]].
 
 ### 2. Vencer o mal com o bem — não-violência ativa
 
@@ -71,7 +71,7 @@ Caps. 4 ("Amor e temor", sobre 1Jo 4.18 — *"o perfeito amor lança fora o temo
 
 > "O imperfeito amor, procurando o gozo próprio no concurso dos outros, é quase sempre o egoísmo em disfarce brilhante, buscando a si mesmo nas almas afins para atormentá-las sob múltiplas formas de temor, quais sejam a exigência e o ciúme, a crueldade e o desespero, acabando ele próprio no inferno da amargura e da frustração." (cap. 4)
 
-Articula-se com [[wiki/conceitos/caridade]] e com a recusa kardequiana do egoísmo como matriz do mal moral ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XI]]).
+Articula-se com [[wiki/conceitos/caridade]] e com a recusa de Kardec do egoísmo como matriz do mal moral ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE, cap. XI]]).
 
 ### 6. Espiritismo como continuidade hermenêutica do Evangelho
 
@@ -86,7 +86,7 @@ Ressoa diretamente o cap. 10 de [[wiki/obras/caminho-verdade-e-vida]] (Pentecost
 Além dos seis eixos acima, recorrências menores:
 
 - **Discernimento amoroso ao julgar** — caps. 35 ("Observemos amando", sobre Mt 7.3) e 179 ("Discernir e corrigir", sobre Mt 7.2). O olhar do Cristo sobre Madalena, Zaqueu, Pedro e Saulo é tomado como norma do julgamento fraterno: *"de modo geral, descobrimos nos outros somente aquilo que somos"*.
-- **Liberdade contra falsos sistemas** — cap. 58 ("Em honra da liberdade", sobre Cl 2.8). Paralelo direto da postura kardequiana do **livre exame** (1Ts 5.21) frente aos *"sofistas da Religião, falsários da Filosofia, paranoicos da Ciência"*.
+- **Liberdade contra falsos sistemas** — cap. 58 ("Em honra da liberdade", sobre Cl 2.8). Paralelo direto da postura de Kardec do **livre exame** (1Ts 5.21) frente aos *"sofistas da Religião, falsários da Filosofia, paranoicos da Ciência"*.
 - **Gratidão ante o sofrimento** — caps. 113 ("Agradeçamos sempre", sobre Ef 5.20), 117 ("Espera por Deus"). A provação relida como economia divina, sem masoquismo nem resignação inerte.
 - **Imitatio Christi diante da provação** — caps. 29 ("No estudo da salvação", sobre At 2.47 — *"salvar é (…) regenerar, instruir, educar e aperfeiçoar para a Vida Eterna"*), 36 ("Coração puro", sobre Jo 14.1), 64 ("Êxito", sobre Jo 15.7).
 - **Recomeço diante do mundo como bênção** — cap. 60 ("Terra, bênção divina", sobre Jo 3.16). Recusa da maledicência cósmica: o mundo é *"escola regenerativa e abrigo santo"*, não exílio nem prisão.

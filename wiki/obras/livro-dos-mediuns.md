@@ -12,7 +12,7 @@ status: ativo
 
 # O Livro dos Médiuns
 
-Segunda obra da codificação kardequiana e **guia prático do Espiritismo experimental**. Publicado em Paris em janeiro de 1861, complementa *O Livro dos Espíritos* com a teoria e a prática das manifestações espíritas e das comunicações mediúnicas.
+Segunda obra da codificação de Kardec e **guia prático do Espiritismo experimental**. Publicado em Paris em janeiro de 1861, complementa *O Livro dos Espíritos* com a teoria e a prática das manifestações espíritas e das comunicações mediúnicas.
 
 > "Espiritismo Experimental — Contendo o ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo." — subtítulo da obra.
 

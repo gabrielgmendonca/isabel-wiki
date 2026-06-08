@@ -82,7 +82,7 @@ A obra divide-se em **duas partes paralelas** (Parte I doutrinária e Parte II e
 
 ## Resumo geral
 
-André Luiz apresenta o **corpo espiritual** (psicossoma) como o veículo eletromagnético em que a alma se manifesta antes, durante e após a encarnação. A obra estende a doutrina kardequiana do perispírito ([[wiki/conceitos/perispirito]]) com uma anatomia detalhada — sete **centros vitais** ([[wiki/conceitos/centros-vitais]]) governando funções específicas — e correlaciona cada centro a estruturas fisiológicas reconhecíveis (glândula pineal, hipotálamo, plexos nervosos, glândulas endócrinas, gônadas).
+André Luiz apresenta o **corpo espiritual** (psicossoma) como o veículo eletromagnético em que a alma se manifesta antes, durante e após a encarnação. A obra estende a doutrina de Kardec do perispírito ([[wiki/conceitos/perispirito]]) com uma anatomia detalhada — sete **centros vitais** ([[wiki/conceitos/centros-vitais]]) governando funções específicas — e correlaciona cada centro a estruturas fisiológicas reconhecíveis (glândula pineal, hipotálamo, plexos nervosos, glândulas endócrinas, gônadas).
 
 A Parte I, expositiva, percorre a evolução do princípio inteligente desde o fluido cósmico ([[wiki/conceitos/fluido-cosmico-universal]]) até o homem responsável; a Parte II, em Q&A nos moldes do Pentateuco, responde a perguntas práticas sobre vida no plano espiritual, sexualidade, mediunidade e patologias da alma. Os textos foram psicografados ao longo de 1958, em Pedro Leopoldo e Uberaba, no período de transição de Chico para a Comunhão Espírita Cristã.
 
@@ -114,7 +114,7 @@ A obra desenvolve uma **mecânica fluídica da obsessão** análoga ao parasitis
 
 > "O obsessor passa a viver no clima pessoal da vítima, em perfeita simbiose mórbida, absorvendo-lhe as forças psíquicas." (parte I, cap. 15)
 
-A obra detalha o circuito anatômico: o vampirizador "senhoreia os neurônios do hipotálamo, acentuando a própria dominação sobre o feixe amielínico que o liga ao córtex frontal", controlando o centro coronário. Estende-se assim, com roupagem neurofisiológica, a doutrina kardequiana da obsessão (LM, 2ª parte, cap. XXIII). Ver [[wiki/conceitos/vampirismo-espiritual]] e [[wiki/conceitos/obsessao]].
+A obra detalha o circuito anatômico: o vampirizador "senhoreia os neurônios do hipotálamo, acentuando a própria dominação sobre o feixe amielínico que o liga ao córtex frontal", controlando o centro coronário. Estende-se assim, com roupagem neurofisiológica, a doutrina de Kardec da obsessão (LM, 2ª parte, cap. XXIII). Ver [[wiki/conceitos/vampirismo-espiritual]] e [[wiki/conceitos/obsessao]].
 
 ### Sexualidade, matrimônio e aborto (Parte II, caps. 6, 8, 13–16, 18)
 
@@ -139,11 +139,11 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 
 ## Conceitos tratados
 
-- [[wiki/conceitos/perispirito]] — base kardequiana do corpo espiritual; psicossoma como nomenclatura ampliada
+- [[wiki/conceitos/perispirito]] — base de Kardec do corpo espiritual; psicossoma como nomenclatura ampliada
 - [[wiki/conceitos/centros-vitais]] — anatomia funcional do psicossoma (extensão de André Luiz)
 - [[wiki/conceitos/fluido-cosmico-universal]] — plasma divino na linguagem da obra
 - [[wiki/conceitos/vampirismo-espiritual]] — patologia simbiótica da obsessão
-- [[wiki/conceitos/obsessao]] — quadro doutrinário kardequiano
+- [[wiki/conceitos/obsessao]] — quadro doutrinário de Kardec
 - [[wiki/conceitos/mediunidade]] — faculdades reorganizadas como funções dos centros vitais
 - [[wiki/conceitos/reencarnacao]] — recapitulação corpórea e moldes mentais preexistentes
 - [[wiki/conceitos/raca-adamica]] — Espíritos exilados de outro sistema cósmico
@@ -156,7 +156,7 @@ O capítulo de fechamento apresenta a história das religiões como educação p
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/waldo-vieira]] — médium coautor
 - [[wiki/personalidades/jesus]] — princípio do amor inaugurado na Terra
-- [[wiki/personalidades/allan-kardec]] — referência terminológica ("perispírito da definição kardequiana", parte I, cap. 15)
+- [[wiki/personalidades/allan-kardec]] — referência terminológica ("perispírito da definição de Kardec", parte I, cap. 15)
 
 ## Aprofundamentos
 

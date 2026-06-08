@@ -13,7 +13,7 @@ status: ativo
 
 # O Céu e o Inferno ou A Justiça Divina Segundo o Espiritismo
 
-Quarta obra do Pentateuco kardequiano, publicada em Paris em agosto de 1865 (4ª edição, definitiva, em 1869). Examina comparativamente as doutrinas sobre o céu, o inferno, os anjos, os demônios e as penas futuras — refutando a eternidade dos castigos — e apresenta dezenas de relatos de Espíritos evocados como demonstração empírica dos princípios expostos.
+Quarta obra do Pentateuco de Kardec, publicada em Paris em agosto de 1865 (4ª edição, definitiva, em 1869). Examina comparativamente as doutrinas sobre o céu, o inferno, os anjos, os demônios e as penas futuras — refutando a eternidade dos castigos — e apresenta dezenas de relatos de Espíritos evocados como demonstração empírica dos princípios expostos.
 
 > "Por mim mesmo juro — disse o Senhor Deus — que não quero a morte do ímpio, senão que ele se converta, que deixe o mau caminho e que viva." (Ezequiel, 33:11) — epígrafe da obra.
 

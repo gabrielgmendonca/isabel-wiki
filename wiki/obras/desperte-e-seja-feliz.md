@@ -131,10 +131,10 @@ Releitura terapêutica de [[wiki/conceitos/planejamento-reencarnatorio]] e da es
 
 Nenhuma divergência estrutural identificada. Pontos sensíveis avaliados como **desdobramentos**, não divergências:
 
-- **Crítica à "Divindade punitiva"** (cap. 20) — alinhada à doutrina kardequiana das penas como pedagógicas (LE, q. 1009-1010; ESE, cap. VIII; C&I, 1ª parte, caps. VI-VII).
+- **Crítica à "Divindade punitiva"** (cap. 20) — alinhada à doutrina de Kardec das penas como pedagógicas (LE, q. 1009-1010; ESE, cap. VIII; C&I, 1ª parte, caps. VI-VII).
 - **Releitura do perdão como "esquecimento providencial"** (cap. 19) — alinhada a [[wiki/personalidades/empregado-domestico|C&I 2ª parte cap. VIII]] e ESE cap. X (Bem-aventurados os que perdoam). Joanna explicita que "o verdadeiro perdão somente é possível quando ocorre o olvido pleno ao mal", em sentido pastoral, não revisionista.
 - **Amorterapia** — estende, não contradiz, a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] (LE, q. 873-919) e ESE cap. XI (item 9 — amar os inimigos).
-- **Crítica à encomenda de preces** (cap. 27) — alinhada à doutrina kardequiana da prece como ato pessoal (ESE cap. XXVII), não como transação remunerada.
+- **Crítica à encomenda de preces** (cap. 27) — alinhada à doutrina de Kardec da prece como ato pessoal (ESE cap. XXVII), não como transação remunerada.
 
 ## Fontes
 

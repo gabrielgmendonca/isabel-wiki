@@ -24,7 +24,7 @@ status: ativo
 
 ## Estrutura
 
-Terceira obra da série Emmanuel/Chico Xavier (após *Há Dois Mil Anos…* e *Cinquenta Anos Depois*), construída em **412 perguntas e respostas** nos moldes do Pentateuco kardequiano. A obra é dividida em três grandes partes:
+Terceira obra da série Emmanuel/Chico Xavier (após *Há Dois Mil Anos…* e *Cinquenta Anos Depois*), construída em **412 perguntas e respostas** nos moldes do Pentateuco de Kardec. A obra é dividida em três grandes partes:
 
 | Parte | Eixo | Descrição |
 |-------|------|-----------|
@@ -52,7 +52,7 @@ A razão sem o sentimento é "fria e implacável como os números". A fé sem a 
 
 ### Caridade material vs. caridade espiritual
 
-A divisa kardequiana *"fora da caridade não há salvação"* é reafirmada (q. 253), mas Emmanuel refina: **a caridade material só alcança feição divina quando colima a espiritualização do homem**. A crítica recai sobre as obras tangíveis da Igreja Romana (asilos, orfanatos, templos suntuosos) cuja eficácia se esvaziou pela ausência de cristianização das consciências. O eixo educativo dos espiritistas é **a iluminação interior**, da qual emerge naturalmente o lar cristão como asilo dos que sofrem. Ver [[wiki/conceitos/caridade]].
+A divisa de Kardec *"fora da caridade não há salvação"* é reafirmada (q. 253), mas Emmanuel refina: **a caridade material só alcança feição divina quando colima a espiritualização do homem**. A crítica recai sobre as obras tangíveis da Igreja Romana (asilos, orfanatos, templos suntuosos) cuja eficácia se esvaziou pela ausência de cristianização das consciências. O eixo educativo dos espiritistas é **a iluminação interior**, da qual emerge naturalmente o lar cristão como asilo dos que sofrem. Ver [[wiki/conceitos/caridade]].
 
 ### Sociologia espírita (q. 54 da Parte I)
 

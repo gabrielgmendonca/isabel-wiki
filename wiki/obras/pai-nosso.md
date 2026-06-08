@@ -31,7 +31,7 @@ Oito capítulos, cada um dedicado a uma petição da **oração dominical** (o P
 3. **Máximas numeradas** — uma série de sentenças-resumo;
 4. **Quadra final** — estrofe em verso que sintetiza o capítulo.
 
-A obra é destinada a crianças, mas sustenta-se em chave plenamente kardequiana: cada petição reproduz, em linguagem infantil, a leitura que **Kardec fixa no comentário ao Pai-Nosso** (ESE, cap. XXVIII, item 3, "Oração dominical"). É **obra-irmã de título** com [[wiki/obras/pao-nosso|Pão Nosso]] (Emmanuel/Chico, 1950), que toma a 4ª petição ("o pão nosso de cada dia") como organizador semântico — aqui a oração inteira é o eixo.
+A obra é destinada a crianças, mas sustenta-se em chave plenamente de Kardec: cada petição reproduz, em linguagem infantil, a leitura que **Kardec fixa no comentário ao Pai-Nosso** (ESE, cap. XXVIII, item 3, "Oração dominical"). É **obra-irmã de título** com [[wiki/obras/pao-nosso|Pão Nosso]] (Emmanuel/Chico, 1950), que toma a 4ª petição ("o pão nosso de cada dia") como organizador semântico — aqui a oração inteira é o eixo.
 
 > [!note] Gênero: alegoria didática, não cosmologia literal
 > Vários contos antropomorfizam a natureza — animais que "combinam" santificar o nome de Deus produzindo diamantes, leite, mel e seda (cap. 2); a primeira árvore que recebe a "recomendação" de alimentar o homem (cap. 5); o morcego que bate as asas como dois braços para deter o trem (cap. 8). São **fábulas pedagógicas para crianças** ("Conta-se que…", "Dizem que…"), recurso literário a serviço da lição moral — não afirmações sobre a evolução das espécies ou a criação. A doutrina da obra está nas máximas e no comentário, não na letra das fábulas, e não conflita com a [[wiki/conceitos/pluralidade-dos-mundos-habitados|cosmologia espírita]].

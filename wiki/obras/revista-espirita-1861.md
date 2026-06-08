@@ -139,7 +139,7 @@ Cinzas foram enviadas a Kardec, que conserva fragmento meio queimado do LE *"com
 
 **b) Manifestação espontânea pós-morte.** *"Depois de sua morte, o Sr. Jobard fez pouco caso de certas teorias científicas que havia sustentado em vida"*. As conversas com seu Espírito iniciam em nov/1861 e desenvolvem-se em jan/1862. Material que entra integralmente em [[wiki/obras/ceu-e-inferno|C&I]], 2ª parte, cap. II.
 
-O caso é exemplar do princípio kardequiano de que o controle universal corrige tanto o ensino dos Espíritos quanto o dos encarnados: Jobard em vida defendeu duas teorias que a observação subsequente desmentiu, e ele próprio reconheceu o engano antes da morte. *"A obstinação nas ideias falsas jamais foi tida como prova de bom-senso. [...] O Sr. Jobard provou que era ao mesmo tempo homem de senso e de espírito, ao abjurar sem hesitação suas primeiras teorias sobre o Espiritismo, ao ser-lhe demonstrado que não estava certo."*
+O caso é exemplar do princípio de Kardec de que o controle universal corrige tanto o ensino dos Espíritos quanto o dos encarnados: Jobard em vida defendeu duas teorias que a observação subsequente desmentiu, e ele próprio reconheceu o engano antes da morte. *"A obstinação nas ideias falsas jamais foi tida como prova de bom-senso. [...] O Sr. Jobard provou que era ao mesmo tempo homem de senso e de espírito, ao abjurar sem hesitação suas primeiras teorias sobre o Espiritismo, ao ser-lhe demonstrado que não estava certo."*
 
 ### 8. "Ensaio sobre a teoria da alucinação" (jul/1861) — separação metodológica
 
@@ -151,7 +151,7 @@ A teoria preserva o materialismo médico no que ele tem de razoável (impressõe
 
 ### 9. "Suicídio de um ateu" (fev/1861) — o argumento existencial
 
-A evocação do Sr. J.B.D… (homem instruído, materialista, afogado voluntariamente dois anos antes) é caso-modelo do tratamento kardequiano do suicídio. O diálogo é abrupto e violento — *"O Espírito escreve com extrema dificuldade. A letra é grande, irregular, convulsa e quase ilegível. De início denota cólera, quebra o lápis e rasga o papel"*. Os pontos doutrinários:
+A evocação do Sr. J.B.D… (homem instruído, materialista, afogado voluntariamente dois anos antes) é caso-modelo do tratamento de Kardec do suicídio. O diálogo é abrupto e violento — *"O Espírito escreve com extrema dificuldade. A letra é grande, irregular, convulsa e quase ilegível. De início denota cólera, quebra o lápis e rasga o papel"*. Os pontos doutrinários:
 
 > *"— Tédio da vida sem esperança."*
 > *"— Por que o nada não existe?!"*

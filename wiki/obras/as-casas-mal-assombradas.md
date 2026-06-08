@@ -103,7 +103,7 @@ O capítulo de síntese é doutrinariamente o mais maduro. Flammarion, em diálo
 
 Barrett compara o *sujet* ao **núcleo** que cristaliza uma solução supersaturada: o foco humano é necessário, mas a causa inteligente é externa — *"a origem dos fenômenos de poltergeist poder-se-ia atribuir à ação de umas tantas inteligências invisíveis, quiçá perversas, quiçá rudimentares."*
 
-**Convergência com Kardec.** É a distinção kardequiana, em LM, entre a **força anímica do médium** (que nunca é canal puro) e a **ação do Espírito externo** — e a doutrina de que muitos perturbadores são Espíritos atrasados ou turbulentos. Ver [[wiki/conceitos/animismo]].
+**Convergência com Kardec.** É a distinção de Kardec, em LM, entre a **força anímica do médium** (que nunca é canal puro) e a **ação do Espírito externo** — e a doutrina de que muitos perturbadores são Espíritos atrasados ou turbulentos. Ver [[wiki/conceitos/animismo]].
 
 ### 5. O "quinto elemento" e "o Universo é um dinamismo" (cap. XIII)
 
@@ -121,7 +121,7 @@ O Epílogo narra o **relatório de Lavoisier à Academia das Ciências (1769)**:
 
 ## Divergências com Kardec
 
-Três callouts inline + uma nota factual sobre o tradutor. Nenhuma é estrutural a ponto de gerar página própria em [[wiki/divergencias]] — a primeira é duplicação aguda de divergência já flaggada em *Urânia*, *Estela* e *O Fim do Mundo*; as demais são pontuais e resolvíveis com leitura kardequiana clara.
+Três callouts inline + uma nota factual sobre o tradutor. Nenhuma é estrutural a ponto de gerar página própria em [[wiki/divergencias]] — a primeira é duplicação aguda de divergência já flaggada em *Urânia*, *Estela* e *O Fim do Mundo*; as demais são pontuais e resolvíveis com leitura de Kardec clara.
 
 > [!warning] "O Espiritismo não é religião, é ciência" — mesma divergência "religião da Ciência" das obras irmãs
 > No cap. XIII Flammarion repete a fórmula do seu discurso de 1869 no túmulo de Kardec: *"já em 1869, no discurso por mim pronunciado no enterro de Allan Kardec, adverti que o Espiritismo não deve ser considerado como religião e, sim, como ciência a estudar"*. No Epílogo, arrola entre os incapazes de julgar os fenômenos *"os ingênuos [...] que fazem do Espiritismo uma crença cega, uma religião"*. É a **mesma divergência** já tratada em [[wiki/obras/urania#divergencias-com-kardec|*Urânia*]] (aforismo 19 de Spero), [[wiki/obras/estela#divergencias-com-kardec|*Estela*]] (cap. XXXV, "religião da Ciência") e [[wiki/obras/o-fim-do-mundo#divergencias-com-kardec|*O Fim do Mundo*]] (Jesus equiparado a Júpiter/Maomé). Kardec sustenta que o Espiritismo tem **tríplice aspecto** — ciência, filosofia e *consequência religiosa* (não culto externo, mas vínculo moral): *"O Espiritismo realiza o que Jesus disse do Consolador prometido: conhecimento das coisas, fazendo que o homem saiba donde vem, para onde vai e por que está na Terra"* (ESE, Introdução; cap. I). **Notável:** a própria fonte traz a correção — a **nota 61 do tradutor FEB** anota que Flammarion *"alude à religião no sentido de culto externo [...], visto como sendo o Espiritismo revelado base da existência de Deus e da imortalidade da alma [...] não pode filosoficamente deixar de ser religioso, na verdadeira acepção da palavra"*. Recomendação: o leitor aceita o método e o acervo de casos, e lê "ciência, não religião" como recusa do **dogmatismo/culto**, não negação do aspecto moral-religioso fixado por Kardec.
@@ -139,7 +139,7 @@ Três callouts inline + uma nota factual sobre o tradutor. Nenhuma é estrutural
 
 - [[wiki/conceitos/prova-experimental-da-sobrevivencia]] — eixo central; escada de hipóteses, cálculo de probabilidades de Laplace, prova científica × prova doutrinária.
 - [[wiki/conceitos/casas-mal-assombradas]] — fenômenos físicos espontâneos ligados a um local; objetivos × subjetivos; reconhecimento jurídico.
-- [[wiki/conceitos/manifestacoes-espiritas]] — quadro kardequiano das manifestações físicas espontâneas (LM, 2ª parte, cap. V).
+- [[wiki/conceitos/manifestacoes-espiritas]] — quadro de Kardec das manifestações físicas espontâneas (LM, 2ª parte, cap. V).
 - [[wiki/conceitos/animismo]] — o "dinamógeno" de Flammarion, o *sujet* como núcleo (Barrett), faculdades humanas que cooperam mas não bastam.
 - [[wiki/conceitos/onda-mental]] — telepatia e "corrente psíquica" como irradiação fluídica.
 - [[wiki/conceitos/perispirito]] — substrato da corrente psíquica e das aparições.
@@ -160,7 +160,7 @@ Personagens **históricos tangenciais** (não geram página): Alexandre Aksakof 
 - **Para palestra sobre "casas assombradas" e o medo do invisível**: o cap. X (classificação objetivo/subjetivo) desmistifica o fenômeno; articular com LM 2ª parte cap. V e o caso do [[wiki/personalidades/jeannet-trapeiro|trapeiro da Rua des Noyers]] — a leitura espírita substitui o terror pela compreensão e pela prece. Ver [[wiki/conceitos/casas-mal-assombradas]].
 - **Para estudo sobre animismo × mediunidade**: o cap. XIII (o "dinamógeno", Aksakof, Barrett) lê-se lado a lado com [[wiki/conceitos/animismo]] e a advertência de André Luiz contra o "Cérbero animista".
 - **Para a epistemologia espírita**: o Epílogo (Lavoisier/aerólitos) é apólogo histórico pronto para ilustrar *"nada negar a priori, nada afirmar sem provas"* — convergente com (Gênese, cap. I).
-- **Cuidado especial com**: (a) a fórmula "Espiritismo não é religião, é ciência" — apresentar com a correção da nota 61 do tradutor e o tríplice aspecto kardequiano; (b) a dúvida sobre a consciência da imortalidade — corrigir com LE q. 134–141; (c) o "quinto elemento"/"alma do mundo" — distinguir Deus / Espírito / fluido cósmico (Gênese X–XIV); (d) a nota 43 do tradutor (elementais teosóficos) — nomear como interpolação fora de escopo.
+- **Cuidado especial com**: (a) a fórmula "Espiritismo não é religião, é ciência" — apresentar com a correção da nota 61 do tradutor e o tríplice aspecto de Kardec; (b) a dúvida sobre a consciência da imortalidade — corrigir com LE q. 134–141; (c) o "quinto elemento"/"alma do mundo" — distinguir Deus / Espírito / fluido cósmico (Gênese X–XIV); (d) a nota 43 do tradutor (elementais teosóficos) — nomear como interpolação fora de escopo.
 
 ## Páginas relacionadas
 

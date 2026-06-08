@@ -81,7 +81,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 - **1 — Jesus e Desafios**: o progresso do Espírito como série de desafios à resistência; "lei de entropia" como paralelo cósmico do esforço moral.
 - **5 — Jesus e Tolerância**: psicologia do julgamento como projeção da própria sombra; *"tem compaixão de quem cai. A consciência dele será o seu juiz."*
 - **7 — Jesus e Justiça**: tratamento equânime — Nicodemos, Zaqueu, Lázaro, ladrão na cruz, fariseus, saduceus, todos sob o mesmo regime; resposta a [[wiki/personalidades/poncio-pilatos|Pilatos]] sobre o "verdadeiro poder".
-- **9 — Jesus e Alegria**: combate à tristeza como morbo; Getsêmani como única vez em que Jesus *"deixou-se vestir de tristeza"* — e por piedade dos discípulos invigilantes. Diagnóstico kardequiano: tristeza pode ter origem em (a) reminiscências espirituais ou (b) obsessão.
+- **9 — Jesus e Alegria**: combate à tristeza como morbo; Getsêmani como única vez em que Jesus *"deixou-se vestir de tristeza"* — e por piedade dos discípulos invigilantes. Diagnóstico de Kardec: tristeza pode ter origem em (a) reminiscências espirituais ou (b) obsessão.
 - **10 — Jesus e Coragem**: contra o crime disfarçado de legalidade, a arrogância mascarada de humildade, a hipocrisia disfarçada de honestidade. *"Coragem é conquista que difere muito da temeridade."*
 - **14 — Jesus e Posses**: o jovem rico (Mt 19,16-22) — *"o moço era rico e gozador, mas não era feliz, pois que lhe faltava algo: a solidariedade"*. Doutrina da mordomia: *"sabe que é mordomo transitório e não dono permanente"*.
 - **17 — Jesus e Insegurança**: o "sermão profético" (Mc 13). *"Aquele que perseverar até o fim, será salvo"* — salvação como estado de consciência tranquila pelo autodescobrimento. Não há receita salvacionista; há amadurecimento por esforço constante.
@@ -122,7 +122,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 
 **Nenhuma divergência estrutural identificada com o Pentateuco.** A obra:
 
-- Reafirma a reencarnação alinhada com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. IV (releitura kardequiana de Jo 3,3 — "Ninguém pode ver o reino de Deus se não nascer de novo").
+- Reafirma a reencarnação alinhada com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. IV (releitura de Kardec de Jo 3,3 — "Ninguém pode ver o reino de Deus se não nascer de novo").
 - Atribui os tormentos à lei de causa-e-efeito, em harmonia com [[wiki/obras/livro-dos-espiritos|LE]] q. 132ss.
 - Lê Mt 19,16-22 (jovem rico) em harmonia com ESE cap. XVI (Não se pode servir a Deus e a Mamon).
 - Apresenta Jesus como pacificador, não como pacifista ingênuo (caps. 5, 7, 13) — bate com Kardec.

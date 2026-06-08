@@ -40,7 +40,7 @@ A obra rompe com a leitura ingênua da gratidão como retribuição mercadológi
 
 A continuidade com a Série é nítida: o aparato junguiano sombra/eixo ego-Self/anima-animus/persona/individuação/numinoso, consolidado em vols. 11 (*[[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda|Jesus e o Evangelho à Luz da Psicologia Profunda]]*) e 15 (*[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]*), é **reaplicado especificamente à gratidão**. **Aporte distintivo deste vol. 16:** a gratidão é tratada como o **caminho privilegiado** para a [[wiki/conceitos/individuacao|individuação]] (cap. 11) — *"a gratidão é, portanto, um momento de individuação, quando o ser humano recorda o passado com alegria, considerando os trechos do caminho mais difíceis que foram vencidos"*.
 
-A ancoragem evangélica é direta: **Jesus como "Homem-luz, único ser que não tinha o lado sombra, maior exemplo de maturidade psicológica"** (cap. 3) — vida dedicada à gratidão pelo amor, perdão, misericórdia e compaixão. A ancoragem kardequiana opera por três vias: (a) citação literal de **Santo Agostinho via [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIV, item 9** (mensagem de 1862, sobre as provas como bênção — cap. 2); (b) reconhecimento de [[wiki/personalidades/allan-kardec|Allan Kardec]] como sistematizador das **dez leis morais que estabelecem "a psicologia da dignidade humana"** (cap. 9), comparando o esquema kardequiano à individuação junguiana; (c) homenagem explícita a *O Livro dos Médiuns* no cap. 11 (sesquicentenário 1861-2011), com Kardec descrito como o "preclaro estudioso dos fenômenos da vida e da imortalidade".
+A ancoragem evangélica é direta: **Jesus como "Homem-luz, único ser que não tinha o lado sombra, maior exemplo de maturidade psicológica"** (cap. 3) — vida dedicada à gratidão pelo amor, perdão, misericórdia e compaixão. A ancoragem de Kardec opera por três vias: (a) citação literal de **Santo Agostinho via [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIV, item 9** (mensagem de 1862, sobre as provas como bênção — cap. 2); (b) reconhecimento de [[wiki/personalidades/allan-kardec|Allan Kardec]] como sistematizador das **dez leis morais que estabelecem "a psicologia da dignidade humana"** (cap. 9), comparando o esquema de Kardec à individuação junguiana; (c) homenagem explícita a *O Livro dos Médiuns* no cap. 11 (sesquicentenário 1861-2011), com Kardec descrito como o "preclaro estudioso dos fenômenos da vida e da imortalidade".
 
 ## Estrutura por capítulo
 
@@ -82,7 +82,7 @@ Abertura com o **mito de Perseu** — modelo padrão da Série de iniciar pela n
 
 ### 9 — A psicologia da dignidade
 
-*Aquisição da dignidade humana · Heranças perturbadoras · Dignidade e gratidão.* Capítulo-articulador entre Psicologia e Doutrina. Crítica ao fatalismo genético em favor do Self responsável (procedência espiritual). Cita **C.S. Lewis** (Oxford, séc. XIX) que detectou a **lei moral** *"evitando a designação de Deus, que desagradava os cientistas de então"*. **Aporte explícito sobre Kardec**: *"Allan Kardec, o preclaro estudioso dos fenômenos da vida e da imortalidade, por sua vez detectou a lei natural, que é a lei de amor, defluente de Deus, e apresentou um complexo e completo esquema sobre as dez leis morais que dela se derivam, abarcando tudo quanto se faz necessário para o estabelecimento da psicologia da dignidade humana, do comportamento correto. O esquema kardequiano inicia-se com a análise Da lei divina ou natural e termina no capítulo Da lei de justiça, de amor e de caridade, para deter-se num estudo pleno a respeito Da perfeição moral, que antecede os valiosos esforços da Psicologia junguiana, estabelecendo como o instante pleno da vida aquele que diz respeito à individuação, ao estado numinoso."* **Pirâmide de Maslow** + **Frankl** (significado existencial) integrados ao esquema. Inclui a parábola contemporânea do **motorista de táxi e a maleta esquecida** — diagnóstico clínico da ingratidão como ferida moral.
+*Aquisição da dignidade humana · Heranças perturbadoras · Dignidade e gratidão.* Capítulo-articulador entre Psicologia e Doutrina. Crítica ao fatalismo genético em favor do Self responsável (procedência espiritual). Cita **C.S. Lewis** (Oxford, séc. XIX) que detectou a **lei moral** *"evitando a designação de Deus, que desagradava os cientistas de então"*. **Aporte explícito sobre Kardec**: *"Allan Kardec, o preclaro estudioso dos fenômenos da vida e da imortalidade, por sua vez detectou a lei natural, que é a lei de amor, defluente de Deus, e apresentou um complexo e completo esquema sobre as dez leis morais que dela se derivam, abarcando tudo quanto se faz necessário para o estabelecimento da psicologia da dignidade humana, do comportamento correto. O esquema de Kardec inicia-se com a análise Da lei divina ou natural e termina no capítulo Da lei de justiça, de amor e de caridade, para deter-se num estudo pleno a respeito Da perfeição moral, que antecede os valiosos esforços da Psicologia junguiana, estabelecendo como o instante pleno da vida aquele que diz respeito à individuação, ao estado numinoso."* **Pirâmide de Maslow** + **Frankl** (significado existencial) integrados ao esquema. Inclui a parábola contemporânea do **motorista de táxi e a maleta esquecida** — diagnóstico clínico da ingratidão como ferida moral.
 
 ### 10 — Técnicas da gratidão
 
@@ -104,7 +104,7 @@ Encerra com a parábola moderna do **carneiro e o menino em Boston** — Eduardo
 4. **Jesus como Homem-luz sem sombra** — modelo absoluto de maturidade psicológica e vida dedicada à gratidão.
 5. **Paulo** como modelo apostólico operacional (Cl 3:16; 2Co; Fp 4:11-13 implícito) — gratidão idêntica em alegria e sofrimento.
 6. Ancoragem direta em ESE cap. XIV, item 9 (Santo Agostinho 1862) — provas como bênção.
-7. **As dez leis morais kardequianas como "psicologia da dignidade humana"** — equivalência operacional explícita com o esquema junguiano da individuação.
+7. **As dez leis morais de Kardec como "psicologia da dignidade humana"** — equivalência operacional explícita com o esquema junguiano da individuação.
 8. **Gratidão como caminho para a individuação** — aporte distintivo do volume sobre Reino dos Céus, *sukha* e estado numinoso.
 9. Volume publicado em **homenagem ao sesquicentenário de O Livro dos Médiuns** (1861-2011), com Kardec lido como pesquisador empírico dos fenômenos paranormais.
 
@@ -115,7 +115,7 @@ Encerra com a parábola moderna do **carneiro e o menino em Boston** — Eduardo
 - [[wiki/conceitos/numinoso]] — estado pleno do Self gratulatório.
 - [[wiki/conceitos/contentamento]] — virtude irmã, articulada via Paulo (Fp 4:11-13).
 - [[wiki/conceitos/leis-morais/lei-de-adoracao]] — gratidão como dimensão da Lei de Adoração (LE q. 660-663).
-- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — referenciada explicitamente no cap. 9 como ápice do esquema kardequiano.
+- [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — referenciada explicitamente no cap. 9 como ápice do esquema de Kardec.
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — ancoragem ética da gratidão pelas adversidades (cap. 6).
 - [[wiki/conceitos/leis-morais/lei-do-progresso]] — citada literalmente no cap. 9 e cap. 11 como impulsionadora do Espírito.
 - [[wiki/conceitos/egoismo]] — diagnosticado no cap. 5 como predomínio que bloqueia a gratidão.
@@ -169,11 +169,11 @@ Encerra com a parábola moderna do **carneiro e o menino em Boston** — Eduardo
 **Nenhuma divergência estrutural com Kardec identificada.** A obra opera no registro de **aprofundamento psicológico** sobre temas já fixados pelo Pentateuco. Pontos sensíveis investigados:
 
 - **Confúcio "Aja com bondade, mas não espere gratidão"** (cap. 3) — convergente com a renúncia à expectativa retributiva ensinada por Jesus em Mt 6:1-4 e [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIII.
-- **Crítica ao Concílio de Niceia (325) por excluir o Livro de Enoque** (cap. 5) — não-doutrinal; alinha com a posição kardequiana de que cânones eclesiásticos posteriores não fixam autoridade sobre a Doutrina dos Espíritos.
+- **Crítica ao Concílio de Niceia (325) por excluir o Livro de Enoque** (cap. 5) — não-doutrinal; alinha com a posição de Kardec de que cânones eclesiásticos posteriores não fixam autoridade sobre a Doutrina dos Espíritos.
 - **Reencarnação como psicoterapia divina** (caps. 6, 11) — alinhada com [[wiki/obras/livro-dos-espiritos|LE]] q. 132+ e [[wiki/conceitos/reencarnacao]].
 - **Equivalência operacional Self ≈ princípio inteligente** (cap. 11) — mesma posição já fixada em *[[wiki/obras/em-busca-da-verdade|Em Busca da Verdade]]* via citação literal de LE q. 540; não há identificação ontológica entre Self e Deus.
-- **Aparato junguiano** (sombra/anima-animus/persona/individuação) usado **operacionalmente**, sem trair o tripé Espírito-perispírito-corpo nem a hierarquia kardequiana.
-- **Citação direta de Santo Agostinho via ESE cap. XIV item 9** (cap. 2) — ancoragem kardequiana explícita.
+- **Aparato junguiano** (sombra/anima-animus/persona/individuação) usado **operacionalmente**, sem trair o tripé Espírito-perispírito-corpo nem a hierarquia de Kardec.
+- **Citação direta de Santo Agostinho via ESE cap. XIV item 9** (cap. 2) — ancoragem de Kardec explícita.
 
 ## Fontes
 

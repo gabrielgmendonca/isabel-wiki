@@ -25,7 +25,7 @@ status: ativo
 
 ## Estrutura
 
-**180 capítulos curtos** (1–3 parágrafos cada) precedidos de um prólogo sem numeração — *"Brilhe vossa luz"* (Mateus 5.16) — datado de Pedro Leopoldo, 25 de novembro de 1951. Cada capítulo segue a forma do Pentateuco kardequiano (versículo + comentário): epígrafe evangélica ou apostólica seguida de meditação aplicada ao discípulo.
+**180 capítulos curtos** (1–3 parágrafos cada) precedidos de um prólogo sem numeração — *"Brilhe vossa luz"* (Mateus 5.16) — datado de Pedro Leopoldo, 25 de novembro de 1951. Cada capítulo segue a forma do Pentateuco de Kardec (versículo + comentário): epígrafe evangélica ou apostólica seguida de meditação aplicada ao discípulo.
 
 O título toma a metáfora joanina/sinóptica da **vinha** (Jo 15; parábola dos trabalhadores em Mt 20) cruzada com o imperativo de Mt 5.16 evocado no prólogo: a vinha do Senhor em que o discípulo trabalha é também o lugar onde a luz que recebeu deve **brilhar** — donde o título *Vinha de Luz*.
 
@@ -68,7 +68,7 @@ Cap. 2 *Vê como vives* (Lc 19.13 — *"negociai até que eu venha"*) é o prime
 
 > "O comerciante está em negócios de suprimento e de fraternidade. O administrador permanece em negócios de orientação, distribuição e responsabilidade. O servidor foi trazido a negócios de obediência e edificação. As mães e os pais terrestres foram convocados a negócios de renúncia, exemplificação e devotamento. O carpinteiro está fabricando colunas para o templo vivo do lar." (cap. 2)
 
-Continuidade direta do eixo trabalho-serviço de *Pão Nosso* (caps. 1-5), aqui estendido a **toda a sociedade civil** sem privilegiar o ofício religioso. Articula-se com a [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] (LE q. 674-685) e com a recusa kardequiana do sacerdócio profissional ([[wiki/obras/o-que-e-o-espiritismo]]).
+Continuidade direta do eixo trabalho-serviço de *Pão Nosso* (caps. 1-5), aqui estendido a **toda a sociedade civil** sem privilegiar o ofício religioso. Articula-se com a [[wiki/conceitos/leis-morais/lei-do-trabalho|Lei do Trabalho]] (LE q. 674-685) e com a recusa de Kardec do sacerdócio profissional ([[wiki/obras/o-que-e-o-espiritismo]]).
 
 ### 4. Caridade com pureza interior
 
@@ -92,7 +92,7 @@ O capítulo culmina nos dois únicos modelos positivos — Pedro pós-Pentecoste
 
 ### 6. Inimigos como credores espirituais
 
-Cap. 41 *Credores diferentes* (Mt 5.44) é a leitura kardequiana mais explícita do livro. Não cultiva inimizades, mas inverte a economia afetiva comum:
+Cap. 41 *Credores diferentes* (Mt 5.44) é a leitura de Kardec mais explícita do livro. Não cultiva inimizades, mas inverte a economia afetiva comum:
 
 > "Geralmente, somos devedores de altos benefícios a quantos nos perseguem e caluniam; constituem os instrumentos que nos trabalham a individualidade, compelindo-nos a renovações de elevado alcance que raramente compreendemos nos instantes mais graves da experiência. São eles que nos indicam as fraquezas, as deficiências e as necessidades a serem atendidas na tarefa que estamos executando." (cap. 41)
 
@@ -124,7 +124,7 @@ Além dos oito eixos acima, a obra trabalha de modo recorrente:
 - **Servicinhos sobre cargos de relevância** — cap. 38 *Servicinhos* (Ef 4.32): copo d'água, sorriso fraterno, livro santificante; recusa da ambição de aparecer.
 - **Multidões como dever do educado** — cap. 6 *Multidões* (Mc 8.2): Jesus é o "Amigo Divino" do povo; o homem instruído deve servir, não explorar.
 - **Reino individual antes do reino coletivo** — caps. 174 *Plataforma do Mestre* (Mt 1.21) e 177 *Edificação do Reino* (Lc 17.21): Jesus salva *"seu povo dos pecados deles"*, não funda movimento político — a transformação do mundo passa pelo reino interior.
-- **Escritura individual da própria vida** — cap. 94 *Escritura individual* (Mt 26.56): cada criatura tem "o mapa da ordem divina em sua existência, a ser executado com a colaboração do livre arbítrio". Articula-se com [[wiki/conceitos/livre-arbitrio]] e com a doutrina kardequiana das provas escolhidas (LE q. 258-273).
+- **Escritura individual da própria vida** — cap. 94 *Escritura individual* (Mt 26.56): cada criatura tem "o mapa da ordem divina em sua existência, a ser executado com a colaboração do livre arbítrio". Articula-se com [[wiki/conceitos/livre-arbitrio]] e com a doutrina de Kardec das provas escolhidas (LE q. 258-273).
 - **Espiritismo evangélico como restauração apostólica** — cap. 103 *Perante a multidão* (At 2.13) e cap. 39 *Em que perseveras?* (At 2.42): paralelo com o Pentecostes apostólico, assediado pelos zombadores.
 - **Crítica ao facciosismo religioso** — cap. 36 *Facciosismo* (Tg 3.14): católicos, protestantes e espiritistas igualmente ameaçados pelo "monstro da separação".
 

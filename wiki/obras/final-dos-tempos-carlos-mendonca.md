@@ -33,7 +33,7 @@ A palestra se organiza em seis eixos:
 
 1. **A cosmologia espírita dos cinco tipos de mundo** e a posição atual da Terra na escala.
 2. **O Sermão Profético** como texto pouco estudado dentro do próprio movimento espírita.
-3. **A leitura kardequiana do "Juízo Final"** como alegoria do processo de regeneração.
+3. **A leitura de Kardec do "Juízo Final"** como alegoria do processo de regeneração.
 4. **A Gênese caps. XVII–XVIII** — sinais dos tempos e regeneração da humanidade.
 5. **A transição gradual** vs. a transição traumática das escrituras literais.
 6. **A nova geração** — Espíritos mais adiantados encarnando para auxiliar a transição.

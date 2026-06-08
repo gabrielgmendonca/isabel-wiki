@@ -28,7 +28,7 @@ status: ativo
 
 O livro propõe uma síntese entre a **Quarta Força em Psicologia** — Psicologia Transpessoal de Maslow, Wilber, Grof, Kübler-Ross, Assagioli, Capra, Walsh, Vaughan — e a Doutrina Espírita codificada por Allan Kardec. Para Joanna, o Espiritismo já descortinou para a criatura, desde 1857, "a valiosa possibilidade de ser consciente, concitando-a ao auto-encontro e à autodescoberta a respeito da vida além dos estreitos limites materiais", muito antes que as disciplinas psicológicas modernas se aproximassem da realidade integral do ser.
 
-O ponto de ancoragem kardequiano é explícito. A obra retoma **LE, q. 919** — "Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da Antiguidade vo-lo disse: Conhece-te a ti mesmo" — e o longo comentário de Santo Agostinho que a segue, transformando-os em programa terapêutico. Em nota da própria autora espiritual, ainda referencia **LE, q. 621** sobre a lei de Deus inscrita na consciência.
+O ponto de ancoragem de Kardec é explícito. A obra retoma **LE, q. 919** — "Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da Antiguidade vo-lo disse: Conhece-te a ti mesmo" — e o longo comentário de Santo Agostinho que a segue, transformando-os em programa terapêutico. Em nota da própria autora espiritual, ainda referencia **LE, q. 621** sobre a lei de Deus inscrita na consciência.
 
 > [!note] Sobre o vocabulário oriental
 > Joanna recorre frequentemente a termos do hinduísmo, budismo e taoísmo (*samadhi*, *nirvana*, *deus interno*, "Consciência Cósmica", *roda de samsara*) e cita Buda, Vivekananda, Ramakrishna e os taoístas tibetanos como contribuintes para a "revisão dos parâmetros aceitos". Este vocabulário funciona como **ponte conceitual** com a Quarta Força, não como adoção doutrinária — a base estrutural permanece kardequiana (tripé Espírito-perispírito-corpo, reencarnação como método de progresso, lei de causa e efeito como fundamento moral, livre-arbítrio como condição da reabilitação).
@@ -59,7 +59,7 @@ Núcleo de gigantes psíquicos. Apresenta os **Gigantes da Alma**: **ressentimen
 
 ### Sexta parte — Condicionamentos (cap. 22–24)
 
-Sobre **o bem e o mal** (sintetizados, para Joanna, no Decálogo + sermão da regra de ouro: "não fazer a outrem o que não deseja que ele lhe faça"), sobre a **paixão de Jesus** (lida como pedagogia da imortalidade, não imolação culpabilizadora), e sobre **enfermidade e cura**. No cap. 24, vincula explicitamente o vocabulário oriental do "carma" à lei de causa e efeito kardequiana, e ressalva: *"esse carma, quando provacional, tem a liberá-lo o livre-arbítrio daquele que o padece"*. A **amorterapia** se ancora no mandamento de Jesus (Mt 22:39).
+Sobre **o bem e o mal** (sintetizados, para Joanna, no Decálogo + sermão da regra de ouro: "não fazer a outrem o que não deseja que ele lhe faça"), sobre a **paixão de Jesus** (lida como pedagogia da imortalidade, não imolação culpabilizadora), e sobre **enfermidade e cura**. No cap. 24, vincula explicitamente o vocabulário oriental do "carma" à lei de causa e efeito de Kardec, e ressalva: *"esse carma, quando provacional, tem a liberá-lo o livre-arbítrio daquele que o padece"*. A **amorterapia** se ancora no mandamento de Jesus (Mt 22:39).
 
 ### Sétima parte — A Conquista do Self (cap. 25–28)
 

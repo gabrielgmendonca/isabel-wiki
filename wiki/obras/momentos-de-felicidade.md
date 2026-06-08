@@ -30,7 +30,7 @@ Volume **pastoral curto**, distinto da série psicológica densa (*O Ser Conscie
 
 > "Selecionamos as páginas que constituem este pequeno volume, examinando vinte situações e propostas, discutindo-as e concluindo pelo amor, pela paz e pelo êxito geradores de felicidade. São modestas reflexões à luz do Evangelho de Jesus e da Doutrina Espírita, para os dias difíceis da atualidade."
 
-A tese articula duas direções: (1) **a felicidade está acessível no presente** — *"vives momentos de felicidade, de que ainda não te apercebeste"* — bastando interromper o cultivo do pessimismo: *"para trabalhar-se pelo próprio fracasso, gasta a mesma energia, que deveria aplicar em favor do êxito"*; (2) o método é **moral, não psicológico-técnico** — silêncio, oração, leitura edificante, otimismo, prática do bem, esquecimento da ofensa. A obra opera inteiramente dentro do quadro kardequiano e ressoa diretamente com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. V (Bem-aventurados os aflitos) e cap. XXVII (eficácia da prece).
+A tese articula duas direções: (1) **a felicidade está acessível no presente** — *"vives momentos de felicidade, de que ainda não te apercebeste"* — bastando interromper o cultivo do pessimismo: *"para trabalhar-se pelo próprio fracasso, gasta a mesma energia, que deveria aplicar em favor do êxito"*; (2) o método é **moral, não psicológico-técnico** — silêncio, oração, leitura edificante, otimismo, prática do bem, esquecimento da ofensa. A obra opera inteiramente dentro do quadro de Kardec e ressoa diretamente com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. V (Bem-aventurados os aflitos) e cap. XXVII (eficácia da prece).
 
 ## Estrutura
 
@@ -84,7 +84,7 @@ Os 20 capítulos podem ser agrupados em seis eixos:
 3. **Mediunidade séria, anônima e silenciosa** — autenticação pelo conteúdo, não pelo nome do Espírito comunicante (LM cap. XXIV).
 4. **Pensamento como força criadora** — três capítulos articulam o pensamento como vibração que plasma a vida.
 5. **Oração-terapia** — a prece como recurso clínico e como hábito de comunhão constante com Deus.
-6. **Cristologia kardequiana** — Jesus como referência permanente; galeria moral inclui Francisco de Assis, Vicente de Paulo, Gandhi, Estêvão, Paulo.
+6. **Cristologia de Kardec** — Jesus como referência permanente; galeria moral inclui Francisco de Assis, Vicente de Paulo, Gandhi, Estêvão, Paulo.
 7. **Domínio das paixões inferiores** — medo, ira, ciúme, tédio, queixa, orgulho como obstáculos cuja superação é o eixo prático da obra.
 
 ## Conceitos tratados

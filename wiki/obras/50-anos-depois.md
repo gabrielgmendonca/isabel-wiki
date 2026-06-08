@@ -86,7 +86,7 @@ A cena também inclui dois episódios menores doutrinariamente significativos:
 - **Sacrifício vicário em chave evangélica** — Célia oferece-se como vítima substitutiva tanto pelo nome da mãe (no exílio do lar) quanto pela honra de Brunehilda (acolhendo a calúnia de paternidade). Não há valor sacrificial no sentido do "Cordeiro que tira o pecado do mundo" (Jo 1:29) — é virtude moral em chave de imitação de Cristo.
 - **Reencarnação como reparação política rebaixada** — Adriano renasce como filho de escrava; Cláudia será reapanhada por Cneio como filha; Lólio abraçado por Helvídio e Alba como irmão. Aplicação direta de LE q. 132+ e ESE cap. XII (Amai os vossos inimigos).
 - **Perdão "setenta vezes sete" como gate da reencarnação coletiva** — o grupo só desce à Terra quando o mentor confirma que perdoaram suficientemente (Mt 18:22).
-- **Hagiografia espírita de Santa Marina** — releitura da virgem-monge de Antioquia/Bitínia em chave kardequiana, deslocando datas para o séc. II.
+- **Hagiografia espírita de Santa Marina** — releitura da virgem-monge de Antioquia/Bitínia à luz de Kardec, deslocando datas para o séc. II.
 - **Cristianismo de Adriano e Antonino** — o pano de fundo histórico difere do de *Há Dois Mil Anos* (Tibério/[[wiki/personalidades/poncio-pilatos|Pilatos]]/Nero): aqui o Império já é cristianizável, há comunidades nas catacumbas, e Adriano é "o maior benfeitor das cidades antigas".
 - **Espírito protetor que visita o moribundo** — o "anjo ou mulher" junto a Nestório no circo continua a linha de Lívia em *Há Dois Mil Anos*.
 

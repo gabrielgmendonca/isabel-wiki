@@ -23,7 +23,7 @@ status: ativo
 
 ## Cabeçalho
 
-Terceira obra do Pentateuco kardeciano. Contém a explicação das máximas morais do Cristo à luz da Doutrina Espírita, complementada por instruções ditadas por Espíritos superiores. Não trata dos fenômenos mediúnicos nem da parte científica — é integralmente dedicada à moral evangélica e à sua aplicação prática.
+Terceira obra do Pentateuco de Kardec. Contém a explicação das máximas morais do Cristo à luz da Doutrina Espírita, complementada por instruções ditadas por Espíritos superiores. Não trata dos fenômenos mediúnicos nem da parte científica — é integralmente dedicada à moral evangélica e à sua aplicação prática.
 
 ## Estrutura
 

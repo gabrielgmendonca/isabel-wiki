@@ -71,14 +71,14 @@ Aplicação espírita direta: o **médium é vaso, não fonte**. A faculdade med
 
 > "Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente; **não atentando nós nas coisas que se vêem, mas nas que se não vêem; porque as que se vêem são temporais, e as que se não vêem são eternas**." (2 Co 4:17–18)
 
-Eco direto de Rm 8:18 ("aflições não são para comparar com a glória que em nós há de ser revelada") e fundamento paulino da chave kardequiana sobre a **utilidade do sofrimento** (ESE cap. V; LE q. 919–921). Ver [[wiki/biblia/2-corintios/4]].
+Eco direto de Rm 8:18 ("aflições não são para comparar com a glória que em nós há de ser revelada") e fundamento paulino da chave de Kardec sobre a **utilidade do sofrimento** (ESE cap. V; LE q. 919–921). Ver [[wiki/biblia/2-corintios/4]].
 - **Conceitos:** [[wiki/conceitos/bem-aventuranca-dos-aflitos]], [[wiki/conceitos/dor]], [[wiki/conceitos/expiacao-e-reparacao]], [[wiki/conceitos/cartas-vivas-de-jesus]]
 
 **Cap. 5 — Tabernáculo terrestre e casa eterna; nova criatura; reconciliação.** Capítulo central para a doutrina espírita da continuidade da vida.
 
 > "Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, **temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus**. [...] Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor (porque andamos por fé, e não por vista). **Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor**." (2 Co 5:1, 6–8)
 
-Em chave espírita: o "tabernáculo" (corpo físico) é morada provisória; a "casa eterna" é a vida do Espírito em seu corpo espiritual ([[wiki/conceitos/perispirito|perispírito]]) após o desenlace. Articulação direta com 1 Co 15:44 (corpo natural / corpo espiritual) e com a doutrina kardequiana da morte como libertação (LE q. 165–169; C&I 2ª parte cap. I).
+Em chave espírita: o "tabernáculo" (corpo físico) é morada provisória; a "casa eterna" é a vida do Espírito em seu corpo espiritual ([[wiki/conceitos/perispirito|perispírito]]) após o desenlace. Articulação direta com 1 Co 15:44 (corpo natural / corpo espiritual) e com a doutrina de Kardec da morte como libertação (LE q. 165–169; C&I 2ª parte cap. I).
 
 **"Andamos por fé, e não por vista" (5:7)** — formulação paulina da [[wiki/conceitos/fe-raciocinada|fé raciocinada]] como ação prática mesmo sem evidência sensorial direta. Não é fé cega: é confiança operativa nas leis invisíveis demonstráveis pelos efeitos.
 
@@ -137,7 +137,7 @@ Mudança de tom: Paulo enfrenta diretamente os opositores que questionavam sua a
 
 > "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo. **E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz**. Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras." (2 Co 11:13–15)
 
-Formulação paulina decisiva do **critério do discernimento dos espíritos**: **aparência luminosa não basta**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, em chave kardequiana, é **moral e prática**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Convergência total com LM, 2ª parte, cap. XXIV (identificação dos Espíritos) e com ESE cap. XXI ("Haverá falsos cristos e falsos profetas"). Ver [[wiki/conceitos/discernimento-dos-espiritos]].
+Formulação paulina decisiva do **critério do discernimento dos espíritos**: **aparência luminosa não basta**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, à luz de Kardec, é **moral e prática**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Convergência total com LM, 2ª parte, cap. XXIV (identificação dos Espíritos) e com ESE cap. XXI ("Haverá falsos cristos e falsos profetas"). Ver [[wiki/conceitos/discernimento-dos-espiritos]].
 
 O catálogo autobiográfico paulino (11:23–28) — açoites, prisões, naufrágios, fome, sede, perigos no mar e em terra, "a oprimir-me cada dia o cuidado de todas as igrejas" — é prova do princípio de 6:4–10: o ministério verdadeiro **autentica-se pelas aflições atravessadas**, não pelas credenciais ostentadas. Ver [[wiki/biblia/2-corintios/11]].
 - **Conceitos:** [[wiki/conceitos/discernimento-dos-espiritos]], [[wiki/conceitos/identidade-dos-espiritos]], [[wiki/conceitos/mercantilizacao-da-mediunidade]]
@@ -146,7 +146,7 @@ O catálogo autobiográfico paulino (11:23–28) — açoites, prisões, naufrá
 
 > "Conheço um homem em Cristo que há catorze anos (**se no corpo, não sei, se fora do corpo, não sei; Deus o sabe**) foi arrebatado ao terceiro céu. E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe) foi arrebatado ao paraíso; e ouviu palavras inefáveis, que ao homem não é lícito falar." (2 Co 12:2–4)
 
-Em chave kardequiana, **emancipação plena da alma** (LE q. 400–418) ou êxtase mediúnico (LM, 2ª parte, cap. XIX). A insegurança paulina sobre o estado físico ("se no corpo, não sei, se fora do corpo, não sei") é descrição honesta da fenomenologia: o desdobramento profundo dispensa o aparelho sensorial físico, gerando a impressão de transposição corporal. "Palavras inefáveis, que ao homem não é lícito falar" — a apreensão na erraticidade desborda a tradução em linguagem encarnada (cf. Gênese, cap. XIV, item 18 — irradiação fluídica e percepção espiritual; LE q. 84 — limitação da linguagem humana).
+À luz de Kardec, **emancipação plena da alma** (LE q. 400–418) ou êxtase mediúnico (LM, 2ª parte, cap. XIX). A insegurança paulina sobre o estado físico ("se no corpo, não sei, se fora do corpo, não sei") é descrição honesta da fenomenologia: o desdobramento profundo dispensa o aparelho sensorial físico, gerando a impressão de transposição corporal. "Palavras inefáveis, que ao homem não é lícito falar" — a apreensão na erraticidade desborda a tradução em linguagem encarnada (cf. Gênese, cap. XIV, item 18 — irradiação fluídica e percepção espiritual; LE q. 84 — limitação da linguagem humana).
 
 **O espinho na carne (12:7–10).**
 
@@ -174,7 +174,7 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 4. **Utilidade do sofrimento** — 4:17–18 ("leve e momentânea tribulação produz peso eterno de glória") é o eco paulino mais conciso do que ESE cap. V desenvolve em prosa doutrinária. Ancorado pela máxima visual: o invisível eterno > o visível temporal.
 5. **Fé raciocinada como ação prática** — "andamos por fé, e não por vista" (5:7) é formulação paulina da [[wiki/conceitos/fe-raciocinada|fé raciocinada]] como confiança operativa nas leis invisíveis demonstráveis pelos efeitos. Não é fé cega.
 6. **Lei de causa e efeito** — "tribunal de Cristo, segundo o que tiver feito" (5:10) é formulação paulina direta: cada um responde por si, segundo suas obras. Sem juízo por substituição.
-7. **Humildade do médium / vasos de barro** — 4:7 ("tesouro em vasos de barro, para que a excelência do poder seja de Deus") é a base bíblica para o critério kardequiano de que **a faculdade não dispensa moralidade**. O médium é instrumento; o poder é de Deus. Articulação com [[wiki/conceitos/cartas-vivas-de-jesus]].
+7. **Humildade do médium / vasos de barro** — 4:7 ("tesouro em vasos de barro, para que a excelência do poder seja de Deus") é a base bíblica para o critério de Kardec de que **a faculdade não dispensa moralidade**. O médium é instrumento; o poder é de Deus. Articulação com [[wiki/conceitos/cartas-vivas-de-jesus]].
 8. **Discernimento dos espíritos** — "Satanás se transfigura em anjo de luz" (11:14) é o **alerta paulino mais forte do NT** sobre o engano por aparência luminosa. Critério complementar a 1 Jo 4:1 ("provai os espíritos") e a 1 Co 12:10 (dom do discernimento). Convergência total com LM, 2ª parte, cap. XXIV.
 9. **Êxtase e emancipação plena** — 12:1–4 (arrebatamento ao terceiro céu) é o relato neotestamentário mais explícito do **desdobramento profundo**, articulável com LE q. 400–418 e LM, 2ª parte, cap. XIX. A insegurança sobre o estado corporal ("se no corpo, não sei...") é descrição fenomenológica honesta.
 10. **Provas reparadoras pedagógicas** — "espinho na carne" (12:7–9) ensina três princípios convergentes com a doutrina espírita: a função pedagógica da prova, os limites da prece pelo desvio, e o paradoxo da força na fraqueza assumida. "Minha graça te basta" como resposta divina ao pedido de remoção da prova.
@@ -191,7 +191,7 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 | 2 Co 1:8–10 — aflição "mais do que podíamos suportar" | LE q. 919–921 (sofrimento como meio de progresso) |
 | 2 Co 2:11 — "ardis" de Satanás | LM, 2ª parte, caps. XXIII–XXIV (obsessão e identificação) |
 | 2 Co 3:2–3 — cartas vivas | [[wiki/conceitos/cartas-vivas-de-jesus]]; LM, 2ª parte, cap. XX (moralidade do médium) |
-| **2 Co 3:6 — "a letra mata, o espírito vivifica"** | **ESE Introdução** (princípio hermenêutico kardequiano) |
+| **2 Co 3:6 — "a letra mata, o espírito vivifica"** | **ESE Introdução** (princípio hermenêutico de Kardec) |
 | 2 Co 3:14–18 — véu sobre o coração; "de glória em glória" | ESE cap. XIX (fé raciocinada); LE q. 776–800 (Lei do Progresso) |
 | 2 Co 4:7 — tesouro em vasos de barro | LM, 2ª parte, cap. XX (influência moral do médium); humildade do instrumento |
 | 2 Co 4:8–9 — "atribulados, mas não angustiados" | ESE cap. V, itens 12, 18 (resignação ativa) |
@@ -216,7 +216,7 @@ A bênção final (13:14) é o texto mais antigo do NT a formular a tríade que 
 | 2 Co 12:8–9 — três preces e "minha graça te basta" | ESE cap. XXVII (prece); Mt 26:39 (Getsêmani) |
 | 2 Co 12:10 — "quando estou fraco então sou forte" | LE q. 919 (humildade); ESE cap. VII (pobres de espírito) |
 | 2 Co 13:5 — "examinai-vos a vós mesmos" | LE q. 919 (Conhece-te a ti mesmo — Santo Agostinho); 1 Co 11:28 |
-| 2 Co 13:14 — graça, amor, comunhão do Espírito | ESE cap. VI (Consolador); leitura kardequiana do "Espírito Santo" como conjunto dos Espíritos reveladores |
+| 2 Co 13:14 — graça, amor, comunhão do Espírito | ESE cap. VI (Consolador); leitura de Kardec do "Espírito Santo" como conjunto dos Espíritos reveladores |
 
 ## Conceitos tratados
 

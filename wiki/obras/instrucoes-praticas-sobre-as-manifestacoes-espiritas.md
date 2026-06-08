@@ -22,7 +22,7 @@ status: ativo
 
 - **Autor:** Allan Kardec ([[wiki/personalidades/allan-kardec|Hippolyte Léon Denizard Rivail]])
 - **Publicação original:** 1858, Paris.
-- **Posição na cronologia kardequiana:** entre o LE (abr/1857) e o LM (jan/1861), simultânea à fundação da *Revista Espírita* (jan/1858) e da Sociedade Parisiense de Estudos Espíritas (abr/1858).
+- **Posição na cronologia de Kardec:** entre o LE (abr/1857) e o LM (jan/1861), simultânea à fundação da *Revista Espírita* (jan/1858) e da Sociedade Parisiense de Estudos Espíritas (abr/1858).
 - **Tradução brasileira:** edição comentada (notas do tradutor explicam termos franceses e cotejam com a 22ª edição de LE).
 - **Texto integral:** [[raw/kardec/complementares/instrucoes-praticas-manifestacoes-espiritas]]
 - **Nível na [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]]:** **2 — Kardec complementar** (não-Pentateuco; obra precursora descontinuada após a consolidação de LM).

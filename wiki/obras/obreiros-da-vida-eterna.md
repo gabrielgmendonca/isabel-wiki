@@ -67,7 +67,7 @@ A preleção de **Albano Metelo** no Templo da Paz funciona como prefácio doutr
 
 1. **A elevação não pode ser solitária.** "Subiríamos até Deus, num círculo fechado? Como operar o insulamento egoístico e partir a caminho do Pai Amoroso e Leal que acende o Sol para os santos e os criminosos, para os justos e injustos?" — eco direto de Mt 5:45.
 2. **O céu e o inferno são estados internos, não locais externos fixos.** "Hoje, porém, sabemos que, depois do túmulo, há simplesmente continuação da vida. Céu e inferno residem dentro de nós mesmos." A formulação alinha-se a C&I, 1ª parte, cap. III (penas como consequência natural).
-3. **As comunicações de visitantes não-preparados deformam o relato.** Bernardin de Saint-Pierre teria descrito como Vênus o que era a Crosta vista de outro plano; Huyghens projetou a biologia terrestre nos demais mundos; Teresa d'Ávila descreveu como inferno absoluto uma zona purgatorial; Swedenborg imprimiu predileções pessoais à pintura das "habitações astrais". A crítica é coerente com a relativização kardequiana das comunicações erráticas (LM, 2ª parte, cap. XXIV) — não constitui divergência.
+3. **As comunicações de visitantes não-preparados deformam o relato.** Bernardin de Saint-Pierre teria descrito como Vênus o que era a Crosta vista de outro plano; Huyghens projetou a biologia terrestre nos demais mundos; Teresa d'Ávila descreveu como inferno absoluto uma zona purgatorial; Swedenborg imprimiu predileções pessoais à pintura das "habitações astrais". A crítica é coerente com a relativização de Kardec das comunicações erráticas (LM, 2ª parte, cap. XXIV) — não constitui divergência.
 
 ### O poder do verbo (caps. 2–3)
 
@@ -137,7 +137,7 @@ A obra retoma e aprofunda a doutrina do **suicídio inconsciente** introduzida e
 
 > "Qualquer droga, no campo infinitesimal dos núcleos celulares, se faz sentir pelas propriedades elétricas específicas. […] todo remédio está saturado de energias electromagnéticas em seu raio de ação. É por isso que o veneno destrói as vísceras e o entorpecente modifica a natureza das células em si, impondo-lhes incapacidade temporária. […] O perispírito, formado à base de matéria rarefeita, mobiliza igualmente trilhões de unidades unicelulares da nossa Esfera de ação, que abandonam o campo físico saturadas da vitalidade que lhe é peculiar. Daí os sofrimentos e angústias de determinadas criaturas, além do decesso. Os suicidas costumam sentir, durante longo tempo, a aflição das células violentamente aniquiladas, enquanto os viciados experimentam tremenda inquietação pelo desejo insatisfeito." (Jerônimo, cap. 19)
 
-A formulação articula explicitamente a doutrina espírita do suicídio (LE q. 944–957; C&I, 2ª parte, cap. V) à eletromagnética celular, sem violar a hierarquia kardequiana. O ponto decisivo: **drogas não chegam apenas ao corpo físico**; suas propriedades elétricas atravessam a interface perispiritual e perduram além do decesso. Aplicação pastoral imediata para o tema da eutanásia ativa, do uso de anestésicos terminais em alta dose e da farmacodependência.
+A formulação articula explicitamente a doutrina espírita do suicídio (LE q. 944–957; C&I, 2ª parte, cap. V) à eletromagnética celular, sem violar a hierarquia de Kardec. O ponto decisivo: **drogas não chegam apenas ao corpo físico**; suas propriedades elétricas atravessam a interface perispiritual e perduram além do decesso. Aplicação pastoral imediata para o tema da eutanásia ativa, do uso de anestésicos terminais em alta dose e da farmacodependência.
 
 ## Temas centrais
 

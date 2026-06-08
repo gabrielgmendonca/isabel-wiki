@@ -43,7 +43,7 @@ A imagem da semente carrega uma tese pedagógica: o crescimento espiritual **nã
 
 ### Fé verdadeira não é crença cega
 
-O conceito-chave que a palestra explicita: **fé genuína não é crença cega, mas disposição ativa de estudar, examinar e pesquisar sem espírito preconcebido**. O paralelo estrutural com a semente é deliberado — fé inerte é fé que não germinou. A leitura ecoa o aforismo kardequiano: *"A fé inabalável só o é a que pode encarar de frente a razão, em todas as épocas da humanidade"* (ESE cap. XIX, item 7) — fora da leitura literal, mas dentro do espírito kardequiano da palestra.
+O conceito-chave que a palestra explicita: **fé genuína não é crença cega, mas disposição ativa de estudar, examinar e pesquisar sem espírito preconcebido**. O paralelo estrutural com a semente é deliberado — fé inerte é fé que não germinou. A leitura ecoa o aforismo de Kardec: *"A fé inabalável só o é a que pode encarar de frente a razão, em todas as épocas da humanidade"* (ESE cap. XIX, item 7) — fora da leitura literal, mas dentro do espírito de Kardec da palestra.
 
 ### Revelações progressivas
 

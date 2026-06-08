@@ -91,7 +91,7 @@ A expressão **"toda a família nos céus e na terra"** (3:15) é, na leitura es
 
 A sequência **sete vezes "um"** (corpo, Espírito, esperança, Senhor, fé, batismo, Deus) é fórmula litúrgica primitiva — pode ter sido confissão batismal repetida. Para o Espiritismo, a articulação corresponde à **unidade do plano divino sob diversidade de manifestações**: várias casas, várias práticas, várias mediunidades, **uma só lei moral** (LE q. 614–618).
 
-Em 4:7–13, Paulo distribui os dons de Cristo: "uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo; até que todos cheguemos à unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, à medida da estatura completa de Cristo". Resumo paulino do tratamento amplo de 1 Co 12 — ver [[wiki/obras/primeira-epistola-aos-corintios]]. Em chave kardequiana, os "dons" são as variedades de [[wiki/conceitos/mediunidade|mediunidade]] e de vocação ao serviço do bem (LM 2ª parte caps. XIV–XVII), com a finalidade comum do **aperfeiçoamento moral**.
+Em 4:7–13, Paulo distribui os dons de Cristo: "uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo; até que todos cheguemos à unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, à medida da estatura completa de Cristo". Resumo paulino do tratamento amplo de 1 Co 12 — ver [[wiki/obras/primeira-epistola-aos-corintios]]. À luz de Kardec, os "dons" são as variedades de [[wiki/conceitos/mediunidade|mediunidade]] e de vocação ao serviço do bem (LM 2ª parte caps. XIV–XVII), com a finalidade comum do **aperfeiçoamento moral**.
 
 A partir de 4:17 começa a parênese moral — exortação ética concreta. O coração da seção é a fórmula do homem velho/homem novo:
 
@@ -125,7 +125,7 @@ Em 5:14, Paulo cita o que parece ser **fragmento de hino batismal primitivo**:
 
 A imagem do "despertar dos mortos" como **passagem da inconsciência espiritual à vida consciente** ressoa em toda a literatura espírita sobre o despertar pós-morte (C&I 2ª parte; André Luiz, *Nosso Lar*). É também a chave para o trabalho do médium iniciante: sair da letargia espiritual e assumir a responsabilidade da consciência (LM 2ª parte cap. XX).
 
-5:15–21 dá conselhos sobre **uso do tempo** ("Remindo o tempo; porquanto os dias são maus", 5:16), embriaguez vs. enchimento espiritual ("não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito", 5:18) e **gratidão constante** ("Dando sempre graças por tudo a nosso Deus e Pai", 5:20). A gratidão como disciplina moral é tema kardequiano direto (LE q. 660–663; [[wiki/conceitos/leis-morais/lei-de-adoracao]]) e voltará em Fp 4 ("regozijai-vos sempre no Senhor").
+5:15–21 dá conselhos sobre **uso do tempo** ("Remindo o tempo; porquanto os dias são maus", 5:16), embriaguez vs. enchimento espiritual ("não vos embriagueis com vinho, em que há contenda, mas enchei-vos do Espírito", 5:18) e **gratidão constante** ("Dando sempre graças por tudo a nosso Deus e Pai", 5:20). A gratidão como disciplina moral é tema de Kardec direto (LE q. 660–663; [[wiki/conceitos/leis-morais/lei-de-adoracao]]) e voltará em Fp 4 ("regozijai-vos sempre no Senhor").
 
 A partir de 5:21, Paulo entra no bloco da **ética doméstica** — três pares de relações: marido/esposa (5:21–33), pais/filhos (6:1–4), senhores/servos (6:5–9). Abre com a chave hermenêutica que a tradição majoritária preferiu esquecer:
 
@@ -144,7 +144,7 @@ Paulo articula o casamento como mistério Cristo/igreja (5:32 — "Grande é est
 > Ver [[wiki/divergencias/sujeicao-conjugal-em-efesios-5]].
 - **Conceitos:** [[wiki/conceitos/perfeicao-moral]], [[wiki/conceitos/homem-de-bem]], [[wiki/conceitos/leis-morais/lei-de-adoracao]], [[wiki/conceitos/caridade]], [[wiki/conceitos/leis-morais/lei-de-igualdade]]
 
-**Cap. 6 — Pais/filhos; senhores/servos; armadura de Deus; saudações finais.** Os pares restantes da ética doméstica: filhos obedecem aos pais "no Senhor" (6:1) e os pais não exasperam os filhos, mas os criam "na doutrina e admoestação do Senhor" (6:4) — preceito coerente com a doutrina kardequiana sobre [[wiki/conceitos/evangelizacao-infantojuvenil|evangelização infantojuvenil]] (LE q. 383–385) e com a [[wiki/questoes/paternidade-como-missao|paternidade como missão]] (LE q. 582–583).
+**Cap. 6 — Pais/filhos; senhores/servos; armadura de Deus; saudações finais.** Os pares restantes da ética doméstica: filhos obedecem aos pais "no Senhor" (6:1) e os pais não exasperam os filhos, mas os criam "na doutrina e admoestação do Senhor" (6:4) — preceito coerente com a doutrina de Kardec sobre [[wiki/conceitos/evangelizacao-infantojuvenil|evangelização infantojuvenil]] (LE q. 383–385) e com a [[wiki/questoes/paternidade-como-missao|paternidade como missão]] (LE q. 582–583).
 
 O par mais delicado é o de senhores/servos (6:5–9):
 
@@ -162,7 +162,7 @@ A partir de 6:10, a carta culmina no célebre passo da **armadura de Deus** (6:1
 
 Os seis elementos da armadura — **cíngulo da verdade, couraça da justiça, sandálias do evangelho da paz, escudo da fé, capacete da salvação, espada do Espírito** — formam a única peça paulina que sistematiza a vida moral como **combate equipado**. Página própria em [[wiki/conceitos/armadura-de-deus]]. Lida pelo Espiritismo:
 
-- A "luta" não é contra pessoas ("carne e sangue") — paralelo direto com a doutrina kardequiana de não-violência (ESE cap. XII).
+- A "luta" não é contra pessoas ("carne e sangue") — paralelo direto com a doutrina de Kardec de não-violência (ESE cap. XII).
 - "Principados [...] potestades [...] príncipes das trevas [...] hostes espirituais da maldade" são, em chave espírita, **Espíritos imperfeitos hierarquizados na escala** (LE q. 100–113), não principalidades absolutas do mal.
 - Os elementos da armadura são todos **virtudes morais cultiváveis** — não rito, não amuleto. Verdade, justiça, paz evangélica, fé raciocinada, esperança da salvação (= progresso), palavra do Espírito. A vida moral é trabalhada peça por peça.
 - Encerra com "orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança" (6:18) — **prece e vigilância** como fechamento; é o que Kardec retoma em ESE cap. XXVII–XXVIII e em LM 2ª parte cap. XXIII (sobre prevenção da obsessão pela elevação moral).
@@ -172,9 +172,9 @@ A carta encerra com a apresentação de **Tíquico** (6:21–22) — "irmão ama
 
 ## Temas centrais para o estudo espírita
 
-1. **Eleição "antes da fundação do mundo" — predestinação relida** (Ef 1:4–5, 11): a "predestinação" paulina, lida em chave kardequiana, descreve presciência divina + escolha do Espírito antes da encarnação (LE q. 258, q. 851). Não decreto irrevogável — pressuposição da prova escolhida pelo próprio Espírito.
+1. **Eleição "antes da fundação do mundo" — predestinação relida** (Ef 1:4–5, 11): a "predestinação" paulina, lida à luz de Kardec, descreve presciência divina + escolha do Espírito antes da encarnação (LE q. 258, q. 851). Não decreto irrevogável — pressuposição da prova escolhida pelo próprio Espírito.
 2. **Salvação pela graça e boas obras** (Ef 2:8–10): a fé é dom; a obra é seu fruto. Articulação paulina que harmoniza com Tiago (Tg 2:14–26) e com LE q. 905 ("a moral sem as ações é a semente sem o trabalho"). A fé que não floresce em obras é fé estéril.
-3. **Reconciliação dos gentios e queda da "parede de separação"** (Ef 2:11–22): manifesto universalista paulino, eco direto de "Deus não faz acepção de pessoas" (At 10:34; Rm 2:11) e da generalização kardequiana do progresso de todos os Espíritos (LE q. 1009–1016).
+3. **Reconciliação dos gentios e queda da "parede de separação"** (Ef 2:11–22): manifesto universalista paulino, eco direto de "Deus não faz acepção de pessoas" (At 10:34; Rm 2:11) e da generalização de Kardec do progresso de todos os Espíritos (LE q. 1009–1016).
 4. **Toda a família nos céus e na terra** (Ef 3:15): formulação paulina compacta da comunhão entre Espíritos encarnados e desencarnados — "família de Deus" atravessa os planos. Paralelo com LE q. 459–471 e q. 936–937.
 5. **Unidade do corpo, diversidade dos dons** (Ef 4:1–16): os "dons" (apóstolos, profetas, evangelistas, pastores, doutores) são variedades de [[wiki/conceitos/mediunidade|mediunidade]] e vocação ao serviço, com finalidade comum no aperfeiçoamento moral. Resumo paulino do tratamento amplo de 1 Co 12.
 6. **Homem velho / homem novo** (Ef 4:22–24): imagem nuclear da reforma íntima — despojar-se do velho, revestir-se do novo "que segundo Deus é criado em verdadeira justiça e santidade". Paralelo direto com Rm 6:6, Cl 3:9–10, ESE cap. XVII, item 4, e LE q. 919.
