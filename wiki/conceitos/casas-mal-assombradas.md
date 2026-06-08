@@ -30,7 +30,7 @@ Os Espíritos responsáveis são, em regra, **atrasados, levianos ou turbulentos
 
 ### O dossiê de Flammarion (1923)
 
-[[wiki/personalidades/camille-flammarion|Camille Flammarion]] dedica à assombração a obra [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]], dossiê de mais de 10.000 casos. Aportes que enriquecem a categoria kardequiana:
+[[wiki/personalidades/camille-flammarion|Camille Flammarion]] dedica à assombração a obra [[wiki/obras/as-casas-mal-assombradas|*As Casas Mal-Assombradas*]], dossiê de mais de 10.000 casos. Aportes que enriquecem a categoria de Kardec:
 
 - **Reconhecimento jurídico** — contratos de locação rescindidos por sentença e o fenômeno reconhecido em foro, atestando objetividade social.
 - **Objetivos × subjetivos** (cap. X) — uns são materiais e exteriores (mármore que se fende, móvel arrastado); outros são percebidos pelo espírito (ruído sem causa material correspondente), telepáticos, *"tão reais quanto os primeiros"* — distinção operacionalmente útil ao dirigente que avalia um relato.

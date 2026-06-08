@@ -24,7 +24,7 @@ Kardec articula a perda do sentido a duas matrizes:
 
 ### Sentido da vida segundo Kardec
 
-A resposta kardequiana ao vazio é estrutural: *"O objetivo da encarnação é o aperfeiçoamento dos Espíritos"* (LE q. 132); *"Conhece-te a ti mesmo"* (LE q. 919) é programa terapêutico — o Espírito que descobre a si mesmo, descobre simultaneamente o sentido. ESE cap. V item 12 ensina que *"a vida do homem na Terra é uma prova"* — o sofrimento existencial é convite ao crescimento, não absurdo metafísico.
+A resposta de Kardec ao vazio é estrutural: *"O objetivo da encarnação é o aperfeiçoamento dos Espíritos"* (LE q. 132); *"Conhece-te a ti mesmo"* (LE q. 919) é programa terapêutico — o Espírito que descobre a si mesmo, descobre simultaneamente o sentido. ESE cap. V item 12 ensina que *"a vida do homem na Terra é uma prova"* — o sofrimento existencial é convite ao crescimento, não absurdo metafísico.
 
 ### Suicídio por tédio (LE q. 943, OQE)
 
@@ -48,7 +48,7 @@ A psicogênese descrita: sociedade hodierna competitiva e angustiada → fatigue
 
 ### Ego × Self: a chave doutrinária
 
-Joanna integra o vocabulário junguiano (ego × Self) à tripartição kardequiana (Espírito-perispírito-corpo): o **Self** é o Espírito eterno acedido pela autoconsciência; o **ego** é a face egoica que opera no plano social. Quando o ego predomina sem contato com o Self, gera o vazio. *"Vitimado, em si mesmo, o indivíduo, que perdeu o contato com o Self, exaure-se no ego exigente e pouco gratificante"* (Conflitos cap. 15). A **autoconsciência** é a chave terapêutica — *"é a sua faculdade de optar, de discernir, que irá trabalhar pela recuperação das suas potências e da sua realidade, avançando para o estágio numinoso"*.
+Joanna integra o vocabulário junguiano (ego × Self) à tripartição de Kardec (Espírito-perispírito-corpo): o **Self** é o Espírito eterno acedido pela autoconsciência; o **ego** é a face egoica que opera no plano social. Quando o ego predomina sem contato com o Self, gera o vazio. *"Vitimado, em si mesmo, o indivíduo, que perdeu o contato com o Self, exaure-se no ego exigente e pouco gratificante"* (Conflitos cap. 15). A **autoconsciência** é a chave terapêutica — *"é a sua faculdade de optar, de discernir, que irá trabalhar pela recuperação das suas potências e da sua realidade, avançando para o estágio numinoso"*.
 
 ### Frankl e a logoterapia
 

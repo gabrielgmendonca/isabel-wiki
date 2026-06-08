@@ -58,7 +58,7 @@ No "Exame crítico" (RE, jul/1860) Kardec retifica três pontos onde a disserta�
 2. **Inversão proposicional** — Kardec propõe a forma mais correta: *"Vereis que o animal pensa, realmente, desde que vive."*
 3. **Continuidade animal-homem** — Kardec firma o princípio fundamental que Charlet não chegou a explicitar: *"entre o animal e o homem há uma solução de continuidade. [...] Nenhum homem é a encarnação do espírito de um animal"* (princípio que entrará em LE q. 597 e Gênese cap. III).
 
-A retificação não desmerece o Espírito comunicante; ao contrário, é exemplo da prática kardequiana de **submeter mesmo as comunicações elogiáveis ao controle da razão**. Charlet é nível doutrinário 2 enquanto Espírito comunicante na *Revista*; Kardec em comentário direto é nível 1 (Pentateuco) na 2ª edição definitiva de LE (1860) que assenta o princípio.
+A retificação não desmerece o Espírito comunicante; ao contrário, é exemplo da prática de Kardec de **submeter mesmo as comunicações elogiáveis ao controle da razão**. Charlet é nível doutrinário 2 enquanto Espírito comunicante na *Revista*; Kardec em comentário direto é nível 1 (Pentateuco) na 2ª edição definitiva de LE (1860) que assenta o princípio.
 
 ## Obras associadas
 

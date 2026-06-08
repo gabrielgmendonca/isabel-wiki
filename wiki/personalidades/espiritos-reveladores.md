@@ -60,7 +60,7 @@ A estrutura coletiva da revelação tem precedente neotestamentário direto no [
 
 A visão do trono (Ap 4–5) reforça a dimensão coletiva: ao redor do trono divino há *"vinte e quatro anciãos"* (4:4) — Espíritos elevados em assembleia — e os *"sete Espíritos de Deus enviados a toda a terra"* (5:6, ver [[wiki/conceitos/sete-espiritos-de-deus]]) — núcleo coletivo da assistência espiritual à humanidade. **A estrutura é homóloga** à da Codificação: revelação ditada por múltiplos Espíritos elevados (24 anciãos / sete Espíritos / signatários do ESE) sob a direção central do Cristo (Cordeiro do Apocalipse / Espírito de Verdade dos Prolegômenos), recebida por médium humano organizador (João em Patmos / Allan Kardec em Paris) e dirigida a múltiplas comunidades. A diferença vocabular é apenas histórica — a estrutura espiritual é a mesma.
 
-Confirmação operacional: *"o testemunho de Jesus é o espírito de profecia"* (Ap 19:10) — formulação compacta do critério kardequiano de identificação dos Espíritos: a profecia autêntica é a que **confirma e desenvolve a moral do Cristo**. Convergência total com ESE cap. XXI (haverá falsos cristos e falsos profetas) e LM 2ª parte cap. XXIV (identificação dos Espíritos).
+Confirmação operacional: *"o testemunho de Jesus é o espírito de profecia"* (Ap 19:10) — formulação compacta do critério de Kardec de identificação dos Espíritos: a profecia autêntica é a que **confirma e desenvolve a moral do Cristo**. Convergência total com ESE cap. XXI (haverá falsos cristos e falsos profetas) e LM 2ª parte cap. XXIV (identificação dos Espíritos).
 
 ## Citações relevantes
 

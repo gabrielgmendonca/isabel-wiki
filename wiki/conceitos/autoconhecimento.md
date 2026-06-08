@@ -29,7 +29,7 @@ E prossegue propondo o **balanço diário**:
 
 > "Dê balanço no seu dia moral para, a exemplo do comerciante, avaliar suas perdas e seus lucros, e eu vos asseguro que a conta destes será mais avultada que a daquelas. Se puder dizer que foi bom o seu dia, poderá dormir em paz e aguardar sem receio o despertar na outra vida." (LE, q. 919, comentário de Santo Agostinho)
 
-Este é o protocolo kardequiano: **(1)** examinar a ação como se fosse de outrem (descentramento que neutraliza o amor-próprio); **(2)** balanço moral diário; **(3)** correção contínua, não-acusatória.
+Este é o protocolo de Kardec: **(1)** examinar a ação como se fosse de outrem (descentramento que neutraliza o amor-próprio); **(2)** balanço moral diário; **(3)** correção contínua, não-acusatória.
 
 A questão complementar é **LE, q. 621**: "A lei de Deus está escrita na consciência" — o que torna o autoconhecimento possível: o critério moral não é externo nem aprendido por convenção; está inscrito no Espírito, e o autoexame é a forma de torná-lo lúcido.
 
@@ -59,7 +59,7 @@ O autoconhecimento, na dimensão transpessoal, conduz à **conquista do self** �
 
 ## Aplicação prática
 
-**Disciplina kardequiana mínima** (cf. LE q. 919 + ESE cap. XVII):
+**Disciplina de Kardec mínima** (cf. LE q. 919 + ESE cap. XVII):
 
 1. **Balanço moral diário**: recolher-se à noite e examinar atos, palavras e pensamentos do dia. Não como inventário punitivo, mas como avaliação serena de avanços e recuos.
 2. **Teste do espelho**: diante de ato duvidoso, perguntar — "como qualificaria esta ação se a tivesse praticado outra pessoa?" Eliminar o privilégio inconsciente do amor-próprio.
@@ -68,7 +68,7 @@ O autoconhecimento, na dimensão transpessoal, conduz à **conquista do self** �
 5. **Vigilância antes da oração** (recomendação de Jesus, retomada por Joanna): o auto-encontro precede a entrega — sem vigilância, a oração vira distração ou autocompaixão devocional.
 
 > [!warning] O que o autoconhecimento **não** é
-> - Não é auto-acusação compulsiva, que gera culpa e paralisia (a culpa cristã milenar é, para Joanna, distorção do programa kardequiano).
+> - Não é auto-acusação compulsiva, que gera culpa e paralisia (a culpa cristã milenar é, para Joanna, distorção do programa de Kardec).
 > - Não é narcisismo introspectivo nem culto da própria personalidade.
 > - Não é confessionalismo dependente de mediador externo: o exame é direto, dispensa intermediário.
 > - Não é exercício esporádico — é prática diária e contínua.

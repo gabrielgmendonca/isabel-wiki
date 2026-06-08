@@ -36,7 +36,7 @@ A **resignação** é primeiro passo — recusar a queixa estéril; o **contenta
 
 ### "Posso todas as coisas em Cristo que me fortalece"
 
-A fórmula final de Paulo (Fp 4:13) é, em chave kardequiana, **confiança no auxílio do modelo Cristo** articulada à liderança dos Espíritos protetores (LE q. 538–540) e à força que vem da imitação consciente de Jesus (LE q. 625):
+A fórmula final de Paulo (Fp 4:13) é, à luz de Kardec, **confiança no auxílio do modelo Cristo** articulada à liderança dos Espíritos protetores (LE q. 538–540) e à força que vem da imitação consciente de Jesus (LE q. 625):
 
 > "Como podemos resistir às tentações do mal? — Pela vontade firme de fazê-lo." (LE q. 919)
 >

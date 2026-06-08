@@ -14,7 +14,7 @@ Concepção segundo a qual os movimentos planetários obedecem a relações harm
 
 ## Origem
 
-Tema desenvolvido por Léon Denis em *O Grande Enigma* (caps. IV–V e nota complementar 3), **sem contraparte direta no Pentateuco kardeciano**. Denis retoma a intuição filosófica de Pitágoras e Platão ("música das esferas") e busca demonstrá-la com base nos estudos de Azbel (*Harmonia dos Mundos*) e na lei de Bode sobre as distâncias planetárias.
+Tema desenvolvido por Léon Denis em *O Grande Enigma* (caps. IV–V e nota complementar 3), **sem contraparte direta no Pentateuco de Kardec**. Denis retoma a intuição filosófica de Pitágoras e Platão ("música das esferas") e busca demonstrá-la com base nos estudos de Azbel (*Harmonia dos Mundos*) e na lei de Bode sobre as distâncias planetárias.
 
 ## Desenvolvimento por Léon Denis
 
@@ -30,7 +30,7 @@ Para Denis, a harmonia das esferas é mais uma demonstração da existência de 
 
 ## Relação com o Pentateuco
 
-Kardec não aborda o tema da harmonia musical dos planetas. Porém, a visão de Denis é coerente com princípios kardequianos:
+Kardec não aborda o tema da harmonia musical dos planetas. Porém, a visão de Denis é coerente com princípios de Kardec:
 
 - A existência de leis universais como prova de Deus (LE, q. 1–4)
 - A harmonia do Universo como argumento da causa inteligente (LE, q. 8–9)

@@ -61,7 +61,7 @@ Três pontos para o estudo espírita:
 
 1. **Tríplice movimento da prece (4:6).** Paulo articula três modalidades — **oração** (gr. *proseuchē*, ato genérico de elevar-se a Deus), **súplica** (gr. *deēsis*, pedido específico) e **ação de graças** (gr. *eucharistia*, gratidão). A última é decisiva: a oração que pede sem agradecer fica truncada. Eco direto de LE q. 659 — a prece pode propor-se a "louvar, pedir, agradecer". A gratidão é parte da [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] (LE q. 660–663).
 2. **"Não estejais inquietos por coisa alguma"** (4:6). A prece não é negação da preocupação legítima, é **dirigir** a inquietação para o canal certo. Paulo escreve preso em Roma — sabe do que fala. Coerente com ESE cap. XXVII, item 7 (a prece não muda a ordem da natureza, mas dispõe o orante).
-3. **"A paz de Deus que excede todo o entendimento" (4:7)** descreve, em chave kardequiana, o efeito real da sintonia mediúnica positiva — a vibração serena que se instala quando o orante eleva o pensamento aos Espíritos protetores. Não é metáfora; é experiência fenomenologicamente reportada. André Luiz, em *Missionários da Luz* cap. 6, descreve a prece de Cecília como "vibração, energia, poder" que produz efeito clínico real sobre o esposo vampirizado — articulação direta com Fp 4:7.
+3. **"A paz de Deus que excede todo o entendimento" (4:7)** descreve, à luz de Kardec, o efeito real da sintonia mediúnica positiva — a vibração serena que se instala quando o orante eleva o pensamento aos Espíritos protetores. Não é metáfora; é experiência fenomenologicamente reportada. André Luiz, em *Missionários da Luz* cap. 6, descreve a prece de Cecília como "vibração, energia, poder" que produz efeito clínico real sobre o esposo vampirizado — articulação direta com Fp 4:7.
 
 A passagem de Filipenses é fórmula útil **para a prece da casa espírita** quando há tensão na assembleia (notícias preocupantes, casos difíceis em mesa mediúnica): orar pedindo + agradecendo + entregando, e deixar a "paz que excede o entendimento" assentar antes de qualquer próxima ação.
 
@@ -119,7 +119,7 @@ O Ministro Clarêncio introduz uma distinção operativa no vocabulário (cap. 1
 
 > "Abstenhamo-nos de empregar a palavra 'prece', quando se trate do desequilíbrio — digamos 'invocação'. Quando alguém nutre o desejo de perpetrar uma falta está invocando forças inferiores e mobilizando recursos pelos quais se responsabilizará." (*Entre a Terra e o Céu*, cap. 1)
 
-A prece é classificada por **frequência vibratória**: "Desejos banais encontram realização próxima na própria Esfera em que surgem. Impulsos de expressão algo mais nobre são amparados pelas almas que se enobreceram. Ideais e petições de significação profunda na imortalidade remontam às Alturas." O ensino complementa o princípio kardequiano (ESE, cap. XXVII) de que a prece não muda a lei, mas dispõe o ser a receber a influência correspondente à sua sintonia.
+A prece é classificada por **frequência vibratória**: "Desejos banais encontram realização próxima na própria Esfera em que surgem. Impulsos de expressão algo mais nobre são amparados pelas almas que se enobreceram. Ideais e petições de significação profunda na imortalidade remontam às Alturas." O ensino complementa o princípio de Kardec (ESE, cap. XXVII) de que a prece não muda a lei, mas dispõe o ser a receber a influência correspondente à sua sintonia.
 
 Ver [[wiki/obras/entre-a-terra-e-o-ceu]].
 

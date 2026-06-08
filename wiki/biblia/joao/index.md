@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **João** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/evangelho-segundo-joao]].
+Análise temática e leitura de Kardec em [[wiki/obras/evangelho-segundo-joao]].
 
 ## Capítulos
 

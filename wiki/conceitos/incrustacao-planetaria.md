@@ -12,7 +12,7 @@ status: ativo
 
 Hipótese cosmológica proposta pelo **[[wiki/personalidades/sr-jobard|Sr. Jobard]]** em [[wiki/obras/revista-espirita-1860]] (abr/1860, "Formação da Terra — Teoria da incrustação planetária"), segundo a qual a Terra atual teria sido formada pela **fusão de quatro corpos planetários menores** (designados *Ásia*, *África*, *Europa*, *América*), cada um trazendo sua própria raça humana, fauna e flora pré-formadas. **Kardec não adota** a teoria — explicita reservas e usa o caso para fixar o princípio metodológico decisivo sobre **os limites da autoridade dos Espíritos em matéria científica**.
 
-A página é incluída na wiki não porque a teoria seja doutrinariamente correta, mas porque o **caso é matriz da metodologia kardequiana**: é o exemplo mais explícito, no Pentateuco e na *Revista*, do método de **submeter ao crivo da razão e dos fatos** mesmo as comunicações elaboradas e elogiáveis vindas de Espíritos.
+A página é incluída na wiki não porque a teoria seja doutrinariamente correta, mas porque o **caso é matriz da metodologia de Kardec**: é o exemplo mais explícito, no Pentateuco e na *Revista*, do método de **submeter ao crivo da razão e dos fatos** mesmo as comunicações elaboradas e elogiáveis vindas de Espíritos.
 
 ## Ensino de Kardec
 
@@ -80,7 +80,7 @@ Em [[wiki/obras/genese]] cap. VI ("Uranografia geral") e cap. VII ("Esboço geol
 
 - **Em estudo doutrinário:** o caso é exemplo paradigmático para discutir como o Espiritismo distingue moral e ciência no ensino dos Espíritos.
 - **Em palestra:** material excelente para discursar sobre o **controle universal** e a recusa do dogmatismo na codificação. A frase *"o grande critério do ensino dado pelos Espíritos é a lógica"* é citação canônica.
-- **Em diálogo com leituras espíritas tardias:** a teoria reaparece eventualmente em autores fora do mainstream kardequiano (alguns autores do séc. XX em registro mediúnico contestável). A regra de Kardec permanece o critério: lógica + fatos + consenso, não nome do Espírito.
+- **Em diálogo com leituras espíritas tardias:** a teoria reaparece eventualmente em autores fora do mainstream de Kardec (alguns autores do séc. XX em registro mediúnico contestável). A regra de Kardec permanece o critério: lógica + fatos + consenso, não nome do Espírito.
 
 ## Divergências
 

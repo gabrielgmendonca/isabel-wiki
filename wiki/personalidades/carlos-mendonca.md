@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Expositor espírita contemporâneo, vinculado ao **Centro Espírita Bezerra de Menezes de Estácio** (Rio de Janeiro). Conduz o programa **EELDE — Estudo do Evangelho à Luz da Doutrina Espírita**, série regular de estudos do Evangelho transmitida pela internet, na qual cada encontro toma uma perícope evangélica (parábola, sermão, milagre) e a reanalisa à luz da codificação kardequiana.
+Expositor espírita contemporâneo, vinculado ao **Centro Espírita Bezerra de Menezes de Estácio** (Rio de Janeiro). Conduz o programa **EELDE — Estudo do Evangelho à Luz da Doutrina Espírita**, série regular de estudos do Evangelho transmitida pela internet, na qual cada encontro toma uma perícope evangélica (parábola, sermão, milagre) e a reanalisa à luz da codificação de Kardec.
 
 A wiki não dispõe de detalhes biográficos ou de obra editorial publicada de sua autoria; o material disponível é o **acervo gravado de palestras** e seus respectivos resumos doutrinários. Por isso, sua presença na wiki é a de um **expositor contemporâneo de nível 4** — alinhado à codificação em método e tese, útil para estudo e preparação de palestras, sem o peso doutrinário dos consagrados de nível 3 (Léon Denis, Chico Xavier, Divaldo). Ver [[wiki/sinteses/hierarquia-de-autoridade]].
 

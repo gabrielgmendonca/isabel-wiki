@@ -38,7 +38,7 @@ O mal moral existe porque os Espíritos foram criados simples e ignorantes, e De
 
 ## Base escritural: Romanos 2
 
-A formulação kardequiana ("a lei está escrita na consciência") encontra correspondência neotestamentária **direta** em Paulo:
+A formulação de Kardec ("a lei está escrita na consciência") encontra correspondência neotestamentária **direta** em Paulo:
 
 > "Porque, quando os gentios, que não têm lei, fazem naturalmente as coisas que são da lei, não tendo eles lei, para si mesmos são lei; os quais mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência, e os seus pensamentos, quer acusando-os, quer defendendo-os." (Rm 2:14–15, ACF)
 
@@ -58,13 +58,13 @@ A mesma tese — a lei moral inscrita interiormente, e não código exterior —
 
 > "Porque todos me conhecerão, Desde o menor deles até ao maior." (Hb 8:11)
 
-Três pontos de convergência com a formulação kardequiana:
+Três pontos de convergência com a formulação de Kardec:
 
 1. **A lei escrita no coração e no entendimento** é a mesma "lei escrita na consciência" de LE q. 621. A formulação neotestamentária é mais antiga (Paulo/Hebreus cita Jeremias, do séc. VI a.C.), mas converge ao mesmo axioma: a Lei divina não é imposta de fora — é **despertada por dentro**.
 2. **"Todos me conhecerão"** (8:11) é formulação matriz do **universalismo moral** que Kardec coroa em LE q. 1009–1016 (a perfeição é acessível a todos, por tempo mais ou menos longo).
 3. **Passagem do culto ritual exterior (antiga aliança) para a moral interior (nova aliança)** é a mesma trajetória que Kardec leva ao fim lógico em ESE cap. XVII ("adoração em espírito e verdade") e em ESE cap. XV ("fora da caridade não há salvação" — recusa de que sacerdócio, ritual ou linhagem substituam o bem feito e a consciência limpa).
 
-A Lei Natural kardequiana é, lida pela chave de Hb 8:10, **a nova aliança levada até o seu fim doutrinário**. Ver [[wiki/obras/epistola-aos-hebreus]].
+A Lei Natural de Kardec é, lida pela chave de Hb 8:10, **a nova aliança levada até o seu fim doutrinário**. Ver [[wiki/obras/epistola-aos-hebreus]].
 
 ## Divisão das leis morais
 

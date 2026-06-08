@@ -10,7 +10,7 @@ status: rascunho
 
 ## Identificação
 
-**Jean-Baptiste Roustaing** (1805–1879), advogado em Bordeaux. Em 1861 era *"distinto advogado e sobretudo consciencioso"* (Dr. Bouché de Vitray, RE nov/1861), figura proeminente do meio jurídico bordelês e um dos primeiros catalisadores do Espiritismo na cidade. Posteriormente publicou doutrina divergente em relação à codificação kardequiana — material a ser desenvolvido quando os volumes correspondentes da *Revue Spirite* (a partir de 1865) forem ingeridos.
+**Jean-Baptiste Roustaing** (1805–1879), advogado em Bordeaux. Em 1861 era *"distinto advogado e sobretudo consciencioso"* (Dr. Bouché de Vitray, RE nov/1861), figura proeminente do meio jurídico bordelês e um dos primeiros catalisadores do Espiritismo na cidade. Posteriormente publicou doutrina divergente em relação à codificação de Kardec — material a ser desenvolvido quando os volumes correspondentes da *Revue Spirite* (a partir de 1865) forem ingeridos.
 
 ## Membro honorário da SPEE em 1862
 

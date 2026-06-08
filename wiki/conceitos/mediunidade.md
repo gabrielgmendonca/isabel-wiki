@@ -136,7 +136,7 @@ Ver [[wiki/obras/primeira-epistola-aos-corintios]] para leitura integral dos cap
 
 ## Manifesto operacional em André Luiz (*Missionários da Luz*, 1945, cap. 9)
 
-Em sessão noturna de instrução a aprendizes em sono físico, o Instrutor Alexandre formula o que pode ser lido como o **manifesto operacional** da mediunidade espírita à luz do Cristo. A formulação resume e articula em prosa direta o quadro kardequiano:
+Em sessão noturna de instrução a aprendizes em sono físico, o Instrutor Alexandre formula o que pode ser lido como o **manifesto operacional** da mediunidade espírita à luz do Cristo. A formulação resume e articula em prosa direta o quadro de Kardec:
 
 > "Mediunidade não é disposição da carne transitória e sim expressão do Espírito imortal. Naturalmente, o intercâmbio aprimorado, entre os dois Planos, requere sadias condições do vaso sagrado de possibilidades fisiológicas que o Senhor vos confiou para santificação; todavia, o corpo é instrumento elevado nas mãos do artista, que deve ser divino." (André Luiz / Chico Xavier, *Missionários da Luz*, cap. 9)
 
@@ -200,7 +200,7 @@ No fecho (cap. 30), Áulus amplia o conceito a categoria ontológica universal:
 
 > "O lavrador é o médium da colheita, a planta é o médium da frutificação e a flor é o médium do perfume. (...) **A Arte é a mediunidade do Belo**. (...) o juiz é o médium das leis. (...) **A família consanguínea é uma reunião de almas em processo de evolução**. (...) A paternidade e a maternidade, dignamente vividas no mundo, constituem sacerdócio dos mais altos para o Espírito reencarnado." (cap. 30)
 
-Toda atividade humana é mediunidade — o homem **filtra os recursos que o cercam e molda-lhes a manifestação, segundo as suas possibilidades**. A formulação coerente com 1 Co 12 (corpo único com muitos membros) e com a teleologia kardequiana da mediunidade como serviço (LM, 2ª parte, cap. XXXI — *mediunato*).
+Toda atividade humana é mediunidade — o homem **filtra os recursos que o cercam e molda-lhes a manifestação, segundo as suas possibilidades**. A formulação coerente com 1 Co 12 (corpo único com muitos membros) e com a teleologia de Kardec da mediunidade como serviço (LM, 2ª parte, cap. XXXI — *mediunato*).
 
 NDM introduz ainda o **mandato mediúnico** como categoria distinta da mediunidade comum: delegação outorgada pelo Plano Superior por crédito moral acumulado, com mentor fixo, programa pré-encarnatório e responsabilidade ampliada. Ver [[wiki/conceitos/mandato-mediunico]] para o tratamento completo. O psicoscópio (cap. 2) — aparelho fluídico que ausculta a alma — funciona como instrumento auxiliar da pedagogia: ver [[wiki/conceitos/psicoscopio]].
 

@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Filipenses** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/epistola-aos-filipenses]].
+Análise temática e leitura de Kardec em [[wiki/obras/epistola-aos-filipenses]].
 
 ## Capítulos
 

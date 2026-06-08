@@ -100,7 +100,7 @@ O argumento paulino é paralelo ao deniseano na chave argumentativa, embora se r
 | "Paixões infames"; "torpeza"; "erro" | "Viragos"; "efeminados extraviados na vida"; "nada têm de estético nem de sedutor" |
 | Fundamento: ordem criacional hetero entre os sexos | Fundamento: hábito perispiritual sedimentado a um sexo |
 
-Ambos operam com um conceito de **"natureza" sexual** estabilizada, da qual o desvio é moralmente degradante. E ambos se dissolvem pela mesma hermenêutica kardequiana, em LE q. 200–202:
+Ambos operam com um conceito de **"natureza" sexual** estabilizada, da qual o desvio é moralmente degradante. E ambos se dissolvem pela mesma hermenêutica de Kardec, em LE q. 200–202:
 
 > **Q. 200** — "Têm sexos os Espíritos?
 > — Não como o entendeis, pois que os sexos dependem do organismo. Há entre eles amor e simpatia, mas baseados na semelhança dos sentimentos." (LE, q. 200)
@@ -112,7 +112,7 @@ Se o sexo é atributo do organismo, não do Espírito; se a alternância entre e
 
 Não se trata, com isso, de equiparar os dois casos ou de esgotar a discussão sobre orientação sexual — questão que Kardec não aborda diretamente e que o Espiritismo moderno trata com cuidado pastoral próprio. Trata-se de **nomear o procedimento argumentativo comum**: invocar a "natureza" biológica como critério moral absoluto. O Pentateuco oferece lentes mais precisas: a moral se mede pela [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|caridade efetiva]], pela [[wiki/conceitos/responsabilidade|responsabilidade]] ante a consciência (LE q. 621) e pelas [[wiki/conceitos/provas-e-expiacoes|provas]] escolhidas para o progresso — não pelo formato do corpo nem por padrões socioculturais de época.
 
-A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki/obras/epistola-aos-romanos|Epístola aos Romanos]], anota precisamente este paralelo: Paulo em Rm 1 e Denis em OPS cap. 13 compartilham a mesma estratégia argumentativa, e ambas são dissolvidas pela mesma tríade kardequiana (LE q. 200–202).
+A atualização deste registro em 2026-04-20, no contexto da ingestão da [[wiki/obras/epistola-aos-romanos|Epístola aos Romanos]], anota precisamente este paralelo: Paulo em Rm 1 e Denis em OPS cap. 13 compartilham a mesma estratégia argumentativa, e ambas são dissolvidas pela mesma tríade de Kardec (LE q. 200–202).
 
 ## Extensão: André Luiz (*Sexo e Destino*, 1963)
 
@@ -122,7 +122,7 @@ A ingestão de [[wiki/obras/sexo-e-destino|Sexo e Destino]] (Uberaba, 1963 — c
 
 A passagem está em Parte 2, cap. 5. André Luiz visita os institutos de ensino da colônia espiritual "Almas Irmãs" — faculdades dedicadas a "sexo e amor", "sexo e matrimônio", "sexo e maternidade", "sexo e medicina", "sexo e penalogia". O contraste com a desconsideração terrestre é explícito: "na Espiritualidade Superior o sexo não é considerado unicamente por baliza morfológica do corpo de carne (...) definição unilateral que, na Terra, ainda se faz seguir de atitudes e exigências tirânicas, herdadas do comportamento animal".
 
-Félix expõe a tese kardequiana de fundo: "Entre os Espíritos desencarnados, a partir daqueles de evolução mediana, o sexo é categorizado por atributo divino na individualidade humana, qual ocorre com a inteligência, com o sentimento, com o raciocínio". Em chave compatível com LE q. 200–202: "masculinidade e feminilidade totais são inexistentes na personalidade humana, do ponto de vista psicológico".
+Félix expõe a tese de Kardec de fundo: "Entre os Espíritos desencarnados, a partir daqueles de evolução mediana, o sexo é categorizado por atributo divino na individualidade humana, qual ocorre com a inteligência, com o sentimento, com o raciocínio". Em chave compatível com LE q. 200–202: "masculinidade e feminilidade totais são inexistentes na personalidade humana, do ponto de vista psicológico".
 
 ### A pergunta direta sobre homossexuais
 
@@ -150,11 +150,11 @@ A nota não restringe a dignidade dos homossexuais — nem sugere que a liberta�
 
 A passagem **não contradiz** Kardec; ao contrário, opera no quadro de LE q. 200–202 (sexo é atributo do organismo, não do Espírito) e o aplica pastoralmente. Mais importante: **inverte explicitamente a leitura estigmatizante de Léon Denis**, sem citá-lo nominalmente. Onde Denis fala em "viragos", "extraviados", "nada têm de estético nem de sedutor", André Luiz fala em "irmãos em condições inversivas", "mesma dignidade humana", "cessar perseguição".
 
-A relação com a extensão posterior de Emmanuel (*Vida e Sexo*, 1970) é de **continuidade doutrinária**: Emmanuel desenvolve o quadro com vocabulário de "bissexualidade adquirida ao longo de milênios", André Luiz já o havia formulado em chave reencarnatória ("expiação ou tarefa específica"). Os dois textos operam o mesmo movimento: dignificação na herança kardequiana, sem cair no estigma deniseano.
+A relação com a extensão posterior de Emmanuel (*Vida e Sexo*, 1970) é de **continuidade doutrinária**: Emmanuel desenvolve o quadro com vocabulário de "bissexualidade adquirida ao longo de milênios", André Luiz já o havia formulado em chave reencarnatória ("expiação ou tarefa específica"). Os dois textos operam o mesmo movimento: dignificação na herança de Kardec, sem cair no estigma deniseano.
 
 ### Status
 
-A divergência permanece `aberta` por causa de Léon Denis (e da estrutura paulina). André Luiz e Emmanuel são registrados aqui como **inversões pastorais sucessivas** (1963 → 1970) que reforçam a leitura kardequiana. **A tradição espírita brasileira sobre o tema, vista cronologicamente, evolui de Léon Denis (estigma) para André Luiz (dignidade reencarnatória) para Emmanuel (sistematização pastoral)**.
+A divergência permanece `aberta` por causa de Léon Denis (e da estrutura paulina). André Luiz e Emmanuel são registrados aqui como **inversões pastorais sucessivas** (1963 → 1970) que reforçam a leitura de Kardec. **A tradição espírita brasileira sobre o tema, vista cronologicamente, evolui de Léon Denis (estigma) para André Luiz (dignidade reencarnatória) para Emmanuel (sistematização pastoral)**.
 
 ## Extensão: Emmanuel (*Vida e Sexo*, 1970)
 
@@ -170,7 +170,7 @@ Note-se a inversão completa do vocabulário: Denis fala em "viragos", "efeminad
 
 ### Camada nova: escolha cármica do sexo
 
-Emmanuel adiciona ao quadro kardequiano duas teses sobre a **escolha do sexo** na nova encarnação que **não estão** em Kardec:
+Emmanuel adiciona ao quadro de Kardec duas teses sobre a **escolha do sexo** na nova encarnação que **não estão** em Kardec:
 
 1. **Reparativa.** "O homem que abusou das faculdades genésicas, arruinando a existência de outras pessoas (...) em muitos casos é induzido a buscar nova posição, no renascimento físico, em corpo morfologicamente feminino, aprendendo, em regime de prisão, a reajustar os próprios sentimentos." (cap. 21)
 2. **Missionária.** "Espíritos cultos e sensíveis, aspirando a realizar tarefas específicas na elevação de agrupamentos humanos (...) rogam dos Instrutores da Vida Maior (...) a própria internação no campo físico, em vestimenta carnal oposta à estrutura psicológica pela qual transitoriamente se definem." (cap. 21)
@@ -179,14 +179,14 @@ Emmanuel adiciona ao quadro kardequiano duas teses sobre a **escolha do sexo** n
 
 As duas teses **não contradizem** Kardec. LE q. 202 diz que ao Espírito "isso pouco lhe importa" — o que descreve a **regra geral** (a alternância é pedagógica e não preferencial). Emmanuel descreve **cenários particulares** dentro desse quadro: certos casos em que, por reparação ou missão, a escolha do sexo deixa de ser indiferente. A relação é de gênero/espécie, não de contradição.
 
-A diferença com Denis é qualitativa: Denis **estigmatiza** quem mudou; Emmanuel **explica e dignifica**. Onde Denis usa "natureza" em chave moralizada (paralela a Paulo em Rm 1:26–27), Emmanuel a usa em chave evolutiva — a "natureza" sexual humana **é** bissexual, sedimentada por milênios. Essa diferença é exatamente o que a tríade kardequiana (LE q. 200–202) prevê e autoriza.
+A diferença com Denis é qualitativa: Denis **estigmatiza** quem mudou; Emmanuel **explica e dignifica**. Onde Denis usa "natureza" em chave moralizada (paralela a Paulo em Rm 1:26–27), Emmanuel a usa em chave evolutiva — a "natureza" sexual humana **é** bissexual, sedimentada por milênios. Essa diferença é exatamente o que a tríade de Kardec (LE q. 200–202) prevê e autoriza.
 
 > [!note] Vocabulário datado de 1970
 > O cap. 21 abre identificando a homossexualidade como "também hoje chamada transexualidade, em alguns círculos de ciência" — equiparação terminológica que confunde fenômenos hoje reconhecidos como distintos (orientação sexual × identidade de gênero). A substância pastoral do capítulo (dignidade, igualdade de respeito, recusa da patologização) permanece atual; o vocabulário precisa de tradução. Para a sistematização do capítulo no contexto da obra, ver [[wiki/aprofundamentos/sexualidade-em-emmanuel]].
 
 ### Status
 
-A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). Emmanuel é registrado aqui como **inversão pastoral** que reforça a leitura kardequiana e neutraliza, na tradição espírita brasileira, o vetor estigmatizante deniseano. Casa espírita que precise de referência interna sobre o tema pode citar diretamente *Vida e Sexo* cap. 21 sem necessidade de recorrer a autores fora da tradição.
+A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). Emmanuel é registrado aqui como **inversão pastoral** que reforça a leitura de Kardec e neutraliza, na tradição espírita brasileira, o vetor estigmatizante deniseano. Casa espírita que precise de referência interna sobre o tema pode citar diretamente *Vida e Sexo* cap. 21 sem necessidade de recorrer a autores fora da tradição.
 
 ## Extensão: Joanna de Ângelis (*Encontro com a Paz e a Saúde*, 2007)
 

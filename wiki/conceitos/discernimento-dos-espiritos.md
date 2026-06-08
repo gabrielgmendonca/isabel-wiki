@@ -81,7 +81,7 @@ Paulo já institui, em 1 Co 14:29: "falem dois ou três profetas, **e os outros 
 
 > "A unidade do ensino [...] constitui a prova mais forte de sua origem divina. Quando os Espíritos, por instrumentos diversos, em lugares diversos, sem que haja comunicação possível entre os médiuns, dão ensinos concordantes, é porque uma só verdade os inspira." (LM, 2ª parte, cap. XXVI, item 279 — concordância universal)
 
-A **concordância universal** entre comunicações independentes é um dos pilares metodológicos da codificação kardequiana (cf. ESE, Introdução, item IV).
+A **concordância universal** entre comunicações independentes é um dos pilares metodológicos da codificação de Kardec (cf. ESE, Introdução, item IV).
 
 ### Identificação nominal é secundária
 
@@ -105,7 +105,7 @@ Em 2 Coríntios, Paulo formula o alerta mais forte do NT sobre o engano por apar
 
 > "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo. **E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz**. Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras." (2 Co 11:13–15)
 
-Para o Espiritismo, a passagem é doutrinariamente decisiva: **aparência espiritual elevada não autentica origem elevada**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, paulino e kardequiano, é **moral e prático**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Daí a regra de Kardec em LM, 2ª parte, cap. XXIV — **não é o nome (nem a luminosidade, nem o prodígio) que faz o valor da comunicação; é o ensino que faz o valor da assinatura**.
+Para o Espiritismo, a passagem é doutrinariamente decisiva: **aparência espiritual elevada não autentica origem elevada**. Espíritos inferiores e mistificadores podem revestir-se de fenomenologia impressionante, vocabulário angélico, sinais espetaculares — e ainda assim serem "obreiros fraudulentos". O critério final, de Paulo e de Kardec, é **moral e prático**: "pelos seus frutos os conhecereis" (Mt 7:16; ESE cap. XXI). Daí a regra de Kardec em LM, 2ª parte, cap. XXIV — **não é o nome (nem a luminosidade, nem o prodígio) que faz o valor da comunicação; é o ensino que faz o valor da assinatura**.
 
 Ver [[wiki/obras/segunda-epistola-aos-corintios]].
 
@@ -139,7 +139,7 @@ João oferece critério cristológico:
 
 Kardec preserva a **substância moral** desse critério: é Espírito de Deus quem reconhece a missão redentora do Cristo e se alinha à sua moral. Não importa a confissão ritual ou a assinatura — importa o alinhamento com a moral evangélica (ESE, cap. XXI, itens 9–10).
 
-A figura do **espírito da verdade vs. espírito do erro** (1 Jo 4:6) que João formula em seguida — "Nisto conhecemos nós o espírito da verdade e o espírito do erro" — é, para Kardec, o **mesmo Espírito de Verdade** prometido em Jo 14:16–17 como Consolador, e signatário central dos Prolegômenos do ESE. A continuidade vocabular sustenta a leitura kardequiana do Espiritismo como cumprimento da promessa joanina (cf. [[wiki/conceitos/tres-revelacoes]]; [[wiki/personalidades/espiritos-reveladores]]).
+A figura do **espírito da verdade vs. espírito do erro** (1 Jo 4:6) que João formula em seguida — "Nisto conhecemos nós o espírito da verdade e o espírito do erro" — é, para Kardec, o **mesmo Espírito de Verdade** prometido em Jo 14:16–17 como Consolador, e signatário central dos Prolegômenos do ESE. A continuidade vocabular sustenta a leitura de Kardec do Espiritismo como cumprimento da promessa joanina (cf. [[wiki/conceitos/tres-revelacoes]]; [[wiki/personalidades/espiritos-reveladores]]).
 
 Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo de 1 Jo 4:1–6 dentro do conjunto da carta.
 

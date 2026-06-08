@@ -44,7 +44,7 @@ O Espiritismo lê o hino preservando o **núcleo doutrinário** (Espírito super
 >
 > "Para o homem, Jesus constitui o tipo da perfeição moral a que a Humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo, e a doutrina que ensinou é a expressão mais pura da sua lei." (LE q. 625, comentário)
 
-Kardec dedica nove seções de [[wiki/obras/obras-postumas|Obras Póstumas]] ("Estudo sobre a natureza do Cristo") à demonstração de que **o dogma da consubstancialidade não é deduzível do NT** — e que o próprio Jesus, Paulo e os profetas o tratam como **enviado**, não como Deus. Análise sistemática em [[wiki/personalidades/jesus]]. A "exaltação" de Fp 2:9 é, em chave kardequiana, **reconhecimento do progresso conquistado pelo serviço**, não divinização ontológica posterior.
+Kardec dedica nove seções de [[wiki/obras/obras-postumas|Obras Póstumas]] ("Estudo sobre a natureza do Cristo") à demonstração de que **o dogma da consubstancialidade não é deduzível do NT** — e que o próprio Jesus, Paulo e os profetas o tratam como **enviado**, não como Deus. Análise sistemática em [[wiki/personalidades/jesus]]. A "exaltação" de Fp 2:9 é, à luz de Kardec, **reconhecimento do progresso conquistado pelo serviço**, não divinização ontológica posterior.
 
 ### 2. "Esvaziar-se" descreve a humildade voluntária do Espírito missionário
 
@@ -62,7 +62,7 @@ O sofrimento de Jesus, lido pelo Espiritismo, é **prova escolhida no estado err
 
 "Por isso [gr. *dio*, "por causa do que precede"], também Deus o exaltou soberanamente" (Fp 2:9) — a partícula causal é decisiva. A exaltação **decorre** do serviço prestado, não precede ontologicamente. Para o Espiritismo, é descrição da operação real da escala progressiva (LE q. 100–113; q. 1009–1012): **Espíritos avançam pelo trabalho moral**, e Jesus, no ápice da escala terrena, é "exaltado" exatamente por ter percorrido até o fim a missão escolhida.
 
-A aclamação "todo joelho se dobra [...] toda língua confessa" (2:10–11) descreve, em chave kardequiana, o **reconhecimento universal** que se estenderá pelos planos espirituais à medida que a humanidade progride — não submissão cultual a uma terceira pessoa da Trindade. "Para glória de Deus Pai" (2:11) preserva a **subordinação** do Filho ao Pai, ponto que Kardec destaca em OPE — Jesus é "Filho", não Pai; Mensageiro, não Origem.
+A aclamação "todo joelho se dobra [...] toda língua confessa" (2:10–11) descreve, à luz de Kardec, o **reconhecimento universal** que se estenderá pelos planos espirituais à medida que a humanidade progride — não submissão cultual a uma terceira pessoa da Trindade. "Para glória de Deus Pai" (2:11) preserva a **subordinação** do Filho ao Pai, ponto que Kardec destaca em OPE — Jesus é "Filho", não Pai; Mensageiro, não Origem.
 
 ## Aplicação prática
 

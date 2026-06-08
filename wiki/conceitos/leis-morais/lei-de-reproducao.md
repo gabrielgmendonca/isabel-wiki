@@ -64,7 +64,7 @@ A igualdade numérica dos sexos indica a proporção em que devem unir-se: "tudo
 
 ## Em André Luiz: afeto verdadeiro e obsessão (*Sexo e Destino*, 1963)
 
-[[wiki/personalidades/andre-luiz|André Luiz]] aplica a tese kardequiana ao drama familiar concreto em [[wiki/obras/sexo-e-destino]]. A obra mostra como uniões movidas por paixão sem afeto verdadeiro **abrem o casal a obsessão e [[wiki/conceitos/possessao-partilhada|possessão partilhada]]**, gerando ciclos cármicos que se prolongam pela reencarnação. Félix expõe na Parte 2, cap. 5:
+[[wiki/personalidades/andre-luiz|André Luiz]] aplica a tese de Kardec ao drama familiar concreto em [[wiki/obras/sexo-e-destino]]. A obra mostra como uniões movidas por paixão sem afeto verdadeiro **abrem o casal a obsessão e [[wiki/conceitos/possessao-partilhada|possessão partilhada]]**, gerando ciclos cármicos que se prolongam pela reencarnação. Félix expõe na Parte 2, cap. 5:
 
 > "Qualquer ligação sexual, instalada no campo emotivo, engendra sistemas de compensação vibratória, e o parceiro que lesa o outro, até o ponto em que suscitou os desastres morais consequentes, passa a responder por dívida justa. Todo desmando sexual danificando consciências reclama corrigenda, tanto quanto qualquer abuso do raciocínio." (André Luiz / Chico Xavier + Waldo Vieira, *Sexo e Destino*, Parte 2, cap. 5)
 

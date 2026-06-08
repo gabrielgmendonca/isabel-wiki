@@ -10,7 +10,7 @@ status: rascunho
 
 ## Definição curta
 
-Esferas vivas pouco maiores que um crânio humano, de cor plúmbea ou cinzento-escuro, em que **se reduzem Espíritos que perderam o veículo perispiritual pela densidade mental** acumulada em paixões inferiores. Termo introduzido por André Luiz / Chico Xavier em *Libertação* (1949), que dedica o cap. 6 ao seu estudo. Não é categoria kardequiana clássica, mas desenvolvimento narrativo coerente com LM cap. XXIII (obsessão) e C&I 1ª parte cap. VII (penas e gozos da vida futura).
+Esferas vivas pouco maiores que um crânio humano, de cor plúmbea ou cinzento-escuro, em que **se reduzem Espíritos que perderam o veículo perispiritual pela densidade mental** acumulada em paixões inferiores. Termo introduzido por André Luiz / Chico Xavier em *Libertação* (1949), que dedica o cap. 6 ao seu estudo. Não é categoria de Kardec clássica, mas desenvolvimento narrativo coerente com LM cap. XXIII (obsessão) e C&I 1ª parte cap. VII (penas e gozos da vida futura).
 
 ## Ensino de André Luiz
 
@@ -61,7 +61,7 @@ A operação sublinha que o desligamento não é violência — é **cirurgia ma
 
 > "O caminho de semelhantes companheiros é a reencarnação na Crosta da Terra ou em setores outros de vida congênere, qual ocorre à semente destinada à cova escura para trabalhos de produção, seleção e aprimoramento." (*Libertação*, cap. 6)
 
-A reencarnação refunde o veículo perispiritual a partir do molde mental que restou. É a aplicação extrema do princípio kardequiano de que **a reencarnação é misericórdia, não castigo** (LE q. 167) — mesmo o Espírito reduzido a feto mental tem o caminho de volta, pela cova da carne.
+A reencarnação refunde o veículo perispiritual a partir do molde mental que restou. É a aplicação extrema do princípio de Kardec de que **a reencarnação é misericórdia, não castigo** (LE q. 167) — mesmo o Espírito reduzido a feto mental tem o caminho de volta, pela cova da carne.
 
 ## Distinções importantes
 
@@ -84,7 +84,7 @@ A obsessão clássica (LM cap. XXIII) envolve dois Espíritos íntegros — obse
 ## Páginas relacionadas
 
 - [[wiki/conceitos/perispirito]] — vaso perecível e transformável; ovóide é caso de degradação
-- [[wiki/conceitos/morte-espiritual]] — distinguir do conceito kardequiano (OPE)
+- [[wiki/conceitos/morte-espiritual]] — distinguir do conceito de Kardec (OPE)
 - [[wiki/conceitos/obsessao]] — fase técnica avançada (cf. caso Margarida)
 - [[wiki/conceitos/reencarnacao]] — caminho de reabilitação
 - [[wiki/conceitos/expiacao]] · [[wiki/conceitos/expiacao-e-reparacao]] — penalidade espontânea (não imposta) por densificação

@@ -30,7 +30,7 @@ Para o estudo espírita: a trajetória interior de João — do "filho do trovã
 
 O Quarto Evangelho atribui ao "discípulo amado" a presença ao pé da cruz — único dos doze a permanecer junto a Maria (Jo 19:25–27) — e o testemunho da chegada ao sepulcro vazio na manhã da ressurreição (Jo 20:1–10). É a João, ainda, que Jesus confia, do alto da cruz, o cuidado de Maria ("Eis aí tua mãe", 19:27).
 
-Na leitura espírita, esses momentos são compreendidos não como dogmática pura, mas como **registro testemunhal**: João viu Jesus morrer; viu o sepulcro vazio; viu o Cristo ressuscitado em corpo de Espírito (cf. Lc 24:36–43; Jo 20:19–29 — o "corpo glorioso" é, em chave kardequiana, o [[wiki/conceitos/perispirito|perispírito]] tornado tangível pela ação fluídica, conforme A Gênese cap. XV). A confiança de Maria a João é gesto **espírita** antes de tempo: a família espiritual prevalece sobre a biológica (cf. Mt 12:46–50).
+Na leitura espírita, esses momentos são compreendidos não como dogmática pura, mas como **registro testemunhal**: João viu Jesus morrer; viu o sepulcro vazio; viu o Cristo ressuscitado em corpo de Espírito (cf. Lc 24:36–43; Jo 20:19–29 — o "corpo glorioso" é, à luz de Kardec, o [[wiki/conceitos/perispirito|perispírito]] tornado tangível pela ação fluídica, conforme A Gênese cap. XV). A confiança de Maria a João é gesto **espírita** antes de tempo: a família espiritual prevalece sobre a biológica (cf. Mt 12:46–50).
 
 ### 3. Autor do corpus joanino: Evangelho, três epístolas, Apocalipse
 
@@ -46,7 +46,7 @@ João é responsável (segundo a tradição) por **cinco textos do NT**:
 
 Kardec, ao reunir os "Espíritos da nova revelação" que assinam os Prolegômenos do [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]], inclui **João Evangelista** (assinado "JOÃO, EVANGELISTA") na lista canônica — junto com Mateus, Marcos, Lucas, Paulo, Pedro, Tiago e outros. A leitura espírita desse fato:
 
-- Os apóstolos que escreveram o NT continuam **ativos espiritualmente** após a desencarnação, e participam da **Terceira Revelação** dirigindo-se aos médiuns kardequianos para confirmar e desenvolver a moral do Cristo.
+- Os apóstolos que escreveram o NT continuam **ativos espiritualmente** após a desencarnação, e participam da **Terceira Revelação** dirigindo-se aos médiuns de Kardec para confirmar e desenvolver a moral do Cristo.
 - João, em particular, retoma na Codificação os mesmos temas que dominam o corpus joanino do NT: amor, discernimento dos espíritos, filiação divina, vida eterna como progresso e não como recompensa estática.
 - O "**Espírito de Verdade**" — designação coletiva que Kardec atribui ao Cristo presidindo a Codificação (cf. ESE Prolegômenos, "O Espírito de Verdade" como signatário central) — é, em termos joaninos, **a mesma figura** prometida em Jo 14:16–17 e que João distingue, em 1 Jo 4:6, do "espírito do erro". A continuidade vocabular não é coincidência: Kardec lê o Quarto Evangelho como **profecia explícita do Espiritismo**, e os escritos de João como **chave de leitura** do que viria a ser a moral espírita.
 
@@ -86,13 +86,13 @@ Citado por Kardec em ESE cap. XXI, item 9, como base escritural do método crít
 
 > "E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus nele." (1 Jo 4:16)
 
-A formulação mais sintética da teologia joanina, em convergência total com o eixo do amor / caridade kardequiano (LE q. 13; LE q. 873–892; ESE cap. XV).
+A formulação mais sintética da teologia joanina, em convergência total com o eixo do amor / caridade de Kardec (LE q. 13; LE q. 873–892; ESE cap. XV).
 
 ### Filiação divina presente e progresso futuro
 
 > "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. [...] Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele; porque assim como é o veremos." (1 Jo 3:1–2)
 
-A passagem do NT mais convergente com o **progresso indefinido** kardequiano (LE q. 1015–1019).
+A passagem do NT mais convergente com o **progresso indefinido** de Kardec (LE q. 1015–1019).
 
 ## Páginas relacionadas
 

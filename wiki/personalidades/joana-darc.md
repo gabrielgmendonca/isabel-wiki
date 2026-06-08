@@ -37,7 +37,7 @@ Quase dez anos após a *Histoire de Jeanne d'Arc* ditada via Ermance Dufaux, Kar
 
 Kardec promete *"um estudo especial"* posterior. Quicherat é citado como autoridade *"que precedeu o Sr. Wallon e desta maneira adquiriu uma autoridade incontestável"* — historiador que constatou os fatos sem se comprometer com explicação metafísica, deixando a "teólogos, psicólogos, fisiologistas" o trabalho de teorizar.
 
-**Faculdades mediúnicas documentadas em Joana**, na leitura kardequiana via Quicherat e Wallon:
+**Faculdades mediúnicas documentadas em Joana**, na leitura de Kardec via Quicherat e Wallon:
 
 1. **Mediunidade auditiva** — *"vozes que ela escutava várias vezes por dia"* (São Miguel, Santa Catarina, Santa Margarida); diferenciação clara de tonalidades; *"sustentava com uma firmeza inabalável que Deus a aconselhava por intermédio dos santos e dos anjos"*.
 2. **Mediunidade visual** — *"ao mesmo tempo se manifestava uma viva luz, na qual ela percebia a figura de seus interlocutores"*; *"Eu os vejo com os olhos de meu corpo, dizia ela aos seus juízes, tão bem quanto vos vejo"*.
@@ -51,7 +51,7 @@ A peça opera **três frentes** simultaneamente: (a) recuperação de Joana como
 
 ## Obras associadas
 
-- **História de Joana d'Arc, ditada por ela mesma** (Paris: Dentu, 1858) — único trabalho biográfico medianímico de Joana d'Arc publicado em volume na bibliografia kardequiana.
+- **História de Joana d'Arc, ditada por ela mesma** (Paris: Dentu, 1858) — único trabalho biográfico medianímico de Joana d'Arc publicado em volume na bibliografia de Kardec.
 - Comunicações pessoais avulsas obtidas pela mesma médium, mencionadas por Kardec sem transcrição (RE, jan/1858).
 
 ## Citações relevantes

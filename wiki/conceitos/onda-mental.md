@@ -66,7 +66,7 @@ Não há determinismo da onda: a vontade discernente preside as "junções de on
 
 A onda não é apenas fluxo — condensa-se em **formas-pensamentos**, "imagens-moldes que arrojamos para fora de nós, pela atmosfera psíquica" (cap. 11). André Luiz descreve uma "matéria mental" cujos átomos obedecem a princípios análogos aos da química física, com "núcleos, prótons, nêutrons, pósitrons, elétrons ou fótons mentais" (cap. 4) — vocabulário deliberadamente provisório, oferecido por falta de terminologia analógica e que o autor declara ser "vestimenta transitória" da explicação espírita (Prefácio).
 
-A categoria das formas-pensamentos articula-se à doutrina kardequiana das "imagens fluídicas" da OPE e fundamenta o tratamento do cap. 19 sobre [[wiki/conceitos/ideoplastia]].
+A categoria das formas-pensamentos articula-se à doutrina de Kardec das "imagens fluídicas" da OPE e fundamenta o tratamento do cap. 19 sobre [[wiki/conceitos/ideoplastia]].
 
 ### Hierarquia das frequências (cap. 4)
 
@@ -92,7 +92,7 @@ Leituras, conversas, espetáculos, companhias — todos atuam como **agentes de 
 
 > "A conjugação de ondas mentais surge, presente, em todos os fatos mediúnicos. Atenta ao reflexo condicionado da prece, [...] a mente do médium passa a emitir as oscilações que lhe são próprias, às quais se entrosam aquelas da entidade comunicante." (*Mecanismos*, cap. 18)
 
-A mediunidade não é canal passivo — é **encontro de duas ondas**. Daí a regra clínica: "se não há riqueza de material interpretativo no fulcro receptor, as mais vivas fulgurações angélicas passarão despercebidas para quem as procura" (cap. 18). Estudo, leitura kardequiana e prece são pré-requisitos do bom intercâmbio. Ver [[wiki/conceitos/mediunidade]].
+A mediunidade não é canal passivo — é **encontro de duas ondas**. Daí a regra clínica: "se não há riqueza de material interpretativo no fulcro receptor, as mais vivas fulgurações angélicas passarão despercebidas para quem as procura" (cap. 18). Estudo, leitura de Kardec e prece são pré-requisitos do bom intercâmbio. Ver [[wiki/conceitos/mediunidade]].
 
 ### Lei do Campo Mental (cap. 17)
 
@@ -108,7 +108,7 @@ Décadas antes da sistematização de André Luiz, [[wiki/personalidades/camille
 
 - [[wiki/conceitos/perispirito]] — substrato físico da emissão da onda mental
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância-mãe condensada na matéria mental
-- [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos kardequianos
+- [[wiki/conceitos/fluidos]] — hierarquia geral dos fluidos de Kardec
 - [[wiki/conceitos/mediunidade]] — toda mediunidade é conjugação de ondas mentais
 - [[wiki/conceitos/escala-espirita]] — sintonia como lei magnética da convivência espiritual
 - [[wiki/conceitos/ideoplastia]] — formas-pensamentos materializadas

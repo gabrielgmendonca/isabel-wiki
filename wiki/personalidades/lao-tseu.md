@@ -76,14 +76,14 @@ Horizonte aberto: *"quem sabe se os pontos de contato existentes entre a sua dou
 
 - **Tao Te Ching** (*Daodejing*, *道德經*) — referido por Kardec como *"A Razão Suprema e Virtude"*. Obra preservada do incêndio de livros ordenado pelo imperador **Loang-Ti** (Qin Shi Huang, 213 a.C.), o que Kardec destaca como prova de sua antiguidade e autenticidade.
 
-Não consta tradução brasileira espírita dedicada. A leitura kardequiana fica no recorte do artigo de RE out/1868.
+Não consta tradução brasileira espírita dedicada. A leitura de Kardec fica no recorte do artigo de RE out/1868.
 
 ## Páginas relacionadas
 
 - [[wiki/personalidades/maome]] — outro fundador religioso não-cristão tratado pela *Revista* ([[wiki/obras/revista-espirita-1866|RE 1866]]).
 - [[wiki/conceitos/caridade]] — moral universal articulada por Lao-Tseu como indulgência.
 - [[wiki/conceitos/escala-espirita]] — Lao-Tseu como Espírito que iluminou a humanidade no séc. VI a.C.
-- [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa kardequiana do panteísmo identifica os limites da assimilação.
+- [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa de Kardec do panteísmo identifica os limites da assimilação.
 - [[wiki/obras/revista-espirita-1868]] — volume da peça central.
 
 ## Fontes

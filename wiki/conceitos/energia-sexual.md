@@ -26,7 +26,7 @@ A energia sexual aparece no Pentateuco subordinada à **Lei de Reprodução** ([
 
 > "Dois sistemas se defrontam: o dos ascetas, que tem por base o aniquilamento do corpo, e o dos materialistas, que se baseia no rebaixamento da alma. Duas violências quase tão insensatas uma quanto a outra. (...) Amai, pois, a vossa alma, porém cuidai igualmente do vosso corpo, instrumento daquela. Desatender às necessidades que a própria Natureza indica é desatender a lei de Deus. Não castigueis o corpo pelas faltas que o vosso livre arbítrio o induziu a cometer." (ESE, cap. XVII, item 11 — Espírito Georges)
 
-A linha kardequiana é, portanto, claramente **anti-ascetista e anti-libertina**: a energia sexual é dom da Criação, governável pela razão e educável pelo progresso moral, nunca aniquilável nem entregue ao puro instinto.
+A linha de Kardec é, portanto, claramente **anti-ascetista e anti-libertina**: a energia sexual é dom da Criação, governável pela razão e educável pelo progresso moral, nunca aniquilável nem entregue ao puro instinto.
 
 ## Em Emmanuel (*Vida e Sexo*, 1970)
 
@@ -64,7 +64,7 @@ Quatro proposições articulam o princípio:
 
 A formulação não nega a sexualidade orgânica nos lares "em bases retas" — pelo contrário, defende-a como **inviolável**: "Semelhantes momentos do tálamo conjugal são sublimes e invioláveis nos lares em bases retas. [...] Todos os encarnados que edificam o ninho conjugal, sobre a retidão, conquistam a presença de testemunhas respeitosas, que lhes garantem a privatividade dos atos mais íntimos" (cap. 13). E adverte sobre o reverso — em moradias cujos cônjuges "buscam testemunhas em zonas inferiores", a intimidade torna-se objeto de "participação das desvairadas testemunhas que escolheram".
 
-A doutrina articula-se diretamente à [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] kardequiana e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
+A doutrina articula-se diretamente à [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] de Kardec e a LE q. 200–202 (sexo como atributo da forma, não do Espírito), aprofundando-as. Ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] para sistematização.
 
 ## Em André Luiz, marco intermediário (*No Mundo Maior*, 1947, cap. 11)
 
@@ -114,7 +114,7 @@ A passagem dialoga com a "fecundação psíquica" de *Missionários da Luz*: a e
 
 > "O cativeiro nos tormentos do sexo não é problema que possa ser solucionado por literatos ou médicos a agir no campo exterior: é questão da alma, que demanda processo individual de cura, e sobre esta só o Espírito resolverá no tribunal da própria consciência." (cap. 11)
 
-Coerente com Emmanuel ("educar, não proibir") e com a posição kardequiana de que a moral é interna (LE q. 919).
+Coerente com Emmanuel ("educar, não proibir") e com a posição de Kardec de que a moral é interna (LE q. 919).
 
 A doutrina de 1947 prepara o terreno anatômico de 1958 — a tipologia tripartite mapeada sobre os andares da casa mental encontrará em *Evolução em Dois Mundos* sua tradução em centros vitais (genésico, cardíaco, coronário). Para a sistematização completa, ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]].
 
@@ -128,7 +128,7 @@ Anotações:
 - **Sublimação no Plano Espiritual.** "Há sublimação do amor, na comunhão das almas que se reúnem no matrimônio divino das próprias forças, gerando novas fórmulas de aperfeiçoamento e progresso para o reino do Espírito" (parte I, cap. 2). A energia não desaparece; transmuta-se.
 - **Disfunção.** O desequilíbrio do centro genésico (por abuso, repressão neurótica, aborto provocado, vampirização) repercute em toda a economia psíquica, gerando psiconeuroses e enfermidades orgânicas em vidas futuras (parte II, caps. 13–14, 16). Para a sistematização, ver [[wiki/aprofundamentos/sexualidade-em-andre-luiz]].
 
-A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o **fluxo psíquico** ("circuito de forças"), André Luiz descreve o **órgão sutil** que o opera (centro genésico). Ambos ancoram-se na mesma moldura kardequiana de Lei de Reprodução.
+A leitura de André Luiz **complementa** a de Emmanuel: onde Emmanuel descreve o **fluxo psíquico** ("circuito de forças"), André Luiz descreve o **órgão sutil** que o opera (centro genésico). Ambos ancoram-se na mesma moldura de Kardec de Lei de Reprodução.
 
 ## Em Joanna de Ângelis (Série Psicológica, 1989-2011)
 
@@ -151,7 +151,7 @@ Joanna oferece a sistematização contemporânea — psicológica e neurobiológ
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura de Kardec (LE q. 686–701)
 - [[wiki/conceitos/centros-vitais]] — centro genésico como anatomia sutil (André Luiz)
 - [[wiki/conceitos/perispirito]] — substrato da carga magnética
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base do "saque afetivo"

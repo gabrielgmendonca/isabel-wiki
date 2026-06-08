@@ -10,7 +10,7 @@ status: rascunho
 
 ## Pergunta motivadora
 
-Que critérios a codificação kardeciana oferece para distinguir uma comunicação espírita autêntica de uma mensagem apócrifa, e qual o papel da escala espírita nessa análise?
+Que critérios a codificação de Kardec oferece para distinguir uma comunicação espírita autêntica de uma mensagem apócrifa, e qual o papel da escala espírita nessa análise?
 
 ## 1. Premissa: a diversidade das comunicações reflete a diversidade dos Espíritos
 

@@ -42,7 +42,7 @@ Kardec situa a questão na **lei de conservação**: a Natureza fixa o necessár
 
 A teimosia é tipificada como "apego obstinado às próprias idéias e gostos, nunca admitindo insuficiências e erros". O rígido se apresenta como instrutor permanente — "criaturas que estão sempre com a razão, que acreditam que nasceram para ensinar ou salvar todo mundo" — e reduz todo relacionamento ao par instrutor-aprendiz, mentor-pupilo. O preço é o desrespeito à individualidade do outro, "por não darem o devido espaço para as diferenças pessoais que existem nos amigos e familiares".
 
-A consequência psíquica do excesso é descrita em três tempos pelo próprio Hammed: o padrão mental atrai do ambiente o mesmo tratamento severo recebido; o sujeito instala em si próprio a austeridade com que tratou os outros; e o arrependimento, "associando-se à culpa", produz a "necessidade de expiação" em que "o indivíduo se compraz com o próprio sofrimento". A formulação ecoa a noção kardequiana de que a expiação é processo da consciência, não punição externa imposta (cf. [[wiki/aprofundamentos/expiacao-e-arrependimento]]).
+A consequência psíquica do excesso é descrita em três tempos pelo próprio Hammed: o padrão mental atrai do ambiente o mesmo tratamento severo recebido; o sujeito instala em si próprio a austeridade com que tratou os outros; e o arrependimento, "associando-se à culpa", produz a "necessidade de expiação" em que "o indivíduo se compraz com o próprio sofrimento". A formulação ecoa a noção de Kardec de que a expiação é processo da consciência, não punição externa imposta (cf. [[wiki/aprofundamentos/expiacao-e-arrependimento]]).
 
 ### Eixo 2 — Rigidez institucional e pena de morte (LE q. 762)
 
@@ -127,7 +127,7 @@ Jesus não aparece como contrapeso emocional à dureza farisaica, mas como **rec
 
 Três parábolas comentadas por Kardec no ESE iluminam diretamente o padrão da rigidez. Funcionam como repertório vivo para a palestra (cf. [[wiki/sinteses/parabolas-de-jesus]]):
 
-**[[wiki/conceitos/parabola-do-filho-prodigo|O irmão mais velho]]** (Lc 15:25–32; ESE cap. XI). O foco doutrinário kardequiano da parábola está na misericórdia do Pai — mas a figura do **irmão mais velho** é o retrato exato da rigidez de que Hammed fala: o que "nunca transgrediu mandamento algum", trabalhou sempre, fez tudo certo — e indigna-se com a festa pelo irmão restaurado. É o tipo do rígido na sua forma mais sutil: o "bem-comportado" que se acha credor da Providência. Convergência direta com o tema 2 de *As Dores da Alma* (orgulho como controle alheio) e com a austeridade institucional analisada em q. 762.
+**[[wiki/conceitos/parabola-do-filho-prodigo|O irmão mais velho]]** (Lc 15:25–32; ESE cap. XI). O foco doutrinário de Kardec da parábola está na misericórdia do Pai — mas a figura do **irmão mais velho** é o retrato exato da rigidez de que Hammed fala: o que "nunca transgrediu mandamento algum", trabalhou sempre, fez tudo certo — e indigna-se com a festa pelo irmão restaurado. É o tipo do rígido na sua forma mais sutil: o "bem-comportado" que se acha credor da Providência. Convergência direta com o tema 2 de *As Dores da Alma* (orgulho como controle alheio) e com a austeridade institucional analisada em q. 762.
 
 **[[wiki/conceitos/parabola-do-fariseu-e-do-publicano|O fariseu e o publicano]]** (Lc 18:9–14; ESE caps. VII e X). O fariseu reza "Senhor, dou-te graças porque não sou como os demais homens, roubadores, injustos, adúlteros, nem ainda como este publicano" — o orgulho rígido transformou a própria oração em sentença sobre o outro. Kardec vê aí o paradigma do orgulho espiritual; Hammed prolonga a leitura: a rigidez vira "censura moral furtiva" (cf. [[wiki/conceitos/orgulho]]).
 
@@ -135,7 +135,7 @@ Três parábolas comentadas por Kardec no ESE iluminam diretamente o padrão da 
 
 Duas bem-aventuranças funcionam como antídoto explícito (cf. [[wiki/conceitos/bem-aventurancas]]):
 
-- **[[wiki/conceitos/bem-aventuranca-dos-brandos|Bem-aventurados os brandos]]** (Mt 5:5; ESE cap. IX) — recusa da violência em ato, palavra e pensamento. A brandura não é fraqueza; é a flexibilidade kardequiana de LE q. 908 traduzida em virtude evangélica.
+- **[[wiki/conceitos/bem-aventuranca-dos-brandos|Bem-aventurados os brandos]]** (Mt 5:5; ESE cap. IX) — recusa da violência em ato, palavra e pensamento. A brandura não é fraqueza; é a flexibilidade de Kardec de LE q. 908 traduzida em virtude evangélica.
 - **[[wiki/conceitos/bem-aventuranca-dos-misericordiosos|Bem-aventurados os misericordiosos]]** (Mt 5:7; ESE cap. X) — "porque alcançarão misericórdia" enuncia em forma evangélica a mesma reciprocidade que Hammed diagnostica no eixo 1: o padrão de severidade que projetamos sobre os outros volta sobre nós.
 
 ### Paulo de Tarso — legalismo, liberdade e a conversão como caso-limite

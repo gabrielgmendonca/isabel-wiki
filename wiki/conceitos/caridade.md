@@ -103,7 +103,7 @@ A passagem é o **paralelo apostólico direto** da [[wiki/conceitos/parabola-da-
 
 ## Caridade na Primeira Epístola de João: "Deus é amor"
 
-A [[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]] formula a tese mais sintética do NT sobre a caridade — e é, nessa medida, **convergência direta** com o eixo kardequiano de ESE cap. XV.
+A [[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]] formula a tese mais sintética do NT sobre a caridade — e é, nessa medida, **convergência direta** com o eixo de Kardec de ESE cap. XV.
 
 ### "Deus é amor" como definição substantiva (1 Jo 4:7–8, 16)
 
@@ -111,7 +111,7 @@ A [[wiki/obras/primeira-epistola-de-joao|Primeira Epístola de João]] formula a
 
 > "E nós conhecemos, e cremos no amor que Deus nos tem. **Deus é amor**; e quem está em amor está em Deus, e Deus nele." (1 Jo 4:16)
 
-A fórmula joanina **não diz** que Deus tem amor ou que ama — diz que Deus **é** amor: a substância do agir divino. Em chave kardequiana, é o reverso operacional da máxima "fora da caridade não há salvação" (ESE cap. XV): conhecer Deus se mede pela prática efetiva do amor ao próximo. Quem ama **conhece** Deus — não em sentido especulativo, mas em sentido **moral e existencial**. Convergência total com LE q. 13 (Deus como soberana bondade) e com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
+A fórmula joanina **não diz** que Deus tem amor ou que ama — diz que Deus **é** amor: a substância do agir divino. À luz de Kardec, é o reverso operacional da máxima "fora da caridade não há salvação" (ESE cap. XV): conhecer Deus se mede pela prática efetiva do amor ao próximo. Quem ama **conhece** Deus — não em sentido especulativo, mas em sentido **moral e existencial**. Convergência total com LE q. 13 (Deus como soberana bondade) e com a [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]] (LE q. 873–892).
 
 Sobre o vocabulário: a ACF traduz como **"amor"** o mesmo *agape* grego que Kardec, seguindo a Vulgata e o francês Segond, cita como **"caridade"** (cf. nota filológica acima). Em 1 João, *agape* aparece ~50 vezes em 105 versículos — a carta é, no NT, **a mais densa em vocabulário do amor**.
 
@@ -119,7 +119,7 @@ Sobre o vocabulário: a ACF traduz como **"amor"** o mesmo *agape* grego que Kar
 
 > "Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é mentiroso. Pois quem não ama a seu irmão, ao qual viu, como pode amar a Deus, a quem não viu? E dele temos este mandamento: que quem ama a Deus, ame também a seu irmão." (1 Jo 4:20–21)
 
-João radicaliza ao plano da **psicologia moral** o que Tiago formulou como "fé sem obras é morta" (Tg 2:17). O argumento é estrutural: o amor a Deus, por ser invisível, não pode ser **falsificado** isoladamente; o amor ao irmão é teste **verificável** — e, sem ele, a profissão de amor a Deus é mentira. Convergência direta com Mt 25:31–46 (o juízo das nações pela caridade efetiva ao "menor destes meus irmãos") e com a tese kardequiana de que a religiosidade autêntica se afere pela prática moral horizontal (ESE cap. XV; LE q. 886).
+João radicaliza ao plano da **psicologia moral** o que Tiago formulou como "fé sem obras é morta" (Tg 2:17). O argumento é estrutural: o amor a Deus, por ser invisível, não pode ser **falsificado** isoladamente; o amor ao irmão é teste **verificável** — e, sem ele, a profissão de amor a Deus é mentira. Convergência direta com Mt 25:31–46 (o juízo das nações pela caridade efetiva ao "menor destes meus irmãos") e com a tese de Kardec de que a religiosidade autêntica se afere pela prática moral horizontal (ESE cap. XV; LE q. 886).
 
 ### Amar por obra, não por palavra (1 Jo 3:17–18)
 
@@ -127,7 +127,7 @@ João radicaliza ao plano da **psicologia moral** o que Tiago formulou como "fé
 
 Passagem **paralela direta** de Tg 2:14–17 ("se o irmão ou a irmã estiverem nus [...] e não lhes derdes as coisas necessárias para o corpo"). O amor sentimental que se dispensa do ato é descrito como **autoengano**. Kardec retoma exatamente em ESE cap. XIII, item 4: "a verdadeira caridade não consiste apenas no ato de dar esmola, mas na benevolência, na indulgência e no perdão" — e no item 7 detalha que o sentimento sem ato é insuficiente. Para o estudo espírita, é texto programático para o atendimento fraterno e o trabalho assistencial das casas espíritas.
 
-Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo da carta e [[wiki/divergencias/sangue-expiatorio-em-1-joao]] para a leitura kardequiana das passagens expiacionistas (1 Jo 1:7; 2:2; 4:10).
+Ver [[wiki/obras/primeira-epistola-de-joao]] para tratamento exegético completo da carta e [[wiki/divergencias/sangue-expiatorio-em-1-joao]] para a leitura de Kardec das passagens expiacionistas (1 Jo 1:7; 2:2; 4:10).
 
 ## Caridade desconhecida em Neio Lúcio (*Jesus no Lar*, caps. 9, 20, 29)
 
@@ -155,7 +155,7 @@ Releitura da parábola do bom samaritano: vários transeuntes ricos e poderosos 
 
 > "A caridade, por substitutos, indiscutivelmente é honrosa e louvável, mas o bem que praticamos em sentido direto, dando de nós mesmos, é sempre o maior e o mais seguro de todos." (*Jesus no Lar*, cap. 29)
 
-A categoria *caridade direta* completa a noção kardequiana de caridade moral: não basta dar (material), nem basta sentir (moral); a caridade plena exige **presença corporal e tempo pessoal** — o doador entrega-se a si mesmo, não apenas a sua bolsa. Convergência com 1 Jo 3:18 (*"não amemos de palavra, nem de língua, mas por obra e em verdade"*) e com o critério paulino de 1 Co 13:3 (*"se eu repartisse todos os meus bens [...] e não tivesse amor, nada disso me aproveitaria"*).
+A categoria *caridade direta* completa a noção de Kardec de caridade moral: não basta dar (material), nem basta sentir (moral); a caridade plena exige **presença corporal e tempo pessoal** — o doador entrega-se a si mesmo, não apenas a sua bolsa. Convergência com 1 Jo 3:18 (*"não amemos de palavra, nem de língua, mas por obra e em verdade"*) e com o critério paulino de 1 Co 13:3 (*"se eu repartisse todos os meus bens [...] e não tivesse amor, nada disso me aproveitaria"*).
 
 ## Na *Viagem Espírita em 1862*
 

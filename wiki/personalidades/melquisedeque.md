@@ -38,7 +38,7 @@ Três pontos tipológicos em Hebreus 7:
 
 ## Leitura espírita
 
-Kardec **não trata diretamente de Melquisedeque** — a figura não aparece nominalmente no Pentateuco kardequiano. Mas alguns pontos podem ser articulados com a doutrina:
+Kardec **não trata diretamente de Melquisedeque** — a figura não aparece nominalmente no Pentateuco de Kardec. Mas alguns pontos podem ser articulados com a doutrina:
 
 ### 1. Conhecimento do Deus verdadeiro além da linhagem abraâmica
 
@@ -58,7 +58,7 @@ A recusa espírita do sacerdócio sacramental como condição da salvação ("fo
 
 A observação de Hb 7:3 ("sem pai, sem mãe, sem genealogia, não tendo princípio de dias nem fim de vida") **não pode** ser lida como afirmação literal sobre um ser sem origem — o que introduziria na Bíblia uma categoria de seres metafisicamente distintos. A leitura espírita entende a passagem como **alegoria retórica**: o texto de Gênesis 14 não registra a genealogia de Melquisedeque nem a sua morte, e o autor de Hebreus usa esse silêncio literário tipologicamente.
 
-Qualquer tentativa de construir doutrinas esotéricas (ordem de Melquisedeque como linhagem iniciática, Melquisedeque como "anjo encarnado" ou "Cristo pré-existente") sai do campo da leitura espírita séria e entra em especulação de tipo teosófico/ocultista — terreno fora de escopo no Espiritismo kardequiano (CLAUDE.md §2). Melquisedeque foi um **homem**, Espírito encarnado; sua singularidade está na função histórica que ocupou, não numa natureza metafísica especial.
+Qualquer tentativa de construir doutrinas esotéricas (ordem de Melquisedeque como linhagem iniciática, Melquisedeque como "anjo encarnado" ou "Cristo pré-existente") sai do campo da leitura espírita séria e entra em especulação de tipo teosófico/ocultista — terreno fora de escopo no Espiritismo de Kardec (CLAUDE.md §2). Melquisedeque foi um **homem**, Espírito encarnado; sua singularidade está na função histórica que ocupou, não numa natureza metafísica especial.
 
 ## Obras associadas
 

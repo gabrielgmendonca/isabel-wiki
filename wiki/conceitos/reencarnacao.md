@@ -88,7 +88,7 @@ A formulação amplia LE q. 344–345 (união do perispírito com o corpo) sem c
 
 ## Mecânica fluídica (André Luiz, *Entre a Terra e o Céu*, 1954)
 
-A obra apresenta descrição detalhada do processo perispirítico da gravidez, coerente com a base kardequiana (LE, q. 344–345) e aprofundando-a em termos fenomenológicos:
+A obra apresenta descrição detalhada do processo perispirítico da gravidez, coerente com a base de Kardec (LE, q. 344–345) e aprofundando-a em termos fenomenológicos:
 
 - **Reencarnação embriogênica automática.** Para a maioria dos Espíritos, "os princípios embriogênicos funcionam automáticos, cada dia. A lei de causa e efeito executa-se sem necessidade de fiscalização da nossa parte" (cap. 28). Basta o magnetismo dos pais e o desejo do reencarnante.
 - **Reencarnação assistida.** Quando o reencarnante tem missão de envergadura, "forças de ordem superior são fatalmente mobilizadas para a interferência nos cromossomos", ajustando sistema nervoso e estrutura cerebral à tarefa (cap. 28).

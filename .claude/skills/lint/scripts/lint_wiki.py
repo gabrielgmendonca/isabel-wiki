@@ -1665,12 +1665,13 @@ def check_kardequiano(pages: list[Path]) -> dict:
 
     Skip: corpus verbatim (Bíblia/Pentateuco), frontmatter, blockquotes (citação
     literal de fonte secundária — não reescrever aspas), inline code, wikilinks
-    (alias já correto). Severity `info`: mede o progresso da varredura sem travar
-    o CI; a correção é em lote e CONTEXTUAL (não substituição cega). Promover a
-    `warning`/CI gate quando a contagem zerar e a calibração justificar.
+    (alias já correto). Severity `error` (CI gate): a varredura wiki-wide do §13
+    zerou em 2026-06-07, então qualquer reintrodução em prosa reprova o PR.
+    Nota: páginas de corpus (`livro-biblico` index) são puladas; o template
+    editorial delas vive em `scripts/publish_biblia_nt.py` (corrigido na fonte).
     """
     if _KARDEQUIANO_RE is None:
-        return {"severity": "info", "count": 0, "items": []}
+        return {"severity": "error", "count": 0, "items": []}
     items: list[dict] = []
     for page in pages:
         fm, _ = parse_frontmatter(page)
@@ -1690,7 +1691,7 @@ def check_kardequiano(pages: list[Path]) -> dict:
                     "forma": forma,
                     "sugestao": _KARDEQUIANO_FORMS.get(forma.lower(), "de Kardec"),
                 })
-    return {"severity": "info", "count": len(items), "items": items}
+    return {"severity": "error", "count": len(items), "items": items}
 
 
 def check_frontmatter(pages: list[Path]) -> dict:

@@ -55,7 +55,7 @@ O cap. XIV de [[wiki/obras/genese|Gênese]] tem como **texto-matriz** o artigo "
 
 ## Em André Luiz: o "plasma divino"
 
-Em *Evolução em Dois Mundos* (1958, parte I, cap. 1), André Luiz reapresenta o fluido cósmico em linguagem deliberadamente inclusiva de outras tradições, sem deixar a substância kardequiana:
+Em *Evolução em Dois Mundos* (1958, parte I, cap. 1), André Luiz reapresenta o fluido cósmico em linguagem deliberadamente inclusiva de outras tradições, sem deixar a substância de Kardec:
 
 > "O fluido cósmico é o **plasma divino**, hausto do Criador ou força nervosa do Todo-Sábio. Nesse elemento primordial, vibram e vivem constelações e sóis, mundos e seres, como peixes no oceano." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 1)
 
@@ -63,7 +63,7 @@ Pontos de contato com Kardec:
 
 - O plasma é a **substância única** com que "as Inteligências Divinas" co-criam, em paralelo com a "matéria cósmica primitiva, geradora do mundo e dos seres" da Gênese (cap. VI, item 10).
 - A frase "em Deus nos movemos e existimos" — citada no fim do capítulo — repete At 17:28, também invocada por Kardec em ESE, cap. I.
-- Toda matéria é definida como "energia tornada visível", e toda energia, "originariamente, é força divina" — formulação que sintetiza a distinção kardequiana entre fluido em estado eterizado e materializado (Gênese, cap. XIV, item 2).
+- Toda matéria é definida como "energia tornada visível", e toda energia, "originariamente, é força divina" — formulação que sintetiza a distinção de Kardec entre fluido em estado eterizado e materializado (Gênese, cap. XIV, item 2).
 
 Aprofundamentos específicos da obra:
 
@@ -72,7 +72,7 @@ Aprofundamentos específicos da obra:
 - **Plantas e animais** no Plano espiritual reproduzem-se por absorção desse plasma, recolhendo "produtos sutilizados ou sínteses quimioeletromagnéticas" (parte II, cap. 1).
 - A **alimentação dos desencarnados** e o **passe magnético** (parte II, caps. 1, 15) operam pela manipulação consciente desse fluido — o que articula prece, fluido cósmico e cura num único circuito vital.
 
-A leitura de André Luiz é coerente com a tese kardequiana de que **todos os fluidos derivados** são modificações da substância única (LE, q. 27a), e oferece uma fenomenologia mais detalhada da circulação desse plasma entre encarnados e desencarnados.
+A leitura de André Luiz é coerente com a tese de Kardec de que **todos os fluidos derivados** são modificações da substância única (LE, q. 27a), e oferece uma fenomenologia mais detalhada da circulação desse plasma entre encarnados e desencarnados.
 
 ## Distinção: fluido cósmico universal vs. fluidos
 
@@ -82,7 +82,7 @@ Ver [[wiki/conceitos/fluidos]] para a hierarquia completa dos fluidos derivados.
 
 ## Aplicação prática
 
-A compreensão do fluido cósmico universal unifica a visão espírita sobre matéria, vida, perispírito, ação dos Espíritos e prece: tudo se desenvolve a partir de uma substância única submetida a leis igualmente únicas. Essa unidade fundamenta a tese kardeciana de que não há sobrenatural — apenas graus de conhecimento das leis naturais.
+A compreensão do fluido cósmico universal unifica a visão espírita sobre matéria, vida, perispírito, ação dos Espíritos e prece: tudo se desenvolve a partir de uma substância única submetida a leis igualmente únicas. Essa unidade fundamenta a tese de Kardec de que não há sobrenatural — apenas graus de conhecimento das leis naturais.
 
 ## Páginas relacionadas
 

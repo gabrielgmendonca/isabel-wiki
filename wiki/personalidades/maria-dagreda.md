@@ -21,7 +21,7 @@ status: ativo
 
 Caso histórico paradigmático de **[[wiki/conceitos/bicorporeidade]]** — fenômeno em que o Espírito de pessoa viva se manifesta em local diferente do corpo físico. Entre **1622 e 1630**, em mais de **500 êxtases**, María de Ágreda teria evangelizado os índios **Jumanos** do Novo México (atual fronteira EUA/México) sem deixar fisicamente o convento de Ágreda em Castela.
 
-O caso é apresentado por Kardec na *Revista Espírita* de **novembro de 1860** ("Maria d'Agreda — fenômeno de bicorporeidade"), citando resumo histórico recém-publicado da vida da freira. Trata-se de leitura kardequiana **explícita à luz de [[wiki/obras/livro-dos-mediuns]] cap. VII** (publicado em 1861, mas já completo em 1860): a fenomenologia da bicorporeidade católica e a fenomenologia espírita seriam manifestações da mesma lei natural — ação do Espírito sobre a matéria via perispírito.
+O caso é apresentado por Kardec na *Revista Espírita* de **novembro de 1860** ("Maria d'Agreda — fenômeno de bicorporeidade"), citando resumo histórico recém-publicado da vida da freira. Trata-se de leitura de Kardec **explícita à luz de [[wiki/obras/livro-dos-mediuns]] cap. VII** (publicado em 1861, mas já completo em 1860): a fenomenologia da bicorporeidade católica e a fenomenologia espírita seriam manifestações da mesma lei natural — ação do Espírito sobre a matéria via perispírito.
 
 A função doutrinária é tripla:
 

@@ -14,7 +14,7 @@ A **Psicologia Transpessoal** — também chamada **Quarta Força em Psicologia*
 
 Pioneiros consagrados pela tradição: **Abraham Maslow**, **Ken Wilber**, **Stanislav Grof**, **Roberto Assagioli**, **Elisabeth Kübler-Ross**, **Roger Walsh**, **Frances Vaughan**, **Fritjof Capra**, **Raymond Moody Jr.**
 
-Para o Espiritismo, a Quarta Força é tema de relevância porque seu paradigma coincide estruturalmente com a antropologia kardequiana — o ser não se reduz à matéria nem à dualidade espírito-corpo, mas se compõe pela **tríade Espírito-perispírito-matéria** (cf. [[wiki/conceitos/perispirito]]).
+Para o Espiritismo, a Quarta Força é tema de relevância porque seu paradigma coincide estruturalmente com a antropologia de Kardec — o ser não se reduz à matéria nem à dualidade espírito-corpo, mas se compõe pela **tríade Espírito-perispírito-matéria** (cf. [[wiki/conceitos/perispirito]]).
 
 ## Tese de Joanna de Ângelis
 
@@ -24,7 +24,7 @@ Em [[wiki/obras/o-ser-consciente]] (1993), [[wiki/personalidades/joanna-de-angel
 
 A tese aparece **já em 1990** em [[wiki/obras/o-homem-integral]] (cap. 39), onde Joanna sintetiza: *"agigantando-se o Espiritismo, pioneiro de uma Psicologia Espiritualista dedicada ao conhecimento do homem integral, na sua valiosa complexidade — Espírito, perispírito e matéria — ampliando os horizontes da vida orgânica, a se desdobrarem além do túmulo e antes do corpo, com infinitas possibilidades de progresso, no rumo da perfeição."* A formulação sistemática de 1993 retoma e organiza o que *[[wiki/obras/o-homem-integral|O Homem Integral]]* já articula em prosa narrativa.
 
-Entre os dois marcos, [[wiki/obras/momentos-de-saude-e-consciencia]] (LEAL, 1992) explicita pela primeira vez na bibliografia Joanna a articulação **conjunta de Psicossomática + Psicologia Transpessoal + Psicologia Transacional + Psicologia Criativa**, todas nomeadas no prefácio da Parte 1 como interlocutoras concordes do programa kardequiano: *"diversas ciências são concordes com esses programas, especialmente as Psicologias Transpessoal, Transacional e Criativa, concitando ao auto-encontro, à libertação do entulho mental e moral, à conquista do ego e plenificação do self, do EU espiritual eterno, no seu inevitável processo de crescimento."*
+Entre os dois marcos, [[wiki/obras/momentos-de-saude-e-consciencia]] (LEAL, 1992) explicita pela primeira vez na bibliografia Joanna a articulação **conjunta de Psicossomática + Psicologia Transpessoal + Psicologia Transacional + Psicologia Criativa**, todas nomeadas no prefácio da Parte 1 como interlocutoras concordes do programa de Kardec: *"diversas ciências são concordes com esses programas, especialmente as Psicologias Transpessoal, Transacional e Criativa, concitando ao auto-encontro, à libertação do entulho mental e moral, à conquista do ego e plenificação do self, do EU espiritual eterno, no seu inevitável processo de crescimento."*
 
 A Quarta Força, na leitura de Joanna, não substitui o Espiritismo — confirma-o por outro vocabulário. Os fenômenos paranormais antes catalogados como patologias passam a ser reconhecidos como **expressões da realidade espiritual**, e o ser humano deixa de ser examinado em partes para ser tratado como **integral, holístico**.
 
@@ -78,7 +78,7 @@ Para o estudante kardecista, a Psicologia Transpessoal serve como:
 - **Contexto para a integração de práticas** já presentes no Espiritismo: oração, meditação, passes, Evangelho-terapia, atendimento fraterno.
 
 > [!note] Ponte conceitual, não adoção doutrinária
-> A obra de Joanna recorre a vocabulário oriental (samadhi, nirvana, deus interno, "Consciência Cósmica", roda de samsara) e cita Buda, Vivekananda, Ramakrishna como contribuintes para a revisão dos paradigmas. Esta abertura é **conceitual** — para dialogar com a Quarta Força — e não doutrinária. A base estrutural permanece kardequiana: Espírito-perispírito-corpo, reencarnação como método, lei de causa e efeito como fundamento moral, livre-arbítrio como condição da reabilitação.
+> A obra de Joanna recorre a vocabulário oriental (samadhi, nirvana, deus interno, "Consciência Cósmica", roda de samsara) e cita Buda, Vivekananda, Ramakrishna como contribuintes para a revisão dos paradigmas. Esta abertura é **conceitual** — para dialogar com a Quarta Força — e não doutrinária. A base estrutural permanece a de Kardec: Espírito-perispírito-corpo, reencarnação como método, lei de causa e efeito como fundamento moral, livre-arbítrio como condição da reabilitação.
 
 ## Páginas relacionadas
 

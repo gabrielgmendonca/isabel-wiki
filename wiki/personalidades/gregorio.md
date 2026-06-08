@@ -36,7 +36,7 @@ Em *Libertação*, Gregório aparece em três momentos:
 
 A figura de Gregório carrega três lições estruturais:
 
-1. **Espíritos endurecidos podem ser redimidos.** Contra a tese teológica medieval da condenação irreversível (refutada por Kardec em C&I 1ª parte caps. IV–VII e em LE q. 1009–1016), Gregório encarna o caso-limite: prelado-aristocrata-tirano por séculos, salvo pelo amor materno de Matilde. Coerente com o princípio kardequiano de que **nenhum Espírito está perdido sem remissão**.
+1. **Espíritos endurecidos podem ser redimidos.** Contra a tese teológica medieval da condenação irreversível (refutada por Kardec em C&I 1ª parte caps. IV–VII e em LE q. 1009–1016), Gregório encarna o caso-limite: prelado-aristocrata-tirano por séculos, salvo pelo amor materno de Matilde. Coerente com o princípio de Kardec de que **nenhum Espírito está perdido sem remissão**.
 2. **A tirania nas trevas é orgulho ferido, não maldade ontológica.** Matilde diagnostica a queda: foi a impossibilidade de aceitar que "a tiara passageira não te poderia aureolar a cabeça nos domínios da vida eterna" que coagulou em "ácido venenoso da revolta". O mal não é princípio cósmico — é cristalização de um amor próprio frustrado.
 3. **A "Causa que dirige" sem sentimento é um becquinho ateu.** Gregório expressa a teologia que substitui Deus pessoal por força impessoal — variante intelectualizada do materialismo (LE q. 14–16). A redenção começa exatamente quando ele reencontra um afeto pessoal — a mãe — que não cabe na sua "Causa".
 

@@ -66,7 +66,7 @@ Sobre o efeito propagandístico involuntário:
 ## Páginas relacionadas
 
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — recusa programática das categorias por Kardec, formulada em refutação a Figuier.
-- [[wiki/conceitos/discernimento-dos-espiritos]] — método kardequiano de descer ao ponto de partida do crítico.
+- [[wiki/conceitos/discernimento-dos-espiritos]] — método de Kardec de descer ao ponto de partida do crítico.
 - [[wiki/obras/revista-espirita-1860]] — três artigos de refutação (set, set, dez/1860).
 - [[wiki/personalidades/sao-luis]] — orientador da SPEE; controle universal aplicado.
 

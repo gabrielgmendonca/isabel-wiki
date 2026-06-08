@@ -83,13 +83,13 @@ A [[wiki/obras/epistola-de-tiago|Epístola de Tiago]] dá ao princípio formula�
 
 > "Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade. Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo." (Tg 2:12–13)
 
-Tiago articula três teses que fundem perfeitamente esta lei moral kardequiana:
+Tiago articula três teses que fundem perfeitamente esta lei moral de Kardec:
 
 1. **"Lei real"** (*nomos basilikos*, lei do Reino, 2:8) — nome dado por Tiago ao "amarás a teu próximo como a ti mesmo" (Lv 19:18; cf. Mt 22:39; Rm 13:9). Convergência total com LE q. 886 e ESE caps. XI–XV. A "realeza" da lei é seu **caráter síntese**: as demais leis são "vassalas" desta.
 2. **"Lei perfeita da liberdade"** (1:25) ou **"lei da liberdade"** (2:12) — nome dado à mesma lei moral enquanto **vivida por dentro**, não imposta por fora. A antítese exata do legalismo: a Lei real **liberta** quem a cumpre porque elimina a fragmentação interior entre dever e querer (cf. ESE cap. XVII; LE q. 825–872 — [[wiki/conceitos/leis-morais/lei-de-liberdade]]).
 3. **"A misericórdia triunfa do juízo"** (2:13) — critério recíproco do juízo, eco direto da [[wiki/conceitos/bem-aventuranca-dos-misericordiosos|bem-aventurança dos misericordiosos]] (Mt 5:7) e da [[wiki/conceitos/parabola-do-credor-incompassivo|parábola do credor incompassivo]] (Mt 18:23–35). Quem mediu com indulgência será medido com indulgência; é [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] aplicada à esfera moral do juízo.
 
-A formulação de Tiago **fecha o anel** entre as três leis kardequianas que mais se entrelaçam: Lei de Justiça, Amor e Caridade (LE q. 873–892), Lei de Liberdade (LE q. 825–872) e Lei de Igualdade (LE q. 803–824) — esta última especialmente solicitada por Tg 2:1–9 ("não fazer acepção de pessoas").
+A formulação de Tiago **fecha o anel** entre as três leis de Kardec que mais se entrelaçam: Lei de Justiça, Amor e Caridade (LE q. 873–892), Lei de Liberdade (LE q. 825–872) e Lei de Igualdade (LE q. 803–824) — esta última especialmente solicitada por Tg 2:1–9 ("não fazer acepção de pessoas").
 
 Ver [[wiki/obras/epistola-de-tiago]] para análise integrada.
 

@@ -64,7 +64,7 @@ Kardec lê esse "reino" como **estado interior** — não lugar nem condição p
 
 ### A síntese Quarta Força + Kardec
 
-A Oitava parte mobiliza vocabulário da Psicologia Transpessoal (Roberto Assagioli, Robert de Ropp, Gurdjieff) e da tradição oriental (a "mente macaco louco que salta de galho em galho", os estados alterados de consciência). Joanna usa esse vocabulário como **ponte conceitual** com Kardec — não como adoção doutrinária paralela. A estrutura permanece kardequiana: o silêncio interior só é fecundo porque pressupõe a tríade Espírito–perispírito–corpo, a [[wiki/conceitos/reencarnacao]] como horizonte de progresso e o [[wiki/conceitos/livre-arbitrio]] como condição da reabilitação. Sem essa base, a "consciência cósmica" vira misticismo difuso; com ela, vira terapêutica.
+A Oitava parte mobiliza vocabulário da Psicologia Transpessoal (Roberto Assagioli, Robert de Ropp, Gurdjieff) e da tradição oriental (a "mente macaco louco que salta de galho em galho", os estados alterados de consciência). Joanna usa esse vocabulário como **ponte conceitual** com Kardec — não como adoção doutrinária paralela. A estrutura permanece de Kardec: o silêncio interior só é fecundo porque pressupõe a tríade Espírito–perispírito–corpo, a [[wiki/conceitos/reencarnacao]] como horizonte de progresso e o [[wiki/conceitos/livre-arbitrio]] como condição da reabilitação. Sem essa base, a "consciência cósmica" vira misticismo difuso; com ela, vira terapêutica.
 
 Quadro de referência detalhado da matriz transpessoal: [[wiki/conceitos/psicologia-transpessoal]].
 
@@ -88,7 +88,7 @@ Quadro de referência detalhado da matriz transpessoal: [[wiki/conceitos/psicolo
 
 ## Capítulo 30 — Desidentificação
 
-**Conceito estrutural**. A personalidade humana é feita de **essência** (energias do Eu profundo, vibrações causais) e **substância** (conteúdos psíquicos sedimentados: hábitos, experiências, reminiscências de vidas anteriores). É a substância — não a essência — que responde pelo comportamento e gera o **eu** funcional. Ver [[wiki/conceitos/perispirito]] para a contraparte estrutural kardequiana dessa "substância".
+**Conceito estrutural**. A personalidade humana é feita de **essência** (energias do Eu profundo, vibrações causais) e **substância** (conteúdos psíquicos sedimentados: hábitos, experiências, reminiscências de vidas anteriores). É a substância — não a essência — que responde pelo comportamento e gera o **eu** funcional. Ver [[wiki/conceitos/perispirito]] para a contraparte estrutural de Kardec dessa "substância".
 
 **O problema**. A pessoa média, sem discernimento, identifica-se com a substância como se fosse a realidade última. Ignora a essência. Essa "deturpação psicológica" gera ilusão, engodos, estados perturbadores. O ego se entorpece — palavra forte — *"e contribui para as experiências utópicas e alienadoras"*.
 
@@ -149,13 +149,13 @@ Esse trecho tem valor descritivo notável: qualquer um que tente meditar reconhe
 - A **regra de ouro** (Mt 7:12) é o método de libertação no plano horizontal: amor ao próximo como a si mesmo.
 - A **oração fortalecedora** é a energia que sustenta o processo — ligação com [[wiki/conceitos/prece]] e com **ESE cap. XXVIII**.
 
-A fórmula final: *"Esse desempenho favorece a perfeita identificação do sentimento com o conhecimento, resultando na conquista do Eu profundo em sintonia com a Consciência Cósmica."* Em vocabulário kardequiano: a [[wiki/conceitos/fe-raciocinada|fé raciocinada]] (ESE cap. XIX, item 7) — fé que enfrenta a razão face a face — é a forma exata desse encontro entre sentimento e conhecimento.
+A fórmula final: *"Esse desempenho favorece a perfeita identificação do sentimento com o conhecimento, resultando na conquista do Eu profundo em sintonia com a Consciência Cósmica."* Em vocabulário de Kardec: a [[wiki/conceitos/fe-raciocinada|fé raciocinada]] (ESE cap. XIX, item 7) — fé que enfrenta a razão face a face — é a forma exata desse encontro entre sentimento e conhecimento.
 
 ---
 
 ## Síntese
 
-| Capítulo | Movimento | Ideia-chave | Ancoragem kardequiana |
+| Capítulo | Movimento | Ideia-chave | Ancoragem de Kardec |
 |----------|-----------|-------------|------------------------|
 | 29 — Silêncio Interior | Reconhecer a inquietude e empreender a viagem para dentro | A paz mundial depende da paz íntima de cada um; silêncio mental é a condição da consciência lúcida | LE q. 919; LE q. 771-772 (recolhimento útil vs. voto de silêncio); **ESE cap. V, item 23 (Fénelon — "a paz do coração, única felicidade real neste mundo")**; Mt 22:37–39 / ESE cap. XV; Lc 2:14 |
 | 30 — Desidentificação | Distinguir essência de substância e libertar-se das fixações | A pessoa média confunde substância com realidade; a desidentificação é movimento de dentro para fora | LE q. 919 + tríade Espírito–perispírito–corpo (LE q. 135) |
@@ -182,7 +182,7 @@ A aresta tracejada para a **caridade prática** sinaliza que o arco interno não
 
 O texto de Joanna pode sugerir, lido superficialmente, que o ideal é o vazio mental. Não é. O silêncio interior é **mental disciplinado**, não mental ausente — a mente domada que se torna instrumento da reflexão, em vez de obstáculo dela. *"É nobre e útil quando se comunica e, no entanto, torna-se grandioso se consegue viver em silêncio mental"* — note o equilíbrio: a comunicação não é desvalorizada, é situada. O silêncio mental é o estado em que a comunicação, quando ocorre, parte do centro e não da periferia.
 
-Kardec, em **ESE cap. XXVIII, item 2**, descreve a prece nos mesmos termos: não é fórmula proferida, é "elevação da alma a Deus". A prece kardequiana é silêncio interior em ato — o recolhimento que permite à alma se alinhar à esfera divina. Quem se recolhe ora; quem ora se recolhe.
+Kardec, em **ESE cap. XXVIII, item 2**, descreve a prece nos mesmos termos: não é fórmula proferida, é "elevação da alma a Deus". A prece de Kardec é silêncio interior em ato — o recolhimento que permite à alma se alinhar à esfera divina. Quem se recolhe ora; quem ora se recolhe.
 
 A mesma demarcação aparece pelo lado oposto em **LE q. 771-772**: o **recolhimento** voltado a "trabalhos úteis" ou que "torna o espírito mais livre para a comunicação com os Espíritos bons" é útil — mas o **voto de silêncio** é "uma tolice", porque priva o homem das relações sociais que facultam o cumprimento da Lei do Progresso. A linha de demarcação é a mesma de Joanna: silêncio que se volta para o convívio é fecundo; silêncio que se isola dele degenera em egoísmo. A [[wiki/conceitos/leis-morais/lei-de-sociedade|Lei de Sociedade]] (LE q. 766-775) fornece, assim, o guard-rail doutrinário que impede a leitura eremítica do cap. 29 — *"Deus condena o abuso e não o uso das faculdades que lhe outorgou"* (q. 772).
 
@@ -203,7 +203,7 @@ A correspondência com Joanna é quase termo a termo:
 | Essencial absorve o supérfluo (cap. 32) | *"Pobres insensatos... terão de largar todas essas frioleiras cuja cobiça lhes envenena a vida"* |
 | Eu profundo conquistado — calma sob as tempestades da vida (cap. 32) | *"aquele que sabe contentar-se com o que tem... É calmo, porque não cria para si necessidades quiméricas. E não será uma felicidade a calma, em meio das tempestades da vida?"* |
 
-A consequência é dupla. Primeira: Joanna não está inovando ao nomear o ego que "se mostra ávido de tudo o que o agitará e turbará" — está reativando, no vocabulário da Quarta Força, o diagnóstico que o Pentateuco já fixara em 1860 pela voz de Fénelon. Segunda: a Oitava parte é, mais propriamente, **um comentário ampliado de ESE cap. V item 23**. Quem prepara palestra sobre o silêncio interior tem aqui a âncora kardequiana mais densa do tema — anterior em mais de um século à formulação de Joanna, e textualmente mais próxima do diagnóstico do que ESE cap. XXV (que articula o programa positivo via Mt 6:33, mas não o diagnóstico).
+A consequência é dupla. Primeira: Joanna não está inovando ao nomear o ego que "se mostra ávido de tudo o que o agitará e turbará" — está reativando, no vocabulário da Quarta Força, o diagnóstico que o Pentateuco já fixara em 1860 pela voz de Fénelon. Segunda: a Oitava parte é, mais propriamente, **um comentário ampliado de ESE cap. V item 23**. Quem prepara palestra sobre o silêncio interior tem aqui a âncora de Kardec mais densa do tema — anterior em mais de um século à formulação de Joanna, e textualmente mais próxima do diagnóstico do que ESE cap. XXV (que articula o programa positivo via Mt 6:33, mas não o diagnóstico).
 
 ### 3. O ego no vocabulário de Joanna não é o ego freudiano
 
@@ -241,13 +241,13 @@ Kardec, ainda em **ESE cap. XXV, item 7**, oferece o vínculo doutrinário mais 
 
 A Providência **inspira ideias**. Para receber essa inspiração, é preciso ter espaço mental livre — o que Joanna descreve no cap. 29 como o "macaco louco que salta de galho em galho" *impede* exatamente esse trabalho. A mente saturada de balbúrdia não capta a sugestão dos bons Espíritos; recebe-a, no máximo, sob forma confusa, atravessada pelas próprias projeções. O silêncio interior, portanto, **não é fim em si** — é a condição prática para que a doutrina espírita da [[wiki/conceitos/prece]] e da assistência dos bons Espíritos opere de fato.
 
-É aqui que a Quarta Força deixa de ser paralela à Doutrina e vira instrumento dela. Meditar, recolher-se, desidentificar-se: tudo isso, lido em chave kardequiana, é **preparar o canal** para a inspiração que **LE q. 459-470** e **ESE cap. XXVIII** já descreviam como assistência dos bons Espíritos à criatura encarnada. Joanna não está acrescentando uma camada esotérica — está descrevendo, com vocabulário psicológico contemporâneo, o lado subjetivo do mecanismo mediúnico-inspirativo que Kardec fixou há 150 anos.
+É aqui que a Quarta Força deixa de ser paralela à Doutrina e vira instrumento dela. Meditar, recolher-se, desidentificar-se: tudo isso, lido à luz de Kardec, é **preparar o canal** para a inspiração que **LE q. 459-470** e **ESE cap. XXVIII** já descreviam como assistência dos bons Espíritos à criatura encarnada. Joanna não está acrescentando uma camada esotérica — está descrevendo, com vocabulário psicológico contemporâneo, o lado subjetivo do mecanismo mediúnico-inspirativo que Kardec fixou há 150 anos.
 
 Para a palestra: este é o ponto que permite ao público kardecista mais ortodoxo entender por que vale a pena ler Joanna. Não é "espiritualidade oriental" enxertada — é a fenomenologia da abertura interior que **torna possível** a oração eficaz de ESE cap. XXVIII.
 
 ### 8. Cinco virtudes da Conquista da Paz — tradução prática da Oitava parte
 
-O §6 fixou que a Oitava parte só se cumpre quando o eu profundo conquistado no recolhimento se devolve ao social como amor fraterno em ato (Mt 7:12 + LE q. 875 + Lei de Sociedade). Falta dizer **em que ato**. A pedagogia clássica do movimento espírita opera essa tradução prática em cinco virtudes — **Indulgência, Tolerância, Perdão, Resignação, Reflexão** — cada uma com âncora kardequiana própria e correspondência exata com um movimento da Oitava parte:
+O §6 fixou que a Oitava parte só se cumpre quando o eu profundo conquistado no recolhimento se devolve ao social como amor fraterno em ato (Mt 7:12 + LE q. 875 + Lei de Sociedade). Falta dizer **em que ato**. A pedagogia clássica do movimento espírita opera essa tradução prática em cinco virtudes — **Indulgência, Tolerância, Perdão, Resignação, Reflexão** — cada uma com âncora de Kardec própria e correspondência exata com um movimento da Oitava parte:
 
 | Virtude | Movimento da Oitava parte | Ancoragem Pentateuco |
 |---------|---------------------------|----------------------|
@@ -260,8 +260,8 @@ O §6 fixou que a Oitava parte só se cumpre quando o eu profundo conquistado no
 Três observações editoriais importantes:
 
 1. **A ordem das virtudes não é arbitrária**: Reflexão abre (corresponde a cap. 29 — o início do trabalho); Indulgência e Tolerância vêm em seguida (cap. 30-31 — o resultado da desidentificação); Perdão e Resignação fecham (cap. 32 — o essencial absorvendo o supérfluo, com Jesus como modelo cristológico).
-2. **A indulgência kardequiana não é leniência moral**. José deixa claro em ESE cap. X item 16: *"Sede severos para convosco, indulgentes para com os outros"*. É auto-rigor que liberta o juízo sobre o próximo — exatamente o que Joanna chama de desidentificação do ego "arbitrário, ambicioso e louco".
-3. **A resignação kardequiana não é passividade**. ESE cap. V item 26 ("Provas voluntárias. O verdadeiro cilício") rejeita expressamente o sofrimento auto-infligido: *"Não enfraqueçais o vosso corpo com privações inúteis e macerações sem objetivo"*. A resignação é aceitação ativa da prova que veio, não busca da prova que não veio — e cessa onde a ação puder cessar a dor (cap. V item 27).
+2. **A indulgência de Kardec não é leniência moral**. José deixa claro em ESE cap. X item 16: *"Sede severos para convosco, indulgentes para com os outros"*. É auto-rigor que liberta o juízo sobre o próximo — exatamente o que Joanna chama de desidentificação do ego "arbitrário, ambicioso e louco".
+3. **A resignação de Kardec não é passividade**. ESE cap. V item 26 ("Provas voluntárias. O verdadeiro cilício") rejeita expressamente o sofrimento auto-infligido: *"Não enfraqueçais o vosso corpo com privações inúteis e macerações sem objetivo"*. A resignação é aceitação ativa da prova que veio, não busca da prova que não veio — e cessa onde a ação puder cessar a dor (cap. V item 27).
 
 Para a palestra, esse mapa funciona como **roteiro prático de fechamento**: o público sai da palestra com cinco coisas executáveis no dia seguinte, todas ancoradas no Pentateuco, todas operacionalizando a Oitava parte. Sem o roteiro prático, a palestra corre o risco de terminar em abstração ("conquiste seu eu profundo"); com ele, vira programa.
 
@@ -282,15 +282,15 @@ Sugestão de arco, ajustável à duração disponível.
 - **LE q. 919** ("Conhece-te a ti mesmo") como ponto de partida. Ler em voz alta a resposta dos Espíritos e o comentário de Kardec — texto curto e potente.
 - Apresentar os quatro movimentos da Oitava parte como **um único arco terapêutico**, não quatro temas separados. Cada termo nomeia o movimento do capítulo correspondente:
   - **Silêncio** (cap. 29) — *aquisição do silêncio interior*: domar a "mente macaco louco" e dar-se a viagem para dentro. É o **ponto de partida** do processo: sem aquietação prévia, os passos seguintes não acontecem.
-  - **Desidentificação** (cap. 30) — *distinguir o que se é do que se acumulou*: separar a essência (Eu profundo, individualidade kardequiana) da substância (hábitos, identificações, conteúdos psíquicos sedimentados). O ego cola-se no supérfluo; desidentificar é descolá-lo.
+  - **Desidentificação** (cap. 30) — *distinguir o que se é do que se acumulou*: separar a essência (Eu profundo, individualidade de Kardec) da substância (hábitos, identificações, conteúdos psíquicos sedimentados). O ego cola-se no supérfluo; desidentificar é descolá-lo.
   - **Libertação** (cap. 31) — *limpeza dos conteúdos negativos sedimentados*: trazer à consciência o que foi reprimido — inclusive resíduos reencarnatórios — e transformá-los pela conscientização e pela moral, em vez de esmagá-los. É aqui que se fecha o canal obsessivo.
   - **Essencial** (cap. 32) — *fixar no centro o que reordena toda a periferia*: o "buscai primeiro o reino" (Mt 6:33) como critério que reorganiza toda a vida; o eu profundo conquistado, ligado à regra de ouro (Mt 7:12) e sustentado pela prece.
 - Trabalhar com força o cap. 30: a descrição fenomenológica das sensações que sabotam o recolhimento (ruídos, imagens, fome, coceiras). É o trecho do livro que tem maior reconhecimento imediato — todo mundo já passou por isso. **Sugestão visual**: imagem do "macaco louco que salta de galho em galho" (figura tradicional do budismo) para ancorar visualmente a metáfora que Joanna usa no cap. 29 — funciona como mnemônico forte para o público lembrar o diagnóstico durante a semana seguinte.
-- **Cap. 31 — 3-4 min, sem dramatizar**. Apresentar a obsessão em chave terapêutica de Joanna: sintonia + afetividade mórbida, não "fluido" nem "feitiço". Fechamento do canal obsessivo pela transformação moral (LE q. 470; ESE cap. XXV, item 7). Este é o ponto que mostra por que vale a pena ler Joanna em chave kardequiana: a Quarta Força não substitui a Doutrina — vira fenomenologia subjetiva do mecanismo mediúnico-inspirativo que Kardec já fixou (§7 do Aprofundamento).
+- **Cap. 31 — 3-4 min, sem dramatizar**. Apresentar a obsessão em chave terapêutica de Joanna: sintonia + afetividade mórbida, não "fluido" nem "feitiço". Fechamento do canal obsessivo pela transformação moral (LE q. 470; ESE cap. XXV, item 7). Este é o ponto que mostra por que vale a pena ler Joanna à luz de Kardec: a Quarta Força não substitui a Doutrina — vira fenomenologia subjetiva do mecanismo mediúnico-inspirativo que Kardec já fixou (§7 do Aprofundamento).
 
 ### Articulação evangélica (8-10 min)
 
-- **Recurso pedagógico de base**: nesta seção, vale **exibir os trechos em slide, lê-los em voz alta e abrir momento de discussão** com o público. Os textos do ESE e da LE são curtos e densos — a leitura compartilhada (e não apenas a paráfrase do palestrante) sustenta a autoridade da Codificação, dá ao público a experiência direta do texto kardequiano e cria espaço para perguntas que aterrissam a doutrina no cotidiano. Privilegiar 1-2 trechos lidos integralmente em vez de muitos parafraseados.
+- **Recurso pedagógico de base**: nesta seção, vale **exibir os trechos em slide, lê-los em voz alta e abrir momento de discussão** com o público. Os textos do ESE e da LE são curtos e densos — a leitura compartilhada (e não apenas a paráfrase do palestrante) sustenta a autoridade da Codificação, dá ao público a experiência direta do texto de Kardec e cria espaço para perguntas que aterrissam a doutrina no cotidiano. Privilegiar 1-2 trechos lidos integralmente em vez de muitos parafraseados.
 - Mt 6:33 lido com **ESE cap. XXV — *Buscai e achareis*, itens 6-7** (item 6 = transcrição evangélica incluindo "Buscai primeiramente o reino de Deus"; item 7 = comentário de Kardec contra o literalismo). Ler em voz alta a fórmula da ACF: *"Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas."* Esclarecer: "primeiro" é critério, não posição em lista (ver §5 do Aprofundamento acima).
 - Mt 7:12 + **ESE cap. XV, item 6** + **LE q. 875**: o silêncio interior só é fecundo se desemboca em caridade prática. Evitar que a palestra termine em "espiritualidade individualista".
 
@@ -319,9 +319,9 @@ Sugestão de arco, ajustável à duração disponível.
 - [[wiki/conceitos/jesus-psicoterapeuta]] — Jesus como "Psicoterapeuta Excepcional" na fórmula final da obra.
 - [[wiki/conceitos/livre-arbitrio]] — condição da desidentificação e da reabilitação espiritual; barreira à indução obsessiva.
 - [[wiki/conceitos/perispirito]] — contraparte estrutural da "substância" psíquica que Joanna distingue da "essência".
-- [[wiki/conceitos/perturbacao]] — quadro kardequiano dos estados perturbatórios e da influência espiritual.
+- [[wiki/conceitos/perturbacao]] — quadro de Kardec dos estados perturbatórios e da influência espiritual.
 - [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — destino prático do silêncio interior; Mt 7:12 como método.
-- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — guard-rail kardequiano contra a leitura eremítica do recolhimento (LE q. 766-775; especialmente q. 771-772, recolhimento útil vs. voto de silêncio).
+- [[wiki/conceitos/leis-morais/lei-de-sociedade]] — guard-rail de Kardec contra a leitura eremítica do recolhimento (LE q. 766-775; especialmente q. 771-772, recolhimento útil vs. voto de silêncio).
 - [[wiki/conceitos/lei-natural]] — "Deus em nós" lido em chave de LE q. 621.
 - [[wiki/conceitos/fe-raciocinada]] — encontro do sentimento com o conhecimento (Joanna, cap. 32).
 - [[wiki/conceitos/pluralidade-das-existencias]] — complemento reencarnatório à cartografia de De Ropp.

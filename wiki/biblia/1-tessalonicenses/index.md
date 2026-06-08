@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **1 Tessalonicenses** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/primeira-epistola-aos-tessalonicenses]].
+Análise temática e leitura de Kardec em [[wiki/obras/primeira-epistola-aos-tessalonicenses]].
 
 ## Capítulos
 

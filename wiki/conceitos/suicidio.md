@@ -88,7 +88,7 @@ Todos os relatos confirmam o princípio do LE: o suicídio não liberta, aprisio
 
 ### O "suicida inconsciente" em *Nosso Lar* (André Luiz / Chico Xavier, 1944)
 
-A primeira ilustração extensa de LE q. 952 na literatura mediúnica é o próprio narrador de *Nosso Lar*. Médico carioca recém-desencarnado, é classificado pelos benfeitores da colônia como **suicida inconsciente** — terminologia da casa para o suicídio moral kardeciano. [[wiki/personalidades/henrique-de-luna|Henrique de Luna]], médico-chefe do parque hospitalar, ausculta-lhe o perispírito e reconstitui, a partir das marcas, a história moral do paciente: oclusão intestinal por sífilis, fígado e rins destruídos pelo descuido moral, anos de excessos. Veredicto:
+A primeira ilustração extensa de LE q. 952 na literatura mediúnica é o próprio narrador de *Nosso Lar*. Médico carioca recém-desencarnado, é classificado pelos benfeitores da colônia como **suicida inconsciente** — terminologia da casa para o suicídio moral de Kardec. [[wiki/personalidades/henrique-de-luna|Henrique de Luna]], médico-chefe do parque hospitalar, ausculta-lhe o perispírito e reconstitui, a partir das marcas, a história moral do paciente: oclusão intestinal por sífilis, fígado e rins destruídos pelo descuido moral, anos de excessos. Veredicto:
 
 > "O organismo espiritual apresenta em si mesmo a história completa das ações praticadas no mundo." (Nosso Lar, cap. 4)
 

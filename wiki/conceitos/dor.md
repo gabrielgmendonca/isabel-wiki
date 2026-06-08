@@ -62,7 +62,7 @@ Em [[wiki/obras/acao-e-reacao]] (1957), o Instrutor [[wiki/personalidades/druso]
 - **Dor-expiação** — vem de dentro para fora, "marcando a criatura no caminho dos séculos, detendo-a em complicados labirintos de aflição, para regenerá-la perante a Justiça". É a dor que [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|a Lei]] devolve ao Espírito por faltas conscientes; reflete-se na carne através do desequilíbrio dos centros perispirituais (cf. [[wiki/conceitos/perispirito]]).
 - **Dor-auxílio** — enfermidades prolongadas (enfarte, trombose, hemiplegia, câncer, senilidade prematura) intercedidas por amigos espirituais "para evitar-nos a queda no abismo da criminalidade, seja, mais frequentemente, para o serviço preparatório da desencarnação". É auxílio direto: a dor que **previne** queda maior, ou **prepara** a transição serena.
 
-A distinção é útil pastoralmente: nem toda dor é expiação. Diante do sofrimento alheio, a leitura kardequiana evita o juízo apressado de "está pagando alguma coisa" — pode ser evolução natural, ou auxílio amigo de cima.
+A distinção é útil pastoralmente: nem toda dor é expiação. Diante do sofrimento alheio, a leitura de Kardec evita o juízo apressado de "está pagando alguma coisa" — pode ser evolução natural, ou auxílio amigo de cima.
 
 ## Formulação pastoral em Joanna de Ângelis (*Momentos de Felicidade*, cap. 4)
 
@@ -70,7 +70,7 @@ Em [[wiki/obras/momentos-de-felicidade]] (1990, cap. 4 — "Benfeitora"), [[wiki
 
 > "Essa flor abençoada, que surge nos terrenos de todas as vidas, é a dor. […] É instrumento da Lei, que o próprio homem vitaliza e necessita."
 
-A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro kardequiano em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
+A síntese ressoa com Denis ("a dor é uma ajudante, uma auxiliar, e seu papel é providencial", *O Problema do Ser*, cap. 27) sem acrescentar tese nova — confirma o quadro de Kardec em vocabulário direto, com finalidade pastoral. A diretriz prática é a mesma de ESE cap. V: *"transforma-o em oportunidade iluminativa, porque estás, na Terra, para crescer e evoluir, adquirindo experiências de profundidade"*.
 
 ## Tipologia funcional-pedagógica em *[[wiki/obras/desperte-e-seja-feliz|Desperte e Seja Feliz]]* (1996)
 
@@ -92,7 +92,7 @@ A diretriz pastoral é a mesma das duas tipologias anteriores: **diante da próp
 
 > "O sofrimento, portanto, pode e deve ser considerado uma *doença da alma*, que ainda se atém às sensações e opta pelas direções e ações que produzem desequilíbrio." (Plenitude, cap. I)
 
-A formulação não substitui o quadro kardeciano (provas, expiações, escolha do gênero de prova) — desloca o eixo descritivo. Em vez de tipificar pela origem (expiação × prova × auxílio), Joanna tipifica pela **estrutura clínica**: o sofrimento manifesta-se como sintoma de desarmonia entre Espírito, perispírito e organismo, e cura-se por extirpação das causas. O caminho terapêutico se desdobra em [[wiki/conceitos/autocura|autocura]] em 4 passos (cap. IX) e na [[wiki/conceitos/obsessao|terapia desobsessiva]] (cap. X), ancorada em [[wiki/obras/livro-dos-mediuns|LM]] cap. XXIII.
+A formulação não substitui o quadro de Kardec (provas, expiações, escolha do gênero de prova) — desloca o eixo descritivo. Em vez de tipificar pela origem (expiação × prova × auxílio), Joanna tipifica pela **estrutura clínica**: o sofrimento manifesta-se como sintoma de desarmonia entre Espírito, perispírito e organismo, e cura-se por extirpação das causas. O caminho terapêutico se desdobra em [[wiki/conceitos/autocura|autocura]] em 4 passos (cap. IX) e na [[wiki/conceitos/obsessao|terapia desobsessiva]] (cap. X), ancorada em [[wiki/obras/livro-dos-mediuns|LM]] cap. XXIII.
 
 A leitura é compatível com Kardec (a obra cita textualmente LE q. 132 e q. 165) e adiciona vocabulário psicológico-clínico ao tratamento espírita do sofrimento — útil como ponte para audiências que chegam à Doutrina pela porta da psicoterapia.
 
@@ -118,7 +118,7 @@ Ver [[wiki/conceitos/potencias-da-alma]].
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/provas-e-expiacoes]] — classificação kardeciana das provas
+- [[wiki/conceitos/provas-e-expiacoes]] — classificação de Kardec das provas
 - [[wiki/conceitos/expiacao]] — sofrimento como consequência de faltas
 - [[wiki/conceitos/arrependimento]] — primeiro passo para cessar a dor
 - [[wiki/conceitos/resignacao]] — aceitação serena fundada na compreensão

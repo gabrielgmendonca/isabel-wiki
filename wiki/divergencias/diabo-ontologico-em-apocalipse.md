@@ -41,7 +41,7 @@ A refutação detalhada está em [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*
 
 5. **A inutilidade do arrependimento** demonstrada pela doutrina tradicional (Satanás não pode se arrepender, dizem) destrói o princípio evangélico do perdão e da regeneração: *"E em nome de Jesus Cristo, daquele que não pregou senão o amor, a caridade e o perdão, que se ensinam semelhantes doutrinas!"* (C&I 1ª parte cap. IX, item 19).
 
-A síntese kardequiana (C&I 1ª parte cap. IX, itens 20–21):
+A síntese de Kardec (C&I 1ª parte cap. IX, itens 20–21):
 
 > "Segundo a doutrina espírita, **a criação dos seres inteligentes é una**. Não há anjos nem demônios como seres à parte. [...] **Existem Espíritos em todos os graus de avanço**: nos mais inferiores, há os profundamente inclinados ao mal. Pode-se chamá-los demônios, se se quiser, pois são capazes das maldades atribuídas a estes. Mas o Espiritismo não lhes dá esse nome porque se vincula a ele a ideia de seres de natureza essencialmente perversa, devotados ao mal por toda a eternidade e incapazes de progredir. **Segundo o Espiritismo, são Espíritos imperfeitos, mas que se aperfeiçoarão**; ainda estão na parte inferior da escala, e subirão."
 
@@ -72,7 +72,7 @@ A divergência é com a **tradição dogmática** que fixou a leitura literal �
 
 2. **"Batalha no céu" entre Miguel e o dragão (12:7–8)** — alegoria da **ação pedagógica organizada dos Espíritos elevados** contra a influência dos atrasados sobre a humanidade encarnada. **Miguel** (heb. *Mîkhā'ēl*, "quem é como Deus?") é, na leitura espírita, figura coletiva de Espíritos puros que agem em coordenação para proteger a humanidade — não arcanjo ontologicamente distinto. O "céu" da batalha = plano espiritual elevado; "precipitar na terra" = circunscrever a influência dos Espíritos atrasados ao plano terrestre, onde podem ser confrontados.
 
-3. **"Os seus anjos" (12:7, 9)** — Espíritos em estado moral correspondente, não criatura à parte. A doutrina kardequiana é firme: a **criação dos seres inteligentes é una** (C&I 1ª parte cap. IX, item 20). Não há "raça angélica" nem "raça demoníaca" — todos os Espíritos são da mesma origem, em diferentes graus de progresso.
+3. **"Os seus anjos" (12:7, 9)** — Espíritos em estado moral correspondente, não criatura à parte. A doutrina de Kardec é firme: a **criação dos seres inteligentes é una** (C&I 1ª parte cap. IX, item 20). Não há "raça angélica" nem "raça demoníaca" — todos os Espíritos são da mesma origem, em diferentes graus de progresso.
 
 4. **"Sinagoga de Satanás" (2:9; 3:9), "trono de Satanás" (2:13), "profundezas de Satanás" (2:24)** — todas as ocorrências estão nas cartas às sete igrejas e referem-se a **adversários historicamente identificáveis** das comunidades cristãs do final do I século (judeus que perseguiam os cristãos; culto imperial em Pérgamo, "trono"; gnósticos libertinos, "profundezas"). A linguagem é **denuncial e moral**, não cosmologia. Em chave atual: **Satanás como nome figurado** das forças coletivas que se opõem à moral espiritual em qualquer época — Mamon coletivo, sistemas corruptores, Espíritos atrasados em ação coordenada — mas **sem entidade única identificável**.
 
@@ -88,7 +88,7 @@ Para o estudo espírita, a leitura histórica é robusta e desfaz as **demonolog
 
 ### A persistência cultural da figura
 
-Mesmo na leitura espírita, é útil reconhecer **a função cultural** da figura do diabo: durante muitos séculos, foi instrumento pedagógico para **personificar o mal** numa cultura sem o vocabulário kardequiano da escala espírita. A imagem foi necessária ao estágio em que a humanidade se encontrava. O Espiritismo **substitui** essa imagem por descrição mais precisa (Espíritos em diferentes graus de progresso; mal como estado, não substância) — sem demonizar a tradição que precisou da imagem.
+Mesmo na leitura espírita, é útil reconhecer **a função cultural** da figura do diabo: durante muitos séculos, foi instrumento pedagógico para **personificar o mal** numa cultura sem o vocabulário de Kardec da escala espírita. A imagem foi necessária ao estágio em que a humanidade se encontrava. O Espiritismo **substitui** essa imagem por descrição mais precisa (Espíritos em diferentes graus de progresso; mal como estado, não substância) — sem demonizar a tradição que precisou da imagem.
 
 ## Status
 
@@ -99,7 +99,7 @@ Companheira inseparável de [[wiki/divergencias/penas-eternas-em-apocalipse]]: o
 ## Páginas relacionadas
 
 - [[wiki/obras/apocalipse]] — passagens-fonte (caps. 2, 12, 20).
-- [[wiki/conceitos/demonios]] — refutação espírita do diabo ontológico; Espíritos imperfeitos como leitura kardequiana.
+- [[wiki/conceitos/demonios]] — refutação espírita do diabo ontológico; Espíritos imperfeitos como leitura de Kardec.
 - [[wiki/conceitos/anjos]] — refutação dos anjos como criatura à parte.
 - [[wiki/conceitos/origem-do-mal]] — mal como estado dos Espíritos, não substância oposta a Deus.
 - [[wiki/conceitos/escala-espirita]] — hierarquia dos Espíritos sem categorias ontológicas fixas.

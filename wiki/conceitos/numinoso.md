@@ -26,7 +26,7 @@ Kardec não usa o termo "numinoso" — é vocabulário do século XX. Mas o **fe
 
 > *"A lei de Deus está escrita na consciência."* (LE, q. 621)
 
-A tradição kardequiana reconhece a **experiência transcendente** como elemento da Quinta Revelação — comunicação espiritual, intuição superior, "iluminação" — distinguindo-a do fanatismo dogmático e do misticismo regressivo. Em [[wiki/obras/genese|A Gênese]] cap. XV, os "milagres" do Antigo e Novo Testamento são relidos como manifestações ordinárias da lei espiritual — não como sobrenatural arbitrário.
+A tradição de Kardec reconhece a **experiência transcendente** como elemento da Quinta Revelação — comunicação espiritual, intuição superior, "iluminação" — distinguindo-a do fanatismo dogmático e do misticismo regressivo. Em [[wiki/obras/genese|A Gênese]] cap. XV, os "milagres" do Antigo e Novo Testamento são relidos como manifestações ordinárias da lei espiritual — não como sobrenatural arbitrário.
 
 ## Desdobramentos — Joanna de Ângelis
 
@@ -67,9 +67,9 @@ A **terapêutica orientada para o numinoso** integra três níveis em Joanna:
 Não há divergência estrutural com Kardec. Joanna usa o vocabulário do numinoso como **categoria descritiva** da experiência espiritual, integrada à tripartição Espírito-perispírito-matéria. Cuidados pontuais:
 
 - **"Self como Deus interno"** — fórmula que pode resvalar para imanentismo. O Espiritismo preserva a distinção Criador-criatura: o "Deus interno" é a presença de Deus na consciência (LE q. 621), não identidade ontológica entre Espírito-criatura e Criador.
-- **"Inconsciente coletivo como manifestação do numinoso"** — formulação junguiana adotada por Joanna; em chave kardequiana, é o Espírito-criatura que percebe Deus através de sua faculdade própria, não o coletivo da espécie. Ver [[wiki/conceitos/individuacao#A discordância parcial nominal de Jung|individuação — discordância de Jung]].
+- **"Inconsciente coletivo como manifestação do numinoso"** — formulação junguiana adotada por Joanna; à luz de Kardec, é o Espírito-criatura que percebe Deus através de sua faculdade própria, não o coletivo da espécie. Ver [[wiki/conceitos/individuacao#A discordância parcial nominal de Jung|individuação — discordância de Jung]].
 
-A síntese permanece kardequiana: a experiência numinosa, descrita pela teologia (Otto) e pela psicologia analítica (Jung), corresponde no corpus de Kardec à **percepção viva da Lei de Deus na consciência** (LE q. 621), à **comunicação superior** (LM cap. XX) e à **fé raciocinada** (ESE cap. XIX, Mt 17:20).
+A síntese permanece de Kardec: a experiência numinosa, descrita pela teologia (Otto) e pela psicologia analítica (Jung), corresponde no corpus de Kardec à **percepção viva da Lei de Deus na consciência** (LE q. 621), à **comunicação superior** (LM cap. XX) e à **fé raciocinada** (ESE cap. XIX, Mt 17:20).
 
 ## Páginas relacionadas
 

@@ -115,7 +115,7 @@ A ausência de um Comitê Central executivo é, em retrospecto, um dos fatores q
 
 ### Recepção brasileira
 
-A FEB (fundada em 1884) absorveu parcialmente o programa institucional anexo — biblioteca, atendimento fraterno, atividades editoriais —, mas sob estrutura federativa diversa do Comitê Central previsto. A síntese de **Bezerra de Menezes** sobre unificação no Brasil (final do século XIX) deve ser lida como adaptação local do problema constitucional kardequiano.
+A FEB (fundada em 1884) absorveu parcialmente o programa institucional anexo — biblioteca, atendimento fraterno, atividades editoriais —, mas sob estrutura federativa diversa do Comitê Central previsto. A síntese de **Bezerra de Menezes** sobre unificação no Brasil (final do século XIX) deve ser lida como adaptação local do problema constitucional de Kardec.
 
 ## Aplicação prática
 

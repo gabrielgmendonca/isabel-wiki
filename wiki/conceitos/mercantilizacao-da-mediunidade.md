@@ -36,7 +36,7 @@ At 8:18-24 narra o caso-protótipo. Simão, da Samaria, vendo que pela imposiç�
 
 > "O teu dinheiro seja contigo para perdição, pois cuidaste que o dom de Deus se alcança por dinheiro. Tu não tens parte nem sorte nesta palavra, porque o teu coração não é reto diante de Deus." (At 8:20-21)
 
-A tradição cristã derivou daí o termo **simonia** — a comercialização de bens sagrados. A condenação não é sobre o dinheiro em si; é sobre a confusão de planos: o que pertence ao serviço espiritual gratuito não pode ser convertido em mercadoria sem trair a sua natureza. A linha kardequiana herda essa intuição e a sistematiza em norma operacional para grupos espíritas.
+A tradição cristã derivou daí o termo **simonia** — a comercialização de bens sagrados. A condenação não é sobre o dinheiro em si; é sobre a confusão de planos: o que pertence ao serviço espiritual gratuito não pode ser convertido em mercadoria sem trair a sua natureza. A linha de Kardec herda essa intuição e a sistematiza em norma operacional para grupos espíritas.
 
 ## O caso Acelino
 
@@ -48,7 +48,7 @@ O desvio está descrito em primeira pessoa (cap. 8):
 
 A racionalização foi triplamente teológica: (1) outros profissionais cobram, (2) sacerdotes católicos recebem por serviços religiosos, (3) há colaboração pessoal sua como intermediário, "pelo que devia ser justa a retribuição". Arbitrou preço de consulta, com bonificações para os pobres. **O consultório encheu de famílias abastadas que buscavam negócios, ligações clandestinas e palpites comerciais.**
 
-O resultado foi mecanicamente coerente com a tese kardequiana:
+O resultado foi mecanicamente coerente com a tese de Kardec:
 
 > "À força de me cercar de pessoas criminosas, por questões de ganho sistemático, as baixas correntes mentais dos inquietos clientes encarceraram-me em sombria cadeia psíquica. [...] E transformei a mediunidade em fonte de palpites materiais e baixos avisos." (cap. 8)
 
@@ -58,7 +58,7 @@ A síntese é dele mesmo:
 
 > "Não fui homicida nem ladrão vulgar, não mantive o propósito íntimo de ferir ninguém, nem desrespeitei alheios lares, mas, indo aos Círculos carnais para servir às criaturas de Deus, nossos irmãos, auxiliando-os no crescimento espiritual com Jesus, **apenas fiz viciados da crença religiosa e delinquentes ocultos, mutilados da fé e aleijados do pensamento**." (cap. 8)
 
-A formulação acrescenta uma dimensão à tese kardequiana: o médium mercantilizado não apenas se prejudica, **vicia os consulentes na própria fé** — torna-os dependentes do oráculo pago, em vez de educar a consciência moral.
+A formulação acrescenta uma dimensão à tese de Kardec: o médium mercantilizado não apenas se prejudica, **vicia os consulentes na própria fé** — torna-os dependentes do oráculo pago, em vez de educar a consciência moral.
 
 ## Mecanismo de obsessão por sintonia
 

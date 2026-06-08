@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Judas** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/epistola-de-judas]].
+Análise temática e leitura de Kardec em [[wiki/obras/epistola-de-judas]].
 
 ## Capítulos
 

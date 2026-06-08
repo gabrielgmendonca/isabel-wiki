@@ -64,7 +64,7 @@ A amorterapia é a contraparte sociomoral do que [[wiki/conceitos/medico-interno
 
 > "Amorterapia, portanto, é o processo mediante o qual se pode contribuir conscientemente em favor de uma sociedade mais saudável, logo, mais justa e nobre. Essa terapia decorre do **auto-amor**, quando o ser se enriquece de estima por si mesmo […] e, esplendente de alegria, reparte com as demais pessoas o sentimento que o assinala."
 
-A novidade do cap. 60 é a **ancoragem psiconeuroimunológica direta**: o pensamento amoroso "estimula os neurônios à produção de enzimas saudáveis que respondem pela harmonia do sistema nervoso simpático e estímulo das glândulas de secreção endócrina, superando as toxinas […] e a deficiência imunológica". O amor é tratado como vetor mensurável de **imunoglobulinas** que "preservam o organismo físico de várias infecções", articulando a Psiconeuroimunologia ao ensino kardequiano da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]].
+A novidade do cap. 60 é a **ancoragem psiconeuroimunológica direta**: o pensamento amoroso "estimula os neurônios à produção de enzimas saudáveis que respondem pela harmonia do sistema nervoso simpático e estímulo das glândulas de secreção endócrina, superando as toxinas […] e a deficiência imunológica". O amor é tratado como vetor mensurável de **imunoglobulinas** que "preservam o organismo físico de várias infecções", articulando a Psiconeuroimunologia ao ensino de Kardec da [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade|Lei de Justiça, Amor e Caridade]].
 
 ### Cristalização final em *Conflitos Existenciais* (2005)
 

@@ -46,7 +46,7 @@ A política organizacional de Kardec privilegia **pequenos grupos multiplicávei
 
 ## Convergência paulina
 
-Em [[wiki/obras/primeira-epistola-aos-corintios|1 Coríntios 14]], Paulo prescreve **regras práticas do culto mediúnico** que antecipam as condições kardequianas:
+Em [[wiki/obras/primeira-epistola-aos-corintios|1 Coríntios 14]], Paulo prescreve **regras práticas do culto mediúnico** que antecipam as condições de Kardec:
 
 - Sujeição do espírito ao médium (14:32) — o médium não é arrebatado contra a vontade.
 - Critério da paz (14:33) — *"Deus não é Deus de confusão, senão de paz"*.

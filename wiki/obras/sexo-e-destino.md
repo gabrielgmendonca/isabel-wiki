@@ -87,7 +87,7 @@ Pontos-chave da fala de Félix:
 - Crítica explícita à perseguição social: "a perseguição e a crueldade com que são batidos pela sociedade humana lhes impedem ou dificultam a execução dos encargos que trazem à existência física, quando não fazem deles **criaturas hipócritas, com necessidade de mentir incessantemente para viver**, sob o Sol que a Bondade Divina acendeu em benefício de todos".
 
 > [!warning] Divergência registrada
-> A passagem **não contradiz Kardec** — é extensão pastoral compatível com [[wiki/obras/livro-dos-espiritos|LE]] q. 200–202 (sexo é atributo do organismo, não do Espírito). Mas adiciona uma terceira voz à divergência mapeada em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]], reforçando o vetor kardequiano contra a leitura estigmatizante de Léon Denis (*O Problema do Ser e do Destino*, cap. 13, 1908).
+> A passagem **não contradiz Kardec** — é extensão pastoral compatível com [[wiki/obras/livro-dos-espiritos|LE]] q. 200–202 (sexo é atributo do organismo, não do Espírito). Mas adiciona uma terceira voz à divergência mapeada em [[wiki/divergencias/mudanca-de-sexo-reencarnacao]], reforçando o vetor de Kardec contra a leitura estigmatizante de Léon Denis (*O Problema do Ser e do Destino*, cap. 13, 1908).
 
 ## Conceitos tratados
 

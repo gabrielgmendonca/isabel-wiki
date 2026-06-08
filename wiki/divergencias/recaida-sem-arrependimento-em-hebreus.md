@@ -90,7 +90,7 @@ Ou seja, o próprio autor reconhece que a advertência dura de 6:4–6 é **exor
 
 A tradição cristã relacionou Hb 6:4–6 ao **"pecado contra o Espírito Santo"** de Mt 12:31–32 ("todo o que fala contra o Espírito Santo, nem neste século, nem no futuro lhe será perdoado"). A leitura espírita dessa passagem, por sua vez, é conhecida:
 
-> "O pecado contra o Espírito Santo é a recusa persistente e consciente da verdade divina quando se a reconheceu como tal. Não é falta pontual, é **estado de resistência moral prolongado**. Enquanto persistir, não há perdão — porque não há arrependimento. Mas basta que o Espírito ceda, reconheça e queira, para que a porta se reabra." (síntese kardequiana, cf. ESE cap. XV)
+> "O pecado contra o Espírito Santo é a recusa persistente e consciente da verdade divina quando se a reconheceu como tal. Não é falta pontual, é **estado de resistência moral prolongado**. Enquanto persistir, não há perdão — porque não há arrependimento. Mas basta que o Espírito ceda, reconheça e queira, para que a porta se reabra." (síntese de Kardec, cf. ESE cap. XV)
 
 Ou seja: não é a falta que é irremissível — é o **estado de recusa** que impede o perdão enquanto persiste. Assim que cessa, cessa também o "bloqueio". Essa é a chave que permite ler Hb 6:4–6 em harmonia com LE q. 1009: a impossibilidade é lógica (não pode haver perdão sem arrependimento), não metafísica (Deus não fechou nenhuma porta).
 

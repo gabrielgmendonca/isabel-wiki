@@ -27,7 +27,7 @@ A trajetória de Varro estrutura a obra inteira em três renascimentos:
 
 ## Doutrina dramatizada
 
-A figura encarna três princípios da escala kardequiana:
+A figura encarna três princípios da escala de Kardec:
 
 - **Reencarnação por afinidade afetiva** com missão redentora pré-acordada (LE q. 320+).
 - **Apego post-mortem como obstáculo** — após desencarnar como Corvino, Varro chora abraçado ao corpo do filho, é repreendido pelo orientador: *"muitos companheiros encarceram-se, após a morte, nas teias escuras da afetividade menos construtiva, quais pássaros embaraçados em visco de mel, e transformam-se em algozes carinhosos e inconscientes dos próprios familiares."*

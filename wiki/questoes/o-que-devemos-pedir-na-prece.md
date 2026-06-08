@@ -49,7 +49,7 @@ Três precisões pastorais:
 ## Conceitos relacionados
 
 - [[wiki/conceitos/prece]] — natureza, qualidades e eficácia da prece (capítulo XXVII inteiro).
-- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — moldura kardequiana da prece (LE q. 658-673).
+- [[wiki/conceitos/leis-morais/lei-de-adoracao]] — moldura de Kardec da prece (LE q. 658-673).
 - [[wiki/conceitos/leis-morais/lei-de-liberdade]] — livre-arbítrio "em toda a sua plenitude": Deus não decide pelo homem.
 - [[wiki/conceitos/resignacao]] — aceitação ativa, não passividade.
 - [[wiki/aprofundamentos/decisoes-de-vida-e-providencia]] — aplicação do método a decisões reais.

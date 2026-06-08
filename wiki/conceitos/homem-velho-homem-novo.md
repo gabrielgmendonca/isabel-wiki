@@ -30,7 +30,7 @@ A imagem paulina não é citada literalmente, mas a operação que ela descreve 
 
 > "Como pode o homem destruir os maus pendores? — Pela vontade firme de fazê-lo." (LE q. 919, paráfrase do contexto)
 
-O "despojar-se do velho homem" paulino é, em vocabulário kardequiano, **trabalho da vontade contra os maus pendores**. Não é evento único nem milagre exterior — é decisão renovada todos os dias.
+O "despojar-se do velho homem" paulino é, em vocabulário de Kardec, **trabalho da vontade contra os maus pendores**. Não é evento único nem milagre exterior — é decisão renovada todos os dias.
 
 ### 2. O esforço cotidiano do homem de bem
 
@@ -44,7 +44,7 @@ A "renovação no espírito da mente" (Ef 4:23) descrita por Paulo é **conforma
 
 > "O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade, na sua maior pureza." (LE q. 918)
 
-O "novo homem [...] criado em verdadeira justiça e santidade" (Ef 4:24) é, em chave kardequiana, o Espírito que internalizou a Lei de Justiça, Amor e Caridade até o ponto em que a virtude flui sem esforço consciente. Não é estado adquirido em uma única encarnação — é **trajetória de progresso indefinido** (LE q. 115, q. 1009–1016) que articula vidas sucessivas em direção à perfeição.
+O "novo homem [...] criado em verdadeira justiça e santidade" (Ef 4:24) é, à luz de Kardec, o Espírito que internalizou a Lei de Justiça, Amor e Caridade até o ponto em que a virtude flui sem esforço consciente. Não é estado adquirido em uma única encarnação — é **trajetória de progresso indefinido** (LE q. 115, q. 1009–1016) que articula vidas sucessivas em direção à perfeição.
 
 ## Desdobramentos
 
@@ -57,13 +57,13 @@ A tríplice ocorrência (Rm 6:6; Ef 4:22–24; Cl 3:9–10) mostra que a imagem 
 
 ### Não é dualismo metafísico
 
-Importante: o "homem velho" não é uma **entidade separada** do "homem novo" — não há duas substâncias coexistindo. Há **um só Espírito** em duas fases morais. A linguagem paulina pode sugerir dualismo (sobretudo Rm 7:15–25, "o mal que não quero, esse faço"), mas a chave kardequiana lê a tensão como **inércia das faculdades inferiores não ainda depuradas** — não substância do mal, mas hábito acumulado que a vontade trabalha lentamente (LE q. 905–910).
+Importante: o "homem velho" não é uma **entidade separada** do "homem novo" — não há duas substâncias coexistindo. Há **um só Espírito** em duas fases morais. A linguagem paulina pode sugerir dualismo (sobretudo Rm 7:15–25, "o mal que não quero, esse faço"), mas a chave de Kardec lê a tensão como **inércia das faculdades inferiores não ainda depuradas** — não substância do mal, mas hábito acumulado que a vontade trabalha lentamente (LE q. 905–910).
 
 Ver [[wiki/obras/epistola-aos-romanos]] cap. 7 (luta moral interior).
 
 ### Articulação com [[wiki/conceitos/perfeicao-moral|perfeição moral]]
 
-O "novo homem" paulino aproxima-se do **homem perfeito** kardequiano, mas não se identifica com ele:
+O "novo homem" paulino aproxima-se do **homem perfeito** de Kardec, mas não se identifica com ele:
 
 - **Homem velho** → vive segundo as concupiscências; predomina o egoísmo, raiz de todos os vícios (LE q. 913).
 - **Homem de bem** → faz esforço cotidiano de domínio das paixões; reconhece imperfeições e trabalha para vencê-las (ESE cap. XVII, item 3).

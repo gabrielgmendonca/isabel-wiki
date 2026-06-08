@@ -50,7 +50,7 @@ A wiki acolhe essa linhagem como **convergente e útil**, lendo-a sempre a parti
 
 ### A escada de hipóteses (Flammarion)
 
-Modelo metodológico maduro: só se admite a ação do desencarnado quando esgotadas, **uma a uma**, todas as explicações naturais (fraude, ilusão, coincidência refutada pela estatística, telepatia entre vivos, sugestão retardada de Myers ≤ 12 h, ação do moribundo). É a aplicação fenomenológica do controle kardequiano — ver [[wiki/obras/as-casas-mal-assombradas]].
+Modelo metodológico maduro: só se admite a ação do desencarnado quando esgotadas, **uma a uma**, todas as explicações naturais (fraude, ilusão, coincidência refutada pela estatística, telepatia entre vivos, sugestão retardada de Myers ≤ 12 h, ação do moribundo). É a aplicação fenomenológica do controle de Kardec — ver [[wiki/obras/as-casas-mal-assombradas]].
 
 O **documento-bandeira** dessa metodologia é [[wiki/obras/a-morte-e-o-seu-misterio|*A Morte e o Seu Mistério*]] (3 vols., 1920–22): a aplicação mais extensa da escada, sobre ~4.800 cartas de correspondentes (das quais o autor declara publicar a décima parte) e mais de **60 anos de verificação** ("do ano de 1861 ao ano de 1922"). Flammarion converte em garantia justamente a duração e a independência das observações — *"qualquer pesquisador imparcial [...] que se entregue a uma séria investigação dessa ordem chegará aos mesmos resultados"* (vol. 3, Conclusões). É a tradução fenomenológica exata do **controle universal**: a concordância de testemunhos independentes, em regiões e épocas diversas, é a guarda de veracidade — equivalente do que Kardec fixa em (Gênese, cap. I, item 54) e (ESE, Introdução, item II). A escada ascendente dos três tomos (faculdades da alma → aparições de moribundos → aparições de mortos) é a própria sequência do "falem dois ou três e os outros julguem" aplicada ao fenômeno póstumo.
 
@@ -74,7 +74,7 @@ A ala científica tende a uma divergência recorrente: **"o Espiritismo é ciên
 - [[wiki/conceitos/aparicoes]] — fenômeno-objeto central da prova documental
 - [[wiki/conceitos/telepatia]] — degrau da escada (transmissão entre vivos a esgotar)
 - [[wiki/conceitos/casas-mal-assombradas]] — fenômeno-laboratório da prova
-- [[wiki/conceitos/manifestacoes-espiritas]] — quadro kardequiano dos fenômenos
+- [[wiki/conceitos/manifestacoes-espiritas]] — quadro de Kardec dos fenômenos
 - [[wiki/conceitos/animismo]] — hipótese a esgotar antes de admitir o desencarnado
 - [[wiki/sinteses/hierarquia-de-autoridade]] — leitura dos níveis 3/4 a partir do Pentateuco
 

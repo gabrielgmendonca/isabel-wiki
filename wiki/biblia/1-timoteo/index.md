@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **1 Timóteo** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/primeira-epistola-a-timoteo]].
+Análise temática e leitura de Kardec em [[wiki/obras/primeira-epistola-a-timoteo]].
 
 ## Capítulos
 

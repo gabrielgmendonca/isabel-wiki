@@ -50,7 +50,7 @@ A evangelização infantojuvenil é uma das atividades centrais das casas espír
 
 ### Obras de apoio
 
-A literatura mediúnica dedicada à criança fornece material clássico para a evangelização. [[wiki/personalidades/meimei|Meimei]], pela psicografia de [[wiki/personalidades/chico-xavier|Chico Xavier]], compôs uma série voltada à formação infantil — *Cartilha do Bem*, *Mãe*, *Amizade* e, sobretudo, *[[wiki/obras/pai-nosso|Pai Nosso]]* (1952), que comenta as petições da [[wiki/conceitos/oracao-dominical|oração dominical]] uma a uma, em linguagem de criança, com contos, máximas e quadras. É modelo do método: doutrina kardequiana fiel (cada capítulo reproduz o comentário de Kardec ao Pai-Nosso, ESE cap. XXVIII), mediada por narrativa simples e memorizável.
+A literatura mediúnica dedicada à criança fornece material clássico para a evangelização. [[wiki/personalidades/meimei|Meimei]], pela psicografia de [[wiki/personalidades/chico-xavier|Chico Xavier]], compôs uma série voltada à formação infantil — *Cartilha do Bem*, *Mãe*, *Amizade* e, sobretudo, *[[wiki/obras/pai-nosso|Pai Nosso]]* (1952), que comenta as petições da [[wiki/conceitos/oracao-dominical|oração dominical]] uma a uma, em linguagem de criança, com contos, máximas e quadras. É modelo do método: doutrina de Kardec fiel (cada capítulo reproduz o comentário de Kardec ao Pai-Nosso, ESE cap. XXVIII), mediada por narrativa simples e memorizável.
 
 ## Páginas relacionadas
 

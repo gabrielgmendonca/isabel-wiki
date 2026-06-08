@@ -42,7 +42,7 @@ A necrologia escrita por Kardec em **dezembro de 1861** registra explicitamente 
 
 > *"Se me atrapalhei tanto no dédalo dos sistemas filosóficos, é que me faltava uma bússola. Eu só encontrava caminhos sem saída e que não me levavam a nada. Nenhum me dava uma solução concludente dos mais importantes problemas. [...] Ora! Essa chave está na reencarnação, que tudo explica de maneira tão lógica, tão conforme à justiça de Deus, que a gente diz naturalmente: Sim, é preciso que seja assim."* (Jobard a Kardec, citado em RE dez/1861)
 
-A necrologia destaca que Jobard *"foi um dos primeiros a abandonar [a teoria da alma coletiva] quando apareceu o *Livro dos Espíritos*"* — caso-modelo do princípio kardequiano de que a abjuração de erros próprios é prova de bom-senso, não de fraqueza. As **conversas pós-morte** com seu Espírito iniciam imediatamente após 27/10/1861 e são publicadas a partir de jan/1862, alimentando o material que entra em [[wiki/obras/ceu-e-inferno|C&I]], 2ª parte, cap. II.
+A necrologia destaca que Jobard *"foi um dos primeiros a abandonar [a teoria da alma coletiva] quando apareceu o *Livro dos Espíritos*"* — caso-modelo do princípio de Kardec de que a abjuração de erros próprios é prova de bom-senso, não de fraqueza. As **conversas pós-morte** com seu Espírito iniciam imediatamente após 27/10/1861 e são publicadas a partir de jan/1862, alimentando o material que entra em [[wiki/obras/ceu-e-inferno|C&I]], 2ª parte, cap. II.
 
 ## Continuação em 1862
 

@@ -15,7 +15,7 @@ status: ativo
 - **Nome:** Jean-Baptiste Henri Lacordaire (em religião: Henri-Dominique).
 - **Vida:** 12 de maio de 1802, Recey-sur-Ource (Côte-d'Or) — 21 de novembro de 1861, Sorèze (Tarn).
 - **Função:** padre da Ordem dos Pregadores (dominicanos); restaurador da Ordem em França (1839); pregador da Catedral de Notre-Dame; membro da Académie Française (1860).
-- **Posição na hierarquia kardequiana:** autoridade católica recuperada como **testemunha favorável** ao Espiritismo do interior do clero, ao lado de Mons. Freyssinous (bispo de Hermópolis) e do Padre Charles Dégenettes.
+- **Posição na hierarquia de Kardec:** autoridade católica recuperada como **testemunha favorável** ao Espiritismo do interior do clero, ao lado de Mons. Freyssinous (bispo de Hermópolis) e do Padre Charles Dégenettes.
 
 ## Papel
 

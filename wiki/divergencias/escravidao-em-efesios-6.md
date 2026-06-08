@@ -42,7 +42,7 @@ A "desigualdade das condições" é assinatura humana, não divina. Cessará qua
 > "**818.** Donde provém a inferioridade moral da mulher em certas regiões?
 > — Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito."
 
-A análise — formulada para a subordinação feminina — articula o **diagnóstico geral** kardequiano de toda subordinação social: "abuso da força sobre a fraqueza" entre "homens moralmente pouco adiantados". Diagnóstico que se aplica imediatamente à escravidão.
+A análise — formulada para a subordinação feminina — articula o **diagnóstico geral** de Kardec de toda subordinação social: "abuso da força sobre a fraqueza" entre "homens moralmente pouco adiantados". Diagnóstico que se aplica imediatamente à escravidão.
 
 ### 3. Lei de Liberdade — escravidão como retrocesso
 
@@ -82,7 +82,7 @@ A história cristã do tratamento da escravidão é longa e heterogênea:
 
 ## Análise
 
-**Divergência real e estrutural.** O conflito entre Ef 6:5–9 e a doutrina kardequiana é absoluto **se a passagem é lida como prescritiva universal**. Três camadas de mediação atenuam a tensão sem dissolvê-la:
+**Divergência real e estrutural.** O conflito entre Ef 6:5–9 e a doutrina de Kardec é absoluto **se a passagem é lida como prescritiva universal**. Três camadas de mediação atenuam a tensão sem dissolvê-la:
 
 ### 1. Contexto histórico-pastoral
 
@@ -94,7 +94,7 @@ A leitura espírita reconhece a habilidade pastoral, mas **não a eleva a norma 
 
 O próprio Paulo escreve, em Gálatas: "não há judeu nem grego; **não há servo nem livre**; não há macho nem fêmea; porque todos vós sois um em Cristo Jesus" (Gl 3:28). Em Filêmon, intercede pela libertação de Onésimo "não já como servo, antes, mais do que servo, como irmão amado" (Fm 16). A coerência interna do corpus paulino aponta para **abolição implícita** que a tradição majoritária preferiu não desenvolver. A leitura espírita, fazendo o movimento que abolicionistas evangélicos do séc. XVIII fizeram, privilegia Gl 3:28 e Filêmon sobre Ef 6:5–9.
 
-### 3. Princípio kardequiano: a hierarquia do Pentateuco prevalece
+### 3. Princípio de Kardec: a hierarquia do Pentateuco prevalece
 
 Aqui a regra de ouro da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de autoridade]] do projeto se aplica diretamente: quando o nível 3 (escrito apostólico) entra em tensão com o nível 1 (Pentateuco), Kardec prevalece. LE q. 803, 806, 818 e a Lei de Liberdade (q. 825–872) recusam a escravidão como ordem natural; a passagem paulina é **registrada como divergência aberta** e relida em chave histórica, sem autoridade prescritiva atual.
 
@@ -117,7 +117,7 @@ Aqui a regra de ouro da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de a
 
 - **Contexto histórico** de minoria perseguida sem capacidade política de abolição.
 - **Coerência intra-paulina** com Gl 3:28 ("não há servo nem livre [...] todos sois um em Cristo Jesus") e com a intercessão por Onésimo na [[wiki/obras/epistola-a-filemom|Epístola a Filêmon]] — o **pólo mais atenuado** da posição paulina sobre a escravidão, em que a divergência com Kardec é só de *alcance* (transfigura a relação por dentro sem reclamar a abolição jurídica), não de princípio.
-- **Critério da hierarquia de autoridade**: o Pentateuco kardequiano prevalece sobre o nível 3 quando há conflito doutrinário.
+- **Critério da hierarquia de autoridade**: o Pentateuco de Kardec prevalece sobre o nível 3 quando há conflito doutrinário.
 
 Nenhuma mitigação dissolve o fato de que o literalismo do texto serviu, por séculos, como **fundamento bíblico da legitimação cristã da escravidão** — incluindo o tráfico atlântico. A divergência permanece viva como exigência de leitura crítica explícita, não interpretação suavizadora.
 

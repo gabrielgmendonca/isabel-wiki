@@ -30,7 +30,7 @@ Em **1863**, Allan Kardec reconheceu publicamente a importância de Hugo para o 
 Comentário de Kardec: *"Se existe algo de mais espírita ainda, é a explicação dada pelo Sr. Victor Hugo. Dir-se-ia tirada textualmente da Doutrina."* Hugo é assim mobilizado em 1867 — junto com [[wiki/personalidades/camille-flammarion|Flammarion]], [[wiki/personalidades/lacordaire|Lacordaire]] e Joseph de Maistre — como **literato e aliado cultural** que cumpre involuntariamente a profecia da Alocução de 6/10/1865 (*"Os literatos serão os vossos mais poderosos auxiliares"*). Detalhe completo em [[wiki/obras/revista-espirita-1867]].
 
 > [!note] Cronologia
-> As sessões de Jersey **antecedem** a publicação de [[wiki/obras/livro-dos-espiritos]] (abril de 1857). Hugo nunca se filiou formalmente à codificação kardequiana — sua experiência corre paralela ao nascimento do Espiritismo organizado. O método de Jersey (mesa de três pés sobre uma mesa, batidas tipológicas) corresponde aos primeiros fenômenos descritos por Kardec em [[wiki/obras/obras-postumas]] e é tratado doutrinariamente em [[wiki/obras/livro-dos-mediuns]] (LM, 2ª parte, cap. IV).
+> As sessões de Jersey **antecedem** a publicação de [[wiki/obras/livro-dos-espiritos]] (abril de 1857). Hugo nunca se filiou formalmente à codificação de Kardec — sua experiência corre paralela ao nascimento do Espiritismo organizado. O método de Jersey (mesa de três pés sobre uma mesa, batidas tipológicas) corresponde aos primeiros fenômenos descritos por Kardec em [[wiki/obras/obras-postumas]] e é tratado doutrinariamente em [[wiki/obras/livro-dos-mediuns]] (LM, 2ª parte, cap. IV).
 
 ## Papel como Espírito comunicante
 

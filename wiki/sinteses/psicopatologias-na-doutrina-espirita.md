@@ -36,7 +36,7 @@ A tese é reforçada documentalmente em **RE fev/1866** com dois casos longitudi
 
 Em **RE jul/1866**, o artigo "Estatística da loucura" responde à acusação anti-espírita de que o Espiritismo causaria loucura — com dados oficiais do Ministério da Agricultura francês (*Moniteur* de 16/04/1866) refutando documentalmente o argumento.
 
-A estrutura kardequiana fica assim fixada em **três frentes**:
+A estrutura de Kardec fica assim fixada em **três frentes**:
 
 - Em [[wiki/obras/livro-dos-mediuns|LM]] cap. XXIII (1861), a obsessão recebe sua **tipologia tripartite** — simples, fascinação, subjugação — com sinais diagnósticos (item 243), causas (itens 245-246) e meios de combate (item 244).
 - Na [[wiki/obras/revista-espirita-1862|RE 1862-1866]], a obsessão recebe sua **fenomenologia clínica** ancorada em casos investigados.
@@ -46,7 +46,7 @@ Ver [[wiki/sinteses/possessos-de-morzine]] e [[wiki/conceitos/obsessao]] para tr
 
 ### Eixo 2 — André Luiz formula a "etiologia espírita das psicopatias" (1955-1959)
 
-Quase um século depois, **[[wiki/personalidades/andre-luiz|André Luiz]]** retoma e sistematiza a tese kardequiana num arco que vai de [[wiki/obras/missionarios-da-luz|*Missionários da Luz*]] (1945, cap. 18 — tipologia operativa de cinco casos) a [[wiki/obras/mecanismos-da-mediunidade|*Mecanismos da Mediunidade*]] (1959, cap. 24 — formulação programática). O capítulo 24 é o tratamento mais sistemático da articulação obsessão-enfermidade mental na literatura espírita brasileira:
+Quase um século depois, **[[wiki/personalidades/andre-luiz|André Luiz]]** retoma e sistematiza a tese de Kardec num arco que vai de [[wiki/obras/missionarios-da-luz|*Missionários da Luz*]] (1945, cap. 18 — tipologia operativa de cinco casos) a [[wiki/obras/mecanismos-da-mediunidade|*Mecanismos da Mediunidade*]] (1959, cap. 24 — formulação programática). O capítulo 24 é o tratamento mais sistemático da articulação obsessão-enfermidade mental na literatura espírita brasileira:
 
 > "Os manicômios e as penitenciárias estão repletos de irmãos nossos obsidiados que, alcançando o ponto específico de suas recapitulações do pretérito culposo, à falta de providências reeducativas, nada mais puderam fazer que recair na loucura ou no crime, porque, em verdade, **a alienação e a delinquência, na maioria das vezes, expressam a queda mental do Espírito em reminiscências de lutas pregressas**." (*Mecanismos*, cap. 24)
 
@@ -71,7 +71,7 @@ A **[[wiki/sinteses/serie-psicologica-joanna-de-angelis|Série Psicológica de J
 
 **[[wiki/obras/conflitos-existenciais|*Conflitos Existenciais*]]** (vol. 13, 2005) — único volume da Série em **forma de manual clínico** com 20 capítulos no padrão uniforme **psicogênese → transtornos → terapia**: fugas psicológicas, preguiça, raiva, medo, ressentimento, culpa, ciúme, ansiedade, crueldade, violência, neurastenia, drogadição, tabagismo, alcoolismo, vazio existencial, estresse, fobias, coragem, amor, morte. Cristaliza duas teses operacionais — **medo×amor** (cap. 4: *"a escolha é de cada um: o medo ou o amor, já que os dois não convivem no mesmo espaço emocional"*) e **culpa×perdão** (cap. 6: distinção culpa saudável × culpa-castigo). Trata as **dependências químicas (caps. 12-14) como modalidade severa de obsessão velada**: o desencarnado dependente vincula-se ao encarnado para "saciar" via psicosfera os apetites que perderam o substrato fisiológico — convergente com o caso Antídio em *No Mundo Maior* cap. 14.
 
-**[[wiki/obras/encontro-com-a-paz-e-a-saude|*Encontro com a Paz e a Saúde*]]** (vol. 14, 2007, sesquicentenário do LE) — releitura clínica da **tripartição kardequiana das obsessões** (LM cap. XXIII: simples/fascinação/subjugação) com aparato neurofisiológico contemporâneo (cap. 6, com história da psiquiatria desde Pinel/La Bicêtre 1873). Introduz o conceito-mãe [[wiki/conceitos/autodesamor]] como categoria que articula autocondenação, autopiedade e ausência de autoconsciência — tríade clínica que predispõe ao adoecimento mental.
+**[[wiki/obras/encontro-com-a-paz-e-a-saude|*Encontro com a Paz e a Saúde*]]** (vol. 14, 2007, sesquicentenário do LE) — releitura clínica da **tripartição de Kardec das obsessões** (LM cap. XXIII: simples/fascinação/subjugação) com aparato neurofisiológico contemporâneo (cap. 6, com história da psiquiatria desde Pinel/La Bicêtre 1873). Introduz o conceito-mãe [[wiki/conceitos/autodesamor]] como categoria que articula autocondenação, autopiedade e ausência de autoconsciência — tríade clínica que predispõe ao adoecimento mental.
 
 A tese metodológica declarada no prefácio de *Conflitos Existenciais* é precisa: *"Nada de novo apresentamos exceto o **enfoque doutrinário** que retiramos do Espiritismo e que tem faltado ao conhecimento de nobres psicoterapeutas, assim como ao de outros especialistas na área da saúde mental e emocional."* O contributo de Joanna não é uma psicopatologia paralela; é a **leitura kardecista** do material psicológico contemporâneo (Freud, Jung, Adler, Frankl, Maslow, Bowlby, Selye, Wilber, Frankl, Erickson, Karen Horney, Erich Fromm) — sob a tripartição **Espírito-perispírito-matéria** declarada no cap. 7 de *Triunfo Pessoal*.
 
@@ -118,13 +118,13 @@ Não há divergência estrutural com o Pentateuco em nenhuma das quatro fontes c
 - **Divaldo Franco** ancora a etiologia espiritual da depressão em **LE q. 459-465** (influência dos Espíritos sobre os pensamentos) e **LM cap. XXIII** (obsessão).
 - **Hammed** ([[wiki/obras/as-dores-da-alma|*As Dores da Alma*]]), tema 19, ancora a depressão em **LE q. 725, q. 974, q. 1000** sob o registro pedagógico das [[wiki/conceitos/dores-da-alma|dores da alma]] como processo evolutivo.
 
-A única tensão registrada — e tratada como **observação textual**, não divergência — é a referência narrativa de Joanna à lenda medieval do suicídio de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] no Monte Pilatus na Suíça (*Triunfo Pessoal* cap. 6), sem registro histórico ou kardequiano. Discussão completa em [[wiki/personalidades/poncio-pilatos]].
+A única tensão registrada — e tratada como **observação textual**, não divergência — é a referência narrativa de Joanna à lenda medieval do suicídio de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] no Monte Pilatus na Suíça (*Triunfo Pessoal* cap. 6), sem registro histórico ou na obra de Kardec. Discussão completa em [[wiki/personalidades/poncio-pilatos]].
 
 ## Conclusão
 
 O Espiritismo **não compete** com a psiquiatria nem com a psicologia — articula-se com elas pela ampliação do quadro etiológico. Onde a psiquiatria detecta carência de serotonina, o Espiritismo acrescenta o **fator obsessivo** que pode estar agravando a carência; onde a psicologia detecta trauma de infância, o Espiritismo acrescenta a **dívida reencarnatória** que pode estar predispondo o trauma a reaparecer.
 
-A tese fundadora é de Kardec: ao lado das loucuras patológicas, há **loucura obsessiva** — categoria distinta, com etiologia espiritual, que não cede à medicação vulgar (RE 1862). André Luiz fenomenologiza o mecanismo: ondas mentais viciadas pós-morte consolidam a obsessão, e os manicômios e penitenciárias estão **repletos de obsidiados que recapitulam dívidas de existências passadas** (*Mecanismos*, 1959, cap. 24). Joanna taxonomiza a clínica: 20 conflitos no manual de *Conflitos Existenciais*, três transtornos profundos no cap. 6 de *Triunfo Pessoal*, releitura das obsessões kardequianas em *Encontro com a Paz e a Saúde* — sempre sob o padrão **psicogênese → transtornos → terapia**. Divaldo integra: amar é prescrição médica.
+A tese fundadora é de Kardec: ao lado das loucuras patológicas, há **loucura obsessiva** — categoria distinta, com etiologia espiritual, que não cede à medicação vulgar (RE 1862). André Luiz fenomenologiza o mecanismo: ondas mentais viciadas pós-morte consolidam a obsessão, e os manicômios e penitenciárias estão **repletos de obsidiados que recapitulam dívidas de existências passadas** (*Mecanismos*, 1959, cap. 24). Joanna taxonomiza a clínica: 20 conflitos no manual de *Conflitos Existenciais*, três transtornos profundos no cap. 6 de *Triunfo Pessoal*, releitura das obsessões de Kardec em *Encontro com a Paz e a Saúde* — sempre sob o padrão **psicogênese → transtornos → terapia**. Divaldo integra: amar é prescrição médica.
 
 Para o trabalhador espírita atendendo um paciente em quadro depressivo, esquizofrênico, ansioso ou compulsivo, a fórmula prática é simples e exigente:
 
@@ -137,7 +137,7 @@ A figura síntese é o cap. 6 de *Triunfo Pessoal* relido em chave de palestra: 
 
 ## Páginas referenciadas
 
-- [[wiki/conceitos/obsessao]] — tipologia kardequiana (LM cap. XXIII) + casuística de André Luiz
+- [[wiki/conceitos/obsessao]] — tipologia de Kardec (LM cap. XXIII) + casuística de André Luiz
 - [[wiki/conceitos/depressao]] — tratamento integrado (Hammed + Divaldo + Joanna em quatro matrizes etiológicas)
 - [[wiki/conceitos/suicidio]] — articulação loucura, suicídio moral e morte espiritual
 - [[wiki/conceitos/possessao-partilhada]] — quarta configuração obsessiva (André Luiz, *Sexo e Destino*)
@@ -167,7 +167,7 @@ A figura síntese é o cap. 6 de *Triunfo Pessoal* relido em chave de palestra: 
 - [[wiki/obras/mecanismos-da-mediunidade]] — cap. 24, etiologia espírita das psicopatias
 - [[wiki/obras/triunfo-pessoal]] — caps. 6-8, núcleo clínico da Série Psicológica
 - [[wiki/obras/conflitos-existenciais]] — manual em 20 capítulos no padrão psicogênese/transtornos/terapia
-- [[wiki/obras/encontro-com-a-paz-e-a-saude]] — releitura clínica das obsessões kardequianas
+- [[wiki/obras/encontro-com-a-paz-e-a-saude]] — releitura clínica das obsessões de Kardec
 - [[wiki/obras/conquista-da-saude-psicologica]] — Divaldo, integração com neurociência
 - [[wiki/obras/as-dores-da-alma]] — Hammed, registro pedagógico
 
@@ -186,6 +186,6 @@ A figura síntese é o cap. 6 de *Triunfo Pessoal* relido em chave de palestra: 
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. FEB, 1959. Cap. 24 (Obsessão — etiologia espírita das psicopatias). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Triunfo Pessoal*. Salvador: LEAL, 2002. Caps. 6-8 (núcleo clínico). Série Psicológica vol. 12.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Conflitos Existenciais*. Salvador: LEAL, 2005. 20 capítulos no padrão psicogênese/transtornos/terapia. Série Psicológica vol. 13.
-- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Encontro com a Paz e a Saúde*. Salvador: LEAL, 2007. Cap. 6 (releitura clínica das obsessões kardequianas). Série Psicológica vol. 14.
+- Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Encontro com a Paz e a Saúde*. Salvador: LEAL, 2007. Cap. 6 (releitura clínica das obsessões de Kardec). Série Psicológica vol. 14.
 - Franco, Divaldo Pereira. *A conquista da saúde psicológica*. Palestra oral, Curitiba-PR, ~2009.
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Depressão" (LE q. 725, q. 974, q. 1000).

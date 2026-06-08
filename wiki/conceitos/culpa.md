@@ -24,7 +24,7 @@ A **culpa saudável** corresponde, neste quadro, ao **estado moral do arrependim
 
 > "A voz da consciência é a voz dos Espíritos bons, é o conjunto das ideias e sentimentos íntimos que constituem o senso moral, distinguindo o bem do mal." (cf. LE q. 621, q. 919)
 
-A culpa, lida em chave kardequiana, é manifestação da **consciência moral** — testemunha imparcial do Espírito. Quando saudável, **avisa**; quando dominada pelo orgulho ou pela má-formação, **mascara-se** (transferência de culpa, justificações, fugas).
+A culpa, lida à luz de Kardec, é manifestação da **consciência moral** — testemunha imparcial do Espírito. Quando saudável, **avisa**; quando dominada pelo orgulho ou pela má-formação, **mascara-se** (transferência de culpa, justificações, fugas).
 
 ### Distinção implícita: culpa que conduz à reparação × culpa estéril
 
@@ -71,7 +71,7 @@ Caso clínico tratado em Conflitos cap. 6: *"Quando, num acidente, alguém morre
 3. **Reparação difusa**: quando a vítima é desconhecida ou inalcançável (típico das culpas reencarnatórias), praticar caridade orientada — solidariedade e compaixão diluem a carga conflitiva.
 4. **Autoperdão**: praticar a misericórdia consigo mesmo, condição da misericórdia recebida (ESE cap. X).
 5. **Quando recalcada/patológica**: assistência psicoterapêutica especializada + sustentação espiritual (prece, [[wiki/conceitos/passe|passes]]).
-6. **Em palestras**: evitar apelo culpígeno (carga moral exacerbada). O ensino kardequiano é convite à responsabilidade serena, não tortura emocional.
+6. **Em palestras**: evitar apelo culpígeno (carga moral exacerbada). O ensino de Kardec é convite à responsabilidade serena, não tortura emocional.
 
 ## Páginas relacionadas
 

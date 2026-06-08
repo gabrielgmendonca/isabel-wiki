@@ -180,7 +180,7 @@ A doutrina é coerente com Kardec em substância (LE q. 614, q. 919; ESE caps. V
 
 ## Conceitos relacionados
 
-- [[wiki/conceitos/provas-e-expiacoes]] — moldura kardequiana central
+- [[wiki/conceitos/provas-e-expiacoes]] — moldura de Kardec central
 - [[wiki/conceitos/expiacao-e-reparacao]] — articulação consequência → reparação
 - [[wiki/conceitos/dor]] e [[wiki/conceitos/dores-da-alma]] — categorias de base
 - [[wiki/conceitos/livre-arbitrio]] — escolha diante da prova

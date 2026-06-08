@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **2 Pedro** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/segunda-epistola-de-pedro]].
+Análise temática e leitura de Kardec em [[wiki/obras/segunda-epistola-de-pedro]].
 
 ## Capítulos
 

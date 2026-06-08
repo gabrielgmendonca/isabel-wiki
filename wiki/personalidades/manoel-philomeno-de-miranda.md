@@ -29,7 +29,7 @@ A obra do autor articula três planos em camada única, distinguindo-a do romanc
 
 - **Plano factual** da obsessão — sintomas físicos, psíquicos e morais reconhecíveis no consulente espírita.
 - **Plano espiritual** — atendimento da sessão mediúnica, terapêutica da palavra fraterna, recurso ideico modelador, presença de mentores como [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]].
-- **Plano doutrinário** — comentário explícito do autor sobre o sentido kardequiano dos eventos narrados; daí o estatuto de **romance doutrinário** (categoria editorial que distingue Manoel Philomeno do romance histórico-evangélico de [[wiki/personalidades/emmanuel|Emmanuel]]).
+- **Plano doutrinário** — comentário explícito do autor sobre o sentido de Kardec dos eventos narrados; daí o estatuto de **romance doutrinário** (categoria editorial que distingue Manoel Philomeno do romance histórico-evangélico de [[wiki/personalidades/emmanuel|Emmanuel]]).
 
 A linguagem é deliberadamente acessível — o autor se dirige ao espírita de centro, ao trabalhador de grupo mediúnico em casa de pequenas obras — e os arcos narrativos costumam encerrar com explicitação doutrinária (não só desfecho dramático).
 

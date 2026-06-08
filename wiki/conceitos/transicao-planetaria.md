@@ -130,7 +130,7 @@ Viana propõe que cada característica do [[wiki/conceitos/mundos-regeneradores|
 - Sinto incômodo quando outro prospera? (inveja)
 - Guardo desejos velados de que o mal alcance quem me feriu? (ódio)
 
-A *Revista Espírita* de março de 1868, no artigo "A Regeneração", sintetiza: no [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] *não haverá mais gritos, nem luto, nem trabalho no sentido de mera remuneração econômica — apenas ocupação útil compreendida como progresso*. A leitura de Viana converte essa promessa escatológica em **exercício de autoexame moral cotidiano** — convergente com a chave kardequiana de LE q. 919 ("Conhece-te a ti mesmo").
+A *Revista Espírita* de março de 1868, no artigo "A Regeneração", sintetiza: no [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] *não haverá mais gritos, nem luto, nem trabalho no sentido de mera remuneração econômica — apenas ocupação útil compreendida como progresso*. A leitura de Viana converte essa promessa escatológica em **exercício de autoexame moral cotidiano** — convergente com a chave de Kardec de LE q. 919 ("Conhece-te a ti mesmo").
 
 Recuperando *Os Mensageiros* (Chico Xavier / André Luiz), Esmália descreve a humanidade atual como *"a Jerusalém de ontem, desdenhando a mensagem do Cristo e o crucificando todos os dias no madeiro da indiferença e do desdém"*. O paralelo com personagens da época da crucificação — a política dos Césares (interesse pessoal acima do bem comum), a justiça de [[wiki/personalidades/poncio-pilatos|Pilatos]] (omissão por lavagem de mãos), a fé dos fariseus (exterior e ritualística), os negócios de Anás e Caifás (manutenção do status e da aparência) — é usado para que cada ouvinte localize **em qual desses personagens ainda se reconhece**.
 

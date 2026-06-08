@@ -49,7 +49,7 @@ A condição necessária é a **afinidade total** — sintonia de paixão domina
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus
+- [[wiki/conceitos/obsessao]] — quadro de Kardec em três graus
 - [[wiki/conceitos/vampirismo-espiritual]] — fenômeno correlato de extração de vitalidade
 - [[wiki/conceitos/perispirito]] — substrato da sintonia entre encarnado e desencarnado
 - [[wiki/conceitos/leis-morais/lei-de-reproducao]] — sexualidade sob a Lei da Natureza

@@ -10,9 +10,9 @@ status: ativo
 
 ## Definição curta
 
-**Autodesamor** é a condição patológica de animosidade contra si mesmo — a inversão da auto-estima sadia que o programa kardequiano do *"Conhece-te a ti mesmo"* (LE q. 919) e do mandamento de Jesus *"amarás ao teu próximo como a ti mesmo"* (Mt 22:39) **pressupõem como pré-requisito**. Sistematizado por [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] no cap. 3 de [[wiki/obras/encontro-com-a-paz-e-a-saude]] como **categoria-mãe** que articula três sub-formas: **autocondenação**, **autopiedade** e **autoconsciência** (esta como antídoto).
+**Autodesamor** é a condição patológica de animosidade contra si mesmo — a inversão da auto-estima sadia que o programa de Kardec do *"Conhece-te a ti mesmo"* (LE q. 919) e do mandamento de Jesus *"amarás ao teu próximo como a ti mesmo"* (Mt 22:39) **pressupõem como pré-requisito**. Sistematizado por [[wiki/personalidades/joanna-de-angelis|Joanna de Ângelis]] no cap. 3 de [[wiki/obras/encontro-com-a-paz-e-a-saude]] como **categoria-mãe** que articula três sub-formas: **autocondenação**, **autopiedade** e **autoconsciência** (esta como antídoto).
 
-Não se confunde com humildade nem com balanço moral diário (LE q. 919, comentário de Santo Agostinho) — é o oposto enfermiço dessa prática: onde o autoexame kardequiano é sereno e dirigido à correção, o autodesamor é flagelante, paralisante e somatizante.
+Não se confunde com humildade nem com balanço moral diário (LE q. 919, comentário de Santo Agostinho) — é o oposto enfermiço dessa prática: onde o autoexame de Kardec é sereno e dirigido à correção, o autodesamor é flagelante, paralisante e somatizante.
 
 ## Ensino de Kardec
 
@@ -71,17 +71,17 @@ A autoconsciência é descrita literalmente como *"processo de auto-iluminação
 - Relacionamentos afetivos marcados por exigência inclemente sobre o parceiro.
 - Atração de espíritos zombeteiros (no caso da autopiedade), com mal-estar persistente sem causa clínica clara.
 
-**Distinguir do balanço moral kardequiano** (LE q. 919, comentário de Santo Agostinho): o balanço diário **avalia perdas e lucros** com serenidade, pode dormir em paz; o autodesamor **só vê perdas**, e priva o sujeito do sono e da paz. A diferença operacional é o **autoperdão como base** — sem ele, o exame vira flagelo.
+**Distinguir do balanço moral de Kardec** (LE q. 919, comentário de Santo Agostinho): o balanço diário **avalia perdas e lucros** com serenidade, pode dormir em paz; o autodesamor **só vê perdas**, e priva o sujeito do sono e da paz. A diferença operacional é o **autoperdão como base** — sem ele, o exame vira flagelo.
 
 > [!warning] O que o autodesamor **não** é
 > - Não é humildade — a humildade reconhece o estágio evolutivo sem se afligir.
 > - Não é balanço moral diário — esse é sereno e corretivo, aquele é flagelante e paralisante.
 > - Não é crítica útil — a crítica útil tem objetivo de mudança; o autodesamor goza da própria infelicidade.
-> - Não é "consciência da culpa" doutrinariamente legítima — a culpa kardequiana, em registro saudável, é sentido de responsabilidade que mobiliza a reparação (cf. [[wiki/conceitos/culpa]]).
+> - Não é "consciência da culpa" doutrinariamente legítima — a culpa segundo Kardec, em registro saudável, é sentido de responsabilidade que mobiliza a reparação (cf. [[wiki/conceitos/culpa]]).
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/autoconhecimento]] — programa kardequiano que o autodesamor obstrui.
+- [[wiki/conceitos/autoconhecimento]] — programa de Kardec que o autodesamor obstrui.
 - [[wiki/conceitos/individuacao]] — conquista do Self como saída estrutural.
 - [[wiki/conceitos/culpa]] — distinção operacional culpa saudável (= responsabilidade) × culpa-castigo (Joanna em [[wiki/obras/o-despertar-do-espirito]] cap. 2 e [[wiki/obras/conflitos-existenciais]] cap. 6).
 - [[wiki/conceitos/amorterapia]] — terapêutica positiva pelo amor a si, ao próximo e a Deus.

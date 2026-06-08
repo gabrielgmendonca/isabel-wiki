@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Filemom** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/epistola-a-filemom]].
+Análise temática e leitura de Kardec em [[wiki/obras/epistola-a-filemom]].
 
 ## Capítulos
 

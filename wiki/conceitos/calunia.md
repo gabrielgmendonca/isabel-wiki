@@ -22,7 +22,7 @@ Kardec não dedica capítulo próprio à calúnia, mas a doutrina cobre o tema e
 
 **Como infração à norma sobre a língua.** Kardec cita Tg 3 — "a língua é um pequeno membro [...] poderoso instrumento de bem ou de mal" — e remete o leitor à severidade do tema entre os primeiros cristãos. A calúnia é, no idioma de Tiago, manifestação grave do mal uso da palavra.
 
-**No paralelo bíblico**, At 5:1-11 (Ananias e Safira) e a história das pythonissas e exorcistas (At 16; 19) mostram como a falsidade pública é tratada com seriedade pelos apóstolos, ainda que sem o quadro doutrinário kardequiano da reparação. O caso de Ananias e Safira gera divergência aberta na wiki — ver [[wiki/divergencias/morte-de-ananias-e-safira]] (a morte fulminante por mentira é incompatível com a progressividade das penas em C&I 1ª parte).
+**No paralelo bíblico**, At 5:1-11 (Ananias e Safira) e a história das pythonissas e exorcistas (At 16; 19) mostram como a falsidade pública é tratada com seriedade pelos apóstolos, ainda que sem o quadro doutrinário de Kardec da reparação. O caso de Ananias e Safira gera divergência aberta na wiki — ver [[wiki/divergencias/morte-de-ananias-e-safira]] (a morte fulminante por mentira é incompatível com a progressividade das penas em C&I 1ª parte).
 
 A consequência espiritual da calúnia, na chave do Pentateuco, segue a Lei de Causa e Efeito: o caluniador atrai a si o sofrimento moral correspondente — "carregaremos todos o nosso fardo" — e cria, para si, a obrigação de reparar (C&I, 1ª parte, cap. VII, item 16). Ver [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] e [[wiki/conceitos/expiacao-e-reparacao]].
 

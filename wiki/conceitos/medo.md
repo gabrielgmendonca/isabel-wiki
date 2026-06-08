@@ -22,7 +22,7 @@ A repugnância à morte que muitos experimentam é, segundo a Doutrina, **propor
 
 ### Confiança em Deus como antídoto natural do medo
 
-A **confiança em Deus** estrutural ao programa kardequiano é apresentada como antídoto direto do medo:
+A **confiança em Deus** estrutural ao programa de Kardec é apresentada como antídoto direto do medo:
 
 > "A confiança em Deus dá ao homem a força necessária para suportar as vicissitudes da vida, seja qual for a sua origem, com a paciência e a resignação que conduzem para a verdadeira fortaleza." (cf. ESE cap. XXV, item 7 e [[wiki/conceitos/confianca-em-deus]])
 
@@ -65,7 +65,7 @@ Joanna de Ângelis opera, em vários volumes, a articulação **medo ↔ culpa �
 - [[wiki/conceitos/culpa]] — matriz comum dos medos compulsivos
 - [[wiki/conceitos/obsessao]] — quando o medo é induzido por desencarnado
 - [[wiki/conceitos/morte]] — medo arquetípico tratado em ESE cap. II e Conflitos cap. 20
-- [[wiki/conceitos/confianca-em-deus]] — antídoto kardequiano clássico
+- [[wiki/conceitos/confianca-em-deus]] — antídoto de Kardec clássico
 - [[wiki/conceitos/armadura-de-deus]] — proteção contra os perseguidores invisíveis
 - [[wiki/conceitos/autoconhecimento]] — programa de LE q. 919
 

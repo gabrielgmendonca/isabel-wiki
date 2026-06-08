@@ -22,7 +22,7 @@ Kardec não cunha o termo "ideoplastia" — termo posterior, do espiritualismo d
 
 > "O pensamento [...] cria imagens fluídicas e se reflete no envoltório perispiritual como num espelho; nele toma corpo e ali, de algum modo, se fotografa." (OPE, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento")
 
-A doutrina kardequiana da **fotografia do pensamento** já contém o princípio: pensar é plasmar, e o plasmado tem realidade fluídica. Videntes e médiuns leem as imagens fluídicas como o aparelho fotográfico revela a chapa.
+A doutrina de Kardec da **fotografia do pensamento** já contém o princípio: pensar é plasmar, e o plasmado tem realidade fluídica. Videntes e médiuns leem as imagens fluídicas como o aparelho fotográfico revela a chapa.
 
 ### Aparições e tangibilizações (LM)
 

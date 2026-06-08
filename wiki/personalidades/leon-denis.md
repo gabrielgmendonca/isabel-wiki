@@ -20,7 +20,7 @@ status: ativo
 
 Considerado um dos maiores continuadores da obra de Allan Kardec. Autodidata de origem humilde, Denis dedicou toda a vida à difusão e ao aprofundamento da Doutrina Espírita, tanto na teoria quanto na prática. Participou ativamente dos congressos espíritas internacionais, destacando-se no Congresso de Liège (1905).
 
-Suas obras aprofundam os princípios do Pentateuco kardeciano — especialmente a reencarnação, a imortalidade da alma e a lei de causa e efeito — trazendo argumentação filosófica, referências científicas de sua época e evidências experimentais (fenômenos telepáticos, regressões de memória, crianças-prodígio).
+Suas obras aprofundam os princípios do Pentateuco de Kardec — especialmente a reencarnação, a imortalidade da alma e a lei de causa e efeito — trazendo argumentação filosófica, referências científicas de sua época e evidências experimentais (fenômenos telepáticos, regressões de memória, crianças-prodígio).
 
 Ficou cego nos últimos anos de vida, mas continuou a trabalhar e a escrever com o auxílio de secretários.
 

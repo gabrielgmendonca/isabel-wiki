@@ -58,7 +58,7 @@ A doutrina dos agêneres tem três usos:
 
 ## Posição na codificação posterior
 
-A categoria não recebe tratamento exaustivo no Pentateuco — *O Livro dos Médiuns* (1861) preferirá tratar dos efeitos físicos e dos médiuns produtores; *A Gênese* (1868) tratará da formação de fluidos corporais por Espíritos no contexto dos milagres bíblicos. Os agêneres permanecem, portanto, como **conceito complementar de nível 2**, oriundo da *Revista*, citado por estudiosos kardequianos para explicar fenômenos limítrofes (aparições corpóreas duradouras de pessoas falecidas).
+A categoria não recebe tratamento exaustivo no Pentateuco — *O Livro dos Médiuns* (1861) preferirá tratar dos efeitos físicos e dos médiuns produtores; *A Gênese* (1868) tratará da formação de fluidos corporais por Espíritos no contexto dos milagres bíblicos. Os agêneres permanecem, portanto, como **conceito complementar de nível 2**, oriundo da *Revista*, citado por estudiosos de Kardec para explicar fenômenos limítrofes (aparições corpóreas duradouras de pessoas falecidas).
 
 ## Divergências
 

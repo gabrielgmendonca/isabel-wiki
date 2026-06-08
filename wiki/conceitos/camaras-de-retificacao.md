@@ -20,7 +20,7 @@ Kardec não descreve câmaras específicas, mas a base doutrinária é dada:
 - **Perispírito como veículo registrador** (LE, q. 257) e fluidos como suporte das paixões (Gênese, cap. XIV, item 7): o corpo fluídico guarda os efeitos das paixões. A "retificação" é, justamente, reordenação fluídica do perispírito.
 - **Sofredores antes do Umbral: erraticidade dolorosa** (LE, q. 237–257): espíritos que se separam do corpo "ainda não estão preparados para a vida espiritual" e padecem durante o tempo necessário ao despertar. As Câmaras são local de tratamento dessa fase quando a duração e a gravidade ultrapassam o que o Auxílio comporta.
 
-A inovação narrativa de André Luiz é apresentar o **dispositivo institucional** que mobiliza esse cuidado: enfermarias, passes de fortalecimento, expulsão de fluidos venenosos pela boca, regime de longas estadias, cooperação animal (cães, muares, íbis viajores). Tudo se aplica sobre a doutrina kardequiana das penas reparadoras como processo, não como suplício eterno.
+A inovação narrativa de André Luiz é apresentar o **dispositivo institucional** que mobiliza esse cuidado: enfermarias, passes de fortalecimento, expulsão de fluidos venenosos pela boca, regime de longas estadias, cooperação animal (cães, muares, íbis viajores). Tudo se aplica sobre a doutrina de Kardec das penas reparadoras como processo, não como suplício eterno.
 
 ## Desdobramentos
 

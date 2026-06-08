@@ -12,7 +12,7 @@ status: rascunho
 
 Metáfora introduzida por André Luiz em *Os Mensageiros* (1944) para a função do médium-missionário: o cooperador encarnado **não é canal passivo** ("postalista") de mensagens, mas **carta endereçada à Humanidade**, cujo conteúdo é a própria vida moral. A imagem desloca o foco da fenomenologia mediúnica (vidência, audição, psicografia) para a **moralidade do médium**: o que ele transmite é, antes de qualquer mensagem psicografada, o exemplo encarnado.
 
-A expressão é estranha à terminologia kardequiana — Kardec não usa "cartas vivas". É **extensão narrativa coerente**, na chave de [[wiki/conceitos/colonia-espiritual]]: dá nome dramático ao que o codificador fixa em prosa doutrinária.
+A expressão é estranha à terminologia de Kardec — Kardec não usa "cartas vivas". É **extensão narrativa coerente**, na chave de [[wiki/conceitos/colonia-espiritual]]: dá nome dramático ao que o codificador fixa em prosa doutrinária.
 
 ## Origem bíblica
 
@@ -33,7 +33,7 @@ Kardec não usa a expressão, mas o conteúdo doutrinário é o mesmo eixo:
 - **O médium imperfeito é instrumento imperfeito** — Kardec dedica o cap. XXVIII de LM aos "médiuns imperfeitos" (interesseiros, leves, mistificadores), com a tese de que sua influência sobre as comunicações é direta. O parágrafo 226 sustenta: "Aquele Espírito de Verdade, em vão revestido de poderes, ainda em vão se valeria de tal médium" — a falta moral compromete a mensagem.
 - **Não conhecer pelos efeitos espetaculares** — ESE cap. XXIV, item 18: "É pelos seus frutos que se conhece a árvore." A pergunta certa não é "esse médium psicografa bem?", é "que tipo de pessoa ele é, no dia a dia?"
 
-A formulação kardequiana converge: o médium é, antes de qualquer fenômeno, **um homem de bem em formação** — ou um falido moral disfarçado em fenomenologia. André Luiz dá à mesma tese a forma de imagem.
+A formulação de Kardec converge: o médium é, antes de qualquer fenômeno, **um homem de bem em formação** — ou um falido moral disfarçado em fenomenologia. André Luiz dá à mesma tese a forma de imagem.
 
 ## No Centro de Mensageiros
 

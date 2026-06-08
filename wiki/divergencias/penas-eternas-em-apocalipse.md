@@ -38,7 +38,7 @@ Kardec dedica os capítulos VI, VII e VIII da 1ª parte de [[wiki/obras/ceu-e-in
 
 5. **Incompatibilidade com a universalidade do progresso.** *"Nenhuma falta é irremissível. As de maior gravidade podem-no [ser remitidas] mediante expiações mais dolorosas e mais prolongadas, porém a misericórdia divina é infinita"* (LE q. 1009). A descrição da escala dos Espíritos (LE q. 100–113) não conhece **categoria fixa** de "irremediáveis": todos os Espíritos progridem, ainda que com velocidades diferentes (q. 1015–1019).
 
-A síntese kardequiana das características das penas futuras (C&I, 1ª parte, cap. VII):
+A síntese de Kardec das características das penas futuras (C&I, 1ª parte, cap. VII):
 
 | Atributo | Penas conforme o Espiritismo |
 |---|---|
@@ -84,11 +84,11 @@ Três fatores históricos contribuem para a intensidade da linguagem das penas n
 
 2. **Convenção do gênero apocalíptico judaico.** O gênero literário emprega imagens **hiperbólicas** de juízo (cf. *1 Enoque* 10:6; 18:11–16; 90:24–27, com vocabulário paralelo: "abismo de fogo", "vale de fogo eterno"). A audiência judaico-cristã do I século sabia decifrar a hipérbole como linguagem de **denúncia** moral, não cronograma cosmológico.
 
-3. **Limites da revelação no I século.** A doutrina detalhada das penas medicinais e do progresso indefinido só seria sistematizada quase dois milênios depois, na Codificação kardequiana. O Apocalipse usa o vocabulário disponível ("fogo", "enxofre", "tormento", "para todo o sempre") porque era o **imaginário escatológico** acessível à audiência, não porque descreve com precisão técnica o estado pós-morte. A revelação progressiva do Consolador (Jo 14:16; 16:13) traz, no XIX, o vocabulário mais preciso — Codificação kardequiana (LE q. 1009; C&I, 1ª parte, cap. VII; LM, 2ª parte, cap. XXIV).
+3. **Limites da revelação no I século.** A doutrina detalhada das penas medicinais e do progresso indefinido só seria sistematizada quase dois milênios depois, na Codificação de Kardec. O Apocalipse usa o vocabulário disponível ("fogo", "enxofre", "tormento", "para todo o sempre") porque era o **imaginário escatológico** acessível à audiência, não porque descreve com precisão técnica o estado pós-morte. A revelação progressiva do Consolador (Jo 14:16; 16:13) traz, no XIX, o vocabulário mais preciso — Codificação de Kardec (LE q. 1009; C&I, 1ª parte, cap. VII; LM, 2ª parte, cap. XXIV).
 
 ## Status
 
-**Aberta.** A divergência é estrutural e permanece aberta enquanto houver leituras literalistas em circulação. Doutrinariamente, a posição kardequiana é firme: as penas são temporárias, proporcionais, medicinais e interrompíveis pelo arrependimento. As imagens apocalípticas do "lago de fogo" e da "segunda morte" são alegorias do **sofrimento moral autoinfligido** pelos Espíritos que persistem no mal, **não condenação eterna**.
+**Aberta.** A divergência é estrutural e permanece aberta enquanto houver leituras literalistas em circulação. Doutrinariamente, a posição de Kardec é firme: as penas são temporárias, proporcionais, medicinais e interrompíveis pelo arrependimento. As imagens apocalípticas do "lago de fogo" e da "segunda morte" são alegorias do **sofrimento moral autoinfligido** pelos Espíritos que persistem no mal, **não condenação eterna**.
 
 A divergência companheira em cap. 12 e 20 sobre o **diabo nomeado como entidade ontológica** é tratada em [[wiki/divergencias/diabo-ontologico-em-apocalipse]].
 

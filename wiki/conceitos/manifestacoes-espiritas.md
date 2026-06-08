@@ -71,7 +71,7 @@ Os três são casos do mesmo princípio mecânico: o Espírito modula a matéria
 - [[wiki/conceitos/fluidos]] · [[wiki/conceitos/perispirito]] — agentes das manifestações
 - [[wiki/conceitos/evocacao]] — chamada que provoca manifestações inteligentes
 - [[wiki/obras/livro-dos-mediuns]] — caps. I–IX (físicas), X–XIII (inteligentes)
-- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — síntese kardequiana em 42 itens: caráter natural × maravilhoso, hierarquia físicos × inteligentes
+- [[wiki/obras/resumo-da-lei-dos-fenomenos-espiritas]] — síntese de Kardec em 42 itens: caráter natural × maravilhoso, hierarquia físicos × inteligentes
 
 ## Fontes
 

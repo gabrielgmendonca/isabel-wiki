@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Atos** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/atos-dos-apostolos]].
+Análise temática e leitura de Kardec em [[wiki/obras/atos-dos-apostolos]].
 
 ## Capítulos
 

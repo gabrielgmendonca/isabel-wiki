@@ -121,7 +121,7 @@ def write_book_index(
         "",
         f"Texto integral de **{book_name}** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.",
         "",
-        f"Análise temática e leitura kardequiana em [[wiki/obras/{obra_slug}]].",
+        f"Análise temática e leitura de Kardec em [[wiki/obras/{obra_slug}]].",
         "",
         "## Capítulos",
         "",

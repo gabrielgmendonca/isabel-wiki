@@ -36,7 +36,7 @@ Antes de tratar da Terra em particular, Kardec estabelece a substância de que t
 
 > "Há um fluido etéreo que enche o espaço e penetra os corpos. Esse fluido é o éter ou matéria cósmica primitiva, geradora do mundo e dos seres. São-lhe inerentes as forças que presidiram às metamorfoses da matéria, as leis imutáveis e necessárias que regem o mundo." (Gênese, cap. VI, item 10)
 
-Esse fluido é o ponto de partida físico da criação: dele derivam as forças (gravidade, coesão, afinidade, magnetismo, eletricidade) e os estados da matéria (sólido, líquido, gasoso, etéreo). É também o substrato do **princípio vital** (Gênese, cap. X, item 17) e do **perispírito** (Gênese, cap. XIV, item 7). A criação do planeta Terra é, em última análise, uma sequência particular de transformações dessa substância única — por isso a cosmogonia kardeciana parte da uranografia geral antes de descer ao globo terrestre.
+Esse fluido é o ponto de partida físico da criação: dele derivam as forças (gravidade, coesão, afinidade, magnetismo, eletricidade) e os estados da matéria (sólido, líquido, gasoso, etéreo). É também o substrato do **princípio vital** (Gênese, cap. X, item 17) e do **perispírito** (Gênese, cap. XIV, item 7). A criação do planeta Terra é, em última análise, uma sequência particular de transformações dessa substância única — por isso a cosmogonia de Kardec parte da uranografia geral antes de descer ao globo terrestre.
 
 Décadas depois, André Luiz retoma o conceito em *Evolução em Dois Mundos* (1958) com vocabulário deliberadamente inclusivo de outras escolas:
 
@@ -90,7 +90,7 @@ Kardec recusa a ideia de que o globo seja "um ser animado, servindo de corpo a u
 
 > "Por alma da Terra pode entender-se, mais racionalmente, a coletividade dos Espíritos incumbidos da elaboração e da direção de seus elementos constitutivos, o que já supõe certo grau de desenvolvimento intelectual; ou, melhor ainda: o Espírito a quem está confiada a alta direção dos destinos morais e do progresso de seus habitantes, missão que somente pode ser atribuída a um ser eminentemente superior em saber e em sabedoria." (Gênese, cap. VIII, item 7)
 
-Esse é o ponto de articulação com o aprofundamento mediúnico oferecido por Emmanuel — explicitar **quem** preenche tais funções, sem contradizer o desenho geral kardeciano.
+Esse é o ponto de articulação com o aprofundamento mediúnico oferecido por Emmanuel — explicitar **quem** preenche tais funções, sem contradizer o desenho geral de Kardec.
 
 ### 5. A gênese orgânica: princípio vital e geração espontânea
 
@@ -104,7 +104,7 @@ A escala dos seres orgânicos sobe progressivamente: "Apenas pelos séculos de s
 
 ### 6. Aprofundamento de Emmanuel: Jesus e a Comunidade dos Espíritos Puros
 
-*A Caminho da Luz* (Emmanuel/Chico Xavier, FEB, 1939) — ver [[wiki/obras/a-caminho-da-luz]] — retoma a cosmogonia kardeciana e nomeia explicitamente os agentes espirituais da formação do planeta. Os caps. 1 e 2 desenvolvem o que Kardec deixou em aberto na "alma da Terra".
+*A Caminho da Luz* (Emmanuel/Chico Xavier, FEB, 1939) — ver [[wiki/obras/a-caminho-da-luz]] — retoma a cosmogonia de Kardec e nomeia explicitamente os agentes espirituais da formação do planeta. Os caps. 1 e 2 desenvolvem o que Kardec deixou em aberto na "alma da Terra".
 
 **Comunidade de Espíritos Puros e Eleitos.** Existe "uma Comunidade de Espíritos Puros e Eleitos pelo Senhor Supremo do Universo, em cujas mãos se conservam as rédeas diretoras da vida de todas as coletividades planetárias" (Emmanuel/Chico Xavier, *A Caminho da Luz*, cap. 1). Jesus é apresentado como um dos membros dessa comunidade. Em duas ocasiões ela se reuniu nas proximidades da Terra: quando o orbe se desprendia da nebulosa solar e quando se decidiu a vinda do Cristo à Palestina.
 
@@ -140,7 +140,7 @@ A criação do planeta Terra é, assim, o primeiro capítulo de uma narrativa qu
 - **Os "seis dias" da Gênese mosaica** — Gênese, cap. XII (Gênese moisaica). Leitura espírita da narrativa de Moisés como alegoria progressiva, compatível com os períodos geológicos.
 - **Origem do homem corpóreo** — Gênese, cap. X, "O homem corpóreo"; cap. XI, "União do princípio espiritual à matéria". Para o vínculo entre formação biológica e encarnação dos Espíritos, ver [[wiki/conceitos/raca-adamica]] e [[wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos]].
 - **A Capela e o exílio** — *A Caminho da Luz*, cap. 3. Tema separado da formação do planeta em si, mas que dá continuidade narrativa à cosmogonia.
-- **O fluido cósmico em André Luiz** — *Evolução em Dois Mundos*, parte I, cap. 1. Reformulação posterior do conceito kardeciano com vocabulário inclusivo de tradições religiosas (Devas, Arcanjos) e equivalência matéria↔energia↔força divina. Útil para aproximar o público heterodoxo do esquema cosmogônico.
+- **O fluido cósmico em André Luiz** — *Evolução em Dois Mundos*, parte I, cap. 1. Reformulação posterior do conceito de Kardec com vocabulário inclusivo de tradições religiosas (Devas, Arcanjos) e equivalência matéria↔energia↔força divina. Útil para aproximar o público heterodoxo do esquema cosmogônico.
 
 ---
 

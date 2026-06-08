@@ -123,14 +123,14 @@ A mediunidade de cura recebeu desenvolvimentos extensos em autores pós-Kardec:
 
 ## Aplicação prática
 
-- **Em casa espírita:** o passe é a forma institucionalizada da mediunidade de cura na prática espírita brasileira. O critério kardequiano (desinteresse + humildade + controle pela razão) permanece eixo.
+- **Em casa espírita:** o passe é a forma institucionalizada da mediunidade de cura na prática espírita brasileira. O critério de Kardec (desinteresse + humildade + controle pela razão) permanece eixo.
 - **Em estudo doutrinário:** o caso Désirée Godu/Morhéry é material excelente para discutir a aliança Espiritismo + medicina convencional como controle.
 - **Em diálogo com a medicina convencional:** o modelo Morhéry — médico que ficha clinicamente as curas mediúnicas — é defensável como metodologia de pesquisa empírica.
 - **Em prática pessoal:** a oração pelos doentes, mesmo sem faculdade mediúnica desenvolvida, é forma elementar de participação no fluxo curador (LM cap. XIV; cf. [[wiki/conceitos/prece]]).
 
 ## Divergências
 
-Nenhuma com o Pentateuco. Conceito kardequiano consolidado em LM cap. XIV; sem tensão com complementares.
+Nenhuma com o Pentateuco. Conceito de Kardec consolidado em LM cap. XIV; sem tensão com complementares.
 
 ## Páginas relacionadas
 

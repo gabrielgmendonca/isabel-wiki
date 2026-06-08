@@ -52,7 +52,7 @@ Em palestras consolatórias e de fim de ciclo doutrinário, lembrar que o destin
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — onde a Terra ainda está
 - [[wiki/conceitos/mundos-primitivos]] — o ponto de partida da escala
 - [[wiki/conceitos/escala-espirita]] — Espíritos puros como 1ª ordem (LE q. 113)
-- [[wiki/conceitos/ceu]] — o "céu" doutrinário em chave kardequiana
+- [[wiki/conceitos/ceu]] — o "céu" doutrinário à luz de Kardec
 - [[wiki/conceitos/progresso-espiritual]] — a lei que conduz aos mundos superiores
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. III
 

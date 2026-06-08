@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Marcos** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/evangelho-segundo-marcos]].
+Análise temática e leitura de Kardec em [[wiki/obras/evangelho-segundo-marcos]].
 
 ## Capítulos
 

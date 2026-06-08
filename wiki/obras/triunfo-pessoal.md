@@ -138,7 +138,7 @@ O conceito de **[[wiki/conceitos/numinoso|numinoso]]** (Rudolf Otto, *A ideia do
 Nenhuma divergência estrutural com Kardec identificada. O vocabulário junguiano (Self, individuação, numinoso, arquétipos) opera como ferramenta integrada à tripartição Espírito-perispírito-matéria, em linha com o tratamento já aprovado em [[wiki/obras/o-despertar-do-espirito]], [[wiki/obras/jesus-e-o-evangelho-a-luz-da-psicologia-profunda]] e [[wiki/obras/autodescobrimento]]. Joanna **explicita** várias vezes a complementaridade Jung↔Espiritismo: *"A proposta espírita para a equação do pressuposto dos arquétipos, a nosso ver, satisfaz plenamente o entendimento daqueles denominados primordiais, preenchendo a lacuna da incerteza no arquipélago das conclusões do eminente sábio da psique."*
 
 > [!note] Observação textual — morte de Pilatos
-> No cap. 6, Joanna afirma que Pôncio Pilatos *"se suicidou, atirando-se na cratera de um vulcão extinto, na Suíça"*. Trata-se da **lenda medieval do Monte Pilatus**, sem registro histórico ou kardequiano. Não é divergência doutrinária — é referência narrativa que faz parte do estilo retórico do médium/autora ao mobilizar casos clínicos icônicos. Pilatos é tratado em mais detalhe em [[wiki/personalidades/poncio-pilatos]].
+> No cap. 6, Joanna afirma que Pôncio Pilatos *"se suicidou, atirando-se na cratera de um vulcão extinto, na Suíça"*. Trata-se da **lenda medieval do Monte Pilatus**, sem registro histórico ou na obra de Kardec. Não é divergência doutrinária — é referência narrativa que faz parte do estilo retórico do médium/autora ao mobilizar casos clínicos icônicos. Pilatos é tratado em mais detalhe em [[wiki/personalidades/poncio-pilatos]].
 
 ## Fontes
 

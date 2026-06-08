@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Apocalipse** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/apocalipse]].
+Análise temática e leitura de Kardec em [[wiki/obras/apocalipse]].
 
 ## Capítulos
 

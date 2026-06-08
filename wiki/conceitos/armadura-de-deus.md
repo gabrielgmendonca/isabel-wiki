@@ -26,7 +26,7 @@ A passagem não é citada literalmente por Kardec, mas sua **estrutura conceitua
 
 > "Para vencermos nossas más inclinações, que auxílio podemos esperar? — O homem pode vencê-las sempre que o queira, pois tem o livre-arbítrio. Que dizeis a isso? Dizemos que basta a vontade. Ah! quão poucos dentre vós fazem esforços!" (LE q. 909)
 
-A "armadura" paulina é, em chave kardequiana, o **conjunto disciplinado das virtudes que o esforço moral cultiva** — não rito, não amuleto, não fórmula. Verdade, justiça, paz evangélica, fé raciocinada, esperança da salvação (= progresso) e palavra do Espírito são todas **virtudes morais cultiváveis pela vontade**.
+A "armadura" paulina é, à luz de Kardec, o **conjunto disciplinado das virtudes que o esforço moral cultiva** — não rito, não amuleto, não fórmula. Verdade, justiça, paz evangélica, fé raciocinada, esperança da salvação (= progresso) e palavra do Espírito são todas **virtudes morais cultiváveis pela vontade**.
 
 ### 2. A luta é contra Espíritos imperfeitos, não contra principados absolutos
 
@@ -38,7 +38,7 @@ A leitura literalista monta uma **demonologia** com hierarquia paralela à divin
 
 > "Os Espíritos não constituem [...] uma categoria à parte na criação. São as almas dos que viveram nos mundos materiais, despojadas de seu envoltório corporal." (C&I 1ª parte cap. IX, item 5)
 
-Os "principados, potestades, hostes espirituais da maldade" são, em chave kardequiana, **Espíritos imperfeitos hierarquizados na escala espírita** (LE q. 100–113) — terceira ordem (Espíritos impuros, levianos, pseudo-sábios, neutros, batedores e perturbadores). Imperfeitos, sim; condenados eternamente, não — todos podem progredir.
+Os "principados, potestades, hostes espirituais da maldade" são, à luz de Kardec, **Espíritos imperfeitos hierarquizados na escala espírita** (LE q. 100–113) — terceira ordem (Espíritos impuros, levianos, pseudo-sábios, neutros, batedores e perturbadores). Imperfeitos, sim; condenados eternamente, não — todos podem progredir.
 
 Ver [[wiki/conceitos/escala-espirita]] e [[wiki/conceitos/demonios]].
 
@@ -46,13 +46,13 @@ Ver [[wiki/conceitos/escala-espirita]] e [[wiki/conceitos/demonios]].
 
 > "A mediunidade permite se veja o inimigo face a face, ataque-o em campo aberto, e combatê-lo com suas próprias armas." (LM 2ª parte cap. XXIII, item 244)
 
-O "combate" kardequiano não é exorcismo ritual — é **elevação moral do obsidiado e doutrinação fraterna do obsessor**. Os "dardos inflamados do maligno" (Ef 6:16) são, em chave espírita, as **sugestões fluídicas dos Espíritos inferiores** que se aproveitam de pontos de menor vigilância (raiva sustentada, orgulho ferido, sensualidade desregrada) para perturbar o encarnado. O escudo da fé é a sintonia moral elevada que **dispersa essas sugestões antes que penetrem**.
+O "combate" de Kardec não é exorcismo ritual — é **elevação moral do obsidiado e doutrinação fraterna do obsessor**. Os "dardos inflamados do maligno" (Ef 6:16) são, em chave espírita, as **sugestões fluídicas dos Espíritos inferiores** que se aproveitam de pontos de menor vigilância (raiva sustentada, orgulho ferido, sensualidade desregrada) para perturbar o encarnado. O escudo da fé é a sintonia moral elevada que **dispersa essas sugestões antes que penetrem**.
 
 ## Desdobramentos
 
 ### As seis peças, lidas em chave espírita
 
-| Peça paulina | Tradução kardequiana | Fonte |
+| Peça paulina | Tradução de Kardec | Fonte |
 |---|---|---|
 | **Cíngulo da verdade** (6:14a) | Sinceridade interior; coerência entre pensamento, palavra e ato | LE q. 875 (justiça); ESE cap. XVII (homem de bem) |
 | **Couraça da justiça** (6:14b) | Prática ativa do dever moral; "respeitar os direitos dos demais" | LE q. 875 (justiça); ESE cap. XV |
@@ -75,11 +75,11 @@ A imagem da armadura é **referência clássica** em estudos espíritas sobre pr
 
 1. **Auto-exame.** Cada peça funciona como tópico de exame de consciência: estou sendo verdadeiro? Pratico a justiça? Mantenho a paz evangélica? Cultivo fé raciocinada? Tenho esperança certa? Aplico a palavra (= conhecimento doutrinário)?
 2. **Roteiro de palestra.** Estudo sequencial das seis peças + prece e vigilância dá material para palestra de 30–40 minutos, com paralelos ao ESE cap. XVII e a LM 2ª parte cap. XXIII.
-3. **Prevenção de obsessão.** Reuniões mediúnicas que abrem com leitura de Ef 6:10–18 articulam a postura interior dos médiuns à doutrina kardequiana da elevação moral como armadura natural (LM 2ª parte cap. XXIII, item 244).
+3. **Prevenção de obsessão.** Reuniões mediúnicas que abrem com leitura de Ef 6:10–18 articulam a postura interior dos médiuns à doutrina de Kardec da elevação moral como armadura natural (LM 2ª parte cap. XXIII, item 244).
 
 ## Divergências
 
-A imagem em si não diverge — ela traduz em vocabulário militar a disciplina moral kardequiana. A divergência é com a **leitura literalista** que monta demonologia hierárquica autônoma:
+A imagem em si não diverge — ela traduz em vocabulário militar a disciplina moral de Kardec. A divergência é com a **leitura literalista** que monta demonologia hierárquica autônoma:
 
 - Ler "principados, potestades, príncipes das trevas, hostes espirituais da maldade" (Ef 6:12) como hierarquia paralela do mal, presidida por Satanás-pessoal, é incompatível com C&I 1ª parte caps. IX–X (demônios = Espíritos imperfeitos progressivos) e com LE q. 100–113 (escala espírita). Ver [[wiki/conceitos/demonios]].
 - Ler a armadura como **rito ou amuleto** (recitar Ef 6 como fórmula protetora) contradiz LM 2ª parte cap. XXIII, item 244 — a única "arma" eficaz é o esforço moral; rito sem reforma íntima não protege ninguém.

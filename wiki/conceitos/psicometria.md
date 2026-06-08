@@ -26,7 +26,7 @@ Kardec lista entre as variedades de médiuns os **sensitivos** (sensíveis à pr
 
 > "Cada indivíduo possui um fluido próprio que o envolve como atmosfera. [...] O pensamento cria imagens fluídicas no perispírito, como fotografias, permitindo que videntes e Espíritos leiam pensamentos alheios." (OPE, "Manifestações dos Espíritos — Fotografia e telegrafia do pensamento")
 
-A doutrina kardequiana das atmosferas fluídicas é o substrato: objetos manuseados longamente por uma pessoa **impregnam-se de sua emanação perispiritual**; um sensitivo extrovertido capta a impressão como se lesse uma fotografia. O fenômeno é parte da mesma fenomenologia das simpatias e antipatias instintivas (LE, q. 458).
+A doutrina de Kardec das atmosferas fluídicas é o substrato: objetos manuseados longamente por uma pessoa **impregnam-se de sua emanação perispiritual**; um sensitivo extrovertido capta a impressão como se lesse uma fotografia. O fenômeno é parte da mesma fenomenologia das simpatias e antipatias instintivas (LE, q. 458).
 
 ## Desdobramento em André Luiz (*Mecanismos da Mediunidade*, cap. 20)
 

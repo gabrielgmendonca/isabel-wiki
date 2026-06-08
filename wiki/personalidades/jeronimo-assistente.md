@@ -37,7 +37,7 @@ Três marcas próprias na condução da expedição:
 
 > "Qualquer droga, no campo infinitesimal dos núcleos celulares, se faz sentir pelas propriedades elétricas específicas. Combinar aplicações químicas com as verdadeiras necessidades fisiológicas, constituirá, efetivamente, o escopo da Medicina no porvir." (Jerônimo, cap. 19)
 
-A doutrina articula a posição kardequiana sobre o suicídio (LE q. 944–957; C&I, 2ª parte, cap. V) à eletromagnética celular, sem violar a hierarquia: drogas atravessam a interface perispiritual e perduram além do decesso.
+A doutrina articula a posição de Kardec sobre o suicídio (LE q. 944–957; C&I, 2ª parte, cap. V) à eletromagnética celular, sem violar a hierarquia: drogas atravessam a interface perispiritual e perduram além do decesso.
 
 ### Posição na hierarquia da série
 

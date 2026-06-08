@@ -10,7 +10,7 @@ status: ativo
 
 ## Definição curta
 
-Imagem central dos caps. 21–22 do [[wiki/obras/apocalipse|Apocalipse]] que descreve, em chave alegórica, a **humanidade regenerada** ao fim do processo da [[wiki/conceitos/transicao-planetaria|transição planetária]]. Para a leitura espírita kardequiana, a "nova Jerusalém" **não é cidade física descendo dos céus**, nem sede de um milênio cosmológico literal — é figura compacta da **fase nova** da Terra como [[wiki/conceitos/mundos-regeneradores|mundo de regeneração]], em que a humanidade atinge a comunhão direta com o plano espiritual e supera as condições de provas e expiações.
+Imagem central dos caps. 21–22 do [[wiki/obras/apocalipse|Apocalipse]] que descreve, em chave alegórica, a **humanidade regenerada** ao fim do processo da [[wiki/conceitos/transicao-planetaria|transição planetária]]. Para a leitura espírita de Kardec, a "nova Jerusalém" **não é cidade física descendo dos céus**, nem sede de um milênio cosmológico literal — é figura compacta da **fase nova** da Terra como [[wiki/conceitos/mundos-regeneradores|mundo de regeneração]], em que a humanidade atinge a comunhão direta com o plano espiritual e supera as condições de provas e expiações.
 
 ## "Novo céu e nova terra" como passagem-fonte
 
@@ -40,7 +40,7 @@ Detalhe doutrinariamente decisivo:
 
 > "E nela não vi templo, porque o seu templo é o Senhor Deus Todo-Poderoso, e o Cordeiro." (Ap 21:22)
 
-A ausência de templo na nova Jerusalém é **ruptura programática** com toda forma de mediação cerimonial. Convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] kardequiana (LE q. 649–673): a verdadeira adoração é **interior**, não cerimonial; não exige templos físicos, sacerdotes intermediários ou rituais codificados. Em Ap 21:23, *"a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem iluminado"* — leitura espírita: a fase nova da humanidade dispensa as **luzes derivadas** (instituições religiosas como mediadoras) porque alcança comunhão direta com o plano espiritual.
+A ausência de templo na nova Jerusalém é **ruptura programática** com toda forma de mediação cerimonial. Convergência **direta** com a [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]] de Kardec (LE q. 649–673): a verdadeira adoração é **interior**, não cerimonial; não exige templos físicos, sacerdotes intermediários ou rituais codificados. Em Ap 21:23, *"a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem iluminado"* — leitura espírita: a fase nova da humanidade dispensa as **luzes derivadas** (instituições religiosas como mediadoras) porque alcança comunhão direta com o plano espiritual.
 
 ### Universalidade da regeneração
 
@@ -48,13 +48,13 @@ A passagem dissolve qualquer leitura elitista ou exclusivista:
 
 > "No meio da sua praça, e de um e de outro lado do rio, estava a árvore da vida, que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações." (Ap 22:2)
 
-*"Para a saúde das nações"* (gr. *eis therapeian tōn ethnōn*) é universalização explícita: a regeneração é **para todos os povos**, não para um grupo eleito. Convergência total com a doutrina kardequiana do **progresso indefinido e universal**: nenhum Espírito é definitivamente perdido; a regeneração final alcança a totalidade da humanidade (LE q. 1015–1019; q. 1009; ESE cap. III, item 19 — "este mundo [...] mudar-se-á em planeta de regeneração").
+*"Para a saúde das nações"* (gr. *eis therapeian tōn ethnōn*) é universalização explícita: a regeneração é **para todos os povos**, não para um grupo eleito. Convergência total com a doutrina de Kardec do **progresso indefinido e universal**: nenhum Espírito é definitivamente perdido; a regeneração final alcança a totalidade da humanidade (LE q. 1015–1019; q. 1009; ESE cap. III, item 19 — "este mundo [...] mudar-se-á em planeta de regeneração").
 
 Confirmação adicional em Ap 21:24: *"as nações dos salvos andarão à sua luz; e os reis da terra trarão para ela a sua glória e honra"* — até "os reis da terra" (que apareceram antes como cúmplices de Babilônia) acabam **trazendo glória** à humanidade regenerada. É descrição alegórica do **reencontro universal** ao fim do processo.
 
 ### O critério moral, não arbitrário
 
-A aparente exclusão em 21:27 — *"e não entrará nela coisa alguma que contamine, e cometa abominação e mentira"* — não contradiz a universalidade. Convergência com a leitura kardequiana das "penas e gozos futuros" (C&I 2ª parte): o Espírito **não é excluído por decreto arbitrário** — é a **incompatibilidade vibracional** entre seu estado moral e o estado da comunidade regenerada que o mantém afastado, **enquanto persiste no mal**. Quando se reforma, ingressa por sua própria adesão à moral (cf. LE q. 1009; ESE cap. XV, item 10; [[wiki/conceitos/dores-da-alma]]).
+A aparente exclusão em 21:27 — *"e não entrará nela coisa alguma que contamine, e cometa abominação e mentira"* — não contradiz a universalidade. Convergência com a leitura de Kardec das "penas e gozos futuros" (C&I 2ª parte): o Espírito **não é excluído por decreto arbitrário** — é a **incompatibilidade vibracional** entre seu estado moral e o estado da comunidade regenerada que o mantém afastado, **enquanto persiste no mal**. Quando se reforma, ingressa por sua própria adesão à moral (cf. LE q. 1009; ESE cap. XV, item 10; [[wiki/conceitos/dores-da-alma]]).
 
 A ausência de "noite" (22:5 — *"ali não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os ilumina"*) e do "mar" (21:1 — símbolo do caos primordial em Gn 1:2 e da hostilidade às forças da ordem moral) descreve, na chave espírita, a **consumação da ordem moral** universal, não desaparecimento físico de oceanos e ciclos diurnos.
 
@@ -67,7 +67,7 @@ Emmanuel, em [[wiki/obras/a-caminho-da-luz|*A Caminho da Luz*]] caps. 24–25, r
 - A geração nova (cf. [[wiki/conceitos/geracao-nova]]) protagoniza a edificação da nova era.
 - O Espiritismo é **força moral indispensável** à transição (cap. 24).
 
-A "descida do céu" da nova Jerusalém é, em chave kardequiana-emmanueliana, **a chegada coletiva dos Espíritos mais adiantados** que reencarnam progressivamente para substituir os obstinados no mal.
+A "descida do céu" da nova Jerusalém é, à luz de Kardec-emmanueliana, **a chegada coletiva dos Espíritos mais adiantados** que reencarnam progressivamente para substituir os obstinados no mal.
 
 ## Desdobramentos
 
@@ -87,13 +87,13 @@ A imagem não tem paralelo direto na Codificação, mas converge funcionalmente 
 
 ### "Eis que faço novas todas as coisas" (21:5)
 
-A frase resume o sentido kardequiano da [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]]: a renovação não é restauração de um estado inicial perdido (paradigma Edênico do AT), é **emergência de uma fase superior** que a humanidade alcança pela marcha cumulativa do progresso (LE q. 776–800). O verbo no presente contínuo (*"faço"*, gr. *poiō*) sugere ação contínua, não evento único.
+A frase resume o sentido de Kardec da [[wiki/conceitos/leis-morais/lei-do-progresso|Lei do Progresso]]: a renovação não é restauração de um estado inicial perdido (paradigma Edênico do AT), é **emergência de uma fase superior** que a humanidade alcança pela marcha cumulativa do progresso (LE q. 776–800). O verbo no presente contínuo (*"faço"*, gr. *poiō*) sugere ação contínua, não evento único.
 
 ## Aplicação prática
 
 Em estudos e palestras, a "nova Jerusalém" é instrumento útil para:
 
-1. **Comunicar a tese da transição planetária** ao público de tradição evangélica — o vocabulário bíblico oferece ponte natural para a doutrina kardequiana sem rupturas vocabulares chocantes.
+1. **Comunicar a tese da transição planetária** ao público de tradição evangélica — o vocabulário bíblico oferece ponte natural para a doutrina de Kardec sem rupturas vocabulares chocantes.
 2. **Distinguir a leitura espírita** das leituras milenaristas literais — exposição clara da hermenêutica alegórica é antídoto contra as ansiedades escatológicas que afligem certos estudantes.
 3. **Articular esperança ativa** — a nova Jerusalém **não é fuga** do trabalho moral presente, é **horizonte** que motiva o trabalho. O orante espírita não espera passivamente a descida da cidade — colabora na sua edificação coletiva pela reforma íntima (LE q. 919; ESE cap. XVII).
 

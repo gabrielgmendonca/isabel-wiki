@@ -76,7 +76,7 @@ Kardec considera a bicorporeidade fenômeno **raro mas real**. A bicorporeidade 
 
 ## Divergências
 
-Nenhuma. Conceito kardequiano consolidado em LM cap. VII; sem tensão com Pentateuco nem com complementares.
+Nenhuma. Conceito de Kardec consolidado em LM cap. VII; sem tensão com Pentateuco nem com complementares.
 
 ## Páginas relacionadas
 

@@ -38,7 +38,7 @@ A obra encadeia em arco único o que [[wiki/obras/o-ser-consciente]] (1993) sist
 > "Examinamos, no presente livro, várias psicopatologias e conflitos hodiernos, recorrendo a admiráveis especialistas nessa área […]; no entanto, colocamos uma ponte espiritual entre as suas terapias valiosas e o amor, conforme a visão espírita, herdada do Psicoterapeuta galileu."
 
 > [!note] Sobre o vocabulário e o diálogo com a psicologia
-> A obra retoma referências consolidadas da série — Wilhelm Reich (Bioenergética, criticado no cap. 3 por reduzir a vida ao corpo, omitindo a natureza espiritual), Roberto Assagioli (Psicossíntese — vocabulário de **subpersonalidades** e **superpersonalidades**), Robin Kasarjian (estudos sobre o ressentimento, cap. 61) — e mantém termos do hinduísmo/budismo (*samadhi*, *nirvana*) como ponte conceitual com a Quarta Força em Psicologia, sem deslocar a base estrutural kardequiana (tripé Espírito-perispírito-corpo, reencarnação, lei de causa e efeito).
+> A obra retoma referências consolidadas da série — Wilhelm Reich (Bioenergética, criticado no cap. 3 por reduzir a vida ao corpo, omitindo a natureza espiritual), Roberto Assagioli (Psicossíntese — vocabulário de **subpersonalidades** e **superpersonalidades**), Robin Kasarjian (estudos sobre o ressentimento, cap. 61) — e mantém termos do hinduísmo/budismo (*samadhi*, *nirvana*) como ponte conceitual com a Quarta Força em Psicologia, sem deslocar a base estrutural de Kardec (tripé Espírito-perispírito-corpo, reencarnação, lei de causa e efeito).
 
 ## Estrutura
 

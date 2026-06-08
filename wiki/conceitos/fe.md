@@ -58,7 +58,7 @@ A formulação mais densa da fé no Novo Testamento está no início do cap. 11 
 
 > "Ora, sem fé é impossível agradar-lhe; porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam." (Hb 11:6)
 
-Três convergências com a chave kardequiana:
+Três convergências com a chave de Kardec:
 
 1. **Fé como fundamento**, não suspensão do juízo (11:1) — "a fé é o firme fundamento das coisas que se esperam". Coerente com ESE cap. XIX, item 6: "o homem crê porque tem certeza, e só se tem certeza quando se compreende". A fé espírita não é saída da razão — é plataforma sobre a qual a razão se move em direção às "coisas que se não vêem" (vida espírita, perispírito, progresso póstumo).
 2. **Teísmo moral mínimo** (11:6) — basta crer que Deus **existe** e que é **galardoador dos que o buscam**. O Deus de Hebreus é justo (retribui segundo as obras, cf. LE q. 964) e acessível (quem o busca, o encontra). Formulação compatível com a [[wiki/conceitos/fe-raciocinada|fé raciocinada]] de qualquer pessoa séria em qualquer tradição.

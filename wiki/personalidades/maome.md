@@ -42,7 +42,7 @@ Mas Kardec relativiza imediatamente: *"o desregramento dos costumes era tal na �
 
 **b) Recusa da Trindade lida como politeísmo** — Maomé interpretou a doutrina cristã da Trindade ao pé da letra, vendo nela **três deuses** em vez de três pessoas distintas em um só Deus. Kardec admite o equívoco e atribui-o a *"falsa interpretação"*. *"Se esse mistério é incompreensível para tantos cristãos, e se entre estes provocou tantos comentários e controvérsias, não é de admirar que Maomé não o tenha compreendido"* (RE nov/1866).
 
-**c) Recusa da divindade de Jesus, mas reconhecimento como profeta** — *"Não digais que há uma trindade em Deus. [...] O Messias não corará por ser o servo de Deus, assim como os anjos que rodeiam o seu trono e lhe obedecem"* (Surata IV, v. 169–170). Maomé reconhece Jesus como profeta e como Verbo de Deus, mas não como Deus encarnado. Esta posição **converge com a leitura kardequiana**: ver [[wiki/obras/obras-postumas]] (Kardec recusa a divindade de Cristo, afirma Jesus como Espírito puro da mais alta ordem).
+**c) Recusa da divindade de Jesus, mas reconhecimento como profeta** — *"Não digais que há uma trindade em Deus. [...] O Messias não corará por ser o servo de Deus, assim como os anjos que rodeiam o seu trono e lhe obedecem"* (Surata IV, v. 169–170). Maomé reconhece Jesus como profeta e como Verbo de Deus, mas não como Deus encarnado. Esta posição **converge com a leitura de Kardec**: ver [[wiki/obras/obras-postumas]] (Kardec recusa a divindade de Cristo, afirma Jesus como Espírito puro da mais alta ordem).
 
 **d) Indícios de pluralidade das existências no Alcorão** — Kardec destaca: *"O vocábulo *voltar* implica a ideia de já ter vindo, isto é, de ter vivido antes da existência atual. Maomé a expressa muito bem quando diz: 'Reapareceis diante dele e ele vos mostrará as vossas obras. Voltareis ante o Deus de Verdade.' É o fundo da doutrina da preexistência da alma"* (RE nov/1866). E ainda: *"Que esperança temos de voltar à Terra para nos corrigirmos?"* (Surata VII, v. 50–51) — *"a ideia de reviver na Terra entrou no pensamento de Maomé"*.
 
@@ -72,7 +72,7 @@ Mas Kardec relativiza imediatamente: *"o desregramento dos costumes era tal na �
 
 ## Páginas relacionadas
 
-- [[wiki/personalidades/jesus]] — reconhecido por Maomé como profeta e Verbo de Deus, mas não como Deus encarnado; convergência com a leitura kardequiana de [[wiki/obras/obras-postumas]].
+- [[wiki/personalidades/jesus]] — reconhecido por Maomé como profeta e Verbo de Deus, mas não como Deus encarnado; convergência com a leitura de Kardec de [[wiki/obras/obras-postumas]].
 - [[wiki/personalidades/allan-kardec]] — autor do estudo espírita sobre Maomé.
 - [[wiki/conceitos/reencarnacao]] — indícios no *Alcorão* analisados por Kardec.
 - [[wiki/conceitos/maravilhoso-e-sobrenatural]] — Maomé reconhecido como médium autêntico, não como agente de fenômenos sobrenaturais.

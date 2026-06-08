@@ -48,7 +48,7 @@ Kardec rejeita expressamente a tradução "Não nos induzas à tentação" (*et 
 
 O Pai-Nosso é a prece de uso mais universal nas casas espíritas — abertura e encerramento de trabalhos, reuniões mediúnicas, culto do Evangelho no lar. Orado com atenção ao sentido de cada petição (como Kardec recomenda), torna-se exame de consciência: cada proposição interpela uma área da conduta — fé, submissão, trabalho, perdão, vigilância.
 
-É também **texto-base da [[wiki/conceitos/evangelizacao-infantojuvenil|evangelização infantil]]**. A obra [[wiki/obras/pai-nosso|*Pai Nosso*]] (Meimei/Chico Xavier, 1952) dedica um capítulo a cada petição, em linguagem de criança, reproduzindo fielmente a leitura kardequiana. A coletânea [[wiki/obras/pao-nosso|*Pão Nosso*]] (Emmanuel/Chico Xavier, 1950) toma a 4ª petição como título e organizador de sua meditação cotidiana sobre o trabalho cristão.
+É também **texto-base da [[wiki/conceitos/evangelizacao-infantojuvenil|evangelização infantil]]**. A obra [[wiki/obras/pai-nosso|*Pai Nosso*]] (Meimei/Chico Xavier, 1952) dedica um capítulo a cada petição, em linguagem de criança, reproduzindo fielmente a leitura de Kardec. A coletânea [[wiki/obras/pao-nosso|*Pão Nosso*]] (Emmanuel/Chico Xavier, 1950) toma a 4ª petição como título e organizador de sua meditação cotidiana sobre o trabalho cristão.
 
 ## Divergências
 

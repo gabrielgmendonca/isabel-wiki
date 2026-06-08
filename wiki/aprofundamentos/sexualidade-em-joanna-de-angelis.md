@@ -10,7 +10,7 @@ status: rascunho
 
 ## Contexto doutrinário
 
-A doutrina kardequiana fixa o quadro moral da sexualidade em três núcleos canônicos:
+A doutrina de Kardec fixa o quadro moral da sexualidade em três núcleos canônicos:
 
 - **LE q. 200–202** — os Espíritos não têm sexo; este é atributo do organismo. Reencarnam alternadamente como homens e mulheres ("isso pouco lhe importa") porque "cada sexo lhes proporciona provações e deveres especiais".
 - **LE q. 686–701** — a [[wiki/conceitos/leis-morais/lei-de-reproducao|Lei de Reprodução]] regula o instinto sexual: a reprodução é natural; o casamento é "progresso da humanidade"; a poligamia é "sensualidade", não afeição.
@@ -38,7 +38,7 @@ A tese-síntese do capítulo dedicado é antiascetista e antilibertina, em chave
 
 > "O sexo foi colocado a serviço da vida e não esta à sua servidão. (...) O sexo, portanto, a serviço da vida, é portador de saúde comportamental, que se expande na emoção e no psiquismo." (Joanna de Ângelis / Divaldo, *Encontro com a Paz e a Saúde*, cap. 8)
 
-A regra operativa: o juízo moral incide sobre **uso**, não sobre presença. A energia sexual é "dom da Sabedoria Divina" (cap. 8, recolhendo a tradição de Emmanuel em *Vida e Sexo* cap. 1 e da Lei de Reprodução kardequiana, LE q. 686).
+A regra operativa: o juízo moral incide sobre **uso**, não sobre presença. A energia sexual é "dom da Sabedoria Divina" (cap. 8, recolhendo a tradição de Emmanuel em *Vida e Sexo* cap. 1 e da Lei de Reprodução de Kardec, LE q. 686).
 
 ### 2. Neurobiologia integrada à antropologia espiritual (*Encontro*, cap. 8 — *Polaridades sexuais*)
 
@@ -59,9 +59,9 @@ O cap. 4 ("Comportamentos conflitivos — Machismo / Feminismo / Direitos iguali
 
 > "Sendo o Self na sua estrutura psicológica assexuado, avança na escalada humana em busca da [[wiki/conceitos/individuacao|individuação]], assimilando os méritos transcendentes do animus e da anima, de modo a superar os impositivos biológicos da anatomia fisiológica, resultando em harmonia psicológica e de comportamento emocional." (cap. 4)
 
-A formulação é **rigorosamente kardequiana**: LE q. 200–202 ("os Espíritos não têm sexo no sentido que entendeis") relido com vocabulário junguiano (anima/animus). O Self é estrutura profunda assexuada; anima e animus são conteúdos psicológicos herdados de "milhares de reencarnações" (convergente com Emmanuel, *Vida e Sexo* cap. 14, e com André Luiz, *No Mundo Maior* cap. 11). A individuação é integração das duas polaridades, não privilégio de uma.
+A formulação é **rigorosamente de Kardec**: LE q. 200–202 ("os Espíritos não têm sexo no sentido que entendeis") relido com vocabulário junguiano (anima/animus). O Self é estrutura profunda assexuada; anima e animus são conteúdos psicológicos herdados de "milhares de reencarnações" (convergente com Emmanuel, *Vida e Sexo* cap. 14, e com André Luiz, *No Mundo Maior* cap. 11). A individuação é integração das duas polaridades, não privilégio de uma.
 
-A genealogia crítica do machismo invoca o mito da costela de Adão como construção arquetípica patriarcal — convergente com a hermenêutica alegórica de [[wiki/obras/genese|*A Gênese*]] cap. XI. Datas-marco mobilizadas: tecelãs de Nova Iorque (8/mar/1857), Clara Zetkin (Dia Internacional da Mulher, 1910), candidaturas femininas ao voto na América do Norte (1932), Marcha Mundial das Mulheres (2000). A âncora kardequiana é declarada: LE q. 817 ("são iguais perante Deus o homem e a mulher e têm os mesmos direitos? — *Não outorgou Deus a ambos a inteligência do bem e do mal e a faculdade de progredir?*").
+A genealogia crítica do machismo invoca o mito da costela de Adão como construção arquetípica patriarcal — convergente com a hermenêutica alegórica de [[wiki/obras/genese|*A Gênese*]] cap. XI. Datas-marco mobilizadas: tecelãs de Nova Iorque (8/mar/1857), Clara Zetkin (Dia Internacional da Mulher, 1910), candidaturas femininas ao voto na América do Norte (1932), Marcha Mundial das Mulheres (2000). A âncora de Kardec é declarada: LE q. 817 ("são iguais perante Deus o homem e a mulher e têm os mesmos direitos? — *Não outorgou Deus a ambos a inteligência do bem e do mal e a faculdade de progredir?*").
 
 ### 4. Homossexualidade não-patológica — diálogo explícito com a OMS (*Encontro*, cap. 8)
 
@@ -76,7 +76,7 @@ Quatro proposições articulam a leitura joanniana:
 3. **Anima/animus prevalentes em alternância.** O conteúdo psicológico do sexo anterior persiste no atual quando há mudança morfológica abrupta entre encarnações sucessivas — extensão direta do cap. 4.
 4. **Autodeterminação moral como critério.** "A conduta moral do espírito irá delinear-lhe a existência harmônica ou conflitiva, insatisfeita ou não, pela qual transitará" — a fronteira moral não é a orientação, é o uso responsável da energia sexual.
 
-A formulação **fecha o arco da tradição espírita brasileira** sobre o tema, registrado na divergência [[wiki/divergencias/mudanca-de-sexo-reencarnacao]]: Léon Denis (1908, estigma) → André Luiz/Sexo e Destino (1963, dignidade reencarnatória) → Emmanuel/Vida e Sexo (1970, dignidade pastoral) → **Joanna/Encontro (2007, despatologização explícita com caução clínica)**. Cada autor opera no quadro kardequiano de LE q. 200–202; a formulação joanniana é a mais granular contemporaneamente.
+A formulação **fecha o arco da tradição espírita brasileira** sobre o tema, registrado na divergência [[wiki/divergencias/mudanca-de-sexo-reencarnacao]]: Léon Denis (1908, estigma) → André Luiz/Sexo e Destino (1963, dignidade reencarnatória) → Emmanuel/Vida e Sexo (1970, dignidade pastoral) → **Joanna/Encontro (2007, despatologização explícita com caução clínica)**. Cada autor opera no quadro de Kardec de LE q. 200–202; a formulação joanniana é a mais granular contemporaneamente.
 
 ### 5. Amor × Eros — distinção pastoral central (*Amor, Imbatível Amor*, cap. 2)
 
@@ -116,7 +116,7 @@ A sexolatria é apresentada como **sintoma de [[wiki/conceitos/vazio-existencial
 
 ### 9. Pedagogia das encarnações em gêneros diferentes — leituras contemporâneas
 
-A tese-síntese **Self assexuado integrando anima/animus** (eixo 3) ganha aprofundamento operacional em duas leituras contemporâneas registradas em palestras na web TV [[wiki/personalidades/mansao-do-caminho|Mansão do Caminho]] (~2025). O conjunto sustenta uma **pedagogia da reencarnação em gêneros** como eixo doutrinário próprio — não simples nota lateral à doutrina kardequiana sobre sexo (LE q. 200–202), mas chave operacional para o trabalho pastoral em casa espírita diante de público formado em vocabulário psicanalítico contemporâneo.
+A tese-síntese **Self assexuado integrando anima/animus** (eixo 3) ganha aprofundamento operacional em duas leituras contemporâneas registradas em palestras na web TV [[wiki/personalidades/mansao-do-caminho|Mansão do Caminho]] (~2025). O conjunto sustenta uma **pedagogia da reencarnação em gêneros** como eixo doutrinário próprio — não simples nota lateral à doutrina de Kardec sobre sexo (LE q. 200–202), mas chave operacional para o trabalho pastoral em casa espírita diante de público formado em vocabulário psicanalítico contemporâneo.
 
 #### 9.1 Articulação ego corporal × Self espiritual (Leonardo Machado)
 
@@ -128,7 +128,7 @@ Na chave joanniana, o ego pertence à **materialidade** (perispírito + corpo); 
 
 Reencarnar em contextos biológicos e culturais variados é, portanto, **exercício prático de desidentificação do ego**. Não é privilégio nem castigo — é técnica de individuação operada pela própria mecânica reencarnatória, em paralelo ao que Joanna sistematiza como prática consciente em [[wiki/conceitos/autoconhecimento]] e em [[wiki/aprofundamentos/silencio-interior-o-ser-consciente]].
 
-A ponte com Freud cumpre função didática específica: em palestras com público de cultura psicológica geral, a articulação **ego corporal (Freud) → Self espiritual (Joanna) → reencarnação como pedagogia de desidentificação** oferece percurso direto da clínica contemporânea à doutrina kardequiana, sem mediação esotérica nem teológica. Transcrição: [[raw/palestras/mansao-do-caminho/a-questao-do-genero-em-multiplas-reencarnacoes-leonardo-machado]].
+A ponte com Freud cumpre função didática específica: em palestras com público de cultura psicológica geral, a articulação **ego corporal (Freud) → Self espiritual (Joanna) → reencarnação como pedagogia de desidentificação** oferece percurso direto da clínica contemporânea à doutrina de Kardec, sem mediação esotérica nem teológica. Transcrição: [[raw/palestras/mansao-do-caminho/a-questao-do-genero-em-multiplas-reencarnacoes-leonardo-machado]].
 
 #### 9.2 Pedagogia diferencial masculino × feminino
 
@@ -158,9 +158,9 @@ Convergente com a posição joanniana do eixo 4 (homossexualidade não-patológi
 
 #### 9.4 Troca de gênero como evento gradual — LE q. 202 + q. 155 (Ana Teresa Camazão)
 
-Em resposta a pergunta formulada durante a inauguração de uma escola espírita, Ana Teresa Camazão fixa a base kardequiana e adiciona granularidade clínica essencial.
+Em resposta a pergunta formulada durante a inauguração de uma escola espírita, Ana Teresa Camazão fixa a base de Kardec e adiciona granularidade clínica essencial.
 
-**Base kardequiana — LE q. 202:**
+**Base de Kardec — LE q. 202:**
 
 > "Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de uma mulher? — *Isso pouco lhe importa. O que o guia na escolha são as provas por que haja de passar.* Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens." (LE, q. 202)
 
@@ -172,7 +172,7 @@ A explicação ancora-se em **LE q. 155** sobre a separação gradual da alma e 
 
 > "A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte? — *Não; a alma se desprende gradualmente, não se escapa como um pássaro cativo a que se restitua subitamente a liberdade. Aqueles dois estados se tocam e confundem, de sorte que o Espírito se solta pouco a pouco dos laços que o prendiam. Estes laços se desatam, não se quebram.*" (LE, q. 155)
 
-A persistência do perispírito após a morte, e em especial a observação kardequiana de que *"a afinidade que persiste entre a alma e o corpo é, às vezes, muito penosa, [...] guardando sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria"*, sustenta clinicamente a tese de Camazão: **a memória encarnacional não se apaga de uma vida para outra**. Após cinco encarnações seguidas como mulher, por exemplo, encarnar como homem exige **adaptações profundas** — identificações acumuladas, aprendizados sedimentados, sensações somáticas internalizadas. A transição tem **gradações e exige novas adaptações** que tornam a experiência significativa, nunca trivial.
+A persistência do perispírito após a morte, e em especial a observação de Kardec de que *"a afinidade que persiste entre a alma e o corpo é, às vezes, muito penosa, [...] guardando sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria"*, sustenta clinicamente a tese de Camazão: **a memória encarnacional não se apaga de uma vida para outra**. Após cinco encarnações seguidas como mulher, por exemplo, encarnar como homem exige **adaptações profundas** — identificações acumuladas, aprendizados sedimentados, sensações somáticas internalizadas. A transição tem **gradações e exige novas adaptações** que tornam a experiência significativa, nunca trivial.
 
 A isso soma-se o **fator cultural**: encarnar como mulher no século XVI é radicalmente diferente de fazê-lo no século XX ou além. Cada época impõe comportamentos e modos de vida distintos, representando por si só um processo de adaptação substancial. Convergente com Joanna em *Encontro com a Paz e a Saúde* cap. 4 (datas-marco da história das mulheres: tecelãs de Nova Iorque 1857, Clara Zetkin 1910, candidaturas femininas ao voto 1932, Marcha Mundial 2000).
 
@@ -221,7 +221,7 @@ Os três autores são **complementares, não contraditórios**. Emmanuel oferece
 
 ## Aprofundamento
 
-**Pontos para a casa espírita** (compatíveis com o tom kardequiano e com a regra final de Emmanuel — *"abstende-vos de censura e condenação"*):
+**Pontos para a casa espírita** (compatíveis com o tom de Kardec e com a regra final de Emmanuel — *"abstende-vos de censura e condenação"*):
 
 - A energia sexual é dom da Sabedoria Divina; o juízo moral incide sobre o **uso**, não sobre a presença. A neurobiologia descreve o "como"; a moral espírita responde "para quê".
 - A leitura joanniana sobre **homossexualidade** oferece à casa espírita a referência espírita brasileira mais explícita contra a patologização — com caução da OMS e **sem nenhum caráter cármico-punitivo**, distinção doutrinariamente significativa em relação à tese reparativa de Emmanuel.
@@ -233,7 +233,7 @@ Os três autores são **complementares, não contraditórios**. Emmanuel oferece
 ## Conceitos relacionados
 
 - [[wiki/conceitos/energia-sexual]] — eixo conceitual transversal
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura kardequiana (LE q. 686–701)
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — moldura de Kardec (LE q. 686–701)
 - [[wiki/conceitos/individuacao]] — Self integrando anima/animus
 - [[wiki/conceitos/psicologia-transpessoal]] — eixo da série psicológica de Joanna
 - [[wiki/conceitos/autoconhecimento]] — programa terapêutico ancorado em LE q. 919

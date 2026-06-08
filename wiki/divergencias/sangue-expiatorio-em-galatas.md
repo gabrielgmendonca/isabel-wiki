@@ -44,7 +44,7 @@ A posição é a mesma já desenvolvida nas divergências irmãs ([[wiki/diverge
 
 > "Cada um pode fazer-se feliz, ou desgraçado? — Sim, **cada um é o seu próprio juiz**, faz-se feliz ou desgraçado, conforme o uso que faz da sua liberdade." ([[wiki/obras/livro-dos-espiritos|LE]], q. 636)
 
-A **substituição vicária** — alguém pagar pelos pecados de outro — é categoria **estranha à doutrina kardequiana**. Cristo guia, intercede pedagogicamente, irradia auxílio fluídico, **mas não substitui** o Espírito faltoso na sua própria reabilitação (cf. ESE Introdução; OPE, "Estudo sobre a natureza do Cristo").
+A **substituição vicária** — alguém pagar pelos pecados de outro — é categoria **estranha à doutrina de Kardec**. Cristo guia, intercede pedagogicamente, irradia auxílio fluídico, **mas não substitui** o Espírito faltoso na sua própria reabilitação (cf. ESE Introdução; OPE, "Estudo sobre a natureza do Cristo").
 
 ### 2. Nenhuma falta é irremissível, mas a remissão se dá pelo trabalho próprio
 
@@ -60,7 +60,7 @@ O perdão se opera por **três passos articulados** do próprio Espírito: [[wik
 
 O "sacrifício de Cristo" tem valor **moral e pedagógico** — exemplo do amor levado às últimas consequências —, **não jurídico-substitutivo**. A categoria da "maldição transferida" **pressupõe** uma economia jurídica em que o Pai cobra um preço de sangue para perdoar — categoria antropomórfica que Kardec recusa como projeção das paixões humanas sobre o divino (LE q. 11–13; OPE).
 
-### 4. A "Lei" e a "maldição" relidas em chave kardequiana
+### 4. A "Lei" e a "maldição" relidas à luz de Kardec
 
 Para Kardec, a **Lei** que **maldiz** quem nela falta não é instrumento de Deus para punir antes de Cristo — é descrição da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] enquanto regime moral. A "maldição" sobre o homem que falta à Lei é simplesmente o **efeito moral natural** das suas más ações sobre seu próprio Espírito. **Cristo não desativa** essa lei (que é constitutiva da justiça divina, [[wiki/obras/genese|Gênese]] cap. I, itens 14–16) — ele **mostra a saída** pelo caminho moral concreto, e oferece auxílio fluídico contínuo a quem se alinha à sua moral.
 
@@ -119,7 +119,7 @@ A leitura espírita de Kardec **converge** com essa exegese crítica em recusar 
 
 ### 6. O que se preserva da formulação paulina
 
-A leitura espírita **não descarta** a substância da exortação paulina; **relê** o vocabulário de modo coerente com a antropologia kardequiana:
+A leitura espírita **não descarta** a substância da exortação paulina; **relê** o vocabulário de modo coerente com a antropologia de Kardec:
 
 - **"Cristo nos resgatou da maldição da lei" (3:13a)** → *o Cristo libertou a humanidade do regime cerimonial da Lei mosaica como sistema autossuficiente de justificação, abrindo o caminho da religiosidade interior pela fé que opera pelo amor*.
 - **"Fazendo-se maldição por nós" (3:13b)** → *demonstrou na sua paixão a contradição radical do sistema da Lei (a Lei matou o Justo como "maldito" segundo o seu próprio código), e ao fazê-lo desautorizou a Lei como sistema fechado de justificação — o que se "transfere" não é uma quantidade jurídica de culpa, mas a desativação demonstrativa de um regime religioso falido*.
@@ -159,7 +159,7 @@ A tarefa espírita é dupla: (a) preservar a centralidade do Cristo como guia, m
 - [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/expiacao-e-reparacao]]
 - [[wiki/conceitos/caridade]]
-- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — síntese da sequência kardequiana
+- [[wiki/questoes/arrependimento-expiacao-e-reparacao]] — síntese da sequência de Kardec
 - [[wiki/divergencias/sangue-expiatorio-em-1-joao]]
 - [[wiki/divergencias/sangue-expiatorio-em-1-pedro]]
 - [[wiki/divergencias/recaida-sem-arrependimento-em-hebreus]]

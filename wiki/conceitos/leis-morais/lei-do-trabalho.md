@@ -65,13 +65,13 @@ O velho tem direito a repousar (LE, q. 685). Quando precisa trabalhar e não pod
 
 Em *Nosso Lar* (1944), o sistema do **bônus-hora** (cap. 22) ilustra a Lei do Trabalho em forma narrativa: na colônia espiritual, ninguém é remunerado por título, hierarquia ou afeição — só pelo tempo de serviço útil registrado. Quem só recebe abrigo, alimenta-se do mínimo; quem trabalha conquista casa própria, escolas, intercessão por amados. É a contrapartida cosmológica de LE, q. 678 ("a ociosidade seria um suplício") e LE, q. 679 (riqueza não dispensa do dever de ser útil).
 
-A lição-paradigma vem no diálogo de Clarêncio com a mãe queixosa (cap. 13): ela pede para auxiliar os filhos terrestres, mas só acumulou 304 bônus-hora em mais de seis anos e recusou cinco designações sucessivas. Clarêncio sentencia: "**Os que não cooperam não recebem cooperação. Isso é da lei eterna.**" Aplicação direta do princípio kardequiano de que "o forte deve trabalhar para o fraco" (q. 685a) — mas, simetricamente, quem não semeou, não tem direito de cobrar a colheita alheia. Ver [[wiki/conceitos/bonus-hora]] e [[wiki/obras/nosso-lar]].
+A lição-paradigma vem no diálogo de Clarêncio com a mãe queixosa (cap. 13): ela pede para auxiliar os filhos terrestres, mas só acumulou 304 bônus-hora em mais de seis anos e recusou cinco designações sucessivas. Clarêncio sentencia: "**Os que não cooperam não recebem cooperação. Isso é da lei eterna.**" Aplicação direta do princípio de Kardec de que "o forte deve trabalhar para o fraco" (q. 685a) — mas, simetricamente, quem não semeou, não tem direito de cobrar a colheita alheia. Ver [[wiki/conceitos/bonus-hora]] e [[wiki/obras/nosso-lar]].
 
 ## Trabalho como adoração — base paulina (Cl 3:23)
 
 > "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens, sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis." (Cl 3:23–24, ACF)
 
-Cl 3:23, junto com o par antecedente Cl 3:17 ("quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus"), é a **formulação neotestamentária mais densa** da universalidade do trabalho como culto. Embora dirigido inicialmente aos servos (3:22), Paulo o universaliza imediatamente ("tudo quanto fizerdes"). Quatro implicações para a Lei do Trabalho kardequiana:
+Cl 3:23, junto com o par antecedente Cl 3:17 ("quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus"), é a **formulação neotestamentária mais densa** da universalidade do trabalho como culto. Embora dirigido inicialmente aos servos (3:22), Paulo o universaliza imediatamente ("tudo quanto fizerdes"). Quatro implicações para a Lei do Trabalho de Kardec:
 
 1. **Fim do dualismo sagrado/profano** — qualquer ofício digno realizado com sinceridade de coração é liturgia. Não há atividade "menor" para o aprendizado moral.
 2. **Pureza da intenção como critério** — "como ao Senhor, e não aos homens" exclui o trabalho feito por aparência ou aprovação humana. Articula com [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. X, item 7 (pureza da intenção) e cap. XV, item 10 (obras, não rituais).

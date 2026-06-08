@@ -46,7 +46,7 @@ Passagens-chave citadas por Kardec: **At 10:34** (imparcialidade divina, ESE cap
 **Cap. 5 — Ananias e Safira; sinais por Pedro; apóstolos libertados por "anjo"; conselho de Gamaliel.** Casal mente sobre o valor da venda e cai morto diante de Pedro (At 5:1–11). "A sombra de Pedro, ao menos, cobrisse alguns deles" — curas por **irradiação fluídica** (At 5:15; cf. Gênese, cap. XIV). Prisão dos apóstolos; "à noite um anjo do Senhor abriu as portas da prisão" (At 5:19) — intervenção espiritual. Prudência de Gamaliel: "se esta obra é de homens, se desfará, mas se é de Deus, não a podereis desfazer" (At 5:38–39). Ver [[wiki/biblia/atos/5]].
 
 > [!warning] Divergência com Kardec
-> A morte fulminante de Ananias e Safira (At 5:1–11) sugere castigo divino sumário por mentira, incompatível com a doutrina kardequiana das **penas temporárias e reparadoras** (C&I, 1ª parte, caps. VI–VII) e com a **progressividade da justiça divina** (LE, q. 1009–1016). Ver [[wiki/divergencias/morte-de-ananias-e-safira]].
+> A morte fulminante de Ananias e Safira (At 5:1–11) sugere castigo divino sumário por mentira, incompatível com a doutrina de Kardec das **penas temporárias e reparadoras** (C&I, 1ª parte, caps. VI–VII) e com a **progressividade da justiça divina** (LE, q. 1009–1016). Ver [[wiki/divergencias/morte-de-ananias-e-safira]].
 
 ### Expansão e primeiro mártir (caps. 6–7)
 

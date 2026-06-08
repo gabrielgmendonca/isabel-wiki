@@ -16,7 +16,7 @@ Virtude moral conquistada que dispõe o ser ao reconhecimento da vida como dádi
 2. **Gratidão como disciplina** (Paulo, Fp 4:6 — *eucharistia*; Cl 3:16) — atenção treinada que recusa o ressentimento e elege o reconhecimento como hábito mental.
 3. **Gratidão como estado maduro do Self** (Joanna de Ângelis, *[[wiki/obras/psicologia-da-gratidao|Psicologia da Gratidão]]*, 2011) — instrumento do eixo ego/Self, caminho para a [[wiki/conceitos/individuacao|individuação]], psicoterapia em si.
 
-Os três registros não competem: o primeiro é a moldura kardequiana, o segundo a operacionalização paulina, o terceiro a leitura psicológica contemporânea fiel ao Pentateuco. Distinguir, contudo, da **retribuição mercadológica** (devolução pelo recebido) — esta opera no plano do interesse imediato, não da virtude.
+Os três registros não competem: o primeiro é a moldura de Kardec, o segundo a operacionalização paulina, o terceiro a leitura psicológica contemporânea fiel ao Pentateuco. Distinguir, contudo, da **retribuição mercadológica** (devolução pelo recebido) — esta opera no plano do interesse imediato, não da virtude.
 
 ## Ensino de Kardec
 
@@ -108,7 +108,7 @@ Ambas convergem para o **estado maduro do Self** que reconhece a vida como tessi
 - [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]] — ápice das leis morais; gratidão como caridade interior.
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — fundamento ético da gratidão pelas adversidades.
 - [[wiki/conceitos/humildade]] — virtude-porta da gratidão; sem ela, a soberba bloqueia o reconhecimento.
-- [[wiki/conceitos/prece]] — moldura kardequiana onde a gratidão opera.
+- [[wiki/conceitos/prece]] — moldura de Kardec onde a gratidão opera.
 - [[wiki/conceitos/individuacao]] — meta articulada por Joanna como destinação da gratidão.
 - [[wiki/conceitos/numinoso]] — estado pleno do Self gratulatório.
 - [[wiki/conceitos/egoismo]] — antípoda direto da gratidão.

@@ -75,7 +75,7 @@ A doutrina firma que **a viagem do Espírito errante não é vagabunda**: tem ge
 
 ## Posição na codificação posterior
 
-A categoria foi codificada em LE (q. 234-236, na seção "Mundos transitórios", parte do capítulo sobre os Espíritos errantes) e ampliada na RE de mai/1859. Nos volumes seguintes da *Revista* e em *A Gênese* (1868), Kardec trata da formação dos mundos e da pluralidade dos mundos habitados sem retomar formalmente o termo. A doutrina permanece pacificada nessas duas referências, citada em estudos kardequianos modernos para articular formação planetária, erraticidade e pluralidade dos mundos.
+A categoria foi codificada em LE (q. 234-236, na seção "Mundos transitórios", parte do capítulo sobre os Espíritos errantes) e ampliada na RE de mai/1859. Nos volumes seguintes da *Revista* e em *A Gênese* (1868), Kardec trata da formação dos mundos e da pluralidade dos mundos habitados sem retomar formalmente o termo. A doutrina permanece pacificada nessas duas referências, citada em estudos de Kardec modernos para articular formação planetária, erraticidade e pluralidade dos mundos.
 
 ## Divergências
 

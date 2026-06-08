@@ -30,7 +30,7 @@ Como toda manifestação fluídica, a telepatia *"entra no cômputo dos fatos na
 
 ### Em Flammarion: o mecanismo unificador
 
-Flammarion fez da telepatia a chave explicativa de toda a [[wiki/obras/a-morte-e-o-seu-misterio|*A Morte e o Seu Mistério*]]: *"a telepatia é tão certa quanto a existência de Napoleão, do oxigênio e de Sírio"*, e — passo decisivo — *"essa transmissão telepática existe igualmente entre as almas dos defuntos e a dos vivos"*. A aparição (de vivo, de moribundo, de morto) é, no seu modelo, ação de espírito sobre espírito que se converte em imagem no cérebro receptor *"vibrando de forma sintônica"*. Já em *O Fim do Mundo* projetara a telepatia como **"oitavo sentido psíquico"** universal da humanidade futura. A imagem recorrente — ondas etéreas, sintonia de cérebros — é a transposição, em vocabulário da física das ondas hertzianas, da doutrina kardequiana das ondulações fluídicas (Gênese, cap. XIV).
+Flammarion fez da telepatia a chave explicativa de toda a [[wiki/obras/a-morte-e-o-seu-misterio|*A Morte e o Seu Mistério*]]: *"a telepatia é tão certa quanto a existência de Napoleão, do oxigênio e de Sírio"*, e — passo decisivo — *"essa transmissão telepática existe igualmente entre as almas dos defuntos e a dos vivos"*. A aparição (de vivo, de moribundo, de morto) é, no seu modelo, ação de espírito sobre espírito que se converte em imagem no cérebro receptor *"vibrando de forma sintônica"*. Já em *O Fim do Mundo* projetara a telepatia como **"oitavo sentido psíquico"** universal da humanidade futura. A imagem recorrente — ondas etéreas, sintonia de cérebros — é a transposição, em vocabulário da física das ondas hertzianas, da doutrina de Kardec das ondulações fluídicas (Gênese, cap. XIV).
 
 ### Posição na escada de hipóteses
 
@@ -45,7 +45,7 @@ A telepatia **entre vivos** é um degrau metodológico: antes de atribuir um fen
 
 ## Divergências
 
-Nenhuma divergência frontal: a telepatia é compatível com a doutrina kardequiana da transmissão do pensamento. A tensão relacionada não está no conceito, mas no **uso metodológico** que Flammarion faz dele em [[wiki/obras/a-morte-e-o-seu-misterio|*A Morte e o Seu Mistério*]] — a explicação subjetivista das aparições (que nega o corpo fluídico) e a relativização do ensino mediúnico —, tratada nos callouts inline daquela obra (ver [[wiki/obras/a-morte-e-o-seu-misterio#divergencias-com-kardec]]) e em [[wiki/conceitos/aparicoes]].
+Nenhuma divergência frontal: a telepatia é compatível com a doutrina de Kardec da transmissão do pensamento. A tensão relacionada não está no conceito, mas no **uso metodológico** que Flammarion faz dele em [[wiki/obras/a-morte-e-o-seu-misterio|*A Morte e o Seu Mistério*]] — a explicação subjetivista das aparições (que nega o corpo fluídico) e a relativização do ensino mediúnico —, tratada nos callouts inline daquela obra (ver [[wiki/obras/a-morte-e-o-seu-misterio#divergencias-com-kardec]]) e em [[wiki/conceitos/aparicoes]].
 
 ## Páginas relacionadas
 

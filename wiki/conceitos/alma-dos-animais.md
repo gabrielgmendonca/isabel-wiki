@@ -70,7 +70,7 @@ A questão da "alma dos animais" reaparece em vários autores espíritas pós-Ka
 - **Léon Denis** (*Depois da morte*, *O grande enigma*) retoma a doutrina sem inovação substantiva.
 - **André Luiz / Chico Xavier** (especialmente em *Evolução em Dois Mundos*, cap. 8 e *Missionários da Luz*, cap. 19) desenvolve a fenomenologia espiritual do mundo animal, mantendo a "solução de continuidade" e o princípio da elaboração progressiva.
 
-Em todos os casos, a regra kardequiana de 1860 permanece eixo: **o animal progride em seu reino; a passagem ao reino humano é qualitativa, não automática nem retroversível**.
+Em todos os casos, a regra de Kardec de 1860 permanece eixo: **o animal progride em seu reino; a passagem ao reino humano é qualitativa, não automática nem retroversível**.
 
 ## Aplicação prática
 

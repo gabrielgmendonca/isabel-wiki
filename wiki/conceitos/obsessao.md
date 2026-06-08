@@ -34,7 +34,7 @@ Kardec substitui o termo "possessão" por **subjugação**: (1) porque "possess�
 
 ### Configuração adicional: possessão partilhada (André Luiz, 1963)
 
-[[wiki/personalidades/andre-luiz|André Luiz]] cunha em [[wiki/obras/sexo-e-destino|*Sexo e Destino*]] (Parte 1, cap. 8) a categoria de **[[wiki/conceitos/possessao-partilhada|possessão partilhada]]** — qualitativamente distinta dos três graus kardequianos por seu **vetor recíproco**: obsessor desencarnado e encarnado se sintonizam por afinidade total (especialmente sexual) ao ponto de "dois seres num corpo só", compartilhando sensações, impulsos e responsabilidade. Não substitui as três configurações de Kardec — soma-se a elas como categoria fenomenológica observada no plano espiritual, em que o consentimento do encarnado ("deixava-se prazerosamente senhorear") inverte o quadro habitual da vítima passiva.
+[[wiki/personalidades/andre-luiz|André Luiz]] cunha em [[wiki/obras/sexo-e-destino|*Sexo e Destino*]] (Parte 1, cap. 8) a categoria de **[[wiki/conceitos/possessao-partilhada|possessão partilhada]]** — qualitativamente distinta dos três graus de Kardec por seu **vetor recíproco**: obsessor desencarnado e encarnado se sintonizam por afinidade total (especialmente sexual) ao ponto de "dois seres num corpo só", compartilhando sensações, impulsos e responsabilidade. Não substitui as três configurações de Kardec — soma-se a elas como categoria fenomenológica observada no plano espiritual, em que o consentimento do encarnado ("deixava-se prazerosamente senhorear") inverte o quadro habitual da vítima passiva.
 
 ### Sinais de obsessão (item 243)
 
@@ -81,7 +81,7 @@ Material decisivo: o artigo de dez/1862 funciona como **aprofundamento *de facto
 
 ### Marcos: quatro narrativas-base
 
-O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsessão, cobrindo três das categorias kardequianas:
+O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsessão, cobrindo três das categorias de Kardec:
 
 1. **Desobsessão em Cafarnaum (Mc 1:21–28).** Na primeira pregação pública, Jesus enfrenta na sinagoga um homem com "espírito imundo" que o reconhece ("Bem sei quem és: o Santo de Deus"). Jesus ordena silêncio e a saída — "Cala-te, e sai dele" — e o Espírito convulsiona o obsidiado antes de partir. Modelo de **ensino-desobsessão integrados**: a palavra doutrinária mesma é o instrumento de libertação. Cf. palestra [[wiki/obras/jesus-ensina-em-cafarnaum-carlos-mendonca]].
 
@@ -89,15 +89,15 @@ O Evangelho de Marcos é o texto neotestamentário mais denso em casos de obsess
 
 3. **Siro-fenícia (Mc 7:24–30).** Obsessão da filha aliviada a distância, pela fé humilde e insistente da mãe. Ilustra que a **elevação moral do próximo** que intercede conta na desobsessão — prece e sintonia fluídica não exigem copresença física.
 
-4. **Menino epiléptico-obsidiado (Mc 9:14–29).** Caso crônico desde a infância, com convulsões que lançavam o menino "no fogo e na água". Os discípulos não conseguem libertá-lo; Jesus diagnostica: "esta casta não pode sair com coisa alguma, a não ser com oração e jejum" (Mc 9:29). Leitura kardequiana: a desobsessão severa exige **elevação moral prolongada** do grupo que assiste — não rito, mas reforma íntima. Coerente com LM, 2ª parte, cap. XXIII, item 244: "A mediunidade permite se veja o inimigo face a face [...] e combatê-lo com suas próprias armas" — mas o combate é moral.
+4. **Menino epiléptico-obsidiado (Mc 9:14–29).** Caso crônico desde a infância, com convulsões que lançavam o menino "no fogo e na água". Os discípulos não conseguem libertá-lo; Jesus diagnostica: "esta casta não pode sair com coisa alguma, a não ser com oração e jejum" (Mc 9:29). Leitura de Kardec: a desobsessão severa exige **elevação moral prolongada** do grupo que assiste — não rito, mas reforma íntima. Coerente com LM, 2ª parte, cap. XXIII, item 244: "A mediunidade permite se veja o inimigo face a face [...] e combatê-lo com suas próprias armas" — mas o combate é moral.
 
-> **Lição de conjunto:** Marcos mostra que (i) obsessão atravessa todos os graus — simples (siro-fenícia), subjugação (gadareno), crônica (epiléptico); (ii) a desobsessão é operação natural, regida por lei, não ato mágico — coerente com a recusa kardequiana ao "milagre" como quebra de lei (Gênese, cap. XIV–XV); (iii) a resistência à libertação mede-se pela obstinação do obsessor *e* pelo preparo moral do grupo assistente.
+> **Lição de conjunto:** Marcos mostra que (i) obsessão atravessa todos os graus — simples (siro-fenícia), subjugação (gadareno), crônica (epiléptico); (ii) a desobsessão é operação natural, regida por lei, não ato mágico — coerente com a recusa de Kardec ao "milagre" como quebra de lei (Gênese, cap. XIV–XV); (iii) a resistência à libertação mede-se pela obstinação do obsessor *e* pelo preparo moral do grupo assistente.
 
 ### Atos dos Apóstolos: a desobsessão passa aos discípulos
 
 Em Atos, a prática da desobsessão migra de Jesus para os apóstolos, confirmando que a operação é **lei natural reproduzível**, não prerrogativa exclusiva do Cristo.
 
-1. **Pitonisa de Filipos (At 16:16–18).** Jovem "com espírito de adivinhação" que seguia Paulo e Silas proclamando — com acerto — "estes homens são servos do Deus Altíssimo". Paulo, **perturbado por muitos dias**, ordena em nome de Jesus a saída do Espírito, que se retira imediatamente. Caso mostra que (i) a comunicação **verdadeira** no conteúdo pode vir de Espírito obsessor (critério kardequiano: avaliar pela totalidade, não pelo acerto pontual — LM, 2ª parte, cap. XXIV); (ii) a mediunidade explorada comercialmente ("dava grande lucro aos seus senhores") está doutrinariamente corrompida (LM, cap. XXIX).
+1. **Pitonisa de Filipos (At 16:16–18).** Jovem "com espírito de adivinhação" que seguia Paulo e Silas proclamando — com acerto — "estes homens são servos do Deus Altíssimo". Paulo, **perturbado por muitos dias**, ordena em nome de Jesus a saída do Espírito, que se retira imediatamente. Caso mostra que (i) a comunicação **verdadeira** no conteúdo pode vir de Espírito obsessor (critério de Kardec: avaliar pela totalidade, não pelo acerto pontual — LM, 2ª parte, cap. XXIV); (ii) a mediunidade explorada comercialmente ("dava grande lucro aos seus senhores") está doutrinariamente corrompida (LM, cap. XXIX).
 
 2. **Sete filhos de Ceva (At 19:13–16).** Exorcistas judeus ambulantes invocam "Jesus a quem Paulo prega" como fórmula mágica. O Espírito responde: "Conheço a Jesus, e bem sei quem é Paulo; mas vós quem sois?" — e os agride. Lição-chave: **a fórmula verbal não libera nada**; o que libera é a **sintonia moral** do operador com o Cristo (cf. ESE, cap. X). Invocação sem autoridade moral é pretensão vazia.
 
@@ -143,7 +143,7 @@ A cena articula obsessão e [[wiki/conceitos/vampirismo-espiritual|vampirismo]] 
 
 Princípio terapêutico inédito: a **medida salvadora pelo agravamento controlado**. Calderaro aplica passes que provocam parada cardíaca momentânea seguida de **nevrose cardíaca persistente** por dois ou três meses, prendendo Antídio ao leito. "A enfermidade retifica sempre" (cap. 14). A doença induzida é socorro: tira o obsidiado do bar, interrompe a simbiose, permite a remoção dos vampiros desencarnados pelo socorro fluídico subsequente. Coerente com ESE cap. V (sofrimentos voluntários e impostos) — a Lei pode usar a tempestade como instrumento de salvação.
 
-No mesmo livro, cap. 16, Calderaro estende a análise a um esquizofrênico autômato no manicômio: vítima de "práticas hipnóticas de implacáveis perseguidores" — em encarnações anteriores abusou do magnetismo pessoal seduzindo mulheres, e agora paga a dívida tornando-se "rematado fantoche nas mãos dos algozes tipicamente perversos". A obsessão hipnótica em Espíritos vingativos é, assim, especialização da subjugação kardequiana descrita em LM, 2ª parte, cap. XXIII, item 240.
+No mesmo livro, cap. 16, Calderaro estende a análise a um esquizofrênico autômato no manicômio: vítima de "práticas hipnóticas de implacáveis perseguidores" — em encarnações anteriores abusou do magnetismo pessoal seduzindo mulheres, e agora paga a dívida tornando-se "rematado fantoche nas mãos dos algozes tipicamente perversos". A obsessão hipnótica em Espíritos vingativos é, assim, especialização da subjugação de Kardec descrita em LM, 2ª parte, cap. XXIII, item 240.
 
 Ver [[wiki/obras/no-mundo-maior]].
 
@@ -230,7 +230,7 @@ Ver [[wiki/obras/mecanismos-da-mediunidade]] e [[wiki/conceitos/animismo]] (cap.
 
 ### Pedro, sonambulismo torturado e a fascinada da Toscana — três tipologias em chave de reciprocidade pretérita (André Luiz, *Nos Domínios da Mediunidade*, 1955)
 
-NDM aprofunda a tipologia kardequiana com três casos que articulam **possessão completa, sonambulismo torturado e fascinação extrema** sob um mesmo princípio: toda obsessão tem alicerce na **reciprocidade do passado**.
+NDM aprofunda a tipologia de Kardec com três casos que articulam **possessão completa, sonambulismo torturado e fascinação extrema** sob um mesmo princípio: toda obsessão tem alicerce na **reciprocidade do passado**.
 
 **Possessão completa = "epilepsia essencial" (cap. 9).** Pedro sofre ataques epilépticos clássicos com sintomatologia clínica completa (palidez, tetania, convulsões, esfíncteres relaxados). Áulus identifica como **possessão completa**, "transe mediúnico de baixo teor", entre dois desencarnados endividados desde o século passado: Pedro, médico libertino, seduzira a esposa do irmão e o levara à internação em hospício; o irmão atraiçoado, desencarnado primeiro, agora o vampiriza. Lição central:
 
@@ -270,7 +270,7 @@ O cap. 10 de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunida
 1. **Tipologia por contraste.** Yvonne relata obsessões "violentas facilmente curáveis" e outras "aparentemente pacíficas, absolutamente incuráveis" — invertendo a intuição de que a agitação mede a gravidade. Casos: a obsessão de vingança de um ex-escravo sobre o reencarnante de seu antigo senhor (paralisia infantil, mutismo); "Marta", subjugada por sugestão hipnótica de antigo cônjuge ciumento; o Padre J., a quem o obsessor faz crer-se possuidor de "cavernas de ouro".
 2. **O obsessor silencioso é o mais intransigente.** "Aqueles que falam muito, ameaçam e insultam, ou choram e se lamentam, não são os piores […]. Mas não assim os que silenciam. Estes estão seguros do que fazem" — observação fina que complementa a fascinação de LM, cap. XXIII, item 239.
 3. **Há obsessores conquistáveis pela fraternidade.** Nem todos são maus: muitos, bem tratados, tornam-se amigos espirituais — coerente com a leitura de [[wiki/personalidades/bezerra-de-menezes|Bezerra de Menezes]] ("troca de vibrações afins").
-4. **Dez condições para a cura de obsessões**, que a autora sintetiza ao fim do capítulo: ascendência e superioridade moral de médiuns e dirigentes; conhecimento sólido da causa e assistência espiritual segura; coragem da fé; humildade (a vitória é de Jesus); ambiente resguardado de tumulto; não doutrinar o obsessor pelo próprio obsidiado em crise (usar outro médium); vigilância moral diária dos trabalhadores; renovação moral do obsidiado como terapêutica principal; suspensão do labor mediúnico do médium dominado; afastamento dos mistificados/animistas. Tudo subordinado à recusa kardequiana de fórmulas e exorcismos.
+4. **Dez condições para a cura de obsessões**, que a autora sintetiza ao fim do capítulo: ascendência e superioridade moral de médiuns e dirigentes; conhecimento sólido da causa e assistência espiritual segura; coragem da fé; humildade (a vitória é de Jesus); ambiente resguardado de tumulto; não doutrinar o obsessor pelo próprio obsidiado em crise (usar outro médium); vigilância moral diária dos trabalhadores; renovação moral do obsidiado como terapêutica principal; suspensão do labor mediúnico do médium dominado; afastamento dos mistificados/animistas. Tudo subordinado à recusa de Kardec de fórmulas e exorcismos.
 
 A obra traz ainda, ditada por Bezerra de Menezes, a distinção entre doenças mentais de substrato orgânico e as de fundo espiritual (remorso e trauma carregados de uma existência a outra; mediunidade em elaboração) — ver [[wiki/personalidades/bezerra-de-menezes]] e [[wiki/conceitos/emancipacao-da-alma]].
 

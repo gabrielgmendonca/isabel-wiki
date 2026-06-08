@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **1 João** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/primeira-epistola-de-joao]].
+Análise temática e leitura de Kardec em [[wiki/obras/primeira-epistola-de-joao]].
 
 ## Capítulos
 

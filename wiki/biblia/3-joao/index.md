@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **3 João** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/terceira-epistola-de-joao]].
+Análise temática e leitura de Kardec em [[wiki/obras/terceira-epistola-de-joao]].
 
 ## Capítulos
 

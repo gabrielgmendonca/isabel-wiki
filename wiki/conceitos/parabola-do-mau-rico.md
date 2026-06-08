@@ -38,7 +38,7 @@ A parábola convida à reflexão sobre o uso que fazemos de nossos recursos — 
 
 ## Divergências
 
-A letra de Lc 16:22–26 ("inferno", "chama", "grande abismo" intransponível) contradiz a doutrina kardequiana das penas temporárias e da reversibilidade do estado moral pelas existências sucessivas. Ver [[wiki/divergencias/fogo-eterno-em-mateus-25]].
+A letra de Lc 16:22–26 ("inferno", "chama", "grande abismo" intransponível) contradiz a doutrina de Kardec das penas temporárias e da reversibilidade do estado moral pelas existências sucessivas. Ver [[wiki/divergencias/fogo-eterno-em-mateus-25]].
 
 ## Páginas relacionadas
 

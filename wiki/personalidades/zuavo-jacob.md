@@ -25,7 +25,7 @@ No "**Golpe de vista retrospectivo**" de [[wiki/obras/revista-espirita-1868|RE j
 
 > *"Entre os fatos materiais que assinalaram este ano, as curas do zuavo Jacob ocupam o primeiro lugar. Elas tiveram uma repercussão que todo mundo conhece. E, embora o Espiritismo aí só tenha figurado incidentemente, a atenção geral não deixou de ser vivamente atraída para um fenômeno dos mais sérios, e que a ele se liga de maneira direta. Esses fatos, produzindo-se em condições vulgares, sem aparelho místico, não por um só indivíduo, mas por diversos, ou por isso mesmo, perderam o caráter miraculoso, que até agora lhes haviam atribuído."* (RE jan/1868)
 
-Caráter da ação editorial de Kardec: **não-apropriação**. O zuavo não pertencia ao movimento espírita organizado, e Kardec insiste neste ponto — *"o Espiritismo aí só figurou incidentemente"*. A relevância é metodológica: as curas do zuavo, ocorrendo *"em condições vulgares, sem aparelho místico"* e por mais de um operador, **dessacralizam** a categoria do milagre e validam a tese kardequiana de que os fenômenos mediúnicos seguem leis naturais (recusa do "sobrenatural").
+Caráter da ação editorial de Kardec: **não-apropriação**. O zuavo não pertencia ao movimento espírita organizado, e Kardec insiste neste ponto — *"o Espiritismo aí só figurou incidentemente"*. A relevância é metodológica: as curas do zuavo, ocorrendo *"em condições vulgares, sem aparelho místico"* e por mais de um operador, **dessacralizam** a categoria do milagre e validam a tese de Kardec de que os fenômenos mediúnicos seguem leis naturais (recusa do "sobrenatural").
 
 ### 2. "A lei e os médiuns curadores" (jul/1867) — interdição disciplinar
 

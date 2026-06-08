@@ -36,7 +36,7 @@ Tradicionalmente a expressão é interpretada por três caminhos principais:
 2. **Sete arcanjos** — leitura judaica-cristã antiga ancorada no livro deuterocanônico de Tobias (Tob 12:15, "eu sou Rafael, um dos sete santos anjos") e no apócrifo 1 Enoque (caps. 20, 40, 71, listas de sete arcanjos).
 3. **[[wiki/obras/plenitude|Plenitude]] do Espírito Santo trinitário** — leitura reformada moderna, harmonizando com a doutrina trinitária niceno-calcedoniana.
 
-A leitura espírita acolhe parcialmente a segunda interpretação (sete Espíritos como **figuras elevadas** com função de servir e revelar) e a transpõe para a chave kardequiana:
+A leitura espírita acolhe parcialmente a segunda interpretação (sete Espíritos como **figuras elevadas** com função de servir e revelar) e a transpõe para a chave de Kardec:
 
 - **Não são arcanjos ontologicamente distintos** das almas humanas — são **Espíritos puros** na ponta da escala, que outrora foram imperfeitos e progrediram (LE q. 113; q. 1009–1019).
 - **Não são "sete" em sentido literal** — o número 7 é simbólico (plenitude na cosmologia hebraica), e descreve **plenitude da hierarquia espiritual** que serve ao plano divino, não enumeração precisa.
@@ -46,7 +46,7 @@ A leitura espírita acolhe parcialmente a segunda interpretação (sete Espírit
 
 Três aspectos da função dos Espíritos elevados, que a expressão joanina articula em forma alegórica:
 
-1. **Diante do trono** (Ap 1:4; 4:5) — proximidade direta com Deus; reverência espontânea (cf. Ap 4:10–11, anciãos lançam coroas e adoram); estado de **adoração** que é, em chave kardequiana, o estado natural dos Espíritos puros (LE q. 649–663, [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]]).
+1. **Diante do trono** (Ap 1:4; 4:5) — proximidade direta com Deus; reverência espontânea (cf. Ap 4:10–11, anciãos lançam coroas e adoram); estado de **adoração** que é, à luz de Kardec, o estado natural dos Espíritos puros (LE q. 649–663, [[wiki/conceitos/leis-morais/lei-de-adoracao|Lei de Adoração]]).
 2. **Enviados a toda a terra** (Ap 5:6) — função executiva: atuam na humanidade encarnada por inspiração e assistência (LE q. 459–471 sobre relações encarnados/desencarnados; q. 538–540 sobre Espíritos protetores).
 3. **Em comunhão com o Cordeiro** (Ap 5:6) — sob a direção de Jesus como [[wiki/personalidades/jesus|guia da humanidade terrestre]] (LE q. 625; ESE Introdução; Emmanuel/Chico, *A Caminho da Luz*, sobre a Comunidade de Jesus).
 
@@ -58,7 +58,7 @@ A leitura espírita preserva o sentido de plenitude e dissolve a aritmética lit
 
 ## Desdobramentos
 
-### Convergência com a hierarquia kardequiana
+### Convergência com a hierarquia de Kardec
 
 A escala dos Espíritos em LE q. 100–113 culmina nos **Espíritos puros** (terceira ordem):
 
@@ -98,5 +98,5 @@ Para o estudo espírita, a expressão joanina é útil em três frentes:
 - *Bíblia Sagrada* (Almeida Corrigida e Fiel). Apocalipse 1:4; 3:1; 4:5; 5:6.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Esp. q. 1–13 (atributos divinos); **q. 100–113** (escala espírita, ordens dos Espíritos); **q. 113** (Espíritos puros: contemplação, missão, presidência); q. 459–471 (relações encarnados/desencarnados); q. 538–540 (Espíritos protetores); q. 649–673 (Lei de Adoração); q. 1015–1019 (universalismo do progresso).
 - KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Prolegômenos (estrutura coletiva da revelação espírita); Introdução.
-- KARDEC, Allan. *Obras Póstumas*. Trad. Guillon Ribeiro. FEB. "Estudo sobre a natureza do Cristo" — refutação da consubstancialidade trinitária e do monoteísmo unitário kardequiano.
+- KARDEC, Allan. *Obras Póstumas*. Trad. Guillon Ribeiro. FEB. "Estudo sobre a natureza do Cristo" — refutação da consubstancialidade trinitária e do monoteísmo unitário de Kardec.
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. FEB, 1939. Caps. 1–3 (Comunidade dos Espíritos Puros e estrutura do governo espiritual da Terra).

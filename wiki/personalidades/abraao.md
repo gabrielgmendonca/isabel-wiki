@@ -48,7 +48,7 @@ Abraão paga **dízimos a Melquisedeque** (Gn 14:18–20), rei de Salém e sacer
 
 Abraão não é figura central na codificação — Kardec se dirige sobretudo aos ensinamentos de [[wiki/personalidades/jesus|Jesus]] e à moral evangélica. Quando aparece, é via os ecos do NT (galeria da fé de Hb 11; exemplo de fé viva em Tg 2; pai dos crentes em Rm 4). O quadro **histórico-cosmológico** em que Kardec o situa é o da **[[wiki/conceitos/raca-adamica|raça adâmica]]** ([[wiki/obras/genese|Gênese]], cap. XI) — colônia de Espíritos relativamente adiantados migrados de outro mundo, da qual descendem os patriarcas hebraicos como linhagem moralmente ativa entre as nações.
 
-Abraão é, na chave kardequiana, **Espírito da raça adâmica** que, **como missão**, inaugura a aliança que culminará em Moisés (1ª revelação) e em Jesus (2ª revelação). Ver [[wiki/conceitos/tres-revelacoes]].
+Abraão é, na chave de Kardec, **Espírito da raça adâmica** que, **como missão**, inaugura a aliança que culminará em Moisés (1ª revelação) e em Jesus (2ª revelação). Ver [[wiki/conceitos/tres-revelacoes]].
 
 ## Citações relevantes
 
@@ -61,7 +61,7 @@ Abraão é, na chave kardequiana, **Espírito da raça adâmica** que, **como mi
 ## Páginas relacionadas
 
 - [[wiki/conceitos/fe]] — Abraão como exemplo bíblico da fé viva.
-- [[wiki/conceitos/raca-adamica]] — quadro cosmológico kardequiano em que se inscrevem os patriarcas.
+- [[wiki/conceitos/raca-adamica]] — quadro cosmológico de Kardec em que se inscrevem os patriarcas.
 - [[wiki/conceitos/tres-revelacoes]] — Abraão como linhagem que prepara Moisés (1ª revelação) e Jesus (2ª).
 - [[wiki/conceitos/lei-natural]] — Abraão pagando dízimos a Melquisedeque (Gn 14) como sinal da Lei anterior à revelação israelita.
 - [[wiki/personalidades/melquisedeque]] — encontro em Gn 14:18–20.

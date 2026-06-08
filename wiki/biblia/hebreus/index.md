@@ -12,7 +12,7 @@ status: ativo
 
 Texto integral de **Hebreus** na tradução Almeida Corrigida e Fiel (ACF), em domínio público.
 
-Análise temática e leitura kardequiana em [[wiki/obras/epistola-aos-hebreus]].
+Análise temática e leitura de Kardec em [[wiki/obras/epistola-aos-hebreus]].
 
 ## Capítulos
 

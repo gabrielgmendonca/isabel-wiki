@@ -140,7 +140,7 @@ A intercessão materna não dispensa o programa reparador — apenas o **organiz
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/reencarnacao]] — moldura kardequiana ampla
+- [[wiki/conceitos/reencarnacao]] — moldura de Kardec ampla
 - [[wiki/conceitos/encarnacao]] — primeira/cada encarnação
 - [[wiki/conceitos/perispirito]] — substrato fluídico do processo
 - [[wiki/conceitos/centros-vitais]] — anatomia funcional do corpo espiritual

@@ -10,7 +10,7 @@ status: rascunho
 
 ## Definição
 
-Fulcros energéticos do **corpo espiritual** (psicossoma) que, sob direção da mente, governam funções específicas da vida orgânica e psíquica. Conceito desenvolvido por **André Luiz** em *Evolução em Dois Mundos* (1958) como anatomia funcional do perispírito kardequiano ([[wiki/conceitos/perispirito]]).
+Fulcros energéticos do **corpo espiritual** (psicossoma) que, sob direção da mente, governam funções específicas da vida orgânica e psíquica. Conceito desenvolvido por **André Luiz** em *Evolução em Dois Mundos* (1958) como anatomia funcional do perispírito de Kardec ([[wiki/conceitos/perispirito]]).
 
 > "São os centros vitais fulcros energéticos que, sob a direção automática da alma, imprimem às células a especialização extrema." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 2)
 
@@ -89,11 +89,11 @@ Os centros vitais — especialmente o coronário — são as portas da **obsess�
 
 Em [[wiki/personalidades/odila|Odila]] e Zulmira (*Entre a Terra e o Céu*, cap. 4), a vampirização opera por "fios cinzentos à maneira de tentáculos de polvo" ligados ao centro coronário da obsidiada.
 
-## Relação com o perispírito kardequiano
+## Relação com o perispírito de Kardec
 
 Os centros vitais são uma **extensão descritiva** do perispírito ([[wiki/conceitos/perispirito]]), não um conceito divergente. Kardec já trata o perispírito como veículo eletromagnético dotado de organização interna (Gênese, cap. XIV; LM, 1ª parte, cap. I) e capaz de exteriorização (LM, 2ª parte, caps. VI–VII; OPE, "Manifestações dos Espíritos"). André Luiz **detalha a anatomia funcional** dessa organização, oferecendo nomenclatura mais granular para fenômenos já admitidos pela codificação.
 
-A correspondência com a fisiologia sutil de outras tradições (chakras hindus, plexos do magnetismo mesmeriano) é assinalada como **convergência fenomenológica** — pesquisadores em diferentes culturas observaram fulcros análogos —, não como dependência doutrinária. André Luiz ancora cada centro em estruturas neurofisiológicas reconhecíveis pela ciência terrena (glândula pineal, hipotálamo, plexos solar e cardíaco, gônadas), e subordina toda a anatomia à direção moral do Espírito, em coerência com o ensino kardequiano de que o perispírito "se modifica com o progresso moral" (Gênese, cap. XIV, item 10).
+A correspondência com a fisiologia sutil de outras tradições (chakras hindus, plexos do magnetismo mesmeriano) é assinalada como **convergência fenomenológica** — pesquisadores em diferentes culturas observaram fulcros análogos —, não como dependência doutrinária. André Luiz ancora cada centro em estruturas neurofisiológicas reconhecíveis pela ciência terrena (glândula pineal, hipotálamo, plexos solar e cardíaco, gônadas), e subordina toda a anatomia à direção moral do Espírito, em coerência com o ensino de Kardec de que o perispírito "se modifica com o progresso moral" (Gênese, cap. XIV, item 10).
 
 ## Aplicação prática
 
@@ -104,7 +104,7 @@ A correspondência com a fisiologia sutil de outras tradições (chakras hindus,
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/perispirito]] — base kardequiana do corpo espiritual
+- [[wiki/conceitos/perispirito]] — base de Kardec do corpo espiritual
 - [[wiki/conceitos/fluido-cosmico-universal]] — substância elementar dos centros
 - [[wiki/conceitos/mediunidade]] — faculdades como funções dos centros
 - [[wiki/conceitos/obsessao]] — vulnerabilidade dos centros

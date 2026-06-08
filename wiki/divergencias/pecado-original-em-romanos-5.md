@@ -48,7 +48,7 @@ O mecanismo moral é individual e pedagógico, não hereditário.
 
 ### 2. Adão não é o primeiro homem
 
-Na *Gênese* kardequiana, a figura bíblica de Adão não é o primeiro ser humano do planeta, mas símbolo de uma imigração específica de Espíritos vindos de outro mundo:
+Na *Gênese* de Kardec, a figura bíblica de Adão não é o primeiro ser humano do planeta, mas símbolo de uma imigração específica de Espíritos vindos de outro mundo:
 
 > "Foi uma dessas grandes imigrações, ou, se quiserem, uma dessas colônias de Espíritos, vinda de outra esfera, que deu origem à raça simbolizada na pessoa de Adão e, por essa razão mesma, chamada raça adâmica. Quando ela aqui chegou, a Terra já estava povoada desde tempos imemoriais, como a América, quando aí chegaram os europeus." (Gênese, cap. XI, item 38)
 
@@ -102,7 +102,7 @@ A **redenção pela morte vicária** (Cristo paga pela humanidade) é também po
 
 ## Status
 
-**Aberta.** A divergência é real e estrutural. A teologia agostiniana e escolástica do pecado original, com seus corolários (necessidade absoluta do batismo, condenação dos não-batizados, morte vicária como única redenção), conflita com a doutrina kardequiana da lei na consciência, da responsabilidade individual, da pluralidade das existências e da rejeição das penas eternas.
+**Aberta.** A divergência é real e estrutural. A teologia agostiniana e escolástica do pecado original, com seus corolários (necessidade absoluta do batismo, condenação dos não-batizados, morte vicária como única redenção), conflita com a doutrina de Kardec da lei na consciência, da responsabilidade individual, da pluralidade das existências e da rejeição das penas eternas.
 
 Leituras tipológicas ou retóricas de Paulo atenuam o conflito, mas a tradição cristã dominante não as adotou. A divergência permanece aberta: não é questão de redação ou tradução, mas de cosmologia e antropologia moral.
 

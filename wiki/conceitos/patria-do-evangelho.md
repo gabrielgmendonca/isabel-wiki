@@ -16,7 +16,7 @@ Designação atribuída ao Brasil pela tradição espírita brasileira como **so
 
 Kardec não usa a expressão "Pátria do Evangelho" nem nomeia o Brasil como tal — a obra do codificador foi produzida na Europa do séc. XIX e referencia o Brasil apenas em comentários esparsos da *Revista Espírita* (cf. RE, 1865-1869, em comentários sobre a recepção da doutrina nas plagas americanas). A doutrina propriamente dita sobre o Brasil como pátria do Evangelho é elaboração posterior, **nível 3** (consagrados), articulada pela geração FEB dos anos 30 a partir das psicografias de Humberto de Campos e Emmanuel via Chico Xavier.
 
-Os fundamentos kardequianos que sustentam o conceito são:
+Os fundamentos de Kardec que sustentam o conceito são:
 
 - **(LE, q. 132-141)** — solidariedade entre os povos e missão das nações; **(LE, q. 776-800)** — lei de progresso aplicada coletivamente: cada povo cumpre missão própria no concerto das nações, sob lei de causa e efeito coletiva.
 - **(ESE, cap. III, item 4)** — pluralidade dos mundos habitados e progressão planetária; a Terra como [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] caminhando para [[wiki/conceitos/mundos-regeneradores|mundo regenerador]].

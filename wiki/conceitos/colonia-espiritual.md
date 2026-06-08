@@ -58,7 +58,7 @@ Toda colônia exerce função de **filtro vibratório** entre o [[wiki/conceitos
 
 - [[wiki/conceitos/umbral]] — região logo abaixo, à qual a colônia presta socorro
 - [[wiki/conceitos/bonus-hora]] — economia interna da colônia
-- [[wiki/conceitos/erraticidade]] — estado errante na codificação kardequiana
+- [[wiki/conceitos/erraticidade]] — estado errante na codificação de Kardec
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] — a Terra e o que isso implica para suas vizinhanças espirituais
 - [[wiki/conceitos/escala-espirita]] — classificação dos Espíritos
 - [[wiki/obras/nosso-lar]] — caso paradigmático

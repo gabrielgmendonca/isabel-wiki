@@ -11,7 +11,7 @@ direitos:
 # Epístola de Tiago
 
 > [!note] A carta apostólica mais convergente com Kardec
-> Dos textos do NT, Tiago é o que linguisticamente mais se aproxima da moral evangélica reorganizada por Kardec no [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]]. Não é tratado teológico (como Romanos), nem carta pastoral pontual (como 1 Coríntios) — é uma **homilia moral judaico-cristã** que retoma, em pequenas sentenças sapienciais, a substância do Sermão da Montanha. A célebre máxima "a fé sem obras é morta" (Tg 2:17) é a versão apostólica do critério kardequiano "fora da caridade não há salvação" ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV) e da [[wiki/conceitos/parabola-da-figueira-seca|parábola da figueira seca]] ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIX).
+> Dos textos do NT, Tiago é o que linguisticamente mais se aproxima da moral evangélica reorganizada por Kardec no [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]]. Não é tratado teológico (como Romanos), nem carta pastoral pontual (como 1 Coríntios) — é uma **homilia moral judaico-cristã** que retoma, em pequenas sentenças sapienciais, a substância do Sermão da Montanha. A célebre máxima "a fé sem obras é morta" (Tg 2:17) é a versão apostólica do critério de Kardec "fora da caridade não há salvação" ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV) e da [[wiki/conceitos/parabola-da-figueira-seca|parábola da figueira seca]] ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XIX).
 
 ## Dados bibliográficos
 

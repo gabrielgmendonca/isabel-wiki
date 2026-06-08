@@ -84,7 +84,7 @@ Toda mediunidade sonâmbula opera por desdobramento parcial; a [[wiki/conceitos/
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/emancipacao-da-alma]] — categoria kardequiana mais ampla
+- [[wiki/conceitos/emancipacao-da-alma]] — categoria de Kardec mais ampla
 - [[wiki/conceitos/perispirito]] — substrato físico do desdobramento
 - [[wiki/conceitos/onda-mental]] — vigília mental durante o sono
 - [[wiki/conceitos/emancipacao-da-alma]] — sono, sonhos, sonambulismo, êxtase, dupla vista (LE q. 400–455)

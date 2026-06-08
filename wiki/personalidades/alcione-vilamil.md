@@ -22,7 +22,7 @@ Após morte da mãe em Paris durante a varíola e perda de Damiano pela tísica,
 
 ### Em [[wiki/obras/renuncia|Renúncia]] (1944)
 
-**Vetor doutrinário central.** Cada cena de Alcíone é um exemplum vivo da tese kardequiana de que **a missão consciente exige renúncia do conforto**, mas **não renúncia da participação no mundo**. A obra organiza-se em torno de quatro modos de exemplificação:
+**Vetor doutrinário central.** Cada cena de Alcíone é um exemplum vivo da tese de Kardec de que **a missão consciente exige renúncia do conforto**, mas **não renúncia da participação no mundo**. A obra organiza-se em torno de quatro modos de exemplificação:
 
 - **Cap. 3A (lar como primeiro santuário)** — Como governanta da família Davenport em Paris, Alcíone reformula a fé doméstica de Cirilo, Susana, Beatriz e Jaques. *"Em toda parte estamos na casa de Nosso Pai e estou certa de que virá o dia em que tomaremos por templo de Deus o mundo inteiro… O lar é o templo mais nobre, porque oferece oportunidade diária de esforço e adoração."* Convergente com LE q. 685+ (Lei do Trabalho na esfera doméstica) e ESE cap. XVII.
 - **Cap. 5B (na infância de Alcíone)** — Em Ávila, recebe da mãe e de Damiano educação evangélica. Adota [[wiki/personalidades/antero-de-oviedo|Robbie]] ainda criança escrava deformada — sem suspeitar que é a reencarnação reparadora de Antero, que havia perseguido Madalena.

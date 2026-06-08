@@ -21,7 +21,7 @@ Kardec não usa o termo, mas descreve com precisão a condição que André Luiz
 - **Vizinhança vibratória** — o Espírito atrai e é atraído por sintonia: "Toda alma é um ímã" (princípio que André Luiz formula em *Nosso Lar*; coerente com LE, q. 538–540 sobre obsessão e influência de Espíritos na vida humana).
 - **Não há fixidez** — a permanência na zona é proporcional ao trabalho de reparação que o próprio Espírito realiza; o Pai não condena, o Espírito condena-se "a si mesmo" (C&I, 1ª parte, cap. VII).
 
-Em síntese: o Umbral, na ótica kardequiana, é o estado dos Espíritos sofredores e perturbados que rondam a Terra — descrito por categoria moral, não por geografia.
+Em síntese: o Umbral, na ótica de Kardec, é o estado dos Espíritos sofredores e perturbados que rondam a Terra — descrito por categoria moral, não por geografia.
 
 ## Desdobramentos
 
@@ -80,7 +80,7 @@ Ver [[wiki/obras/acao-e-reacao]] e [[wiki/personalidades/druso]].
 
 ### O "Vale dos Suicidas" (*Memórias de um Suicida*, Camilo Castelo Branco / Yvonne Pereira, 1955)
 
-Anterior à fixação do termo "Umbral" por André Luiz, *[[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]]* já descrevia uma **região umbralina específica do [[wiki/conceitos/suicidio|suicida]]**: o **Vale dos Suicidas**, labirinto de cavernas e lodaçais habitado por "mortos-vivos" ainda atados ao corpo em decomposição. O quadro confirma os mesmos traços doutrinários do Umbral kardequiano e andreluiziano:
+Anterior à fixação do termo "Umbral" por André Luiz, *[[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]]* já descrevia uma **região umbralina específica do [[wiki/conceitos/suicidio|suicida]]**: o **Vale dos Suicidas**, labirinto de cavernas e lodaçais habitado por "mortos-vivos" ainda atados ao corpo em decomposição. O quadro confirma os mesmos traços doutrinários do Umbral de Kardec e andreluiziano:
 
 - **Construção mental e vibratória** — as cenas de horror são "criadas pelos nossos próprios pensamentos distanciados da Luz e do Amor de Deus", adensadas por obsessores que se fingem juízes infernais (a mesma tese de Druso, "erguido e cultivado pela mente humana").
 - **Não é eterno** — "o Vale Sinistro apenas representa um estágio temporário"; a permanência dura, em regra, "o tempo que ainda lhes restava para conclusão do compromisso da existência que prematuramente cortaram", até que o suicida se "desanimalize" dos fluidos vitais que o atam ao corpo.
@@ -92,13 +92,13 @@ A obra nomeia ainda esse limiar de "umbral do Além", "antecâmara" onde o recé
 
 - **Em palestra** — usar o Umbral para explicar concretamente, sem inferno eterno, o que ocorre com Espíritos atados à matéria após a morte. Sempre nomear que se trata de extensão descritiva (André Luiz / Chico Xavier), articulada com C&I, cap. IV–V de Kardec.
 - **Pastoralmente** — o conceito é eficaz contra o medo da morte e contra o pavor moral religioso: a saída existe, é sempre possível, e a prece sincera é o gatilho. Cf. André Luiz, *Nosso Lar*, cap. 1.
-- **Discernimento** — ao ler autores que falam de "Umbral", checar se o uso permanece dentro do quadro kardequiano (causa e efeito, livre-arbítrio, livre saída por reforma íntima) ou se descamba para cosmologia paralela (esoterismos, dogmas fixos sobre tempo de permanência, geografias precisas). Tudo o que vai além de C&I sem âncora em Kardec é especulação, não doutrina.
+- **Discernimento** — ao ler autores que falam de "Umbral", checar se o uso permanece dentro do quadro de Kardec (causa e efeito, livre-arbítrio, livre saída por reforma íntima) ou se descamba para cosmologia paralela (esoterismos, dogmas fixos sobre tempo de permanência, geografias precisas). Tudo o que vai além de C&I sem âncora em Kardec é especulação, não doutrina.
 
 ## Páginas relacionadas
 
 - [[wiki/conceitos/colonia-espiritual]] — colônias de socorro situadas vizinhas ao Umbral
 - [[wiki/conceitos/escala-espirita]] — terceira ordem (Espíritos imperfeitos)
-- [[wiki/conceitos/erraticidade]] — estado errante na codificação kardequiana
+- [[wiki/conceitos/erraticidade]] — estado errante na codificação de Kardec
 - [[wiki/conceitos/morte]] — perturbação pós-morte (LE, q. 149–165)
 - [[wiki/conceitos/obsessao]] — porta de entrada do contato com Espíritos do Umbral
 - [[wiki/obras/ceu-e-inferno]] — Espíritos sofredores e suicidas (2ª parte, caps. IV–V)

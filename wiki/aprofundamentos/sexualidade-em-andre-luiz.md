@@ -10,7 +10,7 @@ status: rascunho
 
 ## Contexto doutrinário
 
-A doutrina kardequiana trata da sexualidade pelo eixo da **Lei de Reprodução** (LE, q. 686–701), em formulação sucinta: a reprodução é lei natural; sua finalidade é a perpetuação dos seres; o instinto sexual existe para que essa lei se cumpra; obstáculos voluntários à reprodução são contrários à natureza, exceto quando ditados pela razão e pelo bem (ex.: celibato como dedicação religiosa, q. 695–697). A pluralidade dos sexos é tratada brevemente em q. 200–201 (sexo como adequação a funções, sem distinção de natureza espiritual). O matrimônio é "progresso da humanidade" e o adultério "contravenção à lei de Deus" (q. 695–696, q. 822).
+A doutrina de Kardec trata da sexualidade pelo eixo da **Lei de Reprodução** (LE, q. 686–701), em formulação sucinta: a reprodução é lei natural; sua finalidade é a perpetuação dos seres; o instinto sexual existe para que essa lei se cumpra; obstáculos voluntários à reprodução são contrários à natureza, exceto quando ditados pela razão e pelo bem (ex.: celibato como dedicação religiosa, q. 695–697). A pluralidade dos sexos é tratada brevemente em q. 200–201 (sexo como adequação a funções, sem distinção de natureza espiritual). O matrimônio é "progresso da humanidade" e o adultério "contravenção à lei de Deus" (q. 695–696, q. 822).
 
 Kardec **não desenvolve** uma fisiologia sutil da sexualidade nem entra em detalhes sobre aborto, divórcio (em discussão na França do II Império) ou desejo. O Pentateuco fixa princípios morais; a aplicação fina fica para o estudante.
 
@@ -28,7 +28,7 @@ Treze anos antes do tratado anatômico de 1958, André Luiz registra na voz de A
 
 Três corolários estruturam a doutrina posterior:
 
-- **O sexo é princípio cósmico, não atributo orgânico.** "Essa 'união de qualidades', entre os astros, chama-se magnetismo planetário da atração, entre as almas denomina-se amor, entre os elementos químicos é conhecida por afinidade" (cap. 13). A formulação articula reprodução biológica, gravitação, afinidade química e amor entre almas como **manifestações da mesma lei**. Em chave kardequiana, é desdobramento de LE q. 200–202 ("os Espíritos não têm sexo no sentido que entendeis").
+- **O sexo é princípio cósmico, não atributo orgânico.** "Essa 'união de qualidades', entre os astros, chama-se magnetismo planetário da atração, entre as almas denomina-se amor, entre os elementos químicos é conhecida por afinidade" (cap. 13). A formulação articula reprodução biológica, gravitação, afinidade química e amor entre almas como **manifestações da mesma lei**. À luz de Kardec, é desdobramento de LE q. 200–202 ("os Espíritos não têm sexo no sentido que entendeis").
 - **Fecundações físicas e fecundações psíquicas.** "Há fecundações físicas e fecundações psíquicas. [...] As segundas, porém, prescindem do cárcere de limitações e efetuam-se nos resplandecentes domínios da alma, em processo maravilhoso de eternidade" (cap. 13). O apostolado intelectual, científico e artístico é **produzido por fecundações psíquicas** entre Espíritos afins — princípio que articula virtude criadora à mesma matriz que sustenta a procriação biológica. Princípio recusa tanto o reducionismo materialista quanto o ascetismo abstencionista.
 - **Continuum eros–ágape.** "Os homens e as mulheres, cuja alma se vai libertando dos cativeiros da forma física, escapam, gradativamente, do império absoluto das sensações carnais. [...] Aprendem a trocar os valores divinos da alma, entre si, alimentando-se reciprocamente, através de permutas magnéticas" (cap. 13). A sublimação não é repressão; é trânsito gradual da intimidade orgânica à comunhão espiritual, sem ruptura entre os dois regimes.
 
@@ -70,7 +70,7 @@ Cada escola descreve corretamente um andar da casa mental sem reconhecer o todo.
 
 > "Todos os seres que conhecemos, do verme ao anjo, são herdeiros da Divindade que nos confere a existência, e todos somos depositários de faculdades criadoras. O vegetal, instigado pelo heliotropismo, surge na paisagem, distribuindo a vida e renovando-a. O pirilampo cintila na sombra, buscando perpetuar-se. O batráquio sente vibrações de amor e de paternidade nos recessos do charco. Aves minúsculas viajam longas distâncias, colhendo material para tecer um ninho. A fera olvida a índole selvagínea, ao lamber, com ternura, um filho recém-nato." (cap. 11)
 
-Articulação entre Lei de Reprodução kardequiana e narrativa evolucionista: o impulso criador percorre todos os reinos, do heliotropismo vegetal à angelitude, sem rupturas — apenas graus.
+Articulação entre Lei de Reprodução de Kardec e narrativa evolucionista: o impulso criador percorre todos os reinos, do heliotropismo vegetal à angelitude, sem rupturas — apenas graus.
 
 #### (d) Antecipação 1947 sobre identidade sexual e biotecnologia
 
@@ -135,7 +135,7 @@ Princípios operativos:
 2. **Admitir como mal menor**: nos "casos especiais", em que ele evita males maiores.
 3. **Lembrar o continuum cármico**: "os devedores de hoje voltarão amanhã ao acerto das próprias contas".
 
-A leitura é **moralmente coerente** com a posição kardequiana sobre adultério e seriedade do compromisso (LE, q. 695–696, q. 822), mas vai além ao desencorajar facilitação legal — passagem que precisa ser lida no contexto histórico de 1958 (no Brasil, divórcio só foi instituído em 1977).
+A leitura é **moralmente coerente** com a posição de Kardec sobre adultério e seriedade do compromisso (LE, q. 695–696, q. 822), mas vai além ao desencorajar facilitação legal — passagem que precisa ser lida no contexto histórico de 1958 (no Brasil, divórcio só foi instituído em 1977).
 
 ### 5. Aborto (parte II, caps. 13–14)
 
@@ -187,7 +187,7 @@ A tese é coerente com Kardec ([[wiki/conceitos/leis-morais/lei-de-causa-e-efeit
 
 #### (b) Possessão partilhada (Parte 1, cap. 8) — categoria fenomenológica nova
 
-Acrescentando à tipologia kardequiana das três formas de obsessão (LM cap. XXIII), André Luiz registra uma **quarta configuração**, qualitativamente distinta: o encarnado **consente prazerosamente** na invasão do obsessor desencarnado, e ambos compartilham sensações, impulsos e responsabilidade — "dois seres num corpo só" — em "quotas iguais" de culpa.
+Acrescentando à tipologia de Kardec das três formas de obsessão (LM cap. XXIII), André Luiz registra uma **quarta configuração**, qualitativamente distinta: o encarnado **consente prazerosamente** na invasão do obsessor desencarnado, e ambos compartilham sensações, impulsos e responsabilidade — "dois seres num corpo só" — em "quotas iguais" de culpa.
 
 > "E afirmamos 'possessão partilhada', porque, efetivamente, ali, um aspirava ardentemente aos objetivos desonestos do outro, completando-se, euforicamente, na divisão da responsabilidade em quotas iguais." (André Luiz, *Sexo e Destino*, Parte 1, cap. 8)
 
@@ -240,7 +240,7 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação s
 
 **Tema controverso e relevante** para palestras em casa espírita: a posição de cada autor reflete sua época e seu papel; a doutrina viva exige discernimento, hierarquia (Pentateuco prevalece) e prudência pastoral.
 
-**Pontos para a casa espírita** (compatíveis com tom kardequiano e cautela ética):
+**Pontos para a casa espírita** (compatíveis com tom de Kardec e cautela ética):
 
 - O sexo é função do veículo, não atributo do Espírito — combate sólido a preconceitos de gênero pela doutrina.
 - A sublimação é caminho de progresso, não negação biológica — coerente com [[wiki/conceitos/perfeicao-moral]].
@@ -254,14 +254,14 @@ A doutrina é coerente com Kardec em substância, conservadora em formulação s
 - [[wiki/conceitos/energia-sexual]] — fio conceitual transversal (Kardec + Emmanuel + André Luiz)
 - [[wiki/conceitos/centros-vitais]] — centro genésico em foco
 - [[wiki/conceitos/perispirito]] — substrato da sexualidade
-- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — base kardequiana
+- [[wiki/conceitos/leis-morais/lei-de-reproducao]] — base de Kardec
 - [[wiki/conceitos/reencarnacao]] — escolha de sexo e contas a acertar
 - [[wiki/conceitos/planejamento-reencarnatorio]] — reconciliação espiritual prévia à concepção; mapas cromossômicos; condição homossexual ou intersexo como tarefa programada
 - [[wiki/conceitos/expiacao-e-reparacao]] — sequelas e oportunidades de resgate
 - [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] — base das consequências orgânicas
 - [[wiki/conceitos/perfeicao-moral]] — sublimação como meta
 - [[wiki/conceitos/possessao-partilhada]] — quarta categoria fenomenológica de obsessão (acréscimo a LM cap. XXIII)
-- [[wiki/conceitos/obsessao]] — quadro kardequiano em três graus com o qual a possessão partilhada contrasta
+- [[wiki/conceitos/obsessao]] — quadro de Kardec em três graus com o qual a possessão partilhada contrasta
 - [[wiki/conceitos/vampirismo-espiritual]] — fenômeno correlato
 - [[wiki/conceitos/casa-mental]] — modelo dos três andares mapeado sobre a tipologia psicanalítica
 - [[wiki/obras/missionarios-da-luz]] — formulação cosmológica matriz (cap. 13)

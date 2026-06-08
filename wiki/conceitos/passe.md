@@ -24,7 +24,7 @@ A condição operatória é dupla: **vontade firme** do passista de fazer o bem,
 
 **ESE, cap. XXVIII — Coletânea de preces.** Inclui prece para a saúde dos doentes ("O homem foi colocado pela natureza em condições próprias para a conservação do corpo") e remete o tratamento dos enfermos à articulação entre prece, fé e auxílio espiritual.
 
-A síntese kardequiana: o passe não é técnica externa que se aplica ao paciente; é **prolongamento da disposição moral do passista**, mediada pelos fluidos. Por isso a regra de Kardec sobre o caráter do médium curador (LM, cap. XX) — sem boa moral, a transmissão se degrada.
+A síntese de Kardec: o passe não é técnica externa que se aplica ao paciente; é **prolongamento da disposição moral do passista**, mediada pelos fluidos. Por isso a regra de Kardec sobre o caráter do médium curador (LM, cap. XX) — sem boa moral, a transmissão se degrada.
 
 ## Paralelo bíblico
 
@@ -35,7 +35,7 @@ A imposição de mãos é prática regular nos Evangelhos e nos Atos:
 - Paulo, em Malta, impõe as mãos sobre o pai de Públio e o cura (At 28:8);
 - A imposição de mãos faz parte da consagração de obreiros (At 6:6; 13:3).
 
-A continuidade entre o gesto evangélico-apostólico e o passe espírita é explícita em Kardec — a diferença está apenas no enquadramento doutrinário: a Igreja institucionalizou o gesto como sacramento; o Espiritismo o devolveu à condição de **lei natural dos fluidos** acessível a qualquer pessoa de boa vontade e moralidade. Ver [[wiki/divergencias/sinais-de-marcos-16]] sobre a leitura kardequiana dos sinais prometidos aos crentes.
+A continuidade entre o gesto evangélico-apostólico e o passe espírita é explícita em Kardec — a diferença está apenas no enquadramento doutrinário: a Igreja institucionalizou o gesto como sacramento; o Espiritismo o devolveu à condição de **lei natural dos fluidos** acessível a qualquer pessoa de boa vontade e moralidade. Ver [[wiki/divergencias/sinais-de-marcos-16]] sobre a leitura de Kardec dos sinais prometidos aos crentes.
 
 ## Modalidades em *Os Mensageiros*
 

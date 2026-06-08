@@ -51,7 +51,7 @@ Estrutura clássica das paulinas do cativeiro: dogmática (caps. 1–2) + paren�
 Quatro afirmações nucleares: (a) Cristo é imagem do Deus invisível; (b) através dele foram criadas todas as coisas; (c) ele preexiste a todas as coisas e nele tudo subsiste; (d) ele é a cabeça da Igreja, primogênito entre os ressuscitados, plenitude da divindade.
 
 > [!warning] Divergência com Kardec — leitura literal de Cl 1:16
-> A leitura literal de "**nele foram criadas todas as coisas... Tudo foi criado por ele e para ele**" (Cl 1:16) contrasta com a doutrina kardequiana de Deus como **única causa primária**: "Foi sempre Deus, é Deus, será Deus quem todas as criou" (Gênese cap. I, item 5; cf. LE q. 14). Jesus, em Kardec, é Espírito puro do **mais alto grau** ([[wiki/personalidades/jesus]]; LE q. 625; ESE Introdução, item I), não co-criador no sentido de causa primária.
+> A leitura literal de "**nele foram criadas todas as coisas... Tudo foi criado por ele e para ele**" (Cl 1:16) contrasta com a doutrina de Kardec sobre Deus como **única causa primária**: "Foi sempre Deus, é Deus, será Deus quem todas as criou" (Gênese cap. I, item 5; cf. LE q. 14). Jesus, em Kardec, é Espírito puro do **mais alto grau** ([[wiki/personalidades/jesus]]; LE q. 625; ESE Introdução, item I), não co-criador no sentido de causa primária.
 >
 > A leitura espírita harmonizadora vem por dois caminhos:
 >

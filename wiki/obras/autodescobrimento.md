@@ -44,7 +44,7 @@ A ancoragem em [[wiki/personalidades/allan-kardec]] aparece explicitamente no en
 > "Preocupado com a etapa terminal do processo da evolução e com profunda visão psicológica, Allan Kardec interrogou os mensageiros nobres que o assistiam na elaboração da Doutrina Espírita: — *O que fica sendo o Espírito depois de sua última reencarnação?* E eles responderam: — *Espírito bem-aventurado; puro Espírito.*"
 
 > [!note] Sobre o vocabulário oriental e psicológico
-> A obra recorre a vocabulário transpessoal (ego, self, individuação, *insight*) e oriental (chakras, yin-yang, *raga*/paixão no conceito budista, samsara, Mahabharata como alegoria das pândavas vs. kauravas no campo de batalha da consciência), citando ainda Maslow, Grof, Frankl, Kübler-Ross, Tart, Coleman, Freud, Jung, Adler, Janet, Pavlov, William James e Mira y Lopez. Como em *O Ser Consciente*, este vocabulário funciona como **ponte conceitual** com a Quarta Força — não como adoção doutrinária. A base estrutural permanece kardequiana (tripé Espírito-perispírito-corpo, reencarnação como método, Lei de Causa e Efeito, livre-arbítrio).
+> A obra recorre a vocabulário transpessoal (ego, self, individuação, *insight*) e oriental (chakras, yin-yang, *raga*/paixão no conceito budista, samsara, Mahabharata como alegoria das pândavas vs. kauravas no campo de batalha da consciência), citando ainda Maslow, Grof, Frankl, Kübler-Ross, Tart, Coleman, Freud, Jung, Adler, Janet, Pavlov, William James e Mira y Lopez. Como em *O Ser Consciente*, este vocabulário funciona como **ponte conceitual** com a Quarta Força — não como adoção doutrinária. A base estrutural permanece a de Kardec (tripé Espírito-perispírito-corpo, reencarnação como método, Lei de Causa e Efeito, livre-arbítrio).
 
 ## Estrutura por parte
 

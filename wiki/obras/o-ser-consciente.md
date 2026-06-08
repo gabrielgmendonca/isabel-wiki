@@ -31,7 +31,7 @@ O livro propõe uma síntese entre a **Quarta Força em Psicologia** — Psicolo
 O ponto de ancoragem de Kardec é explícito. A obra retoma **LE, q. 919** — "Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da Antiguidade vo-lo disse: Conhece-te a ti mesmo" — e o longo comentário de Santo Agostinho que a segue, transformando-os em programa terapêutico. Em nota da própria autora espiritual, ainda referencia **LE, q. 621** sobre a lei de Deus inscrita na consciência.
 
 > [!note] Sobre o vocabulário oriental
-> Joanna recorre frequentemente a termos do hinduísmo, budismo e taoísmo (*samadhi*, *nirvana*, *deus interno*, "Consciência Cósmica", *roda de samsara*) e cita Buda, Vivekananda, Ramakrishna e os taoístas tibetanos como contribuintes para a "revisão dos parâmetros aceitos". Este vocabulário funciona como **ponte conceitual** com a Quarta Força, não como adoção doutrinária — a base estrutural permanece kardequiana (tripé Espírito-perispírito-corpo, reencarnação como método de progresso, lei de causa e efeito como fundamento moral, livre-arbítrio como condição da reabilitação).
+> Joanna recorre frequentemente a termos do hinduísmo, budismo e taoísmo (*samadhi*, *nirvana*, *deus interno*, "Consciência Cósmica", *roda de samsara*) e cita Buda, Vivekananda, Ramakrishna e os taoístas tibetanos como contribuintes para a "revisão dos parâmetros aceitos". Este vocabulário funciona como **ponte conceitual** com a Quarta Força, não como adoção doutrinária — a base estrutural permanece a de Kardec (tripé Espírito-perispírito-corpo, reencarnação como método de progresso, lei de causa e efeito como fundamento moral, livre-arbítrio como condição da reabilitação).
 
 ## Estrutura por partes
 

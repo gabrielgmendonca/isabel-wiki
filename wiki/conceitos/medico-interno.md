@@ -34,7 +34,7 @@ ESE cap. V, item 12, explicita o princípio terapêutico no exemplo de Jesus: *"
 
 ### Tripé Espírito-perispírito-corpo
 
-A tese pressupõe a antropologia kardequiana fundamental: o Espírito comanda; o [[wiki/conceitos/perispirito]] organiza; o corpo executa. Na obra de Joanna, esta hierarquia é o esqueleto sobre o qual a Psiconeuroimunologia contemporânea encontra explicação espírita.
+A tese pressupõe a antropologia de Kardec fundamental: o Espírito comanda; o [[wiki/conceitos/perispirito]] organiza; o corpo executa. Na obra de Joanna, esta hierarquia é o esqueleto sobre o qual a Psiconeuroimunologia contemporânea encontra explicação espírita.
 
 ## Desdobramentos
 
@@ -60,7 +60,7 @@ A formulação tem corolário doutrinário decisivo. Joanna abre o cap. 20 com u
 
 > "O conceito sobre essa Divindade, punitiva e cruel, encontra-se defasado diante da nova compreensão do amor… Jamais a Consciência Cósmica se imiscuiria mediante atos de perversidade, aplicados contra as frágeis criaturas humanas."
 
-Nem toda enfermidade é processo cármico — muitas são **consequências da invigilância, da irresponsabilidade, do desamor**. Essa distinção está alinhada à doutrina kardequiana das penas pedagógicas (LE q. 1009-1010; C&I 1ª parte caps. VI-VII) e à tipologia tríplice da [[wiki/conceitos/dor]] (dor-evolução, dor-expiação, dor-auxílio, em André Luiz; dor-elevação, dor-conquista, dor-resgate, em Joanna): nem toda dor é "está pagando alguma coisa".
+Nem toda enfermidade é processo cármico — muitas são **consequências da invigilância, da irresponsabilidade, do desamor**. Essa distinção está alinhada à doutrina de Kardec das penas pedagógicas (LE q. 1009-1010; C&I 1ª parte caps. VI-VII) e à tipologia tríplice da [[wiki/conceitos/dor]] (dor-evolução, dor-expiação, dor-auxílio, em André Luiz; dor-elevação, dor-conquista, dor-resgate, em Joanna): nem toda dor é "está pagando alguma coisa".
 
 ## Aplicação prática
 

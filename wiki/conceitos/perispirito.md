@@ -88,7 +88,7 @@ O "tabernáculo" (corpo físico, morada provisória) e a "casa eterna não feita
 
 > "Qual o terreno, tais são também os terrestres; e, qual o celestial, tais também os celestiais." (1 Co 15:48)
 
-A diferenciação paulina dos "corpos" segundo o "mundo" habitado articula-se com a doutrina kardequiana da **variação do perispírito conforme o mundo** (Gênese, cap. XIV, item 8 — "os elementos constitutivos do perispírito naturalmente variam, conforme os mundos") e conforme o **grau moral** do Espírito (Gênese, cap. XIV, item 10 — "a constituição íntima do perispírito não é idêntica em todos os Espíritos"). Ver [[wiki/obras/primeira-epistola-aos-corintios]].
+A diferenciação paulina dos "corpos" segundo o "mundo" habitado articula-se com a doutrina de Kardec da **variação do perispírito conforme o mundo** (Gênese, cap. XIV, item 8 — "os elementos constitutivos do perispírito naturalmente variam, conforme os mundos") e conforme o **grau moral** do Espírito (Gênese, cap. XIV, item 10 — "a constituição íntima do perispírito não é idêntica em todos os Espíritos"). Ver [[wiki/obras/primeira-epistola-aos-corintios]].
 
 ## No C&I — papel na passagem
 
@@ -143,7 +143,7 @@ Na seção sobre fotografia e telegrafia do pensamento, Kardec desenvolve que ca
 
 O cap. 4 de *[[wiki/obras/recordacoes-da-mediunidade|Recordações da Mediunidade]]* ("Os arquivos da alma") fundamenta a memória reencarnatória no perispírito, que "arquiva em seus refolhos [...] todos os acontecimentos, todos os fatos, atos, sensações" — testemunho que [[wiki/personalidades/yvonne-pereira|Yvonne Pereira]] alinha a Kardec ("mesmo encarnado, adormecido o corpo, [...] o Espírito tem consciência de seus atos anteriores", ESE, cap. V, item 11) e a [[wiki/personalidades/leon-denis|Léon Denis]] (*Depois da Morte*, cap. 23: o perispírito "conserva, sob suas aparências presentes, os vestígios das vidas anteriores"). Daí as [[wiki/questoes/esquecimento-do-passado|reminiscências]] que afloram em transe ou choque.
 
-A obra acrescenta uma ilustração marcante da **correlação perispírito–corpo**: num transe de dois meses (1942), Yvonne relata ter sido submetida por médicos espirituais a uma "operação" no perispírito — a religadura de "fibras luminosas" rompidas à altura do coração, cujo dano se refletia como dor cardíaca sem causa orgânica detectável. O episódio dramatiza o princípio kardequiano de que o perispírito é o transmissor entre alma e corpo (LE, q. 135): a lesão no envoltório fluídico repercute no físico, e a restauração daquele alivia este. (Testemunho mediúnico nível 3, ilustrativo — não substitui a fundamentação em Gênese, cap. XIV.)
+A obra acrescenta uma ilustração marcante da **correlação perispírito–corpo**: num transe de dois meses (1942), Yvonne relata ter sido submetida por médicos espirituais a uma "operação" no perispírito — a religadura de "fibras luminosas" rompidas à altura do coração, cujo dano se refletia como dor cardíaca sem causa orgânica detectável. O episódio dramatiza o princípio de Kardec de que o perispírito é o transmissor entre alma e corpo (LE, q. 135): a lesão no envoltório fluídico repercute no físico, e a restauração daquele alivia este. (Testemunho mediúnico nível 3, ilustrativo — não substitui a fundamentação em Gênese, cap. XIV.)
 
 ## Páginas relacionadas
 

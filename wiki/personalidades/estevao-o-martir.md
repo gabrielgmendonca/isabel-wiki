@@ -14,7 +14,7 @@ Estêvão (*Stephanos*, "coroa") foi um dos **sete diáconos** escolhidos pela c
 
 ## Papel
 
-Acusado falsamente de blasfêmia contra o Templo e a Lei (At 6:11–14), Estêvão profere diante do Sinédrio o mais longo discurso de [[wiki/obras/atos-dos-apostolos|Atos]] (At 7:2–53) — recapitulação da história sagrada de Abraão a Salomão, culminando na tese: **"o Altíssimo não habita em templos feitos por mãos de homens"** (At 7:48). A mesma tese será retomada por Paulo no Areópago (At 17:24) e é coerente com a doutrina kardequiana da **adoração em espírito** (ESE, cap. XVII; LE, q. 658–664).
+Acusado falsamente de blasfêmia contra o Templo e a Lei (At 6:11–14), Estêvão profere diante do Sinédrio o mais longo discurso de [[wiki/obras/atos-dos-apostolos|Atos]] (At 7:2–53) — recapitulação da história sagrada de Abraão a Salomão, culminando na tese: **"o Altíssimo não habita em templos feitos por mãos de homens"** (At 7:48). A mesma tese será retomada por Paulo no Areópago (At 17:24) e é coerente com a doutrina de Kardec da **adoração em espírito** (ESE, cap. XVII; LE, q. 658–664).
 
 ## Traços doutrinários relevantes
 

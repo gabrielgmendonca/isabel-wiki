@@ -227,7 +227,7 @@ Autores e Espíritos comunicantes cujas obras **aprofundam, ilustram e expandem*
 #### Critério de inclusão
 
 Um autor ou Espírito comunicante entra neste nível quando:
-- Suas obras demonstram fidelidade aos princípios da codificação kardequiana.
+- Suas obras demonstram fidelidade aos princípios da codificação de Kardec.
 - São reconhecidos pelo movimento espírita como continuadores legítimos da obra de Kardec.
 - Acrescentam detalhes, exemplos, aplicações práticas ou aprofundamentos que o Pentateuco não cobre — sem contradizer seus fundamentos.
 
@@ -251,7 +251,7 @@ A análise detalhada de cada apóstolo encontra-se na seção "Fonte primordial"
 
 Fontes que **não são ingeridas na wiki sem confirmação explícita do usuário**:
 
-- **Umbanda, Candomblé** — tradições afro-brasileiras com cosmologia e ritualística próprias, distintas da codificação kardequiana.
+- **Umbanda, Candomblé** — tradições afro-brasileiras com cosmologia e ritualística próprias, distintas da codificação de Kardec.
 - **Ramatís** — entidade cuja mediunidade (Hercílio Maes) mistura elementos teosóficos e orientalistas que divergem significativamente do Pentateuco.
 - **Teosofia, antroposofia, rosacruzes, ocultismo** — correntes espiritualistas com pressupostos e métodos distintos dos do Espiritismo codificado.
 - **New Age** — movimento eclético sem base doutrinária definida.
@@ -265,7 +265,7 @@ A exclusão não implica juízo de valor sobre essas tradições — apenas deli
 
 ### Regras práticas
 
-1. **Passagem evangélica interpretada por Kardec** → a interpretação kardeciana é nível 1.
+1. **Passagem evangélica interpretada por Kardec** → a interpretação de Kardec é nível 1.
 2. **Passagem evangélica não abordada por Kardec** → pode ser consultada, mas interpretada pelos princípios gerais da codificação, com consciência de que se trata de alegoria e texto historicamente mediado.
 3. **Escrito apostólico citado por Kardec** → tem o peso do contexto em que Kardec o utilizou.
 4. **Escrito apostólico não citado por Kardec** → nível 3, consultado com cautela, verificando alinhamento com o Pentateuco.

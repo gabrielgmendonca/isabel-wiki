@@ -49,7 +49,7 @@ Richet representa o **paradigma da metapsíquica científica europeia** — vert
 - [[wiki/personalidades/leon-denis]] — par contrastante (filósofo espírita que integra fenômenos à fé)
 - [[wiki/personalidades/camille-flammarion]] — par contrastante (cientista-espírita declarado)
 - [[wiki/conceitos/mediunidade]] — quadro doutrinário dos fenômenos que Richet estudou
-- [[wiki/conceitos/identidade-dos-espiritos]] — critério kardequiano que Richet não aplicou plenamente
+- [[wiki/conceitos/identidade-dos-espiritos]] — critério de Kardec que Richet não aplicou plenamente
 
 ## Fontes
 

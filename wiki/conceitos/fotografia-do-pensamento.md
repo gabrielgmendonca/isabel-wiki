@@ -10,7 +10,7 @@ status: rascunho
 
 ## Definição curta
 
-Tese kardequiana segundo a qual o pensamento, sendo uma vibração fluídica que age sobre o **fluido cósmico universal**, deixa nele uma **impressão** análoga à imagem fotográfica — em princípio captável por instrumentos sensíveis. Articula a doutrina dos fluidos do cap. XIV de [[wiki/obras/genese|*A Gênese*]] com a observação experimental dos primeiros casos de fotografia espírita do final do século XIX.
+Tese de Kardec segundo a qual o pensamento, sendo uma vibração fluídica que age sobre o **fluido cósmico universal**, deixa nele uma **impressão** análoga à imagem fotográfica — em princípio captável por instrumentos sensíveis. Articula a doutrina dos fluidos do cap. XIV de [[wiki/obras/genese|*A Gênese*]] com a observação experimental dos primeiros casos de fotografia espírita do final do século XIX.
 
 ## Ensino de Kardec
 
@@ -43,7 +43,7 @@ Posição cautelosa de Kardec: **distinguir** a fotografia mediúnica autêntica
 
 ### 3. "Telegrafia do pensamento"
 
-O ensaio de [[wiki/obras/obras-postumas|*Obras Póstumas*]] articula fotografia e telegrafia: o mesmo princípio fluídico que permite **registrar** o pensamento (fotografia) permite **transmiti-lo a distância** (telegrafia, isto é, comunicação direta de pensamento entre dois pontos). A telegrafia do pensamento é o nome kardequiano para o que mais tarde se chamará telepatia.
+O ensaio de [[wiki/obras/obras-postumas|*Obras Póstumas*]] articula fotografia e telegrafia: o mesmo princípio fluídico que permite **registrar** o pensamento (fotografia) permite **transmiti-lo a distância** (telegrafia, isto é, comunicação direta de pensamento entre dois pontos). A telegrafia do pensamento é o nome de Kardec para o que mais tarde se chamará telepatia.
 
 ### 4. Limites e cautelas
 
@@ -52,7 +52,7 @@ A página de [[wiki/conceitos/maravilhoso-e-sobrenatural]] determina o tratament
 ## Aplicação prática
 
 - **Estudo de palestra sobre fluidos**: a fotografia do pensamento é exemplo concreto que torna palpável a doutrina abstrata do fluido cósmico universal.
-- **Avaliação de fenômenos contemporâneos** (psicografia, psicofonia, transcomunicação instrumental): aplicar o princípio kardequiano da hipótese prudente — assimilar quando demonstrado, descartar quando refutado, suspender juízo quando indeterminado.
+- **Avaliação de fenômenos contemporâneos** (psicografia, psicofonia, transcomunicação instrumental): aplicar o princípio de Kardec da hipótese prudente — assimilar quando demonstrado, descartar quando refutado, suspender juízo quando indeterminado.
 - **Diálogo com ciência**: a tese articula uma ponte hipotética com a física do final do século XIX e início do XX (radiações, campos eletromagnéticos), sem reduzir o pensamento a fenômeno físico.
 
 ## Páginas relacionadas

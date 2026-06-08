@@ -299,13 +299,13 @@ O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Conclu�
 
 ---
 
-## 13. Varredura wiki-wide de "kardequiano/a" → "de Kardec"
+## 13. Varredura wiki-wide de "kardequiano/a" → "de Kardec" ✅ CONCLUÍDO (2026-06-07)
 
-> Deriva terminológica sistêmica detectada por grep em 2026-06-03: **~654 ocorrências de "kardequiano/a" em ~238 páginas** (de 670 originais; só 3 corrigidas pontualmente pelo `/critica`). Viola a regra do usuário (memória `feedback-kardequiano-vs-de-kardec`): nunca "kardequiano/a"; "kardecista" só para o movimento, não para Kardec. Dívida acumulada em toda a wiki (índices bíblicos, obras, personalidades, conceitos, divergências). **0 progresso de fundo.**
+> Deriva terminológica sistêmica detectada por grep em 2026-06-03: **~654 ocorrências de "kardequiano/a" em ~238 páginas**. Violava a regra do usuário (memória `feedback-kardequiano-vs-de-kardec`): nunca "kardequiano/a"; "kardecista" só para o movimento, não para Kardec. **Eixo fechado**: detecção + correção wiki-wide + gate de regressão. Detalhe condensado em [Concluído](#concluído).
 
-- [x] **Detecção (determinística, grátis)** (2026-06-07) — `check_kardequiano` no `lint_wiki.py` (severity `info`, fora do CI gate; mede progresso). **Data-driven** (alinhado a `feedback-checks-data-driven`): as formas proibidas vêm de `data/terminologia.json` → vocabulário `derivados-de-kardec` (mapa `evitar`), não hardcoded — adicionar/remover forma é edição de JSON. Pula corpus verbatim (Bíblia/Pentateuco), frontmatter, blockquotes (citação literal de fonte), inline code e wikilinks; `kardecista` (movimento) **não** é sinalizado. Também em `SINGLE_FILE_CHECKS` → o hook PostToolUse flagga na edição. Testes: `tests/test_lint_kardequiano.py` (14). **Baseline: 628 ocorrências em 214 páginas** (grep bruto dava 687; a diferença são blockquotes/wikilinks/corpus corretamente ignorados). Promover a `warning`/CI gate quando a contagem zerar.
-- [ ] **Correção (cuidadosa, não substituição cega):** a forma muda conforme o contexto — "leitura kardequiana" → "leitura de Kardec"; "Pentateuco kardequiano" → "Pentateuco de Kardec"; "em chave kardequiana" → "na chave de Kardec" / "à luz de Kardec"; "divisa/critério/eixo kardequiano" → reescrever. Fazer em lote por padrão sintático, revisando os casos que não encaixam no molde "de Kardec".
-- [ ] **Escopo:** ~238 páginas é grande demais para passe manual — avaliar script de substituição assistida (mapa de padrões) + revisão dos resíduos, ou lote incremental por diretório (`biblia/`, `obras/`, `conceitos/`, `personalidades/`).
+- [x] **Detecção (determinística)** (2026-06-07) — `check_kardequiano` no `lint_wiki.py`, **data-driven** (formas proibidas em `data/terminologia.json` → `derivados-de-kardec`). Promovido a **`error`/CI gate** após a contagem zerar. Testes: `tests/test_lint_kardequiano.py` (14).
+- [x] **Correção (contextual, não cega)** (2026-06-07) — **688 → 0** em toda a wiki. Molde 1 (`<núcleo>` → `de Kardec`), Molde 2 (`em chave kardequiana` → **`à luz de Kardec`**, decisão do usuário), Molde 3 (resíduo manual: adjetivo após wikilink/negrito, predicativos, negação `não-kardequiana` → `alheia a Kardec`, casos de sentido como `Espírito kardequiano` → `Espírito na acepção de Kardec`). Callouts editoriais (`> [!note]`/`[!warning]`) incluídos; citações literais de fonte preservadas.
+- [x] **Fonte do template Bíblia** (2026-06-07) — `scripts/publish_biblia_nt.py` gerava "leitura kardequiana" nos 27 `wiki/biblia/<livro>/index.md`; corrigido no gerador + nos 27 arquivos (senão regenera).
 
 ---
 
@@ -315,7 +315,7 @@ O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Conclu�
 
 - **Triagem do §11** — 66 itens diferidos do `/critica` de 2026-06-03 (já descontados os falso-positivos q. 1009/1015–1019). Cruza com o débito de rascunhos rebaixados (§10.3).
 - **Triagem dos 128 candidatos do §12** — aspas literais fabricadas em `wiki/**`.
-- **§13 sweep "kardequiano/a" → "de Kardec"** — detecção determinística **entregue** (`check_kardequiano`, 2026-06-07); baseline **628 ocorrências em 214 páginas**. Resta a **correção em lote, contextual** (não substituição cega) — viola regra dura do usuário.
+- ~~**§13 sweep "kardequiano/a" → "de Kardec"**~~ — **CONCLUÍDO (2026-06-07)**: 688 → 0 em toda a wiki + check promovido a CI gate. Ver [Concluído](#concluído).
 - **§12 Fases 1–2** — promover a verificação de aspas a gate + prevenção (`insert-quote`) fecha a torneira da fabricação na origem.
 
 ### Aberto, impacto alto — conteúdo / leitor
@@ -411,6 +411,7 @@ Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
 - Testes de `link_citations.py` (2026-05-01).
 - `check_citation_resolves` — versão leve (2026-05-21) + **promovido a `error`/CI gate** (2026-06-05, commit `39e2a33`): locus do Pentateuco que não resolve reprova o PR e bloqueia o deploy.
 - `check_literal_quote_exists` construído (2026-06-05) — info, fora do CI/hook (triagem dos 128 segue aberta, §12).
+- §13 varredura "kardequiano/a" → "de Kardec" (2026-06-07) — `check_kardequiano` data-driven (`data/terminologia.json`/`derivados-de-kardec`) promovido a `error`/CI gate; correção contextual wiki-wide 688→0 ("em chave" → "à luz de Kardec"); gerador `publish_biblia_nt.py` corrigido na fonte; `tests/test_lint_kardequiano.py` (14).
 - Workflow `/critica` — crítica doutrinária profunda (2026-05-31); vocabulários canônicos em `data/terminologia.json`.
 - Aliases canônicos para personalidades e obras (2026-05-04) — `convencoes-aliases.md` + `check_canonical_names`.
 - Uniformizar tipos de mundos habitados (2026-05-05) — `convencoes-mundos-habitados.md` + `check_mundos_habitados_naming`.

@@ -32,7 +32,7 @@ A autoridade civil ordenou o **fechamento do cemitério em 27 de janeiro de 1732
 
 ## Papel
 
-Espírito **evocado e desautorizado** quanto ao próprio culto formado em torno de seu túmulo, em **outubro de 1859** da *Revista Espírita* ("Os convulsionários de Saint-Médard"). A evocação é assinada por **Pauline Roland** (responsável pela notícia biográfica antecedente) e produz uma das interpretações kardequianas mais econômicas e cortantes da história espírita.
+Espírito **evocado e desautorizado** quanto ao próprio culto formado em torno de seu túmulo, em **outubro de 1859** da *Revista Espírita* ("Os convulsionários de Saint-Médard"). A evocação é assinada por **Pauline Roland** (responsável pela notícia biográfica antecedente) e produz uma das interpretações de Kardec mais econômicas e cortantes da história espírita.
 
 A função doutrinária é tripla:
 
@@ -76,7 +76,7 @@ Em sessão da SPEE de **01/06/1860** (publicada em [[wiki/obras/revista-espirita
 
 > *"Acusa-se de o haver caluniado, desnaturando suas intenções e pensa que a retratação feita espontaneamente poupar-lhe-á a punição que por isso merecia."* (RE, jul/1860, "Boletim" da sessão de 01/06/1860)
 
-[[wiki/personalidades/sao-luis|São Luís]] complementa a comunicação com informes sobre os mundos destinados ao castigo dos Espíritos culpados. O episódio mostra que a abordagem kardequiana ao caso continuou ativa em 1860, com revisão e aprofundamento dos pareceres formulados em out–dez/1859.
+[[wiki/personalidades/sao-luis|São Luís]] complementa a comunicação com informes sobre os mundos destinados ao castigo dos Espíritos culpados. O episódio mostra que a abordagem de Kardec ao caso continuou ativa em 1860, com revisão e aprofundamento dos pareceres formulados em out–dez/1859.
 
 ## Obras associadas
 

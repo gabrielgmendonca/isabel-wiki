@@ -56,7 +56,7 @@ NDM apresenta cinco situações mediúnicas que não se reduzem entre si:
 
 O mandato é o ápice — assume a tarefa por **delegação superior**; as demais ainda operam por necessidade de cura ou pelos fenômenos naturais da sintonia.
 
-## Raiz kardequiana
+## Raiz de Kardec
 
 O conceito não é estranho à codificação. Kardec já distingue, no [[wiki/obras/livro-dos-mediuns|Livro dos Médiuns]], entre **médiuns para si** e **médiuns para os outros**, e descreve "missões mediúnicas" sob proteção de Espíritos elevados (LM, 2ª parte, cap. XIV). André Luiz precisa o quadro: mentor fixo, instrumento fluídico do enlace (funil de luz), responsabilidade ampliada, e — crucial — **risco de queda mantido**.
 
@@ -73,7 +73,7 @@ O conceito não é estranho à codificação. Kardec já distingue, no [[wiki/ob
 - [[wiki/conceitos/educacao-mediunica]] — disciplina indispensável
 - [[wiki/conceitos/perfeicao-moral]] — meta que o mandato não dispensa
 - [[wiki/conceitos/livre-arbitrio]] — base do "podem cancelar"
-- [[wiki/obras/livro-dos-mediuns]] — referência kardequiana
+- [[wiki/obras/livro-dos-mediuns]] — referência de Kardec
 - [[wiki/obras/nos-dominios-da-mediunidade]] — obra de origem do conceito explícito
 
 ## Fontes

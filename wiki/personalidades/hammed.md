@@ -14,7 +14,7 @@ status: ativo
 
 ## Papel
 
-Hammed caracteriza-se pelo **método comentário-ao-LE**: cada reflexão psicológica se ancora literalmente em uma ou duas questões do *O Livro dos Espíritos* (tradução Guillon Ribeiro), articuladas com autores da psicologia contemporânea. Reinterpreta os "sete pecados capitais" da moralidade medieval como **"dores da alma"** — fases naturais da evolução espiritual, não condenações morais. Seu tom é didático, irênico e estritamente subordinado à codificação kardequiana.
+Hammed caracteriza-se pelo **método comentário-ao-LE**: cada reflexão psicológica se ancora literalmente em uma ou duas questões do *O Livro dos Espíritos* (tradução Guillon Ribeiro), articuladas com autores da psicologia contemporânea. Reinterpreta os "sete pecados capitais" da moralidade medieval como **"dores da alma"** — fases naturais da evolução espiritual, não condenações morais. Seu tom é didático, irênico e estritamente subordinado à codificação de Kardec.
 
 Classificado no **nível 4 da hierarquia de fontes** desta wiki (complementar secundário alinhado à codificação, útil para estudo psicológico aplicado).
 

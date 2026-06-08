@@ -27,7 +27,7 @@ Kardec lê a parábola dentro do princípio da **responsabilidade proporcional a
 
 - **"O reino de Deus vos será tirado, e será dado a uma nação que dê os seus frutos"** (Mt 21:43): na leitura espírita, a transferência é da forma religiosa decaída para o cristianismo primitivo, e depois, na transição planetária, para a Humanidade regenerada pela Doutrina Espírita (ESE, cap. III; Gênese, cap. XVIII).
 - **Morte dos enviados** ilustra a resistência das instituições estabelecidas à renovação moral — padrão que se repete a cada revelação.
-- **Ausência de castigo eterno na moral kardequiana.** Os lavradores maus serão destituídos e responsabilizados, mas continuarão o processo evolutivo em condições próprias à sua resistência (C&I, 1ª parte).
+- **Ausência de castigo eterno na moral de Kardec.** Os lavradores maus serão destituídos e responsabilizados, mas continuarão o processo evolutivo em condições próprias à sua resistência (C&I, 1ª parte).
 
 ## Aplicação prática
 

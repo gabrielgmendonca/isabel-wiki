@@ -46,7 +46,7 @@ O [[wiki/obras/apocalipse|Apocalipse]] articula em vocabulário figurado a mesma
 - **A multidão das vestes brancas vinda da grande tribulação** (Ap 7:9, 14) — *"uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas"* que *"vieram da grande tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro"*. Em chave espírita: o conjunto dos Espíritos que atravessaram as provas da transição planetária e se mantiveram fiéis à moral do Cristo — convergência total com a descrição da geração nova.
 - **A "primeira ressurreição"** (Ap 20:5–6) — *"sobre estes não tem poder a segunda morte; mas serão sacerdotes de Deus e de Cristo, e reinarão com ele mil anos"*. Não é evento cosmológico literal: é alegoria do **despertar moral** dos Espíritos que aderiram ao bem antes de tempo, exatamente o que Gênese cap. XVIII chama de "Espíritos predispostos a assimilar todas as ideias progressivas" (item 28).
 
-Confirmação metodológica: a leitura apocalíptica das passagens é **alegórica**, conforme o gênero literário; a leitura kardequiana traduz as imagens em vocabulário operacional da transição planetária (Gênese cap. XVIII; ver [[wiki/conceitos/transicao-planetaria]] e [[wiki/conceitos/nova-jerusalem]]).
+Confirmação metodológica: a leitura apocalíptica das passagens é **alegórica**, conforme o gênero literário; a leitura de Kardec traduz as imagens em vocabulário operacional da transição planetária (Gênese cap. XVIII; ver [[wiki/conceitos/transicao-planetaria]] e [[wiki/conceitos/nova-jerusalem]]).
 
 ## Aplicação prática
 

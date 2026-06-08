@@ -10,7 +10,7 @@ status: rascunho
 
 ## Definição
 
-Forma patológica de **simbiose** entre encarnados e desencarnados, em que um Espírito desencarnado (e, em casos extremos, encarnado) se alimenta da vitalidade fluídica de outro, perpetuando o vínculo por interesse, ódio, paixão ou apego. **Primeira sistematização chicoxaveriana em *Missionários da Luz*** (1945, caps. 3–5), retomada em *Entre a Terra e o Céu* (1954, caso Odila/Zulmira) e desenvolvida em chave anatômica em *Evolução em Dois Mundos* (1958, parte I, caps. 14–15). Aprofundamento da doutrina kardequiana da obsessão ([[wiki/conceitos/obsessao]]).
+Forma patológica de **simbiose** entre encarnados e desencarnados, em que um Espírito desencarnado (e, em casos extremos, encarnado) se alimenta da vitalidade fluídica de outro, perpetuando o vínculo por interesse, ódio, paixão ou apego. **Primeira sistematização chicoxaveriana em *Missionários da Luz*** (1945, caps. 3–5), retomada em *Entre a Terra e o Céu* (1954, caso Odila/Zulmira) e desenvolvida em chave anatômica em *Evolução em Dois Mundos* (1958, parte I, caps. 14–15). Aprofundamento da doutrina de Kardec da obsessão ([[wiki/conceitos/obsessao]]).
 
 > "O obsessor passa a viver no clima pessoal da vítima, em perfeita simbiose mórbida, absorvendo-lhe as forças psíquicas, situação essa que, em muitos casos, se prolonga para além da morte física do hospedeiro." (André Luiz / Chico Xavier, *Evolução em Dois Mundos*, parte I, cap. 15)
 
@@ -22,7 +22,7 @@ A obsessão e suas formas extremas — fascinação e subjugação — são trat
 - **Vingança e ódio** como motivação típica do obsessor (LM, 2ª parte, cap. XXIII, item 245).
 - **Fluidos impuros** envolvendo o obsidiado (ESE, cap. XXVIII, item 83).
 
-A teoria fluídica kardequiana — perispíritos que se "irradiam ao seu derredor" e se entrecruzam (Gênese, cap. XIV, item 18; OPE, "Manifestações dos Espíritos", §I, item 11) — fornece a base para o que André Luiz desenvolverá como circuito de **espoliação fluídica**.
+A teoria fluídica de Kardec — perispíritos que se "irradiam ao seu derredor" e se entrecruzam (Gênese, cap. XIV, item 18; OPE, "Manifestações dos Espíritos", §I, item 11) — fornece a base para o que André Luiz desenvolverá como circuito de **espoliação fluídica**.
 
 ## Desdobramentos em André Luiz
 
@@ -117,7 +117,7 @@ Princípios operativos:
 1. **Reforma íntima** do vampirizado — vibrações elevadas dispersam o circuito.
 2. **Trabalho no bem** — a "ação do bem genuíno" produz "fatores de transformação sobre aqueles que nos observam".
 3. **Prece e passe magnético** — fortalecem a defensiva do centro coronário (cf. parte II, cap. 15 de *Evolução em Dois Mundos* e [[wiki/conceitos/prece]]).
-4. **Doutrinação fraterna** — não combate, mas redireciona o vampirizador, seguindo o princípio kardequiano de "combatê-lo com suas próprias armas" (LM, 2ª parte, cap. XXIII, item 244), que são morais.
+4. **Doutrinação fraterna** — não combate, mas redireciona o vampirizador, seguindo o princípio de Kardec de "combatê-lo com suas próprias armas" (LM, 2ª parte, cap. XXIII, item 244), que são morais.
 5. **Não esperar reencarnações futuras** — "pelo devotamento ao próximo e pela humildade realmente praticada e sentida, é possível [...] atrair simpatias valiosas, com intervenções providenciais, em nosso favor" (parte I, cap. 15).
 
 ## Distinção: vampirismo vs. obsessão
@@ -130,11 +130,11 @@ O **vampirismo** é uma das modalidades possíveis de obsessão, distinguindo-se
 | Objetivo do obsessor | impor presença | impor erro | impor ato | sustentar-se da vítima |
 | Duração típica | episódica | prolongada | aguda | crônica, transgeracional |
 
-A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação prolongada** kardequiana (LM, 2ª parte, cap. XXIII, item 240), mas com a ênfase específica do **prejuízo energético** ao hospedeiro.
+A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação prolongada** de Kardec (LM, 2ª parte, cap. XXIII, item 240), mas com a ênfase específica do **prejuízo energético** ao hospedeiro.
 
 ## Páginas relacionadas
 
-- [[wiki/conceitos/obsessao]] — quadro doutrinário kardequiano
+- [[wiki/conceitos/obsessao]] — quadro doutrinário de Kardec
 - [[wiki/conceitos/centros-vitais]] — alvos do vampirismo (especialmente coronário)
 - [[wiki/conceitos/perispirito]] — substrato fluídico da espoliação
 - [[wiki/conceitos/fluidos]] — natureza dos "fluidos impuros" envolvidos
@@ -145,7 +145,7 @@ A maior parte dos vampirismos descritos por André Luiz cabe na **subjugação p
 - [[wiki/obras/no-mundo-maior]] — vampirismo dipsomaníaco (cap. 14: Antídio, vampirismo coletivo no salão de baile)
 - [[wiki/obras/evolucao-em-dois-mundos]] — anatomia funcional do circuito (parte I, caps. 14–15)
 - [[wiki/obras/entre-a-terra-e-o-ceu]] — caso Odila/Zulmira
-- [[wiki/obras/livro-dos-mediuns]] — base kardequiana (cap. XXIII)
+- [[wiki/obras/livro-dos-mediuns]] — base de Kardec (cap. XXIII)
 
 ## Fontes
 

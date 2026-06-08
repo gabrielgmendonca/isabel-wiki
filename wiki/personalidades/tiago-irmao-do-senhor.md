@@ -58,7 +58,7 @@ A tradição patrística (Hegésipo) descreve Tiago como **nazireu**: não bebia
 
 ## Como Kardec o lê
 
-Tiago é referenciado por Kardec sobretudo pelo eixo **fé viva = obras**. A própria divisa "Fora da caridade não há salvação" (ESE cap. XV) é a versão kardequiana, em chave moral universal, do "a fé sem obras é morta" de Tg 2:17. Kardec não cita Tiago tão frequentemente quanto cita Paulo, mas a substância da carta de Tiago **satura** o tom do ESE: caridade prática, recusa da acepção de pessoas, domínio da palavra, humildade, paciência na prova.
+Tiago é referenciado por Kardec sobretudo pelo eixo **fé viva = obras**. A própria divisa "Fora da caridade não há salvação" (ESE cap. XV) é a versão de Kardec, em chave moral universal, do "a fé sem obras é morta" de Tg 2:17. Kardec não cita Tiago tão frequentemente quanto cita Paulo, mas a substância da carta de Tiago **satura** o tom do ESE: caridade prática, recusa da acepção de pessoas, domínio da palavra, humildade, paciência na prova.
 
 Ver [[wiki/sinteses/hierarquia-de-autoridade]] — escritos apostólicos como nível 3, citados seletivamente por Kardec à luz do Pentateuco.
 

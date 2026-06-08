@@ -33,7 +33,7 @@ Argumentação em quatro movimentos:
 3. **Acusação direta:** "Conspurcais a fonte das bênçãos, amaldiçoando-vos uns aos outros, invocando, para isso, o Príncipe da Paz, que, para ajudar-nos, não hesitou ante a própria morte afrontosa."
 4. **Programa positivo:** "Não limiteis, portanto, a demonstração da confiança no Altíssimo aos cerimoniais do culto externo. Varrei a indiferença que vos enregela as basílicas suntuosas. Convertamo-nos em verdadeiros irmãos uns dos outros. Transformemos a igreja no doce lar da família cristã, quaisquer que sejam as nossas interpretações."
 
-A preleção articula a hierarquia de fontes da wiki ([[wiki/sinteses/hierarquia-de-autoridade]]) à crítica espírita do dogmatismo confessional — não recusa o cristianismo das igrejas, recusa o sectarismo que o desfigura. Posição compatível com o tratamento kardequiano do tema em ESE cap. XV ("Fora da caridade não há salvação") e cap. XVII ("Sede perfeitos").
+A preleção articula a hierarquia de fontes da wiki ([[wiki/sinteses/hierarquia-de-autoridade]]) à crítica espírita do dogmatismo confessional — não recusa o cristianismo das igrejas, recusa o sectarismo que o desfigura. Posição compatível com o tratamento de Kardec do tema em ESE cap. XV ("Fora da caridade não há salvação") e cap. XVII ("Sede perfeitos").
 
 ### Função institucional na obra
 
@@ -61,7 +61,7 @@ Embora apareça pessoalmente apenas nos capítulos iniciais, Eusébio é a **aut
 - [[wiki/personalidades/cipriana]] — diretora das expedições às cavernas; recebe sugestões diretas de Eusébio
 - [[wiki/personalidades/andre-luiz]] — discípulo
 - [[wiki/personalidades/jesus]] — referência central da preleção
-- [[wiki/sinteses/hierarquia-de-autoridade]] — a preleção articula a primazia kardequiana sobre o sectarismo confessional
+- [[wiki/sinteses/hierarquia-de-autoridade]] — a preleção articula a primazia de Kardec sobre o sectarismo confessional
 - [[wiki/conceitos/colonia-espiritual]] — sua organização é colônia intermediária
 
 ## Fontes
