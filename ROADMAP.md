@@ -111,6 +111,7 @@ Auto-link Markdown→Kardecpedia em build time já cobre capítulo **e** questã
 - [ ] **Baseline de performance do build** — registrar tempo do build do Quartz e do `link_citations.py` em CI; alertar se regredir além de threshold (ex.: +50%).
 - [ ] **Lint do pipeline pós-transform** — `check_broken_links` audita só o source; transforms de CI (`link_citations.py`, `wrap_glossary_terms.py`, `inject_copyright.py`) podem injetar wikilink quebrado em `/tmp/quartz/content` sem o lint pegar. Aplicar os transforms numa cópia e relintar (modo `--include-pipeline`). Trava regressão "transformer gera link quebrado".
 - [ ] **`/autolint` com cap de iterações e gate humano** — slash command em loop `lint → categorizar → corrigir baixo risco → re-lint`, até zero findings ou 3 iterações, **pausando** quando o finding exige julgamento. Versão atenuada do "self-healing lint loop".
+  - **Análogo-crítica construído:** `/autocritica` (`.claude/skills/autocritica/`) é o equivalente semântico — wrapper não-interativo e capped do `/critica`, drenando o backlog de páginas devidas em lotes via `/loop /autocritica`. Cap `--limit N` no lugar do gate de confirmação; doutrinário continua diferido a `rascunho` + ROADMAP §11. O `/autolint` (lado lint determinístico) segue aberto.
 
 ---
 
