@@ -2,23 +2,23 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [confianca, deus, fe, providencia, prece, obra/ese, obra/le, autor/kardec, grau/intermediario, tema/deus]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
 # Confiança em Deus
 
-Sentimento de segurança interior que nasce da compreensão da Providência divina e da certeza de que Deus é justo e bom. No ensino espírita, a confiança em Deus não é resignação passiva, mas fé raciocinada aplicada às provas da vida.
+Sentimento de segurança interior que nasce da compreensão da Providência divina e da certeza de que Deus é justo e bom. No ensino espírita, a confiança em Deus não é resignação passiva, mas [[wiki/conceitos/fe-raciocinada|fé raciocinada]] aplicada às provas da vida.
 
 ## Ensino de Kardec
 
 ### Fundamento
 
-A confiança em Deus se apoia nos atributos divinos — soberanamente justo e bom — e na certeza de que nada acontece sem causa nem sem propósito. Quem compreende a lei de causa e efeito e a pluralidade das existências encontra razão para confiar: todo sofrimento tem fim, e todo esforço de progresso é recompensado (LE, q. 1, 964; ESE, cap. II).
+A confiança em Deus se apoia nos atributos divinos — soberanamente justo e bom — e na certeza de que nada acontece sem causa nem sem propósito. Quem compreende a lei de causa e efeito e a [[wiki/conceitos/pluralidade-das-existencias|pluralidade das existências]] encontra razão para confiar: todo sofrimento tem fim, e todo esforço de progresso é recompensado (LE, q. 1, 964; ESE, cap. II).
 
 ### Confiança e Providência
 
-Jesus ensina: "Olhai as aves do céu, que não semeiam nem colhem; contudo, vosso Pai celestial as alimenta" (S. Mateus, 6:26). Kardec interpreta essa passagem não como convite à inação, mas à confiança: "Ter confiança na Providência é não se deixar abater pelas dificuldades da vida, é saber que Deus vela por todas as suas criaturas" (ESE, cap. XXV, item 3).
+Jesus ensina: "Observai os pássaros do céu: não semeiam, não ceifam, nada guardam em celeiros; mas, vosso Pai celestial os alimenta" (ESE, cap. XXV, item 6; S. Mateus, 6:26). Kardec interpreta essa passagem não como convite à inação, mas à confiança: trata-se de "uma poética alegoria da Providência, que nunca deixa ao abandono os que nela confiam, querendo, todavia, que esses, por seu lado, trabalhem" (ESE, cap. XXV, item 7).
 
 ### Confiança e prece
 

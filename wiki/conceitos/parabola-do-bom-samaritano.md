@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, bom-samaritano, caridade, proximo, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola do bom samaritano
@@ -26,7 +26,7 @@ Kardec destaca que esta parábola define o verdadeiro sentido da palavra "próxi
 
 - O **samaritano** — membro de um povo desprezado pelos judeus — é justamente quem socorre o ferido. Não pergunta quem é a vítima, de que crença ou nação; age movido pela compaixão pura.
 
-Kardec conclui que o próximo não é apenas o compatriota, o correligionário ou o amigo: **é todo ser humano**, sem exceção. A caridade verdadeira não faz distinção. Esse ensino se alinha à máxima espírita: "Fora da caridade não há salvação" (ESE, cap. XV, item 10).
+Kardec conclui que o próximo não é apenas o compatriota, o correligionário ou o amigo: **é todo ser humano**, sem exceção. A caridade verdadeira não faz distinção. Esse ensino se alinha à máxima espírita: "[[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao|Fora da caridade não há salvação]]" (ESE, cap. XV, item 10).
 
 O ensino também se conecta à lei de justiça, amor e caridade codificada por Kardec (LE, q. 886): "A caridade, segundo Jesus, não se restringe à esmola, mas abrange todas as relações entre os homens."
 

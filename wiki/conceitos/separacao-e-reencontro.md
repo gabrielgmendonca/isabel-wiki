@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [C&I, LE]
 tags: [separacao, reencontro, morte, vida-espirita, familia, afeto, obra/ci, obra/le, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Separação e reencontro

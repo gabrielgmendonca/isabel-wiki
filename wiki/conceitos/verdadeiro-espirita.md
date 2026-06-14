@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [espirita, caridade, perfeicao-moral, pratica, moral, obra/ese, obra/le, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-07
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Verdadeiro espírita
@@ -40,7 +40,7 @@ Kardec propõe inscrever na bandeira espírita:
 
 ### Eco no Evangelho Segundo o Espiritismo
 
-O cap. XVII do ESE — "Sede perfeitos" — apresenta o célebre retrato do **homem de bem** (ESE, cap. XVII, item 3), que é a concretização do verdadeiro espírita: pratica a lei de justiça, de amor e de caridade na sua maior pureza; interroga a consciência sobre seus atos; faz aos outros o que quereria para si.
+O cap. XVII do ESE — "Sede perfeitos" — apresenta o célebre retrato do **[[wiki/conceitos/homem-de-bem|homem de bem]]** (ESE, cap. XVII, item 3), que é a concretização do verdadeiro espírita: pratica a lei de justiça, de amor e de caridade na sua maior pureza; interroga a consciência sobre seus atos; faz aos outros o que quereria para si.
 
 A [[wiki/conceitos/perfeicao-moral]] (LE, q. 893–919) ensina que a virtude mais meritória é a caridade mais desinteressada — exatamente o que distingue o espírita da terceira categoria.
 

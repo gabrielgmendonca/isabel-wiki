@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, figueira, fe, obras, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [parabola, jesus, figueira, fe, obras, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/moral]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola da figueira seca
@@ -24,7 +24,7 @@ Kardec desdobra este episódio em dois ensinos complementares (ESE, cap. XIX, it
 
 **A figueira estéril:**
 - A figueira coberta de folhas mas sem frutos representa aqueles que aparentam religiosidade — frequentam cultos, citam textos, professam a fé — mas não produzem obras de caridade. São como árvore que faz sombra mas não alimenta. A fé sem obras é morta.
-- O ensino se conecta diretamente à parábola do semeador (a semente entre espinhos) e à do festim de bodas (o convidado sem veste nupcial).
+- O ensino se conecta diretamente à [[wiki/conceitos/parabola-do-semeador|parábola do semeador]] (a semente entre espinhos) e à do festim de bodas (o convidado sem veste nupcial).
 
 **A fé que transporta montanhas:**
 - Kardec explica que "montanhas" representam as dificuldades, os obstáculos, as resistências que se opõem ao progresso moral e à prática do bem. A fé que as transporta não é crença cega, mas **fé raciocinada** acompanhada de vontade firme e ação perseverante.

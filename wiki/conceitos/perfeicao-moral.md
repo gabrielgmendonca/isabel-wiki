@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [LE, ESE]
 tags: [perfeicao-moral, virtudes, vicios, paixoes, egoismo, auto-conhecimento, obra/le, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Perfeição moral
@@ -36,7 +36,7 @@ Escrever belas obras morais sem praticá-las é semente estéril.
 
 > "Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo." (LE, q. 913)
 
-Enquanto o egoísmo não for atacado pela raiz, os demais vícios não se extirpam.
+Enquanto o [[wiki/conceitos/egoismo|egoísmo]] não for atacado pela raiz, os demais vícios não se extirpam.
 
 ## Destruição do egoísmo
 

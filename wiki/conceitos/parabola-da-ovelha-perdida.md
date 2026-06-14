@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, ovelha-perdida, misericordia, arrependimento, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola da ovelha perdida
@@ -18,9 +18,9 @@ Parábola narrada em Mateus 18:12–14 (paralelo em Lc 15:3–7). O pastor que t
 
 ## Ensino de Kardec
 
-Kardec trata o tema no ESE, cap. XI ("Amar o próximo como a si mesmo"), e no cap. XVIII, ao discutir o cuidado que Jesus dedica aos "pequeninos" e aos que se desviaram. A parábola é **contraponto** à leitura rigorista da justiça divina: Deus não se apraz em punir, mas em recuperar. O arrependimento de um pecador é festejado no mundo espiritual porque representa reintegração ao rebanho dos que progridem (ESE, cap. XI, item 10).
+Kardec trata o tema no ESE, cap. XI ("Amar o próximo como a si mesmo"), e no cap. XVIII, ao discutir o cuidado que Jesus dedica aos "pequeninos" e aos que se desviaram. A parábola é **contraponto** à leitura rigorista da justiça divina: Deus não se apraz em punir, mas em recuperar. O [[wiki/conceitos/arrependimento|arrependimento]] de um pecador é festejado no mundo espiritual porque representa reintegração ao rebanho dos que progridem (ESE, cap. XI, item 10).
 
-A lógica de Kardec é explícita em C&I: nenhuma ovelha se perde em definitivo. O Pastor dispõe da eternidade para buscá-la — as reencarnações sucessivas são, cada uma, oportunidade de retorno ao caminho (LE, q. 1009; C&I, 1ª parte, cap. VII).
+A lógica de Kardec é explícita em C&I: nenhuma ovelha se perde em definitivo. O [[wiki/conceitos/parabola-do-bom-pastor|Pastor]] dispõe da eternidade para buscá-la — as reencarnações sucessivas são, cada uma, oportunidade de retorno ao caminho (LE, q. 1009; C&I, 1ª parte, cap. VII).
 
 ## Leitura espírita
 

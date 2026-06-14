@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, trabalhadores, ultima-hora, misericordia, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [parabola, jesus, trabalhadores, ultima-hora, misericordia, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/encarnacao]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola dos trabalhadores da última hora

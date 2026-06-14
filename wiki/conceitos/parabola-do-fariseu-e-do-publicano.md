@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, fariseu, publicano, humildade, orgulho, prece, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola do fariseu e do publicano

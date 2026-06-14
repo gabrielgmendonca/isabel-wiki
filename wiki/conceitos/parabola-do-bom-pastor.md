@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE, OPE]
 tags: [parabola, jesus, bom-pastor, porta-das-ovelhas, caridade, missao, obra/ese, obra/ope, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola do bom Pastor
@@ -26,7 +26,7 @@ A parábola reúne três figuras morais que organizam o ensino de Jesus sobre a 
 
 - **O bom Pastor** — o guia que conhece cada ovelha pelo nome e dá a vida pelas suas. É o retrato moral do missionário superior: devotamento total, responsabilidade pelo rebanho, sacrifício pelo bem alheio. Jesus é "o tipo mais perfeito que Deus tem oferecido ao homem" (LE, q. 625), e essa parábola traduz em figura o que o LE afirma em forma doutrinária.
 
-- **O mercenário** — quem exerce função espiritual por interesse, não por amor. Foge diante do lobo porque "as ovelhas não são suas". Kardec ecoa essa figura no cap. XXIV do ESE ("Não se pode servir a Deus e a Mamon") e ao tratar dos falsos profetas (ESE, cap. XXI): o móvel interior — interesse ou caridade — é o critério de Jesus.
+- **O mercenário** — quem exerce função espiritual por interesse, não por amor. Foge diante do lobo porque "as ovelhas não são suas". Kardec ecoa essa figura no cap. XVI do ESE ("Não se pode servir a Deus e a Mamon") e ao tratar dos falsos profetas (ESE, cap. XXI): o móvel interior — interesse ou caridade — é o critério de Jesus.
 
 - **"Outras ovelhas que não são deste aprisco" (Jo 10:16)** — Kardec lê esta frase como referência à universalidade da missão do Cristo, que não se restringe a Israel nem mesmo à Terra. Conecta-se diretamente à pluralidade dos mundos habitados e ao "há muitas moradas na casa de meu Pai" de Jo 14:2 (ESE, cap. III).
 
@@ -63,6 +63,6 @@ Nenhuma divergência doutrinária registrada. A leitura católica tradicional id
 ## Fontes
 
 - *Bíblia Sagrada* (Almeida Corrigida e Fiel). Evangelho segundo João, cap. 10. Texto integral: [[wiki/biblia/joao/10]].
-- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. III, VI, XXI, XXIV.
+- KARDEC, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Caps. III, VI, XVI, XXI.
 - KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. Questão 625.
 - KARDEC, Allan. *Obras Póstumas*. Trad. Guillon Ribeiro. FEB. "Estudo sobre a natureza do Cristo", §VIII.

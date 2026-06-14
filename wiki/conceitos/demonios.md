@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos, obra/ci, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-06
+tags: [ceu-e-inferno, demonios, sata, dualismo, mal, espiritos-imperfeitos, obra/ci, autor/kardec, grau/intermediario, tema/espiritos, tema/vida-futura]
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
@@ -48,7 +48,7 @@ Kardec desenvolve uma refutacao rigorosa, partindo sempre dos atributos de Deus:
 
 5. **Inutilidade do arrependimento.** Se a porta da esperanca esta fechada, o demonios persevera no mal porque o retorno ao bem nao teria nenhum fruto. Deus prefere ve-los fazer o mal a conceder um perdao condicional subordinado ao retorno ao bem (C&I, 1a parte, cap. IX, item 19).
 
-> "E em nome de Jesus Cristo, daquele que nao pregou senao o amor, a caridade e o perdao, que se ensinam semelhantes doutrinas!" (C&I, 1a parte, cap. IX, item 19)
+> "E em nome de Jesus Cristo, daquele que nao pregou senao o amor, a caridade e o perdao, que se ensinam semelhantes doutrinas!" (C&I, 1a parte, cap. IX, item 15)
 
 ### Demonios segundo o Espiritismo
 

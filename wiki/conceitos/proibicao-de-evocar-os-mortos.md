@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, evocacao, lei-mosaica, mediunidade, manifestacoes-espiritas, obra/ci, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [ceu-e-inferno, evocacao, lei-mosaica, mediunidade, manifestacoes-espiritas, obra/ci, autor/kardec, grau/intermediario, tema/espiritos, tema/mediunidade]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Proibição de evocar os mortos

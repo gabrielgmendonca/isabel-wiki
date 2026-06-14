@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [vida-futura, pos-morte, espiritualidade, obra/ese, obra/le, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Vida futura

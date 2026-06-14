@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, LM]
 tags: [espirito, natureza-espiritual, ontologia, obra/le, obra/lm, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-05
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
@@ -10,7 +10,7 @@ status: ativo
 
 ## Definição
 
-> "Pode dizer-se que os Espíritos são os seres inteligentes da criação. Povoam o Universo, fora do mundo material." (LE, q. 76)
+> "Pode dizer-se que os Espíritos são os seres inteligentes da criação. Povoam o universo, fora o mundo material." (LE, q. 76)
 
 O termo designa as **individualidades dos seres extracorpóreos**, distintas do "princípio inteligente" abstrato (LE, q. 76, nota).
 

@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [LE, Gênese, Emmanuel/Chico Xavier]
-tags: [raca-adamica, adao, imigracao, mundos, progresso, obra/le, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/historia-doutrina]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [raca-adamica, adao, imigracao, mundos, progresso, obra/le, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/historia-doutrina, tema/espiritos]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Raça adâmica
@@ -91,6 +91,6 @@ O conceito de raça adâmica integra a cosmogonia espírita ao demonstrar que o 
 
 - Kardec, Allan. *A Gênese*, cap. XI, itens 38–44. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Livro dos Espíritos*, q. 59 (comentário sobre Adão, o dilúvio e as raças). Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *Revista Espírita*, mar/1860, "Os pré-adamitas" (formulação programática antecedente ao Pentateuco). Edição local: [[raw/kardec/revista-espirita/1860/01-janeiro|raw/kardec/revista-espirita/1860/]].
+- Kardec, Allan. *Revista Espírita*, mar/1860, "Os pré-adamitas" (formulação programática antecedente ao Pentateuco). Edição local: [[raw/kardec/revista-espirita/1860/03-marco|raw/kardec/revista-espirita/1860/]].
 - Kardec, Allan. *Revista Espírita*, jan/1862, "Ensaio de interpretação da doutrina dos anjos decaídos" (matriz direta do cap. XI da *Gênese*). Edição local: [[raw/kardec/revista-espirita/1862/01-janeiro|raw/kardec/revista-espirita/1862/]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 3. FEB, 1939.

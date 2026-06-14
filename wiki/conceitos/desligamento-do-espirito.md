@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, C&I, LM]
-tags: [desligamento, morte, perispirito, desencarnacao, perturbacao, obra/le, obra/ci, obra/lm, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
+fontes: [LE, C&I]
+tags: [desligamento, morte, perispirito, desencarnacao, perturbacao, obra/le, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura]
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
@@ -14,11 +14,11 @@ Processo gradual pelo qual o Espírito se separa do corpo físico no momento da 
 
 ### Mecanismo da separação
 
-A alma não se separa bruscamente do corpo. O desligamento se opera gradualmente, "por um desprendimento que se efetua mais ou menos lentamente, segundo os indivíduos e as circunstâncias" (LE, q. 155). O perispírito — envoltório semimaterial — serve de laço entre o Espírito e o corpo; à medida que esse laço se distende, o Espírito se liberta.
+A alma não se separa bruscamente do corpo. O desligamento "se opera gradualmente e com uma lentidão muito variável conforme os indivíduos" (LE, q. 155). O perispírito — envoltório semimaterial — serve de laço entre o Espírito e o corpo; à medida que esse laço se distende, o Espírito se liberta.
 
 ### Variação conforme o indivíduo
 
-O desligamento é tanto mais rápido quanto mais o Espírito se identificou, durante a vida, com as coisas espirituais. O materialista, aquele que viveu exclusivamente para o corpo, experimenta um desprendimento lento e penoso; o Espírito elevado se liberta quase instantaneamente (LE, q. 155; C&I, 1ª parte, cap. I).
+O desligamento é tanto mais rápido quanto mais o Espírito se identificou, durante a vida, com as coisas espirituais. O materialista, aquele que viveu exclusivamente para o corpo, experimenta um desprendimento lento e penoso; o Espírito elevado se liberta quase instantaneamente (LE, q. 155; C&I, 2ª parte, cap. I).
 
 ### Perturbação pós-morte
 
@@ -26,7 +26,7 @@ Após o desligamento, o Espírito pode experimentar um período de perturbação
 
 ### Morte violenta
 
-Nos casos de morte violenta ou súbita, o desligamento pode ser mais difícil, pois o Espírito não estava preparado para a separação. O laço perispiritual, rompido abruptamente, deixa o Espírito num estado de maior perturbação (LE, q. 161–162; LM, 2ª parte, cap. I).
+Nos casos de morte violenta ou súbita, o desligamento pode ser mais difícil, pois o Espírito não estava preparado para a separação. "Em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais tenazes são os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo" (LE, q. 161–162).
 
 ## Aplicação prática
 
@@ -43,5 +43,4 @@ O conceito de desligamento gradual tem implicações práticas: justifica a prec
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Parte 2, cap. III, q. 149–165. Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. I; 2ª parte, cap. I — "Da passagem". FEB.
-- Kardec, Allan. *O Livro dos Médiuns*. 2ª parte, cap. I. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. I — "Da passagem". FEB.

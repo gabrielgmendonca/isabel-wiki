@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [desapego, riqueza, materialismo, desprendimento, obra/ese, obra/le, lei/conservacao, lei/igualdade, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
@@ -16,27 +16,27 @@ Desprendimento interior dos bens materiais, usando-os sem apego e reconhecendo s
 
 ### A riqueza como prova
 
-Deus não condena a riqueza em si, mas o abuso e o apego: "A riqueza é uma prova tão perigosa para aquele que a possui, como a miséria o é para o que a sofre" (ESE, cap. XVI, item 7). A riqueza coloca o ser humano diante da tentação do egoísmo e da avareza: pode ser instrumento de bem ou de perdição, conforme o uso que dela se faz.
+Deus não condena a riqueza em si, mas o abuso e o apego. Ela "constitui uma prova muito arriscada, mais perigosa do que a miséria"; é "o supremo excitante do orgulho, do egoísmo e da vida sensual" (ESE, cap. XVI, item 7). Ainda assim, "do fato de a riqueza tornar difícil a jornada, não se segue que a torne impossível": pode ser instrumento de bem ou de perdição, conforme o uso que dela se faz (ESE, cap. XVI, item 7).
 
 ### "Não se pode servir a Deus e a Mamon"
 
-Kardec comenta o ensino de Jesus: "Servir a Mamon é subordinar o pensamento, a atividade e a vida ao gozo dos bens materiais" (ESE, cap. XVI, item 2). O apego aos bens terrenos escraviza o Espírito e o desvia de sua finalidade superior. "Verdadeira propriedade para o homem é aquela que ele pode levar deste mundo" — isto é, as qualidades morais (ESE, cap. XVI, item 8).
+A máxima de Jesus dá título ao capítulo: "Não podeis servir simultaneamente a Deus e a Mamon" (ESE, cap. XVI, item 1; S. Lucas, 16:13). Fazer do amor ao ouro o senhor da vida escraviza o Espírito — Kardec adverte os que "venderiam a alma para possuir tesouros", presos aos "gozos das paixões" que os dominam (ESE, cap. XVI, item 11). A verdadeira riqueza é outra: "O homem só possui em plena propriedade aquilo que lhe é dado levar deste mundo" — ou seja, "as qualidades morais", únicas que a alma leva consigo (ESE, cap. XVI, item 9).
 
 ### Parábola do mau rico
 
-A parábola do rico e Lázaro ilustra a inversão de condições na vida futura: "O rico que gozou de todos os bens da Terra sem pensar no próximo está condenado a ver a felicidade dos outros enquanto padece" (ESE, cap. XVI, item 7). Não é a riqueza que condena, mas a falta de caridade no uso dela.
+A parábola do rico e Lázaro (ESE, cap. XVI, item 5; S. Lucas, 16:19–31) ilustra a inversão de condições na vida futura: o rico que gozou de todos os bens sem caridade encontra tormento, enquanto Lázaro é consolado no seio de Abraão. Não é a riqueza que condena, mas a falta de caridade no uso dela.
 
 ### Parábola dos talentos
 
-Os talentos recebidos — incluindo a riqueza — devem frutificar em benefício dos outros: "O homem não é mais que um depositário; cumpre-lhe render conta do emprego que haja dado aos bens" (ESE, cap. XVI, item 9). Quem enterrou o talento por medo ou avareza será chamado à prestação de contas.
+Os talentos recebidos — incluindo a riqueza — devem frutificar em benefício dos outros (parábola dos talentos: ESE, cap. XVI, item 6; S. Mateus, 25:14–30). Como ensina Fénelon, "sendo o homem o depositário, o administrador dos bens que Deus lhe pôs nas mãos, contas severas lhe serão pedidas do emprego que lhes haja ele dado" (ESE, cap. XVI, item 13). Quem enterrou o talento por medo ou avareza será chamado à prestação de contas.
 
 ### Emprego da riqueza
 
-Kardec é claro: "O emprego da fortuna é benefício ou malefício, segundo a intenção de quem a possui. Os que a aplicam em benefício de seus semelhantes cumprem a lei de amor e de caridade" (ESE, cap. XVI, item 10). A riqueza bem empregada é instrumento de progresso coletivo.
+O melhor emprego da riqueza está na caridade: "Na caridade está, para as riquezas, o emprego que mais apraz a Deus" (ESE, cap. XVI, item 11). O mérito, ensina Fénelon, está "na proporção do sacrifício que se impõe a si mesmo", enquanto o mau uso "consiste em os aplicar exclusivamente na sua satisfação pessoal" (ESE, cap. XVI, item 13). A riqueza bem empregada é instrumento de progresso coletivo.
 
 ### O que o LE ensina
 
-O LE complementa: "A miséria e a riqueza são provas igualmente difíceis" (LE, q. 814). O uso dos bens da Terra deve servir às necessidades da vida e ao bem do próximo (LE, q. 711). A desigualdade de riquezas é consequência da diversidade de inteligências e aptidões dos Espíritos (LE, q. 806).
+Deus concede a uns a riqueza e o poder, a outros a miséria, "para experimentá-los de modos diferentes" — provas que, ademais, "foram escolhidas pelos próprios Espíritos" (LE, q. 814). O uso dos bens da Terra deve servir às necessidades da vida e ao bem do próximo (LE, q. 711). A desigualdade das condições sociais não é lei da natureza: "é obra do homem e não de Deus" (LE, q. 806). Já a desigualdade na posse das riquezas Kardec atribui à diferença de aptidões — os homens não são "igualmente inteligentes, ativos e laboriosos para adquirir, nem sóbrios e previdentes para conservar" (ESE, cap. XVI, item 8).
 
 ## Desdobramentos
 
@@ -57,5 +57,5 @@ Na vida prática, o desapego manifesta-se na generosidade, na simplicidade de co
 
 ## Fontes
 
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XVI ("Não se pode servir a Deus e a Mamon"), itens 1–10.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XVI ("Não se pode servir a Deus e a Mamon"), itens 1–13.
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Parte 3, cap. VII (q. 803–824) — "Lei de igualdade"; q. 711 — uso dos bens da Terra.

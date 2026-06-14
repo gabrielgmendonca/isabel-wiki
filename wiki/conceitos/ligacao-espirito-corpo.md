@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [LE, Gênese, LM]
 tags: [encarnacao, perispirito, espirito, corpo, ligacao, obra/le, obra/genese, obra/lm, autor/kardec, grau/intermediario, tema/encarnacao]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Ligação Espírito-corpo

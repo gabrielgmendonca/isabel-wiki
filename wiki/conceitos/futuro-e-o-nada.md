@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [C&I]
 tags: [ceu-e-inferno, niilismo, panteismo, individualidade, alma, futuro, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # O futuro e o nada

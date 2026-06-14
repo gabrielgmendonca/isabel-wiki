@@ -2,19 +2,19 @@
 tipo: conceito
 fontes: [ESE, LE]
 tags: [avareza, vicio, desapego, caridade, bens-terrenos, obra/ese, obra/le, lei/conservacao, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
 # Avareza
 
-Apego excessivo aos bens materiais e resistência em partilhá-los. No ensino espírita, a avareza é forma grave de egoísmo, contrária à lei de caridade e ao princípio de que os bens terrenos são depósitos confiados ao homem para uso proveitoso.
+Apego excessivo aos bens materiais e resistência em partilhá-los. No ensino espírita, a avareza é forma grave de [[wiki/conceitos/egoismo|egoísmo]], contrária à lei de [[wiki/conceitos/caridade|caridade]] e ao princípio de que os bens terrenos são depósitos confiados ao homem para uso proveitoso.
 
 ## Ensino de Kardec
 
 ### Bens terrenos como depósito
 
-Os bens materiais não pertencem ao homem: são depósitos de que Deus lhe confia a administração. "A riqueza é um depósito cujo emprego Deus pedirá conta" — quem acumula sem partilhar falta ao compromisso assumido (ESE, cap. XVI, item 7).
+Os bens materiais não pertencem ao homem: são depósitos de que Deus lhe confia a administração. "Sendo o homem o depositário, o administrador dos bens que Deus lhe pôs nas mãos, contas severas lhe serão pedidas do emprego que lhes haja ele dado" (ESE, cap. XVI, item 13 — Fénelon) — quem acumula sem partilhar falta ao compromisso assumido.
 
 ### Parábolas sobre a avareza
 

@@ -1,14 +1,14 @@
 ---
 tipo: conceito
 fontes: [C&I]
-tags: [ceu-e-inferno, purgatorio, expiacao, reencarnacao, terra, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [ceu-e-inferno, purgatorio, expiacao, reencarnacao, terra, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura, tema/sofrimento, tema/livre-arbitrio]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Purgatório
 
-O purgatório, na visão espírita, não é um lugar intermediário de penas amenizadas, mas a própria vida terrestre — cada existência corporal é oportunidade de expiação e progresso. A Terra é um mundo de expiação e provas, e o verdadeiro purgatório está nas encarnações sucessivas, onde o Espírito se depura pelo trabalho sobre si mesmo.
+O purgatório, na visão espírita, não é um lugar intermediário de penas amenizadas, mas a própria vida terrestre — cada existência corporal é oportunidade de expiação e progresso. A Terra é um [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]], e o verdadeiro purgatório está nas encarnações sucessivas, onde o Espírito se depura pelo trabalho sobre si mesmo.
 
 ## Ensino de Kardec
 

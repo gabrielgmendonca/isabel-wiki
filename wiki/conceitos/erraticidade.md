@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [LE]
 tags: [erraticidade, espirito-errante, vida-espirita, reencarnacao, intervalo-entre-vidas, obra/le, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Erraticidade

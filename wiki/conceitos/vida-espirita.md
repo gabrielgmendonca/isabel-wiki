@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [LE]
-tags: [erraticidade, espiritos-errantes, entre-vidas, obra/le, autor/kardec, grau/intermediario, tema/vida-futura]
-atualizado_em: 2026-04-06
-status: ativo
+tags: [erraticidade, espiritos-errantes, entre-vidas, obra/le, autor/kardec, grau/intermediario, tema/vida-futura, tema/encarnacao]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Vida espírita (erraticidade)
@@ -26,7 +26,7 @@ Todos os Espíritos **que ainda hão de reencarnar** são errantes quando desenc
 
 ## Escolha das provas
 
-O Espírito errante **escolhe** o gênero de provas por que passará na próxima encarnação — exercício do livre-arbítrio (LE, q. 258). Nada ocorre sem a permissão de Deus.
+O Espírito errante **escolhe** o gênero de provas por que passará na próxima encarnação — exercício do [[wiki/conceitos/livre-arbitrio|livre-arbítrio]] (LE, q. 258). Nada ocorre sem a permissão de Deus.
 
 ## Atividades no estado errante
 

@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [Gênese, Emmanuel/Chico Xavier]
 tags: [emigracao, imigracao, espiritos, mundos, renovacao, flagelos, obra/genese, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-06
+atualizado_em: 2026-06-10
 status: ativo
 ---
 
@@ -28,7 +28,7 @@ Os cataclismos e flagelos destroem corpos, não Espíritos: "nenhum Espírito pe
 
 > "Essa transfusão, que se efetua entre a população encarnada e desencarnada de um planeta, igualmente se efetua entre os mundos [...]. Há, pois, emigrações e imigrações coletivas de um mundo para outro, donde resulta a introdução, na população de um deles, de elementos inteiramente novos." (Gênese, cap. XI, item 37)
 
-Os Espíritos trazem consigo "a inteligência e a intuição dos conhecimentos que possuem", imprimindo caráter novo às raças que animam. A raça adâmica é exemplo histórico desse processo (Gênese, cap. XI, item 38).
+Os Espíritos trazem consigo "a inteligência e a intuição dos conhecimentos que possuem", imprimindo caráter novo às raças que animam. A [[wiki/conceitos/raca-adamica|raça adâmica]] é exemplo histórico desse processo (Gênese, cap. XI, item 38).
 
 ### Exclusão dos obstinados no mal
 

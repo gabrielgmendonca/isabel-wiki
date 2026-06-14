@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-06-03",
+  "last_run": "2026-06-10",
   "pages": {
     "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
       "content_sha": "sha256:9da43e1593914e15762e86cbf5f47b1f426c8a0fdba0454eea7a68e48e17cae7",
@@ -545,6 +545,406 @@
       "verdict": "requer revisão humana",
       "findings_count": 3,
       "deferred_count": 2
+    },
+    "wiki/conceitos/espirito.md": {
+      "content_sha": "sha256:4d6d0416d379f9e4ef7588e853fc02f03faf051c8b544069d2733f7e876e6e84",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "⚠ 1 diferido",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/pluralidade-das-existencias.md": {
+      "content_sha": "sha256:f9de7027d44178c79d67a1f663160fe6441a5e1c29828d8480339f0d6a0a33d7",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/avareza.md": {
+      "content_sha": "sha256:1167b0a18552b05f5f9423066146eb20a4e2cd20ed21c0522304f78540cd9815",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "✓ 2 auto · ⚠ 1 diferido",
+      "findings_count": 3,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/ceu.md": {
+      "content_sha": "sha256:001f9ce903f742b3f4e5975325ef7c022f764412eec9651a451b568b6f8cd663",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-04-06",
+      "verdict": "✓ limpa",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/conceitos/confianca-em-deus.md": {
+      "content_sha": "sha256:2d5e40b74f21d5c44deb7496dad0193ca98d01114b37cc6216af53a1447189fc",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "✓ 2 auto · ⚠ 2 diferidos",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/demonios.md": {
+      "content_sha": "sha256:dd21cbcae3c9bdd2eeaa53b0011ff4368f68bb0e9180a7148274e68589dd1bd1",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "✓ 1 auto · ⚠ 2 diferidos",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/desapego-dos-bens-terrenos.md": {
+      "content_sha": "sha256:5b8a9ca6a72dcac1a5ffaea453aa8c0ffc17c5e61b5dd49df482813a72748b42",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "⚠ 7 diferidos (eixo 2)",
+      "findings_count": 7,
+      "deferred_count": 7
+    },
+    "wiki/conceitos/desligamento-do-espirito.md": {
+      "content_sha": "sha256:51cf5294b2d23a271525c432d0af266f9428ffa9c9d0c3b54e59fde06b1260a8",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "✓ 1 auto · ⚠ 4 diferidos",
+      "findings_count": 5,
+      "deferred_count": 4
+    },
+    "wiki/conceitos/emigracoes-e-imigracoes-dos-espiritos.md": {
+      "content_sha": "sha256:19bd8b2c79400899849645044a0d46fd8a90d412cf1ee136d3712b25f880dff4",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "✓ 1 auto · ⚠ 1 diferido",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/encarnacao.md": {
+      "content_sha": "sha256:e02edbd8d660f896482ef2fa5a3de5e03a7a5733849263f897fb64129a0451df",
+      "last_critica_date": "2026-06-09",
+      "atualizado_em_at_critica": "2026-06-09",
+      "verdict": "⚠ 3 diferidos",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/erraticidade.md": {
+      "content_sha": "sha256:1aab45351c87d5b6dbc837aca658eb89990d270f259a9370f904ded11563ee43",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/evocacao.md": {
+      "content_sha": "sha256:0c769b4d117710ce08f3925ff742452eb45e06c7f058dd7500c6cee46142b8cd",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 2 diferidos",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/futuro-e-o-nada.md": {
+      "content_sha": "sha256:e57aa23c4bee8ad79c3bf347b31315667c43c4e6b71e613f4139126aa84dfb99",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ limpa · ⚠ 1 cross-ref",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/homem-de-bem.md": {
+      "content_sha": "sha256:5ed9a640a7ad937fc0b47bb8ce417fec4f0346bafe7b7d0f6d6ea7460a132ce7",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/ligacao-espirito-corpo.md": {
+      "content_sha": "sha256:44145f10ecdaaf33c27658945141e870fc134f241189d2a755dfd772be1aa42e",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/mundos-regeneradores.md": {
+      "content_sha": "sha256:3e0dc4a5fe8437dd3b5916eb8882bf880e35aeff01c9196efce1303b62ce425c",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 6 diferidos",
+      "findings_count": 6,
+      "deferred_count": 6
+    },
+    "wiki/conceitos/parabola-da-candeia-sob-o-alqueire.md": {
+      "content_sha": "sha256:f7ac039c757577396b2d85327317dd05dae4e064531b39f1f50902d9bf30fdbd",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 6 diferidos",
+      "findings_count": 6,
+      "deferred_count": 6
+    },
+    "wiki/conceitos/parabola-da-casa-sobre-a-rocha.md": {
+      "content_sha": "sha256:0f529784941cc98771fa496b5e6a77231200a8603d63fc0934fd48174602a49b",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-da-figueira-seca.md": {
+      "content_sha": "sha256:3e01f81af17ddbbc94940b9c6f7aec958c9eea6c4dcd5f8fbbcbaabf72515852",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 4 diferidos",
+      "findings_count": 6,
+      "deferred_count": 4
+    },
+    "wiki/conceitos/parabola-do-credor-incompassivo.md": {
+      "content_sha": "sha256:808ad30710767d25e54bfcf6c064e6e5b121690f0a1be6d3cb7d47848b694773",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 3 diferidos",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/parabola-do-festim-de-bodas.md": {
+      "content_sha": "sha256:fdaf7eba6f8139737a798118ad0d7bd933df501b1917f7464560f516d6f256e2",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora.md": {
+      "content_sha": "sha256:fb861f982cd267512ac3622b5a143c8402024d03854bd216d9b71b918917c7e6",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 2 dif · ✕ 1 desc",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/penas-eternas.md": {
+      "content_sha": "sha256:fef6ab1710cc23fb0aec5e9febd866a5625832c3b60bfa86cf477d4abd7471ea",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/perfeicao-moral.md": {
+      "content_sha": "sha256:d2cd0dd02f7d920299e2b5832a1bd3c45c9d94143c0cca0113a94225f21e37b3",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 4 diferidos",
+      "findings_count": 5,
+      "deferred_count": 4
+    },
+    "wiki/conceitos/perturbacao.md": {
+      "content_sha": "sha256:4598315d21e7aa83125c19e2c2490a7cb221de17d0e3ae73fd596e0698928893",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 3 auto · ⚠ 2 diferidos",
+      "findings_count": 5,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/principio-vital.md": {
+      "content_sha": "sha256:a006c21e34441dc40f7a4c93ec3266edfb9ffec4ccc856e0b21d1879c9b0dd0e",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 1 diferido",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/proibicao-de-evocar-os-mortos.md": {
+      "content_sha": "sha256:34380db7fe812e862cc03604fd0cfa6ef30cffdc0b991a26710068c26bb602b9",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 2 diferidos",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/psicografia.md": {
+      "content_sha": "sha256:03f46bbb22771985b8b6eda06a3a6a6404b35b3e5f49ce36803b006be4989287",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 2 dif · ✕ 1 desc",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/purgatorio.md": {
+      "content_sha": "sha256:3e41210cb900dd05edcd4d56f66a9f6888f78c1eafcae8ed9cdf78ef09db872f",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 3 auto · ⚠ 1 diferido",
+      "findings_count": 4,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/raca-adamica.md": {
+      "content_sha": "sha256:64929868c491cd6cba7479bed6e917f7359f76d8875288a6e0de7f7a3b11278f",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 4 diferidos",
+      "findings_count": 6,
+      "deferred_count": 4
+    },
+    "wiki/conceitos/resignacao.md": {
+      "content_sha": "sha256:893e94a5e3175204ea13a52f22bbe9b73c9172b91507ea5834b43a588361afe2",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 2 diferidos",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/separacao-e-reencontro.md": {
+      "content_sha": "sha256:78fb30b1528160cbeb6c05399dd4f9294502230306577394190aad985e51f1e5",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 5 diferidos",
+      "findings_count": 5,
+      "deferred_count": 5
+    },
+    "wiki/conceitos/vida-espirita.md": {
+      "content_sha": "sha256:f72e2f2853d0f0bce9a8bef68106c7a0030ea7bfe49e2d29d6ad4e587753a170",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 2 diferidos",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/vida-futura.md": {
+      "content_sha": "sha256:22dfb0c182a21e26a27b8779496119d6fa962bfe4f4fec62df7e640cef2bd7ec",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 3 diferidos",
+      "findings_count": 3,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/evangelizacao-infantojuvenil.md": {
+      "content_sha": "sha256:1b00421df4162e56bd9cb395cd89ba0adb6ab660629f1bdaa997c9cb2c59103f",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 1 diferido",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/harmonia-das-esferas.md": {
+      "content_sha": "sha256:8182ace38139ee65d15f2b36c9794fed518fe885ed49796ec6cfa8ed5f87a5d6",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 1 diferido",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/morte.md": {
+      "content_sha": "sha256:0b0bd1565948593eef214ad809d561d5231d813c461b36c0114d69b01f0564c4",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 4 dif · ✕ 1 desc",
+      "findings_count": 5,
+      "deferred_count": 4
+    },
+    "wiki/conceitos/parabola-do-semeador.md": {
+      "content_sha": "sha256:127f98936a49ce99905f0528e7daaa3b2dd8d17b021b89f5429b93b9e38dd1ac",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/potencias-da-alma.md": {
+      "content_sha": "sha256:1f124bbfcb432871d161645bbca5b5f9ba32ad1eb6c58801b85d4344fe127009",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 3 diferidos",
+      "findings_count": 4,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/progresso-espiritual.md": {
+      "content_sha": "sha256:16b7d4cb4ea6d211dd32f19639e112ec93b29590f21243d06878009f7577be14",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 2 diferidos",
+      "findings_count": 3,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/verdadeiro-espirita.md": {
+      "content_sha": "sha256:da214d4926575807f81792457706bcb802f2d1123acd0443cc82c77aa6a95a77",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 3 dif · ✕ 1 desc",
+      "findings_count": 5,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/parabola-da-dracma-perdida.md": {
+      "content_sha": "sha256:0f72e46d2351584d8dfa328670958822acec2948a6ed7725358e017190882099",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-da-ovelha-perdida.md": {
+      "content_sha": "sha256:1bfdb9ed52148c35cb74c1a4a33da5a49e2ca0b053817fd9918b17d06e6b9642",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 3 diferidos",
+      "findings_count": 5,
+      "deferred_count": 3
+    },
+    "wiki/conceitos/parabola-da-rede.md": {
+      "content_sha": "sha256:d58290bb100a013121e113f637e233c5558fac67a75ea9b987a66165dee331af",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 2 diferidos",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-da-semente-que-cresce-por-si.md": {
+      "content_sha": "sha256:03e9665adc814ffdf2536c5fc3cb2c045b653fa24bf5882241ebfbf56ce93c00",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 2 diferidos",
+      "findings_count": 2,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-da-videira-verdadeira.md": {
+      "content_sha": "sha256:28bff290402d31de2b0169028cb047a2449836a5d7df79a4caef79830afdc615",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 1 diferido",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/parabola-das-dez-virgens.md": {
+      "content_sha": "sha256:54accf3cbd1128f6e66b5f8781551fbf5ef68809daab5975478c524e86758844",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 1 diferido",
+      "findings_count": 1,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/parabola-do-bom-pastor.md": {
+      "content_sha": "sha256:3a10a8adee73d6316739377e68a361cdfc0b00912003bc46d70a11a411a07931",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 2 auto · ⚠ 2 diferidos",
+      "findings_count": 4,
+      "deferred_count": 2
+    },
+    "wiki/conceitos/parabola-do-bom-samaritano.md": {
+      "content_sha": "sha256:971efa44b5c9a7e0e3bc5a1e2ca7a6a2b9402df1edd815d3723c702825d0b91d",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "✓ 1 auto · ⚠ 1 diferido",
+      "findings_count": 2,
+      "deferred_count": 1
+    },
+    "wiki/conceitos/parabola-do-fariseu-e-do-publicano.md": {
+      "content_sha": "sha256:45fe4722c436933db0b3c17e1a507bd706696073abe2d386811b26756af61714",
+      "last_critica_date": "2026-06-10",
+      "atualizado_em_at_critica": "2026-06-10",
+      "verdict": "⚠ 3 diferidos",
+      "findings_count": 3,
+      "deferred_count": 3
     }
   }
 }

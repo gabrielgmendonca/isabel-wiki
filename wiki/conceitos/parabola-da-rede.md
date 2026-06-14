@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, rede, reino, juizo, triagem, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-15
-status: ativo
+tags: [parabola, jesus, rede, reino, juizo, triagem, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/vida-futura]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola da rede
@@ -20,7 +20,7 @@ Parábola conclusiva do bloco parabólico de Mateus 13 (vv. 47–50). O Reino do
 
 Kardec a trata em paralelo à parábola do [[wiki/conceitos/parabola-do-joio-e-do-trigo|joio e do trigo]] (ESE, cap. XVIII): ambas descrevem a **triagem moral** que ocorre ao final de um ciclo. A diferença de imagem é pedagógica — enquanto o joio e o trigo enfatizam a convivência prolongada no campo, a rede enfatiza o momento da separação.
 
-Na transição planetária, a Terra passa de [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] a [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] (ESE, cap. III, item 13; Gênese, cap. XVIII). Os Espíritos endurecidos no mal serão transferidos para outros mundos onde continuarão a evoluir; os que se aperfeiçoaram permanecem. "Lançar fora" não é aniquilar — é realocar segundo o grau de adiantamento.
+Na [[wiki/conceitos/transicao-planetaria|transição planetária]], a Terra passa de [[wiki/conceitos/mundos-de-expiacao-e-provas|mundo de expiação e provas]] a [[wiki/conceitos/mundos-regeneradores|mundo regenerador]] (ESE, cap. III, item 13; Gênese, cap. XVIII). Os Espíritos endurecidos no mal serão transferidos para outros mundos onde continuarão a evoluir; os que se aperfeiçoaram permanecem. "Lançar fora" não é aniquilar — é realocar segundo o grau de adiantamento.
 
 ## Leitura espírita
 

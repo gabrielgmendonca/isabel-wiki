@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [vontade, consciencia, livre-arbitrio, pensamento, leon-denis, obra/le, obra/ese, lei/liberdade, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao]
-atualizado_em: 2026-04-07
-status: ativo
+tags: [vontade, consciencia, livre-arbitrio, pensamento, leon-denis, obra/le, obra/ese, lei/liberdade, autor/kardec, autor/leon-denis, grau/intermediario, tema/encarnacao, tema/livre-arbitrio]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Potências da alma

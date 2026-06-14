@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [LM]
 tags: [evocacao, comunicacao, pratica-espirita, mediuns, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Evocação
@@ -50,7 +50,7 @@ Servem para: estudo da natureza do mundo espírita, instrução moral, consolo d
 
 ## Aplicação prática
 
-Nas reuniões mediúnicas, a evocação é precedida de prece e feita com seriedade e objetivo definido. Evocações por mera curiosidade atraem Espíritos levianos.
+Nas reuniões mediúnicas, a evocação é precedida de [[wiki/conceitos/prece|prece]] e feita com seriedade e objetivo definido. Evocações por mera curiosidade atraem Espíritos levianos.
 
 ## Páginas relacionadas
 

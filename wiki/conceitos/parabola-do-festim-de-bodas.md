@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, festim-de-bodas, chamados-e-escolhidos, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola do festim de bodas

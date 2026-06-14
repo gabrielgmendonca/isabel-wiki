@@ -1,9 +1,9 @@
 ---
 tipo: conceito
 fontes: [LE, ESE]
-tags: [educacao, criancas, familia, moral, evangelizacao, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-07
-status: ativo
+tags: [educacao, criancas, familia, moral, evangelizacao, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/moral, tema/sociedade]
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Evangelização infantojuvenil

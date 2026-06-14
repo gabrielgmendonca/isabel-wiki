@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, casa-rocha, fe, obras, pratica, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
-atualizado_em: 2026-04-06
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Parábola da casa sobre a rocha

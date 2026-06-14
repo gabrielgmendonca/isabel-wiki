@@ -2,8 +2,8 @@
 tipo: conceito
 fontes: [Léon Denis]
 tags: [harmonia, cosmologia, musica, estetica, leon-denis, autor/leon-denis, grau/intermediario, tema/deus]
-atualizado_em: 2026-04-07
-status: ativo
+atualizado_em: 2026-06-10
+status: rascunho
 ---
 
 # Harmonia das esferas
