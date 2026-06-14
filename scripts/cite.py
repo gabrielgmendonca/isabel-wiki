@@ -17,6 +17,11 @@ stderr) reusando `resolve_locus` de `kardec_structure`.
 
 Cobertura v1: LE, LM, ESE, C&I (1ª parte), Gênese. C&I 2ª parte (Exemplos —
 relatos nominais sem numeração) faz dump do capítulo inteiro com aviso.
+
+ESE: o marcador de item alterna entre "N." e negrito "**N.**" no raw (às vezes
+no mesmo capítulo) — ambos são reconhecidos. A Introdução é extraída inteira
+(`ESE "Introdução"`); itens isolados da Introdução não, por causa do markup
+irregular.
 """
 from __future__ import annotations
 
@@ -61,7 +66,12 @@ SIGLA_INPUT_NORM = {
 # "<nº Kardec> [<nº sequencial>]." (ex.: "1019 [1018].") porque Kardec saltou
 # o nº 1011 (ver Nota dos Revisores no raw, após a q. 1012). Capturamos o
 # PRIMEIRO número — o de Kardec, que é o usado nas citações canônicas.
-_ITEM_RE = re.compile(r"^(\d+)(?:\s*\[\d+\])?\.\s*")
+# O markdown do ESE é inconsistente no marcador: a maioria dos itens vem como
+# "N." simples, mas ~95 (capítulos X, XI, XIII–XVI, parte das Instruções dos
+# Espíritos) vêm em negrito "**N.**" — e há casos avulsos de estrela única
+# ("*N." / "N.*"). Toleramos 0–2 asteriscos antes e depois do número/ponto;
+# sem isso, capítulos inteiros ficavam inacessíveis (item "não encontrado").
+_ITEM_RE = re.compile(r"^\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}\s*")
 
 # Subitem do LE: "a) –", tolera travessões variados ou ausência.
 _SUBITEM_RE = re.compile(r"^([a-z])\)\s*[–—-]?")
@@ -267,14 +277,55 @@ def _find_chapter_range(index_path: Path, cap_roman: str) -> tuple[int, int] | N
     return None
 
 
+def _extract_intro(sigla: str, md_path: Path) -> tuple[str, str]:
+    """Dump da Introdução inteira (`## Introdução` até o 1º `## Capítulo`/`## Parte`).
+
+    Só a Introdução como um todo é extraída. Os *itens* da Introdução do ESE não
+    são parseáveis com segurança: o markup mistura negrito inline (`**II —`),
+    heading (`## III —`) e até numeração arábica divergente nas citações da wiki.
+    Para uma ferramenta de verificação de citação, devolver o bloco inteiro (ou
+    erro) é preferível a arriscar extrair o trecho errado."""
+    lines = _read_lines(md_path)
+    start = next(
+        (i for i, ln in enumerate(lines) if ln.startswith("## Introdução")), None
+    )
+    if start is None:
+        return _err(f"Introdução não localizada em {_rel(md_path)}")
+    end = next(
+        (
+            i
+            for i in range(start + 1, len(lines))
+            if lines[i].startswith("## Capítulo") or lines[i].startswith("## Parte")
+        ),
+        len(lines),
+    )
+    header = (
+        f"({sigla}, Introdução) — linhas {start + 1}-{end}\n"
+        f"{_rel(md_path)}:{start + 1}-{end}"
+    )
+    body = "\n".join(lines[start:end])
+    return header, body
+
+
 def extract_capitulo(sigla: str, ref: str) -> tuple[str, str]:
-    """ESE / C&I / Gênese: cap. X (com ou sem item Y)."""
+    """ESE / C&I / Gênese: cap. X (com ou sem item Y), ou Introdução inteira."""
     slug = SIGLA_TO_SLUG[sigla]
     md_path = PENTATEUCO_DIR / f"{slug}.md"
     index_path = PENTATEUCO_DIR / f"{slug}.index.md"
 
     m_cap = _CAP_RE.search(ref)
     if not m_cap:
+        # Sem capítulo: só a Introdução inteira é extraível. Item da Introdução
+        # tem markup irregular (ver _extract_intro) — erro explícito, não dump
+        # do item errado.
+        if _INTRO_IT_RE.search(ref):
+            return _err(
+                f"itens da Introdução não são extraídos ({sigla}); o markup é "
+                "irregular. Use a Introdução inteira (sem 'item N') e localize o "
+                "trecho manualmente."
+            )
+        if _INTRO_RE.search(ref):
+            return _extract_intro(sigla, md_path)
         return _err_unexpected(ref)
     cap_roman = m_cap.group("r").upper()
 

@@ -66,5 +66,51 @@ class CiteConclusaoNumeracaoDuplaTests(unittest.TestCase):
         self.assertIn("saltou", err)
 
 
+class CiteESEMarcadorNegritoTests(unittest.TestCase):
+    """O markdown do ESE alterna entre marcador simples ('N.') e negrito
+    ('**N.**') — às vezes dentro do mesmo capítulo. O extractor de item tem de
+    casar ambos; antes da tolerância a asteriscos, capítulos inteiros em negrito
+    (X, XI, XIII–XVI) davam 'item não encontrado'."""
+
+    def test_item_negrito_resolve(self):
+        # cap. X, item 4 vem como "**4.**" no raw.
+        code, out, _ = _run(["ESE", "cap. X, item 4"])
+        self.assertEqual(code, 0)
+        self.assertIn("(ESE, cap. X, item 4)", out)
+        self.assertIn("A misericórdia é o complemento da brandura", out)
+
+    def test_item_simples_continua_resolvendo(self):
+        # cap. XVII, item 4 vem como "4." simples — não pode regredir.
+        code, out, _ = _run(["ESE", "cap. XVII, item 4"])
+        self.assertEqual(code, 0)
+        self.assertIn("(ESE, cap. XVII, item 4)", out)
+        self.assertIn("não institui nenhuma nova moral", out)
+
+    def test_item_negrito_nao_confunde_com_simples_de_outro_capitulo(self):
+        # Há "23." simples no cap. IV e "**23.**" negrito no cap. V; a busca
+        # restrita ao range do capítulo deve pegar o do cap. V.
+        code, out, _ = _run(["ESE", "cap. V, item 23"])
+        self.assertEqual(code, 0)
+        self.assertIn("(ESE, cap. V, item 23)", out)
+        self.assertIn("Vive o homem incessantemente em busca da felicidade", out)
+
+
+class CiteESEIntroducaoTests(unittest.TestCase):
+    """A Introdução do ESE é extraída inteira; itens da Introdução não, porque
+    o markup é irregular demais para extração confiável."""
+
+    def test_introducao_inteira_resolve(self):
+        code, out, _ = _run(["ESE", "Introdução"])
+        self.assertEqual(code, 0)
+        self.assertIn("(ESE, Introdução)", out)
+        self.assertIn("Objetivo desta obra", out)
+        self.assertIn("Autoridade da Doutrina espírita", out)
+
+    def test_item_da_introducao_aborta_com_mensagem_clara(self):
+        code, _, err = _run(["ESE", "Introdução, item II"])
+        self.assertNotEqual(code, 0)
+        self.assertIn("itens da Introdução não são extraídos", err)
+
+
 if __name__ == "__main__":
     unittest.main()
