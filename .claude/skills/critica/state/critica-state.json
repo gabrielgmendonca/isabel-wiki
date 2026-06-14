@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-06-10",
+  "last_run": "2026-06-14",
   "pages": {
     "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
       "content_sha": "sha256:9da43e1593914e15762e86cbf5f47b1f426c8a0fdba0454eea7a68e48e17cae7",
@@ -945,6 +945,14 @@
       "verdict": "⚠ 3 diferidos",
       "findings_count": 3,
       "deferred_count": 3
+    },
+    "wiki/conceitos/bem-aventuranca-dos-misericordiosos.md": {
+      "content_sha": "sha256:b88d7b4704b2ed444edfa6877d87434e18b684704bbd5e2a2c116349e5ef816b",
+      "last_critica_date": "2026-06-14",
+      "atualizado_em_at_critica": "2026-06-14",
+      "verdict": "sólida",
+      "findings_count": 2,
+      "deferred_count": 0
     }
   }
 }

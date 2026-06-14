@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [bem-aventurancas, sermao-da-montanha, misericordia, perdao, jesus, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
-atualizado_em: 2026-04-20
+tags: [bem-aventurancas, sermao-da-montanha, misericordia, perdao, jesus, obra/ese, autor/kardec, autor/emmanuel, autor/chico-xavier, grau/intermediario, lei/justica-amor-caridade, tema/jesus, tema/moral]
+atualizado_em: 2026-06-14
 status: ativo
 ---
 
@@ -10,7 +10,7 @@ status: ativo
 
 ## Definição
 
-Quinta bem-aventurança do Sermão da Montanha: *"Bem-aventurados os que são misericordiosos, porque obterão misericórdia"* (S. Mateus, 5:7). Kardec dedica-lhe o capítulo X do ESE. A misericórdia, para Kardec, é "o complemento da brandura" e "consiste no esquecimento e no perdão das ofensas" (ESE, cap. X, item 4). A lógica da bem-aventurança é exata: como a reciprocidade está inscrita na lei moral, **só obtém misericórdia quem a pratica**.
+Quinta bem-aventurança do Sermão da Montanha: *"Bem-aventurados os que são misericordiosos, porque obterão misericórdia"* (S. Mateus, 5:7). O termo **misericórdia** vem do latim *misericordia* — de *miser* ("o que sofre, o miserável") e *cor, cordis* ("coração"): o coração voltado para a miséria do outro, que dela se compadece e se move a perdoar e a socorrer. Kardec dedica-lhe o capítulo X do ESE. A misericórdia, para Kardec, é "o complemento da brandura" e "consiste no esquecimento e no perdão das ofensas" (ESE, cap. X, item 4). A lógica da bem-aventurança é exata: como a reciprocidade está inscrita na lei moral, **só obtém misericórdia quem a pratica**.
 
 ## Ensino de Kardec
 
@@ -55,6 +55,10 @@ Kardec coroa o capítulo com a cena da mulher adúltera (S. João, 8:3–11). "E
 
 "Obterão misericórdia" não é promessa arbitrária: é descrição da lei de ação e reação moral. Cada perdão dado é crédito lavrado para si mesmo; cada recusa é hipoteca. A bem-aventurança explicita a reciprocidade que a oração dominical já pedia: "perdoa as nossas dívidas, como perdoamos aos que nos devem" (S. Mateus, 6:12).
 
+### A misericórdia que se recebe
+
+Emmanuel acrescenta à reciprocidade um movimento de humildade. Comentando esta mesma bem-aventurança, adverte que, "a fim de que o orgulho não se nos infiltre no coração sob o nome de virtude", convém recordar não a compaixão que dispensamos, mas "a compaixão que tantas vezes procede dos outros em socorro a nós" — a paciência de quem nos suportou, o perdão de quem ferimos. Pois "todos nós, para viver, conviver e sobreviver, precisamos (...) da bondade e da compaixão de Deus" (Emmanuel / Chico Xavier, *Tocando o Barco*, cap. 22). O "obterão misericórdia" deixa, assim, de ser cálculo e se revela gratidão: pratica a misericórdia quem já se sabe, primeiro, dela devedor.
+
 ### Misericórdia como profilaxia de obsessão
 
 A doutrina espírita revela um motivo prático para perdoar: o rancor mantém o Espírito do ofensor — ou do ofendido — preso à órbita da vítima além da morte. Daí a frequência com que obsessões têm raiz em inimizades não saldadas. Perdoar em vida é **cortar amarras espirituais** antes que se tornem provas cruéis em encarnações futuras.
@@ -71,7 +75,7 @@ Aplicar a bem-aventurança é, diante da ofensa, recusar tanto a reação imedia
 
 - [[wiki/conceitos/bem-aventurancas]] — síntese e índice das oito bem-aventuranças
 - [[wiki/conceitos/bem-aventuranca-dos-brandos]] · [[wiki/conceitos/bem-aventuranca-dos-pacificadores]] — virtudes irmãs
-- [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/caridade]] · [[wiki/conceitos/nao-julgar]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
 - [[wiki/conceitos/obsessao]] · [[wiki/conceitos/prece]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]] — cap. X
 - [[wiki/obras/evangelho-segundo-mateus]] — Mt 5:7, 23–26; 6:12–15; 18:21–35; S. João 8:3–11
@@ -80,3 +84,4 @@ Aplicar a bem-aventurança é, diante da ofensa, recusar tanto a reação imedia
 
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. X ("Bem-aventurados os que são misericordiosos"), itens 1–21.
 - *Novo Testamento*. S. Mateus 5:7, 23–26; 6:12–15; 7:1–5; 18:15, 21–35; S. João 8:3–11.
+- Emmanuel / Chico Xavier. *Tocando o Barco*. Cap. 22. Edição: [[raw/mediuns/chico-xavier/emmanuel/tocando-o-barco]].
