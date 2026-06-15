@@ -39,7 +39,7 @@ O quadro sinótico foi elaborado com "particular cuidado" pelos Espíritos Erast
 
 ### O médium como intérprete
 
-O Espírito do médium nunca é completamente passivo: "O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia entre vós e os Espíritos que se comunicam" (LM, 2ª parte, cap. XIX, item 223, 6ª). Mesmo nos médiuns mecânicos, "o cérebro desempenha sempre um papel ativo" (LM, 2ª parte, cap. XVI, item 187, nota dos Espíritos).
+O Espírito do médium nunca é completamente passivo: "O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia entre vós e os Espíritos que se comunicam" (LM, 2ª parte, cap. XIX, item 223, 6ª). Mesmo nos médiuns mecânicos, "o cérebro desempenha sempre um papel ativo" (LM, 2ª parte, cap. XVI, item 189).
 
 ### Desenvolvimento e perigos
 

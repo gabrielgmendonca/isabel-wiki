@@ -75,7 +75,7 @@ Eco direto de ESE cap. XXVII, item 7 ("Deus não pode mudar a ordem da Natureza 
 
 ### O que o LE ensina sobre a prece
 
-"A prece é sempre agradável a Deus, quando ditada pelo coração" (LE, q. 658). "Quem ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo" (LE, q. 662). A prece pode ser por si mesmo, pelos outros e até pelos inimigos (LE, q. 663).
+"A prece é sempre agradável a Deus, quando ditada pelo coração" (LE, q. 658). "Quem ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo" (LE, q. 660). A prece pode ser por si mesmo, pelos outros e até pelos inimigos (LE, q. 663).
 
 ## Desdobramentos
 

@@ -31,7 +31,7 @@ Em *O Céu e o Inferno*, o Espírito do Sr. Sanson confirma e aprofunda:
 
 > "Não fazemos questão de ser de natureza masculina ou feminina: os Espíritos não se reproduzem. Deus cria-os à sua vontade, e se, para seus desígnios maravilhosos, ele quis que os Espíritos se reencarnem na terra, ele precisou acrescentar a reprodução das espécies pelo macho e a fêmea. Mas, vós o sentis, sem que seja preciso nenhuma explicação, os Espíritos não podem ter sexo." (C&I, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11)
 
-Na observação de Kardec a essa resposta, ele esclarece que Espíritos inferiores — ainda não desmaterializados — podem crer que ainda são homens ou mulheres, conservando "as mesmas paixões e os mesmos desejos". São esses que, ao se comunicarem, afirmam a existência de sexo nos Espíritos, gerando contradição aparente. Kardec explica: "o erro não é dos Espíritos, mas daqueles que os interrogam e não se dão ao trabalho de aprofundar as questões" (C&I, 2ª parte, cap. I, q. 11, observação).
+Na observação de Kardec a essa resposta, ele esclarece que Espíritos inferiores — ainda não desmaterializados — podem crer que ainda são homens ou mulheres, conservando "as mesmas paixões e os mesmos desejos". São esses que, ao se comunicarem, afirmam a existência de sexo nos Espíritos, gerando contradição aparente. Kardec explica: "o erro não é dos Espíritos, mas daqueles que os interrogam e não se dão ao trabalho de aprofundar as questões" (C&I, 2ª parte, cap. II, item 11).
 
 ## Posição de Léon Denis
 

@@ -202,7 +202,7 @@ A alegoria matriz é o **viajante perdido no deserto** (ESE, cap. XXVII, item 8)
 
 - **Agitação, urgência ansiosa** — "tem que ser agora, sem pensar mais".
 - **Impulso egoísta** — privilegia a gratificação imediata, despreza o efeito sobre os outros.
-- **Terceirização** — "o Espírito decide por mim", "esta foi a vontade de Deus". A Doutrina admite o livre-arbítrio "em toda a sua plenitude" (LE q. 843); inspirações que retiram do orante a responsabilidade da escolha são suspeitas por construção.
+- **Terceirização** — "o Espírito decide por mim", "esta foi a vontade de Deus". A Doutrina admite o livre-arbítrio "em toda a sua plenitude" (LE, q. 872); inspirações que retiram do orante a responsabilidade da escolha são suspeitas por construção.
 - **Desejo de gratificação ou vingança** — "ele vai ver", "vou provar para todos".
 - **Descolamento da realidade prática** — promete resultados sem caminho, ignora obrigações concretas, fantasia fugitiva.
 - **Confirmação cega da vaidade** — a "inspiração" diz exatamente o que se queria ouvir, sem custo nem reforma.

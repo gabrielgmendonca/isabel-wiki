@@ -38,7 +38,7 @@ Mesmo na psicografia mecânica, "o cérebro desempenha sempre um papel ativo" �
 
 ### Distinção de pneumatografia
 
-A **[[wiki/conceitos/pneumatografia|pneumatografia]]** (escrita direta) é produzida pelo Espírito sem auxílio da mão do médium — fenômeno de ordem física, muito raro e "muito fácil de ser imitado pelos trapaceiros" (LM, 2ª parte, cap. XVI, item 187).
+A **[[wiki/conceitos/pneumatografia|pneumatografia]]** (escrita direta) é produzida pelo Espírito sem auxílio da mão do médium — fenômeno de ordem física, muito raro e "muito fácil de ser imitado pelos trapaceiros" (LM, 2ª parte, cap. XVI, item 189).
 
 ## Aplicação prática
 

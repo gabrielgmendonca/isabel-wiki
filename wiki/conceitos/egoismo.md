@@ -28,7 +28,7 @@ Na escala moral descrita por Kardec, o egoísmo é incompatível com a perfeiç�
 
 ### O antídoto: a caridade
 
-A caridade — em pensamentos, palavras e ações — é o remédio para o egoísmo. Onde há caridade verdadeira, não há espaço para o egoísmo; e onde reina o egoísmo, "só se encontram a iniquidade, o ódio implacável e os castigos sem remissão" (LE, Parte 2, cap. I, Introdução).
+A caridade — em pensamentos, palavras e ações — é o remédio para o egoísmo. Onde há caridade verdadeira, não há espaço para o egoísmo; e onde reina o egoísmo, "só se encontram a iniquidade, o ódio implacável e os castigos sem remissão" (LE, q. 171).
 
 ## Aplicação prática
 

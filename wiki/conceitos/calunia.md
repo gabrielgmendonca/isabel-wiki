@@ -16,7 +16,7 @@ Imputação consciente de fato falso desonroso a outrem. Forma severa de **maled
 
 Kardec não dedica capítulo próprio à calúnia, mas a doutrina cobre o tema em três frentes:
 
-**Como infração da Lei de Justiça, Amor e Caridade.** O preceito "não façais aos outros o que não quereríeis que vos fizessem" (LE, q. 876) é a régua: a calúnia rompe simultaneamente a justiça (atribui o que não é) e a caridade (fere sem necessidade). Está contemplada no item 4 da definição evangélica de caridade: caridade em pensamento, palavras e ações (ESE, cap. XV).
+**Como infração da Lei de Justiça, Amor e Caridade.** O preceito "não façais aos outros o que não quereríeis que vos fizessem" (LE, q. 822) é a régua: a calúnia rompe simultaneamente a justiça (atribui o que não é) e a caridade (fere sem necessidade). Está contemplada no item 4 da definição evangélica de caridade: caridade em pensamento, palavras e ações (ESE, cap. XV).
 
 **Como dever de perdão e amor aos inimigos.** O ESE cap. X (Bem-aventurados os misericordiosos), item 6, ensina que "se vos reservais o direito de ver os defeitos dos outros, com que direito exigis que eles fechem os olhos sobre os vossos?" O ESE cap. XII (Amai os vossos inimigos) estende a regra à categoria-limite — a vítima da calúnia é convocada a perdoar, não a retribuir.
 

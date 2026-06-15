@@ -114,7 +114,7 @@ A lei natural e suas dez divisões, culminando na perfeição moral.
 **Destaques:**
 - Lei natural como lei de Deus, inscrita na consciência: "A lei de Deus está escrita na consciência" (LE, q. 621).
 - Jesus como "tipo da perfeição moral a que a humanidade pode aspirar na Terra" (LE, q. 625).
-- Livre-arbítrio e fatalidade: "Não há fatalidade nos atos da vida moral" (LE, q. 866).
+- Livre-arbítrio e fatalidade: não há fatalidade nos atos da vida moral (LE, q. 866).
 - Egoísmo como "a chaga da sociedade" (LE, q. 913).
 
 ### Parte Quarta — Das esperanças e consolações (q. 920–1.019)
@@ -132,7 +132,7 @@ Penas e gozos no presente e no porvir; suicídio, expiação, arrependimento; pa
 - Penas e gozos futuros são morais, não materiais: "mil vezes mais vivos do que os que experimentais na Terra, porque o Espírito, uma vez liberto, é mais impressionável" (LE, q. 965).
 - Eternidade das penas rejeitada: "Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal" (LE, q. 1006).
 - Ressurreição da carne como alegoria da reencarnação (LE, q. 1010).
-- Paraíso, inferno e purgatório: "simples alegorias" — "trazemos em nós mesmos o nosso inferno e o nosso paraíso" (LE, q. 1012, comentário).
+- Paraíso, inferno e purgatório: "simples alegorias" — "trazemos em nós mesmos o nosso inferno e o nosso paraíso" (LE, q. 1017).
 - Questão final — o reinado do bem na Terra virá "quando, entre os Espíritos que a vêm habitar, os bons predominarem" (LE, q. 1019).
 
 ### Conclusão (itens I–IX)

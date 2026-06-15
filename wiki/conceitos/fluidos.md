@@ -45,7 +45,7 @@ A partir do fluido cósmico universal (substância primitiva única), os fluidos
 - O exercício abusivo da mediunidade pode causar "emissão demasiado abundante de fluido vital" e enfraquecimento orgânico (LM, 2ª parte, cap. XIV, item 161).
 
 **No Evangelho Segundo o Espiritismo:**
-- A prece atua sobre o fluido universal: "Esse fluido recebe da vontade uma impulsão; ele é o veículo do pensamento, como o ar o é do som" (ESE, cap. XXVII, item 9).
+- A prece atua sobre o fluido universal: "Esse fluido recebe da vontade uma impulsão; ele é o veículo do pensamento, como o ar o é do som" (ESE, cap. XXVII, item 10).
 - O passe e a cura espiritual envolvem transmissão de "fluidos benéficos" dos bons Espíritos (ESE, cap. XXVIII, item 80).
 - O obsidiado é envolvido em "fluido impuro" (ESE, cap. XXVIII, item 83).
 

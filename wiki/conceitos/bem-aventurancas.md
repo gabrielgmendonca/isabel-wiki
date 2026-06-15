@@ -54,7 +54,7 @@ Lidas à luz do Pentateuco, as bem-aventuranças deixam de ser promessas consola
 
 ### Síntese de Kardec no capítulo XVII
 
-"Toda a moral de Jesus se resume na caridade e na humildade, isto é, nas duas virtudes contrárias ao egoísmo e ao orgulho. Em todos os seus ensinos, ele aponta essas duas virtudes como sendo as que conduzem à eterna felicidade: *Bem-aventurados*, disse, *os pobres de espírito*, isto é, os humildes, porque deles é o reino dos céus; *bem-aventurados os que têm puro o coração; bem-aventurados os que são brandos e pacíficos; bem-aventurados os que são misericordiosos* (...). Humildade e caridade, eis o que não cessa de recomendar e o de que dá, ele próprio, o exemplo" (ESE, cap. XVII, item 3).
+"Toda a moral de Jesus se resume na caridade e na humildade, isto é, nas duas virtudes contrárias ao egoísmo e ao orgulho. Em todos os seus ensinos, ele aponta essas duas virtudes como sendo as que conduzem à eterna felicidade: *Bem-aventurados*, disse, *os pobres de espírito*, isto é, os humildes, porque deles é o reino dos céus; *bem-aventurados os que têm puro o coração; bem-aventurados os que são brandos e pacíficos; bem-aventurados os que são misericordiosos* (...). Humildade e caridade, eis o que não cessa de recomendar e o de que dá, ele próprio, o exemplo" (ESE, cap. XV, item 3).
 
 ## Desdobramentos
 

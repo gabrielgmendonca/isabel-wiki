@@ -54,7 +54,7 @@ No mesmo ano, em [[wiki/obras/instrucoes-praticas-sobre-as-manifestacoes-espirit
 
 O LM faz da escala espírita uma **ferramenta de discernimento** nas comunicações:
 
-- As comunicações refletem o grau do Espírito: "suas comunicações trazem o cunho da ignorância ou do saber que lhes seja peculiar" (LM, 2ª parte, cap. X, item 133).
+- As comunicações refletem o grau do Espírito: "suas comunicações trazem o cunho da ignorância ou do saber que lhes seja peculiar" (LM, 2ª parte, cap. XXVII, item 299).
 - "A linguagem dos Espíritos está sempre em relação com o grau de elevação a que já tenham chegado" — regra sem exceção (LM, 2ª parte, cap. XXIV, item 263).
 - Os 26 critérios para distinguir bons de maus Espíritos (LM, 2ª parte, cap. XXIV, item 267) são, na prática, a aplicação da escala à análise de mensagens.
 - Espíritos da terceira ordem (imperfeitos) são os que praticam obsessão, fascinação e subjugação (LM, 2ª parte, cap. XXIII).

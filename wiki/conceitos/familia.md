@@ -16,7 +16,7 @@ Agrupamento humano fundado na união conjugal e na descendência, organizado pel
 
 ### A família como direito natural
 
-A vida em sociedade é, para Kardec, "estado natural" (LE, q. 766) — o homem não foi feito para o isolamento, e o isolamento prolongado é "contrário à lei da natureza" (LE, q. 768). A família é a primeira e mais íntima dessas associações, fundada na união dos sexos para a reprodução (LE, q. 686-689) e prolongada pela educação dos filhos como dever moral indeclinável (LE, q. 582-583, q. 685).
+A vida em sociedade é, para Kardec, "estado natural" (LE, q. 766) — o homem não foi feito para o isolamento, e o isolamento prolongado é contrário à lei da natureza (LE, q. 768). A família é a primeira e mais íntima dessas associações, fundada na união dos sexos para a reprodução (LE, q. 686-689) e prolongada pela educação dos filhos como dever moral indeclinável (LE, q. 582-583, q. 685).
 
 A monogamia, embora "não esteja na lei natural propriamente dita" no sentido de necessidade biológica absoluta, é considerada por Kardec **lei superior** porque deflui dos próprios requisitos da vida moral civilizada — a poligamia é tratada como "instituição que tende a desaparecer" à medida que progride a humanidade (LE, q. 696-697).
 

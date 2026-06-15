@@ -45,7 +45,7 @@ Na **morte natural** (por doença ou velhice), o desprendimento é gradual. No E
 
 No Espírito materialista e sensual, ao contrário, tudo contribui para apertar os laços; o desprendimento exige esforços contínuos, e as convulsões da agonia são indício da luta travada (C&I, 2ª parte, cap. I, item 8).
 
-Na **morte violenta**, nenhuma desagregação parcial preparou a separação. A vida orgânica, em plena força, é subitamente interrompida. O Espírito fica atordoado, acredita ainda estar vivo, e essa ilusão pode durar desde breves instantes até anos, conforme o grau de adiantamento moral. No caso do suicídio, a situação é especialmente penosa: "O corpo, ligado ao perispírito por todas as suas fibras, todas as convulsões do corpo repercutem na alma" (C&I, 2ª parte, cap. I, item 11).
+Na **morte violenta**, nenhuma desagregação parcial preparou a separação. A vida orgânica, em plena força, é subitamente interrompida. O Espírito fica atordoado, acredita ainda estar vivo, e essa ilusão pode durar desde breves instantes até anos, conforme o grau de adiantamento moral. No caso do suicídio, a situação é especialmente penosa: "O corpo, ligado ao perispírito por todas as suas fibras, todas as convulsões do corpo repercutem na alma" (C&I, 2ª parte, cap. I, item 12).
 
 ### Duração da perturbação
 

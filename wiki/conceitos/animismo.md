@@ -34,7 +34,7 @@ Kardec não emprega o termo "animismo" (cunhado depois dele), mas a categoria es
 
 > "O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia entre vós e os Espíritos que se comunicam." (LM, 2ª parte, cap. XIX, item 223, 6ª)
 
-Mesmo em médiuns mecânicos "o cérebro desempenha sempre um papel ativo" (LM, 2ª parte, cap. XVI, item 187, nota dos Espíritos). A mediunidade é, portanto, sempre operação de duas vontades — a do Espírito comunicante e a do médium — e nunca canal puro.
+Mesmo em médiuns mecânicos "o cérebro desempenha sempre um papel ativo" (LM, 2ª parte, cap. XVI, item 189). A mediunidade é, portanto, sempre operação de duas vontades — a do Espírito comunicante e a do médium — e nunca canal puro.
 
 ### Identidade dos Espíritos
 

@@ -30,7 +30,7 @@ Jesus reforça o princípio em várias ocasiões: "aquele que se humilhar e se t
 
 ### O orgulho como fonte dos vícios
 
-Toda a moral de Jesus, lembra Kardec, "se resume na caridade e na humildade, isto é, nas duas virtudes contrárias ao egoísmo e ao orgulho" (ESE, cap. XVII, item 3). Sem humildade não há caridade verdadeira, porque "este sentimento nivela os homens, dizendo-lhes que todos são irmãos" (Lacordaire, ESE, cap. VII, item 11). E Lázaro acrescenta: "Sem a humildade, apenas vos adornais de virtudes que não possuís, como se trouxésseis um vestuário para ocultar as deformidades do vosso corpo" (ibid.).
+Toda a moral de Jesus, lembra Kardec, "se resume na caridade e na humildade, isto é, nas duas virtudes contrárias ao egoísmo e ao orgulho" (ESE, cap. XV, item 3). Sem humildade não há caridade verdadeira, porque "este sentimento nivela os homens, dizendo-lhes que todos são irmãos" (Lacordaire, ESE, cap. VII, item 11). E Lázaro acrescenta: "Sem a humildade, apenas vos adornais de virtudes que não possuís, como se trouxésseis um vestuário para ocultar as deformidades do vosso corpo" (ibid.).
 
 ## Desdobramentos
 

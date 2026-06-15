@@ -10,7 +10,6 @@ Sem dependências externas — apenas stdlib.
 """
 
 import argparse
-import difflib
 import json
 import re
 import sys
@@ -48,6 +47,12 @@ from kardec_structure import (  # noqa: E402
 )
 from link_citations import KARDEC_RE  # noqa: E402
 from cite import literal_text  # noqa: E402
+from reverse_locus import (  # noqa: E402
+    _ELISION_RE,
+    classify,
+    normalize as _normalize_quote,
+    word_coverage as _word_coverage,
+)
 
 STALE_DAYS = 14
 
@@ -634,62 +639,41 @@ _QUOTE_BEFORE_CITE_RE = re.compile(
     r'(\([^)\n]*\))'                # parêntese seguinte (citação candidata)
 )
 
-# Marcadores de elisão dentro da aspa, colapsados antes do match: "...", "…",
-# "[...]", "[…]". (A cobertura fuzzy tolera a lacuna; não precisa fragmentar.)
-_ELISION_RE = re.compile(r'\[\s*(?:\.\.\.|…)\s*\]|\.\.\.|…')
-
 # Pisos contra ruído de aspas curtas/triviais.
 _MIN_WORDS = 5
-# Abaixo desta fração de palavras da aspa alinhadas (em ordem) ao locus, a aspa é
-# candidata a fabricação. Conservador: 0.5 = mais da metade da aspa ausente da
-# fonte. Substring exato (1.0) era frágil — variação de 1 palavra ("se descobre"
-# vs "descobre"), ortografia de época ou colchete editorial `[são]` derrubava.
+# Abaixo desta fração de cobertura CONTÍGUA (ver reverse_locus.word_coverage) a
+# aspa não bate verbatim com o locus citado — candidata a fabricação / locus
+# errado / paráfrase. A classificação fina (e a sugestão do locus correto) vem de
+# reverse_locus.classify. Conservador: 0.5 = metade da aspa ausente como trecho
+# contíguo. _normalize_quote / _word_coverage / _ELISION_RE vêm de reverse_locus
+# (fonte única — check e índice reverso usam matemática idêntica de cobertura).
 _COVERAGE_MIN = 0.5
 
 
-def _normalize_quote(s: str) -> str:
-    """Casefold + sem acento + só alfanumérico colapsado em espaço único.
-    Absorve diferenças de pontuação, caixa e diacrítico entre aspa e fonte."""
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
-    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
-
-
-def _word_coverage(quote: str, locus: str) -> float:
-    """Fração das palavras da aspa que se alinham, EM ORDEM, ao texto do locus
-    (`difflib` matching blocks a nível de palavra). 1.0 = aspa verbatim; baixo =
-    aspa cuja maioria das palavras não aparece na fonte (candidata a fabricação).
-    Tolera rewording leve, ortografia de época e elisão — robusto onde substring
-    exato quebrava."""
-    qw = _normalize_quote(_ELISION_RE.sub(" ", quote)).split()
-    lw = _normalize_quote(locus).split()
-    if not qw:
-        return 1.0
-    sm = difflib.SequenceMatcher(None, qw, lw, autojunk=False)
-    return sum(b.size for b in sm.get_matching_blocks()) / len(qw)
-
-
 def check_literal_quote_exists(pages: list[Path]) -> dict:
-    """Check (info) — aspa literal atribuída a Kardec que NÃO existe no locus citado.
+    """Check (info) — aspa literal atribuída a Kardec que não bate verbatim com o
+    locus citado, classificada pelo índice reverso (ROADMAP §12).
 
-    Padrão alvo (ROADMAP §5 "aspas literais fabricadas"): `"frase" (LE, q. N)` onde
-    a frase, posta como citação literal, não aparece no texto da q. N. Reusa
-    `cite.py:literal_text` (verdade-fonte do Pentateuco) — checagem de EXISTÊNCIA da
-    aspa (mais fraca que "o trecho sustenta a afirmação", que segue bloqueada por
-    granularidade plena; ver "Versão estrita do check" no §5).
+    Padrão alvo: `"frase" (LE, q. N)` onde a frase, posta como citação literal, não
+    aparece como trecho contíguo na q. N. Para cada candidato (cobertura contígua
+    < _COVERAGE_MIN no locus citado), `reverse_locus.classify` varre a obra inteira
+    e anexa um veredicto:
 
-    **Aid de auditoria humana, não gate** — entra como `info` e fica fora do hook
-    PostToolUse (SINGLE_FILE_CHECKS): a precisão é limitada pela extração de locus do
-    `cite.py`, que erra o bloco em capítulos de numeração irregular (ESE cap. XXVIII
-    — coletânea de preces; C&I 2ª parte — relatos nominais), gerando falso-positivo.
-    Os flags são CANDIDATOS para o levantamento manual do §5, não veredictos.
+    - **misattributed**: a aspa é verbatim em OUTRO locus → `suggested_locus` traz o
+      `ref` correto (auto-corrigível: trocar o locus). Classe 2 do §12 — o erro
+      mais comum dos itens diferidos do `/critica`, agora detectado sem LLM.
+    - **fabricated**: a aspa não aparece contígua em locus nenhum da obra. Classe 1.
+    - **paraphrase**: o melhor locus É o citado, mas a aspa o parafraseia (não é
+      verbatim) → conserto é de-quote ou usar o texto literal.
+    - **uncertain**: zona cinzenta → revisão humana.
+    - **supported** é SUPRIMIDO (não vira item): o índice achou a aspa no próprio
+      locus citado — o flag foi artefato de extração do `cite.py` em capítulo
+      irregular (ESE cap. XXVIII, C&I 2ª parte). Isso elimina a maior fonte de FP.
 
-    Conservador por design:
-    - só double-quotes adjacentes a uma citação Kardec **resolvível**;
-    - cobertura fuzzy de palavras (tolera acento/caixa/pontuação/rewording leve);
-      elisões (`[...]`, `…`) são colapsadas;
-    - piso de ≥5 palavras (aspa curta não é checada — evitaria casar "caridade");
-    - skip em blockquote/code (transcrição literal histórica, fora de escopo);
-    - locus inválido → skip (já coberto por `check_citation_resolves`).
+    **Aid de auditoria, não gate** — `info`, fora do hook PostToolUse. Conservador:
+    só double-quotes adjacentes a citação Kardec **resolvível**; cobertura contígua
+    (tolera acento/caixa/pontuação/elisão); piso de ≥5 palavras; skip em
+    blockquote/code; locus inválido → skip (coberto por `check_citation_resolves`).
     """
     items: list[dict] = []
     for page in pages:
@@ -708,14 +692,23 @@ def check_literal_quote_exists(pages: list[Path]) -> dict:
                 if len(_normalize_quote(_ELISION_RE.sub(" ", quote)).split()) < _MIN_WORDS:
                     continue  # aspa curta demais para afirmar fabricação
                 coverage = _word_coverage(quote, locus)
-                if coverage < _COVERAGE_MIN:
-                    items.append({
-                        "path": str(page),
-                        "line": i,
-                        "quote": quote if len(quote) <= 120 else quote[:117] + "...",
-                        "citation": citation,
-                        "coverage": round(coverage, 2),
-                    })
+                if coverage >= _COVERAGE_MIN:
+                    continue
+                verdict = classify(km.group("sigla"), km.group("rest"), quote, coverage)
+                if verdict.label == "supported":
+                    continue  # FP de extração: a aspa está no locus citado
+                item = {
+                    "path": str(page),
+                    "line": i,
+                    "quote": quote if len(quote) <= 120 else quote[:117] + "...",
+                    "citation": citation,
+                    "coverage": round(coverage, 2),
+                    "classification": verdict.label,
+                }
+                if verdict.label == "misattributed" and verdict.suggested_ref:
+                    item["suggested_locus"] = f"({km.group('sigla')}, {verdict.suggested_ref})"
+                    item["suggested_coverage"] = round(verdict.suggested_coverage, 2)
+                items.append(item)
     # severity "info": candidato a aspa fabricada exige conferência humana (a
     # cobertura é tolerante e a extração de locus do cite.py é imperfeita em
     # capítulos irregulares). Não promover a warning/error sem calibrar (§5).

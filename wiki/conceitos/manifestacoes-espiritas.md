@@ -48,7 +48,7 @@ A divisão **manifestações físicas × inteligentes** que estrutura LM já est
 
 ## Princípio fundamental
 
-Nada de sobrenatural: "Os Espíritos não são mais do que as almas dos homens [...]. Se se admite que as almas estão por toda parte, ter-se-á que admitir, do mesmo modo, que os Espíritos estão por toda parte" (LM, 1ª parte, cap. I, item 2). As manifestações "entram no cômputo dos fatos naturais" (LM, 1ª parte, cap. I, item 3).
+Nada de sobrenatural: "Os Espíritos não são mais do que as almas dos homens [...]. Se se admite que as almas estão por toda parte, ter-se-á que admitir, do mesmo modo, que os Espíritos estão por toda parte" (LM, 1ª parte, cap. I, item 2). As manifestações "entram no cômputo dos fatos naturais" (LM, 2ª parte, cap. I, item 52).
 
 ## Subtipos limítrofes refinados na Revista Espírita (1859–1860)
 

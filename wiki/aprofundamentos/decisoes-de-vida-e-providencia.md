@@ -17,7 +17,7 @@ O texto que trata mais diretamente desta situação está no **Evangelho Segundo
 1. **A Providência age — mas por inspiração, não por substituição.** Os bons Espíritos sugerem ideias; o homem decide e age. O mérito da escolha permanece com ele.
 2. **O que se pode pedir com confiança é o discernimento, não o desfecho.** Coragem, paciência, resignação, ideias sãs — sim. Que a prova se abrevie ou que a riqueza venha — não.
 
-Tudo o mais decorre disso: o livre-arbítrio "em toda a sua plenitude" (LE q. 843); o critério moral em lugar do critério de êxito; o horizonte largo da reencarnação a enquadrar a decisão presente. Esta página articula esses eixos e aplica-os a seis casos típicos.
+Tudo o mais decorre disso: o livre-arbítrio "em toda a sua plenitude" (LE, q. 872); o critério moral em lugar do critério de êxito; o horizonte largo da reencarnação a enquadrar a decisão presente. Esta página articula esses eixos e aplica-os a seis casos típicos.
 
 ## Análise por eixos
 
@@ -83,7 +83,7 @@ Atenção pastoral: este eixo **não é fatalismo**. Não diz "qualquer escolha 
 
 ### Eixo 4 — Livre-arbítrio, responsabilidade e horizonte longo
 
-Sem o livre-arbítrio "em toda a sua plenitude" (LE q. 843), todo o resto desaba. Se a decisão fosse pré-determinada, o mérito da escolha desapareceria, e com ele a justiça da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. Por isso a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825-872) é a contrapartida indispensável da Lei de Causa e Efeito: só responde quem podia escolher.
+Sem o livre-arbítrio "em toda a sua plenitude" (LE, q. 872), todo o resto desaba. Se a decisão fosse pré-determinada, o mérito da escolha desapareceria, e com ele a justiça da [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|Lei de Causa e Efeito]]. Por isso a [[wiki/conceitos/leis-morais/lei-de-liberdade|Lei de Liberdade]] (LE q. 825-872) é a contrapartida indispensável da Lei de Causa e Efeito: só responde quem podia escolher.
 
 A consequência é exigente: **o homem é o autor de suas decisões**. Não pode transferir a decisão para "a vontade de Deus", para "o que o Espírito disser", para "o que estava no plano". Estas formulações — populares no neopentecostalismo brasileiro e em parte da literatura de autoajuda espiritual contemporânea — colidem com o ensino de Kardec. A Doutrina não admite que Deus tenha "um plano específico para cada vida" no sentido pré-determinista. O que admite é que cada Espírito **escolheu provas e missão antes de reencarnar** ([[wiki/conceitos/planejamento-reencarnatorio|planejamento reencarnatório]]) — mas a escolha foi do próprio Espírito, e a execução, no corpo, exige novas escolhas livres a cada decisão.
 
@@ -144,7 +144,7 @@ Quem está orando para decidir recebe pensamentos. Como saber se são inspiraç�
 
 ### O equívoco do "Deus tem um plano específico para você"
 
-Esta fórmula — corrente no neopentecostalismo brasileiro e em parte da literatura de autoajuda cristã contemporânea — colide com o livre-arbítrio "em toda a sua plenitude" (LE q. 843). O ensino espírita admite que cada Espírito **escolheu provas e missão** antes de encarnar (planejamento reencarnatório), mas a escolha foi do próprio Espírito, é elástica, e a execução exige decisões livres a cada bifurcação. Não há "vontade específica de Deus" para a sua escolha de carreira ou de cônjuge. Há a vontade de Deus de que você **se aperfeiçoe moralmente** — e para isso lhe foi dada razão, livre-arbítrio, e o concurso dos bons Espíritos pela inspiração. O resto é com você.
+Esta fórmula — corrente no neopentecostalismo brasileiro e em parte da literatura de autoajuda cristã contemporânea — colide com o livre-arbítrio "em toda a sua plenitude" (LE, q. 872). O ensino espírita admite que cada Espírito **escolheu provas e missão** antes de encarnar (planejamento reencarnatório), mas a escolha foi do próprio Espírito, é elástica, e a execução exige decisões livres a cada bifurcação. Não há "vontade específica de Deus" para a sua escolha de carreira ou de cônjuge. Há a vontade de Deus de que você **se aperfeiçoe moralmente** — e para isso lhe foi dada razão, livre-arbítrio, e o concurso dos bons Espíritos pela inspiração. O resto é com você.
 
 ### O equívoco do mediunismo de consulta
 

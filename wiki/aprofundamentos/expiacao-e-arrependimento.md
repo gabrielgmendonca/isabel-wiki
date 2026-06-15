@@ -82,7 +82,7 @@ O *Céu e o Inferno* complementa: "O arrependimento pode ocorrer em todo lugar e
 
 > "Desejar o arrependido uma nova encarnação para se purificar. O Espírito compreende as imperfeições que o privam de ser feliz e por isso aspira a uma nova existência em que possa expiar suas faltas." (LE, q. 991; remissão a LE, q. 332 e 975.)
 
-O arrependimento na erraticidade gera no Espírito o desejo de reencarnar para reparar — ligação direta com o mecanismo da [[wiki/conceitos/reencarnacao]] como instrumento de justiça e progresso. O *Céu e o Inferno* detalha o mecanismo: "O Espírito culpado sofre primeiro na vida espiritual em razão do grau de suas imperfeições; depois, a vida corpórea lhe é dada como meio de reparação; é por isso que ele se reencontra aí, seja com as pessoas que ofendeu, seja em meios análogos àqueles onde cometeu o mal" (C&I, 1ª parte, cap. VII, item 6).
+O arrependimento na erraticidade gera no Espírito o desejo de reencarnar para reparar — ligação direta com o mecanismo da [[wiki/conceitos/reencarnacao]] como instrumento de justiça e progresso. O *Céu e o Inferno* detalha o mecanismo: "O Espírito culpado sofre primeiro na vida espiritual em razão do grau de suas imperfeições; depois, a vida corpórea lhe é dada como meio de reparação; é por isso que ele se reencontra aí, seja com as pessoas que ofendeu, seja em meios análogos àqueles onde cometeu o mal" (C&I, 1ª parte, cap. V, item 6).
 
 Quem não repara suas faltas nesta vida encontrar-se-á, "numa existência ulterior, em contato com as mesmas pessoas que tiveram queixas dele, e em condições escolhidas por ele mesmo, de maneira a poder provar-lhes sua dedicação, e fazer-lhes tanto bem quanto lhes fez mal" (C&I, 1ª parte, cap. VII, item 17). A reencarnação, portanto, não é castigo cego — é oportunidade de justiça restaurativa.
 
@@ -180,7 +180,7 @@ O Espírito Lisbeth, evocado em Bordeaux (1862), oferece testemunho tocante sobr
 
 A expiação opera nos dois planos: provas materiais durante a encarnação e sofrimentos morais na erraticidade. Ambas contribuem para o [[wiki/conceitos/progresso-espiritual]].
 
-Não se trata de duplo castigo, mas de continuidade: "A expiação, no mundo dos Espíritos e na terra, não é um duplo castigo para o Espírito; é o mesmo castigo que continua na terra, como complemento, visando facilitar-lhe o aperfeiçoamento por um trabalho efetivo; depende dele aproveitá-lo" (C&I, 1ª parte, cap. VII, item 6).
+Não se trata de duplo castigo, mas de continuidade: "A expiação, no mundo dos Espíritos e na terra, não é um duplo castigo para o Espírito; é o mesmo castigo que continua na terra, como complemento, visando facilitar-lhe o aperfeiçoamento por um trabalho efetivo; depende dele aproveitá-lo" (C&I, 1ª parte, cap. V, item 6).
 
 O ESE aprofunda a distinção entre prova e expiação: "A expiação serve sempre de prova, mas nem sempre a prova é uma expiação. Provas e expiações, todavia, são sempre sinais de relativa inferioridade, porquanto o que é perfeito não precisa ser provado" (ESE, cap. V, item 9). Isso ajuda a compreender que o sofrimento nunca é arbitrário — seja expiação do passado ou prova para o futuro, tem sempre finalidade educativa.
 

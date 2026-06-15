@@ -1,0 +1,280 @@
+# Triagem de aspas do Pentateuco — índice reverso
+
+> Gerado por `lint_wiki.py --check literal_quote_exists` + `reverse_locus.classify`.
+> Excluído do build (`reports/`). Aid de auditoria — conferir antes de aplicar.
+> Regenerar: `uv run python .claude/skills/lint/scripts/lint_wiki.py --check literal_quote_exists`.
+
+**129 candidatos** — misattributed: 1 · fabricated: 97 · paraphrase: 8 · uncertain: 23
+
+> **As 25 mal-atribuições da 1ª passada foram corrigidas (2026-06-15):** 22 trocas de locus + 2 de-quotes (paráfrase no locus certo). A única `misattributed` restante (`parabola-do-bom-samaritano`) é falso-positivo — a máxima 'Fora da caridade não há salvação' está mesmo no ESE cap. XV item 10 citado (o índice preferiu o item 8 por ser wikilink).
+
+
+## Mal-atribuída (classe 2) — trocar `ref` pelo sugerido
+
+- `conceitos/parabola-do-bom-samaritano.md:29` — (ESE, cap. XV, item 10) → **(ESE, cap. XV, item 8)** (cob. 0.43→0.86)
+  - “[[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao|Fora da caridade não há salvação]]”
+
+## Fabricada (classe 1) — de-quote / parafrasear / reancorar
+
+- `aprofundamentos/dor-rigidez.md:61` — (LE, q. 762) (cob. 0.43)
+  - “sempre que não se descobre outra melhor”
+- `aprofundamentos/dor-rigidez.md:185` — (LE, Conclusão, item III) (cob. 0.0)
+  - “Que fiz do orgulho e da vaidade? Sacrifiquei-os?”
+- `aprofundamentos/escolha-de-provas.md:284` — (ESE, cap. V, item 12) (cob. 0.0)
+  - “o sofrimento é o único meio de levar o Espírito à reflexão, ao arrependimento e à melhora”
+- `aprofundamentos/missao-de-kardec.md:41` — (ESE, cap. I, item 7) (cob. 0.0)
+  - “A revelação espírita não foi feita só por intermédio de um homem, foi feita simultaneamente em todos os pontos do glo...”
+- `aprofundamentos/missao-de-kardec.md:42` — (ESE, Introdução, item 4) (cob. 0.31)
+  - “A cada fase do progresso intelectual e moral corresponde um grau de revelação”
+- `aprofundamentos/missao-de-kardec.md:67` — (LE, Conclusão, item I) (cob. 0.0)
+  - “se rejeita, sem hesitar, todo princípio que se choque com a razão”
+- `aprofundamentos/sexualidade-em-andre-luiz.md:103` — (LE, q. 200) (cob. 0.19)
+  - “Os Espíritos não têm sexo no sentido que entendeis. Os sexos são uma consequência da organização”
+- `conceitos/amorterapia.md:25` — (ESE, cap. XV, item 4) (cob. 0.0)
+  - “**benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas**”
+- `conceitos/avareza.md:22` — (ESE, cap. XVI; S. Lucas, 12:16–21; ver [[wiki/conceitos/parabola-do-rico-insensato]]) (cob. 0.0)
+  - “Insensato! esta noite te pedirão a tua alma”
+- `conceitos/bem-aventuranca-dos-famintos-de-justica.md:30` — (ESE, cap. V, item 16) (cob. 0.0)
+  - “Prestam-se, porém, a mais extensas aplicações as três palavras — *justos, pobres e aflitos* — que resumem todas as co...”
+- `conceitos/bem-aventuranca-dos-famintos-de-justica.md:40` — (ESE, cap. XV, item 5) (cob. 0.0)
+  - “A caridade é a mais completa e mais sublime expressão da justiça”
+- `conceitos/bem-aventuranca-dos-perseguidos.md:19` — (ESE, cap. V, item 16) (cob. 0.0)
+  - “Pela palavra justos, não se deve, nesta passagem, entender unicamente o homem virtuoso. Prestam-se, porém, a mais ext...”
+- `conceitos/bem-aventuranca-dos-perseguidos.md:43` — (ESE, cap. XXVIII, item 3, referindo cap. XII) (cob. 0.0)
+  - “Constituem parte das nossas provas terrenas as perseguições que os maus nos infligem. Devemos, então, recebê-las sem ...”
+- `conceitos/bem-aventuranca-dos-puros-de-coracao.md:53` — (LM, 2ª parte, cap. XIX, item 226) (cob. 0.0)
+  - “Os Espíritos atraídos pelos médiuns são, em geral, da mesma natureza moral deles”
+- `conceitos/caridade.md:19` — (ESE, cap. XV, item 10) (cob. 0.0)
+  - “Cada um será julgado segundo as suas obras”
+- `conceitos/caridade.md:26` — (ESE, cap. XI, item 9) (cob. 0.0)
+  - “A caridade moral consiste na benevolência para com todos, na indulgência para as imperfeições alheias, no perdão das ...”
+- `conceitos/caridade.md:54` — (ESE, cap. XI, item 11) (cob. 0.0)
+  - “O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra”
+- `conceitos/caridade.md:58` — (ESE, cap. XIII, item 4) (cob. 0.0)
+  - “A verdadeira caridade não consiste apenas no ato de dar esmola, mas na benevolência, na indulgência e no perdão”
+- `conceitos/cartas-vivas-de-jesus.md:32` — (LM, 2ª parte, cap. XX, item 220 e seguintes) (cob. 0.0)
+  - “os Espíritos verdadeiramente bons só se comunicam com pessoas de boa moral”
+- `conceitos/culto-do-evangelho-no-lar.md:19` — (LE, q. 666) (cob. 0.0)
+  - “o lugar é indiferente para os Espíritos verdadeiramente bons”
+- `conceitos/culto-do-evangelho-no-lar.md:25` — (ESE, cap. XXVII, item 9) (cob. 0.0)
+  - “pelo coração e pelo pensamento, se associam a um mesmo sentimento e tenham um mesmo objetivo”
+- `conceitos/desdobramento.md:28` — (LE, q. 439) (cob. 0.0)
+  - “no êxtase, o despreendimento da alma do corpo é mais completo que durante o sonambulismo”
+- `conceitos/discernimento-dos-espiritos.md:60` — (LM, 2ª parte, cap. XXIV, item 267) (cob. 0.0)
+  - “jamais emprega a linguagem altiva, arrogante, descortês”
+- `conceitos/dor.md:25` — (LE, q. 920) (cob. 0.0)
+  - “A felicidade perfeita pertence somente ao Espírito que alcançou a perfeição absoluta”
+- `conceitos/egoismo.md:35` — (LE, Conclusão, item III) (cob. 0.0)
+  - “Fez o bem que podia? Sacrificou algum interesse em favor do próximo?”
+- `conceitos/emancipacao-da-alma.md:48` — (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV) (cob. 0.0)
+  - “o Espírito pode emancipar-se e comunicar-se”
+- `conceitos/emancipacao-da-alma.md:49` — (LM, 2ª parte, cap. XIX, item 223, 2ª) (cob. 0.0)
+  - “A alma do médium pode comunicar-se, como a de qualquer outro”
+- `conceitos/evocacao.md:37` — (LM, 2ª parte, cap. XXV, item 272, paráfrase) (cob. 0.0)
+  - “Não há Espírito que, chamado, não acuda ao nosso chamado, se puder fazê-lo”
+- `conceitos/evocacao.md:40` — (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV, seção "Evocações das pessoas vivas") (cob. 0.0)
+  - “muitas vezes se comunicam convosco pela escrita, sem que as chameis”
+- `conceitos/fe-raciocinada.md:27` — (ESE, cap. XIX, item 4) (cob. 0.0)
+  - “A fé que transporta montanhas é a que dá a força e a energia, a que leva ao cumprimento das grandes coisas”
+- `conceitos/fe.md:23` — (ESE, cap. XIX, item 6) (cob. 0.1)
+  - “a fé raciocinada, aquela que se baseia nos fatos e na lógica, não deixa nenhuma obscuridade; o homem crê porque tem c...”
+- `conceitos/fe.md:51` — (ESE, cap. XIX, item 12) (cob. 0.33)
+  - “Crê e caminha! A fé é o farol que dissipa as trevas”
+- `conceitos/homem-de-bem.md:21` — (ESE, cap. XVII, item 3) (cob. 0.0)
+  - “Crê na bondade, na grandeza e na justiça de Deus e aceita a vida como uma prova que lhe cumpre suportar”
+- `conceitos/homem-de-bem.md:25` — (ESE, cap. XVII, item 3) (cob. 0.1)
+  - “Consulta a sua consciência sobre todos os seus atos, perguntando a si mesmo se não viola a justiça, se não faz a outr...”
+- `conceitos/ideoplastia.md:29` — (LM, 2ª parte, cap. VI) (cob. 0.0)
+  - “visível e mesmo tangível, conforme as condições fluídicas do meio”
+- `conceitos/leis-morais/index.md:22` — (LE, q. 621) (cob. 0.0)
+  - “Deus a gravou na consciência do homem”
+- `conceitos/leis-morais/lei-de-conservacao.md:56` — (LE, q. 726) (cob. 0.0)
+  - “tornam a vida útil e agradável a Deus”
+- `conceitos/mediunidade-curativa.md:21` — (LM, 2ª parte, cap. XIV, item 175) (cob. 0.0)
+  - “esses médiuns agem por efluxo de um fluido que comunicam ao paciente, por intermédio dos Espíritos bons, dos quais sã...”
+- `conceitos/mediunidade.md:42` — (LM, 2ª parte, cap. XIX, item 223, 6ª) (cob. 0.0)
+  - “O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia...”
+- `conceitos/mediunidade.md:52` — (LM, 2ª parte, cap. XXXI, comunicação XII) (cob. 0.0)
+  - “uma tarefa que ele deve desempenhar e pela qual será feliz ou infeliz, conforme o uso que dela fizer”
+- `conceitos/mundos-de-expiacao-e-provas.md:23` — (ESE, cap. III, item 13) (cob. 0.0)
+  - “A vida material é rude, penosa. A inteligência se desenvolve no meio das lutas e dos obstáculos”
+- `conceitos/mundos-de-expiacao-e-provas.md:27` — (ESE, cap. III, item 14) (cob. 0.0)
+  - “A Terra é atualmente um desses mundos, e por isso o homem aí se acha sujeito a tantas vicissitudes”
+- `conceitos/mundos-de-expiacao-e-provas.md:35` — (ESE, cap. III, item 4) (cob. 0.0)
+  - “A dor é o aguilhão que leva o Espírito a avançar”
+- `conceitos/mundos-felizes.md:31` — (ESE, cap. III, item 11) (cob. 0.0)
+  - “Aí, não há lutas, dissensões, partidos, guerras, assassínios. As artes, as ciências, a indústria são cultivadas, poré...”
+- `conceitos/mundos-felizes.md:35` — (ESE, cap. III, item 12) (cob. 0.11)
+  - “Deus não fez criaturas privilegiadas; a todos dá direitos e deveres iguais. Se uns estão mais adiantados do que outro...”
+- `conceitos/mundos-regeneradores.md:27` — (ESE, cap. III, item 17) (cob. 0.0)
+  - “Aí, reinam a equidade e o amor. Todos se ajudam e se assistem mutuamente. Nenhuma rivalidade, nenhuma inveja. A autor...”
+- `conceitos/mundos-regeneradores.md:35` — (ESE, cap. III, item 18) (cob. 0.0)
+  - “O homem aí não é ainda completamente feliz, porém já não é desgraçado. A felicidade perfeita ele não a experimenta, m...”
+- `conceitos/nao-julgar.md:17` — (ESE cap. X) (cob. 0.43)
+  - “Não julgueis para que não sejais julgados”
+- `conceitos/nao-julgar.md:51` — (ESE cap. X, item 10) (cob. 0.0)
+  - “É preciso saber dizer a verdade — quando o caso o exige — sem aspereza”
+- `conceitos/oracao-dominical.md:13` — (ESE, cap. XXVIII, item 2) (cob. 0.0)
+  - “o mais perfeito modelo de concisão, verdadeira obra-prima de sublimidade na simplicidade”
+- `conceitos/oracao-dominical.md:19` — (ESE, cap. XXVIII, item 2) (cob. 0.0)
+  - “sob a mais singela forma, ela resume **todos os deveres do homem para com Deus, para consigo mesmo e para com o próxi...”
+- `conceitos/oracao-dominical.md:39` — (ESE, cap. XXVIII, item 3, nota) (cob. 0.0)
+  - “daria a entender que a tentação promana de Deus (…), ideia blasfematória que igualaria Deus a Satanás e que, portanto...”
+- `conceitos/orgulho.md:31` — (LE, Conclusão, item III) (cob. 0.0)
+  - “Que fiz do orgulho e da vaidade? Sacrifiquei-os?”
+- `conceitos/parabola-da-figueira-seca.md:31` — (ESE, cap. XIX, item 10) (cob. 0.0)
+  - “A fé é a mãe da esperança e da caridade”
+- `conceitos/parabola-do-filho-prodigo.md:31` — (LE, q. 1001) (cob. 0.0)
+  - “sempre se pode reparar o mal que se fez”
+- `conceitos/parabola-do-juiz-iniquo.md:23` — (ESE, cap. XXVII, item 7) (cob. 0.0)
+  - “pedir não é mudar a vontade de Deus, mas dispor a nossa”
+- `conceitos/parabola-do-semeador.md:33` — (ESE, cap. XVII, item 6) (cob. 0.0)
+  - “a condenação do egoísmo, da indiferença, do amor das riquezas e da vaidade”
+- `conceitos/potencias-da-alma.md:25` — (LE, q. 621) (cob. 0.0)
+  - “a lei que Deus gravou no coração do homem”
+- `conceitos/prece.md:19` — (ESE, cap. XXVII, item 1) (cob. 0.0)
+  - “A prece é um ato de adoração. Orar a Deus é pensar nEle; é aproximar-se dEle; é pôr-se em comunicação com Ele”
+- `conceitos/prece.md:19` — (ESE, cap. XXVII, item 4) (cob. 0.0)
+  - “Deus distingue dos que não passam de vã fórmula os que oram com o coração”
+- `conceitos/prece.md:23` — (ESE, cap. XXVII, item 7) (cob. 0.0)
+  - “Deus não pode mudar a ordem da Natureza ao gosto de cada um”
+- `conceitos/prece.md:27` — (ESE, cap. XXVII, item 9) (cob. 0.0)
+  - “Pela prece, o homem atrai o concurso dos bons Espíritos, que o secundam nas boas resoluções e lhe inspiram bons pensa...”
+- `conceitos/prece.md:31` — (ESE, cap. XXVII, item 5) (cob. 0.0)
+  - “Uma prece inteligível e sentida vale mais que um número incalculável de orações ditas como mera fórmula”
+- `conceitos/prece.md:35` — (ESE, cap. XXVII, item 18) (cob. 0.21)
+  - “A prece pode efetivamente concorrer para aliviar e abreviar os sofrimentos do Espírito imperfeito”
+- `conceitos/principio-vital.md:48` — (Gênese, cap. X, item 19) (cob. 0.0)
+  - “Os corpos orgânicos seriam, então, verdadeiras pilhas elétricas, que funcionam enquanto os elementos dessas pilhas se...”
+- `conceitos/responsabilidade.md:11` — (ESE, cap. XVI; S. Lucas, 12:48) (cob. 0.0)
+  - “de quem mais recebeu, mais se exigirá”
+- `conceitos/suicidio.md:48` — (LE, q. 953, paráfrase) (cob. 0.0)
+  - “quem arrisca a vida para salvar a de outro, ou por uma causa nobre, não comete suicídio”
+- `conceitos/suicidio.md:85` — (C&I, 2ª parte, cap. IV) (cob. 0.43)
+  - “aos instintos brutais e aos gozos materiais”
+- `conceitos/tres-revelacoes.md:19` — (ESE, cap. I, item 5) (cob. 0.0)
+  - “Era preciso impressionar vivamente a imaginação de gentes rudes, a quem só pelo temor se podia tocar”
+- `conceitos/tres-revelacoes.md:43` — (ESE, cap. I, item 7) (cob. 0.0)
+  - “é um ser coletivo, não é uma pessoa”
+- `conceitos/tres-revelacoes.md:47` — (ESE, Introdução, item 4) (cob. 0.31)
+  - “A cada fase do progresso intelectual e moral corresponde um grau de revelação”
+- `conceitos/verdadeiro-espirita.md:53` — (LE, Conclusão, item III) (cob. 0.0)
+  - “Fiz o bem que podia? Sacrifiquei algum interesse em favor do próximo?”
+- `conceitos/vida-futura.md:23` — (ESE, cap. II, item 5) (cob. 0.08)
+  - “A vida corporal é necessária ao aperfeiçoamento do Espírito, pelo trabalho a que aí se vê compelido; é, pois, do inte...”
+- `conceitos/vida-futura.md:27` — (ESE, cap. II, item 3) (cob. 0.0)
+  - “Aquele que se considera apenas viajante de passagem não liga a mesma importância a um lugar de repouso momentâneo que...”
+- `conceitos/vida-futura.md:31` — (LE, q. 149) (cob. 0.0)
+  - “A vida futura é a que se segue ao túmulo”
+- `divergencias/escravidao-em-efesios-6.md:103` — (LE q. 825–828, contexto) (cob. 0.0)
+  - “Tudo o que tende a constituir senhores e escravos é repugnante à lei moral”
+- `divergencias/predestinacao-em-romanos-8-9.md:70` — (LE q. 115, q. 121) (cob. 0.2)
+  - “chegarão todos os Espíritos à perfeição? Sim, por mais penoso que lhes seja o caminho”
+- `divergencias/recaida-sem-arrependimento-em-hebreus.md:120` — (LE q. 1009) (cob. 0.0)
+  - “mais dolorosas e mais prolongadas”
+- `obras/epistola-aos-galatas.md:105` — (ESE cap. XV, item 10) (cob. 0.0)
+  - “homem é responsável pelo bem que não faz”
+- `obras/epistola-aos-romanos.md:134` — (ESE cap. XII, item 3, comentário) (cob. 0.0)
+  - “É mais fácil perdoar do que se vingar [...] a brandura desarma, ainda às feras; apenas dela é incapaz o homem que se ...”
+- `obras/epistola-de-tiago.md:116` — (LE q. 100) (cob. 0.0)
+  - “ignorância, desejo de gozos materiais [...] orgulho, egoísmo”
+- `obras/livro-dos-espiritos.md:130` — (LE, q. 920–921, paráfrase) (cob. 0.0)
+  - “Não, mas pode gozar de certa soma de felicidade relativa”
+- `obras/livro-dos-espiritos.md:149` — (LE, Conclusão, item IX) (cob. 0.0)
+  - “do lado em que o bem jamais esteve de mistura com o mal”
+- `obras/livro-dos-mediuns.md:50` — (LM, 1ª parte, cap. II, item 7) (cob. 0.0)
+  - “Nada há de sobrenatural neste fato [...]. Logo, nada há de sobrenatural neste fato, nem de maravilhoso”
+- `obras/livro-dos-mediuns.md:111` — (LM, 2ª parte, cap. XIX, item 223, 6ª) (cob. 0.0)
+  - “O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar”
+- `obras/livro-dos-mediuns.md:142` — (LM, 2ª parte, cap. XXVIII, item 304, paráfrase) (cob. 0.0)
+  - “Deus concedeu a faculdade mediúnica para um fim sério e santo e não para que sirva de instrumento da adivinhação e de...”
+- `obras/pai-nosso.md:43` — (ESE, cap. XXVIII, item 3-I) (cob. 0.0)
+  - “Cego (…) é aquele que te não reconhece nas tuas obras”
+- `obras/pai-nosso.md:71` — (ESE, cap. XXVIII, item 3-VI) (cob. 0.0)
+  - “Somos nós mesmos que criamos o mal, infringindo as tuas leis e fazendo mau uso da liberdade que nos outorgaste”
+- `obras/pai-nosso.md:75` — (ESE, cap. XXVIII, item 2) (cob. 0.0)
+  - “sob a mais singela forma, ela resume todos os deveres do homem para com Deus, para consigo mesmo e para com o próximo”
+- `obras/segunda-epistola-a-timoteo.md:198` — (ESE cap. XIX, item 7) (cob. 0.0)
+  - “encarar a razão face a face”
+- `obras/segunda-epistola-de-pedro.md:124` — (LE q. 131; [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. IX, "Anjos e demônios", itens 4–21) (cob. 0.0)
+  - “anjos criados perfeitos que caíram”
+- `personalidades/espiritos-reveladores.md:53` — (LE, Prolegômenos) (cob. 0.0)
+  - “a maioria desses princípios foram proferidos pelos mais eminentes homens dos tempos antigos e modernos, trazendo-lhes...”
+- `personalidades/santo-agostinho.md:25` — (LE, Conclusão, item IX — Santo Agostinho) (cob. 0.0)
+  - “O Espiritismo é o laço que um dia os unirá, porque lhes mostrará onde está a verdade, onde o erro”
+- `sinteses/hierarquia-de-autoridade.md:153` — (LM, 1ª parte, cap. II, item 7) (cob. 0.0)
+  - “Nada há de sobrenatural neste fato”
+- `sinteses/sermao-do-monte-em-emmanuel.md:143` — (ESE, cap. XVII, item 4) (cob. 0.0)
+  - “os bons espíritas se reconhecem pela transformação moral”
+- `sinteses/veracidade-das-mensagens-psicografadas.md:100` — (LM, 2ª parte, cap. XIX, item 223, 8ª pergunta) (cob. 0.0)
+  - “procuram o intérprete que mais simpatize com eles”
+- `sinteses/veracidade-das-mensagens-psicografadas.md:130` — (LM, 2ª parte, cap. XXIV, item 267, 1.º) (cob. 0.0)
+  - “não há outro critério, senão o bom senso, para se aquilatar do valor dos Espíritos”
+
+## Paráfrase (classe 3) — locus certo, não-verbatim: de-quote
+
+- `aprofundamentos/escolha-de-provas.md:47` — (LE, q. 984–985) (cob. 0.4)
+  - “As vicissitudes da vida são sempre a punição de faltas passadas? — Não; nem todas, como já dissemos: são **provas esc...”
+- `conceitos/desdobramento.md:23` — (LE, q. 401) (cob. 0.1)
+  - “Durante o sono, o corpo só, repousa, mas o Espírito não dorme. Quereis prova disso? Reparai que, se o corpo dorme tra...”
+- `conceitos/homem-de-bem.md:27` — (ESE, cap. XVII, item 3) (cob. 0.24)
+  - “Trata com bondade e benevolência os seus inferiores e não abusa da autoridade que lhe é conferida”
+- `conceitos/homem-de-bem.md:29` — (ESE, cap. XVII, item 3) (cob. 0.27)
+  - “A riqueza, para ele, não é mais que um depósito de que deve dar conta”
+- `conceitos/mundos-de-expiacao-e-provas.md:39` — (LE, q. 55) (cob. 0.44)
+  - “Todos os globos que circulam no espaço são habitados”
+- `conceitos/mundos-felizes.md:27` — (ESE, cap. III, item 10) (cob. 0.45)
+  - “Um laço de amor e de fraternidade reúne todos os habitantes”
+- `conceitos/mundos-regeneradores.md:23` — (ESE, cap. III, item 17) (cob. 0.12)
+  - “Aí, o homem, ainda revestido de um envoltório material, nada experimenta das emoções do mundo inferior; as doenças, o...”
+- `obras/felizes-os-pobres-em-espirito-carlos-mendonca.md:47` — (ESE, cap. VII, item 2) (cob. 0.44)
+  - “Por pobre de espírito Jesus não se refere aos homens desprovidos de inteligência, mas aos humildes”
+
+## Incerto — revisão humana
+
+- `aprofundamentos/reencarnacao.md:262` — (ESE, cap. IV, item 18) (cob. 0.23)
+  - “longe de destruir os laços de afeição, a pluralidade das existências os fortalece”
+- `conceitos/bem-aventuranca-dos-pobres-de-espirito.md:43` — (ESE, cap. VII, item 5) (cob. 0.18)
+  - “é a fonte de todos os vícios, como a humildade é a fonte de todas as virtudes”
+- `conceitos/caridade.md:25` — (ESE, cap. XIII, item 6) (cob. 0.0)
+  - “Dar ao pobre é restituir-lhe o que lhe é devido”
+- `conceitos/culto-do-evangelho-no-lar.md:114` — (ESE, cap. XXVII, item 8) (cob. 0.0)
+  - “deve, antes de tudo, sentir o que diz”
+- `conceitos/desdobramento.md:24` — (LE, q. 400, comentário) (cob. 0.0)
+  - “Apenas, durante a vida, [o Espírito] se acha preso ao corpo por um liame que se rompe pela morte.”
+- `conceitos/expiacao.md:23` — (LE, q. 132) (cob. 0.0)
+  - “uma espécie de filtro ou depurador de onde saem mais ou menos purificados”
+- `conceitos/fe-raciocinada.md:23` — (ESE, cap. XIX, item 6) (cob. 0.1)
+  - “A fé raciocinada, a que se baseia nos fatos e na lógica, nada deixa de obscuro; o crente a possui porque tem a certez...”
+- `conceitos/fluido-cosmico-universal.md:31` — (ESE, cap. XXVII, item 9) (cob. 0.0)
+  - “Todos os seres, encarnados e desencarnados, [estão] mergulhados no fluido universal, que ocupa o espaço [...]. Esse f...”
+- `conceitos/homem-de-bem.md:33` — (LE, q. 893) (cob. 0.0)
+  - “A perfeição moral consiste em praticar a lei de justiça, de amor e de caridade, na sua maior pureza”
+- `conceitos/mundos-regeneradores.md:19` — (ESE, cap. III, item 16) (cob. 0.0)
+  - “São mundos de transição entre os mundos de expiação e os mundos felizes. A alma que aí se encontra, penitente, encont...”
+- `conceitos/passe.md:23` — (Gênese, cap. XIV, item 14) (cob. 0.33)
+  - “os fluidos espirituais [...] tomam a impressão de seu pensamento”
+- `conceitos/potencias-da-alma.md:21` — (LE, q. 459) (cob. 0.0)
+  - “Querendo, o Espírito atua sobre a matéria e pode, dentro de certos limites, modificar-lhe os efeitos”
+- `conceitos/potencias-da-alma.md:29` — (LE, q. 843) (cob. 0.0)
+  - “O homem não é fatalmente conduzido ao mal; os atos que pratica não foram de antemão escritos”
+- `conceitos/tres-revelacoes.md:23` — (ESE, cap. I, item 6) (cob. 0.0)
+  - “Não vim destruir a Lei, mas completá-la”
+- `conceitos/tres-revelacoes.md:27` — (ESE, cap. I, item 5) (cob. 0.0)
+  - “Não vim destruir a lei cristã, mas dar-lhe execução”
+- `conceitos/verdadeiro-espirita.md:53` — (ESE, cap. XV, item 10) (cob. 0.0)
+  - “dá de si mesmo o mais formal desmentido”
+- `conceitos/vida-futura.md:19` — (ESE, cap. II, item 2) (cob. 0.19)
+  - “A vida futura é a vida normal do Espírito; a vida corpórea é transitória e passageira”
+- `divergencias/jesus-igual-a-deus-em-filipenses-2.md:116` — (Gênese cap. XVII) (cob. 0.0)
+  - “todos os Espíritos do Senhor”
+- `divergencias/predestinacao-em-romanos-8-9.md:70` — (LE q. 780) (cob. 0.0)
+  - “O progresso é uma condição da natureza humana”
+- `obras/epistola-aos-efesios.md:153` — (LE q. 829, paráfrase do comentário) (cob. 0.38)
+  - “A escravidão é uma das chagas da humanidade”
+- `personalidades/erasto.md:26` — (LM, 2ª parte, cap. XVI, item 185) (cob. 0.0)
+  - “Este quadro é, a bem dizer, obra deles [dos Espíritos]. [...] São, na sua maioria, de Erasto e de Sócrates”
+- `questoes/arrependimento-expiacao-e-reparacao.md:43` — (LE, q. 1007) (cob. 0.46)
+  - “pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso”
+- `sinteses/veracidade-das-mensagens-psicografadas.md:100` — (LM, 2ª parte, cap. XIX, item 223, 7ª pergunta) (cob. 0.0)
+  - “assimilá-las às suas próprias ideias e a seus pendores”

@@ -96,7 +96,7 @@ A diferenciação paulina dos "corpos" segundo o "mundo" habitado articula-se co
 
 > "A extinção da vida orgânica traz a separação da alma e do corpo pela ruptura do laço fluídico que os une; mas esta separação nunca é brusca; o fluido perispiritual se liberta pouco a pouco de todos os órgãos." (C&I, 2ª parte, cap. I, item 4)
 
-A **dificuldade do desprendimento** depende da força de aderência entre corpo e perispírito, que é proporcional ao apego à matéria. No homem materialista, "tudo contribuiu para apertar os laços que o prendem à matéria; nada veio afrouxá-los durante a vida" (C&I, 2ª parte, cap. I, item 8). No Espírito desmaterializado, os laços são tão fracos que "se rompem sem nenhum abalo" (C&I, 2ª parte, cap. I, item 11).
+A **dificuldade do desprendimento** depende da força de aderência entre corpo e perispírito, que é proporcional ao apego à matéria. No homem materialista, "tudo contribuiu para apertar os laços que o prendem à matéria; nada veio afrouxá-los durante a vida" (C&I, 2ª parte, cap. I, item 9). No Espírito desmaterializado, os laços são tão fracos que "se rompem sem nenhum abalo" (C&I, 2ª parte, cap. I, item 11).
 
 Na morte violenta, como nenhuma desagregação parcial ocorreu, o desprendimento é mais penoso: "O Espírito, pego de improviso, fica como que atordoado; mas, sentindo que pensa, acredita que ainda está vivo" (C&I, 2ª parte, cap. I, item 12).
 

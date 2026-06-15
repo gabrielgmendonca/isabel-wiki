@@ -53,7 +53,7 @@ A obra se divide em **duas partes**: a primeira doutrinária (11 capítulos), a 
 - **O céu desmaterializado**: "Nesta imensidão sem limites, onde está então o céu? Está em toda a parte; nenhuma cerca lhe impõe limites; os mundos felizes são as últimas estações que a ele conduzem; as virtudes abrem-lhe o caminho, os vícios proíbem-lhe o acesso" (C&I, 1ª parte, cap. III, item 18).
 - **Anjos = puros Espíritos**: Kardec demonstra que os anjos não são seres criados à parte, mas Espíritos que, pelo progresso, atingiram a perfeição (C&I, 1ª parte, cap. VIII).
 - **Demônios = Espíritos imperfeitos**: o dualismo bem/mal como poderes rivais é herança pagã; Satã é personificação alegórica do mal, não ser real (C&I, 1ª parte, cap. IX).
-- **Tríade arrependimento–expiação–reparação**: "Arrependimento, expiação e reparação são as três condições necessárias para apagar os traços de uma falta e suas consequências" (C&I, 1ª parte, cap. VII, item 17).
+- **Tríade arrependimento–expiação–reparação**: "Arrependimento, expiação e reparação são as três condições necessárias para apagar os traços de uma falta e suas consequências" (C&I, 1ª parte, cap. VII, item 16).
 
 ### 2ª Parte — Exemplos
 
