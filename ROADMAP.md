@@ -3,7 +3,7 @@
 > Melhorias de maior complexidade planejadas para a wiki.
 > Organizadas por eixo temático, não por ordem cronológica.
 > Itens **concluídos** vivem condensados no apêndice [Concluído](#concluído) — o detalhe fica no git.
-> Última revisão: 2026-06-05.
+> Última revisão: 2026-06-15.
 
 ---
 
@@ -103,6 +103,7 @@ Auto-link Markdown→Kardecpedia em build time já cobre capítulo **e** questã
 ## 5. Qualidade e automação
 
 - [ ] **Validação de deploy** — checar se o build do Quartz não quebrou links internos após deploy.
+- [ ] **`cite.py` não resolve itens `**N.**` em capítulos do ESE com subtítulos entremeados** — descoberto 2026-06-15 ao montar `slides/indulgencia/`: `cite.py ESE "cap. X, item 13"` retorna "item não encontrado" embora o cap. X (Bem-aventurados os misericordiosos) esteja **completo** no raw (linhas 1885–1937, itens 1–21 presentes, ex.: `**13.**` na linha 1908). O resolver acha o range do capítulo mas não casa os marcadores `**N.**` quando há `##` de subseção entre eles ("Reconciliações…", "A indulgência", etc.). Workaround usado: ler o raw direto. Investigar o parser de itens — relacionado à memória `cite-bugs-pentateuco-jun2026`.
 - [ ] **Versão estrita do check de citação** — verifica que o trecho citado **sustenta** a afirmação, não só que o locus existe.
   - **Destravado e construído (existência da aspa):** `check_literal_quote_exists` confirma que a frase entre aspas **existe** no locus citado (via `cite.py:literal_text` + cobertura fuzzy de palavras). Não dependia de granularidade no `raw/`. Entrou como **`info`, fora do CI e do hook** (aid de auditoria, não gate). Ver §12.
   - **Ainda bloqueado (sustentação semântica):** "Kardec diz X em (LE, q. 460)" quando q. 460 trata de Y permanece editorial — depende da granularidade por questão/item (§4 Fase 2). Atacado por via LLM no `/critica` (eixo 2), que não substitui a versão determinística estrita.
@@ -124,6 +125,13 @@ Auto-link Markdown→Kardecpedia em build time já cobre capítulo **e** questã
 
 ## 7. Ferramentas de estudo e difusão
 
+- [ ] **Automatizar a colocação de imagem no deck (`/slides`)** — o *sourcing* já está pronto (estágio **Iconografia** do `/palestra` + `convencoes-imagens.md`); falta automatizar a **colocação**, hoje manual no Passo 6. Alvo: `scaffold_deck.py` (ou um passo novo no `/slides`) lê a seção "Sugestões de imagem" do dossiê (`reports/palestra/<slug>/dados.json`, campo `iconografia`), o humano **escolhe** o candidato por momento-chave, e o script baixa p/ `slides/<slug>/assets/`, otimiza, emite o `![bg]` e grava `creditos.json`. Humano-no-circuito na escolha (o modelo não vê a imagem).
+  - **Descobertas (sessão 2026-06-15, deck `slides/indulgencia/`, validado renderizando o PDF):**
+    - **Legibilidade:** o tema `isabel.css` é texto escuro sobre fundo claro → **`![bg]` full-bleed atrás de texto fica ilegível**. Padrão que funciona: **split background** (`![bg right:43%]` / `![bg left:45%]`) — texto no fundo claro, arte ao lado. Slides de pergunta (`.pergunta`) ficam **sem imagem** (a pergunta grande centralizada já é o impacto).
+    - **Build:** `build_deck.py` já passa `--allow-local-files` (necessário p/ bg local); PPTX/PDF exigem **`CHROME_PATH`** (Chrome for Testing do puppeteer) — ver memória `setup-marp-chrome-path`.
+    - **Download:** Wikimedia exige **User-Agent** no `curl` (senão 403); otimizar com `sips -Z 1800` (originais chegam a ~9000px → ~430–900 KB).
+    - **Capacidade do slide:** ~5 bullets longos **transbordam** (32px, padding 80/100) — colidem com o rodapé. O passo de colocação/refino deve dividir conteúdo longo (ex.: síntese em 2 slides). Candidato a um lint de slides (`info`) que avise overflow provável por contagem de linhas.
+    - **Cobertura default** = momentos-chave (capa/abertura, casos/"Para meditar", síntese/encerramento); o núcleo Q&A fica tipográfico.
 - [~] **Mapas conceituais** — Mermaid validado como zero-plumbing (Quartz v4.4.0 renderiza ` ```mermaid ` nativo via OFM, tema-aware; transforms pulam blocos cercados). Convenção em `convencoes-mermaid.md`; smoke-test em `hierarquia-de-autoridade.md`. **Faltando:** lint `check_mermaid_labels` (drift de nomenclatura em rótulo); skill `/mapa` qmd-driven e/ou derivação automática do grafo networkx do `/stats`.
 - [ ] **Export temático** — PDF/EPUB de um conjunto de páginas sobre um tema, para estudo offline.
 - [ ] **Flashcards** — pares pergunta/resposta a partir de `questoes/` para revisão espaçada (Anki-compatível).
@@ -547,6 +555,7 @@ Revisar a cada trimestre — alvo móvel é melhor que alvo nenhum.
 
 **§7 — Ferramentas**
 - Apresentações Marp — skill `/slides` (padrão socrático Q&A; PPTX+PDF).
+- Preparação de palestra — skill `/palestra` + workflow `palestra-dossie` (2026-06-15): varredura Pentateuco-primeiro do corpus, definição julgada de termos, caça a casos com crítico, verificação adversarial de citação (`cite.py`) e painel socrático; estágio **Iconografia** (arte em domínio público via busca web) + rule `convencoes-imagens.md`. Dossiê em `reports/palestra/`. 1º deck com imagens: `slides/indulgencia/`. Colocação automática segue aberta (§7).
 
 **§8 — Governança**
 - Política de citação para nível 3 protegido (2026-04-27) — limites + `check_quote_proportion`.

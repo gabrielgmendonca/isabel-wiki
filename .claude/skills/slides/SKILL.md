@@ -124,6 +124,7 @@ Escreve em `slides/<slug>/build/`.
 - **Texto integral da obra básica**: LE em dois passos (pergunta + resposta); ESE/LM/C&I em citação completa. Elipses `(...)` para trechos longos não-essenciais.
 - **Sem slides em branco**: transições com section headers.
 - **Hierarquia de autoridade** respeitada (CLAUDE.md §2): Pentateuco prevalece.
+- **Imagens** (ver `convencoes-imagens.md`): em **momentos-chave** (abertura, "Para meditar"/casos, síntese), imagem **full-bleed atmosférica** (`![bg]`), pouco texto por cima; núcleo Q&A fica tipográfico. Fonte: a seção "Sugestões de imagem" do dossiê `/palestra` (arte em **domínio público/CC** — Doré, Tissot, Wikimedia). Colocação = passo editorial do Passo 6: o usuário **escolhe** o candidato, baixar p/ `slides/<slug>/assets/` (offline-first) e registrar em `slides/<slug>/assets/creditos.json` + crédito no rodapé. IA só p/ atmosférico, nunca figura sagrada.
 - **Não publicar na wiki**: `slides/` fica fora do build do Quartz.
 - **Não tocar `wiki/`** durante a geração.
 - **Plan mode bloqueia escrita** até o usuário aprovar o outline.
