@@ -1,0 +1,37 @@
+{
+  "deck": "indulgencia",
+  "fonte_curadoria": "reports/palestra/bem-aventuranca-dos-misericordiosos-2026-06-14-1919 — estágio Iconografia (/palestra)",
+  "politica": "Arte em domínio público; licença confirmada na fonte. Ver .claude/rules/convencoes-imagens.md.",
+  "imagens": [
+    {
+      "arquivo": "dore-adultera.jpg",
+      "uso": "Capa",
+      "titulo": "Jesus e a mulher adúltera",
+      "autor": "Gustave Doré",
+      "ano": "1866",
+      "licenca": "Domínio público (PD-old; autor falecido em 1883)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Dore_adultress.jpg",
+      "atribuicao": "Gustave Doré, Jesus and the Woman Taken in Adultery (La Sainte Bible, 1866). Domínio público. Via Wikimedia Commons."
+    },
+    {
+      "arquivo": "munkacsy-cela-condenado.jpg",
+      "uso": "Para meditar (Lemaire)",
+      "titulo": "A Cela do Condenado (Siralomház)",
+      "autor": "Mihály Munkácsy",
+      "ano": "1870",
+      "licenca": "Domínio público (autor falecido em 1900)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Munk%C3%A1csy_Siralomh%C3%A1z.jpg",
+      "atribuicao": "Mihály Munkácsy, A Cela do Condenado (Siralomház), 1870, Galeria Nacional Húngara. Domínio público. Via Wikimedia Commons."
+    },
+    {
+      "arquivo": "rembrandt-adultera.jpg",
+      "uso": "Encerramento",
+      "titulo": "Cristo e a mulher adúltera",
+      "autor": "Rembrandt van Rijn",
+      "ano": "1644",
+      "licenca": "Domínio público (PD-old-100; autor falecido em 1669)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_and_the_Woman_Taken_in_Adultery.jpg",
+      "atribuicao": "Rembrandt van Rijn, Cristo e a mulher adúltera (1644), National Gallery, Londres. Domínio público. Via Wikimedia Commons."
+    }
+  ]
+}
