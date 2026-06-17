@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, dracma-perdida, arrependimento, misericordia, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
+tags: [parabola, jesus, dracma-perdida, arrependimento, misericordia, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/vida-futura]
 atualizado_em: 2026-06-10
 status: rascunho
 ---

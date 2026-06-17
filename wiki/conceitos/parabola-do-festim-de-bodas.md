@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, festim-de-bodas, chamados-e-escolhidos, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
+tags: [parabola, jesus, festim-de-bodas, chamados-e-escolhidos, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/moral]
 atualizado_em: 2026-06-10
 status: rascunho
 ---

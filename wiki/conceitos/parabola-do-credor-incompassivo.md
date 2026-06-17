@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, credor-incompassivo, perdao, caridade, proximo, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/jesus]
+tags: [parabola, jesus, credor-incompassivo, perdao, caridade, proximo, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/jesus, tema/prece-caridade]
 atualizado_em: 2026-06-10
 status: rascunho
 ---

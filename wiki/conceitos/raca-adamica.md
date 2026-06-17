@@ -28,7 +28,7 @@ A versão do Pentateuco em [[wiki/obras/genese]] cap. XI item 38 substitui o arg
 
 Em **janeiro de 1862**, na *Revista Espírita*, Kardec publica o artigo doutrinário longo "Ensaio de interpretação da doutrina dos anjos decaídos" — **matriz direta do cap. XI de *A Gênese***. O artigo articula em cinco passos a tese que se tornará canônica:
 
-**1. "Anjos decaídos" não são seres criados perfeitos que caíram.** O termo "anjo", no contexto da queda, deve ser tomado em acepção geral — Espíritos. *"Se os anjos fossem seres criados perfeitos, sendo a revolta contra Deus um sinal de inferioridade, aqueles que se revoltaram não poderiam ser anjos."* A categoria reúne os Espíritos imperfeitos punidos por sua revolta — materialistas, ateus, hipócritas, ímpios.
+**1. "Anjos decaídos" não são seres criados perfeitos que caíram.** O termo "[[wiki/conceitos/anjos|anjo]]", no contexto da queda, deve ser tomado em acepção geral — Espíritos. *"Se os anjos fossem seres criados perfeitos, sendo a revolta contra Deus um sinal de inferioridade, aqueles que se revoltaram não poderiam ser anjos."* A categoria reúne os Espíritos imperfeitos punidos por sua revolta — materialistas, ateus, hipócritas, ímpios.
 
 **2. A raça adâmica é geração de Espíritos exilados, não tronco da humanidade.** Documentos da história chinesa, leis da antropologia e comparação com selvagens da Nova-Holanda (mais primitivos que Adão) provam que a humanidade é mais antiga que Adão. A raça adâmica foi *enviada à Terra* já povoada por homens primitivos, com a missão de civilizá-los — *"trazendo para o seu meio as luzes de uma inteligência já desenvolvida"*.
 

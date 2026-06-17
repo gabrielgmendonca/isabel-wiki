@@ -55,7 +55,7 @@ Não há contrato assinado, nem condenação eterna. Há **uma mecânica moral**
 
 Uma linha discreta da resposta tem peso enorme: o pacto "lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos Espíritos bons". Três implicações:
 
-- **Negação das penas eternas** — coerente com toda a doutrina (LE, q. 1009; C&I, 1ª parte, caps. IV–VII).
+- **Negação das [[wiki/conceitos/penas-eternas|penas eternas]]** — coerente com toda a doutrina (LE, q. 1009; C&I, 1ª parte, caps. IV–VII).
 - **Primado da vontade** — a sintonia com os inferiores é mantida pela vontade do homem; basta querer firmemente para atrair outros auxílios.
 - **Caráter medicinal do sofrimento** — as provas futuras não são castigo do "diabo traído", mas **resgate** que leva de volta ao progresso.
 

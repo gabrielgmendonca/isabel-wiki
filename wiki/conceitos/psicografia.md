@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [LM]
-tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm, autor/kardec, grau/intermediario, tema/mediunidade]
+tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm, autor/kardec, autor/divaldo-franco, autor/chico-xavier, grau/intermediario, tema/mediunidade]
 atualizado_em: 2026-06-10
 status: rascunho
 ---

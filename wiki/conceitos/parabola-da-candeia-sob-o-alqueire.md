@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE]
-tags: [parabola, jesus, candeia, alqueire, divulgacao, obra/ese, autor/kardec, grau/intermediario, tema/jesus]
+tags: [parabola, jesus, candeia, alqueire, divulgacao, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/historia-doutrina]
 atualizado_em: 2026-06-10
 status: rascunho
 ---

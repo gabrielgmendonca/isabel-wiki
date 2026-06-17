@@ -57,7 +57,7 @@ A duração é indeterminada: "varia de algumas horas a alguns anos" (C&I, 2ª p
 
 ## Aplicação prática
 
-O estudo da perturbação é de grande relevância para o trabalho mediúnico e para a assistência espiritual aos recém-desencarnados. Compreender que o Espírito pode permanecer confuso por longo tempo após a morte fundamenta a prática da [[wiki/conceitos/prece|prece]] em favor dos que partem, a [[wiki/conceitos/evocacao|evocação]] respeitosa com palavras de encorajamento, e o [[wiki/conceitos/passe|passe]] nos trabalhos de desobsessão — todos meios de ajudar o Espírito a reconhecer sua nova situação.
+O estudo da perturbação é de grande relevância para o trabalho mediúnico e para a assistência espiritual aos recém-desencarnados. Compreender que o Espírito pode permanecer confuso por longo tempo após a morte fundamenta a prática da [[wiki/conceitos/prece|prece]] em favor dos que partem, a [[wiki/conceitos/evocacao|evocação]] respeitosa com palavras de encorajamento, e o [[wiki/conceitos/passe|passe]] nos trabalhos de [[wiki/conceitos/obsessao|desobsessão]] — todos meios de ajudar o Espírito a reconhecer sua nova situação.
 
 Para palestras e estudos, o tema é particularmente útil para desfazer dois equívocos comuns: o de que a morte é um corte instantâneo e definitivo, e o de que o sofrimento pós-morte é arbitrário. Kardec demonstra que o sofrimento é proporcional ao apego à matéria — portanto, está nas mãos de cada um preparar-se para uma transição serena, cultivando desde agora a vida moral e o desprendimento das coisas terrenas.
 
