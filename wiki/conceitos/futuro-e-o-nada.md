@@ -44,7 +44,7 @@ Admitida a individualidade, segue-se que o destino de cada alma depende de suas 
 
 ## Aplicação prática
 
-Este capítulo é essencial para palestras que abordem o sentido da vida, a existência da alma e o combate ao materialismo contemporâneo. Kardec oferece uma argumentação racional — não dogmática — que permite ao expositor dialogar com pessoas céticas ou indiferentes, mostrando que a crença no futuro individual não é apenas questão de fé, mas de lógica e coerência moral.
+Este capítulo é essencial para palestras que abordem o sentido da vida, a existência da alma e o combate ao [[wiki/conceitos/materialismo|materialismo contemporâneo]]. Kardec oferece uma argumentação racional — não dogmática — que permite ao expositor dialogar com pessoas céticas ou indiferentes, mostrando que a crença no futuro individual não é apenas questão de fé, mas de lógica e coerência moral.
 
 A estrutura argumentativa do capítulo (niilismo → absorção → panteísmo → individualidade) serve como roteiro didático para grupos de estudo. A nota de rodapé sobre o jovem cardiopata que abandona todo esforço moral ao saber que vai morrer (C&I, 1ª parte, cap. I, item 3, nota) é um exemplo poderoso das consequências práticas do niilismo, útil para ilustrar a importância da crença na vida futura.
 

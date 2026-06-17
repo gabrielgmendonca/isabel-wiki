@@ -39,6 +39,7 @@ Na leitura espírita, o ensino articula-se em três planos:
 - [[wiki/conceitos/parabola-do-semeador]] — condição do terreno
 - [[wiki/conceitos/parabola-do-grao-de-mostarda]] — começo pequeno, fim grande
 - [[wiki/conceitos/parabola-do-fermento]] — ação interior e gradual
+- [[wiki/conceitos/progresso-espiritual]] — lei do progresso que opera no íntimo
 - [[wiki/obras/evangelho-segundo-marcos]] — cap. 4
 
 ## Fontes

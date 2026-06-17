@@ -39,6 +39,7 @@ A parábola convida ao exame de consciência: em quantas situações somos deved
 ## Páginas relacionadas
 
 - [[wiki/conceitos/caridade]] · [[wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade]]
+- [[wiki/conceitos/bem-aventuranca-dos-misericordiosos]] — ESE cap. X, onde Kardec comenta a parábola
 - [[wiki/conceitos/perfeicao-moral]] · [[wiki/conceitos/prece]]
 - [[wiki/obras/evangelho-segundo-o-espiritismo]]
 

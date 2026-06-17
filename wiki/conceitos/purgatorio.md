@@ -55,6 +55,7 @@ Para grupos de estudo, vale destacar a relação entre purgatório e livre-arbí
 ## Páginas relacionadas
 
 - [[wiki/obras/ceu-e-inferno]]
+- [[wiki/conceitos/expiacao]]
 - [[wiki/conceitos/reencarnacao]]
 - [[wiki/conceitos/inferno]]
 - [[wiki/conceitos/ceu]]

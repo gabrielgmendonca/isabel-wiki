@@ -20,7 +20,7 @@ Alegoria pronunciada por Jesus no discurso de despedida, durante a Última Ceia 
 
 A parábola condensa, em linguagem agrária, o que Kardec desenvolve no cap. XVII do ESE ("Sede perfeitos"): **a única prova legítima de discipulado é o fruto moral**.
 
-- **A videira e as varas** — Jesus não pede adesão intelectual à sua pessoa, mas **permanência vital** em seu ensino. "Estai em mim, e eu em vós" (Jo 15:4) significa assimilar a moral do Cristo a ponto de ela circular na vida do discípulo como a seiva circula no ramo. A fé raciocinada (ESE, cap. XIX) é precisamente essa assimilação interior, não uma crença exterior.
+- **A videira e as varas** — Jesus não pede adesão intelectual à sua pessoa, mas **permanência vital** em seu ensino. "Estai em mim, e eu em vós" (Jo 15:4) significa assimilar a moral do Cristo a ponto de ela circular na vida do discípulo como a seiva circula no ramo. A [[wiki/conceitos/fe-raciocinada|fé raciocinada]] (ESE, cap. XIX) é precisamente essa assimilação interior, não uma crença exterior.
 
 - **O lavrador que poda** — "Toda a vara [...] que dá fruto, limpa, para que dê mais fruto" (Jo 15:2). A poda é figura das provas: o Pai retira o que é supérfluo no discípulo já frutífero, para que produza mais. É a mesma ideia de provas e expiações (LE, q. 258–273; ESE, cap. V) — o sofrimento, bem compreendido, aperfeiçoa quem já caminha.
 
@@ -43,7 +43,7 @@ O critério é uniforme: **fruto moral efetivo**. Jesus não se contenta com fol
 
 ## Aplicação prática
 
-A parábola oferece um diagnóstico contínuo para o estudante espírita: **minha vida está dando fruto moral?** O fruto, no Evangelho, é sempre a caridade efetiva — no pensamento, na palavra e na ação (ESE, cap. XI; LE, q. 886).
+A parábola oferece um diagnóstico contínuo para o estudante espírita: **minha vida está dando fruto moral?** O fruto, no Evangelho, é sempre a [[wiki/conceitos/caridade|caridade]] efetiva — no pensamento, na palavra e na ação (ESE, cap. XI; LE, q. 886).
 
 Duas disposições práticas decorrem:
 
