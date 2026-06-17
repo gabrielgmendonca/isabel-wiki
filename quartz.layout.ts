@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import FontSize from "./quartz/components/FontSize"
+import DraftNotice from "./quartz/components/DraftNotice"
 
 // Componentes compartilhados entre todas as páginas
 export const sharedPageComponents: SharedLayout = {
@@ -26,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
       showCurrentPage: true,
     }),
     Component.ArticleTitle(),
+    DraftNotice(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
