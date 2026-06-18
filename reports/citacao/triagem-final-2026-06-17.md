@@ -1,0 +1,189 @@
+# Triagem de aspas — veredicto FINAL (dry-run + adversário)
+
+> 2026-06-17. Dry-run (70 agentes) + validação adversarial (70 céticos, re-derivando via cite.py/reverse_locus) + checagem determinística. Report-only — nenhuma página mutada.
+> **Aplicar (gated-safe): 64** · **Revisar (você): 45** · **Sem ação: 19**
+
+
+## ✅ APLICAR — 64 (adversário CONFIRM)
+
+_de-quote = tirar as aspas (vira síntese + citação de apoio); reanchor = trocar locus + alinhar ao verbatim (usar `insert_quote`)._
+
+- [de-quote] `aprofundamentos/dor-rigidez.md L61` (LE, q. 762)
+- [de-quote] `aprofundamentos/escolha-de-provas.md L47` (LE, q. 984–985)
+- [de-quote] `aprofundamentos/missao-de-kardec.md L41` (ESE, cap. I, item 7)
+- [de-quote] `aprofundamentos/missao-de-kardec.md L42` (ESE, Introdução, item 4)
+- [de-quote] `aprofundamentos/missao-de-kardec.md L67` (LE, Conclusão, item I)
+- [de-quote] `aprofundamentos/reencarnacao.md L262` (ESE, cap. IV, item 18)
+- [de-quote] `aprofundamentos/sexualidade-em-andre-luiz.md L103` (LE, q. 200)
+- [de-quote] `conceitos/bem-aventuranca-dos-puros-de-coracao.md L53` (LM, 2ª parte, cap. XIX, item 226)
+- [de-quote] `conceitos/caridade.md L19` (ESE, cap. XV, item 10)
+- [de-quote] `conceitos/caridade.md L54` (ESE, cap. XI, item 11)
+- [de-quote] `conceitos/culto-do-evangelho-no-lar.md L25` (ESE, cap. XXVII, item 9)
+- [de-quote] `conceitos/culto-do-evangelho-no-lar.md L114` (ESE, cap. XXVII, item 8)
+- [de-quote] `conceitos/desdobramento.md L28` (LE, q. 439)
+- [de-quote] `conceitos/discernimento-dos-espiritos.md L60` (LM, 2ª parte, cap. XXIV, item 267)
+- [de-quote] `conceitos/egoismo.md L35` (LE, Conclusão, item III)
+- [de-quote] `conceitos/emancipacao-da-alma.md L48` (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV)
+- [de-quote] `conceitos/expiacao.md L23` (LE, q. 132)
+- [de-quote] `conceitos/fe-raciocinada.md L23` (ESE, cap. XIX, item 6)
+- [de-quote] `conceitos/fe.md L23` (ESE, cap. XIX, item 6)
+- [de-quote] `conceitos/homem-de-bem.md L21` (ESE, cap. XVII, item 3)
+- [de-quote] `conceitos/homem-de-bem.md L25` (ESE, cap. XVII, item 3)
+- [de-quote] `conceitos/homem-de-bem.md L27` (ESE, cap. XVII, item 3)
+- [de-quote] `conceitos/homem-de-bem.md L29` (ESE, cap. XVII, item 3)
+- [de-quote] `conceitos/ideoplastia.md L29` (LM, 2ª parte, cap. VI)
+- [de-quote] `conceitos/leis-morais/index.md L22` (LE, q. 621)
+- [de-quote] `conceitos/leis-morais/lei-de-conservacao.md L56` (LE, q. 726)
+- [de-quote] `conceitos/mediunidade.md L52` (LM, 2ª parte, cap. XXXI, comunicação XII)
+- [de-quote] `conceitos/mundos-de-expiacao-e-provas.md L27` (ESE, cap. III, item 14)
+- [de-quote] `conceitos/mundos-de-expiacao-e-provas.md L39` (LE, q. 55)
+- [de-quote] `conceitos/mundos-felizes.md L27` (ESE, cap. III, item 10)
+- [de-quote] `conceitos/mundos-felizes.md L35` (ESE, cap. III, item 12)
+- [de-quote] `conceitos/mundos-regeneradores.md L19` (ESE, cap. III, item 16)
+- [de-quote] `conceitos/mundos-regeneradores.md L35` (ESE, cap. III, item 18)
+- [de-quote] `conceitos/nao-julgar.md L17` (ESE cap. X)
+- [de-quote] `conceitos/parabola-da-figueira-seca.md L31` (ESE, cap. XIX, item 10)
+- [de-quote] `conceitos/parabola-do-filho-prodigo.md L31` (LE, q. 1001)
+- [de-quote] `conceitos/passe.md L23` (Gênese, cap. XIV, item 14)
+- [de-quote] `conceitos/potencias-da-alma.md L25` (LE, q. 621)
+- [de-quote] `conceitos/potencias-da-alma.md L29` (LE, q. 843)
+- [de-quote] `conceitos/prece.md L19` (ESE, cap. XXVII, item 4)
+- [de-quote] `conceitos/prece.md L23` (ESE, cap. XXVII, item 7)
+- [de-quote] `conceitos/prece.md L27` (ESE, cap. XXVII, item 9)
+- [de-quote] `conceitos/prece.md L31` (ESE, cap. XXVII, item 5)
+- [de-quote] `conceitos/prece.md L35` (ESE, cap. XXVII, item 18)
+- [de-quote] `conceitos/suicidio.md L48` (LE, q. 953, paráfrase)
+- [de-quote] `conceitos/suicidio.md L85` (C&I, 2ª parte, cap. IV)
+- [de-quote] `conceitos/tres-revelacoes.md L19` (ESE, cap. I, item 5)
+- [de-quote] `conceitos/tres-revelacoes.md L23` (ESE, cap. I, item 6)
+- [de-quote] `conceitos/tres-revelacoes.md L43` (ESE, cap. I, item 7)
+- [de-quote] `conceitos/tres-revelacoes.md L47` (ESE, Introdução, item 4)
+- [de-quote] `conceitos/verdadeiro-espirita.md L53` (LE, Conclusão, item III)
+- [de-quote] `obras/epistola-aos-efesios.md L153` (LE q. 829, paráfrase do comentário)
+- [de-quote] `obras/epistola-aos-galatas.md L105` (ESE cap. XV, item 10)
+- [de-quote] `obras/felizes-os-pobres-em-espirito-carlos-mendonca.md L47` (ESE, cap. VII, item 2)
+- [de-quote] `obras/livro-dos-espiritos.md L130` (LE, q. 920–921, paráfrase)
+- [de-quote] `obras/segunda-epistola-a-timoteo.md L198` (ESE cap. XIX, item 7)
+- [de-quote] `obras/segunda-epistola-de-pedro.md L124` (LE q. 131; [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. IX, "Anjos e demônios", itens 4–21)
+- [de-quote] `questoes/arrependimento-expiacao-e-reparacao.md L43` (LE, q. 1007)
+- [de-quote] `sinteses/sermao-do-monte-em-emmanuel.md L143` (ESE, cap. XVII, item 4)
+- [reanchor] `conceitos/amorterapia.md L25` (ESE, cap. XV, item 4) → **(LE, q. 886)**
+- [reanchor] `conceitos/fluido-cosmico-universal.md L31` (ESE, cap. XXVII, item 9) → **(ESE, cap. XXVII, item 10)**
+- [reanchor] `conceitos/tres-revelacoes.md L27` (ESE, cap. I, item 5) → **(ESE, cap. I, item 7)**
+- [reanchor] `divergencias/predestinacao-em-romanos-8-9.md L70` (LE q. 780) → **(LE, q. 781)**
+- [reanchor] `personalidades/erasto.md L26` (LM, 2ª parte, cap. XVI, item 185) → **(LM, 2ª parte, cap. XVI, item 186)**
+
+## 👁 REVISAR — 45 (precisam de você)
+
+- [DISPUTA det×LLM] `conceitos/homem-de-bem.md L33` (LE, q. 893)
+    - _Confirmo a reancoragem: a frase e VERBATIM na q.918 (reverse_locus 1.00; cite.py q.918: 'O verdadeiro homem de bem e o que pratica a lei de justica, amor e cari_
+- [REFUTE→de-quote] `conceitos/caridade.md L58` (ESE, cap. XIII, item 4)
+    - _XIII.4 e o relato narrativo da benfeitora discreta e NAO contem a definicao tripartite (esmola/benevolencia/indulgencia/perdao); a fonte real e XI.14 (reverse 0_
+- [REFUTE→de-quote] `conceitos/responsabilidade.md L11` (ESE, cap. XVI; S. Lucas, 12:48)
+    - _A aspa real da linha 11 e 'de quem mais recebeu, mais se exigira' (condensacao de Lucas 12:48), nao o 'literal_text' do 1o passe; esse texto longo do 1o passe N_
+- [REFUTE→defer] `conceitos/bem-aventuranca-dos-famintos-de-justica.md L40` (ESE, cap. XV, item 5)
+    - _O 1o passe baseou o de-quote num texto ('a caridade abrange... a justiça') que na verdade está no cap. XV item 3 (reverse_locus 1.00), não no item 5; e item 3 d_
+- [REFUTE→defer] `conceitos/bem-aventuranca-dos-pobres-de-espirito.md L43` (ESE, cap. VII, item 5)
+    - _A aspa entre aspas 'O orgulho é a fonte de todos os vícios, como a humildade é a fonte de todas as virtudes' nao e verbatim em locus nenhum: o item 5 citado e s_
+- [REFUTE→defer] `conceitos/desdobramento.md L23` (LE, q. 401)
+    - _A aspa da pagina ('o corpo so, repousa, mas o Espirito nao dorme. Quereis prova disso? Reparai que... lembrando-vos do que fizestes durante o sono. Ai estao fen_
+- [REFUTE→defer] `conceitos/dor.md L25` (LE, q. 920)
+    - _A aspa 'A felicidade perfeita pertence somente ao Espírito que alcançou a perfeição absoluta' nao e verbatim em locus nenhum (reverse_locus max 0,25). A q. 967 _
+- [REFUTE→defer] `conceitos/evocacao.md L37` (LM, 2ª parte, cap. XXV, item 272, paráfrase)
+    - _Reverifiquei: a aspa 'Não há Espírito que, chamado, não acuda... se puder fazê-lo' não é verbatim em lugar nenhum (reverse_locus máx. 0.21); o item 272 trata da_
+- [REFUTE→defer] `conceitos/fe-raciocinada.md L27` (ESE, cap. XIX, item 4)
+    - _O item 4 citado trata de fé vs. presunção e nada tem da frase (cite.py); reverse_locus máximo 0.27, não-verbatim em parte alguma. A aspa entre aspas é síntese d_
+- [REFUTE→defer] `conceitos/mediunidade-curativa.md L21` (LM, 2ª parte, cap. XIV, item 175)
+    - _As duas aspas da linha 21 ("esses médiuns agem por efluxo de um fluido que comunicam ao paciente, por intermédio dos Espíritos bons, dos quais são auxiliares" e_
+- [REFUTE→defer] `conceitos/mundos-de-expiacao-e-provas.md L23` (ESE, cap. III, item 13)
+    - _Item 13 fala que os habitantes JA possuem superioridade da inteligencia (prova de vidas anteriores) e que Deus os colocou em mundo ingrato p/ expiar mediante pe_
+- [REFUTE→defer] `conceitos/nao-julgar.md L51` (ESE cap. X, item 10)
+    - _A aspa real da linha 51 e 'E preciso saber dizer a verdade — quando o caso o exige — sem aspereza', nao a frase que o 1o passe analisou (item 19); essa frase NA_
+- [REFUTE→defer] `conceitos/parabola-do-juiz-iniquo.md L23` (ESE, cap. XXVII, item 7)
+    - _A aspa 'pedir não é mudar a vontade de Deus, mas dispor a nossa' não é verbatim em lugar nenhum do ESE (reverse_locus dá cobertura máxima 0.33; 0.75 em cap.XXVI_
+- [REFUTE→defer] `conceitos/verdadeiro-espirita.md L53` (ESE, cap. XV, item 10)
+    - _O idiom entre aspas 'dá de si mesmo o mais formal desmentido' NÃO está em cap. XV item 10; o verbatim 'dar o mais formal desmentido' mora em cap. XXI item 10 (r_
+- [REFUTE→defer] `conceitos/vida-futura.md L19` (ESE, cap. II, item 2)
+    - _A aspa esta entre aspas como verbatim mas nao e (reverse max 0.56 noutro cap.); o item 2 citado diz que a vida futura e 'a meta a que a humanidade ira ter' e 'e_
+- [REFUTE→defer] `conceitos/vida-futura.md L27` (ESE, cap. II, item 3)
+    - _A aspa nao e verbatim em locus algum (reverse max 0.12); a metafora 'viajante de passagem / lugar de repouso momentaneo / residencia fixa' e construcao propria _
+- [REFUTE→defer] `divergencias/predestinacao-em-romanos-8-9.md L70` (LE q. 115, q. 121)
+    - _O Q&A entre aspas 'chegarao todos os Espiritos a perfeicao? Sim, por mais penoso que lhes seja o caminho' nao e verbatim (reverse_locus 0.20, disperso) e nao e _
+- [REFUTE→defer] `divergencias/recaida-sem-arrependimento-em-hebreus.md L120` (LE q. 1009)
+    - _A frase "mais dolorosas e mais prolongadas" tem cobertura 0.00 em todo o LE (reverse_locus) e nao aparece verbatim em lugar nenhum; pior, o proprio q. 1009 trat_
+- [REFUTE→defer] `obras/epistola-de-tiago.md L116` (LE q. 100)
+    - _A aspa da pagina interpola 'desejo de gozos materiais' dentro das aspas, e esse trecho tem cobertura 0.00 no reverse_locus (nao e verbatim em q.100, q.101 nem e_
+- [REFUTE→defer] `obras/livro-dos-mediuns.md L142` (LM, 2ª parte, cap. XXVIII, item 304, paráfrase)
+    - _A frase 'fim sério e santo' e 'ganha-pão' não existem no raw (reverse_locus ~0.17); o item 304 (cap. 'Do charlatanismo e do embuste') trata só de desinteresse/e_
+- [REFUTE→reanchor] `conceitos/avareza.md L22` (ESE, cap. XVI; S. Lucas, 12:16–21; ver [[wiki/conceitos/parabola-do-rico-insensato]])
+    - _A parabola do rico insensato esta em ESE cap. XVI item 3 (cobertura 1.00 no reverse_locus, linhas 2608-2611), NAO no item 9 (Pascal, que trata de possuir so o q_
+- [REFUTE→reanchor] `conceitos/prece.md L19` (ESE, cap. XXVII, item 1)
+    - _A aspa 'A prece é um ato de adoração. Orar a Deus é pensar nEle; é aproximar-se dEle; é pôr-se em comunicação com Ele' é VERBATIM em LE q. 659 (só muda nele/del_
+- [REFUTE→reanchor] `personalidades/espiritos-reveladores.md L53` (LE, Prolegômenos)
+    - _A aspa NÃO é paráfrase a desaspar: é VERBATIM. A frase 'A história, por sua vez, prova que a maioria desses princípios foram proferidos pelos mais eminentes hom_
+- [SEM-PARECER] `conceitos/desdobramento.md L24` (LE, q. 400, comentário)
+    - _sem parecer adversarial_
+- [SEM-PARECER] `divergencias/escravidao-em-efesios-6.md L103` (LE q. 825–828, contexto)
+    - _sem parecer adversarial_
+- [defer] `aprofundamentos/dor-rigidez.md L185` (LE, Conclusão, item III)
+    - _A aspa 'Que fiz do orgulho e da vaidade? Sacrifiquei-os?' não é verbatim em locus nenhum (reverse_locus máx 0.44, grep por 'Sacrifiquei'/'orgulho e da vaidade' _
+- [defer] `aprofundamentos/escolha-de-provas.md L284` (ESE, cap. V, item 12)
+    - _A aspa 'o sofrimento é o único meio de levar o Espírito à reflexão, ao arrependimento e à melhora' não é verbatim em locus nenhum (reverse_locus máx. 0.24 em ES_
+- [defer] `conceitos/bem-aventuranca-dos-famintos-de-justica.md L30` (ESE, cap. V, item 16)
+    - _cite.py confirma que ESE cap. V item 16 trata só de suicídio/materialismo; reverse_locus da frase 'justos, pobres e aflitos que resumem todas as condições da vi_
+- [defer] `conceitos/bem-aventuranca-dos-perseguidos.md L19` (ESE, cap. V, item 16)
+    - _Confirmo a fabricacao: cite.py mostra que ESE cap. V item 16 trata de suicidio/materialismo, nao de 'justos, pobres e aflitos'; reverse_locus da aspa retorna co_
+- [defer] `conceitos/caridade.md L25` (ESE, cap. XIII, item 6)
+    - _Confirmei lendo XIII.6 (desejo de riquezas para o bem) e o melhor reverse XI.6 (0.45 — licao de justica sobre o tributo a Cesar, 'a cada um seja dado o que lhe _
+- [defer] `conceitos/caridade.md L26` (ESE, cap. XI, item 9)
+    - _XI.9 (Fenelon, 'O amor e de essencia divina') trata da lei de amor, nao da definicao tripartite benevolencia/indulgencia/perdao das ofensas; reverse max 0.21 — _
+- [defer] `conceitos/cartas-vivas-de-jesus.md L32` (LM, 2ª parte, cap. XX, item 220 e seguintes)
+    - _A aspa não é verbatim em locus algum (reverse_locus máx. 0.33-0.43, todos baixos); pior, o item 220 citado afirma o OPOSTO na 14ª pergunta — a mediunidade 'não _
+- [defer] `conceitos/culto-do-evangelho-no-lar.md L19` (LE, q. 666)
+    - _cite.py confirma: LE q.666 é 'Pode-se orar aos Espíritos?', trata só de orar aos Espíritos bons como mensageiros de Deus; nada sobre lugar nem 'lugares particul_
+- [defer] `conceitos/fe.md L51` (ESE, cap. XIX, item 12)
+    - _Confirmei fabricacao: reverse_locus de 'Cre e caminha! A fe e o farol que dissipa as trevas' da 0.00; 'farol que dissipa' nao existe no ESE (unico 'farol' e lin_
+- [defer] `conceitos/mundos-de-expiacao-e-provas.md L35` (ESE, cap. III, item 4)
+    - _Item 4 e a classificacao das categorias de mundos e nao contem o aforismo 'a dor e o aguilhao que leva o Espirito a avancar'; reverse_locus 0.27 max em loci dif_
+- [defer] `conceitos/mundos-felizes.md L31` (ESE, cap. III, item 11)
+    - _O item 11 trata de contrastes (mal/bem, noite/luz) e das alegrias do céu — nada diz de 'artes, ciências, indústria... para o bem geral'; reverse_locus dá só 0.1_
+- [defer] `conceitos/mundos-regeneradores.md L23` (ESE, cap. III, item 17)
+    - _reverse_locus 0.12 (nao verbatim); o item 17 diz que o homem 'ainda tem de suportar provas' e e 'sujeito as vicissitudes', logo afirmar que 'doencas, sofrimento_
+- [defer] `conceitos/mundos-regeneradores.md L27` (ESE, cap. III, item 17)
+    - _reverse_locus 0.09; equidade/amor/inveja sao do item 17, mas 'autoridade conquistada pela superioridade moral... ninguem se arvora em senhor' e material do item_
+- [defer] `conceitos/orgulho.md L31` (LE, Conclusão, item III)
+    - _Confirmado: LE Conclusão item III (linha 3329-3330) trata da polêmica Espiritismo vs. incredulidade e da ordem social, sem qualquer autoexame interrogativo; gre_
+- [defer] `conceitos/parabola-do-semeador.md L33` (ESE, cap. XVII, item 6)
+    - _Li o item 6 verbatim via cite.py: descreve as categorias de ouvintes (curiosos pelos fenomenos, fascinados pelas comunicacoes, frios/indiferentes, os que admira_
+- [defer] `conceitos/potencias-da-alma.md L21` (LE, q. 459)
+    - _Confirmo: q.459 trata de Espiritos influirem em nossos pensamentos/atos, nao da vontade atuar sobre a materia; a aspa nao e verbatim em locus nenhum (cobertura _
+- [defer] `conceitos/vida-futura.md L23` (ESE, cap. II, item 5)
+    - _Confirmo: a aspa nao e verbatim (reverse max 0.15 em ESE; 0.21 em LE q.195) e o item 5 citado trata do efeito moral da fe na vida futura, nao da encarnacao como_
+- [defer] `conceitos/vida-futura.md L31` (LE, q. 149)
+    - _Confirmo: a q.149 pergunta 'Que sucede a alma no instante da morte?' e responde 'Volta a ser Espirito...', nao define 'vida futura como a que se segue ao tumulo_
+- [defer] `divergencias/jesus-igual-a-deus-em-filipenses-2.md L116` (Gênese cap. XVII)
+    - _A aspa 'todos os Espíritos do Senhor' não aparece verbatim na Gênese (reverse_locus topa em 0.60, genérico); embora cap. XVII de fato trate do Consolador/Espíri_
+- [defer] `obras/epistola-aos-romanos.md L134` (ESE cap. XII, item 3, comentário)
+    - _cite.py de ESE cap. XII item 3 traz só o comentário sobre o SENTIDO de 'amar os inimigos' (não guardar ódio/rancor/vingança), sem qualquer menção a 'é mais fáci_
+
+## ⏹ SEM AÇÃO — 19 (keep: verbatim no locus, FP de extração)
+
+- [keep] `conceitos/bem-aventuranca-dos-perseguidos.md L43` (ESE, cap. XXVIII, item 3, referindo cap. XII)
+- [keep] `conceitos/emancipacao-da-alma.md L49` (LM, 2ª parte, cap. XIX, item 223, 2ª)
+- [keep] `conceitos/evocacao.md L40` (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV, seção "Evocações das pessoas vivas")
+- [keep] `conceitos/mediunidade.md L42` (LM, 2ª parte, cap. XIX, item 223, 6ª)
+- [keep] `conceitos/oracao-dominical.md L13` (ESE, cap. XXVIII, item 2)
+- [keep] `conceitos/oracao-dominical.md L19` (ESE, cap. XXVIII, item 2)
+- [keep] `conceitos/oracao-dominical.md L39` (ESE, cap. XXVIII, item 3, nota)
+- [keep] `conceitos/principio-vital.md L48` (Gênese, cap. X, item 19)
+- [keep] `obras/livro-dos-espiritos.md L149` (LE, Conclusão, item IX)
+- [keep] `obras/livro-dos-mediuns.md L50` (LM, 1ª parte, cap. II, item 7)
+- [keep] `obras/livro-dos-mediuns.md L111` (LM, 2ª parte, cap. XIX, item 223, 6ª)
+- [keep] `obras/pai-nosso.md L43` (ESE, cap. XXVIII, item 3-I)
+- [keep] `obras/pai-nosso.md L71` (ESE, cap. XXVIII, item 3-VI)
+- [keep] `obras/pai-nosso.md L75` (ESE, cap. XXVIII, item 2)
+- [keep] `personalidades/santo-agostinho.md L25` (LE, Conclusão, item IX — Santo Agostinho)
+- [keep] `sinteses/hierarquia-de-autoridade.md L153` (LM, 1ª parte, cap. II, item 7)
+- [keep] `sinteses/veracidade-das-mensagens-psicografadas.md L100` (LM, 2ª parte, cap. XIX, item 223, 7ª pergunta)
+- [keep] `sinteses/veracidade-das-mensagens-psicografadas.md L100` (LM, 2ª parte, cap. XIX, item 223, 8ª pergunta)
+- [keep] `sinteses/veracidade-das-mensagens-psicografadas.md L130` (LM, 2ª parte, cap. XXIV, item 267, 1.º)
