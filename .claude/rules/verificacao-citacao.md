@@ -13,6 +13,15 @@ uv run python scripts/cite.py <SIGLA> "<ref>"
 
 e copiar o texto literal. Não inferir paráfrase de questão/item — o texto kardecista tem formulações específicas que importam doutrinariamente, e citação imprecisa em página da wiki é o tipo de erro que `/lint` não pega (a estrutura está certa, o conteúdo está errado).
 
+> **Vai ESCREVER uma aspa literal? Use `insert_quote.py` — nunca digite de memória.** O texto verbatim vem da fonte e é auto-verificado; é a Fase 2 do ROADMAP §12 (fechar a torneira da fabricação na origem).
+>
+> ```
+> uv run python scripts/insert_quote.py LE "q. 358"                                   # blockquote do locus inteiro
+> uv run python scripts/insert_quote.py ESE "cap. XVII, item 3" --sentence "interroga"  # só a(s) frase(s) com o trecho
+> ```
+>
+> Emite `> "<verbatim>" (SIGLA, ref)` pronto para colar. `--sentence "<trecho>"` recorta da própria fonte a(s) frase(s) que contêm o trecho (útil para citar um pedaço de um item longo sem digitar nada); `--italic` para o estilo em itálico; `--path P --after "<âncora>"` insere no arquivo após a 1ª linha com a âncora. Se o texto não bater verbatim com a fonte (cobertura <0.95) ou o `--sentence` não casar, **aborta** — não emite aspa fabricada. A aspa do Pentateuco nasce da fonte, não da memória da LLM.
+
 ## Quando usar
 
 - Sempre que vai escrever ou editar uma citação canônica em `wiki/**`.
@@ -39,7 +48,7 @@ Se a aspa literal que você quer atribuir a `(SIGLA, ref)` **não aparecer** no 
 uv run python scripts/reverse_locus.py <SIGLA> "<trecho da aspa>"
 ```
 
-Devolve o top-N loci por cobertura. Cobertura ~1.0 num locus diferente do citado = **aspa mal-atribuída** (trocar o `ref` pelo achado). Cobertura baixa em todos = **aspa fabricada** (de-quote ou parafrasear). Depois revalidar com `cite.py`. O mesmo motor roda no lint (`check_literal_quote_exists`, info) e gera `reports/citacao/triagem-aspas.md`.
+Devolve o top-N loci por cobertura. Cobertura ~1.0 num locus diferente do citado = **aspa mal-atribuída** (trocar o `ref` pelo achado). Cobertura baixa em todos = **aspa fabricada** (de-quote ou parafrasear). Depois revalidar com `cite.py`. O mesmo motor roda no lint em dois checks: **`check_quote_misattributed`** (`warning`, no hook PostToolUse — uma mal-atribuição nova é apontada já na edição, com a sugestão de troca de locus) e **`check_literal_quote_exists`** (`info`, fora do hook — fabricadas/paráfrases/incertas, alimenta `reports/citacao/triagem-aspas.md`). FP verificado à mão de mal-atribuição entra na allowlist `data/citacao-aspas-aceitas.json` (não silenciar no chute — só com conferência).
 
 ## Em locus inválido
 

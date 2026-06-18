@@ -15,6 +15,7 @@ import re
 import sys
 import unicodedata
 from datetime import date, datetime
+from functools import lru_cache
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -650,33 +651,48 @@ _MIN_WORDS = 5
 _COVERAGE_MIN = 0.5
 
 
-def check_literal_quote_exists(pages: list[Path]) -> dict:
-    """Check (info) — aspa literal atribuída a Kardec que não bate verbatim com o
-    locus citado, classificada pelo índice reverso (ROADMAP §12).
+def _safe_mtime(p: Path) -> int:
+    try:
+        return p.stat().st_mtime_ns
+    except OSError:
+        return 0
 
-    Padrão alvo: `"frase" (LE, q. N)` onde a frase, posta como citação literal, não
-    aparece como trecho contíguo na q. N. Para cada candidato (cobertura contígua
-    < _COVERAGE_MIN no locus citado), `reverse_locus.classify` varre a obra inteira
-    e anexa um veredicto:
+
+def _scan_literal_quotes(pages: list[Path]) -> list[dict]:
+    """Núcleo compartilhado por `check_literal_quote_exists` (info) e
+    `check_quote_misattributed` (warning): varre `pages` por aspa literal de Kardec
+    e classifica cada candidata pelo índice reverso. A varredura `difflib` sobre a
+    obra inteira é cara — memoizada por (path, mtime) para que os dois checks rodem
+    no mesmo lint sem dobrar o custo. Cada check filtra a fatia que lhe interessa.
+    """
+    key = tuple((str(p), _safe_mtime(p)) for p in pages)
+    return list(_scan_literal_quotes_cached(key))
+
+
+@lru_cache(maxsize=8)
+def _scan_literal_quotes_cached(key: tuple[tuple[str, int], ...]) -> tuple[dict, ...]:
+    """Para cada candidato (cobertura contígua < _COVERAGE_MIN no locus citado),
+    `reverse_locus.classify` varre a obra inteira e anexa um veredicto:
 
     - **misattributed**: a aspa é verbatim em OUTRO locus → `suggested_locus` traz o
       `ref` correto (auto-corrigível: trocar o locus). Classe 2 do §12 — o erro
-      mais comum dos itens diferidos do `/critica`, agora detectado sem LLM.
+      mais comum dos itens diferidos do `/critica`, detectado sem LLM.
     - **fabricated**: a aspa não aparece contígua em locus nenhum da obra. Classe 1.
     - **paraphrase**: o melhor locus É o citado, mas a aspa o parafraseia (não é
       verbatim) → conserto é de-quote ou usar o texto literal.
     - **uncertain**: zona cinzenta → revisão humana.
     - **supported** é SUPRIMIDO (não vira item): o índice achou a aspa no próprio
       locus citado — o flag foi artefato de extração do `cite.py` em capítulo
-      irregular (ESE cap. XXVIII, C&I 2ª parte). Isso elimina a maior fonte de FP.
+      irregular (ESE cap. XXVIII, C&I 2ª parte). Elimina a maior fonte de FP.
 
-    **Aid de auditoria, não gate** — `info`, fora do hook PostToolUse. Conservador:
-    só double-quotes adjacentes a citação Kardec **resolvível**; cobertura contígua
-    (tolera acento/caixa/pontuação/elisão); piso de ≥5 palavras; skip em
-    blockquote/code; locus inválido → skip (coberto por `check_citation_resolves`).
+    Conservador: só double-quotes adjacentes a citação Kardec **resolvível**;
+    cobertura contígua (tolera acento/caixa/pontuação/elisão); piso de ≥5 palavras;
+    skip em blockquote/code; locus inválido → skip (coberto por
+    `check_citation_resolves`).
     """
     items: list[dict] = []
-    for page in pages:
+    for path_str, _mtime in key:
+        page = Path(path_str)
         text = page.read_text(encoding="utf-8")
         body = strip_inline_code(text)
         body = _strip_blockquotes(body)
@@ -706,13 +722,90 @@ def check_literal_quote_exists(pages: list[Path]) -> dict:
                     "classification": verdict.label,
                 }
                 if verdict.label == "misattributed" and verdict.suggested_ref:
-                    item["suggested_locus"] = f"({km.group('sigla')}, {verdict.suggested_ref})"
+                    suggested = f"({km.group('sigla')}, {verdict.suggested_ref})"
+                    item["suggested_locus"] = suggested
                     item["suggested_coverage"] = round(verdict.suggested_coverage, 2)
+                    # `detail` é o que o hook PostToolUse surfa na edição — torna a
+                    # sugestão acionável sem abrir o JSON: locus citado → sugerido.
+                    item["detail"] = (
+                        f"{citation} → trocar por {suggested} "
+                        f"(cob. {round(coverage, 2)}→{round(verdict.suggested_coverage, 2)})"
+                    )
                 items.append(item)
-    # severity "info": candidato a aspa fabricada exige conferência humana (a
-    # cobertura é tolerante e a extração de locus do cite.py é imperfeita em
-    # capítulos irregulares). Não promover a warning/error sem calibrar (§5).
+    return tuple(items)
+
+
+def check_literal_quote_exists(pages: list[Path]) -> dict:
+    """Check (info) — aspa literal de Kardec que não bate verbatim com o locus
+    citado e **não** é mal-atribuída (`fabricated`/`paraphrase`/`uncertain`).
+    As mal-atribuídas (classe 2, sinal limpo) saíram para `check_quote_misattributed`
+    (warning + hook). Esta fatia segue `info`/aid de auditoria: a cobertura é
+    tolerante e o de-quote/reancoragem exige conferência humana — não promover a
+    warning/error sem calibrar o threshold contra as 97 fabricadas (ROADMAP §12).
+    Alimenta `reports/citacao/triagem-aspas.md`.
+    """
+    items = [
+        it for it in _scan_literal_quotes(pages)
+        if it["classification"] in ("fabricated", "paraphrase", "uncertain")
+    ]
     return {"severity": "info", "count": len(items), "items": items}
+
+
+# Allowlist data-driven (não hardcoded) de aspas mal-atribuídas que foram
+# verificadas À MÃO como corretas no locus citado — FPs do índice reverso. Cada
+# entrada suprime um item de check_quote_misattributed. Adicionar/remover é edição
+# de JSON. Ver ROADMAP §12 e memória feedback-checks-data-driven.
+ASPAS_ACEITAS_PATH = Path(__file__).resolve().parents[4] / "data" / "citacao-aspas-aceitas.json"
+
+
+def _load_aspas_aceitas() -> list[dict]:
+    """Lista de aspas aceitas (FPs confirmados). Vazia se o arquivo sumir/quebrar
+    — o check então não suprime nada (fail-open: prefere ruído a esconder erro)."""
+    try:
+        data = json.loads(ASPAS_ACEITAS_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    return data.get("aceitas", [])
+
+
+_ASPAS_ACEITAS = _load_aspas_aceitas()
+
+
+def _is_accepted_quote(item: dict) -> bool:
+    """True se a aspa mal-atribuída consta da allowlist (path por sufixo + citação
+    idêntica + trecho contido, tudo normalizado)."""
+    path = item["path"].replace("\\", "/")
+    quote_norm = _normalize_quote(item["quote"])
+    for entry in _ASPAS_ACEITAS:
+        entry_path = entry.get("path", "")
+        if not entry_path or not path.endswith(entry_path):
+            continue
+        if entry.get("citation") != item["citation"]:
+            continue
+        needle = _normalize_quote(entry.get("quote_contem", ""))
+        if needle and needle in quote_norm:
+            return True
+    return False
+
+
+def check_quote_misattributed(pages: list[Path]) -> dict:
+    """Check (warning) — aspa literal de Kardec que é verbatim em OUTRO locus que
+    não o citado (classe 2 do ROADMAP §12). Sinal limpo do índice reverso: o
+    conserto é trocar o `ref` pelo `suggested_locus` (verificável por `cite.py`).
+
+    Promovido a **warning + hook** (edit-time) em 2026-06-17 para barrar a
+    reincidência — a varredura wiki-wide das 25 mal-atribuições foi zerada antes da
+    promoção, então qualquer mal-atribuição nova surge no PostToolUse já na edição.
+    FPs verificados à mão ficam na allowlist data-driven (`_is_accepted_quote`).
+
+    Ainda **não** é `error`/CI gate: a promoção a error vem quando a confiança
+    consolidar (e `fabricated` exige calibrar o threshold contra as 97 da triagem).
+    """
+    items = [
+        it for it in _scan_literal_quotes(pages)
+        if it["classification"] == "misattributed" and not _is_accepted_quote(it)
+    ]
+    return {"severity": "warning", "count": len(items), "items": items}
 
 
 def find_urls(text: str) -> list[tuple[int, str]]:
@@ -1733,6 +1826,7 @@ CHECK_REGISTRY = {
     "citation_format": check_citation_format,
     "citation_resolves": check_citation_resolves,
     "literal_quote_exists": check_literal_quote_exists,
+    "quote_misattributed": check_quote_misattributed,
     "low_citations": check_low_citations,
     "rascunho_stale": check_rascunho_stale,
     "divergencias_aberta": check_divergencias_aberta,
@@ -1766,6 +1860,7 @@ SINGLE_FILE_CHECKS = (
     "fontes_missing",
     "citation_format",
     "citation_resolves",
+    "quote_misattributed",
     "broken_links",
     "low_citations",
     "rascunho_stale",

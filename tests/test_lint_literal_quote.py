@@ -18,7 +18,11 @@ sys.path.insert(0, str(ROOT / "scripts"))
 sys.path.insert(0, str(ROOT / ".claude" / "skills" / "lint" / "scripts"))
 
 from cite import literal_text  # noqa: E402
-from lint_wiki import check_literal_quote_exists  # noqa: E402
+from lint_wiki import (  # noqa: E402
+    _is_accepted_quote,
+    check_literal_quote_exists,
+    check_quote_misattributed,
+)
 
 
 def _words(sigla: str, ref: str) -> list[str]:
@@ -102,6 +106,75 @@ class CheckLiteralQuoteExistsTests(unittest.TestCase):
         fake = "esta frase foi inteiramente inventada e nao consta da obra em lugar nenhum"
         out = self.run_check(f'Texto "{fake}" (Léon Denis, *O Problema do Ser*, cap. IV).')
         self.assertEqual(out, [])
+
+
+class CheckQuoteMisattributedTests(unittest.TestCase):
+    """Classe 2 do §12 (aspa verbatim em OUTRO locus) virou check próprio em
+    `warning` + hook; `literal_quote_exists` fica só com fab/par/incerta (info)."""
+
+    # Caso real estável: a máxima é verbatim no item 8, mas citada como item 10.
+    # (É justamente o FP que mora na allowlist — aqui num path de tmp que NÃO casa
+    # o sufixo da allowlist, então é flagrado; a supressão é testada à parte.)
+    LINE = (
+        'A máxima espírita: "[[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao'
+        '|Fora da caridade não há salvação]]" (ESE, cap. XV, item 10).'
+    )
+
+    def _run(self, fn, body: str) -> dict:
+        with tempfile.TemporaryDirectory() as d:
+            p = Path(d) / "pagina.md"
+            p.write_text(body, encoding="utf-8")
+            return fn([p])
+
+    def test_misattributed_is_warning_and_not_in_info(self) -> None:
+        warn = self._run(check_quote_misattributed, self.LINE)
+        self.assertEqual(warn["severity"], "warning")
+        self.assertEqual(warn["count"], 1)
+        item = warn["items"][0]
+        self.assertEqual(item["classification"], "misattributed")
+        self.assertIn("item 8", item["suggested_locus"])
+        # Não aparece no check info (a fatia misattributed saiu de lá).
+        info = self._run(check_literal_quote_exists, self.LINE)
+        self.assertEqual(info["count"], 0)
+
+    def test_fabricated_stays_info_not_warning(self) -> None:
+        fake = (
+            '"esta frase foi inteiramente inventada e nao consta da obra em lugar '
+            'nenhum" (ESE, cap. XV, item 10).'
+        )
+        self.assertEqual(self._run(check_quote_misattributed, fake)["count"], 0)
+        info = self._run(check_literal_quote_exists, fake)
+        self.assertEqual(info["count"], 1)
+        self.assertEqual(info["items"][0]["classification"], "fabricated")
+
+
+class AspasAceitasAllowlistTests(unittest.TestCase):
+    """Allowlist data-driven de FPs (data/citacao-aspas-aceitas.json) — suprime
+    mal-atribuição verificada à mão como correta no locus citado."""
+
+    def test_known_fp_suppressed(self) -> None:
+        item = {
+            "path": "wiki/conceitos/parabola-do-bom-samaritano.md",
+            "citation": "(ESE, cap. XV, item 10)",
+            "quote": "[[...|Fora da caridade não há salvação]]",
+        }
+        self.assertTrue(_is_accepted_quote(item))
+
+    def test_same_quote_other_page_not_suppressed(self) -> None:
+        item = {
+            "path": "wiki/conceitos/outra-pagina.md",
+            "citation": "(ESE, cap. XV, item 10)",
+            "quote": "Fora da caridade não há salvação",
+        }
+        self.assertFalse(_is_accepted_quote(item))
+
+    def test_same_page_other_citation_not_suppressed(self) -> None:
+        item = {
+            "path": "wiki/conceitos/parabola-do-bom-samaritano.md",
+            "citation": "(ESE, cap. XV, item 99)",
+            "quote": "Fora da caridade não há salvação",
+        }
+        self.assertFalse(_is_accepted_quote(item))
 
 
 if __name__ == "__main__":

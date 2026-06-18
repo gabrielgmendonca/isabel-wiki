@@ -1,0 +1,12 @@
+{
+  "_comment": "Allowlist de aspas literais do Pentateuco verificadas manualmente como CORRETAS, apesar de o índice reverso (scripts/reverse_locus.py) sugerir outro locus. Cada entrada suprime UM falso-positivo de check_quote_misattributed no lint (severity warning). Não usar para silenciar aspas de fato mal-atribuídas — só para FPs confirmados à mão. Registro extensível (não hardcoded no check). Ver ROADMAP §12.",
+  "aceitas": [
+    {
+      "path": "wiki/conceitos/parabola-do-bom-samaritano.md",
+      "citation": "(ESE, cap. XV, item 10)",
+      "quote_contem": "Fora da caridade não há salvação",
+      "sugerido_descartado": "(ESE, cap. XV, item 8)",
+      "motivo": "A máxima está mesmo no item 10 citado (onde Kardec a enuncia em contexto); o índice reverso prefere o item 8 por a aspa ser texto de wikilink. FP verificado em 2026-06-17."
+    }
+  ]
+}
