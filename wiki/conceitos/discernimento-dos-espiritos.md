@@ -49,7 +49,7 @@ Kardec é taxativo: a mediunidade é **meio**, não autoridade em si. Cada comun
 
 Os Espíritos verdadeiros não se impõem; **submetem-se ao exame**:
 
-> "O verdadeiro Espírito justo não se assusta com o exame; ao contrário, convida a ele; é o culpado que foge à luz." (LM, 2ª parte, cap. XXIV, item 267)
+> O verdadeiro Espírito justo não se assusta com o exame; ao contrário, convida a ele; é o culpado que foge à luz. (LM, 2ª parte, cap. XXIV, item 267)
 
 Cinco critérios convergentes de qualidade:
 

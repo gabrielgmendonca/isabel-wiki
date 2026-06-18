@@ -140,7 +140,7 @@ Recorrência marcante: três capítulos (CVV 76, VL 159, PVE 13) que comentam Mt
 
 ### 4. Frutos como antídoto da aparência
 
-O eixo dos **frutos** (Mt 7.16, 20; Lc 6.44) recebe três capítulos (FV 7, CVV 121, CVV 122), todos articulando a mesma tese: o critério moral é o que se produz no progresso comum, não o que se aparenta. FV 7 ("Pelos frutos") é a peça nuclear — quinze "nem pela…" anafóricos (tamanho, copa, ramagens, casca, flores, aroma) preparando o fecho. Esta cláusula é a chave de leitura emanueliana da máxima "os bons espíritas se reconhecem pela transformação moral" (ESE, cap. XVII, item 4):
+O eixo dos **frutos** (Mt 7.16, 20; Lc 6.44) recebe três capítulos (FV 7, CVV 121, CVV 122), todos articulando a mesma tese: o critério moral é o que se produz no progresso comum, não o que se aparenta. FV 7 ("Pelos frutos") é a peça nuclear — quinze "nem pela…" anafóricos (tamanho, copa, ramagens, casca, flores, aroma) preparando o fecho. Esta cláusula é a chave de leitura emanueliana da máxima os bons espíritas se reconhecem pela transformação moral (ESE, cap. XVII, item 4):
 
 > "Ninguém que se consagre realmente à verdade dará testemunho de nós pelo que parecemos, pela superficialidade de nossa vida, pela epiderme de nossas atitudes ou expressões individuais percebidas ou apreciadas de passagem, mas sim pela substância de nossa colaboração no progresso comum, pela importância de nosso concurso no bem geral." (*Fonte Viva*, cap. 7 — sobre Mt 7.16)
 

@@ -259,7 +259,7 @@ O ditado popular é apropriado por Kardec como princípio doutrinário literal: 
 
 ### Aprofundamento
 
-ESE cap. IV item 18 confirma e amplia o princípio da q. 205: "longe de destruir os laços de afeição, a pluralidade das existências os fortalece" (ESE, cap. IV, item 18). Para casos narrativos da continuidade de afetos através das vidas, ver [[wiki/personalidades/publio-lentulus]] e [[wiki/personalidades/livia]] (ciclo romano em [[wiki/obras/ha-dois-mil-anos]]); [[wiki/personalidades/celia]] na saga romana de [[wiki/obras/50-anos-depois]]; e [[wiki/personalidades/evelina-serpa]] em [[wiki/obras/e-a-vida-continua]] (laços familiares reconfigurados após a desencarnação).
+ESE cap. IV item 18 confirma e amplia o princípio da q. 205: longe de destruir os laços de afeição, a pluralidade das existências os fortalece (ESE, cap. IV, item 18). Para casos narrativos da continuidade de afetos através das vidas, ver [[wiki/personalidades/publio-lentulus]] e [[wiki/personalidades/livia]] (ciclo romano em [[wiki/obras/ha-dois-mil-anos]]); [[wiki/personalidades/celia]] na saga romana de [[wiki/obras/50-anos-depois]]; e [[wiki/personalidades/evelina-serpa]] em [[wiki/obras/e-a-vida-continua]] (laços familiares reconfigurados após a desencarnação).
 
 > [!warning] Divergência sobre almas criadas aos pares
 > Léon Denis e Emmanuel afirmam pares predestinados; Kardec nega "união particular e fatal" em LE q. 298 (cap. seguinte). A "afeição que remonta às existências anteriores" descrita em q. 204–205 não implica predestinação aos pares.

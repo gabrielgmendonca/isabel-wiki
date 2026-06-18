@@ -23,7 +23,7 @@ Erasto figura entre os Espiritos que contribuiram com instrucoes reunidas por Ka
 
 Erasto tem papel destacado no LM como co-autor do **quadro sinótico dos médiuns**:
 
-- "Este quadro é, a bem dizer, obra deles [dos Espíritos]. [...] São, na sua maioria, de Erasto e de Sócrates" (LM, 2ª parte, cap. XVI, item 185).
+- "Este quadro é, a bem dizer, obra deles [dos Espíritos]. [...] São, na sua maioria, de Erasto e de Sócrates" (LM, 2ª parte, cap. XVI, item 186).
 - Assina observações sobre médiuns noturnos, alertando contra charlatães que simulam mediunidade na obscuridade (LM, 2ª parte, cap. XVI, item 189 — "Médiuns noturnos").
 
 ## Epístola aos Espíritas Lioneses (RE out/1861)

@@ -20,7 +20,7 @@ Kardec distingue expiação de castigo divino: o Espírito sofre pelo próprio m
 
 ### Expiação e reencarnação
 
-A encarnação é imposta a uns como expiação, a outros como missão. A vida material é uma prova que lhes cumpre sofrer repetidamente, até que hajam atingido a perfeição; é "uma espécie de filtro ou depurador de onde saem mais ou menos purificados" (LE, q. 132). As vicissitudes da existência terrena são, em muitos casos, consequência de faltas de uma vida anterior (LE, q. 984–986).
+A encarnação é imposta a uns como expiação, a outros como missão. A vida material é uma prova que lhes cumpre sofrer repetidamente, até que hajam atingido a perfeição; é uma espécie de filtro ou depurador de onde saem mais ou menos purificados (LE, q. 132). As vicissitudes da existência terrena são, em muitos casos, consequência de faltas de uma vida anterior (LE, q. 984–986).
 
 ### Expiação não é eterna
 

@@ -40,7 +40,7 @@ Refuta-se assim a ideia de que o arrependimento sozinho — "algumas palavras e 
 
 ### Onde cada elemento se realiza
 
-- O **arrependimento** pode ocorrer em qualquer tempo e lugar — na vida corporal ou espiritual (LE, q. 990–994). Se tardio, apenas prolonga o sofrimento, mas nunca é tarde demais: "pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso" (LE, q. 1007).
+- O **arrependimento** pode ocorrer em qualquer tempo e lugar — na vida corporal ou espiritual (LE, q. 990–994). Se tardio, apenas prolonga o sofrimento, mas nunca é tarde demais: pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso (LE, q. 1007).
 - A **expiação** pode dar-se em três esferas: nesta vida, na vida espiritual após a morte, ou numa nova existência corpórea. Dura "até que os traços da falta sejam completamente apagados" (C&I, 1ª parte, cap. VII, item 17), e cessa quando o mal não existe mais (C&I, 1ª parte, cap. VII, item 13).
 - A **reparação**, quando não feita nesta vida, implica reencontro reencarnatório: o Espírito reencontra, em existência ulterior, as mesmas pessoas que lhe tiveram queixas, em condições escolhidas por ele mesmo, para fazer-lhes tanto bem quanto lhes fez mal (C&I, 1ª parte, cap. VII, item 17).
 

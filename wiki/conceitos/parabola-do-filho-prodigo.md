@@ -28,7 +28,7 @@ O irmão mais velho, indignado com a festa, recusa-se a entrar; o pai sai ao seu
 
 Kardec lê a parábola como afirmação da misericórdia divina que sobreleva o rigor, articulando-a à doutrina do arrependimento, da reparação e das existências sucessivas:
 
-- O retorno do filho pródigo é figura do **arrependimento como primeiro passo da reabilitação**. Os Espíritos ensinam que o arrependimento sincero, seguido de expiação e reparação, basta para apagar o mal cometido, e que nunca é tarde para o Espírito se emendar (LE, q. 1000–1007). O futuro permanece aberto: "sempre se pode reparar o mal que se fez" (LE, q. 1001), e a misericórdia de Deus alcança todo aquele que, "tornando em si", se põe a caminho do Pai.
+- O retorno do filho pródigo é figura do **arrependimento como primeiro passo da reabilitação**. Os Espíritos ensinam que o arrependimento sincero, seguido de expiação e reparação, basta para apagar o mal cometido, e que nunca é tarde para o Espírito se emendar (LE, q. 1000–1007). O futuro permanece aberto: sempre se pode reparar o mal que se fez (LE, q. 1001), e a misericórdia de Deus alcança todo aquele que, "tornando em si", se põe a caminho do Pai.
 
 - O **pai que corre ao encontro do filho ainda longe** representa a justiça divina que acolhe, não uma justiça que humilha. Essa é a mesma nota do capítulo V do ESE ("Bem-aventurados os aflitos"): a aflição que conduz ao arrependimento é já princípio de reparação, porque reorienta o Espírito. Deus não exige o tormento; exige a volta.
 

@@ -46,7 +46,7 @@ A consequência psíquica do excesso é descrita em três tempos pelo próprio H
 
 ### Eixo 2 — Rigidez institucional e pena de morte (LE q. 762)
 
-> "A pena de morte, que pode vir a ser banida das sociedades civilizadas, não terá sido de necessidade em épocas menos adiantadas? — Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhormente o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça." (LE, q. 762)
+> A pena de morte, que pode vir a ser banida das sociedades civilizadas, não terá sido de necessidade em épocas menos adiantadas? — Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhormente o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça. (LE, q. 762)
 
 O segundo comentário desloca a análise do plano individual para o coletivo. Hammed enuncia a tese sem rodeios: "A pena de morte é uma rigidez dos costumes humanos". A rigidez moral institucional pretende resolver a falta matando o corpo, "com o esquecimento, porém, de que somente transfere a problemática para outras faixas da vida e cria revolta e desarmonia no ser em correção".
 

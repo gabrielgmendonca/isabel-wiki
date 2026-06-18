@@ -127,7 +127,7 @@ Penas e gozos no presente e no porvir; suicídio, expiação, arrependimento; pa
 | II   | Das penas e gozos futuros | 958–1.019 |
 
 **Destaques:**
-- Felicidade relativa e resignação: "O homem pode ser feliz na Terra?" — "Não, mas pode gozar de certa soma de felicidade relativa" (LE, q. 920–921, paráfrase).
+- Felicidade relativa e resignação: "O homem pode ser feliz na Terra?" — Não, mas pode gozar de certa soma de felicidade relativa (LE, q. 920–921, paráfrase).
 - Suicídio: sempre uma falta; "o desapontamento" é consequência inevitável (LE, q. 957).
 - Penas e gozos futuros são morais, não materiais: "mil vezes mais vivos do que os que experimentais na Terra, porque o Espírito, uma vez liberto, é mais impressionável" (LE, q. 965).
 - Eternidade das penas rejeitada: "Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal" (LE, q. 1006).

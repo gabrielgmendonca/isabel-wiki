@@ -19,7 +19,7 @@ A lei moral é parte integrante da lei de Deus. Kardec a apresenta na Parte 3 do
 
 ### Inscrita na consciência
 
-A lei moral está gravada na consciência de todo Espírito. Nem sempre é percebida claramente — o Espírito pouco adiantado pode ignorá-la ou resistir a ela —, mas ela se impõe progressivamente à medida que o Espírito progride. "Deus a gravou na consciência do homem" (LE, q. 621).
+A lei moral está gravada na consciência de todo Espírito. Nem sempre é percebida claramente — o Espírito pouco adiantado pode ignorá-la ou resistir a ela —, mas ela se impõe progressivamente à medida que o Espírito progride. Deus a gravou na consciência do homem (LE, q. 621).
 
 ### Dez leis morais
 

@@ -20,7 +20,7 @@ Na escala canônica fixada por Kardec (ESE, cap. III, item 4), os mundos felizes
 
 ### Características físicas e espirituais
 
-A descrição mais ampla dos mundos superiores está em ESE, cap. III, item 9: corpo aperfeiçoado, sentidos mais apurados, locomoção pela vontade ("desliza, a bem dizer, pela superfície, ou plana na atmosfera, sem qualquer outro esforço além do da vontade"), longevidade proporcional ao adiantamento, transmissão livre do pensamento. Aplicado especificamente aos mundos felizes (itens 10–11): não há guerras, escravidão, ódio nem inveja; "ninguém, todavia, sofre por lhe faltar o necessário, uma vez que ninguém se acha em expiação. Numa palavra: o mal, nesses mundos, não existe" (ESE, cap. III, item 10).
+A descrição mais ampla dos mundos superiores está em ESE, cap. III, item 9: corpo aperfeiçoado, sentidos mais apurados, locomoção pela vontade ("desliza, a bem dizer, pela superfície, ou plana na atmosfera, sem qualquer outro esforço além do da vontade"), longevidade proporcional ao adiantamento, transmissão livre do pensamento. Aplicado especificamente aos mundos felizes (itens 10–11): não há guerras, escravidão, ódio nem inveja; ninguém, todavia, sofre por lhe faltar o necessário, uma vez que ninguém se acha em expiação. Numa palavra: o mal, nesses mundos, não existe (ESE, cap. III, item 10).
 
 ### Relações sociais
 
@@ -32,7 +32,7 @@ Kardec descreve uma existência de beleza e serenidade incomparáveis: "Aí, nã
 
 ### Acesso pelo mérito
 
-Deus não é parcial — todos os Espíritos podem alcançar os mundos felizes pelo trabalho e pelo mérito: "Deus não fez criaturas privilegiadas; a todos dá direitos e deveres iguais. Se uns estão mais adiantados do que outros, não o é por favor, mas por trabalho" (ESE, cap. III, item 12). O caminho é aberto a todos, sem exceção.
+Deus não é parcial — todos os Espíritos podem alcançar os mundos felizes pelo trabalho e pelo mérito: Deus não fez criaturas privilegiadas; a todos dá direitos e deveres iguais. Se uns estão mais adiantados do que outros, não o é por favor, mas por trabalho (ESE, cap. III, item 12). O caminho é aberto a todos, sem exceção.
 
 ### Espíritos puros e mundos divinos
 

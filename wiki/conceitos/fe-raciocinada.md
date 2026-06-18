@@ -20,7 +20,7 @@ Kardec apresenta a distinção capital entre fé cega e fé raciocinada: "Fé in
 
 ### Fé religiosa e condição da fé inabalável
 
-O cap. XIX do ESE trata das condições para que a fé seja verdadeiramente sólida: "A fé raciocinada, a que se baseia nos fatos e na lógica, nada deixa de obscuro; o crente a possui porque tem a certeza, e ninguém tem certeza senão quando compreende" (ESE, cap. XIX, item 6). A fé cega aceita sem verificação; a raciocinada exige compreensão.
+O cap. XIX do ESE trata das condições para que a fé seja verdadeiramente sólida: A fé raciocinada, a que se baseia nos fatos e na lógica, nada deixa de obscuro; o crente a possui porque tem a certeza, e ninguém tem certeza senão quando compreende (ESE, cap. XIX, item 6). A fé cega aceita sem verificação; a raciocinada exige compreensão.
 
 ### A fé que transporta montanhas
 

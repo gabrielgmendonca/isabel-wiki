@@ -100,7 +100,7 @@ André Luiz situa a diferenciação sexual como **conquista evolutiva** do princ
 
 Anotações:
 
-- O sexo **não é** atributo do Espírito, mas do veículo: "Os Espíritos não têm sexo no sentido que entendeis. Os sexos são uma consequência da organização" (LE, q. 200). André Luiz reafirma e estende: o sexo é **função do centro genésico** do psicossoma, plasmado pela mente conforme as necessidades evolutivas.
+- O sexo **não é** atributo do Espírito, mas do veículo: Os Espíritos não têm sexo no sentido que entendeis. Os sexos são uma consequência da organização (LE, q. 200). André Luiz reafirma e estende: o sexo é **função do centro genésico** do psicossoma, plasmado pela mente conforme as necessidades evolutivas.
 - **Reencarnações em sexos alternados** — coerente com Kardec (LE, q. 201: "os Espíritos encarnam alternadamente como homens e mulheres") — são apresentadas como aprendizado do princípio inteligente em ambas as polaridades.
 - A intervenção científica para **determinar o sexo** do feto é desencorajada (parte II, cap. 16): "essa atuação indébita se verificaria apenas no campo morfológico, impondo talvez inversões desnecessárias e imprimindo graves complicações ao foro íntimo".
 

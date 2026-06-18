@@ -49,7 +49,7 @@ O exercício abusivo pode causar fadiga e enfraquecimento orgânico por "emissã
 
 ### Mediunato
 
-Termo criado pelos Espíritos para designar a **missão providencial** dos médiuns: "uma tarefa que ele deve desempenhar e pela qual será feliz ou infeliz, conforme o uso que dela fizer" (LM, 2ª parte, cap. XXXI, comunicação XII).
+Termo criado pelos Espíritos para designar a **missão providencial** dos médiuns: uma tarefa que ele deve desempenhar e pela qual será feliz ou infeliz, conforme o uso que dela fizer (LM, 2ª parte, cap. XXXI, comunicação XII).
 
 ## Desdobramentos
 

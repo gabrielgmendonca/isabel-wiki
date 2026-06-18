@@ -20,7 +20,7 @@ Kardec distingue a fé inata — pressentimento das faculdades e do destino futu
 
 ### Fé cega vs. fé raciocinada
 
-A fé cega não examina: aceita sem verificação tanto o verdadeiro quanto o falso, e se choca contra a razão ao primeiro embate. A fé raciocinada se apoia no raciocínio e nos fatos: "a fé raciocinada, aquela que se baseia nos fatos e na lógica, não deixa nenhuma obscuridade; o homem crê porque tem certeza, e só se tem certeza quando se compreende" (ESE, cap. XIX, item 6). É a fé que o Espiritismo propõe: inabalável porque compreende.
+A fé cega não examina: aceita sem verificação tanto o verdadeiro quanto o falso, e se choca contra a razão ao primeiro embate. A fé raciocinada se apoia no raciocínio e nos fatos: a fé raciocinada, aquela que se baseia nos fatos e na lógica, não deixa nenhuma obscuridade; o homem crê porque tem certeza, e só se tem certeza quando se compreende (ESE, cap. XIX, item 6). É a fé que o Espiritismo propõe: inabalável porque compreende.
 
 Ver [[wiki/conceitos/fe-raciocinada]] para desenvolvimento completo.
 

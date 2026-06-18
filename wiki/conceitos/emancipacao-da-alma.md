@@ -45,7 +45,7 @@ O êxtase é um grau mais avançado de emancipação, em que a alma contempla re
 O LM vincula a emancipação da alma à mediunidade:
 
 - O **sonambulismo mediúnico** é estado de independência mais completo que o sonho comum e permite comunicações de alta qualidade (LM, 2ª parte, cap. XIV, item 172; cap. XVI, item 190).
-- A **evocação de pessoas vivas** é possível porque, durante o sono, "o Espírito pode emancipar-se e comunicar-se" (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV).
+- A **evocação de pessoas vivas** é possível porque, durante o sono, o Espírito pode emancipar-se e comunicar-se (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV).
 - O Espírito do médium pode, durante o exercício mediúnico, entrar em estado análogo à emancipação: "A alma do médium pode comunicar-se, como a de qualquer outro" (LM, 2ª parte, cap. XIX, item 223, 2ª).
 - Os **médiuns extáticos** recebem revelações em estado de êxtase, mas "muitos são joguetes da própria imaginação e de Espíritos zombeteiros" — "são raríssimos os que mereçam inteira confiança" (LM, 2ª parte, cap. XVI, item 190).
 

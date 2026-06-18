@@ -22,7 +22,7 @@ A base doutrinária está nas q. 873-919 do *Livro dos Espíritos*, na **Lei de 
 
 > "Fora da caridade não há salvação." (ESE, cap. XV, item 5)
 
-A caridade aqui é "**benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas**" (ESE, cap. XV, item 4). Não é esmola material apenas — é movimento total do sentimento que transforma quem ama tanto quanto quem é amado.
+A caridade aqui é "**benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas**" (LE, q. 886). Não é esmola material apenas — é movimento total do sentimento que transforma quem ama tanto quanto quem é amado.
 
 ### Amar os inimigos
 

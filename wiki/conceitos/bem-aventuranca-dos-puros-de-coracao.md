@@ -50,7 +50,7 @@ A bem-aventurança é o fundamento da regra que Kardec repete no ESE: "sois resp
 
 ### Relação direta com a mediunidade
 
-A pureza de coração é pré-requisito para mediunidade saudável. "Os Espíritos atraídos pelos médiuns são, em geral, da mesma natureza moral deles" (LM, 2ª parte, cap. XIX, item 226). Coração impuro atrai comunicações impuras; pureza moral é a melhor proteção contra as obsessões. Cap. VIII do ESE é, por isso, leitura obrigatória em evangelhos-no-lar e reuniões mediúnicas.
+A pureza de coração é pré-requisito para mediunidade saudável. Os Espíritos atraídos pelos médiuns são, em geral, da mesma natureza moral deles (LM, 2ª parte, cap. XIX, item 226). Coração impuro atrai comunicações impuras; pureza moral é a melhor proteção contra as obsessões. Cap. VIII do ESE é, por isso, leitura obrigatória em evangelhos-no-lar e reuniões mediúnicas.
 
 ### Pureza adulta e pureza infantil
 

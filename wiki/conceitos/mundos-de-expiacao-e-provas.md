@@ -24,7 +24,7 @@ Nos mundos de expiação e provas, predominam o sofrimento físico, as paixões 
 
 ### A Terra como mundo de expiação
 
-A Terra está nesta categoria, embora caminhe para tornar-se um mundo regenerador: "A Terra é atualmente um desses mundos, e por isso o homem aí se acha sujeito a tantas vicissitudes" (ESE, cap. III, item 14). Os sofrimentos terrenos não são castigos arbitrários, mas consequências naturais do estado moral de seus habitantes.
+A Terra está nesta categoria, embora caminhe para tornar-se um mundo regenerador: A Terra é atualmente um desses mundos, e por isso o homem aí se acha sujeito a tantas vicissitudes (ESE, cap. III, item 14). Os sofrimentos terrenos não são castigos arbitrários, mas consequências naturais do estado moral de seus habitantes.
 
 ### Habitantes: degredados e primitivos
 
@@ -36,7 +36,7 @@ O sofrimento tem dupla função: **expiar** faltas passadas (consequência natur
 
 ### O que o LE ensina sobre os mundos
 
-O LE trata da pluralidade dos mundos habitados nas questões 55 a 58: "Todos os globos que circulam no espaço são habitados" (LE, q. 55). Os mundos diferem entre si quanto ao grau de adiantamento dos Espíritos que os habitam (LE, q. 57–58).
+O LE trata da pluralidade dos mundos habitados nas questões 55 a 58: Todos os globos que circulam no espaço são habitados (LE, q. 55). Os mundos diferem entre si quanto ao grau de adiantamento dos Espíritos que os habitam (LE, q. 57–58).
 
 ## Desdobramentos
 

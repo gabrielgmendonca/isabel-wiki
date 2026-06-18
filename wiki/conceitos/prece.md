@@ -16,23 +16,23 @@ Ato de comunicação da alma com Deus e com os Espíritos; transmissão do pensa
 
 ### Natureza e qualidades da prece
 
-"A prece é um ato de adoração. Orar a Deus é pensar nEle; é aproximar-se dEle; é pôr-se em comunicação com Ele" (ESE, cap. XXVII, item 1). A prece deve ser do coração, não dos lábios: "Deus distingue dos que não passam de vã fórmula os que oram com o coração" (ESE, cap. XXVII, item 4).
+"A prece é um ato de adoração. Orar a Deus é pensar nEle; é aproximar-se dEle; é pôr-se em comunicação com Ele" (ESE, cap. XXVII, item 1). A prece deve ser do coração, não dos lábios: Deus distingue dos que não passam de vã fórmula os que oram com o coração (ESE, cap. XXVII, item 4).
 
 ### A prece não muda os decretos de Deus
 
-"Deus não pode mudar a ordem da Natureza ao gosto de cada um" (ESE, cap. XXVII, item 7). A prece não altera as leis divinas, mas tem efeitos reais: atrai bons Espíritos que fortalecem a alma e inspiram bons pensamentos. A eficácia da prece está em dispor o ser humano a receber a influência benéfica dos Espíritos protetores.
+Deus não pode mudar a ordem da Natureza ao gosto de cada um (ESE, cap. XXVII, item 7). A prece não altera as leis divinas, mas tem efeitos reais: atrai bons Espíritos que fortalecem a alma e inspiram bons pensamentos. A eficácia da prece está em dispor o ser humano a receber a influência benéfica dos Espíritos protetores.
 
 ### Transmissão do pensamento
 
-A prece opera por transmissão do pensamento: "Pela prece, o homem atrai o concurso dos bons Espíritos, que o secundam nas boas resoluções e lhe inspiram bons pensamentos" (ESE, cap. XXVII, item 9). Trata-se de um mecanismo natural — a prece é radiação do pensamento, não magia.
+A prece opera por transmissão do pensamento: Pela prece, o homem atrai o concurso dos bons Espíritos, que o secundam nas boas resoluções e lhe inspiram bons pensamentos (ESE, cap. XXVII, item 9). Trata-se de um mecanismo natural — a prece é radiação do pensamento, não magia.
 
 ### Prece inteligível e sincera
 
-Kardec insiste na prece sincera, compreensível e sentida: "Uma prece inteligível e sentida vale mais que um número incalculável de orações ditas como mera fórmula" (ESE, cap. XXVII, item 5). A repetição mecânica não tem valor moral nem espiritual.
+Kardec insiste na prece sincera, compreensível e sentida: Uma prece inteligível e sentida vale mais que um número incalculável de orações ditas como mera fórmula (ESE, cap. XXVII, item 5). A repetição mecânica não tem valor moral nem espiritual.
 
 ### Prece pelos mortos e pelos doentes
 
-A prece pelos desencarnados traz-lhes consolação e alívio: "A prece pode efetivamente concorrer para aliviar e abreviar os sofrimentos do Espírito imperfeito" (ESE, cap. XXVII, item 18). A prece pelos doentes age pela mesma via — fortalece o Espírito do enfermo e atrai a assistência espiritual.
+A prece pelos desencarnados traz-lhes consolação e alívio: A prece pode efetivamente concorrer para aliviar e abreviar os sofrimentos do Espírito imperfeito (ESE, cap. XXVII, item 18). A prece pelos doentes age pela mesma via — fortalece o Espírito do enfermo e atrai a assistência espiritual.
 
 #### Tiago 5: a oração do justo, a unção e Elias
 

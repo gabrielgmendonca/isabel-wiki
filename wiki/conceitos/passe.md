@@ -20,7 +20,7 @@ A base doutrinária está em três lugares principais.
 
 A condição operatória é dupla: **vontade firme** do passista de fazer o bem, e **fé sincera**. "Fora desses casos, eles não passam de magnetizadores." A intenção é parte da técnica.
 
-**Gênese, cap. XIV — Os fluidos.** Kardec sistematiza o fundamento físico: o universo é constituído de uma matéria-mãe (fluido cósmico universal) que se modifica em fluidos espirituais, vitais e magnéticos. Os Espíritos, encarnados ou não, atuam sobre essa matéria pelo pensamento e pela vontade — "os fluidos espirituais [...] tomam a impressão de seu pensamento" (Gênese, cap. XIV, item 14). O passe é, no idioma da Gênese, **emissão fluídica modulada pela qualidade moral do emissor**.
+**Gênese, cap. XIV — Os fluidos.** Kardec sistematiza o fundamento físico: o universo é constituído de uma matéria-mãe (fluido cósmico universal) que se modifica em fluidos espirituais, vitais e magnéticos. Os Espíritos, encarnados ou não, atuam sobre essa matéria pelo pensamento e pela vontade — os fluidos espirituais [...] tomam a impressão de seu pensamento (Gênese, cap. XIV, item 14). O passe é, no idioma da Gênese, **emissão fluídica modulada pela qualidade moral do emissor**.
 
 **ESE, cap. XXVIII — Coletânea de preces.** Inclui prece para a saúde dos doentes ("O homem foi colocado pela natureza em condições próprias para a conservação do corpo") e remete o tratamento dos enfermos à articulação entre prece, fé e auxílio espiritual.
 

@@ -32,7 +32,7 @@ A caridade — em pensamentos, palavras e ações — é o remédio para o egoí
 
 ## Aplicação prática
 
-O combate ao egoísmo é trabalho diário e progressivo. Em palestras, convém lembrar que o egoísmo não é apenas a avareza material, mas todo movimento interior que coloca o "eu" acima do próximo — na família, no trabalho, nos relacionamentos. O Espiritismo convida ao autoexame constante: "Fez o bem que podia? Sacrificou algum interesse em favor do próximo?" (LE, Conclusão, item III).
+O combate ao egoísmo é trabalho diário e progressivo. Em palestras, convém lembrar que o egoísmo não é apenas a avareza material, mas todo movimento interior que coloca o "eu" acima do próximo — na família, no trabalho, nos relacionamentos. O Espiritismo convida ao autoexame constante: Fez o bem que podia? Sacrificou algum interesse em favor do próximo? (LE, Conclusão, item III).
 
 ## Na *Viagem Espírita em 1862*
 

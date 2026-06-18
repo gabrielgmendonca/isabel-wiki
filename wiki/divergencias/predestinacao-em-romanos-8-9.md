@@ -67,7 +67,7 @@ A cadeia paulina "predestinou → chamou → justificou → glorificou" pode ser
 > **Q. 1009** — "A sorte do homem no mundo onde ele se encontra está irrevogavelmente fixa?
 > — Não." (paráfrase; contexto LE q. 1009–1012)
 
-Kardec ensina a **progressividade universal**: todos os Espíritos progridem, nenhum é irredimivelmente perdido. "O progresso é uma condição da natureza humana" (LE q. 780); "chegarão todos os Espíritos à perfeição? Sim, por mais penoso que lhes seja o caminho" (LE q. 115, q. 121). A doutrina das penas eternas é incompatível com a justiça infinita de Deus ([[wiki/conceitos/penas-eternas]]; C&I 1ª parte cap. VII).
+Kardec ensina a **progressividade universal**: todos os Espíritos progridem, nenhum é irredimivelmente perdido. "O progresso é uma condição da natureza humana" (LE, q. 781); "chegarão todos os Espíritos à perfeição? Sim, por mais penoso que lhes seja o caminho" (LE q. 115, q. 121). A doutrina das penas eternas é incompatível com a justiça infinita de Deus ([[wiki/conceitos/penas-eternas]]; C&I 1ª parte cap. VII).
 
 Se todos são salvos ao fim, a "eleição" paulina — lida à letra como exclusão dos não-eleitos — perde sentido. Só faz sentido se lida como **chamamento a um tempo determinado** (Israel chamado primeiro, os gentios enxertados depois — Rm 11), não como decreto absoluto e definitivo.
 

@@ -20,7 +20,7 @@ A adoração íntima, "todas as ações da nossa vida", é a forma superior de c
 
 A prece coletiva soma:
 
-> "Se as preces, individualmente consideradas, têm uma virtude que decorre da intenção, no conjunto deve estar a virtude resultante da pluralidade das intenções." (ESE, cap. XXVII, item 9)
+> Se as preces, individualmente consideradas, têm uma virtude que decorre da intenção, no conjunto deve estar a virtude resultante da pluralidade das intenções. (ESE, cap. XXVII, item 9)
 
 A oração feita "em comum" tem efeito superior à individual quando todos os concorrentes "pelo coração e pelo pensamento, se associam a um mesmo sentimento e tenham um mesmo objetivo" (ESE, cap. XXVII, item 9). É exatamente a configuração do culto familiar: pequena reunião de pessoas em afinidade afetiva e doutrinária.
 
@@ -111,7 +111,7 @@ A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André
 - **Periodicidade** — semanal, em horário fixo (na casa de Isabel, à noite, por cerca de uma hora). A regularidade alimenta o campo defensivo.
 - **Membros** — toda a família, com participação rotativa (a criança mais nova abre, a primogênita lê e fecha). Não exige médium ostensivo — Isabel não psicografa; recebe e parafraseia.
 - **Material** — uma página doutrinária qualquer (de Kardec ou de complementar coerente) e o Novo Testamento. Não há liturgia.
-- **Disposição** — quem ora "deve, antes de tudo, sentir o que diz" (ESE, cap. XXVII, item 8). Verbalismo decora; sentimento sustenta.
+- **Disposição** — quem ora deve, antes de tudo, sentir o que diz (ESE, cap. XXVII, item 8). Verbalismo decora; sentimento sustenta.
 - **Tolerância à resistência interna** — não excluir membros não-sintônicos; o culto se sustenta na diretriz dos que aderem e age por irradiação sobre os demais.
 
 ## Estudos contemporâneos

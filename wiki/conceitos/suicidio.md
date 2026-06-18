@@ -45,7 +45,7 @@ Não há culpabilidade "quando não há intenção ou consciência clara da prá
 
 ### Sacrifício da vida
 
-Há distinção entre suicídio e sacrifício: "quem arrisca a vida para salvar a de outro, ou por uma causa nobre, não comete suicídio" (LE, q. 953, paráfrase). A intenção é o critério decisivo.
+Há distinção entre suicídio e sacrifício: quem arrisca a vida para salvar a de outro, ou por uma causa nobre, não comete suicídio (LE, q. 953, paráfrase). A intenção é o critério decisivo.
 
 ### Suicídio moral — abreviar a vida pelos excessos
 
@@ -82,7 +82,7 @@ Todos os relatos confirmam o princípio do LE: o suicídio não liberta, aprisio
 **Suicídio moral em C&I.** Os 9 casos do cap. V são todos suicídios voluntários diretos; nenhum é tipificado como suicídio moral da q. 952. A dinâmica de vida materializada que esse conceito pressupõe aparece, contudo, em dois Espíritos sofredores do cap. IV — embora Kardec não os classifique tecnicamente como suicidas:
 
 - **[[wiki/personalidades/auguste-michel]]** — "moço rico, estroina, gozando à larga e exclusivamente da vida material" (C&I, 2ª parte, cap. IV, "Auguste Michel"). A morte foi por acidente (queda de carro), não consequência médica direta dos excessos; o paralelo com o suicídio moral está na materialidade da existência e na perturbação prolongada que daí decorre.
-- **[[wiki/personalidades/arrependimento-de-um-dissoluto]]** — vida sacrificada "aos instintos brutais e aos gozos materiais" (C&I, 2ª parte, cap. IV). Causa da morte não especificada; o relato ilustra o que LE q. 952 chama de "bestialidade acrescida do esquecimento de Deus".
+- **[[wiki/personalidades/arrependimento-de-um-dissoluto]]** — vida sacrificada aos instintos brutais e aos gozos materiais (C&I, 2ª parte, cap. IV). Causa da morte não especificada; o relato ilustra o que LE q. 952 chama de "bestialidade acrescida do esquecimento de Deus".
 
 ## Desdobramentos
 

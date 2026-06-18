@@ -28,7 +28,7 @@ O fluido universal é também o **veículo do pensamento** entre os Espíritos: 
 
 ### No Evangelho Segundo o Espiritismo
 
-A prece é apresentada como ação sobre o fluido universal: "Todos os seres, encarnados e desencarnados, [estão] mergulhados no fluido universal, que ocupa o espaço [...]. Esse fluido recebe da vontade uma impulsão; ele é o veículo do pensamento" (ESE, cap. XXVII, item 9).
+A prece é apresentada como ação sobre o fluido universal: "Todos os seres, encarnados e desencarnados, [estão] mergulhados no fluido universal, que ocupa o espaço [...]. Esse fluido recebe da vontade uma impulsão; ele é o veículo do pensamento" (ESE, cap. XXVII, item 10).
 
 ### Em A Gênese
 

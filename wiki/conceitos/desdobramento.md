@@ -25,7 +25,7 @@ O Pentateuco trata o desdobramento sob o nome de **emancipação da alma** (LE, 
 3. **Sonho como reflexo (parcial) das experiências do desdobramento.** "Os sonhos são produto da emancipação da alma, tornada mais independente pela suspensão da vida ativa de relação. [...] São lembranças, desfiguradas pelo despertar." (LE, q. 402–403)
 4. **Atividade efetiva no plano espiritual.** O Espírito desprendido visita lugares, pessoas, instrutores; a memória do que viu volta filtrada e fragmentada (LE, q. 404–405).
 5. **Sonambulismo natural e provocado.** Estados em que a emancipação se aprofunda — o sonâmbulo natural fala e age conforme o que percebe fora do corpo; o sonambulismo provocado (magnético) explora artificialmente o mesmo fenômeno (LE, q. 425–426; LM, 2ª parte, cap. XIV).
-6. **Êxtase.** Forma extrema de emancipação: "no êxtase, o despreendimento da alma do corpo é mais completo que durante o sonambulismo" (LE, q. 439). Frequente em místicos (Teresa d'Ávila, José de Copertino, Swedenborg).
+6. **Êxtase.** Forma extrema de emancipação: no êxtase, o despreendimento da alma do corpo é mais completo que durante o sonambulismo (LE, q. 439). Frequente em místicos (Teresa d'Ávila, José de Copertino, Swedenborg).
 
 ### A "matéria mais sutil" do perispírito (Gênese cap. XIV)
 

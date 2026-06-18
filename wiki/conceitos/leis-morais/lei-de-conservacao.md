@@ -45,7 +45,7 @@ Os que açambarcam os bens da Terra para se proporcionarem o supérfluo, com pre
 
 São meritórias as privações de gozos inúteis — elas desprendem o homem da matéria e elevam-lhe a alma (LE, q. 720, letra a). Meritório também é "tirar do que lhe é necessário para dar aos que carecem do bastante" (id.).
 
-A vida de mortificações ascéticas, porém, só é virtude quando aproveita a outrem: "se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã" (LE, q. 721). Os sofrimentos voluntários, em si, "de nada servem quando não concorrem para o bem de outrem; os sofrimentos naturais são os únicos que elevam, porque vêm de Deus" (LE, q. 726).
+A vida de mortificações ascéticas, porém, só é virtude quando aproveita a outrem: "se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã" (LE, q. 721). Os sofrimentos voluntários, em si, de nada servem quando não concorrem para o bem de outrem; os sofrimentos naturais são os únicos que elevam, porque vêm de Deus (LE, q. 726).
 
 ## Suicídio como infração extrema
 

@@ -38,8 +38,8 @@ Em *O Livro dos Espíritos*, Kardec se atribui a função de **coordenador**, n�
 
 A Terceira Revelação tem duas características que limitam a centralidade do Codificador:
 
-- **É coletiva.** "A revelação espírita não foi feita só por intermédio de um homem, foi feita simultaneamente em todos os pontos do globo, por uma multidão de Espíritos por intermédio de uma multidão de médiuns" (ESE, cap. I, item 7). Ver [[wiki/personalidades/espiritos-reveladores]].
-- **É progressiva.** "A cada fase do progresso intelectual e moral corresponde um grau de revelação" (ESE, Introdução, item 4). Nenhum codificador pode encerrar a Doutrina; ela seguirá completando-se. Ver [[wiki/conceitos/tres-revelacoes]].
+- **É coletiva.** A revelação espírita não foi feita só por intermédio de um homem, foi feita simultaneamente em todos os pontos do globo, por uma multidão de Espíritos por intermédio de uma multidão de médiuns (ESE, cap. I, item 7). Ver [[wiki/personalidades/espiritos-reveladores]].
+- **É progressiva.** A cada fase do progresso intelectual e moral corresponde um grau de revelação (ESE, Introdução, item 4). Nenhum codificador pode encerrar a Doutrina; ela seguirá completando-se. Ver [[wiki/conceitos/tres-revelacoes]].
 
 A missão de Kardec, então, é abrir um ciclo que **não termina nele**. Os Espíritos lhe disseram isso explicitamente: "não és, como aliás bem o sabes, a única entidade capaz de desempenhar essa missão. Se o seu desempenho se interrompesse por uma causa qualquer, não faltariam a Deus outros que te substituíssem" (OPE, "Meu sucessor", 22 de dezembro de 1861).
 
@@ -64,7 +64,7 @@ Quatro princípios emergem da prática que Kardec descreve em "A minha primeira 
 1. **Observar, comparar e julgar** — regra que ele cunhou em 1855 e nunca abandonou (OPE, "A minha primeira iniciação no Espiritismo").
 2. **Concurso de muitos médiuns.** "Mais de dez médiuns prestaram concurso" (OPE, idem). Nenhuma resposta de Espírito é tomada como ensino doutrinário antes de confirmada por médiuns independentes em locais distintos.
 3. **Espíritos não são reveladores predestinados.** Kardec os trata como "meios de me informar e não reveladores predestinados" (OPE, idem). Os Espíritos podem errar; o critério é a razão.
-4. **Submissão ao crivo da razão.** A doutrina espírita "se rejeita, sem hesitar, todo princípio que se choque com a razão" (LE, Conclusão, item I).
+4. **Submissão ao crivo da razão.** A doutrina espírita se rejeita, sem hesitar, todo princípio que se choque com a razão (LE, Conclusão, item I).
 
 Esses quatro princípios formam a baliza prática da missão. Sem eles, a "missão" se converteria em revelação pessoal — exatamente o que Kardec recusa.
 

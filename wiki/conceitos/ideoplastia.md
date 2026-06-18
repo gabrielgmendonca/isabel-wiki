@@ -26,7 +26,7 @@ A doutrina de Kardec da **fotografia do pensamento** já contém o princípio: p
 
 ### Aparições e tangibilizações (LM)
 
-LM 2ª parte, caps. VI–VII trata as aparições como condensação fluídica: o perispírito do Espírito desencarnado, que normalmente não afeta os sentidos físicos, pode tornar-se "visível e mesmo tangível, conforme as condições fluídicas do meio" (LM, 2ª parte, cap. VI). Em casos extremos — bicorporeidade — o perispírito do encarnado se exterioriza e se faz visível em local distante. A ideoplastia, em seu sentido restrito moderno, é a generalização do mesmo mecanismo aos pensamentos do médium e dos circunstantes.
+LM 2ª parte, caps. VI–VII trata as aparições como condensação fluídica: o perispírito do Espírito desencarnado, que normalmente não afeta os sentidos físicos, pode tornar-se visível e mesmo tangível, conforme as condições fluídicas do meio (LM, 2ª parte, cap. VI). Em casos extremos — bicorporeidade — o perispírito do encarnado se exterioriza e se faz visível em local distante. A ideoplastia, em seu sentido restrito moderno, é a generalização do mesmo mecanismo aos pensamentos do médium e dos circunstantes.
 
 ### Couraça moral (Gênese)
 

@@ -44,7 +44,7 @@ O palestrante enfatiza que o grande desafio do estudioso do Evangelho é superar
 
 ### Pobres em espírito = humildes
 
-Citando Kardec: "Por pobre de espírito Jesus não se refere aos homens desprovidos de inteligência, mas aos humildes" (ESE, cap. VII, item 2). O Reino dos Céus é para os humildes, não para os orgulhosos. A pobreza espiritual é disposição moral de quem reconhece suas limitações, independentemente de possuir ou não posses materiais.
+Citando Kardec: Por pobre de espírito Jesus não se refere aos homens desprovidos de inteligência, mas aos humildes (ESE, cap. VII, item 2). O Reino dos Céus é para os humildes, não para os orgulhosos. A pobreza espiritual é disposição moral de quem reconhece suas limitações, independentemente de possuir ou não posses materiais.
 
 ### Felicidade como recompensa divina
 

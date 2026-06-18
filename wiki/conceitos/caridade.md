@@ -16,7 +16,7 @@ Virtude suprema que resume toda a lei moral: amor ao próximo em pensamentos, pa
 
 ### "Fora da caridade não há salvação"
 
-Máxima central do ESE, cap. XV: "Fora da caridade não há salvação" — entendida não como exclusivismo de seita, mas como lei universal. "Cada um será julgado segundo as suas obras" (ESE, cap. XV, item 10). Não importa a crença professada de lábios, mas a prática efetiva do bem.
+Máxima central do ESE, cap. XV: "Fora da caridade não há salvação" — entendida não como exclusivismo de seita, mas como lei universal. Cada um será julgado segundo as suas obras (ESE, cap. XV, item 10). Não importa a crença professada de lábios, mas a prática efetiva do bem.
 
 ### Caridade material e caridade moral
 
@@ -51,7 +51,7 @@ Após elencar virtudes ("entranhas de misericórdia, benignidade, humildade, man
 
 ### O egoísmo como negação da caridade
 
-"O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra" (ESE, cap. XI, item 11). O egoísmo é o maior obstáculo ao progresso moral e à felicidade humana. A caridade é o antídoto natural do egoísmo: enquanto o egoísmo concentra tudo em si, a caridade expande o ser para fora de si.
+O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra (ESE, cap. XI, item 11). O egoísmo é o maior obstáculo ao progresso moral e à felicidade humana. A caridade é o antídoto natural do egoísmo: enquanto o egoísmo concentra tudo em si, a caridade expande o ser para fora de si.
 
 ### A caridade não se limita à esmola
 

@@ -28,7 +28,7 @@ Kardec desdobra este episódio em dois ensinos complementares (ESE, cap. XIX, it
 
 **A fé que transporta montanhas:**
 - Kardec explica que "montanhas" representam as dificuldades, os obstáculos, as resistências que se opõem ao progresso moral e à prática do bem. A fé que as transporta não é crença cega, mas **fé raciocinada** acompanhada de vontade firme e ação perseverante.
-- Essa fé é a "alavanca poderosa" que permite ao homem vencer as próprias imperfeições, resistir às provas e contribuir para o progresso geral. Mas só opera quando aliada às obras: "A fé é a mãe da esperança e da caridade" (ESE, cap. XIX, item 10).
+- Essa fé é a "alavanca poderosa" que permite ao homem vencer as próprias imperfeições, resistir às provas e contribuir para o progresso geral. Mas só opera quando aliada às obras: A fé é a mãe da esperança e da caridade (ESE, cap. XIX, item 10).
 - No sentido espírita, a fé raciocinada se apoia na razão e nos fatos, distinguindo-se da fé cega que pode ser abalada pela ciência (LE, q. 625).
 
 ## Aplicação prática

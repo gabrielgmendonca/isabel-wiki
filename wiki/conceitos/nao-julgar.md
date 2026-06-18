@@ -14,7 +14,7 @@ Preceito moral que prescreve a **abstenção do juízo condenatório** sobre o i
 
 ## Ensino de Kardec
 
-### "Não julgueis para que não sejais julgados" (ESE cap. X)
+### Não julgueis para que não sejais julgados (ESE cap. X)
 
 Kardec dedica o capítulo X do [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] — "Bem-aventurados os que são misericordiosos" — ao desenvolvimento do preceito. O texto evangélico de partida é Mt 7:1–5:
 
