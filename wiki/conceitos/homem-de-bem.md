@@ -30,7 +30,7 @@ Kardec apresenta no cap. XVII do ESE, item 3, uma descrição detalhada das qual
 
 ### Fundamento no LE
 
-O LE dedica as questões 893 a 919 à perfeição moral. "A perfeição moral consiste em praticar a lei de justiça, de amor e de caridade, na sua maior pureza" (LE, q. 893). O homem de bem é a encarnação prática desse ideal: "O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade na sua maior pureza" (LE, q. 918).
+O LE dedica as questões 893 a 919 à perfeição moral. O homem de bem é a encarnação prática desse ideal: "O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade na sua maior pureza" (LE, q. 918).
 
 ### Distinção entre homem de bem e homem perfeito
 

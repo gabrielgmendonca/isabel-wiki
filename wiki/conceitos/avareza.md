@@ -19,7 +19,7 @@ Os bens materiais não pertencem ao homem: são depósitos de que Deus lhe confi
 ### Parábolas sobre a avareza
 
 Jesus ilustra os perigos da avareza em parábolas comentadas no ESE:
-- O **rico insensato** acumula celeiros cheios sem pensar na morte que o surpreenderá naquela mesma noite — "Insensato! esta noite te pedirão a tua alma" (ESE, cap. XVI; S. Lucas, 12:16–21; ver [[wiki/conceitos/parabola-do-rico-insensato]]).
+- O **rico insensato** acumula celeiros cheios sem pensar na morte que o surpreenderá naquela mesma noite — "Insensato! esta noite te pedirão a tua alma" (Lucas 12:20; ver [[wiki/conceitos/parabola-do-rico-insensato]]).
 - O **mau rico** e Lázaro — a inversão de posições na vida futura demonstra que a riqueza egoísta não acompanha o Espírito (ESE, cap. XVI; ver [[wiki/conceitos/parabola-do-mau-rico]]).
 
 ### Desapego, não miséria

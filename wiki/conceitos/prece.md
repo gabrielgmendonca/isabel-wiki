@@ -16,7 +16,7 @@ Ato de comunicação da alma com Deus e com os Espíritos; transmissão do pensa
 
 ### Natureza e qualidades da prece
 
-"A prece é um ato de adoração. Orar a Deus é pensar nEle; é aproximar-se dEle; é pôr-se em comunicação com Ele" (ESE, cap. XXVII, item 1). A prece deve ser do coração, não dos lábios: Deus distingue dos que não passam de vã fórmula os que oram com o coração (ESE, cap. XXVII, item 4).
+"A prece é um ato de adoração. Orar a Deus é pensar nele; é aproximar-se dele; é pôr-se em comunicação com ele" (LE, q. 659). A prece deve ser do coração, não dos lábios: Deus distingue dos que não passam de vã fórmula os que oram com o coração (ESE, cap. XXVII, item 4).
 
 ### A prece não muda os decretos de Deus
 

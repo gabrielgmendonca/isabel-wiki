@@ -8,7 +8,7 @@ status: ativo
 
 # Responsabilidade
 
-Princípio moral segundo o qual cada Espírito responde por seus atos, pensamentos e omissões, na medida do conhecimento que possui e do livre-arbítrio de que dispõe. A responsabilidade é proporcional ao grau de entendimento: "de quem mais recebeu, mais se exigirá" (ESE, cap. XVI; S. Lucas, 12:48).
+Princípio moral segundo o qual cada Espírito responde por seus atos, pensamentos e omissões, na medida do conhecimento que possui e do livre-arbítrio de que dispõe. A responsabilidade é proporcional ao grau de entendimento: "de quem mais recebeu, mais se exigirá" (Lucas 12:48).
 
 ## Ensino de Kardec
 

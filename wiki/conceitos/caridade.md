@@ -55,7 +55,7 @@ O egoísmo, essa chaga da sociedade, deve desaparecer da face da Terra (ESE, cap
 
 ### A caridade não se limita à esmola
 
-"A verdadeira caridade não consiste apenas no ato de dar esmola, mas na benevolência, na indulgência e no perdão" (ESE, cap. XIII, item 4). A caridade genuína vê o próximo sem distinção de raça, credo ou condição social.
+A verdadeira caridade não se restringe à esmola; segundo Jesus, é "Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas" (LE, q. 886). A caridade genuína vê o próximo sem distinção de raça, credo ou condição social.
 
 ## Desdobramentos
 

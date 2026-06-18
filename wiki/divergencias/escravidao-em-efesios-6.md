@@ -53,10 +53,9 @@ A Parte 3, Cap. X do LE (q. 825–872) trata explicitamente da **liberdade**, e 
 
 E mais explicitamente:
 
-> "**825.** O homem nasce livre para o pleno exercício de seu pensamento; nascendo, contraindo deveres, ele cumpre. **Pode haver escravos verdadeiros entre criaturas que possuem a inteligência do bem e do mal? — Não. Tudo o que tende a constituir senhores e escravos é repugnante à lei moral.**"
+> "**829.** Haverá homens que estejam, por natureza, destinados a ser propriedade de outros homens? — É contrária à lei de Deus toda sujeição absoluta de um homem a outro homem. A escravidão é um abuso da força. Desaparece com o progresso, como gradativamente desaparecerão todos os abusos." (LE, q. 829)
 
-> "**829.** Devem os escravos ter o direito de se libertar?
-> — Indubitavelmente. **A escravidão é um crime contra a humanidade.**"
+> "**830.** Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que dela aproveitam, embora só o façam conformando-se com um uso que lhes parece natural? — O mal é sempre o mal e não há sofisma que faça se torne boa uma ação má. [...] Aquele que tira proveito da lei da escravidão é sempre culpado de violação da lei da natureza." (LE, q. 830)
 
 (As citações exatas das q. 825–829 expressam o mesmo conteúdo: nenhum homem pode possuir outro como propriedade; toda subordinação por força é violação da Lei Natural.)
 
@@ -100,7 +99,7 @@ Aqui a regra de ouro da [[wiki/sinteses/hierarquia-de-autoridade|hierarquia de a
 
 | Paulo (Ef 6:5–9 lido literalmente) | Kardec |
 |---|---|
-| Servos obedecem aos senhores "com temor e tremor" | "Tudo o que tende a constituir senhores e escravos é repugnante à lei moral" (LE q. 825–828, contexto) |
+| Servos obedecem aos senhores "com temor e tremor" | Tudo o que tende a constituir senhores e escravos é repugnante à lei moral (LE, q. 829–830) |
 | Estrutura escrava aceita; dignidade espiritual paralela | Igualdade ontológica que **exige** igualdade jurídica (LE q. 822, comentário) |
 | "Sem acepção de pessoas" diante de Deus | "Sem acepção de pessoas" também na lei humana (LE q. 822) |
 | Ordem social como dado | Ordem social desigual = "obra do homem" e abuso da força (LE q. 806, q. 818) |
