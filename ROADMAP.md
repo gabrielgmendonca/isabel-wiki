@@ -150,7 +150,7 @@ Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavi
 
 ## 9. Eficiência de tokens no workflow
 
-Eixo essencialmente fechado (cinco frentes da auditoria de 2026-05-02 entregues — ver [Concluído](#concluído)). Itens descartados: hábito de RTK (já intercepta), validação explícita de prompt caching (Claude Code já cacheia 5min), `references/` carregado sob demanda nas skills (não é prioridade até SKILL.md passar de 200 linhas).
+Eixo essencialmente fechado (cinco frentes da auditoria de 2026-05-02 entregues — ver [Concluído](#concluído)). Itens descartados: validação explícita de prompt caching (Claude Code já cacheia 5min), `references/` carregado sob demanda nas skills (não é prioridade até SKILL.md passar de 200 linhas).
 
 ---
 

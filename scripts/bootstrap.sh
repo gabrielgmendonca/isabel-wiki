@@ -122,7 +122,7 @@ cat <<EOF
   1. Segredos:
        cp .env.example .env   # depois preencha GEMINI_API_KEY / OPENROUTER_API_KEY
 
-  2. .claude/settings.local.json — copie da máquina antiga (hook RTK + allowlist).
+  2. .claude/settings.local.json — copie da máquina antiga (allowlist de permissões).
 
   3. Registre o MCP qmd no Claude Code (escopo local deste projeto):
        claude mcp add qmd -s local -e INDEX_PATH=$HOME/.cache/qmd/$QMD_INDEX.sqlite -- qmd --index $QMD_INDEX mcp

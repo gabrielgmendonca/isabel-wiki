@@ -33,14 +33,12 @@ esta checklist o reconstrói. Visão geral do projeto: [`../README.md`](../READM
      `node`/`npm` não ficam disponíveis.
    - `qmd` — `npm install -g @tobilu/qmd` (busca local; pacote npm, requer o
      Node acima; upstream [github.com/tobi/qmd](https://github.com/tobi/qmd)).
-   - `rtk` — **opcional, não é requisito** do projeto. Setup desta máquina na
-     seção "Opcional: `rtk`" abaixo.
 5. **Segredos** — `.env` não está no git:
    ```bash
    cp .env.example .env   # preencha do gerenciador de senhas
    ```
 6. **`.claude/settings.local.json`** — não está no git. Copie da máquina antiga
-   (contém o hook do RTK e a allowlist de permissões) ou recrie.
+   (contém a allowlist de permissões) ou recrie.
 7. **Bootstrap** — recria `.venv` e o índice qmd:
    ```bash
    bash scripts/bootstrap.sh             # inclui o embed (custa horas)
@@ -94,36 +92,3 @@ O projeto usa o índice **nomeado** `isabel` (`qmd --index isabel`), que mora em
 **não** confundir com `~/.cache/qmd/index.sqlite` (índice default do qmd, com
 coleções de outros projetos como `kpi-*`). O glob `isabel.sqlite*` também leva
 os arquivos `-wal`/`-shm`, caso a máquina antiga não tenha feito checkpoint.
-
-## Opcional: `rtk`
-
-`rtk` (Rust Token Killer) reescreve comandos de shell de forma transparente
-para cortar tokens em operações de dev. **Não é requisito da wiki** — tudo
-funciona sem ele e o `preflight.sh` só o reporta como nota (não pendência).
-Setup desta máquina, caso queira reproduzir:
-
-1. **Binário** — formula Homebrew:
-   ```bash
-   brew install rtk        # confira: rtk --version
-   ```
-2. **Hook do Claude Code** — vive em `.claude/settings.local.json` (fora do
-   git, passo 6). O bloco que ativa o rtk é:
-   ```json
-   "hooks": {
-     "PreToolUse": [
-       { "matcher": "Bash",
-         "hooks": [ { "type": "command", "command": "rtk hook claude" } ] }
-     ]
-   }
-   ```
-3. **Confiar nos filtros do projeto** — na raiz do repo:
-   ```bash
-   rtk trust
-   ```
-   `.rtk/filters.toml` **está no git** e veio com o clone, mas o rtk trata
-   filtros de projeto como não-confiáveis até você revisar e rodar `rtk trust`
-   nesta máquina (estado por máquina, não versionado).
-
-Se preferir **não** usar rtk: não instale e **remova o bloco `PreToolUse`
-acima** do `settings.local.json` ao copiá-lo da máquina antiga — senão cada
-chamada de Bash tenta rodar `rtk hook claude` e falha.

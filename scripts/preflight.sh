@@ -51,9 +51,6 @@ if have qmd; then
 else
   bad "qmd ausente (npm install -g @tobilu/qmd; upstream github.com/tobi/qmd)"
 fi
-have rtk \
-  && ok   "rtk ($(rtk --version 2>/dev/null | awk '{print $2}'))" \
-  || note "rtk ausente — opcional, projeto funciona sem (ver README → Opcional: rtk)"
 
 echo
 echo "Versão do Python:"
