@@ -4,6 +4,10 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-07-02] estudo | Síntese: O Consolador anunciado em "Há Dois Mil Anos"
+
+Nova página `wiki/sinteses/consolador-em-ha-dois-mil-anos.md` cruzando o cap. VI da 2ª parte de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier — "Alvoradas do Reino do Senhor") com o Pentateuco: ESE cap. VI (Consolador / Espírito de Verdade, itens 1/3/4), ESE cap. III (muitas moradas, item 1) e LE q. 934-936 (afeição além da morte). Citações do Pentateuco conferidas com `cite.py`. Remete à divergência já catalogada das almas-gêmeas (LE q. 298-299). Registrada no catálogo.
+
 ## [2026-06-14] critica | Crítica profunda — 1 página (2 auto-fixes, 0 diferidos)
 
 Crítica pontual (`--path`) sobre `bem-aventuranca-dos-misericordiosos`, após enriquecê-la com a etimologia de "misericórdia" (latim *miser* + *cor*) e o comentário de Emmanuel/Chico Xavier (*Tocando o Barco*, cap. 22) — material levantado para a palestra sobre o cap. X do ESE. Veredito **sólida**: as 13 citações ao ESE cap. X conferem literais via `cite.py`, o trecho do Emmanuel confere verbatim no raw, sem divergência (eixo 1) nem problema de citação (eixo 2), lint 100% limpo. **2 correções seguras** (eixo 4, baixa severidade — resolvidas na síntese serial em vez de diferidas, por serem triviais e com o humano no circuito): cross-ref a [[wiki/conceitos/nao-julgar]] na seção Páginas relacionadas e tag `tema/moral` como 2º eixo. 0 diferidos, 0 descartados. Relatório em `reports/critica/2026-06-14-0815/report.{md,html}`. Estado registrado.
