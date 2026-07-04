@@ -50,7 +50,7 @@ A distinção entre as três categorias explica "anomalias aparentes" no movimen
 
 ## Aplicação prática
 
-O autoexame constante é o caminho: Fiz o bem que podia? Sacrifiquei algum interesse em favor do próximo? (LE, Conclusão, item III). A caridade não é só esmola — é indulgência, perdão, benevolência em todas as relações. Quem se diz espírita sem praticar a caridade "dá de si mesmo o mais formal desmentido" (ESE, cap. XV, item 10).
+O autoexame constante é o caminho: Fiz o bem que podia? Sacrifiquei algum interesse em favor do próximo? (LE, Conclusão, item III). A caridade não é só esmola — é indulgência, perdão, benevolência em todas as relações. Quem se diz espírita sem praticar a caridade dá de si mesmo o mais formal desmentido (ESE, cap. XV, item 10).
 
 ## Páginas relacionadas
 

@@ -20,7 +20,7 @@ Kardec fixa a escala canônica em ESE, cap. III, item 4: **mundos primitivos**, 
 
 ### Características da vida nesses mundos
 
-Nos mundos de expiação e provas, predominam o sofrimento físico, as paixões violentas, a injustiça social, as guerras e as doenças. "A vida material é rude, penosa. A inteligência se desenvolve no meio das lutas e dos obstáculos" (ESE, cap. III, item 13). As condições de vida são duras porque servem de instrumento educativo e expiatório.
+Nos mundos de expiação e provas, predominam o sofrimento físico, as paixões violentas, a injustiça social, as guerras e as doenças. A vida material é rude, penosa. A inteligência se desenvolve no meio das lutas e dos obstáculos (ESE, cap. III, item 13). As condições de vida são duras porque servem de instrumento educativo e expiatório.
 
 ### A Terra como mundo de expiação
 
@@ -32,7 +32,7 @@ Os habitantes incluem dois tipos de Espíritos: **Espíritos em expiação**, de
 
 ### Dupla função do sofrimento
 
-O sofrimento tem dupla função: **expiar** faltas passadas (consequência natural da lei de causa e efeito) e **educar** o Espírito, fortalecendo-o moralmente. "A dor é o aguilhão que leva o Espírito a avançar" (ESE, cap. III, item 4).
+O sofrimento tem dupla função: **expiar** faltas passadas (consequência natural da lei de causa e efeito) e **educar** o Espírito, fortalecendo-o moralmente. A dor é o aguilhão que leva o Espírito a avançar (ESE, cap. III, item 4).
 
 ### O que o LE ensina sobre os mundos
 

@@ -24,11 +24,11 @@ A descrição mais ampla dos mundos superiores está em ESE, cap. III, item 9: c
 
 ### Relações sociais
 
-A fraternidade e o amor unem todos os seres: "Um laço de amor e de fraternidade reúne todos os habitantes" (ESE, cap. III, item 10). Só o mérito moral confere autoridade; a ambição, a vaidade e a inveja são desconhecidas. A organização social é baseada na justiça natural, não na coerção.
+A fraternidade e o amor unem todos os seres: Um laço de amor e de fraternidade reúne todos os habitantes (ESE, cap. III, item 10). Só o mérito moral confere autoridade; a ambição, a vaidade e a inveja são desconhecidas. A organização social é baseada na justiça natural, não na coerção.
 
 ### Beleza e serenidade
 
-Kardec descreve uma existência de beleza e serenidade incomparáveis: "Aí, não há lutas, dissensões, partidos, guerras, assassínios. As artes, as ciências, a indústria são cultivadas, porém para o bem geral, não em proveito de poucos" (ESE, cap. III, item 11).
+Kardec descreve uma existência de beleza e serenidade incomparáveis: Aí, não há lutas, dissensões, partidos, guerras, assassínios. As artes, as ciências, a indústria são cultivadas, porém para o bem geral, não em proveito de poucos (ESE, cap. III, item 11).
 
 ### Acesso pelo mérito
 

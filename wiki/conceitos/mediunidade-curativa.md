@@ -18,7 +18,7 @@ Faculdade pela qual o médium serve de **canal de fluidos restauradores** — pr
 
 ### Médiuns curadores (LM cap. XIV)
 
-Kardec inclui na tipologia mediúnica os **médiuns curadores**, distintos do magnetizador comum: "esses médiuns agem por efluxo de um fluido que comunicam ao paciente, por intermédio dos Espíritos bons, dos quais são auxiliares" (LM, 2ª parte, cap. XIV, item 175). Pré-requisitos morais: "o desinteresse e o desejo sincero de obviar aos sofrimentos, sem nenhum pensamento de vaidade ou de lucro pessoal".
+Kardec inclui na tipologia mediúnica os **médiuns curadores**, distintos do magnetizador comum: esses médiuns agem por efluxo de um fluido que comunicam ao paciente, por intermédio dos Espíritos bons, dos quais são auxiliares (LM, 2ª parte, cap. XIV, item 175). Pré-requisitos morais: "o desinteresse e o desejo sincero de obviar aos sofrimentos, sem nenhum pensamento de vaidade ou de lucro pessoal".
 
 ### O fluido magnético dos curadores (Gênese cap. XIV, item 33)
 

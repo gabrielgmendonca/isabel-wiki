@@ -16,7 +16,7 @@ Oitava e última bem-aventurança do Sermão da Montanha: *"Bem-aventurados os q
 
 ### O critério: perseguição "pela justiça"
 
-A fórmula evangélica é precisa: *pela justiça*. Não é qualquer sofrimento de adversário, nem vitimismo; é o que decorre de **padecer injustiça por fidelidade ao bem**. Kardec lembra: "Pela palavra justos, não se deve, nesta passagem, entender unicamente o homem virtuoso. Prestam-se, porém, a mais extensas aplicações as três palavras — *justos, pobres e aflitos* — que resumem todas as condições da vida" (ESE, cap. V, item 16).
+A fórmula evangélica é precisa: *pela justiça*. Não é qualquer sofrimento de adversário, nem vitimismo; é o que decorre de **padecer injustiça por fidelidade ao bem**. Kardec lembra: Pela palavra justos, não se deve, nesta passagem, entender unicamente o homem virtuoso. Prestam-se, porém, a mais extensas aplicações as três palavras — *justos, pobres e aflitos* — que resumem todas as condições da vida (ESE, cap. V, item 16).
 
 ### Motor histórico: o Cristianismo e o Espiritismo
 

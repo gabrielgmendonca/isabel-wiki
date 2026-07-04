@@ -29,7 +29,7 @@ André Luiz absorve a estrutura e a aplica especificamente ao trabalho mediúnic
 Kardec não usa a expressão, mas o conteúdo doutrinário é o mesmo eixo:
 
 - **Mediunidade é função, não privilégio** — o médium é "secretário" do Espírito que se comunica (LM, 2ª parte, cap. XX, item 226). A faculdade pertence à economia do trabalho espiritual, não ao ego do portador.
-- **Moralidade é critério primeiro** — "os Espíritos verdadeiramente bons só se comunicam com pessoas de boa moral" (LM, 2ª parte, cap. XX, item 220 e seguintes); "uma faculdade não pode ser separada das outras" — o caráter do médium afeta a qualidade da mediunidade (LM, cap. XX).
+- **Moralidade orienta o uso, não a faculdade** — a mediunidade "se radica no organismo; independe do moral", mas os Espíritos atraídos são, em geral, da mesma natureza moral do médium (LM, 2ª parte, cap. XIX, item 226). O caráter do médium não cria nem suprime a faculdade, mas determina a qualidade das comunicações e das influências que atrai.
 - **O médium imperfeito é instrumento imperfeito** — Kardec dedica o cap. XXVIII de LM aos "médiuns imperfeitos" (interesseiros, leves, mistificadores), com a tese de que sua influência sobre as comunicações é direta. O parágrafo 226 sustenta: "Aquele Espírito de Verdade, em vão revestido de poderes, ainda em vão se valeria de tal médium" — a falta moral compromete a mensagem.
 - **Não conhecer pelos efeitos espetaculares** — ESE cap. XXIV, item 18: "É pelos seus frutos que se conhece a árvore." A pergunta certa não é "esse médium psicografa bem?", é "que tipo de pessoa ele é, no dia a dia?"
 

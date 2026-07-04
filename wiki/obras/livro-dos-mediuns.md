@@ -139,7 +139,7 @@ Corpo principal da obra, dividido tematicamente:
 
 **Destaques:**
 - Contradições entre comunicações se explicam pela diversidade de graus dos Espíritos: "Podendo manifestar-se Espíritos de todas as categorias, resulta que suas comunicações trazem o cunho da ignorância ou do saber que lhes seja peculiar" (LM, 2ª parte, cap. XXVII, item 299).
-- Médiuns interesseiros desvirtuam a mediunidade: "Deus concedeu a faculdade mediúnica para um fim sério e santo e não para que sirva de instrumento da adivinhação e de ganha-pão" (LM, 2ª parte, cap. XXVIII, item 304, paráfrase).
+- Médiuns interesseiros desvirtuam a mediunidade: Deus concedeu a faculdade mediúnica para um fim sério e santo e não para que sirva de instrumento da adivinhação e de ganha-pão (LM, 2ª parte, cap. XXVIII, item 304, paráfrase).
 - Três tipos de reunião: frívolas, experimentais e instrutivas (LM, 2ª parte, cap. XXIX, item 324).
 
 #### Dissertações espíritas e vocabulário (caps. XXXI–XXXII)

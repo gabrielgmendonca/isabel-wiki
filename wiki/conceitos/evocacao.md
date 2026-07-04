@@ -34,7 +34,7 @@ Ou na variante curta: *"Em nome de Deus Todo-poderoso peço ao Espírito de... q
 
 ### Quem se pode evocar
 
-Qualquer Espírito, de qualquer época: "Não há Espírito que, chamado, não acuda ao nosso chamado, se puder fazê-lo" (LM, 2ª parte, cap. XXV, item 272, paráfrase). Incluem-se evocações de:
+Qualquer Espírito, de qualquer época: Não há Espírito que, chamado, não acuda ao nosso chamado, se puder fazê-lo (LM, 2ª parte, cap. XXV, item 272, paráfrase). Incluem-se evocações de:
 
 - **Espíritos antigos** — identidade difícil de provar; julga-se pela linguagem e pelas ideias (LM, 2ª parte, cap. XXIV, item 255).
 - **Pessoas vivas** — durante o sono, o Espírito pode emancipar-se e comunicar-se; "muitas vezes se comunicam convosco pela escrita, sem que as chameis" (LM, 2ª parte, cap. XIX, item 223, 2ª; cap. XXV, seção "Evocações das pessoas vivas").

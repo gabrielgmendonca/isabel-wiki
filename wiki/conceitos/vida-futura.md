@@ -16,19 +16,19 @@ A vida além-túmulo como eixo do ensino do Cristo e realidade demonstrada pelo 
 
 ### Eixo central da doutrina do Cristo
 
-Kardec abre o ESE demonstrando que a vida futura é o **ponto culminante** do ensino de Jesus: "A vida futura é a vida normal do Espírito; a vida corpórea é transitória e passageira" (ESE, cap. II, item 2). Sem a crença fundamentada na vida futura, a moral cristã perde a base lógica e a justiça divina se torna incompreensível.
+Kardec abre o ESE demonstrando que a vida futura é o **ponto culminante** do ensino de Jesus: A vida futura é a vida normal do Espírito; a vida corpórea é transitória e passageira (ESE, cap. II, item 2). Sem a crença fundamentada na vida futura, a moral cristã perde a base lógica e a justiça divina se torna incompreensível.
 
 ### A morte como libertação, não aniquilamento
 
-A morte não é destruição, mas **transformação**: o Espírito se liberta do corpo material e retorna à vida espírita, que é sua condição normal. "A vida corporal é necessária ao aperfeiçoamento do Espírito, pelo trabalho a que aí se vê compelido; é, pois, do interesse de cada um que a encarnação se reproduza, até que se haja tornado apto para a vida espiritual" (ESE, cap. II, item 5).
+A morte não é destruição, mas **transformação**: o Espírito se liberta do corpo material e retorna à vida espírita, que é sua condição normal. A vida corporal é necessária ao aperfeiçoamento do Espírito, pelo trabalho a que aí se vê compelido; é, pois, do interesse de cada um que a encarnação se reproduza, até que se haja tornado apto para a vida espiritual (ESE, cap. II, item 5).
 
 ### A crença na vida futura como fundamento moral
 
-A certeza da vida futura modifica profundamente a conduta: "Aquele que se considera apenas viajante de passagem não liga a mesma importância a um lugar de repouso momentâneo que a uma residência fixa" (ESE, cap. II, item 3). A aceitação das provações torna-se natural quando se compreende que são temporárias e educativas.
+A certeza da vida futura modifica profundamente a conduta: Aquele que se considera apenas viajante de passagem não liga a mesma importância a um lugar de repouso momentâneo que a uma residência fixa (ESE, cap. II, item 3). A aceitação das provações torna-se natural quando se compreende que são temporárias e educativas.
 
 ### O que o LE ensina sobre os estados da alma
 
-O Livro dos Espíritos trata da vida futura na Parte 4: "A vida futura é a que se segue ao túmulo" (LE, q. 149). A alma conserva sua individualidade após a morte (LE, q. 150), leva consigo a lembrança do que fez e o remorso das faltas (LE, q. 158–159). O estado do Espírito desencarnado depende do grau de purificação alcançado (LE, q. 960–962).
+O Livro dos Espíritos trata da vida futura na Parte 4: A vida futura é a que se segue ao túmulo (LE, q. 149). A alma conserva sua individualidade após a morte (LE, q. 150), leva consigo a lembrança do que fez e o remorso das faltas (LE, q. 158–159). O estado do Espírito desencarnado depende do grau de purificação alcançado (LE, q. 960–962).
 
 ### Penas e gozos proporcionais
 

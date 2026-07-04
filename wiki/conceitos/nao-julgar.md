@@ -48,7 +48,7 @@ A passagem é **lição em três planos**:
 Kardec preserva a distinção entre **julgar** e **censurar**: ninguém é proibido de **chamar atenção** a uma falta, sob risco de transformar a indulgência em conivência. Mas a censura legítima exige três condições:
 
 1. **Lucidez sobre si** — quem censura sem ter examinado os próprios defeitos repete o erro do hipócrita de Mt 7:5.
-2. **Caridade no tom** — a censura é fraterna ou não é. "É preciso saber dizer a verdade — quando o caso o exige — sem aspereza" (ESE cap. X, item 10).
+2. **Caridade no tom** — a censura é fraterna ou não é. É preciso saber dizer a verdade — quando o caso o exige — sem aspereza (ESE cap. X, item 10).
 3. **Foco no ato, não na pessoa** — censurar a falta sem condenar o errante é exatamente o que Jesus faz com a mulher adúltera.
 
 Confundir a recusa do julgamento condenatório com **omissão moral** é leitura ingênua: a Doutrina espírita pede caridade, não cumplicidade.

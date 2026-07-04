@@ -16,13 +16,13 @@ Reunião evangélica realizada no domicílio, em horário fixo, conduzida pela p
 
 A base doutrinária está dada na Lei de Adoração e nos capítulos sobre prece do ESE.
 
-A adoração íntima, "todas as ações da nossa vida", é a forma superior de culto, e dispensa templo (LE, q. 654-658). O culto exterior só tem valor quando "produzido pelo coração" (LE, q. 654); reduzido à fórmula é "questão de palavras" (LE, q. 660). Kardec admite "lugares particulares de reunião", mas observa que "o lugar é indiferente para os Espíritos verdadeiramente bons" (LE, q. 666).
+A adoração íntima, "todas as ações da nossa vida", é a forma superior de culto, e dispensa templo (LE, q. 654-658). O culto exterior só tem valor quando "produzido pelo coração" (LE, q. 654); reduzido à fórmula é "questão de palavras" (LE, q. 660). Kardec admite "lugares particulares de reunião", mas observa que o lugar é indiferente para os Espíritos verdadeiramente bons (LE, q. 666).
 
 A prece coletiva soma:
 
 > Se as preces, individualmente consideradas, têm uma virtude que decorre da intenção, no conjunto deve estar a virtude resultante da pluralidade das intenções. (ESE, cap. XXVII, item 9)
 
-A oração feita "em comum" tem efeito superior à individual quando todos os concorrentes "pelo coração e pelo pensamento, se associam a um mesmo sentimento e tenham um mesmo objetivo" (ESE, cap. XXVII, item 9). É exatamente a configuração do culto familiar: pequena reunião de pessoas em afinidade afetiva e doutrinária.
+A oração feita "em comum" tem efeito superior à individual quando todos os concorrentes pelo coração e pelo pensamento, se associam a um mesmo sentimento e tenham um mesmo objetivo (ESE, cap. XXVII, item 9). É exatamente a configuração do culto familiar: pequena reunião de pessoas em afinidade afetiva e doutrinária.
 
 O ESE cap. XXVIII fornece o repertório de preces para uso doméstico e familiar — preces pelo lar, pelos filhos, pelos doentes da casa, pelos desencarnados da família. Não há dispositivo formal: o esquema é pedagogicamente aberto.
 

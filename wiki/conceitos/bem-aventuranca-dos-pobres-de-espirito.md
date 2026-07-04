@@ -40,7 +40,7 @@ A incredulidade, lembra Kardec, zombou da máxima "tomando-a à letra" (ESE, cap
 
 ### Base do progresso moral
 
-Como a humildade dispõe a alma a reconhecer suas faltas, ela é a porta de entrada para o progresso. O orgulho, ao contrário, "é a fonte de todos os vícios, como a humildade é a fonte de todas as virtudes" (ESE, cap. VII, item 5). Os Espíritos superiores, observa Kardec, são invariavelmente humildes; os orgulhosos denunciam-se pela vaidade das comunicações (LM, 2ª parte, cap. XXIV).
+Como a humildade dispõe a alma a reconhecer suas faltas, ela é a porta de entrada para o progresso. O orgulho, ao contrário, é a fonte de todos os vícios, como a humildade é a fonte de todas as virtudes (ESE, cap. VII, item 5). Os Espíritos superiores, observa Kardec, são invariavelmente humildes; os orgulhosos denunciam-se pela vaidade das comunicações (LM, 2ª parte, cap. XXIV).
 
 ### A reencarnação ilustra a regra
 

@@ -20,7 +20,7 @@ Emancipação parcial do perispírito do corpo físico, com manutenção do **fi
 
 O Pentateuco trata o desdobramento sob o nome de **emancipação da alma** (LE, q. 400–418). Princípios centrais:
 
-1. **Sono como desencarne parcial regular.** "Durante o sono, o corpo só, repousa, mas o Espírito não dorme. Quereis prova disso? Reparai que, se o corpo dorme tranquilo, mil coisas o Espírito pensa; vós mesmos podeis verificá-lo, lembrando-vos do que fizestes durante o sono. Aí estão fenômenos que se devem ao desprendimento ainda mais completo do Espírito, ocasionado pelo sono mais profundo." (LE, q. 401)
+1. **Sono como desencarne parcial regular.** Durante o sono, o corpo só, repousa, mas o Espírito não dorme. Quereis prova disso? Reparai que, se o corpo dorme tranquilo, mil coisas o Espírito pensa; vós mesmos podeis verificá-lo, lembrando-vos do que fizestes durante o sono. Aí estão fenômenos que se devem ao desprendimento ainda mais completo do Espírito, ocasionado pelo sono mais profundo. (LE, q. 401)
 2. **O fio que liga.** "Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semimaterial ou perispírito." (LE, q. 155). O fio fluídico é o que distingue desdobramento de morte propriamente dita.
 3. **Sonho como reflexo (parcial) das experiências do desdobramento.** "Os sonhos são produto da emancipação da alma, tornada mais independente pela suspensão da vida ativa de relação. [...] São lembranças, desfiguradas pelo despertar." (LE, q. 402–403)
 4. **Atividade efetiva no plano espiritual.** O Espírito desprendido visita lugares, pessoas, instrutores; a memória do que viu volta filtrada e fragmentada (LE, q. 404–405).

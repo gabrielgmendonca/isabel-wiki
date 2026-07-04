@@ -27,7 +27,7 @@ Kardec lê as três bem-aventuranças do capítulo V como um diagnóstico da Ter
 
 ### Fome e sede como virtude
 
-A bem-aventurança não canoniza a carência material por si só. A sede de justiça é **virtude ativa**: é o Espírito que recusa conformar-se, que pugna pelo direito, que não se calou nem se vendeu. Kardec confirma no comentário à perseguição pela justiça: "Prestam-se, porém, a mais extensas aplicações as três palavras — *justos, pobres e aflitos* — que resumem todas as condições da vida" (ESE, cap. V, item 16). Saciar essa sede é tarefa contínua do espírita, que a carrega consigo das encarnações terrenas para as seguintes.
+A bem-aventurança não canoniza a carência material por si só. A sede de justiça é **virtude ativa**: é o Espírito que recusa conformar-se, que pugna pelo direito, que não se calou nem se vendeu. Kardec confirma no comentário à perseguição pela justiça: Prestam-se, porém, a mais extensas aplicações as três palavras — *justos, pobres e aflitos* — que resumem todas as condições da vida (ESE, cap. V, item 16). Saciar essa sede é tarefa contínua do espírita, que a carrega consigo das encarnações terrenas para as seguintes.
 
 ### Leitura moral de Lucas
 
@@ -37,7 +37,7 @@ Lucas amplia o contraste: *"Bem-aventurados vós, que agora tendes fome, porque 
 
 ### Justiça evangélica vs. justiça retributiva
 
-A justiça que Jesus promete saciar não é a de "olho por olho", mas a **justiça do Reino** — fraternidade, igualdade, respeito ao próximo. "A caridade é a mais completa e mais sublime expressão da justiça" (ESE, cap. XV, item 5). Ter fome dessa justiça é ter fome de caridade ativa, de igualdade social real, de trato verdadeiramente fraterno entre os homens. Não é ódio aos injustos: é sede da situação em que a injustiça não mais caiba.
+A justiça que Jesus promete saciar não é a de "olho por olho", mas a **justiça do Reino** — fraternidade, igualdade, respeito ao próximo. A caridade é a mais completa e mais sublime expressão da justiça (ESE, cap. XV, item 5). Ter fome dessa justiça é ter fome de caridade ativa, de igualdade social real, de trato verdadeiramente fraterno entre os homens. Não é ódio aos injustos: é sede da situação em que a injustiça não mais caiba.
 
 ### Quem trabalha pela justiça já come do pão prometido
 

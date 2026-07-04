@@ -58,7 +58,7 @@ Três movimentos kardecistas convergem aqui:
 
 **3. A Providência não condena.** "Deus não condena ou castiga ninguém, mas o oposto: instituiu leis harmoniosas e justas que nos conduzirão fatalmente à felicidade plena, apesar de nossas faltas e desacertos." Se a fonte teológica não condena, a austeridade humana que condena se revela desproporcional à sua própria base — argumento ecoado por LE q. 1006 ("Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal") e por C&I 1ª parte, cap. VII (relatividade do bem e do mal).
 
-A rigidez institucional aparece, portanto, como **medida da ignorância coletiva** — o costume que perdura "sempre que não se descobre outra melhor" (LE, q. 762) — e não como virtude social.
+A rigidez institucional aparece, portanto, como **medida da ignorância coletiva** — o costume que perdura sempre que não se descobre outra melhor (LE, q. 762) — e não como virtude social.
 
 ### Eixo 3 — Paixão como inflexibilidade (LE q. 908)
 
@@ -182,7 +182,7 @@ Três entradas possíveis para o estudante:
 2. **Diagnóstico relacional** (q. 762). Em que situação eu trato o erro do outro como falta a punir, e não como acidente do percurso evolutivo dele? Onde minha austeridade está mais alta que a Providência que ela invoca?
 3. **Trabalho moral** (q. 908). Qual paixão hoje me dirige em vez de eu dirigi-la? Que virtude oposta posso começar a desenvolver — não por repressão, mas por substituição?
 
-A pergunta-síntese de Kardec, do autoexame da Conclusão do LE, vale como fecho: "Que fiz do orgulho e da vaidade? Sacrifiquei-os?" (LE, Conclusão, item III).
+A pergunta-síntese de Kardec, do autoexame da Conclusão do LE, vale como fecho: Que fiz do orgulho e da vaidade? Sacrifiquei-os? (LE, Conclusão, item III).
 
 ---
 

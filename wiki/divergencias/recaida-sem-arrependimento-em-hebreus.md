@@ -117,7 +117,7 @@ Tanto a leitura protestante contemporânea crítica (que lê Hb 6:4–6 como exo
 
 **Aberta.** A divergência é real entre a **leitura literalista-rigorista** (que fez dessas passagens base para negar a segunda chance moral) e a doutrina espírita do progresso indefinido. Mas é **mitigada** pelo próprio texto de Hebreus — cuja estrutura argumentativa (Hb 6:9–12; 10:39) e gênero pastoral permitem ler 6:4–6 e 10:26–27 como hipérboles parenéticas, não como doutrina cosmológica sobre a irrecuperabilidade do Espírito.
 
-A tarefa espírita é dupla: (a) respeitar a seriedade da advertência do texto — a recaída voluntária após ter conhecido a verdade é, sim, falta de gravidade especial, e as penas dela decorrentes são, sim, "mais dolorosas e mais prolongadas" (LE q. 1009); (b) recusar a absolutização que transforma a hipérbole pastoral em condenação eterna metafísica.
+A tarefa espírita é dupla: (a) respeitar a seriedade da advertência do texto — a recaída voluntária após ter conhecido a verdade é, sim, falta de gravidade especial, e as penas dela decorrentes são, sim, mais dolorosas e mais prolongadas (LE q. 1009); (b) recusar a absolutização que transforma a hipérbole pastoral em condenação eterna metafísica.
 
 ## Páginas relacionadas
 

@@ -20,11 +20,11 @@ Os mundos regeneradores ocupam posição intermediária entre os mundos de expia
 
 ### Características da vida
 
-Nesses mundos, o homem ainda é de carne — ainda está sujeito às sensações e necessidades do corpo. Porém, já não padece as paixões desordenadas que torturam os mundos inferiores: "Aí, o homem, ainda revestido de um envoltório material, nada experimenta das emoções do mundo inferior; as doenças, os sofrimentos, as tribulações já são passado" (ESE, cap. III, item 17).
+Nesses mundos, o homem ainda é de carne — ainda está sujeito às sensações e necessidades do corpo. Porém, já não padece as paixões desordenadas que torturam os mundos inferiores: Aí, o homem, ainda revestido de um envoltório material, nada experimenta das emoções do mundo inferior; as doenças, os sofrimentos, as tribulações já são passado (ESE, cap. III, item 17).
 
 ### Relações sociais
 
-O amor e a equidade presidem as relações entre os seres: "Aí, reinam a equidade e o amor. Todos se ajudam e se assistem mutuamente. Nenhuma rivalidade, nenhuma inveja. A autoridade é conquistada pela superioridade moral e ninguém se arvora em senhor dos outros" (ESE, cap. III, item 17).
+O amor e a equidade presidem as relações entre os seres: Aí, reinam a equidade e o amor. Todos se ajudam e se assistem mutuamente. Nenhuma rivalidade, nenhuma inveja. A autoridade é conquistada pela superioridade moral e ninguém se arvora em senhor dos outros (ESE, cap. III, item 17).
 
 ### Reconhecimento de Deus
 

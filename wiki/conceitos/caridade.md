@@ -22,8 +22,8 @@ Máxima central do ESE, cap. XV: "Fora da caridade não há salvação" — ente
 
 Kardec distingue duas faces complementares da caridade:
 
-- **Caridade material** (beneficência): dar o pão, o abrigo, o socorro ao necessitado. "Dar ao pobre é restituir-lhe o que lhe é devido" (ESE, cap. XIII, item 6).
-- **Caridade moral**: a indulgência para com o próximo, o perdão das ofensas, a benevolência em todas as relações. "A caridade moral consiste na benevolência para com todos, na indulgência para as imperfeições alheias, no perdão das ofensas" (ESE, cap. XI, item 9).
+- **Caridade material** (beneficência): dar o pão, o abrigo, o socorro ao necessitado. Dar ao pobre é restituir-lhe o que lhe é devido (ESE, cap. XIII, item 6).
+- **Caridade moral**: a indulgência para com o próximo, o perdão das ofensas, a benevolência em todas as relações. "Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas" (LE, q. 886).
 
 ### A caridade segundo S. Paulo
 

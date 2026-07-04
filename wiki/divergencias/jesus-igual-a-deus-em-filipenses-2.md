@@ -113,7 +113,7 @@ Se a leitura calcedoniana for sustentada, a divergência é **frontal**:
 | Calcedônia (leitura literalista de Fp 2:5–11) | Kardec |
 |---|---|
 | Cristo é Deus em essência, consubstancial ao Pai | Jesus é Espírito puro, **tipo** da perfeição moral (LE q. 625) |
-| Trindade ontológica: Pai, Filho, Espírito Santo são uma única substância em três pessoas | **Não há Trindade ontológica** (OPE §VIII); Espírito Santo é "todos os Espíritos do Senhor" (Gênese cap. XVII) |
+| Trindade ontológica: Pai, Filho, Espírito Santo são uma única substância em três pessoas | **Não há Trindade ontológica** (OPE §VIII); Espírito Santo é todos os Espíritos do Senhor (Gênese cap. XVII) |
 | Encarnação é Deus se fazendo homem | Encarnação é Espírito puro aceitando missão na Terra |
 | Adoração devida a Cristo como Deus | Reconhecimento, gratidão, imitação devidas a Jesus como modelo (LE q. 625); **adoração reservada a Deus** (LE q. 649–657 — Lei de Adoração) |
 | Salvação por união ontológica entre Deus e humanidade em Cristo | Salvação por progresso moral universal (LE q. 115; q. 1009–1012) — todos chegam à perfeição |

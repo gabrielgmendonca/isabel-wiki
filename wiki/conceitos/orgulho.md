@@ -28,7 +28,7 @@ A humildade é a virtude oposta ao orgulho. Não se trata de auto-humilhação, 
 
 ## Aplicação prática
 
-Em estudos e palestras, é útil mostrar como o orgulho se manifesta em formas sutis: o intelectualismo que desdenha a fé, a vaidade espiritual de quem se julga mais evoluído, a resistência a reconhecer erros. O autoexame proposto por Kardec pergunta: "Que fiz do orgulho e da vaidade? Sacrifiquei-os?" (LE, Conclusão, item III).
+Em estudos e palestras, é útil mostrar como o orgulho se manifesta em formas sutis: o intelectualismo que desdenha a fé, a vaidade espiritual de quem se julga mais evoluído, a resistência a reconhecer erros. O autoexame proposto por Kardec pergunta: Que fiz do orgulho e da vaidade? Sacrifiquei-os? (LE, Conclusão, item III).
 
 ## Em Hammed — *As Dores da Alma*
 

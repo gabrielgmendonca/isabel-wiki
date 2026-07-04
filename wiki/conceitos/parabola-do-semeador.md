@@ -30,7 +30,7 @@ Kardec interpreta as quatro categorias de terreno como quatro tipos de receptivi
 
 4. **A boa terra** — os que recebem a palavra com sinceridade, cultivam-na pela prática constante da caridade e da reforma íntima, e produzem frutos abundantes. São os que não se limitam a crer, mas vivem segundo o Evangelho.
 
-Kardec observa que essa parábola é "a condenação do egoísmo, da indiferença, do amor das riquezas e da vaidade" (ESE, cap. XVII, item 6).
+Kardec observa que essa parábola é a condenação do egoísmo, da indiferença, do amor das riquezas e da vaidade (ESE, cap. XVII, item 6).
 
 ## Na palestra de Carlos Mendonça
 

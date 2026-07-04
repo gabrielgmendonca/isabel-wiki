@@ -57,7 +57,7 @@ Cinco critérios convergentes de qualidade:
 
 2. **Coerência racional** — linguagem clara, argumentação lógica, coerência com o restante da doutrina. Frases obscuras, contradições, afirmações absurdas são sinais de Espírito inferior ou mistificador (LM, 2ª parte, cap. XXIV, item 268).
 
-3. **Humildade** — o Espírito elevado "jamais emprega a linguagem altiva, arrogante, descortês" (LM, 2ª parte, cap. XXIV, item 267). Títulos pomposos e auto-elogio são sinais negativos.
+3. **Humildade** — o Espírito elevado jamais emprega a linguagem altiva, arrogante, descortês (LM, 2ª parte, cap. XXIV, item 267). Títulos pomposos e auto-elogio são sinais negativos.
 
 4. **Paz interior** — critério paulino direto: "**Deus não é Deus de confusão, senão de paz**" (1 Co 14:33). Comunicações que deixam medo, confusão, ansiedade ou perturbação não procedem de Espíritos elevados.
 

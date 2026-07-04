@@ -113,7 +113,7 @@ A imagem de 3:6 — "a língua [...] é inflamada pelo inferno" — é alegóric
 A tríade **terrena / animal / diabólica** é uma [[wiki/conceitos/escala-espirita|escala espírita]] reduzida em vocabulário judaico-cristão:
 
 - **Terrena** (*epigeios*) — sabedoria centrada nos cálculos do mundo material; corresponde aos Espíritos da terceira ordem (LE q. 100–110), ainda dominados pelos sentidos.
-- **Animal** (*psychike*, "psíquica") — sabedoria movida pelas paixões da alma encarnada; corresponde aos Espíritos imperfeitos cuja "ignorância, desejo de gozos materiais [...] orgulho, egoísmo" (LE q. 100) ainda predominam.
+- **Animal** (*psychike*, "psíquica") — sabedoria movida pelas paixões da alma encarnada; corresponde aos Espíritos imperfeitos cuja ignorância, desejo de gozos materiais [...] orgulho, egoísmo (LE q. 100) ainda predominam.
 - **Diabólica** (*daimoniodes*) — sabedoria endurecida no mal; corresponde aos Espíritos endurecidos descritos em [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. X, e ao "espírito faccioso" do qual provém "toda a obra perversa" (3:16).
 
 A descrição dos sete atributos da sabedoria celeste — **pura, pacífica, moderada, tratável, cheia de misericórdia, sem parcialidade, sem hipocrisia** — é retrato moral dos Espíritos puros (LE q. 113) e dos comunicantes de [[wiki/obras/ceu-e-inferno|C&I]] 2ª parte cap. II. Ver [[wiki/biblia/tiago/3]].

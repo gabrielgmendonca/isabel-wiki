@@ -48,7 +48,7 @@ Ver [[wiki/obras/epistola-de-tiago]] para análise completa da carta e [[wiki/pe
 
 ### Fé como motor do progresso
 
-O Espírito S. Luís ensina que a fé é o remédio para o sofrimento: "Crê e caminha! A fé é o farol que dissipa as trevas" (ESE, cap. XIX, item 12). A fé dá coragem para enfrentar as provas e resignação para aceitar as que não se podem evitar.
+O Espírito S. Luís ensina que a fé é o remédio para o sofrimento: Crê e caminha! A fé é o farol que dissipa as trevas (ESE, cap. XIX, item 12). A fé dá coragem para enfrentar as provas e resignação para aceitar as que não se podem evitar.
 
 ### Definição escritural matriz: Hebreus 11
 

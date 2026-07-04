@@ -22,7 +22,7 @@ O sofrimento existe porque a Terra é mundo de expiações e provas (LE, q. 920)
 
 O Espírito escolhe o gênero de prova (LE, q. 258), mas nem todo sofrimento é expiação — há provas educativas, escolhidas livremente para adiantamento (LE, q. 259).
 
-A dor é necessária enquanto o Espírito não atingiu a perfeição: "A felicidade perfeita pertence somente ao Espírito que alcançou a perfeição absoluta" (LE, q. 920). Nos mundos superiores, a dor diminui progressivamente até cessar.
+A dor é necessária enquanto o Espírito não atingiu a perfeição: A felicidade perfeita pertence somente ao Espírito que alcançou a perfeição absoluta (LE, q. 920). Nos mundos superiores, a dor diminui progressivamente até cessar.
 
 ### No Evangelho Segundo o Espiritismo
 

@@ -18,7 +18,7 @@ Conjunto de faculdades superiores inerentes ao Espírito — vontade, consciênc
 
 ### Vontade
 
-A vontade é atributo essencial do Espírito. Kardec ensina que o Espírito age sobre a matéria por meio da vontade: "Querendo, o Espírito atua sobre a matéria e pode, dentro de certos limites, modificar-lhe os efeitos" (LE, q. 459). A vontade cresce com o adiantamento moral: quanto mais elevado o Espírito, maior o alcance de sua vontade (LE, q. 635).
+A vontade é atributo essencial do Espírito. Kardec ensina que o Espírito age sobre a matéria por meio da vontade: Querendo, o Espírito atua sobre a matéria e pode, dentro de certos limites, modificar-lhe os efeitos (LE, q. 459). A vontade cresce com o adiantamento moral: quanto mais elevado o Espírito, maior o alcance de sua vontade (LE, q. 635).
 
 ### Consciência
 

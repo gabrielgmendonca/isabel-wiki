@@ -24,7 +24,7 @@ O cap. XIX do ESE trata das condições para que a fé seja verdadeiramente sól
 
 ### A fé que transporta montanhas
 
-Jesus disse: "Se tiverdes fé do tamanho de um grão de mostarda, direis a esta montanha: transporta-te daqui para ali, e ela se transportará" (S. Mateus, 17:20). Kardec interpreta: a fé que transporta montanhas é a fé viva, a vontade firme associada à confiança em Deus e à prática do bem: "A fé que transporta montanhas é a que dá a força e a energia, a que leva ao cumprimento das grandes coisas" (ESE, cap. XIX, item 4).
+Jesus disse: "Se tiverdes fé do tamanho de um grão de mostarda, direis a esta montanha: transporta-te daqui para ali, e ela se transportará" (S. Mateus, 17:20). Kardec interpreta: a fé que transporta montanhas é a fé viva, a vontade firme associada à confiança em Deus e à prática do bem: A fé que transporta montanhas é a que dá a força e a energia, a que leva ao cumprimento das grandes coisas (ESE, cap. XIX, item 4).
 
 ### Distinção entre fé humana e fé divina
 

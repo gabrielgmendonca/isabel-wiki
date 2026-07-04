@@ -53,7 +53,7 @@ O instinto de conservação foi dado precisamente "contra os perigos e os sofrim
 
 ## Aplicação prática
 
-O critério operacional desta lei é o discernimento entre **necessário** e **supérfluo**: o necessário é dever (cuidar do corpo, da saúde, dos meios de viver — sem isso "impossível é o trabalho", LE, q. 718); o supérfluo é tentação a ser regrada pela razão. As privações só são meritórias quando libertam para servir; o ascetismo voltado para si mesmo é egoísmo travestido de virtude. Trabalhar pelo enfermo, vestir o indigente, consolar quem chora — esses, sim, "tornam a vida útil e agradável a Deus" (LE, q. 726).
+O critério operacional desta lei é o discernimento entre **necessário** e **supérfluo**: o necessário é dever (cuidar do corpo, da saúde, dos meios de viver — sem isso "impossível é o trabalho", LE, q. 718); o supérfluo é tentação a ser regrada pela razão. As privações só são meritórias quando libertam para servir; o ascetismo voltado para si mesmo é egoísmo travestido de virtude. Trabalhar pelo enfermo, vestir o indigente, consolar quem chora — esses, sim, tornam a vida útil e agradável a Deus (LE, q. 726).
 
 ## Páginas relacionadas
 
