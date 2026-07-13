@@ -80,6 +80,18 @@ def _clean_body(body: str) -> str:
     return text.strip()
 
 
+def _strip_edge_quotes(text: str) -> str:
+    """Descasca aspas nas bordas do texto extraído.
+
+    A fonte marca a resposta do Espírito com aspas curvas (“…”), e `build_quote`
+    envolve o resultado em aspas retas — sem descascar, o blockquote sai com aspa
+    dupla (`"“Sim, porquanto…"`). Só as bordas: aspa interna (Kardec citando
+    terceiro) é parte do texto e fica. Não altera cobertura — `normalize` já
+    descarta pontuação —, então a auto-verificação segue válida sobre o resultado.
+    """
+    return text.strip().strip("“”\"").strip()
+
+
 def _select_sentence(text: str, needle: str) -> str | None:
     """Recorta a(s) frase(s) contíguas de `text` que contêm `needle` (match
     normalizado, robusto a acento/caixa/pontuação). Devolve None se não achar —
@@ -123,6 +135,8 @@ def build_quote(sigla_in: str, ref: str, sentence: str | None, italic: bool) -> 
             f"aviso: corpo de ({sigla}, {ref}) tem {len(text)} chars — provável "
             "capítulo/questão longa. Estreite com item/--sentence se quer só um trecho.\n"
         )
+
+    text = _strip_edge_quotes(text)
 
     # Auto-verificação: o texto emitido tem de ser verbatim da fonte (cobertura
     # contígua ~1.0). É a garantia anti-fabricação — se falhar, algo na limpeza

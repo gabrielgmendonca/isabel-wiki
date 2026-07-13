@@ -85,9 +85,58 @@ class CheckLiteralQuoteExistsTests(unittest.TestCase):
         out = self.run_check(f'A "frase curta" {self.CITE}.')
         self.assertEqual(out, [])
 
-    def test_blockquote_ignored(self) -> None:
+    # ─── blockquote: o ponto cego do §12 Fase 3 ───────────────────────────────
+    # Até 2026-07-13 o scan rodava `_strip_blockquotes` antes de casar, então
+    # NENHUMA aspa em blockquote era verificada — justamente a forma em que a
+    # transcrição literal de Kardec mais aparece na wiki (~490 casos). Estes
+    # testes fixam o comportamento invertido.
+
+    def test_fabricated_quote_in_blockquote_flagged(self) -> None:
         fake = "esta frase foi inteiramente inventada e nao consta da obra em lugar nenhum"
-        out = self.run_check(f'> Kardec teria dito "{fake}" {self.CITE}.')
+        out = self.run_check(f'> "{fake}" {self.CITE}')
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["classification"], "fabricated")
+        self.assertEqual(out[0]["line"], 1)
+
+    def test_real_quote_in_blockquote_not_flagged(self) -> None:
+        out = self.run_check(f'> "{self.verbatim(3, 14)}" {self.CITE}')
+        self.assertEqual(out, [])
+
+    def test_quote_spanning_blockquote_lines_flagged(self) -> None:
+        # Aspa que abre numa linha `>` e fecha na seguinte (transcrição
+        # pergunta/resposta do LE): só casa porque `_logical_lines` junta o
+        # parágrafo — o regex proíbe \n dentro da aspa. Linha = a de abertura.
+        out = self.run_check(
+            "Contexto.\n\n"
+            '> "esta frase foi inteiramente inventada\n'
+            f'> e nao consta da obra em lugar nenhum" {self.CITE}\n'
+        )
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["classification"], "fabricated")
+        self.assertEqual(out[0]["line"], 3)
+
+    def test_quote_in_callout_flagged(self) -> None:
+        # Callout é blockquote com marcador — aspa fabricada dentro dele conta.
+        fake = "esta frase foi inteiramente inventada e nao consta da obra em lugar nenhum"
+        out = self.run_check(f'> [!warning] Divergência\n> Kardec teria dito "{fake}" {self.CITE}')
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["classification"], "fabricated")
+
+    def test_italic_quote_before_citation_flagged(self) -> None:
+        # Ênfase entre a aspa e o parêntese: `*"…"* (LE, q. N)` — forma comum na
+        # wiki, que o conector do regex não aceitava.
+        fake = "esta frase foi inteiramente inventada e nao consta da obra em lugar nenhum"
+        out = self.run_check(f'> *"{fake}"* {self.CITE}')
+        self.assertEqual(len(out), 1)
+
+    def test_blockquote_paragraphs_not_glued(self) -> None:
+        # `>` vazio separa parágrafos: uma aspa aberta e não fechada num parágrafo
+        # não pode "vazar" e capturar a citação do parágrafo seguinte.
+        out = self.run_check(
+            '> Ele disse: "abre aspas e nunca fecha\n'
+            ">\n"
+            f'> Outro parágrafo, com a aspa real "{self.verbatim(3, 14)}" {self.CITE}\n'
+        )
         self.assertEqual(out, [])
 
     def test_inline_code_ignored(self) -> None:

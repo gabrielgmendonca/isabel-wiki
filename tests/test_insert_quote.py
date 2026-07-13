@@ -43,6 +43,18 @@ class BuildQuoteTests(unittest.TestCase):
         cov = word_coverage(_inner(narrowed), literal_text("ESE", "cap. XVII, item 3"))
         self.assertGreaterEqual(cov, 0.95)
 
+    def test_no_double_quote_marks(self) -> None:
+        # A fonte marca a resposta do Espírito com aspa curva (“…”); sem descascar
+        # as bordas, o wrap em aspa reta emitia `> "“Sim, porquanto…"` — aspa dupla
+        # que ia parar na página. Vale para o corpo inteiro e para o recorte.
+        for block in (
+            build_quote("LE", "q. 660", None, False),
+            build_quote("LE", "q. 660", "se faz mais forte contra as tentações", False),
+        ):
+            self.assertTrue(block.startswith('> "'), block[:40])
+            self.assertNotIn('"“', block)
+            self.assertNotIn('”"', block)
+
     def test_sentence_absent_aborts(self) -> None:
         # Não fabrica recorte: trecho ausente → SystemExit.
         with self.assertRaises(SystemExit):

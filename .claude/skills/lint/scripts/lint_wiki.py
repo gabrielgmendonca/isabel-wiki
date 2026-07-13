@@ -636,7 +636,7 @@ def check_citation_resolves(pages: list[Path]) -> dict:
 # parêntese é revalidado por KARDEC_RE para confirmar que é citação ao Pentateuco.
 _QUOTE_BEFORE_CITE_RE = re.compile(
     r'["“]([^"”\n]{12,}?)["”]'      # aspa com ≥12 chars (pré-filtro bruto)
-    r'[\s,.:;…–—-]*'                # liga até a citação (só pontuação/espaço — sem letras)
+    r'[\s,.:;…–—*_-]*'              # liga até a citação (pontuação/espaço/ênfase — sem letras)
     r'(\([^)\n]*\))'                # parêntese seguinte (citação candidata)
 )
 
@@ -656,6 +656,58 @@ def _safe_mtime(p: Path) -> int:
         return p.stat().st_mtime_ns
     except OSError:
         return 0
+
+
+_BQ_PREFIX_RE = re.compile(r"^\s*(?:>\s?)+")
+
+
+def _logical_lines(body: str) -> list[tuple[int, str]]:
+    """Segmenta o corpo em unidades `(linha, texto)` para o scan de aspas.
+
+    Fora de blockquote cada linha física é uma unidade — o número reportado é
+    exato. Dentro de blockquote o marcador `>` é removido e as linhas do MESMO
+    parágrafo são juntadas numa unidade só, ancorada na primeira linha.
+
+    Os dois desvios em relação a ler o corpo linha a linha são necessários:
+
+    1. **Blockquote não pode ser strippado** (o que `_strip_blockquotes` faz para
+       os outros checks). Blockquote é justamente onde a aspa de Kardec se
+       apresenta como transcrição literal — o `>` É a reivindicação de
+       literalidade. Enquanto o scan os apagava, ~490 aspas em blockquote nunca
+       foram verificadas (ROADMAP §12 Fase 3), e as fabricadas de
+       `divergencias/escravidao-em-efesios-6` passaram batido.
+    2. **Juntar o parágrafo** — `_QUOTE_BEFORE_CITE_RE` proíbe `\\n` dentro da
+       aspa, então a transcrição pergunta/resposta do LE, que soft-wrap quebra
+       entre duas linhas `>`, escaparia do regex (34 casos hoje).
+
+    Callouts (`> [!warning] …`) entram no scan: aspa fabricada dentro de um
+    callout é tão fabricada quanto fora dele.
+    """
+    units: list[tuple[int, str]] = []
+    buf: list[str] = []
+    buf_start = 0
+
+    def flush() -> None:
+        nonlocal buf
+        if buf:
+            units.append((buf_start, " ".join(buf)))
+            buf = []
+
+    for i, line in enumerate(body.splitlines(), 1):
+        m = _BQ_PREFIX_RE.match(line)
+        if not m:
+            flush()
+            units.append((i, line))
+            continue
+        content = line[m.end():].strip()
+        if not content:  # `>` sozinho = quebra de parágrafo dentro do blockquote
+            flush()
+            continue
+        if not buf:
+            buf_start = i
+        buf.append(content)
+    flush()
+    return units
 
 
 def _scan_literal_quotes(pages: list[Path]) -> list[dict]:
@@ -687,16 +739,16 @@ def _scan_literal_quotes_cached(key: tuple[tuple[str, int], ...]) -> tuple[dict,
 
     Conservador: só double-quotes adjacentes a citação Kardec **resolvível**;
     cobertura contígua (tolera acento/caixa/pontuação/elisão); piso de ≥5 palavras;
-    skip em blockquote/code; locus inválido → skip (coberto por
-    `check_citation_resolves`).
+    skip em code; locus inválido → skip (coberto por `check_citation_resolves`).
+    Blockquote **é** varrido (via `_logical_lines`) — é a forma em que a aspa de
+    Kardec mais aparece, e era o ponto cego do check (ROADMAP §12 Fase 3).
     """
     items: list[dict] = []
     for path_str, _mtime in key:
         page = Path(path_str)
         text = page.read_text(encoding="utf-8")
         body = strip_inline_code(text)
-        body = _strip_blockquotes(body)
-        for i, line in enumerate(body.splitlines(), 1):
+        for i, line in _logical_lines(body):
             for m in _QUOTE_BEFORE_CITE_RE.finditer(line):
                 quote, citation = m.group(1), m.group(2)
                 km = KARDEC_RE.search(citation)
