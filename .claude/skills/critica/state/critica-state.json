@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-06-14",
+  "last_run": "2026-07-12",
   "pages": {
     "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
       "content_sha": "sha256:9da43e1593914e15762e86cbf5f47b1f426c8a0fdba0454eea7a68e48e17cae7",
@@ -953,6 +953,14 @@
       "verdict": "sólida",
       "findings_count": 2,
       "deferred_count": 0
+    },
+    "wiki/sinteses/logoterapia-e-espiritismo.md": {
+      "content_sha": "sha256:c739d87889187177311e388d786469bd9efc5eb7cdf1fbc40ee10262a46ae886",
+      "last_critica_date": "2026-07-12",
+      "atualizado_em_at_critica": "2026-07-12",
+      "verdict": "sólida com correções pendentes",
+      "findings_count": 6,
+      "deferred_count": 4
     }
   }
 }

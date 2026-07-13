@@ -237,6 +237,7 @@ Para o estudante de palestra: a Série é o corpus mais sistemático em PT-BR de
 - [[wiki/obras/ceu-e-inferno]] — 140 anos homenageados no vol. 13
 
 ### Sínteses irmãs
+- [[wiki/sinteses/logoterapia-e-espiritismo]] — recorte da ponte com a Quarta Força: a logoterapia de Frankl lida à luz do Pentateuco e sua incorporação pela Série (vols. 4, 6, 9, 13, 16)
 - [[wiki/sinteses/hierarquia-de-autoridade]] — nível 3 e regra de divergência
 - [[wiki/sinteses/parabolas-de-jesus]] — índice das parábolas relidas pela Série em chave arquetípica
 - [[wiki/aprofundamentos/sexualidade-em-andre-luiz]] — comparação de tom com a sublimação sexual de Joanna (vol. 10 cap. 4)

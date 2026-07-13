@@ -65,6 +65,7 @@ Joanna nomeia explicitamente Viktor Frankl em [[wiki/obras/conflitos-existenciai
 
 ## Páginas relacionadas
 
+- [[wiki/sinteses/logoterapia-e-espiritismo]] — leitura espírita da logoterapia de Frankl (a escola de que vem o termo), com ancoragem no Pentateuco e a recepção em Joanna
 - [[wiki/conceitos/individuacao]] — programa terapêutico que dá conteúdo positivo ao Self
 - [[wiki/conceitos/autoconhecimento]] — antídoto estrutural (LE q. 919)
 - [[wiki/conceitos/depressao]] — quadro clínico que pode coexistir com vazio existencial
