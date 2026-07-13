@@ -124,7 +124,7 @@ Compilação de declarações de cientistas favoráveis à realidade dos fenôme
 > Ver [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
 
 > [!note] Mudança de ênfase
-> Denis sugere que o intervalo entre encarnações é tipicamente curto (10–30 anos). Kardec não fixa tendência — "desde algumas horas até milhares de séculos" (LE, q. 223).
+> Denis sugere que o intervalo entre encarnações é tipicamente curto (10–30 anos). Kardec não fixa tendência — "Desde algumas horas até alguns milhares de séculos." (LE, q. 224).
 
 ## Fontes
 

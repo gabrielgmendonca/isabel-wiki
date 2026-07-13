@@ -40,7 +40,7 @@ A fórmula final de Paulo (Fp 4:13) é, à luz de Kardec, **confiança no auxíl
 
 > "Como podemos resistir às tentações do mal? — Pela vontade firme de fazê-lo." (LE q. 919)
 >
-> "Quem ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo." (LE q. 662)
+> "Sim, porquanto aquele que ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia Espíritos bons para assisti-lo." (LE, q. 660)
 
 A "força" paulina não é injeção mágica de capacidade sobrenatural — é **vontade firme** (LE q. 919) sustentada por sintonia mediúnica positiva (LE q. 538; LM 2ª parte cap. XX). O contentamento não é heroísmo solitário; é **trabalho com auxílio**, exatamente como Paulo descreve em Fp 2:12–13 ("operai a vossa salvação [...] Deus é o que opera em vós").
 

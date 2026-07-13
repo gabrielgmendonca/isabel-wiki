@@ -39,7 +39,7 @@ A refutação detalhada está em [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*
 
 4. **Os "demônios como agentes provocadores"** invertem a justiça: a vítima é punida eternamente, o agente provocador goza de liberdade. *"Que se diria, na terra, de um juiz que fizesse isso para povoar as prisões?"* (C&I 1ª parte cap. IX, item 15).
 
-5. **A inutilidade do arrependimento** demonstrada pela doutrina tradicional (Satanás não pode se arrepender, dizem) destrói o princípio evangélico do perdão e da regeneração: *"E em nome de Jesus Cristo, daquele que não pregou senão o amor, a caridade e o perdão, que se ensinam semelhantes doutrinas!"* (C&I 1ª parte cap. IX, item 19).
+5. **A inutilidade do arrependimento** demonstrada pela doutrina tradicional (Satanás não pode se arrepender, dizem) destrói o princípio evangélico do perdão e da regeneração: *"E em nome de Jesus Cristo, daquele que não pregou senão o amor, a caridade e o perdão, que se ensinam semelhantes doutrinas!"* (C&I 1ª parte cap. IX, item 15).
 
 A síntese de Kardec (C&I 1ª parte cap. IX, itens 20–21):
 

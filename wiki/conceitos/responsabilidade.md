@@ -20,7 +20,7 @@ O livre-arbítrio torna o Espírito responsável por suas escolhas. Sem liberdad
 
 Kardec ensina que a responsabilidade não se limita aos próprios atos. Quem contribui para a queda de outrem — por mau exemplo, negligência ou opressão — responde pela parcela de mal que causou:
 
-> "A responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores." (LE, q. 640)
+> "Mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores." (LE, q. 940)
 
 ### Parábola dos talentos
 
@@ -61,7 +61,7 @@ Apoiado em LE q. 851 ("a fatalidade existe unicamente pela escolha que o Espíri
 
 ## Fontes
 
-- Kardec, Allan. *O Livro dos Espíritos*. Parte 3, cap. I, q. 636–640; q. 851, q. 860. Trad. Guillon Ribeiro. FEB.
+- Kardec, Allan. *O Livro dos Espíritos*. Parte 3, cap. I, q. 636–640; Parte 4, cap. I, q. 940 (responsabilidade de quem causa a desgraça alheia); q. 851, q. 860. Trad. Guillon Ribeiro. FEB.
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Cap. XVI — "Não se pode servir a Deus e a Mamon". Trad. Guillon Ribeiro. FEB.
 - ESPÍRITO SANTO NETO, Francisco do (Hammed). *As Dores da Alma*. 8ª ed. Catanduva: Boa Nova, ago/2000. Tema "Irresponsabilidade" (LE q. 851, q. 860).
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 2:6, 11 e 14:10, 12. Ver [[wiki/obras/epistola-aos-romanos]].

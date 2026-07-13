@@ -29,7 +29,7 @@ O argumento de Kardec é pedagógico-evolutivo: ambos os sexos oferecem "provaç
 
 Em *O Céu e o Inferno*, o Espírito do Sr. Sanson confirma e aprofunda:
 
-> "Não fazemos questão de ser de natureza masculina ou feminina: os Espíritos não se reproduzem. Deus cria-os à sua vontade, e se, para seus desígnios maravilhosos, ele quis que os Espíritos se reencarnem na terra, ele precisou acrescentar a reprodução das espécies pelo macho e a fêmea. Mas, vós o sentis, sem que seja preciso nenhuma explicação, os Espíritos não podem ter sexo." (C&I, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11)
+> "Não fazemos questão de ser de natureza masculina ou feminina: os Espíritos não se reproduzem. Deus cria-os à sua vontade, e se, para seus desígnios maravilhosos, ele quis que os Espíritos se reencarnem na terra, ele precisou acrescentar a reprodução das espécies pelo macho e a fêmea. Mas, vós o sentis, sem que seja preciso nenhuma explicação, os Espíritos não podem ter sexo." (C&I, 2ª parte, cap. II, item 11 — diálogo com o Sr. Sanson)
 
 Na observação de Kardec a essa resposta, ele esclarece que Espíritos inferiores — ainda não desmaterializados — podem crer que ainda são homens ou mulheres, conservando "as mesmas paixões e os mesmos desejos". São esses que, ao se comunicarem, afirmam a existência de sexo nos Espíritos, gerando contradição aparente. Kardec explica: "o erro não é dos Espíritos, mas daqueles que os interrogam e não se dão ao trabalho de aprofundar as questões" (C&I, 2ª parte, cap. II, item 11).
 
@@ -234,7 +234,7 @@ Para a sistematização completa da doutrina joanniana sobre sexualidade (oito e
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*, q. 200–202. Trad. Guillon Ribeiro. FEB.
-- Kardec, Allan. *O Céu e o Inferno*, 2ª parte, cap. I — "O Passamento", diálogo com o Sr. Sanson, q. 11. Trad. Manuel Quintão. FEB.
+- Kardec, Allan. *O Céu e o Inferno*, 2ª parte, cap. II — "Espíritos felizes", item 11 (diálogo com o Sr. Sanson). Trad. Manuel Quintão. FEB.
 - Denis, Léon. *O Problema do Ser e do Destino*, cap. 13 — "As Vidas Sucessivas. A Reencarnação e suas Leis". Trad. Homero Dias de Carvalho. CELD, 2011.
 - *Bíblia Sagrada* (ACF). Epístola aos Romanos, 1:26–27.
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*, Parte 2, cap. 5. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
