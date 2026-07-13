@@ -133,7 +133,7 @@ E o diagnóstico do "tem tudo e não é feliz": *"esse tudo não preenche o vazi
 
 > "O Dr. Frankl, por sua vez, adotou a proposta do significado existencial como de maior relevância […]; quando […] se vincula a um sentido psicológico, mais fácil se lhe torna o crescimento interior rumando na conquista da individuação." (*Psicologia da Gratidão*, cap. 9)
 
-No mesmo volume, a **gratidão** é definida como recurso *"logoterapêutico, por proporcionar sentido existencial ao ser humano"* — sem exigir "condição religiosa" (cap. 7). Ver [[wiki/conceitos/gratidao]].
+No mesmo volume, a **gratidão** é apresentada como *"também logoterapêutica, por proporcionar sentido existencial ao ser humano"*, sem que se faça *"necessária uma condição religiosa"* para tanto (cap. 7). Ver [[wiki/conceitos/gratidao]].
 
 **A reivindicação de prioridade.** Por fim, Joanna situa a logoterapia numa genealogia em que a Psicologia Espírita chega antes:
 
@@ -147,9 +147,9 @@ No mesmo volume, a **gratidão** é definida como recurso *"logoterapêutico, po
 | Valores de atitude / sofrimento com sentido | "Poucos sofrem bem" (ESE, cap. V, 18); prova como pedagogia (item 5) | O Espiritismo dá ao sofrimento um sentido *objetivo* (reparador/educativo), não só um sentido a ser *atribuído* |
 | A última das liberdades (escolher a atitude) | Livre-arbítrio (LE, q. 843); coragem "nas tenazes de uma pena moral" (ESE, cap. V, 18) | A liberdade de pensar sobrevive a todo cativeiro |
 | Dimensão noética / noológica (*noûs*) | Espírito (LE, q. 132) | Joanna lê *nous* = espírito; convergência real, mas Frankl manteve o ponto em aberto |
-| Vazio existencial / neurose noogênica | Tédio ou desgosto da vida (LE, q. 943–944) | "Ociosidade, falta de fé e saciedade" = as três raízes do vazio |
+| Vazio existencial / neurose noogênica | Tédio ou desgosto da vida (LE, q. 943–944) | Convergência no **quadro**, não na etiologia: as três raízes ("ociosidade, falta de fé e saciedade") são o diagnóstico de Kardec; Frankl aponta perda dos instintos + colapso das tradições |
 | Diálogo socrático | "Conhece-te a ti mesmo" (LE, q. 919) | Mesmo método maiêutico de reconquista do sentido |
-| Autotranscendência (sentido está *fora* do eu) | Caridade como fim da lei moral (LE, q. 886–919; ESE, cap. XI) | O sentido pleno é sair de si em direção ao próximo e a Deus |
+| Autotranscendência (sentido está *fora* do eu) | Caridade como fim da lei moral (LE, q. 886; ESE, cap. XI) | O sentido pleno é sair de si em direção ao próximo e a Deus |
 
 A tabela é mapa de convergência funcional, não de identidade. Cada par opera em planos distintos — fenomenológico e metodológico em Frankl, ontológico e moral em Kardec — e coincide no que produz para a clínica e para a conduta.
 
@@ -207,7 +207,7 @@ Para a palestra, a fórmula é limpa: **Frankl mostra que o homem precisa de um 
 ## Fontes
 
 - Kardec, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 132 (objetivo da encarnação); q. 779 (força para progredir); q. 843 (livre-arbítrio); q. 919 (Conhece-te a ti mesmo); q. 943–944 (desgosto da vida e suicídio).
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. V ("Bem-aventurados os aflitos"), itens 4, 5 e 18 (Lacordaire, Havre, 1863).
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. V ("Bem-aventurados os aflitos"), item 5 (comentário de Kardec) e item 18 (Espírito Lacordaire, Havre, 1863).
 - *Evangelho segundo Mateus*, 6:33; *Evangelho segundo Lucas*, 17:21.
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Momentos de Saúde e Consciência*. Salvador: LEAL, 1992. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/momentos-de-saude-e-consciencia/momentos-de-saude-e-consciencia]].
 - Joanna de Ângelis / Franco, Divaldo Pereira (psicografia). *Autodescobrimento — Uma Busca Interior*. Salvador: LEAL, 1995. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-autodescobrimento-uma-busca-interior/joanna-de-angelis-autodescobrimento-uma-busca-interior]].
