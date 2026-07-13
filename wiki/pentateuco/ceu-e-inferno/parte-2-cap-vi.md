@@ -94,77 +94,23 @@ Observação: A situação de Verger, no momento de sua morte, é a de quase tod
 A obstinação no mal durante a vida é por vezes uma consequência do orgulho que recusa dobrar-se e confessar seus erros; depois o homem está sob a influência da matéria que lança um véu sobre suas percepções espirituais, e o fascina. Caído esse véu, uma luz súbita o ilumina, e ele fica como que desembriagado. O pronto retorno a melhores sentimentos é sempre indício de um certo progresso moral realizado que não pede senão uma circunstância favorável para se revelar, ao passo que aquele que persiste no mal mais ou menos tempo após a morte, é incontestavelmente um Espírito mais atrasado, no qual o instinto material asfixia o germe do bem, e que precisará ainda de novas provas para se emendar.
 **Lemaire**
 Condenado à pena de morte pelo tribunal de Aisne, e executado em 31 de dezembro de 1857; evocado em 29 de janeiro de 1858.
-
-## item 1
-
 1. Evocação. – R. Estou aqui.
-
-## item 2
-
 2. Que sentimento experimentais à nossa visão? – R. De vergonha.
-
-## item 3
-
 3. Conservastes vosso conhecimento até o último momento? – R. Sim.
-
-## item 4
-
 4. Imediatamente após a vossa execução, tivestes conhecimento de vossa nova existência? – R. Eu estava mergulhado numa perturbação imensa da qual ainda não saí. Senti uma imensa dor, e pareceu-me que meu coração a sofria. Vi rolar não sei o quê ao pé do cadafalso; vi correr sangue, e minha dor só foi mais lancinante. P. - Era uma dor puramente física, análoga à que fosse causada por um ferimento grave, pela amputação de um membro, por exemplo? – R. Não; imaginai um remorso, uma grande dor moral. P. - Quando começastes a sentir essa dor? – R. Assim que fiquei livre.
-
-## item 5
-
 5. A dor física causada pelo suplício era sentida pelo corpo ou pelo Espírito? – R. A dor moral estava no meu espírito; o corpo sentiu a dor física; mas o Espírito separado ainda se ressentia dela.
-
-## item 6
-
 6. Vistes vosso corpo mutilado? – R. Vi algo de informe que me parecia não ter deixado; porém, eu me sentia ainda inteiro: era eu mesmo. – P. Que impressão essa visão vos fez? – R. Eu sentia demasiado a minha dor; estava perdido nela.
-
-## item 7
-
 7. É verdade que o corpo vive ainda alguns instantes depois da decapitação, e que o supliciado tem consciência de suas ideias? – R. O Espírito retira-se pouco a pouco; quanto mais os laços da matéria o prendem, menos a separação é rápida.
-
-## item 8
-
 8. Diz-se ter notado no rosto de certos supliciados a expressão da cólera e movimentos como se eles quisessem falar; é efeito de uma contração nervosa ou de um ato da vontade? – R. Da vontade; pois o Espírito ainda não se retirou dali.
-
-## item 9
-
 9. Qual foi o primeiro sentimento que experimentastes ao entrardes na vossa nova existência? – R. Um intolerável sofrimento; uma espécie de remorso lancinante cuja causa eu ignorava.
-
-## item 10
-
 10. Encontrastes-vos reunido a vossos cúmplices executados ao mesmo tempo que vós? – R. Para nossa desgraça; nossa visão é um suplício contínuo; cada um de nós recrimina ao outro o seu crime.
-
-## item 11
-
 11. Encontrais as vossas vítimas? – R. Eu as vejo... elas são felizes... seu olhar me persegue... eu o sinto mergulhar até o fundo de meu ser... em vão quero fugir dele. - P. Que sentimento experimentais ao vê-las? – R. Vergonha e remorso. Elevei-as com minhas próprias mãos, e ainda as odeio. – P. Que sentimento elas experimentam à vossa visão? – R. Compaixão.
-
-## item 12
-
 12. Elas têm ódio e desejo de vingança? – R. Não; seus desejos chamam sobre mim a expiação. Não poderíeis sentir que horrível suplício é dever tudo a quem se odeia.
-
-## item 13
-
 13. Lamentais a vida terrestre? – R. Não lamento senão meus crimes. Se o acontecimento ainda estivesse nas minhas mãos, eu já não sucumbiria.
-
-## item 14
-
 14. A inclinação para o mal estava na vossa natureza, ou fostes arrastado pelo meio em que vivestes? – R. A inclinação ao crime estava na minha natureza, pois não era senão um Espírito inferior. Eu quis me elevar rapidamente; mas pedi acima de minhas forças. Acreditei ser forte, escolhi uma prova rude; cedi às tentações do mal.
-
-## item 15
-
 15. Se tivésseis recebido bons princípios de educação, poderíeis ter sido desviado da vida criminosa? – R. Sim; mas eu escolhi a posição em que nasci. P. – Poderíeis ter sido um homem de bem? – R. Um homem fraco, incapaz do bem como do mal. Eu podia corrigir o mal de minha natureza durante minha existência, mas não me podia elevar até fazer o bem.
-
-## item 16
-
 16. Durante a vida, acreditáveis em Deus? – R. Não. - P. Porém, diz-se que no momento de morrer vós vos arrependestes; é verdade? – R. Acreditei num Deus vingador... tive medo da sua justiça. - P. Neste momento, vosso arrependimento é mais sincero? – R. Infelizmente, vejo o que fiz. – P. O que pensais de Deus agora? – R. Eu sinto-o e não o compreendo.
-
-## item 17
-
 17. Achais justo o castigo que vos foi infligido na terra? – R. Sim.
-
-## item 18
-
 18. Esperais obter perdão de vossos crimes? – R. Não sei. – P. Como esperais fazê-los esquecer? – R. Por novas provas; mas parece-me que a eternidade está entre mim e elas.
 
 ## item 19
@@ -185,93 +131,27 @@ Condenado à pena de morte pelo tribunal de Aisne, e executado em 31 de dezembro
 **Benoist**
 (Bordeaux, março de 1862.)
 Um Espírito apresenta-se espontaneamente ao médium, sob o nome de Benoist, diz ter morrido em 1704 e suportar horríveis sofrimentos.
-
-## item 1
-
 1. O que éreis durante a vida? – R. Monge sem fé.
-
-## item 2
-
 2. A falta de crença é vossa única falta? – R. Basta para acarretar as outras.
-
-## item 3
-
 3. Podeis dar-nos alguns detalhes sobre a vossa vida? A sinceridade de vossas confissões vos será tida em conta. – R. Sem fortuna e preguiçoso, ordenei-me, não por vocação, mas para ter uma posição. Inteligente, consegui obter um lugar; influente, abusei do poder; vicioso, arrastei para a dissipação aqueles que tinha por missão salvar; duro, persegui aqueles que pareciam condenar meus excessos; os in pace foram preenchidos pelos meus cuidados. A fome torturou muitas vítimas; seus gritos se extinguiram muitas vezes sob a violência. Desde então, expio e sofro todas as torturas do inferno; minhas vítimas atiçam o fogo que me devora. A luxúria e a fome insaciadas me perseguem; a sede irrita meus lábios ardentes sem jamais deixar cair aí uma gota refrescante; todos os elementos se encarniçam contra mim. Orai por mim.
-
-## item 4
-
 4. As preces que se fazem pelos finados devem ser-vos atribuídas como aos outros? – R. Credes que elas sejam muito edificantes? Elas têm para mim o valor daquelas que eu parecia fazer. Não cumpri minha tarefa, dela não encontro o salário.
-
-## item 5
-
 5. Nunca vos arrependestes? – R. Há muito tempo; mas ele só veio depois do sofrimento. Como fui surdo aos gritos de vítimas inocentes, o Senhor é surdo aos meus gritos. Justiça!
-
-## item 6
-
 6. Vós reconheceis a justiça do Senhor; confiai-vos à sua bondade e chamai-o em vosso auxílio. – R. Os demônios urram mais alto do que eu; os gritos asfixiam na minha garganta; enchem minha boca de piche fervendo!... Eu o fiz, grande... (O Espírito não pode escrever a palavra Deus.)
-
-## item 7
-
 7. Não estais já suficientemente separado das ideias terrestres para compreender que as torturas que suportais são todas morais? – R. Eu as suporto, sinto-as, vejo meus carrascos; eles têm todos uma aparência conhecida; têm todos um nome que ressoa no meu cérebro.
-
-## item 8
-
 8. O que podia vos impelir a todas essas infâmias? – R. Os vícios de que estava imbuído; a brutalidade das paixões.
-
-## item 9
-
 9. Nunca implorastes a assistência dos bons Espíritos para vos ajudar a sair dessa posição? – R. Não vejo senão os demônios do inferno.
-
-## item 10
-
 10. Tínheis medo deles enquanto vivo? – R. Não, nada; o nada era minha fé; os prazeres a todo preço eram meu culto. Divindades do inferno não me abandonaram; consagrei-lhes a minha vida, elas não me deixarão mais!
-
-## item 11
-
 11. Não entrevedes um fim para vossos sofrimentos? – R. O infinito não tem fim.
-
-## item 12
-
 12. Deus é infinito na sua misericórdia; tudo pode ter um fim quando ele o quer. – R. Se ele pudesse querer!
-
-## item 13
-
 13. Por que viestes vos inscrever aqui? – R. Não sei como; mas quis falar, como gostaria de gritar para me aliviar.
-
-## item 14
-
 14. Vossos demônios não vos impedem de escrever? – R. Não, mas estão à minha frente, ouvem-me; é por isso que não gostaria de acabar.
-
-## item 15
-
 15. É a primeira vez que escreveis assim? – R. Sim. – P. Sabíeis que os Espíritos podiam se aproximar assim dos homens? – R. Não. – P. Então como pudestes compreendê-lo? – R. Não sei.
-
-## item 16
-
 16. O que sentistes para vir perto de mim? – R. Um amortecimento nos meus terrores.
-
-## item 17
-
 17. Como vos apercebestes que estáveis aqui? – R. Como quando acordamos.
-
-## item 18
-
 18. Como fizestes para vos pordes em contato comigo? – R. Não compreendo; tu não sentiste?
-
-## item 19
-
 19. Não se trata de mim, mas de vós; tentai dar-vos conta do que fazeis neste momento enquanto escrevo. – R. Tu és meu pensamento, eis tudo.
-
-## item 20
-
 20. Não tivestes então a vontade de me fazer escrever? – R. Não, sou eu que escrevo, tu pensas por mim.
-
-## item 21
-
 21. Tentai vos dar conta; os bons Espíritos que nos cercam vos ajudarão. – R. Não, os anjos não vêm ao inferno. Não estás sozinha? – P. Vede à vossa volta. – R. Sinto que me ajudam a pensar em ti... tua mão me obedece... não te toco, e tenho-te... não compreendo.
-
-## item 22
-
 22. Pedi a assistência de vossos protetores; vamos orar juntos. – R. Queres deixar-me? Fica comigo; eles vão retomar-me. Peço-te, fica! Fica!
 
 ## item 23
@@ -285,83 +165,26 @@ Numa casinha, perto de Castelnaudary, havia barulhos estranhos e diversas manife
 Tendo o Espírito que dera a bofetada sido evocado na Sociedade de Paris, em 1859, manifestou-se por sinais de violência; todos os esforços para acalmá-lo foram impotentes. São Luís, interrogado a seu respeito, respondeu: “É um Espírito da pior espécie, um verdadeiro monstro; nós o fizemos vir, mas não pudemos coagi-lo a escrever, apesar de tudo o que lhe foi dito; ele tem seu livrearbítrio: o infeliz faz dele um triste uso.”
 P. Esse Espírito é capaz de aperfeiçoamento? – R. Por que não? Não o são todos, esse como os outros? É preciso, entretanto, esperar encontrar dificuldades; mas, por mais perverso que ele seja, o bem, retribuído pelo mal acabará por tocá-lo. Orai primeiro, e evocai-o daqui a um mês, e podereis julgar a mudança que se terá operado nele.
 O Espírito evocado de novo mais tarde mostra-se mais tratável, depois pouco a pouco submisso e arrependido. Das explicações fornecidas por ele e por outros Espíritos, resulta que em 1608 ele morava naquela casa, onde assassinara o irmão por suspeita de ciumenta rivalidade golpeando-o na garganta enquanto ele dormia, e alguns anos depois, aquela que fizera sua mulher, após a morte do irmão. Morreu em 1659 com a idade de oitenta anos, sem ter sido perseguido por esses homicídios, aos quais se prestava pouca atenção naqueles tempos de confusão. Desde sua morte, não cessara de fazer o mal, e provocara vários dos acidentes ocorridos naquela casa. Um médium vidente que assistia à primeira evocação viu-o no momento em que se quis fazêlo escrever; ele sacudia fortemente o braço do médium: seu aspecto era apavorante; vestia uma camisa coberta de sangue, e segurava um punhal.
-
-## item 1
-
 1. P. A São Luís. Tende a bondade de nos descrever o gênero de suplício desse Espírito. – R. É atroz para ele; foi condenado a permanecer na casa onde o crime foi cometido, sem poder dirigir seu pensamento para outra coisa que não esse crime, sempre diante de seus olhos, e ele se crê condenado a essa tortura por toda a eternidade. Ele se vê constantemente no momento em que cometeu seu crime; toda outra recordação lhe é retirada, e toda comunicação com um outro Espírito, proibida; não pode, na terra, ficar senão nessa casa, e se estiver no espaço, fica nas trevas e na solidão.
-
-## item 2
-
 2. Haveria um meio de desalojá-lo, e qual seria? – R. Se vos quiserdes livrar das obsessões de semelhantes Espíritos, isso é fácil orando por eles: é o que sempre se negligencia de fazer. Prefere-se assustá-los com fórmulas de exorcismo que os divertem muito.
-
-## item 3
-
 3. Dando às pessoas interessadas a ideia de orar por ele, e orando nós mesmos, seria possível desalojá-lo? – R. Sim, mas notai que eu disse orar, e não mandar rezar.
-
-## item 4
-
 4. Faz dois séculos que ele está nessa situação; ele aprecia esse tempo como se estivesse vivo; ou seja, o tempo lhe parece tão longo ou menos longo do que se estivesse vivo? – R. Parece-lhe mais longo: o sono não existe para ele.
-
-## item 5
-
 5. Foi-nos dito que para os Espíritos o tempo não existe, e que, para eles, um século é um ponto na eternidade; então não é o mesmo para todos? – R. Não, certamente, não é assim a não ser para os Espíritos que chegaram a um grau muito elevado de avanço; mas para os Espíritos inferiores, o tempo é por vezes bastante longo, sobretudo quando sofrem.
-
-## item 6
-
 6. De onde vinha esse Espírito antes de sua encarnação? – R. Ele tivera uma existência entre as hordas mais ferozes e mais selvagens, e anteriormente vinha de um planeta inferior à terra.
-
-## item 7
-
 7. Esse Espírito é punido bem severamente pelo crime que cometeu; se viveu entre hordas bárbaras, deve ter aí cometido atos não menos atrozes do que o último; foi punido da mesma maneira? – R. Foi menos punido, porque, mais ignorante, compreendia menos o seu alcance.
-
-## item 8
-
 8. O estado em que se encontra esse Espírito é o dos seres vulgarmente chamados danados? – R. Absolutamente; e há outros bem mais aterrorizantes ainda. Os sofrimentos estão longe de ser os mesmos para todos, mesmo para crimes semelhantes, pois eles variam segundo o culpado seja mais ou menos acessível ao arrependimento. Para este, a casa onde cometeu seu crime é seu inferno; outros carregam-no em si, pelas paixões que os atormentam e que não podem saciar.
-
-## item 9
-
 9. Este Espírito, apesar de sua inferioridade, sente os bons efeitos da prece; vimos a mesma coisa em outros Espíritos igualmente perversos e da natureza mais bruta; como explicar que Espíritos mais esclarecidos, de uma inteligência mais desenvolvida, mostrem uma ausência completa de bons sentimentos; que riam de tudo o que há de mais sagrado; numa palavra, que nada os toque, e que não haja nenhuma trégua em seu cinismo? – R. A prece não tem efeito a não ser em favor do Espírito que se arrepende; aquele que, impelido pelo orgulho, se revolta contra Deus e persiste em desvarios exagerando-os ainda, como fazem infelizes Espíritos, sobre esses a prece nada pode, e nada poderá senão no dia em que uma centelha de arrependimento se tiver manifestado neles. A ineficácia da prece é ainda para eles um castigo; esta alivia apenas aqueles que não estão inteiramente endurecidos.
-
-## item 10
-
 10. Quando se vê um Espírito inacessível aos bons efeitos da prece, é uma razão para se abster de orar por ele? – R. Não, sem dúvida, pois cedo ou tarde ela poderá vencer seu endurecimento e fazer germinar nele pensamentos salutares.
 Observação: Ocorre o mesmo com certos doentes sobre os quais os remédios agem a longo prazo; o efeito não é apreciável no momento; sobre outros, ao contrário, eles operam prontamente. Se se tiver em conta esta verdade de que todos os Espíritos são perfectíveis, e que nenhum está eterna e fatalmente destinado ao mal, compreender-se-á que, cedo ou tarde, a prece terá seu efeito, e que aquela que parece ineficaz à primeira vista não deixa de depositar germes salutares que predispõem o Espírito ao bem, se não os tocar imediatamente. Seria então um erro desanimar-se, porque não se tem sucesso
 imediatamente.
-
-## item 11
-
 11. Se esse Espírito se reencarnasse, em que categoria de indivíduos se encontraria? – R. Isso dependerá dele e do arrependimento que sentir. Várias conversas com esse Espírito trouxeram-lhe uma notável mudança no seu estado moral. Eis algumas das suas respostas.
-
-## item 12
-
 12. Ao Espírito. Por que não pudestes escrever na primeira vez em que vos chamamos? – R. Eu não queria. Por que não queríeis? – R. Ignorância e embrutecimento.
-
-## item 13
-
 13. Agora podeis deixar a casa de Castelnaudary quando quiserdes? – R. É-me permitido, porque tiro proveito dos vossos bons conselhos. P. - Sentis alívio por isso? – R. Começo a ter esperança.
-
-## item 14
-
 14. Se vos pudéssemos ver, em que aparência vos veríamos? – R. Verme-íeis de camisa, sem punhal. – P. Por que não teríeis mais vosso punhal; o que fizestes dele? – R. Eu o amaldiçoo; Deus poupa-me de sua visão.
-
-## item 15
-
 15. Se o Sr. D... filho (aquele que recebera a bofetada) voltasse à casa, far-lhe-íeis mal? – R. Não, pois estou arrependido. – P. E se ele quisesse ainda vos enfrentar? – R. Oh! Não me peçais isso! Eu não poderia dominar-me, estaria acima das minhas forças... pois não sou senão um miserável.
-
-## item 16
-
 16. Entrevedes o fim de vossas penas? – R. Oh! Ainda não; é já muito mais do que eu mereço saber, graças à vossa intervenção, que elas não durarão para sempre.
-
-## item 17
-
 17. Tende a bondade de nos descrever a situação em que estáveis antes que vos chamássemos da primeira vez. Compreendei que perguntamos isso para ter um meio de vos ser útil, e não por um motivo de curiosidade. – R. Já vos disse, eu não tinha consciência de nada no mundo senão do meu crime, e não podia deixar a casa onde o cometi a não ser para me elevar no espaço onde tudo à minha volta era solidão e obscuridade; não poderia dar-vos uma ideia do que é, nunca compreendi nada disso; assim que me elevava acima do ar, ficava escuro, ficava vazio; não sei o que era. Hoje em dia sinto muito mais remorsos, e não sou mais coagido a ficar nessa casa fatal; é-me permitido vaguear na terra, e procurar esclarecer-me pelas minhas observações; mas então compreendo melhor a enormidade de meus crimes horrendos; e se sofro menos por um lado, minhas torturas aumentam do outro pelo remorso; mas ao menos tenho esperança.
-
-## item 18
-
 18. Se devêsseis retomar uma existência corporal, qual escolheríeis? – R. Ainda não vi o suficiente nem refleti o suficiente para saber.
-
-## item 19
-
 19. Durante vosso longo isolamento, e pode-se dizer vosso cativeiro, tivestes remorsos? – R. Nem um pouco, e é por isso que sofri tanto tempo; foi somente quando comecei a sentir remorsos que foram provocadas, sem meu conhecimento, as circunstâncias que trouxeram minha evocação à qual devo o início da minha libertação. Obrigado, portanto, a vós que tivestes compaixão de mim e me esclarecestes.
 Observação: Vimos, efetivamente, avarentos sofrer com a visão do ouro, que para eles se tornara uma verdadeira quimera; orgulhosos atormentados pela inveja das honras que viam conceder, e que não se dirigiam a eles; homens que mandaram na terra, humilhados pelo poder invisível que os constrangia a obedecer, e pela visão de seus subordinados que não se dobravam mais diante deles; os ateus sofrerem as angústias da incerteza, e ficarem num isolamento absoluto no meio da imensidade, sem encontrar nenhum ser que pudesse esclarecê-los. No mundo dos Espíritos, se há alegrias para todas as virtudes, há penas para todas as faltas; e aquelas que a lei dos homens não atinge são sempre golpeadas pela lei de Deus.
 Deve-se notar ademais que as mesmas faltas, embora cometidas em condições idênticas, são punidas por castigos por vezes muito diferentes, segundo o grau de avanço intelectual do Espírito. Aos Espíritos mais atrasados, e de uma natureza bruta como este de que se trata aqui, são infligidas penas de alguma forma mais materiais do que morais, ao passo que é o contrário para aqueles cuja inteligência e sensibilidade são mais desenvolvidas. Para os primeiros é preciso castigos apropriados à rudeza de sua casca para lhes fazer compreender as contrariedades de sua posição, e inspirar-lhes o desejo de sair dela; é assim que a vergonha, por exemplo, que faria apenas pouca ou nenhuma impressão neles, será intolerável para os outros.

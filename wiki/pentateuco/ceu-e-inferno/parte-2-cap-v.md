@@ -91,46 +91,16 @@ Não... Que compreendeis por suicídio? O Espírito não é culpado senão de su
 **O pai e o recruta**
 No início da guerra da Itália, em 1859, um negociante de Paris, pai de família, gozando da estima geral de todos os seus vizinhos, tinha um filho que foi chamado a ir defender a bandeira; achando-se, pela sua posição, na impossibilidade de exonerá-lo do serviço militar, teve a ideia de se suicidar a fim de isentá-lo como filho único de viúva. Foi evocado um ano depois na Sociedade de Paris, a pedido de uma pessoa que o conhecera e que desejava conhecer seu destino no mundo dos Espíritos.
 (A São Luís.) Tende a bondade de dizer-nos se podemos fazer a evocação do homem do qual acabamos de falar? – R. Sim, ele ficará mesmo muito feliz, pois ficará um pouco aliviado.
-
-## item 1
-
 1. Evocação. – R. Oh! obrigado! Sofro bastante, mas... é justo; no entanto ele me perdoará.
 Observação: O Espírito escreve com grande dificuldade; os caracteres são irregulares e mal formados; depois da palavra mas, ele para, tenta em vão escrever, e não faz senão alguns traços indecifráveis e pontos. É evidente que é a palavra Deus que ele não pôde escrever.
-
-## item 2
-
 2. Preenchei a lacuna que acabais de deixar. – R. Sou indigno disso.
-
-## item 3
-
 3. Vós dizeis que sofreis, errastes sem dúvida ao vos suicidardes, mas será que o motivo que vos levou a esse ato não vos valeu nenhuma indulgência? – R. Minha punição será menos longa, mas a ação praticada não é menos má.
-
-## item 4
-
 4. Poderíeis descrever-nos a punição que sofreis? – R. Sofro duplamente, em minha alma e em meu corpo; sofro neste último, embora não o possuindo mais, como o amputado sofre no seu membro ausente.
-
-## item 5
-
 5. Vossa ação teve por único motivo o vosso filho, e não fostes solicitado por nenhuma outra causa? – R. Unicamente o amor paterno me guiou, mas me guiou mal; em atenção a esse motivo, minha pena será abreviada.
-
-## item 6
-
 6. Prevedes o fim de vossos sofrimentos? – R. Não conheço o fim deles; mas tenho certeza de que esse fim existe, o que é um alívio para mim.
-
-## item 7
-
 7. Há pouco não conseguistes escrever o nome de Deus; contudo, nós vimos Espíritos muito sofredores escrevê-lo; isso faz parte da vossa punição? – R. Eu poderei com grandes esforços de arrependimento.
-
-## item 8
-
 8. Pois bem! fazei grandes esforços, e tentai escrevê-lo; estamos convencidos de que se conseguirdes, isso vos aliviará. O Espírito acabou por escrever em caracteres irregulares, tremidos, e muito grandes: “Deus é bem bom.”
-
-## item 9
-
 9. Nós vos agradecemos por terdes vindo ao nosso chamado, e pediremos a Deus por vós, a fim de chamar a sua misericórdia sobre vós. – R. Sim, por favor.
-
-## item 10
-
 10. (A São Luís.) Tende a bondade de nos dar vossa apreciação pessoal sobre o ato do Espírito que acabamos de evocar. – R. Esse Espírito sofre justamente, pois não confiou em Deus, o que é uma falta sempre punível; a punição seria terrível e muito longa se ele não tivesse a seu favor um motivo louvável, que era o de impedir o filho de ir para a morte; Deus, que vê o fundo dos corações, e que é justo, não o pune a não ser segundo suas obras.
 Observações. – À primeira vista, esse suicídio parece desculpável, porque pode ser considerado como um ato de abnegação; ele o é, com efeito, mas não o é completamente. Assim como diz o Espírito de São Luís, faltou a esse homem confiança em Deus. Por sua ação, impediu talvez o destino de seu filho de se cumprir; primeiro, não é certo que este morresse na guerra, e talvez essa carreira devesse lhe fornecer a ocasião de fazer alguma coisa que teria sido útil para seu avanço. Sua intenção, sem dúvida, era boa, então isso lhe é creditado; a intenção atenua o mal e merece indulgência, mas ela não impede o que é mal de ser mal; sem isso, graças ao pensamento, poder-se-iam desculpar todas as más ações, e poder-se-ia mesmo matar sob pretexto de fazer um favor. Uma mãe que mata o filho na crença de que o manda diretamente para o céu, é menos culpada, porque o faz com uma boa intenção? Com esse sistema justificar-se-iam todos os crimes que um fanatismo cego fez cometer nas guerras de religião.
 Em princípio, o homem não tem o direito de dispor de sua vida, porque ela lhe foi dada em vista dos deveres que ele devia realizar na terra, é por isso que ele não deve abreviá-la voluntariamente sob nenhum pretexto. Como ele tem seu livre-arbítrio, ninguém o pode impedir, mas ele sofre sempre suas consequências.
@@ -163,43 +133,16 @@ Um jornal de 13 de junho de 1862 continha o relato seguinte:
 “Os senhores B... e D... eram amigos íntimos. Embora não tendo juntos nenhuma relação de interesse, não cessaram de se ver. O amor mútuo de B... e de Palmyre, agora senhora D..., não enfraquecera, e, como eles se esforçavam para o comprimir, ele aumentava devido à violência que lhe faziam. Para tentar extingui-lo, B... adotou o partido de se casar. Desposou uma jovem dotada de eminentes qualidades, e fez tudo o que estava ao seu alcance para amá-la; mas não tardou a perceber que esse meio heroico não tinha o poder de curá-lo; no entanto, durante quatro anos, nem B... nem a senhora D... faltaram aos seus deveres. O que eles tiveram de sofrer não poderia exprimir-se, pois D..., que gostava verdadeiramente de seu amigo, chamava-o sempre para ir a sua casa, e, quando este queria fugir, obrigava-o a ficar.
 “Os dois amantes, que se reencontraram um dia por uma circunstância fortuita que não haviam procurado, contaram um ao outro o estado de sua alma, e concordaram que a morte era o único remédio para os males que sentiam. Resolveram matar-se juntos, e executar esse projeto no dia seguinte, devendo o senhor D.... ficar ausente de seu domicílio durante grande parte do dia. Depois de terem feito seus últimos preparativos, escreveram uma longa e tocante carta explicando a causa do suicídio para não faltarem a seus deveres. Ela terminava com um pedido de perdão e a súplica de serem reunidos no mesmo túmulo. “Quando o senhor D... voltou, encontrou-os asfixiados. Respeitou-lhes o último desejo, e quis que no cemitério não ficassem separados.” Tendo sido este fato proposto à Sociedade de Paris como objeto de estudo, um Espírito respondeu:
 “Os dois amantes que se suicidaram ainda não podem responder-vos; eu os vejo; estão mergulhados na perturbação e assustados pelo sopro da eternidade. As consequências morais de sua falta castigá-los-ão durante migrações sucessivas em que suas almas desencontradas se buscarão sem cessar e sofrerão o duplo suplício do pressentimento e do desejo. Cumprida a expiação, eles ficarão reunidos para sempre no seio do eterno amor. Daqui a oito dias, na vossa próxima sessão, podereis evocá-los; eles virão, mas não se verão: uma noite profunda os ocultará por muito tempo um do outro.”
-
-## item 1
-
 1. Evocação da mulher. – Vedes vosso amante, com o qual vos suicidastes? – R. Não vejo nada; não vejo nem mesmo os Espíritos que vagueiam comigo na morada onde estou. Que noite! Que noite! E que véu espesso sobre meu rosto!
-
-## item 2
-
 2. Que sensação experimentastes quando despertastes após a morte? – R. Estranho! Tinha frio e ardia; corria gelo nas minhas veias, e minha testa estava em fogo! Coisa estranha, mistura inaudita! Gelo e fogo parecendo me estreitar! Pensava que ia sucumbir uma segunda vez.
-
-## item 3
-
 3. Sentis uma dor física? – R. Todo o meu sofrimento está aqui, e aqui. – Que quereis dizer por aqui e aqui? – R. Aqui, no meu cérebro; aqui, no meu coração.
 Nota: É provável que, se pudéssemos ter visto o Espírito, tê-lo-íamos visto levar a mão à testa e ao coração.
-
-## item 4
-
 4. Acreditais que ficareis sempre nessa situação? – R. Oh! sempre, sempre! Ouço às vezes risos infernais, vozes pavorosas que me urram estas palavras: “Sempre assim!”
-
-## item 5
-
 5. Pois bem! podemos dizer-vos com toda a segurança que não será assim para sempre; ao vos arrependerdes, obtereis o vosso perdão. – R. O que dissestes? Não estou ouvindo.
-
-## item 6
-
 6. Repito-vos que vossos sofrimentos terão um fim que podereis apressar pelo vosso arrependimento, e nós vos ajudaremos pela oração. – R. Não ouvi senão uma palavra e sons vagos; essa palavra é graça! Quisestes falar de graça? Vós falastes de graça: é talvez à alma que passa ao meu lado, pobre criança que chora e que espera.
 Nota: Uma senhora da Sociedade diz que acaba de fazer a Deus uma prece por essa desafortunada, e que foi talvez isso que a impressionou; que ela implorara, com efeito, mentalmente para ela a graça de Deus.
-
-## item 7
-
 7. Dizeis que estais nas trevas; não conseguis ver? – R. É-me permitido ouvir algumas das palavras que pronunciais, mas não vejo senão um crepe negro sobre o qual se desenha, em certas horas, uma cabeça chorando.
-
-## item 8
-
 8. Se não podeis ver o vosso amante, não sentis sua presença junto a vós, pois ele está aqui? – R. Ah! Não me faleis dele, devo esquecê-lo por enquanto, se eu quiser que se apague a imagem do crepe que vejo ali traçada.
-
-## item 9
-
 9. Que imagem é essa? – R. A de um homem que sofre, e cuja existência moral na terra eu matei por muito tempo. Observação: Lendo este relato fica-se inicialmente disposto a conceder a este suicídio circunstâncias atenuantes, a vê-lo mesmo como um ato heroico,visto que foi provocado pelo sentimento do dever. Vê-se que ele foi julgado de outra maneira, e que a pena dos culpados será longa e terrível por se terem refugiado voluntariamente na morte a fim de fugirem da luta; a intenção de não faltar ao dever era sem dúvida digna, e isso será levado em conta mais tarde, mas o verdadeiro mérito teria consistido em vencer o arrebatamento, ao passo que eles fizeram como o desertor que se esquiva no momento do perigo.
 A pena dos dois culpados consistirá, como se vê, em se procurarem por muito tempo sem se encontrar, seja no mundo dos Espíritos, seja em outras encarnações terrestres; ela é momentaneamente agravada pela ideia de que seu estado presente deve durar para sempre; fazendo esse pensamento parte do castigo, ele não lhes permitiu ouvir as palavras de esperança que lhes foram dirigidas. Àqueles que achassem esta pena muito terrível e muito longa, sobretudo se ela não deve cessar senão depois de várias encarnações, diremos que sua duração não é absoluta, e que ela dependerá da maneira como eles suportarem suas provas futuras, para o quê se pode ajudá-los pela prece; eles serão, como todos os Espíritos culpados, os árbitros de seu próprio destino. Isso, no entanto, não vale mais do que o castigo eterno, sem esperança, ao qual eles são irrevogavelmente condenados segundo a doutrina da Igreja, que tanto os olha como destinados para sempre ao inferno, que lhes recusou as últimas preces, sem dúvida consideradas inúteis?
 **Louis e a costureira de botinas**
@@ -208,136 +151,43 @@ Um dia, tendo Louis vindo, como habitualmente, cear na casa da costureira de bot
 No dia seguinte, entretanto, o sapateiro veio pedir perdão: a noite traz conselhos, como se sabe; mas a operária, prevendo talvez, pela cena da véspera, o que poderia ocorrer quando não fosse mais tempo de se desdizer, recusou reconciliar-se, e nem protestos, lágrimas, desespero, nada a pôde comover. Vários dias haviam transcorrido desde aquele da briga; Louis, esperando que sua bem-amada estaria mais afável, quis tentar uma última aproximação: chega portanto e bate de maneira a se fazer reconhecer, mas recusam-se a abrir-lhe a porta; então, novas súplicas por parte do pobre excluído, novos protestos através da porta, mas nada foi capaz de comover a implacável prometida. “Adeus então, malvada! exclama enfim o pobre rapaz, adeus para sempre! Tentai encontrar um marido que vos ame tanto quanto eu!”
 Ao mesmo tempo a moça ouve uma espécie de gemido abafado, e depois como que o barulho de um corpo que cai escorregando ao longo da porta, e tudo volta ao silêncio; então ela imagina que Louis se instalou na soleira para esperar que ela saia, mas ela decide não pôr os pés para fora enquanto ele lá estiver. Mal fazia um quarto de hora que isso acontecera, quando um locatário que passava no corredor levando luz, lança uma exclamação e pede socorro. Logo chegam os vizinhos, e a senhorita Victorine, tendo igualmente aberto sua porta, lança um grito de horror ao perceber estendido no chão seu prometido, pálido e inanimado. Todos se apressam a socorrê-lo, mas logo se apercebem de que tudo é inútil, e de que ele cessou de existir. O infeliz rapaz mergulhara seu trinchete na região do coração, e o ferro 38 permanecera na ferida.
 (Sociedade espírita de Paris, agosto de 1858.)
-
-## item 1
-
 1. Ao Espírito de São Luís. A jovem, causa involuntária da morte de seu amante, é responsável por isso? – R. Sim, pois ela não o amava.
-
-## item 2
-
 2. Para prevenir essa desgraça, ela devia desposá-lo apesar de sua repugnância? – R. Ela buscava uma ocasião para se separar dele; fez no começo de sua ligação o que teria feito mais tarde.
-
-## item 3
-
 3. Assim sua culpa consiste em ter alimentado nele sentimentos que ela não compartilhava, sentimentos que foram a causa da morte do rapaz? – R.Sim, é isso.
 Em francês tranchet: faca de sapateiro, para cortar couro. (N. R.)
-
-## item 4
-
 4. Sua responsabilidade, nesse caso, deve ser proporcional à sua falta; ela não deve ser tão grande quanto se ela tivesse provocado voluntariamente a morte? – R. Isso salta à vista.
-
-## item 5
-
 5. O suicídio de Louis encontra uma desculpa no desvario em que o mergulhou a obstinação de Victorine? – R. Sim, pois seu suicídio, que provém do amor, é menos criminoso aos olhos de Deus do que o suicídio do homem que quer libertar-se da vida por um motivo de covardia. Tendo o Espírito de Louis G... sido evocado outra vez, dirigimos-lhe as seguintes perguntas:
-
-## item 1
-
 1. O que pensais da ação que cometestes? – R. Victorine é uma ingrata, cometi um erro matando-me por ela, pois ela não o merecia.
-
-## item 2
-
 2. Então ela não vos amava? – R. Não; ela acreditou nisso no início; ela se iludia; a cena que eu lhe fiz abriu-lhe os olhos; então ela ficou contente com esse pretexto para se livrar de mim.
-
-## item 3
-
 3. E vós, vós a amáveis sinceramente? – R. Eu tinha paixão por ela; eis tudo, creio eu; se a tivesse amado com um amor puro, não teria querido magoála.
-
-## item 4
-
 4. Se ela tivesse sabido que queríeis realmente matar-vos, teria persistido em sua recusa? – R. Não sei; não creio, porque ela não é má; mas ela teria sido infeliz; é melhor para ela que isso tenha acontecido.
-
-## item 5
-
 5. Chegando à sua porta, tínheis a intenção de matar-vos em caso de recusa? – R. Não; não pensava nisso; não acreditava que ela seria tão obstinada; só quando vi sua obstinação, então fui tomado por uma vertigem.
-
-## item 6
-
 6. Pareceis lamentar vosso suicídio apenas porque Victorine não o merecia; é o único sentimento que experimentais? – R. Neste momento, sim; ainda estou totalmente perturbado; parece-me estar à porta; mas sinto outra coisa que não consigo definir.
-
-## item 7
-
 7. Vós o compreendereis mais tarde? – R. Sim, quando estiver esclarecido... Foi mau o que fiz; deveria tê-la deixado tranquila... Fui fraco, e por isso arco com a pena... Vede, a paixão cega o homem e o faz fazer muitas tolices. Ele as compreende quando já não há mais tempo.
-
-## item 8
-
 8. Dizeis que arcais com a pena; que pena sofreis? – R. Cometi o erro de abreviar minha vida; não devia tê-lo feito; devia suportar tudo em vez de acabar com isso antes do tempo; e depois, sou infeliz; sofro; é sempre ela que me faz sofrer; parece-me estar ainda ali, à sua porta; ingrata! Não me faleis mais disso; não quero mais pensar nisso; isso me faz demasiado mal. Adeus.
 Observação: Vê-se ainda aí uma nova prova da justiça distributiva que preside à punição dos culpados, segundo o grau da responsabilidade. Na circunstância presente, a primeira falta é da moça que cultivara em Louis um amor que ela não compartilhava, e do qual troçava; ela arcará, portanto, com a maior parte da responsabilidade. Quanto ao rapaz, é punido também pelo sofrimento que suporta; mas sua pena é leve, porque cedeu apenas a um movimento irrefletido e a um momento de exaltação, em vez da fria premeditação dos que se suicidam para se subtrair às provas da vida.
 **Um ateu**
 O Sr. J.-B. D... era um homem instruído, mas imbuído no último grau das ideias materialistas, não acreditava nem em Deus nem que tinha uma alma. Foi evocado dois anos após a morte, na Sociedade de Paris, a pedido de um dos seus parentes.
-
-## item 1
-
 1. Evocação. – R. Eu estou sofrendo! Estou condenado.
-
-## item 2
-
 2. Pediram-nos para vos chamar por parte de vossos parentes que desejam saber qual é vosso destino; tende a bondade de nos dizer se nossa evocação vos é agradável ou penosa. – R. Penosa.
-
-## item 3
-
 3. Vossa morte foi voluntária? – R. Sim. Nota: O Espírito escreve com extrema dificuldade; a letra é muito grande, irregular, convulsiva e quase ilegível. No início, mostra cólera, quebra o lápis e rasga o papel.
-
-## item 4
-
 4. Ficai mais calmo; nós todos oraremos a Deus por vós. – R. Sou forçado a crer em Deus.
-
-## item 5
-
 5. Que motivo pôde vos levar a vos destruirdes? – R. Tédio da vida sem esperança.
 Observação: Concebe-se o suicídio quando a vida é sem esperança; quer-se escapar da infelicidade a qualquer preço; com o Espiritismo o futuro se desenrola e a esperança se legitima: portanto, o suicídio não tem mais objeto; bem mais do que isso, reconhece-se que, por esse meio, não se escapa de um mal senão para cair num outro que é cem vezes pior. Eis porque o Espiritismo já arrancou tantas vítimas à morte voluntária. São bem culpados aqueles que se esforçam por fazer acreditada, por sofismas científicos e pretensamente em nome da razão, essa ideia desesperadora, fonte de tantos males e crimes, de que tudo acaba com a vida! Eles serão responsáveis, não só por seus próprios erros, mas por todos os males dos quais terão sido a causa.
-
-## item 6
-
 6. Quisestes escapar das vicissitudes da vida; ganhastes algo com isso? Sois mais feliz agora? – R. Por que o nada não existe?
-
-## item 7
-
 7. Tende a bondade de nos descrever vossa situação o melhor que conseguirdes. – R. Sofro por ser obrigado a crer em tudo que negava. Minha alma está como num braseiro; é atormentada horrivelmente.
-
-## item 8
-
 8. De onde vos vinham as ideias materialistas que tínheis em vida? – R. Numa outra existência eu fora malvado, e meu Espírito estava condenado a sofrer os tormentos da dúvida durante minha vida; assim eu me matei.
 Observação: Há aqui toda uma ordem de ideias. Pergunta-se frequentemente como pode haver materialistas, visto que tendo já passado pelo mundo espiritual, eles deveriam ter a intuição dele; ora, é precisamente essa intuição que é recusada a certos Espíritos que conservaram seu orgulho, e não se arrependeram de suas faltas. Sua prova consiste em adquirir, durante a vida corpórea, e por sua própria razão, a prova da existência de Deus e da vida futura que eles têm incessantemente sob dos olhos; mas com frequência a presunção de nada admitir acima de si leva a melhor, e eles arcam com a pena até que, tendo domado seu orgulho, se rendam por fim à evidência.
-
-## item 9
-
 9. Quando vos afogastes, o que pensáveis que vos aconteceria? Que reflexões fizestes naquele momento? – R. Nenhuma; era o nada para mim. Vi depois que, não tendo sofrido toda a minha condenação, ainda ia sofrer muito.
-
-## item 10
-
 10. Agora, estais bem convencido da existência de Deus, da alma e da vida futura? – R. Ah! Estou muito atormentado por isso!
-
-## item 11
-
 11. Revistes vosso irmão? – R. Oh! não.
-
-## item 12
-
 12. Por que isso? – R. Por que reunir nossos tormentos? Exilamo-nos na desgraça; ah, reunimo-nos na felicidade!
-
-## item 13
-
 13. Ficaríeis contente de rever vosso irmão que poderíamos chamar aqui, ao vosso lado? – R. Não, não, sou desprezível demais.
-
-## item 14
-
 14. Por que não quereis que o chamemos? – R. É que ele também não é feliz.
-
-## item 15
-
 15. Receais vê-lo? Isso poderia apenas vos fazer bem. – R. Não; mais tarde.
-
-## item 16
-
 16. Desejais dizer algo as vossos parentes? – R. Que orem por mim.
-
-## item 17
-
 17. Parece que, na sociedade que frequentáveis, algumas pessoas compartilham das opiniões que tínheis durante a vida; teríeis algo a lhes dizer a esse respeito? – R. Ah! Infelizes! Que eles possam crer numa outra vida! É o que lhes posso desejar de mais feliz; se pudessem compreender minha triste posição, isso os faria refletir muito.
 (Evocação do irmão do precedente, que professava as mesmas ideias, mas que não se suicidou. Embora infeliz, é mais calmo; sua letra é nítida e legível.)
-
-## item 18
-
 18. Evocação. – R. Que o quadro de nossos sofrimentos possa ser para vós uma útil lição, e persuadir-vos de que uma outra vida existe, na qual se expiam as faltas, a incredulidade.
 
 ## item 19
@@ -383,33 +233,12 @@ R. Obrigado, oh! obrigado por vossas boas exortações, precisava muito delas, p
 Contador numa casa bancária no Canadá; suicidou-se em 28 de fevereiro de 1865. Um de nossos correspondentes, médico e farmacêutico na mesma cidade, deu-nos a respeito dele as informações seguintes:
 “Eu conhecia Bell há mais de vinte anos. Era um homem inofensivo e pai de uma família numerosa. Há algum tempo, ele imaginara ter comprado veneno na minha loja e que o usara envenenando alguém. Viera muitas vezes me suplicar que lhe dissesse em que época eu lho vendera, e entregava-se então a delírios terríveis. Perdia o sono, acusava-se, batia no peito. Sua família vivia numa ansiedade contínua, das quatro horas da tarde até nove horas da manhã, momento em que ele ia à casa bancária onde mantinha seus livros de uma maneira muito regular, sem nunca cometer um único erro. Ele tinha o costume de dizer que um ser que ele sentia em si lhe fazia manter a contabilidade com ordem e regularidade. No momento em que parecia estar convencido do absurdo de seus pensamentos, exclamava: “Não, não, quereis enganar-me... eu me recordo ... isso é verdade.”
 Antoine Bell foi evocado em Paris, em 17 de abril de 1865, a pedido de seu amigo.
-
-## item 1
-
 1. Evocação. – O que quereis de mim? Fazer-me um interrogatório? É inútil, confessarei tudo.
-
-## item 2
-
 2. Está longe de nosso pensamento querer vos atormentar com perguntas indiscretas; desejamos somente saber qual é vossa posição no mundo em que estais, e se podemos vos ser úteis. – R. Ah! Se pudésseis, ficar-vos-ia muito agradecido! Tenho horror de meu crime, e sou bem desgraçado!
-
-## item 3
-
 3. Nossas preces, temos esperança disso, amenizarão vosso sofrimento. Vós nos pareceis, além disso, em boas condições; estais arrependido, e o arrependimento é já um começo de reabilitação. Deus, que é infinitamente misericordioso, sempre tem compaixão do pecador arrependido. Orai conosco. (Aqui, dissemos a prece pelos suicidas, que se encontra no Evangelho segundo o Espiritismo.)
 Agora, tende a bondade de nos dizer de que crime vos reconheceis culpado. Essa confissão feita com humildade ser-vos-á levada em conta. – R. Deixai-me primeiro agradecer-vos pela esperança que acabais de fazer nascer no meu coração. Infelizmente, há muito tempo já, eu vivia numa cidade cujas muralhas eram banhadas pelo mar do Sul. Eu amava uma bela e jovem garota que correspondia ao meu amor; mas eu era pobre, e fui repelido pela família dela. Ela me anunciou que ia desposar o filho de um negociante cujo comércio se estendia além dos dois mares, e eu fui mandado embora. Louco de dor, decidi matar-me, depois de ter saciado minha vingança assassinando meu rival execrado. No entanto, os meios violentos me repugnavam; eu tremia à ideia desse crime, mas meu ciúme levou a melhor. Na véspera do dia em que minha bem-amada devia ser dele, ele morreu envenenado pelos meus cuidados, achando eu esse meio mais fácil. Assim se explicam essas reminiscências do passado. Sim, eu já vivi, e é preciso que reviva ainda... Ó meu Deus, tende compaixão da minha fraqueza e das minhas lágrimas.
-
-## item 4
-
 4. Deploramos essa desgraça que retardou o vosso avanço, e lamentamos-vos sinceramente; mas, visto que vos arrependeis, Deus terá compaixão de vós. Dizei-nos, por favor, se executastes o vosso projeto de suicídio. – R. Não; para minha vergonha, confesso que a esperança me voltou ao coração, queria gozar do prêmio do meu crime; mas os remorsos me traíram; expiei pelo último suplício aquele momento de desvario: fui enforcado.
-
-## item 5
-
 5. Tínheis consciência dessa má ação em vossa última existência? – R. Nos últimos anos de minha vida unicamente, e eis como. Eu era bom por natureza; depois de ter sido submetido, como todos os Espíritos homicidas, ao tormento da visão contínua de minha vítima que me perseguia como um remorso vivo, fui libertado muitíssimos anos mais tarde pelas minhas preces e meu arrependimento. Recomecei mais uma vez a vida, a última, e atravessei-a pacífico e temeroso. Tinha em mim uma vaga intuição da minha fraqueza nativa e da minha falta anterior cuja recordação latente eu conservara. Mas um Espírito obsessor e vingativo, que não é outro senão o pai da minha vítima, não teve grande dificuldade em tomar conta de mim, e fazer reviver no meu coração, como num espelho mágico, as recordações do passado. Influenciado alternadamente por ele e pelo guia que me protegia, eu era o envenenador, ou o pai de família que ganhava o pão de seus filhos pelo seu trabalho. Fascinado por esse demônio obsessor, ele me impeliu ao suicídio. Sou muito culpado, é verdade, mas menos, não obstante, do que se tivesse resolvido eu mesmo fazê-lo. Os suicidas da minha categoria, e que são demasiado fracos para resistir aos Espíritos obsessores, são menos culpados e menos punidos do que aqueles que se matam devido unicamente ao seu livre-arbítrio. Orai comigo pelo Espírito que me influenciou tão fatalmente, a fim de que ele abdique de seus sentimentos de vingança, e orai também por mim, a fim de que eu adquira a força e a energia necessárias para não fraquejar na prova de suicídio por livre vontade à qual serei submetido, dizem-me, na minha próxima encarnação.
-
-## item 6
-
 6. Ao guia do médium. – Um Espírito obsessor pode realmente impelir ao suicídio? – R. Seguramente, pois a obsessão que, em si mesma, é um gênero de prova, pode revestir todas as formas; mas não é uma desculpa. O homem tem sempre seu livre-arbítrio, e, por conseguinte, é livre para ceder ou resistir às sugestões das quais é alvo; quando sucumbe é sempre pelo fato da sua vontade. O Espírito tem razão, além disso, quando diz que aquele que comete o mal por instigação de um outro é menos repreensível e menos punido do que quando o comete por seu próprio movimento; mas não é inocentado, porque, a partir do momento em que se deixa desviar do caminho reto, é porque o bem não está suficientemente bem enraizado nele.
-
-## item 7
-
 7. Como explicar que, apesar da prece e do arrependimento que haviam libertado este Espírito do tormento que ele experimentava pela visão de sua vítima, ele tenha sido ainda perseguido pela vingança do Espírito obsessor na sua última encarnação? – R. O arrependimento, como sabeis, não é senão o preliminar indispensável da reabilitação, mas ele não basta para libertar o culpado de toda pena; Deus não se contenta com promessas; é preciso provar, pelos seus atos, a solidez do retorno ao bem; é por isso que o Espírito é submetido a novas provas que o fortalecem, ao mesmo tempo que elas o fazem adquirir um mérito a mais quando sai delas vitorioso. Ele é alvo das perseguições dos maus Espíritos, até que estes o sintam suficientemente forte para lhes resistir; então eles o deixam em paz, porque sabem que suas tentativas seriam inúteis.
 Observação: Estes dois últimos exemplos nos mostram a mesma prova se renovando a cada encarnação, por tanto tempo quanto se sucumbir a ela. Antoine Bell nos mostra, ademais, o fato não menos instrutivo de um homem perseguido pela recordação de um crime cometido numa existência anterior, como um remorso e um aviso. Vemos por aí que todas as existências são solidárias umas das outras; a justiça e a bondade de Deus declaram-se na faculdade que ele deixa ao homem de se aperfeiçoar gradualmente, sem nunca lhe fechar a porta do resgate de suas faltas; o culpado é punido por sua própria falta, e a punição, em vez de ser uma vingança de Deus, é o meio empregado para fazê-lo progredir.

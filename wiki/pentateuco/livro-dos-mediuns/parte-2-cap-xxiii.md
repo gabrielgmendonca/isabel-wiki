@@ -162,48 +162,21 @@ o que for simplesmente duvidoso.
 ## item 243
 
 243. Reconhece-se a obsessão pelas seguintes características:
-
-## item 1
-
 1.ª — Persistência de um Espírito em se comunicar, bom ou mau grado, pela
 escrita, pela audição, pela tiptologia, etc., opondo-se a que outros
 Espíritos o façam;
-
-## item 2
-
 2.ª — Ilusão que, não obstante a
 inteligência do médium, o impede de reconhecer a falsidade e o ridículo
 das comunicações que recebe;
-
-## item 3
-
 3.ª — Crença na
 infalibilidade e na identidade absoluta dos Espíritos que se comunicam e
 que, sob nomes respeitáveis e venerados, dizem coisas falsas ou
 absurdas;
-
-## item 4
-
 4.ª — Confiança do médium nos elogios que lhe dispensam os Espíritos que por ele se comunicam;
-
-## item 5
-
 5.ª — Disposição para se afastar das pessoas que podem emitir opiniões aproveitáveis;
-
-## item 6
-
 6.ª — Tomar a mal a crítica das comunicações que recebe;
-
-## item 7
-
 7.ª — Necessidade incessante e inoportuna de escrever;
-
-## item 8
-
 8.ª — Constrangimento físico qualquer, dominando-lhe a vontade e forçando-o a agir ou falar a seu mau grado;
-
-## item 9
-
 9.ª — Rumores e desordens persistentes ao redor do médium, sendo ele de tudo a causa, ou o objeto.
 
 ## item 244
@@ -495,18 +468,12 @@ que obtivemos:
 254. Terminaremos este
 capítulo inserindo as respostas que os Espíritos deram a algumas
 perguntas e que vêm em apoio do que dissemos.
-
-## item 1
-
 1.ª. Por que não podem certos médiuns desembaraçar-se de Espíritos maus que se lhes ligam e como é que os bons Espíritos que eles chamam não se mostram bastante poderosos para afastar os outros e se comunicar diretamente?
 “Não é que falte poder ao Espírito bom; é, as mais das vezes, que o
 médium não é bastante forte para o segundar; é que sua natureza se
 presta melhor a outras relações; é que seu fluido se identifica mais com
 o de um Espírito do que com o de outro. Isso o que dá tão grande
 império aos que entendem de ludibriá-los.”
-
-## item 2
-
 2.ª. Parece-nos,
 entretanto, que há pessoas de muito mérito, de irrepreensível moralidade
 e que, apesar de tudo, se veem impedidas de comunicar com os bons
@@ -525,26 +492,17 @@ avaro, ciumento, rancoroso, maldizente e mil outras coisas que não
 percebeis, porque as vossas relações com ele não vos deram lugar a
 descobri-las? O mais poderoso meio de combater a influência dos maus
 Espíritos é aproximar-se o mais possível da natureza dos bons.”
-
-## item 3
-
 3.ª. A obsessão, que impede um médium de receber as comunicações que deseje, é sempre um sinal de indignidade da sua parte?
 “Eu não disse que é um sinal de indignidade, mas que um obstáculo pode
 opor-se a certas comunicações; em remover o obstáculo que está nele, é o
 a que deve aplicar-se; sem isso, suas preces, suas súplicas nada farão.
 Não basta que um doente diga ao seu médico: dê-me saúde, quero passar
 bem. O médico nada pode, se o doente não faz o que é preciso.”
-
-## item 4
-
 4.ª. Assim, a impossibilidade de comunicar com os bons Espíritos seria uma espécie de punição?
 “Em certos casos, pode ser uma verdadeira punição, como a
 possibilidade de comunicar com eles é uma recompensa que deveis
 esforçar-vos por merecer.” (Veja-se —
 Perda e suspensão da mediunidade, n.º 220.)
-
-## item 5
-
 5.ª. Não se pode também combater a influência dos maus Espíritos, moralizando-os?
 “Sim, mas é o que não se faz e é o que não se deve descurar de fazer,
 porquanto, muitas vezes, isso constitui uma tarefa que vos é dada e que
@@ -568,9 +526,6 @@ exercer sobre os Espíritos está na razão da sua superioridade moral. Ele
 não domina os Espíritos superiores, nem mesmo os que, sem serem
 superiores, são bons e benevolentes, mas pode dominar os que lhe são
 inferiores em moralidade.” (Veja-se o n.º 279.)
-
-## item 6
-
 6.ª. A subjugação corporal, levada a certo grau, poderá ter como consequência a loucura?
 “Pode, a uma espécie de loucura cuja causa o mundo desconhece, mas
 que não tem relação alguma com a loucura ordinária. Entre os que são
@@ -579,9 +534,6 @@ tratamento moral, enquanto que com os tratamentos corporais os tornamos
 verdadeiros loucos. Quando os médicos conhecerem bem o Espiritismo,
 saberão fazer essa distinção e curarão mais doentes do que com as
 duchas.” (N.º 221.)
-
-## item 7
-
 7.ª. Que se deve pensar dos que, vendo um
 perigo qualquer no Espiritismo, julgam que o meio de preveni-lo seria
 proibir as comunicações espíritas?

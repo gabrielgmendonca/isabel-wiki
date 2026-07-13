@@ -20,18 +20,12 @@ de alguns Espíritos em darem mostras ostensivas de sua presença em
 certas localidades, constituem a fonte de origem da crença na existência
 de lugares mal-assombrados. As respostas que se seguem foram dadas a
 perguntas feitas sobre este assunto:
-
-## item 1
-
 1.ª. Os Espíritos se apegam unicamente às pessoas, ou também
 às coisas?
 “Depende da elevação deles. Alguns Espíritos podem
 apegar-se aos objetos terrenos. Os avarentos, por exemplo, que esconderam seus
 tesouros e que ainda não estão bastante desmaterializados, muitas vezes se
 obstinam em vigiá-los e montar-lhes guarda.”
-
-## item 2
-
 2.ª. Têm os Espíritos errantes lugares de sua predileção?
 “O princípio ainda é aqui o mesmo. Os Espíritos que
 já se não acham apegados à Terra vão para onde se lhes oferece ensejo de
@@ -39,16 +33,10 @@ praticar o amor. São atraídos mais pelas pessoas do que pelos objetos
 materiais. Contudo, pode dar-se que dentre eles alguns tenham, durante certo
 tempo, preferência por determinados lugares. Esses, porém, são sempre Espíritos
 inferiores.”
-
-## item 3
-
 3.ª. O apego dos Espíritos a uma localidade, sendo
 sinal de inferioridade, constituirá igualmente prova de serem eles maus?
 “Certamente que não. Pode um Espírito ser pouco
 adiantado, sem que por isso seja mau. Não se observa o mesmo entre os homens?”
-
-## item 4
-
 4.ª. Tem qualquer
 fundamento a crença de que os Espíritos frequentam de preferência as ruínas?
 “Nenhum. Os Espíritos vão a tais lugares, como a
@@ -67,9 +55,6 @@ que, se alguns se conservam insulados, é porque assim lhes apraz. Isso, porém,
 não constitui motivo para que forçosamente tenham predileção pelas ruínas. Em
 muito maior número os há nas cidades e nos palácios, do que no interior dos
 bosques.”
-
-## item 5
-
 5.ª. Em geral, as crenças populares guardam um fundo de
 verdade. Qual terá sido a origem da crença em lugares mal-assombrados?
 “O fundo de verdade está na manifestação dos Espíritos, na
@@ -78,9 +63,6 @@ disse acima, o aspecto lúgubre de certos lugares lhe fere a imaginação e esta
 leva naturalmente a colocar nesses lugares os seres que ele considera
 sobrenaturais. Demais, a entreter essa crença supersticiosa, aí estão as
 narrativas poéticas e os contos fantásticos com que o acalentam na infância.”
-
-## item 6
-
 6.ª. Há, para os
 Espíritos que costumam reunir-se, dias e horas em que prefiram fazê-lo?
 “Não. Os dias e as horas são medidas de tempo para uso dos
@@ -98,9 +80,6 @@ sexta-feira, por exemplo?
 Espíritos que aproveitam a credulidade dos homens para se divertirem. Pela
 mesma razão, há os que se dizem o diabo, ou dão a si mesmos nomes infernais.
 Mostrai-lhes que não vos deixais enganar e não mais voltarão.”
-
-## item 8
-
 8.ª. Preferem os Espíritos frequentar os túmulos onde
 repousam seus corpos?
 “O corpo era uma simples vestimenta. Do mesmo modo
@@ -117,9 +96,6 @@ ao Espírito e que nunca deixa de o sensibilizar. O que atua sobre o Espírito �
 sempre o pensamento e não os objetos materiais. Mais influência, do que sobre o
 Espírito, exercem esses objetos sobre aquele que ora, porque lhe fixam a
 atenção.”
-
-## item 9
-
 9.ª. A vista disso, parece que não se deve considerar
 absolutamente falsa a crença em lugares mal-assombrados?
 “Dissemos que certos Espíritos podem sentir-se atraídos por
@@ -133,9 +109,6 @@ louváveis. Quando são Espíritos maus, podem pretender tirar vingança de pess
 de quem guardam queixas. A permanência em determinado lugar também pode ser,
 para alguns, uma punição que lhes é infligida, sobretudo se ali cometeram um
 crime, a fim de que o tenham constantemente diante dos olhos\*.”
-
-## item 10
-
 10.ª. Os lugares assombrados sempre o são por antigos
 habitantes deles?
 “Sempre, não; — às vezes, porquanto, se o antigo habitante de
@@ -149,15 +122,9 @@ de protegerem uma pessoa,
 ou a própria família?
 “Certamente, se forem Espíritos bons; porém, neste
 caso, nunca manifestam sua presença por meios desagradáveis.”
-
-## item 11
-
 11.ª. Haverá alguma coisa de real na história da Dama Branca?
 “Mero conto, extraído de
 mil fatos verdadeiros.”
-
-## item 12
-
 12.ª. Será racional temerem-se os lugares assombrados
 pelos Espíritos?
 “Não. Os Espíritos que frequentam certos lugares,
@@ -167,9 +134,6 @@ que em toda parte há Espíritos e de que, assim, onde quer que estejais, os
 tereis ao vosso lado, ainda mesmo nas mais tranquilas habitações. Quase sempre,
 eles só assombram certas casas, porque encontram ensejo de manifestarem sua
 presença nelas.”
-
-## item 13
-
 13.ª. Haverá meios de os
 expulsar?
 “Há; o que as mais das vezes fazem para
@@ -186,9 +150,6 @@ como prova, para lhes exercitar a paciência e concitá-las a se tornarem ainda
 melhores. Fica certo, porém, de que não são os que continuamente falam das
 virtudes os que mais as possuem. Aquele que é possuidor de qualidades reais
 quase sempre o ignora, ou delas nunca fala.”
-
-## item 14
-
 14.ª.
 Que se deve pensar com relação à eficácia dos exorcismos, para expelir dos
 lugares mal-assombrados os maus Espíritos?

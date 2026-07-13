@@ -190,46 +190,22 @@ que digamos, levianamente, de um assunto que desconhecemos.
 ## item 14
 
 14. Resumimos nas proposições seguintes o que havemos expedido:
-
-## item 1
-
 1.º. Todos os fenômenos espíritas têm por princípio a existência da alma, sua sobrevivência ao corpo e suas manifestações.
-
-## item 2
-
 2.º. Fundando-se numa lei da natureza, esses fenômenos nada têm de
 maravilhosos, nem de sobrenaturais, no sentido vulgar dessas palavras.
-
-## item 3
-
 3.º. Muitos fatos são tidos por sobrenaturais, porque não se lhes
 conhece a causa; atribuindo-lhes uma causa, o Espiritismo os repõe no
 domínio dos fenômenos naturais.
-
-## item 4
-
 4.º. Entre os fatos qualificados
 de sobrenaturais, muitos há cuja impossibilidade o Espiritismo
 demonstra, incluindo-os em o número das crenças supersticiosas.
-
-## item 5
-
 5.º. Se bem reconheça um fundo de verdade em muitas crenças populares, o
 Espiritismo de modo algum dá sua solidariedade a todas as histórias
 fantásticas que a imaginação há criado.
-
-## item 6
-
 6.º. Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
-
-## item 7
-
 7.º. A explicação dos fatos que o Espiritismo admite, de suas causas e
 consequências morais, forma toda uma ciência e toda uma filosofia, que
 reclamam estudo sério, perseverante e aprofundado.
-
-## item 8
-
 8.º.
 O Espiritismo não pode considerar crítico sério, senão aquele que tudo
 tenha visto, estudado e aprofundado com a paciência e a perseverança de

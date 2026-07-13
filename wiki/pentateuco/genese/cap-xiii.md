@@ -162,9 +162,6 @@ dadas circunstâncias, o efeito da gravidade, como o hidrogênio
 contrabalança o peso do balão? É, efetivamente, o
 que sucede, no caso de que se trata. (
 *O Livro dos Médiuns*,
-
-## item 2
-
 2.
 a Parte, cap. IV.)
 

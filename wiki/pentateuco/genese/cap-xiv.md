@@ -383,9 +383,6 @@ material, para o homem vivo; mas, pela razão de serem
 criações do pensamento, a existência deles é tão fugitiva
 quanto a deste.\*
 \* *Revue spirite*, junho de 1859, pág. 184. — *O Livro dos Médiuns*,
-
-## item 2
-
 2.ª Parte, cap. VIII.
 
 ## item 15
@@ -858,15 +855,9 @@ especiais.
 
 33. A ação magnética pode produzir-se de muitas
 maneiras:
-
-## item 1
-
 1.º pelo próprio fluido do magnetizador; é o magnetismo
 propriamente dito, ou magnetismo humano, cuja ação
 se acha adstrita à força e, sobretudo, à qualidade do fluido;
-
-## item 2
-
 2.º pelo fluido dos Espíritos, atuando diretamente e sem
 intermediário sobre um encarnado, seja para o curar ou
 acalmar um sofrimento, seja para provocar o sono
@@ -874,9 +865,6 @@ sonambúlico espontâneo, seja para exercer sobre o indivíduo
 uma influência física ou moral qualquer. É o
 magnetismo espiritual, cuja qualidade está na razão direta
 das qualidades do Espírito;\*
-
-## item 3
-
 3.º pelos fluidos que os Espíritos derramam sobre o
 magnetizador, que serve de veículo para esse derramamento.
 É o magnetismo misto, semiespiritual, ou, se o preferirem,

@@ -341,9 +341,6 @@ este respeito, apenas citaremos o diálogo provocado a propósito dos
 fatos ocorridos em junho de 1860, na rua des Noyers, em Paris.
 Encontrar-se-ão os pormenores do caso na
 Revue spirite, número de agosto de 1860.
-
-## item 1
-
 1.ª. (A São Luís.) Quererias ter a bondade de nos dizer se são reais os fatos que se dizem passados
 na rua des Noyers? Quanto à possibilidade deles se darem, disso não
 duvidamos.
@@ -351,17 +348,11 @@ duvidamos.
 dos homens os exagerará, seja por medo, seja por ironia. Mas, repito,
 são reais. Produz essas manifestações um Espírito que se diverte um
 pouco à custa dos habitantes do lugar.”
-
-## item 2
-
 2.ª. Haverá na casa alguma pessoa que dê causa a tais manifestações?
 “Elas são sempre causadas pela presença da pessoa visada. É que o
 Espírito perturbador não gosta do habitante do lugar onde ele se acha;
 trata então de fazer-lhe maldades, ou mesmo procura obrigá-lo a
 mudar-se.”
-
-## item 3
-
 3.ª. Perguntamos se, entre os moradores da casa,
 alguém há que seja causador desses fenômenos, por efeito de uma
 influência mediúnica espontânea e involuntária?
@@ -369,17 +360,11 @@ influência mediúnica espontânea e involuntária?
 Espírito vive num lugar que lhe é predileto; conserva-se inativo,
 enquanto nesse lugar não se apresenta uma pessoa que lhe convenha. Desde
 que essa pessoa surge, começa ele a divertir-se quanto pode.”
-
-## item 4
-
 4.ª. Será indispensável a presença dessa pessoa no próprio lugar?
 “Esse é o caso mais comum e é o que se verifica no de que tratas. Por
 isso foi que eu disse que, a não ser assim, o fato não teria podido
 produzir-se. Mas, não pretendi generalizar. Há casos em que a presença
 imediata não é necessária.”
-
-## item 5
-
 5.ª. Sendo sempre de ordem inferior
 esses Espíritos, constituirá presunção desfavorável a uma pessoa a
 aptidão que revele para lhes servir de auxiliar? Isto não denuncia, da
@@ -390,17 +375,11 @@ disposição física. Contudo, denuncia frequentemente uma tendência
 material, que seria preferível não existisse, visto que, quanto mais
 elevado moralmente é o homem, tanto mais atrai a si os bons Espíritos
 que, necessariamente, afastam os maus.”
-
-## item 6
-
 6.ª. Onde vai o Espírito buscar os projetis de que se serve?
 “Os diversos objetos que lhe servem de projetis são, as mais das
 vezes, apanhados nos próprios lugares dos fenômenos, ou nas
 proximidades. Uma força provinda do Espírito os lança no espaço e eles
 vão cair no ponto que o mesmo Espírito indica.”
-
-## item 7
-
 7.ª. Pois que as
 manifestações espontâneas são muitas vezes permitidas e até provocadas
 para convencer os homens, parece-nos que, se fossem pessoalmente
@@ -429,108 +408,57 @@ responsabilidade da teimosia em que se conservam e essa
 responsabilidade é mais terrível do que podeis supor. Felizes os que
 creem sem ter visto, disse Jesus, porque esses não duvidam do poder de
 Deus.”
-
-## item 8
-
 8.ª. Achas que convém evoquemos o Espírito a que nos temos referido, para lhe pedirmos algumas explicações?
 “Evoca-o, se quiseres, mas é um Espírito inferior, que só te dará respostas muito insignificantes.”
 
 ## item 95
 
 95. Diálogo com o Espírito perturbador da rua des Noyers:
-
-## item 1
-
 1.ª. Evocação.
 “Que tinhas de me chamar? Queres umas pedradas? Então é que se havia
 de ver um bonito salve-se quem puder, não obstante o teu ar de
 valentia.”
-
-## item 2
-
 2.ª. Quando mesmo nos atirasses pedras aqui, isso não
 nos amedrontaria; até te pedimos positivamente que, se puderes, nos
 atires algumas.
 “Aqui talvez eu não pudesse, porque tens um guarda a velar por ti.”
-
-## item 3
-
 3.ª. Havia, na rua des Noyers, alguém que, como auxiliar, te facilitava as partidas que pregavas aos moradores da casa?
 “Certamente; achei um bom instrumento e não havia nenhum Espírito
 douto, sábio e virtuoso para me embaraçar. Porque sou alegre; gosto às
 vezes de me divertir.”
-
-## item 4
-
 4.ª. Qual a pessoa que te serviu de instrumento?
 “Uma criada.”
-
-## item 5
-
 5.ª. Era mau grado seu que ela te auxiliava?
 “Ah! sim; pobre! era a que mais medo tinha!”
-
-## item 6
-
 6.ª. Procedias assim com algum propósito hostil?
 “Eu, não. Nenhum propósito hostil me animava. Mas, os homens, que de
 tudo se apoderam, farão que os fatos redundem em seu proveito.”
-
-## item 7
-
 7.ª. Que queres dizer com isso? Não te compreendemos.
 “Eu só cuidava de me divertir; vós outros, porém, estudareis a coisa e tereis mais um fato a mostrar que nós existimos.”
-
-## item 8
-
 8.ª. Dizes que não alimentavas nenhum propósito hostil; entretanto,
 quebraste todo o ladrilho da casa. Causaste assim um prejuízo real.
 “É um acidente.”
-
-## item 9
-
 9.ª. Onde foste buscar os objetos que atiraste?
 “São objetos muito comuns. Achei-os no pátio e nos jardins próximos.”
-
-## item 10
-
 10.ª. Achaste-os todos, ou fabricaste algum? (Ver adiante o cap. VIII.)
 “Não criei, nem compus coisa alguma.”
-
-## item 11
-
 11.ª. E, se os não houvesse encontrado, terias podido fabricá-los?
 “Fora mais difícil. Porém, a rigor, misturam-se matérias e isso faz um todo qualquer.”
-
-## item 12
-
 12.ª. Agora, dize-nos; como os atiraste?
 “Ah! isto é mais difícil de explicar. Busquei auxílio na natureza
 elétrica daquela rapariga, juntando-a à minha, que é menos material.
 Pudemos assim os dois transportar os diversos objetos.”
-
-## item 13
-
 13.ª.
 Vais dar-nos de boa vontade, assim o esperamos, algumas informações
 acerca da tua pessoa. Dize-nos, primeiramente, se já morreste há muito
 tempo.
 “Há muito tempo; há bem cinquenta anos.”
-
-## item 14
-
 14.ª. Que eras quando vivo?
 “Não era lá grande coisa; simples trapeiro naquele quarteirão; às
 vezes me diziam tolices, porque eu gostava muito do licor vermelho do
 bom e velho Noé. Por isso mesmo, queria pô-los todos dali para fora.”
-
-## item 15
-
 15.ª. Foi por ti mesmo e de bom grado que respondeste às nossas perguntas?
 “Eu tinha um mestre.”
-
-## item 16
-
 16.ª. Quem é esse mestre?
 “O vosso bom rei Luís.”
 Nota.
@@ -544,22 +472,13 @@ outro Espírito se fez sentir na própria caligrafia. A das respostas em
 que ele interveio é mais regular e mais corrente, a do trapeiro é
 angulosa, grossa, irregular, às vezes pouco legível, denotando caráter
 muito diferente.
-
-## item 17
-
 17.ª. Que fazes agora? Ocupas-te com o teu futuro?
 “Ainda não; vagueio. Pensam tão pouco em mim na Terra, que ninguém roga por mim. Ora, não tendo quem me ajude, não trabalho.”
 Nota.
 Ver-se-á, mais tarde, quanto se pode contribuir para o progresso e o
 alívio dos Espíritos inferiores, por meio da prece e dos conselhos.
-
-## item 18
-
 18.ª. Como te chamavas quando vivo?
 “Jeannet.”
-
-## item 19
-
 19.ª. Está bem, Jeannet! oraremos por ti. Dize-nos se a nossa evocação te deu prazer ou te contrariou?
 “Antes prazer, pois que sois bons rapazes, viventes alegres, embora um
 pouco austeros. Não importa: ouviste-me, estou contente.”
@@ -738,16 +657,10 @@ ERASTO.”
 
 99. O fenômeno de transporte apresenta uma particularidade notável, e é que alguns médiuns só o obtém em estado sonambúlico, o que facilmente se explica. Há no sonâmbulo um desprendimento natural, uma espécie de isolamento do Espírito e do perispírito, que deve facilitar a combinação dos fluidos necessários. Tal o caso dos transportes de que temos sido testemunha.
 As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as respostas se ressentem por vezes da deficiência dos seus conhecimentos. Submetemo-las ao Espírito Erasto, muito mais instruído do ponto de vista teórico, e ele as completou, aditando-lhes notas muito judiciosas. Um é o artista, o outro o sábio, constituindo a própria comparação dessas inteligências um estudo instrutivo, porquanto prova que não basta ser Espírito para tudo saber.
-
-## item 1
-
 1.ª. Diz-nos, peço, por que os transportes que acabaste de executar só se produzem estando o médium em estado sonambúlico?
 “Isto se prende à natureza do médium. Os fatos que produzo, quando o meu está
 adormecido, poderia produzi-los igualmente com outro médium em estado
 de vigília.”
-
-## item 2
-
 2.ª. Por que fazes demorar tanto a trazida dos
 objetos e por que é que avivas a cobiça do médium, excitando-lhe o
 desejo de obter o objeto prometido?
@@ -762,36 +675,21 @@ efeito. Julga proporcionar um divertimento, enquanto que, na realidade,
 provoca, sem o suspeitar, uma emissão maior de fluido. É uma
 consequência da dificuldade que o fenômeno apresenta, dificuldade sempre
 maior quando ele não é espontâneo, sobretudo com certos médiuns.
-
-## item 3
-
 3.ª. Depende da natureza especial do médium a produção do fenômeno e
 poderia produzir-se por outros médiuns com mais facilidade e presteza?
 “A produção depende da natureza do médium e o fenômeno não se pode
 produzir, senão por meio de naturezas correspondentes. Pelo que toca à
 presteza, o hábito que adquirimos, comunicando-nos frequentemente com o
 mesmo médium, nos é de grande vantagem.”
-
-## item 4
-
 4.ª. As pessoas presentes influem alguma coisa no fenômeno?
 “Quando há da parte delas incredulidade, oposição, muito nos podem
 embaraçar. Preferimos apresentar nossas provas aos crentes e a pessoas
 versadas no Espiritismo. Não quero, porém, dizer com isso que a má
 vontade consiga paralisar-nos inteiramente.”
-
-## item 5
-
 5.ª. Onde foste buscar as flores e os confeitos que trouxeste para aqui?
 “As flores, tomo-as aos jardins, onde bem me parece.”
-
-## item 6
-
 6.ª. E os confeitos? Devem ter feito falta ao respectivo negociante.
 “Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.”
-
-## item 7
-
 7.ª. Mas, os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?
 “Tirei-os de lugares que todos desconhecem e fi-lo por maneira que daí não resultará prejuízo para ninguém.”
 Nota de Erasto.
@@ -804,26 +702,14 @@ se um Espírito tivesse a faculdade de substituir, por outro objeto
 igual, um de que se apodera, já não teria razão para se apossar deste,
 visto que poderia dar o de que se iria servir para substituir o objeto
 retirado.
-
-## item 8
-
 8.ª. Será possível trazer flores de outro planeta?
 “Não; a mim não me é possível.”
 (A Erasto.) Teriam outros Espíritos esse poder?
 “Não, isso não é possível, em virtude da diferença dos meios ambientes.”
-
-## item 9
-
 9.ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?
 “Desde que seja da Terra, posso.”
-
-## item 10
-
 10.ª. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?
 “Assim como os trouxe aqui, posso levá-los, à minha vontade.”
-
-## item 11
-
 11.ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
 “Não nos é penosa em nada, quando temos permissão para operá-los.
 Poderia ser-nos grandemente penosa, se quiséssemos produzir efeitos para
@@ -831,14 +717,8 @@ os quais não estivéssemos autorizados.”
 Nota de Erasto.
 Ele não quer convir em que isso lhe é penoso, embora o seja realmente,
 pois que se vê forçado a executar uma operação por assim dizer material.
-
-## item 12
-
 12.ª. Quais são as dificuldades que encontras?
 “Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”
-
-## item 13
-
 13.ª. Como trazes o objeto? Será segurando-o com as mãos?
 “Não; envolvo-o em mim mesmo.”
 Nota de Erasto.
@@ -848,9 +728,6 @@ dilatável, combina uma parte desse fluido com o fluido animalizado do
 médium e é nesta combinação que oculta e transporta o objeto que
 escolheu para transportar. Ele, pois, não exprime com justeza o fato,
 dizendo que envolve em si o objeto.
-
-## item 14
-
 14.ª. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos, por exemplo?
 “O peso nada é para nós. Trazemos flores, porque agrada mais do que um volume pesado.”
 Nota de Erasto.
@@ -862,9 +739,6 @@ proporção com a resistência; donde se segue que, se o Espírito apenas
 traz uma flor ou um objeto leve, é muitas vezes porque não encontra no
 médium, ou em si mesmo, os elementos necessários para um esforço mais
 considerável.
-
-## item 15
-
 15.ª. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?
 “Isso se dá com frequência; com mais frequência do que supondes; mas
 isso se pode remediar, pedindo ao Espírito que traga de novo o objeto
@@ -878,9 +752,6 @@ deles reclama, ela só se pode dar com o concurso de médiuns dotados de
 faculdades especiais. Por isso, quando alguma coisa desapareça, é mais
 provável que o fato seja devido a descuido vosso, do que à ação dos
 Espíritos.
-
-## item 16
-
 16.ª. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?
 “Nos dias que correm, abundam fatos dessa ordem, fatos que não
 percebeis, porque neles não pensais, mas que, com um pouco de reflexão,
@@ -890,30 +761,18 @@ Não atribuais aos Espíritos o que é obra do homem; mas, crede na
 influência deles, oculta, constante, a criar em torno de vós mil
 circunstâncias, mil incidentes necessários ao cumprimento dos vossos
 atos, da vossa existência.
-
-## item 17
-
 17.ª. Entre os objetos que os
 Espíritos costumam trazer, não haverá alguns que eles próprios possam
 fabricar, isto é, produzidos espontaneamente pelas modificações que os
 Espíritos possam operar no fluido, ou no elemento universal?
 “Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”
-
-## item 18
-
 18.ª. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?
 “Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”
-
-## item 19
-
 19.ª. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?
 “Tirei a matéria que os envolvia.”
 Nota de Erasto.
 O que os envolve não é matéria propriamente dita, mas um fluido tirado,
 metade, do perispírito do médium, e, metade, do Espírito que opera.
-
-## item 20
-
 20.ª. (A Erasto.) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa
 palavra: pode o Espírito espiritualizar um objeto material, de maneira
 que se torne capaz de penetrar a matéria?

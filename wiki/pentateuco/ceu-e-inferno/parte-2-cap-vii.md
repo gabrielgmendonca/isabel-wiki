@@ -75,29 +75,11 @@ Trabalhai, trabalhai sem cessar; cumpri todos os vossos deveres sem exceção; c
 MONOD
 **Um Espírito aborrecido**
 Este Espírito apresenta-se espontaneamente ao médium, e reclama preces.
-
-## item 1
-
 1. O que vos leva a pedir preces? – R. Estou cansado de vagar sem objetivo. P. – Há muito tempo que estais nessa posição? – R. Cento e oitenta anos aproximadamente. – O que fizestes na terra? – R. Nada de bom.
-
-## item 2
-
 2. Qual é vossa posição entre os Espíritos? – R. Estou entre os entediados. P. – Isso não forma uma categoria. – R. Tudo forma categoria entre nós. Cada sensação encontra ou seus semelhantes, ou seus simpatizantes que se reúnem.
-
-## item 3
-
 3. Por que, se não estáveis condenado ao sofrimento, permanecestes tanto tempo sem vos aperfeiçoardes? – R. Estava condenado ao tédio, é um sofrimento entre nós; tudo o que não é alegria é dor. P. – Fostes, portanto, forçado a permanecer errante contra vossa vontade? – R. São causas demasiado sutis para vossa inteligência material. P. – Tentai fazer-me compreendê-las; será um começo de utilidade para vós. – R. Eu não poderia, porque não tem termo de comparação. Uma vida extinta na terra deixa ao Espírito que não a aproveitou, o que o fogo deixa ao papel que consumiu: faíscas, que lembram às cinzas ainda unidas entre si o que foram e a causa do seu nascimento, ou se quiseres, da destruição do papel. Essas faíscas são a lembrança dos laços terrestres que percorrem o Espírito até que ele tenha dispersado as cinzas de seu corpo. Somente então ele se reencontra, essência etérea, e deseja o progresso.
-
-## item 4
-
 4. Quem pode vos ocasionar o tédio de que vos queixais? – R. Consequência da existência. O tédio é o filho da ociosidade; eu não soube empregar os longos anos que passei na terra, sua consequência se faz sentir em nosso mundo.
-
-## item 5
-
 5. Os Espíritos que, como vós, vagam atormentados pelo tédio, não podem fazer cessar esse estado quando querem? – R. Não, eles nem sempre podem, porque o tédio lhes paralisa a vontade. Eles sofrem as consequências de sua existência; foram inúteis, não tiveram nenhuma iniciativa, não encontram nenhuma ajuda entre si. Ficam abandonados a si mesmos até que a lassidão desse estado neutro os faça desejar mudar; então, à menor vontade que desperta neles, eles encontram apoio e bons conselhos para auxiliar seus esforços e perseverar.
-
-## item 6
-
 6. Podeis dizer-me alguma coisa sobre a vossa vida terrestre? – R. Ah, bem pouca coisa, deves compreendê-lo. O tédio, a inutilidade, a ociosidade provêm da preguiça; a preguiça é mãe da ignorância.
 
 ## item 7
@@ -114,42 +96,15 @@ Este Espírito apresenta-se espontaneamente ao médium, e reclama preces.
 O guia do médium. É o trabalho da inteligência que o cansa e que nos obriga a lhe prestar ajuda para que ele possa responder às tuas perguntas. É um desocupado do mundo dos Espíritos como o foi do mundo terrestre. Trouxemo-lo para tentar tirá-lo da apatia desse tédio que é um verdadeiro sofrimento, mais penoso às vezes do que os sofrimentos agudos, pois ela pode prolongar-se indefinidamente. Consegues imaginar a tortura da perspectiva de um tédio sem fim? A maioria dos Espíritos dessa categoria busca uma existência terrestre apenas como distração, e para romper a insuportável monotonia de sua existência espiritual; assim eles chegam aí muitas vezes sem resoluções tomadas para o bem, é por isso que devem recomeçar até que, enfim, o progresso real se faça sentir neles.
 **A rainha de Oude**
 Morta na França em 1858.
-
-## item 1
-
 1. Que sensação experimentastes ao deixar a vida terrestre? – R. Não saberia dizê-lo; ainda experimento perturbação. P. – Sois feliz? – R. Lamento a vida... não sei... sinto uma dor pungente; a vida me teria libertado dela... gostaria que meu corpo se levantasse do sepulcro.
-
-## item 2
-
 2. Lamentais não ter sido sepultada no vosso país e de tê-lo sido entre os cristãos? – R. Sim, a terra indiana pesaria menos sobre o meu corpo. P. – O que pensais da cerimônia fúnebre prestada aos vossos restos mortais? – R. Foi bem pouca coisa; eu era rainha, e nem todos se ajoelharam diante de mim... Deixaime... obrigam-me a falar... não quero que saibais o que sou agora... eu fui rainha, sabei-o bem.
-
-## item 3
-
 3. Respeitamos vossa posição, e pedimos-vos que aceiteis responder para nossa instrução. Pensais que vosso filho recuperará um dia os Estados de seu pai? – R. Certamente, meu sangue reinará; ele é digno disso. P. – Atribuís à reintegração de vosso filho a mesma importância que quando viva? – R. Meu sangue não pode ser confundido na multidão.
-
-## item 4
-
 4. Não foi possível escrever na vossa certidão de óbito o vosso lugar de nascimento; poderíeis dizê-lo agora? – R. Nasci do mais nobre sangue da Índia. Creio que nasci em Delhi.
-
-## item 5
-
 5. Vós que vivestes nos esplendores do luxo, e que estivestes rodeada de honras, o que pensais disso agora? – R. Elas me eram devidas. P. – A posição que ocupastes na terra vos dá uma posição mais elevada no mundo em que estais hoje? – R. Sou sempre rainha... enviem-me escravos para me servir!... Não sei: não parece que se preocupem comigo aqui... no entanto, eu sou sempre eu.
-
-## item 6
-
 6. Pertencíeis à religião muçulmana, ou a uma religião hindu? – R. Muçulmana; mas eu era demasiado grande para me ocupar de Deus. P. – Que diferença fazeis entre a religião que professáveis e a religião cristã, para a felicidade da humanidade. – R. A religião cristã é absurda; diz que todos são irmãos. P. – Qual é vossa opinião sobre Maomé? – R. Ele não era filho de rei. P.
 – Credes que ele tinha uma missão divina? – R. Que me importa isso! P. – Qual é vossa opinião sobre o Cristo? – R. O filho do carpinteiro não é digno de ocupar meu pensamento.
-
-## item 7
-
 7. O que pensais do uso que subtrai as mulheres muçulmanas dos olhares dos homens? – R. Penso que as mulheres são feitas para dominar: eu era mulher. P. – Invejastes algumas vezes a liberdade de que gozam as mulheres na Europa? – R. Não; que me importava a liberdade delas! São servidas de joelhos?
-
-## item 8
-
 8. Recordais-vos de ter tido outras existências na terra antes desta que acabais de deixar? – R. Devo ter sido sempre rainha.
-
-## item 9
-
 9. Por que viestes tão prontamente ao nosso apelo? – R. Eu não o quis; forçaram-me a isso... Pensas que eu me teria dignado a responder? O que sois vós perto de mim? P. – Quem vos forçou a vir? – R. Não o sei... porém, não deve haver alguém maior do que eu.
 
 ## item 10

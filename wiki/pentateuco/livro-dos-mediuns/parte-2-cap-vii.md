@@ -141,9 +141,6 @@ Santo Antônio de Pádua estava pregando na Itália (vide nota especial à pági
 Antônio aparece e demonstra a inocência do acusado. Comprovou-se que,
 naquele instante, Santo Antônio pregava na Itália, na cidade de Pádua.
 Por nós evocado e interrogado, acerca do fato acima, Santo Afonso respondeu do seguinte modo:
-
-## item 1
-
 1.ª. Poderias explicar-nos esse fenômeno?
 “Perfeitamente. Quando o homem, por suas virtudes, chegou a
 desmaterializar-se completamente; quando conseguiu elevar sua alma para
@@ -155,14 +152,8 @@ parte do seu perispírito, e deixa a matéria imunda num estado próximo do da m
 da morte, porque no corpo ficou um laço que liga o perispírito e a alma
 à matéria, laço este que não pode ser definido. O corpo aparece, então,
 no lugar desejado. Creio ser isto o que queres saber.”
-
-## item 2
-
 2.ª. Isso não nos dá a explicação da visibilidade e da tangibilidade do perispírito.
 “Achando-se desprendido da matéria, conforme ao grau de sua elevação, pode o Espírito tornar-se tangível à matéria.”
-
-## item 3
-
 3.ª. Será indispensável o sono do corpo, para que o Espírito apareça noutros lugares?
 “A alma pode dividir-se, quando se sinta atraída para lugar diferente
 daquele onde se acha seu corpo. Pode acontecer que o corpo não se ache
@@ -175,9 +166,6 @@ não se
 lados e pode assim manifestar-se em muitos pontos, sem se haver
 fracionado. Dá-se o que se dá com a luz, que pode refletir-se
 simultaneamente em muitos espelhos.
-
-## item 4
-
 4.ª. Que sucederia se, estando o homem a dormir, enquanto seu Espírito se mostra noutra parte, alguém de súbito o despertasse?
 “Isso não se verificaria, porque, se alguém tivesse a intenção de o
 despertar, o Espírito retornaria ao corpo, prevendo a intenção,

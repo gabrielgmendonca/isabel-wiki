@@ -300,27 +300,15 @@ Eis aqui o conselho que a tal respeito nos deu São Luís:
 ## item 267
 
 267. Podem resumir-se nos princípios seguintes os meios de se reconhecer a qualidade dos Espíritos:
-
-## item 1
-
 1.º.
 Não há outro critério, senão o bom senso, para se aquilatar do valor
 dos Espíritos. Absurda será qualquer fórmula que eles próprios deem para
 esse efeito e não poderá provir de Espíritos superiores.
-
-## item 2
-
 2.º.
 Apreciam-se os Espíritos pela linguagem de que usam e pelas suas ações.
 Estas se traduzem pelos sentimentos que eles inspiram e pelos conselhos
 que dão.
-
-## item 3
-
 3.º. Admitido que os bons Espíritos só podem dizer e fazer o bem, de um bom Espírito não pode provir o que tenda para o mal.
-
-## item 4
-
 4.º.
 Os Espíritos superiores usam sempre de uma linguagem digna, nobre,
 elevada, sem eiva de trivialidade; tudo dizem com simplicidade e
@@ -329,22 +317,13 @@ posição que ocupam entre os outros. A dos Espíritos inferiores ou
 vulgares sempre algo refletem das paixões humanas. Toda expressão que
 denote baixeza, pretensão, arrogância, fanfarronice, acrimônia, é
 indício característico de inferioridade e de embuste, se o Espíritos apresentam com um nome respeitável e venerado.
-
-## item 5
-
 5.º. Não se deve
 julgar da qualidade do Espírito pela forma material, nem pela correção
 do estilo. É preciso sondar-lhe o íntimo, analisar-lhe as palavras,
 pesá-las friamente, maduramente e sem prevenção. Qualquer ofensa à
 lógica, à razão e à ponderação não pode deixar dúvida sobre a sua
 procedência, seja qual for o nome com que se ostente o Espírito. (N.º
-
-## item 224
-
 224.)
-
-## item 6
-
 6.º. A linguagem dos Espíritos elevados é sempre
 idêntica, senão quanto à forma, pelo menos quanto ao fundo. Os
 pensamentos são os mesmos, em qualquer tempo e em todo lugar. Podem ser
@@ -357,18 +336,12 @@ personagem. Sobre duas comunicações assinadas, por exemplo, com o nome
 de São Vicente de Paulo, uma das quais propendendo para a união e a
 caridade e a outra tendendo para a discórdia, nenhuma pessoa sensata
 poderá equivocar-se.
-
-## item 7
-
 7.º. Os bons Espíritos só dizem o
 que sabem; calam-se ou confessam a sua ignorância sobre o que não
 sabem. Os maus falam de tudo com desassombro, sem se preocuparem com a
 verdade. Toda heresia científica notória, todo princípio que choque o
 bom senso, aponta a fraude, desde que o Espírito se dê por ser um
 Espírito esclarecido.
-
-## item 8
-
 8.º. Reconhecem-se ainda os
 Espíritos levianos, pela facilidade com que predizem o futuro e precisam
 fatos materiais de que não nos é dado ter conhecimento. Os bons
@@ -376,9 +349,6 @@ Espíritos fazem que as coisas futuras sejam pressentidas, quando esse
 pressentimento convenha; nunca, porém, determinam datas. A previsão de
 qualquer acontecimento para uma época determinada é indício de
 mistificação.
-
-## item 9
-
 9.º. Os Espíritos superiores se exprimem
 com simplicidade, sem prolixidade. Têm o estilo conciso, sem exclusão da
 poesia das ideias e das expressões, claro, inteligível a todos, sem
@@ -387,9 +357,6 @@ coisas em poucas palavras, porque cada palavra é empregada com exatidão.
 Os Espíritos inferiores, ou falsos sábios, ocultam sob o empolamento,
 ou a ênfase, o vazio de suas ideias. Usam de uma linguagem pretensiosa,
 ridícula, ou obscura, à força de quererem pareça profunda.
-
-## item 10
-
 10.º.
 Os bons Espíritos nunca ordenam; não se impõem, aconselham; se não
 são escutados, retiram-se. Os maus são imperiosos; dão ordens, querem ser
@@ -397,32 +364,20 @@ obedecidos e não se afastam, haja o que houver. Todo Espírito que impõe
 trai a sua inferioridade. São exclusivistas e absolutos em suas
 opiniões; pretendem ter o privilégio da verdade. Exigem crença cega e
 jamais apelam para a razão, por saberem que a razão os desmascararia.
-
-## item 11
-
 11.º.
 Os bons Espíritos não lisonjeiam; aprovam o bem feito, mas sempre com
 reserva. Os maus prodigalizam exagerados elogios, estimulam o orgulho e a
 vaidade, embora pregando a humildade, e procuram
 exaltar a importância pessoal daqueles a quem desejam captar.
-
-## item 12
-
 12.º. Os Espíritos superiores desprezam, em tudo, as
 puerilidades da forma. Só os Espíritos vulgares ligam importância a
 particularidades mesquinhas, incompatíveis com ideias verdadeiramente
 elevadas.
 Toda prescrição meticulosa é sinal certo de inferioridade e de fraude, da parte de um Espírito que tome um nome imponente.
-
-## item 13
-
 13.º.
 Deve-se desconfiar dos nomes singulares e ridículos, que alguns
 Espíritos adotam, quando querem impor-se à credulidade; fora
 soberanamente absurdo tomar a sério semelhantes nomes.
-
-## item 14
-
 14.º.
 Deve-se igualmente desconfiar dos Espíritos que com muita facilidade se
 apresentam, dando nomes extremamente venerados, e não lhes aceitar o
@@ -432,9 +387,6 @@ uma máscara que eles tomam, para dar a crer que nos achamos em relações
 íntimas com os Espíritos excelsos. Por esse meio, lisonjeiam a vaidade
 do médium e dela se aproveitam frequentemente para induzi-lo a atitudes
 lamentáveis e ridículas.
-
-## item 15
-
 15.º. Os bons Espíritos são
 muito escrupulosos no tocante às atitudes que hajam de aconselhar. Elas,
 qualquer que seja o caso, nunca deixam de objetivar um
@@ -442,35 +394,20 @@ fim sério e eminentemente útil. Devem, pois, ter-se por suspeitas todas as que
 este caráter, ou sejam condenáveis perante a razão, e cumpre refletir
 maduramente antes de tomá-las, a fim de evitarem-se mistificações
 desagradáveis.
-
-## item 16
-
 16.º. Também se reconhecem os bons Espíritos pela
 prudente reserva que guardam sobre todos os assuntos que possam trazer
 comprometimento. Repugna-lhes desvendar o mal, enquanto que aos
 Espíritos levianos, ou malfazejos apraz pô-lo em evidência. Ao passo que
 os bons procuram atenuar os erros e pregam a indulgência, os maus os
 exageram e sopram a cizânia, por meio de insinuações pérfidas.
-
-## item 17
-
 17.º. Os bons Espíritos só prescrevem o bem. Máxima nenhuma, nenhum conselho, que se não conformem estritamente com a pura caridade evangélica, podem ser obra de bons Espíritos.
-
-## item 18
-
 18.º. Jamais os bons Espíritos aconselham senão o que seja perfeitamente racional. Qualquer recomendação que se afaste da linha reta do bom senso, ou das leis imutáveis da natureza, denuncia um Espírito atrasado e, portanto, pouco merecedor de confiança.
-
-## item 19
-
 19.º.
 Os Espíritos maus, ou simplesmente imperfeitos, ainda se traem por
 indícios materiais, a cujo respeito ninguém se pode enganar. A ação
 deles sobre o médium é às vezes violenta e provoca movimentos bruscos e
 intermitentes, uma agitação febril e convulsiva, que destoa da calma e
 da doçura dos bons Espíritos.
-
-## item 20
-
 20.º. Muitas vezes, os
 Espíritos imperfeitos se aproveitam dos meios de que dispõem, de
 comunicar-se, para dar conselhos pérfidos. Excitam a desconfiança e a
@@ -480,26 +417,17 @@ parte deles. Alvejam os homens fracos, para os induzir ao mal.
 Empregando alternativamente, para melhor convencê-los, os sofismas, os
 sarcasmos, as injúrias e até demonstrações materiais do poder oculto de
 que dispõem, se empenham em desviá-los da senda da verdade.
-
-## item 21
-
 21.º.
 Os Espíritos dos que na Terra tiveram uma única preocupação, material
 ou moral, se se não desprenderam da influência da matéria, continuam sob
 o império das ideias terrenas e trazem consigo uma parte dos
 preconceitos, das predileções
 e mesmo das manias que tinham neste mundo. Fácil é isso de reconhecer-se pela linguagem de que se servem.
-
-## item 22
-
 22.º.
 Os conhecimentos de que alguns Espíritos se enfeitam, às vezes, com uma
 espécie de ostentação, não constituem sinal da superioridade deles. A
 inalterável pureza dos sentimentos morais é, a esse respeito, a
 verdadeira pedra de toque.
-
-## item 23
-
 23.º. Não basta se
 interrogue um Espírito para conhecer-se a verdade. Precisamos, antes de
 tudo, saber a quem nos dirigimos; porquanto, os Espíritos inferiores,
@@ -508,23 +436,14 @@ não basta que um Espírito tenha sido na Terra um grande homem, para
 que, no mundo espírita, se ache de posse da soberana ciência. Só a
 virtude pode, purificando-o, aproximá-lo de Deus e dilatar-lhe os
 conhecimentos.
-
-## item 24
-
 24.º. Da parte dos Espíritos
 superiores, o gracejo é muitas vezes fino e vivo, nunca, porém, trivial.
 Nos Espíritos zombadores, quando não são grosseiros, a sátira mordaz é,
 não raro, muito propositada.
-
-## item 25
-
 25.º. Estudando-se
 cuidadosamente o caráter dos Espíritos que se apresentam, sobretudo do
 ponto de vista moral, reconhecer-lhes a natureza e o grau de confiança
 que devem merecer. O bom senso não poderia enganar.
-
-## item 26
-
 26.º.
 Para julgar os Espíritos, como para julgar os homens, é preciso,
 primeiro, que cada um saiba julgar-se a si mesmo. Muita gente há,
@@ -539,10 +458,10 @@ essas instruções decorrem da experiência e dos ensinos dos Espíritos.
 Vamos completá-las com as próprias respostas que eles deram, sobre os
 pontos mais importantes.
 ## Questões sobre a natureza e identidade dos Espíritos.
+
+## item 268
+
 **268. Questões sobre a natureza e identidade dos Espíritos.**
-
-## item 1
-
 1.ª. Por que sinais se pode reconhecer a superioridade ou a inferioridade dos Espíritos?
 “Pela
 linguagem, como distinguis um doidivanas de um homem sensato. Já
@@ -554,9 +473,6 @@ influxo das ideias materiais; seus discursos se ressentem da ignorância
 e da imperfeição que lhes são características. Somente aos Espíritos
 superiores é dado conhecer todas as coisas e julgá-las
 desapaixonadamente.”
-
-## item 2
-
 2.ª. A ciência é sempre sinal certo de elevação de um Espírito?
 “Não,
 porquanto, se ele ainda está sob a influência da matéria, pode ter os
@@ -577,9 +493,6 @@ voluntariamente se fazem cegos sobre o mérito do que lhes é comunicado.
 Esse um ponto que demanda grande estudo da parte dos espíritas
 esclarecidos e dos médiuns. Para distinguir o verdadeiro do falso é que
 cumpre se faça convergir toda a atenção.”
-
-## item 3
-
 3.ª. Muitos
 Espíritos protetores se designam pelos nomes de santos, ou de
 personagens conhecidas. Que se deve pensar a esse respeito?
@@ -590,18 +503,12 @@ tenham nome conhecido na Terra. Por isso é que, as mais das vezes, eles
 nenhum nome declinam. Vós, porém, quase sempre quereis um nome; então,
 para vos satisfazer, o Espírito toma o de um homem que conhecestes e a
 quem respeitais.”
-
-## item 4
-
 4.ª. O uso desse nome não pode ser considerado uma fraude?
 “Seria
 uma fraude da parte de um Espírito mau, que quisesse enganar; mas,
 quando é para o bem, Deus permite que assim procedam os Espíritos da
 mesma categoria, porque há entre eles solidariedade e analogia de
 pensamentos.”
-
-## item 5
-
 5.ª. Assim, quando um Espírito protetor
 diz ser São Paulo, por exemplo, não é certo que seja o Espírito mesmo,
 ou a alma, do apóstolo que teve esse nome?
@@ -622,16 +529,10 @@ se encarregam dos negócios de cem e duzentas famílias; por que
 haveríeis de supor que menos aptos fôssemos nós, espiritualmente
 falando, para a direção moral dos homens, do que aqueles o são para a
 direção material de seus interesses?”
-
-## item 6
-
 6.ª. Por que é que os Espíritos que se comunicam tomam frequentemente nomes de santos?
 “Identificam-se
 com os hábitos daqueles a quem falam e adotam os nomes mais apropriados
 a causar forte impressão nos homens por efeito de suas crenças.”
-
-## item 7
-
 7.ª.
 Quando evocados, os Espíritos superiores vêm sempre em pessoa, ou, como
 alguns o supõem, se fazem representar por mandatários incumbidos de
@@ -639,9 +540,6 @@ lhes transmitir os pensamentos?
 “Por que não virão em
 pessoa, se o podem? Se, porém, o Espírito evocado não pode vir, o que
 se apresenta é forçosamente um mandatário.”
-
-## item 8
-
 8.ª. E o mandatário é sempre suficientemente esclarecido para responder como faria o Espírito que o envia?
 “Os
 Espíritos superiores sabem a quem confiam o encargo de os substituir.
@@ -654,9 +552,6 @@ sois propensos a considerar-vos como os tipos do universo, que sempre
 supondes nada mais haver fora do vosso mundo. Em verdade vos assemelhais
 a esses selvagens que, nunca tendo saído da ilha em que habitam, creem
 que o mundo não vai além dela.”
-
-## item 9
-
 9.ª. Compreendemos que seja
 assim, quando se trate de um ensino sério; mas, como permitem os
 Espíritos superiores que outros, de baixo estalão, adotem nomes
@@ -672,9 +567,6 @@ aconteça, para experimentar a vossa perseverança e o vosso discernimento
 e para vos ensinar a distinguir a verdade do erro. Se não o fazeis, é
 que não estais bastante elevados e precisais ainda das lições da
 experiência.”
-
-## item 10
-
 10.ª. Não sucede que os Espíritos pouco
 adiantados, porém, animados de boas intenções e do desejo de progredir,
 se veem designados às vezes para substituir um Espírito superior, a fim
@@ -686,9 +578,6 @@ sua própria conta, para, como dizeis, se exercitarem. Por isso é que
 suas comunicações, ainda que boas, trazem o cunho da inferioridade
 deles. Delegados só o são para as comunicações pouco importantes e para
 as que se podem chamar pessoais.”
-
-## item 11
-
 11.ª. Nota-se que, às vezes,
 as comunicações espíritas ridículas se mostram entremeadas de excelentes
 máximas. Como explicar esta anomalia, que parece indicar a presença
@@ -699,22 +588,13 @@ perceberem bem o alcance, ou a significação. Entre vós, serão homens
 superiores todos os que as enunciam? Não; os bons e os maus Espíritos
 não andam juntos; pela uniformidade constante das boas comunicações é
 que reconhecereis a presença dos bons Espíritos.”
-
-## item 12
-
 12.ª. Os Espíritos que nos induzem em erro procedem sempre cientes do que fazem?
 “Não;
 há Espíritos bons, mas ignorantes e que podem enganar-se de boa-fé.
 Desde que tenham consciência da sua ignorância, convém nisso e só dizem o
 que sabem.”
-
-## item 13
-
 13.ª. O Espírito que dá uma comunicação falsa sempre o faz com intenção maléfica?
 “Não; se é um Espírito leviano, diverte-se em mistificar, sem outro intuito.”
-
-## item 14
-
 14.ª.
 Podendo alguns Espíritos enganar pela linguagem de que usam, segue-se
 que também podem, aos olhos de um médium vidente, tomar uma falsa
@@ -726,9 +606,6 @@ médium vidente pode ver Espíritos levianos e mentirosos, como outros os
 ouvem, ou escrevem sob a influência deles. Podem os Espíritos levianos
 aproveitar-se dessa disposição, para o enganar, por meio de falsas
 aparências; isso depende das qualidades do Espírito do próprio médium.”
-
-## item 15
-
 15.ª. Para não ser enganado, basta que alguém esteja animado de
 boas intenções? E os homens sérios, que não mesclam de vã curiosidade
 seus estudos, também se acham sujeitos a ser enganados?
@@ -739,18 +616,12 @@ não o é. Deve, pois, desconfiar sempre da fraqueza que nasce do orgulho e
 dos preconceitos. Ninguém leva bastante em conta estas duas causas de
 queda, de que se aproveitam os Espíritos que, lisonjeando as manias, têm
 a certeza do bom êxito.”
-
-## item 16
-
 16.ª. Por que permite Deus que maus Espíritos se comuniquem e digam coisas ruins?
 “Ainda
 mesmo no que haja de pior, um ensinamento sempre se colhe. Toca-vos
 saber colhê-lo. Mister se faz que haja comunicações de todas as
 espécies, para que aprendais a distinguir os bons Espíritos dos maus e
 para que vos sirvam de espelho a vós mesmos.”
-
-## item 17
-
 17.ª.
 Podem os Espíritos, por meio de comunicações escritas, inspirar
 desconfianças infundadas contra certas pessoas e causar dissídios entre
@@ -769,9 +640,6 @@ vos tenha falado bem da mesma pessoa, e desconfiai também de vós mesmos e
 das vossas próprias prevenções. Das comunicações dos Espíritos, guardai
 apenas o que haja de belo, de grande, de racional, e o que a vossa
 consciência aprove.”
-
-## item 18
-
 18.ª. Pela facilidade com que os
 maus Espíritos se intrometem nas comunicações, parece legítimo
 concluir-se que nunca estaremos certos de ter a verdade?
@@ -787,9 +655,6 @@ Entretanto, há sinais que não vos permitirão qualquer equívoco. O mesmo
 sucede com relação aos Espíritos. Figurai, pois, que é um amigo quem vos
 escreve, ou que ledes a obra de um escritor, e julgai pelos mesmos
 processos.”
-
-## item 19
-
 19.ª. Poderiam os Espíritos superiores impedir que os maus Espíritos tomassem falsos nomes?
 “Certamente
 que o podem; porém, quanto piores são os Espíritos, mais obstinados se
@@ -798,9 +663,6 @@ saibais que há pessoas pelas quais os Espíritos superiores se interessam
 mais do que outras e, quando eles julgam conveniente, as preservam dos
 ataques da mentira. Contra essas pessoas os Espíritos enganadores nada
 podem.”
-
-## item 20
-
 20.ª. Qual o motivo de semelhante parcialidade?
 “Não
 há parcialidade, há justiça. Os bons Espíritos se interessam pelos que
@@ -808,23 +670,14 @@ usam criteriosamente da faculdade de discernir e trabalham seriamente
 por melhorar-se. Dão a esses suas preferências e os segundam; pouco,
 porém, se incomodam com aqueles junto dos quais perdem o tempo em belas
 palavras.”
-
-## item 21
-
 21.ª. Por que permite Deus que os Espíritos cometam o sacrilégio de usar falsamente de nomes venerados?
 “Poderias
 também perguntar por que permite Deus que os homens mintam e blasfemem.
 Os Espíritos, assim como os homens, têm o seu livre-arbítrio para o
 bem, tanto quanto para o mal; porém, nem a uns nem a outros a justiça de
 Deus deixará de atingir.”
-
-## item 22
-
 22.ª. Haverá fórmulas eficazes para expulsar os Espíritos enganadores?
 “Fórmula é matéria; muito mais vale um bom pensamento dirigido a Deus.”
-
-## item 23
-
 23.ª.
 Dizem alguns Espíritos disporem de sinais gráficos inimitáveis,
 espécies de emblemas, pelos quais podem ser conhecidos e comprovarem a
@@ -834,23 +687,14 @@ nenhum outro sinal têm para se fazerem reconhecer além da superioridade
 das suas ideias e de sua linguagem. Qualquer Espírito pode imitar um
 sinal material. Quanto aos Espíritos inferiores, esses se traem de
 tantos modos, que fora preciso ser cego para deixar-se iludir.”
-
-## item 24
-
 24.ª. Não podem também os Espíritos enganadores contrafazer o pensamento?
 “Contrafazem o pensamento, como os cenógrafos contrafazem a natureza.”
-
-## item 25
-
 25.ª. Parece assim fácil sempre descobrir-se a fraude por meio de um estudo atento?
 “Não
 o duvides. Os Espíritos só enganam os que se deixam enganar. Mas, é
 preciso ter olhos de mercador de diamantes, para distinguir a pedra
 verdadeira da falsa. Ora, aquele que não sabe distinguir a pedra fina da
 falsa se dirige ao lapidário.”
-
-## item 26
-
 26.ª. Há pessoas que se
 deixam seduzir por uma linguagem enfática, que apreciam mais as
 palavras do que as ideias, que mesmo tomam ideias falsas e vulgares por
@@ -864,17 +708,11 @@ Espíritos enganadores sabem perfeitamente a quem se dirigem. Há pessoas
 simples e pouco instruídas mais difíceis de enganar do que outras, que
 têm finura e saber. Lisonjeando-lhes as paixões, fazem eles do homem o
 que querem.”
-
-## item 27
-
 27.ª. Na escrita, dar-se-á que os maus Espíritos algumas vezes se traiam por sinais materiais involuntários?
 “Os
 hábeis, não; os desazados se desencaminham. Todo sinal inútil e pueril é
 indício certo de inferioridade. Coisa alguma inútil fazem os Espíritos
 elevados.”
-
-## item 28
-
 28.ª. Muitos médiuns reconhecem os bons e os
 maus Espíritos pela impressão agradável ou penosa que experimentam à
 aproximação deles. Perguntamos se a impressão desagradável, a agitação

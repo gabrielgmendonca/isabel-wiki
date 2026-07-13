@@ -103,17 +103,11 @@ contradições se observam. (Veja-se o capítulo precedente.)
 ## item 301
 
 301. Eis as respostas que os Espíritos deram a perguntas feitas acerca das contradições:
-
-## item 1
-
 1.ª. Comunicando-se em dois centros diferentes, pode um Espírito dar-lhes, sobre o mesmo ponto, respostas contraditórias?
 “Se nos dois centros as opiniões e as ideias diferirem, as respostas
 poderão chegar-lhes desfiguradas, por se acharem eles sob a influência
 de diferentes colunas de Espíritos. Então, não é a resposta que é
 contraditória, mas a maneira por que é dada.”
-
-## item 2
-
 2.ª. Concebe-se que
 uma resposta possa ser alterada; mas, quando as qualidades do médium
 excluem toda ideia de má influência, como se explica que Espíritos
@@ -131,9 +125,6 @@ adiantados. É exatamente como se uma criança e um sábio te fizessem a
 mesma pergunta. De certo, responderíeis a uma e a outro de modo que te
 compreendessem e ficassem satisfeitos. As respostas, nesse caso, embora
 diferentes, seriam fundamentalmente idênticas.”
-
-## item 3
-
 3.ª. Com que fim Espíritos sérios, junto de certas pessoas, parecem aceitar ideias e preconceitos que combatem junto de outras?
 “Cumpre nos façamos compreensíveis. Se alguém tem uma convicção bem
 firmada sobre uma doutrina, ainda que falsa, necessário é lhe tiremos
@@ -152,9 +143,6 @@ se deve tomar como contradição o que muitas vezes não é senão parte da
 elaboração da verdade. Todos os Espíritos têm a sua tarefa designada por
 Deus. Desempenham-na dentro das condições que julgam convenientes ao
 bem dos que lhes recebem as comunicações.”
-
-## item 4
-
 4.ª. As contradições,
 mesmo aparentes, podem lançar dúvidas no Espírito de algumas pessoas.
 Que meio de verificação se pode ter, para conhecer a verdade?
@@ -169,25 +157,16 @@ ideias acanhadas, que, no entanto, tomais por grandes ideias? Longe,
 porém, não está o dia em que o ensino dos Espíritos será por toda parte
 uniforme, assim nas minúcias, como nos pontos principais. A missão deles
 é destruir o erro, mas isso não se pode efetuar senão gradativamente.”
-
-## item 5
-
 5.ª. Pessoas há que não têm nem tempo, nem a aptidão necessária
 para um estudo sério e aprofundado e que aceitam sem exame o que se
 lhes ensina. Não haverá para elas inconveniente em esposar erros?
 “Que pratiquem o bem e não façam o mal é o essencial. Para isso, não
 há duas doutrinas. O bem é sempre o bem, quer feito em nome de Allah,
 quer em nome de Jeová, visto que um só Deus há para o universo.”
-
-## item 6
-
 6.ª. Como é que Espíritos, que parecem desenvolvidos em inteligência, podem ter ideias evidentemente falsas sobre certas coisas?
 “É que têm suas doutrinas. Os que não são bastante adiantados, e
 julgam que o são, tomam suas ideias pela própria verdade. Tal qual entre
 vós.”
-
-## item 7
-
 7.ª. Que se deve pensar de doutrinas segundo as quais um
 só Espírito poderia comunicar-se e que esse Espírito seria Deus ou
 Jesus?
@@ -214,9 +193,6 @@ doutrina de tais Espíritos, nela se descobrirão a cada passo
 contradições injustificáveis, marcas da ignorância deles sobre as coisas
 mais evidentes e, por conseguinte, sinais certos da sua inferioridade.”
 O Espírito de Verdade.
-
-## item 8
-
 8.ª. De todas as contradições que se notam nas comunicações dos Espíritos, uma das mais frisantes é a que diz respeito à reencarnação. Se a reencarnação é uma necessidade da vida espírita, como se explica que nem todos os Espíritos a ensinem?
 “Não sabeis que há Espíritos
 cujas ideias se acham limitadas ao presente, como se dá com muitos
@@ -229,9 +205,6 @@ Espírito progride, mas de que maneira? Têm isso como um problema. Então,
 se os interrogardes a respeito, falar-vos-ão dos sete céus superpostos
 como andares. Alguns mesmo vos falarão da esfera do fogo, da esfera das
 estrelas, depois da cidade das flores, da dos eleitos.”
-
-## item 9
-
 9.ª.
 Concebemos que os Espíritos pouco adiantados possam deixar de
 compreender esta questão; mas, como é que Espíritos de uma inferioridade
@@ -270,9 +243,6 @@ profundas, se apagarão pouco a pouco, à medida que os homens se
 esclarecerem e que acabarão por desaparecer completamente. Essa é a
 vontade de Deus, contra a qual não pode prevalecer o erro.”
 O Espírito de Verdade.
-
-## item 10
-
 10.ª. As doutrinas errôneas, que certos Espíritos podem ensinar, não têm por efeito retardar o progresso da verdadeira ciência?
 “Desejais tudo obter sem trabalho. Sabei, pois, que não há campo onde
 não cresçam as ervas más, cuja extirpação cabe ao lavrador. Essas
@@ -334,9 +304,6 @@ instruções precedentes ressaltam os meios de se frustrarem as tramas
 dos Espíritos enganadores. Por essa razão, pouca coisa diremos a tal
 respeito. Sobre o assunto, foram estas as respostas que nos deram os
 Espíritos:
-
-## item 1
-
 1.ª. As mistificações constituem um dos escolhos mais
 desagradáveis do Espiritismo prático. Haverá meio de nos preservarmos
 deles?
@@ -371,9 +338,6 @@ sem serem chamados.
 ouvir, o que dá no mesmo. Se acolhessem com reserva e desconfiança tudo o
 que se afasta do objetivo essencial do Espiritismo, os Espíritos
 levianos não as tomariam tão facilmente para joguete.”
-
-## item 2
-
 2.ª. Por
 que permite Deus que pessoas sinceras e que aceitam o Espiritismo de
 boa-fé sejam mistificadas? Não poderia isto ter o inconveniente de lhes

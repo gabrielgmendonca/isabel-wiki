@@ -19,25 +19,10 @@ status: ativo
 Os Espíritos jamais prescreveram qualquer fórmula absoluta de preces. Quando dão alguma, é apenas para fixar as ideias e, sobretudo, para chamar a atenção sobre certos princípios da doutrina espírita. Fazem-no também com o fim de auxiliar os que sentem embaraço para externar suas ideias, pois alguns há que não acreditariam ter orado realmente, desde que não formulassem seus pensamentos. A coletânea de preces, que este capítulo encerra, representa uma escolha feita entre muitas que os Espíritos ditaram em várias circunstâncias. Eles, sem dúvida, podem ter ditado outras e em termos diversos, apropriadas a certas ideias ou a casos especiais; mas, pouco importa a forma, se o pensamento é essencialmente o mesmo. O objetivo da prece consiste em elevar nossa alma a Deus; a diversidade das fórmulas nenhuma diferença deve criar entre os que nele creem, nem, ainda menos, entre os adeptos do Espiritismo, porquanto Deus as aceita todas quando sinceras.
 Não há, pois, considerar esta coletânea como um formulário absoluto e único, mas, apenas, uma variedade no conjunto das instruções que os Espíritos ministram. É uma aplicação dos princípios da moral evangélica desenvolvidos neste livro, um complemento aos ditados deles, relativos aos deveres para com Deus e o próximo, complemento em que são lembrados todos os princípios da doutrina. O Espiritismo reconhece como boas as preces de todos os cultos, quando ditas de coração e não de lábios somente. Nenhuma impõe, nem reprova nenhuma. Deus, segundo ele, é sumamente grande para repelir a voz que lhe suplica ou lhe entoa louvores, porque o faz de um modo e não de outro. Quem quer que lance anátema às preces que não estejam no seu formulário provará que desconhece a grandeza de Deus. Crer que Deus se atenha a uma fórmula é emprestar-lhe a pequenez e as paixões da humanidade. Condição essencial à prece, segundo S. Paulo (cap. XXVII, n.º 16), é que seja inteligível, a fim de que nos possa falar ao espírito. Para isso, não basta seja dita numa língua que aquele que ora compreenda. Há preces em língua vulgar que não dizem ao pensamento muito mais do que se fossem proferidas em língua estrangeira, e que, por isso mesmo, não chegam ao coração. As raras ideias que elas contêm ficam, as mais das vezes, abafadas pela superabundância das palavras e pelo misticismo da linguagem.
 A qualidade principal da prece é ser clara, simples e concisa, sem fraseologia inútil, nem luxo de epítetos, que são meros adornos de lentejoulas. Cada palavra deve ter alcance próprio, despertar uma ideia, pôr em vibração uma fibra da alma. Numa palavra: deve fazer refletir. Somente sob essa condição pode a prece alcançar o seu objetivo; de outro modo, não passa de ruído. Entretanto, notai com que ar distraído e com que volubilidade elas são ditas na maioria dos casos. Veem-se lábios a mover-se; mas, pela expressão da fisionomia, pelo som mesmo da voz, verifica-se que ali apenas há um ato maquinal, puramente exterior, ao qual se conserva indiferente a alma. Estão divididas em cinco categorias as preces constantes nesta coletânea:
-
-## item 1
-
 1.ª) Preces gerais;
-
-## item 2
-
 2.ª) Preces por aquele mesmo que ora;
-
-## item 3
-
 3.ª) Preces pelos vivos;
-
-## item 4
-
 4.ª) Preces pelos mortos;
-
-## item 5
-
 5.ª) Preces especiais pelos enfermos e pelos obsidiados.
 Com o propósito de chamar, de maneira especial, a atenção sobre o objeto de cada prece e de lhe tornar mais compreensível o alcance, vão todas precedidas de uma instrução preliminar, de uma espécie de exposição de motivos, sob o título de *prefácio*.
 ## I — Preces gerais.
@@ -161,17 +146,8 @@ Não me criaste culpado, pois que és justo, mas com igual aptidão para o bem e
 ## item 24
 
 24. Prefácio. — Quando estamos indecisos sobre o fazer ou não fazer uma coisa, devemos antes de tudo propor-nos a nós mesmos as questões seguintes:
-
-## item 1
-
 1.ª — Aquilo que eu hesito em fazer pode acarretar qualquer prejuízo a outrem?
-
-## item 2
-
 2.ª — Pode ser proveitoso a alguém?
-
-## item 3
-
 3.ª — Se agissem assim comigo, ficaria eu satisfeito?
 Se o que pensamos fazer, somente a nós nos interessa, lícito nos é pesar as vantagens e os inconvenientes pessoais que nos possam advir. Se interessa a outrem e se, resultando em bem para um, redundará em mal para outro, cumpre, igualmente, pesemos a soma de bem ou de mal que se produzirá, para nos decidirmos a agir, ou a abster-nos. Enfim, mesmo em se tratando das melhores coisas, importa ainda consideremos a oportunidade e as circunstâncias concomitantes, porquanto uma coisa boa, em si mesma, pode dar maus resultados em mãos inábeis, se não for conduzida com prudência e circunspecção. Antes de empreendê-la, convém consultemos as nossas forças e meios de execução. Em todos os casos, sempre podemos solicitar a assistência dos nossos Espíritos protetores, lembrados desta sábia advertência: Na dúvida, abstém-te. (Cap. XXVIII, n.o 38.)
 

@@ -104,9 +104,6 @@ referência é àquele primeiro cataclismo.
 se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-­me-­ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com
 eles povoasse a Terra. É flagrante a analogia desta lenda com a narrativa bíblica de Noé. Da Índia ela passara ao Egito, como uma multidão de outras crenças. Ora, sendo o livro dos Vedas anteriores ao de Moisés, a narração que naquele se encontra, do dilúvio, não pode ser uma cópia da deste último. O que é provável é
 que Moisés, que aprendera as doutrinas dos sacerdotes egípcios, haja tomado a estes a sua descrição.
-
-## item 5
-
 5. O dilúvio asiático foi evidentemente posterior ao aparecimento do homem na
 Terra, visto que a lembrança dele se conservou pela tradição em todos os povos
 daquela parte do mundo, os quais o consagraram em suas teogonias\*.
@@ -174,17 +171,11 @@ movimento, porque somente se há podido observar uma pequena parte da sua
 revolução. A respeito, pois, não há mais do que presunções, algumas das quais com
 caráter de probabilidade.
 Essas consequências são:
-
-## item 1
-
 1.ª. O aquecimento e o resfriamento alternativos dos polos e, por
 conseguinte, a fusão dos gelos polares durante a metade do período de 25.000 anos e
 a nova formação deles durante a outra metade desse período. Resultaria daí não
 estarem os polos condenados a uma perpétua esterilidade, cabendo­-lhes gozar a seu
 turno dos benefícios da fertilidade.
-
-## item 2
-
 2.ª. O deslocamento gradativo do mar, fazendo-­o invadir pouco a pouco
 umas terras e pôr a descoberto outras, para de novo as abandonar, voltando ao seu
 leito anterior. Esse movimento periódico, indefinidamente renovado, constituiria

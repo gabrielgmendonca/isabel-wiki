@@ -417,24 +417,18 @@ mesmo, nem mais caridoso e benévolo para com seus irmãos
 deste mundo e do outro? Que seria dos pobres doentes,
 se os médicos se recusassem a lhes tocar as chagas?
 ## Questões sobre as evocações.
+
+## item 282
+
 **282. Questões sobre as evocações.**
-
-## item 1
-
 1.ª. Pode alguém, sem ser médium, evocar os Espíritos?
 “Toda gente pode evocar os Espíritos e, se aqueles que
 evocares não puderem manifestar-se materialmente, nem
 por isso deixarão de estar junto de ti e de te escutar.”
-
-## item 2
-
 2.ª. O Espírito evocado atende sempre ao chamado que
 se lhe dirige?
 “Isso depende das condições em que se encontre, porquanto
 há circunstâncias em que não o pode fazer.”
-
-## item 3
-
 3.ª. Quais as causas que podem impedir atenda um Espírito
 ao nosso chamado?
 “Em primeiro lugar, a sua própria vontade; depois, se se acha encarnado, o
@@ -453,16 +447,10 @@ comparação terá para se exprimir. O mesmo já não se dá
 com os que estão em missão, ou em expiação, nos mundos
 inferiores. Esses têm as ideias necessárias para responder
 ao chamado.”
-
-## item 4
-
 4.ª. Por que motivo pode a um Espírito ser negada permissão
 para se comunicar?
 “Pode ser uma prova, ou uma punição, para ele, ou
 para aquele que o chama.”
-
-## item 5
-
 5.ª. Como podem os Espíritos, dispersos pelo espaço
 ou pelos diferentes mundos, ouvir as evocações que lhes
 são dirigidas de todos os pontos do universo?
@@ -482,18 +470,12 @@ que o pensamento alcança o infinito. O Espírito, no além, é
 como o viajante que, em meio de vasta planície, ouvindo
 pronunciar o seu nome, se dirige para o lado de onde o
 chamam.”
-
-## item 6
-
 6.ª. Sabemos que as distâncias nada são para os Espíritos; contudo, causa espanto ver que respondem tão prontamente
 ao chamado, como se estivessem muito perto.
 “É que, com efeito, às vezes, o estão. Se a evocação é
 premeditada, o Espírito se acha de antemão prevenido e
 frequentemente se encontra no lugar onde o vão evocar,
 antes que o chamem.”
-
-## item 7
-
 7.ª. Dar-se-á que o pensamento do evocador seja mais
 ou menos facilmente percebido, conforme as circunstâncias?
 “Sem dúvida alguma. O Espírito é mais vivamente atingido,
@@ -503,9 +485,6 @@ se dar isso, acontece com frequência que a evocação nenhum
 efeito produza. O pensamento que se desprende da
 evocação toca o Espírito; se é mal dirigido, perde-se no vácuo. Dá-se com os Espíritos o que se dá com os homens; se aquele que os chama lhes é indiferente ou antipático, podem
 ouvi-lo, porém, as mais das vezes, não o atendem.”
-
-## item 8
-
 8.ª. O Espírito evocado vem espontaneamente, ou
 constrangido?
 “Obedece à vontade de Deus, isto é, à lei geral que rege
@@ -516,9 +495,6 @@ deixar de vir. Ainda aí exerce o livre-arbítrio. O Espírito
 superior vem sempre que chamado com um fim útil; não se
 nega a responder, senão a pessoas pouco sérias e que tratam
 destas coisas por divertimento.”
-
-## item 9
-
 9.ª. Pode o Espírito evocado negar-se a atender ao chamado
 que lhe é dirigido?
 “Perfeitamente; onde estaria o seu livre-arbítrio, se assim
@@ -528,9 +504,6 @@ a responder a todos os que vos pronunciam os nomes?
 Quando digo que o Espírito pode recusar-se, refiro-me ao
 pedido do evocador, visto que um Espírito inferior pode ser
 constrangido a vir, por um Espírito superior.”
-
-## item 10
-
 10.ª. Haverá, para o evocador, meio de constranger um
 Espírito a vir, a seu mau grado?
 “Nenhum, desde que o Espírito lhe seja igual, ou superior,
@@ -539,9 +512,6 @@ inteligência, porque, então, nenhuma autoridade tem o
 evocador sobre ele. Se lhe é inferior, o evocador pode consegui-lo,
 desde que seja para bem do Espírito, porque, nesse
 caso, outros Espíritos o secundarão.” (N.º 279.)
-
-## item 11
-
 11.ª. Haverá inconveniente em se evocarem Espíritos
 inferiores? E será de temer que, chamando-os, o evocador
 lhes fique sob o domínio?
@@ -550,9 +520,6 @@ Aquele que é assistido por bons Espíritos nada tem que
 temer. Impõe-se aos Espíritos inferiores e não estes a ele.
 Isolados, os médiuns, sobretudo os que começam, devem
 abster-se de tais evocações. (N.º 278.)
-
-## item 12
-
 12.ª. Serão necessárias algumas disposições especiais
 para as evocações?
 “A mais essencial de todas as disposições é o recolhimento,
@@ -562,24 +529,15 @@ força para evocar os Espíritos superiores. Elevando sua
 alma, por alguns instantes de recolhimento, quando da evocação,
 o evocador se identifica com os bons Espíritos e os
 dispõe a virem.”
-
-## item 13
-
 13.ª. Para as evocações, é preciso fé?
 “A fé em Deus, sim; para o mais, a fé virá, se desejardes
 o bem e tiverdes o propósito de instruir-vos.”
-
-## item 14
-
 14.ª. Reunidos em comunhão de pensamentos e de intenções,
 dispõem os homens de mais poder para evocar os
 Espíritos?
 “Quando todos estão reunidos pela caridade e para o
 bem, grandes coisas alcançam. Nada mais prejudicial ao
 resultado das evocações do que a divergência de ideias.”
-
-## item 15
-
 15.ª. Será conveniente a precaução de se formar cadeia,
 dando-se todos as mãos, alguns minutos antes de
 começar a reunião?
@@ -591,9 +549,6 @@ Espíritos. Não imaginais o que se pode obter numa reunião
 séria, de onde se haja banido todo sentimento de orgulho
 e de personalismo e onde reine perfeito o de mútua
 cordialidade.”
-
-## item 16
-
 16.ª. São preferíveis as evocações em dias e horas
 determinados?
 “Sim e, se for possível, no mesmo lugar: os Espíritos aí
@@ -605,9 +560,6 @@ lugar, mas não julgueis que isso deva constituir uma
 obrigação absoluta, porquanto os Espíritos vão a toda parte.
 Quero dizer que um lugar consagrado às reuniões é preferível,
 porque o recolhimento se faz mais perfeito.”
-
-## item 17
-
 17.ª. Certos objetos, como medalhas e talismãs, têm a
 propriedade de atrair ou repelir os Espíritos, conforme pretendem
 alguns?
@@ -617,9 +569,6 @@ bem certo de que nunca um bom Espírito aconselhará semelhantes
 absurdidades. A virtude dos talismãs, de qualquer
 natureza que sejam, jamais existiu, senão na imaginação
 das pessoas crédulas.”
-
-## item 18
-
 18.ª. Que se deve pensar dos Espíritos que marcam encontros
 em lugares lúgubres e a horas indevidas?
 “Esses Espíritos se divertem à custa dos que lhes dão
@@ -628,9 +577,6 @@ sugestões: inútil, porque nada absolutamente se ganha em
 ser mistificado; perigoso, não pelo mal que possam fazer os
 Espíritos, mas pela influência que isso pode ter sobre cérebros
 fracos.”
-
-## item 19
-
 19.ª. Haverá dias e horas mais propícias para as
 evocações?
 “Para os Espíritos, isso é completamente indiferente,
@@ -639,9 +585,6 @@ na influência dos dias e das horas. Os momentos mais propícios
 são aqueles em que o evocador possa estar menos
 distraído pelas suas ocupações habituais, em que se ache
 mais calmo de corpo e de espírito.”
-
-## item 20
-
 20.ª. Para os Espíritos, a evocação é coisa agradável ou
 penosa? Eles vêm de boa vontade, quando chamados?
 “Isso depende do caráter deles e do motivo com que
@@ -670,9 +613,6 @@ eles, se limitam a supô-los feiticeiros, se neles só pensamos para
 lhes pedir informações, é claro que não nos podem ter grande
 simpatia e ninguém deve surpreender-se com a pouca benevolência
 que lhes demonstrem.
-
-## item 21
-
 21.ª. Alguma diferença há entre os bons e os maus
 Espíritos, pelo que toca à solicitude com que atendam ao
 nosso chamado?
@@ -702,65 +642,41 @@ com o se saberem lembrados, os levianos gostam de ser evocados
 pelas pessoas frívolas, porque isso lhes proporciona
 ensejo de se divertirem à custa delas; sentem-se pouco à vontade
 com pessoas graves.
-
-## item 22
-
 22.ª. Para se manifestarem, têm sempre os Espíritos
 necessidade de ser evocados?
 “Não; muito frequentemente, eles se apresentam sem
 serem chamados, o que prova que vêm de boa vontade.”
-
-## item 23
-
 23.ª. Quando um Espírito se apresenta por si mesmo,
 pode-se estar certo da sua identidade?
 “De maneira alguma, porquanto os Espíritos enganadores
 empregam amiúde esse meio, para melhor mistificarem.”
-
-## item 24
-
 24.ª. Quando se evoca pelo pensamento o Espírito de
 uma pessoa, esse Espírito vem, ainda mesmo que não haja
 manifestação pela escrita, ou de outro modo?
 “A escrita é um meio material, para o Espírito, de atestar
 a sua presença, mas o pensamento é que o atrai e não
 o fato da escrita.”
-
-## item 25
-
 25.ª. Quando se manifeste um Espírito inferior, poder-se-á obrigá-lo a retirar-se?
 “Sim, não se lhe dando atenção. Mas, como quereis
 que se retire, quando vos divertis com as torpezas? Os Espíritos
 inferiores se ligam aos que os escutam com complacência,
 como os tolos entre vós.”
-
-## item 26
-
 26.ª. A evocação feita em nome de Deus é uma garantia
 contra a imiscuência dos maus Espíritos?
 “O nome de Deus não constitui freio para todos os Espíritos,
 mas contém muitos deles; por esse meio, sempre
 afastareis alguns e muitos mais afastareis, se ela for feita
 do fundo do coração e não como fórmula banal.”
-
-## item 27
-
 27.ª. Poder-se-á evocar nominativamente muitos Espíritos ao mesmo tempo?
 “Não há nisso dificuldade alguma e, se tivésseis três
 ou quatro mãos para escrever, três ou quatro Espíritos vos
 responderiam ao mesmo tempo; é o que ocorre se se dispõe
 de muitos médiuns.”
-
-## item 28
-
 28.ª. Quando muitos Espíritos são evocados simultaneamente,
 não havendo mais de um médium, qual o que
 responde?
 “Um deles responde por todos e exprime o pensamento
 coletivo.”
-
-## item 29
-
 29.ª. Poderia o mesmo Espírito comunicar-se, simultaneamente,
 durante uma sessão, por dois médiuns diferentes?
 “Tão facilmente quanto, entre vós, os que ditam várias
@@ -777,9 +693,6 @@ estão imbuídos das paixões terrenas e das ideias corpóreas,
 pode acontecer que disputem e se apostrofem com palavras pesadas,
 que se reprochem mutuamente os erros e até que atirem os
 lápis, as cestas, as pranchetas, etc., um contra o outro.
-
-## item 30
-
 30.ª. Pode o Espírito, simultaneamente evocado em muitos
 pontos, responder ao mesmo tempo às perguntas que
 lhe são dirigidas?
@@ -817,18 +730,12 @@ Quando se haja tornado Espírito superior, pode irradiar como a
 luz do Sol, mostrar-se a muitas pessoas e em muitos lugares ao
 mesmo tempo.”
 Channing.
-
-## item 31
-
 31.ª. Podem ser evocados os puros Espíritos, os que hão
 terminado a série de suas encarnações?
 “Podem, mas muito raramente atenderão. Eles só se
 comunicam com os de coração puro e sincero e não com os
 orgulhosos e egoístas. Por isso mesmo, é preciso desconfiar dos Espíritos inferiores que alardeiam essa qualidade,
 para se darem importância aos vossos olhos.”
-
-## item 32
-
 32.ª. Como é que os Espíritos dos homens mais ilustres
 acodem tão facilmente e tão familiarmente ao chamado dos
 homens mais obscuros?
@@ -836,9 +743,6 @@ homens mais obscuros?
 erro. Após a morte do corpo, as categorias terrenas deixam
 de existir. Só a bondade estabelece distinção entre eles e os
 que são bons vão a toda parte onde haja um bem a fazer-se.”
-
-## item 33
-
 33.ª. Quanto tempo deve decorrer, depois da morte, para
 que se possa evocar um Espírito?
 “Podeis fazê-lo no instante mesmo da morte; mas, como
@@ -850,18 +754,12 @@ que, ao cabo de oito dias, o Espírito já não tenha conhecimento
 do seu estado, para poder responder. Algumas vezes, isso lhe é
 possível dois ou três dias depois da morte. Em todos os casos se
 pode experimentá-lo com prudência.
-
-## item 34
-
 34.ª. A evocação, no momento da morte, é mais penosa
 para o Espírito do que algum tempo depois?
 “Algumas vezes. É como se vos arrancassem ao sono,
 antes que estivésseis completamente acordados. Alguns há,
 todavia, que de nenhum modo se contrariam com isso e
 aos quais a evocação até ajuda a sair da perturbação.”
-
-## item 35
-
 35.ª. Como pode o Espírito de uma criança, que morreu
 em tenra idade, responder com conhecimento de causa, se,
 quando viva, ainda não tinha consciência de si mesma?
@@ -883,6 +781,9 @@ desprendido da matéria. Este efeito varia, conforme
 as causas da loucura, porquanto há loucos que, logo depois da
 morte, recobram toda a sua lucidez.
 ## Evocações dos animais.
+
+## item 283
+
 **283. Evocações dos animais.**
 
 ## item 36
@@ -928,10 +829,10 @@ e quanto é preciosa a resposta acima:
 ele te responderá* (Veja-se atrás o capítulo "Da Mediunidade nos
 animais", n.º 234.)
 ## Evocações das pessoas vivas.
+
+## item 284
+
 **284. Evocações das pessoas vivas.**
-
-## item 37
-
 37.ª. A encarnação do Espírito constitui obstáculo à sua
 evocação?
 “Não, mas é necessário que o estado do corpo permita
@@ -939,9 +840,6 @@ que no momento da evocação o Espírito se desprenda. Com
 tanto mais facilidade vem o Espírito encarnado, quanto mais
 elevado for em categoria o mundo onde ele está, porque
 menos materiais são lá os corpos.”
-
-## item 38
-
 38.ª. Pode evocar-se o Espírito de uma pessoa viva?
 “Pode-se, visto que se pode evocar um Espírito encarnado.
 O Espírito de um vivo também pode, em seus momentos
@@ -949,9 +847,6 @@ de liberdade, se apresentar sem ser evocado; isto
 depende da simpatia que tenha pelas pessoas com quem se
 comunica.” (Veja-se, em n.º 116, a "História do homem da
 tabaqueira".)
-
-## item 39
-
 39.ª. Em que estado se acha o corpo da pessoa cujo
 Espírito é evocado?
 “Dorme, ou cochila; é quando o Espírito está livre.”
@@ -960,9 +855,6 @@ ausente?
 “Não; o Espírito é forçado a reentrar na sua habitação; se,
 no momento, ele estiver confabulando convosco, deixa-vos
 e às vezes diz por que motivo.”
-
-## item 40
-
 40.ª. Como, estando ausente do corpo, o Espírito é avisado
 da necessidade da sua presença?
 “O Espírito jamais está completamente separado do
@@ -974,9 +866,6 @@ médiuns videntes. É uma espécie de cauda fosforescente que se
 perde no espaço e na direção do corpo. Alguns Espíritos hão dito
 que por aí é que reconhecem os que ainda se acham presos ao
 mundo corporal.
-
-## item 41
-
 41.ª. Que sucederia se, durante o sono e na ausência
 do Espírito, o corpo fosse mortalmente ferido?
 “O Espírito seria avisado e voltaria antes que a morte
@@ -991,9 +880,6 @@ seja vibrado.”
 Nota. Interrogado sobre este fato, respondeu o Espírito de um
 vivo: “Se o corpo pudesse morrer na ausência do Espírito, este seria
 um meio muito cômodo de se cometerem suicídios hipócritas.”
-
-## item 42
-
 42.ª. O Espírito de uma pessoa evocada durante o sono
 é tão livre de se comunicar como o de uma pessoa morta?
 “Não; a matéria sempre o influencia mais ou menos.”
@@ -1005,9 +891,6 @@ por se achar em outra parte?
 “Sim, pode acontecer que o Espírito esteja num lugar
 onde lhe apraza permanecer e então não acode à evocação,
 sobretudo quando feita por quem não o interesse.”
-
-## item 43
-
 43.ª. É absolutamente impossível evocar-se o Espírito
 de uma pessoa acordada?
 “Ainda que difícil, não é absolutamente impossível, porquanto,
@@ -1030,9 +913,6 @@ Quando a evocação é feita com consentimento da pessoa e
 esta procura dormir para esse efeito, pode acontecer que essa
 preocupação retarde o sono e perturbe o Espírito. Por isso, o sono
 não forçado é sempre preferível.
-
-## item 44
-
 44.ª. Evocada, uma pessoa viva conserva a lembrança
 da evocação, depois de despertar?
 “Não; vós mesmos o sois mais frequentemente do que
@@ -1047,18 +927,12 @@ ou em outros. Suponhamos que teu Espírito tenha animado
 o corpo do pai de outra pessoa. Pois bem, quando essa
 pessoa evocar seu pai, é teu Espírito que será evocado e
 quem responderá.”
-
-## item 45
-
 45.ª. Evocado o Espírito de uma pessoa viva, responde
 ele como Espírito, ou com as ideias que tem no estado de
 vigília?
 “Isso depende da sua elevação; porém, sempre julga
 com mais ponderação e tem menos prejuízos, exatamente
 como os sonâmbulos; é um estado quase semelhante.”
-
-## item 46
-
 46.ª. Se fosse evocado no estado de sono magnético, o
 Espírito de um sonâmbulo seria mais lúcido do que o de
 qualquer outra pessoa?
@@ -1071,9 +945,6 @@ que respondesse verbalmente a outra pessoa?
 “A faculdade de se comunicar simultaneamente em dois
 pontos diferentes só a têm os Espíritos completamente desprendidos
 da matéria.”
-
-## item 47
-
 47.ª. Poder-se-iam modificar as ideias de uma pessoa
 em estado de vigília, atuando-se sobre o seu Espírito
 durante o sono?
@@ -1083,18 +954,12 @@ influir sobre a sua maneira de ver no estado ordinário.
 Infelizmente, acontece com frequência que, ao despertar
 ele, a natureza corpórea predomina e lhe faz esquecer as
 boas resoluções que haja tomado.”
-
-## item 48
-
 48.ª. É livre, o Espírito de uma pessoa viva, de dizer o
 que queira?
 “Ele tem suas faculdades de Espírito e, por conseguinte,
 seu livre-arbítrio; e, como então dispõe de mais perspicácia,
 se mostra mais circunspecto do que no estado de
 vigília.”
-
-## item 49
-
 49.ª. Poder-se-ia, evocando-a, constranger uma pessoa
 a dizer o que quisesse calar?
 “Eu disse que o Espírito tem o seu livre-arbítrio; pode,
@@ -1105,9 +970,6 @@ se ela não quiser falar, poderá sempre fugir às
 importunações, indo-se o seu Espírito embora, porquanto
 ninguém pode reter um Espírito, como se lhe retém o
 corpo.”
-
-## item 50
-
 50.ª. Poderia o Espírito de uma pessoa viva ser constrangido,
 por outro Espírito, a vir e falar, como se dá com
 os Espíritos errantes?
@@ -1132,9 +994,6 @@ que lhe fora feita. Há covardia em perguntar-se ao Espírito de um
 morto ou de um vivo o que se não ousaria perguntar à sua pessoa,
 covardia essa que nem mesmo tem, por compensação, o resultado
 que se pretende.
-
-## item 51
-
 51.ª. Pode evocar-se um Espírito cujo corpo ainda se
 ache no seio materno?
 “Não; bem sabes que nesse momento o Espírito está
@@ -1146,9 +1005,6 @@ consciência de si mesmo e, por conseguinte, a faculdade de responder.
 (Veja-se:
 *O Livro dos Espíritos*: “Da volta do Espírito à
 vida corporal. — União da alma e do corpo”, n.º 344.)
-
-## item 52
-
 52.ª. Poderia um Espírito mistificador tomar o lugar de
 uma pessoa viva que se evocasse?
 “É fora de dúvida que sim e isso acontece frequentemente,
@@ -1161,17 +1017,11 @@ resultado, conforme expressão usada por eles, muito mais frequente
 é que assim aconteça com a dos que estão encarnados.
 Então, sobretudo, é que os Espíritos mistificadores se apresentam,
 em lugar dos evocados.
-
-## item 53
-
 53.ª. Tem inconvenientes a evocação de uma pessoa
 viva?
 “Nem sempre é sem perigo, dependendo isso das condições
 em que se ache a pessoa, porquanto, se estiver
 doente, poderá aumentar-lhe os sofrimentos.”
-
-## item 54
-
 54.ª. Em que caso será mais inconveniente a evocação
 de uma pessoa viva?
 “Não devem evocar-se as crianças de tenra idade, nem
@@ -1181,9 +1031,6 @@ as vezes que o corpo esteja muito enfraquecido.”
 Nota. A brusca suspensão das qualidades intelectuais, durante
 o estado de vigília, também poderia oferecer perigo, se a pessoa
 nesse momento precisasse de toda a sua presença de espírito.
-
-## item 55
-
 55.ª. Durante a evocação de uma pessoa viva, seu corpo,
 embora ausente, experimenta fadiga por efeito do trabalho
 a que se entrega seu Espírito? (Uma pessoa, que se
@@ -1192,9 +1039,6 @@ fatigava, respondeu assim a essa pergunta:)
 “Meu Espírito é como um balão cativo preso a um poste;
 meu corpo é o poste, que as oscilações do balão
 sacodem.”
-
-## item 56
-
 56.ª. Pois que a evocação das pessoas vivas pode ter
 inconvenientes, quando feitas sem precaução, deixa de existir
 perigo quando se evoca um Espírito que não se sabe se
@@ -1203,9 +1047,6 @@ está encarnado e que poderia não se encontrar em condições favoráveis?
 virá, se estiver em condições de fazê-lo. Aliás, eu já não vos
 disse que perguntásseis, antes de fazer uma evocação, se
 ela é possível?”
-
-## item 57
-
 57.ª. Quando, nos momentos mais inoportunos, experimentamos
 irresistível vontade de dormir, provirá isso de
 estarmos sendo evocados nalguma parte?
@@ -1229,10 +1070,10 @@ da matéria. (Veja-se, na
 *Revue spirite* de 1860, páginas
 11 e 81, muitos exemplos notáveis de evocação de pessoas vivas.)
 ## Telegrafia humana.
+
+## item 285
+
 **285. Telegrafia humana.**
-
-## item 58
-
 58.ª. Evocando-se reciprocamente, poderiam duas pessoas
 transmitir de uma a outra seus pensamentos e corresponder-se?
 “Certamente, e essa telegrafia humana será um dia

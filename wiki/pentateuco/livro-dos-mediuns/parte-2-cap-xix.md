@@ -18,121 +18,55 @@ status: ativo
 
 223. 1.ª. No momento em que exerce a sua faculdade, está o médium em estado perfeitamente normal?
 “Está, às vezes, num estado, mais ou menos acentuado, de crise. É o que o fadiga e é por isso que necessita de repouso. Porém, habitualmente, seu estado não difere de modo sensível do estado normal, sobretudo se se trata de médiuns escreventes.”
-
-## item 2
-
 2.ª. As comunicações escritas ou verbais também podem emanar do próprio Espírito encarnado no médium?
 “A alma do médium pode comunicar-se, como a de qualquer outro. Se goza de certo grau de liberdade, recobra suas qualidades de Espírito. Tendes a prova disso nas visitas que vos fazem as almas de pessoas vivas, as quais muitas vezes se comunicam convosco pela escrita, sem que as chameis. Porque, ficai sabendo, entre os Espíritos que evocais, alguns há que estão encarnados na Terra. *Eles, então, vos falam como Espíritos e não como homens.* Por que não se havia de dar o mesmo com o médium?”
 a) Não parece que esta explicação confirma a opinião dos que entendem que todas as comunicações provêm do Espírito do médium e não de Espírito estranho?
 “Os que assim pensam só erram em darem caráter absoluto à opinião que sustentam, porquanto é fora de dúvida que o Espírito do médium pode agir por si mesmo. Isso, porém, não é razão para que outros não atuem igualmente, por seu intermédio.”
-
-## item 3
-
 3.ª. Como distinguir se o Espírito que responde é o do médium, ou outro?
 “Pela natureza das comunicações. Estuda as circunstâncias e a linguagem e distinguirás. No estado de sonambulismo, ou de êxtase, é que, principalmente, o Espírito do médium se manifesta, porque então se encontra mais livre. No estado normal é mais difícil. Aliás, há respostas que se lhe não podem atribuir de modo algum. Por isso é que te digo: estuda e observa.”
 Nota. Quando uma pessoa nos fala, distinguimos facilmente o que vem dela daquilo de que ela é apenas o eco. O mesmo se verifica com os médiuns.
-
-## item 4
-
 4.ª. Desde que o Espírito do médium há podido, em existências anteriores, adquirir conhecimentos que esqueceu debaixo do envoltório corporal, mas de que se lembra como Espírito, não poderá ele haurir nas profundezas do seu próprio eu as ideias que parecem fora do alcance da sua instrução?
 “Isso acontece frequentemente, no estado de crise sonambúlica, ou extática; repito, porém, ainda uma vez, há circunstâncias que não permitem dúvida. Estuda *longamente* e medita.”
-
-## item 5
-
 5.ª. As comunicações que provêm do Espírito do médium, são sempre inferiores às que possam ser dadas por outros Espíritos?
 “Sempre, não; pois um Espírito, que não o do médium, pode ser de ordem inferior à deste e, então, falar menos sensatamente. É o que se vê no sonambulismo. Aí, as mais das vezes, quem se manifesta é o Espírito do sonâmbulo, o qual não raro diz coisas muito boas.”
-
-## item 6
-
 6.ª. O Espírito, que se comunica por um médium, transmite diretamente seu pensamento, ou este tem por intermediário o Espírito encarnado no médium?
 “O Espírito do médium é o intérprete, porque está ligado ao corpo que serve para falar e por ser necessária uma cadeia entre vós e os Espíritos que se comunicam, como é preciso um fio elétrico para comunicar à grande distância uma notícia e, na extremidade do fio, uma pessoa inteligente, que a receba e transmita.”
-
-## item 7
-
 7.ª. O Espírito encarnado no médium exerce alguma influência sobre as comunicações que deva transmitir, provindas de outros Espíritos?
 “Exerce, porquanto, se estes não lhe são simpáticos, pode ele alterar-lhes as respostas e assimilá-las às suas próprias ideias e a seus pendores; *não influencia*, porém, *os próprios Espíritos, autores das respostas*; constitui-se apenas em mau intérprete.”
-
-## item 8
-
 8.ª. Será essa a causa da preferência dos Espíritos por certos médiuns?
 “Não há outra. Os Espíritos procuram o intérprete que mais simpatize com eles e que lhes exprima com mais exatidão os pensamentos. Não havendo entre eles simpatia, o Espírito do médium é um antagonista que oferece certa resistência e se torna, um intérprete de má qualidade e muitas vezes infiel. É o que se dá entre vós, quando a opinião de um sábio é transmitida por intermédio de um estonteado, ou de uma pessoa de má-fé.”
-
-## item 9
-
 9.ª. Compreende-se que seja assim, tratando-se dos médiuns intuitivos, porém, não, relativamente aos médiuns mecânicos.
 “É que ainda não percebeste bem o papel que desempenha o médium. Há aí uma lei que ainda não apanhaste. Lembra-te de que, para produzir o movimento de um corpo inerte, o Espírito precisa utilizar-se de uma parcela de fluido animalizado, que toma ao médium, para animar momentaneamente a mesa, a fim de que esta lhe obedeça à vontade. Pois bem: compreende igualmente que, para uma comunicação inteligente, ele precisa de um intermediário inteligente e que esse intermediário é o Espírito do médium.”
 a) Isto parece que não tem aplicação ao que se chama — mesas falantes, visto que, quando objetos inertes, como as mesas, pranchetas e cestas dão respostas inteligentes, o Espírito do médium, ao que se nos afigura, nenhuma parte toma no fato.
 “É um erro; o Espírito pode dar ao corpo inerte uma vida fictícia momentânea, mas não lhe pode dar, inteligência. Jamais um corpo inerte foi inteligente. É, pois, o Espírito do médium quem recebe, a seu mau grado, o pensamento e o transmite, sucessivamente, com o auxílio de diversos intermediários.”
-
-## item 10
-
 10.ª. Dessas explicações resulta, ao que parece, que o Espírito do médium nunca é completamente passivo?
 “É passivo, quando não mistura suas próprias ideias com as do Espírito que se comunica, mas nunca é inteiramente nulo. Seu concurso é sempre indispensável, como o de um intermediário, embora se trate dos a que chamais médiuns mecânicos.”
-
-## item 11
-
 11.ª. Não haverá maior garantia de independência no médium mecânico, do que no médium intuitivo?
 “Sem dúvida alguma e, para certas comunicações, é preferível um médium mecânico; mas, quando se conhecem as faculdades de um médium intuitivo, torna-se indiferente, conforme as circunstâncias. Quero dizer que há comunicações que exigem menos precisão.”
 **Sistema dos médiuns inertes.**
-
-## item 12
-
 12.ª. Entre os diferentes sistemas, que se hão concebido para explicar os fenômenos espíritas, há um que proclama estar a verdadeira mediunidade num corpo completamente inerte, na cesta, ou no papelão, por exemplo, que serve de instrumento; que o Espírito manifestante se identifica com esse objeto e o torna, além de vivo, inteligente, donde o nome de *médiuns inertes* dado a esses objetos. Que pensais desse sistema?
 “Pouco há que dizer a tal respeito e é que, se o Espírito transmitisse inteligência ao papelão, ao mesmo tempo que a vida, aquele escreveria sozinho, sem o concurso do médium. Fora singular que o homem inteligente se mudasse em máquina e que um objeto inerte se tornasse inteligente. Esse é um dos muitos sistemas oriundos de ideias preconcebidas e que caem, como tantos outros, ante a experiência e a observação.”
-
-## item 13
-
 13.ª. Um fenômeno bem conhecido poderia abonar a opinião de que nos corpos inertes animados há mais do que a vida: o das mesas, cestas, etc. que, pelos seus movimentos, exprimem a cólera, ou a afeição?
 “Quando um homem agita colérico um pau, não é o pau que está presa de cólera, nem mesmo a mão que o segura, mas o pensamento que dirige a mão. As mesas e as cestas não são mais inteligentes do que o pau, nenhum sentimento inteligente apresentam; apenas obedecem a uma inteligência. Numa palavra, o Espírito não se transforma em cesta, nem nela se domicilia.”
-
-## item 14
-
 14.ª. Desde que não é racional atribuir-se inteligência a esses objetos, poder-se-á considerá-los como uma categoria de médiuns, dando-lhes o nome de *médiuns inertes*?
 “É uma questão de palavras, que pouco nos importa, contanto que vos entendais. Sois livres de dar a um boneco o nome de homem.”
-
-## item 15
-
 15.ª. Os Espíritos só têm a linguagem do pensamento; não dispõem da linguagem articulada, pelo que só há para eles uma língua. Assim sendo, poderia um Espírito exprimir-se, por via mediúnica, numa língua que jamais falou quando vivo? E, nesse caso, de onde tira as palavras de que se serve?
 “Acabaste tu mesmo de responder à pergunta que formulaste, dizendo que os Espíritos só têm uma língua, que é a do pensamento. Essa língua todos a compreendem, tanto os homens como os Espíritos. O Espírito errante, quando se dirige ao Espírito encarnado do médium, não lhe fala francês, nem inglês, porém, a língua universal, que é a do pensamento. Para exprimir suas ideias numa língua articulada, transmissível, toma as palavras do vocabulário do médium.
-
-## item 16
-
 16.ª. Se é assim, só na língua do médium deveria ser possível ao Espírito exprimir-se. Entretanto, é sabido que escreve em idiomas que o médium desconhece. Não há aí uma contradição?
 “Nota, primeiramente, que nem todos os médiuns são aptos a esse gênero de exercício e, depois, que os Espíritos só acidentalmente a ele se prestam, quando julgam que isso pode ter alguma utilidade. Para as comunicações usuais e de certa extensão, preferem servir-se de uma língua que seja familiar ao médium, porque lhes apresenta menos dificuldades materiais a vencer.”
-
-## item 17
-
 17.ª. A aptidão de certos médiuns para escrever numa língua que lhes é estranha não provirá da circunstância de lhes ter sido familiar essa língua em outra existência e de haverem guardado a intuição dela?
 “É certo que isto se pode dar, mas não constitui regra. Com algum esforço, o Espírito pode vencer momentaneamente a resistência material que encontra. É o que acontece quando o médium escreve, na língua que lhe é própria, palavras que não conhece.”
-
-## item 18
-
 18.ª. Poderia uma pessoa analfabeta escrever como médium?
 “Sim, mas é fácil de compreender-se que terá de vencer grande dificuldade mecânica, por faltar à mão o hábito do movimento necessário a formar letras. O mesmo sucede com os médiuns desenhistas, que não sabem desenhar.”
-
-## item 19
-
 19.ª. Poderia um médium, muito pouco inteligente, transmitir comunicações de ordem elevada?
 “Sim, pela mesma razão por que um médium pode escrever numa língua que lhe seja desconhecida. A mediunidade propriamente dita independe da inteligência, bem como das qualidades morais. Em falta de instrumento melhor, pode o Espírito servir-se daquele que tem à mão. Porém, é natural que, para as comunicações de certa ordem, prefira o médium que lhe ofereça menos obstáculos materiais. Acresce outra consideração: o idiota muitas vezes só o é pela imperfeição de seus órgãos, podendo, entretanto, seu Espírito ser mais adiantado do que o julguem. Tens a prova disso em certas evocações de idiotas, mortos ou vivos.”
 Nota. Este é um fato que a experiência comprova. Por muitas vezes temos evocado idiotas vivos que hão dado patentes provas de identidade e responderam com muita sensatez e mesmo de modo superior. Esse estado é uma punição para o Espírito, que sofre com o constrangimento em que se vê. Um médium idiota pode, pois, oferecer ao Espírito que queira manifestar-se mais recursos de que se supunha. (Veja-se: *Revue spirite*, julho de 1860, artigo sobre a *Frenologia* e a *Fisiognomonia*.)
-
-## item 20
-
 20.ª. Donde vem a aptidão de alguns médiuns para escrever em verso?
 “A poesia é uma linguagem. Eles podem escrever em verso, como podem escrever numa língua que desconheçam. Depois, é possível que tenham sido poetas em outra existência e, como já te dissemos, os conhecimentos adquiridos jamais os perde o Espírito, que tem de chegar à perfeição em todas as coisas. Nesse caso, o que eles hão sabido lhes dá uma facilidade de que não dispõem no estado ordinário.”
-
-## item 21
-
 21.ª. O mesmo ocorre com os que têm aptidão especial para o desenho e a música?
 “Sim; o desenho e a música também são maneiras de se exprimirem os pensamentos. Os Espíritos se servem dos instrumentos que mais facilidade lhes oferecem.”
-
-## item 22
-
 22.ª. A expressão do pensamento pela poesia, pelo desenho, ou pela música depende unicamente da aptidão especial do médium, ou também da do Espírito que se comunica?
 “Às vezes, do médium; às vezes, do Espírito. Os Espíritos superiores possuem todas as aptidões. Os Espíritos inferiores só dispõem de conhecimentos limitados.”
-
-## item 23
-
 23.ª. Por que é que um homem de extraordinário talento numa existência já não o tem na existência seguinte?
 “Nem sempre assim é, pois que muitas vezes ele aperfeiçoa, numa existência, o que começou na precedente. Mas, pode acontecer que uma faculdade extraordinária dormite durante certo tempo, para deixar que outra se desenvolva. É um gérmen latente, que tornará a ser encontrado mais tarde e do qual alguns traços, ou, pelo menos, uma vaga intuição sempre permanecem.”
 ## Aptidão de certos médiuns para coisas de que nada conhecem: línguas, música, desenho, etc.

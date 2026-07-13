@@ -16,9 +16,6 @@ status: ativo
 
 231. 1.ª. O meio em que se acha o médium exerce alguma influência nas manifestações?
 “Todos os Espíritos que cercam o médium o auxiliam, para o bem ou para o mal.”
-
-## item 2
-
 2.ª. Não podem os Espíritos superiores triunfar da má vontade do
 Espírito encarnado que lhes serve de intérprete e dos que o cercam?
 “Podem, quando julgam conveniente e conforme a intenção da pessoa que
@@ -26,9 +23,6 @@ a eles se dirige. Já o dissemos: os Espíritos mais elevados se
 comunicam, às vezes, por uma graça especial, malgrado à imperfeição do
 médium e do meio, mas, então, estes se conservam completamente estranhos
 ao fato.”
-
-## item 3
-
 3.ª. Os Espíritos superiores procuram encaminhar para uma corrente de ideias sérias as reuniões fúteis?
 “Os Espíritos superiores não vão às reuniões onde sabem que a presença
 deles é inútil. Nos meios pouco instruídos, mas onde há sinceridade, de
@@ -38,9 +32,6 @@ ironia. Em tais meios, é necessário se fale aos olhos e às orelhas:
 esse o papel dos Espíritos batedores e zombeteiros. Convém que aqueles
 que se orgulham da sua ciência sejam humilhados pelos Espíritos menos
 instruídos e menos adiantados.”
-
-## item 4
-
 4.ª. Aos Espíritos inferiores é interdito o acesso às reuniões sérias?
 “Não, algumas vezes lhes é permitido assistir a elas, a fim de
 aproveitarem os ensinos que vos são dados; mas, conservam-se

@@ -70,55 +70,28 @@ Durante a cerimônia do cemitério, ele ditou as palavras seguintes:
 “Que a morte não vos apavore, meus amigos; ela é uma etapa para vós, se soubestes bem viver; ela é uma bem-aventurança, se houverdes merecido dignamente e cumprirdes bem vossas provas. Repito-vos: Coragem e boa vontade! Não atribuais senão um valor medíocre aos bens da terra, e sereis recompensados; não se pode gozar demasiado, sem privar outros do bem-estar, e sem se fazer moralmente um mal imenso. Que a terra me seja leve!”
 **II.**
 (Sociedade Espírita de Paris, 25 de abril de 1862.)
-
-## item 1
-
 1. Evocação.
 — Meus amigos, estou perto de vós.
-
-## item 2
-
 2. — Estamos muito felizes pela conversa que tivemos convosco no dia do vosso sepultamento, e visto que vós o permitis, ficaremos encantados de completá-la para nossa instrução.
 — Estou completamente preparado, feliz que penseis em mim.
-
-## item 3
-
 3. — Tudo aquilo que pode nos esclarecer sobre o estado do mundo invisível e fazer-nos compreendê-lo é um alto ensinamento, porque é a ideia falsa que se faz dele que conduz quase sempre à incredulidade. Não fiqueis então surpreendido com as perguntas que poderemos dirigir-vos.
 — Não ficarei espantado, e espero vossas perguntas.
-
-## item 4
-
 4. Vós descrevestes com uma luminosa claridade a passagem da vida à morte; dissestes que no momento em que o corpo dá o último suspiro, a vida se rompe, e a vista do Espírito se extingue. Esse momento é acompanhado por uma sensação penosa, dolorosa?
 — Sem dúvida, pois a vida é uma sucessão contínua de dores, e a morte é o complemento de todas as dores; daí um dilaceramento violento, como se o Espírito tivesse de fazer um esforço sobre-humano para escapar de seu invólucro, e é esse esforço que absorve todo nosso ser e lhe faz perder o conhecimento do que ele se torna.
 *Observação*. — Esse caso não é geral. A experiência prova que muitos Espíritos desmaiam antes de expirar, e que naqueles que chegaram a um certo grau de desmaterialização, a separação se opera sem esforços.
-
-## item 5
-
 5. — Sabeis se há Espíritos para os quais esse momento é mais doloroso? Ele é mais penoso, por exemplo, para o materialista, para aquele que acredita que tudo acaba nesse momento para ele?
 — Isso é certo, pois o Espírito preparado já esqueceu o sofrimento, ou melhor, ele está habituado a ele, e a quietude com a qual vê a morte impede-o de sofrer duplamente, porque sabe o que o aguarda. A pena moral é a mais forte, e sua ausência no instante da morte é um alívio bem grande. Aquele que não crê parece-se com o condenado à pena capital e cujo pensamento vê a faca e o desconhecido. Há semelhança entre essa morte e a do ateu.
-
-## item 6
-
 6. — Há materialistas bastante endurecidos para crer seriamente, nesse momento supremo, que vão ser mergulhados no nada?
 — Sem dúvida, até a última hora há os que creem no nada; mas, no momento da separação, o Espírito tem um retorno profundo; a dúvida toma conta dele e tortura-o, pois ele se pergunta o que se vai tornar; ele quer perceber algo e não pode. A separação não se pode fazer sem essa impressão.
 *Observação*. — Um Espírito nos deu, numa outra circunstância, o seguinte quadro do fim do incrédulo:
 “O incrédulo endurecido experimenta nos últimos momentos as angústias desses pesadelos terríveis onde se está à beira de um precipício, prestes a cair no abismo; fazem-se inúteis esforços para fugir, e não se pode andar; quer-se agarrar-se a algo, alcançar um ponto de apoio, e sente-se escorregar; quer-se chamar e não se consegue articular nenhum som; é então que se vê o moribundo torcer, crispar as mãos e dar gritos abafados, sinais certos do pesadelo do qual é presa. No pesadelo comum, o despertar tira-vos da agitação, e vós vos sentis felizes por reconhecer que era só um sonho; mas o pesadelo da morte se prolonga frequentemente por muito tempo, até anos, além da morte, e o que torna a sensação ainda mais penosa para o Espírito, são as trevas em que por vezes ele está mergulhado.”
-
-## item 7
-
 7. Dissestes que no momento de morrer não víeis mais, mas que pressentíeis. Não víeis mais corporalmente, isso se compreende; mas, antes que a vida se extinguisse, entrevíeis já a claridade do mundo dos Espíritos?
 – R. É o que eu disse anteriormente: o instante da morte dá a clarividência ao Espírito; os olhos não veem mais, mas o Espírito, que possui uma visão bem mais profunda, descobre instantaneamente um mundo desconhecido, e aparecendo-lhe subitamente a verdade, dá-lhe, momentaneamente é certo, ou uma alegria profunda, ou uma dor inexprimível, segundo o estado de sua consciência e a recordação de sua vida passada. Observação: Trata-se do instante que precede aquele em que o Espírito perde conhecimento, o que explica o emprego da palavra momentaneamente, pois as mesmas impressões agradáveis ou penosas continuam ao despertar.
-
-## item 8
-
 8. Tende a bondade de nos dizer o que, no instante em que vossos olhos se reabriram à luz, vos impressionou, o que vistes. Tende a bondade de nos descrever, se for possível, o aspecto das coisas que se ofereceram a vós.
 – R. Assim que pude voltar a mim, e ver o que tinha diante dos olhos, estava como ofuscado, e não me dava conta, porque a lucidez não volta instantaneamente. Mas Deus, que me deu um sinal profundo de sua bondade, permitiu que eu recuperasse minhas faculdades. Vi-me rodeado de inúmeros e fiéis amigos. Todos os Espíritos protetores que vêm nos assistir, me rodeavam e me sorriam; uma felicidade sem igual os animava, e eu mesmo, forte e de boa saúde, podia, sem esforço, me transportar através do espaço. O que eu vi não tem nome nas línguas humanas.
 Virei, ademais, falar-vos mais amplamente de todas as minhas venturas, sem ultrapassar porém o limite que Deus exige. Sabei que a felicidade, tal como a entendeis entre vós, é uma ficção. Vivei sabiamente, santamente, no espírito de caridade e de amor, e tereis preparado para vós impressões que vossos maiores poetas não saberiam descrever.
 Observação: Os contos de fadas estão sem dúvida cheios de coisas absurdas; mas não seriam eles, em alguns pontos, a pintura do que acontece no mundo dos Espíritos? Não se parece o relato do Sr. Sanson com o de um homem que, adormecido numa pobre e obscura cabana, despertasse num palácio esplêndido, no meio de uma corte brilhante?
 **III**
-
-## item 9
-
 9. Com que aspecto os Espíritos se apresentaram a vós? Com o da forma humana?
 – R. Sim, meu caro amigo, os Espíritos nos haviam ensinado na terra que eles conservavam no outro mundo a forma transitória que tinham tido na terra, e é a verdade. Mas que diferença entre a máquina informe que se arrasta penosamente com seu cortejo de provas, e a fluidez maravilhosa do corpo dos Espíritos! A feiura não existe mais, pois os traços perderam a dureza de expressão que forma o caráter distintivo da raça humana. Deus beatificou todos aqueles corpos graciosos, que se movem com todas as elegâncias da forma; a linguagem tem entonações intraduzíveis para vós, e o olhar tem a profundidade de uma estrela. Tentai, pelo pensamento, ver o que Deus pode fazer na sua onipotência, ele que é o arquiteto dos arquitetos, e tereis uma fraca ideia da forma dos Espíritos.
 
@@ -157,51 +130,18 @@ O Sr. Jobard era presidente honorário da Sociedade Espírita de Paris; pretend�
 Quero primeiro contar-vos minhas impressões no momento da separação da minha alma: senti um abalo extraordinário, lembrei-me subitamente de meu nascimento, minha juventude, minha idade madura; toda a minha vida me veio nitidamente à lembrança. Não sentia senão um piedoso desejo de me encontrar nas regiões reveladas pela nossa querida crença; depois, todo esse tumulto se apaziguou. Eu estava livre e meu corpo jazia inerte. Ah! meus caros amigos, que inebriante é tirar o peso do corpo! Que inebriante abarcar o espaço! Não acrediteis porém que eu me tenha tornado subitamente um eleito do Senhor; não, estou entre os Espíritos que, tendo abarcado um pouco, devem ainda aprender muito. Não tardei a me lembrar de vós, meus irmãos de exílio, e, asseguro-vos, toda a minha simpatia, todos os meus votos vos envolveram.
 Quereis saber quais foram os Espíritos que me receberam? Quais foram minhas impressões? Meus amigos foram todos aqueles que evocamos, todos os irmãos que compartilharam nossos trabalhos. Eu vi o esplendor, mas não posso descrevê-lo. Apliquei-me a discernir o que era verdadeiro nas comunicações, pronto a corrigir todas as asserções errôneas; pronto, enfim, a ser o cavaleiro da verdade no outro mundo, como o fui no vosso.
 Jobard.
-
-## item 1
-
 1. Quando em vida, havíeis nos recomendado chamar-vos quando tivésseis deixado a terra; fazemo-lo, não só para nos conformarmos ao vosso desejo, mas sobretudo para vos renovar o testemunho de nossa viva e sincera simpatia, e também no interesse de nossa instrução, pois vós, melhor do que ninguém, sois capaz de nos dar informações precisas sobre o mundo em que vos encontrais. Ficaremos então felizes se aceitardes responder a nossas perguntas. – R. Nesta hora, o que importa mais é a vossa instrução. Quanto à vossa simpatia, eu a vejo, e não ouço mais sua expressão somente pelos ouvidos, o que constitui um grande progresso.
-
-## item 2
-
 2. Para fixar nossas ideias, e não falar no vazio, perguntar-vos-emos primeiro em que lugar estais aqui, e como nós vos veríamos se vos pudéssemos ver? – R. Estou perto do médium; vós me veríeis na aparência do Jobard que se sentava à vossa mesa, pois vossos olhos mortais não abertos não podem ver os Espíritos a não ser em sua aparência mortal.
-
-## item 3
-
 3. Teríeis a possibilidade de vos tornar visível para nós, e se não o podeis, o que se opõe a isso? – R. A disposição que vos é pessoal. Um médium vidente ver-me-ia: os outros não me veem.
-
-## item 4
-
 4. Este lugar é o que ocupáveis quando vivo, quando assistíeis as nossas sessões, e que vos reservamos. Aqueles portanto que vos viram ali, devem imaginar vos ver ali tal como éreis então. Se não estais ali com vosso corpo material, estais com vosso corpo fluídico que tem a mesma forma; se não vos vemos com os olhos do corpo, vemos com os do pensamento; se não podeis vos comunicar pela fala, podeis fazê-lo pela escrita com a ajuda de um intérprete; nossas relações convosco não estão pois interrompidas de modo nenhum pela vossa morte, e podemos conversar convosco tão facilmente e tão completamente quanto outrora. É assim que as coisas acontecem? – R. Sim, e vós o sabeis há muito tempo. Este lugar, eu o ocuparei muitas vezes, e mesmo sem o vosso conhecimento, pois meu Espírito habitará entre vós.
 Observação: Chamamos a atenção para esta última frase: “Meu Espírito habitará entre vós.” Na circunstância presente, não é uma figura, mas uma realidade. Pelo conhecimento que o Espiritismo nos dá da natureza dos Espíritos, sabe-se que um Espírito pode estar entre nós, não só pelo pensamento, mas em pessoa, com a ajuda de seu corpo etéreo, que faz dele uma individualidade distinta. Um Espírito pode portanto morar entre nós após a morte, tanto quanto quando seu corpo vivia; e melhor ainda, visto que pode vir e ir-se embora quando quer. Temos assim uma multidão de comensais invisíveis, uns indiferentes, outros que nos são apegados pela afeição; é sobretudo a estes últimos que se aplica esta frase: “Eles habitam entre nós”, que pode traduzir-se assim: Eles nos assistem, nos inspiram e nos protegem.
-
-## item 5
-
 5. Não há muito tempo estáveis sentado nesse mesmo lugar; as condições em que estais agora vos parecem estranhas? Que efeito essa mudança produz em vós? – R. Estas condições não me parecem estranhas, pois meu Espírito desencarnado goza de uma nitidez que não deixa na sombra nenhuma das questões que ele encare.
-
-## item 6
-
 6. Lembrais-vos de ter estado nesse mesmo estado antes de vossa última existência, e encontrais aí algo mudado? – R. Lembro-me de minhas existências anteriores, e acho que estou aperfeiçoado. Vejo e comparo-me ao que vejo. Na ocasião de minhas encarnações anteriores, Espírito perturbado, só me apercebia das lacunas terrestres.
-
-## item 7
-
 7. Lembrais-vos de vossa penúltima existência, daquela que precedeu o Sr. Jobard? – R. Em minha penúltima existência eu era operário mecânico, roído pela miséria e o desejo de aperfeiçoar meu trabalho. Realizei, sendo Jobard, os sonhos do pobre operário, e louvo a Deus cuja bondade infinita fez germinar a planta cuja semente ele depositara no meu cérebro.
-
-## item 8
-
 8. Já vos comunicastes em outro lugar? – R. Comuniquei-me pouco, ainda; em muitos lugares um Espírito tomou meu nome; às vezes eu estava perto dele sem poder fazê-lo diretamente; minha morte é tão recente que pertenço ainda a certas influências terrestres. É preciso uma perfeita simpatia para que eu possa expressar meu pensamento. Dentro em pouco, agirei indistintamente; ainda não o posso, repito. Quando um homem um pouco conhecido morre, é chamado de todos os lados; mil Espíritos se apressam a revestir sua individualidade; foi o que me aconteceu em várias circunstâncias. Asseguro-vos que logo depois da libertação, poucos Espíritos podem se comunicar, mesmo a um médium preferido.
-
-## item 9
-
 9. Vedes os Espíritos que estão aqui conosco?
 R. Vejo sobretudo Lázaro e Erasto; depois, mais afastado, o Espírito de verdade planando no espaço; depois uma multidão de Espíritos amigos que vos rodeiam, apressados e benevolentes. Ficai felizes, amigos, pois boas influências vos defendem das calamidades do erro.
-
-## item 10
-
 10. Enquanto vivo, compartilháveis a opinião que foi emitida sobre a formação da terra pela incrustação de quatro planetas que teriam sido soldados juntos. Ainda tendes a mesma crença? – R. É um erro. As novas descobertas geológicas provam as convulsões da terra e sua formação sucessiva. A terra, como os outros planetas, teve sua vida própria, e Deus não teve necessidade dessa grande desordem ou dessa agregação de planetas. A água e o fogo são os únicos elementos orgânicos da terra.
-
-## item 11
-
 11. Pensáveis também que os homens podiam entrar em catalepsia durante um tempo ilimitado, e que o gênero humano foi trazido dessa maneira para a terra? – R. Ilusão de minha imaginação, que ultrapassava sempre o alvo. A catalepsia pode ser longa, mas não indeterminada. Tradições, lendas aumentadas pela imaginação oriental. Meus amigos, sofri muito repassando as ilusões com as quais alimentei meu espírito: não vos enganeis. Eu aprendera muito, e, posso dizê-lo, minha inteligência, prestes a se apropriar desses vastos e diversos estudos, mantivera de minha última encarnação o amor do maravilhoso e do composto tirado das imaginações populares.
 Ainda me ocupei pouco das questões puramente intelectuais no sentido em que vós o tomais. Como poderia eu, deslumbrado, arrastado como sou pelo maravilhoso espetáculo que me rodeia? O vínculo do Espiritismo, mais poderoso do que vós homens podeis conceber, é o único que pode atrair meu ser para essa terra que abandono, não com alegria, seria uma impiedade, mas com o profundo reconhecimento da libertação.
 Por ocasião da subscrição aberta pela Sociedade em benefício dos operários de Lyon, em fevereiro de 1862, um membro entregou 50 francos, dos quais 25 por sua própria conta, e 25 em nome do Sr. Jobard. Este último deu a esse respeito a comunicação seguinte: Sinto-me orgulhoso e reconhecido por não ter sido esquecido entre meus irmãos espíritas. Obrigado ao coração generoso que vos trouxe a oferenda que eu vos teria dado se ainda morasse no vosso mundo. Neste em que habito agora, não se precisa de dinheiro; precisei, portanto, tirar da bolsa da amizade para dar provas materiais de que me tocava o infortúnio de meus irmãos de Lyon. Bravos trabalhadores, que ardentemente cultivais a vinha do Senhor, quanto deveis acreditar que a caridade não é uma palavra vã, visto que pequenos e grandes vos mostraram simpatia e fraternidade. Estais no grande caminho humanitário do progresso; possa Deus vos manter nele, e possais vós ser mais felizes; os Espíritos amigos vos apoiarão e triunfareis! Começo a viver espiritualmente, mais apaziguado e menos perturbado pelas evocações fora do caminho trilhado que choviam sobre mim. A moda reina mesmo sobre os espíritos; quando a moda Jobard der lugar a outra e eu entrar no nada do esquecimento humano, pedirei então aos meus amigos sérios, e entendo por isso aqueles cuja inteligência não esquece, pedir-lhes-ei que me evoquem; então aprofundaremos questões tratadas demasiado superficialmente, e o vosso Jobard, completamente transfigurado, poderá vos ser útil, o que ele deseja de todo o coração. JOBARD.

@@ -387,9 +387,6 @@ perderiam o seu tempo, ou nos fariam perder o nosso.
 ## item 35
 
 35. Aos que quiserem adquirir essas noções preliminares, pela leitura das nossas obras, aconselhamos que as leiam nesta ordem:
-
-## item 1
-
 1.º. O que é o Espiritismo? Esta
 brochura, de uma centena de páginas somente, contém sumária exposição
 dos princípios da doutrina espírita, um apanhado geral desta, permitindo
@@ -399,9 +396,6 @@ Aí se encontram, além disso, respostas às principais questões ou
 objeções que os novatos se sentem naturalmente propensos a fazer. Esta
 primeira leitura, que muito pouco tempo consome, é uma introdução que
 facilita um estudo mais aprofundado.
-
-## item 2
-
 2.º. O Livro dos Espíritos.
 Contém a doutrina completa, como a ditaram os próprios Espíritos, com
 toda a sua filosofia e todas as suas consequências morais. É a revelação
@@ -409,9 +403,6 @@ do destino do homem, a iniciação no conhecimento da natureza dos
 Espíritos e nos mistérios da vida de além-túmulo. Quem o lê compreende
 que o Espiritismo objetiva um fim sério, que não constitui frívolo
 passatempo.
-
-## item 3
-
 3.º. O Livro dos Médiuns. Destina-se
 a guiar os que queiram entregar-se à prática das manifestações,
 dando-lhes conhecimento dos meios próprios para se comunicarem com os

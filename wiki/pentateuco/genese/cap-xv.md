@@ -862,6 +862,9 @@ tudo o que houvesse roubado e exortasse os outros ladrões a se
 tornarem pessoas honestas.
 ## Ressurreições.
 ## A filha de Jairo.
+
+## item 37
+
 **37.** Tendo Jesus passado novamente, de barca, para a outra
 margem, logo que desembarcou, grande multidão se lhe apinhou
 ao derredor. Então, um chefe de sinagoga, chamado Jairo veio ao

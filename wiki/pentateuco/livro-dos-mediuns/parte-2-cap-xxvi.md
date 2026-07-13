@@ -102,6 +102,9 @@ Todavia, para maior segurança, inserimos abaixo as respostas que eles
 nos deram acerca dos assuntos principais sobre que as pessoas pouco
 experientes se mostram em geral dispostas a interrogá-los.
 ## Perguntas simpáticas ou antipáticas aos Espíritos.
+
+## item 288
+
 **288. Perguntas simpáticas ou antipáticas aos Espíritos.**
 
 ## item 1
@@ -164,6 +167,9 @@ respostas e, além do mais, porque o próprio Espírito quase sempre o diz. O
 fato, entretanto, só ocorre com os Espíritos ignorantes, mas de boa-fé;
 nunca com os que fazem alarde de falso saber.
 ## Perguntas sobre o futuro.
+
+## item 289
+
 **289. Perguntas sobre o futuro.**
 
 ## item 7
@@ -270,6 +276,9 @@ linguagem mais vulgar, a troca de uma veste de pano grosseiro por uma de
 seda. O temor da morte irá diminuindo, à medida que as crenças
 espíritas se forem dilatando.”
 ## Sobre as existências passadas e vindouras.
+
+## item 290
+
 **290. Sobre as existências passadas e vindouras.**
 
 ## item 15
@@ -320,6 +329,9 @@ repetimo-lo, é impossível, salvo o caso especial e raro dos Espíritos
 que só estão na Terra para desempenhar uma missão importante, porque
 então o caminho se lhes acha, de certo modo, traçado previamente.”
 ## Sobre interesses morais e materias.
+
+## item 291
+
 **291. Sobre interesses morais e materiais.**
 
 ## item 17
@@ -437,6 +449,9 @@ antes uma maneira de as agravar, porque são quase sempre indício de
 cupidez e dão a ver ao Espírito que os que os formulam só se ocupam com
 ele por interesse. (Veja-se o n.º 295.)
 ## Sobre a sorte dos Espíritos.
+
+## item 292
+
 **292. Sobre a sorte dos Espíritos.**
 
 ## item 21
@@ -461,6 +476,9 @@ Acontece frequentemente que o desaparecimento de uma pessoa, cuja morte não pod
 É, pois, embalar-se em quimérica esperança o pretender alguém conseguir, por esse meio, entrar na posse de heranças, das quais o único traço positivo que lhes fica é o dinheiro despendido para tal fim.
 Não faltam Espíritos dispostos a alimentar semelhantes esperanças e que nenhum escrúpulo têm em induzir, os que lhes dão crédito, a pesquisas, com as quais os que a elas se entregam devem dar-se por muito felizes, quando daí lhes resulte apenas um pouco de ridículo.
 ## Sobre a saúde.
+
+## item 293
+
 **293. Sobre a saúde.**
 
 ## item 24
@@ -508,6 +526,9 @@ um acréscimo de experiência?
 falta de conhecimentos de certos doentes. Mas, para tal,
 fora mister que ele fizesse esse estudo de modo sério, assíduo, com um fim humanitário e não como meio de adquirir, sem trabalho, saber e riqueza.”
 ## Sobre as invenções e descobertas.
+
+## item 294
+
 **294. Sobre as invenções e descobertas.**
 
 ## item 28
@@ -556,6 +577,9 @@ mistérios de origem das coisas. Alguns deles têm, sobre essas matérias,
 seus sistemas, que não valem mais do que os dos homens e aos quais é
 prudente não dar acolhida, senão com a maior reserva.
 ## Sobre os tesouros ocultos.
+
+## item 295
+
 **295. Sobre os tesouros ocultos.**
 
 ## item 30
@@ -602,6 +626,9 @@ então, narrou o que lhe sucedera. Abriu-a, de acordo com as indicações
 de seu marido, e lá estava o testamento, conforme ao que ele lhe
 anunciara.
 ## Sobre outros mundos.
+
+## item 296
+
 **296. Sobre outros mundos.**
 
 ## item 32

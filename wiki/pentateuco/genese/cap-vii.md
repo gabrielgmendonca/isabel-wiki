@@ -254,9 +254,6 @@ dúvida sobre a existência de um fogo interior.
 16. A experiência demonstra que a temperatura se eleva de um grau a cada 30
 metros de profundidade, donde se segue que, a uma profundidade de 300 metros, o
 aumento é de 10 graus; a 3.000 metros, de 100 graus, temperatura da água a ferver; a
-
-## item 30
-
 30.000 metros, ou seja, 7 ou 8 léguas, de 1.000 graus; a 25 léguas, de mais de 3.300
 graus, temperatura a que nenhuma matéria conhecida resiste à fusão. Daí ao centro,
 ainda há um espaço de mais de 1.400 léguas, ou 2.800 léguas em diâmetro, espaço

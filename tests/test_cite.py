@@ -15,7 +15,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from cite import main  # noqa: E402
+from cite import (  # noqa: E402
+    _find_chapter_range,
+    _read_lines,
+    extract_capitulo,
+    extract_le,
+    extract_lm,
+    item_blocks,
+    literal_text,
+    main,
+)
 
 
 def _run(args: list[str]) -> tuple[int, str, str]:
@@ -170,6 +179,39 @@ class CiteFalsosItensTests(unittest.TestCase):
         self.assertIn("(C&I, 1ª parte, cap. VII, item 17)", out)
         self.assertIn("O arrependimento pode ocorrer em todo lugar", out)
 
+    def test_numero_decimal_de_tabela_nao_sombreia_item_real(self):
+        # O cap. X da Gênese traz uma tabela de composição química cujas linhas
+        # são números decimais ("53.360 / 7.021 / 19.686 / 19.934"). A linha
+        # "19.686" casava como marcador do item 19 e sombreava o item REAL
+        # ("19. Tomamos para termo de comparação o calor…"): `literal_text`
+        # devolvia a string "19.686", e o lint acusava de FABRICADA a aspa
+        # genuína das páginas que citam esse item.
+        code, out, _ = _run(["Gênese", "cap. X, item 19"])
+        self.assertEqual(code, 0)
+        self.assertIn("Tomamos para termo de comparação", out)
+        self.assertIn("verdadeiras pilhas elétricas", out)
+        self.assertNotIn("19.686", out)
+
+    def test_enumeracao_ordinal_com_parentese_nao_sombreia_item_real(self):
+        # O preâmbulo do ESE cap. XXVIII (Coletânea de preces) enumera as cinco
+        # categorias como "1.ª) Preces gerais; / 2.ª) Preces por aquele mesmo que
+        # ora; …". Essas linhas casavam como itens 1–5 e sombreavam os itens
+        # REAIS do capítulo. O ")" desqualifica — o ordinal sozinho, não.
+        code, out, _ = _run(["ESE", "cap. XXVIII, item 2"])
+        self.assertEqual(code, 0)
+        self.assertIn("Prefácio", out)
+        self.assertIn("puséssemos a oração dominical", out)
+        self.assertNotIn("Preces por aquele mesmo que ora", out)
+
+    def test_item_3_do_ese_xxviii_traz_a_oracao_dominical(self):
+        # O item 3 é a própria oração dominical comentada (I a VII) — várias
+        # páginas citam "cap. XXVIII, item 3-I" etc. Antes voltava só a linha
+        # "3.ª) Preces pelos vivos;".
+        code, out, _ = _run(["ESE", "cap. XXVIII, item 3"])
+        self.assertEqual(code, 0)
+        self.assertIn("Pai nosso, que estás no céu", out)
+        self.assertIn("Venha o teu reino", out)
+
 
 class CiteLEBlockquoteTests(unittest.TestCase):
     """A q. 566 do LE vem dentro de um blockquote ('>566. …'); sem tolerar o
@@ -268,6 +310,169 @@ class CiteSecoesAvulsasTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertIn("(LE, Introdução)", out)
         self.assertIn("estudo da doutrina espírita", out)
+
+
+class CiteInvarianteAntiSombreamentoTests(unittest.TestCase):
+    """Varredura de invariante — a rede que pega a CLASSE do bug, não o caso.
+
+    Todo bug de sombreamento já visto (cauda `219.)` no LM, tabela decimal
+    `19.686` na Gênese, enumeração `2.ª)` no ESE) tem a mesma assinatura: um
+    marcador FALSO casa numa linha ANTERIOR à do item verdadeiro, e o extractor
+    ancora nele. Daí duas propriedades que o corpus inteiro tem de satisfazer:
+
+    1. **Monotonicidade** — dentro de um capítulo (e ao longo do LE/LM), o item N
+       começa numa linha estritamente maior que a do item N-1. Um falso marcador
+       à frente do item real faz a linha ANDAR PARA TRÁS.
+    2. **Substância** — o corpo de um item tem letras, não só dígitos e
+       pontuação. Linha de tabela numérica não é item.
+
+    Isso vale para loci que hoje nem existem em página nenhuma: um regex novo que
+    volte a casar ruído quebra estes testes antes de contaminar a wiki.
+    """
+
+    ROMANOS = [
+        "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII",
+        "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI", "XXII",
+        "XXIII", "XXIV", "XXV", "XXVI", "XXVII", "XXVIII",
+    ]
+    # (sigla, prefixo da ref, nº de capítulos) — sigla na forma interna que
+    # `extract_capitulo` espera ("Genese" sem acento; a normalização da entrada
+    # mora na CLI / em `literal_text`). C&I 2ª parte usa relatos nominais (sem
+    # itens numerados), então fica fora.
+    OBRAS = [
+        ("ESE", "", 28),
+        ("Genese", "", 18),
+        ("C&I", "1ª parte, ", 11),
+    ]
+    MAX_ITEM = 40  # teto folgado; itens ausentes simplesmente não resolvem
+
+    @staticmethod
+    def _linha_inicial(header: str) -> int:
+        return int(header.rsplit("linhas ", 1)[1].split("-", 1)[0])
+
+    def _itens_do_capitulo(self, sigla: str, prefixo: str, roman: str):
+        """[(n, linha_inicial, corpo)] dos itens que resolvem no capítulo."""
+        achados = []
+        for n in range(1, self.MAX_ITEM + 1):
+            ref = f"{prefixo}cap. {roman}, item {n}"
+            try:
+                header, body = extract_capitulo(sigla, ref)
+            except SystemExit:
+                continue  # item inexistente — não é falha
+            achados.append((n, self._linha_inicial(header), body))
+        return achados
+
+    def test_itens_de_capitulo_sao_monotonicos_e_tem_substancia(self):
+        checados = 0
+        for sigla, prefixo, n_caps in self.OBRAS:
+            for roman in self.ROMANOS[:n_caps]:
+                itens = self._itens_do_capitulo(sigla, prefixo, roman)
+                anterior_n = anterior_linha = None
+                for n, linha, body in itens:
+                    checados += 1
+                    corpo = body.split("\n", 1)[-1] if body.startswith("AVISO") else body
+                    self.assertRegex(
+                        corpo, r"[A-Za-zÀ-ÿ]",
+                        f"({sigla}, {prefixo}cap. {roman}, item {n}) sem letra "
+                        f"nenhuma no corpo — provável linha de tabela numérica: {corpo[:40]!r}",
+                    )
+                    if anterior_linha is not None:
+                        self.assertGreater(
+                            linha, anterior_linha,
+                            f"({sigla}, {prefixo}cap. {roman}): item {n} começa na linha "
+                            f"{linha}, ANTES do item {anterior_n} (linha {anterior_linha}) "
+                            f"— marcador falso sombreando o item real",
+                        )
+                    anterior_n, anterior_linha = n, linha
+        # Piso de sanidade: se a varredura parar de achar itens, o teste vira
+        # vacuamente verde e deixa de proteger.
+        self.assertGreater(checados, 500, "varredura achou itens de menos")
+
+    def test_questoes_do_le_sao_monotonicas(self):
+        anterior_n = anterior_linha = None
+        checados = 0
+        for n in range(1, 1011):
+            try:
+                header, _ = extract_le(f"q. {n}")
+            except SystemExit:
+                continue
+            linha = self._linha_inicial(header)
+            checados += 1
+            if anterior_linha is not None:
+                self.assertGreater(
+                    linha, anterior_linha,
+                    f"(LE, q. {n}) começa na linha {linha}, ANTES da q. {anterior_n} "
+                    f"(linha {anterior_linha}) — marcador falso sombreando a questão real",
+                )
+            anterior_n, anterior_linha = n, linha
+        self.assertGreater(checados, 950)
+
+    def test_itens_do_lm_sao_monotonicos(self):
+        anterior_n = anterior_linha = None
+        checados = 0
+        for n in range(1, 351):
+            try:
+                header, _ = extract_lm(f"item {n}")
+            except SystemExit:
+                continue
+            linha = self._linha_inicial(header)
+            checados += 1
+            if anterior_linha is not None:
+                self.assertGreater(
+                    linha, anterior_linha,
+                    f"(LM, item {n}) começa na linha {linha}, ANTES do item {anterior_n} "
+                    f"(linha {anterior_linha}) — marcador falso sombreando o item real",
+                )
+            anterior_n, anterior_linha = n, linha
+        self.assertGreater(checados, 300)
+
+
+class ItemBlocksContratoTests(unittest.TestCase):
+    """`item_blocks` é a fonte única de segmentação que o `publish_pentateuco`
+    consome. O contrato: para cada (sigla, item) que ela devolve, o bloco
+    delimitado tem de ser IDÊNTICO ao que `literal_text` extrai — senão o
+    round-trip do publisher falha e a âncora é descartada em silêncio.
+
+    A quebra concreta que este teste trava: aplicar a segmentação de capítulo ao
+    LM, cujos itens têm numeração CONTÍNUA (não reiniciam por capítulo) e são
+    resolvidos por `extract_lm`, não por `extract_capitulo`.
+    """
+
+    def _bate(self, sigla: str, slug: str, roman: str, ref_fmt) -> int:
+        base = Path(ROOT) / "raw" / "kardec" / "pentateuco"
+        lines = _read_lines(base / f"{slug}.md")
+        rng = _find_chapter_range(base / f"{slug}.index.md", roman, None)
+        self.assertIsNotNone(rng, f"{sigla} cap. {roman} não localizado")
+        start, end, _part = rng
+        checados = 0
+        for i, n, fim in item_blocks(sigla, lines, start, end):
+            bloco = "\n".join(lines[i:fim]).strip()
+            verdade = literal_text(sigla, ref_fmt(roman, n))
+            if verdade is None:
+                continue  # locus que o cite.py declina — sem âncora, sem contrato
+            self.assertEqual(
+                verdade.strip(), bloco,
+                f"({sigla}, {ref_fmt(roman, n)}): item_blocks e literal_text discordam "
+                f"— o round-trip do publisher descartaria esta âncora",
+            )
+            checados += 1
+        return checados
+
+    def test_contrato_ese_capitulo(self):
+        n = self._bate("ESE", "evangelho-segundo-o-espiritismo", "XVII",
+                       lambda r, i: f"cap. {r}, item {i}")
+        self.assertGreater(n, 3)
+
+    def test_contrato_genese_capitulo_com_transcricao_biblica(self):
+        # Cap. XII é o pior caso (versículos bíblicos + tabela comparativa).
+        n = self._bate("Genese", "genese", "XII", lambda r, i: f"cap. {r}, item {i}")
+        self.assertGreaterEqual(n, 20)
+
+    def test_contrato_lm_numeracao_continua(self):
+        # LM não reinicia a numeração por capítulo — a segmentação tem de seguir
+        # `extract_lm`, não `extract_capitulo`.
+        n = self._bate("LM", "livro-dos-mediuns", "XX", lambda r, i: f"item {i}")
+        self.assertGreater(n, 3)
 
 
 if __name__ == "__main__":

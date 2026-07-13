@@ -154,41 +154,14 @@ Observação: Após a morte, a senhora B... deu, quer à sua filha, quer à Soci
 **Charles de Saint-G..., idiota**
 (Sociedade Espírita de Paris, 1860.)
 Charles de Saint-G... era um jovem idiota de treze anos de idade, vivo, e cujas faculdades intelectuais eram de tal nulidade que não conhecia seus pais e mal podia pegar sua comida. Havia nele cessação completa de desenvolvimento em todo o sistema orgânico.
-
-## item 1
-
 1. A São Luís. Gostaríeis de dizer-nos se podemos fazer a evocação do Espírito desta criança? – R. Podeis evocá-lo como se evocásseis o Espírito de um morto.
-
-## item 2
-
 2. Vossa resposta nos faria supor que a evocação poderia fazer-se a qualquer momento. – R. Sim; sua alma está ligada ao seu corpo por laços materiais, mas não por laços espirituais; ela sempre pode se desprender.
-
-## item 3
-
 3. Evocação de Ch. de Saint-G... – Sou um pobre Espírito preso à terra como um pássaro por uma pata.
-
-## item 4
-
 4. Em vosso estado atual, como Espírito, tendes consciência de vossa nulidade neste mundo? – Certamente; sinto bem o meu cativeiro.
-
-## item 5
-
 5. Quando o vosso corpo dorme, e que o vosso Espírito se desprende, tendes as ideias tão lúcidas como se estivésseis num estado normal? – R. Quando meu infeliz corpo descansa, fico um pouco mais livre para me elevar ao céu a que aspiro.
-
-## item 6
-
 6. Experimentais, como Espírito, um sentimento penoso por vosso estado corporal? – R. Sim, visto que é uma punição.
-
-## item 7
-
 7. Lembrais-vos de vossa existência anterior? – R. Oh! sim; ela é a causa de meu presente exílio.
-
-## item 8
-
 8. Qual era essa existência? – R. Um jovem libertino sob Henrique III.
-
-## item 9
-
 9. Dizeis que vossa condição atual é uma punição; então não a escolhestes? – Não.
 
 ## item 10
@@ -238,42 +211,15 @@ P. Agradecemos-vos por terdes vindo ao nosso chamado, e não duvidamos de que De
 Clara Rivier era uma garota de dez anos, pertencendo a uma família de lavradores num vilarejo do sul da França; estava completamente enferma há quatro anos. Durante sua vida, nunca soltou uma única queixa, nem deu nenhum sinal de impaciência; embora desprovida de instrução, consolava a família aflita contando-lhe sobre a vida futura e a felicidade que ela devia encontrar lá. Morreu em setembro de 1862, depois de quatro dias de torturas e de convulsões, durante as quais não cessou de orar a Deus. “Não temfo a morte, dizia ela, visto que uma vida de felicidade me está reservada depois.”
 Dizia ao pai, que chorava: “Consola-te, voltarei para te visitar; minha hora está próxima, sinto-o; mas, quando ela chegar, eu saberei e te prevenirei antes.” Com efeito, quando o momento fatal estava prestes a realizar-se, ela chamou todos os seus dizendo: “Não tenho mais do que cinco minutos de vida; dai-me as vossas mãos.” E expirou como anunciara.
 Desde então, um Espírito batedor veio visitar a casa dos esposos Rivier, onde perturba tudo; bate na mesa, como se tivesse uma clava; agita os tecidos e as cortinas, mexe na louça. Esse Espírito aparece na forma de Clara à jovem irmã desta, que tem apenas cinco anos. De acordo com esta criança, sua irmã falou-lhe muitas vezes, e essas aparições fazem-na muitas vezes dar gritos de alegria, e dizer: “Mas vejam só como Clara está bonita!”
-
-## item 1
-
 1. Evocação de Clara Rivier. – R. Estou perto de vós, disposta a responder.
-
-## item 2
-
 2. De onde vos vinham, embora tão jovem e sem instrução, as ideias elevadas que exprimíeis sobre a vida futura antes da vossa morte? – R. Do pouco tempo que tinha de passar no vosso globo e da minha encarnação anterior. Eu era médium quando deixei a terra, e era médium ao voltar ao vosso meio. Era uma predestinação; eu sentia e via o que dizia.
-
-## item 3
-
 3. Como explicar que uma criança de vossa idade não tenha feito nenhuma queixa durante quatro anos de sofrimentos? – R. Porque o sofrimento físico era controlado por um poder maior, o do meu anjo guardião, que eu via continuamente perto de mim; ele sabia aliviar tudo o que eu sentia; ele tornava minha vontade mais forte do que a dor.
-
-## item 4
-
 4. Como fostes avisada do instante da vossa morte? – R. Meu anjo guardião mo dizia; ele nunca me enganou.
-
-## item 5
-
 5. Vós dissestes ao vosso pai: “Consola-te, virei visitar-te.” Como explicar que imbuída de tão bons sentimentos para com vossos pais, vindes atormentálos após vossa morte, fazendo alarido na casa deles? – R. Tenho sem dúvida uma prova, ou antes uma missão a cumprir. Se venho rever meus pais, credes que seja por nada? Esses barulhos, essa perturbação, essas lutas trazidas pela minha presença são um aviso. Sou ajudada por outros Espíritos cuja turbulência tem um alcance, como eu tenho a minha ao aparecer à minha irmã. Graças a nós, muitas convicções vão nascer. Meus pais tinham uma prova a suportar; ela cessará em breve, mas somente depois de ter levado a convicção a uma
 multidão de espíritos.
-
-## item 6
-
 6. Assim, não sois vós pessoalmente que causais essa perturbação? – R. Sou ajudada por outros Espíritos que servem na prova reservada aos meus queridos pais.
-
-## item 7
-
 7. Como explicar que vossa irmã vos tenha reconhecido, se não sois vós que produzis essas manifestações? – R. Minha irmã só viu a mim. Ela possui agora uma segunda vista, e não é a última vez que minha presença a virá consolar e encorajar.
-
-## item 8
-
 8. Por que, tão jovem, fostes acometida de tantas enfermidades? – R. Eu tinha faltas anteriores a expiar; tinha abusado da saúde e da posição brilhante de que gozava na minha encarnação anterior; então Deus disse-me: “Gozaste grandemente, desmesuradamente, sofrerás igualmente; eras orgulhosa, serás humilde; eras orgulhosa de tua beleza e serás aniquilada; em vez da vaidade, esforçar-te-ás por adquirir caridade e bondade.” Fiz de acordo com a vontade de Deus, e meu anjo guardião ajudou-me.
-
-## item 9
-
 9. Gostaríeis de mandar dizer alguma coisa aos vossos pais? – R. A pedido de um médium, meus pais fizeram muita caridade; tiveram razão de nem sempre orar com os lábios: é preciso fazê-lo com a mão e o coração. Dar àqueles que sofrem é orar, é ser espírita.
 Deus deu a todas as almas o livre-arbítrio, ou seja, a faculdade de progredir; a todas ele deu a mesma aspiração, e é por isso que o vestido de burel toca de mais perto o vestido de brocado de ouro do que geralmente se pensa. Assim, diminuí as distâncias pela caridade; introduzi o pobre em vossa casa, encorajai-o, erguei-o, não o humilheis. Se se soubesse praticar em toda parte esta grande lei da consciência, não haveria, em épocas determinadas, estas grandes misérias que desonram os povos civilizados, e que Deus envia para os castigar e para lhes abrir os olhos.
 Queridos pais, orai a Deus, amai-vos, praticai a lei do Cristo: não fazer aos outros o que não gostaríeis que vos fizessem: implorai a Deus que vos põe à prova, mostrando-vos que sua vontade é santa e grande como ele. Sabei, em vista do futuro, armar-vos de coragem e de perseverança, pois ainda sois chamados a sofrer: é preciso saber merecer uma boa posição num mundo melhor, onde a compreensão da justiça divina se torna a punição dos maus Espíritos.

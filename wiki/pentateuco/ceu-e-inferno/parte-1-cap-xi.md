@@ -77,9 +77,6 @@ costumes trazidos do Egito, onde aquele das evocações era usual e um
 motivo de abuso, como provam estas palavras de Isaías: “O Espírito do
 Egito se aniquilará nela, e derrubarei sua prudência; eles consultarão
 seus ídolos, seus adivinhos, seus pítons e seus mágicos.” (Cap. XIX, v.
-
-## item 3
-
 3.)
 Além disso, os israelitas não deviam contrair nenhuma aliança com as
 nações estrangeiras; ora, eles iam encontrar as mesmas práticas entre

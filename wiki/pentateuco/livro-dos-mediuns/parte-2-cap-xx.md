@@ -20,9 +20,6 @@ status: ativo
 “Não; a faculdade propriamente dita se radica no organismo; independe
 do moral. O mesmo não se dá, porém, com o seu uso, que pode ser bom, ou
 mau, conforme as qualidades do médium.”
-
-## item 2
-
 2.ª. Sempre se há dito
 que a mediunidade é um dom de Deus, uma graça, um favor. Por que, então,
 não constitui privilégio dos homens de bem e por que se veem pessoas
@@ -39,9 +36,6 @@ põe-nos nas mãos deles.
 Cabe-lhes aproveitá-los. Judas, o traidor, não fez milagres e não curou
 doentes, como apóstolo? Deus permitiu que ele tivesse esse dom, para
 mais odiosa tornar aos seus próprios olhos a traição que praticou.”
-
-## item 3
-
 3.ª. Os médiuns, que fazem mau uso das suas faculdades, que não se
 servem delas para o bem, ou que não as aproveitam para se instruírem,
 sofrerão as consequências dessa falta?
@@ -49,9 +43,6 @@ sofrerão as consequências dessa falta?
 uso, serão punidos duplamente, porque têm um meio a mais de se
 esclarecerem e o não aproveitam. Aquele que vê claro e tropeça é mais
 censurável do que o cego que cai no fosso.”
-
-## item 4
-
 4.ª. Há médiuns aos
 quais, espontaneamente e quase constantemente, são dadas comunicações
 sobre o mesmo assunto, sobre certas questões morais, por exemplo, sobre
@@ -73,9 +64,6 @@ pessoas, que elas não se reconhecem no quadro que se lhes põe diante dos
 olhos. Ainda mais: se o Espírito lhes dá a entender que é delas que se
 trata, zangam-se e o qualificam de mentiroso, ou malicioso. Só isto
 basta para provar que o Espírito tem razão.
-
-## item 5
-
 5.ª. Nas lições
 ditadas, de modo geral, ao médium, sem aplicação pessoal, não figura ele
 como instrumento passivo, para instrução de outrem?
@@ -93,9 +81,6 @@ nos servimos dos que oferecem as facilidades necessárias. Tenha-se,
 porém, como certo que tempo virá em que os bons médiuns serão muito
 comuns, de sorte que os bons Espíritos não precisarão servir-se de
 instrumentos maus.”
-
-## item 6
-
 6.ª. Visto que as qualidades morais do médium
 afastam os Espíritos imperfeitos, como é que um médium dotado de boas
 qualidades transmite respostas falsas, ou grosseiras?
@@ -103,9 +88,6 @@ qualidades transmite respostas falsas, ou grosseiras?
 criatura ser leviana e frívola, sem que seja viciosa. Também isso se
 dá, porque, às vezes, ele necessita de uma lição, a fim de manter-se em
 guarda.”
-
-## item 7
-
 7.ª. Por que permitem os Espíritos superiores que
 pessoas dotadas de grande poder, como médiuns, e que muito de bom
 poderiam fazer, sejam instrumentos do erro?
@@ -114,9 +96,6 @@ que falas procuram influenciá-las; mas, quando essas pessoas consentem
 em ser arrastadas para mau caminho, eles as deixam ir. Daí o servirem-se
 delas com repugnância, visto que a
 verdade não pode ser interpretada pela mentira.”
-
-## item 8
-
 8.ª. Será absolutamente impossível se obtenham boas comunicações por um médium imperfeito?
 “Um médium imperfeito pode algumas vezes obter boas coisas, porque, se
 dispõe de uma bela faculdade, não é raro que os bons Espíritos se
@@ -131,9 +110,6 @@ desvendam os defeitos e o afastam das pessoas sérias e
 bem-intencionadas, cuja boa-fé poderia ser laqueada. Neste caso,
 quaisquer que sejam as faculdades que possua, seu afastamento não é de
 causar saudades.
-
-## item 9
-
 9.ª. Qual o médium que se poderia qualificar de perfeito?
 “Perfeito, ah! bem sabes que a perfeição não existe na Terra, sem o
 que não estaríeis nela. Dize, portanto,
@@ -141,9 +117,6 @@ que não estaríeis nela. Dize, portanto,
 isso que eles são raros. Médium perfeito seria aquele contra o qual os
 maus Espíritos jamais
 ousassem uma tentativa de enganá-lo. O melhor é aquele que, simpatizando somente com os bons Espíritos, tem sido o menos enganado.”
-
-## item 10
-
 10.ª. Se ele só com os bons Espíritos simpatiza, como permitem estes que seja enganado?
 “Os bons Espíritos permitem, às vezes, que isso aconteça com os
 melhores médiuns, para lhes exercitar a ponderação e para lhes ensinar a
@@ -154,14 +127,8 @@ tempos a tempos ele recebe, são avisos para que não se considere
 infalível e não se assoberbe. Porque, o médium que receba as coisas
 mais notáveis não tem que se gloriar disso, como não o tem o tocador de
 realejo que obtém belas árias movendo a manivela do seu instrumento.”
-
-## item 11
-
 11.ª. Quais as condições necessárias para que a palavra dos Espíritos superiores nos chegue isenta de qualquer alteração?
 “Querer o bem; repulsar o egoísmo e o orgulho. Ambas essas coisas são necessárias.”
-
-## item 12
-
 12.ª. Uma vez que a palavra dos Espíritos superiores não nos chega pura,
 senão em condições difíceis de se encontrarem preenchidas, esse fato
 não constitui um obstáculo à propagação da verdade?

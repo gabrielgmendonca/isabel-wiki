@@ -35,11 +35,22 @@ no mesmo capítulo) — ambos são reconhecidos. A Introdução é extraída int
 (`ESE "Introdução"`); itens isolados da Introdução não, por causa do markup
 irregular.
 
-Marcadores de item robustos a ruído: o início-de-linha tolera blockquote
-(">566." no LE) e asteriscos, e rejeita caudas de cross-ref quebradas em duas
-linhas ("219.)"), que seriam lidas como item e sombreariam o item real. Ordinais
-internos ("1.º") NÃO são rejeitados, porque em C&I cap. VII eles são os próprios
-itens canônicos — o preço é truncar o corpo de itens que contêm enumerações.
+Marcadores de item robustos a ruído. O início-de-linha tolera blockquote (">566."
+no LE) e asteriscos; o que vem DEPOIS do ponto decide se "N." é item ou ruído
+(ver `_ITEM_RE`). Um marcador falso à frente do item verdadeiro SOMBREIA o item
+(o extractor ancora nele) e TRUNCA o corpo do anterior — os quatro sombreamentos
+observados no corpus: cauda de cross-ref ("219.)"), número decimal de tabela
+("19.686", Gênese cap. X), enumeração ordinal com parêntese ("2.ª) Preces…", ESE
+cap. XXVIII) e versículo bíblico transcrito ("6. Disse Deus também…", Gênese cap.
+XII, onde Kardec cita o Gênesis e a quebra de linha expõe o nº do versículo).
+
+Para ESE/C&I/Gênese, `_chapter_items` filtra esses falsos por continuação de
+linha, política de ordinais e sequência; para LE/LM (numeração contínua),
+`_ITEM_LEM_RE` rejeita ordinais de saída. O ordinal só é item legítimo em C&I 1ª
+parte cap. VII, cujos 33 itens canônicos são "N.º — …".
+
+`item_blocks(sigla, …)` é a fonte única dessa segmentação — `publish_pentateuco`
+a consome para ancorar exatamente onde o `literal_text` resolve.
 """
 from __future__ import annotations
 
@@ -96,17 +107,42 @@ SIGLA_INPUT_NORM = {
 # opcional, não indentação arbitrária (evita casar linhas indentadas que não
 # são itens).
 #
-# Lookahead negativo `(?!\))` no fim: rejeita caudas de cross-ref quebradas em
-# duas linhas — "(N.º\n219.)" deixa "219.)" no início da linha, que casava como
-# "item 219" e SOMBREAVA o item real (LM item 219 caía na linha errada). O ")"
-# logo após o ponto denuncia a cauda.
+# O que vem DEPOIS do ponto decide se "N." é marcador de item ou ruído. Três
+# lookaheads negativos, cada um de um bug real de sombreamento (o falso marcador
+# aparece ANTES do item verdadeiro e o extractor ancora nele):
 #
-# NÃO rejeitamos ordinais "N.º": embora "1.º que…" no meio de uma resposta seja
-# ruído (e TRUNQUE o corpo do item — ex.: LM item 35), em C&I 1ª parte cap. VII
-# os PRÓPRIOS itens canônicos são ordinais ("1.º — A alma…" … "30.º"); rejeitar
-# "º" quebraria ~50 citações reais da wiki a esse capítulo. O truncamento por
-# ordinal interno é limitação pré-existente conhecida, preferível a perder itens.
-_ITEM_RE = re.compile(r"^(?:>\s*)?\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}\s*(?!\))")
+# `(?!\d)` — "19.686" é NÚMERO DECIMAL, não item. O cap. X da Gênese traz uma
+#   tabela de composição química ("Fibrina / 53.360 / 7.021 / 19.686 / 19.934");
+#   a linha "19.686" sombreava o item 19 real ("19. Tomamos para termo de
+#   comparação o calor…"), e `literal_text` devolvia a string "19.686".
+#
+# `(?![ºª]?\))` — ")" logo após o número (com ou sem ordinal) denuncia enumeração
+#   ou cauda de cross-ref, nunca um item:
+#     - "219.)" — cauda de "(N.º\n219.)" quebrada em duas linhas, que sombreava o
+#       item 219 real do LM;
+#     - "2.ª) Preces por aquele mesmo que ora;" — item de LISTA no preâmbulo do
+#       ESE cap. XXVIII (Coletânea de preces), que sombreava o item 2 real
+#       ("2. Prefácio. — Os Espíritos recomendaram…") e o 3.
+#
+# O ordinal SOZINHO ("1.º — A alma…") continua sendo item válido AQUI: em C&I 1ª
+# parte cap. VII os itens canônicos do "Código penal da vida futura" SÃO ordinais,
+# e rejeitá-los quebraria ~50 citações reais da wiki. É o `)` que os desqualifica,
+# não o "º"/"ª". (No LE/LM, onde ordinal nunca é item, use `_ITEM_LEM_RE`.)
+#
+# O versículo bíblico transcrito ("6. Disse Deus também…") não dá para separar por
+# regex — é o que `_chapter_items` resolve, olhando o contexto.
+_ITEM_RE = re.compile(
+    r"^(?:>\s*)?\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}(?!\d)(?![ºª]?\))\s*"
+)
+
+# Variante para LE e LM, que rejeita TAMBÉM o ordinal ("2.ª. Sempre se há dito…").
+# O ordinal só é marcador de item legítimo em C&I 1ª parte cap. VII (obra de
+# `extract_capitulo`); no LE e no LM ele é sempre enumeração DENTRO da resposta —
+# e, lido como item, tanto criava um "item 2" falso lá pelo cap. XX do LM quanto
+# TRUNCAVA o corpo do item que o continha (a limitação conhecida do LM item 35).
+_ITEM_LEM_RE = re.compile(
+    r"^(?:>\s*)?\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}(?![\dºª])(?!\))\s*"
+)
 
 # Subitem do LE: "a) –", tolera travessões variados ou ausência.
 _SUBITEM_RE = re.compile(r"^([a-z])\)\s*[–—-]?")
@@ -225,6 +261,124 @@ def _format(header: str, body: str) -> str:
     return f"{header}\n\n{body.rstrip()}\n"
 
 
+# Linha que TERMINA em travessão: a seguinte é continuação do mesmo período, não
+# um item novo. Kardec transcreve o Gênesis bíblico encadeando versículos com
+# " — N. ", e a quebra de linha cai onde calha; quando calha logo após o
+# travessão, o número do VERSÍCULO amanhece no início da linha e é indistinguível
+# de um marcador de item (Gênese cap. XII: os "versículos" 2, 6, 9, 10, 13, 14,
+# 15 e 20 sombreavam os itens homônimos de Kardec).
+_CONT_RE = re.compile(r"[—–-]\s*$")
+
+# Marcador com sufixo ordinal ("1.º", "2.ª"). Ver _chapter_items.
+_ORDINAL_ITEM_RE = re.compile(r"^(?:>\s*)?\*{0,2}\d+(?:\s*\[\d+\])?\.\*{0,2}[ºª]")
+
+
+def _chapter_items(lines: list[str], line_start: int, line_end: int) -> list[tuple[int, int]]:
+    """[(índice 0-based, número)] dos marcadores REAIS de item do capítulo.
+
+    `_ITEM_RE` sozinho é ingênuo: casa qualquer "N." no início de linha. Num
+    corpus que transcreve a Bíblia, tabula números e enumera listas, isso produz
+    marcadores FALSOS — e um falso à frente do item verdadeiro faz o extractor
+    ancorar nele (sombreamento) e ainda TRUNCA o corpo do item anterior, porque
+    `_find_block` para no primeiro marcador que encontra. Três filtros, cada um
+    de um sombreamento observado:
+
+    (a) **Continuação** — descarta marcador cuja linha anterior termina em
+        travessão (`_CONT_RE`): é versículo bíblico no meio de uma transcrição
+        que quebrou linha, não item.
+
+    (b) **Política de ordinais** — se o capítulo tem QUALQUER marcador simples
+        ("6."), os ordinais ("6.º") são ruído e caem. Só quando o capítulo não
+        tem nenhum marcador simples é que os ordinais SÃO os itens — é o caso do
+        "Código penal da vida futura" (C&I 1ª parte cap. VII), cujos 33 itens
+        são todos "N.º — …". Sem isso, a tabela comparativa da Gênese cap. XII
+        ("6.º DIA. — Os animais terrestres.") sombreava o item 6 de Kardec, que
+        vem duas linhas depois.
+
+    (c) **Sequencial** — os itens de um capítulo são 1, 2, 3, … n. Um marcador só
+        é aceito se for o PRÓXIMO esperado; qualquer número fora de ordem é ruído
+        (versículo, linha de tabela, sub-lista). Mata o resíduo que (a) e (b) não
+        pegam — p.ex. o versículo "21." da transcrição do Gênesis III, que aparece
+        antes do item 15 de Kardec e sombreava o item 21 real.
+
+    Se os filtros não deixarem nada (capítulo de markup inesperado), devolve os
+    candidatos crus — degradar para o comportamento antigo é melhor que perder o
+    capítulo inteiro.
+    """
+    cands: list[tuple[int, int, bool]] = []
+    for i in range(line_start - 1, min(line_end, len(lines))):
+        m = _ITEM_RE.match(lines[i])
+        if not m:
+            continue
+        if i > 0 and _CONT_RE.search(lines[i - 1]):
+            continue  # (a)
+        cands.append((i, int(m.group(1)), bool(_ORDINAL_ITEM_RE.match(lines[i]))))
+
+    if any(not is_ord for _, _, is_ord in cands):  # (b)
+        cands = [c for c in cands if not c[2]]
+
+    seq: list[tuple[int, int]] = []  # (c)
+    expected = 1
+    for i, n, _ in cands:
+        if n == expected:
+            seq.append((i, n))
+            expected += 1
+    return seq or [(i, n) for i, n, _ in cands]
+
+
+def chapter_item_blocks(
+    lines: list[str], line_start: int, line_end: int
+) -> list[tuple[int, int, int]]:
+    """[(índice 0-based do marcador, número do item, índice 0-based do fim)].
+
+    **Fonte única da segmentação de itens de capítulo.** `publish_pentateuco.py`
+    consome esta função em vez de reimplementar a varredura — quando as duas
+    tinham cópias próprias (`_ITEM_RE` cru de um lado, extractor do outro), elas
+    divergiram: o publisher ancorava `## item 6` num versículo bíblico enquanto o
+    `cite.py` já resolvia o item certo, e o round-trip derrubava a âncora.
+
+    O bloco termina no próximo item REAL, no próximo heading, ou no fim do
+    capítulo — o que vier primeiro.
+    """
+    itens = _chapter_items(lines, line_start, line_end)
+    out: list[tuple[int, int, int]] = []
+    for pos, (i, n) in enumerate(itens):
+        proximo = itens[pos + 1][0] if pos + 1 < len(itens) else len(lines)
+        end = min(_find_block(lines, i, [_HEADING_RE]), proximo, line_end)
+        out.append((i, n, end))
+    return out
+
+
+# Obras cujos itens reiniciam em 1 a cada capítulo e são resolvidas por
+# `extract_capitulo`. LE (questões) e LM (itens) têm numeração CONTÍNUA ao longo
+# da obra e extractors próprios — a segmentação de capítulo não se aplica a eles.
+_CAP_SIGLAS = frozenset({"ESE", "C&I", "Genese"})
+
+
+def item_blocks(
+    sigla: str, lines: list[str], line_start: int, line_end: int
+) -> list[tuple[int, int, int]]:
+    """[(índice do marcador, número, índice do fim)] no range, **espelhando o
+    extractor que resolve `sigla`**.
+
+    Quem publica âncoras (`publish_pentateuco`) tem de segmentar exatamente como
+    quem resolve o locus (`literal_text`), senão o round-trip byte-a-byte falha e
+    a âncora é descartada. Foi o que aconteceu ao aplicar a segmentação de
+    capítulo ao LM: seus itens não reiniciam por capítulo, `extract_lm` varre com
+    `_ITEM_RE` cru, e 29 âncoras legítimas evaporaram.
+    """
+    if sigla in _CAP_SIGLAS:
+        return chapter_item_blocks(lines, line_start, line_end)
+    out: list[tuple[int, int, int]] = []
+    for i in range(line_start - 1, min(line_end, len(lines))):
+        m = _ITEM_LEM_RE.match(lines[i])
+        if not m:
+            continue
+        end = min(_find_block(lines, i, [_ITEM_LEM_RE, _HEADING_RE]), line_end)
+        out.append((i, int(m.group(1)), end))
+    return out
+
+
 def extract_le(ref: str) -> tuple[str, str]:
     """LE: questão, subitem, intro_item, Introdução/Prolegômenos, ou conclusão."""
     md_path = PENTATEUCO_DIR / "livro-dos-espiritos.md"
@@ -292,9 +446,9 @@ def extract_le(ref: str) -> tuple[str, str]:
         subitem = None
 
     for i, ln in enumerate(lines):
-        m = _ITEM_RE.match(ln)
+        m = _ITEM_LEM_RE.match(ln)
         if m and int(m.group(1)) == n:
-            end = _find_block(lines, i, [_ITEM_RE, _HEADING_RE])
+            end = _find_block(lines, i, [_ITEM_LEM_RE, _HEADING_RE])
             if subitem is None:
                 pretty = _le_pretty_locus(n)
                 loc_str = f"{pretty} — " if pretty else ""
@@ -305,7 +459,7 @@ def extract_le(ref: str) -> tuple[str, str]:
             for j in range(i + 1, end):
                 m_sub = _SUBITEM_RE.match(lines[j])
                 if m_sub and m_sub.group(1).lower() == subitem:
-                    sub_end = _find_block(lines, j, [_SUBITEM_RE, _ITEM_RE, _HEADING_RE])
+                    sub_end = _find_block(lines, j, [_SUBITEM_RE, _ITEM_LEM_RE, _HEADING_RE])
                     sub_end = min(sub_end, end)
                     pretty = _le_pretty_locus(n)
                     loc_str = f"{pretty} — " if pretty else ""
@@ -345,9 +499,9 @@ def extract_lm(ref: str) -> tuple[str, str]:
         return _err_unexpected(ref)
 
     for i, ln in enumerate(lines):
-        m = _ITEM_RE.match(ln)
+        m = _ITEM_LEM_RE.match(ln)
         if m and int(m.group(1)) == n:
-            end = _find_block(lines, i, [_ITEM_RE, _HEADING_RE])
+            end = _find_block(lines, i, [_ITEM_LEM_RE, _HEADING_RE])
             header = f"(LM, item {n}) — linhas {i + 1}-{end}\n{_rel(md_path)}:{i + 1}-{end}"
             body = "\n".join(lines[i:end])
             return header, body
@@ -490,12 +644,13 @@ def extract_capitulo(sigla: str, ref: str) -> tuple[str, str]:
     m_item = _CAP_ITEM_RE.search(ref)
     if m_item:
         target = int(m_item.group(1))
-        # Buscar dentro do range [line_start-1, line_end) em 0-indexed.
-        for i in range(line_start - 1, min(line_end, len(lines))):
-            m = _ITEM_RE.match(lines[i])
-            if m and int(m.group(1)) == target:
-                end_idx = _find_block(lines, i, [_ITEM_RE, _HEADING_RE])
-                end_idx = min(end_idx, line_end)
+        # Marcadores REAIS do capítulo (filtra versículo bíblico, linha de tabela,
+        # ordinal de enumeração — ver _chapter_items). O fim do bloco é o próximo
+        # marcador REAL ou o próximo heading: usar _ITEM_RE cru como terminador
+        # truncava o corpo no primeiro marcador falso.
+        for i, n, end in chapter_item_blocks(lines, line_start, line_end):
+            if n == target:
+                end_idx = end
                 # Aviso especial para C&I 2ª parte (relatos nominais).
                 warn = ""
                 if sigla == "C&I" and part == 2:

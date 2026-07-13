@@ -556,9 +556,6 @@ eternidade das penas, podem-se opor textos contrários que não deixam
 nenhuma ambiguidade. As palavras seguintes de Ezequiel são a negação
 mais explícita não só das penas irremissíveis, mas da responsabilidade
 que a falta do pai do gênero humano teria feito pesar sobre sua raça:
-
-## item 1
-
 1.
 O Senhor me falou de novo e disse-me:
 — De onde vem que vos servis

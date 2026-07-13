@@ -121,6 +121,9 @@ sempre um efeito inteligente. Difícil é muitas vezes determinar o limite
 entre os dois, mas isso nenhuma consequência apresenta. Sob a
 denominação de
 médiuns de efeitos intelectuais abrangemos os que podem, mais particularmente, servir de intermediários para as comunicações regulares e fluentes. (N.º 133.)
+
+## item 188
+
 **188. Espécies comuns a todos os gêneros de mediunidade****.**
 Médiuns sensitivos: pessoas
 susceptíveis de sentir a presença dos Espíritos, por uma impressão geral
@@ -133,6 +136,9 @@ Médiuns naturais ou inconscientes: os que produzem espontaneamente os fenômeno
 Médiuns facultativos ou voluntários: os que têm o poder de provocar os fenômenos por ato da própria vontade. (N.º 160.)
 “Qualquer que seja essa vontade, eles nada podem, se os Espíritos se
 recusam, o que prova a intervenção de uma força estranha.”
+
+## item 189
+
 **189. Variedades especiais para os efeitos físicos****.**
 Médiuns tiptólogos: aqueles pela influência dos quais se produzem os ruídos, as pancadas. Variedade muito comum, com ou sem intervenção da vontade.
 Médiuns motores: os que produzem o movimento dos corpos inertes. Muito comuns. (N.º 61.)
@@ -191,6 +197,9 @@ propriamente dita, porquanto nada prova a intervenção de um Espírito.
 Como quer que seja, pertence à categoria dos efeitos físicos.” (Veja-se o
 capítulo
 Da formação dos médiuns.)
+
+## item 190
+
 **190. Médiuns especiais para efeitos intelectuais. Aptidões diversas.**
 Médiuns audientes: os que ouvem os Espíritos. Muito comuns. (N.º 165.)
 “Muitos há que imaginam ouvir o que apenas lhes está na imaginação.”
@@ -244,6 +253,9 @@ Espíritos. Há médiuns músicos, mecânicos, semimecânicos, intuitivos e
 inspirados, como os há para as comunicações literárias. (Veja-se —
 Médiuns para efeitos musicais.)
 ## Variedades dos médiuns escreventes.
+
+## item 191
+
 **191. 1.º — Segundo o modo de execução.**
 Médiuns escreventes ou psicógrafos: os que têm a faculdade de escrever por si mesmos sob a influência dos Espíritos.
 Médiuns escreventes mecânicos: aqueles cuja mão recebe um impulso involuntário e que nenhuma consciência têm do que escrevem. Muito raros. (N.º 179).
@@ -264,13 +276,13 @@ Médiuns polígrafos:
 aqueles cuja escrita muda com o Espírito que se comunica, ou aptos a
 reproduzir a escrita que o Espírito tinha em vida. O primeiro caso é
 muito vulgar; o segundo, o da identidade da escrita, é mais raro. (N.º
-
-## item 219
-
 219.)
 Médiuns poliglotas: os que têm a faculdade de falar, ou escrever, em línguas que lhes são desconhecidas. Muito raros.
 Médiuns iletrados: os que escrevem, como médiuns, sem saberem ler, nem escrever, no estado ordinário.
 “Mais raros do que os precedentes; há maior dificuldade material a vencer.”
+
+## item 192
+
 **192. 2.º — Segundo o desenvolvimento da faculdade.**Médiuns novatos: aqueles cujas faculdades ainda não estão completamente desenvolvidas e que carecem da necessária experiência.
 Médiuns improdutivos:
 os que não chegam a obter mais do que coisas insignificantes,
@@ -332,6 +344,9 @@ soma de inteligência para os ditados espontâneos, do que para as
 evocações. Entende por ditados espontâneos os que verdadeiramente
 merecem essa denominação e não algumas frases incompletas ou algumas
 ideias corriqueiras, que se deparam em todos os escritos humanos.”
+
+## item 193
+
 **193. 3.º — Segundo o gênero e a particularidade das comunicações.**Médiuns versejadores: obtêm, mais facilmente do que outros, comunicações em verso. Muito comuns, para maus versos; muito raros, para versos bons.
 Médiuns poéticos: sem
 serem versificadas, as comunicações que recebem têm qualquer coisa de
@@ -400,6 +415,9 @@ devem invejar os que, nas comunicações que recebem, jamais escreveram
 uma palavra inconveniente. Fora necessário uma estranha aberração de
 ideias e estar divorciado do bom senso, para acreditar que semelhante
 linguagem possa ser usada por Espíritos bons.
+
+## item 194
+
 **194. 4.º — Segundo as qualidades físicas do médium.**Médiuns calmos: escrevem sempre com certa lentidão e sem experimentar a mais ligeira agitação.
 Médiuns velozes:
 escrevem com rapidez maior do que poderiam voluntariamente, no estado
@@ -420,12 +438,18 @@ contrário, produzem-na penosa.
 raramente se sirvam de sua faculdade mediúnica, cujo uso frequente lhes
 poderia afetar o sistema nervoso.” (Capítulo “Da identidade dos
 Espíritos”, diferenciação dos bons e maus Espíritos.)
+
+## item 195
+
 **195. 5.º — Segundo as qualidades morais dos médiuns.**Mencionamo-las sumariamente e de memória, apenas para completar o quadro, visto que serão desenvolvidas adiante, nos capítulos: Da influência moral do médium, Da obsessão, Da identidade dos Espíritos
 e outros, para os quais chamamos particularmente a atenção do leitor.
 Aí se verá a influência que as qualidades e os defeitos dos médiuns pode
 exercer na segurança das comunicações e quais os que com razão se podem
 considerar
 médiuns imperfeitos ou bons médiuns.
+
+## item 196
+
 **196. Médiuns imperfeitos.**Médiuns obsidiados: os que não podem desembaraçar-se de Espíritos importunos e enganadores, mas não se iludem.
 Médiuns fascinados: os que são iludidos por Espíritos enganadores e se iludem sobre a natureza das comunicações que recebem.
 Médiuns subjugados: os que sofrem uma dominação moral e, muitas vezes, material da parte de maus Espíritos.
@@ -460,6 +484,9 @@ por meio da charlatanaria.
 Médiuns egoístas: os que somente no seu interesse pessoal se servem de suas faculdades e guardam para si as comunicações que recebem.
 Médiuns invejosos: os que se mostram despeitados com o maior apreço dispensado a outros médiuns, que lhes são superiores.
 Todas estas más qualidades têm necessariamente seu oposto no bem.
+
+## item 197
+
 **197. Bons médiuns.**Médiuns sérios:
 os que unicamente para o bem se servem de suas faculdades e para fins
 verdadeiramente úteis. Acreditam profaná-las, utilizando-se delas para

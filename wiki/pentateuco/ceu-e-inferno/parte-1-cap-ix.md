@@ -147,17 +147,8 @@ mesmo acontece com todos os seres maus chamados demônios.
 ## item 9
 
 9. Esta doutrina suscita várias objeções.
-
-## item 1
-
 1.º — Se Satã e os demônios eram anjos, é porque eram perfeitos; como, sendo perfeitos, puderam falhar e ignorar a esse ponto a autoridade de Deus, na presença do qual se encontravam? Conceber-se-ia ainda que, se não tivessem chegado a esse grau eminente senão gradualmente e depois de terem passado pelo caminho da imperfeição, pudessem ter tido um retorno deplorável; mas o que torna a coisa mais incompreensível é que no-los representam como tendo sido criados perfeitos. A consequência dessa teoria é esta: Deus quisera criar neles seres perfeitos, visto que os cumulara de todos os dons, e enganou-se; portanto, segundo a Igreja, Deus não é infalível.\*
-
-## item 2
-
 2.º — Visto que nem a Igreja nem os anais da história santa se explicam sobre a causa da revolta dos anjos contra Deus, que somente parece certo que ela esteve na recusa deles de reconhecer a missão futura do Cristo, que valor pode ter o quadro tão preciso e tão detalhado da cena que ocorreu naquela ocasião? De que fonte foram tiradas as palavras tão nítidas relatadas como tendo sido pronunciadas, e até os simples murmúrios? De duas coisas uma: ou a cena é verdadeira, ou não o é. Se é verdadeira, não há nenhuma incerteza, e então por que a Igreja não decide a questão? Se a Igreja e a história se calam, se a causa só parece certa, não é senão uma suposição, e a descrição da cena é uma obra de imaginação.\*\*
-
-## item 3
-
 3.º — As palavras atribuídas a Lúcifer acusam uma ignorância que é espantoso encontrar num arcanjo que, por sua própria natureza e no grau em que está colocado, não deve compartilhar, sobre a organização do universo, os erros e os preconceitos que os homens professaram até que a ciência tivesse vindo esclarecê-los. Como pode ele dizer: “Estabelecerei minha morada acima dos astros; dominarei as nuvens mais altas”? É sempre a antiga crença na terra como centro do mundo, no céu das nuvens que se estende até às estrelas, à região limitada das estrelas formando abóbada, e que a astronomia nos mostra disseminadas ao infinito, no espaço infinito. Como se sabe hoje que as nuvens não se estendem além de duas léguas da superfície da terra, para dizer que ele dominará as nuvens mais altas, e falar das montanhas, era preciso que a cena se passasse na superfície da terra, e que fosse aí a morada dos anjos; se essa morada é nas regiões superiores, era inútil dizer que ele se elevaria além das nuvens. Fazer os anjos terem uma linguagem marcada pela ignorância, é admitir que os homens, hoje, sabem mais do que os anjos. A Igreja sempre cometeu o erro de não levar em conta os progressos da ciência.
 \* Esta doutrina monstruosa é afirmada por Moisés, quando diz (*Gênesis*, cap. VI, v. 6 e 7): “Ele se *arrependeu* de ter feito o homem na terra. E, tocado de dor até ao fundo do coração, — ele disse: ‘Exterminarei da superfície da terra o homem que criei; exterminarei tudo, desde o homem até os animais, desde tudo o que rasteja sobre a terra até os pássaros do céu: pois *eu me arrependo* de tê-los feito.’”
 Um Deus que se arrepende do que fez não é perfeito nem infalível: logo, não é Deus. São, no entanto, as palavras que a Igreja proclama como verdades santas. Também não se vê muito bem o que havia em comum entre os animais e a perversidade dos homens para merecerem seu extermínio.

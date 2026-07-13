@@ -16,18 +16,12 @@ status: ativo
 ## item 1
 
 1. — CAPÍTULO I. — 1. No começo criou Deus o Céu e a Terra. —
-
-## item 2
-
 2. A Terra era uniforme e inteiramente nua; as trevas cobriam a
 face do abismo, e o Espírito de Deus flutuava sobre as águas. — 3.
 Ora Deus disse: Faça-se a luz; e a luz foi feita. — 4. Deus viu que
 a luz era boa e separou a luz das trevas. — 5. Deu à luz o nome de
 dia e às trevas o nome de noite, e da tarde e da manhã se fez o
 primeiro dia. —
-
-## item 6
-
 6. Disse Deus também: Faça-se o Firmamento no meio das
 águas e que ele separe das águas as águas.
 — 7. E Deus fez o
@@ -35,15 +29,9 @@ Firmamento e separou as águas que estavam debaixo do
 Firmamento das que estavam acima do Firmamento. E assim se
 fez. — 8. E Deus deu ao Firmamento o nome de céu; da tarde e da
 manhã se fez o segundo dia. —
-
-## item 9
-
 9. Disse Deus ainda: Reúnam-se num só lugar as águas que
 estão sob o céu e apareça o elemento árido. E assim se fez.
 —
-
-## item 10
-
 10. Deus deu ao elemento árido o nome de terra e chamou mar a
 todas as águas reunidas. E viu que isso estava bem.
 — 11. Disse
@@ -54,20 +42,11 @@ terra. E assim se fez. — 12. A terra então produziu a erva verde
 que trazia consigo a sua semente, conforme a espécie, e árvores
 frutíferas que continham em si mesmas suas sementes, cada uma
 de acordo com a sua espécie. E Deus viu que estava bom. —
-
-## item 13
-
 13. E da tarde e da manhã se fez o terceiro dia. —
-
-## item 14
-
 14. Deus disse também: Façam-se corpos de luz no
 firmamento do céu, a fim de que separem o dia da noite e sirvam
 de sinais para marcar o tempo e as estações, os dias e os anos.
 —
-
-## item 15
-
 15. Brilhem eles no firmamento do céu e iluminem a Terra. E
 assim se fez. — 16. Deus então fez dois grandes corpos luminosos,
 um, maior, para presidir ao dia, o outro, menor, para presidir
@@ -75,9 +54,6 @@ um, maior, para presidir ao dia, o outro, menor, para presidir
 céu, para brilharem sobre a Terra. — 18. Para presidirem ao dia e
 à noite e para separarem a luz das trevas. E Deus viu que estava
 bom. — 19. E da tarde e da manhã se fez o quarto dia. —
-
-## item 20
-
 20. Disse Deus ainda: Produzam as águas animais vivos que
 nadem nas águas e pássaros que voem sobre a Terra debaixo do
 firmamento do céu.
@@ -202,9 +178,6 @@ e incandescente da Terra. —
 Atmosfera imensa carregada de
 toda a água em vapor e de todas
 as matérias volatilizáveis
-
-## item 1
-
 1.º DIA. — O Céu e a Terra. — A
 luz.
 II. PERÍODO PRIMÁRIO. — Endurecimento
@@ -216,9 +189,6 @@ impenetrável aos raios solares.
 e das matérias sólidas volatilizadas
 no ar. — Ausência completa
 de vida orgânica.
-
-## item 2
-
 2.º DIA. — O Firmamento. — Separação
 das águas que estão
 acima do Firmamento das que
@@ -236,9 +206,6 @@ licopódios, plantas herbáceas.
 Vegetação colossal. — Primeiros
 animais marinhos: zoófitos,
 polipeiros, crustáceos. — Depósitos de hulha.
-
-## item 3
-
 3.º DIA. — As águas que estão
 debaixo do Firmamento se reúnem; aparece o elemento árido.
 — A terra e os mares. — As
@@ -255,9 +222,6 @@ espécies; plantas lenhosas; primeiras
 árvores. — Peixes;
 cetáceos; animais aquáticos
 e anfíbios.
-
-## item 4
-
 4.º DIA. — O Sol, a Lua e as
 estrelas.
 V. PERÍODO TERCIÁRIO. —
@@ -272,9 +236,6 @@ solar. — Gigantescos animais
 terrestres. Vegetais e animais
 da atualidade. Pássaros.
 DILÚVIO UNIVERSAL
-
-## item 5
-
 5.º DIA. — Os peixes e os
 pássaros.
 VI. PERÍODO QUATERNÁRIO
@@ -282,9 +243,6 @@ OU PÓS-DILUVIANO. — Terrenos
 de aluvião. — Vegetais e
 animais da atualidade. — O
 homem.
-
-## item 6
-
 6.º DIA. — Os animais terrestres.
 — O homem
 
@@ -542,9 +500,6 @@ alimentarás com a erva da terra. — 19. E comerás o teu pão com
 o suor do teu rosto, até que voltes à terra donde foste tirado,
 porque és pó e em pó te tornarás. — 20. E Adão deu à sua mulher o nome de Eva, que significa a
 vida, porque ela era a mãe de todos os viventes.
-
-## item 21
-
 21. O Senhor Deus também fez para Adão e sua mulher
 vestiduras de peles com que os cobriu. — 22. E disse: Eis aí Adão
 feito um de nós, sabendo o bem e o mal. Impeçamos, pois, agora,

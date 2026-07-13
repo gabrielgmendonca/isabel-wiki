@@ -481,14 +481,8 @@ o 131.)
 ## item 176
 
 176. Eis aqui as respostas que nos deram os Espíritos às perguntas que lhes dirigimos sobre este assunto:
-
-## item 1
-
 1.ª. Podem considerar-se as pessoas dotadas de força magnética como formando uma variedade de médiuns?
 “Não há que duvidar.”
-
-## item 2
-
 2.ª.
 Entretanto, o médium é um intermediário entre os Espíritos e o homem;
 ora, o magnetizador, haurindo em si mesmo a força de que se utiliza, não
@@ -500,28 +494,16 @@ magnetizas com o propósito de curar, por exemplo, e invocas um bom
 Espírito que se interessa por ti e pelo teu doente, ele aumenta a tua
 força e a tua vontade, dirige o teu fluido e lhe dá as qualidades
 necessárias.”
-
-## item 3
-
 3.ª. Há, entretanto, bons magnetizadores que não creem nos Espíritos?
 “Pensas
 então que os Espíritos só atuam nos que creem neles? Os que magnetizam
 para o bem são auxiliados por bons Espíritos. Todo homem que nutre o
 desejo do bem os chama, sem dar por isso, do mesmo modo que, pelo desejo
 do mal e pelas más intenções, chama os maus.”
-
-## item 4
-
 4.ª. Agiria com maior eficácia aquele que, tendo a força magnética, acreditasse na intervenção dos Espíritos?
 “Faria coisas que consideraríeis milagre.”
-
-## item 5
-
 5.ª. Há pessoas que verdadeiramente possuem o dom de curar pelo simples contato, sem o emprego dos passes magnéticos?
 “Certamente; não tens disso múltiplos exemplos?”
-
-## item 6
-
 6.ª. Nesse caso, há também ação magnética, ou apenas influência dos Espíritos?
 “Uma
 e outra coisa. Essas pessoas são verdadeiros médiuns, pois que atuam
@@ -532,17 +514,11 @@ quais médiuns curadores, conforme o entendes.”
 poder, não; mas o conhecimento de que necessita, para exercê-lo, quem o
 possua. Não falta quem não suspeite sequer de que tem esse poder, se
 não acreditar que lhe foi transmitido.”
-
-## item 8
-
 8.ª. Podem obter-se curas unicamente por meio da prece?
 “Sim,
 desde que Deus o permita; pode dar-se, no entanto, que o bem do doente
 esteja em sofrer por mais tempo e então julgais que a vossa prece não
 foi ouvida.”
-
-## item 9
-
 9.ª. Haverá para isso algumas fórmulas de prece mais eficazes do que outras?
 “Somente
 a superstição pode emprestar virtudes quaisquer a certas palavras e

@@ -18,31 +18,19 @@ status: ativo
 
 221. 1.ª. Será a faculdade mediúnica indício de um estado patológico qualquer, ou de um estado simplesmente anômalo?
 “Anômalo, às vezes, porém, não patológico; há médiuns de saúde robusta; os doentes o são por outras causas.”
-
-## item 2
-
 2.ª. O exercício da faculdade mediúnica pode causar fadiga?
 “O exercício muito prolongado de qualquer faculdade acarreta fadiga; a
 mediunidade está no mesmo caso, principalmente a que se aplica aos
 efeitos físicos, ela necessariamente ocasiona um dispêndio de fluido,
 que traz a fadiga, mas que se repara pelo repouso.”
-
-## item 3
-
 3.ª. Pode o exercício da mediunidade ter, de si mesmo, inconveniente, do ponto de vista higiênico, abstração feita do abuso?
 “Há casos em que é prudente, necessária mesmo, a abstenção, ou, pelo menos, o exercício moderado, tudo dependendo do estado físico e moral do médium. Aliás, em geral, o
 médium o sente e, desde que experimente fadiga, deve abster-se.”
-
-## item 4
-
 4.ª. Haverá pessoas para quem esse exercício seja mais inconveniente do que para outras?
 “Já eu disse que isso depende do estado físico e moral do médium. Há
 pessoas relativamente às quais se devem evitar todas as causas de sobre
 excitação e o exercício da mediunidade é uma delas.” (N.
 os 188 e 194.)
-
-## item 5
-
 5.ª. Poderia a mediunidade produzir a loucura?
 “Não mais do que qualquer outra coisa, desde que não haja
 predisposição para isso, em virtude de fraqueza cerebral. A mediunidade
@@ -50,18 +38,12 @@ não produzirá a loucura, quando esta já não exista em gérmen; porém,
 existindo este, o bom senso está a dizer que se deve usar de cautelas,
 sob todos os pontos de vista, porquanto qualquer abalo pode ser
 prejudicial.”
-
-## item 6
-
 6.ª. Haverá inconveniente em desenvolver-se a mediunidade nas crianças?
 “Certamente e sustento mesmo que é muito perigoso, pois que esses
 organismos débeis e delicados sofreriam por essa forma grandes abalos, e
 as respectivas imaginações excessiva sobre-excitação. Assim, os pais
 prudentes devem afastá-las dessas ideias, ou, quando nada, não lhes
 falar do assunto, senão do ponto de vista das consequências morais.”
-
-## item 7
-
 7.ª. Há, no entanto, crianças que são médiuns naturalmente, quer de efeitos físicos, quer de escrita e de visões. Apresenta isto o mesmo inconveniente?
 “Não; quando numa criança a faculdade se mostra espontânea, é que
 está na sua natureza e que a sua constituição se presta a isso. O mesmo
@@ -70,9 +52,6 @@ que tem visões, geralmente não se impressiona com estas, que lhe parecem
 coisa naturalíssima, a que dá muito pouca atenção e quase sempre
 esquece. Mais tarde, o fato lhe volta à memória e ela o explica
 facilmente, se conhece o Espiritismo.”
-
-## item 8
-
 8.ª. Em que idade se pode ocupar, sem inconvenientes, de mediunidade?
 “Não há idade precisa, tudo dependendo inteiramente do desenvolvimento
 físico e, ainda mais, do desenvolvimento moral. Há crianças de doze

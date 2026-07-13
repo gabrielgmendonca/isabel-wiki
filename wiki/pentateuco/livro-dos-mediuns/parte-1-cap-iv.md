@@ -271,50 +271,26 @@ uma razão bem simples: a de que há homens muito maus
 que, pelo fato de morrerem, não se tornam bons. A questão
 está em saber se só eles podem comunicar-se conosco. Aos
 que assim pensem, dirigimos as seguintes perguntas:
-
-## item 1
-
 1.º. Há ou não Espíritos bons e maus?
-
-## item 2
-
 2.º. Deus é ou não mais poderoso do que os maus Espíritos,
 ou do que os demônios, se assim lhes quiserdes chamar?
-
-## item 3
-
 3.º. Afirmar que só os maus se comunicam é dizer que os
 bons não o podem fazer. Sendo assim, uma de duas: ou
 isto se dá pela vontade, ou contra a vontade de Deus. Se
 contra a sua vontade, é que os maus Espíritos podem mais do que ele; se, por vontade sua, por que, em sua
 bondade, não permitiria ele que os bons fizessem o mesmo, para contrabalançar a influência dos outros?
-
-## item 4
-
 4.º. Que provas podeis apresentar da impossibilidade em que
 estão os bons Espíritos de se comunicarem?
-
-## item 5
-
 5.º. Quando se vos opõe a sabedoria de certas comunicações, respondeis que o demônio usa de todas as máscaras para melhor seduzir. Sabemos, com efeito, haver Espíritos hipócritas, que dão à sua linguagem um verniz
 de sabedoria; mas, admitis que a ignorância pode falsificar o verdadeiro saber e uma natureza má imitar a verdadeira virtude, sem deixar vestígio que denuncie a fraude?
-
-## item 6
-
 6.º. Se só o demônio se comunica, sendo ele o inimigo de
 Deus e dos homens, por que recomenda que se ore a
 Deus, que nos submetamos à vontade de Deus, que suportemos sem queixas as tribulações da vida, que não
 ambicionemos as honras, nem as riquezas, que pratiquemos a caridade e todas as máximas do Cristo, numa
 palavra: que façamos tudo o que é preciso para lhe destruir o império, dele, o demônio? Se tais conselhos o demônio é quem os dá, forçoso será convir em que, por
 muito manhoso que seja, bastante inábil é ele, fornecendo armas contra si mesmo.\*
-
-## item 7
-
 7.º. Pois que os Espíritos se comunicam, é que Deus o permite. Em presença das boas e das más comunicações,
 não será mais lógico admitir-se que umas Deus as permite para nos experimentar e as outras para nos aconselhar ao bem?
-
-## item 8
-
 8.º. Que direis de um pai que deixasse o filho à mercê dos
 exemplos e dos conselhos perniciosos, e que o afastasse
 de si; que o privasse do contato com as pessoas que o
@@ -322,15 +298,9 @@ pudessem desviar do mal? Ser-nos-á lícito supor que
 Deus procede como um bom pai não procederia, e que,
 sendo ele a bondade por excelência, faça menos do que
 faria um homem?
-
-## item 9
-
 9.º. A Igreja reconhece como autênticas certas manifestações da Virgem e de outros santos, em aparições, visões,
 comunicações orais, etc. Essa crença não está em contradição com a doutrina da comunicação exclusiva dos
 demônios?
-
-## item 10
-
 10.º. Acreditamos que algumas pessoas hajam professado de boa-fé essa teoria; mas, também cremos que muitas a
 adotaram unicamente com o fito de fazer que outras fugissem de ocupar-se com tais coisas, pelo temor das comunicações más, a cujo recebimento todos estão sujeitos. Dizendo que só o diabo se manifesta, quiseram aterrorizar,
 quase como se faz com uma criança a quem se diz: não
@@ -436,59 +406,29 @@ juízo prematuro e, conseguintemente, errôneo.
 Eis aqui as consequências gerais deduzidas de uma
 observação completa e que agora formam a crença, pode-se
 dizer, da universalidade dos espíritas, visto que os sistemas restritivos não passam de opiniões insuladas:
-
-## item 1
-
 1.º. Os fenômenos espíritas são produzidos por inteligências extracorpóreas, às quais também se dá o nome de
 Espíritos;
-
-## item 2
-
 2.º. Os Espíritos constituem o mundo invisível; estão em toda
 parte; povoam infinitamente os espaços; temos muitos,
 de contínuo, em torno de nós, com os quais nos achamos em contato;
-
-## item 3
-
 3.º. Os Espíritos reagem incessantemente sobre o mundo
 físico e sobre o mundo moral e são uma das potências
 da natureza;
-
-## item 4
-
 4.º. Os Espíritos não são seres à parte, dentro da criação,
 mas as almas dos que hão vivido na Terra, ou em outros mundos, e que despiram o invólucro corpóreo; donde
 se segue que as almas dos homens são Espíritos encarnados e que nós, morrendo, nos tornamos Espíritos;
-
-## item 5
-
 5.º. Há Espíritos de todos os graus de bondade e de malícia, de saber e de ignorância;
-
-## item 6
-
 6.º. Todos estão submetidos à lei do progresso e podem
 todos chegar à perfeição; mas, como têm livre-arbítrio,
 lá chegam em tempo mais ou menos longo, conforme
 seus esforços e vontade;
-
-## item 7
-
 7.º. São felizes ou infelizes, de acordo com o bem ou o mal
 que praticaram durante a vida e com o grau de adiantamento que alcançaram. A felicidade perfeita e sem
 mescla é partilha unicamente dos Espíritos que atingiram o grau supremo da perfeição;
-
-## item 8
-
 8.º. Todos os Espíritos, em dadas circunstâncias, podem
 manifestar-se aos homens; indefinido é o número dos
 que podem comunicar-se;
-
-## item 9
-
 9.º. Os Espíritos se comunicam por médiuns, que lhes servem de instrumentos e intérpretes;
-
-## item 10
-
 10.º. Reconhecem-se a superioridade ou a inferioridade dos
 Espíritos pela linguagem de que usam; os bons só aconselham o bem e só dizem coisas proveitosas; tudo neles lhes atesta a elevação; os maus enganam e todas as
 suas palavras trazem o cunho da imperfeição e da

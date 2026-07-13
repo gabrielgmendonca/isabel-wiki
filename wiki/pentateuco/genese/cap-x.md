@@ -152,105 +152,39 @@ Hidrogênio
 Oxigênio
 Nitrogênio
 Açúcar de cana
-
-## item 42
-
 42.470
-
-## item 6
-
 6.900
-
-## item 50
-
 50.530
 -
 Açúcar de uva
-
-## item 36
-
 36.710
-
-## item 6
-
 6.780
-
-## item 56
-
 56.510
 -
 Alcool
-
-## item 51
-
 51.980
-
-## item 13
-
 13.700
-
-## item 34
-
 34.320
 -
 Azeite de oliveira
-
-## item 77
-
 77.210
-
-## item 13
-
 13.360
-
-## item 9
-
 9.430
 -
 Óleo de nozes
-
-## item 79
-
 79.774
-
-## item 10
-
 10.570
-
-## item 9
-
 9.122
 0,534
 Gordura
-
-## item 78
-
 78.996
-
-## item 11
-
 11.700
-
-## item 9
-
 9.304
 -
 Fibrina
-
-## item 53
-
 53.360
-
-## item 7
-
 7.021
-
-## item 19
-
 19.686
-
-## item 19
-
 19.934
 
 ## item 13

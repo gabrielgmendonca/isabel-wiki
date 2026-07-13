@@ -43,7 +43,7 @@ import sys
 from pathlib import Path
 
 # Reuso integral do parsing auditado — não duplicar regex de bloco.
-from cite import _ITEM_RE, _HEADING_RE, _find_block, literal_text
+from cite import item_blocks, literal_text
 from kardec_structure import (
     INDEX_PART_RE,
     PART_ORDINAL,
@@ -188,20 +188,27 @@ def build_chapter_page(
     PRIMEIRA ocorrência de cada número (semântica do cite.py) cujo bloco passa o
     round-trip contra `cite.literal_text`."""
     # Slice 1-based inclusivo → 0-based [start-1:end].
-    body_lines = all_lines[chap.start - 1 : chap.end]
+    body_start = chap.start - 1
+    body_lines = all_lines[body_start : chap.end]
     # Descarta a linha "## Capítulo …" inicial (vira H1).
     if body_lines and _BODY_CHAP_RE.match(body_lines[0]):
         body_lines = body_lines[1:]
+        body_start += 1
 
     rel = f"{obra_slug}/{chap.filename()[:-3]}"  # sem ".md"
 
-    # Corpo: âncora `## q./item N` antes de cada item (mantém o page-block
-    # alinhado com a terminação por _ITEM_RE/_HEADING_RE que o cite.py usa).
+    # Corpo: âncora `## q./item N` antes de cada item REAL. A varredura vem do
+    # `cite.chapter_item_blocks` (fonte única) — quando este loop tinha cópia
+    # própria com `_ITEM_RE` cru, ancorava `## item 6` num versículo bíblico
+    # transcrito, discordando do locus que o cite.py resolvia.
+    marcadores = {
+        i: n for i, n, _end in item_blocks(sigla, all_lines, chap.start, chap.end)
+    }
     out: list[str] = []
-    for line in body_lines:
-        m = _ITEM_RE.match(line)
-        if m:
-            out += ["", _heading(unidade, int(m.group(1))), ""]
+    for offset, line in enumerate(body_lines):
+        n = marcadores.get(body_start + offset)
+        if n is not None:
+            out += ["", _heading(unidade, n), ""]
         out.append(line)
 
     # Manifest: registro determinístico sobre o raw absoluto, validado por
@@ -223,18 +230,10 @@ def _register_anchors(
     contra cite.literal_text e registra a âncora se baterem exatamente."""
     registered: dict[str, str] = {}
     seen: set[int] = set()
-    lo = chap.start - 1
-    hi = chap.end  # exclusivo em 0-based
-    for i in range(lo, min(hi, len(all_lines))):
-        m = _ITEM_RE.match(all_lines[i])
-        if not m:
-            continue
-        n = int(m.group(1))
+    for i, n, end in item_blocks(sigla, all_lines, chap.start, chap.end):
         if n in seen:
             continue
         seen.add(n)
-        end = _find_block(all_lines, i, [_ITEM_RE, _HEADING_RE])
-        end = min(end, hi)
         my_block = "\n".join(all_lines[i:end]).strip()
         truth = literal_text(sigla, _cite_ref(sigla, chap, n))
         if truth is None or truth.strip() != my_block:

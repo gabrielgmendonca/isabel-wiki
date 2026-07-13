@@ -208,42 +208,15 @@ qualquer demonstração matemática, física, química, mecânica, fisiológica
 e provem por
 a mais b,
 partindo sempre do princípio da existência e da sobrevivência da alma:
-
-## item 1
-
 1.º que o ser pensante, que existe em nós durante a vida, não mais pensa
 depois da morte;
-
-## item 2
-
 2.º que, se continua a pensar, está inibido de pensar naqueles a quem amou;
-
-## item 3
-
 3.º que, se pensa nestes, não cogita de se comunicar com eles;
-
-## item 4
-
 4.º que, podendo estar em toda parte, não pode estar ao nosso lado;
-
-## item 5
-
 5.º que, podendo estar ao nosso lado, não pode comunicar-se conosco;
-
-## item 6
-
 6.º que não pode, por meio do seu envoltório fluídico, atuar sobre a matéria inerte;
-
-## item 7
-
 7.º que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
-
-## item 8
-
 8.º que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
-
-## item 9
-
 9.º que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.
 Quando
 os adversários do Espiritismo nos provarem que isto é impossível,

@@ -467,9 +467,6 @@ as haverem aprendido? Duvidamos de que alguém saia desses dilemas, a menos
 admita que Deus cria almas de diversas qualidades, de acordo com os tempos e
 lugares, proposição inconciliável com a ideia de uma justiça soberana. (Cap. II, n.
 o
-
-## item 10
-
 10.)
 Admiti, ao contrário, que as almas de agora já viveram em tempos
 distantes; que possivelmente foram bárbaras como os séculos em que estiveram no

@@ -56,6 +56,9 @@ a) – Concebe-se isto com relação aos Espíritos bons. Dar-se-á, entretanto,
 
 565. Atentam os Espíritos em nossos trabalhos de arte e por eles se interessam?
 “Atentam no que prove a elevação dos Espíritos e seus progressos.”
+
+## q. 566
+
 >566. Um Espírito que haja cultivado na Terra uma especialidade artística, que tenha sido, por exemplo, pintor, ou arquiteto, se interessa de preferência pelos trabalhos que constituíram objeto de sua predileção durante a vida?
 “Tudo se confunde num objetivo geral. Se for um Espírito bom, esses trabalhos o interessarão na medida do ensejo que lhe proporcionem de auxiliar as almas a se elevarem para Deus. Ademais, esqueceis que um Espírito que cultivou certa arte, na existência em que o conhecestes, pode ter cultivado outra em anterior existência, pois que lhe cumpre saber tudo para ser perfeito. Assim, conforme o grau do seu adiantamento, pode suceder que nada seja para ele uma especialidade. Foi o que eu quis significar, dizendo que tudo se confunde num objetivo geral. Notai ainda o seguinte: o que, no vosso mundo atrasado, considerais sublime, não passa de infantilidade, comparado ao que há em mundos mais adiantados. Como pretenderíeis que os Espíritos que habitam esses mundos, onde existem artes que desconheceis, admirem o que, aos seus olhos, corresponde a trabalhos de colegiais? Por isso disse eu: atentam no que demonstre progresso.”
 a) – Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Referimo-nos, porém, a Espíritos mais vulgares, que ainda se não elevaram acima das ideias terrenas.

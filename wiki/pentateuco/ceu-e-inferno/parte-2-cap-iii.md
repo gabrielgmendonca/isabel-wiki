@@ -15,7 +15,13 @@ status: ativo
 **Joseph Bré**
 Morto em 1840, evocado em Bordeaux em 1862 pela neta.
 O homem honesto segundo Deus ou segundo os homens.
+
+## item 1
+
 **1.** Querido avô, quereis dizer-me como estais entre os Espíritos, e dar-me alguns detalhes instrutivos para nosso avanço? – R. Tudo o que quiseres, minha querida filha. Estou expiando minha falta de fé; mas a bondade de Deus é grande: ele leva em conta as circunstâncias. Sofro, não como poderias entender, mas de arrependimento por não ter empregado bem meu tempo na terra.
+
+## item 2
+
 **2.** Como não o empregastes bem? Fostes sempre um homem honesto. – R. Sim, do ponto de vista dos homens; mas há um abismo entre o homem honesto perante os homens, e o homem honesto perante Deus. Tu queres instruir-te, querida filha; vou tentar fazer-te sentir a diferença. Entre vós, considera-se como homem honesto aquele que respeita as leis de seu país, respeito elástico para muitos; aquele que se não faz mal ao próximo tomando-lhe ostensivamente seus bens; mas toma frequentemente sem escrúpulo sua honra, sua felicidade, desde que a lei, ou a opinião pública, não possam alcançar o culpado hipócrita. Quando se pôde mandar gravar na sua lápide a série interminável de virtudes que são enaltecidas, acredita-se ter pago sua dívida para com a humanidade. Que engano! Para ser honesto perante Deus não basta não ter infringido as leis dos homens, é preciso antes de tudo não ter transgredido as leis divinas.
 O homem honesto perante Deus é aquele que, cheio de devoção e amor, dedica sua vida ao bem, ao progresso de seus semelhantes; aquele que, animado por um zelo inspirado no objetivo, é ativo na vida: ativo no cumprimento da tarefa material que lhe é imposta, pois deve ensinar a seus irmãos o amor ao trabalho; ativo nas boas obras, pois não deve esquecer que é apenas um servidor ao qual o senhor pedirá um dia contas do uso de seu tempo; ativo no objetivo, pois deve pregar pelo exemplo o amor ao Senhor e ao próximo. O homem honesto perante Deus deve evitar cuidadosamente essas palavras mordazes, veneno escondido sob flores, que destrói as reputações e muitas vezes mata o homem moral ao cobri-lo de ridículo.
 O homem honesto perante Deus deve ter sempre o coração fechado ao menor fermento de orgulho, de inveja, de ambição. Ele deve ser paciente e doce com os que o atacam; deve perdoar do fundo do coração, sem esforço e, sobretudo, sem ostentação, a todo aquele que o ofendeu; deve amar seu criador em todas as suas criaturas; deve, por fim, pôr em prática este resumo tão conciso e tão grande dos deveres do homem: amar a Deus acima de todas as coisas e seu próximo como a si mesmo.
@@ -31,14 +37,8 @@ P. Esse estado de perturbação era sofrimento? – R. Não, eu não sofria; acr
 HÉLÈNE.
 **O Marquês de Saint-Paul.**
 Morto em 1860, evocado a pedido de sua irmã, membro da Sociedade de Paris, em 16 de maio de 1861.
-
-## item 1
-
 1. Evocação.
 — Aqui estou.
-
-## item 2
-
 2. — A senhora vossa irmã pediu-nos para vos evocar, embora ela seja médium, mas ainda não está suficientemente formada para estar bem segura de si mesma.
 — Tentarei responder o melhor que puder.
 
@@ -87,51 +87,24 @@ Médico, morto em setembro de 1862.
 (Sociedade de Paris. Médium: Sr. Leymarie.)
 O Sr. Cardon passara uma parte da vida na marinha mercante, na qualidade de médico de baleeiro, e extraíra daí hábitos e ideias um pouco materiais; aposentado no vilarejo de J..., exercia aí a modesta profissão de médico rural. Havia algum tempo, adquirira a certeza de que sofria de uma hipertrofia do coração, e, sabendo que essa doença é incurável, o pensamento da morte mergulhava-o numa sombria melancolia da qual nada o podia distrair. Aproximadamente dois meses antes, predisse seu fim num dia pré-determinado; quando se viu prestes a morrer, reuniu a família à sua volta para lhe dizer um último adeus. Sua mulher, sua mãe, seus três filhos e outros parentes estavam reunidos em volta de sua cama; no momento em que a mulher tentava erguê-lo, ele caiu bruscamente, tornou-se de um azul lívido, os olhos fecharam-se, e foi dado por morto; a mulher colocou-se diante dele para ocultar esse espetáculo aos filhos. Depois de alguns minutos ele reabriu os olhos; seu rosto, por assim dizer iluminado, tomou uma expressão de radiosa beatitude, e ele exclamou: Oh! meus filhos, como é belo! Como é sublime! Oh! a morte! Que ventura! Que doce coisa! Eu estava morto, e senti minha alma se elevar bem alto, bem alto; mas Deus me permitiu voltar para vos dizer: “Não temais a morte, é a libertação...” Se pudesse descrever-vos a magnificência do que vi e as impressões de que me senti penetrado! Mas não poderíeis compreender... Oh! meus filhos, conduzi-vos sempre de maneira a merecer essa inefável felicidade, reservada aos homens de bem; vivei segundo a caridade; se tiverdes algo, dai uma parte àqueles que carecem do necessário... Minha querida mulher, deixo-te numa posição que não é boa; devem-nos dinheiro, mas peço-te, não atormentes aqueles que nos devem; se eles estiverem em dificuldades, aguarda que possam quitar a dívida, e aqueles que não puderem, faz esse sacrifício por eles: Deus te recompensará. Tu, meu filho, trabalha para sustentar a tua mãe; sê sempre honesto e toma cuidado para não fazer nada que possa desonrar a nossa família. Toma esta cruz que era da minha mãe; não a abandones, e que ela te relembre sempre meus últimos conselhos... Meus filhos, ajudai-vos e apoiai-vos mutuamente; que a boa harmonia reine entre vós; não sejais vaidosos, nem orgulhosos; perdoai aos vossos inimigos, se quiserdes que Deus vos perdoe...” Depois, tendo mandado aproximarem-se os filhos, estendeu as mãos para eles, e acrescentou: “Meus filhos, eu vos bendigo.” E seus olhos se fecharam, desta vez para sempre; mas seu semblante conservou uma expressão tão imponente que, até o momento em que foi enterrado, uma multidão considerável veio contemplá-lo com admiração.
 Tendo estes interessantes detalhes nos sido transmitidos por um amigo da família, pensamos que esta evocação podia ser instrutiva para todos, ao mesmo tempo em que seria útil ao Espírito.
-
-## item 1
-
 1. Evocação.
 — Estou perto de vós.
-
-## item 2
-
 2. — Relataram-nos vossos últimos instantes que nos encheram de admiração. Teríeis a bondade de nos descrever, melhor do que fizestes, o que vistes durante o intervalo do que se poderia chamar vossas duas mortes.
 — O que eu vi, poderíeis compreendê-lo? Não sei, pois não poderia encontrar expressões capazes de tornar compreensível o que pude ver durante os poucos instantes em que me foi possível deixar meus restos mortais.
-
-## item 3
-
 3. — Vós vos dais conta de onde estivestes? Foi longe da terra, num outro planeta ou no espaço?
 — O Espírito não conhece o valor das distâncias tais como vós as considerais. Levado por não sei que agente maravilhoso, vi o esplendor de um céu como só nossos sonhos poderiam realizar. Essa corrida através do infinito ocorreu tão rapidamente que não posso precisar os instantes usados pelo meu Espírito.
-
-## item 4
-
 4. Atualmente, gozais da felicidade que entrevistes?
 — Não; gostaria de poder gozá-la, mas Deus não pode me recompensar assim. Revoltei-me demasiadas vezes contra os pensamentos benditos que meu coração ditava, e a morte me parecia uma injustiça. Médico incrédulo, eu extraíra da arte de curar uma aversão contra a segunda natureza que é nosso movimento inteligente, divino; a imortalidade da alma era uma ficção própria para seduzir as naturezas pouco elevadas; no entanto, o vazio me aterrorizava, pois maldisse muitas vezes esse agente misterioso que atinge sempre e sempre. A filosofia me desencaminhara, sem me fazer compreender toda a grandeza do Eterno que sabe repartir a dor e a alegria para o ensinamento da humanidade.
-
-## item 5
-
 5. — Quando de vossa morte verdadeira, reconheceste-vos imediatamente?
 — Não; reconheci-me durante a transição que meu Espírito suportou para percorrer os lugares etéreos; mas após a morte real, não; foram precisos alguns dias para meu despertar.
 Deus me concedera uma graça; vou dizer-vos a razão dela: Minha incredulidade inicial não existia mais; antes de minha morte, eu cria, pois após ter cientificamente sondado a matéria grave que me fazia perecer, eu não encontrara, esgotadas as razões terrestres, senão a razão divina; ela me inspirara, consolara, e minha coragem era mais forte do que a dor. Bendizia o que maldissera; o fim me parecia a libertação. O pensamento de
 Deus é grande como o mundo! Oh! Que supremo consolo na prece que dá enternecimentos inefáveis; ela é o elemento mais seguro de nossa natureza imaterial; por ela compreendi, acreditei firmemente, soberanamente, e é por isso que Deus, escutando minhas ações benditas, teve a bondade de me recompensar antes de acabar minha encarnação.
-
-## item 6
-
 6. Poder-se-ia dizer que na primeira vez estáveis morto?
 — Sim e não; tendo o Espírito deixado o corpo, naturalmente a carne se extinguia; mas ao retomar posse de minha morada terrestre, a vida voltou ao corpo que sofrera uma transição, um adormecimento.
-
-## item 7
-
 7. — Naquele momento sentíeis os laços que vos uniam a vosso corpo?
 — Sem dúvida; o Espírito tem um laço difícil de romper, ele precisa do último estremecimento da carne para voltar à sua vida natural.
-
-## item 8
-
 8. — Como explicar que, por ocasião de vossa morte aparente e durante alguns minutos, vosso Espírito tenha podido desprender-se instantaneamente e sem perturbação, ao passo que a morte real foi seguida por perturbação de vários dias? Parece que, no primeiro caso, subsistindo mais os laços entre a alma e o corpo do que no segundo, o desprendimento devia ser mais lento, e foi o contrário que aconteceu.
 — Vós fizestes com frequência a evocação de um Espírito encarnado, recebestes dele respostas reais; eu estava na posição desses Espíritos. Deus me chamava, e seus servidores me haviam dito: “Vem…”. Obedeci, e agradeço a Deus a graça especial que ele teve a bondade de me conceder; pude ver o infinito de sua grandeza e dar-me conta dela. Obrigado a vós que me permitistes, antes da morte real, ensinar aos meus para que eles sejam boas e justas encarnações.
-
-## item 9
-
 9. — De onde vos vinham as belas e boas palavras que, por ocasião de vossa volta à vida, dirigistes a vossa família?
 — Elas eram o reflexo do que eu vira e ouvira; os bons Espíritos inspiravam minha voz e animavam meu rosto.
 

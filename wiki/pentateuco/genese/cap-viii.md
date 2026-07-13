@@ -48,9 +48,6 @@ veria o termo da existência da natureza organizada.
 
 2. A teoria de Buffon, contraditada pelas novas descobertas da ciência, está
 presentemente abandonada, quase de todo, pelas razões seguintes:
-
-## item 1
-
 1.o. Durante longo tempo, acreditou­-se que os cometas eram corpos sólidos,
 cujo encontro com um planeta podia ocasionar a destruição deste último. Nessa
 hipótese, a suposição de Buffon nada tinha de improvável. Sabe­-se, porém, agora,
@@ -59,9 +56,6 @@ para que se possam perceber estrelas de grandeza média através de seus núcleo
 Nessas condições, oferecendo menos resistência do que o Sol, impossível é que,
 num choque violento com este, eles sejam capazes de arremessar ao longe qualquer
 porção da massa solar.
-
-## item 2
-
 2.o. A natureza incandescente do Sol é também uma hipótese, que nada, até
 ao presente, confirma, que, ao contrário, as observações parecem desmentir. Se bem
 ainda não haja certeza quanto à sua natureza, os poderosos meios de observação de
@@ -106,9 +100,6 @@ entre as órbitas de Júpiter e Marte.
 II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra
 um estudo geológico de grande interesse.
 ## Teoria da condensação.
-
-## item 3
-
 3. A teoria da formação da Terra pela condensação da matéria cósmica é a que hoje
 prevalece na ciência, como sendo a que a observação melhor justifica, a que resolve
 maior número de dificuldades e que se apoia, mais do que todas as outras, no grande
@@ -123,9 +114,6 @@ Seu estado anterior, por escapar à observação, só pode ser conjetural. Ora, 
 hipóteses, o bom­ senso diz que se deve preferir a que a lógica sanciona e que mais
 acorde se mostra com os fatos observados.
 ## Teoria da incrustação.
-
-## item 4
-
 4. Apenas por não deixar de mencioná­-la, falamos desta teoria, que nada tem de
 científica, mas, que, entretanto, conseguiu certa repercussão nos últimos tempos e
 seduziu algumas pessoas. Acha­-se resumida na carta seguinte:
@@ -161,9 +149,6 @@ diferentes nos globos onde nasceram. Tais despojos na Terra se encontram nos
 pólos, ao passo que os animais viviam no Equador dos globos a que pertenciam.”
 \*
 Miguel de Figagnères (Var), autor da Chave da Vida.
-
-## item 5
-
 5. Esta teoria tem contra si os mais positivos dados da ciência experimental, além de
 que deixa intacta a questão mesma que ela pretende resolver, a questão da origem.
 Diz, é certo, como a Terra se teria formado, mas não diz como se formaram os

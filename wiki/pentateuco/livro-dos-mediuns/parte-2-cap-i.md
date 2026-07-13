@@ -80,9 +80,6 @@ eu e de sua individualidade. Que devemos concluir daí? Que a alma não deixa tu
 54.
 Numerosas observações e fatos irrecusáveis, de que mais tarde
 falaremos, levaram à consequência de que há no homem três componentes:
-
-## item 1
-
 1.º, a alma, ou Espírito, princípio inteligente, onde tem sua sede o
 senso moral; 2.º, o corpo, invólucro grosseiro, material, de que ele se
 revestiu temporariamente, em cumprimento de certos desígnios

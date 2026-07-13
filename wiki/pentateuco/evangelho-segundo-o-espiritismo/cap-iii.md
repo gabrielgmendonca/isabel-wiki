@@ -11,6 +11,8 @@ status: ativo
 
 # O Evangelho segundo o Espiritismo — Cap. III — Há muitas moradas na casa de meu pai
 
+## item 1
+
 **1.** Não se turbe o vosso coração. — Credes em Deus, crede também em mim. Há muitas moradas na casa de meu Pai; se assim não fosse, já eu vo-lo teria dito, pois me vou para vos preparar o lugar. — Depois que me tenha ido e que vos houver preparado o lugar, voltarei e vos retirarei para mim, a fim de que onde eu estiver, também vós aí estejais. (S. JOÃO, 14:1 a 3.)
 ## Diferentes estados da alma na erraticidade.
 

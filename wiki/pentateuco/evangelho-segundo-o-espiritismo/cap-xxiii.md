@@ -58,9 +58,6 @@ qualquer de tempo e a revolução diurna. Daí, mais tarde, a sua tradução
 pelo termo
 dia e a crença de que o mundo foi obra de seis vezes vinte e quatro horas. Tal, também, a palavra com que se designava um camelo e um cabo, uma vez que os cabos eram feitos de pelos de camelo. Daí o haverem-na traduzido pelo termo camelo, na alegoria do buraco de uma agulha. (Ver capítulo XVI n
 o
-
-## item 2
-
 2.) \*
 \* *Non odit*, em latim: *Kaï* ou *miseï* em grego, não quer dizer odiar, porém, amar menos. O que o verbo grego *miseïn* exprime, ainda melhor o expressa o verbo hebreu, de que Jesus se há de ter servido. Esse verbo não significa apenas odiar, mas, também amar menos, não amar igualmente, tanto quanto a um outro. No dialeto siríaco, do qual, dizem, Jesus usava com mais frequência, ainda melhor acentuada é essa significação. Nesse sentido é que o Gênese (capítulo 29:30–31) diz: “E Jacob amou também mais a Raquel do que a Lia; Jeová, vendo que Lia era odiada...” É evidente que o verdadeiro sentido aqui é: menos amada. Assim se deve traduzir. Em muitas outra passagens hebraicas e, sobretudo, siríacas, o mesmo verbo é empregado no sentido de não amar tanto quanto a outro, de sorte que fora contrassenso traduzi-lo por odiar, que tem outra acepção bem determinada. O texto de S. Mateus, aliás, afasta toda a dificuldade. (Nota do Sr. Pezzani.)
 Cumpre,

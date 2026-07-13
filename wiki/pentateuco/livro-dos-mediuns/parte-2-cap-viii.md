@@ -89,17 +89,11 @@ a que há pouco nos referíamos.
 ## item 128
 
 128. Foi o Espírito São Luís quem nos deu essa solução, mediante as respostas seguintes:
-
-## item 1
-
 1.ª.
 Citamos um caso de aparição do Espírito de uma pessoa viva. Esse
 Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava
 ele a sensação que experimenta um indivíduo que faz o mesmo?
 “Não.”
-
-## item 2
-
 2.ª. Aquela caixa de rapé tinha a forma
 da de que ele se servia habitualmente e que se achava guardada em sua casa. Que
 era a dita caixa nas mãos da aparição?
@@ -108,9 +102,6 @@ circunstância fosse notada, como realmente foi, e não tomassem a aparição po
 uma alucinação devida ao estado de saúde da vidente. O Espírito queria que a
 senhora em questão acreditasse na realidade da sua presença e, para isso, tomou
 todas as aparências da realidade.”
-
-## item 3
-
 3.ª. Dizes que era uma aparência; mas,
 uma aparência nada tem de real, é como uma ilusão de ótica. Desejáramos saber
 se aquela caixa de rapé era apenas uma imagem sem realidade, ou se nela havia
@@ -118,9 +109,6 @@ alguma coisa de material.
 “Certamente. É com o auxílio deste
 princípio material que o perispírito toma a aparência de vestuários semelhantes
 aos que o Espírito usava quando vivo.”
-
-## item 4
-
 4.ª. Dar-se-á que a matéria inerte
 se desdobre? Ou que haja no mundo invisível uma matéria essencial, capaz de
 tomar a forma dos objetos que vemos? Numa palavra, terão estes um
@@ -131,9 +119,6 @@ passam. Sobre os elementos materiais disseminados por todos os pontos do
 espaço, na vossa atmosfera, têm os Espíritos um poder de que estais longe de
 suspeitar. Podem, pois, eles concentrar à sua vontade esses elementos e
 dar-lhes a forma aparente que corresponda à dos objetos materiais.”
-
-## item 5
-
 5.ª. Formulo novamente a questão,
 de modo categórico, a fim de evitar todo e qualquer equívoco:
 São alguma coisa as vestes de que os Espíritos
@@ -141,9 +126,6 @@ se cobrem?
 “Parece-me que a minha resposta
 precedente resolve a questão. Não sabes que o próprio perispírito é alguma
 coisa?”
-
-## item 6
-
 6.ª. Resulta, desta explicação, que os
 Espíritos fazem passar a matéria etérea pelas transformações que queiram e que,
 portanto, com relação à caixa de rapé, o Espírito não a encontrou completamente
@@ -152,52 +134,31 @@ sua vontade. E, do mesmo modo que a fez, pôde desfazê-la. Outro tanto
 naturalmente se dá com todos os demais objetos, como vestuários, jóias, etc.
 Será assim?
 “Mas, evidentemente.”
-
-## item 7
-
 7.ª. A caixa de rapé se tornou tão visível
 para a senhora de que se trata, que lhe produziu a ilusão de uma tabaqueira
 material. Teria o Espírito podido torná-la tangível para a mesma senhora?
 “Teria.”
-
-## item 8
-
 8.ª. Tê-la-ia a senhora podido tomar nas
 mãos, crente de estar segurando uma caixa de rapé verdadeira?
 “Sim.”
-
-## item 9
-
 9.ª. Se a abrisse, teria achado nela rapé?
 E, se aspirasse esse rapé, ele a faria espirrar?
 “Sem dúvida.”
-
-## item 10
-
 10.ª. Pode então o Espírito dar a um
 objeto, não só a forma, mas também propriedades especiais?
 “Se o quiser. Baseado neste princípio
 foi que respondi afirmativamente às perguntas anteriores. Tereis provas da
 poderosa ação que os Espíritos exercem sobre a matéria, ação que estais longe
 de suspeitar, como eu disse há pouco.”
-
-## item 11
-
 11.ª. Suponhamos, então, que
 quisesse fazer uma substância venenosa. Se uma pessoa a ingerisse, ficaria
 envenenada?
 “Teria podido, mas não faria, por não
 lhe ser isso permitido.”
-
-## item 12
-
 12.ª. Poderá fazer uma substância salutar
 e própria para curar uma enfermidade? E já se terá apresentado algum caso
 destes?
 “Já, muitas vezes.”
-
-## item 13
-
 13.ª. Então, poderia também fazer
 uma substância alimentar? Suponhamos que tenha feito uma fruta, uma iguaria
 qualquer: se alguém pudesse comer a fruta ou a iguaria, ficaria saciado?
@@ -211,9 +172,6 @@ sólido, e, assim, muitas outras substâncias de que os químicos tirarão
 maravilhas ainda mais espantosas. Simplesmente, o Espírito dispõe de
 instrumentos mais perfeitos do que os vossos: a vontade e a permissão de Deus.”
 Nota. A questão da saciedade é aqui muito importante. Como pode produzir a saciedade uma substância cuja existência e propriedades são meramente temporárias e, de certo modo, convencionais? O que se dá é que essa substância, pelo seu contato com o estômago, produz a sensação da saciedade, mas não a saciedade que resulta da plenitude. Desde que uma substância dessa natureza pode atuar sobre a economia e modificar um estado mórbido, também pode, perfeitamente, atuar sobre o estômago e produzir aí a impressão da saciedade. Rogamos, todavia, aos senhores farmacêuticos e inventores de reconstituintes que não se encham de zelos, nem creiam que os Espíritos lhes venham fazer concorrência. Esses casos são raros, excepcionais e nunca dependem da vontade. Doutro modo, toda a gente se alimentaria e curaria a preço baratíssimo.
-
-## item 14
-
 14.ª. Os objetos que, pela vontade do
 Espírito, se tornam tangíveis, poderiam permanecer com esse caráter e
 tornarem-se de uso?
@@ -221,36 +179,24 @@ tornarem-se de uso?
 mas
 não se faz
 . Está fora das leis.”
-
-## item 15
-
 15.ª. Têm todos os Espíritos, no mesmo
 grau, o poder de produzir objetos tangíveis?
 “É fora de dúvida que quanto mais
 elevado é o Espírito, tanto mais facilmente o consegue. Porém, ainda aqui, tudo
 depende das circunstâncias. Desse poder também podem dispor os Espíritos
 inferiores.”
-
-## item 16
-
 16.ª. O Espírito tem sempre o
 conhecimento exato do modo por que compõe suas vestes, ou os objetos cuja
 aparência ele faz visível?
 “Não; muitas vezes concorre para a formação de
 todas essas coisas, praticando um ato instintivo, que ele próprio não
 compreende, se já não estiver bastante esclarecido para isso.”
-
-## item 17
-
 17.ª. Uma vez que o Espírito pode extrair do
 elemento universal os materiais que lhe são necessários à produção de todas
 essas coisas e dar-lhes uma realidade temporária, com as propriedades que lhes
 são peculiares, também poderá tirar dali o que for preciso para escrever,
 possibilidade que nos daria a explicação do fenômeno da escrita direta?
 “Até que, afinal, chegaste ao ponto.”
-
-## item 18
-
 18.ª. Pois que a matéria de que se
 serve o Espírito carece de persistência, como é que não desaparecem os traços
 da escrita direta?

@@ -95,9 +95,6 @@ tomado de admiração pela sua doutrina.
 6. Jesus expulsou do templo os mercadores. Condenou assim o tráfico das coisas santas sob qualquer forma. Deus
 não vende a sua bênção, nem o seu perdão, nem a entrada no reino dos
 céus. Não tem, pois, o homem, o direito de lhes estipular preço.
-
-## item 6
-
 6. Jesus expulsou do templo os mercadores. Condenou assim o tráfico das coisas santas sob qualquer forma. Deus
 não vende a sua bênção, nem o seu perdão, nem a entrada no reino dos
 céus. Não tem, pois, o homem, o direito de lhes estipular preço.

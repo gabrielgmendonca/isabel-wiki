@@ -96,6 +96,49 @@ class RoundTripTests(unittest.TestCase):
                              literal_text(sigla, _cite_ref(sigla, key)).strip())
 
 
+class CoberturaDeAncorasTests(unittest.TestCase):
+    """Piso de cobertura por obra — trava PERDA SILENCIOSA de âncora.
+
+    O round-trip é fail-safe: quando o publisher e o `cite.py` discordam sobre
+    onde um item começa/termina, a âncora simplesmente NÃO é registrada e a
+    citação cai no link externo. Isso é seguro, mas silencioso — nenhum teste
+    quebra. Foi o que aconteceu ao alinhar as duas segmentações: aplicar a
+    segmentação de capítulo ao LM (cuja numeração é contínua, não reinicia por
+    capítulo) evaporou 29 âncoras legítimas sem falhar teste nenhum.
+
+    Os pisos ficam ~5% abaixo da cobertura real medida em 2026-07-13, para não
+    quebrarem a cada âncora nova, mas pegarem um colapso.
+    """
+
+    PISOS = {
+        ("LE", "questions"): 960,
+        ("LM", "items"): 290,
+        ("ESE", "items"): 450,
+        ("C&I", "items"): 185,
+        ("Genese", "items"): 610,
+    }
+
+    def test_cobertura_por_obra_nao_colapsa(self):
+        for (sigla, unit), piso in self.PISOS.items():
+            n = len(ANCHORS[sigla][unit])
+            self.assertGreaterEqual(
+                n, piso,
+                f"{sigla}/{unit}: só {n} âncoras (piso {piso}). Publisher e cite.py "
+                f"provavelmente divergiram na segmentação — o round-trip descartou "
+                f"as âncoras em silêncio. Regenerar: uv run python scripts/publish_pentateuco.py",
+            )
+
+    def test_ancoras_do_manifest_existem_na_pagina(self):
+        # Uma âncora registrada tem de ter heading correspondente na página.
+        for sigla, unit in self.PISOS:
+            book = ANCHORS[sigla][unit]
+            for key in list(book)[:40]:
+                self.assertIsNotNone(
+                    _block_under_anchor(book[key]),
+                    f"{sigla} {key}: manifest aponta para âncora inexistente ({book[key]})",
+                )
+
+
 class InternalLinkTests(unittest.TestCase):
     def test_internal_path_le_question(self):
         p = kardec_internal_path(ANCHORS, "LE", ", q. 1")

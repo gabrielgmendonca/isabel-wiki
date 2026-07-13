@@ -640,21 +640,9 @@ inestancável de elementos sobremaneira sérios e instrutivos.
 ## item 346
 
 346. Os trabalhos de cada sessão podem regular-se conforme se segue:
-
-## item 1
-
 1.ª. Leitura das comunicações espíritas recebidas na sessão anterior, depois de passadas a limpo.
-
-## item 2
-
 2.ª. Relatórios diversos. — Correspondência. — Leitura das comunicações obtidas fora das sessões. — Narrativa de fatos que interessem ao Espiritismo.
-
-## item 3
-
 3.ª. Matéria de estudo. — Ditados espontâneos. — Questões diversas e problemas morais propostos aos Espíritos. — Evocações.
-
-## item 4
-
 4.ª. Conferência. — Exame crítico e analítico das diversas comunicações. — Discussão sobre diferentes pontos da ciência espírita.
 
 ## item 347
