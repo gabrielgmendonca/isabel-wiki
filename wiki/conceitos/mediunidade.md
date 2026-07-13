@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM, LE, André Luiz/Chico Xavier]
-tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, onda-mental, ideoplastia, psicometria, desdobramento, mediunidade-curativa, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, grau/intermediario, lei/sociedade, tema/mediunidade]
-atualizado_em: 2026-05-03
+fontes: [LM, LE, André Luiz/Chico Xavier, André Luiz/Waldo Vieira]
+tags: [mediunidade, mediuns, comunicacao, espiritismo-pratico, animismo, onda-mental, ideoplastia, psicometria, desdobramento, mediunidade-curativa, conduta-espirita, waldo-vieira, obra/lm, obra/le, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/waldo-vieira, grau/intermediario, lei/sociedade, tema/mediunidade]
+atualizado_em: 2026-07-12
 status: ativo
 ---
 
@@ -216,6 +216,14 @@ Qualidades do bom médium: "modéstia, simpatia e devotamento". Deve oferecer se
 
 Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grupos-espiritas]].
 
+## Ética do médium em *Conduta Espírita* (André Luiz / Waldo Vieira, 1960)
+
+O epítome de conduta [[wiki/obras/conduta-espirita]] (psicografia solo de Waldo Vieira, prefácio de Emmanuel) traduz o quadro doutrinário em **regra de comportamento**. Os capítulos "Do Médium" e "Perante a Mediunidade" recusam qualquer aura extraordinária em torno da faculdade e fixam a sobriedade ética do medianeiro:
+
+> "O intercâmbio mediúnico é acontecimento natural e o médium é um ser humano como qualquer outro." (*Conduta Espírita*, "Perante a Mediunidade")
+
+Três diretrizes condensam os capítulos, coerentes com a universalidade de LM, 2ª parte, cap. XIV (item 159) e com o desinteresse da *Viagem Espírita em 1862*: a mediunidade **não exime** o médium do trabalho honesto na sociedade; **veda o proveito material** ("não há serviço santificante na mediunidade vinculada a interesses inferiores"); e **recusa a lisonja** ("é sempre possível agradecer sem lisonjear"). A obra adverte ainda que o medianeiro "carrega consigo os maiores inimigos de si próprio" — a ambição, a ausência de autocrítica e a vaidade. Ver [[wiki/conceitos/mercantilizacao-da-mediunidade]].
+
 ## Páginas relacionadas
 
 - [[wiki/conceitos/psicografia]] — principal forma de comunicação escrita
@@ -248,3 +256,4 @@ Ver [[wiki/obras/viagem-espirita-em-1862]], [[wiki/conceitos/organizacao-de-grup
 - XAVIER, Francisco Cândido (André Luiz). *No Mundo Maior*. Rio de Janeiro: FEB, 1947. Cap. 9 (crítica ao "Cérbero animista", contraste Moisés × Jesus, caso Eulália). Edição: [[raw/mediuns/chico-xavier/andre-luiz/no-mundo-maior]].
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955. Caps. 1, 2, 16, 30 (tese da mente, psicoscópio, mandato, mediunidade ontológica universal). Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. 26 capítulos (fisiologia sutil, onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo, Jesus e mediunidade). Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- VIEIRA, Waldo (André Luiz). *Conduta Espírita*. Rio de Janeiro: FEB, 1960. Caps. "Do Médium", "Perante a Mediunidade" (ética do medianeiro). Edição: [[raw/mediuns/chico-xavier/andre-luiz/conduta-espirita]].

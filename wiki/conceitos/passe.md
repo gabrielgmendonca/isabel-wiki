@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM, Gênese, ESE, André Luiz/Chico Xavier]
-tags: [passe, mediunidade-curadora, fluidoterapia, magnetismo, fluidos, andre-luiz, os-mensageiros, obra/lm, obra/genese, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-04-28
+fontes: [LM, Gênese, ESE, André Luiz/Chico Xavier, André Luiz/Waldo Vieira]
+tags: [passe, mediunidade-curadora, fluidoterapia, magnetismo, fluidos, andre-luiz, os-mensageiros, conduta-espirita, waldo-vieira, obra/lm, obra/genese, obra/ese, autor/andre-luiz, autor/chico-xavier, autor/waldo-vieira, autor/kardec, grau/intermediario, tema/mediunidade]
+atualizado_em: 2026-07-12
 status: rascunho
 ---
 
@@ -87,6 +87,20 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - **Prece como envoltório** — a prece (do passista, dos auxiliares, do paciente) "constitui o mais poderoso influxo magnético que conhecemos" (Aniceto, cap. 25). O passe sem prece tende ao magnetismo; com prece, ao Espiritismo.
 - **Ambiente fluídico do local** — casa espírita ordenada, prece coletiva, ausência de murmuração. A reunião evangélica que precede o passe não é decoração — é parte da preparação fluídica do espaço.
 
+## Disciplina do passe em *Conduta Espírita* (André Luiz / Waldo Vieira, 1960)
+
+O epítome de conduta [[wiki/obras/conduta-espirita]] (psicografia solo de Waldo Vieira, prefácio de Emmanuel) dedica o capítulo "Perante o Passe" à **economia sóbria do gesto** — corroborando, em chave normativa, o que a fenomenologia de André Luiz já descrevera:
+
+> "A transmissão do passe dispensa qualquer recurso espetacular." (*Conduta Espírita*, "Perante o Passe")
+
+Diretrizes do capítulo, todas convergentes com as "Condições de eficácia" acima:
+
+- **Sem espetáculo** — dispensar gesticulação violenta, respiração ofegante e bocejo contínuo; "nem sempre há necessidade de toque direto no paciente".
+- **Sem ansiedade por resultado** — "fugir à indagação sobre resultados e jamais temer a exaustão das forças magnéticas" (o "bem ajuda sem perguntar"), eco direto da advertência de Aniceto (*Os Mensageiros*, cap. 25).
+- **Sem abuso** — esclarecer a inconveniência de pedir passes "todos os dias, sem necessidade real, para que esse gênero de auxílio não se transforme em mania", pois "é falta de caridade abusar da bondade alheia".
+- **Repertório admitido** — sopro curativo, água fluidificada, autopasse e "emissão de força socorrista, a distância, através da oração" — mesma família de recursos do Posto de Socorro de *Os Mensageiros*.
+- **Ambiente** — proibir ruídos, fumo, vapores alcoólicos e a presença de pessoas irreverentes ("de ambiente poluído, nada de bom se pode esperar").
+
 ## Aplicação prática
 
 - **Postura** — dispor-se sem urgência, com intenção de servir, sem exibição. Não exibir gestos rebuscados.
@@ -105,6 +119,7 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - [[wiki/conceitos/principio-vital]] — substrato da eficácia magnética
 - [[wiki/obras/os-mensageiros]] — caps. 19, 22, 25 (arquitetura tripla do Posto)
 - [[wiki/obras/nos-dominios-da-mediunidade]] — cap. 17 (passe como transfusão de energias, "tensão favorável", distinção do magnetismo profissional)
+- [[wiki/obras/conduta-espirita]] — cap. "Perante o Passe" (disciplina sóbria do gesto; sopro curativo, água fluidificada, autopasse, passe a distância pela oração)
 
 ## Fontes
 
@@ -113,4 +128,5 @@ Sintetizando Kardec, Gênese e a fenomenologia descrita por André Luiz:
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. V, XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 19, 22, 25. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - XAVIER, Francisco Cândido (André Luiz). *Nos Domínios da Mediunidade*. Rio de Janeiro: FEB, 1955, cap. 17. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nos-dominios-da-mediunidade]].
+- VIEIRA, Waldo (André Luiz). *Conduta Espírita*. Rio de Janeiro: FEB, 1960, cap. "Perante o Passe". Edição: [[raw/mediuns/chico-xavier/andre-luiz/conduta-espirita]].
 - Bíblia ACF — Mc 6:5; Mt 8:3; Lc 4:40; At 9:17; At 28:8.

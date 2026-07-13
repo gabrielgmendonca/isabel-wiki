@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [ESE, LE, André Luiz/Chico Xavier]
-tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/prece-caridade]
-atualizado_em: 2026-05-31
+fontes: [ESE, LE, André Luiz/Chico Xavier, André Luiz/Waldo Vieira]
+tags: [culto-do-evangelho-no-lar, prece, lar, evangelho-no-lar, defesa-espiritual, andre-luiz, os-mensageiros, conduta-espirita, waldo-vieira, lei/adoracao, obra/ese, obra/le, autor/andre-luiz, autor/chico-xavier, autor/waldo-vieira, autor/kardec, grau/intermediario, tema/prece-caridade]
+atualizado_em: 2026-07-12
 status: ativo
 ---
 
@@ -114,6 +114,9 @@ A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André
 - **Disposição** — quem ora deve, antes de tudo, sentir o que diz (ESE, cap. XXVII, item 8). Verbalismo decora; sentimento sustenta.
 - **Tolerância à resistência interna** — não excluir membros não-sintônicos; o culto se sustenta na diretriz dos que aderem e age por irradiação sobre os demais.
 
+> [!note] Preceito normativo em *Conduta Espírita*
+> [[wiki/obras/conduta-espirita]] (André Luiz / Waldo Vieira, FEB, 1960) fixa o culto como **dever do espírita**, não prática opcional: o capítulo "No Lar" prescreve formá-lo "ao menos uma vez por semana" com "todos aqueles que lhe co-participam da fé", "estudando a verdade e irradiando o bem, através de preces e comentários em torno da experiência diária à luz dos postulados espíritas", e resume — *"Quem cultiva o Evangelho em casa, faz da própria casa um templo do Cristo."*
+
 ## Estudos contemporâneos
 
 - "Evangelho no Lar" (Carlos Mendonça, EELDE) — [[raw/palestras/centro-espirita-bezerra-de-menezes-estacio/evangelho-no-lar-estudo-do-evangelho-a-luz-da-doutrina-espirita]]. Fundamenta a prática em "onde dois ou três estiverem reunidos em meu nome" (Mt 18:20) e em [[wiki/obras/jesus-no-lar]] (Neio Lúcio / Chico Xavier), apresentando-a não como ritual espírita novo, mas como resgate de um hábito do próprio Jesus — antídoto ao distanciamento familiar contemporâneo.
@@ -129,6 +132,7 @@ A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André
 - [[wiki/obras/jesus-no-lar]] — Neio Lúcio / Chico Xavier (FEB, 1950), âncora literária mais antiga do conceito
 - [[wiki/obras/evangelho-no-lar-e-no-coracao]] — FEB-CFN (2025), livreto institucional federativo atual; roteiro padrão + antologia de mensagens-âncora
 - [[wiki/obras/constelacao-familiar]] — Joanna de Ângelis / Divaldo Franco (LEAL, 2008), cap. 21: leitura clínica do culto como "psicoterapia de grupo" e Jesus como "Educador por excelência" que iniciou o método em Cafarnaum
+- [[wiki/obras/conduta-espirita]] — André Luiz / Waldo Vieira (FEB, 1960), cap. "No Lar": o culto semanal como dever normativo do espírita
 - [[wiki/conceitos/familia]] — conceito-âncora da família como instituição doutrinária
 
 ## Fontes
@@ -137,5 +141,6 @@ A estrutura operacional descrita por Joanna no cap. 21 é idêntica à de André
 - Kardec, Allan. *O Evangelho Segundo o Espiritismo*, caps. XXVII-XXVIII. Trad. Guillon Ribeiro. FEB.
 - XAVIER, Francisco Cândido (André Luiz). *Os Mensageiros*. Rio de Janeiro: FEB, 1944, caps. 33-39. Edição: [[raw/mediuns/chico-xavier/andre-luiz/os-mensageiros]].
 - XAVIER, Francisco Cândido (Neio Lúcio). *Jesus no Lar*. Rio de Janeiro: FEB, 1950, caps. 1, 2, 50. Edição: [[raw/mediuns/chico-xavier/neio-lucio/jesus-no-lar]].
+- VIEIRA, Waldo (André Luiz). *Conduta Espírita*. Rio de Janeiro: FEB, 1960, cap. "No Lar". Edição: [[raw/mediuns/chico-xavier/andre-luiz/conduta-espirita]].
 - FEDERAÇÃO ESPÍRITA BRASILEIRA. Conselho Federativo Nacional. *Evangelho no Lar e no Coração*. 1. ed. Brasília: FEB, 2025, p. 16-17. ISBN 978-65-5570-755-7. Edição: [[raw/artigos/feb/web-evangelho-no-lar-e-no-coracao-100x155mm-2025]].
 - Joanna de Ângelis / Franco, Divaldo Pereira. *Constelação Familiar*. Salvador: LEAL, 2008 (assinatura Natal/2007), cap. 21. Edição: [[raw/mediuns/divaldo-franco/joanna-de-angelis/joanna-de-angelis-constelacao-familiar/joanna-de-angelis-constelacao-familiar]].

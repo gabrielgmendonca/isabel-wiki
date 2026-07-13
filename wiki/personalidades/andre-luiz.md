@@ -4,7 +4,7 @@ fontes: [André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
 tags: [andre-luiz, espirito-comunicante, chico-xavier, waldo-vieira, nosso-lar, os-mensageiros, missionarios-da-luz, obreiros-da-vida-eterna, no-mundo-maior, mecanismos-da-mediunidade, sexo-e-destino, e-a-vida-continua, autor/andre-luiz, autor/chico-xavier, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Andre Luiz"
-atualizado_em: 2026-05-04
+atualizado_em: 2026-07-12
 status: rascunho
 ---
 
@@ -35,6 +35,7 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - [[wiki/obras/acao-e-reacao]] — 10º livro da série (1957). Três anos de estágio na Mansão Paz sob orientação de Druso e Silas: Lei de Causa e Efeito, regime de sanções, resgates coletivos, tipologia tríplice da dor (evolução / expiação / auxílio).
 - [[wiki/obras/evolucao-em-dois-mundos]] — tratado doutrinário em duas partes (1958). Anatomia funcional do corpo espiritual (psicossoma e sete centros vitais), simbiose e vampirismo espiritual, sexualidade, mediunidade e religiões à luz do centro genésico e coronário.
 - [[wiki/obras/mecanismos-da-mediunidade]] — tratado expositivo em 26 capítulos (1959). Fisiologia sutil das faculdades mediúnicas pelo léxico da microfísica do séc. XX (eletromagnetismo, eletrônica, química); onda mental, ideoplastia, psicometria, desdobramento, mediunidade curativa, animismo; culminação cristocêntrica (Jesus como Médium de Deus).
+- [[wiki/obras/conduta-espirita]] — epítome de conduta (1960), psicografado por [[wiki/personalidades/waldo-vieira]] (solo), prefácio de Emmanuel. 47 capítulos de preceitos práticos para o espírita por ambiente/papel (Da Mulher, Do Médium, No Lar, Perante o Passe, Perante Jesus…), cada um fechando com máxima em itálico + versículo evangélico; conduta como testemunho, antirritualismo, mediunidade sem misticismo, primado da Codificação.
 - [[wiki/obras/sexo-e-destino]] — volume da série (1963), em **coautoria mediúnica** de Chico Xavier com [[wiki/personalidades/waldo-vieira]]. Romance-relatório em duas partes sobre sexualidade, obsessão e reencarnação como reabilitação familiar; cunha o conceito de [[wiki/conceitos/possessao-partilhada|possessão partilhada]]; passagem-marco de Félix sobre dignidade dos homossexuais (Parte 2, cap. 5).
 - [[wiki/obras/e-a-vida-continua]] — 13º e último volume da série (1968). Único em terceira pessoa: André Luiz é apenas autor espiritual. Romance de ajuste de Evelina Serpa e Ernesto Fantini sob o Instrutor Ribas; esquema reencarnatório de 30 anos em que cada réu reencarna como pai/protetor da vítima (Caio→Túlio, Amâncio→Desidério); conceito de **personalidades-legendas**.
 
@@ -81,5 +82,6 @@ Tom: didático, respeitoso, com forte viés fenomenológico — descreve centros
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Evolução em Dois Mundos*. Rio de Janeiro: FEB, 1958. Edição: [[raw/mediuns/chico-xavier/andre-luiz/evolucao-em-dois-mundos]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Mecanismos da Mediunidade*. Rio de Janeiro: FEB, 1959. Edição: [[raw/mediuns/chico-xavier/andre-luiz/mecanismos-da-mediunidade]].
+- VIEIRA, Waldo (André Luiz). *Conduta Espírita*. Rio de Janeiro: FEB, 1960. Prefácio de Emmanuel. Edição: [[raw/mediuns/chico-xavier/andre-luiz/conduta-espirita]].
 - XAVIER, Francisco Cândido; VIEIRA, Waldo (André Luiz). *Sexo e Destino*. Rio de Janeiro: FEB, 1963. Edição: [[raw/mediuns/chico-xavier/andre-luiz/sexo-e-destino]].
 - XAVIER, Francisco Cândido (André Luiz). *E a vida continua…* Rio de Janeiro: FEB, 1968. Edição: [[raw/mediuns/chico-xavier/andre-luiz/e-a-vida-continua]].
