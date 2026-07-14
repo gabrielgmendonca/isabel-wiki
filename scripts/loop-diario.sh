@@ -8,17 +8,38 @@
 # ── Cascata de custo crescente ───────────────────────────────────────────────
 #
 #   Nível 0 (ZERO tokens) — dreno determinístico: promove os rascunhos cujo item
-#     do ROADMAP §11 já foi resolvido. Invariantes travadas por teste; o leitor
-#     do site não vê diferença (rascunho já é público — nada usa `draft:`, então
-#     o RemoveDrafts do Quartz não filtra nada). É contabilidade interna.
-#     → PR que se MESCLA SOZINHO quando o lint-pr passa.
+#     do ROADMAP §11 já foi resolvido.
 #
 #   Nível 1 (barato) — só SE houver candidata: uma sessão `claude -p /dreno N`
 #     em que um agente julga a completude editorial de N páginas do /ingest.
-#     Houve juízo, e o resultado é conteúdo numa wiki pública.
-#     → PR que ESPERA a sua revisão.
 #
-# Se não há trabalho, o dia custa ZERO token e nenhum PR é aberto.
+# Os DOIS níveis entregam PR que ESPERA revisão humana. Se não há trabalho, o dia
+# custa ZERO token e nenhum PR é aberto.
+#
+# ── Por que NENHUM dos dois automescla (mudou em 2026-07-14) ─────────────────
+#
+# O nível 0 automesclava, apoiado em dois fatos. Auditoria adversarial mostrou
+# que os DOIS eram falsos:
+#
+#   1. "O diff é só troca de `status:` — e isso é VERIFICADO, não assumido."
+#      O guarda que verificava (`so_troca_de_status`) falhava ABERTO. Ele filtrava
+#      o diff com `grep -E '^[+-][^+-]'`, que descarta toda linha cujo CONTEÚDO
+#      começa com `-` — ou seja, todo bullet em coluna zero. 639 páginas da wiki
+#      têm um: é a lista do `## Fontes`. Uma citação adulterada junto da promoção
+#      passava como "só status" e ia para main sem ninguém olhar. O guarda também
+#      era cego a arquivo novo não-rastreado — que o `git add -A` do `abre_pr`
+#      commitava logo em seguida.
+#
+#   2. "O leitor do site não vê diferença — rascunho já é público."
+#      Vê. O `deploy-wiki.yml` copia `quartz-overrides/components/DraftNotice.tsx`
+#      para dentro do build e o `quartz.layout.ts` o renderiza: `status: rascunho`
+#      estampa na página o aviso "pode conter lacunas, seções incompletas ou
+#      citações não verificadas". Promover APAGA esse aviso do site público.
+#
+# Somados: o único PR que entrava em main sem revisão era justamente o que
+# removia o aviso de que a página não fora revisada — guardado por um guarda que
+# não guardava. Enquanto não existir uma verificação que valha o que promete
+# (ver ROADMAP §5), os dois níveis esperam você.
 #
 # ── Por que PR, e não push direto ────────────────────────────────────────────
 #
@@ -120,37 +141,18 @@ prepara_worktree() {
   fi
 }
 
-# ── o diff do nível 0 é MESMO só troca de status? ────────────────────────────
-# O auto-merge se justifica por este fato — então ele é VERIFICADO, não assumido.
-# Se qualquer linha fora de `status:` aparecer no diff, o lote é rebaixado a
-# revisão humana em vez de entrar em main sem ninguém olhar.
-so_troca_de_status() {
-  linhas=$(git -C "$WT" diff -U0 | grep -E '^[+-][^+-]' || true)
-  fora=$(echo "$linhas" | grep -vE '^[+-]status: (rascunho|ativo)$' || true)
-  [ -z "$fora" ]
-}
-
-# ── espera o CI com teto de tempo ────────────────────────────────────────────
-# `gh pr checks --watch` não tem timeout: se o CI travar, o job do launchd fica
-# pendurado para sempre. macOS não traz o `timeout` do GNU, então é na mão.
-espera_ci() {
-  branch="$1"; teto="${2:-900}"
-  (cd "$WT" && gh pr checks "$branch" --watch --fail-fast >/dev/null 2>&1) &
-  pid=$!
-  ( sleep "$teto"; kill "$pid" 2>/dev/null ) &
-  vigia=$!
-  if wait "$pid" 2>/dev/null; then
-    kill "$vigia" 2>/dev/null || true
-    return 0
-  fi
-  kill "$vigia" 2>/dev/null || true
-  return 1
-}
-
 # ── abre PR a partir do estado atual da worktree ─────────────────────────────
-#   $1 branch · $2 título · $3 corpo · $4 "auto" p/ mesclar após CI verde
+#   $1 branch · $2 título · $3 corpo
+#
+# Sempre PR de revisão — nada automescla. Além dos dois motivos do cabeçalho, o
+# próprio `gh pr merge --squash --delete-branch` era uma armadilha aqui: para
+# apagar a branch local ele faz `git checkout main` DENTRO da worktree, e o main
+# já está checado no seu repo principal → `fatal: 'main' is already used by
+# worktree at ...` → o `&&` devolve 1 → `set -e` matava o script, e o nível 1
+# nunca rodava nos dias em que o nível 0 mesclava. (Pior: se você estivesse numa
+# feature branch, o checkout SUCEDIA e a worktree do loop roubava o seu `main`.)
 abre_pr() {
-  branch="$1"; titulo="$2"; corpo="$3"; modo="$4"
+  branch="$1"; titulo="$2"; corpo="$3"
 
   git -C "$WT" checkout -q -B "$branch"
   git -C "$WT" add -A
@@ -162,19 +164,7 @@ abre_pr() {
   url=$(cd "$WT" && gh pr create --base main --head "$branch" \
           --title "$titulo" --body "$corpo")
   log "PR aberto: $url"
-
-  if [ "$modo" != "auto" ]; then
-    log "  ↳ aguarda SUA revisão (houve juízo de agente)."
-    return 0
-  fi
-
-  log "  ↳ esperando o lint-pr (teto de 15min)…"
-  if espera_ci "$branch" 900; then
-    (cd "$WT" && gh pr merge "$branch" --squash --delete-branch) \
-      && log "  ↳ CI verde → mesclado automaticamente. ✓"
-  else
-    log "  ↳ CI vermelho, ausente ou estourou o teto → PR fica aberto p/ você. ⚠"
-  fi
+  log "  ↳ aguarda SUA revisão."
 }
 
 log "════ loop diário — $HOJE ════"
@@ -196,22 +186,12 @@ RESUMO_LINT=$(uv run python .claude/skills/lint/scripts/lint_wiki.py 2>/dev/null
   | grep '"summary"' | sed 's/.*: "//; s/".*//' || echo "lint não rodou")
 log "  $RESUMO_LINT"
 
-if [ -z "$SECO" ] && ! git -C "$WT" diff --quiet; then
-  N=$(git -C "$WT" diff --name-only | wc -l | tr -d ' ')
-
-  # O auto-merge se apoia em "este diff só troca `status:`". Isso é VERIFICADO
-  # aqui, não assumido — se qualquer outra linha aparecer (um script passou a
-  # escrever um arquivo, um `git add -A` pegou algo inesperado), o lote é
-  # rebaixado a revisão humana em vez de entrar em main sem ninguém olhar.
-  if so_troca_de_status; then
-    MODO="auto"
-    NOTA="Diff verificado: **só** linhas \`status: rascunho\` → \`status: ativo\`."
-  else
-    MODO="revisao"
-    NOTA="⚠ **Automescla cancelada.** O diff tem linhas fora de \`status:\` — algo
-mudou além das promoções. Revise antes de mesclar."
-    log "  ⚠ diff do nível 0 tem linha fora de \`status:\` → rebaixado a revisão."
-  fi
+# `status --porcelain`, não `git diff`: é o que o `git add -A` do abre_pr vai
+# realmente commitar. `git diff` é cego a arquivo novo não-rastreado — e era
+# justamente essa assimetria que deixava passar, sem exame, o que entrava no
+# commit.
+if [ -z "$SECO" ] && [ -n "$(git -C "$WT" status --porcelain)" ]; then
+  N=$(git -C "$WT" status --porcelain | wc -l | tr -d ' ')
 
   abre_pr "loop/auto-$HOJE" \
     "dreno: promove $N rascunho(s) resolvido(s) a \`ativo\`" \
@@ -219,16 +199,15 @@ mudou além das promoções. Revise antes de mesclar."
 
 Promove a \`ativo\` os rascunhos cujos itens do ROADMAP §11 já estão \`[x]\`.
 Invariantes travadas por \`tests/test_dreno.py\`: não bumpa \`atualizado_em\`
-(senão a página recai na fila do Opus) e slug ambíguo nunca promove.
+(senão a página recai na fila do Opus) e slug ambíguo (bucket F) nunca promove.
 
-O leitor do site não vê diferença: rascunho já é público (nada usa \`draft:\`).
-
-$NOTA
+⚠ Promover **apaga do site público** o aviso \`DraftNotice\` (\"página em
+rascunho — pode conter lacunas e citações não verificadas\"). Confira que cada
+página listada tem mesmo o SEU item \`[x]\` no §11 antes de mesclar.
 
 Lint: $RESUMO_LINT
 
-🤖 Gerado por \`scripts/loop-diario.sh\`" \
-    "$MODO"
+🤖 Gerado por \`scripts/loop-diario.sh\`"
 else
   log "nível 0 — nada a promover."
 fi
@@ -278,7 +257,6 @@ Confira as promoções a \`ativo\` antes de mesclar.
 
 Lint: $RESUMO_LINT
 
-🤖 Gerado por \`scripts/loop-diario.sh\`" \
-  "revisao"
+🤖 Gerado por \`scripts/loop-diario.sh\`"
 
 log "════ fim. ════"
