@@ -1,6 +1,6 @@
 ---
 name: critica
-description: Crítica doutrinária PROFUNDA das páginas recém-editadas da wiki IsAbel — multi-agente, caro em tokens, complementa o /lint. Audita 4 eixos (divergências não-registradas com o Pentateuco, citações que não sustentam a afirmação, desvio editorial, tags/cross-references), aplica correções seguras e difere decisões doutrinárias a revisão humana. Gera relatório HTML+Markdown. Use com /critica, "crítica profunda", "auditar fidelidade da wiki".
+description: Crítica doutrinária PROFUNDA das páginas recém-editadas da wiki IsAbel — multi-agente, caro em tokens, complementa o /lint. Audita 3 eixos (divergências não-registradas com o Pentateuco, citações que não sustentam a afirmação, desvio editorial), aplica correções seguras e difere decisões doutrinárias a revisão humana. Gera relatório HTML+Markdown. Use com /critica, "crítica profunda", "auditar fidelidade da wiki".
 ---
 
 # /critica
@@ -46,13 +46,16 @@ E **removê-lo ao final** do run dryRun:
 rm -f .claude/skills/critica/state/.dryrun
 ```
 
-O workflow roda um pipeline por página: **Crítica** (1 agente Opus por página — monta o dossiê com `cite.py`/qmd, critica os 4 eixos, aplica só correções seguras na própria página) → **Verificação** (céticos Sonnet adversariais por achado de eixo 1/2, para matar falso-positivo). Ele **não** escreve em arquivos compartilhados — retorna `{ pages: [...] }`, cada página com `applied[]` (correções seguras já aplicadas) e `deferred[]` (achados de qualquer eixo que exigem decisão humana; cada um com `disposition: "deferred"` ou `"dropped"` — `dropped` = a verificação adversarial refutou, ignorar).
+O workflow roda um pipeline por página: **Crítica** (1 agente Opus por página — monta o dossiê com `cite.py`/qmd, critica os 3 eixos, aplica só correções seguras na própria página) → **Verificação** (céticos Sonnet adversariais por achado de eixo 1/2, para matar falso-positivo). Ele **não** escreve em arquivos compartilhados — retorna `{ pages: [...] }`, cada página com `applied[]` (correções seguras já aplicadas) e `deferred[]` (achados de qualquer eixo que exigem decisão humana; cada um com `disposition: "deferred"` ou `"dropped"` — `dropped` = a verificação adversarial refutou, ignorar).
 
 ## Passo 4 — Síntese (escritas compartilhadas, SERIAL no main-session)
 
 Tudo que toca arquivo compartilhado acontece **aqui**, serial, nunca em agente paralelo. A partir do retorno do workflow:
 
 ### 4a. Rotear os diferidos
+
+Cada item roteado aqui **custa uma decisão sua**: a página vira `rascunho` (o site passa a estampar o aviso do `DraftNotice`) e abre-se um item `[ ]` no §11 que só você fecha. Essa fila é o gargalo do projeto — trate-a como recurso escasso.
+
 Para cada página, para cada item em `deferred` com `disposition: "deferred"` (itens `"dropped"` foram refutados pela verificação — ignorar, entram no relatório só como descartados):
 1. Marcar a página como rascunho:
    ```bash
@@ -99,7 +102,9 @@ Só se houve mudança ou diferimento (run 100% limpo **não** é logado, espelha
 
 ## Regras
 
-- **Conservadorismo doutrinário.** Na dúvida, diferir (rascunho + ROADMAP), nunca auto-corrigir sentido. Correção de citação só quando `cite.py` prova o locus; citação de autor complementar (qmd) **sempre** difere.
+- **Conservadorismo doutrinário.** Na dúvida entre auto-corrigir e diferir, diferir (rascunho + ROADMAP) — nunca auto-corrigir sentido. Correção de citação só quando `cite.py` prova o locus; citação de autor complementar (qmd) **sempre** difere.
+- **Mas diferir também tem custo.** Cada diferido consome uma decisão humana, e a fila do §11 é o gargalo do projeto. Na dúvida entre diferir e **não reportar**, não reporte o que não muda o que a página *afirma*.
+- **Só o que exige juízo semântico entra aqui.** Tag e wikilink saíram para o lint (`check_unlinked_concept_mention`, `check_tag_coverage`) — grátis, em todo push. Gastar Opus para derivar o que um grep resolve, e ainda mandar o resultado para a fila humana, era o pior dos dois mundos. Ver o princípio das 3 camadas no ROADMAP §5.
 - **Kardec prevalece.** Divergência é registrada (stub `status: aberta`), nunca apagada.
 - **Sem escrita compartilhada em paralelo.** log.md, ROADMAP.md, state e relatório só no Passo 4 serial.
 - **Humano no circuito.** Páginas diferidas viram `rascunho`; o usuário revisa o relatório e o ROADMAP antes de promover de volta a `ativo`.

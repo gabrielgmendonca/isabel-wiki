@@ -334,6 +334,162 @@ def check_frequent_missing_concepts(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
+# ── conceito EXISTE, é nomeado na prosa, e não é linkado ─────────────────────
+#
+# O espelho do `missing_concept_pages` (link → página inexistente). Era o
+# "eixo 4" da /critica: um agente Opus re-derivava isto página a página, e o
+# achado ainda ia parar na fila de decisão humana do ROADMAP §11. É código —
+# a página existe ou não existe; o nome aparece ou não aparece. Aqui é grátis e
+# roda em todo push (ROADMAP §5, princípio das 3 camadas).
+
+# Nome curto demais é vocabulário ambiente, não cross-ref ("fé", "alma", "Deus").
+UNLINKED_CONCEPT_MIN_LEN = 6
+
+# O sinal útil é TF-IDF, não "mencionou". A versão ingênua ("conceito existe e é
+# nomeado → linkar") rende 3198 achados em 768 páginas — ruído que ninguém age.
+# O que vale é conceito ESPECÍFICO (aparece em poucas páginas da wiki) e SALIENTE
+# nesta página (nomeado mais de uma vez), e ainda assim sem link:
+#
+#   - `MAX_DF`: conceito nomeado em >3% das páginas é vocabulário ambiente
+#     ("orgulho", "família", "humildade" — 100-200 páginas cada). Linkar toda
+#     ocorrência polui em vez de conectar. Fração, não lista chumbada: conceito
+#     que virar ambiente sai sozinho conforme a wiki cresce.
+#   - `MIN_TF`: uma menção de passagem não merece link; duas ou mais indicam que
+#     o conceito sustenta o argumento da página.
+#
+# Com estes limiares: 104 achados em 80 páginas — acionável, e a amostra é de
+# cross-refs genuínos (LE parte 1 cap. IV nomeia "princípio vital" 11× sem link).
+UNLINKED_CONCEPT_MAX_DF = 0.03
+UNLINKED_CONCEPT_MIN_TF = 2
+
+# TEXTO-FONTE — nunca sugerir wikilink aqui. São Kardec e a Bíblia verbatim; um
+# wikilink no meio deles adultera a fonte primária. (É a mesma razão pela qual o
+# `link_citations.py` roda sobre cópia em /tmp no CI, sem tocar o source.)
+UNLINKED_CONCEPT_SKIP_TIPOS = {
+    "capitulo-pentateuco",
+    "capitulo-biblico",
+    "livro-biblico",
+}
+
+
+def _linkable_prose(text: str) -> str:
+    """Prosa onde um wikilink NOVO seria legítimo.
+
+    Remove, nesta ordem: frontmatter, blocos de código, código inline, a seção
+    `## Fontes`, os wikilinks já existentes e — o mais importante — as **linhas
+    de citação (`>`)**. Enfiar um wikilink dentro de uma aspa literal de Kardec
+    adulteraria a citação; o texto entre aspas é intocável.
+    """
+    body = re.sub(r"^---.*?^---", "", text, count=1, flags=re.DOTALL | re.MULTILINE)
+    body = re.sub(r"^```.*?^```", "", body, flags=re.DOTALL | re.MULTILINE)
+    body = strip_inline_code(body)
+    fontes = re.search(r"^## Fontes\s*$", body, re.MULTILINE)
+    if fontes:
+        body = body[: fontes.start()]
+    body = "\n".join(ln for ln in body.splitlines() if not ln.lstrip().startswith(">"))
+    return re.sub(r"\[\[[^\]]+\]\]", " ", body)
+
+
+def _fold(s: str) -> str:
+    """minúsculas e sem acento — a wiki não é consistente: `wiki/conceitos/
+    demonios.md` tem `# Demonios` no H1, e a prosa alheia escreve "demônios".
+    Casar sem dobrar perderia justamente as ocorrências que interessam.
+    Preserva `\\n` (só remove marcas combinantes), então a contagem de linha do
+    texto dobrado continua válida para o original."""
+    nfd = unicodedata.normalize("NFD", s.lower())
+    return "".join(c for c in nfd if unicodedata.category(c) != "Mn")
+
+
+@lru_cache(maxsize=1)
+def _concept_names() -> tuple[tuple[str, str], ...]:
+    """(nome_dobrado, target) de cada página-conceito, do mais longo ao mais curto.
+
+    O nome vem do `# H1` (as páginas-conceito não têm `titulo:` no frontmatter);
+    o slug é o fallback. Ordenar por comprimento decrescente faz a alternância do
+    regex casar o nome mais específico primeiro ("lei de causa e efeito" antes de
+    "lei").
+    """
+    out = []
+    for page in sorted((WIKI_DIR / "conceitos").glob("*.md")):
+        if page.stem == "index":  # índice do diretório — casaria a palavra "conceitos"
+            continue
+        text = page.read_text(encoding="utf-8")
+        h1 = re.search(r"^#\s+(.+?)\s*$", text, re.MULTILINE)
+        nome = h1.group(1).strip() if h1 else page.stem.replace("-", " ")
+        if len(nome) < UNLINKED_CONCEPT_MIN_LEN:
+            continue
+        out.append((_fold(nome), f"wiki/conceitos/{page.stem}"))
+    return tuple(sorted(set(out), key=lambda p: -len(p[0])))
+
+
+def check_unlinked_concept_mention(pages: list[Path]) -> dict:
+    """Check — página-conceito EXISTE, sustenta o argumento de outra página, e
+    não é linkada.
+
+    Uma menção só não basta (ver os limiares acima): exige conceito específico
+    (df baixo) e saliente na página (tf >= 2), e que a página não linke aquele
+    conceito em lugar nenhum — se já há link em "Páginas relacionadas", o
+    cross-ref existe e o resto é polimento sem valor.
+
+    Era o "eixo 4" da /critica: um agente Opus derivava isto página a página, e o
+    achado ainda descia para a fila de decisão humana do §11. É código.
+    """
+    nomes = _concept_names()
+    if not nomes:
+        return {"severity": "info", "count": 0, "items": []}
+
+    por_nome = dict(nomes)
+    alt = "|".join(re.escape(n) for n, _ in nomes)
+    rx = re.compile(rf"(?<!\w)({alt})(?!\w)")
+
+    achados: list[dict] = []
+    df: dict[str, set[str]] = {}  # conceito → páginas que o nomeiam (ligado ou não)
+
+    for page in pages:
+        fm, _ = parse_frontmatter(page)
+        text = page.read_text(encoding="utf-8")
+        proprio = f"wiki/{page.relative_to(WIKI_DIR)}".removesuffix(".md")
+        linkados = {t.removesuffix(".md") for _, t in find_wikilinks(text)}
+
+        tf: dict[str, int] = {}
+        primeira: dict[str, tuple[str, int]] = {}
+        prosa = _fold(_linkable_prose(text))
+        for m in rx.finditer(prosa):
+            target = por_nome[m.group(1)]
+            tf[target] = tf.get(target, 0) + 1
+            primeira.setdefault(
+                target, (m.group(1), prosa[: m.start()].count("\n") + 1)
+            )
+
+        for target, n in tf.items():
+            df.setdefault(target, set()).add(str(page))
+            if target == proprio or target in linkados:
+                continue
+            # O texto-fonte entra no df (ele conta para a ubiquidade do conceito),
+            # mas nunca vira achado: não se anota Kardec.
+            if str(fm.get("tipo", "")) in UNLINKED_CONCEPT_SKIP_TIPOS:
+                continue
+            if n < UNLINKED_CONCEPT_MIN_TF:
+                continue
+            termo, linha = primeira[target]
+            achados.append({
+                "source": str(page),
+                "target": target,
+                "termo": termo,
+                "mencoes": n,
+                "line": linha,
+            })
+
+    teto_df = max(1, int(len(pages) * UNLINKED_CONCEPT_MAX_DF))
+    ambiente = {t for t, ps in df.items() if len(ps) > teto_df}
+
+    items = sorted(
+        (a for a in achados if a["target"] not in ambiente),
+        key=lambda a: (-a["mencoes"], a["source"]),
+    )
+    return {"severity": "info", "count": len(items), "items": items}
+
+
 # Tipos doutrinários onde citação é esperada. obras/personalidades/sinteses/divergencias
 # têm estrutura própria (descritivos, comparativos, meta) e são excluídos do check.
 LOW_CITATION_TIPOS = {"conceito", "aprofundamento", "questao"}
@@ -1884,6 +2040,7 @@ CHECK_REGISTRY = {
     "divergencias_aberta": check_divergencias_aberta,
     "missing_concept_pages": check_missing_concept_pages,
     "frequent_missing_concepts": check_frequent_missing_concepts,
+    "unlinked_concept_mention": check_unlinked_concept_mention,
     "pentateuco_completo": check_pentateuco_completo,
     "status_projeto": check_status_projeto,
     "broken_urls": check_broken_urls,

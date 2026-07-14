@@ -3,7 +3,7 @@ export const meta = {
   description: 'Crítica doutrinária profunda de páginas da wiki IsAbel: divergências com o Pentateuco, citações que não sustentam a afirmação, desvio editorial e tags/links faltando. Aplica correções seguras; difere decisões doutrinárias.',
   whenToUse: 'Invocado pelo skill /critica sobre o conjunto de páginas devidas (recém-editadas). Caro em tokens — rodar com pouca frequência.',
   phases: [
-    { title: 'Crítica', detail: 'um agente por página: 4 eixos + auto-fix seguro na própria página' },
+    { title: 'Crítica', detail: 'um agente por página: 3 eixos + auto-fix seguro na própria página' },
     { title: 'Verificação', detail: 'cético adversarial por achado high-stakes (eixo 1 e 2)' },
   ],
 }
@@ -32,7 +32,7 @@ const FINDING = {
   type: 'object',
   required: ['axis', 'severity', 'claim', 'evidence'],
   properties: {
-    axis: { type: 'integer', enum: [1, 2, 3, 4], description: '1=divergência Pentateuco, 2=citação, 3=editorial, 4=tags/links' },
+    axis: { type: 'integer', enum: [1, 2, 3], description: '1=divergência Pentateuco, 2=citação, 3=editorial. (Não há eixo 4: tags/wikilinks viraram lint em 2026-07-14 — check_unlinked_concept_mention e check_tag_coverage.)' },
     severity: { type: 'string', enum: ['alta', 'media', 'baixa'] },
     line: { type: 'integer', description: 'linha 1-based no ARQUIVO (igual ao lint)' },
     claim: { type: 'string', description: 'o que a página afirma' },
@@ -56,7 +56,7 @@ const CRITIQUE_SCHEMA = {
     applied: { type: 'array', items: FINDING, description: 'correções SEGURAS já aplicadas à própria página via critica_apply.py (não mudam sentido doutrinário)' },
     deferred: {
       type: 'array',
-      description: 'achados que NÃO podem ser auto-corrigidos com segurança — exigem decisão humana. Qualquer eixo: divergência (1), deturpação de citação (2), mudança de sentido editorial (3), tag/link ambíguo (4). Os de eixo 1 e 2 passam por verificação adversarial antes de diferir; os de eixo 3 e 4 vão direto.',
+      description: 'achados que NÃO podem ser auto-corrigidos com segurança — exigem decisão humana: divergência (1), deturpação de citação (2), mudança de sentido editorial (3). Os de eixo 1 e 2 passam por verificação adversarial antes de diferir; os de eixo 3 vão direto. CADA item aqui custa uma decisão do Gabriel (rascunho + item no §11) — a fila dele é o gargalo do projeto.',
       items: {
         type: 'object',
         required: ['axis', 'severity', 'claim', 'evidence'],
@@ -105,27 +105,28 @@ PASSO 2 — Monte o dossiê de verdade-fonte (NÃO confie em memória):
       uv run python .claude/skills/lint/scripts/lint_wiki.py --file ${p.path}
   - Carregue os vocabulários canônicos relevantes (por tema/fontes) de ${terminologiaPath} para o eixo 3.
 
-PASSO 3 — Critique nos 4 eixos:
+PASSO 3 — Critique nos 3 eixos:
   EIXO 1 (divergência com o Pentateuco): a página afirma algo que contradiz o Pentateuco SEM já registrar a tensão (sem \`> [!warning]\` nem link a wiki/divergencias/)? Só conta divergência REAL e ainda não-registrada.
   EIXO 2 (citação incorreta): o trecho citado realmente sustenta a afirmação? O locus é o certo? Distinga: (a) typo de locus — o texto certo existe noutro locus que cite.py confirma sustentar a afirmação; (b) deturpação — a própria afirmação está errada.
   EIXO 3 (padrão editorial): estrutura por tipo, seção ## Fontes, formato de citação, terminologia canônica (use ${terminologiaPath}; vocabulários auto_fix=true têm forma canônica fixa).
-  EIXO 4 (tags/cross-references): falta tema/* (1–3 por página), falta wikilink a página-conceito existente já nomeada na prosa.
+
+  NÃO existe mais eixo 4 (tags/wikilinks). Ele saiu daqui em 2026-07-14 e virou LINT — \`check_unlinked_concept_mention\` e \`check_tag_coverage\`, grátis, em todo push, sobre a wiki inteira. Você é a camada CARA: gaste token só no que exige juízo semântico. Se notar um wikilink faltando, **ignore** — o CI já pega. Derivar aqui, a preço de Opus, o que um grep resolve, é o desperdício que este workflow existe para não cometer. (Princípio das 3 camadas: ROADMAP §5.)
 
 PASSO 4 — Aplique SÓ correções SEGURAS, na PRÓPRIA página, via critica_apply.py (uma chamada por correção):
   - Typo de locus (eixo 2) **somente** se cite.py provar que o novo locus sustenta a afirmação existente:
       uv run python .claude/skills/critica/scripts/critica_apply.py replace-text --path ${p.path} --line <N> --from "<cit antiga>" --to "<cit nova>"
   - Terminologia drift de vocabulário auto_fix=true (eixo 3):
       ...critica_apply.py replace-text --path ${p.path} --line <N> --from "<forma drift>" --to "<forma canônica>"
-  - Tag tema/* faltando (eixo 4):  ...critica_apply.py add-tag --path ${p.path} --tag "tema/<x>"
-  - Wikilink a conceito existente (eixo 4):  ...critica_apply.py add-wikilink --path ${p.path} --line <N> --text "<texto>" --target "wiki/conceitos/<slug>"
-  ${dryRun ? 'MODO DRY-RUN: NÃO rode critica_apply.py. Apenas proponha em `applied` o que faria (com action.detail começando por "DRY-RUN —").' : 'Verifique que o alvo --target existe antes de add-wikilink (ls/Read).'}
-  Só entram em \`applied\` correções que NÃO mudam o sentido — typo de locus confirmado, terminologia auto_fix=true, tag tema/* óbvia, wikilink a conceito existente. Tudo que muda SENTIDO (incl. reenquadramento editorial) vai em \`deferred\`, nunca em \`applied\`.
+  ${dryRun ? 'MODO DRY-RUN: NÃO rode critica_apply.py. Apenas proponha em `applied` o que faria (com action.detail começando por "DRY-RUN —").' : ''}
+  Só entram em \`applied\` correções que NÃO mudam o sentido — typo de locus confirmado por cite.py, terminologia auto_fix=true. Tudo que muda SENTIDO (incl. reenquadramento editorial) vai em \`deferred\`, nunca em \`applied\`.
 
-PASSO 5 — Tudo que NÃO é auto-corrigível com segurança vai em \`deferred\` (qualquer eixo):
+PASSO 5 — Tudo que NÃO é auto-corrigível com segurança vai em \`deferred\`:
   - Eixo 1 (divergência) e eixo 2 (deturpação de citação): preencha as duas posições citadas (kardec_pos/kardec_cite vs outra_pos/outra_cite); no eixo 1, também um divergencia_slug kebab-ascii. Estes passarão por verificação adversarial.
-  - Eixo 3 (mudança de sentido/enquadramento editorial) e eixo 4 (tag/link ambíguo): preencha claim, evidence e \`proposta\` (o que o humano faria). Vão direto a diferir.
+  - Eixo 3 (mudança de sentido/enquadramento editorial): preencha claim, evidence e \`proposta\` (o que o humano faria). Vai direto a diferir.
 
-Retorne o objeto do schema. Seja conservador: na dúvida, \`deferred\`, não \`applied\`.`
+  Lembre-se do que um \`deferred\` CUSTA: a página é rebaixada a \`rascunho\` (o site passa a estampar o aviso "pode conter citações não verificadas") e abre-se um item \`[ ]\` no ROADMAP §11 que só o Gabriel pode fechar. A fila dele é o gargalo do projeto inteiro. Difira o que for divergência doutrinária de verdade — não polimento, não preferência de estilo.
+
+Retorne o objeto do schema. Na dúvida entre \`applied\` e \`deferred\`, difira: auto-corrigir sentido doutrinário é o erro caro. Na dúvida entre \`deferred\` e **não reportar nada**, prefira não reportar se o achado não muda o que a página AFIRMA.`
 }
 
 function verifyPrompt(p, hs, lens) {

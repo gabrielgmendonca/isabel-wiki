@@ -54,6 +54,9 @@ O workflow roda um pipeline por página (Crítica Opus → Verificação Sonnet 
 Tudo que toca arquivo compartilhado acontece **aqui, serial no main-session**, nunca em agente paralelo. (Em `--dry`, o sentinela bloqueia toda escrita do `critica_apply.py`; ainda assim gerar o relatório.)
 
 ### 4a. Rotear os diferidos
+
+Cada item roteado aqui **custa uma decisão humana**: a página vira `rascunho` e abre-se um item `[ ]` no §11 que só o Gabriel fecha. Isso importa mais aqui do que no `/critica` interativo — este skill roda **em loop**, então um critério frouxo enche a fila dele lote após lote, sem que ninguém veja acontecer. Não existe eixo 4: tags e wikilinks são lint (`check_unlinked_concept_mention`, `check_tag_coverage`), grátis e em todo push.
+
 Para cada página, para cada `deferred` com `disposition: "deferred"`:
 1. Marcar a página como rascunho:
    ```bash
@@ -130,7 +133,8 @@ As mudanças do lote ficam no working tree. O `critica-state.json` já garante i
 ## Regras
 
 - **Cap é a salvaguarda.** Sem gate humano por design; o `--limit` bounda o custo de cada lote. Não remover o cap em loop.
-- **Conservadorismo doutrinário.** Na dúvida, diferir (rascunho + ROADMAP), nunca auto-corrigir sentido. Citação de autor complementar (qmd) **sempre** difere. (Imposto pelo próprio workflow.)
+- **Conservadorismo doutrinário.** Na dúvida entre auto-corrigir e diferir, diferir (rascunho + ROADMAP) — nunca auto-corrigir sentido. Citação de autor complementar (qmd) **sempre** difere. (Imposto pelo próprio workflow.)
+- **Diferir em loop é o que transforma automação em dívida humana.** Na dúvida entre diferir e **não reportar**, não reporte o que não muda o que a página *afirma*. Polimento não é achado.
 - **Kardec prevalece.** Divergência vira stub `status: aberta`, nunca apagada.
 - **Sem escrita compartilhada em paralelo.** log.md, ROADMAP.md, state e relatório só no Passo 4 serial no main-session.
 - **Humano no circuito.** Páginas diferidas viram `rascunho`; o usuário revisa o relatório + ROADMAP antes de promover de volta a `ativo`.
