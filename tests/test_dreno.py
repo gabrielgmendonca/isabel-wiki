@@ -107,8 +107,9 @@ ROADMAP_FAKE = """\
 ### conceitos/
 - [ ] **wiki/conceitos/espirito** (cit; 2) — item aberto, caminho explícito.
 - [x] **wiki/conceitos/purgatorio** (tag; 1) — item fechado, caminho explícito.
-- [x] **esquecimento-do-passado** (tag; 1) — item fechado, slug nu.
+- [x] **esquecimento-do-passado** (tag; 1) — item fechado, slug nu NÃO-ambíguo.
 - [ ] **reencarnacao** (cit; 1) — item aberto, slug AMBÍGUO (2 diretórios).
+- [x] **plenitude** (tag; 1) — item FECHADO, slug AMBÍGUO (2 diretórios).
 
 ## 12. Outra seção
 - [ ] **nao-deve-entrar** — fora do §11.
@@ -123,6 +124,10 @@ SLUGS_FAKE = {
         "wiki/conceitos/reencarnacao.md",
         "wiki/aprofundamentos/reencarnacao.md",
     ],
+    "plenitude": [
+        "wiki/conceitos/plenitude.md",
+        "wiki/sinteses/plenitude.md",
+    ],
     "nao-deve-entrar": ["wiki/conceitos/nao-deve-entrar.md"],
 }
 
@@ -130,11 +135,18 @@ SLUGS_FAKE = {
 class TestRoadmapParsing(unittest.TestCase):
     def test_aceita_os_dois_formatos_de_item(self):
         items = dreno.parse_roadmap_items(ROADMAP_FAKE, SLUGS_FAKE)
-        self.assertEqual(items["wiki/conceitos/espirito.md"], {"abertos": 1, "fechados": 0})
-        self.assertEqual(items["wiki/conceitos/purgatorio.md"], {"abertos": 0, "fechados": 1})
+        self.assertEqual(
+            items["wiki/conceitos/espirito.md"],
+            {"abertos": 1, "fechados": 0, "ambiguos": 0},
+        )
+        self.assertEqual(
+            items["wiki/conceitos/purgatorio.md"],
+            {"abertos": 0, "fechados": 1, "ambiguos": 0},
+        )
         # slug nu resolvido via índice
         self.assertEqual(
-            items["wiki/questoes/esquecimento-do-passado.md"], {"abertos": 0, "fechados": 1}
+            items["wiki/questoes/esquecimento-do-passado.md"],
+            {"abertos": 0, "fechados": 1, "ambiguos": 0},
         )
 
     def test_ignora_secoes_fora_do_11(self):
@@ -147,6 +159,19 @@ class TestRoadmapParsing(unittest.TestCase):
         items = dreno.parse_roadmap_items(ROADMAP_FAKE, SLUGS_FAKE)
         self.assertEqual(items["wiki/conceitos/reencarnacao.md"]["abertos"], 1)
         self.assertEqual(items["wiki/aprofundamentos/reencarnacao.md"]["abertos"], 1)
+
+    def test_slug_ambiguo_FECHADO_tambem_e_marcado(self):
+        """O caso que o fan-out sozinho NÃO cobria.
+
+        Um item `[ ]` ambíguo bloqueia porque `abertos > 0` bloqueia. Mas um item
+        `[x]` ambíguo soma `fechados` nas duas homônimas — e `fechados > 0` é a
+        condição de PROMOVER. Sem o contador `ambiguos`, o mesmo fan-out vendido
+        como salvaguarda promoveria as DUAS a partir de um `[x]` dirigido a UMA.
+        """
+        items = dreno.parse_roadmap_items(ROADMAP_FAKE, SLUGS_FAKE)
+        for p in ("wiki/conceitos/plenitude.md", "wiki/sinteses/plenitude.md"):
+            self.assertEqual(items[p]["fechados"], 1)
+            self.assertEqual(items[p]["ambiguos"], 1, f"{p} deveria estar marcada ambígua")
 
     def test_secao_11_ausente_nao_libera_geral(self):
         """Se o §11 sumisse do ROADMAP, um parser ingênuo devolveria zero itens
@@ -195,6 +220,43 @@ class TestClassify(unittest.TestCase):
         self.assertEqual(out[0]["bucket"], dreno.BUCKET_DONE)
         self.assertTrue(out[0]["promovivel"])
         self.assertTrue(out[0]["corpo_alterado"])
+
+    def test_bucket_F_ambiguo_fechado_NAO_promove(self):
+        """A regressão que o loop teria auto-mesclado em main.
+
+        Item `[x] **plenitude**` (slug nu, 2 homônimas) marca `fechados: 1` nas
+        DUAS — mas o `[x]` era para uma só. Antes do contador `ambiguos`, as duas
+        caíam em bucket C e eram promovidas. A que não era dona do item ia a
+        `ativo` carregando diferidos doutrinários não resolvidos, e como o corpo
+        não muda (`content_sha` bate) e `atualizado_em` não é bumpado, ela nunca
+        mais voltava à fila da crítica.
+        """
+        st = {
+            "pages": {
+                "wiki/conceitos/plenitude.md": {"content_sha": "sha256:aaa", "deferred_count": 3},
+                "wiki/sinteses/plenitude.md": {"content_sha": "sha256:aaa", "deferred_count": 1},
+            }
+        }
+        rm = {
+            "wiki/conceitos/plenitude.md": {"abertos": 0, "fechados": 1, "ambiguos": 1},
+            "wiki/sinteses/plenitude.md": {"abertos": 0, "fechados": 1, "ambiguos": 1},
+        }
+        out = dreno.classify(
+            [_rasc("wiki/conceitos/plenitude.md"), _rasc("wiki/sinteses/plenitude.md")], st, rm
+        )
+        for r in out:
+            self.assertEqual(r["bucket"], dreno.BUCKET_AMBIG, r["path"])
+            self.assertFalse(r["promovivel"], f"{r['path']} não pode ser promovida por item ambíguo")
+
+    def test_bucket_C_exige_item_NAO_ambiguo(self):
+        """O contrapositivo do teste acima: caminho explícito (não-ambíguo) com
+        item fechado continua promovendo. O conserto barra o ambíguo, não o
+        caminho feliz."""
+        st = {"pages": {"wiki/conceitos/x.md": {"content_sha": "sha256:aaa", "deferred_count": 1}}}
+        rm = {"wiki/conceitos/x.md": {"abertos": 0, "fechados": 1, "ambiguos": 0}}
+        out = dreno.classify([_rasc("wiki/conceitos/x.md")], st, rm)
+        self.assertEqual(out[0]["bucket"], dreno.BUCKET_DONE)
+        self.assertTrue(out[0]["promovivel"])
 
     def test_bucket_D_rastro_perdido_nao_promove(self):
         """A crítica diferiu, mas não há item no §11: alguém perdeu o rastro.

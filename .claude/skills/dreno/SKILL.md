@@ -22,7 +22,7 @@ Promove a `ativo` só os buckets **C** (todos os itens do §11 fechados `[x]`) e
 Duas invariantes, ambas cobertas por `tests/test_dreno.py` — **não afrouxar**:
 
 - **Não bumpa `atualizado_em`.** Se bumpasse, a página casaria o motivo `atualizado-apos-critica` do `critica_scope.py`, voltaria à fila do Opus, seria diferida de novo (92%) e viraria rascunho outra vez — moto-perpétuo queimando tokens sem mudar uma linha da wiki. Promover é transição de estado de *revisão*, não de *conteúdo*; o `content_sha` prova que o corpo é byte-idêntico.
-- **Slug ambíguo nunca promove.** O §11 mistura `**wiki/conceitos/x**` (caminho) e `**x**` (slug nu), e há slugs repetidos entre diretórios (`reencarnacao`, `alma-dos-animais`, `plenitude`). Slug nu ambíguo é atribuído a **todas** as candidatas, o que bloqueia a promoção de todas — falhar para o lado seguro.
+- **Slug ambíguo nunca promove.** O §11 mistura `**wiki/conceitos/x**` (caminho) e `**x**` (slug nu), e há slugs repetidos entre diretórios (`reencarnacao`, `alma-dos-animais`, `plenitude`). Slug nu ambíguo cai no **bucket F** e nenhuma das homônimas é promovida. Cuidado ao mexer: contar só `abertos`/`fechados` **não** basta. Um item `[ ]` ambíguo bloqueia de graça (porque `abertos > 0` bloqueia), mas um item `[x]` ambíguo soma `fechados` em todas as homônimas — e `fechados > 0` é justamente a condição de *promover*. Sem o contador `ambiguos`, um único `[x]` seu, dirigido a UMA página, promovia TODAS as homônimas; a promovida por engano ia a `ativo` com diferidos doutrinários em aberto e, como o corpo não muda, nunca mais voltava à fila da crítica. O conserto humano é trocar o slug nu por caminho explícito no §11.
 
 ## Passo 2 — Anatomia do que sobrou (zero tokens)
 
@@ -36,6 +36,7 @@ uv run python .claude/skills/dreno/scripts/dreno.py anatomia
 | **B** | diferido **aberto** no §11 | `rascunho` está correto — **não tocar** |
 | **C** | diferido **fechado** no §11 | promovida no Passo 1 |
 | **D** | crítica diferiu, sem item no §11 — rastro perdido | reportar ao humano |
+| **F** | item do §11 por slug nu **ambíguo** (casa >1 página) | **não promove** — trocar por caminho explícito no §11 |
 | **X** | corpo alterado depois de uma crítica limpa — veredito obsoleto | devolver à fila do `/critica` |
 
 ## Passo 3 — Triar os rascunhos do /ingest (zero tokens)

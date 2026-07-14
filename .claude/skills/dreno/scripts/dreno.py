@@ -39,8 +39,17 @@ Duas decisões de projeto, deliberadas:
     `**wiki/conceitos/x**` (caminho, não-ambíguo) e `**x**` (slug nu). Há slugs
     repetidos entre diretórios (`reencarnacao`, `alma-dos-animais`,
     `plenitude`), então um slug nu pode casar mais de uma página. Nesse caso o
-    item é atribuído a TODAS as candidatas — o que faz a promoção ser bloqueada
-    por precaução, em vez de promover a página errada.
+    item é marcado AMBÍGUO em todas as candidatas, e o bucket F barra as duas.
+
+    Contar só `abertos`/`fechados` não bastava, e a assimetria era sutil: o
+    fan-out de um item ABERTO soma `abertos` em todas as homônimas e bloqueia
+    todas (seguro), mas o de um item FECHADO soma `fechados` em todas — e
+    `fechados > 0` é justamente a condição de PROMOVER. O mesmo mecanismo
+    vendido como salvaguarda virava amplificador: um único `[x]` humano,
+    dirigido a UMA página, promovia TODAS as homônimas. Pior, a promovida por
+    engano nunca mais voltava à fila da crítica (o `content_sha` bate e o
+    `atualizado_em` não é bumpado ⇒ `critica_scope._due_reason()` devolve None),
+    ficando `ativo` para sempre com diferidos doutrinários jamais resolvidos.
 """
 from __future__ import annotations
 
@@ -75,6 +84,7 @@ BUCKET_OPEN = "B. diferido ABERTO no §11 (rascunho correto — não tocar)"
 BUCKET_DONE = "C. diferido FECHADO no §11 (promover)"
 BUCKET_LOST = "D. crítica diferiu, sem item no §11 (rastro perdido)"
 BUCKET_CLEAN = "E. criticada, zero diferidos (promover)"
+BUCKET_AMBIG = "F. item do §11 por slug AMBÍGUO (casa >1 página — não promove)"
 BUCKET_STALE = "X. corpo alterado após a crítica (veredito obsoleto — recriticar)"
 
 PROMOTABLE = {BUCKET_DONE, BUCKET_CLEAN}
@@ -137,15 +147,18 @@ def _slug_index() -> dict[str, list[str]]:
 def parse_roadmap_items(
     text: str | None = None, slugs: dict[str, list[str]] | None = None
 ) -> dict[str, dict[str, int]]:
-    """Devolve {caminho_da_pagina: {"abertos": n, "fechados": n}}.
+    """Devolve {caminho_da_pagina: {"abertos": n, "fechados": n, "ambiguos": n}}.
 
     Aceita os dois formatos de item do §11:
       - [ ] **wiki/conceitos/espirito** (…)   → caminho explícito
       - [x] **esquecimento-do-passado** (…)   → slug nu
 
-    Slug nu ambíguo (casa >1 página) é atribuído a TODAS as candidatas, de modo
-    que um item aberto bloqueie a promoção de todas elas — falhar para o lado
-    seguro em vez de promover a página errada.
+    Slug nu ambíguo (casa >1 página) é atribuído a TODAS as candidatas E marcado
+    em `ambiguos`. Só o fan-out não basta para barrar: um item ABERTO ambíguo
+    soma `abertos` em todas (e `abertos > 0` bloqueia), mas um item FECHADO
+    ambíguo somaria `fechados` em todas — e `fechados > 0` é a condição de
+    PROMOVER. É o contador `ambiguos` que torna o bloqueio simétrico nas duas
+    marcas, que é o que o dreno promete.
     """
     if text is None:
         text = ROADMAP_PATH.read_text(encoding="utf-8")
@@ -155,7 +168,9 @@ def parse_roadmap_items(
 
     if slugs is None:
         slugs = _slug_index()
-    items: dict[str, dict[str, int]] = defaultdict(lambda: {"abertos": 0, "fechados": 0})
+    items: dict[str, dict[str, int]] = defaultdict(
+        lambda: {"abertos": 0, "fechados": 0, "ambiguos": 0}
+    )
 
     for mark, ref in re.findall(r"^- \[( |x)\] \*\*([^*]+)\*\*", sec, re.M):
         ref = ref.strip()
@@ -166,6 +181,8 @@ def parse_roadmap_items(
             targets = slugs.get(ref, [])
         for t in targets:
             items[t][key] += 1
+            if len(targets) > 1:
+                items[t]["ambiguos"] += 1
     return dict(items)
 
 
@@ -173,17 +190,26 @@ def classify(rascunhos: list[dict], state: dict, roadmap: dict) -> list[dict]:
     spages = state.get("pages", {})
     for r in rascunhos:
         st = spages.get(r["path"])
-        rm = roadmap.get(r["path"], {"abertos": 0, "fechados": 0})
-        r["itens_abertos"] = rm["abertos"]
-        r["itens_fechados"] = rm["fechados"]
+        rm = roadmap.get(r["path"], {})
+        r["itens_abertos"] = rm.get("abertos", 0)
+        r["itens_fechados"] = rm.get("fechados", 0)
+        r["itens_ambiguos"] = rm.get("ambiguos", 0)
 
         r["corpo_alterado"] = st is not None and st.get("content_sha") != r["sha"]
 
         if st is None:
             r["bucket"] = BUCKET_NEVER
-        elif rm["abertos"] > 0:
+        elif r["itens_abertos"] > 0:
             r["bucket"] = BUCKET_OPEN
-        elif rm["fechados"] > 0:
+        elif r["itens_ambiguos"] > 0:
+            # Todo item desta página vem de slug nu que casa >1 homônima. Não dá
+            # para saber se o `[x]` era para ELA ou para a irmã — e promover a
+            # errada é irreversível na prática: o corpo não muda, então o
+            # `content_sha` continua batendo e ela nunca mais volta à fila da
+            # crítica. Barrar é o único lado seguro; o conserto é humano (trocar
+            # o slug nu por caminho explícito no §11).
+            r["bucket"] = BUCKET_AMBIG
+        elif r["itens_fechados"] > 0:
             # O checkbox `[x]` do §11 é a assinatura HUMANA de que o diferido foi
             # resolvido — e resolvê-lo exige justamente editar a página. Por isso
             # o `content_sha` divergente aqui é sintoma de sucesso, não de risco:
