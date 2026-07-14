@@ -3,7 +3,7 @@ tipo: questao
 fontes: [LE, C&I, OQE, André Luiz/Chico Xavier, Léon Denis]
 tags: [esquecimento, reencarnacao, intuicao, voz-da-consciencia, livre-arbitrio, providencia, missionarios-da-luz, obra/le, obra/ci, obra/oqe, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/leon-denis, grau/introdutorio, tema/encarnacao]
 atualizado_em: 2026-06-03
-status: rascunho
+status: ativo
 ---
 
 # Esquecimento do passado

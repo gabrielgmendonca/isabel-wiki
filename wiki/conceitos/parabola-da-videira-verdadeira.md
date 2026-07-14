@@ -3,7 +3,7 @@ tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, videira, ramos, caridade, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/jesus, tema/moral]
 atualizado_em: 2026-06-10
-status: rascunho
+status: ativo
 ---
 
 # Parábola da videira verdadeira

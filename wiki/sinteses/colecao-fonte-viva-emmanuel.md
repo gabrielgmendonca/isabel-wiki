@@ -3,7 +3,7 @@ tipo: sintese
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, chico-xavier, evangelho, comentarios-evangelicos, coletanea-evangelica, fonte-viva, pao-nosso, vinha-de-luz, autor/emmanuel, autor/chico-xavier, tema/jesus, tema/moral, tema/historia-doutrina, grau/avancado]
 atualizado_em: 2026-06-03
-status: rascunho
+status: ativo
 ---
 
 # Coleção Fonte Viva — as cinco coletâneas evangélicas de Emmanuel

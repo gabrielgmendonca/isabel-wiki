@@ -3,7 +3,7 @@ tipo: conceito
 fontes: [C&I]
 tags: [ceu-e-inferno, purgatorio, expiacao, reencarnacao, terra, obra/ci, autor/kardec, grau/intermediario, tema/vida-futura, tema/sofrimento, tema/livre-arbitrio]
 atualizado_em: 2026-06-10
-status: rascunho
+status: ativo
 ---
 
 # Purgatório

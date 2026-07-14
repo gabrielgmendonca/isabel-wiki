@@ -3,7 +3,7 @@ tipo: questao
 fontes: [LE, RE, Gênese]
 tags: [alma-dos-animais, principio-inteligente, plano-espiritual, escala-dos-seres, erraticidade, obra/le, obra/re, obra/genese, autor/kardec, grau/intermediario, tema/encarnacao]
 atualizado_em: 2026-06-03
-status: rascunho
+status: ativo
 ---
 
 # A transformação do princípio inteligente em Espírito se opera no plano físico ou no espiritual?
