@@ -30,3 +30,6 @@ __pycache__/
 
 # Sentinela efêmero de dry-run do /critica (criado/removido pelo SKILL)
 .claude/skills/critica/state/.dryrun
+
+# Loop diário — logs efêmeros (os relatórios do /critica continuam versionados)
+reports/loop-diario/

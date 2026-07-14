@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Agente launchd do loop diário da wiki.
+
+  Instalar (o `sed` troca o placeholder pelo caminho real do repo):
+    sed "s|__REPO__|$HOME/Source/isabel-wiki|g" scripts/com.isabel.loop-diario.plist \
+      > ~/Library/LaunchAgents/com.isabel.loop-diario.plist
+    launchctl load ~/Library/LaunchAgents/com.isabel.loop-diario.plist
+
+  Rodar agora, sem esperar as 9h:
+    launchctl start com.isabel.loop-diario
+
+  Desligar:
+    launchctl unload ~/Library/LaunchAgents/com.isabel.loop-diario.plist
+
+  RunAtLoad=false de propósito: carregar o agente não deve disparar um lote.
+  Se a máquina estiver dormindo às 9h, o launchd roda assim que ela acordar.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.isabel.loop-diario</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>__REPO__/scripts/loop-diario.sh</string>
+        <string>3</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__REPO__</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>__REPO__/reports/loop-diario/launchd.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>__REPO__/reports/loop-diario/launchd.err.log</string>
+</dict>
+</plist>
