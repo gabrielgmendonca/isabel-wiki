@@ -115,6 +115,15 @@ Auto-link Markdown→Kardecpedia em build time já cobre capítulo **e** questã
 - [ ] **Lint do pipeline pós-transform** — `check_broken_links` audita só o source; transforms de CI (`link_citations.py`, `wrap_glossary_terms.py`, `inject_copyright.py`) podem injetar wikilink quebrado em `/tmp/quartz/content` sem o lint pegar. Aplicar os transforms numa cópia e relintar (modo `--include-pipeline`). Trava regressão "transformer gera link quebrado".
 - [ ] **`/autolint` com cap de iterações e gate humano** — slash command em loop `lint → categorizar → corrigir baixo risco → re-lint`, até zero findings ou 3 iterações, **pausando** quando o finding exige julgamento. Versão atenuada do "self-healing lint loop".
   - **Análogo-crítica construído:** `/autocritica` (`.claude/skills/autocritica/`) é o equivalente semântico — wrapper não-interativo e capped do `/critica`, drenando o backlog de páginas devidas em lotes via `/loop /autocritica`. Cap `--limit N` no lugar do gate de confirmação; doutrinário continua diferido a `rascunho` + ROADMAP §11. O `/autolint` (lado lint determinístico) segue aberto.
+- [x] **`/dreno` — o contrapeso que fecha o que a crítica abre** (construído 2026-07-13) — `.claude/skills/dreno/`. **O problema que resolve:** a crítica difere em **~92%** das páginas (110 de 120 criticadas geraram diferido → `rascunho` + item no §11). Rodar `/autocritica` nas ~640 páginas restantes, nessa taxa, produziria ~590 novos rascunhos e ~590 itens de decisão humana — o loop enterraria o autor em vez de melhorar a wiki. O `/dreno` fecha: promove a `ativo` os rascunhos cujos itens do §11 já estão `[x]` (determinístico, zero tokens) e tria os rascunhos do `/ingest` em esboço vs candidata. Primeira passada promoveu 8 páginas; `rascunho_stale` caiu 152 → 144. **Duas invariantes travadas por `tests/test_dreno.py` — não afrouxar:** (1) **não bumpa `atualizado_em`** — bumpar faria a página casar o motivo `atualizado-apos-critica` do `critica_scope.py`, voltar à fila do Opus, ser diferida de novo e virar rascunho outra vez (moto-perpétuo que queima tokens sem mudar uma linha); (2) **slug ambíguo nunca promove** — o §11 mistura `**wiki/conceitos/x**` e `**x**`, e há slugs repetidos entre diretórios (`reencarnacao`, `alma-dos-animais`, `plenitude`).
+- [x] **Loop diário local** (construído 2026-07-13) — `scripts/loop-diario.sh` + `scripts/com.isabel.loop-diario.plist` (launchd, 9h). Cascata de custo crescente: nível 0 grátis (dreno determinístico + 29 checks do lint) roda sempre; nível 1 (sessão `claude -p /dreno N`) **só** é invocado se o nível 0 encontrar candidata. Dia sem trabalho custa **zero token**.
+  - **Nunca toca no working tree.** Roda numa worktree dedicada (`.claude/worktrees/loop-diario`), resetada a `origin/main` a cada execução — não colide com trabalho em andamento nem acumula sujeira. O checkout principal é resolvido por `--git-common-dir` (resolver por `dirname $0/..` aninharia a worktree dentro de outra quando o script fosse chamado de dentro de uma).
+  - **Entrega por Pull Request**, com política de merge separada por nível: o **nível 0** (determinístico, invariantes testadas, invisível ao leitor — `rascunho` já é público, nada usa `draft:`) abre PR que **se mescla sozinho** quando o `lint-pr` passa; o **nível 1** (agente julgou completude editorial) abre PR que **espera revisão humana**. Os conjuntos de páginas são disjuntos (nível 0 mexe nos buckets C/E, nível 1 no bucket A), então as duas branches nunca conflitam.
+  - **Por que PR e não push direto:** o ruleset "Protect main" exige pull request (com **0 aprovações** — por isso a automesclagem é possível). É a mesma regra que mantém o `stats-daily.yml` desligado: o bot do Actions não está no bypass e leva GH013. O auto-merge nativo do GitHub está desligado no repo (`autoMergeAllowed: false`), então o script espera o CI com `gh pr checks --watch` e mescla — sem exigir mudança de configuração no GitHub.
+- [ ] **git-lfs: 18 arquivos em `raw/assets/` estão commitados como bytes crus, não como ponteiros** — toda operação de worktree/reset cospe `Encountered 18 files that should have been pointers`. Pré-existente, não-fatal, mas polui o log do loop diário. Corrigir com `git lfs migrate import --include="raw/assets/*"` (reescreve histórico — combinar antes).
+- [ ] **Triagem barata antes do Opus (nível 1 da cascata)** — hoje o `critica_scope.py` ordena as devidas por `(motivo, tipo, atualizado_em, path)`: varredura cega, sem sinal de suspeita (é por isso que o próximo lote são 5 `parabola-do-*` em ordem alfabética). Com 701 páginas devidas, isso são ~140 lotes de Opus gastos igualmente em página boa e ruim. Propor: usar os achados do lint (grátis) + um agente Haiku por página como **pré-filtro de suspeita**, e só o que passar sobe ao Opus. Corta o custo do backlog em ~5-6×.
+- [ ] **Taxa de diferimento de 92% é alta demais** — investigar se o critério "na dúvida, diferir" está capturando achado cosmético (tag faltando, cross-ref opcional) como se fosse doutrinário. Um diferimento deveria custar uma decisão humana; hoje custa pouco demais para quem difere e muito para quem drena. Cruza com o §11.
+- [ ] **Conserto manual de diferido devolve a página à fila cara** — ao resolver um item do §11 à mão, o corpo muda → `content_sha` diverge → a página reentra na fila do `/critica` como `corpo-alterado` (39 páginas nessa situação hoje). É defensável (revalidar o conserto), mas é um default caro. Avaliar um `record --touch` que revalide sem Opus quando o diff for pequeno.
 
 ---
 
@@ -190,13 +199,22 @@ Cada índice destrava backlink dos capítulos correspondentes (resolve em parte 
 
 ### 10.3 Rascunhos > 14 dias — promoção a `ativo`
 
-**115 páginas** com `status: rascunho` hoje (subiu de 52 na medição de 2026-05-31; inclui as 27 rebaixadas pelo `/critica` de 2026-06-03 e material recém-ingerido). Prioridade pelas paradas há mais tempo (≥ 28 dias):
+**Agora automatizado pelo `/dreno`** (§5). A anatomia de 2026-07-13 desmontou a premissa de que "rascunho parado = dívida da crítica" — rodar `uv run python .claude/skills/dreno/scripts/dreno.py anatomia` para o número do dia. Dos 158 rascunhos medidos:
 
-- **Conceitos**: `calunia`, `cartas-vivas-de-jesus`, `centros-vitais`, `colonia-espiritual`, `mercantilizacao-da-mediunidade`, `passe`.
-- **Obras**: `missionarios-da-luz`, `obreiros-da-vida-eterna`, `os-mensageiros`.
-- **Personalidades**: `alexandre`, `aniceto`, `clarencio`, `jeronimo-assistente`, `lisias`.
+| Bucket | Qtd | O que é | Ação |
+|---|---|---|---|
+| **A** | 78 | nunca-criticada — rascunho do `/ingest`, **não** é dívida da crítica | triagem do `/dreno` |
+| **B** | 70 | diferido **aberto** no §11 | `rascunho` correto — não tocar |
+| **C** | 8 | diferido **fechado** no §11 | ✅ promovidas 2026-07-13 |
+| **D** | 1 | crítica diferiu, sem item no §11 (`sinteses/logoterapia-e-espiritismo` — está no §11 como nota em prosa, não como `- [ ]`) | rastro perdido |
+| **X** | 1 | corpo alterado após crítica limpa (`aprofundamentos/reencarnacao`) | devolver ao `/critica` |
 
-Não é escrita "nova" — é revisão + completar Fontes + flipar `status: ativo`. Cabe em batch por categoria. (As 27 rebaixadas pelo `/critica` cruzam com §11 — revisar lá antes de promover.)
+O bucket **A** (o que esta seção sempre quis dizer) se divide, por sinais determinísticos, em **57 candidatas** (tem `## Fontes`, ≥250 palavras, ≥1 citação — pronto para o agente barato confirmar e promover) e **21 esboços reais** que precisam de *escrita*, não de promoção:
+
+- **Personalidades**: `gregorio`, `druso`, `silas`, `ernesto-fantini`, `alexandre`, `aniceto`, `jeronimo-assistente`.
+- **Obras**: `acao-e-reacao`, `os-mensageiros`, `missionarios-da-luz`.
+
+(As páginas de personalidade citam no formato `(Autor, *Obra*, cap.)`, não por sigla do Pentateuco — a triagem conta **as duas** formas. Contar só as siglas rotulava `clarencio` — 682 palavras, Fontes, 7 citações — como esboço.)
 
 ### 10.4 Aprofundamentos sugeridos por massa de vocabulário
 

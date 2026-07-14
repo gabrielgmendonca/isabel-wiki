@@ -4,6 +4,27 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-07-13] refactor | `/dreno` — o contrapeso que fecha o que a crítica abre
+
+Medição que motivou: a crítica difere em **~92%** das páginas (110 de 120 criticadas geraram diferido → `rascunho` + item no ROADMAP §11). Nessa taxa, rodar `/autocritica` nas ~640 páginas ainda não criticadas produziria ~590 novos rascunhos e ~590 itens de decisão humana — o loop enterraria o autor em vez de melhorar a wiki. Faltava um passo que *fechasse*.
+
+Novo `/dreno` (`.claude/skills/dreno/`, 19 testes): cruza rascunhos × `critica-state` × §11 e classifica cada rascunho pela origem. Promoveu 8 páginas cujo diferido já estava `[x]` (`rascunho_stale` do lint: 152 → 144). A anatomia desmontou a premissa de §10.3: dos 158 rascunhos, **78 nunca passaram pela crítica** — são do `/ingest`, não dívida da crítica; destes, 57 são candidatas prontas e só 21 são esboços de verdade.
+
+Duas armadilhas encontradas e travadas por teste: (1) promover **não pode bumpar `atualizado_em`** — bumpar faz a página casar `atualizado-apos-critica` no `critica_scope.py`, voltar à fila do Opus, ser diferida de novo e virar rascunho outra vez (moto-perpétuo queimando tokens sem mudar uma linha da wiki); (2) **slug ambíguo nunca promove** — `reencarnacao`, `alma-dos-animais` e `plenitude` existem em dois diretórios, e o §11 identifica páginas por slug nu em 58 dos seus itens.
+
+Loop diário em `scripts/loop-diario.sh` + launchd (9h): cascata que roda o grátis primeiro (dreno + 29 checks do lint) e **só invoca o Claude se houver trabalho** — dia ocioso custa zero token. Nunca toca no working tree: opera numa worktree dedicada resetada a `origin/main` e entrega por PR (o ruleset "Protect main" exige PR, com 0 aprovações). Nível 0 automescla com CI verde; nível 1 espera revisão.
+
+**Validação adversarial antes de ligar** — 6 defeitos encontrados e corrigidos, o mais grave sendo meu:
+
+1. **`tests/test_dreno.py` importava `pytest` e teria quebrado o CI em TODO PR** (`lint-pr.yml` roda `python3 -m unittest discover` num runner sem dependências; todos os outros testes do projeto são unittest puro). O auto-merge nunca teria disparado. Reescrito em unittest — 194 testes passam sob o comando exato do CI.
+2. **Sem trava de concorrência**: o launchd das 9h disparando sobre uma execução manual daria dois `reset --hard` na mesma worktree. Lock atômico por `mkdir` + detecção de trava órfã.
+3. **`prepara_worktree` movia o ponteiro da branch do PR**: na 2ª chamada a worktree ainda estava na branch criada pelo `abre_pr`, e o `reset --hard` a puxava para `origin/main`. Agora faz `checkout --detach` antes.
+4. **`gh pr checks --watch` não tem timeout** — CI travado penduraria o job do launchd para sempre. Teto de 15min na mão (macOS não traz o `timeout` do GNU).
+5. **Credenciais falhavam no meio**: chave SSH com passphrase no keychain + token do gh no keyring. Preflight agora falha *antes* de mutar qualquer coisa.
+6. **O auto-merge confiava, em vez de verificar.** Agora o diff do nível 0 é conferido linha a linha: se aparecer qualquer coisa fora de `status: rascunho`→`ativo`, o lote é rebaixado a revisão humana. E o agente do nível 1 ganhou `dreno.py promover-pagina`, que preserva `atualizado_em` e **recusa** página fora do bucket A (verificado: `aborto.md`, com divergência aberta, é rejeitado com exit 3).
+
+Ataques que **não** acharam nada: os 133 itens abertos do §11 resolvem todos para páginas reais (zero órfãos); o §11 não tem checkbox indentado, marcador `[~]` nem item sem negrito; nenhum passo do nível 0 escreve arquivo colateral (`__pycache__` e `.venv` já estão no `.gitignore`).
+
 ## [2026-07-02] estudo | Síntese: O Consolador anunciado em "Há Dois Mil Anos"
 
 Nova página `wiki/sinteses/consolador-em-ha-dois-mil-anos.md` cruzando o cap. VI da 2ª parte de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier — "Alvoradas do Reino do Senhor") com o Pentateuco: ESE cap. VI (Consolador / Espírito de Verdade, itens 1/3/4), ESE cap. III (muitas moradas, item 1) e LE q. 934-936 (afeição além da morte). Citações do Pentateuco conferidas com `cite.py`. Remete à divergência já catalogada das almas-gêmeas (LE q. 298-299). Registrada no catálogo.
