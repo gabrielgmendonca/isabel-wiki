@@ -222,6 +222,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/casa-mental]] — André Luiz/*No Mundo Maior* (1947): cérebro em três andares funcionais (subconsciente nos gânglios basais, consciente no córtex motor, superconsciente nos lobos frontais); modelo doutrinário da loucura como descida moral e da saúde mental como residência nos andares mais altos. Mapa-base da tipologia sexual freudo-adlero-jungiana.
 - [[wiki/conceitos/alma]] — Espírito encarnado.
 - [[wiki/conceitos/escala-espirita]] — classificação em três ordens.
+- [[wiki/conceitos/anjos-da-guarda]] — Espíritos protetores que acompanham cada homem do nascimento à morte (LE, q. 489–521; ESE, cap. XXVIII, item 11); distintos dos [[wiki/conceitos/anjos|anjos]] no sentido estrito (Espíritos puros).
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]] — LE, q. 55–58.
 - [[wiki/conceitos/colonia-espiritual]] — André Luiz: agrupamento organizado de Espíritos em zona de transição vizinha da Terra; "Nosso Lar" como caso paradigmático.
 - [[wiki/conceitos/umbral]] — André Luiz: faixa purgatorial logo acima da crosta terrestre, articulada com os Espíritos sofredores de C&I.
