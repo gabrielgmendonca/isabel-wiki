@@ -12,7 +12,7 @@ status: ativo
 
 ## Ensino de Kardec
 
-O tema é tratado em bloco no [[wiki/pentateuco/livro-dos-espiritos/parte-2-cap-ix|Livro dos Espíritos, 2ª parte, cap. IX]], sob o título "Anjos guardiães. Espíritos protetores, familiares ou simpáticos".
+O tema é tratado em bloco no [[wiki/pentateuco/livro-dos-espiritos/parte-2-cap-ix|Livro dos Espíritos, 2ª parte, cap. IX]], sob o título "Anjos guardiães. Espíritos protetores, familiares ou simpáticos". O estudo sistemático questão a questão desse bloco (q. 489–521), por eixos, está em [[wiki/aprofundamentos/anjos-guardiaes-e-espiritos-protetores]]; esta página faz a síntese pastoral cruzando o LE com o ESE, *A Gênese* e os autores de nível 3.
 
 ### Há um Espírito ligado a cada um
 
@@ -117,6 +117,7 @@ Não há divergência interna à Doutrina: o tratamento do LE e do ESE é conver
 
 ## Páginas relacionadas
 
+- [[wiki/aprofundamentos/anjos-guardiaes-e-espiritos-protetores]] — estudo sistemático do bloco LE q. 489–521, questão a questão, por eixos
 - [[wiki/conceitos/anjos]] — anjos no sentido estrito (Espíritos puros); a distinção terminológica
 - [[wiki/conceitos/escala-espirita]] — a gradação em que "de ordem elevada" ganha sentido
 - [[wiki/conceitos/espirito]] — natureza dos Espíritos

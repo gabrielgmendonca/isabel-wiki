@@ -601,6 +601,7 @@ Páginas individuais (ordem da tabela do índice temático):
 
 Estudos sistemáticos de temas ou blocos doutrinários (subseções do LE, capítulos do ESE, conjuntos de itens).
 
+- [[wiki/aprofundamentos/anjos-guardiaes-e-espiritos-protetores]] — Anjos guardiães e Espíritos protetores: 6 eixos do bloco LE 2ª parte, cap. IX (q. 489–521) — quem é o protetor, missão voluntária→obrigatória, afastamento e retorno ("é o homem quem tapa os ouvidos"), ação oculta e delegação, as quatro categorias (protetor/familiar/simpático/mau gênio), coletividades (famílias, povos, artes); com ESE cap. XXVIII item 11 e Gênese cap. III item 14.
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — Expiação e arrependimento: arrependimento, reparação ativa, futuro sempre aberto (LE, q. 990–1002).
 - [[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao]] — "Fora da caridade não há salvação": a divisa de Kardec percorrida pelos itens 1–10 do ESE cap. XV, ancorada na Lei de Justiça, Amor e Caridade (LE, q. 873–919) e prolongada em *Viagem Espírita em 1862*.
 - [[wiki/aprofundamentos/reencarnacao]] — Pluralidade das existências: 7 eixos doutrinários de LE Parte 2, caps. IV–V (q. 166–222).

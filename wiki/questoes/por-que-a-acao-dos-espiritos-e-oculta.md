@@ -62,6 +62,8 @@ A mesma doutrina reaparece em:
 ## Conceitos relacionados
 
 - [[wiki/conceitos/livre-arbitrio]]
+- [[wiki/conceitos/anjos-da-guarda]]
+- [[wiki/aprofundamentos/anjos-guardiaes-e-espiritos-protetores]] — o bloco LE q. 489–521, do qual a q. 501 faz parte
 - [[wiki/conceitos/anjos]]
 - [[wiki/conceitos/responsabilidade]]
 - [[wiki/conceitos/progresso-espiritual]]
