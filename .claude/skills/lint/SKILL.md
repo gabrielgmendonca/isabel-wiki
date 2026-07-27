@@ -23,7 +23,7 @@ Flags disponíveis:
 - `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
 - `--file PATH`: modo single-file — roda só os checks isoláveis (frontmatter, fontes_missing, citation_format, broken_links, low_citations, rascunho_stale, divergencias_aberta, tag_taxonomy, tag_coverage, direitos_obras, quote_proportion) sobre uma única página, com items filtrados por path. Consumido pelo hook `PostToolUse` em `.claude/hooks/lint-on-edit.py` para feedback imediato pós-Edit/Write/MultiEdit em `wiki/**/*.md`. Não substitui o lint global — checks que precisam de estado entre páginas (orphan_pages, missing_concept_pages, naming_consistency, catalogo_*, pentateuco_completo, raw_excluded, skills_consistency) só rodam aqui.
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`, `raw_layout`.
+Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`, `raw_layout`, `slide_overflow`.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
@@ -55,6 +55,7 @@ Agrupar os resultados do script por severidade:
 - **divergencias_aberta** — divergências com `status: aberta`.
 - **missing_concept_pages** — links para conceitos que ainda não têm página própria. Inclui contagem de páginas distintas que referenciam cada conceito ausente.
 - **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/stats/scripts/update_status.py`.
+- **slide_overflow** — slide de `slides/**/deck.md` cujo conteúdo estoura a caixa de 1080 × 560 px do tema isabel: colide com o rodapé no PPTX/PDF. Estimativa geométrica calibrada no render de `slides/themes/preview.md` (ver `tests/test_lint_slide_overflow.py`), não medição — o veredito é olhar o PDF. Conserto típico: dividir a síntese em dois slides ou encurtar bullets. Slide que transborda de propósito declara `<!-- lint: overflow-esperado -->`.
 
 Para cada categoria com `count > 0`, listar os itens de forma concisa.
 

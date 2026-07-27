@@ -2011,6 +2011,222 @@ def check_frontmatter(pages: list[Path]) -> dict:
     return {"severity": "error", "count": len(items), "items": items}
 
 
+SLIDES_DIR = Path("slides")
+
+# Geometria do slide Marp com o tema isabel (slides/themes/isabel.css).
+# Os números abaixo saem do CSS que o Marp gera, não de estimativa:
+# section 1280x720, padding 80/100 -> caixa de conteúdo de 1080 x 560 px.
+_SLIDE_W, _SLIDE_H = 1280, 720
+_PAD_X, _PAD_Y = 100, 80
+_CONTENT_W = _SLIDE_W - 2 * _PAD_X   # 1080
+_CONTENT_H = _SLIDE_H - 2 * _PAD_Y   # 560
+
+# Razão largura-média-do-glifo / font-size. Calibrada contra a contagem de
+# linhas realmente renderizada em slides/themes/preview.md (13 casos: h1 de
+# capa, .pergunta curta e longa, bullets de síntese, citações, referências).
+# Faixas de razão consistentes com o render: sans [0.474, 0.502],
+# serif [0.326, 0.397] — os valores abaixo são o meio de cada faixa.
+_GLYPH_SANS = 0.488
+_GLYPH_SERIF = 0.360
+
+# Box model de cada bloco, do CSS gerado:
+#   headings           margin 24 topo / 16 base, line-height 1.25
+#   p, ul, blockquote  margin-bottom 16, line-height 1.45 (blockquote 1.5)
+#   li + li            margin-top 0.25em; ul padding-left 2em
+#   h1 (isabel)        + padding-bottom 16 + borda 2, margin-bottom 32
+#   .pergunta p        margin-top 32
+# Margens verticais adjacentes COLAPSAM: o vão entre dois blocos é
+# max(margin-bottom do anterior, margin-top do seguinte), não a soma. Somar
+# os dois inflava ~60px num slide de 5 blocos e dava falso positivo.
+_LH_HEADING, _LH_TEXT, _LH_QUOTE = 1.25, 1.45, 1.5
+_MARGIN_BLOCK = 16
+_MARGIN_HEADING_TOP = 24
+_H1_RULE = 16 + 2                        # padding-bottom + borda da régua
+_H1_MARGIN_BOTTOM = 32
+_PERGUNTA_P_TOP = 32
+_UL_INDENT = 64                          # padding-left: 2em a 32px
+_LI_GAP = 7.5                            # 0.25em a 30px
+_QUOTE_INSET = 48 + 4                    # padding 0 24px + borda
+_LINE_PX = 30 * _LH_TEXT                 # linha de corpo, p/ reportar excesso
+
+# font-size por (classe do slide, elemento). Espelha isabel.css.
+_SLIDE_FONTS = {
+    "default":  {"h1": 56, "h2": 44, "h3": 32, "p": 30, "li": 30, "quote": 30},
+    "pergunta": {"h1": 56, "h2": 64, "h3": 32, "p": 24, "li": 30, "quote": 30},
+    "quote":    {"h1": 56, "h2": 44, "h3": 32, "p": 30, "li": 30, "quote": 34},
+    "section":  {"h1": 56, "h2": 56, "h3": 32, "p": 30, "li": 30, "quote": 30},
+}
+
+_BG_SPLIT_RE = re.compile(r"!\[bg\s+(?:right|left):(\d+)%\]")
+_SLIDE_CLASS_RE = re.compile(r"^(_?)class:\s*(\S+)", re.MULTILINE)
+_COMMENT_RE = re.compile(r"<!--(.*?)-->", re.DOTALL)
+_MD_NOISE_RE = re.compile(r"\*\*|\*|`|~~")
+_MD_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+_MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\([^)]*\)")
+
+# Marcador para o slide que existe justamente para transbordar — o caso que
+# calibra este check, em slides/themes/preview.md.
+_OVERFLOW_OPT_OUT = "lint: overflow-esperado"
+
+
+def _wrapped_lines(text: str, font_size: float, width: float, serif: bool = False) -> int:
+    """Quantas linhas o texto ocupa, quebrando por palavra como o navegador."""
+    text = _MD_IMAGE_RE.sub("", text)
+    text = _MD_LINK_RE.sub(r"\1", text)
+    text = _MD_NOISE_RE.sub("", text).strip()
+    if not text:
+        return 0
+    ratio = _GLYPH_SERIF if serif else _GLYPH_SANS
+    max_chars = max(1, int(width / (font_size * ratio)))
+    lines, cur = 1, 0
+    for word in text.split():
+        need = len(word) if cur == 0 else len(word) + 1
+        if cur + need > max_chars:
+            lines, cur = lines + 1, len(word)
+        else:
+            cur += need
+    return lines
+
+
+def split_slides(text: str) -> list[str]:
+    """Fatia o markdown do deck em slides, descartando o front-matter YAML."""
+    lines = text.split("\n")
+    start = 0
+    if lines and lines[0].strip() == "---":
+        for i in range(1, len(lines)):
+            if lines[i].strip() == "---":
+                start = i + 1
+                break
+    slides, cur = [], []
+    for line in lines[start:]:
+        if line.strip() == "---":
+            slides.append("\n".join(cur))
+            cur = []
+        else:
+            cur.append(line)
+    slides.append("\n".join(cur))
+    return [s for s in slides if s.strip()]
+
+
+def estimate_slide_height(slide: str, inherited_class: str = "default") -> tuple[float, str]:
+    """Altura estimada do conteúdo do slide, em px, e a classe aplicada.
+
+    Modelo de camada 0: mede quantas linhas cada bloco ocupa na largura útil
+    (estreitada quando há split background) e soma altura de linha + margens
+    do box model do Marp. Calibrado no render real do preview — ver a
+    geometria acima.
+    """
+    klass = inherited_class
+    for body in _COMMENT_RE.findall(slide):
+        for _, name in _SLIDE_CLASS_RE.findall(body.strip()):
+            klass = name
+    if klass not in _SLIDE_FONTS:
+        klass = "default"
+    fonts = _SLIDE_FONTS[klass]
+
+    width = _CONTENT_W
+    split = _BG_SPLIT_RE.search(slide)
+    if split:
+        width = _SLIDE_W * (1 - int(split.group(1)) / 100) - 2 * _PAD_X
+
+    # (altura do conteúdo, margin-top, margin-bottom) de cada bloco.
+    blocks: list[tuple[float, float, float]] = []
+    prev_li = False
+    for raw in _COMMENT_RE.sub("", slide).split("\n"):
+        line = raw.strip()
+        if not line or line.startswith("!["):
+            prev_li = False
+            continue
+
+        if line.startswith("#"):
+            level = len(line) - len(line.lstrip("#"))
+            tag = f"h{min(level, 3)}"
+            size = fonts[tag]
+            # .pergunta h2 tem max-width: 90%
+            avail = width * 0.9 if (klass == "pergunta" and tag == "h2") else width
+            n = _wrapped_lines(line.lstrip("#"), size, avail)
+            content = n * size * _LH_HEADING
+            if tag == "h1":
+                blocks.append((content + _H1_RULE, _MARGIN_HEADING_TOP, _H1_MARGIN_BOTTOM))
+            else:
+                blocks.append((content, _MARGIN_HEADING_TOP, _MARGIN_BLOCK))
+            prev_li = False
+        elif line.startswith(">"):
+            size = fonts["quote"]
+            n = _wrapped_lines(line.lstrip(">"), size, width - _QUOTE_INSET, serif=True)
+            blocks.append((n * size * _LH_QUOTE, 0, _MARGIN_BLOCK))
+            prev_li = False
+        elif line.startswith(("- ", "* ", "+ ")) or re.match(r"^\d+\.\s", line):
+            size = fonts["li"]
+            n = _wrapped_lines(line[2:], size, width - _UL_INDENT)
+            # item seguinte da mesma lista: só o vão de 0.25em, sem margem de bloco
+            blocks.append((n * size * _LH_TEXT, _LI_GAP if prev_li else 0,
+                           0 if prev_li else _MARGIN_BLOCK))
+            prev_li = True
+        else:
+            size = fonts["p"]
+            n = _wrapped_lines(line, size, width)
+            top = _PERGUNTA_P_TOP if klass == "pergunta" else 0
+            blocks.append((n * size * _LH_TEXT, top, _MARGIN_BLOCK))
+            prev_li = False
+
+    # Margens adjacentes colapsam: vão = max(mb do anterior, mt do seguinte).
+    height = 0.0
+    prev_bottom = None
+    for content, top, bottom in blocks:
+        height += content + (top if prev_bottom is None else max(prev_bottom, top))
+        prev_bottom = bottom
+    return height, klass
+
+
+def check_slide_overflow(pages: list[Path]) -> dict:
+    """Check — slide de palestra cujo conteúdo estoura a caixa de 1080 x 560 px.
+
+    Camada 0 do problema que custou uma palestra para descobrir (ROADMAP §7):
+    ~5 bullets longos colidem com o rodapé e são cortados no PPTX/PDF, e isso
+    só aparecia ao renderizar. Severidade `info` — é estimativa, não medição;
+    o veredito final continua sendo olhar o PDF.
+
+    Um slide pode declarar `<!-- lint: overflow-esperado -->` para ficar de
+    fora (o caso de calibragem em slides/themes/preview.md usa isso).
+    """
+    items = []
+    if not SLIDES_DIR.exists():
+        return {"severity": "info", "count": 0, "items": []}
+
+    for deck in sorted(SLIDES_DIR.rglob("*.md")):
+        text = deck.read_text(encoding="utf-8")
+        if "marp: true" not in text:
+            continue
+        inherited = "default"
+        for number, slide in enumerate(split_slides(text), start=1):
+            height, klass = estimate_slide_height(slide, inherited)
+            # `class:` sem underscore vale deste slide em diante.
+            for body in _COMMENT_RE.findall(slide):
+                for underscore, name in _SLIDE_CLASS_RE.findall(body.strip()):
+                    if not underscore:
+                        inherited = name
+            if height <= _CONTENT_H or _OVERFLOW_OPT_OUT in slide:
+                continue
+            first = next(
+                (ln.strip().lstrip("#> -").strip()
+                 for ln in _COMMENT_RE.sub("", slide).split("\n")
+                 if ln.strip() and not ln.strip().startswith("![")),
+                "",
+            )
+            items.append({
+                "path": str(deck),
+                "slide": number,
+                "classe": klass,
+                "altura_estimada_px": round(height),
+                "limite_px": _CONTENT_H,
+                "excesso_linhas": round((height - _CONTENT_H) / _LINE_PX, 1),
+                "detail": (f"slide {number} ({klass}): ~{round(height)}px estimados "
+                           f"para {_CONTENT_H}px úteis — {first[:60]}"),
+            })
+    return {"severity": "info", "count": len(items), "items": items}
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -2055,6 +2271,7 @@ CHECK_REGISTRY = {
     "raw_layout": check_raw_layout,
     "direitos_obras": check_direitos_obras,
     "quote_proportion": check_quote_proportion,
+    "slide_overflow": check_slide_overflow,
 }
 
 # Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).

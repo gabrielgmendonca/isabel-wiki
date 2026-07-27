@@ -31,6 +31,21 @@ Total típico: 25-50 slides.
 - **Slides em branco**: zero texto, só pausa.
 - Evitar bullets densos no estilo PowerPoint corporativo. Cada slide é um pensamento.
 
+### Capacidade do slide (limite físico, não estético)
+
+A caixa útil é de **1080 × 560 px** — cerca de **12 linhas** de corpo a 30 px. Acima
+disso o texto colide com o rodapé e é cortado no PPTX/PDF; já aconteceu em palestra
+apresentada (`bem-aventuranca-dos-misericordiosos`, slide 43).
+
+- **Síntese de 5 bullets longos não cabe** — dividir em dois slides de 3 + 2. Três
+  bullets longos cabem com folga.
+- **Pergunta de ~30 palavras** é o teto da `.pergunta`; acima disso, quebrar em duas.
+- **Split background** (`![bg right:43%]`) estreita a coluna de texto para ~530 px —
+  a capa aceita menos texto do que um slide comum.
+
+Conferir sem renderizar: `lint_wiki.py --check slide_overflow`. Ver o efeito de cada
+classe: `slides/themes/preview.md`.
+
 ## Citações
 
 Mesmo formato de CLAUDE.md §3 (não duplicar exemplos aqui — fonte canônica é o §3). Respostas dos Espíritos sempre entre aspas. Nos slides usar nome completo da obra ao invés da sigla.

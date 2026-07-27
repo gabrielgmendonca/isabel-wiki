@@ -1,0 +1,17 @@
+{
+  "deck": "themes/preview",
+  "fonte_curadoria": "Fixture gerado proceduralmente para o preview do tema — não passou por curadoria de iconografia (/palestra).",
+  "politica": "Nenhuma obra de terceiros. Ver .claude/rules/convencoes-imagens.md.",
+  "imagens": [
+    {
+      "arquivo": "fixture-placeholder.jpg",
+      "uso": "Preview do tema — split background (bg right:43% e bg left:45%)",
+      "titulo": "Fixture sintético do tema isabel",
+      "autor": "Gerado proceduralmente (gradiente + massas difusas na paleta do isabel.css)",
+      "ano": "2026",
+      "licenca": "Sem direitos de terceiros — obra sintética deste repositório",
+      "fonte_url": "",
+      "atribuicao": "Fixture sintético do tema. Não usar em palestra: decks reais tomam arte em domínio público, pela cascata de sourcing de convencoes-imagens.md."
+    }
+  ]
+}

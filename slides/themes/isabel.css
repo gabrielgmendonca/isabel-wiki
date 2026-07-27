@@ -20,6 +20,14 @@ section {
   font-size: 32px;
   line-height: 1.45;
   padding: 80px 100px;
+
+  /* Tokens herdados do tema default do Marp. Sem estas três linhas o h1 sai
+   * azul-marinho e o negrito dentro de heading sai azul-claro — e, como o
+   * default os declara com light-dark(), a cor mudaria conforme o
+   * color-scheme da máquina que builda. Ver slides/themes/preview.md. */
+  --h1-color: var(--isabel-fg);
+  --heading-strong-color: var(--isabel-accent);
+  --paginate-color: var(--isabel-muted);
 }
 
 section h1 {
@@ -121,5 +129,10 @@ section.section h3 {
 section.section header, section.section footer {
   color: var(--isabel-bg);
   opacity: 0.75;
+}
+section.section {
+  /* o cinza default some sobre o fundo accent */
+  --paginate-color: rgba(251, 250, 246, 0.7);
+  --heading-strong-color: var(--isabel-bg);
 }
 
