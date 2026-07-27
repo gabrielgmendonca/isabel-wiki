@@ -117,14 +117,25 @@ section.section {
   align-items: center;
   justify-content: center;
 }
+/* O h2 é o rótulo ("Parte 2") e o h3 é o título real da parte. Sem estas
+ * regras o rótulo sai a 56px e o título herda os 32px globais — a hierarquia
+ * invertida. O h2 vira sobrelinha discreta; o h3 carrega o peso. */
 section.section h2 {
-  font-size: 56px;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
   color: var(--isabel-bg);
+  opacity: 0.7;
   border: none;
+  margin-bottom: 12px;
 }
 section.section h3 {
+  font-size: 58px;
+  font-weight: 500;
+  line-height: 1.2;
   color: var(--isabel-bg);
-  opacity: 0.85;
+  opacity: 1;
 }
 section.section header, section.section footer {
   color: var(--isabel-bg);
