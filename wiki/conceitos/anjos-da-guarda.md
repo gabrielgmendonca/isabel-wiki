@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Gênese, C&I, RE, NT, AT, Léon Denis, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Yvonne Pereira]
 tags: [anjo-da-guarda, espiritos-protetores, anjos, escala-espirita, guia-espiritual, yvonne-pereira, tema/espiritos, tema/prece-caridade, grau/intermediario, obra/le, obra/ese, obra/genese, obra/ci, obra/re, autor/kardec, autor/leon-denis, autor/emmanuel, autor/andre-luiz, autor/chico-xavier]
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-27
 status: ativo
 ---
 
@@ -172,12 +172,12 @@ O valor da página é pastoral: Denis explicita **por que** a doutrina consola �
 
 E fecha com a formulação mais direta:
 
-> "Um guia espiritual pode ser um bom amigo, mas nunca poderá desempenhar os vossos deveres próprios, nem arrancar-vos das provas e das experiências imprescindíveis à vossa iluminação." (Emmanuel / Chico Xavier, *O Consolador*)
+> "Um guia espiritual pode ser um bom amigo, mas nunca poderá desempenhar os vossos deveres próprios, nem arrancar-vos das provas e das experiências imprescindíveis à vossa iluminação." (Emmanuel / Chico Xavier, *O Consolador*, q. 364)
 
 Não há divergência com o Pentateuco: é a lei de LE, q. 500 (a tutela cessa quando o Espírito pode guiar-se) e da Gênese, cap. III, item 14 (o protetor recua à medida que o protegido amadurece), traduzida em advertência contra o comodismo devocional. A proteção é companhia e conselho — não substituição do esforço próprio nem suspensão das provas escolhidas.
 
 > [!note] Sobre o número das questões
-> A edição de *O Consolador* em [[raw/mediuns/chico-xavier/emmanuel/o-consolador]] perdeu, na transcrição, a numeração da maior parte das questões (restam ~37 marcadores para 418 questões). As três passagens acima caem, respectivamente, nas faixas q. 90-98, q. 185-196 e q. 362-371, e por isso são citadas aqui **sem** número de questão. Conferir na edição impressa antes de fixar o número em slide ou palestra.
+> A edição de *O Consolador* em [[raw/mediuns/chico-xavier/emmanuel/o-consolador]] perdeu, na transcrição, a numeração da maior parte das questões (restam ~37 marcadores para 418 questões). As três passagens acima caem, respectivamente, nas faixas q. 90-98, q. 185-196 e q. 362-371. A **terceira foi conferida na edição impressa (q. 364)** e já vai numerada; as duas primeiras seguem citadas **sem** número até conferência equivalente. Não inferir número a partir do marcador anterior.
 
 ### André Luiz — o amparo organizado
 
@@ -205,7 +205,7 @@ O apelo prático que atravessa o capítulo é o de cultivar com o próprio guia 
 
 Três balizas ajudam a manter o tema no eixo, especialmente diante de plateia habituada à devoção popular:
 
-1. **Não é seguro-vida.** O guia "nunca poderá desempenhar os vossos deveres próprios, nem arrancar-vos das provas" (Emmanuel / Chico Xavier, *O Consolador*). A prova escolhida antes de nascer não é revogada por prece.
+1. **Não é seguro-vida.** O guia "nunca poderá desempenhar os vossos deveres próprios, nem arrancar-vos das provas" (Emmanuel / Chico Xavier, *O Consolador*, q. 364). A prova escolhida antes de nascer não é revogada por prece.
 2. **Não é amuleto.** "O único preservativo está em nós, em nossa própria força, e nunca nas coisas exteriores" (RE, jan/1863). A prece ao protetor vale como preparação moral, não como fórmula de blindagem — daí seu lugar na profilaxia da [[wiki/conceitos/obsessao|obsessão]] junto ao estudo e à reforma íntima.
 3. **Não é privilégio de quem tem guia célebre.** O nome ilustre pode ser apenas o que "vos inspire confiança" (LE, q. 505); a assistência real vem tanto de Espíritos elevados quanto de afetos humildes (Yvonne A. Pereira, *Recordações da Mediunidade*).
 
