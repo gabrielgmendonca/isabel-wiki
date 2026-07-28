@@ -18,9 +18,9 @@ Gabriel Mendonça · 20/06/2026 · Templo Espírita Seareiros
 
 <!-- _class: pergunta -->
 
-## Diante da adúltera, os acusadores se retiraram "afastando-se primeiro os velhos". Por que os mais velhos foram os primeiros a largar a pedra?
+## Por que os mais velhos largaram a pedra primeiro?
 
-*O Evangelho Segundo o Espiritismo, cap. X, item 12 (S. João, 8:9)*
+*"...retiraram-se, um após outro, afastando-se primeiro os velhos" — O Evangelho Segundo o Espiritismo, cap. X, item 12 (S. João, 8:9)*
 
 ---
 
@@ -52,7 +52,9 @@ A quinta bem-aventurança do Sermão da Montanha abre o tema — e nela a recomp
 
 <!-- _class: pergunta -->
 
-## Se a misericórdia é "o esquecimento e o perdão das ofensas, sem limites", não seria pregar que tudo se releva — que o indulgente é o frouxo que tudo desculpa?
+## Perdão sem limites — então o indulgente é um frouxo?
+
+*"o esquecimento e o perdão das ofensas (...) não deve ter limites" — O Evangelho Segundo o Espiritismo, cap. X, item 4*
 
 ---
 
@@ -60,7 +62,7 @@ A quinta bem-aventurança do Sermão da Montanha abre o tema — e nela a recomp
 
 ## Parte 2
 
-### A correção de Jesus: indulgência é dever, porque dela todos precisamos
+### Indulgência é dever, porque todos precisamos dela
 
 ---
 
@@ -98,7 +100,9 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
 
 <!-- _class: pergunta -->
 
-## Se "de indulgência precisamos nós mesmos", a indulgência é apenas não julgar — ou ela me pede algo positivo diante do erro do outro?
+## Indulgência é só não julgar, ou pede algo mais?
+
+*"de indulgência precisamos nós mesmos" — O Livro dos Espíritos, q. 886*
 
 ---
 
@@ -122,7 +126,9 @@ O Espírito José dá a definição mais completa do tema no capítulo — e o l
 
 <!-- _class: pergunta -->
 
-## O lema inverte o nosso hábito: somos severos com os outros e indulgentes conosco. O que muda na minha vida quando troco a direção dessa severidade?
+## Severo comigo, indulgente com o outro — quando inverti isso?
+
+*"Sede, pois, severos para convosco, indulgentes para com os outros" — O Evangelho Segundo o Espiritismo, cap. X, item 16*
 
 ---
 

@@ -2068,6 +2068,36 @@ _MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\([^)]*\)")
 # calibra este check, em slides/themes/preview.md.
 _OVERFLOW_OPT_OUT = "lint: overflow-esperado"
 
+# --- Títulos e perguntas (check `slide_titulos`) ---------------------------
+# Carimbo que scaffold_deck.py deixa no deck apontando a página wiki de origem.
+_ORIGEM_RE = re.compile(r"<!--\s*slides:\s*origem=(\S+?)\s*-->")
+# "Parte 3", "III —", "Parte II -" sozinhos: numeração sem nome.
+_PARTE_SEM_NOME_RE = re.compile(
+    r"^(?:parte\s+)?(?:\d+|[ivxlc]+)\s*[—–-]?\s*$", re.IGNORECASE
+)
+# Prefixo de numeração a descartar antes de comparar com o heading da wiki.
+_PARTE_PREFIXO_RE = re.compile(
+    r"^(?:parte\s+)?(?:\d+|[ivxlc]+)\s*[—–-]\s*", re.IGNORECASE
+)
+# Quebra de frase: pontuação final + espaço + maiúscula/aspa. Abreviações do
+# corpus ("cap.", "q. 886", "item 4.") não contam — daí o lookbehind negativo.
+_ABREV = r"(?<!\bcap)(?<!\bitem)(?<!\bq)(?<!\bp)(?<!\bn)(?<!\bart)(?<!\bsr)(?<!\bsra)(?<!\bséc)(?<!\bed)(?<!\bvol)"
+_FRASE_BREAK_RE = re.compile(_ABREV + r"[.!?]\s+(?=[A-ZÀ-ÞÁÉÍÓÚÂÊÔÃÕÇ\"“'])")
+
+# Orçamento da pergunta socrática (convencoes-perguntas-socraticas.md):
+# `section.pergunta h2` renderiza a 64px — 15 palavras é o teto de estilo,
+# ~22 é onde vira parágrafo de palco.
+_PERGUNTA_MAX_PALAVRAS = 15
+_PERGUNTA_MAX_DURO = 22
+# Título de parte: lido num golpe de vista (convencoes-titulos-slides.md).
+_SECAO_MAX_PALAVRAS = 8
+# Section headers estruturais do scaffold: não são partes temáticas, então não
+# se exige deles título autoral (nem se compara com o heading da wiki).
+_SECOES_ESTRUTURAIS = {
+    "síntese", "sintese", "para meditar", "abertura", "encerramento",
+    "pausa para conversa", "conversa com a plateia", "fontes",
+}
+
 
 def _wrapped_lines(text: str, font_size: float, width: float, serif: bool = False) -> int:
     """Quantas linhas o texto ocupa, quebrando por palavra como o navegador."""
@@ -2227,6 +2257,158 @@ def check_slide_overflow(pages: list[Path]) -> dict:
     return {"severity": "info", "count": len(items), "items": items}
 
 
+def _strip_frontmatter(text: str) -> str:
+    """Corpo do markdown sem o bloco YAML de abertura."""
+    if not text.startswith("---"):
+        return text
+    end = text.find("\n---", 3)
+    return text if end < 0 else text[end + 4:].lstrip("\n")
+
+
+def _norm_titulo(s: str) -> str:
+    """Normaliza um título para comparação: sem markdown, aspas, caixa ou pontuação."""
+    s = _MD_IMAGE_RE.sub("", s)
+    s = _MD_LINK_RE.sub(r"\1", s)
+    s = _MD_NOISE_RE.sub("", s)
+    s = s.replace("“", "").replace("”", "").replace('"', "").replace("'", "")
+    s = re.sub(r"[.:;,!?—–-]+$", "", s.strip())
+    return " ".join(s.lower().split())
+
+
+def _slide_headings(slide: str) -> list[tuple[str, str]]:
+    """Todos os headings do slide → [(texto, nível)], na ordem."""
+    out = []
+    for line in _COMMENT_RE.sub("", slide).split("\n"):
+        m = re.match(r"^(#{1,4})\s+(.+?)\s*$", line)
+        if m:
+            out.append((m.group(2).strip(), m.group(1)))
+    return out
+
+
+def check_slide_titulos(pages: list[Path]) -> dict:
+    """Check — título de palestra/parte herdado da wiki, parte sem nome e
+    pergunta socrática fora do orçamento.
+
+    Camada 0 do problema descrito em `convencoes-titulos-slides.md` e no
+    orçamento de `convencoes-perguntas-socraticas.md`. O scaffold herdava o H1
+    da página wiki para a capa e cada `##` da página para as partes — verbete de
+    índice não é título de palestra. E os critérios A/B/C empurraram as
+    perguntas de 8 para 30 palavras a 64px (deck `indulgencia`, jun/2026).
+
+    O que é decidível por código (e portanto mora aqui, não num prompt):
+
+    - `## Parte 3` sem nome                            → error
+    - pergunta com > 22 palavras                       → error
+    - título do deck idêntico ao H1 da wiki            → warning
+    - título de parte idêntico ao `##` da wiki         → warning
+    - pergunta com > 15 palavras, ou com duas frases   → warning
+    - título de parte com > 8 palavras                 → warning
+
+    Se o julgamento é "este título é um rótulo ou uma afirmação?", isso não é
+    decidível aqui — fica na rule e no gate humano do Passo 4.
+    """
+    items = []
+    if not SLIDES_DIR.exists():
+        return {"severity": "warning", "count": 0, "items": []}
+
+    for deck in sorted(SLIDES_DIR.rglob("*.md")):
+        # slides/themes/preview.md é arquivo de calibragem do tema, não palestra.
+        if "themes" in deck.parts:
+            continue
+        text = deck.read_text(encoding="utf-8")
+        if "marp: true" not in text:
+            continue
+
+        # Página wiki de origem: carimbo do scaffold; senão, o slug do diretório.
+        wiki_h1, wiki_headings = "", set()
+        m = _ORIGEM_RE.search(text)
+        origem = Path(m.group(1)) if m else None
+        if origem is None:
+            cand = list(Path("wiki").rglob(f"{deck.parent.name}.md"))
+            origem = cand[0] if len(cand) == 1 else None
+        if origem is not None and origem.exists():
+            wbody = _strip_frontmatter(origem.read_text(encoding="utf-8"))
+            mh = re.search(r"^#\s+(.+)$", wbody, re.MULTILINE)
+            wiki_h1 = _norm_titulo(mh.group(1)) if mh else ""
+            wiki_headings = {
+                _norm_titulo(h) for h in re.findall(r"^##\s+(.+)$", wbody, re.MULTILINE)
+            }
+
+        inherited = "default"
+        for number, slide in enumerate(split_slides(text), start=1):
+            klass = inherited
+            for body in _COMMENT_RE.findall(slide):
+                for underscore, name in _SLIDE_CLASS_RE.findall(body.strip()):
+                    klass = name
+                    if not underscore:
+                        inherited = name
+            headings = _slide_headings(slide)
+            if not headings:
+                continue
+            heading, nivel = headings[0]
+            base = {"path": str(deck), "slide": number}
+
+            # Capa: H1 do deck igual ao H1 da wiki.
+            if nivel == "#" and number == 1 and wiki_h1 and _norm_titulo(heading) == wiki_h1:
+                items.append({**base, "tipo": "titulo_herdado", "severity": "warning",
+                              "titulo": heading,
+                              "detail": (f"slide 1: título do deck é o H1 da wiki "
+                                         f"(\"{heading[:50]}\") — verbete de índice, "
+                                         f"não título de palestra")})
+
+            if klass == "section":
+                # "Parte 3" + subtítulo em heading seguinte é parte nomeada — o
+                # nome é o primeiro heading que não seja pura numeração.
+                nome = ""
+                for h, _ in headings:
+                    cand_nome = _PARTE_PREFIXO_RE.sub("", h).strip()
+                    if cand_nome and not _PARTE_SEM_NOME_RE.match(h.strip()):
+                        nome = cand_nome
+                        break
+                estrutural = _norm_titulo(heading) in _SECOES_ESTRUTURAIS
+                if not nome:
+                    items.append({**base, "tipo": "parte_sem_nome", "severity": "error",
+                                  "titulo": heading,
+                                  "detail": (f"slide {number}: \"{heading}\" é "
+                                             f"numeração sem nome — nomear a parte")})
+                elif estrutural:
+                    pass  # Síntese, Para meditar etc. não pedem título autoral.
+                elif _norm_titulo(nome) in wiki_headings:
+                    items.append({**base, "tipo": "secao_herdada", "severity": "warning",
+                                  "titulo": nome,
+                                  "detail": (f"slide {number}: \"{nome[:50]}\" é o "
+                                             f"heading da wiki — reescrever como "
+                                             f"afirmação ou cena")})
+                elif len(nome.split()) > _SECAO_MAX_PALAVRAS:
+                    items.append({**base, "tipo": "secao_longa", "severity": "warning",
+                                  "titulo": nome,
+                                  "detail": (f"slide {number}: título de parte com "
+                                             f"{len(nome.split())} palavras "
+                                             f"(máx. {_SECAO_MAX_PALAVRAS})")})
+
+            if klass == "pergunta" and "?" in heading:
+                n = len(_norm_titulo(heading).split())
+                if n > _PERGUNTA_MAX_DURO:
+                    items.append({**base, "tipo": "pergunta_longa", "severity": "error",
+                                  "titulo": heading, "palavras": n,
+                                  "detail": (f"slide {number}: pergunta com {n} palavras "
+                                             f"a 64px (máx. {_PERGUNTA_MAX_DURO}) — "
+                                             f"âncora vai para o subtítulo")})
+                elif n > _PERGUNTA_MAX_PALAVRAS:
+                    items.append({**base, "tipo": "pergunta_longa", "severity": "warning",
+                                  "titulo": heading, "palavras": n,
+                                  "detail": (f"slide {number}: pergunta com {n} palavras "
+                                             f"(orçamento {_PERGUNTA_MAX_PALAVRAS})")})
+                if _FRASE_BREAK_RE.search(heading):
+                    items.append({**base, "tipo": "pergunta_duas_frases",
+                                  "severity": "warning", "titulo": heading,
+                                  "detail": (f"slide {number}: duas frases no h2 — "
+                                             f"setup deve descer para o subtítulo")})
+
+    severity = "error" if any(i["severity"] == "error" for i in items) else "warning"
+    return {"severity": severity, "count": len(items), "items": items}
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -2272,6 +2454,7 @@ CHECK_REGISTRY = {
     "direitos_obras": check_direitos_obras,
     "quote_proportion": check_quote_proportion,
     "slide_overflow": check_slide_overflow,
+    "slide_titulos": check_slide_titulos,
 }
 
 # Checks rodados por padrão. broken_urls é opt-in via --check-urls (I/O externo).

@@ -7,7 +7,7 @@ description: Gera apresentação Marp (PPTX + PDF) a partir de uma página da wi
 
 Gatilhos: `/slides <página>` · "fazer slides de X" · "deck para palestra sobre X"
 
-Convenções obrigatórias: ler `.claude/rules/convencoes-slides.md` (estrutura e densidade) e `.claude/rules/convencoes-perguntas-socraticas.md` (critérios A/B/C para perguntas-ponte) antes de propor outline.
+Convenções obrigatórias: ler `.claude/rules/convencoes-slides.md` (estrutura e densidade), `.claude/rules/convencoes-perguntas-socraticas.md` (critérios A/B/C **e** orçamento de 15 palavras) e `.claude/rules/convencoes-titulos-slides.md` (título da palestra e das partes) antes de propor outline.
 
 ## Premissa
 
@@ -53,13 +53,44 @@ Apresentar o deck completo em texto para crítica do usuário. O outline deve **
 - **Partes temáticas** com Q&A já preenchido (perguntas literais + trechos de resposta com elipses quando longas) — estrutura aberta a reordenação/corte pelo usuário no texto livre
 - **Síntese final** (3-5 bullets rascunho)
 
-Em paralelo, uma chamada `AskUserQuestion` com 3 perguntas para as escolhas discretas (cada uma com 2-4 opções):
+Em paralelo, uma chamada `AskUserQuestion` com 4 perguntas para as escolhas discretas (cada uma com 2-4 opções):
 
-- **Pergunta de abertura** — gerar 3 candidatos (5-15 palavras cada, retóricos, ângulos diferentes do tema). Usuário escolhe 1 ou pede outra via "Other".
+- **Título da palestra** — gerar 3 candidatos, **cada um de um padrão diferente** de `convencoes-titulos-slides.md` (palavra de Jesus/Kardec verbatim · cena + tese · afirmação contestável), até ~12 palavras. **Nenhum candidato pode ser o H1 da página wiki** — esse é o título de índice, e é o defeito que esta pergunta existe para evitar. Usuário escolhe 1 ou dá o seu via "Other".
+- **Pergunta de abertura** — gerar 3 candidatos (**5-15 palavras**, uma frase só, retóricos, ângulos diferentes). Cada um precisa satisfazer A, B ou C **sem** estourar o orçamento: a âncora concreta vai no subtítulo do slide, não dentro da frase da pergunta. Usuário escolhe 1 ou pede outra via "Other".
 - **Para meditar** — listar 2-4 candidatos selecionados no Passo 3 (parábola evangélica, caso de C&I, personalidade de André Luiz, página de `wiki/personalidades/`). Apenas título + referência, nunca texto integral.
 - **Encerramento** — citação consolidadora (Jesus/Kardec/Pentateuco) / convite à ação (chamada prática à reforma íntima) / sem encerramento (síntese fecha a palestra).
 
-Aguardar validação do outline em texto **e** respostas das 3 perguntas. Sem o "OK" explícito do usuário ao outline (e sem as 3 escolhas discretas resolvidas), não invocar o scaffold do Passo 5 — nenhum arquivo em `slides/` pode ser criado ou tocado antes disso. Em seguida, prosseguir para a fase de geração.
+#### Passo 4a — Refutação dos candidatos (antes do `AskUserQuestion`)
+
+Os candidatos a **título** e a **pergunta** passam por refutação antes de chegar ao usuário. Ele vê só os sobreviventes — a triagem não gasta decisão dele.
+
+**(i) Refutação mecânica — script, grátis.** Rodar sobre os candidatos gerados:
+
+```bash
+uv run python .claude/skills/slides/scripts/validate_candidates.py \
+  --tipo titulo --wiki-page <caminho-wiki> --exigir-padroes-distintos \
+  --candidato "<texto>:verbatim" \
+  --candidato "<texto>:cena-tese" \
+  --candidato "<texto>:afirmacao"
+
+uv run python .claude/skills/slides/scripts/validate_candidates.py \
+  --tipo pergunta [--contexto-secao "<section header que precede>"] \
+  --candidato "<texto>" --candidato "<texto>" --candidato "<texto>"
+```
+
+Sai JSON com `falhas` (bloqueiam) e `avisos` (não bloqueiam); exit 1 se houver reprovado. **Regerar os reprovados e rodar de novo** — no máximo 2 rodadas; se na terceira ainda cair, levar o melhor ao usuário com a falha declarada, em vez de insistir. O mesmo script serve para os títulos de parte (`--tipo secao`) no Passo 6.
+
+Aprovado no script significa **"sem defeito mecânico"**, não "bom" — os limites estão no docstring do script (nominalização de 7+ palavras escapa).
+
+**(ii) Auto-refutação semântica — só o que o script não decide.** Para cada candidato sobrevivente, responder às três perguntas abaixo e **descartar em silêncio** quem falhar (regerar no lugar). Não trazer esse raciocínio para o usuário: é trabalho interno, não relatório.
+
+- **Rótulo ou afirmação?** O título nomeia um tópico ("A causa que escapa ao olhar terreno") ou afirma algo com que a plateia pode discordar ("Ninguém é irrecuperável")? Se um ouvinte não consegue nem concordar nem discordar, é rótulo — descartar.
+- **É intercambiável?** Se esta pergunta pudesse preceder qualquer outra citação do mesmo tema sem mudar de sentido, ela não nasceu do texto — descartar (antipadrão explícito da rule socrática).
+- **Sobrevive ao "e daí?"** Dito em voz alta na abertura, isso faz alguém querer ouvir o próximo slide, ou é decorativo? Teaser sentimental morre aqui.
+
+Se depois da refutação sobrar **menos de 2** candidatos para uma pergunta, gerar mais — `AskUserQuestion` precisa de pelo menos 2 opções, e oferecer um candidato fraco só para preencher a lista derrota o propósito do passo.
+
+Aguardar validação do outline em texto **e** respostas das 4 perguntas. Sem o "OK" explícito do usuário ao outline (e sem as 4 escolhas discretas resolvidas), não invocar o scaffold do Passo 5 — nenhum arquivo em `slides/` pode ser criado ou tocado antes disso. Em seguida, prosseguir para a fase de geração.
 
 ## Fase de geração (pós-aprovação)
 
@@ -68,11 +99,14 @@ Aguardar validação do outline em texto **e** respostas das 3 perguntas. Sem o 
 ```bash
 uv run python .claude/skills/slides/scripts/scaffold_deck.py <caminho-wiki> \
   --date <YYYY-MM-DD> [--casa "<nome da casa>"] \
+  --titulo "<título aprovado no Passo 4>" \
   --duracao <30|45|60|90> \
   --audiencia <iniciantes|regulares|evangelizadores|misto> \
   --interacao <sem|retorica|discussao> \
   [--out slides/<slug>/deck.md]
 ```
+
+`--titulo` é o título escolhido no Passo 4. **Sempre passar**: sem ele o deck herda o H1 da página wiki e o lint acusa `titulo_herdado`. O slug do diretório continua vindo da página wiki (curto e estável), não do título.
 
 Os flags `--duracao`, `--audiencia`, `--interacao` vêm das respostas do Passo 2. Duração e audiência são metadados que o modelo usa para calibrar densidade no Passo 6; `interacao` é estrutural e altera o scaffold.
 
@@ -93,6 +127,7 @@ TODOs a preencher ficam marcados como `*<!-- skill: ... -->*` em itálico.
 
 Substituir todos os `<!-- skill: ... -->` com o conteúdo aprovado no Passo 4 e calibrar densidade pelos metadados do Passo 2:
 
+- **Títulos das partes** — **obrigatório**, não opcional: cada `<!-- skill: OBRIGATÓRIO ... -->` de section header traz o heading da wiki como matéria-prima, não como título. Reescrever como afirmação contestável ou cena (≤8 palavras), conforme `convencoes-titulos-slides.md`. Manter o heading da wiki é achado de lint (`secao_herdada`)
 - **Pergunta de abertura** — opção escolhida no AskUserQuestion do Passo 4
 - **Perguntas e respostas literais do LE** (com elipses quando longas) — quantidade calibrada por `duracao` (30min ≈ 3-5 pares; 60min ≈ 8-12; 90min ≈ 12-15)
 - **Glosa / explicação** — calibrada por `audiencia`: iniciantes pedem mais paráfrase em linguagem corrente, regulares aceitam citação seca, evangelizadores recebem ganchos para a prática de evangelização

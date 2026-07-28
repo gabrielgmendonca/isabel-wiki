@@ -160,6 +160,10 @@ def render_deck(
         f"header: '{title}'\n"
         f"footer: 'Gabriel Mendonça · {data_br}{footer_extra}'\n"
         "---\n\n"
+        # Origem carimbada para o lint `slide_titulos` conferir se o título do
+        # deck é herdado do H1 da wiki (verbete de índice) ou escrito para a
+        # plateia — ver convencoes-titulos-slides.md.
+        f"<!-- slides: origem={source_page.as_posix()} -->\n\n"
     )
 
     obra_str = obra_label(sigla_principal, range_principal)
@@ -184,8 +188,11 @@ def render_deck(
         body_parts.append(
             "<!-- _class: section -->\n\n"
             f"## Parte {idx} — {section_heading}\n\n"
-            f"*<!-- skill: opcional — reescrever título da parte em linguagem "
-            f"de palestra se '{section_heading}' soar técnico demais -->*\n\n"
+            f"*<!-- skill: OBRIGATÓRIO — '{section_heading}' é o heading da "
+            f"página wiki (verbete de índice), não um título de parte. "
+            f"Reescrever como afirmação contestável ou cena (≤8 palavras) — "
+            f"ver convencoes-titulos-slides.md. Manter o heading da wiki é "
+            f"erro de lint, não fallback. Nunca deixar 'Parte {idx}' sem nome. -->*\n\n"
             "---\n\n"
         )
         for quote, sigla, detalhe in qa_list:
@@ -293,6 +300,12 @@ def main() -> int:
     )
     ap.add_argument("--casa", default=None, help="Nome da casa espírita (opcional)")
     ap.add_argument(
+        "--titulo", default=None,
+        help="Título da palestra aprovado no Passo 4. Sem ele o deck herda o H1 "
+             "da página wiki — que é verbete de índice, não título de palestra "
+             "(convencoes-titulos-slides.md). Passar sempre.",
+    )
+    ap.add_argument(
         "--duracao", type=int, choices=[30, 45, 60, 90], default=60,
         help="Duração estimada em minutos. Metadado para calibrar densidade no Passo 6.",
     )
@@ -320,7 +333,8 @@ def main() -> int:
     text = page.read_text(encoding="utf-8")
     fm, _ = parse_frontmatter(page)
     _, body = split_body(text)
-    title = extract_title(body, page.stem)
+    wiki_title = extract_title(body, page.stem)
+    title = args.titulo or wiki_title
 
     fontes_fm = fm.get("fontes", [])
     if isinstance(fontes_fm, str):
@@ -337,7 +351,9 @@ def main() -> int:
         if quotes:
             sections_qa.append((heading, quotes))
 
-    out = args.out or Path("slides") / slugify(title) / "deck.md"
+    # Slug do diretório vem do título da wiki (curto, estável), não do título
+    # da palestra — que é uma frase e viraria nome de pasta impraticável.
+    out = args.out or Path("slides") / slugify(wiki_title) / "deck.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     deck = render_deck(
         title, sigla_principal, range_principal, sections_qa,
@@ -349,6 +365,7 @@ def main() -> int:
     print(json.dumps({
         "deck": str(out),
         "title": title,
+        "titulo_herdado": args.titulo is None,
         "obra": obra_label(sigla_principal, range_principal),
         "partes": len(sections_qa),
         "qa_pairs": total_qa,
