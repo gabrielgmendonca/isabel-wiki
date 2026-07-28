@@ -1,8 +1,8 @@
 ---
 tipo: conceito
 fontes: [LE, ESE, Gênese, C&I, RE, NT, AT, Léon Denis, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Yvonne Pereira]
-tags: [anjo-da-guarda, espiritos-protetores, anjos, escala-espirita, guia-espiritual, yvonne-pereira, tema/espiritos, tema/prece-caridade, grau/intermediario, obra/le, obra/ese, obra/genese, obra/ci, obra/re, autor/kardec, autor/leon-denis, autor/emmanuel, autor/andre-luiz, autor/chico-xavier]
-atualizado_em: 2026-07-27
+tags: [anjo-da-guarda, espiritos-protetores, anjos, escala-espirita, guia-espiritual, pressentimento, yvonne-pereira, tema/espiritos, tema/prece-caridade, grau/intermediario, obra/le, obra/ese, obra/genese, obra/ci, obra/re, autor/kardec, autor/leon-denis, autor/emmanuel, autor/andre-luiz, autor/chico-xavier]
+atualizado_em: 2026-07-28
 status: ativo
 ---
 
@@ -193,6 +193,86 @@ Contra a vaidade de supor que só nos assistem Espíritos célebres, [[wiki/pers
 
 É ilustração concreta da ressalva do ESE — ao lado do anjo guardião, "que é sempre um Espírito superior, temos Espíritos protetores que, embora menos elevados, não são menos bons e magnânimos" (ESE, cap. XXVIII, item 11), passagem que a própria Yvonne transcreve na mesma obra. E dialoga diretamente com a q. 505: o nome ilustre não é credencial de superioridade, e a ausência dele não é demérito.
 
+## Casos e exemplos
+
+O capítulo do LE é doutrinal, não narrativo: os Espíritos respondem em teses, sem contar histórias. Os casos abaixo — recolhidos na *Revista Espírita* e na literatura de nível 3 — servem de **ilustração**, nunca de fundamento: cada um é aqui cotejado com a questão do Pentateuco que o sustenta. A ordem vai do mais sóbrio ao mais consolador, e é essa a ordem útil em palestra: primeiro desmontar a expectativa mágica, depois entregar o consolo.
+
+### O naufrágio de Dunquerque a Ostende (1857)
+
+Um correspondente escreve a Kardec relatando um naufrágio noturno na travessia de Dunquerque a Ostende: *"O barco virou e pereceram quatro dos oito homens que compunham a tripulação. Os outros quatro, em cujo número eu me achava, conseguiram manter-se sobre a quilha"* (RE, mar/1858). Ele pergunta por que, *"nesse perigo, igual para todos"*, apenas quatro sucumbiram — e acrescenta que era a sexta ou sétima vez que escapava de perigo semelhante. Mas o detalhe que dá ao caso todo o seu peso é este:
+
+> "[...] entre as vítimas do acidente havia um digno eclesiástico, modelo de virtude evangélica, e uma venerável irmã da congregação de São Vicente de Paulo, que ia cumprir uma santa missão de caridade cristã." (RE, mar/1858)
+
+Morreram o sacerdote e a irmã de caridade; sobreviveu quem se descreve como *"uma criatura sem importância e sem utilidade neste mundo"*. O caso fecha, de uma vez, a leitura do anjo da guarda como prêmio de virtude ou apólice de seguro: **sobreviver não é certificado de proteção, e morrer não é prova de abandono**. Consultado, São Luís responde:
+
+> "Quando um Espírito se encarna, escolhe uma prova; escolhendo-a, cria-se uma espécie de destino que não pode conjurar, desde que a ele se submeteu. Falo das provas físicas. Conservando seu livre-arbítrio sobre o bem e o mal, o Espírito é sempre livre de suportar ou rejeitar a prova. Vendo-o fraquejar, um bom Espírito pode vir em seu auxílio, mas não pode influir sobre ele de modo a dominar sua vontade." (RE, mar/1858)
+
+É a q. 498 do LE em situação concreta — *"não é porque não possa, mas porque não quer"* —, e a mesma lei que Emmanuel formulará quase um século depois: o guia não pode *"arrancar-vos das provas"* (Emmanuel / Chico Xavier, *O Consolador*, q. 364). Ver [[wiki/conceitos/provas-e-expiacoes]] e [[wiki/obras/revista-espirita-1858]].
+
+### A voz que mandou voltar — e o corretivo de São Luís
+
+Na mesma instrução, Kardec propõe o caso que toda plateia reconhece: uma senhora sai de casa, uma voz íntima lhe diz *"Volta para casa"*, ela hesita, a voz repete, ela volta — e então se corrige: *"Sem dúvida isto é efeito de minha imaginação."* Retoma o caminho e, poucos passos adiante, uma viga que retiravam de uma casa atinge-lhe a cabeça (RE, mar/1858). Kardec pergunta se não era um aviso do protetor. A resposta é um **corretivo**, não uma confirmação:
+
+> "Era o instinto. Aliás, nenhum pressentimento tem essas características: são sempre vagos." (RE, mar/1858)
+
+O caso é valioso justamente por frustrar a expectativa: o Espiritismo não canoniza toda intuição como recado do anjo da guarda. As questões que fecham o mesmo capítulo do LE, na seção "Pressentimentos", dão o critério:
+
+> "O pressentimento é sempre um aviso do Espírito protetor? — É o conselho íntimo e oculto de um Espírito que vos quer bem. Também está na intuição da escolha que se haja feito; é a voz do instinto." (LE, q. 522)
+
+Isto é: **o pressentimento tem duas causas possíveis** — o conselho do protetor *ou* a memória íntima da prova escolhida antes de nascer — e distinguir uma da outra não está ao nosso alcance. Daí a pergunta seguinte não pedir um método de discernimento, e sim uma atitude:
+
+> "Como os pressentimentos e a voz do instinto são sempre um tanto vagos, que devemos fazer, na incerteza em que ficamos? — Quando te achares na incerteza, invoca o teu bom Espírito, ou ora a Deus, soberano senhor de todos, para que te envie um de seus mensageiros, um de nós." (LE, q. 523)
+
+Note-se que a q. 523 subscreve, termo a termo, o *"são sempre vagos"* de São Luís. Kardec retoma o ponto quase dez anos depois, precisando o estatuto dessas advertências: *"É assim que muitas vezes se é advertido de um perigo, solicitado a tomar tal ou qual direção, sem que por isto o Espírito deixe de ter o seu livre-arbítrio. São conselhos e não ordens, porque ele sempre fica livre de agir à sua vontade"* (RE, nov/1867). Ver [[wiki/obras/revista-espirita-1867]] e [[wiki/conceitos/livre-arbitrio]].
+
+> [!warning] Caso de estudo, não de palestra
+> Este é o único caso desta seção **deliberadamente mantido fora do [[slides/anjos-da-guarda/deck|deck de anjos guardiães]]**. A razão é de comunicação, não de doutrina: o público chega esperando que a história confirme o aviso do anjo da guarda, e São Luís faz exatamente o contrário — nega a atribuição sem oferecer, no mesmo fôlego, um critério positivo de discernimento. Em texto, a q. 522 e a q. 523 completam o raciocínio no parágrafo seguinte e o leitor acompanha; no palco, a plateia fica com a negação e perde a distinção. Para o mesmo efeito — sobriedade contra a leitura mágica — o naufrágio de Dunquerque entrega a lição sem exigir a distinção técnica entre conselho do protetor e voz do instinto. Mantido aqui porque é a passagem que impede a wiki de canonizar toda intuição como recado do protetor.
+
+### O conselho que chega pela boca do vizinho
+
+O exemplo mais acessível não está em livro nenhum: está na biografia de quem ouve. Kardec o formula em comentário à q. 524, ampliando o canal da ação protetora para muito além da voz interior:
+
+> "Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida, e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou, e que lhe teriam poupado muitos desgostos, se os houvera escutado." (LE, q. 524)
+
+A resposta dos Espíritos à mesma questão é a formulação mais severa do capítulo: *"Frequentemente, porém, tapais os ouvidos aos conselhos salutares, e vos tornais desgraçados por culpa vossa"* (LE, q. 524) — eco direto da q. 495, *"é então o homem quem tapa os ouvidos"*. Em palestra, é o convite a que cada ouvinte forneça o próprio caso.
+
+### O socorro que veio depois da prece (André Luiz)
+
+[[wiki/personalidades/andre-luiz|André Luiz]] abre [[wiki/obras/nosso-lar|*Nosso Lar*]] com o relato de um longo período de desamparo nas regiões inferiores — médico culto, materialista, dando-se por esquecido. O socorro não vem enquanto ele apenas sofre; vem quando ele **chama**:
+
+> "E, quando as energias me faltaram de todo, quando me senti absolutamente colado ao lodo da Terra, sem forças para reerguer-me, pedi ao Supremo Autor da Natureza me estendesse mãos paternais, em tão amargurosa emergência. [...] Foi nesse instante que as neblinas espessas se dissiparam e alguém surgiu, emissário dos Céus." (André Luiz / Chico Xavier, *Nosso Lar*, cap. 2)
+
+O benfeitor se apresenta em duas frases que valem o capítulo inteiro: *"— Coragem, meu filho! O Senhor não te desampara"* e, à pergunta sobre quem seja, *"— Chama-me Clarêncio, sou apenas teu irmão"* (idem). É a q. 495 em cena — *"o protetor volta desde que este o chame"* — e a razão de ser da prece fixada no ESE: pedir *"que nos assistam nas contingências da vida"* (ESE, cap. XXVIII, item 11).
+
+> [!note] Precisão a manter em palestra
+> André Luiz **não** chama Clarêncio de seu anjo da guarda: [[wiki/personalidades/clarencio|Clarêncio]] é apresentado como emissário e, mais tarde, como Ministro de Nosso Lar. O caso ilustra o *mecanismo* da q. 495 — o apelo reabre o canal —, não a identificação de um anjo guardião nomeado. Ver [[wiki/conceitos/prece]].
+
+### Clarêncio responde sobre os anjos da guarda (André Luiz)
+
+Em [[wiki/obras/entre-a-terra-e-o-ceu|*Entre a Terra e o Céu*]], André Luiz faz ao orientador exatamente a pergunta que a plateia faz: *"E os anjos de guarda?"* A resposta é a página de nível 3 mais útil sobre o tema, porque ataca de frente a caricatura devocional:
+
+> "A ideia de um ente divinizado e perfeito, invariavelmente ao nosso lado, ao dispor de nossos caprichos ou ao sabor de nossas dívidas, não concorda com a justiça." (André Luiz / Chico Xavier, *Entre a Terra e o Céu*, cap. 33)
+
+Mas Clarêncio não nega a assistência — desloca-lhe a escala, com uma imagem que se fixa na memória de quem ouve:
+
+> "O Sol está com o verme, amparando-o na furna, a milhões e milhões de quilômetros, sem que o verme esteja com o Sol." (idem)
+
+Seguem três precisões de valor doutrinário direto. A primeira é etimológica e desfaz o equívoco de casta: *"Anjo, segundo a acepção justa do termo, é mensageiro"* — o mesmo ponto de Hb 1:14 e da crítica de Kardec em [[wiki/pentateuco/ceu-e-inferno/parte-1-cap-viii|C&I, 1ª parte, cap. VIII]]. A segunda é a consolação em forma de tese: *"A orfandade real não existe. Em nome do Amor, todas as almas recebem assistência onde quer que se encontrem"* (idem). A terceira é a mais delicada, e é a que impede o tema de resvalar em idolatria do guia:
+
+> "Com toda a veneração que lhes devemos, importa reconhecer, nos Espíritos familiares que nos protegem, grandes e respeitáveis heróis do bem, mas ainda singularmente distanciados da angelitude eterna." (idem)
+
+Não há divergência com o Pentateuco, e convém dizer por quê, já que a frase soa forte: Clarêncio distingue os *"anjos da sublime vigilância"* dos *"Espíritos familiares que nos protegem"* — a mesma distinção de dois graus que Kardec faz na q. 514 e no ESE, onde ao lado do anjo guardião *"que é sempre um Espírito superior"* figuram protetores *"embora menos elevados"* (ESE, cap. XXVIII, item 11). Clarêncio recusa a mesma caricatura que Kardec recusou em C&I: o anjo criado perfeito, de espécie diversa da nossa. Daí ele recolher, sem ironia, o dito popular *"nossos anjos de guarda não combinam entre si"* como intuição correta de que os protetores familiares ainda estão *"no campo de afinidades específicas"* (idem).
+
+### Escolher o protetor no berço (1868)
+
+Um assinante pergunta a Kardec se o santo cujo nome recebemos no batismo se torna nosso protetor natural. A resposta desmonta a suposição observando os motivos reais da escolha de um nome — a vaidade de agradar a um parente, a sonoridade agradável, a moda: *"o nome é muitas vezes uma questão de moda, como a forma do penteado"* (RE, set/1868). E conclui, com humor seco, que esses santos *"não têm nenhuma razão especial para interessar-se, mais do que por outros, por aqueles que têm o seu nome"*.
+
+No lugar do automatismo, Kardec propõe um **procedimento espírita** — e é aqui que o artigo vira material de palestra, porque entrega uma prática concreta:
+
+> "[...] pedindo-lhe que se una ao anjo da guarda da criança para protegê-la na vida que vai percorrer, guiá-la com seus conselhos e suas boas inspirações; e em sinal de aliança dariam a essa criança o nome desse Espírito." (RE, set/1868)
+
+E o passo seguinte, que é o que dá sentido ao primeiro: *"à medida que a criança crescesse, ensinar-lhe-iam a história de seu protetor [...] ela saberia por que tem o seu nome, e esse nome incessantemente lhe lembraria um belo modelo a seguir"* (idem). O critério de escolha não é o prestígio, mas a virtude verificável — *"a caridade, a humildade, a abnegação, o devotamento desinteressado"*. É a q. 505 aplicada: o nome vale pela confiança e pelo modelo que evoca, não por uma titularidade celeste. Ver [[wiki/obras/revista-espirita-1868]] e [[wiki/conceitos/evangelizacao-infantojuvenil]].
+
 ## Aplicação prática
 
 A doutrina dos anjos guardiães é, antes de tudo, **consoladora e pastoral**: ninguém está só, e a assistência dos bons Espíritos jamais nos falta — de nós depende apenas o afastamento dos maus (ESE, cap. XXVIII, item 11). Para palestras, o tema conecta-se diretamente com a voz da consciência, os bons pressentimentos e a ação oculta dos Espíritos sobre a nossa vida (ver [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]]).
@@ -226,8 +306,13 @@ Não há divergência interna à Doutrina: o tratamento do LE e do ESE é conver
 - [[wiki/conceitos/mediunidade]] — o "Espírito familiar" e a comunicação com os guias
 - [[wiki/conceitos/demonios]] — inexistência de seres criados maus por natureza
 - [[wiki/questoes/por-que-a-acao-dos-espiritos-e-oculta]] — como o protetor age sem suprimir o livre-arbítrio
+- [[wiki/obras/revista-espirita-1858]] — o naufrágio de Dunquerque e a instrução de São Luís sobre fatalidade e pressentimentos (mar/1858)
 - [[wiki/obras/revista-espirita-1859]] — o artigo "Os anjos da guarda" (jan/1859)
 - [[wiki/obras/revista-espirita-1863]] — o apelo ao protetor como preparação mediúnica
+- [[wiki/obras/revista-espirita-1867]] — "São conselhos e não ordens": o estatuto da advertência (nov/1867)
+- [[wiki/obras/revista-espirita-1868]] — como escolher o protetor de uma criança (set/1868)
+- [[wiki/obras/nosso-lar]] — o socorro que se segue ao apelo (André Luiz, nível 3)
+- [[wiki/obras/entre-a-terra-e-o-ceu]] — a exposição de Clarêncio sobre os anjos de guarda (André Luiz, nível 3)
 - [[wiki/obras/o-consolador]] — os limites da ação do guia (Emmanuel, nível 3)
 - [[wiki/obras/depois-da-morte]] — os "Gênios tutelares" (Léon Denis, nível 3)
 - [[wiki/obras/recordacoes-da-mediunidade]] — os protetores humildes (Yvonne A. Pereira, nível 3)
@@ -242,7 +327,7 @@ Não há divergência interna à Doutrina: o tratamento do LE e do ESE é conver
 
 **Nível primordial e 1 — Evangelhos e Pentateuco**
 
-- Kardec, Allan. *O Livro dos Espíritos*. 2ª parte, cap. IX (q. 489–521). FEB. Ver [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- Kardec, Allan. *O Livro dos Espíritos*. 2ª parte, cap. IX (q. 489–521; e q. 522–524, seção "Pressentimentos"). FEB. Ver [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho segundo o Espiritismo*. Cap. VIII, item 11 (Mt 18:6-11); cap. XXVIII, item 11. FEB. Ver [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - Kardec, Allan. *A Gênese*. Cap. III, item 14. FEB. Ver [[raw/kardec/pentateuco/genese]].
 - Kardec, Allan. *O Céu e o Inferno*. 1ª parte, cap. VIII ("Os anjos"). FEB. Ver [[raw/kardec/pentateuco/ceu-e-inferno]].
@@ -250,14 +335,19 @@ Não há divergência interna à Doutrina: o tratamento do LE e do ESE é conver
 
 **Nível 2 — Kardec complementar**
 
+- Kardec, Allan. "A fatalidade e os pressentimentos. Instruções dadas por São Luís". *Revista Espírita*, mar/1858 — o naufrágio de Dunquerque a Ostende e o caso da voz interior. Ver [[wiki/obras/revista-espirita-1858]] e [[raw/kardec/revista-espirita/1858/03-marco]].
 - Kardec, Allan. "Os anjos da guarda". *Revista Espírita*, jan/1859. Ver [[wiki/obras/revista-espirita-1859]] e [[raw/kardec/revista-espirita/1859/01-janeiro]].
 - Kardec, Allan. "O anjo da guarda" (poesia espírita, Sociedade Espírita Africana). *Revista Espírita*, set/1862. Ver [[wiki/obras/revista-espirita-1862]] e [[raw/kardec/revista-espirita/1862/09-setembro]].
 - Kardec, Allan. *Revista Espírita*, jan/1863 — sobre a preparação mediúnica e a obsessão. Ver [[wiki/obras/revista-espirita-1863]] e [[raw/kardec/revista-espirita/1863/01-janeiro]].
+- Kardec, Allan. "Pressentimentos e prognósticos". *Revista Espírita*, nov/1867. Ver [[wiki/obras/revista-espirita-1867]] e [[raw/kardec/revista-espirita/1867/11-novembro]].
+- Kardec, Allan. "Da proteção do Espírito dos Santos Patronos". *Revista Espírita*, set/1868. Ver [[wiki/obras/revista-espirita-1868]] e [[raw/kardec/revista-espirita/1868/09-setembro]].
 
 **Nível 3 — autores consagrados**
 
 - Denis, Léon. *Depois da Morte*. FEB. Ver [[wiki/obras/depois-da-morte]] e [[raw/autores/leon-denis/depois-da-morte/depois-da-morte]].
 - Emmanuel / Chico Xavier. *O Consolador*. FEB. Ver [[wiki/obras/o-consolador]] e [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
 - André Luiz / Chico Xavier. *Os Mensageiros*; *Obreiros da Vida Eterna*; *Missionários da Luz*. FEB. Ver [[wiki/obras/os-mensageiros]], [[wiki/obras/obreiros-da-vida-eterna]] e [[wiki/obras/missionarios-da-luz]].
+- André Luiz / Chico Xavier. *Nosso Lar*, cap. 2. FEB. Ver [[wiki/obras/nosso-lar]] e [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
+- André Luiz / Chico Xavier. *Entre a Terra e o Céu*, cap. 33. FEB. Ver [[wiki/obras/entre-a-terra-e-o-ceu]] e [[raw/mediuns/chico-xavier/andre-luiz/entre-a-terra-e-o-ceu]].
 - Pereira, Yvonne A. *Recordações da Mediunidade*. IDE. Ver [[wiki/obras/recordacoes-da-mediunidade]].
 - Pereira, Yvonne A. *À Luz do Consolador*. FEB. Ver [[wiki/obras/a-luz-do-consolador]] e [[raw/autores/yvonne-pereira/a-luz-do-consolador]].
