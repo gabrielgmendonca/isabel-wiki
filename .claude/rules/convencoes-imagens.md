@@ -38,9 +38,11 @@ A wiki já tem cultura de proveniência — aplicar aqui:
 
 ## Mecânica no Marp
 
-- Fundo full-bleed: `![bg](assets/<arquivo>.jpg)`. Layout dividido (imagem + citação): `![bg right:40%](assets/<arquivo>.jpg)` ou `![bg left:40%]`. Escurecer p/ legibilidade do texto por cima: `![bg brightness:0.5](...)`.
-- Assets em `slides/<slug>/assets/` (versionados junto do `deck.md`; otimizar p/ < ~500 KB). O `build/` do deck (pptx/pdf) continua gitignored.
-- Slides de imagem full-bleed levam **pouco ou nenhum texto** — a imagem é a pausa visual enquanto o orador conduz.
+- **Default no tema `isabel`: layout dividido** — `![bg right:45%](assets/<arquivo>.jpg)` (ou `left`). O tema usa texto escuro (`--isabel-fg: #1f1b16`) sobre fundo claro, então **texto por cima de imagem não é legível** e o truque de `brightness:0.5` só piora: escurecer o fundo exige inverter a cor do texto, o que significa editar `isabel.css` e afetar todos os decks. O layout dividido resolve sem tocar no tema — a imagem ocupa a sua faixa, o texto fica sobre o fundo limpo. Foi o caminho adotado no slide da *Nona Onda* em `slides/anjos-da-guarda/`.
+- **Full-bleed** (`![bg](...)`, com ou sem `brightness:`) continua sendo o ideal estético da §1, mas **exige uma classe própria no tema** com texto claro (e sombra, contra fundo irregular). Enquanto essa classe não existir, não emitir `![bg]` sem faixa — o texto sai ilegível no palco. Criar a classe é trabalho legítimo; o que não vale é improvisar estilo inline por slide.
+- Assets em `slides/<slug>/assets/` (versionados junto do `deck.md`; otimizar p/ < ~500 KB). O `build/` do deck (pptx/pdf) continua gitignored. Thumbnail do Wikimedia a 1920 px já costuma sair abaixo do limite — conferir com `ls -lh` antes de invocar `sips` à toa.
+- Crédito por slide com `<!-- _footer: '...' -->` escopado, que substitui ali o rodapé padrão da palestra.
+- Slides de imagem levam **pouco ou nenhum texto** — a imagem é a pausa visual enquanto o orador conduz.
 
 ## Handoff dossiê → slides
 
