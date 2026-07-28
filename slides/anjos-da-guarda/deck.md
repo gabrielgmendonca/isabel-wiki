@@ -144,6 +144,18 @@ Gabriel Mendonça · 28/07/2026 · GEFFA
 
 ---
 
+<!-- _footer: 'Ivan Aivazovsky, A Nona Onda (1850) · Museu Russo · domínio público' -->
+
+![bg right:45%](assets/nona-onda-aivazovsky.jpg)
+
+## Para meditar
+
+### O naufrágio de Dunquerque a Ostende
+
+*Revista Espírita, março de 1858 — instrução de São Luís*
+
+---
+
 ## O Livro dos Espíritos, q. 501
 
 ### Por que é oculta a ação dos Espíritos sobre a nossa existência e por que, quando nos protegem, não o fazem de modo ostensivo?
@@ -210,6 +222,20 @@ Gabriel Mendonça · 28/07/2026 · GEFFA
 
 ---
 
+## O Livro dos Espíritos, q. 524
+
+### Os conselhos dos Espíritos protetores objetivam unicamente o nosso procedimento moral, ou também o proceder que devamos adotar nos assuntos da vida particular?
+
+---
+
+<!-- _class: quote -->
+
+> Tudo. Eles se esforçam para que vivais o melhor possível. Frequentemente, porém, tapais os ouvidos aos conselhos salutares, e vos tornais desgraçados por culpa vossa.
+
+**O Livro dos Espíritos, q. 524**
+
+---
+
 ## O Livro dos Espíritos, q. 495
 
 ### Poderá dar-se que o Espírito protetor abandone o seu protegido, por se lhe mostrar este rebelde aos conselhos?
@@ -221,6 +247,14 @@ Gabriel Mendonça · 28/07/2026 · GEFFA
 > Afasta-se, quando vê que seus conselhos são inúteis (...). Mas não o abandona completamente e sempre se faz ouvir. É então o homem quem tapa os ouvidos. O protetor volta desde que este o chame.
 
 **O Livro dos Espíritos, q. 495**
+
+---
+
+## Para meditar
+
+### O socorro que veio depois da prece
+
+*André Luiz / Chico Xavier, Nosso Lar, cap. 2*
 
 ---
 
@@ -274,6 +308,14 @@ Gabriel Mendonça · 28/07/2026 · GEFFA
 
 <!-- _class: quote -->
 
+> Com toda a veneração que lhes devemos, importa reconhecer, nos Espíritos familiares que nos protegem, grandes e respeitáveis heróis do bem, mas ainda singularmente distanciados da angelitude eterna.
+
+**André Luiz / Chico Xavier, *Entre a Terra e o Céu*, cap. 33**
+
+---
+
+<!-- _class: quote -->
+
 > Nem nos cárceres, nem nos hospitais, nem nos lugares de devassidão, nem na solidão, estais separados desses amigos a quem não podeis ver.
 
 **O Livro dos Espíritos, q. 495 — São Luís e Santo Agostinho**
@@ -298,6 +340,14 @@ Gabriel Mendonça · 28/07/2026 · GEFFA
 
 - Não é "seguro" contra a prova: *"não é porque não possa, mas porque não quer"*
 - Age de modo oculto, para que exercitemos as próprias forças — *"sem o que seria como a criança a quem não consentem que ande sozinha"*
+
+---
+
+<!-- _class: quote -->
+
+> Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida, e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou, e que lhe teriam poupado muitos desgostos, se os houvera escutado.
+
+**O Livro dos Espíritos, q. 524 — comentário de Kardec**
 
 ---
 
