@@ -6,7 +6,7 @@ direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/pao-nosso--brochura-
   ano_dp_estimado: 2073
-atualizado_em: 2026-05-05
+atualizado_em: 2026-09-01
 status: ativo
 
 ---
@@ -61,6 +61,12 @@ Tese reafirmada com energia combativa no cap. 176 *Na revelação da vida* (Atos
 > "Negar, presentemente, a legitimidade do esforço espiritista, em nome da fé cristã, é testemunho de ignorância ou leviandade. (…) O Espiritismo evangélico vem movimentar o serviço divino que envolve em si, não somente a crença consoladora, mas também o conhecimento indiscutível da imortalidade. As escolas dogmáticas prosseguirão alinhando artigos de fé inoperante, congelando as ideias em absurdos afirmativos, mas o Espiritismo cristão vem restaurar, em suas atividades redentoras, o ensinamento da ressurreição individual, consagrado pelo Mestre Divino, que voltou, Ele mesmo, das sombras da morte, para exaltar a continuidade da vida." (cap. 176)
 
 A matriz hermenêutica é **ressurreição → imortalidade → testemunho**: o Espiritismo é continuação histórica do testemunho apostólico de Atos, não fenomenologia desligada da fé cristã. Eixo paralelo de [[wiki/obras/o-consolador]] (q. 352, sobre o Consolador prometido em João 14.16), de [[wiki/obras/caminho-verdade-e-vida]] (cap. 10, sobre o Pentecostes como instituição da era mediúnica) e de [[wiki/obras/genese|Gênese, cap. XVII]].
+
+O cap. 176 não está isolado: os **caps. 172–176 formam o bloco mais denso de epígrafes de Atos** em toda a obra — 172 (At 5.15, a sombra de Pedro), 173 (At 1.8, *"ser-me-eis testemunhas"*), 174 (Mc 16.17, os sinais que seguem aos que creem), 175 (At 5.16, o atendimento aos "atormentados de Espíritos imundos" como continuidade apostólica) e 176 (At 4.33). O bloco descreve a instituição restaurada; o **cap. 173 *Como testemunhar*** descreve o cargo dentro dela, opondo o "poder de dominar, governar, recusar e ferir" ao "poder celeste de obedecer, ensinando, de amar, construindo para o bem, de esperar, trabalhando, de ajudar desinteressadamente" e fechando na tríade que dá o critério de toda a obra:
+
+> "podemos personificar excelentes pregadores, brilhantes literatos ou notáveis simpatizantes da doutrina cristã, mas não testemunhas d'Ele." (cap. 173)
+
+Análise capítulo a capítulo em [[wiki/aprofundamentos/como-testemunhar-pao-nosso-173]].
 
 ### 3. Pensamento como morada do Espírito
 
