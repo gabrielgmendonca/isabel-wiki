@@ -2,7 +2,7 @@
 tipo: aprofundamento
 fontes: [Emmanuel/Chico Xavier, ESE, LE, C&I, André Luiz/Chico Xavier, Humberto de Campos/Chico Xavier, NT]
 tags: [testemunho, exemplificacao, pao-nosso, atos-dos-apostolos, pentecostes, consolador, reforma-íntima, serviço, pregação, emmanuel, chico-xavier, obra/ese, obra/le, obra/ci, autor/emmanuel, autor/chico-xavier, autor/andre-luiz, autor/humberto-de-campos, autor/kardec, grau/avancado, lei/trabalho, lei/justica-amor-caridade, tema/moral, tema/jesus]
-atualizado_em: 2026-09-02
+atualizado_em: 2026-09-04
 status: ativo
 ---
 
@@ -251,11 +251,11 @@ O contraexemplo perfeito da tríade é o próprio autor da frase. [[wiki/persona
 
 Não foi retórica. O apóstolo sustentou-se com as próprias mãos, no ofício que Lucas registra ao apresentá-lo em Corinto na companhia de Áquila e Priscila: *"E, como era do mesmo ofício, ficou com eles, e trabalhava; pois tinham por ofício fazer tendas."* ([[wiki/biblia/atos/18#3|At 18:3]]).
 
-[[wiki/obras/paulo-e-estevao|*Paulo e Estêvão*]] (Emmanuel/Chico, 1942) dedica ao episódio um capítulo inteiro — o cap. 2 do arco Saulo, intitulado **"O tecelão"** — e nomeia o ofício pelo lado do tear em vez do produto acabado. Não há divergência entre as duas designações: o posto de trabalho no oásis, descrito no romance, produzia *"tapetes de lã e dos tecidos resistentes do pelo caprino, destinados a barracas de viagem"* — o *cilicium*, tecido de pelo de cabra com que se faziam as tendas, especialidade da Cilícia natal de Paulo. **Tecelão e fabricante de tendas são o mesmo ofício**, visto do tear ou da barraca; e Emmanuel põe justamente **Áquila e Prisca** como o casal de tecelões com quem Saulo trabalha, os mesmos de At 18, *"do mesmo ofício"*.
+[[wiki/obras/paulo-e-estevao|*Paulo e Estêvão*]] (Emmanuel/Chico, 1942) dedica ao episódio um capítulo inteiro — o cap. 2 da 2ª parte, intitulado **"O tecelão"** — e nomeia o ofício pelo lado do tear em vez do produto acabado. Não há divergência entre as duas designações: o posto de trabalho no oásis, descrito no romance, produzia *"tapetes de lã e dos tecidos resistentes do pelo caprino, destinados a barracas de viagem"* — o *cilicium*, tecido de pelo de cabra com que se faziam as tendas, especialidade da Cilícia natal de Paulo. **Tecelão e fabricante de tendas são o mesmo ofício**, visto do tear ou da barraca; e Emmanuel põe justamente **Áquila e Prisca** como o casal de tecelões com quem Saulo trabalha, os mesmos de At 18, *"do mesmo ofício"*.
 
 O que o romance acrescenta é o **sentido moral do retorno ao tear**, e é onde ele toca o cap. 173 de perto. Convertido, sem recursos e sem prestígio, Saulo recebe de Gamaliel um conselho que é a sentença 4 dita noventa anos antes:
 
-> "Foste humilde tecelão antes de conquistar os títulos honoríficos de Jerusalém… Agora que te candidatas a servir o Messias na Jerusalém da Humanidade, é bom que voltes a ser modesto tecelão. (…) Ser tecelão, depois de ter sido rabino, é para mim mais honroso que descansar sobre os títulos ilusórios, conquistados num mundo onde a maioria dos homens ignora o bem e a verdade." (Emmanuel / Chico Xavier, *Paulo e Estêvão*, arco Saulo, cap. 2)
+> "Foste humilde tecelão antes de conquistar os títulos honoríficos de Jerusalém… Agora que te candidatas a servir o Messias na Jerusalém da Humanidade, é bom que voltes a ser modesto tecelão. (…) Ser tecelão, depois de ter sido rabino, é para mim mais honroso que descansar sobre os títulos ilusórios, conquistados num mundo onde a maioria dos homens ignora o bem e a verdade." (Emmanuel / Chico Xavier, *Paulo e Estêvão*, 2ª parte, cap. 2)
 
 E a razão que Saulo dá a si mesmo para aceitar fecha o círculo com o "Trabalhador Divino" da sentença 8: *"Tomaria o tear com humildade. Alegrava-se, ao recordar que o Mestre não desdenhara, por sua vez, o banco do carpinteiro."*
 
@@ -326,6 +326,8 @@ O **devotamento "apenas aparente"** é a categoria de Kardec para os "excelentes
 ### "Salvador do Mundo" é compatível com o Pentateuco?
 
 A expressão da sentença 1 pode soar, a ouvidos treinados na teologia da expiação vicária, como concessão à ideia de que o sacrifício de Jesus resgata o pecador independentemente de seus atos. Não é o caso, e o próprio capítulo é o antídoto: a oração principal da sentença é a **restrição** ("mas não libertará a Terra… sem a contribuição"). Emmanuel usa o título tradicional para negar-lhe o sentido tradicional.
+
+O confronto de fundo entre a expiação vicária e a responsabilidade individual já está tratado à parte, sobre as passagens do Novo Testamento que lhe servem de âncora textual — ver [[wiki/divergencias/sangue-expiatorio-em-1-joao]] (e, sobre o mesmo tema, [[wiki/divergencias/sangue-expiatorio-em-1-pedro]] e [[wiki/divergencias/sangue-expiatorio-em-galatas]]). Aqui basta reter o essencial: Kardec não rejeita o valor moral do sacrifício do Cristo — rejeita a tese de que a **dívida moral pessoal** possa ser transferida e paga por outro.
 
 A posição de Kardec sobre o papel do Cristo está fixada em duas linhas:
 
@@ -418,7 +420,7 @@ Dois recursos de reserva, conforme o tempo e a plateia: o caso do **Nobel** de C
 
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*, cap. 173 ("Como testemunhar"). Rio de Janeiro: FEB, 1950. Edição consultada: [[raw/mediuns/chico-xavier/emmanuel/pao-nosso]]. Transcrição online: [Bíblia do Caminho](https://bibliadocaminho.com/ocaminho/TX/Pn/Pn173.htm). Obra protegida (detentor: FEB) — citações curtas, análise majoritariamente em paráfrase; aquisição em [FEB Editora](https://www.febeditora.com.br/pao-nosso--brochura-).
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*, cap. 22. Rio de Janeiro: FEB, 1939. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
-- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*, arco Saulo, cap. 2 ("O tecelão"). Rio de Janeiro: FEB, 1942. Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]].
+- XAVIER, Francisco Cândido (Emmanuel). *Paulo e Estêvão*, 2ª parte, cap. 2 ("O tecelão"). Rio de Janeiro: FEB, 1942. Edição: [[raw/mediuns/chico-xavier/emmanuel/paulo-e-estevao]].
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]]. **Citada sem número de questão** — a transcrição em `raw/` perdeu a numeração da maioria das 412 questões; conferir na edição impressa antes de fixar número em slide.
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*, caps. 4 e 13. Rio de Janeiro: FEB, 1944. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - XAVIER, Francisco Cândido (Humberto de Campos). *Brasil, Coração do Mundo, Pátria do Evangelho*. Rio de Janeiro: FEB, 1938. Edição: [[raw/mediuns/chico-xavier/humberto-de-campos/brasil-coracao-do-mundo-patria-do-evangelho]].
