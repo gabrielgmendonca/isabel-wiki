@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "seedPath": "wiki/aprofundamentos/como-testemunhar-pao-nosso-173.md",
+    "foco": "",
+    "tema": "tema/moral, tema/jesus",
+    "data": "",
+    "casa": "",
+    "publico": "misto",
+    "imagens": "off",
+    "permitirIA": false,
+    "gerado_em": "2026-09-04",
+    "nota_execucao": "A tool Workflow não estava disponível nesta sessão. Os estágios de .claude/workflows/palestra-dossie.js foram orquestrados serialmente no main-session via subagentes. Os 8 agentes da primeira tentativa (Opus) morreram em 429 por limite de sessão; relançados em Sonnet. Os estágios de VERIFICAÇÃO e de MAPA DA WIKI foram executados deterministicamente no main-session (código, não LLM) — CLAUDE.md §4, camada 0."
+  },
+
+  "verificacao": {
+    "metodo": "scripts/cite.py por locus + checagem de substring contígua sobre texto normalizado (NFKD sem combining, aspas/travessões unificados, whitespace colapsado). Casos de C&I 2ª parte e obras nível 3 conferidos contra raw/ com localização por número de linha. Parábolas conferidas contra wiki/biblia/**, versículo a versículo.",
+    "rodadas": [
+      {"n": 1, "escopo": "citações do Pentateuco já na página-semente", "loci": 27, "aspas": 40, "falhas": 0},
+      {"n": 2, "escopo": "citações novas da lente do núcleo", "loci": 15, "aspas": 18, "falhas": 0},
+      {"n": 3, "escopo": "loci novos da lente de tensões", "loci": 8, "aspas": 14, "falhas": 0},
+      {"n": 4, "escopo": "casos novos de C&I", "loci": 4, "aspas": 10, "falhas": 0},
+      {"n": 5, "escopo": "parábolas evangélicas em wiki/biblia/**", "loci": 19, "aspas": 19, "falhas": 0},
+      {"n": 6, "escopo": "aspas dos consagrados", "loci": 12, "aspas": 15, "falhas": 0},
+      {"n": 7, "escopo": "casos dos romances", "loci": 4, "aspas": 4, "falhas": 0}
+    ],
+    "total": {"loci": 89, "aspas": 120, "fabricacoes": 0, "mal_atribuicoes": 0},
+    "conclusao": "Base citacional do Pentateuco 100% limpa. Nenhum ⚠ a marcar na camada nível 1.",
+    "defeito_encontrado": {
+      "arquivo": "wiki/aprofundamentos/como-testemunhar-pao-nosso-173.md",
+      "linhas": [254, 258, 421],
+      "problema": "cita Paulo e Estêvão como 'arco Saulo, cap. 2' — nomenclatura aposentada pelo commit a7f83cb",
+      "correto": "2ª parte, cap. 2 (\"O tecelão\")",
+      "evidencia": "wiki/obras/paulo-e-estevao.md lista 2ª parte cap. 2 = O tecelão (Palmira, conselho de Gamaliel, oásis de Dan com Áquila e Prisca). No raw, o 1º '## 2' (linha 151) é a prisão de Corinto (1ª parte); o 2º '## 2' (linha 186) abre em Palmira (2ª parte), com o conselho de Gamaliel na linha 203.",
+      "severidade": "a aspa está verbatim correta; só o rótulo da citação está velho"
+    },
+    "nota_estrutura_ci": "C&I 2ª parte: I-Passagem · II-Felizes · III-Condição média · IV-Sofredores · V-Suicidas · VI-Criminosos arrependidos · VII-Endurecidos (Angèle, rainha de Oude) · VIII-Expiações terrestres (Szymel Slizgol, Marcel, Julienne-Marie, Max, o empregado doméstico). A semente cita os dois capítulos corretamente.",
+    "falsos_positivos_do_proprio_teste": "Na rodada 5, quatro agulhas foram digitadas de memória no script e não bateram; a fonte diz 'Mau e negligente servo' (Mt 25:26), 'guardei num lenço' (Lc 19:20), 'Porque eu vos dei o exemplo' (Jo 13:15), 'Vai, e faze da mesma maneira' (Lc 10:37). As aspas entregues pela lente estavam corretas nas quatro."
+  },
+
+  "mapa_wiki": {
+    "wikilinks_distintos": 61,
+    "quebrados": 0,
+    "ativos": 52,
+    "rascunho": [
+      "wiki/personalidades/andre-luiz",
+      "wiki/conceitos/evangelizacao-infantojuvenil",
+      "wiki/conceitos/cartas-vivas-de-jesus",
+      "wiki/conceitos/verdadeiro-espirita",
+      "wiki/conceitos/homem-de-bem",
+      "wiki/conceitos/parabola-da-candeia-sob-o-alqueire",
+      "wiki/conceitos/parabola-dos-trabalhadores-da-ultima-hora",
+      "wiki/sinteses/hierarquia-de-autoridade",
+      "wiki/conceitos/perfeicao-moral"
+    ],
+    "alerta": "6 dos 9 rascunhos sustentam justamente os eixos 3 e 5 e a seção Aprofundamento. Ancorar a palestra no locus do Pentateuco, não nessas páginas.",
+    "conceitos_ausentes": [
+      "wiki/conceitos/testemunho",
+      "wiki/conceitos/reforma-intima",
+      "wiki/conceitos/exemplificacao",
+      "wiki/conceitos/cooperacao",
+      "wiki/conceitos/consolador",
+      "wiki/conceitos/espirito-de-verdade",
+      "wiki/conceitos/pentecostes",
+      "wiki/conceitos/virtude",
+      "wiki/conceitos/servico"
+    ],
+    "divergencias_relevantes_ja_registradas": {
+      "tensao": "\"Salvador do Mundo\" (sentença 1) × expiação vicária",
+      "paginas": [
+        "wiki/divergencias/sangue-expiatorio-em-1-joao (status: aberta)",
+        "wiki/divergencias/sangue-expiatorio-em-1-pedro",
+        "wiki/divergencias/sangue-expiatorio-em-galatas"
+      ],
+      "nota": "A wiki já tem o tratamento completo (Anselmo, Calvino, resposta de Kardec). A seção correspondente da semente NÃO linka para lá. Correção de baixo custo, alto retorno."
+    }
+  },
+
+  "nucleo": {
+    "ancora_jesus": {
+      "escolhida": "Mt 5:16",
+      "razao": "At 1.8 é a comissão ('sereis testemunhas') mas não diz o que conta como testemunho válido. Mt 5:16 dá a mecânica: obra visível ('vejam') com crédito ao representado ('glorifiquem a vosso Pai') — a lógica do preposto, dita por Jesus. At 1.8 permanece o pórtico de abertura.",
+      "apoios": ["Mt 7:21", "Lc 6:46", "Jo 13:35"]
+    },
+    "achado_estrutural": "ESE caps. XI → XIII → XV → XVII formam um arco contínuo que a semente não explora. O item 2 do cap. XVII ('a essência da perfeição é a caridade na sua mais ampla acepção, porque implica a prática de todas as outras virtudes') fecha o círculo aberto no XI. Dá coluna vertebral ao tema: o que é a caridade (LE q. 886) → como se pratica sem ostentação (ESE XIII) → por que é condição de salvação (ESE XV, que tem esse título) → por que é a própria perfeição (ESE XVII).",
+    "citacoes_pentateuco_confirmadas": [
+      {"sigla": "ESE", "ref": "cap. I, item 7", "afirmacao": "Terceira Revelação: 'Não venho destruir a lei cristã, mas dar-lhe execução'"},
+      {"sigla": "ESE", "ref": "cap. VI, item 3", "afirmacao": "a promessa do Consolador é condicionada (Jo 14:15)"},
+      {"sigla": "ESE", "ref": "cap. VI, item 4", "afirmacao": "o 'poder' de At 1.8 é a Terceira Revelação, não faculdade psíquica"},
+      {"sigla": "ESE", "ref": "cap. VII, item 4", "afirmacao": "o poder legítimo é o de servir (Mt 20:26)"},
+      {"sigla": "ESE", "ref": "cap. VII, item 6", "afirmacao": "o Espiritismo sanciona pelo exemplo a inversão servir/dominar"},
+      {"sigla": "ESE", "ref": "cap. X, itens 11 e 13", "afirmacao": "não julgueis; a autoridade para censurar é proporcional à autoridade moral de quem censura"},
+      {"sigla": "ESE", "ref": "cap. XI, item 4", "afirmacao": "amar o próximo é a expressão mais completa da caridade"},
+      {"sigla": "ESE", "ref": "cap. XIII, item 1", "afirmacao": "caridade oculta — não saiba a mão esquerda"},
+      {"sigla": "ESE", "ref": "cap. XIII, item 3", "afirmacao": "quem busca a própria glorificação já se pagou a si mesmo"},
+      {"sigla": "ESE", "ref": "cap. XIII, item 6", "afirmacao": "a verdadeira caridade pensa nos outros antes de si"},
+      {"sigla": "ESE", "ref": "cap. XV, item 4", "afirmacao": "o grande mandamento resume toda a lei e os profetas"},
+      {"sigla": "ESE", "ref": "cap. XV, item 10", "afirmacao": "uma virtude negativa não basta; e o verbo 'observando-vos'"},
+      {"sigla": "ESE", "ref": "cap. XVII, item 1", "afirmacao": "sede perfeitos como o Pai celestial"},
+      {"sigla": "ESE", "ref": "cap. XVII, item 2", "afirmacao": "a essência da perfeição é a caridade"},
+      {"sigla": "ESE", "ref": "cap. XVII, item 3", "afirmacao": "o retrato do homem de bem; não lança anátema"},
+      {"sigla": "ESE", "ref": "cap. XVII, item 4", "afirmacao": "atêm-se mais aos fenômenos do que à moral"},
+      {"sigla": "ESE", "ref": "cap. XIX, item 4", "afirmacao": "não confundir a fé com a presunção"},
+      {"sigla": "ESE", "ref": "cap. XX, item 1", "afirmacao": "a parábola dos trabalhadores da última hora, texto literal"},
+      {"sigla": "ESE", "ref": "cap. XX, item 3", "afirmacao": "a linhagem de obreiros até 'finalmente, pelos espíritas'"},
+      {"sigla": "ESE", "ref": "cap. XX, item 5", "afirmacao": "devotamento apenas aparente — eco exato da tríade de Emmanuel"},
+      {"sigla": "ESE", "ref": "cap. XXI, item 8", "afirmacao": "os atos, não as palavras melífluas, comprovam o enviado"},
+      {"sigla": "ESE", "ref": "cap. XXIV, itens 13-16", "afirmacao": "coragem da fé — o complemento obrigatório ao cap. 173"},
+      {"sigla": "ESE", "ref": "cap. XXV, item 2", "afirmacao": "buscai e achareis = princípio da lei do trabalho"},
+      {"sigla": "ESE", "ref": "cap. XXV, item 8", "afirmacao": "justiça, caridade e amor regem a distribuição dos bens"},
+      {"sigla": "LE", "ref": "q. 132", "afirmacao": "cooperar é a finalidade da encarnação"},
+      {"sigla": "LE", "ref": "q. 584", "afirmacao": "o conquistador como instrumento, julgado pela retidão da intenção — resolve Napoleão sem Emmanuel"},
+      {"sigla": "LE", "ref": "q. 625", "afirmacao": "Jesus é modelo, não substituto"},
+      {"sigla": "LE", "ref": "q. 642", "afirmacao": "responde-se pelo bem omitido"},
+      {"sigla": "LE", "ref": "q. 643", "afirmacao": "só o egoísta nunca encontra ensejo de fazer o bem"},
+      {"sigla": "LE", "ref": "q. 663", "afirmacao": "ajuda-te a ti mesmo e o céu te ajudará — como a Providência opera"},
+      {"sigla": "LE", "ref": "q. 674", "afirmacao": "o trabalho é lei da natureza"},
+      {"sigla": "LE", "ref": "q. 685", "afirmacao": "educação é a arte de formar os caracteres"},
+      {"sigla": "LE", "ref": "q. 873", "afirmacao": "o sentimento de justiça foi posto por Deus no coração"},
+      {"sigla": "LE", "ref": "q. 886", "afirmacao": "definição canônica de caridade segundo Jesus"},
+      {"sigla": "LE", "ref": "q. 919", "afirmacao": "conhece-te a ti mesmo"},
+      {"sigla": "LM", "ref": "item 226", "afirmacao": "a mediunidade independe do moral; Judas fez milagres"},
+      {"sigla": "C&I", "ref": "2ª parte, cap. II", "afirmacao": "Samuel Philippe — o homem de bem sem título"},
+      {"sigla": "C&I", "ref": "2ª parte, cap. III", "afirmacao": "Joseph Bré — honesto perante os homens × perante Deus"},
+      {"sigla": "C&I", "ref": "2ª parte, cap. VII", "afirmacao": "Angèle; a rainha de Oude"},
+      {"sigla": "C&I", "ref": "2ª parte, cap. VIII", "afirmacao": "Szymel Slizgol; Max; o empregado doméstico"}
+    ]
+  },
+
+  "termos": {
+    "avaliados": 19,
+    "precisa_definir": ["preposto", "Consolador", "Espírito de Verdade", "Terceira Revelação", "poder × virtude (dýnamis)", "homem de bem", "virtude ativa × virtude negativa", "educação × instrução", "anátema"],
+    "reprovados": ["testemunho / testemunha", "Pentecostes", "verdadeiro espírita", "exemplificação", "reforma íntima", "cooperação", "expiação e provas", "em espírito e verdade", "simpatizante", "prepostos e preponente"],
+    "argumento_mais_forte": "NÃO definir 'testemunho': o capítulo o define por eliminação e o critério positivo só chega na sentença 8. Pré-definir mataria o arco.",
+    "candidatos_a_dicionario_json": ["anátema", "preposto"]
+  },
+
+  "casos": {
+    "candidatos": 14,
+    "aprovados": 14,
+    "reprovados": 0,
+    "risco_misatribuicao": "baixo em todos — cada locus foi localizado por número de linha no raw ou por versículo em wiki/biblia/**",
+    "alerta_repertorio": "O deck raw/palestras/gabriel-mendonca/orgulho-e-humildade.pptx JÁ usa rainha de Oude (6 slides) e Szymel Slizgol (5+ slides), com mini-biografia em bullets. A página-semente chama esse par de 'o momento narrativo da palestra, e o mais eficaz' — seria a segunda vez para quem assistiu àquela palestra. Verificado por extração direta do pptx.",
+    "novos_de_ci": [
+      {"titulo": "Samuel Philippe", "fonte": "C&I, 2ª parte, cap. II", "linha_raw": 2416, "efetividade": "alta", "ilustra": "anti-retrato exato da tríade final"},
+      {"titulo": "Joseph Bré", "fonte": "C&I, 2ª parte, cap. III", "linha_raw": "2653-2654", "efetividade": "alta", "ilustra": "usa literalmente 'pregar pelo exemplo'"},
+      {"titulo": "Max, o mendigo", "fonte": "C&I, 2ª parte, cap. VIII", "linha_raw": "3365-3366", "efetividade": "alta", "ilustra": "a travessia dominar→servir dentro da mesma alma — substituto do par já gasto"},
+      {"titulo": "O empregado doméstico sem nome", "fonte": "C&I, 2ª parte, cap. VIII", "linha_raw": 3379, "efetividade": "média-alta", "ilustra": "o testemunho funciona porque é invisível"}
+    ],
+    "parabolas": ["Mt 25:14-30 os talentos", "Mt 25:31-46 o juízo das nações", "Mt 7:15-27 bloco contínuo", "Mt 21:28-32 os dois filhos", "Jo 13:1-17 o lava-pés", "Lc 10:25-37 o bom samaritano"],
+    "romances": [
+      {"titulo": "Corvino / Quinto Varro", "fonte": "Emmanuel / Chico Xavier, Ave, Cristo!", "linha_raw": 472, "nota": "aspa verbatim confirmada: 'O serviço de cada dia é o recurso de que dispomos para testemunhar o desempenho dos nossos deveres'"},
+      {"titulo": "Saulo ordena o apedrejamento de Estêvão", "fonte": "Emmanuel / Chico Xavier, Paulo e Estêvão, 1ª parte, cap. 8", "linha_raw": "664, 756-762, 857"},
+      {"titulo": "Paulo atado ao mesmo poste, 20 anos depois", "fonte": "idem", "linha_raw": 910},
+      {"titulo": "Catarino Boaventura e o guia Aquiles", "fonte": "Humberto de Campos / Chico Xavier, Reportagens de Além-túmulo, cap. 17", "linha_raw": "680-713"}
+    ],
+    "modernos": [
+      {"titulo": "Chico Xavier e o Nobel recusado", "fonte": "Chico Xavier, entrevista, in Entender Conversando, cap. 9", "atribuicao": "fala do PRÓPRIO Chico — nunca 'Emmanuel / Chico Xavier'"},
+      {"titulo": "Os direitos autorais cedidos", "fonte": "Chico Xavier, entrevista, in Entender Conversando, cap. 8", "atribuicao": "idem"}
+    ]
+  },
+
+  "consagrados": {
+    "achado": "Emmanuel reescreveu a tese do cap. 173 em outras obras, com formulações mais afiadas e citáveis. Todas verificadas verbatim, com capítulo correto.",
+    "citacoes": [
+      {"fonte": "Emmanuel / Chico Xavier, Fonte Viva, cap. 58", "linha_raw": 1132, "trecho": "como se a ligação legítima com o Mestre estivesse circunscrita a problema de palavras"},
+      {"fonte": "Emmanuel / Chico Xavier, Fonte Viva, cap. 140", "linha_raw": 2826, "trecho": "Se não tens contigo as marcas do testemunho pela responsabilidade, pelo trabalho, pelo sacrifício ou pelo aprimoramento íntimo"},
+      {"fonte": "Emmanuel / Chico Xavier, Fonte Viva, cap. 170", "linha_raw": "3407-3410", "trecho": "A rotulagem não tranquiliza (…) isso é muito pouco se lhe não possuímos o ensinamento vivo"},
+      {"fonte": "Emmanuel / Chico Xavier, Caminho, Verdade e Vida, cap. 38", "linha_raw": "584-585", "trecho": "Exibem certas atitudes quando pregam, e adotam outras quando em atividade diária"},
+      {"fonte": "Emmanuel / Chico Xavier, Caminho, Verdade e Vida, cap. 114", "linha_raw": 1683, "trecho": "os aprendizes que se lhe conservam fiéis são as suas cartas divinas"},
+      {"fonte": "Emmanuel / Chico Xavier, Caminho, Verdade e Vida, cap. 115", "linha_raw": 1690, "trecho": "embaixadores da parte do Cristo (2 Co 5:20) — paralelo a 'preposto'"},
+      {"fonte": "Emmanuel / Chico Xavier, Pão Nosso, cap. 90", "linha_raw": 1464, "trecho": "trabalhador divino que limpará a eira do mundo — origem do termo da sent. 8"},
+      {"fonte": "Emmanuel / Chico Xavier, Pão Nosso, cap. 177", "linha_raw": 2850, "trecho": "Nosso Espírito residirá onde projetarmos nossos pensamentos"},
+      {"fonte": "Emmanuel / Chico Xavier, Vinha de Luz, cap. 79", "linha_raw": 1438, "trecho": "o lidador cristão é convidado a testemunhos mais ásperos"},
+      {"fonte": "Emmanuel / Chico Xavier, Harmonização, cap. 6", "linha_raw": 109, "trecho": "o trabalhador fornece testemunho em si mesmo"},
+      {"fonte": "André Luiz / Chico Xavier, Nosso Lar, cap. 13", "linha_raw": 396, "trecho": "Os que não cooperam não recebem cooperação. Isso é da lei eterna."},
+      {"fonte": "André Luiz / Chico Xavier, Conduta Espírita, seção Na Sociedade", "linha_raw": "451-455", "trecho": "Desistir de somente aparentar propósitos de evangelização, mas reformar-se efetivamente no campo moral", "nota": "obra em máximas por seção, não capítulos numerados — citar como seção"}
+    ],
+    "divergencias": "nenhuma — todos os achados aprofundam ou ilustram o que ESE caps. XV/XVII/XXIV e LE q. 642-643 já fixam",
+    "alerta_editorial": {
+      "obra": "Fonte Viva",
+      "problema": "A compilação EADE da FEB (raw/artigos/feb/estudo-aprofundado-..., nota 14) cita 'A rotulagem não tranquiliza' como cap. 23; no raw transcrito está no cap. 170, e o cap. 23 tem conteúdo diferente. Numeração provavelmente varia entre edições impressas.",
+      "recomendacao": "citar pelo título/trecho, ou conferir a edição física antes de fixar número em slide"
+    },
+    "lacuna": "Léon Denis, Joanna de Ângelis, Bezerra de Menezes, Cairbar Schutel e Yvonne Pereira não renderam material direto sobre 'como testemunhar', apesar de buscas dedicadas. Os Mensageiros e Obreiros da Vida Eterna não foram vasculhados com profundidade."
+  },
+
+  "tensoes": [
+    {"n": 1, "objecao": "Se Jesus é 'Salvador do Mundo', por que eu ainda preciso fazer alguma coisa?", "resolve": "LE, q. 625", "cross_ref": "wiki/divergencias/sangue-expiatorio-em-1-joao"},
+    {"n": 2, "objecao": "Então não preciso falar de Espiritismo pra ninguém, só viver direito?", "resolve": "ESE, cap. XXIV, item 15"},
+    {"n": 3, "objecao": "Até onde eu tenho que ir? Não vira cobrança sem fim?", "resolve": "LE, q. 642 — a cláusula 'no limite de suas forças' está no próprio texto"},
+    {"n": 4, "objecao": "'Prepostos' não reintroduz hierarquia na casa espírita?", "resolve": "ESE, cap. VII, item 4"},
+    {"n": 5, "objecao": "Mediunidade forte é sinal de evolução espiritual?", "resolve": "LM, item 226"},
+    {"n": 6, "objecao": "Não posso nem contar que faço caridade? (Mt 6:1-4 × Mt 5:16)", "resolve": "ESE, cap. XIII, item 3"},
+    {"n": 7, "objecao": "Devo esperar ficar melhor antes de servir?", "resolve": "ESE, cap. XX, item 1"},
+    {"n": 8, "objecao": "Se Deus é todo-poderoso, por que precisa de nós?", "resolve": "LE, q. 663"},
+    {"n": 9, "objecao": "Napoleão violento como 'missionário'?", "resolve": "LE, q. 584 — responde quase palavra por palavra, sem precisar de Emmanuel"},
+    {"n": 10, "objecao": "Posso dizer que fulano não é espírita de verdade?", "resolve": "ESE, cap. X, itens 11 e 13"}
+  ],
+
+  "estilo_palestrante": {
+    "fonte": "extração direta dos decks .pptx/.odp de raw/palestras/gabriel-mendonca/ (6 arquivos, nenhuma transcrição em markdown)",
+    "padroes": [
+      "Bookend: a citação/pergunta de abertura reaparece no slide final",
+      "Section headers copiados quase verbatim dos títulos de item/capítulo da obra-fonte — não autorais",
+      "Técnica de suspense: questão do LE/ESE sozinha num slide, resposta de Kardec só no seguinte",
+      "Slides-ponte autorais: perguntas curtas isoladas em tela cheia",
+      "Casos de C&I com mini-biografia em bullets antes da fala evocada",
+      "Texto bíblico sempre ACF, versículo a versículo em sequência de slides",
+      "Citação no formato (ESE, cap. X, item Y) — já alinhado à convenção da wiki",
+      "Fecho sob header 'Conclusão', com bookend ou citação curta de fora do Pentateuco"
+    ],
+    "decks_adjacentes_a_esta_palestra": [
+      "ajuda-te-a-ti-mesmo-que-o-ceu-te-ajudara.pptx → ESE cap. XXV, item 2",
+      "lei-do-trabalho-final.pptx → eixo 2, LE q. 674-685",
+      "orgulho-e-humildade.pptx → eixo 4, ESE cap. VII — e é o deck que já gastou rainha de Oude + Szymel Slizgol"
+    ]
+  },
+
+  "arcos": {
+    "candidatos": [
+      {"idx": 0, "angulo": "Didático", "titulo": "Ser-me-eis Testemunhas: o Poder e o Encargo", "partes": 7, "para_meditar": "Samuel Philippe", "fidelidade": 9, "fluxo": 7, "ancoragem": 10, "total": 26},
+      {"idx": 1, "angulo": "Problematização", "titulo": "Testemunha ou Simpatizante?", "partes": 6, "para_meditar": "Joseph Bré", "fidelidade": 9, "fluxo": 10, "ancoragem": 8, "total": 27},
+      {"idx": 2, "angulo": "Q&A puro", "titulo": "Testemunhas, Não Simpatizantes", "partes": 5, "para_meditar": "Chico Xavier e o Nobel", "fidelidade": 10, "fluxo": 7, "ancoragem": 8, "total": 25}
+    ],
+    "vencedor": 1,
+    "razao": "Identificou que o capítulo ataca DUAS crenças de conforto simultâneas — a virtude por omissão e a delegação do testemunho a quem sabe falar — e organizou a palestra como desmontagem sucessiva das duas, fazendo a tabela dos dois poderes chegar como resposta e não como ilustração. É o único que usa Judas (LM 226) contra a segunda metade, e o único que se autocorrige com o 'não lança anátema', impedindo que a plateia saia julgando os outros.",
+    "enxertos": [
+      "Do Q&A puro: a abertura concreta (o retrato do ouvinte) antes da pergunta literal de Kardec",
+      "Do Didático: a Parte 1 em Jesus puro (Mt 5:16) antes de qualquer vocabulário espírita — corrige a única fraqueza do vencedor, a ancoragem",
+      "Do Q&A puro: headers copiados das próprias sentenças do capítulo, hábito documentado do palestrante",
+      "Novo: ESE cap. XIII, item 3, que nenhum arco usava e é necessário para responder a objeção do exibicionismo de virtude",
+      "Novo: ESE cap. XVII, item 2 na Parte 5, para dar conteúdo determinado a 'refletir o Cristo'"
+    ]
+  },
+
+  "iconografia": {
+    "executada": false,
+    "razao": "escopo escolhido pelo usuário: 'completo, sem iconografia' — fica para o /slides"
+  },
+
+  "lacunas": [
+    "Léon Denis, Joanna de Ângelis, Bezerra de Menezes, Cairbar Schutel e Yvonne Pereira sem material direto sobre o tema",
+    "Os Mensageiros e Obreiros da Vida Eterna não vasculhados com profundidade",
+    "Iconografia não executada (escolha de escopo)",
+    "Discrepância de numeração de Fonte Viva (EADE cap. 23 × raw cap. 170) pendente de conferência na edição impressa",
+    "raw/palestras/gabriel-mendonca/ não tem transcrições em markdown — só decks; o estilo foi inferido dos slides, não da fala"
+  ],
+
+  "paginas_a_criar": [
+    "wiki/conceitos/testemunho — o conceito central desta palestra não tem página; candidato mais forte",
+    "wiki/conceitos/consolador — hoje só tratado dentro de tres-revelacoes",
+    "wiki/conceitos/espirito-de-verdade — idem",
+    "wiki/conceitos/exemplificacao — ausente, e citado como se existisse",
+    "wiki/conceitos/reforma-intima — idem",
+    "wiki/conceitos/virtude-ativa — a distinção de ESE cap. XV, item 10 merece verbete próprio",
+    "data/dicionario.json — acrescentar 'anátema' e 'preposto'"
+  ],
+
+  "correcoes_sugeridas_na_semente": [
+    "linhas 254, 258, 421: 'arco Saulo, cap. 2' → '2ª parte, cap. 2'",
+    "cross-linkar a seção 'Salvador do Mundo é compatível com o Pentateuco?' para wiki/divergencias/sangue-expiatorio-em-1-joao",
+    "considerar incorporar o arco ESE XI→XIII→XV→XVII (coluna vertebral da caridade) e LE q. 886"
+  ]
+}
