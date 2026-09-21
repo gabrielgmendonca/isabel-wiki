@@ -33,3 +33,5 @@ __pycache__/
 
 # Loop diário — logs efêmeros (os relatórios do /critica continuam versionados)
 reports/loop-diario/
+# estado retomável do run de /palestra (prompts + JSON por agente); o dossiê fica
+reports/palestra/*/estado/
