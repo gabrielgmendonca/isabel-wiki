@@ -1,0 +1,1659 @@
+{
+ "meta": {
+  "seedPath": "wiki/aprofundamentos/como-testemunhar-pao-nosso-173.md",
+  "foco": "",
+  "tema": "tema/moral, tema/jesus",
+  "data": "",
+  "casa": "",
+  "publico": "misto",
+  "modo": "rapido",
+  "verifyDepth": 1,
+  "imagens": "off",
+  "agentes": 12,
+  "modelo_barato": "sonnet fora de núcleo/arcos/júri/síntese",
+  "gerado_em": "2026-09-12-1817",
+  "nota_execucao": "A tool Workflow não estava disponível nesta sessão. O próprio .claude/workflows/palestra-dossie.js foi executado por um harness Node (scratchpad/run/harness.mjs) que substitui só a função agent(): cada chamada virou um subagente com o MESMO prompt e o MESMO modelo, e a orquestração (lotes, reconciliação por eco, contagem de agentes) rodou como está no script. 3 agentes do 1º estágio morreram em 429 (limite de sessão) e 2 foram relançados; o de casos já havia gravado o resultado."
+ },
+ "nucleo": {
+  "lente": "Jesus → Pentateuco. O tema do cap. 173 (testemunhar não é pregar) tem âncora evangélica direta no Sermão da Montanha — Mt 7:21-27 — e Kardec a recolhe integralmente no ESE, cap. XVIII, com comentário que antecipa, palavra por palavra, a tríade de Emmanuel (pregador, literato, simpatizante). A varredura partiu daí e verificou todos os loci com scripts/cite.py; o eixo secundário levantado foi a dialética Pentateuco entre 'não ponhais a candeia debaixo do alqueire' (ESE, cap. XXIV) e 'não saiba a vossa mão esquerda' (ESE, cap. XIII), que é a pergunta operacional da palestra: o que, exatamente, deve ficar visível no testemunho.",
+  "ancora_jesus": "Mateus 7:21-27 — \"Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai, que está nos céus\", seguido imediatamente da casa sobre a rocha: \"Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa.\" Kardec recolhe as duas perícopes lado a lado em ESE, cap. XVIII, itens 6 e 7, e Mt 7:21-23 traz a lista exata dos títulos que não credenciam — profetizar, expulsar demônios, fazer milagres em nome de Jesus. Ancilar, e cronologicamente anterior no mesmo Sermão: Mt 7:16, \"Conhece-se a árvore pelo fruto\" (ESE, cap. XXI, item 8). A semente ancora em At 1:8, que é Atos e não Evangelho — fica um degrau abaixo na hierarquia e deve entrar como cumprimento da promessa de Jo 14:15-17 e 26 (ESE, cap. VI, item 3), não como fundamento.",
+  "achados": [
+   {
+    "fonte": "ESE, cap. XVIII, item 6 (S. Mateus, 7:21 a 23)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "É a âncora evangélica do capítulo inteiro: Jesus lista nominalmente os credenciais religiosos mais altos imagináveis e os declara insuficientes — o critério é fazer a vontade do Pai.",
+    "trecho": "\"Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai, que está nos céus. — Muitos, nesse dia, me dirão: Senhor! Senhor! não profetizamos em teu nome? Não expulsamos em teu nome o demônio? Não fizemos muitos milagres em teu nome? — Eu então lhes direi em altas vozes: Afastai-vos de mim, vós que fazeis obras de iniquidade.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XVIII, item 9",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Comentário de Kardec que é a tríade de Emmanuel antecipada em 1864: desmonta exatamente o pregador, o devoto e o simpatizante, e nomeia o vício — dizer com os lábios o que os atos desmentem.",
+    "trecho": "\"Todos os que reconhecem a missão de Jesus dizem: Senhor! Senhor! — Mas, de que serve lhe chamarem Mestre ou Senhor, se não lhe seguem os preceitos? Serão cristãos os que o honram com exteriores atos de devoção e, ao mesmo tempo, sacrificam ao orgulho, ao egoísmo, à cupidez e a todas as suas paixões? Serão seus discípulos os que passam os dias em oração e não se mostram nem melhores, nem mais caridosos, nem mais indulgentes para com seus semelhantes? Não, porquanto, do mesmo modo que os fariseus, eles têm a prece nos lábios e não no coração.\" E adiante, na resposta que põe na boca de Jesus: \"Afastai-vos de mim, vós que cometeis iniquidades, vós que desmentis com os atos o que dizeis com os lábios (…) Não espereis dobrar a justiça do Senhor pela multiplicidade das vossas palavras e das vossas genuflexões. O caminho único que vos está aberto, para achardes graça perante ele, é o da prática sincera da lei de amor e de caridade.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XVIII, item 7 (S. Mateus, 7:24 a 27; S. Lucas, 6:46 a 49)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Dá a imagem de fecho para a palestra: ouvir e praticar é rocha, ouvir sem praticar é areia — o mesmo par palavra/ato da sentença 8 do cap. 173.",
+    "trecho": "\"Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa. (…) Mas, aquele que ouve estas minhas palavras e não as pratica, se assemelha a um homem insensato que construiu sua casa na areia.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XVIII, item 10 (S. Lucas, 12:47-48)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Vira a palestra para dentro da casa espírita: quem recebeu a Terceira Revelação responde por mais — é o argumento que justifica dirigir o cap. 173 a uma plateia já convertida.",
+    "trecho": "\"O servo que souber da vontade do seu amo e que, entretanto, não estiver pronto e não fizer o que dele queira o amo, será rudemente castigado. — Mas, aquele que não tenha sabido da sua vontade e fizer coisas dignas de castigo menos punido será. Muito se pedirá àquele a quem muito se houver dado e maiores contas serão tomadas àquele a quem mais coisas se haja confiado.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 918",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Achado central da varredura: é a formulação do LE que define testemunho sem usar a palavra — a elevação se prova quando TODOS os atos da vida corporal são a prática da lei; e traz a metáfora do 'depósito', que é o 'preposto' de Emmanuel em linguagem de Kardec.",
+    "trecho": "\"Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? — 'O espírito prova a sua elevação quando todos os atos de sua vida corporal representam a prática da lei de Deus, e quando antecipadamente compreende a vida espiritual.'\" E no comentário: \"Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSITO, de que lhe cumpre usar para o bem. Delas não se envaidece, por saber que aquele que lhas deu também lhas pode retirar.\" (maiúsculas no original)",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 642",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "O eixo 1 da palestra: a virtude negativa não salva; responde-se pelo mal que resultou do bem não praticado.",
+    "trecho": "\"Para agradar a Deus e assegurar a sua posição futura bastará que o homem não pratique o mal? — 'Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem.'\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 643",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Fecha a saída de emergência do ouvinte ('não tenho como testemunhar na minha posição') e redefine fazer o bem como ser útil, não como ser beneficente.",
+    "trecho": "\"Não há quem não possa fazer o bem. Somente o egoísta nunca encontra ensejo de o praticar. Basta que se esteja em relações com outros homens para que se tenha ocasião de fazer o bem, e não há dia da existência que não ofereça, a quem não se ache cego pelo egoísmo, oportunidade de praticá-lo. Porque fazer o bem não consiste, para o homem, apenas em ser beneficente, mas em ser útil, na medida do possível, todas as vezes que o seu concurso possa ser necessário.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 917 (Fénelon)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Nomeia o mecanismo do testemunho em uma expressão só — 'a influência moralizadora do exemplo e do contato' — e é a razão doutrinária de por que o reflexo vale mais que o discurso.",
+    "trecho": "\"Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade, e cada um pensará menos na sua pessoa, ao ver que os outros também com ela se preocupam. Todos experimentarão a influência moralizadora do exemplo e do contato.\" E no comentário de Kardec: a cura do egoísmo se obtém \"pela educação; não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XXI, item 8",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "O critério de verificação do testemunho — são as obras que se examinam — e a advertência contra o orador de púlpito, útil por ser dita do próprio púlpito.",
+    "trecho": "\"É assim, meus irmãos, que deveis julgar; são as obras que deveis examinar. Se os que se dizem investidos de poder divino revelam sinais de uma missão de natureza elevada (…) se, em apoio das palavras, apresentam os atos, podereis então dizer: Estes são realmente enviados de Deus. Desconfiai, porém, das palavras melífluas, desconfiai dos escribas e dos fariseus que oram nas praças públicas, vestidos de longas túnicas. Desconfiai dos que pretendem ter o monopólio da verdade!\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XIII, item 1 (S. Mateus, 6:1 a 4)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "O contrapeso indispensável: se testemunho é ato visível, Jesus proíbe a boa obra feita para ser vista. É a tensão que a palestra precisa resolver em voz alta, ou o ouvinte sai com licença para exibir o bem.",
+    "trecho": "\"Tende cuidado em não praticar as boas obras diante dos homens, para serem vistas, pois, do contrário, não recebereis recompensa de vosso Pai que está nos céus. — Assim, quando derdes esmola, não trombeteeis, como fazem os hipócritas nas sinagogas e nas ruas, para serem louvados pelos homens. Digo-vos, em verdade, que eles já receberam sua recompensa.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XIII, item 4",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Caso narrativo de nível 1 — a dama desconhecida — que é o cap. 173 encenado: testemunho sem nome, sem título e sem rótulo doutrinário. Substitui com vantagem um caso de nível 3 e fecha exatamente com a frase que a palestra quer.",
+    "trecho": "\"Quem é esta mulher de ar distinto, de traje tão simples (…)? (…) Não lhes pergunta qual a crença que professam, nem quais suas opiniões, pois considera como seus irmãos e filhos de Deus todos os homens. (…) Qual o seu nome? Onde mora? Ninguém o sabe. Para os infelizes, é um nome que nada indica; mas é o anjo da consolação. (…) É espírita ela? Que importa! (…) Certo dia, no entanto, imprevista circunstância leva-lhe a casa uma de suas protegidas (…) reconheceu nela a sua benfeitora. 'Silêncio! ordena-lhe a senhora. Não o digas a ninguém.' Falava assim Jesus.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XXIV, itens 1 e 4",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Correção de rota importante: o capítulo da candeia NÃO é sobre exibir boas obras — Kardec o lê como revelação graduada da verdade e coragem de professá-la. Usar cap. XXIV como 'mostre suas virtudes' é forçar o texto.",
+    "trecho": "Item 1 (S. Mateus, 5:15): \"Ninguém acende uma candeia para pô-la debaixo do alqueire; põe-na, ao contrário, sobre o candeeiro, a fim de que ilumine a todos os que estão na casa.\" Item 4, comentário de Kardec: \"Tal sentença não significa que se deva revelar inconsideradamente todas as coisas. Todo ensinamento deve ser proporcionado à inteligência daquele a quem se queira instruir, porquanto há pessoas a quem uma luz por demais viva deslumbraria, sem as esclarecer.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XXIV, itens 15 e 16",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "O outro lado da tensão: o bem se faz em segredo, mas a fé se confessa em público — Kardec chama de covardia escondê-la, e aplica explicitamente aos espíritas.",
+    "trecho": "Item 15: \"aqueles que se houverem arreceado de se confessarem discípulos da verdade não são dignos de se verem admitidos no reino da verdade. Perderão as vantagens da fé que alimentem, porque se trata de uma fé egoísta que eles guardam para si, ocultando-a para que não lhes traga prejuízo neste mundo, ao passo que aqueles que, pondo a verdade acima de seus interesses materiais, a proclamam abertamente, trabalham pelo seu próprio futuro e pelo dos outros.\" Item 16: \"Eles semeiam na Terra o que colherão na vida espiritual. Colherão lá os frutos da sua coragem ou da sua fraqueza.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. VII, item 6",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Eixo 4 (os dois poderes) em imagem de palestra: a imagem do náufrago é mais forte que a tabela, e diz literalmente que os títulos não atravessam a morte.",
+    "trecho": "\"O Espiritismo sanciona pelo exemplo a teoria, mostrando-nos na posição de grandes no mundo dos Espíritos os que eram pequenos na Terra (…) os outros tiveram de deixar aqui o que lhes constituía a grandeza terrena e que se não leva para a outra vida: a riqueza, os títulos, a glória, a nobreza do nascimento. Nada mais possuindo senão isso chegam ao outro mundo privados de tudo, como náufragos que tudo perderam, até as próprias roupas.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XIX, item 12",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Define o 'poder' que Jesus concede (eixo 4) em termos doutrinários e não mágicos: é a fé como alavanca — vontade de querer e certeza de obter —, o que impede a leitura triunfalista de At 1:8.",
+    "trecho": "\"No homem, a fé é o sentimento inato de seus destinos futuros; é a consciência que ele tem das faculdades imensas depositadas em gérmen no seu íntimo, a princípio em estado latente, e que lhe cumpre fazer que desabrochem e cresçam pela ação da sua vontade. (…) o Cristo, que operou milagres materiais, mostrou, por esses milagres mesmos, o que pode o homem, quando tem fé, isto é, a vontade de querer e a certeza de que essa vontade pode obter satisfação.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XV, item 10 (Paulo, o apóstolo. Paris, 1860)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Já na semente, mas vale reter as duas pontas: a virtude ativa (eixo 1) e o critério de reconhecimento pelo qual o testemunho se afere de fora.",
+    "trecho": "\"Não só ela evitará que pratiqueis o mal, como também fará que pratiqueis o bem, porquanto uma virtude negativa não basta: é necessária uma virtude ativa; para fazer-se o bem, mister sempre se torna a ação da vontade; para não se praticar o mal, bastam as mais das vezes a inércia e a despreocupação.\" E o fecho: \"Esforçai-vos, pois, para que os vossos irmãos, observando-vos, sejam induzidos a reconhecer que verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. XX, item 5",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "A frase mais dura disponível para o eixo 3 (o título não credencia), e dirigida a trabalhadores da casa espírita, não a estranhos.",
+    "trecho": "\"Deus procede, neste momento, ao censo dos seus servidores fiéis e já marcou com o dedo aqueles cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos, pois aos que não recuarem diante de suas tarefas é que ele vai confiar os postos mais difíceis na grande obra.\" Antes, no mesmo item: \"Já recebestes a vossa recompensa, tal qual a quisestes. (…) as recompensas celestes são para os que não tenham buscado as recompensas da Terra.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 893",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Dá o critério de mérito que separa o testemunho autêntico do testemunho performático: o desinteresse, sem pensamento oculto.",
+    "trecho": "\"Todas as virtudes têm seu mérito, porque todas indicam progresso na senda do bem. Há virtude sempre que há resistência voluntária ao arrastamento dos maus pendores. A sublimidade da virtude, porém, está no sacrifício do interesse pessoal pelo bem do próximo, sem pensamento oculto. A mais meritória é a que assenta na mais desinteressada caridade.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 886",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Amplia testemunho para além da assistência material: caridade é o regime de TODAS as relações — inclusive com superiores e iguais, que é onde a plateia de casa espírita falha.",
+    "trecho": "\"Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus? — 'Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas.'\" E no comentário: \"A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 896",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Reforça a metáfora do preposto com a palavra 'depósito' e a prestação de contas — e acrescenta que boa intenção sem discernimento não basta.",
+    "trecho": "\"A riqueza, assim como não é dada a uns para ser aferrolhada num cofre forte, também não o é a outros para ser dispersada ao vento. Representa um depósito de que uns e outros terão de prestar contas, porque terão de responder por todo o bem que podiam fazer e não fizeram, por todas as lágrimas que podiam ter estancado com o dinheiro que deram aos que dele não precisavam.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 625",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "O fecho doutrinário do eixo 'Salvador do Mundo': Jesus salva enquanto modelo a imitar — o que devolve a redenção à conduta do ouvinte, exatamente a sentença 1 do cap. 173.",
+    "trecho": "\"Qual o tipo mais perfeito que Deus já ofereceu ao homem para lhe servir de guia e modelo? — 'Jesus.' Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo, e a doutrina que ensinou é a expressão mais pura da lei do Senhor.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "LE, q. 919 (Santo Agostinho)",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Converte a palestra em exame de consciência com um método concreto — e a pergunta-espelho de Agostinho é o recurso mais forte para o momento de virada.",
+    "trecho": "\"Fazei o que eu fazia quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera e perguntava a mim mesmo se não faltara a algum dever, se ninguém tivera motivo para de mim se queixar.\" E o critério de verificação: \"Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "C&I, 2ª parte, cap. VII (\"Angèle — Nulidade sobre a terra\")",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Ilustração narrativa do eixo 1, confirmada no locus indicado pela semente (cap. VII, 'Espíritos endurecidos', linhas 3212-3299 do raw).",
+    "trecho": "\"Sua vida foi inútil para o bem e por isso mesmo culpada, pois o mal nasce do bem negligenciado. Compreendei bem todos que não basta abster-vos das faltas: é preciso praticar as virtudes que lhes são opostas.\" Nota: o relato antecede com o diagnóstico — \"Sem defeitos sérios, mas sem qualidades\" — que é a frase mais aproveitável para a plateia.",
+    "citavel": true
+   },
+   {
+    "fonte": "ESE, cap. VI, itens 3 e 4",
+    "nivel": "jesus-pentateuco",
+    "relevancia_foco": "Confirma a leitura da semente: a epígrafe de Kardec abre em Jo 14:15, na condição ('Se me amais, guardai os meus mandamentos'), antes de chegar à promessa do Consolador.",
+    "trecho": "Item 3: \"Se me amais, guardai os meus mandamentos; e eu rogarei a meu Pai e ele vos enviará outro Consolador, a fim de que fique eternamente convosco: — O Espírito de Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece.\" Item 4: \"O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade. Ele chama os homens à observância da lei.\"",
+    "citavel": true
+   },
+   {
+    "fonte": "wiki/conceitos/homem-de-bem",
+    "nivel": "wiki",
+    "relevancia_foco": "Página da wiki que já consolida o retrato de ESE cap. XVII, item 3; a varredura acrescenta que o LE q. 918 é a versão anterior e mais curta do mesmo retrato, com a linha do 'depósito' que o ESE não traz.",
+    "trecho": "Cross-ref interno. O par a citar em palestra é ESE, cap. XVII, item 3 + LE, q. 918 — mesma estrutura de exame de consciência, formulações complementares.",
+    "citavel": false
+   }
+  ],
+  "citacoes_pentateuco": [
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVIII, item 6",
+    "afirmacao": "Jesus declara insuficientes os credenciais religiosos mais altos (profetizar, expulsar demônios, milagres em seu nome): o critério é fazer a vontade do Pai — âncora evangélica do tema."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVIII, item 7",
+    "afirmacao": "Ouvir e praticar é casa sobre a rocha; ouvir sem praticar é casa sobre a areia — imagem de fecho para o par palavra/ato."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVIII, item 9",
+    "afirmacao": "Kardec antecipa a tríade pregador/literato/simpatizante: de nada serve chamar Jesus de Mestre sem lhe seguir os preceitos; condena quem 'desmente com os atos o que diz com os lábios'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVIII, item 10",
+    "afirmacao": "Muito se pedirá àquele a quem muito se houver dado — justifica dirigir a cobrança do cap. 173 a uma plateia já espírita."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XXI, item 8",
+    "afirmacao": "São as obras que se devem examinar; só quando os atos apoiam as palavras é que se pode dizer 'estes são enviados de Deus'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVII, item 3",
+    "afirmacao": "Retrato do verdadeiro homem de bem: o exame não para em 'não praticou o mal', segue para 'fez todo o bem que podia'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XVII, item 4",
+    "afirmacao": "Muitos creem nos fatos das manifestações e não lhes aplicam a si mesmos o alcance moral — o diagnóstico do simpatizante."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XV, item 10",
+    "afirmacao": "Uma virtude negativa não basta: é necessária uma virtude ativa; e o testemunho se afere de fora — 'verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XV, item 4",
+    "afirmacao": "Os dois mandamentos contêm toda a lei e os profetas — guardar os mandamentos é praticar a lei de amor, não observância ritual."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XIII, item 1",
+    "afirmacao": "Contrapeso: não praticar as boas obras diante dos homens para serem vistas; quem busca o louvor dos homens já recebeu sua recompensa."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XIII, item 4",
+    "afirmacao": "Caso narrativo de nível 1 (a dama desconhecida) — testemunho sem nome nem rótulo: 'É espírita ela? Que importa!'"
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XXIV, item 1",
+    "afirmacao": "Mt 5:15 — a candeia vai sobre o candeeiro; é o versículo que Kardec de fato recolhe (Mt 5:16 NÃO está no ESE)."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XXIV, item 4",
+    "afirmacao": "Kardec lê a candeia como revelação graduada da verdade, não como exibição de boas obras — ensino proporcionado à inteligência de quem o recebe."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XXIV, item 15",
+    "afirmacao": "É covardia esconder a fé por interesse material; quem se arreceia de se confessar discípulo da verdade não é digno do reino da verdade."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XXIV, item 16",
+    "afirmacao": "Aplicação explícita aos espíritas: colherão na vida espiritual os frutos da sua coragem ou da sua fraqueza."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. VII, item 4",
+    "afirmacao": "Mt 20:20-28 — quem quiser ser o maior seja vosso servo; o Filho do homem não veio para ser servido, mas para servir (eixo dos dois poderes)."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. VII, item 6",
+    "afirmacao": "Os títulos, a glória e a riqueza não atravessam a morte: chegam ao outro mundo 'como náufragos que tudo perderam, até as próprias roupas'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. VI, item 3",
+    "afirmacao": "A epígrafe do Consolador começa na condição, Jo 14:15 — 'Se me amais, guardai os meus mandamentos'."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. VI, item 4",
+    "afirmacao": "O Espiritismo cumpre a promessa do Cristo e 'chama os homens à observância da lei' — o dom vem com encargo."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XIX, item 12",
+    "afirmacao": "A fé é alavanca: 'a vontade de querer e a certeza de que essa vontade pode obter satisfação' — define o poder concedido sem leitura mágica."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XX, item 3",
+    "afirmacao": "Os espíritas são os obreiros da última hora, herdeiros do trabalho de profetas, apóstolos e mártires."
+   },
+   {
+    "sigla": "ESE",
+    "ref": "cap. XX, item 5",
+    "afirmacao": "Deus já marcou aqueles 'cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos'."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 918",
+    "afirmacao": "O Espírito prova sua elevação quando todos os atos da vida corporal representam a prática da lei de Deus; poder e riqueza são 'UM DEPÓSITO' de que se presta contas."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 642",
+    "afirmacao": "Não basta não praticar o mal: responde-se por todo mal resultante do bem não praticado."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 643",
+    "afirmacao": "Fazer o bem não é apenas ser beneficente, é ser útil sempre que o próprio concurso possa ser necessário — ninguém está dispensado."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 917",
+    "afirmacao": "O exemplo é mecanismo moral: 'todos experimentarão a influência moralizadora do exemplo e do contato'; a cura do egoísmo é a educação que faz homens de bem, não instruídos."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 893",
+    "afirmacao": "A virtude mais meritória assenta na caridade mais desinteressada, sem pensamento oculto — critério que separa testemunho de performance."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 886",
+    "afirmacao": "Caridade segundo Jesus é benevolência, indulgência e perdão, e abrange todas as relações — com inferiores, iguais e superiores."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 896",
+    "afirmacao": "A riqueza é depósito de que se presta contas: responde-se pelo bem que se podia fazer e não se fez."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 625",
+    "afirmacao": "Jesus é o tipo mais perfeito oferecido por Deus como guia e modelo — a salvação passa pela imitação, não pela adesão."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 919",
+    "afirmacao": "O conhece-te a ti mesmo de Santo Agostinho, com método: exame de consciência ao fim do dia e a pergunta-espelho ('como qualificaria essa ação se praticada por outro?')."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 132",
+    "afirmacao": "Cooperar na obra da criação é finalidade da encarnação: 'concorrendo para a obra geral, ele próprio se adianta'."
+   },
+   {
+    "sigla": "LE",
+    "ref": "q. 685",
+    "afirmacao": "A educação que redime é a moral — 'a arte de formar os caracteres', não a educação pelos livros."
+   },
+   {
+    "sigla": "C&I",
+    "ref": "2ª parte, cap. VII",
+    "afirmacao": "Relato de Angèle ('Nulidade sobre a terra'): 'o mal nasce do bem negligenciado'; e a rainha de Oude, no mesmo capítulo, como a coluna do poder terreno. Atenção: cap. VII da 2ª parte intitula-se 'Espíritos endurecidos' e os relatos são nominais, sem numeração de item."
+   },
+   {
+    "sigla": "C&I",
+    "ref": "2ª parte, cap. VIII",
+    "afirmacao": "Relato de Szymel Slizgol, o mendigo de Vilna que passou da regra negativa à positiva — 'todo aquele que se elevar será abaixado'. Capítulo 'Expiações terrestres', relatos nominais."
+   }
+  ],
+  "notas": "ACHADO QUE MUDA O ROTEIRO — a âncora do tema não é At 1:8. Atos é escrito apostólico, não Evangelho, e fica um degrau abaixo de Jesus na hierarquia do CLAUDE.md §2. A âncora evangélica própria de 'testemunhar não é pregar' é Mt 7:21-27, e Kardec a recolhe inteira em ESE, cap. XVIII, itens 6-7, com o comentário do item 9 que é, literalmente, a tríade de Emmanuel escrita 75 anos antes: 'de que serve lhe chamarem Mestre ou Senhor, se não lhe seguem os preceitos?'. Recomendação: manter At 1:8 na abertura (é a promessa, e a semente já a articula bem com Jo 14:15-17), mas fazer o eixo 5 desembocar em ESE cap. XVIII, itens 6 e 9 — o fecho ganha autoridade de nível 1 em vez de depender de Emmanuel.\n\nALERTA DE CITAÇÃO — Mt 5:16 ('assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras') NÃO consta do ESE. Verificado por varredura do raw: as únicas ocorrências de 'resplandeç' no ESE são a Introdução (linha 71) e cap. XVII (linha 2927), nenhuma delas o versículo. Kardec recolhe apenas Mt 5:15 (cap. XXIV, item 1) e Lc 8:16-17 (item 2). Como Mt 5:16 é o versículo que todo palestrante cita de cor neste tema, o risco de atribuí-lo ao ESE é alto. Ele pode e deve ser usado — como Evangelho, fonte primordial, citado pela ACF — mas nunca como '(ESE, cap. XXIV, item 1)'.\n\nTENSÃO DOUTRINÁRIA A RESOLVER EM VOZ ALTA (não é divergência; é dialética interna do Pentateuco) — ESE cap. XIII, item 1 manda não praticar boas obras diante dos homens; ESE cap. XXIV manda não pôr a candeia debaixo do alqueire. E o comentário de Kardec no cap. XXIV, item 4 mostra que a candeia não é sobre exibir virtude, e sim sobre revelar a verdade na medida em que o ouvinte a suporta; itens 15-16 completam: o que se professa abertamente é a fé, e escondê-la por interesse é covardia. A síntese que a palestra pode oferecer: fica visível a CONDUTA e a FÉ PROFESSADA; fica oculto o BENEFÍCIO INDIVIDUAL e o MÉRITO. É exatamente o que o relato da dama desconhecida (cap. XIII, item 4) encena — ela é reconhecida pelo que faz e manda calar quem a identifica. Esse relato é, a meu ver, o melhor caso disponível para a palestra inteira, e é nível 1: dispensa recorrer a Chico ou a Napoleão para o eixo 3.\n\nCONTRIBUIÇÃO NOVA MAIS FORTE PARA O EIXO 'PREPOSTOS' — LE q. 918 fecha dois buracos de uma vez. Primeiro, define testemunho sem usar a palavra: 'o Espírito prova a sua elevação quando todos os atos de sua vida corporal representam a prática da lei de Deus'. Segundo, traz a metáfora jurídica que a semente atribui a Emmanuel — 'Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSITO' — com as maiúsculas no original da FEB, o que dá um recurso visual de slide. LE q. 896 repete o termo ('Representa um depósito de que uns e outros terão de prestar contas'). A semente cita ESE cap. XVII, item 3 para o homem de bem; q. 918 é a formulação anterior do MESMO retrato no LE, e o par ESE XVII.3 + LE 918 é mais forte que qualquer um isolado.\n\nCONFIRMAÇÕES DE LOCUS DA SEMENTE — todas as citações do Pentateuco presentes na semente foram reconferidas com cite.py e batem literalmente, inclusive as duas que pareciam arriscadas: Angèle e 'a rainha de Oude' estão de fato em C&I, 2ª parte, cap. VII (linhas 3239 e 3268 do raw, dentro do span 3212-3299 do capítulo 'Espíritos endurecidos'), e Szymel Slizgol em cap. VIII (linha 3315, span 3300-3500). Ressalva registrada: a 2ª parte de C&I não tem numeração de item — cite.py emite aviso —, por isso a citação correta traz o nome do relato, como a semente já faz. A frase de educação atribuída a LE q. 685 está de fato lá, no comentário de Kardec à questão sobre o repouso na velhice; quem for conferir pelo enunciado da questão vai estranhar, então vale a nota de rodapé.\n\nNÃO LEVANTADO POR FALTA DE PERTINÊNCIA — Gênese não contribui ao foco (é cosmogonia e milagres; o único ângulo seria a lei do progresso, redundante com ESE cap. XX). LM tem material sobre influência moral do médium, mas o cap. 173 não trata de mediunidade e puxar LM aqui deslocaria o eixo moral para o mediúnico; se o painel quiser esse ângulo, o locus a pedir é LM, 2ª parte, cap. XX, não algo que eu tenha verificado nesta rodada — não incluí em citacoes_pentateuco por isso."
+ },
+ "lentes": [
+  {
+   "lente": "Jesus → Pentateuco. O tema do cap. 173 (testemunhar não é pregar) tem âncora evangélica direta no Sermão da Montanha — Mt 7:21-27 — e Kardec a recolhe integralmente no ESE, cap. XVIII, com comentário que antecipa, palavra por palavra, a tríade de Emmanuel (pregador, literato, simpatizante). A varredura partiu daí e verificou todos os loci com scripts/cite.py; o eixo secundário levantado foi a dialética Pentateuco entre 'não ponhais a candeia debaixo do alqueire' (ESE, cap. XXIV) e 'não saiba a vossa mão esquerda' (ESE, cap. XIII), que é a pergunta operacional da palestra: o que, exatamente, deve ficar visível no testemunho.",
+   "ancora_jesus": "Mateus 7:21-27 — \"Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai, que está nos céus\", seguido imediatamente da casa sobre a rocha: \"Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa.\" Kardec recolhe as duas perícopes lado a lado em ESE, cap. XVIII, itens 6 e 7, e Mt 7:21-23 traz a lista exata dos títulos que não credenciam — profetizar, expulsar demônios, fazer milagres em nome de Jesus. Ancilar, e cronologicamente anterior no mesmo Sermão: Mt 7:16, \"Conhece-se a árvore pelo fruto\" (ESE, cap. XXI, item 8). A semente ancora em At 1:8, que é Atos e não Evangelho — fica um degrau abaixo na hierarquia e deve entrar como cumprimento da promessa de Jo 14:15-17 e 26 (ESE, cap. VI, item 3), não como fundamento.",
+   "achados": [
+    {
+     "fonte": "ESE, cap. XVIII, item 6 (S. Mateus, 7:21 a 23)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "É a âncora evangélica do capítulo inteiro: Jesus lista nominalmente os credenciais religiosos mais altos imagináveis e os declara insuficientes — o critério é fazer a vontade do Pai.",
+     "trecho": "\"Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai, que está nos céus. — Muitos, nesse dia, me dirão: Senhor! Senhor! não profetizamos em teu nome? Não expulsamos em teu nome o demônio? Não fizemos muitos milagres em teu nome? — Eu então lhes direi em altas vozes: Afastai-vos de mim, vós que fazeis obras de iniquidade.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XVIII, item 9",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Comentário de Kardec que é a tríade de Emmanuel antecipada em 1864: desmonta exatamente o pregador, o devoto e o simpatizante, e nomeia o vício — dizer com os lábios o que os atos desmentem.",
+     "trecho": "\"Todos os que reconhecem a missão de Jesus dizem: Senhor! Senhor! — Mas, de que serve lhe chamarem Mestre ou Senhor, se não lhe seguem os preceitos? Serão cristãos os que o honram com exteriores atos de devoção e, ao mesmo tempo, sacrificam ao orgulho, ao egoísmo, à cupidez e a todas as suas paixões? Serão seus discípulos os que passam os dias em oração e não se mostram nem melhores, nem mais caridosos, nem mais indulgentes para com seus semelhantes? Não, porquanto, do mesmo modo que os fariseus, eles têm a prece nos lábios e não no coração.\" E adiante, na resposta que põe na boca de Jesus: \"Afastai-vos de mim, vós que cometeis iniquidades, vós que desmentis com os atos o que dizeis com os lábios (…) Não espereis dobrar a justiça do Senhor pela multiplicidade das vossas palavras e das vossas genuflexões. O caminho único que vos está aberto, para achardes graça perante ele, é o da prática sincera da lei de amor e de caridade.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XVIII, item 7 (S. Mateus, 7:24 a 27; S. Lucas, 6:46 a 49)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Dá a imagem de fecho para a palestra: ouvir e praticar é rocha, ouvir sem praticar é areia — o mesmo par palavra/ato da sentença 8 do cap. 173.",
+     "trecho": "\"Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa. (…) Mas, aquele que ouve estas minhas palavras e não as pratica, se assemelha a um homem insensato que construiu sua casa na areia.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XVIII, item 10 (S. Lucas, 12:47-48)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Vira a palestra para dentro da casa espírita: quem recebeu a Terceira Revelação responde por mais — é o argumento que justifica dirigir o cap. 173 a uma plateia já convertida.",
+     "trecho": "\"O servo que souber da vontade do seu amo e que, entretanto, não estiver pronto e não fizer o que dele queira o amo, será rudemente castigado. — Mas, aquele que não tenha sabido da sua vontade e fizer coisas dignas de castigo menos punido será. Muito se pedirá àquele a quem muito se houver dado e maiores contas serão tomadas àquele a quem mais coisas se haja confiado.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 918",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Achado central da varredura: é a formulação do LE que define testemunho sem usar a palavra — a elevação se prova quando TODOS os atos da vida corporal são a prática da lei; e traz a metáfora do 'depósito', que é o 'preposto' de Emmanuel em linguagem de Kardec.",
+     "trecho": "\"Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? — 'O espírito prova a sua elevação quando todos os atos de sua vida corporal representam a prática da lei de Deus, e quando antecipadamente compreende a vida espiritual.'\" E no comentário: \"Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSITO, de que lhe cumpre usar para o bem. Delas não se envaidece, por saber que aquele que lhas deu também lhas pode retirar.\" (maiúsculas no original)",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 642",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O eixo 1 da palestra: a virtude negativa não salva; responde-se pelo mal que resultou do bem não praticado.",
+     "trecho": "\"Para agradar a Deus e assegurar a sua posição futura bastará que o homem não pratique o mal? — 'Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem.'\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 643",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Fecha a saída de emergência do ouvinte ('não tenho como testemunhar na minha posição') e redefine fazer o bem como ser útil, não como ser beneficente.",
+     "trecho": "\"Não há quem não possa fazer o bem. Somente o egoísta nunca encontra ensejo de o praticar. Basta que se esteja em relações com outros homens para que se tenha ocasião de fazer o bem, e não há dia da existência que não ofereça, a quem não se ache cego pelo egoísmo, oportunidade de praticá-lo. Porque fazer o bem não consiste, para o homem, apenas em ser beneficente, mas em ser útil, na medida do possível, todas as vezes que o seu concurso possa ser necessário.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 917 (Fénelon)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Nomeia o mecanismo do testemunho em uma expressão só — 'a influência moralizadora do exemplo e do contato' — e é a razão doutrinária de por que o reflexo vale mais que o discurso.",
+     "trecho": "\"Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade, e cada um pensará menos na sua pessoa, ao ver que os outros também com ela se preocupam. Todos experimentarão a influência moralizadora do exemplo e do contato.\" E no comentário de Kardec: a cura do egoísmo se obtém \"pela educação; não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XXI, item 8",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O critério de verificação do testemunho — são as obras que se examinam — e a advertência contra o orador de púlpito, útil por ser dita do próprio púlpito.",
+     "trecho": "\"É assim, meus irmãos, que deveis julgar; são as obras que deveis examinar. Se os que se dizem investidos de poder divino revelam sinais de uma missão de natureza elevada (…) se, em apoio das palavras, apresentam os atos, podereis então dizer: Estes são realmente enviados de Deus. Desconfiai, porém, das palavras melífluas, desconfiai dos escribas e dos fariseus que oram nas praças públicas, vestidos de longas túnicas. Desconfiai dos que pretendem ter o monopólio da verdade!\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XIII, item 1 (S. Mateus, 6:1 a 4)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O contrapeso indispensável: se testemunho é ato visível, Jesus proíbe a boa obra feita para ser vista. É a tensão que a palestra precisa resolver em voz alta, ou o ouvinte sai com licença para exibir o bem.",
+     "trecho": "\"Tende cuidado em não praticar as boas obras diante dos homens, para serem vistas, pois, do contrário, não recebereis recompensa de vosso Pai que está nos céus. — Assim, quando derdes esmola, não trombeteeis, como fazem os hipócritas nas sinagogas e nas ruas, para serem louvados pelos homens. Digo-vos, em verdade, que eles já receberam sua recompensa.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XIII, item 4",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Caso narrativo de nível 1 — a dama desconhecida — que é o cap. 173 encenado: testemunho sem nome, sem título e sem rótulo doutrinário. Substitui com vantagem um caso de nível 3 e fecha exatamente com a frase que a palestra quer.",
+     "trecho": "\"Quem é esta mulher de ar distinto, de traje tão simples (…)? (…) Não lhes pergunta qual a crença que professam, nem quais suas opiniões, pois considera como seus irmãos e filhos de Deus todos os homens. (…) Qual o seu nome? Onde mora? Ninguém o sabe. Para os infelizes, é um nome que nada indica; mas é o anjo da consolação. (…) É espírita ela? Que importa! (…) Certo dia, no entanto, imprevista circunstância leva-lhe a casa uma de suas protegidas (…) reconheceu nela a sua benfeitora. 'Silêncio! ordena-lhe a senhora. Não o digas a ninguém.' Falava assim Jesus.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XXIV, itens 1 e 4",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Correção de rota importante: o capítulo da candeia NÃO é sobre exibir boas obras — Kardec o lê como revelação graduada da verdade e coragem de professá-la. Usar cap. XXIV como 'mostre suas virtudes' é forçar o texto.",
+     "trecho": "Item 1 (S. Mateus, 5:15): \"Ninguém acende uma candeia para pô-la debaixo do alqueire; põe-na, ao contrário, sobre o candeeiro, a fim de que ilumine a todos os que estão na casa.\" Item 4, comentário de Kardec: \"Tal sentença não significa que se deva revelar inconsideradamente todas as coisas. Todo ensinamento deve ser proporcionado à inteligência daquele a quem se queira instruir, porquanto há pessoas a quem uma luz por demais viva deslumbraria, sem as esclarecer.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XXIV, itens 15 e 16",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O outro lado da tensão: o bem se faz em segredo, mas a fé se confessa em público — Kardec chama de covardia escondê-la, e aplica explicitamente aos espíritas.",
+     "trecho": "Item 15: \"aqueles que se houverem arreceado de se confessarem discípulos da verdade não são dignos de se verem admitidos no reino da verdade. Perderão as vantagens da fé que alimentem, porque se trata de uma fé egoísta que eles guardam para si, ocultando-a para que não lhes traga prejuízo neste mundo, ao passo que aqueles que, pondo a verdade acima de seus interesses materiais, a proclamam abertamente, trabalham pelo seu próprio futuro e pelo dos outros.\" Item 16: \"Eles semeiam na Terra o que colherão na vida espiritual. Colherão lá os frutos da sua coragem ou da sua fraqueza.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. VII, item 6",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Eixo 4 (os dois poderes) em imagem de palestra: a imagem do náufrago é mais forte que a tabela, e diz literalmente que os títulos não atravessam a morte.",
+     "trecho": "\"O Espiritismo sanciona pelo exemplo a teoria, mostrando-nos na posição de grandes no mundo dos Espíritos os que eram pequenos na Terra (…) os outros tiveram de deixar aqui o que lhes constituía a grandeza terrena e que se não leva para a outra vida: a riqueza, os títulos, a glória, a nobreza do nascimento. Nada mais possuindo senão isso chegam ao outro mundo privados de tudo, como náufragos que tudo perderam, até as próprias roupas.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XIX, item 12",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Define o 'poder' que Jesus concede (eixo 4) em termos doutrinários e não mágicos: é a fé como alavanca — vontade de querer e certeza de obter —, o que impede a leitura triunfalista de At 1:8.",
+     "trecho": "\"No homem, a fé é o sentimento inato de seus destinos futuros; é a consciência que ele tem das faculdades imensas depositadas em gérmen no seu íntimo, a princípio em estado latente, e que lhe cumpre fazer que desabrochem e cresçam pela ação da sua vontade. (…) o Cristo, que operou milagres materiais, mostrou, por esses milagres mesmos, o que pode o homem, quando tem fé, isto é, a vontade de querer e a certeza de que essa vontade pode obter satisfação.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XV, item 10 (Paulo, o apóstolo. Paris, 1860)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Já na semente, mas vale reter as duas pontas: a virtude ativa (eixo 1) e o critério de reconhecimento pelo qual o testemunho se afere de fora.",
+     "trecho": "\"Não só ela evitará que pratiqueis o mal, como também fará que pratiqueis o bem, porquanto uma virtude negativa não basta: é necessária uma virtude ativa; para fazer-se o bem, mister sempre se torna a ação da vontade; para não se praticar o mal, bastam as mais das vezes a inércia e a despreocupação.\" E o fecho: \"Esforçai-vos, pois, para que os vossos irmãos, observando-vos, sejam induzidos a reconhecer que verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XX, item 5",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "A frase mais dura disponível para o eixo 3 (o título não credencia), e dirigida a trabalhadores da casa espírita, não a estranhos.",
+     "trecho": "\"Deus procede, neste momento, ao censo dos seus servidores fiéis e já marcou com o dedo aqueles cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos, pois aos que não recuarem diante de suas tarefas é que ele vai confiar os postos mais difíceis na grande obra.\" Antes, no mesmo item: \"Já recebestes a vossa recompensa, tal qual a quisestes. (…) as recompensas celestes são para os que não tenham buscado as recompensas da Terra.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 893",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Dá o critério de mérito que separa o testemunho autêntico do testemunho performático: o desinteresse, sem pensamento oculto.",
+     "trecho": "\"Todas as virtudes têm seu mérito, porque todas indicam progresso na senda do bem. Há virtude sempre que há resistência voluntária ao arrastamento dos maus pendores. A sublimidade da virtude, porém, está no sacrifício do interesse pessoal pelo bem do próximo, sem pensamento oculto. A mais meritória é a que assenta na mais desinteressada caridade.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 886",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Amplia testemunho para além da assistência material: caridade é o regime de TODAS as relações — inclusive com superiores e iguais, que é onde a plateia de casa espírita falha.",
+     "trecho": "\"Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus? — 'Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas.'\" E no comentário: \"A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 896",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Reforça a metáfora do preposto com a palavra 'depósito' e a prestação de contas — e acrescenta que boa intenção sem discernimento não basta.",
+     "trecho": "\"A riqueza, assim como não é dada a uns para ser aferrolhada num cofre forte, também não o é a outros para ser dispersada ao vento. Representa um depósito de que uns e outros terão de prestar contas, porque terão de responder por todo o bem que podiam fazer e não fizeram, por todas as lágrimas que podiam ter estancado com o dinheiro que deram aos que dele não precisavam.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 625",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O fecho doutrinário do eixo 'Salvador do Mundo': Jesus salva enquanto modelo a imitar — o que devolve a redenção à conduta do ouvinte, exatamente a sentença 1 do cap. 173.",
+     "trecho": "\"Qual o tipo mais perfeito que Deus já ofereceu ao homem para lhe servir de guia e modelo? — 'Jesus.' Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo, e a doutrina que ensinou é a expressão mais pura da lei do Senhor.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 919 (Santo Agostinho)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Converte a palestra em exame de consciência com um método concreto — e a pergunta-espelho de Agostinho é o recurso mais forte para o momento de virada.",
+     "trecho": "\"Fazei o que eu fazia quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera e perguntava a mim mesmo se não faltara a algum dever, se ninguém tivera motivo para de mim se queixar.\" E o critério de verificação: \"Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "C&I, 2ª parte, cap. VII (\"Angèle — Nulidade sobre a terra\")",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Ilustração narrativa do eixo 1, confirmada no locus indicado pela semente (cap. VII, 'Espíritos endurecidos', linhas 3212-3299 do raw).",
+     "trecho": "\"Sua vida foi inútil para o bem e por isso mesmo culpada, pois o mal nasce do bem negligenciado. Compreendei bem todos que não basta abster-vos das faltas: é preciso praticar as virtudes que lhes são opostas.\" Nota: o relato antecede com o diagnóstico — \"Sem defeitos sérios, mas sem qualidades\" — que é a frase mais aproveitável para a plateia.",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. VI, itens 3 e 4",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Confirma a leitura da semente: a epígrafe de Kardec abre em Jo 14:15, na condição ('Se me amais, guardai os meus mandamentos'), antes de chegar à promessa do Consolador.",
+     "trecho": "Item 3: \"Se me amais, guardai os meus mandamentos; e eu rogarei a meu Pai e ele vos enviará outro Consolador, a fim de que fique eternamente convosco: — O Espírito de Verdade, que o mundo não pode receber, porque o não vê e absolutamente o não conhece.\" Item 4: \"O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade. Ele chama os homens à observância da lei.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "wiki/conceitos/homem-de-bem",
+     "nivel": "wiki",
+     "relevancia_foco": "Página da wiki que já consolida o retrato de ESE cap. XVII, item 3; a varredura acrescenta que o LE q. 918 é a versão anterior e mais curta do mesmo retrato, com a linha do 'depósito' que o ESE não traz.",
+     "trecho": "Cross-ref interno. O par a citar em palestra é ESE, cap. XVII, item 3 + LE, q. 918 — mesma estrutura de exame de consciência, formulações complementares.",
+     "citavel": false
+    }
+   ],
+   "citacoes_pentateuco": [
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVIII, item 6",
+     "afirmacao": "Jesus declara insuficientes os credenciais religiosos mais altos (profetizar, expulsar demônios, milagres em seu nome): o critério é fazer a vontade do Pai — âncora evangélica do tema."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVIII, item 7",
+     "afirmacao": "Ouvir e praticar é casa sobre a rocha; ouvir sem praticar é casa sobre a areia — imagem de fecho para o par palavra/ato."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVIII, item 9",
+     "afirmacao": "Kardec antecipa a tríade pregador/literato/simpatizante: de nada serve chamar Jesus de Mestre sem lhe seguir os preceitos; condena quem 'desmente com os atos o que diz com os lábios'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVIII, item 10",
+     "afirmacao": "Muito se pedirá àquele a quem muito se houver dado — justifica dirigir a cobrança do cap. 173 a uma plateia já espírita."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XXI, item 8",
+     "afirmacao": "São as obras que se devem examinar; só quando os atos apoiam as palavras é que se pode dizer 'estes são enviados de Deus'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVII, item 3",
+     "afirmacao": "Retrato do verdadeiro homem de bem: o exame não para em 'não praticou o mal', segue para 'fez todo o bem que podia'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XVII, item 4",
+     "afirmacao": "Muitos creem nos fatos das manifestações e não lhes aplicam a si mesmos o alcance moral — o diagnóstico do simpatizante."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XV, item 10",
+     "afirmacao": "Uma virtude negativa não basta: é necessária uma virtude ativa; e o testemunho se afere de fora — 'verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XV, item 4",
+     "afirmacao": "Os dois mandamentos contêm toda a lei e os profetas — guardar os mandamentos é praticar a lei de amor, não observância ritual."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XIII, item 1",
+     "afirmacao": "Contrapeso: não praticar as boas obras diante dos homens para serem vistas; quem busca o louvor dos homens já recebeu sua recompensa."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XIII, item 4",
+     "afirmacao": "Caso narrativo de nível 1 (a dama desconhecida) — testemunho sem nome nem rótulo: 'É espírita ela? Que importa!'"
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XXIV, item 1",
+     "afirmacao": "Mt 5:15 — a candeia vai sobre o candeeiro; é o versículo que Kardec de fato recolhe (Mt 5:16 NÃO está no ESE)."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XXIV, item 4",
+     "afirmacao": "Kardec lê a candeia como revelação graduada da verdade, não como exibição de boas obras — ensino proporcionado à inteligência de quem o recebe."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XXIV, item 15",
+     "afirmacao": "É covardia esconder a fé por interesse material; quem se arreceia de se confessar discípulo da verdade não é digno do reino da verdade."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XXIV, item 16",
+     "afirmacao": "Aplicação explícita aos espíritas: colherão na vida espiritual os frutos da sua coragem ou da sua fraqueza."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. VII, item 4",
+     "afirmacao": "Mt 20:20-28 — quem quiser ser o maior seja vosso servo; o Filho do homem não veio para ser servido, mas para servir (eixo dos dois poderes)."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. VII, item 6",
+     "afirmacao": "Os títulos, a glória e a riqueza não atravessam a morte: chegam ao outro mundo 'como náufragos que tudo perderam, até as próprias roupas'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. VI, item 3",
+     "afirmacao": "A epígrafe do Consolador começa na condição, Jo 14:15 — 'Se me amais, guardai os meus mandamentos'."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. VI, item 4",
+     "afirmacao": "O Espiritismo cumpre a promessa do Cristo e 'chama os homens à observância da lei' — o dom vem com encargo."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XIX, item 12",
+     "afirmacao": "A fé é alavanca: 'a vontade de querer e a certeza de que essa vontade pode obter satisfação' — define o poder concedido sem leitura mágica."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XX, item 3",
+     "afirmacao": "Os espíritas são os obreiros da última hora, herdeiros do trabalho de profetas, apóstolos e mártires."
+    },
+    {
+     "sigla": "ESE",
+     "ref": "cap. XX, item 5",
+     "afirmacao": "Deus já marcou aqueles 'cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos'."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 918",
+     "afirmacao": "O Espírito prova sua elevação quando todos os atos da vida corporal representam a prática da lei de Deus; poder e riqueza são 'UM DEPÓSITO' de que se presta contas."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 642",
+     "afirmacao": "Não basta não praticar o mal: responde-se por todo mal resultante do bem não praticado."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 643",
+     "afirmacao": "Fazer o bem não é apenas ser beneficente, é ser útil sempre que o próprio concurso possa ser necessário — ninguém está dispensado."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 917",
+     "afirmacao": "O exemplo é mecanismo moral: 'todos experimentarão a influência moralizadora do exemplo e do contato'; a cura do egoísmo é a educação que faz homens de bem, não instruídos."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 893",
+     "afirmacao": "A virtude mais meritória assenta na caridade mais desinteressada, sem pensamento oculto — critério que separa testemunho de performance."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 886",
+     "afirmacao": "Caridade segundo Jesus é benevolência, indulgência e perdão, e abrange todas as relações — com inferiores, iguais e superiores."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 896",
+     "afirmacao": "A riqueza é depósito de que se presta contas: responde-se pelo bem que se podia fazer e não se fez."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 625",
+     "afirmacao": "Jesus é o tipo mais perfeito oferecido por Deus como guia e modelo — a salvação passa pela imitação, não pela adesão."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 919",
+     "afirmacao": "O conhece-te a ti mesmo de Santo Agostinho, com método: exame de consciência ao fim do dia e a pergunta-espelho ('como qualificaria essa ação se praticada por outro?')."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 132",
+     "afirmacao": "Cooperar na obra da criação é finalidade da encarnação: 'concorrendo para a obra geral, ele próprio se adianta'."
+    },
+    {
+     "sigla": "LE",
+     "ref": "q. 685",
+     "afirmacao": "A educação que redime é a moral — 'a arte de formar os caracteres', não a educação pelos livros."
+    },
+    {
+     "sigla": "C&I",
+     "ref": "2ª parte, cap. VII",
+     "afirmacao": "Relato de Angèle ('Nulidade sobre a terra'): 'o mal nasce do bem negligenciado'; e a rainha de Oude, no mesmo capítulo, como a coluna do poder terreno. Atenção: cap. VII da 2ª parte intitula-se 'Espíritos endurecidos' e os relatos são nominais, sem numeração de item."
+    },
+    {
+     "sigla": "C&I",
+     "ref": "2ª parte, cap. VIII",
+     "afirmacao": "Relato de Szymel Slizgol, o mendigo de Vilna que passou da regra negativa à positiva — 'todo aquele que se elevar será abaixado'. Capítulo 'Expiações terrestres', relatos nominais."
+    }
+   ],
+   "notas": "ACHADO QUE MUDA O ROTEIRO — a âncora do tema não é At 1:8. Atos é escrito apostólico, não Evangelho, e fica um degrau abaixo de Jesus na hierarquia do CLAUDE.md §2. A âncora evangélica própria de 'testemunhar não é pregar' é Mt 7:21-27, e Kardec a recolhe inteira em ESE, cap. XVIII, itens 6-7, com o comentário do item 9 que é, literalmente, a tríade de Emmanuel escrita 75 anos antes: 'de que serve lhe chamarem Mestre ou Senhor, se não lhe seguem os preceitos?'. Recomendação: manter At 1:8 na abertura (é a promessa, e a semente já a articula bem com Jo 14:15-17), mas fazer o eixo 5 desembocar em ESE cap. XVIII, itens 6 e 9 — o fecho ganha autoridade de nível 1 em vez de depender de Emmanuel.\n\nALERTA DE CITAÇÃO — Mt 5:16 ('assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras') NÃO consta do ESE. Verificado por varredura do raw: as únicas ocorrências de 'resplandeç' no ESE são a Introdução (linha 71) e cap. XVII (linha 2927), nenhuma delas o versículo. Kardec recolhe apenas Mt 5:15 (cap. XXIV, item 1) e Lc 8:16-17 (item 2). Como Mt 5:16 é o versículo que todo palestrante cita de cor neste tema, o risco de atribuí-lo ao ESE é alto. Ele pode e deve ser usado — como Evangelho, fonte primordial, citado pela ACF — mas nunca como '(ESE, cap. XXIV, item 1)'.\n\nTENSÃO DOUTRINÁRIA A RESOLVER EM VOZ ALTA (não é divergência; é dialética interna do Pentateuco) — ESE cap. XIII, item 1 manda não praticar boas obras diante dos homens; ESE cap. XXIV manda não pôr a candeia debaixo do alqueire. E o comentário de Kardec no cap. XXIV, item 4 mostra que a candeia não é sobre exibir virtude, e sim sobre revelar a verdade na medida em que o ouvinte a suporta; itens 15-16 completam: o que se professa abertamente é a fé, e escondê-la por interesse é covardia. A síntese que a palestra pode oferecer: fica visível a CONDUTA e a FÉ PROFESSADA; fica oculto o BENEFÍCIO INDIVIDUAL e o MÉRITO. É exatamente o que o relato da dama desconhecida (cap. XIII, item 4) encena — ela é reconhecida pelo que faz e manda calar quem a identifica. Esse relato é, a meu ver, o melhor caso disponível para a palestra inteira, e é nível 1: dispensa recorrer a Chico ou a Napoleão para o eixo 3.\n\nCONTRIBUIÇÃO NOVA MAIS FORTE PARA O EIXO 'PREPOSTOS' — LE q. 918 fecha dois buracos de uma vez. Primeiro, define testemunho sem usar a palavra: 'o Espírito prova a sua elevação quando todos os atos de sua vida corporal representam a prática da lei de Deus'. Segundo, traz a metáfora jurídica que a semente atribui a Emmanuel — 'Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSITO' — com as maiúsculas no original da FEB, o que dá um recurso visual de slide. LE q. 896 repete o termo ('Representa um depósito de que uns e outros terão de prestar contas'). A semente cita ESE cap. XVII, item 3 para o homem de bem; q. 918 é a formulação anterior do MESMO retrato no LE, e o par ESE XVII.3 + LE 918 é mais forte que qualquer um isolado.\n\nCONFIRMAÇÕES DE LOCUS DA SEMENTE — todas as citações do Pentateuco presentes na semente foram reconferidas com cite.py e batem literalmente, inclusive as duas que pareciam arriscadas: Angèle e 'a rainha de Oude' estão de fato em C&I, 2ª parte, cap. VII (linhas 3239 e 3268 do raw, dentro do span 3212-3299 do capítulo 'Espíritos endurecidos'), e Szymel Slizgol em cap. VIII (linha 3315, span 3300-3500). Ressalva registrada: a 2ª parte de C&I não tem numeração de item — cite.py emite aviso —, por isso a citação correta traz o nome do relato, como a semente já faz. A frase de educação atribuída a LE q. 685 está de fato lá, no comentário de Kardec à questão sobre o repouso na velhice; quem for conferir pelo enunciado da questão vai estranhar, então vale a nota de rodapé.\n\nNÃO LEVANTADO POR FALTA DE PERTINÊNCIA — Gênese não contribui ao foco (é cosmogonia e milagres; o único ângulo seria a lei do progresso, redundante com ESE cap. XX). LM tem material sobre influência moral do médium, mas o cap. 173 não trata de mediunidade e puxar LM aqui deslocaria o eixo moral para o mediúnico; se o painel quiser esse ângulo, o locus a pedir é LM, 2ª parte, cap. XX, não algo que eu tenha verificado nesta rodada — não incluí em citacoes_pentateuco por isso."
+  },
+  {
+   "lente": "Vozes consagradas (nível 3) sobre testemunhar por atos/exemplo — em contraste com título, discurso e simpatia — como aprofundamento de wiki/aprofundamentos/como-testemunhar-pao-nosso-173.md. Cobertura visada: Léon Denis, Emmanuel (O Consolador, Caminho Verdade e Vida, Pensamento e Vida), André Luiz, Joanna de Ângelis/Divaldo, Bezerra de Menezes, Cairbar Schutel, Yvonne Pereira.",
+   "achados": [
+    {
+     "fonte": "Léon Denis, discurso na Fundação da União Espírita Francesa (1882), in raw/autores/leon-denis/fundacao-da-uniao-espirita-francesa.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Reforça que a legitimidade do testemunho não vem de posição, recursos ou eloquência, mas da fé vivida com humildade — ecoa a desqualificação do 'simpatizante' e do 'orador' na sentença 8 e o critério do 'dever cumprido' do eixo 3.",
+     "trecho": "'Todas as grandes ideias, todas as doutrinas novas foram vulgarizadas pelos pequenos, pelos humildes. Exemplo, os primeiros cristãos. Nós temos como eles a fé, mas mais do que eles temos conosco a razão e os fatos. Não nos falta senão a união.' Léon Denis conclama os primeiros federados a agir 'com um desinteresse absoluto, um devotamento sem limites à causa' — o mesmo registro de dever cumprido sem título.",
+     "citavel": true
+    },
+    {
+     "fonte": "Emmanuel / Chico Xavier, O Espírito da Verdade, cap. 94 \"Verdade e crença\" (epígrafe Jo 8:46), in raw/mediuns/chico-xavier/emmanuel/o-espirito-da-verdade.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Modelo cristológico do testemunho: o próprio Jesus 'prova' a verdade pelo exemplo e não pela palavra isolada — sustenta doutrinariamente por que pregador/literato/simpatizante (sentença 8) ficam aquém, e antecipa a tensão teoria/prática do eixo 1 (virtude ativa).",
+     "trecho": "\"Provou com os próprios testemunhos a excelência de seus ensinos... Não temeu, nem vacilou ao indicar a realidade, nem fugiu de demonstrá-la no próprio exemplo. Não aguardou bonificações: serviu sempre. De ninguém reclamou: sacrificou a si mesmo. Não permaneceu em posição de neutralidade: definiu-se.\" E conclui: \"Cabe... a quem recolhe os dons divinos da claridade evangélica... esposar ostensivamente a Vida Cristã, na elucubração da teoria e no esforço da aplicação.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "André Luiz / Chico Xavier, Nosso Lar, caps. 13-14 (Ministro Clarêncio) — via wiki/personalidades/clarencio.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Achado forte para o eixo 3 ('o título externo não credencia'): a própria hierarquia espiritual desarma o título acadêmico como atalho, tratando-o como mera 'ficha' — paralelo direto ao 'preposto' do cap. 173 e ao homem de bem sem título de ESE cap. XVII, item 3.",
+     "trecho": "\"O título, para nós, é simplesmente uma ficha; mas, no mundo, costuma representar uma porta aberta a todos os disparates\" (Clarêncio a André Luiz, cap. 14). E, sobre cooperação vs. simpatia passiva: \"Os que não cooperam não recebem cooperação. Isso é da lei eterna\" (cap. 13, à mãe que só acumulou bônus-hora após recusar cinco designações).",
+     "citavel": true
+    },
+    {
+     "fonte": "André Luiz / Chico Xavier, Libertação, prefácio (Pedro Leopoldo, 22/02/1949), in raw/mediuns/chico-xavier/andre-luiz/libertacao.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Fecha o eixo 'dever cumprido, não simpatia': mérito por obras, ecoando LE q. 642-643 e a sentença 1-2 do cap. 173 — cooperar é o objetivo, e humildes servidores sem nome fazem o trabalho que pregadores ilustres não fazem.",
+     "trecho": "\"Mas, sem André Luiz e sem nós, humildes servidores de boa vontade, para todos os caminheiros da vida humana pronunciou o Pastor Divino as indeléveis palavras: — 'A cada um será dado de acordo com as suas obras.'\"",
+     "citavel": true
+    },
+    {
+     "fonte": "Yvonne Pereira, Recordações da Mediunidade, Introdução — via wiki/personalidades/yvonne-pereira.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Testemunho em primeira pessoa que corresponde literalmente ao título do cap. 173 — a própria vida (não o discurso sobre ela) como prova viva da Doutrina; bom gancho para o fecho de exame de consciência da palestra, ao lado do caso do Nobel de Chico Xavier.",
+     "trecho": "\"Consideramo-nos testemunho vivo do valor do Espiritismo na recuperação de uma alma para si mesma e para Deus.\"",
+     "citavel": true
+    },
+    {
+     "fonte": "Humberto de Campos / Chico Xavier, Brasil, Coração do Mundo, Pátria do Evangelho, cap. 28 — via wiki/personalidades/bezerra-de-menezes.md",
+     "nivel": "consagrado",
+     "relevancia_foco": "Único achado doutrinário direto sobre Bezerra de Menezes ligado ao foco: caridade prática colocada explicitamente acima de erudição/título — reforça o eixo 3 e o retrato de ESE cap. XVII sem depender de credencial. Bezerra funciona no corpus muito mais como personagem biográfico (Médico dos Pobres, articulador da FEB) do que como voz doutrinária citável em primeira pessoa sobre 'testemunhar'.",
+     "trecho": "Sob orientação direta de Jesus, é dito a Bezerra que \"a caridade valerá mais que todas as ciências e filosofias\" — a orientação que o desloca da erudição intelectual para a assistência prática aos necessitados, marca que definirá o Espiritismo no Brasil.",
+     "citavel": false
+    },
+    {
+     "fonte": "Estudo Aprofundado da Doutrina Espírita (EAD, FEB) — narrativa da Última Ceia, provável romance histórico psicografado não identificado com segurança (Humberto de Campos ou Emmanuel), in raw/artigos/feb/estudo-aprofundado-da-doutrina-espirita-eade-05-volumes-consolidados.md:2115",
+     "nivel": "secundario",
+     "relevancia_foco": "Fala atribuída a Jesus sobre testemunho independente de circunstância ('não importa onde e como') e a crítica a Judas por buscar vencer 'com o amparo dos prepostos de César' — ecoa a família de metáforas de 'prepostos' que a própria semente reserva (seção ainda vazia '#### Prepostos — a metáfora jurídica'), mas a proveniência exata da citação não foi confirmada nesta varredura.",
+     "trecho": "\"Uma das maiores virtudes do discípulo do Evangelho é a de estar sempre pronto ao chamado da Providência divina. Não importa onde e como seja o testemunho de nossa fé.\" Sobre Judas: buscava um Evangelho que só pudesse \"vencer com o amparo dos prepostos de César ou das autoridades administrativas de Jerusalém\".",
+     "citavel": false
+    }
+   ],
+   "notas": "Cobertura desigual entre os sete autores pedidos. Fortes e diretamente citáveis: Léon Denis (discurso de 1882, achado novo fora da pré-busca), Emmanuel via *O Espírito da Verdade* (cap. 94 é o melhor achado da lente — Jesus provando a doutrina 'no próprio exemplo', quase paráfrase da tese do dossiê), André Luiz (dois achados independentes — Nosso Lar/Clarêncio sobre título como 'ficha', e o prefácio de Libertação sobre mérito por obras) e Yvonne Pereira (a frase-título de Recordações da Mediunidade encaixa quase didaticamente no tema 'testemunho'). Nenhuma tensão doutrinária com o Pentateuco foi encontrada — todos os achados convergem e aprofundam LE q. 642-643 e ESE cap. XVII/XXI, sem contradizê-los; portanto não há divergência a registrar.\n\nGaps a declarar (busca ativa, sem achado satisfatório): (1) Bezerra de Menezes tem pouquíssima voz doutrinária em primeira pessoa no corpus raw/wiki — ele existe majoritariamente como personagem biográfico (Médico dos Pobres, articulador da FEB); o único gancho doutrinário direto veio de terceira mão (Humberto de Campos narrando orientação de Jesus a ele), então marquei citavel:false e recomendo não forçar Bezerra como voz autônoma nesta palestra. (2) Cairbar Schutel: buscas por 'obras vs. palavras' e por *Vida e Atos dos Apóstolos* (que seria o gancho mais natural, dado que o cap. 173 fecha o bloco de Atos) só retornaram prefácios e material bibliográfico/biográfico — nenhum trecho doutrinário citável sobre testemunho por exemplo foi localizado; não incluí achado para não forçar. (3) Joanna de Ângelis (via Divaldo): o corpus é fortemente psicológico-terapêutico (autoconhecimento, integração com psicologia transpessoal) e não produziu quote direta sobre testemunho-por-exemplo vs. título/discurso para este foco específico — o gancho mais próximo ('a Caridade como terapia... modelo de aplicação correta para o amor', em *Momentos de Saúde e Consciência*) é tangencial demais para valer achado próprio. (4) Emmanuel nas obras nomeadas *O Consolador*, *Caminho Verdade e Vida* e *Pensamento e Vida*: busquei especificamente e não encontrei material novo além do que a própria semente já cita (a passagem sobre educação/lar, de *O Consolador*); o achado forte de Emmanuel veio de uma obra não listada no pedido (*O Espírito da Verdade*), o que vale a pena registrar como direção de busca mais produtiva que as três nomeadas.\n\nTodos os trechos são paráfrases próximas ao literal, obtidas por leitura direta (`get`) do arquivo raw/wiki (não snippet de busca) — mais confiáveis que uma busca lex/vec pura, mas ainda não verificadas com o rigor do cite.py (que só se aplica ao Pentateuco). Antes de citar em slide, cotejar cada trecho marcado citavel:true com a edição impressa/PDF de origem.\n\nPesquisa psíquica (Flammarion, Bozzano): nenhuma fonte dessa camada apareceu como relevante para este foco — o tema é moral/comportamental (testemunho por exemplo), não fenomenológico, então essa camada não se aplica aqui."
+  },
+  {
+   "lente": "tensões e objeções",
+   "achados": [
+    {
+     "fonte": "ESE, cap. XV, item 9 (e item 8)",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Se o título/rótulo externo não credencia o testemunho (sent. 4-5), isso não relativiza a importância de pertencer a uma religião ou doutrina específica — vira um ecumenismo raso, indiferente a que crença se professa?",
+     "trecho": "\"O Espiritismo, de acordo com o Evangelho, admitindo a salvação para todos, independente de qualquer crença, contanto que a lei de Deus seja observada, não diz: Fora do Espiritismo não há salvação (...) pois que esta máxima separaria em lugar de unir e perpetuaria os antagonismos.\" (ESE, cap. XV, item 9) — e o item anterior: \"A máxima – Fora da caridade não há salvação – consagra o princípio da igualdade perante Deus e da liberdade de consciência (...) Fora da Igreja não há salvação (...) é um dogma essencialmente contrário aos ensinamentos do Cristo\" (ESE, cap. XV, item 8). A chave que dissolve a tensão: não é relativismo doutrinário — é o próprio Kardec quem distingue \"fora da caridade\" (universal, o único critério) de \"fora da verdade\"/\"fora da Igreja\" (exclusivista, que o Espiritismo recusa para si mesmo). O capítulo 173 pede o abandono do título como *credencial*, não da doutrina como *bússola*.",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 683",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "\"Fazer todo o bem que se pode\" (LE q. 642-643, já citado na semente) soa a padrão impossível — não vira escrúpulo, culpa permanente, uma régua que ninguém alcança?",
+     "trecho": "\"683. Qual o limite do trabalho? — 'O das forças; quanto ao resto, Deus deixa livre o homem.'\" A chave: o próprio Codificador pergunta pelo *limite* do dever, na mesma Lei de Trabalho que ancora a Lei de Caridade — a exigência é sempre proporcional às forças de cada um, nunca absoluta. Isso já está embutido em LE q. 643 (\"na medida do possível\"), mas a plateia pede o locus que nomeia o limite: fazer o bem \"no limite de suas forças\" (LE, q. 642) não é hipérbole retórica, é cláusula literal.",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 897",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "\"Colherão lá os frutos da sua coragem ou da sua fraqueza\" (ESE cap. XXIV, item 16, já citado na semente) soa a barganha espiritual — contradiz a caridade desinteressada, que a própria Doutrina exige (LE q. 893)?",
+     "trecho": "\"897. Merecerá reprovação aquele que faz o bem sem visar a qualquer recompensa na Terra, mas esperando que lhe seja levado em conta na outra vida? — 'O bem deve ser feito caritativamente, isto é, com desinteresse.' a) Contudo, todos alimentam o desejo muito natural de progredir (...) Será, então, um mal pensarmos que, praticando o bem, podemos esperar coisa melhor? — 'Não, certamente; mas aquele que faz o bem sem ideia preconcebida (...) já se acha num certo grau de progresso (...) muito mais depressa do que seu irmão que, mais positivo, faz o bem por cálculo.'\" A chave: a colheita (LE q. 893, \"a mais desinteressada caridade\" é a mais meritória) descreve uma lei natural de causa e efeito, não uma barganha motivacional — o cálculo é o que rebaixa o mérito, não o fato objetivo de que toda ação semeia consequência.",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. X, item 13",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Se o critério de testemunho vira \"fazer atos\" em vez de \"ter título\", a exigência não corre o risco de virar uma nova letra — um checklist mecânico de boas ações sem amor, tão vazio quanto o rótulo que o capítulo já rejeitou?",
+     "trecho": "\"Importa, pois, não se tome em sentido absoluto este princípio (...) porquanto a letra mata e o espírito vivifica.\" (ESE, cap. X, item 13) — Kardec cunha a fórmula (2 Co 3:6) precisamente para impedir a aplicação mecânica e absoluta de um preceito moral. A chave: aplicada ao próprio cap. 173, ela impede a leitura de \"fazer todo o bem que pode\" como lista de tarefas — o que credencia é a caridade como intenção (cf. LE q. 895, \"o interesse pessoal\" como sinal de imperfeição), não o ato isolado do ânimo que o produz.",
+     "citavel": true
+    },
+    {
+     "fonte": "LE, q. 584",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Chamar Napoleão de \"missionário\" que \"recebeu poder e usou mal o terreno\" (A Caminho da Luz, cap. 22, já citado na semente) não é um determinismo providencial que acaba escusando o abuso de poder — \"a missão existia, logo o mal serviu a um plano maior\"?",
+     "trecho": "\"584. De que natureza será a missão do conquistador que apenas visa satisfazer à sua ambição (...)? — 'As mais das vezes não passa de um instrumento de que se serve Deus para cumprimento de seus desígnios (...)' a) Aquele que delas se constitui instrumento tirará, não obstante, proveito desse bem? — 'Cada um é recompensado de acordo com as suas obras, com o bem que intentou fazer e com a retidão de suas intenções.'\" A chave que dissolve a tensão, cirúrgica para o caso Napoleão do próprio dossiê: Deus pode usar a ambição como instrumento de um desígnio maior sem que isso apague a responsabilidade do agente — o mérito (ou demérito) se mede pela intenção pessoal, não pelo resultado providencial. Livre-arbítrio e Providência coexistem sem que uma anule a outra.",
+     "citavel": true
+    },
+    {
+     "fonte": "Mt 11:28-30",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "O exame de consciência do cap. 173 (\"não basta abster-se do mal\") pode soar a fardo sem fim, um religioso permanentemente insatisfeito consigo — não contradiz o próprio Jesus que promete um \"jugo suave\"?",
+     "trecho": "\"Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. Porque o meu jugo é suave e o meu fardo é leve.\" (Mt 11:28-30) A chave: o \"jugo suave\" não é ausência de exigência — é exigência sem o peso do orgulho e do cálculo egoísta que a acompanham fora da caridade (cf. ESE cap. XV, item 3: \"caridade e humildade, tal a senda única\"). O fardo pesa quando carregado com vaidade de resultado; alivia quando carregado como serviço (cf. \"prepostos\", sent. 1-2 da semente). A tensão é pastoral, não doutrinária: útil para o fecho da palestra, não como contradição a resolver.",
+     "citavel": true
+    },
+    {
+     "fonte": "ESE, cap. XXI, item 8",
+     "nivel": "jesus-pentateuco",
+     "relevancia_foco": "Desqualificar o \"orador\" e o \"escritor\" como testemunhas (sent. 8) não desvaloriza a própria pregação e a literatura espírita como instrumentos legítimos de evangelização — inclusive a atividade em curso na palestra?",
+     "trecho": "\"Se, em apoio das palavras, apresentam os atos, podereis então dizer: Estes são realmente enviados de Deus. Desconfiai, porém, das palavras melífluas.\" (ESE, cap. XXI, item 8) A chave: o capítulo não condena a palavra — condena a palavra dissociada do ato. \"Conhece-se a árvore pelo fruto\" (mesmo item) é o critério: pregar e escrever seguem legítimos quando o pregador também labuta (Paulo, tecelão em At 18:3, já citado na semente). O alvo do cap. 173 é a suficiência do rótulo, não a atividade de anunciar.",
+     "citavel": true
+    }
+   ],
+   "notas": "A lente de tensões deste tema é rica porque o cap. 173 opera por inversão retórica (título não credencia, poder verdadeiro é servir, palavra sem ato é vazia) — e toda inversão retórica convida a pergunta 'e o extremo oposto não é igualmente falso?'. As sete tensões levantadas cobrem os quatro pontos onde a plateia mais tende a travar: (1) ecumenismo/relativismo doutrinário — dissolvido por ESE XV.8-9, que é Kardec definindo com precisão o que NÃO está sendo relativizado; (2) perfeccionismo/escrúpulo — dissolvido por LE q.683 (limite = forças), que complementa sem repetir o LE q.642-643 já presente na semente; (3) mercantilização da caridade — dissolvido por LE q.897, que é mais preciso que o LE q.893 já citado no rascunho de página relacionada, porque responde exatamente 'é errado querer progredir?'; (4) legalismo às avessas (atos como nova letra) — dissolvido pela própria fórmula hermenêutica de Kardec (ESE X.13), achado NOVO que a semente ainda não usa (ela cita 'a letra mata' apenas em referência de outras páginas via wikilink indireto — vale considerar puxar esse locus para o corpo do dossiê, já que reforça o eixo 1 e o eixo 5 ao mesmo tempo). O achado mais forte é LE q.584 sobre o 'conquistador': resolve com precisão cirúrgica a tensão determinismo-vs-livre-arbítrio que o próprio caso Napoleão da semente (A Caminho da Luz, cap. 22) levanta sem citar Pentateuco algum — hoje aquele bloco da semente fica sem lastro de nível 1, e q.584 fecha exatamente essa lacuna. Mt 11:28-30 é a única tensão de registro predominantemente pastoral (não há contradição doutrinária real, só risco de leitura opressiva) — útil sobretudo para o fechamento da palestra, como contrapeso emocional ao exame de consciência do eixo 3. Nada encontrado em wiki/divergencias/ que trate especificamente de testemunho, caridade desinteressada ou títulos religiosos — não há divergência registrada aplicável a este tema; as tensões aqui são objeções de leitura/interpretação, não divergências entre níveis da hierarquia de autoridade."
+  }
+ ],
+ "termos": {
+  "termos": [
+   {
+    "termo": "Espírito de Verdade / Consolador",
+    "precisa_definir": true,
+    "justificativa": "É a peça que sustenta a ponte entre At 1:8 e o cap. 173: sem entender que 'o Consolador' e 'o Espírito de Verdade' são o mesmo Espiritismo prometido, o público ouve a promessa de Jesus como episódio bíblico isolado, e não como o próprio motivo de a plateia estar sentada ali. Termo doutrinário denso — precisa vir antes da tabela dos dois poderes.",
+    "definicao_doutrinaria": "O Consolador prometido por Jesus em João 14 é identificado por Kardec com o Espírito de Verdade cujo advento o Espiritismo cumpre: \"O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade. Ele chama os homens à observância da lei; ensina todas as coisas fazendo compreender o que Jesus só disse por parábolas.\" (ESE, cap. VI, item 4) — comentando a epígrafe do capítulo: \"e ele vos enviará outro Consolador (...) o Espírito de Verdade\" (ESE, cap. VI, item 3, citando S. João, 14:15 a 17 e 26).",
+    "definicao_cultural": "",
+    "fonte": "ESE, cap. VI, itens 3-4",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. VI, item 4"
+    }
+   },
+   {
+    "termo": "\"Poder\" do Espírito Santo (tradução de dýnamis, At 1:8) — não confundir com \"virtude\" moral",
+    "precisa_definir": true,
+    "justificativa": "A ACF verte At 1:8 como 'recebereis a virtude do Espírito Santo', e o público de hoje lê 'virtude' no sentido moderno (qualidade moral) — perdendo exatamente a antítese que sustenta o eixo 4 ('os dois poderes'). É falso cognato que precisa de desfazimento explícito antes de usar a palavra em slide.",
+    "definicao_doutrinaria": "Falso cognato de tradução, não conceito de Kardec: a ACF verte o grego dýnamis por \"virtude\" em At 1:8 (\"recebereis a virtude do Espírito Santo\"), sentido arcaico de força/poder — não a virtude moral do português corrente. A própria semente do dossiê observa: \"todo o capítulo [173] gira sobre a palavra 'poder'. Emmanuel aproveita a versão que traz 'poder' para construir (...) uma antítese entre dois poderes: o que a Terra já conhece e o que Jesus concede. Com 'virtude' a antítese se desfaz.\" Kardec não comenta o termo diretamente (a epígrafe de ESE cap. VI parte de João 14, não de Atos 1), mas a moldura doutrinária — o Consolador como Espírito de Verdade — é a mesma de ESE, cap. VI, item 4.",
+    "definicao_cultural": "",
+    "fonte": "At 1:8 (ACF); nota de tradução na própria semente do dossiê (wiki/aprofundamentos/como-testemunhar-pao-nosso-173); moldura doutrinária em ESE, cap. VI, item 4"
+   },
+   {
+    "termo": "Virtude ativa e virtude negativa",
+    "precisa_definir": true,
+    "justificativa": "É o par conceitual que abre o eixo 1 do cap. 173 e organiza toda a tabela da Síntese. 'Virtude negativa' soa a leigos como oxímoro (virtude sem conteúdo positivo); precisa da formulação exata de Kardec para não virar clichê motivacional vago.",
+    "definicao_doutrinaria": "\"Não só ela [a caridade] evitará que pratiqueis o mal, como também fará que pratiqueis o bem, porquanto uma virtude negativa não basta: é necessária uma virtude ativa; para fazer-se o bem, mister sempre se torna a ação da vontade; para não se praticar o mal, bastam as mais das vezes a inércia e a despreocupação.\" (ESE, cap. XV, item 10) — reforçada em LE, q. 642-643: \"cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem.\"",
+    "definicao_cultural": "",
+    "fonte": "ESE, cap. XV, item 10; LE, q. 642-643",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. XV, item 10"
+    }
+   },
+   {
+    "termo": "Homem de bem",
+    "precisa_definir": true,
+    "justificativa": "Termo técnico da Codificação — não é elogio genérico, é um perfil com critérios enumerados que substitui, no cap. 173, o 'título' (filiação religiosa, ordenação, diploma) como credencial de testemunho. Sem o locus exato o público reduz a expressão a bom-mocismo.",
+    "definicao_doutrinaria": "\"O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade, na sua maior pureza. Se ele interroga a consciência sobre seus próprios atos, a si mesmo perguntará se violou essa lei, se não praticou o mal, se fez todo o bem que podia, se desprezou voluntariamente alguma ocasião de ser útil (...)\" (ESE, cap. XVII, item 3). Há página-conceito dedicada: [[wiki/conceitos/homem-de-bem]].",
+    "definicao_cultural": "",
+    "fonte": "ESE, cap. XVII, item 3",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. XVII, item 3"
+    }
+   },
+   {
+    "termo": "Lei de justiça, de amor e de caridade",
+    "precisa_definir": true,
+    "justificativa": "Fórmula tripartite específica de Kardec (não é sinônimo solto de 'ser bom'), citada como critério do homem de bem no eixo 3. Vale nomear as três componentes para a plateia perceber que 'caridade' isolada não esgota o conceito.",
+    "definicao_doutrinaria": "\"O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade, na sua maior pureza.\" (ESE, cap. XVII, item 3). No LE, é a décima e última das leis morais tratadas na Parte 3, cap. XII (q. 873-919), o capítulo que fecha com o exame de consciência de LE, q. 919, também usado nesta palestra.",
+    "definicao_cultural": "",
+    "fonte": "ESE, cap. XVII, item 3; LE, Parte 3, cap. XII (q. 873-919)",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. XVII, item 3"
+    }
+   },
+   {
+    "termo": "Reforma íntima",
+    "precisa_definir": true,
+    "justificativa": "Tag central do frontmatter da semente e conceito implícito em toda a seção 'Não basta não fazer o mal' — mas a expressão em si (comum na fala de casa espírita) raramente é ancorada em locus. Vale mostrar que é prática concreta (exame diário), não intenção vaga.",
+    "definicao_doutrinaria": "Ancorada no método de autoexame de Santo Agostinho: \"Fazei o que eu fazia quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera (...) Foi assim que cheguei a me conhecer e a ver o que em mim precisava de reforma.\" (LE, q. 919) — \"O conhecimento de si mesmo é (...) a chave do progresso individual.\" A mesma lógica de exame de consciência aparece em ESE, cap. XVII, item 3, como perfil do homem de bem.",
+    "definicao_cultural": "",
+    "fonte": "LE, q. 919",
+    "citacao": {
+     "sigla": "LE",
+     "ref": "q. 919"
+    }
+   },
+   {
+    "termo": "Egoísmo (raiz dos vícios)",
+    "precisa_definir": true,
+    "justificativa": "O texto cita 'o egoísta nunca encontra ensejo' (LE, q. 643) em passagem, mas sem o locus que mostra por que Kardec trata o egoísmo como vício radical — não é só 'falta de generosidade', é a categoria oposta estrutural à caridade. Reforça a leitura do 'bem negligenciado'.",
+    "definicao_doutrinaria": "\"Dentre os vícios, qual o que se pode considerar radical? — 'Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. (...) Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade.'\" (LE, q. 913). Página-conceito: [[wiki/conceitos/egoismo]].",
+    "definicao_cultural": "",
+    "fonte": "LE, q. 913",
+    "citacao": {
+     "sigla": "LE",
+     "ref": "q. 913"
+    }
+   },
+   {
+    "termo": "Prova (sentido espírita — distinto de \"prova\" comum)",
+    "precisa_definir": true,
+    "justificativa": "A palavra é usada no cap. 173 e na Síntese em sentido técnico (vicissitude escolhida pelo Espírito para progredir), diferente do uso corrente ('prova' = evidência ou exame escolar). Sem distinção, plateia leiga confunde com 'castigo' — o que o próprio LE nega explicitamente.",
+    "definicao_doutrinaria": "\"Ele próprio [o Espírito] escolhe o gênero de provas por que há de passar, e nisso consiste o seu livre-arbítrio\" — e Kardec esclarece que não é castigo imposto por Deus: \"Dando ao Espírito a liberdade de escolher, Deus lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem.\" (LE, q. 258). Distinção sistemática com expiação em [[wiki/conceitos/provas-e-expiacoes]] e tratamento completo em [[wiki/aprofundamentos/escolha-de-provas]] (LE, q. 258-273).",
+    "definicao_cultural": "",
+    "fonte": "LE, q. 258 (q. 258-273 para o tratamento completo); wiki/conceitos/provas-e-expiacoes",
+    "citacao": {
+     "sigla": "LE",
+     "ref": "q. 258"
+    }
+   },
+   {
+    "termo": "Missão (sentido espírita)",
+    "precisa_definir": true,
+    "justificativa": "O caso de Napoleão ('recebeu poder e usou o terreno errado') só faz sentido doutrinário se o público souber que 'missão' não é ambição pessoal, mas encargo atribuído ao Espírito encarnado — daí a tragédia de Napoleão ser precisamente o desvio de uma missão real, não uma missão inventada.",
+    "definicao_doutrinaria": "\"Em que consiste a missão dos Espíritos encarnados? — 'Em instruir os homens; em lhes auxiliar o progresso; em lhes melhorar as instituições, por meios diretos e materiais. As missões, porém, são mais ou menos gerais e importantes. (...) Cada um tem neste mundo a sua missão, porque todos podem ter alguma utilidade.'\" (LE, q. 573).",
+    "definicao_cultural": "",
+    "fonte": "LE, q. 573",
+    "citacao": {
+     "sigla": "LE",
+     "ref": "q. 573"
+    }
+   },
+   {
+    "termo": "Preposto (metáfora jurídica de Emmanuel)",
+    "precisa_definir": true,
+    "justificativa": "Palavra fora do vocabulário corrente (jargão jurídico), usada por Emmanuel no cap. 173 para caracterizar o discípulo. A própria semente já a desenvolve em detalhe ('#### Prepostos — a metáfora jurídica') — só falta trazer a definição para o glossário da palestra, porque sem ela a plateia não distingue 'preposto' de 'representante genérico'.",
+    "definicao_doutrinaria": "\"Preposto é termo do direito: é quem age em nome de outro — o preponente —, dentro de poderes recebidos, e cuja conduta vincula o preponente perante terceiros.\" Quatro implicações desenvolvidas na própria semente: a autoridade é emprestada, os poderes são limitados ao mandato, o ato do preposto compromete o preponente, e a representação é encargo (não honraria). \"O ato do preposto compromete o preponente (...): o que o representante faz é imputado a quem ele representa.\" (wiki/aprofundamentos/como-testemunhar-pao-nosso-173, seção \"Prepostos — a metáfora jurídica\", glosando Emmanuel / Chico Xavier, Pão Nosso, cap. 173).",
+    "definicao_cultural": "",
+    "fonte": "Emmanuel / Chico Xavier, Pão Nosso, cap. 173 (o termo em si); glosa em wiki/aprofundamentos/como-testemunhar-pao-nosso-173"
+   },
+   {
+    "termo": "Testemunha / testemunho (sentido evangélico do capítulo)",
+    "precisa_definir": true,
+    "justificativa": "É o termo-título da palestra, e precisa ser desfeito do sentido jurídico comum ('quem presta depoimento') e do sentido evangelístico protestante ('dar testemunho' = relatar experiência de fé em público) antes que a plateia projete um desses dois sobre o capítulo. O sentido do cap. 173 é conduta que reflete, não relato nem discurso.",
+    "definicao_doutrinaria": "Promessa-origem: \"Mas recebereis o poder do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas (...) até aos confins da Terra.\" (At 1:8). Critério kardecista de verificação: \"São as obras que deveis examinar. (...) se, em apoio das palavras, apresentam os atos, podereis então dizer: Estes são realmente enviados de Deus. Desconfiai, porém, das palavras melífluas.\" (ESE, cap. XXI, item 8). O cap. 173 emparelha 'testemunhas' com 'prepostos' — ver o termo relacionado.",
+    "definicao_cultural": "",
+    "fonte": "At 1:8; ESE, cap. XXI, item 8",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. XXI, item 8"
+    }
+   },
+   {
+    "termo": "Anátema",
+    "precisa_definir": true,
+    "justificativa": "Termo arcaico de baixa frequência no português falado hoje (herança do vocabulário eclesiástico de excomunhão/maldição); aparece na descrição do homem de bem ('não lança anátema aos que como ele não pensam') e, sem glosa rápida, a plateia perde o sentido da frase inteira.",
+    "definicao_doutrinaria": "Kardec aplica a proibição explicitamente aos espíritas: \"Lançar anátemas sobre aqueles que não pensam como nós (...) é violar o primeiro mandamento de Jesus\" (OPE, A Prece Segundo o Evangelho). No retrato do homem de bem, a mesma recusa aparece como traço de caráter (ESE, cap. XVII, item 3, continuação: \"não lança anátema aos que como ele não pensam\").",
+    "definicao_cultural": "",
+    "fonte": "OPE, \"A Prece Segundo o Evangelho\"; ESE, cap. XVII, item 3"
+   },
+   {
+    "termo": "Pentecostes",
+    "precisa_definir": true,
+    "justificativa": "Evento do calendário judaico-cristão (Atos 2) que estrutura implicitamente todo o 'bloco de Atos' da semente, mas o termo em si não é explicado nela. Público misto de casa espírita nem sempre tem repertório bíblico de infância — vale uma frase de contexto antes de assumir que todos sabem o que é.",
+    "definicao_doutrinaria": "Não é conceito espírita, é evento bíblico (Atos 2) que Kardec relê como figura do advento do Espiritismo: \"O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade.\" (ESE, cap. VI, item 4) — a mesma promessa cujo cumprimento histórico-cristão é tradicionalmente identificado com o Pentecostes de Atos 2.",
+    "definicao_cultural": "",
+    "fonte": "At 2 (evento); leitura doutrinária em ESE, cap. VI, item 4",
+    "citacao": {
+     "sigla": "ESE",
+     "ref": "cap. VI, item 4"
+    }
+   },
+   {
+    "termo": "Humildade",
+    "precisa_definir": false,
+    "justificativa": "Palavra de uso corrente, sentido estável para qualquer plateia; a densidade doutrinária do eixo 4 está na inversão de poderes ilustrada pelos casos (rainha de Oude, Slizgol), não na palavra em si. Definir formalmente renderia o momento didático mais lento sem ganho de clareza — a página-conceito [[wiki/conceitos/humildade]] fica disponível para quem quiser aprofundar depois."
+   },
+   {
+    "termo": "Livre-arbítrio",
+    "precisa_definir": false,
+    "justificativa": "Vocabulário-base do Espiritismo, já assumido como conhecido pelo público típico de casa espírita (misto, mas não iniciante em doutrina); aparece apenas de passagem (LE, q. 258, na escolha das provas) sem carregar peso argumentativo próprio nesta palestra especificamente. Não vale o tempo de slide que tiraria do eixo central."
+   },
+   {
+    "termo": "Encarnação",
+    "precisa_definir": false,
+    "justificativa": "Termo onipresente em qualquer palestra espírita; tratá-lo como se precisasse de definição sinalizaria à plateia (erradamente) que o tema é básico demais para o assunto real da palestra, que é o testemunho. Usar diretamente, sem pausa didática."
+   }
+  ]
+ },
+ "casos": {
+  "candidatos": [
+   {
+    "titulo": "Os dois filhos e a vinha",
+    "fonte": "Mt 21:28-32; ESE, cap. XVII, item 7 e cap. XVIII, item 10",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Um pai pede a dois filhos que trabalhem na vinha. O primeiro diz \"não quero\" mas depois se arrepende e vai; o segundo diz \"sim, senhor\" e não vai. Jesus pergunta qual dos dois fez a vontade do pai.",
+    "ilustra": "É o contraponto exato do fecho do capítulo 173 (sentença 8): testemunho não é dizer \"sim\", é ir à vinha. O segundo filho é o retrato do \"simpatizante\" — adesão verbal sem ato — que a sentença 8 desqualifica; o primeiro é o arrependimento que produz obra (cf. eixo 5 do dossiê). Kardec, no mesmo espírito: \"não têm testemunhas as suas vitórias\" (ESE, cap. XVII, item 7) — o dever cumprido em silêncio é o que conta, não a resposta pública dada de boca.",
+    "como_contar": "Gancho: perguntar à plateia \"quantos aqui já disseram sim a alguma coisa e não fizeram?\" — o silêncio constrangedor já é a resposta. Contar a parábola devagar, sem adiantar o final, e deixar a pergunta de Jesus (\"qual dos dois fez a vontade do pai?\") solta no ar — a plateia costuma responder em voz alta sozinha. Virada: Jesus dirige a parábola aos sacerdotes e anciãos — os titulados da cena — e diz que publicanos e meretrizes os precedem no Reino; é a tríade pregador/literato/simpatizante da sentença 8 em miniatura. Fechar com ESE, cap. XVIII, item 10: \"muito se pedirá àquele a quem muito se houver dado.\""
+   },
+   {
+    "titulo": "Os talentos: o servo que não fez mal nenhum",
+    "fonte": "Mt 25:14-30; ESE, cap. XVI, item 6",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Três servos recebem talentos do senhor que viaja; dois os multiplicam, um o esconde por medo. O que nada fez de errado — só não fez nada — é chamado \"servidor mau e preguiçoso\" e lançado fora.",
+    "ilustra": "É a ilustração narrativa mais direta do eixo 1 do dossiê (LE, q. 642: \"não basta não praticar o mal\"). O terceiro servo não roubou, não desperdiçou, não traiu — sua única falta foi a inércia. O texto de Kardec chama-o \"servidor mau e preguiçoso\" (ESE, cap. XVI, item 6): a mesma virtude negativa que ESE, cap. XV, item 10, já citada na síntese do dossiê, recusa como insuficiente.",
+    "como_contar": "Gancho: perguntar \"qual dos três servos vocês acham que fez algo de errado?\" — a maioria hesita no terceiro, porque ele \"só\" não fez nada. Contar devagar a cena do buraco cavado na terra: é uma imagem física, fácil de visualizar e de lembrar depois. Virada: a sentença do amo não pune um crime, pune uma omissão — \"tirem-lhe o talento\". Ponte direta para \"o mal nasce do bem negligenciado\" (C&I, 2ª parte, cap. VII, \"Angèle\"), já citada no dossiê — os dois casos se reforçam se usados na mesma fala."
+   },
+   {
+    "titulo": "O fariseu e o publicano no templo",
+    "fonte": "Lc 18:9-14; ESE, cap. VII, item 9",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Dois homens sobem ao templo para orar: o fariseu enumera diante de Deus suas próprias virtudes e observâncias religiosas; o publicano, sem ousar erguer os olhos, só pede misericórdia. É o publicano quem desce justificado.",
+    "ilustra": "Ataca de frente o eixo 3 do dossiê (\"o título externo não credencia\"). O fariseu tem tudo que credenciaria um pregador ou um simpatizante fervoroso — jejum, dízimo, observância pública — e é desqualificado; o publicano, sem nenhum título, é justificado. É a sentença 4-5 de Emmanuel (título não substitui testemunho) em forma de cena dramática, e a mesma lei de inversão do eixo 4 (\"quem se exalta será humilhado\").",
+    "como_contar": "Gancho: encenar as duas orações em voz alta, com tom de voz diferente — a do fariseu empostada e satisfeita, a do publicano baixa e entrecortada. Pausa longa depois de \"nem ainda como este publicano\" — deixar o desconforto respirar antes de revelar quem sai justificado. Virada: \"aquele que a si mesmo se exalta será humilhado\" funciona como fecho de eixo e prepara a fala sobre a tríade pregador/literato/simpatizante, porque o fariseu É essa tríade condensada numa só figura."
+   },
+   {
+    "titulo": "O sacerdote, o levita e o samaritano",
+    "fonte": "Lc 10:30-37; ESE, cap. XV, itens 2-4",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Um viajante ferido é ignorado por um sacerdote e um levita — ambos figuras religiosas tituladas — e socorrido por um samaritano, membro de povo desprezado, que o trata e paga sua estadia.",
+    "ilustra": "Mesmo capítulo do ESE (cap. XV) citado no eixo 1 do dossiê para \"não basta não fazer o mal\" (item 10) — aqui é o reverso positivo do mesmo capítulo: quem tem título religioso (sacerdote, levita) passa adiante sem agir; quem não tem título nenhum é quem testemunha pelo ato. É o retrato invertido do \"homem de bem\" do eixo 3 (ESE, cap. XVII, item 3), contado como cena em vez de definição.",
+    "como_contar": "Gancho: perguntar por que Jesus escolheu justamente um sacerdote e um levita para \"passar adiante\" — não são vilões da história, são os personagens mais preparados religiosamente da cena, o que torna a escolha deliberada e incômoda. Contar a travessia dos dois primeiro, sem pressa, deixando a plateia esperar a ajuda que demora a vir. Virada: o samaritano chega por último e sem discurso — só age; \"vai e faze o mesmo\" fecha direto no exame de consciência do cap. 172/173 (\"que atitudes tua presença desperta nos outros?\")."
+   },
+   {
+    "titulo": "O irmão mais velho, do filho pródigo",
+    "fonte": "Lc 15:25-32; ESE, cap. XI",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Enquanto o pai celebra o retorno do filho mais novo, o irmão mais velho, que nunca saiu de casa, recusa-se a entrar na festa: \"há tantos anos te sirvo, e nunca desobedeci a teu mandamento.\"",
+    "ilustra": "É a face complementar do caso dos talentos: ali a falta é omissão, aqui é cumprimento sem amor. O irmão mais velho fez tudo tecnicamente certo e mesmo assim fica de fora da festa — porque cumprir a regra não é o mesmo que praticar a virtude ativa do eixo 1. É outro ângulo de \"não basta não fazer o mal\": ele nunca desobedeceu, mas também nunca se alegrou com o retorno do irmão, nunca perdoou de coração.",
+    "como_contar": "Gancho: a parábola é conhecida pelo filho mais novo — surpreender a plateia virando o foco para o mais velho, personagem raramente lembrado. Ler a fala dele devagar e sem comentário, deixando a queixa soar razoável na primeira audição (a plateia tende a concordar com ele a princípio). Virada: o pai sai da festa para convencê-lo — Deus não abandona nem o cumpridor ressentido — mas o texto termina em aberto, sem dizer se ele entrou. Boa pergunta de fecho: \"e você, entrou na festa?\""
+   },
+   {
+    "titulo": "Joseph Bré — o homem honesto segundo Deus ou segundo os homens",
+    "fonte": "C&I, 2ª parte, cap. III (\"Espíritos em uma condição média\")",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Evocado pela neta, o espírito de Joseph Bré, tido em vida por \"homem honesto\", confessa que a honestidade perante os homens (não infringir a lei, não prejudicar abertamente) é um abismo distante da honestidade perante Deus, que exige ser \"ativo... ativo nas boas obras... ativo no objetivo\".",
+    "ilustra": "É quase um comentário em primeira pessoa sobre LE, q. 642-643 e ESE, cap. XVII, item 3 — dito não por Kardec, mas por um espírito que viveu exatamente o erro que os eixos 1 e 3 do dossiê descrevem. A frase \"quando se pôde mandar gravar na sua lápide a série interminável de virtudes... que engano!\" é a crítica mais afiada possível ao título externo (eixo 3): o próprio elogio fúnebre é desmontado pelo Espírito que o receberia.",
+    "como_contar": "Gancho: ler a pergunta da neta e a primeira resposta sem contexto prévio — \"fostes sempre um homem honesto\" / \"sim, do ponto de vista dos homens\" — e deixar a plateia sentir o corte da resposta. Ler o parágrafo da lápide na íntegra: é o clímax textual do caso, verbatim de Kardec, não precisa de adorno. Virada: fechar com \"ativo na vida... ativo nas boas obras... ativo no objetivo\" — é quase um roteiro de exame de consciência; encaixa bem logo antes do momento em que a palestra pede à plateia para ler LE, q. 642 em voz alta."
+   },
+   {
+    "titulo": "Samuel Philippe — o homem de bem que ninguém via",
+    "fonte": "C&I, 2ª parte, cap. II (\"Espíritos felizes\")",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Homem obscuro e de vida modesta, \"de um devotamento sem limites\", ajudava sem ostentação e perdoava quem lhe fazia mal, \"espantando-se de que isso pudesse ser um mérito\". Kardec o descreve como \"uma dessas naturezas de elite que florescem à sombra... cujo esplendor não se reflete na terra\".",
+    "ilustra": "É o contraponto positivo de Joseph Bré e a prova viva de que o eixo 3 do dossiê está certo: nenhum título, nenhuma tribuna, nenhuma obra publicada — só o hábito da caridade ativa. É a testemunha que a sentença 8 de Emmanuel descreve, livre das três desqualificações: não é pregador, nem literato, nem simpatizante — apenas alguém que agiu, na obscuridade, a vida inteira.",
+    "como_contar": "Gancho: descrever o homem sem dizer nome nem destino — \"conhecem alguém assim, na própria casa espírita?\" — a plateia costuma reconhecer uma figura real na própria memória. Ler a frase da sombra (\"florescem à sombra... cujo esplendor não se reflete na terra\") pausadamente: é a linha mais citável do caso, funciona isolada num slide. Virada: se usado junto de Joseph Bré, contrastar os dois — o mesmo capítulo do C&I dá, em duas pessoas reais, o antes e o depois da mesma escolha moral."
+   }
+  ],
+  "vereditos": [
+   {
+    "titulo": "Os dois filhos e a vinha",
+    "fonte": "Mt 21:28-32; ESE, cap. XVII, item 7 e cap. XVIII, item 10",
+    "apto": true,
+    "nivel_autoridade": "primordial (Evangelho), com apoio de ESE nível 1",
+    "risco_misatribuicao": "baixo",
+    "efetividade": "alta",
+    "nota": "Confirmei Mt 21:28-32: a parábola é dirigida a sacerdotes e anciãos (contexto de Mt 21:23), e Jesus fecha dizendo que publicanos e meretrizes os precedem no Reino (v.31-32) — bate com o \"como_contar\". As duas citações de apoio do ESE foram checadas literalmente com cite.py: (ESE, cap. XVII, item 7) traz de fato \"Não têm testemunhas as suas vitórias e não estão sujeitas à repressão suas derrotas\"; (ESE, cap. XVIII, item 10) traz \"Muito se pedirá àquele a quem muito se houver dado\" (Lc 12:47-48). Ambas usadas corretamente como eco de espírito, não como fonte do episódio evangélico — nenhuma alega conter a parábola dos dois filhos. Ilustra com precisão o par palavra/ato da sentença 8 (tríade pregador/literato/simpatizante): o segundo filho, que diz \"sim, senhor\" e não vai, é o retrato exato do \"simpatizante\" que a sentença 8 desqualifica. Sem risco doutrinário."
+   },
+   {
+    "titulo": "Os talentos: o servo que não fez mal nenhum",
+    "fonte": "Mt 25:14-30; ESE, cap. XVI, item 6",
+    "apto": true,
+    "nivel_autoridade": "primordial (parábola do próprio Jesus)",
+    "risco_misatribuicao": "baixo",
+    "efetividade": "alta",
+    "nota": "Verifiquei com cite.py: (ESE, cap. XVI, item 6) traz o texto literal integral de Mt 25:14-30, incluindo \"servidor mau e preguiçoso\" e a cena do talento enterrado. Citação exata, capítulo e item corretos. Ilustra o eixo 1 com autoridade ainda maior que a ilustração atual da síntese (Angèle, em C&I — relato de médium): aqui é parábola do próprio Jesus, o mesmo ponto de LE q. 642 (\"não basta não praticar o mal\"). Não é redundante com Angèle — é um reforço de registro mais alto (primordial vs. nível 1), e a imagem do buraco cavado na terra é forte e fácil de visualizar. Sem risco doutrinário."
+   },
+   {
+    "titulo": "O fariseu e o publicano no templo",
+    "fonte": "Lc 18:9-14; ESE, cap. VII, item 9",
+    "apto": false,
+    "nivel_autoridade": "primordial (Evangelho), mas apoio de ESE mal localizado",
+    "risco_misatribuicao": "alto",
+    "efetividade": "alta",
+    "nota": "A parábola em si (Lc 18:9-14) existe e ataca de frente o eixo 3, mas a citação de apoio está ERRADA: rodei cite.py em (ESE, cap. VII, item 9) e o texto ali é sobre a incredulidade diante dos fenômenos espíritas — nada a ver com fariseu e publicano. Busquei o texto de Lc 18:9-14 no arquivo bruto do ESE e ele está, de fato, transcrito literalmente em ESE, cap. XXVII, item 3 (confirmado com cite.py: \"Também disse esta parábola a alguns que punham a sua confiança em si mesmos...\"). É um erro grave de locus, com padrão de erro plausível (\"VII\" por corte de \"XXVII\"). Efetividade didática seria alta (a encenação sugerida em \"como_contar\" é ótima), mas reprovo por risco de misatribuição alto, conforme instrução — a citação precisa ser corrigida para cap. XXVII, item 3 antes de qualquer reconsideração."
+   },
+   {
+    "titulo": "O sacerdote, o levita e o samaritano",
+    "fonte": "Lc 10:30-37; ESE, cap. XV, itens 2-4",
+    "apto": true,
+    "nivel_autoridade": "primordial (Evangelho), com apoio de ESE nível 1",
+    "risco_misatribuicao": "baixo",
+    "efetividade": "alta",
+    "nota": "Verifiquei com cite.py: (ESE, cap. XV, item 2) traz a transcrição literal integral da parábola — na verdade Lc 10:25-37 completo (não só 30-37; a citação de Kardec inclui o diálogo inicial com o doutor da lei, mas isso não invalida o caso, só amplia a moldura). O item 3 é exatamente o comentário de Kardec que sustenta o \"reverso positivo\" descrito no candidato: \"Jesus coloca o samaritano, considerado herético... acima do ortodoxo que falta com a caridade.\" O item 4 (os dois grandes mandamentos) já é citado em outro ponto do próprio dossiê (seção \"Uso em palestra\") — não é erro, mas vale avisar o palestrante para não repetir a mesma citação duas vezes na mesma fala. Citação sólida e doutrinariamente segura, com boa força dramática (o gancho do sacerdote e do levita como os mais preparados religiosamente, não vilões, é um ótimo ângulo)."
+   },
+   {
+    "titulo": "O irmão mais velho, do filho pródigo",
+    "fonte": "Lc 15:25-32; ESE, cap. XI",
+    "apto": false,
+    "nivel_autoridade": "primordial (Evangelho), mas sem apoio válido em ESE",
+    "risco_misatribuicao": "alto",
+    "efetividade": "media",
+    "nota": "A cena do irmão mais velho (Lc 15:25-32) existe e é doutrinariamente segura, mas a citação de apoio ESTÁ ERRADA: (ESE, cap. XI) é \"Amar o próximo como a si mesmo\" (linhas 1938-1989) — tema dos dois grandes mandamentos, sem qualquer menção ao filho pródigo. Busquei também por trechos característicos da cena do irmão mais velho (\"há tantos anos te sirvo\", \"nunca desobedeci\") em todo o arquivo do ESE e não encontrei nada — a parábola completa do filho pródigo com a cena do irmão mais velho não parece estar transcrita literalmente na obra. Reprovo por risco de misatribuição alto: a referência ao ESE parece fabricada ou mal-lembrada. Se o palestrante quiser manter o caso, deve citá-lo apenas pelo Evangelho (Lc 15:25-32), sem o falso apoio do ESE cap. XI. Efetividade média: bom ângulo (foco no irmão esquecido), mas o fecho em aberto é mais arriscado para lecture que busca fechamento de eixo."
+   },
+   {
+    "titulo": "Joseph Bré — o homem honesto segundo Deus ou segundo os homens",
+    "fonte": "C&I, 2ª parte, cap. III (\"Espíritos em uma condição média\")",
+    "apto": true,
+    "nivel_autoridade": "nível 1 (C&I)",
+    "risco_misatribuicao": "baixo",
+    "efetividade": "alta",
+    "nota": "Conferi o texto integral em C&I, 2ª parte, cap. III (\"Espíritos em uma condição média\") linha a linha: a citação do candidato confere exatamente, incluindo \"quando se pôde mandar gravar na sua lápide a série interminável de virtudes que são enaltecidas, acredita-se ter pago sua dívida... Que engano!\" e o fecho \"ativo na vida... ativo nas boas obras... ativo no objetivo\". Locus e atribuição corretos (é evocação recolhida e comentada por Kardec, não por outro autor). Ilustra com precisão o eixo 3 (o título/reputação social não credencia perante Deus) em primeira pessoa, e é um ângulo diferente do caso do Nobel já usado no dossiê (aqui é confissão póstuma e arrependida, não recusa em vida de uma honraria). Sem risco doutrinário."
+   },
+   {
+    "titulo": "Samuel Philippe — o homem de bem que ninguém via",
+    "fonte": "C&I, 2ª parte, cap. II (\"Espíritos felizes\")",
+    "apto": true,
+    "nivel_autoridade": "nível 1 (C&I)",
+    "risco_misatribuicao": "baixo",
+    "efetividade": "alta",
+    "nota": "Conferi o texto em C&I, 2ª parte, cap. II (\"Espíritos felizes\"): a citação confere quase palavra por palavra — \"de um devotamento sem limites\", \"espantando-se de que isso pudesse ser um mérito\", \"uma dessas naturezas de elite que florescem à sombra... cujo esplendor não se reflete na terra\". Locus e atribuição corretos. Confirmei também que Samuel Philippe (cap. II) e Joseph Bré (cap. III) são evocações consecutivas na mesma obra — o próprio candidato sugere usá-los em par, e a estrutura real do livro sustenta esse contraste (o \"antes\" e o \"depois\" de que fala o candidato fazem sentido editorial, não são dois casos soltos artificialmente emparelhados). Sem risco doutrinário; boa força de identificação para plateia de casa espírita."
+   }
+  ],
+  "aprovados": [
+   {
+    "titulo": "Os dois filhos e a vinha",
+    "fonte": "Mt 21:28-32; ESE, cap. XVII, item 7 e cap. XVIII, item 10",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Um pai pede a dois filhos que trabalhem na vinha. O primeiro diz \"não quero\" mas depois se arrepende e vai; o segundo diz \"sim, senhor\" e não vai. Jesus pergunta qual dos dois fez a vontade do pai.",
+    "ilustra": "É o contraponto exato do fecho do capítulo 173 (sentença 8): testemunho não é dizer \"sim\", é ir à vinha. O segundo filho é o retrato do \"simpatizante\" — adesão verbal sem ato — que a sentença 8 desqualifica; o primeiro é o arrependimento que produz obra (cf. eixo 5 do dossiê). Kardec, no mesmo espírito: \"não têm testemunhas as suas vitórias\" (ESE, cap. XVII, item 7) — o dever cumprido em silêncio é o que conta, não a resposta pública dada de boca.",
+    "como_contar": "Gancho: perguntar à plateia \"quantos aqui já disseram sim a alguma coisa e não fizeram?\" — o silêncio constrangedor já é a resposta. Contar a parábola devagar, sem adiantar o final, e deixar a pergunta de Jesus (\"qual dos dois fez a vontade do pai?\") solta no ar — a plateia costuma responder em voz alta sozinha. Virada: Jesus dirige a parábola aos sacerdotes e anciãos — os titulados da cena — e diz que publicanos e meretrizes os precedem no Reino; é a tríade pregador/literato/simpatizante da sentença 8 em miniatura. Fechar com ESE, cap. XVIII, item 10: \"muito se pedirá àquele a quem muito se houver dado.\""
+   },
+   {
+    "titulo": "Os talentos: o servo que não fez mal nenhum",
+    "fonte": "Mt 25:14-30; ESE, cap. XVI, item 6",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Três servos recebem talentos do senhor que viaja; dois os multiplicam, um o esconde por medo. O que nada fez de errado — só não fez nada — é chamado \"servidor mau e preguiçoso\" e lançado fora.",
+    "ilustra": "É a ilustração narrativa mais direta do eixo 1 do dossiê (LE, q. 642: \"não basta não praticar o mal\"). O terceiro servo não roubou, não desperdiçou, não traiu — sua única falta foi a inércia. O texto de Kardec chama-o \"servidor mau e preguiçoso\" (ESE, cap. XVI, item 6): a mesma virtude negativa que ESE, cap. XV, item 10, já citada na síntese do dossiê, recusa como insuficiente.",
+    "como_contar": "Gancho: perguntar \"qual dos três servos vocês acham que fez algo de errado?\" — a maioria hesita no terceiro, porque ele \"só\" não fez nada. Contar devagar a cena do buraco cavado na terra: é uma imagem física, fácil de visualizar e de lembrar depois. Virada: a sentença do amo não pune um crime, pune uma omissão — \"tirem-lhe o talento\". Ponte direta para \"o mal nasce do bem negligenciado\" (C&I, 2ª parte, cap. VII, \"Angèle\"), já citada no dossiê — os dois casos se reforçam se usados na mesma fala."
+   },
+   {
+    "titulo": "O sacerdote, o levita e o samaritano",
+    "fonte": "Lc 10:30-37; ESE, cap. XV, itens 2-4",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Um viajante ferido é ignorado por um sacerdote e um levita — ambos figuras religiosas tituladas — e socorrido por um samaritano, membro de povo desprezado, que o trata e paga sua estadia.",
+    "ilustra": "Mesmo capítulo do ESE (cap. XV) citado no eixo 1 do dossiê para \"não basta não fazer o mal\" (item 10) — aqui é o reverso positivo do mesmo capítulo: quem tem título religioso (sacerdote, levita) passa adiante sem agir; quem não tem título nenhum é quem testemunha pelo ato. É o retrato invertido do \"homem de bem\" do eixo 3 (ESE, cap. XVII, item 3), contado como cena em vez de definição.",
+    "como_contar": "Gancho: perguntar por que Jesus escolheu justamente um sacerdote e um levita para \"passar adiante\" — não são vilões da história, são os personagens mais preparados religiosamente da cena, o que torna a escolha deliberada e incômoda. Contar a travessia dos dois primeiro, sem pressa, deixando a plateia esperar a ajuda que demora a vir. Virada: o samaritano chega por último e sem discurso — só age; \"vai e faze o mesmo\" fecha direto no exame de consciência do cap. 172/173 (\"que atitudes tua presença desperta nos outros?\")."
+   },
+   {
+    "titulo": "Joseph Bré — o homem honesto segundo Deus ou segundo os homens",
+    "fonte": "C&I, 2ª parte, cap. III (\"Espíritos em uma condição média\")",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Evocado pela neta, o espírito de Joseph Bré, tido em vida por \"homem honesto\", confessa que a honestidade perante os homens (não infringir a lei, não prejudicar abertamente) é um abismo distante da honestidade perante Deus, que exige ser \"ativo... ativo nas boas obras... ativo no objetivo\".",
+    "ilustra": "É quase um comentário em primeira pessoa sobre LE, q. 642-643 e ESE, cap. XVII, item 3 — dito não por Kardec, mas por um espírito que viveu exatamente o erro que os eixos 1 e 3 do dossiê descrevem. A frase \"quando se pôde mandar gravar na sua lápide a série interminável de virtudes... que engano!\" é a crítica mais afiada possível ao título externo (eixo 3): o próprio elogio fúnebre é desmontado pelo Espírito que o receberia.",
+    "como_contar": "Gancho: ler a pergunta da neta e a primeira resposta sem contexto prévio — \"fostes sempre um homem honesto\" / \"sim, do ponto de vista dos homens\" — e deixar a plateia sentir o corte da resposta. Ler o parágrafo da lápide na íntegra: é o clímax textual do caso, verbatim de Kardec, não precisa de adorno. Virada: fechar com \"ativo na vida... ativo nas boas obras... ativo no objetivo\" — é quase um roteiro de exame de consciência; encaixa bem logo antes do momento em que a palestra pede à plateia para ler LE, q. 642 em voz alta."
+   },
+   {
+    "titulo": "Samuel Philippe — o homem de bem que ninguém via",
+    "fonte": "C&I, 2ª parte, cap. II (\"Espíritos felizes\")",
+    "nivel": "jesus-pentateuco",
+    "resumo": "Homem obscuro e de vida modesta, \"de um devotamento sem limites\", ajudava sem ostentação e perdoava quem lhe fazia mal, \"espantando-se de que isso pudesse ser um mérito\". Kardec o descreve como \"uma dessas naturezas de elite que florescem à sombra... cujo esplendor não se reflete na terra\".",
+    "ilustra": "É o contraponto positivo de Joseph Bré e a prova viva de que o eixo 3 do dossiê está certo: nenhum título, nenhuma tribuna, nenhuma obra publicada — só o hábito da caridade ativa. É a testemunha que a sentença 8 de Emmanuel descreve, livre das três desqualificações: não é pregador, nem literato, nem simpatizante — apenas alguém que agiu, na obscuridade, a vida inteira.",
+    "como_contar": "Gancho: descrever o homem sem dizer nome nem destino — \"conhecem alguém assim, na própria casa espírita?\" — a plateia costuma reconhecer uma figura real na própria memória. Ler a frase da sombra (\"florescem à sombra... cujo esplendor não se reflete na terra\") pausadamente: é a linha mais citável do caso, funciona isolada num slide. Virada: se usado junto de Joseph Bré, contrastar os dois — o mesmo capítulo do C&I dá, em duas pessoas reais, o antes e o depois da mesma escolha moral."
+   }
+  ]
+ },
+ "verificacoes": [
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVIII, item 6",
+   "afirmacao": "Jesus declara insuficientes os credenciais religiosos mais altos (profetizar, expulsar demônios, milagres em seu nome): o critério é fazer a vontade do Pai — âncora evangélica do tema.",
+   "status": "confirmed",
+   "texto_literal": "Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai... Muitos, nesse dia, me dirão: Senhor! Senhor! não profetizamos em teu nome? Não expulsamos em teu nome o demônio? Não fizemos muitos milagres em teu nome? — Eu então lhes direi em altas vozes: Afastai-vos de mim, vós que fazeis obras de iniquidade. (S. Mateus, 7:21 a 23.)",
+   "locus_corrigido": "",
+   "nota": "Texto bate ponto a ponto: os três credenciais citados (profetizar, expulsar demônios, milagres em nome de Jesus) são explicitamente rejeitados como insuficientes, e o critério positivo enunciado é fazer a vontade do Pai. Afirmação sustentada sem torção."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVIII, item 7",
+   "afirmacao": "Ouvir e praticar é casa sobre a rocha; ouvir sem praticar é casa sobre a areia — imagem de fecho para o par palavra/ato.",
+   "status": "confirmed",
+   "texto_literal": "Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa... Mas, aquele que ouve estas minhas palavras e não as pratica, se assemelha a um homem insensato que construiu sua casa na areia.",
+   "locus_corrigido": "",
+   "nota": "Imagem da rocha (ouvir+praticar) e da areia (ouvir sem praticar) está literalmente no texto, exatamente como a afirmação descreve."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVIII, item 9",
+   "afirmacao": "Kardec antecipa a tríade pregador/literato/simpatizante: de nada serve chamar Jesus de Mestre sem lhe seguir os preceitos; condena quem 'desmente com os atos o que diz com os lábios'.",
+   "status": "confirmed",
+   "texto_literal": "Mas, de que serve lhe chamarem Mestre ou Senhor, se não lhe seguem os preceitos?... vós que desmentis com os atos o que dizeis com os lábios, que caluniais o vosso próximo...",
+   "locus_corrigido": "",
+   "nota": "As duas âncoras textuais da afirmação (chamar Mestre sem seguir preceitos é inútil; condenação de quem desmente com atos o que diz com os lábios) aparecem literalmente. O rótulo 'tríade pregador/literato/simpatizante' é enquadramento interpretativo do autor da palestra, não uma citação do texto — mas é aplicação legítima do sentido (hipócritas que só têm 'a prece nos lábios e não no coração'), não distorção."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVIII, item 10",
+   "afirmacao": "Muito se pedirá àquele a quem muito se houver dado — justifica dirigir a cobrança do cap. 173 a uma plateia já espírita.",
+   "status": "confirmed",
+   "texto_literal": "Muito se pedirá àquele a quem muito se houver dado e maiores contas serão tomadas àquele a quem mais coisas se haja confiado. (S. Lucas, 12:47-48.)",
+   "locus_corrigido": "",
+   "nota": "Máxima citada verbatim. A aplicação 'justifica dirigir a cobrança a uma plateia já espírita' é inferência de uso homilético coerente com o princípio (quem recebeu mais luz responde por mais), não afirmação textual explícita — mas não torce o sentido do princípio."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XXI, item 8",
+   "afirmacao": "São as obras que se devem examinar; só quando os atos apoiam as palavras é que se pode dizer 'estes são enviados de Deus'.",
+   "status": "confirmed",
+   "texto_literal": "É assim, meus irmãos, que deveis julgar; são as obras que deveis examinar... se, em apoio das palavras, apresentam os atos, podereis então dizer: Estes são realmente enviados de Deus.",
+   "locus_corrigido": "",
+   "nota": "Correspondência quase literal com a afirmação: exame pelas obras, e a fórmula 'enviados de Deus' condicionada aos atos apoiarem as palavras."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVII, item 3",
+   "afirmacao": "Retrato do verdadeiro homem de bem: o exame não para em 'não praticou o mal', segue para 'fez todo o bem que podia'.",
+   "status": "confirmed",
+   "texto_literal": "Se ele interroga a consciência sobre seus próprios atos, a si mesmo perguntará se violou essa lei, se não praticou o mal, se fez todo o bem que podia...",
+   "locus_corrigido": "",
+   "nota": "As duas cláusulas citadas na afirmação ('não praticou o mal' / 'fez todo o bem que podia') estão lado a lado no texto, exatamente na progressão descrita."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XVII, item 4",
+   "afirmacao": "Muitos creem nos fatos das manifestações e não lhes aplicam a si mesmos o alcance moral — o diagnóstico do simpatizante.",
+   "status": "confirmed",
+   "texto_literal": "Muitos, entretanto, dos que acreditam nos fatos das manifestações não lhes apreendem as consequências, nem o alcance moral, ou, se os apreendem, não os aplicam a si mesmos.",
+   "locus_corrigido": "",
+   "nota": "Frase quase idêntica à afirmação. O rótulo 'diagnóstico do simpatizante' é aplicação do autor da palestra, coerente com o sentido do parágrafo (espíritas 'imperfeitos' que ficam nos fenômenos)."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XV, item 10",
+   "afirmacao": "Uma virtude negativa não basta: é necessária uma virtude ativa; e o testemunho se afere de fora — 'verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa'.",
+   "status": "confirmed",
+   "texto_literal": "uma virtude negativa não basta: é necessária uma virtude ativa... verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa, dado que todos quantos praticam a caridade são discípulos de Jesus.",
+   "locus_corrigido": "",
+   "nota": "As duas cláusulas citadas na afirmação aparecem literalmente. 'O testemunho se afere de fora' é paráfrase legítima de 'sejam induzidos a reconhecer... observando-vos' — sentido preservado (o reconhecimento vem da observação alheia)."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XV, item 4",
+   "afirmacao": "Os dois mandamentos contêm toda a lei e os profetas — guardar os mandamentos é praticar a lei de amor, não observância ritual.",
+   "status": "confirmed",
+   "texto_literal": "Amarás o Senhor teu Deus... Amarás o teu próximo, como a ti mesmo. — Toda a lei e os profetas se acham contidos nesses dois mandamentos. (S. MATEUS, 22:34 a 40.)",
+   "locus_corrigido": "",
+   "nota": "Citação exata dos dois mandamentos e da fórmula 'toda a lei e os profetas', como a afirmação descreve."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XIII, item 1",
+   "afirmacao": "Contrapeso: não praticar as boas obras diante dos homens para serem vistas; quem busca o louvor dos homens já recebeu sua recompensa.",
+   "status": "confirmed",
+   "texto_literal": "Tende cuidado em não praticar as boas obras diante dos homens, para serem vistas... para serem louvados pelos homens. Digo-vos, em verdade, que eles já receberam sua recompensa.",
+   "locus_corrigido": "",
+   "nota": "Correspondência literal com a afirmação: contra praticar o bem para ser visto, e a fórmula 'já receberam sua recompensa' para quem busca louvor humano."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XIII, item 4",
+   "afirmacao": "Caso narrativo de nível 1 (a dama desconhecida) — testemunho sem nome nem rótulo: 'É espírita ela? Que importa!'",
+   "status": "confirmed",
+   "texto_literal": "É espírita ela? Que importa! [...] Qual o seu nome? Onde mora? Ninguém o sabe. Para os infelizes, é um nome que nada indica; mas é o anjo da consolação.",
+   "locus_corrigido": "",
+   "nota": "O caso da dama desconhecida é narrado sem nome nem rótulo confessional; a frase 'É espírita ela? Que importa!' aparece literalmente no texto, encerrando o episódio como testemunho de nível 1 (caridade sem propaganda de crença)."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XXIV, item 1",
+   "afirmacao": "Mt 5:15 — a candeia vai sobre o candeeiro; é o versículo que Kardec de fato recolhe (Mt 5:16 NÃO está no ESE).",
+   "status": "confirmed",
+   "texto_literal": "Ninguém acende uma candeia para pô-la debaixo do alqueire; põe-na, ao contrário, sobre o candeeiro, a fim de que ilumine a todos os que estão na casa. (S. Mateus, 5:15.)",
+   "locus_corrigido": "",
+   "nota": "O item 1 do cap. XXIV cita exclusivamente Mt 5:15 (a candeia sobre o candeeiro); não há menção a Mt 5:16 ('assim brilhe a vossa luz diante dos homens') nesse item — a afirmação está correta em ambas as partes."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XXIV, item 4",
+   "afirmacao": "Kardec lê a candeia como revelação graduada da verdade, não como exibição de boas obras — ensino proporcionado à inteligência de quem o recebe.",
+   "status": "confirmed",
+   "texto_literal": "Todo ensinamento deve ser proporcionado à inteligência daquele a quem se queira instruir, porquanto há pessoas a quem uma luz por demais viva deslumbraria, sem as esclarecer. [...] chegados a certo grau de desenvolvimento, os homens procuram por si mesmos a luz viva.",
+   "locus_corrigido": "",
+   "nota": "Kardec lê a parábola como revelação graduada conforme a capacidade de compreensão de cada época/pessoa, não como exibição de obras — o item não fala em 'boas obras à vista dos homens', apenas em proporcionalidade do ensino à inteligência de quem recebe."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XXIV, item 15",
+   "afirmacao": "É covardia esconder a fé por interesse material; quem se arreceia de se confessar discípulo da verdade não é digno do reino da verdade.",
+   "status": "confirmed",
+   "texto_literal": "há casos em que isso constitui covardia tão grande, quanto fugir no momento do combate. [...] aqueles que se houverem arreceado de se confessarem discípulos da verdade não são dignos de se verem admitidos no reino da verdade.",
+   "locus_corrigido": "",
+   "nota": "Ambas as cláusulas da afirmação (covardia de esconder a fé por interesse material; indignidade de quem se arreceia de se confessar discípulo da verdade) batem quase literalmente com o texto."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XXIV, item 16",
+   "afirmacao": "Aplicação explícita aos espíritas: colherão na vida espiritual os frutos da sua coragem ou da sua fraqueza.",
+   "status": "confirmed",
+   "texto_literal": "Assim será com os adeptos do Espiritismo. [...] Eles semeiam na Terra o que colherão na vida espiritual. Colherão lá os frutos da sua coragem ou da sua fraqueza.",
+   "locus_corrigido": "",
+   "nota": "Aplicação explícita aos espíritas citada quase verbatim; a afirmação reproduz a última frase do item praticamente ao pé da letra."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. VII, item 4",
+   "afirmacao": "Mt 20:20-28 — quem quiser ser o maior seja vosso servo; o Filho do homem não veio para ser servido, mas para servir (eixo dos dois poderes).",
+   "status": "confirmed",
+   "texto_literal": "aquele que quiser tornar-se o maior, seja vosso servo; [...] do mesmo modo que o Filho do homem não veio para ser servido, mas para servir e dar a vida pela redenção de muitos. (S. Mateus, 20:20 a 28.)",
+   "locus_corrigido": "",
+   "nota": "Citação de Mt 20:20-28 e as duas cláusulas da afirmação (servo/maior; Filho do homem veio para servir) conferem literalmente com o texto."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. VII, item 6",
+   "afirmacao": "Os títulos, a glória e a riqueza não atravessam a morte: chegam ao outro mundo 'como náufragos que tudo perderam, até as próprias roupas'.",
+   "status": "confirmed",
+   "texto_literal": "tiveram de deixar aqui o que lhes constituía a grandeza terrena e que se não leva para a outra vida: a riqueza, os títulos, a glória, a nobreza do nascimento. [...] chegam ao outro mundo privados de tudo, como náufragos que tudo perderam, até as próprias roupas.",
+   "locus_corrigido": "",
+   "nota": "A metáfora do naufrágio e a lista de títulos/glória/riqueza que não atravessam a morte aparecem literalmente no item, confirmando a afirmação."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. VI, item 3",
+   "afirmacao": "A epígrafe do Consolador começa na condição, Jo 14:15 — 'Se me amais, guardai os meus mandamentos'.",
+   "status": "confirmed",
+   "texto_literal": "Se me amais, guardai os meus mandamentos; e eu rogarei a meu Pai e ele vos enviará outro Consolador [...] (S. João, 14:15 a 17 e 26.)",
+   "locus_corrigido": "",
+   "nota": "O item 3 é a epígrafe evangélica do capítulo e de fato abre com a condição de Jo 14:15 ('Se me amais, guardai os meus mandamentos') antes de anunciar o Consolador."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. VI, item 4",
+   "afirmacao": "O Espiritismo cumpre a promessa do Cristo e 'chama os homens à observância da lei' — o dom vem com encargo.",
+   "status": "confirmed",
+   "texto_literal": "O Espiritismo vem, na época predita, cumprir a promessa do Cristo: preside ao seu advento o Espírito de Verdade. Ele chama os homens à observância da lei; ensina todas as coisas fazendo compreender o que Jesus só disse por parábolas.",
+   "locus_corrigido": "",
+   "nota": "A frase 'chama os homens à observância da lei' é citação literal do item; o restante do item (ensina/consola/expõe causa do sofrimento) sustenta a leitura de 'dom que vem com encargo' sem torcer o sentido."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XIX, item 12",
+   "afirmacao": "A fé é alavanca: 'a vontade de querer e a certeza de que essa vontade pode obter satisfação' — define o poder concedido sem leitura mágica.",
+   "status": "confirmed",
+   "texto_literal": "porque o Cristo a exalçou como poderosa alavanca [...] tem fé, isto é, a vontade de querer e a certeza de que essa vontade pode obter satisfação. [...] esses milagres [...] efeitos naturais, cujas causas os homens de então desconheciam.",
+   "locus_corrigido": "",
+   "nota": "A citação-chave ('a vontade de querer e a certeza de que essa vontade pode obter satisfação') e a imagem da fé como 'alavanca' são literais; o próprio item explica os milagres como efeitos naturais, o que sustenta a leitura 'sem leitura mágica' da afirmação."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XX, item 3",
+   "afirmacao": "Os espíritas são os obreiros da última hora, herdeiros do trabalho de profetas, apóstolos e mártires.",
+   "status": "confirmed",
+   "texto_literal": "os obreiros que chegaram na primeira hora são os profetas, Moisés e todos os iniciadores... continuaram a ser assinaladas através dos séculos pelos apóstolos, pelos mártires, pelos pais da Igreja, pelos sábios, pelos filósofos e, finalmente, pelos espíritas. Estes, que por último vieram, foram anunciados e preditos desde a aurora do advento do Messias e receberão a mesma recompensa... Últimos chegados, eles aproveitam dos labores intelectuais dos seus predecessores, porque o homem tem de herdar do homem e porque coletivos são os trabalhos humanos.",
+   "locus_corrigido": "",
+   "nota": "Confirma-se: espíritas são explicitamente os 'últimos chegados' (obreiros da última hora, na chave da parábola) e o texto afirma que 'herdam' o labor intelectual dos predecessores, entre os quais estão nomeados profetas, apóstolos e mártires (junto com Moisés, pais da Igreja, sábios e filósofos). Seleção de 3 dos ~7 grupos citados é paráfrase legítima, não distorção."
+  },
+  {
+   "sigla": "ESE",
+   "ref": "cap. XX, item 5",
+   "afirmacao": "Deus já marcou aqueles 'cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos'.",
+   "status": "confirmed",
+   "texto_literal": "Deus procede, neste momento, ao censo dos seus servidores fiéis e já marcou com o dedo aqueles cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos, pois aos que não recuarem diante de suas tarefas é que ele vai confiar os postos mais difíceis na grande obra da regeneração pelo Espiritismo.",
+   "locus_corrigido": "",
+   "nota": "Citação entre aspas na afirmação bate quase palavra por palavra com o texto literal do item 5. Confirmado sem ressalvas."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 918",
+   "afirmacao": "O Espírito prova sua elevação quando todos os atos da vida corporal representam a prática da lei de Deus; poder e riqueza são 'UM DEPÓSITO' de que se presta contas.",
+   "status": "confirmed",
+   "texto_literal": "\"O espírito prova a sua elevação quando todos os atos de sua vida corporal representam a prática da lei de Deus, e quando antecipadamente compreende a vida espiritual.\" [...] Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSITO, de que lhe cumpre usar para o bem. Delas não se envaidece, por saber que aquele que lhas deu também lhas pode retirar.",
+   "locus_corrigido": "",
+   "nota": "Primeira parte da afirmação é citação quase literal da resposta do Espírito. 'UM DEPÓSITO' é citação literal (inclusive maiúsculas). A frase 'de que se presta contas' não usa essas palavras exatas no item 918 (isso é dito com essas palavras no item 896, sobre o mesmo tema), mas o sentido — o poder/riqueza não pertence a quem os tem, deve ser usado para o bem, e pode ser retirado por quem o deu — preserva a ideia de prestação de contas. Paráfrase legítima do conceito de depósito, não distorção."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 642",
+   "afirmacao": "Não basta não praticar o mal: responde-se por todo mal resultante do bem não praticado.",
+   "status": "confirmed",
+   "texto_literal": "\"Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem.\"",
+   "locus_corrigido": "",
+   "nota": "Correspondência quase verbatim com a afirmação."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 643",
+   "afirmacao": "Fazer o bem não é apenas ser beneficente, é ser útil sempre que o próprio concurso possa ser necessário — ninguém está dispensado.",
+   "status": "confirmed",
+   "texto_literal": "\"Não há quem não possa fazer o bem... fazer o bem não consiste, para o homem, apenas em ser beneficente, mas em ser útil, na medida do possível, todas as vezes que o seu concurso possa ser necessário.\"",
+   "locus_corrigido": "",
+   "nota": "Texto sustenta tanto a distinção beneficente/útil quanto a ideia de que ninguém está dispensado ('Não há quem não possa fazer o bem')."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 917",
+   "afirmacao": "O exemplo é mecanismo moral: 'todos experimentarão a influência moralizadora do exemplo e do contato'; a cura do egoísmo é a educação que faz homens de bem, não instruídos.",
+   "status": "confirmed",
+   "texto_literal": "\"Todos experimentarão a influência moralizadora do exemplo e do contato.\" [...] ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação; não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem.",
+   "locus_corrigido": "",
+   "nota": "Citação entre aspas da afirmação é literal. O contraste 'homens de bem, não instruídos' está no comentário anexo ao item 917 (Fénelon/Kardec), apenas com a ordem invertida em relação à afirmação — sentido preservado."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 893",
+   "afirmacao": "A virtude mais meritória assenta na caridade mais desinteressada, sem pensamento oculto — critério que separa testemunho de performance.",
+   "status": "confirmed",
+   "texto_literal": "\"A sublimidade da virtude, porém, está no sacrifício do interesse pessoal pelo bem do próximo, sem pensamento oculto. A mais meritória é a que assenta na mais desinteressada caridade.\"",
+   "locus_corrigido": "",
+   "nota": "O núcleo doutrinário (virtude mais meritória = caridade mais desinteressada, sem pensamento oculto) é citação quase literal. A conclusão 'critério que separa testemunho de performance' é aplicação/leitura do orador, mas decorre diretamente do critério textual explícito ('sem pensamento oculto'), não é sentido torcido."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 886",
+   "afirmacao": "Caridade segundo Jesus é benevolência, indulgência e perdão, e abrange todas as relações — com inferiores, iguais e superiores.",
+   "status": "confirmed",
+   "texto_literal": "\"Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas.\" [...] abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores.",
+   "locus_corrigido": "",
+   "nota": "Correspondência quase verbatim, inclusive a tríade inferiores/iguais/superiores."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 896",
+   "afirmacao": "A riqueza é depósito de que se presta contas: responde-se pelo bem que se podia fazer e não se fez.",
+   "status": "confirmed",
+   "texto_literal": "\"Representa um depósito de que uns e outros terão de prestar contas, porque terão de responder por todo o bem que podiam fazer e não fizeram...\"",
+   "locus_corrigido": "",
+   "nota": "Correspondência verbatim com a afirmação."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 625",
+   "afirmacao": "Jesus é o tipo mais perfeito oferecido por Deus como guia e modelo — a salvação passa pela imitação, não pela adesão.",
+   "status": "refuted",
+   "texto_literal": "\"Jesus.\" Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo, e a doutrina que ensinou é a expressão mais pura da lei do Senhor...",
+   "locus_corrigido": "",
+   "nota": "A primeira metade da afirmação ('Jesus é o tipo mais perfeito oferecido por Deus como guia e modelo') é sustentada quase verbatim pelo texto. Mas a segunda metade — 'a salvação passa pela imitação, não pela adesão' — não aparece no texto da q. 625 nem no comentário anexo, que fala de modelo/perfeição moral mas não usa nem discute os termos 'salvação', 'imitação' ou 'adesão'. É acréscimo doutrinário do orador não sustentado por este locus específico; recomenda-se remover essa cláusula ou buscar outro locus que a sustente antes de atribuí-la a (LE, q. 625)."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 919",
+   "afirmacao": "O conhece-te a ti mesmo de Santo Agostinho, com método: exame de consciência ao fim do dia e a pergunta-espelho ('como qualificaria essa ação se praticada por outro?').",
+   "status": "confirmed",
+   "texto_literal": "919. Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? \"Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo.\" [...] \"Fazei o que eu fazia quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera...\" [...] \"Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa.\" — Santo Agostinho.",
+   "locus_corrigido": "",
+   "nota": "Locus resolve e bate integralmente: é Santo Agostinho quem dita a q. 919, cita a máxima \"Conhece-te a ti mesmo\", prescreve o exame de consciência ao fim do dia e formula exatamente a pergunta-espelho (qualificar a ação como se fosse de outra pessoa). Nenhum sentido torcido."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 132",
+   "afirmacao": "Cooperar na obra da criação é finalidade da encarnação: 'concorrendo para a obra geral, ele próprio se adianta'.",
+   "status": "confirmed",
+   "texto_literal": "132. Qual o objetivo da encarnação dos Espíritos? \"[...] Visa ainda outro fim a encarnação: o de pôr o Espírito em condições de suportar a parte que lhe toca na obra da criação. Para executá-la é que, em cada mundo, toma o Espírito um instrumento em harmonia com a matéria essencial desse mundo [...] É assim que, concorrendo para a obra geral, ele próprio se adianta.\"",
+   "locus_corrigido": "",
+   "nota": "Citação verbatim: 'concorrendo para a obra geral, ele próprio se adianta' está literalmente no texto, e o trecho anterior sustenta que cooperar na obra da criação é apresentado como finalidade da encarnação."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 685",
+   "afirmacao": "A educação que redime é a moral — 'a arte de formar os caracteres', não a educação pelos livros.",
+   "status": "confirmed",
+   "texto_literal": "685. [...] Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na arte de formar os caracteres, à que incute hábitos [...] A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos.",
+   "locus_corrigido": "",
+   "nota": "Frase 'a arte de formar os caracteres' é verbatim, e o contraste com 'educação pelos livros' também é literal. 'A educação que redime' é paráfrase legítima de 'só uma educação bem entendida pode curar' as chagas sociais — sentido preservado."
+  },
+  {
+   "sigla": "C&I",
+   "ref": "2ª parte, cap. VII",
+   "afirmacao": "Relato de Angèle ('Nulidade sobre a terra'): 'o mal nasce do bem negligenciado'; e a rainha de Oude, no mesmo capítulo, como a coluna do poder terreno. Atenção: cap. VII da 2ª parte intitula-se 'Espíritos endurecidos' e os relatos são nominais, sem numeração de item.",
+   "status": "confirmed",
+   "texto_literal": "[Angèle - Nulidade sobre a terra] '...Sua vida foi inútil para o bem e por isso mesmo culpada, pois o mal nasce do bem negligenciado...' [A rainha de Oude] '...eu era rainha, e nem todos se ajoelharam diante de mim... Sou sempre rainha... meu sangue não pode ser confundido na multidão... eu era demasiado grande para me ocupar de Deus...' — São Luís: 'Deixai-a, pobre desorientada; tende compaixão de sua cegueira... não sabeis quanto sofre seu orgulho.'",
+   "locus_corrigido": "",
+   "nota": "cite.py devolveu só até a linha 3299 no head -60 (corte do pipe, não do script); rodando sem truncar, o capítulo VII completo (linhas 3212-3299) contém tanto o relato de Angèle — com a frase verbatim 'o mal nasce do bem negligenciado' — quanto 'A rainha de Oude' logo em seguida (Morta na França em 1858, evocação sobre orgulho de rainha destronada). O epíteto 'coluna do poder terreno' não é citação entre aspas do texto, é caracterização legítima do orador para essa figura que se agarra ao status ('sou sempre rainha') mesmo desencarnada — sentido preservado, não torcido. Confirma ambos os relatos e a atenção de que é capítulo de relatos nominais sem numeração de item está correta."
+  },
+  {
+   "sigla": "C&I",
+   "ref": "2ª parte, cap. VIII",
+   "afirmacao": "Relato de Szymel Slizgol, o mendigo de Vilna que passou da regra negativa à positiva — 'todo aquele que se elevar será abaixado'. Capítulo 'Expiações terrestres', relatos nominais.",
+   "status": "confirmed",
+   "texto_literal": "[Szymel Slizgol] '...Não façais aos outros aquilo que não gostaríeis que vos fizessem.' [...] 'Mas fazei-lhes ao contrário o que gostaríeis que vos fosse feito.' [...] 'sou hoje feliz, muito feliz por poder dizer-vos que todo aquele que se elevar será abaixado, e que aquele que se humilhar será elevado.'",
+   "locus_corrigido": "",
+   "nota": "Locus e citação batem: Szymel Slizgol é de fato o mendigo de Vilna (relatado no capítulo VIII, 'Expiações terrestres', relato nominal sem numeração, como a afirmação já observa); ele narra explicitamente a passagem da regra negativa ('não façais...') para a positiva ('fazei ao contrário...'), e a frase 'todo aquele que se elevar será abaixado' é citação verbatim."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 913",
+   "afirmacao": "definição de Egoísmo (raiz dos vícios)",
+   "status": "confirmed",
+   "texto_literal": "913. Dentre os vícios, qual o que se pode considerar radical? \"[...] o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. [...] aí é que está a verdadeira chaga da sociedade. [...] deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade. Ele neutraliza todas as outras qualidades.\"",
+   "locus_corrigido": "",
+   "nota": "Texto define exatamente o egoísmo como o vício radical, raiz de todos os demais — sustenta a afirmação sem torção."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 258",
+   "afirmacao": "definição de Prova (sentido espírita — distinto de \"prova\" comum)",
+   "status": "confirmed",
+   "texto_literal": "258. Quando na erraticidade, antes de começar nova existência corporal, tem o Espírito consciência e previsão do que lhe sucederá no curso da vida terrena? \"Ele próprio escolhe o gênero de provas por que há de passar, e nisso consiste o seu livre-arbítrio.\" [...] \"Nada ocorre sem a permissão de Deus [...] Dando ao Espírito a liberdade de escolher, Deus lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem. [...] Vosso, porém, foi o desejo de a ele vos expordes, por haverdes visto nisso um meio de progredirdes, e Deus o permitiu.\"",
+   "locus_corrigido": "",
+   "nota": "Não é uma definição lexicográfica formal de 'prova', mas o texto caracteriza precisamente o sentido espírita distinto do comum: prova não é castigo imposto por Deus, é escolhida livremente pelo próprio Espírito como meio de progresso, e Deus apenas permite — é exatamente essa distinção (provação-instrumento-de-progresso vs. provação-castigo-do-acaso) que a afirmação reivindica. Paráfrase legítima, sentido preservado; é também o locus já usado em wiki/conceitos/vida-espirita.md para a mesma ideia de escolha de provas."
+  },
+  {
+   "sigla": "LE",
+   "ref": "q. 573",
+   "afirmacao": "definição de Missão (sentido espírita)",
+   "status": "confirmed",
+   "texto_literal": "573. Em que consiste a missão dos Espíritos encarnados? \"Em instruir os homens; em lhes auxiliar o progresso; em lhes melhorar as instituições, por meios diretos e materiais. [...] O que cultiva a terra desempenha uma missão, como o que governa, ou o que instrui. [...] Cada um tem neste mundo a sua missão, porque todos podem ter alguma utilidade.\"",
+   "locus_corrigido": "",
+   "nota": "É literalmente a questão que define missão no sentido espírita (missão ampla, ao alcance de qualquer encarnado, não só figuras notáveis) — sustenta a afirmação sem ressalvas."
+  }
+ ],
+ "arcos": [
+  {
+   "angulo": "Didático",
+   "titulo": "\"Senhor, Senhor!\" — o que Jesus aceita como testemunho",
+   "abertura": "Jesus nomeia três credenciais de primeira ordem — profetizar, expulsar demônios, fazer milagres, e tudo isso em Seu nome — e diz que nenhuma das três abre a porta do reino: \"Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai, que está nos céus\" (Mt 7:21-23; ESE, cap. XVIII, item 6). Se nem essas três bastam, o que é, então, que Ele aceita como prova de que alguém é Seu?",
+   "partes": [
+    {
+     "titulo": "1. \"Senhor, Senhor!\" — as três credenciais que Jesus recusa",
+     "pergunta_ponte": "",
+     "criterio": "",
+     "citacoes": [
+      "ESE, cap. XVIII, item 6 — Mt 7:21-23: a lista exata dos títulos que não credenciam (profetizar, expulsar demônios, fazer milagres em nome de Jesus); o critério é fazer a vontade do Pai",
+      "ESE, cap. XVIII, item 9 — de nada serve chamar Jesus de Mestre sem lhe seguir os preceitos; condena quem \"desmente com os atos o que diz com os lábios\"",
+      "ESE, cap. XXI, item 8 — Mt 7:16, \"Conhece-se a árvore pelo fruto\": examinam-se as obras; só quando os atos apoiam as palavras se pode dizer que são enviados de Deus"
+     ],
+     "glosa": "Jesus não recusa esses títulos por serem maus — são altíssimos —, recusa-os porque todos operam no registro da palavra e do nome, e o critério que Ele põe no lugar é o ato. Dezenove séculos depois, Emmanuel repetirá o gesto com outras três figuras respeitáveis (o pregador, o literato, o simpatizante) em Pão Nosso, cap. 173: é o mesmo corte, e é para onde esta palestra caminha."
+    },
+    {
+     "titulo": "2. As duas palavras do dia: virtude negativa e virtude ativa",
+     "pergunta_ponte": "Kardec põe a nossa dúvida ao Espírito com todas as letras: \"Para agradar a Deus e assegurar a sua posição futura bastará que o homem não pratique o mal?\" (LE, q. 642). Antes de ouvirmos a resposta — quantos de nós contávamos com um sim?",
+     "criterio": "C",
+     "citacoes": [
+      "LE, q. 642 — a resposta é não: \"cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem\"",
+      "LE, q. 643 — fazer o bem \"não consiste, para o homem, apenas em ser beneficente, mas em ser útil, na medida do possível, todas as vezes que o seu concurso possa ser necessário\"; ninguém está dispensado",
+      "ESE, cap. XV, item 10 — \"uma virtude negativa não basta: é necessária uma virtude ativa\"; e o fecho: \"Esforçai-vos, pois, para que os vossos irmãos, observando-vos, sejam induzidos a reconhecer que verdadeiro espírita e verdadeiro cristão são uma só e a mesma coisa\"",
+      "C&I, 2ª parte, cap. VII (\"Espíritos endurecidos\"), relato de Angèle, \"Nulidade sobre a terra\" — \"o mal nasce do bem negligenciado\"; a vida inútil para o bem \"e por isso mesmo culpada\""
+     ],
+     "glosa": "Aqui se definem, do zero, os dois termos que sustentam toda a palestra: virtude negativa é abster-se do mal — inércia moral que não custa vontade; virtude ativa é fazer o bem que se pode, e só essa exige querer. Angèle é a mesma tese em forma de biografia: ninguém a acusa de nada, e é exatamente essa a acusação."
+    },
+    {
+     "titulo": "3. O retrato: como se reconhece uma testemunha",
+     "pergunta_ponte": "Se respondo pelo bem que deixei de fazer, preciso de um retrato: com que cara se parece, no dia a dia, alguém que está fazendo o bem que pode?",
+     "criterio": "B",
+     "citacoes": [
+      "ESE, cap. XVII, item 3 — o retrato do verdadeiro homem de bem: \"o que cumpre a lei de justiça, de amor e de caridade, na sua maior pureza\"; e o exame não para em \"não praticou o mal\" — segue para \"se fez todo o bem que podia, se desprezou voluntariamente alguma ocasião de ser útil\"",
+      "ESE, cap. XVII, item 4 — o diagnóstico do simpatizante: \"Muitos, entretanto, dos que acreditam nos fatos das manifestações não lhes apreendem as consequências, nem o alcance moral, ou, se os apreendem, não os aplicam a si mesmos\"",
+      "LE, q. 919 — o \"conhece-te a ti mesmo\" com método: exame de consciência ao fim do dia, e a pergunta-espelho (que eu diria dessa ação se outro a tivesse praticado?)",
+      "LE, q. 917 — o exemplo é mecanismo moral, não ornamento: \"todos experimentarão a influência moralizadora do exemplo e do contato\"",
+      "LE, q. 685 — e o que muda o caráter é a educação moral, \"a arte de formar os caracteres\", não a instrução pelos livros"
+     ],
+     "glosa": "Kardec converte a exigência de LE q. 642 em duas ferramentas concretas: um retrato (ESE, cap. XVII, item 3) e uma rotina (LE, q. 919). É neste ponto que a palestra deixa de falar de terceiros — o retrato serve de espelho, e a maior parte de nós se descobre descrita na omissão, não no delito."
+    },
+    {
+     "titulo": "4. Então é para aparecer? A candeia e o alqueire",
+     "pergunta_ponte": "Kardec acaba de pedir que os irmãos, \"observando-vos\", reconheçam em nós o cristão — mas Jesus mandou não praticar boas obras diante dos homens, para sermos vistos por eles. Como as duas ordens cabem na mesma doutrina?",
+     "criterio": "B",
+     "citacoes": [
+      "ESE, cap. XIII, item 1 — não praticar as boas obras diante dos homens para serem vistas por eles; quem busca o louvor dos homens já recebeu sua recompensa",
+      "LE, q. 893 — a virtude mais meritória assenta na caridade mais desinteressada, sem pensamento oculto: é a intenção que separa testemunho de performance",
+      "ESE, cap. XXIV, item 1 — Mt 5:15, a candeia vai sobre o candeeiro (atenção: é este o versículo que Kardec de fato recolhe; Mt 5:16 não está no ESE)",
+      "ESE, cap. XXIV, item 4 — e Kardec lê a candeia como difusão graduada da verdade, proporcionada à inteligência de quem a recebe — não como exibição das próprias boas obras",
+      "ESE, cap. XIII, item 4 — caso da dama desconhecida: socorro prestado sem nome e sem rótulo; \"É espírita ela? Que importa!\""
+     ],
+     "glosa": "A regra fica simples quando se separam duas coisas: o que se proíbe é a obra feita para ser vista; o que não se pode é esconder a luz da verdade. A testemunha não se anuncia — ela é reconhecida, e a dama desconhecida do cap. XIII é a demonstração de que o testemunho dispensa a assinatura."
+    },
+    {
+     "titulo": "5. A promessa e o encargo: que \"poder\" é esse?",
+     "pergunta_ponte": "Voltemos à frase de onde nasce o capítulo de Emmanuel: \"recebereis o poder do Espírito Santo (…) e ser-me-eis testemunhas\" (At 1:8). Promessa e encargo estão na mesma frase — que poder é esse, que só se verifica na testemunha?",
+     "criterio": "A",
+     "citacoes": [
+      "ESE, cap. VI, item 3 — a epígrafe do Consolador começa numa condição, Jo 14:15: \"Se me amais, guardai os meus mandamentos\"; e só então \"eu rogarei a meu Pai (…) o Espírito de Verdade\"",
+      "ESE, cap. VI, item 4 — o Espiritismo vem cumprir a promessa do Cristo e \"chama os homens à observância da lei\": o dom vem com encargo (At 1:8 entra aqui, como cumprimento da promessa de Jo 14 — não como fundamento)",
+      "ESE, cap. XV, item 4 — guardar os mandamentos não é observância ritual: os dois mandamentos contêm \"toda a lei e os profetas\", e guardá-los é praticar a lei de amor",
+      "ESE, cap. XIX, item 12 — o que é esse poder, sem leitura mágica: a fé é alavanca, \"a vontade de querer e a certeza de que essa vontade pode obter satisfação\"",
+      "LE, q. 132 — e por que isso é comigo: cooperar é a própria finalidade da encarnação — \"concorrendo para a obra geral, ele próprio se adianta\""
+     ],
+     "glosa": "Definir os termos aqui, devagar: Consolador e Espírito de Verdade são a mesma promessa (ESE, cap. VI), e o \"poder\" de At 1:8 traduz o grego dýnamis — algumas versões vertem \"virtude\", e a diferença importa, porque não se trata de virtude moral, mas de capacidade conferida. O ponto didático da parte: entramos no tema pelo dom recebido, e descobrimos que o encargo vinha na mesma frase."
+    },
+    {
+     "titulo": "6. Dois poderes: o que a Terra empresta e o que Jesus concede",
+     "pergunta_ponte": "Se o poder recebido é encargo, o que acontece com o outro poder — o que o mundo confere e todos reconhecem? Jesus responde com uma inversão que ninguém esperava dEle naquele momento.",
+     "criterio": "B",
+     "citacoes": [
+      "ESE, cap. VII, item 4 — Mt 20:26: \"aquele que quiser tornar-se o maior, seja vosso servo\"; e o Filho do homem \"não veio para ser servido, mas para servir\"",
+      "ESE, cap. VII, item 6 — os títulos, a glória e a riqueza não atravessam a morte: chegam ao outro mundo \"como náufragos que tudo perderam, até as próprias roupas\"",
+      "LE, q. 918 — poder e riqueza são \"UM DEPÓSITO\" de que se presta contas; o Espírito prova sua elevação quando todos os atos da vida corporal representam a prática da lei de Deus",
+      "C&I, 2ª parte, cap. VII (\"Espíritos endurecidos\"), relato da rainha de Oude — a coluna do poder terreno, que morre e continua rainha: \"sou sempre rainha… enviem-me escravos para me servir!\"",
+      "C&I, 2ª parte, cap. VIII (\"Expiações terrestres\"), relato de Szymel Slizgol — o mendigo de Vilna: \"todo aquele que se elevar será abaixado, e que aquele que se humilhar será elevado\""
+     ],
+     "glosa": "Duas colunas, e dois Espíritos evocados por Kardec para ocupá-las: a rainha que leva o trono para o além e encontra a própria impotência, e o mendigo analfabeto que chega ao outro lado \"feliz, muito feliz\". Vale notar a virada de Slizgol — ele passou sozinho da regra negativa (\"não façais aos outros…\") à positiva (\"fazei-lhes ao contrário o que gostaríeis que vos fosse feito\"): é LE q. 642 descoberta na rua, sem livro nenhum."
+    },
+    {
+     "titulo": "7. Pregador, literato, simpatizante — e testemunha",
+     "pergunta_ponte": "Fica então a pergunta prática para quem já está dentro de uma casa espírita: pregar bem, escrever bem, simpatizar com a doutrina — nada disso conta como testemunho?",
+     "criterio": "B",
+     "citacoes": [
+      "Emmanuel / Chico Xavier, Pão Nosso, cap. 173 — a tríade elogiada e desqualificada (\"excelentes\" oradores, \"brilhantes\" escritores, \"notáveis\" simpatizantes) e o que resta no lugar: refletir o Cristo \"para o próximo, em espírito e verdade\", pelo \"esforço constante de aplicação pessoal do Evangelho\"",
+      "ESE, cap. XVIII, item 10 — por que a cobrança se dirige justamente a nós: muito se pedirá àquele a quem muito se houver dado",
+      "ESE, cap. XX, item 5 — Deus já marcou aqueles \"cujo devotamento é apenas aparente, a fim de que não usurpem o salário dos servidores animosos\"",
+      "ESE, cap. XXIV, item 15 — e o inverso também condena: \"aqueles que se houverem arreceado de se confessarem discípulos da verdade não são dignos de se verem admitidos no reino da verdade\"",
+      "LE, q. 625 — \"Qual o tipo mais perfeito que Deus já ofereceu ao homem para lhe servir de guia e modelo? — 'Jesus.'\": a salvação passa pela imitação, não pela adesão"
+     ],
+     "glosa": "As três figuras não são desqualificadas por serem más — os adjetivos de Emmanuel são elogiosos —, mas porque operam no registro da palavra e da adesão, e testemunho é da ordem do reflexo. Dito da própria tribuna, o espelho inclui quem fala: é isso que dá autoridade à frase."
+    }
+   ],
+   "para_meditar": "Os talentos: o servo que não fez mal nenhum — Mt 25:14-30 (ESE, cap. XVI, item 6). O servo não roubou, não gastou, não perdeu: devolveu intacto o que havia recebido — e é o único condenado da parábola. É LE q. 642 narrada pelo próprio Jesus, e a pergunta para a plateia é direta: o que exatamente eu devolvo intacto?",
+   "sintese": [
+    "A pergunta de abertura tinha resposta desde o Sermão da Montanha: Jesus recusa três credenciais (profetizar, expulsar demônios, fazer milagres em Seu nome) e aceita uma só coisa — fazer a vontade do Pai (ESE, cap. XVIII, item 6). Emmanuel apenas repete o corte com outras três figuras: pregador, literato, simpatizante.",
+    "Não basta não fazer o mal: responde-se pelo bem que se deixou de fazer (LE, q. 642-643), porque \"uma virtude negativa não basta\" (ESE, cap. XV, item 10) e \"o mal nasce do bem negligenciado\" (C&I, 2ª parte, cap. VII, \"Angèle\").",
+    "Testemunhar não é aparecer nem é esconder-se: proíbe-se a obra feita para ser vista (ESE, cap. XIII, item 1) e cobra-se a coragem de não ocultar a fé (ESE, cap. XXIV, item 15). A dama desconhecida do cap. XIII testemunha sem assinar.",
+    "O \"poder\" prometido em At 1:8 chega com o encargo na mesma frase e já vinha condicionado em Jo 14:15 (ESE, cap. VI, itens 3 e 4); e todo poder é depósito de que se presta contas (LE, q. 918) — a rainha de Oude e o mendigo Slizgol mostram as duas colunas.",
+    "O critério final é a imitação, não a adesão (LE, q. 625): quem pratica, testemunha; e uma ferramenta cabe hoje no bolso de qualquer ouvinte — o exame de consciência ao fim do dia (LE, q. 919), que não para em \"não fiz mal a ninguém\"."
+   ],
+   "encerramento": "Fechar no mesmo parágrafo do Sermão em que a palestra abriu — os versículos seguintes a \"Senhor, Senhor!\": \"Aquele, pois, que ouve estas minhas palavras e as pratica, será comparado a um homem prudente que construiu sobre a rocha a sua casa\" (Mt 7:24; ESE, cap. XVIII, item 7). Ouvir todos ouvimos, esta noite inclusive; a rocha começa no primeiro ato praticado. Convite concreto: esta semana, o exame de LE q. 919 ao fim de cada dia, com a pergunta que Kardec não deixa parar em \"não pratiquei o mal\" — \"fiz todo o bem que podia? Desprezei voluntariamente alguma ocasião de ser útil?\" (ESE, cap. XVII, item 3)."
+  }
+ ],
+ "juri": {
+  "vencedor": 0,
+  "scores": [],
+  "enxertos": ""
+ },
+ "iconografia": [],
+ "dossie_campos": {
+  "resumo_executivo": "A palestra defende que testemunhar o Cristo não é pregar, escrever nem simpatizar, mas praticar — e ancora a tese no Sermão da Montanha, onde Jesus enumera três credenciais de primeira ordem (profetizar, expulsar demônios, fazer milagres em Seu nome) e declara que nenhuma abre a porta do reino: o critério é fazer a vontade do Pai (ESE, cap. XVIII, item 6). Do corte evangélico ela desce ao par que organiza a Codificação sobre o assunto — \"uma virtude negativa não basta: é necessária uma virtude ativa\" (ESE, cap. XV, item 10), e responde-se pelo bem omitido (LE, q. 642-643) —, converte a exigência em retrato e em rotina (ESE, cap. XVII, item 3; LE, q. 919) e resolve em voz alta a tensão entre a candeia que não se esconde e a boa obra que não se exibe (ESE, cap. XXIV × cap. XIII). Só então recupera a promessa de onde nasce o capítulo de Emmanuel — \"recebereis o poder (…) e ser-me-eis testemunhas\" (At 1:8) —, mostrando que o dom vinha com encargo na mesma frase (ESE, cap. VI, itens 3 e 4) e que todo poder é depósito de que se presta contas (LE, q. 918). Fecha onde abriu, no parágrafo seguinte do mesmo Sermão: quem ouve e pratica constrói sobre a rocha (ESE, cap. XVIII, item 7), com o exame de consciência do fim do dia como tarefa da semana.",
+  "lacunas": [
+   "Mt 5:16 (\"assim resplandeça a vossa luz diante dos homens\") NÃO está no ESE — o versículo que a plateia conhece de cor fica sem lastro de nível 1; usar só como Evangelho (ACF), nunca como (ESE, cap. XXIV, item 1).",
+   "LE, q. 625 voltou refuted: sustenta \"Jesus, tipo mais perfeito… guia e modelo\", mas NÃO a cláusula \"a salvação passa pela imitação, não pela adesão\". Falta locus para a formulação forte; o substituto confirmado (ESE, cap. XV, item 10, \"todos quantos praticam a caridade são discípulos de Jesus\") diz menos.",
+   "Fontes de nível 1 não lidas: LM e Gênese. Gênese não contribui ao foco; do LM o único ângulo (influência moral do médium, LM, 2ª parte, cap. XX) deslocaria o eixo moral para o mediúnico e NÃO foi verificado.",
+   "Loci usados fora da rodada de verificação do cite.py: ESE, cap. X, item 13 · cap. XV, itens 8-9 · cap. XVI, item 6 · cap. XVII, item 7 · cap. XXVII, item 3; LE, q. 584 · q. 683 · q. 897; e Mt 11:28-30. Conferir antes de projetar em slide.",
+   "Trechos de nível 3 (Léon Denis 1882, Emmanuel/O Espírito da Verdade cap. 94, André Luiz/Nosso Lar e Libertação, Yvonne Pereira) vêm de leitura direta do raw/, sem cite.py (que só cobre o Pentateuco) — cotejar com a edição impressa antes de citar.",
+   "Vozes consagradas sem achado citável: Bezerra de Menezes (só personagem biográfico; o único gancho é de terceira mão, via Humberto de Campos), Cairbar Schutel (busca em Vida e Atos dos Apóstolos só devolveu prefácios) e Joanna de Ângelis (corpus psicológico-terapêutico, nada sobre testemunho × título).",
+   "Sem iconografia: a rodada não usou --imagens; nenhum candidato de imagem com licença confirmada foi levantado — a seção de imagens traz só o caminho de busca manual, com ⚠ em todos os candidatos.",
+   "\"Preposto\" (metáfora jurídica de Emmanuel) não tem lastro próprio de nível 1; o equivalente kardecista é \"depósito\" (LE, q. 918 e q. 896), e a glosa jurídica segue sendo da semente, não da Codificação.",
+   "C&I, 2ª parte, não tem numeração de item — os relatos (Angèle, rainha de Oude, Slizgol, Joseph Bré, Samuel Philippe) só podem ser citados pelo nome; cite.py emite aviso, e não é erro.",
+   "Dois casos caíram por locus errado e ficam como dívida: o fariseu e o publicano (ESE, cap. VII, item 9 está errado; o correto é cap. XXVII, item 3) e o irmão mais velho do filho pródigo (a cena não parece estar transcrita no ESE — citar só pelo Evangelho).",
+   "A tensão pastoral do \"jugo suave\" (Mt 11:28-30) entra só como Evangelho: o apoio de Kardec sugerido (ESE, cap. XV, item 3) não foi conferido nesta rodada."
+  ],
+  "paginas_a_criar": [
+   "wiki/aprofundamentos/senhor-senhor-mt-7-21-27 — ESE, cap. XVIII (itens 6, 7, 9, 10): a âncora evangélica de \"testemunhar não é pregar\" não tem página própria; hoje vive dentro da semente de Pão Nosso, o que inverte a hierarquia de autoridade.",
+   "wiki/conceitos/testemunho — termo-título da palestra, hoje só existe como tag; deve distinguir os três sentidos (jurídico, evangelístico protestante, kardecista-por-conduta) e ancorar em At 1:8 + ESE, cap. XXI, item 8.",
+   "wiki/conceitos/virtude-ativa — o par virtude negativa/ativa (ESE, cap. XV, item 10; LE, q. 642-643) é usado em várias páginas da wiki sem página-conceito própria.",
+   "wiki/questoes/nao-basta-nao-fazer-o-mal — Q&A ancorada em LE, q. 642-643, com \"o mal nasce do bem negligenciado\" (C&I, 2ª parte, cap. VII, \"Angèle\") e a parábola dos talentos; hoje o conteúdo está diluído em três páginas.",
+   "wiki/aprofundamentos/o-que-fica-visivel-no-testemunho — a dialética ESE, cap. XIII (obra oculta) × cap. XXIV (fé professada), resolvida pelo caso da dama desconhecida (cap. XIII, item 4); wiki/conceitos/parabola-da-candeia-sob-o-alqueire cobre só um lado e a tensão não está tratada em lugar nenhum.",
+   "wiki/conceitos/reforma-intima — tag central da wiki sem página-conceito; ancorar em LE, q. 919 (exame ao fim do dia + pergunta-espelho) e ESE, cap. XVII, item 3, mostrando que é prática concreta e não intenção vaga.",
+   "wiki/questoes/limite-do-dever-de-fazer-o-bem — LE, q. 683 (\"o das forças; quanto ao resto, Deus deixa livre o homem\") contra o escrúpulo que LE, q. 642 desperta; objeção recorrente de plateia, sem página.",
+   "wiki/questoes/fazer-o-bem-esperando-recompensa — LE, q. 897 e q. 893: a caridade desinteressada diante do desejo natural de progredir; é a chave que impede ler ESE, cap. XXIV, item 16 como barganha."
+  ]
+ }
+}
