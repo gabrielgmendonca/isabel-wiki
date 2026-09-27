@@ -1824,3 +1824,17 @@ Revisão de [[wiki/obras/paulo-e-estevao]] a partir de um achado colateral: a li
 **Aspas**: sete citações não batiam verbatim com a fonte e foram corrigidas ou substituídas — *"Moisés foi a porta, **o** Cristo é a chave"* (o texto não traz o artigo), *"proporcionando-lhe"* por *"propicionando-lhe"*, *"a essência **ao** apelo"* por *"do apelo"*, "para o Céu" por "para o céu", "no meu Reino" por "no meu reino". Duas eram **fabricadas**: a frase sobre os olhos que "pareciam mergulhar em quadros gloriosos de outra vida" e, sobretudo, *"sem nada ouvirem nem verem, não obstante haverem percebido, a princípio, uma grande luz no alto"*, atribuída ao romance como reconciliação de At 9:7 com At 22:9 — a obra resolve a tensão por via narrativa (os companheiros comentam a luz e a voz do patrão, e atribuem tudo a insolação ou feitiçaria), sem nenhuma frase assim. Substituídas por trecho literal.
 
 Lint limpo (0 achados). `atualizado_em` bumpado para 2026-09-04; `status: ativo` mantido.
+
+## [2026-09-27] estudo | Bem e mal sofrer (ESE, cap. V, item 18)
+
+Criada [[wiki/aprofundamentos/bem-e-mal-sofrer-ese-v-18]] (`tipo: aprofundamento`, `status: ativo`) a pedido do usuário, a partir de destaques dele: o público do Sermão, a condição do *bem sofrer* em Lacordaire, a insuficiência da prece, o martírio dos primeiros cristãos × o sacrifício cotidiano, o "repouso" como mundos regeneradores, casos de C&I e da série André Luiz.
+
+Achados de pesquisa que valem registro:
+
+- **Nenhuma das cinco coletâneas da Coleção Fonte Viva tem Mt 5:4 como epígrafe** (grep nas cinco transcrições). O paralelo mais próximo é *Pão Nosso* cap. 89 (Lc 6.22): "Ofereceu Jesus muitas bem-aventuranças. Raros, porém, desejam-nas." A página linka a coleção por esse caminho, sem inventar capítulo.
+- **Joseph Maître (C&I, 2ª parte, cap. VIII) é o caso-par do item**: a mesma cegueira em duas existências, uma com blasfêmia e suicídio, outra com resignação — demonstração empírica de ESE V, 12 e 18.
+- **Lívia no cárcere** pede para morrer "como aquelas criaturas desamparadas, que ouviam as consolações divinas junto do Tiberíades" — liga o martírio ao público do Sermão; Corvino (*Ave, Cristo!*) formula o eixo cotidiano ("não é a da morte e sim a da vida").
+- Citações de romances de Emmanuel ficam **sem número de capítulo** quando a estrutura intercalada do raw não permite confirmar (cf. correção de *Paulo e Estêvão*, 2026-09-04); *Há Dois Mil Anos* e *Ave, Cristo!* citados pelo título do capítulo.
+- Lateral, corrigido: [[wiki/conceitos/mundos-regeneradores]] atribuía ao item 16 do ESE cap. III a frase da "alma penitente" que "encontra calma e repouso" — `reverse_locus` localiza no **item 17** (cobertura 1.00); locus trocado para item 17 (`atualizado_em` mantido).
+
+Todas as aspas do Pentateuco saíram de `insert_quote.py`/`cite.py`; as de C&I 2ª parte e das obras psicografadas foram conferidas por grep no raw.

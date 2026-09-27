@@ -1,7 +1,7 @@
 ---
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
-tags: [quinto-varro, corvino, quinto-celso, ave-cristo, paternidade-espiritual, reencarnacao-sucessiva, martirio, lugdunense, autor/chico-xavier, autor/emmanuel, grau/intermediario, tema/encarnacao, tema/sofrimento]
+tags: [quinto-varro, corvino, quinto-celso, ave-cristo, paternidade-espiritual, reencarnacao-sucessiva, martírio, lugdunense, autor/chico-xavier, autor/emmanuel, grau/intermediario, tema/encarnacao, tema/sofrimento]
 aliases:
   - "Corvino"
   - "Quinto Celso"

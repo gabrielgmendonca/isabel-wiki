@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 fontes: [ESE, LE]
-tags: [bem-aventurancas, sermao-da-montanha, aflicao, consolacao, jesus, obra/ese, obra/le, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
+tags: [bem-aventurancas, sermao-da-montanha, aflição, consolacao, jesus, obra/ese, obra/le, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/jesus]
 atualizado_em: 2026-05-31
 status: ativo
 ---
@@ -86,6 +86,7 @@ Esta bem-aventurança sustenta a fala do expositor diante de lutos, doenças e i
 ## Páginas relacionadas
 
 - [[wiki/conceitos/bem-aventurancas]] — síntese e índice das oito bem-aventuranças
+- [[wiki/aprofundamentos/bem-e-mal-sofrer-ese-v-18]] — estudo do item 18 (Lacordaire): a condição do *bem sofrer*, a prece que não basta, casos de C&I
 - [[wiki/conceitos/bem-aventuranca-dos-famintos-de-justica]] · [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] — agrupadas no mesmo capítulo V do ESE
 - [[wiki/conceitos/resignacao]] · [[wiki/conceitos/dor]] · [[wiki/conceitos/provas-e-expiacoes]]
 - [[wiki/conceitos/reencarnacao]] · [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito]]
