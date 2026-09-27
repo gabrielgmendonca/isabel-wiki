@@ -1838,3 +1838,17 @@ Achados de pesquisa que valem registro:
 - Lateral, corrigido: [[wiki/conceitos/mundos-regeneradores]] atribuía ao item 16 do ESE cap. III a frase da "alma penitente" que "encontra calma e repouso" — `reverse_locus` localiza no **item 17** (cobertura 1.00); locus trocado para item 17 (`atualizado_em` mantido).
 
 Todas as aspas do Pentateuco saíram de `insert_quote.py`/`cite.py`; as de C&I 2ª parte e das obras psicografadas foram conferidas por grep no raw.
+
+## [2026-09-27] estudo | O mal e o remédio (ESE, cap. V, item 19)
+
+Criada [[wiki/aprofundamentos/o-mal-e-o-remedio-ese-v-19]] (`tipo: aprofundamento`, `status: ativo`) a pedido do usuário, como sequência de [[wiki/aprofundamentos/bem-e-mal-sofrer-ese-v-18]], a partir dos destaques dele: a transição mundo de expiação e provas → mundo regenerador, a escolha das provas com os casos de planejamento reencarnatório de *Missionários da Luz*, a aplicação diária pelas coletâneas de Emmanuel (não murmurar, oração, fé, sofrimento terreno e felicidade celeste), a fé como remédio contra o mal e o "não mais sofrerá".
+
+Achados de pesquisa que valem registro:
+
+- **ESE III, item 19 ("Progressão dos mundos") também é de Santo Agostinho** (Paris, 1862): "de orbe expiatório, mudar-se-á em planeta de regeneração". As duas mensagens formam par — escala coletiva (1862) e individual (1863) da mesma transição.
+- **ESE XIX, item 1 abre com a cura de um obsidiado** (o menino "lunático", Mt 17:14–20): quando o item 19 receita a fé "aos atacados de obsessões cruéis" e evoca a fé que transporta montanhas, remete a essa cena.
+- **O "planejamento reencarnatório" de *Missionários da Luz* está no cap. 12**, não só nos caps. 13–14 (Segismundo): Manassés mostra os projetos de Silvério (perna doente como "antídoto à vaidade"), Anacleta, a senhora que pede "fealdade corpórea" e o homicida da úlcera ("Trata-se, porém, de escolha dele"). A página de obra [[wiki/obras/missionarios-da-luz]] descrevia os caps. 10–12 só como materialização — **corrigido**: tabela de estrutura reorganizada (cap. 10 materialização, cap. 11 intercessão Ester–Raul, cap. 12 planejamento reencarnatório), novas seções "Intercessão (cap. 11)" e "Planejamento reencarnatório (cap. 12)", tema central e personagens secundários acrescentados; `atualizado_em` bumpado para 2026-09-27.
+- **As transcrições das coletâneas de Emmanuel em `raw/` não trazem os títulos dos capítulos** — citados por número + epígrafe, sem inventar título.
+- A oração que o item põe na boca de Jó é paráfrase livre; a página cita Jó 1:21–22 e 2:8 pela ACF (`raw/biblia-acf/jo/`).
+
+Todas as aspas do Pentateuco saíram de `cite.py` (fragmentos conferidos por substring); as de *Missionários da Luz*, das coletâneas de Emmanuel e da ACF foram copiadas do raw. Lint do arquivo limpo (0 achados).

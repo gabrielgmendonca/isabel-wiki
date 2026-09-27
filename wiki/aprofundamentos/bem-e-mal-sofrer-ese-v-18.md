@@ -66,7 +66,7 @@ Kardec formula o mesmo princípio, em registro de contabilidade espiritual, seis
 
 ### O fardo proporcional
 
-A condição seria cruel se o fardo fosse arbitrário. Lacordaire a torna justa com uma garantia: Deus "não coloca fardos pesados em ombros fracos. O fardo é proporcionado às forças". A resignação pedida não é a de quem suporta o insuportável, mas a de quem descobre que **pode** suportar — e que a prova foi aceita antes do berço por quem se julgava capaz dela. A instrução seguinte, de Santo Agostinho, desdobra o ponto: "Como desencarnados, quando pairáveis no espaço, escolhestes as vossas provas, julgando-vos bastante fortes para as suportar. Por que agora murmurar?" (ESE, cap. V, item 19). Ver [[wiki/aprofundamentos/escolha-de-provas]].
+A condição seria cruel se o fardo fosse arbitrário. Lacordaire a torna justa com uma garantia: Deus "não coloca fardos pesados em ombros fracos. O fardo é proporcionado às forças". A resignação pedida não é a de quem suporta o insuportável, mas a de quem descobre que **pode** suportar — e que a prova foi aceita antes do berço por quem se julgava capaz dela. A instrução seguinte, de Santo Agostinho, desdobra o ponto: "Como desencarnados, quando pairáveis no espaço, escolhestes as vossas provas, julgando-vos bastante fortes para as suportar. Por que agora murmurar?" (ESE, cap. V, item 19). Ver [[wiki/aprofundamentos/escolha-de-provas]] e o estudo do item seguinte, [[wiki/aprofundamentos/o-mal-e-o-remedio-ese-v-19]].
 
 ### Resignação não é passividade
 
@@ -242,6 +242,7 @@ Arco sugerido em perguntas (padrão socrático):
 - [[wiki/conceitos/mundos-de-expiacao-e-provas]] · [[wiki/conceitos/mundos-regeneradores]] — o "labor" e o "repouso".
 - [[wiki/aprofundamentos/expiacao-e-arrependimento]] — tríade arrependimento–expiação–reparação (LE, q. 990–1002).
 - [[wiki/aprofundamentos/escolha-de-provas]] — o fardo aceito antes do berço.
+- [[wiki/aprofundamentos/o-mal-e-o-remedio-ese-v-19]] — a instrução seguinte (Santo Agostinho): "Por que agora murmurar?" e a fé como remédio.
 - [[wiki/sinteses/colecao-fonte-viva-emmanuel]] · [[wiki/sinteses/sermao-do-monte-em-emmanuel]] — as coletâneas evangélicas de Emmanuel.
 - [[wiki/personalidades/lacordaire]] — o Espírito comunicante.
 

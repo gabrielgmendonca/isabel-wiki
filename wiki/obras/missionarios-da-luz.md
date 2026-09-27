@@ -7,7 +7,7 @@ direitos:
   url_aquisicao: https://www.febeditora.com.br/missionarios-da-luz
   ano_dp_estimado: 2073
   observacao: "Chico Xavier (m. 2002) cedeu direitos autorais à FEB; PD estimado em 70 anos após óbito."
-atualizado_em: 2026-05-26
+atualizado_em: 2026-09-27
 status: rascunho
 ---
 
@@ -34,13 +34,14 @@ A obra se desdobra em prefácio ("Ante os tempos novos") e 20 capítulos. André
 | II — Patologia do médium | 3–6 | Desenvolvimento mediúnico · vampirismo · influenciação · oração como antídoto (caso Cecília) |
 | III — Socorro e sono físico | 7–8 | Grupo do Irmão Francisco · Antônio reanimado · Vieira (pesadelo) · Marcondes (atração inferior) |
 | IV — Mediunidade como manifesto | 9 | Preleção de Alexandre: mediunidade como expressão do Espírito imortal, não da carne |
-| V — Materialização | 10–12 | Calimério · ozonização · Preparação de experiências · Intercessão |
-| VI — Reencarnação | 13–14 | Caso Segismundo–Adelino–Raquel: cromossomos, redução perispiritual, fecundação assistida, consolidação aos 7 anos |
-| VII — Fracasso reencarnatório | 15 | Caso Cesarina/Volpíni: aborto provocado por leviandade |
-| VIII — Incorporação e doutrinação | 16–17 | Dionísio incorporado em Otávia · Marinho (sacerdote orgulhoso doutrinado por Necésio) |
-| IX — Obsessão | 18 | Cinco obsidiados; jovem que reage como contraste com a possessa |
-| X — Passes | 19 | Anacleto e a regra dos 10 socorros magnéticos |
-| XI — Adeus | 20 | Despedida de Alexandre; advertência contra a idolatria |
+| V — Materialização e intercessão | 10–11 | Calimério · ozonização (cap. 10) · a viúva Ester e o suicídio de Raul (cap. 11) |
+| VI — Planejamento reencarnatório | 12 | Pedido de Herculano por Segismundo · Planejamento de Reencarnações (Josino, Manassés): completistas, Silvério, Anacleta, a senhora do projeto endócrino, o homicida da úlcera |
+| VII — Reencarnação | 13–14 | Caso Segismundo–Adelino–Raquel: cromossomos, redução perispiritual, fecundação assistida, consolidação aos 7 anos |
+| VIII — Fracasso reencarnatório | 15 | Caso Cesarina/Volpíni: aborto provocado por leviandade |
+| IX — Incorporação e doutrinação | 16–17 | Dionísio incorporado em Otávia · Marinho (sacerdote orgulhoso doutrinado por Necésio) |
+| X — Obsessão | 18 | Cinco obsidiados; jovem que reage como contraste com a possessa |
+| XI — Passes | 19 | Anacleto e a regra dos 10 socorros magnéticos |
+| XII — Adeus | 20 | Despedida de Alexandre; advertência contra a idolatria |
 
 ## Resumo por eixos
 
@@ -95,11 +96,27 @@ Capítulo central da obra. Alexandre dirige assembleia noturna de aprendizes (en
 
 A subordinação ao Cristo é apresentada como porta de acesso: "eu sou a porta… se alguém entrar por mim será salvo" (Jo 10:9). "Sem o Cristo, a mediunidade é simples 'meio de comunicação' e nada mais, mera possibilidade de informação, como tantas outras, da qual poderão assenhorear-se também os interessados em perturbações" (cap. 9). A advertência fecha com a recusa explícita do fenomenismo: "Não provoqueis o desenvolvimento prematuro de vossas faculdades psíquicas! Ver sem compreender ou ouvir sem discernir pode ocasionar desastres vultosos ao coração."
 
-### Materialização (caps. 10–12)
+### Materialização (cap. 10)
 
 Alexandre conduz André a uma sessão diferente, supervisionada por **Calimério**. O ambiente é isolado por "extenso cordão de trabalhadores de nosso Plano, num círculo de vinte metros". Vinte entidades de hierarquia superior fazem **ozonização da atmosfera** por gestos rítmicos e por aparelhos de "grande potencial elétrico". A finalidade dupla: defender o ambiente contra entidades menos dignas e fornecer ozônio em alta concentração — necessário ao processo material e bactericida.
 
 A premissa pedagógica do bloco é a tensão entre **exigência científica** e **preparo moral**: as sessões de materialização "aparecem raramente" porque "a homogeneidade aqui deve ser muito mais intensa". Quando os assistentes vêm com "raciocínio acima do sentimento, pelas inquietudes da investigação, perdem os valores da cooperação e os resultados são negativos" (cap. 10).
+
+### Intercessão (cap. 11)
+
+Duas senhoras encarnadas, desdobradas pelo sono, procuram Alexandre: Etelvina traz a prima **Ester**, viúva de **Raul**, que pede para saber quem teria assassinado o marido. A investigação revela que Raul se suicidara. O capítulo mostra os limites do socorro espiritual: os encarnados "muitas vezes acreditam que somos meros adivinhos", mas o esclarecimento exige apuração cuidadosa, não adivinhação (cap. 11).
+
+### Planejamento reencarnatório (cap. 12)
+
+O capítulo abre com **Herculano** pedindo o concurso de Alexandre para a reencarnação de Segismundo e prepara o caso dos caps. 13–14. Antes de acompanhar o processo, André é levado ao **Planejamento de Reencarnações**, instituição da colônia onde técnicos desenham "projetos para futuras habitações carnais". Recebido pelo Assistente **Josino** e depois guiado por **Manassés**, dos serviços informativos da casa, André assiste a uma série de casos em que **a prova é escolhida, e às vezes pedida como remédio**:
+
+- **Silvério** aceita, por sugestão de amigos espirituais, nascer com uma perna com defeito: "a perna doente me auxiliará, ministrando-me boas preocupações", um "antídoto à vaidade". Confessa o medo de "contrair novos débitos", pelo esquecimento; Manassés responde: "seria muito mais difícil triunfar guardando a lembrança".
+- Os **completistas** são "os raros irmãos que aproveitaram todas as possibilidades construtivas que o corpo terrestre lhes oferecia". Podem escolher o corpo futuro e, ainda assim, pedem aparência menos primorosa, para não despertar inveja contra a própria tarefa.
+- **Anacleta** passou mais de trinta anos obtendo a concessão de reencarnar com os quatro filhos que se perderam por sua complacência de mãe. Dois voltarão paralíticos e um com deficiência mental: "Na lei do Pai, a justiça está cheia de misericórdia e continuo na condição de grande devedora."
+- Uma **senhora** pede que o projeto de sua tireoide seja menos perfeito: "Prefiro a fealdade corpórea", para não cair pela sedução.
+- Um **antigo homicida** tem no projeto uma úlcera no cólon: "Trata-se, porém, de escolha dele." Arrependido, servira à própria vítima no plano espiritual, e "o amor, contudo, transformou o caráter do trabalho de pagamento". Não haverá morte sangrenta, e sim uma ferida carregada dia a dia.
+
+A regra que Manassés extrai dos projetos: "a justiça se cumpre sempre, mas, logo se disponha o Espírito à precisa transformação no Senhor, atenua-se o rigorismo do processo redentor" (cap. 12). O capítulo é a ilustração mais direta, na série André Luiz, da escolha de provas de LE q. 258–266. Ver [[wiki/aprofundamentos/escolha-de-provas]] e o uso dos casos em [[wiki/aprofundamentos/o-mal-e-o-remedio-ese-v-19]] ("Por que agora murmurar?", ESE, cap. V, item 19).
 
 ### Reencarnação como engenharia fluídica (caps. 13–14)
 
@@ -164,6 +181,7 @@ A obra encerra na anotação pedagógica do orientador: "Junto do instrutor, o a
 - **Mediunidade como expressão do Espírito imortal** (cap. 9) — não da carne; subordinada ao Cristo como porta. Manifesto operacional citável que sintetiza Kardec (LM, 2ª parte) na linguagem chicoxaveriana.
 - **Vampirismo psíquico** (caps. 3–5) — primeira sistematização chicoxaveriana, antecede *Evolução em Dois Mundos* (1958). Larvas psíquicas como "bacilos da paixão"; vampirismo dos animais (alimentação carnívora) como contrapartida humana do parasitismo desencarnado.
 - **Oração como antídoto operacional** (cap. 6) — caso Cecília: a esposa que ora protege o lar mesmo durante o sono físico, pelo "acréscimo de misericórdia". Não substitui o esforço próprio.
+- **A prova escolhida como remédio** (cap. 12) — no Planejamento de Reencarnações, limitações físicas são pedidas contra tendências conhecidas (a perna de Silvério contra a vaidade, a "fealdade corpórea" contra a sedução) ou aceitas como forma atenuada de resgate (a úlcera do antigo homicida). Ilustra LE q. 258–266.
 - **Anatomia da reencarnação** (caps. 13–14) — engenharia fluídica detalhada: mapas cromossômicos, redução perispiritual, fecundação assistida, "geografia dos genes", consolidação aos 7 anos. Aprofunda LE q. 344–345 sem contradizê-la.
 - **Sexo como qualidade positiva/passiva cósmica** (cap. 13) — desloca o conceito do plano fisiológico ao princípio universal de "união de qualidades". Articula-se com Lei de Reprodução de Kardec (LE q. 686–701).
 - **Doutrina da reconciliação prévia à fecundação** (cap. 13) — antes do ato físico, é necessária a reconciliação espiritual entre os Espíritos envolvidos, sob pena de o pensamento envenenado destruir a "substância da hereditariedade, intoxicando a cromatina dentro da própria bolsa seminal".
@@ -179,7 +197,7 @@ A obra encerra na anotação pedagógica do orientador: "Junto do instrutor, o a
 - [[wiki/conceitos/obsessao]] — caps. 17–18; obsidiado como médium passivo de energias perturbadas
 - [[wiki/conceitos/prece]] — cap. 6 (caso Cecília); a oração como circuito magnético protetor
 - [[wiki/conceitos/centros-vitais]] — caps. 1–2; epífise como "glândula da vida espiritual"
-- [[wiki/conceitos/planejamento-reencarnatorio]] — caps. 13–14 (caso Segismundo); cap. 15 (caso Volpíni)
+- [[wiki/conceitos/planejamento-reencarnatorio]] — cap. 12 (Planejamento de Reencarnações: Silvério, Anacleta, o homicida da úlcera); caps. 13–14 (caso Segismundo); cap. 15 (caso Volpíni)
 - [[wiki/conceitos/reencarnacao]] — moldura de Kardec ampliada
 - [[wiki/conceitos/energia-sexual]] — cap. 13: sexo como qualidade positiva/passiva cósmica
 - [[wiki/conceitos/emancipacao-da-alma]] — cap. 8 (sono físico como porta dupla)
@@ -192,7 +210,7 @@ A obra encerra na anotação pedagógica do orientador: "Junto do instrutor, o a
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/alexandre]] — orientador da obra
 
-Personagens secundários sem página própria (mencionados em prosa): Anacleto (chefe dos passistas), Apuleio (chefe dos Construtores), Calimério (orientador da materialização), Sertório (auxiliar), Lísias (mensageiro do convite final), Irmão Francisco (chefe da turma de socorro), Afonso (doador magnético encarnado), Adelino e Raquel (casal-anfitrião), Segismundo (reencarnante), Joãozinho (filho de Adelino e Raquel), Herculano (orientador permanente do reencarnante), Cesarina e Volpíni (caso de fracasso), Otávia (médium do grupo), Dionísio (incorporado), Marinho (sacerdote doutrinado), Necésio (intérprete), Cecília (esposa orante), Antônio e Justina (caso de socorro a moribundo), Vieira e Marcondes (aprendizes em sono comprometido), Epaminondas (discípulo decano).
+Personagens secundários sem página própria (mencionados em prosa): Josino (assistente do Planejamento de Reencarnações), Manassés (serviços informativos), Silvério e Anacleta (reencarnantes do cap. 12), Etelvina, Ester e Raul (caso de intercessão do cap. 11), Anacleto (chefe dos passistas), Apuleio (chefe dos Construtores), Calimério (orientador da materialização), Sertório (auxiliar), Lísias (mensageiro do convite final), Irmão Francisco (chefe da turma de socorro), Afonso (doador magnético encarnado), Adelino e Raquel (casal-anfitrião), Segismundo (reencarnante), Joãozinho (filho de Adelino e Raquel), Herculano (orientador permanente do reencarnante), Cesarina e Volpíni (caso de fracasso), Otávia (médium do grupo), Dionísio (incorporado), Marinho (sacerdote doutrinado), Necésio (intérprete), Cecília (esposa orante), Antônio e Justina (caso de socorro a moribundo), Vieira e Marcondes (aprendizes em sono comprometido), Epaminondas (discípulo decano).
 
 ## Fontes
 
