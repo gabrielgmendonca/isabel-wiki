@@ -16,7 +16,7 @@ Mundos de transição entre os de expiação e os felizes, onde a alma penitente
 
 ### Posição na escala dos mundos
 
-Os mundos regeneradores ocupam posição intermediária entre os mundos de expiação e provas e os mundos felizes: São mundos de transição entre os mundos de expiação e os mundos felizes. A alma que aí se encontra, penitente, encontra calma e repouso, acabando por se depurar (ESE, cap. III, item 16).
+Os mundos regeneradores ocupam posição intermediária entre os mundos de expiação e provas e os mundos felizes: São mundos de transição entre os mundos de expiação e os mundos felizes. A alma que aí se encontra, penitente, encontra calma e repouso, acabando por se depurar (ESE, cap. III, item 17).
 
 ### Características da vida
 
