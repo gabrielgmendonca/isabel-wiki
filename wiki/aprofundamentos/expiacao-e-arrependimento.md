@@ -44,7 +44,7 @@ O *Céu e o Inferno* enuncia com precisão o princípio que rege toda esta subse
 
 > "Arrependimento, expiação e reparação são as três condições necessárias para apagar os traços de uma falta e suas consequências." (C&I, 1ª parte, cap. VII, item 16)
 
-Cada elemento da tríade é distinto e insubstituível. O arrependimento é o primeiro passo — suaviza as dores e prepara os caminhos da reabilitação, mas sozinho não basta. A expiação consiste nos sofrimentos físicos e morais consequentes à falta. A reparação, por fim, é o ato concreto que destrói a causa:
+Cada elemento da tríade é distinto e insubstituível. O arrependimento é o primeiro passo — suaviza as dores e prepara os caminhos da reabilitação, mas sozinho não basta. A expiação consiste nos sofrimentos físicos e morais consequentes à falta (C&I, 1ª parte, cap. VII, item 17). A reparação, por fim, é o ato concreto que destrói a causa:
 
 > "Somente a reparação pode anular o efeito, destruindo a causa; o perdão seria uma graça e não uma anulação." (C&I, 1ª parte, cap. VII, item 16)
 

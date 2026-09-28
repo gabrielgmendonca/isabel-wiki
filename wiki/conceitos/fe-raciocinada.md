@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [ESE]
 tags: [fe, razao, fe-raciocinada, obra/ese, autor/kardec, grau/intermediario, lei/justica-amor-caridade, tema/moral]
-atualizado_em: 2026-05-23
+atualizado_em: 2026-09-28
 status: ativo
 ---
 
@@ -16,19 +16,29 @@ Fé esclarecida pela razão que se distingue da fé cega; é inabalável porque 
 
 ### Fé inabalável — a que encara a razão
 
-Kardec apresenta a distinção capital entre fé cega e fé raciocinada: "Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da Humanidade" (ESE, cap. XIX, item 7). A fé que se recusa ao exame racional é frágil e pode ser destruída pelo progresso das ciências.
+Kardec apresenta a distinção capital entre fé cega e fé raciocinada: "Fé inabalável só o é a que pode encarar de frente a razão em todas as épocas da humanidade." (ESE, cap. XIX, item 7). A fé que se recusa ao exame racional é frágil e pode ser destruída pelo progresso das ciências.
 
 ### Fé religiosa e condição da fé inabalável
 
-O cap. XIX do ESE trata das condições para que a fé seja verdadeiramente sólida: A fé raciocinada, a que se baseia nos fatos e na lógica, nada deixa de obscuro; o crente a possui porque tem a certeza, e ninguém tem certeza senão quando compreende (ESE, cap. XIX, item 6). A fé cega aceita sem verificação; a raciocinada exige compreensão.
+O cap. XIX do ESE trata das condições para que a fé seja verdadeiramente sólida. Do ponto de vista religioso, "pode a fé ser raciocinada ou cega" (ESE, cap. XIX, item 6): a cega aceita, sem verificação, o verdadeiro e o falso, e a cada passo se choca com a evidência. A raciocinada, ao contrário:
+
+> "A fé raciocinada, por se apoiar nos fatos e na lógica, nenhuma obscuridade deixa. A criatura então crê, porque tem certeza, e ninguém tem certeza senão porque compreendeu." (ESE, cap. XIX, item 7)
 
 ### A fé que transporta montanhas
 
-Jesus disse: "Se tiverdes fé do tamanho de um grão de mostarda, direis a esta montanha: transporta-te daqui para ali, e ela se transportará" (S. Mateus, 17:20). Kardec interpreta: a fé que transporta montanhas é a fé viva, a vontade firme associada à confiança em Deus e à prática do bem: A fé que transporta montanhas é a que dá a força e a energia, a que leva ao cumprimento das grandes coisas (ESE, cap. XIX, item 4).
+Jesus disse: "Se tiverdes fé do tamanho de um grão de mostarda, direis a esta montanha: transporta-te daqui para ali, e ela se transportará" (S. Mateus, 17:20). Kardec lê a promessa "unicamente no sentido moral": as montanhas são as dificuldades, as resistências e a má vontade que barram o caminho de quem trabalha pelo progresso (ESE, cap. XIX, item 2). E o que as remove é a fé firme:
+
+> "A fé robusta dá a perseverança, a energia e os recursos que fazem se vençam os obstáculos, assim nas pequenas coisas, que nas grandes." (ESE, cap. XIX, item 2)
+
+Essa fé não é presunção: "A verdadeira fé se conjuga à humildade" (ESE, cap. XIX, item 4).
 
 ### Distinção entre fé humana e fé divina
 
-A fé que dá resultados não é a crença passiva e contemplativa, mas a confiança ativa que impulsiona à ação. A fé divina apoia-se na inteligência e na compreensão das leis naturais; a fé humana apoia-se apenas na autoridade e na tradição (ESE, cap. XIX, item 5).
+A fé que dá resultados não é a crença passiva e contemplativa, mas a confiança ativa que impulsiona à ação. Kardec distingue as duas pelo objeto a que se aplicam, não pelo grau de exame:
+
+> "A fé é humana ou divina, conforme o homem aplica suas faculdades à satisfação das necessidades terrenas, ou das suas aspirações celestiais e futuras." (ESE, cap. XIX, item 12)
+
+O homem de gênio triunfa num grande empreendimento "se tem fé"; o homem de bem, crente no seu futuro, haure na fé a força para encher a existência de nobres ações (ESE, cap. XIX, item 12).
 
 ## Desdobramentos
 
@@ -48,7 +58,7 @@ Paulo, em Colossenses, diante do sincretismo do vale do Lico, formula um critér
 
 > "Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo." (Cl 2:8, ACF)
 
-A passagem **não é hostil à razão**; o alvo paulino é **filosofia humana sem revelação** — especulação desconectada da experiência espiritual e da moral evangélica. O critério paulino "segundo Cristo" é simétrico ao critério de Kardec: filosofia que não passa pelo teste da moral evangélica é "vã sutileza", mesmo que pareça erudita. A fé raciocinada espírita está, portanto, **na linha paulina** — é razão **iluminada** pela revelação, não razão crua nem fé crua. Cl 2:8 articula com ESE cap. XIX, item 6 ("a fé raciocinada nada deixa de obscuro") e com a recusa de Kardec do fideísmo (LE q. 886).
+A passagem **não é hostil à razão**; o alvo paulino é **filosofia humana sem revelação** — especulação desconectada da experiência espiritual e da moral evangélica. O critério paulino "segundo Cristo" é simétrico ao critério de Kardec: filosofia que não passa pelo teste da moral evangélica é "vã sutileza", mesmo que pareça erudita. A fé raciocinada espírita está, portanto, **na linha paulina** — é razão **iluminada** pela revelação, não razão crua nem fé crua. Cl 2:8 articula com ESE cap. XIX, item 7 ("A fé raciocinada, por se apoiar nos fatos e na lógica, nenhuma obscuridade deixa") e com a recusa de Kardec do fideísmo (LE q. 886).
 
 Ver [[wiki/obras/epistola-aos-colossenses]].
 
@@ -91,7 +101,7 @@ No preâmbulo do Credo Espírita, Kardec reforça a necessidade da fé raciocina
 
 ## Fontes
 
-- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 4–7.
+- Kardec, Allan. *O Evangelho Segundo o Espiritismo*. Trad. Guillon Ribeiro. Rio de Janeiro: FEB. Cap. XIX ("A fé transporta montanhas"), itens 2, 4, 6, 7 e 12. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - Kardec, Allan. *Obras Póstumas*, "Credo espírita" e "As aristocracias". FEB.
 - *Bíblia Sagrada* (ACF). Segunda Epístola aos Coríntios, 5:6–7. Ver [[wiki/obras/segunda-epistola-aos-corintios]].
 - PEREIRA, Yvonne do Amaral ([[wiki/personalidades/yvonne-pereira|Frederico Francisco]]). *À Luz do Consolador*. Rio de Janeiro: FEB, 1997 (*A verdade mediúnica*, *O estranho mundo dos suicidas*, *Convite ao estudo*, *Emmanuel Swedenborg*). Ver [[wiki/obras/a-luz-do-consolador]]. Critério: ESE, Introdução; cap. VI.
