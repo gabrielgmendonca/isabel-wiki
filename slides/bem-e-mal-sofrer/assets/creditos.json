@@ -1,0 +1,47 @@
+{
+  "deck": "bem-e-mal-sofrer",
+  "fonte_curadoria": "reports/palestra/bem-e-mal-sofrer-ese-v-18-19-2026-09-27-2151/arco-revisado.md — candidatos indicados por Gabriel no arco revisado; licença conferida no Wikimedia Commons em 2026-09-30",
+  "politica": "Arte em domínio público; licença confirmada na fonte. Ver .claude/rules/convencoes-imagens.md.",
+  "imagens": [
+    {
+      "arquivo": "bloch-sermao-da-montanha.jpg",
+      "uso": "Abertura (a multidão diante do monte, Mt 4:24-25; 5:1)",
+      "titulo": "O Sermão da Montanha",
+      "autor": "Carl Bloch",
+      "ano": "1877",
+      "licenca": "Domínio público (autor falecido em 1890)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Bloch-SermonOnTheMount.jpg",
+      "atribuicao": "Carl Bloch, O Sermão da Montanha, 1877, Castelo de Frederiksborg. Domínio público. Via Wikimedia Commons."
+    },
+    {
+      "arquivo": "rembrandt-tempestade.jpg",
+      "uso": "Parte 4 — a tempestade acalmada (Lc 8:22-25)",
+      "titulo": "A Tempestade no Mar da Galileia",
+      "autor": "Rembrandt van Rijn",
+      "ano": "1633",
+      "licenca": "Domínio público (autor falecido em 1669)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "atribuicao": "Rembrandt van Rijn, A Tempestade no Mar da Galileia, 1633 (Isabella Stewart Gardner Museum, furtada em 1990). Domínio público. Via Wikimedia Commons."
+    },
+    {
+      "arquivo": "rafael-transfiguracao.jpg",
+      "uso": "Parte 4 — \"Por causa da vossa incredulidade\" (Mt 17:14-20; a metade inferior mostra o menino lunático que os discípulos não curaram)",
+      "titulo": "A Transfiguração",
+      "autor": "Rafael (Raffaello Sanzio)",
+      "ano": "1516-1520",
+      "licenca": "Domínio público (autor falecido em 1520)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Raphael_-_The_Transfiguration_-_Google_Art_Project.jpg",
+      "atribuicao": "Rafael, A Transfiguração, 1516-1520, Pinacoteca Vaticana. Domínio público. Via Wikimedia Commons (Google Art Project)."
+    },
+    {
+      "arquivo": "tissot-tempestade-acalmada.jpg",
+      "uso": "Parte 4 — \"Onde está a vossa fé?\" (Lc 8:25)",
+      "titulo": "Jesus acalmando a tempestade (Jésus calmant la tempête)",
+      "autor": "James Tissot",
+      "ano": "1886-1894",
+      "licenca": "Domínio público (autor falecido em 1902)",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Jesus_Stilling_the_Tempest_(J%C3%A9sus_calmant_la_temp%C3%AAte)_-_James_Tissot_-_overall.jpg",
+      "atribuicao": "James Tissot, Jesus acalmando a tempestade, 1886-1894, Brooklyn Museum. Domínio público. Via Wikimedia Commons."
+    }
+  ]
+}
