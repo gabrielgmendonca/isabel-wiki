@@ -41,7 +41,15 @@ from pathlib import Path
 
 import yaml
 
-SEARCH_CMD_RE = re.compile(r"\b(grep|rg|ripgrep|fgrep|egrep|find|ag)\b")
+# Busca só conta em posição de comando (início de linha, após `|`, `;`, `&`,
+# `(`, `$(`, `xargs`) — não quando "grep" aparece num argumento, numa mensagem
+# de commit ou no corpo de um heredoc (que é removido antes do teste).
+SEARCH_CMD_RE = re.compile(
+    r"(?:^|[|;&(]|\$\(|\bxargs(?:\s+-\S+)*)\s*(?:sudo\s+)?"
+    r"(?:grep|rg|ripgrep|fgrep|egrep|find|ag)\b",
+    re.M,
+)
+HEREDOC_RE = re.compile(r"<<-?\s*(['\"]?)(\w+)\1[^\n]*\n.*?^\s*\2\s*$", re.S | re.M)
 WIKI_RAW_REL_RE = re.compile(r"(?:^|[\s'\"=({])((?:wiki|raw)(?:/[\w\-./*?]+)?)")
 # High-signal markers: sed in-place (BSD/GNU divergence + classic for+sed silent
 # failure) and bash 4 array builtins (don't exist on macOS bash 3.2).
@@ -152,7 +160,7 @@ def derive_rel(tool_name: str, tool_input: dict, cwd: str) -> str | None:
         return rel
 
     if tool_name == "Bash":
-        cmd = tool_input.get("command") or ""
+        cmd = HEREDOC_RE.sub("", tool_input.get("command") or "")
         if not SEARCH_CMD_RE.search(cmd):
             return None
         # Normalize absolute paths under cwd to relative form, then look for
