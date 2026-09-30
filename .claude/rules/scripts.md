@@ -6,41 +6,12 @@ paths:
 
 # Scripts e automação
 
-## Onde mora um script
-
-- Script auxiliar de uma skill → `.claude/skills/<skill>/scripts/<arquivo>.py` (padrão Claude Code; não jogar em `scripts/` na raiz).
-- Script de pipeline/curadoria da wiki, reusado fora de uma skill → `scripts/` na raiz.
-
-## Como rodar
-
-Para rodar scripts Python locais nesta wiki, sempre prefixar com `uv run python`:
-
-```bash
-uv run python .claude/skills/<skill>/scripts/<script>.py
-```
-
-Não usar `python` (macOS sem alias) nem `python3` direto (não usa o ambiente do projeto).
-
-**No CI** (GitHub Actions, `.github/workflows/*`), o runner não tem `uv` — workflows usam `python3` e isso é correto. Não alterar comandos no CI.
-
-Quando criar nova skill que invoque script Python, escrever os exemplos com `uv run python`. Não duplicar a regra dentro do `SKILL.md` — esta rule já está documentada em CLAUDE.md §5 e injetada automaticamente quando se edita arquivos em `.claude/skills/**`.
-
-## Dependência madura > conversor caseiro
-
-Para domínios bem cobertos por bibliotecas estabelecidas — HTML→Markdown, MD→HTML, parsing de YAML/TOML, slugify, datas — preferir **adicionar a dependência** (`uv add <pkg>`) a escrever um wrapper ad hoc (ex.: conversor manual em BeautifulSoup). Antes de propor um parser/conversor custom de ~30+ linhas, verificar se há lib bem mantida no PyPI e propor `uv add` no plano. Não vale para lógica de negócio específica do projeto.
-
-## Conversores fonte → Markdown (já existem; checar antes de criar)
-
-Antes de pensar em wrapper novo para ingerir material em `raw/`, conferir `ls scripts/convert_*`. Hoje há três conversores canônicos:
-
-- **`.doc` / `.docx`** → `uv run python scripts/convert_doc_to_md.py <dir>` (LibreOffice headless → markitdown; opera em lote sobre um diretório).
-- **`.pdf` born-digital** → `./scripts/convert_pdf_to_md.sh <arquivo.pdf>` (`marker` + modelos surya, ~6s/página em CPU; salva o `.md` ao lado do PDF). Para PDFs com tabelas/layout sujo, `USE_LLM=1 ./scripts/convert_pdf_to_md.sh ...` aciona Gemini 2.5 Flash Lite (requer `GEMINI_API_KEY` no `.env`). **Não** usar `markitdown` para PDF: preserva hifenização de fim de linha (`melhorando-` / `-se`), quebra cada linha do PDF como parágrafo, mantém cabeçalho corrente repetido por página e o sumário com pontilhados. `marker` resolve os três.
-- **`.epub`** → `uv run python scripts/convert_epub_to_md.py <arquivo-ou-dir>` (markitdown nativo; aceita arquivo único ou diretório; `--force` sobrescreve; salva `.md` ao lado). Para impor o layout canônico de `raw/` depois (slug kebab-case ASCII, hierarquia por autor), rodar `scripts/normalize_raw_layout.py`.
-
-Palestras de YouTube têm pipeline próprio — não tentar tratar como conversor genérico. Use `/yt <URL>` ou `/yt-bulk <canal> --limit N`, que produzem `raw/palestras/<canal-slug>/<titulo-slug>.md` + `summary-<titulo-slug>.md` (ver `convencoes-palestras.md`).
-
-Nova fonte (`.rtf`, `.html`, Pages…) → primeiro `grep`/`ls` em `scripts/convert_*`, depois lib madura no PyPI; só escrever wrapper se nenhum cobrir.
-
-## Lint determinístico em fluxos automáticos
-
-Em automação — skills wrapper (`/ship`), hooks `PostToolUse`, loops (`/autolint`) — invocar o script determinístico `.claude/skills/lint/scripts/lint_wiki.py`, **não** a skill `/lint` (que puxa LLM para análise editorial). O script já cobre os checks estruturais (frontmatter, wikilinks, taxonomia, direitos); LLM em loop/hook é caro e o ganho é marginal. A skill `/lint` permanece para uso interativo dirigido pelo usuário. Mesmo num `/autolint` que corrija via LLM, a fase de detecção e re-validação roda no script.
+- **Onde mora**: auxiliar de skill → `.claude/skills/<skill>/scripts/`; pipeline/curadoria reusada fora de skill → `scripts/`.
+- **Como rodar**: sempre `uv run python <script>` (nem `python` nem `python3`). Exceção: no CI (`.github/workflows/*`) é `python3` — não mudar.
+- **Lib madura > wrapper caseiro**: para HTML↔MD, YAML/TOML, slugify, datas etc., propor `uv add <pkg>` antes de escrever parser próprio de ~30+ linhas.
+- **Conversores já existentes** (checar `ls scripts/convert_*` antes de criar outro):
+  - `.doc`/`.docx` → `uv run python scripts/convert_doc_to_md.py <dir>`
+  - `.pdf` → `./scripts/convert_pdf_to_md.sh <arquivo.pdf>` (`marker`; `USE_LLM=1` para layout sujo, exige `GEMINI_API_KEY` no `.env`). **Não** usar markitdown para PDF.
+  - `.epub` → `uv run python scripts/convert_epub_to_md.py <arquivo-ou-dir>`; depois `scripts/normalize_raw_layout.py` para o layout de `raw/`.
+  - YouTube → `/yt` ou `/yt-bulk`, nunca conversor genérico.
+- **Lint em automação** (hooks, loops, `/ship`): o script `.claude/skills/lint/scripts/lint_wiki.py`, nunca a skill `/lint` (que usa LLM).
