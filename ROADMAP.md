@@ -243,6 +243,11 @@ Kardec (m. 1869) e Léon Denis (m. 1927) estão em domínio público; Chico Xavi
 
 Eixo essencialmente fechado (cinco frentes da auditoria de 2026-05-02 entregues — ver [Concluído](#concluído)). Itens descartados: validação explícita de prompt caching (Claude Code já cacheia 5min), `references/` carregado sob demanda nas skills (não é prioridade até SKILL.md passar de 200 linhas).
 
+**Reaberto 2026-09-29 — context bloat.** Feito: `inject-rules.py` injeta cada rule 1× por sessão (antes, ~35 KB a cada Edit em `wiki/**`), com gates `quando:`/`bash:`/`repetir:` e testes em `tests/test_inject_rules.py`; rules e CLAUDE.md enxugados (~78 → 31 KB). Pendente:
+
+- [ ] **Prompts do `palestra-dossie.js` (60 KB)** — provável maior alavanca restante, pois o custo é `rounds × contexto` por agente. **Medir antes de cortar**: quanto texto chega a cada agente e em quantos rounds; só então condensar o que se repete entre estágios.
+- [ ] **Corpo das skills** — `ingest` (15 KB), `palestra` (14,5), `slides` (14), `autocritica`/`ship`/`lint` (~9). Mesmo padrão das rules: sai justificativa histórica e o que duplica rule ou ROADMAP; ficam passos e normas. Uma skill por fatia, com revisão humana de cada diff, começando pela `ingest`. Não mexer nas `description:` (governam o disparo).
+
 ---
 
 ## 10. Varredura de backlog (snapshot operacional)
