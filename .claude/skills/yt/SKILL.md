@@ -50,7 +50,8 @@ Conferir que os dois arquivos foram criados (`<slug>.md` + `summary-<slug>.md`) 
 
 ## Dependências
 
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) — instalado via `uv` (ver `pyproject.toml`). O script invoca como `uv run yt-dlp`.
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) — instalado via `uv` com o extra `[default]` (ver `pyproject.toml`), que traz o `yt-dlp-ejs` para resolver o desafio JavaScript do YouTube. O script invoca como `uv run yt-dlp`. Se o download voltar a dar **HTTP 403**, é versão defasada: `uv lock --upgrade-package yt-dlp && uv sync`.
+- [`deno`](https://deno.com) no `$PATH` (`brew install deno`) — runtime JS que o `yt-dlp-ejs` usa para o desafio acima; sem ele o YouTube recusa os formatos.
 - [`summarize`](https://github.com/steipete/summarize) (`@steipete/summarize`) — CLI Node.js, instalado via `brew install summarize`.
 - Claude CLI no `$PATH` (o script usa `summarize --cli claude`, então passa pela sua sessão Claude Code — sem API key).
 - `BROWSER_COOKIES` env (default: `safari`) — usado para `--cookies-from-browser` evitar bloqueio anti-bot do YouTube.

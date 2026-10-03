@@ -70,7 +70,7 @@ Como tratar:
 
 Mesmas do `/yt` — esta skill é uma camada fina de orquestração sobre `.claude/skills/yt/scripts/yt.sh`:
 
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) — via `uv run` (ver `pyproject.toml`).
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) — via `uv run` (ver `pyproject.toml`); precisa de `deno` no `$PATH`. HTTP 403 = versão defasada — ver Dependências em `.claude/skills/yt/SKILL.md`.
 - [`summarize`](https://github.com/steipete/summarize) — CLI Node.js, via `brew install summarize`.
 - Claude CLI no `$PATH` (chamado por `summarize --cli claude`).
 - `BROWSER_COOKIES` env (default: `safari`) — usado para `--cookies-from-browser` evitar bloqueio anti-bot do YouTube.
