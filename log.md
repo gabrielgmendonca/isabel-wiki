@@ -1852,3 +1852,11 @@ Achados de pesquisa que valem registro:
 - A oração que o item põe na boca de Jó é paráfrase livre; a página cita Jó 1:21–22 e 2:8 pela ACF (`raw/biblia-acf/jo/`).
 
 Todas as aspas do Pentateuco saíram de `cite.py` (fragmentos conferidos por substring); as de *Missionários da Luz*, das coletâneas de Emmanuel e da ACF foram copiadas do raw. Lint do arquivo limpo (0 achados).
+
+## [2026-10-04] ingest | Pinga-Fogo I e II (Chico Xavier, TV Tupi, 1971)
+
+Criada [[wiki/obras/pinga-fogo]] (`status: rascunho`, nível 3 como fala oral assistida, não psicografia) a partir das transcrições do áudio dos dois programas, com o livro EDICEL como edição. Citação por `(Chico Xavier, *Pinga-Fogo I|II*, H:MM:SS)`; Emmanuel só onde Chico lhe atribui a resposta. Sem conceito novo: o material consolidou em psicografia, animismo, suicídio, perispírito, pluralidade dos mundos, leis de reprodução/destruição/conservação, aborto, sexualidade em Emmanuel e na divergência da mudança de sexo (extensão compatível, status inalterado), além de Chico Xavier, Emmanuel, Bezerra, Waldo Vieira e Flammarion. Notas de contexto (não divergências) sobre a fala política de dez/1971, a Umbanda e a frase condicional dos "50 anos".
+
+## [2026-10-04] sintese | A "data-limite" de Chico Xavier
+
+Criada [[wiki/sinteses/data-limite]] (`status: rascunho`), a pedido do usuário. A página deixa explícito que a profecia é fala de Chico transmitida por terceiro: o relato de Geraldo Lemos Neto sobre uma conversa de 1986, publicado na *Folha Espírita* em 2011 e reproduzido no *Caderno de mensagens*, cap. 14. Não há psicografia por trás. A página confronta o relato com a fala condicional do *Pinga-Fogo I* (1971), que não fixa data e, contada de 1971, apontaria para 2021; com *A Caminho da Luz* cap. 24, onde o desfecho fica com Deus; e com LM item 289 ("toda predição circunstanciada vos deve ser suspeita") e Gênese cap. XVIII, itens 2 e 27. A nota da página [[wiki/obras/pinga-fogo]] foi corrigida: ela afirmava que a narrativa partia do programa. A frase "profecias são reveladas para não serem cumpridas", atribuída a Emmanuel, não foi localizada no corpus.

@@ -1,10 +1,10 @@
 ---
 tipo: personalidade
-fontes: [OPE, RE]
+fontes: [OPE, RE, Chico Xavier]
 tags: [flammarion, astronomo, ciencia, discurso, spee, medium, galileu, pluralidade-dos-mundos, deus-na-natureza, narracoes-do-infinito, lumen, urania, o-fim-do-mundo, como-acabara-o-mundo, estela, a-morte-e-o-seu-misterio, as-casas-mal-assombradas, metapsiquica, telepatia, aparicoes, marte, jupiter, materialismo, obra/ope, obra/re, autor/kardec, grau/intermediario, tema/historia-doutrina, autor/flammarion]
 aliases:
   - "Nicolas Camille Flammarion"
-atualizado_em: 2026-05-26
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -139,6 +139,8 @@ Ver [[wiki/obras/as-casas-mal-assombradas]].
 - [[wiki/obras/revista-espirita-1863]] — resenha de *La pluralité des mondes habités* (jan/1863) e republicação de "Os Espíritos e o Espiritismo" (abr/1863).
 - *La pluralité des mondes habités* (Paris: Bachelier, 1862) — livro de estreia, defesa científica da pluralidade dos mundos.
 - *Estudos Uranográficos* (RE, set/1862) — série psicografada por Flammarion, assinada por Galileu.
+
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — no programa de dez/1971, Freitas Nobre exibe a 2ª edição (1877) de obra de Flammarion com fotografias lunares; Chico o chama "grande e inesquecível pioneiro" das pesquisas sobre a vida em outros mundos (Chico Xavier, *Pinga-Fogo II*, 0:58:21–1:00:24).
 
 ## Páginas relacionadas
 

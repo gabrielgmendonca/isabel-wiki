@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM, André Luiz/Chico Xavier]
+fontes: [LM, André Luiz/Chico Xavier, Chico Xavier]
 tags: [animismo, mediunidade, mediuns, identidade-dos-espiritos, obsessao, andre-luiz, autor/kardec, autor/andre-luiz, autor/chico-xavier, tema/mediunidade, obra/lm, grau/intermediario]
-atualizado_em: 2026-05-18
+atualizado_em: 2026-10-04
 status: rascunho
 ---
 
@@ -39,6 +39,8 @@ Mesmo em médiuns mecânicos "o cérebro desempenha sempre um papel ativo" (LM, 
 ### Identidade dos Espíritos
 
 O exame de [[wiki/conceitos/identidade-dos-espiritos]] (LM cap. XXIV) já contém o problema anímico: parte das comunicações pode ser **eco do próprio médium** travestido em comunicação alheia. Daí a regra do exame conjunto: "falem dois ou três profetas, e os outros julguem" (1 Co 14:29; cf. LM, 2ª parte, cap. XXVI, item 279).
+
+No *Pinga-Fogo* de 1971, o católico João de Scantimburgo contrapõe a Chico Xavier a hipótese da escrita automática inconsciente; Chico admite o fato anímico em geral, mas nega que explique 400+ estilos que não conhecia (Chico Xavier, *Pinga-Fogo I*, 0:57:52–1:02:20). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ### Médiuns sonâmbulos e extáticos (LM cap. XIV)
 

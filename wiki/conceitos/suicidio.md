@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE, C&I, André Luiz/Chico Xavier]
+fontes: [LE, ESE, C&I, André Luiz/Chico Xavier, Chico Xavier]
 tags: [suicidio, morte, lei-de-conservacao, sofrimento, expiacao, suicidio-moral, suicidio-indireto, alienacao-mental, andre-luiz, nosso-lar, no-mundo-maior, obra/le, obra/ese, obra/ci, lei/conservacao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sofrimento]
-atualizado_em: 2026-05-26
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -119,6 +119,10 @@ A formulação articula três pontos:
 Os casos visitados no manicômio terrestre exemplificam: a velha "marquesa" travada em fantasias de existência anterior, o esquizofrênico autômato sob hipnose vingativa de antigas vítimas, os velhinhos atoleimados que regrediram à infância pelo abandono do esforço espiritual. Em todos, "a alienação mental começa a 'descida da alma às zonas inferiores da morte'" (cap. 16) — fórmula que articula loucura, suicídio moral e [[wiki/conceitos/morte-espiritual]].
 
 Não há divergência com Kardec: o cap. 16 estende a casuística empírica de LE q. 952 e ESE cap. V para um quadro que Kardec não tratou clinicamente, mas para o qual a doutrina já estava preparada (LE q. 472 sobre alienação por causa moral). Ver [[wiki/obras/no-mundo-maior]].
+
+### Deformidades congênitas como consequência (Chico Xavier, *Pinga-Fogo*, 1971)
+
+Respondendo a um pastor evangélico, Chico enumera casos em que o suicida retorna com marca correspondente ao gesto: cardiopatia congênita (tiro no coração), paraplegia infantil (enforcamento), enfisema (afogamento), surdez, cegueira ou mudez congênitas (tiro no crânio), "porque nós estamos em nosso corpo físico subordinado ao nosso corpo espiritual" (Chico Xavier, *Pinga-Fogo I*, 0:48:16–0:57:51). É a casuística da "nova existência, que será pior" (LE, q. 957), e o argumento com que Chico responde à objeção bíblica à reencarnação. Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ### *[[wiki/obras/memorias-de-um-suicida|Memórias de um Suicida]]* — o percurso completo do suicida (Camilo Castelo Branco / Yvonne Pereira, 1955)
 

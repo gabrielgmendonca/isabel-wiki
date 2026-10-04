@@ -1,9 +1,9 @@
 ---
 title: "Lei de destruição"
 tipo: conceito
-fontes: [LE, André Luiz/Chico Xavier]
+fontes: [LE, André Luiz/Chico Xavier, Chico Xavier]
 tags: [destruicao, guerra, pena-de-morte, crueldade, lei-moral, obra/le, lei/destruicao, autor/andre-luiz, autor/chico-xavier, autor/kardec, grau/intermediario, tema/sociedade]
-atualizado_em: 2026-04-27
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -25,6 +25,8 @@ A destruição por mero prazer (caça inútil, crueldade sem necessidade) revela
 
 Deus dispõe de muitos meios para fazer a Humanidade progredir — os flagelos são "necessários" somente porque o homem não se aproveita dos meios pacíficos que lhe são dados para progredir pelo conhecimento do bem e do mal (LE, q. 738).
 
+Chico Xavier lê as mortes coletivas como "provações coletivas que coletivamente adquirimos", resgate de dívidas de quando estamos "acompliciados nas mesmas culpas" (Chico Xavier, *Pinga-Fogo II*, 1:56:00). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
+
 ## Guerra
 
 Quem suscita guerra para proveito próprio é "grande culpado" e muitas existências lhe serão necessárias para expiar os assassínios de que foi causa (LE, q. 745).
@@ -42,6 +44,8 @@ O desenvolvimento intelectual **não implica necessariamente** a prática do bem
 ## Pena de morte
 
 > "Incontestavelmente desaparecerá e a sua supressão assinalará um progresso da Humanidade. Quando os homens estiverem mais esclarecidos, a pena de morte será completamente abolida na Terra." (LE, q. 760)
+
+No *Pinga-Fogo* de dez/1971, Chico transmite a leitura de Emmanuel pela parábola do bom samaritano: todos são qualificados, "menos a vítima. A vítima era um homem"; os presos "são doentes" e "cada sentença é uma cirurgia no corpo espiritual"; pede-se aos magistrados "que ninguém morra em nome da justiça" (Chico Xavier, *Pinga-Fogo II*, 1:18:49–1:24:00). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Páginas relacionadas
 

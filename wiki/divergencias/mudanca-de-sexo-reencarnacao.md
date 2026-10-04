@@ -1,8 +1,8 @@
 ---
 tipo: divergencia
-fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira]
+fontes: [LE, C&I, OPS, NT, Emmanuel/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, Chico Xavier]
 tags: [reencarnacao, sexo, homossexualidade, leon-denis, paulo, romanos, emmanuel, andre-luiz, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, lei/justica-amor-caridade, tema/encarnacao, tema/moral]
-atualizado_em: 2026-06-03
+atualizado_em: 2026-10-04
 status: aberta
 ---
 
@@ -187,6 +187,10 @@ A diferença com Denis é qualitativa: Denis **estigmatiza** quem mudou; Emmanue
 ### Status
 
 A divergência permanece `aberta` por causa de Denis (e da estrutura paulina). Emmanuel é registrado aqui como **inversão pastoral** que reforça a leitura de Kardec e neutraliza, na tradição espírita brasileira, o vetor estigmatizante deniseano. Casa espírita que precise de referência interna sobre o tema pode citar diretamente *Vida e Sexo* cap. 21 sem necessidade de recorrer a autores fora da tradição.
+
+## Extensão: Chico Xavier em público (*Pinga-Fogo*, 1971)
+
+Perguntado por Hernani Guimarães Andrade se haveria relação entre homossexualidade e "transexualidade no sentido reencarnatório", Chico responde: "Na maioria dos casos, sim" — e pede respeito aos irmãos "em condições inversivas do ponto de vista de sexo, realizando tarefas muito edificantes ou em caminho de redenção" (Chico Xavier, *Pinga-Fogo II*, 2:47:35). É a tese de *Vida e Sexo* (1970) dita diante de milhões, sem o registro restritivo de Denis: confirma a leitura de Kardec (LE, q. 200–202) como fato natural, com acento pastoral. Extensão compatível, não nova divergência. Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Extensão: Joanna de Ângelis (*Encontro com a Paz e a Saúde*, 2007)
 

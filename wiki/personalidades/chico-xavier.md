@@ -1,11 +1,11 @@
 ---
 tipo: personalidade
-fontes: [Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, Humberto de Campos/Chico Xavier]
+fontes: [Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, Humberto de Campos/Chico Xavier, Chico Xavier]
 tags: [chico-xavier, medium, psicografia, pedro-leopoldo, uberaba, emmanuel, andre-luiz, waldo-vieira, os-mensageiros, mecanismos-da-mediunidade, sexo-e-destino, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/humberto-de-campos, grau/intermediario, tema/historia-doutrina]
 aliases:
   - "Francisco Cândido Xavier"
   - "Francisco Xavier"
-atualizado_em: 2026-05-12
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -68,6 +68,8 @@ Obras psicografadas por Chico Xavier presentes na wiki (vide critério de citaç
 - [[wiki/obras/vida-e-sexo]] — Emmanuel / Chico Xavier (1970). Tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina Espírita; 25 capítulos com epígrafes do Pentateuco.
 
 A produção total atribuída a Chico Xavier abrange ainda obras-marco como *O Evangelho por Emmanuel* — não ingeridas até a data desta página. O quarteto de **coletâneas evangélicas iniciais de Emmanuel** psicografadas por Chico entre 1948 e 1956 — [[wiki/obras/caminho-verdade-e-vida|Caminho, Verdade e Vida]] (1948), [[wiki/obras/pao-nosso|Pão Nosso]] (1950), [[wiki/obras/vinha-de-luz|Vinha de Luz]] (1952) e [[wiki/obras/fonte-viva|Fonte Viva]] (1956) — está **completo na wiki**, e [[wiki/obras/palavras-de-vida-eterna|Palavras de Vida Eterna]] (1964) prolonga o ciclo dezesseis anos depois, em registro pastoral já decantado pela longa convivência do par mediúnico com o gênero.
+
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — entrevistas ao vivo na TV Tupi (28/07 e 21/12/1971), assistidas por Emmanuel; registro mais extenso de Chico expondo a Doutrina de viva voz. Argumento biográfico contra a hipótese do inconsciente (escolaridade primária, 400+ autores, visão como de cinema, sem consciência do texto), renúncia a obra própria porque em outras vidas "abusamos muito da inteligência" e recusa de qualquer pagamento pelos livros (Chico Xavier, *Pinga-Fogo I*, 0:29:33; *Pinga-Fogo II*, 3:01:51; 2:12:08).
 
 ## Citações relevantes
 

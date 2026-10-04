@@ -1,8 +1,8 @@
 ---
 tipo: personalidade
-fontes: [André Luiz/Chico Xavier+Waldo Vieira, André Luiz/Waldo Vieira]
+fontes: [André Luiz/Chico Xavier+Waldo Vieira, André Luiz/Waldo Vieira, Chico Xavier]
 tags: [waldo-vieira, medium, uberaba, chico-xavier, andre-luiz, conduta-espirita, autor/chico-xavier, autor/andre-luiz, autor/waldo-vieira, tema/mediunidade, tema/historia-doutrina, grau/intermediario]
-atualizado_em: 2026-07-12
+atualizado_em: 2026-10-04
 status: rascunho
 ---
 
@@ -34,6 +34,8 @@ A psicografia em parceria seguiu o protocolo da Comunhão Espírita Cristã: doi
 - [[wiki/obras/conduta-espirita]] — André Luiz / Waldo Vieira (1960). **Psicografia solo**; epítome de conduta em 47 capítulos, prefácio de Emmanuel.
 - [[wiki/obras/sexo-e-destino]] — André Luiz / Chico Xavier + Waldo Vieira (1963). Coautoria mediúnica.
 - *Desobsessão* (FEB, 1964) — André Luiz / Chico Xavier + Waldo Vieira. Não ingerida até a data desta página; candidata a `/ingest`.
+
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — Chico descreve em 1971 o método de recepção de *Evolução em Dois Mundos*: capítulos alternados recebidos por ele (Pedro Leopoldo) e por Waldo (Uberaba) em dias convencionados, trocados pelo correio, sem que um soubesse o que o outro recebera (Chico Xavier, *Pinga-Fogo I*, 1:21:58).
 
 ## Páginas relacionadas
 

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, ESE]
+fontes: [LE, ESE, Chico Xavier]
 tags: [cosmologia, mundos-habitados, vida-extraterrestre, flammarion, narracoes-do-infinito, lumen, urania, estela, obra/le, obra/ese, autor/kardec, grau/intermediario, tema/vida-futura, autor/flammarion]
-atualizado_em: 2026-05-14
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -59,6 +59,10 @@ Em [[wiki/obras/urania|*Urânia*]] (1889), a Parte I narra viagem celeste guiada
 O aforismo 15 do "testamento científico de Spero" que encerra a obra ecoa LE q. 56–58: *"Os mundos atualmente não são todos habitados. [...] Tais mundos foram habitados no passado, milhares de séculos; tais outros sê-lo-ão no futuro"*.
 
 Oito anos depois, em [[wiki/obras/estela|*Estela*]] (1897), Flammarion retoma o mesmo eixo em registro de romance mais propriamente narrativo. O cap. XII percorre o mapa de Marte ao telescópio (canais, lagos, mar das Sereias, neves polares) — *"Marte é mais antigo e mais adiantado do que a Terra no seu ciclo vital"*; o cap. XXVIII formula em êxtase contemplativo a imagem-síntese da obra: *"Estamos no céu… a Terra é um astro do céu"*; o cap. XXXV repete a cena de Marte como primeira etapa após a Terra — Rafael e Estela morrem juntos no Dachstein durante um cometa e reencarnam em Marte (paralelo direto a Spero e Icleia em *Urânia*). A duplicação narrativa do mesmo desfecho em duas obras consecutivas estabelece Marte, na obra literária de Flammarion, como o **mundo-receptor canônico** para almas terrenas em progresso — leitura ficcional do princípio de Kardec de transmigração entre globos.
+
+### Na voz de Chico Xavier (*Pinga-Fogo*, 1971)
+
+Chico prevê que, sem guerra de extermínio, a humanidade poderá "entrar em contato com outras comunidades da nossa galáxia", compreendendo "que não somos o único mundo criado por Deus" — "Há muitas moradas na casa de meu Pai" (Chico Xavier, *Pinga-Fogo I*, 1:25:40). Remete a Emmanuel (*O Consolador*) para a diversidade das formas físicas em outros planetas (*Pinga-Fogo II*, 1:00:24). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Contra o antropocentrismo
 

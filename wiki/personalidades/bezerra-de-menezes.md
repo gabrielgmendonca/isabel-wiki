@@ -1,12 +1,12 @@
 ---
 tipo: personalidade
-fontes: [Humberto de Campos/Chico Xavier, FEB]
+fontes: [Humberto de Campos/Chico Xavier, FEB, Chico Xavier]
 tags: [bezerra-de-menezes, feb, espiritismo-brasil, medico, politico, patria-do-evangelho, autor/bezerra-de-menezes, autor/chico-xavier, tema/historia-doutrina, grau/intermediario, autor/humberto-de-campos]
 aliases:
   - "Adolfo Bezerra de Menezes"
   - "Adolfo Bezerra de Menezes Cavalcanti"
   - "Médico dos Pobres"
-atualizado_em: 2026-05-19
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -47,6 +47,8 @@ Catálogo ativo na loja FEB Editora (scrape em 2026-05-15) — títulos sob o fi
 - *Uma carta de Bezerra de Menezes* — [FEB](https://www.febeditora.com.br/uma-carta-de-bezerra-de-menezes)
 
 Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista de download em `tracking/aquisicao-feb.md`.
+
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — lembrado em 1971 pela mensagem psicografada por Chico (c. 1968) que desaconselhava, então, os transplantes de coração, e pelo parecer "legalizado ou não, o jogo é imoral"; Chico pondera que os transplantes "merecem a nossa consideração e devemos prosseguir" (Chico Xavier, *Pinga-Fogo II*, 1:51:50–1:55:37; 2:59:09).
 
 ## Citações relevantes
 

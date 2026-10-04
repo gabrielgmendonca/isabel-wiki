@@ -2,7 +2,7 @@
 tipo: conceito
 fontes: [LE, ESE, Gênese, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Haroldo Dutra Dias]
 tags: [transicao-planetaria, regeneracao, mundos, muitas-moradas, progresso, demiurgo, platao, haroldo-dutra-dias, obra/le, obra/ese, obra/genese, autor/chico-xavier, autor/emmanuel, autor/andre-luiz, autor/kardec, grau/intermediario, tema/vida-futura, lei/justica-amor-caridade]
-atualizado_em: 2026-05-26
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -137,6 +137,8 @@ Recuperando *Os Mensageiros* (Chico Xavier / André Luiz), Esmália descreve a h
 A pergunta-síntese deslocada do título "Para onde caminha a humanidade?" para o eixo pessoal — *"para onde caminho eu?"* — é o aporte editorial central de Viana para o conceito de transição planetária: o deslocamento do diagnóstico macro-histórico para o exercício micro-existencial. Transcrição em [[raw/palestras/mansao-do-caminho/alessandro-viana-para-onde-caminha-a-humanidade]].
 
 ## Páginas relacionadas
+
+- [[wiki/sinteses/data-limite]] — a "data-limite" de 2019: relato oral atribuído a Chico Xavier, confrontado com LM item 289 e Gênese cap. XVIII
 
 - [[wiki/personalidades/alessandro-viana]] — palestra de diagnóstico contemporâneo (~2025)
 - [[wiki/conceitos/geracao-nova]] — os Espíritos que protagonizam a renovação

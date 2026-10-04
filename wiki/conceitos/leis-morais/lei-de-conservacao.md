@@ -1,9 +1,9 @@
 ---
 title: "Lei de conservação"
 tipo: conceito
-fontes: [LE]
+fontes: [LE, Chico Xavier]
 tags: [conservacao, instinto, necessario, privacoes, lei-moral, obra/le, lei/conservacao, autor/kardec, grau/intermediario, tema/moral]
-atualizado_em: 2026-04-30
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -20,6 +20,8 @@ O instinto foi posto em todos os seres vivos porque "todos têm que concorrer pa
 ## Meios de conservação
 
 A Terra produziria sempre o necessário se o homem soubesse contentar-se com ele: "ingrato, o homem a despreza! Ela, no entanto, é excelente mãe." A escassez resulta de imprevidência e imperícia humanas, não de avareza da natureza (LE, q. 705). E quando, ainda assim, faltam os meios, é "uma prova, muitas vezes cruel, que [ao homem] compete sofrer" (LE, q. 708) — não autorização para violar a vida do semelhante: "há homicídio e crime de lesa-natureza, falta que é duplamente punida" (LE, q. 709).
+
+Sobre a carne, Chico Xavier segue LE q. 723: a maioria "ainda necessita da carne", e a transição ao vegetarianismo deve ser gradual e com orientação médica, sem "regimes vegetarianos de um dia para outro" (Chico Xavier, *Pinga-Fogo II*, 1:30:35). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Direito aos bens terrenos
 

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LE, LM, Gênese, C&I]
+fontes: [LE, LM, Gênese, C&I, Chico Xavier]
 tags: [perispirito, corpo-espiritual, fluidos, fluido-cosmico, obra/le, obra/lm, obra/genese, obra/ci, autor/kardec, grau/intermediario, tema/espiritos]
-atualizado_em: 2026-04-28
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -128,6 +128,10 @@ No tratado mais completo do **Modelo Organizador Biológico** (MOB) na sua bibli
 - **Leibniz** — *Corpo fluídico*
 
 Joanna cita o filósofo escocês **Woodsworth** caracterizando o perispírito como *"Mediador plástico, através do qual passa a torrente de matéria fluente que destrói e reconstrói incessantemente o organismo vivo"* — formulação convergente com a teoria fluídica de Gênese cap. XIV. A função técnica destacada por Joanna: *"plasmar no corpo físico as necessidades morais evolutivas, através dos genes e cromossomos"*; é, portanto, **o esboço, o modelo, a forma em que se desenvolve o corpo físico** — na sua intimidade energética se agregam as células e se modelam os órgãos. Cf. [[wiki/obras/o-homem-integral]].
+
+## Efluviografia Kirlian e "corpo bioplásmico" (*Pinga-Fogo*, 1971)
+
+Interrogado sobre as fotografias Kirlian, Chico Xavier espera que a ciência chegue à "positivação da existência do corpo espiritual", "o mediador da vida", único capaz de explicar o equilíbrio orgânico (adrenalina e acetilcolina); a mente diante do cérebro lesado é "o artista que encontrou um violino desafinado" (Chico Xavier, *Pinga-Fogo II*, 1:03:36). A identificação Kirlian–perispírito é hipótese de pesquisa psíquica, sem autoridade doutrinária. Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Nas Obras Póstumas
 

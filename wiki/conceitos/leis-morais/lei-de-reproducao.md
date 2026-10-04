@@ -1,9 +1,9 @@
 ---
 title: "Lei de reprodução"
 tipo: conceito
-fontes: [LE, ESE]
+fontes: [LE, ESE, Chico Xavier]
 tags: [reproducao, casamento, populacao, celibato, poligamia, lei-moral, andre-luiz, sexo-e-destino, obra/le, obra/ese, lei/reproducao, autor/kardec, autor/andre-luiz, grau/intermediario, tema/sociedade]
-atualizado_em: 2026-05-03
+atualizado_em: 2026-10-04
 status: ativo
 ---
 
@@ -77,6 +77,8 @@ Em [[wiki/obras/vida-e-sexo|Vida e Sexo]] (Uberaba, jun/1970), Emmanuel reescrev
 > "Em torno do sexo, será justo sintetizarmos todas as digressões nas normas seguintes: Não proibição, mas educação. Não abstinência imposta, mas emprego digno, com o devido respeito aos outros e a si mesmo. Não indisciplina, mas controle. Não impulso livre, mas responsabilidade." (Emmanuel / Chico Xavier, *Vida e Sexo*, Prefácio)
 
 As quatro normas operacionalizam diretamente q. 693a (regular sem opor obstáculos), q. 694 (não rebaixar à sensualidade) e q. 701 (afeto, não sensualidade). Para a sistematização completa por eixos, ver [[wiki/aprofundamentos/sexualidade-em-emmanuel]]; para o conceito transversal de **energia sexual** que articula Kardec, Emmanuel e André Luiz, ver [[wiki/conceitos/energia-sexual]].
+
+Em público, no *Pinga-Fogo* de dez/1971, Chico aplica a mesma leitura de q. 693a: o casal "tem direito, perante as leis divinas, a considerar as suas possibilidades", e isso é "muito melhor" do que o aborto (Chico Xavier, *Pinga-Fogo II*, 1:36:07). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Páginas relacionadas
 

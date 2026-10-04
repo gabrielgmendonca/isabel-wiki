@@ -1,8 +1,8 @@
 ---
 tipo: aprofundamento
-fontes: [LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, RE]
+fontes: [LE, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, André Luiz/Chico Xavier+Waldo Vieira, RE, Chico Xavier]
 tags: [aborto, encarnacao, perispirito, planejamento-reencarnatorio, lei/reproducao, obra/le, obra/re, autor/kardec, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, grau/avancado, tema/encarnacao, tema/sociedade, lei/destruicao]
-atualizado_em: 2026-06-03
+atualizado_em: 2026-10-04
 status: rascunho
 ---
 
@@ -125,6 +125,8 @@ A obra também registra o caso paradigmático de **fracasso reencarnatório por 
 Único caso narrativo na série André Luiz que registra **aborto terapêutico** (interrupção médica por risco real, não criminoso) numa protagonista doutrinariamente exemplar. Evelina Serpa, católica praticante, casada havia seis anos, perdera "por aborto terapêutico o único filho concebido". A obra **não estigmatiza** o caso — Evelina é a heroína espiritual do livro, encerra-o em matrimônio espiritual com Ernesto. O tratamento narrativo confirma operacionalmente a leitura de LE q. 359: aborto por risco materno não cai sob a condenação de q. 358.
 
 A obra também acrescenta o cenário em que a perda do filho preparou Evelina para o serviço espiritual posterior: tutela do Espírito Túlio Mancini em ajuste, mediunização de Caio no cemitério, condução do esquema reencarnatório de 30 anos sob orientação do Instrutor Ribas. Princípio: a interrupção da gestação por risco real, longe de fechar destinos, pode abrir tarefas reparadoras de outra ordem.
+
+**Caso narrado por Chico Xavier (1971).** No *Pinga-Fogo* de dez/1971, Chico relata ter conhecido em 1936 uma senhora que provocara seis abortos — "não era uma criatura perversa, mas entendia que estava agindo bem" —, vista depois em sofrimento no mundo espiritual. Reencarnada após 1942, sofre esterilidade irreversível (hiperplasia glandular cística do endométrio); segundo André Luiz, "pelo anseio de ser mãe, vai reconstituir os seus órgãos genésicos para ser mãe em vida próxima" (Chico Xavier, *Pinga-Fogo II*, 1:38:12–1:41:48). Ilustra a q. 358 pela via da consequência perispiritual. Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ### 8. Casos limite — extensão dos princípios
 

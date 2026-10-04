@@ -163,7 +163,6 @@ Cobertura completa em 2026-05-26. Sem pendentes.
 - [[raw/mediuns/chico-xavier/emmanuel/paz]]
 - [[raw/mediuns/chico-xavier/emmanuel/pensamento-e-vida]]
 - [[raw/mediuns/chico-xavier/emmanuel/perante-jesus]]
-- [[raw/mediuns/chico-xavier/emmanuel/pinga-fogo]]
 - [[raw/mediuns/chico-xavier/emmanuel/plantao-da-paz]]
 - [[raw/mediuns/chico-xavier/emmanuel/plantao-de-respostas]]
 - [[raw/mediuns/chico-xavier/emmanuel/pronto-socorro]]

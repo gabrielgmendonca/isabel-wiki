@@ -1,8 +1,8 @@
 ---
 tipo: aprofundamento
-fontes: [Emmanuel/Chico Xavier, LE, ESE, LM]
+fontes: [Emmanuel/Chico Xavier, LE, ESE, LM, Chico Xavier]
 tags: [sexualidade, sexo, casamento, divorcio, aborto, homossexualidade, abstinencia, energia-sexual, emmanuel, lei/reproducao, obra/le, obra/ese, obra/lm, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/avancado, lei/igualdade, tema/sociedade, tema/moral]
-atualizado_em: 2026-06-03
+atualizado_em: 2026-10-04
 status: rascunho
 ---
 
@@ -108,6 +108,8 @@ Estas duas teses **não contradizem** Kardec ("isso pouco lhe importa", LE q. 20
 
 **Nota crítica de vocabulário (1970).** O capítulo abre identificando a homossexualidade como "também hoje chamada transexualidade, em alguns círculos de ciência" — equiparação terminológica datada que confunde fenômenos hoje reconhecidos como distintos (orientação sexual × identidade de gênero). A leitura contemporânea precisa fazer a tradução: a substância pastoral do capítulo (dignidade, igualdade de respeito, recusa da patologização) permanece; o vocabulário precisa ser atualizado.
 
+**Na voz de Chico, em público (1971).** Um ano após *Vida e Sexo*, Chico leva a mesma linha à TV: homossexualidade, bissexualidade e assexualidade "são condições da alma humana", não "fenômenos atacáveis pelo ridículo", e o sexo não pode ser "sentenciado às trevas" (Chico Xavier, *Pinga-Fogo I*, 1:38:16). Em dezembro, confirma a ligação com a mudança de sexo entre encarnações "na maioria dos casos" e espera leis que saibam "incorporar à família humana todos os filhos da humanidade", porque "a frustração afetiva é um tipo de fome" (*Pinga-Fogo II*, 2:47:35). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
+
 ### 9. Adultério, prostituição e amor livre (caps. 19, 22)
 
 O cap. 22 é estruturado em torno da sentença joanina: "aquele que estiver sem pecado atire a primeira pedra" (Jo 8:7). Emmanuel a converte em método pastoral, com ênfase explícita na **denúncia da hipocrisia masculina**:
@@ -117,6 +119,8 @@ O cap. 22 é estruturado em torno da sentença joanina: "aquele que estiver sem 
 Adultério e prostituição são apresentados como "instrumentos de prova e expiação, destinados naturalmente a desaparecer, na equação dos direitos do homem e da mulher" — formulação alinhada à Lei de Igualdade (LE q. 817–822) e ao "predomínio injusto e cruel" denunciado em LE q. 818.
 
 O **amor livre** (cap. 19) é recusado em chave doutrinária — não puritana —, ancorada na noção de que "as relações sexuais envolvem responsabilidade" e que "se os parceiros da união sexual possuem deveres a observar entre si, à face de preceitos humanos, voluntariamente aceitos, no plano das chamadas ligações extralegais acham-se igualmente submetidos aos princípios das Leis Divinas que regem a Natureza". A regra opera com ou sem chancela civil.
+
+No *Pinga-Fogo* de dez/1971, o divórcio aparece como "medida humana, medida legítima" — sem pressa legislativa e com respeito à maioria católica —, e o amor livre recebe a fórmula de Emmanuel: "O amor, vindo de Deus, é livre. Mas no sexo, ele, o amor, é responsável" (Chico Xavier, *Pinga-Fogo II*, 2:32:26; 2:57:47). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ### 10. Abstinência e celibato (caps. 23, 25)
 

@@ -1,8 +1,8 @@
 ---
 tipo: conceito
-fontes: [LM]
+fontes: [LM, Chico Xavier]
 tags: [psicografia, mediuns-escreventes, comunicacao, mediunidade, obra/lm, autor/kardec, autor/divaldo-franco, autor/chico-xavier, grau/intermediario, tema/mediunidade]
-atualizado_em: 2026-06-10
+atualizado_em: 2026-10-04
 status: rascunho
 ---
 
@@ -53,6 +53,10 @@ Em abril de 1970, no Rio de Janeiro, o Espírito de [[wiki/personalidades/victor
 ### Meimei via Chico Xavier (1948)
 
 Em Pedro Leopoldo (MG), Chico Xavier psicografou **30 páginas** de [[wiki/personalidades/meimei]], esposa de Arnaldo Rocha falecida um mês após o casamento. De olhos fechados, luz acesa, sem erro de ortografia, a mensagem trazia detalhes íntimos e referências a existência anterior compartilhada. O caso converteu o marido ateu. Ver [[wiki/obras/quando-o-invisivel-se-torna-inevitavel]].
+
+### A defesa pública de Chico Xavier (*Pinga-Fogo*, 1971)
+
+Diante da tese de que sua obra seria produto do inconsciente, Chico responde em três frentes: a biografia (curso primário, trabalho desde os oito anos, 400+ autores cujo estilo não poderia ter estudado), a fenomenologia (ao receber *Há Dois Mil Anos*, via as cenas "como se eu assistisse a um cinema" sem saber o que escrevia — "Você está vendo o que eu estou pensando, mas não sabe o que eu estou escrevendo", disse-lhe Emmanuel) e a pedagogia (a fluência verbal de Chico como fruto da correção de Emmanuel) (Chico Xavier, *Pinga-Fogo I*, 0:29:33; 0:37:13; 1:03:22). Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
 
 ## Páginas relacionadas
 
