@@ -22,7 +22,7 @@ Segundo programa "Pinga-Fogo" com Chico Xavier, TV Tupi (Canal 4), São Paulo, t
 **Marcadores:**
 
 - `**Nome:** [H:MM:SS]` — falante e tempo no vídeo, para conferência no áudio.
-- `[?palavra]` — leitura incerta (3 ocorrências).
+- `[?palavra]` — leitura incerta (1 ocorrência).
 - `[inaudível]` — trecho irrecuperável pelas fontes disponíveis (0).
 - `**Entrevistador:**` / `**Voz não identificada:**` — falante não identificado com segurança.
 
@@ -518,7 +518,7 @@ Então, até hoje, eu compro, não é? Não é?
 
 **Entrevistador:** De números diferentes.
 
-**Chico Xavier:** Está nas mãos de um amigo nosso, chamado Sr. [?Wilker] Batista, de Uberaba. Ele fez a compra para mim, é meu pedido, para que depois eu fizesse o pagamento a ele. Guardei as cinco tiras porque ele me entregou para guardar. Agora, sinceramente, eu não sei o dia que corre.
+**Chico Xavier:** Está nas mãos de um amigo nosso, chamado Sr. Weaker Batista, de Uberaba. Ele fez a compra para mim, é meu pedido, para que depois eu fizesse o pagamento a ele. Guardei as cinco tiras porque ele me entregou para guardar. Agora, sinceramente, eu não sei o dia que corre.
 
 **Almir Guimarães:** [2:20:47] É, quarta-feira, depois de amanhã.
 
@@ -646,7 +646,7 @@ Conversando a este respeito, há algum tempo, com alguns jovens, e quando faláv
 
 **Almir Guimarães:** [2:45:46] É.
 
-**Chico Xavier:** [2:45:47] Considero que, como [?admirador] de Pelé, estimaria que ele prosseguisse.
+**Chico Xavier:** [2:45:47] Considero que, como admirador de Pelé, estimaria que ele prosseguisse.
 
 **Almir Guimarães:** [2:45:53] Deixar a seleção?
 
@@ -1004,3 +1004,11 @@ Pontos decididos ouvindo os recortes de várias cópias do programa (página de 
 - p2-040
 - p2-041
 - p2-032 (ia ferir)
+
+### Terceira escuta (out/2026)
+
+Recortes de ±8 s em todas as cópias disponíveis (incluindo uploads extras), versão em 0,8× e várias hipóteses do Whisper; pesquisa de nomes no corpus.
+
+- `[?Wilker]` → "Weaker": amigo de Chico em Uberaba, confirmado no corpus (*Ninguém morre*: "casal amigo Sr. Weaker - D. Zilda Batista"; Baccelli, *Na próxima dimensão*: "Weaker Batista e Clóvis Tavares")
+- `[?admirador]` → "admirador" (revisão humana; leituras automáticas: "adivinhador", "diretor")
+- Mantido: o trecho incerto da fala sobre a TV em cores (2:32:04); depois de "a cores" há ainda um fragmento não transcrito ("seja a … gravada no …") — conferir no livro de Saulo Gomes.

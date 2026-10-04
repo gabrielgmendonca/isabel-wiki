@@ -22,7 +22,7 @@ Primeiro programa "Pinga-Fogo" com Chico Xavier, TV Tupi (Canal 4), São Paulo, 
 **Marcadores:**
 
 - `**Nome:** [H:MM:SS]` — falante e tempo no vídeo, para conferência no áudio.
-- `[?palavra]` — leitura incerta (3 ocorrências).
+- `[?palavra]` — leitura incerta (1 ocorrência).
 - `[inaudível]` — trecho irrecuperável pelas fontes disponíveis (2).
 - `**Entrevistador:**` / `**Voz não identificada:**` — falante não identificado com segurança.
 
@@ -144,7 +144,7 @@ Então veio *Há Dois Mil Anos*. Mas eu acompanhei a psicografia como acompanho 
 
 **Almir Guimarães:** [0:34:39] Chico, chegamos assim, terminamos assim a primeira rodada. Eu estava lembrado aqui, li um dos seus livros, um dos livros que você psicografou, parece que de Humberto de Campos, uma entrevista que ele já
 
-Eu estava lembrado aqui, li um dos seus livros, um dos livros que você psicografou, parece que de Humberto de Campos, uma entrevista que ele já, na situação de espírito, teria... que seria realizado com Judas no além. Judas informou a ele que estava muito satisfeito porque havia sido perdoado, havia obtido essa graça, estava vivendo uma vida maravilhosa lá por cima. E disse: estou muito triste quando olho para a Terra, porque vejo que hoje Cristo lá embaixo está sendo vendido a grosso e a retalho, e hoje vendido apenas por 30 cruzeiros, por 30 dinheiros. Chico, estamos concluindo a primeira rodada; voltaremos dentro de instantes. Peço licença a você, ao telespectador, ao público, para [?interromper] por um momento o nosso programa. Voltaremos já já para algumas perguntas do telespectador.
+Eu estava lembrado aqui, li um dos seus livros, um dos livros que você psicografou, parece que de Humberto de Campos, uma entrevista que ele já, na situação de espírito, teria... que seria realizado com Judas no além. Judas informou a ele que estava muito satisfeito porque havia sido perdoado, havia obtido essa graça, estava vivendo uma vida maravilhosa lá por cima. E disse: estou muito triste quando olho para a Terra, porque vejo que hoje Cristo lá embaixo está sendo vendido a grosso e a retalho, e hoje vendido apenas por 30 cruzeiros, por 30 dinheiros. Chico, estamos concluindo a primeira rodada; voltaremos dentro de instantes. Peço licença a você, ao telespectador, ao público, para suspender por um momento o nosso programa. Voltaremos já já para algumas perguntas do telespectador.
 
 [0:35:42] Voltamos aos seus receptores com o programa Pinga-Fogo, série 71, que esta noite lhes apresenta Chico Xavier. Temos ainda 60 minutos de programa.
 
@@ -465,7 +465,7 @@ para sempre. Assim seja.
 
 Muito obrigado.
 
-**Almir Guimarães:** [2:11:02] Mais uma vez, telespectador, quero apresentar a você, que nos honrou com sua audiência até esta altura da noite, os nossos melhores agradecimentos. A este auditório seleto que aqui comparece e que nos prestigiou também grandemente, os nossos melhores agradecimentos. E que compareçam mais vezes ao Pinga-Fogo, quando aqui comparecer o entrevistado da altura de Chico Xavier. Quero agradecer particularmente aos meus bons amigos João Scantimburgo e Herculano de Freitas, Herculano Pires, perdão, que não pertence à equipe do Pinga-Fogo. Comparecem hoje como nossos [?convidados] especiais, atendendo prontamente ao nosso convite. Ao Reali, ao Saulo e à Helle, dispenso agradecimentos porque eles pertencem efetivamente à equipe. Mais uma vez, lembro também ao telespectador que o Tratado Geral do Brasil, do meu bom amigo João Scantimburgo, está em todas as bancas, em todas as livrarias. É um livro estupendo. Estudo de Problemas Brasileiros,
+**Almir Guimarães:** [2:11:02] Mais uma vez, telespectador, quero apresentar a você, que nos honrou com sua audiência até esta altura da noite, os nossos melhores agradecimentos. A este auditório seleto que aqui comparece e que nos prestigiou também grandemente, os nossos melhores agradecimentos. E que compareçam mais vezes ao Pinga-Fogo, quando aqui comparecer o entrevistado da altura de Chico Xavier. Quero agradecer particularmente aos meus bons amigos João Scantimburgo e Herculano de Freitas, Herculano Pires, perdão, que não pertence à equipe do Pinga-Fogo. Comparecem hoje como nossos convidados especiais, atendendo prontamente ao nosso convite. Ao Reali, ao Saulo e à Helle, dispenso agradecimentos porque eles pertencem efetivamente à equipe. Mais uma vez, lembro também ao telespectador que o Tratado Geral do Brasil, do meu bom amigo João Scantimburgo, está em todas as bancas, em todas as livrarias. É um livro estupendo. Estudo de Problemas Brasileiros,
 
 **Almir Guimarães:** [2:12:00] Moral e Cívica, para uso nos cursos superiores, de acordo com o programa oficial. Este é o meu agradecimento à sua presença, Scantimburgo. Muito obrigado. Muito obrigado a todos e até terça-feira próxima, que é o dia seguinte.
 
@@ -545,3 +545,11 @@ Pontos decididos ouvindo os recortes de várias cópias do programa (página de 
 - p1-041
 - p1-043/044
 - p1-046
+
+### Terceira escuta (out/2026)
+
+Recortes de ±8 s em todas as cópias disponíveis (incluindo uploads extras), versão em 0,8× e várias hipóteses do Whisper; pesquisa de nomes no corpus.
+
+- `[?interromper]` → "suspender" (cópias remasterizada e Árvore da Luz; as demais ouvem "responder")
+- `[?convidados]` → "convidados" (quatro cópias)
+- Mantidos após escuta lenta (0,8×) em cinco cópias: a frase da "diplomação acadêmica" (1:21) e "Você não vai largar [inaudível]" (1:37:55) — conferir no livro de Saulo Gomes.
