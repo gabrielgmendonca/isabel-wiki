@@ -1,0 +1,967 @@
+{
+ "termos": {
+  "Francisco Cândido Xavier": {
+   "definicao": "Médium mineiro entrevistado nos dois programas; responde às perguntas dizendo apoiar-se na orientação de Emmanuel e na obra psicografada.",
+   "ver": "wiki/personalidades/chico-xavier"
+  },
+  "Emmanuel": {
+   "definicao": "Espírito orientador de Chico Xavier, citado pelo médium como fonte de suas respostas, da disciplina mediúnica e de conselhos sobre cremação, amor e sexo.",
+   "ver": "wiki/personalidades/emmanuel"
+  },
+  "Uberaba": {
+   "definicao": "Cidade mineira onde Chico Xavier residia à época; ele a menciona nos agradecimentos finais dos dois programas."
+  },
+  "Pedro Leopoldo": {
+   "definicao": "Cidade mineira onde Chico viveu e iniciou sua obra mediúnica; é lembrada nas despedidas e no episódio do voo de 1959."
+  },
+  "Minas Gerais": {
+   "definicao": "Estado natal de Chico Xavier, lembrado quando ele diz bastar ser chamado de Chico, de mineiro para mineiro."
+  },
+  "Comunhão Espírita Cristã": {
+   "definicao": "Instituição espírita de Uberaba ligada a Chico Xavier, mencionada na apresentação inicial do Programa I."
+  },
+  "humildade": {
+   "definicao": "Virtude com que Chico se declara sem qualidades para o lugar que ocupa e recusa o autógrafo e o papel de mestre.",
+   "ver": "wiki/conceitos/humildade"
+  },
+  "Pinga-Fogo": {
+   "definicao": "Programa de entrevistas da TV Tupi em que Chico Xavier respondeu à bancada e ao público em 1971; títulos das duas edições."
+  },
+  "João de Scantimburgo": {
+   "definicao": "Entrevistador da bancada do Programa I; seu livro Tratado Geral do Brasil é divulgado no encerramento."
+  },
+  "Helle Alves": {
+   "definicao": "Entrevistadora integrante da bancada do Programa I, apresentada por Almir no início do programa."
+  },
+  "Reali Júnior": {
+   "definicao": "Jornalista integrante da bancada de entrevistadores do Programa I, apresentado por Almir no início."
+  },
+  "Saulo Gomes": {
+   "definicao": "Jornalista da bancada nos dois programas; no Programa II escolhe perguntas do auditório e tem sua despedida da televisão anotada."
+  },
+  "Herculano Pires": {
+   "definicao": "Integrante da bancada do Programa I, citado por Almir na apresentação dos entrevistadores e nos agradecimentos finais."
+  },
+  "Tratado Geral do Brasil": {
+   "definicao": "Livro de João de Scantimburgo, anunciado por Almir nos agradecimentos finais do Programa I."
+  },
+  "Vicente Leporace": {
+   "definicao": "Entrevistador da bancada do Programa II; em seu bloco, Chico diz que basta ser chamado de Chico."
+  },
+  "Freitas Nobre": {
+   "definicao": "Entrevistador da bancada do Programa II; pergunta sobre o divórcio e sobre a visão do Pátio do Colégio."
+  },
+  "Hernani Guimarães Andrade": {
+   "definicao": "Pesquisador integrante da bancada do Programa II, apresentado por Almir e saudado na despedida final."
+  },
+  "Durval Monteiro": {
+   "definicao": "Entrevistador da bancada do Programa II, apresentado por Almir no início e saudado na despedida."
+  },
+  "Luiz Gallon": {
+   "definicao": "Pessoa do auditório do Programa II citada após o intervalo, quando Saulo escolhe alguém para perguntar."
+  },
+  "Hebe Camargo": {
+   "definicao": "Apresentadora de televisão que manda abraço a Chico; ele a elogia, lembrando tê-la visto distribuir cobertores na Estação da Luz."
+  },
+  "Estação da Luz": {
+   "definicao": "Estação ferroviária de São Paulo onde, segundo Chico, Hebe Camargo distribuía cobertores aos necessitados."
+  },
+  "autógrafo": {
+   "definicao": "Pedido de assinatura de Chico por pessoa que desistiu por humildade, episódio que leva ao recado de Hebe Camargo."
+  },
+  "psicografia": {
+   "definicao": "Escrita mediúnica de Chico, base de seus mais de cem livros, que ele diz receber sem consciência do conteúdo.",
+   "ver": "wiki/conceitos/psicografia",
+   "variantes": [
+    "livro psicografado"
+   ]
+  },
+  "psicografia ao vivo": {
+   "definicao": "Mensagem psicografada por Chico em silêncio e ao som de música, no estúdio, ao fim de cada programa.",
+   "ver": "wiki/conceitos/psicografia"
+  },
+  "poesia mediúnica": {
+   "definicao": "Poema recebido por Chico ao vivo e lido no programa, em louvor ao Brasil e ao novo milênio.",
+   "ver": "wiki/conceitos/psicografia",
+   "variantes": [
+    "poema psicografado"
+   ]
+  },
+  "literatura mediúnica": {
+   "definicao": "Obra literária atribuída a espíritos desencarnados, que Emmanuel ajuda Chico a filtrar, censurando o que passa por ele.",
+   "ver": "wiki/conceitos/psicografia"
+  },
+  "literatura comparada": {
+   "definicao": "Estudo que lhe sugerem fazer com obra própria não psicografada; Chico renuncia, por respeito ao trabalho dos bons espíritos."
+  },
+  "censura mediúnica": {
+   "definicao": "Pergunta sobre se os guias o impedem de transmitir fatos; Chico diz que Emmanuel o ensina a censurar o que passa por ele."
+  },
+  "inconsciente": {
+   "definicao": "Hipótese de que a psicografia viria do inconsciente do médium, discutida a partir dos mais de 400 autores que assinam suas obras."
+  },
+  "100 livros": {
+   "definicao": "Marco de cem livros psicografados após o qual, segundo Emmanuel, Chico poderia falar em público algumas vezes; atingido em 1969."
+  },
+  "revista Realidade": {
+   "definicao": "Revista citada nos programas; Chico a menciona ao tratar das receitas homeopáticas e da obra não psicografada."
+  },
+  "André Luiz": {
+   "definicao": "Espírito autor de obras psicografadas por Chico; Chico o cita ao falar de gestação, transplantes e pesquisas sobre reencarnação.",
+   "ver": "wiki/personalidades/andre-luiz"
+  },
+  "Irmão X": {
+   "definicao": "Autor espiritual citado por Chico entre os que assinam livros por ele psicografados."
+  },
+  "Casimiro Cunha": {
+   "definicao": "Poeta desencarnado citado por Chico entre os autores espirituais de suas psicografias."
+  },
+  "Meimei": {
+   "definicao": "Espírito poeta citado por Chico entre os autores de livros psicografados.",
+   "ver": "wiki/personalidades/meimei"
+  },
+  "Parnaso de Além-Túmulo": {
+   "definicao": "Coletânea de poemas de poetas desencarnados psicografada por Chico, citada no balanço de suas obras e no caso de Augusto dos Anjos.",
+   "ver": "wiki/obras/parnaso-de-alem-tumulo"
+  },
+  "Augusto dos Anjos": {
+   "definicao": "Poeta cujo espírito, segundo Chico, ditou o poema Vozes de uma Sombra, episódio contado ao falar de André Luiz."
+  },
+  "O Livro dos Médiuns": {
+   "definicao": "Obra de Allan Kardec sobre a prática mediúnica, citada por Chico ao tratar de formas de vida em outros mundos.",
+   "ver": "wiki/obras/livro-dos-mediuns"
+  },
+  "O Livro dos Espíritos": {
+   "definicao": "Obra de Allan Kardec citada por Chico, por exemplo na questão 385 sobre a juventude e ao falar de planejamento familiar.",
+   "ver": "wiki/obras/livro-dos-espiritos"
+  },
+  "O Consolador": {
+   "definicao": "Livro de Emmanuel psicografado por Chico, citado sobre formas de vida em outros mundos e sobre a legitimidade da cremação.",
+   "ver": "wiki/obras/o-consolador"
+  },
+  "Allan Kardec": {
+   "definicao": "Codificador do Espiritismo; Chico se declara vinculado aos princípios por ele codificados ao responder sobre a Umbanda.",
+   "ver": "wiki/personalidades/allan-kardec"
+  },
+  "Há Dois Mil Anos": {
+   "definicao": "Romance de Emmanuel psicografado por Chico, ambientado na Roma antiga; ele diz não ter consultado livros ao escrevê-lo.",
+   "ver": "wiki/obras/ha-dois-mil-anos"
+  },
+  "Paulo e Estêvão": {
+   "definicao": "Romance de Emmanuel psicografado por Chico, sobre o qual ele afirma ter visto as cenas como num cinema.",
+   "ver": "wiki/obras/paulo-e-estevao"
+  },
+  "50 Anos Depois": {
+   "definicao": "Romance de Emmanuel psicografado por Chico, citado entre as obras de ambientação romana de que não consultou fontes.",
+   "ver": "wiki/obras/50-anos-depois"
+  },
+  "Ave, Cristo": {
+   "definicao": "Romance de Emmanuel psicografado por Chico, citado entre as obras de ambientação romana em que não consultou livros.",
+   "ver": "wiki/obras/ave-cristo"
+  },
+  "Zilda Gama": {
+   "definicao": "Escritora citada por Chico ao tratar dos romances romanos e da leitura que lhe seria atribuída.",
+   "ver": "wiki/personalidades/zilda-gama"
+  },
+  "Evolução em Dois Mundos": {
+   "definicao": "Livro de André Luiz psicografado por Chico com Waldo Vieira, que ele diz ter dificuldade de compreender por ser técnico.",
+   "ver": "wiki/obras/evolucao-em-dois-mundos"
+  },
+  "Mecanismos da Mediunidade": {
+   "definicao": "Livro de André Luiz psicografado por Chico com Waldo Vieira, de conteúdo técnico, citado ao contar como o escreveu.",
+   "ver": "wiki/obras/mecanismos-da-mediunidade"
+  },
+  "Waldo Vieira": {
+   "definicao": "Médium a quem Chico enviava pelo correio os capítulos de livros de André Luiz psicografados em parceria.",
+   "ver": "wiki/personalidades/waldo-vieira"
+  },
+  "Humberto de Campos": {
+   "definicao": "Escritor desencarnado cujo livro sobre Judas é lembrado por Almir antes do primeiro intervalo.",
+   "ver": "wiki/personalidades/humberto-de-campos"
+  },
+  "Judas": {
+   "definicao": "Apóstolo traidor; Chico diz que ele podia resistir às tentações políticas e que somos responsáveis por vencer tendências inferiores.",
+   "ver": "wiki/personalidades/judas-iscariotes"
+  },
+  "Stig Roland Ibsen": {
+   "definicao": "Pesquisador citado, com a esposa, cujos dados sobre os mais de 400 autores das psicografias Chico confirma."
+  },
+  "Edith do Canto Ibsen": {
+   "definicao": "Esposa de Stig Roland Ibsen; o casal levantou dados sobre os autores das psicografias de Chico, que ele confirma."
+  },
+  "Ministério da Agricultura": {
+   "definicao": "Um dos três empregos de Chico, ao lado da fábrica de tecidos e do comércio, lembrados para mostrar sua pouca leitura."
+  },
+  "Marcel Proust": {
+   "definicao": "Escritor citado entre autores cujo estilo aparece em comunicações psicografadas, na discussão sobre a hipótese do inconsciente."
+  },
+  "Trevor Smith": {
+   "definicao": "Senhora inglesa que psicografou obra atribuída a Oscar Wilde, rejeitada nos meios literários; exemplo trazido por Scantimburgo."
+  },
+  "Oscar Wilde": {
+   "definicao": "Escritor citado entre comunicantes que escreveriam à sua maneira, no debate sobre o inconsciente do médium."
+  },
+  "Santa Brígida de Vadstena": {
+   "definicao": "Santa medieval citada por Chico ao perguntar se filósofos e místicos não teriam sido médiuns."
+  },
+  "Santa Clara de Montefalco": {
+   "definicao": "Santa citada por Chico, com Santa Brígida, como exemplo de fenômenos de natureza mediúnica na história."
+  },
+  "O Manuscrito do Purgatório": {
+   "definicao": "Obra citada por Chico entre os exemplos de comunicações de além-túmulo na discussão sobre o inconsciente do médium."
+  },
+  "Dez Mandamentos": {
+   "definicao": "O Decálogo, que Chico chama de primeiro livro vindo do mundo espiritual, ao defender o livro como instrumento de cultura."
+  },
+  "planos espirituais": {
+   "definicao": "Faixas ou planos do mundo espiritual que, segundo os Espíritos, existem como as faixas sociais da Terra.",
+   "ver": "wiki/conceitos/vida-espirita"
+  },
+  "mundo espiritual": {
+   "definicao": "Plano em que vivem os desencarnados, onde, por exemplo, Kennedy continuaria trabalhando pela fraternidade entre os povos.",
+   "ver": "wiki/conceitos/vida-espirita"
+  },
+  "evolução do Espírito": {
+   "definicao": "Progresso contínuo do Espírito, que prossegue além da morte; médicos desencarnados continuam seu apostolado na ciência.",
+   "ver": "wiki/conceitos/progresso-espiritual",
+   "variantes": [
+    "evolução"
+   ]
+  },
+  "misericórdia de Deus": {
+   "definicao": "Bondade divina que sustenta a autoeducação do Espírito e se une à justiça nas provações coletivas.",
+   "ver": "wiki/conceitos/deus",
+   "variantes": [
+    "misericórdia"
+   ]
+  },
+  "justiça divina": {
+   "definicao": "Lei de Deus que, junto à misericórdia, rege o resgate de débitos, inclusive em provações coletivas.",
+   "ver": "wiki/conceitos/leis-morais/lei-de-justica-amor-e-caridade"
+  },
+  "autoeducação": {
+   "definicao": "Programa de aperfeiçoamento pessoal que, segundo os Espíritos, continua além desta vida pela misericórdia de Deus.",
+   "ver": "wiki/conceitos/progresso-espiritual"
+  },
+  "mortes coletivas": {
+   "definicao": "Mortes em guerras e catástrofes, que Chico explica como provações coletivas e resgate de débitos contraídos em grupo."
+  },
+  "provação": {
+   "definicao": "Prova que o Espírito enfrenta para resgate e aprendizado; Chico a invoca nas mortes coletivas e no sofrimento dos torcedores.",
+   "ver": "wiki/conceitos/provas-e-expiacoes"
+  },
+  "José Arigó": {
+   "definicao": "Médium de cirurgias, de convivência com Chico em 1954-1956, cuja morte violenta é discutida; o espírito atuante seria o doutor Fritz.",
+   "variantes": [
+    "Arigó",
+    "Dr. Fritz",
+    "doutor Fritz"
+   ]
+  },
+  "Joãozinho da Goméia": {
+   "definicao": "Figura religiosa citada, com Arigó, na pergunta sobre mortes tormentosas de médiuns; Chico diz que a mediunidade não isenta das leis kármicas."
+  },
+  "Ana Prado": {
+   "definicao": "Médium citada por Chico ao responder sobre a morte violenta de Arigó e a desencarnação tormentosa de médiuns."
+  },
+  "carma": {
+   "definicao": "Resgate de débitos de existências passadas; Chico diz que a mediunidade não isenta das leis kármicas e que a morte violenta pode poupar provações maiores.",
+   "ver": "wiki/conceitos/leis-morais/lei-de-causa-e-efeito"
+  },
+  "materialização": {
+   "definicao": "Fenômeno em que Espíritos se tornam visíveis em sessão; Chico explica por que ele os via e o amigo não.",
+   "ver": "wiki/conceitos/aparicoes"
+  },
+  "clarividência": {
+   "definicao": "Sensibilidade visual psíquica que faz alguns presentes verem entidades que outros não veem em sessão.",
+   "ver": "wiki/conceitos/mediunidade"
+  },
+  "vidência": {
+   "definicao": "Faculdade de ver Espíritos, citada na pergunta de uma médium vidente sobre entidades que aparecem ora jovens ora idosas ao lado de Chico.",
+   "ver": "wiki/conceitos/mediunidade"
+  },
+  "sessão mediúnica": {
+   "definicao": "Reunião em que Chico presenciou materialização, citada para explicar diferenças de percepção entre os presentes.",
+   "ver": "wiki/conceitos/grupo-mediunico"
+  },
+  "desencarnação": {
+   "definicao": "Passagem do Espírito deixando o corpo físico; Chico fala da violenta e da suave, e dos desencarnados que se comunicam.",
+   "ver": "wiki/conceitos/morte",
+   "variantes": [
+    "desencarnado"
+   ]
+  },
+  "mediunidade": {
+   "definicao": "Faculdade de comunicação com os Espíritos, tratada por Chico como tarefa desinteressada que não isenta o médium das leis kármicas.",
+   "ver": "wiki/conceitos/mediunidade"
+  },
+  "mediunidade na infância": {
+   "definicao": "Início da mediunidade de Chico aos 4-5 anos, com o espírito da mãe, lembrado no encerramento do Programa I.",
+   "ver": "wiki/conceitos/mediunidade"
+  },
+  "gratuidade da mediunidade": {
+   "definicao": "Princípio de que a mediunidade é desinteressada; Chico o explica ao pai, e os livros pertencem a obras de caridade.",
+   "ver": "wiki/conceitos/mercantilizacao-da-mediunidade"
+  },
+  "cirurgia espiritual": {
+   "definicao": "Cirurgia atribuída a espíritos por meio de médiuns, como Arigó; Chico fala da possível atuação do doutor Fritz por outro médium.",
+   "ver": "wiki/conceitos/mediunidade-curativa",
+   "variantes": [
+    "cirurgia mediúnica"
+   ]
+  },
+  "problema ocular": {
+   "definicao": "Doença na vista de Chico, que ele vê como bênção que o mantém no dever, e por que não foi operado por Arigó."
+  },
+  "desdobramento pelo sono": {
+   "definicao": "Socorro espiritual durante o sono, segundo relato do Dr. Fritz sobre o auxílio a Chico enquanto dormia.",
+   "ver": "wiki/conceitos/desdobramento"
+  },
+  "desdobramento": {
+   "definicao": "Saída parcial do Espírito durante o corpo em repouso; na criogenia, o espírito poderia até exercer tarefas em desdobramento.",
+   "ver": "wiki/conceitos/desdobramento"
+  },
+  "incorporação": {
+   "definicao": "Manifestação do Espírito pelo organismo do médium; Chico duvida que o doutor Fritz se integre simultaneamente a vários médiuns.",
+   "ver": "wiki/conceitos/mediunidade"
+  },
+  "conquista do espaço": {
+   "definicao": "Pergunta sobre o homem alcançar o espaço antes do previsto; Chico responde que ele está subordinado à Divina Providência."
+  },
+  "Divina Providência": {
+   "definicao": "Governo de Deus sobre o mundo, a que, segundo Chico, está subordinado o ritmo da conquista do espaço.",
+   "ver": "wiki/conceitos/deus"
+  },
+  "Kennedy": {
+   "definicao": "Presidente americano admirado por Chico, que, por amigos norte-americanos, soube continuar trabalhando no mundo espiritual pela fraternidade entre os povos."
+  },
+  "De Gaulle": {
+   "definicao": "Estadista francês citado na pergunta sobre a situação espiritual de líderes políticos desencarnados; Chico diz saber pouco."
+  },
+  "Stalin": {
+   "definicao": "Líder soviético citado na pergunta sobre o destino espiritual de personalidades políticas; Chico declara ter pouco conhecimento."
+  },
+  "Churchill": {
+   "definicao": "Estadista britânico admirado por Chico, citado na pergunta sobre a situação espiritual de líderes políticos desencarnados."
+  },
+  "cremação": {
+   "definicao": "Destino do corpo que Emmanuel considera legítimo, desde que se aguardem ao menos 72 horas em ambiente frio."
+  },
+  "72 horas": {
+   "definicao": "Prazo mínimo de espera antes da cremação, em ambiente frio, segundo Emmanuel citado por Chico."
+  },
+  "reencarnação": {
+   "definicao": "Retorno do Espírito à vida corporal; Chico a relaciona a doenças congênitas, sexualidade e pesquisas científicas.",
+   "ver": "wiki/conceitos/reencarnacao"
+  },
+  "Manoel de Melo": {
+   "definicao": "Pregador evangélico citado no Programa I na pergunta sobre Caim e Abel e as origens da humanidade."
+  },
+  "Caim": {
+   "definicao": "Filho de Adão cuja mulher em Nod, Gênesis 4:16-17, Chico propõe como texto a estudar diante da objeção reencarnacionista."
+  },
+  "Abel": {
+   "definicao": "Irmão de Caim, mencionado na pergunta sobre a origem dos primeiros homens diante da reencarnação."
+  },
+  "Gênesis": {
+   "definicao": "Primeiro livro bíblico, citado por Chico em 4:16-17 sobre a mulher de Caim em Nod."
+  },
+  "suicídio": {
+   "definicao": "Ato citado por Chico entre as causas de reencarnações com enfermidades congênitas, e na recomendação de não buscar o suicídio prematuro.",
+   "ver": "wiki/conceitos/suicidio"
+  },
+  "tetralogia de Fallot": {
+   "definicao": "Cardiopatia congênita citada por Chico, com outras enfermidades de crianças, como argumento a favor da reencarnação."
+  },
+  "Brasil para Cristo": {
+   "definicao": "Movimento religioso evangélico ligado a Manoel de Melo, citado na pergunta sobre Caim e Abel."
+  },
+  "era de Aquário": {
+   "definicao": "Nova era anunciada, associada ao terceiro milênio; Chico, por Emmanuel, a vê dependente de se evitar guerras de extermínio."
+  },
+  "guerra do Vietnã": {
+   "definicao": "Conflito citado na pergunta sobre a violência atual, que Emmanuel vê como sinal de um período de transformação."
+  },
+  "sociedade de consumo": {
+   "definicao": "Característica da época citada na pergunta sobre a violência atual e a transformação do planeta."
+  },
+  "automação": {
+   "definicao": "Mecanização do trabalho que, para Emmanuel, aliviará o trabalho rude em troca do preço da paz e nos faz viver o futuro."
+  },
+  "cibernética": {
+   "definicao": "Ciência das máquinas e computadores citada na pergunta sobre se estrangulariam o homem."
+  },
+  "prospectiva": {
+   "definicao": "Estudo do futuro técnico e social que Chico pede em diálogo entre técnicos, religiosos e famílias."
+  },
+  "terceiro milênio": {
+   "definicao": "Virada de milênio associada à nova era, tema do soneto psicografado ao vivo no Programa I."
+  },
+  "nova era": {
+   "definicao": "Tempo de transformação social e moral, tema do soneto psicografado com o Cristo ao leme, de autoria de Ciro Costa.",
+   "ver": "wiki/conceitos/transicao-planetaria"
+  },
+  "Ciro Costa": {
+   "definicao": "Autor espiritual do soneto sobre a transição de milênio psicografado por Chico ao vivo no Programa I."
+  },
+  "Jesus": {
+   "definicao": "Mestre cristão; Chico o invoca como modelo, no Natal e na justiça social, e diz que seu amor ainda não foi posto em prática.",
+   "ver": "wiki/personalidades/jesus",
+   "variantes": [
+    "Jesus Cristo",
+    "Cristo"
+   ]
+  },
+  "conformismo": {
+   "definicao": "Atitude que, segundo Chico, o Espiritismo não prega; pede paciência e cooperação com as leis."
+  },
+  "justiça social": {
+   "definicao": "Tema da pergunta sobre o que o Espiritismo faz por ela; Chico aponta instrução e trabalho como remédios para a ignorância e penúria."
+  },
+  "a Deus o que é de Deus e a César o que é de César": {
+   "definicao": "Sentença de Jesus citada por Chico ao explicar a postura do Espiritismo diante de política e partidos.",
+   "ver": "wiki/obras/evangelho-segundo-mateus"
+  },
+  "trabalho": {
+   "definicao": "Remédio, junto com a instrução, para a ignorância e a penúria, e valor lembrado no artesanato dos hippies brasileiros.",
+   "ver": "wiki/conceitos/leis-morais/lei-do-trabalho"
+  },
+  "partidarismo político": {
+   "definicao": "Envolvimento em partidos políticos, que Chico diz que o Espiritismo evita ao defender justiça social."
+  },
+  "Apolo XV": {
+   "definicao": "Missão espacial citada na pergunta sobre o contato com civilizações de outros planetas."
+  },
+  "corrida espacial": {
+   "definicao": "Disputa de exploração do espaço citada na pergunta sobre contato com outros mundos; Chico a compara a Colombo."
+  },
+  "pluralidade dos mundos habitados": {
+   "definicao": "Doutrina de que há muitos mundos habitados; Chico a liga a Kardec e Emmanuel e a 'muitas moradas na casa de meu Pai'.",
+   "ver": "wiki/conceitos/pluralidade-dos-mundos-habitados",
+   "variantes": [
+    "pluralidade dos mundos"
+   ]
+  },
+  "Cristóvão Colombo": {
+   "definicao": "Navegador com quem Chico, por Emmanuel, compara a conquista da Lua pelo homem."
+  },
+  "Lua": {
+   "definicao": "Satélite onde, segundo Emmanuel, poderá haver cidades de vidro e bases científicas, se não houver guerra de extermínio."
+  },
+  "Camille Flammarion": {
+   "definicao": "Astrônomo e pesquisador citado na discussão sobre habitantes de outros planetas; pesquisa psíquica, sem autoridade doutrinária.",
+   "ver": "wiki/personalidades/camille-flammarion"
+  },
+  "NASA": {
+   "definicao": "Agência espacial americana citada na pergunta sobre aminoácidos em meteoritos e a forma dos habitantes de outros planetas."
+  },
+  "aminoácidos": {
+   "definicao": "Compostos encontrados em meteoritos, citados na pergunta sobre a forma dos habitantes de outros mundos."
+  },
+  "avião": {
+   "definicao": "Voo de 1959 em que Chico, tomado de medo, viu Emmanuel o repreender e aconselhá-lo a dar testemunho de fé."
+  },
+  "oração": {
+   "definicao": "Prece que Chico associa à vigilância pelo Brasil, a pedido pelos condenados, e à homenagem às mães com o Pai-Nosso.",
+   "ver": "wiki/conceitos/prece",
+   "variantes": [
+    "prece"
+   ]
+  },
+  "Pai-Nosso": {
+   "definicao": "Oração dominical recitada por Chico no encerramento do Programa I, em homenagem às mães.",
+   "ver": "wiki/conceitos/oracao-dominical"
+  },
+  "mãe": {
+   "definicao": "Espírito da mãe de Chico, com quem começou a mediunidade, e figura que ele homenageia no encerramento do Programa I."
+  },
+  "humor": {
+   "definicao": "Traço de Chico nos programas, presente no episódio do avião, na loteria esportiva e na história do pai."
+  },
+  "medo da morte": {
+   "definicao": "Receio que Chico confessa no voo de 1959, quando Emmanuel o aconselha a morrer com educação.",
+   "ver": "wiki/conceitos/medo"
+  },
+  "loteria esportiva": {
+   "definicao": "Pedido de que Chico marcasse volante; ele responde com humor que vive voltado ao mundo espiritual."
+  },
+  "Loteria Federal": {
+   "definicao": "Loteria associada à história do pai de Chico, cambista, que prometeu parar a roda, contada com humor."
+  },
+  "Weaker Batista": {
+   "definicao": "Pessoa citada no episódio do pai de Chico, cambista de loteria doente em 1939."
+  },
+  "jogo": {
+   "definicao": "Prática que Bezerra de Menezes considera imoral, legalizada ou não; Chico prefere reconsiderar o assunto no futuro.",
+   "variantes": [
+    "legalização do jogo"
+   ]
+  },
+  "D'Angelo Neto": {
+   "definicao": "Espírita já desencarnado, citado na pergunta sobre a legalização do jogo e o parecer atribuído a Bezerra de Menezes."
+  },
+  "Congresso Nacional": {
+   "definicao": "Instituição citada ao tratar da legalização do jogo, cuja decisão depende das autoridades que Chico diz respeitar."
+  },
+  "Bezerra de Menezes": {
+   "definicao": "Espírito citado em mensagens contra o jogo e contra transplantes de coração, perguntadas a Chico.",
+   "ver": "wiki/personalidades/bezerra-de-menezes"
+  },
+  "Pelé": {
+   "definicao": "Jogador de futebol que Chico admira; diz que gostaria que continuasse na seleção, e brinca na loteria esportiva."
+  },
+  "Corinthians": {
+   "definicao": "Time de futebol; Chico confessa, com humor, ser corintiano ao responder sobre o sofrimento dos torcedores."
+  },
+  "Santos": {
+   "definicao": "Time de futebol de Pelé, citado na pergunta bem-humorada sobre esportes e sofrimento do Corinthians."
+  },
+  "esporte": {
+   "definicao": "Tema da pergunta bem-humorada sobre futebol, torcida e provação, respondida por Chico com humor."
+  },
+  "homossexualidade": {
+   "definicao": "Condição da alma que Chico, conforme Emmanuel, diz digna de respeito, relacionada a reencarnações e frustração afetiva.",
+   "ver": "wiki/conceitos/reencarnacao"
+  },
+  "bissexualidade": {
+   "definicao": "Condição da alma que Chico, segundo Emmanuel, cita com a homossexualidade e a assexualidade, dignas de respeito."
+  },
+  "sexualidade": {
+   "definicao": "Potência dada ao bem; Chico pergunta se seria sentenciada à condenação ao tratar de condições da alma."
+  },
+  "sexo": {
+   "definicao": "Terreno em que o amor, para Chico citando Emmanuel, deve ser responsável, com lei, compromisso e monogamia."
+  },
+  "fecundidade espiritual": {
+   "definicao": "Expressão de Emmanuel citada por Chico ao falar de quem não tem filhos pela carne e produz amor e serviço."
+  },
+  "transexualidade": {
+   "definicao": "Condição discutida na relação com a homossexualidade e a reencarnação; Chico trata com respeito os que vivem em condição inversiva."
+  },
+  "Ian Stevenson": {
+   "definicao": "Pesquisador de casos de reencarnação cujas pesquisas Emmanuel e André Luiz julgam importantes, segundo Chico."
+  },
+  "Banerjee": {
+   "definicao": "Pesquisador de reencarnação citado com Stevenson na pergunta sobre a aceitação científica dessas pesquisas."
+  },
+  "parapsicologia": {
+   "definicao": "Disciplina científica sobre fenômenos psíquicos, citada ao se discutir a pesquisa científica da reencarnação."
+  },
+  "frustração afetiva": {
+   "definicao": "Fome da alma que, segundo Chico, está por trás de condições sexuais inversivas, pedindo respeito e legislação humana."
+  },
+  "obsessão": {
+   "definicao": "Influência de Espíritos sobre pessoas, citada por Chico ao responder sobre homossexualidade e transexualidade.",
+   "ver": "wiki/conceitos/obsessao"
+  },
+  "lágrimas": {
+   "definicao": "Choro pela perda de filho; as de gratidão e saudade fazem bem ao desencarnado, as de revolta o prejudicam."
+  },
+  "saudade": {
+   "definicao": "Sentimento de falta que, unido à esperança, faz bem aos desencarnados, diz Chico sobre as lágrimas."
+  },
+  "luto": {
+   "definicao": "Dor pela morte de um ente querido, tema da pergunta sobre se lágrimas prejudicam o filho desencarnado."
+  },
+  "revolta": {
+   "definicao": "Estado de rebeldia diante da morte que, segundo Chico, prejudica tanto o desencarnado quanto o encarnado."
+  },
+  "fertilização in vitro": {
+   "definicao": "Bebê de proveta; Chico diz que a reencarnação no tubo de ensaio poderá ocorrer com menos traumas."
+  },
+  "perispírito": {
+   "definicao": "Corpo espiritual que liga o Espírito ao físico; discutido nas operações plásticas, no bebê de proveta e na fotografia Kirlian.",
+   "ver": "wiki/conceitos/perispirito",
+   "variantes": [
+    "corpo espiritual"
+   ]
+  },
+  "corpo bioplásmico": {
+   "definicao": "Conceito da pesquisa soviética sobre fotografia Kirlian comparado ao perispírito na pergunta do Programa II."
+  },
+  "efeito Kirlian": {
+   "definicao": "Fotografia que registra halo em torno de corpos, comparada ao perispírito na pergunta sobre o corpo bioplásmico."
+  },
+  "Psychic News": {
+   "definicao": "Publicação inglesa de pesquisa psíquica citada na pergunta sobre fotografia Kirlian e perispírito."
+  },
+  "cérebro": {
+   "definicao": "Órgão que, segundo Chico, não gera a mente; ele diz que a mente não depende do cérebro."
+  },
+  "adrenalina": {
+   "definicao": "Hormônio citado entre os fenômenos orgânicos que só o corpo espiritual modelador explicaria, segundo Chico."
+  },
+  "mente": {
+   "definicao": "Segundo Chico, a mente não depende do cérebro, ideia ligada ao corpo espiritual modelador do físico."
+  },
+  "complexo de Édipo": {
+   "definicao": "Conceito de Freud que Chico diz poder ser estudado à luz da reencarnação, com o complexo de Electra."
+  },
+  "complexo de Electra": {
+   "definicao": "Conceito psicanalítico que Chico diz poder ser estudado à luz da reencarnação ao falar do bebê de proveta."
+  },
+  "Freud": {
+   "definicao": "Criador da psicanálise, citado na discussão de complexos e da educação dos filhos.",
+   "variantes": [
+    "Sigmund Freud"
+   ]
+  },
+  "psiquiatria": {
+   "definicao": "Ciência médica que, segundo Chico, ajudará a educar o amor e a lidar com complexos de Édipo e Electra."
+  },
+  "psicanálise": {
+   "definicao": "Teoria citada em torno da gestação e da recapitulação evolutiva do reencarnante."
+  },
+  "medicina": {
+   "definicao": "Ciência que Chico respeita; só médicos têm autoridade para tratar, e os desencarnados inspiram colegas."
+  },
+  "cirurgia plástica": {
+   "definicao": "Operação regeneradora com orientação médica que Chico diz legítima, sem inconveniente para o perispírito."
+  },
+  "geriatria": {
+   "definicao": "Ramo médico comparado por Chico à cirurgia plástica regeneradora, por ajudar a alegria de viver e o trabalho."
+  },
+  "gerontologia": {
+   "definicao": "Estudo do envelhecimento citado com a geriatria na resposta de Chico sobre cirurgias plásticas."
+  },
+  "gestação": {
+   "definicao": "Período em que ocorre a encarnação; André Luiz, citado por Chico, diz que a consciência do momento é raríssima.",
+   "ver": "wiki/conceitos/encarnacao"
+  },
+  "recapitulação evolutiva": {
+   "definicao": "Passagem do reencarnante pelas fases evolutivas, que, segundo André Luiz, continua após o nascimento."
+  },
+  "Umbanda": {
+   "definicao": "Religião que Chico chama de sumamente respeitável e explica, pelas leis cármicas, como organização dos Espíritos africanos escravizados pelos brasileiros."
+  },
+  "pretos-velhos": {
+   "definicao": "Entidades da Umbanda; Chico vê nesses Espíritos africanos, escravizados no Brasil, irmãos que renascem entre nós para receber a compensação do amor."
+  },
+  "cura": {
+   "definicao": "Alívio de enfermidades, perguntada sobre os espíritos da Umbanda; Chico diz respeitar o trabalho curativo, sem estudá-lo."
+  },
+  "africanos": {
+   "definicao": "Povos trazidos ao Brasil na escravidão; Chico explica a Umbanda como obra desses Espíritos, que renascem nas famílias brasileiras para receber a compensação do amor."
+  },
+  "escravidão": {
+   "definicao": "Dívida coletiva dos brasileiros, segundo Chico, para com os africanos trazidos como escravos, que hoje renascem nas famílias brasileiras."
+  },
+  "respeito às religiões": {
+   "definicao": "Atitude de Chico ao tratar da Umbanda, da Igreja Católica e do ecumenismo, vendo todos como uma só família."
+  },
+  "livre-arbítrio": {
+   "definicao": "Liberdade de escolha do Espírito; Chico a liga à responsabilidade e à ideia de que o homem é cooperador consciente de Deus.",
+   "ver": "wiki/conceitos/livre-arbitrio"
+  },
+  "tendências inferiores": {
+   "definicao": "Inclinações com que se pode renascer, mas que somos responsáveis por resistir, segundo Chico, ao falar de Judas."
+  },
+  "responsabilidade": {
+   "definicao": "Dever de resistir às tendências inferiores e de responder pelas imagens que passam pelo médium, segundo Chico.",
+   "ver": "wiki/conceitos/responsabilidade"
+  },
+  "predestinação": {
+   "definicao": "Ideia de que Judas cumpria um programa; Chico responde que somos responsáveis por resistir às tendências."
+  },
+  "Diário da Noite": {
+   "definicao": "Veículo de imprensa citado na abertura do Programa II."
+  },
+  "Paulo de Tarso": {
+   "definicao": "Apóstolo cuja exortação a Tito 3:1-2, transmitida de Emmanuel, Chico lê no início do Programa II.",
+   "ver": "wiki/personalidades/paulo-de-tarso"
+  },
+  "Epístola a Tito": {
+   "definicao": "Carta de Paulo, de cujo capítulo 3, versículos 1-2, Chico transmite exortação de Emmanuel à submissão às autoridades.",
+   "ver": "wiki/obras/epistola-a-tito"
+  },
+  "Natal": {
+   "definicao": "Festa em que renovamos os votos de cristianização; Chico a celebra na despedida, com união entre templos e casas espíritas."
+  },
+  "cristianização": {
+   "definicao": "Aproximação da vida a Cristo, cujos votos Chico diz renovarmos no Natal."
+  },
+  "São Paulo": {
+   "definicao": "Cidade sede dos programas, a que Chico agradece e onde atribui a Emmanuel sua presença por ligação com Manuel da Nóbrega."
+  },
+  "caridade": {
+   "definicao": "Prática do bem que Chico reconhece nos umbandistas e em Hebe Camargo, e no trabalho dos médicos.",
+   "ver": "wiki/conceitos/caridade"
+  },
+  "Manuel da Nóbrega": {
+   "definicao": "Jesuíta fundador de São Paulo, cuja personalidade Chico confirma que Emmanuel foi em vida, por testemunho do próprio Emmanuel."
+  },
+  "José de Anchieta": {
+   "definicao": "Jesuíta citado na pergunta sobre o passado de Emmanuel como padre Manuel da Nóbrega, em São Paulo."
+  },
+  "Pátio do Colégio": {
+   "definicao": "Local histórico de São Paulo cuja visão Chico confirma, em resposta a Freitas Nobre."
+  },
+  "Piratininga": {
+   "definicao": "Nome antigo do planalto de São Paulo, citado na resposta sobre Emmanuel e Manuel da Nóbrega."
+  },
+  "cristianismo": {
+   "definicao": "Fé de Jesus que Chico pede vivida no lar e na família, e cuja prática falta aos religiosos, diante da ciência."
+  },
+  "família": {
+   "definicao": "Instituição cuja valorização Chico pede diante da automação; fala também em incorporar os homossexuais à família humana.",
+   "ver": "wiki/conceitos/familia"
+  },
+  "Brasil": {
+   "definicao": "País cuja situação política Chico considera digna e que homenageia em poema; pede oração e vigilância por ele."
+  },
+  "vigilância": {
+   "definicao": "Atitude que Chico associa à oração ao comentar a posição do Brasil e a preservação da ordem."
+  },
+  "forças armadas": {
+   "definicao": "Instituição pela qual Chico pede oração, ao falar da preservação da ordem no Brasil."
+  },
+  "democracia": {
+   "definicao": "Regime citado por Chico ao falar da posição política do Brasil e da liberdade em Jesus Cristo."
+  },
+  "liberdade": {
+   "definicao": "Valor que Chico defende em Jesus Cristo contra ideologias desagregadoras, ao falar da situação do Brasil.",
+   "ver": "wiki/conceitos/leis-morais/lei-de-liberdade"
+  },
+  "homeopatia": {
+   "definicao": "Receitas de quinta dinamização indicadas pelos amigos espirituais nas reuniões; Chico diz que só médicos têm autoridade para tratar."
+  },
+  "proselitismo": {
+   "definicao": "Atividade de conquistar adeptos, que Chico nega ser o objetivo das receitas homeopáticas nas reuniões."
+  },
+  "juventude": {
+   "definicao": "Jovens rebeldes e hippies; Chico pede compreensão e respeito, sem amor possessivo, e valoriza o diálogo com os pais."
+  },
+  "educação dos filhos": {
+   "definicao": "Tema da questão 385 de O Livro dos Espíritos; Chico defende diálogo e independência entre pais e jovens."
+  },
+  "amor possessivo": {
+   "definicao": "Forma de amor que Chico desaconselha nos pais, defendendo respeito aos jovens e independência."
+  },
+  "diálogo": {
+   "definicao": "Meio que Chico propõe entre pais e jovens, e entre técnicos, religiosos e famílias, diante da automação."
+  },
+  "movimento hippie": {
+   "definicao": "Movimento juvenil que Chico diz não conhecer pelo nome, sem julgá-lo, respeitando o trabalho artesanal dos hippies brasileiros."
+  },
+  "Praça da República": {
+   "definicao": "Praça paulistana associada, na pergunta, aos hippies e à feira de artesanato."
+  },
+  "Comunidade do Embu": {
+   "definicao": "Comunidade artesanal de São Paulo citada na pergunta sobre os hippies brasileiros."
+  },
+  "planejamento familiar": {
+   "definicao": "Possibilidade de o casal considerar suas possibilidades ao ter filhos, citando Kardec, e preferível ao aborto.",
+   "ver": "wiki/conceitos/planejamento-reencarnatorio"
+  },
+  "aborto": {
+   "definicao": "Interrupção da gestação, que Chico considera pior que o planejamento familiar, ilustrando as consequências no corpo espiritual.",
+   "ver": "wiki/aprofundamentos/aborto"
+  },
+  "aura": {
+   "definicao": "Emanação ao redor do corpo, citada ao ilustrar as consequências do aborto no corpo espiritual."
+  },
+  "divórcio": {
+   "definicao": "Medida humana que Chico defende, comparando o desquite a um carro sem motor e respeitando a maioria católica."
+  },
+  "desquite": {
+   "definicao": "Separação sem dissolução do vínculo, que Chico compara a um carro sem motor ao defender o divórcio."
+  },
+  "Código Civil": {
+   "definicao": "Lei brasileira citada na discussão sobre o divórcio e o desquite."
+  },
+  "monogamia": {
+   "definicao": "Regime de união que Chico defende, com lei e compromisso, ao tratar de divórcio e amor livre."
+  },
+  "promiscuidade": {
+   "definicao": "Um dos dois males a abolir, segundo Chico, ao falar do divórcio e da família."
+  },
+  "prostituição": {
+   "definicao": "Um dos dois males a abolir, citados por Chico com a promiscuidade, ao defender o divórcio."
+  },
+  "amor livre": {
+   "definicao": "Tema perguntado a Chico, que cita Emmanuel: o amor é divino e livre, mas no sexo deve ser responsável."
+  },
+  "pena de morte": {
+   "definicao": "Chico, com Emmanuel e o bom samaritano, vê os condenados como doentes que a justiça deve tratar, e pede que ninguém morra em nome dela."
+  },
+  "bom samaritano": {
+   "definicao": "Parábola de Jesus citada por Chico para sustentar que os condenados são doentes a tratar, na resposta sobre a pena de morte.",
+   "ver": "wiki/conceitos/parabola-do-bom-samaritano"
+  },
+  "justiça": {
+   "definicao": "Instituição que, segundo Chico, deve tratar os condenados como doentes, sem censurar os tribunais, ao responder sobre a pena de morte."
+  },
+  "penitenciária": {
+   "definicao": "Estabelecimento prisional citado na resposta de Chico sobre a pena de morte e o tratamento de condenados."
+  },
+  "criogenia": {
+   "definicao": "Congelamento de seres vivos para reanimação posterior; Chico diz que o espírito ficaria ligado ao corpo, como de plantão."
+  },
+  "espírito": {
+   "definicao": "Princípio inteligente do homem; na criogenia, Chico diz que permaneceria ligado ao corpo ou atuaria em desdobramento.",
+   "ver": "wiki/conceitos/espirito"
+  },
+  "corpo físico": {
+   "definicao": "Corpo material do homem, ao qual na criogenia o espírito permaneceria ligado, segundo os benfeitores."
+  },
+  "alimentação carnívora": {
+   "definicao": "Dieta com carne que, segundo Chico, a humanidade ainda precisa; ele confessa vergonha de matar para comer."
+  },
+  "vegetarianismo": {
+   "definicao": "Dieta a que Chico diz que a humanidade deve se adaptar gradualmente, com orientação médica."
+  },
+  "proteína": {
+   "definicao": "Nutriente de origem animal de que a humanidade ainda depende, segundo Chico, na alimentação carnívora."
+  },
+  "reino animal": {
+   "definicao": "Parte da natureza citada na resposta sobre alimentação carnívora e evolução humana."
+  },
+  "pecuária": {
+   "definicao": "Criação de animais que Chico vê como necessidade ainda por alguns milênios, apesar de sua vergonha de matar para comer."
+  },
+  "superpopulação": {
+   "definicao": "Crescimento populacional; Chico diz que o planeta comporta mais de 30 bilhões, explorando o mar."
+  },
+  "origem do espírito": {
+   "definicao": "Pergunta sobre de onde vêm os espíritos com o crescimento da população, no contexto da reencarnação.",
+   "ver": "wiki/conceitos/principio-inteligente"
+  },
+  "Deus": {
+   "definicao": "Criador citado por Chico ao responder sobre a origem dos espíritos e o homem co-criador.",
+   "ver": "wiki/conceitos/deus"
+  },
+  "Constantin Raudive": {
+   "definicao": "Pesquisador das vozes eletrônicas atribuídas a desencarnados, citado na pergunta sobre transcomunicação."
+  },
+  "transcomunicação": {
+   "definicao": "Comunicação eletrônica com desencarnados; Chico diz que até agora ela se dá por meio mediúnico, esperando que a ciência avance."
+  },
+  "imortalidade da alma": {
+   "definicao": "Sobrevivência do Espírito, a que Chico espera que a ciência traga um novo sentido pela comunicação sem médiuns.",
+   "ver": "wiki/conceitos/alma"
+  },
+  "ressurreição de Jesus": {
+   "definicao": "Acontecimento citado na resposta sobre comunicação eletrônica e imortalidade, com a civilização cristã."
+  },
+  "transplante": {
+   "definicao": "Transplantes de coração, desaconselhados em mensagem de Bezerra; Chico diz que merecem cuidado e pesquisa contínua."
+  },
+  "Christiaan Barnard": {
+   "definicao": "Cirurgião que realizou transplante de coração, citado na pergunta sobre rejeição e a mensagem de Bezerra."
+  },
+  "Euryclides Zerbini": {
+   "definicao": "Cirurgião brasileiro de transplantes cardíacos, citado na pergunta de Chico sobre a rejeição."
+  },
+  "Filatov": {
+   "definicao": "Cirurgião ligado ao transplante de córnea, citado por Chico como precedente para os transplantes de coração."
+  },
+  "rejeição": {
+   "definicao": "Incompatibilidade de tecidos nos transplantes, que Chico explica ouvindo Emmanuel e André Luiz."
+  },
+  "morte": {
+   "definicao": "Passagem que Chico diz ser suave quando há consciência tranquila e cumprimento dos deveres.",
+   "ver": "wiki/conceitos/morte"
+  },
+  "consciência": {
+   "definicao": "Estado de tranquilidade moral que, segundo Chico, traz uma morte suave; complexos de culpa prendem a estados inferiores."
+  },
+  "culpa": {
+   "definicao": "Sentimento que, nos complexos de culpa, prende o Espírito a estados inferiores, segundo Chico, após a morte.",
+   "ver": "wiki/conceitos/culpa"
+  },
+  "Evangelho": {
+   "definicao": "Mensagem de Jesus citada por Chico no Natal e como caminho de uma morte tranquila."
+  },
+  "Igreja Católica": {
+   "definicao": "Igreja cujos fenômenos de bondade divina Chico declara legítimos, relatando vivências nela na infância e em Lourdes."
+  },
+  "Lourdes": {
+   "definicao": "Santuário católico visitado por Chico, citado na pergunta sobre milagres da Igreja."
+  },
+  "Fátima": {
+   "definicao": "Santuário católico citado na pergunta sobre milagres da Igreja e santos que deixam mensagens."
+  },
+  "Santa Teresinha de Lisieux": {
+   "definicao": "Santa católica citada na pergunta sobre santos que enviam mensagens pelo Espiritismo."
+  },
+  "ecumenismo": {
+   "definicao": "Convivência entre católicos, evangélicos e espíritas que Chico vê como uma só família, em especial no Natal."
+  },
+  "Brasil, Coração do Mundo, Pátria do Evangelho": {
+   "definicao": "Livro de Humberto de Campos psicografado por Chico, citado no contexto do episódio do pai e da loteria.",
+   "ver": "wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho"
+  },
+  "comunicação dos mortos": {
+   "definicao": "Comunicação de desencarnados por médiuns; Chico explica por que seu pai, falecido em 1938, aparentemente nunca se manifestou.",
+   "ver": "wiki/conceitos/manifestacoes-espiritas"
+  },
+  "perturbação": {
+   "definicao": "Estado de desorientação do Espírito após a morte, citado ao explicar por que seu pai ainda não se comunicou.",
+   "ver": "wiki/conceitos/perturbacao"
+  },
+  "Blecaute": {
+   "definicao": "Cantor de carnaval, nascido em Pinhal, que pede a Chico conselho e amparo no Programa II."
+  },
+  "dor": {
+   "definicao": "Sofrimento que, para Chico, tem função, e que o próprio Jesus aceitou ao receber auxílio do Cireneu.",
+   "ver": "wiki/conceitos/dor"
+  },
+  "Cireneu": {
+   "definicao": "Simão de Cirene, que ajudou Jesus a carregar a cruz, lembrado por Chico para dizer que a dor tem função."
+  },
+  "amizade": {
+   "definicao": "Valor que Chico cita como luz nos dias difíceis, em resposta a pedido de conselho e proteção."
+  },
+  "Cátia Senherup": {
+   "definicao": "Escritora paulistana a quem Chico pede perdão, no fim do Programa II, por não ter respondido às suas cartas."
+  },
+  "co-criação": {
+   "definicao": "Ideia de o homem co-criador no plano da criação; Chico, citando Emmanuel, compara a uma firma familiar."
+  },
+  "cooperador de Deus": {
+   "definicao": "Expressão de Emmanuel pela qual o homem seria cooperador consciente de Deus na obra da criação."
+  },
+  "fraternidade": {
+   "definicao": "Valor ligado ao amor de Jesus, ainda não posto em prática, segundo Chico, e à obra de Kennedy.",
+   "ver": "wiki/conceitos/caridade"
+  },
+  "ciência": {
+   "definicao": "Conquistas científicas que viram armas de extermínio quando os religiosos não são fiéis aos postulados que aceitam, diz Chico."
+  },
+  "armas": {
+   "definicao": "Armas de extermínio, em que, segundo a pergunta, as conquistas da humanidade se transformam."
+  },
+  "governador espiritual da Terra": {
+   "definicao": "Expressão associada a Jesus como guia espiritual do planeta, citada na resposta sobre conquistas e armas."
+  },
+  "Liba Friedman": {
+   "definicao": "Jornalista da bancada do Programa II; pergunta por que as grandes conquistas humanas viram armas de extermínio."
+  },
+  "Castro Alves": {
+   "definicao": "Poeta a quem Almir atribui o poema psicografado ao vivo no Programa II, em louvor ao Brasil."
+  },
+  "Tiradentes": {
+   "definicao": "Mártir da Inconfidência citado no poema psicografado ao vivo no Programa II."
+  },
+  "Brasília": {
+   "definicao": "Capital do Brasil citada no poema psicografado ao vivo no Programa II."
+  },
+  "renúncia": {
+   "definicao": "Atitude de Chico ao desistir de escrever obra própria, por respeito aos bons espíritos e à tarefa mediúnica."
+  }
+ },
+ "excluir": [
+  "intervalo",
+  "telespectador",
+  "televisão",
+  "TV Tupi",
+  "Embratel",
+  "Rádio Tupi",
+  "videoteipe",
+  "cartas",
+  "ordem",
+  "amor",
+  "música",
+  "Terra"
+ ]
+}

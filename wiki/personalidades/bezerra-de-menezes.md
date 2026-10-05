@@ -48,7 +48,7 @@ Catálogo ativo na loja FEB Editora (scrape em 2026-05-15) — títulos sob o fi
 
 Nenhuma página própria na wiki ainda — candidatas a futuro `/ingest`. Lista de download em `tracking/aquisicao-feb.md`.
 
-- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — lembrado em 1971 pela mensagem psicografada por Chico (c. 1968) que desaconselhava, então, os transplantes de coração, e pelo parecer "legalizado ou não, o jogo é imoral"; Chico pondera que os transplantes "merecem a nossa consideração e devemos prosseguir" (Chico Xavier, *Pinga-Fogo II*, 1:51:50–1:55:37; 2:59:09).
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — lembrado em 1971 pela mensagem psicografada por Chico em 18 de junho de 1968, após o transplante de Zerbini (*Bezerra, Chico e Você*, cap. 58), que Saulo Gomes recorda como contrária aos transplantes, embora o texto valorize o corpo e recuse o comércio de órgãos; e pelo parecer "legalizado ou não, o jogo é imoral"; Chico pondera que os transplantes "merecem a nossa consideração e devemos prosseguir" (Chico Xavier, *Pinga-Fogo II*, 1:51:50–1:55:37; 2:59:09).
 
 ## Citações relevantes
 

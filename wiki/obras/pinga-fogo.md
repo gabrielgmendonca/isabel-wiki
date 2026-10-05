@@ -28,7 +28,28 @@ Os dois programas *Pinga-Fogo* da TV Tupi (Canal 4, São Paulo) em que [[wiki/pe
 - **Edição impressa de referência:** *Pinga-Fogo com Chico Xavier*, org. Saulo Gomes (InterVida, 2009)
 - **Fonte original:** [YouTube — Pinga-Fogo I](https://www.youtube.com/watch?v=v5waIS1qedA) · [YouTube — Pinga-Fogo II](https://www.youtube.com/watch?v=GNaG1qijyp0)
 
-**Como citar:** `(Chico Xavier, *Pinga-Fogo I*, H:MM:SS)`, com o tempo do vídeo indicado na transcrição. Para trecho literal, prefira a transcrição do áudio. O livro EDICEL diverge do áudio em vários pontos, todos registrados nas notas de revisão de cada transcrição.
+**Como citar:** `(Chico Xavier, *Pinga-Fogo I*, H:MM:SS)`, com o tempo do vídeo indicado na transcrição. Para trecho literal, prefira a transcrição do áudio. O livro EDICEL diverge do áudio em vários pontos, todos registrados nas notas de revisão de cada transcrição. O tempo exato de qualquer trecho sai de `uv run python scripts/pinga_fogo.py tempo I "<trecho>"`.
+
+![Pinga-Fogo I](https://www.youtube.com/watch?v=v5waIS1qedA)
+
+![Pinga-Fogo II](https://www.youtube.com/watch?v=GNaG1qijyp0)
+
+## Estudo por tema
+
+Cada página reúne as falas de Chico sobre um grande tema. Cada fala traz o trecho literal do áudio e o vídeo aberto no segundo citado, e é relacionada às obras psicografadas por Chico e ao Pentateuco.
+
+| Tema | O que reúne |
+|---|---|
+| [[wiki/obras/pinga-fogo/mediunidade-e-psicografia\|Mediunidade e psicografia]] | Autenticidade da obra, animismo, Emmanuel como guia, gratuidade, médiuns, poemas ao vivo |
+| [[wiki/obras/pinga-fogo/vida-de-chico\|Chico por ele mesmo]] | Infância, família, trabalho, o avião em 1959, humor e renúncia |
+| [[wiki/obras/pinga-fogo/reencarnacao-e-justica-divina\|Reencarnação e justiça divina]] | Objeção bíblica, sofrimento das crianças, suicídio, mortes coletivas, Judas |
+| [[wiki/obras/pinga-fogo/morte-e-vida-espiritual\|Morte e vida espiritual]] | Desencarnação, cremação, lágrimas, comunicação dos mortos, planos espirituais |
+| [[wiki/obras/pinga-fogo/ciencia-e-espiritismo\|Ciência e Espiritismo]] | Kirlian, perispírito e cérebro, transcomunicação, outros mundos, transplantes |
+| [[wiki/obras/pinga-fogo/sexualidade-e-familia\|Sexualidade e família]] | Homossexualidade, divórcio, amor livre, planejamento familiar, aborto, educação |
+| [[wiki/obras/pinga-fogo/sociedade-e-moral\|Sociedade e moral]] | Pena de morte, conformismo e trabalho, alimentação, jogo, juventude, política |
+| [[wiki/obras/pinga-fogo/jesus-e-as-religioes\|Jesus e as religiões]] | Natal, catolicismo, ecumenismo, Umbanda, Nóbrega, Pátria do Evangelho |
+
+Para pesquisa: o [[wiki/obras/pinga-fogo/indice|índice das perguntas]] traz todas as perguntas na ordem em que foram ao ar, com resumo da resposta e link para o vídeo. O [[wiki/obras/pinga-fogo/indice-remissivo|índice remissivo]] lista nomes, obras e conceitos, com definição curta e cada ocorrência.
 
 ## Estrutura
 
@@ -129,7 +150,7 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 ## Personalidades citadas
 
 - [[wiki/personalidades/emmanuel]]: assistente declarado nos dois programas.
-- [[wiki/personalidades/bezerra-de-menezes]]: mensagem de 1968 que desaconselhava, então, os transplantes de coração; parecer de que "o jogo é imoral", que Chico prefere "reconsiderar" (*Pinga-Fogo II*, 1:51:50; 3:00:14).
+- [[wiki/personalidades/bezerra-de-menezes]]: mensagem de 18 de junho de 1968 sobre os transplantes de coração (*Bezerra, Chico e Você*, cap. 58), que Saulo Gomes lembra como desaconselhando-os, embora o texto valorize o corpo e recuse o comércio de órgãos (ver [[wiki/obras/pinga-fogo/ciencia-e-espiritismo#Transplantes de coração e rejeição|Ciência e Espiritismo]]); parecer de que "o jogo é imoral", que Chico prefere "reconsiderar" (*Pinga-Fogo II*, 1:51:50; 3:00:14).
 - [[wiki/personalidades/waldo-vieira]]: recebeu capítulos alternados de *Evolução em Dois Mundos* com Chico, sem que um soubesse o que o outro recebera (*Pinga-Fogo I*, 1:18:55–1:21:58).
 - [[wiki/personalidades/zilda-gama]]: os romances dela despertaram em Chico o desejo de receber romances, por volta de 1936 (*Pinga-Fogo I*, 0:29:33).
 - [[wiki/personalidades/camille-flammarion]]: lembrado por Freitas Nobre e por Chico como "grande e inesquecível pioneiro" (*Pinga-Fogo II*, 1:00:24).

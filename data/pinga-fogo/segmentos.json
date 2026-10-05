@@ -1,0 +1,1991 @@
+[
+ {
+  "programa": "I",
+  "inicio": "0:01:27",
+  "resposta": "0:05:47",
+  "linha": 37,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Abertura do programa e apresentação de Chico Xavier.",
+  "resumo": "Chico agradece à TV Tupi, declara-se sem qualidades para o lugar que ocupa, pede vibrações fraternas e diz confiar em Emmanuel, respondendo apenas o que ele puder esclarecer.",
+  "tema": "programa",
+  "temas_secundarios": [
+   "vida-de-chico",
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Pinga-Fogo",
+   "TV Tupi",
+   "Emmanuel",
+   "Uberaba",
+   "Comunhão Espírita Cristã",
+   "humildade"
+  ],
+  "ate_linha": 62,
+  "fim": "0:09:33",
+  "id": "I-001"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:09:33",
+  "resposta": null,
+  "linha": 63,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Apresentação da bancada de entrevistadores e do formato do programa.",
+  "resumo": "Sem fala doutrinária de Chico; Almir apresenta Scantimburgo, Helle Alves, Reali Júnior, Saulo Gomes e Herculano Pires e divulga o telefone dos telespectadores.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "João de Scantimburgo",
+   "Helle Alves",
+   "Reali Júnior",
+   "Saulo Gomes",
+   "Herculano Pires"
+  ],
+  "ate_linha": 74,
+  "fim": "0:12:47",
+  "id": "I-002"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:12:47",
+  "resposta": "0:14:40",
+  "linha": 75,
+  "pergunta_por": "João de Scantimburgo",
+  "pergunta": "Quantos livros psicografou e de que autores espirituais.",
+  "resumo": "Chico informa 107 livros publicados desde 1932 e quatro no prelo, e cita Emmanuel, André Luiz, Irmão X, Casimiro Cunha, Meimei e coletâneas de poetas.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "psicografia",
+   "Emmanuel",
+   "André Luiz",
+   "Irmão X",
+   "Casimiro Cunha",
+   "Meimei",
+   "Parnaso de Além-Túmulo",
+   "O Livro dos Médiuns"
+  ],
+  "ate_linha": 90,
+  "fim": "0:17:06",
+  "id": "I-003"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:17:06",
+  "resposta": "0:17:40",
+  "linha": 91,
+  "pergunta_por": "Helle Alves",
+  "pergunta": "Existem planos e subplanos no mundo espiritual, e a evolução prossegue na vida espiritual?",
+  "resumo": "Chico diz que os Espíritos são unânimes sobre a existência de planos, como há faixas sociais na Terra, e que o programa de autoeducação continua além desta vida pela misericórdia de Deus.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "planos espirituais",
+   "evolução",
+   "misericórdia de Deus",
+   "justiça divina",
+   "autoeducação"
+  ],
+  "ate_linha": 102,
+  "fim": "0:20:19",
+  "id": "I-004"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:20:19",
+  "resposta": "0:20:38",
+  "linha": 103,
+  "pergunta_por": "Reali Júnior (Entrevistador)",
+  "pergunta": "Como explicar a morte violenta de Arigó e a morte tormentosa de Joãozinho da Goméia?",
+  "resumo": "Chico cita a médium Ana Prado e diz que a mediunidade não isenta das leis kármicas; a desencarnação violenta pode poupar provações maiores.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Arigó",
+   "Joãozinho da Goméia",
+   "Ana Prado",
+   "carma",
+   "materialização",
+   "desencarnação",
+   "mediunidade"
+  ],
+  "ate_linha": 110,
+  "fim": "0:23:47",
+  "id": "I-005"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:23:47",
+  "resposta": "0:24:08",
+  "linha": 111,
+  "pergunta_por": "Telespectador (lida por Almir Guimarães)",
+  "pergunta": "Arigó teria sido avisado do seu fim como médium?",
+  "resumo": "Chico fala de sua convivência com Arigó (1954-1956), diz não poder julgar os últimos anos dele e que aceitaria uma desencarnação violenta se evitasse comprometer a fé alheia.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico",
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "José Arigó",
+   "Uberaba",
+   "mediunidade",
+   "desencarnação",
+   "humildade"
+  ],
+  "ate_linha": 120,
+  "fim": "0:27:01",
+  "id": "I-006"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:27:01",
+  "resposta": "0:27:25",
+  "linha": 121,
+  "pergunta_por": "Saulo Gomes",
+  "pergunta": "O homem conquistou o espaço antes ou depois do tempo previsto?",
+  "resumo": "Chico responde que o homem está subordinado à Divina Providência e deslancha da Terra na hora certa.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [],
+  "termos": [
+   "conquista do espaço",
+   "Divina Providência",
+   "Terra"
+  ],
+  "ate_linha": 124,
+  "fim": "0:28:05",
+  "id": "I-007"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:28:05",
+  "resposta": "0:29:33",
+  "linha": 125,
+  "pergunta_por": "Herculano Pires",
+  "pergunta": "Que livros e bibliotecas consultou para escrever os romances romanos (Há Dois Mil Anos, Paulo e Estêvão)?",
+  "resumo": "Chico diz que não consultou nenhum livro; conta que Emmanuel exigiu serenidade mental, que ele via cenas como num cinema sob hipnose e não tinha consciência do que escrevia.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Há Dois Mil Anos",
+   "Paulo e Estêvão",
+   "50 Anos Depois",
+   "Ave, Cristo",
+   "Zilda Gama",
+   "Emmanuel",
+   "psicografia"
+  ],
+  "ate_linha": 144,
+  "fim": "0:34:39",
+  "id": "I-008"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:34:39",
+  "resposta": null,
+  "linha": 145,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Intervalo: Almir lembra o episódio de Judas em livro de Humberto de Campos e suspende o programa.",
+  "resumo": "Sem resposta de Chico; Almir conclui a primeira rodada e anuncia o intervalo.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Humberto de Campos",
+   "Judas"
+  ],
+  "ate_linha": 150,
+  "fim": "0:36:01",
+  "id": "I-009"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:36:01",
+  "resposta": "0:37:13",
+  "linha": 151,
+  "pergunta_por": "Herculano Pires",
+  "pergunta": "Leu todos os mais de 400 autores que assinam suas psicografias e armazenou isso no inconsciente?",
+  "resumo": "Chico confirma os dados do casal Ibsen, diz ser impossível conhecer todos eles e lembra seus três empregos (fábrica de tecidos, comércio, Ministério da Agricultura).",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Stig Roland Ibsen",
+   "Edith do Canto Ibsen",
+   "psicografia",
+   "inconsciente",
+   "Ministério da Agricultura"
+  ],
+  "ate_linha": 156,
+  "fim": "0:38:42",
+  "id": "I-010"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:38:42",
+  "resposta": "0:39:03",
+  "linha": 157,
+  "pergunta_por": "Auditório (senhora médium, lida por Almir Guimarães)",
+  "pergunta": "Por que as entidades ao lado de Chico aparecem ora jovens ora idosas para uma médium vidente?",
+  "resumo": "Chico diz que não está nessa faixa de observação no momento, mas acredita na autenticidade da informação e agradece o auxílio.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [],
+  "termos": [
+   "mediunidade",
+   "vidência",
+   "Emmanuel"
+  ],
+  "ate_linha": 160,
+  "fim": "0:40:04",
+  "id": "I-011"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:40:04",
+  "resposta": "0:40:25",
+  "linha": 161,
+  "pergunta_por": "Mauro Bacchia (lida por Almir Guimarães)",
+  "pergunta": "Qual a situação espiritual de Kennedy, De Gaulle, Stalin e Churchill?",
+  "resumo": "Chico diz ter pouco conhecimento, admira Kennedy e Churchill e informa, por amigos norte-americanos, que Kennedy continua a trabalhar no mundo espiritual pela fraternidade entre os povos.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "Kennedy",
+   "De Gaulle",
+   "Stalin",
+   "Churchill",
+   "mundo espiritual"
+  ],
+  "ate_linha": 168,
+  "fim": "0:41:32",
+  "id": "I-012"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:41:32",
+  "resposta": "0:41:46",
+  "linha": 169,
+  "pergunta_por": "Benedito Alves de Oliveira (lida por Almir Guimarães)",
+  "pergunta": "Por que Chico, com problema numa vista, não foi operado por Arigó?",
+  "resumo": "Chico relata a fala do Dr. Fritz sobre o socorro espiritual durante o sono e vê sua doença ocular como bênção que o mantém no dever; nega que toda a sua equipe espiritual sofresse da vista.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Arigó",
+   "Dr. Fritz",
+   "cirurgia mediúnica",
+   "problema ocular",
+   "desdobramento pelo sono"
+  ],
+  "ate_linha": 178,
+  "fim": "0:43:32",
+  "id": "I-013"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:43:32",
+  "resposta": "0:43:40",
+  "linha": 179,
+  "pergunta_por": "Alói Fernandes (lida por Almir Guimarães)",
+  "pergunta": "O que pensa da cremação de corpos?",
+  "resumo": "Chico diz que Emmanuel considera a cremação legítima, desde que se aguardem ao menos 72 horas, mantendo o corpo em ambiente frio.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [],
+  "termos": [
+   "cremação",
+   "Emmanuel",
+   "desencarnação",
+   "72 horas"
+  ],
+  "ate_linha": 182,
+  "fim": "0:44:17",
+  "id": "I-014"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:44:17",
+  "resposta": "0:48:16",
+  "linha": 183,
+  "pergunta_por": "Pastor Manoel de Melo (em vídeo)",
+  "pergunta": "De onde vieram Caim e Abel, se cada pessoa que nasce é reencarnação de alguém que morreu?",
+  "resumo": "Chico cita Gênesis 4:16-17 (a mulher de Caim em Nod) como texto a estudar e devolve a objeção citando o sofrimento das crianças e suicidas que reencarnam com enfermidades congênitas, que só a reencarnação explicaria.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "reencarnação",
+   "Manoel de Melo",
+   "Caim",
+   "Abel",
+   "Gênesis",
+   "suicídio",
+   "carma",
+   "tetralogia de Fallot",
+   "Brasil para Cristo"
+  ],
+  "ate_linha": 218,
+  "fim": "0:57:51",
+  "id": "I-015"
+ },
+ {
+  "programa": "I",
+  "inicio": "0:57:51",
+  "resposta": "1:01:24",
+  "linha": 219,
+  "pergunta_por": "João de Scantimburgo (Entrevistador)",
+  "pergunta": "A escrita psicográfica não seria produto do inconsciente, à maneira de imitadores literários, e por que não há obras de filósofos psicografadas?",
+  "resumo": "Chico mantém que muitos dos mais de 400 comunicantes escreveram à maneira deles, atribui sua melhor expressão a Emmanuel como professor, pergunta se os filósofos não seriam médiuns e cita Santa Brígida e Santa Clara de Montefalco; Herculano lembra a psicografia católica e Chico cita os Dez Mandamentos.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "psicografia",
+   "inconsciente",
+   "Emmanuel",
+   "Marcel Proust",
+   "Trevor Smith",
+   "Oscar Wilde",
+   "Santa Brígida de Vadstena",
+   "Santa Clara de Montefalco",
+   "O Manuscrito do Purgatório",
+   "Dez Mandamentos"
+  ],
+  "ate_linha": 254,
+  "fim": "1:10:15",
+  "id": "I-016"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:10:15",
+  "resposta": "1:11:17",
+  "linha": 255,
+  "pergunta_por": "Helle Alves",
+  "pergunta": "Como explicar a violência atual (Vietnã, sociedade de consumo) diante da evolução e da era de Aquário?",
+  "resumo": "Chico, por Emmanuel, diz que são sinais de um período de transformação, que a nova era depende de evitar guerras de extermínio, e que a automação aliviará o trabalho rude em troca do preço da paz.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "era de Aquário",
+   "guerra do Vietnã",
+   "sociedade de consumo",
+   "automação",
+   "terceiro milênio",
+   "Jesus"
+  ],
+  "ate_linha": 268,
+  "fim": "1:14:09",
+  "id": "I-017"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:14:09",
+  "resposta": "1:14:37",
+  "linha": 269,
+  "pergunta_por": "Reali Júnior",
+  "pergunta": "O que o Espiritismo faz por justiça social, ou prega o conformismo?",
+  "resumo": "Chico diz que o Espiritismo não prega conformismo, pede paciência e cooperação com as leis, evita partidarismo político, aponta instrução e trabalho como remédios para a ignorância e a penúria e defende valorizar a madureza no trabalho.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "conformismo",
+   "justiça social",
+   "a Deus o que é de Deus e a César o que é de César",
+   "trabalho",
+   "Jesus",
+   "partidarismo político"
+  ],
+  "ate_linha": 282,
+  "fim": "1:18:55",
+  "id": "I-018"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:18:55",
+  "resposta": "1:20:12",
+  "linha": 283,
+  "pergunta_por": "Herculano Pires",
+  "pergunta": "Como foram escritos Evolução em Dois Mundos e Mecanismos da Mediunidade, e o que sentia ao psicografá-los?",
+  "resumo": "Chico diz que tem dificuldade de compreender esses livros, técnicos demais; conta que enviava os capítulos a Waldo Vieira pelo correio e relata o episódio de Augusto dos Anjos ditando 'Vozes de uma Sombra' na horta de alho.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "Evolução em Dois Mundos",
+   "Mecanismos da Mediunidade",
+   "André Luiz",
+   "Waldo Vieira",
+   "Augusto dos Anjos",
+   "Parnaso de Além-Túmulo",
+   "Pedro Leopoldo"
+  ],
+  "ate_linha": 302,
+  "fim": "1:24:43",
+  "id": "I-019"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:24:43",
+  "resposta": "1:25:40",
+  "linha": 303,
+  "pergunta_por": "Luiz Lopes Corrêa, da TV Globo (lida por Almir Guimarães)",
+  "pergunta": "Poderá o homem, com a corrida espacial (Apolo XV), contatar civilizações de outros planetas?",
+  "resumo": "Chico diz, por Emmanuel, que, se não houver guerra de extermínio, a Lua poderá abrigar cidades de vidro e bases científicas; compara a Colombo e cita 'Há muitas moradas na casa de meu Pai'.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "Apolo XV",
+   "corrida espacial",
+   "pluralidade dos mundos habitados",
+   "Cristóvão Colombo",
+   "Lua",
+   "Jesus",
+   "Emmanuel"
+  ],
+  "ate_linha": 316,
+  "fim": "1:29:43",
+  "id": "I-020"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:29:43",
+  "resposta": null,
+  "linha": 317,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Troca de fita de VT e retomada do programa.",
+  "resumo": "Sem resposta de Chico; intervalo técnico com música.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo"
+  ],
+  "ate_linha": 322,
+  "fim": "1:30:59",
+  "id": "I-021"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:30:59",
+  "resposta": "1:31:30",
+  "linha": 323,
+  "pergunta_por": "Telespectador (lida por Almir Guimarães)",
+  "pergunta": "Conte o episódio do avião em pânico.",
+  "resumo": "Chico narra, com humor, o voo de 1959 com manobras bruscas, seu medo e gritos, e a aparição de Emmanuel, que o repreende e o aconselha a dar testemunho de fé e morrer com educação.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [
+   "morte-e-vida-espiritual"
+  ],
+  "termos": [
+   "avião",
+   "Emmanuel",
+   "Uberaba",
+   "Pedro Leopoldo",
+   "oração",
+   "humor",
+   "medo da morte"
+  ],
+  "ate_linha": 336,
+  "fim": "1:36:30",
+  "id": "I-022"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:36:30",
+  "resposta": "1:37:27",
+  "linha": 337,
+  "pergunta_por": "Entrevistador (bilhete de um senhor alemão)",
+  "pergunta": "Pedido para que Chico marque um volante da loteria esportiva.",
+  "resumo": "Chico responde com humor que vive voltado ao mundo espiritual, mas é brasileiro, adora Pelé e ficaria feliz de ganhar na loteria.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "loteria esportiva",
+   "jogo",
+   "Pelé",
+   "humor"
+  ],
+  "ate_linha": 346,
+  "fim": "1:37:57",
+  "id": "I-023"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:37:57",
+  "resposta": "1:38:16",
+  "linha": 347,
+  "pergunta_por": "Maria Lúcia Silva Gomes (lida por Almir Guimarães)",
+  "pergunta": "Como explicar o homossexualismo e as perturbações do comportamento sexual à luz do Espiritismo?",
+  "resumo": "Chico, conforme Emmanuel, diz que homossexualidade, bissexualidade e assexualidade são condições da alma, dignas de respeito, e pergunta se o sexo, entre as potências dadas ao bem, seria sentenciado às trevas.",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "homossexualidade",
+   "bissexualidade",
+   "sexualidade",
+   "Emmanuel",
+   "fecundidade espiritual",
+   "reencarnação"
+  ],
+  "ate_linha": 356,
+  "fim": "1:41:57",
+  "id": "I-024"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:41:57",
+  "resposta": "1:42:16",
+  "linha": 357,
+  "pergunta_por": "Ida Jorrade (lida por Almir Guimarães)",
+  "pergunta": "As lágrimas pela perda de um filho prejudicam o filho desencarnado?",
+  "resumo": "Chico diz que lágrimas de gratidão e saudade com esperança fazem bem aos desencarnados, mas as de revolta e rebeldia prejudicam tanto eles quanto os encarnados.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [],
+  "termos": [
+   "lágrimas",
+   "saudade",
+   "desencarnado",
+   "luto",
+   "revolta"
+  ],
+  "ate_linha": 360,
+  "fim": "1:43:06",
+  "id": "I-025"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:43:06",
+  "resposta": "1:43:50",
+  "linha": 361,
+  "pergunta_por": "Carlos Alexandre Cavalieri (Auditório)",
+  "pergunta": "Num bebê de proveta, como se daria a ligação do perispírito, as neuroses dos pais e o amor materno?",
+  "resumo": "Chico diz que complexos de Édipo e de Electra podem ser estudados à luz da reencarnação, que a psiquiatria ajudará a educar o amor e que no tubo de ensaio a reencarnação poderá ocorrer com menos traumas; o amor não termina.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [
+   "sexualidade-e-familia"
+  ],
+  "termos": [
+   "fertilização in vitro",
+   "perispírito",
+   "complexo de Édipo",
+   "complexo de Electra",
+   "Freud",
+   "reencarnação",
+   "psiquiatria",
+   "amor"
+  ],
+  "ate_linha": 370,
+  "fim": "1:46:43",
+  "id": "I-026"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:46:43",
+  "resposta": "1:47:11",
+  "linha": 371,
+  "pergunta_por": "Telespectador (lida por Almir Guimarães)",
+  "pergunta": "Os espíritos que se manifestam na Umbanda são evoluídos, e como explicar suas curas?",
+  "resumo": "Chico diz respeitar a Umbanda como toda religião, liga a origem dela ao resgate kármico dos africanos trazidos ao Brasil, afirma encontrar na Doutrina Espírita sua faixa de estudo e pede paciência com a demora das curas.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "Umbanda",
+   "carma",
+   "pretos-velhos",
+   "cura",
+   "africanos",
+   "escravidão",
+   "respeito às religiões"
+  ],
+  "ate_linha": 384,
+  "fim": "1:51:51",
+  "id": "I-027"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:51:51",
+  "resposta": "1:52:21",
+  "linha": 385,
+  "pergunta_por": "Telespectador de Machado, MG (lida por Almir Guimarães)",
+  "pergunta": "Judas foi traidor ou cumpria um programa?",
+  "resumo": "Chico diz que podemos renascer com tendências inferiores, mas somos responsáveis por resistir; julga que Judas teria tentações políticas e não devia tê-las deixado dominar.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "Judas",
+   "livre-arbítrio",
+   "tendências inferiores",
+   "responsabilidade",
+   "Jesus",
+   "predestinação"
+  ],
+  "ate_linha": 390,
+  "fim": "1:54:10",
+  "id": "I-028"
+ },
+ {
+  "programa": "I",
+  "inicio": "1:54:10",
+  "resposta": "1:54:56",
+  "linha": 391,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Almir pede que Chico psicografe uma mensagem ao vivo para encerrar.",
+  "resumo": "Chico aceita tentar, pede um pouco de música e dispensa lápis e caneta oferecidos; segue-se o intervalo musical enquanto escreve.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "programa"
+  ],
+  "termos": [
+   "psicografia ao vivo",
+   "Emmanuel",
+   "música"
+  ],
+  "ate_linha": 418,
+  "fim": "2:02:09",
+  "id": "I-029"
+ },
+ {
+  "programa": "I",
+  "inicio": "2:02:09",
+  "resposta": "2:02:23",
+  "linha": 419,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Leitura da mensagem psicografada ao vivo.",
+  "resumo": "Chico lê o poema, soneto sobre a transição de milênio e a nova era, com o Cristo ao leme, e informa a autoria de Ciro Costa.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "Ciro Costa",
+   "poema psicografado",
+   "nova era",
+   "Cristo",
+   "psicografia"
+  ],
+  "ate_linha": 439,
+  "fim": "2:04:44",
+  "id": "I-030"
+ },
+ {
+  "programa": "I",
+  "inicio": "2:04:44",
+  "resposta": "2:05:39",
+  "linha": 440,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Encerramento: agradecimentos e último recado de Chico.",
+  "resumo": "Chico agradece à TV, a São Paulo e a Uberaba, lembra o início da mediunidade aos 4-5 anos com o espírito da mãe e homenageia as mães recitando o Pai-Nosso.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "Pai-Nosso",
+   "Uberaba",
+   "mediunidade na infância",
+   "TV Tupi",
+   "mãe",
+   "oração"
+  ],
+  "ate_linha": 467,
+  "fim": "2:11:02",
+  "id": "I-031"
+ },
+ {
+  "programa": "I",
+  "inicio": "2:11:02",
+  "resposta": null,
+  "linha": 468,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Agradecimentos finais de Almir e divulgação do livro de Scantimburgo.",
+  "resumo": "Sem fala de Chico; Almir agradece aos convidados, anuncia o Tratado Geral do Brasil e a próxima edição.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "João de Scantimburgo",
+   "Tratado Geral do Brasil",
+   "Herculano Pires",
+   "Pinga-Fogo"
+  ],
+  "ate_linha": 477,
+  "fim": null,
+  "id": "I-032"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:01:00",
+  "resposta": null,
+  "linha": 37,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Abertura do programa e apresentação do convidado.",
+  "resumo": "Almir Guimarães abre o Pinga-Fogo especial, prolongamento do programa de 28 de julho, e apresenta Chico Xavier, com 112 obras psicografadas.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "TV Tupi",
+   "Francisco Cândido Xavier",
+   "Diário da Noite",
+   "Uberaba"
+  ],
+  "ate_linha": 50,
+  "fim": "0:04:53",
+  "id": "II-001"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:04:53",
+  "resposta": "0:06:58",
+  "linha": 51,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Convite a Chico para as palavras iniciais, após a apresentação da rede de emissoras.",
+  "resumo": "Chico diz estar ali em caráter pessoal, sem representar instituição espírita, e pede aos benfeitores que o inspirem a não ofender autoridades. Transmite de Emmanuel a exortação de Paulo a Tito 3:1-2 sobre obediência às autoridades.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Emmanuel",
+   "Paulo de Tarso",
+   "Epístola a Tito",
+   "Natal",
+   "TV Tupi"
+  ],
+  "ate_linha": 70,
+  "fim": "0:10:48",
+  "id": "II-002"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:10:48",
+  "resposta": null,
+  "linha": 71,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Apresentação da bancada de entrevistadores e das regras do programa.",
+  "resumo": "Almir apresenta Leporace, Freitas Nobre, Hernani Guimarães Andrade, Durval Monteiro e Saulo Gomes, e explica como serão recebidas as perguntas dos telespectadores; segue-se o intervalo comercial.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Vicente Leporace",
+   "Freitas Nobre",
+   "Hernani Guimarães Andrade",
+   "Durval Monteiro",
+   "Saulo Gomes"
+  ],
+  "ate_linha": 96,
+  "fim": "0:16:16",
+  "id": "II-003"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:16:16",
+  "resposta": "0:17:05",
+  "linha": 97,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "Que tratamento Chico prefere receber?",
+  "resumo": "Chico responde que basta ser chamado de Chico, de mineiro para mineiro.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [],
+  "termos": [
+   "Vicente Leporace",
+   "humildade",
+   "Minas Gerais"
+  ],
+  "ate_linha": 106,
+  "fim": "0:17:12",
+  "id": "II-004"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:17:12",
+  "resposta": "0:18:01",
+  "linha": 107,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "Até onde o espiritismo admite o umbandismo?",
+  "resumo": "Chico respeita os umbandistas como companheiros dedicados à caridade e à mediunidade que alivia, mas declara-se vinculado aos princípios codificados por Allan Kardec.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Umbanda",
+   "Allan Kardec",
+   "caridade",
+   "mediunidade"
+  ],
+  "ate_linha": 114,
+  "fim": "0:18:45",
+  "id": "II-005"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:18:45",
+  "resposta": "0:19:25",
+  "linha": 115,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "A obra de um médico ilustre é truncada pela morte ou ele continua evoluindo depois de morto?",
+  "resumo": "Chico conhece médicos desencarnados que prosseguem seu apostolado na ciência, inspirando colegas e promovendo a própria reencarnação, pois uma existência de 60 a 100 anos é curta para grandes médicos.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "desencarnação",
+   "reencarnação",
+   "medicina",
+   "evolução do Espírito"
+  ],
+  "ate_linha": 122,
+  "fim": "0:21:18",
+  "id": "II-006"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:21:18",
+  "resposta": "0:22:58",
+  "linha": 123,
+  "pergunta_por": "Freitas Nobre",
+  "pergunta": "Que significação especial tem o Natal para a doutrina espírita e para Chico?",
+  "resumo": "Chico diz que no Natal renovamos os votos de cristianização; sem Jesus Cristo a humanidade regrediria às selvas, e o Natal continuará importante.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [],
+  "termos": [
+   "Natal",
+   "Jesus Cristo",
+   "cristianização",
+   "São Paulo"
+  ],
+  "ate_linha": 134,
+  "fim": "0:25:19",
+  "id": "II-007"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:25:19",
+  "resposta": null,
+  "linha": 135,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Aviso dos telefones para as perguntas dos telespectadores.",
+  "resumo": "Almir informa os telefones, o critério da ordem das perguntas e que consultas pessoais não serão respondidas em público.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "telespectador"
+  ],
+  "ate_linha": 136,
+  "fim": "0:26:13",
+  "id": "II-008"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:26:13",
+  "resposta": "0:28:49",
+  "linha": 137,
+  "pergunta_por": "Hernani Guimarães Andrade",
+  "pergunta": "Qual a opinião de Chico sobre as pesquisas científicas da reencarnação (Stevenson, Banerjee) e sua eventual aceitação pela ciência?",
+  "resumo": "Chico diz que Emmanuel e André Luiz julgam essas pesquisas importantes, e pede que a ciência junte ao fenômeno biológico o lado moral da reencarnação, a lei evangélica do a cada um segundo suas obras, que ele liga ao carma.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "reencarnação",
+   "Ian Stevenson",
+   "Banerjee",
+   "carma",
+   "André Luiz",
+   "Emmanuel",
+   "parapsicologia"
+  ],
+  "ate_linha": 146,
+  "fim": "0:30:35",
+  "id": "II-009"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:30:35",
+  "resposta": "0:31:08",
+  "linha": 147,
+  "pergunta_por": "Durval Monteiro",
+  "pergunta": "A máquina e os computadores vão estrangular o homem?",
+  "resumo": "Chico diz que a automação nos faz viver na presença do futuro e pede estudo, diálogo entre técnicos, religiosos e famílias, valorização do lar e do cristianismo vivido, para não virarmos números ou robôs.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "automação",
+   "cibernética",
+   "família",
+   "cristianismo",
+   "Emmanuel",
+   "prospectiva"
+  ],
+  "ate_linha": 162,
+  "fim": "0:36:21",
+  "id": "II-010"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:36:21",
+  "resposta": "0:37:04",
+  "linha": 163,
+  "pergunta_por": "Saulo Gomes",
+  "pergunta": "O que pensam os benfeitores espirituais sobre a posição do Brasil atual, política e socialmente?",
+  "resumo": "Chico, associando oração e vigilância, considera digna a posição do Brasil, pede oração pela preservação da ordem e das forças armadas e defende a liberdade em Jesus Cristo contra ideologias desagregadoras.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "Brasil",
+   "oração",
+   "vigilância",
+   "forças armadas",
+   "democracia",
+   "liberdade",
+   "ordem"
+  ],
+  "ate_linha": 194,
+  "fim": "0:45:09",
+  "id": "II-011"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:45:09",
+  "resposta": "0:46:40",
+  "linha": 195,
+  "pergunta_por": "Domingos Pimentel de Ulhoa (reitor da Universidade de Uberlândia, via TV Triângulo)",
+  "pergunta": "Qual o objetivo das receitas homeopáticas nas reuniões: aliviar o sofrimento, caridade ou proselitismo?",
+  "resumo": "Chico confirma que sua tarefa é o livro; os amigos espirituais indicam homeopatia de quinta dinamização e só médicos têm autoridade para tratar. Lembra que Jesus prometeu alívio, não cura, e nega qualquer proselitismo.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "homeopatia",
+   "revista Realidade",
+   "Uberaba",
+   "Pedro Leopoldo",
+   "Jesus Cristo",
+   "proselitismo",
+   "livro psicografado"
+  ],
+  "ate_linha": 208,
+  "fim": "0:50:53",
+  "id": "II-012"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:50:53",
+  "resposta": null,
+  "linha": 209,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Intervalo para troca de fita e retomada do programa.",
+  "resumo": "Almir anuncia a pausa, pede música de fundo e chama Saulo para escolher alguém do auditório.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "Luiz Gallon"
+  ],
+  "ate_linha": 214,
+  "fim": "0:52:14",
+  "id": "II-013"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:52:14",
+  "resposta": "0:53:10",
+  "linha": 215,
+  "pergunta_por": "Maria Arruda Carvalho (auditório)",
+  "pergunta": "Há inconveniente para o perispírito em operações plásticas?",
+  "resumo": "Chico diz que a plástica regeneradora com orientação médica é legítima, como a geriatria, e ajuda a alegria de viver e o trabalho; não ambicionemos o suicídio prematuro pelo descaso com a aparência.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "perispírito",
+   "cirurgia plástica",
+   "geriatria",
+   "gerontologia",
+   "medicina"
+  ],
+  "ate_linha": 230,
+  "fim": "0:54:57",
+  "id": "II-014"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:54:57",
+  "resposta": "0:56:09",
+  "linha": 231,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "O espírito do doutor Fritz pode incorporar simultaneamente em vários lugares, após a morte de Arigó?",
+  "resumo": "Chico não duvida que o doutor Fritz encontre outro médium, mas acha difícil a integração e pede estudo in loco, sem julgar os companheiros de mediunidade.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [],
+  "termos": [
+   "José Arigó",
+   "doutor Fritz",
+   "incorporação",
+   "mediunidade",
+   "cirurgia espiritual"
+  ],
+  "ate_linha": 238,
+  "fim": "0:57:45",
+  "id": "II-015"
+ },
+ {
+  "programa": "II",
+  "inicio": "0:57:45",
+  "resposta": "1:00:24",
+  "linha": 239,
+  "pergunta_por": "Freitas Nobre",
+  "pergunta": "Que forma teriam os habitantes de outros planetas, à luz dos aminoácidos encontrados em meteoritos?",
+  "resumo": "Chico diz ter visto desencarnados com fenômenos semelhantes aos do corpo físico, cita Kardec no Livro dos Médiuns e Emmanuel em O Consolador sobre formas diversas em outros mundos, e espera que a ciência se pronuncie.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [],
+  "termos": [
+   "Camille Flammarion",
+   "pluralidade dos mundos",
+   "NASA",
+   "aminoácidos",
+   "O Consolador",
+   "O Livro dos Médiuns",
+   "Allan Kardec"
+  ],
+  "ate_linha": 250,
+  "fim": "1:02:16",
+  "id": "II-016"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:02:16",
+  "resposta": "1:03:36",
+  "linha": 251,
+  "pergunta_por": "Hernani Guimarães Andrade",
+  "pergunta": "Que relação há entre a fotografia Kirlian do corpo bioplásmico e o perispírito?",
+  "resumo": "Chico espera que a ciência positive o corpo espiritual modelador do físico, pois só ele explica fenômenos orgânicos (adrenalina, acetilcolina, bradicinina); afirma que a mente não depende do cérebro, comparando-o a um violino desafinado.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [],
+  "termos": [
+   "perispírito",
+   "efeito Kirlian",
+   "corpo bioplásmico",
+   "Psychic News",
+   "cérebro",
+   "adrenalina",
+   "mente"
+  ],
+  "ate_linha": 260,
+  "fim": "1:07:16",
+  "id": "II-017"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:07:16",
+  "resposta": "1:07:52",
+  "linha": 261,
+  "pergunta_por": "Durval Monteiro",
+  "pergunta": "Quando o jovem rebelde se adapta, evoluiu ou se acomodou?",
+  "resumo": "Chico diz que a adaptação vale se for para o bem; pede compreensão e respeito aos jovens, sem amor possessivo, cita a questão 385 de O Livro dos Espíritos, e defende diálogo e independência entre pais e filhos.",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "juventude",
+   "educação dos filhos",
+   "O Livro dos Espíritos",
+   "Allan Kardec",
+   "Sigmund Freud",
+   "amor possessivo",
+   "diálogo"
+  ],
+  "ate_linha": 286,
+  "fim": "1:16:05",
+  "id": "II-018"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:16:05",
+  "resposta": null,
+  "linha": 287,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Intervalo e lista das emissoras que exibirão o programa.",
+  "resumo": "Almir pausa o programa, retoma e enumera as emissoras que apresentarão o videoteipe na semana seguinte.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "videoteipe",
+   "TV Tupi"
+  ],
+  "ate_linha": 298,
+  "fim": "1:18:02",
+  "id": "II-019"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:18:02",
+  "resposta": "1:18:49",
+  "linha": 299,
+  "pergunta_por": "Saulo Gomes",
+  "pergunta": "Como Chico vê a pena de morte?",
+  "resumo": "Chico, citando Emmanuel e a parábola do bom samaritano, diz que os condenados são doentes que a justiça deve tratar; pede oração para que ninguém morra em nome da justiça, sem censurar os tribunais.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "pena de morte",
+   "bom samaritano",
+   "justiça",
+   "penitenciária",
+   "Emmanuel",
+   "Minas Gerais"
+  ],
+  "ate_linha": 316,
+  "fim": "1:24:16",
+  "id": "II-020"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:24:16",
+  "resposta": "1:24:47",
+  "linha": 317,
+  "pergunta_por": "Américo Bastos (telespectador, lida por Almir Guimarães)",
+  "pergunta": "Emmanuel foi em vida o padre Manuel da Nóbrega?",
+  "resumo": "Chico confirma, dando testemunho da revelação do próprio Emmanuel, e atribui a ele sua presença em São Paulo. Freitas Nobre pergunta sobre a visão do Pátio do Colégio, e Chico confirma que Emmanuel o levou ali.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Emmanuel",
+   "Manuel da Nóbrega",
+   "José de Anchieta",
+   "Pátio do Colégio",
+   "São Paulo",
+   "Piratininga"
+  ],
+  "ate_linha": 334,
+  "fim": "1:27:44",
+  "id": "II-021"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:27:44",
+  "resposta": "1:28:20",
+  "linha": 335,
+  "pergunta_por": "Walter de Matos Correia (telespectador, lida por Almir Guimarães)",
+  "pergunta": "Congelar um ser vivo e depois reanimá-lo é possível à luz do espiritismo? Onde fica o espírito?",
+  "resumo": "Chico responde, segundo os benfeitores, que o espírito estaria ligado ao corpo, como de plantão, em inércia relativa ou até exercendo tarefas em desdobramento.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [
+   "morte-e-vida-espiritual"
+  ],
+  "termos": [
+   "criogenia",
+   "perispírito",
+   "desdobramento",
+   "espírito",
+   "corpo físico"
+  ],
+  "ate_linha": 338,
+  "fim": "1:29:18",
+  "id": "II-022"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:29:18",
+  "resposta": "1:30:35",
+  "linha": 339,
+  "pergunta_por": "Nelson Mancuso (auditório)",
+  "pergunta": "Que dizer da alimentação carnívora?",
+  "resumo": "Chico diz que a humanidade ainda depende de proteínas animais e deve adaptar-se gradualmente ao vegetarianismo, com orientação médica, até que a evolução permita dispensar a carne.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "alimentação carnívora",
+   "vegetarianismo",
+   "proteína",
+   "reino animal",
+   "reencarnação"
+  ],
+  "ate_linha": 364,
+  "fim": "1:33:49",
+  "id": "II-023"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:33:49",
+  "resposta": "1:36:07",
+  "linha": 365,
+  "pergunta_por": "Freitas Nobre",
+  "pergunta": "O casal deve ter filhos à vontade ou planejar a família?",
+  "resumo": "Chico, citando Kardec no Livro dos Espíritos, afirma que o casal pode considerar suas possibilidades, o que é preferível ao aborto, cujas consequências no corpo espiritual ele ilustra com o caso de uma senhora. Antes, Freitas Nobre comenta a aura e o corpo bioplásmico.",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "planejamento familiar",
+   "aborto",
+   "O Livro dos Espíritos",
+   "André Luiz",
+   "corpo espiritual",
+   "aura",
+   "reencarnação"
+  ],
+  "ate_linha": 388,
+  "fim": "1:42:22",
+  "id": "II-024"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:42:22",
+  "resposta": "1:43:30",
+  "linha": 389,
+  "pergunta_por": "Hernani Guimarães Andrade",
+  "pergunta": "As comunicações eletrônicas com desencarnados (Raudive) já são reais? Poderemos vê-los com aparelhos?",
+  "resumo": "Chico diz que até agora a comunicação se dá por meio mediúnico e espera que a ciência alcance a comunicação sem médiuns, trazendo à civilização cristã um novo sentido da imortalidade.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [
+   "morte-e-vida-espiritual"
+  ],
+  "termos": [
+   "Constantin Raudive",
+   "transcomunicação",
+   "mediunidade",
+   "imortalidade da alma",
+   "ressurreição de Jesus"
+  ],
+  "ate_linha": 396,
+  "fim": "1:45:27",
+  "id": "II-025"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:45:27",
+  "resposta": "1:46:48",
+  "linha": 397,
+  "pergunta_por": "Durval Monteiro",
+  "pergunta": "Como Chico vê o movimento hippie?",
+  "resumo": "Chico diz não conhecer a palavra, não julga o movimento, e respeita os hippies do Brasil pelo trabalho artístico e artesanal que apresentam; sugere ouvi-los. Sobre os de Nova Iorque e Londres, diz não ter formado juízo.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "sexualidade-e-familia"
+  ],
+  "termos": [
+   "movimento hippie",
+   "juventude",
+   "trabalho",
+   "Praça da República",
+   "Comunidade do Embu",
+   "Emmanuel"
+  ],
+  "ate_linha": 422,
+  "fim": "1:51:31",
+  "id": "II-026"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:51:31",
+  "resposta": "1:53:28",
+  "linha": 423,
+  "pergunta_por": "Saulo Gomes",
+  "pergunta": "Como Chico vê hoje os transplantes de coração, desaconselhados por mensagem de Bezerra de Menezes, e a rejeição?",
+  "resumo": "Chico, ouvindo Emmanuel e André Luiz, diz que a rejeição é incompatibilidade de tecidos e que os transplantes merecem cuidado e continuidade da pesquisa, citando o precedente da córnea com Filatov.",
+  "tema": "ciencia-e-espiritismo",
+  "temas_secundarios": [],
+  "termos": [
+   "transplante",
+   "Bezerra de Menezes",
+   "Christiaan Barnard",
+   "Euryclides Zerbini",
+   "André Luiz",
+   "Filatov",
+   "rejeição"
+  ],
+  "ate_linha": 436,
+  "fim": "1:55:37",
+  "id": "II-027"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:55:37",
+  "resposta": "1:56:00",
+  "linha": 437,
+  "pergunta_por": "Vilma (jornalista da revista Intervalo, auditório; lida por Almir Guimarães)",
+  "pergunta": "Como o espiritismo explica as mortes coletivas em guerras e catástrofes?",
+  "resumo": "Chico explica como provações coletivas, resgate de débitos cármicos contraídos em grupo, sob a lei de Deus, que é justiça e misericórdia.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "morte-e-vida-espiritual"
+  ],
+  "termos": [
+   "mortes coletivas",
+   "carma",
+   "provação",
+   "justiça divina",
+   "misericórdia"
+  ],
+  "ate_linha": 440,
+  "fim": "1:56:59",
+  "id": "II-028"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:56:59",
+  "resposta": "1:57:06",
+  "linha": 441,
+  "pergunta_por": "Dona Olga (telespectadora, lida por Almir Guimarães)",
+  "pergunta": "O plano espiritual admite a cremação?",
+  "resumo": "Chico cita Emmanuel em O Consolador: a cremação é legítima, com espera mínima de 72 horas em câmara fria nos climas tropicais.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [],
+  "termos": [
+   "cremação",
+   "O Consolador",
+   "Emmanuel",
+   "desencarnação"
+  ],
+  "ate_linha": 444,
+  "fim": "1:57:56",
+  "id": "II-029"
+ },
+ {
+  "programa": "II",
+  "inicio": "1:57:56",
+  "resposta": "1:58:38",
+  "linha": 445,
+  "pergunta_por": "Ruth de Assis (professora de Direito, via TV Triângulo, lida por Almir Guimarães)",
+  "pergunta": "Como conseguir uma morte suave e tranquila?",
+  "resumo": "Chico diz que a morte suave decorre da consciência tranquila e do cumprimento dos deveres, e que os complexos de culpa nos prendem a estados inferiores.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "morte",
+   "imortalidade da alma",
+   "ressurreição de Jesus",
+   "consciência",
+   "culpa",
+   "Evangelho"
+  ],
+  "ate_linha": 452,
+  "fim": "2:00:01",
+  "id": "II-030"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:00:01",
+  "resposta": "2:01:22",
+  "linha": 453,
+  "pergunta_por": "Anselmo Duarte (cineasta)",
+  "pergunta": "Como Chico analisa os milagres da Igreja Católica (Lourdes, Fátima) e os santos deixam mensagens pelo espiritismo?",
+  "resumo": "Chico relata suas visões e vivências na Igreja Católica, na infância, e em Lourdes, e declara legítimos os fenômenos de bondade divina nela, vendo evangélicos, católicos e espíritas como uma só família. Num acréscimo, afirma que toda religião boa é caminho santo. A pergunta sobre mensagens de santos não é respondida.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Igreja Católica",
+   "Lourdes",
+   "Fátima",
+   "Santa Teresinha de Lisieux",
+   "ecumenismo",
+   "Pedro Leopoldo",
+   "Allan Kardec"
+  ],
+  "ate_linha": 476,
+  "fim": "2:07:10",
+  "id": "II-031"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:07:10",
+  "resposta": "2:09:53",
+  "linha": 477,
+  "pergunta_por": "Professor Beni (grupo israelita de São Paulo)",
+  "pergunta": "Por que ele viu a materialização numa sessão e o amigo que o acompanhava não viu?",
+  "resumo": "Chico atribui a diferença à sensibilidade visual psíquica: muitos presentes não veem as entidades que outros veem. Diz que o professor tem clarividência mediúnica ainda pouco desenvolvida, mas com grande potencial de evolução.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [],
+  "termos": [
+   "materialização",
+   "clarividência",
+   "sessão mediúnica",
+   "Herculano Pires",
+   "mediunidade"
+  ],
+  "ate_linha": 484,
+  "fim": "2:10:51",
+  "id": "II-032"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:10:51",
+  "resposta": "2:12:08",
+  "linha": 485,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Que história é essa de o pai de Chico prometer 'parar a roda' da loteria?",
+  "resumo": "Chico conta, com humor, que o pai, cambista de loteria doente em 1939, queixou-se de que os livros não rendiam dinheiro; Chico explicou que a mediunidade é desinteressada e que os livros pertencem aos espíritos. O pai prometeu parar a roda depois de morrer, e Chico até hoje compra bilhete em junho e dezembro, ficando com cinco tiras do bilhete de um amigo de Uberaba.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Brasil, Coração do Mundo, Pátria do Evangelho",
+   "Emmanuel",
+   "Loteria Federal",
+   "Pedro Leopoldo",
+   "Weaker Batista",
+   "gratuidade da mediunidade",
+   "Uberaba"
+  ],
+  "ate_linha": 526,
+  "fim": "2:20:54",
+  "id": "II-033"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:20:54",
+  "resposta": "2:21:22",
+  "linha": 527,
+  "pergunta_por": "Telespectador (lida por Almir Guimarães)",
+  "pergunta": "Existe censura nas comunicações com os guias espirituais, que o impeça de transmitir fatos?",
+  "resumo": "Chico diz que Emmanuel o ensina a responder pelas imagens criadas na mente dos outros e o ajuda a censurar o que passa por ele. Poetas e escritores desencarnados às vezes querem escrever, mas Emmanuel só permite o que for construtivo.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [],
+  "termos": [
+   "Emmanuel",
+   "censura mediúnica",
+   "responsabilidade",
+   "psicografia",
+   "literatura mediúnica"
+  ],
+  "ate_linha": 532,
+  "fim": "2:22:36",
+  "id": "II-034"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:22:36",
+  "resposta": "2:23:23",
+  "linha": 533,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "Brincadeira sobre a loteria: o pai de Chico não conseguiria parar a roda no sistema atual.",
+  "resumo": "Chico responde com humor que o pai não conseguirá nem a roda nem a bola, que ele não passa falta de nada, as dívidas foram pagas e a família está bem: ganharam por outra loteria.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [],
+  "termos": [
+   "Loteria Federal",
+   "humor",
+   "Vicente Leporace"
+  ],
+  "ate_linha": 546,
+  "fim": "2:24:02",
+  "id": "II-035"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:24:02",
+  "resposta": "2:25:20",
+  "linha": 547,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "Por que seu pai, desencarnado em 1938, nunca se manifestou por médium? Que análise o espírito supera para se comunicar?",
+  "resumo": "Chico diz que a ausência aparente não significa falta de elevação: o pai talvez não tenha encontrado ainda os recursos, como médium e condições adequadas. Familiares às vezes desistem de comunicação imperfeita; o pai segue auxiliando e esperando oportunidade.",
+  "tema": "morte-e-vida-espiritual",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "comunicação dos mortos",
+   "mediunidade",
+   "Vicente Leporace",
+   "perturbação",
+   "desencarnação"
+  ],
+  "ate_linha": 556,
+  "fim": "2:26:49",
+  "id": "II-036"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:26:49",
+  "resposta": "2:32:26",
+  "linha": 557,
+  "pergunta_por": "Freitas Nobre",
+  "pergunta": "Como os mentores interpretam 'o que Deus uniu o homem não separe', e o divórcio?",
+  "resumo": "Chico defende o divórcio como medida humana, comparando o desquite a um carro sem motor, respeitando a maioria católica e a monogamia. Cita os dois males a abolir, promiscuidade e prostituição. (Trecho inclui a troca de fita, o anúncio das 200 perguntas e a coluna no Diário de São Paulo.)",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "sociedade-e-moral",
+   "jesus-e-as-religioes"
+  ],
+  "termos": [
+   "divórcio",
+   "desquite",
+   "Código Civil",
+   "Freitas Nobre",
+   "monogamia",
+   "promiscuidade",
+   "prostituição",
+   "reencarnação"
+  ],
+  "ate_linha": 610,
+  "fim": "2:43:15",
+  "id": "II-037"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:43:15",
+  "resposta": "2:43:30",
+  "linha": 611,
+  "pergunta_por": "Entrevistador (pergunta de ouvintes de rádio, por Freitas Nobre)",
+  "pergunta": "Com a reencarnação, de onde vêm os espíritos para a população crescente?",
+  "resumo": "Chico já dissera que o planeta comporta mais de 30 bilhões, explorando o mar, e confessou vergonha de matar para comer, vendo a pecuária como necessidade ainda por alguns milênios. Aqui responde que a origem está em Deus e que há ao redor da Terra uma população espiritual ainda ligada a sentimentos terrestres.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "reencarnação",
+   "superpopulação",
+   "pecuária",
+   "alimentação carnívora",
+   "origem do espírito",
+   "Deus"
+  ],
+  "ate_linha": 614,
+  "fim": "2:44:00",
+  "id": "II-038"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:44:00",
+  "resposta": "2:44:59",
+  "linha": 615,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Pergunta bem-humorada: o sofrimento do Corinthians ajuda o aperfeiçoamento dos corintianos? Chico também torce? E sobre Pelé deixar a seleção.",
+  "resumo": "Chico confessa, num suspiro, que também é corintiano, e diz que gostaria que Pelé continuasse na seleção, salvo impossibilidade externa. Sobre a provação, diz que segue enquanto for o caminho, e que continuarão como torcida fiel.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [],
+  "termos": [
+   "Corinthians",
+   "Pelé",
+   "Santos",
+   "esporte",
+   "humor"
+  ],
+  "ate_linha": 678,
+  "fim": "2:46:36",
+  "id": "II-039"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:46:36",
+  "resposta": "2:47:35",
+  "linha": 679,
+  "pergunta_por": "Hernani Guimarães Andrade",
+  "pergunta": "Existe relação entre homossexualidade e transexualidade, no sentido reencarnatório (mudança de sexo entre encarnações)?",
+  "resumo": "Chico responde que na maioria dos casos sim, e trata com respeito os que vivem em condição inversiva. Espera que a legislação futura os incorpore à família humana, pois a frustração afetiva é uma fome que lota sanatórios e gera obsessão.",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "homossexualidade",
+   "transexualidade",
+   "Ian Stevenson",
+   "reencarnação",
+   "obsessão",
+   "frustração afetiva",
+   "família"
+  ],
+  "ate_linha": 690,
+  "fim": "2:50:43",
+  "id": "II-040"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:50:43",
+  "resposta": "2:51:02",
+  "linha": 691,
+  "pergunta_por": "Durval Monteiro",
+  "pergunta": "Em que instante da gestação ocorre a encarnação e o espírito tem consciência disso?",
+  "resumo": "Chico cita André Luiz: a consciência do momento é raríssima; em cerca de 99% dos casos o reencarnante está como que anestesiado e desperta aos poucos. A recapitulação evolutiva continua após o nascimento, o que explica fenômenos como o complexo de Édipo.",
+  "tema": "reencarnacao-e-justica-divina",
+  "temas_secundarios": [
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "reencarnação",
+   "gestação",
+   "André Luiz",
+   "complexo de Édipo",
+   "psicanálise",
+   "recapitulação evolutiva"
+  ],
+  "ate_linha": 700,
+  "fim": "2:52:52",
+  "id": "II-041"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:52:52",
+  "resposta": null,
+  "linha": 701,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Condução do programa: última rodada e aviso sobre a duração.",
+  "resumo": "Sem resposta de Chico; coordenação da mesa sobre a duração e a última pergunta.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "Saulo Gomes"
+  ],
+  "ate_linha": 706,
+  "fim": "2:53:28",
+  "id": "II-042"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:53:28",
+  "resposta": "2:55:22",
+  "linha": 707,
+  "pergunta_por": "Vicente Leporace",
+  "pergunta": "Observação: queria um autógrafo de Chico, mas desistiu por humildade; e recado de abraço de Hebe Camargo.",
+  "resumo": "Chico retribui o abraço e elogia Hebe Camargo, que viu distribuindo cobertores na Estação da Luz, chamando-a de benfeitora e personalidade cristã das mais nobres.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [
+   "programa"
+  ],
+  "termos": [
+   "Hebe Camargo",
+   "Vicente Leporace",
+   "autógrafo",
+   "humildade",
+   "Estação da Luz",
+   "caridade"
+  ],
+  "ate_linha": 730,
+  "fim": "2:57:05",
+  "id": "II-043"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:57:05",
+  "resposta": "2:57:47",
+  "linha": 731,
+  "pergunta_por": "Saulo Gomes",
+  "pergunta": "Qual a mensagem de Chico sobre o amor livre?",
+  "resumo": "Chico, citando Emmanuel, diz que o amor é divino e livre, mas no terreno do sexo é responsável: as ligações sexuais devem obedecer à lei, ao compromisso e à monogamia, para que o amor não inunde e destrua a família.",
+  "tema": "sexualidade-e-familia",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "amor livre",
+   "Emmanuel",
+   "monogamia",
+   "sexo",
+   "família"
+  ],
+  "ate_linha": 738,
+  "fim": "2:59:09",
+  "id": "II-044"
+ },
+ {
+  "programa": "II",
+  "inicio": "2:59:09",
+  "resposta": "3:00:14",
+  "linha": 739,
+  "pergunta_por": "Almir Guimarães (pergunta sobre Bezerra de Menezes)",
+  "pergunta": "Legalizado ou não, o jogo é imoral, segundo Bezerra de Menezes por D'Angelo Neto; Chico concorda?",
+  "resumo": "Chico prefere reconsiderar o assunto no futuro, sem estudo mais pormenorizado, por depender de decisão legal das autoridades, que respeita. Espera que Bezerra se afirme novamente ou não.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "jogo",
+   "legalização do jogo",
+   "Bezerra de Menezes",
+   "D'Angelo Neto",
+   "Congresso Nacional"
+  ],
+  "ate_linha": 744,
+  "fim": "3:00:54",
+  "id": "II-045"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:00:54",
+  "resposta": "3:01:51",
+  "linha": 745,
+  "pergunta_por": "Domingos Pimentel de Ulhoa (reitor da Universidade de Uberlândia, lida por Almir Guimarães)",
+  "pergunta": "Chico não pensa em escrever uma obra não psicografada, para estudo de literatura comparada?",
+  "resumo": "Chico diz que poderia escrever, mas renuncia, por respeitar o trabalho dos bons espíritos. Conta que Emmanuel lhe disse que em outras vidas abusou da inteligência e que nesta se consagraria à mediunidade. Pede para desencarnar nessa função.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Emmanuel",
+   "psicografia",
+   "Revista Realidade",
+   "literatura comparada",
+   "renúncia",
+   "humildade",
+   "Jesus"
+  ],
+  "ate_linha": 756,
+  "fim": "3:05:17",
+  "id": "II-046"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:05:17",
+  "resposta": "3:08:30",
+  "linha": 757,
+  "pergunta_por": "Blecaute (artista, do auditório)",
+  "pergunta": "Pede conselho e proteção por problemas de saúde e de família.",
+  "resumo": "Chico promete preces e pede a inspiração dos médicos; lembra que a dor tem função, que o próprio Jesus aceitou o Cireneu, e que a amizade sempre trouxe luz nos dias mais difíceis.",
+  "tema": "vida-de-chico",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "Blecaute",
+   "dor",
+   "Cireneu",
+   "Jesus",
+   "prece",
+   "amizade"
+  ],
+  "ate_linha": 772,
+  "fim": "3:10:39",
+  "id": "II-047"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:10:39",
+  "resposta": "3:11:42",
+  "linha": 773,
+  "pergunta_por": "Vicente Leporace (por telespectador)",
+  "pergunta": "Por que os guias passaram a permitir que Chico apareça em público? Isso indica desencarne próximo?",
+  "resumo": "Chico explica que Emmanuel disse que, após 100 livros psicografados, poderia falar algumas vezes em público. Completados em 1969, mas não pode assumir compromissos frequentes na televisão. Pede perdão a quem não respondeu cartas e diz que Emmanuel revê todas as páginas.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Emmanuel",
+   "100 livros",
+   "televisão",
+   "cartas",
+   "Cátia Senherup",
+   "psicografia"
+  ],
+  "ate_linha": 788,
+  "fim": "3:15:07",
+  "id": "II-048"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:15:07",
+  "resposta": "3:15:28",
+  "linha": 789,
+  "pergunta_por": "Voz não identificada",
+  "pergunta": "O espiritismo considera o homem co-criador, em ponto menor, no plano da criação?",
+  "resumo": "Chico, citando Emmanuel, compara a uma firma familiar: o filho pode aperfeiçoar o trabalho do pai. O Senhor permite errar para aprender; o homem é co-criador e cooperador consciente de Deus.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "reencarnacao-e-justica-divina"
+  ],
+  "termos": [
+   "co-criação",
+   "Deus",
+   "Emmanuel",
+   "livre-arbítrio",
+   "cooperador de Deus"
+  ],
+  "ate_linha": 798,
+  "fim": "3:16:16",
+  "id": "II-049"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:16:16",
+  "resposta": "3:17:24",
+  "linha": 799,
+  "pergunta_por": "Liba Friedman",
+  "pergunta": "Por que as grandes conquistas da humanidade acabam virando armas de extermínio?",
+  "resumo": "Chico diz que os religiosos não têm sido fiéis aos postulados que aceitam: a ciência chegou à Lua e o amor de Jesus ainda não foi posto em prática. Lembra que os povos que não conhecem Jesus também estão sob seu governo espiritual, e que a paz virá com a prática dos preceitos de Jesus.",
+  "tema": "sociedade-e-moral",
+  "temas_secundarios": [
+   "jesus-e-as-religioes",
+   "ciencia-e-espiritismo"
+  ],
+  "termos": [
+   "Jesus",
+   "fraternidade",
+   "ciência",
+   "armas",
+   "governador espiritual da Terra",
+   "Liba Friedman",
+   "cristianismo"
+  ],
+  "ate_linha": 826,
+  "fim": "3:19:39",
+  "id": "II-050"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:19:39",
+  "resposta": "3:19:54",
+  "linha": 827,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Pedido para psicografar mensagem de ano novo e troca da quarta fita.",
+  "resumo": "Chico aceita psicografar depois do intervalo e pede um pouco de música.",
+  "tema": "programa",
+  "temas_secundarios": [
+   "mediunidade-e-psicografia"
+  ],
+  "termos": [
+   "psicografia",
+   "música",
+   "intervalo"
+  ],
+  "ate_linha": 842,
+  "fim": "3:20:40",
+  "id": "II-051"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:20:40",
+  "resposta": "3:34:25",
+  "linha": 843,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Psicografia ao vivo de mensagem de ano bom, solicitada pelo mediador.",
+  "resumo": "Chico psicografa em silêncio, ao som de música, e lê poema em louvor ao Brasil, que Almir lê em seguida e anuncia como de Castro Alves. O auditório aplaude de pé.",
+  "tema": "mediunidade-e-psicografia",
+  "temas_secundarios": [
+   "sociedade-e-moral"
+  ],
+  "termos": [
+   "Castro Alves",
+   "psicografia",
+   "Brasil",
+   "poesia mediúnica",
+   "Tiradentes",
+   "Brasília",
+   "Cristo"
+  ],
+  "ate_linha": 905,
+  "fim": "3:38:54",
+  "id": "II-052"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:38:54",
+  "resposta": null,
+  "linha": 906,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Encerramento e agradecimentos às emissoras.",
+  "resumo": "Sem resposta de Chico; Almir agradece à equipe, emissoras e ao público e passa a palavra a Chico.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Pinga-Fogo",
+   "TV Tupi",
+   "Embratel",
+   "Rádio Tupi"
+  ],
+  "ate_linha": 915,
+  "fim": "3:40:42",
+  "id": "II-053"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:40:42",
+  "resposta": "3:41:01",
+  "linha": 916,
+  "pergunta_por": "Entrevistador",
+  "pergunta": "Despedida de Chico Xavier, com mensagem de Natal.",
+  "resumo": "Chico agradece a São Paulo, a Uberaba e a Pedro Leopoldo. Diz que o Natal é celebrado com espírito de união em templos católicos, reformados e casas espíritas, e encerra com o 'glória a Deus nas alturas'.",
+  "tema": "jesus-e-as-religioes",
+  "temas_secundarios": [
+   "vida-de-chico"
+  ],
+  "termos": [
+   "Natal",
+   "Jesus",
+   "Pedro Leopoldo",
+   "Uberaba",
+   "São Paulo",
+   "ecumenismo",
+   "Evangelho"
+  ],
+  "ate_linha": 931,
+  "fim": "3:45:33",
+  "id": "II-054"
+ },
+ {
+  "programa": "II",
+  "inicio": "3:45:33",
+  "resposta": null,
+  "linha": 932,
+  "pergunta_por": "Almir Guimarães",
+  "pergunta": "Despedida final.",
+  "resumo": "Sem resposta de Chico; Almir agradece aos entrevistadores e anota a despedida de Saulo Gomes da televisão e do rádio.",
+  "tema": "programa",
+  "temas_secundarios": [],
+  "termos": [
+   "Saulo Gomes",
+   "Vicente Leporace",
+   "Freitas Nobre",
+   "Hernani Guimarães Andrade",
+   "Durval Monteiro"
+  ],
+  "ate_linha": 935,
+  "fim": null,
+  "id": "II-055"
+ }
+]
