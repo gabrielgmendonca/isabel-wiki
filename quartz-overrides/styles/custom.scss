@@ -140,3 +140,14 @@ article blockquote,
     opacity: 0.9;
   }
 }
+
+// Trechos do YouTube citados por tempo (scripts/embed_youtube_clips.py)
+iframe.external-embed.youtube.clip {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  margin: 0.5rem 0 1.25rem;
+  border-radius: 6px;
+}

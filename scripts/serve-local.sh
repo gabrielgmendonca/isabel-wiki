@@ -51,6 +51,9 @@ uv run python "$REPO_ROOT/scripts/link_citations.py" --apply "$QUARTZ_DIR/conten
 echo "==> Envolvendo termos do glossário em <abbr>"
 uv run python "$REPO_ROOT/scripts/wrap_glossary_terms.py" --apply "$QUARTZ_DIR/content/wiki"
 
+echo "==> Embeds do YouTube abrindo no tempo citado"
+uv run python "$REPO_ROOT/scripts/embed_youtube_clips.py" --apply "$QUARTZ_DIR/content/wiki"
+
 echo "==> Injetando avisos de direitos autorais"
 uv run python "$REPO_ROOT/scripts/inject_copyright.py" --apply "$QUARTZ_DIR/content/wiki"
 

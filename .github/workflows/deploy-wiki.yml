@@ -26,6 +26,9 @@ jobs:
       - name: Test scripts
         run: python3 -m unittest discover -s tests -v
 
+      - name: Check Pinga-Fogo quotes and embeds
+        run: python3 scripts/pinga_fogo.py checar
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -58,6 +61,9 @@ jobs:
 
       - name: Wrap glossary terms in <abbr>
         run: python3 scripts/wrap_glossary_terms.py --apply /tmp/quartz/content/wiki
+
+      - name: Embed YouTube clips at timestamp
+        run: python3 scripts/embed_youtube_clips.py --apply /tmp/quartz/content/wiki
 
       - name: Inject copyright notices
         run: python3 scripts/inject_copyright.py --apply /tmp/quartz/content/wiki

@@ -16,3 +16,6 @@ jobs:
 
       - name: Test scripts
         run: python3 -m unittest discover -s tests -v
+
+      - name: Check Pinga-Fogo quotes and embeds
+        run: python3 scripts/pinga_fogo.py checar
