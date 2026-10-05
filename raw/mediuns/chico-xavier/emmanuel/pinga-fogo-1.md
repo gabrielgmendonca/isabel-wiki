@@ -1,7 +1,7 @@
 # Pinga-fogo I — transcrição do áudio
 
-**Autor espiritual:** Emmanuel
-**Médium:** Chico Xavier
+**Autor:** Chico Xavier (entrevista oral, não psicografia — citar como `Chico Xavier, *Pinga-Fogo I*, H:MM:SS`)
+**Assistência espiritual declarada:** Emmanuel (nomear só onde Chico lhe atribui a resposta)
 **Fonte:** https://www.youtube.com/watch?v=v5waIS1qedA
 
 ---

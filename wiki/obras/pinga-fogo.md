@@ -71,7 +71,7 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 
 **Reencarnação e ciência.** Hernani Guimarães Andrade menciona as pesquisas de Ian Stevenson. Segundo Chico, Emmanuel e André Luiz pedem que a ciência acrescente "o lado moral da reencarnação", ligando o fenômeno biológico à lei evangélica "a cada um por suas obras" (0:28:49). Sobre a efluviografia Kirlian e o "corpo bioplásmico", Chico afirma que só o perispírito, "o mediador da vida", explica fenômenos orgânicos como o equilíbrio entre adrenalina e acetilcolina. Para ele, a mente diante do cérebro lesado é como o artista diante de "um violino desafinado" (1:03:36). Ver [[wiki/conceitos/perispirito]].
 
-**Juventude.** Chico cita expressamente LE, q. 385: os filhos "são espíritos que vieram de outras condições diferentes das nossas" (1:07:52). Os pais não devem "escravizá-los aos nossos pontos de vista": "diálogo nunca foi pancadaria verbal" (1:12:01). A citação confere com o texto, que trata da infância como fase em que os caracteres se moldam antes que surja "o caráter real e individual em toda a nudez" (LE, q. 385).
+**Juventude.** Chico cita expressamente LE, q. 385: os filhos "são espíritos que vieram de outras condições diferentes das nossas" (1:07:52). Os pais não devem "escravizá-los aos nossos pontos de vista": "diálogo nunca foi pancadaria verbal" (1:12:01). A citação confere com o texto, que fala de "crianças cujos Espíritos vêm de mundos onde contraíram hábitos diferentes dos vossos" e da infância como a fase em que "se lhes pode reformar os caracteres" (LE, q. 385).
 
 **Pena de morte.** Emmanuel lembra a parábola do bom samaritano: todos os personagens são qualificados, "menos a vítima. A vítima era um homem". Os presos "são doentes" e "cada sentença é uma cirurgia no corpo espiritual". Chico pede aos magistrados "que ninguém morra em nome da justiça" (1:18:49–1:24:00). Converge com Kardec: "Incontestavelmente desaparecerá e a sua supressão assinalará um progresso da humanidade" (LE, q. 760). Ver [[wiki/conceitos/leis-morais/lei-de-destruicao]].
 
@@ -81,7 +81,7 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 - **Divórcio.** É "medida humana, medida legítima". A dívida de outras encarnações não o impede, porque o "banco da providência divina" também concede moratórias. Chico pede, porém, que a lei não se altere "apressadamente" e que se respeite a maioria católica (2:32:26–2:39:27). É a mesma posição de Kardec: o divórcio "não é contrário à lei de Deus" (ESE, cap. XXII, item 5), e a indissolubilidade absoluta "é uma lei humana muito contrária à da natureza" (LE, q. 697).
 - **Homossexualidade e mudança de sexo.** Chico responde "Na maioria dos casos, sim" à pergunta sobre a ligação entre homossexualidade e mudança de sexo entre encarnações. Espera uma legislação que saiba "incorporar à família humana todos os filhos da humanidade", pois "a frustração afetiva é um tipo de fome" que superlota sanatórios (2:47:35–2:50:43). Ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]].
 - **Amor livre.** Emmanuel: "O amor, vindo de Deus, é livre. Mas no sexo, ele, o amor, é responsável", e "precisa de represas para que ele não faça uma inundação destrutiva" (2:57:47).
-- **Encarnação.** A consciência do processo é "raríssima": em talvez 99% dos casos o Espírito está num "certo torpor", e a recapitulação evolutiva prossegue anos depois do nascimento (2:51:02). Converge com LE, q. 344 e q. 339.
+- **Encarnação.** Segundo André Luiz, a consciência do processo é "um fenômeno raríssimo": em talvez 99% dos casos o Espírito está num "certo torpor", e a recapitulação evolutiva prossegue anos depois do nascimento (2:51:02). Converge com LE, q. 344 e q. 339.
 
 **Outras respostas.**
 
@@ -96,12 +96,18 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 **Emmanuel e a disciplina da obra.**
 
 - Chico confirma que Emmanuel se revelou como o padre Manuel da Nóbrega (1:24:47).
-- Emmanuel "censura" o que pode chegar pelo médium, porque "somos responsáveis pelas imagens que criamos na mente dos nossos irmãos". Barra até páginas literárias de poetas desencarnados "sem maior proveito para a Terra" (2:21:22).
+- Emmanuel ajuda Chico a "censurar tudo aquilo que possa vir por nosso intermédio", porque "somos responsáveis pelas imagens que criamos na mente dos nossos irmãos". Barra até páginas literárias de poetas desencarnados "sem maior proveito para a Terra" (2:21:22).
 - Emmanuel só permitiu entrevistas públicas depois do centésimo livro, completado em 1969 (3:12:02).
 - Chico renuncia a escrever obra própria porque, "em outras vidas, abusamos muito da inteligência" (3:01:51).
 - Recusa receber qualquer pagamento pelos livros, mesmo com o pai doente pedindo: "vender o trabalho dos bons espíritos, isso não é possível" (2:12:08). É a aplicação literal de "Dai gratuitamente o que gratuitamente haveis recebido" (ESE, cap. XXVI, item 1).
 
 **Encerramento.** Poema psicografado ao vivo, lido como de Castro Alves: "a humanidade que chora / clamando: Senhor, e agora? / O Cristo aponta: Brasil" (3:34:25–3:38:03). Ecoa a tese de *[[wiki/obras/brasil-coracao-do-mundo-patria-do-evangelho|Brasil, Coração do Mundo, Pátria do Evangelho]]*, de [[wiki/personalidades/humberto-de-campos|Humberto de Campos]], sobre o Brasil como [[wiki/conceitos/patria-do-evangelho|Pátria do Evangelho]].
+
+### Nos dois programas
+
+**Cremação.** Chico transmite nos dois programas a orientação de Emmanuel: a cremação "é legítima para todos aqueles que a desejem", desde que haja "um período de pelo menos 72 horas de expectação", com os despojos "em um ambiente frio" (*Pinga-Fogo I*, 0:43:40). No Programa II acrescenta que o prazo deve ser mais longo "nos climas tropicais e subtropicais", remetendo a *O Consolador* (*Pinga-Fogo II*, 1:57:06). O texto de *O Consolador* no acervo pede apenas que se procrastine "por mais horas" a cremação, pelos "elos de sensibilidade" entre o Espírito e o corpo nas primeiras horas (Emmanuel / Chico Xavier, *O Consolador*); as 72 horas e a ressalva climática são da fala de 1971. O Pentateuco não trata da cremação. A orientação deriva do desprendimento gradual: "a alma se desprende gradualmente (...). Estes laços se desatam, não se quebram" (LE, q. 155a; ver também C&I, 2ª parte, cap. I).
+
+**Vida em outros mundos.** Para Chico, se a humanidade não entrar numa guerra de extermínio, a ciência poderá chegar a "entrar em contato com outras comunidades da nossa galáxia" a partir de bases na Lua. Ele cita Jesus: "Há muitas moradas na casa de meu Pai" (*Pinga-Fogo I*, 1:25:40). No Programa II, lembra que Kardec e Emmanuel (*O Consolador*) negam que as formas físicas de outros planetas sejam iguais às da Terra (*Pinga-Fogo II*, 1:00:24). Ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]].
 
 ## Temas centrais
 
@@ -119,10 +125,6 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 - [[wiki/conceitos/leis-morais/lei-de-reproducao]] · [[wiki/conceitos/leis-morais/lei-de-destruicao]] · [[wiki/conceitos/leis-morais/lei-de-conservacao]]
 - [[wiki/conceitos/pluralidade-dos-mundos-habitados]]
 - [[wiki/aprofundamentos/sexualidade-em-emmanuel]] · [[wiki/aprofundamentos/aborto]]
-
-**Cremação.** Chico transmite em ambos os programas a orientação de Emmanuel: a cremação "é legítima para todos aqueles que a desejem", desde que haja "um período de pelo menos 72 horas de expectação", com os despojos "em um ambiente frio" (0:43:40). No Programa II acrescenta que o prazo deve ser mais longo "nos climas tropicais e subtropicais", remetendo a *O Consolador* (*Pinga-Fogo II*, 1:57:06). O Pentateuco não trata da cremação. A orientação deriva do desligamento gradual do Espírito, descrito como perturbação na passagem (C&I, 2ª parte, cap. I).
-
-**Vida em outros mundos.** Para Chico, se a humanidade não entrar numa guerra de extermínio, a ciência poderá chegar a "entrar em contato com outras comunidades da nossa galáxia" a partir de bases na Lua. Ele cita Jesus: "Há muitas moradas na casa de meu Pai" (1:25:40). No Programa II, lembra que Kardec e Emmanuel (*O Consolador*) negam que as formas físicas de outros planetas sejam iguais às da Terra (*Pinga-Fogo II*, 1:00:24). Ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]].
 
 ## Personalidades citadas
 
@@ -142,21 +144,22 @@ A distinção entre a alma do médium e o Espírito estranho é a mesma que Kard
 > Em dezembro de 1971, Chico declarou a posição do Brasil "das mais dignas e das mais encorajadoras" e pediu orações pela "custódia das forças armadas" contra "ideologias vinculadas à desagregação" (*Pinga-Fogo II*, 0:37:04–0:45:09). Ressalvou que falava "pessoalmente", sem representar nenhuma instituição espírita (0:06:58), e apoiou a fala na obediência às autoridades (Tito 3:1-2). É um juízo pessoal e datado sobre a conjuntura, não um ensino doutrinário; a Codificação não toma partido de regimes.
 
 > [!note] Umbanda (Programas I e II)
-> Chico declara respeito à Umbanda como "religião sumamente respeitável", mantendo-se vinculado "aos princípios codificados por Allan Kardec" (*Pinga-Fogo II*, 0:18:01). No Programa I, explica-a como organização de Espíritos trazidos da África na escravidão, que renascem nas famílias brasileiras "para receberem de nossa parte uma compensação, que é a compensação chamada do amor" (*Pinga-Fogo I*, 1:47:11). O registro é factual. A Umbanda está fora do escopo desta wiki. Sobre a escravidão em si, Kardec é taxativo: "A escravidão é um abuso da força" (LE, q. 829).
+> No Programa I, Chico chama a Umbanda de "religião sumamente respeitável" e a explica como organização de Espíritos trazidos da África na escravidão, que renascem nas famílias brasileiras "para receberem de nossa parte uma compensação, que é a compensação chamada do amor" (*Pinga-Fogo I*, 1:47:11–1:48:18). No Programa II, diante de um entrevistador simpatizante do umbandismo, reconhece nele "companheiros muito respeitáveis, consagrados à caridade", embora "vinculados aos princípios codificados por Allan Kardec, de nossa parte" (*Pinga-Fogo II*, 0:18:01). O registro é factual. A Umbanda está fora do escopo desta wiki. Sobre a escravidão em si, Kardec é taxativo: "A escravidão é um abuso da força" (LE, q. 829).
 
 > [!note] "Próximos 50 anos" (Programa I)
 > A frase "se não entrarmos numa guerra de extermínio nos próximos 50 anos, então nós podemos esperar realizações extraordinárias da ciência" (*Pinga-Fogo I*, 1:25:40) é **condicional** e se refere à ciência espacial. A profecia da "data-limite" (moratória de 1969 a julho de 2019) não está no programa: vem de um relato oral posterior, de 1986, publicado em 2011. Ver [[wiki/sinteses/data-limite]].
 
 ## Divergências
 
-Nenhuma divergência doutrinária identificada. As posições sobre divórcio (LE, q. 697), pena de morte (LE, q. 760), aborto (LE, q. 358), alimentação carnívora (LE, q. 723) e sexo dos Espíritos (LE, q. 200–202) convergem com o Pentateuco. O planejamento familiar lê LE, q. 693-a na mesma chave já adotada em [[wiki/conceitos/leis-morais/lei-de-reproducao]]. Para a tensão entre a leitura de Emmanuel e a de Léon Denis sobre mudança de sexo, ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]].
+Nenhuma divergência doutrinária identificada. As posições sobre divórcio (LE, q. 697), pena de morte (LE, q. 760), aborto (LE, q. 358), alimentação carnívora (LE, q. 723) e sexo dos Espíritos (LE, q. 200–202) convergem com o Pentateuco. O planejamento familiar lê LE, q. 693a na mesma chave já adotada em [[wiki/conceitos/leis-morais/lei-de-reproducao]]. Para a tensão entre a leitura de Emmanuel e a de Léon Denis sobre mudança de sexo, ver [[wiki/divergencias/mudanca-de-sexo-reencarnacao]].
 
 ## Fontes
 
 - Chico Xavier, *Pinga-Fogo I* (TV Tupi, 28/07/1971), transcrição do áudio: [[raw/mediuns/chico-xavier/emmanuel/pinga-fogo-1]].
 - Chico Xavier, *Pinga-Fogo II* (TV Tupi, 21/12/1971), transcrição do áudio: [[raw/mediuns/chico-xavier/emmanuel/pinga-fogo-2]].
 - *Chico Xavier no Pinga Fogo* (EDICEL), edição: [[raw/mediuns/chico-xavier/emmanuel/pinga-fogo]].
-- (LE, q. 200–202), (LE, q. 339), (LE, q. 344), (LE, q. 358), (LE, q. 385), (LE, q. 693), (LE, q. 697), (LE, q. 723), (LE, q. 760), (LE, q. 829), (LE, q. 957).
+- (Emmanuel / Chico Xavier, *O Consolador*): [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
+- (LE, q. 155a), (LE, q. 200–202), (LE, q. 339), (LE, q. 344), (LE, q. 358), (LE, q. 385), (LE, q. 693a), (LE, q. 697), (LE, q. 723), (LE, q. 760), (LE, q. 829), (LE, q. 957).
 - (LM, 2ª parte, cap. XIX, item 223).
 - (ESE, cap. XXII, item 5), (ESE, cap. XXVI, item 1).
 - (C&I, 2ª parte, cap. I).

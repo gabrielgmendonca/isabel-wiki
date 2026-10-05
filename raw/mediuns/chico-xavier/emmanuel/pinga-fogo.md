@@ -1,7 +1,7 @@
 # Pinga-fogo
 
-**Autor espiritual:** Emmanuel  
-**Médium:** Chico Xavier  
+**Autor:** Chico Xavier (entrevista oral editada pela EDICEL, não psicografia — para aspa literal, preferir `pinga-fogo-1`/`pinga-fogo-2`)  
+**Assistência espiritual declarada:** Emmanuel  
 **Fonte:** https://bibliadocaminho.com/ocaminho/TX/Pf/PfIntro.htm
 
 ---

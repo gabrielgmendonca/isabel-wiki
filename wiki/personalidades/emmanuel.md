@@ -32,7 +32,7 @@ Emmanuel é o principal mentor espiritual de Chico Xavier, tendo orientado sua a
 - [[wiki/obras/palavras-de-vida-eterna]] — quinta coletânea evangélica do par Emmanuel/Chico, dezesseis anos após CVV; 180 capítulos curtos com forte primazia paulina e proêmio "Ante o Divino Mestre" (Uberaba, 14/09/1964) explicitamente kardecista. Eixos: recomeço e reencarnação como reajuste (caps. 1, 7, 81, 177); vencer o mal com o bem em registro de não-violência ativa (caps. 30, 31, 61, 111-112, 178 — distinção entre adversário e delinquente); vigilância no verbo (caps. 62, 80/109, 87); prece como serviço (caps. 3, 5, 33, 86, 117); amor maduro vs. egoísmo disfarçado (caps. 4, 32, 110, 119); Espiritismo como continuidade hermenêutica do Evangelho (proêmio + cap. 118) (1964)
 - [[wiki/obras/vida-e-sexo]] — tratado pastoral sobre o ciclo afetivo–sexual humano à luz da Doutrina (1970)
 
-- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — assistente declarado de Chico nos dois programas de 1971. Chico confirma ali a identidade com o padre Manuel da Nóbrega, a "censura" que Emmanuel exerce sobre o que chega pelo médium ("somos responsáveis pelas imagens que criamos na mente dos nossos irmãos") e a licença para falar em público só depois do centésimo livro (Chico Xavier, *Pinga-Fogo II*, 1:24:47; 2:21:22; 3:12:02).
+- [[wiki/obras/pinga-fogo|Pinga-Fogo]] — assistente declarado de Chico nos dois programas de 1971. Chico confirma ali a identidade com o padre Manuel da Nóbrega, a "censura", feita com a ajuda de Emmanuel, sobre o que chega pelo médium ("somos responsáveis pelas imagens que criamos na mente dos nossos irmãos") e a licença para falar em público só depois do centésimo livro (Chico Xavier, *Pinga-Fogo II*, 1:24:47; 2:21:22; 3:12:02).
 
 ## Citações relevantes
 
