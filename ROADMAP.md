@@ -387,7 +387,7 @@ O lote anterior (2026-05-31, 28 itens) está **100% resolvido** — ver [Conclu�
 
 ### sinteses/
 - [ ] **veracidade-das-mensagens-psicografadas** (cit,edit; 2) — atribuição do "Controle Universal do Ensino dos Espíritos".
-- [ ] **hierarquia-de-autoridade** (edit,tag; 3) — formas proibidas "kardequiana"/"kardeciana" (cruza §13).
+- [x] **hierarquia-de-autoridade** (edit,tag; 3) — formas proibidas "kardequiana"/"kardeciana" (cruza §13). · ✓ resolvido 2026-10-07 (nenhuma ocorrência na página)
 - [ ] **parabolas-de-jesus** (cit,edit; 3) — tesouro escondido/pérola atribuída a ESE cap. XVI.
 - [ ] **lar-como-fortaleza** (cit,tag; 2) — aspa ESE cap. XXVII item 9 (vs cap. XXVIII item 5).
 - [ ] **possessos-de-morzine** (cit; 1) — três graus "estabelecidos com clareza programática" pelo artigo dez/1862.

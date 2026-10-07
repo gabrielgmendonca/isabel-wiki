@@ -1870,3 +1870,21 @@ Revisão de [[wiki/obras/pinga-fogo]] com conferência por script de todas as as
 Expansão do [[wiki/obras/pinga-fogo]] em oito páginas temáticas em `wiki/obras/pinga-fogo/` (`tipo: aprofundamento`, `status: rascunho`): mediunidade e psicografia, Chico por ele mesmo, reencarnação e justiça divina, morte e vida espiritual, ciência e Espiritismo, sexualidade e família, sociedade e moral, Jesus e as religiões. Cada fala traz o trecho literal da transcrição do áudio, o embed do YouTube aberto no segundo citado e a relação com as obras psicografadas por Chico e com o Pentateuco (loci conferidos com `cite.py`). Mais dois índices gerados por código: [[wiki/obras/pinga-fogo/indice]] (87 perguntas) e [[wiki/obras/pinga-fogo/indice-remissivo]] (termos com definição e ocorrências).
 
 Camada 0 nova: `scripts/pinga_fogo.py` alinha a transcrição revisada ao tempo por palavra (Whisper e legenda automática) em `data/pinga-fogo/tempos.json`; `tempo` dá o segundo exato de um trecho; `checar` (no CI) falha se uma fala citada não estiver na transcrição, se o tempo não bater ou se um embed não cair numa fala de Chico; `checar --corrigir` reescreve os tempos após realinhar. `scripts/embed_youtube_clips.py` converte, no CI e sobre a cópia, `![](youtube…&t=Ns)` em `<iframe>` com `start=` (o embed nativo do Quartz descarta o tempo). Correção na revisão: na fala sobre a Umbanda (*Pinga-Fogo I*, 1:47–1:48), a dívida "cármica" que Chico aponta é dos brasileiros escravizadores, não dos africanos.
+
+## [2026-10-07] refactor | Página inicial e hierarquia de autoridade
+
+Página inicial (`index.md`) revista: os três compromissos da wiki logo na abertura, o acervo (Pentateuco e Novo Testamento integrais, tipos de página), uma seção de destaques, um guia de leitura de citações e a trilha [[wiki/trilhas/decisoes-dificeis]], que faltava ali e no índice de trilhas. Cobertura sem contagens que envelhecem; os números ficam em [[wiki/sinteses/estatisticas-da-wiki]].
+
+[[wiki/sinteses/hierarquia-de-autoridade]] alinhada ao CLAUDE.md §2: nível 3 completo (Delanne, Yvonne Pereira, Peralva, Eurípedes, Cairbar, André Luiz, Joanna de Ângelis, Bezerra), nota sobre Waldo Vieira e novas seções para o nível 4 e a pesquisa psíquica (Gênese, Introdução e cap. I, item 55), também no diagrama e nas regras práticas. Aspas conferidas com `cite.py`/`reverse_locus.py`:
+- LE q. 625 estava parafraseada: restaurado o texto literal.
+- "Não venho destruir a lei cristã" é ESE cap. I, item 7, não item 5.
+- A pergunta sobre as parábolas citada no ESE cap. XXIV, item 3 é Mateus 13:10–15, não Marcos 4:11.
+- 1 João 4:1 passou a ter locus (ESE cap. XXI, item 6) e texto do ESE.
+- A aspa da Gênese, Introdução estava reescrita: restaurado o texto literal.
+- A aspa atribuída a Léon Denis não está no texto e virou paráfrase.
+- Tiago não é citado no Pentateuco: a página dizia o contrário.
+- O LM tem 4 + 32 capítulos, não 32.
+- "Coautor do quadro sinótico" (Erasto) foi retirado por falta de fonte.
+- A remissão interna "seção 3 do CLAUDE.md" passou a apontar para [[wiki/divergencias/index]].
+
+Acrescentada a aspa da OPE ("Estudo sobre a natureza do Cristo", §I) sobre a autoridade dos escritos apostólicos. ROADMAP §11 "kardequiana" fechado (não havia ocorrência).
