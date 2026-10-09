@@ -154,6 +154,6 @@ Escreve em `slides/<slug>/build/`.
 
 ## Regras
 
-- **Nome completo da obra**, não sigla, nos slides.
+- **Densidade e glosa**: seguir `convencoes-slides.md` (obra por extenso nas atribuições; glosa em bullets de 2-4 palavras).
 - **Imagens**: seguir `convencoes-imagens.md`; candidatos vêm da seção "Sugestões de imagem" do dossiê `/palestra`, e o usuário escolhe no Passo 6.
 - **Não tocar `wiki/`** durante a geração (`slides/` fica fora do build do Quartz).

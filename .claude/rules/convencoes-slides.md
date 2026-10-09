@@ -22,7 +22,8 @@ Sem slides em branco (`_class: blank` é legado); transição é por section hea
 
 ## Densidade e capacidade
 
-- Um pensamento por slide; nada de bullets corporativos. Pergunta: 5-15 palavras. Resposta: citação literal entre aspas, referência entre parênteses, **nome da obra por extenso** (não sigla).
+- Um pensamento por slide; nada de bullets corporativos. Pergunta: 5-15 palavras. Resposta: citação literal entre aspas, referência entre parênteses, **nome da obra por extenso** (não sigla) na atribuição; onde o espaço aperta (subtítulo de pergunta, faixa ao lado de imagem), "ESE" é aceito.
+- **Glosa do palestrante = bullets de 2-4 palavras ou nada** ("Sofrer bem é: coragem, não desânimo · fé viva, não prece isolada"). Frase por extenso é o que o orador diz de viva voz — cortar ou converter.
 - Caixa útil **1080 × 560 px ≈ 12 linhas** — acima disso o texto é cortado no PPTX/PDF. 5 bullets longos → dividir em 3 + 2. Teto da `.pergunta`: ~30 palavras. `![bg right:43%]` estreita a coluna para ~530 px.
 - Conferir: `lint_wiki.py --check slide_overflow`; classes visíveis em `slides/themes/preview.md`.
 
