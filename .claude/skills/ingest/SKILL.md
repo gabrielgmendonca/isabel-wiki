@@ -18,7 +18,7 @@ Custo ~30s; evita o ciclo completo de análise descartado quando o raw está aus
 **Pre-flight material** (rodar antes de qualquer leitura ou query):
 
 1. **`raw/<caminho>` existe nesta worktree?** `test -e raw/<caminho>` (ou `ls`). Se não existir, PARE — pode estar em outra worktree, em `main` à frente desta branch, ou nunca foi adicionado. Sugerir candidatos com `find raw -iname '*<chave>*'` antes de pedir confirmação ao usuário.
-2. **Branch alinhada com `main`?** Verificação **determinística via hook** `preflight-ingest.py` (`.claude/hooks/`, `PreToolUse` em `Edit|Write|MultiEdit` para `wiki/**/*.md`): bloqueia se `HEAD` == `main` (use uma worktree feature) ou se `git rev-list --count HEAD..main` > 0 (rebase antes de escrever). Não é mais necessário rodar à mão; o hook nega o primeiro Write em `wiki/**` com mensagem acionável.
+2. **Branch alinhada com `main`?** O hook `preflight-ingest.py` nega escrita em `wiki/**` em `main` ou atrás dela — nada a rodar à mão.
 3. **Índice qmd fresco?** `qmd status` → ler `lastUpdated` das coleções `wiki` e `raw`. Comparar com `git log -1 --format=%cI -- wiki raw` (timestamp do último commit que tocou conteúdo indexável). Se algum `lastUpdated` < timestamp do commit, rodar `qmd update && qmd embed` antes de prosseguir — leva segundos no caso comum, e sem isso a checagem de duplicatas do Passo 2 pode falsamente reportar "não existe". O caminho feliz é skip: `/ship` reindexa ao final, então normalmente não há nada a fazer aqui.
 
 **Layout e dedup em `raw/`** (sobretudo se a fonte é PDF a converter): conversões manuais vivem em **subpasta por obra** — `raw/.../<slug>/<slug>.md`, com o PDF um nível acima (`raw/.../<slug>.pdf`). Considerar a obra **já feita** se houver `.md` rastreado (`git ls-files`) com o mesmo *stem* **em qualquer lugar sob `raw/`** (não só irmão do PDF) OU página correspondente em `wiki/obras/`. Antes de qualquer lote de conversão, fazer dry-run e confirmar escopo — checar só o irmão de mesmo nome quase reconverteu 25 obras prontas.
@@ -34,9 +34,8 @@ Se o slug do arquivo ou da pasta destoa do canônico (`_compress`, maiúsculas, 
 **Pré-checagem de escopo:**
 
 4. Identifique autor e obra pelo nome/caminho do arquivo em `raw/`.
-5. Classifique conforme seção 2 do CLAUDE.md:
-   - Nível 1, 2, 3 ou 4 → siga adiante.
-   - **Nível 3 vs 4**: nível 3 é reservado a autores **consagrados** (Léon Denis / Chico / Divaldo-tier, ou peso doutrinário comparável: Emmanuel, André Luiz, Bezerra, Cairbar, Joanna de Ângelis). Complementar alinhado mas sem essa estatura (Hammed/Espírito Santo Neto, palestras isoladas) → nível 4. Em dúvida, perguntar antes de classificar.
+5. Classifique pela hierarquia (CLAUDE.md §2):
+   - Nível 1–4 → siga adiante. Nível 3 só para consagrados; alinhado sem essa estatura → nível 4. Em dúvida, perguntar.
    - **Fora de escopo** → PARE. Informe o conflito e aguarde confirmação explícita antes de prosseguir (sem `EnterPlanMode` ainda — a confirmação aqui é prosa).
    - Autor desconhecido/ambíguo → pergunte ao usuário antes de classificar.
 
@@ -90,16 +89,16 @@ Apenas após o usuário aprovar o plano via `EnterPlanMode`, executar. **Trabalh
    - **Série André Luiz** — para todo livro da série, identificar o(s) **Espírito(s) orientador(es)** que conduz(em) a narrativa (varia por volume) e garantir que tenha(m) página própria em `wiki/personalidades/`. Se ainda não existir, criar; se existir, enriquecer com material da nova obra. Não assumir o orientador a partir de memória — confirmar lendo o próprio texto em `raw/`.
 
 > [!note] Escopo
-> `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do workflow **Query** (CLAUDE.md §4), não da ingestão.
+> `/ingest` só produz páginas de `obras/`, `personalidades/` e `conceitos/`. Páginas de `wiki/questoes/` (Q&A direta ancorada em uma única questão ou item pontual do Pentateuco) e `wiki/aprofundamentos/` (estudo sistemático de um tema/bloco doutrinário — subseção do LE, capítulo do ESE, etc.) emergem do princípio de crescimento (CLAUDE.md §1), não da ingestão.
 3. **Checar alinhamento com Kardec**: flaggar divergências conforme regra de divergência (`.claude/rules/regra-divergencia.md`).
 4. **Atualizar `wiki/sinteses/catalogo.md`** com links e resumos das páginas novas (a home `index.md` é landing de trilhas e não lista páginas individuais).
 5. **Enriquecer tags hierárquicas**: rodar os enrich scripts para preencher os namespaces validados. Todos idempotentes — skipam páginas já completas. Taxonomia completa em `.claude/rules/convencoes-tags.md`.
    - `uv run python scripts/enrich_tags_obra.py` — `obra/*` a partir de `fontes:`.
    - `uv run python scripts/enrich_tags_autor.py` — `autor/*` a partir de `fontes:` e tags livres canônicas (espírito + médium para psicografias).
-   - `uv run python scripts/enrich_tags_grau.py` — `grau/*` por default heurístico (`questao`→introdutorio, `conceito`/`parabola`/`personalidade`→intermediario, `aprofundamento`/`sintese`/`divergencia`→avancado). Revisar caso a caso após gravar; promover/rebaixar manualmente quando o conteúdo discordar do default.
-   - **`tema/*`** (1-3 valores em conjunto fechado: `tema/deus`, `tema/espiritos`, `tema/encarnacao`, `tema/mediunidade`, `tema/moral`, `tema/jesus`, `tema/vida-futura`, `tema/sociedade`, `tema/livre-arbitrio`, `tema/prece-caridade`, `tema/sofrimento`, `tema/historia-doutrina`) — **atribuir manualmente** no frontmatter de cada página criada/atualizada. Não há script; o significado é semântico.
+   - `uv run python scripts/enrich_tags_grau.py` — `grau/*` por default do tipo; revisar caso a caso e ajustar quando o conteúdo discordar.
+   - **`tema/*`** (1-3, conjunto fechado da rule) — **atribuir manualmente**; não há script.
    - `lei/*` (10 valores) quando a página tratar de lei moral — `uv run python scripts/enrich_tags_lei.py --apply` cobre os casos óbvios; complementar manual.
-6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases. Não tocar `index.md` — a linha "Cobertura atual" é regenerada pelo `/stats` na `main` (evita conflito entre worktrees paralelas; `log.md` usa `merge=union` no `.gitattributes` e auto-mescla).
+6. **Append em `log.md`**: `## [YYYY-MM-DD] ingest | <título>` + 2–3 frases. Não tocar `index.md` (ver §B).
 7. **Relatório de verificação** (por exceção, forma fixa — substitui a lista chapada de arquivos):
    - **Citações novas inválidas**: lista `(sigla, ref) — página` apenas para citações que falharam em `check_citation_resolves` (camada baixa de fidelidade — capítulo/parte/questão fora da estrutura da obra; cobertura: Pentateuco). O hook PostToolUse já roda essa checagem por arquivo após cada Write/Edit; aqui só consolida o que sobrou. Citações cujo locus existe ficam fora do relatório — "trecho sustenta a afirmação?" continua editorial (depende do usuário, não automatizável na versão leve).
    - **Divergências flaggadas**: onde e o quê, 1 linha cada (ou "nenhuma").

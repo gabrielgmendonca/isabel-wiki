@@ -24,8 +24,6 @@ git worktree list | grep -q '\[main\]' && echo "main-em-worktree" || echo "main-
 git status --porcelain
 ```
 
-(Não usar `git worktree list --porcelain` — o wrapper RTK do projeto reformata a saída e quebra o parse de campos `branch refs/heads/...`. O `grep` no formato humano é estável.)
-
 Casos a tratar (em ordem):
 
 1. **Branch atual é `main` e a working tree está limpa e não há nada a integrar** → `git status` vazio + `git rev-list --count origin/main..main` = 0. Reportar "nada a fazer" e parar.
@@ -66,16 +64,7 @@ Em modo auto, prosseguir; em modo manual, esperar OK explícito antes de commita
 
 Stage seletivo — listar arquivos por nome em `git add`, nunca `git add -A` ou `git add .` (evita arrastar `.env`, artefatos etc.). Se houver arquivos suspeitos (qualquer coisa fora de `wiki/`, `raw/`, `scripts/`, `.claude/`, configs conhecidas), perguntar antes.
 
-Commit com HEREDOC para preservar quebras:
-
-```bash
-git commit -m "$(cat <<'EOF'
-<mensagem>
-
-Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
-EOF
-)"
-```
+Commit com HEREDOC para preservar quebras, terminando com a linha de atribuição que o harness fornecer.
 
 Se houver múltiplas unidades lógicas distintas no diff, propor **um commit por unidade** em vez de um único commit balaio. Confirmar com o usuário antes de commitar a sequência.
 
@@ -93,6 +82,8 @@ Comportamento esperado:
 - Apaga a branch local (default; `--keep-branch` para evitar).
 - `git push origin main` ao final — obrigatório, falha o ship se push falhar. Mantém `origin/main` em sincronia para que `claude -w` (que ramifica de `origin/HEAD`) abra worktrees frescas.
 
+O aviso "Bypassed rule violations" no push é esperado (bypass intencional da conta do Gabriel) — não reportar.
+
 Se sair com código 0 → seguir para Passo 5.
 
 Se sair com código 2 → conflito de rebase, ir para Passo 4. O script já abortou o rebase para deixar o estado limpo; vamos refazer manualmente.
@@ -105,20 +96,9 @@ Outros códigos → reportar erro literal e parar.
 git rebase main
 ```
 
-Para cada arquivo em conflito (`git diff --name-only --diff-filter=U`), aplicar protocolo conforme tipo. As regras detalhadas estão em `.claude/rules/convencoes-merge.md`, que carrega automaticamente quando se edita `wiki/personalidades/**`, `log.md` ou `wiki/sinteses/catalogo.md`. Sumário:
+Para cada arquivo em conflito (`git diff --name-only --diff-filter=U`), seguir `.claude/rules/convencoes-merge.md` (injetada ao editar os arquivos em conflito): `merge=union`/`merge=ours` não deveriam conflitar — se conflitarem, `.gitattributes` regrediu, investigar antes de mexer; `wiki/personalidades/**` → união cronológica. Outras páginas: resolver preservando o sentido doutrinário; em dúvida em `wiki/conceitos/` ou `wiki/divergencias/`, perguntar.
 
-- **`log.md`, `wiki/sinteses/catalogo.md`, `ROADMAP.md`** — não devem aparecer em conflito (driver `merge=union` resolve sozinho). Se aparecerem, é sinal de que `.gitattributes` regrediu — investigar antes de mexer.
-- **`wiki/sinteses/estatisticas-da-wiki.md`** — `merge=ours` resolve. Se aparecer, idem acima. Se precisar regenerar de qualquer forma, rodar `/stats`.
-- **`wiki/personalidades/<slug>.md`** — aplicar **união cronológica**: preservar ambos os lados, ordenar por data quando há marcador, deduplicar entradas, reler parágrafos para garantir costura.
-- **Outras páginas da wiki** — resolver na mão, preservando o sentido doutrinário. Em dúvida, perguntar ao usuário (não chutar resolução em `wiki/conceitos/` ou `wiki/divergencias/`).
-
-Após resolver **todos** os conflitos, rodar o lint determinístico (regra (c) de `convencoes-merge.md`):
-
-```bash
-uv run python .claude/skills/lint/scripts/lint_wiki.py
-```
-
-Se o lint reportar `errors > 0`, corrigir antes de continuar (link quebrado introduzido pela resolução é o caso mais comum). Avisos podem ficar para depois.
+Após resolver **todos** os conflitos, rodar `uv run python .claude/skills/lint/scripts/lint_wiki.py`. Se o lint reportar `errors > 0`, corrigir antes de continuar (link quebrado introduzido pela resolução é o caso mais comum). Avisos podem ficar para depois.
 
 ```bash
 git add <arquivos resolvidos>

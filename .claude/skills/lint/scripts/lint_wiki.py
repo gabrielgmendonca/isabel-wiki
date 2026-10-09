@@ -3,7 +3,7 @@
 """
 Lint determinístico da wiki IsAbel.
 
-Roda todos os checks mecânicos definidos na seção 8 do CLAUDE.md e imprime
+Roda todos os checks mecânicos da wiki e imprime
 um JSON estruturado em stdout para consumo pela skill /lint.
 
 Sem dependências externas — apenas stdlib.
@@ -656,7 +656,7 @@ def check_naming_consistency(pages: list[Path]) -> dict:
     return {"severity": "warning", "count": len(items), "items": items}
 
 
-# Padrões válidos de citação (seção 4 do CLAUDE.md + variantes reais)
+# Padrões válidos de citação (CLAUDE.md §3 + variantes reais)
 _CITATION_VALID = [
     # LE
     r"\(LE,\s*q\.\s*\d+",
@@ -1598,7 +1598,7 @@ def _extract_blockquotes(body: str) -> list[str]:
 
 
 def check_quote_proportion(pages: list[Path]) -> dict:
-    """Check — proporção/tamanho de citações em obras protegidas (CLAUDE.md §3).
+    """Check — proporção/tamanho de citações em obras protegidas (rule convencoes-direitos).
 
     Aplica-se a `tipo: obra` com `direitos.detentor` diferente de `dominio-publico`
     e `desconhecido`. Reporta como `info` (orienta revisão manual; severidade
@@ -2545,7 +2545,26 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     p.add_argument("--file", metavar="PATH",
                    help="Modo single-file: roda apenas checks isoláveis sobre PATH "
                         "(consumido pelo hook PostToolUse). Incompatível com --check/--skip.")
+    p.add_argument("--list-checks", action="store_true",
+                   help="Lista os checks (nome, descrição do docstring, modo) e sai.")
     return p.parse_args(argv)
+
+
+def list_checks() -> list[dict]:
+    """Catálogo dos checks a partir do registro — fonte única para a skill /lint."""
+    out = []
+    for name, fn in CHECK_REGISTRY.items():
+        doc = (fn.__doc__ or "").strip()
+        first = doc.split("\n\n", 1)[0].replace("\n", " ")
+        first = re.sub(r"\s+", " ", first)
+        first = re.sub(r"^Check\b[^—]{0,12}—\s*", "", first)
+        out.append({
+            "name": name,
+            "descricao": first,
+            "single_file": name in SINGLE_FILE_CHECKS,
+            "opt_in": name in DEFAULT_SKIP,
+        })
+    return out
 
 
 def select_checks(args: argparse.Namespace) -> list[str]:
@@ -2567,6 +2586,10 @@ def select_checks(args: argparse.Namespace) -> list[str]:
 
 def main(argv: list[str] | None = None):
     args = parse_args(argv if argv is not None else sys.argv[1:])
+
+    if args.list_checks:
+        print(json.dumps(list_checks(), ensure_ascii=False, indent=2))
+        return
 
     if not WIKI_DIR.exists():
         print(json.dumps({"error": "Diretório wiki/ não encontrado"}), file=sys.stdout)

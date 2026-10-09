@@ -85,7 +85,7 @@ def main() -> int:
             f"Pre-flight do /ingest: edição em `{rel}` na branch `main`. "
             "Crie/abra uma worktree feature antes de escrever em wiki/** "
             "(ex.: `git worktree add .claude/worktrees/<slug> -b <slug>`) "
-            "ou troque para uma branch feature. CLAUDE.md §5 + ROADMAP §1.3."
+            "ou troque para uma branch feature. ROADMAP §1.3."
         )
         return 0
 

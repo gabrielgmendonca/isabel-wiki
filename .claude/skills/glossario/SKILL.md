@@ -26,7 +26,7 @@ Saída JSON em stdout. Cada candidato traz:
 
 ## Passo 2 — Triar candidatos com o usuário
 
-A heurística é leve por design — sempre haverá ruído (verbos arcaicos isolados, adjetivos comuns, nomes próprios que escaparam). A triagem é classificação estruturada (input compacto = JSON do script + lista de conceitos existentes em `wiki/conceitos/`; output = três pilhas com termo + 1 frase), encaixe ideal para Haiku 4.5.
+A heurística é leve por design — sempre haverá ruído (verbos arcaicos isolados, adjetivos comuns, nomes próprios que escaparam). A triagem é classificação estruturada (input compacto = JSON do script + lista de conceitos existentes em `wiki/conceitos/`; output = três pilhas com termo + 1 frase), encaixe ideal para Haiku.
 
 Delegar a um subagente `general-purpose` com `model: "haiku"`. Passar:
 

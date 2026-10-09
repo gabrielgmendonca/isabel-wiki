@@ -17,65 +17,39 @@ uv run python .claude/skills/lint/scripts/lint_wiki.py
 
 No CI, o workflow usa `python3` (o runner não tem `uv`) — não alterar.
 
-Flags disponíveis:
-- `--check NAME` (repetível): rodar apenas os checks listados. Ex: `--check broken_links --check frontmatter`.
-- `--skip NAME` (repetível): pular os checks listados.
-- `--check-urls`: habilita `broken_urls` (opt-in; I/O externo, pode atrasar).
-- `--file PATH`: modo single-file — roda só os checks isoláveis (frontmatter, fontes_missing, citation_format, broken_links, low_citations, rascunho_stale, divergencias_aberta, tag_taxonomy, tag_coverage, direitos_obras, quote_proportion) sobre uma única página, com items filtrados por path. Consumido pelo hook `PostToolUse` em `.claude/hooks/lint-on-edit.py` para feedback imediato pós-Edit/Write/MultiEdit em `wiki/**/*.md`. Não substitui o lint global — checks que precisam de estado entre páginas (orphan_pages, missing_concept_pages, naming_consistency, catalogo_*, pentateuco_completo, raw_excluded, skills_consistency) só rodam aqui.
+Flags: `--check NAME` / `--skip NAME` (repetíveis) · `--check-urls` (habilita `broken_urls`, opt-in, I/O externo) · `--file PATH` (só os checks isoláveis sobre uma página; é o que o hook `lint-on-edit.py` usa — não substitui o lint global) · `--list-checks` (catálogo: nome, descrição, se roda em `--file`, se é opt-in).
 
-Quando o usuário pedir "rode só X" ou "pule Y", traduzir para as flags correspondentes. Nomes válidos: `broken_links`, `catalogo_broken`, `catalogo_missing`, `frontmatter`, `orphan_pages`, `fontes_missing`, `citation_format`, `low_citations`, `rascunho_stale`, `divergencias_aberta`, `missing_concept_pages`, `frequent_missing_concepts`, `pentateuco_completo`, `status_projeto`, `broken_urls`, `tag_taxonomy`, `naming_consistency`, `skills_consistency`, `raw_layout`, `slide_overflow`.
+O catálogo de checks é o próprio registro do script — **não** manter lista aqui. Quando o usuário pedir "rode só X" ou "pule Y", conferir o nome com `--list-checks` e traduzir para as flags.
 
 Ler o JSON de saída. Se o script falhar, reportar o erro ao usuário e parar.
 
 ## Passo 2 — Apresentar achados determinísticos
 
-Agrupar os resultados do script por severidade:
+Agrupar os resultados pela `severity` que cada check devolve no JSON (error → corrigir · warning → revisar · info). Para cada categoria com `count > 0`, listar os itens de forma concisa; se o significado de um check não for óbvio, usar a `descricao` de `--list-checks`.
 
-### Erros (corrigir)
-- **broken_links** — wikilinks apontando para arquivos inexistentes.
-- **catalogo_broken** — entradas de `wiki/sinteses/catalogo.md` apontando para arquivos que não existem.
-- **frontmatter** — campos obrigatórios ausentes ou valores inválidos de `tipo`/`status`.
-- **pentateuco_completo** — alguma das 5 obras do Pentateuco ausente em `wiki/obras/`.
-
-### Avisos (revisar)
-- **catalogo_missing** — arquivos em `wiki/` ausentes de `wiki/sinteses/catalogo.md` (use `index: false` no frontmatter para excluir).
-- **orphan_pages** — páginas sem nenhum link de entrada de outras páginas da wiki. Nota: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar mas não tratar como problema grave.
-- **fontes_missing** — seção `## Fontes` ausente ou vazia.
-- **citation_format** — citações com sigla conhecida mas formato fora do padrão da seção 4.
-- **low_citations** — páginas doutrinárias (`tipo: conceito | aprofundamento | questao`) com corpo ≥ 200 palavras e menos de 2 citações reconhecidas. Tipos descritivos (`obra`, `personalidade`) e meta (`sintese`, `divergencia`) ficam fora do check.
-- **rascunho_stale** — páginas com `status: rascunho` há mais de 14 dias.
-- **frequent_missing_concepts** — conceitos referenciados como wikilink em 5+ páginas distintas mas ainda sem página própria. Subconjunto de prioridade alta de `missing_concept_pages`.
-- **tag_taxonomy** — tags `lei/` fora da taxonomia canônica ou `obra/` inconsistentes com `fontes`.
-- **naming_consistency** — tags equivalentes registradas com nomenclaturas inconsistentes: variantes de mesma raiz (case/diacrítico, ex.: `perispirito` vs `perispírito`) ou pares plural/singular ambos circulando (ex.: `parabola` vs `parabolas`). Pares intencionais ficam em `NAMING_STEM_ALLOWLIST`.
-- **skills_consistency** — drift entre `CLAUDE.md`, `.claude/skills/*/SKILL.md` e `.claude/rules/*.md`: referência a `wiki/<dir>/` que não existe, skill em `.claude/skills/` sem menção em `CLAUDE.md`, ou caminho de script (`uv run python ...`) apontando para arquivo inexistente.
-- **raw_layout** — arquivos em `raw/` fora do esquema canônico: subpasta top-level fora da allowlist (`autores`, `mediuns`, `palestras`, `artigos`, `kardec`, `biblia-acf`, `assets`); slug não-kebab-case-ASCII; sufixo artefato (`_compress`, `-min`, `c3a[0-9a-f]`); arquivo solto direto em `mediuns/<medium>/` sem camada de autor espiritual; `<slug>.pdf` sem diretório homônimo; imagens `_page_*` soltas fora de `assets/`; `summary-*.md` em `palestras/` fora de `_summaries/`. Migração via `uv run python scripts/normalize_raw_layout.py --dry-run` (e `--apply` quando aprovado).
-- **broken_urls** — URLs externas retornando erro (só aparece se `--check-urls` foi passado).
-
-### Info
-- **divergencias_aberta** — divergências com `status: aberta`.
-- **missing_concept_pages** — links para conceitos que ainda não têm página própria. Inclui contagem de páginas distintas que referenciam cada conceito ausente.
-- **status_projeto** — contagens na prosa do `index.md` ("N fontes complementares", "~N páginas") divergentes do real. Cosmético, atualizar com `uv run python .claude/skills/stats/scripts/update_status.py`.
-- **slide_overflow** — slide de `slides/**/deck.md` cujo conteúdo estoura a caixa de 1080 × 560 px do tema isabel: colide com o rodapé no PPTX/PDF. Estimativa geométrica calibrada no render de `slides/themes/preview.md` (ver `tests/test_lint_slide_overflow.py`), não medição — o veredito é olhar o PDF. Conserto típico: dividir a síntese em dois slides ou encurtar bullets. Slide que transborda de propósito declara `<!-- lint: overflow-esperado -->`.
-
-Para cada categoria com `count > 0`, listar os itens de forma concisa.
+Ressalvas de leitura:
+- **orphan_pages**: personalidades do C&I 2ª parte podem ser naturalmente órfãs — destacar sem tratar como grave.
+- **status_projeto**: cosmético; corrigir com `uv run python .claude/skills/stats/scripts/update_status.py`.
+- **raw_layout**: migração via `uv run python scripts/normalize_raw_layout.py --dry-run` (e `--apply` quando aprovado).
+- **slide_overflow**: estimativa geométrica, não medição — o veredito é olhar o PDF. Transbordo intencional declara `<!-- lint: overflow-esperado -->`.
 
 ## Passo 3 — Análise LLM (complementar ao script)
 
-Delegar a um subagente Explore com `model: "haiku"` — input é compacto (JSON dos achados) e output é classificação/sugestão estruturada, perfil ideal para Haiku 4.5 sem perda de qualidade. Preserva o contexto principal e reduz custo. Passar ao subagente o JSON dos achados relevantes e pedir um relatório resumido seguindo as subseções 3a–3d abaixo.
+Delegar a um subagente Explore com `model: "haiku"` — input é compacto (JSON dos achados) e output é classificação/sugestão estruturada. Preserva o contexto principal e reduz custo. Passar ao subagente o JSON dos achados relevantes e pedir um relatório resumido seguindo as subseções 3a–3d abaixo.
 
 Exceção: se a sessão atual já é Haiku, fazer no main mesmo (sem ganho em delegar). Se houver pouquíssimos achados (≤2 combinados em `citation_format` + `fontes_missing` + `missing_concept_pages` + `divergencias_aberta`), também fazer no main para evitar overhead de spin-up.
 
 ### 3a. Citações suspeitas
 Para cada item em `citation_format`, avaliar:
 - Falso positivo? (formato válido que o regex não reconheceu) → descartar.
-- Citação real fora do formato da seção 4? → sugerir correção.
+- Citação real fora do formato do CLAUDE.md §3? → sugerir correção.
 
 ### 3b. Conceitos sem página
 Para cada item em `missing_concept_pages`, avaliar:
 - O conceito merece página própria? (frequência, importância doutrinária)
 - Ação sugerida: criar página / corrigir link / ignorar.
 
-### 3c. Sugestões de fontes para lacunas (check 9 — exclusivo LLM)
+### 3c. Sugestões de fontes para lacunas (exclusivo LLM)
 Ler as páginas flaggadas em `fontes_missing`. Para cada uma com `## Fontes` vazia ou rasa, sugerir fontes do Pentateuco ou nível 2/3 que poderiam enriquecer.
 
 ### 3d. Divergências abertas
@@ -102,18 +76,14 @@ Apresentar ao usuário em formato limpo:
 
 ## Passo 5 — Atualizar log.md (condicional)
 
-**Diagnóstico puro não é registrado.** Apenas a correção é evento de log.
-
-Logar em `log.md` somente se o usuário decidir corrigir achados a partir do relatório. Quando isso acontecer:
+**Diagnóstico puro não é registrado.** Logar em `log.md` somente se o usuário decidir corrigir achados a partir do relatório:
 
 ```
 ## [YYYY-MM-DD] lint | <descrição da correção>
 <2–3 frases sobre o que foi corrigido e por quê>
 ```
 
-Se o usuário só pediu o relatório sem corrigir nada, **não fazer append**.
-
-**Exceção — correções puramente cosméticas não são logadas.** Se a única ação for regenerar contagens do `index.md` (ou seja, o único achado corrigido foi `status_projeto`, resolvido com `update_status.py`), **não fazer append**. Esse drift é mecânico, sem decisão curatorial, e o `git log` do commit já é suficiente. Logar só quando a correção envolver decisão substantiva (link quebrado, frontmatter, taxonomia, citação, divergência, página órfã, conceito ausente etc.) — sozinha ou combinada com a regeneração do status.
+Correção puramente cosmética (só `status_projeto` via `update_status.py`) **não** é logada — o `git log` basta.
 
 ## Regras
 

@@ -57,32 +57,16 @@ Tudo que toca arquivo compartilhado acontece **aqui, serial no main-session**, n
 
 Cada item roteado aqui **custa uma decisão humana**: a página vira `rascunho` e abre-se um item `[ ]` no §11 que só o Gabriel fecha. Isso importa mais aqui do que no `/critica` interativo — este skill roda **em loop**, então um critério frouxo enche a fila dele lote após lote, sem que ninguém veja acontecer. Não existe eixo 4: tags e wikilinks são lint (`check_unlinked_concept_mention`, `check_tag_coverage`), grátis e em todo push.
 
-Para cada página, para cada `deferred` com `disposition: "deferred"`:
-1. Marcar a página como rascunho:
-   ```bash
-   uv run python .claude/skills/critica/scripts/critica_apply.py set-status --path <page> --status rascunho
-   ```
-2. Eixo 1 (divergência) — criar o stub (`status: aberta`):
-   ```bash
-   uv run python .claude/skills/critica/scripts/critica_apply.py divergencia-stub \
-     --slug <divergencia_slug> --titulo "<título>" --conceito <page-sem-.md> --fontes "<siglas>" --tema "tema/<x>" \
-     --kardec-pos "<...>" --kardec-cite "<locus>" --outra-pos "<...>" --outra-cite "<...>"
-   ```
-3. Anotar no ROADMAP §11:
-   ```bash
-   uv run python .claude/skills/critica/scripts/critica_apply.py roadmap-append \
-     --item "[ ] **<page-sem-.md>** (<eixo>, <data>) — <tensão> · evidência: <locus/cite> · relatório: <report-dir>"
-   ```
-Itens `"dropped"` não geram ação.
+Executar os comandos `set-status` / `divergencia-stub` / `roadmap-append` exatamente como no Passo 4a do `/critica`, para cada `deferred` com `disposition: "deferred"`. Itens `"dropped"` não geram ação.
 
 ### 4b. Montar o findings JSON e renderizar o relatório
-Construir `/tmp/autocritica-findings.json` no schema de `critica_report.py` (`run` + `pages` + `findings`; cada finding com `disposition` ∈ `auto_fixed|deferred|dropped` e, quando houver, `action`/`verdict`). Em `run`, preencher `scope_flags` (ex.: `--limit N` + recortes), `pages_due` (do scope), `pages_critiqued`, `pages_skipped`. Carimbo via `date +%Y-%m-%d-%H%M`. Então:
+Como no 4b do `/critica`, mas em `/tmp/autocritica-findings.json` e com `run` preenchido também com `scope_flags` (`--limit N` + recortes), `pages_due` (do scope), `pages_critiqued`, `pages_skipped`:
 
 ```bash
 uv run python .claude/skills/critica/scripts/critica_report.py --from /tmp/autocritica-findings.json
 ```
 
-Imprime os caminhos `reports/critica/<timestamp>/report.{md,html}`. `reports/` é **versionado no git** (não está no `.gitignore`) mas **fora do build público** (`quartz.config.ts` `ignorePatterns`) — trilha de auditoria histórica, igual aos relatórios do `/critica`. O relatório entra no repo no `/ship` seguinte, junto com as mudanças das páginas.
+`reports/` é versionado mas fora do build público; o relatório entra no repo no `/ship` seguinte.
 
 ### 4c. Registrar o estado (impede re-processar o mesmo no próximo lote)
 ```bash

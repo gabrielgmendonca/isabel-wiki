@@ -43,14 +43,9 @@ Skills (autocontidas em `.claude/skills/`; o roster é verificado pelo lint — 
 
 **Princípio das 3 camadas** (ROADMAP §5): camada 0 = código (`lint_wiki.py` no CI, grátis) · camada 1 = LLM (`/critica`, cara) · camada 2 = humano (fila do ROADMAP §11, o recurso mais escasso). Cada achado deve ser produzido e resolvido pela camada mais barata capaz. **Ao propor automação: se é decidível por código, é lint, não prompt.**
 
-- `/critica` é a camada semântica (3 eixos; tags e wikilinks são lint). `/autocritica` = lote não interativo e capped dela. `/dreno` é o contrapeso que *fecha* rascunhos — suas invariantes (e as do loop) estão na rule `dreno-loop-invariantes.md` e travadas por `tests/test_dreno.py`.
-- Loop diário (`scripts/loop-diario.sh`): worktree dedicada em `origin/main`, entrega por PR, **nada automescla**; não fecha a fila do §11.
-- `/yt` e `/yt-bulk` não tocam `wiki/`; curadoria é via `/ingest`.
-- O "Bypassed rule violations" no push direto do `/ship` é esperado (bypass intencional da conta do Gabriel) — não reportar.
-- Build público exclui `raw/`; auto-link de citações e glossário rodam no CI sobre cópia — o markdown-fonte não é alterado.
+- `/critica` é a camada semântica; `/autocritica`, o lote capped dela; `/dreno`, o contrapeso que *fecha* rascunhos. O loop diário entrega por PR e **nada automescla**.
+- Auto-link de citações e glossário rodam no CI sobre cópia — não aplicá-los à mão no markdown-fonte.
 
 ## 5. Rules e hooks
 
-Convenções detalhadas vivem em `.claude/rules/*.md` e são injetadas pelo hook `inject-rules.py` quando o arquivo editado casa com `paths:` — **uma vez por sessão** (e de novo após compactação). Frontmatter opcional: `quando:` (regex sobre o conteúdo escrito) e `bash: true` (vale também para buscas via Bash). Detalhe editorial novo vai para uma rule, não para cá.
-
-`lint-on-edit.py` roda o lint no arquivo após cada edição em `wiki/**/*.md` e aponta erros/warnings; não substitui o `/lint` global.
+Convenções detalhadas vivem em `.claude/rules/*.md`, injetadas por hook quando o arquivo tocado casa com `paths:`. Detalhe editorial novo vai para uma rule (ou para a skill que o usa), não para cá.

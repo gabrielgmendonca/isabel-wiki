@@ -154,12 +154,6 @@ Escreve em `slides/<slug>/build/`.
 
 ## Regras
 
-- **Citação obrigatória** em toda afirmação doutrinária (CLAUDE.md §3). Sempre usar nome completo da obra, não sigla, nos slides.
-- **Autoria de obras psicografadas**: ver CLAUDE.md §3 (formato `Autor espiritual / Médium`).
-- **Texto integral da obra básica**: LE em dois passos (pergunta + resposta); ESE/LM/C&I em citação completa. Elipses `(...)` para trechos longos não-essenciais.
-- **Sem slides em branco**: transições com section headers.
-- **Hierarquia de autoridade** respeitada (CLAUDE.md §2): Pentateuco prevalece.
-- **Imagens** (ver `convencoes-imagens.md`): em **momentos-chave** (abertura, "Para meditar"/casos, síntese), imagem atmosférica em **layout dividido** (`![bg right:45%]` — full-bleed sem uma classe de tema com texto claro sai ilegível; a rule explica), pouco texto ao lado; núcleo Q&A fica tipográfico. Fonte: a seção "Sugestões de imagem" do dossiê `/palestra` (arte em **domínio público/CC** — Doré, Tissot, Wikimedia). Colocação = passo editorial do Passo 6: o usuário **escolhe** o candidato, baixar p/ `slides/<slug>/assets/` (offline-first) e registrar em `slides/<slug>/assets/creditos.json` + crédito no rodapé. IA só p/ atmosférico, nunca figura sagrada.
-- **Não publicar na wiki**: `slides/` fica fora do build do Quartz.
-- **Não tocar `wiki/`** durante a geração.
-- **Plan mode bloqueia escrita** até o usuário aprovar o outline.
+- **Nome completo da obra**, não sigla, nos slides.
+- **Imagens**: seguir `convencoes-imagens.md`; candidatos vêm da seção "Sugestões de imagem" do dossiê `/palestra`, e o usuário escolhe no Passo 6.
+- **Não tocar `wiki/`** durante a geração (`slides/` fica fora do build do Quartz).
