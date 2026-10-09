@@ -3,7 +3,7 @@ tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, festim-de-bodas, chamados-e-escolhidos, obra/ese, autor/kardec, grau/intermediario, tema/jesus, tema/moral]
 atualizado_em: 2026-06-10
-status: rascunho
+status: ativo
 ---
 
 # Parábola do festim de bodas
@@ -20,7 +20,7 @@ Parábola narrada por Jesus sobre um rei que prepara o banquete nupcial de seu f
 
 ## Ensino de Kardec
 
-Kardec desdobra a parábola em chave espírita (ESE, cap. XVIII, itens 1–3):
+Kardec desdobra a parábola em chave espírita (ESE, cap. XVIII, itens 1–2):
 
 - Os **primeiros convidados** que recusam representam o povo judeu, a quem a revelação foi primeiro dirigida e que, no entanto, rejeitou o Cristo. Os servos maltratados e mortos representam os profetas.
 

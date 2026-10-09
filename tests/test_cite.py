@@ -75,6 +75,50 @@ class CiteConclusaoNumeracaoDuplaTests(unittest.TestCase):
         self.assertIn("saltou", err)
 
 
+class CiteConclusaoItemTests(unittest.TestCase):
+    """'Conclusão, item N' tem de resolver para o item N — não para o I. Com
+    IGNORECASE, o `[IVX]+` do regex casava o 'i' da palavra 'item' e TODA
+    referência 'Conclusão, item N' devolvia a Conclusão I; o índice reverso
+    então acusava de fabricada aspa verbatim da Conclusão IX (qg-ab98e9c32f,
+    qg-ca20b49396, 2026-07-17)."""
+
+    def test_item_ix_resolve_para_o_ix(self):
+        code, out, _ = _run(["LE", "Conclusão, item IX"])
+        self.assertEqual(code, 0)
+        self.assertIn("Conclusão, IX", out)
+        self.assertIn("de mistura com o mal", out)
+
+    def test_sem_a_palavra_item_continua_resolvendo(self):
+        code, out, _ = _run(["LE", "Conclusão, IX"])
+        self.assertEqual(code, 0)
+        self.assertIn("laço que um dia os unirá", out)
+
+    def test_item_i_continua_sendo_o_i(self):
+        code, out, _ = _run(["LE", "Conclusão, item I"])
+        self.assertEqual(code, 0)
+        self.assertIn("magnetismo terrestre", out)
+
+
+class CiteGeneseOrdinalAsciiTests(unittest.TestCase):
+    """A Gênese enumera as objeções a Buffon como '1.o. … 5.o.' (ordinal em
+    grafia ASCII) DENTRO do item 2 do cap. VIII. O _ORDINAL_ITEM_RE só conhecia
+    'º'/'ª' unicode, então o '3.o.' passava por marcador simples e sombreava o
+    item 3 real — cuja aspa verbatim era acusada de fabricada (qg-dea9a05032,
+    2026-07-17)."""
+
+    def test_item_3_do_cap_viii_e_a_teoria_da_condensacao(self):
+        code, out, _ = _run(["Gênese", "cap. VIII, item 3"])
+        self.assertEqual(code, 0)
+        self.assertIn("condensação da matéria cósmica", out)
+        self.assertNotIn("Ao tempo de Buffon", out.split("\n\n")[1][:200])
+
+    def test_ordinal_unicode_do_cei_continua_sendo_item(self):
+        # C&I 1ª parte cap. VII: os itens canônicos SÃO ordinais ("7.º —").
+        code, out, _ = _run(["C&I", "1ª parte, cap. VII, item 7"])
+        self.assertEqual(code, 0)
+        self.assertIn("O Espírito sofre pelo próprio mal", out)
+
+
 class CiteESEMarcadorNegritoTests(unittest.TestCase):
     """O markdown do ESE alterna entre marcador simples ('N.') e negrito
     ('**N.**') — às vezes dentro do mesmo capítulo. O extractor de item tem de

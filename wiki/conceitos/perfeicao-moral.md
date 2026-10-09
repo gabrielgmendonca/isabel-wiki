@@ -40,7 +40,7 @@ Enquanto o [[wiki/conceitos/egoismo|egoísmo]] não for atacado pela raiz, os de
 
 ## Destruição do egoísmo
 
-> "De todas as imperfeições humanas, o egoísmo é a mais difícil de desenraizar-se porque deriva da influência da matéria, influência de que o homem, ainda muito próximo de sua origem, não pôde libertar-se e para cujo entretenimento tudo concorre: suas leis, sua organização social, sua educação." (LE, q. 917)
+> "De todas as imperfeições humanas, o egoísmo é a mais difícil de desenraizar-se porque deriva da influência da matéria, influência de que o homem, ainda muito próximo de sua origem, não pôde libertar-se e para cuja manutenção tudo concorre: suas leis, sua organização social, sua educação." (LE, q. 917)
 
 A resposta está na reforma moral individual e no progresso geral — educação, leis e costumes que desencorajem o egoísmo.
 

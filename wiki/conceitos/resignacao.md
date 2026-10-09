@@ -14,7 +14,7 @@ Aceitação serena das provas da vida, fundada na compreensão de que os sofrime
 
 ### Virtude ativa, não passiva
 
-Os Espíritos superiores ensinam que a resignação nasce da fé raciocinada: quem compreende a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e a pluralidade das existências aceita as provas sem revolta, porque sabe que têm finalidade. "Os Espíritos bons nos atraem para o bem, nos sustentam nas provas da vida e nos ajudam a suportá-las com coragem e resignação" (LE, Parte 2, cap. I, Introdução).
+Os Espíritos superiores ensinam que a resignação nasce da fé raciocinada: quem compreende a [[wiki/conceitos/leis-morais/lei-de-causa-e-efeito|lei de causa e efeito]] e a pluralidade das existências aceita as provas sem revolta, porque sabe que têm finalidade. "Os Espíritos bons nos atraem para o bem, nos sustentam nas provas da vida e nos ajudam a suportá-las com coragem e resignação" (LE, Introdução, item VI).
 
 ### Resignação e bem-aventuranças
 

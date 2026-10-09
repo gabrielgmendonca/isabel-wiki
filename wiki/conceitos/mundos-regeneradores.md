@@ -28,11 +28,11 @@ O amor e a equidade presidem as relações entre os seres: Aí, reinam a equidad
 
 ### Reconhecimento de Deus
 
-Todos os habitantes reconhecem Deus e procuram conformar-se à Sua vontade: "Todos reconhecem Deus e procuram caminhar para Ele, seguindo as Suas leis" (ESE, cap. III, item 17). A fé é natural e esclarecida, não imposta.
+Todos os habitantes reconhecem Deus e procuram conformar-se à Sua vontade: "Todos reconhecem Deus e tentam caminhar para ele, cumprindo-lhe as leis" (ESE, cap. III, item 17). A fé é natural e esclarecida, não imposta.
 
 ### Ainda há provas
 
-Embora muito superiores aos mundos de expiação, os mundos regeneradores não são perfeitos: O homem aí não é ainda completamente feliz, porém já não é desgraçado. A felicidade perfeita ele não a experimenta, mas entrevê-a (ESE, cap. III, item 18). Há ainda resquícios de imperfeição — mas a tendência é ascendente.
+Embora muito superiores aos mundos de expiação, os mundos regeneradores não são perfeitos: O homem aí não é ainda completamente feliz, porém já não é desgraçado. A felicidade perfeita ele não a experimenta, mas entrevê-a (ESE, cap. III, item 17). Há ainda resquícios de imperfeição — mas a tendência é ascendente.
 
 ## Desdobramentos
 

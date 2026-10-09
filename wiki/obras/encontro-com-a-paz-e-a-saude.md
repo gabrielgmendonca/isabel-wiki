@@ -28,7 +28,7 @@ status: ativo
 
 A obra propõe uma **ponte tripartite** entre [[wiki/obras/livro-dos-espiritos|O Livro dos Espíritos]], o Evangelho de [[wiki/personalidades/jesus|Jesus]] e a Psicologia Profunda + Transpessoal, declarada literalmente no prefácio: *"propomos, na presente Obra, uma ponte entre as admiráveis páginas de O Livro dos Espíritos, de Allan Kardec, e o Evangelho de Jesus, portadores de grande atualidade em todas as suas expressões com a Psicologia profunda, assim como também com a Transpessoal"*.
 
-A homenagem ao Sesquicentenário do LE estrutura o método: cada um dos 11 capítulos abre com um diagnóstico clínico-existencial contemporâneo (crises, autodesamor, machismo/feminismo, separações, transtornos mentais, felicidade, sexualidade, consciência, iluminação, vida e morte) e fecha em **âncora kardequista explícita** — a seção *Temas para reflexão* sempre cita uma questão de LE/LM ou item de ESE no início e um versículo evangélico no final, fixando que a leitura é Pentateuco-orientada.
+A homenagem ao Sesquicentenário do LE estrutura o método: cada um dos 11 capítulos abre com um diagnóstico clínico-existencial contemporâneo (crises, autodesamor, machismo/feminismo, separações, transtornos mentais, felicidade, sexualidade, consciência, iluminação, vida e morte) e fecha em **âncora explícita em Kardec** — a seção *Temas para reflexão* sempre cita uma questão de LE/LM ou item de ESE no início e um versículo evangélico no final, fixando que a leitura é Pentateuco-orientada.
 
 ## Estrutura por capítulo
 
@@ -71,7 +71,7 @@ Galeria de exemplares femininos: Cornélia, "mãe dos Gracos"; Esparta; *Casa de
 
 ### 6 — Transtornos mentais e obsessivos
 
-*Transtorno esquizofrênico · Transtorno obsessivo · Diversidade das obsessões.* Releitura **clínica** das obsessões à luz da história da psiquiatria: Pinel/La Bicêtre (1873) liberta 53 esquizofrênicos enjaulados; Tucker em Londres, Chiarucci em Roma; Broca (1861) e o "centro da fala"; Charcot e a hipnose em la Salpêtrière (1880-1890); Liébeault, Bernheim, Griesinger; Freud, Jung, Adler, Bleuler, Kraepelin. Dialoga com a **tese sulivaniana** (esquizofrenia como distúrbio nas relações interpessoais iniciais) e Leopold Bellak (predisposições somáticas + sociopsicológicas + causas precipitantes). **Aporte espírita**: o paciente esquizofrênico é "um espírito que perdeu o endereço de si mesmo, carregado de culpas transatas". As obsessões são relidas pela tripartição kardequista de [[wiki/obras/livro-dos-mediuns|O Livro dos Médiuns]] cap. 23 — **simples / fascinação / subjugação** — agora com aparato neurofisiológico contemporâneo (monoaminas perturbadas: serotonina, noradrenalina, dopamina; barbitúricos com efeitos colaterais quando sobrepostos a campos energéticos do perseguidor). Distinção operacional **possessão (LM rejeita) × subjugação (LM adota)**, com explicação do mecanismo: *"a obsessão, seja em que forma se apresente, é sempre de espírito a espírito, através do perispírito de ambos os litigantes"*. **Âncoras**: LM cap. 23 (citado nominalmente em nota) + LE q. 474 (subjugação) + Lc 11:24-26 (sete espíritos piores).
+*Transtorno esquizofrênico · Transtorno obsessivo · Diversidade das obsessões.* Releitura **clínica** das obsessões à luz da história da psiquiatria: Pinel/La Bicêtre (1873) liberta 53 esquizofrênicos enjaulados; Tucker em Londres, Chiarucci em Roma; Broca (1861) e o "centro da fala"; Charcot e a hipnose em la Salpêtrière (1880-1890); Liébeault, Bernheim, Griesinger; Freud, Jung, Adler, Bleuler, Kraepelin. Dialoga com a **tese sulivaniana** (esquizofrenia como distúrbio nas relações interpessoais iniciais) e Leopold Bellak (predisposições somáticas + sociopsicológicas + causas precipitantes). **Aporte espírita**: o paciente esquizofrênico é "um espírito que perdeu o endereço de si mesmo, carregado de culpas transatas". As obsessões são relidas pela tripartição de Kardec em [[wiki/obras/livro-dos-mediuns|O Livro dos Médiuns]] cap. 23 — **simples / fascinação / subjugação** — agora com aparato neurofisiológico contemporâneo (monoaminas perturbadas: serotonina, noradrenalina, dopamina; barbitúricos com efeitos colaterais quando sobrepostos a campos energéticos do perseguidor). Distinção operacional **possessão (LM rejeita) × subjugação (LM adota)**, com explicação do mecanismo: *"a obsessão, seja em que forma se apresente, é sempre de espírito a espírito, através do perispírito de ambos os litigantes"*. **Âncoras**: LM cap. 23 (citado nominalmente em nota) + LE q. 474 (subjugação) + Lc 11:24-26 (sete espíritos piores).
 
 ### 7 — A conquista da felicidade
 
@@ -121,7 +121,7 @@ Acréscimo da autora: *"E acrescentaríamos os fenômenos paranormais consciente
 - [[wiki/conceitos/individuacao]] — Self assexuado integrando anima/animus.
 - [[wiki/conceitos/psicologia-transpessoal]] — adoção sistemática dos estágios de Wilber.
 - [[wiki/conceitos/medo]] — motor inconsciente articulado com a culpa ancestral.
-- [[wiki/conceitos/obsessao]] — releitura clínica da tripartição kardequista.
+- [[wiki/conceitos/obsessao]] — releitura clínica da tripartição de Kardec.
 - [[wiki/conceitos/egoismo]] — fonte da infelicidade (LE q. 784, q. 917).
 - [[wiki/conceitos/amorterapia]] — antídoto recorrente declarado.
 - [[wiki/conceitos/mediunidade]] — lúcida, complemento ao nível transpessoal de Wilber.

@@ -158,8 +158,13 @@ _HEADING_RE = re.compile(r"^#{2,}\s+")
 # de "sobre" como subitem 's', não o achava e a citação inteira falhava.
 _Q_SUBITEM_RE = re.compile(r"q\.\s*(\d+)([a-z])\b", re.IGNORECASE)
 
-# "Conclusão, IX" / "Conclusão IX".
-_CONCLUSAO_RE = re.compile(r"conclus[ãa]o[^a-z]*([IVX]+)", re.IGNORECASE)
+# "Conclusão, IX" / "Conclusão IX" / "Conclusão, item IX". O `(?:item\s*)?` é
+# obrigatório ANTES do romano: com IGNORECASE, `[IVX]+` casava o "i" da palavra
+# "item" e toda "Conclusão, item N" resolvia para a Conclusão I — o que fazia o
+# índice reverso acusar de fabricada uma aspa verbatim da Conclusão IX.
+_CONCLUSAO_RE = re.compile(
+    r"conclus[ãa]o[^a-z]*(?:item\s*)?([IVX]+)\b", re.IGNORECASE
+)
 
 # Item dentro de capítulo: "cap. X, item Y" / "cap. X item Y".
 _CAP_ITEM_RE = re.compile(
@@ -269,8 +274,14 @@ def _format(header: str, body: str) -> str:
 # 15 e 20 sombreavam os itens homônimos de Kardec).
 _CONT_RE = re.compile(r"[—–-]\s*$")
 
-# Marcador com sufixo ordinal ("1.º", "2.ª"). Ver _chapter_items.
-_ORDINAL_ITEM_RE = re.compile(r"^(?:>\s*)?\*{0,2}\d+(?:\s*\[\d+\])?\.\*{0,2}[ºª]")
+# Marcador com sufixo ordinal ("1.º", "2.ª") — inclusive na grafia ASCII do raw
+# ("3.o.", "2.a."), que a Gênese usa nas enumerações internas (cap. VIII lista as
+# objeções a Buffon como "1.o. … 5.o." DENTRO do item 2, e o "3.o." sombreava o
+# item 3 real — a aspa verbatim do item era acusada de fabricada). Ver
+# _chapter_items, política (b).
+_ORDINAL_ITEM_RE = re.compile(
+    r"^(?:>\s*)?\*{0,2}\d+(?:\s*\[\d+\])?\.\*{0,2}(?:[ºª]|[oa]\.)"
+)
 
 
 def _chapter_items(lines: list[str], line_start: int, line_end: int) -> list[tuple[int, int]]:

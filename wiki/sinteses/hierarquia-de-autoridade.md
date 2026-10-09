@@ -3,7 +3,7 @@ tipo: sintese
 fontes: [LE, LM, ESE, C&I, Gênese, OPE, OQE, Léon Denis]
 tags: [hierarquia, autoridade, evangelhos, novo-testamento, jesus, paulo, apostolos, pentateuco, codificacao, fontes, obra/le, obra/lm, obra/ese, obra/ci, obra/genese, obra/ope, obra/oqe, lei/justica-amor-caridade, autor/kardec, autor/leon-denis, autor/paulo, grau/avancado, tema/historia-doutrina]
 atualizado_em: 2026-10-07
-status: rascunho
+status: ativo
 ---
 
 # Hierarquia de autoridade

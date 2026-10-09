@@ -63,24 +63,15 @@ que hoje dispõe a ciência hão permitido que ele seja melhor estudado, de modo
 admitir-­se, em geral, que é um globo composto de matéria sólida, cercada de uma
 atmosfera luminosa, ou fotosfera, que não se acha em contacto com a sua
 superfície.\*
-
-## item 3
-
 3.o. Ao tempo de Buffon, somente se conheciam os seis planetas de que os
 antigos eram conhecedores: Mercúrio, Vênus, Terra, Marte, Júpiter e Saturno.
 Descobriram-­se depois outros em grande número, três dos quais, principalmente,
 Juno, Ceres e Palas, têm suas órbitas inclinadas de 13, 10 e 34 graus, o que não
 concorda com um movimento único de projeção.\*\*
-
-## item 4
-
 4.o. Reconheceram­-se absolutamente inexatos os cálculos de Buffon acerca
 do resfriamento, desde que Fourier descobriu a lei do decrescimento do calor. A
 Terra não precisou apenas de 74.000 anos para chegar à sua temperatura atual, mas
 de alguns milhões de anos.
-
-## item 5
-
 5.o. Buffon unicamente considerou o calor central da Terra, sem levar em
 conta o dos raios solares. Ora, é sabido hoje, em presença de dados científicos de
 rigorosa precisão, obtidos pela experiência, que, em virtude da espessura da crosta
@@ -100,6 +91,9 @@ entre as órbitas de Júpiter e Marte.
 II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra
 um estudo geológico de grande interesse.
 ## Teoria da condensação.
+
+## item 3
+
 3. A teoria da formação da Terra pela condensação da matéria cósmica é a que hoje
 prevalece na ciência, como sendo a que a observação melhor justifica, a que resolve
 maior número de dificuldades e que se apoia, mais do que todas as outras, no grande
@@ -114,6 +108,9 @@ Seu estado anterior, por escapar à observação, só pode ser conjetural. Ora, 
 hipóteses, o bom­ senso diz que se deve preferir a que a lógica sanciona e que mais
 acorde se mostra com os fatos observados.
 ## Teoria da incrustação.
+
+## item 4
+
 4. Apenas por não deixar de mencioná­-la, falamos desta teoria, que nada tem de
 científica, mas, que, entretanto, conseguiu certa repercussão nos últimos tempos e
 seduziu algumas pessoas. Acha­-se resumida na carta seguinte:
@@ -149,6 +146,9 @@ diferentes nos globos onde nasceram. Tais despojos na Terra se encontram nos
 pólos, ao passo que os animais viviam no Equador dos globos a que pertenciam.”
 \*
 Miguel de Figagnères (Var), autor da Chave da Vida.
+
+## item 5
+
 5. Esta teoria tem contra si os mais positivos dados da ciência experimental, além de
 que deixa intacta a questão mesma que ela pretende resolver, a questão da origem.
 Diz, é certo, como a Terra se teria formado, mas não diz como se formaram os

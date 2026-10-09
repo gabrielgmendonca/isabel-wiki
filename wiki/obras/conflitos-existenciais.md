@@ -28,9 +28,9 @@ status: ativo
 
 A obra propõe um **catálogo clínico de 20 conflitos existenciais** tratados sob padrão estrutural uniforme (psicogênese → transtornos → terapia) — único volume da série com essa forma de manual. A interlocução é com a **Psicologia Positiva** ("a visão nova da Psicologia positiva, que reage à proposta freudiana"), articulada à Psicologia Profunda e à Quarta Força (Psicologia Transpessoal).
 
-A tese declarada no prefácio é metodológica, não de conteúdo: *"Nada de novo apresentamos exceto o enfoque doutrinário que retiramos do Espiritismo e que tem faltado ao conhecimento de nobres psicoterapeutas, assim como ao de outros especialistas na área da saúde mental e emocional."* O contributo é o **enfoque kardequista** sobre material psicológico contemporâneo já consolidado.
+A tese declarada no prefácio é metodológica, não de conteúdo: *"Nada de novo apresentamos exceto o enfoque doutrinário que retiramos do Espiritismo e que tem faltado ao conhecimento de nobres psicoterapeutas, assim como ao de outros especialistas na área da saúde mental e emocional."* O contributo é o **enfoque de Kardec** sobre material psicológico contemporâneo já consolidado.
 
-A obra fecha-se em homenagem dupla: ao **140º aniversário de [[wiki/obras/ceu-e-inferno|O Céu e o Inferno]]** (Kardec, ago/1865), declarada no prefácio, e ao próprio Pentateuco — o último capítulo (Morte) cita literalmente o diálogo de Sócrates com seus juízes com referência explícita: *"(KARDEC, Allan: O Evangelho Segundo o Espiritismo, Introdução.)"*. O ancoramento Kardequista é, assim, demarcado tanto na abertura quanto no fechamento do volume.
+A obra fecha-se em homenagem dupla: ao **140º aniversário de [[wiki/obras/ceu-e-inferno|O Céu e o Inferno]]** (Kardec, ago/1865), declarada no prefácio, e ao próprio Pentateuco — o último capítulo (Morte) cita literalmente o diálogo de Sócrates com seus juízes com referência explícita: *"(KARDEC, Allan: O Evangelho Segundo o Espiritismo, Introdução.)"*. A ancoragem em Kardec é, assim, demarcado tanto na abertura quanto no fechamento do volume.
 
 ## Estrutura por capítulo
 
@@ -128,7 +128,7 @@ Posiciona a obra como homenagem aos 140 anos de [[wiki/obras/ceu-e-inferno|O Cé
 
 4. **Inversão pedagógica do mandamento de Jesus com declaração explícita de método** (cap. 19) — *"para fins metodológicos, invertemos a ordem apresentada para nova análise"*. Continuidade com [[wiki/obras/amor-imbativel-amor]] cap. 63 e [[wiki/obras/triunfo-pessoal]], agora com a finalidade metodológica nominalizada. **Erich Fromm** é incorporado ao quadro teórico ("orientação para transações"); a **síndrome de Epimeteu** é introduzida como tipologia do amor imaturo.
 
-5. **Citação direta a Kardec no fechamento** (cap. 20) — Sócrates via ESE Introdução. Em uma série que dialoga predominantemente com Jung, Maslow, Frankl e Assagioli, esta referência literal ao Pentateuco no último capítulo do último volume da Série Psicológica (na ordem cronológica até 2005) reafirma o ancoramento kardequista. A **Lei de Entropia** é articulada como argumento físico para a inevitabilidade da morte.
+5. **Citação direta a Kardec no fechamento** (cap. 20) — Sócrates via ESE Introdução. Em uma série que dialoga predominantemente com Jung, Maslow, Frankl e Assagioli, esta referência literal ao Pentateuco no último capítulo do último volume da Série Psicológica (na ordem cronológica até 2005) reafirma a ancoragem em Kardec. A **Lei de Entropia** é articulada como argumento físico para a inevitabilidade da morte.
 
 6. **Diálogo crítico explícito com a Psicologia Negativa freudiana** (cap. 5) e adoção da **Psicologia Positiva** como matriz terapêutica nomeada. Articulação **Adler (poder) × Freud (prazer) × Frankl (sentido)** com **Spinoza (Ética)** como autoridade ética. Aporte teórico mais granulado do que em volumes anteriores: **Karen Horney**, **Anna Freud + Heinz Hartmann + Erik Erikson** (psicologia do ego), **John Bowlby** (vinculação), **Hans Selye** (1948, definição operacional de estresse), **John Locke** (fobias) e **Erich Fromm** entram explicitamente no quadro.
 

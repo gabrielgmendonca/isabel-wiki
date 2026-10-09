@@ -27,11 +27,11 @@ Kardec desenvolve dois eixos interpretativos a partir desta parábola (ESE, cap.
 - Kardec destaca que o Espiritismo, ao esclarecer as verdades do Evangelho com o auxílio da razão e dos fatos, é ele próprio uma candeia destinada a iluminar a humanidade. Os espíritas, portanto, têm responsabilidade na difusão serena e fraterna da Doutrina (ESE, cap. XXIV, item 2).
 
 **Por que Jesus ensinava por parábolas:**
-- Kardec explica que Jesus adaptava seus ensinos ao grau de compreensão dos ouvintes — princípio pedagógico essencial. As parábolas, como figuras tomadas da vida cotidiana, permitiam que verdades profundas fossem acessíveis ao povo simples, ao mesmo tempo em que carregavam significados mais elevados para os que tinham "ouvidos de ouvir" (ESE, cap. XXIV, item 3).
+- Kardec explica que Jesus adaptava seus ensinos ao grau de compreensão dos ouvintes — princípio pedagógico essencial. As parábolas, como figuras tomadas da vida cotidiana, permitiam que verdades profundas fossem acessíveis ao povo simples, ao mesmo tempo em que carregavam significados mais elevados para os que tinham "ouvidos de ouvir" (ESE, cap. XXIV, item 4).
 - Esse método não é ocultação, mas **progressividade no ensino** — princípio que o próprio Espiritismo segue, ao apresentar as verdades conforme o progresso intelectual e moral da humanidade (LE, q. 627–628).
 
 **Nada ficará oculto:**
-- A promessa de que "tudo o que está oculto será revelado" se aplica tanto ao progresso do conhecimento humano — verdades científicas e morais que se desvelam com o tempo — quanto à situação individual de cada Espírito: na vida futura, pensamentos e atos ficam patentes, sem possibilidade de dissimulação (ESE, cap. XXIV, item 4).
+- A promessa de que "tudo o que está oculto será revelado" se aplica tanto ao progresso do conhecimento humano — verdades científicas e morais que se desvelam com o tempo — quanto à situação individual de cada Espírito: na vida futura, pensamentos e atos ficam patentes, sem possibilidade de dissimulação (ESE, cap. XXIV, item 5).
 
 ## Aplicação prática
 

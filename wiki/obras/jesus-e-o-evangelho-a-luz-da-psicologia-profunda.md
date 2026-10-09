@@ -87,7 +87,7 @@ A obra introduz, de forma articulada, a terminologia da [[wiki/conceitos/psicolo
 - **Arquétipos** — relidos não só como inconsciente coletivo da espécie, mas com **raiz reencarnacionista** ("Os Seus arquétipos procediam de outras imagens ancestrais representativas de patamares vibratórios superiores", cap. 23). Convergente com a discordância parcial nominal de Jung registrada em *[[wiki/obras/vida-desafios-e-solucoes|Vida: Desafios e Soluções]]* cap. 7.
 - **Selbst** — termo alemão usado uma única vez (cap. 16, sobre o ódio): "matar Jesus significava, no inconsciente coletivo de então, assassinar [...] o Selbst, interpretado como a imagem de Deus no homem". Não há identificação ontológica entre Self e Deus — Joanna mantém "Jesus e Deus são independentes".
 
-### 2. Cristologia kardequista antitrinitária
+### 2. Cristologia antitrinitária de Kardec
 
 Tese reafirmada com vigor especialmente nos caps. 4, 16, 17 e 32:
 

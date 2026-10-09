@@ -20,7 +20,7 @@ Parábola de Jesus que encerra o Sermão da Montanha, contrastando quem ouve sua
 
 ## Ensino de Kardec
 
-Kardec situa esta parábola no capítulo XVIII do ESE ("Muitos os Chamados, Poucos os Escolhidos"), itens 7–9, junto ao ensino de Jesus sobre a insuficiência da fé meramente verbal:
+Kardec situa esta parábola no capítulo XVIII do ESE ("Muitos os Chamados, Poucos os Escolhidos"), itens 6–9, junto ao ensino de Jesus sobre a insuficiência da fé meramente verbal:
 
 - A parábola é apresentada imediatamente após o aviso: "Nem todos os que me dizem: Senhor! Senhor! entrarão no reino dos céus; apenas entrará aquele que faz a vontade de meu Pai" (S. Mateus, 7:21). A **rocha** é a prática efetiva da lei de amor; a **areia** é a profissão de fé sem obras correspondentes.
 

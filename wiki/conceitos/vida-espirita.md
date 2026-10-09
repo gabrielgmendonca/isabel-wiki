@@ -12,7 +12,7 @@ status: rascunho
 
 Estado do Espírito **entre duas encarnações**, quando, desligado do corpo, aguarda nova existência ou cumpre missão no mundo espiritual. Tratado na Parte 2, Cap. VI (q. 223–286).
 
-> "Espírito errante, que aspira a novo destino, que espera." (LE, q. 224)
+> "Espírito errante, que aspira a novo destino; fica esperando." (LE, q. 224)
 
 ## Duração dos intervalos
 

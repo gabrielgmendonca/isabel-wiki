@@ -3,7 +3,7 @@ tipo: conceito
 fontes: [ESE]
 tags: [parabola, jesus, credor-incompassivo, perdao, caridade, proximo, obra/ese, lei/justica-amor-caridade, autor/kardec, grau/intermediario, tema/jesus, tema/prece-caridade]
 atualizado_em: 2026-06-10
-status: rascunho
+status: ativo
 ---
 
 # Parábola do credor incompassivo
@@ -26,7 +26,7 @@ Kardec situa esta parábola no capítulo XI do ESE ("Amar o próximo como a si m
 
 - A desproporção entre as duas dívidas — dez mil talentos contra cem dinheiros — ilustra a desproporção entre o que pedimos a Deus e o que nos recusamos a conceder ao próximo. Exigimos indulgência, benevolência e devotamento dos nossos semelhantes, mas não lhes oferecemos o mesmo.
 
-- O perdão pedido na Oração Dominical — "Perdoai as nossas ofensas, como perdoamos aos que nos hão ofendido" — contém a mesma lógica da parábola: Deus nos trata na medida em que tratamos os outros (ESE, cap. X, item 3).
+- O perdão pedido na Oração Dominical — "Perdoai as nossas ofensas, como perdoamos aos que nos hão ofendido" — contém a mesma lógica da parábola: Deus nos trata na medida em que tratamos os outros (ESE, cap. X, item 17).
 
 - Kardec conclui que "a prática dessas máximas tende à destruição do egoísmo" e que, quando os homens as adotarem como regra de conduta, "compreenderão a verdadeira fraternidade e farão que entre eles reinem a paz e a justiça" (ESE, cap. XI, item 4).
 

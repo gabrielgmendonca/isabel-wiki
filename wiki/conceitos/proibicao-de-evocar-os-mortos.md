@@ -20,7 +20,7 @@ Kardec observa que, se a lei de Moisés deve ser rigorosamente observada no toca
 
 > "Se a lei de Moisés deve ser rigorosamente observada sobre este ponto, ela o deve ser sobre todos os outros, pois por que ela seria boa no que se refere às evocações, e má em outras partes?" (C&I, 1ª parte, cap. XI, item 3)
 
-Kardec cita exemplos que evidenciam o absurdo de aplicar literalmente a legislação mosaica à época moderna, como o artigo que manda lapidar o boi que mata alguém e proíbe comer-lhe a carne (Êxodo, cap. XXI, v. 28), e a proibição de os sacerdotes possuírem bens (Deuteronômio, cap. XXVIII, vv. 1-2) — norma que a própria Igreja não observa (C&I, 1ª parte, cap. XI, item 4).
+Kardec cita exemplos que evidenciam o absurdo de aplicar literalmente a legislação mosaica à época moderna, como o artigo que manda lapidar o boi que mata alguém e proíbe comer-lhe a carne (Êxodo, cap. XXI, v. 28), e a proibição de os sacerdotes possuírem bens (Deuteronômio, cap. XXVIII, vv. 1-2) — norma que a própria Igreja não observa (C&I, 1ª parte, cap. XI, itens 4-5).
 
 ### Contexto histórico: práticas egípcias e adivinhação
 
