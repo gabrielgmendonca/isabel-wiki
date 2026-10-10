@@ -816,6 +816,12 @@ def _safe_mtime(p: Path) -> int:
 
 _BQ_PREFIX_RE = re.compile(r"^\s*(?:>\s?)+")
 
+# Wikilink com alias (`[[wiki/obras/livro-dos-espiritos|LE]]`) → só o alias. A sigla
+# linkada à mão dentro do parêntese escondia a citação de `KARDEC_RE`, e a aspa
+# que a antecede nunca era conferida (13 reprovadas em 5 páginas quando o scan
+# passou a desembrulhar, 2026-10-10).
+_WIKILINK_ALIAS_RE = re.compile(r"\[\[[^\]|]*\|([^\]]+)\]\]")
+
 
 def _logical_lines(body: str) -> list[tuple[int, str]]:
     """Segmenta o corpo em unidades `(linha, texto)` para o scan de aspas.
@@ -896,6 +902,7 @@ def _scan_literal_quotes_cached(key: tuple[tuple[str, int], ...]) -> tuple[dict,
     Conservador: só double-quotes adjacentes a citação Kardec **resolvível**;
     cobertura contígua (tolera acento/caixa/pontuação/elisão); piso de ≥5 palavras;
     skip em code; locus inválido → skip (coberto por `check_citation_resolves`).
+    Wikilink com alias é desembrulhado antes do match (`([[…|LE]], q. 1)` conta).
     Blockquote **é** varrido (via `_logical_lines`) — é a forma em que a aspa de
     Kardec mais aparece, e era o ponto cego do check (ROADMAP §12 Fase 3).
     """
@@ -905,6 +912,7 @@ def _scan_literal_quotes_cached(key: tuple[tuple[str, int], ...]) -> tuple[dict,
         text = page.read_text(encoding="utf-8")
         body = strip_inline_code(text)
         for i, line in _logical_lines(body):
+            line = _WIKILINK_ALIAS_RE.sub(r"\1", line)
             for m in _QUOTE_BEFORE_CITE_RE.finditer(line):
                 quote, citation = m.group(1), m.group(2)
                 km = KARDEC_RE.search(citation)

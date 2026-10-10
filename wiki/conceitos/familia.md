@@ -27,7 +27,7 @@ O capítulo XIV de **O Evangelho Segundo o Espiritismo** ("Honrai vosso pai e vo
 1. **Parentela corporal** — laços de consanguinidade desta encarnação, presididos pela ordem natural e pelo dever filial codificado no Decálogo.
 2. **Parentela espiritual** — vínculos anteriores entre os Espíritos que se reúnem nesta família, frutos de existências passadas; perduram além do túmulo e podem ou não coincidir com os laços corporais.
 
-> "A consanguinidade pode estabelecer entre dois seres uma identidade de natureza física, mas não a moral. [...] Os laços do sangue não estabelecem necessariamente os laços entre os Espíritos." (ESE, cap. XIV, item 8)
+> "Os laços do sangue não criam forçosamente os liames entre os Espíritos. O corpo procede do corpo, mas o Espírito não procede do Espírito, porquanto o Espírito já existia antes da formação do corpo." (ESE, cap. XIV, item 8)
 
 A consequência prática é dupla: o respeito ao pai e à mãe é dever absoluto da encarnação atual (LE, q. 685), mas os afetos espirituais não se esgotam nem se reduzem aos laços corporais — Jesus declara, em Mt 12:48-50, que "meus irmãos são aqueles que fazem a vontade do meu Pai", afirmação relida por Kardec em ESE cap. XIV como base do parentesco espiritual universal.
 

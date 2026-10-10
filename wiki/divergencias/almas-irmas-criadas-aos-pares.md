@@ -58,7 +58,7 @@ Convergência literária do nível 3 a partir de uma terceira voz. No romance fi
 
 A obra encerra-se com Rafael e Estela morrendo juntos na geleira do Dachstein e reencarnando em Marte unidos *"em um par inseparável"*, com o "amor vitorioso da morte" como tema-síntese. A formulação de Flammarion difere de Denis e Emmanuel em um ponto: a predestinação é apresentada em registro **literário-poético**, sem ser sistematizada doutrinariamente como em *O Problema do Ser e do Destino* (Denis) ou em *O Consolador* q. 378 (Emmanuel). Não há ressalva ou retratação como na Casa de Ismael — Flammarion publica em romance, não em tratado, e a ficção dispensa o crivo plural característico da metodologia kardecista (ver [[wiki/obras/estela#gênero-romance-ensaio|callout sobre o gênero]]).
 
-A convergência de três vozes de nível 3 (Denis 1899, Flammarion 1897, Emmanuel/Chico 1939–1940) em torno da mesma tese contrária a LE q. 298 indica menos uma reflexão coordenada que **a força do topos literário das "almas gêmeas"** no período tardo-romântico e pós-romântico — exatamente o que Kardec previu ao rejeitar a *"poesia que tem o seu encanto"* (LE q. 298, comentário) em favor da formulação doutrinária precisa.
+A convergência de três vozes de nível 3 (Denis 1899, Flammarion 1897, Emmanuel/Chico 1939–1940) em torno da mesma tese contrária a LE q. 298 indica menos uma reflexão coordenada que **a força do topos literário das "almas gêmeas"** no período tardo-romântico e pós-romântico — exatamente o que Kardec enfrentou ao reduzir a teoria das metades eternas a *"uma simples figura, representativa da união de dois Espíritos simpáticos"*, expressão que *"se não deve tomar ao pé da letra"* (LE q. 303, comentário).
 
 ## Análise
 

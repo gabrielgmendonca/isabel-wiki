@@ -26,7 +26,7 @@ Kardec apresenta no cap. XVII do ESE, item 3, uma descrição detalhada das qual
 
 **Com os subordinados:** Trata com bondade e benevolência os seus inferiores e não abusa da autoridade que lhe é conferida (ESE, cap. XVII, item 3). É justo no exercício de qualquer forma de poder.
 
-**Em relação aos bens:** É desinteressado. "A riqueza, para ele, não é mais que um depósito de que deve dar conta" (ESE, cap. XVII, item 3). Emprega os bens no bem dos outros.
+**Em relação aos bens:** É desinteressado. "Usa, mas não abusa dos bens que lhe são concedidos, sabe que é um depósito de que terá de prestar contas" (ESE, cap. XVII, item 3). Emprega os bens no bem dos outros.
 
 ### Fundamento no LE
 

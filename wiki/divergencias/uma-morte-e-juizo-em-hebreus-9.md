@@ -26,11 +26,10 @@ Essa leitura, que não é a única possível no texto, tornou-se base escritural
 
 Kardec afirma a **pluralidade das existências** como lei natural, inscrita no plano divino e necessária à justiça de Deus:
 
-> **Q. 167** — "Qual é o objetivo da encarnação dos Espíritos?
-> — Expiação, melhoramento progressivo da Humanidade. Sem isto, onde a justiça?" ([[wiki/obras/livro-dos-espiritos|LE]], q. 167)
+> **Q. 167** — "Qual o fim objetivado com a reencarnação?
+> — Expiação, melhoria progressiva da humanidade. Sem isto, onde a justiça?" ([[wiki/obras/livro-dos-espiritos|LE]], q. 167)
 
-> **Q. 222** — "Os antigos filósofos tinham noção da pluralidade das existências?
-> — Essa doutrina veio à Humanidade desde a origem dos tempos, por isso é que dela se encontram traços em todos os povos, em todos os séculos. [...] É uma lei da natureza e [...] há de existir com ela." (LE, q. 222)
+> **Q. 222** — "Constituindo uma lei da natureza, o Espiritismo há de ter existido desde a origem dos tempos, e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. [...] A ideia da transmigração das almas formava, pois, uma crença disseminada, aceita pelos homens mais eminentes." (LE, q. 222)
 
 A reencarnação é afirmada pelo **próprio Jesus**, segundo a leitura espírita do Evangelho, em duas passagens decisivas:
 
@@ -40,7 +39,7 @@ A reencarnação é afirmada pelo **próprio Jesus**, segundo a leitura espírit
 
 O "juízo" após a morte existe — mas não é tribunal cosmogônico final que encerre a trajetória do Espírito. É a **retomada de consciência**, no estado errante, do balanço moral da existência recém-encerrada, que alimenta a escolha das provas futuras:
 
-> "As aflições da vida presente são, em primeiro lugar, consequência da imperfeição do homem, Espírito encarnado, ou desta imperfeição em outra existência; [...] em segundo lugar, provas que o próprio Espírito escolheu, no estado errante, antes desta reencarnação." ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. V, síntese)
+> "De duas espécies são as vicissitudes da vida, ou, se o preferirem, promanam de duas fontes bem diferentes, que importa distinguir. Umas têm sua causa na vida presente; outras, fora desta vida." ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. V, item 4)
 
 > [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte cap. II — erraticidade como período entre encarnações; retomada de consciência do Espírito.
 > C&I 1ª parte caps. VI–VII — penas temporárias e reparadoras; rejeição das penas eternas.

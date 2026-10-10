@@ -20,11 +20,11 @@ Kardec é taxativo em LM 2ª parte, cap. XXVIII (Dos médiuns interesseiros), it
 
 **A faculdade é gratuita por origem, deve permanecer gratuita.** O médium não fabrica a mediunidade; recebe-a de Deus para serviço. Cobrar é vender o que não é seu — exatamente o erro de Simão, o Mago (At 8:18-24).
 
-> "A mediunidade é uma dádiva de Deus, da qual cada um pode usar para o bem, mas que se torna fatal aos que dela abusam." (LM, cap. XXVIII)
+> "Em resumo, a mediunidade é uma faculdade concedida para o bem e os bons Espíritos se afastam de quem pretenda fazer dela um degrau para chegar ao que quer que seja, que não corresponda às vistas da Providência." (LM, 2ª parte, cap. XXVIII, item 306)
 
 **Quem comercia atrai Espíritos da mesma índole.** A regra de afinidade vibratória atua impiedosamente: o médium interesseiro vibra na faixa do interesse; os Espíritos que respondem à sua sintonia são os que igualmente vivem do interesse. O fenômeno mediúnico continua, mas a fonte degrada — o que sobe pelo canal não é mais o que o médium imagina.
 
-> "Os Espíritos verdadeiramente bons só se comunicam com pessoas de boa moral [...] o médium que faz da sua mediunidade objeto de mercancia, jamais terá ao seu lado os Espíritos elevados; é cercado, ao contrário, dos Espíritos pretensiosos, levianos, mentirosos e enganadores." (LM, cap. XXVIII)
+> "Sabe-se que aversão infunde aos Espíritos tudo o que cheira a cobiça e a egoísmo, o pouco caso que fazem das coisas materiais; como, então, admitir-se que se prestem a ajudar quem queira traficar com a presença deles?" (LM, 2ª parte, cap. XXVIII, item 305)
 
 A *Viagem Espírita em 1862* repete a regra na orientação aos grupos: médiuns interesseiros são repelidos pelos Espíritos sérios; o grupo deve recusar admissão. Nas instruções aos sociétés, Kardec inclui a vedação explícita.
 

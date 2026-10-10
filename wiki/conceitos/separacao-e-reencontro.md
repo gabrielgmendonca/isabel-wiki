@@ -16,7 +16,7 @@ Ensino consolador da Doutrina Espírita: a morte separa apenas os corpos, nunca 
 
 Kardec ensina que os Espíritos ligados pela afeição se reconhecem e se buscam na erraticidade. A morte do corpo não destrói os laços morais:
 
-> "Os que se amaram se reencontram após a morte e se reconhecem." (LE, q. 274–276)
+> "Os Espíritos se reconhecem por terem coabitado a Terra? O filho reconhece o pai, o amigo reconhece o seu amigo? — Perfeitamente e, assim, de geração em geração." (LE, q. 285)
 
 O Espírito desencarnado pode acompanhar e proteger os que ficaram, servindo-lhes de guia espiritual (LE, q. 284–285).
 

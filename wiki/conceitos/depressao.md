@@ -18,7 +18,7 @@ O Pentateuco não emprega o termo "depressão", mas fornece os fundamentos para 
 
 ### Influência dos Espíritos nos pensamentos
 
-> "Os Espíritos influem sobre os nossos pensamentos e ações [...]. Há os que nos impelem ao bem e os que nos impelem ao mal." (LE, q. 459)
+> "Influem os Espíritos em nossos pensamentos e em nossos atos? — Mais do que imaginais, pois com bastante frequência são eles que vos dirigem." (LE, q. 459)
 
 Os pensamentos de tristeza, desânimo e pessimismo podem ser sugeridos por Espíritos inferiores que nos cercam por afinidade vibratória (LE, q. 459–465). A pessoa deprimida, com a mente enfraquecida, torna-se especialmente receptiva a essas influências.
 

@@ -89,7 +89,7 @@ Ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]].
 
 ### 2. Reencarnação em outros mundos (Parte II, cap. VI; Parte III, cap. III)
 
-A trajetória de Spero e Icleia — morte na Terra → erraticidade → reencarnação em Marte — encarna em forma narrativa o ensinamento de que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"* (LE, q. 173). A escolha de Marte como destino é coerente com a doutrina de que *"a vida terrestre não é o tipo da vida extraterrestre"* (testamento, aforismo 16) — alinhada com (LE, q. 188; q. 222).
+A trajetória de Spero e Icleia — morte na Terra → erraticidade → reencarnação em Marte — encarna em forma narrativa o ensinamento de que o Espírito pode viver muitas vezes no mesmo globo ou passar a um mundo superior (LE, q. 173). A escolha de Marte como destino é coerente com a doutrina de que *"a vida terrestre não é o tipo da vida extraterrestre"* (testamento, aforismo 16) — alinhada com (LE, q. 188; q. 222).
 
 ### 3. Almas sem sexo (Parte III, cap. III)
 
@@ -97,7 +97,7 @@ A mudança de sexo entre as encarnações é tratada doutrinariamente:
 
 > *"O fato bem singular da mudança de sexo, que se me afigurava ter certa importância, ao que parece, não tinha nenhuma. Contrariamente ao que admitido entre os terrestres, contou-me que as almas não possuem sexo e têm um destino igual."* (Parte III, cap. III)
 
-Posição plenamente alinhada com (LE, q. 200–202): *"Têm sexo os Espíritos? — Não, como entendeis. Os sexos existem no organismo. No Espírito há afeições, mas não as há decorrentes do sexo"* (LE, q. 200).
+Posição plenamente alinhada com (LE, q. 200–202): *"Têm sexos os Espíritos? — Não como o entendeis, pois que os sexos dependem do organismo. Há entre eles amor e simpatia, mas baseados na semelhança dos sentimentos"* (LE, q. 200).
 
 ### 4. Lei do progresso (testamento, aforismos 20–25)
 

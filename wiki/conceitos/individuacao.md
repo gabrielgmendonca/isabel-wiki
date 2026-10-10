@@ -18,11 +18,11 @@ Na **leitura espírita** desenvolvida por Joanna de Ângelis ao longo da Série 
 
 Kardec não usa o termo "individuação" — é vocabulário do século XX. Mas o **programa** existencial que a individuação descreve corresponde, no Pentateuco, ao trabalho moral de **autoconhecimento** que conduz à perfeição:
 
-> *"Conhece-te a ti mesmo, é a primeira lei de toda inteligência."* (LE, q. 919)
+> *"Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal? — Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo."* (LE, q. 919)
 
 A integração dos conteúdos inconscientes (incluindo "más inclinações" e impulsos primários) com a consciência reflexiva é descrita por Kardec como condição para o progresso espiritual:
 
-> *"Pode-se ainda nesta vida fazer alguma coisa para se libertar das más inclinações? — Sim, perfeitamente. Tendes essa força em vós mesmos: basta o querer."* (LE, q. 909)
+> *"Poderia sempre o homem, pelos seus esforços, vencer as suas más inclinações? — Sim, e por vezes fazendo esforços bem pequenos. O que lhe falta é a vontade. Ah! Quão poucos dentre vós fazem esforços!"* (LE, q. 909)
 
 A **escala espírita** (LE q. 100) descreve a individuação ontológica em registro doutrinário: do princípio inteligente bruto à pureza do Espírito puro, mediante sucessivas reencarnações em que cada existência integra ao patrimônio definitivo as conquistas da anterior.
 

@@ -24,7 +24,7 @@ Kardec articula a perda do sentido a duas matrizes:
 
 ### Sentido da vida segundo Kardec
 
-A resposta de Kardec ao vazio é estrutural: *"O objetivo da encarnação é o aperfeiçoamento dos Espíritos"* (LE q. 132); *"Conhece-te a ti mesmo"* (LE q. 919) é programa terapêutico — o Espírito que descobre a si mesmo, descobre simultaneamente o sentido. ESE cap. V item 12 ensina que *"a vida do homem na Terra é uma prova"* — o sofrimento existencial é convite ao crescimento, não absurdo metafísico.
+A resposta de Kardec ao vazio é estrutural: *"Deus lhes impõe a encarnação com o fim de fazê-los chegar à perfeição"* (LE q. 132); *"Conhece-te a ti mesmo"* (LE q. 919) é programa terapêutico — o Espírito que descobre a si mesmo, descobre simultaneamente o sentido. ESE cap. V item 12 ensina que *"a vida do homem na Terra é uma prova"* — o sofrimento existencial é convite ao crescimento, não absurdo metafísico.
 
 ### Suicídio por tédio (LE q. 943, OQE)
 

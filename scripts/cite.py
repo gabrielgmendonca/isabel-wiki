@@ -140,8 +140,14 @@ _ITEM_RE = re.compile(
 # `extract_capitulo`); no LE e no LM ele é sempre enumeração DENTRO da resposta —
 # e, lido como item, tanto criava um "item 2" falso lá pelo cap. XX do LM quanto
 # TRUNCAVA o corpo do item que o continha (a limitação conhecida do LM item 35).
+#
+# Vale também para a grafia ASCII do ordinal ("11.a. Por que, quando fazem
+# pressentir…"): é como o raw numera as subperguntas dos itens 282–296 do LM
+# (caps. XXV e XXVI). Lidas como item, reduziam o item 289 ao seu título — e a
+# resposta sobre predições com data, verbatim na 11.ª subpergunta, era acusada de
+# fabricada.
 _ITEM_LEM_RE = re.compile(
-    r"^(?:>\s*)?\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}(?![\dºª])(?!\))\s*"
+    r"^(?:>\s*)?\*{0,2}(\d+)(?:\s*\[\d+\])?\.\*{0,2}(?![\dºª])(?![oa]\.)(?!\))\s*"
 )
 
 # Subitem do LE: "a) –", tolera travessões variados ou ausência.
@@ -206,6 +212,10 @@ _INTRO_START_RE = re.compile(
 )
 _PROLEG_RE = re.compile(r"proleg[ôo]menos", re.IGNORECASE)
 _PROLEG_START_RE = re.compile(r"^\*\*\s*PROLEG[ÔO]MENOS\s*\*\*", re.IGNORECASE)
+# "Nota sobre esta nova edição" do LE: advertência de Kardec à 2ª edição, ANTES da
+# Introdução — fora de toda numeração (não é item da Introdução nem Prolegômenos).
+_NOTA_ED_RE = re.compile(r"nota\s+(?:sobre|[àa]|d[ae])\b.*edi[çc][ãa]o", re.IGNORECASE)
+_NOTA_ED_START_RE = re.compile(r"^\*\*\s*NOTA SOBRE ESTA NOVA EDI[ÇC][ÃA]O\s*\*\*", re.IGNORECASE)
 _SECTION_END_RE = re.compile(
     r"^##\s+(?:Cap[íi]tulo|Parte\b|"
     r"(?:Primeira|Segunda|Terceira|Quarta|Quinta)\s+parte)",
@@ -394,6 +404,18 @@ def extract_le(ref: str) -> tuple[str, str]:
     """LE: questão, subitem, intro_item, Introdução/Prolegômenos, ou conclusão."""
     md_path = PENTATEUCO_DIR / "livro-dos-espiritos.md"
     lines = _read_lines(md_path)
+
+    # 0a. Nota sobre esta nova edição (bloco curto, termina no heading da Introdução).
+    if _NOTA_ED_RE.search(ref):
+        start = next((i for i, ln in enumerate(lines) if _NOTA_ED_START_RE.match(ln)), None)
+        if start is None:
+            return _err(f"Nota sobre esta nova edição não encontrada em {_rel(md_path)}")
+        end = _find_block(lines, start, [_HEADING_RE])
+        header = (
+            f"(LE, Nota sobre esta nova edição) — linhas {start + 1}-{end}\n"
+            f"{_rel(md_path)}:{start + 1}-{end}"
+        )
+        return header, "\n".join(lines[start:end])
 
     # 0. Prolegômenos (declaração assinada dos Espíritos, ao fim da Introdução).
     # Bloco inteiro — markup interno irregular, itens não extraídos isoladamente.

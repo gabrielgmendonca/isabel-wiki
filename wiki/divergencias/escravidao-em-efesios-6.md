@@ -61,9 +61,9 @@ E mais explicitamente:
 
 ### 4. ESE: a moral evangélica radicalmente igualitária
 
-> "Não façais aos outros o que não quereríeis que vos fizessem. — Esta máxima encerra todos os deveres do homem para com seus semelhantes." (ESE cap. XII, item 6, ressaltando regra de ouro)
+> "'Amar o próximo como a si mesmo: fazer pelos outros o que quereríamos que os outros fizessem por nós', é a expressão mais completa da caridade, porque resume todos os deveres do homem para com o próximo." (ESE cap. XI, item 4)
 
-> "Se julgares com indulgência, com indulgência sereis julgados [...]." (ESE cap. X, item 14, paráfrase)
+> "Perdoai, usai de indulgência, sede caridosos, generosos, pródigos até do vosso amor." (ESE cap. X, item 14)
 
 A regra de ouro aplicada à escravidão é demolidora: **ninguém deseja ser escravo**; logo, ninguém pode justificar moralmente possuir outro como escravo. ESE cap. XV ("Fora da caridade não há salvação") fecha o argumento: a caridade que aceita estrutura escrava como ordem natural não é caridade — é resignação cúmplice.
 

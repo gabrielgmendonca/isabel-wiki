@@ -22,9 +22,9 @@ A passagem não é citada literalmente por Kardec, mas sua **estrutura conceitua
 
 ### 1. A luta moral como esforço cotidiano
 
-> "Pelos esforços que o homem faz para se melhorar, por sua perseverança, por sua firmeza, por seu domínio sobre as paixões, ele se purifica e progride." (ESE cap. XVII, item 4)
+> "Reconhece-se o verdadeiro espírita pela sua transformação moral e pelos esforços que emprega para domar suas inclinações más." (ESE cap. XVII, item 4)
 
-> "Para vencermos nossas más inclinações, que auxílio podemos esperar? — O homem pode vencê-las sempre que o queira, pois tem o livre-arbítrio. Que dizeis a isso? Dizemos que basta a vontade. Ah! quão poucos dentre vós fazem esforços!" (LE q. 909)
+> "Poderia sempre o homem, pelos seus esforços, vencer as suas más inclinações? — Sim, e por vezes fazendo esforços bem pequenos. O que lhe falta é a vontade. Ah! Quão poucos dentre vós fazem esforços!" (LE q. 909)
 
 A "armadura" paulina é, à luz de Kardec, o **conjunto disciplinado das virtudes que o esforço moral cultiva** — não rito, não amuleto, não fórmula. Verdade, justiça, paz evangélica, fé raciocinada, esperança da salvação (= progresso) e palavra do Espírito são todas **virtudes morais cultiváveis pela vontade**.
 
@@ -34,9 +34,9 @@ Paulo diz: "não temos que lutar contra a carne e o sangue, mas, sim, contra os 
 
 A leitura literalista monta uma **demonologia** com hierarquia paralela à divina, presidida por Satanás. O Espiritismo recusa essa cosmologia dualista:
 
-> "Os demônios, na acepção vulgar do termo, supõem seres essencialmente maléficos. Ora, se admitido fica que tudo é obra de Deus, não é possível que tenha ele criado seres voltados para o mal pela sua natureza e fadados a sê-lo perpetuamente, pois, se assim fora, repugnaria à sua bondade." (C&I 1ª parte cap. IX, item 1)
+> "Por demônios, segundo a acepção vulgar da palavra, se entendem seres essencialmente malfazejos. Como todas as coisas, eles teriam sido criados por Deus. Ora, Deus, que é soberanamente justo e bom, não pode ter criado seres prepostos, por sua natureza, ao mal e condenados por toda a eternidade." (LE q. 131, comentário)
 
-> "Os Espíritos não constituem [...] uma categoria à parte na criação. São as almas dos que viveram nos mundos materiais, despojadas de seu envoltório corporal." (C&I 1ª parte cap. IX, item 5)
+> "Assim, pois, os Espíritos não são senão as almas dos homens, despojadas do invólucro corpóreo." (LM 1ª parte cap. I, item 2)
 
 Os "principados, potestades, hostes espirituais da maldade" são, à luz de Kardec, **Espíritos imperfeitos hierarquizados na escala espírita** (LE q. 100–113) — terceira ordem (Espíritos impuros, levianos, pseudo-sábios, neutros, batedores e perturbadores). Imperfeitos, sim; condenados eternamente, não — todos podem progredir.
 

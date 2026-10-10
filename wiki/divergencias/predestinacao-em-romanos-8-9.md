@@ -75,7 +75,7 @@ Se todos são salvos ao fim, a "eleição" paulina — lida à letra como exclus
 
 A aparente injustiça de Jacó ser "amado" e Esaú ser "odiado" antes mesmo de nascerem é precisamente o tipo de questão que o Espiritismo responde com a pluralidade das existências:
 
-> "As aflições da vida presente [são], em primeiro lugar, consequência da imperfeição do homem, Espírito encarnado, ou desta imperfeição em outra existência, [...] em segundo lugar, provas que o próprio Espírito escolheu, no estado errante, antes desta reencarnação." (ESE, cap. V, item 4 — síntese)
+> "De duas espécies são as vicissitudes da vida, ou, se o preferirem, promanam de duas fontes bem diferentes, que importa distinguir. Umas têm sua causa na vida presente; outras, fora desta vida." (ESE, cap. V, item 4)
 
 Dois Espíritos gêmeos podem chegar à encarnação com trajetórias anteriores muito diferentes, o que explica preferências e encaminhamentos aparentemente arbitrários sem precisar invocar decreto divino caprichoso. A "eleição" de Jacó é **concordância entre a Lei divina e a trajetória prévia da alma**, não favoritismo.
 

@@ -14,11 +14,11 @@ Sentimento de apreensão diante de perigo real ou imaginário. Instinto preserva
 
 ### Medo da morte
 
-Kardec dedica trato sistemático ao **medo da morte** — uma das formas mais arraigadas do medo humano. Ele distingue dois tipos de medo da morte:
+Kardec dedica trato sistemático ao **medo da morte** — uma das formas mais arraigadas do medo humano — e parte do sentimento instintivo da vida futura:
 
-> "Toda criatura humana tem instintivamente o desejo de viver e a previsão da vida futura, sem o que toda existência seria sem objetivo. É a vida futura que dá ao homem coragem para suportar as misérias da vida presente." (LE, Introdução)
+> "O sentimento de uma existência melhor reside no foro íntimo de todos os homens e não é possível que Deus aí o tenha colocado em vão." (LE, q. 959, comentário)
 
-A repugnância à morte que muitos experimentam é, segundo a Doutrina, **proporcional à imperfeição moral e à atadura aos bens terrenos**: *"Quanto mais ligado o homem aos bens da Terra, tanto mais teme deixá-los"* (parafraseando a tendência das qq. 919–940 sobre as paixões). Em contraste, *"o homem de bem… vê-a chegar com a confiança com que se aguarda a libertação"* (cf. ESE cap. II, item 3).
+A repugnância à morte que muitos experimentam é, segundo a Doutrina, **proporcional à imperfeição moral e à atadura aos bens terrenos**: quanto mais ligado o homem aos bens da Terra, tanto mais teme deixá-los (cf. LE, q. 941). Em contraste, *"o homem de bem… vê-a chegar com a confiança com que se aguarda a libertação"* (cf. ESE cap. II, item 3).
 
 ### Confiança em Deus como antídoto natural do medo
 

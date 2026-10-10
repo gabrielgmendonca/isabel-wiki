@@ -102,6 +102,21 @@ class CheckLiteralQuoteExistsTests(unittest.TestCase):
         out = self.run_check(f'> "{self.verbatim(3, 14)}" {self.CITE}')
         self.assertEqual(out, [])
 
+    # Sigla em wikilink: `([[wiki/obras/…|ESE]], cap. …)` escondia a citação do
+    # KARDEC_RE e a aspa passava sem conferência.
+    CITE_WL = "([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]], cap. XVII, item 4)"
+
+    def test_fabricated_quote_with_wikilinked_sigla_flagged(self) -> None:
+        fake = "esta frase foi inteiramente inventada e nao consta da obra em lugar nenhum"
+        out = self.run_check(f'> "{fake}" {self.CITE_WL}')
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["classification"], "fabricated")
+        self.assertEqual(out[0]["citation"], self.CITE)
+
+    def test_real_quote_with_wikilinked_sigla_not_flagged(self) -> None:
+        out = self.run_check(f'> "{self.verbatim(3, 14)}" {self.CITE_WL}')
+        self.assertEqual(out, [])
+
     def test_quote_spanning_blockquote_lines_flagged(self) -> None:
         # Aspa que abre numa linha `>` e fecha na seguinte (transcrição
         # pergunta/resposta do LE): só casa porque `_logical_lines` junta o
@@ -161,12 +176,14 @@ class CheckQuoteMisattributedTests(unittest.TestCase):
     """Classe 2 do §12 (aspa verbatim em OUTRO locus) virou check próprio em
     `warning` + hook; `literal_quote_exists` fica só com fab/par/incerta (info)."""
 
-    # Caso real estável: a máxima é verbatim no item 8, mas citada como item 10.
-    # (É justamente o FP que mora na allowlist — aqui num path de tmp que NÃO casa
-    # o sufixo da allowlist, então é flagrado; a supressão é testada à parte.)
+    # Trecho verbatim do ESE cap. XVII, item 4, citado como item 3 — montado da
+    # fonte para não enrijecer o teste. (O caso antigo, a máxima "Fora da caridade
+    # não há salvação" em wikilink, deixou de ser flagrado quando o scan passou a
+    # desembrulhar o alias: o FP vinha do caminho do link contado como texto.)
     LINE = (
-        'A máxima espírita: "[[wiki/aprofundamentos/fora-da-caridade-nao-ha-salvacao'
-        '|Fora da caridade não há salvação]]" (ESE, cap. XV, item 10).'
+        'Kardec ensina: "'
+        + " ".join(_words("ESE", "cap. XVII, item 4")[3:24])
+        + '" (ESE, cap. XVII, item 3).'
     )
 
     def _run(self, fn, body: str) -> dict:
@@ -181,7 +198,7 @@ class CheckQuoteMisattributedTests(unittest.TestCase):
         self.assertEqual(warn["count"], 1)
         item = warn["items"][0]
         self.assertEqual(item["classification"], "misattributed")
-        self.assertIn("item 8", item["suggested_locus"])
+        self.assertIn("item 4", item["suggested_locus"])
         # Não aparece no check info (a fatia misattributed saiu de lá).
         info = self._run(check_literal_quote_exists, self.LINE)
         self.assertEqual(info["count"], 0)

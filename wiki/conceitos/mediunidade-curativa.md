@@ -22,7 +22,7 @@ Kardec inclui na tipologia mediúnica os **médiuns curadores**, distintos do ma
 
 ### O fluido magnético dos curadores (Gênese cap. XIV, item 33)
 
-> "O fluido magnético é uma matéria; o fluido espiritual a essa matéria imprime certas qualidades. Quando o fluido a derramar tem por destino o corpo, é magnético; quando ele tem por destino a alma, é espiritualizado. [...] Os fluidos espirituais constituem um dos estados do fluido cósmico universal." (Gênese, cap. XIV, itens 31–33)
+> "É o magnetismo misto, semiespiritual, ou, se o preferirem, humano-espiritual. Combinado com o fluido humano, o fluido espiritual lhe imprime qualidades de que ele carece." (Gênese, cap. XIV, item 33)
 
 A medicina pelos fluidos opera, portanto, em **dois regimes simultâneos**: ação magnética sobre o corpo (efluxo do magnetizador encarnado) e ação espiritual sobre o perispírito (Espíritos benfeitores intervindo via médium).
 

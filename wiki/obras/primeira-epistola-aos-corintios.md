@@ -121,7 +121,7 @@ A partir de 15:35, Paulo enfrenta a pergunta "com que corpo virão?":
 
 A distinção *soma psychikon* (corpo natural/animal) vs. *soma pneumatikon* (corpo espiritual) é **formulação neotestamentária do [[wiki/conceitos/perispirito|perispírito]]**, aproveitada por Kardec:
 
-> "Há no homem três coisas: 1ª o corpo, ou ser material análogo aos animais [...]; 2ª a alma, ser imaterial, Espírito encarnado no corpo; 3ª o laço que une a alma e o corpo, princípio intermediário entre a matéria e o Espírito." (LE q. 135, comentário)
+> "O homem é, portanto, formado de três partes essenciais: 1° – o corpo, ou ser material análogo aos animais e animado pelo mesmo princípio vital; 2° – a alma, Espírito encarnado que tem no corpo a sua habitação; 3° – o princípio intermediário, ou perispírito, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo." (LE q. 135, comentário)
 
 Na Gênese cap. XIV, item 7, Kardec cita diretamente Paulo: "o corpo carnal e o perispírito têm pois origem no mesmo elemento primitivo; ambos são matéria, ainda que em dois estados diferentes". A "ressurreição" paulina, lida pelo Espiritismo, não é reanimação de cadáver mas **persistência consciente do Espírito em seu corpo espiritual** após a morte do corpo carnal (cf. LE q. 150, letra a — "o Espírito conserva a aparência da última encarnação").
 

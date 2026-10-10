@@ -18,7 +18,7 @@ Não é morte: a *"corda fluídica"* permanece (Gênese, cap. XIV). É a alma "o
 
 A doutrina foi sistematizada já na 1ª edição do *Livro dos Espíritos* (Parte 2, cap. VIII — "Da emancipação da alma"). Os Espíritos respondem a Kardec:
 
-> *"O homem, durante o sono, recobra momentaneamente sua liberdade. Sua alma se isola do corpo, comunica-se com seus iguais. [...] Reconhece os Espíritos com os quais simpatiza, deles recebe instruções, deles recebe avisos, dá-lhes os seus."* (LE q. 401–402, paráfrase)
+> *"O sono liberta a alma parcialmente do corpo. Quando dorme, o homem se acha por algum tempo no estado em que fica permanentemente depois que morre."* (LE q. 402)
 
 A Parte 2, cap. VIII trata sucessivamente:
 

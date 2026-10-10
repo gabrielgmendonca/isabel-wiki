@@ -16,9 +16,9 @@ Vício capital que o Espiritismo aponta como a "chaga da sociedade" e o maior ob
 
 Os Espíritos superiores são enfáticos ao apontar o egoísmo como o obstáculo principal ao reinado do bem na Terra:
 
-> "Destruindo o materialismo, que é uma das chagas da sociedade, [o Espiritismo] encaminhará os homens para a verdadeira solidariedade. Do egoísmo nascem todos os vícios; da caridade, todas as virtudes." (LE, Conclusão, item V)
+> "Dentre os vícios, qual o que se pode considerar radical? — Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo." (LE, q. 913)
 
-O egoísmo é mencionado como "barreira erguida entre o homem e Deus", junto ao orgulho e à ambição (LE, Parte 2, cap. I, Introdução).
+Os Espíritos o apontam como o mal a atacar pela raiz: "aí é que está a verdadeira chaga da sociedade" (LE, q. 913).
 
 ### Egoísmo e perfeição moral
 

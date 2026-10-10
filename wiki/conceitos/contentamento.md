@@ -22,15 +22,15 @@ O verbo grego *emathon* ("aprendi") é decisivo: o contentamento é **conquista*
 
 ### Felicidade não é deste mundo, mas se prepara nela
 
-> "Que pensar das pessoas que esperam da fortuna a felicidade, certas de que, se a possuíssem, nada mais teriam a desejar? — Pessoas dignas de pena. Bem desgraçadas serão, ao verem desfeitas em pouco tempo todas as ilusões." (LE, q. 925)
+> "Pode o homem gozar de completa felicidade na Terra? — Não, pois a vida lhe foi dada como prova ou expiação. Dele, porém, depende a suavização de seus males e o ser tão feliz quanto possível na Terra." (LE, q. 920)
 
 O Espiritismo não promete felicidade material como prêmio, nem prescreve renúncia ao bem-estar como via única. Ensina, sim, que **a felicidade verdadeira não depende das condições externas**, mas da serenidade interior cultivada pela conformidade com a lei moral (LE q. 920–933). É exatamente o que Paulo descreve ao saber "estar abatido" e "ter abundância" — a paz íntima não é função do saldo bancário nem da fartura à mesa.
 
 ### Contentamento × resignação
 
-Kardec distingue cuidadosamente:
+Kardec descreve a atitude no retrato do homem de bem:
 
-> "A resignação consiste em receber, sem queixar-se, todas as provas da vida [...]. A coragem moral consiste em sustentar a luta contra os obstáculos, sem se deixar abater." (LE q. 919, comentário-paráfrase do tom de Kardec sobre vontade firme)
+> "Sabe que todas as vicissitudes da vida, todas as dores, todas as decepções são provas ou expiações e as aceita sem murmurar." (ESE, cap. XVII, item 3)
 
 A **resignação** é primeiro passo — recusar a queixa estéril; o **contentamento** é segundo passo — converter a aceitação em **alegria operante**. Ambos são distintos da apatia. ESE cap. V ("Bem-aventurados os aflitos") articula a passagem: o aflito que **compreende** o sentido da prova passa da resignação à serenidade ativa.
 
@@ -38,15 +38,15 @@ A **resignação** é primeiro passo — recusar a queixa estéril; o **contenta
 
 A fórmula final de Paulo (Fp 4:13) é, à luz de Kardec, **confiança no auxílio do modelo Cristo** articulada à liderança dos Espíritos protetores (LE q. 538–540) e à força que vem da imitação consciente de Jesus (LE q. 625):
 
-> "Como podemos resistir às tentações do mal? — Pela vontade firme de fazê-lo." (LE q. 919)
+> "Poderia sempre o homem, pelos seus esforços, vencer as suas más inclinações? — Sim, e por vezes fazendo esforços bem pequenos. O que lhe falta é a vontade. Ah! Quão poucos dentre vós fazem esforços!" (LE q. 909)
 >
 > "Sim, porquanto aquele que ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia Espíritos bons para assisti-lo." (LE, q. 660)
 
-A "força" paulina não é injeção mágica de capacidade sobrenatural — é **vontade firme** (LE q. 919) sustentada por sintonia mediúnica positiva (LE q. 538; LM 2ª parte cap. XX). O contentamento não é heroísmo solitário; é **trabalho com auxílio**, exatamente como Paulo descreve em Fp 2:12–13 ("operai a vossa salvação [...] Deus é o que opera em vós").
+A "força" paulina não é injeção mágica de capacidade sobrenatural — é **vontade** (LE q. 909) sustentada por sintonia mediúnica positiva (LE q. 538; LM 2ª parte cap. XX). O contentamento não é heroísmo solitário; é **trabalho com auxílio**, exatamente como Paulo descreve em Fp 2:12–13 ("operai a vossa salvação [...] Deus é o que opera em vós").
 
 ### Crítica ao apego e à inveja
 
-> "Se os homens praticassem a lei de Deus, gozariam neste mundo de uma felicidade relativa, compatível com a sua natureza material; mas, como se afastam dessa lei, sofrem todos os males que eles mesmos procuram." (LE q. 920–921, paráfrase do tom)
+> "O homem é quase sempre o obreiro da sua própria infelicidade. Pela prática da lei de Deus, a muitos males pode forrar-se, proporcionando a si mesmo felicidade tão grande quanto o comporte a sua existência grosseira." (LE, q. 921)
 
 Os obstáculos ao contentamento, no Espiritismo, são duas paixões correlatas:
 

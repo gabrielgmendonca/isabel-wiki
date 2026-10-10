@@ -12,7 +12,7 @@ status: rascunho
 
 Emancipação parcial do perispírito do corpo físico, com manutenção do **fio fluídico de ligação** que assegura o retorno. Ocorre regularmente durante o sono, ocasionalmente em estado de vigília concentrada, e em condições especiais por hipnose, prece prolongada ou treinamento medianímico. É o substrato fisiológico da mediunidade sonâmbula, da clarividência, da psicometria, da inspiração e do socorro espiritual prestado por encarnados a outros encarnados.
 
-> "Quando o corpo descansa, o Espírito se desprende dos laços corporais e fica em estado de liberdade." (LE, q. 401)
+> "Durante o sono, afrouxam-se os laços que o prendem ao corpo e, não precisando este então da sua presença, ele se lança pelo espaço e entra em relação mais direta com os outros Espíritos." (LE, q. 401)
 
 ## Ensino de Kardec
 

@@ -60,9 +60,9 @@ A leitura espírita preserva o sentido de plenitude e dissolve a aritmética lit
 
 ### Convergência com a hierarquia de Kardec
 
-A escala dos Espíritos em LE q. 100–113 culmina nos **Espíritos puros** (terceira ordem):
+A escala dos Espíritos em LE q. 100–113 culmina nos **Espíritos puros** (primeira ordem):
 
-> "Atingiram o máximo da perfeição. [...] Não estão sujeitos a reencarnar nos mundos transitórios. Nada lhes restando a expurgar e nada tendo a aprender, gozam da bem-aventurança eterna pela contemplação do Soberano Senhor. Chamam-se anjos puros, arcanjos ou serafins. [...] Como são os mais perfeitos, Deus os encarrega de transmitirem suas vontades aos demais Espíritos e de presidirem aos mundos." (LE q. 113)
+> "Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. [...] Eles são os mensageiros e os ministros de Deus, cujas ordens executam para a manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. [...] São designados às vezes pelos nomes de anjos, arcanjos ou serafins." (LE q. 113)
 
 Essa descrição é praticamente **paráfrase** da função dos sete Espíritos do Apocalipse: estão diante do trono (contemplação direta), são enviados a toda a terra (transmissão das vontades divinas), presidem aos mundos. A diferença vocabular reflete contextos históricos (linguagem alegórica do I século vs. linguagem doutrinária codificada do XIX), mas a substância é a mesma.
 

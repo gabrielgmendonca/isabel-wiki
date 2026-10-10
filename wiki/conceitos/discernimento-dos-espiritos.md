@@ -41,7 +41,7 @@ Aplicação operacional do critério em **dezembro/1864**: o caso "Jobard e os m
 
 A mediunidade, por si, não garante qualidade da comunicação. Os Espíritos que se comunicam abrangem toda a escala — dos mais elevados aos mais atrasados, zombeteiros, mistificadores, obsessores.
 
-> "Que os adeptos do Espiritismo se compenetrem bem destas palavras de S. João: **Não deis crédito a todo o espírito, mas examinai se os espíritos são de Deus**; porquanto, se por um lado se produzem grandes e belas coisas por mediunidade, de outro se dizem e praticam muitas por ela que devem ser escrupulosamente examinadas." (ESE, cap. XXI, item 9)
+> "Meus bem-amados, não creais em qualquer Espírito; experimentai se os Espíritos são de Deus, porquanto muitos falsos profetas se têm levantado no mundo." (ESE, cap. XXI, item 6)
 
 Kardec é taxativo: a mediunidade é **meio**, não autoridade em si. Cada comunicação precisa passar pelo crivo da razão e da moral.
 
@@ -65,7 +65,7 @@ Cinco critérios convergentes de qualidade:
 
 ### Critérios negativos — bandeiras vermelhas
 
-> "Toda comunicação em que transpareça o orgulho, ou qualquer sentimento egoístico, é suspeita, seja qual for o nome que a assine." (ESE, cap. XXI, item 9)
+> "Toda teoria em manifesta contradição com o bom senso, com uma lógica rigorosa e com os dados positivos já adquiridos, deve ser rejeitada, por mais respeitável que seja o nome que traga como assinatura." (ESE, Introdução, item II)
 
 Atenção redobrada a:
 
@@ -79,15 +79,15 @@ Atenção redobrada a:
 
 Paulo já institui, em 1 Co 14:29: "falem dois ou três profetas, **e os outros julguem**" — princípio do discernimento em comunidade. Ninguém tem acesso privilegiado à verdade; a comunicação se valida pelo exame conjunto dos pares. Kardec reforça:
 
-> "A unidade do ensino [...] constitui a prova mais forte de sua origem divina. Quando os Espíritos, por instrumentos diversos, em lugares diversos, sem que haja comunicação possível entre os médiuns, dão ensinos concordantes, é porque uma só verdade os inspira." (LM, 2ª parte, cap. XXVI, item 279 — concordância universal)
+> "A concordância no que ensinem os Espíritos é, pois, o melhor controle." (ESE, Introdução, item II)
 
-A **concordância universal** entre comunicações independentes é um dos pilares metodológicos da codificação de Kardec (cf. ESE, Introdução, item IV).
+A **concordância universal** entre comunicações independentes é um dos pilares metodológicos da codificação de Kardec (cf. ESE, Introdução, item II).
 
 ### Identificação nominal é secundária
 
 Um ponto crucial, frequentemente mal compreendido: **o nome que um Espírito assina não é critério primário de autenticidade**. Espíritos inferiores tomam emprestado nomes ilustres para ganhar autoridade (LM, 2ª parte, cap. XXIV, itens 265–267). "Pela qualidade da comunicação se conhece o Espírito", não pelo rótulo que ele coloca.
 
-> "Não é o nome que faz o valor do ensino; é o ensino que faz o valor do nome." (LM, 2ª parte, cap. XXIV, parafraseando o princípio central do capítulo)
+> "Desde que o Espírito só diz coisas aproveitáveis, pouco importa o nome sob o qual as diga." (LM, 2ª parte, cap. XXIV, item 255)
 
 ## Fundamentos neotestamentários
 

@@ -59,7 +59,7 @@ O **"Aviso sobre a 2ª edição"** publicado em mar/1860 anuncia o lançamento d
 
 Em **jan/1860** Kardec evoca pela primeira vez de forma programada o Espírito de uma pessoa viva: o **Conde de R… C…** (capitão da marinha imperial), que ele próprio se ofereceu para a experiência, *"pondo-se à vossa disposição para um ensaio desse gênero"* enquanto retido em casa por gota. Em duas sessões (25/11 e 02/12/1859), com o corpo dormindo em casa, o Espírito do Conde dialoga com a SPEE confirmando a fenomenologia: *"Neste momento o corpo me é simples acessório. Sou Eu que aqui estou"*. Em **fev/1860** repete-se a experiência com o **Dr. Vignal**, sócio titular (sessão de 03/02/1860) — confirmação independente.
 
-Esses dois casos são **base empírica direta da doutrina da emancipação da alma** que entrará em LM, 2ª parte, cap. VIII ("Da bicorporeidade e da transfiguração"). O Dr. Vignal será evocado de novo em mar/1865, depois de morto, e estabelecerá explicitamente o contraste: *"antes a matéria me apertava com rede inflexível; agora estou livre"* (C&I, 2ª parte, cap. II) — ver [[wiki/personalidades/doutor-vignal]].
+Esses dois casos são **base empírica direta da doutrina da emancipação da alma** que entrará em LM, 2ª parte, cap. VIII ("Da bicorporeidade e da transfiguração"). O Dr. Vignal será evocado de novo em mar/1865, depois de morto, e estabelecerá explicitamente o contraste: *"Naquele tempo a matéria me apertava ainda com sua rede inflexível; eu queria me desprender de uma maneira mais absoluta, e não podia. Hoje estou livre"* (C&I, 2ª parte, cap. II) — ver [[wiki/personalidades/doutor-vignal]].
 
 ### 3. Os pré-adamitas — matriz da doutrina da raça adâmica
 

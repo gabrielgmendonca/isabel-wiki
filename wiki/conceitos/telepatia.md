@@ -24,7 +24,7 @@ Kardec dedica em [[wiki/obras/obras-postumas|*Obras Póstumas*]] o ensaio **"Fot
 
 ### Caráter natural, não maravilhoso
 
-Como toda manifestação fluídica, a telepatia *"entra no cômputo dos fatos naturais"* (LM, 1ª parte, cap. I): não derroga lei alguma e não exige "sobrenatural" (ver [[wiki/conceitos/maravilhoso-e-sobrenatural]]). É a chave fluídica de fenômenos correlatos: a [[wiki/conceitos/aparicoes|aparição]] do moribundo no momento da morte, o pressentimento de uma desgraça distante, a "chamada misteriosa" ouvida interiormente.
+Como toda manifestação fluídica, a telepatia dispensa o maravilhoso: conhecida a natureza dos Espíritos, as manifestações *"nada mais apresentam de espantosas e entram no cômputo dos fatos naturais"* (LM, 2ª parte, cap. I, item 52). Não derroga lei alguma e não exige "sobrenatural" (ver [[wiki/conceitos/maravilhoso-e-sobrenatural]]). É a chave fluídica de fenômenos correlatos: a [[wiki/conceitos/aparicoes|aparição]] do moribundo no momento da morte, o pressentimento de uma desgraça distante, a "chamada misteriosa" ouvida interiormente.
 
 ## Desdobramentos
 

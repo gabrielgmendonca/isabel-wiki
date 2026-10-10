@@ -26,21 +26,17 @@ A imagem paulina não é citada literalmente, mas a operação que ela descreve 
 
 ### 1. A vontade como motor
 
-> "Para vencermos nossas más inclinações, que auxílio podemos esperar? — O homem pode vencê-las sempre que o queira, pois tem o livre-arbítrio. Que dizeis a isso? Dizemos que basta a vontade. Ah! quão poucos dentre vós fazem esforços!" (LE q. 909)
-
-> "Como pode o homem destruir os maus pendores? — Pela vontade firme de fazê-lo." (LE q. 919, paráfrase do contexto)
+> "Poderia sempre o homem, pelos seus esforços, vencer as suas más inclinações? — Sim, e por vezes fazendo esforços bem pequenos. O que lhe falta é a vontade. Ah! Quão poucos dentre vós fazem esforços!" (LE q. 909)
 
 O "despojar-se do velho homem" paulino é, em vocabulário de Kardec, **trabalho da vontade contra os maus pendores**. Não é evento único nem milagre exterior — é decisão renovada todos os dias.
 
 ### 2. O esforço cotidiano do homem de bem
 
-> "Pelos esforços que o homem faz para se melhorar, por sua perseverança, por sua firmeza, por seu domínio sobre as paixões, ele se purifica e progride. Não basta que ele creia em Deus, na sua justiça, no seu poder, na sua bondade; é preciso que ele aplique a sua crença em todos os momentos, em todos os atos da vida." (ESE cap. XVII, item 4)
+> "Reconhece-se o verdadeiro espírita pela sua transformação moral e pelos esforços que emprega para domar suas inclinações más." (ESE cap. XVII, item 4)
 
 A "renovação no espírito da mente" (Ef 4:23) descrita por Paulo é **conformação progressiva** do caráter à moral evangélica — exatamente o que Kardec descreve no retrato do [[wiki/conceitos/homem-de-bem|homem de bem]] (ESE cap. XVII, item 3).
 
 ### 3. A reforma íntima como condição da regeneração
-
-> "A perfeição moral consiste em praticar a lei de justiça, de amor e de caridade na sua maior pureza." (LE q. 893)
 
 > "O verdadeiro homem de bem é o que cumpre a lei de justiça, de amor e de caridade, na sua maior pureza." (LE q. 918)
 

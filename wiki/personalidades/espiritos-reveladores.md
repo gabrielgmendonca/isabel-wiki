@@ -12,7 +12,7 @@ status: ativo
 
 Conjunto de Espíritos superiores que, por intermédio de **diversos médiuns em cidades e países distintos** e sem entendimento entre si, ditaram as respostas que Allan Kardec consolidou em *O Livro dos Espíritos* e nas demais obras do Pentateuco. Não se trata de um único comunicante nem de um grupo restrito: a codificação se apresenta, desde os Prolegômenos, como **obra coletiva da espiritualidade superior**, presidida pelo Espírito de Verdade, com Allan Kardec como organizador humano.
 
-> "A coerência dos princípios expostos, não obstante a diversidade das fontes em que os buscamos, representa fato importante para o estabelecimento da ciência espírita. Nossa correspondência mostra que comunicações idênticas em todos os pontos, ao menos quanto ao fundo, foram obtidas em diferentes localidades, e isso mesmo antes da publicação de nosso livro." (LE, Prolegômenos)
+> "A coerência dos princípios expostos, não obstante a diversidade das fontes em que os buscamos, representa fato importante para o estabelecimento da ciência espírita. Nossa correspondência mostra que comunicações idênticas em todos os pontos, ao menos quanto ao fundo, foram obtidas em diferentes localidades, e isso mesmo antes da publicação de nosso livro." (LE, Nota sobre esta nova edição)
 
 ## Nomeados nos Prolegômenos do LE
 

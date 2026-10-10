@@ -42,19 +42,19 @@ A posição é a mesma já desenvolvida nas divergências irmãs ([[wiki/diverge
 
 ### 1. Cada Espírito é responsável pelos próprios atos
 
-> "Cada um pode fazer-se feliz, ou desgraçado? — Sim, **cada um é o seu próprio juiz**, faz-se feliz ou desgraçado, conforme o uso que faz da sua liberdade." ([[wiki/obras/livro-dos-espiritos|LE]], q. 636)
+> "O homem é quase sempre o obreiro da sua própria infelicidade. Pela prática da lei de Deus, a muitos males pode forrar-se, proporcionando a si mesmo felicidade tão grande quanto o comporte a sua existência grosseira." ([[wiki/obras/livro-dos-espiritos|LE]], q. 921)
 
 A **substituição vicária** — alguém pagar pelos pecados de outro — é categoria **estranha à doutrina de Kardec**. Cristo guia, intercede pedagogicamente, irradia auxílio fluídico, **mas não substitui** o Espírito faltoso na sua própria reabilitação (cf. ESE Introdução; OPE, "Estudo sobre a natureza do Cristo").
 
 ### 2. Nenhuma falta é irremissível, mas a remissão se dá pelo trabalho próprio
 
-> "**Nenhuma há que não possa ser resgatada**. As de maior gravidade podem-no mediante expiações **mais dolorosas e mais prolongadas**, porém a misericórdia divina é infinita." ([[wiki/obras/livro-dos-espiritos|LE]], q. 1009)
+> "Ensinam também não haver faltas irremissíveis, que a expiação não possa apagar." ([[wiki/obras/livro-dos-espiritos|LE]], Introdução, item VI)
 
 O perdão se opera por **três passos articulados** do próprio Espírito: [[wiki/conceitos/arrependimento|arrependimento]] sincero, propósito firme de não reincidir, e [[wiki/conceitos/expiacao-e-reparacao|reparação]] efetiva (LE q. 1003–1009; cf. [[wiki/questoes/arrependimento-expiacao-e-reparacao|síntese]]). **Nenhum dos três pode ser feito por outro** pelo Espírito faltoso — em particular, nenhum dos três pode ser feito **vicariamente** por Cristo no lugar do faltoso.
 
 ### 3. O Cristo como modelo, guia e auxiliar fluídico, não substituto
 
-> "Jesus, esse tipo da perfeição moral a que pode aspirar a humanidade na Terra, esse **guia e modelo para todos os homens**" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625)
+> "Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625, comentário)
 
 > "Em vez do **sacrifício sangrento**, abominável aos olhos do Senhor, ofereceis o **sacrifício do coração** e este lhe é agradável." (Espíritos comunicantes, em [[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XXVII, item 14)
 

@@ -27,7 +27,7 @@ Esse polo — o sofrimento que **criamos agora**, por uso indevido do [[wiki/con
 
 ### As vicissitudes da vida
 
-> "As vicissitudes da vida são sempre a punição de faltas passadas? — Não; nem todas, como já dissemos: são provas escolhidas pelo Espírito para se aperfeiçoar, ou expiação de faltas passadas." (LE, q. 984–985)
+> "As vicissitudes da vida são sempre a punição das faltas atuais? — Não; já dissemos: são provas impostas por Deus, ou que vós mesmos escolhestes como Espíritos, antes de encarnardes, para expiação das faltas cometidas em outra existência" (LE, q. 984)
 
 O Espírito pode também sofrer sem culpa própria aparente, por missão de abnegação ou pela própria fragilidade diante de provas escolhidas com excesso de confiança (LE, q. 259).
 

@@ -29,21 +29,20 @@ Kardec afirma o **progresso indefinido** e a **misericórdia infinita** como pil
 
 ### 1. O "bom pai" deixa sempre aberta a porta do arrependimento
 
-> **Q. 171** — "Pode um Espírito encarnar em existência corporal mais penosa, depois de ter tido uma existência corporal feliz?
-> — Sim, isso depende de seu adiantamento; as provações por que passe serão proporcionadas a esse adiantamento." ([[wiki/obras/livro-dos-espiritos|LE]], q. 171)
+> **Q. 171** — "Em que se funda o dogma da reencarnação?
+> — Na justiça de Deus e na revelação, pois incessantemente repetimos: o bom pai deixa sempre aberta a seus filhos uma porta para o arrependimento." ([[wiki/obras/livro-dos-espiritos|LE]], q. 171)
 
-> **Q. 166** — "A alma, depois da sua união com um corpo, pode reencarnar-se logo após a morte deste corpo?
-> — Pode passar um tempo mais ou menos longo no estado de Espírito errante; mas, cedo ou tarde, retoma uma nova existência para se aperfeiçoar." (LE, q. 166)
+> **Q. 166** — "Como pode a alma que não alcançou a perfeição durante a vida corpórea acabar de depurar-se?
+> — Sofrendo a prova de uma nova existência." (LE, q. 166)
 
 O pressuposto é claro: o Espírito, ainda que tenha caído, **retoma o caminho**. O "bom pai", fórmula que Kardec retoma repetidamente, "deixa sempre aberta a seus filhos uma porta para o arrependimento".
 
 ### 2. Penas temporárias e medicinais
 
-> **Q. 1009** — "Existem algumas faltas que sejam irremissíveis? Algumas que haja cuja mancha nenhuma expiação possa lavar?
-> — Não. Nenhuma há que não possa ser resgatada. As de maior gravidade podem-no mediante expiações mais dolorosas e mais prolongadas, porém a misericórdia divina é infinita." (LE, q. 1009)
+> "Ensinam também não haver faltas irremissíveis, que a expiação não possa apagar." (LE, Introdução, item VI)
 
-> **Q. 1010** — "Não está o Espírito em tempo algum a si mesmo entregue?
-> — Jamais. Deus nunca o abandona. [...] Os bons Espíritos estão sempre prontos a escutar os que os chamam." (LE, q. 1010)
+> **Q. 1006** — "Podem durar eternamente os sofrimentos do Espírito?
+> — [...] Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da vontade de cada um." (LE, q. 1006)
 
 [[wiki/obras/ceu-e-inferno|C&I]] 1ª parte caps. VI–VII é consagrado à demonstração de que as penas são **temporárias e reparadoras**, não eternas. Toda pena é pedagogicamente orientada à recuperação do Espírito, e **termina quando o Espírito se arrepende e repara**:
 
@@ -51,8 +50,8 @@ O pressuposto é claro: o Espírito, ainda que tenha caído, **retoma o caminho*
 
 ### 3. Universalismo da salvação
 
-> **Q. 1015** — "Chegarão todos os homens, por todos os meios, cedo ou tarde, à perfeição?
-> — Sim, mas, do que se chama eternidade, cumpre não fazer uma falsa ideia. É um tempo mais ou menos longo, segundo o maior ou menor progresso dos seres. [...] Uns adiantados, outros atrasados, todos devem caminhar para o mesmo fim." (LE, q. 1009–1016, síntese)
+> **Q. 1007** — "Haverá Espíritos que nunca se arrependem?
+> — Há Espíritos de arrependimento muito tardio; pretender-se, porém, que nunca se melhorarão seria negar a lei do progresso, como alguém que dissesse que a criança não pode tornar-se adulto." (LE, q. 1007)
 
 O fim último — a perfeição moral e a comunhão com Deus — é **universal**. A diferença entre Espíritos é de **ritmo**, não de destino. Ninguém é descartado.
 

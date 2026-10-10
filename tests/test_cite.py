@@ -314,6 +314,16 @@ class CiteLMCapituloSemItemTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertIn("(LM, item 230)", out)
 
+    def test_lm_item_com_subperguntas_ordinal_ascii(self):
+        # LM caps. XXV–XXVI numeram as subperguntas como "11.a. Por que…" (ordinal
+        # ASCII). Lidas como item, truncavam o item 289 no próprio título e a
+        # resposta sobre predição com data era acusada de fabricada pelo lint.
+        code, out, _ = _run(["LM", "item 289"])
+        self.assertEqual(code, 0)
+        self.assertIn("Perguntas sobre o futuro", out)
+        self.assertIn("circunstanciada vos deve ser suspeita", out)
+        self.assertNotIn("290. Sobre as existências", out)
+
 
 class CiteRangeCapitulosTests(unittest.TestCase):
     """`(Gênese, caps. XIII–XV)` faz dump do span (início de XIII ao fim de XV)."""
@@ -354,6 +364,18 @@ class CiteSecoesAvulsasTests(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertIn("(LE, Introdução)", out)
         self.assertIn("estudo da doutrina espírita", out)
+
+
+class CiteLENotaNovaEdicaoTests(unittest.TestCase):
+    """A "Nota sobre esta nova edição" (2ª ed. do LE) fica antes da Introdução e
+    fora de toda numeração; aspa dela citada como Prolegômenos era acusada de
+    fabricada. O locus resolve só o bloco da nota."""
+
+    def test_nota_resolve_bloco_curto(self):
+        code, out, _ = _run(["LE", "Nota sobre esta nova edição"])
+        self.assertEqual(code, 0)
+        self.assertIn("A coerência dos princípios expostos", out)
+        self.assertNotIn("Para se designarem coisas novas", out)  # já é Introdução I
 
 
 class CiteInvarianteAntiSombreamentoTests(unittest.TestCase):

@@ -22,7 +22,7 @@ O materialismo é consequência do orgulho: o homem que julga saber tudo não ad
 
 Os Espíritos alertam que o materialismo é perigoso para a ordem social e moral:
 
-> "Destruindo o materialismo, que é uma das chagas da sociedade, [o Espiritismo] encaminhará os homens para a verdadeira solidariedade." (LE, Conclusão, item V)
+> "Destruindo o materialismo, que é uma das chagas da sociedade, ele faz que os homens compreendam onde se encontram seus verdadeiros interesses." (LE, q. 799)
 
 Ao negar a vida futura, o materialismo suprime o fundamento da responsabilidade moral: se nada sobrevive à morte, a noção de justiça perde sentido e o egoísmo se torna regra lógica.
 

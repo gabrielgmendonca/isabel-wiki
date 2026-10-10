@@ -14,7 +14,7 @@ Sentimento exagerado do próprio valor que leva o homem a se crer superior aos d
 
 ### Raiz de males
 
-> "O orgulho é que gera a incredulidade. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus." (LE, Introdução, item V; Parte 2, cap. I, Introdução)
+> "O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si." (LE, q. 9)
 
 O orgulho cega o Espírito para suas próprias imperfeições, impedindo-o de reconhecer a necessidade de progresso. O fisiologista materialista, por exemplo, é conduzido ao materialismo pelo orgulho — "orgulho dos homens, que julgam saber tudo e não admitem que haja coisa alguma que lhes esteja acima do entendimento" (LE, q. 147).
 

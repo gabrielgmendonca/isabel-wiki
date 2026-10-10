@@ -28,11 +28,11 @@ Tanto 2 Pe 2:4 quanto Jd 6 dependem do mito enoquita dos **Vigilantes** (*'iyrin
 
 Kardec **rejeita categoricamente** a doutrina dos anjos como criatura à parte, dos anjos criados perfeitos que decaíram, e do "inferno" como prisão eterna ou semi-eterna. A formulação programática está em [[wiki/obras/livro-dos-espiritos|*O Livro dos Espíritos*]] q. 128–132:
 
-> "**Os Espíritos foram criados todos iguais ou Deus os criou mais ou menos perfeitos?**
-> — Deus os criou todos simples e ignorantes, isto é, sem ciência. A cada um deu uma missão, com o fim de esclarecê-los e de fazê-los chegar progressivamente à perfeição, pelo conhecimento da verdade, para deles os aproximar. Para eles essa perfeição está na felicidade eterna e sem perturbação. Mas, ao chegarem a essa felicidade após haverem suportado as provas que Deus lhes impõe, dela fruem mais deliciosamente." (LE q. 115)
+> "**Dos Espíritos, uns terão sido criados bons e outros maus?**
+> — Deus criou todos os Espíritos simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da verdade, e para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade." (LE q. 115)
 
-> "**Existe o diabo?**
-> — Se ele existisse, seria obra de Deus, e Deus não seria nem justo, nem bom, pois nada teria feito senão para tornar o homem desgraçado. [...] **O diabo, como vulgarmente se entende, com forma e atributos hediondos, simplesmente não existe**." (LE q. 131)
+> "**Há demônios, no sentido que se dá a esta palavra?**
+> — Se houvesse demônios, seriam obra de Deus. Mas, porventura, Deus seria justo e bom se houvera criado seres destinados eternamente ao mal e a permanecerem eternamente desgraçados?" (LE q. 131)
 
 A refutação detalhada está em [[wiki/obras/ceu-e-inferno|*O Céu e o Inferno*]] **1ª parte cap. IX** ("Anjos e demônios"), que articula cinco argumentos sistemáticos contra a doutrina da queda angélica:
 

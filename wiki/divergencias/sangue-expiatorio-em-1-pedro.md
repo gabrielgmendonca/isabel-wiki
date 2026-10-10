@@ -40,19 +40,19 @@ A posição de Kardec é a mesma já desenvolvida em [[wiki/divergencias/sangue-
 
 ### 1. Cada Espírito é responsável pelos próprios atos
 
-> "Cada um pode fazer-se feliz, ou desgraçado? — Sim, **cada um é o seu próprio juiz**, faz-se feliz ou desgraçado, conforme o uso que faz da sua liberdade." ([[wiki/obras/livro-dos-espiritos|LE]], q. 636)
+> "O homem é quase sempre o obreiro da sua própria infelicidade. Pela prática da lei de Deus, a muitos males pode forrar-se, proporcionando a si mesmo felicidade tão grande quanto o comporte a sua existência grosseira." ([[wiki/obras/livro-dos-espiritos|LE]], q. 921)
 
 A figura do "advogado" e da "propiciação" admite-se em **sentido moral** — Cristo guia, intercede pedagogicamente, irradia auxílio fluídico — mas não substitui o réu no juízo (cf. ESE Introdução; OPE, "Estudo sobre a natureza do Cristo").
 
 ### 2. Nenhuma falta é irremissível, mas a remissão se dá pela reforma íntima
 
-> "**Nenhuma há que não possa ser resgatada**. As de maior gravidade podem-no mediante expiações **mais dolorosas e mais prolongadas**, porém a misericórdia divina é infinita." ([[wiki/obras/livro-dos-espiritos|LE]], q. 1009)
+> "Ensinam também não haver faltas irremissíveis, que a expiação não possa apagar." ([[wiki/obras/livro-dos-espiritos|LE]], Introdução, item VI)
 
 O perdão divino se opera por **três passos articulados**, todos do próprio Espírito: [[wiki/conceitos/arrependimento|arrependimento]] sincero, propósito firme de não reincidir, e [[wiki/conceitos/expiacao-e-reparacao|reparação]] efetiva (LE q. 1003–1009; cf. [[wiki/questoes/arrependimento-expiacao-e-reparacao|síntese da sequência]]). Nenhum dos três pode ser feito por outro pelo Espírito faltoso.
 
 ### 3. "Fora da caridade não há salvação"
 
-> "**O homem é não somente responsável pelo mal que faz, mas pelo bem que não faz**." ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV, item 10)
+> "Para agradar a Deus e assegurar a sua posição futura bastará que o homem não pratique o mal? — Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto **responderá por todo mal que haja resultado de não haver praticado o bem**." ([[wiki/obras/livro-dos-espiritos|LE]], q. 642)
 
 A **omissão pessoal do bem** não pode ser suprida por mérito alheio. A salvação se opera pela **prática efetiva** dos preceitos do Cristo, não pelas declarações de fé.
 
@@ -64,7 +64,7 @@ A categoria de "dívida infinita ofendida a Deus" pressupõe um Deus passível d
 
 ### 5. Cristo como modelo, guia e auxiliar fluídico, não substituto
 
-> "Jesus, esse tipo da perfeição moral a que pode aspirar a humanidade na Terra, esse **guia e modelo para todos os homens**" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625)
+> "Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625, comentário)
 
 > "Em vez do **sacrifício sangrento**, abominável aos olhos do Senhor, ofereceis o **sacrifício do coração** e este lhe é agradável." (Espíritos comunicantes, em ESE cap. XXVII, item 14)
 

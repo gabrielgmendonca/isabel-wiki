@@ -87,7 +87,7 @@ Eixo central da obra. Diferentemente de *Urânia* (Spero individual reencarnado 
 
 > *"Júpiter recebeu a herança da Terra. Nosso mundo completou sua tarefa, não mais haverá gerações neste ambiente... Adeus!"* (Parte II, cap. VI — fala da mãe de Eva "ressurgida")
 
-A formulação é consistente com a doutrina de Kardec, ainda que Flammarion a leve a uma escala literária extrema: (LE q. 173) sustenta que o Espírito *"pode reencarnar no mesmo globo ou passar a mundos superiores"*; (LE q. 222) ensina que os mundos diferem pelo grau de adiantamento físico e moral; (ESE cap. III) articula a escala canônica dos cinco tipos de mundos habitados — ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]]. Júpiter na narrativa funciona como mundo destinatário sucessor — sem que Flammarion articule explicitamente a escala de Kardec, a posição doutrinária é coerente.
+A formulação é consistente com a doutrina de Kardec, ainda que Flammarion a leve a uma escala literária extrema: (LE q. 173) sustenta que o Espírito pode viver muitas vezes no mesmo globo ou passar a um mundo superior; (LE q. 222) ensina que os mundos diferem pelo grau de adiantamento físico e moral; (ESE cap. III) articula a escala canônica dos cinco tipos de mundos habitados — ver [[wiki/conceitos/pluralidade-dos-mundos-habitados]]. Júpiter na narrativa funciona como mundo destinatário sucessor — sem que Flammarion articule explicitamente a escala de Kardec, a posição doutrinária é coerente.
 
 ### 2. Aparição de Khéops — núcleo doutrinário (Parte II, cap. VII)
 

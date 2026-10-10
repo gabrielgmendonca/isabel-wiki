@@ -20,7 +20,7 @@ Kardec não usa a expressão "onda mental" — termo que pertence ao vocabulári
 
 ### Influência do pensamento (LE)
 
-> "Já vos dissemos: o pensamento é uma emanação do Espírito; mas, assim como a chama produz luz, o pensamento produz fluido." (LE, q. 459, comentário)
+> "Os Espíritos atuam sobre os fluidos espirituais, não manipulando-os como os homens manipulam os gases, mas empregando o pensamento e a vontade. Para os Espíritos, o pensamento e a vontade são o que é a mão para o homem." (Gênese, cap. XIV, item 14)
 
 O pensamento é, portanto, **agente fluídico real** — não abstração mental. Pelo pensamento o Espírito atrai a si os Espíritos afins (LE, q. 459) e por ele se distancia dos contrários: a sintonia moral é a lei magnética da convivência espiritual.
 

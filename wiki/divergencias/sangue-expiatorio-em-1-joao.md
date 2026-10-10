@@ -34,20 +34,15 @@ Kardec rejeita a leitura literalista da expiação vicária. Não rejeita o valo
 
 ### 1. Cada Espírito é responsável pelos próprios atos
 
-> **Q. 636** — "Cada um pode fazer-se feliz, ou desgraçado?
-> — Sim, cada um é o seu próprio juiz, faz-se feliz ou desgraçado, conforme o uso que faz da sua liberdade." ([[wiki/obras/livro-dos-espiritos|LE]], q. 636)
-
-> **Q. 875** — "Devem os homens descansar somente em Deus para ser felizes na terra?
-> — Cada um trabalha para si próprio. Se descansam só em Deus, sem trabalhar, são preguiçosos." (LE, q. 875)
+> "O homem é quase sempre o obreiro da sua própria infelicidade. Pela prática da lei de Deus, a muitos males pode forrar-se, proporcionando a si mesmo felicidade tão grande quanto o comporte a sua existência grosseira." ([[wiki/obras/livro-dos-espiritos|LE]], q. 921)
 
 A responsabilidade individual é **estrutural**: o Espírito é juiz de si mesmo perante Deus pelas próprias ações. A figura do "advogado" (1 Jo 2:1) admite-se em sentido moral — Cristo guia, intercede pedagogicamente, irradia auxílio fluídico — mas não substitui o réu no juízo.
 
 ### 2. Nenhuma falta é irremissível, mas a remissão se dá pela reforma íntima
 
-> **Q. 1009** — "Existem algumas faltas que sejam irremissíveis? Algumas que haja cuja mancha nenhuma expiação possa lavar?
-> — Não. Nenhuma há que não possa ser resgatada. **As de maior gravidade podem-no mediante expiações mais dolorosas e mais prolongadas**, porém a misericórdia divina é infinita." ([[wiki/obras/livro-dos-espiritos|LE]], q. 1009)
+> "Ensinam também não haver faltas irremissíveis, que a expiação não possa apagar." (LE, Introdução, item VI)
 
-> **Q. 1006** — "O remorso é a primeira punição que o Espírito sofre, é o aviso que Deus lhe dá para que entre no caminho do bem. Quando o remorso é seguido do **arrependimento**, do **propósito de reparar** o mal e da **reparação efetiva**, então a falta começa a ser apagada." (LE, q. 1003–1006, síntese)
+> "O arrependimento é o primeiro passo para o aperfeiçoamento; mas sozinho não basta; são precisas ainda a expiação e a reparação. Arrependimento, expiação e reparação são as três condições necessárias para apagar os traços de uma falta e suas consequências." (C&I, 1ª parte, cap. VII, item 16)
 
 O perdão divino se opera por **três passos articulados**, todos do próprio Espírito:
 
@@ -59,11 +54,11 @@ Nenhum dos três pode ser feito **por outro pelo Espírito faltoso**. O sacrifí
 
 ### 3. "Fora da caridade não há salvação"
 
-Em ESE cap. XV (item 5), Kardec consolida a fórmula central: a salvação se opera pela **prática do bem**, não pela confissão de fé acompanhada de inação:
+Em ESE cap. XV (item 3), Kardec consolida a fórmula central: a salvação se opera pela **prática do bem**, não pela confissão de fé acompanhada de inação:
 
-> "Toda a moral do Cristo se resume na caridade e na humildade. [...] A salvação não está nem nos privilégios das igrejas, nem nas práticas exteriores, nem nas declarações de fé. Está na **prática efetiva** dos preceitos do Cristo." ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV, paráfrase dos itens 4–10)
+> "Toda a moral de Jesus se resume na caridade e na humildade, isto é, nas duas virtudes contrárias ao egoísmo e ao orgulho." ([[wiki/obras/evangelho-segundo-o-espiritismo|ESE]] cap. XV, item 3)
 
-E no item 10 do mesmo capítulo, a chave decisiva: "**O homem é não somente responsável pelo mal que faz, mas pelo bem que não faz**" — formulação que torna a expiação vicária estruturalmente impossível: a omissão pessoal do bem **não pode** ser suprida por mérito alheio.
+E os Espíritos dão a chave decisiva: o homem "**responderá por todo mal que haja resultado de não haver praticado o bem**" ([[wiki/obras/livro-dos-espiritos|LE]], q. 642) — formulação que torna a expiação vicária estruturalmente impossível: a omissão pessoal do bem **não pode** ser suprida por mérito alheio.
 
 ### 4. Penas temporárias e medicinais
 
@@ -73,7 +68,7 @@ A própria categoria de "dívida infinita ofendida" pressupõe um Deus passível
 
 ### 5. Cristo como modelo e guia, não como substituto
 
-> "Jesus, esse tipo da perfeição moral a que pode aspirar a humanidade na Terra, esse guia e modelo para todos os homens" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625)
+> "Para o homem, Jesus constitui o tipo da perfeição moral a que a humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo" ([[wiki/obras/livro-dos-espiritos|LE]], q. 625, comentário)
 
 > "Em vez do sacrifício sangrento, abominável aos olhos do Senhor, ofereceis o sacrifício do coração e este lhe é agradável." (Espíritos comunicantes, em ESE cap. XXVII, item 14)
 

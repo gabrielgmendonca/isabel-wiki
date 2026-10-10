@@ -52,8 +52,6 @@ Na *Gênese* de Kardec, a figura bíblica de Adão não é o primeiro ser humano
 
 > "Foi uma dessas grandes imigrações, ou, se quiserem, uma dessas colônias de Espíritos, vinda de outra esfera, que deu origem à raça simbolizada na pessoa de Adão e, por essa razão mesma, chamada raça adâmica. Quando ela aqui chegou, a Terra já estava povoada desde tempos imemoriais, como a América, quando aí chegaram os europeus." (Gênese, cap. XI, item 38)
 
-> "A gênese mosaica, tomada ao pé da letra, é insustentável diante da ciência positiva. [...] Adão não é o primeiro homem da humanidade terrestre, mas o primeiro de um grupo específico." (Gênese, cap. XI, itens 38–44)
-
 Se Adão não é o primeiro homem, nem é pai de toda a humanidade, **a tese de uma culpa transmitida desde ele à totalidade do gênero humano não se sustenta nem histórica nem cosmologicamente**. Ver [[wiki/conceitos/raca-adamica]].
 
 ### 3. Sofrimentos próprios da trajetória de cada alma
@@ -62,7 +60,7 @@ O que Paulo descreve como consequência universal de uma falta ancestral, o Espi
 
 > "As vicissitudes da vida derivam de uma causa e, pois que Deus é justo, justa há de ser essa causa. [...] Por meio dos ensinos de Jesus, Deus pôs os homens na direção dessa causa, e hoje, julgando-os suficientemente maduros para compreendê-la, lhes revela completamente a aludida causa, por meio do Espiritismo." (ESE, cap. V, item 3)
 
-> "As aflições da vida presente [são], em primeiro lugar, consequência da imperfeição do homem, Espírito encarnado, ou desta imperfeição em outra existência, [...] em segundo lugar, provas que o próprio Espírito escolheu, no estado errante, antes desta reencarnação." (ESE, cap. V, item 4 — síntese)
+> "De duas espécies são as vicissitudes da vida, ou, se o preferirem, promanam de duas fontes bem diferentes, que importa distinguir. Umas têm sua causa na vida presente; outras, fora desta vida." (ESE, cap. V, item 4)
 
 A "morte que passou a todos" (Rm 5:12) é, na leitura espírita, a condição da encarnação em mundo de expiações e provas (C&I, 1ª parte, cap. III) — não marca de culpa ancestral, mas **passagem natural** num planeta em processo de progresso moral. Ver [[wiki/conceitos/provas-e-expiacoes]], [[wiki/conceitos/mundos-de-expiacao-e-provas]].
 

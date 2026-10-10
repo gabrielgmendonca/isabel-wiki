@@ -3,14 +3,14 @@
 > Estratégia e pendências abertas, organizadas por eixo (não por cronologia). Itens **concluídos** saem do corpo e viram uma linha no apêndice [Concluído](#concluído) — o detalhe vive no git e, quando é lição que precisa sobreviver, numa rule ou memória.
 > **Números operacionais vêm de script** (o comando fica ao lado) e não são congelados aqui: medição velha no ROADMAP envelhece em silêncio.
 > A numeração das seções é estável — código, testes e skills referenciam `§5`, `§10.3`, `§11`, `§12`.
-> Última revisão: 2026-10-09.
+> Última revisão: 2026-10-10.
 
 ---
 
 ## Prioridades
 
 1. **★ Repensar o fechamento do §11** (§5) — a tentativa de julho (`/preparo`) foi abandonada por pouco prática; o §11 segue com 117 itens abertos que só o Gabriel fecha. É o gargalo do projeto.
-2. **Triagem das aspas em blockquote** (§12, Fase 3) — a classe mais grave de erro de fidelidade (aspa atribuída a Kardec que não está na fonte).
+2. **Promover os gates de aspas** (§12) — o backlog foi a zero em 2026-10-10; sem gate, aspa escrita de memória volta a entrar. Barato: é só severidade + hook.
 3. **Check de intervalo de questões que atravessa capítulo do LE** (§5) — camada 0; fecha a classe do `q. 873-919`.
 4. **Medir a taxa de diferimento da `/critica`** (§5) — pré-requisito para voltar a rodá-la em escala.
 5. **Questões-chave dos blocos sub-cobertos do LE** (§3) — o maior buraco de conteúdo.
@@ -303,8 +303,8 @@ Rascunhos do `/ingest` que precisam de **escrita**, não de promoção — o `/d
 
 A wiki e `raw/kardec/pentateuco/` usam a mesma edição (Guillon Ribeiro/FEB): aspa genuína bate verbatim com o `cite.py`; aspa fabricada diverge muito. `reverse_locus.classify` separa os candidatos em **misattributed** (aspa existe, noutro locus), **fabricated**, **paraphrase** e **uncertain**. Prevenção na origem: `insert_quote.py` (aspa só da fonte, autoverificada) + rule `verificacao-citacao.md`. Estado dos gates: `check_citation_resolves` = `error`/CI; `check_quote_misattributed` = `warning` + hook (allowlist em `data/citacao-aspas-aceitas.json`); `check_literal_quote_exists` = `info`.
 
-- [ ] **Triagem das aspas em blockquote (Fase 3)** — desde que o scan passou a varrer blockquotes (2026-07-13), o backlog é de ~79 candidatos (56 fabricated · 13 paraphrase · 10 uncertain na medição de jul/2026; o resultado do dia sai do `check_literal_quote_exists`). Os falsos positivos de extração do `cite.py` foram a zero (sombreamento de item consertado; dois casos residuais — "Conclusão, item N" e ordinal ASCII da Gênese — consertados em 2026-10-09). **Isto é exatamente uma classe decidível por política** (ver ★ do §5): a decisão "aspa que não bate com a fonte vira paráfrase com o mesmo locus" fecha quase tudo de uma vez; sobra para revisão só o que tem cobertura alta noutro locus (reancorar) ou inverte o sentido da fonte.
-- [ ] **Promover os gates** — `misattributed` a `error`/CI quando a confiança consolidar; depois `fabricated`, com uma baseline que só encolhe (cada página nova ou editada não pode introduzir aspa fabricada). Manter `uncertain`/`paraphrase` como `info`.
+- [ ] **Promover os gates** — o backlog está em **0** desde 2026-10-10 (`check_literal_quote_exists` e `check_quote_misattributed` zerados), então a "baseline que só encolhe" já nasce vazia: `fabricated` pode ir direto a `warning` + hook de edição (como a `misattributed`) e ambas a `error`/CI depois de algumas semanas sem falso positivo. Manter `uncertain`/`paraphrase` como `info`.
+- [ ] **Aspa com a citação ANTES** — o scan só casa `"aspa" (LOCUS)`. A forma `ESE cap. V item 12 ensina que "…"` e a aspa solta sem parêntese adjacente não são conferidas (vistas em `vazio-existencial`, `medo`, `egoismo` durante a triagem). Medir antes de decidir: é ponto cego do mesmo tamanho que o do wikilink?
 - [ ] **Estender a loci que o `cite.py` não fragmenta** (Introdução/Conclusão por item); onde não resolve, abster.
 
 **Limites:** cobre só o Pentateuco. Aspas de autores complementares seguem dependentes da LLM — aceitável, porque as mais sensíveis são as de Kardec.
@@ -409,6 +409,7 @@ Revisar a cada trimestre.
 - `check_quote_misattributed` como `warning` + hook; `insert_quote.py` (2026-06-17).
 - Triagem das 128 aspas inline (2026-07-04).
 - Scan de blockquotes + 6 mal-atribuições corrigidas (2026-07-13).
+- Fase 3 fechada: 86 aspas que não batiam com a fonte trocadas pelo literal (ou reancoradas, ou desaspadas) em 49 páginas — backlog 75 → 0; scan passa a ver sigla em wikilink; `cite.py` resolve subperguntas "N.a." do LM e a "Nota sobre esta nova edição" do LE (2026-10-10).
 
 **§13 — Terminologia**
 - "kardequiano/a" → "de Kardec": 688 → 0 + `check_kardequiano` como gate (2026-06-07); "kardequista" adicionado (2026-10-09).

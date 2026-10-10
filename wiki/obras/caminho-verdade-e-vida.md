@@ -83,7 +83,7 @@ Cap. 13 ("Que é a carne?", sobre Gálatas 5.25). Reformulação pastoral do mec
 
 > "Cada personalidade espiritual tem o seu corpo fluídico e ainda não percebestes, porventura, que a carne é um composto de fluidos condensados? (…) Podemos figurá-lo como casa terrestre, dentro da qual o Espírito é dirigente, habitação essa que tomará as características boas ou más de seu possuidor. Quando falamos em pecados da carne, podemos traduzir a expressão por faltas devidas à condição inferior do homem espiritual sobre o planeta. Os desejos aviltantes, os impulsos deprimentes, a ingratidão, a má-fé, o traço do traidor, nunca foram da carne." (cap. 13)
 
-A imputação moral cabe ao espírito; a carne é meio, não causa. Articula-se com [[wiki/conceitos/perispirito]] e com a tese de Kardec de que *"a alma é o princípio da vida moral"* (LE, q. 134).
+A imputação moral cabe ao espírito; a carne é meio, não causa. Articula-se com [[wiki/conceitos/perispirito]] e com a definição da alma como "um Espírito encarnado" (LE, q. 134).
 
 ## Temas centrais
 

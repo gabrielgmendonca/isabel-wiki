@@ -46,6 +46,7 @@ from cite import (
     _HEADING_RE,
     _INDEX_LINE_RE,
     _INDEX_PART_RE,
+    _ITEM_LEM_RE,
     _ITEM_RE,
     _PART_ORDINAL,
     _find_block,
@@ -138,17 +139,20 @@ def _segments_from_range(
     descarta enumerações e sub-perguntas embutidas — espelhando o "primeiro match"
     do `extract_capitulo` de cite.py. `lo` reinicia a cada capítulo (chamada),
     logo a contagem por-capítulo recomeça naturalmente."""
+    # LE/LM: mesmo marcador que `extract_le`/`extract_lm` (rejeita o ordinal, que
+    # ali é sempre enumeração ou subpergunta dentro do item — nunca item novo).
+    item_re = _ITEM_LEM_RE if sigla in ("LE", "LM") else _ITEM_RE
     segs: list[Segment] = []
     last_n = 0
     for i in range(lo, min(hi, len(lines))):
-        m = _ITEM_RE.match(lines[i])
+        m = item_re.match(lines[i])
         if not m:
             continue
         n = int(m.group(1))
         if n <= last_n:
             continue
         last_n = n
-        end = _find_block(lines, i, [_ITEM_RE, _HEADING_RE])
+        end = _find_block(lines, i, [item_re, _HEADING_RE])
         end = min(end, hi)
         text = "\n".join(lines[i:end])
         segs.append(Segment(_fmt_ref(sigla, part, roman, n), normalize(text), i + 1, end))

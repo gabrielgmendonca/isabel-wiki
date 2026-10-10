@@ -34,7 +34,7 @@ A prova racional e factual não compete com a fé: produz a **fé raciocinada**,
 
 ### O limite: o fenômeno não é o fim
 
-O fenômeno **prova** a sobrevivência, mas a finalidade do Espiritismo é **moral**: *"o Espiritismo nos faz compreender [...] a solidariedade que liga todos os seres"* (ESE, cap. IV). Reduzir o Espiritismo à demonstração fenomênica — sem reforma íntima — é desfigurá-lo (ver [[wiki/personalidades/charles-richet]] e a crítica da metapsíquica meramente fenomenalista).
+O fenômeno **prova** a sobrevivência, mas a finalidade do Espiritismo é **moral**: ele *"ensina aos homens a grande solidariedade que os há de unir como irmãos"* (LE, q. 799). Reduzir o Espiritismo à demonstração fenomênica — sem reforma íntima — é desfigurá-lo (ver [[wiki/personalidades/charles-richet]] e a crítica da metapsíquica meramente fenomenalista).
 
 ## Desdobramentos
 

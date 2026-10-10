@@ -30,7 +30,7 @@ O arrependimento abre a porta; a expiação purifica pelo sofrimento; a reparaç
 
 ### Nenhum Espírito é inacessível ao arrependimento
 
-> "Pretender que certos Espíritos nunca se arrependerão seria negar a lei do progresso e dizer que a criança não pode vir a ser homem." (LE, q. 993)
+> "Há Espíritos de arrependimento muito tardio; pretender-se, porém, que nunca se melhorarão seria negar a lei do progresso, como alguém que dissesse que a criança não pode tornar-se adulto." (LE, q. 1007)
 
 Após a morte, o Espírito perverso reconhece sempre as suas faltas, embora nem sempre esteja disposto a repará-las de imediato (LE, q. 994).
 

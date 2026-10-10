@@ -1888,3 +1888,16 @@ Página inicial (`index.md`) revista: os três compromissos da wiki logo na aber
 - A remissão interna "seção 3 do CLAUDE.md" passou a apontar para [[wiki/divergencias/index]].
 
 Acrescentada a aspa da OPE ("Estudo sobre a natureza do Cristo", §I) sobre a autoridade dos escritos apostólicos. ROADMAP §11 "kardequiana" fechado (não havia ocorrência).
+
+## [2026-10-10] lint | Aspas do Pentateuco: backlog 75 → 0 (ROADMAP §12, Fase 3)
+
+O `check_literal_quote_exists` acusava 75 aspas atribuídas a Kardec que não batiam com o locus citado (53 fabricated · 13 paraphrase · 9 uncertain, em 48 páginas). Conferidas uma a uma contra `raw/kardec/pentateuco/`: 73 eram de fato texto escrito de memória; 2 eram genuínas e a ferramenta é que não as enxergava.
+
+**Conserto das páginas** — a regra foi, nesta ordem: (1) o locus citado trata do assunto → trocar a aspa pelo texto literal dele; (2) o texto verdadeiro mora noutro locus → reancorar com o literal de lá (ex.: "não haver faltas irremissíveis" é da Introdução VI do LE, não da q. 1009; "as vicissitudes da vida corpórea constituem expiação…" é o comentário da q. 399; a regra de ouro como resumo dos deveres é ESE XI, 4, não XII, 6); (3) não há texto que sustente a aspa → tirar as aspas e parafrasear, ou remover o bloco quando era duplicata de uma aspa genuína vizinha. Nenhuma aspa nova foi digitada sem passar pelo lint depois.
+
+**Ferramenta** — três lacunas fechadas, cada uma com teste de regressão:
+- `cite.py`/`reverse_locus.py`: as subperguntas "11.a. …" dos itens 282–296 do LM eram lidas como itens e reduziam o item 289 ao título.
+- `cite.py`: a "Nota sobre esta nova edição" do LE passou a ser locus citável (`espiritos-reveladores` a citava como Prolegômenos).
+- `lint_wiki.py`: a sigla em wikilink (`([[wiki/obras/…|LE]], q. N)`) escondia a citação do scan — ao desembrulhar, apareceram mais 13 aspas em 5 páginas de `divergencias/`, consertadas no mesmo lote. De quebra some o falso positivo da allowlist (a máxima em wikilink).
+
+**Para revisão humana** (o conserto mexeu no sentido, não só na letra): `sete-espiritos-de-deus` — a aspa antiga dizia que os Espíritos puros gozam a bem-aventurança "pela contemplação"; a q. 113 diz o contrário ("não é a de ociosidade monótona, a transcorrer em perpétua contemplação"), e o parágrafo seguinte da página ainda se apoia na leitura antiga; a mesma página os chamava de "terceira ordem" (são a primeira). `contentamento`, `medo`, `onda-mental` e `sangue-expiatorio-em-*` — o locus mudou e o texto em volta foi ajustado no mínimo.

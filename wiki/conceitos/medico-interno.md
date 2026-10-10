@@ -24,7 +24,7 @@ A imagem condensa a tese psicossomática espírita: **a saúde não é evento me
 
 A base doutrinária está em LE q. 459 e seguintes, sobre a influência dos Espíritos nos pensamentos e ações:
 
-> "Os Espíritos influem sobre os nossos pensamentos e ações [...]. Há os que nos impelem ao bem e os que nos impelem ao mal." (LE, q. 459)
+> "Influem os Espíritos em nossos pensamentos e em nossos atos? — Mais do que imaginais, pois com bastante frequência são eles que vos dirigem." (LE, q. 459)
 
 A mente, como sede do Espírito encarnado, é o ponto de ressonância dessa influência — e o ponto de entrada para o seu reverso, a influência do indivíduo sobre seu próprio organismo.
 

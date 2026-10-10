@@ -28,7 +28,7 @@ A caridade aqui é "**benevolência para com todos, indulgência para as imperfe
 
 Em ESE cap. XII, Kardec sistematiza o preceito mais difícil do Evangelho — *"Amai os vossos inimigos"* (Mt 5:43-48). Comentário fundamental:
 
-> "Amar os inimigos não significa que o homem deva nutrir por eles afeição igual à que tem pelos amigos. […] Aplicado aos inimigos, [o amor] consiste na ausência do ódio, do rancor, do desejo de vingança." (ESE, cap. XII)
+> "Amar os inimigos não é, portanto, ter-lhes uma afeição que não está na natureza, visto que o contato de um inimigo nos faz bater o coração de modo muito diverso do seu bater, ao contato de um amigo. Amar os inimigos é não lhes guardar ódio, nem rancor, nem desejos de vingança" (ESE, cap. XII, item 3)
 
 Esta distinção é decisiva para a amorterapia: amar o adversário não é confundir-se com ele, mas recusar-se a alimentar o circuito de violência que ele propõe.
 

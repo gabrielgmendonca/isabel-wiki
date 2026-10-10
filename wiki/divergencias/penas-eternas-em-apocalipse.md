@@ -30,13 +30,13 @@ Kardec dedica os capítulos VI, VII e VIII da 1ª parte de [[wiki/obras/ceu-e-in
 
 1. **Incompatibilidade com a justiça divina.** *"Se Deus é perfeito, a condenação eterna não existe; se ela existe, Deus não é perfeito"* (C&I, 1ª parte, cap. VI, item 15). Punição infinita por falta finita não é justa — fere a proporcionalidade que Kardec extrai do conjunto do Evangelho.
 
-2. **Incompatibilidade com a bondade divina.** A bondade infinita exclui o abandono perpétuo: *"Deus tem por si a eternidade para aguardar o arrependimento do culpado"* (C&I, 1ª parte, cap. VII).
+2. **Incompatibilidade com a bondade divina.** A bondade infinita exclui o abandono perpétuo: *"Deus não criou seres tendo por destino permanecerem votados perpetuamente ao mal"* (LE q. 1006).
 
 3. **Incompatibilidade com a presciência divina.** Se Deus sabia desde a eternidade que certos Espíritos cairiam em "danação eterna" e ainda assim os criou, **criou-os para a perda** — o que contradiz a bondade. Se não sabia, não é onisciente. Em ambos os casos, nega-se um atributo essencial (cf. C&I, 1ª parte, cap. IX, item 11).
 
 4. **Incompatibilidade com a finalidade pedagógica das penas.** Em Kardec, as penas são **medicinais**, não vingativas — visam a regeneração do Espírito (LE q. 1009; ESE cap. V; C&I 2ª parte). A pena perpétua **não regenera**, apenas perpetua o sofrimento — é fim em si mesma, contrária à lógica do progresso.
 
-5. **Incompatibilidade com a universalidade do progresso.** *"Nenhuma falta é irremissível. As de maior gravidade podem-no [ser remitidas] mediante expiações mais dolorosas e mais prolongadas, porém a misericórdia divina é infinita"* (LE q. 1009). A descrição da escala dos Espíritos (LE q. 100–113) não conhece **categoria fixa** de "irremediáveis": todos os Espíritos progridem, ainda que com velocidades diferentes (q. 1015–1019).
+5. **Incompatibilidade com a universalidade do progresso.** Os Espíritos *"ensinam também não haver faltas irremissíveis, que a expiação não possa apagar"* (LE, Introdução, item VI). A descrição da escala dos Espíritos (LE q. 100–113) não conhece **categoria fixa** de "irremediáveis": todos os Espíritos progridem, ainda que com velocidades diferentes (q. 1015–1019).
 
 A síntese de Kardec das características das penas futuras (C&I, 1ª parte, cap. VII):
 

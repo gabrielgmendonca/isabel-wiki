@@ -99,6 +99,13 @@ class MonotonicIndexTests(unittest.TestCase):
         self.assertEqual(len(refs), len(set(refs)))
         self.assertEqual(refs.count("item 2"), 1)
 
+    def test_lm_subpergunta_ordinal_ascii_fica_no_item(self):
+        # As subperguntas "11.a." do LM cap. XXVI pertencem ao item 289; antes o
+        # segmento acabava no título e o texto delas ficava fora do índice.
+        ref, cov, _ = find_loci("LM", "toda predição circunstanciada vos deve ser suspeita")[0]
+        self.assertEqual(ref, "item 289")
+        self.assertGreaterEqual(cov, 0.99)
+
 
 class WordCoverageTests(unittest.TestCase):
     def test_verbatim_is_full_coverage(self):

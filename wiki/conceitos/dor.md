@@ -18,7 +18,7 @@ Lei de equilíbrio e educação que opera o progresso do Espírito pelo sofrimen
 
 O sofrimento existe porque a Terra é mundo de expiações e provas (LE, q. 920). A dor resulta da imperfeição do Espírito e da infração às leis divinas:
 
-> "O sofrimento é, ao mesmo tempo, uma expiação do passado e uma prova para o futuro." (LE, q. 998)
+> "As vicissitudes da vida corpórea constituem expiação das faltas do passado e, simultaneamente, provas com relação ao futuro." (LE, q. 399, comentário)
 
 O Espírito escolhe o gênero de prova (LE, q. 258), mas nem todo sofrimento é expiação — há provas educativas, escolhidas livremente para adiantamento (LE, q. 259).
 
