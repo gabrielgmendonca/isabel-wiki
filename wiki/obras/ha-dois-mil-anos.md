@@ -85,7 +85,7 @@ Retratado como tirano libidinoso, ordena (via Sulpício) o sequestro de Lívia. 
 ## Temas centrais
 
 - **Reencarnação como confissão pessoal** — Emmanuel narra em primeira pessoa o ciclo Públio Sura (Cônsul ao tempo de Cícero) → Públio Lêntulus (séc. I d.C.) → Espírito comunicante; o tribunal espiritual fixa a expiação do orgulho político.
-- **Livre-arbítrio na hora da Graça** — o "minuto glorioso" como núcleo da soteriologia emanueliana: a Graça é oferecida, mas a escolha permanece com a criatura.
+- **Livre-arbítrio na hora da Graça** — o "minuto glorioso" como núcleo da soteriologia emanueliana: a Graça é oferecida, mas a escolha permanece com a criatura. Estudo comparado das respostas de Públio e de Lívia em [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]].
 - **Vida no Plano espiritual após a desencarnação** — descrição do "caminho radioso" entre Terra e Céu, das esferas próximas, da recepção pelos espíritos protetores e do encontro com Jesus.
 - **Perdão até a morte / não-violência** — Simeão como tipo do mártir cristão, recusando a legítima defesa.
 - **Cristianismo primitivo** — catacumbas romanas, igrejas de Antioquia e da Samaria, perseguição neroniana de 64 d.C., apostolado feminino (Lívia, Ana).

@@ -35,6 +35,7 @@ Após a desencarnação, Lívia é recebida no Plano espiritual por Simeão e po
 - [[wiki/personalidades/joao-de-cleofas]] — emissário de Antioquia preso com ela
 - [[wiki/personalidades/jesus]] — encontrado no Plano espiritual após o martírio
 - [[wiki/obras/ha-dois-mil-anos]] — romance da sua trajetória
+- [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]] — suas lutas íntimas e a atitude diante da calúnia, comparadas às de Públio
 - [[wiki/conceitos/bem-aventuranca-dos-perseguidos]] — quadro evangélico do martírio cristão
 
 ## Fontes

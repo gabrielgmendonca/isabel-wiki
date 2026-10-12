@@ -44,6 +44,7 @@ A obra explicita, no sonho do capítulo "Dois amigos", a conexão entre Públio 
 - [[wiki/personalidades/livia]] — esposa, mártir cristã
 - [[wiki/personalidades/jesus]] — encontrado em Cafarnaum
 - [[wiki/obras/ha-dois-mil-anos]] — romance da confissão
+- [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]] — o chamado recusado em Cafarnaum e a resposta tardia, à luz do Evangelho e do Pentateuco
 - [[wiki/conceitos/reencarnacao]] — quadro doutrinário
 
 ## Fontes
