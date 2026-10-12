@@ -188,8 +188,8 @@ class LinkCitationsTests(unittest.TestCase):
         # Não deve virar link Kardec.
         self.assertNotIn("kardecpedia", out.lower())
         self.assertNotIn("example.test/le/", out)
-        # Deve virar wikilink complementar (obra existe na fixture).
-        self.assertIn("[[wiki/obras/o-problema-do-ser-e-do-destino|", out)
+        # Deve virar link complementar (obra existe na fixture).
+        self.assertIn("](wiki/obras/o-problema-do-ser-e-do-destino)", out)
 
     # ─── Revista Espírita ─────────────────────────────────────────────────────
 
@@ -215,9 +215,14 @@ class LinkCitationsTests(unittest.TestCase):
 
     # ─── Complementares ───────────────────────────────────────────────────────
 
-    def test_complementar_known_obra_becomes_wikilink(self) -> None:
+    def test_complementar_known_obra_becomes_link(self) -> None:
+        # O rótulo tem *itálico*: sai como link Markdown, que o Quartz renderiza
+        # (wikilink com ênfase no rótulo aparece literal no HTML).
         out = self.run_transform("(Emmanuel / Chico Xavier, *O Consolador*, q. 123)")
-        self.assertIn("[[wiki/obras/o-consolador|", out)
+        self.assertEqual(
+            "[(Emmanuel / Chico Xavier, *O Consolador*, q. 123)](wiki/obras/o-consolador)",
+            out,
+        )
 
     def test_complementar_unknown_obra_left_intact(self) -> None:
         text = "(Hammed, *Obra Inexistente*, cap. I)"
@@ -226,18 +231,40 @@ class LinkCitationsTests(unittest.TestCase):
     def test_complementar_strips_article_for_slug_match(self) -> None:
         # "Nosso Lar" em wiki/obras/nosso-lar.md — slug exato.
         out = self.run_transform("(André Luiz / Chico Xavier, *Nosso Lar*, cap. 1)")
-        self.assertIn("[[wiki/obras/nosso-lar|", out)
+        self.assertIn("](wiki/obras/nosso-lar)", out)
 
-    def test_complementar_wikilink_uses_wiki_prefix(self) -> None:
+    def test_complementar_link_uses_wiki_prefix(self) -> None:
         # Regressão (2026-05-22): o gerador produzia `[[obras/<slug>|...]]` sem o
         # prefixo `wiki/`, que não resolve no Quartz nem no `check_broken_links`
         # do lint (este só audita o source, e o link malformado nasce em CI).
-        # Toda referência a obra dentro de wikilink deve trazer o prefixo `wiki/`.
+        # Toda referência a obra deve trazer o prefixo `wiki/`.
         out = self.run_transform(
             "(André Luiz / Chico Xavier, *Nosso Lar*, cap. 1)",
         )
-        self.assertIn("[[wiki/obras/nosso-lar|", out)
-        self.assertNotIn("[[obras/", out)
+        self.assertIn("](wiki/obras/nosso-lar)", out)
+        self.assertNotIn("(obras/", out)
+
+    # ─── Wikilink com ênfase no rótulo → link Markdown ────────────────────────
+
+    def test_handwritten_wikilink_with_italic_alias_becomes_markdown_link(self) -> None:
+        out = self.run_transform("Ver [[wiki/obras/nosso-lar|*Nosso Lar*]], cap. 1.")
+        self.assertEqual("Ver [*Nosso Lar*](wiki/obras/nosso-lar), cap. 1.", out)
+
+    def test_wikilink_with_plain_alias_left_intact(self) -> None:
+        text = "Ver [[wiki/obras/nosso-lar|Nosso Lar]] e [[wiki/obras/nosso-lar]]."
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_emphasis_wikilink_keeps_anchor_and_table_pipe(self) -> None:
+        out = self.run_transform("| [[wiki/obras/nosso-lar#resumo\\|*Nosso Lar*]] |")
+        self.assertEqual("| [*Nosso Lar*](wiki/obras/nosso-lar#resumo) |", out)
+
+    def test_emphasis_wikilink_in_code_and_embed_left_intact(self) -> None:
+        text = "`[[wiki/obras/nosso-lar|*Nosso Lar*]]` e ![[wiki/obras/nosso-lar|*Nosso Lar*]]"
+        self.assertEqual(text, self.run_transform(text))
+
+    def test_snake_case_alias_is_not_emphasis(self) -> None:
+        text = "[[wiki/obras/nosso-lar|nosso_lar_v2]]"
+        self.assertEqual(text, self.run_transform(text))
 
 
     # ─── Bíblia ───────────────────────────────────────────────────────────────

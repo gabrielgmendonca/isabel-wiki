@@ -5,8 +5,10 @@
   no nível do capítulo (LE também resolve via questão).
 - Citações da *Revista Espírita* `(RE, mês/ano, …)` → link para o primeiro
   artigo do mês na Kardecpédia (ou para o índice do ano, se o mês não casar).
-- Citações de complementares no formato `(Autor, *Obra*, ref)` → wikilink para
+- Citações de complementares no formato `(Autor, *Obra*, ref)` → link para
   `wiki/obras/<slug-da-obra>` quando a página existir.
+- Wikilinks com `*ênfase*` no rótulo (gerados aqui ou escritos à mão) → link
+  Markdown equivalente, porque o Quartz não converte wikilink com ênfase.
 
 Não toca citações dentro de [[wikilinks]] existentes, [texto](url) já linkado,
 `código inline` ou ``` blocos cercados ```.
@@ -88,6 +90,15 @@ MONTHS_NORM = {
 COMPL_RE = re.compile(
     r"\((?P<head>[^()*]*?),\s*\*(?P<obra>[^*\n]+)\*(?P<tail>[^)]*)\)"
 )
+
+# ─── Wikilink com ênfase no rótulo ────────────────────────────────────────────
+# O Quartz só converte wikilink contido num único nó de texto; `*itálico*` no
+# rótulo parte o nó e o `[[…|…]]` sai literal no HTML. Link Markdown aceita
+# ênfase no rótulo, então esses casos são reescritos como `[rótulo](alvo)`.
+WIKILINK_ALIAS_RE = re.compile(
+    r"\[\[(?P<target>[^\[\]|\n]+?)\\?\|(?P<alias>[^\[\]\n]+)\]\]"
+)
+EMPHASIS_RE = re.compile(r"\*[^*\s][^*\n]*\*|(?<!\w)_[^_\s][^_\n]*_(?!\w)")
 
 # Stop-words removidas do início do título antes do slug match (artigos PT-BR).
 STOP_PREFIXES = ("o ", "a ", "os ", "as ", "um ", "uma ")
@@ -334,6 +345,32 @@ def link_complementar(obras_index: set[str]) -> callable:
     return repl
 
 
+def emphasis_wikilinks_to_markdown(text: str) -> str:
+    """Reescreve `[[alvo|rótulo com *ênfase*]]` como `[rótulo com *ênfase*](alvo)`."""
+    def repl(m: re.Match) -> str:
+        alias = m.group("alias")
+        if not EMPHASIS_RE.search(alias):
+            return m.group(0)
+        target = m.group("target").strip()
+        if " " in target:
+            target = f"<{target}>"
+        return f"[{alias}]({target})"
+
+    out, last = [], 0
+    for safe in SAFE_RE.finditer(text):
+        out.append(text[last:safe.start()])
+        zone = safe.group(0)
+        # Só a zona que é o próprio wikilink; code, heading e embed (`![[…]]`)
+        # seguem intactos.
+        is_embed = safe.start() > 0 and text[safe.start() - 1] == "!"
+        if zone.startswith("[[") and not is_embed:
+            zone = WIKILINK_ALIAS_RE.sub(repl, zone)
+        out.append(zone)
+        last = safe.end()
+    out.append(text[last:])
+    return "".join(out)
+
+
 def transform(
     text: str,
     mapping: dict,
@@ -365,7 +402,7 @@ def transform(
         out.append(safe.group(0))
         last = safe.end()
     out.append(dispatch(text[last:]))
-    return "".join(out)
+    return emphasis_wikilinks_to_markdown("".join(out))
 
 
 def process_path(
