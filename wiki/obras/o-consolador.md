@@ -6,7 +6,7 @@ direitos:
   detentor: FEB
   ano_dp_estimado: 2073
   url_aquisicao: https://www.febeditora.com.br/o-consolador
-atualizado_em: 2026-05-04
+atualizado_em: 2026-10-14
 status: ativo
 ---
 
@@ -101,6 +101,9 @@ Religião é "o sentimento Divino" cuja exteriorização é o Amor; Ciência e F
 > [!warning] Divergência com Kardec — Almas gêmeas (q. 378)
 > Emmanuel formula uma teoria de "almas gêmeas" criadas uma para outra, contrariando explicitamente Kardec em LE, q. 298 ("Não há união particular e fatal entre duas almas"). A própria Casa de Ismael (editora de O Consolador) registrou a objeção em "Nota final"; Emmanuel respondeu pedindo modificação do texto da q. 378 e mantendo apenas uma "ressalva". A tese atenuada permanece divergente.
 > Ver [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
+
+> [!warning] Divergência com Kardec — a necessidade da carne
+> Emmanuel chama a ingestão das vísceras dos animais de "um erro de enormes consequências" e diz que os valores nutritivos "podem ser encontrados nos produtos de origem vegetal". Kardec afirma que, "dada a vossa constituição física, a carne alimenta a carne; do contrário, debilita-se o homem" (LE, q. 723). A tensão se dissolve quando se separa o princípio da q. 723 (alimentar-se "de acordo com as exigências de seu organismo") da constatação de fato de 1857. O LE prevê que a necessidade de destruir se enfraquece com o progresso (LE, q. 733), e Kardec manda o Espiritismo se modificar diante de novas descobertas (Gênese, cap. I, item 55). A nutrição atual (Academia de Nutrição e Dietética dos EUA, 2016; EAT-Lancet, 2025) dá razão à previsão de Emmanuel, com a ressalva da B12 e da dieta planejada. Emmanuel, por sua vez, pede paciência com a "máquina econômica". Análise e referências em [[wiki/questoes/destruicao-alem-da-necessidade]].
 
 ## Fontes
 

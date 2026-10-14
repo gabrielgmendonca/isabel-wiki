@@ -654,6 +654,7 @@ Q&A direta de questões específicas do Pentateuco (uma questão por página).
 - [[wiki/questoes/prece-pelos-mortos-e-visita-ao-tumulo]] — vale o coração, não o lugar: "a prece é que santifica o ato da rememoração"; o túmulo como representação exterior do pensamento; o Dia de Finados sem virtude própria (LE, q. 323).
 - [[wiki/questoes/unicidade-do-espirito]] — um só Espírito anima cada homem: refutação dos "múltiplos Espíritos"; vontade única, individualidade e responsabilidade; "tomam o efeito pela causa" (LE, q. 366).
 - [[wiki/questoes/orgaos-nao-geram-as-faculdades]] — os órgãos não geram as faculdades, são estas que os desenvolvem; refutação da frenologia/materialismo (Vicente de Paulo × celerado) em defesa do livre-arbítrio (LE, q. 370).
+- [[wiki/questoes/destruicao-alem-da-necessidade]] — a caça por prazer como "predominância da bestialidade sobre a natureza espiritual": a necessidade (sustento e segurança) é a medida do direito de destruir; o homem, dotado de livre-arbítrio, presta contas do abuso; o escrúpulo supersticioso como excesso oposto (LE, q. 735; contexto q. 733–736, 752).
 
 ## Sínteses
 
