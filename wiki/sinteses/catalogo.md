@@ -317,7 +317,7 @@ Cada pasta-raiz tem `index.md` com propósito, padrão de uso e ponteiros para o
 - [[wiki/conceitos/leis-morais/lei-de-reproducao]] — LE, q. 686–701.
 - [[wiki/conceitos/energia-sexual]] — Modalidade da força criadora que sustenta reprodução, magnetismo afetivo e sublimação; articula Kardec (Lei de Reprodução), Emmanuel (carga magnética) e André Luiz (centro genésico).
 - [[wiki/conceitos/leis-morais/lei-de-conservacao]] — LE, q. 702–727.
-- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — guerra, pena de morte (LE, q. 728–765).
+- [[wiki/conceitos/leis-morais/lei-de-destruicao]] — os sete blocos do capítulo: destruição necessária × abusiva (a necessidade como régua), flagelos, guerra, assassínio e legítima defesa, crueldade, duelo, pena de morte; lei de transição ("o homem ganha horror ao sangue"); casos de executados em *O Céu e o Inferno* e a pena de morte na lei mosaica; ecos em Emmanuel, André Luiz (*Nosso Lar*, *Ação e Reação*), Chico Xavier e Yvonne Pereira (LE, q. 728–765; ESE, cap. I, item 2, e cap. XII, itens 11–16; C&I, 2ª parte, cap. VI; RE out/1863 e mar/1866; Gênese, cap. III, item 24, e cap. XVIII, item 33).
 - [[wiki/conceitos/leis-morais/lei-de-sociedade]] — LE, q. 766–775.
 - [[wiki/conceitos/leis-morais/lei-do-progresso]] — civilização e progresso moral (LE, q. 776–802).
 - [[wiki/conceitos/leis-morais/lei-de-igualdade]] — riqueza, miséria, homem e mulher (LE, q. 803–824).
