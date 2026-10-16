@@ -6,7 +6,7 @@ direitos:
   detentor: FEB
   url_aquisicao: https://www.febeditora.com.br/ha-dois-mil-anos
   ano_dp_estimado: 2073
-atualizado_em: 2026-05-06
+atualizado_em: 2026-10-16
 status: ativo
 ---
 
@@ -29,16 +29,16 @@ A obra abre com o testemunho íntimo "Ao leitor — Na intimidade de Emmanuel" �
 
 | Arco | Cap. | Título | Ambientação |
 |------|------|--------|-------------|
-| Passado | 1 | Dois amigos | Roma, ano 31 — Públio e Flamínio Sevérus, sonho de vida pregressa |
+| Passado | 1 | Dois amigos | Roma, ano 31 — Públio e [[wiki/personalidades/flaminio-severus|Flamínio Severus]], sonho de vida pregressa |
 | Presente | 1 | A morte de Flamínio | Cafarnaum, ano 46 — retorno de Públio a Roma |
 | Passado | 2 | Um escravo | Roma, ano 31–32 |
 | Presente | 2 | Sombras e núpcias | Roma, ano 46 |
-| Passado | 3 | Em casa de [[wiki/personalidades/poncio-pilatos|Pilatos]] | Cesareia, ano 32 — calúnia contra Lívia |
+| Passado | 3 | Em casa de [[wiki/personalidades/poncio-pilatos|Pilatos]] | Jerusalém, ano 32 — assédio de Pilatos; pacto de Fúlvia e Sulpício |
 | Presente | 3 | Planos da treva | Roma, intrigas familiares |
 | Passado | 4 | Na Galileia | Cafarnaum, doença de Flávia |
 | Presente | 4 | Tragédias e esperanças | Roma |
 | Passado | 5 | O Messias de Nazaret | Cafarnaum, ano 33 — encontro de Públio com Jesus |
-| Presente | 5 | Nas catacumbas da fé e no circo do martírio | Roma, ano 64 — perseguição de Nero |
+| Presente | 5 | Nas catacumbas da fé e no circo do martírio | Roma, ano 58 — prisão nas catacumbas e martírio, sob Nero |
 | Passado | 6 | O rapto | Galileia, sequestro de Márcus |
 | Presente | 6 | Alvoradas do Reino do Senhor | Plano espiritual — Lívia recebida por Jesus |
 | Passado | 7 | As pregações do Tiberíade | Galileia, sermão à beira-mar |
@@ -62,13 +62,13 @@ A obra abre com mensagens psicografadas em Pedro Leopoldo entre setembro de 1938
 
 Núcleo doutrinário do livro. Em Cafarnaum, no crepúsculo de um dia da Galileia, Públio encontra Jesus à margem do lago de Genesaré. O Mestre o reconhece como *"senador"*, anuncia-se *"Pastor das almas humanas, desde a formação deste planeta"* e fixa o livre-arbítrio como eixo da redenção:
 
-> "Soa para teu espírito, neste momento, um minuto glorioso, se conseguires utilizar tua liberdade para que seja ele, em teu coração, doravante, um cântico de amor, de humildade e de fé, na hora indeterminável da redenção, dentro da eternidade… Mas, ninguém poderá agir contra a tua própria consciência, se quiseres desprezar indefinidamente este minuto ditoso!"
+> "Soa para teu espírito, neste momento, um minuto glorioso, se conseguires utilizar a tua liberdade para que seja ele, em teu coração, doravante, um cântico de amor, de humildade e de fé, na hora indeterminável da redenção, dentro da eternidade… Mas, ninguém poderá agir contra a tua própria consciência, se quiseres desprezar indefinidamente este minuto ditoso!"
 
-A filha leprosa Flávia é curada não pelo sentimento de Públio — *"é, sim, a fé e o amor de tua mulher, porque a fé é divina"*. No sonho da mesma noite, o tribunal espiritual sentencia: *"escolheste o segundo [caminho], no qual não existe amor bastante para lavar toda a iniquidade… Sofrerás muito, porque nessa estrada o jugo é inflexível e o fardo pesadíssimo."*
+A filha leprosa [[wiki/personalidades/flavia-lentulia|Flávia]] é curada não pelo sentimento de Públio — *"é, sim, a fé e o amor de tua mulher, porque a fé é divina"*. No sonho da mesma noite, o tribunal espiritual sentencia: *"escolheste o segundo [caminho], no qual não existe amor bastante para lavar toda a iniquidade… Sofrerás muito, porque nessa estrada o jugo é inflexível e o fardo pesadíssimo."*
 
 ### Lívia, a esposa-mártir
 
-Caluniada por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pilatos]], Lívia é afastada afetivamente por Públio durante 25 anos. Cristã convertida pela serva Ana e pelo apóstolo Simeão da Samaria, frequenta as catacumbas em Roma sob Nero. Presa numa reunião dirigida por João de Cleofas (emissário da igreja de Antioquia), troca, no cárcere, a toga patrícia pela túnica da serva — "buscar o Reino de Jesus com as vestiduras singelas dos que passaram pelo mundo no torvelinho doloroso das provações" — e morre nas feras do Circo Máximo.
+Caluniada por [[wiki/personalidades/fulvia-procula|Fúlvia Prócula]] e pelo lictor [[wiki/personalidades/sulpicio-tarquinius|Sulpício Tarquínius]] no gabinete de [[wiki/personalidades/poncio-pilatos|Pilatos]], [[wiki/personalidades/livia|Lívia]] é afastada afetivamente por Públio durante 25 anos. Cristã convertida pela serva [[wiki/personalidades/ana-samaritana|Ana]] e pelo apóstolo [[wiki/personalidades/simeao-da-samaria|Simeão da Samaria]], frequenta as catacumbas em Roma sob Nero. Presa numa reunião dirigida por [[wiki/personalidades/joao-de-cleofas|João de Cleofas]] (emissário da igreja de Antioquia), troca, no cárcere, a toga patrícia pela túnica da serva — "buscar o Reino de Jesus com as vestiduras singelas dos que passaram pelo mundo no torvelinho doloroso das provações" — e morre nas feras do Circo Máximo.
 
 ### O Plano espiritual após a desencarnação (cap. 6 do presente)
 
@@ -76,7 +76,7 @@ Lívia desperta nos braços de Simeão, contempla o "caminho radioso" entre a Te
 
 ### Simeão da Samaria (cap. 10 do passado)
 
-Apóstolo samaritano septuagenário, recolhe Lívia e Ana em fuga do lictor Sulpício Tarquínius, esconde-as em refúgio escavado nas rochas e enfrenta o martírio na cruz para salvá-las. Encarna a doutrina do perdão até a morte e da rejeição da legítima defesa: *"sou dos que negam o próprio direito da chamada legítima defesa, porque está escrito na Lei: 'Não Matarás', sem nenhuma cláusula que autorize o homem a eliminar o seu irmão"*. Quando Sulpício também morre — a cruz tomba sobre seu crânio — Lívia toma a frente da assembleia samaritana e pronuncia oração que inclui o algoz: *"Queremos esquecer a sua infâmia, como perdoaste aos teus algozes do alto da cruz infamante do martírio… Ajuda-nos, Senhor, para que compreendamos e pratiquemos os teus ensinos!"*
+Apóstolo samaritano septuagenário, recolhe Lívia e Ana em fuga do lictor [[wiki/personalidades/sulpicio-tarquinius|Sulpício Tarquínius]], esconde-as em refúgio escavado nas rochas e enfrenta o martírio na cruz para salvá-las. Encarna a doutrina do perdão até a morte e da rejeição da legítima defesa: *"sou dos que negam o próprio direito da chamada legítima defesa, porque está escrito na Lei que 'Não Matarás', sem nenhuma cláusula que autorize o homem a eliminar o seu irmão"*. Quando Sulpício também morre — a cruz tomba sobre seu crânio — Lívia toma a frente da assembleia samaritana e pronuncia oração que inclui o algoz: *"Queremos esquecer a sua infâmia, como perdoaste aos teus algozes do alto da cruz infamante do martírio… Ajuda-nos, Senhor, para que compreendamos e pratiquemos os teus ensinos!"*
 
 ### [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] no romance
 
@@ -88,8 +88,8 @@ Retratado como tirano libidinoso, ordena (via Sulpício) o sequestro de Lívia. 
 - **Livre-arbítrio na hora da Graça** — o "minuto glorioso" como núcleo da soteriologia emanueliana: a Graça é oferecida, mas a escolha permanece com a criatura. Estudo comparado das respostas de Públio e de Lívia em [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]].
 - **Vida no Plano espiritual após a desencarnação** — descrição do "caminho radioso" entre Terra e Céu, das esferas próximas, da recepção pelos espíritos protetores e do encontro com Jesus.
 - **Perdão até a morte / não-violência** — Simeão como tipo do mártir cristão, recusando a legítima defesa.
-- **Cristianismo primitivo** — catacumbas romanas, igrejas de Antioquia e da Samaria, perseguição neroniana de 64 d.C., apostolado feminino (Lívia, Ana).
-- **Família e expiação de calúnia** — 25 anos de silêncio conjugal como prova-expiação para Lívia.
+- **Cristianismo primitivo** — catacumbas romanas, igrejas de Antioquia e da Samaria, martírio de cristãos no circo sob Nero (58 d.C., na cronologia do romance), apostolado feminino (Lívia, Ana).
+- **Família e expiação de [[wiki/conceitos/calunia|calúnia]]** — 25 anos de silêncio conjugal como prova-expiação para Lívia.
 
 ## Conceitos tratados
 
@@ -103,21 +103,45 @@ Retratado como tirano libidinoso, ordena (via Sulpício) o sequestro de Lívia. 
 - [[wiki/personalidades/emmanuel]] — autor espiritual; encarnação como Públio Lêntulus
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/jesus]] — Mestre encontrado em Cafarnaum; Pastor das almas humanas
-- [[wiki/personalidades/publio-lentulus]] — protagonista; senador romano da gens Cornélia
-- [[wiki/personalidades/livia]] — esposa de Públio, mártir cristã sob Nero
-- [[wiki/personalidades/simeao-da-samaria]] — apóstolo samaritano, mártir crucificado
-- [[wiki/personalidades/joao-de-cleofas]] — emissário da igreja de Antioquia, mártir
-- [[wiki/personalidades/poncio-pilatos]] — procurador da Judeia
+
+### Personagens do romance
+
+O elenco gira em torno de três casas — os Lêntulus, os Severus e a família do pretor Sálvio Lentulus — e dos que as cruzam na Judeia. A coluna do desfecho mostra como cada um respondeu ao chamado; a leitura comparada está em [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]].
+
+| Personagem | Quem é | Desfecho |
+|---|---|---|
+| [[wiki/personalidades/publio-lentulus\|Públio Lêntulus]] | Senador, protagonista; Emmanuel encarnado | Recusa o "minuto glorioso"; cego, perdoa o algoz; morre em Pompeia (79) |
+| [[wiki/personalidades/livia\|Lívia]] | Esposa de Públio, cristã | Mártir no circo (58); protetora espiritual do marido |
+| [[wiki/personalidades/flavia-lentulia\|Flávia Lentúlia]] | Filha, curada por Jesus | Esposa fiel; cega pelo veneno de Aurélia; morre em Pompeia |
+| [[wiki/personalidades/marcus-lentulus\|Márcus Lêntulus]] | Filho, raptado bebê | Como "Ítalo", cega o pai em Jerusalém e é morto (70) |
+| [[wiki/personalidades/ana-samaritana\|Ana]] | Serva samaritana, sobrinha de Simeão | Apóstola anônima da casa; morre em Pompeia |
+| [[wiki/personalidades/flaminio-severus\|Flamínio Severus]] | Senador, amigo de Públio | Morre em 46; volta como Espírito protetor |
+| [[wiki/personalidades/calpurnia\|Calpúrnia]] | Esposa de Flamínio | Converte-se no leito de morte e pede perdão a Lívia (58) |
+| [[wiki/personalidades/agripa-severus\|Agripa Severus]] | Filho mais velho de Flamínio | Renuncia a Flávia; recusa o duelo; assassinado por Saul (58) |
+| [[wiki/personalidades/plinio-severus\|Plínio Severus]] | Filho mais moço, marido de Flávia | Infiel e ciumento; regenera-se tarde; morre em Pompeia |
+| [[wiki/personalidades/fulvia-procula\|Fúlvia Prócula]] | Mulher do pretor Sálvio, irmã de Cláudia | Caluniadora; morre envenenada pela filha |
+| [[wiki/personalidades/aurelia\|Aurélia]] | Filha de Fúlvia, prima de Flávia | Envenena mãe e rival; apunhalada em Antium |
+| [[wiki/personalidades/emiliano-lucius\|Emiliano Lucius]] | Marido de Aurélia | Suicida-se ao descobrir a traição |
+| [[wiki/personalidades/sulpicio-tarquinius\|Sulpício Tarquínius]] | Lictor de Pilatos | Ouve Jesus e recusa; algoz de Simeão; morto pela cruz |
+| [[wiki/personalidades/andre-de-gioras\|André de Gioras]] | Judeu de Jerusalém | Rapta Márcus, cega Públio; pede perdão antes da execução |
+| [[wiki/personalidades/saul-de-gioras\|Saul de Gioras]] | Filho de André, escravo liberto | Mata Agripa; envenenado por Araxes |
+| [[wiki/personalidades/araxes\|Araxes]] | Feiticeiro egípcio do Esquilino | Adverte Aurélia; envenena Saul |
+| [[wiki/personalidades/simeao-da-samaria\|Simeão da Samaria]] | Apóstolo samaritano | Mártir na cruz para salvar Lívia e Ana |
+| [[wiki/personalidades/joao-de-cleofas\|João de Cleofas]] | Emissário de Antioquia | Mártir no circo (58) |
+| [[wiki/personalidades/pompilio-crasso\|Pompílio Crasso]] | Senador, amigo de Públio | Morto em Jerusalém (70); reencarna como [[wiki/personalidades/helvidio-lucius\|Helvídio Lucius]] |
+| [[wiki/personalidades/poncio-pilatos\|Pôncio Pilatos]] | Procurador da Judeia | Lava as mãos; destituído, suicida-se nas Gálias |
+
+Figuras menores sem página própria: o pretor **Sálvio Lentulus**, tio de Públio; **Cláudia**, mulher de Pilatos, "alma nobre e digna"; os servos **Comênio**, homem de confiança do senador, **Sêmele**, cúmplice do rapto, e **Atheia**, que envenena Flávia a soldo de Aurélia.
 
 ## Divergências
 
 > [!warning] Divergência com Kardec — almas-gêmeas
-> Em "Alvoradas do Reino do Senhor" (cap. 6), Emmanuel faz uma entidade angélica afirmar que *"o amor é o laço de luz eterna que une todos os mundos e todos os seres da imensidade"*; Lívia chama Públio de *"alma gêmea da minha, que a sabedoria de Deus, em seus profundos e doces mistérios, destinou ao meu modo de ser, desde a aurora dos tempos"*. Kardec recusa a noção de "união particular e fatal" em LE q. 298 e rejeita "metade" como expressão inexata em q. 299. Mesma divergência já documentada para Léon Denis e para a q. 378 de *O Consolador*. Ver [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
+> Em "Alvoradas do Reino do Senhor" (cap. 6), Emmanuel faz uma entidade angélica afirmar que *"o amor é o laço de luz eterna que une todos os mundos e todos os seres da imensidade"*; Lívia chama Públio de *"alma gêmea da minha, que a sabedoria de Deus, em seus profundos e doces mistérios, destinou ao meu modo de ser, desde a aurora dos tempos"*. Kardec recusa a noção de "união particular e fatal" em LE q. 298 e rejeita "metade" como expressão inexata em q. 299. A mesma expressão aparece antes, na advertência do feiticeiro [[wiki/personalidades/araxes|Araxes]] a Aurélia, que chama Flávia de "alma gêmea" de Plínio (2ª parte, cap. III). Mesma divergência já documentada para Léon Denis e para a q. 378 de *O Consolador*. Ver [[wiki/divergencias/almas-irmas-criadas-aos-pares]].
 
 Não-divergências (registradas, mas sem callout):
 
 - O **tribunal espiritual de magistrados** que sentencia Públio antes do renascimento é dramatização literária do exame da vida que LE q. 330+ trata em chave fenomenológica — não constitui divergência doutrinária.
-- A **cura por contato direto de Jesus** em Cafarnaum é coerente com a ação fluídica que Kardec acolhe em ESE cap. XIV (Os fluidos) e Gênese cap. XIV.
+- A **cura por contato direto de Jesus** em Cafarnaum é coerente com a ação fluídica que Kardec acolhe em Gênese cap. XIV (Os fluidos).
 - O **suicídio de [[wiki/personalidades/poncio-pilatos|Pilatos]] nas Gálias** segue tradição patrística (Eusébio); não é matéria doutrinária.
 
 ## Continuação

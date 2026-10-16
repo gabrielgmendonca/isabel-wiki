@@ -2,7 +2,7 @@
 tipo: personalidade
 fontes: [Emmanuel/Chico Xavier]
 tags: [emmanuel, chico-xavier, livia, roma-antiga, cristianismo-primitivo, martir, perseguicao-de-nero, calunia, autor/emmanuel, autor/chico-xavier, grau/intermediario, tema/historia-doutrina, tema/jesus]
-atualizado_em: 2026-05-06
+atualizado_em: 2026-10-16
 status: ativo
 ---
 
@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Esposa de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] e mãe de Flávia Lentúlia e Márcus Lêntulus. Personagem central de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier, 1939). Caluniada injustamente por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] durante a permanência da família na Palestina, é afastada afetivamente do marido por 25 anos e converte-se ao cristianismo pelo apostolado de Ana e do velho Simeão da Samaria. Morre no Circo Máximo na perseguição neroniana de 64 d.C.
+Esposa de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] e mãe de Flávia Lentúlia e Márcus Lêntulus. Personagem central de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier, 1939). Caluniada injustamente por Fúlvia Prócula no gabinete de [[wiki/personalidades/poncio-pilatos|Pôncio Pilatos]] durante a permanência da família na Palestina, é afastada afetivamente do marido por 25 anos e converte-se ao cristianismo pelo apostolado de Ana e do velho Simeão da Samaria. Morre no Circo Máximo sob Nero, em 58 d.C. (2ª parte, caps. IV-VII)
 
 ## Papel
 
@@ -18,20 +18,24 @@ Lívia é, no romance de Emmanuel, o tipo da **fé feminina** que carrega a casa
 
 No clímax do livro, presa numa reunião nas catacumbas dirigida por João de Cleofas, troca, no cárcere, a toga patrícia pela túnica da serva Ana — *"buscar o Reino de Jesus com as vestiduras singelas dos que passaram pelo mundo no torvelinho doloroso das provações"* — e assume a morte cristã que os algozes haviam reservado a uma mulher humilde. Ana, preservada por engano, sobrevive para continuar o apostolado.
 
-Após a desencarnação, Lívia é recebida no Plano espiritual por Simeão e por Jesus. Pede para retornar à Terra como espírito protetor de Públio: *"Dai-me a graça de voltar às sombras da Terra e erguer, do lodaçal do orgulho e das vaidades impiedosas, o companheiro do meu destino!"* — passagem que articula a doutrina do auxílio espiritual aos encarnados após a morte do bem-amado.
+Após a desencarnação, Lívia é recebida no Plano espiritual por Simeão e por Jesus. Pede para retornar à Terra como espírito protetor de Públio: *"Dai-me a graça de voltar às sombras da Terra e erguer o companheiro do meu destino do lodaçal do orgulho e das vaidades impiedosas!…"* (2ª parte, cap. VI) — passagem que articula a doutrina do auxílio espiritual aos encarnados após a morte do bem-amado.
 
 ## Citações relevantes
 
-> "Para mim, não pode haver o reflorescimento das esperanças aqui na Terra… Só aspiro, agora, a morrer em paz confortadora com a minha consciência." (Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, cap. "Nas catacumbas da fé")
+> "Para mim, não pode haver o reflorescimento das esperanças aqui na Terra… Só aspiro, agora, morrer em paz confortadora com a minha consciência." (Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, 2ª parte, cap. V, "Nas catacumbas da fé e no circo do martírio")
 
-> "Senhora, sou vossa escrava… Trocaremos hoje a toga e a túnica." (diálogo entre Ana e Lívia no cárcere, antes do martírio)
+> "— Dizei, senhora […] antes de tudo, sou vossa escrava. — Ana, […] troca hoje comigo a toga da senhora pela túnica da serva!" (diálogo entre Ana e Lívia no cárcere, antes do martírio — Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, 2ª parte, cap. V)
 
-> "Permiti que possa protege-lo em Espírito, a fim de um dia traze-lo aos pés de Jesus, igualmente, de modo que também receba as suas divinas bênçãos!" (Lívia ao mensageiro de Jesus no Plano espiritual)
+> "Permiti que possa protegê-lo em espírito, a fim de um dia trazê-lo aos pés de Jesus, igualmente, de modo que também receba as suas divinas bênçãos!…" (Lívia ao mensageiro de Jesus no Plano espiritual — Emmanuel / Chico Xavier, *Há Dois Mil Anos…*, 2ª parte, cap. VI)
 
 ## Páginas relacionadas
 
 - [[wiki/personalidades/publio-lentulus]] — esposo
 - [[wiki/personalidades/simeao-da-samaria]] — apóstolo que a converte
+- [[wiki/personalidades/ana-samaritana]] — serva e irmã de fé; troca de veste com ela no cárcere
+- [[wiki/personalidades/flavia-lentulia]] · [[wiki/personalidades/marcus-lentulus]] — filhos
+- [[wiki/personalidades/fulvia-procula]] · [[wiki/personalidades/sulpicio-tarquinius]] — autores da calúnia
+- [[wiki/personalidades/calpurnia]] — amiga que duvidou e lhe pede perdão no leito de morte
 - [[wiki/personalidades/joao-de-cleofas]] — emissário de Antioquia preso com ela
 - [[wiki/personalidades/jesus]] — encontrado no Plano espiritual após o martírio
 - [[wiki/obras/ha-dois-mil-anos]] — romance da sua trajetória

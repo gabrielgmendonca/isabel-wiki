@@ -4,6 +4,18 @@ Histórico cronológico da wiki. Cada entrada começa com `## [YYYY-MM-DD] <tipo
 
 Para ver as últimas N entradas: `grep "^## \[" log.md | tail -N`.
 
+## [2026-10-16] critica | Crítica profunda — 23 páginas de "Há Dois Mil Anos" (26 auto-fixes, 0 diferidos)
+
+Escopo restrito à obra, às duas sínteses e às 20 personalidades do romance, todas nunca criticadas. Nenhuma divergência com o Pentateuco. Os 21 auto-fixes dos agentes Opus são quase todos aspas do romance mal transcritas ou fabricadas nas páginas antigas — Públio ("Sou o ex-senador…" não existe na fonte), Lívia ("Trocaremos hoje a toga e a túnica" fundia falas de Ana e Lívia), Simeão, João de Cleofas, Pilatos —, mais o locus "ESE cap. XIV (Os fluidos)", que é Gênese XIV. Seis achados de enredo foram verificados no main-session com `grab.py` em vez de céticos Sonnet (fato decidível por texto): cinco confirmados e corrigidos com aval do usuário, sem rebaixar a rascunho — martírio de Lívia em **58**, não 64; Fúlvia e Sulpício, não Pilatos, como caluniadores, em Jerusalém e não Cesareia; os "prejuízos morais" de Calpúrnia são a fé de Lívia; os remédios, não os cosméticos, curam a pele de Flávia; Simeão é tio de Ana. Um refutado (Simeão de fato conduz Ana às esferas espirituais, 2ª parte, cap. X). Relatório: `reports/critica/2026-10-16-1726/`.
+
+## [2026-10-16] estudo | Personagens de "Há Dois Mil Anos"
+
+15 páginas novas em `wiki/personalidades/` para o elenco de *Há Dois Mil Anos…* (Emmanuel/Chico Xavier), levantado do texto integral por capítulo: Ana, Flávia Lentúlia, Márcus Lêntulus, Flamínio Severus, Calpúrnia, Agripa e Plínio Severus, Fúlvia Prócula, Aurélia, Emiliano Lucius, Sulpício Tarquínius, André e Saul de Gioras, Pompílio Crasso e Araxes. Cada uma com identificação, papel no romance (referência por parte e capítulo) e uma leitura doutrinária curta ancorada no Pentateuco, conferida com `cite.py` — LE q. 298-299, 489, 495, 552-554, 908, 944, 957; ESE cap. V, 12; VII, 2; IX, 6; X, 8, 11 e 15; XII, 9; XVII, 4; C&I 1ª parte, cap. VII, itens 13, 16 e 17. Atribuição corrigida durante a redação: as instruções do ESE IX, 6, X, 15 e XII, 9 são dos Espíritos Lázaro, Paulo e Júlio Olivier, não de Kardec.
+
+Achados do texto que entram nas páginas: Márcus é o "Ítalo" que cega o pai em Jerusalém; Sulpício ouviu Jesus em pessoa antes de se tornar algoz de Simeão; Ana é sobrinha de Simeão; o feiticeiro Araxes também usa "alma gêmea" (2ª parte, cap. III), reforçando a divergência já catalogada.
+
+A página da obra ganhou tabela de personagens com desfecho e links no resumo; a síntese `chamado-do-cristo-em-ha-dois-mil-anos` passou a linkar os nomes da tabela do chamado e ganhou a linha de Sulpício. Links recíprocos em Públio, Lívia, Simeão, Pilatos e Helvídio Lucius. Catálogo atualizado.
+
 ## [2026-07-13] refactor | `/dreno` — o contrapeso que fecha o que a crítica abre
 
 Medição que motivou: a crítica difere em **~92%** das páginas (110 de 120 criticadas geraram diferido → `rascunho` + item no ROADMAP §11). Nessa taxa, rodar `/autocritica` nas ~640 páginas ainda não criticadas produziria ~590 novos rascunhos e ~590 itens de decisão humana — o loop enterraria o autor em vez de melhorar a wiki. Faltava um passo que *fechasse*.

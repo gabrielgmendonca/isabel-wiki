@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-07-12",
+  "last_run": "2026-10-16",
   "pages": {
     "wiki/divergencias/condenacao-dos-incredulos-em-marcos-16.md": {
       "content_sha": "sha256:9da43e1593914e15762e86cbf5f47b1f426c8a0fdba0454eea7a68e48e17cae7",
@@ -961,6 +961,190 @@
       "verdict": "sólida com correções pendentes",
       "findings_count": 6,
       "deferred_count": 4
+    },
+    "wiki/personalidades/publio-lentulus.md": {
+      "content_sha": "sha256:f19d1e54bc8e206babc8ec1a010d552285cf71bdd273df24f52c7bb76d8de851",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 4 auto",
+      "findings_count": 4,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/livia.md": {
+      "content_sha": "sha256:bed4b2e4d15838ba081ba2ba102177da70a98ce296ab723d86f01ffd5daa2af3",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 4 auto",
+      "findings_count": 4,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/simeao-da-samaria.md": {
+      "content_sha": "sha256:d1e12ddfb256d277813ce32111d0e7109274160594b99e2246c763a325764044",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 4 auto · ✕ 1 desc",
+      "findings_count": 5,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/joao-de-cleofas.md": {
+      "content_sha": "sha256:a73b746046f325ae94e357d25afadc088544148bd47fd7194484ddf383306a43",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 4 auto",
+      "findings_count": 4,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/poncio-pilatos.md": {
+      "content_sha": "sha256:8f59a3c5cb90deeb2f22fdf3965e86162b9230538c978b85f2c136c3f17262f6",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 3 auto",
+      "findings_count": 3,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/ana-samaritana.md": {
+      "content_sha": "sha256:95b98867e3468a5aa8dcbf9e4c6922e74beb126e21e7f220069c502773342316",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/flavia-lentulia.md": {
+      "content_sha": "sha256:021b2603dbd78875baac833fdbdddfa6a7324b0b9e54e204e9cb9a7765c46adc",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 2 auto",
+      "findings_count": 2,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/marcus-lentulus.md": {
+      "content_sha": "sha256:2a9e1b4e886cda07b99b4489590d50440159bdbb38ca9e882907998257f26e22",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/flaminio-severus.md": {
+      "content_sha": "sha256:f037324813c580b07bf1eb6b46e296d77e24cfa49408d7cfb15f25caf2c9c284",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/calpurnia.md": {
+      "content_sha": "sha256:71b99a05a35abd0472641d6c08df38374201b4d27ca6a94bdd0f8f2bf3b4f5cf",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/agripa-severus.md": {
+      "content_sha": "sha256:98c05047f02ca8d74b04fead6ddead72177654ea1ec9ecbae437382df5b21cc1",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/plinio-severus.md": {
+      "content_sha": "sha256:87f2bde56aa6698db31fa4c79dd69b891873b41b64713762dde34dfc93e0549e",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/fulvia-procula.md": {
+      "content_sha": "sha256:75a3352319d9d18cc992ada107f7f11531bd1efc9589e002362c8a42e8209d5f",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/aurelia.md": {
+      "content_sha": "sha256:0b883fd464a9868193f90790b1ee1ff3cf12acc626f5334ebf774c9985496e5b",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/emiliano-lucius.md": {
+      "content_sha": "sha256:0ad1393fafa569101fda69146ebcf67a232f765e9221ca79d9fb6216f9f5541a",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/sulpicio-tarquinius.md": {
+      "content_sha": "sha256:d83a3f7e06c8f7c607166af1f31c052a5026995c6bc9f181dcc27f27127fc087",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/andre-de-gioras.md": {
+      "content_sha": "sha256:994841ab0b158fad1f36dd2b0639dee1be3b90cf905f8a74f67c232bc93da41b",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/saul-de-gioras.md": {
+      "content_sha": "sha256:c821eaaeed5c48af6656135e122cfa3e39b53a40e077d943b331daaecaafe543",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/pompilio-crasso.md": {
+      "content_sha": "sha256:2f8a294ed24f37d241f6c063acbc81f46d6d68d2f295d04836d00c6850b2f58c",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/personalidades/araxes.md": {
+      "content_sha": "sha256:e6296ad58910faf641163ad4afbe2fe6527508be1a8d8ccbd6ba465586293319",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos.md": {
+      "content_sha": "sha256:ced57b0d9a21affa3ab7cda8df0da770ede2bd96fed1f4ab974e06634d756bfc",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "limpo",
+      "findings_count": 0,
+      "deferred_count": 0
+    },
+    "wiki/sinteses/consolador-em-ha-dois-mil-anos.md": {
+      "content_sha": "sha256:a31fc74df97d12b685d265bf3591e25b9ebb194f94671b4f1e64b3e49b03a7a9",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 1 auto",
+      "findings_count": 1,
+      "deferred_count": 0
+    },
+    "wiki/obras/ha-dois-mil-anos.md": {
+      "content_sha": "sha256:a4b2d24c77be2681df0a003fe50bd91814478ae5f17e30ec528932079c3ddb3f",
+      "last_critica_date": "2026-10-16",
+      "atualizado_em_at_critica": "2026-10-16",
+      "verdict": "✓ 4 auto",
+      "findings_count": 4,
+      "deferred_count": 0
     }
   }
 }

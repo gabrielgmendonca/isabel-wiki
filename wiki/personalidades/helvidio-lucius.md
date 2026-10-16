@@ -38,6 +38,7 @@ No plano espiritual, reúne-se aos seus na esfera de repouso de Cneio Lucius, e,
 - [[wiki/personalidades/celia]] — filha
 - [[wiki/personalidades/alba-lucinia]] — esposa
 - [[wiki/personalidades/publio-lentulus]] — companheiro de existências anteriores
+- [[wiki/personalidades/pompilio-crasso]] — encarnação anterior
 - [[wiki/obras/ha-dois-mil-anos]] — encarnação anterior como Pompílio Crasso
 - [[wiki/obras/50-anos-depois]] — narrativa central
 

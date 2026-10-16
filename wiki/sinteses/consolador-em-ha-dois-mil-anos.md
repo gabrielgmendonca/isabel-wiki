@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [Emmanuel/Chico Xavier, ESE, LE]
 tags: [consolador, ha-dois-mil-anos, alvoradas-do-reino-do-senhor, muitas-moradas, espírito-de-verdade, desencarnação, publio-lentulus, emmanuel, chico-xavier, obra/ese, obra/le, autor/emmanuel, autor/chico-xavier, autor/kardec, tema/vida-futura, tema/jesus, tema/historia-doutrina, grau/avancado]
-atualizado_em: 2026-07-02
+atualizado_em: 2026-10-16
 status: rascunho
 ---
 
@@ -71,7 +71,7 @@ O pranto sem fé de Públio é precisamente essa "dor incessante e desarrazoada"
 ### Divergência já registrada — a linguagem das "almas-gêmeas"
 
 > [!warning] Divergência com Kardec — almas-gêmeas
-> Neste mesmo capítulo, uma entidade angélica afirma que *"o amor é o laço de luz eterna que une todos os mundos e todos os seres"*, e Lívia chama Públio de *"alma gêmea da minha… destinada ao meu modo de ser, desde a aurora dos tempos"*. Kardec recusa a noção de união particular e fatal em LE q. 298 e rejeita "metade" como expressão inexata em LE q. 299. A divergência é **estrutural** (recorre em Léon Denis e em *O Consolador*) e já está tratada em [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — para onde esta síntese remete, sem reabrir a análise. O Eixo 3 (afeição que sobrevive à morte) é doutrinariamente sólido; apenas a *moldura metafísica* das almas criadas aos pares extrapola Kardec.
+> Neste mesmo capítulo, uma entidade angélica afirma que *"o amor é o laço de luz eterna que une todos os mundos e todos os seres"*, e Lívia chama Públio de *"alma gêmea da minha, que a sabedoria de Deus, em seus profundos e doces mistérios, destinou ao meu modo de ser, desde a aurora dos tempos"*. Kardec recusa a noção de união particular e fatal em LE q. 298 e rejeita "metade" como expressão inexata em LE q. 299. A divergência é **estrutural** (recorre em Léon Denis e em *O Consolador*) e já está tratada em [[wiki/divergencias/almas-irmas-criadas-aos-pares]] — para onde esta síntese remete, sem reabrir a análise. O Eixo 3 (afeição que sobrevive à morte) é doutrinariamente sólido; apenas a *moldura metafísica* das almas criadas aos pares extrapola Kardec.
 
 ---
 
