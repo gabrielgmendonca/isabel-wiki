@@ -2,7 +2,7 @@
 tipo: sintese
 fontes: [Emmanuel/Chico Xavier, ESE, LE, C&I, NT, AT]
 tags: [ha-dois-mil-anos, chamado-do-cristo, minuto-glorioso, publio-lentulus, lívia, orgulho, humildade, perdão, escolhas, esde, emmanuel, chico-xavier, tema/livre-arbitrio, tema/moral, tema/jesus, obra/ese, obra/le, obra/ci, autor/chico-xavier, autor/emmanuel, grau/avancado]
-atualizado_em: 2026-10-12
+atualizado_em: 2026-10-16
 status: rascunho
 ---
 
@@ -33,15 +33,25 @@ O romance diz o mesmo pela boca de Jesus, que se apresenta a Públio como "Pasto
 | Personagem | Como o chamado chegou | Resposta |
 |---|---|---|
 | Ana, a serva | Ouve Jesus às margens do lago, entre "os servos e sofredores de Cafarnaum" (2ª parte, cap. IX) | Atende de pronto; é ela quem leva o Evangelho à casa do senador |
+| Flávia Lentúlia | Curada na infância pelo Mestre, que atribui a cura à fé e ao amor da mãe (1ª parte, cap. V); mais tarde, pela provação conjugal e pela cegueira (2ª parte, cap. VII) | Cresce longe da fé materna, no culto dos deuses do pai (2ª parte, caps. II e V). Atende pela resignação: faz da vida "um calvário de resignação, comovedora e silenciosa" (2ª parte, cap. IV), repele Saul para ser "a sentinela do seu lar" (2ª parte, cap. VII) e, cega, medita o Evangelho com Ana e o pai em Pompeia (2ª parte, cap. IX) |
 | [[wiki/personalidades/simeao-da-samaria\|Simeão da Samaria]] | Discípulo que acompanha o Mestre até o Calvário (1ª parte, cap. IX) | Atende até o martírio (1ª parte, cap. X) |
 | [[wiki/personalidades/poncio-pilatos\|Pôncio Pilatos]] | Tem o próprio Jesus diante de si e confessa: "o coração me diz que esse homem é um justo" (1ª parte, cap. VIII) | Recusa por conveniência política e lava as mãos |
 | A multidão de Jerusalém | Viu e ouviu o Mestre | Escolhe Barrabás; os discípulos se dispersam (1ª parte, cap. VIII) |
 | André de Gioras | Conhece e prega a Lei que manda desejar ao próximo o que se deseja para si (2ª parte, cap. VIII) | Prefere a vingança; só na hora da morte pede perdão |
 | Calpúrnia | O exemplo e a amizade de Lívia (2ª parte, cap. IV) | Atende no leito de morte: aprende as preces do Cristo e pede perdão à amiga |
+| Saul de Gioras | Escravizado injustamente por Públio (1ª parte, cap. II), é guiado pelos Severus "para a liberdade e para a fortuna" (2ª parte, cap. III); a ofensa podia ser perdoada, e o benefício, retribuído | Guarda, "qual o pai", o propósito de "uma vindita cruel" (2ª parte, cap. II). Calunia Agripa, tenta tomar Flávia à força e assassina o "amigo e benfeitor"; morre envenenado pelo feiticeiro a quem pedia um talismã de amor (2ª parte, cap. VII) |
+| Agripa Severus | Ao perder Flávia para o irmão, ouve da mãe que "a existência exige de nós, algumas vezes, esses gestos de renúncia ilimitada" (2ª parte, cap. II) | Hesita: passa dez anos "em aventuras loucas e criminosas" em Massília e Avênio. De volta, é para a cunhada "um irmão dedicado e amigo" e, desafiado pelo irmão, recusa a espada e "cruzou os braços, serenamente" (2ª parte, cap. VII). Morre apunhalado por Saul |
 | Fúlvia | A consciência, despertada pela enfermidade (2ª parte, cap. IV) | Reconhece tardiamente os próprios crimes |
+| Aurélia | Uma advertência vinda de onde menos se esperava: o feiticeiro Araxes lhe diz que interpor-se entre Plínio e Flávia "seria agravar a senhora as suas próprias penas" (2ª parte, cap. III); depois, a paciência do marido, Emiliano Lucius (2ª parte, cap. IV) | Recusa por paixão: envenena a mãe para calar-lhe os segredos, trai o marido, que se suicida (2ª parte, cap. IV), e paga uma serva para envenenar Flávia. Abandonada por Plínio, morre apunhalada em Antium (2ª parte, cap. VII) |
 | Plínio Sevérus | As provações da família (2ª parte, cap. IX) | Regenera-se "embora tardiamente" |
 
 Dois ensinos saem desse quadro. Primeiro, o chamado não escolhe condição social: a serva atendeu antes do senador, e a cena final mostra Lívia e Ana abraçadas para ensinar que "em qualquer posição, pode a alma encarnada buscar o seu reino de luz e de paz, de vida e de amor, tanto na libré do escravo, como na pomposa indumentária dos senhores" (2ª parte, cap. X). Segundo, o chamado se repete: a mesma Ana lembra ao senador cego que "Nosso Pai não quer que se perca uma só de suas ovelhas" (2ª parte, cap. IX; cf. Mt 18:14).
+
+O romance arma também pares em espelho, que repetem em menor escala o contraste entre Públio e Lívia (a leitura em pares é desta síntese). Agripa e Saul amam a mesma mulher: um renuncia e morre de braços cruzados; o outro quer possuí-la "a qualquer preço" e mata para isso. Flávia e Aurélia, primas, disputam o mesmo homem: uma se cala e guarda o lar; a outra recorre ao feiticeiro e ao veneno. Em cada par, o sentimento de partida é o mesmo, e o que muda é quem governa quem:
+
+> "As paixões são como um corcel, que só tem utilidade quando governado, e que se torna perigoso quando passa a governar." (LE, q. 908)
+
+Aurélia ouviu o aviso que lhe vinha da boca do próprio mago, que lhe disse não estar o seu coração "preparado para as grandes renúncias santificantes" (2ª parte, cap. III); Saul, ao morrer, já sofria "o mais fundo desespero de consciência" (2ª parte, cap. VII). Nenhum dos dois ficou sem chamado.
 
 O chamado tampouco ficou no século I. Kardec o estende expressamente a quem hoje recebe o ensino dos Espíritos, que "não é circunscrito" e alcança "letrados ou iletrados, crentes ou incrédulos, cristãos ou não" (ESE, cap. XVIII, item 12). O próprio Emmanuel dá ao livro esse destino: a confissão é oferecida como "uma experiência para os que hoje trabalham na semeadura e na seara do Nosso Divino Mestre" (*Há Dois Mil Anos…*, "Ao leitor"). O leitor do romance é, portanto, mais um chamado.
 
@@ -129,7 +139,7 @@ Na prece final, Lívia já pode dizer dele: "Ele já não é mais, Senhor, o vai
 
 #### As portas que se abriram a Públio
 
-Reunidos em ordem, os episódios mostram que o chamado não foi um só. Numa única existência a porta se abriu ao menos nove vezes, por meios diferentes:
+Reunidos em ordem, os episódios mostram que o chamado não foi um só. Numa única existência a porta se abriu ao menos dez vezes, por meios diferentes:
 
 | Quando | Como o chamado veio | O que ele fez |
 |---|---|---|
@@ -140,6 +150,7 @@ Reunidos em ordem, os episódios mostram que o chamado não foi um só. Numa ún
 | A tarde do Calvário | O exemplo da esposa (1ª parte, cap. IX) | Julga pela aparência e a condena |
 | Roma, vinte e cinco anos depois | O impulso de reconciliar-se (2ª parte, cap. IV) | Adia por dois dias |
 | O martírio de Lívia | A dor (2ª parte, cap. V) | Ajoelha-se diante da cruz de Simeão |
+| Roma, a morte de Agripa | Ana, diante do cadáver: "Jesus nos ensinou que jamais devemos julgar para não sermos também julgados" (2ª parte, cap. VII) | Suspende o juízo sobre o genro e, morto Saul, vence "a aversão pessoal" e lhe dá funeral digno |
 | Jerusalém, já cego | O algoz que pede perdão (2ª parte, cap. VIII) | Perdoa |
 | Pompeia | O Evangelho lido com Ana (2ª parte, cap. IX) | Examina a própria vida e reconhece o erro |
 
@@ -254,9 +265,9 @@ O chamado do Cristo é universal e se repete: vem de antes do Evangelho, pelos p
 - *Antigo Testamento*. Deuteronômio, 30:19. Isaías, 55:1, 3; 65:2. Jeremias, 7:13, 25. Ezequiel, 33:11.
 - *Novo Testamento*. S. Mateus, 6:24; 7:21; 11:28-30; 18:12-14, 21-22; 19:21-22; 21:34-37; 22:3, 14; 23:37; 27:22. S. Lucas, 9:23; 12:48; 19:6-8. S. João, 3:1-2; 5:40; 7:24. Hebreus, 1:1. 1 Pedro, 1:11. Apocalipse, 3:20.
 - KARDEC, Allan. *O Evangelho segundo o Espiritismo*. Trad. Guillon Ribeiro. FEB. Cap. I, item 9; cap. V, itens 4, 5 e 12; cap. VII, itens 2 e 11; cap. X, itens 4, 11 e 15; cap. XVI, itens 1, 4 e 7; cap. XVII, item 4; cap. XVIII, itens 2 e 12; cap. XX, item 2. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
-- KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 625, 785, 843, 851, 909, 919, 1000 e 1007. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
+- KARDEC, Allan. *O Livro dos Espíritos*. Trad. Guillon Ribeiro. FEB. q. 625, 785, 843, 851, 908, 909, 919, 1000 e 1007. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - KARDEC, Allan. *O Céu e o Inferno*. 1ª parte, cap. VI, item 25; cap. VII, itens 13, 16, 17, 19, 20 e 32. 2ª parte, cap. VII, "A rainha de Oude"; cap. VIII, "Szymel Slizgol" e "História de um empregado doméstico". Edição: [[raw/kardec/pentateuco/ceu-e-inferno]].
-- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. "Ao leitor"; 1ª parte, caps. I, II, V, VI, VIII, IX e X; 2ª parte, caps. III, IV, V, VIII, IX e X. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
+- XAVIER, Francisco Cândido (Emmanuel). *Há Dois Mil Anos…* Rio de Janeiro: FEB, 1939. "Ao leitor"; 1ª parte, caps. I, II, V, VI, VIII, IX e X; 2ª parte, caps. II, III, IV, V, VII, VIII, IX e X. Edição: [[raw/mediuns/chico-xavier/emmanuel/ha-dois-mil-anos]].
 - XAVIER, Francisco Cândido (Emmanuel). *50 anos depois*. Rio de Janeiro: FEB, 1939. Carta ao leitor. Edição: [[raw/mediuns/chico-xavier/emmanuel/50-anos-depois]].
 - XAVIER, Francisco Cândido (Emmanuel). *A Caminho da Luz*. Rio de Janeiro: FEB, 1939. Caps. 7 e 8. Edição: [[raw/mediuns/chico-xavier/emmanuel/a-caminho-da-luz]].
 - XAVIER, Francisco Cândido (Emmanuel). *Pão Nosso*. Rio de Janeiro: FEB, 1950. Cap. 166. Edição: [[raw/mediuns/chico-xavier/emmanuel/pao-nosso]].
