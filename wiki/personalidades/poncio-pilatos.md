@@ -36,6 +36,7 @@ A presença de Pilatos no romance é o fio que conecta a esfera política do Imp
 - [[wiki/personalidades/publio-lentulus]] — adversário político
 - [[wiki/personalidades/livia]] — alvo da calúnia
 - [[wiki/personalidades/sulpicio-tarquinius]] — seu lictor de confiança
+- [[wiki/personalidades/claudia-procula]] — esposa
 - [[wiki/personalidades/fulvia-procula]] — cunhada, irmã de Cláudia
 - [[wiki/personalidades/simeao-da-samaria]] — vítima indireta da perseguição
 - [[wiki/obras/ha-dois-mil-anos]] — romance que detalha sua trajetória

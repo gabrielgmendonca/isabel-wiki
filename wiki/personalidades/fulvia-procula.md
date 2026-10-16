@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Patrícia romana, esposa do pretor Sálvio Lentulus — tio de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] — e mãe de [[wiki/personalidades/aurelia|Aurélia]], em *Há Dois Mil Anos…* (Emmanuel / Chico Xavier, 1939). Irmã de Cláudia, mulher de [[wiki/personalidades/poncio-pilatos|Pilatos]], e, segundo o narrador, "uma antítese da irmã" (1ª parte, cap. III). Autora da calúnia contra [[wiki/personalidades/livia|Lívia]] que separa o casal por vinte e cinco anos. Morre em Roma, envenenada pela própria filha.
+Patrícia romana, esposa do pretor [[wiki/personalidades/salvio-lentulus|Sálvio Lentulus]] — tio de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] — e mãe de [[wiki/personalidades/aurelia|Aurélia]], em *Há Dois Mil Anos…* (Emmanuel / Chico Xavier, 1939). Irmã de [[wiki/personalidades/claudia-procula|Cláudia]], mulher de [[wiki/personalidades/poncio-pilatos|Pilatos]], e, segundo o narrador, "uma antítese da irmã" (1ª parte, cap. III). Autora da calúnia contra [[wiki/personalidades/livia|Lívia]] que separa o casal por vinte e cinco anos. Morre em Roma, envenenada pela própria filha.
 
 ## Papel
 
@@ -31,6 +31,8 @@ Fúlvia é uma das criaturas que o Espírito Lázaro descreve como as que "têm 
 - [[wiki/personalidades/aurelia]] — filha
 - [[wiki/personalidades/emiliano-lucius]] — genro
 - [[wiki/personalidades/poncio-pilatos]] — cunhado
+- [[wiki/personalidades/salvio-lentulus]] — marido
+- [[wiki/personalidades/claudia-procula]] — irmã
 - [[wiki/obras/ha-dois-mil-anos]] — romance
 - [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]] — o chamado pela consciência
 - [[wiki/conceitos/calunia]]

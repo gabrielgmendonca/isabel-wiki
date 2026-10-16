@@ -16,7 +16,7 @@ Judeu das cercanias de Jerusalém, pai de [[wiki/personalidades/saul-de-gioras|S
 
 **A ofensa.** André procura o senador para reclamar o filho, preso por ordem dele e "remetido diretamente para o cativeiro perpétuo das galeras" (1ª parte, cap. II). Públio o despede com dureza. Quando se arrepende e manda soltar o rapaz, Saul já desaparecera. O pai sai do gabinete "ferido na sua emotividade de pai e no seu sentimento de homem, esfuziando de dor e de cólera reprimida" (1ª parte, cap. II).
 
-**A vingança.** Com a cumplicidade da serva Sêmele, que conseguira introduzir na casa do senador, rapta em Cafarnaum o pequeno Márcus: "Se os malditos romanos escravizam-nos os filhos, sem piedade, podemos também escravizar os seus desgraçados descendentes!..." (1ª parte, cap. VI). Mais tarde envenena a cúmplice para guardar o segredo (1ª parte, cap. X; 2ª parte, cap. VIII). Cria o menino como servo, nos trabalhos mais rudes. Em 70, já próspero e influente no Templo, prende Públio e o senador [[wiki/personalidades/pompilio-crasso|Pompílio Crasso]] no último reduto da cidade sitiada: manda arrancar o coração ao mais velho e cegar o outro com ferro em brasa pelas mãos de Ítalo — o próprio Márcus, que Públio não reconhece (2ª parte, cap. VIII).
+**A vingança.** Com a cumplicidade da serva [[wiki/personalidades/semele|Sêmele]], que conseguira introduzir na casa do senador, rapta em Cafarnaum o pequeno Márcus: "Se os malditos romanos escravizam-nos os filhos, sem piedade, podemos também escravizar os seus desgraçados descendentes!..." (1ª parte, cap. VI). Mais tarde envenena a cúmplice para guardar o segredo (1ª parte, cap. X; 2ª parte, cap. VIII). Cria o menino como servo, nos trabalhos mais rudes. Em 70, já próspero e influente no Templo, prende Públio e o senador [[wiki/personalidades/pompilio-crasso|Pompílio Crasso]] no último reduto da cidade sitiada: manda arrancar o coração ao mais velho e cegar o outro com ferro em brasa pelas mãos de Ítalo — o próprio Márcus, que Públio não reconhece (2ª parte, cap. VIII).
 
 **O pedido de perdão.** Antes da execução, na Prisão Mamertina, André confessa tudo ao senador cego:
 
@@ -33,6 +33,7 @@ André e Públio são, no romance, dois orgulhos que se alimentam. A dureza do s
 - [[wiki/personalidades/saul-de-gioras]] — filho
 - [[wiki/personalidades/publio-lentulus]] — ofensor e vítima
 - [[wiki/personalidades/marcus-lentulus]] — o menino raptado
+- [[wiki/personalidades/semele]] — cúmplice do rapto, envenenada por ele
 - [[wiki/personalidades/pompilio-crasso]] — executado por sua ordem
 - [[wiki/obras/ha-dois-mil-anos]] — romance
 - [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]] — o chamado atendido na hora da morte

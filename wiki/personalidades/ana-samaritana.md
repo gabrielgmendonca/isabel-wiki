@@ -39,6 +39,7 @@ Ana encarna a bem-aventurança dos pobres de espírito: não lhe falta inteligê
 - [[wiki/personalidades/flavia-lentulia]] — a quem ampara na cegueira
 - [[wiki/personalidades/publio-lentulus]] — senhor a quem evangeliza na velhice
 - [[wiki/personalidades/sulpicio-tarquinius]] — o lictor que a cobiça e a persegue até a Samaria
+- [[wiki/personalidades/semele]] — a companheira de serviço que trai a casa
 - [[wiki/obras/ha-dois-mil-anos]] — romance
 - [[wiki/sinteses/chamado-do-cristo-em-ha-dois-mil-anos]] — a serva que atendeu antes do senador
 - [[wiki/conceitos/humildade]]

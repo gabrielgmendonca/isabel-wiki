@@ -10,7 +10,7 @@ status: ativo
 
 ## Identificação
 
-Filha única do pretor Sálvio Lentulus e de [[wiki/personalidades/fulvia-procula|Fúlvia Prócula]], prima de [[wiki/personalidades/flavia-lentulia|Flávia Lentúlia]], em *Há Dois Mil Anos…* (Emmanuel / Chico Xavier, 1939). Amante de [[wiki/personalidades/plinio-severus|Plínio Severus]] antes e depois do casamento dele com Flávia; esposa de [[wiki/personalidades/emiliano-lucius|Emiliano Lucius]]. Morre apunhalada em Antium.
+Filha única do pretor [[wiki/personalidades/salvio-lentulus|Sálvio Lentulus]] e de [[wiki/personalidades/fulvia-procula|Fúlvia Prócula]], prima de [[wiki/personalidades/flavia-lentulia|Flávia Lentúlia]], em *Há Dois Mil Anos…* (Emmanuel / Chico Xavier, 1939). Amante de [[wiki/personalidades/plinio-severus|Plínio Severus]] antes e depois do casamento dele com Flávia; esposa de [[wiki/personalidades/emiliano-lucius|Emiliano Lucius]]. Morre apunhalada em Antium.
 
 ## Papel
 
@@ -32,6 +32,7 @@ Aurélia é o espelho de Flávia (ver [[wiki/sinteses/chamado-do-cristo-em-ha-do
 ## Páginas relacionadas
 
 - [[wiki/personalidades/fulvia-procula]] — mãe
+- [[wiki/personalidades/salvio-lentulus]] — pai
 - [[wiki/personalidades/flavia-lentulia]] — prima e rival
 - [[wiki/personalidades/plinio-severus]] — amante
 - [[wiki/personalidades/emiliano-lucius]] — marido

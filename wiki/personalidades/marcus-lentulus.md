@@ -16,7 +16,7 @@ Filho caçula de [[wiki/personalidades/publio-lentulus|Públio Lêntulus]] e de 
 
 ## Papel
 
-**O rapto.** Márcus tem pouco menos de um ano quando a serva judia Sêmele, cúmplice de André, o retira de casa à noite, vestida com uma túnica da senhora (1ª parte, caps. V e VI). O lictor [[wiki/personalidades/sulpicio-tarquinius|Sulpício]] vê a cena de longe e a usa para caluniar Lívia; o desaparecimento passa a ser, para Públio, uma prova da infidelidade da esposa (1ª parte, cap. VI; 2ª parte, cap. VIII). O senador oferece em Jerusalém o prêmio de um grande sestércio a quem descobrir o menino e, por causa dele, permanece anos na Palestina (1ª parte, cap. X; 2ª parte, cap. I).
+**O rapto.** Márcus tem pouco menos de um ano quando a serva [[wiki/personalidades/semele|Sêmele]], cúmplice de André, o retira de casa à noite, vestida com uma túnica da senhora (1ª parte, caps. V e VI). O lictor [[wiki/personalidades/sulpicio-tarquinius|Sulpício]] vê a cena de longe e a usa para caluniar Lívia; o desaparecimento passa a ser, para Públio, uma prova da infidelidade da esposa (1ª parte, cap. VI; 2ª parte, cap. VIII). O senador oferece em Jerusalém o prêmio de um grande sestércio a quem descobrir o menino e, por causa dele, permanece anos na Palestina (1ª parte, cap. X; 2ª parte, cap. I).
 
 **Ítalo.** André o cria nos "mais rudes trabalhos da lavoura", confessaria depois o raptor: "aniquilei-lhe a inteligência... favoreci-lhe o ingresso nos vícios mais desprezíveis, pelo prazer diabólico de humilhar um romano inimigo" (2ª parte, cap. VIII). No último reduto de Jerusalém, André manda chamar Ítalo para cegar o senador com a lâmina em brasa. Públio, já amarrado ao poste, sente pelo executor uma atração inexplicável:
 
@@ -36,6 +36,7 @@ Em *50 anos depois*, Emmanuel registra que "Flávia e Márcus Lêntulus" estavam
 - [[wiki/personalidades/livia]] — mãe
 - [[wiki/personalidades/flavia-lentulia]] — irmã
 - [[wiki/personalidades/andre-de-gioras]] — raptor
+- [[wiki/personalidades/semele]] — a serva cúmplice do rapto
 - [[wiki/personalidades/sulpicio-tarquinius]] — testemunha que usa o rapto para caluniar Lívia
 - [[wiki/obras/ha-dois-mil-anos]] — romance
 

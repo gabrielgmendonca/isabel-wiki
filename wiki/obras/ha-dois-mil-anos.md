@@ -103,6 +103,7 @@ Retratado como tirano libidinoso, ordena (via Sulpício) o sequestro de Lívia. 
 - [[wiki/personalidades/emmanuel]] — autor espiritual; encarnação como Públio Lêntulus
 - [[wiki/personalidades/chico-xavier]] — médium psicógrafo
 - [[wiki/personalidades/jesus]] — Mestre encontrado em Cafarnaum; Pastor das almas humanas
+- [[wiki/personalidades/pedro-apostolo|Simão Pedro]] — "Simão Barjona", em cuja barca o Mestre chega às pregações do lago e em cuja casa ensina (1ª parte, caps. IV, VI e VII). Não confundir com o Simão chefe da resistência de Jerusalém, supliciado em Roma no triunfo sobre Jerusalém (2ª parte, cap. VIII)
 
 ### Personagens do romance
 
@@ -120,18 +121,21 @@ O elenco gira em torno de três casas — os Lêntulus, os Severus e a família 
 | [[wiki/personalidades/agripa-severus\|Agripa Severus]] | Filho mais velho de Flamínio | Renuncia a Flávia; recusa o duelo; assassinado por Saul (58) |
 | [[wiki/personalidades/plinio-severus\|Plínio Severus]] | Filho mais moço, marido de Flávia | Infiel e ciumento; regenera-se tarde; morre em Pompeia |
 | [[wiki/personalidades/fulvia-procula\|Fúlvia Prócula]] | Mulher do pretor Sálvio, irmã de Cláudia | Caluniadora; morre envenenada pela filha |
+| [[wiki/personalidades/salvio-lentulus\|Sálvio Lentulus]] | Pretor, tio de Públio, marido de Fúlvia | Anfitrião em Jerusalém; passivo diante das tramas da mulher; morre em Roma antes de 50 |
 | [[wiki/personalidades/aurelia\|Aurélia]] | Filha de Fúlvia, prima de Flávia | Envenena mãe e rival; apunhalada em Antium |
 | [[wiki/personalidades/emiliano-lucius\|Emiliano Lucius]] | Marido de Aurélia | Suicida-se ao descobrir a traição |
 | [[wiki/personalidades/sulpicio-tarquinius\|Sulpício Tarquínius]] | Lictor de Pilatos | Ouve Jesus e recusa; algoz de Simeão; morto pela cruz |
 | [[wiki/personalidades/andre-de-gioras\|André de Gioras]] | Judeu de Jerusalém | Rapta Márcus, cega Públio; pede perdão antes da execução |
+| [[wiki/personalidades/semele\|Sêmele]] | Serva da casa de Públio | Cúmplice do rapto de Márcus; envenenada por André |
 | [[wiki/personalidades/saul-de-gioras\|Saul de Gioras]] | Filho de André, escravo liberto | Mata Agripa; envenenado por Araxes |
 | [[wiki/personalidades/araxes\|Araxes]] | Feiticeiro egípcio do Esquilino | Adverte Aurélia; envenena Saul |
 | [[wiki/personalidades/simeao-da-samaria\|Simeão da Samaria]] | Apóstolo samaritano | Mártir na cruz para salvar Lívia e Ana |
 | [[wiki/personalidades/joao-de-cleofas\|João de Cleofas]] | Emissário de Antioquia | Mártir no circo (58) |
 | [[wiki/personalidades/pompilio-crasso\|Pompílio Crasso]] | Senador, amigo de Públio | Morto em Jerusalém (70); reencarna como [[wiki/personalidades/helvidio-lucius\|Helvídio Lucius]] |
 | [[wiki/personalidades/poncio-pilatos\|Pôncio Pilatos]] | Procurador da Judeia | Lava as mãos; destituído, suicida-se nas Gálias |
+| [[wiki/personalidades/claudia-procula\|Cláudia Prócula]] | Mulher de Pilatos, irmã de Fúlvia | Acolhe Lívia; sonha com o "homem justo" e avisa o marido |
 
-Figuras menores sem página própria: o pretor **Sálvio Lentulus**, tio de Públio; **Cláudia**, mulher de Pilatos, "alma nobre e digna"; os servos **Comênio**, homem de confiança do senador, **Sêmele**, cúmplice do rapto, e **Atheia**, que envenena Flávia a soldo de Aurélia.
+Figuras menores sem página própria: os servos **Comênio**, homem de confiança do senador, e **Fábio Túlio**, que o substitui, e **Atheia**, que envenena Flávia a soldo de Aurélia.
 
 ## Divergências
 
