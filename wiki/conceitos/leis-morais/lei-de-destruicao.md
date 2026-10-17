@@ -3,7 +3,7 @@ title: "Lei de destruição"
 tipo: conceito
 fontes: [LE, ESE, C&I, Gênese, RE, NT, Emmanuel/Chico Xavier, André Luiz/Chico Xavier, Chico Xavier, Yvonne Pereira]
 tags: [destruicao, guerra, pena-de-morte, crueldade, flagelos, duelo, assassínio, legítima-defesa, lei-moral, obra/le, lei/destruicao, autor/andre-luiz, autor/chico-xavier, autor/emmanuel, autor/kardec, grau/intermediario, tema/moral, tema/sociedade, obra/ese, obra/genese, obra/ci, obra/re]
-atualizado_em: 2026-10-15
+atualizado_em: 2026-10-17
 status: ativo
 ---
 
@@ -37,6 +37,10 @@ O que se destrói é só o envoltório. O princípio inteligente, "parte essenci
 
 A destruição e a conservação andam juntas. A natureza cerca os seres de meios de preservação "a fim de que a destruição não se dê antes do tempo", porque "toda destruição antecipada obsta ao desenvolvimento do princípio inteligente" (LE, q. 729). O horror instintivo à morte tem a mesma razão: "o homem deve procurar prolongar a vida para cumprir a sua tarefa" (LE, q. 730). Os agentes de destruição ficam ao lado dos meios de conservação como "o remédio ao lado do mal" (LE, q. 731).
 
+Na *Gênese*, Kardec retoma a objeção de fundo: por que Deus criou seres que precisam se destruir para viver? A resposta parte do mesmo ponto da q. 728: "*A verdadeira vida, tanto do animal como do homem, não está no invólucro corporal, do mesmo que não está no vestuário. Está no princípio inteligente que preexiste e sobrevive ao corpo*." Trocar de corpo não tira do Espírito o que ele é: "É precisamente como se um homem mudasse cem vezes no ano as suas vestes. Não deixaria por isso de ser homem." E o próprio espetáculo da destruição educa: "ensina Deus aos homens o pouco caso que devem fazer do envoltório material e lhes suscita a ideia da vida espiritual" (Gênese, cap. III, item 21).
+
+Kardec dá duas utilidades. A física: os corpos só se conservam com matéria orgânica, e por isso "é o corpo que se nutre do corpo, sem que o Espírito se aniquile ou altere" (Gênese, cap. III, item 22). A moral: "É necessária a luta para o desenvolvimento do Espírito. Na luta é que ele exercita suas faculdades." O que ataca e o que se defende usam "habilidade e inteligência". E, quando um sucumbe, "que foi o que o mais forte ou o mais destro tirou ao mais fraco? A veste de carne, nada mais" (Gênese, cap. III, item 23). É o "duplo fim" da q. 728a explicado por dentro.
+
 ### Uma lei de transição
 
 A necessidade de destruir não é igual em toda parte. Ela "guarda proporções com o estado mais ou menos material dos mundos" e "cessa, quando o físico e o moral se acham mais depurados" (LE, q. 732). Na Terra, "essa necessidade se enfraquece no homem, à medida que o Espírito sobrepuja a matéria. Assim é que, como podeis observar, o horror à destruição cresce com o desenvolvimento intelectual e moral." (LE, q. 733)
@@ -47,7 +51,7 @@ Esse é o fio que liga todo o capítulo. Guerra, crueldade, duelo e pena de mort
 
 ### O limite: a necessidade
 
-O direito do homem sobre os animais "se acha regulado pela necessidade, que ele tem, de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito." (LE, q. 734). A destruição que excede esse limite revela "predominância da bestialidade sobre a natureza espiritual. Toda destruição que excede os limites da necessidade é uma violação da lei de Deus." O animal destrói só por necessidade, "enquanto que o homem, dotado de livre arbítrio, destrói sem necessidade. Terá que prestar contas do abuso da liberdade que lhe foi concedida" (LE, q. 735). Estudo completo em [[wiki/questoes/destruicao-alem-da-necessidade]].
+O direito do homem sobre os animais "se acha regulado pela necessidade, que ele tem, de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito." (LE, q. 734). A destruição que excede esse limite revela "predominância da bestialidade sobre a natureza espiritual. Toda destruição que excede os limites da necessidade é uma violação da lei de Deus." O animal destrói só por necessidade, "enquanto que o homem, dotado de livre arbítrio, destrói sem necessidade. Terá que prestar contas do abuso da liberdade que lhe foi concedida" (LE, q. 735). Estudo completo em [[wiki/questoes/destruicao-alem-da-necessidade]], que trata também da alimentação com carne (q. 723) e dos autores consagrados que tocam no tema.
 
 O excesso oposto também é censurado. Entre os povos que levam ao extremo o escrúpulo de não destruir animais, "há mais temor supersticioso do que verdadeira bondade" (LE, q. 736).
 
@@ -72,6 +76,16 @@ A guerra desaparecerá "quando os homens compreenderem a justiça e praticarem a
 O soldado que mata constrangido não é culpado desses atos, "mas é culpado das crueldades que cometa, sendo-lhe também levado em conta o sentimento de humanidade com que proceda" (LE, q. 749).
 
 Jesus já tinha anunciado: "ouvireis de guerras e de rumores de guerras; olhai, não vos assusteis, porque é mister que isso tudo aconteça, mas ainda não é o fim" (Mt 24:6). E deu o caminho que tira a guerra pela raiz: "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus" (Mt 5:9).
+
+#### As guerras em nome de Jesus
+
+A objeção mais dura vem da própria história cristã. Se Jesus disse "Julgais que eu tenha vindo trazer paz à Terra? Não, eu vos afirmo; ao contrário, vim trazer a divisão" (Lc 12:51, em ESE, cap. XXIII, item 10), não teria ele aberto caminho às guerras de religião? Kardec responde que, tomadas à letra, essas palavras "tenderiam a transformar a sua missão, toda de paz, noutra de perturbação e discórdia, consequência absurda, que o bom senso repele, porquanto Jesus não podia desmentir-se" (ESE, cap. XXIII, item 11).
+
+Kardec não suaviza o fato: "as guerras de religião foram as mais cruéis, mais vítimas causaram do que as guerras políticas; em nenhumas outras se praticaram tantos atos de atrocidade e de barbárie." Mas a culpa não é da doutrina, "que formalmente condena toda violência". Jesus nunca disse "Ide, matai, massacrai, queimai os que não crerem como vós"; disse, ao contrário, "Quem matar com a espada pela espada perecerá". A responsabilidade é "dos que a interpretaram falsamente e a transformaram em instrumento próprio a lhes satisfazer as paixões" (ESE, cap. XXIII, item 15).
+
+O sentido verdadeiro é de previsão, não de programa: "Não creais que a minha doutrina se estabeleça pacificamente; ela trará lutas sangrentas, tendo por pretexto o meu nome, porque os homens não me terão compreendido". E o fim anunciado é o oposto da guerra: "À guerra sucederá a paz; ao ódio dos partidos, a fraternidade universal; às trevas do fanatismo, a luz da fé esclarecida." (ESE, cap. XXIII, item 16). O mal "viria dos homens e não dele, que era como o médico que se apresenta para curar" (ESE, cap. XXIII, item 18).
+
+É a mesma condenação da q. 765, agora aplicada à guerra: matar em nome de Deus "é tomar o homem o lugar de Deus". E o Espiritismo herda a luta sem herdar a espada: "o tempo das lutas e das perseguições sanguinolentas passou; são todas de ordem moral as que terá de sofrer" (ESE, cap. XXIII, item 17).
 
 ### Assassínio
 
@@ -132,6 +146,10 @@ Numa comunicação publicada na *Revista*, o Espírito Bonnamy (pai) repete a pr
 
 Em *O Consolador*, Emmanuel responde se a luz espiritual alargará a noção de pátria: ela dará aos homens "um conceito novo de pátria, de maneira a proscrever-se o movimento destruidor pelos canhões e balas homicidas", até a "era nova da grande família humana, em que as raças serão substituídas pelas almas e em que a pátria será honrada, não com a morte, mas com a vida bem aplicada e bem vivida" (Emmanuel / Chico Xavier, *O Consolador*). Na mesma obra, ele chama a guerra, a pobreza e a ignorância de "enfermidades do organismo social", que cessarão "com a iluminação espiritual de todos em Jesus Cristo" (Emmanuel / Chico Xavier, *O Consolador*). É o desenvolvimento da q. 743: a guerra acaba quando os povos forem irmãos. Ver [[wiki/obras/o-consolador]].
 
+### Emmanuel: "todos os matadores"
+
+Ainda em *O Consolador*, Emmanuel reúne num só movimento a pena de morte (q. 760), a caça (q. 735) e a guerra (q. 742): "À medida que evoluirdes no sentimento evangélico, compreendereis que todos os matadores se encontram em oposição ao texto sagrado." Ele começa pelo carrasco e pelo caçador, trecho estudado em [[wiki/questoes/destruicao-alem-da-necessidade]], e termina na guerra: "O armamentista, ou o político ambicioso, que montam com frieza o maquinário da guerra incompreensível, não são mais impiedosos que o leão selvagem?" (Emmanuel / Chico Xavier, *O Consolador*). É a q. 752 em outra imagem. O instinto de destruição no seu pior não está no animal, que destrói por necessidade, mas no homem que destrói por cálculo.
+
 ### Chico Xavier: os flagelos coletivos
 
 Chico Xavier lê as mortes coletivas como "provações coletivas que coletivamente adquirimos", resgate de dívidas de quando estamos "acompliciados nas mesmas culpas" (Chico Xavier, *Pinga-Fogo II*, 1:56:00). A leitura completa a q. 738a, que trata da justiça dos flagelos em que morrem juntos o bom e o mau. Ver [[wiki/obras/pinga-fogo|Pinga-Fogo]].
@@ -163,7 +181,8 @@ Em *As Três Revelações*, livro de evangelização, [[wiki/personalidades/yvon
 3. **Diante das tragédias coletivas.** Os flagelos são ocasião de "abnegação, de desinteresse e de amor ao próximo" (LE, q. 740), e muitos deles o homem pode prevenir (q. 741). Entender sua função espiritual não dispensa o socorro nem a prevenção.
 4. **A destruição começa no íntimo.** Jesus põe a ira contra o irmão ao lado do homicídio (Mt 5:21-22). A crueldade, o ponto de honra e o desejo de vingança são a lei de destruição em sua forma moral. O caminho oposto é o perdão: "há mais grandeza e verdadeira honra em [...] perdoar" (LE, q. 759, comentário).
 5. **Diante do debate sobre pena de morte.** O espírita tem uma posição clara no Pentateuco (q. 760–765), com dois argumentos: há outros meios de proteger a sociedade, e é preciso abrir ao criminoso "a porta do arrependimento" (LE, q. 761).
-6. **Esperança histórica.** Duelos raros, tortura judicial abolida, pena de morte restrita: Kardec vê nisso o "abrandamento dos costumes" (ESE, cap. XII, item 16) e o "avanço do gênero humano na senda do progresso" (LE, q. 760, comentário). A lei de destruição é uma lei de transição.
+6. **Nenhuma violência em nome da fé.** As guerras de religião foram "as mais cruéis" (ESE, cap. XXIII, item 15), e a culpa é de quem usou o nome de Jesus para as próprias paixões. O espírita combate ideias com ideias: suas lutas são "todas de ordem moral" (ESE, cap. XXIII, item 17).
+7. **Esperança histórica.** Duelos raros, tortura judicial abolida, pena de morte restrita: Kardec vê nisso o "abrandamento dos costumes" (ESE, cap. XII, item 16) e o "avanço do gênero humano na senda do progresso" (LE, q. 760, comentário). A lei de destruição é uma lei de transição.
 
 ## Divergências
 
@@ -186,11 +205,12 @@ Não há divergência registrada entre as fontes de nível 2 a 4 e o capítulo d
 - Kardec, Allan. *O Livro dos Espíritos*. 3ª parte, cap. VI — "Lei de destruição", q. 728–765. Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/livro-dos-espiritos]].
 - Kardec, Allan. *O Evangelho segundo o Espiritismo*. Cap. XII, itens 11–16 ("O duelo"). Trad. Guillon Ribeiro. FEB. Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - Kardec, Allan. *O Evangelho segundo o Espiritismo*. Cap. I, item 2 (as duas partes da lei mosaica). Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
+- Kardec, Allan. *O Evangelho segundo o Espiritismo*. Cap. XXIII, itens 10–18 ("Não vim trazer a paz, mas a divisão"). Edição: [[raw/kardec/pentateuco/evangelho-segundo-o-espiritismo]].
 - Kardec, Allan. *O Céu e o Inferno*. 2ª parte, cap. VI — "Criminosos arrependidos" (Verger; Lemaire). Edição: [[raw/kardec/pentateuco/ceu-e-inferno]].
-- Kardec, Allan. *A Gênese*. Cap. III, item 24; cap. XVIII, item 33. FEB. Edição: [[raw/kardec/pentateuco/genese]].
+- Kardec, Allan. *A Gênese*. Cap. III, itens 21–24; cap. XVIII, item 33. FEB. Edição: [[raw/kardec/pentateuco/genese]].
 - Kardec, Allan. *Revista Espírita*, out/1863, "Da proibição de evocar os mortos". Edição: [[raw/kardec/revista-espirita/1863/10-outubro]].
 - Kardec, Allan (org.). *Revista Espírita*, mar/1866, "A lei humana" (Espírito Bonnamy pai, médium Sr. Desliens). Edição: [[raw/kardec/revista-espirita/1866/03-marco]].
-- *Novo Testamento*: Mt 5:9, 5:21-22, 24:6, 26:52.
+- *Novo Testamento*: Mt 5:9, 5:21-22, 24:6, 26:52; Lc 12:49-53.
 - XAVIER, Francisco Cândido (Emmanuel). *O Consolador*. Rio de Janeiro: FEB, 1940. Edição: [[raw/mediuns/chico-xavier/emmanuel/o-consolador]].
 - XAVIER, Francisco Cândido (André Luiz). *Nosso Lar*. Rio de Janeiro: FEB, 1944, caps. 24, 42, 43. Edição: [[raw/mediuns/chico-xavier/andre-luiz/nosso-lar]].
 - XAVIER, Francisco Cândido (André Luiz). *Ação e Reação*. Rio de Janeiro: FEB, 1957, cap. 18. Edição: [[raw/mediuns/chico-xavier/andre-luiz/acao-e-reacao]].
